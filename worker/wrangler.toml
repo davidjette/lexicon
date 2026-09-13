@@ -1,0 +1,16 @@
+name = "lexicon-editor"
+main = "src/index.js"
+compatibility_date = "2026-03-01"
+workers_dev = true
+
+[vars]
+REPO = "davidjette/lexicon"
+BRANCH = "main"
+ALLOWED_ORIGINS = "https://davidjette.github.io,http://localhost:4321"
+SITE_URL = "https://davidjette.github.io/lexicon/"
+
+# Secrets, set with `node worker/wr.mjs secret put <NAME>` or `node worker/contributors.mjs init-secrets`:
+#   GITHUB_TOKEN     fine-grained token: only davidjette/lexicon, Contents read and write
+#   SESSION_SECRET   signs sign-in sessions
+#   PASSWORD_PEPPER  keys the contributor password hashes
+#   CONTRIBUTORS     JSON list of { name, hash }, managed by contributors.mjs

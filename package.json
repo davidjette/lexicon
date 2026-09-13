@@ -14,12 +14,22 @@
     "notes": "python scripts/notes.py",
     "import:wa": "python scripts/wa_import.py",
     "build:fresh": "node -e \"for (const p of ['node_modules/.astro','.astro']) require('fs').rmSync(p,{recursive:true,force:true})\" && astro build",
-    "test:refs": "node scripts/test-sealed-refs.mjs"
+    "test:refs": "node scripts/test-sealed-refs.mjs",
+    "editor:login": "node worker/wr.mjs login",
+    "editor:deploy": "node worker/wr.mjs deploy",
+    "editor:secrets": "node worker/contributors.mjs init-secrets",
+    "editor:add": "node worker/contributors.mjs add",
+    "editor:remove": "node worker/contributors.mjs remove",
+    "editor:list": "node worker/contributors.mjs list",
+    "test:editor": "node scripts/test-editor-roundtrip.mjs",
+    "images": "node scripts/import_images.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.3",
     "astro": "^6.3.1",
+    "diff": "^8.0.4",
     "js-yaml": "^4.2.0",
+    "marked": "^16.4.2",
     "sharp": "^0.34.5",
     "unist-util-visit": "^5.1.0"
   }

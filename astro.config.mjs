@@ -65,6 +65,7 @@ export default defineConfig({
 			components: {
 				MarkdownContent: './src/components/MarkdownContent.astro',
 				PageTitle: './src/components/PageTitle.astro',
+				EditLink: './src/components/EditLink.astro',
 			},
 			routeMiddleware: './src/routeData.ts',
 			// Search (Pagefind) is built in for production builds.

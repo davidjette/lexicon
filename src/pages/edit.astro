@@ -1,0 +1,260 @@
+---
+// The contributor editor. Sign in with your own name and password; every save is a git commit.
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import editor from '../data/editor.json';
+import { getArticles, KINDS, sortArticles } from '../lib/articles';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const articles = sortArticles(await getArticles()).map((e) => ({ title: e.data.title, path: `src/content/docs/${e.id}.md`, link: `/${e.id}/` }));
+const configured = !!editor.api;
+// toolbar buttons: [label, [text before the selection, text after, placeholder]]
+const TOOLS: [string, [string, string, string]][] = [
+	['Bold', ['**', '**', 'bold text']],
+	['Italic', ['*', '*', 'italic text']],
+	['Heading', ['\n## ', '\n', 'Heading']],
+	['Quote', ['\n> ', '\n', 'A quotation']],
+	['Small print', ['<small>', '</small>', '(source)']],
+	['Redact', [':redacted[', ']{label="What this is" reason="Why it was obliviated"}', 'hidden words']],
+];
+---
+
+<StarlightPage frontmatter={{ title: 'Edit the Lexicon', description: 'Contributor editor.', tableOfContents: false, pagefind: false }}>
+	{
+		!configured ? (
+			<p>The editor is not switched on yet.</p>
+		) : (
+			<div id="lexicon-editor" data-api={editor.api} data-base={base} data-kinds={JSON.stringify(KINDS)} data-pagefind-ignore>
+				<p class="ed-bar" data-signed-in hidden>
+					Signed in as <strong data-who></strong>. <button type="button" data-sign-out>Sign out</button>
+				</p>
+
+				<section data-view="login" hidden>
+					<p>Contributors sign in with the name and password Dave gave them. Every save is recorded with your name and can be undone from the article's history.</p>
+					<form data-login class="ed-form ed-narrow">
+						<label>Name <input name="name" autocomplete="username" required /></label>
+						<label>Password <input name="password" type="password" autocomplete="current-password" required /></label>
+						<button type="submit">Sign in</button>
+						<p class="ed-status" data-login-status aria-live="polite"></p>
+					</form>
+				</section>
+
+				<section data-view="new" hidden>
+					<h2>Edit an article</h2>
+					<form class="ed-form ed-narrow" data-pick>
+						<label>
+							Find by title
+							<input name="pick" list="ed-articles" placeholder="Start typing a title" />
+						</label>
+						<button type="submit">Open</button>
+					</form>
+					<h2>Start a new article</h2>
+					<div class="ed-form ed-narrow">
+						<label>Section <select name="new-kind"></select></label>
+						<label>Title <input name="new-title" /></label>
+						<label>Web address (optional) <input name="new-slug" /></label>
+						<button type="button" data-create>Create article</button>
+						<p class="ed-status" data-new-status aria-live="polite"></p>
+					</div>
+				</section>
+
+				<section data-view="edit" hidden>
+					<p class="ed-meta">
+						<code data-edit-path></code> · <a data-view-live>View live page</a> · <a data-open-history>History</a> · <a href="?">Other articles</a>
+					</p>
+					<div class="ed-form">
+						<label>Title <input name="title" /></label>
+						<label>Description <span class="ed-hint">(one sentence, under 160 characters)</span> <input name="description" maxlength="300" /></label>
+						<label>Tags <span class="ed-hint">(comma separated)</span> <input name="tags" /></label>
+						<label>Image <span class="ed-hint">(a site path such as /images/cards/marcus.webp, or upload one below)</span> <input name="image" /></label>
+					</div>
+
+					<div class="ed-toolbar" role="toolbar" aria-label="Formatting">
+						{TOOLS.map(([label, wrap]) => <button type="button" data-wrap={JSON.stringify(wrap)}>{label}</button>)}
+						<span class="ed-linker">
+							<input name="link-to" list="ed-articles" placeholder="Link to article…" aria-label="Link to article" />
+							<button type="button" data-insert-link>Insert link</button>
+						</span>
+						<span class="ed-linker">
+							<input name="upload" type="file" accept="image/png,image/jpeg,image/webp,image/gif" aria-label="Upload image" />
+							<button type="button" data-upload>Upload image</button>
+						</span>
+					</div>
+
+					<div class="ed-split">
+						<label class="ed-body">
+							Article text <span class="ed-hint">(Markdown)</span>
+							<textarea name="body" spellcheck="true"></textarea>
+						</label>
+						<div class="ed-preview-wrap">
+							<span class="ed-label">Preview</span>
+							<div class="ed-preview sl-markdown-content" data-preview></div>
+						</div>
+					</div>
+
+					<details class="ed-advanced">
+						<summary>Other front matter (fields, sources, redaction…)</summary>
+						<textarea name="advanced" spellcheck="false"></textarea>
+					</details>
+
+					<div class="ed-save">
+						<label>What did you change? <span class="ed-hint">(optional)</span> <input name="summary" maxlength="120" /></label>
+						<button type="button" data-save class="ed-primary">Save</button>
+						<p class="ed-status" data-edit-status aria-live="polite"></p>
+					</div>
+				</section>
+
+				<section data-view="history" hidden>
+					<p class="ed-meta">
+						History of <code data-history-path></code> · <a data-history-edit>Edit</a> · <a href="?">Other articles</a>
+					</p>
+					<p class="ed-status" data-history-status aria-live="polite"></p>
+					<ol class="ed-history" data-history-list></ol>
+				</section>
+
+				<datalist id="ed-articles">
+					{articles.map((a) => <option value={a.title} data-path={a.path} data-link={a.link} />)}
+				</datalist>
+			</div>
+		)
+	}
+</StarlightPage>
+
+<script>
+	import '../scripts/editor-client';
+</script>
+
+<style is:global>
+	#lexicon-editor button {
+		font: inherit;
+		padding: 0.3rem 0.8rem;
+		border: 1px solid var(--gold, #8a6d2f);
+		border-radius: 4px;
+		background: var(--sl-color-gray-7, #ddd0b3);
+		color: var(--sl-color-white);
+		cursor: pointer;
+	}
+	#lexicon-editor button:hover {
+		background: var(--sl-color-gray-6);
+	}
+	#lexicon-editor .ed-primary {
+		background: var(--oxblood, #7a1f1f);
+		color: #f3e7cf;
+		border-color: var(--oxblood, #7a1f1f);
+		padding: 0.45rem 1.4rem;
+	}
+	#lexicon-editor input:not([type='file']),
+	#lexicon-editor select,
+	#lexicon-editor textarea {
+		font: inherit;
+		width: 100%;
+		padding: 0.35rem 0.5rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 4px;
+		background: var(--sl-color-bg);
+		color: var(--sl-color-white);
+	}
+	#lexicon-editor label {
+		display: block;
+		margin: 0 0 0.7rem;
+		font-weight: 600;
+	}
+	#lexicon-editor .ed-hint {
+		font-weight: 400;
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-3);
+	}
+	#lexicon-editor .ed-narrow {
+		max-width: 28rem;
+	}
+	#lexicon-editor .ed-status[data-kind='error'] {
+		color: #b3261e;
+		font-weight: 600;
+	}
+	#lexicon-editor .ed-status[data-kind='ok'] {
+		color: #2e6b30;
+		font-weight: 600;
+	}
+	#lexicon-editor .ed-toolbar {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.4rem;
+		margin: 0.8rem 0;
+		align-items: center;
+	}
+	#lexicon-editor .ed-linker {
+		display: inline-flex;
+		gap: 0.3rem;
+		align-items: center;
+	}
+	#lexicon-editor .ed-linker input {
+		width: 14rem;
+	}
+	#lexicon-editor .ed-split {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+		gap: 1rem;
+	}
+	#lexicon-editor .ed-body textarea {
+		min-height: 36rem;
+		font-family: var(--sl-font-mono);
+		font-size: 0.85rem;
+		line-height: 1.5;
+		font-weight: 400;
+	}
+	#lexicon-editor .ed-preview {
+		max-height: 38rem;
+		overflow: auto;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 4px;
+		padding: 0.5rem 1rem;
+		margin-top: 0.3rem;
+	}
+	#lexicon-editor .ed-label {
+		font-weight: 600;
+	}
+	#lexicon-editor .ed-sealed {
+		background: var(--sl-color-gray-6);
+		outline: 1px dashed var(--sl-color-gray-4);
+	}
+	#lexicon-editor .ed-advanced textarea {
+		min-height: 12rem;
+		font-family: var(--sl-font-mono);
+		font-size: 0.8rem;
+	}
+	#lexicon-editor .ed-save {
+		margin-top: 1rem;
+		max-width: 36rem;
+	}
+	#lexicon-editor .ed-history li {
+		margin-bottom: 1rem;
+	}
+	#lexicon-editor .ed-msg {
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+	#lexicon-editor .ed-actions {
+		display: flex;
+		gap: 0.4rem;
+		margin-top: 0.3rem;
+	}
+	#lexicon-editor .ed-diff {
+		max-height: 24rem;
+		overflow: auto;
+		font-size: 0.78rem;
+		white-space: pre-wrap;
+	}
+	#lexicon-editor .ed-add {
+		background: rgba(46, 107, 48, 0.2);
+	}
+	#lexicon-editor .ed-del {
+		background: rgba(179, 38, 30, 0.2);
+		text-decoration: line-through;
+	}
+	#lexicon-editor .ed-same {
+		color: var(--sl-color-gray-4);
+	}
+	#lexicon-editor .ed-confirm {
+		color: #b3261e;
+		font-weight: 600;
+	}
+</style>

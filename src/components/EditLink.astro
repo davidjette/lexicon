@@ -1,0 +1,41 @@
+---
+// Starlight override: "Edit this page" and "History" open the Lexicon's own editor, once it is switched on.
+import { Icon } from '@astrojs/starlight/components';
+import editor from '../data/editor.json';
+
+const route = Astro.locals.starlightRoute;
+const isArticle = !!route.entry?.data?.kind && route.id.includes('/');
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const path = `src/content/docs/${route.id}.md`;
+---
+
+{
+	editor.api && isArticle && (
+		<span class="lx-edit sl-flex print:hidden">
+			<a href={`${base}/edit/?path=${encodeURIComponent(path)}`} class="sl-flex">
+				<Icon name="pencil" size="1.2em" />
+				Edit this page
+			</a>
+			<a href={`${base}/edit/?history=${encodeURIComponent(path)}`} class="sl-flex">
+				<Icon name="clock" size="1.2em" />
+				History
+			</a>
+		</span>
+	)
+}
+
+<style>
+	.lx-edit {
+		gap: 1.2rem;
+		flex-wrap: wrap;
+	}
+	a {
+		gap: 0.5rem;
+		align-items: center;
+		text-decoration: none;
+		color: var(--sl-color-gray-3);
+	}
+	a:hover {
+		color: var(--sl-color-white);
+	}
+</style>

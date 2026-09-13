@@ -27,3 +27,10 @@ Thumbs.db
 
 # private DM canon register: its own local git repo, never pushed
 canon/
+
+# editor worker: personal Cloudflare login and local secrets, never committed
+worker/.wrangler-home/
+worker/.wrangler/
+worker/.secrets.json
+worker/.contributors.json
+worker/.dev.vars

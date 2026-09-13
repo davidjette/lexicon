@@ -28,6 +28,24 @@ After a clone, turn on the hook that refuses to commit a note to Claude:
 git config core.hooksPath .githooks
 ```
 
+## Contributors and the browser editor
+
+Named contributors (Nico and others) sign in at `/edit/` with their own password and edit articles in
+the browser. Every save is a commit with their name; each article's History shows every version and
+restores any of them. Setup and contributor management: `worker/README.md`. Their edits go live at once,
+so pull and run `npm run qa` regularly (the leak check only runs on Dave's machine).
+
+## Images and maps
+
+Articles take `image: {src, alt, caption}` (shown in the infobox) and `gallery:`. Images live in
+`public/images/`: `cards/` (ally cards), `site/` (campaign site), `maps/` (60 maps, each with a page
+under `/maps/`), `uploads/` (browser editor). `npm run images` re-imports from the source folders.
+
+## Front page
+
+Article of the day (the same for everyone each day; 600+ words, not a session, not sealed), section
+tiles, the latest sessions, recently updated articles with who changed them, and maps.
+
 ## Notes to Claude
 
 Leave an instruction for Claude inside an article, as an HTML comment:
