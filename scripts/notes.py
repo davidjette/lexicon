@@ -74,6 +74,7 @@ Hard rules:
 - Keep the front matter valid YAML with the same keys. Keep `description` to one sentence under 160
   characters, and update it if the lead changes what the subject is.
 - Obliviated content is sealed with a redaction, never deleted (see the STYLE addendum).
+- Add no tag, hatnote or marker (such as "Recovered from the Oblivia.") that the note, the article or a source does not call for.
 - If a note cannot be carried out as written (it contradicts CANON, it needs a source that does not
   exist, it would publish DM-only or unrevealed material), do not carry out that note and do not delete
   it, and explain why on a line beginning "UNRESOLVED:".

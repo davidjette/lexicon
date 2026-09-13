@@ -56,7 +56,7 @@ In Arc IV she was one of the assault team that went against the House of Nimbus 
 
 ## Chronocypher
 
-At [Refuge](/places/refuge/), Stonecypher met June, the Infanta at Refuge and the incarnation of Istus, and became **Chronocypher**, a warlock of time. At [R'lyeh](/places/rlyeh/) she was plugged into the mind of Zoth. At the end of time the dying goddess June named Chronocypher her successor, the Watcher, and told her that Time itself is the Obliviator ([Arc V](/history/arc-v-starfall/)).
+At [Refuge](/places/refuge/), Stonecypher met [June](/people/the-infanta-of-time/), the Infanta at Refuge and the incarnation of Istus, and became **Chronocypher**, a warlock of time. At [R'lyeh](/places/rlyeh/) she was plugged into the mind of Zoth. At the end of time the dying goddess June named Chronocypher her successor, the Watcher, and told her that Time itself is the Obliviator ([Arc V](/history/arc-v-starfall/)).
 
 ## Split in time
 
