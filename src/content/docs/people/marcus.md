@@ -50,6 +50,8 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/8 - End of the Infanta/END OF THE INFANTA - notes for a final encounter.docx
 - CANON.md 5d (the DM's account, 2026-09-10)
+- sources/dave/2026-09-13-fates-june-saharel.md
+- Dave, note of 2026-09-13
 published: '2026-09-10'
 wa:
   slug: marcus-person
@@ -139,6 +141,10 @@ They arrive together at the last battle, after the severed head of Asmodeus. Mar
 > We have completed our task, and returned Death to its natural rule. But we could not ignore your cause again. So we have come to join your fight, and we have brought some of your friends.
 
 The record notes that "Marcus smiles for the first time you have ever seen." The friends stepping out of the land of the Dead behind them are Obi, Jeggings, Holden Tudyx, **the Orcs who served [the Chronicle](/items/the-chronicle/)**, and a sheepish **Flex Gimble**, "barely recognizable as such, his face long since replaced by a bronze mask and his limbs replaced with six mechanical multiarticulated prosthesis." <small>(Sic on "prosthesis." End of the Infanta, notes for a final encounter.)</small>
+
+<small>Recovered from the Oblivia.</small>
+
+The sisters were at [the Egg](/places/the-egg/) twice. They came once as Marcus and [the Lady of Pain](/people/the-lady-of-pain/) from the present, and once as [the Saharel twins](/people/aurora-and-astra-saharel/), young women of Netheril, from Antiquity in the second loop. The party went back in time and recruited allies for the Egg; some of those allies were allies, and some enemies, in their own timeline's future.
 
 ---
 
