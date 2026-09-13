@@ -1,26 +1,28 @@
 ---
 title: Sharn Ep 2 — POSÉ
 description: The trio work the grand opening of Richard Blaze's restaurant Posé, abduct Sister Nora, and watch Esther Crona execute prisoners live.
+tags:
+  - Sharn Ep 2
+  - POSÉ
+  - Pose
+  - Richard Blaze
+  - Sister Nora
+  - Project EDEN
+  - Candice Kurt
+  - Cogborn
+  - Esther Crona
+  - Ghost Chip
+  - Black Doves
+image:
+  src: /images/uploads/chatgpt-image-sep-13-2026-03-47-32-pm-mu0engob.webp
 sidebar:
   order: 202
 type: report
 kind: sessions
-tags:
-- Sharn Ep 2
-- POSÉ
-- Pose
-- Richard Blaze
-- Sister Nora
-- Project EDEN
-- Candice Kurt
-- Cogborn
-- Esther Crona
-- Ghost Chip
-- Black Doves
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-2-E28094-posE-report
