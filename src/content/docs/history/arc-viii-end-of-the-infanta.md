@@ -38,6 +38,8 @@ sources:
 - Desktop/infantaverse-wiki/src/content/docs/events/end-of-the-infanta.mdx
 - Desktop/D&D/Temple Holdings LLC/8 - End of the Infanta/END OF THE INFANTA - notes for a final encounter.docx
 - Desktop/D&D/Temple Holdings LLC/8 - End of the Infanta/Ally Print.docx
+- sources/dave/2026-09-13-fates-june-saharel.md
+- Dave, note of 2026-09-13
 published: '2026-09-10'
 wa:
   slug: arc-viii-E28094-end-of-the-infanta-plot
@@ -56,7 +58,11 @@ At the **Crack** in the Egg's side, the assembled host of every age — present 
 
 > Immediately following, the severed head of Asmodeus levitates a resplendent twelve-foot-tall masked woman covered in a symmetrical pattern of gold and silver blades, thick wet with the blood and bile of devils. On her shoulder rides a slight, pale and dark-haired child, and on their shoulder, a jet black raven.
 
-The **Lady of Pain** and her sister [Marcus, the Raven Queen](/people/marcus/), have slain Asmodeus and reclaimed the rule of Death — and bring with them the fallen, returned from the land of the dead: Obi, Jeggings, Holden Tudyx, "the Orcs who served the [Chronicle](/items/the-chronicle/)," and a sheepish **Flex Gimble**, "his face long since replaced by a bronze mask and his limbs replaced with six mechanical multiarticulated prosthesis," bowing in welcome. <small>(End of the Infanta, notes for a final encounter. The ally cards name the orcs "Cypheric Orcs" (Ally Print).)</small> Three Infantas — [Elistrae](/people/elistrae/), Eloise and Tymora — part the final fold, and the ship presses into a womb that spasms to reject it, the god's chant swelling from a whisper to a deafening presence: *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.*
+The **Lady of Pain** and her sister [Marcus, the Raven Queen](/people/marcus/), have slain Asmodeus and reclaimed the rule of Death — and bring with them the fallen, returned from the land of the dead: Obi, Jeggings, Holden Tudyx, "the Orcs who served the [Chronicle](/items/the-chronicle/)," and a sheepish **Flex Gimble**, "his face long since replaced by a bronze mask and his limbs replaced with six mechanical multiarticulated prosthesis," bowing in welcome. <small>(End of the Infanta, notes for a final encounter. The ally cards name the orcs "Cypheric Orcs" (Ally Print).)</small>
+
+The host at the Egg was recruited from across time: the party went back in time and brought allies to the Egg, some of whom had been allies, and some enemies, in their own timeline's "future". The Saharel sisters were present twice, as Marcus and the [Lady of Pain](/people/the-lady-of-pain/) from the "present", and as the [Saharel twins](/people/aurora-and-astra-saharel/), young women of Netheril, from Antiquity in the second loop.
+
+Three Infantas — [Elistrae](/people/elistrae/), Eloise and Tymora — part the final fold, and the ship presses into a womb that spasms to reject it, the god's chant swelling from a whisper to a deafening presence: *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.*
 
 ## The Lost Train
 
