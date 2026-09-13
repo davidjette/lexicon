@@ -1,5 +1,5 @@
 {
-  "name": "infantaverse-wiki",
+  "name": "lexicon",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -7,11 +7,17 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "qa": "python scripts/qa.py",
+    "qa:test": "python scripts/test_qa.py",
+    "links": "python scripts/check_links.py",
+    "notes": "python scripts/notes.py",
+    "import:wa": "python scripts/wa_import.py"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.3",
     "astro": "^6.3.1",
-    "sharp": "^0.34.5"
+    "sharp": "^0.34.5",
+    "unist-util-visit": "^5.1.0"
   }
 }

@@ -1,0 +1,81 @@
+---
+// Starlight override: seals the whole body of an article whose front matter sets `redacted`.
+import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+import '../styles/redacted.css';
+
+const redacted = Astro.locals.starlightRoute?.entry?.data?.redacted;
+const tip = redacted ? `Obliviated: ${redacted.label}. Click to reveal` : '';
+---
+
+{
+	redacted ? (
+		<Default>
+			<div
+				id="redaction-article"
+				class="redacted redacted--block redacted--article"
+				role="button"
+				tabindex="0"
+				aria-expanded="false"
+				aria-label={tip}
+				title={tip}
+				data-redaction-id={Astro.locals.starlightRoute.id.split('/').pop()}
+				data-pagefind-ignore
+			>
+				<slot />
+			</div>
+		</Default>
+	) : (
+		<Default>
+			<slot />
+		</Default>
+	)
+}
+
+<script>
+	const SEALED = '.redacted[aria-expanded="false"]';
+
+	function reveal(el: HTMLElement) {
+		el.setAttribute('aria-expanded', 'true');
+		el.removeAttribute('role');
+		el.removeAttribute('aria-label');
+		el.removeAttribute('title');
+		el.removeAttribute('tabindex');
+		el.querySelectorAll<HTMLElement>('[data-redacted-tabindex]').forEach((a) => {
+			a.removeAttribute('tabindex');
+			a.removeAttribute('data-redacted-tabindex');
+		});
+	}
+
+	// links inside a sealed redaction are not reachable until it is revealed
+	document.querySelectorAll<HTMLElement>(SEALED).forEach((el) => {
+		el.querySelectorAll<HTMLElement>('a, button, input, [tabindex]').forEach((a) => {
+			a.setAttribute('tabindex', '-1');
+			a.setAttribute('data-redacted-tabindex', '');
+		});
+	});
+
+	document.addEventListener(
+		'click',
+		(e) => {
+			const el = (e.target as Element | null)?.closest<HTMLElement>(SEALED);
+			if (!el) return;
+			e.preventDefault();
+			e.stopPropagation();
+			reveal(el);
+		},
+		true,
+	);
+
+	document.addEventListener('keydown', (e) => {
+		if (e.key !== 'Enter' && e.key !== ' ') return;
+		const el = document.activeElement as HTMLElement | null;
+		if (!el?.matches(SEALED)) return;
+		e.preventDefault();
+		reveal(el);
+	});
+
+	// arriving from the Sealed Records registry: scroll to the redaction without revealing it
+	if (location.hash.startsWith('#redaction-')) {
+		document.getElementById(location.hash.slice(1))?.classList.add('redacted--target');
+	}
+</script>

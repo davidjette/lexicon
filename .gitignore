@@ -5,6 +5,7 @@ dist/
 
 # dependencies
 node_modules/
+__pycache__/
 
 # logs
 npm-debug.log*
@@ -23,3 +24,6 @@ pnpm-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+
+# private DM canon register: its own local git repo, never pushed
+canon/

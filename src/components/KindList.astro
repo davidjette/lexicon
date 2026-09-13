@@ -1,0 +1,39 @@
+---
+import { getArticles, KINDS } from '../lib/articles';
+
+const all = await getArticles();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const kinds = Object.entries(KINDS).map(([kind, label]) => ({
+	kind,
+	label,
+	count: all.filter((e) => e.data.kind === kind).length,
+}));
+---
+
+<ul class="kind-list">
+	{
+		kinds.map((k) => (
+			<li>
+				<a href={`${base}/${k.kind}/`}>{k.label}</a> <span>{k.count}</span>
+			</li>
+		))
+	}
+	<li><a href={`${base}/sealed-records/`}>Sealed Records</a></li>
+</ul>
+
+<style>
+	.kind-list {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+		gap: 0.5rem 1.5rem;
+	}
+	.kind-list a {
+		font-weight: 600;
+	}
+	.kind-list span {
+		color: var(--sl-color-gray-4);
+		font-size: var(--sl-text-sm);
+	}
+</style>

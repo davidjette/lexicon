@@ -2,6 +2,19 @@
 
 A working log for the wiki build, so any session can pick up where the last left off.
 
+## 2026-09-12: The Lexicon, step one (branch `lexicon`, not pushed)
+The site is now **The Lexicon**, built from the frozen World Anvil corpus (`C:\dev\sharn-campaign\worldanvil`).
+World Anvil is frozen; markdown here is the source of truth. Plan: `~/.claude/plans/what-s-the-status-of-sparkling-snail.md`.
+- `python scripts/wa_import.py` converts 404 BBCode+JSON articles to `src/content/docs/<kind>/<slug>.md`.
+  Re-runnable; it refuses to overwrite a file edited since import (hashes in `docs/import-manifest.json`).
+- `python scripts/corpus_report.py` → `docs/corpus-report.md`. `python scripts/check_links.py` after a build.
+- Kinds (folders) come from `scripts/wa_common.py` `KIND_OF_TYPE`. Albert Spear is linked 9 times but has no article.
+- **Redactions** (obliviated content): `:redacted[text]{id="…" label="…" reason="…" source="…"}` inline,
+  `:::redacted{…}` … `:::` block, `redacted: {label, reason, source}` front matter for a whole article.
+  Registry at `/sealed-records/` and `/redactions.json`. Duplicate ids fail the build. Example page:
+  `lore/redaction-test.md` (draft, dev only). Stonecypher is the first sealed article.
+- The June pages (below) moved to `legacy/docs/` for later merge; the WA corpus superseded them.
+
 ## What this is
 Astro + Starlight community wiki for **The Infantaverse**, a shared D&D multi-campaign setting.
 - Theme: parchment/"midnight archive" via `src/styles/homebrewery.css`.

@@ -2,45 +2,47 @@ import { defineCollection, z } from 'astro:content';
 import { docsLoader } from '@astrojs/starlight/loaders';
 import { docsSchema } from '@astrojs/starlight/schema';
 
-// Infantaverse wiki frontmatter, layered on top of Starlight's docs schema.
-// SOURCING POLICY: every lore article must carry `sources` (real user files)
-// or be marked user-directed. `check_sources` (tools/) audits this at build time.
-const infantaverse = z.object({
-	/** Alternate names / titles the subject is known by. */
-	aka: z.array(z.string()).default([]),
-	/** Entity kind, e.g. "Player Character", "Infanta", "Faction", "Location", "Artifact". */
-	entityType: z.string().optional(),
-	/** Which canon campaign(s) this belongs to. */
-	setting: z
-		.array(z.enum(['temple-holdings', 'dead-mans-hand', 'starfall-tng', 'arcaneum', 'shared']))
-		.default(['shared']),
-	/** In-world dating (free text, e.g. "1491 DR"). */
-	era: z.string().optional(),
-	/** e.g. "Alive", "Dead", "Erased (Oblivia)", "Unknown". */
-	status: z.string().optional(),
-	affiliations: z.array(z.string()).default([]),
-	location: z.string().optional(),
-	/** Arc / session where the subject first appears. */
-	firstAppearance: z.string().optional(),
-	/** Infobox / hero image path under /public or src/assets. */
-	image: z.string().optional(),
-	/** Gallery image paths. */
-	gallery: z.array(z.string()).default([]),
-	/** Whether the subject is lore erased/forgotten by the Oblivia. */
-	oblivia: z.boolean().default(false),
-	/**
-	 * SOURCING (required for lore). List the exact source files/passages this
-	 * article draws from, or the single token "user-directed". Structural pages
-	 * (home, category indexes) may use "structural".
-	 */
+// The Lexicon front matter, layered on Starlight's docs schema. It is shaped to the World Anvil
+// import as it stands (scripts/wa_import.py, docs/corpus-report.md) rather than an ideal model.
+// The slug is the file name; the folder is the kind.
+const lexicon = z.object({
+	/** Original World Anvil type, e.g. "person", "building / landmark". */
+	type: z.string().optional(),
+	/** Normalized kind, which is also the content folder. */
+	kind: z.enum(['people', 'places', 'organizations', 'history', 'sessions', 'items', 'lore', 'species']).optional(),
+	tags: z.array(z.string()).default([]),
+	/** Font Awesome icon name carried over from World Anvil. */
+	icon: z.string().optional(),
+	/** World Anvil template fields, kept as a flat map (172 distinct keys across types). */
+	fields: z.record(z.string(), z.string()).default({}),
+	/** Source files this article draws on. */
 	sources: z.array(z.string()).default([]),
 	/** Set true for a placeholder awaiting source material. */
 	needsSource: z.boolean().default(false),
+	published: z.string().optional(),
+	/** Provenance from World Anvil. */
+	wa: z
+		.object({
+			slug: z.string().optional(),
+			uuid: z.string().optional(),
+			category: z.string().optional(),
+			note: z.string().optional(),
+			image_card: z.string().optional(),
+		})
+		.optional(),
+	/** Seals the whole article as obliviated. */
+	redacted: z
+		.object({
+			label: z.string(),
+			reason: z.string().optional(),
+			source: z.string().optional(),
+		})
+		.optional(),
 });
 
 export const collections = {
 	docs: defineCollection({
 		loader: docsLoader(),
-		schema: docsSchema({ extend: infantaverse }),
+		schema: docsSchema({ extend: lexicon }),
 	}),
 };

@@ -1,0 +1,41 @@
+---
+// Registry of every redaction on the site. Lists where each one is and why; never the hidden text.
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { getRedactions } from '../lib/articles';
+
+const records = await getRedactions();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<StarlightPage frontmatter={{ title: 'Sealed Records', description: 'Every obliviated record in the Lexicon.', tableOfContents: false }}>
+	<p>
+		{records.length} sealed records. Machine-readable list: <a href={`${base}/redactions.json`}>redactions.json</a>.
+	</p>
+	<div class="sealed-table">
+		<table>
+			<thead>
+				<tr><th>Record</th><th>Article</th><th>Scope</th><th>Label</th><th>Reason</th><th>Source</th></tr>
+			</thead>
+			<tbody>
+				{
+					records.map((r) => (
+						<tr>
+							<td><a href={r.url}><code>{r.id}</code></a></td>
+							<td>{r.title}</td>
+							<td>{r.scope}</td>
+							<td>{r.label ?? ''}</td>
+							<td>{r.reason ?? ''}</td>
+							<td>{r.source ? <code>{r.source}</code> : ''}</td>
+						</tr>
+					))
+				}
+			</tbody>
+		</table>
+	</div>
+</StarlightPage>
+
+<style>
+	.sealed-table {
+		overflow-x: auto;
+	}
+</style>

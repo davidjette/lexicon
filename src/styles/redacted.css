@@ -1,0 +1,82 @@
+/* Redactions: obliviated content, sealed behind a black bar until revealed. */
+
+.sl-markdown-content .redacted[aria-expanded='false'] {
+	background: var(--ink, #1b1610);
+	color: transparent;
+	border-radius: 2px;
+	cursor: pointer;
+	user-select: none;
+	-webkit-user-select: none;
+	box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
+	transition: background-color 120ms ease;
+}
+
+:root[data-theme='dark'] .sl-markdown-content .redacted[aria-expanded='false'] {
+	background: #000;
+	outline: 1px solid var(--sl-color-gray-5);
+}
+
+/* everything inside is blacked out too: links, emphasis, small print, quote bars, table rules */
+.sl-markdown-content .redacted[aria-expanded='false'] * {
+	color: transparent !important;
+	text-decoration-color: transparent !important;
+	border-color: transparent !important;
+	background: transparent !important;
+}
+
+.sl-markdown-content .redacted[aria-expanded='false'] img {
+	visibility: hidden;
+}
+
+.sl-markdown-content .redacted[aria-expanded='false']:hover {
+	background: var(--oxblood, #7a1f1f);
+}
+
+.sl-markdown-content .redacted[aria-expanded='false']:focus-visible {
+	outline: 2px solid var(--sl-color-accent);
+	outline-offset: 2px;
+}
+
+.sl-markdown-content .redacted--block[aria-expanded='false'] {
+	display: block;
+	padding: 0.5rem 0.75rem;
+}
+
+/* the article seal carries a visible stamp so the black page reads as intentional */
+.sl-markdown-content .redacted--article[aria-expanded='false'] {
+	position: relative;
+	min-height: 8rem;
+}
+
+.sl-markdown-content .redacted--article[aria-expanded='false']::before {
+	content: 'OBLIVIATED \00B7  click to reveal';
+	position: absolute;
+	top: 0.75rem;
+	left: 50%;
+	transform: translateX(-50%);
+	color: var(--parchment, #efe6d2);
+	font-family: 'Spectral SC', var(--sl-font);
+	letter-spacing: 0.15em;
+	font-size: var(--sl-text-sm);
+	white-space: nowrap;
+}
+
+.sl-markdown-content .redacted[aria-expanded='true'] {
+	background: color-mix(in srgb, var(--sl-color-gray-6) 45%, transparent);
+	border-radius: 2px;
+	box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
+}
+
+.sl-markdown-content .redacted--block[aria-expanded='true'] {
+	display: block;
+	padding: 0.5rem 0.75rem;
+	border-left: 3px solid var(--sl-color-gray-5);
+}
+
+.sl-markdown-content .redacted--target {
+	scroll-margin-top: 6rem;
+	outline: 2px dashed var(--sl-color-accent);
+	outline-offset: 3px;
+}

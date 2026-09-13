@@ -1,0 +1,121 @@
+---
+title: Arc IV — The Infernal Machines
+description: 'The war moves off the world: into Sigil to break the Company''s interplanar empire, and to learn what Wainwright St. Cloud truly is and what he means to wake.'
+sidebar:
+  order: 4
+type: event
+kind: history
+tags:
+- The Infernal Machines
+- Arc IV
+- Temple Holdings LLC
+- Sigil
+- City of Doors
+- Dox
+- Old Man's House
+- Alphalpha Beginnigin
+- Lady of Pain
+- Soul Syphon
+- Mammon Machine
+- Anachron
+- Perfect Dark
+- Infantaverse
+- Lex
+- Lexicon
+- Brightmantle
+- Arielle
+icon: fa-gears
+fields:
+  campaign: Temple Holdings LLC
+  era: The Time of Troubles deepens
+  region: Sigil, the City of Doors; the Old Man's House
+  status: Complete
+  follows: Arc III — Age of the Infanta
+  leadsInto: Arc V — Starfall
+sources:
+- Desktop/infantaverse-wiki/src/content/docs/events/the-infernal-machines.mdx
+- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part II.docx
+- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part III.docx
+- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part IV.docx
+- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
+- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - SCTC Archives.docx
+- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/Over the intercom.docx
+published: '2026-09-10'
+wa:
+  slug: arc-iv-E28094-the-infernal-machines-plot
+  category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+---
+
+**Campaign Arc · Temple Holdings LLC, Arc IV · Sigil, the City of Doors · Complete**
+
+*Opens at:* a Motherstone starving without its mind · *The enemy:* the Company's interplanar machine-empire · *Follows:* [Arc III — Age of the Infanta](/history/arc-iii-age-of-the-infanta/) · *Leads into:* [Arc V — Starfall](/history/arc-v-starfall/)
+
+**Arc IV — The Infernal Machines** is the fourth campaign arc of [Temple Holdings LLC](/lore/temple-holdings-llc/), set in **Sigil, the City of Doors**, and it is complete. It opens on a Motherstone starving without its mind: with the moonstone cut off and the Second Battle of Motherstone won, the heroes carry the fight to the heart of the Company's power to break the machine-empire [Wainwright St. Cloud](/people/wainwright-st-cloud/) built from the bones of Motherstone. There they learn what the Infernal Machines are, who St. Cloud is, and the cosmic horror he is racing to wake. The arc follows [Arc III — Age of the Infanta](/history/arc-iii-age-of-the-infanta/) and leads into [Arc V — Starfall](/history/arc-v-starfall/).
+
+## A city without its mind
+
+Motherstone is dying of its own miracle. The [Lexicon](/items/the-lexicon/) is still broken, and the city built around it cannot function:
+
+> Citizens of Motherstone had grown accustomed to a lifestyle aided by magical technology, from teaching their children, moving them around, to managing the architecture of the city itself. Now that lifestyle is in shambles, and conflict is breaking out between ethnic and class groups. The city is ripping at the seams.
+
+[Elistrae](/people/elistrae/), cut off from her worshippers across the universe with the Lexicon dark, falls into grief and desperation — invading the party's dreams night after night, raiding their memories for how St. Cloud broke the city and where he might be found. [Roland](/people/roland-deschain/) suffers worst: she forces him again and again through the unrememberable moment in his father's gunshop, the box St. Cloud could not open, and the murder he cannot recall. The machines, the heroes realise, are the only road left.
+
+Lex — the Lexicon, housed since the Second Battle of Motherstone in the [Anachron](/items/the-anachron/) and travelling with the party — gives the measure of what she has lost. In the record's words: "Lex explains that when he was in his fullest form, Ella would talk to him every night, asking about his construction and details of the city, hanging on to any detail about her lost love and his designs. Now that the Lexicon is broken, she is cutoff from moon worshipers all across the Universe, and she is desperate to repair it and complete Brightmantle's vision of a City of Infanta, a holy arc through the Time of Troubles." The Lexicon was built by [Brightmantle](/people/brightmantle/) and carries his personality and intelligence. <small>(Sic on "cutoff." Arc IV Part II, "Order of Awakening." In the same session Magnus has "a burgeoning congregation of Brightmantle worshipers" in the city.)</small>
+
+## The City of Doors
+
+The Company's true empire was never on the Sword Coast. It is in [Sigil](/places/sigil/), the impossible city at the centre of the multiverse:
+
+> Perched atop an impossibly tall formation of rock, earth and soil sits the most central city on the most central point of all of existence… The City of Doors sits at a nexus of interplanar energy, a shattering of the multiverse where portals to other worlds and even the depths of hell are tucked into windows, doorways, potholes, and street signs. Each of these portals requires a key or phrase to activate them, and these secrets are the currency of this city.
+
+And Sigil is drowning. With the gods vanishing into mortal Infantas, the outer planes are collapsing, and their residents flee to the one working port — the Company's. The brutal, cube-shaped **Modrons** check every refugee's papers and herd the rest back to dying demiplanes: *"Despite their protestation and physical resistance… Port Somewhere is now an industrial interplanar deportation machine."*
+
+At the centre stands **St. Cloud Tower**, staffed entirely by **Dox** — the changeling collective, dozens of them, each dressed and faced exactly like Wainwright St. Cloud, who "kick off and relax after closing time, when they change their clothes and assume all manner of anonymous forms to sneak out into the city." Their chief, **Dox Prime**, alone travels to and from the Boss in person. Behind a portrait of St. Cloud in the executive suite, opened by a silver key, lies his true lair: the **Old Man's House**.
+
+### What the Company learned — the Infernal Machines
+
+<small>Recovered from the Oblivia.</small> The Company's own archives lay it bare. The Infernal Machines are "much older than human civilization, possibly millions of years old," built by "beings who traveled the border between the Deep Realms of the Astral Sea and the Elemental Plane of Water." The Company spent a generation reverse-engineering them:
+
+- **The Obliviator** — the engine of forgetting, never controlled, only *read*: the Company learned to ride its leylines "to transmit magic energy and information across great distances and even between the planes," and built that power into every consumer device they sell.
+- **The Lexicon** — overridden via a stolen Palantir and routed to an administrative key shaped to match Netherese designs, so it might one day be bridged to the Mammon Machine and "broadcast… into the minds of every sentient being within a few hundred feet of a compatible Company product."
+- **The Soul Syphon** — a machine to entrap souls, which the Company tried to miniaturise "to remove the souls of the Infanta and contain them inside of Perfect Moonstones."
+- **The Mammon Machine** — the Netherese vessel of the captured god of death, buried miles deep in the Anauroch.
+- **The Anachron** — an elemental drive that warps space into temporary portals, the heart of the Company's airships — and, the legends claim, *time itself*, though that would need "a perfect moonstone so far beyond its half life that it was twice as old as the oldest moonstone on Faerûn." The researchers called that hypothetical Phase V **Perfect Dark**. See [The Anachron](/items/the-anachron/).
+
+### Lex and the drive
+
+"Lex reports his findings after experiments with the transplanar drive." A jump within the current plane expends one Power Stone; a jump from the Gate Ring draws that energy from the city's reserves for free; a jump to another plane expends one Perfect Stone and one Power Stone, and "the anachron writes volumous and important data to the perfect stone before executing the jump. This renders the stone only good for jumping between these two points in each plane." Interplanar jumping cannot use the city's power. He also explains why the drive's power over time was never reached: the theory "would require a store of information that is unfathomable." <small>(Sic on "volumous." Arc IV Part II, "Planar Fascination." The full quotation and the economics of the drive are at [The Anachron](/items/the-anachron/).)</small>
+
+The work goes on aboard the ship: "Magnus, Pim, Zanzibar and Maximillian are on the ship. Zanzibar and Maximillian are reviewing intelligence about the situation in Cormanthor, and Pim and Magnus are working with Lex on the Anachron when Nub Clitman runs in." <small>(Arc IV Part V, "At the Ship.")</small>
+
+## The Old Man's House
+
+The assault splits the party across Sigil — the **House of Nimbus** (where the lone surviving Warforged is the unit called **XIII**), **Starfall Tower**, and, through the portrait, the Old Man's House itself. It is no office but a palace older than memory: an endless backward hallway, a Central Gallery of god-scaled treasures ("Medusa Herself… an anvil from the forges of the first Infanta of Moradin"), and everywhere, emblazoned on the walls, the same symbol that marked the iron seal beneath Motherstone. In the upstairs studio, among half-built machines, hang paintings that should not exist:
+
+> Other paintings contain something hard to believe — faces and bodies of heroes through the ages, some of them unfamiliar, but many have the same eyes and faces of you yourself… you find yourselves over and over again, in slightly different versions which tip perilously into the uncanny valley.
+
+A great portrait overlooks it all: a sorceress in flight, the moon exploding into blue shards above her, her face [Kara's](/people/kara/) — but her eyes green.
+
+### Who Wainwright St. Cloud really is
+
+<small>Recovered from the Oblivia.</small> The man calling himself Wainwright St. Cloud is far older than the Company. His own earliest memo claims an inheritance from a dead man named **Alphalpha Beginnigin** — "Prior to his tragic death, we secured power of attorney over his estate" — and then, of House Nimbus's reluctance to surrender Beginnigin's machines:
+
+> We have clear legal right to any items they are storing on behalf of Beginnigin. We can sign his name for godsake! We ARE. HIM.
+
+It is literally true. The **Lady of Pain**, ruler of Sigil — and, it emerges, the sister of the death-god [Marcus](/people/marcus/) — confirms it: *"Alphalpha Beginnigin and Wainwright St. Cloud are one (and) the same… He destroyed me and let Asmodeus take the land of the dead. He's doing the same thing here."* St. Cloud is an immortal who has lived through fall after fall, and who, the dead insist, "caused both the First and Second Fall. Now he will trigger the Third."
+
+## What he means to wake
+
+Cornered, Dox Prime gives up the design the whole Company has served. The point of the overridden Lexicon, the broadcast rings, the buried [Mammon Machine](/items/the-mammon-machine/) — all of it — is a single announcement:
+
+> When he activates the Mammon Machine, every one of those will broadcast the good news to the world… Soon everyone across the planes will know the cosmic oblivion that beats at the heart of the universe. Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn. Leviathan is coming. May it know that I helped it come to be.
+
+The Lady of Pain purges the demons from Sigil, banishes Marcus — "her sister," in the record's word — to the maze of Despondos, and burns the Old Man's House to ash in "a blaze of radioactive starlight" — but not before naming the heroes' purpose: *"Do not destroy these fools. It's their destiny to destroy the Traveler. That's why we failed. We were never meant to be."*
+
+## Into Arc V
+
+St. Cloud's own taunt, heard over the Company's intercom, confirms what the paintings and the [Anachron](/items/the-anachron/) imply — that the heroes are creatures of a bent timeline:
+
+> Unless a little goddess of time has been altering the flow of time for me, locking me in some kind of relative loop that gave the destined heroes an opportunity to catch up? Very clever, June. Someone must have paid a hefty price for this, possibly an entire town of someones, over and over again?
+
+With the Company broken but its master fled toward the Mammon Machine, and a goddess of time quietly rewriting the world to give the heroes their chance, the chronicle leaps off the world and into the deep past — to the night the moon broke — in [Arc V — Starfall](/history/arc-v-starfall/).

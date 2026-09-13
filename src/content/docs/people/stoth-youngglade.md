@@ -1,0 +1,117 @@
+---
+title: Stoth Youngglade
+description: The rogue who blackmailed his way onto the team, staked out the Excelsior, buried his loot in an unknown Westphal tomb, and never returned from the deep past.
+type: person
+kind: people
+tags:
+- Stoth Youngglade
+- Stoth
+- Youngglade
+- Rogue
+- Thief
+- Temple Holdings LLC
+- Caer Westphal
+- Excelsior
+- House of Nimbus
+- Dust of Disappearance
+- R'lyeh
+- Starfall
+- Infantaverse
+icon: fa-user-ninja
+fields:
+  rpgAlignment: Chaotic Neutral
+  ggmtitle: Unknown - he claims none
+  dobDisplay: Unknown
+  birthplace: Unknown
+  children: Unknown
+  residence: An unknown tomb in Westphal holds his wealth; he has no home on record
+  gender: Male
+  age: Unknown
+  eyes: Unknown
+  hair: Unknown
+  skin: Unknown
+  height: Unknown
+  weight: Unknown
+sources:
+- Desktop/D&D/Temple Holdings LLC/Character Sheets/CS JACK - LV 6.pdf
+- Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VI.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part VI.docx
+- Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part I.docx
+- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
+- Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part I.docx
+- Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part III.docx
+published: '2026-09-10'
+wa:
+  slug: stoth-youngglade-person
+  category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+---
+
+**Human · Rogue (Thief), Level 6 · Temple Holdings LLC, on terms · Chaotic Neutral · Missing in the deep past**
+
+*Also known as:* Stoth
+
+**Stoth Youngglade** is a human rogue attached to Temple Holdings LLC by contract rather than oath. A shady and wily man, he turned up in Harloch once the heroes came into money and opened the relationship by explaining that he was not the only one who knew about their good fortune and that his silence had a price. He went on selling the party reconnaissance: the ambush waiting for them, the fall of Caer Westphal, and the stake-out of the **Excelsior** that let [Drefan](/people/drefan/) take the ship. Between adventures he buried his loot in an unknown tomb in Westphal. When the party scattered through time he went with Magnus, Cypher and Yoshi to find the Aboleth city, and none of them returned.
+
+## Bearing and arms
+
+No physical description survives. Human, Chaotic Neutral, criminal-and-spy background. AC 14, 36 hit points, STR 16 and DEX 16 both, with **expertise in Stealth (+7) and Sleight of Hand (+7)**. Sneak Attack 2d6, Cunning Action, Fast Hands, Second-Story Work, Uncanny Dodge. He speaks Common and, unusually, **Orc**. He carries a bag of a thousand ball bearings, two crowbars, ten pitons, fifty feet of rope, two flasks of oil and thieves' tools.
+
+## The pitch
+
+> He warns them that he's not the only one who knows about their good fortune. Others also know that St. Cloud wasn't responsible for the poisoned wine, either. He's willing to keep his mouth shut, for a price. And he's willing to go give them the location and details of the people who intend to ambush them, also for a price. He may even go along for the ride, for a price.
+
+<small>— Stoth's introduction, Arc I</small>
+
+He is right about the ambush, and the party keeps buying.
+
+## Public and private
+
+Publicly he is a hired pair of eyes: the man who is already at the docks when the party needs to know what is happening at the docks. Privately he is running his own accounts. Between adventures he is "busy burying his loot from the last adventure, hiding them in an unknown tomb in Westphal where he stashes his long-term wealth." <small>(Arc II, Motherstone Part VI.)</small> He follows the Company's forces into Motherstone after the party has already descended.
+
+## Competence and circle
+
+At the fall of Caer Westphal it is Stoth who watches the colony break: the colonial bourgeoisie begging to board any ship they can find, the Forsworn cutting officials' throats in their beds, the elves' god-queen holding the mines and putting every man and dwarf to death. And it is Stoth who stakes out the **Excelsior** — "awaiting the last of the Company's plunder to be loaded into its belly" — while, in that same belly, a cloud of soft white mist that is Drefan waits to seize the helm. The theft of the Arielle is a two-man job and Stoth is the half of it standing in the open.
+
+At Sigil he goes in with the assault: "Revan, Roland, Stonecypher, Drefan and Stoth approach the House of Nimbus, ready for an assault on those inside."
+
+**Organizations / Groups:** Temple Holdings LLC, by contract rather than oath
+
+**Holdings:** an unknown tomb in Westphal, where he keeps his long-term wealth
+
+**Items:** **Dust of Disappearance** ×3 and **Dust of Sneezing and Choking** ×1, tracked as live resources on his sheet. Leather, rapier, shortbow, two daggers. A dice set.
+
+## Beliefs
+
+He believes chains are meant to be broken, as are those who would forge them. He believes he will become the greatest thief that ever lived, and writes it down on his sheet as a bond. He believes he is guilty of a terrible crime and hopes he can redeem himself for it; the crime is not named.
+
+## The vision, and the disappearance
+
+In the shared prophetic dream before Starfall, each hero is given one image. Stoth's is not a person or a blade. It is *"a vision of the stars, and all the constellations coming together to form a word."* The word is not recorded. In [Arc III](/history/arc-iii-age-of-the-infanta/) the word that opens a door is [Leviathan](/lore/the-leviathan/), spoken in Deep Speech.
+
+Then the party scatters through time, and the recap of the split is blunt about how it went:
+
+> Magnus, Cypher, Yoshi, and Stoth went to find the Aboleth city and stop St. Cloud from whatever he was trying to do… None of them ever returned.
+
+## Right now
+
+Stoth is somewhere in the deep past, in or near a drowned Aboleth city, on a job the party has no way to check on. The loot is still buried in a tomb in Westphal and nobody else knows which one.
+
+## Personality Characteristics
+
+**Motivation:** To become the greatest thief that ever lived, and to pay off an old debt to a generous benefactor.
+
+**Likes & Dislikes:** Likes: long odds · being told he can't · dice · a tomb nobody else uses · getting paid up front. Dislikes: insults, at any volume · chains and the people who forge them · descending first.
+
+**Vices & Personality flaws:** "When I see something valuable, I can't think about anything but how to steal it." He also blows up at the slightest insult and pays no attention to risk.
+
+## Social
+
+**Contacts & Relations:**
+
+- **A generous benefactor** — unnamed; owed an old debt he is still trying to pay.
+- **Drefan** — his opposite number on the Excelsior job: one man visible on the dock, one invisible in the hold.
+- **Roland**, **Revan** and **Stonecypher** — the House of Nimbus assault team.
+- **Brother Magnus**, **Yoshi** and **Cypher** — the party he went into the deep past with, and did not come back from.
+- **The party** — a client relationship that outlasted several of the people who signed it.
+
+**Hobbies & Pets:** a dice set, and burying things.

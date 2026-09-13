@@ -1,0 +1,223 @@
+---
+title: Arc II — Motherstone
+description: 'The buried crystal city beneath Snowy Mountain: the Lexicon, the Obliviator, and the forgotten betrayal that erased a kingdom from the memory of the world.'
+sidebar:
+  order: 2
+type: event
+kind: history
+tags:
+- Motherstone
+- Arc II
+- Temple Holdings LLC
+- Lexicon
+- Obliviator
+- Calix
+- Mundi
+- Drek
+- Ayror
+- Flex Gimble
+- Underglow
+- Eldergreen
+- Mara Mageblood
+- Tylerjynex
+- Infantaverse
+- Brightmantle
+- Anachron
+- Stone
+- Elistrada
+- Winking Depths
+- Chad
+- the Drek
+- Calix's vault
+- Infanta of the Moon
+icon: fa-gem
+fields:
+  campaign: Temple Holdings LLC
+  era: After the Moonshae homecoming
+  region: The crystal city beneath Snowy Mountain, Snowdown
+  status: Complete
+  follows: Arc I — Hope in Exile
+  leadsInto: Arc III — Age of the Infanta
+sources:
+- Desktop/infantaverse-wiki/src/content/docs/events/motherstone.mdx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part I.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part II.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part III.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part IV.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part V.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part VI.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part VII.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Mara Mageblood's Journal.docx
+- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone (notes).docx
+- CANON.md 5x (the DM's account, 2026-09-10)
+published: '2026-09-10'
+wa:
+  slug: arc-ii-E28094-motherstone-plot
+  category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+---
+
+**Campaign Arc · Temple Holdings LLC, Arc II · The crystal city beneath Snowy Mountain, Snowdown · Complete**
+
+*Opens at:* the moonstone machine under Snowy Mountain · *Ends at:* the Throne of Motherstone, ten years on · *Central artifice:* the [Lexicon](/items/the-lexicon/) and the [Obliviator](/items/the-obliviator/)
+
+*Follows:* [Arc I — Hope in Exile](/history/arc-i-hope-in-exile/) · *Leads into:* [Arc III — Age of the Infanta](/history/arc-iii-age-of-the-infanta/)
+
+**Arc II — Motherstone** is the second arc of the [Ages of the Infanta](/lore/temple-holdings-llc/), set in the buried crystal city of [Motherstone](/places/motherstone/) beneath Snowy Mountain on Snowdown. Chasing a clue up a borehole beneath the mountain, the heroes break into a city that was once the capital of the world and find the machine that erased it from memory. Sealed inside until they can repair the city's mind and stabilise the doomsday device hanging above it, they uncover the truth of **the Forgetting**, the betrayal of the first Infanta and the immortal traitor who engineered it, destroy the traitor's phylactery, and emerge ten years later into the Company's mining operation, which the Infanta of the Moon drives out of the city at the head of an army.
+
+The lie at the centre of it is written on the very first page of [Mara Mageblood's](/people/mara-mageblood/) journal — the explorer who came this way before them:
+
+> There is a lie at the heart of our history, one that the entire world has forgotten. The age of the Infantas, the so-called Time of Troubles, we are told, was a time of great war and upheaval. Priests of all races lost their holy magics, and the gods of the old races were shut out from this world… There is something missing in this tale, and one can see it if you look from other sides.
+
+## The premise
+
+Arc I ended with [Kara](/people/kara/) and [Brother Magnus](/people/brother-magnus/) breaking into an ancient moonstone-powered machine far beneath Snowy Mountain while the rest of the party sheltered the Infanta and her cult at Leftfork. Arc II opens there, in the dark of the mountain's belly. The heroes climb the Great Pipes, find Mara Mageblood's abandoned camp and journal, fight up through generator halls and scaffolded catwalks, realign the power stones of a Power Station, and wake its Clockwork Guardian — and when the great doors grind open, they look out on a wonder.
+
+> A magnificent outgrowth of blue moonstone crystals ten stories tall, surrounded by an elven city, encircled by the mountain itself… Bright blue moonstone crystals catch the sun from all over, as if the city itself was carved from a humming blue geode, with elder oaks growing from its basin, shaped by arcane elven magics into domiciles and long abandoned magical laboratories. A tremendous, eerily motionless, bronze ring the size of a sailing ship seems fixed above the largest moonstone, with an equally motionless orb floating in its center.
+
+This is [Motherstone](/places/motherstone/). The grandeur is obvious even from across the crater lake; so is the ruin — arches and bridges thrown down, unburied dead hanging from branches and windows, the evidence of a war the city lost. And once the heroes are inside, they cannot leave. The way out stays sealed until the city's broken mind can be repaired and the device in that bronze ring brought back into balance.
+
+## Part I — The Crystal City
+
+The city is contested by two peoples. The [Mundi](/organizations/the-mundi/) — lithe, white folk — live inside the great oaks and revere the crystals. Their king, **Chad**, "watcher of the stones and the destroyer of Drek," mistakes [Drefan](/people/drefan/) (who bears the moonblade [Silverbane](/people/silverbane/)) for a returning king. He can tell the heroes only fragments of where they are:
+
+> Long ago, a child god granted this place to our people. She was foolish, though. She was betrayed by the ancestors of the Drek who invited Ayror into the city. Ayror banished her and closed off Motherstone from the outside world forever. We stayed behind to guard the stones, and we will stay here until the end of time to keep them from being used in their evil designs.
+
+The thing the Mundi guard against is a prophecy, and a crown: *"To find the seven princes betrayed, and don the diadem on the empty throne."* As long as the Mundi hold their protective **diadem**, Chad says, "their evil magics cannot take hold."
+
+Below the Mundi, in a drowning slum, toil the [Drek](/organizations/the-drek/) — a spider-worshipping folk who carved the old mines and now serve, or flee, the faceless overlord **Ayror**. When Chad's daughter **Britney** goes missing in the Grand Concourse, the party gives chase and meets **Flex Gimble**, a jolly rock-gnome artificer who introduces himself with a flourish:
+
+> Flex Gimble, engineer, inventor and entrepreneur, at your service. I am a Third Grade Master Artificer, member of the Sword Coast Guild of Alchemists, registered to practice Thaumaturgical Engineering in both Waterdeep and Suzail. I also hold a junior degree in Lute Performance Studies.
+
+Then the Drek horde attacks, snatches the diadem and flees up into the city. The chase runs through the **Shifting City** — a Great Hall that reshapes itself from a feast to a diplomatic gathering of nations to a sporting field, streets whose shops rotate up into the ceiling and down into the earth between heartbeats — and ends in the **Terminal Room**: eight thrones in a ring, seven holding crowned skeletons, around a runed stone table. Here the chronicle's true subject first stirs: the **Lexicon**, the mind of the city.
+
+The party's own entry set off the Drek attack. They came into the hidden city through its huge drain pipes, and steps they took there flooded the lower city; the Drek attacked because of the flood. The party met Chad and repelled the attack. When the Drek captured a living Mundi, the party explored the city to try to rescue her, and went down to speak with the Drek, who told them of shuffling corpses attacking them.
+
+## Part II — The City and the Slum
+
+By the second day the Mundi have soured on their guests. Brother Magnus's booming at the king cowed the court, and Chad begins quietly working to turn Drefan against Magnus and sow distrust. The party explores regardless: upper levels choked with nerve-gas leaking from a broken conduit; the **Great Stairs**, whose wall is a relief many city blocks long recording the city's founding —
+
+> Images of elves, humans, orcs, and dwarves ascending the staircase and toward the Motherstones commemorate the founding of the city. Figures recognizable as the Infanta and the elves of House Gallidan are among them.
+
+— and the lightless **Armory**, where the mural tells of a great war's *end*: two armies laying down their weapons into a single silver chest. Surrendering their own arms is what opens the vault. Here too is **Marv, High Daegon of Ayror**, who turns out to be a clockwork **Sentinel** wearing the skin of the real Marv, killed long ago — one of many machines that don the flesh of the slain to try to commune with their forgotten god.
+
+<small>The record's own words: the machines of the dungeon wear the skins of living creatures "to try and commune with Ayror, who forgot himself and hid himself inside a human body." (Motherstone Part II.)</small>
+
+Later the party was attacked by a robotic spider wearing a dead dwarf's skin, under the command of Ayror.
+
+Below it all sprawl the **Drembles**: the Drek refugee city, lining the wall of the old crystal mine, descending hundreds of feet to a pool of fetid water that is rising fast and swallowing the slum from below. The Drek are starving and dying, trapped between the flood, the awakened machines, and the Mundi who hate them. Their own legend holds that the betrayal ran the other way — that the Mundi turned on *them* — and that both peoples are the heirs of a crime neither can now remember.
+
+## Part III — The Dungeon and the Lexicon
+
+To stop the flooding and the machines, the party descends through the dungeon levels beneath the city — flooded stairwells, cells where **skinbags** mimic the lives of the living, sentinels that hunt and remember — to the lair of Ayror itself: a towering avatar of a horned devil stitched together from thousands of corpses, hollow where its face should be, with the great mechanical spider **the Jizzy** coiled at its heart. Past it lies the **Deep Crystal Mine**, and at the bottom of a half-hour's descent down a perfect vertical shaft, the master control room of the city's mind.
+
+Sitting in one of that room's diadem thrones transports the sitter into the Lexicon's mind, where "the Lexicon appears as a number of avatars, including the faceless child, the sweating tinker, the helmed rider, the prone lover, and the peacemaker." The Tinker sits at the centre of a ring of runes, his face covered by goggles and a thick beard, four images of Calix around him firing harmful magic at him, and asks one question: "Who am I?" Any true fact about the second Infanta answers it — Brightmantle, the dwarven infanta, the lover of Elistrae — and he gives the party a pair of mechanical golden wings. <small>(Motherstone Part III. See [Brightmantle](/people/brightmantle/).)</small>
+
+It was [Flex Gimble](/people/flex-gimble/) who led the party to the Seat of the Lexicon. Connecting to its terminal put them inside a virtual reality, where they fought the images of Calix and freed Brightmantle, young and then adult, by telling him things they had found out about him throughout the dungeon.
+
+### What Motherstone truly was — the Lexicon and the Obliviator
+
+<small>Recovered from the Oblivia.</small> Motherstone was built around the **Lexicon**: a mind grown inside the heart of the world's largest **perfect moonstone**, a crystal able to "stand in for the mind itself." It managed the city's power, water, weather, architecture and defences, drawing knowledge from agents wearing **diadems** in the field and through the **Gate Ring** — a stable abyssal vortex the mage [Calix](/people/calix-the-betrayer/) opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward itself. Motherstone became the hub of the universe, a living library of all knowledge.
+
+The Lexicon was built by [Brightmantle](/people/brightmantle/), the dwarven second Infanta, to run the heart of Motherstone using the Obliviator and the great crystals in the mountain, and it carries his personality and intelligence. It did not stay in the mountain: in Arc III the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) possessed [Roland](/people/roland-deschain/) and scrammed it, Wainwright's ships attacked in the Second Battle of Motherstone, and afterwards Roland and [Brother Magnus](/people/brother-magnus/) moved what was left into the [Anachron](/items/the-anachron/), where it remains as Lex. <small>(The full record of the machine under all three of its names is at [The Anachron](/items/the-anachron/).)</small>
+
+More exactly: [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, built the Lexicon together with Calix, from Netherese magic and technology.
+
+But knowledge without limit drove the Lexicon cynical and dazed, "unable to sort through the vast detail the universe described to it." The solution was the **Obliviator** — the motionless orb in the bronze ring:
+
+> By its nature, any information that passed within its arcane horizon would be destroyed, not just in that instance, but in the minds of everyone who ever lived. The Obliviator would take the extraneous detail received from the world and filter it out, creating a more perfect mind within the Lexicon and throughout the planes. Who knows what tiny wonders were forgotten on behalf of all by the Obliviator.
+
+The Lexicon is broken because a single date is missing from its records: the day of **the Betrayal**, when Motherstone went from capital of the world to wholly forgotten in an afternoon. To cure it, the heroes must answer *when* it happened — and learn, too late, that Flex Gimble was no harmless tinker. He shrinks the party to nothing, claims the city's secrets for himself, and floods the chamber:
+
+> My apologies brave heroes, but I have a job to do. The secrets we have learned here will change the world, and I — FLEX GIMBLE — will be their inventor. The Sword Coast Trading Company can have their Moonstones, but I will harness this knowledge and construct a new age of machines beyond all their understanding. Goodbye, fools!
+
+Flex struck just as the party cured the Lexicon. His shrink ray made them tiny, and a flood spell pushed them hundreds of feet down to the bottom of the crystal, which opened over the **Winking Depths**. They caught hold of the roots of the **Eldergreen** and climbed into the deep fey realm of the **Underglow** — the world of the worms and beetles. <small>(The opening lies toward [the Egg](/places/the-egg/); the party did not know it.)</small>
+
+## Part IV — The Underglow
+
+Shrunk to the size of insects and slowly, dangerously growing back as Flex's stolen shrinking ray fails, the party climbs up through the roots beneath the city. The Underglow is a kingdom of deep fey, immortals, many of them survivors from the time of the Infantas, who remember the Betrayal only obliquely — as the day "so much blood soaked the ground that today the mushrooms still taste of iron." Their guide proves to be the kingdom's runaway heir: **Bridgette**, only daughter of **Rhizoman**, lord protector of the Underglow, fleeing a political marriage to her father's greatest rival — **Mannemarco, the King of Worms**.
+
+They arrive to find Rhizoman arrested for aiding her escape, and a wedding-colosseum being dressed around a great moonstone cube, **the Illimat**. To save her father, the party must beat Mannemarco at his favourite game on the Illimat itself — a card-and-combat duel in which every played card summons a beast into the arena below and every captured card is won in blood. When it goes wrong, Bridgette breaks free to strike at Mannemarco, and the party fights its way out as the shrinking ray finally dies and they swell, round by round, toward a size the exits can no longer hold.
+
+## Part V — The Heart of the Tree
+
+The way back to the surface runs through the **Eldergreen** — the heart of the world-tree, sealed shut since the Betrayal. It speaks to them:
+
+> Names never fit me well. Some call me Yggdrasil, others call me the World Tree. Your people call me the Eldergreen. I grow through everything, but I am strongest where the cosmos touches the material. Here where the moon and earth are one, I am verdant… This place was meant to bring a peace, but it fell into blood. That it was forgotten was for the best. But now that you have remembered it, you must make it right.
+
+Through the tree's grace, **Fhastine Mageblood** reaches them from the distant Gildergreen: the Infanta is safe, but the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) has turned its mining on Snowy Mountain and is coming for the Motherstones. The Lexicon, restored to contact, delivers a worse warning — Flex's tampering has knocked the Obliviator out of stasis:
+
+> The Obliviator could breech the Orb and swallow the city, possibly the entire island, wiping it from existence and from all living memory. There is a non-zero chance that it could reach a critical potential and swallow all of Faerûn and the Prime Material Plane. Every moment it becomes more likely.
+
+The only fix is a **hard reset** from the one terminal still authorised for it — and the override locking out every other terminal was placed, the Lexicon reports, on "the Fifth of Leaffall, 49," by a single user: **Calix**.
+
+Meanwhile, in the drowning Drembles, [Yoshi](/people/yoshi/) follows a hooded Drek priest with a golden snout like his own to a flooded temple and the answer to a question he never knew to ask.
+
+### The Dragon of Motherstone — and where Yoshi came from
+
+<small>Recovered from the Oblivia.</small> Motherstone was not some terra nova when the Infantas came. It was the roost of a great being: *"Some would say a living god. But you and I would be more precise to call him — father."* The dragon was [Tylerjynex](/people/tylerjinex/), the great copper dragon of the Snowy Mountain. Seeing goodness in the Infanta, he pledged his fealty and conceived **seven eggs** to be her honour guard, raised by the white furnace of the Underforge. The traitor Calix beguiled Tylerjynex and banished him to a dark abyss; the hatchlings were slain in their sleep — by the agents of [House Gallidann](/organizations/house-gallidann/), who "could not stand to see anyone but elves at the side of the Infanta." The priest hatched three centuries ago and tried to hatch the others himself. Two eggs were stolen, discarded into a seam in the rock, and against all odds survived — and one of them was Yoshi. The elder gives him the honour-guard's weapon: a blade that draws its power "from the arcane magics of the Earth itself" and burns with radiant light.
+
+Above them, the Company makes good on Fhastine's warning: a mining blast tears open the **Deepgate**, and Mundi and Drek must fight side by side to hold the breach.
+
+In the **Arcaneum**, the city's college of wizards, the heroes find a **Planetarium** whose thrones reveal the cosmology the Motherstone scholars knew — eleven planes arranged like the planets, from the **Sun** (Chaos, "the source of all magic") through the **Moon** ("a reflection of the Prime material against the Astral Plane… the Earth and Moon are twins, a body and its shadow") to the **Cosmos** (the Astral Void). Selecting the last symbol shows them something worse: "a dark orbit that intersects directly with Faerûn, a black streak that touches down in the sea off the coast of Snowdown."
+
+## Part VI — The Seal of Time
+
+The flood drains to reveal an iron **blood seal** in the dungeon floor, marked with a symbol that glows when Silverbane is brought near it. Silverbane — the moonblade, who remembers — confesses the shame it guards: after the Forgetting, **Eldamir** and House Gallidann blamed the dwarves and waged not just a war but a **genocide**, "capturing entire populations and leading them still alive into their tombs." Only afterward did Eldamir discover Calix's plot to seize the throne, and slay him, dying by his hand in the same stroke. The seal demands the blood of a dwarf to open.
+
+Below it lies a chamber where the voices of loved ones lure the unwary into a guardian's killing trance — survivable only by those who "hold your breath and close your eyes," exactly as Mara's lullaby warned — and beyond it a hidden temple lit like electric light, with the emaciated, blinded Tylerjynex himself slumped atop it, kept forever fighting the demon in his own mind. Within is Calix's **phylactery**: a pocket of frozen time holding everything the Betrayer prepared for eternity.
+
+The party came back to the city knowing what had to be done: find Calix's phylactery in the secret vault in the city, and destroy it. Once the Lexicon was cured, Calix was able to locate the city, and he attacked them. They went on to the vault, where his hacked throne and his phylactery were hidden. The chamber had never been used.
+
+### Stone — the secret in the vault
+
+<small>Recovered from the Oblivia.</small> What the party uncovered there was the cause of the Forgetting. Calix planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal. Before he could, [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta who had built the Lexicon with Calix, could not bear that [Elistrada](/people/elistrae/) — his wife and love — would think he had turned on her. He threw himself into the [Obliviator](/items/the-obliviator/), so that she would forget he had ever existed.
+
+That act made everything about Motherstone, not just its location, cursed and obliviated knowledge. It drove Calix and the Gallidan elves insane: they slew the dwarves, and then Calix and Eldamir slew each other on the beach, though Calix, immortal, survived. It turned Elistrada into a mysteriously depressed and always-weeping queen. And it put the Lexicon into a fatal error — **Ayror** — in which it attacked everything while trying to learn the identity of its master, and of itself. By curing the Lexicon and uncovering the secret, the party freed the memory of Stone.
+
+### Calix the Betrayer — the buried throne and the thing he fears
+
+<small>Recovered from the Oblivia.</small> Calix's crime was not seduction, as the nursery rhymes say. It was the plot behind **the Forgetting**. He buried his own terminal-throne to replace the Lexicon with himself — to dissolve his mind entirely into the crystal and become one with the Motherstones, using the Lexicon and the Obliviator to gather all the knowledge of the world. He did it to outlast the one thing he is afraid of: the [Leviathan](/lore/the-leviathan/). His remnant says it plainly, in the words of the ancient drama:
+
+> My sin is the Forgetting.\
+> Time is the only recompense.\
+> If I live until I know myself again\
+> I will live forever.
+
+He has forgotten *himself* along with everything else — he seeks, but no longer knows what for. Mara Mageblood read the same truth off the last page of the cursed tome: *"a buried throne for a living god, for even he fears the Leviathan."*
+
+Calix also altered his vault and throne so that time passed **slower inside and faster outside**. His aim was for the world outside to forget him quickly, and for time to spin off into the future while his consciousness stayed unaware of the doom Toril faced from the Leviathan, which terrified him more than anything. The party emerged from the phylactery ten years in the future.
+
+The whole arc is foretold, in code, in the lullaby Mara's mother could never sing without losing herself — recorded in the journal the heroes have been carrying since the mountain:
+
+> Our true queen, she saw the boy, atop his shining stallion,\
+> and with a sigh of true love's power she gave him all her kingdom.\
+> Every boy and every girl, wished to see them dancing,\
+> in the hall, atop the trees within their mountain kingdom.\
+> But lo, there is a darkness there, that stalks and plots betrayal,\
+> and with a lie can all undo the magic of their kingdom.\
+> Under where the mushrooms grow, he hides his wicked measures,\
+> but hold your breath and close your eyes and he cannot devour you.\
+> Every step is seven days, but never stop to wonder,\
+> for wondering's fine but not when time is fleeting for our kingdom.\
+> When all the world's inside your mind, forgetting is oblivion,\
+> so never sing this song again of — Calix the Betrayer.
+
+A scholar's note in the journal corrects the other great misconception, too. The Infanta was no deathless child:
+
+> Stories always frame the Infanta as an eternal child, but she was quite the opposite. She was a human girl who lived and died at a ripe old age. How old was she when Calix betrayed her? This is not recorded.
+
+## Part VII — Coronation
+
+Emerging from the phylactery, the party finds that **ten years have passed** inside the time-warp. They break out through the prison mines into open battle: Commander **Carlysle St. Cloud** leading a Company force of mechanical spiders, the city all but lost. And then the [Infanta](/lore/the-infanta/) arrives at the head of an invading army, riding an elephant: no longer an infant but a young **Empress**, retaking her capital at this very hour. She sweeps away the automatons, dismounts, and *remembers* the heroes who carried her across the Moonshae, embracing each of them while their allies look on in awe — and now regard the party as nearly divine themselves.
+
+In those ten years the [Company](/organizations/sword-coast-trading-company/) — which had only begun colonising Snowdown when the party went into the mountain — had found Motherstone and turned it into a massive moonstone mining operation. The obliviation of the city and its founder had made [St. Cloud](/people/wainwright-st-cloud/) forget it too; once it was remembered it became a centrepiece of his empire, and he did not know the party were below in slow time. The heroes started a rebellion among the workers that was doomed to fail — until the Infanta of the Moon, now ten years old, arrived riding an elephant at the head of a small army from around Snowdown. Together they pushed the Company out, and dealt St. Cloud his first real blow since the party sank his brother [Ysmir](/people/ysmir-st-cloud/)'s ship, the *Evening Star*.
+
+Then she introduces the advisor who made her victory possible: **Calix**.
+
+The arc's final movement is a race against a coronation. If the Infanta is crowned on the Throne of Motherstone, Calix's crown will lock her into a deadly trance and let her divine power be hijacked to destroy the entire island. The one thing that can wake her is the sound of a particular music box — *the Infanta's Dream* — and the only way to learn where it lies is to follow Calix into the Orb and pull the memory of its maker, [Brightmantle](/people/brightmantle/), back out of the Obliviator before he can erase it again.
+
+## Into the Age of the Infanta
+
+Motherstone ends with the first Infanta's heir enthroned in her recovered capital, the Company driven out of the city, the Leviathan still looming, and a young goddess-empress now openly ruling the Moonshae. The chronicle's third arc, [Age of the Infanta](/history/arc-iii-age-of-the-infanta/), opens from that throne.
+
+<small>Calix was killed in the vault before the party destroyed his phylactery, and stands again at the young Empress's side after the time skip, following her into the Orb. He is immortal, and had survived being slain once before, on the beach with Eldamir.</small>
