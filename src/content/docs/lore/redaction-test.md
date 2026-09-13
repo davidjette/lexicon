@@ -17,3 +17,5 @@ A sealed paragraph with **bold**, *italic* and a [link](/places/the-egg/).
 :::
 
 A plain line after the block.
+
+The passage above the plain line is an example of a block redaction.
