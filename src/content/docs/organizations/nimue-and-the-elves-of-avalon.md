@@ -31,6 +31,10 @@ wa:
   slug: nimue-and-the-elves-of-avalon-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Nimue and the Elves of Avalon
+image:
+  src: /images/cards/nimue-and-the-elves-of-avalon.webp
+  alt: 'Ally card: Nimue and the Elves of Avalon'
+  caption: Ally card, Arc VIII
 ---
 
 > Seeing the rise of the Netherese and with forewarning of the coming of the Infanta, Nimue searched for a human king who could engender a rival to Netheril and create a culture of peace and justice.

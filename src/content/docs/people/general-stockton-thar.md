@@ -42,6 +42,10 @@ published: '2026-09-10'
 wa:
   slug: general-stockton-thar-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+image:
+  src: /images/site/general-stockton-thar-1.webp
+  alt: General Stockton
+  caption: General Stockton
 ---
 
 **Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Status unconfirmed**

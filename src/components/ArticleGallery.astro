@@ -1,0 +1,27 @@
+---
+// The rest of an article's images, after the body.
+interface Props {
+	images?: { src: string; alt?: string; caption?: string }[];
+}
+const { images = [] } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const url = (src: string) => (src.startsWith('/') ? base + src : src);
+---
+
+{
+	images.length > 0 && (
+		<section class="lexicon-gallery" aria-label="Gallery">
+			<h2 id="gallery">Gallery</h2>
+			<div class="iv-gallery">
+				{images.map((img) => (
+					<figure>
+						<a href={url(img.src)}>
+							<img src={url(img.src)} alt={img.alt ?? img.caption ?? ''} loading="lazy" decoding="async" />
+						</a>
+						{img.caption && <figcaption>{img.caption}</figcaption>}
+					</figure>
+				))}
+			</div>
+		</section>
+	)
+}

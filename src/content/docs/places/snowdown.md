@@ -67,4 +67,4 @@ The Company had only begun colonising Snowdown when the party entered Motherston
 
 ## Maps
 
-- [Snowdown](https://www.worldanvil.com/w/infantaverse-sydiot/map/e546cb69-3346-4ba5-9a12-97acb0bf31ca)
+- [Snowdown](/maps/14-snowdown/)

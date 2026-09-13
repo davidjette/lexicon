@@ -54,6 +54,9 @@ wa:
   slug: 8d2fe097-8974-47cc-a067-7b61b36f178b
   uuid: 6f75a33c-5725-431e-9af8-a920ee57ecfe
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
+image:
+  src: /images/site/eric-the-cleric-1.webp
+  alt: Eric the Cleric
 ---
 
 **Cleric · Chancellor of Sharn · The Inevitables · Level 12 · Alive**

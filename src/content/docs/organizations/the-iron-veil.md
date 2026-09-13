@@ -32,6 +32,10 @@ published: '2026-09-10'
 wa:
   slug: the-iron-veil-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/site/the-iron-veil-1.webp
+  alt: Iron Veil Soldier
+  caption: Iron Veil Soldier
 ---
 
 **Type:** Military, Secret Police · **Seat:** the Veil Building, Upper City, Sharn · **Status:** Dissolved; remnant active

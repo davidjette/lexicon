@@ -33,6 +33,10 @@ wa:
   slug: cypheric-orcs-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Cypheric Orcs
+image:
+  src: /images/cards/cypheric-orcs.webp
+  alt: 'Ally card: Cypheric Orcs'
+  caption: Ally card, Arc VIII
 ---
 
 **Orcish archivists · Keepers of the Chronicle · Sworn to Istus, Lady Cypher**

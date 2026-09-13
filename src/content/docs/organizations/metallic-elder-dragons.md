@@ -22,6 +22,10 @@ wa:
   slug: metallic-elder-dragons-organization
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
   image_card: Metallic Elder Dragons
+image:
+  src: /images/cards/metallic-elder-dragons.webp
+  alt: 'Ally card: Metallic Elder Dragons'
+  caption: Ally card, Arc VIII
 ---
 
 > Dragons were the rulers of the material plane. Even after the Aboleth arrived, they could only hold the seas. The skies belonged to Bahamut.

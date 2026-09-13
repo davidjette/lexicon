@@ -25,6 +25,14 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-3-E28094-zilspar-farms-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+image:
+  src: /images/site/sharn-ep-3-zilspar-farms-1.webp
+  alt: 'Episode 3: Zilspar Farms'
+  caption: 'Episode 3: Zilspar Farms'
+gallery:
+  - src: /images/site/sharn-ep-3-zilspar-farms-2.webp
+    alt: 'Episode 3: Zilspar Farms'
+    caption: 'Episode 3: Zilspar Farms'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 3 · DM: Nichole**

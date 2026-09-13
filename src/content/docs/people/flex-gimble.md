@@ -35,6 +35,10 @@ wa:
   slug: flex-gimble-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Flex Gimble
+image:
+  src: /images/cards/flex-gimble.webp
+  alt: 'Ally card: Flex Gimble'
+  caption: Ally card, Arc VIII
 ---
 
 **Rock gnome · Artificer · Betrayed the party, then returned as an ally at the Egg**

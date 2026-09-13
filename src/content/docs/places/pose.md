@@ -34,6 +34,26 @@ published: '2026-09-10'
 wa:
   slug: posE-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/pose-1.webp
+  alt: 'Episode 2: “POSÉ”'
+  caption: 'Episode 2: “POSÉ”'
+gallery:
+  - src: /images/site/pose-2.webp
+    alt: 'Episode 2: “POSÉ”'
+    caption: 'Episode 2: “POSÉ”'
+  - src: /images/site/pose-3.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/site/pose-4.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/site/pose-5.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/site/pose-6.webp
+    alt: Page updated
+    caption: Page updated
 ---
 
 **Restaurant · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Richard Blaze's newest venue · Standing**

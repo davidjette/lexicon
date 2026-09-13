@@ -20,6 +20,10 @@ const lexicon = z.object({
 	/** Set true for a placeholder awaiting source material. */
 	needsSource: z.boolean().default(false),
 	published: z.string().optional(),
+	/** Lead image, shown in the infobox. `src` is a site path such as /images/cards/marcus.webp. */
+	image: z.object({ src: z.string(), alt: z.string().optional(), caption: z.string().optional() }).optional(),
+	/** Further images, shown after the body. */
+	gallery: z.array(z.object({ src: z.string(), alt: z.string().optional(), caption: z.string().optional() })).default([]),
 	/** Provenance from World Anvil. */
 	wa: z
 		.object({

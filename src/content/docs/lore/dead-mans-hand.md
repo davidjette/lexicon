@@ -94,9 +94,9 @@ No session record of Dead Man's Hand survives. What exists of the campaign's mat
 
 The villa, floor by floor.
 
-- [The Villa — I](https://www.worldanvil.com/w/infantaverse-sydiot/map/6c008fda-e788-4796-8ece-cba73b6bcba9)
-- [The Villa — II](https://www.worldanvil.com/w/infantaverse-sydiot/map/32d66589-8ea7-4348-9f95-d42d826d12bd)
-- [The Villa — III](https://www.worldanvil.com/w/infantaverse-sydiot/map/9edec9bb-737d-4439-b93a-6a69e696f9d5)
-- [The Villa — IV](https://www.worldanvil.com/w/infantaverse-sydiot/map/b3c5c057-d713-4769-a12c-f69c38847a4e)
-- [The Villa — Cellar](https://www.worldanvil.com/w/infantaverse-sydiot/map/8bb5218b-679a-423d-946b-6a4f9f8e328b)
-- [The Villa — Winter](https://www.worldanvil.com/w/infantaverse-sydiot/map/fa7382a1-1196-40a4-b357-7b0ca4273d6f)
+- [The Villa — I](/maps/51-the-villa-i/)
+- [The Villa — II](/maps/52-the-villa-ii/)
+- [The Villa — III](/maps/53-the-villa-iii/)
+- [The Villa — IV](/maps/54-the-villa-iv/)
+- [The Villa — Cellar](/maps/55-the-villa-cellar/)
+- [The Villa — Winter](/maps/56-the-villa-winter/)

@@ -1,10 +1,16 @@
 ---
-// Starlight override: seals the whole body of an article whose front matter sets `redacted`.
+// Starlight override: adds an article's infobox and gallery around its body, and seals the whole
+// thing when the front matter sets `redacted`.
 import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+import ArticleInfobox from './ArticleInfobox.astro';
+import ArticleGallery from './ArticleGallery.astro';
 import '../styles/redacted.css';
 
-const redacted = Astro.locals.starlightRoute?.entry?.data?.redacted;
+const route = Astro.locals.starlightRoute;
+const data = route?.entry?.data ?? {};
+const redacted = data.redacted;
 const tip = redacted ? `Obliviated: ${redacted.label}. Click to reveal` : '';
+const isArticle = !!data.kind;
 ---
 
 {
@@ -18,15 +24,19 @@ const tip = redacted ? `Obliviated: ${redacted.label}. Click to reveal` : '';
 				aria-expanded="false"
 				aria-label={tip}
 				title={tip}
-				data-redaction-id={Astro.locals.starlightRoute.id.split('/').pop()}
+				data-redaction-id={route.id.split('/').pop()}
 				data-pagefind-ignore
 			>
+				{isArticle && <ArticleInfobox id={route.id} title={data.title} image={data.image} fields={data.fields} />}
 				<slot />
+				{isArticle && <ArticleGallery images={data.gallery} />}
 			</div>
 		</Default>
 	) : (
 		<Default>
+			{isArticle && <ArticleInfobox id={route.id} title={data.title} image={data.image} fields={data.fields} />}
 			<slot />
+			{isArticle && <ArticleGallery images={data.gallery} />}
 		</Default>
 	)
 }

@@ -32,6 +32,10 @@ published: '2026-09-10'
 wa:
   slug: lantern-district-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/lantern-district-1.webp
+  alt: Lantern District — Northwest
+  caption: Lantern District — Northwest
 ---
 
 **District · [Lower City](/places/the-lower-city/), northwest · Nightlife quarter · Standing**

@@ -1,0 +1,48 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { MAPS, withBase, articlesLinking, type MapEntry } from '../../lib/maps';
+
+export function getStaticPaths() {
+	return MAPS.map((map) => ({ params: { id: map.id }, props: { map } }));
+}
+
+const { map } = Astro.props as { map: MapEntry };
+const linked = await articlesLinking(map);
+---
+
+<StarlightPage frontmatter={{ title: map.title, description: `Map: ${map.title}.`, tableOfContents: false }}>
+	<figure class="map-full">
+		<a href={withBase(map.src)}>
+			<img src={withBase(map.src)} alt={map.title} width={map.width} height={map.height} decoding="async" />
+		</a>
+		<figcaption>Select the map to open it at full size.</figcaption>
+	</figure>
+	{
+		linked.length > 0 && (
+			<>
+				<h2>Appears in</h2>
+				<ul>
+					{linked.map((a) => (
+						<li>
+							<a href={a.url}>{a.title}</a>
+						</li>
+					))}
+				</ul>
+			</>
+		)
+	}
+	<p><a href={withBase('/maps/')}>All maps</a></p>
+</StarlightPage>
+
+<style>
+	.map-full img {
+		width: 100%;
+		height: auto;
+		border: 1px solid var(--gold, #8a6d2f);
+		border-radius: 4px;
+	}
+	.map-full figcaption {
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-3);
+	}
+</style>

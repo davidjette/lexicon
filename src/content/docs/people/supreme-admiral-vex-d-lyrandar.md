@@ -41,6 +41,9 @@ published: '2026-09-10'
 wa:
   slug: supreme-admiral-vex-d26230393Blyrandar-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+image:
+  src: /images/site/supreme-admiral-vex-d-lyrandar-1.webp
+  alt: Supreme Admiral Vex d'Lyrandar
 ---
 
 **Khoravar · Fleetmaster Admiral · House Lyrandar / Imperial Navy and Aerial Command · Dead**

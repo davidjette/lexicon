@@ -39,6 +39,14 @@ published: '2026-09-10'
 wa:
   slug: the-lower-city-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/the-lower-city-1.webp
+  alt: Lower City Guide
+  caption: Lower City Guide
+gallery:
+  - src: /images/site/the-lower-city-2.webp
+    alt: Lower‑City Fixed ArcEye Feed
+    caption: Lower‑City Fixed ArcEye Feed
 ---
 
 **District · [Sharn](/places/sharn/) · Working city · Six neighbourhoods and an aqueduct · Standing**

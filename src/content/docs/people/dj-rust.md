@@ -41,6 +41,9 @@ published: '2026-09-10'
 wa:
   slug: dj-rust-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/dj-rust-1.webp
+  alt: DJ Rust
 ---
 
 **Born Cogborn · Performer and Lower City courier · RUST · Alive**

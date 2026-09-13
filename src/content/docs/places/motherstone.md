@@ -151,9 +151,9 @@ At the Second Battle of Motherstone the Lexicon left the mountain for good. The 
 
 Six maps of the hidden city.
 
-- [Motherstone — Map 1](https://www.worldanvil.com/w/infantaverse-sydiot/map/1195d7d8-f1f9-4e50-b714-45667041b601)
-- [Motherstone — Map 2](https://www.worldanvil.com/w/infantaverse-sydiot/map/e1f85661-9c27-4e31-9b2a-a1583afbeb7f)
-- [Motherstone — Map 3](https://www.worldanvil.com/w/infantaverse-sydiot/map/f2a8541d-bb93-447e-b651-8a856b5e5ac2)
-- [Motherstone — Map 4](https://www.worldanvil.com/w/infantaverse-sydiot/map/817af215-cb6c-4f0f-a74f-9d7009966a14)
-- [Motherstone — Map 5](https://www.worldanvil.com/w/infantaverse-sydiot/map/aafef5b7-13df-48c4-865b-94d72cad1542)
-- [Motherstone — Map 6](https://www.worldanvil.com/w/infantaverse-sydiot/map/19d61bdc-bbd6-4c3d-9ff4-5e807f7335f0)
+- [Motherstone — Map 1](/maps/21-motherstone-map-1/)
+- [Motherstone — Map 2](/maps/22-motherstone-map-2/)
+- [Motherstone — Map 3](/maps/23-motherstone-map-3/)
+- [Motherstone — Map 4](/maps/24-motherstone-map-4/)
+- [Motherstone — Map 5](/maps/25-motherstone-map-5/)
+- [Motherstone — Map 6](/maps/26-motherstone-map-6/)

@@ -62,7 +62,7 @@ That refusal held until [St. Cloud](/people/wainwright-st-cloud/) convinced **Re
 
 ## Maps
 
-- [The Penteract — Door](https://www.worldanvil.com/w/infantaverse-sydiot/map/170d2eba-2611-4ad3-953c-a2da20ca990e)
-- [The Penteract — Overview](https://www.worldanvil.com/w/infantaverse-sydiot/map/c9346126-baa5-4612-a5dd-bd17ef5e9fd3)
+- [The Penteract — Door](/maps/40-the-penteract-door/)
+- [The Penteract — Overview](/maps/41-the-penteract-overview/)
 
 **Related:** [The City of Dis](/places/dis/) · [Tylerjynex](/people/tylerjinex/) · [House Nimbus](/organizations/house-nimbus/) · [Carls Jr and the Drow](/organizations/carls-jr-and-the-drow/) · [The Mammon Machine](/items/the-mammon-machine/) · [Marcus](/people/marcus/)

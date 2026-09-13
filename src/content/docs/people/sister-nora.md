@@ -40,6 +40,12 @@ published: '2026-09-10'
 wa:
   slug: sister-nora-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/site/sister-nora-2.webp
+  alt: Sister Nora
+gallery:
+  - src: /images/site/sister-nora-1.webp
+    alt: Sister Nora
 ---
 
 **Cleric of the Black Doves · Sanctum of the Last Mercy, Sharn · The Empire · DEAD — tried and executed, Sharn Ep 19**

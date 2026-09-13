@@ -22,6 +22,10 @@ wa:
   slug: bota-people-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Bota People
+image:
+  src: /images/cards/the-bota-people.webp
+  alt: 'Ally card: Bota People'
+  caption: Ally card, Arc VIII
 ---
 
 > To the Bota, Vanderoos' writings were scripture. In a way, they were right.

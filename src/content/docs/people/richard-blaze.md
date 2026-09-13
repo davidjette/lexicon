@@ -44,6 +44,9 @@ wa:
   slug: richard-blaze-person
   uuid: 1e89d416-ba55-4113-98d0-94c1631c2ce4
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/richard-blaze-1.webp
+  alt: Richard Blaze
 ---
 
 **Male Tiefling · Chef and Restaurateur · Fulcrum, hidden founder · Alive**

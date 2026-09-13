@@ -39,6 +39,10 @@ wa:
   slug: the-lady-of-pain-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: The Lady of Pain
+image:
+  src: /images/cards/the-lady-of-pain.webp
+  alt: 'Ally card: Lady of Pain'
+  caption: Ally card, Arc VIII
 ---
 
 > Deschain & Son is a solemn, dusty and empty place in the morning as it was when you went to sleep, after Drefan was transported or erased or vaporized by the Lady of Pain.

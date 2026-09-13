@@ -25,6 +25,14 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-6-E28094-the-vault-below-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+image:
+  src: /images/site/sharn-ep-6-the-vault-below-1.webp
+  alt: 'Episode 6: The Vault Below'
+  caption: 'Episode 6: The Vault Below'
+gallery:
+  - src: /images/site/sharn-ep-6-the-vault-below-2.webp
+    alt: 'Episode 6: The Vault Below'
+    caption: 'Episode 6: The Vault Below'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 6 · DM: Nichole**

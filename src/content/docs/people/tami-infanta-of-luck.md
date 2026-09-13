@@ -21,6 +21,10 @@ wa:
   slug: tami2C-infanta-of-luck-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Tami, Infanta of Luck
+image:
+  src: /images/cards/tami-infanta-of-luck.webp
+  alt: 'Ally card: Tami, Infanta of Luck'
+  caption: Ally card, Arc VIII
 ---
 
 > This card carries no flavour text.

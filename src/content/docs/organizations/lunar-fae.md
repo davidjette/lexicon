@@ -26,6 +26,10 @@ wa:
   slug: lunar-fae-organization
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
   image_card: Lunar Fae
+image:
+  src: /images/cards/lunar-fae.webp
+  alt: 'Ally card: Lunar Fae'
+  caption: Ally card, Arc VIII
 ---
 
 > You see the quizzical eyes of more fae, sitting in pools with their twins and triplets, staring back in wonder at your fantastic attire and forms. At the end of the slope, gorgeous onsen bath house built in the style of the halflings of Blesstown.

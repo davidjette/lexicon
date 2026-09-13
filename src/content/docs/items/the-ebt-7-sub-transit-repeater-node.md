@@ -31,6 +31,14 @@ published: '2026-09-10'
 wa:
   slug: the-ebt-7-sub-transit-repeater-node-technology
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+image:
+  src: /images/site/the-ebt-7-sub-transit-repeater-node-1.webp
+  alt: EBT‑7 Sub‑Transit Repeater Node
+  caption: EBT‑7 Sub‑Transit Repeater Node
+gallery:
+  - src: /images/site/the-ebt-7-sub-transit-repeater-node-2.webp
+    alt: Dual‑View ArcEye Feed (Left/Right Rotation)
+    caption: Dual‑View ArcEye Feed (Left/Right Rotation)
 ---
 
 **Portable arcano-analog message relay · House Orien · Lightning Rail Sub-Transit System · Discontinued · Recovered by the Inevitables, Sharn Ep 16**

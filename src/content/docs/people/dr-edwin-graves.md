@@ -42,6 +42,16 @@ published: '2026-09-10'
 wa:
   slug: dr-edwin-graves-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/site/dr-edwin-graves-1.webp
+  alt: Dr. Edwin Graves
+gallery:
+  - src: /images/site/dr-edwin-graves-2.webp
+    alt: 'Owner: Dr. Edwin Graves'
+    caption: 'Owner: Dr. Edwin Graves'
+  - src: /images/site/dr-edwin-graves-3.webp
+    alt: 'Owner: Dr. Edwin Graves'
+    caption: 'Owner: Dr. Edwin Graves'
 ---
 
 **Doctor, shopkeeper, corporate owner · BioTec (secret proprietor) / Circuit City · Dead**

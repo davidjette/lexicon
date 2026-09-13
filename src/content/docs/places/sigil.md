@@ -82,4 +82,4 @@ Dead Man's Hand begins here, five hundred years after the Ages of the Infanta. I
 
 ## Maps
 
-- [Sigil](https://www.worldanvil.com/w/infantaverse-sydiot/map/8e0f9422-e89b-4ef4-ac38-0b6fa07a33dd)
+- [Sigil](/maps/42-sigil/)

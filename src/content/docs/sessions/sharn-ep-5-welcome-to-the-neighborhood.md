@@ -25,6 +25,14 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-5-E28094-welcome-to-the-neighborhood-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+image:
+  src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-1.webp
+  alt: 'Episode 5: Welcome to the Neighborhood'
+  caption: 'Episode 5: Welcome to the Neighborhood'
+gallery:
+  - src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-2.webp
+    alt: 'Episode 5: Welcome to the Neighborhood'
+    caption: 'Episode 5: Welcome to the Neighborhood'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 5 · DM: Nichole**

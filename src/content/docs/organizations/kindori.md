@@ -22,6 +22,10 @@ wa:
   slug: kindori-organization
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
   image_card: Kindori
+image:
+  src: /images/cards/kindori.webp
+  alt: 'Ally card: Kindori actual'
+  caption: Ally card, Arc VIII
 ---
 
 > This card carries no flavour text.

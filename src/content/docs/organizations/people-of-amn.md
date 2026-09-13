@@ -25,6 +25,10 @@ wa:
   slug: people-of-amn-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: People of Amn
+image:
+  src: /images/cards/people-of-amn.webp
+  alt: 'Ally card: People of Amn'
+  caption: Ally card, Arc VIII
 ---
 
 > Admiral, prepare to disembark. General, prepare your troops for a grand march at dawn. I will lead our forces to the ships on my way to conquer Amn.

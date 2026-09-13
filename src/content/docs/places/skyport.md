@@ -33,6 +33,9 @@ published: '2026-09-10'
 wa:
   slug: skyport-landmark
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/skyport-1.webp
+  alt: Skyport
 ---
 
 **Airship port · Sharn, upper and lower districts · Operational**

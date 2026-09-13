@@ -59,6 +59,6 @@ In Arc IV, [Revan](/people/revan-darkcember/), [Roland](/people/roland-deschain/
 
 ## Maps
 
-- [The House of Nimbus](https://www.worldanvil.com/w/infantaverse-sydiot/map/27a78bd6-0194-451b-a1e2-ea34bbc4ac6e)
+- [The House of Nimbus](/maps/20-the-house-of-nimbus/)
 
 **Related:** [The Penteract](/places/the-penteract/) · [Revan Darkcember](/people/revan-darkcember/) · [Sable, the Cyclone](/people/sable-the-cyclone/) · [Carls Jr and the Drow](/organizations/carls-jr-and-the-drow/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [The City of Dis](/places/dis/)

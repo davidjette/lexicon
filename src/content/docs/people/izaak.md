@@ -40,6 +40,9 @@ published: '2026-09-10'
 wa:
   slug: izaak-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/izaak-1.webp
+  alt: Izaak
 ---
 
 **Species unrecorded · Ranger and Artificer · Fulcrum liaison to the Nest · Missing, presumed dead**

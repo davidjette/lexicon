@@ -24,6 +24,14 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-4-E28094-richard-blaze-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+image:
+  src: /images/site/sharn-ep-4-richard-blaze-1.webp
+  alt: 'Episode 4: Richard Blaze'
+  caption: 'Episode 4: Richard Blaze'
+gallery:
+  - src: /images/site/sharn-ep-4-richard-blaze-2.webp
+    alt: 'Episode 4: Richard Blaze'
+    caption: 'Episode 4: Richard Blaze'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 4 · DM: Nichole**

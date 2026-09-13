@@ -36,6 +36,10 @@ published: '2026-09-10'
 wa:
   slug: the-upper-city-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/the-upper-city-1.webp
+  alt: Restricted Upper‑City Terrace Feed
+  caption: Restricted Upper‑City Terrace Feed
 ---
 
 **District · [Sharn](/places/sharn/) · Governmental, corporate and elite quarter · Standing**

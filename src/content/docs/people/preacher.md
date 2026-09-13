@@ -40,6 +40,9 @@ published: '2026-09-10'
 wa:
   slug: preacher-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/preacher-1.webp
+  alt: Preacher
 ---
 
 **Warforged · Founder of RUST · The last Warforged in Sharn · Alive**

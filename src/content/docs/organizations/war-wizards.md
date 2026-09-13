@@ -27,6 +27,10 @@ wa:
   slug: war-wizards-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: War Wizards
+image:
+  src: /images/cards/war-wizards.webp
+  alt: 'Ally card: War Wizards'
+  caption: Ally card, Arc VIII
 ---
 
 > Fourteen dead. The girl who did it, they said she was a sorcerer and the War Wizards came and scooped her up. Thats what they do, no punishment, just give them a wand and say fight for the King! It's wrong if you ask me.

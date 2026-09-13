@@ -32,6 +32,10 @@ published: '2026-09-10'
 wa:
   slug: the-ghost-chip-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/site/the-ghost-chip-1.webp
+  alt: Ghost Chip
+  caption: Ghost Chip
 ---
 
 **Implant enhancement module · BioTec prototype · Anti-surveillance countermeasure · Project lead: Dr. Joanne Menka · Prototype stolen, Sharn Ep 1**

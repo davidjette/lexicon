@@ -26,6 +26,10 @@ wa:
   slug: carls-jr-and-the-drow-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Carls Jr and the Drow
+image:
+  src: /images/cards/carls-jr-and-the-drow.webp
+  alt: 'Ally card: Carls Jr and the Drow'
+  caption: Ally card, Arc VIII
 ---
 
 **Drow nobles · Bearers of Onyxbane · Allies from Arc VII**

@@ -42,6 +42,10 @@ wa:
   slug: 599e2e63-905e-4c33-af94-06dce29f717b
   uuid: e4882442-a310-4589-88de-e6d866e4bcfc
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/site/faith-1.webp
+  alt: Faith and Malrik Zeir
+  caption: Faith and Malrik Zeir
 ---
 
 **The Mother Prophet · The Vault · Children of Ember · Deceased**

@@ -35,6 +35,10 @@ wa:
   slug: stone2C-infanta-of-discovery-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Stone, Infanta of Discovery
+image:
+  src: /images/cards/stone-infanta-of-discovery.webp
+  alt: 'Ally card: Stone, Infanta of Discovery'
+  caption: Ally card, Arc VIII
 ---
 
 **Infanta of Discovery · the Brightmantle Infanta · Built the Lexicon with Calix · Ally at the Egg**

@@ -44,6 +44,9 @@ wa:
   slug: bb5d1c45-6b93-46b2-99a3-7d83f8ea5eac
   uuid: 7346fb9e-d02c-4889-82af-71ea792b18db
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
+image:
+  src: /images/site/lorian-1.webp
+  alt: Lorian
 ---
 
 **Paladin of the Silver Flame, Oath of Vengeance · The Nest · The Inevitables · Level 5 · Alive**

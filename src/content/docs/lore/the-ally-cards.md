@@ -31,6 +31,130 @@ wa:
   slug: the-ally-cards-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
   image_card: The Ally Cards
+gallery:
+  - src: /images/cards/atlas-and-the-sea-elves.webp
+    alt: 'Ally card: Atlas and the Sea Elves'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/aurora-and-astra-saharel.webp
+    alt: 'Ally card: Aurora & Astra Saharel'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/bladesingers-of-motherstone.webp
+    alt: 'Ally card: Bladesingers of Motherstone'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/the-bota-people.webp
+    alt: 'Ally card: Bota People'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/calix.webp
+    alt: 'Ally card: Calix'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/carls-jr-and-the-drow.webp
+    alt: 'Ally card: Carls Jr and the Drow'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/celion.webp
+    alt: 'Ally card: Celion the Great'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/chromatic-elder-dragons.webp
+    alt: 'Ally card: Chromatic Elder Dragons'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/cypheric-orcs.webp
+    alt: 'Ally card: Cypheric Orcs'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/ella-infanta-of-the-moon-2.webp
+    alt: 'Ally card: Ella, Infanta of the Moon'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/ella-infanta-of-the-moon.webp
+    alt: 'Ally card: Ella, Infanta of the Moon'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/flex-gimble.webp
+    alt: 'Ally card: Flex Gimble'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/holden-tudyx.webp
+    alt: 'Ally card: Holden Tudyx'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/horsemen-of-the-plains.webp
+    alt: 'Ally card: Horsemen of the Plains'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/jeggings.webp
+    alt: 'Ally card: Jeggings'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/karametra.webp
+    alt: 'Ally card: Kara(metra)'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/khelben-arunsun.webp
+    alt: 'Ally card: Khelben Arunsun (Blackstaff)'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/kindori.webp
+    alt: 'Ally card: Kindori actual'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/king-arthur-and-his-knights.webp
+    alt: 'Ally card: King Arthur and his Knights'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/the-lady-of-pain.webp
+    alt: 'Ally card: Lady of Pain'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/lords-of-waterdeep.webp
+    alt: 'Ally card: Lords of Waterdeep'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/lunar-fae.webp
+    alt: 'Ally card: Lunar Fae'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/lunar-unicorns.webp
+    alt: 'Ally card: Lunar Unicorns'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/marcus.webp
+    alt: 'Ally card: Marcus, Infanta of Death'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/metallic-elder-dragons.webp
+    alt: 'Ally card: Metallic Elder Dragons'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/nimue-and-the-elves-of-avalon.webp
+    alt: 'Ally card: Nimue and the Elves of Avalon'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/obi-2.webp
+    alt: 'Ally card: Obi, Infanta of Order'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/obi.webp
+    alt: 'Ally card: Obi, Infanta of Order'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/people-of-amn.webp
+    alt: 'Ally card: People of Amn'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/people-of-memnon.webp
+    alt: 'Ally card: People of Memnon'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/purple-dragon-knights.webp
+    alt: 'Ally card: Purple Dragon Knights'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/sable-the-cyclone.webp
+    alt: 'Ally card: Sable, the Cyclone'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/settlers-of-the-dale.webp
+    alt: 'Ally card: Settlers of the Dale'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/steve-merlin.webp
+    alt: 'Ally card: Steve Merlin'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/stone-infanta-of-discovery.webp
+    alt: 'Ally card: Stone, Infanta of Discovery'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/tami-infanta-of-luck.webp
+    alt: 'Ally card: Tami, Infanta of Luck'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/teo-infanta-of-nature.webp
+    alt: 'Ally card: Teo, Infanta of Nature'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/the-lexicon.webp
+    alt: 'Ally card: The Lexicon'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/wainwright-st-cloud.webp
+    alt: 'Ally card: Wainwright St. Cloud'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/war-wizards.webp
+    alt: 'Ally card: War Wizards'
+    caption: Ally card, Arc VIII
+  - src: /images/cards/zanzibar.webp
+    alt: 'Ally card: Zanzibar, King of Punis'
+    caption: Ally card, Arc VIII
 ---
 
 **Game artefact · 41 cards · Made October 2023 for the final session of End of the Infanta**

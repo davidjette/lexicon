@@ -40,6 +40,9 @@ published: '2026-09-10'
 wa:
   slug: digma-beeve-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/digma-beeve-1.webp
+  alt: Digma Beeve
 ---
 
 **Halfling · Furniture trader · Founder of Fulcrum · Comptroller of the Republic of Talenta · Alive**

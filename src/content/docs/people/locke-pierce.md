@@ -48,6 +48,9 @@ wa:
   slug: locke-pierce-person
   uuid: b0bcbcec-5fe3-4cd0-ac51-f7d2d1988aa0
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
+image:
+  src: /images/site/locke-pierce-1.webp
+  alt: Locke Pierce
 ---
 
 **Warforged · Artificer / Armorer · [The Unforeseen](/organizations/the-unforeseen/), then The Hundreds · Ancient Relic Specialist, Director of the Rekkenmark Newham Annex, leader of the Warforged nation of the Mournlands · **Alive****

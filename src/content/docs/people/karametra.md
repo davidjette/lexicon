@@ -31,6 +31,10 @@ wa:
   slug: karametra-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Kara(metra)
+image:
+  src: /images/cards/karametra.webp
+  alt: 'Ally card: Kara(metra)'
+  caption: Ally card, Arc VIII
 ---
 
 > We knew the moment we saw (the Egg) that sometime in the future I would break my promise and call him here. So she left me, to try and move the Moon.

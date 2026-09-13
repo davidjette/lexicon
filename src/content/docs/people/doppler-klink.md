@@ -41,6 +41,9 @@ published: '2026-09-10'
 wa:
   slug: doppler-klink-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/doppler-klink-1.webp
+  alt: Doppler Klink
 ---
 
 **Cogborn · Tinkerer · Last War veteran · Alive, departed Sharn**

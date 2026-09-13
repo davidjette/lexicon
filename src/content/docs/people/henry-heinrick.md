@@ -43,6 +43,10 @@ wa:
   slug: henry-heinrick-person
   uuid: 711dc409-d74a-4a1c-8117-562959b8b755
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+image:
+  src: /images/site/henry-heinrick-1.webp
+  alt: The Heinrick Family
+  caption: The Heinrick Family
 ---
 
 **Human · Nobleman / Chief Diplomat · Council of 13 · Mayor of Sharn · Dead**

@@ -37,6 +37,10 @@ wa:
   slug: aurora-26-astra-saharel-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Aurora & Astra Saharel
+image:
+  src: /images/cards/aurora-and-astra-saharel.webp
+  alt: 'Ally card: Aurora & Astra Saharel'
+  caption: Ally card, Arc VIII
 ---
 
 > My sister and I came to Sigil with the sage, after the Second Fall. We took the Banefaes home while they were feeding our people into oblivion. By the time they returned, the cities were ours. We cast them into Despondos where all of them perished.

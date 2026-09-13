@@ -49,6 +49,10 @@ published: '2026-09-10'
 wa:
   slug: the-lexicon-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/cards/the-lexicon.webp
+  alt: 'Ally card: The Lexicon'
+  caption: Ally card, Arc VIII
 ---
 
 > Even as the gods are shut out from the world, their avatars could live in Motherstone, unite, and live in eternal peace. Rather than use this power for his gain, the Lexicons creator would open the doors of the city to all Infanta, reestablish divine rule over the Prime material plane for every living god, if they chose to set aside their armies and live in peace.

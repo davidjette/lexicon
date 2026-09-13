@@ -51,6 +51,6 @@ At the end of time, the dying goddess June shows Chronocypher "three places wher
 
 ## Maps
 
-- [Refuge](https://www.worldanvil.com/w/infantaverse-sydiot/map/a8d648ee-e2bf-4c01-a680-6d8c2c016304)
+- [Refuge](/maps/60-refuge/)
 
 **Related:** [The Mammon Machine](/items/the-mammon-machine/) · [R'lyeh](/places/rlyeh/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [The Anachron](/items/the-anachron/) · [Arc V: Starfall](/history/arc-v-starfall/)

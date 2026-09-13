@@ -40,6 +40,9 @@ published: '2026-09-10'
 wa:
   slug: martin-kross-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/site/martin-kross-1.webp
+  alt: Martin Kross
 ---
 
 **Junior enhancement-technician, BioTec · Fugitive · Alive, departed Sharn**

@@ -40,6 +40,9 @@ published: '2026-09-10'
 wa:
   slug: jessica-grimpledink-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/jessica-grimpledink-1.webp
+  alt: Jessica Grimpledink
 ---
 
 **Artificer · Leader of the Nest · Alive**

@@ -32,6 +32,12 @@ published: '2026-09-10'
 wa:
   slug: skyroot-park-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/skyroot-park-1.webp
+  alt: Skyroot Park
+gallery:
+  - src: /images/site/skyroot-park-2.webp
+    alt: Skyroot Park
 ---
 
 **Park · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Suspended parkland · Standing**

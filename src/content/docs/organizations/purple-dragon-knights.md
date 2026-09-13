@@ -26,6 +26,10 @@ wa:
   slug: purple-dragon-knights-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Purple Dragon Knights
+image:
+  src: /images/cards/purple-dragon-knights.webp
+  alt: 'Ally card: Purple Dragon Knights'
+  caption: Ally card, Arc VIII
 ---
 
 > The war was declared with much pomp more than four months ago, and the people of Sembia and the Dales girded their loins, only to be left waiting.

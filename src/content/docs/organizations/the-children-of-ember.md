@@ -33,6 +33,10 @@ published: '2026-09-10'
 wa:
   slug: the-children-of-ember-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/site/the-children-of-ember-1.webp
+  alt: MISSION OVERVIEW
+  caption: MISSION OVERVIEW
 ---
 
 **Cult · The Vault Underground, Upper City Sharn · Leadership destroyed**

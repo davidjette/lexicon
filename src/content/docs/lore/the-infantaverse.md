@@ -86,6 +86,6 @@ Lore that is erased or hidden in-world — the material the Oblivia took — is 
 
 World maps.
 
-- [World Map — Antiquity](https://www.worldanvil.com/w/infantaverse-sydiot/map/f9cd0a82-0198-4d54-99cd-11a44345c9ad)
-- [Faerûn (2nd Edition), Infanta era](https://www.worldanvil.com/w/infantaverse-sydiot/map/8fb8c0fa-ae96-453d-aff1-38caed939813)
-- [Faerûn (2nd Edition), Infanta era, with the campaign's notes](https://www.worldanvil.com/w/infantaverse-sydiot/map/22e7b90c-e60a-43be-9369-403e92581e40)
+- [World Map — Antiquity](/maps/57-world-map-antiquity/)
+- [Faerûn (2nd Edition), Infanta era](/maps/58-faerun-2nd-edition-infanta-era/)
+- [Faerûn (2nd Edition), Infanta era, with the campaign's notes](/maps/59-faerun-2nd-edition-infanta-era-with-the-campaign-s-notes/)

@@ -47,6 +47,13 @@ wa:
   slug: e873d4b7-4a63-4e80-80dc-7cd41abe73c3
   uuid: fb1c6036-a261-405d-b6d4-995e8eecb5f4
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/zero-of-sharn-1.webp
+  alt: Zero of Sharn
+gallery:
+  - src: /images/site/zero-of-sharn-2.webp
+    alt: Zero
+    caption: Zero
 ---
 
 **Human · Cleric of the Silver Flame · The Nest · Alive**

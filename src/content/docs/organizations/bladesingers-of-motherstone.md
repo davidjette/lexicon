@@ -27,6 +27,10 @@ wa:
   slug: bladesingers-of-motherstone-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Bladesingers of Motherstone
+image:
+  src: /images/cards/bladesingers-of-motherstone.webp
+  alt: 'Ally card: Bladesingers of Motherstone'
+  caption: Ally card, Arc VIII
 ---
 
 > Together they formed a Cult of the Infanta, they call themselves Lusmundii (Light of the World).

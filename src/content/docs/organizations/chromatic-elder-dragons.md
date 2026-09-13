@@ -26,6 +26,10 @@ wa:
   slug: chromatic-elder-dragons-organization
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
   image_card: Chromatic Elder Dragons
+image:
+  src: /images/cards/chromatic-elder-dragons.webp
+  alt: 'Ally card: Chromatic Elder Dragons'
+  caption: Ally card, Arc VIII
 ---
 
 > They are here to do the same as the Abolethi courtesan, to convince her gloriousness to destroy the Moon.

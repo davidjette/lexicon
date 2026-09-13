@@ -50,6 +50,10 @@ published: '2026-09-10'
 wa:
   slug: zanzibar-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/cards/zanzibar.webp
+  alt: 'Ally card: Zanzibar, King of Punis'
+  caption: Ally card, Arc VIII
 ---
 
 **Species unknown · Crown Prince of Punis · Temple Holdings LLC / the royal house of Punis · Alive**

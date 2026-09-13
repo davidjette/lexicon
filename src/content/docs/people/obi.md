@@ -35,6 +35,14 @@ published: '2026-09-10'
 wa:
   slug: obi2C-infanta-of-order-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/cards/obi-2.webp
+  alt: 'Ally card: Obi, Infanta of Order'
+  caption: Ally card, Arc VIII
+gallery:
+  - src: /images/cards/obi.webp
+    alt: 'Ally card: Obi, Infanta of Order'
+    caption: Ally card, Arc VIII
 ---
 
 > Vera is led into the Observatory where Obi is slumped over a desk covered in star charts. She sets a package of clothes and food and drawing supplies next to him, sits down and starts to rub his face. St. Cloud enters and she frowns at him. "Obi is not safe with these people."

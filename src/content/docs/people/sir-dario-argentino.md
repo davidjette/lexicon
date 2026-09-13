@@ -53,6 +53,9 @@ wa:
   slug: f47b8ed5-7adf-4935-870c-42c903223e32
   uuid: a2556302-255a-4265-8c73-8426253e23e8
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
+image:
+  src: /images/site/sir-dario-argentino-1.webp
+  alt: Sir Dario Argentino
 ---
 
 **Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 12 · Alive**

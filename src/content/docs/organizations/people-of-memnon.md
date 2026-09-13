@@ -26,6 +26,10 @@ wa:
   slug: people-of-memnon-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: People of Memnon
+image:
+  src: /images/cards/people-of-memnon.webp
+  alt: 'Ally card: People of Memnon'
+  caption: Ally card, Arc VIII
 ---
 
 **Human commoners · The city of Memnon · Allies from Arc VI**

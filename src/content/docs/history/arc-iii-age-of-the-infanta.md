@@ -153,7 +153,7 @@ The age of reborn gods gives way to the age of the machines that hunt them. With
 
 ## Maps
 
-- [Caer Westphal I](https://www.worldanvil.com/w/infantaverse-sydiot/map/479cc1fe-de82-473f-8827-29e4474a6713)
-- [Caer Westphal II](https://www.worldanvil.com/w/infantaverse-sydiot/map/e4882c64-6a03-41ec-941e-6e9649f78562)
-- [Caer Westphal III](https://www.worldanvil.com/w/infantaverse-sydiot/map/c77f646c-b1e8-4341-8320-6e46976eb238)
-- [Caer Westphal IV](https://www.worldanvil.com/w/infantaverse-sydiot/map/1d7bf1f6-57df-4b44-968a-05415c9e8b02)
+- [Caer Westphal I](/maps/16-caer-westphal-i/)
+- [Caer Westphal II](/maps/17-caer-westphal-ii/)
+- [Caer Westphal III](/maps/18-caer-westphal-iii/)
+- [Caer Westphal IV](/maps/19-caer-westphal-iv/)

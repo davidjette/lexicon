@@ -27,6 +27,10 @@ wa:
   slug: atlas-and-the-sea-elves-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Atlas and the Sea Elves
+image:
+  src: /images/cards/atlas-and-the-sea-elves.webp
+  alt: 'Ally card: Atlas and the Sea Elves'
+  caption: Ally card, Arc VIII
 ---
 
 > You saved us from the mindflayers and defeated the Waning One. You are the true bearers of Glassbane. We are with you to the end.

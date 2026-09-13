@@ -26,6 +26,10 @@ wa:
   slug: king-arthur-and-his-knights-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: King Arthur and his Knights
+image:
+  src: /images/cards/king-arthur-and-his-knights.webp
+  alt: 'Ally card: King Arthur and his Knights'
+  caption: Ally card, Arc VIII
 ---
 
 **Human paladins · The Knights of the Round Table · Allies from Arc VI**

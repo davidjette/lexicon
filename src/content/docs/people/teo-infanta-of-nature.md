@@ -23,6 +23,10 @@ wa:
   slug: teo2C-infanta-of-nature-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Teo, Infanta of Nature
+image:
+  src: /images/cards/teo-infanta-of-nature.webp
+  alt: 'Ally card: Teo, Infanta of Nature'
+  caption: Ally card, Arc VIII
 ---
 
 **Infanta of Nature · Ally at the Egg · Fate not recorded**

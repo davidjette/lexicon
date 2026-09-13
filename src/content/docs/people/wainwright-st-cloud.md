@@ -65,6 +65,10 @@ published: '2026-09-10'
 wa:
   slug: wainwright-st-cloud-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/cards/wainwright-st-cloud.webp
+  alt: 'Ally card: Wainwright St. Cloud'
+  caption: Ally card, Arc VIII
 ---
 
 **Human · Warlock 17 / Rogue 3 (sheet) · Lawful Evil · Chairman of the Sword Coast Trading Company · High Counselor to the Emperor · Immortal; whereabouts unknown**

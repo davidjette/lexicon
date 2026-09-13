@@ -28,6 +28,10 @@ wa:
   slug: sable2C-the-cyclone-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Sable, the Cyclone
+image:
+  src: /images/cards/sable-the-cyclone.webp
+  alt: 'Ally card: Sable, the Cyclone'
+  caption: Ally card, Arc VIII
 ---
 
 **Half-elf monk · The Nimbus Clan · Revan's sister · Undead by the final battle**

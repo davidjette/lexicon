@@ -31,6 +31,10 @@ wa:
   slug: jeggings-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Jeggings
+image:
+  src: /images/cards/jeggings.webp
+  alt: 'Ally card: Jeggings'
+  caption: Ally card, Arc VIII
 ---
 
 > It was a rescue mission, and as far as Jeggings knows, it was mostly a failure. They brought a few broken soldiers and a child with them back to Waterdeep. And quite a few slow, low cruises through hot winds over the Aunuroch Desert, as if St. Cloud was looking for something.

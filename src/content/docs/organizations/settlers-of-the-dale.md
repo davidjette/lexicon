@@ -26,6 +26,10 @@ wa:
   slug: settlers-of-the-dale-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Settlers of the Dale
+image:
+  src: /images/cards/settlers-of-the-dale.webp
+  alt: 'Ally card: Settlers of the Dale'
+  caption: Ally card, Arc VIII
 ---
 
 **Human commoners · Suzara's City and Camp Vengeance · Allies from Arc VI**

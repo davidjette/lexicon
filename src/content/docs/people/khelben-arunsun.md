@@ -29,6 +29,10 @@ wa:
   slug: khelben-arunsun-blackstaff-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Khelben Arunsun (Blackstaff)
+image:
+  src: /images/cards/khelben-arunsun.webp
+  alt: 'Ally card: Khelben Arunsun (Blackstaff)'
+  caption: Ally card, Arc VIII
 ---
 
 **Human wizard · Blackstaff of Waterdeep · Missing; ally at the Egg**

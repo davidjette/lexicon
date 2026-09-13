@@ -27,6 +27,10 @@ wa:
   slug: horsemen-of-the-plains-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Horsemen of the Plains
+image:
+  src: /images/cards/horsemen-of-the-plains.webp
+  alt: 'Ally card: Horsemen of the Plains'
+  caption: Ally card, Arc VIII
 ---
 
 > You saved our people from the God of Murder. We are with you till the end.

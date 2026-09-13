@@ -41,6 +41,9 @@ published: '2026-09-10'
 wa:
   slug: renn-tal-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/renn-tal-1.webp
+  alt: Renn Tal
 ---
 
 **Archivist · Old Histories Wing, Sharn Library · Trusted by R.U.S.T. · Alive**

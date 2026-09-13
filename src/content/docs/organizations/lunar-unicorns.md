@@ -25,6 +25,10 @@ wa:
   slug: lunar-unicorns-organization
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
   image_card: Lunar Unicorns
+image:
+  src: /images/cards/lunar-unicorns.webp
+  alt: 'Ally card: Lunar Unicorns'
+  caption: Ally card, Arc VIII
 ---
 
 > And in the distance, a group of hunters, covered in silvery blood, consuming their grim quarry. The Banefae are hunting unicorns.

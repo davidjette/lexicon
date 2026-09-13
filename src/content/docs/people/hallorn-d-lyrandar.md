@@ -43,6 +43,9 @@ wa:
   slug: hallorn-d-lyrandar-person-1
   uuid: b8f692c8-f945-4188-9010-fd807ce757c9
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+image:
+  src: /images/site/hallorn-d-lyrandar-1.webp
+  alt: Hallorn d'Lyrandar
 ---
 
 **Khoravar · Engineer / Pilot · House Lyrandar · Imperial Head of Transportation · Dead**

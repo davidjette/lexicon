@@ -39,6 +39,10 @@ wa:
   slug: calix-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Calix
+image:
+  src: /images/cards/calix.webp
+  alt: 'Ally card: Calix'
+  caption: Ally card, Arc VIII
 ---
 
 **Elf wizard · Lich · Betrayer of Motherstone · Later advisor to the Infanta · Ally at the Egg**

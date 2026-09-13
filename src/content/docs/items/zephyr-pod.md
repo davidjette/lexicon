@@ -30,6 +30,9 @@ published: '2026-09-10'
 wa:
   slug: zephyr-pod-item
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/zephyr-pod-1.webp
+  alt: Zephyr Pod
 ---
 
 **Personal ground vehicle · Sharn · In service**

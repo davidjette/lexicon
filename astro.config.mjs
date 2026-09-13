@@ -17,19 +17,20 @@ const BASE = '/lexicon';
 function rehypeBaseLinks() {
 	/** @param {any} node */
 	const walk = (node) => {
+		const attr = node.tagName === 'a' ? 'href' : node.tagName === 'img' ? 'src' : null;
 		if (
-			node.tagName === 'a' &&
+			attr &&
 			node.properties &&
-			typeof node.properties.href === 'string'
+			typeof node.properties[attr] === 'string'
 		) {
-			const href = node.properties.href;
+			const href = node.properties[attr];
 			if (
 				href.startsWith('/') &&
 				!href.startsWith('//') &&
 				href !== BASE &&
 				!href.startsWith(BASE + '/')
 			) {
-				node.properties.href = BASE + href;
+				node.properties[attr] = BASE + href;
 			}
 		}
 		if (node.children) node.children.forEach(walk);
@@ -67,6 +68,7 @@ export default defineConfig({
 			sidebar: [
 				{ label: 'Home', link: '/' },
 				...KINDS.map(([directory, label]) => ({ label, collapsed: true, items: [{ autogenerate: { directory } }] })),
+				{ label: 'Maps', link: '/maps/' },
 				{ label: 'Sealed Records', link: '/sealed-records/' },
 			],
 		}),

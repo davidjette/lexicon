@@ -30,6 +30,9 @@ published: '2026-09-10'
 wa:
   slug: airbus-item
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/airbus-1.webp
+  alt: Airbus
 ---
 
 **Public transit vehicle · Sharn · In service**

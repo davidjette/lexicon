@@ -1,0 +1,55 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { MAPS, withBase } from '../../lib/maps';
+---
+
+<StarlightPage frontmatter={{ title: 'Maps', description: 'Every map in the Lexicon.', tableOfContents: false }}>
+	<p>{MAPS.length} maps. Select one to open it full size.</p>
+	<ul class="map-grid">
+		{
+			MAPS.map((m) => (
+				<li>
+					<a href={withBase(`/maps/${m.id}/`)}>
+						<img src={withBase(m.thumb)} alt="" loading="lazy" decoding="async" width="520" height={m.width ? Math.round((520 * m.height) / m.width) : undefined} />
+						<span>{m.title}</span>
+					</a>
+				</li>
+			))
+		}
+	</ul>
+</StarlightPage>
+
+<style>
+	.map-grid {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+		gap: 1rem;
+	}
+	.map-grid li {
+		margin: 0;
+	}
+	.map-grid a {
+		display: flex;
+		flex-direction: column;
+		gap: 0.4rem;
+		text-decoration: none;
+		color: inherit;
+	}
+	.map-grid img {
+		width: 100%;
+		height: 9rem;
+		object-fit: cover;
+		border: 1px solid var(--gold, #8a6d2f);
+		border-radius: 4px;
+		background: var(--sl-color-gray-6);
+	}
+	.map-grid span {
+		font-size: var(--sl-text-sm);
+		font-weight: 600;
+	}
+	.map-grid a:hover span {
+		color: var(--sl-color-text-accent);
+	}
+</style>

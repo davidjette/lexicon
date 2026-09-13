@@ -42,6 +42,10 @@ wa:
   slug: c00f2b19-cde4-4258-9273-16a6ad403733
   uuid: 4191729d-dfc2-4deb-b60a-3199343f673f
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/blair-1.webp
+  alt: Blair "Queen B"
+  caption: Blair "Queen B"
 ---
 
 **Female Tiefling · Queen of the Underhive · Sovereign of the undercity, Sharn · Alive**

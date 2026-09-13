@@ -36,6 +36,10 @@ published: '2026-09-10'
 wa:
   slug: the-vault-underground-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/the-vault-underground-1.webp
+  alt: 'The Vault: Underground'
+  caption: 'The Vault: Underground'
 ---
 
 **Nightclub and private residence · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · The Zeir residence · Destroyed as an operation**

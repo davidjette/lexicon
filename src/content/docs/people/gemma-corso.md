@@ -54,6 +54,9 @@ wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
+image:
+  src: /images/site/gemma-corso-1.webp
+  alt: Gemma Corso
 ---
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**

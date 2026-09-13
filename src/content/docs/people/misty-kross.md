@@ -41,6 +41,10 @@ published: '2026-09-10'
 wa:
   slug: misty-kross-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+image:
+  src: /images/site/misty-kross-1.webp
+  alt: Kriss & Misty Kross
+  caption: Kriss & Misty Kross
 ---
 
 **Cogborn · Engineer · RUST inner circle · Alive**

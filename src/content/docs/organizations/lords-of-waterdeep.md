@@ -29,6 +29,10 @@ wa:
   slug: lords-of-waterdeep-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
   image_card: Lords of Waterdeep
+image:
+  src: /images/cards/lords-of-waterdeep.webp
+  alt: 'Ally card: Lords of Waterdeep'
+  caption: Ally card, Arc VIII
 ---
 
 > The Lords of Waterdeep are not ruled by a boy, God or not, we have our laws. And laws apply to all, including the Gods. — Masked Lord / You dont know how right you are. — WSC

@@ -33,6 +33,10 @@ wa:
   slug: holden-tudyx-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   image_card: Holden Tudyx
+image:
+  src: /images/cards/holden-tudyx.webp
+  alt: 'Ally card: Holden Tudyx'
+  caption: Ally card, Arc VIII
 ---
 
 **Elf wizard · Headmaster of Abjuration, Grand-Magus of the Arcaneum · Died at the Arcaneum; ally at the Egg as undead**

@@ -45,6 +45,71 @@ published: '2026-09-10'
 wa:
   slug: sharn-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/site/sharn-1.webp
+  alt: Arcane Eye Security Network
+  caption: Arcane Eye Security Network
+gallery:
+  - src: /images/site/sharn-2.webp
+    alt: Arcane Eye Security Network
+    caption: Arcane Eye Security Network
+  - src: /images/site/sharn-3.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-4.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-5.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-6.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-7.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-8.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-9.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-10.webp
+    alt: Episode
+    caption: Episode
+  - src: /images/site/sharn-11.webp
+    alt: 'SEE UPDATE:'
+    caption: 'SEE UPDATE:'
+  - src: /images/site/sharn-12.webp
+    alt: ⭐COMPLETED⭐
+    caption: ⭐COMPLETED⭐
+  - src: /images/site/sharn-13.webp
+    alt: ⭐COMPLETED⭐
+    caption: ⭐COMPLETED⭐
+  - src: /images/site/sharn-14.webp
+    alt: ⭐COMPLETED⭐
+    caption: ⭐COMPLETED⭐
+  - src: /images/site/sharn-15.webp
+    alt: ⭐COMPLETED⭐
+    caption: ⭐COMPLETED⭐
+  - src: /images/site/sharn-16.webp
+    alt: ⭐COMPLETED⭐
+    caption: ⭐COMPLETED⭐
+  - src: /images/site/sharn-17.webp
+    alt: ⭐COMPLETED⭐
+    caption: ⭐COMPLETED⭐
+  - src: /images/site/sharn-18.webp
+    alt: COMPLETED⭐
+    caption: COMPLETED⭐
+  - src: /images/site/sharn-19.webp
+    alt: COMPLETED⭐
+    caption: COMPLETED⭐
+  - src: /images/site/sharn-20.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/site/sharn-21.webp
+    alt: Most‑Viewed ArcEye Feed in Sharn
+    caption: Most‑Viewed ArcEye Feed in Sharn
 ---
 
 **City · Breland · Vertical metropolis · Formerly Imperial, now self-governing · Standing**
@@ -144,4 +209,4 @@ Three years on, the free city is hungry. The destruction of [Zilspar Farm](/plac
 
 ## Maps
 
-- [Sharn](https://www.worldanvil.com/w/infantaverse-sydiot/map/4e59154e-e888-4ae1-863a-f5fd80373f95)
+- [Sharn](/maps/50-sharn/)

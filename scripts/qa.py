@@ -238,6 +238,11 @@ def known_targets():
         rel = re.sub(r'\.(md|mdx)$', '', rel)
         known.add(re.sub(r'/?index$', '', rel))
     known.add('sealed-records')
+    known.add('maps')
+    maps = os.path.join(ROOT, 'src', 'data', 'maps.json')
+    if os.path.exists(maps):
+        import json
+        known.update('maps/' + m['id'] for m in json.load(open(maps, encoding='utf-8')))
     return known
 
 

@@ -41,6 +41,14 @@ published: '2026-09-10'
 wa:
   slug: dr-joanne-menka-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/site/dr-joanne-menka-1.webp
+  alt: Joanne Menka
+  caption: Joanne Menka
+gallery:
+  - src: /images/site/dr-joanne-menka-2.webp
+    alt: Joanne Menka
+    caption: Joanne Menka
 ---
 
 **Head Hybrid Specialist, BioTec · Full Imperial clearance · Executed after the Sharn rising · Lead scientist, Project E.D.E.N.**

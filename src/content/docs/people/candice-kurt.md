@@ -31,6 +31,9 @@ published: '2026-09-10'
 wa:
   slug: candice-kurt-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/site/candice-kurt-1.webp
+  alt: Candice Kurt
 ---
 
 **Celebrity news anchor and political commentator · Host of Serving Sharn Nightly · Imperial media · Deceased**

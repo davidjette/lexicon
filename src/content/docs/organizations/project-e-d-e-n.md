@@ -31,6 +31,14 @@ published: '2026-09-10'
 wa:
   slug: project-eden-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/site/project-e-d-e-n-3.webp
+  alt: Project E.D.E.N.
+gallery:
+  - src: /images/site/project-e-d-e-n-1.webp
+    alt: Project E.D.E.N.
+  - src: /images/site/project-e-d-e-n-2.webp
+    alt: Project E.D.E.N.
 ---
 
 **Classified Imperial military initiative · Hybridisation programme · Operated by BioTec under Dr. Joanne Menka · Deployed into the Mournlands · Active**
