@@ -1,49 +1,87 @@
-# Starlight Starter Kit: Basics
+# The Lexicon
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+The record of a long-running D&D continuity, published at **https://davidjette.github.io/lexicon/**.
+
+Markdown in this repo is the source of truth. Astro + Starlight build it into a static site, and every
+push to `main` redeploys through GitHub Pages (`.github/workflows/deploy.yml`).
+
+## Layout
+
+| Path | What it is |
+|---|---|
+| `src/content/docs/<kind>/<slug>.md` | The articles. The folder is the kind (people, places, organizations, history, sessions, items, lore, species), the file name is the slug. |
+| `house/STYLE.md` | The article specification. Read the Lexicon addendum at the top first. |
+| `house/LEAK-ADJUDICATIONS.md` | Leak-check hits that were verified as player-safe. |
+| `canon/` | **Private.** Dave's CANON register and the notes log. Its own local git repo, ignored by this one, never pushed. |
+| `scripts/` | Import, QA, the notes loop, and their self-tests. |
+| `sources/` | Source material the articles cite. |
+| `legacy/` | The June 2026 pages, superseded by the World Anvil import, kept for a later merge. |
+
+## Editing
+
+Edit the markdown directly, in any editor. Front matter carries `title`, `description` (one sentence,
+under 160 characters), `tags`, `fields` and `sources`. Internal links are `[Name](/<kind>/<slug>/)`.
+
+After a clone, turn on the hook that refuses to commit a note to Claude:
 
 ```
-npm create astro@latest -- --template starlight
+git config core.hooksPath .githooks
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Notes to Claude
 
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+Leave an instruction for Claude inside an article, as an HTML comment:
 
 ```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+<!-- @claude: add her time as a general at the Battle of the River Lis -->
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+```
+npm run notes              # list pending notes, change nothing
+npm run notes -- --run     # apply them: one article, one commit at a time
+python scripts/notes.py --run kara --push   # just Kara, then build, check and push
+```
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+Claude reads `house/STYLE.md` and `canon/CANON.md`, carries out the notes, and removes them. The rewrite
+is kept only if no other file changed, every note is gone, the front matter parses, and QA finds no new
+problem. Otherwise the article is restored exactly as it was, and the reason goes to
+`canon/notes-log.md`. Notes never reach the public repo or the site: the build strips comments,
+`npm run links` fails if one survives, and the pre-commit hook refuses a staged note.
 
-Static assets, like favicons, can be placed in the `public/` directory.
+A note Claude declines (it would contradict CANON or publish something unrevealed) stays in the
+article, with the explanation in the log.
 
-## 🧞 Commands
+## Obliviated content
 
-All commands are run from the root of the project, from a terminal:
+Seal it rather than delete it:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+```
+:redacted[the hidden words]{label="What it is" reason="Why it was erased" source="where it comes from"}
 
-## 👀 Want to learn more?
+:::redacted{label="A whole passage"}
+Hidden paragraphs.
+:::
+```
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+or `redacted: {label, reason, source}` in front matter to seal a whole article. Readers click to reveal.
+Every redaction is listed, without its text, at `/sealed-records/` and `/redactions.json`.
+An example page is `src/content/docs/lore/redaction-test.md` (a draft: shown by `npm run dev` only).
+
+## Checks
+
+```
+npm run qa          # style, brackets, descriptions, links, leaks and stray notes, over every article
+npm run build       # the site; a duplicate redaction id fails it
+npm run links       # every internal link in dist/ resolves, and no note reached the output
+npm run qa:test     # the QA checks catch planted defects
+python scripts/test_notes.py   # the notes loop rejects every kind of bad rewrite
+```
+
+The leak check compares articles with the DM-only files in `C:\dev\sharn-campaign`, so it only runs on
+Dave's machine.
+
+## Importing from World Anvil
+
+World Anvil is frozen. `npm run import:wa` re-reads `C:\dev\sharn-campaign\worldanvil` and rewrites the
+imported articles, but it skips any file edited since the last import (hashes in
+`docs/import-manifest.json`). `docs/corpus-report.md` describes that corpus.

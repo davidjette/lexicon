@@ -4,8 +4,8 @@ import starlight from '@astrojs/starlight';
 import remarkRedacted from './src/plugins/remark-redacted.mjs';
 import remarkStripComments from './src/plugins/remark-strip-comments.mjs';
 
-// Deployed to GitHub Pages as a project site at https://davidjette.github.io/infantaverse/
-const BASE = '/infantaverse';
+// Deployed to GitHub Pages as a project site at https://davidjette.github.io/lexicon/
+const BASE = '/lexicon';
 
 // Astro does not prepend `base` to root-relative links written by hand in
 // markdown/MDX content (e.g. `[Calix](/characters/calix/)`). Starlight handles
