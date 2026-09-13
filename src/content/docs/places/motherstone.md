@@ -146,14 +146,3 @@ Before that return the party spent ten years below, in the slow time of Calix's 
 At the Second Battle of Motherstone the Lexicon left the mountain for good. The machine was shut down from its own console: the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) reached the Seat of the Lexicon at the underground focal point of the city's largest crystal, possessed [Roland Deschain](/people/roland-deschain/), and used his own artificer's knowledge of the machine to scram it — which lowered the great **Mythal** the Lexicon powered and managed. [Wainwright St. Cloud](/people/wainwright-st-cloud/) then jumped his ships into the city's airspace. The city won the battle and the Lexicon was severely damaged. Roland and [Brother Magnus](/people/brother-magnus/) then connected the [Anachron](/items/the-anachron/) and duplicated the Lexicon's code into it, moving the Lexicon out of the mountain and into the Anachron. From then on the Lexicon travelled with the party aboard the Arielle, and Motherstone ran without it: trash "piles up before it can be physically removed and burned, instead of fed into the Deepmaker for recycling as it was before," and "conflict is breaking out between ethnic and class groups." <small>(The session plan for the approach has St. Cloud "rushing to get to the Lexicon's control room to overtake the Obliviator" (Arc III Part XII, Lost Children). The state of the city afterwards: Arc IV Part II. The Lexicon's later life, as the Anachron and then the Chronicle, is at [The Anachron](/items/the-anachron/).)</small>
 
 **Right now:** Motherstone is reclaimed and long ruined at once — a capital whose mind is dark, whose two peoples still blame each other for a crime neither can name, and beneath which the Crack still runs down to a sleeping god.
-
-## Maps
-
-Six maps of the hidden city.
-
-- [Motherstone — Map 1](/maps/21-motherstone-map-1/)
-- [Motherstone — Map 2](/maps/22-motherstone-map-2/)
-- [Motherstone — Map 3](/maps/23-motherstone-map-3/)
-- [Motherstone — Map 4](/maps/24-motherstone-map-4/)
-- [Motherstone — Map 5](/maps/25-motherstone-map-5/)
-- [Motherstone — Map 6](/maps/26-motherstone-map-6/)

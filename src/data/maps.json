@@ -200,66 +200,6 @@
   "wa": "27a78bd6-0194-451b-a1e2-ea34bbc4ac6e"
  },
  {
-  "id": "21-motherstone-map-1",
-  "n": 21,
-  "title": "Motherstone — Map 1",
-  "src": "/images/maps/21-motherstone-map-1.webp",
-  "thumb": "/images/maps/21-motherstone-map-1-thumb.webp",
-  "width": 2600,
-  "height": 2600,
-  "wa": "1195d7d8-f1f9-4e50-b714-45667041b601"
- },
- {
-  "id": "22-motherstone-map-2",
-  "n": 22,
-  "title": "Motherstone — Map 2",
-  "src": "/images/maps/22-motherstone-map-2.webp",
-  "thumb": "/images/maps/22-motherstone-map-2-thumb.webp",
-  "width": 2600,
-  "height": 2600,
-  "wa": "e1f85661-9c27-4e31-9b2a-a1583afbeb7f"
- },
- {
-  "id": "23-motherstone-map-3",
-  "n": 23,
-  "title": "Motherstone — Map 3",
-  "src": "/images/maps/23-motherstone-map-3.webp",
-  "thumb": "/images/maps/23-motherstone-map-3-thumb.webp",
-  "width": 2600,
-  "height": 2600,
-  "wa": "f2a8541d-bb93-447e-b651-8a856b5e5ac2"
- },
- {
-  "id": "24-motherstone-map-4",
-  "n": 24,
-  "title": "Motherstone — Map 4",
-  "src": "/images/maps/24-motherstone-map-4.webp",
-  "thumb": "/images/maps/24-motherstone-map-4-thumb.webp",
-  "width": 2600,
-  "height": 2600,
-  "wa": "817af215-cb6c-4f0f-a74f-9d7009966a14"
- },
- {
-  "id": "25-motherstone-map-5",
-  "n": 25,
-  "title": "Motherstone — Map 5",
-  "src": "/images/maps/25-motherstone-map-5.webp",
-  "thumb": "/images/maps/25-motherstone-map-5-thumb.webp",
-  "width": 2600,
-  "height": 2600,
-  "wa": "aafef5b7-13df-48c4-865b-94d72cad1542"
- },
- {
-  "id": "26-motherstone-map-6",
-  "n": 26,
-  "title": "Motherstone — Map 6",
-  "src": "/images/maps/26-motherstone-map-6.webp",
-  "thumb": "/images/maps/26-motherstone-map-6-thumb.webp",
-  "width": 2600,
-  "height": 2600,
-  "wa": "19d61bdc-bbd6-4c3d-9ff4-5e807f7335f0"
- },
- {
   "id": "27-the-arcaneum-malkuth-entrance",
   "n": 27,
   "title": "The Arcaneum — Malkuth (Entrance)",

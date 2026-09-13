@@ -106,7 +106,9 @@ for (const e of siteMap) {
 }
 
 // ------------------------------------------------------------------ maps
-const manifest = JSON.parse(readFileSync(join(WA, 'maps_stage', 'manifest.json'), 'utf8'));
+// Maps Dave removed from the site. Re-running the import must not bring them back.
+const REMOVED_MAPS = /^Motherstone\s*\W+\s*Map \d$/i; // never used in play (Dave, 2026-09-13)
+const manifest = JSON.parse(readFileSync(join(WA, 'maps_stage', 'manifest.json'), 'utf8')).filter((m) => !REMOVED_MAPS.test(m.title.replace(/\s+/g, ' ').trim()));
 const maps = [];
 for (const m of manifest) {
 	const title = m.title.replace(/\s+/g, ' ').trim();
