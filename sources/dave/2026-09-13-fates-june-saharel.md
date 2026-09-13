@@ -1,0 +1,3 @@
+# The Fates, June, the Saharel twins at the Egg: Dave's account, given in chat 2026-09-13 (verbatim)
+
+> The players know the LExicon is one being so thats not secret. I forgot, Istus was the god of Fate and Time, Eloise was the god of Space and Time, the way I usually lay ti out is Time, Fate, Mystery Eloise, Istus, Cypher.  The infanta at refuge was named June and was the incarnation of Istus.  More content notes - the Saharel sister were in the Egg twice - once as Marcus and Lady of Pain from the "present" and the Saharel twins as young women from Netheril from antiquity in the 'second' loop.  Remember, the team went back in time and recruited allies to egg, some of them were allies or enemies in their own timeline in the'future'.
