@@ -1,21 +1,23 @@
 ---
 title: Berenstain
 description: Blair's bear-man husband, who dug open the tunnel to the trapped Cogborn and holds the Underhive's seat on the Council of Sharn.
+tags:
+  - Berenstain
+  - Underhive
+  - Blair
+  - Queen B
+  - Council of Sharn
+  - Drones
+  - Cogborn
+  - The Spine
+  - Move Earth
+  - Sharn
+  - Department of Infrastructure
+  - Ziggurat
+image:
+  src: /images/uploads/berenstain-and-blair-mu0fuywe.webp
 type: person
 kind: people
-tags:
-- Berenstain
-- Underhive
-- Blair
-- Queen B
-- Council of Sharn
-- Drones
-- Cogborn
-- The Spine
-- Move Earth
-- Sharn
-- Department of Infrastructure
-- Ziggurat
 icon: fa-paw
 fields:
   rpgAlignment: Unknown
@@ -32,8 +34,8 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/key-figures.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/key-figures.txt
 published: '2026-09-10'
 wa:
   slug: berenstain-person
