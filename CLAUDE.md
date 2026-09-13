@@ -61,7 +61,7 @@ After pushing, confirm the deploy: `gh run watch --repo davidjette/lexicon`, the
 | `scripts/qa.py`, `scripts/notes.py` | QA, and the notes-to-Claude loop |
 | `src/plugins/` | Markdown: strip comments, redactions, sealed references |
 | `src/components/` | Starlight overrides (MarkdownContent, PageTitle, EditLink), Home, infobox, gallery |
-| `src/pages/` | Sealed Records, redactions.json, maps, the editor |
+| `src/pages/` | Sealed Records, redactions.json, maps, the editor, `llms.txt` and `articles.json` for outside models |
 | `public/images/` | cards, site, maps, uploads (from the browser editor) |
 | `worker/` | The browser editor's Cloudflare Worker |
 | `legacy/` | June 2026 pages, not built, awaiting a merge |

@@ -35,11 +35,19 @@ the browser. Every save is a commit with their name; each article's History show
 restores any of them. Setup and contributor management: `worker/README.md`. Their edits go live at once,
 so pull and run `npm run qa` regularly (the leak check only runs on Dave's machine).
 
+## Models editing at scale
+
+Point any model with HTTP access at **https://davidjette.github.io/lexicon/llms.txt**: it explains the
+article format, the writing rules, the index of every article (`/lexicon/articles.json`) and the editing
+API. Give each model its own contributor account (`npm run editor:add -- <model-name>`) so its edits are
+attributed in History and can be revoked. Review its edits like any contributor's (`lexicon-review`).
+The page is generated from `src/pages/llms.txt.ts`; update it when the API or the rules change.
+
 ## Images and maps
 
 Articles take `image: {src, alt, caption}` (shown in the infobox) and `gallery:`. Images live in
 `public/images/`: `cards/` (ally cards), `site/` (campaign site), `maps/` (60 maps, each with a page
-under `/maps/`), `uploads/` (browser editor). `npm run images` re-imports from the source folders.
+under `/maps/`), `uploads/` (browser editor, which shrinks uploads to WebP at most 1600px wide). `npm run images` re-imports from the source folders.
 
 ## Front page
 
