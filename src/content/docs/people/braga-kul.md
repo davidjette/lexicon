@@ -1,19 +1,21 @@
 ---
 title: Braga Kul
 description: Orc war-chief of the Uruk-Hoth recon regiment, who killed a paladin, refused to be taken alive, and died in a cell with a rock in his fist.
+tags:
+  - Braga Kul
+  - Bragga Kul
+  - War-Chief Braga Kul
+  - Uruk-Hoth
+  - Uruk-Hoth recon regiment
+  - orcs
+  - The Mountain Door
+  - The Korramont
+  - Korth
+  - Sir Dario Argentino
+image:
+  src: /images/uploads/braga-kul-mu0gwe0r.webp
 type: person
 kind: people
-tags:
-- Braga Kul
-- Bragga Kul
-- War-Chief Braga Kul
-- Uruk-Hoth
-- Uruk-Hoth recon regiment
-- orcs
-- The Mountain Door
-- The Korramont
-- Korth
-- Sir Dario Argentino
 icon: fa-skull
 fields:
   rpgAlignment: Unknown
@@ -30,10 +32,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/session-2026-07-11-recap.md
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- sources/site/korth-episode-summaries.txt
-- worldanvil/CANON.md
+  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: braga-kul-person
