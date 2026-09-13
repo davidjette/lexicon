@@ -1,21 +1,23 @@
 ---
 title: Bantide Moro
 description: 'The Nightingale: twenty years the rebellion''s surgeon under a clerk''s cover, tried on ten capital charges and escaped down the corpse chute.'
+tags:
+  - Bantide Moro
+  - Banteed Moro
+  - Bantide
+  - the Nightingale
+  - the Condemned
+  - Moro
+  - Deirdre Moro
+  - Fulcrum
+  - Izaak
+  - Izzak
+  - Silver Flame
+  - Korth
+image:
+  src: /images/uploads/bantide-moro-mu0fw3q8.webp
 type: person
 kind: people
-tags:
-- Bantide Moro
-- Banteed Moro
-- Bantide
-- the Nightingale
-- the Condemned
-- Moro
-- Deirdre Moro
-- Fulcrum
-- Izaak
-- Izzak
-- Silver Flame
-- Korth
 icon: fa-dove
 fields:
   rpgAlignment: Unknown
@@ -32,12 +34,12 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/npcs-korth.md
-- C:/dev/sharn-campaign/deirdre-moro-cases.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- C:/dev/sharn-campaign/korth.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/deirdre-moro-cases.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - C:/dev/sharn-campaign/korth.md
 published: '2026-09-10'
 wa:
   slug: bantide-moro-person
