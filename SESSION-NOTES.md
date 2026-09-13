@@ -2,7 +2,22 @@
 
 A working log for the wiki build, so any session can pick up where the last left off.
 
-## 2026-09-12: The Lexicon, step one (branch `lexicon`, not pushed)
+## 2026-09-13: live at https://davidjette.github.io/lexicon/ (repo renamed davidjette/lexicon)
+`README.md` is now the operating manual. Done overnight:
+- **Canon and house style moved in.** `canon/CANON.md` is PRIVATE: its own local git repo, gitignored, never
+  pushed (CANON holds material not yet revealed in-world, e.g. 5 "The Lexicon is one being"). `house/STYLE.md`
+  (markdown addendum on top) and `house/LEAK-ADJUDICATIONS.md` are public. The copies in
+  `C:\dev\sharn-campaign\worldanvil` are stale; `MOVED.md` there says so.
+- **QA ported to markdown:** `npm run qa` (`scripts/qa.py`), self-test `npm run qa:test`. Corpus: 0 failing,
+  12 warnings (9 possible taglines, 3 descriptions over 160 chars). The leak check still reads the DM-only
+  files in place. New adjudication: Uriel "Kaius is a dragon in disguise" (Caius->Kaius rename).
+- **Notes loop:** `<!-- @claude: ... -->` in an article, then `npm run notes -- --run`. QA-gated, one commit per
+  article, rejected rewrites restored exactly, private log `canon/notes-log.md`. `scripts/test_notes.py`
+  proves all 8 rejection guards. The build strips comments; `.githooks/pre-commit` refuses a staged note
+  (enable with `git config core.hooksPath .githooks`). First live run cost $1.03.
+- **Deploy:** `main` is the deploy branch. The old URL davidjette.github.io/infantaverse/ now 404s.
+
+## 2026-09-12: The Lexicon, step one
 The site is now **The Lexicon**, built from the frozen World Anvil corpus (`C:\dev\sharn-campaign\worldanvil`).
 World Anvil is frozen; markdown here is the source of truth. Plan: `~/.claude/plans/what-s-the-status-of-sparkling-snail.md`.
 - `python scripts/wa_import.py` converts 404 BBCode+JSON articles to `src/content/docs/<kind>/<slug>.md`.
