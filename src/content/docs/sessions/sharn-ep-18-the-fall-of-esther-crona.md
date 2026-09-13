@@ -1,35 +1,35 @@
 ---
 title: Sharn Ep 18 — The Fall of Esther Crona
 description: Esther Crona dies on her own balcony, voids the Iron Veil pact, and spends her last words ordering the Empress killed.
+tags:
+  - Sharn Ep 18
+  - Esther Crona
+  - Veil Building
+  - Black Veil
+  - Henry Heinrick
+  - Council of 13
+  - Honor Guard
+  - EBT-7
+  - Richard Blaze
+  - Calcifer
+  - Iron Veil
+  - Uriel Qualanthri
+image:
+  src: /images/uploads/chatgpt-image-jun-1-2026-04-38-51-pm-mu0fhz3l.webp
+  alt: 'Subject:'
+  caption: 'Subject:'
 sidebar:
   order: 218
 type: report
 kind: sessions
-tags:
-- Sharn Ep 18
-- Esther Crona
-- Veil Building
-- Black Veil
-- Henry Heinrick
-- Council of 13
-- Honor Guard
-- EBT-7
-- Richard Blaze
-- Calcifer
-- Iron Veil
-- Uriel Qualanthri
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-18-E28094-the-fall-of-esther-crona-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-image:
-  src: /images/site/sharn-ep-18-the-fall-of-esther-crona-1.webp
-  alt: 'Subject:'
-  caption: 'Subject:'
 gallery:
   - src: /images/site/sharn-ep-18-the-fall-of-esther-crona-2.webp
     alt: Page updated
