@@ -193,6 +193,9 @@ def apply(a, notes, leak_index, known):
         log(f'\n## {today} {a.slug}: REJECTED\n\n**Reason:** {reason}\n\n**Notes:**\n'
             + ''.join(f'- {n}\n' for n in notes) + (f'\n**Claude said:**\n\n{reply}\n' if reply else ''))
         print(f'  REJECTED, article restored: {reason}')
+        for line in reply.splitlines():
+            if line.strip().upper().startswith('UNRESOLVED'):
+                print(f'  {line.strip()}')
         return False
 
     prompt = PROMPT.format(rel=rel, n=len(notes), notes='\n'.join(f'{i}. {n}' for i, n in enumerate(notes, 1)),
