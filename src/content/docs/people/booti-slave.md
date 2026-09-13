@@ -1,21 +1,23 @@
 ---
 title: Booti'slave
 description: The Underhive Drone who meets visitors at the reinforced door, walks them to the tavern, and hands out the password honeycomb.
+tags:
+  - Booti'slave
+  - Bootislave
+  - Booti
+  - Drone
+  - Drones
+  - The Underhive
+  - Blair
+  - Queen B
+  - honeycomb
+  - Sharn
+  - Undercity
+  - Martin Kross
+image:
+  src: /images/uploads/booti-slave-mu0gsrep.webp
 type: person
 kind: people
-tags:
-- Booti'slave
-- Bootislave
-- Booti
-- Drone
-- Drones
-- The Underhive
-- Blair
-- Queen B
-- honeycomb
-- Sharn
-- Undercity
-- Martin Kross
 icon: fa-key
 fields:
   rpgAlignment: Unknown
@@ -32,7 +34,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: booti26230393Bslave-person
