@@ -1,21 +1,23 @@
 ---
 title: KNELL
 description: King Corn's black-Khyber warhammer, older than the bells. A bell it strikes does not ring; it cracks, loses symmetry and folds in on itself.
+tags:
+  - KNELL
+  - Knell
+  - King Corn
+  - Corn Deeptempura
+  - Deeptempura
+  - warhammer
+  - Black Khyber
+  - Shavat
+  - Kyber
+  - Hell's Bells
+  - Fantanya Nyel
+  - Dario Argentino
+image:
+  src: /images/uploads/14b0dcdb-4fea-4251-9310-0bee290ecc74-mu08t91q.png
 type: item
 kind: items
-tags:
-- KNELL
-- Knell
-- King Corn
-- Corn Deeptempura
-- Deeptempura
-- warhammer
-- Black Khyber
-- Shavat
-- Kyber
-- Hell's Bells
-- Fantanya Nyel
-- Dario Argentino
 icon: fa-hammer
 fields:
   itemType: Weapon — warhammer (royal arm)
@@ -30,13 +32,13 @@ fields:
   discovery: Recovered from King Corn's crowned corpse atop Valtrex's hoard on the island in the black lake beneath the Korramont, traded for a Ring of Lesser Wish
   sideEffects: Violent recoil. The sound of a Master breaking deafens everyone nearby for hours.
 sources:
-- worldanvil/sources/site/korth-episode-summaries.txt
-- session-2026-08-21-recap.md
-- session-2026-08-07-recap.md
-- session-2026-08-28-summary.md
-- session-2026-09-04-summary.md
-- current-state.md
-- worldanvil/CANON.md
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - session-2026-08-21-recap.md
+  - session-2026-08-07-recap.md
+  - session-2026-08-28-summary.md
+  - session-2026-09-04-summary.md
+  - current-state.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: knell-item
