@@ -1,21 +1,23 @@
 ---
 title: Bofric
 description: The Teryaki runesmith who read King Corn's shorthand, played the fanfare of dawn at a black dragon, and was the only dwarf who agreed to leave the mountain.
+tags:
+  - Bofric
+  - Teryaki
+  - Deeptempura
+  - runesmith
+  - King Corn
+  - the folio
+  - the horn
+  - fanfare of dawn
+  - arcane harmonics
+  - Horn of Mourning
+  - The Korramont
+  - Valtrex
+image:
+  src: /images/uploads/bofric-mu0giqlw.webp
 type: person
 kind: people
-tags:
-- Bofric
-- Teryaki
-- Deeptempura
-- runesmith
-- King Corn
-- the folio
-- the horn
-- fanfare of dawn
-- arcane harmonics
-- Horn of Mourning
-- The Korramont
-- Valtrex
 icon: fa-music
 fields:
   rpgAlignment: Unknown
@@ -32,8 +34,8 @@ fields:
   height: Bent
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: bofric-person
