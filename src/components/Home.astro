@@ -1,0 +1,353 @@
+---
+// The Lexicon front page.
+import { featureCandidates, dayIndex, kindTiles, latestSessions, recentlyUpdated, withBase, MIN_WORDS } from '../lib/home';
+import { getArticles, getRedactions } from '../lib/articles';
+import { MAPS } from '../lib/maps';
+
+const candidates = await featureCandidates();
+const today = new Date().toISOString().slice(0, 10);
+const feature = candidates[dayIndex(today, candidates.length)];
+const tiles = await kindTiles();
+const sessions = await latestSessions();
+const recent = await recentlyUpdated();
+const articleCount = (await getArticles()).length;
+const sealedCount = (await getRedactions()).length;
+const mapPicks = [0, 1, 2, 3].map((i) => MAPS[(dayIndex(today, MAPS.length) + i * 17) % MAPS.length]);
+---
+
+<div class="lx-home" data-pagefind-ignore>
+	<header class="lx-mast">
+		<p class="lx-kicker">The record of a long-running D&amp;D continuity</p>
+		<h1 class="lx-title">The Lexicon</h1>
+		<p class="lx-stats">
+			<a href={withBase('/people/')}>{articleCount} articles</a> · <a href={withBase('/maps/')}>{MAPS.length} maps</a> ·
+			<a href={withBase('/sealed-records/')}>{sealedCount} sealed {sealedCount === 1 ? 'record' : 'records'}</a>
+		</p>
+	</header>
+
+	<section class="lx-feature" aria-labelledby="lx-feature-heading">
+		<h2 id="lx-feature-heading" class="lx-section-title">Article of the day</h2>
+		<article class="lx-feature-card" data-feature>
+			{feature.image ? (
+				<a class="lx-feature-img" href={feature.url} data-f="imglink">
+					<img src={feature.image} alt={feature.alt ?? ''} data-f="img" loading="eager" />
+				</a>
+			) : (
+				<a class="lx-feature-img" href={feature.url} data-f="imglink" hidden>
+					<img src="" alt="" data-f="img" />
+				</a>
+			)}
+			<div class="lx-feature-body">
+				<p class="lx-feature-kind" data-f="kind">{feature.kind}</p>
+				<h3 class="lx-feature-title">
+					<a href={feature.url} data-f="title">{feature.title}</a>
+				</h3>
+				<p class="lx-feature-lead" data-f="lead">{feature.lead}</p>
+				<a class="lx-feature-more" href={feature.url} data-f="more">Read the article →</a>
+			</div>
+		</article>
+		<p class="lx-footnote">A new article each day, chosen from {candidates.length} articles of {MIN_WORDS}+ words.</p>
+		<script type="application/json" id="lx-candidates" set:html={JSON.stringify(candidates)} />
+	</section>
+
+	<section aria-labelledby="lx-explore">
+		<h2 id="lx-explore" class="lx-section-title">Explore</h2>
+		<ul class="lx-tiles">
+			{
+				tiles.map((t) => (
+					<li>
+						<a href={t.url} class="lx-tile">
+							{t.image ? <img src={t.image} alt="" loading="lazy" /> : <span class="lx-tile-blank" />}
+							<span class="lx-tile-label">
+								{t.label}
+								<span class="lx-tile-count">{t.count}</span>
+							</span>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</section>
+
+	<div class="lx-columns">
+		<section aria-labelledby="lx-sessions">
+			<h2 id="lx-sessions" class="lx-section-title">Latest sessions</h2>
+			<ul class="lx-list">
+				{
+					sessions.map((s) => (
+						<li>
+							<a href={s.url}>{s.title}</a>
+							{s.lead && <span>{s.lead}</span>}
+						</li>
+					))
+				}
+			</ul>
+		</section>
+		<section aria-labelledby="lx-recent">
+			<h2 id="lx-recent" class="lx-section-title">Recently updated</h2>
+			<ul class="lx-list">
+				{
+					recent.map((r) => (
+						<li>
+							<a href={r.url}>{r.title}</a>
+							<span>
+								{r.date} · {r.author}
+							</span>
+						</li>
+					))
+				}
+			</ul>
+		</section>
+	</div>
+
+	<section aria-labelledby="lx-maps">
+		<h2 id="lx-maps" class="lx-section-title">From the map room</h2>
+		<ul class="lx-maps">
+			{
+				mapPicks.map((m) => (
+					<li>
+						<a href={withBase(`/maps/${m.id}/`)}>
+							<img src={withBase(m.thumb)} alt="" loading="lazy" />
+							<span>{m.title}</span>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+		<p><a href={withBase('/maps/')}>All {MAPS.length} maps →</a></p>
+	</section>
+</div>
+
+<script>
+	// Pick today's article in the reader's own date, the same way the build did.
+	const el = document.getElementById('lx-candidates');
+	const card = document.querySelector<HTMLElement>('[data-feature]');
+	if (el && card) {
+		const list = JSON.parse(el.textContent || '[]');
+		const d = new Date();
+		const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+		let h = 2166136261;
+		for (const ch of key) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
+		const f = list[(h >>> 0) % list.length];
+		if (f) {
+			const q = (name: string) => card.querySelector<HTMLElement>(`[data-f="${name}"]`)!;
+			q('kind').textContent = f.kind;
+			q('title').textContent = f.title;
+			q('lead').textContent = f.lead;
+			for (const a of ['title', 'more', 'imglink']) (q(a) as HTMLAnchorElement).href = f.url;
+			const img = q('img') as HTMLImageElement;
+			q('imglink').hidden = !f.image;
+			if (f.image) {
+				img.src = f.image;
+				img.alt = f.alt || '';
+			}
+		}
+	}
+</script>
+
+<style>
+	.lx-home {
+		max-width: 64rem;
+		margin: 0 auto;
+	}
+	.lx-mast {
+		text-align: center;
+		padding: 1.5rem 0 1rem;
+		border-bottom: 2px solid var(--gold, #8a6d2f);
+		margin-bottom: 2rem;
+	}
+	.lx-kicker {
+		font-family: 'Spectral SC', var(--sl-font);
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-3);
+		margin: 0;
+	}
+	.lx-title {
+		font-family: 'Cinzel', var(--sl-font);
+		font-size: clamp(2.6rem, 7vw, 4.4rem);
+		line-height: 1.05;
+		margin: 0.3rem 0 0.5rem;
+		color: var(--oxblood, #7a1f1f);
+		border: 0;
+	}
+	:global(:root[data-theme='dark']) .lx-title {
+		color: var(--sl-color-text-accent);
+	}
+	.lx-stats {
+		margin: 0;
+		font-size: var(--sl-text-sm);
+	}
+	.lx-section-title {
+		font-family: 'Cinzel', var(--sl-font);
+		font-size: var(--sl-text-h4);
+		color: var(--oxblood, #7a1f1f);
+		border-bottom: 1px solid var(--gold, #8a6d2f);
+		padding-bottom: 0.2rem;
+		margin: 2.2rem 0 1rem;
+	}
+	:global(:root[data-theme='dark']) .lx-section-title {
+		color: var(--sl-color-text-accent);
+	}
+	.lx-feature-card {
+		display: grid;
+		grid-template-columns: minmax(0, 15rem) minmax(0, 1fr);
+		gap: 1.5rem;
+		align-items: start;
+		padding: 1.25rem;
+		border: 1px solid var(--gold, #8a6d2f);
+		border-radius: 6px;
+		background: linear-gradient(180deg, var(--parchment-2, #e7dcc2), var(--parchment, #efe6d2));
+		box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+	}
+	:global(:root[data-theme='dark']) .lx-feature-card {
+		background: #1f1a13;
+		border-color: #5a4a2a;
+	}
+	.lx-feature-card:has(.lx-feature-img[hidden]) {
+		grid-template-columns: minmax(0, 1fr);
+	}
+	.lx-feature-img img {
+		width: 100%;
+		border-radius: 4px;
+		border: 1px solid var(--gold, #8a6d2f);
+		display: block;
+	}
+	.lx-feature-kind {
+		margin: 0;
+		font-size: var(--sl-text-xs);
+		text-transform: uppercase;
+		letter-spacing: 0.12em;
+		color: var(--sl-color-gray-3);
+	}
+	.lx-feature-title {
+		font-family: 'Cinzel', var(--sl-font);
+		font-size: var(--sl-text-h2);
+		margin: 0.2rem 0 0.6rem;
+		border: 0;
+	}
+	.lx-feature-title a {
+		text-decoration: none;
+		color: inherit;
+	}
+	.lx-feature-lead {
+		font-size: var(--sl-text-lg);
+		line-height: 1.55;
+		margin: 0 0 0.8rem;
+	}
+	.lx-footnote {
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-4);
+		margin-top: 0.4rem;
+	}
+	.lx-tiles {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+		gap: 0.9rem;
+	}
+	.lx-tiles li {
+		margin: 0;
+	}
+	.lx-tile {
+		display: block;
+		position: relative;
+		height: 8.5rem;
+		border-radius: 6px;
+		overflow: hidden;
+		border: 1px solid var(--gold, #8a6d2f);
+		text-decoration: none;
+		background: #1b1610;
+	}
+	.lx-tile img,
+	.lx-tile-blank {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		object-position: center 25%;
+		display: block;
+		opacity: 0.72;
+		transition: opacity 150ms ease, transform 300ms ease;
+	}
+	.lx-tile:hover img {
+		opacity: 0.9;
+		transform: scale(1.03);
+	}
+	.lx-tile-label {
+		position: absolute;
+		inset: auto 0 0 0;
+		padding: 0.5rem 0.7rem;
+		background: linear-gradient(transparent, rgba(0, 0, 0, 0.85));
+		color: #f3e7cf;
+		font-family: 'Cinzel', var(--sl-font);
+		font-weight: 700;
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 0.5rem;
+	}
+	.lx-tile-count {
+		font-family: var(--sl-font);
+		font-weight: 400;
+		font-size: var(--sl-text-sm);
+		opacity: 0.85;
+	}
+	.lx-columns {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+		gap: 0 2.5rem;
+	}
+	.lx-list {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.lx-list li {
+		margin: 0 0 0.8rem;
+	}
+	.lx-list a {
+		font-weight: 600;
+	}
+	.lx-list span {
+		display: block;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+	.lx-maps {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+		gap: 0.9rem;
+	}
+	.lx-maps li {
+		margin: 0;
+	}
+	.lx-maps a {
+		display: flex;
+		flex-direction: column;
+		gap: 0.3rem;
+		text-decoration: none;
+		color: inherit;
+		font-size: var(--sl-text-sm);
+		font-weight: 600;
+	}
+	.lx-maps img {
+		width: 100%;
+		height: 7.5rem;
+		object-fit: cover;
+		border-radius: 4px;
+		border: 1px solid var(--gold, #8a6d2f);
+	}
+	@media (max-width: 40rem) {
+		.lx-feature-card {
+			grid-template-columns: minmax(0, 1fr);
+		}
+		.lx-feature-img img {
+			max-height: 22rem;
+			object-fit: contain;
+		}
+	}
+</style>

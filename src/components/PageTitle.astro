@@ -1,0 +1,9 @@
+---
+// Starlight override: the front page draws its own masthead, so it gets no second title.
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+
+const id = Astro.locals.starlightRoute.id;
+const isHome = id === '' || id === 'index';
+---
+
+{isHome ? <span id="_top" /> : <Default />}

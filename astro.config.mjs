@@ -62,7 +62,10 @@ export default defineConfig({
 			title: 'The Lexicon',
 			description: 'The record of a long-running D&D continuity.',
 			customCss: ['./src/styles/homebrewery.css'],
-			components: { MarkdownContent: './src/components/MarkdownContent.astro' },
+			components: {
+				MarkdownContent: './src/components/MarkdownContent.astro',
+				PageTitle: './src/components/PageTitle.astro',
+			},
 			routeMiddleware: './src/routeData.ts',
 			// Search (Pagefind) is built in for production builds.
 			sidebar: [

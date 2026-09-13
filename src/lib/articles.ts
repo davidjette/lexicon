@@ -21,8 +21,8 @@ export async function getArticles(kind?: Kind): Promise<Doc[]> {
 	return getCollection(
 		'docs',
 		(e) =>
+			e.id.includes('/') && // articles live in a kind folder; the home page and kind indexes do not
 			!e.id.endsWith('/index') &&
-			e.id !== 'index' &&
 			!(import.meta.env.PROD && e.data.draft) &&
 			(kind ? e.data.kind === kind || (!e.data.kind && e.id.startsWith(`${kind}/`)) : true),
 	);
