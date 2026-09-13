@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 1 — Welcome to Sharn
 description: 'The trio''s first night in Sharn: a break-in at BioTec, the theft of the Ghost Chip, and the hidden door into the Nest.'
+tags:
+  - Sharn Ep 1
+  - Welcome to Sharn
+  - Sharn
+  - BioTec
+  - Ghost Chip
+  - Izaak
+  - Zero of Sharn
+  - The Nest
+  - Skyroot Park
+  - Martin Kross
+  - The Inevitables
+  - Warforged
+image:
+  src: /images/uploads/chatgpt-image-sep-13-2026-03-18-21-pm-mu0dlcf3.webp
 sidebar:
   order: 201
 type: report
 kind: sessions
-tags:
-- Sharn Ep 1
-- Welcome to Sharn
-- Sharn
-- BioTec
-- Ghost Chip
-- Izaak
-- Zero of Sharn
-- The Nest
-- Skyroot Park
-- Martin Kross
-- The Inevitables
-- Warforged
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-1-E28094-welcome-to-sharn-report
