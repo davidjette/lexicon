@@ -30,6 +30,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part IX.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- sources/dave/2026-09-13-fates-june-saharel.md
+- Dave, note of 2026-09-13
 published: '2026-09-10'
 wa:
   slug: aurora-26-astra-saharel-person
@@ -45,7 +47,7 @@ wa:
 
 *Also known as:* Astra and Aurora Saharel · the twin queens of Netheril
 
-**Aurora & Astra Saharel** are the twin queens of Netheril, and the same two beings the chronicle otherwise calls [the Raven Queen](/people/marcus/) and [the Lady of Pain](/people/the-lady-of-pain/). Marcus and the Lady of Pain are sisters in the literal sense, which is why Marcus speaks of "my sister and I" as a pair with a shared history that predates everything else in the chronicle. By their own account the sisters came to [Sigil](/places/sigil/) with the sage after the Second Fall, took the Banefae's home, held the cities, and cast the Banefae into Despondos; they later threw the sage in after them. As queens of Netheril they demanded that the orcish archivists open their archives to their archmages, and destroyed them when the answer divided them. Both sisters arrive together at the final battle against Cthulhu, having killed Asmodeus and returned Death to its natural rule. <small>The names Astra and Aurora Saharel are written down only on the Saharel card.</small>
+**Aurora & Astra Saharel** are the twin queens of Netheril, and the same two beings the chronicle otherwise calls [the Raven Queen](/people/marcus/) and [the Lady of Pain](/people/the-lady-of-pain/). Marcus and the Lady of Pain are sisters in the literal sense, which is why Marcus speaks of "my sister and I" as a pair with a shared history that predates everything else in the chronicle. By their own account the sisters came to [Sigil](/places/sigil/) with the sage after the Second Fall, took the Banefae's home, held the cities, and cast the Banefae into Despondos; they later threw the sage in after them. As queens of Netheril they demanded that the orcish archivists open their archives to their archmages, and destroyed them when the answer divided them. Both sisters arrive together at the final battle against Cthulhu, having killed Asmodeus and returned Death to its natural rule. The sisters were at [the Egg](/places/the-egg/) twice: once as Marcus and the Lady of Pain from the present, and once as the Saharel twins, young women of Netheril, brought from Antiquity in the second loop. <small>The names Astra and Aurora Saharel are written down only on the Saharel card.</small>
 
 <small>Recovered from the Oblivia.</small>
 
@@ -58,6 +60,8 @@ Their own account: they came to Sigil with the sage — [Wainwright St. Cloud](/
 The queens of Netheril are the authority that destroyed the orcish archivists. [Zebulon the Meek](/people/zebulon/): "after the queens of Netheril demanded that we open our archives to their archmages, our people were divided on how to answer… Our leaders took sides against themselves, so that when the Netherese attacked we were already defeated." <small>(Arc VI Part IX.)</small> The archive they were demanding was [the Chronicle](/items/the-chronicle/), and they never reached it.
 
 ## At the Egg
+
+The sisters were at the Egg twice. They came once as Marcus and the Lady of Pain from the present, and once as the Saharel twins, young women of Netheril, from Antiquity in the second loop. The party went back in time and recruited allies for the Egg; some of those allies were allies, and some enemies, in their own timeline's future.
 
 **White — Cast Spell:** "Cast any spell of 5th level or lower with a casting time of less than 1 minute."
 
