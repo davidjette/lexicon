@@ -31,6 +31,9 @@ sources:
 - Dave, note of 2026-09-13
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 redacted:
+  names:
+  - Stonecypher
+  - Chronocypher
   label: A member of Temple Holdings LLC, erased by her own Wish
   reason: Obliviated by the Wish she cast at the Egg
   source: sources/dave/2026-09-12-stonecypher.md

@@ -1,5 +1,6 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { scanRedactions } from './redactions.mjs';
+import { sealedArticles, nameRegex, referencesIn } from './sealed.mjs';
 
 export const KINDS = {
 	people: 'People',
@@ -32,9 +33,17 @@ export function href(entry: Doc, hash = ''): string {
 	return `${base}/${entry.id}/${hash}`;
 }
 
-/** What a listing may show for an article. A sealed article shows its label, never its excerpt. */
+/** What a listing may show for an article. A sealed article shows its label, never its excerpt,
+ * and a description that names a sealed article is not shown at all. */
 export function blurb(entry: Doc): string {
-	return entry.data.redacted?.label ?? entry.data.description ?? '';
+	if (entry.data.redacted) return entry.data.redacted.label;
+	const description = entry.data.description ?? '';
+	return mentionsSealed(description, entry.id) ? '' : description;
+}
+
+export function mentionsSealed(text: string, selfId?: string): boolean {
+	const others = sealedArticles().filter((s) => s.key !== selfId);
+	return referencesIn(text, others, selfId).length > 0 || !!nameRegex(others)?.test(text);
 }
 
 export function sortArticles(entries: Doc[]): Doc[] {
@@ -54,14 +63,22 @@ export type RedactionRecord = {
 	label?: string;
 	reason?: string;
 	source?: string;
+	names?: string[];
+	/** For a sealed article: the pages whose references to it are sealed automatically. */
+	referencedIn?: { title: string; url: string }[];
 };
 
 export async function getRedactions(): Promise<RedactionRecord[]> {
 	const out: RedactionRecord[] = [];
-	for (const e of sortArticles(await getArticles())) {
+	const all = sortArticles(await getArticles());
+	const sealed = sealedArticles();
+	for (const e of all) {
 		const slug = e.id.split('/').pop()!;
 		if (e.data.redacted) {
-			out.push({ id: slug, scope: 'article', article: e.id, title: e.data.title, url: href(e, '#redaction-article'), ...e.data.redacted });
+			const referencedIn = all
+				.filter((o) => o.id !== e.id && referencesIn(o.body ?? '', sealed.filter((s) => s.key === e.id), o.id).length)
+				.map((o) => ({ title: o.data.title, url: href(o) }));
+			out.push({ id: slug, scope: 'article', article: e.id, title: e.data.title, url: href(e, '#redaction-article'), ...e.data.redacted, referencedIn });
 		}
 		for (const r of scanRedactions(e.body ?? '', slug)) {
 			out.push({

@@ -34,6 +34,8 @@ const lexicon = z.object({
 	redacted: z
 		.object({
 			label: z.string(),
+			/** Aliases: any sentence elsewhere that names one of these is sealed too. */
+			names: z.array(z.string()).default([]),
 			reason: z.string().optional(),
 			source: z.string().optional(),
 		})

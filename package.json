@@ -12,11 +12,14 @@
     "qa:test": "python scripts/test_qa.py",
     "links": "python scripts/check_links.py",
     "notes": "python scripts/notes.py",
-    "import:wa": "python scripts/wa_import.py"
+    "import:wa": "python scripts/wa_import.py",
+    "build:fresh": "node -e \"for (const p of ['node_modules/.astro','.astro']) require('fs').rmSync(p,{recursive:true,force:true})\" && astro build",
+    "test:refs": "node scripts/test-sealed-refs.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.3",
     "astro": "^6.3.1",
+    "js-yaml": "^4.2.0",
     "sharp": "^0.34.5",
     "unist-util-visit": "^5.1.0"
   }

@@ -14,7 +14,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 	<div class="sealed-table">
 		<table>
 			<thead>
-				<tr><th>Record</th><th>Article</th><th>Scope</th><th>Label</th><th>Reason</th><th>Source</th></tr>
+				<tr><th>Record</th><th>Article</th><th>Scope</th><th>Label</th><th>Reason</th><th>Source</th><th>Sealed references</th></tr>
 			</thead>
 			<tbody>
 				{
@@ -26,6 +26,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 							<td>{r.label ?? ''}</td>
 							<td>{r.reason ?? ''}</td>
 							<td>{r.source ? <code>{r.source}</code> : ''}</td>
+							<td>
+								{r.referencedIn?.length
+									? r.referencedIn.map((p, i) => (
+											<>
+												{i > 0 && ', '}
+												<a href={p.url}>{p.title}</a>
+											</>
+										))
+									: ''}
+							</td>
 						</tr>
 					))
 				}

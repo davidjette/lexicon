@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import remarkRedacted from './src/plugins/remark-redacted.mjs';
 import remarkStripComments from './src/plugins/remark-strip-comments.mjs';
+import remarkSealedRefs from './src/plugins/remark-sealed-refs.mjs';
 
 // Deployed to GitHub Pages as a project site at https://davidjette.github.io/lexicon/
 const BASE = '/lexicon';
@@ -52,7 +53,7 @@ export default defineConfig({
 	site: 'https://davidjette.github.io',
 	base: BASE,
 	markdown: {
-		remarkPlugins: [remarkStripComments, remarkRedacted],
+		remarkPlugins: [remarkStripComments, remarkRedacted, remarkSealedRefs],
 		rehypePlugins: [rehypeBaseLinks],
 	},
 	integrations: [
