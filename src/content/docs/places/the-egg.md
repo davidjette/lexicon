@@ -35,6 +35,8 @@ sources:
 - Desktop/infantaverse-wiki/src/content/docs/locations/the-egg.mdx
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
+- sources/dave/2026-09-13-fates-june-saharel.md
+- Dave, note of 2026-09-13
 published: '2026-09-10'
 wa:
   slug: the-egg-location
@@ -69,3 +71,5 @@ Because the scrambled Anachron left the party in every era at once, and because 
 ## The End of the Infanta
 
 The chronicle ends inside it: every ally of every age filing into the acid meat of the wound, the Lady of Pain and Marcus arriving with the severed head of Asmodeus, the god fought in pieces — Head, Claws, Tentacles, Wings, each regenerating — and a final Wish which, touching the god with an [Obliviator](/items/the-obliviator/), unwrites everything the Egg contained. Including, by the terms of the act, the people who performed it.
+
+The allies at the Egg came from across time. The party went back in time and recruited them, and some of them had been allies, or enemies, in their own timeline's future. The [Saharel sisters](/people/aurora-and-astra-saharel/) were present twice: as [Marcus](/people/marcus/) and [the Lady of Pain](/people/the-lady-of-pain/) from the present, and as the Saharel twins, young women of Netheril, from Antiquity in the second loop.
