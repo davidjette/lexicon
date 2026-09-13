@@ -377,9 +377,15 @@ $<HTMLSelectElement>('[name="new-kind"]').innerHTML = Object.entries(KINDS)
 	.join('');
 
 function route() {
-	if (!token()) return show('login');
 	const path = params.get('path');
 	const hist = params.get('history');
+	if (!token()) {
+		// say where signing in will take them; the query string survives sign-in, so they land there
+		const target = path || hist;
+		const opt = target && root.querySelector<HTMLOptionElement>(`#ed-articles option[data-path="${CSS.escape(target)}"]`);
+		if (opt) status($('[data-login-status]'), `Sign in to ${hist ? 'see the history of' : 'edit'} ${opt.value}.`);
+		return show('login');
+	}
 	if (hist) return openHistory(hist);
 	if (path) return openArticle(path);
 	show('new');

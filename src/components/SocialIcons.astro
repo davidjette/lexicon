@@ -1,0 +1,38 @@
+---
+// Starlight override: an Edit link in the top bar. On an article it opens that article in the editor;
+// anywhere else it opens the editor's start page.
+import Default from '@astrojs/starlight/components/SocialIcons.astro';
+import { editorOn, editLinks } from '../lib/editlinks';
+
+const links = editLinks(Astro.locals.starlightRoute);
+---
+
+{
+	editorOn && (
+		<a class="lx-nav-edit" href={links.edit} title={links.isArticle ? 'Edit this article' : 'Edit the Lexicon'}>
+			Edit
+		</a>
+	)
+}
+<Default />
+
+<style>
+	.lx-nav-edit {
+		font-family: 'Cinzel', var(--sl-font);
+		font-weight: 700;
+		font-size: var(--sl-text-sm);
+		letter-spacing: 0.04em;
+		text-decoration: none;
+		color: var(--oxblood, #7a1f1f);
+		border: 1px solid var(--gold, #8a6d2f);
+		border-radius: 4px;
+		padding: 0.2rem 0.75rem;
+	}
+	.lx-nav-edit:hover {
+		background: var(--oxblood, #7a1f1f);
+		color: #f3e7cf;
+	}
+	:global(:root[data-theme='dark']) .lx-nav-edit {
+		color: var(--sl-color-text-accent);
+	}
+</style>

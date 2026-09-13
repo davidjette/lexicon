@@ -1,9 +1,46 @@
 ---
 // Starlight override: the front page draws its own masthead, so it gets no second title.
+// Articles get an Edit button beside the title.
 import Default from '@astrojs/starlight/components/PageTitle.astro';
+import { editorOn, editLinks } from '../lib/editlinks';
 
-const id = Astro.locals.starlightRoute.id;
-const isHome = id === '' || id === 'index';
+const route = Astro.locals.starlightRoute;
+const isHome = route.id === '' || route.id === 'index';
+const links = editLinks(route);
 ---
 
-{isHome ? <span id="_top" /> : <Default />}
+{
+	isHome ? (
+		<span id="_top" />
+	) : editorOn && links.isArticle ? (
+		<div class="lx-title-row">
+			<Default />
+			<a class="lx-title-edit print:hidden" href={links.edit}>Edit</a>
+		</div>
+	) : (
+		<Default />
+	)
+}
+
+<style>
+	.lx-title-row {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 1rem;
+		flex-wrap: wrap;
+	}
+	.lx-title-edit {
+		flex: none;
+		font-size: var(--sl-text-sm);
+		text-decoration: none;
+		color: var(--sl-color-gray-2);
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 4px;
+		padding: 0.15rem 0.7rem;
+	}
+	.lx-title-edit:hover {
+		color: var(--sl-color-white);
+		border-color: var(--gold, #8a6d2f);
+	}
+</style>
