@@ -72,6 +72,25 @@ function join(data: Record<string, unknown>, body: string) {
 	return `---\n${fm}---\n\n${body.replace(/^\n+/, '')}`;
 }
 
+async function webReady(file: File): Promise<{ data: string; ext: string }> {
+	const toBase64 = (blob: Blob) =>
+		new Promise<string>((resolve, reject) => {
+			const reader = new FileReader();
+			reader.onload = () => resolve(String(reader.result).split(',')[1]);
+			reader.onerror = () => reject(reader.error);
+			reader.readAsDataURL(blob);
+		});
+	if (file.type === 'image/gif') return { data: await toBase64(file), ext: 'gif' };
+	const bitmap = await createImageBitmap(file);
+	const scale = Math.min(1, 1600 / bitmap.width);
+	const canvas = document.createElement('canvas');
+	canvas.width = Math.round(bitmap.width * scale);
+	canvas.height = Math.round(bitmap.height * scale);
+	canvas.getContext('2d')!.drawImage(bitmap, 0, 0, canvas.width, canvas.height);
+	const blob = await new Promise<Blob>((resolve, reject) => canvas.toBlob((b) => (b ? resolve(b) : reject(new Error('encode failed'))), 'image/webp', 0.85));
+	return { data: await toBase64(blob), ext: 'webp' };
+}
+
 function slugify(s: string) {
 	return s.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
@@ -346,16 +365,19 @@ $('[data-upload]').addEventListener('click', async () => {
 	const note = $('[data-edit-status]');
 	const file = $<HTMLInputElement>('[name="upload"]').files?.[0];
 	if (!file) return status(note, 'Choose an image file first.', 'error');
-	if (file.size > 3_000_000) return status(note, 'Images must be under 3 MB.', 'error');
+	status(note, 'Preparing the image…');
+	// Shrink to web size in the browser (WebP, at most 1600px wide) so pages stay fast. GIFs are kept as they are.
+	let data: string;
+	let ext: string;
+	try {
+		({ data, ext } = await webReady(file));
+	} catch {
+		return status(note, 'That file could not be read as an image.', 'error');
+	}
+	if ((data.length * 3) / 4 > 3_000_000) return status(note, 'Even after resizing, the image is over 3 MB.', 'error');
 	status(note, 'Uploading…');
-	const data = await new Promise<string>((resolve, reject) => {
-		const reader = new FileReader();
-		reader.onload = () => resolve(String(reader.result).split(',')[1]);
-		reader.onerror = () => reject(reader.error);
-		reader.readAsDataURL(file);
-	});
-	const ext = (file.name.split('.').pop() || 'png').toLowerCase();
-	const name = `${slugify(file.name.replace(/\.[^.]+$/, '')) || 'image'}.${ext}`;
+	const base = slugify(file.name.replace(/\.[^.]+$/, '')).slice(0, 40).replace(/-$/, '');
+	const name = `${/^[a-z]/.test(base) ? base : `image-${base}`.replace(/-$/, '')}.${ext}`;
 	try {
 		const r = await api<{ src: string }>('/api/image', { method: 'POST', body: JSON.stringify({ filename: name, data }) });
 		const imageField = $<HTMLInputElement>('[name="image"]');
