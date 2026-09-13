@@ -27,6 +27,8 @@ tags:
 - the Fates
 sources:
 - sources/dave/2026-09-12-stonecypher.md
+- sources/dave/2026-09-13-fates-june-saharel.md
+- Dave, note of 2026-09-13
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 redacted:
   label: A member of Temple Holdings LLC, erased by her own Wish
@@ -54,7 +56,7 @@ In Arc IV she was one of the assault team that went against the House of Nimbus 
 
 ## Chronocypher
 
-At [Refuge](/places/refuge/), Stonecypher met June, Infanta of Fate (Istus), and became **Chronocypher**, a warlock of time. At [R'lyeh](/places/rlyeh/) she was plugged into the mind of Zoth. At the end of time the dying goddess June named Chronocypher her successor, the Watcher, and told her that Time itself is the Obliviator ([Arc V](/history/arc-v-starfall/)).
+At [Refuge](/places/refuge/), Stonecypher met June, the Infanta at Refuge and the incarnation of Istus, and became **Chronocypher**, a warlock of time. At [R'lyeh](/places/rlyeh/) she was plugged into the mind of Zoth. At the end of time the dying goddess June named Chronocypher her successor, the Watcher, and told her that Time itself is the Obliviator ([Arc V](/history/arc-v-starfall/)).
 
 ## Split in time
 
@@ -64,4 +66,4 @@ Her presence in all three times let her coordinate the three-way attack on the E
 
 ## The Fates
 
-Her echo is felt in the three-fold god **the Fates**: Eloise, Istus and Cypher, the gods of Time, Fate and Mystery, who also appear as a child, a mother and a crone.
+Her echo is felt in the three-fold god **the Fates**, laid out as Time, Fate and Mystery: Eloise, Istus and Cypher. Eloise is the god of Space and Time, Istus is the god of Fate and Time, and Cypher is the god of Mystery. The Fates also appear as a child, a mother and a crone.
