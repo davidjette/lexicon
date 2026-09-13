@@ -1,21 +1,23 @@
 ---
 title: Pirate Joseph Roberts
 description: 'The Collector: a Lhazaar fleet commander who trades in secrets, married to Queen B, and now named on an Imperial warrant.'
+tags:
+  - Pirate Joseph Roberts
+  - Joseph Roberts
+  - Roberts
+  - Captain Joseph L. Roberts
+  - Dread Pirate
+  - The Collector
+  - Pirate
+  - Dragon Watch Isles
+  - Ship
+  - Gnome Tablet
+  - Island
+  - Episode 8
+image:
+  src: /images/uploads/chatgpt-image-sep-13-2026-01-11-39-am-mu0g1pmu.webp
 type: person
 kind: people
-tags:
-- Pirate Joseph Roberts
-- Joseph Roberts
-- Roberts
-- Captain Joseph L. Roberts
-- Dread Pirate
-- The Collector
-- Pirate
-- Dragon Watch Isles
-- Ship
-- Gnome Tablet
-- Island
-- Episode 8
 icon: fa-skull-crossbones
 fields:
   rpgAlignment: Unknown
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/wa/pirate-joseph-roberts-person.txt
-- sources/site/key-figures.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
+  - sources/wa/pirate-joseph-roberts-person.txt
+  - sources/site/key-figures.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: pirate-joseph-roberts-person
