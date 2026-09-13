@@ -1,0 +1,8 @@
+#!/bin/sh
+# Refuse to commit a note to Claude. Notes can carry canon that is not public yet, and this repo is public.
+# Enable once per clone:  git config core.hooksPath .githooks
+if git diff --cached -U0 -- 'src/content/*.md' 'src/content/*.mdx' | grep -iE '^\+.*@claude' >/dev/null; then
+  echo "pre-commit: a staged article still contains a note to Claude (@claude)." >&2
+  echo "Run 'python scripts/notes.py --run' to apply it, or remove it, before committing." >&2
+  exit 1
+fi

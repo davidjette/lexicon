@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import remarkRedacted from './src/plugins/remark-redacted.mjs';
+import remarkStripComments from './src/plugins/remark-strip-comments.mjs';
 
 // Deployed to GitHub Pages as a project site at https://davidjette.github.io/infantaverse/
 const BASE = '/infantaverse';
@@ -51,7 +52,7 @@ export default defineConfig({
 	site: 'https://davidjette.github.io',
 	base: BASE,
 	markdown: {
-		remarkPlugins: [remarkRedacted],
+		remarkPlugins: [remarkStripComments, remarkRedacted],
 		rehypePlugins: [rehypeBaseLinks],
 	},
 	integrations: [
