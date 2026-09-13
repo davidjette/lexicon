@@ -31,6 +31,9 @@ sources:
 - CANON.md 5d
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- CANON.md 5aa
+- sources/dave/2026-09-13-fates-june-saharel.md
+- Dave, note of 2026-09-13
 published: '2026-09-10'
 wa:
   slug: the-lady-of-pain-person
@@ -73,6 +76,8 @@ She absolves the party and purges Sigil of its demons — and in the same act ba
 Her card's quote is the one statement anywhere in the record about what became of [Drefan](/people/drefan/) at Deschain & Son, and it gives three possibilities without choosing: "transported or erased or vaporized by the Lady of Pain."
 
 ## At the Egg
+
+The Saharel sisters were at [the Egg](/places/the-egg/) twice: once as Marcus and the Lady of Pain from the present, and once as [the Saharel twins](/people/aurora-and-astra-saharel/), young women of Netheril, from Antiquity in the second loop.
 
 **White — Sigilese Law:** "Cast Power Word Pain."
 
