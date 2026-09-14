@@ -2,18 +2,18 @@
 title: Deirdre Moro
 description: Star Advocate of the Ministry of Law, prosecutor of crimes against records, and almost certainly the author of her own sister's death warrant.
 tags:
-- Deirdre Moro
-- Deedra Mora
-- Deirdre Mora
-- Advocate Moro
-- Moro
-- Ministry of Law
-- Star Advocate
-- Korth
-- Karrnathi law
-- Freyd Merkin
-- Graham Cracker
-- Bantide Moro
+  - Deirdre Moro
+  - Deedra Mora
+  - Deirdre Mora
+  - Advocate Moro
+  - Moro
+  - Ministry of Law
+  - Star Advocate
+  - Korth
+  - Karrnathi law
+  - Freyd Merkin
+  - Graham Cracker
+  - Bantide Moro
 image:
   src: /images/uploads/deirdre-moro-mu0i4ddr.webp
 type: person
@@ -34,22 +34,22 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/deirdre-moro-cases.md
-- C:/dev/sharn-campaign/npcs-korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/deirdre-moro-cases.md
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: deirdre-moro-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-- src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
-  caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
-- src: /images/album/gemma-as-deirdre-moro-with-director-chandler.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Ko
-  caption: 'Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
+    caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-as-deirdre-moro-with-director-chandler.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Ko
+    caption: 'Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Korth Episode: The Listening Post'
 ---
 
 **Species unrecorded · Star Advocate, Ministry of Law · The Empire · Dead — killed by the Inevitables**
@@ -158,3 +158,5 @@ The compulsion to win was total, and it is the thing that gave the impersonation
 - **Captain Joseph L. Roberts** — a likeness in her last case file; the Dread Pirate the Empire wants arrested at the Grand Lodge. Alive.
 
 **Hobbies & Pets:** Unknown.
+
+![Deirdre Moro - Dress.png](/images/uploads/deirdre-moro-dress-mu0wd3my.webp)
