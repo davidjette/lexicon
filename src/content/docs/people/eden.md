@@ -150,3 +150,5 @@ At the opening of POSÉ, Faith Zeir crossed the room to her sister and asked for
 - **Supreme Admiral Vex d'Lyrandar** — deployed her into the Mournlands by airship. Dead.
 - **Preacher** — the Warforged who chased her off the aqueduct and thought he had killed her; founder of R.U.S.T. Alive, and knows.
 - **Locke Pierce** and the Hundreds — her opponents in the Glass Plateau, who named her the Blue Devil and believe her unkillable.
+
+![Eden - The Blue Devil 3.png](/images/uploads/eden-the-blue-devil-3-mu0x2af4.webp)
