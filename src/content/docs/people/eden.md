@@ -1,21 +1,23 @@
 ---
 title: Eden
 description: Esther Crona's youngest half-sister, killed beneath the Grand Aqueduct and resurrected as EDN-00 — the Blue Devil of the Mournlands.
+tags:
+  - Eden
+  - EDN-00
+  - EDN 00
+  - Blue Devil
+  - The Blue Devil
+  - Project EDEN
+  - Project E.D.E.N.
+  - BioTec
+  - Esther Crona
+  - Crona
+  - LeBeefe
+  - Sister Nora
+image:
+  src: /images/uploads/eden-the-blue-devil-mu0i90i3.webp
 type: person
 kind: people
-tags:
-- Eden
-- EDN-00
-- EDN 00
-- Blue Devil
-- The Blue Devil
-- Project EDEN
-- Project E.D.E.N.
-- BioTec
-- Esther Crona
-- Crona
-- LeBeefe
-- Sister Nora
 icon: fa-skull
 fields:
   rpgAlignment: Unknown
@@ -32,13 +34,13 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/biotec.txt
-- worldanvil/sources/site/pose-mission-notes.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/wa/esther-crona-person.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/pose-mission-notes.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/wa/esther-crona-person.txt
 published: '2026-09-10'
 wa:
   slug: 10b44e2f-0a89-4154-9774-c896451aafca
