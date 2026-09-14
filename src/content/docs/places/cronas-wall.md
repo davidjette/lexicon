@@ -1,21 +1,23 @@
 ---
 title: Crona's Wall
 description: The mythal-like force barrier on the western front, held up by Iron Veil casters out of Fort Crona until it collapsed and let the orcs through.
+tags:
+  - Crona's Wall
+  - The Wall
+  - Fort Crona
+  - Stockton Thar
+  - Iron Veil
+  - Uruk-Hoth
+  - Uruk-Hoth
+  - Eldeen Reaches
+  - Dark Druids
+  - Lake Galifar
+  - Esther Crona
+  - Mark of Finding
+image:
+  src: /images/uploads/crona-s-wall-mu0nww68.webp
 type: landmark
 kind: places
-tags:
-- Crona's Wall
-- The Wall
-- Fort Crona
-- Stockton Thar
-- Iron Veil
-- Uruk-Hoth
-- Uruk-Hoth
-- Eldeen Reaches
-- Dark Druids
-- Lake Galifar
-- Esther Crona
-- Mark of Finding
 icon: fa-shield-halved
 fields:
   type: Arcane fortification
@@ -28,10 +30,10 @@ fields:
   contents: Fort Crona and the caster stations along the wall
   sensory: Unnatural cold; frozen ground behind the line
 sources:
-- sources/site/key-figures.txt
-- sources/site/pose-mission-notes.txt
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/npcs.md
+  - sources/site/key-figures.txt
+  - sources/site/pose-mission-notes.txt
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/npcs.md
 published: '2026-09-10'
 wa:
   slug: crona26230393Bs-wall-location
