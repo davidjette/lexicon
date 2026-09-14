@@ -27,6 +27,8 @@ fields:
 sources:
 - Desktop/infantaverse-wiki/src/content/docs/campaigns/temple-holdings.md
 - Desktop/D&D/Temple Holdings LLC/(eight arc folders of session documents)
+- C:/dev/sharn-campaign/worldanvil/sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
+- sources/dave/2026-09-14-dead-mans-hand-breakout.md
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VI.docx
 published: '2026-09-10'
@@ -34,6 +36,14 @@ wa:
   slug: temple-holdings-llc-article
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
 ---
+
+> In this era of crumbling empires, chaos lurks just past the reach of firelight, and bides its time before it reconquers everything. Can the civilized races push back the Wild, or should they even try?
+>
+> Our adventure begins in the port city of Baldur's Gate, on the Sword Coast, in the North of Faerun.
+>
+> You step off the massive gangplank onto a huge sailing ship to set off on a great voyage. Dozens of people bustle all around you as they prepare for the great vessel to be underway. You've made it just in time. Around you, you see the others who have also just stepped on board to take in its grandeur, just like you.
+
+<small>— *Hope in Exile, Part I: Fall of an Evening Star*, the opening of the campaign</small>
 
 **Campaign · Ages of the Infanta · The founding chronicle of the Infantaverse · Eight arcs · 1481–1492 DR · Complete**
 
