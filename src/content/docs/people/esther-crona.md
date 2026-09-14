@@ -206,3 +206,5 @@ Phantom Steed Warhorse named Trigger
 **On the extended bloodline.** The identities and locations of the remaining two half-sisters are unverified; however, scattered reports reference a Tiefling pirate figure exerting control over portions of the Sharn undercity. <small>(The file never closed this out. It is [Blair](/people/blair/).)</small> His continued survival is considered politically significant and remains under review.
 
 **Assessment.** The family unit represents a potential vector for insight into the Lord Commander's personal sphere, behavioral patterns, and off-record activities. Her lineage, training, and personal alliances create multiple potential intelligence vectors, though each is heavily shielded by Imperial security protocols. Continued monitoring of her family, half-siblings, and inherited ties to [Varyn Crona](/people/varyn-crona/) is strongly recommended. Any deviation from established routines should be logged and escalated through standard rebel intelligence channels.
+
+![Crona Family Portrait.png](/images/uploads/crona-family-portrait-mu0v5tmv.webp)
