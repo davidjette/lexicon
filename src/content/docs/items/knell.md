@@ -1,5 +1,5 @@
 ---
-title: KNELL
+title: Knell
 description: King Corn's black-Khyber warhammer, older than the bells. A bell it strikes does not ring; it cracks, loses symmetry and folds in on itself.
 tags:
   - KNELL
