@@ -158,3 +158,5 @@ The Echo is spent and the Forge is dark. Esther Crona lies dead at the base of t
 - [The Council of 13](/organizations/the-council-of-13/) — colleagues, and almost certainly his murderers.
 
 **Hobbies & Pets** — Unknown.
+
+![Vayrn Crona - Eternal Guardian and Enoch 2.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-2-mu0vzg1y.webp)
