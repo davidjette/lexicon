@@ -1,21 +1,23 @@
 ---
 title: Master Armhair
 description: Elderly half-elf loremaster of the Hall of Records, who traced the dragon Viagra to the Throne of Bones and calls it blasphemy himself.
+tags:
+  - Master Armhair
+  - Armhair
+  - Hall of Records
+  - Ministry of Records
+  - Korth
+  - Viagra
+  - Kaius III
+  - Kaius III
+  - Jarret Ilwenarn
+  - Prince Kaius
+  - Valtrex
+  - Korramont
+image:
+  src: /images/uploads/master-armhair-mu0m48wt.webp
 type: person
 kind: people
-tags:
-- Master Armhair
-- Armhair
-- Hall of Records
-- Ministry of Records
-- Korth
-- Viagra
-- Kaius III
-- Kaius III
-- Jarret Ilwenarn
-- Prince Kaius
-- Valtrex
-- Korramont
 icon: fa-book-skull
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/npcs-korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- C:/dev/sharn-campaign/korth.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - C:/dev/sharn-campaign/korth.md
 published: '2026-09-10'
 wa:
   slug: master-armhair-person
