@@ -1,21 +1,24 @@
 ---
 title: Renn Tal
 description: The Sharn Library archivist Esther Crona hired to catalogue the Eternal Guardian, who checked the chronology and found the Forge of Binding.
+tags:
+  - Renn Tal
+  - Renn
+  - Sharn Library
+  - Old Histories Wing
+  - Archivist
+  - Dhakaani
+  - Forge of Binding
+  - Eternal Guardian
+  - Varyn Crona
+  - Esther Crona
+  - R.U.S.T.
+  - DJ Rust
+image:
+  src: /images/site/renn-tal-1.webp
+  alt: Renn Tal
 type: person
 kind: people
-tags:
-- Renn Tal
-- Renn
-- Sharn Library
-- Old Histories Wing
-- Archivist
-- Dhakaani
-- Forge of Binding
-- Eternal Guardian
-- Varyn Crona
-- Esther Crona
-- R.U.S.T.
-- DJ Rust
 icon: fa-book-open
 fields:
   rpgAlignment: Unknown
@@ -32,18 +35,15 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/images/rebel-factions/14.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/images/rebel-factions/14.jpg
 published: '2026-09-10'
 wa:
   slug: renn-tal-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/renn-tal-1.webp
-  alt: Renn Tal
 ---
 
 **Archivist · Old Histories Wing, Sharn Library · Trusted by R.U.S.T. · Alive**
@@ -129,3 +129,5 @@ She believes an archive that has been edited is evidence of what was removed. Sh
 - **Eric the Cleric** — the priest her counter-rite requires. Alive, and Chancellor.
 
 **Hobbies & Pets:** Unknown.
+
+![Renn Tal and Eric - Examining ancient runes in a futuristic world.png](/images/uploads/renn-tal-and-eric-examining-ancient-rune-mu0xxs85.webp)
