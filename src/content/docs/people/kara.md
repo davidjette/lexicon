@@ -45,7 +45,7 @@ fields:
   gender: Female
   age: Unknown
   eyes: Unknown; the green-eyed sorceress with her face in the Old Man's House portrait is Karametra
-  hair: Unknown
+  hair: Brunette
   skin: Unknown
   height: Unknown
   weight: Unknown
@@ -66,6 +66,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - sources/dave/2026-09-14-temple-holdings-open-questions.md
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 - "Oral Histories: Temporal Holdings, 2017-09-07"
 - "Oral Histories: Temporal Holdings, 2017-10-02"
 - "Oral Histories: Temporal Holdings, 2018-10-02"
@@ -92,6 +93,16 @@ image:
   src: /images/portraits/kara.webp
   alt: 'Kara, a brunette sorceress with copper dragon wings, a purple cloak and a brown tunic, a white mouse on her shoulder'
   caption: 'Kara in the Temple Holdings party portrait'
+gallery:
+- src: /images/minis/kara-1.webp
+  alt: 'Kara''s miniature, printed in grey, with her staff'
+  caption: 'Kara''s miniature, printed in grey, with her staff (reference for the party portrait)'
+- src: /images/minis/kara-2.webp
+  alt: 'Kara''s miniature from behind'
+  caption: 'Kara''s miniature from behind (reference for the party portrait)'
+- src: /images/minis/kara-3.webp
+  alt: 'Kara''s miniature: render with staff and the mouse on her hand'
+  caption: 'Kara''s miniature: render with staff and the mouse on her hand (reference for the party portrait)'
 ---
 
 **Human · Sorcerer 16 / Wizard 2 · Temple Holdings LLC · Level 18 · Alive**
@@ -100,9 +111,13 @@ image:
 
 **Kara** is a human sorceress and wizard of Temple Holdings LLC, and the archmage who cast the Wish that remade the world in [Arc VI](/history/arc-vi-time-of-troubles/). She came ashore on Snowdown among the shipwreck survivors the Moongate set down, followed the unreadable journal of the apothecary **Fhastine** to a buried moonstone machine beneath Snowy Mountain and on into [Motherstone](/places/motherstone/), and fixed the stolen Infanta's bearing with the **Quicksilver Sextant**. [Tylerjynex](/people/tylerjinex/), the copper dragon known as Peter Glans, named her his heir after the death of his wife Alen Tudyx and gave her Tudyx's sword Copperbane; she bears his Egg. At the muster of [Arc VII](/history/arc-vii-leviathan/) she carried the final mission into the other Egg, where all Times converge.
 
+## Appearance
+
+Kara is a brunette sorceress with copper dragon wings of skin, large enough to spread behind [Revan](/people/revan-darkcember/) and [Eloise](/people/stonecypher/) when they stand in front of her. Her ears are rounded, and her long auburn-brown hair is drawn up at the back of her head. She wears a brown tunic that comes down to her thighs, with no pants, and tall laced boots on bare legs, under a purple cloak with a high collar and a gold shoulder guard; a crescent-moon clasp sits on the strap across her chest. She wears several packs and pouches full of magical items, one of them at her hip. Her staff reaches to the ground, with a glowing moonstone on top and a small wand with an infinity symbol inset into the wood. Her white mouse, Archimedes, sits on her shoulder. <small>(Temple Holdings party portrait and its commission brief)</small>
+
 ## Bearing and arms
 
-No description of Kara's face is recorded, apart from the portrait in St. Cloud's studio. Her sheet at level eighteen: AC 16, 100 hit points, a 30-foot stride walking *and flying*, proficiency +6. Charisma 20, strength 8. Sage background, Neutral Good. She carries jeweller's tools and speaks Common, Draconic, Elvish and Sylvan. The level-eighteen sheet lists her, under organisations, as owner of Fhastine's and partner in Temple Holdings, LLC; among her possessions it lists Quendi's Boon, a power moonstone, two perfect moonstones, a silver diadem, a trained white mouse named Archimedes, and a mysterious box with platinum filigree. <small>(Her level-five sheet gives her alignment as Lawful Neutral; the level-eighteen sheet says Neutral Good.)</small>
+Her sheet at level eighteen: AC 16, 100 hit points, a 30-foot stride walking *and flying*, proficiency +6. Charisma 20, strength 8. Sage background, Neutral Good. She carries jeweller's tools and speaks Common, Draconic, Elvish and Sylvan. The level-eighteen sheet lists her, under organisations, as owner of Fhastine's and partner in Temple Holdings, LLC; among her possessions it lists Quendi's Boon, a power moonstone, two perfect moonstones, a silver diadem, a trained white mouse named Archimedes, and a mysterious box with platinum filigree. <small>(Her level-five sheet gives her alignment as Lawful Neutral; the level-eighteen sheet says Neutral Good.)</small>
 
 ## The sorceress
 

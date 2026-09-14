@@ -53,6 +53,13 @@ const KINDS = [
 export default defineConfig({
 	site: 'https://davidjette.github.io',
 	base: BASE,
+	// Alternate names that resolve to an existing article.
+	redirects: {
+		'/people/eloise/': BASE + '/people/stonecypher/',
+		'/people/chronocypher/': BASE + '/people/stonecypher/',
+		'/people/june/': BASE + '/people/the-infanta-of-time/',
+		'/people/istus/': BASE + '/people/the-infanta-of-time/',
+	},
 	markdown: {
 		remarkPlugins: [remarkStripComments, remarkRedacted, remarkSealedRefs],
 		rehypePlugins: [rehypeBaseLinks],

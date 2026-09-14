@@ -67,6 +67,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-04-20"
 - "Oral Histories: The Inevitables, 2024-10-07"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 redacted:
   names:
   - Stonecypher
@@ -78,6 +79,13 @@ image:
   src: /images/portraits/stonecypher.webp
   alt: 'Eloise, a dark-skinned girl with long white hair, moth wings and a white-and-gold scarf, a white moth on her raised hand'
   caption: 'Eloise in the Temple Holdings party portrait'
+gallery:
+- src: /images/minis/stonecypher-1.webp
+  alt: 'Eloise''s miniature: moth wings, white hair and white clothes, with an hourglass at her feet'
+  caption: 'Eloise''s miniature: moth wings, white hair and white clothes, with an hourglass at her feet (reference for the party portrait)'
+- src: /images/minis/stonecypher-2.webp
+  alt: 'Eloise''s miniature from behind'
+  caption: 'Eloise''s miniature from behind (reference for the party portrait)'
 ---
 
 **Changeling · Rogue / Warlock · Temple Holdings LLC · Player character (Nico) · Obliviated**
@@ -85,6 +93,8 @@ image:
 *Also known as:* Chronocypher · Cypher · Eloise, the Infanta of Time · Elohim · June
 
 **Stonecypher** is a changeling rogue and warlock of [Temple Holdings LLC](/lore/temple-holdings-llc/), played by Nico. She was hired by [Celion](/people/celion/) to shadow [Zanzibar](/people/zanzibar/), became his best friend, served [Marcus](/people/marcus/) as a warlock of the Raven Queen, and became the time-warlock **Chronocypher**. Split across three eras, she cast the Wish at [the Egg](/places/the-egg/) that obliviated Cthulhu and herself.
+
+*Eloise and Chronocypher redirect here. For June, the Infanta of Time and incarnation of Istus, see [The Infanta of Time](/people/the-infanta-of-time/). For other uses of June, see [June (disambiguation)](/lore/june-disambiguation/).*
 
 ## Zanzibar
 
@@ -207,3 +217,5 @@ Stonecypher and her deeds, with the true nature and existence of Cthulhu and the
 ## Appearance
 
 Dave: "Stonecypher has no true face". Nico, who played her, added that "she likes to look like a half elf early on". <small>(Oral Histories: The Inevitables, 2024-10-07)</small>
+
+As **Eloise**, the warlock who uses time and space to manipulate reality, she appears as a thirteen-year-old human girl with delicate white moth wings. She has dark skin, long wavy white hair and pale blue-white eyes, and wears a gold crescent-moon circlet on her brow and a round white pendant at her throat. Her armour is white cloth and leather, belted with a crescent-moon buckle, with laced white boots. Around her shoulders and neck is a long, almost iridescent silk-like scarf of white and gold, which she likes to knit. She carries no weapons. Her familiar is a white moth, always in her hand or flying around her head; she holds her right arm out with the palm facing forward and the moth resting on her fingers. <small>(Temple Holdings party portrait and its commission brief)</small>

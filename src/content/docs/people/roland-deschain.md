@@ -60,8 +60,8 @@ fields:
   gender: Male
   age: Unknown
   eyes: Unknown
-  hair: Unknown
-  skin: Unknown
+  hair: Brown, with a short brown beard
+  skin: Leathery
   height: Unknown
   weight: Unknown
 sources:
@@ -109,6 +109,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2022-07-17"
 - "Oral Histories: The Inevitables, 2020-07-26"
 - "Oral Histories: The Inevitables, 2021-12-03"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: roland-deschain-person
@@ -117,6 +118,16 @@ image:
   src: /images/portraits/roland-deschain.webp
   alt: 'Roland Deschain, a cowboy in a long duster, hat and red neckerchief, firing a revolver'
   caption: 'Roland Deschain in the Temple Holdings party portrait'
+gallery:
+- src: /images/minis/roland-deschain-1.webp
+  alt: 'Roland''s miniature: render in a long coat and hat, revolvers drawn'
+  caption: 'Roland''s miniature: render in a long coat and hat, revolvers drawn (reference for the party portrait)'
+- src: /images/minis/roland-deschain-2.webp
+  alt: 'Roland''s miniature leaping and firing'
+  caption: 'Roland''s miniature leaping and firing (reference for the party portrait)'
+- src: /images/minis/roland-deschain-3.webp
+  alt: 'Roland''s miniature firing two revolvers'
+  caption: 'Roland''s miniature firing two revolvers (reference for the party portrait)'
 ---
 
 **Human · Ranger (gunslinger) and artificer · Temple Holdings LLC / Knights of the Order · Alive**
@@ -126,6 +137,10 @@ image:
 **Roland Deschain** is a human ranger and Knight of the Order, and the son of a Sigilese gunsmith who was murdered. His stated purpose in the chronicle is to kill all three [St. Cloud brothers](/lore/the-three-brothers/) in revenge for that murder. He is also an accomplished artificer, and one of the two people who built the [Lexicon](/items/the-lexicon/)'s later workings with [Brother Magnus](/people/brother-magnus/). He carries twin revolvers cast from [Ironbane](/items/the-bane-blades/), the sword Excalibur, which he drew from its stone in the vault below an auction and later melted down and recast at Motherstone. [Zanzibar](/people/zanzibar/), crowned King of [Punis](/places/punis/), named him a Thane and gave him a hold. At the Second Battle of Motherstone [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled him through the [Palantir](/items/the-palantir/), and he destroyed the Lexicon and let the Company into the city. The party captured Carlysle St. Cloud in [Roland's Cube](/items/rolands-cube/) and threw him and the Palantir into the Obliviator; Motherstone, remembering only that Roland had betrayed it, tried him before three Infanta, who spared him. In the deep past he shot and killed **the Traveler**, the St. Cloud of that age.
 
 The record's first private word to him, after the wreck of the *Evening Star*: "Ysmir St. Cloud is finally dead. But he is only the first on the list. His brother, Carlysle St. Cloud, still breathes." <small>(Arc I, Hope in Exile, Part III.)</small>
+
+## Appearance
+
+Roland is a younger man in a gunslinger's dress, with brown hair, a short brown beard and moustache, leathery skin and a strong five o'clock shadow. He wears a brown wide-brimmed hat with a studded band, a long brown duster over a blue shirt and dark waistcoat, a red neckerchief, dark trousers and boots, and a gunbelt with a holster at his hip. He carries two six-shooters, his revolvers of [Ironbane](/items/the-bane-blades/). <small>(Temple Holdings party portrait and its commission brief)</small>
 
 ## His revolvers are Excalibur
 
@@ -149,7 +164,7 @@ The record carries three related details:
 
 ## Bearing and arms
 
-No portrait of Roland survives in the session record. The sheet gives a Lawful Good human ranger of the fifth level, Knight of the Order by background: AC 13, 33 hit points, a 30-foot stride, with a dexterity of 14 and a charisma of 9. His Favored Enemy is monstrosities, his Natural Explorer terrain is desert, and besides Common he speaks Celestial, Draconic and Undercommon. He fires guns and an arquebus alongside the longbow, plays the pan flute, and carries the banner and seal of his rank and Quendi's Boon.
+The sheet gives a Lawful Good human ranger of the fifth level, Knight of the Order by background: AC 13, 33 hit points, a 30-foot stride, with a dexterity of 14 and a charisma of 9. His Favored Enemy is monstrosities, his Natural Explorer terrain is desert, and besides Common he speaks Celestial, Draconic and Undercommon. He fires guns and an arquebus alongside the longbow, plays the pan flute, and carries the banner and seal of his rank and Quendi's Boon.
 
 ## The Knights of the Order
 

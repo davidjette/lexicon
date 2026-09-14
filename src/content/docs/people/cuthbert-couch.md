@@ -34,7 +34,7 @@ fields:
   gender: Male
   age: '36'
   eyes: Unknown
-  hair: Unknown
+  hair: Grey
   skin: Unknown
   height: Unknown
   weight: Unknown
@@ -64,6 +64,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-11-10"
 - "Oral Histories: Temporal Holdings, 2020-12-18"
 - "Oral Histories: Temporal Holdings, 2021-01-16"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: cuthbert-couch-person
@@ -72,6 +73,10 @@ image:
   src: /images/portraits/cuthbert-couch.webp
   alt: 'Couch, grey-haired with a scar on his cheek, in a cream uniform and dark coat, holding a baseball bat'
   caption: 'Couch in the Temple Holdings party portrait'
+gallery:
+- src: /images/minis/cuthbert-couch-1.webp
+  alt: 'Couch''s miniature: unpainted render, caped, walking'
+  caption: 'Couch''s miniature: unpainted render, caped, walking (reference for the party portrait)'
 ---
 
 **Human · Bard (College of Lore), Level 4 · Temple Holdings LLC · Chaotic Neutral · Alive**
@@ -79,6 +84,10 @@ image:
 *Also known as:* Viceroy Couch · Viscount Viceroy Cuthbert Couch · **Thomas Stamp** (his real name) · "Stamp" / "Stump" <small>(both spellings appear in the Starfall recaps; unresolved)</small> · Velvet <small>(the table's name)</small>
 
 **Cuthbert Couch** is a human bard of the College of Lore, a member of Temple Holdings LLC, and the styled Viceroy of the court of Sembia, advisor to the Doge and merchant lord of Sandstad. He is none of those things. He is **Thomas Stamp**, "a scam artist who blends in with all types to sell worthless junk as priceless treasure," and the entire Sembian nobility he trades on is a signet ring and a confident manner. He fled Sembia after promising the Doge a rare dwarven artefact, borrowing the money for it and spending it, worked the slave auctions of Baldur's Gate as a Sembian merchant lord, and was taken by the Forsworn at the Snowdown plantation of Grenphal alongside a prostitute named Sadia whom he had introduced as his betrothed. The party rescued him at Bask Falls; he was knighted at Harloch among the Champions of the Evening Star, bought the Old Temple there jointly with the company, and by the middle arcs was running its transport and logistics.
+
+## Appearance
+
+Couch has swept grey hair and a handsome scar across his cheek. He dresses head to toe in a cream uniform of sorts: cream breeches and tall black boots, a red waistcoat frogged in white, a white cravat pinned with a red jewel, and a dark tailcoat with red cuffs whose tails hang like a cape. His dress also includes a black codpiece held up by black suspenders and orange wristbands. He carries a baseball bat, which he uses as a cane. <small>(Temple Holdings party portrait and its commission brief)</small>
 
 ## Bearing and arms
 

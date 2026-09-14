@@ -47,9 +47,9 @@ fields:
   gender: Male
   age: Unknown
   eyes: Unknown
-  hair: Unknown
+  hair: Blonde
   skin: Unknown
-  height: Unknown
+  height: Tall; the largest member of the party
   weight: Unknown
 sources:
 - Desktop/infantaverse-wiki/src/content/docs/characters/zanzibar.mdx
@@ -99,6 +99,7 @@ sources:
 - "Oral Histories: The Inevitables, 2022-12-24"
 - "Oral Histories: The Inevitables, 2024-01-21"
 - "Oral Histories: The Inevitables, 2025-11-09"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: zanzibar-person
@@ -111,9 +112,15 @@ gallery:
 - src: /images/portraits/zanzibar.webp
   alt: 'Zanzibar in gold-plated armour and crown, with a purple cape, a shield and a glass sword over his shoulder'
   caption: 'Zanzibar in the Temple Holdings party portrait'
+- src: /images/minis/zanzibar-1.webp
+  alt: 'Zanzibar''s miniature: gold armour, crown, glass sword and shield'
+  caption: 'Zanzibar''s miniature: gold armour, crown, glass sword and shield (reference for the party portrait)'
+- src: /images/minis/zanzibar-2.webp
+  alt: 'Zanzibar''s miniature from behind, with his purple cape'
+  caption: 'Zanzibar''s miniature from behind, with his purple cape (reference for the party portrait)'
 ---
 
-**Species unknown · Crown Prince of Punis · Temple Holdings LLC / the royal house of Punis · Alive**
+**Human · Crown Prince of Punis · Temple Holdings LLC / the royal house of Punis · Alive**
 
 *Also known as:* Zanzibar the Younger · Crown Prince Zanzibar · King of Punis · Zanzibar the Elder, First Emperor of Faerûn · Dark Zanzibar (the Zanzibar Blackstaff sent back to stop St. Cloud)
 
@@ -121,9 +128,13 @@ gallery:
 
 **Zanzibar** is the crown prince of [Punis](/places/punis/) and a man of faith, dispatched by the high priest of Punis to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision and the loss of divine magic from the world. He carries [Glassbane](/items/the-bane-blades/), the sea elves' shard of Perfect moonstone, by birthright and plunder, and earned it by deed fighting beside the water elves and Prince [Atlas](/organizations/atlas-and-the-sea-elves/) against the Drow in the [Winking Depths](/places/the-winking-depths/), in the war that made him Dark Zanzibar, and in the founding of Atlantis. At the Candlenights festival in [Suzail](/places/suzail/) he carried home **[Una](/people/una/)**, a drowned and resurrected girl who may be an Infanta, against the designs of Cormyr's War Wizards, and left betrothed to King Glenn Danzig's daughter [Roseanne](/people/roseanne-danzig/). His father, the king of Punis, died while he was there. He was named King of Punis immediately after the Arcaneum arc, when [Valen](/people/valen/) was defeated, and after [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) he married Princess Roseanne of Cormyr. Her father the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. Immediately after the Ages of the Infanta, he declared himself Emperor of Faerûn and, as **Zanzibar the Elder**, First Emperor of Faerûn, founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since.
 
+## Appearance
+
+Zanzibar is a tall human paladin-king in his early thirties, the largest member of the party. He has near shoulder-length yellow-blonde hair and a short blonde beard, and wears a gold crown, a circlet set with a red stone. His armour is gold-plated, with lion heads on the pauldrons and breastplate, and a purple cape hangs from his shoulders. He carries a brown-and-gold shield bearing a four-pointed star, and a sword of glass, [Glassbane](/items/the-bane-blades/), which he rests over his shoulder. <small>(Temple Holdings party portrait and its commission brief)</small>
+
 ## Bearing and arms
 
-No physical description of Zanzibar is recorded, and no character sheet for him is archived. He is crown prince of Punis, son of its king — "Zanzibar the Younger, Heir of Punis and Paenis," as the sheet of his steward Ser Maximilian styles him — and the envoy of the high priest of Punis.
+No character sheet for Zanzibar is archived. He is crown prince of Punis, son of its king — "Zanzibar the Younger, Heir of Punis and Paenis," as the sheet of his steward Ser Maximilian styles him — and the envoy of the high priest of Punis.
 
 ## Punis, and the fear that sent him
 

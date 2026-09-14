@@ -42,7 +42,7 @@ fields:
   gender: Male
   age: Unknown
   eyes: Unknown
-  hair: Unknown
+  hair: Red beard, worn in braids
   skin: Unknown
   height: Unknown
   weight: Unknown
@@ -86,6 +86,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2022-12-03"
 - "Oral Histories: Temporal Holdings, 2022-12-04"
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part IV.txt
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: brother-magnus-person
@@ -94,6 +95,13 @@ image:
   src: /images/portraits/brother-magnus.webp
   alt: 'Brother Magnus, a dwarf with a braided red beard in green monk robes, holding the Helm of the Woods'
   caption: 'Brother Magnus in the Temple Holdings party portrait'
+gallery:
+- src: /images/minis/brother-magnus-1.webp
+  alt: 'Brother Magnus''s painted miniature: red beard and green hood'
+  caption: 'Brother Magnus''s painted miniature: red beard and green hood (reference for the party portrait)'
+- src: /images/minis/brother-magnus-2.webp
+  alt: 'Brother Magnus''s unpainted miniature in monk''s robes'
+  caption: 'Brother Magnus''s unpainted miniature in monk''s robes (reference for the party portrait)'
 ---
 
 **Hill Dwarf · Cleric of Brightmantle · Temple Holdings LLC · Level 5 · Alive**
@@ -102,9 +110,13 @@ image:
 
 Brother Magnus is a hill dwarf cleric of [Brightmantle](/people/brightmantle/), the God of Discovery and Invention, and a member of Temple Holdings LLC. With [Kara](/people/kara/) he broke into the buried moonstone machine beneath Snowy Mountain, the trespass that opened [Arc II — Motherstone](/history/arc-ii-motherstone/). After the insurgency at Motherstone he reactivated the Obliviator and the Lexicon. Lex was then built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is [the Anachron](/items/the-anachron/), and at the Second Battle of Motherstone Lex transferred himself to the ship and the Motherstone Lexicon died. Magnus and [Drefan](/people/drefan/) lost their divine spells in the Time of Troubles, and Magnus raised [Percival](/people/percival/), [Roland Deschain](/people/roland-deschain/)'s squire. When Brightmantle sickened in Arc VII his power faded again, to third-level spells; at the god's funeral he received a final blessing that restored him in full and let him empower the faithful of Brightmantle within a mile.
 
+## Appearance
+
+Brother Magnus is a dwarf from a remote monastery on a rocky island in the far reaches of the Moonshea Isles. He wears a green monk's robe, a little faded and rough around the edges, with a hood and a fur-trimmed mantle, and a belt over the robe. The belt carries his holy book on his right hip and a pouch for magical components on his left; the book bears the symbol of a mountain with a heart inside it. His hands are wrapped with strips of cloth. His beard is red and hangs in braids bound with metal rings. In his right hand he holds the Helm of the Woods, a metal knight's helmet with antlers, which he took when the party killed the Green Knight. <small>(Temple Holdings party portrait and its commission brief)</small>
+
 ## Bearing and arms
 
-Magnus is not physically described in the session record. His sheet records a hill dwarf of Neutral Good alignment, hermit-raised, standing at AC 11 with 36 hit points and a 25-foot stride. He sees sixty feet into the dark, shrugs off poison by dwarven resilience, and reads the grain of worked stone by Stonecunning. He has WIS 16 against a strength of 9 and a dexterity of 7, and speaks Common, Dwarvish and Undercommon.
+His sheet records a hill dwarf of Neutral Good alignment, hermit-raised, standing at AC 11 with 36 hit points and a 25-foot stride. He sees sixty feet into the dark, shrugs off poison by dwarven resilience, and reads the grain of worked stone by Stonecunning. He has WIS 16 against a strength of 9 and a dexterity of 7, and speaks Common, Dwarvish and Undercommon.
 
 ## The Church of Brightmantle
 

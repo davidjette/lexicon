@@ -38,10 +38,10 @@ fields:
   children: Unknown
   residence: Snowdown; the Old Temple at Harloch
   gender: Male
-  age: Unknown
+  age: '420'
   eyes: Unknown
-  hair: Unknown
-  skin: Unknown
+  hair: Silvery white, with a long white moustache
+  skin: Grayish-green
   height: Unknown
   weight: Unknown
 sources:
@@ -86,10 +86,18 @@ sources:
   - 'Oral Histories: Temporal Holdings, 2023-10-16'
   - 'Oral Histories: The Inevitables, 2021-10-01'
   - 'Oral Histories: The Inevitables, 2023-01-15'
+  - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: drefan-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+gallery:
+- src: /images/minis/drefan-1.webp
+  alt: 'Drefan''s miniature: unpainted render with antlers, moustache and Silverbane'
+  caption: 'Drefan''s miniature: unpainted render with antlers, moustache and Silverbane (reference for the party portrait)'
+- src: /images/minis/drefan-2.webp
+  alt: 'Drefan in green, with a glowing silver bow, on a grassy base'
+  caption: 'Drefan in green, with a glowing silver bow, on a grassy base (reference for the party portrait)'
 ---
 
 **Wood Elf · Druid · Temple Holdings LLC / House Gallidann / the Lusmundii · Level 5 (sheet) · Alive**
@@ -100,9 +108,13 @@ wa:
 
 **Silverbane and House Gallidan.** Drefan is a **Gallidan**, and he carries [Silverbane](/items/the-bane-blades/) — the wood elves' shard of Perfect moonstone. He took it from **Daenan Gallidan's sarcophagus**, which [Ysmir St. Cloud](/people/ysmir-st-cloud/) was smuggling in the Deep Storage of the *Evening Star*, beneath forty starving wood-elf slaves. [Star Quendi](/people/star-quendi/) then blessed his inheritance of the blade at Bask Falls Barrow, which opened another **Master Rune** on it.
 
+## Appearance
+
+Drefan is a wood elf of four hundred and twenty years, with long silvery-white hair, pointed ears and grayish-green skin. His white moustache runs four to six inches and he wears no beard; the moustache resembles the feilong dragon he shapeshifts into. He wears antlers of true shape, giant antlers that meld to his head. His green-brown leather robes change colour slightly with the surrounding foliage, and a mithril chain shirt peeks out from beneath them. On his back he carries [Silverbane](/people/silverbane/), a legendary silver bow, a sentient weapon and his dear friend, which glows like moonstone with a subtle silvery sparkle. <small>(Temple Holdings party portrait and its commission brief)</small>
+
 ## Bearing and arms
 
-No portrait of Drefan survives in the session record. The sheet gives a wood elf druid of the fifth level, Chaotic Good, acolyte-raised: AC 13, 35 hit points, a 35-foot stride, darkvision to sixty feet, immune to magical sleep by Fey Ancestry. His wisdom carries him (WIS 16) and his charisma does not (CHA 8). He speaks Common, Druidic, Dwarvish, Elvish and Sylvan, moves unseen in light cover by Mask of the Wild, carries a herbalism kit, and the sheet lists his weapon simply as **Moonsword** — annotated, in Dave's hand, *Silver Bane*. Under Flaws the sheet says only: *"Cares too much."*
+The sheet gives a wood elf druid of the fifth level, Chaotic Good, acolyte-raised: AC 13, 35 hit points, a 35-foot stride, darkvision to sixty feet, immune to magical sleep by Fey Ancestry. His wisdom carries him (WIS 16) and his charisma does not (CHA 8). He speaks Common, Druidic, Dwarvish, Elvish and Sylvan, moves unseen in light cover by Mask of the Wild, carries a herbalism kit, and the sheet lists his weapon simply as **Moonsword** — annotated, in Dave's hand, *Silver Bane*. Under Flaws the sheet says only: *"Cares too much."*
 
 Dave approved the homebrew cantrip **Hershey Squirt** for him. <small>(Oral Histories: Temporal Holdings, 2017-08-31)</small> Its target, within 30 feet, must succeed on a Constitution saving throw or soil itself, and attacks against it have advantage until the start of the caster's next turn. <small>(Oral Histories: Temporal Holdings, 2019-02-11)</small> By the Arcaneum campaign he could change his appearance at will, and he wore boots of speed, mithril chain and the Daymoon amulet, <small>(Oral Histories: Temporal Holdings, 2019-02-15, 2019-02-20)</small> which Dave later described as "a free long rest and I gave him before I knew how to balance 5e". <small>(Oral Histories: Temporal Holdings, 2021-11-11)</small> He can sidestep, as Roland and Revan can. <small>(Oral Histories: Temporal Holdings, 2020-01-08)</small>
 

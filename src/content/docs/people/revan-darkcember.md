@@ -64,14 +64,19 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-10-27"
 - "Oral Histories: Temporal Holdings, 2023-04-23"
 - "Oral Histories: The Inevitables, 2021-10-30"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: revan-darkcember-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
 image:
   src: /images/portraits/revan-darkcember.webp
-  alt: 'Revan Darkcember, dark-skinned with braids, a round bladed shield, a spear and a staff with a glowing blue orb'
+  alt: 'Revan Darkcember, dark-skinned with braids, a round bladed shield and a spear, in a dark cloak'
   caption: 'Revan Darkcember in the Temple Holdings party portrait'
+gallery:
+- src: /images/minis/revan-darkcember-1.webp
+  alt: 'Revan''s miniature: render with a spear over his shoulder'
+  caption: 'Revan''s miniature: render with a spear over his shoulder (reference for the party portrait)'
 ---
 
 **Masked Lord of Waterdeep as "the Panther" · Thane of Punis · Called "The Tempest" in the Company's files · Sable's brother · Vanished from view**
@@ -79,6 +84,10 @@ image:
 *Also known as:* the Panther · The Tempest · the Count of Darkcember
 
 **Revan Darkcember** is a member of [House Nimbus](/organizations/house-nimbus/), a descendant of the Carls and Carls IV himself, and the brother of [Sable, the Immortal Cyclone](/people/sable-the-cyclone/). He rose to the [Masked Lords](/organizations/lords-of-waterdeep/) of Waterdeep under the name **"the Panther"** — one of the events that preceded [Obi](/people/obi/)'s ascent over the city and the destruction of the Empire and Company's ship in the harbour — and the Company's own files list him under a second name, **"The Tempest"**, as a threat of unknown category. He carries [Onyxbane](/items/the-bane-blades/), the drow shard of Perfect moonstone; he assaulted the House of Nimbus alongside [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth, and he was one of those who "went to steal the power to move the moon." When [Zanzibar](/people/zanzibar/) was crowned King of [Punis](/places/punis/), he named Revan a Thane and gave him the hold of **Marsember**, which became Darkcember. With the lordship of Marsember came [Tiffany House](/places/tiffany-house/) and its old debt to [Asmodeus](/people/asmodeus/), which his line carries forever. Asmodeus owns his soul. He vanished from view about two hundred years after the Ages of the Infanta.
+
+## Appearance
+
+Revan "the Tempest of Nimbus" Darkcember is a dark-skinned, lithe half-elf. His head is shaved on the sides, with a ponytail of braids on top, and he wears a short beard. He wears dark leather armour with a lion's-head belt buckle, pants and boots, a spell book on his hip, and a cloak of dark, deep midnight blue. He carries a round shield of petrified ebony wood with a blade running around its rim, a double-bladed spear on his back, and a lightsaber, the same one [Yoshi](/people/yoshi/) carries. <small>(Temple Holdings party portrait and its commission brief)</small>
 
 ## What the Company knew about him
 

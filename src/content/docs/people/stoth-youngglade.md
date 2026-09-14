@@ -30,8 +30,8 @@ fields:
   residence: An unknown tomb in Westphal holds his wealth; he has no home on record
   gender: Male
   age: Unknown
-  eyes: Unknown
-  hair: Unknown
+  eyes: Dark
+  hair: Dark, with a trim moustache and beard
   skin: Unknown
   height: Unknown
   weight: Unknown
@@ -48,6 +48,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-01-30"
 - "Oral Histories: Temporal Holdings, 2022-02-26"
 - "Oral Histories: The Inevitables, 2024-01-21"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: stoth-youngglade-person
@@ -64,9 +65,13 @@ image:
 
 **Stoth Youngglade** is a human rogue attached to Temple Holdings LLC by contract rather than oath. A shady and wily man, he turned up in Harloch once the heroes came into money and opened the relationship by explaining that he was not the only one who knew about their good fortune and that his silence had a price. He went on selling the party reconnaissance: the ambush waiting for them, the fall of Caer Westphal, and the stake-out of the **Excelsior** that let [Drefan](/people/drefan/) take the ship. Between adventures he buried his loot in an unknown tomb in Westphal. When the party scattered through time he went with Magnus, Cypher and Yoshi to find the Aboleth city. He came back from the deep past, and was with the party in the Time of Troubles.
 
+## Appearance
+
+Stoth is a stealthy rogue with dark eyes, dark hair and a trim moustache and beard. He wears green leather armour with leather bracers and leather boots, a dagger in his left boot, and a ragged green hooded cloak. He carries a longbow, with the quiver on his right hip, and a rapier on his left hip. <small>(Temple Holdings party portrait and its commission brief)</small>
+
 ## Bearing and arms
 
-No physical description survives. Human, Chaotic Neutral, criminal-and-spy background. AC 14, 36 hit points, STR 16 and DEX 16 both, with **expertise in Stealth (+7) and Sleight of Hand (+7)**. Sneak Attack 2d6, Cunning Action, Fast Hands, Second-Story Work, Uncanny Dodge. He speaks Common and, unusually, **Orc**. He carries a bag of a thousand ball bearings, two crowbars, ten pitons, fifty feet of rope, two flasks of oil and thieves' tools.
+Human, Chaotic Neutral, criminal-and-spy background. AC 14, 36 hit points, STR 16 and DEX 16 both, with **expertise in Stealth (+7) and Sleight of Hand (+7)**. Sneak Attack 2d6, Cunning Action, Fast Hands, Second-Story Work, Uncanny Dodge. He speaks Common and, unusually, **Orc**. He carries a bag of a thousand ball bearings, two crowbars, ten pitons, fifty feet of rope, two flasks of oil and thieves' tools.
 
 ## The pitch
 

@@ -33,7 +33,7 @@ fields:
   age: Unknown
   eyes: Unknown
   hair: Unknown
-  skin: Copper scales; a golden snout
+  skin: Golden scales (party portrait); earlier, copper scales and a golden snout
   height: Unknown
   weight: Unknown
 sources:
@@ -55,6 +55,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2018-06-26"
 - "Oral Histories: Temporal Holdings, 2018-06-28"
 - "Oral Histories: Temporal Holdings, 2018-07-01"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: yoshi-person
@@ -63,6 +64,16 @@ image:
   src: /images/portraits/yoshi.webp
   alt: 'Yoshi, a gold dragonborn in gold plate armour, on a skateboard'
   caption: 'Yoshi in the Temple Holdings party portrait'
+gallery:
+- src: /images/minis/yoshi-1.webp
+  alt: 'Yoshi''s miniature, printed in bronze, with lightsaber and mace'
+  caption: 'Yoshi''s miniature, printed in bronze, with lightsaber and mace (reference for the party portrait)'
+- src: /images/minis/yoshi-2.webp
+  alt: 'Yoshi''s miniature: render, winged, with a mace'
+  caption: 'Yoshi''s miniature: render, winged, with a mace (reference for the party portrait)'
+- src: /images/minis/yoshi-3.webp
+  alt: 'Yoshi''s miniature leaping with his mace'
+  caption: 'Yoshi''s miniature leaping with his mace (reference for the party portrait)'
 ---
 
 **Copper Dragonborn · Fighter (Eldritch Knight) · Temple Holdings LLC · Level 5 (later 15) · Alive**
@@ -70,6 +81,10 @@ image:
 *Also known as:* Yoshi (Gendo) <small>(on his later sheet)</small>
 
 **Yoshi** is a copper dragonborn fighter of Temple Holdings LLC and one of the seven eggs the copper dragon [Tylerjynex](/people/tylerjinex/) conceived to be the honour guard of the first Infanta. The hatchlings were slain in their sleep by agents of [House Gallidann](/organizations/house-gallidann/); two eggs were stolen and discarded into a seam in the rock and survived, and Yoshi was raised by human farmers on a faraway island, never knowing what he was. He learned it in [Arc II](/history/arc-ii-motherstone/), from an ancient copper dragonborn Drek priest in a flooded temple beneath the Drembles who gave him the honour-guard's blade, the **Maulder**. Before the Maulder he carried a lightsaber from his long-lost brother, which "died" at the Arc II finale.
+
+## Appearance
+
+Yoshi is a dragonborn fighter with golden scales, and his body is gold-coloured. He is tall and big, close to [Zanzibar](/people/zanzibar/)'s size. His head is crested with gold spines and red frills, and he wears gold plate armour over a dark red skirt. He carries a lightsaber with a red blade, the same lightsaber [Revan](/people/revan-darkcember/) carries, and rides a skateboard. He is usually drunk, with a cocktail in hand. <small>(Temple Holdings party portrait and its commission brief)</small>
 
 ## Bearing and arms
 

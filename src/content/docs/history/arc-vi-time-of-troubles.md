@@ -233,7 +233,7 @@ With the moonblades remembering, the founders' war against Netheril joined, and 
 - **2020-09-12** — Camelot; the sword in the Abbey.
 - **2020-09-26** — Back to Camelot; [Mara Mageblood](/people/mara-mageblood/)'s journal.
 - **2020-10-10** — Mirar; the zombie mission and the castle.
-- **2020-10-24** — The twin-room dungeon; Arana joins the party.
+- **2020-10-24** — The twin-room dungeon; [Arana](/people/arana/) joins the party.
 - **2020-11-07** — Morgana; the reunion with Magnus and Brightmantle.
 - **2020-11-21** — The rest episode.
 - **2020-12-05** — Memnon defended; the party goes after Cyric.

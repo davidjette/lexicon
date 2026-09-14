@@ -39,6 +39,8 @@ wa:
 
 The **Infanta of Time** is an Infanta named **June**, the incarnation of **Istus**, the god of Fate and Time. She incarnated near the [Mammon Machine](/items/the-mammon-machine/) at [Refuge](/places/refuge/) for one purpose: to protect it from [Wainwright St. Cloud](/people/wainwright-st-cloud/). Her method was to **encase the machine in a one-hour bubble that repeated over and over**, and it held until the party arrived, freed her, and tried to stop him — at which point he went through the portal anyway and they followed him to [R'lyeh](/places/rlyeh/). At the End of Time the dying June named **Chronocypher** her successor, and when the party returned to the "present", Chronocypher took June's place at Refuge.
 
+*June and Istus redirect here. For the child June whom Chronocypher became at Refuge, see [Stonecypher](/people/stonecypher/#chronocypher). For other uses, see [June (disambiguation)](/lore/june-disambiguation/).*
+
 Whether she is any of the named Infanta elsewhere is not recorded. [Tami, Infanta of Luck](/people/tami-infanta-of-luck/) and the **Infanta of Fortune** are both separately attested and are **not** assumed to be her.
 
 Istus is also called **Lady Cypher**, "the weaver of fate and the guardian of Time", and is served by the [Cypheric Orcs](/organizations/cypheric-orcs/).

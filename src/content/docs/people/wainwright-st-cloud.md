@@ -49,7 +49,7 @@ fields:
   gender: Male
   age: 55 (sheet); immortal
   eyes: Grey (sheet); blue on the later sheet
-  hair: Salt-and-pepper, mostly silver; clean-shaven
+  hair: Bald but for tufts of white hair at ear level, with a white moustache and beard (party portrait); earlier salt-and-pepper, mostly silver, clean-shaven (sheet)
   skin: Tan
   height: 6' 1"
   weight: 170 lb
@@ -95,6 +95,7 @@ sources:
 - "Oral Histories: The Inevitables, 2022-02-09"
 - "Oral Histories: The Inevitables, 2022-07-03"
 - "Oral Histories: The Inevitables, 2024-05-29"
+- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
 published: '2026-09-10'
 wa:
   slug: wainwright-st-cloud-person
@@ -145,7 +146,9 @@ His Ally Card reads: "I am the progenitor of epochs, their author, their witness
 
 ## Appearance
 
-His sheet describes "a distinguished older man wearing a long leather duster and adventurer's clothes. He does not show his wealth except in the fantastic devices and artifacts he uses from time to time. He is a public and gregarious man, frequently seen at events or business dealings of his company. Always on his belt is a set of keys." It gives him as fifty-five, six foot one and a hundred and seventy pounds, tanned, grey-eyed, his hair salt-and-pepper going to silver, clean-shaven. <small>(Sheet; the later "true" sheet reads his eyes as blue.)</small> St. Cloud Tower in Sigil is staffed entirely by **Dox**, a changeling collective, dozens of them, each dressed and faced exactly like Wainwright St. Cloud — who "kick off and relax after closing time, when they change their clothes and assume all manner of anonymous forms to sneak out into the city." A pursuit of him across the rooftops of a collapsing colony ended with a changeling. When he was killed in the deep past, another St. Cloud, who had followed the heroes back through time, struck at the same moment.
+Wainwright St. Cloud is a steampunk time-travelling warlock. He is bald, with a tuft of white hair at ear level on each side, a white moustache and pointed beard, and a round gold-rimmed lens over one eye. He wears a long grey coat with a gold front panel and pale gold-trimmed shoulder plates, with grey gloves and boots. He holds a crystal ball, a glowing blue orb floating above his left hand, and a long pale crystalline weapon in his right. He stands off to the side and a few feet behind the heroes, peering at them. <small>(Temple Holdings party portrait and its commission brief)</small>
+
+Earlier, his sheet describes "a distinguished older man wearing a long leather duster and adventurer's clothes. He does not show his wealth except in the fantastic devices and artifacts he uses from time to time. He is a public and gregarious man, frequently seen at events or business dealings of his company. Always on his belt is a set of keys." It gives him as fifty-five, six foot one and a hundred and seventy pounds, tanned, grey-eyed, his hair salt-and-pepper going to silver, clean-shaven. <small>(Sheet; the later "true" sheet reads his eyes as blue.)</small> St. Cloud Tower in Sigil is staffed entirely by **Dox**, a changeling collective, dozens of them, each dressed and faced exactly like Wainwright St. Cloud — who "kick off and relax after closing time, when they change their clothes and assume all manner of anonymous forms to sneak out into the city." A pursuit of him across the rooftops of a collapsing colony ended with a changeling. When he was killed in the deep past, another St. Cloud, who had followed the heroes back through time, struck at the same moment.
 
 ## The Company
 
