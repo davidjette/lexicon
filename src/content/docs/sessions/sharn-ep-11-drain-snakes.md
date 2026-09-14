@@ -1,26 +1,28 @@
 ---
 title: Sharn Ep 11 — Drain Snakes
 description: Martin Kross gives up the name of BioTec's private owner, and the Drain Snakes are wiped out of the undercity tunnels.
+tags:
+  - Sharn Ep 11
+  - Drain Snakes
+  - Martin Kross
+  - Edwin Graves
+  - BioTec
+  - Red Khyber
+  - Ghost Chip
+  - Malrik Zeir
+  - Underhive
+  - Booti'slave
+  - Snodgrass
+image:
+  src: /images/uploads/sharn-ep-11-drain-snakes-mu0rtum3.webp
 sidebar:
   order: 211
 type: report
 kind: sessions
-tags:
-- Sharn Ep 11
-- Drain Snakes
-- Martin Kross
-- Edwin Graves
-- BioTec
-- Red Khyber
-- Ghost Chip
-- Malrik Zeir
-- Underhive
-- Booti'slave
-- Snodgrass
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-11-E28094-drain-snakes-report
