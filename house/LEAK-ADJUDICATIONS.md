@@ -36,6 +36,16 @@ article must be fixed before publishing.
 - **Why it tripped:** the 2026-09-11 ruling A4 normalised Caius/Kiaus to **Kaius** across the corpus.
   The published source still says "Caius", so the article's shingles stopped matching it.
 
+## CLEARED 2026-09-14 - `the-bright-dawn-crimson-sun-unbound` / "in the forge's crimson light, Priest E'noch oversaw the completion of..."
+
+- **Flagged shingles:** "s crimson light priest e noch oversaw the completion of", from Nico's browser edits of
+  2026-09-14, which also added E'noch's second rite layered over the Eternal Guardian binding.
+- **Verdict: PUBLISH, by ruling.** The text exists only in `dmnotes/preview(9).txt`, so under the rule below it
+  would be a real leak. Dave, 2026-09-14: *"Yes on Enoch, Nico has smae authority."* Nico holds Dave's authority
+  and published it deliberately.
+- **Rule this adds:** a leak hit on text Nico wrote is still reported, but Dave (or Nico) may clear it as a
+  deliberate reveal. Record it here and in `KNOWN_GOOD`.
+
 ## Where this check lives now (2026-09-13)
 
 `scripts/qa.py` in the Lexicon repo is the markdown port of `qa_leaks.py`. It reads the same DM-only

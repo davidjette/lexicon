@@ -261,6 +261,7 @@ KNOWN_GOOD = {
     ('the-warforged-decree', 'preview(11).txt'),
     ('hallorn-d-lyrandar', 'preview(2).txt'),
     ('uriel-qualanthri', 'preview(4).txt'),
+    ('the-bright-dawn-crimson-sun-unbound', 'preview(9).txt'),
 }
 
 
