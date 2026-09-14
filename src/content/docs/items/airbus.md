@@ -1,21 +1,24 @@
 ---
 title: Airbus
 description: Open-sided levitating platforms on bound air elementals; Sharn's commonest public transit at 2-5 silver a ride.
+tags:
+  - Airbus
+  - Airbuses
+  - skybus
+  - skybuses
+  - air elemental
+  - public transit
+  - sky lanes
+  - Airbus Pass
+  - transport
+  - Sharn
+  - Veil Building
+  - commuters
+image:
+  src: /images/uploads/sharn-airbus-mu0t18xa.webp
+  alt: Airbus
 type: vehicle
 kind: items
-tags:
-- Airbus
-- Airbuses
-- skybus
-- skybuses
-- air elemental
-- public transit
-- sky lanes
-- Airbus Pass
-- transport
-- Sharn
-- Veil Building
-- commuters
 icon: fa-bus
 fields:
   type: Public transit vehicle
@@ -24,15 +27,12 @@ fields:
   dimensions: Unknown
   significance: Sharn's principal public transit
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
 published: '2026-09-10'
 wa:
   slug: airbus-item
   category: 0c0da159-b605-4821-ab38-05de380408c4
-image:
-  src: /images/site/airbus-1.webp
-  alt: Airbus
 ---
 
 **Public transit vehicle · Sharn · In service**
