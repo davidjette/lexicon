@@ -1,21 +1,24 @@
 ---
 title: Snodgrass
 description: Goliath ranger of the Cogs who lives in a blocked drainpipe, hunts sewer gators to feed Cogborn families, and knows every route out.
+tags:
+  - Snodgrass
+  - Cogborn
+  - The Cogs
+  - R.U.S.T.
+  - Goliath
+  - Ranger
+  - Undercity
+  - Sewers
+  - Grand Aqueduct
+  - Drain Snakes
+  - Preacher
+  - Cog Collector
+image:
+  src: /images/site/snodgrass-1.webp
+  alt: Snodgrass
 type: person
 kind: people
-tags:
-- Snodgrass
-- Cogborn
-- The Cogs
-- R.U.S.T.
-- Goliath
-- Ranger
-- Undercity
-- Sewers
-- Grand Aqueduct
-- Drain Snakes
-- Preacher
-- Cog Collector
 icon: fa-person-hiking
 fields:
   rpgAlignment: Unknown
@@ -32,17 +35,14 @@ fields:
   height: Unknown - a goliath
   weight: Unknown
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- worldanvil/images/rebel-factions/16.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - worldanvil/images/rebel-factions/16.jpg
 published: '2026-09-10'
 wa:
   slug: snodgrass-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/snodgrass-1.webp
-  alt: Snodgrass
 ---
 
 **Goliath · Ranger · Tunnel scout and Cogborn protector · Alive**
@@ -125,3 +125,5 @@ He believes a route is safe when he has walked it and not before. He believes fe
 - **The Inevitables** — guided them through the undercity and fought beside them. Alive.
 
 **Hobbies & Pets:** hunting, of a strictly practical kind.
+
+![Snodgrass, Doppler, Dario, eric and Renn - Sewer battle.png](/images/uploads/snodgrass-doppler-dario-eric-and-renn-se-mu10f0yu.webp)
