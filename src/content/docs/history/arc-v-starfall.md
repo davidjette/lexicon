@@ -14,10 +14,17 @@ tags:
 - Brownsleeves
 - the Traveler
 - Kay
+- Karametra
+- Ur-Kara
+- the Short King
 - Tiamat
+- the Tarrasque
+- Bahamut
+- the platinum temple
 - R'lyeh
 - Dragon Mountain
 - June
+- Refuge
 - Chronocypher
 - Zoth-Ommog
 - Cthulhu
@@ -25,6 +32,9 @@ tags:
 - the Anachron
 - Lex
 - Wainwright St. Cloud
+- the Tudyx Cube
+- Drefanmetra
+- the Waning One
 - mammon-obliviator-anachron
 icon: fa-meteor
 fields:
@@ -43,6 +53,16 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part VI.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Infanta Timeline.pdf
+- CANON.md 5ae (Oral Histories)
+- CANON.md, Oral Histories batch 4
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2018-07-06"
+- "Oral Histories: Temporal Holdings, 2020-05-03"
+- "Oral Histories: Temporal Holdings, 2021-12-10"
+- "Oral Histories: The Inevitables, 2022-09-17"
+- "Oral Histories: The Inevitables, 2023-01-15"
 published: '2026-09-10'
 wa:
   slug: arc-v-E28094-starfall-plot
@@ -55,7 +75,7 @@ wa:
 
 *Follows:* [Arc IV — The Infernal Machines](/history/arc-iv-the-infernal-machines/) · *Leads into:* [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/)
 
-Arc V — Starfall is the fifth arc of [Temple Holdings LLC](/lore/temple-holdings-llc/), set in the deep past and at the end of time. Riding the [Anachron](/items/the-anachron/) into the deep past, the heroes reached the **Moon** as it was before the Starfall, a living world, and pursued [Wainwright St. Cloud](/people/wainwright-st-cloud/) through R'lyeh and Dragon Mountain as he worked to wake Cthulhu. At the end of time the dying goddess June told Chronocypher that **Time itself is the Obliviator**, and that the gods, the Infantas and their own recurring souls are *memory* hiding from a blind, devouring god. The arc closes with the Arielle wrecked in the deep past, the Anachron left behind with the Lexicon inside it, and the party scattered across the ages.
+Arc V — Starfall is the fifth arc of [Temple Holdings LLC](/lore/temple-holdings-llc/), set in the deep past and at the end of time. Riding the [Anachron](/items/the-anachron/) about 65 million years into the deep past <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>, the heroes reached the **Moon** as it was before the Starfall, a living world, and pursued [Wainwright St. Cloud](/people/wainwright-st-cloud/) through R'lyeh and Dragon Mountain as he worked to wake Cthulhu. At the end of time the dying goddess June told Chronocypher that **Time itself is the Obliviator**, and that the gods, the Infantas and their own recurring souls are *memory* hiding from a blind, devouring god. The arc closes with the Arielle wrecked in the deep past, the Anachron left behind with the Lexicon inside it, and the party scattered across the ages.
 
 ## The Moon, before it broke
 
@@ -63,13 +83,15 @@ The Arielle arcs up across the face of the World Tree for days, the company resi
 
 > Primitive proto-eladrin live hunter-gatherer lives on the Moon, which is a lush deciduous forest environment with frigid poles, covered in natural moonstone and inherently magical (and destructive of the sanity of non-elf sentient mortals when too close).
 
-Here they meet **Ewe**, a nude faerie shapeshifter who copies the face of everyone she meets, and **Brownsleeves** — one of their own, who has reigned as "the Short King" of the moon people, spending his days teaching them science and good living. He weeps when he sees the party, because he watched them all die. They have been here before, in a loop none of them remember.
+Here they meet **Ewe**, a nude faerie shapeshifter who copies the face of everyone she meets, and **Brownsleeves** — one of their own, who has reigned as "the Short King" of the moon people, spending his days teaching them science and good living. He weeps when he sees the party, because he watched them all die. They have been here before, in a loop none of them remember. The party's own Brownsleeves died on the *Evening Star* at the start of the chronicle <small>(Oral Histories: Temporal Holdings, 2018-07-06)</small>; the Short King is Brownsleeves from another loop. <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
 
 ### The Traveler and Kay
 
-<small>Recovered from the Oblivia.</small> Ewe leads them to a Hermit in a far shack — "a man chopping wood… a single gun, no powers (cut off from Leviathan)." He is **the Traveler**, and he came back through time to *summon* the Leviathan and live forever on Sigil — to stop the heroes of his own age from stopping his earlier self from sabotaging R'lyeh. His wife **Kay** changed his heart, and then his mind, and he abandoned the quest. But it is happening anyway, which means somewhere up the loop he changed it back.
+<small>Recovered from the Oblivia.</small> Ewe leads them to a Hermit in a far shack — "a man chopping wood… a single gun, no powers (cut off from Leviathan)." He is **the Traveler**, and he came back through time to *summon* the Leviathan and live forever on Sigil — to stop the heroes of his own age from stopping his earlier self from sabotaging R'lyeh. His wife **Kay** is [Karametra](/people/karametra/), the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past. In their own loop the two were partners: she seduced [Celion](/people/celion/) to infiltrate the Arcaneum and steal the Anachron to come back in time, and once here both had a change of heart. <small>(Oral Histories: The Inevitables, 2023-01-15)</small> Kay changed his heart, and then his mind, and he abandoned the quest. But it is happening anyway, which means somewhere up the loop he changed it back.
 
-When Kay discovered this, she left to find **Tiamat**, to move the Moon into the path of the falling Egg and spare the Earth — for if she fails, the World Tree "won't just die, it will be obliterated and everything will be gone." The Traveler, too frightened to face Cthulhu, stays behind. He is "a few loops back" from the party — the same recurring soul, at a different turn of the wheel. He is the one the Lady of Pain named: the Traveler the heroes are destined to destroy.
+When Kay discovered this, she left to find **Tiamat**, to move the Moon into the path of the falling Egg and spare the Earth — for if she fails, the World Tree "won't just die, it will be obliterated and everything will be gone." She had seen the Egg coming, the true Evening Star, and knew that someday St. Cloud would go back on his promise; he had, and had come back to call for it. The Traveler, too frightened to face Cthulhu, stays behind. He is "a few loops back" from the party — the same recurring soul, at a different turn of the wheel. He is the one the Lady of Pain named: the Traveler the heroes are destined to destroy.
+
+[Roland](/people/roland-deschain/) shoots him, and the party takes his [Tudyx Cube](/items/the-tudyx-cube/). <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> It is empty; they place a perfect [moonstone](/lore/moonstone/) inside and close the lid. Then they take out the Tudyx Cube they stole from St. Cloud's quarters on the Arielle. They could not open it before, but now they can, and a Perfect Dark moonstone comes out, after a presumed 65 million years inside the box.
 
 ## R'lyeh and Dragon Mountain
 
@@ -103,6 +125,14 @@ By June's account the Infantas, the Forgetting and the Obliviator at Motherstone
 
 > Our souls are one, in time, but for now, we are ourselves. That is why we hurt each other. That is why we die. But this is how it's meant to be… You must repair the weave. You must unite the world. You must win. You will Win.
 
+June is the [Infanta of Time](/people/the-infanta-of-time/) who held the repeating hour at [Refuge](/places/refuge/). When the party returned to the "present", Chronocypher replaced her there and lived through that arc again as the child June. At the last moment, instead of dying, she was blown free of Refuge and rescued by the party, who appeared to have just left for the past and came back at level 20 or higher from the back half of the campaign.
+
 ## Into Arc VI
 
 The [Egg](/places/the-egg/) — the Evening Star, a pristine black sphere — falls toward the world, and the First Impact comes within days: the **Starfall** that breaks the Moon and seeds the moonstone of every age to follow. The party is flung apart across time, each at one of the broken points where "the Traveler shattered the Forgetting." With the Anachron scrambled and the coordinates of the First Infanta War ringing through the [Lexicon](/items/the-lexicon/), the survivors are scattered back into the deep history of the world — into the age of reborn gods and falling empires, in [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/).
+
+## The return to the deep past
+
+In the final arc the party came back to the deep past a second time, to help Karametra move the Moon, fulfilling the Wish [Kara](/people/kara/) cast on arriving in Antiquity that it had been done. Karametra seduced **Bahamut** and had the dragons build a platinum temple to cast **Move Planet** and put the Moon into the Egg's path. On this return the party fought the Tarrasque, some dragons, and then Tiamat herself, defending the platinum temple while Karametra cast Move Planet, and they succeeded. <small>(Oral Histories: The Inevitables, 2022-09-17)</small>
+
+The party went to the Moon again. This time the Short King had been seduced by **Drefanmetra**, the Waning One, and was a warlock of the Waning One (Archfey), and he joined the party. Brownsleeves was JL's character at the opening of the chronicle, and JL played the Short King in the finale, where he died in the final round of the fight against Cthulhu in [Arc VIII](/history/arc-viii-end-of-the-infanta/). <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
