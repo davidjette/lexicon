@@ -1,24 +1,26 @@
 ---
 title: The Mourning
 description: A nation died in a day, the Empire claimed credit as a mercy and renamed the anniversary, and two more have happened since.
+tags:
+  - Mourning
+  - The Mourning
+  - Rejuvenation
+  - Crimson Sun
+  - Cyre
+  - Mournlands
+  - Kaius III
+  - Warforged
+  - Locke Pierce
+  - Ruby Nova
+  - Last Mourning
+  - New Mourning
+  - Mistborn illness
+  - Cyrean Red Pomegranate
+  - Mt. Silicon
+image:
+  src: /images/uploads/the-mourning-crimson-sun-mu0vt40s.webp
 type: conflict
 kind: history
-tags:
-- Mourning
-- The Mourning
-- Rejuvenation
-- Crimson Sun
-- Cyre
-- Mournlands
-- Kaius III
-- Warforged
-- Locke Pierce
-- Ruby Nova
-- Last Mourning
-- New Mourning
-- Mistborn illness
-- Cyrean Red Pomegranate
-- Mt. Silicon
 icon: fa-cloud
 fields:
   type: Arcane catastrophe
@@ -30,11 +32,11 @@ fields:
   recurrences: New Mourning, at the fall of Newham; the Ruby Nova, Locke Pierce's deliberate recreation
   imperial_name: The Rejuvenation
 sources:
-- worldanvil/sources/wa/a-bard-s-tale3A-the-imperial-version-of-the-mourning--article.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
-- worldanvil/sources/site/rebel-factions.txt
-- README.md
-- worldanvil/CANON.md
+  - worldanvil/sources/wa/a-bard-s-tale3A-the-imperial-version-of-the-mourning--article.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - worldanvil/sources/site/rebel-factions.txt
+  - README.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-mourning-militaryConflict
