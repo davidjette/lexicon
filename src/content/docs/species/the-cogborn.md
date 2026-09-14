@@ -1,32 +1,34 @@
 ---
 title: The Cogborn
 description: 'Sharn''s industrial underclass from the Cogs: harvested by the Cog Collector, crushed after the riot, and walked out of the city through the Spine to Gorgonhorn.'
+tags:
+  - Cogborn
+  - The Cogborn
+  - The Cogs
+  - Gear Street
+  - RUST
+  - R.U.S.T.
+  - Preacher
+  - Misty Kross
+  - Kriss Kross
+  - DJ Rust
+  - Doppler Klink
+  - Doppler Klank
+image:
+  src: /images/uploads/cogborn-protest-mu0tpjoc.webp
 type: species
 kind: species
-tags:
-- Cogborn
-- The Cogborn
-- The Cogs
-- Gear Street
-- RUST
-- R.U.S.T.
-- Preacher
-- Misty Kross
-- Kriss Kross
-- DJ Rust
-- Doppler Klink
-- Doppler Klank
 icon: fa-gears
 fields:
   type: The industrial labour population of the Cogs; species not recorded
   alternativename: The Cogs (collective)
 sources:
-- worldanvil/sources/site/home.txt
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/site/key-figures.txt
-- worldanvil/sources/site/pose-mission-notes.txt
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/home.txt
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/site/key-figures.txt
+  - worldanvil/sources/site/pose-mission-notes.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-cogborn-species
