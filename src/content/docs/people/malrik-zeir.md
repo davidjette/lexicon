@@ -1,21 +1,23 @@
 ---
 title: Malrik Zeir
 description: The Valenar high elf vampire beneath the Vault Underground, who grew the Umbra for Project E.D.E.N. and kept his victims in the Pantry.
+tags:
+  - Malrik Zeir
+  - Malrik
+  - Zeir
+  - Vampire
+  - Valenar
+  - Umbra
+  - Children of Ember
+  - The Vault Underground
+  - Faith Zeir
+  - Hallorn d'Lyrandar
+  - Project EDEN
+  - Blood Cattle
+image:
+  src: /images/uploads/malrik-zeir-mu0lxrpw.webp
 type: person
 kind: people
-tags:
-- Malrik Zeir
-- Malrik
-- Zeir
-- Vampire
-- Valenar
-- Umbra
-- Children of Ember
-- The Vault Underground
-- Faith Zeir
-- Hallorn d'Lyrandar
-- Project EDEN
-- Blood Cattle
 icon: fa-skull
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown - described as unmistakably imposing
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/children-of-ember.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- worldanvil/images/key-figures/06.jpg
+  - sources/site/key-figures.txt
+  - sources/site/children-of-ember.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - worldanvil/images/key-figures/06.jpg
 published: '2026-09-10'
 wa:
   slug: malrik-zeir-person
