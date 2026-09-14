@@ -49,3 +49,5 @@ The Pit is the Lower City's other information exchange. When the archivist **Ren
 ## The night Dario fought
 
 With the Sharn News Network naming a silver dragonborn, a red-haired tiefling and a human man in short shorts as suspects in a coordinated terrorist attack, [Sir Dario Argentino](/people/sir-dario-argentino/) disguised himself, entered the ring and defeated a fighter called **Biff**. He walked out with a Feather Token and the attention of a hooded, masked woman calling herself **Queen B**, who invited the three of them to come and find her in [the Underhive](/organizations/the-underhive/) — and told them the aqueduct would be their first landmark. The alliance with the Underhive and the Cogborn evacuation followed from that fight.
+
+![DJ Rust at Breakers Pit.png](/images/uploads/dj-rust-at-breakers-pit-mu0z4x0k.webp)
