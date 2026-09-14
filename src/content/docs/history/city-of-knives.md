@@ -1,28 +1,30 @@
 ---
 title: City of Knives
 description: The Crimson Sun sends the Unforeseen to find and neutralise a mole on the Imperial Assembly at the Interoperability Summit in Sharn.
+tags:
+  - City of Knives
+  - The Unforeseen
+  - Hayman Maw
+  - Hamen Maw
+  - Haymen Maw
+  - Fanta Rhodes
+  - Fred Walker
+  - Imperial Assembly
+  - Interoperability Summit
+  - Rekkenmark
+  - Rekkenmark East
+  - Dr. Marble
+image:
+  src: /images/uploads/sharn-01a-mu0wpe69.webp
 type: plot
 kind: history
-tags:
-- City of Knives
-- The Unforeseen
-- Hayman Maw
-- Hamen Maw
-- Haymen Maw
-- Fanta Rhodes
-- Fred Walker
-- Imperial Assembly
-- Interoperability Summit
-- Rekkenmark
-- Rekkenmark East
-- Dr. Marble
 icon: fa-user-secret
 fields: {}
 sources:
-- worldanvil/sources/wa/city-of-knives-plot.txt
-- worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
-- worldanvil/sources/wa/blood-of-vol-organization.txt
-- worldanvil/CANON.md
+  - worldanvil/sources/wa/city-of-knives-plot.txt
+  - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
+  - worldanvil/sources/wa/blood-of-vol-organization.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: city-of-knives-plot
