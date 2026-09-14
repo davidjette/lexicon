@@ -1,21 +1,23 @@
 ---
 title: The ArcEye Crystallizer
 description: 'BioTec''s memory extraction device: it archives every ArcEye patrol feed to the Sharn Library, and can pull a whole memory intact from a living mind.'
+tags:
+  - ArcEye Crystallizer
+  - Crystallizer
+  - Crystallizer Lens
+  - ArcEye
+  - ArcEyes
+  - BioTec
+  - memory extraction
+  - Grady Marsh
+  - Circuit City
+  - Edwin Graves
+  - Hillary Heinrick
+  - Joanne Menka
+image:
+  src: /images/uploads/crystallizer2-mu0t7crj.webp
 type: item
 kind: items
-tags:
-- ArcEye Crystallizer
-- Crystallizer
-- Crystallizer Lens
-- ArcEye
-- ArcEyes
-- BioTec
-- memory extraction
-- Grady Marsh
-- Circuit City
-- Edwin Graves
-- Hillary Heinrick
-- Joanne Menka
 icon: fa-gem
 fields:
   type: Memory extraction and archival device
@@ -23,10 +25,10 @@ fields:
   manufacturer: BioTec
   owner: ArcEye Surveillance; one lens recovered by the Inevitables
 sources:
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/home.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/home.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/biotec.txt
 published: '2026-09-10'
 wa:
   slug: the-arceye-crystallizer-item
