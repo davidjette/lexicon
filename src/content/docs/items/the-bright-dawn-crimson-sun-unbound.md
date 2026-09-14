@@ -1,8 +1,9 @@
 ---
 title: The Bright Dawn (Crimson Sun Unbound)
-description: ''
 tags:
   - The Bright Dawn (Crimson Sun Unbound)
+image:
+  src: /images/uploads/bright-dawn-crimson-sun-unbound-mu0zsg0d.webp
 sources: []
 ---
 
