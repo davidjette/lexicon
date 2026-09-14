@@ -120,7 +120,7 @@ With the Bleaker healer [Diana Rhea](/people/diana-rhea/) and [the Bleak Cabal](
 
 ## Saltmarsh
 
-Through a portal in the Smoldering Corpse, the party reached [Saltmarsh](/places/saltmarsh/) on Oerth, where the Temple of Neptune had been desecrated and the seraph [Aqueus](/people/aqueus/) pinned to a drowned tomb by the blade [Weathervein](/items/weathervein/). Aboard the pirate ship of [Gabriella Hellwood](/people/gabriella-hellwood/), with [Papa Diaz](/people/papa-diaz/) and Feng's daughter [Keisha Milosh](/people/keisha-milosh/), they fought [the Blackfish Encounter](/history/the-blackfish-encounter/), and slew Jeremiah, though not permanently. They kept the **FATES** card.
+Through a portal in the Smoldering Corpse, the party reached [Saltmarsh](/places/saltmarsh/) on Oerth, where the Temple of Neptune had been desecrated and the seraph [Aqueus](/people/aqueus/) pinned to a drowned tomb by the blade [Weathervein](/items/weathervein/). BattleBeast and Lenore followed [Papa Diaz](/people/papa-diaz/) to the shore where he turned back the Drowned, and aboard the pirate ship of [Gabriella Hellwood](/people/gabriella-hellwood/), where Feng's daughter [Keisha Milosh](/people/keisha-milosh/) served, the party fought [the Blackfish Encounter](/history/the-blackfish-encounter/), and slew Jeremiah, though not permanently. They kept the **FATES** card.
 
 ## The Sororia
 
