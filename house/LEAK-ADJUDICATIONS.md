@@ -51,3 +51,15 @@ article must be fixed before publishing.
 `scripts/qa.py` in the Lexicon repo is the markdown port of `qa_leaks.py`. It reads the same DM-only
 files from `C:\dev\sharn-campaign` (they are never copied into the repo), and its `KNOWN_GOOD` set
 carries every adjudication above.
+
+## CLEARED 2026-09-14 — `varyn-crona` / Nico's "Official Historical Record" (scribes VI–VIII)
+
+- **Flagged:** the scribes' record of Kaius I's reign (Loras Thul, Selanne ir'Darr, 896–910 YK) matched
+  `dmnotes/preview(9).txt`.
+- **Verdict: PLAYER-SAFE, publish.** Nico, the Sharn arc's DM, posted the same text to the players in The
+  Inevitables chat on 2026-08-22 ("I hinted at that here…. VI. THIRD SCRIBE – 896–897 YK / Recorded by Historian
+  Loras Thul…"). Dave has ruled everything in the chats public (`sources/dave/2026-09-14-oral-histories-cast.md`)
+  and gives Nico the same authority over her material (CANON 5ad). The article cites it as
+  "Oral Histories: The Inevitables, 2026-08-22".
+- **Rule, extended:** a leak-check hit is also public if the phrase appears in the Oral Histories chat transcripts
+  (`canon/oral-histories/`). Check there as well as `sources/site/` and `sources/wa/`.
