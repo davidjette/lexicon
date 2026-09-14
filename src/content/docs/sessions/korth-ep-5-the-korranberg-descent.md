@@ -1,26 +1,28 @@
 ---
 title: Korth Ep 5 — The Korranberg Descent
 description: The trio ride to Korranberg, fight an Orc warband for the mine, and Dario dies and is raised with a diamond in his eye socket.
+tags:
+  - Korth Ep 5
+  - The Korranberg Descent
+  - Korranberg
+  - Korranberg Foundry
+  - Deeptempura Clan
+  - Braga Kul
+  - Mror Holds
+  - Deirdre Moro
+  - Resurrection
+  - Orcs
+  - King's Forest
+image:
+  src: /images/uploads/korth-ep-5-the-korranberg-descent-mu0seqxf.webp
 sidebar:
   order: 305
 type: report
 kind: sessions
-tags:
-- Korth Ep 5
-- The Korranberg Descent
-- Korranberg
-- Korranberg Foundry
-- Deeptempura Clan
-- Braga Kul
-- Mror Holds
-- Deirdre Moro
-- Resurrection
-- Orcs
-- King's Forest
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-5-E28094-the-korranberg-descent-report
