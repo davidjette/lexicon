@@ -1,21 +1,25 @@
 ---
 title: The Lower City
 description: Six stacked neighbourhoods beneath Sharn's towers, split by the Grand Aqueduct, home to the Cogborn and the way down to the Underhive.
+tags:
+  - The Lower City
+  - Lower City
+  - Sharn
+  - The Cogs
+  - Cogborn
+  - Grand Aqueduct
+  - Gear Street
+  - Lantern District
+  - Sub-line District
+  - Lowline Ward
+  - City Center
+  - Ziggurat
+image:
+  src: /images/site/the-lower-city-1.webp
+  alt: Lower City Guide
+  caption: Lower City Guide
 type: settlement
 kind: places
-tags:
-- The Lower City
-- Lower City
-- Sharn
-- The Cogs
-- Cogborn
-- Grand Aqueduct
-- Gear Street
-- Lantern District
-- Sub-line District
-- Lowline Ward
-- City Center
-- Ziggurat
 icon: fa-industry
 fields:
   type: City district
@@ -31,18 +35,14 @@ fields:
   owner: Contested; the Underhive has claimed the Ziggurat and the Vault Below
   ruler: Chancellor Eric the Cleric
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/ebt-7.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/ebt-7.txt
 published: '2026-09-10'
 wa:
   slug: the-lower-city-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
-image:
-  src: /images/site/the-lower-city-1.webp
-  alt: Lower City Guide
-  caption: Lower City Guide
 gallery:
   - src: /images/site/the-lower-city-2.webp
     alt: Lower‑City Fixed ArcEye Feed
@@ -95,3 +95,5 @@ The Council of Sharn's new Department of Infrastructure is staffed in part by Un
 - **Gremlin Lantern Sake Bar:** a Lantern District regulars' bar.
 - **[Circuit City](/places/circuit-city/):** chip implants, refurbished BioTec equipment, and a back room nobody should have seen.
 - **[The Vault Below](/places/the-vault-below/):** a club and gaming house with cells beneath it.
+
+![Sharn Lower City Map (3).png](/images/uploads/sharn-lower-city-map-3-mu0ve1m1.webp)
