@@ -64,6 +64,10 @@ published: '2026-09-10'
 wa:
   slug: lenore-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+gallery:
+  - src: /images/gallery/2025-08-22-05.webp
+    alt: Lenore Bishop lighting a fuse
+    caption: Lenore Bishop, in headphones and a leather vest, blows on a candle beside an open chest packed with dynamite, aboard a ship at night.
 ---
 
 **Human · Artificer, planar philosopher · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**

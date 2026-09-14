@@ -75,6 +75,10 @@ published: '2026-09-10'
 wa:
   slug: maverick-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+gallery:
+  - src: /images/gallery/2025-08-22-12.webp
+    alt: Maverick with a glowing wand
+    caption: Maverick, a dark-skinned elf with swept white hair in a black suit and open white shirt, holds up a glowing wand in an arched window.
 ---
 
 **Dark elf · Bard · Prince · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**

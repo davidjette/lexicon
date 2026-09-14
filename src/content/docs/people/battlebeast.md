@@ -66,6 +66,10 @@ published: '2026-09-10'
 wa:
   slug: battlebeast-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/gallery/2025-08-22-07.webp
+  alt: BattleBeast
+  caption: Portrait of a massive white-maned lion-man in black and red armour plates, fists bound in red wraps, roaring.
 ---
 
 **Lion-man · Gladiator monk · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**
@@ -74,7 +78,7 @@ wa:
 
 **BattleBeast** is a white-maned lion-man gladiator monk, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/). Where the others were put in an infirmary, a dungeon and an interrogation room, BattleBeast was put in the **animal pens**, chained in a stall opposite a wounded owlbear and posted for display in the square at second bell and the gallows at dawn. He and the owlbear lifted the cage door off its hinges, killed two guards and brought down [Colonel Angus](/people/colonel-angus/), and [Lenore](/people/lenore/) teleported him out of the fight into the maze beneath the fort, where he remains with her and Heyu.
 
-A leonin from Planet Greg, killed by a wounded owlbear on Lesbos, he had woken in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), won a prize fight at [the Grindhouse](/places/the-grindhouse/) against a ringer staked by [Shemeska](/people/shemeska/), and travelled with the party to [Saltmarsh](/places/saltmarsh/) on Oerth and on to Waterdeep.
+A leonin from Planet Greg, killed on Lesbos by [Jeremiah](/people/jeremiah/), he had woken in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), won a prize fight at [the Grindhouse](/places/the-grindhouse/) against a ringer staked by [Shemeska](/people/shemeska/), and travelled with the party to [Saltmarsh](/places/saltmarsh/) on Oerth and on to Waterdeep.
 
 ## Physical description
 
@@ -86,7 +90,7 @@ He is not held in a cell. He is held in a stall, in a room of heavy wooden pens 
 
 BattleBeast is a leonin outlander from Planet Greg. He left his home planet in search of adventure and to escape his beast nature. <small>(DM notes)</small>
 
-He arrived on Lesbos, a small port planet, seeking an entrance to Cair Ophidian, the lair of the medusa Euryale. A devout kobold seeking help for a fallen adventurer led him to a burial mound, where he swore on a holy book. He was attacked and killed by a wounded owlbear. <small>(DM notes)</small>
+He arrived on Lesbos, a small port planet, seeking an entrance to Cair Ophidian, the lair of the medusa Euryale. A devout kobold seeking help for a fallen adventurer led him to a burial mound, where he swore on a holy book. <small>(DM notes)</small> There he was killed: like each of the party, by Jeremiah, the handsome man with the glowing sword. <small>(Dave)</small>
 
 ## Sigil
 
