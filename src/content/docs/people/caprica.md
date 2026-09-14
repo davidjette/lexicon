@@ -96,6 +96,9 @@ gallery:
 - src: /images/chat/2022-10-20-900989104618168.webp
   alt: "AI portrait of Caprica"
   caption: "An AI painting of a pointed-eared woman with violet hair and green eyes against a starfield."
+- src: /images/chat/2022-10-20-419629636913935.webp
+  alt: "Caprica in her modified uniform"
+  caption: "AI painting of Caprica, an astral elf with short violet hair, in an open violet uniform, ringed by blue light against a starfield."
 ---
 
 **Astral elf · Druid 12 (Circle of Stars) · First Arcanist and Spelljammer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Dead**
