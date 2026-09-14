@@ -1,21 +1,23 @@
 ---
 title: Grady Marsh
 description: The retired ArcEye wizard who wandered off his patrol route, saw Calcifer's birth, and never filed the report that would have buried it.
+tags:
+  - Grady Marsh
+  - Graddy Marsh
+  - Grady
+  - ArcEye
+  - Arcane Eye
+  - ArcEye Crystallizer
+  - Calcifer
+  - The Vault Below
+  - Gremlin Lantern
+  - Zilspar Farm 02
+  - Sharn
+  - Uriel Qualanthri
+image:
+  src: /images/uploads/grady-marsh-mu0j2cgl.webp
 type: person
 kind: people
-tags:
-- Grady Marsh
-- Graddy Marsh
-- Grady
-- ArcEye
-- Arcane Eye
-- ArcEye Crystallizer
-- Calcifer
-- The Vault Below
-- Gremlin Lantern
-- Zilspar Farm 02
-- Sharn
-- Uriel Qualanthri
 icon: fa-eye
 fields:
   rpgAlignment: Unknown
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/rebel-factions.txt
-- worldanvil/CANON.md
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/rebel-factions.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: grady-marsh-person
