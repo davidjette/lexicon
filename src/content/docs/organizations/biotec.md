@@ -1,33 +1,35 @@
 ---
 title: BioTec
 description: Privately owned Imperial research contractor in Upper Central Sharn; publicly a medical institute, and the only Imperial building with no ArcEyes inside it.
+tags:
+  - BioTec
+  - Bio Tec
+  - BioTec Industries
+  - Project EDEN
+  - Project E.D.E.N.
+  - Ghost Chip
+  - ArcEye Crystallizer
+  - Edwin Graves
+  - Joanne Menka
+  - Martin Kross
+  - Circuit City
+  - Cog Collector
+image:
+  src: /images/uploads/biotec-sharn-mu0q7g0m.webp
 type: organization
 kind: organizations
-tags:
-- BioTec
-- Bio Tec
-- BioTec Industries
-- Project EDEN
-- Project E.D.E.N.
-- Ghost Chip
-- ArcEye Crystallizer
-- Edwin Graves
-- Joanne Menka
-- Martin Kross
-- Circuit City
-- Cog Collector
 icon: fa-flask
 fields:
   type: Corporate — privately held Imperial research contractor
   alternativename: The medical research institute (public designation)
 sources:
-- worldanvil/sources/site/biotec.txt
-- worldanvil/sources/site/key-figures.txt
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/pose-mission-notes.txt
-- worldanvil/sources/site/home.txt
-- worldanvil/sources/site/children-of-ember.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/key-figures.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/pose-mission-notes.txt
+  - worldanvil/sources/site/home.txt
+  - worldanvil/sources/site/children-of-ember.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: biotec-organization
