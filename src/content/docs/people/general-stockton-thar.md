@@ -53,6 +53,9 @@ gallery:
 - src: /images/album/the-party-watching-stockton-thar.webp
   alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
   caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are watching General Stockton Thar and Rotunda Goose in conversation - Aboard a river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
+- src: /images/gallery/2025-12-16-04.webp
+  alt: General Stockton Thar
+  caption: Portrait of General Stockton Thar, a white-bearded man in red and black robes and a red spiked crown, holding a staff topped with a dragon head.
 ---
 
 **Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Status unconfirmed**

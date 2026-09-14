@@ -2,18 +2,18 @@
 title: Sister Nora
 description: 'The Empress''s eyes in Sharn: the Black Dove cleric who gave up Project E.D.E.N. and the Eternal Nightfall, and could not speak one name.'
 tags:
-  - Sister Nora
-  - Nora
-  - Black Doves
-  - Sanctum of the Last Mercy
-  - Black Dove Hospital
-  - Project EDEN
-  - E.D.E.N.
-  - EDN-00
-  - Eternal Nightfall
-  - BioTec
-  - Edwin Graves
-  - Cog Collector
+- Sister Nora
+- Nora
+- Black Doves
+- Sanctum of the Last Mercy
+- Black Dove Hospital
+- Project EDEN
+- E.D.E.N.
+- EDN-00
+- Eternal Nightfall
+- BioTec
+- Edwin Graves
+- Cog Collector
 image:
   src: /images/site/sister-nora-2.webp
   alt: Sister Nora
@@ -35,17 +35,23 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/mission-board.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/wa/the-black-doves-organization.txt
+- sources/site/key-figures.txt
+- sources/site/mission-board.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/wa/the-black-doves-organization.txt
 published: '2026-09-10'
 wa:
   slug: sister-nora-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-  - src: /images/site/sister-nora-1.webp
-    alt: Sister Nora
+- src: /images/site/sister-nora-1.webp
+  alt: Sister Nora
+- src: /images/gallery/2026-02-11-10.webp
+  alt: The trio questions Sister Nora
+  caption: Eric, Gemma and Dario lean in around Sister Nora, seated in her Black Dove habit, as Gemma presses her with questions.
+- src: /images/gallery/2026-02-22-01.webp
+  alt: Sister Nora bleeding in her cell
+  caption: Sister Nora, in a Black Dove habit, bleeds from the nose and cries out with raised hands in a chained stone cell.
 ---
 
 **Cleric of the Black Doves · Sanctum of the Last Mercy, Sharn · The Empire · DEAD — tried and executed, Sharn Ep 19**

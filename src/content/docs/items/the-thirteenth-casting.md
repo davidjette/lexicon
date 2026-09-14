@@ -2,18 +2,18 @@
 title: The Thirteenth Casting
 description: The last great casting, never consecrated, never delivered - rung once by King Corn's daughter with a rock, and broken by Dario with KNELL.
 tags:
-  - Thirteenth Casting
-  - Thirteenth Bell
-  - Hell's Bells
-  - Fantanya Nyel
-  - Korranberg Foundry
-  - Bladeworks
-  - Sedda Deeptempura
-  - Hetta
-  - KNELL
-  - Dario Argentino
-  - Eric the Cleric
-  - Egg Roll
+- Thirteenth Casting
+- Thirteenth Bell
+- Hell's Bells
+- Fantanya Nyel
+- Korranberg Foundry
+- Bladeworks
+- Sedda Deeptempura
+- Hetta
+- KNELL
+- Dario Argentino
+- Eric the Cleric
+- Egg Roll
 image:
   src: /images/uploads/the-thirteenth-casting-mu0tao2s.webp
 type: item
@@ -33,16 +33,32 @@ fields:
   destructionDate: Korth Ep 11 — broken by Sir Dario Argentino with KNELL
   condition: Destroyed. The molds were destroyed by Valtrex.
 sources:
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - session-2026-08-21-recap.md
-  - session-2026-08-07-recap.md
-  - handouts/caius-foundry-manifest.md
-  - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
-  - current-state.md
+- worldanvil/sources/site/korth-episode-summaries.txt
+- session-2026-08-21-recap.md
+- session-2026-08-07-recap.md
+- handouts/caius-foundry-manifest.md
+- worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
+- current-state.md
 published: '2026-09-10'
 wa:
   slug: the-thirteenth-casting-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+gallery:
+- src: /images/gallery/2026-07-12-20.webp
+  alt: Korranberg Foundry Trust schedule of works
+  caption: 'A prop document: a Chancellery of Sharn Office of Seizures evidence tag clipped to the second leaf of the Korranberg Foundry Trust''s private schedule of works, listing thirteen great castings commissioned, eleven delivered and two in the yard. It is the partially burned foundry schedule recovered from the Lower City church.'
+- src: /images/gallery/2026-07-20-09.webp
+  alt: The Bladeworks above the lava
+  caption: A huge black bell hangs from scaffolding over a chasm of glowing lava, below tiers of dwarven forge halls.
+- src: /images/gallery/2026-07-20-10.webp
+  alt: Gemma finds the Thirteenth Casting
+  caption: A red-haired woman in a cloak stands at the edge of a lava chasm looking up at a huge black bell hanging from a wooden frame. The session ends with the trio finding the Thirteenth Casting in the Bladeworks.
+- src: /images/gallery/2026-07-20-11.webp
+  alt: Gemma finds the Thirteenth Casting
+  caption: A cloaked figure looks across a lava-lit forge hall at a great black bell hanging above a rail track, with more bells along the walls.
+- src: /images/gallery/2026-08-27-01.webp
+  alt: Dario breaks the Thirteenth Casting
+  caption: In a smoke-filled hall a dragonborn swings a great warhammer toward a bell on a platform while two figures reel with their hands over their ears and the dead rise. Dario breaks the Thirteenth Casting with KNELL.
 ---
 
 **Unique Artifact · Great casting the thirteenth · Korranberg Foundry Trust · Rung twice · DESTROYED**

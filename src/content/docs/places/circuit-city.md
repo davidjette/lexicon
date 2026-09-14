@@ -36,6 +36,13 @@ published: '2026-09-10'
 wa:
   slug: circuit-city-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+gallery:
+- src: /images/gallery/2026-04-04-01.webp
+  alt: Dr. Edwin Graves among his captives
+  caption: Dr. Edwin Graves, masked and in a long black coat, stands before cages of emaciated prisoners reaching through the bars in a red-lit backroom.
+- src: /images/gallery/2026-04-04-02.webp
+  alt: The abomination in Circuit City's backroom
+  caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino fight a hulking flesh abomination among the tanks and machinery of Edwin Graves's hidden laboratory behind Circuit City.
 ---
 
 **Shop · [Gear Street Markets](/places/gear-street-markets/), [Lower City](/places/the-lower-city/) · Chip-implant parlour · ABANDONED**

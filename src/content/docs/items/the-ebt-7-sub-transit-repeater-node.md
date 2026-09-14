@@ -36,9 +36,12 @@ image:
   alt: EBT‑7 Sub‑Transit Repeater Node
   caption: EBT‑7 Sub‑Transit Repeater Node
 gallery:
-  - src: /images/site/the-ebt-7-sub-transit-repeater-node-2.webp
-    alt: Dual‑View ArcEye Feed (Left/Right Rotation)
-    caption: Dual‑View ArcEye Feed (Left/Right Rotation)
+- src: /images/site/the-ebt-7-sub-transit-repeater-node-2.webp
+  alt: Dual‑View ArcEye Feed (Left/Right Rotation)
+  caption: Dual‑View ArcEye Feed (Left/Right Rotation)
+- src: /images/gallery/2026-05-10-01.webp
+  alt: Most-viewed ArcEye feed in Sharn
+  caption: 'An ArcEye view over Sharn''s Upper City at night: neon-lit towers and a tall statue with outstretched arms under a stormy sky.'
 ---
 
 **Portable arcano-analog message relay · House Orien · Lightning Rail Sub-Transit System · Discontinued · Recovered by the Inevitables, Sharn Ep 16**

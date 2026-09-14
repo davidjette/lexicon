@@ -2,17 +2,17 @@
 title: Graham Cracker
 description: Deirdre Moro's paralegal, killed before the story starts, whose last delivery of paperwork undid an Imperial purge.
 tags:
-  - Graham Cracker
-  - Graham
-  - Ministry of Law
-  - Korth
-  - paralegal
-  - Deirdre Moro
-  - Bantide Moro
-  - Eric the Cleric
-  - Gemma Corso
-  - casualty-reporting purge
-  - Grand Lodge
+- Graham Cracker
+- Graham
+- Ministry of Law
+- Korth
+- paralegal
+- Deirdre Moro
+- Bantide Moro
+- Eric the Cleric
+- Gemma Corso
+- casualty-reporting purge
+- Grand Lodge
 image:
   src: /images/uploads/graham-cracker-mu0j4syi.webp
 type: person
@@ -33,14 +33,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - C:/dev/sharn-campaign/npcs-korth.md
-  - C:/dev/sharn-campaign/deirdre-moro-cases.md
-  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
-  - sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/npcs-korth.md
+- C:/dev/sharn-campaign/deirdre-moro-cases.md
+- C:/dev/sharn-campaign/session-2026-09-04-summary.md
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: graham-cracker-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-07-12-01.webp
+  alt: The disguised trio in Deirdre Moro's apartment
+  caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
 ---
 
 **Elf · Paralegal to Star Advocate [Deirdre Moro](/people/deirdre-moro/) · Ministry of Law, Korth · Dead — killed by the Inevitables**

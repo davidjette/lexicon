@@ -2,18 +2,18 @@
 title: Preacher
 description: The last Warforged in Sharn, who refused the exile decree and built R.U.S.T. to get the Cogborn out instead.
 tags:
-  - Preacher
-  - R.U.S.T.
-  - RUST
-  - Warforged
-  - Cogborn
-  - The Cogs
-  - Sharn
-  - Gorgonhorn
-  - Misty Kross
-  - Kriss Kross
-  - Lexicon
-  - RUST Runners
+- Preacher
+- R.U.S.T.
+- RUST
+- Warforged
+- Cogborn
+- The Cogs
+- Sharn
+- Gorgonhorn
+- Misty Kross
+- Kriss Kross
+- Lexicon
+- RUST Runners
 image:
   src: /images/site/preacher-1.webp
   alt: Preacher
@@ -35,14 +35,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/mission-board.txt
-  - sources/site/sharn-episode-summaries.txt
-  - worldanvil/images/rebel-factions/11.jpg
+- sources/site/rebel-factions.txt
+- sources/site/mission-board.txt
+- sources/site/sharn-episode-summaries.txt
+- worldanvil/images/rebel-factions/11.jpg
 published: '2026-09-10'
 wa:
   slug: preacher-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2026-03-31-02.webp
+  alt: Locke Pierce meets Preacher
+  caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
 ---
 
 **Warforged · Founder of RUST · The last Warforged in Sharn · Alive**

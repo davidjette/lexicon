@@ -32,6 +32,14 @@ published: '2026-09-10'
 wa:
   slug: the-bladeworks-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
+image:
+  src: /images/gallery/2026-07-20-09.webp
+  alt: The Bladeworks above the lava
+  caption: A huge black bell hangs from scaffolding over a chasm of glowing lava, below tiers of dwarven forge halls.
+gallery:
+- src: /images/gallery/2026-07-20-11.webp
+  alt: Gemma finds the Thirteenth Casting
+  caption: A cloaked figure looks across a lava-lit forge hall at a great black bell hanging above a rail track, with more bells along the walls.
 ---
 
 **Forge floor - the Korranberg Foundry, inside the Korramont**

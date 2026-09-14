@@ -2,18 +2,18 @@
 title: R.U.S.T.
 description: 'Resistance Under Sharn''s Tyranny: a Cogborn and Warforged escape network whose goal was never liberation, only survival.'
 tags:
-  - R.U.S.T.
-  - RUST
-  - Resistance Under Sharns Tyranny
-  - Preacher
-  - Cogborn
-  - The Cogs
-  - Warforged
-  - Gorgonhorn
-  - Misty Kross
-  - Kriss Kross
-  - DJ Rust
-  - Sharn
+- R.U.S.T.
+- RUST
+- Resistance Under Sharns Tyranny
+- Preacher
+- Cogborn
+- The Cogs
+- Warforged
+- Gorgonhorn
+- Misty Kross
+- Kriss Kross
+- DJ Rust
+- Sharn
 image:
   src: /images/uploads/r-u-s-t-mu0qi3bv.webp
 type: organization
@@ -27,15 +27,34 @@ fields:
   status: Active
   allies: The Hundreds, the Underhive, the Nest
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/mission-board.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/home.txt
-  - worldanvil/images/rebel-factions/11.jpg
+- sources/site/rebel-factions.txt
+- sources/site/mission-board.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/home.txt
+- worldanvil/images/rebel-factions/11.jpg
 published: '2026-09-10'
 wa:
   slug: rust-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-03-02-02.webp
+  alt: Preacher
+  caption: Preacher, a tall hooded Warforged in a long black coat, stands in a dark control room between red-framed screens.
+- src: /images/gallery/2026-03-20-01.webp
+  alt: R.U.S.T. prayer sheet to Lexicon
+  caption: A song sheet with doves and a radiant cross, bordered in binary, with verses such as "You'll be given love (Lexicon)" and "All is full of love (Lexicon)". It is the prayer sheet the R.U.S.T. Runners hand out to the Cogborn.
+- src: /images/gallery/2026-03-31-02.webp
+  alt: Locke Pierce meets Preacher
+  caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
+- src: /images/gallery/2026-02-26-18.webp
+  alt: R.U.S.T. in the control room
+  caption: A dark hooded figure stands at the centre of a lit control room with red-framed screens, flanked by armed rebels in two lines.
+- src: /images/gallery/2026-03-01-03.webp
+  alt: The trio meet R.U.S.T.
+  caption: Seen from behind, Eric, Gemma and Dario face a hooded figure and a line of rebels in a control room lined with screens.
+- src: /images/gallery/2026-03-27-01.webp
+  alt: R.U.S.T. communication necklace
+  caption: 'A silver pendant on a chain: a crosshair medallion ringed with binary digits and four points. It is the R.U.S.T. communication necklace Locke Pierce gives the trio.'
 ---
 
 **Survival network · The Cogs and the undercity, Sharn · Active**

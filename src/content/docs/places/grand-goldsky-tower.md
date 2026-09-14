@@ -33,6 +33,10 @@ published: '2026-09-10'
 wa:
   slug: grand-goldsky-tower-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+gallery:
+- src: /images/gallery/2026-05-10-01.webp
+  alt: Most-viewed ArcEye feed in Sharn
+  caption: 'An ArcEye view over Sharn''s Upper City at night: neon-lit towers and a tall statue with outstretched arms under a stormy sky.'
 ---
 
 **Tower · [GoldSky Neighborhood](/places/goldsky-neighborhood/), [Upper City](/places/the-upper-city/) · The largest tower in Sharn · Standing**

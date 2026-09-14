@@ -37,6 +37,10 @@ published: '2026-09-10'
 wa:
   slug: the-black-noise-condition
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+gallery:
+- src: /images/gallery/2026-07-12-19.webp
+  alt: 'Dossier: The Black Noise'
+  caption: A prop document page from the Mt. Silicon Archive, HB-CHORUS-13 leaf two, headed "Sec. 03 The Black Noise", with boxed notes titled "Silence does not stop it", "The living unravel" and "The dead wake".
 ---
 
 **Arcane phenomenon · Polyphase emission · Continental range · Penetrates rock to hundreds of feet · Not stopped by silence**

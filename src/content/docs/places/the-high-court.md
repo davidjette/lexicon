@@ -33,6 +33,13 @@ published: '2026-09-10'
 wa:
   slug: the-high-court-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
+gallery:
+- src: /images/gallery/2026-09-07-03.webp
+  alt: The condemned before the High Court
+  caption: In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them.
+- src: /images/gallery/2026-09-07-04.webp
+  alt: The Advocate and Vice Admiral Merkin in court
+  caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
 ---
 
 **Landmark · Capital court of the Ministry of Law · Upper level, northeast [Korth](/places/korth/)**

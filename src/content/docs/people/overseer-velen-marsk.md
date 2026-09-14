@@ -2,18 +2,18 @@
 title: Overseer Velen Marsk
 description: The Imperial overseer of the Korranberg Foundry, three years dead and still on shift, who signed for his own death warrant and carried out every line above it.
 tags:
-  - Overseer Velen Marsk
-  - Velen Marsk
-  - Vellin Marsk
-  - Marsk
-  - Korranberg Foundry
-  - Korranberg Foundry Trust
-  - Kaius III
-  - death warrant
-  - Black Doves
-  - Maelis Dorn
-  - the accident
-  - The Korramont
+- Overseer Velen Marsk
+- Velen Marsk
+- Vellin Marsk
+- Marsk
+- Korranberg Foundry
+- Korranberg Foundry Trust
+- Kaius III
+- death warrant
+- Black Doves
+- Maelis Dorn
+- the accident
+- The Korramont
 image:
   src: /images/uploads/overseer-velen-marsk-mu0xfhqs.webp
 type: person
@@ -34,14 +34,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
-  - sources/site/korth-episode-summaries.txt
-  - C:/dev/sharn-campaign/current-state.md
-  - worldanvil/CANON.md
+- C:/dev/sharn-campaign/session-2026-08-07-recap.md
+- sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/current-state.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: overseer-velen-marsk-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-08-10-07.webp
+  alt: Overseer Velen Marsk and his ogres
+  caption: In a shrine hall two huge undead ogres flank a smaller figure while the trio face them, one with a flaming sword. Overseer Velen Marsk and his risen ogres are still on shift in the sealed Black Dove shrine.
 ---
 
 **Species unknown · Overseer of the Korranberg Foundry · Imperial administration / Korranberg Foundry Trust · Dead, and destroyed**

@@ -2,20 +2,20 @@
 title: The BioTec breach
 description: 'The infiltration of BioTec''s Sharn facility: the Ghost Chip taken, and the rebellion''s first sight of Project E.D.E.N.'
 tags:
-  - BioTec
-  - BioTec breach
-  - Ghost Chip
-  - Project EDEN
-  - Joanne Menka
-  - Martin Kross
-  - Izaak
-  - Zero of Sharn
-  - The Nest
-  - Skyroot Park
-  - Edwin Graves
-  - ArcEye
-  - Sharn
-  - The Astra Bar
+- BioTec
+- BioTec breach
+- Ghost Chip
+- Project EDEN
+- Joanne Menka
+- Martin Kross
+- Izaak
+- Zero of Sharn
+- The Nest
+- Skyroot Park
+- Edwin Graves
+- ArcEye
+- Sharn
+- The Astra Bar
 image:
   src: /images/uploads/the-biotec-breach-mu0wqyyi.webp
 type: conflict
@@ -31,14 +31,18 @@ fields:
   taken: The Ghost Chip and a folder of encrypted high-level data
   outcome: Project EDEN exposed; the trio inducted into the Nest and implanted with Ghost Chips
 sources:
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/biotec.txt
-  - worldanvil/sources/site/key-figures.txt
-  - worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/biotec.txt
+- worldanvil/sources/site/key-figures.txt
+- worldanvil/sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: the-biotec-breach-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-02-26-08.webp
+  alt: The BioTec entrance
+  caption: A glowing white BioTec sign above a sealed blue door, with striped security barriers on the pavement in front.
 ---
 
 **Corporate infiltration · BioTec Sharn facility, Upper Central District · Sharn Ep 1**

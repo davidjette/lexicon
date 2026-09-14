@@ -30,6 +30,10 @@ published: '2026-09-10'
 wa:
   slug: implants-and-chip-enhancement-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+gallery:
+- src: /images/gallery/2026-01-16-11.webp
+  alt: 'Breakers Pit fight tiers and rewards: Tier 3'
+  caption: A Breakers Pit "Fight Tiers & Rewards" sheet listing the Tier 3 fee, permanent chip implants such as a Darksight Chip, and high-level magic items.
 ---
 
 **Arcane-cybernetic augmentation · Commercial, medical and Imperial · Ubiquitous in Sharn · Primary manufacturer: BioTec**

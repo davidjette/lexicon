@@ -57,6 +57,22 @@ published: '2026-09-10'
 wa:
   slug: dead-man26230393Bs-hand-article
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+gallery:
+- src: /images/gallery/2025-08-22-01.webp
+  alt: Lenore Bishop
+  caption: Portrait of Lenore Bishop, a human artificer with a black bob, large brass-and-steel headphones, a white shirt and leather harness straps.
+- src: /images/gallery/2025-08-22-05.webp
+  alt: Lenore Bishop lighting a fuse
+  caption: Lenore Bishop, in headphones and a leather vest, blows on a candle beside an open chest packed with dynamite, aboard a ship at night.
+- src: /images/gallery/2025-08-22-12.webp
+  alt: Maverick with a glowing wand
+  caption: Maverick, a dark-skinned elf with swept white hair in a black suit and open white shirt, holds up a glowing wand in an arched window.
+- src: /images/gallery/2025-08-22-15.webp
+  alt: Maverick
+  caption: Maverick, a dark-skinned elf with white hair in a black suit, grins and points a glowing wand on a moonlit ship's deck surrounded by shadowy devils.
+- src: /images/gallery/2025-08-22-07.webp
+  alt: BattleBeast
+  caption: Portrait of a massive white-maned lion-man in black and red armour plates, fists bound in red wraps, roaring.
 ---
 
 > 500 years ago, the universe faced a Crisis. A conspiracy of devils and men deposed the Queen of Death and syphoned mortal souls away from their destinies and toward their selfish ends.

@@ -34,6 +34,10 @@ published: '2026-09-10'
 wa:
   slug: wonton-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/gallery/2026-07-28-03.webp
+  alt: A duergar on a giant spider
+  caption: A grey-skinned, white-bearded duergar holding a crossbow rides a giant spider through a torchlit stone corridor. Wonton is the only one of the kin who rides a giant spider.
 ---
 
 **Duergar (deep dwarf) · kin of the Teryaki camp · The Teryaki clan · Alive**

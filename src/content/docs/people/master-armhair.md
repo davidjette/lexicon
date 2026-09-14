@@ -2,18 +2,18 @@
 title: Master Armhair
 description: Elderly half-elf loremaster of the Hall of Records, who traced the dragon Viagra to the Throne of Bones and calls it blasphemy himself.
 tags:
-  - Master Armhair
-  - Armhair
-  - Hall of Records
-  - Ministry of Records
-  - Korth
-  - Viagra
-  - Kaius III
-  - Kaius III
-  - Jarret Ilwenarn
-  - Prince Kaius
-  - Valtrex
-  - Korramont
+- Master Armhair
+- Armhair
+- Hall of Records
+- Ministry of Records
+- Korth
+- Viagra
+- Kaius III
+- Kaius III
+- Jarret Ilwenarn
+- Prince Kaius
+- Valtrex
+- Korramont
 image:
   src: /images/uploads/master-armhair-mu0m48wt.webp
 type: person
@@ -34,15 +34,22 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/korth-episode-summaries.txt
-  - C:/dev/sharn-campaign/npcs-korth.md
-  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
-  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-  - C:/dev/sharn-campaign/korth.md
+- sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/npcs-korth.md
+- C:/dev/sharn-campaign/session-2026-09-04-summary.md
+- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+- C:/dev/sharn-campaign/korth.md
 published: '2026-09-10'
 wa:
   slug: master-armhair-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-09-07-05.webp
+  alt: Master Armhair in the Hall of Records
+  caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
+- src: /images/gallery/2026-09-07-06.webp
+  alt: The midnight meeting with Armhair and Jelton Ahn
+  caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
 ---
 
 **Half-elf · Loremaster of the Hall of Records · Adviser to the Imperial court on dragon lore · Alive, departing for the Korramont**

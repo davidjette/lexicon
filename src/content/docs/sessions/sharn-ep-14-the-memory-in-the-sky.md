@@ -2,18 +2,18 @@
 title: Sharn Ep 14 — The Memory in the Sky
 description: 'Grady Marsh''s memory is finally pulled: Uriel killed Calcifer at birth and stopped only when Esther screamed.'
 tags:
-  - Sharn Ep 14
-  - The Memory in the Sky
-  - Calcifer
-  - Uriel Qualanthri
-  - Esther Crona
-  - Grady Marsh
-  - ArcEye Crystallizer
-  - Fema Nolan
-  - Zero-One
-  - Forge of Binding
-  - Richard Blaze
-  - Aboleth
+- Sharn Ep 14
+- The Memory in the Sky
+- Calcifer
+- Uriel Qualanthri
+- Esther Crona
+- Grady Marsh
+- ArcEye Crystallizer
+- Fema Nolan
+- Zero-One
+- Forge of Binding
+- Richard Blaze
+- Aboleth
 image:
   src: /images/uploads/sharn-ep-14-the-memory-in-the-sky-mu0rxf03.webp
 sidebar:
@@ -23,11 +23,27 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-14-E28094-the-memory-in-the-sky-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-04-05-02.webp
+  alt: 'Calcifer''s birth: Uriel holds the newborn'
+  caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
+- src: /images/gallery/2026-04-28-01.webp
+  alt: Infected Cogborn stat block
+  caption: 'A screenshot of the "Infected Cogborn" creature stat block: a Medium aberration with tentacles, a bite and a mind blast.'
+- src: /images/gallery/2026-04-05-01.webp
+  alt: 'Calcifer''s birth: Esther in labour'
+  caption: 'Esther Crona, heavily pregnant, doubles over on her penthouse balcony above the lights of Sharn while Uriel Qualanthri stands watching in white robes: the memory of the night Calcifer was born.'
+- src: /images/gallery/2026-04-27-01.webp
+  alt: Dario against an infected Cogborn
+  caption: A winged Sir Dario Argentino with a flaming sword and shield meets a tentacle-faced infected Cogborn in a flooded chamber beneath Sharn.
+- src: /images/gallery/2026-04-27-02.webp
+  alt: Eric in the flooded chamber
+  caption: Eric the Cleric wades through a flooded brick chamber toward a gaunt creature emerging from an archway.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 14 · DM: Nichole**

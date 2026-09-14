@@ -32,6 +32,13 @@ published: '2026-09-10'
 wa:
   slug: umbra-material
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+gallery:
+- src: /images/gallery/2026-02-10-01.webp
+  alt: Letter from Hallorn d'Lyrandar to Malrik
+  caption: A letter to Malrik signed Hallorn d'Lyrandar about delayed Umbra shipments, the Lord Commander's threats and Eden being deployed against the Hundreds, with Hallorn's portrait.
+- src: /images/gallery/2026-05-13-02.webp
+  alt: Recruiter stat block
+  caption: A creature stat block for the "Recruiter", a Medium humanoid with Umbra syringes, Umbra-drugged effects and an Umbra powder burst.
 ---
 
 **Material · Grown and supplied by Malrik Zeir · Transported across Khorvaire by Hallorn d'Lyrandar · Consumed by Project E.D.E.N. and by the Children of Ember · Sharn supply severed**

@@ -2,18 +2,18 @@
 title: Sharn Ep 12 — The Spine and the Stone
 description: The Cogborn are evacuated through the Spine and a Dhakaani chamber to R.U.S.T., and Locke Pierce comes in person to thank the trio.
 tags:
-  - Sharn Ep 12
-  - The Spine and the Stone
-  - Blair
-  - Berenstain
-  - Cogborn
-  - Chamber Room
-  - Stone Golem
-  - Dhakaani
-  - Lexicon
-  - Locke Pierce
-  - The Hundreds
-  - Doppler Klink
+- Sharn Ep 12
+- The Spine and the Stone
+- Blair
+- Berenstain
+- Cogborn
+- Chamber Room
+- Stone Golem
+- Dhakaani
+- Lexicon
+- Locke Pierce
+- The Hundreds
+- Doppler Klink
 image:
   src: /images/uploads/sharn-ep-12-the-spine-and-the-stone-mu0rv9qc.webp
 sidebar:
@@ -23,11 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-12-E28094-the-spine-and-the-stone-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-03-20-01.webp
+  alt: R.U.S.T. prayer sheet to Lexicon
+  caption: A song sheet with doves and a radiant cross, bordered in binary, with verses such as "You'll be given love (Lexicon)" and "All is full of love (Lexicon)". It is the prayer sheet the R.U.S.T. Runners hand out to the Cogborn.
+- src: /images/gallery/2026-03-29-02.webp
+  alt: The Stone Golem of the Chamber Room
+  caption: Sir Dario Argentino on his black panther, Eric the Cleric and Gemma Corso battle an ancient Stone Golem among spider corpses in the webbed Chamber Room.
+- src: /images/gallery/2026-03-29-08.webp
+  alt: Clearing the collapsed tunnel
+  caption: Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel, Doppler cutting stone with a blue beam and Snodgrass hauling a boulder, to reach the trapped Cogborn.
+- src: /images/gallery/2026-03-31-02.webp
+  alt: Locke Pierce meets Preacher
+  caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
+- src: /images/gallery/2026-03-27-01.webp
+  alt: R.U.S.T. communication necklace
+  caption: 'A silver pendant on a chain: a crosshair medallion ringed with binary digits and four points. It is the R.U.S.T. communication necklace Locke Pierce gives the trio.'
+- src: /images/gallery/2026-03-29-01.webp
+  alt: Eric faces a giant spider
+  caption: Eric the Cleric, dagger drawn, faces a giant spider descending on its web in the webbed Chamber Room.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 12 · DM: Nichole**

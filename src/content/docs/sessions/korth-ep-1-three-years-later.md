@@ -2,18 +2,18 @@
 title: Korth Ep 1 — Three Years Later
 description: Three years after Sharn, Gemma finds two more bells and a forbidden litany, and the Thronehold Summit collapses into lightning.
 tags:
-  - Korth Ep 1
-  - Three Years Later
-  - Thronehold
-  - Vex d'Lyrandar
-  - Maelis Dorn
-  - Fantanya Nyel
-  - Foxtale
-  - Locke Pierce
-  - Cyrean Red Pomegranate
-  - Chancellor of Sharn
-  - Black Doves
-  - Crona's Wall
+- Korth Ep 1
+- Three Years Later
+- Thronehold
+- Vex d'Lyrandar
+- Maelis Dorn
+- Fantanya Nyel
+- Foxtale
+- Locke Pierce
+- Cyrean Red Pomegranate
+- Chancellor of Sharn
+- Black Doves
+- Crona's Wall
 image:
   src: /images/uploads/korth-ep-1-three-years-later-mu0s5b66.webp
 sidebar:
@@ -23,11 +23,27 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/korth-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-1-E28094-three-years-later-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+gallery:
+- src: /images/gallery/2026-06-15-01.webp
+  alt: The red pomegranate on the table
+  caption: Chancellor Eric the Cleric sits at a table with a large red pomegranate before him, joined by Jessica Grimpledink, Gemma Corso and Lorian. The fruit is the Cyrean Red Pomegranate Locke Pierce sent Eric before the Thronehold Summit.
+- src: /images/gallery/2026-06-15-02.webp
+  alt: Chancellor Eric meets Locke Pierce
+  caption: Chancellor Eric the Cleric, in red coat and wig, speaks with the masked Locke Pierce in a fur-collared coat, in a stone room with armoured figures behind.
+- src: /images/gallery/2026-06-15-03.webp
+  alt: Gemma finds a bell in a church tower
+  caption: Gemma Corso stands in a stone bell tower beside a huge ornate golden bell, with robed figures in white cloaks marked with a flame across the room and a city beyond the arches.
+- src: /images/gallery/2026-06-15-07.webp
+  alt: Chancellor Eric speaks with the orc delegates
+  caption: Chancellor Eric the Cleric, in red coat and wig, gestures as he speaks to an orc woman in leather armour and two orc warriors in a candlelit hall.
+- src: /images/gallery/2026-06-15-10.webp
+  alt: At the Thronehold Summit with Rotunda Goose
+  caption: Chancellor Eric the Cleric and Lorian talk with Rotunda Goose in her red gown and a woman in a white blouse, in a candlelit stone hall.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 1 · DM: Dave**

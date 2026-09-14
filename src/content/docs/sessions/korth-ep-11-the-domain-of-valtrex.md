@@ -2,18 +2,18 @@
 title: Korth Ep 11 — The Domain of Valtrex
 description: The trio free the black dragon Valtrex from an Imperial bleeding rig, and Dario shatters the Thirteenth Casting with KNELL.
 tags:
-  - Korth Ep 11
-  - The Domain of Valtrex
-  - Valtrex
-  - KNELL
-  - Thirteenth Casting
-  - Bofric
-  - Crown of Seven Stars
-  - Erandis Vol
-  - The Crimson Sun
-  - Kaius III
-  - Egg Roll
-  - Korramont
+- Korth Ep 11
+- The Domain of Valtrex
+- Valtrex
+- KNELL
+- Thirteenth Casting
+- Bofric
+- Crown of Seven Stars
+- Erandis Vol
+- The Crimson Sun
+- Kaius III
+- Egg Roll
+- Korramont
 image:
   src: /images/uploads/korth-ep-11-the-domain-of-valtrex-mu0sq8uy.webp
 sidebar:
@@ -23,11 +23,21 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/korth-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-11-E28094-the-domain-of-valtrex-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+gallery:
+- src: /images/gallery/2026-08-26-02.webp
+  alt: Egg Roll runs through the fire
+  caption: A bearded man in a red coat reaches out as a small figure runs along mine rails into an arch of fire. Egg Roll runs through Eric's wall of fire toward the bell.
+- src: /images/gallery/2026-08-26-03.webp
+  alt: Eric seized beneath the Thirteenth Casting
+  caption: Beneath a huge black bell, Sir Dario Argentino grips a bearded man in a red coat who strains toward it while Gemma Corso stands close. Eric tries to ring the bell himself and Dario grapples him down.
+- src: /images/gallery/2026-08-27-01.webp
+  alt: Dario breaks the Thirteenth Casting
+  caption: In a smoke-filled hall a dragonborn swings a great warhammer toward a bell on a platform while two figures reel with their hands over their ears and the dead rise. Dario breaks the Thirteenth Casting with KNELL.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 11 · DM: Dave**

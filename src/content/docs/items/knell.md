@@ -2,18 +2,18 @@
 title: Knell
 description: King Corn's black-Khyber warhammer, older than the bells. A bell it strikes does not ring; it cracks, loses symmetry and folds in on itself.
 tags:
-  - KNELL
-  - Knell
-  - King Corn
-  - Corn Deeptempura
-  - Deeptempura
-  - warhammer
-  - Black Khyber
-  - Shavat
-  - Kyber
-  - Hell's Bells
-  - Fantanya Nyel
-  - Dario Argentino
+- KNELL
+- Knell
+- King Corn
+- Corn Deeptempura
+- Deeptempura
+- warhammer
+- Black Khyber
+- Shavat
+- Kyber
+- Hell's Bells
+- Fantanya Nyel
+- Dario Argentino
 image:
   src: /images/uploads/14b0dcdb-4fea-4251-9310-0bee290ecc74-mu08t91q.png
 type: item
@@ -32,17 +32,24 @@ fields:
   discovery: Recovered from King Corn's crowned corpse atop Valtrex's hoard on the island in the black lake beneath the Korramont, traded for a Ring of Lesser Wish
   sideEffects: Violent recoil. The sound of a Master breaking deafens everyone nearby for hours.
 sources:
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - session-2026-08-21-recap.md
-  - session-2026-08-07-recap.md
-  - session-2026-08-28-summary.md
-  - session-2026-09-04-summary.md
-  - current-state.md
-  - worldanvil/CANON.md
+- worldanvil/sources/site/korth-episode-summaries.txt
+- session-2026-08-21-recap.md
+- session-2026-08-07-recap.md
+- session-2026-08-28-summary.md
+- session-2026-09-04-summary.md
+- current-state.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: knell-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+gallery:
+- src: /images/gallery/2026-08-27-01.webp
+  alt: Dario breaks the Thirteenth Casting
+  caption: In a smoke-filled hall a dragonborn swings a great warhammer toward a bell on a platform while two figures reel with their hands over their ears and the dead rise. Dario breaks the Thirteenth Casting with KNELL.
+- src: /images/gallery/2026-09-03-08.webp
+  alt: Dario breaks the crated bell
+  caption: An armoured dragonborn swings a warhammer into the bell in its crate, the metal buckling and shattering under the blow.
 ---
 
 **Warhammer · Black Khyber (Shavat) · Royal arm of the Deeptempura · Older than the bells · Believed unique · Carried by Sir Dario Argentino**

@@ -2,18 +2,18 @@
 title: Blair
 description: 'Queen B, sovereign of the Underhive: LeBeefe''s adopted daughter, raised by pirates, and the one ruler in Sharn who kept her word.'
 tags:
-  - Blair
-  - Queen B
-  - Queen of the Underhive
-  - Underhive
-  - Drones
-  - Sharn
-  - Lower City
-  - John C. LeBeefe
-  - Esther Crona
-  - Faith Zeir
-  - Eden
-  - Joseph Roberts
+- Blair
+- Queen B
+- Queen of the Underhive
+- Underhive
+- Drones
+- Sharn
+- Lower City
+- John C. LeBeefe
+- Esther Crona
+- Faith Zeir
+- Eden
+- Joseph Roberts
 image:
   src: /images/site/blair-1.webp
   alt: Blair "Queen B"
@@ -36,16 +36,35 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/site/korth-episode-summaries.txt
-  - worldanvil/images/key-figures/02.jpg
+- sources/site/key-figures.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/site/korth-episode-summaries.txt
+- worldanvil/images/key-figures/02.jpg
 published: '2026-09-10'
 wa:
   slug: c00f2b19-cde4-4258-9273-16a6ad403733
   uuid: 4191729d-dfc2-4deb-b60a-3199343f673f
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2026-02-18-01.webp
+  alt: Blair, Queen B
+  caption: Blair, the tiefling Queen of the Underhive, stands in a lantern-lit vault in her brown leather coat worked with gold scroll, holding a glowing green dagger.
+- src: /images/gallery/2026-02-18-02.webp
+  alt: Blair and her husbands
+  caption: 'Blair stands in a lantern-lit tunnel surrounded by her husbands: an elf, a human, a red dragonborn and a white-furred tabaxi.'
+- src: /images/gallery/2026-03-02-16.webp
+  alt: Berenstain and Blair
+  caption: Berenstain, a hooded bear-man hung with chains, stands with Blair, masked and hooded in a leather coat, in a pipe-lined tunnel.
+- src: /images/gallery/2026-03-09-06.webp
+  alt: Blair and Carlos Vega
+  caption: Carlos Vega, shirtless and tattooed, bows to kiss Blair's hand in a lantern-lit tunnel.
+- src: /images/gallery/2026-03-09-05.webp
+  alt: Blair at the fireside
+  caption: Blair stands by a red armchair beside a fireplace, with a tattooed shirtless man near her and a man in a red bandana playing a flute.
+- src: /images/gallery/2026-05-09-08.webp
+  alt: Blair interrogates an Iron Veil prisoner
+  caption: 'A horned woman in a long coat stands over a kneeling prisoner in red armour in a vault of treasure chests, watched by Gemma Corso, Eric the Cleric and Sir Dario Argentino: Blair questioning the captured Iron Veil soldier.'
 ---
 
 **Female Tiefling · Queen of the Underhive · Sovereign of the undercity, Sharn · Alive**

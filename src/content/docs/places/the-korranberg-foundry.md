@@ -2,18 +2,18 @@
 title: The Korranberg Foundry
 description: The Imperial works inside the Korramont that cast the Hell's Bells with dwarven slave labour, and killed nearly everyone in it three years ago.
 tags:
-  - The Korranberg Foundry
-  - Korranberg Foundry
-  - the Foundry
-  - Tempurahold
-  - The Korramont
-  - Fantanya Nyel
-  - Hell's Bells
-  - Shavat
-  - Black Khyber
-  - Deeptempura
-  - House of Kaius
-  - Velen Marsk
+- The Korranberg Foundry
+- Korranberg Foundry
+- the Foundry
+- Tempurahold
+- The Korramont
+- Fantanya Nyel
+- Hell's Bells
+- Shavat
+- Black Khyber
+- Deeptempura
+- House of Kaius
+- Velen Marsk
 image:
   src: /images/uploads/the-korranberg-foundry-mu0q40v5.webp
 type: building / landmark
@@ -25,18 +25,22 @@ fields:
   location: Inside the Korramont, above the black lake
   population: Abandoned; a Teryaki camp (fourteen bedrolls) in the adjoining Great Hall
 sources:
-  - sources/site/korth-episode-summaries.txt
-  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
-  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
-  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
-  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
-  - C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
-  - C:/dev/sharn-campaign/current-state.md
-  - worldanvil/CANON.md
+- sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/session-2026-07-11-recap.md
+- C:/dev/sharn-campaign/session-2026-07-17-recap.md
+- C:/dev/sharn-campaign/session-2026-08-07-recap.md
+- C:/dev/sharn-campaign/session-2026-08-21-recap.md
+- C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
+- C:/dev/sharn-campaign/current-state.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-korranberg-foundry-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
+gallery:
+- src: /images/gallery/2026-07-12-20.webp
+  alt: Korranberg Foundry Trust schedule of works
+  caption: 'A prop document: a Chancellery of Sharn Office of Seizures evidence tag clipped to the second leaf of the Korranberg Foundry Trust''s private schedule of works, listing thirteen great castings commissioned, eleven delivered and two in the yard. It is the partially burned foundry schedule recovered from the Lower City church.'
 ---
 
 **Foundry, mine and mass grave - inside the Korramont**

@@ -2,18 +2,18 @@
 title: BioTec
 description: Privately owned Imperial research contractor in Upper Central Sharn; publicly a medical institute, and the only Imperial building with no ArcEyes inside it.
 tags:
-  - BioTec
-  - Bio Tec
-  - BioTec Industries
-  - Project EDEN
-  - Project E.D.E.N.
-  - Ghost Chip
-  - ArcEye Crystallizer
-  - Edwin Graves
-  - Joanne Menka
-  - Martin Kross
-  - Circuit City
-  - Cog Collector
+- BioTec
+- Bio Tec
+- BioTec Industries
+- Project EDEN
+- Project E.D.E.N.
+- Ghost Chip
+- ArcEye Crystallizer
+- Edwin Graves
+- Joanne Menka
+- Martin Kross
+- Circuit City
+- Cog Collector
 image:
   src: /images/uploads/biotec-sharn-mu0q7g0m.webp
 type: organization
@@ -23,17 +23,33 @@ fields:
   type: Corporate — privately held Imperial research contractor
   alternativename: The medical research institute (public designation)
 sources:
-  - worldanvil/sources/site/biotec.txt
-  - worldanvil/sources/site/key-figures.txt
-  - worldanvil/sources/site/mission-board.txt
-  - worldanvil/sources/site/pose-mission-notes.txt
-  - worldanvil/sources/site/home.txt
-  - worldanvil/sources/site/children-of-ember.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/biotec.txt
+- worldanvil/sources/site/key-figures.txt
+- worldanvil/sources/site/mission-board.txt
+- worldanvil/sources/site/pose-mission-notes.txt
+- worldanvil/sources/site/home.txt
+- worldanvil/sources/site/children-of-ember.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: biotec-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2025-12-14-05.webp
+  alt: E.D.E.N. units outside BioTec
+  caption: Three corpse-faced armoured soldiers, the central one with long grey hair and red blades, stand beneath a BioTec sign.
+- src: /images/gallery/2025-12-28-01.webp
+  alt: BioTec logo
+  caption: The teal BioTec wordmark on a white background.
+- src: /images/gallery/2026-01-06-01.webp
+  alt: 'BioTec file: Project E.D.E.N. summary'
+  caption: Page one of a redacted BioTec Internal Research Archive document on Project E.D.E.N., with an executive summary and key personnel including Dr. Joanne Menka.
+- src: /images/gallery/2026-02-26-08.webp
+  alt: The BioTec entrance
+  caption: A glowing white BioTec sign above a sealed blue door, with striped security barriers on the pavement in front.
+- src: /images/gallery/2026-02-26-16.webp
+  alt: Project E.D.E.N. hybrids
+  caption: Undead-warforged hybrids with red eyes and glowing blades stand beneath a neon BioTec sign.
 ---
 
 **Privately owned Imperial research contractor · Arcane-cybernetic augmentation and experimental implants · Upper Central District, Sharn · Publicly a medical research institute**

@@ -51,6 +51,22 @@ wa:
 image:
   src: /images/site/locke-pierce-1.webp
   alt: Locke Pierce
+gallery:
+- src: /images/gallery/2025-12-19-06.webp
+  alt: 'The Unforeseen Strikes Back toy box: Locke Pierce'
+  caption: A mock toy-store shelf photo of a boxed playset titled "The Unforeseen Strikes Back - Locke Pierce Mournlands Fortress", showing a fur-coated figure before a green-lit fortress and a battling army.
+- src: /images/gallery/2026-03-31-02.webp
+  alt: Locke Pierce meets Preacher
+  caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
+- src: /images/gallery/2025-12-19-01.webp
+  alt: 3D figure of Locke Pierce
+  caption: A rendered 3D figure of Locke Pierce in a gas-mask helmet and quilted fur-trimmed coat, holding a spear and a pistol.
+- src: /images/gallery/2026-06-15-02.webp
+  alt: Chancellor Eric meets Locke Pierce
+  caption: Chancellor Eric the Cleric, in red coat and wig, speaks with the masked Locke Pierce in a fur-collared coat, in a stone room with armoured figures behind.
+- src: /images/gallery/2026-06-27-08.webp
+  alt: Arriving at Mt. Silicon with Locke Pierce
+  caption: Eric the Cleric, Lorian, Gemma Corso and an armoured knight follow Locke Pierce toward a fortified gate in a cliff, beside a giant warforged.
 ---
 
 **Warforged · Artificer / Armorer · [The Unforeseen](/organizations/the-unforeseen/), then The Hundreds · Ancient Relic Specialist, Director of the Rekkenmark Newham Annex, leader of the Warforged nation of the Mournlands · **Alive****

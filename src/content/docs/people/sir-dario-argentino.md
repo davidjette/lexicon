@@ -63,6 +63,21 @@ gallery:
 - src: /images/album/speaking-with-bantide-moro-in-jail.webp
   alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Mo
   caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Moro. Imperial capital of Korth jail - Korth Episode: The Condemned'
+- src: /images/gallery/2026-02-05-01.webp
+  alt: Sir Dario Argentino in a sombrero
+  caption: Sir Dario Argentino wears a wide embroidered sombrero and grey cloak beside his black panther on a Sharn street.
+- src: /images/gallery/2026-02-22-07.webp
+  alt: Dario charges on his black panther
+  caption: Sir Dario Argentino rides his black panther across a bridge with a flaming sword, bearing down on an Iron Veil soldier in red horned armour.
+- src: /images/gallery/2026-03-01-08.webp
+  alt: Sir Dario Argentino
+  caption: Sir Dario Argentino, a dragonborn in dark plate and a cloak, stands on a cobbled street in Sharn.
+- src: /images/gallery/2026-03-29-11.webp
+  alt: Sir Dario and his black panther
+  caption: Sir Dario Argentino rests a gauntleted hand on the head of his armoured black panther mount in a lamplit sewer tunnel.
+- src: /images/gallery/2026-04-30-02.webp
+  alt: 'Scroll: Forge, hear me'
+  caption: 'A dragonborn''s gauntleted hand holds a scroll before the forge: "Forge, hear me. By steel, by breath, by will... I bind the frost of my ancestry into this blade. Let it carry the warrior I am." It is Sir Dario Argentino binding elemental cold into his weapon.'
 ---
 
 **Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 12 · Alive**

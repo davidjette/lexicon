@@ -38,6 +38,13 @@ published: '2026-09-10'
 wa:
   slug: egg-roll-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-08-10-01.webp
+  alt: Reading Egg Roll's map
+  caption: Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat study a large parchment map in a dark hall. Egg Roll's mother gives Gemma the boy's hand-drawn map of the foundry level.
+- src: /images/gallery/2026-08-26-02.webp
+  alt: Egg Roll runs through the fire
+  caption: A bearded man in a red coat reaches out as a small figure runs along mine rails into an arch of fire. Egg Roll runs through Eric's wall of fire toward the bell.
 ---
 
 **Duergar (deep dwarf) · Child of the Teryaki camp · The Teryaki clan · Alive, disfigured**

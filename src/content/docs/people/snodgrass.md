@@ -2,18 +2,18 @@
 title: Snodgrass
 description: Goliath ranger of the Cogs who lives in a blocked drainpipe, hunts sewer gators to feed Cogborn families, and knows every route out.
 tags:
-  - Snodgrass
-  - Cogborn
-  - The Cogs
-  - R.U.S.T.
-  - Goliath
-  - Ranger
-  - Undercity
-  - Sewers
-  - Grand Aqueduct
-  - Drain Snakes
-  - Preacher
-  - Cog Collector
+- Snodgrass
+- Cogborn
+- The Cogs
+- R.U.S.T.
+- Goliath
+- Ranger
+- Undercity
+- Sewers
+- Grand Aqueduct
+- Drain Snakes
+- Preacher
+- Cog Collector
 image:
   src: /images/site/snodgrass-1.webp
   alt: Snodgrass
@@ -35,14 +35,33 @@ fields:
   height: Unknown - a goliath
   weight: Unknown
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - worldanvil/images/rebel-factions/16.jpg
+- sources/site/rebel-factions.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- worldanvil/images/rebel-factions/16.jpg
 published: '2026-09-10'
 wa:
   slug: snodgrass-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2026-02-23-06.webp
+  alt: Snodgrass in the sewers
+  caption: Snodgrass wades through a flooded sewer tunnel with a machete and a torch as giant rats close in.
+- src: /images/gallery/2026-03-01-04.webp
+  alt: Snodgrass and Doppler Klink
+  caption: Snodgrass, in his red cap and fur kilt, stands beside Doppler Klink in a dark control room lit by red strips.
+- src: /images/gallery/2026-03-16-02.webp
+  alt: Snodgrass battles a giant crocodile
+  caption: Snodgrass grapples a giant crocodile in the flooded sewers while Doppler Klink casts, with Dario and Renn Tal behind at a round drain grate.
+- src: /images/gallery/2026-02-23-01.webp
+  alt: Snodgrass, character render
+  caption: A stylised render of Snodgrass in a red feathered cap, scaled armour and a fur kilt hung with claws, holding a machete.
+- src: /images/gallery/2026-02-23-09.webp
+  alt: Snodgrass in his den
+  caption: Snodgrass stands in a cramped, curved-walled den with a worn couch, a bedroll and a fire burning in a barrel.
+- src: /images/gallery/2026-03-29-06.webp
+  alt: Snodgrass and the Cogborn
+  caption: Snodgrass, grinning under his red cap, dangles a rat for a small boy while a grey-haired man and a red-bearded man look on in a brick tunnel.
 ---
 
 **Goliath · Ranger · Tunnel scout and Cogborn protector · Alive**

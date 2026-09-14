@@ -70,6 +70,21 @@ gallery:
 - src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
   alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
   caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
+- src: /images/gallery/2025-12-29-04.webp
+  alt: Gemma Corso portrait
+  caption: Gemma Corso, a red-haired tiefling in a mustard jacket and rust scarf, stands with a dagger in hand and her tail curling behind her.
+- src: /images/gallery/2026-06-07-03.webp
+  alt: Gemma Corso as Foxtale in Korth
+  caption: Gemma Corso, a horned tiefling with a long red braid in dark clothes, stands in a rain-wet alley between tall Gothic buildings.
+- src: /images/gallery/2026-07-11-01.webp
+  alt: Gemma dances with Kitsune
+  caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
+- src: /images/gallery/2026-08-10-03.webp
+  alt: Gemma's dream of the fountain
+  caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
+- src: /images/gallery/2025-12-19-04.webp
+  alt: 3D figure of Gemma Corso
+  caption: A rendered 3D figure of a red-haired tiefling woman with curling horns, a braid, a long red scarf and a tail, holding a short sword.
 ---
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**

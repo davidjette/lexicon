@@ -32,6 +32,10 @@ wa:
   slug: the-crimson-sun-organization
   uuid: 05e85316-1154-474c-8b7e-aeb226a62aba
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-02-19-01.webp
+  alt: Varyn Crona, the Eternal Guardian
+  caption: Varyn Crona, a white-haired elf in black armour marked with a red sun, strides across a reflecting wasteland with a flaming sword beneath a black sun.
 ---
 
 **Type:** Government, Secret Service · **Status:** Active · **Seat:** Korth

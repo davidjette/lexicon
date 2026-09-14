@@ -2,18 +2,18 @@
 title: The Hell's Bell (Fantanya Nyel)
 description: 'The one true bell: an elvish infernal casting dug out of Greenbluff, now the mother of a chorus the Empress means to ring across a continent.'
 tags:
-  - The Hell's Bell
-  - Hell's Bells
-  - Fantanya Nyel
-  - Fantanya Nyel
-  - Fantanya (Hells) Nyel
-  - Bell
-  - Greenbluff
-  - Relic
-  - Artifact
-  - Necromancy
-  - Black Doves
-  - Uriel Qualanthri
+- The Hell's Bell
+- Hell's Bells
+- Fantanya Nyel
+- Fantanya Nyel
+- Fantanya (Hells) Nyel
+- Bell
+- Greenbluff
+- Relic
+- Artifact
+- Necromancy
+- Black Doves
+- Uriel Qualanthri
 image:
   src: /images/uploads/the-hell-s-bell-fantanya-nyel-mu0t8j70.webp
 type: item
@@ -33,22 +33,38 @@ fields:
   creationDate: Unknown; buried by a Celestial Queen centuries ago
   destructionDate: Extant. The Thirteenth Casting was destroyed by KNELL; ten bells remain.
 sources:
-  - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
-  - handouts/hells-bells-dossier.md
-  - handouts/fulcrum-bell-file.md
-  - handouts/caius-foundry-manifest.md
-  - handouts/foxtale-debrief.md
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - session-2026-08-21-recap.md
-  - session-2026-09-04-summary.md
-  - current-state.md
-  - worldanvil/CANON.md
+- worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
+- handouts/hells-bells-dossier.md
+- handouts/fulcrum-bell-file.md
+- handouts/caius-foundry-manifest.md
+- handouts/foxtale-debrief.md
+- worldanvil/sources/site/korth-episode-summaries.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- session-2026-08-21-recap.md
+- session-2026-09-04-summary.md
+- current-state.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-hell-s-bell-28fantanya-nyel29-item
   uuid: a240a90b-c01d-4bde-a973-76e4a75bb9c1
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+gallery:
+- src: /images/gallery/2026-07-12-17.webp
+  alt: 'Dossier: The Fatanya Nyel'
+  caption: 'A prop document from the Mt. Silicon Archive: Intelligence Dossier HB-CHORUS-13, "The Fatanya Nyel - Hell''s Bells - Instruments of the Eternal Nightfall", from the Office of the Progenitor, with a threat table and an assessment of the threat. It is part of the sealed intelligence dossier on the Hell''s Bells that Locke Pierce gives the trio.'
+- src: /images/gallery/2026-07-12-18.webp
+  alt: 'Dossier: The Greenbluff Bell'
+  caption: A prop document page headed "Sec. 02 The Greenbluff Bell (Notes from the Progenitor)", a first-hand account of recovering the Fatanya Nyel from the Greenbluff mine. It belongs to the Hell's Bells dossier from Locke Pierce.
+- src: /images/gallery/2026-06-15-03.webp
+  alt: Gemma finds a bell in a church tower
+  caption: Gemma Corso stands in a stone bell tower beside a huge ornate golden bell, with robed figures in white cloaks marked with a flame across the room and a city beyond the arches.
+- src: /images/gallery/2026-06-15-05.webp
+  alt: A golden bell in a crate
+  caption: Gemma Corso and a figure in a white flame-marked cloak stand before a huge ornate golden bell packed in straw inside an open wooden crate.
+- src: /images/gallery/2026-06-15-11.webp
+  alt: A golden bell in a crate
+  caption: A huge ornate golden bell with a dragon-shaped crown sits in straw inside an open wooden crate.
 ---
 
 **Unique Artifact · Necromantic resonance instrument · Ancient elvish fabrication · In Imperial keeping · Whereabouts withheld from every schedule**

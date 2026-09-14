@@ -2,18 +2,18 @@
 title: The Lower City
 description: Six stacked neighbourhoods beneath Sharn's towers, split by the Grand Aqueduct, home to the Cogborn and the way down to the Underhive.
 tags:
-  - The Lower City
-  - Lower City
-  - Sharn
-  - The Cogs
-  - Cogborn
-  - Grand Aqueduct
-  - Gear Street
-  - Lantern District
-  - Sub-line District
-  - Lowline Ward
-  - City Center
-  - Ziggurat
+- The Lower City
+- Lower City
+- Sharn
+- The Cogs
+- Cogborn
+- Grand Aqueduct
+- Gear Street
+- Lantern District
+- Sub-line District
+- Lowline Ward
+- City Center
+- Ziggurat
 image:
   src: /images/site/the-lower-city-1.webp
   alt: Lower City Guide
@@ -35,18 +35,21 @@ fields:
   owner: Contested; the Underhive has claimed the Ziggurat and the Vault Below
   ruler: Chancellor Eric the Cleric
 sources:
-  - sources/site/home.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/site/ebt-7.txt
+- sources/site/home.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/site/ebt-7.txt
 published: '2026-09-10'
 wa:
   slug: the-lower-city-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-  - src: /images/site/the-lower-city-2.webp
-    alt: Lower‑City Fixed ArcEye Feed
-    caption: Lower‑City Fixed ArcEye Feed
+- src: /images/site/the-lower-city-2.webp
+  alt: Lower‑City Fixed ArcEye Feed
+  caption: Lower‑City Fixed ArcEye Feed
+- src: /images/gallery/2026-02-25-02.webp
+  alt: Map of Sharn's Lower City
+  caption: A district map titled "Sharn Lower City", showing the Lantern District, City Center and the Ziggurat, the Sub-Line District, the Grand Aqueduct, the Small Waterway, the Cogs, Gear St. Markets and Lowline Ward.
 ---
 
 **District · [Sharn](/places/sharn/) · Working city · Six neighbourhoods and an aqueduct · Standing**

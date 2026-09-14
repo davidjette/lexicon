@@ -2,18 +2,18 @@
 title: Bantide Moro
 description: 'The Nightingale: twenty years the rebellion''s surgeon under a clerk''s cover, tried on ten capital charges and escaped down the corpse chute.'
 tags:
-  - Bantide Moro
-  - Banteed Moro
-  - Bantide
-  - the Nightingale
-  - the Condemned
-  - Moro
-  - Deirdre Moro
-  - Fulcrum
-  - Izaak
-  - Izzak
-  - Silver Flame
-  - Korth
+- Bantide Moro
+- Banteed Moro
+- Bantide
+- the Nightingale
+- the Condemned
+- Moro
+- Deirdre Moro
+- Fulcrum
+- Izaak
+- Izzak
+- Silver Flame
+- Korth
 image:
   src: /images/uploads/bantide-moro-mu0fw3q8.webp
 type: person
@@ -34,26 +34,29 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/korth-episode-summaries.txt
-  - C:/dev/sharn-campaign/npcs-korth.md
-  - C:/dev/sharn-campaign/deirdre-moro-cases.md
-  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
-  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-  - C:/dev/sharn-campaign/korth.md
+- sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/npcs-korth.md
+- C:/dev/sharn-campaign/deirdre-moro-cases.md
+- C:/dev/sharn-campaign/session-2026-09-04-summary.md
+- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+- C:/dev/sharn-campaign/korth.md
 published: '2026-09-10'
 wa:
   slug: bantide-moro-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-  - src: /images/album/teleportation-circle-in-deirdre-moros-apartment.webp
-    alt: Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to reb
-    caption: 'Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to rebel''s Izaak and Bantide Moro (Nightingale) in the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Listening Post'
-  - src: /images/album/after-rescuing-bantide-moro.webp
-    alt: Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (N
-    caption: 'Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (Nightingale). Location: inside the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Condemned'
-  - src: /images/album/carrying-bantide-moro.webp
-    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
-    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) carrying an invisible rebel agent Bantide Moro (Nightingale) through the Imperial capital of Korth - Korth Episode: The Condemned'
+- src: /images/album/teleportation-circle-in-deirdre-moros-apartment.webp
+  alt: Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to reb
+  caption: 'Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to rebel''s Izaak and Bantide Moro (Nightingale) in the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Listening Post'
+- src: /images/album/after-rescuing-bantide-moro.webp
+  alt: Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (N
+  caption: 'Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (Nightingale). Location: inside the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Condemned'
+- src: /images/album/carrying-bantide-moro.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) carrying an invisible rebel agent Bantide Moro (Nightingale) through the Imperial capital of Korth - Korth Episode: The Condemned'
+- src: /images/gallery/2026-09-07-01.webp
+  alt: Bantide Moro, the condemned
+  caption: A barefoot blonde woman with a long braid, in a torn sackcloth dress, stands chained in a stone cell. Bantide Moro is condemned before the High Court of Korth.
 ---
 
 **Species unrecorded · Head nurse and rebellion surgeon · Fulcrum · Alive — officially a suicide in custody**

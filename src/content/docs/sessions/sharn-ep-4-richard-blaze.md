@@ -2,16 +2,16 @@
 title: Sharn Ep 4 — Richard Blaze
 description: Richard Blaze confesses the truth about Esther and her bound Sword, and the trio claim a haunted Lower City apartment as a base.
 tags:
-  - Sharn Ep 4
-  - Richard Blaze
-  - Esther Crona
-  - Zero-One
-  - Jessica Grimpledink
-  - Digma Beeve
-  - Breakers Pit
-  - Zilspar Farm 02
-  - Mission Board
-  - Lower City
+- Sharn Ep 4
+- Richard Blaze
+- Esther Crona
+- Zero-One
+- Jessica Grimpledink
+- Digma Beeve
+- Breakers Pit
+- Zilspar Farm 02
+- Mission Board
+- Lower City
 image:
   src: /images/uploads/sharn-ep-4-richard-blaze-mu0r2ac8.webp
   alt: 'Episode 4: Richard Blaze'
@@ -23,15 +23,27 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-4-E28094-richard-blaze-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-  - src: /images/site/sharn-ep-4-richard-blaze-2.webp
-    alt: 'Episode 4: Richard Blaze'
-    caption: 'Episode 4: Richard Blaze'
+- src: /images/site/sharn-ep-4-richard-blaze-2.webp
+  alt: 'Episode 4: Richard Blaze'
+  caption: 'Episode 4: Richard Blaze'
+- src: /images/gallery/2026-02-11-11.webp
+  alt: The trio and the apartment ghosts
+  caption: Eric, Gemma and Dario stand in a dim room between two pale, spectral figures reaching toward them.
+- src: /images/gallery/2026-02-11-14.webp
+  alt: The trio delivering produce
+  caption: Eric, Gemma and Dario carry crates of tomatoes, greens and apples past a lit storefront.
+- src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-1.webp
+  alt: The trio and the apartment ghosts
+  caption: Eric, Gemma and Dario stand in a dim room between two pale, spectral figures reaching toward them.
+- src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-2.webp
+  alt: Richard Blaze and rebel allies at a teleport circle
+  caption: Richard Blaze gestures to a dark-haired woman in a white dress, Jessica Grimpledink and Digma Beeve, standing around a glowing blue teleportation circle.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 4 · DM: Nichole**

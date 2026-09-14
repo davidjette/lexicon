@@ -27,6 +27,10 @@ wa:
   slug: city-of-knives2C-pt-ii-report
   uuid: 0f4ff1e4-4cd9-40a8-86ae-27892fe5d83d
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-02-15-02.webp
+  alt: Interoperability Summit relationship chart
+  caption: A relationship chart titled "Central Khorvaire Transit Interoperability Summit", with portrait tokens for its chairs Heighrick, Spear and d'Orien, deputy chairs Goldenhew, Devir, d'Sivis and d'Lyrandar, and the delegations of Cornwell, Hornblast, Sominyard, Tremblepike, LeBeefe, Gloomstalker and Olba.
 ---
 
 **Report · Campaign 1, The Unforeseen · The Grand Theatre, Sharn · Report date 15 Oct 2020**

@@ -38,6 +38,10 @@ published: '2026-09-10'
 wa:
   slug: the-eternal-nightfall-myth
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+gallery:
+- src: /images/gallery/2026-07-12-17.webp
+  alt: 'Dossier: The Fatanya Nyel'
+  caption: 'A prop document from the Mt. Silicon Archive: Intelligence Dossier HB-CHORUS-13, "The Fatanya Nyel - Hell''s Bells - Instruments of the Eternal Nightfall", from the Office of the Progenitor, with a threat table and an assessment of the threat. It is part of the sealed intelligence dossier on the Hell''s Bells that Locke Pierce gives the trio.'
 ---
 
 **Planned event · Continent-wide · HAS NOT HAPPENED**

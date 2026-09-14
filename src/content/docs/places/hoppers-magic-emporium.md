@@ -32,6 +32,10 @@ published: '2026-09-10'
 wa:
   slug: hopper26230393Bs-magic-emporium-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+gallery:
+- src: /images/gallery/2026-05-09-03.webp
+  alt: At Hopper's Magic Emporium
+  caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino at the counter of a cluttered magic shop, where a frog-like shopkeeper holds up a scroll among potions and curios.
 ---
 
 **Shop · [Sub-line District](/places/sub-line-district/), [Lower City](/places/the-lower-city/) · Magic shop · Standing and expanding**

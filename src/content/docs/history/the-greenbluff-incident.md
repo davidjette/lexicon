@@ -41,6 +41,10 @@ published: '2026-09-10'
 wa:
   slug: the-greenbluff-incident-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-07-12-18.webp
+  alt: 'Dossier: The Greenbluff Bell'
+  caption: A prop document page headed "Sec. 02 The Greenbluff Bell (Notes from the Progenitor)", a first-hand account of recovering the Fatanya Nyel from the Greenbluff mine. It belongs to the Hell's Bells dossier from Locke Pierce.
 ---
 
 **Mining disaster and relic recovery · Greenbluff camp, outside Newham · about ten years before the Inevitables**

@@ -2,18 +2,18 @@
 title: Sharn Ep 1 — Welcome to Sharn
 description: 'The trio''s first night in Sharn: a break-in at BioTec, the theft of the Ghost Chip, and the hidden door into the Nest.'
 tags:
-  - Sharn Ep 1
-  - Welcome to Sharn
-  - Sharn
-  - BioTec
-  - Ghost Chip
-  - Izaak
-  - Zero of Sharn
-  - The Nest
-  - Skyroot Park
-  - Martin Kross
-  - The Inevitables
-  - Warforged
+- Sharn Ep 1
+- Welcome to Sharn
+- Sharn
+- BioTec
+- Ghost Chip
+- Izaak
+- Zero of Sharn
+- The Nest
+- Skyroot Park
+- Martin Kross
+- The Inevitables
+- Warforged
 image:
   src: /images/uploads/chatgpt-image-sep-13-2026-03-18-21-pm-mu0dlcf3.webp
 sidebar:
@@ -23,11 +23,15 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-1-E28094-welcome-to-sharn-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-02-11-08.webp
+  alt: The trio escapes BioTec
+  caption: Eric, Gemma and Dario stand ready with mace, dagger and shield as armoured undead hybrids advance out of the smoke beneath the BioTec sign.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 1 · DM: Nichole**

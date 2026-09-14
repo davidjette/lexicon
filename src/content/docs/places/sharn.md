@@ -2,18 +2,18 @@
 title: Sharn
 description: 'The vertical City of Towers: Upper City above, Cogs and Underhive below, watched by ArcEyes and now governed by the Council of Sharn.'
 tags:
-  - Sharn
-  - City of Towers
-  - Upper City
-  - Lower City
-  - The Cogs
-  - Iron Veil
-  - ArcEye
-  - Council of Sharn
-  - Breland
-  - Underhive
-  - Veil Building
-  - Skyport
+- Sharn
+- City of Towers
+- Upper City
+- Lower City
+- The Cogs
+- Iron Veil
+- ArcEye
+- Council of Sharn
+- Breland
+- Underhive
+- Veil Building
+- Skyport
 image:
   src: /images/uploads/sharn-upper-city-mu0pwzpz.webp
   alt: Arcane Eye Security Network
@@ -39,77 +39,86 @@ fields:
   owner: Itself, since the fall of the Iron Veil
   ruler: Chancellor Eric the Cleric
 sources:
-  - sources/site/home.txt
-  - sources/site/ebt-7.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/korth-episode-summaries.txt
-  - sources/wa/temple-of-the-closed-circle-landmark.txt
-  - sources/site/biotec.txt
+- sources/site/home.txt
+- sources/site/ebt-7.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
+- sources/wa/temple-of-the-closed-circle-landmark.txt
+- sources/site/biotec.txt
 published: '2026-09-10'
 wa:
   slug: sharn-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-  - src: /images/site/sharn-2.webp
-    alt: Arcane Eye Security Network
-    caption: Arcane Eye Security Network
-  - src: /images/site/sharn-3.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-4.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-5.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-6.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-7.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-8.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-9.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-10.webp
-    alt: Episode
-    caption: Episode
-  - src: /images/site/sharn-11.webp
-    alt: 'SEE UPDATE:'
-    caption: 'SEE UPDATE:'
-  - src: /images/site/sharn-12.webp
-    alt: ⭐COMPLETED⭐
-    caption: ⭐COMPLETED⭐
-  - src: /images/site/sharn-13.webp
-    alt: ⭐COMPLETED⭐
-    caption: ⭐COMPLETED⭐
-  - src: /images/site/sharn-14.webp
-    alt: ⭐COMPLETED⭐
-    caption: ⭐COMPLETED⭐
-  - src: /images/site/sharn-15.webp
-    alt: ⭐COMPLETED⭐
-    caption: ⭐COMPLETED⭐
-  - src: /images/site/sharn-16.webp
-    alt: ⭐COMPLETED⭐
-    caption: ⭐COMPLETED⭐
-  - src: /images/site/sharn-17.webp
-    alt: ⭐COMPLETED⭐
-    caption: ⭐COMPLETED⭐
-  - src: /images/site/sharn-18.webp
-    alt: COMPLETED⭐
-    caption: COMPLETED⭐
-  - src: /images/site/sharn-19.webp
-    alt: COMPLETED⭐
-    caption: COMPLETED⭐
-  - src: /images/site/sharn-20.webp
-    alt: Page updated
-    caption: Page updated
-  - src: /images/site/sharn-21.webp
-    alt: Most‑Viewed ArcEye Feed in Sharn
-    caption: Most‑Viewed ArcEye Feed in Sharn
+- src: /images/site/sharn-2.webp
+  alt: Arcane Eye Security Network
+  caption: Arcane Eye Security Network
+- src: /images/site/sharn-3.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-4.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-5.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-6.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-7.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-8.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-9.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-10.webp
+  alt: Episode
+  caption: Episode
+- src: /images/site/sharn-11.webp
+  alt: 'SEE UPDATE:'
+  caption: 'SEE UPDATE:'
+- src: /images/site/sharn-12.webp
+  alt: ⭐COMPLETED⭐
+  caption: ⭐COMPLETED⭐
+- src: /images/site/sharn-13.webp
+  alt: ⭐COMPLETED⭐
+  caption: ⭐COMPLETED⭐
+- src: /images/site/sharn-14.webp
+  alt: ⭐COMPLETED⭐
+  caption: ⭐COMPLETED⭐
+- src: /images/site/sharn-15.webp
+  alt: ⭐COMPLETED⭐
+  caption: ⭐COMPLETED⭐
+- src: /images/site/sharn-16.webp
+  alt: ⭐COMPLETED⭐
+  caption: ⭐COMPLETED⭐
+- src: /images/site/sharn-17.webp
+  alt: ⭐COMPLETED⭐
+  caption: ⭐COMPLETED⭐
+- src: /images/site/sharn-18.webp
+  alt: COMPLETED⭐
+  caption: COMPLETED⭐
+- src: /images/site/sharn-19.webp
+  alt: COMPLETED⭐
+  caption: COMPLETED⭐
+- src: /images/site/sharn-20.webp
+  alt: Page updated
+  caption: Page updated
+- src: /images/site/sharn-21.webp
+  alt: Most‑Viewed ArcEye Feed in Sharn
+  caption: Most‑Viewed ArcEye Feed in Sharn
+- src: /images/gallery/2026-02-10-07.webp
+  alt: The trio beneath Sharn's bridges at dusk
+  caption: Eric, Gemma and Dario stand looking up at towers, a great arched bridge and an airship in an amber dusk sky.
+- src: /images/gallery/2026-02-11-07.webp
+  alt: The trio overlooking Sharn at night
+  caption: Eric, Gemma and Dario, seen from behind, look out over a neon-lit night city of towers and airships.
+- src: /images/gallery/2026-02-11-13.webp
+  alt: The trio on a night street in Sharn
+  caption: Eric, Gemma and Dario pose on a night street lined with lit towers and rooftops.
 ---
 
 **City · Breland · Vertical metropolis · Formerly Imperial, now self-governing · Standing**

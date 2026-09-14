@@ -2,17 +2,17 @@
 title: Korth Ep 5 — The Korranberg Descent
 description: The trio ride to Korranberg, fight an Orc warband for the mine, and Dario dies and is raised with a diamond in his eye socket.
 tags:
-  - Korth Ep 5
-  - The Korranberg Descent
-  - Korranberg
-  - Korranberg Foundry
-  - Deeptempura Clan
-  - Braga Kul
-  - Mror Holds
-  - Deirdre Moro
-  - Resurrection
-  - Orcs
-  - King's Forest
+- Korth Ep 5
+- The Korranberg Descent
+- Korranberg
+- Korranberg Foundry
+- Deeptempura Clan
+- Braga Kul
+- Mror Holds
+- Deirdre Moro
+- Resurrection
+- Orcs
+- King's Forest
 image:
   src: /images/uploads/korth-ep-5-the-korranberg-descent-mu0seqxf.webp
 sidebar:
@@ -22,11 +22,27 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/korth-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-5-E28094-the-korranberg-descent-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+gallery:
+- src: /images/gallery/2026-07-12-01.webp
+  alt: The disguised trio in Deirdre Moro's apartment
+  caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
+- src: /images/gallery/2026-07-12-22.webp
+  alt: Riding into Korranberg
+  caption: Three riders on horseback enter a one-road mountain town of timber buildings, past a tavern and a sheriff's office, toward a hall marked Korranberg under snowy peaks.
+- src: /images/gallery/2026-07-12-23.webp
+  alt: Deirdre's face in the archer nook
+  caption: The disguised Gemma Corso stands sword in hand in a narrow stone arrow gallery, a slain orc at her feet and an armoured orc looming behind her. At the Mountain Door she misty-steps into an archer nook and clears it with Bright Dawn.
+- src: /images/gallery/2026-07-12-24.webp
+  alt: Graham's face at the Mountain Door
+  caption: The disguised Eric the Cleric advances with shield and blade through a stone passage wreathed in glowing golden mathematical symbols, while an orc archer aims through an arrow slit. Eric's spirit guardians manifest as golden math symbols.
+- src: /images/gallery/2026-07-12-25.webp
+  alt: Mounted charge against the orcs
+  caption: The armoured rider on a black horse swings a blue-flaming sword through a burning camp of orcs.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 5 · DM: Dave**

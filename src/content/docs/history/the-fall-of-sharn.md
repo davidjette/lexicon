@@ -2,21 +2,21 @@
 title: The fall of Sharn
 description: Esther Crona died on her own balcony, and with her last two sentences disarmed her army and named the woman who should be killed next.
 tags:
-  - Fall of Sharn
-  - Death of Esther Crona
-  - Esther Crona
-  - Uriel Qualanthri
-  - Henry Heinrick
-  - Richard Blaze
-  - Calcifer
-  - Black Veil
-  - Iron Veil
-  - Council of 13
-  - Veil Building
-  - Locke Pierce
-  - Blair
-  - Joseph Roberts
-  - Your pact is void
+- Fall of Sharn
+- Death of Esther Crona
+- Esther Crona
+- Uriel Qualanthri
+- Henry Heinrick
+- Richard Blaze
+- Calcifer
+- Black Veil
+- Iron Veil
+- Council of 13
+- Veil Building
+- Locke Pierce
+- Blair
+- Joseph Roberts
+- Your pact is void
 image:
   src: /images/uploads/esther-crona-fall-of-sharn-mu0qybhm.webp
 type: conflict
@@ -31,14 +31,30 @@ fields:
   last_words: Your pact is void. / ... Kill Empress Uriel Qualanthri...
   outcome: The Iron Veil pact voided citywide; the Empire expelled from Sharn; the city leaderless
 sources:
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/ebt-7.txt
-  - worldanvil/CANON.md
-  - README.md
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/ebt-7.txt
+- worldanvil/CANON.md
+- README.md
 published: '2026-09-10'
 wa:
   slug: the-fall-of-sharn-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-05-29-01.webp
+  alt: The Black Veil bears down on Uriel's statue
+  caption: A huge black airship trailing a red beam flies low over night-time Sharn toward a giant statue with outstretched arms in the foreground. It is Esther Crona hurling the Black Veil into the statue of Uriel above the Skyport.
+- src: /images/gallery/2026-06-01-01.webp
+  alt: Battle with Esther Crona on the balcony
+  caption: Esther Crona dives on red wings over a neon-lit penthouse balcony as Sir Dario Argentino charges with a burning blade and Gemma Corso casts violet magic.
+- src: /images/gallery/2026-06-01-06.webp
+  alt: Esther Crona's last act over Sharn
+  caption: Esther Crona stands at the balcony rail on torn red wings, arm raised, as the statue above the Skyport explodes in the distance and airships circle the city.
+- src: /images/gallery/2026-06-03-10.webp
+  alt: Sir Dario on his panther faces Esther Crona
+  caption: Sir Dario Argentino, mounted on his panther with a blue blade, faces the winged Esther Crona across the neon-lit balcony above Sharn.
+- src: /images/gallery/2026-03-02-18.webp
+  alt: Esther Crona on her balcony
+  caption: Esther Crona, red bat wings spread and a glowing red sword in hand, snarls as she advances along a balcony above Sharn.
 ---
 
 **Citywide rising · Sharn · Sharn Ep 18 · Three years before the Korth arc**

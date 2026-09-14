@@ -2,18 +2,18 @@
 title: Kriss Kross
 description: Logistics and security for R.U.S.T., who keeps a pawn shop over a secret railway looking like nothing at all.
 tags:
-  - Kriss Kross
-  - Kriss
-  - Kross
-  - R.U.S.T.
-  - Misty Kross
-  - Misty's Pawn Shop
-  - Martin Kross
-  - Karin Kross
-  - Cogborn
-  - Sharn
-  - Lower City
-  - Preacher
+- Kriss Kross
+- Kriss
+- Kross
+- R.U.S.T.
+- Misty Kross
+- Misty's Pawn Shop
+- Martin Kross
+- Karin Kross
+- Cogborn
+- Sharn
+- Lower City
+- Preacher
 image:
   src: /images/uploads/kriss-kross-mu0lgd29.webp
 type: person
@@ -34,14 +34,21 @@ fields:
   height: Tall (portrait)
   weight: Lean (portrait)
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - worldanvil/images/rebel-factions/12.jpg
+- sources/site/rebel-factions.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- worldanvil/images/rebel-factions/12.jpg
 published: '2026-09-10'
 wa:
   slug: kriss-kross-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2026-02-20-05.webp
+  alt: Kriss and Misty Kross
+  caption: Kriss Kross, in a skull T-shirt and black jacket, stands beside red-haired Misty Kross, who holds a colourful patchwork jacket.
+- src: /images/gallery/2026-03-01-10.webp
+  alt: Eric shakes hands with Kriss Kross
+  caption: Eric the Cleric shakes hands with Kriss Kross, who wears a skull T-shirt and black jacket.
 ---
 
 **Species unrecorded · Logistics and security · RUST inner circle · Alive**

@@ -2,17 +2,17 @@
 title: Sharn Ep 2 — POSÉ
 description: The trio work the grand opening of Richard Blaze's restaurant Posé, abduct Sister Nora, and watch Esther Crona execute prisoners live.
 tags:
-  - Sharn Ep 2
-  - POSÉ
-  - Pose
-  - Richard Blaze
-  - Sister Nora
-  - Project EDEN
-  - Candice Kurt
-  - Cogborn
-  - Esther Crona
-  - Ghost Chip
-  - Black Doves
+- Sharn Ep 2
+- POSÉ
+- Pose
+- Richard Blaze
+- Sister Nora
+- Project EDEN
+- Candice Kurt
+- Cogborn
+- Esther Crona
+- Ghost Chip
+- Black Doves
 image:
   src: /images/uploads/chatgpt-image-sep-13-2026-03-47-32-pm-mu0engob.webp
 sidebar:
@@ -22,11 +22,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-2-E28094-posE-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2025-12-11-01.webp
+  alt: Eric the Cleric's co-op badge photo
+  caption: 'A bespectacled young man in a green floral shirt poses against a black backdrop: the photo on Eric''s Harry Potter staff badge for the Vilspar Co-operative at POSÉ.'
+- src: /images/gallery/2026-01-02-02.webp
+  alt: 'POSÉ server badge: "Hermione Granger"'
+  caption: 'A POSÉ Restaurant & Grill name badge reading "Hermione Granger - Farm-to-Table Fresh - Vilspar Co-operative" with Gemma Corso''s portrait: her server disguise for the grand opening.'
+- src: /images/gallery/2026-01-02-03.webp
+  alt: 'POSÉ server badge: "Harry Potter"'
+  caption: 'A POSÉ Restaurant & Grill name badge reading "Harry Potter - Farm-to-Table Fresh - Vilspar Co-operative" with Eric the Cleric''s portrait in a floral shirt: his server disguise for the grand opening.'
+- src: /images/gallery/2026-01-03-01.webp
+  alt: 'POSÉ server badge: "Ronaldo Weasley"'
+  caption: 'A POSÉ Restaurant & Grill name badge reading "Ronaldo Weasley - Farm-to-Table Fresh - Vilspar Co-operative" with Sir Dario Argentino''s portrait: his server disguise for the grand opening.'
+- src: /images/gallery/2026-02-11-09.webp
+  alt: The trio undercover as POSÉ servers
+  caption: Eric, Gemma and Dario in black server uniforms carry trays of champagne, food and wine through an elegant rooftop party over the lit city.
+- src: /images/gallery/2026-02-22-10.webp
+  alt: Three figures over Sharn at night
+  caption: Three silhouetted figures stand at a railing looking out over the glowing towers of Sharn, beside a neon BAR sign.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 2 · DM: Nichole**

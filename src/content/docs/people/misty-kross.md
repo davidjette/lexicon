@@ -2,18 +2,18 @@
 title: Misty Kross
 description: Cogborn engineer raised by Preacher in the tunnels, who turned a Lower City pawn shop into R.U.S.T.'s safehouse and door to the undercity.
 tags:
-  - Misty Kross
-  - Misty
-  - Kross
-  - R.U.S.T.
-  - Cogborn
-  - Misty's Pawn Shop
-  - Preacher
-  - Kriss Kross
-  - The Cogs
-  - Undercity
-  - Sharn
-  - Sub-Transit
+- Misty Kross
+- Misty
+- Kross
+- R.U.S.T.
+- Cogborn
+- Misty's Pawn Shop
+- Preacher
+- Kriss Kross
+- The Cogs
+- Undercity
+- Sharn
+- Sub-Transit
 image:
   src: /images/uploads/misty-kross-mu0linv5.webp
   alt: Kriss & Misty Kross
@@ -36,15 +36,19 @@ fields:
   height: Short (portrait)
   weight: Unknown
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/site/home.txt
-  - worldanvil/images/rebel-factions/12.jpg
+- sources/site/rebel-factions.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/site/home.txt
+- worldanvil/images/rebel-factions/12.jpg
 published: '2026-09-10'
 wa:
   slug: misty-kross-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2026-02-20-05.webp
+  alt: Kriss and Misty Kross
+  caption: Kriss Kross, in a skull T-shirt and black jacket, stands beside red-haired Misty Kross, who holds a colourful patchwork jacket.
 ---
 
 **Cogborn · Engineer · RUST inner circle · Alive**

@@ -2,18 +2,18 @@
 title: Sharn Ep 18 — The Fall of Esther Crona
 description: Esther Crona dies on her own balcony, voids the Iron Veil pact, and spends her last words ordering the Empress killed.
 tags:
-  - Sharn Ep 18
-  - Esther Crona
-  - Veil Building
-  - Black Veil
-  - Henry Heinrick
-  - Council of 13
-  - Honor Guard
-  - EBT-7
-  - Richard Blaze
-  - Calcifer
-  - Iron Veil
-  - Uriel Qualanthri
+- Sharn Ep 18
+- Esther Crona
+- Veil Building
+- Black Veil
+- Henry Heinrick
+- Council of 13
+- Honor Guard
+- EBT-7
+- Richard Blaze
+- Calcifer
+- Iron Veil
+- Uriel Qualanthri
 image:
   src: /images/uploads/chatgpt-image-jun-1-2026-04-38-51-pm-mu0fhz3l.webp
   alt: 'Subject:'
@@ -25,15 +25,33 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-18-E28094-the-fall-of-esther-crona-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-  - src: /images/site/sharn-ep-18-the-fall-of-esther-crona-2.webp
-    alt: Page updated
-    caption: Page updated
+- src: /images/site/sharn-ep-18-the-fall-of-esther-crona-2.webp
+  alt: Page updated
+  caption: Page updated
+- src: /images/gallery/2026-05-21-01.webp
+  alt: Lord Commander Esther Crona stat block
+  caption: A game stat block titled "Lord Commander Esther Crona", a Medium tiefling, with the Crimson Sun melee attack, Eldritch Blast, Telekinetic Throw, Thunder Step and legendary actions.
+- src: /images/gallery/2026-05-21-02.webp
+  alt: Honor Guard stat block
+  caption: 'A game stat block titled "Honor Guard", a Medium undead with a greatsword, necrotic beam and the trait "Bound to Esther": if Esther Crona dies, its Red Khyber crystal explodes.'
+- src: /images/gallery/2026-05-29-01.webp
+  alt: The Black Veil bears down on Uriel's statue
+  caption: A huge black airship trailing a red beam flies low over night-time Sharn toward a giant statue with outstretched arms in the foreground. It is Esther Crona hurling the Black Veil into the statue of Uriel above the Skyport.
+- src: /images/gallery/2026-06-01-01.webp
+  alt: Battle with Esther Crona on the balcony
+  caption: Esther Crona dives on red wings over a neon-lit penthouse balcony as Sir Dario Argentino charges with a burning blade and Gemma Corso casts violet magic.
+- src: /images/gallery/2026-06-01-05.webp
+  alt: Henry Heinrick's lockdown broadcast
+  caption: Henry Heinrick, white-bearded in glasses and braces, reads from a paper at a microphone before a throne-like chair and the towers of Sharn. It is the city-wide emergency lockdown announcement after Malrik Zeir's death.
+- src: /images/gallery/2026-06-01-06.webp
+  alt: Esther Crona's last act over Sharn
+  caption: Esther Crona stands at the balcony rail on torn red wings, arm raised, as the statue above the Skyport explodes in the distance and airships circle the city.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 18 · DM: Nichole**

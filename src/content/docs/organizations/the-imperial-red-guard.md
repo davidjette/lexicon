@@ -30,6 +30,13 @@ published: '2026-09-10'
 wa:
   slug: the-imperial-red-guard-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-09-07-04.webp
+  alt: The Advocate and Vice Admiral Merkin in court
+  caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
+- src: /images/gallery/2026-09-07-07.webp
+  alt: The Advocate and her bodyguard at the Ministry
+  caption: The dark-haired Advocate and the skull-masked samurai stand at a great iron-bound door flanked by red-robed guards and a uniformed officer.
 ---
 
 **Type:** Military, Honour Guard, Undead · **Seat:** Korth and the Imperial court · **Status:** Active

@@ -2,18 +2,18 @@
 title: Henry Heinrick
 description: Chief Diplomat, sole survivor of Esther Crona's purge of the Council of 13, Mayor of Sharn - and killed by her on the balcony.
 tags:
-  - Henry Heinrick
-  - Heinrick
-  - Henry Heighrick
-  - Mayor of Sharn
-  - Council of 13
-  - Imperial Council
-  - Ministry of Diplomacy
-  - Velvet Table Society
-  - Sharn
-  - Hillary Heinrick
-  - Chelsea Heinrick
-  - Propaganda
+- Henry Heinrick
+- Heinrick
+- Henry Heighrick
+- Mayor of Sharn
+- Council of 13
+- Imperial Council
+- Ministry of Diplomacy
+- Velvet Table Society
+- Sharn
+- Hillary Heinrick
+- Chelsea Heinrick
+- Propaganda
 image:
   src: /images/site/henry-heinrick-1.webp
   alt: The Heinrick Family
@@ -36,17 +36,30 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/esther-crona.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
-  - worldanvil/CANON.md
+- sources/site/key-figures.txt
+- sources/site/esther-crona.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: henry-heinrick-person
   uuid: 711dc409-d74a-4a1c-8117-562959b8b755
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+gallery:
+- src: /images/gallery/2025-12-16-05.webp
+  alt: The Heinrick family
+  caption: 'Portrait of the Heinrick family: a bearded man in braces holding papers, a woman in a long red dress, and a small girl in blue between them.'
+- src: /images/gallery/2026-02-10-05.webp
+  alt: Hallorn's letter on the Velvet Table Society
+  caption: A letter to Malrik signed Hallorn d'Lyrandar gossiping that Henry Heinrick has been invited to fill an opening in the Velvet Table Society after Cob Cornwell's death.
+- src: /images/gallery/2026-06-01-05.webp
+  alt: Henry Heinrick's lockdown broadcast
+  caption: Henry Heinrick, white-bearded in glasses and braces, reads from a paper at a microphone before a throne-like chair and the towers of Sharn. It is the city-wide emergency lockdown announcement after Malrik Zeir's death.
+- src: /images/gallery/2026-06-02-01.webp
+  alt: Esther Crona kills Henry Heinrick
+  caption: Esther Crona stretches out a hand and Henry Heinrick clutches his throat, choking, while Sir Dario Argentino, Eric the Cleric, Gemma Corso and Richard Blaze look on in the penthouse.
 ---
 
 **Human · Nobleman / Chief Diplomat · Council of 13 · Mayor of Sharn · Dead**

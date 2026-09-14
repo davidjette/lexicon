@@ -2,18 +2,18 @@
 title: Hopper
 description: Proprietor of Hopper's Magic Emporium, who discovered his customers were his new landlords and became the rebellion's supplier that afternoon.
 tags:
-  - Hopper
-  - Hopper's Magic Emporium
-  - Sub-line District
-  - The Arcade
-  - Sharn
-  - Lower City
-  - Edwin Graves
-  - Candy Crush
-  - Ring of Spell Storing
-  - Summon Dragon
-  - Magic Shop
-  - Valtrex
+- Hopper
+- Hopper's Magic Emporium
+- Sub-line District
+- The Arcade
+- Sharn
+- Lower City
+- Edwin Graves
+- Candy Crush
+- Ring of Spell Storing
+- Summon Dragon
+- Magic Shop
+- Valtrex
 image:
   src: /images/uploads/hopper-mu0kf05t.webp
 type: person
@@ -34,13 +34,17 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/home.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/korth-episode-summaries.txt
+- sources/site/home.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: hopper-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-05-09-03.webp
+  alt: At Hopper's Magic Emporium
+  caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino at the counter of a cluttered magic shop, where a frog-like shopkeeper holds up a scroll among potions and curios.
 ---
 
 **Shopkeeper · Hopper's Magic Emporium, Sub-line District · Alive**

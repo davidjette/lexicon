@@ -2,18 +2,18 @@
 title: POSÉ
 description: Richard Blaze's newest Upper City restaurant, whose grand opening ended in a Cogborn riot, a murdered news anchor and a live execution broadcast.
 tags:
-  - POSÉ
-  - Pose
-  - Pocē
-  - Richard Blaze
-  - Sharn
-  - Upper City
-  - Candice Kurt
-  - Sister Nora
-  - Cogborn protest
-  - Esther Crona
-  - Vilspar Co-operative
-  - Joanne Menka
+- POSÉ
+- Pose
+- Pocē
+- Richard Blaze
+- Sharn
+- Upper City
+- Candice Kurt
+- Sister Nora
+- Cogborn protest
+- Esther Crona
+- Vilspar Co-operative
+- Joanne Menka
 image:
   src: /images/uploads/pose-opening-2-sharn-episode-2-pose-mu0oqprt.webp
   alt: 'Episode 2: “POSÉ”'
@@ -32,28 +32,37 @@ fields:
   defenses: Event security; overwhelmed by the Cogborn protest
   history: At its grand opening a protest surged the staircase, shots killed the anchor Candice Kurt, and Sister Nora was abducted in the panic
 sources:
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/pose-mission-notes.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/pose-mission-notes.txt
 published: '2026-09-10'
 wa:
   slug: posE-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-  - src: /images/site/pose-2.webp
-    alt: 'Episode 2: “POSÉ”'
-    caption: 'Episode 2: “POSÉ”'
-  - src: /images/site/pose-3.webp
-    alt: Page updated
-    caption: Page updated
-  - src: /images/site/pose-4.webp
-    alt: Page updated
-    caption: Page updated
-  - src: /images/site/pose-5.webp
-    alt: Page updated
-    caption: Page updated
-  - src: /images/site/pose-6.webp
-    alt: Page updated
-    caption: Page updated
+- src: /images/site/pose-2.webp
+  alt: 'Episode 2: “POSÉ”'
+  caption: 'Episode 2: “POSÉ”'
+- src: /images/site/pose-3.webp
+  alt: Page updated
+  caption: Page updated
+- src: /images/site/pose-4.webp
+  alt: Page updated
+  caption: Page updated
+- src: /images/site/pose-5.webp
+  alt: Page updated
+  caption: Page updated
+- src: /images/site/pose-6.webp
+  alt: Page updated
+  caption: Page updated
+- src: /images/gallery/2025-12-28-02.webp
+  alt: POSÉ Restaurant & Grill logo
+  caption: 'The POSÉ Restaurant & Grill logo: an orange flame beside the name on a black background.'
+- src: /images/gallery/2026-01-03-02.webp
+  alt: POSÉ menu on parchment
+  caption: 'The POSÉ Restaurant & Grill menu on aged parchment: small bites such as Spicy Newham Pork Tacos, signature cocktails and elemental hookah blends.'
+- src: /images/gallery/2026-01-06-06.webp
+  alt: POSÉ menu
+  caption: A plain printed POSÉ Restaurant & Grill menu listing small bites, signature cocktails and hookah elemental blends.
 ---
 
 **Restaurant · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Richard Blaze's newest venue · Standing**

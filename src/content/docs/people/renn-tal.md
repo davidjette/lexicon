@@ -2,18 +2,18 @@
 title: Renn Tal
 description: The Sharn Library archivist Esther Crona hired to catalogue the Eternal Guardian, who checked the chronology and found the Forge of Binding.
 tags:
-  - Renn Tal
-  - Renn
-  - Sharn Library
-  - Old Histories Wing
-  - Archivist
-  - Dhakaani
-  - Forge of Binding
-  - Eternal Guardian
-  - Varyn Crona
-  - Esther Crona
-  - R.U.S.T.
-  - DJ Rust
+- Renn Tal
+- Renn
+- Sharn Library
+- Old Histories Wing
+- Archivist
+- Dhakaani
+- Forge of Binding
+- Eternal Guardian
+- Varyn Crona
+- Esther Crona
+- R.U.S.T.
+- DJ Rust
 image:
   src: /images/site/renn-tal-1.webp
   alt: Renn Tal
@@ -35,15 +35,34 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/mission-board.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/korth-episode-summaries.txt
-  - worldanvil/images/rebel-factions/14.jpg
+- sources/site/rebel-factions.txt
+- sources/site/mission-board.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
+- worldanvil/images/rebel-factions/14.jpg
 published: '2026-09-10'
 wa:
   slug: renn-tal-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2026-02-20-03.webp
+  alt: Archivist's Addendum by Renn Tal
+  caption: 'A prop document titled "Archivist''s Addendum, Recorded by Archivist Renn Tal, 1047 YK": notes on the Forge of Binding and the Eternal Guardian rite, studied by directive of Lord Commander Esther Crona, ending "I am getting close. I know too much."'
+- src: /images/gallery/2026-02-22-04.webp
+  alt: Renn Tal, archivist
+  caption: Renn Tal, a young archivist in a rust-red vest, carries a stack of old books between library shelves.
+- src: /images/gallery/2026-03-02-09.webp
+  alt: Renn Tal and Eric examine an ancient rune
+  caption: Renn Tal holds an old book open to a red rune while Eric the Cleric points to the page.
+- src: /images/gallery/2026-02-22-05.webp
+  alt: Research with Renn Tal
+  caption: Renn Tal, Gemma, Eric and Dario pore over an open tome and a stack of old books under a single lamp.
+- src: /images/gallery/2026-03-23-06.webp
+  alt: Renn Tal and Doppler Klink fight sewer rats
+  caption: Renn Tal, in her red waistcoat, and the grey-haired Doppler Klink, with his mechanical leg, send a crackle of purple magic into a pack of rats in a sewer tunnel.
+- src: /images/gallery/2026-03-29-10.webp
+  alt: Renn Tal, Eric and Gemma by a hearth
+  caption: Renn Tal, arms folded, Eric the Cleric and Gemma Corso talk in front of a blazing hearth in a tavern with hanging lanterns.
 ---
 
 **Archivist · Old Histories Wing, Sharn Library · Trusted by R.U.S.T. · Alive**

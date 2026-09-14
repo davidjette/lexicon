@@ -2,18 +2,18 @@
 title: The Cogborn
 description: 'Sharn''s industrial underclass from the Cogs: harvested by the Cog Collector, crushed after the riot, and walked out of the city through the Spine to Gorgonhorn.'
 tags:
-  - Cogborn
-  - The Cogborn
-  - The Cogs
-  - Gear Street
-  - RUST
-  - R.U.S.T.
-  - Preacher
-  - Misty Kross
-  - Kriss Kross
-  - DJ Rust
-  - Doppler Klink
-  - Doppler Klank
+- Cogborn
+- The Cogborn
+- The Cogs
+- Gear Street
+- RUST
+- R.U.S.T.
+- Preacher
+- Misty Kross
+- Kriss Kross
+- DJ Rust
+- Doppler Klink
+- Doppler Klank
 image:
   src: /images/uploads/cogborn-protest-mu0tpjoc.webp
 type: species
@@ -23,16 +23,32 @@ fields:
   type: The industrial labour population of the Cogs; species not recorded
   alternativename: The Cogs (collective)
 sources:
-  - worldanvil/sources/site/home.txt
-  - worldanvil/sources/site/rebel-factions.txt
-  - worldanvil/sources/site/key-figures.txt
-  - worldanvil/sources/site/pose-mission-notes.txt
-  - worldanvil/sources/site/mission-board.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/home.txt
+- worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/site/key-figures.txt
+- worldanvil/sources/site/pose-mission-notes.txt
+- worldanvil/sources/site/mission-board.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-cogborn-species
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
+gallery:
+- src: /images/gallery/2026-03-20-01.webp
+  alt: R.U.S.T. prayer sheet to Lexicon
+  caption: A song sheet with doves and a radiant cross, bordered in binary, with verses such as "You'll be given love (Lexicon)" and "All is full of love (Lexicon)". It is the prayer sheet the R.U.S.T. Runners hand out to the Cogborn.
+- src: /images/gallery/2026-04-28-01.webp
+  alt: Infected Cogborn stat block
+  caption: 'A screenshot of the "Infected Cogborn" creature stat block: a Medium aberration with tentacles, a bite and a mind blast.'
+- src: /images/gallery/2026-01-23-04.webp
+  alt: A Cogborn family
+  caption: A Cogborn family in soot-stained workclothes and goggles, parents with two children, one man with a mechanical arm.
+- src: /images/gallery/2026-03-29-06.webp
+  alt: Snodgrass and the Cogborn
+  caption: Snodgrass, grinning under his red cap, dangles a rat for a small boy while a grey-haired man and a red-bearded man look on in a brick tunnel.
+- src: /images/gallery/2026-03-30-02.webp
+  alt: Supplies for the Cogborn
+  caption: Sir Dario Argentino, Gemma Corso and Eric the Cleric hand out bundles of supplies to a crowd of ragged Cogborn in the R.U.S.T. control room, beside a barrel of glowing blue crystals.
 ---
 
 **The industrial underclass of Sharn's Lower City · Homeland: The Cogs · Displaced · Evacuated to Gorgonhorn**

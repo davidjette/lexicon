@@ -2,18 +2,18 @@
 title: The Underhive
 description: Blair's sovereign settlement beneath Sharn, ruled by trade, kept by Drones, and never once part of the Empire.
 tags:
-  - The Underhive
-  - Underhive
-  - Blair
-  - Queen B
-  - Drones
-  - Berenstain
-  - Booti'slave
-  - Bootislave
-  - Sharn
-  - Drain Snakes
-  - Vega Oracle
-  - The Spine
+- The Underhive
+- Underhive
+- Blair
+- Queen B
+- Drones
+- Berenstain
+- Booti'slave
+- Bootislave
+- Sharn
+- Drain Snakes
+- Vega Oracle
+- The Spine
 image:
   src: /images/uploads/the-underhive-mu0qpgfe.webp
 type: organization
@@ -27,15 +27,25 @@ fields:
   status: Autonomous; seated on the Council of Sharn
   allies: R.U.S.T., the Nest, the pirate fleet of Joseph Roberts
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/site/home.txt
-  - worldanvil/images/key-figures/02.jpg
+- sources/site/key-figures.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/site/home.txt
+- worldanvil/images/key-figures/02.jpg
 published: '2026-09-10'
 wa:
   slug: the-underhive-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-02-18-02.webp
+  alt: Blair and her husbands
+  caption: 'Blair stands in a lantern-lit tunnel surrounded by her husbands: an elf, a human, a red dragonborn and a white-furred tabaxi.'
+- src: /images/gallery/2026-02-27-02.webp
+  alt: The Vega Oracle machine
+  caption: A fortune-telling cabinet with a grinning bearded face wreathed in flame above a crystal ball, in a brick-walled room.
+- src: /images/gallery/2026-03-16-05.webp
+  alt: Crocodiles and rats in the flooded sewer
+  caption: Gemma Corso, Eric the Cleric, Sir Dario Argentino, Snodgrass, Doppler Klink and Renn Tal fight giant crocodiles in a flooded sewer beneath Sharn on the way to the Underhive.
 ---
 
 **Subterranean settlement and sovereign territory · beneath the Lower City, Sharn · Autonomous**

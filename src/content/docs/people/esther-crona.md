@@ -2,18 +2,18 @@
 title: High Inquisitor of the Crimson Sun Esther Crona
 description: Slave, apprentice, High Inquisitor, Lord Commander of Sharn. Founder of the Unforeseen, and the first great antagonist the Inevitables had to bring down.
 tags:
-  - Esther Crona
-  - Esther
-  - Crona
-  - Vayrn Crona
-  - Varyn
-  - Fairhaven
-  - Crimson Sun
-  - Hexblade
-  - Vengeance Paladin
-  - Inquisitor
-  - Lord Commander
-  - Iron Veil
+- Esther Crona
+- Esther
+- Crona
+- Vayrn Crona
+- Varyn
+- Fairhaven
+- Crimson Sun
+- Hexblade
+- Vengeance Paladin
+- Inquisitor
+- Lord Commander
+- Iron Veil
 image:
   src: /images/uploads/the-lord-comander-esther-crona-mu0isuhy.webp
 type: person
@@ -34,21 +34,40 @@ fields:
   height: 6'2"
   weight: '180'
 sources:
-  - sources/wa/esther-crona-person.txt
-  - sources/wa/varyn-crona-person.txt
-  - sources/wa/the-crimson-sun-organization.txt
-  - sources/site/esther-crona.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/key-figures.txt
-  - sources/site/rebel-factions.txt
-  - sources/site/korth-episode-summaries.txt
-  - sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
-  - worldanvil/CANON.md
+- sources/wa/esther-crona-person.txt
+- sources/wa/varyn-crona-person.txt
+- sources/wa/the-crimson-sun-organization.txt
+- sources/site/esther-crona.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/key-figures.txt
+- sources/site/rebel-factions.txt
+- sources/site/korth-episode-summaries.txt
+- sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: esther-crona-person
   uuid: bda32680-b078-40ff-a3b4-df5ef7d47d65
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
+gallery:
+- src: /images/gallery/2025-12-03-02.webp
+  alt: Esther Crona, Lord Commander
+  caption: A dark portrait card of Esther Crona, horned and cloaked in black with a glowing red sword, titled Esther Crona, Lord Commander, Vengeance Paladin / Warlock.
+- src: /images/gallery/2025-12-16-07.webp
+  alt: The Crona-Blaze family portrait
+  caption: A painted family portrait of Esther Crona in a black gown, Richard Blaze in a dark suit and red scarf, and their son Calcifer in front of them.
+- src: /images/gallery/2026-02-17-17.webp
+  alt: Esther Crona, the Lord Commander
+  caption: Esther Crona in a black cloak holds a red blade on a wrought-iron balcony above the towers of Sharn.
+- src: /images/gallery/2026-03-02-15.webp
+  alt: Esther Crona holds Eden's body
+  caption: Esther Crona cradles the bloodied body of her blue-skinned half-sister Eden while Sister Nora of the Black Doves stands beside them.
+- src: /images/gallery/2026-04-05-02.webp
+  alt: 'Calcifer''s birth: Uriel holds the newborn'
+  caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
+- src: /images/gallery/2026-05-02-06.webp
+  alt: Esther Crona rides the drill down
+  caption: A massive drill has broken through the ceiling and lies in the rubble of the chamber, with Esther Crona standing on top of it in a dark cloak.
 ---
 
 **Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · High Inquisitor, later Lord Commander of the Imperial Military · **Dead** (Sharn Ep 18, aged 31)**

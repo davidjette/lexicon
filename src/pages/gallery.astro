@@ -6,10 +6,12 @@ import gallery from '../data/gallery.json';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const url = (src: string) => base + src;
+type Item = { src: string; thumb: string; width: number; height: number; date: string; caption: string; title?: string; description?: string };
+const items = gallery as Item[];
 const monthName = (ym: string) => new Date(`${ym}-15T12:00:00Z`).toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
 
-const months: { key: string; label: string; items: (typeof gallery)[number][] }[] = [];
-for (const item of gallery) {
+const months: { key: string; label: string; items: Item[] }[] = [];
+for (const item of items) {
 	const key = item.date.slice(0, 7);
 	let m = months.at(-1);
 	if (!m || m.key !== key) months.push((m = { key, label: monthName(key), items: [] }));
@@ -20,7 +22,7 @@ let index = 0;
 
 <StarlightPage frontmatter={{ title: 'Gallery', description: 'Art from the table: every picture from the campaigns, newest first.', tableOfContents: false, pagefind: false }}>
 	<p>
-		{gallery.length} pictures from the table, newest first. Select one to see it large; use the arrow keys to move through them.
+		{items.length} pictures from the table, newest first. Select one to see it large; use the arrow keys to move through them.
 	</p>
 	<nav class="gal-months" aria-label="Months">
 		{months.map((m) => <a href={`#m-${m.key}`}>{m.label} <span>{m.items.length}</span></a>)}
@@ -38,12 +40,13 @@ let index = 0;
 								class="gal-item"
 								data-index={index++}
 								data-src={url(item.src)}
-								data-caption={item.caption}
+								data-title={item.title ?? ''}
+								data-caption={item.description ?? item.caption}
 								data-date={item.date}
-								title={item.caption || item.date}
+								title={item.title || item.caption || item.date}
 							>
-								<img src={url(item.thumb)} alt={item.caption || `Picture from ${item.date}`} loading="lazy" decoding="async" width="480" height={Math.round((480 * item.height) / item.width)} />
-								{item.caption && <span class="gal-cap">{item.caption}</span>}
+								<img src={url(item.thumb)} alt={item.title || item.caption || `Picture from ${item.date}`} loading="lazy" decoding="async" width="480" height={Math.round((480 * item.height) / item.width)} />
+								{(item.title || item.caption) && <span class="gal-cap">{item.title || item.caption}</span>}
 							</a>
 						</li>
 					))}
@@ -57,7 +60,7 @@ let index = 0;
 		<button type="button" class="gal-prev" aria-label="Previous picture">‹</button>
 		<figure>
 			<img alt="" />
-			<figcaption></figcaption>
+			<figcaption><strong class="gal-box-title"></strong><span class="gal-box-desc"></span></figcaption>
 		</figure>
 		<button type="button" class="gal-next" aria-label="Next picture">›</button>
 	</dialog>
@@ -68,14 +71,16 @@ let index = 0;
 	const box = document.querySelector<HTMLDialogElement>('.gal-box');
 	if (box && items.length) {
 		const img = box.querySelector('img')!;
-		const cap = box.querySelector('figcaption')!;
+		const capTitle = box.querySelector<HTMLElement>('.gal-box-title')!;
+		const capDesc = box.querySelector<HTMLElement>('.gal-box-desc')!;
 		let current = 0;
 		const show = (i: number) => {
 			current = (i + items.length) % items.length;
 			const a = items[current];
 			img.src = a.dataset.src!;
-			img.alt = a.dataset.caption || '';
-			cap.textContent = [a.dataset.caption, a.dataset.date].filter(Boolean).join(' · ');
+			img.alt = a.dataset.title || a.dataset.caption || '';
+			capTitle.textContent = a.dataset.title || '';
+			capDesc.textContent = [a.dataset.caption, a.dataset.date].filter(Boolean).join(' · ');
 		};
 		items.forEach((a, i) =>
 			a.addEventListener('click', (e) => {
@@ -174,6 +179,13 @@ let index = 0;
 	.gal-box figcaption {
 		font-size: var(--sl-text-sm);
 		margin-top: 0.4rem;
+		max-width: 60rem;
+		margin-inline: auto;
+	}
+	.gal-box-title {
+		display: block;
+		font-family: 'Cinzel', var(--sl-font);
+		font-size: var(--sl-text-base);
 	}
 	.gal-box button {
 		position: absolute;

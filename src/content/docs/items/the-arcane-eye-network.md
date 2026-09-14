@@ -2,18 +2,18 @@
 title: The Arcane Eye Network (ArcEyes)
 description: 'The Empire''s citywide surveillance grid over Sharn: drifting scrying eyes on every major street, every feed permanently recorded and archived.'
 tags:
-  - ArcEye
-  - ArcEyes
-  - Arcane Eye
-  - Arcane Eye Security Network
-  - Arcane Eye network
-  - surveillance
-  - Iron Veil
-  - Veil Building
-  - Hillary Heinrick
-  - Sharn Library
-  - ArcEye Crystallizer
-  - Ghost Chip
+- ArcEye
+- ArcEyes
+- Arcane Eye
+- Arcane Eye Security Network
+- Arcane Eye network
+- surveillance
+- Iron Veil
+- Veil Building
+- Hillary Heinrick
+- Sharn Library
+- ArcEye Crystallizer
+- Ghost Chip
 image:
   src: /images/uploads/the-arcane-eye-network-arceyes-mu0t5gz4.webp
 type: technology
@@ -23,16 +23,32 @@ fields:
   type: Imperial surveillance infrastructure
   alternativename: ArcEyes
 sources:
-  - worldanvil/sources/site/home.txt
-  - worldanvil/sources/site/ebt-7.txt
-  - worldanvil/sources/site/biotec.txt
-  - worldanvil/sources/site/mission-board.txt
-  - worldanvil/sources/site/key-figures.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/home.txt
+- worldanvil/sources/site/ebt-7.txt
+- worldanvil/sources/site/biotec.txt
+- worldanvil/sources/site/mission-board.txt
+- worldanvil/sources/site/key-figures.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-arcane-eye-network-28arceyes29-technology
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+gallery:
+- src: /images/gallery/2025-12-18-01.webp
+  alt: ArcEye beside the VEIL sign
+  caption: A floating black ArcEye orb with a green slit pupil hovers in front of a lit VEIL sign on a Sharn tower at dusk.
+- src: /images/gallery/2026-02-26-14.webp
+  alt: An ArcEye before the Veil Building
+  caption: A floating ArcEye orb with a green slit pupil hovers in the rain in front of the lit VEIL sign.
+- src: /images/gallery/2026-05-10-01.webp
+  alt: Most-viewed ArcEye feed in Sharn
+  caption: 'An ArcEye view over Sharn''s Upper City at night: neon-lit towers and a tall statue with outstretched arms under a stormy sky.'
+- src: /images/gallery/2026-05-10-04.webp
+  alt: Restricted Upper-City terrace feed
+  caption: An ArcEye view of an Upper City terrace at night, with a bronze-leafed tree, benches and a tower whose sign reads VEIL.
+- src: /images/gallery/2026-05-10-05.webp
+  alt: Dual-view ArcEye feed
+  caption: A wide ArcEye view of a lit pagoda-like tower and glass-roofed terraces above the dark city.
 ---
 
 **Imperial surveillance infrastructure · Implemented \~10 years ago · Operational control: the Iron Veil, Sharn Division · Head of Security: Hillary Heinrick · Active throughout the Sharn arc**

@@ -32,6 +32,10 @@ published: '2026-09-10'
 wa:
   slug: the-teryaki-clan-ethnicity
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-07-29-01.webp
+  alt: General Tso's search party
+  caption: In a dim corridor the trio meet a robed duergar and a duergar riding a giant spider. General Tso's search party, one of them mounted on a giant spider, is clearing the sealed rooms.
 ---
 
 **Duergar (deep dwarves) - the mourning-party of the Deeptempura - fourteen bedrolls in the mountain**

@@ -26,13 +26,9 @@ wa:
   slug: sharn-ep-5-E28094-welcome-to-the-neighborhood-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 image:
-  src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-1.webp
-  alt: 'Episode 5: Welcome to the Neighborhood'
-  caption: 'Episode 5: Welcome to the Neighborhood'
-gallery:
-  - src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-2.webp
-    alt: 'Episode 5: Welcome to the Neighborhood'
-    caption: 'Episode 5: Welcome to the Neighborhood'
+  src: /images/gallery/2026-02-11-01.webp
+  alt: The trio questions a shopkeeper
+  caption: Eric, Gemma and Dario, holding a bag of groceries, talk with a wary blonde elf woman among the shelves of a small corner store.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 5 · DM: Nichole**

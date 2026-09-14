@@ -2,18 +2,18 @@
 title: The Veil Building
 description: 'The Iron Veil''s brutalist monolith in the Upper City: government offices, ArcEye Security, a political prison, and the penthouse where Esther Crona died.'
 tags:
-  - The Veil Building
-  - Veil Tower
-  - Iron Veil
-  - Esther Crona
-  - ArcEye
-  - Arcane Eye Security
-  - Sharn
-  - Upper City
-  - Garden Floor
-  - penthouse
-  - Eric the Cleric
-  - Chancellor of Sharn
+- The Veil Building
+- Veil Tower
+- Iron Veil
+- Esther Crona
+- ArcEye
+- Arcane Eye Security
+- Sharn
+- Upper City
+- Garden Floor
+- penthouse
+- Eric the Cleric
+- Chancellor of Sharn
 image:
   src: /images/uploads/the-veil-building-mu0w927u.webp
 type: landmark
@@ -31,13 +31,17 @@ fields:
   inhabitants: Formerly Esther Crona, Richard Blaze and Calcifer; now Chancellor Eric the Cleric
   history: Seized by Nest and Fulcrum operatives on the night Esther Crona fell from its balcony
 sources:
-  - sources/site/home.txt
-  - sources/site/ebt-7.txt
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/home.txt
+- sources/site/ebt-7.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-veil-building-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+gallery:
+- src: /images/gallery/2026-02-26-03.webp
+  alt: The Veil Building
+  caption: A rendered view of the Veil Building, a dark monolith bearing a red emblem and the word VEIL, towering over the Upper City.
 ---
 
 **Tower · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Iron Veil headquarters · Now the seat of Sharn's provisional government**

@@ -2,18 +2,18 @@
 title: Hillary Heinrick
 description: Head of ArcEye Security in Sharn - she archived a decade of the city's secrets, including the one that brought the Empire down.
 tags:
-  - Hillary Heinrick
-  - Heinrick
-  - ArcEye
-  - Arcane Eye
-  - Arcane Eye Security Network
-  - ArcEye Crystallizer
-  - Iron Veil
-  - Veil Building
-  - Sharn
-  - Henry Heinrick
-  - Chelsea Heinrick
-  - Surveillance
+- Hillary Heinrick
+- Heinrick
+- ArcEye
+- Arcane Eye
+- Arcane Eye Security Network
+- ArcEye Crystallizer
+- Iron Veil
+- Veil Building
+- Sharn
+- Henry Heinrick
+- Chelsea Heinrick
+- Surveillance
 image:
   src: /images/uploads/hillary-heinrick-mu0jygno.webp
 type: person
@@ -34,15 +34,22 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/home.txt
-  - sources/site/mission-board.txt
-  - sources/site/sharn-episode-summaries.txt
-  - worldanvil/CANON.md
+- sources/site/key-figures.txt
+- sources/site/home.txt
+- sources/site/mission-board.txt
+- sources/site/sharn-episode-summaries.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: hillary-heinrick-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+gallery:
+- src: /images/gallery/2025-12-16-05.webp
+  alt: The Heinrick family
+  caption: 'Portrait of the Heinrick family: a bearded man in braces holding papers, a woman in a long red dress, and a small girl in blue between them.'
+- src: /images/gallery/2026-02-26-15.webp
+  alt: The Heinrick family
+  caption: Henry Heinrick in braces and tie, Hillary Heinrick in a long red dress, and their daughter Chelsea in a blue dress pose for a family portrait.
 ---
 
 **Species unrecorded · Head of Arcane Eye Security, Sharn Division · The Iron Veil · Executed**

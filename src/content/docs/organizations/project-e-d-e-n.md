@@ -2,18 +2,18 @@
 title: Project E.D.E.N.
 description: 'BioTec''s secret hybridisation programme: undead-warforged supersoldiers built from harvested corpses, Umbra and Black Dove rites, named for its first subject.'
 tags:
-  - Project EDEN
-  - Project E.D.E.N.
-  - EDEN
-  - E.D.E.N.
-  - EDN-00
-  - Eden
-  - Blue Devil
-  - BioTec
-  - Joanne Menka
-  - Sister Nora
-  - Edwin Graves
-  - Umbra
+- Project EDEN
+- Project E.D.E.N.
+- EDEN
+- E.D.E.N.
+- EDN-00
+- Eden
+- Blue Devil
+- BioTec
+- Joanne Menka
+- Sister Nora
+- Edwin Graves
+- Umbra
 image:
   src: /images/site/project-e-d-e-n-3.webp
   alt: Project E.D.E.N.
@@ -24,21 +24,39 @@ fields:
   type: Military — classified Imperial hybridisation programme
   alternativename: Project EDEN
 sources:
-  - worldanvil/sources/site/biotec.txt
-  - worldanvil/sources/site/mission-board.txt
-  - worldanvil/sources/site/pose-mission-notes.txt
-  - worldanvil/sources/site/children-of-ember.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/korth-episode-summaries.txt
+- worldanvil/sources/site/biotec.txt
+- worldanvil/sources/site/mission-board.txt
+- worldanvil/sources/site/pose-mission-notes.txt
+- worldanvil/sources/site/children-of-ember.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: project-eden-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
 gallery:
-  - src: /images/site/project-e-d-e-n-1.webp
-    alt: Project E.D.E.N.
-  - src: /images/site/project-e-d-e-n-2.webp
-    alt: Project E.D.E.N.
+- src: /images/site/project-e-d-e-n-1.webp
+  alt: Project E.D.E.N.
+- src: /images/site/project-e-d-e-n-2.webp
+  alt: Project E.D.E.N.
+- src: /images/gallery/2025-12-14-05.webp
+  alt: E.D.E.N. units outside BioTec
+  caption: Three corpse-faced armoured soldiers, the central one with long grey hair and red blades, stand beneath a BioTec sign.
+- src: /images/gallery/2026-01-06-01.webp
+  alt: 'BioTec file: Project E.D.E.N. summary'
+  caption: Page one of a redacted BioTec Internal Research Archive document on Project E.D.E.N., with an executive summary and key personnel including Dr. Joanne Menka.
+- src: /images/gallery/2026-01-06-02.webp
+  alt: 'BioTec file: resource pipeline and partners'
+  caption: A redacted BioTec E.D.E.N. document page covering Sister Nora, a resource pipeline through the Black Dove Church, House Lyrandar and the collapse of House Orien.
+- src: /images/gallery/2026-01-06-03.webp
+  alt: 'BioTec file: technical overview of E.D.E.N. units'
+  caption: 'A redacted BioTec document page giving the technical overview of E.D.E.N. units: biological and cybernetic components, environmental adaptation and strategic purpose.'
+- src: /images/gallery/2026-01-06-04.webp
+  alt: 'BioTec file: known incidents and recommendations'
+  caption: A redacted BioTec E.D.E.N. document page listing Phase IV testing, known incidents with EDN units, an ethical review removed by Imperial directive, and recommendations.
+- src: /images/gallery/2026-01-06-05.webp
+  alt: 'BioTec file: Subject Zero, Eden'
+  caption: 'A restricted BioTec addendum titled "Foundational Incidents & Prototype History", describing Subject Zero: Eden (EDN-00) and a pre-BioTec incident report.'
 ---
 
 **Classified Imperial military initiative · Hybridisation programme · Operated by BioTec under Dr. Joanne Menka · Deployed into the Mournlands · Active**

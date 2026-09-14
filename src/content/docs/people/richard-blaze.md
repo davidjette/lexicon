@@ -2,18 +2,18 @@
 title: Richard Blaze
 description: The Empire's favourite chef, husband of the Lord Commander, and the hidden fourth founder of Fulcrum.
 tags:
-  - Richard Blaze
-  - Blaze
-  - Fulcrum
-  - Chef
-  - Restaurant
-  - Restaurateur
-  - POSE
-  - Pose
-  - Poce
-  - Eat My Blaze
-  - Richard's Tip
-  - Esther Crona
+- Richard Blaze
+- Blaze
+- Fulcrum
+- Chef
+- Restaurant
+- Restaurateur
+- POSE
+- Pose
+- Poce
+- Eat My Blaze
+- Richard's Tip
+- Esther Crona
 image:
   src: /images/uploads/richard-blaze-mu0mt7su.webp
   alt: Richard Blaze
@@ -35,18 +35,37 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/wa/richard-blaze-person.txt
-  - sources/site/rebel-factions.txt
-  - sources/site/esther-crona.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/site/korth-episode-summaries.txt
-  - worldanvil/images/rebel-factions/04.jpg
+- sources/wa/richard-blaze-person.txt
+- sources/site/rebel-factions.txt
+- sources/site/esther-crona.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/site/korth-episode-summaries.txt
+- worldanvil/images/rebel-factions/04.jpg
 published: '2026-09-10'
 wa:
   slug: richard-blaze-person
   uuid: 1e89d416-ba55-4113-98d0-94c1631c2ce4
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2025-12-16-07.webp
+  alt: The Crona-Blaze family portrait
+  caption: A painted family portrait of Esther Crona in a black gown, Richard Blaze in a dark suit and red scarf, and their son Calcifer in front of them.
+- src: /images/gallery/2026-06-02-04.webp
+  alt: Richard Blaze holds Calcifer
+  caption: Richard Blaze, a horned tiefling in a long coat, holds his son Calcifer close in the red-lit penthouse.
+- src: /images/gallery/2026-06-03-01.webp
+  alt: Richard Blaze faces Esther Crona
+  caption: Richard Blaze stands with Calcifer pressed against him, facing Esther Crona across the dim penthouse.
+- src: /images/gallery/2026-06-03-06.webp
+  alt: Richard Blaze shields Calcifer in darkness
+  caption: Richard Blaze kneels and holds Calcifer inside a cloud of magical darkness, one hand raised.
+- src: /images/gallery/2025-08-31-01.webp
+  alt: Esther Crona and Richard Blaze
+  caption: A formal painted portrait of Esther Crona, pale with great curling horns in a black corseted gown, arm in arm with Richard Blaze, a horned man in a red-trimmed robe.
+- src: /images/gallery/2026-01-23-01.webp
+  alt: Richard Blaze, full length
+  caption: Richard Blaze, a horned man with a trim beard in a long dark coat and red scarf, gestures with an open hand.
 ---
 
 **Male Tiefling · Chef and Restaurateur · Fulcrum, hidden founder · Alive**

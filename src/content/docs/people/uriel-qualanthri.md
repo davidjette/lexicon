@@ -50,6 +50,13 @@ wa:
   slug: uriel-qualanthri-person
   uuid: 6f27454e-bbde-4a0f-b156-b568213e0dda
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
+gallery:
+- src: /images/gallery/2026-04-05-02.webp
+  alt: 'Calcifer''s birth: Uriel holds the newborn'
+  caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
+- src: /images/gallery/2026-06-10-06.webp
+  alt: Holy Empress Uriel, The White Death document
+  caption: A document page titled "Holy Empress Uriel, The White Death", with sections on the Black Doves, her ascension to the throne and the Ivory Lazaret, and an illustration of Uriel Qualanthri kneeling in white.
 ---
 
 **Female High Elf · Cleric of the Grave (in disguise as a Cleric of Light) · [The Black Doves](/organizations/the-black-doves/) and [The Unforeseen](/organizations/the-unforeseen/) · Holy Empress of the Pax Imperium · **Alive****

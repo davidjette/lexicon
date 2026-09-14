@@ -37,6 +37,24 @@ gallery:
 - src: /images/album/speaking-with-bantide-moro-in-jail.webp
   alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Mo
   caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Moro. Imperial capital of Korth jail - Korth Episode: The Condemned'
+- src: /images/gallery/2026-09-07-01.webp
+  alt: Bantide Moro, the condemned
+  caption: A barefoot blonde woman with a long braid, in a torn sackcloth dress, stands chained in a stone cell. Bantide Moro is condemned before the High Court of Korth.
+- src: /images/gallery/2026-09-07-03.webp
+  alt: The condemned before the High Court
+  caption: In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them.
+- src: /images/gallery/2026-09-07-04.webp
+  alt: The Advocate and Vice Admiral Merkin in court
+  caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
+- src: /images/gallery/2026-09-07-05.webp
+  alt: Master Armhair in the Hall of Records
+  caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
+- src: /images/gallery/2026-09-07-06.webp
+  alt: The midnight meeting with Armhair and Jelton Ahn
+  caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
+- src: /images/gallery/2026-09-07-07.webp
+  alt: The Advocate and her bodyguard at the Ministry
+  caption: The dark-haired Advocate and the skull-masked samurai stand at a great iron-bound door flanked by red-robed guards and a uniformed officer.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 13 · DM: Dave**

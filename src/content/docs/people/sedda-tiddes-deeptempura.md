@@ -2,18 +2,18 @@
 title: Sedda Tiddes Deeptempura
 description: The princess who rang the Thirteenth Casting with a rock, then waited three years in the dark, undead and lucid, for an extraction that never came.
 tags:
-  - Sedda Tiddes Deeptempura
-  - Sedda
-  - Sedda Deeptempura
-  - Sedda Tiddes
-  - the Ringer
-  - Deeptempura
-  - Deep Tempura
-  - Korranberg Foundry
-  - the Speaker
-  - the bloom
-  - Thirteenth Casting
-  - KNELL
+- Sedda Tiddes Deeptempura
+- Sedda
+- Sedda Deeptempura
+- Sedda Tiddes
+- the Ringer
+- Deeptempura
+- Deep Tempura
+- Korranberg Foundry
+- the Speaker
+- the bloom
+- Thirteenth Casting
+- KNELL
 image:
   src: /images/uploads/sedda-tiddes-deeptempura-mu0n07xg.webp
 type: person
@@ -34,14 +34,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/korth-episode-summaries.txt
-  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
-  - C:/dev/sharn-campaign/current-state.md
-  - worldanvil/CANON.md
+- sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/session-2026-08-07-recap.md
+- C:/dev/sharn-campaign/current-state.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: sedda-tiddes-deeptempura-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-08-10-09.webp
+  alt: Meeting Sedda at the bottom of the shaft
+  caption: In a dark cavern of black water, Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat face a pale, decayed dwarf woman. At the bottom of the ladder the trio find Sedda Tiddes Deeptempura, three years dead.
 ---
 
 **Duergar (deep dwarf) · Princess and heir of the Deeptempura · Undead, then laid to rest · Dead**

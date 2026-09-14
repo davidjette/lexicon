@@ -28,6 +28,25 @@ published: '2026-09-10'
 wa:
   slug: the-inevitables-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2025-12-29-05.webp
+  alt: Eric, Gemma and Dario in Sharn
+  caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino pose together on a street of spired towers and floating airships.
+- src: /images/gallery/2025-12-30-02.webp
+  alt: Eric, Gemma and Dario in Sharn
+  caption: Eric the Cleric with his spiked mace, Gemma Corso with a dagger and Sir Dario Argentino stand shoulder to shoulder beneath Sharn's towers and airships.
+- src: /images/gallery/2025-12-30-03.webp
+  alt: The trio eating tacos at Richard's Tip
+  caption: Eric, Gemma and Dario gasp and wince as they eat tacos outside a shop sign reading "Richard's Tip".
+- src: /images/gallery/2026-03-28-02.webp
+  alt: WANTED poster of the trio
+  caption: A sepia wanted poster showing Sir Dario Argentino, Gemma Corso and Eric the Cleric under the word WANTED.
+- src: /images/gallery/2025-08-24-02.webp
+  alt: The Inevitables in a desert town
+  caption: 'The three companions pose together in a sandy domed town: a red-haired horned woman with a sword, a bespectacled man in black robes holding books, and a grey dragonborn in overalls.'
+- src: /images/gallery/2025-08-26-01.webp
+  alt: The Unforeseen Strike Back poster
+  caption: 'A pulp-style poster titled The Unforeseen Strike Back: a red-haired horned woman, a bespectacled cleric holding books and a dragonborn with a flaming sword, with a spiked bald brute looming behind them over a sea of tentacles.'
 ---
 
 **Adventuring company · Founded in Leef · Active · Level 12**

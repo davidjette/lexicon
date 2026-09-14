@@ -2,17 +2,17 @@
 title: Jessica Grimpledink
 description: Artificer, survivor of the Sub-Transit Collapse, and the engineer who rebuilt Station 5 into the Nest and ran Sharn's rebellion from it.
 tags:
-  - Jessica Grimpledink
-  - Jessica
-  - Grimpledink
-  - The Nest
-  - Station 5
-  - Sub-Transit Collapse
-  - Skyroot Park
-  - Artificer
-  - Morgrave University
-  - Sharn
-  - Fulcrum
+- Jessica Grimpledink
+- Jessica
+- Grimpledink
+- The Nest
+- Station 5
+- Sub-Transit Collapse
+- Skyroot Park
+- Artificer
+- Morgrave University
+- Sharn
+- Fulcrum
 image:
   src: /images/site/jessica-grimpledink-1.webp
   alt: Jessica Grimpledink
@@ -34,15 +34,25 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/site/korth-episode-summaries.txt
-  - worldanvil/images/rebel-factions/01.jpg
+- sources/site/rebel-factions.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/site/korth-episode-summaries.txt
+- worldanvil/images/rebel-factions/01.jpg
 published: '2026-09-10'
 wa:
   slug: jessica-grimpledink-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+- src: /images/gallery/2026-02-20-04.webp
+  alt: A box of paints and a letter to Jessica
+  caption: 'A carved wooden box of paints sits beside a handwritten note: "Jessica, even when you were small, you saw the world differently... Use these paints for your next big project. Love, Dad."'
+- src: /images/gallery/2026-09-03-01.webp
+  alt: Jessica Grimpledink and the wedding gift
+  caption: In a dark gothic apartment, Jessica Grimpledink reaches toward a floating black and red crystalline object by the fireplace while Gemma Corso lounges on a sofa and Eric the Cleric and Sir Dario Argentino look on. Jessica has found that Esther's wedding gift is both black and red Khyber.
+- src: /images/gallery/2026-09-03-05.webp
+  alt: Gemma warns Jessica
+  caption: Gemma Corso points and leans over Jessica Grimpledink beside a desk, airships drifting past the tall window behind them. Gemma's attempt to warn Jessica about Eric backfires.
 ---
 
 **Artificer · Leader of the Nest · Alive**

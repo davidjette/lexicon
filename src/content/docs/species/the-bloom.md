@@ -2,17 +2,17 @@
 title: The bloom / the Speaker
 description: The whispering fungus in the Glitterhame, grown from a burst terrarium in a dead courier's satchel, that has talked two people into ringing a bell.
 tags:
-  - the bloom
-  - the Speaker
-  - Glitterhame
-  - John C. LeBeefe
-  - The Korramont
-  - Korranberg Foundry
-  - Sedda Tiddes Deeptempura
-  - Eric the Cleric
-  - Egg Roll
-  - Hetta
-  - the whispers
+- the bloom
+- the Speaker
+- Glitterhame
+- John C. LeBeefe
+- The Korramont
+- Korranberg Foundry
+- Sedda Tiddes Deeptempura
+- Eric the Cleric
+- Egg Roll
+- Hetta
+- the whispers
 image:
   src: /images/uploads/the-bloom-the-speaker-mu0th3vz.webp
 type: creature
@@ -33,15 +33,19 @@ fields:
   height: Fills the cavern floor
   weight: Unknown
 sources:
-  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
-  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
-  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
-  - sources/site/korth-episode-summaries.txt
-  - C:/dev/sharn-campaign/current-state.md
+- C:/dev/sharn-campaign/session-2026-07-17-recap.md
+- C:/dev/sharn-campaign/session-2026-08-07-recap.md
+- C:/dev/sharn-campaign/session-2026-08-21-recap.md
+- sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/current-state.md
 published: '2026-09-10'
 wa:
   slug: the-bloom-2F-the-speaker-species
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
+gallery:
+- src: /images/gallery/2026-07-20-06.webp
+  alt: Descending into the Glitterhame
+  caption: Three figures descend a stone stair into a vast cavern filled with glowing orange fungus and pale crystals.
 ---
 
 **Fungal colony / bound personality - the Glitterhame - Active**

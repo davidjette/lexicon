@@ -2,18 +2,18 @@
 title: Korth Ep 7 — The Glitterhame and the Grave Robbers
 description: The Glitterhame's fungal bloom takes hold of Eric, the kin of Rak'tafur name the party grave robbers, and the Thirteenth Casting is found.
 tags:
-  - Korth Ep 7
-  - The Glitterhame and the Grave Robbers
-  - Glitterhame
-  - Shavat
-  - Black Khyber
-  - Rak'tafûr
-  - Madame Tso Teryaki
-  - Deeptempura Clan
-  - Thirteenth Casting
-  - Belt of Dwarvenkind
-  - John C. LeBeefe
-  - Grell
+- Korth Ep 7
+- The Glitterhame and the Grave Robbers
+- Glitterhame
+- Shavat
+- Black Khyber
+- Rak'tafûr
+- Madame Tso Teryaki
+- Deeptempura Clan
+- Thirteenth Casting
+- Belt of Dwarvenkind
+- John C. LeBeefe
+- Grell
 image:
   src: /images/uploads/korth-ep-7-the-glitterhame-and-the-grave-mu0shn0g.webp
 sidebar:
@@ -23,11 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/korth-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-7-E28094-the-glitterhame-and-the-grave-robbers-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+gallery:
+- src: /images/gallery/2026-07-20-04.webp
+  alt: The dead outrider in the pocket cave
+  caption: The trio stand over a dead grey-skinned dwarf in a cave, with scattered coins and a wax-sealed crest rubbing on the ground before them. The dead mourner, later named Sesame Tofu, carries a family crest rubbing from House Moo Goo Gai Pan.
+- src: /images/gallery/2026-07-20-05.webp
+  alt: Grells over the underground stream
+  caption: Floating brain-like tentacled grells attack over a dark stream; one carries a figure into the air while an armoured warrior swings a flaming sword.
+- src: /images/gallery/2026-07-20-06.webp
+  alt: Descending into the Glitterhame
+  caption: Three figures descend a stone stair into a vast cavern filled with glowing orange fungus and pale crystals.
+- src: /images/gallery/2026-07-20-07.webp
+  alt: Skeletons rise from the silt
+  caption: A dragonborn with a blue-flaming sword, a dark-haired elf and a woman with a glowing blade fight skeletons rising from shallow water among glowing mushrooms.
+- src: /images/gallery/2026-07-20-08.webp
+  alt: Returning the belt to Madame Tso
+  caption: In a pillared hall of carved dragons and waiting dwarves, Eric the Cleric in a white wig and red coat hands an object to a white-haired duergar woman, with Gemma Corso and Sir Dario Argentino beside him. Madame Tso Teryaki names the party grave robbers and takes back her husband's Belt of Dwarvenkind.
+- src: /images/gallery/2026-07-20-09.webp
+  alt: The Bladeworks above the lava
+  caption: A huge black bell hangs from scaffolding over a chasm of glowing lava, below tiers of dwarven forge halls.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 7 · DM: Dave**

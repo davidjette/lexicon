@@ -36,6 +36,20 @@ published: '2026-09-10'
 wa:
   slug: the-vault-below-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/gallery/2026-02-10-10.webp
+  alt: The trio at the door of The Vault Below
+  caption: Gemma, Eric and Dario stand before the orange neon sign of The Vault Below Club & Gambling, looking into the crowded club.
+gallery:
+- src: /images/gallery/2026-01-24-01.webp
+  alt: The trio outside The Vault Below
+  caption: Eric, Gemma and Dario walk a neon-lit alley past the Gremlin's Lantern sign toward the glowing entrance of The Vault Below.
+- src: /images/gallery/2026-01-26-04.webp
+  alt: Vault Below drink menu
+  caption: 'The Vault Below drink menu in a fiery dragon border: Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.'
+- src: /images/gallery/2026-01-26-07.webp
+  alt: Vault Below gambling games
+  caption: 'The Vault Below public-floor gambling games card: Crystal Dice, Vault Spin and Royal Ember, with dice mechanics and betting limits.'
 ---
 
 **Nightclub and gaming house · [Lantern District](/places/lantern-district/), [Lower City](/places/the-lower-city/) · Children of Ember sanctum · Cleared**

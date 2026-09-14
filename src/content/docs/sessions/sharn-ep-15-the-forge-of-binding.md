@@ -2,18 +2,18 @@
 title: Sharn Ep 15 — The Forge of Binding
 description: The Forge of Binding is opened, Varyn Crona's Echo speaks its last words, and Esther drops through the ceiling on a drill.
 tags:
-  - Sharn Ep 15
-  - The Forge of Binding
-  - Varyn Crona
-  - E'noch Qualanthri
-  - Eternal Guardian
-  - Blood of Vol
-  - Mind Flayer
-  - Dhakaani
-  - Renn Tal
-  - Blair
-  - Esther Crona
-  - Rite of Recall
+- Sharn Ep 15
+- The Forge of Binding
+- Varyn Crona
+- E'noch Qualanthri
+- Eternal Guardian
+- Blood of Vol
+- Mind Flayer
+- Dhakaani
+- Renn Tal
+- Blair
+- Esther Crona
+- Rite of Recall
 image:
   src: /images/uploads/sharn-ep-15-the-forge-of-binding-mu0ryp53.webp
 sidebar:
@@ -23,11 +23,27 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-15-E28094-the-forge-of-binding-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-04-30-01.webp
+  alt: 'Scroll: The Call of the Severed'
+  caption: 'A hand holds a scroll titled "The Call of the Severed" before a great forge: "By blood unbound and soul laid bare, Varyn Crona, hear the Call of the Severed... return now to your place of binding." It is the Rite of Recall read at the Forge of Binding.'
+- src: /images/gallery/2026-04-30-02.webp
+  alt: 'Scroll: Forge, hear me'
+  caption: 'A dragonborn''s gauntleted hand holds a scroll before the forge: "Forge, hear me. By steel, by breath, by will... I bind the frost of my ancestry into this blade. Let it carry the warrior I am." It is Sir Dario Argentino binding elemental cold into his weapon.'
+- src: /images/gallery/2026-05-02-06.webp
+  alt: Esther Crona rides the drill down
+  caption: A massive drill has broken through the ceiling and lies in the rubble of the chamber, with Esther Crona standing on top of it in a dark cloak.
+- src: /images/gallery/2026-05-02-02.webp
+  alt: The Mind Flayer seizes Gemma
+  caption: A robed Mind Flayer lifts Gemma Corso off the ground in an alien, organic corridor as Sir Dario Argentino and Eric the Cleric rush to her aid.
+- src: /images/gallery/2026-05-02-05.webp
+  alt: The puzzle door in the flooded chamber
+  caption: Sir Dario Argentino, Eric the Cleric, Gemma Corso and Renn Tal stand knee-deep in water before a massive circular puzzle door carved with glyphs.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 15 · DM: Nichole**

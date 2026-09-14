@@ -2,18 +2,18 @@
 title: The Nest
 description: Sharn's Upper City rebel stronghold, built inside the abandoned lightning rail Station 5 beneath Skyroot Park.
 tags:
-  - The Nest
-  - Nest
-  - NEST
-  - Jessica Grimpledink
-  - Skyroot Park
-  - Station 5
-  - Sub-Transit
-  - Sharn
-  - Rebellion
-  - Upper City
-  - Fulcrum
-  - EBT-7
+- The Nest
+- Nest
+- NEST
+- Jessica Grimpledink
+- Skyroot Park
+- Station 5
+- Sub-Transit
+- Sharn
+- Rebellion
+- Upper City
+- Fulcrum
+- EBT-7
 image:
   src: /images/uploads/the-nest-mu0ql5p4.webp
 type: organization
@@ -27,16 +27,20 @@ fields:
   status: Active
   allies: Fulcrum, R.U.S.T., the Silver Flame, the Underhive, the Hundreds
 sources:
-  - sources/site/rebel-factions.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/korth-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - sources/site/home.txt
-  - worldanvil/images/rebel-factions/01.jpg
+- sources/site/rebel-factions.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
+- sources/site/mission-board.txt
+- sources/site/home.txt
+- worldanvil/images/rebel-factions/01.jpg
 published: '2026-09-10'
 wa:
   slug: the-nest-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-05-17-09.webp
+  alt: Briefing at the map table in The Nest
+  caption: Jessica Grimpledink stands on the edge of a map table with Sir Dario Argentino, Eric the Cleric, Gemma Corso and Lorian gathered round in a rain-soaked rebel command centre. It is the Nest briefing before the strike on the Vault Underground.
 ---
 
 **Rebel cell · Upper City, Sharn · Active**

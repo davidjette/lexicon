@@ -2,19 +2,19 @@
 title: The Cogborn protest, explosion and riot
 description: A peaceful Upper City march, a bomb nobody has ever claimed, sixty-four dead, and a live broadcast of the executions that followed.
 tags:
-  - Cogborn protest
-  - Cogborn riot
-  - POSE
-  - Candice Kurt
-  - R.U.S.T.
-  - Cogborn
-  - The Cogs
-  - Iron Veil
-  - Esther Crona
-  - Black Veil
-  - Sharn
-  - Richard Blaze
-  - Sister Nora
+- Cogborn protest
+- Cogborn riot
+- POSE
+- Candice Kurt
+- R.U.S.T.
+- Cogborn
+- The Cogs
+- Iron Veil
+- Esther Crona
+- Black Veil
+- Sharn
+- Richard Blaze
+- Sister Nora
 image:
   src: /images/uploads/cogborn-protest-2-mu0vlpx9.webp
 type: conflict
@@ -29,14 +29,21 @@ fields:
   imperial_account: Shots from within the protesters killed Candice Kurt; an assassination by protesters from the Cogs
   aftermath: Checkpoints dividing upper and lower city; raids and forced removals; Esther Crona's live executions from her Imperial warship
 sources:
-  - worldanvil/sources/site/rebel-factions.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/key-figures.txt
-  - worldanvil/sources/site/home.txt
+- worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/key-figures.txt
+- worldanvil/sources/site/home.txt
 published: '2026-09-10'
 wa:
   slug: the-cogborn-protest2C-explosion-and-riot-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-02-26-17.webp
+  alt: Cogborn protest at the Veil Building
+  caption: A line of Iron Veil soldiers holds the steps beneath a red VEIL sign as a crowd raises signs reading "Where are our people?" and "We are the base!"
+- src: /images/gallery/2026-01-23-05.webp
+  alt: Cogborn protesters with signs
+  caption: Soot-stained Cogborn families carry signs reading "Cogborn Rights are Sharnian Rights", "Find the Cog Collector", "Where Are Our People?" and "We Are the Base".
 ---
 
 **Protest, bombing and massacre · Upper City, Sharn · Sharn Ep 2, and the nights before it**

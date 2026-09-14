@@ -2,18 +2,18 @@
 title: Dr. Edwin Graves
 description: The polite owner of Circuit City, the secret owner of BioTec, and the Cog Collector who fed Cogborn bodies into Project E.D.E.N. for four years.
 tags:
-  - Edwin Graves
-  - Dr. Edwin Graves
-  - Graves
-  - Cog Collector
-  - The Cog Collector
-  - E.G.
-  - Circuit City
-  - BioTec
-  - Project EDEN
-  - Project E.D.E.N.
-  - Cogborn
-  - Gear Street
+- Edwin Graves
+- Dr. Edwin Graves
+- Graves
+- Cog Collector
+- The Cog Collector
+- E.G.
+- Circuit City
+- BioTec
+- Project EDEN
+- Project E.D.E.N.
+- Cogborn
+- Gear Street
 image:
   src: /images/site/dr-edwin-graves-1.webp
   alt: Dr. Edwin Graves
@@ -35,23 +35,35 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - worldanvil/sources/site/key-figures.txt
-  - worldanvil/sources/site/biotec.txt
-  - worldanvil/sources/site/mission-board.txt
-  - worldanvil/sources/site/ebt-7.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/home.txt
+- worldanvil/sources/site/key-figures.txt
+- worldanvil/sources/site/biotec.txt
+- worldanvil/sources/site/mission-board.txt
+- worldanvil/sources/site/ebt-7.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/home.txt
 published: '2026-09-10'
 wa:
   slug: dr-edwin-graves-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-  - src: /images/site/dr-edwin-graves-2.webp
-    alt: 'Owner: Dr. Edwin Graves'
-    caption: 'Owner: Dr. Edwin Graves'
-  - src: /images/site/dr-edwin-graves-3.webp
-    alt: 'Owner: Dr. Edwin Graves'
-    caption: 'Owner: Dr. Edwin Graves'
+- src: /images/site/dr-edwin-graves-2.webp
+  alt: 'Owner: Dr. Edwin Graves'
+  caption: 'Owner: Dr. Edwin Graves'
+- src: /images/site/dr-edwin-graves-3.webp
+  alt: 'Owner: Dr. Edwin Graves'
+  caption: 'Owner: Dr. Edwin Graves'
+- src: /images/gallery/2026-03-24-02.webp
+  alt: Letter from Dr. Joanne Menka to Edwin
+  caption: 'A typed transcript of a letter to Edwin signed Dr. Joanne Menka: Cob Cornwell''s death has been categorized as accidental and his assets transferred, and Red Khyber output from the Mournlands is exceeding projections with shipments en route to Fort Crona.'
+- src: /images/gallery/2026-04-04-01.webp
+  alt: Dr. Edwin Graves among his captives
+  caption: Dr. Edwin Graves, masked and in a long black coat, stands before cages of emaciated prisoners reaching through the bars in a red-lit backroom.
+- src: /images/gallery/2026-04-04-04.webp
+  alt: Edwin Graves over a fallen Dario
+  caption: The masked Dr. Edwin Graves in his black coat bends over Sir Dario Argentino, who has fallen to his knees in the laboratory.
+- src: /images/gallery/2026-04-04-06.webp
+  alt: Snodgrass and Renn Tal face Edwin Graves
+  caption: Snodgrass raises his weapon with Renn Tal behind him as Dr. Edwin Graves, holding a syringe, confronts them in the laboratory.
 ---
 
 **Doctor, shopkeeper, corporate owner · BioTec (secret proprietor) / Circuit City · Dead**

@@ -2,18 +2,18 @@
 title: Varyn Crona
 description: High Elf paladin, head of the Crimson Sun, Eternal Guardian to three Emperors, and the soul Esther Crona carried in her sword.
 tags:
-  - Varyn Crona
-  - Vayrn Crona
-  - Varyn
-  - Crona
-  - Eternal Guardian
-  - Crimson Sun
-  - Imperial Council
-  - Council of 13
-  - Forge of Binding
-  - Esther Crona
-  - Aerenal
-  - High Elf
+- Varyn Crona
+- Vayrn Crona
+- Varyn
+- Crona
+- Eternal Guardian
+- Crimson Sun
+- Imperial Council
+- Council of 13
+- Forge of Binding
+- Esther Crona
+- Aerenal
+- High Elf
 image:
   src: /images/uploads/vayrn-crona-eternal-guardian-mu0n5ghk.webp
 type: person
@@ -34,19 +34,35 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/wa/varyn-crona-person.txt
-  - sources/wa/esther-crona-person.txt
-  - sources/wa/the-crimson-sun-organization.txt
-  - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
-  - sources/site/esther-crona.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - worldanvil/CANON.md
+- sources/wa/varyn-crona-person.txt
+- sources/wa/esther-crona-person.txt
+- sources/wa/the-crimson-sun-organization.txt
+- sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
+- sources/site/esther-crona.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: varyn-crona-person
   uuid: db8f13ba-3093-47fe-bff2-d08896f04461
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+gallery:
+- src: /images/gallery/2025-09-12-01.webp
+  alt: 'Parchment: the fortune of John C. LeBeefe'
+  caption: A parchment handout stating that John C. LeBeefe made his fortune as a slave trader in the Demon Wastes, let fiends harvest his seed, and fathered four tiefling daughters, the eldest adopted by Imperial Counselor Veryn Crona as his protege.
+- src: /images/gallery/2026-02-19-09.webp
+  alt: Varyn Crona and E'noch at the forge
+  caption: Varyn Crona and the red-hooded priest E'noch Qualanthri forge a blade on an anvil in a chamber of fire and red energy.
+- src: /images/gallery/2026-02-20-03.webp
+  alt: Archivist's Addendum by Renn Tal
+  caption: 'A prop document titled "Archivist''s Addendum, Recorded by Archivist Renn Tal, 1047 YK": notes on the Forge of Binding and the Eternal Guardian rite, studied by directive of Lord Commander Esther Crona, ending "I am getting close. I know too much."'
+- src: /images/gallery/2026-04-30-01.webp
+  alt: 'Scroll: The Call of the Severed'
+  caption: 'A hand holds a scroll titled "The Call of the Severed" before a great forge: "By blood unbound and soul laid bare, Varyn Crona, hear the Call of the Severed... return now to your place of binding." It is the Rite of Recall read at the Forge of Binding.'
+- src: /images/gallery/2026-02-17-16.webp
+  alt: Esther Crona and Varyn Crona embrace
+  caption: Esther Crona in a black gown embraces a white-haired, bearded elf in a black shirt on a candlelit staircase.
 ---
 
 **High Elf · Paladin · The Crimson Sun / The Imperial Council · Dead**

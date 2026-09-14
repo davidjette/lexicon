@@ -53,6 +53,10 @@ image:
   src: /images/cards/the-lexicon.webp
   alt: 'Ally card: The Lexicon'
   caption: Ally card, Arc VIII
+gallery:
+- src: /images/gallery/2026-03-20-01.webp
+  alt: R.U.S.T. prayer sheet to Lexicon
+  caption: A song sheet with doves and a radiant cross, bordered in binary, with verses such as "You'll be given love (Lexicon)" and "All is full of love (Lexicon)". It is the prayer sheet the R.U.S.T. Runners hand out to the Cogborn.
 ---
 
 > Even as the gods are shut out from the world, their avatars could live in Motherstone, unite, and live in eternal peace. Rather than use this power for his gain, the Lexicons creator would open the doors of the city to all Infanta, reestablish divine rule over the Prime material plane for every living god, if they chose to set aside their armies and live in peace.

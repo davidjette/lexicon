@@ -2,24 +2,24 @@
 title: The Bright Dawn (Crimson Sun Unbound)
 description: Vayrn Crona's Black-Khyber blade, the former Crimson Sun and Hexblade of Esther Crona. Freed of its bound soul, it became crystalline and now burns with radiant power in Gemma's hands.
 tags:
-  - Bright Dawn
-  - Crimson Sun
-  - Crimson Sun Sword
-  - Vayrn Crona
-  - Vayrn
-  - Esther Crona
-  - Esther
-  - Gemma Corso
-  - longsword
-  - Black Khyber
-  - Shavat
-  - Kyber
-  - Eternal Guardian
-  - Hexblade
-  - Mourning
-  - Forge of Binding
-  - Rite of Recall
-  - Priest E'noch Qualanthri
+- Bright Dawn
+- Crimson Sun
+- Crimson Sun Sword
+- Vayrn Crona
+- Vayrn
+- Esther Crona
+- Esther
+- Gemma Corso
+- longsword
+- Black Khyber
+- Shavat
+- Kyber
+- Eternal Guardian
+- Hexblade
+- Mourning
+- Forge of Binding
+- Rite of Recall
+- Priest E'noch Qualanthri
 image:
   src: /images/uploads/bright-dawn-crimson-sun-unbound-mu0zsg0d.webp
 type: item
@@ -38,17 +38,24 @@ fields:
   discovery: Recovered by Gemma Corso after Esther Crona's death atop the Veil building, where Esther dropped the sword as she fell from the penthouse balcony
   sideEffects: The sword formerly contained the bound Echo of Vayrn Crona. The Rite of Recall at the Forge of Binding destroyed the trapped soul and broke the binding, leaving the weapon crystalline and free of the Echo.
 sources:
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - session-2026-08-21-recap.md
-  - session-2026-08-07-recap.md
-  - session-2026-08-28-summary.md
-  - session-2026-09-04-summary.md
-  - current-state.md
-  - worldanvil/CANON.md
+- worldanvil/sources/site/korth-episode-summaries.txt
+- session-2026-08-21-recap.md
+- session-2026-08-07-recap.md
+- session-2026-08-28-summary.md
+- session-2026-09-04-summary.md
+- current-state.md
+- worldanvil/CANON.md
 published: '2026-09-14'
 wa:
   slug: bright-dawn-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+gallery:
+- src: /images/gallery/2026-02-19-09.webp
+  alt: Varyn Crona and E'noch at the forge
+  caption: Varyn Crona and the red-hooded priest E'noch Qualanthri forge a blade on an anvil in a chamber of fire and red energy.
+- src: /images/gallery/2026-06-09-01.webp
+  alt: Bright Dawn (Crimson Sun Unbound) item card
+  caption: An item card for "Bright Dawn (Crimson Sun Unbound)", a very rare longsword requiring attunement, with its Solar Trip and Solar Step abilities and a picture of the glowing blade.
 ---
 
 **Longsword · Black Khyber (Shavat) · Former arm of Vayrn Crona · Former Hexblade of Esther Crona · Crystal after the Rite of Recall · Carried by Gemma Corso**

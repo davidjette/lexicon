@@ -2,18 +2,18 @@
 title: Faith
 description: Faith Zeir, owner of the Vault and Mother Prophet of the Children of Ember, who built a congregation out of her husband's victims.
 tags:
-  - Faith
-  - Faith Zeir
-  - Mother Prophet
-  - The Vault
-  - The Vault Underground
-  - The Vault Below
-  - Children of Ember
-  - Ember
-  - Malrik Zeir
-  - Calcifer
-  - Esther Crona
-  - John C. LeBeefe
+- Faith
+- Faith Zeir
+- Mother Prophet
+- The Vault
+- The Vault Underground
+- The Vault Below
+- Children of Ember
+- Ember
+- Malrik Zeir
+- Calcifer
+- Esther Crona
+- John C. LeBeefe
 image:
   src: /images/site/faith-1.webp
   alt: Faith and Malrik Zeir
@@ -36,16 +36,32 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/children-of-ember.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/mission-board.txt
-  - worldanvil/images/key-figures/06.jpg
+- sources/site/key-figures.txt
+- sources/site/children-of-ember.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/mission-board.txt
+- worldanvil/images/key-figures/06.jpg
 published: '2026-09-10'
 wa:
   slug: 599e2e63-905e-4c33-af94-06dce29f717b
   uuid: e4882442-a310-4589-88de-e6d866e4bcfc
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-01-01-01.webp
+  alt: Faith and Malrik Zeir
+  caption: Faith, a horned woman in a red off-shoulder gown, stands beside Malrik Zeir, a pale-haired elf in dark ornate armour.
+- src: /images/gallery/2026-02-17-07.webp
+  alt: Faith and Malrik Zeir in the ritual chamber
+  caption: Faith and Malrik Zeir stand hand in hand in a fire-lit chamber of candles, skulls and red iron.
+- src: /images/gallery/2026-05-14-01.webp
+  alt: Faith Zeir, the Mother Prophet
+  caption: Faith Zeir, a horned tiefling in a flowing red gown, stands wreathed in swirling flame with fire in her open hand.
+- src: /images/gallery/2026-05-14-02.webp
+  alt: Faith Zeir stat block
+  caption: A creature stat block for "Faith Zeir", a Medium tiefling spellcaster with the Mother Prophet trait, Ember Shield and Ember Nova.
+- src: /images/gallery/2026-02-17-13.webp
+  alt: Faith figurine
+  caption: A figurine-style render of a dark-skinned horned woman with a tail, in a red off-shoulder gown with a belted bodice.
 ---
 
 **The Mother Prophet · The Vault · Children of Ember · Deceased**

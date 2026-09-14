@@ -2,18 +2,18 @@
 title: Eden
 description: Esther Crona's youngest half-sister, killed beneath the Grand Aqueduct and resurrected as EDN-00 — the Blue Devil of the Mournlands.
 tags:
-  - Eden
-  - EDN-00
-  - EDN 00
-  - Blue Devil
-  - The Blue Devil
-  - Project EDEN
-  - Project E.D.E.N.
-  - BioTec
-  - Esther Crona
-  - Crona
-  - LeBeefe
-  - Sister Nora
+- Eden
+- EDN-00
+- EDN 00
+- Blue Devil
+- The Blue Devil
+- Project EDEN
+- Project E.D.E.N.
+- BioTec
+- Esther Crona
+- Crona
+- LeBeefe
+- Sister Nora
 image:
   src: /images/uploads/eden-the-blue-devil-mu0i90i3.webp
 type: person
@@ -34,18 +34,37 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - worldanvil/sources/site/mission-board.txt
-  - worldanvil/sources/site/biotec.txt
-  - worldanvil/sources/site/pose-mission-notes.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - worldanvil/sources/site/rebel-factions.txt
-  - worldanvil/sources/wa/esther-crona-person.txt
+- worldanvil/sources/site/mission-board.txt
+- worldanvil/sources/site/biotec.txt
+- worldanvil/sources/site/pose-mission-notes.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/korth-episode-summaries.txt
+- worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/wa/esther-crona-person.txt
 published: '2026-09-10'
 wa:
   slug: 10b44e2f-0a89-4154-9774-c896451aafca
   uuid: 8d8717a5-f23e-4f57-90b3-73c4f0a18387
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-01-06-05.webp
+  alt: 'BioTec file: Subject Zero, Eden'
+  caption: 'A restricted BioTec addendum titled "Foundational Incidents & Prototype History", describing Subject Zero: Eden (EDN-00) and a pre-BioTec incident report.'
+- src: /images/gallery/2026-03-02-11.webp
+  alt: Eden, the Blue Devil
+  caption: Eden, a blue-skinned tiefling fused with warforged armour, stands with a bloodied knife in a burning wasteland of red crystal under red lightning.
+- src: /images/gallery/2026-03-02-13.webp
+  alt: Eden with the E.D.E.N. units
+  caption: Eden, the blue-skinned prototype, leads a squad of hulking undead-warforged hybrids with glowing blades across a burning wasteland.
+- src: /images/gallery/2026-03-02-14.webp
+  alt: Eden among the fallen warforged
+  caption: Eden lunges with a bloodied knife among the wrecked bodies of warforged on a burning wasteland.
+- src: /images/gallery/2026-03-02-15.webp
+  alt: Esther Crona holds Eden's body
+  caption: Esther Crona cradles the bloodied body of her blue-skinned half-sister Eden while Sister Nora of the Black Doves stands beside them.
+- src: /images/gallery/2025-10-12-02.webp
+  alt: Blue-skinned horned woman in a laboratory
+  caption: A blue-skinned, white-haired horned woman in dark armour with a mechanical arm holds a knife in a bright laboratory full of specimen tanks.
 ---
 
 **Tiefling · Undead-Warforged Hybrid, Prototype Unit EDN-00 · Project E.D.E.N./Iron Veil · Deployed · Dead, and walking**

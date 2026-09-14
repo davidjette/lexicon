@@ -2,18 +2,18 @@
 title: Martin Kross
 description: A junior BioTec technician with predictable habits, worked over drinks by Zero of Sharn; once his control chip came out he named the company's secret owner.
 tags:
-  - Martin Kross
-  - Kross
-  - BioTec
-  - Ghost Chip
-  - The Astra
-  - Zero of Sharn
-  - Joanne Menka
-  - Edwin Graves
-  - control chip
-  - Karin Kross
-  - Karen Kross
-  - Kriss Kross
+- Martin Kross
+- Kross
+- BioTec
+- Ghost Chip
+- The Astra
+- Zero of Sharn
+- Joanne Menka
+- Edwin Graves
+- control chip
+- Karin Kross
+- Karen Kross
+- Kriss Kross
 image:
   src: /images/site/martin-kross-1.webp
   alt: Martin Kross
@@ -35,14 +35,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - worldanvil/sources/site/biotec.txt
-  - worldanvil/sources/site/pose-mission-notes.txt
-  - worldanvil/sources/site/rebel-factions.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/biotec.txt
+- worldanvil/sources/site/pose-mission-notes.txt
+- worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: martin-kross-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-03-16-10.webp
+  alt: Martin Kross behind bars
+  caption: Martin Kross, in his BioTec lab coat, grips the bars of a cell as Sir Dario Argentino, Eric the Cleric and Gemma Corso question him in the Underhive, where Blair holds him prisoner.
 ---
 
 **Junior enhancement-technician, BioTec · Fugitive · Alive, departed Sharn**

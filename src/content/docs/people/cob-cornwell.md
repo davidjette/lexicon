@@ -42,6 +42,10 @@ wa:
   slug: cob-cornwell-person
   uuid: f6011415-14d0-427e-badd-16d0d9dd19d7
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-03-24-02.webp
+  alt: Letter from Dr. Joanne Menka to Edwin
+  caption: 'A typed transcript of a letter to Edwin signed Dr. Joanne Menka: Cob Cornwell''s death has been categorized as accidental and his assets transferred, and Red Khyber output from the Mournlands is exceeding projections with shipments en route to Fort Crona.'
 ---
 
 **Species unrecorded · Brelish oilman and industrialist · Richest man in Khorvaire · Level Unknown · Status unrecorded — his estate passed to Edwin Graves, yet a message came in his name**

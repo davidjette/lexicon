@@ -2,18 +2,18 @@
 title: Calcifer Crona-Blaze
 description: The eight-year-old son of Esther Crona and Richard Blaze, marked at birth by Uriel, worshipped as Ember, and officially dead.
 tags:
-  - Calcifer
-  - Calcifer Blaze
-  - Calsifer
-  - Ember
-  - Esther Crona
-  - Richard Blaze
-  - Uriel Qualanthri
-  - Children of Ember
-  - Birthmark
-  - Grady Marsh
-  - ArcEye Crystallizer
-  - Veil Building
+- Calcifer
+- Calcifer Blaze
+- Calsifer
+- Ember
+- Esther Crona
+- Richard Blaze
+- Uriel Qualanthri
+- Children of Ember
+- Birthmark
+- Grady Marsh
+- ArcEye Crystallizer
+- Veil Building
 image:
   src: /images/uploads/calcifer-crona-blaze-mu0hrfir.webp
 type: person
@@ -34,16 +34,35 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/mission-board.txt
-  - sources/site/children-of-ember.txt
-  - sources/site/sharn-episode-summaries.txt
-  - worldanvil/CANON.md
+- sources/site/key-figures.txt
+- sources/site/mission-board.txt
+- sources/site/children-of-ember.txt
+- sources/site/sharn-episode-summaries.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: 05f12119-f896-4827-bf26-c5b83b74dcf5
   uuid: 87d076e4-e5f2-43b8-957c-c62dfd82983c
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2025-12-16-07.webp
+  alt: The Crona-Blaze family portrait
+  caption: A painted family portrait of Esther Crona in a black gown, Richard Blaze in a dark suit and red scarf, and their son Calcifer in front of them.
+- src: /images/gallery/2026-04-05-02.webp
+  alt: 'Calcifer''s birth: Uriel holds the newborn'
+  caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
+- src: /images/gallery/2026-06-02-03.webp
+  alt: Calcifer runs to his father
+  caption: In the penthouse, Calcifer hugs Richard Blaze while Esther Crona, Gemma Corso, Sir Dario Argentino, Eric the Cleric and Henry Heinrick stand around them.
+- src: /images/gallery/2026-06-02-04.webp
+  alt: Richard Blaze holds Calcifer
+  caption: Richard Blaze, a horned tiefling in a long coat, holds his son Calcifer close in the red-lit penthouse.
+- src: /images/gallery/2026-06-03-06.webp
+  alt: Richard Blaze shields Calcifer in darkness
+  caption: Richard Blaze kneels and holds Calcifer inside a cloud of magical darkness, one hand raised.
+- src: /images/gallery/2025-09-01-01.webp
+  alt: The Crona-Blaze family in the street
+  caption: Esther Crona and Richard Blaze stand on a cobbled old-town street with a small horned boy between them.
 ---
 
 **Child · son of the Lord Commander · officially deceased, in fact alive**

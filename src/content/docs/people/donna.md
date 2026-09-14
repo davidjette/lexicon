@@ -44,6 +44,13 @@ wa:
 image:
   src: /images/site/donna-1.webp
   alt: Donna
+gallery:
+- src: /images/gallery/2026-02-20-01.webp
+  alt: Donna of Zilspar Farm 02
+  caption: Donna, a red-haired Silver Flame cleric in pale robes with a belt of tools, smiles with a ledger in her arms.
+- src: /images/gallery/2026-04-27-05.webp
+  alt: Donna at the farm door
+  caption: Donna, the red-haired Silver Flame cleric in pale robes, holds a clipboard beside a grey-bearded man with a basket of fresh vegetables at the door of a farm greenhouse.
 ---
 
 **Species unrecorded · Cleric of the Silver Flame · Zilspar Farm 02 · Missing**

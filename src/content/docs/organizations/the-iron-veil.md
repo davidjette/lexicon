@@ -2,18 +2,18 @@
 title: The Iron Veil
 description: Sharn's City Watch, dissolved and absorbed into Esther Crona's pact-bound army - and unmade citywide the instant she said 'Your pact is void.'
 tags:
-  - The Iron Veil
-  - Iron Veil
-  - Sharn City Watch
-  - Esther Crona
-  - Veil Building
-  - ArcEye
-  - Arcane Eye
-  - Hillary Heinrick
-  - Stockton Thar
-  - Crona's Wall
-  - Fort Crona
-  - Veil Hound
+- The Iron Veil
+- Iron Veil
+- Sharn City Watch
+- Esther Crona
+- Veil Building
+- ArcEye
+- Arcane Eye
+- Hillary Heinrick
+- Stockton Thar
+- Crona's Wall
+- Fort Crona
+- Veil Hound
 image:
   src: /images/site/the-iron-veil-1.webp
   alt: Iron Veil Soldier
@@ -24,18 +24,34 @@ icon: fa-shield-halved
 fields:
   type: Military, Secret Police, Internal Security
 sources:
-  - sources/site/home.txt
-  - sources/site/rebel-factions.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/esther-crona.txt
-  - sources/site/key-figures.txt
-  - sources/site/ebt-7.txt
-  - sources/site/mission-board.txt
-  - worldanvil/CANON.md
+- sources/site/home.txt
+- sources/site/rebel-factions.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/esther-crona.txt
+- sources/site/key-figures.txt
+- sources/site/ebt-7.txt
+- sources/site/mission-board.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-iron-veil-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2025-12-03-03.webp
+  alt: Iron Veil emblem
+  caption: The red trident-like emblem of the Iron Veil on a black background, titled Iron Veil.
+- src: /images/gallery/2025-12-14-01.webp
+  alt: Iron Veil soldier
+  caption: An Iron Veil soldier in spiked red armour and horned helm, with a round shield and a red blade, stands on a terrace above the city.
+- src: /images/gallery/2025-12-17-01.webp
+  alt: Iron Veil soldier and patrol beast
+  caption: An Iron Veil soldier in red armour with a round shield and sword stands ready beside a snarling patrol beast on a walkway near an airship dock.
+- src: /images/gallery/2026-02-22-07.webp
+  alt: Dario charges on his black panther
+  caption: Sir Dario Argentino rides his black panther across a bridge with a flaming sword, bearing down on an Iron Veil soldier in red horned armour.
+- src: /images/gallery/2026-02-26-12.webp
+  alt: Iron Veil soldier and Veil Hound
+  caption: An Iron Veil soldier in red horned armour crouches with a sword and shield beside a gaunt, red-scarred patrol hound.
 ---
 
 **Type:** Military, Secret Police · **Seat:** the Veil Building, Upper City, Sharn · **Status:** Dissolved; remnant active

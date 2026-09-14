@@ -38,6 +38,13 @@ published: '2026-09-10'
 wa:
   slug: the-destruction-of-zilspar-farm-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-09-02-01.webp
+  alt: The battle at Zilspar Farm
+  caption: On a burning, corpse-strewn field, a bearded man in a red coat with a shield, a dragonborn swinging a warhammer and a woman with a blade fight grey armoured undead soldiers.
+- src: /images/gallery/2026-09-02-04.webp
+  alt: E.D.E.N. units among the ruins
+  caption: A bearded man in a red coat with a shield stands between two skeletal armoured soldiers among the burning ruins of a farm, a panther rider and crackling lightning behind them.
 ---
 
 **Massacre and arson · Zilspar Farm 02, the Breland farmsteads outside Sharn · Korth Ep 12**

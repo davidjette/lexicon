@@ -2,18 +2,18 @@
 title: Hallorn d'Lyrandar
 description: Khoravar engineer, playboy and Imperial Head of Transportation; built the Empire's airships, and died in his brother's club.
 tags:
-  - Hallorn d'Lyrandar
-  - Hallorn
-  - Lyrandar
-  - House Lyrandar
-  - Khoravar
-  - Mark of Storm
-  - Dragonmark of Flight
-  - Head of Transportation
-  - Airships
-  - Malrik Zeir
-  - Vex d'Lyrandar
-  - Aundair
+- Hallorn d'Lyrandar
+- Hallorn
+- Lyrandar
+- House Lyrandar
+- Khoravar
+- Mark of Storm
+- Dragonmark of Flight
+- Head of Transportation
+- Airships
+- Malrik Zeir
+- Vex d'Lyrandar
+- Aundair
 image:
   src: /images/site/hallorn-d-lyrandar-1.webp
   alt: Hallorn d'Lyrandar
@@ -35,17 +35,30 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/wa/hallorn-d-lyrandar-person-1.txt
-  - sources/site/key-figures.txt
-  - sources/site/pose-mission-notes.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/korth-episode-summaries.txt
-  - worldanvil/CANON.md
+- sources/wa/hallorn-d-lyrandar-person-1.txt
+- sources/site/key-figures.txt
+- sources/site/pose-mission-notes.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: hallorn-d-lyrandar-person-1
   uuid: b8f692c8-f945-4188-9010-fd807ce757c9
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+gallery:
+- src: /images/gallery/2026-02-10-01.webp
+  alt: Letter from Hallorn d'Lyrandar to Malrik
+  caption: A letter to Malrik signed Hallorn d'Lyrandar about delayed Umbra shipments, the Lord Commander's threats and Eden being deployed against the Hundreds, with Hallorn's portrait.
+- src: /images/gallery/2026-05-09-01.webp
+  alt: Hallorn d'Lyrandar waits at the safe house
+  caption: Hallorn d'Lyrandar leans against the wall by the Upper City safe house door as Eric the Cleric, Gemma Corso and Sir Dario Argentino arrive, while gold-masked Children of Ember cultists creep down the stairs behind them.
+- src: /images/gallery/2026-05-13-04.webp
+  alt: Hallorn d'Lyrandar stat block
+  caption: A creature stat block for "Hallorn d'Lyrandar", a half-elf rapier fighter with the Mark of Storm, battle master maneuvers and a storm step.
+- src: /images/gallery/2026-05-17-01.webp
+  alt: Hallorn, Lorian and Eric fight in the club
+  caption: Lorian charges across a dark lounge with a glowing fist while Eric the Cleric follows with a shield and Hallorn d'Lyrandar waits in a leather coat. The confrontation comes from the fight inside the Vault Underground.
 ---
 
 **Khoravar · Engineer / Pilot · House Lyrandar · Imperial Head of Transportation · Dead**

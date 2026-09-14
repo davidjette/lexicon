@@ -2,18 +2,18 @@
 title: Madame Tso Teryaki
 description: Matriarch of the Teryaki, keeper of the mountain's true history, and the woman who called the Inevitables grave robbers to their faces and was right.
 tags:
-  - Madame Tso Teryaki
-  - Madame Tso
-  - Tso Teryaki
-  - Teryaki
-  - Deeptempura
-  - Rak'tafur
-  - The Korramont
-  - Belt of Dwarvenkind
-  - General Tso
-  - Shavat
-  - Valtrex
-  - grave robbers
+- Madame Tso Teryaki
+- Madame Tso
+- Tso Teryaki
+- Teryaki
+- Deeptempura
+- Rak'tafur
+- The Korramont
+- Belt of Dwarvenkind
+- General Tso
+- Shavat
+- Valtrex
+- grave robbers
 image:
   src: /images/uploads/madame-tso-teryaki-mu0lp62e.webp
 type: person
@@ -34,14 +34,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
-  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
-  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
-  - sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/session-2026-07-17-recap.md
+- C:/dev/sharn-campaign/session-2026-08-07-recap.md
+- C:/dev/sharn-campaign/session-2026-08-21-recap.md
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: madame-tso-teryaki-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-07-20-08.webp
+  alt: Returning the belt to Madame Tso
+  caption: In a pillared hall of carved dragons and waiting dwarves, Eric the Cleric in a white wig and red coat hands an object to a white-haired duergar woman, with Gemma Corso and Sir Dario Argentino beside him. Madame Tso Teryaki names the party grave robbers and takes back her husband's Belt of Dwarvenkind.
 ---
 
 **Duergar (deep dwarf) · Matriarch of the Teryaki · The Teryaki clan · Alive**

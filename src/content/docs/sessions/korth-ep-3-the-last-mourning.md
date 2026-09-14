@@ -2,18 +2,18 @@
 title: Korth Ep 3 — The Last Mourning
 description: Vex d'Lyrandar dies on Locke Pierce's deck, and Locke demonstrates the Ruby Nova over the Mournlands as his answer to the bells.
 tags:
-  - Korth Ep 3
-  - The Last Mourning
-  - Ruby Nova
-  - Locke Pierce
-  - Vex d'Lyrandar
-  - Mt. Silicon
-  - Mournlands
-  - Mistborn illness
-  - Bright Dawn
-  - The Hundreds
-  - Project EDEN
-  - Fantanya Nyel
+- Korth Ep 3
+- The Last Mourning
+- Ruby Nova
+- Locke Pierce
+- Vex d'Lyrandar
+- Mt. Silicon
+- Mournlands
+- Mistborn illness
+- Bright Dawn
+- The Hundreds
+- Project EDEN
+- Fantanya Nyel
 image:
   src: /images/uploads/korth-ep-3-the-last-mourning-mu0s94cm.webp
 sidebar:
@@ -23,11 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/korth-episode-summaries.txt
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-3-E28094-the-last-mourning-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+gallery:
+- src: /images/gallery/2026-06-27-03.webp
+  alt: Watching the Ruby Nova
+  caption: Eric the Cleric, Gemma Corso, Lorian and an armoured companion, masked against the air, watch a vast red dome of energy rise from the horizon of a dead plain.
+- src: /images/gallery/2026-06-27-05.webp
+  alt: A winged paladin above the Cyrean portal
+  caption: A winged armoured paladin with a flaming sword dives over a glowing portal in a twisted black arch as the undead reach up from the mud below.
+- src: /images/gallery/2026-06-27-09.webp
+  alt: The Mournland portal under siege
+  caption: A Hundreds airship flies over a dead grey plain where a horde of undead surrounds a glowing portal in a twisted black arch.
+- src: /images/gallery/2026-06-27-01.webp
+  alt: Charging Vex on the warship deck
+  caption: Eric the Cleric, Lorian and Gemma Corso run across the deck of the Hundreds' warship toward Vex d'Lyrandar, who hangs in the air crackling with lightning.
+- src: /images/gallery/2026-06-27-02.webp
+  alt: The gate of Mt. Silicon
+  caption: A giant warforged stands guard beside a fortified gate cut into a grey cliff at the end of a stone causeway, in a misty dead landscape.
+- src: /images/gallery/2026-06-27-04.webp
+  alt: A portal in the Mournland
+  caption: A ring of white light glows inside a twisted black stone arch standing in a flat, dead green-grey waste beneath jagged spires.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 3 · DM: Dave**

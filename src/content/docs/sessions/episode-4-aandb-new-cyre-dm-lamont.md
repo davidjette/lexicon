@@ -30,6 +30,10 @@ wa:
   slug: episode-4-28a26amp3Bb29-E2809Cnew-cyreE2809D-dm3A-lamont-report
   uuid: 8a5acd2d-bab3-45aa-b544-33788ffd47e6
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+gallery:
+- src: /images/gallery/2026-02-15-01.webp
+  alt: Episode 4 "New Cyre" summary screenshot
+  caption: 'A screenshot of a written summary headed "Episode 4 (a&b) ''New Cyre'' DM: LaMont": the party goes to New Cyre to learn whether Father White is a rebel, finds the drug Embrace, and the mission fails.'
 ---
 
 **The Unforeseen · Campaign 1 · Episode 4 (a&b) · DM: LaMont · Report filed 11 Sep 2020**

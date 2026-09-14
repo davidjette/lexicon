@@ -2,18 +2,18 @@
 title: Sharn Ep 17 — The Vault Underground
 description: Dario kills Malrik Zeir on the rooftop, Esther kills the Mother Prophet, and then takes Calcifer and Gemma into the sky.
 tags:
-  - Sharn Ep 17
-  - The Vault Underground
-  - Malrik Zeir
-  - Faith Zeir
-  - Mother Prophet
-  - Children of Ember
-  - Calcifer
-  - Esther Crona
-  - Whole Foods
-  - The Nest
-  - Lorian
-  - Hallorn d'Lyrandar
+- Sharn Ep 17
+- The Vault Underground
+- Malrik Zeir
+- Faith Zeir
+- Mother Prophet
+- Children of Ember
+- Calcifer
+- Esther Crona
+- Whole Foods
+- The Nest
+- Lorian
+- Hallorn d'Lyrandar
 image:
   src: /images/uploads/sharn-ep-17-the-vault-underground-mu0s296g.webp
 sidebar:
@@ -23,11 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-17-E28094-the-vault-underground-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-05-13-02.webp
+  alt: Recruiter stat block
+  caption: A creature stat block for the "Recruiter", a Medium humanoid with Umbra syringes, Umbra-drugged effects and an Umbra powder burst.
+- src: /images/gallery/2026-05-13-03.webp
+  alt: Children of Ember stat block
+  caption: 'A creature stat block for a "Children of Ember" cultist: a Medium humanoid spellcaster with fire bolt, burning hands and hold person.'
+- src: /images/gallery/2026-05-13-04.webp
+  alt: Hallorn d'Lyrandar stat block
+  caption: A creature stat block for "Hallorn d'Lyrandar", a half-elf rapier fighter with the Mark of Storm, battle master maneuvers and a storm step.
+- src: /images/gallery/2026-05-14-02.webp
+  alt: Faith Zeir stat block
+  caption: A creature stat block for "Faith Zeir", a Medium tiefling spellcaster with the Mother Prophet trait, Ember Shield and Ember Nova.
+- src: /images/gallery/2026-05-15-02.webp
+  alt: The Vault Underground 3rd Level VIP pass
+  caption: 'A prop VIP pass for The Vault Underground, one pass granting access to all three levels: the Inferno, the Purgatory and the Maelstrom. It also lists a private booth, one free drink and a table dancer of your choice.'
+- src: /images/gallery/2026-05-15-03.webp
+  alt: The Vault Underground drink menu
+  caption: A prop drink menu for The Vault Underground, framed by a red dragon. It lists Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 17 · DM: Nichole**

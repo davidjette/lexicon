@@ -36,6 +36,10 @@ published: '2026-09-10'
 wa:
   slug: scallion-pancake-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-07-29-02.webp
+  alt: General Tso speaks with the dead
+  caption: A kneeling horned duergar casts green light over a wrapped corpse among bones, watched by Eric the Cleric in a white wig and red coat and Gemma Corso. General Tso casts speak with dead on Scallion Pancake.
 ---
 
 **Duergar (deep dwarf) · of the Deeptempura · House Deeptempura · Dead**

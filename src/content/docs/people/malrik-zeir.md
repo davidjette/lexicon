@@ -2,18 +2,18 @@
 title: Malrik Zeir
 description: The Valenar high elf vampire beneath the Vault Underground, who grew the Umbra for Project E.D.E.N. and kept his victims in the Pantry.
 tags:
-  - Malrik Zeir
-  - Malrik
-  - Zeir
-  - Vampire
-  - Valenar
-  - Umbra
-  - Children of Ember
-  - The Vault Underground
-  - Faith Zeir
-  - Hallorn d'Lyrandar
-  - Project EDEN
-  - Blood Cattle
+- Malrik Zeir
+- Malrik
+- Zeir
+- Vampire
+- Valenar
+- Umbra
+- Children of Ember
+- The Vault Underground
+- Faith Zeir
+- Hallorn d'Lyrandar
+- Project EDEN
+- Blood Cattle
 image:
   src: /images/uploads/malrik-zeir-mu0lxrpw.webp
 type: person
@@ -34,15 +34,34 @@ fields:
   height: Unknown - described as unmistakably imposing
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/children-of-ember.txt
-  - sources/site/mission-board.txt
-  - sources/site/sharn-episode-summaries.txt
-  - worldanvil/images/key-figures/06.jpg
+- sources/site/key-figures.txt
+- sources/site/children-of-ember.txt
+- sources/site/mission-board.txt
+- sources/site/sharn-episode-summaries.txt
+- worldanvil/images/key-figures/06.jpg
 published: '2026-09-10'
 wa:
   slug: malrik-zeir-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-01-01-01.webp
+  alt: Faith and Malrik Zeir
+  caption: Faith, a horned woman in a red off-shoulder gown, stands beside Malrik Zeir, a pale-haired elf in dark ornate armour.
+- src: /images/gallery/2026-02-10-02.webp
+  alt: Letter from Malrik Zier to Hallorn
+  caption: A sealed letter to Hallorn signed Malrik Zier about Faith, Esther and the EDEN units in the Mournlands, with Malrik's portrait.
+- src: /images/gallery/2026-02-10-04.webp
+  alt: Letter from Malrik Zier to Hallorn
+  caption: A short sealed letter to Hallorn signed Malrik Zier about Esther mining Khyber and keeping her calm and focused, with Malrik's portrait.
+- src: /images/gallery/2026-02-17-04.webp
+  alt: Faith and Malrik Zeir embracing
+  caption: Faith, in a red gown, and Malrik Zeir, in dark armour, stand close together holding hands against a stone wall.
+- src: /images/gallery/2026-02-17-07.webp
+  alt: Faith and Malrik Zeir in the ritual chamber
+  caption: Faith and Malrik Zeir stand hand in hand in a fire-lit chamber of candles, skulls and red iron.
+- src: /images/gallery/2026-03-17-02.webp
+  alt: 'The MZ note: deliver out-of-towners'
+  caption: 'A hand holds a torn note in a sewer tunnel: "For special clients only. Deliver young, attractive out-of-towners to the marked tunnel. Keep them bound and hooded. No injuries. Payment on delivery. - MZ" It is the note recovered from the Drain Snakes suggesting Malrik Zeir paid them for captives.'
 ---
 
 **Valenar high elf · Vampire · "Father" of the Children of Ember · Body destroyed; mist escaped**

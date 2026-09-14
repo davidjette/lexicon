@@ -39,6 +39,10 @@ published: '2026-09-10'
 wa:
   slug: zilspar-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+gallery:
+- src: /images/gallery/2026-04-27-05.webp
+  alt: Donna at the farm door
+  caption: Donna, the red-haired Silver Flame cleric in pale robes, holds a clipboard beside a grey-bearded man with a basket of fresh vegetables at the door of a farm greenhouse.
 ---
 
 **Farming settlement · Breland, outside Sharn · Fulcrum stronghold · DESTROYED**

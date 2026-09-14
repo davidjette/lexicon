@@ -33,6 +33,13 @@ published: '2026-09-10'
 wa:
   slug: the-spine-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+gallery:
+- src: /images/gallery/2026-03-29-08.webp
+  alt: Clearing the collapsed tunnel
+  caption: Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel, Doppler cutting stone with a blue beam and Snodgrass hauling a boulder, to reach the trapped Cogborn.
+- src: /images/gallery/2026-03-30-03.webp
+  alt: Dario leads the Cogborn through the tunnels
+  caption: Sir Dario Argentino rides his black panther at the head of a long column of Cogborn families through a lamplit tunnel.
 ---
 
 **Tunnel · beneath [Sharn](/places/sharn/), within [the Underhive](/organizations/the-underhive/) · Evacuation route · Open**

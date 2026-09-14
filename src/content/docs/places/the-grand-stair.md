@@ -30,6 +30,14 @@ published: '2026-09-10'
 wa:
   slug: the-grand-stair-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
+image:
+  src: /images/gallery/2026-07-20-02.webp
+  alt: The reliefs of the Grand Stair
+  caption: A ruined stone chamber opens onto a stair descending into light, its walls carved with deep reliefs including a coiled dragon, the floor strewn with rubble and bones.
+gallery:
+- src: /images/gallery/2026-07-20-03.webp
+  alt: Before the reliefs of the Grand Stair
+  caption: Three figures, one armoured and two cloaked, stand before the carved dragon reliefs at the head of the stair down into the mountain.
 ---
 
 **Stairway and relief gallery - the descent into the Korramont**

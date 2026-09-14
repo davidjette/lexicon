@@ -44,6 +44,9 @@ gallery:
 - src: /images/album/korth-undead-corpse-transfer.webp
   alt: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
   caption: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
+- src: /images/gallery/2026-07-12-16.webp
+  alt: Skull-masked rider in the streets of Korth
+  caption: The skull-masked samurai rides a black horse down a rain-slick gothic street under airships, past a red poster reading "Loyalty is its own reward".
 ---
 
 **City · Kingdom of Karrnath · Political capital and ceremonial seat of the Pax Imperium · Standing**

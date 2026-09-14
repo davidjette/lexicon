@@ -2,16 +2,16 @@
 title: Chelsea Heinrick
 description: Eight years old, the lone soft edge of an Imperial household, and Calcifer's only playmate. Both her parents died between two episodes.
 tags:
-  - Chelsea Heinrick
-  - Chelsea
-  - Heinrick
-  - Henry Heinrick
-  - Hillary Heinrick
-  - Calcifer
-  - Sharn
-  - Veil Building
-  - Pax Imperium
-  - Children of the Empire
+- Chelsea Heinrick
+- Chelsea
+- Heinrick
+- Henry Heinrick
+- Hillary Heinrick
+- Calcifer
+- Sharn
+- Veil Building
+- Pax Imperium
+- Children of the Empire
 image:
   src: /images/uploads/chelsea-heinrick-mu0i1kkp.webp
 type: person
@@ -32,14 +32,21 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - sources/site/key-figures.txt
-  - sources/site/esther-crona.txt
-  - sources/site/sharn-episode-summaries.txt
-  - worldanvil/CANON.md
+- sources/site/key-figures.txt
+- sources/site/esther-crona.txt
+- sources/site/sharn-episode-summaries.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: chelsea-heinrick-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+gallery:
+- src: /images/gallery/2025-12-16-05.webp
+  alt: The Heinrick family
+  caption: 'Portrait of the Heinrick family: a bearded man in braces holding papers, a woman in a long red dress, and a small girl in blue between them.'
+- src: /images/gallery/2026-02-26-15.webp
+  alt: The Heinrick family
+  caption: Henry Heinrick in braces and tie, Hillary Heinrick in a long red dress, and their daughter Chelsea in a blue dress pose for a family portrait.
 ---
 
 **Species unrecorded · Child · The Heinrick household, Sharn · Fate unrecorded**

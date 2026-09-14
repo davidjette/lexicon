@@ -2,18 +2,18 @@
 title: The Forge of Binding
 description: The ancient forge in the Dhakaani depths beneath Sharn where Varyn Crona and E'noch Qualanthri performed the Eternal Guardian ritual.
 tags:
-  - The Forge of Binding
-  - Eternal Guardian
-  - Varyn Crona
-  - E'noch Qualanthri
-  - Enoch
-  - Dhakaani
-  - Renn Tal
-  - Esther Crona
-  - Sharn
-  - undercity
-  - Rite of Recall
-  - mind flayer
+- The Forge of Binding
+- Eternal Guardian
+- Varyn Crona
+- E'noch Qualanthri
+- Enoch
+- Dhakaani
+- Renn Tal
+- Esther Crona
+- Sharn
+- undercity
+- Rite of Recall
+- mind flayer
 image:
   src: /images/uploads/forging-of-the-blade-of-binding-mu0v9lvl.webp
 type: landmark
@@ -30,12 +30,28 @@ fields:
   history: Reached by the Inevitables through a boarded sewer door; the Echo was called and the Forge went dark, and an Imperial drill broke through the ceiling moments later
   sensory: Cold stone, standing water, and afterwards a haze of red-black light
 sources:
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/rebel-factions.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: the-forge-of-binding-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+gallery:
+- src: /images/gallery/2026-02-20-03.webp
+  alt: Archivist's Addendum by Renn Tal
+  caption: 'A prop document titled "Archivist''s Addendum, Recorded by Archivist Renn Tal, 1047 YK": notes on the Forge of Binding and the Eternal Guardian rite, studied by directive of Lord Commander Esther Crona, ending "I am getting close. I know too much."'
+- src: /images/gallery/2026-04-30-01.webp
+  alt: 'Scroll: The Call of the Severed'
+  caption: 'A hand holds a scroll titled "The Call of the Severed" before a great forge: "By blood unbound and soul laid bare, Varyn Crona, hear the Call of the Severed... return now to your place of binding." It is the Rite of Recall read at the Forge of Binding.'
+- src: /images/gallery/2026-04-30-02.webp
+  alt: 'Scroll: Forge, hear me'
+  caption: 'A dragonborn''s gauntleted hand holds a scroll before the forge: "Forge, hear me. By steel, by breath, by will... I bind the frost of my ancestry into this blade. Let it carry the warrior I am." It is Sir Dario Argentino binding elemental cold into his weapon.'
+- src: /images/gallery/2026-05-02-06.webp
+  alt: Esther Crona rides the drill down
+  caption: A massive drill has broken through the ceiling and lies in the rubble of the chamber, with Esther Crona standing on top of it in a dark cloak.
+- src: /images/gallery/2026-05-02-01.webp
+  alt: The party before the Forge of Binding
+  caption: Sir Dario Argentino, Eric the Cleric and Gemma Corso stand before the Forge of Binding as a red, burning figure rises from its fire between braziers of blue flame.
 ---
 
 **Dungeon · Dhakaani depths beneath [Sharn](/places/sharn/) · Ritual forge · EXTINGUISHED**

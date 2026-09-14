@@ -44,6 +44,16 @@ wa:
 image:
   src: /images/site/supreme-admiral-vex-d-lyrandar-1.webp
   alt: Supreme Admiral Vex d'Lyrandar
+gallery:
+- src: /images/gallery/2026-06-15-04.webp
+  alt: Vex d'Lyrandar rises at the Thronehold Summit
+  caption: Admiral Vex d'Lyrandar rises into the air wrapped in lightning above the Summit hall while Eric the Cleric stands at a lectern and red-robed guards and sisters watch.
+- src: /images/gallery/2026-06-21-05.webp
+  alt: Vex d'Lyrandar in the storm
+  caption: Vex d'Lyrandar hovers wreathed in lightning over smoking ruins as a masked figure in a long coat stands facing him.
+- src: /images/gallery/2026-06-27-01.webp
+  alt: Charging Vex on the warship deck
+  caption: Eric the Cleric, Lorian and Gemma Corso run across the deck of the Hundreds' warship toward Vex d'Lyrandar, who hangs in the air crackling with lightning.
 ---
 
 **Khoravar · Fleetmaster Admiral · House Lyrandar / Imperial Navy and Aerial Command · Dead**

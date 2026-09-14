@@ -44,6 +44,22 @@ wa:
 image:
   src: /images/site/doppler-klink-1.webp
   alt: Doppler Klink
+gallery:
+- src: /images/gallery/2026-02-23-03.webp
+  alt: Doppler Klink at his Arcane Gear stall
+  caption: A painted portrait of Doppler Klink at his market stall under a sign reading "Doppler Klink Arcane Gear", with a shoulder-mounted device and a sign offering wands for 10 sovereigns.
+- src: /images/gallery/2026-03-01-04.webp
+  alt: Snodgrass and Doppler Klink
+  caption: Snodgrass, in his red cap and fur kilt, stands beside Doppler Klink in a dark control room lit by red strips.
+- src: /images/gallery/2026-02-23-07.webp
+  alt: Doppler Klink, character render
+  caption: A stylised render of Doppler Klink, grey-haired with a peg leg, a long coat, a glowing staff and a shoulder-mounted device.
+- src: /images/gallery/2026-02-23-08.webp
+  alt: Doppler Klink at his stall
+  caption: Doppler Klink stands among the wares of his cluttered stall, a glowing device on his shoulder.
+- src: /images/gallery/2026-03-23-06.webp
+  alt: Renn Tal and Doppler Klink fight sewer rats
+  caption: Renn Tal, in her red waistcoat, and the grey-haired Doppler Klink, with his mechanical leg, send a crackle of purple magic into a pack of rats in a sewer tunnel.
 ---
 
 **Cogborn · Tinkerer · Last War veteran · Alive, departed Sharn**

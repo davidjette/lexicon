@@ -2,18 +2,18 @@
 title: Red Khyber
 description: Mined out of the Glass Plateau by Project E.D.E.N.'s undead, shipped through BioTec, and put to ends the rebellion has never been able to establish.
 tags:
-  - Red Khyber
-  - Red Kyber
-  - Khyber
-  - Glass Plateau
-  - Mournlands
-  - Project EDEN
-  - Project E.D.E.N.
-  - BioTec
-  - Martin Kross
-  - Vex d'Lyrandar
-  - Jessica Grimpledink
-  - Black Khyber
+- Red Khyber
+- Red Kyber
+- Khyber
+- Glass Plateau
+- Mournlands
+- Project EDEN
+- Project E.D.E.N.
+- BioTec
+- Martin Kross
+- Vex d'Lyrandar
+- Jessica Grimpledink
+- Black Khyber
 image:
   src: /images/uploads/red-khyber-mu10itsy.webp
 type: material
@@ -24,14 +24,24 @@ fields:
   rarity: Mined from the irradiated Glass Plateau
   owner: The Empire, via BioTec
 sources:
-  - worldanvil/sources/site/mission-board.txt
-  - worldanvil/sources/site/pose-mission-notes.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/korth-episode-summaries.txt
+- worldanvil/sources/site/mission-board.txt
+- worldanvil/sources/site/pose-mission-notes.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: red-khyber-material
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+gallery:
+- src: /images/gallery/2026-03-24-02.webp
+  alt: Letter from Dr. Joanne Menka to Edwin
+  caption: 'A typed transcript of a letter to Edwin signed Dr. Joanne Menka: Cob Cornwell''s death has been categorized as accidental and his assets transferred, and Red Khyber output from the Mournlands is exceeding projections with shipments en route to Fort Crona.'
+- src: /images/gallery/2026-09-03-01.webp
+  alt: Jessica Grimpledink and the wedding gift
+  caption: In a dark gothic apartment, Jessica Grimpledink reaches toward a floating black and red crystalline object by the fireplace while Gemma Corso lounges on a sofa and Eric the Cleric and Sir Dario Argentino look on. Jessica has found that Esther's wedding gift is both black and red Khyber.
+- src: /images/gallery/2026-09-03-03.webp
+  alt: Esther's wedding gift
+  caption: A spiked black crystalline object with a glowing red heart floats in a dark room framed by gold pillars.
 ---
 
 **Material · Mined from the Glass Plateau, the Mournlands · Extracted by Project E.D.E.N. units · Shipped through BioTec · Purpose unknown**

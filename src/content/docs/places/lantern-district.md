@@ -36,6 +36,13 @@ image:
   src: /images/site/lantern-district-1.webp
   alt: Lantern District — Northwest
   caption: Lantern District — Northwest
+gallery:
+- src: /images/gallery/2026-02-22-09.webp
+  alt: The trio at a lantern-lit food stall
+  caption: Eric, Gemma and Dario lean on the counter of a crowded food stall under red paper lanterns while a cook serves.
+- src: /images/gallery/2026-02-25-02.webp
+  alt: Map of Sharn's Lower City
+  caption: A district map titled "Sharn Lower City", showing the Lantern District, City Center and the Ziggurat, the Sub-Line District, the Grand Aqueduct, the Small Waterway, the Cogs, Gear St. Markets and Lowline Ward.
 ---
 
 **District · [Lower City](/places/the-lower-city/), northwest · Nightlife quarter · Standing**

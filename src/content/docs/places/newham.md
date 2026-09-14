@@ -41,6 +41,10 @@ wa:
   slug: newham-settlement
   uuid: aff701ba-2761-4fed-ade5-90e83a61fe0a
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+image:
+  src: /images/gallery/2025-06-08-01.webp
+  alt: Map of the City of Newham
+  caption: 'A top-down city map labelled City of Newham: a walled town wrapped around a harbour and river channels, with farmland outside the walls and a numbered location key.'
 ---
 
 **City · eastern Khorvaire · The gateway to the East · DESTROYED**

@@ -35,6 +35,10 @@ published: '2026-09-10'
 wa:
   slug: thronehold-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+gallery:
+- src: /images/gallery/2026-06-21-04.webp
+  alt: Warships bombard Thronehold
+  caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
 ---
 
 **Island city and neutral ground · Khorvaire · Site of the Peace Summit · Ruined and bombarded**

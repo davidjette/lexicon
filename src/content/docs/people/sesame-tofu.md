@@ -34,6 +34,10 @@ published: '2026-09-10'
 wa:
   slug: sesame-tofu-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-07-20-04.webp
+  alt: The dead outrider in the pocket cave
+  caption: The trio stand over a dead grey-skinned dwarf in a cave, with scattered coins and a wax-sealed crest rubbing on the ground before them. The dead mourner, later named Sesame Tofu, carries a family crest rubbing from House Moo Goo Gai Pan.
 ---
 
 **Duergar (deep dwarf) · Outrider of the mourning-party · The Teryaki clan · Dead**

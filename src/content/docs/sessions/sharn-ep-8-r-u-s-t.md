@@ -2,18 +2,18 @@
 title: Sharn Ep 8 — R.U.S.T.
 description: Dario wins at Breakers Pit and an invitation from Queen B; beneath a pawn shop the trio meet Preacher and R.U.S.T.
 tags:
-  - Sharn Ep 8
-  - R.U.S.T.
-  - Preacher
-  - Queen B
-  - Blair
-  - Underhive
-  - Cogborn
-  - Breakers Pit
-  - Drain Snakes
-  - Gorgonhorn
-  - Misty Kross
-  - Renn Tal
+- Sharn Ep 8
+- R.U.S.T.
+- Preacher
+- Queen B
+- Blair
+- Underhive
+- Cogborn
+- Breakers Pit
+- Drain Snakes
+- Gorgonhorn
+- Misty Kross
+- Renn Tal
 image:
   src: /images/uploads/sharn-ep-8-r-u-s-t-mu0rnfgi.webp
 sidebar:
@@ -23,11 +23,18 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-8-E28094-rust-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-01-16-02.webp
+  alt: 'Breakers Pit fighter card: Biff, Tier 1'
+  caption: 'A Breakers Pit fighter card for Biff, a scarred brawler in a fur-collared coat with a knife and pistol: Tier 1, entry fee 150 gp.'
+- src: /images/gallery/2026-03-01-01.webp
+  alt: Dario fights at Breaker's Pit
+  caption: An armoured knight with a shield and warhammer duels a bearded brawler with a blade in a packed underground arena.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 8 · DM: Nichole**

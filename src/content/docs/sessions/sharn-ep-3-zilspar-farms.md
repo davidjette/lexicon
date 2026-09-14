@@ -2,17 +2,17 @@
 title: Sharn Ep 3 — Zilspar Farms
 description: Sister Nora is hidden beneath Zilspar Farm 02, and an entire Iron Veil patrol is wiped out and burned by the farmers.
 tags:
-  - Sharn Ep 3
-  - Zilspar Farms
-  - Zilspar Farm 02
-  - Sister Nora
-  - Donna
-  - Iron Veil
-  - Veil Hound
-  - Izaak
-  - Zero of Sharn
-  - Silver Flame
-  - Cogborn
+- Sharn Ep 3
+- Zilspar Farms
+- Zilspar Farm 02
+- Sister Nora
+- Donna
+- Iron Veil
+- Veil Hound
+- Izaak
+- Zero of Sharn
+- Silver Flame
+- Cogborn
 image:
   src: /images/uploads/sharn-ep-3-zilspar-farms-mu0qzvol.webp
   alt: 'Episode 3: Zilspar Farms'
@@ -24,15 +24,18 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-3-E28094-zilspar-farms-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-  - src: /images/site/sharn-ep-3-zilspar-farms-2.webp
-    alt: 'Episode 3: Zilspar Farms'
-    caption: 'Episode 3: Zilspar Farms'
+- src: /images/site/sharn-ep-3-zilspar-farms-2.webp
+  alt: 'Episode 3: Zilspar Farms'
+  caption: 'Episode 3: Zilspar Farms'
+- src: /images/gallery/2026-02-11-10.webp
+  alt: The trio questions Sister Nora
+  caption: Eric, Gemma and Dario lean in around Sister Nora, seated in her Black Dove habit, as Gemma presses her with questions.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 3 · DM: Nichole**

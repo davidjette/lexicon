@@ -2,18 +2,18 @@
 title: City of Knives
 description: The Crimson Sun sends the Unforeseen to find and neutralise a mole on the Imperial Assembly at the Interoperability Summit in Sharn.
 tags:
-  - City of Knives
-  - The Unforeseen
-  - Hayman Maw
-  - Hamen Maw
-  - Haymen Maw
-  - Fanta Rhodes
-  - Fred Walker
-  - Imperial Assembly
-  - Interoperability Summit
-  - Rekkenmark
-  - Rekkenmark East
-  - Dr. Marble
+- City of Knives
+- The Unforeseen
+- Hayman Maw
+- Hamen Maw
+- Haymen Maw
+- Fanta Rhodes
+- Fred Walker
+- Imperial Assembly
+- Interoperability Summit
+- Rekkenmark
+- Rekkenmark East
+- Dr. Marble
 image:
   src: /images/uploads/sharn-01a-mu0wpe69.webp
 type: plot
@@ -21,15 +21,19 @@ kind: history
 icon: fa-user-secret
 fields: {}
 sources:
-  - worldanvil/sources/wa/city-of-knives-plot.txt
-  - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
-  - worldanvil/sources/wa/blood-of-vol-organization.txt
-  - worldanvil/CANON.md
+- worldanvil/sources/wa/city-of-knives-plot.txt
+- worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
+- worldanvil/sources/wa/blood-of-vol-organization.txt
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: city-of-knives-plot
   uuid: 99f69a46-2ea6-4887-9768-423398cfddd6
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-02-15-02.webp
+  alt: Interoperability Summit relationship chart
+  caption: A relationship chart titled "Central Khorvaire Transit Interoperability Summit", with portrait tokens for its chairs Heighrick, Spear and d'Orien, deputy chairs Goldenhew, Devir, d'Sivis and d'Lyrandar, and the delegations of Cornwell, Hornblast, Sominyard, Tremblepike, LeBeefe, Gloomstalker and Olba.
 ---
 
 **Plot · Campaign 1, The Unforeseen · Sharn, the Interoperability Summit · Crimson Sun operation, four nights and three days**

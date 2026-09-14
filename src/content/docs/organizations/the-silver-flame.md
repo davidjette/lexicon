@@ -34,6 +34,13 @@ published: '2026-09-10'
 wa:
   slug: the-silver-flame-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-06-10-03.webp
+  alt: Winged dragonborn paladin on the battlefield
+  caption: A winged dragonborn paladin with a flaming sword and flame-marked shield stands in a ruined battlefield beneath flame banners.
+- src: /images/gallery/2026-06-27-11.webp
+  alt: Paladins hold the portal
+  caption: A winged paladin with a flaming sword and a line of armoured knights hold a glowing portal against a horde of rotting undead.
 ---
 
 **Religious order · Outlawed by the Empire · Active and armed**

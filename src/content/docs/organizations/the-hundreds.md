@@ -34,6 +34,16 @@ published: '2026-09-10'
 wa:
   slug: the-hundreds-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-06-21-03.webp
+  alt: Vex attacks the Hundreds' warship
+  caption: Vex d'Lyrandar flies at a massive warship over the sea beside Thronehold, lightning crackling around him, as Gemma Corso, Eric the Cleric and Lorian stand on its deck.
+- src: /images/gallery/2026-06-27-02.webp
+  alt: The gate of Mt. Silicon
+  caption: A giant warforged stands guard beside a fortified gate cut into a grey cliff at the end of a stone causeway, in a misty dead landscape.
+- src: /images/gallery/2026-06-28-05.webp
+  alt: The Hundreds' control chamber
+  caption: Warforged move through a dim control chamber of consoles facing a large screen that shows a portal in a dead land.
 ---
 
 **Warforged nation · The Mournlands and the Glass Plateau · Active, influence growing**

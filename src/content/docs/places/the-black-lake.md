@@ -31,6 +31,10 @@ published: '2026-09-10'
 wa:
   slug: the-black-lake-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
+gallery:
+- src: /images/gallery/2026-08-26-01.webp
+  alt: Eric rides Valtrex over the black lake
+  caption: A horned black dragon crouches over a glowing green acid lake while a man in a red coat rides its back with a mace raised. Eric teleports onto Valtrex's back and shatters his collar.
 ---
 
 **Subterranean lake and dragon lair - the bottom of the Korramont**

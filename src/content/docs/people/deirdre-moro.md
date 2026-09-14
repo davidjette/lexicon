@@ -2,18 +2,18 @@
 title: Deirdre Moro
 description: Star Advocate of the Ministry of Law, prosecutor of crimes against records, and almost certainly the author of her own sister's death warrant.
 tags:
-  - Deirdre Moro
-  - Deedra Mora
-  - Deirdre Mora
-  - Advocate Moro
-  - Moro
-  - Ministry of Law
-  - Star Advocate
-  - Korth
-  - Karrnathi law
-  - Freyd Merkin
-  - Graham Cracker
-  - Bantide Moro
+- Deirdre Moro
+- Deedra Mora
+- Deirdre Mora
+- Advocate Moro
+- Moro
+- Ministry of Law
+- Star Advocate
+- Korth
+- Karrnathi law
+- Freyd Merkin
+- Graham Cracker
+- Bantide Moro
 image:
   src: /images/uploads/deirdre-moro-mu0i4ddr.webp
 type: person
@@ -34,22 +34,34 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - C:/dev/sharn-campaign/deirdre-moro-cases.md
-  - C:/dev/sharn-campaign/npcs-korth.md
-  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
-  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-  - sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/deirdre-moro-cases.md
+- C:/dev/sharn-campaign/npcs-korth.md
+- C:/dev/sharn-campaign/session-2026-09-04-summary.md
+- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: deirdre-moro-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-  - src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
-    alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
-    caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
-  - src: /images/album/gemma-as-deirdre-moro-with-director-chandler.webp
-    alt: Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Ko
-    caption: 'Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Korth Episode: The Listening Post'
+- src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
+  caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
+- src: /images/album/gemma-as-deirdre-moro-with-director-chandler.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Ko
+  caption: 'Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Korth Episode: The Listening Post'
+- src: /images/gallery/2026-07-12-01.webp
+  alt: The disguised trio in Deirdre Moro's apartment
+  caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
+- src: /images/gallery/2026-07-12-04.webp
+  alt: Ambush in a Korth apartment
+  caption: A long-haired elf hurls violet magic while an armoured knight swings a glowing sword, and a woman at a tarot table sits amid floating cards beside two dark-haired elf women in red gowns. The scene recalls the killing of the real Deirdre Moro's household, which included a tarot reader.
+- src: /images/gallery/2026-07-12-13.webp
+  alt: Gemma Corso as Deirdre Moro, in a red gown
+  caption: A dark-haired elf woman in a one-shouldered burgundy gown with a rose at the shoulder stands in a candlelit stone hall. It is the face of Deirdre Moro, worn by Gemma Corso as a cover identity.
+- src: /images/gallery/2026-07-12-21.webp
+  alt: Gemma Corso as Deirdre Moro, armed
+  caption: The dark-haired elf woman wears a fitted bronze breastplate and a long red cloak, holding a glowing silver sword in a candlelit hall. It is Gemma Corso in her Deirdre Moro disguise.
 ---
 
 **Species unrecorded · Star Advocate, Ministry of Law · The Empire · Dead — killed by the Inevitables**

@@ -38,6 +38,22 @@ published: '2026-09-10'
 wa:
   slug: the-thronehold-massacre-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+gallery:
+- src: /images/gallery/2026-06-15-04.webp
+  alt: Vex d'Lyrandar rises at the Thronehold Summit
+  caption: Admiral Vex d'Lyrandar rises into the air wrapped in lightning above the Summit hall while Eric the Cleric stands at a lectern and red-robed guards and sisters watch.
+- src: /images/gallery/2026-06-21-04.webp
+  alt: Warships bombard Thronehold
+  caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
+- src: /images/gallery/2026-06-21-05.webp
+  alt: Vex d'Lyrandar in the storm
+  caption: Vex d'Lyrandar hovers wreathed in lightning over smoking ruins as a masked figure in a long coat stands facing him.
+- src: /images/gallery/2026-06-15-08.webp
+  alt: Rotunda Goose
+  caption: Parliamentarian Rotunda Goose, a large woman in an elaborate red gown with a plumed hat over white curls, stands with her hands on her hips in a candlelit stone hall.
+- src: /images/gallery/2026-06-21-02.webp
+  alt: Escape from the burning Summit hall
+  caption: Eric the Cleric gallops on a palomino as Lorian and a woman run beside him, fleeing an explosion through a crowded hall at Thronehold.
 ---
 
 **Peace summit, destroyed · Thronehold · Korth Ep 1–2 · Three years after the fall of Sharn**

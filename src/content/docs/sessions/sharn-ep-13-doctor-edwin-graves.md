@@ -2,17 +2,17 @@
 title: Sharn Ep 13 — Doctor Edwin Graves
 description: A divination points at Circuit City, where Edwin Graves is unmasked as the Cog Collector and BioTec's secret owner.
 tags:
-  - Sharn Ep 13
-  - Doctor Edwin Graves
-  - Edwin Graves
-  - Cog Collector
-  - Circuit City
-  - BioTec
-  - ArcEye Crystallizer
-  - Cogborn
-  - Gear Street Market
-  - Hopper's
-  - Project EDEN
+- Sharn Ep 13
+- Doctor Edwin Graves
+- Edwin Graves
+- Cog Collector
+- Circuit City
+- BioTec
+- ArcEye Crystallizer
+- Cogborn
+- Gear Street Market
+- Hopper's
+- Project EDEN
 image:
   src: /images/uploads/sharn-ep-13-doctor-edwin-graves-mu0rwhrp.webp
 sidebar:
@@ -22,11 +22,27 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-13-E28094-doctor-edwin-graves-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-04-04-01.webp
+  alt: Dr. Edwin Graves among his captives
+  caption: Dr. Edwin Graves, masked and in a long black coat, stands before cages of emaciated prisoners reaching through the bars in a red-lit backroom.
+- src: /images/gallery/2026-04-04-02.webp
+  alt: The abomination in Circuit City's backroom
+  caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino fight a hulking flesh abomination among the tanks and machinery of Edwin Graves's hidden laboratory behind Circuit City.
+- src: /images/gallery/2026-04-04-04.webp
+  alt: Edwin Graves over a fallen Dario
+  caption: The masked Dr. Edwin Graves in his black coat bends over Sir Dario Argentino, who has fallen to his knees in the laboratory.
+- src: /images/gallery/2026-04-04-06.webp
+  alt: Snodgrass and Renn Tal face Edwin Graves
+  caption: Snodgrass raises his weapon with Renn Tal behind him as Dr. Edwin Graves, holding a syringe, confronts them in the laboratory.
+- src: /images/gallery/2026-04-04-09.webp
+  alt: Edwin Graves behind Eric
+  caption: Eric the Cleric stands in a cluttered workshop, unaware of the masked Dr. Edwin Graves raising a blade behind him.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 13 · DM: Nichole**

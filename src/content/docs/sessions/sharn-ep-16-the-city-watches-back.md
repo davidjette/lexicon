@@ -2,18 +2,18 @@
 title: Sharn Ep 16 — The City Watches Back
 description: Blair interrogates an Iron Veil prisoner, the trio collect the EBT-7 broadcast node, and the Children of Ember tear Gemma's chip out.
 tags:
-  - Sharn Ep 16
-  - The City Watches Back
-  - EBT-7
-  - Hallorn d'Lyrandar
-  - Children of Ember
-  - Blair
-  - Brice Peters
-  - Iron Veil
-  - Crona's Wall
-  - Hopper's
-  - Richard Blaze
-  - Conduit Exchange
+- Sharn Ep 16
+- The City Watches Back
+- EBT-7
+- Hallorn d'Lyrandar
+- Children of Ember
+- Blair
+- Brice Peters
+- Iron Veil
+- Crona's Wall
+- Hopper's
+- Richard Blaze
+- Conduit Exchange
 image:
   src: /images/uploads/sharn-ep-16-the-city-watches-back-mu0s0cq3.webp
 sidebar:
@@ -23,11 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-  - sources/site/sharn-episode-summaries.txt
+- sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-16-E28094-the-city-watches-back-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+gallery:
+- src: /images/gallery/2026-05-08-02.webp
+  alt: The EBT-7 Sub-Transit Repeater Node
+  caption: 'A hand holds the EBT-7 Sub-Transit Repeater Node: a brass handheld device with dials, a small screen showing a tunnel feed, and a red ACTIVATE button.'
+- src: /images/gallery/2026-05-09-01.webp
+  alt: Hallorn d'Lyrandar waits at the safe house
+  caption: Hallorn d'Lyrandar leans against the wall by the Upper City safe house door as Eric the Cleric, Gemma Corso and Sir Dario Argentino arrive, while gold-masked Children of Ember cultists creep down the stairs behind them.
+- src: /images/gallery/2026-05-09-06.webp
+  alt: Cultists seize Gemma
+  caption: Masked Children of Ember cultists grab and restrain Gemma Corso on a rooftop as Eric the Cleric and Sir Dario Argentino rush in.
+- src: /images/gallery/2026-05-09-03.webp
+  alt: At Hopper's Magic Emporium
+  caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino at the counter of a cluttered magic shop, where a frog-like shopkeeper holds up a scroll among potions and curios.
+- src: /images/gallery/2026-05-09-07.webp
+  alt: A ragged man in the alley
+  caption: 'Gemma Corso, Eric the Cleric and Sir Dario Argentino stop in a dark alley as a ragged man gestures toward them: the messenger who says Cob Cornwell wants to talk.'
+- src: /images/gallery/2026-05-09-08.webp
+  alt: Blair interrogates an Iron Veil prisoner
+  caption: 'A horned woman in a long coat stands over a kneeling prisoner in red armour in a vault of treasure chests, watched by Gemma Corso, Eric the Cleric and Sir Dario Argentino: Blair questioning the captured Iron Veil soldier.'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 16 · DM: Nichole**

@@ -37,6 +37,13 @@ published: '2026-09-10'
 wa:
   slug: khyber-taxonomy-material
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+gallery:
+- src: /images/gallery/2026-07-28-01.webp
+  alt: Black Khyber on the forge floor
+  caption: Gemma Corso, Eric the Cleric in a white wig and red coat and Sir Dario Argentino study a document over a workbench laid with black-metal blades and a hammer. The forge floor is littered with tools and weapons of Black Khyber.
+- src: /images/gallery/2026-09-03-03.webp
+  alt: Esther's wedding gift
+  caption: A spiked black crystalline object with a glowing red heart floats in a dark room framed by gold pillars.
 ---
 
 **Material classification · Three named varieties · Delivered as lore by Sir Dario Argentino · Contested at the margins**

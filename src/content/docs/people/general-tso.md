@@ -2,17 +2,17 @@
 title: General Tso
 description: Brother of the matriarch and the Teryaki's field commander, clearing a haunted foundry one room a day so that his cousins can be buried properly.
 tags:
-  - General Tso
-  - Tso
-  - Teryaki
-  - Madame Tso Teryaki
-  - Deeptempura
-  - Rak'tafur
-  - Korranberg Foundry
-  - speak with dead
-  - Scallion Pancake
-  - Hetta
-  - Egg Roll
+- General Tso
+- Tso
+- Teryaki
+- Madame Tso Teryaki
+- Deeptempura
+- Rak'tafur
+- Korranberg Foundry
+- speak with dead
+- Scallion Pancake
+- Hetta
+- Egg Roll
 image:
   src: /images/uploads/general-tso-mu0if0w0.webp
 type: person
@@ -33,13 +33,20 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
-  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
-  - sources/site/korth-episode-summaries.txt
+- C:/dev/sharn-campaign/session-2026-08-07-recap.md
+- C:/dev/sharn-campaign/session-2026-08-21-recap.md
+- sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: general-tso-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+- src: /images/gallery/2026-07-29-01.webp
+  alt: General Tso's search party
+  caption: In a dim corridor the trio meet a robed duergar and a duergar riding a giant spider. General Tso's search party, one of them mounted on a giant spider, is clearing the sealed rooms.
+- src: /images/gallery/2026-07-29-02.webp
+  alt: General Tso speaks with the dead
+  caption: A kneeling horned duergar casts green light over a wrapped corpse among bones, watched by Eric the Cleric in a white wig and red coat and Gemma Corso. General Tso casts speak with dead on Scallion Pancake.
 ---
 
 **Duergar (deep dwarf) · General of the Teryaki · The Teryaki clan · Alive**

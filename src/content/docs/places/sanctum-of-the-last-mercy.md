@@ -38,6 +38,10 @@ published: '2026-09-10'
 wa:
   slug: sanctum-of-the-last-mercy-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+gallery:
+- src: /images/gallery/2026-09-03-07.webp
+  alt: Before the crated bell
+  caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino, warhammer in hand, stand before the great bell in its straw-packed crate. The first bell sits crated in the unfinished tower above the hospital.
 ---
 
 **Hospital · [GoldSky Neighborhood](/places/goldsky-neighborhood/), [Upper City](/places/the-upper-city/) · Black Dove foundation · SEIZED**

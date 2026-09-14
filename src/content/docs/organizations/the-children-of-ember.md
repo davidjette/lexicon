@@ -2,18 +2,18 @@
 title: The Children of Ember
 description: A masked cult beneath the Vault Underground that worshipped Calcifer as Ember, built by Faith Zeir out of her husband's victims.
 tags:
-  - The Children of Ember
-  - Children of Ember
-  - Ember
-  - Faith Zeir
-  - Malrik Zeir
-  - Mother Prophet
-  - Calcifer
-  - The Vault Underground
-  - Umbra
-  - Project EDEN
-  - Blood Cattle
-  - Hallorn d'Lyrandar
+- The Children of Ember
+- Children of Ember
+- Ember
+- Faith Zeir
+- Malrik Zeir
+- Mother Prophet
+- Calcifer
+- The Vault Underground
+- Umbra
+- Project EDEN
+- Blood Cattle
+- Hallorn d'Lyrandar
 image:
   src: /images/uploads/children-of-ember-mu0qji91.webp
   alt: MISSION OVERVIEW
@@ -29,14 +29,33 @@ fields:
   status: Leadership destroyed, Sharn Ep 17; remnant unaccounted for
   allies: The recruiters (traffickers, not cultists); Project E.D.E.N.
 sources:
-  - sources/site/children-of-ember.txt
-  - sources/site/mission-board.txt
-  - sources/site/sharn-episode-summaries.txt
-  - sources/site/key-figures.txt
+- sources/site/children-of-ember.txt
+- sources/site/mission-board.txt
+- sources/site/sharn-episode-summaries.txt
+- sources/site/key-figures.txt
 published: '2026-09-10'
 wa:
   slug: the-children-of-ember-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-02-03-02.webp
+  alt: The Doctrine of Ember
+  caption: An open book titled "Doctrine of Ember" over flames, its pages describing Ember, the Mother Prophet and the Pillars of Ember, sealed with red wax.
+- src: /images/gallery/2026-02-17-07.webp
+  alt: Faith and Malrik Zeir in the ritual chamber
+  caption: Faith and Malrik Zeir stand hand in hand in a fire-lit chamber of candles, skulls and red iron.
+- src: /images/gallery/2026-05-09-01.webp
+  alt: Hallorn d'Lyrandar waits at the safe house
+  caption: Hallorn d'Lyrandar leans against the wall by the Upper City safe house door as Eric the Cleric, Gemma Corso and Sir Dario Argentino arrive, while gold-masked Children of Ember cultists creep down the stairs behind them.
+- src: /images/gallery/2026-05-09-06.webp
+  alt: Cultists seize Gemma
+  caption: Masked Children of Ember cultists grab and restrain Gemma Corso on a rooftop as Eric the Cleric and Sir Dario Argentino rush in.
+- src: /images/gallery/2026-05-13-02.webp
+  alt: Recruiter stat block
+  caption: A creature stat block for the "Recruiter", a Medium humanoid with Umbra syringes, Umbra-drugged effects and an Umbra powder burst.
+- src: /images/gallery/2026-05-13-03.webp
+  alt: Children of Ember stat block
+  caption: 'A creature stat block for a "Children of Ember" cultist: a Medium humanoid spellcaster with fire bolt, burning hands and hold person.'
 ---
 
 **Cult · The Vault Underground, Upper City Sharn · Leadership destroyed**

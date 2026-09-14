@@ -2,18 +2,18 @@
 title: Eric the Cleric
 description: An Imperial auditor who became Chancellor of a free Sharn, and who has been hearing a dead man's voice since the Glitterhame.
 tags:
-  - Eric the Cleric
-  - Eric
-  - Graham Cracker
-  - Chancellor of Sharn
-  - Chancellor of Char
-  - The Inevitables
-  - The Nest
-  - Mark of Passage
-  - John C. LeBeefe
-  - Belt of Dwarvenkind
-  - Heroes of Leef
-  - Sharn
+- Eric the Cleric
+- Eric
+- Graham Cracker
+- Chancellor of Sharn
+- Chancellor of Char
+- The Inevitables
+- The Nest
+- Mark of Passage
+- John C. LeBeefe
+- Belt of Dwarvenkind
+- Heroes of Leef
+- Sharn
 image:
   src: /images/site/eric-the-cleric-1.webp
   alt: Eric the Cleric
@@ -35,35 +35,50 @@ fields:
   height: Unknown
   weight: Unknown - physically feeble; Strength 7
 sources:
-  - worldanvil/sources/site/rebel-factions.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - current-state.md
-  - episodes.md
-  - korth.md
-  - npcs-korth.md
-  - session-2026-06-18-recap.md
-  - session-2026-07-11-recap.md
-  - session-2026-07-15-recap.md
-  - session-2026-07-17-recap.md
-  - session-2026-08-07-recap.md
-  - session-2026-08-21-recap.md
-  - session-2026-08-28-summary.md
-  - session-2026-08-28-summary-nichole-style.md
-  - session-2026-09-04-summary.md
-  - worldanvil/CANON.md
+- worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/korth-episode-summaries.txt
+- current-state.md
+- episodes.md
+- korth.md
+- npcs-korth.md
+- session-2026-06-18-recap.md
+- session-2026-07-11-recap.md
+- session-2026-07-15-recap.md
+- session-2026-07-17-recap.md
+- session-2026-08-07-recap.md
+- session-2026-08-21-recap.md
+- session-2026-08-28-summary.md
+- session-2026-08-28-summary-nichole-style.md
+- session-2026-09-04-summary.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: 8d2fe097-8974-47cc-a067-7b61b36f178b
   uuid: 6f75a33c-5725-431e-9af8-a920ee57ecfe
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
-  - src: /images/album/extracting-izaak.webp
-    alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
-    caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
-  - src: /images/album/passing-the-hall-of-submission.webp
-    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
-    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are walking past the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+- src: /images/album/extracting-izaak.webp
+  alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
+  caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
+- src: /images/album/passing-the-hall-of-submission.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are walking past the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+- src: /images/gallery/2025-12-11-01.webp
+  alt: Eric the Cleric's co-op badge photo
+  caption: 'A bespectacled young man in a green floral shirt poses against a black backdrop: the photo on Eric''s Harry Potter staff badge for the Vilspar Co-operative at POSÉ.'
+- src: /images/gallery/2025-12-29-03.webp
+  alt: Eric the Cleric with mace and shield
+  caption: Eric the Cleric, in glasses, black armour, shorts and a cape, braces behind a shield marked with a star symbol and raises a spiked mace.
+- src: /images/gallery/2026-02-12-01.webp
+  alt: Eric the Cleric trying on jean shorts
+  caption: Eric the Cleric, grinning in glasses, a black tee and short denim shorts, admires himself in a clothing-store mirror.
+- src: /images/gallery/2026-02-12-02.webp
+  alt: Eric the Cleric out shopping
+  caption: Eric the Cleric strides down a cobbled street in denim shorts and a black armoured vest, smiling, a shopping bag and spiked mace in hand.
+- src: /images/gallery/2026-03-01-05.webp
+  alt: Eric the Cleric, portrait
+  caption: A head-and-shoulders portrait of Eric the Cleric in glasses, a studded dark jerkin and a cloak, on a street in Sharn.
 ---
 
 **Cleric · Chancellor of Sharn · The Inevitables · Level 12 · Alive**

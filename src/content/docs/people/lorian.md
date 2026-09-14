@@ -2,18 +2,18 @@
 title: Lorian
 description: Trafficking survivor turned Oath of Vengeance paladin; the Nest's best witness against the Zeirs, and the man who counted the undead at Thronehold.
 tags:
-  - Lorian
-  - The Nest
-  - The Inevitables
-  - Silver Flame
-  - Oath of Vengeance
-  - Tira
-  - Zero-One
-  - The Vault Below
-  - Children of Ember
-  - Malrik Zeir
-  - Hallorn d'Lyrandar
-  - Thronehold
+- Lorian
+- The Nest
+- The Inevitables
+- Silver Flame
+- Oath of Vengeance
+- Tira
+- Zero-One
+- The Vault Below
+- Children of Ember
+- Malrik Zeir
+- Hallorn d'Lyrandar
+- Thronehold
 image:
   src: /images/site/lorian-1.webp
   alt: Lorian
@@ -35,18 +35,28 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - worldanvil/sources/site/rebel-factions.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - episodes.md
-  - factions.md
-  - session-2026-06-18-recap.md
-  - worldanvil/CANON.md
+- worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/korth-episode-summaries.txt
+- episodes.md
+- factions.md
+- session-2026-06-18-recap.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: bb5d1c45-6b93-46b2-99a3-7d83f8ea5eac
   uuid: 7346fb9e-d02c-4889-82af-71ea792b18db
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
+gallery:
+- src: /images/gallery/2026-05-17-01.webp
+  alt: Hallorn, Lorian and Eric fight in the club
+  caption: Lorian charges across a dark lounge with a glowing fist while Eric the Cleric follows with a shield and Hallorn d'Lyrandar waits in a leather coat. The confrontation comes from the fight inside the Vault Underground.
+- src: /images/gallery/2026-06-13-01.webp
+  alt: Lorian on Tira
+  caption: Lorian, blond in a tan coat, rides his light-brown palomino Tira down a wet street beneath Gothic towers.
+- src: /images/gallery/2026-05-17-11.webp
+  alt: Sir Dario and Lorian clasp hands
+  caption: Sir Dario Argentino, in black armour and cloak, clasps hands with Lorian in his tan coat in a dim room lit by candles and blue lights.
 ---
 
 **Paladin of the Silver Flame, Oath of Vengeance · The Nest · The Inevitables · Level 5 · Alive**

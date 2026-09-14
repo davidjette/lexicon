@@ -40,6 +40,19 @@ image:
   src: /images/site/the-vault-underground-1.webp
   alt: 'The Vault: Underground'
   caption: 'The Vault: Underground'
+gallery:
+- src: /images/gallery/2026-05-15-02.webp
+  alt: The Vault Underground 3rd Level VIP pass
+  caption: 'A prop VIP pass for The Vault Underground, one pass granting access to all three levels: the Inferno, the Purgatory and the Maelstrom. It also lists a private booth, one free drink and a table dancer of your choice.'
+- src: /images/gallery/2026-05-15-03.webp
+  alt: The Vault Underground drink menu
+  caption: A prop drink menu for The Vault Underground, framed by a red dragon. It lists Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.
+- src: /images/gallery/2025-10-07-01.webp
+  alt: Glowing square symbol
+  caption: 'A pale glowing emblem of nested squares with a bar beneath, on a dark panel: the symbol on the sign of The Vault Underground.'
+- src: /images/gallery/2026-05-15-01.webp
+  alt: 3rd Level VIP One Pass
+  caption: 'A red-and-gold club pass with a coiled dragon: "VIP - 3rd Level VIP One Pass", including access to the 3rd club level, a private booth, one free drink and a table dancer of your choice.'
 ---
 
 **Nightclub and private residence · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · The Zeir residence · Destroyed as an operation**

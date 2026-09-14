@@ -29,6 +29,13 @@ published: '2026-09-10'
 wa:
   slug: the-ministry-of-law-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+- src: /images/gallery/2026-09-07-02.webp
+  alt: Gemma Corso as the Star Advocate
+  caption: A dark-haired elf woman in a black and gold greatcoat, white blouse and tall boots stands with a hand on her hip in a gilded black hall. It is Deirdre Moro's face, worn by Gemma Corso as Star Advocate of the Ministry of Law.
+- src: /images/gallery/2026-09-07-07.webp
+  alt: The Advocate and her bodyguard at the Ministry
+  caption: The dark-haired Advocate and the skull-masked samurai stand at a great iron-bound door flanked by red-robed guards and a uniformed officer.
 ---
 
 **Type:** Government, Judiciary · **Seat:** northeast of the Great Plaza, Korth · **Status:** Active
