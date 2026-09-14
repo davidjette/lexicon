@@ -60,9 +60,9 @@ redacted:
 
 ## Zanzibar
 
-Celion, of the Arcaneum, hired Stonecypher to follow Zanzibar on his quest to find the Zarus Infanta, and to kill the Infanta if she had the chance. She became Zanzibar's best friend. When he returned to Punis after his exile at the hands of the Arcaneum and was crowned King of Punis, he named Stonecypher his general. <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small> She briefly served as a general in his army at the Battle of the River Lis. She gave him a cursed ring of Wish that would destroy her arm if she used it.
+Celion, of the Arcaneum, hired Stonecypher to follow Zanzibar on his quest to find the Zarus Infanta, and to kill the Infanta if she had the chance. She became Zanzibar's best friend. When he returned to [Punis](/places/punis/) after his exile at the hands of the Arcaneum and was crowned King of Punis, he named Stonecypher his general. <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small> She briefly served as a general in his army at [the Battle of the River Lis](/history/the-battle-of-the-river-lis/). She gave him a cursed ring of Wish that would destroy her arm if she used it.
 
-She rode with Zanzibar on the small sailing boat that carried Una from her resurrection.
+She rode with Zanzibar on the small sailing boat that carried [Una](/people/una/) from her resurrection.
 
 ## The Baldur's Gate train
 
@@ -80,7 +80,7 @@ At [Refuge](/places/refuge/), Stonecypher met [June](/people/the-infanta-of-time
 
 ## Split in time
 
-Chronocypher was later split in time. One part remained in the deep past as Chronocypher, in a hidden refuge with Pim and the Changelings of the Moon. Another was incarnated in Antiquity as **Eloise, the Infanta of Time**, during the first Infanta Crisis, which the party witnessed firsthand in their second loop.
+Chronocypher was later split in time. One part remained in the deep past as Chronocypher, in a hidden refuge with [Pim](/people/pim/) and the Changelings of the Moon. Another was incarnated in Antiquity as **Eloise, the Infanta of Time**, during the first Infanta Crisis, which the party witnessed firsthand in their second loop.
 
 When the party returned to the "present", Chronocypher replaced June, a separate Infanta, at Refuge, and lived through that arc again as the child June. At the last moment, instead of dying, she was blown free of Refuge and rescued by the party, who appeared to have just left for the past and came back at level 20 or higher from the back half of the campaign.
 

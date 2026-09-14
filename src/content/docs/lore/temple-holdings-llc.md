@@ -68,7 +68,7 @@ The name comes from a property purchase. Midway through the first arc, the garri
 
 ## The company
 
-The founders are shipwreck survivors rather than a fellowship. Knighted together at Harloch as the **Lusmundi, the light of the world**, and the **Champions of the Evening Star**, the roll of honour reads: [Kara](/people/kara/), [Roland](/people/roland-deschain/), [Yoshi](/people/yoshi/), **Denver**, [Fulori](/people/fulori-splitheel/), [Drefan](/people/drefan/), [Viceroy Couch](/people/cuthbert-couch/) and [Brother Magnus](/people/brother-magnus/). Later arcs bring in [Zanzibar](/people/zanzibar/) of Cormyr, the rogue [Stoth Youngglade](/people/stoth-youngglade/), the [traveling healer](/people/the-traveling-healer/) who found the mountain, Revan, Chronocypher, Brownsleeves and Stonecypher.
+The founders are shipwreck survivors rather than a fellowship. Knighted together at Harloch as the **Lusmundi, the light of the world**, and the **Champions of the Evening Star**, the roll of honour reads: [Kara](/people/kara/), [Roland](/people/roland-deschain/), [Yoshi](/people/yoshi/), **Denver**, [Fulori](/people/fulori-splitheel/), [Drefan](/people/drefan/), [Viceroy Couch](/people/cuthbert-couch/) and [Brother Magnus](/people/brother-magnus/). Later arcs bring in [Zanzibar](/people/zanzibar/) of Cormyr, the rogue [Stoth Youngglade](/people/stoth-youngglade/), the [traveling healer](/people/the-traveling-healer/) who found the mountain, Revan, Chronocypher, [Brownsleeves](/people/brownsleeves/) and Stonecypher.
 
 ## The eight arcs
 
@@ -78,7 +78,7 @@ The founders are shipwreck survivors rather than a fellowship. Knighted together
 4. [**The Infernal Machines**](/history/arc-iv-the-infernal-machines/) — into Sigil to break the Company, and the truth of what Wainwright St. Cloud is.
 5. [**Starfall**](/history/arc-v-starfall/) — the deep past and the end of time, and the secret that Time itself is the Obliviator.
 6. [**Time of Troubles**](/history/arc-vi-time-of-troubles/) — a rewritten past, the legends of Camelot and Avalon, and the moonblades remembering.
-7. [**Leviathan**](/history/arc-vii-leviathan/) — a god's death, the muster of every ally across every age, and the march on Netheril.
+7. [**Leviathan**](/history/arc-vii-leviathan/) — a god's death, the muster of every ally across every age, and the march on [Netheril](/places/netheril/).
 8. [**End of the Infanta**](/history/arc-viii-end-of-the-infanta/) — the last battle inside the Egg, and the Wish that becomes the Oblivia.
 
 In 2019 Dave planned the campaign in six arcs. In June he put the table "about 3/5 through the story" <small>(Oral Histories: Temporal Holdings, 2019-06-08)</small>, and at the close of the fourth arc he wrote: "Hope in Exile - Motherstone - Age of the Infanta - The Infernal Machines, you’re actually 4/6 of the way through the campaign" <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>. The story ran to eight arcs. In Dave's words, "it went longer than I expected." <small>(Dave, 2026-09-14)</small>

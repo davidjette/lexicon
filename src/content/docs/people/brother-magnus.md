@@ -69,7 +69,7 @@ wa:
 
 *Also known as:* Magnus
 
-Brother Magnus is a hill dwarf cleric of [Brightmantle](/people/brightmantle/), the God of Discovery and Invention, and a member of Temple Holdings LLC. With [Kara](/people/kara/) he broke into the buried moonstone machine beneath Snowy Mountain, the trespass that opened [Arc II — Motherstone](/history/arc-ii-motherstone/). After the insurgency at Motherstone he reactivated the Obliviator and the Lexicon. Lex was then built into the party's airship, the Arielle, whose drive is [the Anachron](/items/the-anachron/), and at the Second Battle of Motherstone Lex transferred himself to the ship and the Motherstone Lexicon died. Magnus and [Drefan](/people/drefan/) lost their divine spells in the Time of Troubles, and Magnus raised **Percival**, [Roland Deschain](/people/roland-deschain/)'s squire. When Brightmantle sickened in Arc VII his power faded again, to third-level spells; at the god's funeral he received a final blessing that restored him in full and let him empower the faithful of Brightmantle within a mile.
+Brother Magnus is a hill dwarf cleric of [Brightmantle](/people/brightmantle/), the God of Discovery and Invention, and a member of Temple Holdings LLC. With [Kara](/people/kara/) he broke into the buried moonstone machine beneath Snowy Mountain, the trespass that opened [Arc II — Motherstone](/history/arc-ii-motherstone/). After the insurgency at Motherstone he reactivated the Obliviator and the Lexicon. Lex was then built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is [the Anachron](/items/the-anachron/), and at the Second Battle of Motherstone Lex transferred himself to the ship and the Motherstone Lexicon died. Magnus and [Drefan](/people/drefan/) lost their divine spells in the Time of Troubles, and Magnus raised [Percival](/people/percival/), [Roland Deschain](/people/roland-deschain/)'s squire. When Brightmantle sickened in Arc VII his power faded again, to third-level spells; at the god's funeral he received a final blessing that restored him in full and let him empower the faithful of Brightmantle within a mile.
 
 ## Bearing and arms
 
@@ -111,7 +111,7 @@ In [Arc VII — Leviathan](/history/arc-vii-leviathan/), word reached the party 
 
 ## Right now
 
-Magnus stands at Motherstone with a full-strength blessing, empowering the faithful of every people the company has saved as they muster for the march on Netheril.
+Magnus stands at Motherstone with a full-strength blessing, empowering the faithful of every people the company has saved as they muster for the march on [Netheril](/places/netheril/).
 
 ## Personality Characteristics
 
@@ -126,7 +126,7 @@ Magnus stands at Motherstone with a full-strength blessing, empowering the faith
 **Contacts & Relations:**
 
 - **[Brightmantle](/people/brightmantle/)** — his patron god, the builder of Motherstone and the Lexicon. Dead in Arc VII, having spent his last act through Magnus.
-- **Lex** — the Lexicon, built into the Arielle, whose drive is the Anachron. Worked on the machine with Magnus and Pim aboard the Arielle; touched Brightmantle's body with him at the funeral.
+- **Lex** — the Lexicon, built into the Arielle, whose drive is the Anachron. Worked on the machine with Magnus and [Pim](/people/pim/) aboard the Arielle; touched Brightmantle's body with him at the funeral.
 - **Roland Deschain** — fellow founder. Alive.
 - **Percival** — Roland's squire, raised by Magnus.
 - **Kara** — his partner on the Snowy Mountain break-in that opened Motherstone. Alive.

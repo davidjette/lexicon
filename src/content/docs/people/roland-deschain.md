@@ -86,7 +86,7 @@ wa:
 
 *Also known as:* Roland · the Gunslinger
 
-**Roland Deschain** is a human ranger and Knight of the Order, and the son of a Sigilese gunsmith who was murdered. His stated purpose in the chronicle is to kill all three [St. Cloud brothers](/lore/the-three-brothers/) in revenge for that murder. He is also an accomplished artificer, and one of the two people who built the [Lexicon](/items/the-lexicon/)'s later workings with [Brother Magnus](/people/brother-magnus/). He carries twin revolvers cast from [Ironbane](/items/the-bane-blades/), the sword Excalibur, which he drew from its stone in the vault below an auction and later melted down and recast at Motherstone. [Zanzibar](/people/zanzibar/), crowned King of **Punis**, named him a Thane and gave him a hold. At the Second Battle of Motherstone [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled him through the [Palantir](/items/the-palantir/), and he destroyed the Lexicon and let the Company into the city. The party captured Carlysle St. Cloud in [Roland's Cube](/items/rolands-cube/) and threw him and the Palantir into the Obliviator; Motherstone, remembering only that Roland had betrayed it, tried him before three Infanta, who spared him. In the deep past he shot and killed **the Traveler**, the St. Cloud of that age.
+**Roland Deschain** is a human ranger and Knight of the Order, and the son of a Sigilese gunsmith who was murdered. His stated purpose in the chronicle is to kill all three [St. Cloud brothers](/lore/the-three-brothers/) in revenge for that murder. He is also an accomplished artificer, and one of the two people who built the [Lexicon](/items/the-lexicon/)'s later workings with [Brother Magnus](/people/brother-magnus/). He carries twin revolvers cast from [Ironbane](/items/the-bane-blades/), the sword Excalibur, which he drew from its stone in the vault below an auction and later melted down and recast at Motherstone. [Zanzibar](/people/zanzibar/), crowned King of [Punis](/places/punis/), named him a Thane and gave him a hold. At the Second Battle of Motherstone [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled him through the [Palantir](/items/the-palantir/), and he destroyed the Lexicon and let the Company into the city. The party captured Carlysle St. Cloud in [Roland's Cube](/items/rolands-cube/) and threw him and the Palantir into the Obliviator; Motherstone, remembering only that Roland had betrayed it, tried him before three Infanta, who spared him. In the deep past he shot and killed **the Traveler**, the St. Cloud of that age.
 
 The record's first private word to him, after the wreck of the *Evening Star*: "Ysmir St. Cloud is finally dead. But he is only the first on the list. His brother, Carlysle St. Cloud, still breathes." <small>(Arc I, Hope in Exile, Part III.)</small>
 
@@ -98,7 +98,7 @@ His mother **Gabrielle** was an **archaeologist** and a long descendant of the *
 
 ### The auction
 
-The party went to the auction because something St. Cloud was looking for was for sale there: the **Amulet of Kai Ryssdall**, a gem big enough to cast *Greater Gate*, and a key part of his plan to summon Asmodeus into the heart of Waterdeep. They attended in finery as guests. The **Von Lampes**, owners of [Tiffany House](/places/tiffany-house/) and bound by a pact with Asmodeus, were there to get the Amulet as well. The objects in the auction room were illusions; the real treasures were in a vault below.
+The party went to the auction because something St. Cloud was looking for was for sale there: the **Amulet of Kai Ryssdall**, a gem big enough to cast *Greater Gate*, and a key part of his plan to summon [Asmodeus](/people/asmodeus/) into the heart of Waterdeep. They attended in finery as guests. The **Von Lampes**, owners of [Tiffany House](/places/tiffany-house/) and bound by a pact with Asmodeus, were there to get the Amulet as well. The objects in the auction room were illusions; the real treasures were in a vault below.
 
 The party was told to break **Zebediah**, Zanzibar's twin, out of jail. He had got himself arrested on purpose, because his cell had a way through the cellars to below the vault, and his memorisation of a floor pattern took him past the vault's deadly traps to the Amulet, Excalibur and more. Upstairs, [Stonecypher](/people/stonecypher/) used the Vault Wand to make a temporary space in the bathroom, waited for the Von Lampes to enter, and closed the space, voiding them.
 
@@ -162,7 +162,7 @@ Afterwards the record notes "a mysterious change to the trifecta of St. Cloud" w
 
 ## Lex and the Arielle
 
-Lex had already been built into the party's airship, the Arielle, whose drive is [the Anachron](/items/the-anachron/). <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> About three rounds into the Second Battle of Motherstone he transferred himself to the ship and lost all connection to the Motherstone Lexicon, which is dead. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> From that point the Lexicon and the Anachron are one being. <small>(Full account at The Anachron.)</small>
+Lex had already been built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is [the Anachron](/items/the-anachron/). <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> About three rounds into the Second Battle of Motherstone he transferred himself to the ship and lost all connection to the Motherstone Lexicon, which is dead. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> From that point the Lexicon and the Anachron are one being. <small>(Full account at The Anachron.)</small>
 
 ## Elistrae's dream-raids
 
@@ -180,7 +180,7 @@ Wainwright St. Cloud is a changeling collective with a dozen faces and a private
 
 ## Right now
 
-Roland marches with the muster toward Netheril and the Egg. The Lady of Pain has told the company what they are for — "It's their destiny to destroy the Traveler" — and the Traveler is Wainwright St. Cloud. <small>(Arc IV Part V.)</small>
+Roland marches with the muster toward [Netheril](/places/netheril/) and the Egg. The Lady of Pain has told the company what they are for — "It's their destiny to destroy the Traveler" — and the Traveler is Wainwright St. Cloud. <small>(Arc IV Part V.)</small>
 
 **Organizations / Groups:** Temple Holdings LLC · the Knights of the Order
 

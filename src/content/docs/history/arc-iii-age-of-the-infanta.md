@@ -74,7 +74,7 @@ wa:
 
 **Campaign Arc · Temple Holdings LLC, Arc III · Ten years after Motherstone · Complete**
 
-*Opens at:* the throne of Motherstone, reclaimed · *Spans:* Caer Westphal · the Ride · Waterdeep · Suzail · the Arcaneum · Motherstone
+*Opens at:* the throne of Motherstone, reclaimed · *Spans:* Caer Westphal · the Ride · Waterdeep · [Suzail](/places/suzail/) · the Arcaneum · Motherstone
 
 *Follows:* [Arc II — Motherstone](/history/arc-ii-motherstone/) · *Leads into:* [Arc IV — The Infernal Machines](/history/arc-iv-the-infernal-machines/)
 
@@ -103,11 +103,11 @@ And beneath the politics, a slow catastrophe:
 
 > Meanwhile, the holy magic of priests is slowly waning, but no one wants to talk about it. Ancient structures held aloft by divine magic are starting to crumble. Secretly, priests of all orders fret that their most powerful spells are failing and undead are on the rise. With the birth of the Elistrae infanta, some are even fretting of a second Time of Troubles.
 
-It is this fear that draws new champions to Motherstone — among them [Zanzibar](/people/zanzibar/), Crown Prince of Punis, dispatched by the high priest of Punis to ask [Brother Magnus](/people/brother-magnus/) about his vision and the fading of the gods.
+It is this fear that draws new champions to Motherstone — among them [Zanzibar](/people/zanzibar/), Crown Prince of [Punis](/places/punis/), dispatched by the high priest of Punis to ask [Brother Magnus](/people/brother-magnus/) about his vision and the fading of the gods.
 
 ## Caer Westphal and the Excelsior
 
-The Company has fallen back on its naval seat at **Caer Westphal**, where its sail-less flagship, the **Excelsior**, is loading to flee under Wainwright St. Cloud himself. The heroes find a colony in full collapse:
+The Company has fallen back on its naval seat at **Caer Westphal**, where its sail-less flagship, the **[Excelsior](/items/the-arielle/)**, is loading to flee under Wainwright St. Cloud himself. The heroes find a colony in full collapse:
 
 > You have encountered an Imperial colony in full retreat… At the docks, Stoth can see the colonial bourgeoisie begging to board the great ships and every vessel they can find. People speak of Forsworn revolutionaries raiding the homes of local officials and slitting their throats in their sleep.
 
@@ -119,7 +119,7 @@ The "St. Cloud" they chase across the rooftops proves to be **Dox** — a change
 
 The arc's engine is a race. As divine magic fails, the old gods are incarnating again in mortal children, exactly as [Elistrae](/people/elistrae/) did — and the Company is collecting them. The Arielle's logs point to its strangest recent errand: ferrying armed men "to a remote valley full of backward horse farmers, looking for what the crew nicknamed 'the death child.'"
 
-That trail leads to **the Ride** and the trading post of **Whitehorn**, where the Horseking **Khal Unger** and his Asmodeus-worshipping **Gravekeeper** have for years tortured a child each year, trying to wake the God of Death they bound at birth. The Infanta of Death was never the princess at all:
+That trail leads to **the Ride** and the trading post of [Whitehorn](/places/whitehorn/), where the Horseking **Khal Unger** and his [Asmodeus](/people/asmodeus/)-worshipping **Gravekeeper** have for years tortured a child each year, trying to wake the God of Death they bound at birth. The Infanta of Death was never the princess at all:
 
 > But they're wrong, she isn't the devil. It's Marcus… Marcus was always the Raven Queen. He hated being a human locked in the tomb… And this time he had enough. He made the dead kill them and ran away.
 
@@ -143,11 +143,11 @@ St. Cloud forced the god of Order's perfect mind to compute the night sky as it 
 
 ## Cormyr, and the children of the gods
 
-The hunt widens into open politics in **Suzail**, the City of Song, capital of Cormyr, during the ten-day winter festival of **Candlenights**. Here Zanzibar carries home a girl named **Una** — dead and resurrected, "suffering from the common effects of being brought back to life after three days" — who is the Infanta of War, **Tempus**. Her grief is the arc's quiet heart:
+The hunt widens into open politics in **Suzail**, the City of Song, capital of Cormyr, during the ten-day winter festival of **Candlenights**. Here Zanzibar carries home a girl named **[Una](/people/una/)** — dead and resurrected, "suffering from the common effects of being brought back to life after three days" — who is the Infanta of War, **Tempus**. Her grief is the arc's quiet heart:
 
 > I sometimes dream of heaven, like I've been there before. But in the dream the angels are fighting each other. And the devil is laughing… Sometimes I get really mad… What did you save me from?
 
-Cormyr's court is a knot of danger: King **Glenn Danzig** and his elite **Purple Dragons** under **Lord Krapsmere**, who slew the Witch Queen of Cormanthor twenty years past; and the **War Wizards**, the kingdom's military arcane cabal, who mean to seize Una and "use her to conduct a world war." The [Lexicon](/items/the-lexicon/)'s briefings make the scale plain — the Obus Infanta awakened in Waterdeep, the elves of **Myth Drannor** are said to hold the Infanta of **Sylvanus**, and the orcs another at **Mordulkin**. Every god is being reborn into a child, and every army wants one of its own.
+Cormyr's court is a knot of danger: King **Glenn Danzig** and his elite **Purple Dragons** under **Lord Krapsmere**, who slew the Witch Queen of Cormanthor twenty years past; and the **War Wizards**, the kingdom's military arcane cabal, who mean to seize Una and "use her to conduct a world war." The [Lexicon](/items/the-lexicon/)'s briefings make the scale plain — the Obus Infanta awakened in Waterdeep, the elves of [Myth Drannor](/places/myth-drannor/) are said to hold the Infanta of **Sylvanus**, and the orcs another at **Mordulkin**. Every god is being reborn into a child, and every army wants one of its own.
 
 ## The Arcaneum, and the Second Battle of Motherstone
 
@@ -155,7 +155,7 @@ The chase carries the heroes at last to the **Arcaneum** — the War Wizards' ac
 
 ### The Anachron at the Arcaneum
 
-The Arcaneum holds the [Anachron](/items/the-anachron/). Its own handout records that "St. Cloud delivered to us a device we soon learned was the -Anachron-" and that it "was inert and St. Cloud would not tell us where he found except that 'it wasn't around here.'" <small>(Sic throughout. Arc III, VIII Handouts.)</small> The mage **Celion** — dead at the party's hands ("You had blown me up") and speaking to [Kara](/people/kara/) through a mirror from a clone suspended in liquid in Archmage Valen's sanctum — gives the reason [St. Cloud](/people/wainwright-st-cloud/) gave it away: "He wanted us to activate it, because he didn't know how. Like fools, we've been working on that problem for years. We tried using the infanta to turn it on, it hasn't worked." His warning: "You have to stop them from activating the Anachron. They can useiti to break time and open a wound in the world so great that nothing will survive." <small>(Sic on "useiti." Arc III, Parts IX–XI, "Arcaneum.")</small>
+The Arcaneum holds the [Anachron](/items/the-anachron/). Its own handout records that "St. Cloud delivered to us a device we soon learned was the -Anachron-" and that it "was inert and St. Cloud would not tell us where he found except that 'it wasn't around here.'" <small>(Sic throughout. Arc III, VIII Handouts.)</small> The mage **Celion** — dead at the party's hands ("You had blown me up") and speaking to [Kara](/people/kara/) through a mirror from a clone suspended in liquid in Archmage [Valen](/people/valen/)'s sanctum — gives the reason [St. Cloud](/people/wainwright-st-cloud/) gave it away: "He wanted us to activate it, because he didn't know how. Like fools, we've been working on that problem for years. We tried using the infanta to turn it on, it hasn't worked." His warning: "You have to stop them from activating the Anachron. They can useiti to break time and open a wound in the world so great that nothing will survive." <small>(Sic on "useiti." Arc III, Parts IX–XI, "Arcaneum.")</small>
 
 Archmage **Valen** wants the device for the same end: "This magnificent device baffles me. We've tried everything to try and turn it on. We're certain this device will bring us to where and when we have to be to summon her, to summon the Leviathan…" <small>(Arc III, Parts IX–XI.)</small>
 

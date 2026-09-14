@@ -71,11 +71,11 @@ wa:
 
 **Campaign Arc · Temple Holdings LLC, Arc V · The deep past and the end of time · Complete**
 
-*Opens at:* the Moon, before it broke · *Spans:* the lunar forest · R'lyeh · Dragon Mountain · *The revelation:* Time itself is the Obliviator
+*Opens at:* the Moon, before it broke · *Spans:* the lunar forest · R'lyeh · [Dragon Mountain](/places/dragon-mountain/) · *The revelation:* Time itself is the Obliviator
 
 *Follows:* [Arc IV — The Infernal Machines](/history/arc-iv-the-infernal-machines/) · *Leads into:* [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/)
 
-Arc V — Starfall is the fifth arc of [Temple Holdings LLC](/lore/temple-holdings-llc/), set in the deep past and at the end of time. Riding the [Anachron](/items/the-anachron/) about 65 million years into the deep past <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>, the heroes reached the **Moon** as it was before the Starfall, a living world, and pursued [Wainwright St. Cloud](/people/wainwright-st-cloud/) through R'lyeh and Dragon Mountain as he worked to wake Cthulhu. At the end of time the dying goddess June told Chronocypher that **Time itself is the Obliviator**, and that the gods, the Infantas and their own recurring souls are *memory* hiding from a blind, devouring god. The arc closes with the Arielle wrecked in the deep past, the Anachron left behind with the Lexicon inside it, and the party scattered across the ages.
+Arc V — Starfall is the fifth arc of [Temple Holdings LLC](/lore/temple-holdings-llc/), set in the deep past and at the end of time. Riding the [Anachron](/items/the-anachron/) about 65 million years into the deep past <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>, the heroes reached the **Moon** as it was before the Starfall, a living world, and pursued [Wainwright St. Cloud](/people/wainwright-st-cloud/) through R'lyeh and Dragon Mountain as he worked to wake Cthulhu. At the end of time the dying goddess June told Chronocypher that **Time itself is the Obliviator**, and that the gods, the Infantas and their own recurring souls are *memory* hiding from a blind, devouring god. The arc closes with the [Arielle](/items/the-arielle/) wrecked in the deep past, the Anachron left behind with the Lexicon inside it, and the party scattered across the ages.
 
 ## The Moon, before it broke
 
@@ -83,7 +83,7 @@ The Arielle arcs up across the face of the World Tree for days, the company resi
 
 > Primitive proto-eladrin live hunter-gatherer lives on the Moon, which is a lush deciduous forest environment with frigid poles, covered in natural moonstone and inherently magical (and destructive of the sanity of non-elf sentient mortals when too close).
 
-Here they meet **Ewe**, a nude faerie shapeshifter who copies the face of everyone she meets, and **Brownsleeves** — one of their own, who has reigned as "the Short King" of the moon people, spending his days teaching them science and good living. He weeps when he sees the party, because he watched them all die. They have been here before, in a loop none of them remember. The party's own Brownsleeves died on the *Evening Star* at the start of the chronicle <small>(Oral Histories: Temporal Holdings, 2018-07-06)</small>; the Short King is Brownsleeves from another loop. <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
+Here they meet **Ewe**, a nude faerie shapeshifter who copies the face of everyone she meets, and [Brownsleeves](/people/brownsleeves/) — one of their own, who has reigned as "the Short King" of the moon people, spending his days teaching them science and good living. He weeps when he sees the party, because he watched them all die. They have been here before, in a loop none of them remember. The party's own Brownsleeves died on the *Evening Star* at the start of the chronicle <small>(Oral Histories: Temporal Holdings, 2018-07-06)</small>; the Short King is Brownsleeves from another loop. <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
 
 ### The Traveler and Kay
 
@@ -135,4 +135,4 @@ The [Egg](/places/the-egg/) — the Evening Star, a pristine black sphere — fa
 
 In the final arc the party came back to the deep past a second time, to help Karametra move the Moon, fulfilling the Wish [Kara](/people/kara/) cast on arriving in Antiquity that it had been done. Karametra seduced **Bahamut** and had the dragons build a platinum temple to cast **Move Planet** and put the Moon into the Egg's path. On this return the party fought the Tarrasque, some dragons, and then Tiamat herself, defending the platinum temple while Karametra cast Move Planet, and they succeeded. <small>(Oral Histories: The Inevitables, 2022-09-17)</small>
 
-The party went to the Moon again. This time the Short King had been seduced by **Drefanmetra**, the Waning One, and was a warlock of the Waning One (Archfey), and he joined the party. Brownsleeves was JL's character at the opening of the chronicle, and JL played the Short King in the finale, where he died in the final round of the fight against Cthulhu in [Arc VIII](/history/arc-viii-end-of-the-infanta/). <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
+The party went to the Moon again. This time the Short King had been seduced by **[Drefanmetra](/people/the-waning-one/)**, the Waning One, and was a warlock of the Waning One (Archfey), and he joined the party. Brownsleeves was JL's character at the opening of the chronicle, and JL played the Short King in the finale, where he died in the final round of the fight against Cthulhu in [Arc VIII](/history/arc-viii-end-of-the-infanta/). <small>(Oral Histories: The Inevitables, 2023-01-15)</small>

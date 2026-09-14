@@ -62,7 +62,7 @@ wa:
 
 **Campaign Arc · Temple Holdings LLC, Arc VII · The eve of the end · Complete**
 
-*Opens with:* the death of Brightmantle · *The muster:* every ally across every age · *The target:* Zeal, capital of Netheril
+*Opens with:* the death of Brightmantle · *The muster:* every ally across every age · *The target:* [Zeal](/places/zeal/), capital of [Netheril](/places/netheril/)
 
 *Follows:* [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/) · *Leads into:* [Arc VIII — End of the Infanta](/history/arc-viii-end-of-the-infanta/)
 
@@ -70,7 +70,7 @@ Arc VII — Leviathan is the seventh arc of the Ages of the Infanta campaign, co
 
 ## The Throne of Tears
 
-The heroes escape the rising Egg in a stolen Netherese ship — very familiar, "considerably less worn-in than the last time they stole this boat from St. Cloud," rigged for Netherese spellcraft instead of St. Cloud's comforts — and limp home to Motherstone with Percival's frozen corpse and grim news. Brother Magnus later raised Percival. <small>(Oral Histories: Temporal Holdings, 2022-04-09)</small> The ship carries "No anachron, a standard arcane core which requires a new Power Stone to teleport." [Brightmantle](/people/brightmantle/), the God of Discovery and Invention and [Brother Magnus's](/people/brother-magnus/) patron, is "suddenly unwell"; Magnus's own power fades and he is limited to Level 3 spells, retaining his slots and other abilities. By the time they return, Brightmantle is dead, and Elistrae and the entire city weep. Their allies "have gathered with Calix and Lex's help to plan that final invasion of Netheril." <small>(Arc VII, Leviathan I, "The Escape" and "The Throne of Tears.")</small>
+The heroes escape the rising Egg in a stolen Netherese ship — very familiar, "considerably less worn-in than the last time they stole this boat from St. Cloud," rigged for Netherese spellcraft instead of St. Cloud's comforts — and limp home to Motherstone with [Percival](/people/percival/)'s frozen corpse and grim news. Brother Magnus later raised Percival. <small>(Oral Histories: Temporal Holdings, 2022-04-09)</small> The ship carries "No anachron, a standard arcane core which requires a new Power Stone to teleport." [Brightmantle](/people/brightmantle/), the God of Discovery and Invention and [Brother Magnus's](/people/brother-magnus/) patron, is "suddenly unwell"; Magnus's own power fades and he is limited to Level 3 spells, retaining his slots and other abilities. By the time they return, Brightmantle is dead, and Elistrae and the entire city weep. Their allies "have gathered with Calix and Lex's help to plan that final invasion of Netheril." <small>(Arc VII, Leviathan I, "The Escape" and "The Throne of Tears.")</small>
 
 At the funeral every people the heroes saved across the arcs stepped forward to pledge, and to name them the rightful bearers of the sibling moonblades:
 
