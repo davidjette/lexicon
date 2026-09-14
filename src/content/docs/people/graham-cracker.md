@@ -1,20 +1,22 @@
 ---
 title: Graham Cracker
 description: Deirdre Moro's paralegal, killed before the story starts, whose last delivery of paperwork undid an Imperial purge.
+tags:
+  - Graham Cracker
+  - Graham
+  - Ministry of Law
+  - Korth
+  - paralegal
+  - Deirdre Moro
+  - Bantide Moro
+  - Eric the Cleric
+  - Gemma Corso
+  - casualty-reporting purge
+  - Grand Lodge
+image:
+  src: /images/uploads/graham-cracker-mu0j4syi.webp
 type: person
 kind: people
-tags:
-- Graham Cracker
-- Graham
-- Ministry of Law
-- Korth
-- paralegal
-- Deirdre Moro
-- Bantide Moro
-- Eric the Cleric
-- Gemma Corso
-- casualty-reporting purge
-- Grand Lodge
 icon: fa-file-lines
 fields:
   rpgAlignment: Unknown
@@ -31,10 +33,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/npcs-korth.md
-- C:/dev/sharn-campaign/deirdre-moro-cases.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/deirdre-moro-cases.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: graham-cracker-person
