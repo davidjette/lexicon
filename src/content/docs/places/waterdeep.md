@@ -49,6 +49,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+- sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 published: '2026-09-10'
 wa:
   slug: waterdeep-location
@@ -89,7 +90,7 @@ Five hundred years on, Waterdeep is held by the Cormyrean Empire under military 
 
 The **Unmasked Lord ap Dyksterhaus** flaunts imperial custom, rails against overtaxation and champions the merchants; he refused to travel to the imperial capital and pay tribute at all. The **Old Houses** despise the merchant class but love imperial peace, trade routes and access, and Varkus dines at Tiffany House. Beyond the walls the **farmlands** revolt over grain and cattle seizures and burn the levy wagons: the garrison eats while the countryside starves.
 
-On an apple cart a barker calls for the Unmasked Lord to evict the Purple Dragons and win independence from **the Zanzibar**. <small>(DM notes)</small> The title is the Emperor's: immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun, and from then on the Emperor was called the Zanzibar. <small>(Dave, 2026-09-14)</small> Visitors arriving by portal come out in a foyer high in Blackstaff Tower, where security issues each of them a **VISA**, a 24-hour voucher to be in the city; to protect the Mage's Guild, all extraplanar entities within the walls are monitored. <small>(DM notes)</small>
+On an apple cart a barker calls for the Unmasked Lord to evict the Purple Dragons and win independence from **the Zanzibar**. <small>(DM notes)</small> The title is the Emperor's: immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun, and from then on the Emperor was called the Zanzibar. He set his imperial capital in Suzail. <small>(Dave, 2026-09-14)</small> Visitors arriving by portal come out in a foyer high in Blackstaff Tower, where security issues each of them a **VISA**, a 24-hour voucher to be in the city; to protect the Mage's Guild, all extraplanar entities within the walls are monitored. <small>(DM notes)</small>
 
 **Right now:** Ostara approaches, and the festival season is thinner than usual.
 

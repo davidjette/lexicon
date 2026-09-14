@@ -37,12 +37,13 @@ sources:
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - CANON.md 5ah
 - CANON.md 5ai
+- sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 published: '2026-09-14'
 ---
 
 **War and revolution · Faerûn · The Cormyrean Empire against the risings · A critical collapse of the continent**
 
-**The War of the Five Zanzibars** is a war and revolution in Faerûn, and a critical collapse of the continent before a dark time that preceded the ascendance of the Sovereignty. It broke out five hundred years after [Zanzibar](/people/zanzibar/), Zanzibar the Elder, declared himself Emperor of Faerûn and founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since. It began in the first month of the reign of [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), with four factions risen against him and [Waterdeep](/places/waterdeep/) talking of independence. The five Zanzibars are the Emperor and the four leaders risen against him: Zellmo, Zythara, [Peterbilt Varkus](/people/peterbilt-varkus/) and Modle Negen. [Dead Man's Hand](/lore/dead-mans-hand/) takes place during its beginnings, and the war is referred to in [Starfall: The Next Generation](/lore/starfall-the-next-generation/).
+**The War of the Five Zanzibars** is a war and revolution in Faerûn, and a critical collapse of the continent before a dark time that preceded the ascendance of the Sovereignty. It broke out five hundred years after [Zanzibar](/people/zanzibar/), Zanzibar the Elder, declared himself Emperor of Faerûn and founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since. He set his imperial capital in Suzail. It began in the first month of the reign of [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), with four factions risen against him and [Waterdeep](/places/waterdeep/) talking of independence. The five Zanzibars are the Emperor and the four leaders risen against him: Zellmo, Zythara, [Peterbilt Varkus](/people/peterbilt-varkus/) and Modle Negen. [Dead Man's Hand](/lore/dead-mans-hand/) takes place during its beginnings, and the war is referred to in [Starfall: The Next Generation](/lore/starfall-the-next-generation/).
 
 ## The Empire of the Zanzibars
 

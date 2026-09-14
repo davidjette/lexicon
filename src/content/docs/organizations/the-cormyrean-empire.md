@@ -42,6 +42,7 @@ sources:
 - CANON.md 5ac
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - CANON.md 5ah
+- sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 published: '2026-09-10'
 wa:
   slug: the-cormyrean-empire-organization
@@ -66,7 +67,7 @@ It reaches from its capital in the heartland to [Waterdeep](/places/waterdeep/) 
 
 Zanzibar the Elder is [Zanzibar](/people/zanzibar/) of the Temple Holdings chronicle, the prince present at Suzail and at Motherstone in the Age of the Infanta, whose father the king died of his injuries with a priest of Zarus at his bedside.
 
-Immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. From then on the Emperor was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> In occupied Waterdeep a barker on an apple cart calls for the Unmasked Lord to evict the Purple Dragons and win independence from the Zanzibar, and General Varkus has delivered an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
+Immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. He set his imperial capital in Suzail. From then on the Emperor was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> In occupied Waterdeep a barker on an apple cart calls for the Unmasked Lord to evict the Purple Dragons and win independence from the Zanzibar, and General Varkus has delivered an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
 
 ## THE PRESENT SUCCESSION
 

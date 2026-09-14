@@ -28,7 +28,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: The imperial capital
+  residence: Suzail, the imperial capital
   gender: Male
   age: Unknown
   eyes: Unknown
@@ -42,6 +42,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075)
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+- sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 published: '2026-09-10'
 wa:
   slug: zanzibar-william-the-melancholy-person

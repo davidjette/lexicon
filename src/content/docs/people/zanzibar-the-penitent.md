@@ -23,7 +23,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Zanzibar William the Melancholy
-  residence: The imperial capital
+  residence: Suzail, the imperial capital
   gender: Male
   age: Elderly at death
   eyes: Unknown
@@ -34,6 +34,7 @@ fields:
 sources:
 - C:/dev/fort-max/fort-maximillien.md
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
+- sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 published: '2026-09-10'
 wa:
   slug: zanzibar-the-penitent-person

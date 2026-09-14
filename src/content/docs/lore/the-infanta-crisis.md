@@ -39,6 +39,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - CANON.md 5ai
+- sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 published: '2026-09-10'
 wa:
   slug: the-infanta-crisis-article
@@ -67,7 +68,7 @@ The ground where the tavern stood was consecrated, then fortified, then forgotte
 
 The Cormyrean Empire was founded on the claim that its founder's blood is holy, with **Zarus** — god of sentinels, conquest and humanity triumphant — as state patron. Its frontier army, the Western Vanguard, is "half crusaders, half occupying force." Under the Empire, Princess Zythara was stripped of her titles for defying ecclesiastical oversight of arcane study.
 
-Zanzibar the Elder is [Zanzibar](/people/zanzibar/) of the Ages of the Infanta. Immediately after the Ages, crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, he declared himself Emperor of Faerûn and consolidated control of the continent, mostly peacefully, and from then on the Emperor was called "the Zanzibar". Five hundred years later the Empire he founded came to [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a critical collapse of the continent.
+Zanzibar the Elder is [Zanzibar](/people/zanzibar/) of the Ages of the Infanta. Immediately after the Ages, crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, he declared himself Emperor of Faerûn and consolidated control of the continent, mostly peacefully, and from then on the Emperor was called "the Zanzibar". He set his imperial capital in Suzail. Five hundred years later the Empire he founded came to [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a critical collapse of the continent.
 
 ## The Ordo Trium
 
