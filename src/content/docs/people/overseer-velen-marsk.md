@@ -1,21 +1,23 @@
 ---
 title: Overseer Velen Marsk
 description: The Imperial overseer of the Korranberg Foundry, three years dead and still on shift, who signed for his own death warrant and carried out every line above it.
+tags:
+  - Overseer Velen Marsk
+  - Velen Marsk
+  - Vellin Marsk
+  - Marsk
+  - Korranberg Foundry
+  - Korranberg Foundry Trust
+  - Kaius III
+  - death warrant
+  - Black Doves
+  - Maelis Dorn
+  - the accident
+  - The Korramont
+image:
+  src: /images/uploads/overseer-velen-marsk-mu0xfhqs.webp
 type: person
 kind: people
-tags:
-- Overseer Velen Marsk
-- Velen Marsk
-- Vellin Marsk
-- Marsk
-- Korranberg Foundry
-- Korranberg Foundry Trust
-- Kaius III
-- death warrant
-- Black Doves
-- Maelis Dorn
-- the accident
-- The Korramont
 icon: fa-clipboard-list
 fields:
   rpgAlignment: Unknown
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/current-state.md
-- worldanvil/CANON.md
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/current-state.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: overseer-velen-marsk-person
