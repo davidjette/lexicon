@@ -225,6 +225,11 @@ def check_links(a, known):
     out = []
     for m in re.finditer(r'\]\((/[^)\s#?]*)', a.body):
         target = m.group(1)
+        if target.startswith('/images/'):
+            # an inline image, not an article link: it only has to exist as a file
+            if not os.path.exists(os.path.join(ROOT, 'public', *target.strip('/').split('/'))):
+                out.append(('missing-image', target))
+            continue
         key = target.strip('/')
         if key not in known:
             out.append(('broken-link', target))
