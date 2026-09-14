@@ -1,21 +1,23 @@
 ---
 title: Hillary Heinrick
 description: Head of ArcEye Security in Sharn - she archived a decade of the city's secrets, including the one that brought the Empire down.
+tags:
+  - Hillary Heinrick
+  - Heinrick
+  - ArcEye
+  - Arcane Eye
+  - Arcane Eye Security Network
+  - ArcEye Crystallizer
+  - Iron Veil
+  - Veil Building
+  - Sharn
+  - Henry Heinrick
+  - Chelsea Heinrick
+  - Surveillance
+image:
+  src: /images/uploads/hillary-heinrick-mu0jygno.webp
 type: person
 kind: people
-tags:
-- Hillary Heinrick
-- Heinrick
-- ArcEye
-- Arcane Eye
-- Arcane Eye Security Network
-- ArcEye Crystallizer
-- Iron Veil
-- Veil Building
-- Sharn
-- Henry Heinrick
-- Chelsea Heinrick
-- Surveillance
 icon: fa-eye
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/home.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- worldanvil/CANON.md
+  - sources/site/key-figures.txt
+  - sources/site/home.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: hillary-heinrick-person
@@ -137,3 +139,5 @@ She is dead, executed by a provisional government sitting in the penthouse above
 - **Candice Kurt** — anchor and family friend. Killed at the POSÉ opening.
 
 **Hobbies & Pets** — Unknown.
+
+![Hillary Heinrick.png](/images/uploads/hillary-heinrick-mu0jyt6w.webp)
