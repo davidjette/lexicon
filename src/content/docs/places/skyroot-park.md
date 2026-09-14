@@ -1,19 +1,22 @@
 ---
 title: Skyroot Park
 description: Suspended parkland high above the Upper City, and the hidden puzzle that opens the way down into the rebel stronghold called the Nest.
+tags:
+  - Skyroot Park
+  - Sharn
+  - Upper City
+  - The Nest
+  - Izaak
+  - Zero of Sharn
+  - Jessica Grimpledink
+  - Ghost Chip
+  - rebellion
+  - park
+image:
+  src: /images/uploads/skyroot-park-mu0owsqn.webp
+  alt: Skyroot Park
 type: landmark
 kind: places
-tags:
-- Skyroot Park
-- Sharn
-- Upper City
-- The Nest
-- Izaak
-- Zero of Sharn
-- Jessica Grimpledink
-- Ghost Chip
-- rebellion
-- park
 icon: fa-tree
 fields:
   type: Public park
@@ -26,15 +29,12 @@ fields:
   history: The route by which the future Inevitables first reached the Sharn rebellion
   sensory: Open sky, growing things, and the city dropping away beneath the railings
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: skyroot-park-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
-image:
-  src: /images/site/skyroot-park-1.webp
-  alt: Skyroot Park
 gallery:
   - src: /images/site/skyroot-park-2.webp
     alt: Skyroot Park
