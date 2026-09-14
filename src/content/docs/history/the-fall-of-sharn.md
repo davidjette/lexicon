@@ -1,24 +1,26 @@
 ---
 title: The fall of Sharn
 description: Esther Crona died on her own balcony, and with her last two sentences disarmed her army and named the woman who should be killed next.
+tags:
+  - Fall of Sharn
+  - Death of Esther Crona
+  - Esther Crona
+  - Uriel Qualanthri
+  - Henry Heinrick
+  - Richard Blaze
+  - Calcifer
+  - Black Veil
+  - Iron Veil
+  - Council of 13
+  - Veil Building
+  - Locke Pierce
+  - Blair
+  - Joseph Roberts
+  - Your pact is void
+image:
+  src: /images/uploads/esther-crona-fall-of-sharn-mu0qybhm.webp
 type: conflict
 kind: history
-tags:
-- Fall of Sharn
-- Death of Esther Crona
-- Esther Crona
-- Uriel Qualanthri
-- Henry Heinrick
-- Richard Blaze
-- Calcifer
-- Black Veil
-- Iron Veil
-- Council of 13
-- Veil Building
-- Locke Pierce
-- Blair
-- Joseph Roberts
-- Your pact is void
 icon: fa-tower-observation
 fields:
   type: Citywide rising
@@ -29,10 +31,10 @@ fields:
   last_words: Your pact is void. / ... Kill Empress Uriel Qualanthri...
   outcome: The Iron Veil pact voided citywide; the Empire expelled from Sharn; the city leaderless
 sources:
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/ebt-7.txt
-- worldanvil/CANON.md
-- README.md
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/ebt-7.txt
+  - worldanvil/CANON.md
+  - README.md
 published: '2026-09-10'
 wa:
   slug: the-fall-of-sharn-militaryConflict
