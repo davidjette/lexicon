@@ -7,140 +7,120 @@ image:
 sources: []
 ---
 
-Longsword · Black and Red Khyber · Former arm of Vayrn Crona · Former Hexblade of Esther Crona · Carried by Gemma Corso
+**Longsword · Black Khyber (Shavat) · Former arm of Vayrn Crona · Former Hexblade of Esther Crona · Crystal after the Rite of Recall · Carried by Gemma Corso**
 
-Also known as: Bright Dawn · the Crimson Sun Sword · Vayrn's sword · Esther's Hexblade · the sword of the Eternal Guardian
+*Also known as:* Bright Dawn · the Crimson Sun Sword · Vayrn's sword · Esther's Hexblade · the sword of the Eternal Guardian
 
-BRIGHT DAWN is a longsword forged from Black Khyber, later transformed into a weapon of black and red Khyber after Vayrn Crona used it in the creation of the Mourning. The sword once contained the bound soul of Vayrn Crona, the Eternal Guardian, and became the pact weapon and Hexblade of Lord Commander Esther Crona. The Trio ultimately confronted the Echo of Vayrn within the weapon at the Forge of Binding, where the Rite of Recall destroyed the trapped soul and unbound the sword. Afterward its dark corruption disappeared and the blade took on a crystalline, radiant appearance. Following Esther's death atop the Veil building, the sword fell from the balcony with her. Gemma Corso recovered it, renamed it Bright Dawn, and now wields it as her pact blade.
+**BRIGHT DAWN** is a longsword originally forged from [black Khyber — Shavat](/items/khyber-taxonomy/) and once belonging to **Vayrn Crona**, the Eternal Guardian. After Vayrn used the sword in the creation of the Mourning, the weapon became partly transformed into black and red Khyber. When the Echo of Vayrn Crona later became trapped within it, the sword served as the Hexblade and pact weapon of [Lord Commander Esther Crona](/people/esther-crona/), carrying the soul and power of the Eternal Guardian. The Trio ultimately confronted the Echo of Vayrn at the [Forge of Binding](/locations/forge-of-binding/), where the **Rite of Recall** destroyed the trapped soul and broke the binding. The sword lost its black and red corruption and became crystalline. After Esther's death atop the Veil building, she dropped the sword as she fell from the balcony. [Gemma Corso](/people/gemma-corso/) recovered it, renamed it **Bright Dawn**, and now wields it as her pact blade.
 
-The sword
+## The sword
 
-Bright Dawn is a very rare longsword requiring attunement. It grants a +2 bonus to attack and damage rolls and deals an additional 1d4 radiant damage on hit.
+Bright Dawn is a **very rare longsword requiring attunement**. It grants a **+2 bonus to attack and damage rolls** and deals an additional **1d4 radiant damage on hit**.
 
-While holding it, Gemma can use a bonus action to make the sword glow, shedding Bright Light in a 40-foot radius and Dim Light for an additional 40 feet.
+While holding this magic weapon, Gemma can use a bonus action to make it glow, shedding **Bright Light in a 40-foot radius** and **Dim Light for an additional 40 feet**.
 
-It carries two solar abilities:
+### Solar Trip — 3 charges
 
-Solar Trip — 3 charges
+When Gemma hits a creature with Bright Dawn, she may expend 1 charge to unleash a radiant pulse through the blade. The target must succeed on a **DC 16 Strength saving throw** or be knocked prone as light bursts beneath its feet.
 
-When Gemma hits a creature with Bright Dawn, she may expend one charge to unleash a radiant pulse through the blade. The target must succeed on a DC 16 Strength saving throw or be knocked prone as light bursts beneath its feet.
+The sword regains **1d3 charges at dawn**.
 
-The sword regains 1d3 charges at dawn.
+### Solar Step — 1/day
 
-Solar Step — 1/day
+As an action, Gemma can cast **Teleport** through Bright Dawn, requiring no components and no spell slot. A white flash erupts at both her departure and arrival points.
 
-As an action, Gemma can cast Teleport through the sword, requiring no components and no spell slot. A white flash erupts at both her departure and arrival points.
+The sword also possesses the **Sap** mastery property: when Gemma hits a creature with it, that creature has disadvantage on its next attack roll before the start of Gemma's next turn.
 
-The weapon also carries the Sap mastery property: when Gemma hits a creature with the sword, that creature has disadvantage on its next attack roll before the start of Gemma's next turn.
+## How it began
 
-From darkness to light
+Bright Dawn did not begin as Bright Dawn.
 
-The sword did not begin as Bright Dawn.
+The sword was originally the weapon of **Vayrn Crona**, the Eternal Guardian, and was forged from black Khyber. Vayrn later used the blade in the creation of the **Mourning**, after which the weapon became partly transformed into black and red Khyber.
 
-It was originally the sword of Vayrn Crona, the Eternal Guardian, forged from Black Khyber. Vayrn used it in the creation of the Mourning, after which the weapon became partially transformed, its Black Khyber joined with red Khyber.
+The sword eventually became the vessel for the Echo of Vayrn Crona. With the Eternal Guardian trapped within it, the weapon became the Hexblade of **Esther Crona**, binding its power to her and carrying Vayrn's lingering will forward through Esther.
 
-When Vayrn's Echo was eventually bound within the sword, it became something more than a weapon. It became the vessel of the Eternal Guardian's remaining will, and under Esther Crona it served as a Hexblade, carrying Vayrn's power into the world.
+For years, the sword was therefore inseparable from the legacy of Vayrn, the Mourning, and Esther.
 
-The Trio did not merely defeat the sword's wielder. At the Forge of Binding, they confronted the Echo within the weapon itself. Through the Rite of Recall, the trapped soul of Vayrn Crona was destroyed, breaking the bond that had held the Eternal Guardian within the blade.
+## The Forge of Binding
 
-When the binding ended, the sword changed.
+The Trio eventually confronted the Echo of Vayrn Crona at the **Forge of Binding**. Through the **Rite of Recall**, they destroyed the trapped soul of the Eternal Guardian and broke its connection to the sword.
 
-Its black-and-red Khyber darkness was gone.
+The change was immediate.
 
-What remained was crystalline, luminous, and no longer inhabited by another soul.
+The black and red Khyber corruption disappeared, leaving behind a crystalline weapon.
 
-How it was named
+The sword was no longer the prison of Vayrn Crona.
 
-The sword's current name was given by Gemma Corso.
+It was no longer Esther's Hexblade.
 
-After the death of Esther Crona atop the Veil building, Esther released the sword as she fell from the penthouse balcony. Gemma recovered the weapon and, no longer willing to carry it under the name and history of its previous masters, renamed it Bright Dawn.
+The soul within it was gone.
 
-The name marks the sword's transformation.
+## How it was named
 
-It had once carried the darkness of Black Khyber, the blood-red corruption of the Mourning, and the soul of the Eternal Guardian.
+The sword's current name was given by **Gemma Corso**.
 
-Now it belongs to Gemma.
+After the defeat of Esther Crona atop the **Veil building**, Esther fell from the penthouse balcony and dropped the sword.
 
-The Mourning
+Gemma recovered it.
 
-The sword's history is permanently tied to the Mourning.
+The weapon that had once been associated with the Mourning, the Eternal Guardian, and Esther Crona was no longer bound to any of them. Gemma renamed it **Bright Dawn** and claimed it as her own pact blade.
 
-Vayrn Crona used the weapon in the creation of that catastrophe, and the transformation of the blade from Black Khyber into black and red Khyber occurred as part of that history.
+The name marks the sword's transformation from an instrument of darkness into something associated with light, freedom, and renewal.
 
-Later, the sword became the vessel for Vayrn's Echo.
+## Recovery
 
-By the time Esther wielded it, the weapon represented several layers of the same legacy:
+The sword was recovered after **Esther Crona's death** atop the Veil building.
 
-Vayrn Crona → the Eternal Guardian → the Mourning → Esther Crona → the Hexblade.
+Esther fell from the penthouse balcony, and the sword fell with her. Gemma recovered it afterward and claimed it as her own.
 
-The Rite of Recall broke that chain.
+Unlike its previous bond with the Echo of Vayrn Crona, the weapon now answers to **Gemma Corso**.
 
-Bright Dawn is what remained.
+## On-screen history
 
-Release at the Forge of Binding
+- **Vayrn Crona** — the original bearer of the sword and the Eternal Guardian whose power would later become bound within it.
+- **The Mourning** — Vayrn used the sword in the creation of the Mourning, after which the weapon became partly transformed into black and red Khyber.
+- **Esther Crona** — wielded the sword as her Hexblade while the Echo of Vayrn Crona remained trapped within it.
+- **The Forge of Binding** — the Trio used the Rite of Recall to destroy the Echo of Vayrn Crona and break the binding that held the Eternal Guardian within the weapon.
+- **The Veil Penthouse** — Esther dropped the sword as she fell from the balcony after her defeat.
+- **Bright Dawn** — Gemma recovered the sword, renamed it, and claimed it as her pact blade.
 
-At the Forge of Binding, the Trio encountered the Echo of Vayrn Crona trapped within the sword.
+## What changed after Vayrn's destruction
 
-The Rite of Recall was used to sever the bond and destroy the imprisoned soul.
-
-Once Vayrn was destroyed, the sword was no longer a vessel for the Eternal Guardian.
-
-The transformation was visible.
-
-The corrupted black-and-red appearance was lost, leaving behind the crystalline sword now known as Bright Dawn.
-
-It was not reforged.
-
-It was freed.
-
-Recovery
-
-After Esther Crona's defeat atop the Veil building, she fell from the penthouse balcony and the sword fell with her.
-
-The Trio recovered it afterward.
-
-Gemma claimed the weapon and renamed it Bright Dawn.
-
-What had been Esther Crona's Hexblade became Gemma Corso's pact blade.
-
-On-screen history
-Vayrn Crona — the original bearer of the sword and the Eternal Guardian whose soul would eventually become bound within it.
-The Mourning — Vayrn used the sword in the creation of the catastrophe, after which the weapon became black and red Khyber.
-Esther Crona — wielded the sword as her Hexblade, carrying the bound Echo of Vayrn.
-The Forge of Binding — the Trio used the Rite of Recall to destroy the Echo of Vayrn Crona trapped within the sword and break its binding.
-The Veil Penthouse — Esther dropped the sword as she fell to her death from the balcony.
-Bright Dawn — Gemma recovered the weapon, gave it its new name, and claimed it as her own pact blade.
-What changed after Vayrn's destruction
-
-The greatest change to the weapon was not mechanical.
+The most important transformation of the sword was not mechanical.
 
 It was spiritual.
 
-The sword no longer contains the soul of the Eternal Guardian.
+The weapon once contained another person's soul.
 
-It no longer serves Esther Crona.
+It once carried the will of **Vayrn Crona**.
 
-It no longer carries the will of either of them.
+It once served **Esther Crona**.
 
-The weapon that once imposed another person's power upon its bearer is now bound to Gemma's own pact.
+It was tied to the creation of the **Mourning**.
+
+After the Rite of Recall, all of that was severed.
+
+The sword remained, but the presence within it was gone.
 
 Its new abilities reflect that transformation:
 
-	
-Radiant rather than corrupting	Bright Dawn deals an additional 1d4 radiant damage and can flood the surrounding area with light.
-Solar Trip	Radiant force can knock an enemy prone when Gemma strikes.
-Solar Step	Once each day, the sword allows Gemma to teleport in a flash of white light.
-Sap	A successful strike disrupts the target's next attack.
+|  |  |
+|---|---|
+| **Radiant power** | Bright Dawn deals an additional 1d4 radiant damage on every hit. |
+| **Light** | Gemma can cause the sword to shed bright light over a wide area. |
+| **Solar Trip** | A radiant pulse can knock an enemy prone when Gemma strikes. |
+| **Solar Step** | Once per day, the sword allows Gemma to teleport in a flash of white light. |
+| **Sap** | A successful strike disrupts the target's next attack. |
 
 The sword that once helped create the Mourning now carries powers of light, movement, and renewal.
 
-Right now
+## Right now
 
-Gemma Corso carries Bright Dawn and uses it as her pact blade.
+**Gemma Corso** carries Bright Dawn and uses it as her pact blade.
 
-It remains a very rare, +2 longsword requiring attunement, dealing 1d4 additional radiant damage on every hit.
+It remains a **very rare, +2 longsword requiring attunement**, dealing **1d4 additional radiant damage** on every hit.
 
-Gemma can invoke its light, use Solar Trip three times between dawns, and Solar Step once per day.
+Gemma can invoke its light, use **Solar Trip** three times between dawns, and **Solar Step** once per day.
 
 Most importantly, the sword is no longer inhabited.
 
@@ -148,4 +128,4 @@ The Echo of Vayrn Crona is gone.
 
 For the first time in its known history, the weapon belongs entirely to the person carrying it.
 
-Bright Dawn is what remains of the sword after the Eternal Guardian was finally released.
+**Bright Dawn** is what remained after the Eternal Guardian was finally released.
