@@ -26,6 +26,16 @@ tags:
 - Lex
 - Raven Queen
 - Cypher
+- Brownsleeves
+- the Short King
+- Wainwright St. Cloud
+- Baldur's Gate train
+- Vault Wand
+- Von Lampes
+- Bank of Harloch
+- Harlochs
+- Temporal Holdings
+- Nimbus Corp
 icon: fa-egg
 fields:
   campaign: Temple Holdings LLC
@@ -41,6 +51,14 @@ sources:
 - sources/dave/2026-09-13-fates-june-saharel.md
 - Dave, note of 2026-09-13
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+- CANON.md 5ae (Oral Histories)
+- CANON.md Oral Histories batch 4
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2023-10-12"
+- "Oral Histories: The Inevitables, 2023-12-02"
+- "Oral Histories: The Inevitables, 2024-01-18"
 published: '2026-09-10'
 wa:
   slug: arc-viii-E28094-end-of-the-infanta-plot
@@ -71,6 +89,8 @@ Three Infantas — [Elistrae](/people/elistrae/), Eloise and Tymora — part the
 
 Before the god, a chosen hero is pulled out of the world entirely, into a luxurious night train — the train to Baldur's Gate where they once met Una — to sit across from a man who wears whichever face they expect: St. Cloud, Brightmantle, the storyteller himself. It offers a game.
 
+The Lost Train and the Baldur's Gate train are the same train. At Baldur's Gate [Stonecypher](/people/stonecypher/) used the Vault Wand on the railway gate, and the out-of-control steam engine careened into the void instead of into the station. The train that appears at the end is the one that disappeared into the Vault Wand's non-room. The **Von Lampes**, whom Stonecypher voided with the same wand at the auction where Excalibur was taken, are on the train in the finale scene.
+
 ### The game on the Lost Train
 
 <small>Recovered from the Oblivia.</small>
@@ -87,6 +107,8 @@ Refuse it, and "now you die, but not before suffering an eternity in pain."
 
 The god is fought in pieces — a thousand-foot horror of Head, Claws, Tentacles and Wings, each tracked as its own creature, each regenerating, the air around him bending space so that distance halves and halves again as you close. The Egg permits no escape: no teleport, no plane shift, no astral projection, no way out at all while the god lives. To even stand near him is to risk permanent madness under his **Unspeakable Presence**. He cannot be killed by force; one act ends him.
 
+In the Egg [Kara](/people/kara/) freed [Wainwright St. Cloud](/people/wainwright-st-cloud/) from the crystal and used his black power, and St. Cloud died in the Egg for Kara. **Brownsleeves**, the Short King of the moon, died in the final round of the fight against Cthulhu.
+
 ### The End of the Infanta — the Wish that becomes the Oblivia
 
 <small>Recovered from the Oblivia.</small> The heroes must beat Cthulhu's Head to nothing and then **touch it with an Obliviator**. The instant they do, a countdown begins:
@@ -95,7 +117,7 @@ The god is fought in pieces — a thousand-foot horror of Head, Claws, Tentacles
 
 In those six seconds, a final **Wish** decides what the world keeps. Cast it, and you may "choose what the world forgets and remembers about your quest, with the consequence that **they themselves will be forgotten in all but the vaguest terms**. A symbol, image, relic or myth may stay behind, even a religious order, but they will fade from their loved ones' minds in lieu of what is new and living."
 
-This is the **End of the Infanta**: the discharge of the Obliviator against the god, the Wish that unwrites Cthulhu, the war, the Age of reborn gods — and the heroes who ended it.
+This is the **End of the Infanta**: the discharge of the Obliviator against the god, the Wish that unwrites Cthulhu, the war, the Age of reborn gods — and the heroes who ended it. Cthulhu was brought to 0 HP and then erased. In Dave's later account, "Cypher killed Cthulhu". <small>(Oral Histories: The Inevitables, 2023-12-02)</small>
 
 Among what is removed from memory is the [Lexicon](/items/the-lexicon/)'s knowledge of itself. Cypher's Obliviation of the Infantaverse quest in this finale takes with it the premise of time travel via the [Anachron](/items/the-anachron/), and Lex's own latent power over time, which he does not recover for millennia. <small>(The Lexicon "forgets for millennia due to the Obliviation of the Infantaverse quest from memory by Cypher in the finale with Cthulhu/along with the premise and existence of time travel using the Anachron." The encounter notes give the mechanism — the Obliviator's shockwave and the Wish — and do not name Cypher.)</small>
 
@@ -106,4 +128,8 @@ How the world wakes depends on the final breath of the conflagration:
 - **If the contents of the Egg are forgotten**, the surface is left confused and leaderless — armies drop their weapons and drift home, the Infantas gone from every memory, the driders retreating to the Underdark. This is the world of the Oblivia.
 - **If the heroes spend their Wish to preserve the memory** instead, they emerge to absolute reverence — and more: the Final Wish "unlocked centuries of Obliviation, revealing untold plethora of knowledge once hidden from thought," and broadcast their story "into tens of thousands of sentient minds throughout the Realms… they now know your story, and many will remember it, and make legends from it."
 
-Either way, the Age of the Infanta is over, the gods are loosed from their reborn children, and the Leviathan is unwritten. What survives of it is myth and relic. The Ages of the Infanta ends here.
+Either way, the Age of the Infanta is over, the gods are loosed from their reborn children, and the Leviathan is unwritten. What survives of it is myth and relic. The Ages of the Infanta ends here. What followed was, in Dave's words, "an all new status quo where the cosmos are orderly in the great wheel model". <small>(Oral Histories: The Inevitables, 2024-01-18)</small>
+
+## The Bank of Harloch
+
+The heroes are forgotten in all but the vaguest terms. The **Bank of Harloch** and its holding company, [Temple Holdings](/lore/temple-holdings-llc/), persist well into the future. After the finale the company was rebranded **Temporal Holdings**, and sovereign currency is nicknamed **"Harlochs"** because of the bank. The company lost the bid for the St. Cloud Trading Company to [Revan Darkcember's](/people/revan-darkcember/) [Nimbus Corp](/organizations/nimbus-corp/).

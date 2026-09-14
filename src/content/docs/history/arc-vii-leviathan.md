@@ -26,6 +26,14 @@ tags:
 - Lex
 - Brother Magnus
 - the Anachron
+- Percival
+- Grey Sage
+- Karametra
+- platinum temple
+- Move Planet
+- Tarrasque
+- Tiamat
+- Bahamut
 icon: fa-water
 fields:
   campaign: Temple Holdings LLC
@@ -37,6 +45,15 @@ fields:
 sources:
 - Desktop/infantaverse-wiki/src/content/docs/events/leviathan.mdx
 - Desktop/D&D/Temple Holdings LLC/7 - Leviathan/AGES OF THE INFANTA - Leviathan I.docx
+- CANON.md 5ae (Oral Histories)
+- CANON.md Oral Histories batch 4
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c17-c21.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2022-04-09"
+- "Oral Histories: Temporal Holdings, 2022-07-17"
+- "Oral Histories: The Inevitables, 2022-09-17"
 published: '2026-09-10'
 wa:
   slug: arc-vii-E28094-leviathan-plot
@@ -49,11 +66,11 @@ wa:
 
 *Follows:* [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/) · *Leads into:* [Arc VIII — End of the Infanta](/history/arc-viii-end-of-the-infanta/)
 
-Arc VII — Leviathan is the seventh arc of the Ages of the Infanta campaign, covering the muster of the alliance before the final battle. It opens with the heroes escaping the rising **Leviathan Egg** in a stolen Netherese ship and returning to Motherstone, where [Brightmantle](/people/brightmantle/), God of Discovery and Invention, dies. At his funeral every people the heroes saved across the arcs pledges to them and names them bearers of the sibling moonblades. Lex and Calix then brief the assembled commanders on the Netherese queens' **Apotheosis of Man** — the plan to bring the **Mammon Machine** to the **Black Omen** — and the host turns toward **Zeal**, the flying capital of **Netheril**, to tear the human cities from the sky. The arc leads into the breaking of the Egg in Arc VIII.
+Arc VII — Leviathan is the seventh arc of the Ages of the Infanta campaign, covering the muster of the alliance before the final battle. It opens with the heroes escaping the rising **Leviathan Egg** in a stolen Netherese ship and returning to Motherstone, where [Brightmantle](/people/brightmantle/), God of Discovery and Invention, dies. At his funeral every people the heroes saved across the arcs pledges to them and names them bearers of the sibling moonblades. Lex and Calix then brief the assembled commanders on the Netherese queens' **Apotheosis of Man** — the plan to bring the **Mammon Machine** to the **Black Omen** — and the host turns toward **Zeal**, the flying capital of **Netheril**, to tear the human cities from the sky. The Time of Troubles comes to its climax as Zeal rises into orbit to meet the Egg, and the party goes back to the deep past to defend [Karametra's](/people/karametra/) platinum temple while she casts **Move Planet**. The arc leads into the breaking of the Egg in Arc VIII.
 
 ## The Throne of Tears
 
-The heroes escape the rising Egg in a stolen Netherese ship — very familiar, "considerably less worn-in than the last time they stole this boat from St. Cloud," rigged for Netherese spellcraft instead of St. Cloud's comforts — and limp home to Motherstone with Percival's frozen corpse and grim news. The ship carries "No anachron, a standard arcane core which requires a new Power Stone to teleport." [Brightmantle](/people/brightmantle/), the God of Discovery and Invention and [Brother Magnus's](/people/brother-magnus/) patron, is "suddenly unwell"; Magnus's own power fades and he is limited to Level 3 spells, retaining his slots and other abilities. By the time they return, Brightmantle is dead, and Elistrae and the entire city weep. Their allies "have gathered with Calix and Lex's help to plan that final invasion of Netheril." <small>(Arc VII, Leviathan I, "The Escape" and "The Throne of Tears.")</small>
+The heroes escape the rising Egg in a stolen Netherese ship — very familiar, "considerably less worn-in than the last time they stole this boat from St. Cloud," rigged for Netherese spellcraft instead of St. Cloud's comforts — and limp home to Motherstone with Percival's frozen corpse and grim news. Brother Magnus later raised Percival. <small>(Oral Histories: Temporal Holdings, 2022-04-09)</small> The ship carries "No anachron, a standard arcane core which requires a new Power Stone to teleport." [Brightmantle](/people/brightmantle/), the God of Discovery and Invention and [Brother Magnus's](/people/brother-magnus/) patron, is "suddenly unwell"; Magnus's own power fades and he is limited to Level 3 spells, retaining his slots and other abilities. By the time they return, Brightmantle is dead, and Elistrae and the entire city weep. Their allies "have gathered with Calix and Lex's help to plan that final invasion of Netheril." <small>(Arc VII, Leviathan I, "The Escape" and "The Throne of Tears.")</small>
 
 At the funeral every people the heroes saved across the arcs stepped forward to pledge, and to name them the rightful bearers of the sibling moonblades:
 
@@ -92,6 +109,12 @@ Lex read the same plan as annihilation: channel the souls of the dead into the h
 The capital of Netheril, the flying city of **Zeal**, has begun a tremendous magical jubilee — the culmination of faith that masks the Apotheosis. From his vantage at the peak of [Sigil](/places/sigil/), Tylerjynex reports the Old Man's House ringed in elemental storms and the **Penteract** — the five-dimensional barrier built around a fragment of the Mammon Machine trapped at the Heart of the City of Dis — "cracking and bucking at the force of some internal pressure."
 
 Three roads lay open to the assembled host: **reconnaissance**, **invasion**, and **time travel**. The elves and the Earthbound races of Toril will "tear the human cities from the sky to preserve life as we know it," and every force across every age will converge where June foretold they must: inside the Egg, where all Times meet.
+
+The Time of Troubles came to its climax as Zeal rose into orbit to meet the [Egg](/places/the-egg/), carrying the [Obliviator](/items/the-obliviator/) and the armies of Faerûn. The **Grey Sage**, [Wainwright St. Cloud](/people/wainwright-st-cloud/), was captured alive, and [Roland's Cube](/items/rolands-cube/) was in hand, though broken. Zeal was to enter the Egg in one day, and before it did the party would "use the Anachron to travel back in time to do the same in that era." <small>(Oral Histories: Temporal Holdings, 2022-07-17)</small> See also [Arc VI](/history/arc-vi-time-of-troubles/).
+
+## The platinum temple
+
+In the deep past [Karametra](/people/karametra/) seduced **Bahamut** and had the dragons build a **platinum temple** in which to cast **Move Planet**, to put the Moon into the path of the Egg. The party came to help her. Defending the temple while she cast the spell, they fought a tarrasque, some dragons, and then **Tiamat** herself, and they succeeded. <small>(Oral Histories: The Inevitables, 2022-09-17)</small>
 
 ## Into Arc VIII
 

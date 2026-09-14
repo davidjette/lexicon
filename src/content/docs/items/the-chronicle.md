@@ -21,6 +21,7 @@ tags:
 - Cypher
 - the Obliviator
 - Infantaverse
+- The Archives
 icon: fa-book-atlas
 fields:
   type: Living archive / Infernal Machine
@@ -36,6 +37,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part I.txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
+- "Oral Histories: Temporal Holdings, 2020-11-22"
 published: '2026-09-10'
 wa:
   slug: the-chronicle-item
@@ -44,9 +46,9 @@ wa:
 
 **Living archive · Under hardened magma northeast of Enkidu, Netherese era · Sealed, corrupted, contested**
 
-*Also known as:* the mythical living archive of my people (Zebulon) · the Anachron · Lex · [the Lexicon](/items/the-lexicon/)
+*Also known as:* the mythical living archive of my people (Zebulon) · the Archives · the Anachron · Lex · [the Lexicon](/items/the-lexicon/)
 
-The **Chronicle** is what the orcish artificers called the machine that came down with the Arielle in the deep past. It is the [Anachron](/items/the-anachron/), with Lex inside it, millennia after the party left it there — one of the thousands of cultures that held the machine as god and instrument, and the last to keep it. The Netherese destroyed the ivory fortress that stood over it and obliviated the orcs and their historians trying to reach it, and never got in; the machine remains sealed under hardened magma northeast of Enkidu, drawing power from the volcanic vent beneath it. The full account of the entity across all three of its names is at [The Anachron](/items/the-anachron/).
+The **Chronicle** is what the orcish artificers called the machine that came down with the Arielle in the deep past. It is the [Anachron](/items/the-anachron/), with Lex inside it, millennia after the party left it there — one of the thousands of cultures that held the machine as god and instrument, and the last to keep it. The site is also called **the Archives**. The Netherese destroyed the ivory fortress that stood over it, stole and ruined the orcs' record, and obliviated their historians trying to reach it, and never got into the machine; the machine remains sealed under hardened magma northeast of Enkidu, drawing power from the volcanic vent beneath it. The full account of the entity across all three of its names is at [The Anachron](/items/the-anachron/).
 
 <small>(Arc VI, [Time of Troubles](/history/arc-vi-time-of-troubles/), Part IX, "The Chronicle.")</small>
 
@@ -68,13 +70,13 @@ Zebulon's account of how it ended:
 
 <small>The queens of Netheril are Astra and Aurora Saharel — the Raven Queen and the Lady of Pain. See [Marcus](/people/marcus/).</small>
 
-Netheril destroyed the fortress and the orcs, and then obliviated the record of them. Zebulon can produce no evidence that his master, his nation, or his own history ever existed:
+Netheril destroyed the fortress and the orcs. The Netherese stole and ruined the Chronicle, "the record of his people’s knowledge", and obliviated the orcs' historians. <small>(Oral Histories: Temporal Holdings, 2020-11-22)</small> Zebulon can produce no evidence that his master, his nation, or his own history ever existed:
 
 > Besides these paltry notes and a few specks of memory that haunt me in my sleep, I have no record or evidence that Curtis Washington ever existed. I searched every scrap of rubble at Yog, where the devices were held, for his home or his family, I can remember none of it, and neither can I find any evidence of it. There are ruins at Yog, Jhamdaath, Enkidu, but no one alive remembers how they were built of by whom. I have spent a lifetime trying to convince every Orc I see that they themselves and their ancestors built those ruins, and were betrayed. But to no avail.
 
 <small>(Sic on "how they were built of by whom.")</small>
 
-They never got in. The archivists were dead, their history erased, and the machine still shut.
+They never got into the machine. The archivists were dead, their history erased, and the machine still shut.
 
 ## The site
 
