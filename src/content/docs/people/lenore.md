@@ -53,7 +53,7 @@ wa:
 
 **Human · Artificer · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**
 
-Lenore is a human artificer, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), after a night in which her party foiled a heist at Tiffany House and was caught up in a shooting at Ard Farkle's that burned carts and killed horses. Shot, poisoned and stabbed in that night's fighting, she woke handcuffed in the fort infirmary, picked the cuffs, killed the nurse who came back for her, and escaped down a bottomless trash pit with Heyu and [BattleBeast](/people/battlebeast/). She is in the dungeon-maze beneath the fort.
+Lenore Bishop is a human artificer, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), after a night in which her party foiled a heist at Tiffany House and was caught up in a shooting at Ard Farkle's that burned carts and killed horses. Shot, poisoned and stabbed in that night's fighting, she woke handcuffed in the fort infirmary, picked the cuffs, killed the nurse who came back for her, and escaped down a bottomless trash pit with Heyu and [BattleBeast](/people/battlebeast/). She is in the dungeon-maze beneath the fort.
 
 ## Physical description
 
