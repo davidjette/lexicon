@@ -1,31 +1,33 @@
 ---
 title: Red Khyber
 description: Mined out of the Glass Plateau by Project E.D.E.N.'s undead, shipped through BioTec, and put to ends the rebellion has never been able to establish.
+tags:
+  - Red Khyber
+  - Red Kyber
+  - Khyber
+  - Glass Plateau
+  - Mournlands
+  - Project EDEN
+  - Project E.D.E.N.
+  - BioTec
+  - Martin Kross
+  - Vex d'Lyrandar
+  - Jessica Grimpledink
+  - Black Khyber
+image:
+  src: /images/uploads/red-khyber-mu10itsy.webp
 type: material
 kind: items
-tags:
-- Red Khyber
-- Red Kyber
-- Khyber
-- Glass Plateau
-- Mournlands
-- Project EDEN
-- Project E.D.E.N.
-- BioTec
-- Martin Kross
-- Vex d'Lyrandar
-- Jessica Grimpledink
-- Black Khyber
 icon: fa-gem
 fields:
   type: Mineral — Khyber ore, red variety
   rarity: Mined from the irradiated Glass Plateau
   owner: The Empire, via BioTec
 sources:
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/pose-mission-notes.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/pose-mission-notes.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: red-khyber-material
