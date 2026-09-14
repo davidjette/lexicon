@@ -65,6 +65,31 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): New ships"
+gallery:
+- src: /images/chat/2022-10-18-671670044230346.webp
+  alt: "Why Dr. Glup joined Astral Command"
+  caption: "A questionnaire answer telling how Astral Command recovered Dr. Glup from the windshield of the SSJ Holden Tudix and made him a medical officer."
+- src: /images/chat/2022-10-30-5817489191649252.webp
+  alt: "The crew, group portrait"
+  caption: "AI-generated group illustration of eight armoured and robed spacefarers against a purple starfield, with a ship above them."
+- src: /images/chat/2022-11-13-849323466512279.webp
+  alt: "SSJ Zanzibar organisation chart"
+  caption: "Organisation chart of the SSJ Zanzibar's officers under Captain James X. Smallberries, colour-coded by Astral Command corps, with a list of ranks."
+- src: /images/chat/2022-11-13-1882519145444506.webp
+  alt: "SSJ Zanzibar department chart"
+  caption: "Revised chart grouping the Zanzibar's crew into Invention, Peace, Arcana, Life and Valour departments, with automated systems and civilians and guests."
+- src: /images/chat/2023-01-27-898838704789726.webp
+  alt: "SSJ Zanzibar command structure"
+  caption: "An organisation chart of the SSJ Zanzibar under Astral Command, listing Captain James X. Smallberries and the officers of the Invention, Peace, Magic, Life and Valour divisions, with command ranks and civilians."
+- src: /images/chat/2023-12-15-898991038006587.webp
+  alt: "SSJ Zanzibar organisation chart"
+  caption: "Astral Command organisation chart for the SSJ Zanzibar, with Captain James X. Smallberries as Sovereign Officer over the departments of Invention, Peace, Magic, Life and Valour."
+- src: /images/chat/2024-04-20-436173435570386.webp
+  alt: "Join Astral Command poster"
+  caption: "Retro recruitment poster reading \"Join Astral Command\", showing a green-skinned elf woman in a yoga pose holding a glowing orb."
+- src: /images/chat/2024-04-20-467373062430040.webp
+  alt: "Four-armed Astral Command recruit"
+  caption: "Retro recruitment poster reading \"Join Astral Command\", showing a four-armed green-skinned woman balancing on one leg before a planet."
 ---
 
 **Space fleet · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Starfall era · Active**

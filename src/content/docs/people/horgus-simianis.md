@@ -40,6 +40,14 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-16"
 - "Oral Histories: The Inevitables, 2024-05-31"
 - "The Starsong Awakens site (JL Byrd): New magic items"
+image:
+  src: /images/chat/2023-04-01-894085841677417.webp
+  alt: "Horgus Simianis"
+  caption: "An image of an elderly white-haired monkey wearing round glasses and a white lab coat."
+gallery:
+- src: /images/chat/2024-05-03-1099651471068892.webp
+  alt: "Robed simian sorcerer"
+  caption: "A monkey in dark robes and a tall hood casts magic in front of a swirling galaxy among floating wreckage."
 ---
 
 **Monkey · Necromancer · Science department, Astral Command · Dead**

@@ -62,6 +62,32 @@ sources:
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+image:
+  src: /images/chat/2022-10-20-1861983854133860.webp
+  alt: "AI portrait of Carlos Vega"
+  caption: "An AI painting of a man with long dark hair and a moustache in gold-trimmed armour."
+gallery:
+- src: /images/chat/2023-01-27-3171756136457042.webp
+  alt: "Carlos Vega in cadet uniform"
+  caption: "A 3D miniature render of a man with swept-back hair in a black and navy cadet uniform holding a purple crystal dagger."
+- src: /images/chat/2024-04-20-2076791709362668.webp
+  alt: "Carlos as an eldritch fire djinn"
+  caption: "AI painting of a shirtless man with tentacles on his shoulders, seated and holding a lamp with a tall flame."
+- src: /images/chat/2024-04-20-958874712564034.webp
+  alt: "Carlos the djinn on his throne"
+  caption: "Illustration of a moustached man in red seated on a purple armchair between two bowls of flame."
+- src: /images/chat/2022-10-09-406203218373518.webp
+  alt: "The stowaway miniature"
+  caption: "A HeroForge miniature of a bare-chested man in a gold vest and skirt with a scimitar and a glowing ringed hand."
+- src: /images/chat/2022-10-19-2050306265163033.webp
+  alt: "Nico's crew line-up"
+  caption: "HeroForge miniatures of the stowaway with twin daggers, Se7en with a tankard, and Caprica in her normal and starry forms."
+- src: /images/chat/2022-10-20-484506666957140.webp
+  alt: "AI portrait of Carlos Vega with a horn"
+  caption: "An AI painting of a moustached man with blue eyes and a single curved horn."
+- src: /images/chat/2022-10-20-3245955278977492.webp
+  alt: "AI portrait of Carlos Vega in a scarf"
+  caption: "An AI painting of a bearded man with dark hair, a brown scarf and a gold harness."
 ---
 
 **Human · Rogue 5 / Warlock 1 / Wizard 3 · Cadet · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**

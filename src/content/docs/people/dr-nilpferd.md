@@ -29,6 +29,14 @@ sources:
 - "Oral Histories: The Inevitables, 2023-12-15"
 - "Oral Histories: The Inevitables, 2024-06-01"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
+image:
+  src: /images/chat/2023-01-22-881126029622236.webp
+  alt: "Dr. Nilpferd"
+  caption: "A painted portrait of a purple hippopotamus-headed figure in white and violet robes holding a small golden object, in an ornate frame."
+gallery:
+- src: /images/chat/2023-12-15-896451758730236.webp
+  alt: "Dr. Nilpferd as an elephantfolk"
+  caption: "Digital miniature of an elephantfolk in spectacles and a jumpsuit, holding a scroll in his trunk and a blaster."
 ---
 
 **Elephantfolk · Wizard (Order of Scribes) · Magus ex Machina, SSJ Zanzibar · Dead**

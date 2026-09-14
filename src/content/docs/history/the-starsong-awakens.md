@@ -107,6 +107,21 @@ gallery:
 - src: /images/starsong/rn-hrt.webp
   alt: "RN-HRT"
   caption: "RN-HRT (Ironheart), one of the new allies"
+- src: /images/chat/2024-06-18-1685086462262365.webp
+  alt: "Old Barrias with a mechanical arm"
+  caption: "A bald, bearded old man with an eyepatch and a mechanical arm sits in a cluttered steampunk workshop with a bottle of red liquid."
+- src: /images/chat/2024-06-19-1831522640659993.webp
+  alt: "Old Jim miniature"
+  caption: "A HeroForge miniature of a grey-haired, moustached old man with an eyepatch, an open vest and fingerless gloves."
+- src: /images/chat/2024-07-12-842604574065396.webp
+  alt: "Ragnar XII"
+  caption: "A handout card shows a ship before a vast planet, titled Ragnar XII, a banking and commerce world in the Abbathor System."
+- src: /images/chat/2024-10-26-1786087512129249.webp
+  alt: "The Five Zanzibars"
+  caption: "TaleSpire capture of five character miniatures, including a crowned king and a sword-bearing warrior, on a red-lit floor."
+- src: /images/chat/2025-02-28-1342113986929254.webp
+  alt: "Terminator robot background"
+  caption: "Handout card for the Terminator robot background showing a red-crested armoured robot beside its traits, including +1 AC and psychic immunity."
 ---
 
 **Campaign arc · [Starfall: TNG](/lore/starfall-the-next-generation/) · DM JL · 2024–2025 · Fifteen years after *Light of Xaryxis***

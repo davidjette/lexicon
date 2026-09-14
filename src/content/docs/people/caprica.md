@@ -71,6 +71,31 @@ image:
   src: /images/starsong/caprica.webp
   alt: "Caprica"
   caption: "Caprica, from the Company dossier on The Starsong Awakens site"
+gallery:
+- src: /images/chat/2022-05-01-969613280371931.webp
+  alt: "Caprica's HeroForge miniature"
+  caption: "Front and back views of a HeroForge miniature of Caprica, a woman with long dark blue hair in a black and purple uniform."
+- src: /images/chat/2022-10-20-617939336566338.webp
+  alt: "Caprica in command uniform"
+  caption: "AI-generated painting of a dark-haired astral elf woman with glowing facial markings and a gold insignia badge, against a starfield."
+- src: /images/chat/2022-10-20-831176091240609.webp
+  alt: "Caprica in astral form"
+  caption: "AI-generated painting of an elf woman with closed eyes and starlit skin holding a glowing blue orb."
+- src: /images/chat/2023-05-19-256147600332230.webp
+  alt: "Caprica in AI portrait"
+  caption: "A painted portrait of a black-haired elf woman in a dark purple uniform holding a glowing orb, with a second orb and a ring of starlight behind her."
+- src: /images/chat/2022-05-01-742660036724756.webp
+  alt: "Caprica in starry form"
+  caption: "Two views of Caprica's miniature in her starry form, with grey skin, glowing white eyes and bright violet hair."
+- src: /images/chat/2022-10-09-3293942590881309.webp
+  alt: "Caprica holding an orb"
+  caption: "Caprica's HeroForge miniature in her uniform, holding a blue orb."
+- src: /images/chat/2022-10-09-409531434682385.webp
+  alt: "Caprica in starry form holding an orb"
+  caption: "Caprica's miniature in her starry form, head tilted back, holding a violet orb."
+- src: /images/chat/2022-10-20-900989104618168.webp
+  alt: "AI portrait of Caprica"
+  caption: "An AI painting of a pointed-eared woman with violet hair and green eyes against a starfield."
 ---
 
 **Astral elf · Druid 12 (Circle of Stars) · First Arcanist and Spelljammer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Dead**

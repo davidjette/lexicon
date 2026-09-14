@@ -57,6 +57,15 @@ gallery:
 - src: /images/starsong/gnat.webp
   alt: "The Gnat"
   caption: "The Company's Gnat, from the New ships page of The Starsong Awakens site"
+- src: /images/chat/2023-04-08-1578574185974243.webp
+  alt: "Stat block for the Minnow"
+  caption: "A rules handout giving AC, hit points, speed, mishap threshold and actions for \"The Minnow\", a Concordance class mini-cruiser, with a picture of the ship."
+- src: /images/chat/2023-04-08-180682651480948.webp
+  alt: "Stat block for the X-13 Interceptor"
+  caption: "A rules handout giving AC, hit points, speed, mishap threshold, special abilities and actions for the X-13 Interceptor, a Theta class blaster with Dwarven upgrades, with a picture of the ship."
+- src: /images/chat/2023-04-13-254465773592134.webp
+  alt: "Space dogfighting mishap table"
+  caption: "A ten-entry mishap table for ship combat, from minor hull breach to catastrophic mishap with a d4 sub-table."
 ---
 
 **Magic of space travel · Helms and jam drives · Starfall**

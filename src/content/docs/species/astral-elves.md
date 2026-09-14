@@ -32,6 +32,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-10-19"
 - "Oral Histories: The Inevitables, 2022-10-22"
 - "Oral Histories: The Inevitables, 2023-06-02"
+gallery:
+- src: /images/chat/2024-04-27-3123016237837326.webp
+  alt: "Astral elf in a starlit salon"
+  caption: "A silver-haired elf woman in a grey gown sits in an ornate room whose windows look out on stars and a ringed planet."
 ---
 
 **Elven people · The Astral Sea · Indifferent to hostile toward [Astral Command](/organizations/astral-command/) · Extant**

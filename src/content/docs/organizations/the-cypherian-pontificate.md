@@ -34,6 +34,14 @@ sources:
 - "Oral Histories: The Inevitables, 2023-06-23"
 - "Oral Histories: The Inevitables, 2024-04-27"
 - "Oral Histories: The Inevitables, 2024-12-22"
+image:
+  src: /images/chat/2023-02-03-5774624269258567.webp
+  alt: "Cypherian Pontificate approaching the Chronicle"
+  caption: "A detailed illustration of a red-robed figure trailing a long red cape along a platform lined with small figures, toward a floating pyramid above a machine-filled structure."
+gallery:
+- src: /images/chat/2023-11-29-1380474202889992.webp
+  alt: "Worshippers of Cypher"
+  caption: "AI image of robed worshippers with raised hands before a glowing geometric symbol in a pillared temple."
 ---
 
 **Religious institution · Faith of Cypher · Seat: [Sigil](/places/sigil/) · Starfall era · Active**

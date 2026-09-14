@@ -39,6 +39,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-09"
 - "Oral Histories: The Inevitables, 2024-12-22"
 - "Oral Histories: The Inevitables, 2025-01-12"
+gallery:
+- src: /images/chat/2024-04-20-1196891171296427.webp
+  alt: "Carved wall in the Time Tombs"
+  caption: "AI image of a stone relief of a beaked, winged figure with two red eyes and a third eye on its brow."
 ---
 
 **Tomb complex · Valley of the Time Tombs, Necis · Goal of the Shrike pilgrimage · Destroyed with Necis**

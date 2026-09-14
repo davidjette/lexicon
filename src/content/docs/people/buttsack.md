@@ -44,6 +44,32 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-07"
 - "Oral Histories: The Inevitables, 2024-11-22"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+image:
+  src: /images/chat/2022-10-09-636097241251928.webp
+  alt: "Buttsack miniature"
+  caption: "A HeroForge miniature of a lion-like humanoid in a brown and olive uniform carrying a double-barrelled gun."
+gallery:
+- src: /images/chat/2023-05-26-956668448741629.webp
+  alt: "Buttsack in AI portrait"
+  caption: "A painted portrait of a bear-like humanoid in a green and yellow tunic holding a knife."
+- src: /images/chat/2024-07-12-507101031668050.webp
+  alt: "Buttsack monk miniature"
+  caption: "A HeroForge miniature of an old bearded bugbear monk in orange robes with a staff on his back."
+- src: /images/chat/2022-07-24-847067462933007.webp
+  alt: "Feline security officer miniature"
+  caption: "A HeroForge miniature of a lion-like humanoid in a brown and olive uniform holding a curved blade."
+- src: /images/chat/2022-10-20-495800955894703.webp
+  alt: "Buttsack option as a miniature"
+  caption: "AI-generated image of a furred, ape-faced figure in armour holding a pistol, styled as a painted miniature."
+- src: /images/chat/2022-10-20-511601944190103.webp
+  alt: "Buttsack option in comic style"
+  caption: "AI-generated comic illustration of a grey-furred creature in a black and yellow uniform."
+- src: /images/chat/2022-10-20-907143730267496.webp
+  alt: "Buttsack option as a sketch"
+  caption: "AI-generated greyscale drawing of a furred creature with pointed ears in armour."
+- src: /images/chat/2024-07-12-1145558900284603.webp
+  alt: "Buttsack as a monk"
+  caption: "A cartoon of a grey-furred, bearded creature in brown monk's robes before a round golden window."
 ---
 
 **Bugbear · Barbarian 8 · Sergeant-at-Arms, SSJ Zanzibar · Alive**

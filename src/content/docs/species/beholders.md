@@ -38,6 +38,31 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+gallery:
+- src: /images/chat/2024-04-20-1173214100701452.webp
+  alt: "Sandy and a beholder"
+  caption: "AI pulp-style painting of a blonde woman in a white uniform with a raygun, hiding behind a rock from a many-toothed beholder."
+- src: /images/chat/2024-04-20-1623324135152206.webp
+  alt: "Astral Command poster with beholder"
+  caption: "Retro poster reading \"Join Astral Command\", showing a woman in white shaking hands with a green officer under a giant floating eye."
+- src: /images/chat/2024-04-20-1168822000798619.webp
+  alt: "Handshake with a beholder"
+  caption: "Retro poster reading \"Join Astral Command\", showing a woman in a white uniform shaking hands with a pink many-tentacled eye creature."
+- src: /images/chat/2024-04-20-310846392034251.webp
+  alt: "Astral Command poster with officer"
+  caption: "Retro poster reading \"Join Astral Command\", showing an officer in a red uniform in front of a purple beholder and a frightened woman."
+- src: /images/chat/2024-05-07-821881510002003.webp
+  alt: "Starweaver and a beholder poster"
+  caption: "A retro poster reading \"Starweaver says Join Astral Command\" shows a blonde woman in a blue uniform in a hall beneath a giant beholder."
+- src: /images/chat/2024-04-20-886329843261236.webp
+  alt: "Sandy fleeing a beholder"
+  caption: "AI pulp-style painting of a blonde woman in a white uniform and a man in a gold uniform, both armed, fleeing a many-eyed beholder."
+- src: /images/chat/2024-05-07-1212000486632222.webp
+  alt: "Beholder over an assembly poster"
+  caption: "A retro poster reading \"Join Astral Command\" shows a woman in a white gown beside a huge beholder floating above an assembly."
+- src: /images/chat/2024-05-07-736452645317285.webp
+  alt: "Elf woman at a beholder hearing"
+  caption: "A retro poster reading \"Join Astral Command\" shows a blonde elf woman in yellow and green before a panel with a placard marked \"Beholder\"."
 ---
 
 **Species · The Astral Sea · Enemies of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Largely wiped out**

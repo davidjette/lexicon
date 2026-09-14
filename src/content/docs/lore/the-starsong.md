@@ -50,6 +50,12 @@ gallery:
 - src: /images/starsong/tune.webp
   alt: "Sound waves"
   caption: "The T.U.N.E., from the Company dossier"
+- src: /images/chat/2024-06-01-3724869057777465.webp
+  alt: "Astral drifting"
+  caption: "An elf woman with closed eyes floats against a nebula of purple and teal light."
+- src: /images/gallery/2025-06-14-01.webp
+  alt: "Singer of stars on the bridge"
+  caption: "An elf woman stands on a damaged starship bridge facing a black hole as a ship passes and debris burns."
 ---
 
 **Call from the stars · Starfall · Source unknown**

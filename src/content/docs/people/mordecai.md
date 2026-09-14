@@ -37,6 +37,17 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-02"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+image:
+  src: /images/chat/2022-10-23-498995835438828.webp
+  alt: "Ensign Mordecai"
+  caption: "Illustration of a grinning red-skinned tiefling in a hood and heavy pauldron, holding a dagger."
+gallery:
+- src: /images/chat/2022-11-27-848000789848715.webp
+  alt: "Mordecai miniature in white"
+  caption: "Hero Forge miniature of a red-skinned tiefling with a white horn crest, a white scarf and gold armour, holding a blaster."
+- src: /images/chat/2022-11-28-5578177055595058.webp
+  alt: "Mordecai miniature in green"
+  caption: "Hero Forge miniature of the red-skinned tiefling in a green scarf and olive uniform, holding a blaster."
 ---
 
 **Tiefling · Warlock 5 (the Celestial) · Medical Assistant, SSJ Zanzibar; later chief science officer, SSJ Excelsior, or Executive Officer, SSJ Vanguard · Alive**

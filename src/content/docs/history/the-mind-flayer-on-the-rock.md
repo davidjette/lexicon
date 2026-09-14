@@ -37,6 +37,16 @@ sources:
 - "Oral Histories: The Inevitables, 2022-12-14"
 - "Oral Histories: The Inevitables, 2023-06-22"
 - Desktop/D&D/Starfall TNG/sydiot_81229398.pdf
+gallery:
+- src: /images/chat/2022-11-16-672211784403793.webp
+  alt: "Smallberries before an organic machine"
+  caption: "AI-generated painting of a man in a dark suit, seen from behind, standing before a glowing organic machine."
+- src: /images/chat/2022-11-16-513660690802266.webp
+  alt: "Smallberries facing tentacles"
+  caption: "AI-generated painting of a blond man, seen from behind, facing a huge tentacled creature."
+- src: /images/chat/2022-11-16-495142312581147.webp
+  alt: "Helmeted figure with tentacles"
+  caption: "AI-generated image of a figure in a round helmet, seen from behind, with tentacles coiling from the helmet against a large pale disc."
 ---
 
 **Mind flayer infestation · *Light of Xaryxis* · November 2022**

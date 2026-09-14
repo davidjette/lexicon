@@ -56,6 +56,35 @@ sources:
 - "Oral Histories: The Inevitables, 2025-05-23"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+image:
+  src: /images/chat/2022-10-19-1151626675791453.webp
+  alt: "Se7en miniature, revised head"
+  caption: "Se7en's miniature with a reworked helmeted head, holding a tankard among bottles."
+gallery:
+- src: /images/chat/2022-12-09-1215856918966882.webp
+  alt: "Se7en miniature"
+  caption: "Hero Forge miniature of a crouching copper robot with a barrel on its back and a tankard in hand."
+- src: /images/chat/2024-08-01-508491168424990.webp
+  alt: "Se7en miniature cutout"
+  caption: "A cutout HeroForge miniature of a copper-plated construct with glowing goggles, a shield and a flaming cannon pack."
+- src: /images/chat/2022-10-19-1226419141241749.webp
+  alt: "Se7en miniature"
+  caption: "A HeroForge miniature of a copper robot with goggles, a keg on its back and a tankard, surrounded by bottles."
+- src: /images/chat/2022-10-20-1398092627383794.webp
+  alt: "Se7en concept, brass robot"
+  caption: "An AI painting of a boxy brass robot with a glowing eye and coiled arms."
+- src: /images/chat/2022-10-20-675933133792241.webp
+  alt: "Se7en concept, robot with a mug"
+  caption: "An AI painting of a domed bronze robot on wheeled feet beside a floating coffee mug."
+- src: /images/chat/2022-10-20-807786480437578.webp
+  alt: "Se7en concept, dark iron robot"
+  caption: "An AI painting of a squat dark iron robot with red lens eyes on a teal background."
+- src: /images/chat/2022-10-20-492765386094817.webp
+  alt: "Se7en concept, helmeted robot"
+  caption: "An AI painting of a green-metal robot with a glass-domed helmet and a spring neck."
+- src: /images/chat/2024-07-12-996943745034809.webp
+  alt: "Se7en miniature"
+  caption: "A HeroForge miniature of a copper-plated construct with glowing goggles, a shield and a flaming cannon pack."
 ---
 
 **Autognome · Artificer 15 (Artillerist) · Brewer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**

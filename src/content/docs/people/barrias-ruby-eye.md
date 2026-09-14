@@ -72,6 +72,35 @@ sources:
 - "Oral Histories: The Inevitables, 2025-05-23"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+image:
+  src: /images/chat/2022-10-09-1513239562431838.webp
+  alt: "Barrias Red-Eye miniature"
+  caption: "A HeroForge miniature of Barrias, a red-bearded dwarf with a scarred eye in olive power armour, with a shield and flaming pistol."
+gallery:
+- src: /images/chat/2024-06-18-1685086462262365.webp
+  alt: "Old Barrias with a mechanical arm"
+  caption: "A bald, bearded old man with an eyepatch and a mechanical arm sits in a cluttered steampunk workshop with a bottle of red liquid."
+- src: /images/chat/2022-05-01-754904065705855.webp
+  alt: "Karris Ruby-Eye miniature"
+  caption: "A HeroForge miniature of a red-bearded dwarf in olive power armour with a tower shield and a flaming pistol, posted as Karris Ruby-Eye."
+- src: /images/chat/2022-07-24-766221108028806.webp
+  alt: "Barrias, Hyperion and F.L.A.P. line-up"
+  caption: "HeroForge miniatures of the armoured dwarf Barrias, a bugbear security chief with a rotary gun, the kneeling Hyperion Titara and the seated robot F.L.A.P."
+- src: /images/chat/2024-08-25-302030112973488.webp
+  alt: "Barrias escaping prison"
+  caption: "A red-bearded dwarf with pointed ears runs down a starship corridor chased by armoured guards."
+- src: /images/chat/2024-08-25-3787532524793727.webp
+  alt: "Barrias on the run"
+  caption: "A red-bearded dwarf in steampunk gear runs down a metal corridor ahead of an armed guard."
+- src: /images/chat/2024-08-25-864182138983730.webp
+  alt: "Barrias in armour, sketch"
+  caption: "A comic-style bust of a red-bearded man in grey armour surrounded by drawings of mechanical parts."
+- src: /images/chat/2024-08-25-529051239581881.webp
+  alt: "Barrias in red power armour"
+  caption: "A comic-style figure with a red beard and glowing eyes stalks down a corridor in bulky red power armour."
+- src: /images/chat/2024-08-25-2981923635281174.webp
+  alt: "Barrias in dark plate"
+  caption: "A comic-style red-bearded warrior in heavy dark and red plate armour stands in a burning street."
 ---
 
 **Dwarf (Mark of Warding) · Artificer 16 · First Artificer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**

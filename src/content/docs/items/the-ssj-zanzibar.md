@@ -61,6 +61,31 @@ gallery:
 - src: /images/starsong/ssj-zanzibar-wreck.webp
   alt: "The wreck of the Zanzibar in a hangar"
   caption: "The wreck of the SSJ Zanzibar, from the Company dossier"
+- src: /images/chat/2022-10-15-617569356774662.webp
+  alt: "The SSJ Zanzibar with sails out"
+  caption: "A TaleSpire build of the SSJ Zanzibar in space with its laser sails extended."
+- src: /images/chat/2022-10-15-3312439325750774.webp
+  alt: "The SSJ Zanzibar's engines"
+  caption: "A TaleSpire view of the Zanzibar from the stern, showing lit engine banks and extended sails."
+- src: /images/chat/2022-10-15-3408031082767725.webp
+  alt: "The SSJ Zanzibar with sails stowed"
+  caption: "The Zanzibar's TaleSpire build from the stern with its sails put away."
+- src: /images/chat/2022-10-15-355658530074131.webp
+  alt: "The SSJ Zanzibar's top deck"
+  caption: "A TaleSpire view of the Zanzibar's upper deck with gunner turrets and glowing sail masts."
+- src: /images/chat/2022-10-15-418955173773045.webp
+  alt: "Ten Forward aboard the Zanzibar"
+  caption: "A top-down TaleSpire view of the Ten Forward lounge, with a bar, seating and \"SSJ ZANZIBAR\" lit on the floor."
+- src: /images/chat/2022-10-15-1280596166031159.webp
+  alt: "The SSJ Zanzibar's bridge"
+  caption: "A TaleSpire view of the Zanzibar's bridge, with a captain's chair facing a large main viewscreen."
+- src: /images/chat/2022-10-15-2106699259531103.webp
+  alt: "The SSJ Zanzibar's bridge"
+  caption: "Another TaleSpire angle on the Zanzibar's bridge, with crew stations and a blank viewscreen."
+image:
+  src: /images/chat/2022-10-18-863230371753728.webp
+  alt: "The SSJ Zanzibar in violet light"
+  caption: "The Zanzibar's TaleSpire build lit in purple against a red and violet sky, its engine beams streaming behind."
 ---
 
 **Sovereign Spelljammer · Astral Command · Flagship of five hundred years before · Critically damaged**

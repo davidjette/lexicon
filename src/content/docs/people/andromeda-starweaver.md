@@ -26,6 +26,35 @@ sources:
 - "Oral Histories: The Inevitables, 2023-01-23"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2024-06-09"
+image:
+  src: /images/chat/2024-05-07-450307824071940.webp
+  alt: "Admiral Starweaver poster"
+  caption: "A retro poster reading \"Admiral Starweaver, Join Astral Command\" shows a blonde elf woman in a red uniform with gold epaulettes before a crowd."
+gallery:
+- src: /images/chat/2024-05-07-821881510002003.webp
+  alt: "Starweaver and a beholder poster"
+  caption: "A retro poster reading \"Starweaver says Join Astral Command\" shows a blonde woman in a blue uniform in a hall beneath a giant beholder."
+- src: /images/chat/2024-05-07-1112524510009432.webp
+  alt: "Astral Command poster in gold and black"
+  caption: "A retro recruitment poster reading \"Join Astral Command\" shows a crowned blonde elf woman in dark robes in front of a room of officers."
+- src: /images/chat/2024-05-07-431577339500846.webp
+  alt: "Andromeda Starweaver recruitment poster"
+  caption: "A retro poster reading \"Astral Command to make a difference\" shows a blonde elf woman in a yellow dress, with a garbled Starweaver name in the text."
+- src: /images/chat/2024-05-07-468630835607185.webp
+  alt: "Astral Command rally poster"
+  caption: "A retro poster reading \"Join Astral Command\" shows a silver-haired elf woman in a yellow uniform before a crowd and a podium."
+- src: /images/chat/2024-05-07-2469378299931991.webp
+  alt: "Elf woman at an assembly"
+  caption: "A retro illustration of a white-haired elf woman in yellow and purple robes before a seated assembly under a starry sky."
+- src: /images/chat/2024-05-07-1613648879471494.webp
+  alt: "Astral Command council poster"
+  caption: "A retro poster titled \"Astral Command\" shows a towering white-robed elf woman above a table of officers and a tentacled alien."
+- src: /images/chat/2024-05-07-1212000486632222.webp
+  alt: "Beholder over an assembly poster"
+  caption: "A retro poster reading \"Join Astral Command\" shows a woman in a white gown beside a huge beholder floating above an assembly."
+- src: /images/chat/2024-05-07-736452645317285.webp
+  alt: "Elf woman at a beholder hearing"
+  caption: "A retro poster reading \"Join Astral Command\" shows a blonde elf woman in yellow and green before a panel with a placard marked \"Beholder\"."
 ---
 
 **Species unknown · Admiral, Astral Command · Head of the Order of Scribes · Status unknown**

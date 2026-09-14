@@ -39,6 +39,10 @@ sources:
 - CANON.md 5ai
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 published: '2026-09-14'
+image:
+  src: /images/chat/2024-10-26-1786087512129249.webp
+  alt: "The Five Zanzibars"
+  caption: "TaleSpire capture of five character miniatures, including a crowned king and a sword-bearing warrior, on a red-lit floor."
 ---
 
 **War and revolution · Faerûn · The Cormyrean Empire against the risings · A critical collapse of the continent**

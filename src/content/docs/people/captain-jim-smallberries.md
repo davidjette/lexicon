@@ -71,6 +71,35 @@ sources:
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+image:
+  src: /images/chat/2022-09-26-598110655434181.webp
+  alt: "Captain Jim Smallberries miniature"
+  caption: "A HeroForge miniature of a smiling blond man in a blue and red uniform with gold armour, holding a spyglass."
+gallery:
+- src: /images/chat/2022-10-09-1975455802845387.webp
+  alt: "Captain Jim Smallberries miniature"
+  caption: "The captain's HeroForge miniature in a blue and red uniform with a spyglass and a scroll at his feet."
+- src: /images/chat/2022-10-20-484706470281646.webp
+  alt: "Smallberries in the style of Ralph McQuarrie"
+  caption: "AI-generated painting of a smiling man in a blue and yellow uniform flying through space beside a ship."
+- src: /images/chat/2022-10-20-1521577004971839.webp
+  alt: "Smallberries portrait in yellow"
+  caption: "AI-generated close portrait of a smiling man in a yellow collar, with a ship and a spacesuited figure behind him."
+- src: /images/chat/2022-10-20-1249838512474241.webp
+  alt: "Smallberries in the style of Frank Frazetta"
+  caption: "AI-generated pulp painting of a man in a red shirt fighting beside green-skinned figures."
+- src: /images/chat/2022-10-20-1156255438306920.webp
+  alt: "Smallberries as a comic cover hero"
+  caption: "AI-generated comic-cover image of a muscular man in yellow raising a fist among spaceships."
+- src: /images/chat/2022-11-16-645516637355665.webp
+  alt: "Smallberries at a console"
+  caption: "AI-generated painting of a young man with light brown hair seated at a console, with a spaceship behind him."
+- src: /images/chat/2024-06-19-1831522640659993.webp
+  alt: "Old Jim miniature"
+  caption: "A HeroForge miniature of a grey-haired, moustached old man with an eyepatch, an open vest and fingerless gloves."
+- src: /images/chat/2022-07-14-3235350470077832.webp
+  alt: "Early line-up of the Spelljammer crew"
+  caption: "HeroForge miniatures of a seated robot, the armoured dwarf, a uniformed captain with a spyglass, and Caprica in her normal and starry forms."
 ---
 
 **Human · Bard 11 (College of Eloquence) · Captain · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Alive**

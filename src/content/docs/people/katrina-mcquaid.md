@@ -44,6 +44,26 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-11"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+image:
+  src: /images/chat/2023-04-01-731982798471474.webp
+  alt: "Captain Katrina McQuaid"
+  caption: "A 3D miniature render of a white-furred feline woman in a red, blue and white uniform with a silver breastplate, holding two golden blades."
+gallery:
+- src: /images/chat/2024-05-03-1494683397801553.webp
+  alt: "Grey Cloak Catrina miniature"
+  caption: "A HeroForge miniature of a striped cat-folk swordswoman in armour and a grey cloak, raising a rapier."
+- src: /images/chat/2023-04-01-1366341010817483.webp
+  alt: "Katrina McQuaid as an Academy cadet"
+  caption: "A 3D miniature render of a white-furred feline woman with a striped tail in a red flight suit and harness."
+- src: /images/chat/2024-05-03-988508572679848.webp
+  alt: "Grey Cloak Catrina, side view"
+  caption: "A HeroForge miniature of a striped cat-folk swordswoman in a grey cloak, seen from the side with her sword raised."
+- src: /images/chat/2024-05-03-1524843971580556.webp
+  alt: "Cat-folk warrior in white"
+  caption: "A grey cat-folk woman in a fur-collared white and black uniform holds a dagger."
+- src: /images/chat/2024-05-03-1010365460647603.webp
+  alt: "Tabby cat-folk in a hooded coat"
+  caption: "A grey tabby cat-folk wearing a high-collared grey hooded coat looks out of a window."
 ---
 
 **Tabaxi · Ranger 5 / Fighter 3 / Rogue 3 · Captain, Astral Command · Dead**

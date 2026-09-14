@@ -33,6 +33,14 @@ sources:
 - "Oral Histories: The Inevitables, 2022-12-09"
 - "Oral Histories: The Inevitables, 2022-12-10"
 - "Oral Histories: The Inevitables, 2023-01-27"
+image:
+  src: /images/chat/2022-12-09-1201519667107469.webp
+  alt: "Forbes with a fox companion"
+  caption: "Hero Forge miniature of a man with a mohawk in a fur-collared coat raising one hand, with a green fox at his feet."
+gallery:
+- src: /images/chat/2022-12-08-1087973491874723.webp
+  alt: "Forbes miniature with a spear"
+  caption: "Hero Forge miniature of a man with a mohawk in a fur-collared coat, lunging with a spear beside a small yellow animal."
 ---
 
 **Firbolg · Ranger 4 · Exozoologist, SSJ Zanzibar · Status unknown**

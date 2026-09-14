@@ -32,6 +32,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-11-26"
 - "Oral Histories: The Inevitables, 2022-11-28"
 - "Oral Histories: The Inevitables, 2023-01-27"
+gallery:
+- src: /images/chat/2022-10-18-671670044230346.webp
+  alt: "Why Dr. Glup joined Astral Command"
+  caption: "A questionnaire answer telling how Astral Command recovered Dr. Glup from the windshield of the SSJ Holden Tudix and made him a medical officer."
 ---
 
 **Plasmoid · Monk 10 · First Apothecar, SSJ Zanzibar · Status unknown**

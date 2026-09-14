@@ -40,6 +40,23 @@ sources:
 - "Oral Histories: The Inevitables, 2025-05-23"
 - CANON.md 5aj
 - sources/dave/2026-09-14-starfall-necis.md
+image:
+  src: /images/chat/2024-06-19-1919926718450724.webp
+  alt: "Kol miniature"
+  caption: "A HeroForge miniature of a green-skinned githzerai monk crouching with a crackling staff and a sword on his back."
+gallery:
+- src: /images/chat/2024-11-15-1648410909351448.webp
+  alt: "Kol Hanaka Cyber miniature"
+  caption: "Hero Forge render labelled \"Kol Hanaka Cyber\" of a kneeling black robot with a katana and a staff on its back."
+- src: /images/chat/2024-07-27-1009727920811420.webp
+  alt: "Kol surfing"
+  caption: "A green-skinned githzerai in a tech suit kneels in prayer on a surfboard riding a wave near a city beach."
+- src: /images/chat/2024-11-15-3734074270149838.webp
+  alt: "Kol Hanaka as a cyber ninja"
+  caption: "AI-generated image of a black robot ninja with green eyes drawing a katana in a rainy alley."
+- src: /images/chat/2024-11-22-1304599774318991.webp
+  alt: "Kol Hanaka miniature"
+  caption: "Miniature render of a kneeling black robot ninja with a katana and a staff on its back."
 ---
 
 **Githzerai · Monk 6 (Way of the Kensei) · Agent, Bureau of Compliance · Rebuilt as a robot**

@@ -32,6 +32,20 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-05-02"
 - "Oral Histories: The Inevitables, 2024-05-03"
+image:
+  src: /images/chat/2022-10-23-1446282005879694.webp
+  alt: "Chad \"Kreen\" Mantis miniature"
+  caption: "Hero Forge miniature render of an orange insectoid pilot in green armour holding a drill-like pistol, with a helmet at his feet."
+gallery:
+- src: /images/chat/2022-10-23-453922780064703.webp
+  alt: "Chad Mantis miniature, rear view"
+  caption: "Rear view of the insectoid pilot miniature, showing a jet pack, a sword and a tail."
+- src: /images/chat/2022-10-27-674855870610398.webp
+  alt: "Chad Mantis miniature"
+  caption: "Hero Forge miniature render of an orange insectoid pilot in green armour holding a drill-like pistol, with a helmet at his feet."
+- src: /images/chat/2022-10-23-457169636553308.webp
+  alt: "Insectoid soldier concept"
+  caption: "Illustration of an insectoid soldier in armour and a scarf carrying a rifle, with a sword on his back."
 ---
 
 **Thri-kreen · Fighter 1 / Wizard 2 · Squadron leader, SSJ Zanzibar · Dead**

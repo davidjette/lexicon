@@ -26,6 +26,14 @@ sources:
 - "Oral Histories: The Inevitables, 2022-10-09"
 - "Oral Histories: The Inevitables, 2023-01-27"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
+image:
+  src: /images/chat/2022-09-26-814663946551844.webp
+  alt: "Kili the fairy chef"
+  caption: "A HeroForge miniature of a four-armed fairy in a chef's apron holding a cleaver, whisk, fish, teapot, mug and a flaming bowl."
+gallery:
+- src: /images/chat/2022-07-14-593668185507065.webp
+  alt: "Crew line-up with the fairy cook"
+  caption: "HeroForge miniatures of the seated robot, the armoured dwarf, the uniformed captain, a four-armed fairy cook and Caprica."
 ---
 
 **Faerie · Monk of the Astral Way · Galley Master, SSJ Zanzibar · Status unknown**
