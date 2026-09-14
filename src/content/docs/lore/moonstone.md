@@ -1,31 +1,31 @@
 ---
 title: Moonstone
 description: Shards of the fallen moon that store and magnify magic, graded I to IV with a hypothesised V, and the medium of mind and memory itself.
+tags:
+  - Moonstone
+  - Selenium Crystal
+  - the Great Stones
+  - Power Stones
+  - Control Stones
+  - Parabolic Stones
+  - Perfect Moonstones
+  - Perfect Dark
+  - Phase V
+  - Starfall
+  - Flex Gimble
+  - Motherstone
+  - the Lexicon
+  - the Obliviator
+  - Queen Maab
+  - Arcane Core
+  - Infantaverse
+  - the Anachron
+  - the Chronicle
+  - Perfect Stone
+  - Lex
+  - transplanar drive
 type: article
 kind: lore
-tags:
-- Moonstone
-- Selenium Crystal
-- the Great Stones
-- Power Stones
-- Control Stones
-- Parabolic Stones
-- Perfect Moonstones
-- Perfect Dark
-- Phase V
-- Starfall
-- Flex Gimble
-- Motherstone
-- the Lexicon
-- the Obliviator
-- Queen Maab
-- Arcane Core
-- Infantaverse
-- the Anachron
-- the Chronicle
-- Perfect Stone
-- Lex
-- transplanar drive
 icon: fa-gem
 fields:
   type: Magical mineral
@@ -34,13 +34,13 @@ fields:
   phases: I rock; II Power; III Parabolic/Control; IV Perfect; V Perfect Dark (hypothesised)
   status: Mined industrially by the Sword Coast Trading Company
 sources:
-- Desktop/infantaverse-wiki/src/content/docs/concepts/moonstone.mdx
-- sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
-- sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
-- sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VIII.txt
-- sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
-- worldanvil/CANON.md
+  - Desktop/infantaverse-wiki/src/content/docs/concepts/moonstone.mdx
+  - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
+  - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VIII.txt
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: moonstone-article
@@ -48,6 +48,10 @@ wa:
 ---
 
 **Moonstone** is a mineral: shards of the fallen moon that store and magnify magic, and that every faction in the Moonshae is willing to kill to control. It fell to the world in the **Starfall** — the astronomical event that "gave the moon it's divot and caused the majority of the plane's moonstone to fall from the sky" <small>(sic)</small> — and the Company's intelligence placed "a huge deposit" in the Moonshae Isles, much of whose islands were made by the same event; the Great Stones lie beneath [Motherstone](/places/motherstone/).
+
+## Formation
+
+[Company](/organizations/sword-coast-trading-company/) research strongly indicates that Selenium crystal form when sunlight strikes a pure surface in the absence of corrupting gases, most notably as on the surface of Selune, the primary moon of Toril, but also in countless other places in the known Universe. Sunlight deposits which accumulate over many millennia form a highly rigid and resilient lattice which capable of tremendous arcane conductivity with near zero paradox inertia, allowing magic to pass through and retain its shape with little resistance or heat transfer.  This makes even the most common Moonstones and ideal Arcane focus. In its purest and oldest forms, Moonstones have been known to form which could hold and focus magic unlike any other material, and form the physical strata of many of the worlds' most powerful intelligent arcane artifacts.
 
 ## The phases
 
