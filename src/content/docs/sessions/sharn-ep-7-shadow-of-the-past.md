@@ -15,7 +15,7 @@ tags:
   - Iron Veil
   - DJ Rust
 image:
-  src: /images/uploads/sharn-ep-7-shadow-of-the-past-mu0rfwls.webp
+  src: /images/uploads/sharn-ep-7-shadow-of-the-past-mu0rlc1u.webp
 sidebar:
   order: 207
 type: report
