@@ -15,17 +15,27 @@ tags:
 - Wish
 - Asmodeus
 - Infantaverse
+- Wainwright St. Cloud
+- Kara
+- Lady of Pain
+- Aurora Saharel
+- Obi
+- the Raven Queen
 icon: fa-id-card
 fields:
   type: Game artefact and campaign record
   origin: Made by the DM, October 2023
-  status: 41 cards, 39 allies; which black actions were used is not recorded
+  status: 41 cards, 39 allies; St. Cloud's black action was used, and the rest are not recorded
 sources:
 - CANON.md 5f (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__Ally Print.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2023-10-12"
+- "Oral Histories: The Inevitables, 2023-10-07"
 published: '2026-09-10'
 wa:
   slug: the-ally-cards-article
@@ -159,7 +169,7 @@ gallery:
 
 **Game artefact · 41 cards · Made October 2023 for the final session of End of the Infanta**
 
-The **Ally Cards** are a set of 41 cards made in October 2023 for the final session of [Arc VIII: End of the Infanta](/history/arc-viii-end-of-the-infanta/), and the record of who stood with the party at [the Egg](/places/the-egg/). They cover **39 distinct allies** — Ella and Obi each have two variants — and each card names a person or a people, gives them two things they can do, and carries a quotation. Most of the allies pledged themselves at Brightmantle's funeral in Arc VII; others are the party's own dead, and one is an enemy. The players drafted a hand of them, and every character gained an Ally Action each round of the final battle.
+The **Ally Cards** are a set of 41 cards made in October 2023 for the final session of [Arc VIII: End of the Infanta](/history/arc-viii-end-of-the-infanta/), and the record of who stood with the party at [the Egg](/places/the-egg/). They cover **39 distinct allies** — Ella and Obi each have two variants — and each card names a person or a people, gives them two things they can do, and carries a quotation. Most of the allies pledged themselves at Brightmantle's funeral in Arc VII; others are the party's own dead, and one was made for Wainwright St. Cloud in case Kara turned him. The players drafted a hand of them, and every character gained an Ally Action each round of the final battle.
 
 ## How they were used
 
@@ -170,7 +180,7 @@ The players **drafted** a hand of allies. Then, for every round of the final bat
 | **White** | None — repeatable | The ally fights on |
 | **Black** | Sacrifices the ally; the card leaves the game permanently | **That ally dies in spectacular fashion** |
 
-Each card's black text is therefore that character's possible death scene. **Which black actions were actually played is not recorded.**
+Each card's black text is therefore that character's possible death scene. Wainwright St. Cloud's black action was played. **Which other black actions were played is not recorded.**
 
 ## The three epochs
 
@@ -186,9 +196,11 @@ The allies were not all in the same place or the same century. The party had bee
 
 Most of them pledged themselves in one scene: [Brightmantle](/people/brightmantle/)'s impromptu funeral in [Arc VII](/history/arc-vii-leviathan/), with the armies of the world already gathering for the invasion of Netheril. The pledges are recorded there almost word for word as they appear on the cards — the [Horsemen](/organizations/horsemen-of-the-plains/)' "You saved our people from the God of Murder", the [People of Memnon](/organizations/people-of-memnon/)'s "You reversed a genocide of our people", [Atlas IV](/organizations/atlas-and-the-sea-elves/)'s "You saved us from the mindflayers and defeated the Waning One."
 
-Others are the party's own dead, brought back out of the land of the Dead by the Raven Queen: [Obi](/people/obi/), [Jeggings](/people/jeggings/), [Holden Tudyx](/people/holden-tudyx/), the [Orcs who served the Chronicle](/organizations/cypheric-orcs/), and [Flex Gimble](/people/flex-gimble/).
+Others are the party's own dead, brought back out of the land of the Dead by the Raven Queen: [Obi](/people/obi/), [Jeggings](/people/jeggings/), [Holden Tudyx](/people/holden-tudyx/), the [Orcs who served the Chronicle](/organizations/cypheric-orcs/), and [Flex Gimble](/people/flex-gimble/). Obi was dead, and came to the final battle only as one of the dead the Raven Queen brought back.
 
-And one is an enemy: [Wainwright St. Cloud](/people/wainwright-st-cloud/) has a card, and his black action is the only one in the set that lets him survive being sacrificed.
+The card for [the Lady of Pain](/people/the-lady-of-pain/) names her as Aurora: Dave's working list titles it "Aurora Saharel, Lady of Pain", a separate card from "Astra & Aurora Saharel". <small>(Oral Histories: The Inevitables, 2023-10-07)</small> See [Aurora and Astra Saharel](/people/aurora-and-astra-saharel/).
+
+One card was made for [Wainwright St. Cloud](/people/wainwright-st-cloud/), in case [Kara](/people/kara/) turned him. When she set out to, Dave told the players: "I made him an ally card just in case you succeed". <small>(Oral Histories: Temporal Holdings, 2023-10-12)</small> She did. In the final battle Kara freed St. Cloud from the crystal and used his black action, and he died in the Egg for her. His black action is the only one in the set that lets him survive being sacrificed.
 
 ## Why none of this is remembered
 

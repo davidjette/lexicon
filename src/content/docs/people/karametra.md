@@ -1,12 +1,18 @@
 ---
 title: Kara(metra)
-description: An alternate loop of Kara who allied with St. Cloud, changed her mind, and moved the moon into the path of Cthulhu's egg.
+description: Kara from another loop, who married St. Cloud, left him when she saw the Egg coming, and cast Move Planet to put the moon in its path.
 type: person
 kind: people
 tags:
 - Karametra
 - Kara(metra)
 - Kara
+- Kay
+- Ur-Kara
+- the Traveler
+- Tiamat
+- Tarrasque
+- Celion
 - the abolethi courtesan
 - Bahamut
 - Move Planet
@@ -26,6 +32,12 @@ sources:
 - CANON.md 5f (the DM's account, 2026-09-10)
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2020-05-04"
+- "Oral Histories: The Inevitables, 2021-12-03"
+- "Oral Histories: The Inevitables, 2022-09-17"
+- "Oral Histories: The Inevitables, 2023-01-15"
 published: '2026-09-10'
 wa:
   slug: karametra-person
@@ -43,17 +55,29 @@ image:
 
 **Human sorcerer · An alternate loop of [Kara](/people/kara/) · Ally at the Egg · Fate not recorded**
 
-*Also known as:* Karametra · the abolethi courtesan
+*Also known as:* Karametra · Kay · Ur-Kara · the abolethi courtesan
 
-Kara(metra) is a human sorcerer and [Kara](/people/kara/) from another loop of time. In her own loop she was in league with [Wainwright St. Cloud](/people/wainwright-st-cloud/), and changed her mind when she saw the **Evening Star** in the ancient sky. She seduced **Bahamut**, raised a platinum temple as a spell component, and cast **Move Planet** to push the moon into the path of Cthulhu's egg. St. Cloud imprisoned [Obi](/people/obi/) in an observatory atop Mount Waterdeep to chart the sky and find the date of that crossing, in order to prevent her from making the casting. She appears as an ally at [the Egg](/places/the-egg/).
+Kara(metra) is a human sorcerer and [Kara](/people/kara/) from another loop of time. In her own loop she was in league with [Wainwright St. Cloud](/people/wainwright-st-cloud/) and came back in time with him; there they had a change of heart, and she married him and he gave up his quest. When she saw the Egg coming, the true **Evening Star**, she left him. She petitioned **Tiamat**, seduced **Bahamut**, and had the dragons build a platinum temple as a spell component to cast **Move Planet** and push the moon into the path of Cthulhu's egg. The party came back to the deep past to help her, and held the temple against a tarrasque, dragons and Tiamat herself while she cast it. St. Cloud imprisoned [Obi](/people/obi/) in an observatory atop Mount Waterdeep to chart the sky and find the date of that crossing, in order to prevent her from making the casting. She appears as an ally at [the Egg](/places/the-egg/).
 
 <small>Recovered from the Oblivia.</small>
 
+## St. Cloud's wife
+
+In her reality she and St. Cloud were partners. Dave: "she seduces Celion to infiltrate the Arcaneum and steal the Anachron to come back in time, but once here they have a change of heart". <small>(Oral Histories: The Inevitables, 2023-01-15)</small> See [Celion](/people/celion/) and [the Anachron](/items/the-anachron/). In the deep past the party found St. Cloud "living in peace, after marrying Karametra and giving up his quest". <small>(Oral Histories: The Inevitables, 2021-12-03)</small> She is Kay, the wife of the St. Cloud known as the Traveler; she changed his heart, and then his mind.
+
+When she saw the Egg coming, the true Evening Star, she knew that someday St. Cloud would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made", and "She went to Tiamat to move the moon". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small>
+
+[Roland Deschain](/people/roland-deschain/) shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/). It was empty. They placed a perfect moonstone inside it and closed the lid. Then they took the Tudyx Cube they had stolen from St. Cloud's quarters on the *Arielle*, which they had never been able to open. Now it opened, and a Perfect Dark moonstone came out, having been inside for a presumed 65 million years.
+
+She is the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past: a sorceress in flight, with Kara's face and green eyes.
+
 ## What she did
 
-She is the **"abolethi courtesan"** the dragons speak of. She seduced **Bahamut** and raised a literal **platinum temple** as a spell component for a casting of **Move Planet** — which pushed the moon into the path of Cthulhu's egg.
+She is the **"abolethi courtesan"** the dragons speak of. She seduced **Bahamut** and had the dragons build a literal **platinum temple** as a spell component for a casting of **Move Planet**, to put the moon into the path of Cthulhu's egg.
 
 The dragons noticed. A chromatic elder dragon's line about their own errand names hers: "They are here to do the same as the Abolethi courtesan, to convince her gloriousness to destroy the Moon." <small>(Naga to Nefarion, on the [Chromatic Elder Dragons](/organizations/chromatic-elder-dragons/) card.)</small>
+
+The party came to help her when they returned to the deep past a second time, fulfilling [Kara](/people/kara/)'s Wish that the moon had been moved. While Karametra cast Move Planet they defended the platinum temple against a tarrasque, then some dragons, and then Tiamat herself. **Percival** was inside the temple, "the last line of defense between Tiamat and Karametra’s ritual". <small>(Oral Histories: The Inevitables, 2022-09-17)</small> They succeeded, and Tiamat was defeated there.
 
 That casting is what makes the first of the three epochs reachable. The party attacks the Egg in the deep past *in orbit of Toril, after the Egg struck the moon*, and the moon was in its path because Karametra put it there.
 

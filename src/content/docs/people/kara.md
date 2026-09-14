@@ -26,6 +26,9 @@ tags:
 - Paenis
 - Valen
 - Shadowhigh Inn
+- Punis
+- Karametra
+- Wainwright St. Cloud
 icon: fa-wand-sparkles
 fields:
   rpgAlignment: Neutral Good (level-18 sheet; the level-5 sheet reads Lawful Neutral)
@@ -36,7 +39,7 @@ fields:
   residence: Snowdown; the Old Temple at Harloch
   gender: Female
   age: Unknown
-  eyes: Unknown; the portrait in the Old Man's House gives her face green eyes that are not hers
+  eyes: Unknown; the green-eyed sorceress with her face in the Old Man's House portrait is Karametra
   hair: Unknown
   skin: Unknown
   height: Unknown
@@ -55,6 +58,9 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2023-10-12"
 published: '2026-09-10'
 wa:
   slug: kara-person
@@ -91,7 +97,7 @@ The elf-queen's widower **Peter Glans** — who is the copper dragon Tylerjynex 
 
 ## Signature capability — the Wish
 
-The arc the heroes call **Kara's Wish** turns on a single sentence. Cornered by the forces of **Talona** in [Arc VI](/history/arc-vi-time-of-troubles/), Kara spends a *Wish* — that they *had* moved the Moon in the past — and reality reshapes itself around the party. The citadel transforms. The walls fill with Pim's chronicle of a history in which the deflection succeeded. The God of Medicine becomes an ally instead of an enemy.
+The arc the heroes call **Kara's Wish** turns on a single sentence. Cornered by the forces of **Talona** in [Arc VI](/history/arc-vi-time-of-troubles/), Kara spends a *Wish* — that they *had* moved the Moon in the past — and reality reshapes itself around the party. The citadel transforms. The walls fill with Pim's chronicle of a history in which the deflection succeeded. The God of Medicine becomes an ally instead of an enemy. The party later fulfilled the Wish when they returned to the deep past a second time and helped [Karametra](/people/karametra/) move the moon.
 
 ## Beliefs
 
@@ -109,7 +115,7 @@ In Valen's sanctum, behind the Anachron, stand "three vessels made of brass and 
 
 ## The portrait in the Old Man's House
 
-<small>Recovered from the Oblivia.</small> In St. Cloud's hidden lair in [Arc IV](/history/arc-iv-the-infernal-machines/), a great portrait overlooks a studio of half-built machines: *a sorceress in flight, the moon exploding into blue shards above her, her face Kara's — but her eyes green.* The walls around it are hung with the faces of heroes through the ages, "many have the same eyes and faces of you yourself… over and over again, in slightly different versions which tip perilously into the uncanny valley." The immortal has been painting the same recurring souls through loop after loop of a bent timeline. Kara is one of them.
+<small>Recovered from the Oblivia.</small> In St. Cloud's hidden lair in [Arc IV](/history/arc-iv-the-infernal-machines/), a great portrait overlooks a studio of half-built machines: *a sorceress in flight, the moon exploding into blue shards above her, her face Kara's — but her eyes green.* The walls around it are hung with the faces of heroes through the ages, "many have the same eyes and faces of you yourself… over and over again, in slightly different versions which tip perilously into the uncanny valley." The immortal has been painting the same recurring souls through loop after loop of a bent timeline. Kara is one of them. The green-eyed sorceress of the great portrait is [Karametra](/people/karametra/), Kara from another loop: the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past.
 
 ## The Egg
 
@@ -118,6 +124,10 @@ In Valen's sanctum, behind the Anachron, stand "three vessels made of brass and 
 > You traveled back in time countless times, you saved me and my entire race as a child with Time-Bending magic, saved the planet by moving the moon into the path of the Evening Star… and you are the mother of my Egg.
 
 <small>— Tylerjynex, at Brightmantle's funeral</small>
+
+## St. Cloud in the final battle
+
+<small>Recovered from the Oblivia.</small> Kara meant to turn [Wainwright St. Cloud](/people/wainwright-st-cloud/) to the party's side, and his ally card was made in case she succeeded. <small>(Oral Histories: Temporal Holdings, 2023-10-12)</small> She did. In the final battle she freed St. Cloud from the crystal and used his black action, and St. Cloud died in the Egg for Kara. See [The Ally Cards](/lore/the-ally-cards/).
 
 ## Right now
 
@@ -131,7 +141,8 @@ She goes into the Egg while the father of her child holds the nest.
 - **Brother Magnus** — her partner on the Snowy Mountain break-in. Alive.
 - **Fhastine Mageblood** — the half-elf apothecary whose unreadable journal started everything; daughter of Mara.
 - **Mara Mageblood** — dead a century, and the author of the letter Kara found. Kara is the daughter Mara's last page was hoping for.
-- **Wainwright St. Cloud** — has painted her, repeatedly, across ages she has not lived yet.
+- **Wainwright St. Cloud** — has painted her, repeatedly, across ages she has not lived yet. She freed him from the crystal in the final battle, and he died in the Egg for her.
+- **Karametra** — Kara from another loop, St. Cloud's wife in the deep past, whom the party helped to move the moon.
 - **Celion** — a fellow student at the Arcaneum who told the Headmaster of her dragon heritage; killed by the party, and afterwards spoke to her through a mirror and a Palantir from a clone in Valen's sanctum.
 
 **Hobbies & Pets:** Unknown.

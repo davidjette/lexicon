@@ -1,6 +1,6 @@
 ---
 title: Wainwright St. Cloud
-description: 'The immortal mastermind of the Sword Coast Trading Company: merchant, manipulator, and the vessel who races to wake the Leviathan.'
+description: 'The mastermind of the Sword Coast Trading Company: merchant, manipulator, and the vessel who raced to wake the Leviathan. He died in the Egg for Kara.'
 type: person
 kind: people
 tags:
@@ -31,6 +31,11 @@ tags:
 - Lexicon
 - Motherstone
 - Infanta of the Moon
+- Grey Sage
+- Karametra
+- Kay
+- Zeal
+- Roland's Cube
 icon: fa-user-secret
 fields:
   rpgAlignment: Lawful Evil (sheet)
@@ -38,7 +43,8 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: The Old Man's House, Sigil (burned); whereabouts unknown
+  residence: The Old Man's House, Sigil (burned)
+  status: Died in the Egg
   gender: Male
   age: 55 (sheet); immortal
   eyes: Grey (sheet); blue on the later sheet
@@ -64,6 +70,19 @@ sources:
 - sources/dave/2026-09-13-dead-mans-hand-company.md
 - CANON.md 5ab
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2019-05-05"
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2020-05-03"
+- "Oral Histories: Temporal Holdings, 2020-05-04"
+- "Oral Histories: Temporal Holdings, 2021-10-30"
+- "Oral Histories: Temporal Holdings, 2022-07-17"
+- "Oral Histories: Temporal Holdings, 2023-10-12"
+- "Oral Histories: The Inevitables, 2022-02-09"
+- "Oral Histories: The Inevitables, 2022-07-03"
 published: '2026-09-10'
 wa:
   slug: wainwright-st-cloud-person
@@ -74,13 +93,13 @@ image:
   caption: Ally card, Arc VIII
 ---
 
-**Human · Warlock 17 / Rogue 3 (sheet) · Lawful Evil · Chairman of the Sword Coast Trading Company · High Counselor to the Emperor · Immortal; whereabouts unknown**
+**Human · Warlock 17 / Rogue 3 (sheet) · Lawful Evil · Chairman of the Sword Coast Trading Company · High Counselor to the Emperor · Died in the Egg**
 
-*Also known as:* WSC · Alphalpha Beginnigin · the Old Man · the Traveler · <small>(and, whenever convenient, any one of dozens of changelings wearing his face)</small>
+*Also known as:* WSC · Alphalpha Beginnigin · the Old Man · the Traveler · the Grey Sage · <small>(and, whenever convenient, any one of dozens of changelings wearing his face)</small>
 
-**Wainwright St. Cloud** is a human warlock and the chairman of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), "High Counselor to the Emperor… and possibly the most powerful man in the world. His motivations are mystery, his methods are a maze." Brother of the slaver captain **Ysmir** and the imperial commander **Carlysle**, he outlived them both, being far older than either. In deep time he lives as the **Old Man**; in antiquity he is **the Grey Sage**, who raises Netheril and is banished to Despondos by the Queens; in the present he met that older self, traded souls with him through the **Soul Syphon**, killed him, turned his own brothers, and took off the body the Black Book that gave him his Warlock Pact.
+**Wainwright St. Cloud** is a human warlock and the chairman of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), "High Counselor to the Emperor… and possibly the most powerful man in the world. His motivations are mystery, his methods are a maze." Brother of the slaver captain **Ysmir** and the imperial commander **Carlysle**, he outlived them both, being far older than either. In deep time he lives as the **Old Man**; in antiquity he is **the Grey Sage**, an office each loop's St. Cloud holds, who raises Netheril and is banished to Despondos by the Queens; in the present he met that older self, traded souls with him through the **Soul Syphon**, killed him, turned his own brothers, and took off the body the Black Book that gave him his Warlock Pact.
 
-From a Baldur's Gate shipping concern he built an interplanar empire centred on [Sigil](/places/sigil/) and founded on the moonstone of [Motherstone](/places/motherstone/), its principal business the reverse-engineering of the **Infernal Machines**. He delivered [the Anachron](/items/the-anachron/) to the Arcaneum himself so that they would activate it for him; he jumped his ships into Motherstone's airspace once the Mythal was down and lost the Second Battle of Motherstone; and at Starfall he scrambled the Anachron's core and fled into a time portal. He is running a cycle: each iteration he reaches [R'lyeh](/places/rlyeh/), uses the [Obliviator](/items/the-obliviator/) and the Anachron to summon Cthulhu, and escapes forward in time. His house has been burned to ash by the Lady of Pain, his Company is broken, his changelings are exposed, and his whereabouts are unknown.
+From a Baldur's Gate shipping concern he built an interplanar empire centred on [Sigil](/places/sigil/) and founded on the moonstone of [Motherstone](/places/motherstone/), its principal business the reverse-engineering of the **Infernal Machines**. He delivered [the Anachron](/items/the-anachron/) to the Arcaneum himself so that they would activate it for him; he jumped his ships into Motherstone's airspace once the Mythal was down and lost the Second Battle of Motherstone; and at Starfall he scrambled the Anachron's core and fled into a time portal. He is running a cycle: each iteration he reaches [R'lyeh](/places/rlyeh/), uses the [Obliviator](/items/the-obliviator/) and the Anachron to summon Cthulhu, and escapes forward in time. The Lady of Pain burned his house to ash, his Company was broken and his changelings exposed. In the deep past [Roland Deschain](/people/roland-deschain/) shot the Traveler, an older loop's St. Cloud, and the party's own St. Cloud went forward to become the Grey Sage of Antiquity. He was captured alive at **Zeal** at the climax of the Time of Troubles. In the final battle [Kara](/people/kara/) freed him from the crystal and used his power, and he died in [the Egg](/places/the-egg/) for her.
 
 > Have I planted the seed of this worlds doom? Yes, I have no choice. But I am the progenitor of epochs, their author, their witness, their death. I am the protagonist of reality, and you are my foil.
 
@@ -100,7 +119,9 @@ It also identifies the sage [Marcus](/people/marcus/) speaks of: "My sister and 
 
 He is running a **cycle**. Each iteration he reaches [R'lyeh](/places/rlyeh/), uses the ancient [Obliviator](/items/the-obliviator/) and [Anachron](/items/the-anachron/) to summon Cthulhu, and escapes forward in time — and "forms of the party try to stop him every time (or help him in some cases)."
 
-Two iterations collide at Starfall: "'This St Cloud' seems to be 'Their St Cloud' and defeats a set of heroes who had come to stop their st cloud," and "'Their St Cloud' is actually following them and will engage and likely defeat them after they defeat 'This St Cloud'." <small>(Arc V Part IV.)</small> The **Traveler** is a further instance, "at least a few loops back from them, but its unknown exactly when he stopped." <small>(Sic. Arc V Part IV.)</small> And [Karametra](/people/karametra/) is a Kara who was on his side in her own loop.
+Two iterations collide at Starfall: "'This St Cloud' seems to be 'Their St Cloud' and defeats a set of heroes who had come to stop their st cloud," and "'Their St Cloud' is actually following them and will engage and likely defeat them after they defeat 'This St Cloud'." <small>(Arc V Part IV.)</small> The **Traveler** is a further instance, "at least a few loops back from them, but its unknown exactly when he stopped." <small>(Sic. Arc V Part IV.)</small> The Traveler is the St. Cloud whom Roland shot in the deep past. Dave to the players: "you went back in time and Roland one-shotted the guy who did all of this before he had a chance to do it". <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> The Lady of Pain said of the company: *"It's their destiny to destroy the Traveler."* [Karametra](/people/karametra/), the Traveler's wife, is a Kara who was on his side in her own loop.
+
+**The Grey Sage** is an office that each loop's St. Cloud holds. The party's own St. Cloud, the one they had followed back from Refuge, watched them kill the previous Grey Sage at R'lyeh: "He spied on you throughout the deep past to ambush you as you killed a previous st cloud at rlyeh". <small>(Oral Histories: The Inevitables, 2022-07-03)</small> He went forward and became the Grey Sage of Antiquity: "this Grey Sage knows you’re coming, because he’s YOUR St. Cloud, you killed the one who was the grey sage “last” time at Rlyeh". <small>(Oral Histories: The Inevitables, 2022-02-09)</small>
 
 His Ally Card reads: "I am the progenitor of epochs, their author, their witness, their death. I am the protagonist of reality, and you are my foil."
 
@@ -116,7 +137,7 @@ The obliviation of Motherstone and its founder made St. Cloud forget the city to
 
 ## Public and private
 
-Publicly he is a merchant-statesman who advises an Emperor and, in Waterdeep, elevates the boy Jacob Southampton — his own ward, by his sheet — whom the priests of Obus proclaim an Infanta. Privately, behind a portrait in his executive suite, opened by a silver key, lies the **Old Man's House** — a palace older than memory, an endless backward hallway, a Central Gallery of god-scaled treasures, the sigil of [Calix](/people/calix-the-betrayer/) emblazoned on the walls, and an upstairs studio full of half-built machines and paintings of the heroes "over and over again, in slightly different versions which tip perilously into the uncanny valley."
+Publicly he is a merchant-statesman who advises an Emperor and, in Waterdeep, elevates the boy Jacob Southampton — his own ward, by his sheet — whom the priests of Obus proclaim an Infanta. Privately, behind a portrait in his executive suite, opened by a silver key, lies the **Old Man's House** — a palace older than memory, an endless backward hallway, a Central Gallery of god-scaled treasures, the sigil of [Calix](/people/calix-the-betrayer/) emblazoned on the walls, and an upstairs studio full of half-built machines and paintings of the heroes "over and over again, in slightly different versions which tip perilously into the uncanny valley." The great portrait over the studio shows a sorceress in flight with Kara's face and green eyes. That red-robed, green-eyed woman, in the painting he was working on when he left for the past, is [Karametra](/people/karametra/).
 
 ## What he is
 
@@ -144,6 +165,8 @@ St. Cloud knows he is inside edited time, and he knows who is editing it. Heard 
 
 In the deep past the heroes meet him at an earlier turn of the wheel: a Hermit in a shack in the far forest, chopping wood, with a single gun and no powers, cut off from the Leviathan. He came back through time to summon it and live forever in Sigil. His wife **Kay** changed his heart, and then his mind, and he abandoned the quest; the summoning happened anyway. He is too frightened of Cthulhu to face it and stays behind while Kay goes to petition Tiamat to move the Moon.
 
+Kay is [Karametra](/people/karametra/). He married her and gave up his quest. When she saw the Egg coming, the true Evening Star, she knew that someday he would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> Roland shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/).
+
 ## His design
 
 His agent **Dox Prime** confessed his design: when he activates the Mammon Machine, every broadcast ring in every Company product will announce it. *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.* "**Leviathan is coming. May it know that I helped it come to be.**" He used the Infanta of Obus to finish the stellar calculation his own board had demanded — *"when precisely did the Starfall event happen?"* — and was gone before the heroes reached his house: *"You're too late. He's already gone."* He is the **Traveler** — the vessel the blind god always finds — and Calix's visions expose how he warped the Netherese queens' understanding so they would bring all the magic of their world to bear against their own existence.
@@ -160,17 +183,21 @@ The mage Celion, speaking to [Kara](/people/kara/) from a clone suspended in liq
 
 Valen's own view of him, given in the sanctum: "Wainwright St. Cloud is a man, crude and comically short sighted. He was wise enough to bring the Anachron to me, so that I may assume his quest and rightly witness the final moments at her side." Neither St. Cloud nor the Arcaneum ever turned the device on. <small>(Arc III Parts IX–XI.)</small>
 
-The [Lexicon](/items/the-lexicon/) was damaged by his brother [Carlysle](/people/carlysle-st-cloud/), through a possessed Roland. Wainwright's part was to jump his ships into the city's airspace once the Mythal was down, which is the Second Battle of Motherstone. He lost it. The damage done to the machine in that battle is the reason [Roland Deschain](/people/roland-deschain/) and [Brother Magnus](/people/brother-magnus/) connected the Anachron and moved the Lexicon into it, which is how the Anachron came to be Lex.
+Before the Second Battle of Motherstone, the Lexicon had been built into the *Arielle*: "Lex is now built into the Arielle". <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> At Motherstone the mechanical heart of his brother [Carlysle](/people/carlysle-st-cloud/) came to life, stole a robot and the Palantir, and was fought. Then [Roland Deschain](/people/roland-deschain/) touched the Palantir, and Wainwright mind-controlled him through it. Dave's summary: "then Roland touched the Palantir and then St Cloud mind controlled him and he destroyed Lex and let the Company into Motherstone and was put on trial for it because you obliviated Carlysle". <small>(Oral Histories: Temporal Holdings, 2021-10-30)</small> Wainwright jumped his ships into the city's airspace once the Mythal was down, and lost the battle. When Lex transferred himself to the ship "he loses all connection to the motherstone Lex, which is now dead". <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> The party captured Carlysle in [Roland's Cube](/items/rolands-cube/) "and then threw him and the Palantir into the Obliviator". <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> Motherstone remembers only that Roland betrayed it.
 
 At Starfall he "tinkers with the infernal machine with the Anachron at its center. He is clearly preparing it for time travel." When the fight went against him, "St. Cloud rushes the Anachron before his death and scrambles the core. He flees into a time portal, and each hero is faced with the split-second decision to stay or follow." Those who followed found him "in the liminal space between this Time and the Next. He seems horrified and panicked that you have breached the anachronistic space, like maybe this hasn't happened before." <small>(Arc V, Starfall, Part VI; the file's own heading reads Part V.)</small>
-
-## Right now
-
-His house is ash, his Company is broken, his changelings are exposed, and his whereabouts are unknown. The Lady of Pain said of the company: *"It's their destiny to destroy the Traveler."*
 
 ## The Company he left behind
 
 When St. Cloud fled the "present" into the past, he left behind the St. Cloud Trading Company, the true Company in [Sigil](/places/sigil/), born from the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) on Faerun. The party had ruined his tower and the Lady of Pain had destroyed his home; the Company's assets went up for auction, and to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on.
+
+## Captured at Zeal
+
+At the climax of the Time of Troubles the city of **Zeal** rose into orbit to meet the Egg, carrying the Obliviator and the armies of Faerun. St. Cloud, then the Grey Sage, was captured alive: "The Grey Sage / Wainwright St Cloud is captured alive (!) and Roland’s Cube is in hand, though broken." <small>(Oral Histories: Temporal Holdings, 2022-07-17)</small>
+
+## Death in the Egg
+
+<small>Recovered from the Oblivia.</small> [Kara](/people/kara/) meant to turn him, and his ally card was made in case she succeeded. <small>(Oral Histories: Temporal Holdings, 2023-10-12)</small> She did. In the final battle she freed him from the crystal and used his black action, and St. Cloud died in [the Egg](/places/the-egg/) for Kara. See [The Ally Cards](/lore/the-ally-cards/).
 
 ## The end of the Infanta Crisis
 
@@ -185,10 +212,10 @@ The Egg and the final battle were obliviated. The world remembers that troops on
 - **Ysmir St. Cloud** — his brother, the slaver captain of the *Evening Star*. Drowned, Arc I.
 - **Carlysle St. Cloud** — his brother, the imperial commander at Harloch and the Second Battle of Motherstone.
 - **Dox Prime** — chief of the changeling collective; the only one who travels to and from the Boss in person, and the one who gives up the design.
-- **Kay** — his wife in the deep past, who changed his mind about all of it, and left to move the Moon herself.
+- **Karametra (Kay)** — his wife in the deep past, who changed his mind about all of it, and left him to move the Moon herself when she saw the Egg coming. The green-eyed sorceress of his great portrait.
 - **The Lady of Pain** — he destroyed her and handed Death to Asmodeus. She burned his house.
 - **Roland Deschain** — hunts his bloodline over something in a gunshop that nobody can remember.
-- **Kara** — he has been painting her, green-eyed, for longer than she has been alive.
+- **Kara** — her face recurs in his paintings of the heroes. She freed him from the crystal in the final battle, and he died in the Egg for her.
 
 **Vices & Personality flaws:** *"I will monologue if given the opportunity."* <small>(Sheet.)</small>
 
