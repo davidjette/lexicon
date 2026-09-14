@@ -1,21 +1,23 @@
 ---
 title: Breaker's Pit
 description: The underground fighting arena beneath the Ziggurat, where Dario beat Biff and caught the eye of Queen B.
+tags:
+  - Breaker's Pit
+  - Breakers Pit
+  - The Ziggurat
+  - Sharn
+  - Lower City
+  - DJ Rust
+  - Queen B
+  - Blair
+  - Sir Dario Argentino
+  - Renn Tal
+  - arena
+  - Underhive
+image:
+  src: /images/uploads/breaker-s-pit-fight-dario-mu0nffcj.webp
 type: landmark
 kind: places
-tags:
-- Breaker's Pit
-- Breakers Pit
-- The Ziggurat
-- Sharn
-- Lower City
-- DJ Rust
-- Queen B
-- Blair
-- Sir Dario Argentino
-- Renn Tal
-- arena
-- Underhive
 icon: fa-hand-fist
 fields:
   type: Underground arena
@@ -28,8 +30,8 @@ fields:
   history: Dario Argentino won a Tier One bout here against Biff and was invited to the Underhive by Queen B
   sensory: Heat, noise, and the crowd audible through the market floors above
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: breaker26230393Bs-pit-location
