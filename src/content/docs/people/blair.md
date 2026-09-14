@@ -1,21 +1,25 @@
 ---
 title: Blair
 description: 'Queen B, sovereign of the Underhive: LeBeefe''s adopted daughter, raised by pirates, and the one ruler in Sharn who kept her word.'
+tags:
+  - Blair
+  - Queen B
+  - Queen of the Underhive
+  - Underhive
+  - Drones
+  - Sharn
+  - Lower City
+  - John C. LeBeefe
+  - Esther Crona
+  - Faith Zeir
+  - Eden
+  - Joseph Roberts
+image:
+  src: /images/site/blair-1.webp
+  alt: Blair "Queen B"
+  caption: Blair "Queen B"
 type: person
 kind: people
-tags:
-- Blair
-- Queen B
-- Queen of the Underhive
-- Underhive
-- Drones
-- Sharn
-- Lower City
-- John C. LeBeefe
-- Esther Crona
-- Faith Zeir
-- Eden
-- Joseph Roberts
 icon: fa-crown
 fields:
   rpgAlignment: Unknown
@@ -32,20 +36,16 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/images/key-figures/02.jpg
+  - sources/site/key-figures.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/images/key-figures/02.jpg
 published: '2026-09-10'
 wa:
   slug: c00f2b19-cde4-4258-9273-16a6ad403733
   uuid: 4191729d-dfc2-4deb-b60a-3199343f673f
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/blair-1.webp
-  alt: Blair "Queen B"
-  caption: Blair "Queen B"
 ---
 
 **Female Tiefling · Queen of the Underhive · Sovereign of the undercity, Sharn · Alive**
@@ -123,3 +123,5 @@ Today, Blair rules the Underhive. Her husbands form her inner circle, each contr
 - **The Inevitables** — the only outsiders she has given a direct line to. Alive.
 
 **Hobbies & Pets:** Unknown. She attends the fights.
+
+![Blair and Carlos Vega.png](/images/uploads/blair-and-carlos-vega-mu0wb1jv.webp)
