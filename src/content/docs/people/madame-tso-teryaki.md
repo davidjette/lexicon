@@ -1,21 +1,23 @@
 ---
 title: Madame Tso Teryaki
 description: Matriarch of the Teryaki, keeper of the mountain's true history, and the woman who called the Inevitables grave robbers to their faces and was right.
+tags:
+  - Madame Tso Teryaki
+  - Madame Tso
+  - Tso Teryaki
+  - Teryaki
+  - Deeptempura
+  - Rak'tafur
+  - The Korramont
+  - Belt of Dwarvenkind
+  - General Tso
+  - Shavat
+  - Valtrex
+  - grave robbers
+image:
+  src: /images/uploads/madame-tso-teryaki-mu0lp62e.webp
 type: person
 kind: people
-tags:
-- Madame Tso Teryaki
-- Madame Tso
-- Tso Teryaki
-- Teryaki
-- Deeptempura
-- Rak'tafur
-- The Korramont
-- Belt of Dwarvenkind
-- General Tso
-- Shavat
-- Valtrex
-- grave robbers
 icon: fa-user-tie
 fields:
   rpgAlignment: Unknown
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/session-2026-07-17-recap.md
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: madame-tso-teryaki-person
