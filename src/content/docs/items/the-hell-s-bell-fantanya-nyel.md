@@ -1,21 +1,23 @@
 ---
 title: The Hell's Bell (Fantanya Nyel)
 description: 'The one true bell: an elvish infernal casting dug out of Greenbluff, now the mother of a chorus the Empress means to ring across a continent.'
+tags:
+  - The Hell's Bell
+  - Hell's Bells
+  - Fantanya Nyel
+  - Fantanya Nyel
+  - Fantanya (Hells) Nyel
+  - Bell
+  - Greenbluff
+  - Relic
+  - Artifact
+  - Necromancy
+  - Black Doves
+  - Uriel Qualanthri
+image:
+  src: /images/uploads/the-hell-s-bell-fantanya-nyel-mu0t8j70.webp
 type: item
 kind: items
-tags:
-- The Hell's Bell
-- Hell's Bells
-- Fantanya Nyel
-- Fantanya Nyel
-- Fantanya (Hells) Nyel
-- Bell
-- Greenbluff
-- Relic
-- Artifact
-- Necromancy
-- Black Doves
-- Uriel Qualanthri
 icon: fa-bell
 fields:
   itemType: Unique Artifact
@@ -31,17 +33,17 @@ fields:
   creationDate: Unknown; buried by a Celestial Queen centuries ago
   destructionDate: Extant. The Thirteenth Casting was destroyed by KNELL; ten bells remain.
 sources:
-- worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
-- handouts/hells-bells-dossier.md
-- handouts/fulcrum-bell-file.md
-- handouts/caius-foundry-manifest.md
-- handouts/foxtale-debrief.md
-- worldanvil/sources/site/korth-episode-summaries.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- session-2026-08-21-recap.md
-- session-2026-09-04-summary.md
-- current-state.md
-- worldanvil/CANON.md
+  - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
+  - handouts/hells-bells-dossier.md
+  - handouts/fulcrum-bell-file.md
+  - handouts/caius-foundry-manifest.md
+  - handouts/foxtale-debrief.md
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - session-2026-08-21-recap.md
+  - session-2026-09-04-summary.md
+  - current-state.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-hell-s-bell-28fantanya-nyel29-item
