@@ -137,3 +137,5 @@ Richard Blaze is officially dead. He and Calcifer were teleported out to Zilspar
 **Hobbies & Pets:** cooking, professionally and constantly. No pets recorded.
 
 **Related:** [Fulcrum](/organizations/fulcrum/) · [Esther Crona](/people/esther-crona/) · [Calcifer](/people/calcifer/) · [Digma Beeve](/people/digma-beeve/) · [John Stamos](/people/john-stamos/) · [Grady Marsh](/people/grady-marsh/)
+
+![The Crono-Blaze Family - Esther Crona, Calcifer and Richard Blaze.png](/images/uploads/the-crono-blaze-family-esther-crona-calc-mu0xvfr4.webp)
