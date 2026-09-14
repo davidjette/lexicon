@@ -111,3 +111,5 @@ They showed it. [Dario](/people/sir-dario-argentino/) played it from the EBT-7 o
 - **Digma Beeve** — author of the story that says he is dead. Alive.
 
 **Hobbies & Pets:** Unknown.
+
+![Calcifer with his Father Richard Blaze.png](/images/uploads/calcifer-with-his-father-richard-blaze-mu0z1x4f.webp)
