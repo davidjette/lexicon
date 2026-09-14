@@ -1,19 +1,21 @@
 ---
 title: City Center
 description: The north Lower City district built around the Ziggurat, with residential towers, Misty's Pawn Shop, Kross Roads and the main city gates.
+tags:
+  - City Center
+  - Sharn
+  - Lower City
+  - The Ziggurat
+  - Breaker's Pit
+  - Misty's Pawn Shop
+  - Kross Roads
+  - Graft & Gear
+  - FoundMe Foundry
+  - Lower City gates
+image:
+  src: /images/uploads/city-center-mu0o5jej.webp
 type: settlement
 kind: places
-tags:
-- City Center
-- Sharn
-- Lower City
-- The Ziggurat
-- Breaker's Pit
-- Misty's Pawn Shop
-- Kross Roads
-- Graft & Gear
-- FoundMe Foundry
-- Lower City gates
 icon: fa-shop
 fields:
   type: City district
@@ -26,8 +28,8 @@ fields:
   defenses: Gate garrison; Iron Veil patrols historically
   owner: The Underhive has claimed legal ownership of the Ziggurat
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: city-center-location
