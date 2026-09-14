@@ -1,21 +1,23 @@
 ---
 title: Karin Kross
 description: Shopkeeper of the Kross Roads Corner Store, Martin Kross's ex-wife, and the Nest's one lead on him.
+tags:
+  - Karin Kross
+  - Karen Kross
+  - Karin
+  - Kross
+  - Kross Roads Corner Store
+  - Sub-line District
+  - Martin Kross
+  - Kriss Kross
+  - Misty Kross
+  - BioTec
+  - Sharn
+  - Lower City
+image:
+  src: /images/uploads/karin-kross-mu0kz0rl.webp
 type: person
 kind: people
-tags:
-- Karin Kross
-- Karen Kross
-- Karin
-- Kross
-- Kross Roads Corner Store
-- Sub-line District
-- Martin Kross
-- Kriss Kross
-- Misty Kross
-- BioTec
-- Sharn
-- Lower City
 icon: fa-basket-shopping
 fields:
   rpgAlignment: Unknown
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/home.txt
-- worldanvil/CANON.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/home.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: karin-kross-person
