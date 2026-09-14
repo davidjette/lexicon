@@ -1,21 +1,24 @@
 ---
 title: Martin Kross
 description: A junior BioTec technician with predictable habits, worked over drinks by Zero of Sharn; once his control chip came out he named the company's secret owner.
+tags:
+  - Martin Kross
+  - Kross
+  - BioTec
+  - Ghost Chip
+  - The Astra
+  - Zero of Sharn
+  - Joanne Menka
+  - Edwin Graves
+  - control chip
+  - Karin Kross
+  - Karen Kross
+  - Kriss Kross
+image:
+  src: /images/site/martin-kross-1.webp
+  alt: Martin Kross
 type: person
 kind: people
-tags:
-- Martin Kross
-- Kross
-- BioTec
-- Ghost Chip
-- The Astra
-- Zero of Sharn
-- Joanne Menka
-- Edwin Graves
-- control chip
-- Karin Kross
-- Karen Kross
-- Kriss Kross
 icon: fa-user
 fields:
   rpgAlignment: Unknown
@@ -32,17 +35,14 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- worldanvil/sources/site/biotec.txt
-- worldanvil/sources/site/pose-mission-notes.txt
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/pose-mission-notes.txt
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: martin-kross-person
   category: 25384e32-6c51-426d-8263-5535b8295114
-image:
-  src: /images/site/martin-kross-1.webp
-  alt: Martin Kross
 ---
 
 **Junior enhancement-technician, BioTec · Fugitive · Alive, departed Sharn**
@@ -99,3 +99,5 @@ He lives alone in Astra Level Apartment 01, divorced with three children, and pr
 - **Misty Kross** — daughter-in-law; questioned by BioTec because of him. Alive.
 - **Blair** — held him under watch and traded his release for a cleared tunnel. Alive.
 - **Dr. Joanne Menka** — his lead scientist, who named him missing within hours. Executed after the trials.
+
+![Martin Kross Prisoner in Underhive.png](/images/uploads/martin-kross-prisoner-in-underhive-mu0x9tqj.webp)
