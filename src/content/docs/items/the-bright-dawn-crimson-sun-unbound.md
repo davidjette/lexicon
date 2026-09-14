@@ -4,7 +4,33 @@ tags:
   - The Bright Dawn (Crimson Sun Unbound)
 image:
   src: /images/uploads/bright-dawn-crimson-sun-unbound-mu0zsg0d.webp
-sources: []
+type: item
+kind: items
+icon: fa-sword
+fields:
+  itemType: Weapon — longsword
+  rarity: Very rare; requires attunement
+  weight: Longsword
+  dimensions: Longsword
+  significance: Former vessel of the Echo of Vayrn Crona, the Eternal Guardian, and former Hexblade of Esther Crona. After the Rite of Recall destroyed Vayrn's trapped soul, the sword was freed from its binding and became Gemma Corso's pact blade, now known as Bright Dawn.
+  manufacturingProcess: Forged by Vayrn Crona at the ancient Forge of Binding beneath Sharn as part of the Eternal Guardian rite. Vayrn forged the blade from Black Khyber and bound Fire, Frost (Cold), Lightning, Radiance (Light), Shadow (Necrotic), Acid, Thunder, and Force into it. Priest E'noch Qualanthri oversaw the completion of the Eternal Guardian bond and layered a second ritual over the elemental binding.
+  materials: Black Khyber (Shavat); later transformed into black and red Khyber after Vayrn used the blade in the creation of the Mourning; now crystalline after the Rite of Recall
+  owningOrganization: Originally Vayrn Crona; later wielded by Esther Crona as her Hexblade; now carried by Gemma Corso
+  usedBy: Vayrn Crona; Lord Commander Esther Crona; now Gemma Corso
+  discovery: Recovered by Gemma Corso after Esther Crona's death atop the Veil building, where Esther dropped the sword as she fell from the penthouse balcony
+  sideEffects: The sword formerly contained the bound Echo of Vayrn Crona. The Rite of Recall at the Forge of Binding destroyed the trapped soul and broke the binding, leaving the weapon crystalline and free of the Echo.
+sources:
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - session-2026-08-21-recap.md
+  - session-2026-08-07-recap.md
+  - session-2026-08-28-summary.md
+  - session-2026-09-04-summary.md
+  - current-state.md
+  - worldanvil/CANON.md
+published: '2026-09-14'
+wa:
+  slug: bright-dawn-item
+  category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
 ---
 
 **Longsword · Black Khyber (Shavat) · Former arm of Vayrn Crona · Former Hexblade of Esther Crona · Crystal after the Rite of Recall · Carried by Gemma Corso**
