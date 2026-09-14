@@ -1,21 +1,23 @@
 ---
 title: The Forge of Binding
 description: The ancient forge in the Dhakaani depths beneath Sharn where Varyn Crona and E'noch Qualanthri performed the Eternal Guardian ritual.
+tags:
+  - The Forge of Binding
+  - Eternal Guardian
+  - Varyn Crona
+  - E'noch Qualanthri
+  - Enoch
+  - Dhakaani
+  - Renn Tal
+  - Esther Crona
+  - Sharn
+  - undercity
+  - Rite of Recall
+  - mind flayer
+image:
+  src: /images/uploads/chatgpt-image-may-2-2026-03-08-28-pm-mu0p04km.webp
 type: landmark
 kind: places
-tags:
-- The Forge of Binding
-- Eternal Guardian
-- Varyn Crona
-- E'noch Qualanthri
-- Enoch
-- Dhakaani
-- Renn Tal
-- Esther Crona
-- Sharn
-- undercity
-- Rite of Recall
-- mind flayer
 icon: fa-fire
 fields:
   type: Ancient forge and dungeon
@@ -28,8 +30,8 @@ fields:
   history: Reached by the Inevitables through a boarded sewer door; the Echo was called and the Forge went dark, and an Imperial drill broke through the ceiling moments later
   sensory: Cold stone, standing water, and afterwards a haze of red-black light
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: the-forge-of-binding-location
