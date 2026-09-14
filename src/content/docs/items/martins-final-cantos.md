@@ -13,6 +13,7 @@ tags:
 - forgotten goddess
 - leviathan
 - Zanzibar
+- Elohim
 - Starfall
 - Light of Xaryxis
 icon: fa-feather
@@ -25,8 +26,10 @@ fields:
   condition: Complete
   status: Extant
 sources:
-- Oral Histories: The Inevitables, 2024-04-19
-- Oral Histories: The Inevitables, 2024-04-20
+- "Oral Histories: The Inevitables, 2023-12-23"
+- "Oral Histories: The Inevitables, 2024-04-19"
+- "Oral Histories: The Inevitables, 2024-04-20"
+- "Oral Histories: The Inevitables, 2024-04-27"
 ---
 
 **Poem · Three books · By Martin · Shrike pilgrimage, Light of Xaryxis**
@@ -37,7 +40,11 @@ sources:
 
 ## History
 
-On 2024-04-19, in play on the pilgrimage, verse was read aloud that began "The poet and the dreamer are distinct" and closed with "I was lost, but saved." and "I am a translator." <small>(Oral Histories: The Inevitables, 2024-04-19)</small> The full text of *Martin's Final Cantos* followed the next day. <small>(Oral Histories: The Inevitables, 2024-04-20)</small>
+Among the art Dave shared for the pilgrimage in December 2023 was a portrait of Martin, cast as Martin Sheen. <small>(Oral Histories: The Inevitables, 2023-12-23)</small>
+
+On 2024-04-19, in [the Time Tombs](/places/the-time-tombs/), verse was read aloud that began "The poet and the dreamer are distinct" and closed with "I was lost, but saved." and "I am a translator." <small>(Oral Histories: The Inevitables, 2024-04-19)</small> The full text of *Martin's Final Cantos* followed the next day. <small>(Oral Histories: The Inevitables, 2024-04-20)</small>
+
+A week later Dave ruled that the true nature and existence of Cthulhu and the origins of the eldritch machines, the Anachron and the Lexicon among them, were erased from memory, and are now cursed information "which only madmen and poets ever understand". <small>(Oral Histories: The Inevitables, 2024-04-27)</small> See [the Oblivia](/lore/the-oblivia/).
 
 ## Content
 
@@ -45,7 +52,7 @@ On 2024-04-19, in play on the pilgrimage, verse was read aloud that began "The p
 
 **Book II** describes the world forgetting her. A silence remains where her laughter once echoed, the price of keeping pure the lands that will never recall the sacrifice that halted ruin.
 
-**Book III** turns to the titans in their grief, Zanzibar among them, and to the silence where Moradin's old palace stood. The goddess who cast herself out from the stars wanders the astral without trace, her story hidden "as if it had never been." <small>(Oral Histories: The Inevitables, 2024-04-20)</small>
+**Book III** turns to the titans in their grief: Zanzibar, "once lord", and "Elohim the old", the far-future name of Eloise, the Fate of time and space. It turns then to the silence where Moradin's old palace stood. The goddess who cast herself out from the stars wanders the astral without trace, her story hidden "as if it had never been." <small>(Oral Histories: The Inevitables, 2024-04-20)</small>
 
 ## Reception
 

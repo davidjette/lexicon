@@ -22,12 +22,12 @@ fields:
   residence: A high-security OSR3G facility
   status: Imprisoned
 sources:
-- Oral Histories: The Inevitables, 2022-10-09
-- Oral Histories: The Inevitables, 2022-10-18
-- Oral Histories: The Inevitables, 2022-10-19
-- Oral Histories: The Inevitables, 2022-12-10
-- Oral Histories: The Inevitables, 2023-01-27
-- Oral Histories: The Inevitables, 2024-06-01
+- "Oral Histories: The Inevitables, 2022-10-09"
+- "Oral Histories: The Inevitables, 2022-10-18"
+- "Oral Histories: The Inevitables, 2022-10-19"
+- "Oral Histories: The Inevitables, 2022-12-10"
+- "Oral Histories: The Inevitables, 2023-01-27"
+- "Oral Histories: The Inevitables, 2024-06-01"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 ---
 
@@ -35,7 +35,7 @@ sources:
 
 *Also known as:* Luigi · prisoner LL849
 
-**Large Luigi** is a beholder bartender who kept his bar aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*. In the fifteen years that followed he was held by [OSR3G](/organizations/osr3g/) as prisoner LL849, awaiting trial for treason and crimes against the [Sovereignty](/organizations/the-sovereignty-of-realms/).
+**Large Luigi** is a beholder bartender who kept his bar aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). In the fifteen years that followed he was held in a high-security facility of [OSR3G](/organizations/osr3g/) as prisoner LL849, awaiting trial for treason and crimes against the [Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), which officially disavows all knowledge of his whereabouts.
 
 ## Light of Xaryxis
 

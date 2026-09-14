@@ -20,11 +20,11 @@ fields:
   ggmtitle: Galley Master of the SSJ Zanzibar
   status: Unknown
 sources:
-- Oral Histories: The Inevitables, 2022-05-02
-- Oral Histories: The Inevitables, 2022-07-14
-- Oral Histories: The Inevitables, 2022-09-26
-- Oral Histories: The Inevitables, 2022-10-09
-- Oral Histories: The Inevitables, 2023-01-27
+- "Oral Histories: The Inevitables, 2022-05-02"
+- "Oral Histories: The Inevitables, 2022-07-14"
+- "Oral Histories: The Inevitables, 2022-09-26"
+- "Oral Histories: The Inevitables, 2022-10-09"
+- "Oral Histories: The Inevitables, 2023-01-27"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 ---
 
@@ -32,7 +32,7 @@ sources:
 
 *Also known as:* Kili · Private Kili Tiddleywink
 
-**Kili Tiddleywink** is a faerie monk of the Astral Way and the ship's cook of the [SSJ Zanzibar](/items/the-ssj-zanzibar/), a non-player character built by Dave for *[Light of Xaryxis](/history/light-of-xaryxis/)*. The ship's crew roster lists him as Private Kili Tiddleywink, Galley Master.
+**Kili Tiddleywink** is a faerie monk of the Astral Way and the ship's cook of the [SSJ Zanzibar](/items/the-ssj-zanzibar/), a non-player character built by Dave for *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). The ship's crew roster lists him as Private Kili Tiddleywink, Galley Master.
 
 ## Background
 
@@ -40,4 +40,4 @@ Kili is the ship's cook, a faerie Monk of the Astral Way. <small>(Oral Histories
 
 ## Service aboard the Zanzibar
 
-Kili was first described as a civilian. <small>(Oral Histories: The Inevitables, 2022-09-26)</small> The crew roster of January 2023 gives him the rank of Private, with the post of Galley Master. <small>(crew roster, Oral Histories: The Inevitables, 2023-01-27)</small>
+The crew roster of January 2023 gives Kili the rank of Private, with the post of Galley Master. <small>(crew roster, Oral Histories: The Inevitables, 2023-01-27)</small> Before the roster he was described as a civilian. <small>(Oral Histories: The Inevitables, 2022-09-26)</small> <small>(crew roster, Oral Histories: The Inevitables, 2023-01-27)</small>

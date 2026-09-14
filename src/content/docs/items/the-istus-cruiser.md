@@ -26,9 +26,9 @@ fields:
   condition: Unknown
   status: Unknown
 sources:
-- Oral Histories: The Inevitables, 2024-10-26
-- Oral Histories: The Inevitables, 2024-11-02
-- Oral Histories: The Inevitables, 2024-11-07
+- "Oral Histories: The Inevitables, 2024-10-26"
+- "Oral Histories: The Inevitables, 2024-11-02"
+- "Oral Histories: The Inevitables, 2024-11-07"
 ---
 
 **Cruiser · The Starsong Awakens · Stolen · Crewed by devotees of the Red Eye**

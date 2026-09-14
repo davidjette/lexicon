@@ -28,15 +28,15 @@ fields:
 sources:
 - Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
 - Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
-- Oral Histories: The Inevitables, 2024-06-02
-- Oral Histories: The Inevitables, 2024-06-25
-- Oral Histories: The Inevitables, 2024-07-01
-- Oral Histories: The Inevitables, 2024-07-12
-- Oral Histories: The Inevitables, 2024-09-07
-- Oral Histories: The Inevitables, 2024-11-02
-- Oral Histories: The Inevitables, 2024-11-07
-- Oral Histories: The Inevitables, 2024-11-10
-- Oral Histories: The Inevitables, 2024-11-17
+- "Oral Histories: The Inevitables, 2024-06-02"
+- "Oral Histories: The Inevitables, 2024-06-25"
+- "Oral Histories: The Inevitables, 2024-07-01"
+- "Oral Histories: The Inevitables, 2024-07-12"
+- "Oral Histories: The Inevitables, 2024-09-07"
+- "Oral Histories: The Inevitables, 2024-11-02"
+- "Oral Histories: The Inevitables, 2024-11-07"
+- "Oral Histories: The Inevitables, 2024-11-10"
+- "Oral Histories: The Inevitables, 2024-11-17"
 ---
 
 **Law-enforcement agency · Hunts illegal artificial intelligence · *The Starsong Awakens* · Active**
@@ -57,7 +57,7 @@ Bureau agents are issued a **Club of Compliance** and a Bureau badge; rookie age
 
 Kol Hanaka and Paytra were assigned as rookie Blade Runners to Brownsleeve City, a sunny beachside resort community on the moon of Toril, searching for the source of illegal AI. <small>(Oral Histories: The Inevitables, 2024-07-01)</small> Their storyline, *Brownsleeve City Nights*, ran in parallel with that of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Se7en](/people/se7en/) until the two synchronised. See [Brownsleeve City Nights](/history/brownsleeve-city-nights/).
 
-Kol's session notes record the cases they worked:
+Kol's notes list the cases they worked:
 
 - A note on Jeb, a bugbear cyber jack, bearing "R E", a symbol of a red eye and the address of a bean factory. The factory held a robot fighting ring, which the agents blew up.
 - The arrest of Jeb's brother George W, whose shop they tore up, finding unicorn meat, a map of an old cruiser and the red letters "Inevitable". A robot attempted to kill the agents and take George.

@@ -26,8 +26,8 @@ fields:
   condition: Unknown
   status: Recovered by Katrina McQuaid and Horgus Simianis after the Beholder War
 sources:
-- Oral Histories: The Inevitables, 2024-03-09
-- Oral Histories: The Inevitables, 2024-03-16
+- "Oral Histories: The Inevitables, 2024-03-09"
+- "Oral Histories: The Inevitables, 2024-03-16"
 ---
 
 **Weapons system · Astral Command · Secret program · Used once in the Beholder War**

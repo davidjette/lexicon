@@ -25,13 +25,13 @@ fields:
   spouse: Robin Martel (dismantled)
   status: Unknown
 sources:
-- Oral Histories: The Inevitables, 2024-06-02
-- Oral Histories: The Inevitables, 2024-10-26
-- Oral Histories: The Inevitables, 2024-11-02
-- Oral Histories: The Inevitables, 2024-11-07
-- Oral Histories: The Inevitables, 2024-11-08
-- Oral Histories: The Inevitables, 2025-05-23
-- CANON.md 5aj
+- "Oral Histories: The Inevitables, 2024-06-02"
+- "Oral Histories: The Inevitables, 2024-10-26"
+- "Oral Histories: The Inevitables, 2024-11-02"
+- "Oral Histories: The Inevitables, 2024-11-07"
+- "Oral Histories: The Inevitables, 2024-11-08"
+- "Oral Histories: The Inevitables, 2025-05-23"
+- sources/dave/2026-09-14-starfall-necis.md
 ---
 
 **High elf · Rogue (Arcane Trickster) · Crew, Istus Cruiser · Children of the Red Eye · Status unknown**
@@ -46,7 +46,7 @@ Marcel was a famous musician and actor in Waterdeep, an entertainer by backgroun
 
 ## The Starsong Awakens
 
-After Robin was dismantled Marcel became a rogue and a devotee of the Red Eye, the nom de guerre of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) among the robot resistance, and joined the resistance aboard the stolen Istus Cruiser. <small>(Oral Histories: The Inevitables, 2024-11-07; CANON.md 5aj)</small> The cruiser was seen in the epilogue of the finale of [Brownsleeve City Nights](/history/brownsleeve-city-nights/), played on 1 November 2024, and its crew are devotees of the Red Eye. <small>(Oral Histories: The Inevitables, 2024-10-26; 2024-11-02)</small>
+After Robin was dismantled Marcel became a rogue and a devotee of the Red Eye, the nom de guerre the robot resistance uses for [Barrias Ruby-Eye](/people/barrias-ruby-eye/), and joined the resistance aboard the stolen Istus Cruiser. <small>(Oral Histories: The Inevitables, 2024-11-07; sources/dave/2026-09-14-starfall-necis.md)</small> The cruiser was seen in the epilogue of the finale of [Brownsleeve City Nights](/history/brownsleeve-city-nights/), played on 1 November 2024, and its crew are devotees of the Red Eye. <small>(Oral Histories: The Inevitables, 2024-10-26; 2024-11-02)</small>
 
 Marcel and Weld ([Umwelt](/people/umwelt/)) first appeared on 8 November 2024. <small>(Oral Histories: The Inevitables, 2024-11-08)</small>
 

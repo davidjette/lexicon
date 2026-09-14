@@ -25,12 +25,12 @@ fields:
   condition: In service
   status: In use aboard the SSJ Zanzibar
 sources:
-- Oral Histories: The Inevitables, 2022-10-23
-- Oral Histories: The Inevitables, 2022-12-06
-- Oral Histories: The Inevitables, 2022-12-08
-- Oral Histories: The Inevitables, 2023-01-08
-- Oral Histories: The Inevitables, 2023-01-21
-- Oral Histories: The Inevitables, 2023-11-18
+- "Oral Histories: The Inevitables, 2022-10-23"
+- "Oral Histories: The Inevitables, 2022-12-06"
+- "Oral Histories: The Inevitables, 2022-12-08"
+- "Oral Histories: The Inevitables, 2023-01-08"
+- "Oral Histories: The Inevitables, 2023-01-21"
+- "Oral Histories: The Inevitables, 2023-11-18"
 - Desktop/D&D/Starfall TNG/sydiot_61076043.pdf
 - Desktop/D&D/Starfall TNG/sydiot_85410398.pdf
 - Desktop/D&D/Starfall TNG/sydiot_86420225.pdf
@@ -49,7 +49,7 @@ sources:
 
 The first Scroller had daily charges and a few utility spells, and let its user spend charges in place of spell slots for some of the spells they already knew. It worked like a rechargeable utility spell scroll that had to be plugged in every day. <small>(Oral Histories: The Inevitables, 2022-10-23)</small>
 
-Scrollers make Starfleet-style basic coordination possible but extremely unreliable, and were issued with the caveat that they can fail at any moment. Dave suggested that when a scroller is involved in big spells such as sending or Leomund's tiny hut, the DM can veto the casting. <small>(Oral Histories: The Inevitables, 2022-12-08)</small> Lower-powered scrollers with fewer charges were considered for level-one crew. <small>(Oral Histories: The Inevitables, 2022-12-06)</small>
+Scrollers make Starfleet-style basic coordination possible but extremely unreliable, and were issued with the caveat that they can fail at any moment. Dave suggested that when a scroller is involved in big spells such as sending or Leomund's tiny hut, the DM can veto the casting. <small>(Oral Histories: The Inevitables, 2022-12-08)</small> Lower-powered scrollers with fewer charges were considered for level-one crew, and a scroller's maximum spell level was set equal to its user's proficiency bonus, so 2nd level until character level 5. <small>(Oral Histories: The Inevitables, 2022-12-06; 2022-12-08)</small>
 
 In January 2023 Dave changed the Scroller to work like scrolls: an expanded spell list with six charges, used to download scrolls before a mission, enough for three 2nd-level spells or six castings of a 1st-level spell. Scroll rules apply, so a spell must be on the user's own list. <small>(Oral Histories: The Inevitables, 2023-01-08)</small> The revised Scroller is a scroll-preparer, charged with scrolls on a long rest and then cast as normal, with sector-specific versions such as mediscrollers and arcanoscrollers to follow as the crew levelled. <small>(Oral Histories: The Inevitables, 2023-01-21)</small>
 

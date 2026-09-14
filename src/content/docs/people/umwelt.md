@@ -24,11 +24,12 @@ fields:
   status: Unknown
 sources:
 - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
-- Oral Histories: The Inevitables, 2024-10-26
-- Oral Histories: The Inevitables, 2024-11-02
-- Oral Histories: The Inevitables, 2024-11-06
-- Oral Histories: The Inevitables, 2024-11-08
-- Oral Histories: The Inevitables, 2025-05-23
+- "Oral Histories: The Inevitables, 2024-10-26"
+- "Oral Histories: The Inevitables, 2024-11-02"
+- "Oral Histories: The Inevitables, 2024-11-06"
+- "Oral Histories: The Inevitables, 2024-11-08"
+- "Oral Histories: The Inevitables, 2025-05-23"
+- sources/dave/2026-09-14-starfall-necis.md
 ---
 
 **Warforged · Barbarian 5 (Path of the Wild Heart) · Crew, Istus Cruiser · Children of the Red Eye · Status unknown**
@@ -45,7 +46,7 @@ His cloak is his only clothing. His chest carries engravings and mechanisms. He 
 
 ## The Starsong Awakens
 
-The new crew of *The Starsong Awakens* after [Brownsleeve City Nights](/history/brownsleeve-city-nights/) were devotees of the Red Eye, the nom de guerre of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) among the resistance. <small>(Oral Histories: The Inevitables, 2024-10-26)</small> They serve as crew on the Istus Cruiser seen in the epilogue of the Brownsleeve City Nights finale, played on 1 November 2024. <small>(Oral Histories: The Inevitables, 2024-11-02)</small>
+The new crew of *The Starsong Awakens* after [Brownsleeve City Nights](/history/brownsleeve-city-nights/) were devotees of the Red Eye, the nom de guerre the robot resistance uses for [Barrias Ruby-Eye](/people/barrias-ruby-eye/). <small>(Oral Histories: The Inevitables, 2024-10-26; sources/dave/2026-09-14-starfall-necis.md)</small> They serve as crew on the Istus Cruiser seen in the epilogue of the Brownsleeve City Nights finale, played on 1 November 2024. <small>(Oral Histories: The Inevitables, 2024-11-02)</small>
 
 Weld and Marcel Martel first appeared on 8 November 2024. <small>(Oral Histories: The Inevitables, 2024-11-08)</small>
 

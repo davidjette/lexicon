@@ -1,6 +1,6 @@
 ---
 title: OSR3G
-description: The secret intelligence corps of Astral Command, the Office of Special Regiments for Intergalactic Intelligence and Information Gathering, called the grey cloaks.
+description: The secret intelligence corps of Astral Command, known as the grey cloaks, which holds Large Luigi in a high-security facility.
 type: organization
 kind: organizations
 tags:
@@ -28,11 +28,13 @@ fields:
   status: Active
 sources:
 - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
-- Oral Histories: The Inevitables, 2023-11-18
-- Oral Histories: The Inevitables, 2024-03-08
-- Oral Histories: The Inevitables, 2024-03-16
-- Oral Histories: The Inevitables, 2024-05-03
-- Oral Histories: The Inevitables, 2024-06-01
+- "Oral Histories: The Inevitables, 2023-11-18"
+- "Oral Histories: The Inevitables, 2024-03-08"
+- "Oral Histories: The Inevitables, 2024-03-09"
+- "Oral Histories: The Inevitables, 2024-03-16"
+- Desktop/D&D/Starfall TNG/sydiot_97396464.pdf
+- "Oral Histories: The Inevitables, 2024-05-03"
+- "Oral Histories: The Inevitables, 2024-06-01"
 ---
 
 **Secret intelligence corps · [Astral Command](/organizations/astral-command/) · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Active**
@@ -49,10 +51,10 @@ The corps is known as the grey cloaks. Its formal name, the Office of Special Re
 
 In November 2023 the crew of the SSJ Zanzibar learned that parts of [the Lexicon](/items/the-lexicon/), evolved into a hidden society of conflicting magical AIs, were conspiring to hide the reality of the Shrike from mortals, and that elements of Astral Command, the grey cloaks, might also be involved. <small>(Oral Histories: The Inevitables, 2023-11-18)</small>
 
-In the flashback to [the Beholder War](/history/the-beholder-war/), [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) served a secret program to recover [the Demoncore](/items/the-demoncore/). Any knowledge [Jim Smallberries](/people/captain-jim-smallberries/) gained of the Demoncore was probably erased from his mind by OSR3G, according to Dave. <small>(Oral Histories: The Inevitables, 2024-03-16)</small> Katrina's player called the level-10 character "Grey Cloak Catrina". <small>(Oral Histories: The Inevitables, 2024-05-03)</small>
+[Katrina McQuaid](/people/katrina-mcquaid/), a tabaxi horizon walker, is a grey cloak of OSR3G. In the flashback to [the Beholder War](/history/the-beholder-war/), she and [Horgus Simianis](/people/horgus-simianis/) served a secret program, used only once, and she chose recovering [the Demoncore](/items/the-demoncore/) over saving the civilians stranded with Jim Smallberries on Negroni Prime. <small>(Oral Histories: The Inevitables, 2024-03-09; 2024-03-16)</small> Any knowledge [Jim Smallberries](/people/captain-jim-smallberries/) gained of the Demoncore was probably erased from his mind by OSR3G, according to Dave. <small>(Oral Histories: The Inevitables, 2024-03-16)</small> Katrina's player called the level-10 character "Grey Cloak Catrina". <small>(Oral Histories: The Inevitables, 2024-05-03)</small>
 
 ## The Starsong Awakens
 
 Fifteen years after *Light of Xaryxis*, Large Luigi, known only as prisoner LL849, has spent those years in a high-security OSRIIIG facility awaiting trial for treason and crimes against the Sovereignty. The Sovereignty officially disavows all knowledge of his whereabouts. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
-The session notes of [Umwelt](/people/umwelt/), a devotee of the Red Eye, include the words "necis" and "secured by OSRIIG". <small>(character sheet)</small>
+The notes of [Umwelt](/people/umwelt/), a devotee of the Red Eye, include the words "necis" and "secured by OSRIIG". <small>(character sheet)</small>

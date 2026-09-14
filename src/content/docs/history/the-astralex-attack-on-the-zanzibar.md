@@ -25,14 +25,14 @@ fields:
   outcome: The crew saved most of the ship; the Zanzibar was left adrift with no Astralex
   consequence: The Zanzibar drifted helpless until Carlos Vega's third wish carried it to Sigil
 sources:
-- Oral Histories: The Inevitables, 2023-11-19
-- Oral Histories: The Inevitables, 2023-11-20
-- Oral Histories: The Inevitables, 2023-11-27
-- Oral Histories: The Inevitables, 2023-12-15
-- Oral Histories: The Inevitables, 2023-12-16
-- Oral Histories: The Inevitables, 2024-01-06
-- Oral Histories: The Inevitables, 2024-01-26
-- Oral Histories: The Inevitables, 2024-04-06
+- "Oral Histories: The Inevitables, 2023-11-19"
+- "Oral Histories: The Inevitables, 2023-11-20"
+- "Oral Histories: The Inevitables, 2023-11-27"
+- "Oral Histories: The Inevitables, 2023-12-15"
+- "Oral Histories: The Inevitables, 2023-12-16"
+- "Oral Histories: The Inevitables, 2024-01-06"
+- "Oral Histories: The Inevitables, 2024-01-26"
+- "Oral Histories: The Inevitables, 2024-04-06"
 ---
 
 **Shipboard AI attack · SSJ Zanzibar, Astral Sea · December 2023**

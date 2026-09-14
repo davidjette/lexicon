@@ -29,12 +29,13 @@ fields:
   outcome: Ensign Mordecai stopped the ceremorphosis of the infested crew; Caprica took command and saved the captain
   consequence: Carlos Vega came aboard the Zanzibar as a civilian, marked by the mind flayer
 sources:
-- Oral Histories: The Inevitables, 2022-10-23
-- Oral Histories: The Inevitables, 2022-11-16
-- Oral Histories: The Inevitables, 2022-11-19
-- Oral Histories: The Inevitables, 2022-11-26
-- Oral Histories: The Inevitables, 2022-11-27
-- Oral Histories: The Inevitables, 2022-12-14
+- "Oral Histories: The Inevitables, 2022-10-23"
+- "Oral Histories: The Inevitables, 2022-11-16"
+- "Oral Histories: The Inevitables, 2022-11-19"
+- "Oral Histories: The Inevitables, 2022-11-26"
+- "Oral Histories: The Inevitables, 2022-11-27"
+- "Oral Histories: The Inevitables, 2022-12-14"
+- "Oral Histories: The Inevitables, 2023-06-22"
 - Desktop/D&D/Starfall TNG/sydiot_81229398.pdf
 ---
 
@@ -42,7 +43,7 @@ sources:
 
 *Also known as:* the sewer team · triple open brain surgery · the Mordecai Method
 
-**The mind flayer on the rock** was a crisis in the first season of *[Light of Xaryxis](/history/light-of-xaryxis/)*, played over three sessions in November 2022, in which a mind flayer infested members of the crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) after they entered its lair. [Carlos Vega](/people/carlos-vega/) had suggested going down there. [Dr. Glup](/people/dr-glup/) overpowered the captain, [Caprica](/people/caprica/) took command and saved him, and Ensign [Mordecai](/people/mordecai/) stopped the ceremorphosis of the infested crew in surgery. Carlos came aboard the Zanzibar afterwards as a civilian, marked by the mind flayer.
+**The mind flayer on the rock** was a crisis in the first season (2022-2023) of *[Light of Xaryxis](/history/light-of-xaryxis/)*, played over three sessions in November 2022, in which a mind flayer infested members of the crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) after they entered its lair. [Carlos Vega](/people/carlos-vega/) had suggested going down there. [Dr. Glup](/people/dr-glup/) overpowered the captain, [Caprica](/people/caprica/) took command and saved him, and Ensign [Mordecai](/people/mordecai/) stopped the ceremorphosis of the infested crew in surgery. Carlos came aboard the Zanzibar afterwards as a civilian, marked by the mind flayer.
 
 ## Background
 
@@ -66,6 +67,8 @@ The mind flayer was "small fry but a good foreshadow", and it got the better of 
 
 <small>(Oral Histories: The Inevitables, 2022-11-26; sic)</small>
 
-She welcomed him aboard "as the guest of the Galactic Soveriegnty of Freespaces" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2022-11-26)</small>
+She welcomed him aboard "as the guest of the Galactic Soveriegnty of Freespaces" <small>(sic)</small>, a styling of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). <small>(Oral Histories: The Inevitables, 2022-11-26)</small>
 
 Caprica's player later recalled that the crew had found an abandoned nautiloid, and that Caprica "prob has ptsd from the last time she was on one". <small>(Oral Histories: The Inevitables, 2022-12-14)</small>
+
+A storyline the table called "the Mind Fucker Saga" had its denouement on 23 June 2023, at the start of the second season. Its connection to the mind flayer on the rock is unknown. <small>(Oral Histories: The Inevitables, 2023-06-22)</small>

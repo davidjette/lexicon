@@ -31,13 +31,13 @@ fields:
   status: Standing at the time of The Starsong Awakens
   includedLocations: A space dock; a casino
 sources:
-- Oral Histories: The Inevitables, 2022-09-29
-- Oral Histories: The Inevitables, 2022-10-24
-- Oral Histories: The Inevitables, 2022-10-25
-- Oral Histories: The Inevitables, 2022-10-26
-- Oral Histories: The Inevitables, 2022-10-27
-- Oral Histories: The Inevitables, 2022-11-05
-- Oral Histories: The Inevitables, 2024-09-25
+- "Oral Histories: The Inevitables, 2022-09-29"
+- "Oral Histories: The Inevitables, 2022-10-24"
+- "Oral Histories: The Inevitables, 2022-10-25"
+- "Oral Histories: The Inevitables, 2022-10-26"
+- "Oral Histories: The Inevitables, 2022-10-27"
+- "Oral Histories: The Inevitables, 2022-11-05"
+- "Oral Histories: The Inevitables, 2024-09-25"
 - src/content/docs/people/maverick.md
 ---
 
@@ -49,13 +49,13 @@ sources:
 
 ## Description
 
-Dave described Bral as "basically a pretty normal D&D town just floating in space with a bit space dock on oneside" <small>(sic)</small> and as "an old trade city of hundreds of far flung souls on an asteroid". <small>(Oral Histories: The Inevitables, 2022-10-24; 2022-10-26)</small> It is "sort of the last major settlement on the edge of the sovereignty". <small>(Oral Histories: The Inevitables, 2022-10-27)</small>
+Bral is an ordinary town floating in space on an asteroid, with a big space dock on one side. It is an old trade city, home to hundreds of far-flung souls. <small>(Oral Histories: The Inevitables, 2022-10-24; 2022-10-26)</small> It is the last major settlement on the edge of the Sovereignty. <small>(Oral Histories: The Inevitables, 2022-10-27)</small>
 
 ## History
 
 ### Light of Xaryxis
 
-In the published *Light of Xaryxis* adventure that the arc adapted, Sartell leads the party to Bral, where they meet Commodore Krux, whose ship is the *Second Wind*; in that version the party are not Astral Command officers. <small>(Oral Histories: The Inevitables, 2022-10-27)</small>
+In the published *Light of Xaryxis* adventure that the arc adapted, Sartell leads the party to Bral, where they meet Commodore Krux, whose ship is the *Second Wind*. <small>(Oral Histories: The Inevitables, 2022-10-27)</small>
 
 The Zanzibar's crew reached Bral once they had completed the adventure's first three chapters, and the ship put in at its space dock. <small>(Oral Histories: The Inevitables, 2022-10-25; 2022-10-27)</small> At Bral the crew split into two teams working separate storylines, and the city was their last port of call before the Zanzibar set off for Doomspace. <small>(Oral Histories: The Inevitables, 2022-11-05)</small>
 
@@ -65,7 +65,7 @@ The story of *The Starsong Awakens* returned to the Rock of Bral during its seco
 
 ### Dead Man's Hand
 
-In the Dead Man's Hand campaign, set in an earlier era, [Maverick](/people/maverick/) visited a casino on the Rock of Bral, where he was tipped off about a trick roulette table, ran into his uncle JG Wentworth, attempted to seduce a Vampirate, and was ambushed by a handsome man with a sleep potion. <small>(DM notes)</small>
+In the earlier era of the Dead Man's Hand campaign, [Maverick](/people/maverick/) visited a casino on the Rock of Bral. <small>(DM notes)</small>
 
 ## Places of interest
 

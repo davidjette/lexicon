@@ -1,11 +1,12 @@
 ---
 title: The Beholder War
-description: A surprise war of allied beholders against the Sovereignty, centred on Negroni Prime, in which the Astral Command Academy was sent to fight and the Demoncore was first used.
+description: The first Beholder War, a surprise beholder attack on the Sovereignty centred on Negroni Prime, where the Demoncore was first used.
 type: event
 kind: history
 tags:
 - The Beholder War
 - Beholder invasion
+- the Beholder Wars
 - beholders
 - Beholder Lords
 - Beholder great mother
@@ -22,7 +23,7 @@ tags:
 - Horgus Simianis
 - Barrias Ruby-Eye
 - Tillamook
-- 1.0
+- "1.0"
 - Light of Xaryxis
 - Starfall
 fields:
@@ -34,24 +35,24 @@ fields:
   outcome: The Beholder Lords were largely wiped out
   consequence: First use of the Demoncore; Jim's memories of it were modified
 sources:
-- Oral Histories: The Inevitables, 2023-04-04
-- Oral Histories: The Inevitables, 2023-08-11
-- Oral Histories: The Inevitables, 2023-08-18
-- Oral Histories: The Inevitables, 2023-08-25
-- Oral Histories: The Inevitables, 2024-02-24
-- Oral Histories: The Inevitables, 2024-03-08
-- Oral Histories: The Inevitables, 2024-03-09
-- Oral Histories: The Inevitables, 2024-03-15
-- Oral Histories: The Inevitables, 2024-03-16
-- Oral Histories: The Inevitables, 2024-04-06
-- Oral Histories: The Inevitables, 2024-06-02
+- "Oral Histories: The Inevitables, 2023-04-04"
+- "Oral Histories: The Inevitables, 2023-08-11"
+- "Oral Histories: The Inevitables, 2023-08-18"
+- "Oral Histories: The Inevitables, 2023-08-25"
+- "Oral Histories: The Inevitables, 2024-02-24"
+- "Oral Histories: The Inevitables, 2024-03-08"
+- "Oral Histories: The Inevitables, 2024-03-09"
+- "Oral Histories: The Inevitables, 2024-03-15"
+- "Oral Histories: The Inevitables, 2024-03-16"
+- "Oral Histories: The Inevitables, 2024-04-06"
+- "Oral Histories: The Inevitables, 2024-06-02"
 ---
 
 **War · [Negroni Prime](/places/negroni-prime/) · Jim Smallberries's first assignment**
 
-*Also known as:* the Beholder invasion
+*Also known as:* the Beholder invasion · the first Beholder War
 
-**The Beholder War** was a war in which [beholders](/species/beholders/) banded together to attack [the Sovereignty](/organizations/the-sovereignty-of-realms/), centred on the outpost planet [Negroni Prime](/places/negroni-prime/). After a beholder ship crashed into Neverwinter in a suicide attack, the whole [Astral Command](/organizations/astral-command/) Academy was sent to war. The Beholder Lords were largely wiped out. The war saw the first use of [the Demoncore](/items/the-demoncore/) weapons system. In the aftermath of the Black Hole Sun, the young [Jim Smallberries](/people/captain-jim-smallberries/), [Barrias Ruby-Eye](/people/barrias-ruby-eye/), the boy [Tillamook](/people/tillamook/) and a dozen civilians were stranded on Negroni Prime, where [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) left them to recover the Demoncore. Jim's memories were later modified. The war was played as a three-episode flashback in the third season of *[Light of Xaryxis](/history/light-of-xaryxis/)*.
+**The Beholder War** was a war in which [beholders](/species/beholders/) banded together to attack [the Sovereignty](/organizations/the-sovereignty-of-realms/), centred on the outpost planet [Negroni Prime](/places/negroni-prime/). After a beholder ship crashed into Neverwinter in a suicide attack, the whole [Astral Command](/organizations/astral-command/) Academy was sent to war. The Beholder Lords were largely wiped out. The war saw the first use of [the Demoncore](/items/the-demoncore/) weapons system. A second war in the present of the campaign was publicly another beholder invasion, carried out by cybrids. In the aftermath of the Black Hole Sun, the young [Jim Smallberries](/people/captain-jim-smallberries/), [Barrias Ruby-Eye](/people/barrias-ruby-eye/), the boy [Tillamook](/people/tillamook/) and a dozen civilians were stranded on Negroni Prime, where [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) left them to recover the Demoncore. Jim's memories were later modified. The war was played as a three-episode flashback in the third season of *[Light of Xaryxis](/history/light-of-xaryxis/)*.
 
 ## Background
 
@@ -83,6 +84,8 @@ Play then returned to the present timeline, leaving Jim and Barrias on Negroni P
 
 Jim's memories were changed with a potion of modify memory. In Dave's words, any knowledge Jim gained of the Demoncore "probably gets mind erased by OSR3G" ([OSR3G](/organizations/osr3g/)), and the divergence of Katrina and Horgus's story from Jim's "mirrors the divergence of astral command from its righteous path, leads to Jim’s disillusionment". <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
 
-Tillamook, whom Jim believed had died at Negroni Prime, survived, and later became the prophet of terrorists following the Beholder great mother. The party brought him to Limbo. <small>(Oral Histories: The Inevitables, 2024-03-08)</small> An episode of August 2023 ended with Barrias unsure whether a lich had actually cast the wish that saved Tillamook. Play that month also included a memorial for Negroni Prime, and a return to [the SSJ Zanzibar](/items/the-ssj-zanzibar/) "with the prophet and buckets". <small>(Oral Histories: The Inevitables, 2023-08-11; 2023-08-18; 2023-08-25)</small>
+Tillamook, whom Jim believed had died at Negroni Prime, survived, and later became the prophet of terrorists following the Beholder great mother. <small>(Oral Histories: The Inevitables, 2024-03-08)</small> In an episode of August 2023, run by JL, Barrias ended the session unsure whether a lich had actually cast the wish that saved Tillamook. The crew held a memorial for Negroni Prime, and took the prophet aboard [the SSJ Zanzibar](/items/the-ssj-zanzibar/). <small>(Oral Histories: The Inevitables, 2023-08-11; 2023-08-18; 2023-08-25)</small> The party later brought him to Limbo. <small>(Oral Histories: The Inevitables, 2024-03-08)</small>
 
-In the present of *Light of Xaryxis*, another beholder war was under way. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> An attack in April 2024 looked from the ground like the work of beholders, but the attackers were cybrids controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> After the end of *Light of Xaryxis* it was unknown whether Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) would reveal the truth about the beholder invasions. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+## Second Beholder War
+
+In the present of *Light of Xaryxis* a second war was under way, publicly another beholder invasion. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground its attacks looked like the work of beholders, but the party learned that the attackers were cybrids controlled by [Lexicon](/items/the-lexicon/) entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> After the end of *Light of Xaryxis* it was unknown whether Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) would reveal the truth about the beholder invasions. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>

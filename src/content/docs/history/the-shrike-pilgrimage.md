@@ -37,23 +37,23 @@ fields:
   outcome: The pilgrims reached the Time Tombs and saw a vision of the army of shrikes and people on the tree of pain
   consequence: The command crew cut themselves off from Astral Command; the pilgrimage led into the finale of Light of Xaryxis
 sources:
-- Oral Histories: The Inevitables, 2023-01-07
-- Oral Histories: The Inevitables, 2023-01-08
-- Oral Histories: The Inevitables, 2023-10-21
-- Oral Histories: The Inevitables, 2023-11-18
-- Oral Histories: The Inevitables, 2023-12-22
-- Oral Histories: The Inevitables, 2024-01-06
-- Oral Histories: The Inevitables, 2024-02-03
-- Oral Histories: The Inevitables, 2024-02-09
-- Oral Histories: The Inevitables, 2024-02-10
-- Oral Histories: The Inevitables, 2024-02-17
-- Oral Histories: The Inevitables, 2024-04-06
-- Oral Histories: The Inevitables, 2024-04-12
-- Oral Histories: The Inevitables, 2024-04-13
-- Oral Histories: The Inevitables, 2024-04-19
-- Oral Histories: The Inevitables, 2024-04-20
-- Oral Histories: The Inevitables, 2024-04-27
-- Oral Histories: The Inevitables, 2024-05-11
+- "Oral Histories: The Inevitables, 2023-01-07"
+- "Oral Histories: The Inevitables, 2023-01-08"
+- "Oral Histories: The Inevitables, 2023-10-21"
+- "Oral Histories: The Inevitables, 2023-11-18"
+- "Oral Histories: The Inevitables, 2023-12-22"
+- "Oral Histories: The Inevitables, 2024-01-06"
+- "Oral Histories: The Inevitables, 2024-02-03"
+- "Oral Histories: The Inevitables, 2024-02-09"
+- "Oral Histories: The Inevitables, 2024-02-10"
+- "Oral Histories: The Inevitables, 2024-02-17"
+- "Oral Histories: The Inevitables, 2024-04-06"
+- "Oral Histories: The Inevitables, 2024-04-12"
+- "Oral Histories: The Inevitables, 2024-04-13"
+- "Oral Histories: The Inevitables, 2024-04-19"
+- "Oral Histories: The Inevitables, 2024-04-20"
+- "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2024-05-11"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
 ---

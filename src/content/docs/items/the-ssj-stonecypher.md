@@ -23,16 +23,16 @@ fields:
   condition: Derelict, overrun by undead
   status: Unknown
 sources:
-- Oral Histories: The Inevitables, 2023-05-19
-- Oral Histories: The Inevitables, 2024-03-09
-- Oral Histories: The Inevitables, 2024-06-01
+- "Oral Histories: The Inevitables, 2023-05-19"
+- "Oral Histories: The Inevitables, 2024-03-09"
+- "Oral Histories: The Inevitables, 2024-06-01"
 ---
 
 **Starship · Derelict in Doomspace · Crew turned undead**
 
 *Also known as:* the Stonecypher
 
-**The SSJ Stonecypher** is a starship whose entire crew turned undead after a containment breach of its [Demoncore](/items/the-demoncore/), the secret weapons system of [Astral Command](/organizations/astral-command/). The crew of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) found it derelict in [Doomspace](/places/doomspace/) during [Light of Xaryxis](/history/light-of-xaryxis/), and in May 2023 went back aboard to recover a helm for the thri-kreen captain.
+**The SSJ Stonecypher** is a starship whose entire crew turned undead after a containment breach of its [Demoncore](/items/the-demoncore/), the secret weapons system of [Astral Command](/organizations/astral-command/). The crew of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) found it derelict in [Doomspace](/places/doomspace/) during [Light of Xaryxis](/history/light-of-xaryxis/), and later went back aboard to recover a helm for the thri-kreen captain. Like the Zanzibar, it bears a name from the Ages of the Infanta.
 
 ## History
 

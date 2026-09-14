@@ -25,15 +25,16 @@ fields:
   church: The Children of Hyperion
   setting: Starfall
 sources:
-- Oral Histories: The Inevitables, 2022-07-24
-- Oral Histories: The Inevitables, 2022-10-10
-- Oral Histories: The Inevitables, 2022-11-26
-- Oral Histories: The Inevitables, 2024-06-01
-- Oral Histories: The Inevitables, 2024-06-02
-- Oral Histories: The Inevitables, 2024-06-09
-- Oral Histories: The Inevitables, 2024-06-10
-- Oral Histories: The Inevitables, 2024-11-09
-- Oral Histories: The Inevitables, 2024-05-31
+- "Oral Histories: The Inevitables, 2022-07-24"
+- "Oral Histories: The Inevitables, 2022-10-10"
+- "Oral Histories: The Inevitables, 2022-11-26"
+- "Oral Histories: The Inevitables, 2024-06-01"
+- "Oral Histories: The Inevitables, 2024-06-02"
+- "Oral Histories: The Inevitables, 2024-06-09"
+- "Oral Histories: The Inevitables, 2024-06-10"
+- "Oral Histories: The Inevitables, 2024-11-09"
+- "Oral Histories: The Inevitables, 2024-11-10"
+- "Oral Histories: The Inevitables, 2024-05-31"
 - Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
 - sources/dave/2026-09-14-starfall-necis.md
 ---
@@ -48,7 +49,7 @@ sources:
 
 ## Nature
 
-Hyperion is an extraplanar entity with a church, and it is benevolent. <small>(Oral Histories: The Inevitables, 2022-10-10)</small> It is a powerful alien consciousness from the realm of dreams; in the Eberron cosmology it comes from the dream realm of horrors, and was escaping that abyss. <small>(Oral Histories: The Inevitables, 2022-07-24, 2024-06-09)</small>
+Hyperion is an extraplanar entity with a benevolent church. <small>(Oral Histories: The Inevitables, 2022-10-10)</small> It is a powerful alien consciousness from the realm of dreams; in the Eberron cosmology it comes from the dream realm of horrors, and was escaping that abyss. <small>(Oral Histories: The Inevitables, 2022-07-24, 2024-06-09)</small>
 
 Its hosts can meld minds with each other when they are close, which lets them update the nodes of the network. <small>(Oral Histories: The Inevitables, 2024-06-09)</small> Dave has suggested that a Hyperion who spends a long time away from others may form closer relationships, which are assimilated into the whole when it melds with another, so that "that specific love gets turned to a more general love for all". <small>(Oral Histories: The Inevitables, 2024-06-10)</small>
 
@@ -72,7 +73,7 @@ Sandy "would carry the memory of what happened on Necis to the Consul and at the
 
 Dave foresaw that in a Sovereignty after the Lexicon "the Hyperion entity would have new relevance". <small>(Oral Histories: The Inevitables, 2024-06-01)</small> By *[The Starsong Awakens](/history/the-starsong-awakens/)*, fifteen years later, Astral Command has virtually replaced the Lexicon with Hyperion. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> See [the Starweaver Act](/lore/the-starweaver-act/).
 
-Barrias's player wanted a way to bring Sandy over to the party's side, and Paytra's player warned that bringing her close to other Sovereignty ships would be dangerous, because she would connect to other Hyperion. <small>(Oral Histories: The Inevitables, 2024-11-09)</small>
+In *The Starsong Awakens* Sandy, now a captain, stands with Astral Command against the party. <small>(Oral Histories: The Inevitables, 2024-11-09, 2024-11-10)</small> Barrias's player wanted a way to bring her over to the party's side, and Paytra's player warned that bringing her close to other Sovereignty ships would be dangerous, because she would connect to other Hyperion. <small>(Oral Histories: The Inevitables, 2024-11-09)</small>
 
 ## Name
 

@@ -24,8 +24,8 @@ fields:
   condition: Unknown
   status: Unknown
 sources:
-- Oral Histories: The Inevitables, 2024-12-13
-- Oral Histories: The Inevitables, 2025-05-23
+- "Oral Histories: The Inevitables, 2024-12-13"
+- "Oral Histories: The Inevitables, 2025-05-23"
 ---
 
 **Ship · The Starsong Awakens · Armed with the Eye of Ao Cannon**

@@ -29,10 +29,10 @@ fields:
   status: Crystal sphere shattered; the Eye of Doom in place of its sun
   includedLocations: The Eye of Doom; Fyreen; Malas; the outer shard field; the derelict SSJ Stonecypher
 sources:
-- Oral Histories: The Inevitables, 2022-11-04
-- Oral Histories: The Inevitables, 2022-11-05
-- Oral Histories: The Inevitables, 2023-05-19
-- Oral Histories: The Inevitables, 2024-03-09
+- "Oral Histories: The Inevitables, 2022-11-04"
+- "Oral Histories: The Inevitables, 2022-11-05"
+- "Oral Histories: The Inevitables, 2023-05-19"
+- "Oral Histories: The Inevitables, 2024-03-09"
 ---
 
 **Star system · *Light of Xaryxis* · Crystal sphere shattered**
@@ -49,9 +49,9 @@ What happened next is speculation. Some say the gods appeared before the leaders
 
 After their stay at Bral the crew of the Zanzibar set off for Doomspace. <small>(Oral Histories: The Inevitables, 2022-11-05)</small>
 
-In Doomspace lies the SSJ Stonecypher, a derelict full of undead. The crew had already been aboard once; according to JL, who ran that boarding, they met a hodgepodge of undead, among them vampiric mist, ogre zombies and zombies, and did not find everything on the ship. Before leaving Doomspace they went back to recover a helm for a thri-kreen captain, whose people would otherwise not come with the Zanzibar. [Hyperion Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) was given an armored spacesuit for the assault. <small>(Oral Histories: The Inevitables, 2023-05-19)</small>
+In Doomspace lies the SSJ Stonecypher, a derelict full of undead. The crew had already been aboard once, meeting a hodgepodge of undead, among them vampiric mist, ogre zombies and zombies, and had not found everything on the ship. Before leaving Doomspace they went back to recover a helm for a thri-kreen captain, whose people would otherwise not come with the Zanzibar. [Hyperion Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) was given an armored spacesuit for the assault. <small>(Oral Histories: The Inevitables, 2023-05-19)</small>
 
-The ship's plight began with [the Demoncore](/items/the-demoncore/). That weapons system, first used in [the Beholder War](/history/the-beholder-war/), later went wrong on the Stonecypher, "where a containment breach led to the entire crew turning undead". <small>(Oral Histories: The Inevitables, 2024-03-09)</small>
+The ship's plight began with [the Demoncore](/items/the-demoncore/). That weapons system, first used in [the Beholder War](/history/the-beholder-war/), later went wrong on the Stonecypher, where a containment breach turned the entire crew undead. <small>(Oral Histories: The Inevitables, 2024-03-09)</small>
 
 ## Places of interest
 

@@ -29,9 +29,9 @@ fields:
   status: Unknown
   includedLocations: A colonial waystation; the northern continent; Northspire; the Loose Rooster
 sources:
-- Oral Histories: The Inevitables, 2022-10-18
-- Oral Histories: The Inevitables, 2022-10-19
-- Oral Histories: The Inevitables, 2022-10-22
+- "Oral Histories: The Inevitables, 2022-10-18"
+- "Oral Histories: The Inevitables, 2022-10-19"
+- "Oral Histories: The Inevitables, 2022-10-22"
 ---
 
 **Planet · Trafalmadorespace · *Light of Xaryxis* · Unsettled**
@@ -46,7 +46,7 @@ Tralfamadore III is an unsettled world. It has a colonial waystation and landing
 
 ### Northspire
 
-Northspire is a small seaside village with docks, where a space galleon rests in the water, and a tavern across the village from the docks, the Loose Rooster. The village has no technology; Dave called it "totally old school". <small>(Oral Histories: The Inevitables, 2022-10-18)</small>
+Northspire is a small seaside village with docks, where a space galleon rests in the water, and a tavern across the village from the docks, the Loose Rooster. The village has no technology and is entirely old-fashioned. <small>(Oral Histories: The Inevitables, 2022-10-18)</small>
 
 ## History
 

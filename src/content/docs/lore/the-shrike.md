@@ -25,20 +25,20 @@ fields:
   appearances: Light of Xaryxis; The Starsong Awakens
   status: Unknown
 sources:
-- Oral Histories: The Inevitables, 2023-01-08
-- Oral Histories: The Inevitables, 2023-11-18
-- Oral Histories: The Inevitables, 2023-12-22
-- Oral Histories: The Inevitables, 2024-01-06
-- Oral Histories: The Inevitables, 2024-02-03
-- Oral Histories: The Inevitables, 2024-02-17
-- Oral Histories: The Inevitables, 2024-04-06
-- Oral Histories: The Inevitables, 2024-04-20
-- Oral Histories: The Inevitables, 2024-04-27
-- Oral Histories: The Inevitables, 2024-05-31
-- Oral Histories: The Inevitables, 2024-06-02
-- Oral Histories: The Inevitables, 2024-12-22
-- Oral Histories: The Inevitables, 2025-04-04
-- Oral Histories: The Inevitables, 2025-04-05
+- "Oral Histories: The Inevitables, 2023-01-08"
+- "Oral Histories: The Inevitables, 2023-11-18"
+- "Oral Histories: The Inevitables, 2023-12-22"
+- "Oral Histories: The Inevitables, 2024-01-06"
+- "Oral Histories: The Inevitables, 2024-02-03"
+- "Oral Histories: The Inevitables, 2024-02-17"
+- "Oral Histories: The Inevitables, 2024-04-06"
+- "Oral Histories: The Inevitables, 2024-04-20"
+- "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2024-05-31"
+- "Oral Histories: The Inevitables, 2024-06-02"
+- "Oral Histories: The Inevitables, 2024-12-22"
+- "Oral Histories: The Inevitables, 2025-04-04"
+- "Oral Histories: The Inevitables, 2025-04-05"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
 ---
@@ -57,7 +57,7 @@ The Shrike first appeared in a horror episode, where it was "very very hard to d
 
 ### The conspiracy
 
-By the later part of *Light of Xaryxis* the Lexicon had evolved into a huge hidden society of conflicting magical AIs with their own agendas. Some of them were conspiring to hide the reality of the Shrike from mortals, and elements of [Astral Command](/organizations/astral-command/), the grey cloaks of [OSR3G](/organizations/osr3g/), may also have been involved. The crew set course to expose it at Necis. <small>(Oral Histories: The Inevitables, 2023-11-18)</small>
+By the later part of *Light of Xaryxis* the Lexicon had evolved into a huge hidden society of conflicting magical AIs with their own agendas. Some of them were conspiring to hide the reality of the Shrike from mortals, and elements of [Astral Command](/organizations/astral-command/), the grey cloaks of [OSR3G](/organizations/osr3g/), may also have been involved. The crew set course to expose it at Necis. <small>(Oral Histories: The Inevitables, 2023-11-18)</small> Attackers who looked from the ground like beholders proved to be cybrids, controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small>
 
 ### The pilgrimage
 

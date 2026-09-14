@@ -24,8 +24,8 @@ fields:
   setting: Starfall
   status: Unresolved during Light of Xaryxis
 sources:
-- Oral Histories: The Inevitables, 2022-10-18
-- Oral Histories: The Inevitables, 2023-01-23
+- "Oral Histories: The Inevitables, 2022-10-18"
+- "Oral Histories: The Inevitables, 2023-01-23"
 ---
 
 **Subspace interference · Starfall · Unresolved during Light of Xaryxis**
@@ -36,12 +36,10 @@ sources:
 
 ## Effects
 
-Dark Spectrum Interference behaves as subspace interference, but spreads as a plague, and it causes widespread problems for travel between the stars. A ship that can sustain itself, as the Zanzibar can, becomes an oasis in the stars. <small>(Oral Histories: The Inevitables, 2022-10-18)</small>
+Dark Spectrum Interference is subspace interference that spreads as a plague, and it causes widespread problems for travel between the stars. A ship that can sustain itself, as the Zanzibar can, becomes an oasis in the stars. <small>(Oral Histories: The Inevitables, 2022-10-18)</small> How the interference began is unknown.
 
 Dave introduced the Shroud in *[Light of Xaryxis](/history/light-of-xaryxis/)* to impose a fog of war on the setting and to require investigation in person. <small>(Oral Histories: The Inevitables, 2022-10-18)</small>
 
 ## Research
 
 The head of the Order of Scribes, and chief instructor of its wizards, is Admiral Andromeda Starweaver, one of the most respected and influential officers in Astral Command. Her recent work, and the business of many officers of the Order, is overcoming Dark Spectrum Interference so that interstellar communication and teleportation become possible. <small>(Oral Histories: The Inevitables, 2023-01-23)</small> [Dr. Nilpferd](/people/dr-nilpferd/), Chief Arcanist of the Zanzibar, is a wizard of the Order. <small>(Oral Histories: The Inevitables, 2023-01-22, 2023-01-23)</small>
-
-How the interference began is unknown.

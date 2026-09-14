@@ -30,9 +30,9 @@ fields:
   status: Struck from orbit during the Shrike pilgrimage
   includedLocations: Unknown
 sources:
-- Oral Histories: The Inevitables, 2023-12-23
-- Oral Histories: The Inevitables, 2024-02-10
-- Oral Histories: The Inevitables, 2025-01-12
+- "Oral Histories: The Inevitables, 2023-12-23"
+- "Oral Histories: The Inevitables, 2024-02-10"
+- "Oral Histories: The Inevitables, 2025-01-12"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
 ---
@@ -49,7 +49,7 @@ Lightfoot City and the sea of grass are one region of Necis; the others named ar
 
 ## History
 
-The pilgrims crossed the sea of grass over several days aboard a druidic windwheel, the *Edmund Fitzgerald*, fighting a semi-hydra and resisting a poisonous pollen on the way. Dave summed up the crossing as an "epic journey across the sea of grass, and a foreboding and tragic turn for the orbital strike on Lightfoot". <small>(Oral Histories: The Inevitables, 2024-02-10)</small> What became of the city after the strike is unknown.
+The pilgrims crossed the sea of grass over several days aboard a druidic windwheel, the *Edmund Fitzgerald*, fighting a semi-hydra and resisting a poisonous pollen on the way. The crossing was an epic journey, and the orbital strike on Lightfoot gave it a foreboding and tragic turn as the pilgrims approached their goal. <small>(Oral Histories: The Inevitables, 2024-02-10)</small> What became of the city after the strike is unknown.
 
 ## Name
 

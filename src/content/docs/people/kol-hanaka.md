@@ -29,23 +29,24 @@ fields:
   status: Rebuilt as a robot
 sources:
 - Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
-- Oral Histories: The Inevitables, 2024-06-19
-- Oral Histories: The Inevitables, 2024-07-01
-- Oral Histories: The Inevitables, 2024-07-11
-- Oral Histories: The Inevitables, 2024-08-16
-- Oral Histories: The Inevitables, 2024-09-07
-- Oral Histories: The Inevitables, 2024-11-02
-- Oral Histories: The Inevitables, 2024-11-10
-- Oral Histories: The Inevitables, 2024-11-17
-- Oral Histories: The Inevitables, 2025-05-23
+- "Oral Histories: The Inevitables, 2024-06-19"
+- "Oral Histories: The Inevitables, 2024-07-01"
+- "Oral Histories: The Inevitables, 2024-07-11"
+- "Oral Histories: The Inevitables, 2024-08-16"
+- "Oral Histories: The Inevitables, 2024-09-07"
+- "Oral Histories: The Inevitables, 2024-11-02"
+- "Oral Histories: The Inevitables, 2024-11-10"
+- "Oral Histories: The Inevitables, 2024-11-17"
+- "Oral Histories: The Inevitables, 2025-05-23"
 - CANON.md 5aj
+- sources/dave/2026-09-14-starfall-necis.md
 ---
 
 **Githzerai · Monk 6 (Way of the Kensei) · Agent, Bureau of Compliance · Rebuilt as a robot**
 
 *Also known as:* Cole Hanaka · Cole
 
-**Kol Hanaka** is a githzerai monk of the Way of the Kensei and an agent of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/), played by Dave. With his partner [Paytra](/people/paytra/) he worked as a rookie Blade Runner in [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril, searching for the source of illegal artificial intelligence, and followed the trail of the Red Eye through the storyline of [Brownsleeve City Nights](/history/brownsleeve-city-nights/). After its finale, in which Paytra died, he and Paytra were rebuilt as robots, and the two later brought the body of [Caprica](/people/caprica/) to [the Terrasque](/items/the-terrasque/).
+**Kol Hanaka** is a githzerai monk of the Way of the Kensei and an agent of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/), played by Dave. With his partner [Paytra](/people/paytra/) he worked as a rookie Blade Runner in [Brownsleeve City](/places/brownsleeve-city/) on Selune, the moon of Toril, searching for the source of illegal artificial intelligence, and followed the trail of the Red Eye through the storyline of [Brownsleeve City Nights](/history/brownsleeve-city-nights/). After its finale, in which Paytra died, he and Paytra were rebuilt as robots, and the two later brought the body of [Caprica](/people/caprica/) to [the Terrasque](/items/the-terrasque/).
 
 ## Background
 
@@ -55,7 +56,7 @@ Kol's background is that of a soldier, and his faith is Compliance. His skin is 
 
 ### Brownsleeve City
 
-Kol and Paytra were two rookie Blade Runners of the Bureau of Compliance, assigned to Brownsleeve City, the sunny beachside resort community on the moon of Toril, to search for the source of illegal AI. Bureau agents of their rank were issued a Club of Compliance, a Bureau badge and a standard-issue flying car. Their story ran alongside that of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Se7en](/people/se7en/), and the two storylines were to meet. <small>(Oral Histories: The Inevitables, 2024-07-01)</small>
+Kol and Paytra were two rookie Blade Runners of the Bureau of Compliance, assigned to Brownsleeve City, the sunny beachside resort community on Selune, the moon of Toril, to search for the source of illegal AI. Bureau agents of their rank were issued a Club of Compliance, a Bureau badge and a standard-issue flying car. Their story ran alongside that of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Se7en](/people/se7en/), and the two storylines were to meet. <small>(Oral Histories: The Inevitables, 2024-07-01)</small>
 
 The first episode, played on 11 July 2024, opened with a drink among new partners. Kol rejected the drink. <small>(Oral Histories: The Inevitables, 2024-07-11)</small>
 
@@ -72,7 +73,7 @@ Kol's sheet carries notes on the investigation. <small>(character sheet)</small>
 - plans, from a student of the BCCC, to build a wet fusion bomb, and the arrest of the chief engineer;
 - a visit to the stadium, where the agents got a children's history of Faerûn.
 
-To save the mayor, the agents were told: "There are 4 sites on Selune holy to the children of red eye. Make the pilgrimage, follow his righteous path, to save your mayor’s life." <small>(Oral Histories: The Inevitables, 2024-08-16)</small> That session ended the first act.
+The holy sites belong to the followers of Barrias Ruby-Eye under his nom de guerre, Red Eye. <small>(sources/dave/2026-09-14-starfall-necis.md)</small> To save the mayor, the agents were told: "There are 4 sites on Selune holy to the children of red eye. Make the pilgrimage, follow his righteous path, to save your mayor’s life." <small>(Oral Histories: The Inevitables, 2024-08-16)</small> That session ended the first act.
 
 In September 2024 the party shut down a plant on suspicion alone. Afterwards Kol's wound began to grow "crusty metallic scales". <small>(Oral Histories: The Inevitables, 2024-09-07)</small>
 
@@ -80,7 +81,7 @@ Paytra died in the finale of Brownsleeve City Nights, played on 1 November 2024.
 
 ### Rebuilt
 
-After the finale Kol and Paytra were rebuilt as robots. <small>(Oral Histories: The Inevitables, 2024-11-17)</small> Dave imagined the rebuilt Kol as a spine with legs and a skull, one arm and half a metallic ribcage, with no abdomen, and said Kol had committed hara-kiri at the moment he no longer needed his organs. The two agents' mission was a success: they had found the Red Eye. <small>(Oral Histories: The Inevitables, 2024-11-10)</small> Red Eye is the nom de guerre of Barrias Ruby-Eye among [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/). <small>(CANON.md 5aj)</small>
+After the finale Kol and Paytra were rebuilt as robots. <small>(Oral Histories: The Inevitables, 2024-11-17)</small> Dave imagined the rebuilt Kol as a spine with legs and a skull, one arm and half a metallic ribcage, with no abdomen, and said Kol had committed hara-kiri at the moment he no longer needed his organs. The two agents' mission was a success: they had found the Red Eye. <small>(Oral Histories: The Inevitables, 2024-11-10)</small> Red Eye is the nom de guerre of [Barrias Ruby-Eye](/people/barrias-ruby-eye/), the name the robot resistance, [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), uses for him. <small>(sources/dave/2026-09-14-starfall-necis.md)</small>
 
 By May 2025, according to Nico, Kol and Paytra had brought Caprica's body back to the Terrasque and met up with [Marcel Martel](/people/marcel-martel/) and Weld ([Umwelt](/people/umwelt/)). <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
 

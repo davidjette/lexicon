@@ -28,17 +28,17 @@ fields:
   power: The pilot's spell slots; a lifejammer uses a victim's soul
   setting: Starfall
 sources:
-- Oral Histories: The Inevitables, 2021-10-23
-- Oral Histories: The Inevitables, 2022-05-01
-- Oral Histories: The Inevitables, 2022-10-09
-- Oral Histories: The Inevitables, 2022-10-10
-- Oral Histories: The Inevitables, 2022-10-11
-- Oral Histories: The Inevitables, 2022-10-19
-- Oral Histories: The Inevitables, 2022-10-23
-- Oral Histories: The Inevitables, 2023-04-08
-- Oral Histories: The Inevitables, 2023-06-23
-- Oral Histories: The Inevitables, 2024-01-06
-- Oral Histories: The Inevitables, 2024-06-03
+- "Oral Histories: The Inevitables, 2021-10-23"
+- "Oral Histories: The Inevitables, 2022-05-01"
+- "Oral Histories: The Inevitables, 2022-10-09"
+- "Oral Histories: The Inevitables, 2022-10-10"
+- "Oral Histories: The Inevitables, 2022-10-11"
+- "Oral Histories: The Inevitables, 2022-10-19"
+- "Oral Histories: The Inevitables, 2022-10-23"
+- "Oral Histories: The Inevitables, 2023-04-08"
+- "Oral Histories: The Inevitables, 2023-06-23"
+- "Oral Histories: The Inevitables, 2024-01-06"
+- "Oral Histories: The Inevitables, 2024-06-03"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 - sources/dave/2026-09-14-starfall-necis.md
 ---
@@ -71,13 +71,13 @@ An Orcish invocation calls on a helm in the name of [Cypher](/people/stonecypher
 
 ## Space and the Phlogiston
 
-Every system is a "space", such as Realmspace, Krynnspace or Greyspace; the word refers to a solar system. <small>(Oral Histories: The Inevitables, 2022-10-09)</small> The Starfall tagline asked "What adventures await between the crystal spheres?" <small>(Dave, 2026-09-14)</small>
+Every system is a "space", such as Realmspace, Krynnspace or Greyspace; the word refers to a solar system. Realmspace, Greyspace and Krynnspace are the core systems of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). <small>(Oral Histories: The Inevitables, 2022-10-09)</small> The Starfall tagline asked "What adventures await between the crystal spheres?" <small>(Dave, 2026-09-14)</small>
 
 The Phlogiston, "the phlo", is part of Starfall's cosmology, brought back from older Spelljammer material. <small>(Oral Histories: The Inevitables, 2022-10-11, 2023-04-08)</small> After [the Astralex](/lore/the-astralex/) attack the Zanzibar was "adrift in the phlo". <small>(Oral Histories: The Inevitables, 2024-01-06)</small> Dave's epitaph for Caprica reads "her song rings through the phlo forever". <small>(Oral Histories: The Inevitables, 2024-06-03)</small>
 
 ## In the Ages of the Infanta
 
-In the [Ages of the Infanta](/lore/temple-holdings-llc/) the epic spells **Spheresail**, used to make spelljammer helms, and **Breach Crystal Sphere**, used to travel through the interstellar medium, were known, and the orcs of that age studied the nature of the Crystal Spheres. <small>(Oral Histories: The Inevitables, 2021-10-23)</small>
+In the [Ages of the Infanta](/lore/temple-holdings-llc/) the epic spells **Spheresail**, used to make spelljammer helms, and **Breach Crystal Sphere**, used to travel through the interstellar medium, were known, and the orcs of that age studied the nature of the Crystal Spheres. <small>(Oral Histories: The Inevitables, 2021-10-23)</small> Starfall is set some five thousand years after the Ages, after the great melting of the 6700s. <small>(Oral Histories: The Inevitables, 2022-10-09, 2022-10-10; other figures given at the table: 2,000 years after the Ages for Realmspace as home world, a thousand-year history for Astral Command, and ten thousand years for the Lexicon's own age)</small>
 
 ## Ship combat
 

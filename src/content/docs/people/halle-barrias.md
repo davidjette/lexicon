@@ -23,11 +23,11 @@ fields:
   status: Unknown
 sources:
 - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-- Oral Histories: The Inevitables, 2024-01-21
-- Oral Histories: The Inevitables, 2024-06-01
-- Oral Histories: The Inevitables, 2024-06-11
-- Oral Histories: The Inevitables, 2024-06-12
-- Oral Histories: The Inevitables, 2024-07-11
+- "Oral Histories: The Inevitables, 2024-01-21"
+- "Oral Histories: The Inevitables, 2024-06-01"
+- "Oral Histories: The Inevitables, 2024-06-11"
+- "Oral Histories: The Inevitables, 2024-06-12"
+- "Oral Histories: The Inevitables, 2024-07-11"
 - CANON.md 5ai (Oral Histories)
 ---
 

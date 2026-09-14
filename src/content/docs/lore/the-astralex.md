@@ -25,17 +25,17 @@ fields:
   setting: Starfall
   status: The Zanzibar lost its Astralex after the attack
 sources:
-- Oral Histories: The Inevitables, 2022-11-26
-- Oral Histories: The Inevitables, 2022-11-27
-- Oral Histories: The Inevitables, 2023-01-23
-- Oral Histories: The Inevitables, 2023-04-29
-- Oral Histories: The Inevitables, 2023-11-19
-- Oral Histories: The Inevitables, 2023-11-20
-- Oral Histories: The Inevitables, 2023-12-15
-- Oral Histories: The Inevitables, 2023-12-16
-- Oral Histories: The Inevitables, 2024-01-26
-- Oral Histories: The Inevitables, 2024-04-06
-- Oral Histories: The Inevitables, 2025-02-06
+- "Oral Histories: The Inevitables, 2022-11-26"
+- "Oral Histories: The Inevitables, 2022-11-27"
+- "Oral Histories: The Inevitables, 2023-01-23"
+- "Oral Histories: The Inevitables, 2023-04-29"
+- "Oral Histories: The Inevitables, 2023-11-19"
+- "Oral Histories: The Inevitables, 2023-11-20"
+- "Oral Histories: The Inevitables, 2023-12-15"
+- "Oral Histories: The Inevitables, 2023-12-16"
+- "Oral Histories: The Inevitables, 2024-01-26"
+- "Oral Histories: The Inevitables, 2024-04-06"
+- "Oral Histories: The Inevitables, 2025-02-06"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 ---
 

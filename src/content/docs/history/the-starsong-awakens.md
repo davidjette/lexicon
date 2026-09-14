@@ -1,0 +1,162 @@
+---
+title: The Starsong Awakens
+description: The second arc of Starfall, run by JL from 2024 to 2025 and set fifteen years after Light of Xaryxis, during the Sovereignty's purge of artificial intelligence.
+type: event
+kind: history
+tags:
+- The Starsong Awakens
+- Starsong
+- 'Spelljammer: The Motion Picture'
+- Starfall
+- Starfall TNG
+- Barrias Ruby-Eye
+- Red-Eye
+- the Red Eye
+- Se7en
+- Nine
+- Caprica
+- Starweaver Act
+- Bureau of Compliance
+- Brownsleeve City
+- Brownsleeves City Nights
+- Children of the Red Eye
+- the Sphinx Tomb
+- Necis
+- the Company
+- Spelljammer
+icon: fa-rocket
+fields:
+  type: Campaign arc
+  dm: JL
+  date: 2024-06-18 to 2025
+  setting: Fifteen years after Light of Xaryxis
+  location: Brownsleeve City on the moon of Toril, the Rock of Bral, Picon, Necis and the Sphinx Tomb
+  ships: The Terrasque, the stolen Istus Cruiser, the Pussyfoot
+  outcome: The climax of Starfall, at Necis
+sources:
+- sources/dave/2026-09-14-starfall-necis.md
+- CANON.md 5aj
+- CANON.md 5ai (Oral Histories)
+- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
+- Desktop/D&D/Starfall TNG/sydiot_86151296.pdf
+- Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
+- Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
+- Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
+- 'Oral Histories: The Inevitables, 2024-01-21'
+- 'Oral Histories: The Inevitables, 2024-06-01'
+- 'Oral Histories: The Inevitables, 2024-06-02'
+- 'Oral Histories: The Inevitables, 2024-06-08'
+- 'Oral Histories: The Inevitables, 2024-06-11'
+- 'Oral Histories: The Inevitables, 2024-06-12'
+- 'Oral Histories: The Inevitables, 2024-06-18'
+- 'Oral Histories: The Inevitables, 2024-06-25'
+- 'Oral Histories: The Inevitables, 2024-07-01'
+- 'Oral Histories: The Inevitables, 2024-07-11'
+- 'Oral Histories: The Inevitables, 2024-07-12'
+- 'Oral Histories: The Inevitables, 2024-08-09'
+- 'Oral Histories: The Inevitables, 2024-08-16'
+- 'Oral Histories: The Inevitables, 2024-08-17'
+- 'Oral Histories: The Inevitables, 2024-08-24'
+- 'Oral Histories: The Inevitables, 2024-09-07'
+- 'Oral Histories: The Inevitables, 2024-09-14'
+- 'Oral Histories: The Inevitables, 2024-09-25'
+- 'Oral Histories: The Inevitables, 2024-10-11'
+- 'Oral Histories: The Inevitables, 2024-10-25'
+- 'Oral Histories: The Inevitables, 2024-10-26'
+- 'Oral Histories: The Inevitables, 2024-11-02'
+- 'Oral Histories: The Inevitables, 2024-11-07'
+- 'Oral Histories: The Inevitables, 2024-11-08'
+- 'Oral Histories: The Inevitables, 2024-11-09'
+- 'Oral Histories: The Inevitables, 2024-11-10'
+- 'Oral Histories: The Inevitables, 2024-11-17'
+- 'Oral Histories: The Inevitables, 2024-11-22'
+- 'Oral Histories: The Inevitables, 2024-12-07'
+- 'Oral Histories: The Inevitables, 2024-12-13'
+- 'Oral Histories: The Inevitables, 2025-01-03'
+- 'Oral Histories: The Inevitables, 2025-01-18'
+- 'Oral Histories: The Inevitables, 2025-01-25'
+- 'Oral Histories: The Inevitables, 2025-02-28'
+- 'Oral Histories: The Inevitables, 2025-04-04'
+- 'Oral Histories: The Inevitables, 2025-04-06'
+- 'Oral Histories: The Inevitables, 2025-04-07'
+- 'Oral Histories: The Inevitables, 2025-05-18'
+- 'Oral Histories: The Inevitables, 2025-05-23'
+published: '2026-09-14'
+---
+
+**Campaign arc · [Starfall](/lore/starfall-the-next-generation/) · DM JL · 2024–2025 · Fifteen years after *Light of Xaryxis***
+
+*Also known as:* Spelljammer: The Motion Picture (The Starsong Awakens) · Starsong
+
+***The Starsong Awakens*** is the second arc of [Starfall](/lore/starfall-the-next-generation/), run by JL from June 2024 to 2025 and set fifteen years after [Light of Xaryxis](/history/light-of-xaryxis/), after the [Starweaver Act](/lore/the-starweaver-act/) outlawed artificial intelligence in the Sovereignty. [Caprica](/people/caprica/) is long dead, and [Barrias Ruby-Eye](/people/barrias-ruby-eye/)'s sister brings a dire warning. The arc ran as two storylines that later joined: the returning crew of the SSJ Zanzibar, Barrias and [Se7en](/people/se7en/), and rookie agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) hunting illegal AI in [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril. The robot resistance knew Barrias by the nom de guerre Red-Eye. The search for Caprica led back to [Necis](/places/necis/) and through the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/), and the climax of Starfall took place at Necis. <small>(Oral Histories: The Inevitables, 2024-06-01; 2024-06-02; 2024-07-01; Dave, 2026-09-14)</small>
+
+## Background
+
+JL proposed the sequel on 1 June 2024, the day after the finale of *Light of Xaryxis*, under the working title *Spelljammer: The Motion Picture (The Starsong Awakens)*. It is set fifteen years later; Caprica is long dead, and a call to action comes from Barrias's sister with a dire warning. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+
+A year after the Battle of Tannhauser Gate the Starweaver Act, named for Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), was passed in the Sovereignty, outlawing all artificial intelligence, warforged and autognomes included. It led to a devastating and violent purge of robotic creatures and a thriving illicit market in robots. Astral Command has virtually replaced the Lexicon with [Hyperion](/lore/hyperion/), and the Company is most likely pursuing replacements, possibly illegal, at dark sites outside the Sovereignty. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Dave called the Act a predictable outcome of the Lexicon turning on humanity. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+
+The Sovereignty is in a cold war with the Vodoni Empire, the monsters of the second-edition adventure *Under the Dark Fist*, and wants to make them the scapegoat for the awakened Starsong. The Company, knowing that would disrupt trade, wants to resurrect Caprica to find the true source of [the Starsong](/lore/the-starsong/). <small>(Oral Histories: The Inevitables, 2024-06-12)</small> Barrias's sister, [Halle Barrias](/people/halle-barrias/), works for [the Company](/organizations/nimbus-corp/) and gives the crew a Company dossier. <small>(Oral Histories: The Inevitables, 2024-01-21; 2024-06-11)</small>
+
+### The old crew
+
+JL set out where the crew of *Light of Xaryxis* are fifteen years on. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+
+- **[Large Luigi](/people/large-luigi/)** is prisoner LL849, held in a high-security OSR3G facility awaiting trial for treason and crimes against the Sovereignty, which disavows all knowledge of his whereabouts.
+- **[Dr. Nilpferd](/people/dr-nilpferd/)** died peacefully in his sleep after a long illness, leaving a daughter who is his biological clone, Schnuptfabak, called Schnuppy.
+- **[Mordecai](/people/mordecai/)** is a doctor and the chief science officer of the SSJ Excelsior, married to a half-orc, with three children; his adopted daughter Vannie is a cadet at the Astral Command Academy on Toril.
+- **[Buttsack](/people/buttsack/)** played professional sportsball for the Khorvaire Kestrals until he was paralysed from the waist down, then retreated to an isolated githzerai temple in the Outer Planes with the mysterious bottle he carries.
+- **[Jim Smallberries](/people/captain-jim-smallberries/)** lives as Charles Largeberries on a small mining asteroid, in his early sixties, usually drunk, and wanted for dereliction of duty and destruction of Astral Command property.
+- **[Katrina McQuaid](/people/katrina-mcquaid/)** is memorialised in the name of the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center. <small>(Oral Histories: The Inevitables, 2024-06-11)</small>
+- **[Carlos Vega](/people/carlos-vega/)**, bound as a djinn at the end of *Light of Xaryxis*, spent the fifteen years in that bottle and is back in play in the arc. <small>(Oral Histories: The Inevitables, 2024-11-22; 2025-01-18)</small>
+
+## Format
+
+At session zero on 18 June 2024 the table discussed the fifteen years and JL's new ships and magic items. <small>(Oral Histories: The Inevitables, 2024-06-18)</small> JL ran two campaigns at once. In one, Barrias and Se7en returned at level 12, each with a feat learned in the fifteen years. In the other, level-6 characters were rookie agents of the Bureau on the moon of Toril, assigned to the sunny beachside resort of Brownsleeve City, each starting with a Club of Compliance, an uncommon magic item, a Bureau badge and a share of one standard-issue flying car. The two campaigns were to sync up. <small>(Oral Histories: The Inevitables, 2024-07-01)</small> The Bureau agents were Dave's [Kol Hanaka](/people/kol-hanaka/), Nico's [Paytra](/people/paytra/) and JL's [Spoon](/people/spoon/), a Bureau of Compliance Deputy. <small>(Oral Histories: The Inevitables, 2024-06-25; character sheets)</small> JL kept a campaign site with pages for a new playable race, the Company dossier, new ships, new magic items, the Red Eye Manifesto, new robots and new allies. <small>(Oral Histories: The Inevitables, 2024-06-08; 2024-06-18; 2024-07-11; 2024-09-14; 2024-11-17; 2025-01-03)</small>
+
+## Act I
+
+The first episode, on 11 July 2024, was two scenes over drinks: one with the new partners, in which Kol refused the drink, and one with old friends and family, in which Halle accepted it. <small>(Oral Histories: The Inevitables, 2024-07-11)</small> In battle Barrias's helmet flips up and his suit grows into something like a flying robot tank, and Dave, as a player, took this to be why the Bureau suspects the Red Eye is a construct. <small>(Oral Histories: The Inevitables, 2024-07-12)</small>
+
+On 9 August the returning crew slaughtered the diners and solved riddles, and JL named the next episode "Brownsleeve City: Tales from the Dark Side of the Moon". <small>(Oral Histories: The Inevitables, 2024-08-09)</small> Act I ended on 16 August with a quest on the moon:
+
+> There are 4 sites on Selune holy to the children of red eye. Make the pilgrimage, follow his righteous path, to save your mayor’s life.
+>
+> <small>— JL, during play. (Oral Histories: The Inevitables, 2024-08-16)</small>
+
+## Act II
+
+Act II opened in a prison, and Se7en and Barrias each earned 4,600 experience. <small>(Oral Histories: The Inevitables, 2024-08-17; 2024-08-24)</small> On 6 September the party shut down a plant on suspicion alone, with potentially world-changing shifts in the balance of power, and Kol's wound began to grow crusty metallic scales. <small>(Oral Histories: The Inevitables, 2024-09-07)</small> JL posted the Red Eye Manifesto. <small>(Oral Histories: The Inevitables, 2024-09-14)</small> The story then returned to [the Rock of Bral](/places/the-rock-of-bral/), where, by the Company dossier, the old crew's nautiloid had been found. <small>(Oral Histories: The Inevitables, 2024-09-25)</small> A session in October played both storylines side by side, with a number cipher that reads WE ARE PRISONERS HERE. <small>(Oral Histories: The Inevitables, 2024-10-25; 2024-10-26)</small>
+
+### Brownsleeve City Nights
+
+*Main article: [Brownsleeve City Nights](/history/brownsleeve-city-nights/)*
+
+The Bureau storyline, Brownsleeve City Nights, ended on 1 November 2024. Paytra was killed in the line of duty, falling to the surface of the moon, after Dave's character tried to crash a truck to throw off a robot, the inevitable, so that she could fly to safety. The epilogue showed an Istus Cruiser. <small>(Oral Histories: The Inevitables, 2024-11-02)</small> Kol and Paytra returned as robots. In Dave's picture of him Kol is a spine with legs and a skull, one arm and half a metal ribcage, and JL's verdict was that their mission was a success: they had found the Red Eye. JL then made four robot backgrounds for the two of them. <small>(Oral Histories: The Inevitables, 2024-11-10; 2024-11-17)</small>
+
+### The Red Eye
+
+JL required the next new characters to be level-3 devotees of the Red Eye, to crew [the Istus Cruiser](/items/the-istus-cruiser/) seen in the epilogue. <small>(Oral Histories: The Inevitables, 2024-10-26; 2024-11-02)</small> Dave's [Umwelt](/people/umwelt/), called Weld, is a warforged farmer and liberated ranch-hand unit who joined the resistance. Nico's [Marcel Martel](/people/marcel-martel/) is a high elf, once a famous Waterdeep musician and actor, working with the resistance aboard the stolen Istus Cruiser; in Nico's backstory his wife Robin Martel, a synth AI politician, was taken from their home and dismantled by the Bureau after the Starweaver Act. <small>(Oral Histories: The Inevitables, 2024-11-02; 2024-11-07; 2024-11-08)</small> The resistance is [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), and Red-Eye is its name for Barrias. <small>(Dave, 2026-09-14)</small>
+
+[Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/), now a captain, stood with the Hyperion-run Astral Command against the party; Dave, as a player, hoped to find a way to bring her over. <small>(Oral Histories: The Inevitables, 2024-11-09; 2024-11-10)</small> Barrias gained a new weapon in December, and on 13 December the crew used the Eye of Ao Cannon aboard [the Terrasque](/items/the-terrasque/), which can bring life to the ship or radiant death to a target. <small>(Oral Histories: The Inevitables, 2024-12-07; 2024-12-13)</small>
+
+## The endgame
+
+On 24 January 2025 Barrias and Carlos went back to Picon to continue the search for Caprica, and Barrias had a vision of her. <small>(Oral Histories: The Inevitables, 2025-01-18; 2025-01-25)</small> A short session on 28 February returned the crew to Necis. <small>(Oral Histories: The Inevitables, 2025-02-28)</small>
+
+On 4 April the crew reached the Sphinx Tomb, whose doors open onto other times; the session brought in the Shrike and Katrina. <small>(Oral Histories: The Inevitables, 2025-04-04)</small> JL told the table they were near the resolution of a very long, epoch-spanning narrative, and that they could go through every door in the tomb. <small>(Oral Histories: The Inevitables, 2025-04-07)</small> Dave, as a player, read the arc as centred on [Nine](/people/nine/), who set out to fix everything that went wrong after Tannhauser Gate and whose father and brother eventually bring him home; to him the search for Caprica was a red herring, and wishes had upset everything. <small>(Oral Histories: The Inevitables, 2025-04-06)</small>
+
+JL called the session of 23 May the start of the endgame. <small>(Oral Histories: The Inevitables, 2025-05-18)</small> By then, in Nico's account, Barrias and Se7en had been going through the time doors of the Sphinx Tomb with Nine while the Pussyfoot waited outside, and Paytra and Kol had brought Caprica's body back to the Terrasque and met Marcel and Weld. Through the doors the crew had gone to the five Zanzibars, as Dave recalled it, and seen the final fight on the Zanzibar, as Nico recalled it. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
+
+The climax of Starfall took place at Necis, at the end of *The Starsong Awakens*. <small>(Dave, 2026-09-14)</small>
+
+## Principal characters
+
+- **[Barrias Ruby-Eye](/people/barrias-ruby-eye/)**, the Red-Eye, played by Dave.
+- **[Se7en](/people/se7en/)** and **[Carlos Vega](/people/carlos-vega/)**, of the old crew, played by Nico.
+- **[Kol Hanaka](/people/kol-hanaka/)**, Bureau agent, and **[Umwelt](/people/umwelt/)**, devotee of the Red Eye, played by Dave.
+- **[Paytra](/people/paytra/)**, Bureau agent, and **[Marcel Martel](/people/marcel-martel/)**, devotee of the Red Eye, played by Nico.
+- **[Spoon](/people/spoon/)**, Bureau of Compliance Deputy, played by JL.
+- **[Halle Barrias](/people/halle-barrias/)**, **[Nine](/people/nine/)** and **[Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/)**, figures of the arc.
+
+**Related:** [Starfall](/lore/starfall-the-next-generation/) · [Light of Xaryxis](/history/light-of-xaryxis/) · [The Starweaver Act](/lore/the-starweaver-act/) · [The Bureau of Compliance](/organizations/the-bureau-of-compliance/) · [The Children of the Red Eye](/organizations/the-children-of-the-red-eye/) · [Brownsleeve City](/places/brownsleeve-city/) · [The Sphinx Tomb](/places/the-sphinx-tomb/) · [Necis](/places/necis/) · [The Starsong](/lore/the-starsong/) · [The Shrike](/lore/the-shrike/)
