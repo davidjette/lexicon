@@ -1,21 +1,25 @@
 ---
 title: Henry Heinrick
 description: Chief Diplomat, sole survivor of Esther Crona's purge of the Council of 13, Mayor of Sharn - and killed by her on the balcony.
+tags:
+  - Henry Heinrick
+  - Heinrick
+  - Henry Heighrick
+  - Mayor of Sharn
+  - Council of 13
+  - Imperial Council
+  - Ministry of Diplomacy
+  - Velvet Table Society
+  - Sharn
+  - Hillary Heinrick
+  - Chelsea Heinrick
+  - Propaganda
+image:
+  src: /images/site/henry-heinrick-1.webp
+  alt: The Heinrick Family
+  caption: The Heinrick Family
 type: person
 kind: people
-tags:
-- Henry Heinrick
-- Heinrick
-- Henry Heighrick
-- Mayor of Sharn
-- Council of 13
-- Imperial Council
-- Ministry of Diplomacy
-- Velvet Table Society
-- Sharn
-- Hillary Heinrick
-- Chelsea Heinrick
-- Propaganda
 icon: fa-bullhorn
 fields:
   rpgAlignment: Unknown
@@ -32,21 +36,17 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/esther-crona.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
-- worldanvil/CANON.md
+  - sources/site/key-figures.txt
+  - sources/site/esther-crona.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: henry-heinrick-person
   uuid: 711dc409-d74a-4a1c-8117-562959b8b755
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
-image:
-  src: /images/site/henry-heinrick-1.webp
-  alt: The Heinrick Family
-  caption: The Heinrick Family
 ---
 
 **Human · Nobleman / Chief Diplomat · Council of 13 · Mayor of Sharn · Dead**
@@ -133,3 +133,5 @@ Henry Heinrick is dead and the office he held is gone with him. Within a day of 
 **Items:** None recovered. <small>Everything he owned was in the Veil Building when the rebellion took it.</small>
 
 **The Broadcast:** his one recorded instrument of power — the city-wide emergency alert. Used once, for the lockdown, hours before he died. The rebellion answered it on the same screens with the EBT-7.
+
+![Henry Heinrick.png](/images/uploads/henry-heinrick-mu0wfz1d.webp)
