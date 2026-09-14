@@ -1,21 +1,23 @@
 ---
 title: The Mournland
 description: 'The dead kingdom of Cyre: poisonous fog, dead that rise where they fall, the Glass Plateau, Mt. Silicon, and the Ruby Nova.'
+tags:
+  - The Mournland
+  - Mournlands
+  - Cyre
+  - Glass Plateau
+  - Mt. Silicon
+  - Locke Pierce
+  - The Hundreds
+  - Ruby Nova
+  - The Last Mourning
+  - Mistborn illness
+  - Cyrean Red Pomegranate
+  - Project E.D.E.N.
+image:
+  src: /images/uploads/the-mournlands-mu0vbyer.webp
 type: geography
 kind: places
-tags:
-- The Mournland
-- Mournlands
-- Cyre
-- Glass Plateau
-- Mt. Silicon
-- Locke Pierce
-- The Hundreds
-- Ruby Nova
-- The Last Mourning
-- Mistborn illness
-- Cyrean Red Pomegranate
-- Project E.D.E.N.
 icon: fa-cloud
 fields:
   type: Blighted region
@@ -30,10 +32,10 @@ fields:
   owner: The Hundreds hold the Glass Plateau
   ruler: Locke Pierce, over the Hundreds; no ruler of the region is recorded
 sources:
-- sources/site/korth-episode-summaries.txt
-- sources/site/pose-mission-notes.txt
-- C:/dev/sharn-campaign/biotec.md
-- C:/dev/sharn-campaign/npcs.md
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/pose-mission-notes.txt
+  - C:/dev/sharn-campaign/biotec.md
+  - C:/dev/sharn-campaign/npcs.md
 published: '2026-09-10'
 wa:
   slug: the-mournland-location
