@@ -117,3 +117,5 @@ Grady Marsh was last recorded safe at Zilspar Farm 02. Zilspar Farm has since be
 **Hobbies & Pets:** drinking, and telling the story.
 
 **Related:** [Calcifer](/people/calcifer/) · [Esther Crona](/people/esther-crona/) · [Uriel Qualanthri](/people/uriel-qualanthri/) · [Richard Blaze](/people/richard-blaze/) · [Jessica Grimpledink](/people/jessica-grimpledink/)
+
+![Grady Marsh and Donna.png](/images/uploads/grady-marsh-and-donna-mu0x4j2q.webp)
