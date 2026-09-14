@@ -1,28 +1,30 @@
 ---
-title: Lenore
+title: Lenore Bishop
 description: The human artificer who woke handcuffed in the Fort Maximillien infirmary, picked her cuffs, and led the survivors down the trash pit.
+tags:
+  - Lenore
+  - Fort Maximillien
+  - Waterdeep
+  - Purple Dragons
+  - Surgeon Alaire
+  - Tiffany House
+  - Ard Farkle's
+  - BattleBeast
+  - Maverick
+  - Shadowhigh
+  - Infantaverse
+  - artificer
+  - Johnny
+  - Lexi
+  - RUIN
+  - Dead Man's Hand
+  - Heyu
+  - Nicollo
+  - Griddy Champagne
+image:
+  src: /images/uploads/lenore-bishop-mu0l5spx.webp
 type: person
 kind: people
-tags:
-- Lenore
-- Fort Maximillien
-- Waterdeep
-- Purple Dragons
-- Surgeon Alaire
-- Tiffany House
-- Ard Farkle's
-- BattleBeast
-- Maverick
-- Shadowhigh
-- Infantaverse
-- artificer
-- Johnny
-- Lexi
-- RUIN
-- Dead Man's Hand
-- Heyu
-- Nicollo
-- Griddy Champagne
 icon: fa-bed
 fields:
   rpgAlignment: Unknown
@@ -39,10 +41,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/fort-max/fort-maximillien.md
-- Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
-- Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
-- Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+  - C:/dev/fort-max/fort-maximillien.md
+  - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
+  - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+  - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 published: '2026-09-10'
 wa:
   slug: lenore-person
