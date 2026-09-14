@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 7 — Shadow of the Past
 description: Sister Nora names Project E.D.E.N., a BioTec block-chip comes out of her skull, and asking after Varyn Crona brings the Iron Veil.
+tags:
+  - Sharn Ep 7
+  - Shadow of the Past
+  - Sister Nora
+  - Renn Tal
+  - Project EDEN
+  - Eternal Nightfall
+  - Varyn Crona
+  - Forge of Binding
+  - Lorian
+  - Grady Marsh
+  - Iron Veil
+  - DJ Rust
+image:
+  src: /images/uploads/sharn-ep-7-shadow-of-the-past-mu0rfwls.webp
 sidebar:
   order: 207
 type: report
 kind: sessions
-tags:
-- Sharn Ep 7
-- Shadow of the Past
-- Sister Nora
-- Renn Tal
-- Project EDEN
-- Eternal Nightfall
-- Varyn Crona
-- Forge of Binding
-- Lorian
-- Grady Marsh
-- Iron Veil
-- DJ Rust
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-7-E28094-shadow-of-the-past-report
