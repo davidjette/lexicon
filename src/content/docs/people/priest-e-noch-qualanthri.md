@@ -1,21 +1,23 @@
 ---
 title: Priest E'noch Qualanthri
 description: The stranger who worked forbidden Vol rites at the Forge of Binding to make Varyn Crona the Eternal Guardian, and whom Varyn's echo called brother.
+tags:
+  - E'noch Qualanthri
+  - Enoch Qualanthri
+  - E'Noch
+  - Enoch
+  - Qualanthri
+  - Forge of Binding
+  - Eternal Guardian
+  - Varyn Crona
+  - Vayrn Crona
+  - Renn Tal
+  - Dhakaani
+  - Vol rites
+image:
+  src: /images/uploads/priest-e-noch-qualanthri-mu0mgto5.webp
 type: person
 kind: people
-tags:
-- E'noch Qualanthri
-- Enoch Qualanthri
-- E'Noch
-- Enoch
-- Qualanthri
-- Forge of Binding
-- Eternal Guardian
-- Varyn Crona
-- Vayrn Crona
-- Renn Tal
-- Dhakaani
-- Vol rites
 icon: fa-hands-praying
 fields:
   rpgAlignment: Unknown — no record
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/rebel-factions.txt
-- sources/site/esther-crona.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/esther-crona.txt
 published: '2026-09-10'
 wa:
   slug: priest-e26230393Bnoch-qualanthri-person
