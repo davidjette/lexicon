@@ -64,3 +64,5 @@ Now back in their apartment, the trio have only a few hours to rest before their
 Renn Tal was burned as an archivist and became the party's scholar for the rest of both arcs. The library killing put the trio's faces into an Iron Veil manhunt, and the name "DJ Rust" sent them to Breakers Pit with a fight already booked.
 
 > She quietly warned them the library wasn't safe and told them that if they needed to speak further, they should find DJ Rust at Breakers Pit.
+
+![Dario and Iron Veil soldiers.png](/images/uploads/dario-and-iron-veil-soldiers-mu0zd9rk.webp)
