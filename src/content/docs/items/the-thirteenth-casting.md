@@ -1,21 +1,23 @@
 ---
 title: The Thirteenth Casting
 description: The last great casting, never consecrated, never delivered - rung once by King Corn's daughter with a rock, and broken by Dario with KNELL.
+tags:
+  - Thirteenth Casting
+  - Thirteenth Bell
+  - Hell's Bells
+  - Fantanya Nyel
+  - Korranberg Foundry
+  - Bladeworks
+  - Sedda Deeptempura
+  - Hetta
+  - KNELL
+  - Dario Argentino
+  - Eric the Cleric
+  - Egg Roll
+image:
+  src: /images/uploads/the-thirteenth-casting-mu0tao2s.webp
 type: item
 kind: items
-tags:
-- Thirteenth Casting
-- Thirteenth Bell
-- Hell's Bells
-- Fantanya Nyel
-- Korranberg Foundry
-- Bladeworks
-- Sedda Deeptempura
-- Hetta
-- KNELL
-- Dario Argentino
-- Eric the Cleric
-- Egg Roll
 icon: fa-bell-slash
 fields:
   itemType: Unique Artifact — great casting, consecration grade
@@ -31,12 +33,12 @@ fields:
   destructionDate: Korth Ep 11 — broken by Sir Dario Argentino with KNELL
   condition: Destroyed. The molds were destroyed by Valtrex.
 sources:
-- worldanvil/sources/site/korth-episode-summaries.txt
-- session-2026-08-21-recap.md
-- session-2026-08-07-recap.md
-- handouts/caius-foundry-manifest.md
-- worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
-- current-state.md
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - session-2026-08-21-recap.md
+  - session-2026-08-07-recap.md
+  - handouts/caius-foundry-manifest.md
+  - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
+  - current-state.md
 published: '2026-09-10'
 wa:
   slug: the-thirteenth-casting-item
