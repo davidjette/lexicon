@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 12 — The Price of Bread
 description: Zilspar Farm is destroyed and Zero-One taken; Dario breaks two more bells and Eric sells Sharn's airspace to Locke Pierce for bread.
+tags:
+  - Korth Ep 12
+  - The Price of Bread
+  - Zilspar Farm
+  - Zero-One
+  - Izaak
+  - Horn of Mourning
+  - Bofric
+  - Himmie Joffa
+  - Locke Pierce
+  - Noot Gunray
+  - Project EDEN
+  - Eye of Corruption
+image:
+  src: /images/uploads/korth-ep-12-the-price-of-bread-mu0sr9g6.webp
 sidebar:
   order: 312
 type: report
 kind: sessions
-tags:
-- Korth Ep 12
-- The Price of Bread
-- Zilspar Farm
-- Zero-One
-- Izaak
-- Horn of Mourning
-- Bofric
-- Himmie Joffa
-- Locke Pierce
-- Noot Gunray
-- Project EDEN
-- Eye of Corruption
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-12-E28094-the-price-of-bread-report
