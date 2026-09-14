@@ -52,6 +52,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
+- sources/dave/2026-09-14-heyu-and-feng.md
 - CANON.md 5w, 5ab, 5ac
 published: '2026-09-10'
 wa:
@@ -93,7 +94,7 @@ gallery:
 
 **Campaign · Five hundred years after the Ages of the Infanta · Sigil, Saltmarsh, Waterdeep, Undermountain · Running**
 
-**Dead Man's Hand** is the present-day campaign of the [Infantaverse](/lore/the-infantaverse/), run by Dave and set five hundred years after [the End of the Infanta](/history/arc-viii-end-of-the-infanta/), in the world the [Oblivia](/lore/the-oblivia/) left behind. Strangers who lived wholly separate lives, each murdered by the same handsome man with a glowing sword, wake in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with [fatemarks](/lore/fatemarks/), and are drawn into the race for the scattered cards of [the Deck of Many Things](/items/the-deck-of-many-things/).
+**Dead Man's Hand** is the present-day campaign of the [Infantaverse](/lore/the-infantaverse/), run by Dave and set five hundred years after [the End of the Infanta](/history/arc-viii-end-of-the-infanta/), in the world the [Oblivia](/lore/the-oblivia/) left behind. Strangers who lived wholly separate lives, all but one of them murdered by the same handsome man with a glowing sword, wake in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with [fatemarks](/lore/fatemarks/), and are drawn into the race for the scattered cards of [the Deck of Many Things](/items/the-deck-of-many-things/).
 
 ## The company
 
@@ -108,13 +109,13 @@ gallery:
 
 ## How it begins
 
-Each of the company's last memories is of being murdered by a handsome man with a glowing sword. That man is [Jeremiah](/people/jeremiah/), a fallen seraph, who also killed the half-orc ghost [Feng Milosh](/people/feng-milosh/), and Feng had one of the cards. The party came to know that the demon [Shemeska](/people/shemeska/), owner of the casino [Fortune's Wheel](/places/fortunes-wheel/), hired Jeremiah to hunt them down and find the cards. How each of them was close to a card, none of them yet knows.
+All of the company but Heyu last remember being murdered by a handsome man with a glowing sword. Heyu came to Sigil alive, sent by the will of Cypher to recover a card from Feng Milosh's corpse for his daughter. That man is [Jeremiah](/people/jeremiah/), a fallen seraph, who also killed the half-orc ghost [Feng Milosh](/people/feng-milosh/), and Feng had one of the cards. The party came to know that the demon [Shemeska](/people/shemeska/), owner of the casino [Fortune's Wheel](/places/fortunes-wheel/), hired Jeremiah to hunt them down and find the cards. How each of them was close to a card, none of them yet knows.
 
 They were dumped in the Mortuary by the corpse-collectors of [Pharod](/people/pharod/), whose racket disposes of murder victims across the city. The Dustman bookkeeper Dhall told them: *"You arrived as we all do, a tumble down a long chute and then a heavy thud."*
 
 ## Sigil
 
-Outside the Mortuary lay [the Hive Ward](/places/the-hive-ward/), in the grip of a plague called [Cageblight](/lore/cageblight/). Heyu's spellbook was stolen by thugs of [Rotten William](/people/rotten-william/) and recovered. The party were drawn into the war between Rotten William and the thief-lord [Sharegrave](/people/sharegrave/) of [the Catwalk](/places/the-catwalk/), rescued Sharegrave's man [Prez](/people/prez/), and were trapped into working off their debts: BattleBeast won a prize fight at [the Grindhouse](/places/the-grindhouse/) against a ringer staked by Shemeska. The tattoo artist Fell looked at their marks and said: *"It's not one of mine. It's a Fatemark."*
+Outside the Mortuary lay [the Hive Ward](/places/the-hive-ward/), in the grip of a plague called [Cageblight](/lore/cageblight/). Heyu's spellbook was stolen by thugs of [Rotten William](/people/rotten-william/) and recovered, and in the Mortuary the party took the **FATES** card from Feng's boot. The party were drawn into the war between Rotten William and the thief-lord [Sharegrave](/people/sharegrave/) of [the Catwalk](/places/the-catwalk/), rescued Sharegrave's man [Prez](/people/prez/), and were trapped into working off their debts: BattleBeast won a prize fight at [the Grindhouse](/places/the-grindhouse/) against a ringer staked by Shemeska. The tattoo artist Fell looked at their marks and said: *"It's not one of mine. It's a Fatemark."*
 
 With the Bleaker healer [Diana Rhea](/people/diana-rhea/) and [the Bleak Cabal](/organizations/the-bleak-cabal/), they followed Cageblight to its source in the Spillway, killed Rotten William and the plague demon, closed the portal in the drain and cured the plague. The Bleak Cabal became their faction ally.
 

@@ -40,6 +40,7 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - sources/dave/2026-09-14-dead-mans-hand-names.md
   - CANON.md 5ac
+  - sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
@@ -55,7 +56,7 @@ A "Red tiefling reimagining of Barry Bonds": a huge, muscled barbarian, shirtles
 
 Barold's daughter abhors violence. She wanted him to quit, and gave him 100 copper to pay off his contract with his manager. The manager was a hag, who refused the payment and offered him an alternative deal for power instead. Barold refused, and the hag struck him down. His charge is to obtain his daughter's forgiveness. <small>(DM notes)</small>
 
-The party know that Shemeska hired [Jeremiah](/people/jeremiah/) to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and each of them.
+The party know that Shemeska hired [Jeremiah](/people/jeremiah/) to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and all of the party but Heyu.
 
 ## Sigil
 

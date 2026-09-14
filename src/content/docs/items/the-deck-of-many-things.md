@@ -32,6 +32,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 - CANON.md 5ab
 - CANON.md 5ac
+- sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
@@ -63,7 +64,7 @@ Shemeska is seeking the Deck, and had Jeremiah search for the cards and kill to 
 
 ## Fates
 
-Fates belonged to Feng Milosh. Of Feng, aboard the Blackfish: "He was crew here." "Feng won it from Gooch in a game of pink Monty." It "brought him awful good luck, it did, until the end..." <small>(DM notes. Gooch is Graspin Gooch.)</small> Feng's daughter [Keisha Milosh](/people/keisha-milosh/) wanted nothing to do with it:
+Fates belonged to Feng Milosh. His body lay in the Mortuary, and the party took the card from his boot. <small>(Dave)</small> Of Feng, aboard the Blackfish: "He was crew here." "Feng won it from Gooch in a game of pink Monty." It "brought him awful good luck, it did, until the end..." <small>(DM notes. Gooch is Graspin Gooch.)</small> Feng's daughter [Keisha Milosh](/people/keisha-milosh/) wanted nothing to do with it:
 
 > I believe in the will of the Fates. And thats why I dont want anything to do with a magic playing card that lets you predict the future.
 

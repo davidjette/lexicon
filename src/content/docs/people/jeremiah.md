@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-description: A fallen angel with a glowing sword, hired by Shemeska to hunt the party and find the cards; he killed Feng Milosh and each of the party.
+description: A fallen angel with a glowing sword, hired by Shemeska to hunt the party and find the cards; he killed Feng Milosh and all of the party but Heyu.
 tags:
   - Jeremiah
   - Dead Man's Hand
@@ -41,6 +41,7 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - CANON.md 5w
   - CANON.md 5ac
+  - sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
@@ -48,15 +49,15 @@ published: '2026-09-14'
 
 **Also known as:** the handsome man with the glowing sword; the fallen seraph
 
-Jeremiah is a fallen angel hired by [Shemeska](/people/shemeska/), the demon who owns the casino [Fortune's Wheel](/places/fortunes-wheel/) in [Sigil](/places/sigil/), to hunt down the party and find the cards of [the Deck of Many Things](/items/the-deck-of-many-things/). He is the handsome man with the glowing sword who killed [Feng Milosh](/people/feng-milosh/), who had a card, and who killed each member of the party before they woke in [the Mortuary](/places/the-mortuary/) tattooed with [fatemarks](/lore/fatemarks/). In [Saltmarsh](/places/saltmarsh/) he betrayed his former comrade, the seraph [Aqueus](/people/aqueus/), in a ritual of desecration, and the party killed him aboard the *Blackfish*; he did not stay dead. In [Waterdeep](/places/waterdeep/) he and a goon, disguised as waiters, staged a heist at [Tiffany House](/places/tiffany-house/) to steal the RUIN card. He fought [Griddy Champagne](/people/griddy-champagne/) there, the party resisted him and stole the card themselves, and the drivers he had hired later gave up both him and Shemeska.
+Jeremiah is a fallen angel hired by [Shemeska](/people/shemeska/), the demon who owns the casino [Fortune's Wheel](/places/fortunes-wheel/) in [Sigil](/places/sigil/), to hunt down the party and find the cards of [the Deck of Many Things](/items/the-deck-of-many-things/). He is the handsome man with the glowing sword who killed [Feng Milosh](/people/feng-milosh/), who had a card, and who killed every member of the party but Heyu before they woke in [the Mortuary](/places/the-mortuary/) tattooed with [fatemarks](/lore/fatemarks/). In [Saltmarsh](/places/saltmarsh/) he betrayed his former comrade, the seraph [Aqueus](/people/aqueus/), in a ritual of desecration, and the party killed him aboard the *Blackfish*; he did not stay dead. In [Waterdeep](/places/waterdeep/) he and a goon, disguised as waiters, staged a heist at [Tiffany House](/places/tiffany-house/) to steal the RUIN card. He fought [Griddy Champagne](/people/griddy-champagne/) there, the party resisted him and stole the card themselves, and the drivers he had hired later gave up both him and Shemeska.
 
 ## Description
 
-Jeremiah is a medium celestial who fights with a greatsword, the glowing sword. <small>(DM notes)</small> The last memory each member of the party carried into the Mortuary was of being murdered by a handsome man with a glowing sword. The drivers he hired in Waterdeep described him as a tall blond man with bad scars.
+Jeremiah is a medium celestial who fights with a greatsword, the glowing sword. <small>(DM notes)</small> The last memory the murdered members of the party carried into the Mortuary was of being murdered by a handsome man with a glowing sword. The drivers he hired in Waterdeep described him as a tall blond man with bad scars.
 
 ## Sigil
 
-Shemeska is seeking the Deck, and had Jeremiah search for its cards and kill to find them. <small>(DM notes)</small> Among those he killed were Feng Milosh, who had a card, and each member of the party.
+Shemeska is seeking the Deck, and had Jeremiah search for its cards and kill to find them. <small>(DM notes)</small> Among those he killed were Feng Milosh, who had a card, and every member of the party but Heyu.
 
 [Pharod](/people/pharod/), who holds the lock on the city's corpse-collecting racket, took payment from Jeremiah to dispose of bodies with no questions asked, and Jeremiah is now threatening him. <small>(DM notes)</small> In [the Hive Ward](/places/the-hive-ward/) the party saw Pharod together with the handsome man.
 

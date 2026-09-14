@@ -45,6 +45,7 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - sources/dave/2026-09-14-dead-mans-hand-names.md
   - CANON.md 5ac
+  - sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
@@ -62,7 +63,7 @@ A protocol droid-style robot with a polished humanoid frame, wearing Italian Ren
 
 He was built by a clandestine engineer who modifies protocol droids into diplomacy and spycraft tutors for young princes. Phillip Klaxon sent him to his son Darius as a tutor for leadership and cunning; Klaxon wants Darius to take the Panther mask. The shipment carrying him was waylaid on the way to Darius and attacked by a handsome man with a glowing sword. His charge was to contact Darius. <small>(DM notes)</small> Mach V has an innate idea of which direction his owner's delivery address lies in, and can follow it directly. <small>(DM notes)</small>
 
-The party know that Shemeska hired Jeremiah to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and each of them.
+The party know that Shemeska hired Jeremiah to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and all of the party but Heyu.
 
 ## Sigil
 

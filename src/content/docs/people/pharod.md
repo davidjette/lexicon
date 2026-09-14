@@ -35,6 +35,7 @@ sources:
   - canon/dmh-notebook/NAMES.md
   - sources/dave/2026-09-14-dead-mans-hand-names.md
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+  - sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
@@ -62,7 +63,7 @@ Outside the Mortuary, just after the party escaped it, a corpse-picker came to t
 
 Pharod has a lock on the whole racket, and Rotten William enforces it for a cut. He deals with murderers all over the city to collect and dispose of their victims, "in the thousands", extraplanar victims included. <small>(DM notes)</small> [Prez](/people/prez/), a prisoner in Rotten William's hideout, overheard Pharod accepting bodies for disposal with no questions asked, in a deal Rotten William had arranged. <small>(DM notes)</small>
 
-Pharod took payment from Jeremiah to dispose of bodies with no questions, and Jeremiah is now threatening him. <small>(DM notes)</small> The party saw Pharod together with the handsome man. <small>(DM notes, play log)</small> The party know that Jeremiah is the handsome man with the glowing sword who killed each of them. <small>(Dave)</small>
+Pharod took payment from Jeremiah to dispose of bodies with no questions, and Jeremiah is now threatening him. <small>(DM notes)</small> The party saw Pharod together with the handsome man. <small>(DM notes, play log)</small> The party know that Jeremiah is the handsome man with the glowing sword who killed all of them but Heyu. <small>(Dave)</small>
 
 Pharod is plotting the death of the party, and his men and Rotten William's are climbing the Hive to ambush them. <small>(DM notes)</small>
 

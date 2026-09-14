@@ -36,12 +36,13 @@ sources:
   - canon/dmh-notebook/NAMES.md
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - CANON.md 5ac
+  - sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
 **Half-orc · Pirate of the [Blackfish](/history/the-blackfish-encounter/) · Holder of the FATES card · Murdered by [Jeremiah](/people/jeremiah/) · Dead**
 
-Feng Milosh was a half-orc of Greyhawk, a pirate who had sailed as crew on the *Blackfish*, and the father of [Keisha Milosh](/people/keisha-milosh/). A card of [the Deck of Many Things](/items/the-deck-of-many-things/), FATES, which [Gabriella Hellwood](/people/gabriella-hellwood/) had long before given away as plunder, came to him as crew of her ship: he won it from a man called Gooch in a game of pink Monty, and it brought him good luck until he was killed in a home invasion by a handsome man with a glowing sword: [Jeremiah](/people/jeremiah/), who never found the card. His ghost could not move on until the card reached his daughter. The party recovered it, and Keisha let them keep it.
+Feng Milosh was a half-orc of Greyhawk, a pirate who had sailed as crew on the *Blackfish*, and the father of [Keisha Milosh](/people/keisha-milosh/). A card of [the Deck of Many Things](/items/the-deck-of-many-things/), FATES, which [Gabriella Hellwood](/people/gabriella-hellwood/) had long before given away as plunder, came to him as crew of her ship: he won it from a man called Gooch in a game of pink Monty, and it brought him good luck until he was killed in a home invasion by a handsome man with a glowing sword: [Jeremiah](/people/jeremiah/), who never found the card. His ghost could not move on until the card reached his daughter. His body lay in the Mortuary, where the party took the card from his boot, and Keisha let them keep it.
 
 ## The card
 
@@ -61,11 +62,11 @@ Jeremiah had been investigating rumours of "an orc mercenary and gambler who cou
 
 Jeremiah broke into Feng's home, killed him and spared his family, but could not find the card; the invaders did not know about the pocket in his boot. <small>(DM notes)</small> About his murder Feng's ghost recalls that the thieves said nothing, and that their leader was a striking, handsome man with a glowing sword. <small>(DM notes)</small> His daughter buried him. <small>(DM notes)</small>
 
-The party know that Jeremiah is the handsome man with the glowing sword, that he killed Feng Milosh as he killed each of them, and that Feng had a card. <small>(Dave)</small>
+The party know that Jeremiah is the handsome man with the glowing sword, that he killed Feng Milosh as he killed all of them but Heyu, and that Feng had a card. <small>(Dave)</small>
 
 ## The ghost
 
-In death Feng is a ghost, a spirit and petitioner. He worshipped Cypher, but was headed to the Abyss for his acts in life. He cannot move on until the card is recovered and delivered to his daughter, its rightful heir. <small>(DM notes)</small> In [Heyu](/people/heyu/)'s story, his ghost hires her to retrieve an object from his corpse, from the boot, at [the Mortuary](/places/the-mortuary/) in [Sigil](/places/sigil/), and recounts the home invasion and his murder by the handsome man with the glowing sword. Her quest: recover the heirloom and return it to Keisha Milosh. <small>(DM notes)</small>
+In death Feng is a ghost, a spirit and petitioner. He worshipped Cypher, but was headed to the Abyss for his acts in life. He cannot move on until the card is recovered and delivered to his daughter, its rightful heir. <small>(DM notes)</small> His soul crossed the Outlands to Plaguemort, where [Heyu](/people/heyu/) took the last coins of petitioner souls to carry their messages and uncover the truth about their deaths; the divine will of Cypher sent her to Sigil to help him. <small>(Dave)</small> In Heyu's story, his ghost hires her to retrieve an object from his corpse, from the boot, at [the Mortuary](/places/the-mortuary/) in [Sigil](/places/sigil/), and recounts the home invasion and his murder by the handsome man with the glowing sword. Her quest: recover the heirloom and return it to Keisha Milosh. <small>(DM notes)</small>
 
 ## Keisha
 

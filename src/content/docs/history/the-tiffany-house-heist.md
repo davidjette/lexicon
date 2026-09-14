@@ -41,6 +41,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5ac
+- sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
@@ -73,7 +74,7 @@ They also came away with three things: Darius does not want this; Phillip is usi
 
 ## Jeremiah
 
-Then Jeremiah surprised them. <small>(DM notes, session record)</small> The party know him as the handsome man with the glowing sword who killed each of them and [Feng Milosh](/people/feng-milosh/), hired by [Shemeska](/people/shemeska/) to hunt them down and find the cards. In Dave's account, "Jeremiah and some goon had staged a heist disguised as waiters to steal the card as well."
+Then Jeremiah surprised them. <small>(DM notes, session record)</small> The party know him as the handsome man with the glowing sword who killed all of them but Heyu, and [Feng Milosh](/people/feng-milosh/), hired by [Shemeska](/people/shemeska/) to hunt them down and find the cards. In Dave's account, "Jeremiah and some goon had staged a heist disguised as waiters to steal the card as well."
 
 Jeremiah knows Griddy. The party know her as **Garidriel**, and the two of them are fallen angels at different stages of their fall from grace. <small>(DM notes)</small> What they said to each other:
 

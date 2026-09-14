@@ -46,12 +46,13 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - CANON.md 5ac
   - CANON.md 5ad
+  - sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
 **Kenku · Investigator wizard · Follower of Cypher · Private detective · Alive**
 
-Heyu is a kenku investigator wizard, a follower of Cypher and a private detective in Plaguemort, and one of the fatemarked party of [Dead Man's Hand](/lore/dead-mans-hand/). The ghost of [Feng Milosh](/people/feng-milosh/) hired her to recover an heirloom from his corpse in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/); on the way in she was ambushed by thugs working for [Rotten William](/people/rotten-william/), who took her spellbook and threw her into the corpse chute. She woke in the Mortuary with the others, recovered the spellbook, and fought through [the Hive Ward](/places/the-hive-ward/) with the party. At [Our Lady of Mysteries](/places/our-lady-of-mysteries/) she was brought before the Factol of the Faceless. In [Waterdeep](/places/waterdeep/) she escaped arrest after [the Grub + Grog](/places/the-grub-and-grog/), broke into [Fort Maximillien](/places/fort-maximillien/) with [Nicollo](/people/nicollo/), and went down the fort's trash pit into [Undermountain](/places/undermountain/) with [Lenore](/people/lenore/) and [BattleBeast](/people/battlebeast/).
+Heyu is a kenku investigator wizard, a follower of Cypher and a private detective in Plaguemort, and one of the fatemarked party of [Dead Man's Hand](/lore/dead-mans-hand/). When the soul of the murdered [Feng Milosh](/people/feng-milosh/) crossed the Outlands to her, the divine will of Cypher sent her to [Sigil](/places/sigil/) to recover the FATES card from his corpse in [the Mortuary](/places/the-mortuary/) for his daughter. She was not killed: she was attacked by thugs working for [Rotten William](/people/rotten-william/) while looking for a way into the Mortuary, and they took her spellbook. With the party she took the card from Feng's boot, recovered the spellbook, and fought through [the Hive Ward](/places/the-hive-ward/) with the party. At [Our Lady of Mysteries](/places/our-lady-of-mysteries/) she was brought before the Factol of the Faceless. In [Waterdeep](/places/waterdeep/) she escaped arrest after [the Grub + Grog](/places/the-grub-and-grog/), broke into [Fort Maximillien](/places/fort-maximillien/) with [Nicollo](/people/nicollo/), and went down the fort's trash pit into [Undermountain](/places/undermountain/) with [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and [Rodriel](/people/rodriel/).
 
 ## Physical description
 
@@ -59,11 +60,13 @@ A "Ravenkin (humanoid crow) wizard and investigator": small, two and a half feet
 
 ## Feng Milosh's commission
 
-Feng Milosh, a spirit and petitioner who worshipped Cypher but was headed for the Abyss for his acts in life, hired Heyu to retrieve an object from his corpse, from his boot, at the Mortuary in Sigil, and told her of the home invasion in which he was murdered by a handsome man with a glowing sword. Her charge was to recover the heirloom and return it to his daughter, [Keisha Milosh](/people/keisha-milosh/). <small>(DM notes)</small>
+In Plaguemort Heyu ran a business for petitioner souls, who gave her their last coins to deliver messages or uncover the truth about their deaths, like a private eye. The soul of Feng Milosh crossed the Outlands to Plaguemort, and Heyu felt the divine will of Cypher telling her to go to Sigil and help him. <small>(Dave)</small>
 
-She travelled to Sigil through a portal known to a Cypherian monk in a distant town, borrowing the gold to use it, and the journey took a month. She hired a tout to lead her to the Mortuary; the tout would not enter the Hive Ward, and she found her way there alone. At the Mortuary she saw a corpse collector leaving a drop chute with an empty cart. Hive thugs working for Rotten William ambushed her, took her spellbook and threw her into the corpse chute. <small>(DM notes)</small>
+Feng Milosh, a spirit and petitioner who worshipped Cypher but was headed for the Abyss for his acts in life, hired Heyu to retrieve an object from his corpse, from his boot, at the Mortuary in Sigil, and told her of the home invasion in which he was murdered by a handsome man with a glowing sword. Her charge was to recover the heirloom and return it to his daughter, [Keisha Milosh](/people/keisha-milosh/). <small>(DM notes)</small> The heirloom is the FATES card of [the Deck of Many Things](/items/the-deck-of-many-things/). <small>(Dave)</small>
 
-The party know that Shemeska hired [Jeremiah](/people/jeremiah/) to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and each of them.
+She travelled to Sigil through a portal known to a Cypherian monk in a distant town, borrowing the gold to use it, and the journey took a month. She hired a tout to lead her to the Mortuary; the tout would not enter the Hive Ward, and she found her way there alone. At the Mortuary she saw a corpse collector leaving a drop chute with an empty cart. While she was looking for a way into the Mortuary, Hive thugs working for Rotten William attacked her, took her spellbook and threw her into the corpse chute. <small>(DM notes)</small> She was not killed. Feng's body lay in the Mortuary, and the party took the card from his boot. <small>(Dave)</small>
+
+The party know that Shemeska hired [Jeremiah](/people/jeremiah/) to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and every one of her companions who woke in the Mortuary.
 
 ## Sigil
 

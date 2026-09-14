@@ -29,12 +29,13 @@ sources:
 - CANON.md 5w
 - CANON.md 5ab
 - CANON.md 5ac
+- sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
 ---
 
 **Tattoos · Marks of Istus · Borne by the party of Dead Man's Hand**
 
-**Fatemarks** are tattoos found on people whom Istus has chosen to fulfill a duty, a destiny tied to a constellation. The strangers of [Dead Man's Hand](/lore/dead-mans-hand/), who had lived wholly separate lives and were each murdered by [Jeremiah](/people/jeremiah/), the handsome man with the glowing sword, woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with fatemarks. The tattoo artist Fell identified one as a Fatemark, and the marks drew the attention of [Shemeska](/people/shemeska/) and of [Sharegrave](/people/sharegrave/). At [Our Lady of Mysteries](/places/our-lady-of-mysteries/) the Factol of the Faceless told [Heyu](/people/heyu/) that she was meant to bear hers and to hold the Cards. Each bearer's fatemark is recorded as a row of cards of [the Deck of Many Things](/items/the-deck-of-many-things/).
+**Fatemarks** are tattoos found on people whom Istus has chosen to fulfill a duty, a destiny tied to a constellation. The strangers of [Dead Man's Hand](/lore/dead-mans-hand/), who had lived wholly separate lives and all but one of whom were murdered by [Jeremiah](/people/jeremiah/), the handsome man with the glowing sword, woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with fatemarks. The tattoo artist Fell identified one as a Fatemark, and the marks drew the attention of [Shemeska](/people/shemeska/) and of [Sharegrave](/people/sharegrave/). At [Our Lady of Mysteries](/places/our-lady-of-mysteries/) the Factol of the Faceless told [Heyu](/people/heyu/) that she was meant to bear hers and to hold the Cards. Each bearer's fatemark is recorded as a row of cards of [the Deck of Many Things](/items/the-deck-of-many-things/).
 
 ## Istus
 
