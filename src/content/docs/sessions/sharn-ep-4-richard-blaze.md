@@ -1,33 +1,33 @@
 ---
 title: Sharn Ep 4 — Richard Blaze
 description: Richard Blaze confesses the truth about Esther and her bound Sword, and the trio claim a haunted Lower City apartment as a base.
+tags:
+  - Sharn Ep 4
+  - Richard Blaze
+  - Esther Crona
+  - Zero-One
+  - Jessica Grimpledink
+  - Digma Beeve
+  - Breakers Pit
+  - Zilspar Farm 02
+  - Mission Board
+  - Lower City
+image:
+  src: /images/uploads/sharn-ep-4-richard-blaze-mu0r2ac8.webp
+  alt: 'Episode 4: Richard Blaze'
+  caption: 'Episode 4: Richard Blaze'
 sidebar:
   order: 204
 type: report
 kind: sessions
-tags:
-- Sharn Ep 4
-- Richard Blaze
-- Esther Crona
-- Zero-One
-- Jessica Grimpledink
-- Digma Beeve
-- Breakers Pit
-- Zilspar Farm 02
-- Mission Board
-- Lower City
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-4-E28094-richard-blaze-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-image:
-  src: /images/site/sharn-ep-4-richard-blaze-1.webp
-  alt: 'Episode 4: Richard Blaze'
-  caption: 'Episode 4: Richard Blaze'
 gallery:
   - src: /images/site/sharn-ep-4-richard-blaze-2.webp
     alt: 'Episode 4: Richard Blaze'
