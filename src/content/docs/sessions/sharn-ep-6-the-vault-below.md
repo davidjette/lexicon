@@ -1,34 +1,34 @@
 ---
 title: Sharn Ep 6 — The Vault Below
 description: Beneath a Lower City nightclub the trio find blood cattle, the Children of Ember, and the memory buried in Grady Marsh's head.
+tags:
+  - Sharn Ep 6
+  - The Vault Below
+  - Children of Ember
+  - Malrik Zeir
+  - Hallorn d'Lyrandar
+  - Grady Marsh
+  - Umbra
+  - Blood Cattle
+  - ArcEye Crystallizer
+  - Velvet Table Society
+  - Project EDEN
+image:
+  src: /images/uploads/sharn-ep-6-the-vault-below-mu0r3y7z.webp
+  alt: 'Episode 6: The Vault Below'
+  caption: 'Episode 6: The Vault Below'
 sidebar:
   order: 206
 type: report
 kind: sessions
-tags:
-- Sharn Ep 6
-- The Vault Below
-- Children of Ember
-- Malrik Zeir
-- Hallorn d'Lyrandar
-- Grady Marsh
-- Umbra
-- Blood Cattle
-- ArcEye Crystallizer
-- Velvet Table Society
-- Project EDEN
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-6-E28094-the-vault-below-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-image:
-  src: /images/site/sharn-ep-6-the-vault-below-1.webp
-  alt: 'Episode 6: The Vault Below'
-  caption: 'Episode 6: The Vault Below'
 gallery:
   - src: /images/site/sharn-ep-6-the-vault-below-2.webp
     alt: 'Episode 6: The Vault Below'
