@@ -28,7 +28,7 @@ sources:
 
 **Genie · Patron of Irina Malikovsky and Carlos Vega · Light of Xaryxis · Free**
 
-**Razomel** is a genie bound in a magic bottle, a being made of all the souls who had ever served his cursed vessel, and the patron of [Irina Malikovsky](/people/irina-malikovsky/) and [Carlos Vega](/people/carlos-vega/) in [*Light of Xaryxis*](/history/light-of-xaryxis/), the first arc of [Starfall](/lore/starfall-the-next-generation/). He tricked Irina into a pact that gave her the identity of a dead Astral Command pilot and bound her to take his place in the bottle after her death. When Carlos made his third wish aboard the exploding [SSJ Zanzibar](/items/the-ssj-zanzibar/) and became a djinn in a bottle himself, Razomel went free.
+**Razomel** is a genie bound in a magic bottle, a being made of all the souls who had ever served his cursed vessel, and the patron of [Irina Malikovsky](/people/irina-malikovsky/) and [Carlos Vega](/people/carlos-vega/) in [*Light of Xaryxis*](/history/light-of-xaryxis/), the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). He tricked Irina into a pact that gave her the identity of a dead Astral Command pilot and bound her to take his place in the bottle after her death. When Carlos made his third wish aboard the exploding [SSJ Zanzibar](/items/the-ssj-zanzibar/) and became a djinn in a bottle himself, Razomel went free.
 
 ## Irina
 

@@ -43,7 +43,7 @@ sources:
 
 *Also known as:* Ensign Mordecai · Morti · Mordy · Lt. Commander Mordecai
 
-**Mordecai** is a tiefling warlock of the Celestial who served as an ensign in the medical corps of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), played by JL. His surgery stopped the ceremorphosis of crew members infested by [a mind flayer](/history/the-mind-flayer-on-the-rock/) in November 2022, a technique Dave called the Mordecai Method. Late in *[Light of Xaryxis](/history/light-of-xaryxis/)* he and [Irina Malikovsky](/people/irina-malikovsky/) moved to take the Zanzibar, and fifteen years later he was a doctor and the chief science officer of the SSJ Excelsior. The [Company](/organizations/nimbus-corp/)'s dossier of the same era names him Executive Officer of the SSJ Vanguard, under [Sandy](/people/hyperion-tidzan-dassiya/).
+**Mordecai** is a tiefling warlock of the Celestial who served as an ensign in the medical corps of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by JL. His surgery stopped the ceremorphosis of crew members infested by [a mind flayer](/history/the-mind-flayer-on-the-rock/) in November 2022, a technique Dave called the Mordecai Method. Late in *[Light of Xaryxis](/history/light-of-xaryxis/)* he and [Irina Malikovsky](/people/irina-malikovsky/) moved to take the Zanzibar, and fifteen years later he was a doctor and the chief science officer of the SSJ Excelsior. The [Company](/organizations/nimbus-corp/)'s dossier of the same era names him Executive Officer of the SSJ Vanguard, under [Sandy](/people/hyperion-tidzan-dassiya/).
 
 ## Light of Xaryxis
 

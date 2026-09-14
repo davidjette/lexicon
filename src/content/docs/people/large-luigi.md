@@ -40,7 +40,7 @@ sources:
 
 *Also known as:* Luigi · prisoner LL849 · prisoner LL9807
 
-**Large Luigi** is a beholder bartender who kept his bar aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). In the fifteen years that followed he was held in a high-security facility of [OSR3G](/organizations/osr3g/) as prisoner LL849, awaiting trial for treason and crimes against the [Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), which officially disavows all knowledge of his whereabouts. The [Company](/organizations/nimbus-corp/)'s dossier names him prisoner LL9807 of [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/), "the traitor of the Battle of Tannhauser Gate", and a Company asset and criminal informant.
+**Large Luigi** is a beholder bartender who kept his bar aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). In the fifteen years that followed he was held in a high-security facility of [OSR3G](/organizations/osr3g/) as prisoner LL849, awaiting trial for treason and crimes against the [Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), which officially disavows all knowledge of his whereabouts. The [Company](/organizations/nimbus-corp/)'s dossier names him prisoner LL9807 of [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/), "the traitor of the Battle of Tannhauser Gate", and a Company asset and criminal informant.
 
 ## Light of Xaryxis
 

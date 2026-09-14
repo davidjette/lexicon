@@ -37,7 +37,7 @@ sources:
 
 *Also known as:* Patyra
 
-**Paytra** is a winged tiefling fighter and warlock of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/), played by Nico. With her partner [Kol Hanaka](/people/kol-hanaka/) she worked as a rookie Blade Runner in [Brownsleeve City](/places/brownsleeve-city/) on Selune, the moon of Toril, searching for the source of illegal artificial intelligence. She died in the finale of [Brownsleeve City Nights](/history/brownsleeve-city-nights/) in November 2024 and was rebuilt as a robot, and she and Kol later brought the body of [Caprica](/people/caprica/) to [the Terrasque](/items/the-terrasque/).
+**Paytra** is a winged tiefling fighter and warlock of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), played by Nico. With her partner [Kol Hanaka](/people/kol-hanaka/) she worked as a rookie Blade Runner in [Brownsleeve City](/places/brownsleeve-city/) on Selune, the moon of Toril, searching for the source of illegal artificial intelligence. She died in the finale of [Brownsleeve City Nights](/history/brownsleeve-city-nights/) in November 2024 and was rebuilt as a robot, and she and Kol later brought the body of [Caprica](/people/caprica/) to [the Terrasque](/items/the-terrasque/).
 
 ## Background
 

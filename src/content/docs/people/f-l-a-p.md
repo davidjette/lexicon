@@ -34,7 +34,7 @@ sources:
 
 *Also known as:* Fully Lingual Automatic Pilot · Fully Linguistic Autonomous Pilot · FLAP · Flap
 
-**F.L.A.P.** (Fully Lingual Automatic Pilot) is an autognome artificer and the built-in robot autopilot of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), a non-player character built by Dave for *[Light of Xaryxis](/history/light-of-xaryxis/)*. He came with the ship.
+**F.L.A.P.** (Fully Lingual Automatic Pilot) is an autognome artificer and the built-in robot autopilot of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall: TNG](/lore/starfall-the-next-generation/), a non-player character built by Dave for *[Light of Xaryxis](/history/light-of-xaryxis/)*. He came with the ship.
 
 ## Name
 

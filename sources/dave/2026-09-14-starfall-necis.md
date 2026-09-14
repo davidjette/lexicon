@@ -7,3 +7,7 @@ On the gallery picture captioned "Black pyramids over a rust-red plain":
 Follow-up 1 (asked: Barrias Ruby-Eye or Red-Eye?):
 
 > Ruby-Eye is the name, Red Eye is the nom de guerre used by the robot resistence in Starsong Awakens - build everything
+
+Follow-up 2 (asked: may the Messenger chat photos go on the site; unseal the SSJ Stonecypher's name; retitle the campaign to plain "Starfall"; restore the Albert Spear and Space Guppie tags):
+
+> yes private chat photos can go up and I'd like them added to articles as well where approp, make basic meta data for them - no Stonecypher is not unsealed, though its a very good point that it probably shouldn't be called that, leave that for now - Starfall: TNG please - yes? not sure what this is

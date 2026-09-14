@@ -26,7 +26,7 @@ sources:
 
 **Species unknown · Barbarian 6 (Zealot) · Deputy, Bureau of Compliance · Status unknown**
 
-**Spoon** is a zealot barbarian and a Deputy of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in *[The Starsong Awakens](/history/the-starsong-awakens/)*, the second arc of [Starfall](/lore/starfall-the-next-generation/), played by JL. <small>(Oral Histories: The Inevitables, 2024-06-25)</small>
+**Spoon** is a zealot barbarian and a Deputy of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in *[The Starsong Awakens](/history/the-starsong-awakens/)*, the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), played by JL. <small>(Oral Histories: The Inevitables, 2024-06-25)</small>
 
 ## The Starsong Awakens
 

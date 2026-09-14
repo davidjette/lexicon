@@ -46,7 +46,7 @@ sources:
 
 *Also known as:* Cole Hanaka · Cole
 
-**Kol Hanaka** is a githzerai monk of the Way of the Kensei and an agent of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/), played by Dave. With his partner [Paytra](/people/paytra/) he worked as a rookie Blade Runner in [Brownsleeve City](/places/brownsleeve-city/) on Selune, the moon of Toril, searching for the source of illegal artificial intelligence, and followed the trail of the Red Eye through the storyline of [Brownsleeve City Nights](/history/brownsleeve-city-nights/). After its finale, in which Paytra died, he and Paytra were rebuilt as robots, and the two later brought the body of [Caprica](/people/caprica/) to [the Terrasque](/items/the-terrasque/).
+**Kol Hanaka** is a githzerai monk of the Way of the Kensei and an agent of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), played by Dave. With his partner [Paytra](/people/paytra/) he worked as a rookie Blade Runner in [Brownsleeve City](/places/brownsleeve-city/) on Selune, the moon of Toril, searching for the source of illegal artificial intelligence, and followed the trail of the Red Eye through the storyline of [Brownsleeve City Nights](/history/brownsleeve-city-nights/). After its finale, in which Paytra died, he and Paytra were rebuilt as robots, and the two later brought the body of [Caprica](/people/caprica/) to [the Terrasque](/items/the-terrasque/).
 
 ## Background
 

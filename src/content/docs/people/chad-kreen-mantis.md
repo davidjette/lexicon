@@ -38,7 +38,7 @@ sources:
 
 *Also known as:* Kreen (callsign) · Cmdr Chad "Kreen" Mantis · Lt. Cmdr. Chad "Kreen" Mantis
 
-Lieutenant Commander **Chad "Kreen" Mantis** is a thri-kreen fighter and bladesinger, the top fighter ace aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) and its Squadron Leader in [Starfall](/lore/starfall-the-next-generation/), a character run by the DM and played by Dave. Passed over for the ship's helm, he flew small craft for [Astral Command](/organizations/astral-command/) through *[Light of Xaryxis](/history/light-of-xaryxis/)*, and died in May 2024, in the closing episodes of the arc.
+Lieutenant Commander **Chad "Kreen" Mantis** is a thri-kreen fighter and bladesinger, the top fighter ace aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) and its Squadron Leader in [Starfall: TNG](/lore/starfall-the-next-generation/), a character run by the DM and played by Dave. Passed over for the ship's helm, he flew small craft for [Astral Command](/organizations/astral-command/) through *[Light of Xaryxis](/history/light-of-xaryxis/)*, and died in May 2024, in the closing episodes of the arc.
 
 ## Background
 

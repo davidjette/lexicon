@@ -36,7 +36,7 @@ sources:
 
 *Also known as:* Weld
 
-**Umwelt**, called **Weld**, is a warforged barbarian of the Path of the Wild Heart and a devotee of the Red Eye in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/), played by Dave. A liberated farming and ranch-hand unit, he joined the robot resistance of [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/) and serves as crew aboard the Istus Cruiser with [Marcel Martel](/people/marcel-martel/). He later met up with [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/).
+**Umwelt**, called **Weld**, is a warforged barbarian of the Path of the Wild Heart and a devotee of the Red Eye in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), played by Dave. A liberated farming and ranch-hand unit, he joined the robot resistance of [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/) and serves as crew aboard the Istus Cruiser with [Marcel Martel](/people/marcel-martel/). He later met up with [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/).
 
 ## Background
 

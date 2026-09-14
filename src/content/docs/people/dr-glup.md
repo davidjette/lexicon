@@ -38,7 +38,7 @@ sources:
 
 *Also known as:* Glup · Doctor Glup · Dr Glup
 
-**Dr. Glup** is a plasmoid monk of the Way of Mercy and the First Apothecar, or medical officer, of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), a non-player character played by Dave. During [the mind flayer crisis](/history/the-mind-flayer-on-the-rock/) of November 2022, in *[Light of Xaryxis](/history/light-of-xaryxis/)*, Glup's monk abilities were used to overpower the ship's captain, and Glup reported the mark the mind flayer left on [Carlos Vega](/people/carlos-vega/).
+**Dr. Glup** is a plasmoid monk of the Way of Mercy and the First Apothecar, or medical officer, of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall: TNG](/lore/starfall-the-next-generation/), a non-player character played by Dave. During [the mind flayer crisis](/history/the-mind-flayer-on-the-rock/) of November 2022, in *[Light of Xaryxis](/history/light-of-xaryxis/)*, Glup's monk abilities were used to overpower the ship's captain, and Glup reported the mark the mind flayer left on [Carlos Vega](/people/carlos-vega/).
 
 ## Background
 

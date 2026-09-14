@@ -62,7 +62,7 @@ sources:
 
 *Also known as:* Seven · 7
 
-**Se7en** is an autognome artificer, played by Nico, built by [Barrias Ruby-Eye](/people/barrias-ruby-eye/) as the seventh of his robots. They served below decks aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/), brewing booze for the ship and its bar. Fifteen years later, after the Sovereignty outlawed artificial intelligence and autognomes with it, Se7en returned beside Barrias in *[The Starsong Awakens](/history/the-starsong-awakens/)*, rebuilt as an artillerist, and travelled through the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/) with Barrias and [Nine](/people/nine/).
+**Se7en** is an autognome artificer, played by Nico, built by [Barrias Ruby-Eye](/people/barrias-ruby-eye/) as the seventh of his robots. They served below decks aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/), brewing booze for the ship and its bar. Fifteen years later, after the Sovereignty outlawed artificial intelligence and autognomes with it, Se7en returned beside Barrias in *[The Starsong Awakens](/history/the-starsong-awakens/)*, rebuilt as an artillerist, and travelled through the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/) with Barrias and [Nine](/people/nine/).
 
 ## Background
 

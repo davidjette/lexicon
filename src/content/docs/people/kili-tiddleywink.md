@@ -32,7 +32,7 @@ sources:
 
 *Also known as:* Kili · Private Kili Tiddleywink
 
-**Kili Tiddleywink** is a faerie monk of the Astral Way and the ship's cook of the [SSJ Zanzibar](/items/the-ssj-zanzibar/), a non-player character built by Dave for *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). The ship's crew roster lists him as Private Kili Tiddleywink, Galley Master.
+**Kili Tiddleywink** is a faerie monk of the Astral Way and the ship's cook of the [SSJ Zanzibar](/items/the-ssj-zanzibar/), a non-player character built by Dave for *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). The ship's crew roster lists him as Private Kili Tiddleywink, Galley Master.
 
 ## Background
 

@@ -32,7 +32,7 @@ sources:
 
 *Also known as:* Admiral Starweaver · Andromeda
 
-**Admiral Andromeda Starweaver** is an admiral of [Astral Command](/organizations/astral-command/), the head of its Order of Scribes and the primary architect of [the Astralex](/lore/the-astralex/) network, in [Starfall](/lore/starfall-the-next-generation/) and its first arc, [*Light of Xaryxis*](/history/light-of-xaryxis/). One of the most respected and influential officers in Astral Command, she leads her order's work on overcoming [Dark Spectrum Interference](/lore/dark-spectrum-interference/). [The Starweaver Act](/lore/the-starweaver-act/), the Sovereignty law of *The Starsong Awakens* that outlaws all artificial intelligence, is named for her.
+**Admiral Andromeda Starweaver** is an admiral of [Astral Command](/organizations/astral-command/), the head of its Order of Scribes and the primary architect of [the Astralex](/lore/the-astralex/) network, in [Starfall: TNG](/lore/starfall-the-next-generation/) and its first arc, [*Light of Xaryxis*](/history/light-of-xaryxis/). One of the most respected and influential officers in Astral Command, she leads her order's work on overcoming [Dark Spectrum Interference](/lore/dark-spectrum-interference/). [The Starweaver Act](/lore/the-starweaver-act/), the Sovereignty law of *The Starsong Awakens* that outlaws all artificial intelligence, is named for her.
 
 ## Astral Command
 

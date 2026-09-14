@@ -48,11 +48,11 @@ sources:
 - "CANON.md 5aj"
 ---
 
-**Battle · [Starfall](/lore/starfall-the-next-generation/) · Fifteen years before *The Starsong Awakens* · Location unknown**
+**Battle · [Starfall: TNG](/lore/starfall-the-next-generation/) · Fifteen years before *The Starsong Awakens* · Location unknown**
 
 *Also known as:* Tannhauser Gate · the crisis at Tannhauser Gate
 
-The **Battle of Tannhauser Gate** was a battle of the [Starfall](/lore/starfall-the-next-generation/) era, fought fifteen years before the events of *[The Starsong Awakens](/history/the-starsong-awakens/)*. In the Company dossier, [Caprica](/people/caprica/) was last seen during the battle at the helm of [the SSJ Zanzibar](/items/the-ssj-zanzibar/), spelljamming the ship to the Eye of Doom, and [Astral Command](/organizations/astral-command/) afterwards seized its wreck. [Large Luigi](/people/large-luigi/) was held as the battle's traitor, [Buttsack](/people/buttsack/) was awarded the Medal of Valorous Service and declined it, and hairs of [Horgus Simianis](/people/horgus-simianis/) were recovered after it. A year later [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) passed [the Starweaver Act](/lore/the-starweaver-act/). Reforms that followed the battle made Admiral [Timothee Buckets](/people/timothee-buckets/) Sovereign Supreme, Astral Command introduced its Istus-class vessels, and Company artificers first detected the sonic disruption called the T.U.N.E.
+The **Battle of Tannhauser Gate** was a battle of the [Starfall: TNG](/lore/starfall-the-next-generation/) era, fought fifteen years before the events of *[The Starsong Awakens](/history/the-starsong-awakens/)*. In the Company dossier, [Caprica](/people/caprica/) was last seen during the battle at the helm of [the SSJ Zanzibar](/items/the-ssj-zanzibar/), spelljamming the ship to the Eye of Doom, and [Astral Command](/organizations/astral-command/) afterwards seized its wreck. [Large Luigi](/people/large-luigi/) was held as the battle's traitor, [Buttsack](/people/buttsack/) was awarded the Medal of Valorous Service and declined it, and hairs of [Horgus Simianis](/people/horgus-simianis/) were recovered after it. A year later [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) passed [the Starweaver Act](/lore/the-starweaver-act/). Reforms that followed the battle made Admiral [Timothee Buckets](/people/timothee-buckets/) Sovereign Supreme, Astral Command introduced its Istus-class vessels, and Company artificers first detected the sonic disruption called the T.U.N.E.
 
 ## Opening narration
 

@@ -50,7 +50,7 @@ sources:
 
 *Also known as:* Butsac · Buttsac · Lt Buttsac · 2nd Sgt. Butsac · Buttsack (Sgt., Ret.) · Bootysack · Monksack
 
-**Buttsack** is a bugbear barbarian and the chief of security of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), played by JL. He served as the ship's Sergeant-at-Arms under [Captain Jim Smallberries](/people/captain-jim-smallberries/) through *[Light of Xaryxis](/history/light-of-xaryxis/)*, and when [Carlos Vega](/people/carlos-vega/) became a djinn bound in a bottle, the bottle came to Buttsack. In the fifteen years before *[The Starsong Awakens](/history/the-starsong-awakens/)* he played professional sportsball, was paralysed, and became a monk at a Githzerai temple, still carrying the bottle.
+**Buttsack** is a bugbear barbarian and the chief of security of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by JL. He served as the ship's Sergeant-at-Arms under [Captain Jim Smallberries](/people/captain-jim-smallberries/) through *[Light of Xaryxis](/history/light-of-xaryxis/)*, and when [Carlos Vega](/people/carlos-vega/) became a djinn bound in a bottle, the bottle came to Buttsack. In the fifteen years before *[The Starsong Awakens](/history/the-starsong-awakens/)* he played professional sportsball, was paralysed, and became a monk at a Githzerai temple, still carrying the bottle.
 
 ## Background
 

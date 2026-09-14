@@ -38,7 +38,7 @@ sources:
 
 *Also known as:* Marcel · Martel
 
-**Marcel Martel** is a high elf rogue of the Arcane Trickster archetype and a devotee of the Red Eye in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/), played by Nico. Once a famous musician and actor of [Waterdeep](/places/waterdeep/), he lost his wife, the synth AI politician Robin Martel, when agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) took her from their home and dismantled her under [the Starweaver Act](/lore/the-starweaver-act/). He has fought for her and for all robots since, with the resistance of [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/) aboard the stolen Istus Cruiser.
+**Marcel Martel** is a high elf rogue of the Arcane Trickster archetype and a devotee of the Red Eye in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), played by Nico. Once a famous musician and actor of [Waterdeep](/places/waterdeep/), he lost his wife, the synth AI politician Robin Martel, when agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) took her from their home and dismantled her under [the Starweaver Act](/lore/the-starweaver-act/). He has fought for her and for all robots since, with the resistance of [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/) aboard the stolen Istus Cruiser.
 
 ## Background
 

@@ -44,7 +44,7 @@ sources:
 
 *Also known as:* Irina Malikowski · Irina Malikovski · Irena · Irene
 
-**Irina Malikovsky** is a changeling warlock and the propulsion engineer of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), created and written by Dave and played by Nico from April 2024. Raised among the changelings of Dolphin 9, she found a crashed Astral Command pilot and, through a wish granted by the genie [Razomel](/people/razomel/), took the dead pilot's name and life, binding herself to take Razomel's place after her death. Aboard the Zanzibar during *[Light of Xaryxis](/history/light-of-xaryxis/)* she was a witness to [Carlos Vega](/people/carlos-vega/)'s innocence, was saved by him, in May 2024 moved with [Mordecai](/people/mordecai/) to take the ship, and in the finale cast a Wish of her own.
+**Irina Malikovsky** is a changeling warlock and the propulsion engineer of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall: TNG](/lore/starfall-the-next-generation/), created and written by Dave and played by Nico from April 2024. Raised among the changelings of Dolphin 9, she found a crashed Astral Command pilot and, through a wish granted by the genie [Razomel](/people/razomel/), took the dead pilot's name and life, binding herself to take Razomel's place after her death. Aboard the Zanzibar during *[Light of Xaryxis](/history/light-of-xaryxis/)* she was a witness to [Carlos Vega](/people/carlos-vega/)'s innocence, was saved by him, in May 2024 moved with [Mordecai](/people/mordecai/) to take the ship, and in the finale cast a Wish of her own.
 
 ## Background
 

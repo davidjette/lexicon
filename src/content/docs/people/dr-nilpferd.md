@@ -35,7 +35,7 @@ sources:
 
 *Also known as:* Nilpferd · Chief Arcanist
 
-**Dr. Nilpferd** was an elephantfolk wizard of the Order of Scribes and the Magus ex Machina of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), played by JL. Informally called the ship's Chief Arcanist, he became the superior of Cadet [Carlos Vega](/people/carlos-vega/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*, and in the fifteen years before *[The Starsong Awakens](/history/the-starsong-awakens/)* he died peacefully in his sleep, survived by a daughter cloned from him, Schnuptfabak.
+**Dr. Nilpferd** was an elephantfolk wizard of the Order of Scribes and the Magus ex Machina of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by JL. Informally called the ship's Chief Arcanist, he became the superior of Cadet [Carlos Vega](/people/carlos-vega/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*, and in the fifteen years before *[The Starsong Awakens](/history/the-starsong-awakens/)* he died peacefully in his sleep, survived by a daughter cloned from him, Schnuptfabak.
 
 ## Light of Xaryxis
 

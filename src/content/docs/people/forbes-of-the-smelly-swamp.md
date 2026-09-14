@@ -39,7 +39,7 @@ sources:
 
 *Also known as:* Forbes · Ensign Forbes
 
-Ensign **Forbes of-the-Smelly-Swamp** is a firbolg ranger and the exozoologist of the [SSJ Zanzibar](/items/the-ssj-zanzibar/), played by Dave. A beast master and alien animal expert on the ship's science staff, he was one of the first-level crew who played cards below decks in December 2022, during *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/).
+Ensign **Forbes of-the-Smelly-Swamp** is a firbolg ranger and the exozoologist of the [SSJ Zanzibar](/items/the-ssj-zanzibar/), played by Dave. A beast master and alien animal expert on the ship's science staff, he was one of the first-level crew who played cards below decks in December 2022, during *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/).
 
 ## Background
 

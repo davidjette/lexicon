@@ -26,7 +26,7 @@ sources:
 
 **Species unknown · The Starsong Awakens · Status unknown**
 
-**Nine** is a companion of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Se7en](/people/se7en/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/), who went with them through the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/). His origin is unknown.
+**Nine** is a companion of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Se7en](/people/se7en/) in [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), who went with them through the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/). His origin is unknown.
 
 ## Background
 

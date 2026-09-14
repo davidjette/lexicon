@@ -1,10 +1,11 @@
 ---
-title: 'Starfall: The Next Generation'
-description: Starfall, a Spelljammer campaign set some five thousand years after the Ages, following the SSJ Zanzibar through Light of Xaryxis and The Starsong Awakens.
+title: 'Starfall: TNG'
+description: "Starfall: TNG, a Spelljammer campaign set some five thousand years after the Ages, following the SSJ Zanzibar through Light of Xaryxis and The Starsong Awakens."
 type: article
 kind: lore
 tags:
 - Starfall
+- 'Starfall: TNG'
 - 'Starfall: The Next Generation'
 - Starfall TNG
 - Spelljammer
@@ -127,7 +128,7 @@ image:
 >
 > <small>— Dave's tagline for the campaign</small>
 
-**Starfall**, also called **Starfall: The Next Generation**, is a long Spelljammer campaign set at the far end of the chronology: after the [Infantaverse](/lore/the-infantaverse/) chronicle, and after the Eberron campaigns, which themselves fall far after the Infantaverse and before Starfall. It takes place some five thousand years after the Ages of the Infanta, after the great melting of the 6700s. <small>(Realmspace became the home world of the spacefaring order about two thousand years after the Ages; Astral Command has a thousand-year history; the Lexicon's own age is ten thousand years. Oral Histories: The Inevitables, 2022-10-09; 2022-10-10; 2023-12-02; 2024-01-06)</small> Dave adapted the published adventure *Light of Xaryxis* into a Star Trek-style game that melded into the plot of Dan Simmons's *Hyperion* and *The Fall of Hyperion*. In it [the Lexicon](/items/the-lexicon/) rules a [Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) spanning four worlds, and betrays the mortal races.
+**Starfall: TNG**, also called **Starfall: The Next Generation** or simply **Starfall**, is a long Spelljammer campaign set at the far end of the chronology: after the [Infantaverse](/lore/the-infantaverse/) chronicle, and after the Eberron campaigns, which themselves fall far after the Infantaverse and before Starfall. It takes place some five thousand years after the Ages of the Infanta, after the great melting of the 6700s. <small>(Realmspace became the home world of the spacefaring order about two thousand years after the Ages; Astral Command has a thousand-year history; the Lexicon's own age is ten thousand years. Oral Histories: The Inevitables, 2022-10-09; 2022-10-10; 2023-12-02; 2024-01-06)</small> Dave adapted the published adventure *Light of Xaryxis* into a Star Trek-style game that melded into the plot of Dan Simmons's *Hyperion* and *The Fall of Hyperion*. In it [the Lexicon](/items/the-lexicon/) rules a [Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) spanning four worlds, and betrays the mortal races.
 
 The first arc, [Light of Xaryxis](/history/light-of-xaryxis/), was run by Dave in three seasons from 2022 to 2024. It followed the crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/), an old ship of [Astral Command](/organizations/astral-command/), from [the Rock of Bral](/places/the-rock-of-bral/) to the Time Tombs of [Necis](/places/necis/), and ended with the Zanzibar critically damaged, [Caprica](/people/caprica/) dead, the crew scattered by wishes and the Lexicon fled from Sigil. The second arc, [The Starsong Awakens](/history/the-starsong-awakens/), was run by JL from 2024 to 2025 and is set fifteen years later, after the Sovereignty outlawed artificial intelligence. The climax of Starfall took place at Necis, at the end of both arcs. <small>(Dave, 2026-09-14)</small>
 

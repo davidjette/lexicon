@@ -35,7 +35,7 @@ sources:
 
 *Also known as:* Holly Barrias
 
-**Halle Barrias** is the sister of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and an employee of [the Company](/organizations/nimbus-corp/), whose call to action and dire warning open [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall](/lore/starfall-the-next-generation/). Fifteen years after *Light of Xaryxis* she gave the crew a Company dossier of information for their quest, shared a drink with old friends and family in the arc's first episode, told her brother of a "star scream" related to [Caprica](/people/caprica/), and tipped him off to a stash that was a prize from the Company.
+**Halle Barrias** is the sister of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and an employee of [the Company](/organizations/nimbus-corp/), whose call to action and dire warning open [*The Starsong Awakens*](/history/the-starsong-awakens/), the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/). Fifteen years after *Light of Xaryxis* she gave the crew a Company dossier of information for their quest, shared a drink with old friends and family in the arc's first episode, told her brother of a "star scream" related to [Caprica](/people/caprica/), and tipped him off to a stash that was a prize from the Company.
 
 ## Name
 

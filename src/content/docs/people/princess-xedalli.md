@@ -27,7 +27,7 @@ sources:
 
 *Also known as:* Xedalli
 
-**Princess Xedalli**, Rightful Empress of Xaryxia, is a guest aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). The ship's crew roster lists her among its civilians and guests, with the title Rightful Empress of Xaryxia. <small>(crew roster, Oral Histories: The Inevitables, 2023-01-27)</small>
+**Princess Xedalli**, Rightful Empress of Xaryxia, is a guest aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). The ship's crew roster lists her among its civilians and guests, with the title Rightful Empress of Xaryxia. <small>(crew roster, Oral Histories: The Inevitables, 2023-01-27)</small>
 
 ## Light of Xaryxis
 
