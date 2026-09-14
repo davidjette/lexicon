@@ -1,21 +1,23 @@
 ---
 title: Sedda Tiddes Deeptempura
 description: The princess who rang the Thirteenth Casting with a rock, then waited three years in the dark, undead and lucid, for an extraction that never came.
+tags:
+  - Sedda Tiddes Deeptempura
+  - Sedda
+  - Sedda Deeptempura
+  - Sedda Tiddes
+  - the Ringer
+  - Deeptempura
+  - Deep Tempura
+  - Korranberg Foundry
+  - the Speaker
+  - the bloom
+  - Thirteenth Casting
+  - KNELL
+image:
+  src: /images/uploads/sedda-tiddes-deeptempura-mu0n07xg.webp
 type: person
 kind: people
-tags:
-- Sedda Tiddes Deeptempura
-- Sedda
-- Sedda Deeptempura
-- Sedda Tiddes
-- the Ringer
-- Deeptempura
-- Deep Tempura
-- Korranberg Foundry
-- the Speaker
-- the bloom
-- Thirteenth Casting
-- KNELL
 icon: fa-bell
 fields:
   rpgAlignment: Unknown
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/current-state.md
-- worldanvil/CANON.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/current-state.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: sedda-tiddes-deeptempura-person
