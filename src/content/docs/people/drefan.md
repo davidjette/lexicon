@@ -1,30 +1,32 @@
 ---
 title: Drefan
 description: The wood-elf druid sworn to House Gallidann who bears the moonblade Silverbane, was mistaken for a returning king, and seized the Excelsior as mist.
+tags:
+  - Drefan
+  - Silverbane
+  - House Gallidann
+  - Lusmundii
+  - Temple Holdings LLC
+  - Snowdown
+  - Wood Elf
+  - Druid
+  - Excelsior
+  - Arielle
+  - Motherstone
+  - Infantaverse
+  - Drefan of Gallidan
+  - Level 5
+  - Master Runes
+  - Star Quendi
+  - Daenan
+  - Bask Falls Barrow
+  - Drefanmetra
+  - Waning One
+  - Banefae
+image:
+  src: /images/uploads/drefan-closeup-mu1uxbkc.webp
 type: person
 kind: people
-tags:
-- Drefan
-- Silverbane
-- House Gallidann
-- Lusmundii
-- Temple Holdings LLC
-- Snowdown
-- Wood Elf
-- Druid
-- Excelsior
-- Arielle
-- Motherstone
-- Infantaverse
-- Drefan of Gallidan
-- Level 5
-- Master Runes
-- Star Quendi
-- Daenan
-- Bask Falls Barrow
-- Drefanmetra
-- Waning One
-- Banefae
 icon: fa-leaf
 fields:
   rpgAlignment: Chaotic Good
@@ -41,47 +43,47 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- Desktop/infantaverse-wiki/src/content/docs/characters/drefan.mdx
-- Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part III.docx
-- Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part IV.docx
-- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part I.docx
-- Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part VI.docx
-- Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part I.docx
-- Desktop/D&D/Temple Holdings LLC/Character Sheets/CS DREFAN.pdf
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone (notes).txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
-- CANON.md 5p
-- sources/dave/2026-09-14-oral-histories-cast.md
-- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
-- sources/dave/2026-09-14-ages-rulings-a1-a30.md
-- "Oral Histories: Temporal Holdings, 2021-10-23"
-- "Oral Histories: Temporal Holdings, 2021-12-04"
-- "Oral Histories: The Inevitables, 2021-08-21"
-- sources/dave/2026-09-14-temple-holdings-open-questions.md
-- "Oral Histories: Temporal Holdings, 2017-08-31"
-- "Oral Histories: Temporal Holdings, 2018-06-04"
-- "Oral Histories: Temporal Holdings, 2018-06-26"
-- "Oral Histories: Temporal Holdings, 2018-10-21"
-- "Oral Histories: Temporal Holdings, 2018-10-25"
-- "Oral Histories: Temporal Holdings, 2019-02-11"
-- "Oral Histories: Temporal Holdings, 2019-02-15"
-- "Oral Histories: Temporal Holdings, 2019-02-20"
-- "Oral Histories: Temporal Holdings, 2019-05-29"
-- "Oral Histories: Temporal Holdings, 2019-08-26"
-- "Oral Histories: Temporal Holdings, 2019-10-01"
-- "Oral Histories: Temporal Holdings, 2019-11-11"
-- "Oral Histories: Temporal Holdings, 2020-01-08"
-- "Oral Histories: Temporal Holdings, 2020-07-11"
-- "Oral Histories: Temporal Holdings, 2020-08-08"
-- "Oral Histories: Temporal Holdings, 2021-01-16"
-- "Oral Histories: Temporal Holdings, 2021-11-11"
-- "Oral Histories: Temporal Holdings, 2022-04-10"
-- "Oral Histories: Temporal Holdings, 2023-01-15"
-- "Oral Histories: Temporal Holdings, 2023-04-23"
-- "Oral Histories: Temporal Holdings, 2023-10-16"
-- "Oral Histories: The Inevitables, 2021-10-01"
-- "Oral Histories: The Inevitables, 2023-01-15"
+  - Desktop/infantaverse-wiki/src/content/docs/characters/drefan.mdx
+  - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part III.docx
+  - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part IV.docx
+  - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part I.docx
+  - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part VI.docx
+  - Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part I.docx
+  - Desktop/D&D/Temple Holdings LLC/Character Sheets/CS DREFAN.pdf
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone (notes).txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
+  - CANON.md 5p
+  - sources/dave/2026-09-14-oral-histories-cast.md
+  - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+  - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+  - 'Oral Histories: Temporal Holdings, 2021-10-23'
+  - 'Oral Histories: Temporal Holdings, 2021-12-04'
+  - 'Oral Histories: The Inevitables, 2021-08-21'
+  - sources/dave/2026-09-14-temple-holdings-open-questions.md
+  - 'Oral Histories: Temporal Holdings, 2017-08-31'
+  - 'Oral Histories: Temporal Holdings, 2018-06-04'
+  - 'Oral Histories: Temporal Holdings, 2018-06-26'
+  - 'Oral Histories: Temporal Holdings, 2018-10-21'
+  - 'Oral Histories: Temporal Holdings, 2018-10-25'
+  - 'Oral Histories: Temporal Holdings, 2019-02-11'
+  - 'Oral Histories: Temporal Holdings, 2019-02-15'
+  - 'Oral Histories: Temporal Holdings, 2019-02-20'
+  - 'Oral Histories: Temporal Holdings, 2019-05-29'
+  - 'Oral Histories: Temporal Holdings, 2019-08-26'
+  - 'Oral Histories: Temporal Holdings, 2019-10-01'
+  - 'Oral Histories: Temporal Holdings, 2019-11-11'
+  - 'Oral Histories: Temporal Holdings, 2020-01-08'
+  - 'Oral Histories: Temporal Holdings, 2020-07-11'
+  - 'Oral Histories: Temporal Holdings, 2020-08-08'
+  - 'Oral Histories: Temporal Holdings, 2021-01-16'
+  - 'Oral Histories: Temporal Holdings, 2021-11-11'
+  - 'Oral Histories: Temporal Holdings, 2022-04-10'
+  - 'Oral Histories: Temporal Holdings, 2023-01-15'
+  - 'Oral Histories: Temporal Holdings, 2023-04-23'
+  - 'Oral Histories: Temporal Holdings, 2023-10-16'
+  - 'Oral Histories: The Inevitables, 2021-10-01'
+  - 'Oral Histories: The Inevitables, 2023-01-15'
 published: '2026-09-10'
 wa:
   slug: drefan-person
