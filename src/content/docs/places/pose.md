@@ -1,21 +1,25 @@
 ---
 title: POSÉ
 description: Richard Blaze's newest Upper City restaurant, whose grand opening ended in a Cogborn riot, a murdered news anchor and a live execution broadcast.
+tags:
+  - POSÉ
+  - Pose
+  - Pocē
+  - Richard Blaze
+  - Sharn
+  - Upper City
+  - Candice Kurt
+  - Sister Nora
+  - Cogborn protest
+  - Esther Crona
+  - Vilspar Co-operative
+  - Joanne Menka
+image:
+  src: /images/uploads/pose-opening-2-sharn-episode-2-pose-mu0oqprt.webp
+  alt: 'Episode 2: “POSÉ”'
+  caption: 'Episode 2: “POSÉ”'
 type: landmark
 kind: places
-tags:
-- POSÉ
-- Pose
-- Pocē
-- Richard Blaze
-- Sharn
-- Upper City
-- Candice Kurt
-- Sister Nora
-- Cogborn protest
-- Esther Crona
-- Vilspar Co-operative
-- Joanne Menka
 icon: fa-utensils
 fields:
   type: Restaurant
@@ -28,16 +32,12 @@ fields:
   defenses: Event security; overwhelmed by the Cogborn protest
   history: At its grand opening a protest surged the staircase, shots killed the anchor Candice Kurt, and Sister Nora was abducted in the panic
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/pose-mission-notes.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/pose-mission-notes.txt
 published: '2026-09-10'
 wa:
   slug: posE-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
-image:
-  src: /images/site/pose-1.webp
-  alt: 'Episode 2: “POSÉ”'
-  caption: 'Episode 2: “POSÉ”'
 gallery:
   - src: /images/site/pose-2.webp
     alt: 'Episode 2: “POSÉ”'
