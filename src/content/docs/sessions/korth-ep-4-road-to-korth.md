@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 4 — Road to Korth
 description: Locke arms the trio for the Mournlands, Kitsune reveals Gemma's inherited pact, and three civil servants die for their identities in Korth.
+tags:
+  - Korth Ep 4
+  - Road to Korth
+  - Kitsune
+  - Deirdre Moro
+  - Graham Cracker
+  - Sir Beef Taco
+  - Korranberg Foundry
+  - Mt. Silicon
+  - Fulcrum
+  - Uriel Qualanthri
+  - Lexicon
+  - Air Bubble
+image:
+  src: /images/uploads/korth-ep-4-road-to-korth-mu0sbkkr.webp
 sidebar:
   order: 304
 type: report
 kind: sessions
-tags:
-- Korth Ep 4
-- Road to Korth
-- Kitsune
-- Deirdre Moro
-- Graham Cracker
-- Sir Beef Taco
-- Korranberg Foundry
-- Mt. Silicon
-- Fulcrum
-- Uriel Qualanthri
-- Lexicon
-- Air Bubble
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-4-E28094-road-to-korth-report
