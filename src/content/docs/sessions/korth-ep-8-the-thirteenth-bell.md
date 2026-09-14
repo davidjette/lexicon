@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 8 — The Thirteenth Bell
 description: 'The forging of the bells is pieced together from the dead: Sedda rang the Thirteenth Bell, and King Corn was building a horn to answer it.'
+tags:
+  - Korth Ep 8
+  - The Thirteenth Bell
+  - Sedda Deeptempura
+  - King Corn
+  - Sister Calvane
+  - Maelis Dorn
+  - General Tso
+  - Madame Tso Teryaki
+  - Black Khyber
+  - Shavat
+  - Corn's Folio
+  - Succubus
+image:
+  src: /images/uploads/korth-ep-8-the-thirteenth-bell-mu0sino6.webp
 sidebar:
   order: 308
 type: report
 kind: sessions
-tags:
-- Korth Ep 8
-- The Thirteenth Bell
-- Sedda Deeptempura
-- King Corn
-- Sister Calvane
-- Maelis Dorn
-- General Tso
-- Madame Tso Teryaki
-- Black Khyber
-- Shavat
-- Corn's Folio
-- Succubus
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-8-E28094-the-thirteenth-bell-report
