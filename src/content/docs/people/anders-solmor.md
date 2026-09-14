@@ -100,7 +100,7 @@ The Solmors are a family of Saltmarsh. The name is spelled **Solmor**, **Salmor*
 
 **The death of Salmor.** In June 2022, with a sahuagin invasion coming, the party planned to kill Salmor. Dave thought he might have intelligence from the sahuagin. They slipped back into town, "amphibious", to Keledek's for help with surveillance. Dave's plan: "sneak in, watch him for a day, then plan the attack, super quiet, kill him and then Call in firebrand", adding "We don’t even know what he is". Nico's version was "Kill Salmor and wife". Dave: "I’m a commodore I decided I can summarily execute him for reason so we’re good", correcting "reason" to "Treason". <small>(Oral Histories: The Inevitables, 2022-06-30)</small> JL ran the session that night, and the party killed him. Nico: "We kicked Salmors’s ass, good fight!!" Afterward Dave wondered whether Salmor had been paying Firebrand to look the other way. <small>(Oral Histories: The Inevitables, 2022-07-01)</small>
 
-**Father and son.** After the finale Nico noted that Anders "has his daddy’s ring". <small>(Oral Histories: The Inevitables, 2022-07-10)</small> The table reads Salmor as Anders's father, and Alexander, the Duke, as a man of the same house.
+**Father and son.** After the finale Nico noted that Anders "has his daddy’s ring". <small>(Oral Histories: The Inevitables, 2022-07-10)</small> Salmor was Anders's father, and Alexander, the Duke, is a Solmor. <small>(Dave, sources/dave/2026-09-14-twatmarsh-open-questions-2.md)</small>
 
 **Organizations / Groups:** the Solmor family.\
 **Items:** a ring, "his daddy’s ring" (Nico).
@@ -111,7 +111,7 @@ The Solmors are a family of Saltmarsh. The name is spelled **Solmor**, **Salmor*
 
 - **Dolores Weathervein**: he courted her and proposed her for a council vote; he wanted to be her cabin boy.
 - **Petra**: his mother, dead; he blamed the Sea Princes.
-- **Salmor**: of his family; killed by the party on 2022-06-30.
-- **Alexander**, the Duke: tied to the same house in the table's reading.
+- **Salmor**: his father; killed by the party on 2022-06-30.
+- **Alexander**, the Duke: a Solmor.
 - **[Gabriella Hellwood](/people/gabriella-hellwood/)**: Dave named Anders as the one to take over for her.
 - **[Garbanzo](/people/garbanzo/)**: Gabriella's wife, pictured with him on a "Double date".

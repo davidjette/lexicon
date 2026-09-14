@@ -26,6 +26,7 @@ fields:
   rulingBody: Brother Montegue, Factol of the Faceless
   status: Active
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions-2.md
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3068, IMG_3072, IMG_3073)
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
 - CANON.md 5ad

@@ -52,6 +52,8 @@ published: '2026-09-14'
 
 ## Down to the drowned temple
 
+[Nicollo](/people/nicollo/), called Machiavelli at the table, fought with the party at the Blackfish; Jeremiah did not recognise him, because "he failed his history check in the moment to remember him". <small>(Dave, sources/dave/2026-09-14-twatmarsh-open-questions-2.md; Oral Histories: The Inevitables, 2025-08-17)</small>
+
 The party saved **Rake Ashley** from the water in Saltmarsh, and she was to ferry them to find the Blackfish. <small>(DM notes)</small> They traveled to the whirlpool over the hidden temple of Neptune, killed beasts and devils, and saw the desecration of the altar with Aqueus's corpse. <small>(DM notes)</small>
 
 ## The ascent

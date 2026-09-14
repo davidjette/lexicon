@@ -77,7 +77,7 @@ Dave gave Gabriella's reasons: "I'll marry the primewater girl if it means I can
 
 Nico ran the wedding on 2022-01-21. It had gaming tables: Mermaid's Cup, Liar's Dice, Tymora's Spinner and Fish N Chips. Nico's award: "Everyone take 1400 xp. Gabby take an extra 150 for your wedding". <small>(Oral Histories: The Inevitables, 2022-01-22)</small>
 
-The wedding ended on a cliffhanger. Dave: "The cliffhanger is big because the main thing about my character before there was anything else about her is that she wanted to kill this guy". JL: "But he seemed to save our bacon", and "Did any of our crew die in the attack?" <small>(Oral Histories: The Inevitables, 2022-01-22)</small>
+The wedding ended on a cliffhanger. Dave: "The cliffhanger is big because the main thing about my character before there was anything else about her is that she wanted to kill this guy". JL: "But he seemed to save our bacon", and "Did any of our crew die in the attack?" <small>(Oral Histories: The Inevitables, 2022-01-22)</small> The man was, as Dave recalls it, Major Francisco Dickhead, the superior who had sent Gabriella's Marine unit on a suicide mission. <small>(Dave, sources/dave/2026-09-14-twatmarsh-open-questions-2.md; Oral Histories: The Inevitables, 2021-08-15)</small> The morning after, Dave wrote: "I thought I might see Dickhead today but assumed it would be a marine vessel boarding the sea Ghost and forcing me to flee Saltmarsh". <small>(Oral Histories: The Inevitables, 2022-01-22)</small>
 
 ## Married life
 

@@ -70,7 +70,7 @@ He was built by a clandestine engineer who modifies protocol droids into diploma
 
 The party know that Shemeska hired Jeremiah to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and all of the party but Heyu.
 
-Jeremiah killed Nicollo in the attack on the shipment. Dave: "J killed MachV why? He was a secret delivery to Tiffany House, which eventually did receive the Ruin card he came for". <small>(Oral Histories: The Inevitables, 2025-12-06)</small> At the *Blackfish* Jeremiah did not recognise him: "he didn't know Machiavelli either because he failed his history check in the moment to remember him". <small>(Dave, Oral Histories: The Inevitables, 2025-08-17)</small>
+Jeremiah killed Nicollo in the attack on the shipment. Dave: "J killed MachV why? He was a secret delivery to Tiffany House, which eventually did receive the Ruin card he came for". <small>(Oral Histories: The Inevitables, 2025-12-06)</small> Nicollo fought with the party at the *Blackfish* <small>(Dave, sources/dave/2026-09-14-twatmarsh-open-questions-2.md)</small>, and there Jeremiah did not recognise him: "he didn't know Machiavelli either because he failed his history check in the moment to remember him". <small>(Dave, Oral Histories: The Inevitables, 2025-08-17)</small>
 
 ## Sigil
 

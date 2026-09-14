@@ -32,6 +32,7 @@ fields:
   status: Standing
   includedLocations: Heyu's private-eye business
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions-2.md
 - sources/dave/2026-09-14-heyu-and-feng.md
 - "Oral Histories: The Inevitables, 2025-09-21"
 - "Oral Histories: The Inevitables, 2025-11-09"
