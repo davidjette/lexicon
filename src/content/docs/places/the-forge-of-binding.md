@@ -15,7 +15,7 @@ tags:
   - Rite of Recall
   - mind flayer
 image:
-  src: /images/uploads/chatgpt-image-may-2-2026-03-08-28-pm-mu0p04km.webp
+  src: /images/uploads/forging-of-the-blade-of-binding-mu0v9lvl.webp
 type: landmark
 kind: places
 icon: fa-fire
