@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 6 — The Long Night at the Mountain Door
 description: A day of preparation at the Mountain Door ends in a night battle with the orc recon regiment, and the reliefs name the black dragon.
+tags:
+  - Korth Ep 6
+  - The Long Night at the Mountain Door
+  - Braga Kul
+  - King Corn
+  - Valtrex
+  - Deeptempura Clan
+  - Glitterhame
+  - Uruk-Hoth
+  - Augury
+  - Kitsune
+  - LeBeefe
+  - Mountain Door
+image:
+  src: /images/uploads/korth-ep-6-the-long-night-at-the-mountai-mu0sgd6o.webp
 sidebar:
   order: 306
 type: report
 kind: sessions
-tags:
-- Korth Ep 6
-- The Long Night at the Mountain Door
-- Braga Kul
-- King Corn
-- Valtrex
-- Deeptempura Clan
-- Glitterhame
-- Uruk-Hoth
-- Augury
-- Kitsune
-- LeBeefe
-- Mountain Door
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-6-E28094-the-long-night-at-the-mountain-door-report
