@@ -100,3 +100,5 @@ A frightened young woman, taken alive outside the Upper City safe house after th
 The strike came that night. Cultists were performing a ceremony over a bound and terrified [Whole Foods](/people/whole-foods/), Calcifer's nanny, in the ritual room beneath the residence; the trio cut them down and freed her. Upstairs the recruiters attacked, Hallorn confronted them, Gemma was chained and dragged away, and Malrik fled to the rooftop pool deck with both Gemma and Calcifer. There Dario killed him outright — the vampire's mist escaped into his coffin, but the body was destroyed.
 
 Esther Crona descended from her airship as Malrik fell, saw her son in danger and the Mother Prophet running, and put her sword through her own half-sister's chest. Eric delivered the final blow. Every named leader of the Children of Ember died within an hour of each other, and the surviving masked faithful have not been heard from since.
+
+![Children of Ember - Valerie.png](/images/uploads/children-of-ember-valerie-mu0vh728.webp)
