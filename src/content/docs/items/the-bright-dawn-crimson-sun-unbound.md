@@ -55,11 +55,11 @@ wa:
 
 *Also known as:* Bright Dawn · the Crimson Sun · the Crimson Sun Sword · Vayrn's sword · Esther's Hexblade · the sword of the Eternal Guardian
 
-**BRIGHT DAWN** is a longsword originally forged from [black Khyber — Shavat](/items/khyber-taxonomy/) by **Vayrn Crona** at the ancient [Forge of Binding](/locations/forge-of-binding/) beneath Sharn. The weapon was created as part of Vayrn's transformation into the **Eternal Guardian**, intended as a weapon worthy of guarding Kaius for eternity. Vayrn bound the elemental forces of fire, frost, lightning, radiance, shadow, acid, thunder, and force into the blade, naming it **the Crimson Sun**.
+The **BRIGHT DAWN** is a longsword originally forged from [black Khyber — Shavat](/items/khyber-taxonomy/) by **Vayrn Crona** at the ancient [Forge of Binding](/places/the-forge-of-binding/) beneath Sharn. The weapon was created as part of Vayrn's transformation into the **Eternal Guardian**, intended as a weapon worthy of guarding Kaius for eternity. Vayrn bound the elemental forces of fire, frost, lightning, radiance, shadow, acid, thunder, and force into the blade, naming it **the Crimson Sun**.
 
 The sword later became intertwined with the power of the Mourning. After Vayrn used it in the creation of the Mourning, the weapon became partly transformed into black and red Khyber. When the Echo of Vayrn Crona later became trapped within it, the sword served as the Hexblade and pact weapon of [Lord Commander Esther Crona](/people/esther-crona/), carrying the soul and power of the Eternal Guardian.
 
-The Trio ultimately confronted the Echo of Vayrn at the [Forge of Binding](/locations/forge-of-binding/), where the **Rite of Recall** destroyed the trapped soul and broke the binding. The sword lost its black and red corruption and became crystalline. After Esther's death atop the Veil building, she dropped the sword as she fell from the balcony. [Gemma Corso](/people/gemma-corso/) recovered it, renamed it **Bright Dawn**, and now wields it as her pact blade.
+The Trio ultimately confronted the Echo of Vayrn at the [Forge of Binding](/places/the-forge-of-binding/), where the **Rite of Recall** destroyed the trapped soul and broke the binding. The sword lost its black and red corruption and became crystalline. After Esther's death atop the Veil building, she dropped the sword as she fell from the balcony. [Gemma Corso](/people/gemma-corso/) recovered it, renamed it **Bright Dawn**, and now wields it as her pact blade.
 
 ## The sword
 
