@@ -101,5 +101,3 @@ When King Glenn Danzig was turned back from a snail, he offered Roseanne's hand 
 The artificer [Flex Gimble](/people/flex-gimble/) is registered to practise Thaumaturgical Engineering in both Waterdeep and Suzail. <small>(Arc II, Motherstone Part I)</small>
 
 **Related:** [The Suzail Coup](/history/the-suzail-coup/) · [Arc III — Age of the Infanta](/history/arc-iii-age-of-the-infanta/) · [War Wizards](/organizations/war-wizards/) · [The Purple Dragons](/organizations/the-purple-dragons/) · [Punis](/places/punis/) · [The Cormyrean Empire](/organizations/the-cormyrean-empire/)
-</content>
-</invoke>

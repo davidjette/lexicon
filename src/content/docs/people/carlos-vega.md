@@ -165,5 +165,3 @@ His sheet gives his traits as "I am always calm, no matter what the situation. I
 - **[Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/):** issued his credentials and warned him of Hyperion's wrath.
 - **[Dr. Nilpferd](/people/dr-nilpferd/):** his superior as a cadet.
 - **[Barrias Ruby-Eye](/people/barrias-ruby-eye/):** his companion on the return to Picon.
-</content>
-</invoke>

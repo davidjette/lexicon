@@ -115,5 +115,3 @@ The party was left to "come to terms with the elves of Myth Drannor" and to deci
 When King Glenn Danzig was turned back from a snail, he saw why Zanzibar had held the coup, appreciated his "rooting out the evil of Valen and his tainting by the Leviathan", and offered Roseanne's hand in marriage anyway. Zanzibar married Princess Roseanne after the Battle of the River Lis. Later the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. <small>(Dave, 2026-09-14)</small>
 
 **Related:** [Suzail](/places/suzail/) · [Arc III — Age of the Infanta](/history/arc-iii-age-of-the-infanta/) · [War Wizards](/organizations/war-wizards/) · [The Purple Dragons](/organizations/the-purple-dragons/) · [Zanzibar](/people/zanzibar/) · [Kara](/people/kara/) · [The Battle of the River Lis](/history/the-battle-of-the-river-lis/)
-</content>
-</invoke>

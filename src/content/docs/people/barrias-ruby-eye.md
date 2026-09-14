@@ -190,5 +190,3 @@ His faith is given as "Realist". <small>(character sheet)</small>
 - **[Caprica](/people/caprica/):** the Zanzibar's pilot, for whom he searched at Picon.
 - **[Carlos Vega](/people/carlos-vega/):** his companion on the return to Picon.
 - **[Nine](/people/nine/):** with him and Se7en in the Sphinx Tomb.
-</content>
-</invoke>

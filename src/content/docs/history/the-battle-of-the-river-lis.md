@@ -162,5 +162,3 @@ The Heroes' Hill rhyme, a later folk telling, counts the dead at a million:
 <small>— The Heroes' Hill rhyme. Oral Histories: The Inevitables, 2025-10-31</small>
 
 **Related:** [Arc IV — The Infernal Machines](/history/arc-iv-the-infernal-machines/) · [Punis](/places/punis/) · [Myth Drannor](/places/myth-drannor/) · [The Suzail Coup](/history/the-suzail-coup/) · [The Purple Dragons](/organizations/the-purple-dragons/) · [War Wizards](/organizations/war-wizards/) · [The Infanta](/lore/the-infanta/)
-</content>
-</invoke>

@@ -114,5 +114,3 @@ At the Crack in the side of [the Egg](/places/the-egg/), the allied host went gr
 In the reign of [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), the Emperor's cousin Princess **Zythara**, a prodigy of the Arcaneum, was stripped of her titles for defying ecclesiastical oversight of arcane study. She fled to Myth Drannor, rekindled its mythal, and rose against him as the Witch Queen of Myth Drannor, one of the five Zanzibars of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/). See [The Cormyrean Empire](/organizations/the-cormyrean-empire/).
 
 **Related:** [Teo, Infanta of Nature](/people/teo-infanta-of-nature/) · [Punis](/places/punis/) · [Suzail](/places/suzail/) · [The Battle of the River Lis](/history/the-battle-of-the-river-lis/) · [Tylerjinex](/people/tylerjinex/) · [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/)
-</content>
-</invoke>

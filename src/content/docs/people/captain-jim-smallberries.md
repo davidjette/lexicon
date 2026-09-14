@@ -168,5 +168,3 @@ Jim's sheet makes him a human Bard 11 of the College of Eloquence with the Wilds
 - **[Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/):** his Vox Sovereign and fellow pilgrim.
 - **[Tillamook](/people/tillamook/):** the boy he believed dead at Negroni Prime.
 - **[Princess Xedalli](/people/princess-xedalli/):** a guest aboard the Zanzibar.
-</content>
-</invoke>

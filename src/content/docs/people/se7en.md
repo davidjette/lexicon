@@ -138,5 +138,3 @@ Se7en's sheet makes them a Small autognome construct, an Artificer 15 of the Art
 - **[Large Luigi](/people/large-luigi/):** the bartender Se7en supplies with booze.
 - **[Nine](/people/nine/):** with Se7en and Barrias in the Sphinx Tomb.
 - **[Forbes of-the-Smelly-Swamp](/people/forbes-of-the-smelly-swamp/) and [Mordecai](/people/mordecai/):** fellow Below Decks crew.
-</content>
-</invoke>

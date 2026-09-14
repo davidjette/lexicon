@@ -170,5 +170,3 @@ Caprica's sheet makes her a Druid 12 of the Circle of Stars with the Astral Drif
 - **[Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/):** her fellow pilgrim on Necis.
 - **[Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Carlos Vega](/people/carlos-vega/):** crewmates who searched for her at Picon fifteen years later.
 - **Orion:** her space cat.
-</content>
-</invoke>

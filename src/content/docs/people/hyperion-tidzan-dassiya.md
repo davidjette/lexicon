@@ -179,5 +179,3 @@ Her faith is Hyperion. <small>(character sheet)</small>
 - **[Dr. Glup](/people/dr-glup/):** the ship's doctor, who told her of the mind flayer's mark on Carlos.
 - **[The Children of Hyperion](/organizations/the-children-of-hyperion/):** her temple, in which she is a Lesser Consular.
 - **[The SSJ Zanzibar](/items/the-ssj-zanzibar/):** her home.
-</content>
-</invoke>
