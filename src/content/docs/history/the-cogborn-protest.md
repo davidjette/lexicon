@@ -1,22 +1,24 @@
 ---
 title: The Cogborn protest, explosion and riot
 description: A peaceful Upper City march, a bomb nobody has ever claimed, sixty-four dead, and a live broadcast of the executions that followed.
+tags:
+  - Cogborn protest
+  - Cogborn riot
+  - POSE
+  - Candice Kurt
+  - R.U.S.T.
+  - Cogborn
+  - The Cogs
+  - Iron Veil
+  - Esther Crona
+  - Black Veil
+  - Sharn
+  - Richard Blaze
+  - Sister Nora
+image:
+  src: /images/uploads/cogborn-protest-2-mu0vlpx9.webp
 type: conflict
 kind: history
-tags:
-- Cogborn protest
-- Cogborn riot
-- POSE
-- Candice Kurt
-- R.U.S.T.
-- Cogborn
-- The Cogs
-- Iron Veil
-- Esther Crona
-- Black Veil
-- Sharn
-- Richard Blaze
-- Sister Nora
 icon: fa-people-group
 fields:
   type: Protest, bombing and reprisal
@@ -27,10 +29,10 @@ fields:
   imperial_account: Shots from within the protesters killed Candice Kurt; an assassination by protesters from the Cogs
   aftermath: Checkpoints dividing upper and lower city; raids and forced removals; Esther Crona's live executions from her Imperial warship
 sources:
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/key-figures.txt
-- worldanvil/sources/site/home.txt
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/key-figures.txt
+  - worldanvil/sources/site/home.txt
 published: '2026-09-10'
 wa:
   slug: the-cogborn-protest2C-explosion-and-riot-militaryConflict
