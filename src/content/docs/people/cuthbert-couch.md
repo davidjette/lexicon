@@ -68,6 +68,10 @@ published: '2026-09-10'
 wa:
   slug: cuthbert-couch-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/portraits/cuthbert-couch.webp
+  alt: 'Couch, grey-haired with a scar on his cheek, in a cream uniform and dark coat, holding a baseball bat'
+  caption: 'Couch in the Temple Holdings party portrait'
 ---
 
 **Human · Bard (College of Lore), Level 4 · Temple Holdings LLC · Chaotic Neutral · Alive**

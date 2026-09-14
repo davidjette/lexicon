@@ -52,6 +52,10 @@ published: '2026-09-10'
 wa:
   slug: stoth-youngglade-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/portraits/stoth-youngglade.webp
+  alt: 'Stoth in a green hood and leather armour, drawing a longbow'
+  caption: 'Stoth in the Temple Holdings party portrait'
 ---
 
 **Human · Rogue (Thief), Level 6 · Temple Holdings LLC, on terms · Chaotic Neutral · Returned from the deep past**

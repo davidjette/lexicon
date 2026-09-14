@@ -103,6 +103,10 @@ image:
   src: /images/cards/wainwright-st-cloud.webp
   alt: 'Ally card: Wainwright St. Cloud'
   caption: Ally card, Arc VIII
+gallery:
+- src: /images/portraits/wainwright-st-cloud.webp
+  alt: 'Wainwright St. Cloud, bald with a tuft of white hair and a monocle, in a grey and gold coat, holding a glowing blue crystal ball'
+  caption: 'Wainwright St. Cloud in the Temple Holdings party portrait'
 ---
 
 **Human · Warlock 17 / Rogue 3 (sheet) · Lawful Evil · Chairman of the Sword Coast Trading Company · High Counselor to the Emperor · Died in the Egg**

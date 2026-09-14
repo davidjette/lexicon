@@ -90,6 +90,10 @@ published: '2026-09-10'
 wa:
   slug: brother-magnus-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/portraits/brother-magnus.webp
+  alt: 'Brother Magnus, a dwarf with a braided red beard in green monk robes, holding the Helm of the Woods'
+  caption: 'Brother Magnus in the Temple Holdings party portrait'
 ---
 
 **Hill Dwarf · Cleric of Brightmantle · Temple Holdings LLC · Level 5 · Alive**

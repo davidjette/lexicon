@@ -74,6 +74,10 @@ redacted:
   label: A member of Temple Holdings LLC, erased by her own Wish
   reason: Obliviated by the Wish she cast at the Egg
   source: sources/dave/2026-09-12-stonecypher.md
+image:
+  src: /images/portraits/stonecypher.webp
+  alt: 'Eloise, a dark-skinned girl with long white hair, moth wings and a white-and-gold scarf, a white moth on her raised hand'
+  caption: 'Eloise in the Temple Holdings party portrait'
 ---
 
 **Changeling · Rogue / Warlock · Temple Holdings LLC · Player character (Nico) · Obliviated**

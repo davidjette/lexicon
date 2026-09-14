@@ -88,6 +88,10 @@ published: '2026-09-10'
 wa:
   slug: kara-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/portraits/kara.webp
+  alt: 'Kara, a brunette sorceress with copper dragon wings, a purple cloak and a brown tunic, a white mouse on her shoulder'
+  caption: 'Kara in the Temple Holdings party portrait'
 ---
 
 **Human · Sorcerer 16 / Wizard 2 · Temple Holdings LLC · Level 18 · Alive**

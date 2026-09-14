@@ -59,6 +59,10 @@ published: '2026-09-10'
 wa:
   slug: yoshi-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/portraits/yoshi.webp
+  alt: 'Yoshi, a gold dragonborn in gold plate armour, on a skateboard'
+  caption: 'Yoshi in the Temple Holdings party portrait'
 ---
 
 **Copper Dragonborn · Fighter (Eldritch Knight) · Temple Holdings LLC · Level 5 (later 15) · Alive**

@@ -68,6 +68,10 @@ published: '2026-09-10'
 wa:
   slug: revan-darkcember-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/portraits/revan-darkcember.webp
+  alt: 'Revan Darkcember, dark-skinned with braids, a round bladed shield, a spear and a staff with a glowing blue orb'
+  caption: 'Revan Darkcember in the Temple Holdings party portrait'
 ---
 
 **Masked Lord of Waterdeep as "the Panther" · Thane of Punis · Called "The Tempest" in the Company's files · Sable's brother · Vanished from view**

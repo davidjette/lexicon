@@ -25,6 +25,8 @@ tags:
   - Banefae
 image:
   src: /images/uploads/drefan-closeup-mu1uxbkc.webp
+  alt: 'Drefan, a white-haired wood elf with antlers and a long white moustache, in a dark leather coat'
+  caption: Drefan in the Temple Holdings party portrait
 type: person
 kind: people
 icon: fa-leaf

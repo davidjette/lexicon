@@ -107,6 +107,10 @@ image:
   src: /images/cards/zanzibar.webp
   alt: 'Ally card: Zanzibar, King of Punis'
   caption: Ally card, Arc VIII
+gallery:
+- src: /images/portraits/zanzibar.webp
+  alt: 'Zanzibar in gold-plated armour and crown, with a purple cape, a shield and a glass sword over his shoulder'
+  caption: 'Zanzibar in the Temple Holdings party portrait'
 ---
 
 **Species unknown · Crown Prince of Punis · Temple Holdings LLC / the royal house of Punis · Alive**

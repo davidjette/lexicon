@@ -113,6 +113,10 @@ published: '2026-09-10'
 wa:
   slug: roland-deschain-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/portraits/roland-deschain.webp
+  alt: 'Roland Deschain, a cowboy in a long duster, hat and red neckerchief, firing a revolver'
+  caption: 'Roland Deschain in the Temple Holdings party portrait'
 ---
 
 **Human · Ranger (gunslinger) and artificer · Temple Holdings LLC / Knights of the Order · Alive**
