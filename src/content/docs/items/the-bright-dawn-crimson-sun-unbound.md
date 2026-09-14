@@ -2,7 +2,24 @@
 title: The Bright Dawn (Crimson Sun Unbound)
 description: Vayrn Crona's Black-Khyber blade, the former Crimson Sun and Hexblade of Esther Crona. Freed of its bound soul, it became crystalline and now burns with radiant power in Gemma's hands.
 tags:
-  - The Bright Dawn (Crimson Sun Unbound)
+  - Bright Dawn
+  - Crimson Sun
+  - Crimson Sun Sword
+  - Vayrn Crona
+  - Vayrn
+  - Esther Crona
+  - Esther
+  - Gemma Corso
+  - longsword
+  - Black Khyber
+  - Shavat
+  - Kyber
+  - Eternal Guardian
+  - Hexblade
+  - Mourning
+  - Forge of Binding
+  - Rite of Recall
+  - Priest E'noch Qualanthri
 image:
   src: /images/uploads/bright-dawn-crimson-sun-unbound-mu0zsg0d.webp
 type: item
