@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 15 — The Forge of Binding
 description: The Forge of Binding is opened, Varyn Crona's Echo speaks its last words, and Esther drops through the ceiling on a drill.
+tags:
+  - Sharn Ep 15
+  - The Forge of Binding
+  - Varyn Crona
+  - E'noch Qualanthri
+  - Eternal Guardian
+  - Blood of Vol
+  - Mind Flayer
+  - Dhakaani
+  - Renn Tal
+  - Blair
+  - Esther Crona
+  - Rite of Recall
+image:
+  src: /images/uploads/sharn-ep-15-the-forge-of-binding-mu0ryp53.webp
 sidebar:
   order: 215
 type: report
 kind: sessions
-tags:
-- Sharn Ep 15
-- The Forge of Binding
-- Varyn Crona
-- E'noch Qualanthri
-- Eternal Guardian
-- Blood of Vol
-- Mind Flayer
-- Dhakaani
-- Renn Tal
-- Blair
-- Esther Crona
-- Rite of Recall
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-15-E28094-the-forge-of-binding-report
