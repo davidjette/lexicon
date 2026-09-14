@@ -12,6 +12,8 @@ tags:
 - St. Cloud Trading Company
 - Sword Coast Trading Company
 - Temple Holdings LLC
+- Temporal Holdings
+- Bank of Harloch
 - the Lexicon
 - the Sovereignty
 - Seekers
@@ -35,6 +37,7 @@ sources:
 - CANON.md 5ab
 - CANON.md 5ac
 - CANON.md 5l
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - Desktop/D&D/Dead Mans Hand/items/O3255.md
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2978, IMG_2979, IMG_2991, IMG_3002, IMG_3009, IMG_3018, IMG_3042, IMG_3064, IMG_3066, IMG_3067, IMG_3069, IMG_3079, IMG_3081, IMG_3083, IMG_3102, IMG_3103, IMG_3104, IMG_3105)
@@ -45,7 +48,7 @@ published: '2026-09-14'
 
 *Also known as:* the Company
 
-**Nimbus Corp** is the corporation that has been "the Company" since [Revan Darkcember](/people/revan-darkcember/) secretly bought the assets of the St. Cloud Trading Company at auction. When [Wainwright St. Cloud](/people/wainwright-st-cloud/) fled the "present" into the past, he left behind the St. Cloud Trading Company, the true Company, in [Sigil](/places/sigil/), born from the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) on Faerun. The heroes of the Ages of the Infanta ruined his tower, [the Lady of Pain](/people/the-lady-of-pain/) destroyed his home, and the Company's assets went up for auction. Revan bid in secret and beat the heroes' group bid, and [Temple Holdings LLC](/lore/temple-holdings-llc/) lost the auction to Nimbus Corp. Revan headed Nimbus Corp until his disappearance, about two hundred years after the Ages of the Infanta.
+**Nimbus Corp** is the corporation that has been "the Company" since [Revan Darkcember](/people/revan-darkcember/) secretly bought the assets of the St. Cloud Trading Company at auction. When [Wainwright St. Cloud](/people/wainwright-st-cloud/) fled the "present" into the past, he left behind the St. Cloud Trading Company, the true Company, in [Sigil](/places/sigil/), born from the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) on Faerun. The heroes of the Ages of the Infanta ruined his tower, [the Lady of Pain](/people/the-lady-of-pain/) destroyed his home, and the Company's assets went up for auction. Revan bid in secret and beat the heroes' group bid, and [Temple Holdings LLC](/lore/temple-holdings-llc/) lost the auction to Nimbus Corp. Temple Holdings and its **Bank of Harloch** persisted well into the future all the same; the company was rebranded Temporal Holdings after the Ages of the Infanta, and Sovereign currency is nicknamed "Harlochs" because of the bank. <small>(Dave, 2026-09-14)</small> Revan headed Nimbus Corp until his disappearance, about two hundred years after the Ages of the Infanta.
 
 In time Nimbus Corp became critical to the astral travel of Faerun and the associated realms, and consolidated power until it was the largest private company in the known universe. Nimbus Corp and [the Lexicon](/items/the-lexicon/) came together, and Nimbus became a major arm of the Lexicon's control over [the Sovereignty](/lore/starfall-the-next-generation/). [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages of the Infanta, is set at the beginning of that consolidation, while behind the scenes the Company, the Church of Cypher and many others try to create more Lexicons, copy the original, or avoid domination by it.
 
@@ -85,7 +88,7 @@ Outside [the Grub + Grog](/places/the-grub-and-grog/) in Waterdeep, Holhertz too
 
 ## In Waterdeep
 
-In Waterdeep's plots and power plays the Company is paired with the Zhentarim: "Trade giant driven underground, joined with black market merchants in Skull port." Its allies are "whoever helps" and its enemy is [the Empire](/organizations/the-cormyrean-empire/). Its plots are "playing factions against e/o", and it "WILL GRANT LEX TO VARKUS to win WAR". Dyksterhaus, the Unmasked Lord who desires independence from Cormyr, counts the Company and the Zhentarim among his allies, and among the threats to him that "Company/Zhents double cross him". [General Varkus](/people/peterbilt-varkus/) plots to "Flip the company, install new unmasked lord". <small>(DM notes, Waterdeep plots and power plays)</small>
+In Waterdeep's plots and power plays the Company is paired with the Zhentarim: "Trade giant driven underground, joined with black market merchants in Skull port." Its allies are "whoever helps" and its enemy is [the Empire](/organizations/the-cormyrean-empire/). Its plots are "playing factions against e/o". Dyksterhaus, the Unmasked Lord who desires independence from Cormyr, counts the Company and the Zhentarim among his allies, and among the threats to him that "Company/Zhents double cross him". [General Varkus](/people/peterbilt-varkus/) plots to "Flip the company, install new unmasked lord". <small>(DM notes, Waterdeep plots and power plays)</small>
 
 ## Containment
 
