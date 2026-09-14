@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 7 — The Glitterhame and the Grave Robbers
 description: The Glitterhame's fungal bloom takes hold of Eric, the kin of Rak'tafur name the party grave robbers, and the Thirteenth Casting is found.
+tags:
+  - Korth Ep 7
+  - The Glitterhame and the Grave Robbers
+  - Glitterhame
+  - Shavat
+  - Black Khyber
+  - Rak'tafûr
+  - Madame Tso Teryaki
+  - Deeptempura Clan
+  - Thirteenth Casting
+  - Belt of Dwarvenkind
+  - John C. LeBeefe
+  - Grell
+image:
+  src: /images/uploads/korth-ep-7-the-glitterhame-and-the-grave-mu0shn0g.webp
 sidebar:
   order: 307
 type: report
 kind: sessions
-tags:
-- Korth Ep 7
-- The Glitterhame and the Grave Robbers
-- Glitterhame
-- Shavat
-- Black Khyber
-- Rak'tafûr
-- Madame Tso Teryaki
-- Deeptempura Clan
-- Thirteenth Casting
-- Belt of Dwarvenkind
-- John C. LeBeefe
-- Grell
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-7-E28094-the-glitterhame-and-the-grave-robbers-report
