@@ -1,39 +1,39 @@
 ---
 title: Project E.D.E.N.
 description: 'BioTec''s secret hybridisation programme: undead-warforged supersoldiers built from harvested corpses, Umbra and Black Dove rites, named for its first subject.'
+tags:
+  - Project EDEN
+  - Project E.D.E.N.
+  - EDEN
+  - E.D.E.N.
+  - EDN-00
+  - Eden
+  - Blue Devil
+  - BioTec
+  - Joanne Menka
+  - Sister Nora
+  - Edwin Graves
+  - Umbra
+image:
+  src: /images/site/project-e-d-e-n-3.webp
+  alt: Project E.D.E.N.
 type: organization
 kind: organizations
-tags:
-- Project EDEN
-- Project E.D.E.N.
-- EDEN
-- E.D.E.N.
-- EDN-00
-- Eden
-- Blue Devil
-- BioTec
-- Joanne Menka
-- Sister Nora
-- Edwin Graves
-- Umbra
 icon: fa-skull-crossbones
 fields:
   type: Military — classified Imperial hybridisation programme
   alternativename: Project EDEN
 sources:
-- worldanvil/sources/site/biotec.txt
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/pose-mission-notes.txt
-- worldanvil/sources/site/children-of-ember.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
+  - worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/pose-mission-notes.txt
+  - worldanvil/sources/site/children-of-ember.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: project-eden-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
-image:
-  src: /images/site/project-e-d-e-n-3.webp
-  alt: Project E.D.E.N.
 gallery:
   - src: /images/site/project-e-d-e-n-1.webp
     alt: Project E.D.E.N.
@@ -107,3 +107,5 @@ None of that recalls a unit already in the field. Eden units were still operatin
 **Members:** EDN-00 (Eden, prototype) · Unit 0.3 and at least two others held in Sharn containment · at least eight refined units operating in the west
 
 **Command:** Dr. Joanne Menka (scientific lead) · Supreme Admiral Vex d'Lyrandar (deployment) · Esther Crona (authority) · Empress Uriel Qualanthri (doctrine)
+
+![Eden with EDEN Units.png](/images/uploads/eden-with-eden-units-mu0vfurv.webp)
