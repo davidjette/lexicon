@@ -1,41 +1,41 @@
 ---
 title: The Iron Veil
 description: Sharn's City Watch, dissolved and absorbed into Esther Crona's pact-bound army - and unmade citywide the instant she said 'Your pact is void.'
-type: organization
-kind: organizations
 tags:
-- The Iron Veil
-- Iron Veil
-- Sharn City Watch
-- Esther Crona
-- Veil Building
-- ArcEye
-- Arcane Eye
-- Hillary Heinrick
-- Stockton Thar
-- Crona's Wall
-- Fort Crona
-- Veil Hound
-icon: fa-shield-halved
-fields:
-  type: Military, Secret Police, Internal Security
-sources:
-- sources/site/home.txt
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/esther-crona.txt
-- sources/site/key-figures.txt
-- sources/site/ebt-7.txt
-- sources/site/mission-board.txt
-- worldanvil/CANON.md
-published: '2026-09-10'
-wa:
-  slug: the-iron-veil-organization
-  category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+  - The Iron Veil
+  - Iron Veil
+  - Sharn City Watch
+  - Esther Crona
+  - Veil Building
+  - ArcEye
+  - Arcane Eye
+  - Hillary Heinrick
+  - Stockton Thar
+  - Crona's Wall
+  - Fort Crona
+  - Veil Hound
 image:
   src: /images/site/the-iron-veil-1.webp
   alt: Iron Veil Soldier
   caption: Iron Veil Soldier
+type: organization
+kind: organizations
+icon: fa-shield-halved
+fields:
+  type: Military, Secret Police, Internal Security
+sources:
+  - sources/site/home.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/esther-crona.txt
+  - sources/site/key-figures.txt
+  - sources/site/ebt-7.txt
+  - sources/site/mission-board.txt
+  - worldanvil/CANON.md
+published: '2026-09-10'
+wa:
+  slug: the-iron-veil-organization
+  category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
 ---
 
 **Type:** Military, Secret Police · **Seat:** the Veil Building, Upper City, Sharn · **Status:** Dissolved; remnant active
@@ -103,3 +103,5 @@ The remnant has no patron and hides in a city that hunts it. The Empire's forces
 **Assets:** The Arcane Eye Security Network and its Crystallizer archive in the Sharn Library. Veil Hounds. The airship **Black Veil**, thrown by its own commander into a statue of the Empress. Airframes built by House Lyrandar.
 
 **The Pact:** every soldier received a longsword pact weapon and warlock spellcasting, bound to Esther Crona personally, and it made "an almost ritualistic loyalty" a literal description.
+
+![Patrol beast Iron Veil .png](/images/uploads/patrol-beast-iron-veil-mu0vjomr.webp)
