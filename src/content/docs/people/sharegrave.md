@@ -68,7 +68,7 @@ During their first days in Sigil the party killed Fieldy Smuts, a smuggler who h
 
 ## Rotten William's contract
 
-In the Spillway the party invaded Rotten William's hideout, rescued Prez, and made a deal with Rotten William to kill Sharegrave with a wand. <small>(DM notes, play log)</small> Rotten William told them the wand would paralyse Sharegrave and track them; in fact it held a single charge of *fireball* and a *command* to cast it in Sharegrave's presence. <small>(DM notes)</small>
+In [the Spillway](/places/the-spillway/) the party invaded Rotten William's hideout, rescued Prez, and made a deal with Rotten William to kill Sharegrave with a wand. <small>(DM notes, play log)</small> Rotten William told them the wand would paralyse Sharegrave and track them; in fact it held a single charge of *fireball* and a *command* to cast it in Sharegrave's presence. <small>(DM notes)</small>
 
 Sharegrave had thought Prez dead, and on his return suspected him of turning coat. He knew the party had been sent by Rotten William, meant to interrogate and kill them, and told his gang to act normally and lure them into a trap. <small>(DM notes)</small> Once he had them, his counter-offer was to double-cross Rotten William and kill him, for 200 gold each. <small>(DM notes)</small> The plan to kill Sharegrave was dropped from the party's list of quests.
 

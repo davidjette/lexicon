@@ -35,6 +35,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- Nico's Sharn DM notes (character ideas)
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
@@ -122,6 +123,8 @@ She believes that a person can be studied until they can be worn, and that this 
 **Origin.** Her adoptive father was an old man named **Jane Corso** <small>(also written Croso)</small>, who had bargained with the archfey Kitsune for freedom and power; when Jane died, the pact passed to her. By Nico's account Jane was a soldier in the Last War, which is how he knew the Colonel, and he met Kitsune during that war. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small> Gemma grew up in Newham, working at Jane's junkyard; he taught her to cast magic as a child, pulling a sword from thin air among it, and called her his little fox. She left Newham years ago to travel and wander, and came back to Newham and to him after escaping an arrest "for walking down the street". <small>(Oral Histories: The Inevitables, 2025-06-07; 2026-07-06)</small> By Nico's account she also left owed money behind: "The vampires at Club Mawniq owe me money" / "Gemma skipped town and never got her last paycheck". <small>(Oral Histories: The Inevitables, 2025-09-27)</small> Years later, in the desert rail-town of Leef, she met Dario and Eric; the three of them broke Grand Duke John C. LeBeefe's hold on the east, were named the Heroes of Leef, and then went west to Newham and killed him — at the cost of the city itself, which collapsed into the New Mourning. From there the three of them were sent into Sharn to steal a prototype called the Ghost Chip, and never came back out of the war.
 
 Jane was killed during [the fighting in Leef and Newham](/history/the-leef-newham-arc/). Kitsune, who has shown himself to Gemma as a fox, a male human magician and a small fox-humanoid, never really showed himself to her until after Jane died. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small>
+
+Nico's Sharn DM notes give a second account of Gemma's early life. Ten years before the Sharn arc she was taken from the Monster Lands at the age of 11 and brought to Newham as a slave. Soon after she arrived slavery was outlawed, and she lived on the streets of Newham, stealing to survive. One night a guard caught her stealing food and chased her down a dark street; when he was about to attack her she pulled a dagger and killed him. An old man, Jane Corso, saw it happen, took her in and fed her, and she grew up with him as her adopted father. He taught her warlock magic. In this account Jane was killed by imperial soldiers, and Gemma seemed to take on his pact with Kitsune. <small>(Nico's Sharn DM notes, "Character ideas"; sources/dave/2026-09-14-eberron-open-questions.md)</small>
 
 ## The teleportation chip
 

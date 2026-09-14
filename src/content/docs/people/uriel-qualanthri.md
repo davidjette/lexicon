@@ -25,7 +25,7 @@ fields:
   children: Fourteen daughters by Emperor Caius III, many of them twins, all under twelve. No son. Pregnant with the Scion, the unborn son she means never to bear.
   residence: The Ivory Lazaret, on the Summer Palace grounds upriver of Korth (defensible mountains northeast of Qarth)
   gender: Female
-  age: 140 as recorded at the founding of the Unforeseen; a decade and more has passed since
+  age: Older than Kaius I (Dave); recorded as 140 at the founding of the Unforeseen
   eyes: Gold, and shining with judgement
   hair: Unknown
   skin: Unknown; marked with the Dragonmark of Death between navel and loins
@@ -95,6 +95,8 @@ Uri believes that all but elvish life is cheap, and that the undead will ravage 
 As a conscripted combat medic for the Pax Imperium, Uri is an angel of death on the battlefield, saving the lives of those they consider worthy and either quiet or viciously ending those they do not. They are careful not to reveal their cruel nature to outsiders and even other Black Doves, and they frequently cross the line into murder when it suits them.
 
 Uriel came to Eberron against the wishes of her parents, who are elders in Aerenal and did notthink the high elves should get involved in the Great War. Uriel wanted to kill and use magic and got to do plenty of that. At some point, Uriel developed the Mark of Death. Haven’t filled in that detail yet of how or when. Either way, it means Uriel descends from the House of Vol, which was eradicated by humans, giants and “good” elves thousands of years ago. It’s leader, Erandis Vol, was the Queen of Death, a half dragon half elf that ruled over undeath. She’s Uriel’s ancestor. Uriel wants to be like her mother and fuck Kaius and give birth to the next Dragon/Elf demigod. She believes Kaius is a dragon in disguise, and may also be her relative from the same line. She believes the Vol bloodline is superior and should rule all of Eberron as an undead wonderland.
+
+Uriel is older than Kaius I, and was a neophyte when [Priest E'noch Qualanthri](/people/priest-e-noch-qualanthri/) and [Varyn Crona](/people/varyn-crona/) hatched their plan. <small>(Dave, sources/dave/2026-09-14-eberron-open-questions.md)</small> The age of 140 in her entry dates from the founding of the Unforeseen.
 
 In the short term, Uriel is working on death sex magic to be ready for the opportunity to carry the child of an evil undead dragon. She aims to expose and command the Black Doves and turn them into her own personal army of Necromantic warrior priests, on behalf of her future husband Kaius. <small>(That entry was written at the founding of the Unforeseen.)</small>
 

@@ -34,7 +34,7 @@ published: '2026-09-14'
 
 **Leef arc · Episode 16 · DM: JL**
 
-**Leef Ep 16 — The Mega Heist** is the sixteenth session of [the Leef / Newham arc](/history/the-leef-newham-arc/) of *Unforeseen Strikes Back*, run by JL. Played in [Newham](/places/newham/) on 21 November 2025, it saw the party pull off what Dave called "a mega heist". **Inspector LeGranouille**, an inspector in the service of Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/), watched it and joined them, though Dave judged him still "a risk to turn on us" if LeBeefe controlled his mind. <small>(Oral Histories: The Inevitables, 2025-11-22)</small>
+**Leef Ep 16 — The Mega Heist** is the sixteenth session of [the Leef / Newham arc](/history/the-leef-newham-arc/) of *Unforeseen Strikes Back*, run by JL. Played in [Newham](/places/newham/) on 21 November 2025, it saw the party pull off what Dave called "a mega heist". **Inspector LeGranouille**, an inspector in the service of Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/), watched it and joined them, though Dave judged him still "a risk to turn on us" if LeBeefe controlled his mind. <small>(Oral Histories: The Inevitables, 2025-11-22)</small> LeGranouille was LeBeefe in disguise, and his turn was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small>
 
 ## Summary
 
@@ -54,8 +54,9 @@ Nico answered that "He made it seem like only when he came face to face with bee
 ## Revelations
 
 - Inspector LeGranouille works for LeBeefe and commands troops of his own. By his own account, as Nico reported it, his trouble with LeBeefe's mind control comes only face to face with the Grand Duke. <small>(Oral Histories: The Inevitables, 2025-11-10; 2025-11-22)</small>
+- Inspector LeGranouille was LeBeefe in disguise, following with the party the whole time. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small>
 - LeBeefe's troops are all mind flayers, and he holds a castle. <small>(Oral Histories: The Inevitables, 2025-11-22)</small>
 
 ## Cast
 
-[Gemma Corso](/people/gemma-corso/) · [Sir Dario Argentino](/people/sir-dario-argentino/) · [Eric the Cleric](/people/eric-the-cleric/) · Inspector LeGranouille · [John C. LeBeefe](/people/john-c-lebeefe/), named.
+[Gemma Corso](/people/gemma-corso/) · [Sir Dario Argentino](/people/sir-dario-argentino/) · [Eric the Cleric](/people/eric-the-cleric/) · [Inspector LeGranouille](/people/inspector-legranouille/) (LeBeefe in disguise) · [John C. LeBeefe](/people/john-c-lebeefe/), named.

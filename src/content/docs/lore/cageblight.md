@@ -35,7 +35,7 @@ published: '2026-09-14'
 
 **Also known as:** Cage Blight
 
-**Cageblight** is a virulent disease that took hold in [the Hive Ward](/places/the-hive-ward/) of [Sigil](/places/sigil/), afflicting the poor, the destitute and workers. It greys the skin, brings hallucinations and a nightmarish fear of containment, and ends in necrosis, respiratory failure and madness. Its source was a portal to a plague dimension that had opened in a drain in the Spillway, poisoning the water system. Hunting [Rotten William](/people/rotten-william/) into the Spillway Depths, the party found the portal, killed the plague demon Gorelach and Gunt, saved the Bleaker intern Craig and closed it. By closing the portal, they cured Cageblight.
+**Cageblight** is a virulent disease that took hold in [the Hive Ward](/places/the-hive-ward/) of [Sigil](/places/sigil/), afflicting the poor, the destitute and workers. It greys the skin, brings hallucinations and a nightmarish fear of containment, and ends in necrosis, respiratory failure and madness. Its source was a portal to a plague dimension that had opened in a drain in [the Spillway](/places/the-spillway/), poisoning the water system. Hunting [Rotten William](/people/rotten-william/) into the Spillway Depths, the party found the portal, killed the plague demon Gorelach and Gunt, saved the Bleaker intern Craig and closed it. By closing the portal, they cured Cageblight.
 
 ## In the Hive Ward
 

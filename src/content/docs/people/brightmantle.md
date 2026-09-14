@@ -140,7 +140,7 @@ At the impromptu funeral, with the armies of the world already assembling for th
 
 ## Dead Man's Hand
 
-Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), [Diana Rhea](/people/diana-rhea/), a healer of the Bleak Cabal in [Sigil](/places/sigil/), is a cleric of Brightmantle of the Knowledge domain. <small>(DM notes)</small> In [Undermountain](/places/undermountain/), Motherstone Hall, Halaster's exhibit of Motherstone architecture and relics stolen over the centuries, was "Built before any obliviation was lifted on Brightmantle, so constructed with profound mystery around the origin of the city." <small>(DM notes)</small>
+Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), [Diana Rhea](/people/diana-rhea/), a healer of the Bleak Cabal in [Sigil](/places/sigil/), is a cleric of Brightmantle of the Knowledge domain. <small>(DM notes)</small> In [Undermountain](/places/undermountain/), Motherstone Hall, [Halaster](/people/halaster-blackcloak/)'s exhibit of Motherstone architecture and relics stolen over the centuries, was "Built before any obliviation was lifted on Brightmantle, so constructed with profound mystery around the origin of the city." <small>(DM notes)</small>
 
 ## Status
 

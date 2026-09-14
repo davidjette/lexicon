@@ -100,7 +100,7 @@ Rex Bedsheets is a debt-bound warlock of a Mummy Lord. While Rex is alive and in
 
 ## Star
 
-In Motherstone Hall, on Level 2 of [Undermountain](/places/undermountain/), where Halaster assembled segments of Motherstone architecture, tombs, statuary and relics stolen over the centuries, the tomb of Daenan Gallidan of [House Gallidann](/organizations/house-gallidann/) is empty except for Star. <small>(DM notes)</small>
+In Motherstone Hall, on Level 2 of [Undermountain](/places/undermountain/), where [Halaster](/people/halaster-blackcloak/) assembled segments of Motherstone architecture, tombs, statuary and relics stolen over the centuries, the tomb of Daenan Gallidan of [House Gallidann](/organizations/house-gallidann/) is empty except for Star. <small>(DM notes)</small>
 
 ## Keeping the cards
 

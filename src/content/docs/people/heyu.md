@@ -20,6 +20,9 @@ tags:
   - Fort Maximillien
   - Undermountain
   - Nicollo
+  - Lexicon
+  - share of the Lex
+  - Vel Crow
 type: person
 kind: people
 icon: fa-feather
@@ -47,16 +50,34 @@ sources:
   - CANON.md 5ac
   - CANON.md 5ad
   - sources/dave/2026-09-14-heyu-and-feng.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - CANON.md 5ai (Oral Histories)
+  - "Oral Histories: The Inevitables, 2024-01-20"
+  - "Oral Histories: The Inevitables, 2024-01-27"
+  - "Oral Histories: The Inevitables, 2024-05-26"
+  - "Oral Histories: The Inevitables, 2024-06-24"
+  - "Oral Histories: The Inevitables, 2024-09-15"
+  - "Oral Histories: The Inevitables, 2024-09-17"
+  - "Oral Histories: The Inevitables, 2024-09-18"
+  - "Oral Histories: The Inevitables, 2025-09-21"
+  - "Oral Histories: The Inevitables, 2025-10-31"
+  - "Oral Histories: The Inevitables, 2025-11-09"
+  - "Oral Histories: The Inevitables, 2026-03-08"
+  - "Oral Histories: The Inevitables, 2026-04-26"
 published: '2026-09-14'
 ---
 
 **Kenku · Investigator wizard · Follower of Cypher · Private detective · Alive**
 
-Heyu is a kenku investigator wizard, a follower of Cypher and a private detective in Plaguemort, and one of the fatemarked party of [Dead Man's Hand](/lore/dead-mans-hand/). When the soul of the murdered [Feng Milosh](/people/feng-milosh/) crossed the Outlands to her, the divine will of Cypher sent her to [Sigil](/places/sigil/) to recover the FATES card from his corpse in [the Mortuary](/places/the-mortuary/) for his daughter. She survived an attack by thugs working for [Rotten William](/people/rotten-william/) while looking for a way into the Mortuary, and they took her spellbook. With the party she took the card from Feng's boot, recovered the spellbook, and fought through [the Hive Ward](/places/the-hive-ward/) with the party. At [Our Lady of Mysteries](/places/our-lady-of-mysteries/) she was brought before the Factol of the Faceless. In [Waterdeep](/places/waterdeep/) she escaped arrest after [the Grub + Grog](/places/the-grub-and-grog/), broke into [Fort Maximillien](/places/fort-maximillien/) with [Nicollo](/people/nicollo/), and went down the fort's trash pit into [Undermountain](/places/undermountain/) with [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and [Rodriel](/people/rodriel/).
+Heyu is a kenku investigator wizard, a follower of Cypher and a private detective in [Plaguemort](/places/plaguemort/), and one of the fatemarked party of [Dead Man's Hand](/lore/dead-mans-hand/). When the soul of the murdered [Feng Milosh](/people/feng-milosh/) crossed the Outlands to her, the divine will of Cypher sent her to [Sigil](/places/sigil/) to recover the FATES card from his corpse in [the Mortuary](/places/the-mortuary/) for his daughter. She survived an attack by thugs working for [Rotten William](/people/rotten-william/) while looking for a way into the Mortuary, and they took her spellbook. With the party she took the card from Feng's boot, recovered the spellbook, and fought through [the Hive Ward](/places/the-hive-ward/) with the party. At [Our Lady of Mysteries](/places/our-lady-of-mysteries/) she was brought before the Factol of the Faceless. In [Waterdeep](/places/waterdeep/) she escaped arrest after [the Grub + Grog](/places/the-grub-and-grog/), broke into [Fort Maximillien](/places/fort-maximillien/) with [Nicollo](/people/nicollo/), and went down the fort's trash pit into [Undermountain](/places/undermountain/) with [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and [Rodriel](/people/rodriel/).
 
 ## Physical description
 
 A "Ravenkin (humanoid crow) wizard and investigator": small, two and a half feet tall, cloaked and feathered, with a magical floating moonstone focus. "Sharp-eyed and sneaky, curious, arcane." <small>(Character roster)</small>
+
+## A share of the Lex
+
+Heyu possesses a share of the Lex, a [lexical entity](/lore/lexical-entities/). Dave: "Heyu has share of lex and both Nik and Lenore are constructs", and "If half the party is or possesses lexical entities". <small>(Oral Histories: The Inevitables, 2024-05-26)</small>
 
 ## Feng Milosh's commission
 
@@ -72,19 +93,23 @@ The party know that Shemeska hired [Jeremiah](/people/jeremiah/) to hunt them do
 
 Outside the Mortuary the party escaped death, were jumped by thugs, fought Ratbone in the street and took him into custody, and learned of [Cageblight](/lore/cageblight/). A non-verbal corpse-picker let them know only that he was [Pharod](/people/pharod/)'s. Recovering Heyu's spellbook was the party's first quest: Ratbone turned out to work for [Sharegrave](/people/sharegrave/), not Rotten William, and a thug called "Enya", who does work for Rotten William, had the book. It was recovered.
 
-With the party Heyu went on to kill Vanda, make camp in a Hive apartment, raid Rotten William's hideout in the Spillway and rescue [Prez](/people/prez/), and work off Sharegrave's debts while BattleBeast fought at [the Grindhouse](/places/the-grindhouse/). The tattoo artist Fell looked at their marks and said: "It's not one of mine. It's a Fatemark." The party cornered Rotten William in the Spillway depths, killed him and Gorelach and Gunt, closed the portal poisoning the water, and cured Cageblight, winning [the Bleak Cabal](/organizations/the-bleak-cabal/) as a faction ally.
+With the party Heyu went on to kill Vanda, make camp in a Hive apartment, raid Rotten William's hideout in [the Spillway](/places/the-spillway/) and rescue [Prez](/people/prez/), and work off Sharegrave's debts while BattleBeast fought at [the Grindhouse](/places/the-grindhouse/). The tattoo artist Fell looked at their marks and said: "It's not one of mine. It's a Fatemark." The party cornered Rotten William in the Spillway depths, killed him and Gorelach and Gunt, closed the portal poisoning the water, and cured Cageblight, winning [the Bleak Cabal](/organizations/the-bleak-cabal/) as a faction ally.
+
+JL, on Heyu's aims in Sigil: "Heyu is not telling the other players this, but she’s hoping to build an empire here on Sigil and she sees a gang war as a way to start." <small>(Oral Histories: The Inevitables, 2024-09-15)</small>
 
 ## Saltmarsh
 
 In [Saltmarsh](/places/saltmarsh/) the party reached the hidden temple of Neptune beneath a whirlpool and saw the desecrated altar with the corpse of [Aqueus](/people/aqueus/). In [the Blackfish Encounter](/history/the-blackfish-encounter/) they killed Jeremiah, though not permanently: shot in the head, pierced through the throat and castrated, he revived. They learned his nature, and kept the **FATES** card from Keisha Milosh: "You found it, its brought you luck. You keep it. And you kill the thing thats hunting it." <small>(Keisha Milosh, DM notes)</small>
 
+With that, Heyu's personal plot was complete. <small>(Dave, Oral Histories: The Inevitables, 2025-09-21)</small> Her family lives in Plaguemort, and adventuring money could move them into a better neighbourhood there. <small>(Dave, same day)</small> Her husband is Vel Crow, a human. <small>(JL, same day)</small>
+
 ## Our Lady of Mysteries
 
-Heyu went to Our Lady of Mysteries, the towering cathedral of [the Sororia](/organizations/the-sororia/), where masked nuns and acolytes bustle among complex geometric art and architecture in which "no image of a god or truly any recognizable creature, object, or work are depicted." <small>(DM notes)</small> She was welcomed to an altar bearing a fractal mosaic and a silver candle. After she rolled on the Vision Table, the Faceless surrounded her and brought her to the Factol.
+Heyu, wanting to know whether she should sell the card and go home or keep adventuring <small>(JL, Oral Histories: The Inevitables, 2025-10-31)</small>, went to Our Lady of Mysteries, the towering cathedral of [the Sororia](/organizations/the-sororia/), where masked nuns and acolytes bustle among complex geometric art and architecture in which "no image of a god or truly any recognizable creature, object, or work are depicted." <small>(DM notes)</small> She was welcomed to an altar bearing a fractal mosaic and a silver candle. After she rolled on the Vision Table, the Faceless surrounded her and brought her to the Factol.
 
 The Vision Table's visions include "LENORE KILLS LENORE", "SHADOWHIGH OUTDRAWN", "BAROLD DRINKS TO DEATH", "NICOLO CUTS MAN'S THROAT", "BATTLEBEAST TURNED STONE", "RODRIEL KILLS YOUNGLINGS" and "HEYU'S FAMILY BURNED", each with "a feeling that this is because they didn't recover the cards." A visitor can return and pray for a five-gold donation, once a day. <small>(DM notes)</small>
 
-The Factol is [Brother Montegue](/people/brother-montegue/), Factol of the Faceless (Sorority of Order), an "Attractive young Orcish priest (w/BD energy)" whose magic word is "STONE". <small>(DM notes)</small> He looks like an orcish BD Wong. <small>(Dave)</small> He asks Heyu "Why did you come here?", "How did you come by this?", "Who do you call friends?", "What do you fear?" and "What do you love?", and tells her:
+The Factol is [Brother Montegue](/people/brother-montegue/), Factol of the Faceless (Sorority of Order), an "Attractive young Orcish priest (w/BD energy)" whose magic word is "STONE". <small>(DM notes)</small> He looks like an orcish BD Wong. <small>(Dave)</small> The Factol of the Sororia is [the Lexicon](/items/the-lexicon/). Dave to the players: "I have to assume you guys assumed the Factol with BD energy is the OG Lexi". <small>(Oral Histories: The Inevitables, 2025-11-09)</small> He asks Heyu "Why did you come here?", "How did you come by this?", "Who do you call friends?", "What do you fear?" and "What do you love?", and tells her:
 
 > "You bear the mark of the Mother of Mysteries and her sisters. You were meant to bear it, and to hold the Cards. Find them, for her; return this piece of her holy Memory."
 >
@@ -106,8 +131,18 @@ When the Purple Dragons took the others, Heyu stayed among the crowd of traumati
 
 They landed on smooth stone in the pitch black of Undermountain. Heyu raised a translucent magical sheltering dome from her wand, and Lenore put on the black leather armor Heyu had saved from a defeated foe. At dawn the bodies of Shadowhigh, Maverick and [Barold Bonds](/people/barold-bonds/) fell onto the dome. [Tripp Sandhill](/people/tripp-sandhill/) raised the fallen for a hefty prize, and the party helped him avenge the death of his own adventuring party.
 
+A session in Undermountain in April 2026 ended with a sword attached to Heyu's hand. <small>(Dave, Oral Histories: The Inevitables, 2026-04-26)</small>
+
 Heyu, Shadowhigh, Lenore, Maverick, BattleBeast, [Rodriel](/people/rodriel/) and Barold recovered the mission file for [O-3255](/items/o-3255/), met [Soggy Blankets](/people/soggy-blankets/), and cleared the first level, where Heyu got a **circlet of blasting**, an uncommon circlet that casts scorching ray. The party descended to the second level, the Arcane Chambers.
 
 ## The fatemark
 
 The cards of Heyu's [fatemark](/lore/fatemarks/), drawn from [the Deck of Many Things](/items/the-deck-of-many-things/), are Balance, Well, Tomb, Tower, Tree, Euryale, Celestial, Star, Temple, Ship and Fates. <small>(DM notes)</small>
+
+**Magic:** Heyu can cast *summon beast* and *summon fey* without a spell slot once per long rest. <small>(JL, Oral Histories: The Inevitables, 2026-03-08)</small> The spells need a gilded trinket: "you gotta find a gilded trinket or mark one by melting some gold", and "You can melt gold in a very hot campfire". Of *Leomund's tiny hut*: "Leomunds very good for Undermountain". <small>(Dave, Oral Histories: The Inevitables, 2026-03-08)</small>
+
+## At the table
+
+JL plays Heyu. She was first his Order Cleric <small>(Oral Histories: The Inevitables, 2024-01-20)</small>, then a "Kenku detective?" <small>(2024-01-27)</small>. Under the 2024 rules JL asked to rebuild her as an illusion wizard, "Keeping the same spell book and ability scores", and Dave replied, "Yeah I’m fine with that". <small>(Oral Histories: The Inevitables, 2024-09-17 and 2024-09-18)</small>
+
+After an early session JL wrote, "Heyu is going to get her moonstone back.", and Dave: "So far heyu is the main character! She’s getting all the big inciting incidents". <small>(Oral Histories: The Inevitables, 2024-06-24)</small>

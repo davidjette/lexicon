@@ -72,6 +72,8 @@ sources:
   - sources/dave/2026-09-14-fort-maximillien-as-played.md
   - CANON.md 5ac
   - CANON.md 5af
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - "Oral Histories: The Inevitables, 2025-09-21"
 published: '2026-09-10'
 wa:
   slug: maverick-person
@@ -98,6 +100,8 @@ A dark elf bard prince "with an air of black excellence": dark skin, romantic wh
 
 Maverick is a distant descendant of Revan Darkcember, who headed [Nimbus Corp](/organizations/nimbus-corp/) until he vanished about three hundred years before Maverick's time, and after the Klaxons he is heir to Tiffany House. His uncle is JG Wentworth. <small>(DM notes)</small>
 
+The house carries an old debt to Asmodeus, which rides Revan's line forever and which [Darius Klaxon](/people/darius-klaxon/) bears now. Darius wanted to take the RUIN card to disinherit himself, and Nicollo talked him out of it; had he taken it, Tiffany House would have fallen to Maverick. The characters did not know this at the time. <small>(Dave, 2026-09-14)</small>
+
 ## The Rock of Bral
 
 At the casino on the Rock of Bral, Maverick was given a tip about a trick roulette table. There he ran into his uncle JG Wentworth, who cursed him about his parents' assets and stormed out. He attempted to seduce a Vampirate, and he was ambushed by a handsome man with a sleep potion. <small>(DM notes)</small> Like each of his companions, he was killed by Jeremiah, the handsome man with the glowing sword.
@@ -115,6 +119,10 @@ He woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) with
 - *Footjob with Hooves*
 
 Sir Guy Standing lost a Ring of Jumping and a Blade of Woe to Maverick, and Maverick sold the Blade of Woe to [Shemeska](/people/shemeska/). Standing is furious, holds a blood vendetta against him, and means to hire [Rotten William](/people/rotten-william/) to murder him and get it back. His killers may wait for Maverick at [Fortune's Wheel](/places/fortunes-wheel/), where the plan is for someone to divert him through the kitchen and blast him with a firebolt. Sir Guy Standing and JG Wentworth are both counted among the party's rivals. <small>(DM notes)</small>
+
+## Saltmarsh
+
+Maverick has a quill that writes people's last words. At the resolution of [Gabriella Hellwood](/people/gabriella-hellwood/) in [Saltmarsh](/places/saltmarsh/) it took down her last words, and she got to tell her story. <small>(Dave, Oral Histories: The Inevitables, 2025-09-21)</small>
 
 ## Waterdeep
 

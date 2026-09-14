@@ -37,7 +37,7 @@ published: '2026-09-14'
 
 **Cleric of [Brightmantle](/people/brightmantle/) · Knowledge domain · Healer of the [Bleak Cabal](/organizations/the-bleak-cabal/) · The Gatehouse, [Sigil](/places/sigil/) · Alive**
 
-Diana Rhea is a healer of the [Bleak Cabal](/organizations/the-bleak-cabal/) in [Sigil](/places/sigil/) and a cleric of [Brightmantle](/people/brightmantle/) of the Knowledge domain, working at the Bleakers' headquarters, the Gatehouse. She wants to cure [Cageblight](/lore/cageblight/), and her assistant Craig had been missing for three weeks in the Spillway. The party came to the Gatehouse at night, met her, and were asked to find Craig. They found him in the Spillway Depths, saved him, and closed the plague portal that was the source of Cageblight; she rewarded them, and the Gatehouse was opened to them.
+Diana Rhea is a healer of the [Bleak Cabal](/organizations/the-bleak-cabal/) in [Sigil](/places/sigil/) and a cleric of [Brightmantle](/people/brightmantle/) of the Knowledge domain, working at the Bleakers' headquarters, the Gatehouse. She wants to cure [Cageblight](/lore/cageblight/), and her assistant Craig had been missing for three weeks in [the Spillway](/places/the-spillway/). The party came to the Gatehouse at night, met her, and were asked to find Craig. They found him in the Spillway Depths, saved him, and closed the plague portal that was the source of Cageblight; she rewarded them, and the Gatehouse was opened to them.
 
 ## The Bleaker healer
 

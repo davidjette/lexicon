@@ -45,12 +45,17 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5ac
+- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-c30-coronation.md
+- "Oral Histories: The Inevitables, 2025-10-25"
+- "Oral Histories: The Inevitables, 2025-12-06"
 published: '2026-09-14'
 ---
 
 **Urban mansion · [Waterdeep](/places/waterdeep/) · Heir: Darius Klaxon, then Maverick · Standing**
 
-**Tiffany House** is an urban mansion in [Waterdeep](/places/waterdeep/) whose owner traditionally sits on the Lords' Council. Its heir is [Darius Klaxon](/people/darius-klaxon/), son of [Phillip Klaxon](/people/phillip-klaxon/) and a Darkcember; after the Klaxons the heir is [Maverick](/people/maverick/), a distant descendant of [Revan Darkcember](/people/revan-darkcember/). [Griddy Champagne](/people/griddy-champagne/) serves as its housecarl. The house stood in the Ages of the Infanta, five hundred years earlier. During the Cormyrean occupation [General Peterbilt Varkus](/people/peterbilt-varkus/) raised funds there among Waterdeep's old families, and it was the scene of [the Tiffany House heist](/history/the-tiffany-house-heist/), in which the party took the **RUIN** card of [the Deck of Many Things](/items/the-deck-of-many-things/).
+**Tiffany House** is an urban mansion in [Waterdeep](/places/waterdeep/) whose owner traditionally sits on the Lords' Council. Its heir is [Darius Klaxon](/people/darius-klaxon/), son of [Phillip Klaxon](/people/phillip-klaxon/) and a Darkcember; after the Klaxons the heir is [Maverick](/people/maverick/), a distant descendant of [Revan Darkcember](/people/revan-darkcember/). [Griddy Champagne](/people/griddy-champagne/) serves as its housecarl. The house stood in the Ages of the Infanta, five hundred years earlier, when it passed from [the Von Lampes](/organizations/the-von-lampes/) to Revan Darkcember with the lordship of Marsember, together with an old debt to Asmodeus that Revan's line carries forever. Darius bears that debt now. During the Cormyrean occupation [General Peterbilt Varkus](/people/peterbilt-varkus/) raised funds there among Waterdeep's old families, and it was the scene of [the Tiffany House heist](/history/the-tiffany-house-heist/), in which the party took the **RUIN** card of [the Deck of Many Things](/items/the-deck-of-many-things/).
 
 ## Architecture
 
@@ -66,6 +71,12 @@ The owner of Tiffany House traditionally sits on the Lords' Council, though hist
 
 **Maverick**, the drow bard prince, is a distant descendant of Revan Darkcember and, after the Klaxons, heir to Tiffany House. <small>(Dave, 2026-09-14)</small>
 
+### The debt to Asmodeus
+
+The old debt to Asmodeus came with the house to Revan Darkcember, and his line is saddled with it forever. Darius carries the burden now. He wanted to take the RUIN card himself, to disinherit himself and free himself of it, and Nicollo talked him out of it. Had Darius taken it, the house would have fallen to Maverick. <small>(Dave, 2026-09-14)</small>
+
+Nicollo was sent to the house as a secret delivery. Dave: "J killed MachV why? He was a secret delivery to Tiffany House, which eventually did receive the Ruin card he came for". <small>(Oral Histories: The Inevitables, 2025-12-06)</small>
+
 On their visit the party learned that Darius does not want the place his father is arranging for him, that Phillip is using Varkus, and that "Tiffany House's owners have been doomed to Hell." <small>(DM notes, session record)</small>
 
 ## Household
@@ -79,6 +90,8 @@ The RUIN card had belonged to [Bumpkin Countrymile](/people/bumpkin-countrymile/
 ### Ages of the Infanta
 
 Tiffany House stood five hundred years earlier, in the Ages of the Infanta, when it figured in Revan Darkcember's contract negotiations in Waterdeep. <small>(Arc IV, Winking Depths, Part IV)</small>
+
+Its owners then were the Von Lampes, bound by a pact with Asmodeus. At the auction of the Amulet of Kai Ryssdall, Stonecypher voided them with the Vault Wand. <small>(Dave, 2026-09-14)</small> After Zanzibar was crowned King of Punis he gave Revan a hold, Marsember, which became Darkcember. <small>(Dave, 2026-09-14)</small> Dave: "Then Revan signed papers assuming the lordship of Marsember" / "Which includes Tiffany House and an old debt to Asmodeus which Revan assumed" / "So he inherited it after the Von Lampes had died" / "And yeah Griddy is it’s hauscarl". <small>(Oral Histories: The Inevitables, 2025-10-25)</small>
 
 ### Cormyrean occupation
 

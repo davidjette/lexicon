@@ -68,6 +68,8 @@ sources:
   - CANON.md 5ac
   - CANON.md 5ae
   - CANON.md 5af
+  - sources/dave/2026-09-14-oral-histories-cast.md
+  - "Oral Histories: The Inevitables, 2024-12-20"
 published: '2026-09-10'
 wa:
   slug: battlebeast-person
@@ -145,5 +147,9 @@ The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Porta
 ## Right now
 
 Deep in Undermountain with the whole party. They have cleared the first level and descended to the second, the Arcane Chambers.
+
+## At the table
+
+Adam plays BattleBeast. Asked in December 2024 about experience for the latest Sigil session, Dave answered: "I think it was 1000 for battle beast and 500 for everyone else". <small>(Oral Histories: The Inevitables, 2024-12-20)</small>
 
 ![beast.png](/images/uploads/beast-mu1odzh4.webp)

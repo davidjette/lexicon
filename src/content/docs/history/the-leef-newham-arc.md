@@ -113,7 +113,7 @@ The first Newham session, [Leef Ep 10 — The Theater Bombing](/sessions/leef-ep
 
 In [Leef Ep 14 — The Rebel Allies](/sessions/leef-ep-14-the-rebel-allies/) (7 November) Dario's *protection from evil and good* "worked like a charm" in the fight, and afterwards Dave wrote "we're 3/4 for making allies from these rebels"; Nico added "we have vampi allies!" <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
 
-In [Leef Ep 16 — The Mega Heist](/sessions/leef-ep-16-the-mega-heist/) (21 November) the party pulled off a heist, and Inspector LeGranouille joined them. Dave wrote that LeGranouille "saw us roll in and knew immediately we were good necessary trouble", and that LeBeefe's troops were "all mind flayers". <small>(Oral Histories: The Inevitables, 2025-11-22)</small>
+In [Leef Ep 16 — The Mega Heist](/sessions/leef-ep-16-the-mega-heist/) (21 November) the party pulled off a heist, and Inspector LeGranouille joined them. Dave wrote that LeGranouille "saw us roll in and knew immediately we were good necessary trouble", and that LeBeefe's troops were "all mind flayers". <small>(Oral Histories: The Inevitables, 2025-11-22)</small> LeGranouille was LeBeefe in disguise, following with the party the whole time, and his turn was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small>
 
 LeBeefe was killed in [Leef Ep 18 — The Death of LeBeefe](/sessions/leef-ep-18-the-death-of-lebeefe/) on 5 December 2025. <small>(Oral Histories: The Inevitables, 2025-12-05)</small> See [the fall of Newham](/history/the-fall-of-newham/).
 
@@ -149,7 +149,7 @@ In that year [Digma Beeve](/people/digma-beeve/) sent Gemma on a mission to [Zil
 - **Leef Ep 13** (24 October 2025): a session in Newham.
 - **[Leef Ep 14 — The Rebel Allies](/sessions/leef-ep-14-the-rebel-allies/)** (7 November 2025): *protection from evil and good* wins the fight; three of four rebel groups allied, vampires among them.
 - **Leef Ep 15** (14 November 2025): a session in Newham.
-- **[Leef Ep 16 — The Mega Heist](/sessions/leef-ep-16-the-mega-heist/)** (21 November 2025): the mega heist; Inspector LeGranouille joins.
+- **[Leef Ep 16 — The Mega Heist](/sessions/leef-ep-16-the-mega-heist/)** (21 November 2025): the mega heist; Inspector LeGranouille, LeBeefe in disguise, joins.
 - **Leef Ep 17** (28 November 2025): a session in Newham.
 - **[Leef Ep 18 — The Death of LeBeefe](/sessions/leef-ep-18-the-death-of-lebeefe/)** (5 December 2025): the attempt on LeBeefe; he dies.
 - **[Leef Ep 19 — The Year-Long Episode](/sessions/leef-ep-19-the-year-long-episode/)** (12 December 2025): downtime missions, Dario to the Dwarflands and Gemma to Breland; the trio rooted in Talenta.

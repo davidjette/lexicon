@@ -42,7 +42,7 @@ published: '2026-09-14'
 
 **Ward · [Sigil](/places/sigil/) · Gang territory · Standing**
 
-The Hive Ward is a ward of [Sigil](/places/sigil/), a district of honeycomb tenements, corpse markets and gang turf, and the place where the [Dead Man's Hand](/lore/dead-mans-hand/) party woke in [the Mortuary](/places/the-mortuary/) and fought their first battles. Its streets are worked by thugs in the pay of two rival gangs, [Sharegrave](/people/sharegrave/)'s thieves' guild on [the Catwalk](/places/the-catwalk/) and [Rotten William](/people/rotten-william/)'s extortionists, and through the party's time there it was afflicted by [Cageblight](/lore/cageblight/). The party escaped the Mortuary, ended the Venus in Furs affair in Ragpicker's Square, killed the smuggler Fieldy Smuts, fell into Sharegrave's service and fought for him at [the Grindhouse](/places/the-grindhouse/), and in the Spillway put an end to both Rotten William and the plague.
+The Hive Ward is a ward of [Sigil](/places/sigil/), a district of honeycomb tenements, corpse markets and gang turf, and the place where the [Dead Man's Hand](/lore/dead-mans-hand/) party woke in [the Mortuary](/places/the-mortuary/) and fought their first battles. Its streets are worked by thugs in the pay of two rival gangs, [Sharegrave](/people/sharegrave/)'s thieves' guild on [the Catwalk](/places/the-catwalk/) and [Rotten William](/people/rotten-william/)'s extortionists, and through the party's time there it was afflicted by [Cageblight](/lore/cageblight/). The party escaped the Mortuary, ended the Venus in Furs affair in Ragpicker's Square, killed the smuggler Fieldy Smuts, fell into Sharegrave's service and fought for him at [the Grindhouse](/places/the-grindhouse/), and in [the Spillway](/places/the-spillway/) put an end to both Rotten William and the plague.
 
 ## Heyu's way in
 
@@ -104,7 +104,7 @@ The square's vendors sell rations, torches, blood charms, simple weapons, ragged
 
 ## The medusa toilet
 
-The toilet in the Smoldering Corpse Bar, marked with a medusa, is a portal. It opens at the fountain in the courtyard of the Temple of Neptune in [Saltmarsh](/places/saltmarsh/) on Oerth, a fountain of "Pericles beheading Medusa". The ward's list of portkeys gives it as "Tattoo / SC Toilet → GREYHAWK". It was the party's first portal. <small>(DM notes)</small>
+The toilet in the Smoldering Corpse Bar, marked with a medusa, is a portal. It opens at the fountain in the courtyard of the [Temple of Neptune](/places/the-temple-of-neptune/) in [Saltmarsh](/places/saltmarsh/) on Oerth, a fountain of "Pericles beheading Medusa". The ward's list of portkeys gives it as "Tattoo / SC Toilet → GREYHAWK". It was the party's first portal. <small>(DM notes)</small>
 
 **Places of Interest:**
 

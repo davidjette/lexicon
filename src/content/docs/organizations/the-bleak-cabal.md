@@ -34,7 +34,7 @@ published: '2026-09-14'
 
 **Also known as:** Bleakers
 
-**The Bleak Cabal** are a faction of [Sigil](/places/sigil/) "Who find no sense in the multiverse", headquartered in the Gatehouse under Factol Lhar, whose role in the city is hospital and welfare. When [Cageblight](/lore/cageblight/) spread through [the Hive Ward](/places/the-hive-ward/), the Bleaker cleric [Diana Rhea](/people/diana-rhea/) was searching for her missing assistant Craig in the Spillway. The party volunteered at the Gatehouse, went into the Spillway, saved Craig, killed the plague demon there and closed the portal that was the source of the plague. The Cabal opened the Gatehouse to the party and became their faction ally.
+**The Bleak Cabal** are a faction of [Sigil](/places/sigil/) "Who find no sense in the multiverse", headquartered in the Gatehouse under Factol Lhar, whose role in the city is hospital and welfare. When [Cageblight](/lore/cageblight/) spread through [the Hive Ward](/places/the-hive-ward/), the Bleaker cleric [Diana Rhea](/people/diana-rhea/) was searching for her missing assistant Craig in [the Spillway](/places/the-spillway/). The party volunteered at the Gatehouse, went into the Spillway, saved Craig, killed the plague demon there and closed the portal that was the source of the plague. The Cabal opened the Gatehouse to the party and became their faction ally.
 
 ## The faction
 

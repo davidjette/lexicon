@@ -45,6 +45,7 @@ The attempt succeeded and LeBeefe was killed. The trio had welded Newham's scatt
 
 ## Revelations
 
+- [Inspector LeGranouille](/people/inspector-legranouille/), who had joined the trio after the mega heist, was LeBeefe in disguise and had followed with the party the whole time; his turn was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small>
 - Nico's recollection of LeBeefe's office: "he was head of like northen transpertation", "expanding in the north and around Newham and beyond into leef". <small>(Oral Histories: The Inevitables, 2026-09-11)</small>
 - LeBeefe's voice outlasted him. It was heard beneath Sharn and in the Glitterhame, and it spoke to Eric on the way out of the Korramont in [Korth Ep 11](/sessions/korth-ep-11-the-domain-of-valtrex/).
 

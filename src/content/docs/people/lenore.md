@@ -1,6 +1,6 @@
 ---
 title: Lenore Bishop
-description: The human artificer who woke healed in the Fort Maximillien infirmary, killed a nurse, freed BattleBeast and escaped down the trash hole.
+description: A construct artificer who presents as human; she woke healed in the Fort Maximillien infirmary, freed BattleBeast and escaped down the trash hole.
 tags:
   - Lenore
   - Fort Maximillien
@@ -31,6 +31,10 @@ tags:
   - the Company
   - Buttsniv City
   - Grub + Grog
+  - construct
+  - warforged
+  - lexical entity
+  - Johnny unit
 image:
   src: /images/uploads/lenore-bishop-mu0l5spx.webp
 type: person
@@ -60,6 +64,18 @@ sources:
   - sources/dave/2026-09-14-fort-maximillien-as-played.md
   - CANON.md 5ac
   - CANON.md 5af
+  - "Oral Histories: The Inevitables, 2024-01-13"
+  - "Oral Histories: The Inevitables, 2024-01-28"
+  - "Oral Histories: The Inevitables, 2024-05-20"
+  - "Oral Histories: The Inevitables, 2024-05-21"
+  - "Oral Histories: The Inevitables, 2024-05-26"
+  - "Oral Histories: The Inevitables, 2024-09-15"
+  - "Oral Histories: The Inevitables, 2025-08-17"
+  - "Oral Histories: The Inevitables, 2025-09-17"
+  - "Oral Histories: The Inevitables, 2025-09-21"
+  - "Oral Histories: The Inevitables, 2025-11-08"
+  - "Oral Histories: The Inevitables, 2026-02-28"
+  - "Oral Histories: The Inevitables, 2026-03-08"
 published: '2026-09-10'
 wa:
   slug: lenore-person
@@ -70,15 +86,32 @@ gallery:
     caption: Lenore Bishop, in headphones and a leather vest, blows on a candle beside an open chest packed with dynamite, aboard a ship at night.
 ---
 
-**Human · Artificer, planar philosopher · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**
+**Construct (presents as human) · Artificer, planar philosopher · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**
 
-Lenore Bishop is a human artificer, one of the party taken by the [Purple Dragons](/organizations/the-purple-dragons/) to [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/) after the fighting at [the Grub + Grog](/places/the-grub-and-grog/). Shot, poisoned and stabbed that night, she woke healed and nude in the fort infirmary while BattleBeast was breaking out, killed a nurse, escaped, freed [BattleBeast](/people/battlebeast/), and ran with him and Heyu for the huge trash hole outside the castle, which led into [Undermountain](/places/undermountain/). She, Heyu, BattleBeast and Rodriel were the four of the team who got away.
+Lenore Bishop is an artificer, a construct who presents as human and believes herself human, and one of the party taken by the [Purple Dragons](/organizations/the-purple-dragons/) to [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/) after the fighting at [the Grub + Grog](/places/the-grub-and-grog/). Shot, poisoned and stabbed that night, she woke healed and nude in the fort infirmary while BattleBeast was breaking out, killed a nurse, escaped, freed [BattleBeast](/people/battlebeast/), and ran with him and Heyu for the huge trash hole outside the castle, which led into [Undermountain](/places/undermountain/). She, Heyu, BattleBeast and Rodriel were the four of the team who got away.
 
 Before Waterdeep she was sent by [the Company](/organizations/nimbus-corp/) to recover an artifact from a village, where she was jailed and the village burned. Killed, like each of her companions, by [Jeremiah](/people/jeremiah/), she woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), and travelled with the party to [Saltmarsh](/places/saltmarsh/) on Oerth and on to Waterdeep, where she carried the **RUIN** card stolen at [Tiffany House](/places/tiffany-house/).
 
 ## Physical description
 
 The character roster describes a human steampunk artificer with brass goggles, flying boots and a long rifle slung on her back, clever and practical, in layered utility gear, her hair cut in an ultra-modern black bob with bangs. She wears nerdy glasses. Her steel defender, **Johnny**, was a hulking, silent metal automaton until an armored thug bashed it to bits outside Ard Farkle's. <small>(Character roster; the Grub & Grog narrative.)</small>
+
+## A construct
+
+Lenore presents as human, tells people she is human and believes it. She is a construct, and does not know it. Dave: "both Nik and Lenore are constructs". <small>(Oral Histories: The Inevitables, 2024-05-26)</small> Nico, who plays her, described her in January 2024: "the character looks human but is actually a war-forge", and "she would act and tell people she is human". Dave's addition: "Modify memory plus disguise self device somewhere in her body". <small>(Oral Histories: The Inevitables, 2024-01-28)</small>
+
+The signs of it:
+- The first card of her [fatemark](/lore/fatemarks/) is **Construct**. <small>(DM notes)</small>
+- The Vision Table at [Our Lady of Mysteries](/places/our-lady-of-mysteries/) shows "LENORE KILLS LENORE". <small>(DM notes)</small>
+- [Bud Holhertz](/people/bud-holhertz/) took her for Lexi, a seeker of the Company. <small>(Grub & Grog narrative; DM notes)</small>
+- [The Company](/organizations/nimbus-corp/) "kind of “owns” her". <small>(Nico, Oral Histories: The Inevitables, 2024-01-28)</small>
+- An artificer can heal constructs, "BUT until Lenore knows what she is, couldn’t use it on herself". <small>(Nico, Oral Histories: The Inevitables, 2024-05-21)</small>
+
+Nico keeps two sheets for her: "the human Lenore" in the D&D Beyond campaign, with plus one to all stats, and "the real warforged one". <small>(Oral Histories: The Inevitables, 2024-05-21)</small> Of this age Dave said that "the origins of the Lexicon are obvs a big thing that’s happening in this time, robots in the last campaign were much more automatons, now some don’t even know they’re artificial". <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
+
+## Johnny
+
+Her steel defender is named Johnny. The name recurs in the Johnny unit of the [lexical entities](/lore/lexical-entities/), which Dave described as "a standardized entity from thousands of years in the future, if the Conpany is experimenting with AI souls in warforged in the distant past it doesn’t have to be the same name :)" <small>(sic)</small>, adding: "Johnny is also aware he is a lexical entity so there’s something different about Lenore the same way Rachel is different from Batty in blade runner", and "So warforged are like Gen 2 synths and ELEs are like Gen 3". <small>(Oral Histories: The Inevitables, 2024-05-21)</small> JL first suggested the name for Lenore herself: "Just name her Johnny". <small>(Oral Histories: The Inevitables, 2024-05-20)</small>
 
 ## The village
 
@@ -96,9 +129,13 @@ The symbol of the Company's Metallurgy, Ores, Oxides and Nano Materials Departme
 
 From Sigil, Lenore sent word to the Company, and the Company replied that she should return to Buttsniv City. <small>(DM notes)</small>
 
+In Nico's account of her, Sigil "is her home", and "Her parents were attacked and killed because of negative community members." <small>(Oral Histories: The Inevitables, 2024-09-15)</small>
+
 ## Saltmarsh
 
-In [Saltmarsh](/places/saltmarsh/) on Oerth, Lenore and [BattleBeast](/people/battlebeast/) followed [Papa Diaz](/people/papa-diaz/), called Brother "Burnface", to the shore, where he performed a rite to turn back the Drowned, undead coming from the desecrated temple under the water. The party then travelled to the whirlpool over the hidden Temple of Neptune, killed beasts and devils, and saw the desecration of its altar with the corpse of [Aqueus](/people/aqueus/). After [the Blackfish Encounter](/history/the-blackfish-encounter/), in which the party slew Jeremiah, though not permanently, Lenore told the Company about [Weathervein](/items/weathervein/). <small>(DM notes)</small>
+In [Saltmarsh](/places/saltmarsh/) on Oerth, Lenore and [BattleBeast](/people/battlebeast/) followed [Papa Diaz](/people/papa-diaz/), called Brother "Burnface", to the shore, where he performed a rite to turn back the Drowned, undead coming from the desecrated temple under the water. The party then travelled to the whirlpool over the hidden [Temple of Neptune](/places/the-temple-of-neptune/), killed beasts and devils, and saw the desecration of its altar with the corpse of [Aqueus](/people/aqueus/). After [the Blackfish Encounter](/history/the-blackfish-encounter/), in which the party slew Jeremiah, though not permanently, Lenore told the Company about [Weathervein](/items/weathervein/). <small>(DM notes)</small>
+
+During the *Blackfish* fight Lenore nearly blew up the party with dynamite: "I almost exploded us all omg" (Nico). Dave: "this I  did think there was a strong chance of and did plan for" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2025-08-17)</small> Reporting back to the Company afterwards "felt like the correct thing to do as a seeker". <small>(Nico, Oral Histories: The Inevitables, 2025-09-21)</small>
 
 ## Waterdeep
 
@@ -124,6 +161,8 @@ She had been shot from behind outside the inn by a rogue who mistook her for som
 
 While the rest of the team snuck into the fort, BattleBeast broke out loudly and caused a huge ruckus, and the party killed almost everyone, including Sir Loin, who was raised afterwards. Lenore woke nude under a white sheet, healed, handcuffed to a gurney beside an inert biomechanical sarcophagus covered in arcane markings; a medic told her to lie still. She picked the cuffs, waited beside the door in an open hospital gown, splashed the returning nurse with his own jar of acid and fried him with a shocking grasp. Beyond a side door she found a huge bottomless pit littered with trash. She ran into Nicollo and Heyu, teleported BattleBeast out of his fight with [Colonel Angus](/people/colonel-angus/), opened a portal far down inside the pit, and jumped with Heyu and BattleBeast. Nicollo stayed on the lip and turned himself in, and upstairs he turned on the party; the **RUIN** card ended the night in Griddy Champagne's keeping. The rest of the team were captured; only Lenore, Heyu, BattleBeast and [Rodriel](/people/rodriel/) got away.
 
+Lenore came out of the fort with Sir Loin's sword: "I got that Sir Loin sword". <small>(Nico, Oral Histories: The Inevitables, 2026-02-28)</small>
+
 In the dark beneath the fort she fitted on the slinky black leather armour Heyu had saved from a defeated foe, still in her glasses and black bob, when three bodies fell onto the dome above her: [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and [Barold](/people/barold-bonds/), hanged at dawn and thrown down the hole.
 
 ## Undermountain
@@ -133,5 +172,11 @@ The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Porta
 ## Right now
 
 Deep in Undermountain with the whole party, the hanged three alive again. They have cleared the first level and descended to the second, the Arcane Chambers.
+
+## At the table
+
+Lenore began with a notion of JL's: "what if Nimbus Corp. is on Sigil tracking down St Cloud’s missing relics. We were thinking Nico’s character could be a Planar Philosopher/Nimbus Corp. intern". Dave: "That’s really good". <small>(Oral Histories: The Inevitables, 2024-01-13)</small> Nico named her in May 2024: "Her name is Lenore. She works for the company as either an artificer or wizard." <small>(Oral Histories: The Inevitables, 2024-05-20)</small> Of the television series *Alien: Earth*, Dave said: "This is all research for Lenore’s plot". <small>(Oral Histories: The Inevitables, 2025-09-17)</small>
+
+She is a Battle Smith under the older artificer rules, which let her make the tinker's tools she needs to cast spells and build a new Johnny. <small>(Nico, Oral Histories: The Inevitables, 2026-03-08)</small>
 
 ![Lenore candle.png](/images/uploads/lenore-candle-mu0x8b4n.webp)

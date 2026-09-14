@@ -39,6 +39,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2975, IMG_2977, IMG_3049, IMG_3051, IMG_3056, IMG_3063, IMG_3065)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5ac
+- "Oral Histories: The Inevitables, 2022-08-15"
 published: '2026-09-14'
 ---
 
@@ -50,7 +51,7 @@ published: '2026-09-14'
 
 ## Wanted pirate
 
-Keisha is a wanted pirate aboard the Blackfish. Wanted posters of her and the rest of the crew hang around the Temple of Neptune and the town square of [Saltmarsh](/places/saltmarsh/). <small>(DM notes)</small> On the Blackfish she serves as deckhand, with **Quart** as first mate and **Parko** as gunner. <small>(DM notes)</small>
+Keisha is a wanted pirate aboard the Blackfish. Wanted posters of her and the rest of the crew hang around the [Temple of Neptune](/places/the-temple-of-neptune/) and the town square of [Saltmarsh](/places/saltmarsh/). <small>(DM notes)</small> On the Blackfish she serves as deckhand, with **Quart** as first mate and **Parko** as gunner. <small>(DM notes)</small>
 
 ## Her father's card
 
@@ -75,6 +76,8 @@ Keisha's own words:
 > "Hafgufa's depths are said to be the deepest ocean in the Abyss. But I dont worship Hafgufa. I believe in the will of the Fates. And thats why I dont want anything to do with a magic playing card that lets you predict the future."
 
 <small>(Keisha Milosh, DM notes)</small>
+
+[Hafgufa](/lore/hafgufa/), the power Keisha does not worship, is the patron of her captain, Gabriella Hellwood, who made a warlock's pact with it. <small>(Oral Histories: The Inevitables, 2022-08-15)</small>
 
 Feng had worshipped Cypher, but was headed to the Abyss for his acts in life. <small>(DM notes)</small>
 

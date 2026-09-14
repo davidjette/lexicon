@@ -8,6 +8,8 @@ tags:
 - Von Lampe
 - von Lamps
 - Moth Von Lampe
+- Moth von Lamp
+- Jenkin's Portal Wand
 - Tanning Von Lampe
 - Tiffany House
 - Asmodeus
@@ -49,7 +51,7 @@ published: '2026-09-14'
 
 **Noble family · [Waterdeep](/places/waterdeep/) · Owners of [Tiffany House](/places/tiffany-house/) · Pactbound to [Asmodeus](/people/asmodeus/) · Voided**
 
-*Also known as:* the von Lamps
+*Also known as:* the von Lamps · Moth von Lamp <small>(JL's spelling)</small>
 
 **The Von Lampes** were a noble family of [Waterdeep](/places/waterdeep/), the owners of [Tiffany House](/places/tiffany-house/), bound by a pact with [Asmodeus](/people/asmodeus/). In the Age of the Infanta they worked with and against [Wainwright St. Cloud](/people/wainwright-st-cloud/) over the Infanta he held in Waterdeep, promising Asmodeus 999 souls and the Infanta, and fled the city after the attack on the boy emperor's parade. They went after the [Amulet of Kai Ryssdall](/items/the-amulet-of-kai-ryssdall/), the largest emerald in the world and a gem big enough to cast *Greater Gate*, and at its auction [Stonecypher](/people/stonecypher/) used the Vault Wand to void them. [Revan Darkcember](/people/revan-darkcember/) inherited Tiffany House and its old debt to Asmodeus after them. The Von Lampes were on the Lost Train at the end of the Infanta.
 
@@ -101,6 +103,8 @@ While [Zebediah](/people/zebediah/) went through the vault below, the Von Lampes
 
 <small>(Dave, 2026-09-14)</small>
 
+At the table the Vault Wand was also called Jenkin's Portal Wand. <small>(Nico. Oral Histories: The Inevitables, 2021-12-03)</small> Nico, in 2025: "I used the Jenkins wand on the von lamps during the auction house heist". JL, the same day: "I thought we killed Moth von Lamp. Didn’t we?" <small>(Oral Histories: The Inevitables, 2025-10-25)</small>
+
 At the table it was a laxative ambush. Dave: "Looking back I’m marveling that You guys used Hershey squirt and the portal key to kill three different people in plain site, incredible work" / "Two major villains and a random guy". <small>(Sic on "site". Oral Histories: Temporal Holdings, 2019-04-20)</small> And: "the laxative -> ambush in the bathroom is a pretty classic move, but you guys took it to a new level". <small>(Oral Histories: Temporal Holdings, 2019-04-22)</small> Of the amulet the Von Lampes had wanted: "It's reportedly the largest emerald in the world", and "Lex suggests that the gate spell can be cast with gems besides diamonds, and that large quality gems may be needed to summon very powerful creatures". <small>(Oral Histories: Temporal Holdings, 2019-04-20)</small>
 
 ## The hotel room
@@ -129,7 +133,7 @@ The Vault Wand's non-room also swallowed a train. At Baldur's Gate Stonecypher u
 
 ## Tiffany House after them
 
-Tiffany House stayed bound to Asmodeus. In Arc V the party weighed an option to "Go to Tiffany House and defeat the Asmodeans". <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small> In Waterdeep Revan was confronted by Violet, an erinyes who served as a housecarl and as a spy for Asmodeus. <small>(Arc IV, Winking Depths Part IV.)</small> She is [Griddy Champagne](/people/griddy-champagne/), the same devil through every game, the bound servant of the pactbound owner of Tiffany House. <small>(Dave, 2026-09-14)</small>
+Tiffany House stayed bound to Asmodeus. In Arc V the party weighed an option to "Go to Tiffany House and defeat the Asmodeans". <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small> In Waterdeep Revan was confronted by Violet, an erinyes who served as a housecarl and as a spy for Asmodeus. <small>(Arc IV, Winking Depths Part IV.)</small> She is [Griddy Champagne](/people/griddy-champagne/), the same devil through every game, the bound servant of the pactbound owner of Tiffany House. <small>(Dave, 2026-09-14)</small> Nico recalled Griddy as the manor's "house Carl" and "a liaison for asmodeus", and Dave answered: "And yeah Griddy is it’s hauscarl". <small>(Sic. Oral Histories: The Inevitables, 2025-10-25)</small>
 
 Dave on how the house passed to Revan:
 
@@ -140,6 +144,6 @@ Dave on how the house passed to Revan:
 
 <small>(Oral Histories: The Inevitables, 2025-10-25)</small>
 
-Revan's line is saddled with that debt forever. In the age of [Dead Man's Hand](/lore/dead-mans-hand/) it is carried by [Darius Klaxon](/people/darius-klaxon/). <small>(Dave, 2026-09-14)</small>
+Revan's line is saddled with that debt forever. In the age of [Dead Man's Hand](/lore/dead-mans-hand/) it is carried by [Darius Klaxon](/people/darius-klaxon/). <small>(Dave, 2026-09-14)</small> Darius wanted to take the RUIN card to disinherit himself and so free himself of it; [Nicollo](/people/nicollo/), called Mach, talked him out of it, and had Darius taken it the house would have fallen to [Maverick](/people/maverick/). <small>(Dave, sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md)</small> When Zanzibar was crowned King of Punis he gave Revan his hold, and Marsember became Darkcember. <small>(Dave, sources/dave/2026-09-14-temple-holdings-c30-coronation.md)</small>
 
 **Related:** [Tiffany House](/places/tiffany-house/) · [Asmodeus](/people/asmodeus/) · [Waterdeep](/places/waterdeep/) · [Stonecypher](/people/stonecypher/) · [Revan Darkcember](/people/revan-darkcember/) · [Griddy Champagne](/people/griddy-champagne/) · [Zebediah](/people/zebediah/)

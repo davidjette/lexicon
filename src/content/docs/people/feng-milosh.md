@@ -13,6 +13,7 @@ tags:
   - Jeremiah
   - Heyu
   - ghost
+  - Hafgufa
   - half-orc
 type: person
 kind: people
@@ -37,6 +38,7 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - CANON.md 5ac
   - sources/dave/2026-09-14-heyu-and-feng.md
+  - "Oral Histories: The Inevitables, 2022-08-15"
 published: '2026-09-14'
 ---
 
@@ -66,7 +68,7 @@ The party know that Jeremiah is the handsome man with the glowing sword, that he
 
 ## The ghost
 
-In death Feng is a ghost, a spirit and petitioner. He worshipped Cypher, but was headed to the Abyss for his acts in life. He cannot move on until the card is recovered and delivered to his daughter, its rightful heir. <small>(DM notes)</small> His soul crossed the Outlands to Plaguemort, where [Heyu](/people/heyu/) took the last coins of petitioner souls to carry their messages and uncover the truth about their deaths; the divine will of Cypher sent her to Sigil to help him. <small>(Dave)</small> In Heyu's story, his ghost hires her to retrieve an object from his corpse, from the boot, at [the Mortuary](/places/the-mortuary/) in [Sigil](/places/sigil/), and recounts the home invasion and his murder by the handsome man with the glowing sword. Her quest: recover the heirloom and return it to Keisha Milosh. <small>(DM notes)</small>
+In death Feng is a ghost, a spirit and petitioner. He worshipped Cypher, but was headed to the Abyss for his acts in life. He cannot move on until the card is recovered and delivered to his daughter, its rightful heir. <small>(DM notes)</small> His soul crossed the Outlands to [Plaguemort](/places/plaguemort/), where [Heyu](/people/heyu/) took the last coins of petitioner souls to carry their messages and uncover the truth about their deaths; the divine will of Cypher sent her to Sigil to help him. <small>(Dave)</small> In Heyu's story, his ghost hires her to retrieve an object from his corpse, from the boot, at [the Mortuary](/places/the-mortuary/) in [Sigil](/places/sigil/), and recounts the home invasion and his murder by the handsome man with the glowing sword. Her quest: recover the heirloom and return it to Keisha Milosh. <small>(DM notes)</small>
 
 ## Keisha
 
@@ -82,7 +84,7 @@ After her father's murder Keisha joined the crew of the *Blackfish*, and wanted 
 >
 > "Hafgufa's depths are said to be the deepest ocean in the Abyss. But I dont worship Hafgufa. I believe in the will of the Fates. And thats why I dont want anything to do with a magic playing card that lets you predict the future."
 
-<small>(DM notes)</small> If Jeremiah had escaped, her answer was that the party had found the card, it had brought them luck, and they should keep it and kill the thing hunting it. <small>(DM notes)</small> At their second real rest the party had retrieved and kept the FATES card from Keisha Milosh, and had killed Jeremiah, though not permanently. <small>(DM notes, play log)</small>
+<small>(DM notes)</small> [Hafgufa](/lore/hafgufa/), whom Keisha names, is the patron of the Blackfish's captain [Gabriella Hellwood](/people/gabriella-hellwood/), who made a warlock's pact with it. <small>(Oral Histories: The Inevitables, 2022-08-15)</small> If Jeremiah had escaped, her answer was that the party had found the card, it had brought them luck, and they should keep it and kill the thing hunting it. <small>(DM notes)</small> At their second real rest the party had retrieved and kept the FATES card from Keisha Milosh, and had killed Jeremiah, though not permanently. <small>(DM notes, play log)</small>
 
 **Contacts & Relations:**
 - [Keisha Milosh](/people/keisha-milosh/): his daughter, heir to the card; deckhand on the *Blackfish*.

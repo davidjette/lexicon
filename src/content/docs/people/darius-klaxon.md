@@ -37,6 +37,8 @@ fields:
 sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2984, IMG_2985, IMG_2991, IMG_2992, IMG_2993, IMG_3075, IMG_3078)
   - sources/dave/2026-09-14-dead-mans-hand-names.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - "Oral Histories: The Inevitables, 2025-10-25"
 published: '2026-09-14'
 ---
 
@@ -57,6 +59,8 @@ Darius is a shareholder in [the Company](/organizations/nimbus-corp/) and the he
 The pact with Asmodeus made through Griddy Champagne is unbearable for him, and he is seeking the card of RUIN to divest himself of it. <small>(DM notes)</small> Griddy has obtained RUIN for both Darius and his father, and intends to play them off each other. <small>(DM notes)</small>
 
 After the Klaxons, [Maverick](/people/maverick/), a distant descendant of [Revan Darkcember](/people/revan-darkcember/), is heir to Tiffany House.
+
+The debt is old. Revan Darkcember assumed it with the lordship of Marsember, which included Tiffany House, and his line is saddled with it forever. <small>(Dave, Oral Histories: The Inevitables, 2025-10-25; Dave, 2026-09-14)</small> Darius carries the burden now. He wanted to take the RUIN card himself, to disinherit himself and free himself, and Nicollo talked him out of it. Had he taken it, the house would have fallen to Maverick. <small>(Dave, 2026-09-14)</small>
 
 ## Nicollo
 

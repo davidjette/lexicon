@@ -2,6 +2,7 @@
 title: Grand Duke John C. LeBeefe
 description: Slaver, Magister, Mayor, Grand Duke. Founder of the Unforeseen, killed at Newham - and still whispering to the people who killed him.
 tags:
+- Inspector LeGranouille
 - John C. LeBeefe
 - LeBeefe
 - LaBeefe
@@ -65,7 +66,7 @@ gallery:
 
 **Human · Aberrant Mind Sorcerer · [The Unforeseen](/organizations/the-unforeseen/) and the Imperial Ministry · Magister of New Ham, Mayor of [Newham](/places/newham/), Grand Duke of the Eastern Provinces · Dead — killed at Newham, and still audible**
 
-**Also known as:** LaBeefe · LeBeef · LaBeef · Magister LeBeefe · Mayor LeBeefe · Grand Duke John C. LeBeefe
+**Also known as:** LaBeefe · LeBeef · LaBeef · Magister LeBeefe · Mayor LeBeefe · Grand Duke John C. LeBeefe · Inspector LeGranouille (a disguise)
 
 **Grand Duke John C. LeBeefe** was a human Aberrant Mind sorcerer, Magister of New Ham, Mayor of [Newham](/places/newham/), Grand Duke of the Eastern Provinces and a founding member of [The Unforeseen](/organizations/the-unforeseen/). Born on a farm in Breland, he made his way as a con artist, an actor, a lothario and then a slaver, was attacked by a mind flayer in the Demon Wastes that corrupted his mind, and held the magistracy of the village of New Ham while selling Empire-owned slaves into the Demon Wastes. The Imperial agents sent to investigate the missing shipment, [Esther Crona](/people/esther-crona/) and [Uriel Qualanthri](/people/uriel-qualanthri/), took a cut instead, and the three of them founded the Unforeseen with [Locke Pierce](/people/locke-pierce/). Under him New Ham became the city of Newham and he was raised to Mayor and then Grand Duke, pushing the Empire east from the outpost of Leef. A decade later three operatives who had liberated Leef united Newham's resistance cells with Digma Beeve's help and killed him; the rising destroyed the city in an otherworldly explosion that made the New Mourning. His voice and his songs have gone on turning up in places he never went.
 
@@ -127,7 +128,7 @@ Four Imperial operatives agreed in the undead-overrun village of Arden Crest to 
 
 LeBeefe was made Grand Duke and carried the Empire eastward from the outpost of Leef, raising an airship yard, illithid city guards and the Iron Veil there. The three operatives who would become the Inevitables liberated Leef, then confronted him in Newham City with Digma Beeve's help. The rising cost the city itself: a massive otherworldly explosion collapsed Newham and corrupted the region into New Mourning , toxic and uninhabitable. The survivors fled east and founded the Republic of Talenta .
 
-During the fighting in Leef the Inevitables found, in JL's words, that "LeBeefe is attempting to build a mind flayer army. He’s attempting to take the Dwarflands. And he’s doing it with Esther’s troops!" The currency of the Grand Duchy of Newham was "LeBeefes". <small>(Oral Histories: The Inevitables, 2025-08-30)</small> He was killed in the assault on him in Newham. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
+During the fighting in Leef the Inevitables found, in JL's words, that "LeBeefe is attempting to build a mind flayer army. He’s attempting to take the Dwarflands. And he’s doing it with Esther’s troops!" The currency of the Grand Duchy of Newham was "LeBeefes". <small>(Oral Histories: The Inevitables, 2025-08-30)</small> During the Newham fighting he travelled with the trio disguised as [Inspector LeGranouille](/people/inspector-legranouille/), an inspector in his own service who appeared to turn against him and join them after their heist; the turn was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small> He was killed in the assault on him in Newham. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
 
 ## His daughters
 

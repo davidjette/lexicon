@@ -43,7 +43,7 @@ Sharegrave is a lifelong resident of Sigil who keeps his headquarters on the Cat
 
 ## The party at the Catwalk
 
-In the Spillway the party rescued Prez and struck a deal with Rotten William to kill Sharegrave. Rotten William gave them a wand, and said it would paralyse Sharegrave and track them. The wand held one charge of fireball, with a command to cast it in Sharegrave's presence. <small>(DM notes)</small> Sharegrave knew the party had been sent by Rotten William, meant to interrogate and kill them, and told his gang to act normal and lure them into a trap. <small>(DM notes)</small>
+In [the Spillway](/places/the-spillway/) the party rescued Prez and struck a deal with Rotten William to kill Sharegrave. Rotten William gave them a wand, and said it would paralyse Sharegrave and track them. The wand held one charge of fireball, with a command to cast it in Sharegrave's presence. <small>(DM notes)</small> Sharegrave knew the party had been sent by Rotten William, meant to interrogate and kill them, and told his gang to act normal and lure them into a trap. <small>(DM notes)</small>
 
 The party were trapped. Their severe injuries went unhealed, except Battlebeast's; Battlebeast was sent to the arena, and [Barold](/people/barold-bonds/) and [Nicollo](/people/nicollo/) headed for the Gatehouse.
 

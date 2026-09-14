@@ -106,7 +106,7 @@ When the Mammon Machine was undone at the end of the Ages, it warped the space a
 
 Dead Man's Hand begins here, five hundred years after the Ages of the Infanta. Its heroes wake in Sigil's **Mortuary**, tattooed with fate marks and each remembering their own murder. They fight gangsters in the **Hive Ward**, and they cross **Shemeska**, a demon who owns a casino in the city.
 
-In that age worship of gods or devils is taboo in Sigil, and temples never grow too large for fear of the Lady of Pain; the one exception is [the Sororia](/organizations/the-sororia/), the priestly sisterhood of Cypher, who keep [the Lexicon](/items/the-lexicon/) at the heart of the High Courts. <small>(DM notes)</small> [Cageblight](/lore/cageblight/), a plague of the Hive Ward, was cured when the party closed a portal to a plague dimension that had opened in a drain in the Spillway.
+In that age worship of gods or devils is taboo in Sigil, and temples never grow too large for fear of the Lady of Pain; the one exception is [the Sororia](/organizations/the-sororia/), the priestly sisterhood of Cypher, who keep [the Lexicon](/items/the-lexicon/) at the heart of the High Courts. <small>(DM notes)</small> [Cageblight](/lore/cageblight/), a plague of the Hive Ward, was cured when the party closed a portal to a plague dimension that had opened in a drain in [the Spillway](/places/the-spillway/).
 
 ## The Starfall era
 

@@ -43,12 +43,13 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-names.md
   - CANON.md 5ac
   - sources/dave/2026-09-14-heyu-and-feng.md
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
 published: '2026-09-14'
 ---
 
 **Tiefling (reincarnated) · Barbarian · Hanged at Fort Maximillien, raised in Undermountain · Alive**
 
-Barold Bonds is a barbarian, one of the fatemarked party of [Dead Man's Hand](/lore/dead-mans-hand/). His daughter, who abhors violence, gave him the money to buy out his contract, and his manager, a hag, struck him down when he refused her bargain. In [Sigil](/places/sigil/) he was killed in the Spillway and reincarnated as a tiefling. He was condemned at [Fort Maximillien](/places/fort-maximillien/) in [Waterdeep](/places/waterdeep/) for an unrelated crime and hanged at dawn beside [Maverick](/people/maverick/) and [Shadowhigh](/people/shadowhigh/); his body fell into [Undermountain](/places/undermountain/), where [Tripp Sandhill](/people/tripp-sandhill/) raised him.
+Barold Bonds is a barbarian, one of the fatemarked party of [Dead Man's Hand](/lore/dead-mans-hand/). His daughter, who abhors violence, gave him the money to buy out his contract, and his manager, a hag, struck him down when he refused her bargain. In [Sigil](/places/sigil/) he was killed in [the Spillway](/places/the-spillway/) and reincarnated as a tiefling. He was condemned at [Fort Maximillien](/places/fort-maximillien/) in [Waterdeep](/places/waterdeep/) for an unrelated crime and hanged at dawn beside [Maverick](/people/maverick/) and [Shadowhigh](/people/shadowhigh/); his body fell into [Undermountain](/places/undermountain/), where [Tripp Sandhill](/people/tripp-sandhill/) raised him.
 
 ## Physical description
 
@@ -63,6 +64,8 @@ The party know that Shemeska hired [Jeremiah](/people/jeremiah/) to hunt them do
 ## Sigil
 
 When [Sharegrave](/people/sharegrave/)'s gang trapped the party a second time and BattleBeast was sent to the arena, Barold and [Nicollo](/people/nicollo/) were headed for the Gatehouse of [the Bleak Cabal](/organizations/the-bleak-cabal/). In the Spillway, where the party killed [Rotten William](/people/rotten-william/) and Gorelach and Gunt and cured [Cageblight](/lore/cageblight/), Barold was killed, and was reincarnated as a tiefling.
+
+Barold is a wild magic barbarian. When he died in combat, his wild magic surged, and he was reincarnated instantly; he came back as a tiefling. At the table he rolled very high on Dave's expanded wild magic table, then rolled Tiefling on a table deciding his race. <small>(Dave, 2026-09-14)</small>
 
 ## Fort Maximillien
 

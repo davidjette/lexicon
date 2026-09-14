@@ -46,12 +46,17 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-names.md
   - CANON.md 5ac
   - sources/dave/2026-09-14-heyu-and-feng.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - "Oral Histories: The Inevitables, 2025-08-17"
+  - "Oral Histories: The Inevitables, 2025-11-09"
+  - "Oral Histories: The Inevitables, 2025-11-10"
+  - "Oral Histories: The Inevitables, 2025-12-06"
 published: '2026-09-14'
 ---
 
 **Robot · Protocol droid · Tutor of princes · Betrayed the party at Fort Maximillien · Last seen in the fort**
 
-**Also known as:** N.I.C.O.LL.O Mach VIII LI, Mach V, "The Prince", Nik
+**Also known as:** N.I.C.O.LL.O Mach VIII LI, Mach V, "The Prince", Nik, Machiavelli
 
 Nicollo is a protocol droid-style robot, built to tutor young princes in diplomacy and spycraft, and one of the fatemarked party of [Dead Man's Hand](/lore/dead-mans-hand/) until he betrayed them. He was on his way to [Darius Klaxon](/people/darius-klaxon/) when the handsome man with the glowing sword attacked his shipment. He came to [Waterdeep](/places/waterdeep/) for the **RUIN** card; at [Tiffany House](/places/tiffany-house/) he convinced [Phillip Klaxon](/people/phillip-klaxon/) and [Griddy Champagne](/people/griddy-champagne/) that he was on their side and that [Jeremiah](/people/jeremiah/) had taken the card. At [the Grub + Grog](/places/the-grub-and-grog/) he interrogated the Grille brothers, had them call him The Prince, and, dominated by [Rex Bedsheets](/people/rex-bedsheets/), stabbed [Lenore](/people/lenore/). He broke into [Fort Maximillien](/places/fort-maximillien/) with [Heyu](/people/heyu/) to rescue the party, stayed behind when the others went down the trash pit, surrendered, and betrayed the party before General Varkus, Klaxon and Griddy while they questioned [Maverick](/people/maverick/). Maverick, [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) were hanged at dawn.
 
@@ -65,6 +70,8 @@ He was built by a clandestine engineer who modifies protocol droids into diploma
 
 The party know that Shemeska hired Jeremiah to hunt them down and find the cards, and that Jeremiah, the handsome man with the glowing sword, killed Feng Milosh and all of the party but Heyu.
 
+Jeremiah killed Nicollo in the attack on the shipment. Dave: "J killed MachV why? He was a secret delivery to Tiffany House, which eventually did receive the Ruin card he came for". <small>(Oral Histories: The Inevitables, 2025-12-06)</small> At the *Blackfish* Jeremiah did not recognise him: "he didn't know Machiavelli either because he failed his history check in the moment to remember him". <small>(Dave, Oral Histories: The Inevitables, 2025-08-17)</small>
+
 ## Sigil
 
 When [Sharegrave](/people/sharegrave/)'s gang trapped the party a second time and BattleBeast was sent to the arena, Nicollo and Barold were headed for the Gatehouse of [the Bleak Cabal](/organizations/the-bleak-cabal/).
@@ -74,6 +81,10 @@ When [Sharegrave](/people/sharegrave/)'s gang trapped the party a second time an
 At Tiffany House the party saw General Varkus deliver a speech against the Zanzibar, and Phillip Klaxon told Mach V of his plan to place Darius on the Lords' Council by ruining Beef Wellington. The party watched Griddy seduce Wellington with a false deck stacked with RUIN, and Jeremiah surprised them. In [the Tiffany House Heist](/history/the-tiffany-house-heist/) Jeremiah and a goon, disguised as waiters, tried to steal the card; Griddy and Jeremiah fought, the party resisted him, and the party stole RUIN. Mach convinced Klaxon and Griddy that he was on their side, and that Jeremiah had taken the card. <small>(Dave)</small>
 
 Afterward Darius agreed to his place in Waterdeep and Wellington was ruined, four days before the Lords' meeting. Klaxon was happy but scared to have lost the card; Griddy was suspicious, and demanded that they steal it back from Jeremiah.
+
+Darius wanted to take the RUIN card himself, to disinherit himself and free himself of the debt to Asmodeus that his line carries, and Mach talked him out of it. Had Darius taken it, the house would have fallen to [Maverick](/people/maverick/). <small>(Dave, 2026-09-14)</small>
+
+JL asked afterwards, "how evil is Mach 5? He seems eager to throw his lot in with the Asmodians, no?", and Dave answered, "Yeah that surprised me!" <small>(Oral Histories: The Inevitables, 2025-11-09 and 2025-11-10)</small>
 
 ## The Grub + Grog
 

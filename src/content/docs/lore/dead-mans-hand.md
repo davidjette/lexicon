@@ -56,6 +56,18 @@ sources:
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - CANON.md 5w, 5ab, 5ac
+- "Oral Histories: The Inevitables, 2023-07-18"
+- "Oral Histories: The Inevitables, 2023-12-02"
+- "Oral Histories: The Inevitables, 2024-01-13"
+- "Oral Histories: The Inevitables, 2024-01-18"
+- "Oral Histories: The Inevitables, 2024-01-21"
+- "Oral Histories: The Inevitables, 2024-05-21"
+- "Oral Histories: The Inevitables, 2024-05-26"
+- "Oral Histories: The Inevitables, 2025-09-21"
+- "Oral Histories: The Inevitables, 2025-09-25"
+- "Oral Histories: The Inevitables, 2025-12-04"
+- "Oral Histories: The Inevitables, 2026-02-03"
+- "Oral Histories: The Inevitables, 2026-03-03"
 published: '2026-09-10'
 wa:
   slug: dead-man26230393Bs-hand-article
@@ -63,7 +75,7 @@ wa:
 gallery:
 - src: /images/gallery/2025-08-22-01.webp
   alt: Lenore Bishop
-  caption: Portrait of Lenore Bishop, a human artificer with a black bob, large brass-and-steel headphones, a white shirt and leather harness straps.
+  caption: Portrait of Lenore Bishop, an artificer with a black bob, large brass-and-steel headphones, a white shirt and leather harness straps.
 - src: /images/gallery/2025-08-22-05.webp
   alt: Lenore Bishop lighting a fuse
   caption: Lenore Bishop, in headphones and a leather vest, blows on a candle beside an open chest packed with dynamite, aboard a ship at night.
@@ -100,8 +112,8 @@ gallery:
 
 ## The company
 
-- [Heyu](/people/heyu/) — a kenku investigator wizard and follower of Cypher, a private detective in Plaguemort.
-- [Lenore](/people/lenore/) — a human artificer and planar philosopher, a contractor of the Company, with her steel defender **Johnny**.
+- [Heyu](/people/heyu/) — a kenku investigator wizard and follower of Cypher, a private detective in [Plaguemort](/places/plaguemort/).
+- [Lenore](/people/lenore/) — an artificer and planar philosopher who presents as human and is a construct, a contractor of the Company, with her steel defender **Johnny**.
 - [Shadowhigh](/people/shadowhigh/) — a cowgirl ranger and card player with a small dragon friend.
 - [Maverick](/people/maverick/) — Maverick Asswell, a dark elf bard prince, a distant descendant of [Revan Darkcember](/people/revan-darkcember/) and, after the Klaxons, heir to [Tiffany House](/places/tiffany-house/).
 - [BattleBeast](/people/battlebeast/) — a leonin gladiator from Planet Greg.
@@ -119,11 +131,11 @@ They were dumped in the Mortuary by the corpse-collectors of [Pharod](/people/ph
 
 Outside the Mortuary lay [the Hive Ward](/places/the-hive-ward/), in the grip of a plague called [Cageblight](/lore/cageblight/). Heyu's spellbook was stolen by thugs of [Rotten William](/people/rotten-william/) and recovered, and in the Mortuary the party took the **FATES** card from Feng's boot. The party were drawn into the war between Rotten William and the thief-lord [Sharegrave](/people/sharegrave/) of [the Catwalk](/places/the-catwalk/), rescued Sharegrave's man [Prez](/people/prez/), and were trapped into working off their debts: BattleBeast won a prize fight at [the Grindhouse](/places/the-grindhouse/) against a ringer staked by Shemeska. The tattoo artist Fell looked at their marks and said: *"It's not one of mine. It's a Fatemark."*
 
-With the Bleaker healer [Diana Rhea](/people/diana-rhea/) and [the Bleak Cabal](/organizations/the-bleak-cabal/), they followed Cageblight to its source in the Spillway, killed Rotten William and the plague demon, closed the portal in the drain and cured the plague. The Bleak Cabal became their faction ally.
+With the Bleaker healer [Diana Rhea](/people/diana-rhea/) and [the Bleak Cabal](/organizations/the-bleak-cabal/), they followed Cageblight to its source in [the Spillway](/places/the-spillway/), killed Rotten William and the plague demon, closed the portal in the drain and cured the plague. The Bleak Cabal became their faction ally.
 
 ## Saltmarsh
 
-Through a portal in the Smoldering Corpse, the party reached [Saltmarsh](/places/saltmarsh/) on Oerth, where the Temple of Neptune had been desecrated and the seraph [Aqueus](/people/aqueus/) pinned to a drowned tomb by the blade [Weathervein](/items/weathervein/). BattleBeast and Lenore followed [Papa Diaz](/people/papa-diaz/) to the shore where he turned back the Drowned, and aboard the pirate ship of [Gabriella Hellwood](/people/gabriella-hellwood/), where Feng's daughter [Keisha Milosh](/people/keisha-milosh/) served, the party fought [the Blackfish Encounter](/history/the-blackfish-encounter/), and slew Jeremiah, though not permanently. They kept the **FATES** card.
+Through a portal in the Smoldering Corpse, the party reached [Saltmarsh](/places/saltmarsh/) on Oerth, where the [Temple of Neptune](/places/the-temple-of-neptune/) had been desecrated and the seraph [Aqueus](/people/aqueus/) pinned to a drowned tomb by the blade [Weathervein](/items/weathervein/). BattleBeast and Lenore followed [Papa Diaz](/people/papa-diaz/) to the shore where he turned back the Drowned, and aboard the pirate ship of [Gabriella Hellwood](/people/gabriella-hellwood/), where Feng's daughter [Keisha Milosh](/people/keisha-milosh/) served, the party fought [the Blackfish Encounter](/history/the-blackfish-encounter/), and slew Jeremiah, though not permanently. They kept the **FATES** card.
 
 ## The Sororia
 
@@ -137,11 +149,13 @@ That night came [the Incident at the Grub + Grog](/history/the-incident-at-the-g
 
 ## Fort Maximillien and Undermountain
 
-In [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), Lenore, BattleBeast and Heyu escaped down the fort's trash pit. Nicollo betrayed the rest, and Maverick, Shadowhigh and Barold were hanged at dawn. The trash pit was the Yawning Portal: in [Undermountain](/places/undermountain/) [Tripp Sandhill](/people/tripp-sandhill/) raised the fallen. The party cleared the first level, met the old man [Soggy Blankets](/people/soggy-blankets/), recovered the Company's mission file for [O-3255](/items/o-3255/), and descended to the Arcane Chambers, where Halaster Blackcloak keeps a hall of Motherstone relics and the tomb of Daenan Gallidan, empty but for the **STAR** card.
+In [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), Lenore, BattleBeast and Heyu escaped down the fort's trash pit. Nicollo betrayed the rest, and Maverick, Shadowhigh and Barold were hanged at dawn. The trash pit was the Yawning Portal: in [Undermountain](/places/undermountain/) [Tripp Sandhill](/people/tripp-sandhill/) raised the fallen. The party cleared the first level, met the old man [Soggy Blankets](/people/soggy-blankets/), recovered the Company's mission file for [O-3255](/items/o-3255/), and descended to the Arcane Chambers, where [Halaster Blackcloak](/people/halaster-blackcloak/) keeps a hall of Motherstone relics and the tomb of Daenan Gallidan, empty but for the **STAR** card.
 
 ## The deck
 
 The campaign is named for, and built around, a deck. Twenty-one numbered cards survive in the campaign's own materials, each with a name: **Key · Balance · Puzzle · Gem · Rogue · Sage · Fates · Knight · Sun · Moon · Comet · Star · Jester · Throne · Ruin · Donjon · Void · Skull · Flames · Talons · Euryale**. Alongside them run a second set of unnumbered cards — **Beast · Dragon · Elemental · Fool · Maze · Plant · Priest · Tower**. Each player character is dealt a hand, and those hands are kept: the folder of them is titled *fate hands*, and the readings are logged. The cards of each character's hand are the cards of their fatemark.
+
+Each character's tarot reading carries Door and Gate clues. <small>(Dave, Oral Histories: The Inevitables, 2025-09-25)</small> The FATES card was in the party's hands before the Saltmarsh quest began; "there will probably be one at the end of other quests". <small>(Dave, Oral Histories: The Inevitables, 2025-09-21)</small>
 
 <small>In [Arc II](/history/arc-ii-motherstone/) the party had to beat Mannemarco, the King of Worms, at his favourite game on the moonstone cube called the Illimat — a card-and-combat duel in which every played card summoned a beast into the arena and every captured card was won in blood. Whether the two decks are related is not recorded.</small>
 
@@ -152,6 +166,34 @@ The Company of this age is [Nimbus Corp](/organizations/nimbus-corp/). When St. 
 ## Continuity with the older chronicle
 
 Heyu's arcane focus is a floating **moonstone**. The party's world has firearms, clockwork automata and steampunk artifice as ordinary equipment, which is what the Sword Coast Trading Company was building toward when it learned to ride the Obliviator's leylines. The Ordo Trium taught in Sigil holds that the three Fates, Istus, Eloise and Cypher, pulled the world back from the brink five hundred years ago. And in Undermountain, Halaster Blackcloak keeps a hall of stolen [Motherstone](/places/motherstone/) architecture, assembled before any obliviation was lifted on Brightmantle.
+
+## At the table
+
+Dave announced the campaign in July 2023 ("Planescape coming…..") and on 2023-12-02 posted an image, "Istus creating the Deck of Many Things", saying he would use "this new book & planescape for the new Big Campaign". <small>(Oral Histories: The Inevitables, 2023-07-18, 2023-12-02)</small> In January 2024 he set out the brief:
+
+> Next campaign will take place in Planescape, probably starting in the Outlands but with a strong hub in Sigil\
+> I’m thinking hundreds of years since the Infanta Wars\
+> …\
+> Maybe a thousand years or two\
+> …\
+> So its an all new status quo where the cosmos are orderly in the great wheel model, and the characters will be interplanetary beings in one form or another, story style to start with will be somewhere between a western and a noir
+
+<small>Dave (Oral Histories: The Inevitables, 2024-01-18)</small>
+
+Asked how long after the Infanta the game would be set, he had answered "Hmm not sure yet". <small>(2024-01-13)</small> The campaign as played opens in the Mortuary, five hundred years after the Ages of the Infanta. On the Zanzibars he wrote: "Like why wouldn’t Zanzibar conquer the known world and force the elves and dwarves to stick to their remote homelands" and "So then every power for a thousand years claimed his throne and their gods will to be Zanzibar, King of Men". <small>(Oral Histories: The Inevitables, 2024-01-21)</small>
+
+In May 2024, as the players built their characters, Dave described the setting:
+
+> This campaign will be in a much less settled reality than the Spelljammer game because one ideology hasn’t won out over others to the extent that a multiversal hegemony can form, the universe remains very much up for grabs\
+> In the Planes, belief shapes reality!
+
+<small>Dave (Oral Histories: The Inevitables, 2024-05-21)</small>
+
+In the same conversation he wrote that "the angels and demons which are kept in rigid balance in Cyphers peaceful denouement will chafe at their prisons and ever seek to topple the balance", and summed it up: "Last one was lord of the rings and this one will be fifth element". <small>(Oral Histories: The Inevitables, 2024-05-21)</small> Of the party: "Heyu has share of lex and both Nik and Lenore are constructs, outside chance that Shadowhigh is too (?)". <small>(2024-05-26)</small>
+
+In September 2025, having worked out what the Door and Gate clues in everyone's readings correspond to, Dave wrote that the campaign is about "the role of fate vs will, the experience of being dropped in an urban nation no your own, and the end of a peaceful stable world in favor of a chaotic and uncertain new order" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2025-09-25)</small> He considered running it west-marches style, following leads to different cards with portions of the team. <small>(2025-09-21)</small> In December: "The cards are kind of elder scrolls for this universe now". <small>(Oral Histories: The Inevitables, 2025-12-04)</small>
+
+By February 2026, "this has been a purely urban quest except for that brief trip to Saltmarsh" <small>(2026-02-03)</small>, and by March the party had been caught and jailed in four sessions across the campaign. <small>(Dave, Oral Histories: The Inevitables, 2026-03-03)</small>
 
 ## Maps
 

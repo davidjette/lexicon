@@ -54,6 +54,8 @@ sources:
 - sources/dave/2026-09-14-fort-maximillien-as-played.md
 - CANON.md 5ac
 - CANON.md 5af
+- "Oral Histories: The Inevitables, 2024-05-26"
+- "Oral Histories: The Inevitables, 2026-02-03"
 published: '2026-09-10'
 wa:
   slug: shadowhigh-person
@@ -69,6 +71,8 @@ Before Waterdeep she had played poker against a high roller in Honnalee and been
 ## Physical description
 
 A cowgirl ranger in a leather duster and wide-brim hat, revolver and whip, with a small draconic pet perched on her shoulder or nearby; "sardonic, relaxed but deadly." <small>(Character roster. Her species is not recorded.)</small>
+
+Dave, on constructs in the party: "Heyu has share of lex and both Nik and Lenore are constructs, outside chance that Shadowhigh is too (?)". <small>(Oral Histories: The Inevitables, 2024-05-26)</small>
 
 ## The high roller
 
@@ -91,6 +95,8 @@ That night, in the party's carriage at [the Grub + Grog](/places/the-grub-and-gr
 ## Fort Maximillien
 
 At Ard Farkle's she ran in and shot the peasants Rex Bedsheets had dominated, which shocked the guards into arresting her; she threw down her guns and tried to explain herself, was stunned by a war wizard and dragged in chains to a carriage. Chained to a wall in a dark, barren cell, she snapped her fingers and summoned her small dragon, which searched the dungeon and brought back pages of a singed spellbook from a pile of half-incinerated bones — a book she could make neither heads nor tails of. She tried to pick her handcuffs with a shard of bone. In a nearby cell sat Barold Bonds, condemned for a wholly unrelated crime; later [Maverick](/people/maverick/) was thrown in beside her, and they traded stories and regrets.
+
+Before the breakout Dave wrote: "I think Shadowhigh might get the death penalty man, now the exercise has shifted to how does Varkus/the law handle you people". <small>(Oral Histories: The Inevitables, 2026-02-03)</small>
 
 That night BattleBeast broke out loudly and caused a huge ruckus while the rest of the team snuck into the fort; the party killed almost everyone, including Sir Loin, who was raised afterwards. [Lenore](/people/lenore/), Heyu, [BattleBeast](/people/battlebeast/) and [Rodriel](/people/rodriel/) got away, the rest of the team were captured, and Nicollo turned on the party.
 

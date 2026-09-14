@@ -41,6 +41,8 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 - src/content/docs/places/fort-maximillien.md
 - CANON.md 5ac
+- "Oral Histories: The Inevitables, 2026-02-28"
+- "Oral Histories: The Inevitables, 2026-03-03"
 published: '2026-09-14'
 ---
 
@@ -115,3 +117,11 @@ Just before the end Shadowhigh's dragon flew in and tried to burn the ropes, and
 In the hole, the living crouched under a translucent sheltering dome that Heyu raised from her wand. Lenore was fitting on some slinky black leather armor Heyu had saved from a previous defeated foe, a decidedly dominatrix look with her nerdy glasses and black bob haircut. Three bodies fell onto the dome: Shadowhigh, Maverick and Barold. The party were together again, and only half of them were alive.
 
 The trash hole "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party had landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." <small>(DM notes, IMG_3100)</small> Tripp brought many of them back to life, and the party helped him get revenge for the death of his own party. <small>(DM notes, IMG_3105)</small>
+
+Lenore came away from the fort with Sir Loin's sword: "I got that Sir Loin sword". <small>(Nico, Oral Histories: The Inevitables, 2026-02-28)</small>
+
+## Dave's view of the night
+
+"it was def a sneaking type affair though". BattleBeast could have gone with the others and let the owlbear distract the soldiers, "and you guys would have been golden", and "patrick's plan with the writ could have worked but not at the exact same moment an owlbear was atacking a bunch of guys" <small>(sic)</small>. <small>(Dave, Oral Histories: The Inevitables, 2026-03-03)</small>
+
+The fort's two paladin bosses did not smite; they used only their secondary bonus actions, commanding the other troops. "But if I had the two bosses smite BattleBeast he would have been toast". <small>(Dave, Oral Histories: The Inevitables, 2026-03-03)</small>

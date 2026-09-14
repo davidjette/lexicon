@@ -19,6 +19,10 @@ tags:
 - Weathervein
 - Dolores Weathervein
 - Lady of Tears
+- high priest
+- House Weathervein
+- ocean Aasimar
+- Ghosts of Twatmarsh
 - Papa Diaz
 - Dagon
 - Dead Man's Hand
@@ -41,14 +45,26 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3050, IMG_3051, IMG_3053, IMG_3056, IMG_3058, IMG_3059, IMG_3060)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5ac
+- "Oral Histories: The Inevitables, 2021-09-25"
+- "Oral Histories: The Inevitables, 2026-03-07"
 published: '2026-09-14'
 ---
 
-**Seraph · Seraph of Poseidon · Protector of Saltmarsh · Dead, desecrated**
+**Seraph · Seraph of Poseidon · High priest · Protector of Saltmarsh · Dead, desecrated**
 
 **Also known as:** the Drowned Seraph
 
-**Aqueus**, called **the Drowned Seraph**, was a seraph of Poseidon and the protector of [Saltmarsh](/places/saltmarsh/). He was a former comrade of [Jeremiah](/people/jeremiah/), who betrayed him: Aqueus was slain and pinned to the tomb of Dolores Weathervein on the sea floor by the blade [Weathervein](/items/weathervein/), his heart pierced outside his body, and his desecrated corpse was used to open a portal on the sea floor. The party of [Dead Man's Hand](/lore/dead-mans-hand/) saw the desecration of the altar with his corpse in the hidden temple of Neptune beneath a whirlpool, and know of the desecration.
+**Aqueus**, called **the Drowned Seraph**, was a seraph of Poseidon and the protector of [Saltmarsh](/places/saltmarsh/), the high priest of its [Temple of Neptune](/places/the-temple-of-neptune/) in Dave's picture of him, and an angelic ally or kinsman of the [Weathervein line](/organizations/house-weathervein/). He was a former comrade of [Jeremiah](/people/jeremiah/), who betrayed him: Aqueus was slain and pinned to the tomb of [Dolores Weathervein](/people/dolores-weathervein/) on the sea floor by the blade [Weathervein](/items/weathervein/), his heart pierced outside his body, and his desecrated corpse was used to open a portal on the sea floor. The party of [Dead Man's Hand](/lore/dead-mans-hand/) saw the desecration of the altar with his corpse in the hidden temple of Neptune beneath a whirlpool, and know of the desecration.
+
+## The high priest and the Weathervein line
+
+Aqueus's title in the DM notes is "Seraph of Poseidon"; the temple he served in Saltmarsh is Neptune's, and Poseidon and Neptune name the same sea god there. Dave pictured him as the temple's high priest and as kin to Dolores Weathervein, the Twatmarsh-era priest of Neptune whose tomb he lies on:
+
+> Aqueus the high priest who’s heart got cut out i imagined as an angelic ally or even descendent of Dolores, who sort of reconnected with the ancient angelic line and remingled with the ocean Aasimar
+
+<small>(Dave; Oral Histories: The Inevitables, 2026-03-07)</small>
+
+The ancient angelic line is the one Dolores descends from. Of her aasimar ancestry, "many generations ago", Dave had said in 2021: "Angels kicked from heaven to make a life on earth". <small>(Oral Histories: The Inevitables, 2021-09-25)</small>
 
 ## Betrayal
 

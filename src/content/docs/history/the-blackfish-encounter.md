@@ -14,6 +14,11 @@ tags:
 - Dolores Weathervein
 - Dagon
 - Dunwater Horror
+- Horror of Dunwater
+- demikraken
+- Dunwater
+- Hafgufa
+- barbed devils
 - Gabriella Hellwood
 - Ladybeard
 - Keisha Milosh
@@ -33,6 +38,11 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3052, IMG_3053, IMG_3054, IMG_3055, IMG_3056, IMG_3058, IMG_3059, IMG_3060, IMG_3061, IMG_3062, IMG_3063, IMG_3064, IMG_3065)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5ac
+- sources/dave/2026-09-14-oral-histories-cast.md
+- "Oral Histories: The Inevitables, 2021-10-10"
+- "Oral Histories: The Inevitables, 2025-08-17"
+- "Oral Histories: The Inevitables, 2025-09-22"
+- "Oral Histories: The Inevitables, 2026-03-07"
 published: '2026-09-14'
 ---
 
@@ -60,6 +70,8 @@ On the deck are Jeremiah, two barbed devils and the drowned dead, and four of th
 
 The party slew Jeremiah. He was shot in the head and pierced through the throat. The Blackfish was left burnt, with a hole in it. <small>(DM notes)</small>
 
+Dave's account the day after, which calls the ropes "ladders" and the barbed devils "Demons": "you guys cut the ladders in time - means zombies too 2 turns to climb and had a chance to fall, you guys split up to shut down the Demons and you one shotted handsome man". <small>(sic; Oral Histories: The Inevitables, 2025-08-17)</small> Asked by Nico whether they were the same demons that were with Jeremiah when he killed [Lenore](/people/lenore/), Dave answered: "he has bigger ones then," / "had". <small>(Oral Histories: The Inevitables, 2025-08-17)</small>
+
 ## Jeremiah rises
 
 Jeremiah, the fallen seraph, revives within one to ten minutes of death, keeping any damage done to him. Unless his heart is cut out and then defiled or sanctified, pierced with a holy or unholy weapon or eaten, he rises; restrained, he regains the magic to escape. <small>(DM notes)</small>
@@ -85,6 +97,8 @@ The **Dunwater Horror**:
 > A huge squid-like creature with a massive sphincter of a mouth with gleaming white teeth and an eerily supple pink mouth. It's enormous arms seem to move slowly while it glides at enormous speeds, whipping around to consume its prey in an instant.
 
 <small>(sic; DM notes)</small>
+
+Ladybeard below the waves is the Dunwater Horror: the squid-like creature clashing with Dagon is Gabriella Hellwood in the form her pact with [Hafgufa](/lore/hafgufa/) gave her. Dave: "Hellwood’s fate as the Dunwater Horror, tricked by Jeremiah into taking the blame for the Temple of Neptune, and then trapping him so she could removed the desecration of Dolores’s underwater tomb". <small>(sic; Oral Histories: The Inevitables, 2026-03-07)</small> Dave also calls her "the Horror of Dunwater" <small>(Dave)</small> and, after her story ended, a "dying demikraken near Saltmarsh". <small>(Oral Histories: The Inevitables, 2025-09-22)</small> The name comes from [Dunwater](/places/dunwater/), the lizardfolk stronghold of [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/), where Hellwood's party had sought the trust of Queen Okathent. <small>(Oral Histories: The Inevitables, 2021-10-10)</small>
 
 ## Keisha and the FATES card
 

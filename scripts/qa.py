@@ -288,6 +288,7 @@ KNOWN_GOOD = {
     ('uriel-qualanthri', 'preview(4).txt'),
     ('the-bright-dawn-crimson-sun-unbound', 'preview(9).txt'),
     ('varyn-crona', 'preview(9).txt'),
+    ('gemma-corso', 'preview.txt'),
 }
 
 

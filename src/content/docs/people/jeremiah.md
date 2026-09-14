@@ -18,6 +18,9 @@ tags:
   - Griddy Champagne
   - Garidriel
   - Grille brothers
+  - Goodface
+  - Bobby Goodface
+  - Nicollo
 type: person
 kind: people
 icon: fa-skull
@@ -42,12 +45,15 @@ sources:
   - CANON.md 5w
   - CANON.md 5ac
   - sources/dave/2026-09-14-heyu-and-feng.md
+  - "Oral Histories: The Inevitables, 2025-08-17"
+  - "Oral Histories: The Inevitables, 2025-10-05"
+  - "Oral Histories: The Inevitables, 2025-12-06"
 published: '2026-09-14'
 ---
 
 **Fallen angel · Hired killer of [Shemeska](/people/shemeska/) · Alive**
 
-**Also known as:** the handsome man with the glowing sword; the fallen seraph
+**Also known as:** the handsome man with the glowing sword; the fallen seraph; Goodface; Bobby Goodface
 
 Jeremiah is a fallen angel hired by [Shemeska](/people/shemeska/), the demon who owns the casino [Fortune's Wheel](/places/fortunes-wheel/) in [Sigil](/places/sigil/), to hunt down the party and find the cards of [the Deck of Many Things](/items/the-deck-of-many-things/). He is the handsome man with the glowing sword who killed [Feng Milosh](/people/feng-milosh/), who had a card, and who killed every member of the party but Heyu before they woke in [the Mortuary](/places/the-mortuary/) tattooed with [fatemarks](/lore/fatemarks/). In [Saltmarsh](/places/saltmarsh/) he betrayed his former comrade, the seraph [Aqueus](/people/aqueus/), in a ritual of desecration, and the party killed him aboard the *Blackfish*; he did not stay dead. In [Waterdeep](/places/waterdeep/) he and a goon, disguised as waiters, staged a heist at [Tiffany House](/places/tiffany-house/) to steal the RUIN card. He fought [Griddy Champagne](/people/griddy-champagne/) there, the party resisted him and stole the card themselves, and the drivers he had hired later gave up both him and Shemeska.
 
@@ -58,6 +64,8 @@ Jeremiah is a medium celestial who fights with a greatsword, the glowing sword. 
 ## Sigil
 
 Shemeska is seeking the Deck, and had Jeremiah search for its cards and kill to find them. <small>(DM notes)</small> Among those he killed were Feng Milosh, who had a card, and every member of the party but Heyu.
+
+One of them was [Nicollo](/people/nicollo/), killed in the attack on his shipment. Dave: "J killed MachV why? He was a secret delivery to Tiffany House, which eventually did receive the Ruin card he came for". <small>(Oral Histories: The Inevitables, 2025-12-06)</small>
 
 [Pharod](/people/pharod/), who holds the lock on the city's corpse-collecting racket, took payment from Jeremiah to dispose of bodies with no questions asked, and Jeremiah is now threatening him. <small>(DM notes)</small> In [the Hive Ward](/places/the-hive-ward/) the party saw Pharod together with the handsome man.
 
@@ -73,7 +81,15 @@ Jeremiah knew that [Captain Gabriella Hellwood](/people/gabriella-hellwood/) of 
 
 Jeremiah came against the party at the *Blackfish* with two barbed devils, while drowned corpses climbed from the sea floor. <small>(DM notes)</small> The party killed him: he was shot in the head, pierced through the throat and castrated. He does not stay dead. Jeremiah revives within one to ten minutes, keeping any damage done to his body, and unless his heart is cut out and defiled or sanctified, a restrained corpse regains the magic to escape. <small>(DM notes)</small> The party learned his nature from the fight. He now knows them all, including that [Heyu](/people/heyu/) and [Rodriel](/people/rodriel/) are with them and that they have the cards. <small>(DM notes)</small>
 
+He carried a death ward and could plane shift as a legendary action, and neither got him off the ship. His radiant strike on Lenore did "like 4d8 + 5 radiant". The party killed him in a single round: "you one shotted handsome man". <small>(Dave, Oral Histories: The Inevitables, 2025-08-17)</small> When he killed Lenore before the Mortuary he had brought larger fiends than the ones on the *Blackfish*: "he has bigger ones then," / "had". <small>(Dave, Oral Histories: The Inevitables, 2025-08-17)</small>
+
+In the fight he did not know Rodriel, and he did not recognise Nicollo, called Machiavelli at the table, because "he failed his history check in the moment to remember him". Until then, "for all you know he thinks you're all dead" / "not any more". <small>(Dave, Oral Histories: The Inevitables, 2025-08-17)</small>
+
 See [the Blackfish encounter](/history/the-blackfish-encounter/).
+
+## Shemeska's account
+
+After Saltmarsh, Shemeska told some of the party about Jeremiah, whom the table calls Bobby Goodface. <small>(Dave, Oral Histories: The Inevitables, 2025-10-05)</small>
 
 ## Tiffany House
 

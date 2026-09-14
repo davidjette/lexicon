@@ -15,11 +15,12 @@ tags:
 - Factol
 - Heyu
 - Sigil
+- Lady's Ward
 - Dead Man's Hand
 icon: fa-church
 fields:
   type: Cathedral
-  location: Sigil
+  location: The Lady's Ward, Sigil
   owner: The Sororia
   founding: Unknown
   rulingBody: Brother Montegue, Factol of the Faceless
@@ -28,16 +29,20 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3068, IMG_3072, IMG_3073)
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
 - CANON.md 5ad
+- sources/dave/2026-09-14-inevitables-rulings-batch.md
+- "Oral Histories: The Inevitables, 2025-10-10"
 published: '2026-09-14'
 ---
 
-**Cathedral · [Sigil](/places/sigil/) · [The Sororia](/organizations/the-sororia/)**
+**Cathedral · The Lady's Ward, [Sigil](/places/sigil/) · [The Sororia](/organizations/the-sororia/)**
 
-**Our Lady of Mysteries** is the towering cathedral of [the Sororia](/organizations/the-sororia/), the priestly sisterhood of Cypher, in [Sigil](/places/sigil/). Its masked nuns and acolytes keep a building of otherworldly art and architecture in which no god, and no recognisable creature or object, is depicted. [Heyu](/people/heyu/) came there, was welcomed to an altar and given a vision, and was then surrounded by the Faceless and brought before the Factol of the order, [Brother Montegue](/people/brother-montegue/).
+**Our Lady of Mysteries** is the towering cathedral of [the Sororia](/organizations/the-sororia/), the priestly sisterhood of Cypher, in the Lady's Ward of [Sigil](/places/sigil/). Its masked nuns and acolytes keep a building of otherworldly art and architecture in which no god, and no recognisable creature or object, is depicted. [Heyu](/people/heyu/) came there, was welcomed to an altar and given a vision, and was then surrounded by the Faceless and brought before the Factol of the order, [Brother Montegue](/people/brother-montegue/).
 
 ## The cathedral
 
 Followers and respectful tourists are tolerated at Our Lady of Mysteries. Its masked nuns and acolytes bustle and convene, while groups of citizens pray or stop at its complex geometric art and architecture. The artistry and refinement of the building and the works on display are "otherworldly in their quality and scale, but no image of a god or truly any recognizable creature, object, or work are depicted." <small>(DM notes)</small>
+
+The cathedral stands in the Lady's Ward. <small>(Dave, Oral Histories: The Inevitables, 2025-10-10)</small>
 
 Worship of gods or devils is taboo in Sigil, and temples there are kept small for fear of retribution from [the Lady of Pain](/people/the-lady-of-pain/). The Sororia are the exception, and the Lady looks the other way regarding their "Towering Cloister". <small>(DM notes)</small>
 

@@ -38,6 +38,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - sources/dave/2026-09-14-fort-maximillien-as-played.md
 - CANON.md 5ac
+- "Oral Histories: The Inevitables, 2026-05-12"
 published: '2026-09-14'
 ---
 
@@ -60,6 +61,8 @@ Tripp's instrument is the **Golden Lancet and Ledger**:
 > A solid gold lancet with an imperceptible lengthwise cleft ending in a tiny reservoir and tipped with a razor sharp Calamus.
 
 A payment is recorded in the ledger to cast a spell, at prices running from one gold piece up to a thousand, the dearest spells including *revivify*. The ledger is "a neat, black ledger with ever lengthening pages." The instrument is "Fashioned from the feather of a sphinx soaked in Unicorn blood for 666 years." It works under a **pact with Mammon**. <small>(DM notes, IMG_3098)</small>
+
+Nico, who plays Lenore, described him after play: "Patrick’s new Character is a warlock, his patron gave him a wand that resurrects people for a gold price." She wondered whether someone had paid the patron, or one of his followers, to raise the party. <small>(Oral Histories: The Inevitables, 2026-05-12)</small>
 
 **Items:** the Golden Lancet and Ledger, a solid gold lancet and a black ledger, carried in Undermountain.
 

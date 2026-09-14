@@ -19,6 +19,11 @@ tags:
 - Zellmo
 - Zythara
 - Modle Negen
+- Negen Zanzibar
+- Little Lord Zellmo
+- Lady Zythara
+- General Varkas
+- Sad King Billy
 - the Sovereignty
 - Dead Man's Hand
 - Starfall
@@ -38,6 +43,8 @@ sources:
 - CANON.md 5ah
 - CANON.md 5ai
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
+- "Oral Histories: The Inevitables, 2024-01-21"
+- "Oral Histories: The Inevitables, 2025-05-17"
 published: '2026-09-14'
 image:
   src: /images/chat/2024-10-26-1786087512129249.webp
@@ -66,11 +73,15 @@ When the Penitent died, elderly, his son Zanzibar William the Melancholy, former
 
 ## The five Zanzibars
 
-- **Zanzibar William the Melancholy**, Emperor of Faerûn, on the Glass Throne.
-- **Zellmo**, of the Zarus Cult.
-- **Zythara**, the Witch Queen of Myth Drannor.
-- **Peterbilt Varkus**, of the March of the Free West.
-- **Modle Negen**, of the Negende Zonen.
+- **Zanzibar William the Melancholy**, Emperor of Faerûn, on the Glass Throne. Also known as William the Melancholy, "the bard prince who goes on to become Sad King Billy".
+- **Zellmo**, of the Zarus Cult. Also known as Little Lord Zellmo, "the child pope of the Zarus cult".
+- **Zythara**, the Witch Queen of Myth Drannor. Also known as Lady Zythara the Witch Queen.
+- **Peterbilt Varkus**, of the March of the Free West. Also known as General Varkas, "who commanded the Purple Dragon Knights".
+- **Modle Negen**, of the Negende Zonen. Also known as "the mysterious Negen Zanzibar".
+
+<small>(Aliases: JL, Oral Histories: The Inevitables, 2025-05-17)</small>
+
+"The War of the 5 Zanzibars shook the world for a decade, with each army claiming to have the true Zanzibar at its head." <small>(JL, Oral Histories: The Inevitables, 2024-01-21)</small>
 
 ## Waterdeep
 

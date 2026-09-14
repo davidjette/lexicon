@@ -40,7 +40,7 @@ published: '2026-09-14'
 
 **Also known as:** President James A Garfield
 
-Prez is a thief in [Sharegrave](/people/sharegrave/)'s gang in the [Hive Ward](/places/the-hive-ward/) of [Sigil](/places/sigil/), "Tom Cat", a failed conman and mediocre burglar who owes Sharegrave 600 gold. Sent to spy on [Rotten William](/people/rotten-william/), he was discovered and captured, and the party rescued him from Rotten William's hideout in the Spillway. Back on [the Catwalk](/places/the-catwalk/), Sharegrave suspected him of turning coat. He directed the party's effort at [the Grindhouse](/places/the-grindhouse/) and went with them to [Fortune's Wheel](/places/fortunes-wheel/).
+Prez is a thief in [Sharegrave](/people/sharegrave/)'s gang in the [Hive Ward](/places/the-hive-ward/) of [Sigil](/places/sigil/), "Tom Cat", a failed conman and mediocre burglar who owes Sharegrave 600 gold. Sent to spy on [Rotten William](/people/rotten-william/), he was discovered and captured, and the party rescued him from Rotten William's hideout in [the Spillway](/places/the-spillway/). Back on [the Catwalk](/places/the-catwalk/), Sharegrave suspected him of turning coat. He directed the party's effort at [the Grindhouse](/places/the-grindhouse/) and went with them to [Fortune's Wheel](/places/fortunes-wheel/).
 
 ## Spying on Rotten William
 

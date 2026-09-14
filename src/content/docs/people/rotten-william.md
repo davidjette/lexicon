@@ -41,7 +41,7 @@ published: '2026-09-14'
 
 **Also known as:** RW
 
-Rotten William was a rogue who led a group of extortionists in the [Hive Ward](/places/the-hive-ward/) of [Sigil](/places/sigil/), enforced [Pharod](/people/pharod/)'s corpse-collecting racket for a cut, and warred with the thieves' guild of [Sharegrave](/people/sharegrave/). His thugs robbed [Heyu](/people/heyu/) of her spellbook on her arrival at [the Mortuary](/places/the-mortuary/). The party raided his hideout in the Spillway, took and then abandoned his contract on Sharegrave's life, and later stormed his lair again. He fled into the sewers, and in the Sanitizing Room of the Spillway Depths, where a plague portal had opened in the drain, he was killed. Closing that portal cured [Cageblight](/lore/cageblight/).
+Rotten William was a rogue who led a group of extortionists in the [Hive Ward](/places/the-hive-ward/) of [Sigil](/places/sigil/), enforced [Pharod](/people/pharod/)'s corpse-collecting racket for a cut, and warred with the thieves' guild of [Sharegrave](/people/sharegrave/). His thugs robbed [Heyu](/people/heyu/) of her spellbook on her arrival at [the Mortuary](/places/the-mortuary/). The party raided his hideout in [the Spillway](/places/the-spillway/), took and then abandoned his contract on Sharegrave's life, and later stormed his lair again. He fled into the sewers, and in the Sanitizing Room of the Spillway Depths, where a plague portal had opened in the drain, he was killed. Closing that portal cured [Cageblight](/lore/cageblight/).
 
 ## The extortionists
 

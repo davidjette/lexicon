@@ -63,3 +63,14 @@ carries every adjudication above.
   "Oral Histories: The Inevitables, 2026-08-22".
 - **Rule, extended:** a leak-check hit is also public if the phrase appears in the Oral Histories chat transcripts
   (`canon/oral-histories/`). Check there as well as `sources/site/` and `sources/wa/`.
+
+## CLEARED 2026-09-14 - `gemma-corso` / Nico's "Character ideas" origin for Gemma
+
+- **Flagged shingles:** "stealing to survive one night a guard caught her stealing", from the paragraph giving
+  Gemma's second origin (taken from the Monster Lands at 11, a slave in Newham, taken in by Jane Corso, Jane killed
+  by imperial soldiers).
+- **Verdict: PUBLISH, by ruling.** The text exists only in `dmnotes/preview.txt` (Nico's Sharn DM notes, "Character
+  ideas"). Dave, 2026-09-14, asked whether it was publishable beside Gemma's chat version: *"publish both and cite"*
+  (`sources/dave/2026-09-14-eberron-open-questions.md`). The article paraphrases it as a second account and cites
+  Nico's DM notes.
+- **Scope:** this clears only the Gemma paragraph for `gemma-corso`. The rest of `preview.txt` stays DM-only.
