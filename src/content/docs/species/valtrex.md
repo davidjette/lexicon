@@ -5,6 +5,7 @@ tags:
 - Valtrex
 - Vuldrach
 - Voldrak
+- Vondrak
 - Valtrex the Putrid
 - black dragon
 - The Korramont
@@ -39,6 +40,8 @@ sources:
 - C:/dev/sharn-campaign/session-2026-08-21-recap.md
 - C:/dev/sharn-campaign/session-2026-09-04-summary.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-07-29"
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: valtrex-species
@@ -51,7 +54,7 @@ gallery:
 
 **Black dragon (elder) - Lord of the Korramont - Unaligned to any faction - Alive**
 
-*Also known as:* Vuldrach (the older spelling, carved on the Grand Stair and used in the published record) - Voldrak - Valtrex the Putrid
+*Also known as:* Vuldrach (the older spelling, carved on the Grand Stair and used in the published record) - Voldrak - Vondrak - Valtrex the Putrid
 
 **Valtrex** is an elder black dragon, the youngest of the three descended from the First and the only one small enough to move through the narrow ways. He held a peace treaty with the [Deeptempura](/organizations/the-deeptempura-clan/) under [the Korramont](/places/the-korramont/) for generations, until the duergar let the Empire into his lair; the Empire locked a bell around his neck, which kept him insane, and bled him on a harpoon rig above [the black lake](/places/the-black-lake/) for three years, shipping the blood out by rail. The Inevitables shattered the collar, and he destroyed the rig himself, gave them his testimony on the blood of Vol and the Crown of Seven Stars, broke the original bell moulds, and ordered them never to return. He now circles the peak as **Valtrex the Putrid** and claims the Korramont as his domain.
 
@@ -88,6 +91,8 @@ He bellowed, and then he began to laugh with relief. He flew to the harpoon rig 
 Once sane, he opened negotiations by naming his own terms unprompted: the descendants of the oath-breakers will serve him, and he asked the party to lead the [Teryaki](/organizations/the-teryaki-clan/)'s most revered and powerful down to him under a guise of peace, so that he could consume them and enslave the rest. Nobody accepted. Nobody refused either.
 
 Dario spoke to him in Draconic, laid a **Ring of Lesser Wish** on the hoard, and lifted **KNELL** out of the crowned corpse's arms along with the **Crown of Seven Stars**. The hammer and the crown came back borrowed, and Valtrex was clear whose property they were: *"That hammer doesn't belong to King Corn. It belongs to me. So does his crown."*
+
+Dave's account of how the trade was won: "Corn gave you his blessing when he spoke with dead because you helped his ghost", and "freeing him made him go from hostile to indifferent, and then good persuasion rolls plus the trade plus the endorsement of Corns ghost let him part with the hammer". On what the party gained: "And you added a potentially ally I suppose" / "A lot more powerful than a bunch of useless duergar". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 ## The testimony
 

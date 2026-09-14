@@ -91,3 +91,5 @@ At dawn stormtroopers came: Deirdre was recorded absent and required at the Mini
 Gemma broke script and testified as kin; the panel found the documentation insufficient, granted the state one month and remanded Bantide to the garrison. Merkin told her she had spent her only chip — and handed her the **Grand Lodge assignment**: travel to the Summer Palace and the Ivory Lazaret, seize all guest records, and arrest any saboteurs or suspected pirates. The file included a likeness of [Captain Joseph L. Roberts](/people/pirate-joseph-roberts/), Blair's husband and Gemma's former fling. Deadline Monday; it was Friday morning. Bantide cast *feign death*, dropped from the corpse chute, and was revived and hidden in Deirdre's apartment. She named a last lead: a listening post beside the Hall of Submission that may explain what happened to Izaak and [Zero-One](/people/zero-one-fema-nolan/).
 
 <small>A Master bell — the ninth great casting — hangs in a Black Dove tower attached to the Imperial Palace itself.</small>
+
+**Next:** [Korth Ep 14 — The Listening Post](/sessions/korth-ep-14-the-listening-post/)

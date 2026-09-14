@@ -25,12 +25,14 @@ fields:
   government: Neutral ground (published Eberron canon)
   infrastructure: A great hall large enough for a continental assembly, and the Summit grounds around it
   defenses: Delegation guards only; the masked Imperial guard present at the Summit were undead and loyal to Empress Uriel
-  history: Site of the Peace Summit called by Supreme Admiral Vex d'Lyrandar three years after the fall of Sharn; destroyed by his own bombard fleet when the Summit collapsed
+  history: Site of the Peace Summit called by Supreme Admiral Vex d'Lyrandar (convened for the Empire on the Emperor's orders, and presented as a neutral attempt by priests and scholars of the Sovereign Host) three years after the fall of Sharn; destroyed by his own bombard fleet when the Summit collapsed
   owner: None
   sensory: Burning rooftops, smoke, debris and lightning
 sources:
 - sources/site/korth-episode-summaries.txt
 - C:/dev/sharn-campaign/episodes.md
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-19"
 published: '2026-09-10'
 wa:
   slug: thronehold-location
@@ -48,6 +50,8 @@ Thronehold is an island city of Khorvaire and the continent's neutral ground, th
 ## The Summit
 
 Three years after the fall of Sharn, Supreme Admiral **Vex d'Lyrandar** called a Summit at Thronehold and declared it was time to negotiate an end to the civil war. His push for peace was controversial — the Silver Flame and Zero-One opposed it, NEST saw propaganda value, and the Emperor's spokespeople denounced the gathering as illegitimate — and nearly every major faction sent representatives anyway: the orc tribes, the Hundreds, the Black Doves, Aundair, Leef, Sharn.
+
+The Summit was presented as "a neutral attempt to end the civil war by priests and scholars of the [Sovereign Host](/organizations/the-sovereign-host/)." Vex was the Empire's convener under orders: "He did not want to offer a truce to the rebellion or the Uruk/hundreds, but was ordered to enter negotiations, but prepared for an ambush." The Emperor's spokespeople called "the Rebels in Sharn and Talenta traitors and deathbound but leaving room for terms with the larger forces approaching his capital", and rumour had the Emperor considering a personal appearance. <small>(Dave; Oral Histories: The Inevitables, 2026-06-06; 2026-06-19)</small>
 
 The delegates spent the afternoon negotiating, mapping intentions, and being watched: ArcEye cameras broadcast the whole Summit live across Khorvaire. [Lorian](/people/lorian/) determined that the masked Empire guards in attendance were all undead.
 

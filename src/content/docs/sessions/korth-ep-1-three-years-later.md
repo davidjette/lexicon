@@ -24,6 +24,8 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/korth-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-19"
 published: '2026-09-10'
 wa:
   slug: korth-ep-1-E28094-three-years-later-report
@@ -56,7 +58,7 @@ Three years after the fall of [Esther Crona](/people/esther-crona/) and the [Iro
 
 In those years Gemma found two more bells: one hanging in a [Black Dove](/organizations/the-black-doves/) church in Korth, and one hidden in a small Lower City church in Sharn. The Sharn bell is secured, raising concerns about the strategic placement of Fantanya-type artifacts. On one Korth assignment, infiltrating a Black Dove church as a high-elf acolyte, she befriended [Sister Maelis Dorn](/people/sister-maelis-dorn/), who — believing her a worthy initiate — whispered a forbidden poem.
 
-Across Khorvaire the war fractured the continent. Crona's Wall collapsed and Orc forces pushed into Dark Druid territory in the Eldeen Reaches. The Hundreds and the Silver Flame remain locked in battles against E.D.E.N. constructs and food shortages worsen in Sharn. Amid the instability, Admiral [Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) called a Summit at Thronehold to negotiate an end to the civil war. Nearly every major faction sent representatives. Before the Summit, Eric receives a private message from [Locke Pierce](/people/locke-pierce/) along with a rare Cyrean Red Pomegranate, a fruit believed extinct since the Mourning. With Dario still deployed, [Gemma Corso](/people/gemma-corso/) (in disguise), [Eric the Cleric](/people/eric-the-cleric/) and [Lorian](/people/lorian/) travel to Thronehold as representatives of Sharn and Leef. The trio spends the afternoon gathering intelligence, mapping political intentions, and meeting with key figures.
+Across Khorvaire the war fractured the continent. Crona's Wall collapsed and Orc forces pushed into Dark Druid territory in the Eldeen Reaches. The Hundreds and the Silver Flame remain locked in battles against E.D.E.N. constructs and food shortages worsen in Sharn. Amid the instability, Admiral [Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) called a Summit at Thronehold to negotiate an end to the civil war. Nearly every major faction sent representatives. The Summit was presented as "a neutral attempt to end the civil war by priests and scholars of the [Sovereign Host](/organizations/the-sovereign-host/)"; Vex convened it for the Empire on the Emperor's orders. <small>(Oral Histories: The Inevitables, 2026-06-06; 2026-06-19)</small> Before the Summit, Eric receives a private message from [Locke Pierce](/people/locke-pierce/) along with a rare Cyrean Red Pomegranate, a fruit believed extinct since the Mourning. With Dario still deployed, [Gemma Corso](/people/gemma-corso/) (in disguise), [Eric the Cleric](/people/eric-the-cleric/) and [Lorian](/people/lorian/) travel to Thronehold as representatives of Sharn and Leef. The trio spends the afternoon gathering intelligence, mapping political intentions, and meeting with key figures.
 
 During the final assembly Eric delivered a speech calling for the Empire to be outlawed. Sister Maelis Dorn, attending for the Black Doves, confronted Admiral Vex and publicly accused Eric of responsibility for [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/)'s death. Moments later Vex began to rise into the air, glowing with crackling lightning.
 
@@ -67,6 +69,8 @@ During the final assembly Eric delivered a speech calling for the Empire to be o
 - [Locke Pierce](/people/locke-pierce/) sent Eric a rare Cyrean Red Pomegranate, a fruit believed extinct since the Mourning, and hinted at "new growth" in [the Mournlands](/places/the-mournland/). Something in the dead country is changing.
 - Lorian determines that the masked Empire guards present at the Summit are all **undead**.
 - His push for peace is controversial: the Silver Flame and [Zero-One](/people/zero-one-fema-nolan/) oppose it, NEST sees propaganda value, and the Emperor's spokespeople denounce the gathering as illegitimate.
+- Through his spokespeople the Emperor had been "very skeptical" of the Summit, "calling the Rebels in Sharn and Talenta traitors and deathbound but leaving room for terms with the larger forces approaching his capital." Rumours had him considering a personal appearance. <small>(Oral Histories: The Inevitables, 2026-06-06)</small>
+- Vex "did not want to offer a truce to the rebellion or the Uruk/hundreds, but was ordered to enter negotiations, but prepared for an ambush". <small>(Dave; Oral Histories: The Inevitables, 2026-06-19)</small>
 
 ## Cast
 

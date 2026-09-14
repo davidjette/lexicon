@@ -37,6 +37,8 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/site/sharn-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-19"
 published: '2026-09-10'
 wa:
   slug: supreme-admiral-vex-d26230393Blyrandar-person
@@ -76,6 +78,8 @@ His young Khoravar son, Hallorn d'Lyrandar, has recently risen to prominence as 
 
 He called the Summit at Thronehold and declared it was time to negotiate an end to the civil war. His push for peace was controversial: the Silver Flame and Zero-One opposed it, NEST saw propaganda value in it, and *the Emperor's own spokespeople denounced the gathering as illegitimate*. He held it anyway, and nearly every major faction sent representatives. He did this while the Emperor lay comatose and while being lied to about it by everyone around him.
 
+The Summit was presented as "a neutral attempt to end the civil war by priests and scholars of the [Sovereign Host](/organizations/the-sovereign-host/)", and Vex was its convener for the Empire under orders. <small>(Oral Histories: The Inevitables, 2026-06-06)</small> Dave's account of him: "Vex takes his orders from the Emperor, so he somehow doesn't know/doesn't believe that the emperor is fully comatose", and "He did not want to offer a truce to the rebellion or the Uruk/hundreds, but was ordered to enter negotiations, but prepared for an ambush". <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
+
 ## Competence and circle
 
 He drank at POSÉ with [Esther Crona](/people/esther-crona/) and pushed her on the Emperor's health, on E.D.E.N., and on the Glass Plateau, and got contempt back. His son built the airframes. His son's half-brother was Malrik Zeir.
@@ -104,7 +108,7 @@ Korth Ep 1. During the final assembly in the great hall, Eric delivered a speech
 
 Korth Ep 2. Vex's voice boomed through the ArcEye cameras broadcasting the Summit across Khorvaire: *"Kill Chancellor Eric for the Empire."*
 
-The masked guards surged forward — and their movements were unnatural. They were undead soldiers loyal not to Vex but to Empress Uriel. The Black Dove sisters fled immediately as the undead turned on Vex and anyone in their path, confirming Uriel's trap and leaving Vex furious and screaming of her betrayal. He called down his warships and ordered them to fire on the Summit grounds. Explosions ripped through the surrounding buildings, killing delegates and civilians. Then, wrapped in lightning and rage, he launched himself into the sky and clung to Locke Pierce's rising ship, refusing to fall away.
+The masked guards surged forward — and their movements were unnatural. They were undead soldiers loyal not to Vex but to Empress Uriel. The Black Dove sisters fled immediately as the undead turned on Vex and anyone in their path, confirming Uriel's trap and leaving Vex furious and screaming of her betrayal. He called down his warships and ordered them to fire on the Summit grounds. Explosions ripped through the surrounding buildings, killing delegates and civilians. By Dave's account, "Vex blamed the Empress for deceiving everyone, revealing he has a difference of opinion on strategy from her - she wants a giant confrontation regardless of the losses on the Imperial side, he wanted a solution that preserves the Empire and likely himself and his forces". <small>(Oral Histories: The Inevitables, 2026-06-19)</small> Then, wrapped in lightning and rage, he launched himself into the sky and clung to Locke Pierce's rising ship, refusing to fall away.
 
 ## The Last Mourning
 

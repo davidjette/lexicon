@@ -26,6 +26,8 @@ sources:
 - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
 - sources/wa/esther-crona-person.txt
 - worldanvil/CANON.md
+- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+- "Oral Histories: The Inevitables, 2026-06-25"
 published: '2026-09-10'
 wa:
   slug: the-council-of-13-organization
@@ -45,6 +47,24 @@ The **Council of 13** is the thirteen heads of the Imperial government, meeting 
 ## THE ROSTER, AS THE EMPIRE FILES IT
 
 Thirteen Imperial government heads meeting in a tower in Korth called the Imperial Assembly, under [Emperor Kaius III](/people/emperor-caius-iii/): the head of [the Crimson Sun](/organizations/the-crimson-sun/); the Pope and the Bishop of the Sovereign Host; the head of the Imperial trade federation; the General of the Imperial army; the Admiral of the navy and aerial command; the head of city planning and development; the Supreme Justice of Karrnath; the Chief Diplomat; the Minister of Media and Propaganda; the Chancellor of the Rekkenmark Academy; and a cloaked figure of unrecorded race listed only as **the Hand of Kaius III**. Full names and portfolios are held in the [Imperial Assembly file](/organizations/the-imperial-council-imperial-assembly/).
+
+## THE MEMBERS
+
+- [Varyn Crona](/people/varyn-crona/) — *Dead.* High Elf Paladin. Previous head of [the Crimson Sun](/organizations/the-crimson-sun/); once head Paladin for Kaius I.
+- **Hayman Maw** <small>(also written Haymen)</small> — Human Sorcerer. Current head of the Crimson Sun.
+- **Dunkin Sawbrass** — Human Cleric. Pope of [the Sovereign Host](/organizations/the-sovereign-host/).
+- **Garth Brooks** — Human Cleric. Bishop of the Sovereign Host, and secret leader of [the Blood of Vol](/organizations/blood-of-vol/) under the name Chris Gaines.
+- [Lord Gregory Goldenhew](/people/lord-gregory-goldenhew/) — Human Nobleman. Head of the Imperial trade federation.
+- **General Lucius Tiberius** — Human Fighter. General of the Imperial army.
+- **Admiral Johan Frigg** — Human Rogue (Swashbuckler). In charge of the navy and aerial command.
+- **Lord Albert Spear** — Human Nobleman. Head of city planning and development; he granted New Ham an Imperial Charter to grow from a town into a city.
+- **Judge Artumus Reinhold** — Human Bard, former opera singer. Supreme Justice of Karrnath, and Gabrielle Duin's secret lover.
+- **Minister [Henry Heinrick](/people/henry-heinrick/)** <small>(also written Heighrick)</small> — Human Nobleman. Chief Diplomat and head of the Ministry of Diplomacy; he travelled with Esther Crona to the Eldeen Reaches to finalise the alliance treaty with the Children of Winter.
+- **Minister Josef Conaway** — Human Bard, former actor and playwright. Minister of Media and Propaganda.
+- **Chancellor Magnolia Steel** <small>(also written Steele)</small> — Human Wizard. Chancellor of the Rekkenmark Academy; with Garth Brooks she brought Esther the Emperor's charge to retrieve the ancient tablets.
+- **Fanta Rhodes** — Cloaked figure, race unknown; Warlock. Hand of Kaius III.
+
+Months before the Emperor charged Esther with the tablets, Uriel Qualanthri and Esther Crona met the council of twelve in Korth and brought it news of an alliance with the Children of Winter, the Dark Druids of the Eldeen Reaches. <small>(Nico's DM notes, Episode 6)</small>
 
 ## REBEL OBSERVATION FILE — THE PURGE
 
@@ -67,6 +87,8 @@ Sharn Ep 18. On the penthouse balcony at the Veil Building: Esther Crona, her so
 The memory shattered Esther's composure. In a rage, **she revealed the true faces of her Honor Guards — undead members of the Council of 13 — and killed Henry Heinrick.**
 
 After executing the men who murdered her master, she had kept them: raised, armoured, masked, and walked through years of Imperial ceremony as her personal bodyguard, with one of them always near her son. Heinrick was the thirteenth, and she killed him in front of two of them.
+
+The Honor Guard was Uriel's work, made for Esther. <small>(Oral Histories: The Inevitables, 2026-06-25)</small>
 
 In the fight that followed, [Eric](/people/eric-the-cleric/) successfully turned one of the undead Honor Guards, forcing it to flee. The other was knocked from the balcony.
 

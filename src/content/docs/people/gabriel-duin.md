@@ -1,11 +1,13 @@
 ---
-title: Gabriel Duin
+title: Gabrielle Duin
 description: Star Prelate of the Black Doves, seven-year Imperial mole, founder-handler of the Blood of Vol, and consort to the Emperor.
 type: person
 kind: people
 tags:
-- Gabriel Duin
 - Gabrielle Duin
+- Gabriel Duin
+- Gabriel Dwin
+- Gabriel Duine
 - Duin
 - Godseed
 - Project Godseed
@@ -38,6 +40,9 @@ sources:
 - worldanvil/sources/wa/blood-of-vol-organization.txt
 - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
 - worldanvil/CANON.md
+- sources/dave/2026-09-14-inevitables-rulings-batch.md
+- sources/documents/2026-09-14-nico-evil-campaign-3.md
+- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
 published: '2026-09-10'
 wa:
   slug: gabriel-duin-person
@@ -47,9 +52,9 @@ wa:
 
 **High Elf · Star Prelate of the Black Doves / Imperial covert agent · The Black Doves · Blood of Vol · the Crimson Sun · Level Unknown · Missing (presumed alive)**
 
-*Also known as:* **Gabrielle Duin** — the spelling used throughout the Campaign 1 record, where her personal letters are filed under that name · **Star Prelate of the Black Doves**. <small>(Both forms appear in the surviving material and the discrepancy has not been settled.)</small>
+*Also known as:* **Gabriel Duin** · **Gabriel Dwin** · **Gabriel Duine** · **Star Prelate of the Black Doves**
 
-Gabriel Duin is a High Elf, the Star Prelate and leader of [The Black Doves](/organizations/the-black-doves/) — a humanitarian non-governmental organisation of healers — and consort to the Emperor. She killed the former Star Prelate on the fields at Cyre, blamed the killing on the undead, took command of the order and subjugated it to Imperial will while feigning rebel sympathy. Under the covert codename **Godseed** she supplied the [Blood of Vol](/organizations/blood-of-vol/) with its founding resources and served as its handler, and she spent seven years undercover inside a rebel cell for the Emperor until [The Unforeseen](/organizations/the-unforeseen/) burned her work on an island in the Dragon Watch Isles. She claims direct descendance from the House of Vol and bears the Dragonmark of Death across her pelvis and stomach. She is now missing: the public reporting blames [Lady Glow](/people/lady-glow/) for her assassination, and the decrypted files place her in hiding in the Imperial Palace at Korth.
+Gabrielle Duin is a High Elf, the Star Prelate and leader of [The Black Doves](/organizations/the-black-doves/) — a humanitarian non-governmental organisation of healers — and consort to the Emperor. She killed the former Star Prelate on the fields at Cyre, blamed the killing on the undead, took command of the order and subjugated it to Imperial will while feigning rebel sympathy. Under the covert codename **Godseed** she supplied the [Blood of Vol](/organizations/blood-of-vol/) with its founding resources and served as its handler, and she spent seven years undercover inside a rebel cell for the Emperor until [The Unforeseen](/organizations/the-unforeseen/) burned her work on an island in the Dragon Watch Isles. She claims direct descendance from the House of Vol and bears the Dragonmark of Death across her pelvis and stomach. She is now missing: the public reporting blames [Lady Glow](/people/lady-glow/) for her assassination, and the decrypted files place her in hiding in the Imperial Palace at Korth.
 
 ## Physical description
 
@@ -61,7 +66,7 @@ The Black Doves are a Korvarian humanitarian medical order of clerics, battle me
 
 ## Public and private
 
-**In public** Duin is the Star Prelate of a humanitarian order that the public believes to be neutral. **In private** she has been an Imperial officer the entire time. **In secret, Gabriel Duin has been working for the past 7 years undercover for the Emperor to get in and close with a rebel cell.** She fed that cell information. She gained its trust. The information she fed it got Imperial agents and Imperial soldiers killed. **She was discovered by the group The Unforeseen.** Their digging burned her work on an island in the Dragon Watch Isles and ended seven years of infiltration.
+**In public** Duin is the Star Prelate of a humanitarian order that the public believes to be neutral. **In private** she has been an Imperial officer the entire time. **In secret, Gabrielle Duin has been working for the past 7 years undercover for the Emperor to get in and close with a rebel cell.** She fed that cell information. She gained its trust. The information she fed it got Imperial agents and Imperial soldiers killed. **She was discovered by the group The Unforeseen.** Their digging burned her work on an island in the Dragon Watch Isles and ended seven years of infiltration.
 
 ## The secret
 
@@ -77,17 +82,23 @@ Duin opens with an accounting of everything the other party has accomplished, so
 
 ## Origin
 
-Where Gabriel Duin was born, when, and to whom are not recorded. Her documented history begins at Cyre, on the fields, with a dead Star Prelate and a story about the undead that nobody in the order questioned. From there she took the Black Doves, and from the Black Doves she took a seat close enough to the Throne of Bones to be called consort. Seven years before the Unforeseen found her she went into a rebel cell and stayed there, running an entire humanitarian order and an entire terror cult from under cover. Everything earlier than Cyre is **Unknown**.
+Where Gabrielle Duin was born, when, and to whom are not recorded. Her documented history begins at Cyre, on the fields, with a dead Star Prelate and a story about the undead that nobody in the order questioned. From there she took the Black Doves, and from the Black Doves she took a seat close enough to the Throne of Bones to be called consort. Seven years before the Unforeseen found her she went into a rebel cell and stayed there, running an entire humanitarian order and an entire terror cult from under cover. Everything earlier than Cyre is **Unknown**.
 
 ## The Throne Room
 
+On the carriage ride through the Blade Desert to Arden Crest, a tall hooded figure in black robes came into the dreams of three of the Unforeseen. LeBeefe chased it out of the Clamshell Casino under a rose-hued sky. Locke saw it watching him as the world turned red. Uriel, meditating, found it beside her in the carriage under a sun pooling with blood, and a voice said "Seven years!" <small>(Episode 9 "The Dig Site / Throne Room")</small>
+
 The Unforeseen were pulled out of an ancient tomb outside Arden Crest and set down in a vast hall of gold and red before a throne, the Crimson Sun carved into the marble at their feet. **Once discovered she came out to the group in front of Kaius III.** She listed what they had done for the Empire — the bell artifact, the alliance in the Eldeen Reaches, the raising of a slum into a city, the second of four ancient stone tablets — and then told them what they had cost her. She burned the shadow creature off [John C. LeBeefe](/people/john-c-lebeefe/) where it stood. She set Director Pierce back on the hunt for the remaining tablets, naming the Ironroot Mountains and a rebel stronghold near Fairhaven. She warned Uriel off. Then she opened the floor of the throne room and gave Uriel a chained woman standing among fifteen charred rebel corpses.
 
-> "For 7 long years it took me to get where I was, to get in, to get close. I did it all for the Empire and now it is all ruined, because of you!" — Gabriel Duin, to the Unforeseen, in the throne room at Korth
+The hooded figure from the dreams stood with the Emperor at the top of the stairs, and descended them almost as if gliding. She pulled back the hood and dropped the black robes to the floor. The rebel base in the Dragon Watch Isles that the Unforeseen had almost wiped out on their "vacation" had been led by her, and the fifteen charred bodies on the rising stone platform were the rebels they had killed and burned. She unhooded the chained woman for Uriel: it was [Lady Glow](/people/lady-glow/). <small>(Episode 9 "The Dig Site / Throne Room")</small>
 
-> "My cover stopped there, on that island where you burned my work. 7 years of infiltration and it's destroyed because you kept digging. For 7 years not a soul knew I had joined the rebellion as a spy, that I gained their trust, that I fed them information which got imperial agents and soldiers killed, you too were expendable, just bodies used to hide my cover, I can never go back as the cell I belonged to is now gone." — Gabriel Duin
+> "A gift, for you dear Uriel." — Gabrielle Duin
 
-> "I trained you well Uriel, perhaps too well. I do find it..... cute, that you believe your mark means anything, or perhaps Vol blood runs through your veins as it does mine, but don't let my forgiveness fool you Uriel, don't play your silly games with me. Study the undead all you wish but get in my way and you will become another body to add to my collection." — Gabriel Duin, to Uriel Qualanthri
+> "For 7 long years it took me to get where I was, to get in, to get close. I did it all for the Empire and now it is all ruined, because of you!" — Gabrielle Duin, to the Unforeseen, in the throne room at Korth
+
+> "My cover stopped there, on that island where you burned my work. 7 years of infiltration and it's destroyed because you kept digging. For 7 years not a soul knew I had joined the rebellion as a spy, that I gained their trust, that I fed them information which got imperial agents and soldiers killed, you too were expendable, just bodies used to hide my cover, I can never go back as the cell I belonged to is now gone." — Gabrielle Duin
+
+> "I trained you well Uriel, perhaps too well. I do find it….. cute, that you believe your mark means anything, or perhaps Vol blood runs through your veins as it does mine, but don't let my forgiveness fool you Uriel, don't play your silly games with me. Study the undead all you wish but get in my way and you will become another body to add to my collection." — Gabrielle Duin, to Uriel Qualanthri
 
 ## The Blood of Vol
 
@@ -96,10 +107,6 @@ Locke Pierce broke the Imperial encryption in his down time and found the Blood 
 ## Right now
 
 Duin is missing. The public reporting blames Lady Glow for her assassination. The decrypted files say otherwise: she is in hiding in the Imperial Palace, where she remains consort to the Emperor. At least a dozen other Black Dove commanders and associates were found killed or reported missing in the weeks that followed, and some are believed to have fled to join the Rebellion.
-
-## The name
-
-**Unresolved.** The surviving record of her carries two spellings. The older Black Doves entry calls her **Gabriel Duin**; the Campaign 1 document — the source for the Cyre murder, Project Godseed, the Dragonmark of Death and the disappearance — calls her **Gabrielle Duin** throughout and describes the same woman: a High Elf who leads the Blood of Vol, bears the Mark of Death, and consorts with the Emperor. Which is the typo has not been decided.
 
 ### Personality Characteristics
 

@@ -38,6 +38,8 @@ sources:
 - sources/wa/the-black-doves-organization.txt
 - sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
 - handouts/caius-foundry-manifest.md
+- "Oral Histories: The Inevitables, 2026-08-15"
+- "Oral Histories: The Inevitables, 2026-08-20"
 published: '2026-09-10'
 wa:
   slug: sister-calvane-person
@@ -75,7 +77,7 @@ Her library was worth fifty pounds. [Gemma Corso](/people/gemma-corso/) pulled t
 
 ## Secret
 
-Something else was in her rooms. The demon that wore her face had come through an Abyssal breach opened by an Alkilith in the drainage tunnels beneath the Glitterhame — the tunnel was open to the Abyss, and a succubus walked up it into a sealed suite. Whether Calvane invited it, was replaced by it, or simply died beside it is not recorded.
+Something else was in her rooms. The demon that wore her face had come through an Abyssal breach opened by an Alkilith in the drainage tunnels beneath the Glitterhame — the tunnel was open to the Abyss, and a succubus walked up it into a sealed suite. The tunnel's crevice is one of "the cracks between this realm and Khyber" <small>(Dave, Oral Histories: The Inevitables, 2026-08-15)</small>; the Alkilith living in it had opened it into the Abyssal doorway, since "any crack they live in could became such a portal". <small>(sic; Dave, Oral Histories: The Inevitables, 2026-08-20)</small> Whether Calvane invited it, was replaced by it, or simply died beside it is not recorded.
 
 ## Beliefs
 

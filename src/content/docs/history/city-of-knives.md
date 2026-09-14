@@ -25,6 +25,7 @@ sources:
 - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
 - worldanvil/sources/wa/blood-of-vol-organization.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-02-15"
 published: '2026-09-10'
 wa:
   slug: city-of-knives-plot
@@ -70,6 +71,8 @@ What Khorvaire was told afterwards, item by item:
 
 ## Downtime
 
+<small>From the Campaign 1 DM document. Locke's findings were gated by investigation rolls: 15 for the Imperial report, 20 for the internal memos, 25 for Project Godseed and 30 for Duin's letters. Items marked "a quest for another day" were prep.</small>
+
 Before his resignation, Chancellor Steele permitted Locke and Uriel to relocate **Dr. Marble's research in autoanimata and necrocryptography** to Rekkenmark East with supplemental support from the **UN-DEAD** <small>(so written in the Campaign 1 record; Uriel's Newham department is the U.N.D.E.A.D.)</small> Together they analysed the nature of **D4AMB**, the history of the Warforged, and the composition of **Embrace**.
 
 **Uriel** worked on the magical nature of blood. She synthesised a small store of Embrace from the heart and liver of Dr. Marble, which led her to theorise that **the sole source of Embrace is the blood of vampires**. She set out to collect vampires she could enslave and harvest for an ample supply.
@@ -83,6 +86,8 @@ Before his resignation, Chancellor Steele permitted Locke and Uriel to relocate 
 The sword clangs to the floor with blood on its edge. In the mirror her face is still covered in fresh blood, and there is a heavy trickle from a gash the blade opened along a vein in her hand. She bandages it with a medical kit stolen from Uriel's office weeks earlier and sips a healing potion. It tastes like lavender. It reminds her of Varyn again. She looks in the mirror. He isn't there.
 
 **Richard Blaze** comes by for dinner one night and mentions he is moving to Sharn for a while, opening a new yakitori concept called *"Blaze on a Stick"*.
+
+**LeBeefe**, if he assisted Uriel, could work with her on capturing a vampire to make a batch of Embrace for the Tabby PC network: "Possibly a quest for another day." <small>(Oral Histories: The Inevitables, 2026-02-15)</small>
 
 ## The trains will run on time
 

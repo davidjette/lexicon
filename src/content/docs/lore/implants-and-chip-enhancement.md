@@ -26,6 +26,8 @@ sources:
 - worldanvil/sources/site/home.txt
 - worldanvil/sources/site/mission-board.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-04-04"
+- "Oral Histories: The Inevitables, 2026-05-09"
 published: '2026-09-10'
 wa:
   slug: implants-and-chip-enhancement-article
@@ -73,5 +75,13 @@ Dr. [Edwin Graves](/people/dr-edwin-graves/) implanted them in BioTec employees 
 ## Inside Circuit City
 
 The technology is common enough that a citizen's hardware attracts no notice. When Graves took a suspicious interest in the Inevitables' implants inside Circuit City, he locked the front door and disappeared into the back.
+
+## What the Public Knows
+
+By Nico's account, the general public knows BioTec as "a company that makes things like implant chips and crystallizer screens, zephyr pods and other gear", and has "no idea about Project Eden or that the supposed serial killer killing cogborn is in any way connected". <small>(Oral Histories: The Inevitables, 2026-04-04)</small>
+
+## Fragility
+
+Implants can be torn out in a fight, as Children of Ember cultists did to [Gemma Corso](/people/gemma-corso/)'s teleportation chip. Dave, afterwards: "ripping out people's cyberwear seems to be a real effective cheapshot maneuver in this world, it makes sense, they're delicate". He added that an ioun stone can be snatched the same way: "I think it has an armor class". <small>(Oral Histories: The Inevitables, 2026-05-09)</small>
 
 **Related:** [The Ghost Chip](/items/the-ghost-chip/) · [The ArcEye Crystallizer](/items/the-arceye-crystallizer/) · [The Arcane Eye Network](/items/the-arcane-eye-network/) · [Project E.D.E.N.](/organizations/project-e-d-e-n/)

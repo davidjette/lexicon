@@ -6,6 +6,7 @@ kind: organizations
 tags:
 - The Inevitables
 - Falcon Crew
+- Falcon's Junkyard
 - Heroes of Leef
 - Gemma Corso
 - Eric the Cleric
@@ -24,6 +25,14 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/key-figures.txt
+- sources/dave/2026-09-14-inevitables-rulings-batch.md
+- "Oral Histories: The Inevitables, 2025-07-21"
+- "Oral Histories: The Inevitables, 2026-02-14"
+- "Oral Histories: The Inevitables, 2026-03-31"
+- "Oral Histories: The Inevitables, 2026-04-01"
+- "Oral Histories: The Inevitables, 2026-05-08"
+- "Oral Histories: The Inevitables, 2026-08-12"
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: the-inevitables-organization
@@ -51,7 +60,7 @@ gallery:
 
 **Adventuring company · Founded in Leef · Active · Level 12**
 
-*Also known as:* the Falcon Crew <small>(the name the Nest onboarded them under)</small> · the Heroes of Leef · "the trio"
+*Also known as:* the Falcon Crew <small>(the name the Nest onboarded them under)</small> · the Heroes of Leef · "the trio" · Falcon's Junkyard <small>(Oral Histories: The Inevitables, 2025-07-21)</small>
 
 The Inevitables are a three-person adventuring company founded in Leef — Gemma Corso, Eric the Cleric and Sir Dario Argentino, with the vengeance paladin Lorian currently detached. They met in the rail outpost of Leef, liberated it, and were given the title "The Heroes of Leef"; the Nest onboarded them as the Falcon Crew. They went west to Newham, killed Grand Duke John C. LeBeefe and founded the Republic of Talenta out of the survivors, then went to Sharn to steal a prototype implant and stayed through nineteen episodes that ended with Esther Crona dead and Eric installed as Chancellor. Three years later they freed a dragon under the Korramont and learned of the Empire's thirteen great bells, four of which Dario has since broken.
 
@@ -73,6 +82,8 @@ They met in a dusty rail outpost that [John C. LeBeefe](/people/john-c-lebeefe/)
 
 Sent to steal a prototype implant, they met [Zero of Sharn](/people/zero-of-sharn/) and never left the war. Nineteen episodes later [Esther Crona](/people/esther-crona/) was dead on her own balcony, the Iron Veil's pact had collapsed city-wide, and Eric was Chancellor of a free city that was out of fuel.
 
+They came to Sharn a year after the [Leef / Newham fighting](/history/the-leef-newham-arc/). The Sharn arc was weeks of action: by Sharn Ep 16 they had been in the city nearly two weeks. <small>(Oral Histories: The Inevitables, 2026-05-08)</small> Three years separate the fall of Sharn from Thronehold and the Korth arc.
+
 ## The Nest
 
 Zero of Sharn's standing assignment in the faction record reads *Ongoing: Onboard the Falcon Crew (Gemma Corso, Eric and Sir Dario Argentino).* Only Digma, Zero-One and Stamos knew his truth until Jessica Grimpledink was brought in to work with the Nest; Gemma, Eric and Dario came in on the secret after the Zilspar Farm 02 meeting. Richard's confession set their next course: find Grady Marsh to recover Arcane Eye footage that may prove what Esther claims happened at Calcifer's birth, and uncover the origins of Varyn Crona's sword, the weapon Esther still wields.
@@ -86,6 +97,10 @@ Three years on, they went under the [Korramont](/places/the-korramont/) after a 
 Gemma spends months becoming someone before they arrive; Eric reads the ledgers; Dario asks the question everyone else is avoiding and then acts on the answer. They have also robbed graves, handed strangers cursed crowns without mentioning the curse, and twice had to physically restrain one of their own.
 
 **Organizations / Groups:** The Nest · Fulcrum, by alliance · the Republic of Talenta, as founders · the Council of Sharn, through Eric.
+
+**The name:** "the opposite of the unforeseen", per Dave. <small>(Oral Histories: The Inevitables, 2026-04-01)</small>
+
+**Levels:** 6 at Sharn Ep 1 · 7 after Sharn Ep 6 <small>(Oral Histories: The Inevitables, 2026-02-14)</small> · 8 after Sharn Ep 12, at 33,480 XP <small>(Oral Histories: The Inevitables, 2026-03-31)</small> · 11 after Korth Ep 9 <small>(Oral Histories: The Inevitables, 2026-08-12)</small> · just short of 12 after Korth Ep 11 <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 **Right now** they are on a river boat to the Summer Palace wearing dead people's faces, carrying the Emperor's own death warrant, with the Grand Lodge records due Monday and a bounty waiting if they are late.
 

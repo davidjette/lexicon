@@ -19,7 +19,7 @@ icon: fa-dove
 fields:
   type: Military, Medical, Religious order
   headquarters: Aerenal by origin; the hospital in the mountains northeast of Qarth is where the dove seal travels
-  leader: Gabriel Duin (of record); Empress Uriel Qualanthri (in fact)
+  leader: Gabrielle Duin (of record); Empress Uriel Qualanthri (in fact)
   founding: Ancient; drawn from only a few clans within the Aerenai
   status: Active continent-wide; outlawed and dismantled in Sharn
   allies: The Empire, the House of Caius, BioTec, the Korranberg Foundry Trust
@@ -35,6 +35,9 @@ sources:
 - handouts/hells-bells-dossier.md
 - handouts/caius-foundry-manifest.md
 - handouts/fulcrum-bell-file.md
+- "Oral Histories: The Inevitables, 2025-08-30"
+- "Oral Histories: The Inevitables, 2025-10-19"
+- "Oral Histories: The Inevitables, 2025-12-14"
 published: '2026-09-10'
 wa:
   slug: the-black-doves-organization
@@ -60,7 +63,7 @@ The Black Doves are an ancient and isolated order from Aerenal, bound to the gri
 
 [Sister Nora](/people/sister-nora/) was taken by the Inevitables during the opening of Posé in Sharn and held afterward in a sealed cell at Zilspar Farm. Under questioning she gave up details of Project EDEN and named Esther Crona's three half-sisters. Asked who supplied BioTec with bodies, she seized with pain — a BioTec mental block, which Dario ended by removing the chip.
 
-What she gave up before the block stopped her is the order's true portfolio. Project E.D.E.N. is a hybridisation programme: undead bodies, Warforged components, Umbra infusion, and **Black Dove necromantic rites performed over the corpses**. The rites are the order's contribution and no one else's. She named [Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/) as [Esther Crona](/people/esther-crona/)'s half-sisters, and confirmed that she herself had established that blood relation years earlier while studying Embrace at the University of Newham. She named the doctrine the Doves serve: **the Eternal Nightfall** — Uriel's project of endless resurrection and a world remade in undeath. Of Eden, resurrected through a failed ritual as the prototype EDN-00, she said: *"She's more alive than the hybrids that came after her…but not whole. Not like she once was. A miracle, yes but an incomplete one, a soul even Uriel may not reach."*
+What she gave up before the block stopped her is the order's true portfolio. Project E.D.E.N. is a hybridisation programme: undead bodies, Warforged components, Umbra infusion, and **Black Dove necromantic rites performed over the corpses**. The rites are the order's contribution and no one else's. She named [Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/) as [Esther Crona](/people/esther-crona/)'s half-sisters, and confirmed that she herself had established that blood relation years earlier while studying [Embrace](/items/embrace/) at the University of Newham. She named the doctrine the Doves serve: **the Eternal Nightfall** — Uriel's project of endless resurrection and a world remade in undeath. Of Eden, resurrected through a failed ritual as the prototype EDN-00, she said: *"She's more alive than the hybrids that came after her…but not whole. Not like she once was. A miracle, yes but an incomplete one, a soul even Uriel may not reach."*
 
 ## NEST FIELD DEBRIEF K-KORTH — AGENT FOXTALE
 
@@ -74,7 +77,7 @@ What she gave up before the block stopped her is the order's true portfolio. Pro
 
 The full rite, recovered from that library, binds the castings to *"the unholy blood and the great mother"* and requires thirteen Doves, an invocation of all thirteen planes, and a very dear sacrifice — a living child, or virgin royalty. A second Dove seal, in the same hand, closed the shrine where Overseer Velen Marsk was still three years dead and on shift, and where the death warrant signed by Emperor Kaius III lay in his satchel. A Dove sealed the room after the massacre.
 
-**Current leader:** [Gabriel Duin](/people/gabriel-duin/)
+**Current leader:** [Gabrielle Duin](/people/gabriel-duin/)
 
 **Known members:**
 
@@ -84,6 +87,10 @@ The full rite, recovered from that library, binds the castings to *"the unholy b
 **Holdings:** the [Houses of Mercy](/organizations/the-houses-of-mercy/) network, continent-wide · the Sanctum of the Last Mercy, Black Dove Hospital, Upper City Sharn (seized) · the Korth house — the old Host cathedral, described in the Korth record as a Black Dove tower attached to the Imperial Palace — and its Master bell, the ninth great casting · the hospital in the mountains northeast of Qarth, at the far end of the dove seal's road, which the Inevitables identify with the Ivory Lazaret.
 
 **Items:** the Chorus Ledger, in Dorn's keeping, chained to a courier-case · the consecration rite of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), taken with the whole of Calvane's library · the dove seal in white wax, which is the order's true weapon.
+
+## From Duin to Uriel
+
+The Black Doves were battlefield medics and undead killers who mopped up after slaughters. After killing Gabrielle Duin, Uriel led a purge of the order and turned most of it into her convent, and with no great wars being fought the old Black Doves are less prominent than they were. <small>(Oral Histories: The Inevitables, 2025-08-30)</small> Dave: "So the Black Doves which were a truly holy order when she took them from Duin, are now a vehicle for the Blood of Vol and Emerald Claw, she has completely corrupted them" / "So she can’t purge them all". <small>(Oral Histories: The Inevitables, 2025-10-19)</small> Their hospitals let her convent spread and control her secret undead armies, protected by the reputation of a hospital, and keep no obvious guard beyond a few paladins at each. <small>(Oral Histories: The Inevitables, 2025-08-30)</small> Black Dove battle clerics still assisted Esther Crona's [Iron Veil](/organizations/the-iron-veil/), "the best place to recruit for the true Army". <small>(Oral Histories: The Inevitables, 2025-12-14)</small>
 
 ## The Dismantling in Sharn
 

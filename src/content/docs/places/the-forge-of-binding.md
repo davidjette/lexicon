@@ -32,6 +32,7 @@ fields:
 sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/rebel-factions.txt
+- "Oral Histories: The Inevitables, 2026-03-29"
 published: '2026-09-10'
 wa:
   slug: the-forge-of-binding-location
@@ -57,6 +58,12 @@ gallery:
 **Dungeon · Dhakaani depths beneath [Sharn](/places/sharn/) · Ritual forge · EXTINGUISHED**
 
 The Forge of Binding is an ancient forge in the Dhakaani tunnels far below Sharn, where [Varyn Crona](/people/varyn-crona/) and **E'noch Qualanthri** performed the **Eternal Guardian ritual**, drawing on forbidden Vol rites. It is the reason [Esther Crona](/people/esther-crona/) was bound to Varyn's sword, and the only place a counter-rite could plausibly have been performed.
+
+## The relic
+
+The Forge is a relic of the [Dhakaani Empire](/history/the-dhakaani-empire/). By the Eternal Guardian writings it binds oaths, spirits, weapons and command structures, and E'noch and Varyn reached it by going down through the Dhakaani ruins under Sharn. <small>(Oral Histories: The Inevitables, 2026-03-29)</small>
+
+Before the party found it, a stone golem they fought in the ancient chamber on the Cogborn's route out of Sharn, and an Ioun Stone recovered from that fight, both bore runes matching the writings [Renn Tal](/people/renn-tal/) had been studying in her books. <small>(Oral Histories: The Inevitables, 2026-03-29)</small>
 
 ## The way down
 

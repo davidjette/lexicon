@@ -35,6 +35,10 @@ sources:
 - C:/dev/sharn-campaign/session-2026-09-04-summary.md
 - sources/site/key-figures.txt
 - sources/wa/uriel-qualanthri-person.txt
+- "Oral Histories: The Inevitables, 2025-06-07"
+- "Oral Histories: The Inevitables, 2025-10-19"
+- "Oral Histories: The Inevitables, 2025-12-14"
+- "Oral Histories: The Inevitables, 2026-06-27"
 published: '2026-09-10'
 wa:
   slug: the-ivory-lazaret-location
@@ -52,6 +56,12 @@ The Ivory Lazaret is the white hospital in the mountains where the Holy Empress 
 The Emperor lies comatose; Admiral Vex d'Lyrandar's fury at Thronehold was fed by the knowledge of it. Uriel, a cleric of Light from Aerenal and one of the [Black Doves](/organizations/the-black-doves/), has borne him fourteen daughters, many sets of twins, all under twelve years old — and the Inevitables' reading of the bell dossiers is that she is waiting for a specific event, possibly the birth of a male heir, before the bells are rung. Fulcrum's cover letter to the Chancellor adds one rumour about the bedside: that [Lady Glow](/people/lady-glow/), killed by Uriel and "stood back up as a music box", sings there, the sweetest voice in the world.
 
 <small>Gemma's lead, from her time undercover in Korth, places the Lazarette in defensible mountains northeast of Qarth. No member of the party has yet been inside, and its interior is not described.</small>
+
+## The Emperor's convalescence
+
+The Lazaret is "The Emperor's convalescence and seat of the White Death". <small>(Oral Histories: The Inevitables, 2025-12-14)</small> The Emperor was given out to be in treatment for "a very serious illness needing special care 24/7", which he came down with after the High Council "was exposed as traitors and executed and hunted down", and the place is "a huge medical spa for him, attended by Uriel’s acolytes". <small>(Oral Histories: The Inevitables, 2025-06-07)</small> Uriel moved him out of Korth, "away from factions who had other aims". The hospital "is a temple to her and the emperors living corpse, where the sick are healed and sent home unawares". <small>(Oral Histories: The Inevitables, 2025-10-19)</small> Uriel's public persona, after she founded and entered this monastery to heal the Emperor, is **the Penitent Empress Uriel I**. <small>(Oral Histories: The Inevitables, 2025-06-07)</small>
+
+The Lazaret takes in patients seeking care, which offers a potential way in: it will treat the wounded. <small>(Oral Histories: The Inevitables, 2026-06-27)</small>
 
 ## The dove seal
 

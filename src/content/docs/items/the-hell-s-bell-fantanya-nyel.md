@@ -44,6 +44,7 @@ sources:
 - session-2026-09-04-summary.md
 - current-state.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: the-hell-s-bell-28fantanya-nyel29-item
@@ -163,6 +164,8 @@ Recovered from Sister Calvane's library: thirteen Doves and all thirteen planes,
 
 It rang. Hetta, a Teryaki scout with mould across his face and mushrooms at his lips, reached the Bladeworks past a locked door and an alarm and cast *shatter* at the casting, grazing it. The toll took the party, the camp in the next hall and the risen dead climbing the shaft into a single mind — a thirst for blood and flesh, and an urge to tear one's own skin off. Everyone inside it wounded themselves.
 
+The party had already barely resisted an urge to ring the bell themselves, caused by LeBeefe's contamination of the Glitterhame. Dave summed up a ringing as "lots of confusion saves while every dead body nearby animates". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
+
 [Sir Dario Argentino](/people/sir-dario-argentino/) came out of it first, raised [KNELL](/items/knell/), and broke the Thirteenth Casting. The recoil deafened him and the runesmith Bofric for hours. He then walked bell to bell through the Bladeworks and destroyed every remaining casting standing in it, and the freed dragon Valtrex destroyed the original molds. Nothing is cast from that mountain again.
 
 ## Ten bells remain
@@ -170,6 +173,8 @@ It rang. Hetta, a Teryaki scout with mould across his face and mushrooms at his 
 Back in Sharn, Dario destroyed two more in a single morning. The first sat crated and packed with straw in the unfinished tower above the Black Dove hospital, muffled by people too frightened to touch it; he cleared the packing himself and swung with *“may our children forgive us.”* The second hung in a small temple of Boldrei in the lower city, where the strike brought the whole tower down through the floor into the building below and turned a pacified crowd against him. Research in the same week established three things: the method for making more horns, that **breaking a bell sends no word of itself back to Uriel**, and that KNELL is very likely unique.
 
 **Ten bells remain**, at least one of them a Master in Korth — **great casting the ninth**, hanging in a Black Dove tower attached to the Imperial Palace itself. The Original was returned from the Korranberg yard to Her Radiance's keeping under Sister-Inquisitor escort, destination withheld, and the House's factor has written that the reference *will not travel again before the appointed night.*
+
+Uriel can still set the bells ringing all over Khorvaire. Dave: "stopping that will take intense coordination across the entire rebellion, to deploy the Horns and hopefully get to the Master bell before it can start the Eternal Nightfall". <small>(Oral Histories: The Inevitables, 2026-08-22)</small> See [the Eternal Nightfall](/lore/the-eternal-nightfall/).
 
 > Stop Uriel before she rings the bells. If you fail, I will end this world before she can, and only my kind will survive it.
 

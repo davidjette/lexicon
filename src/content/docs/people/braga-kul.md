@@ -36,6 +36,9 @@ sources:
 - C:/dev/sharn-campaign/session-2026-07-15-recap.md
 - sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-07-12"
+- "Oral Histories: The Inevitables, 2026-07-15"
+- "Oral Histories: The Inevitables, 2026-07-16"
 published: '2026-09-10'
 wa:
   slug: braga-kul-person
@@ -64,6 +67,8 @@ Recorded chiefly by what he carried and what he did with it: a named orcish kata
 Braga Kul commanded a roughly twenty-strong **Uruk-Hoth** recon regiment emplaced at the [Mountain Door](/places/the-mountain-door/) for about five months, watching troop movements in and out of Korth and intercepting communications. His campaign book is the source for what that job actually meant, and for the fact that the war is coming to Korth and the first troops are already moving.
 
 It also records the one thing everybody wanted to know and nobody expected. His men pushed down the [Grand Stair](/places/the-grand-stair/), fought the things that came up from deeper inside, and came back - in his phrase - retching and talking about whispers. So they blocked the stair with rock and dirt and stayed upstairs. There is **no mention of the bell anywhere in his records**. The orcs were doing reconnaissance and they were unlucky.
+
+Dave, as DM, on the rest of the notes: Braga's people "discovered this keep and cleared it of some monsters, have tried to explore the area below and failed losing men and fighting beasts which come up the stairs, and he has a Grell skull". "They don’t seem to be aware of it being connected to any foundry". <small>(Oral Histories: The Inevitables, 2026-07-12)</small>
 
 ## Public and private
 
@@ -100,6 +105,8 @@ He never got out of the cell. Three magic missiles through the bars killed him a
 ## Aftermath
 
 The entire Uruk-Hoth recon regiment was destroyed inside two days - Braga, the scout party, and a wounded straggler who was taken prisoner, forgotten until morning, and executed at the bridge gap before the descent. Every body in the complex was burned, faces destroyed first, and dropped into the chasm, so that Empress [Uriel Qualanthri](/people/uriel-qualanthri/) could never raise any of them. Braga was burned with the rest.
+
+Dave's count of the first fight at the Mountain Door: "about 20 orcs including two lieutenant-level and a captain level plus a caster and some choke points just the three of you". Afterward he wrote: "we killed that whole Uruk Hoth recon unit, and technically they're not even our enemies, but they were ready to attack all imperials on sight". <small>(Oral Histories: The Inevitables, 2026-07-12)</small> He put the unit's full strength at forty: "An orc recon squad of 40 in a well held stronghold means the war is moving very fast". <small>(Oral Histories: The Inevitables, 2026-07-15)</small> A potion the party carried out of the Mountain Door, unidentified at the time, was a Lesser Polymorph potion that turns the drinker into a mouse, which Dave called "a common tool of warlocks attached to orc recon units it seems". <small>(Oral Histories: The Inevitables, 2026-07-16)</small>
 
 **Organizations / Groups:** Uruk-Hoth; the recon regiment watching Korth.
 

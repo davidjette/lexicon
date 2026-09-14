@@ -34,6 +34,9 @@ sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - README.md
+- "Oral Histories: The Inevitables, 2025-09-27"
+- "Oral Histories: The Inevitables, 2025-11-08"
+- "Oral Histories: The Inevitables, 2025-12-05"
 published: '2026-09-10'
 wa:
   slug: the-fall-of-newham-militaryConflict
@@ -42,7 +45,7 @@ wa:
 
 **Urban rising and arcane catastrophe · Newham City · Before the Sharn arc**
 
-The fall of Newham was an urban rising and arcane catastrophe that destroyed the city of [Newham](/places/newham/) before the Sharn arc. Sent west by Thadric "The Colonel" Rourke after [the liberation of Leef](/history/the-liberation-of-leef/), [Gemma Corso](/people/gemma-corso/), [Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/) welded the city's scattered anti-LeBeefe cells into one resistance and killed Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/). An otherworldly explosion then collapsed the city and corrupted the region around it, which the survivors named New Mourning; they evacuated east to Leef, where they became part of [the Republic of Talenta](/organizations/the-republic-of-talenta/).
+The fall of Newham was an urban rising and arcane catastrophe that destroyed the city of [Newham](/places/newham/) before the Sharn arc. Sent west by Thadric "The Colonel" Rourke after [the liberation of Leef](/history/the-liberation-of-leef/), [Gemma Corso](/people/gemma-corso/), [Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/) welded the city's scattered anti-LeBeefe cells into one resistance and killed Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/). An otherworldly explosion then collapsed the city and corrupted the region around it, which the survivors named New Mourning; they evacuated east to Leef, where they became part of [the Republic of Talenta](/organizations/the-republic-of-talenta/). The rising was the Newham half of the [Leef / Newham arc](/history/the-leef-newham-arc/).
 
 ## THE CITY
 
@@ -58,7 +61,9 @@ After [the liberation of Leef](/history/the-liberation-of-leef/), Thadric "The C
 
 In Newham they met [Digma Beeve](/people/digma-beeve/), Rourke's old ally, a halfling furniture dealer, a Last War veteran, a founder of [Fulcrum](/organizations/fulcrum/) and the first person ever to treat [Richard Blaze](/people/richard-blaze/) as a man rather than as property. Digma opened his book: a network of anti-LeBeefe cells scattered across the metropolis, none of them talking to each other.
 
-With his guidance the trio welded those cells into a single coordinated resistance, strong enough to move on the Grand Duke directly. The assault succeeded. LeBeefe was killed.
+When people in Newham think of "the rebels", by JL's account, they are most likely to think of the **St. Stamos cultists** and their actions: a radical cell whose war cry is "St. Stamos". Soon after the trio reached the city a theater was bombed, and a singer with element stones in her torso was not saved. <small>(Oral Histories: The Inevitables, 2025-09-27)</small> Of the rebel groups the trio worked to win over, three of four became allies, vampires among them; the fourth, possible defectors from the military base, had not yet been approached. <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
+
+With his guidance the trio welded those cells into a single coordinated resistance, strong enough to move on the Grand Duke directly. The assault succeeded. LeBeefe was killed. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
 
 ## THE EXPLOSION
 

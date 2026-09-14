@@ -24,7 +24,7 @@ fields:
   type: Peace summit destroyed
   location: Thronehold
   date: Korth Ep 1-2; three years after the fall of Sharn
-  called_by: Admiral Vex d'Lyrandar
+  called_by: Admiral Vex d'Lyrandar, convening for the Empire on the Emperor's orders; presented as a neutral attempt by priests and scholars of the Sovereign Host
   attending: Sharn, Leef, the Orc tribes, the Hundreds, the Black Doves, Aundair and others
   trigger: Sister Maelis Dorn accused Eric of Hallorn d'Lyrandar's death; Vex ordered the Chancellor killed
   turn: The masked Empire guards were Uriel's undead and attacked Vex
@@ -34,6 +34,8 @@ sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
 - README.md
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-19"
 published: '2026-09-10'
 wa:
   slug: the-thronehold-massacre-militaryConflict
@@ -62,11 +64,15 @@ The Thronehold Massacre is the destruction of the peace summit held at Thronehol
 
 Admiral [Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) called it. He declared it was time to negotiate an end to the civil war, and the call was controversial on every side: the Silver Flame and Zero-One opposed it, NEST saw propaganda value in it, and the Emperor's spokespeople denounced the gathering as illegitimate. Nearly every major faction sent representatives anyway.
 
+The Summit was presented as "a neutral attempt to end the civil war by priests and scholars of the [Sovereign Host](/organizations/the-sovereign-host/)." Vex convened it for the Empire under orders. By Dave's account, "He did not want to offer a truce to the rebellion or the Uruk/hundreds, but was ordered to enter negotiations, but prepared for an ambush." The Emperor, "through his spokes people", had been "very skeptical of it as well, calling the Rebels in Sharn and Talenta traitors and deathbound but leaving room for terms with the larger forces approaching his capital." Rumours had the Emperor considering a personal appearance at the Summit. <small>(Oral Histories: The Inevitables, 2026-06-06; 2026-06-19)</small>
+
 Khorvaire was three years into fracture. Crona's Wall had collapsed and orc forces were pushing into Dark Druid territory in the Eldeen Reaches; the Hundreds and the Silver Flame were locked in fighting against E.D.E.N. constructs; food was running short in Sharn.
 
 ## THE DELEGATIONS
 
 [Eric](/people/eric-the-cleric/) came as Chancellor of Sharn with [Lorian](/people/lorian/) and with [Gemma](/people/gemma-corso/) in disguise, representing Sharn and Leef; [Dario](/people/sir-dario-argentino/) was still deployed on the Thrane front. Orc tribes, [the Hundreds](/organizations/the-hundreds/), the [Black Doves](/organizations/the-black-doves/) and Aundair all sent delegates. [Locke Pierce](/people/locke-pierce/) hinted at "new growth" in the Mournlands and had already sent Eric a Cyrean Red Pomegranate — a fruit believed extinct since [the Mourning](/history/the-mourning/), arriving fresh and oversized. Lorian established, quietly, that every masked Empire guard at the summit was undead.
+
+[The Nest](/organizations/the-nest/) saw the Summit as a possible moment to overture to the orcs, "who have been uncooperative and frequently hostile to the Rebellion writ large." The Hundreds took part "on the condition that they are recognized as an independent power in the Mournlands with security guarantees", and sent Eric a separate invitation to meet Locke Pierce at the Summit before his speech. <small>(Oral Histories: The Inevitables, 2026-06-06)</small> Dave on why the factions came: "The draw of potential post-war power had many faction let their guard down and send delegations". <small>(sic; Oral Histories: The Inevitables, 2026-06-19)</small>
 
 ## THE SPEECH AND THE ACCUSATION
 
@@ -79,6 +85,8 @@ Vex began to rise into the air, lightning crawling across his body. Through the 
 ## THE TRAP
 
 The masked guards surged forward — and turned on Vex. They were [Uriel](/people/uriel-qualanthri/)'s, and they attacked him and everyone in their path. The Black Dove sisters were already leaving the building. Vex, screaming of her betrayal, called down his own warships and ordered them to fire on the summit grounds. Explosions tore through the surrounding buildings and killed delegates and civilians.
+
+Dave on the split this exposed: "Vex blamed the Empress for deceiving everyone, revealing he has a difference of opinion on strategy from her - she wants a giant confrontation regardless of the losses on the Imperial side, he wanted a solution that preserves the Empire and likely himself and his forces". <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
 
 The Dread Pirate [Joseph Roberts](/people/pirate-joseph-roberts/)' airship had just arrived at Thronehold. When the bombardment began he turned it around and left the island entirely.
 

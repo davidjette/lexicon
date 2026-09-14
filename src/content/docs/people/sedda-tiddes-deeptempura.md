@@ -38,6 +38,7 @@ sources:
 - C:/dev/sharn-campaign/session-2026-08-07-recap.md
 - C:/dev/sharn-campaign/current-state.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-08-09"
 published: '2026-09-10'
 wa:
   slug: sedda-tiddes-deeptempura-person
@@ -52,11 +53,13 @@ gallery:
 
 *Also known as:* Sedda Deeptempura - Sedda Tiddes - the Ringer
 
-Sedda Tiddes Deeptempura was the daughter and heir of [King Corn](/people/king-corn/), last king of the [Deeptempura](/organizations/the-deeptempura-clan/), and the leader with him of the uprising in the [Korranberg Foundry](/places/the-korranberg-foundry/). Caught breaking protocol and stealing supplies, she was punished with a waste detail in the [Glitterhame](/places/the-glitterhame/), where [the Speaker](/species/the-bloom/) — calling itself the Mayor — spoke to her for months and talked her into ringing the Thirteenth Casting with an improvised hammer. Everyone in the foundry died and rose again; Sedda rose lucid, and kept the rebellion's supply cache tidy for three years waiting for an extraction that never came. The Inevitables found her, took her confession, and she gave them her father's horn and hammer before asking to be ended. [Sir Dario Argentino](/people/sir-dario-argentino/) gave her the rites of the Silver Flame and took her head, and she was consecrated by her full name and title in the [Great Hall of Rak'tafur](/places/the-great-hall-of-rak-tafur/).
+Sedda Tiddes Deeptempura was the daughter and heir of [King Corn](/people/king-corn/), last king of the [Deeptempura](/organizations/the-deeptempura-clan/), and the leader with him of the uprising in the [Korranberg Foundry](/places/the-korranberg-foundry/). Caught breaking protocol and stealing supplies, she was punished with a waste detail in the [Glitterhame](/places/the-glitterhame/), where [the Speaker](/species/the-bloom/) — calling itself the Mayor — spoke to her for months and talked her into ringing the Thirteenth Casting with an improvised hammer. Everyone in the foundry died and rose again; Sedda rose lucid, and kept the rebellion's supply cache tidy for three years waiting for an extraction that never came. The Inevitables found her, took her confession, and she told them where her father's horn was hidden and what his hammer could do before asking to be ended. [Sir Dario Argentino](/people/sir-dario-argentino/) gave her the rites of the Silver Flame and took her head, and she was consecrated by her full name and title in the [Great Hall of Rak'tafur](/places/the-great-hall-of-rak-tafur/).
 
 ## Physical description
 
 When the **Inevitables** found her she had been three years dead in acid air, and the decay had taken most of her, but not the parts that mattered: both eyes were still there, and most of the jaw. She moves like a woman doing inventory, not like a corpse - checking boxes, looking into barrels, moving things back and forth in a cache she stocked while she was alive. She speaks clearly, at conversational volume, in the register of somebody who has been expecting visitors for a long time.
+
+Across the black water she first looked like a ghostly figure. She was corporeal undead: "a dwarf woman, long decayed and somehow still lucid". <small>(Oral Histories: The Inevitables, 2026-08-09)</small>
 
 ## The hold she was born to
 

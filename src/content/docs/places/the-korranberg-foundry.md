@@ -33,6 +33,11 @@ sources:
 - C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
 - C:/dev/sharn-campaign/current-state.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-07-13"
+- "Oral Histories: The Inevitables, 2026-07-15"
+- "Oral Histories: The Inevitables, 2026-07-24"
+- "Oral Histories: The Inevitables, 2026-07-29"
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: the-korranberg-foundry-location
@@ -53,11 +58,17 @@ The Korranberg Foundry is the bell foundry, mine and mass grave inside the [Korr
 
 The works are dwarven. The [Deeptempura](/organizations/the-deeptempura-clan/) sank them, and every masoned wall, iron door and relief in the complex is their craft. The elves of Aerenal came to marvel at the Shavat work and stayed to enslave the workers; the mine was set to making a bell, then several, then hundreds. About ten or eleven years ago the House of Kaius bought the [Korramont](/places/the-korramont/) outright, rebuilt the rail, and ran the place through the [Korranberg Foundry Trust](/organizations/the-korranberg-foundry-trust/) for roughly seven years of scheduled consignments.
 
+Dave on its origin: "the Foundry itself wasn't built by Uriel or the Empire, it's an old dwarven hold that was swept up in the earliest conquests of KArnath, that was put to that purpose by Uriel until the accident, when it was closed off and let to rot". <small>(sic; Oral Histories: The Inevitables, 2026-07-13)</small> The hold came under Karrnath in its earliest conquests, the House of Kaius bought the mountain ten or eleven years ago, and [Uriel Qualanthri](/people/uriel-qualanthri/) set the works to casting bells until the accident closed them.
+
 > Consecrated on delivery, by the Sisters alone. Foundry personnel are excluded from consecration and are reminded that curiosity is a breach of the draft. - Korranberg Foundry Trust, private schedule of works
 
 Three years ago - the same year Sharn fell - the works ended in one stroke. [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/) rang the Thirteenth Casting with a rock, and the ringing killed the enslaved dwarves and the Imperial staff together and raised most of them. What the paperwork calls "the accident" cost roughly 97% of the dwarvish workforce. The rail came up, the Trust stopped keeping records, and the mountain was left to finish itself.
 
 ## What the party found in it
+
+The dungeon beneath the Korramont was optional for the Inevitables. Dave: "this dungeon represents your best chance to understand Hells bells, and the eternal nightfall before you commit yourself to the summer Palace" <small>(Oral Histories: The Inevitables, 2026-07-15)</small>, and "Remember all the dungeon is optional, you came here to see if there was a way to understand and stop the bells". <small>(Oral Histories: The Inevitables, 2026-07-29)</small>
+
+The Iron Door into the foundry had three ways through: "one was a key on the dead dwarf I forgot to tell you was there, the second was a knock spell, the third was the clan's special knock", which Dave made "Shave and a Haircut". <small>(Oral Histories: The Inevitables, 2026-07-24)</small>
 
 The dead had never been buried. Dwarvish bodies three to four years old lay at the stair gate where they had reached it from the inside; skeletons in Imperial standard-issue slave shackles, three years rusted, lay in the silt of a pool below the falls; a cistern under an iron hatch held a writhing pile of bones so densely packed they could barely constitute themselves. Low on one wall, at a child's height, somebody had drawn in chalk a bell and a row of stick-figure dwarves with their hands over their ears.
 
@@ -68,6 +79,8 @@ The living quarters were a corridor of sealed doors with undead behind them, bei
 The level is cleared. The Thirteenth Casting has been broken with **KNELL** and every remaining casting in the Bladeworks was smashed one after another the same evening. The moulds are in the acid at the bottom of the shaft. The foundry's own paper - seven years of freight schedules, the slave register, the personnel ledger and the death warrant - is in Sharn, in the hands of a Chancellor who intends to use it at trial.
 
 Nothing is cast here again. What remains is a Teryaki camp in the next hall, a boy who was killed and revived at the foot of the scaffold, and a dragon above the peak who considers all of it his.
+
+Dave's tally of the party's run through it: "I'd say you 95%ed that dungeon which is impressive cause it's like 60+ rooms, three factions, multiple big bads and a persistent madness effect". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 ## Notable rooms
 

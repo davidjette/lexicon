@@ -39,6 +39,9 @@ sources:
 - session-2026-09-04-summary.md
 - current-state.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-08-09"
+- "Oral Histories: The Inevitables, 2026-08-22"
+- "Oral Histories: The Inevitables, 2026-08-27"
 published: '2026-09-10'
 wa:
   slug: knell-item
@@ -62,6 +65,8 @@ gallery:
 
 KNELL is heavy even for a paladin under a potion of stone giant strength. It carries a violent recoil: the swing that broke [the Thirteenth Casting](/items/the-thirteenth-casting/) threw its bearer's hand back and deafened both him and the dwarf standing near him for hours. Breaking a Master is loud in a way that costs.
 
+Dave gave its properties at the table as "+2 and adamantine and destroys magical structures like force cage". Under the revised Dual Wielder rules Dario cannot fight with KNELL and **Pale Fire** together: "So Dario has to decide whether to use Knell or Pale Fire". Swapping between them takes an hour, "To attune". <small>(Oral Histories: The Inevitables, 2026-08-27)</small>
+
 The runesmith Bofric is precise about why it matters, and about what the horn cannot do:
 
 > It can only maybe drown out the sound as long as you play it. To break the bell, you would need to break it with the hammer that made it.
@@ -72,6 +77,8 @@ The Inevitables did not find it first; they were told about it. Three years dead
 
 It was the surviving Teryaki kin, back at the camp in the Great Hall, who supplied the name. **KNELL.** Sedda had not called it that. The kin did.
 
+The name and the hammer's whereabouts came in [Korth Ep 9](/sessions/korth-ep-9-the-death-warrant-and-the-ringer/); the hammer stayed where it was: "the hammer that can break the bells lies somewhere below, in the dark, with Vuldrach." <small>(Oral Histories: The Inevitables, 2026-08-09)</small>
+
 ## Recovery
 
 It was on the island in the black lake, in the hoard of the dragon **Valtrex**, folded into the arms of King Corn's crowned corpse. Valtrex, newly freed from an Imperial collar and three years of being bled, was unambiguous about who owned it:
@@ -79,6 +86,8 @@ It was on the island in the black lake, in the hoard of the dragon **Valtrex**, 
 > That hammer doesn't belong to King Corn. It belongs to me. So does his crown.
 
 [Sir Dario Argentino](/people/sir-dario-argentino/) negotiated in Draconic, laid a **Ring of Lesser Wish** on the hoard, and lifted KNELL and [the Crown of Seven Stars](/items/the-crown-of-seven-stars/) out of it. King Corn's remains stayed on the hoard. The kin were never told where he was.
+
+This was [Korth Ep 11](/sessions/korth-ep-11-the-domain-of-valtrex/). Dave's account of how the trade was won: "freeing him made him go from hostile to indifferent, and then good persuasion rolls plus the trade plus the endorsement of Corns ghost let him part with the hammer". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 ## On-screen work
 

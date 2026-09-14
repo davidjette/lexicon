@@ -41,6 +41,7 @@ sources:
 - worldanvil/sources/site/ebt-7.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/home.txt
+- "Oral Histories: The Inevitables, 2026-04-04"
 published: '2026-09-10'
 wa:
   slug: dr-edwin-graves-person
@@ -109,6 +110,8 @@ In that time Graves was also the landlord of the building the Inevitables would 
 His downfall came when the Trio uncovered the truth. It began with a body that fell from a service lift in Gear Street Market. [Eric](/people/eric-the-cleric/) performed a Divination ritual and it pointed at Circuit City. Inside, the owner took a suspicious interest in their implants, locked the front door and disappeared into the back; they pushed through and found the backroom complex, the experiments and the cages.
 
 The fight that followed was against Graves and his creations. It ended with Graves' death, exposing the full extent of his crimes and severing the central link between BioTec, the Cogborn disappearances, and Project EDEN.
+
+Graves, "the private owner of Biotec and many other Sharn properties", was wealthy, and had grown wealthier when Cob Cornwell was killed and left his fortune to BioTec. Nico: "Dr. Grave definitely had a kink for gore" <small>(sic)</small>. The general public knew BioTec as the maker of implant chips, crystallizer screens, zephyr pods and other gear, and had no idea about Project EDEN or that the killer of the Cogborn was in any way connected to it. <small>(Oral Histories: The Inevitables, 2026-04-04)</small> Dave on the man the party had kept meaning to visit: "the guy was there the whole time" / "and he was like the richest guy in town". <small>(Oral Histories: The Inevitables, 2026-04-04)</small>
 
 ## Right Now
 

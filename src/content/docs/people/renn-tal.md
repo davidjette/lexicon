@@ -40,6 +40,7 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/14.jpg
+- "Oral Histories: The Inevitables, 2026-03-29"
 published: '2026-09-10'
 wa:
   slug: renn-tal-person
@@ -69,7 +70,7 @@ gallery:
 
 <small>Also known as: Renn · the archivist</small>
 
-**Renn Tal** is an archivist of the Old Histories Wing of the Sharn Library, trained in pre-Galifar ritual history and Dhakaani archaeology. [Esther Crona](/people/esther-crona/) personally tasked her with cataloguing ancient texts on [Varyn Crona](/people/varyn-crona/), the Eternal Guardian and the Forge of Binding, and the work turned up missing pages in Imperial-approved tomes, altered chronologies and references to subterranean structures beneath Sharn that should not exist. Her questions took her into the Lower City, where [DJ Rust](/people/dj-rust/) brought her into the rebel network and [Misty Kross](/people/misty-kross/) put her Dhakaani literacy to work. She deciphered and opened the puzzle door to the Forge of Binding, lost her post, her apartment and her city to the Iron Veil, and now directs the Eye of Corruption works on behalf of Sharn.
+**Renn Tal** is an archivist of the Old Histories Wing of the Sharn Library, trained in pre-Galifar ritual history and [Dhakaani](/history/the-dhakaani-empire/) archaeology. [Esther Crona](/people/esther-crona/) personally tasked her with cataloguing ancient texts on [Varyn Crona](/people/varyn-crona/), the Eternal Guardian and the Forge of Binding, and the work turned up missing pages in Imperial-approved tomes, altered chronologies and references to subterranean structures beneath Sharn that should not exist. Her questions took her into the Lower City, where [DJ Rust](/people/dj-rust/) brought her into the rebel network and [Misty Kross](/people/misty-kross/) put her Dhakaani literacy to work. She deciphered and opened the puzzle door to the Forge of Binding, lost her post, her apartment and her city to the Iron Veil, and now directs the Eye of Corruption works on behalf of Sharn.
 
 Renn Tal is an archivist from the Old Histories Wing of the Sharn Library and one of the few scholars in the city who has uncovered evidence surrounding the ritual of the Eternal Guardian. Trained in pre-Galifar ritual history and Dhakaani archaeology, she was personally tasked by Esther Crona with cataloging ancient texts related to Varyn Crona, the Eternal Guardian, and the Forge of Binding. Her research revealed missing pages in Imperial-approved tomes, altered chronologies, and references to subterranean structures beneath Sharn that should not exist.
 
@@ -104,6 +105,8 @@ She met the party at [Jessica](/people/jessica-grimpledink/)'s family lockbox an
 ## In the field
 
 She warned three armed strangers to leave her own library because it was not safe, and gave them a contact rather than an argument. She deciphered the inscription on the puzzle door beneath Sharn and opened the Forge. When a Mind Flayer had [Gemma](/people/gemma-corso/) in a grapple and [Eric](/people/eric-the-cleric/) dominated, Renn broke its concentration with the Wand of Magic Missile [Doppler Klink](/people/doppler-klink/) had given her. She then explained, standing in the chamber, how Varyn Crona and E'noch Qualanthri had used the Forge as part of the Eternal Guardian ritual, drawing on forbidden Vol rites.
+
+Before the descent, the stone golem the party fought in the ancient chamber on the Cogborn's route out of Sharn, and an Ioun Stone recovered from that fight, both bore runes matching the writings Renn had been studying in her books. <small>(Oral Histories: The Inevitables, 2026-03-29)</small>
 
 ## The Forge of Binding
 

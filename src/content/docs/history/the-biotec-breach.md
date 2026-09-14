@@ -35,6 +35,8 @@ sources:
 - worldanvil/sources/site/biotec.txt
 - worldanvil/sources/site/key-figures.txt
 - worldanvil/sources/site/rebel-factions.txt
+- sources/dave/2026-09-14-inevitables-rulings-batch.md
+- "Oral Histories: The Inevitables, 2026-05-08"
 published: '2026-09-10'
 wa:
   slug: the-biotec-breach-militaryConflict
@@ -49,7 +51,7 @@ gallery:
 
 The BioTec Breach was the infiltration of the [BioTec](/organizations/biotec/) facility in Sharn's Upper Central District by [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/), their first job for the rebellion, recorded in Sharn Ep 1. Briefed by the rebel operative [Izaak](/people/izaak/) at The Astra Bar, they used a keycard lifted from the junior enhancement technician [Martin Kross](/people/martin-kross/) to reach a restricted laboratory, where a panicked scientist unleashed three undead-Warforged hybrid units and gave the rebellion its first sight of [Project E.D.E.N.](/organizations/project-e-d-e-n/) They carried out the Ghost Chip and a folder of encrypted data, solved a hidden puzzle in Skyroot Park that opened the way into [the Nest](/organizations/the-nest/), and each took a Ghost Chip implant from Izaak.
 
-Newly arrived in Sharn, [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) were told to meet the rebel operative [Izaak](/people/izaak/) at The Astra Bar in the upper city. Their assignment: infiltrate the corporate labs of [BioTec](/organizations/biotec/) and steal a prototype known only as the Ghost Chip.
+Newly arrived in Sharn, [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) were told to meet the rebel operative [Izaak](/people/izaak/) at The Astra Bar in the upper city. Their assignment: infiltrate the corporate labs of [BioTec](/organizations/biotec/) and steal a prototype known only as the Ghost Chip. They had come to Sharn a year after the Leef / Newham fighting. The Sharn arc that began here lasted weeks: by Sharn Ep 16 they had been in the city nearly two weeks. <small>(Oral Histories: The Inevitables, 2026-05-08)</small> The Korth arc followed three years after the fall of Sharn.
 
 ## THE TARGET
 
@@ -73,7 +75,7 @@ They barely survived it. This is the rebellion's first sight of [Project E.D.E.N
 
 The Ghost Chip, and a folder of encrypted high-level data. Following Izaak's instructions they solved a hidden puzzle in Skyroot Park, which opened the way into [the Nest](/organizations/the-nest/), where they met Zero of Sharn and slept while the city did.
 
-The folder, redacted down at the Nest, produced the name **Project EDEN** — and Izaak then implanted a Ghost Chip in each of them, which is how three foreigners moved through Sharn for the next two years.
+The folder, redacted down at the Nest, produced the name **Project EDEN** — and Izaak then implanted a Ghost Chip in each of them, which is how three foreigners moved through Sharn for the weeks of action that followed, up to the fall of the city.
 
 ## THE TAIL
 

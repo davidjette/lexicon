@@ -36,6 +36,7 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-02-15"
 published: '2026-09-10'
 wa:
   slug: the-unforeseen-organization
@@ -67,7 +68,7 @@ Maw also had a standing alternative prepared. If Locke had admitted downloading 
 
 ## THRONE ROOM TRANSCRIPT — KORTH
 
-Delivered by [Gabriel Duin](/people/gabriel-duin/), out of the black robes, standing nude before Kaius III with the Dragonmark across her pelvis and stomach, to all four founders at once:
+Delivered by [Gabrielle Duin](/people/gabriel-duin/), out of the black robes, standing nude before Kaius III with the Dragonmark across her pelvis and stomach, to all four founders at once:
 
 > We've been watching you, and you've proven yourselves time and again to be great assets to the Empire. You retrieved the ancient bell artifact, you've secured a powerful ally to the West in the Eldeen Reaches, you've turned a once slum of a town into a great new city, and it looks as if you've uncovered the second of 4 ancient stone tablets. But you've dug too deep this time. For 7 long years it took me to get where I was, to get in, to get close. I did it all for the Empire and now it is all ruined, because of you!
 
@@ -102,6 +103,12 @@ The Unforeseen were the player characters of the first campaign. They recovered 
 <small>**Dating:** the [Greenbluff recovery](/history/the-greenbluff-incident/) was the first and second sessions of this campaign, about ten years before the Inevitables; the written records put it at "twenty years" (Fulcrum's bell file), "thirteen years" (Sharn Ep 19) and "over a decade" (the rebel-factions page). In the master chronology the Eberron campaigns — The Unforeseen, Sharn and Korth — sit after the Infantaverse and Dead Man's Hand era and before Starfall: The Next Generation.</small>
 
 LeBeefe went first, at Newham, and the explosion poisoned a province. Esther went second, on her own balcony in Sharn, and took the Iron Veil's pact down with her. Locke did not have to be beaten because Locke turned, and turning made him more dangerous rather than less: he holds the Ruby Nova, and he has told the people who beat two of his co-founders that if they fail against the third he will end the world before she can. Uriel is what is left. Ten bells remain, and the Inevitables are on the river to the Ivory Lazaret.
+
+## The new order
+
+Dave's pitch for the main thread of the first campaign was "The plan to slowly get encryption  keys to unlock locke’s mind to then find Crona’s killer". Dave: "So they obviously did that and took over". Of the allegiance chart of the [Interoperability Summit](/history/city-of-knives/) he said: "Oh yeah this the last order that the unforeseen brought down" / "There’s a new order" / "Same as the old". <small>(Oral Histories: The Inevitables, 2026-02-15)</small>
+
+In the world the four made, "there are rival god cults to the imperial one that Uriel leads and multiple secret undead armies fighting for territory everywhere", and "life for the people is awful no matter where you live". The rebellion in Sharn "is an extension of the drama of the Crona\LaBeefe dynasty family". <small>(Dave, Oral Histories: The Inevitables, 2026-02-15)</small>
 
 ## Roster
 

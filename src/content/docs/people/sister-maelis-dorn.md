@@ -38,6 +38,7 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/wa/the-black-doves-organization.txt
 - sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
+- "Oral Histories: The Inevitables, 2026-08-09"
 published: '2026-09-10'
 wa:
   slug: sister-maelis-dorn-person
@@ -89,6 +90,8 @@ Three years later, at the Summit called by Admiral Vex d'Lyrandar to end the civ
 Three years dead, the Korranberg Foundry gave up her name twice. A door at the end of the living quarters had been sealed with a Black Dove prayer ritual — a muslin sheet covered in protective scripture, meticulously sewn into the wood frame — signed by Sister Maelis Dorn. Behind it a creature calling itself [Sister Calvane](/people/sister-calvane/) claimed three years of confinement and said it had heard *not a bell but a horn*, then became a winged demon and died in the hall. Deeper in the suite was the real Calvane, undead and near-vampiric, and Calvane's library, which held the consecration rite entire. A second seal in the same hand closed the shrine where Overseer Velen Marsk was still on shift and where the death warrant signed by Emperor Kaius III lay in his satchel, with most of the names struck through and the drains caked in three-year-old blood.
 
 Both seals were placed *after* the bell rang. Dorn walked into a foundry full of murdered dwarves, closed two doors on what was inside them, and walked back out.
+
+The shrine door, too, was sealed with a Black Dove prayer-cloth signed by Sister Maelis Dorn. Behind it Marsk kept two risen ogres, and the bones of hundreds lay heaped at the altar. <small>(Oral Histories: The Inevitables, 2026-08-09)</small>
 
 ## Secret
 

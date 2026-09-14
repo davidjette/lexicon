@@ -44,6 +44,14 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
 - worldanvil/CANON.md
+- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+- sources/documents/2026-09-14-nico-evil-campaign-3.md
+- sources/dave/2026-09-14-inevitables-rulings-batch.md
+- "Oral Histories: The Inevitables, 2021-10-01"
+- "Oral Histories: The Inevitables, 2026-05-08"
+- "Oral Histories: The Inevitables, 2026-06-19"
+- "Oral Histories: The Inevitables, 2026-06-25"
+- "Oral Histories: The Inevitables, 2026-08-23"
 published: '2026-09-10'
 wa:
   slug: esther-crona-person
@@ -88,15 +96,17 @@ The Crimson Sun is the Imperial Empire’s Secret Service — a limited, elite b
 
 In public she is the Empire’s straightest line: the freed slave who rose on merit, the Lord Commander who rules Sharn from the Veil Building, the loyalist who purged the traitors on the Council of 13 with the Emperor’s blessing. Rebel intelligence classifies her household as a High-Priority Observation Target and recommends continuous surveillance, and gets almost nothing for it.
 
-In private she is a woman who lives alone in a dead man’s house and talks to his sword. Field analysis places the architects of Varyn’s assassination on the Council of 13, and she killed all of them, and some of their immediate families. She left exactly one of them alive — [Henry Heinrick](/people/henry-heinrick/) — and it took the rebellion years to work out why that mattered. She kept the rest as undead honor guards.
+In private she is a woman who lives alone in a dead man’s house and talks to his sword. Field analysis places the architects of Varyn’s assassination on the Council of 13, and she killed all of them, and some of their immediate families. She left exactly one of them alive — [Henry Heinrick](/people/henry-heinrick/) — and it took the rebellion years to work out why that mattered. She kept the rest as undead honor guards. The honor guards were Uriel's work, made for Esther. <small>(Oral Histories: The Inevitables, 2026-06-25)</small> Dave: "Esther was in on and complicit with Uriels plans to sideline the emperor and take the throne" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-08-23)</small>
 
 ## Competence and circle
 
-Varyn saw something special in her at five: a force power he called a rare natural talent, so rare that a rebel monk in the Dragon Watch Isles using something like it was worth writing down. She keeps a small, ruthless circle — [Richard Blaze](/people/richard-blaze/), who cooks; [Uriel Qualanthri](/people/uriel-qualanthri/), who is godmother to her son; and Hayman Maw, whom she despises on her master’s instructions. Her heirloom is Varyn’s sword, and the previous owner is still inside it.
+Varyn saw something special in her at five: a force power he called a rare natural talent, so rare that a rebel monk in the Dragon Watch Isles using something like it was worth writing down. She keeps a small, ruthless circle — [Richard Blaze](/people/richard-blaze/), who cooks; [Uriel Qualanthri](/people/uriel-qualanthri/), who is godmother to her son; and Hayman Maw, whom she despises on her master’s instructions. Her heirloom is Varyn’s sword, and the previous owner is still inside it. Dave: "Esther had a hex blade and served a holy king as paladin". <small>(Oral Histories: The Inevitables, 2021-10-01)</small>
 
 ## The Eternal Guardian
 
 Varyn Crona served as head Paladin to Kaius I, Kaius II and Kaius III, appointed the Emperor’s sworn protector from birth under the title Eternal Guardian, and shaped Imperial military doctrine for centuries. His soul was bound in a blade by a rite performed at a Dhakaani-era Forge of Binding beneath Sharn, and Esther set the Sharn Library archivist Renn Tal to cataloguing every text on Varyn, the Guardian and the Forge. Merely asking after Varyn Crona at that library was enough for a librarian to report the enquiry to the Iron Veil. Richard Blaze warned the Inevitables that facing her while the sword remained bound would be suicide. He was right.
+
+After Eric performed the Rite of Recall at the [Forge of Binding](/places/the-forge-of-binding/) in Sharn Ep 15, her sword was said to be less powerful, and her hexblade pact may have been broken. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
 
 She believes Varyn’s soul resides in his sword and that it continues to guide and train her. She believes the Council of 13 murdered him and that she was owed every one of their lives. She believes that together she and her Hexblade will rule the world.
 
@@ -114,9 +124,19 @@ Esther took Varyn’s body back to the capital and now lives alone in the Varyn 
 
 <small>HexBlade Vengeance Paladin . Former slave who now serves the Empire as an agent / inquisitor of the Crimson Sun. Personal mission is to avenge my masters death and grow in power (Master is her Patron / Hexblade)</small>
 
+## Six months later
+
+After the Unforeseen's meeting with the council in Korth, Esther spent a month in the Eldeen Reaches with Minister [Henry Heinrick](/people/henry-heinrick/) <small>(also written Heighrick)</small>, Chief Diplomat, finalising the alliance treaty with the Children of Winter and Dark Queen Ivanka. Back in Karrnath she led a team to infiltrate a supposed rebel base in the Shadowmount Forest, and found it long abandoned. <small>(Nico's DM notes, Episode 6)</small>
+
+In Korth she waited months for an assignment that never came. Living in the manor of her late master, she took up Varyn's old hobby of painting and read art history in the manor's library, and months of practice made her proficient with painter's supplies. She practised new magic too: the cleaning magic Director Pierce always used, and an expansion of the lightning magic she had used before to lure in her foes, which seemed to come naturally. Her nights brought heavy drinking and frequent sexual encounters with the chef [Richard Blaze](/people/richard-blaze/). Her sleep was restless, full of vivid dreams of her master's death and the masked assailant who murdered him, and Varyn's voice seemed to speak to her through his old sword: "Esther, Together we will rule!" <small>(Nico's DM notes, Episode 6)</small>
+
+## The throne room
+
+In the throne room at Korth, Gabrielle Duin told the Unforeseen that one of the ancient tablets was believed to be kept at a rebel stronghold near Fairhaven, and asked: "Esther, you’re familiar with Fairhaven, are you not?" Kaius was to tell Esther that Varyn Crona had been a loyal warrior, charge her to avenge his death, and hint that she might one day take Varyn's place. <small>(Nico's DM notes, Episode 9)</small>
+
 ## From founder to antagonist
 
-She was nineteen and a High Inquisitor when four Imperial operatives stood in the ruined village of Arden Crest and vowed to work together and grow in power. She was twenty-nine when the Inevitables arrived in her city, and thirty-one when they killed her on her own balcony. All three ages are correct; a decade separates the campaigns and the Sharn arc itself runs about two in-world years. The party that recovered the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) and held the Talenta Plains Express is the same party the next generation of heroes had to dismantle one member at a time. [LeBeefe](/people/john-c-lebeefe/) went first, at Newham. Esther went second, and took the Iron Veil down with her.
+She was nineteen and a High Inquisitor when four Imperial operatives stood in the ruined village of Arden Crest and vowed to work together and grow in power. She was twenty-nine when the Inevitables arrived in her city, and thirty-one when they killed her on her own balcony. All three ages are correct; a decade separates the campaigns. The second campaign opened with the [Leef / Newham arc](/history/the-leef-newham-arc/); one year later came the Sharn arc, weeks of action; and three years after that, the Thronehold Summit and the Korth arc. The party that recovered the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) and held the Talenta Plains Express is the same party the next generation of heroes had to dismantle one member at a time. [LeBeefe](/people/john-c-lebeefe/) went first, at Newham. Esther went second, and took the Iron Veil down with her.
 
 ## Lord Commander of Sharn
 
@@ -138,6 +158,8 @@ Esther died on her own balcony at the end of the Sharn rising, in the fight that
 
 With the last of her strength she seized the *Black Veil* telekinetically and threw it into the colossal statue of Uriel above the Skyport. Then she fell from the balcony and landed at the base of her own building, and Dario Argentino broadcast the body live and told the city the Empire would fall.
 
+Dave: "Esther was the center point of Imperial command and control and defeating her (really her family defeated her we just lit the match) was the tipping point of the war". <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
+
 > Esther, together we will grow in power and rule Khorvaire and beyond.\
 > — Varyn Crona, to his apprentice
 
@@ -154,7 +176,7 @@ Esther Crona is three years dead. Her last order is the Inevitables’ standing 
 
 **Holdings:** Crona Manor in Korth, left to her by Varyn and lived in alone. The penthouse atop the Veil Building in Sharn, and the Veil Building itself. The *Black Veil*, her airship. Fort Crona and the mythal-like barrier called Crona’s Wall on the western front carry the name.
 
-**Items:** Esther acquired a Lightsaber (sunsword) after killing a rebel monk in the rebel hideout in the Dragon Isles. In a ritual she transferred her Hexblade over to the new Lightsaber. She also carries Varyn’s personal red-and-black blade, both an active weapon and a symbolic inheritance. A finely wrought suit of armour commissioned for her was left in the Crona penthouse and now belongs to [Sir Dario Argentino](/people/sir-dario-argentino/), whom it fits with uncanny precision. Her wedding gift — determined by Jessica Grimpledink and the dwarf Bofric to be both black and red Khyber — is now being studied as a prototype weapon by the people who killed her.
+**Items:** Esther acquired a Lightsaber (sunsword) after killing a rebel monk in the rebel hideout in the Dragon Isles. In a ritual she transferred her Hexblade over to the new Lightsaber. She also carries Varyn’s personal red-and-black blade, both an active weapon and a symbolic inheritance. A finely wrought suit of armour commissioned for her was left in the Crona penthouse and now belongs to [Sir Dario Argentino](/people/sir-dario-argentino/), whom it fits with uncanny precision. Her wedding gift — determined by Jessica Grimpledink and the dwarf Bofric to be both black and red Khyber — is now being studied as a prototype weapon by the people who killed her. From the journey to Arden Crest she took a **Sentinel Shield**, emblazoned with an eye, which gives its holder advantage on initiative rolls and Wisdom (Perception) checks, and **Gauntlets of Ogre Power**, which make the wearer's Strength 19. <small>(Nico's DM notes, Episode 9)</small>
 
 **The Pact:** Every soldier of the Iron Veil in Sharn held a warlock pact through Esther Crona. Their longsword pact weapons, their spells and their connection to her all ran through one woman, and she could sever the whole of it with three words. She did, once, at the end.
 

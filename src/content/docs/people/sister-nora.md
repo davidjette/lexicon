@@ -39,6 +39,8 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/wa/the-black-doves-organization.txt
+- "Oral Histories: The Inevitables, 2026-01-22"
+- "Oral Histories: The Inevitables, 2026-02-21"
 published: '2026-09-10'
 wa:
   slug: sister-nora-person
@@ -105,6 +107,8 @@ Bound and gagged, she was first questioned under Zone of Truth in yes-or-no answ
 Then they asked who supplied the bodies. She grabbed the side of her head near her ear, bled from the nose and collapsed. Dario cut the chip out. The name behind it was Dr. Edwin Graves, the Cog Collector, and finding him ended the body-supply pipeline. Afterward Nora refused to eat, and the question of what to do with her sat open on the Nest's mission board: keep her, execute her as a political message, or something else.
 
 > "She's more alive than the hybrids that came after her…but not whole. Not like she once was. A miracle, yes but an incomplete one, a soul even Uriel may not reach."
+
+By Nico's account, in her cell Nora worked out that her captors were not Cogborn, while the Empire still held the Cogs responsible for her kidnapping. <small>(Oral Histories: The Inevitables, 2026-01-22)</small> She talked after rolling two natural 1s on her saves. Nico, as DM: "she is one with her faith and you all took her because it is part of her calling to spread the message". Nico rated her "a high lvl cleric". At the time the Iron Veil believed "the cog were responsible for the riot / death of Candice Kurt and the kidnaping of Nora", and Nico warned that killing her might turn the Cogborn neighbourhood more violent. <small>(Oral Histories: The Inevitables, 2026-02-21)</small>
 
 ## Trial and Execution
 

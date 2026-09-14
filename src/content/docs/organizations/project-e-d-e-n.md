@@ -14,6 +14,9 @@ tags:
 - Sister Nora
 - Edwin Graves
 - Umbra
+- Empire's Design for Enemy Neutralization
+- EDN-31
+- EDN-07
 image:
   src: /images/site/project-e-d-e-n-3.webp
   alt: Project E.D.E.N.
@@ -30,6 +33,10 @@ sources:
 - worldanvil/sources/site/children-of-ember.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-01-02"
+- "Oral Histories: The Inevitables, 2026-03-31"
+- "Oral Histories: The Inevitables, 2026-04-04"
+- "Oral Histories: The Inevitables, 2026-06-25"
 published: '2026-09-10'
 wa:
   slug: project-eden-organization
@@ -61,7 +68,7 @@ gallery:
 
 **Classified Imperial military initiative · Hybridisation programme · Operated by BioTec under Dr. Joanne Menka · Deployed into the Mournlands · Active**
 
-*Also known as:* Project EDEN · E.D.E.N. · "the project" · "the units"
+*Also known as:* Project EDEN · E.D.E.N. · "the project" · "the units" · Empire's Design for Enemy Neutralization
 
 **Project E.D.E.N.** is [BioTec](/organizations/biotec/)'s secret hybridisation programme, overseen by Dr. [Joanne Menka](/people/dr-joanne-menka/), which fuses humanoid bodies with warforged cybernetics to produce undead-warforged supersoldiers for deployment into the Mournlands. It is named after [Eden](/people/eden/), the youngest half-sister of [Esther Crona](/people/esther-crona/), who died beneath the Grand Aqueduct and whose failed resurrection became the prototype the rest of the work was reverse-engineered from; Imperial documents do not distinguish between the programme, the units and the woman. The Sharn end of the programme was dismantled piece by piece after the city rose and Dr. Menka was tried and executed, but units were still operating in the west three years later.
 
@@ -69,11 +76,27 @@ gallery:
 
 The name came out of an encrypted BioTec folder stolen on the night of the [Ghost Chip](/items/the-ghost-chip/) theft and cracked at the Nest by [Zero of Sharn](/people/zero-of-sharn/). The shape of it came from fragments overheard at the opening of POSÉ. The substance came out of [Sister Nora](/people/sister-nora/) in a farmhouse cellar under a Zone of Truth, over two sessions, with a BioTec control chip in her skull fighting her the entire time. The last piece came from a Warforged in a tunnel who recognised the monster from a personal memory.
 
+The general public knew BioTec as a company that makes implant chips, crystallizer screens, zephyr pods and other gear, and knew nothing of Project E.D.E.N., or that the serial killer of the Cogborn was in any way connected to it. <small>(Oral Histories: The Inevitables, 2026-04-04)</small>
+
 ## RECOVERED BIOTEC FILE — PROGRAMME ABSTRACT
 
 Project E.D.E.N. is [BioTec](/organizations/biotec/)'s secret hybridization program, overseen by Dr. [Joanne Menka](/people/dr-joanne-menka/), dedicated to creating undead-warforged supersoldiers by fusing humanoid bodies with warforged cybernetics. The resulting hybrids retain corpse-like skin, mechanical limbs, and masked faces that hide their deteriorating features, giving them an unsettling blend of military precision and necromantic horror. The project represents one of the Empire's most ruthless scientific endeavors, designed to produce obedient, tireless troops capable of enforcing Imperial control without question. Its existence is tightly concealed, its ethics nonexistent, and its success a looming threat to anyone who stands against the Empire's expanding power.
 
 <small>The company's own summary. The resistance's assessment of it: BioTec is a privately owned company whose shadow projects threaten the balance of our resistance; their work on Project E.D.E.N., the creation of hybrid undead-warforged super soldiers, is a newly discovered operation shrouded in secrecy.</small>
+
+## BIOTEC INTERNAL RESEARCH ARCHIVE — BT-E.D.E.N./PRIME-001-REVISION-OMEGA
+
+A redacted BioTec internal research file on the programme, clearance level Omega-Black, is distributed to the Executive Directorate, the Hybridization Division, Imperial Liaison and Black Dove Oversight. <small>(Oral Histories: The Inevitables, 2026-01-02)</small>
+
+- **The name.** The file expands E.D.E.N. as "Empire's Design for Enemy Neutralization" and calls the programme BioTec's "flagship hybridization initiative", under Dr. Joanne Menka.
+- **Dr. Joanne Menka.** Menka is 65 and human. She is BioTec's Lead Hybrid Specialist, wrote the Phase III Integration Report on fusing necrotic tissue with warforged bodies, and is "Known for uncompromising standards". Her relationship with the Black Dove clerics is "contentious yet productive".
+- **[Sister Nora](/people/sister-nora/).** Nora, of the Black Dove Hospital at the [Sanctum of the Last Mercy](/places/sanctum-of-the-last-mercy/), sits on the programme as "Ecclesiastical Observer (unofficially: Influence Auditor)". She evaluates BioTec's doctrinal compliance and has asked more than once for the Phase IV resurrection logs. The file recommends limiting her access to the unredacted logs until a review.
+- **Partners.** The Black Dove Church; House Lyrandar, whose Head of Transportation [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) uses a "daredevil persona" as a public distraction; and House Orien, collapsing since [Kwanti d'Orien](/people/kwanti-d-orien/) was found impaled in lower Sharn, which has left House Lyrandar with a monopoly on transportation.
+- **The units.** Treated corpses decay so slowly they are "near stasis". Warforged limb assemblies are grafted onto the muscles, glowing conduits called Redline Circuitry carry arcane-electrical impulses, and a Neural Regulator Mask suppresses identity bleed-through to keep each unit obedient. Phase III reduced memory bleed-through, which persists. Phase IV is in field testing.
+- **Known incidents.** In incident 22-C, Unit EDN-31 tried to speak Valenar Elvish, which the file takes for a possible echo of donor memory. In 24-H, shard resonance set the Redline Circuitry pulsing out of control, an effect Sister Nora called "ecclesiastically promising." In 27-A, Unit EDN-07 stood without moving for 89 minutes and whispered "The land remembers."
+- **Ethical review.** The section was removed by Imperial directive.
+
+A restricted addendum, "Foundational Incidents & Prototype History", makes unauthorized possession treason under Imperial Statute 44-B. It lists **Subject Zero: Eden**, designation EDN-00, status "Active (Unstable)": the first hybridization attempt, from before BioTec was formally involved, whose resurrection set Project E.D.E.N. going. Knowledge of her is limited to Esther Crona, Dr. Joanne Menka and the Black Dove high clergy. Its pre-BioTec incident report, filed by Sister Nora as sealed testimony, is dated four years back and six months before BioTec Phase I, at the unregistered wing of the Black Dove Hospital in Upper Sharn: "Catastrophic sternal trauma", "Complete cessation of vital signs", and Esther described as "hysterical, blood-covered, and begging." The outcome: "Eden revived." In Preacher's account Eden fell from the Grand Aqueduct's upper walkway onto the machinery beneath, and Esther took her body to Sister Nora.
 
 ## INTERROGATION OF SISTER NORA — ZILSPAR FARM 02
 
@@ -113,6 +136,8 @@ To BioTec, E.D.E.N. is a procurement contract. To the Iron Veil, it is a divisio
 ## THE UNITS
 
 What the Inevitables met at level five, three of them released by a panicking scientist in a BioTec corridor, were horrors: corpse-skinned, mechanically limbed, masked. Barely survivable. Unit 0.3 was found later beside a dead senior scientist, having executed a full force pulse at shutdown.
+
+The hybrid units strike at +8 to hit, can action surge, and explode. <small>(Oral Histories: The Inevitables, 2026-06-25)</small> During the Sharn arc the E.D.E.N. units east of [Gorgonhorn](/places/gorgonhorn/) in the Mournlands were the Cogborn's biggest fight, and the Hundreds did most of the work of fending them off. <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
 
 What they met years later in the west was not the same machine. Eight units held the ruins of a burned farm, and by then the line had been refined: they **self-heal**, they stand on **undead fortitude**, they articulate on **impossible second elbows**, and they **burst into lightning when destroyed**. [Eric](/people/eric-the-cleric/) killed one on top of an antenna and the discharge electrified the whole tower field for the rest of the fight; Dario sheathed Pale Fire for KNELL purely to shove them clear before they detonated. All eight fell. The evidence at the site showed that many EDEN soldiers had died defending that farm before incendiaries were brought in to burn the buildings over people boarded up inside. Why the units that garrisoned the farm and the units that burned it were the same product has never been explained.
 

@@ -42,6 +42,10 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/mission-board.txt
 - worldanvil/CANON.md
+- sources/documents/2026-09-14-nico-evil-campaign-3.md
+- "Oral Histories: The Inevitables, 2026-07-08"
+- "Oral Histories: The Inevitables, 2026-08-22"
+- "Oral Histories: The Inevitables, 2026-08-23"
 published: '2026-09-10'
 wa:
   slug: varyn-crona-person
@@ -97,6 +101,16 @@ The Echo raised at the Forge of Binding named a brother: **E'noch Qualanthri**, 
 
 He believes that he and Esther will grow in power together and rule Khorvaire and beyond. He believes the bloodline *is* the power — "as the blood is the power, and the blood flows through me, the power is mine." He believes Haymen Maw is unworthy of the Council table, and says so out loud.
 
+## The Official Historical Record
+
+By Nico's account, the Official Historical Record of Varyn Crona is written in sections by successive scribes. Its entries for the Last War read:
+
+- **Third scribe, 896–897 YK, recorded by Historian Loras Thul.** "Karrnath suffered failed harvests, frozen fields, plague, starvation, and military collapse. Kaius I sought aid from many sources. Some accounts claim a mysterious advisor known as “the Stranger” returned to court during this time, though no official record names him."
+- **Fourth scribe, 897–910 YK, recorded by Archivist Selanne ir'Darr.** Under Varyn's command the Crimson Sun "became the elite of Karrnath, the blade of the Crown and shield of the Wynarn line." Kaius I died in 910 YK and was succeeded by his son, Kaius II. "Some historians note unusual inconsistencies in the funeral accounts, though no official explanation has ever been recorded."
+- **Fifth scribe, 910–996 YK, recorded by Archivist Selanne ir'Darr.** "Varyn Crona served faithfully through the reigns of Kaius I and Kaius II, and remained a central figure into the early years of Kaius III. His discipline and counsel shaped Karrnath throughout the Last War."
+
+<small>(Oral Histories: The Inevitables, 2026-08-22)</small>
+
 ## Origin
 
 Esther Crona was born into slavery two years after the end of the Last War. At the age of 5 she was purchased to work as a servant at the manor of High Elf, Crimson Sun leader and member of the imperial Council, Varyn Crona in the Capital city Korth. Varyn took a liking to Esther and taught her to read, write and harness her natural powers. He saw something "special" in her, saying she had a force power that is a rare natural talent. When she turned 12 she officially became his apprentice and trained with Varyn as a Crimson Sun agent, working with him to investigate and eradicate cells of rebel forces.
@@ -124,6 +138,14 @@ Deep in the sewers of Sharn, in the ruins of a Dhakaani-era foundry, the party r
 > "…we'll bleed the sun, eternal night. Our bloodline shall reign… As the blood is the power, and the blood flows through me, the power is mine. E'noch… Qualanthri… my brother…"\
 > \
 > — Varyn's Echo at the Forge of Binding, its last words before it shattered
+
+## The Council and the long plan
+
+Dave ties Varyn to the Crimson Sun and the Mourning alike: "Crona summoned all that power to craft the Crimson Sun and summon the Mourning all to protect and coronate Caius III". <small>(Oral Histories: The Inevitables, 2026-07-08)</small>
+
+Whether the Emperor ordered his death is an open question. Dave: "did Kaius KNOW and DIRECT the Council to murder Crona and turn on the plan? Or did the Council do that on their own?" <small>(Oral Histories: The Inevitables, 2026-08-22)</small> In Nico's notes for [Episode 9](/sessions/episode-9-the-dig-site-throne-room-dm-nico/), when the Unforeseen met the Emperor, "Kaius will say something to Ether about Varyin Crona being a loyal Warrior and to avenge his death" <small>(sic)</small>, hinting that Esther might take Varyn's place one day. <small>(sources/documents/2026-09-14-nico-evil-campaign-3.md)</small> Nico added: "I think we got confirmation that the Coucil acted on their own too" <small>(sic)</small>. Dave: "I feel like the Council turned on Varyn Crona and the long term plan, but the unforeseen came and set it back in motion, plus much more". <small>(Oral Histories: The Inevitables, 2026-08-23)</small>
+
+By Nico's account Esther worked for Uriel and the Empire, "but she also had Varyn in her head pushing her to do things, like gather red Khyber and Project Eden (to an extent)". Dave agreed: "Exactly". <small>(Oral Histories: The Inevitables, 2026-08-23)</small>
 
 ## Right now
 

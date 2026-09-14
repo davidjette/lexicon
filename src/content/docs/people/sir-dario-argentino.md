@@ -10,6 +10,8 @@ tags:
 - Sir Beef Taco
 - Sky Rizzy
 - Greyscale
+- Flintscale
+- Quicksilver
 - Ronaldo Weasley
 - Silver Flame
 - The Inevitables
@@ -28,7 +30,7 @@ fields:
   age: Unknown
   eyes: Blind in one eye; the revivification diamond sits in the empty socket. Original colour unrecorded.
   hair: None recorded - dragonborn
-  skin: Scaled; colour unrecorded, though his own working alias is Greyscale
+  skin: Silver scales (first built as gold); his own working alias is Greyscale
   height: Unknown
   weight: Unknown - Strength 20 unaided
 sources:
@@ -48,6 +50,14 @@ sources:
 - session-2026-08-28-summary-nichole-style.md
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2025-06-07"
+- "Oral Histories: The Inevitables, 2025-06-26"
+- "Oral Histories: The Inevitables, 2025-07-09"
+- "Oral Histories: The Inevitables, 2025-07-13"
+- "Oral Histories: The Inevitables, 2025-07-18"
+- "Oral Histories: The Inevitables, 2025-07-19"
+- "Oral Histories: The Inevitables, 2025-07-21"
+- "Oral Histories: The Inevitables, 2025-08-08"
 published: '2026-09-10'
 wa:
   slug: f47b8ed5-7adf-4935-870c-42c903223e32
@@ -82,7 +92,7 @@ gallery:
 
 **Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 12 · Alive**
 
-*Also known as:* **Sir Beef Taco** (first Korth cover) · **Sky Rizzy** (his registered Korth papers, forged in the Hall of Records with a wand-drawn portrait and an official seal) · **Greyscale** · **Ronaldo Weasley** (on the books of the Zilspar Farm-Table Co-op) · one of the **Heroes of Leef** · **of clan Dawnmantle**
+*Also known as:* **Flintscale** (his name as a journeyman smith) · **Sir Beef Taco** (first Korth cover) · **Sky Rizzy** (his registered Korth papers, forged in the Hall of Records with a wand-drawn portrait and an official seal) · **Greyscale** · **Ronaldo Weasley** (on the books of the Zilspar Farm-Table Co-op) · one of the **Heroes of Leef** · **of clan Dawnmantle**
 
 Sir Dario Argentino is a dragonborn paladin, Squire Templar of the Silver Flame, a blacksmith, a member of **the Inevitables**, and the only person recorded to have destroyed a **Fantanya Nyel**. He was born and raised in a jungle near Q'barra and took the oath of the Silver Flame — a religion outlawed by the Empire — because it is his family's trade, as all the strong ones of clan Dawnmantle do. He met [Gemma Corso](/people/gemma-corso/) and [Eric the Cleric](/people/eric-the-cleric/) in the rail-town of Leef, where they were named the Heroes of Leef; went west to Newham and killed Grand Duke John C. LeBeefe; fought through the rising at Sharn, and afterwards spent three years on the Thrane front leading cavalry against undead E.D.E.N. units.
 
@@ -90,7 +100,7 @@ Beneath the [Korramont](/places/the-korramont/) the orc war-chief **Braga Kul** 
 
 ## Physical description
 
-A dragonborn of enormous physical strength — Strength 20 unaided, recorded jumping a collapsing bridge and landing on a colleague. He is **blind in one eye**: the socket holds the diamond Eric spent to revivify him, and it gleams. He wears a finely wrought suit of plate commissioned for [Esther Crona](/people/esther-crona/) and never delivered, which fits him with uncanny precision, over a Silver Flame tabard that is currently torn. He has blindsight, a breath weapon he has used to put out a straw fire, and wings he can raise at will. Scale colour, eye colour and height: **Unknown** — though his own working alias is Greyscale.
+A dragonborn of enormous physical strength — Strength 20 unaided, recorded jumping a collapsing bridge and landing on a colleague. He is **blind in one eye**: the socket holds the diamond Eric spent to revivify him, and it gleams. He wears a finely wrought suit of plate commissioned for [Esther Crona](/people/esther-crona/) and never delivered, which fits him with uncanny precision, over a Silver Flame tabard that is currently torn. He has blindsight, a breath weapon he has used to put out a straw fire, and wings he can raise at will. His scales are **silver**, and his breath weapon is cold: "Silver dragon so ice". <small>(Oral Histories: The Inevitables, 2025-07-13)</small> Dave first built him as a "Paladin Acolyte Gold Dragonborn". <small>(Oral Histories: The Inevitables, 2025-06-07)</small> Eye colour and height: **Unknown**. His own working alias is Greyscale.
 
 ## The Silver Flame
 
@@ -123,6 +133,20 @@ Dario is a working blacksmith with smith's tools, which is how the party learned
 ## Origin
 
 Dario was born and raised in the jungle near Q'barra, a country boy who joined the Silver Flame because it is his family's trade. He trained as a Squire Templar and as a blacksmith, and married into the swamp-dwarf tribes of the Mror Holds. In the eastern rail-town of Leef he met Gemma Corso and Eric the Cleric, and with Thadric "The Colonel" Rourke, Zero of Leef and Princess Orange Chicken they broke Grand Duke John C. LeBeefe's hold on the town and were named the Heroes of Leef. They went west to Newham, united Digma Beeve's rebel cells, killed LeBeefe, and watched the city collapse into the New Mourning. Sent on to Sharn, Dario fought at Breaker's Pit — he beat a man named Biff for a Feather Token — cleared the undercity, and cut the BioTec control chip out of Martin Kross so he could speak. In the three years afterwards he was on the Thrane front with the Silver Flame, leading cavalry against undead E.D.E.N. units raised under the Empress's command, and was extracted from a losing portal fight in the Mournlands with wounds carrying the telltale signs of Mistborn illness.
+
+## Flintscale
+
+Dario began the [Leef / Newham arc](/history/the-leef-newham-arc/) under a cover name. Dave: "Goes by Flintscale as a journeyman smith, but he secretly dreams to be oathbound to the silver flame". His background combined acolyte with smith's tools. <small>(Oral Histories: The Inevitables, 2025-06-26)</small>
+
+He made his own gear. Dave: "I think all his starting kit he made himself from scrounged scraps and tossed out pieces" / "Except the sword, which is first real quality work, made in secret, named it quicksilver". The sword was **Quicksilver**, and Dave described the image of Dario drawing it as "the aspirant hero drawing a blade he made himself knowing he could be arrested for it". <small>(Oral Histories: The Inevitables, 2025-07-09)</small>
+
+He also made a **masked helm**: "dario has made a masked helmet as part of his paladin gear, so that he can stay anonymous when fighting for justice". Dave: "It would be rigged so he could use his breath weapon and having a humanoid face would be somehow even scarier". <small>(Oral Histories: The Inevitables, 2025-07-13)</small>
+
+To identify fellow Flames he used the [Silver Flame](/organizations/the-silver-flame/)'s pass phrase, *"Long night?"* answered by *"Means a brighter day."* <small>(Oral Histories: The Inevitables, 2025-07-18)</small>, also given as *"Long night, means a brighter dawn"*. <small>(Oral Histories: The Inevitables, 2025-08-08)</small>
+
+In the first session of the Leef / Newham arc Dario decapitated a guard in front of a scrapyard. Dave named the guard **Morlo Gint**. <small>(Oral Histories: The Inevitables, 2025-07-19)</small>
+
+At the table the trio's group took the name **Falcon's Junkyard**, which Nico credited to [Gemma Corso](/people/gemma-corso/): "Gemma named the group Falcon's Junkyard." <small>(Oral Histories: The Inevitables, 2025-07-21)</small> In Sharn the Nest onboarded them as the Falcon Crew.
 
 ## Sharn
 
@@ -163,6 +187,8 @@ Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth
 - **Esther Crona's armour** — commissioned for the Lord Commander of Sharn, found in the Crona penthouse, fits him with uncanny precision. He chose it as the foundation of his Korth disguise.
 - **A tower shield and a sentinel shield** — he swaps to the tower shield specifically for breath weapons.
 - **Smith's tools** — with which he named Shavat on sight.
+- **Quicksilver** — his first sword of real quality, made in secret before the Leef / Newham arc; the rest of his starting kit he made from scrap.
+- **A masked helm** — made as part of his paladin gear so that he could fight anonymously, rigged for his breath weapon.
 - **A handaxe**, a wand of magic missile built at cost by Doppler Klink, and a Feather Token won in a fighting pit.
 - **His personal prayer book** — GIVEN AWAY. Surrendered through the bars of an Imperial jail to a starving prisoner who asked for a holy symbol of the Silver Flame. She used it as the beacon that let the party track her body down the corpse chute.
 - **The Crown of Seven Stars** — GIVEN AWAY. Ancient work in a rare infernal ore, seven pledges to a devil whose name cannot be spoken, borrowed from Valtrex alongside the hammer. Handed to Master Armhair to carry back down the mountain as a gift, with the instruction never to wear it.

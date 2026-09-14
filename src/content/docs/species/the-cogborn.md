@@ -20,7 +20,7 @@ type: species
 kind: species
 icon: fa-gears
 fields:
-  type: The industrial labour population of the Cogs; species not recorded
+  type: The industrial labour population of the Cogs; mostly human
   alternativename: The Cogs (collective)
 sources:
 - worldanvil/sources/site/home.txt
@@ -29,6 +29,9 @@ sources:
 - worldanvil/sources/site/pose-mission-notes.txt
 - worldanvil/sources/site/mission-board.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-02-22"
+- "Oral Histories: The Inevitables, 2026-03-03"
+- "Oral Histories: The Inevitables, 2026-03-31"
 published: '2026-09-10'
 wa:
   slug: the-cogborn-species
@@ -62,6 +65,8 @@ The Cogborn are the industrial underclass of Sharn's Lower City: generations of 
 The Cogs form the industrial slum of the Lower City, southwest, built around a narrow waterway and ringed by ageing factories and processing plants. Smoke, steam and machine noise fill the air at all hours. Cogborn homes are improvised structures welded directly onto the sides of the factories — stacked shanties, patched platforms and rooms clinging to pipes, vents and maintenance walkways. The neighbourhood is dense, dangerous, and absolutely vital to Sharn's mechanical heartbeat.
 
 Their commerce is Gear Street Markets to the south: scrap vendors, food stalls, arcane tinkerers, and the largest building on the street, **Circuit City**. Their arena is Breaker's Pit under the Ziggurat. Their clinic is Graft & Gear. Their aqueduct is a boundary, a landmark, and a way out.
+
+Most Cogborn work in the factories and water plants, live on the southwest side of the Lower City in shacks built on top of their workplaces, and are human, though other races live among them. Years of smoke, steam and metal dust have given many of them milky white eyes, an adaptation to the harsh, low-light environment. Accidents are frequent and missing limbs are common, and most Cogborn who lose a limb cannot afford a prosthetic; [Misty Kross](/people/misty-kross/) has a prosthetic arm. Younger Cogborn have been able to make lives outside the neighbourhood. <small>(Oral Histories: The Inevitables, 2026-02-22)</small>
 
 ## The Collapse
 
@@ -104,11 +109,15 @@ What began as scattered acts of survival — smuggling families through forgotte
 
 ## The Exodus
 
+With the Cogs overrun by the Iron Veil, the Cogborn hid in the tunnels beneath the district, but both tunnels out were blocked: one on purpose, because of "dangerous stuff on the other side", and one by a cave-in. Either could lead to the Underhive if Blair allowed it. The community had lost many of its capable fighters in the riot, and many of those left were sick and weak. Getting them out of the city was R.U.S.T.'s first priority. <small>(Oral Histories: The Inevitables, 2026-03-03)</small>
+
 The route out was assembled piece by piece and it ran through everything the Empire had abandoned. [Blair](/people/blair/), Queen of the Underhive, agreed to open her routes in exchange for the clearing of the Drain Snakes and a secured passage toward the mountain pass. Berenstain, Snodgrass and Doppler dug out a collapsed tunnel. The Inevitables cleared an ancient chamber where Blair's previous suitors had vanished.
 
 Then the community walked: through the **Spine**, down the underhive river, through the ancient chamber past a defeated stone golem, and out to R.U.S.T. and the mountain tunnel. Preacher and the RUST Runners met them with song and handed out prayer sheets, praying to the love of something called **Lexicon**. [Locke Pierce](/people/locke-pierce/) teleported in once the people were clear, thanked the party, and gave each of them a RUST communication necklace. Doppler Klink chose to leave Sharn and go with his people.
 
 Their destination is [Gorgonhorn](/places/gorgonhorn/), a Cogborn and Warforged stronghold on the border of the Mournlands, where under Locke Pierce a blended society has begun to take shape — strong enough to heal, grow, and one day resist the Empire on its own terms.
+
+After the exodus the Cogborn's biggest fight is against the [Project E.D.E.N.](/organizations/project-e-d-e-n/) units east of Gorgonhorn in the Mournlands, which [the Hundreds](/organizations/the-hundreds/) mainly fend off. <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
 
 ## What Remained
 

@@ -26,6 +26,7 @@ fields:
   history: Named in the sisterhood's own liturgy. Recorded in Locke Pierce's dossier HB-CHORUS-13 and in the Litany taken by Foxtale at a veiling in Korth.
   inLiterature: come the night / the bells will toll / thirteen / the dead will rise / to serve the living / and the dragon / will be reborn
 sources:
+- "Oral Histories: The Inevitables, 2025-10-19"
 - handouts/hells-bells-dossier.md
 - handouts/foxtale-debrief.md
 - handouts/caius-foundry-manifest.md
@@ -34,6 +35,9 @@ sources:
 - session-2026-08-07-recap.md
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-07-06"
+- "Oral Histories: The Inevitables, 2026-08-12"
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: the-eternal-nightfall-myth
@@ -80,9 +84,11 @@ The audible toll is incidental. The Fantanya Nyel emit a polyphase arcane emissi
 
 The one time a casting has been struck — [Korranberg](/history/the-korranberg-massacre/), three years ago — it emptied a hold of tens of thousands.
 
+When the Thirteenth Casting rang again in the Korramont with the Inevitables inside it, Dave summed up the experience of a ringing as "lots of confusion saves while every dead body nearby animates". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
+
 ## THE CONDITION SHE IS WAITING FOR
 
-Uriel has fourteen daughters by Emperor Kaius, many of them sets of twins, all under twelve. She has no son. The Inevitables' reading of the bell dossiers is that she is waiting for a specific event, most likely the birth of a male heir.
+Uriel has fourteen daughters by Emperor Kaius, many of them sets of twins, all under twelve. She has no son. The Inevitables' reading of the bell dossiers is that she is waiting for a specific event, most likely the birth of a male heir. Dave has since stated her plan for that heir: "Installing her self + unborn son as the eight Sovereign of course", and "She secretly plans to never bear her child the heir and dragon incarnate, instead to siphon its power into her own, turning it into a living phalactery". <small>(Sic. Oral Histories: The Inevitables, 2025-10-19)</small>
 
 The consecration rite recovered from Sister Calvane's library gives the price: **thirteen Doves, all thirteen planes**, the bells bound to *the unholy blood and the great mother*, and a very dear sacrifice — a living child, or virgin royalty.
 
@@ -95,5 +101,7 @@ The dragon [Valtrex](/species/valtrex/), bled by the Empire for three years, bel
 And the road itself. Fulcrum's last scrap is from a muleteer on the Qarth road, northeast, toward the white hospital in the mountains: wool-wrapped freight going up at night under Sister escort, and escort papers sealed with a dove — the same seal worn by the young Inquisitor who preaches in Korth. Whatever lives at the top of that road, the dove seal goes home to it. The Inevitables have been moving toward the Ivory Lazaret since Esther Crona's dying command.
 
 And behind all of it, the Ruby Nova. If the Inevitables fail, Locke Pierce ends the world before Uriel can have it.
+
+As the trio prepared to go to Korth, Dave set the stakes as "eternal nightfall vs the final morning". <small>(Oral Histories: The Inevitables, 2026-07-06)</small> Once they were in the country under cover, he added that "the world is on the brink of nuclear war and apocalyptic zombie takeover". <small>(Oral Histories: The Inevitables, 2026-08-12)</small> After the Korranberg dungeon, the threat remained that Uriel could set the bells ringing all over Khorvaire, and Dave: "stopping that will take intense coordination across the entire rebellion, to deploy the Horns and hopefully get to the Master bell before it can start the Eternal Nightfall". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 **Status:** planned, not executed · **Author:** Holy Empress Uriel Qualanthri · **Instrument:** the chorus of the Fantanya Nyel · **Trigger:** believed to be the birth of a male heir

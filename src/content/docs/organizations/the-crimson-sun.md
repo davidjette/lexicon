@@ -27,6 +27,10 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/site/sharn-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-07-13"
+- "Oral Histories: The Inevitables, 2026-08-21"
+- "Oral Histories: The Inevitables, 2026-08-22"
+- "Oral Histories: The Inevitables, 2026-08-23"
 published: '2026-09-10'
 wa:
   slug: the-crimson-sun-organization
@@ -101,6 +105,16 @@ Varyn's Echo, raised at the Forge of Binding beneath Sharn, repeated a fragment 
 > "Erandis Vol bore a child by a dragon called the Crimson Sun."\
 > \
 > — the Imperial record, and the dragon Valtrex, on the same three words
+
+## THE ARCHITECTS
+
+Dave: "the crimson sun was forged using old goblin shit, everyone is stealing from some one a thousand years ago". <small>(Oral Histories: The Inevitables, 2026-07-13)</small> See [the Dhakaani Empire](/history/the-dhakaani-empire/).
+
+Nico: "The Crimson Sun is basically The Order of the Emerald Claw". Dave: "Exactly". <small>(Oral Histories: The Inevitables, 2026-08-21)</small> See [the Emerald Claw](/organizations/the-emerald-claw/).
+
+Dave: "the architects of the Crimson Sun and the Kaius dynasty obviously used every dark art they could find, including goblin smithing, dwarvish and infernal smithing, draconic blood magic, necromancy, artificing, elemental magic, red khyber, black khyber, everything". Behind it all he sees "the houses of Aerenal that for one reason or another made their way to Khorvaire to dominate here": Duin, Qualanthri and Crona. <small>(Oral Histories: The Inevitables, 2026-08-22)</small> See [the Houses of Aerenal](/organizations/the-houses-of-aerenal/).
+
+The [Council of 13](/organizations/the-council-of-13/) turned on Varyn Crona and his long-term plan, and [the Unforeseen](/organizations/the-unforeseen/) set it back in motion. Dave: "Uriel and Esther are the bastard children of the original architects of it all". <small>(Oral Histories: The Inevitables, 2026-08-23)</small>
 
 ## CURRENT DISPOSITION
 

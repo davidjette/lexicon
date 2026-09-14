@@ -43,6 +43,11 @@ sources:
 - sources/site/rebel-factions.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
+- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+- sources/documents/2026-09-14-nico-evil-campaign-3.md
+- "Oral Histories: The Inevitables, 2026-06-27"
+- "Oral Histories: The Inevitables, 2026-07-04"
+- "Oral Histories: The Inevitables, 2026-08-11"
 published: '2026-09-10'
 wa:
   slug: locke-pierce-person
@@ -81,7 +86,9 @@ Warforged. Blue <small>(from his portrait; no text source gives a colour)</small
 
 ## Origin
 
-He enters the record at Greenbluff, sent by the Rekkenmark as an Ancient Relic Specialist to retrieve an artefact from a mine where slaves had died and survivors had gone mad. The artefact was the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). He got it out, and was then tasked with returning it to the Empire by train — the Talenta Plains Express, which the rebels boarded in force. He took a semi-permanent post as Director of the Rekkenmark Academy, Newham Annex, and put his dig crew onto a series of ancient passageways leading away from the city.
+He enters the record at Greenbluff, sent by the Rekkenmark as an Ancient Relic Specialist to retrieve an artefact from a mine where slaves had died and survivors had gone mad. By Dave's account the Unforeseen were first told, "There's an academic from the Rekkenmark who is here to oversea the excavation of this ancient bell, meet him at the dig site" <small>(sic)</small>, "and the local mayor is a creep". He was an expert in the bells, and before he separated from the Empire and the other Unforeseen he would have been "the empire's foremost academic at least in reputation and power". <small>(Oral Histories: The Inevitables, 2026-06-27)</small> The artefact was the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). He got it out, and was then tasked with returning it to the Empire by train — the Talenta Plains Express, which the rebels boarded in force. He took a semi-permanent post as Director of the Rekkenmark Academy, Newham Annex, and put his dig crew onto a series of ancient passageways leading away from the city.
+
+He had gone back to the Rekkenmark Academy to continue his studies, and was sent back to Newham when construction on the east side of town uncovered the passageways. The Rekkenmark Academy, Newham Annex, consisted of Director Pierce, his secretary Tessa Moongrove, a young woman, and a dig crew of four. He lived and worked out of a newly constructed brownstone near the docks of Lake LaBeefe, became proficient in cartography, and wore a pair of brown leather gloves that let him cast the cantrip *mold earth*. <small>(Episode 6 "6 Months Later / The Tablet")</small>
 
 Then a warforged R-0 unit called Radd Orgasm tried to assassinate him in a restaurant in Korth, and named his employer: DR4MB, in the Rekkenmark. The four of them went in — Locke shut down to appear dead — and found the academy overrun by undead that Professor Marble had raised by accident while researching whether ancient dwarven necromancy was how the Cyreans put souls into machines. Deeper down they found that Doctor Amber was DR4MB: three-hundred-year-old Cyrean tech obtained by Karrnath two years before the end of the war, built to eliminate and decommission warforged. Locke downloaded it, set the Rekkenmark to self-destruct, and stood off against Esther and Uriel while LeBeefe ran.
 
@@ -89,7 +96,7 @@ Then a warforged R-0 unit called Radd Orgasm tried to assassinate him in a resta
 
 The Rekkenmark is the Empire’s academy and its archive, and its mainframe is where the Imperial Assembly and the higher command keep what is worth keeping. Only the highest-ranking officers and the top secret projects are recorded there, but most of the intelligence the [Crimson Sun](/organizations/the-crimson-sun/) collects goes there for analysis. Every permissioned officer has a personal encryption key, delivered precisely and in their own voice. Locke Pierce was its Ancient Relic Specialist and later Director of the Newham Annex, with a secretary named Tessa Moongrove and a dig crew, and his brief was to bring the Empire its relics.
 
-He now leads The Hundreds: the Warforged nation of the Mournlands, run out of a fortified stronghold cut into the mountainside at Mt. Silicon, with a capital-scale airship fleet and a control chamber full of screens. He calls its members his children. Its outpost at Gorgonhorn, on the Mournland border, is where a blended Cogborn–Warforged society is taking root, and it is the destination every Cogborn family driven out of the Cogs of Sharn is trying to reach.
+He now leads The Hundreds: the Warforged nation of the Mournlands, run out of a fortified stronghold cut into the mountainside at Mt. Silicon, with a capital-scale airship fleet and a control chamber full of screens. He calls its members his children. Its outpost at Gorgonhorn, on the Mournland border, is where a blended Cogborn–Warforged society is taking root, and it is the destination every Cogborn family driven out of the Cogs of Sharn is trying to reach. By Dave's account his kingdom "doesn’t have breathable air". <small>(Oral Histories: The Inevitables, 2026-07-04)</small>
 
 ## The keys
 
@@ -133,10 +140,16 @@ He first appeared to the [Inevitables](/people/gemma-corso/) in the undercity be
 
 Three years later he sent the Chancellor of Sharn a private message and a Cyrean Red Pomegranate, and asked for a meeting at the Thronehold Summit. When the Summit collapsed into slaughter he ran for his vessels and took the survivors with him. Aboard, over open water, he and the party fought Supreme Admiral Vex d’Lyrandar off the hull, and then he flew them south into the dead kingdom of Cyre, dropped the ship over a Silver Flame line holding a Cyrean portal, and pulled the last of them off it.
 
+In the fight on the hull, by Dave's account, the party "took down a Storm Giant with Locke Pierce": Vex fought with a storm giant's statistics. By Nico's account Vex "took down Lorian twice and almost took out Locke". <small>(Oral Histories: The Inevitables, 2026-06-27)</small>
+
 At Mt. Silicon he showed them the screens, and told them the Fantanya Nyel were all but real and Uriel intended to ring them. Then he showed them his countermeasure. He spoke about the Crimson Sun and the power it once unleashed, and he activated the device on the battlefield they had just left. A red dome bloomed silently across the horizon, engulfed the portal site, pushed past the Mournland border, and was visible from Thronehold. It obliterated what was left of Vex’s airships. To the free states, watching on the arceye, it looked like the last chance for peace dying and a new weapon being born, and they named it the Last Mourning.
+
+Locke and his team called it **Ruby Nova**, a callsign for the bomb. By Dave's account the purpose was to demonstrate the weapon, "so it was close enough to see it up close but not enough to kill the witnesses, not immediately at least". Dave's account is also that Locke used [Red Khyber](/items/red-khyber/) to weaponize the Mourning, which Locke would not tell the Inevitables. <small>(Oral Histories: The Inevitables, 2026-06-27)</small>
 
 > Stop Uriel before she rings the bells. If you fail, I will end this world before she can, and only my kind will survive it.\
 > — Locke Pierce, Mt. Silicon
+
+Pierce has not moved on Karrnath, by Dave's account, because "as soon as Uriel knows the game is over, she may ring the bells". <small>(Oral Histories: The Inevitables, 2026-08-11)</small>
 
 ## Right Now
 
@@ -150,7 +163,7 @@ He believes the Hell’s Bells are real, that [Uriel Qualanthri](/people/uriel-q
 
 **Holdings:** Mt. Silicon, the fortified Warforged stronghold cut into the mountainside. Gorgonhorn, the Cogborn–Warforged settlement on the Mournland border. The Rekkenmark Academy, Newham Annex — buried with Newham. And, as of this week, the airspace over Sharn.
 
-**Items:** The Ruby Nova, a weaponised catastrophe — a controlled recreation of the Mourning — held at Mt. Silicon and demonstrated once, on a live battlefield, from a distance. The DR4MB download, contents undisclosed. A sealed intelligence dossier on the Hell’s Bells. Air Bubble breathing devices inscribed in ancient gnomish, *Interplanetary Association of Lexical Engineers*. Cyrean Red Pomegranates, a fruit believed extinct since the Mourning, grown in the Mournlands and handed out freely.
+**Items:** The Ruby Nova, a weaponised catastrophe — a controlled recreation of the Mourning — held at Mt. Silicon and demonstrated once, on a live battlefield, from a distance. The DR4MB download, contents undisclosed. A sealed intelligence dossier on the Hell’s Bells. Air Bubble breathing devices inscribed in ancient gnomish, *Interplanetary Association of Lexical Engineers*. Cyrean Red Pomegranates, a fruit believed extinct since the Mourning, grown in the Mournlands and handed out freely. Cartographer's tools, and brown leather gloves that let the wearer cast *mold earth*. <small>(Episode 6 "6 Months Later / The Tablet")</small> The **Pistol of Lightning**, an ornate platinum pistol with seven charges that casts *lightning bolt*, and the **Gloves of Thievery**, invisible while worn, which sharpen sleight of hand and lock-picking. <small>(Episode 9 "The Dig Site / Throne Room")</small>
 
 **Login State:** Locke can present encrypted Imperial records to a permissioned user, but only by entering a login state in which he is fully incapacitated while the key is delivered precisely and in the owner’s own voice. Every key he collects opens more of the mainframe.
 

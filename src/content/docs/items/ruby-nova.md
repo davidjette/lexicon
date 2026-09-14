@@ -23,6 +23,7 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/key-figures.txt
+- "Oral Histories: The Inevitables, 2026-06-27"
 published: '2026-09-10'
 wa:
   slug: the-ruby-nova-item
@@ -40,6 +41,8 @@ The Ruby Nova is a weapon of Locke Pierce's, a deliberate recreation of the Mour
 ## The Mournlands detonation
 
 Over the northern Mournlands, with Silver Flame paladins holding a Cyrean portal against undead and E.D.E.N. hybrids below, the survivors were extracted, and Pierce activated the device from the control chamber at Mt. Silicon. A distant red dome bloomed across the horizon, a silent explosion that shook the earth; it engulfed the portal site, pushed past the Mournland border, was visible from Thronehold, and obliterated the remnants of Vex's airships. The arceye broadcasts of the Summit told a different story across Khorvaire, and the free states dubbed the weapon "The Last Mourning."
+
+"Ruby Nova" is the callsign of Locke and his team: "Locke and his team called it Ruby Nova which is a callsign for the bomb." The witnesses named it the Last Mourning. Dave on where it fell: "he dropped a bomb on the army and the portal you guys fled from", "basically right on the area around thronehold", so that "that whole area you fled would be affected, if not destroyed". The blast spared Thronehold's island: "the purpose was to demonstrate the weapon, so it was close enough to see it up close but not enough to kill the witnesses, not immediately at least." Everyone still at Thronehold or fleeing "would have seen its power, and gone back to their factions with that knowledge". <small>(Oral Histories: The Inevitables, 2026-06-27)</small>
 
 ## The Hundreds
 

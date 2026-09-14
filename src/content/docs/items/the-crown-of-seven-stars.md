@@ -33,6 +33,7 @@ sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
 - session-2026-08-21-recap.md
 - session-2026-09-04-summary.md
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: the-crown-of-seven-stars-item
@@ -68,6 +69,10 @@ Three escalating stages:
 ## Recovery
 
 [Sir Dario Argentino](/people/sir-dario-argentino/) negotiated in Draconic with a dragon who had just destroyed his own harpoon rig, laid a **Ring of Lesser Wish** on the hoard, and lifted [KNELL](/items/knell/) and the crown out of it — borrowed, with a warning attached that the crown was the devil's gift. It went into [Gemma](/people/gemma-corso/)'s bag **unworn**, and the party's stated intention was either to destroy it or to keep it away from anyone who would use it.
+
+## Plans for the crown
+
+Dave, as DM, the morning after: "you traded for the Hammer and the Crown". The crown had mattered most to the [Teryaki](/organizations/the-teryaki-clan/), and he judged it "could be useful in reclaiming Glitterhame and the forge from Valtrex but perhaps thats a quest for another party....." — "the Hobbit but in Eberron". By Nico's account Gemma would have given it to the Teryaki, "but we were fleeing". JL predicted "Gemma is gonna wear the crown. I guarantee it." Nico planned otherwise: "No way, I putting it in a Sharn / Nest safe deposit box", and then, "I’ll put it in the safe deposit box that Jessica has at the library". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 ## What they did with it instead
 

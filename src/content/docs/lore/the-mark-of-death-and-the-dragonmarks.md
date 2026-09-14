@@ -29,6 +29,7 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/site/mission-board.txt
 - handouts/hells-bells-dossier.md
+- "Oral Histories: The Inevitables, 2025-10-19"
 published: '2026-09-10'
 wa:
   slug: the-mark-of-death-and-the-dragonmarks-article
@@ -80,3 +81,5 @@ The rite binds the bells to blood, and the network answers one necromancer.
 ## The Party's Reading — Inference
 
 Set the mark beside the [Litany](/lore/the-litany/)'s closing promise and the theory the Inevitables reached in Korth follows: Uriel bears the Mark and descends from Vol; Erandis bore a dragon's child; the Litany says the dragon will be reborn; therefore Uriel is attempting to bear a dragon-sired son — which is what fourteen daughters and three years of bleeding Valtrex are for. **This is the party's inference and no recovered document states it.**
+
+Uriel's plan for the son goes further. Dave: "Installing her self + unborn son as the eight Sovereign of course" <small>(sic)</small>, and "She secretly plans to never bear her child the heir and dragon incarnate, instead to siphon its power into her own, turning it into a living phalactery" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2025-10-19)</small>

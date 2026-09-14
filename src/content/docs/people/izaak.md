@@ -32,10 +32,13 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- "Korth Ep 14 summary (C:/dev/sharn-campaign/session-2026-09-11-summary.md)"
 - sources/site/rebel-factions.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/08.jpg
+- "Oral Histories: The Inevitables, 2026-01-23"
+- "Oral Histories: The Inevitables, 2026-07-12"
 published: '2026-09-10'
 wa:
   slug: izaak-person
@@ -55,11 +58,11 @@ gallery:
   caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
 ---
 
-**Species unrecorded · Ranger and Artificer · Fulcrum liaison to the Nest · Missing, presumed dead**
+**Species unrecorded · Ranger and Artificer · Fulcrum liaison to the Nest · Rescued; in Sharn with the Nest**
 
 <small>Also known as: Izzak</small>
 
-**Izaak** is a ranger and artificer of [Fulcrum](/organizations/fulcrum/) and, for over nine years, the rebellion's liaison between the Breland farmsteads at Zilspar and [The Nest](/organizations/the-nest/) in Sharn's Upper City. He patrolled the farmlands between Sharn and Zilspar as a ranger of the Sharn City Watch, left the service when the Watch was absorbed into the Iron Veil, and joined the farmstead rebels nearly a decade ago. He is the eldest son of Fulcrum's founder [Zero-One](/people/zero-one-fema-nolan/) and half-brother to [Zero of Sharn](/people/zero-of-sharn/), the other end of his line. He recruited the Inevitables at the Astra Bar and implanted their Ghost Chips himself. He then left on a Fulcrum mission recorded only as redacted and vanished; Zilspar has since been destroyed, his mother taken alive, and he is presumed dead.
+**Izaak** is a ranger and artificer of [Fulcrum](/organizations/fulcrum/) and, for over nine years, the rebellion's liaison between the Breland farmsteads at Zilspar and [The Nest](/organizations/the-nest/) in Sharn's Upper City. He patrolled the farmlands between Sharn and Zilspar as a ranger of the Sharn City Watch, left the service when the Watch was absorbed into the Iron Veil, and joined the farmstead rebels nearly a decade ago. He is the eldest son of Fulcrum's founder [Zero-One](/people/zero-one-fema-nolan/) and half-brother to [Zero of Sharn](/people/zero-of-sharn/), the other end of his line. He recruited the Inevitables at the Astra Bar and implanted their Ghost Chips himself. He then left on a Fulcrum mission recorded only as redacted and vanished; Zilspar was destroyed and his mother taken alive, and the Inevitables later rescued him from the Imperial listening post in Korth.
 
 ## Physical description
 
@@ -89,7 +92,13 @@ He met three unvetted foreigners over a quiet drink, gave them a target and an e
 
 The last public entry against his name on the Nest's board reads, in full: *Ongoing: redacted Fulcrum mission.* Nobody outside Fulcrum's leadership was told what it was. Then Fulcrum began to die.
 
-**Right now:** Izaak is missing. Zilspar Farm has been destroyed and his mother taken alive by Eden units; [Jessica Grimpledink](/people/jessica-grimpledink/) reports him presumed dead. Fulcrum is being dismantled across the continent as though the Empire had a list of every name, and it began after Izaak vanished. The Nightingale believes he is alive.
+Zilspar Farm was destroyed and his mother taken alive by Eden units; [Jessica Grimpledink](/people/jessica-grimpledink/) reported him presumed dead. Fulcrum was dismantled across the continent as though the Empire had a list of every name, and it began after Izaak vanished. The Nightingale believed he was alive.
+
+## Rescue from the listening post
+
+In [Korth Ep 14 — The Listening Post](/sessions/korth-ep-14-the-listening-post/) the trio found Izaak in the Imperial listening post in Korth, where the Empire had been harvesting the ghost chips of captured Fulcrum members through him. Gemma drew a teleportation circle around him because he could not be moved, aimed at Esther Crona's old penthouse in Sharn. He surfaced while the ink went down: "It was Pierce, he says. Pierce's intelligence. They had some kind of back door with the Empire. I think he gave me up." He learned that Zilspar was gone and his mother taken, and took it in silence. The Nest confirmed it had received him and that he was well, and gave him the first codename he had ever had: Ace.
+
+**Right now:** Izaak is safe in Sharn with the Nest.
 
 > "His independence makes him a trusted figure among The Nest and Fulcrum."
 
@@ -100,6 +109,8 @@ The last public entry against his name on the Nest's board reads, in full: *Ongo
 **Items:** a black prosthetic left leg, fitted by the Nightingale · a shared familiar, a falcon linked to his half-sister · the Ghost Chips he implanted in [Gemma Corso](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/).
 
 **Chipwork:** Izaak's trade and the rebellion's most valuable technical service. He embeds and improves chip enhancements — false identity, teleportation, communication — in a city where the same technology is used by BioTec to stop people saying a name. Every Ghost Chip that walked the Inevitables past an Iron Veil checkpoint was his work.
+
+**Alchemy:** the Nest's faction bonus in Sharn. Nico, as DM: "Each day Izaak can make you two potions from his Alchemy list". <small>(Oral Histories: The Inevitables, 2026-01-23)</small> She later described them as two "Experimental Elixirs" a long rest, made by Izaak "from being an alchemist", and "kinda the Sharn "bastion" bonus". In the Korramont, Dave judged that the party could still receive them "if you’re in the city", but doubted Izaak could get them to a dungeon in the field. <small>(Oral Histories: The Inevitables, 2026-07-12)</small>
 
 **Personality Characteristics**
 

@@ -36,6 +36,10 @@ sources:
 - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
 - worldanvil/sources/site/key-figures.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2025-08-31"
+- "Oral Histories: The Inevitables, 2026-01-02"
+- "Oral Histories: The Inevitables, 2026-02-15"
+- "Oral Histories: The Inevitables, 2026-09-11"
 published: '2026-09-10'
 wa:
   slug: kwanti-d-orien-person
@@ -43,7 +47,7 @@ wa:
   category: 25384e32-6c51-426d-8263-5535b8295114
 ---
 
-**Human · Leader of House Orien · Dragonmarked house of transportation · Level Unknown · Alive at last record**
+**Human · Leader of House Orien · Dragonmarked house of transportation · Level Unknown · Dead, found impaled in lower Sharn**
 
 *Also known as:* **d'Orien**, as the record mostly calls him.
 
@@ -79,6 +83,12 @@ The **Interoperability Summit at Sharn** was convened to settle rail standards a
 
 That summit is also where the Crimson Sun ran its mole hunt. See [City of Knives](/history/city-of-knives/): three members of the Imperial Assembly were under suspicion, and representatives of Houses Orien and Lyrandar were in the room throughout.
 
+At the summit Kwanti pushed for his own standards and for Orien's centrality in the Empire's infrastructure. Orien won the gauge. [John C. LeBeefe](/people/john-c-lebeefe/) then persuaded the summit to centralise that power in the Empire instead of relying on the houses, and by Dave's account Kwanti would hate LeBeefe for it. <small>(Oral Histories: The Inevitables, 2025-08-31)</small>
+
+## Death
+
+Kwanti d'Orien was dead by the time of the Sharn arc. <small>(Oral Histories: The Inevitables, 2026-02-15)</small> A BioTec internal research file on [Project E.D.E.N.](/organizations/project-e-d-e-n/) lists House Orien as the former head of transportation, with its leadership decimated. Kwanti was found impaled in lower Sharn, in circumstances the file calls "not consistent with random violence." Members of his family are missing, and Orien's numbers keep falling through disappearances nobody has explained. <small>(Oral Histories: The Inevitables, 2026-01-02)</small> Before he died, by the file's internal records, Kwanti had started inquiring into "restricted Embra shipments", and the collapse of his house has given House Lyrandar a monopoly on transportation. According to Nico, his entire family was killed. <small>(Oral Histories: The Inevitables, 2026-09-11)</small>
+
 ### Personality Characteristics
 
 **Motivation:** a transportation empire inside the Empire.
@@ -98,7 +108,8 @@ That summit is also where the Crimson Sun ran its mole hunt. See [City of Knives
 
 **Contacts & Relations:**
 
-- **Lord Gregory Goldenhew** — Imperial industrial policy sets what Orien can build. Alive; a mole suspect.
+- **Lord Gregory Goldenhew** — Imperial industrial policy sets what Orien can build. A mole suspect; dead by the Sharn arc.
+- **John C. LeBeefe** — persuaded the Interoperability Summit to centralise transport power in the Empire instead of the houses. Dead.
 - **House Lyrandar** — the airship house, also at the summit; its Supreme Admiral Vex d'Lyrandar commanded the Empire's fleets and is now dead.
 - **The Emperor** — the alliance is with him personally, and explicitly.
 - **House Sivis** — the banned house; the contrast to his open alliance.

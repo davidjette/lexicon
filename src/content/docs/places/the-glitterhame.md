@@ -31,6 +31,8 @@ sources:
 - C:/dev/sharn-campaign/session-2026-08-21-recap.md
 - sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-08-15"
+- "Oral Histories: The Inevitables, 2026-08-20"
 published: '2026-09-10'
 wa:
   slug: the-glitterhame-location
@@ -47,7 +49,7 @@ The Glitterhame is a vast cavern of polished black **Shavat** - the planar ore o
 
 ## Present state
 
-The floor of it is now a forest of glowing, breathing fungus. The [bloom](/species/the-bloom/) fills the cavern from wall to wall and stops dead at exactly one boundary: the consecrated stone of the sepulcher gallery, which it cannot cross. Gricks move through it unbothered and pay no attention to anyone the bloom has claimed. Because the cavern was off limits, [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/) was sent down here on punishment duty.
+The floor of it is now a forest of glowing, breathing fungus. The [bloom](/species/the-bloom/) fills the cavern from wall to wall and stops dead at exactly one boundary: the consecrated stone of the sepulcher gallery, which it cannot cross. Gricks move through it unbothered and pay no attention to anyone the bloom has claimed. Nico, who played Gemma, described them as "those worm / snake like creatures in the Glitterhame that are cool with Eric", and Dave named them as grick. <small>(Oral Histories: The Inevitables, 2026-08-20)</small> Because the cavern was off limits, [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/) was sent down here on punishment duty.
 
 The approach into the cavern is a gallery of everlasting flames and luminescent crystal - beautiful, and lined with sealed caskets holding an undead apiece, trapped since the night the bell rang.
 
@@ -72,4 +74,4 @@ The party's reading is that anyone infected who dies comes back lucid, which is 
 - **The falls** - a masoned stair descending beside the water to a lower chamber: a pool of blind white fish, a dozen skeletons in three-year-rusted Imperial slave shackles, and a cistern whose hatch opens onto a pile of bones packed so tightly they can barely constitute themselves.
 - **The chalk drawing** - low on a wall at a child's height: a bell, and stick-figure dwarves with their hands over their ears.
 - **The Iron Door** - smith-marked, riveted, no keyhole, reading KNOCK AND BE KNOWN. It opens to *shave and a haircut*, and in the creak of opening it says the names of the people knocking.
-- **The crevice and the drainage tunnel** - a narrow vertical crack in the rock wall, squeezed single-file, climbing into a forgotten drain that gets hotter and more sulphurous the further it goes. An **Alkilith** had torn a permanent doorway to the Abyss open in the wall there - most likely the route by which a succubus reached Sister Calvane's suite. The demon is destroyed and the portal snapped shut with it.
+- **The crevice and the drainage tunnel** - a narrow vertical crack in the rock wall, squeezed single-file, climbing into a forgotten drain that gets hotter and more sulphurous the further it goes. An **Alkilith** had torn a permanent doorway to the Abyss open in the wall there - most likely the route by which a succubus reached Sister Calvane's suite. The demon is destroyed and the portal snapped shut with it. The crevice is one of "the cracks between this realm and Khyber" <small>(Dave, Oral Histories: The Inevitables, 2026-08-15)</small>, and the Alkilith living in it opened it into that doorway: "if there are alkilith in the rock here then any crack they live in could became such a portal". <small>(sic; Dave, Oral Histories: The Inevitables, 2026-08-20)</small> The alkiliths also explain "how the infernal magma flows here". The magma that feeds the forge still smoulders: "There is still a smoldering in the magma that feeds the gorge but it would need to be stoked". <small>(sic; Dave, Oral Histories: The Inevitables, 2026-08-20)</small>

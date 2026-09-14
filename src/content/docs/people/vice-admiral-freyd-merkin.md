@@ -4,6 +4,7 @@ description: Deirdre Moro's handler at the Ministry of Law, who tested his star 
 tags:
 - Freyd Merkin
 - Vice Admiral Merkin
+- Assistant Barrister General
 - Merkin
 - Ministry of Law
 - Korth
@@ -21,7 +22,7 @@ kind: people
 icon: fa-scale-balanced
 fields:
   rpgAlignment: Unknown
-  ggmtitle: Vice Admiral; senior officer of the Ministry of Law
+  ggmtitle: Vice Admiral (rank); Assistant Barrister General (office); senior officer of the Ministry of Law
   dobDisplay: Unknown
   birthplace: Unknown
   children: None recorded
@@ -39,6 +40,7 @@ sources:
 - korth.md
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-09-07"
 published: '2026-09-10'
 wa:
   slug: vice-admiral-freyd-merkin-person
@@ -52,11 +54,11 @@ gallery:
   caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
 ---
 
-**Species unrecorded · Vice Admiral · The Ministry of Law, Korth · Alive, hostile**
+**Species unrecorded · Vice Admiral · Assistant Barrister General · The Ministry of Law, Korth · Alive, hostile**
 
-*Also known as:* Vice Admiral Merkin
+*Also known as:* Vice Admiral Merkin · Assistant Barrister General Freyd Merkin
 
-**Vice Admiral Freyd Merkin** is a senior officer of the Imperial legal service at [the Ministry of Law](/organizations/the-ministry-of-law/) in Korth, where he runs the Star Advocates and the mass prosecutions of everyone responsible for reporting casualties. In Korth Ep 13 he handed his best prosecutor, Star Advocate Deirdre Moro, a fully redacted capital brief against her own sister **Bantide Moro** as a loyalty test; when the advocate set down her role and bore witness as kin instead, he intervened to prosecute from the floor himself, was forced to concede on the record that bearing witness for kin *"is her right,"* and lost the case. He then handed her the Grand Lodge assignment anyway, with a Monday deadline and a bounty attached to failure. The woman holding those sanctioned Imperial credentials is [Gemma Corso](/people/gemma-corso/) of the Inevitables.
+**Vice Admiral Freyd Merkin** is a senior officer of the Imperial legal service at [the Ministry of Law](/organizations/the-ministry-of-law/) in Korth, where he runs the Star Advocates and the mass prosecutions of everyone responsible for reporting casualties. His rank is Vice Admiral; his office in the Ministry is Assistant Barrister General. <small>(Oral Histories: The Inevitables, 2026-09-07)</small> In Korth Ep 13 he handed his best prosecutor, Star Advocate Deirdre Moro, a fully redacted capital brief against her own sister **Bantide Moro** as a loyalty test; when the advocate set down her role and bore witness as kin instead, he intervened to prosecute from the floor himself, was forced to concede on the record that bearing witness for kin *"is her right,"* and lost the case. He then handed her the Grand Lodge assignment anyway, with a Monday deadline and a bounty attached to failure. The woman holding those sanctioned Imperial credentials is [Gemma Corso](/people/gemma-corso/) of the Inevitables.
 
 ## Physical description
 
@@ -110,7 +112,7 @@ The deadline was Monday. It was Friday morning. Failure to return carried a boun
 
 Merkin is alive, in Korth, expecting a report on the Grand Lodge by Monday from an advocate he does not trust, on behalf of betters he will not name. The condemned he was owed is officially a suicide and is currently hidden in his own star prosecutor's apartment. Somewhere above him, Fulcrum is being dismantled across the continent as though the Empire had obtained a list of every name.
 
-**Organizations / Groups:** [The Ministry of Law](/organizations/the-ministry-of-law/), Korth · the Imperial officer corps (Vice Admiral).
+**Organizations / Groups:** [The Ministry of Law](/organizations/the-ministry-of-law/), Korth · the Imperial officer corps (Vice Admiral) · Assistant Barrister General of the Ministry of Law.
 
 **Holdings:** The Star Advocates of the Ministry of Law and the mass-prosecution docket against everyone who reported casualties.
 

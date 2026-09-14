@@ -1,6 +1,6 @@
 ---
 title: Korth Ep 9 — The Death Warrant and the Ringer
-description: An Imperial death warrant names the Korranberg genocide, and the ghost of Sedda Deeptempura hands over the horn and the hammer KNELL.
+description: An Imperial death warrant names the Korranberg genocide; the undead Sedda Deeptempura leads the party to Corn's horn and tells them of his hammer, KNELL.
 tags:
 - Korth Ep 9
 - The Death Warrant and the Ringer
@@ -24,6 +24,7 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/korth-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-08-09"
 published: '2026-09-10'
 wa:
   slug: korth-ep-9-E28094-the-death-warrant-and-the-ringer-report
@@ -50,7 +51,7 @@ gallery:
 
 <small>Not to be confused with [Sharn Ep 9](/sessions/sharn-ep-9-the-grand-aqueduct/), or with Campaign 1's [Episode 9](/sessions/episode-9-the-dig-site-throne-room-dm-nico/). Three sequences, three different sessions.</small>
 
-Korth Ep 9 — The Death Warrant and the Ringer is the ninth session of the Korth arc of Unforeseen Strikes Back, run by Dave. Working from a boy's hand-drawn map of the foundry level, the party destroyed the undead Overseer [Velen Marsk](/people/overseer-velen-marsk/) and recovered from his satchel a death warrant signed by [Emperor Kaius III](/people/emperor-caius-iii/); three hundred feet below they found [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/), three years dead and still waiting, who confessed to ringing the bell and asked to be released. They also recovered the full consecration rite of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), Corn's horn, and the warhammer [KNELL](/items/knell/).
+Korth Ep 9 — The Death Warrant and the Ringer is the ninth session of the Korth arc of Unforeseen Strikes Back, run by Dave. Working from a boy's hand-drawn map of the foundry level, the party destroyed the undead Overseer [Velen Marsk](/people/overseer-velen-marsk/) and recovered from his satchel a death warrant signed by [Emperor Kaius III](/people/emperor-caius-iii/); three hundred feet below they found [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/), three years dead and still waiting, who confessed to ringing the bell and asked to be released. They also recovered the full consecration rite of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) and Corn's horn, and learned of Corn's warhammer, which the kin named [KNELL](/items/knell/) and which lay below with the dragon Valtrex.
 
 ## Summary
 
@@ -58,7 +59,7 @@ Korth Ep 9 — The Death Warrant and the Ringer is the ninth session of the Kort
 
 Egg Roll's mother gave Gemma a hand-drawn map — the boy had mapped the entire foundry level. Following it, the trio found a sealed [Black Dove](/organizations/the-black-doves/) shrine marked by [Sister Maelis Dorn](/people/sister-maelis-dorn/). Inside, Overseer [Velen Marsk](/people/overseer-velen-marsk/), dead three years, still commanded his undead ogres to "finish the count" and exterminate the dwarves. [Eric the Cleric](/people/eric-the-cleric/)'s turn undead broke the mob and Marsk fell.
 
-Following the map further they found a 300-foot chain ladder into the depths. At the bottom, in black acid-smelling water among reptilian drag marks, a lone ghostly figure sorted through barrels: [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/), three years dead, lucid, and expecting them. She mistook the trio for the "Lord Mayor's extraction team." Gemma played along. She confessed she rang the bell with a rock, not the proper hammer, and fled below as instructed and has been waiting. Feeling a strange bond between herself and Eric, Sedda realized her plan had failed and that she was undead. She begged them to stop the bells everywhere and to end her suffering.
+Following the map further they found a 300-foot chain ladder into the depths. At the bottom, in black acid-smelling water among reptilian drag marks, a lone ghostly figure sorted through barrels: [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/), three years dead, lucid, and expecting them. Up close she was corporeal undead: "a dwarf woman, long decayed and somehow still lucid". <small>(Oral Histories: The Inevitables, 2026-08-09)</small> She mistook the trio for the "Lord Mayor's extraction team." Gemma played along. She confessed she rang the bell with a rock, not the proper hammer, and fled below as instructed and has been waiting. Feeling a strange bond between herself and Eric, Sedda realized her plan had failed and that she was undead. She begged them to stop the bells everywhere and to end her suffering.
 
 ## Revelations
 
@@ -77,3 +78,5 @@ Following the map further they found a 300-foot chain ladder into the depths. At
 ## Consequences
 
 [Sir Dario Argentino](/people/sir-dario-argentino/) performed last rites and slew Sedda at her own asking, and carried her remains up through the camp; the clan consecrated her beside the unknown soldier. Madame Tso returned the Belt of Dwarvenkind to Eric and blessed the trio's claim on the folio, the horn and all they had recovered. In Corn's study a hidden stair beneath the rug and a spell-sealed chest, opened by a key Gemma already carried, gave up the lead-bound folio, a *Tome of Understanding* and the brass horn. The kin named the hammer: **[KNELL](/items/knell/)**. Egg Roll was still missing.
+
+The hammer itself stayed below: "the hammer that can break the bells lies somewhere below, in the dark, with Vuldrach." <small>(Oral Histories: The Inevitables, 2026-08-09)</small> The party recovered it from the hoard of [Valtrex](/species/valtrex/) in [Korth Ep 11](/sessions/korth-ep-11-the-domain-of-valtrex/).

@@ -23,7 +23,7 @@ fields:
   dobDisplay: Unknown - the official date is disputed by Master Armhair's manuscript
   birthplace: Unknown - Armhair holds that the prince born to King Jarret Ilwenarn died and was replaced
   children: Fourteen daughters by Empress Uriel Qualanthri, many sets of twins, all under twelve. No son.
-  residence: The Great Imperial Palace, Korth - he has not sat the Throne of Bones in ten years
+  residence: The Great Imperial Palace, Korth - he has not sat the Throne of Bones in ten years; his comatose body lies at the Ivory Lazaret on the Summer Palace grounds upriver
   gender: Male
   age: Unknown. Officially a man in one lifetime; per Armhair, one continuous being across Kaius I, II and III.
   eyes: Unknown
@@ -43,6 +43,15 @@ sources:
 - npcs-korth.md
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
+- sources/documents/2026-09-14-nico-evil-campaign-3.md
+- "Oral Histories: The Inevitables, 2025-06-07"
+- "Oral Histories: The Inevitables, 2025-10-19"
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-19"
+- "Oral Histories: The Inevitables, 2026-07-08"
+- "Oral Histories: The Inevitables, 2026-07-13"
+- "Oral Histories: The Inevitables, 2026-08-22"
+- "Oral Histories: The Inevitables, 2026-08-23"
 published: '2026-09-10'
 wa:
   slug: emperor-caius-iii-person
@@ -57,7 +66,7 @@ gallery:
 
 *Also known as:* Kaius III · Kaius III (as the death warrants are signed) · the Emperor · *and, if Master Armhair is right,* Kaius II, Kaius I, Prince Kaius, and a dragon named **Viagra**.
 
-**Emperor Kaius III** is the Emperor of the Pax Imperium and head of the House of Kaius, seated at the Great Imperial Palace in Korth. He has not sat on the Throne of Bones in ten years: he lies comatose in the palace while his Empress [Uriel Qualanthri](/people/uriel-qualanthri/) bears his daughters and rules the [Black Doves](/organizations/the-black-doves/), the E.D.E.N. undead and the bells in his name, his Lord Commander murdered his entire [Council of 13](/organizations/the-council-of-13/) with his apparent blessing, and death warrants continue to issue over his signature. Two accounts of what he is are held by the Inevitables and neither has been confirmed: the loremaster Master Armhair holds that he is an ancient dragon named Viagra who replaced the dying Prince Kaius and has since reigned as Kaius I, Kaius II and Kaius III; the dead necromancer John C. LeBeefe told [Eric](/people/eric-the-cleric/) that he is a vampire descended from the Crimson Sun, kept as a vessel and fed dragon blood.
+**Emperor Kaius III** is the Emperor of the Pax Imperium and head of the House of Kaius, seated at the Great Imperial Palace in Korth. He has not sat on the Throne of Bones in ten years: he lies comatose upriver at the Ivory Lazaret, on the Summer Palace grounds, while his Empress [Uriel Qualanthri](/people/uriel-qualanthri/) bears his daughters and rules the [Black Doves](/organizations/the-black-doves/), the E.D.E.N. undead and the bells in his name, his Lord Commander murdered his entire [Council of 13](/organizations/the-council-of-13/) with his apparent blessing, and death warrants continue to issue over his signature. Two accounts of what he is are held by the Inevitables and neither has been confirmed: the loremaster Master Armhair holds that he is an ancient dragon named Viagra who replaced the dying Prince Kaius and has since reigned as Kaius I, Kaius II and Kaius III; the dead necromancer John C. LeBeefe told [Eric](/people/eric-the-cleric/) that he is a vampire descended from the Crimson Sun, kept as a vessel and fed dragon blood.
 
 ## Physical description
 
@@ -69,13 +78,15 @@ The Great Imperial Palace stands at the southern end of the Great Plaza in Korth
 
 ## Public and private
 
-Publicly the Empire does not say the Emperor is ill. It says he is present. At the opening of POSÉ, [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) asked [Esther Crona](/people/esther-crona/) directly whether the Emperor was well enough to attend the Summit, and got the whole of Imperial policy on the subject in two sentences — including a pronoun nobody in the room remarked on.
+Publicly the Emperor was first given out to be in treatment for "a very serious illness needing special care 24/7", which he came down with after the High Council "was exposed as traitors and executed and hunted down". <small>(Oral Histories: The Inevitables, 2025-06-07)</small> Later the Empire said only that he is present. At the opening of POSÉ, [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) asked [Esther Crona](/people/esther-crona/) directly whether the Emperor was well enough to attend the Summit, and got the whole of Imperial policy on the subject in two sentences — including a pronoun nobody in the room remarked on.
 
 Privately the Empire is a machine running on a signature. The man in the palace is comatose. His Empress bears his children — fourteen daughters, many sets of twins, all under twelve years old — and rules the [Black Doves](/organizations/the-black-doves/), the **E.D.E.N.** undead and the bells in his name. His Lord Commander murdered his entire [Council of 13](/organizations/the-council-of-13/) with his apparent blessing. His courts condemn on the doctrine that submission to the court *is* submission to him. Nothing in Karrnath needs him awake.
 
+Uriel moved him out of Korth, "away from factions who had other aims". <small>(Oral Histories: The Inevitables, 2025-10-19)</small> Supreme Admiral Vex d'Lyrandar took his orders from the Emperor, "so he somehow doesn't know/doesn't believe that the emperor is fully comatose". <small>(Oral Histories: The Inevitables, 2026-06-19)</small> Of the Thronehold Summit: "The Emperor, who through his spokes people, has been very skeptical of it as well, calling the Rebels in Sharn and Talenta traitors and deathbound but leaving room for terms with the larger forces approaching his capital. Rumors are that the Emperor is considering a personal appearance at the Summit." <small>(Oral Histories: The Inevitables, 2026-06-06)</small>
+
 ## Competence and circle
 
-[Varyn Crona](/people/varyn-crona/) was appointed his sworn protector from birth under the title **Eternal Guardian**, and served as head Paladin to Kaius I, Kaius II and Kaius III — an appointment made at a cradle and honoured across three reigns. **Fanta Rhodes**, a cloaked figure of unrecorded race, sits on the Imperial Council as the **Hand of Kaius III**. [Gabriel Duin](/people/gabriel-duin/), the covert agent who leads the Blood of Vol, is in hiding in the Imperial Palace where she remains consort to the Emperor. [Uriel Qualanthri](/people/uriel-qualanthri/) performed necromantic sex magic in front of Gabriel Duin and Emperor Kaius III, raising a ghoul from the corpse of the rebel singer [Lady Glow](/people/lady-glow/). Whatever the Emperor is, that was staged for him.
+[Varyn Crona](/people/varyn-crona/) was appointed his sworn protector from birth under the title **Eternal Guardian**, and served as head Paladin to Kaius I, Kaius II and Kaius III — an appointment made at a cradle and honoured across three reigns. **Fanta Rhodes**, a cloaked figure of unrecorded race, sits on the Imperial Council as the **Hand of Kaius III**. [Gabrielle Duin](/people/gabriel-duin/), the covert agent who leads the Blood of Vol, is in hiding in the Imperial Palace where she remains consort to the Emperor. [Uriel Qualanthri](/people/uriel-qualanthri/) performed necromantic sex magic in front of Gabrielle Duin and Emperor Kaius III, raising a ghoul from the corpse of the rebel singer [Lady Glow](/people/lady-glow/). Whatever the Emperor is, that was staged for him.
 
 ## The cult that worships him
 
@@ -119,6 +130,12 @@ The official history is dynastic and unremarkable: Kaius I, Kaius II, Kaius III,
 
 Armhair's reconstruction replaces the dynasty with one continuous occupant. A dragon approached King Jarret Ilwenarn with a bargain; the sick prince of the Queen's Lullaby died and was replaced; the thing that took his place became Kaius I, then Kaius II, then Kaius III. Every record naming a specific dragon has since been removed from the Hall of Records by order, and Armhair's original manuscript was confiscated because his work led to questions the Empire did not want asked. <small>He hid a copy under a false index and gave the party the number. He then left for the Korramont to find Valtrex and finish the book, expecting to die doing it.</small>
 
+Dave: "Crona summoned all that power to craft the Crimson Sun and summon the Mourning all to protect and coronate Caius III". <small>(Oral Histories: The Inevitables, 2026-07-08)</small> The elves have had designs on Eberron since they first came to it, and were defeated the last time, with House Vol. "Caius is the new house of vol and he and the Elves have made an empire, but the elves were ready to betray him, because they've been at it for a long time and have plans measured in centuries." <small>(Oral Histories: The Inevitables, 2026-07-13)</small> Dave: "What's clear is Kaius was clearly a key leader of this effort, and he had a whole host of evlish houses working to make him emperor" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-08-22)</small> The Council "turned on Varyn Crona and the long term plan". <small>(Oral Histories: The Inevitables, 2026-08-23)</small> Whether Kaius knew of and directed the Council's murder of Crona is not known. <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
+
+In the throne room at Korth, Kaius was to tell [Esther Crona](/people/esther-crona/) that Varyn Crona had been a loyal warrior, charge her to avenge his death, and hint that she might one day take Varyn's place. <small>(Nico's DM notes, Episode 9)</small>
+
+After Esther killed the Council and the Emperor took power, "he was also subdued by Uriel and made into a broodstallion". <small>(Oral Histories: The Inevitables, 2026-08-22)</small> Dave: "I think the Unforeseen got the better of him" / "after the Giants War" / "no one saw them coming". <small>(Oral Histories: The Inevitables, 2026-07-13)</small>
+
 ## The heart in the box
 
 Gemma Corso's warlock pact is not hers. Her adoptive father, Jane Corso, agreed to bring the archfey **Kitsune** *the heart of Emperor Kaius* in exchange for freedom and power. When Jane died, the pact passed to Gemma. Kitsune gave her a velvet-lined pewter heart-box for the task, and when she came out of the fey-dream her armour had been re-lined in the same velvet. She has told no one. <small>She is currently travelling to the Summer Palace on Imperial credentials.</small>
@@ -134,7 +151,7 @@ Gemma Corso's warlock pact is not hers. Her adoptive father, Jane Corso, agreed 
 
 ## Right now
 
-He is comatose in the Great Imperial Palace in Korth, ten years into an illness the Empire will not name, on the far side of a throne room floor carved with the sigil of the Crimson Sun. The Empress is upriver at the Ivory Lazaret waiting for a son. Ten bells remain, at least one of them a Master casting in the tower attached to his own palace. And a warlock with an empty pewter box has just been handed sanctioned Imperial paperwork to walk up to his household and take an inventory.
+He is comatose at the Ivory Lazaret upriver of Korth, ten years into an illness the Empire will not name, while his throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. The Empress is at the Ivory Lazaret with him, waiting for a son. Ten bells remain, at least one of them a Master casting in the tower attached to his own palace. And a warlock with an empty pewter box has just been handed sanctioned Imperial paperwork to walk up to his household and take an inventory.
 
 **Organizations / Groups:** The House of Kaius · [The Imperial Council / Imperial Assembly](/organizations/the-imperial-council-imperial-assembly/) (thirteen heads of government under him) · object of worship of [the Blood of Vol](/organizations/blood-of-vol/).
 
@@ -174,7 +191,7 @@ He is comatose in the Great Imperial Palace in Korth, ten years into an illness 
 
 - [Uriel Qualanthri](/people/uriel-qualanthri/) — Empress; mother of fourteen daughters by him, all under twelve; currently at the Ivory Lazaret waiting for a son.
 - [Varyn Crona](/people/varyn-crona/) — Eternal Guardian, sworn from his cradle, head Paladin to three reigns. Dead.
-- [Gabriel Duin](/people/gabriel-duin/) — consort, in hiding in the Imperial Palace; leads the Blood of Vol.
+- [Gabrielle Duin](/people/gabriel-duin/) — consort, in hiding in the Imperial Palace; leads the Blood of Vol.
 - **Fanta Rhodes** — the Hand of Kaius III. Cloaked, race unrecorded, seat on the Council.
 - [Esther Crona](/people/esther-crona/) — Lord Commander; killed his entire Council with his apparent approval. Dead, Sharn Ep 18.
 - **Master Armhair** — the loremaster who says he is a dragon. Departed for the Korramont expecting to die.

@@ -30,6 +30,9 @@ sources:
 - C:/dev/sharn-campaign/deirdre-moro-cases.md
 - sources/site/korth-episode-summaries.txt
 - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+- "Oral Histories: The Inevitables, 2025-06-07"
+- "Oral Histories: The Inevitables, 2025-10-19"
+- "Oral Histories: The Inevitables, 2026-08-12"
 published: '2026-09-10'
 wa:
   slug: the-summer-palace-location
@@ -51,6 +54,10 @@ A river runs close to Korth, and passenger boats depart from it. The vessel to t
 ## The grounds
 
 The estate holds [the Ivory Lazaret](/places/the-ivory-lazaret/) and [the Grand Lodge](/places/the-grand-lodge/), along with the surrounding grounds. A **Star Advocate** of the Ministry of Law carries due-diligence powers and weights-and-measures inspection rights at every port of entry in the Empire — and, with them, standing clearance to the Summer Palace and the Lazaret both.
+
+## The Emperor's convalescence
+
+The Emperor's body lies here. Uriel moved him out of Korth, "away from factions who had other aims", and "The hospital at the Summer Palace is a temple to her and the emperors living corpse, where the sick are healed and sent home unawares". <small>(Oral Histories: The Inevitables, 2025-10-19)</small> The Emperor was given out to be in treatment for "a very serious illness needing special care 24/7", and the palace is "a huge medical spa for him, attended by Uriel’s acolytes". <small>(Oral Histories: The Inevitables, 2025-06-07)</small> Entering it calls for disguises. <small>(Oral Histories: The Inevitables, 2026-08-12)</small>
 
 ## Present day
 

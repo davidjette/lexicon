@@ -36,6 +36,8 @@ sources:
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-06-27"
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: the-last-war-militaryConflict
@@ -58,6 +60,10 @@ The Imperial account, performed as [A Bard's Tale](/lore/a-bard-s-tale-the-imper
 
 Jarot's children were unable to live in peace and fought to claim the empire as their own. A hundred years of war ravaged the lands, took the life of Kaius I, and brought Khorvaire to ruin.
 
+## THE HOUSES OF AERENAL
+
+Dave has named the elvish houses of Aerenal "that for one reason or another made their way to Khorvaire to dominate here" as Duin, Qualanthri and Crona, and has said of them: "they could have been responsible for the Last War and the collapse of Galifar itself". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
+
 ## THE WARFORGED
 
 Cyre came closest to winning it, because Cyre built soldiers. The Warforged — mechanical, souled, tireless — were made to fight this war, and they were still fighting it when the war ended in a way none of them had accounted for.
@@ -75,6 +81,10 @@ The Empire's word for that day is **the Rejuvenation**. Everyone else's word is 
 The war never really stopped; it changed name and shape. The Pax Imperium that came out of it holds the continent under an Emperor who has not sat the Throne of Bones in ten years. Its rebellions — [Fulcrum](/organizations/fulcrum/) founded over twenty years ago, [the Nest](/organizations/the-nest/), [R.U.S.T.](/organizations/r-u-s-t/), [the Republic of Talenta](/organizations/the-republic-of-talenta/) — are staffed by its veterans and their children. [Locke Pierce](/people/locke-pierce/) leads the Warforged nation in the Mournlands the Emperor supposedly gifted them, and has built a device that reproduces the Crimson Sun deliberately.
 
 And when [a summit was finally called at Thronehold](/history/the-thronehold-massacre/) to end the civil war that replaced it, the Empress filled the hall with undead and burned the negotiation down.
+
+## AFTER THRONEHOLD
+
+In Dave's account of the war after the Summit: "The war has boiled over and is overrunning the imperial core, threatening the capital and triggering the endgame". "The Uruk republic is on the verge of conquering Aundair, and the empire is on its back feet protecting Karnath" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-06-27)</small>
 
 > A 100 years of war ravaged the lands and took the life of Kaius the 1st, Khorvaire soon fell to ruin.
 

@@ -35,6 +35,8 @@ sources:
 - worldanvil/sources/site/ebt-7.txt
 - worldanvil/CANON.md
 - README.md
+- sources/dave/2026-09-14-inevitables-rulings-batch.md
+- "Oral Histories: The Inevitables, 2026-05-08"
 published: '2026-09-10'
 wa:
   slug: the-fall-of-sharn-militaryConflict
@@ -99,7 +101,9 @@ With the last of her strength she seized her own airship, the Black Veil, teleki
 
 Dario broadcast her corpse live and declared that the Empire would fall. Iron Veil soldiers surrendered in droves; some fled; a small number vanished and became the seed of a hidden Iron Veil remnant. By dawn Sharn was free, leaderless, wounded and on the brink of collapse — which is the problem [the Council of Sharn](/lore/the-council-of-sharn/) convened to solve the same day.
 
-Esther was **thirty-one** when she died. She had been nineteen at Greenbluff and twenty-nine when the trio first arrived in her city; the Sharn arc spans about two in-world years and all three ages are correct.
+Esther was **thirty-one** when she died. She had been nineteen at Greenbluff and twenty-nine when the trio first arrived in her city.
+
+The Sharn arc was weeks of action. The trio came to Sharn a year after the Leef / Newham fighting and had been in the city nearly two weeks by Sharn Ep 16. <small>(Oral Histories: The Inevitables, 2026-05-08)</small> The Korth arc opened at Thronehold three years after Esther's death.
 
 Her dying command is still an open order. The Inevitables have been moving toward the Ivory Lazaret ever since.
 

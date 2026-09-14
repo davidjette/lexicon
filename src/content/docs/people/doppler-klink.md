@@ -37,6 +37,10 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/15.jpg
+- "Oral Histories: The Inevitables, 2026-02-22"
+- "Oral Histories: The Inevitables, 2026-02-23"
+- "Oral Histories: The Inevitables, 2026-02-26"
+- "Oral Histories: The Inevitables, 2026-05-02"
 published: '2026-09-10'
 wa:
   slug: doppler-klink-person
@@ -76,6 +80,8 @@ An old man with long grey hair pushed back off a deeply lined face, a grey moust
 
 Doppler Klink was a factory child in the Cogs before he was a soldier. He had already survived the industrial lines that killed most of his generation before anyone handed him a weapon. He served through the Last War, came home to a district that was slowly being taken apart, and set up the stall. For years he was the Gear Street tinkerer — the man who kept the neighbourhood's implants and devices working — while the Iron Veil seized the factories, replaced Cogborn labour with soldiers, and drove families into the tunnels. He supported Preacher through all of it and never joined anything.
 
+Dave, who plays him, on his service: "I think he learned artillery in the army, but he hated every motherfucker he ever met there, came back to the cogs as soon as he could to become rich selling what he learned in the guard". He "Lost a leg though, and his dick", "So the wand making is deeply psychological and trauma driven". <small>(Oral Histories: The Inevitables, 2026-02-26)</small> Most Cogborn who lose a limb cannot afford a prosthetic; Doppler, an artificer, made his own. <small>(Oral Histories: The Inevitables, 2026-02-22)</small>
+
 ## Gear Street
 
 Gear Street is the Lower City's busiest commercial artery, a crowded stretch of shops, food stalls, scrap vendors and arcane tinkerers serving the residents of the Cogs and the Lowline Ward. Doppler Klink's Arcane Gear is one of its fixtures: a cramped stall where he repairs arcane devices, builds custom wands, and sleeps in the back room when business is slow.
@@ -105,6 +111,8 @@ He believes a thing is worth what it costs him to make, which is why he builds f
 **Items:** a Wand of Magic Missile made for Renn Tal · a second made for Dario, and used to strike the Lord Commander · a wand for each of the Inevitables, built at cost · a shoulder-mounted blue-lensed device of his own construction.
 
 **Bench Work:** Doppler's trade. He repairs arcane devices, builds custom wands to order, and works from salvage when there is nothing else. When the war moved to bells he retooled and started producing Horns instead.
+
+**Wand economics:** by Dave's reckoning a consumable wand such as a Wand of Magic Missile takes Doppler about ten hours, or five with a competent assistant, and 200 gold buys seven charges of magic missile, about 27 damage "with no attack roll or save". "with a steady supply of quality wood/gold I could sell these like guns pretty easy, 1/day." <small>(Oral Histories: The Inevitables, 2026-02-23)</small> The wand that broke the Mind Flayer's hold on Eric under Sharn, in Renn Tal's hand, is the one Dave calls the "DOPPLER 7 SPECIAL". <small>(Oral Histories: The Inevitables, 2026-05-02)</small>
 
 **Personality Characteristics**
 

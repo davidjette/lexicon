@@ -30,6 +30,9 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/10.jpg
+- "Oral Histories: The Inevitables, 2026-03-31"
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-27"
 published: '2026-09-10'
 wa:
   slug: the-hundreds-organization
@@ -62,6 +65,12 @@ Project E.D.E.N. exists in large part because of them. Hybrid undead-Warforged s
 
 [Preacher](/people/preacher/), speaking to the trio in the Sub-Transit control room, added that the Hundreds have been fighting those units for years, along with a blue-skinned, red-eyed hybrid killer they call the Blue Devil and believe to be unkillable. Preacher recognised her. She is Eden, [Esther Crona](/people/esther-crona/)'s youngest half-sister, resurrected as EDN-00.
 
+By Nico's account, the Project Eden units east of [Gorgonhorn](/places/gorgonhorn/) in the Mournlands are now the Cogborn's biggest fight, and the Hundreds are the ones who mainly hold them off. <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
+
+## THE THRONEHOLD SUMMIT
+
+Dave, before the Summit: "The Hundreds will participate on the condition that they are recognized as an independent power in the Mournlands with security guarantees. They send a separate invitation for Eric to meet with Locke Pierce at the Summit before Eric gives his speech." <small>(Oral Histories: The Inevitables, 2026-06-06)</small>
+
 ## WHAT LOCKE PIERCE SHOWED THEM AT MT. SILICON
 
 Mt. Silicon is a fortified Warforged stronghold carved into a mountainside, and behind its doors is a control chamber walled in screens and filled with the Hundreds — whom Locke calls his children. Three years after the Sharn rising he brought [Gemma Corso](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) inside it. There he told them that the Fantanya Nyel are real, that Empress [Uriel Qualanthri](/people/uriel-qualanthri/) intends to ring them, and that if she succeeds the dead will rise everywhere.
@@ -69,6 +78,8 @@ Mt. Silicon is a fortified Warforged stronghold carved into a mountainside, and 
 Then he showed them his answer: the Ruby Nova, a weaponised catastrophe, a controlled recreation of the Mourning itself. He detonated it on the battlefield from which the party had just evacuated the last surviving Silver Flame paladins. A red dome bloomed across the horizon, silent at that distance, visible from Thronehold, and swallowed the portal site and the remnants of Vex's fleet along with it. Across Khorvaire the free states named it the Last Mourning.
 
 > "Stop Uriel before she rings the bells. If you fail, I will end this world before she can, and only my kind will survive it."
+
+Dave's account of the weapon: "Locke and his team called it Ruby Nova which is a callsign for the bomb", and "the purpose was to demonstrate the weapon, so it was close enough to see it up close but not enough to kill the witnesses, not immediately at least". The people of the free states now fear "a final confrontation between the hordes of the Uruk Republic, the awesome destructive capabilities of the Hundreds, and the imperial war machine and armies of undead". Dave's own idea is that Locke Pierce used Red Khyber to weaponise the Mourning, though "no way he would tell you guys that"; of Red Khyber, "all sides are using it". Mt. Silicon also keeps the secrets of crystallic fusion. Dave offered the party an espionage job there: "Steal the secrets of crystallic fusion, and how the Hundreds discovered it before the Empire of the Uruk". <small>(Oral Histories: The Inevitables, 2026-06-27)</small>
 
 ## THE PRICE OF BREAD
 

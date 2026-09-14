@@ -32,6 +32,8 @@ sources:
 - C:/dev/sharn-campaign/session-2026-09-04-summary.md
 - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
 - C:/dev/sharn-campaign/npcs-korth.md
+- "Oral Histories: The Inevitables, 2026-07-06"
+- "Oral Histories: The Inevitables, 2026-08-12"
 published: '2026-09-10'
 wa:
   slug: korth-location
@@ -83,7 +85,7 @@ The city was built out of ancient forums and plazas, so no building sits neatly 
 
 **South — the Hall of Submission.** Open to the public and busy. Where the very old go willingly to cross over and begin their "second service to the Emperor," and where the dead are brought to be transformed. Officers wait outside with troop transports to collect converts. It is a good place to talk, because almost no one in earshot is alive.
 
-**East — the Listening Post.** Beside the Hall of Submission. An Imperial intelligence office holding, among other things, the records of how Fulcrum was rolled up. Further east stands a building forbidden to enter, ringed with the nastier grades of troops; its contents are unknown.
+**East — the Listening Post.** Beside the Hall of Submission. An Imperial intelligence office holding, among other things, the records of how Fulcrum was rolled up. The Inevitables broke into it and brought out Izaak in [Korth Ep 14](/sessions/korth-ep-14-the-listening-post/). Further east stands a building forbidden to enter, ringed with the nastier grades of troops; its contents are unknown.
 
 **Southwest — the Barracks and the Altar of the Guardian.** Across a large bridge west of the Great Plaza. The military is such a large share of the population that the barracks mess is effectively open to the public, which makes it the one reliable civic amenity and a terrible place to be a criminal. Beside it stands the Altar of the Guardian, holding the tomb of [Varyn Crona](/people/varyn-crona/) and serving as the seat of [the Crimson Sun](/organizations/the-crimson-sun/) when that order was active. It reads like a tomb of the unknown soldier: a monument locals never visit on purpose. A secret military compound stands next to it, purpose unknown.
 
@@ -110,6 +112,12 @@ There is no defence counsel and no discovery. A panel of judges — eight sat fo
 Sabotage, espionage and embezzlement carry death. Falsifying records carries a term equivalent to twenty-five human years; sentences are scaled by race and expected lifespan. "Monster races" receive far harsher penalties, are denied advocates entirely, and have bespoke execution methods defined so that they can be executed at all. A death sentence specifies both the duration of pain to be inflicted during the killing and the length of service owed afterward in undeath.
 
 Smuggling weapons into the city is punishable by death. An armed, unenlisted bodyguard in the city centre must be licensed and insured under the **Imperial Blackguards and Mercenary Act**; a weapon registration is Form 7-168.
+
+## Martial law
+
+Three years into a losing war, Korth is, in Dave's words, "a city under martial law and extreme deprivation". The famine there is as bad as in Aundair and Breland, and the military has commandeered all useful infrastructure and property. Dave: "but the people are fanatic and are obssessed with the Emprorer and his glory, and will go down fighting to the last man woman and child" <small>(sic)</small>. It is "a complete police state where the everyday person is intimately invested in rooting out spies and saboteurs and where Imperial officers are watching everything", and it is "racially segragated, with more and more of the city and kingdom reserved for purely elven use, citing cultural differences and needs for the Empress's peoples" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-07-06)</small>
+
+After the peace talks at [Thronehold](/places/thronehold/) collapsed, Dave judged that "an official delegation may be off the table" for Sharn, and the trio went in under cover. <small>(Oral Histories: The Inevitables, 2026-07-06)</small> Disguises are needed in Korth and at [the Summer Palace](/places/the-summer-palace/). <small>(Oral Histories: The Inevitables, 2026-08-12)</small>
 
 ## Right now
 

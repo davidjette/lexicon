@@ -46,6 +46,12 @@ sources:
 - sources/site/key-figures.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
+- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+- sources/documents/2026-09-14-nico-evil-campaign-3.md
+- "Oral Histories: The Inevitables, 2025-08-30"
+- "Oral Histories: The Inevitables, 2025-08-31"
+- "Oral Histories: The Inevitables, 2025-12-05"
+- "Oral Histories: The Inevitables, 2026-09-11"
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person
@@ -73,6 +79,10 @@ No likeness of LeBeefe in his last years is known to have survived the fall of t
 
 New Ham was a small village on the eastern line with slave pens and a magistracy, and LeBeefe held the magistracy. Under him it became Newham: a bustling city with a lightning rail hotel, [The Clamshell Casino](/places/the-clamshell-casino/), a university hospital, a Rekkenmark annex and a month-long Imperial festival. He was made Mayor of it, then Grand Duke of the Eastern Provinces, and he pushed the Empire further east from the desert outpost of Leef — raising an airship yard there, and stationing illithid city guards and the Iron Veil to hold it. Every Imperial mayor in Khorvaire attends the annual Council of Mayors at Thronehold; LeBeefe attended for the brothels and was volunteered onto a rail-gauge committee for his trouble.
 
+As Mayor he left his slave trade duties in the hands of his Overseer Tibedeax and found himself entangled in the world of gambling and development deals. He was seen around town with [Ova Santoro](/people/ova-santoro/), the 23-year-old daughter of the Casino pit boss Christopher Santoro, and was proficient with gaming dice only while Ova was with him. At his swearing-in as Mayor he was given a **red velvet sash**, a magic item that gives its wearer one lucky roll every 24 hours, and he took to wearing it. <small>(Episode 6 "6 Months Later / The Tablet")</small>
+
+At the transportation summit, by Dave's account, [Kwanti d'Orien](/people/kwanti-d-orien/) pushed for his own standards and centrality in the Empire's infrastructure, and "LaBeefe convinced everyone to centralize that power instead of relying on the houses", for which Kwanti would hate him. <small>(Oral Histories: The Inevitables, 2025-08-31)</small> Nico recalled him as "head of like northen transpertation", "expanding in the north and around Newham and beyond into leef". <small>(Oral Histories: The Inevitables, 2026-09-11)</small>
+
 ## Public and private
 
 Publicly he was the Empire’s success story on the frontier — the administrator who turned a slum into a metropolis, a delegate to the Interoperability Summit, a Grand Duke with a casino habit and a girlfriend and an open door.
@@ -85,7 +95,9 @@ LeBeefe kept company he could use. Ova Santoro was his girlfriend in Newham, and
 
 ## The thing in his head
 
-The mind flayer in the Demon Wastes corrupted his mind and did not kill him, and what he became is not documented anywhere the Empire will admit. He showed [Uriel](/people/uriel-qualanthri/) and [Esther](/people/esther-crona/) a vision of the end times in his first episode. He dreamed that he was somehow connected to the four ancient tablets. And for a stretch of his career an invisible creature was attached to him, quietly draining memory and intelligence out of everyone around him, until [Gabriel Duin](/people/gabriel-duin/) revealed it with a flick of the hand and killed it in front of him.
+The mind flayer in the Demon Wastes corrupted his mind and did not kill him, and what he became is not documented anywhere the Empire will admit. He showed [Uriel](/people/uriel-qualanthri/) and [Esther](/people/esther-crona/) a vision of the end times in his first episode. He dreamed that he was somehow connected to the four ancient tablets. And for a stretch of his career an invisible creature was attached to him, quietly draining memory and intelligence out of everyone around him, until [Gabrielle Duin](/people/gabriel-duin/) revealed it with a flick of the hand and killed it in front of him.
+
+The shadow attached itself to him on the island where the Dread Pirate Joseph Roberts stranded the Unforeseen. He left the island feeling he had gained some power there, and also weighed down, tired and slow. In the throne room at Korth, Gabrielle Duin cast faerie fire to reveal the shadow creature attached to him; it tried to flee, and at a flick of her hand it screamed in pain as it withered and died of necromantic damage. <small>(Episode 9 "The Dig Site / Throne Room")</small>
 
 He believes the end of the world is coming, because he has seen it and made other people watch. He believes he is connected to the tablets that foretell it. He believes his goals are to get rich, gain power, and — at this point, mostly — to kill Uriel.
 
@@ -97,7 +109,7 @@ LeBeefe governs at a distance and profits at the centre. He does not appear wher
 
 LeBeefe was born on a farm in Breland and always avoided hard work. He made his way as a con artist, an actor, a lothario, and then finally a slaver. Then he got rich and powerful but unfortunately was attacked by a mind flayer in the demon wastes that corrupted his mind. Now he is slowly transforming into something otherworldly and has visions of the end of the world. His goals are to get rich, gain power, and at this point probably mostly to kill Uriel.
 
-He first crosses the record as the delinquent link in an Imperial slave shipment. Crimson Sun Inquisitor Esther Crona and Black Dove Uriel Qualanthri were sent to New Ham to investigate the missing delivery, assess his loyalty, judge the alleged outbreak and find the rebel agents he had blamed for it. In the old thieves’ den at Oldham they found [Black Doves](/organizations/the-black-doves/) under Adulfphus Mudge, sent by Gabriel Duin to investigate the same non-existent disease. The three of them killed the Doves, agreed on a story, took the black box, and went into business together.
+He first crosses the record as the delinquent link in an Imperial slave shipment. Crimson Sun Inquisitor Esther Crona and Black Dove Uriel Qualanthri were sent to New Ham to investigate the missing delivery, assess his loyalty, judge the alleged outbreak and find the rebel agents he had blamed for it. In the old thieves’ den at Oldham they found [Black Doves](/organizations/the-black-doves/) under Adulfphus Mudge, sent by Gabrielle Duin to investigate the same non-existent disease. The three of them killed the Doves, agreed on a story, took the black box, and went into business together.
 
 ## From founder to antagonist
 
@@ -107,19 +119,23 @@ Four Imperial operatives agreed in the undead-overrun village of Arden Crest to 
 
 **Holdings:** The magistracy and slave pens of New Ham. Newham City entire — now the New Mourning, toxic and uninhabitable. The Black Palace. The airship yard at Leef, which is now the capital of the Republic of Talenta and no longer his.
 
-**Items:** The LeBeefe Eye — at least one of which sat for years on the fireplace mantel of Esther Crona’s penthouse in Sharn, where Eric the Cleric found it, felt it pull at him, and refused to pick it up. Condition: intact, and watching.
+**Items:** The LeBeefe Eye — at least one of which sat for years on the fireplace mantel of Esther Crona’s penthouse in Sharn, where Eric the Cleric found it, felt it pull at him, and refused to pick it up. Condition: intact, and watching. The red velvet sash of his swearing-in as Mayor, which gives one lucky roll per 24 hours. <small>(Episode 6 "6 Months Later / The Tablet")</small> The Tentacle Rod, a rare magic weapon ending in three rubbery tentacles that each strike at a creature within 15 feet; a creature hit by all three can be slowed and hampered for a minute. <small>(Episode 9 "The Dig Site / Throne Room")</small>
 
-**Aberrant Mind:** Gabriel Duin, who was in a position to know, called it "an interesting power" and told him to harness it in the Empire's service. It shows in the record as psychic pressure rather than as spellwork: visions handed to other people, a dream-line to the tablets, a voice that carries where he is not, and a residue that lets someone who spent time near him take only half damage from psychic attacks a decade after his death.
+**Aberrant Mind:** Gabrielle Duin, who was in a position to know, called it "an interesting power" and told him to harness it in the Empire's service. It shows in the record as psychic pressure rather than as spellwork: visions handed to other people, a dream-line to the tablets, a voice that carries where he is not, and a residue that lets someone who spent time near him take only half damage from psychic attacks after his death.
 
 ## Grand Duke, and after
 
 LeBeefe was made Grand Duke and carried the Empire eastward from the outpost of Leef, raising an airship yard, illithid city guards and the Iron Veil there. The three operatives who would become the Inevitables liberated Leef, then confronted him in Newham City with Digma Beeve's help. The rising cost the city itself: a massive otherworldly explosion collapsed Newham and corrupted the region into New Mourning , toxic and uninhabitable. The survivors fled east and founded the Republic of Talenta .
+
+During the fighting in Leef the Inevitables found, in JL's words, that "LeBeefe is attempting to build a mind flayer army. He’s attempting to take the Dwarflands. And he’s doing it with Esther’s troops!" The currency of the Grand Duchy of Newham was "LeBeefes". <small>(Oral Histories: The Inevitables, 2025-08-30)</small> He was killed in the assault on him in Newham. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
 
 ## His daughters
 
 Sister Nora of the Black Doves named them under questioning: [Blair](/people/blair/) , [Eden](/people/eden/) and [Faith](/people/faith/) are all his, and all half-sisters to [Esther Crona](/people/esther-crona/).
 
 <small>Rebel intelligence out of Sharn puts it differently — three Tiefling daughters with Esther the eldest of them. Blair, who reached out to him herself and spent time with him before his death, recognised both his intelligence and the danger under the charm, saw through his illusions, and kept a careful distance from him until he died. Faith led the Children of Ember and was killed on a rooftop in Sharn.</small>
+
+Of Esther's son [Calcifer](/people/calcifer/), Dave said "He’s the kwisatz haderach" / "Cause his grandpa is labeefe". <small>(Oral Histories: The Inevitables, 2025-08-30)</small>
 
 ## What still listens
 
@@ -128,7 +144,7 @@ LeBeefe's voice and his songs turn up in places he has never been. Eric heard bo
 The courier’s satchel was found half-consumed by a fungal bloom that had grown out of a shattered terrarium in his own kit, and the bloom had one thing to say: *Ring it here. When HE is born, it will be too late.* The voice that has been pushing Eric to ring bells ever since is LeBeefe’s. It pushed Sedda Deeptempura the same way, and she rang. In a dream in the Glitterhame, Eric found the same voice bent over a small duergar boy — and the boy has not been seen since.
 
 > Mayor John C. LaBeef, you have an interesting power… harness it to continue in aiding the empire. Perhaps you’ll find yourself with even more power and influence in the empire… but not with that thing following you…\
-> — Gabriel Duin, in the throne room at Korth
+> — Gabrielle Duin, in the throne room at Korth
 
 > Good idea to ring that bell.\
 > — John C. LeBeefe, in a dream, three years after his death

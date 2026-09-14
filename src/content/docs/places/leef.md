@@ -33,6 +33,14 @@ sources:
 - sources/wa/john-c-lebeefe-person.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2025-06-24"
+- "Oral Histories: The Inevitables, 2025-08-22"
+- "Oral Histories: The Inevitables, 2025-09-06"
+- "Oral Histories: The Inevitables, 2025-09-07"
+- "Oral Histories: The Inevitables, 2025-09-12"
+- "Oral Histories: The Inevitables, 2025-09-27"
+- "Oral Histories: The Inevitables, 2025-12-18"
+- "Oral Histories: The Inevitables, 2025-12-21"
 published: '2026-09-10'
 wa:
   slug: leef-location
@@ -49,11 +57,15 @@ Leef is a town in eastern Khorvaire, the last eastern stop on the lightning rail
 
 It was in Leef that [Gemma Corso](/people/gemma-corso/), [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/) met for the first time. Together the trio liberated the town with the help of local defenders: **Thadric "The Colonel" Rourke**, a hardened veteran of the Last War; **Zero of Leef**, an elderly tabaxi follower of the Silver Flame; and **Princess Orange Chicken**, a young dwarven leader from the swamp tribes of [the Mror Holds](/places/the-mror-holds/). The victory earned the three of them the title **The Heroes of Leef**.
 
+Gemma and Dario came in by train, and by Dave's account were "immediately roped into a terrorist act before meeting our allies": they attacked the train station, blew up shipments and killed guards. <small>(Oral Histories: The Inevitables, 2025-06-24; 2025-08-22; 2025-09-27; 2025-12-21)</small> The party later hallucinated in a swamp, <small>(Oral Histories: The Inevitables, 2025-09-06)</small> and the fighting came to a head in the Battle of Leef. <small>(Oral Histories: The Inevitables, 2025-09-06 to 2025-09-12)</small> The full account is at [the liberation of Leef](/history/the-liberation-of-leef/), the Leef half of the [Leef / Newham arc](/history/the-leef-newham-arc/).
+
 It was Rourke who then sent them west, to confront the architect of Newham's oppression in his own city.
 
 ## The Republic
 
 When [Newham](/places/newham/) collapsed and the region around it became [New Mourning](/places/new-mourning/), the survivors fled east and evacuated en masse to Leef. There the townsfolk, the Newham refugees and the swamp-dwarf tribes forged a new nation: **the Republic of Talenta** <small>("formally known as Leef", per the rebel-factions page)</small>, positioned between the corrupted wasteland to the west and the allied Mror Holds to the east. It became a fortified rebel stronghold and one of the few places in Khorvaire largely beyond the reach of Esther Crona's imperial forces.
+
+By Dave's account the nation is "Talenta" or the "talenta republic", while "the town can stay Leef but long term we'll probably rename it after whichever one of us dies". <small>(Oral Histories: The Inevitables, 2025-12-18)</small>
 
 ## Present day
 

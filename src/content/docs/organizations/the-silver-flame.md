@@ -30,6 +30,9 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - sources/site/mission-board.txt
+- "Oral Histories: The Inevitables, 2025-06-24"
+- "Oral Histories: The Inevitables, 2025-07-18"
+- "Oral Histories: The Inevitables, 2025-08-08"
 published: '2026-09-10'
 wa:
   slug: the-silver-flame-organization
@@ -54,6 +57,8 @@ The Silver Flame is a religious group that is outlawed by the Empire. The proscr
 ## THE ORDER AS IT DESCRIBES ITSELF
 
 A faith of paladins and clerics, held together by discipline, compassion and the protection of the innocent. Service is a family trade — *all the strong ones of clan Dawnmantle do it*. Its people run to fires: Donna, a fifty-nine-year-old cleric, is the steady heart of Zilspar Farm 02, tending the wounded and comforting the frightened while the paladins are away; Zero of Leef, an elderly Tabaxi follower of the Flame, was among the local defenders who liberated Leef from the Grand Duke's illithid city guards. [Lorian](/people/lorian/) came to the Flame out of the cell beneath the Vault, and was told by **Zero-One** to let purpose and not hatred shape his path.
+
+**The pass phrase.** Flames identify one another with a pass phrase <small>(JL, Oral Histories: The Inevitables, 2025-06-24)</small>. The challenge is *"Long night?"* and the answer *"Means a brighter day."* <small>(Oral Histories: The Inevitables, 2025-07-18)</small> It has also been given as *"Long night, means a brighter dawn"*. <small>(Oral Histories: The Inevitables, 2025-08-08)</small>
 
 **The Flame's judgement on the Doves:** the Silver Flame has decided the Black Doves are obviously evil. It reached this position before the bell files existed, before the Foxtale debrief, and before anyone had stood under a Master casting.
 

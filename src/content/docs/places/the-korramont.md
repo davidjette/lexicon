@@ -30,6 +30,9 @@ sources:
 - C:/dev/sharn-campaign/session-2026-08-21-recap.md
 - C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-07-15"
+- "Oral Histories: The Inevitables, 2026-08-15"
+- "Oral Histories: The Inevitables, 2026-08-20"
 published: '2026-09-10'
 wa:
   slug: the-korramont-location
@@ -40,11 +43,13 @@ wa:
 
 *Also known as:* the Korramont - the mountain above Korranberg - Tempurahold (of the works beneath it)
 
-The Korramont is a mountain, dwarven hold and foundry in the foothills of the King's Forest north of Korth, holding a seam of the planar ore **Shavat**. It is a mine, a tomb, a factory and a lair, stacked vertically. [King Corn](/people/king-corn/) of the [Deeptempura](/organizations/the-deeptempura-clan/) led his people into the ore caverns and was taught to forge Shavat by a devil at a price of seven pledges, and made peace with the black dragon deeper still; the elves of Aerenal came to marvel at the work, stayed to enslave the workers and set the mine to casting bells. Roughly ten or eleven years ago the House of Kaius bought the mountain outright and ran the [Korranberg Foundry](/places/the-korranberg-foundry/) under standing draft, until three years ago [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/) rang the Thirteenth Casting and the mountain killed everyone in it. An Uruk-Hoth regiment held its door for five months; the [Teryaki](/organizations/the-teryaki-clan/) came home to consecrate the dead and take the hold back; and [Valtrex](/species/valtrex/) now circles the peak and has declared the whole mountain his domain.
+The Korramont is a mountain, dwarven hold and foundry in the foothills of the King's Forest north of Korth, holding a seam of the planar ore **Shavat**. It is a mine, a tomb, a factory and a lair, stacked vertically. [King Corn](/people/king-corn/) of the [Deeptempura](/organizations/the-deeptempura-clan/) led his people into the ore caverns and was taught to forge Shavat by a devil at a price of seven pledges, and made peace with the black dragon deeper still; the elves of Aerenal came to marvel at the work, stayed to enslave the workers and set the mine to casting bells. Roughly ten or eleven years ago the House of Kaius bought the mountain outright and ran the [Korranberg Foundry](/places/the-korranberg-foundry/) under standing draft, until three years ago [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/) rang the Thirteenth Casting and the mountain killed everyone in it. An [Uruk-Hoth](/organizations/the-uruk-hoth/) regiment held its door for five months; the [Teryaki](/organizations/the-teryaki-clan/) came home to consecrate the dead and take the hold back; and [Valtrex](/species/valtrex/) now circles the peak and has declared the whole mountain his domain.
 
 ## The ore
 
 The Korramont holds a seam of **Shavat** - Shavarite, called *Black Khyber* - a planar ore that forms wherever the plane of Shavarath, the eternal war, touches the mortal world. It can only be worked in infernal heat. Smiths outside the mountain treat it as a myth. Hammered thin as paper and layered, Shavat will hold, in [Madame Tso Teryaki's](/people/madame-tso-teryaki/) words, *"millions of imperceptible shapes and circuits of golden wire"* - enough to cast vast and devastating spells across distances, like sound.
+
+The mountain is cut by "cracks between this realm and Khyber", and Dave describes the ore forming from them: "That infernal lava flows through cracks and into this mountain and creates the black Khyber ore and the forge fire capable of smithing it". <small>(Oral Histories: The Inevitables, 2026-08-15)</small> Alkiliths living in the rock account for the flow: "the presence of an alkilith (more than one?) in the mine explains how the infernal magma flows here and likely also how the Deeptempura encountered the fiend who made their founding pact for the forge". Any such crack can become a portal: "if there are alkilith in the rock here then any crack they live in could became such a portal". <small>(sic; Dave, Oral Histories: The Inevitables, 2026-08-20)</small>
 
 ## Chronicle
 
@@ -58,7 +63,7 @@ The Korramont holds a seam of **Shavat** - Shavarite, called *Black Khyber* - a 
 
 **The accident.** Three years ago - the same year Sharn fell - [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/) rang the Thirteenth Casting with a rock, and the mountain killed everyone in it. The Trust's own unofficial tally puts the loss at roughly 97% of the dwarvish workforce. The rail was taken apart rather than destroyed. The Trust keeps no records at all for the three years since.
 
-**The squatters.** For about five months a roughly twenty-strong Uruk-Hoth orc recon regiment under War-Chief [Braga Kul](/people/braga-kul/) held the [Mountain Door](/places/the-mountain-door/) as an observation post over Korth. They went down once, met something, and came back retching and talking about whispers. They blocked the stair with rock and dirt rather than fight it again. All of them are dead.
+**The squatters.** For about five months an Uruk-Hoth orc recon regiment of about forty under War-Chief [Braga Kul](/people/braga-kul/) held the [Mountain Door](/places/the-mountain-door/) as an observation post over Korth. They went down once, met something, and came back retching and talking about whispers. They blocked the stair with rock and dirt rather than fight it again. All of them are dead: about twenty fell in the fight at the mine in [Korth Ep 5](/sessions/korth-ep-5-the-korranberg-descent/), and the rest died at the door in [Korth Ep 6](/sessions/korth-ep-6-the-long-night-at-the-mountain-door/). Dave: "An orc recon squad of 40 in a well held stronghold means the war is moving very fast". <small>(Oral Histories: The Inevitables, 2026-07-15)</small>
 
 **The return.** Descendants of the clan - the [Teryaki](/organizations/the-teryaki-clan/), out of the Mror Holds - came home to consecrate the dead and take the hold back. They were clearing it at less than a room a day when the **Inevitables** arrived under Imperial cover and did the rest of the level in an afternoon.
 
@@ -78,6 +83,6 @@ Above the peak, [Valtrex](/species/valtrex/) circles on torn wings and has decla
 - **[The Korranberg Foundry](/places/the-korranberg-foundry/)** - the works level: living quarters, shrine, library, study, kitchen, armoury.
 - **[The Bladeworks](/places/the-bladeworks/)** - the forge floor beside the cold lava flows, where the Thirteenth Casting hung over a rail cart.
 - **[The black lake](/places/the-black-lake/)** - three hundred feet below the foundry: acid water, a hoard, a crowned corpse and a dragon.
-- **The drainage tunnel** - a narrow vertical crevice out of the Glitterhame, hot and sulfurous, where an Alkilith had torn a permanent doorway into the Abyss. The demon is dead and the portal is shut.
+- **The drainage tunnel** - a narrow vertical crevice out of the Glitterhame, hot and sulfurous, where an Alkilith had torn a permanent doorway into the Abyss. The demon is dead and the portal is shut. The crevice is one of the mountain's cracks into Khyber, which the Alkilith living in it had opened into that doorway.
 
 <small>The party asked out loud, and never resolved, why the Empire marched prisoners *down* into the mountain instead of killing them on the floor.</small>

@@ -24,6 +24,8 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/korth-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-07-12"
+- "Oral Histories: The Inevitables, 2026-07-15"
 published: '2026-09-10'
 wa:
   slug: korth-ep-6-E28094-the-long-night-at-the-mountain-door-report
@@ -57,6 +59,8 @@ With the Mountain Door sealed behind them, the trio held position a full day so 
 [Gemma Corso](/people/gemma-corso/) repaired [Eric the Cleric](/people/eric-the-cleric/)'s boots with her father's cobbling kit. The Sharn home-defence crystal was set at the door of Dario's room; its password, **"LeBeefe,"** whispered back at Eric when he spoke it aloud. Gemma examined a skull hung on the wall like a trophy — no natural creature, and too like the one-eyed tentacled horrors encountered outside Leef years ago. Eric cast *augury* with his tarot deck: Tower, Moon, Devil, Hanged Man, Judgement. The spread returned a mixed omen of weal and woe, hinting at disaster, deception, infernal influence, sacrifice, and salvation. Gemma, contacting her patron, heard the warning: "Never negotiate with an insane dragon."
 
 Late that night Eric heard tapping through the stone, answered by Braga tapping a rock on his cell bars. When Eric and Gemma attempted to interrogate him using the truth serum delivered by invisible mage hand, Braga resisted the magic and warned them that something was coming. Moments later the barred front door opened from the inside: the warband's scout party, eight orcs including a war-caster, had come back. Eric killed Braga through the bars with magic missiles, then sealed the doorway with a *wall of fire* that burned the rope bridge away entirely. Spirit Guardians tore through the attackers, while Gemma cut down fleeing scouts with Bright Dawn. By the end of the battle, every member of the Uruk-Hoth recon regiment was dead; Braga, the scouts, and the straggler found outside and later executed by Gemma before dawn.
+
+The recon unit numbered about forty. About twenty had fallen in the fight at the mine in [Korth Ep 5](/sessions/korth-ep-5-the-korranberg-descent/), and the rest died here. Dave: "An orc recon squad of 40 in a well held stronghold means the war is moving very fast". <small>(Oral Histories: The Inevitables, 2026-07-15)</small> Of the unit, after Ep 5: "we killed that whole Uruk Hoth recon unit, and technically they're not even our enemies, but they were ready to attack all imperials on sight". <small>(Dave, Oral Histories: The Inevitables, 2026-07-12)</small>
 
 In the morning the trio blasted apart the dwarven stair-gate, whose key had snapped in the lock, and found the stair chamber littered with dwarven dead three to four years old.
 

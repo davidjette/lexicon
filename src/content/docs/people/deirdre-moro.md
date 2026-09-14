@@ -39,6 +39,7 @@ sources:
 - C:/dev/sharn-campaign/session-2026-09-04-summary.md
 - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
 - sources/site/korth-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: deirdre-moro-person
@@ -113,6 +114,8 @@ Exacting, feared, procedurally immaculate and personally unpleasant — a woman 
 ## Right now
 
 Dead. Gemma Corso spent months tracking her specifically — where she lived, what she did on a Wednesday evening, how she spoke to baristas, how she saluted — then killed her and her paralegal in Deirdre's own apartment, put both bodies in a Bag of Holding, and burned them at the bottom of the bridge with the orc dead. Her face, her post and her clearance are now being used to reach the Ivory Lazaret.
+
+The cover holds only while Deirdre is seen in Korth. Dave, as DM, after the Korranberg dungeon: "You know that if you stay away from Korth too long, people will wonder what happened to Dierdre and (what his name?) and blow your cover". <small>(sic; Oral Histories: The Inevitables, 2026-08-22)</small>
 
 **Organizations / Groups:** The Ministry of Law, Korth (Star Advocate) · the Empire
 

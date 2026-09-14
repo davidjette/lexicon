@@ -28,6 +28,8 @@ sources:
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/pose-mission-notes.txt
 - worldanvil/sources/site/home.txt
+- "Oral Histories: The Inevitables, 2026-05-09"
+- "Oral Histories: The Inevitables, 2026-07-06"
 published: '2026-09-10'
 wa:
   slug: the-ghost-chip-item
@@ -91,6 +93,12 @@ Gemma also carried a **teleportation chip** in her head — BioTec hardware, cra
 > — Hallorn d'Lyrandar
 
 Children of Ember cultists seized Gemma in the street, restrained her, tore the chip out and destroyed it on the spot. The trio killed two of them and dragged the third inside for questioning.
+
+By Nico's account, Gemma found the teleportation chip in the year before Sharn, on her secret mission for the rebellion: it was "found on Cobb Cornwell, labeled as a gift from Hallorn to Faith". <small>(Oral Histories: The Inevitables, 2026-05-09)</small> <small>(Cobb is a variant of [Cob Cornwell](/people/cob-cornwell/).)</small>
+
+## In Korth
+
+The trio still carried their Ghost Chips when they went to Korth. <small>(Oral Histories: The Inevitables, 2026-07-06)</small>
 
 **Known units:** the stolen prototype · the Ghost Chips implanted at the Nest · further Ghost Chip prototypes referenced by Martin Kross in the Underhive · *related:* Hallorn's teleportation chip, since destroyed
 

@@ -29,6 +29,9 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/site/sharn-episode-summaries.txt
 - factions.md
+- "Oral Histories: The Inevitables, 2025-12-14"
+- "Oral Histories: The Inevitables, 2025-12-18"
+- "Oral Histories: The Inevitables, 2026-06-06"
 published: '2026-09-10'
 wa:
   slug: the-republic-of-talenta-organization
@@ -59,8 +62,16 @@ The survivors fled east, evacuating en masse to Leef. There, the townsfolk, Newh
 
 <small>Digma now serves as acting Comptroller of the Republic of Talenta while Eric is stationed in Sharn. Leef's old name survives in daily speech; the Republic's own paperwork still reads "formerly known as Leef".</small>
 
+## The name
+
+At the close of the [Leef / Newham arc](/history/the-leef-newham-arc/), JL, its DM, wrote of the trio: "We are now firmly established as heroes of the realm, and we have serious roots in Talenta." He gave Dario the rank of "Field Marshall of Talenta" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2025-12-14)</small> Asked what Leef was now called, Dave answered: "Yeah "Talenta" or the "talenta republic" the town can stay Leef but long term we'll probably rename it after whichever one of us dies". Nico offered "The Eric the Cleric Republic". <small>(Oral Histories: The Inevitables, 2025-12-18)</small>
+
+The trio's road to Sharn began in the Republic. Digma handed them a sealed dossier passed from a trusted rebel contact in Sharn, who was travelling to meet them and would "arrive in the Republic of Telenta within a day’s time" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2025-12-18)</small>
+
 ## The Republic at War
 
 After the fall of the Iron Veil, Leef sent representatives to the first meeting of the Council of Sharn seeking alliance and stability, and Leef soldiers appeared on every screen in the city during the rising. Three years on, the Republic sends delegates to the Thronehold Summit alongside Sharn, and the Republic's alliance with the Mror Holds remains the eastern rebellion's best line to the dwarf clans.
+
+Before the Summit the Emperor's spokespeople were "calling the Rebels in Sharn and Talenta traitors and deathbound but leaving room for terms with the larger forces approaching his capital". <small>(Oral Histories: The Inevitables, 2026-06-06)</small>
 
 **Places of Interest:** **Leef** — the old outpost, the capital in everything but name. **The airship yard** — built by LeBeefe when he flooded the town. **The New Mourning** — the toxic border to the west, which no army crosses. **The Mror Holds** — allied, to the east, and the source of the swamp-dwarf tribes who helped found the nation.

@@ -49,6 +49,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+- "Oral Histories: The Inevitables, 2025-10-31"
 published: '2026-09-10'
 wa:
   slug: general-peterbilt-varkus-person
@@ -88,6 +89,8 @@ Born in Sembia as the third son of a minor lord, Varkus joined the occupying Cor
 The March of the Free West declares loyalty to the people of the Empire and its most exalted institutions.
 
 ## The March of the Free West
+
+When the party reached Waterdeep, Varkus had not yet officially proclaimed his rebellion; in Dave's words he was "still a disgruntled occupying general watching the fool boy emperor throw it all away". <small>(Oral Histories: The Inevitables, 2025-10-31)</small>
 
 The March of the Free West is one of four risings against Zanzibar William the Melancholy, alongside Zellmo and the Zarus Cult, Zythara the Witch Queen of Myth Drannor, and Modle Negen and the Negende Zonen; the Emperor and the four are the five Zanzibars. The March is part of the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
 

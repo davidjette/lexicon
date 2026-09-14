@@ -37,6 +37,7 @@ sources:
 - worldanvil/sources/wa/city-of-knives2C-pt-ii-report.txt
 - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-02-15"
 published: '2026-09-10'
 wa:
   slug: lord-gregory-goldenhew-person
@@ -44,7 +45,7 @@ wa:
   category: 25384e32-6c51-426d-8263-5535b8295114
 ---
 
-**Human · General Secretary of the Imperial Trade Federation · Member of the Imperial Assembly · Level Unknown · Alive at last record**
+**Human · General Secretary of the Imperial Trade Federation · Member of the Imperial Assembly · Level Unknown · Dead by the Sharn arc**
 
 *Also known as:* no other name is recorded.
 
@@ -70,7 +71,7 @@ No source describes him physically. What every source describes instead is his t
 
 Goldenhew was in the audience at the Grand Theatre in Sharn on the night the conductor Krespo turned the orchestra into demonic apparitions and slaughtered much of the house. He got out alive, and he got out with the four Imperial agents who were there to investigate him: **the party escaped with Heighrick, Goldenhew, Tremblepike and Sominyard.** He owed [The Unforeseen](/organizations/the-unforeseen/) his life, and the Unforeseen were under orders to neutralise him if the evidence pointed his way. See [City of Knives, Pt II](/lore/city-of-knives-pt-ii/).
 
-**Right now** Lord Gregory Goldenhew held supreme power over Imperial industrial policy at last record. He appears in no episode of the Sharn or Korth arcs, and whether he still holds the office is Unknown.
+**Right now** Lord Gregory Goldenhew is dead. He held supreme power over Imperial industrial policy in Campaign 1, appears in no episode of the Sharn or Korth arcs, and had died by the time of the Sharn arc, as had Lord Albert Spear, Cob Cornwell, John C. LeBeefe and Kwanti d'Orien. <small>(Oral Histories: The Inevitables, 2026-02-15)</small>
 
 ---
 
@@ -94,8 +95,8 @@ Goldenhew was in the audience at the Grand Theatre in Sharn on the night the con
 
 - **Hayman Maw** — leader of the Crimson Sun; put Goldenhew's name on a list of three and sent the Unforeseen after it.
 - **Minister Henry Heinrick** — fellow Assembly member and fellow suspect. Later Mayor of Sharn; later killed by Esther Crona.
-- **Lord Albert Spear** — fellow Assembly member and the third suspect.
-- **Kwanti d'Orien** — House Orien runs the rails his Federation sets the standards for. Allied with the Empire.
+- **Lord Albert Spear** — fellow Assembly member and the third suspect. Dead by the Sharn arc.
+- **Kwanti d'Orien** — House Orien runs the rails his Federation sets the standards for. Allied with the Empire. Found impaled in lower Sharn.
 - **The Unforeseen** — investigated him, then saved his life at the Grand Theatre.
 - **Fournier** — a Warforged of his Federation's signal corps, assigned alongside the Unforeseen at Thronehold.
 

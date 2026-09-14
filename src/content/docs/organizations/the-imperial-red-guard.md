@@ -26,6 +26,8 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/esther-crona.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-19"
 published: '2026-09-10'
 wa:
   slug: the-imperial-red-guard-organization
@@ -54,6 +56,8 @@ The Korth record's own line on them is the only description anybody has managed:
 ## THRONEHOLD, AS BROADCAST ACROSS KHORVAIRE
 
 Korth Ep 1. Nearly every major faction sent representatives to the Summit called by [Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/). During the afternoon's intelligence-gathering, [Lorian](/people/lorian/) determined that **the masked Empire guards present at the Summit were all undead**.
+
+The Summit was presented as "a neutral attempt to end the civil war by priests and scholars of the [Sovereign Host](/organizations/the-sovereign-host/)", with Vex as the Empire's convener under orders; he "was ordered to enter negotiations, but prepared for an ambush". Dave on the guard's part: "The Imperial guard, seemingly fully undead, played peacekeeper but after Vex's breakdown, began to slaughter everyone". <small>(Oral Histories: The Inevitables, 2026-06-06; 2026-06-19)</small>
 
 Korth Ep 2. When Vex broadcast *"Kill Chancellor Eric for the Empire"* through the ArcEye cameras carrying the Summit across the continent, the masked guards surged forward — and their movements were unnatural. **They were undead soldiers loyal not to Vex, but to Empress [Uriel](/people/uriel-qualanthri/).** The Black Dove sisters fled immediately as the undead turned on Vex and anyone in their path, confirming Uriel's trap and leaving the Supreme Admiral of the Imperial fleet furious and screaming of her betrayal in front of every delegation in Khorvaire.
 

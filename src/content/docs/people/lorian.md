@@ -42,6 +42,7 @@ sources:
 - factions.md
 - session-2026-06-18-recap.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-06-19"
 published: '2026-09-10'
 wa:
   slug: bb5d1c45-6b93-46b2-99a3-7d83f8ea5eac
@@ -83,6 +84,12 @@ He was held beneath **The Vault Underground** by Faith and Malrik Zeir, in the c
 
 At the Zilspar farms he told Zero-One all of it and told her plainly that he wanted vengeance. She did not talk him out of it. She told him to let purpose rather than hatred shape the path, and pointed him at the Flame. He took the Oath of Vengeance.
 
+## Training
+
+Lorian has a farmer's background and was a dancer. Nico, who plays him, made him a Vengeance paladin because he was angry, wanted vengeance and was spending time with Zero-One. He fights unarmed, in keeping with the dancer, and does not wear heavy armour. He trains with the Nest and Izaak, and carries a pistol. He wears the boots of speed [Gemma](/people/gemma-corso/) bought from the wizard in Newham and the gauntlets of ogre power she got from the bastion. His steed is a horse because he was a farmer. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
+
+When Dave took over as DM for the Korth arc he allowed the pistol, with loading: "firearms are at DMs discretion because they violate some of the main tradeoffs of the game (range/cover/damage/hands)". <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
+
 ## Thronehold
 
 At the Peace Summit he attended as a representative of Sharn and Leef alongside Gemma, in disguise, and Eric. When Sister Maelis Dorn's accusation broke the hall and Vex d'Lyrandar rose into the air wrapped in lightning, the masked Imperial guards — [Uriel Qualanthri](/people/uriel-qualanthri/)'s undead — turned on the Admiral, and the trap was hers rather than Supreme Admiral Vex d'Lyrandar's coup.
@@ -115,6 +122,8 @@ Lorian is in Sharn working rebel intelligence with Jessica Grimpledink. A capita
 
 - **An Air Bubble breathing device** — one of five upgraded units issued by Locke Pierce for travel through the toxic Mournland mist, inscribed in ancient gnomish: *Interplanetary Association of Lexical Engineers*.
 - **His testimony** — the layout of the Zeir residence and both Vault clubs, room by room, given to the Nest and never recanted. It is what he brought out of the Pantry, and the strike on the Children of Ember was planned on it.
+- **A pistol**, allowed with loading. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
+- **Boots of speed** and **gauntlets of ogre power**, both Gemma's. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
 - No named weapon, no relic and no heirloom is recorded. <small>Everything he carries he was given after he was taken out of the cell, including the faith.</small>
 
 **Tira:** Lorian's steed, a light-brown palomino, summoned rather than kept. She has been called once in the record: in the great hall at Thronehold, as the masked guards surged and the roof came off, Lorian put Eric on her saddle and got him out.

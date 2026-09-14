@@ -22,7 +22,7 @@ fields:
   type: Mythic planar ore, in three named varieties
   color: Black (Shavat), red, white
   commonUses: Bells, weapons, tools and ingots (black); unstated Imperial industrial use (red); myth (white)
-  originAndSource: Named for the progenitor dragon Khyber, encased in the body of Eberron; the ore is said in old myths to be his body, blood or outer scales. Shavat forms where Shavarath touches the mortal world; white Khyber is the shed scales of Siberys.
+  originAndSource: Named for the progenitor dragon Khyber, encased in the body of Eberron; the ore is said in old myths to be his body, blood or outer scales. Shavat forms where Shavarath touches the mortal world; beneath the Korramont, infernal lava flowing in through cracks between the world and Khyber creates the black ore; white Khyber is the shed scales of Siberys.
   geologyAndGeography: Seams of the hardest and oldest known rock in Eberron; the Korramont under Korranberg is one. Red Khyber is mined out of the irradiated Mournland waste on the Glass Plateau.
   relatedLocations: Korranberg Foundry; the Glass Plateau; the Mournland
   history: Named on screen by Sir Dario Argentino beneath the Korramont; the black variety identified on the Grand Stair as Shavat
@@ -33,6 +33,8 @@ sources:
 - worldanvil/sources/site/mission-board.txt
 - handouts/hells-bells-dossier.md
 - session-2026-09-04-summary.md
+- "Oral Histories: The Inevitables, 2026-08-15"
+- "Oral Histories: The Inevitables, 2026-08-20"
 published: '2026-09-10'
 wa:
   slug: khyber-taxonomy-material
@@ -55,6 +57,8 @@ The Khyber taxonomy is the classification of the three named varieties of Khyber
 ## BLACK KHYBER — SHAVAT
 
 The bell-metal. **Shavat**, black Khyber: a mythic planar ore formed where **Shavarath** — the plane of eternal battle — touches the mortal world. It was identified by name beneath the Korramont, where the black ore walls of the Grand Stair amplified every misstep.
+
+Dave's account of how it forms beneath the Korramont, where the mountain holds "cracks between this realm and Khyber": "That infernal lava flows through cracks and into this mountain and creates the black Khyber ore and the forge fire capable of smithing it". <small>(Oral Histories: The Inevitables, 2026-08-15)</small> The alkiliths living in those cracks account for the flow: "the presence of an alkilith (more than one?) in the mine explains how the infernal magma flows here and likely also how the Deeptempura encountered the fiend who made their founding pact for the forge". <small>(Dave, Oral Histories: The Inevitables, 2026-08-20; see [Korth Ep 10](/sessions/korth-ep-10-tunnel-to-the-abyss/))</small>
 
 Its properties, as established on screen:
 

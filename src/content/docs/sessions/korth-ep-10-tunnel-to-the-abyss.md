@@ -23,6 +23,8 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/korth-episode-summaries.txt
+- "Oral Histories: The Inevitables, 2026-08-15"
+- "Oral Histories: The Inevitables, 2026-08-20"
 published: '2026-09-10'
 wa:
   slug: korth-ep-10-E28094-tunnel-to-the-abyss-report
@@ -55,6 +57,8 @@ They squeezed through single-file and followed the trail up into a forgotten dra
 
 - The tunnel had been **open to the Abyss**. This was how the succubus they encountered the day before, locked in [Sister Calvane](/people/sister-calvane/)'s room, had most likely entered the foundry.
 - As the Alkilith died, the portal snapped shut, sealing the breach.
+- The crevice was one of the mountain's cracks into Khyber. Dave: "And you found one of the cracks between this realm and Khyber". <small>(Oral Histories: The Inevitables, 2026-08-15)</small> The Alkilith living in it had opened the crack into the Abyssal doorway: "if there are alkilith in the rock here then any crack they live in could became such a portal". <small>(sic; Oral Histories: The Inevitables, 2026-08-20)</small>
+- The infernal lava beneath the Korramont comes through these cracks: "That infernal lava flows through cracks and into this mountain and creates the black Khyber ore and the forge fire capable of smithing it". <small>(Dave, Oral Histories: The Inevitables, 2026-08-15)</small> Dave on the alkiliths: "the presence of an alkilith (more than one?) in the mine explains how the infernal magma flows here and likely also how the Deeptempura encountered the fiend who made their founding pact for the forge". <small>(Oral Histories: The Inevitables, 2026-08-20)</small>
 - The footprints end in a vast rocky cavern directly beneath the forge room — beneath the hanging bell itself. Egg Roll is somewhere *above* them.
 
 > Behind it, the rock wall peeled open into a roaring hellscape of fire and molten stone.

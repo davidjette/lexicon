@@ -40,6 +40,9 @@ sources:
   - C:/dev/sharn-campaign/session-2026-08-21-recap.md
   - C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
   - worldanvil/CANON.md
+  - "Oral Histories: The Inevitables, 2026-07-26"
+  - "Oral Histories: The Inevitables, 2026-07-29"
+  - "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-10'
 wa:
   slug: king-corn-of-the-deeptempura-person
@@ -84,6 +87,7 @@ His mother was [Queen Pu-Pu Platter Deeptempura](/people/queen-pu-pu-platter-dee
 - **The lead-bound folio** - the complete record of the forging: bell castings, tempering and hammering methods, harmonic-frequency mathematics, horn designs. It is a *Tome of Understanding*. Sealed in a chest under his study floor and opened for the first time since the massacre.
 - **The horn** - coiled brass, unornamented, asymmetrical, two mouthpieces, his smith-mark on it. Brass, which means it can be copied.
 - **The Crown of Seven Stars** - infernal work, cursed. Claimed by Valtrex as his own property, traded away, and now in [Gemma Corso's](/people/gemma-corso/) bag, unworn.
+- **Corn-made weapons** - many recovered in the hold, all +1 adamantine and stamped with his master seal. <small>(Oral Histories: The Inevitables, 2026-07-29)</small>
 
 ## The Answering Note
 
@@ -107,6 +111,10 @@ The [Korranberg Foundry](/places/the-korranberg-foundry/) was Deeptempura work l
 
 Corn and his daughter, both slaves, communicated in encoded messages and planned an uprising. In secret they forged a handheld horn meant to counteract or resist the bells. The resistance was discovered. Sedda was taken below into the dragon's water; Corn ended crowned on the dragon's hoard. The instrument of it survives: a **writ of warrant for the death** of a long list of names, opening with **Corn Deeptempura** and **Sedda Tiddes Deeptempura**, including the [Black Dove](/organizations/the-black-doves/) Sister Calvane, and ending with the foundry's own [Overseer Velen Marsk](/people/overseer-velen-marsk/), who signed to receive it. Kill everyone, then kill yourself. It is signed **KAIUS III**. The Trust's own unofficial tally puts the dead at roughly 97% of the dwarvish workforce, in what the paperwork calls "the accident."
 
+## The ghost
+
+In the foundry in [Korth Ep 8](/sessions/korth-ep-8-the-thirteenth-bell/) the Inevitables met Corn's ghost. Dave described it as "the ghost of a guy with a hammer in chains". It lamented that his daughter Sedda had been taken downstairs, begged the party to find her, and promised that if they did it would tell them everything and lead them to his Folio. Afterward the party did not tell [General Tso](/people/general-tso/) that they had seen the ghost of Corn. <small>(Oral Histories: The Inevitables, 2026-07-26)</small>
+
 ## Speak with dead
 
 Three years on, freed of the bell chained around his own neck, Valtrex leaned over the crowned corpse at the heart of his hoard and called it up:
@@ -118,6 +126,8 @@ The answer named the author of it, and it was not the Emperor whose signature is
 > The white queen. The queen of death. She is the one who did this to you, to us. All is lost.
 
 Asked how she could be destroyed, the dead king gave the dragon an instruction that has since been carried out on the Thirteenth Casting and on every small casting in the [Bladeworks](/places/the-bladeworks/): **"You must help them break the bells."**
+
+Because the party had helped his ghost, Corn gave them his blessing when he was raised. Freeing Valtrex had turned the dragon from hostile to indifferent; persuasion, the trade and "the endorsement of Corns ghost" <small>(sic)</small> then let him part with the hammer. <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 ## Right now
 

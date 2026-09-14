@@ -45,6 +45,8 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/wa/temple-of-the-closed-circle-landmark.txt
 - sources/site/biotec.txt
+- sources/dave/2026-09-14-inevitables-rulings-batch.md
+- "Oral Histories: The Inevitables, 2026-05-08"
 published: '2026-09-10'
 wa:
   slug: sharn-location
@@ -181,7 +183,7 @@ Their headquarters was the Veil Building, a brutalist arcane-tech monolith holdi
 
 ## The rising
 
-Over roughly two years a rebel network — the Nest, Fulcrum, R.U.S.T., the Silver Flame, the Underhive, the Hundreds — worked the city from beneath while three operatives worked it from inside. The Cogborn were evacuated through the Underhive to [Gorgonhorn](/places/gorgonhorn/). The Cog Collector was killed in [Circuit City](/places/circuit-city/). The trafficking network beneath [the Vault Underground](/places/the-vault-underground/) was destroyed.
+A rebel network — the Nest, Fulcrum, R.U.S.T., the Silver Flame, the Underhive, the Hundreds — worked the city from beneath while three operatives worked it from inside, over weeks of action. The three arrived a year after the Leef / Newham fighting and had been in Sharn nearly two weeks by Sharn Ep 16. <small>(Oral Histories: The Inevitables, 2026-05-08)</small> The Cogborn were evacuated through the Underhive to [Gorgonhorn](/places/gorgonhorn/). The Cog Collector was killed in [Circuit City](/places/circuit-city/). The trafficking network beneath [the Vault Underground](/places/the-vault-underground/) was destroyed.
 
 It ended on a balcony at the top of the Veil Building. A recovered memory of the night [Calcifer](/people/calcifer/) was born was broadcast across every screen in Sharn through the EBT-7; Esther Crona was killed; and with the last of her strength she voided the Iron Veil's pact and hurled her own airship, the **Black Veil**, into the colossal statue of [Uriel Qualanthri](/people/uriel-qualanthri/) above the Skyport. Pact longswords vanished from soldiers' hands across the whole city in the same instant. By morning Sharn was free, leaderless, wounded and very close to collapse.
 

@@ -41,6 +41,7 @@ sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/wa/esther-crona-person.txt
+- "Oral Histories: The Inevitables, 2026-01-02"
 published: '2026-09-10'
 wa:
   slug: 10b44e2f-0a89-4154-9774-c896451aafca
@@ -148,6 +149,12 @@ At the opening of POSÉ, Faith Zeir crossed the room to her sister and asked for
 > **Esther:** "She stays until YOUR husband and his slut brother increase supply."
 
 <small>Faith Zeir and Malrik Zeir are both dead. The supply they were being leaned on to increase was Umbra. In that exchange Eden was a hostage, held against her own sisters' production quota.</small>
+
+## The BioTec Addendum
+
+A restricted addendum to BioTec's internal research file on [Project E.D.E.N.](/organizations/project-e-d-e-n/), "Foundational Incidents & Prototype History", lists her as **Subject Zero: Eden**, designation EDN-00, status "Active (Unstable)". It calls her the first hybridization attempt, from before BioTec was formally involved, and says her resurrection set Project E.D.E.N. going. Knowledge of her is limited to Esther Crona, Dr. [Joanne Menka](/people/dr-joanne-menka/) and the Black Dove high clergy. <small>(Oral Histories: The Inevitables, 2026-01-02)</small>
+
+The addendum's pre-BioTec incident report, filed by [Sister Nora](/people/sister-nora/) as sealed testimony, is dated four years back and six months before BioTec Phase I, and places the incident at the unregistered wing of the Black Dove Hospital in Upper Sharn: "Catastrophic sternal trauma", "Complete cessation of vital signs", and Esther described as "hysterical, blood-covered, and begging." The outcome: "Eden revived." In Preacher's account she fell from the Grand Aqueduct's upper walkway onto the machinery below, and Esther took her body to Sister Nora.
 
 ## Personality Characteristics
 

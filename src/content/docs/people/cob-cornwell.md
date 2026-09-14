@@ -6,6 +6,7 @@ kind: people
 tags:
 - Cob Cornwell
 - Cobb Cornwell
+- Cob Crowell
 - Cornwell
 - Brimstone Oil
 - Breland
@@ -37,6 +38,8 @@ sources:
 - worldanvil/sources/site/key-figures.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2026-02-15"
+- "Oral Histories: The Inevitables, 2026-04-04"
 published: '2026-09-10'
 wa:
   slug: cob-cornwell-person
@@ -48,11 +51,11 @@ gallery:
   caption: 'A typed transcript of a letter to Edwin signed Dr. Joanne Menka: Cob Cornwell''s death has been categorized as accidental and his assets transferred, and Red Khyber output from the Mournlands is exceeding projections with shipments en route to Fort Crona.'
 ---
 
-**Species unrecorded · Brelish oilman and industrialist · Richest man in Khorvaire · Level Unknown · Status unrecorded — his estate passed to Edwin Graves, yet a message came in his name**
+**Species unrecorded · Brelish oilman and industrialist · Richest man in Khorvaire · Level Unknown · Dead — killed, his fortune left to BioTec; a message later came in his name**
 
 *Also known as:* **Cobb Cornwell**, the spelling used in the Sharn record.
 
-Cob Cornwell is a Brelish oilman and industrialist whose business extracting brimstone oil for the lightning rail and for industrial production has made him the richest man in Khorvaire. His estate passed to **Dr. Edwin Graves**, who held BioTec through shell companies and inherited assets, and who used that position to run the body-supply pipeline for **Project EDEN** out of his Circuit City chip parlour in Sharn's Lower City, abducting Cogborn labourers for over four years as the killer they called **the Cog Collector**; the Inevitables found the laboratory behind the shop and killed him there. Cornwell's face, age, household and politics are not described in any surviving source, and whether he is still living is not recorded. After Graves's death a ragged man approached [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) in the street in Sharn and told them Cobb Cornwell wanted to speak with them; they refused.
+Cob Cornwell is a Brelish oilman and industrialist whose business extracting brimstone oil for the lightning rail and for industrial production has made him the richest man in Khorvaire. His estate passed to **Dr. Edwin Graves**, who held BioTec through shell companies and inherited assets, and who used that position to run the body-supply pipeline for **Project EDEN** out of his Circuit City chip parlour in Sharn's Lower City, abducting Cogborn labourers for over four years as the killer they called **the Cog Collector**; the Inevitables found the laboratory behind the shop and killed him there. Cornwell's face, age, household and politics are not described in any surviving source. He was killed, leaving his fortune to BioTec. <small>(Oral Histories: The Inevitables, 2026-04-04)</small> After Graves's death a ragged man approached [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) in the street in Sharn and told them Cobb Cornwell wanted to speak with them; they refused.
 
 ## The trade
 
@@ -69,6 +72,10 @@ Breland, and brimstone. His birth, his family and how he came into the extractio
 Cornwell's consequence runs through his estate. **Dr. Edwin Graves** was the secret owner of BioTec, controlling the corporation through shell companies and inherited assets — **including the estate of Cob Cornwell**. From that position Graves directed the body-supply pipeline for **Project EDEN**, using his Circuit City chip parlour in the Lower City as the entry point to a hidden laboratory. For over four years he abducted **Cogborn** labourers, experimented on them, harvested their organs and shipped their altered bodies to the Black Dove hospital in the Upper City. The Cogborn called the killer they could not identify **the Cog Collector**.
 
 Graves is dead — the Inevitables found the laboratory behind the shop, with its cage of abducted Cogborn, its medical tables and its corpse-delivery system, and killed him there. Whether Cornwell knew what his fortune would become is not recorded.
+
+## Death
+
+Cob Cornwell was dead by the time of the Sharn arc. <small>(Oral Histories: The Inevitables, 2026-02-15)</small> Graves, already wealthy, came into more wealth when Cornwell was killed and left his fortune to BioTec. <small>(Oral Histories: The Inevitables, 2026-04-04)</small> A letter to Edwin signed by Dr. Joanne Menka states that Cornwell's death has been categorized as accidental and his assets transferred.
 
 ## The man at the safehouse door
 

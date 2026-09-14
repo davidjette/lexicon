@@ -52,6 +52,16 @@ sources:
 - session-2026-08-28-summary-nichole-style.md
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2025-06-07"
+- "Oral Histories: The Inevitables, 2025-09-27"
+- "Oral Histories: The Inevitables, 2026-03-31"
+- "Oral Histories: The Inevitables, 2026-05-09"
+- "Oral Histories: The Inevitables, 2026-06-06"
+- "Oral Histories: The Inevitables, 2026-06-13"
+- "Oral Histories: The Inevitables, 2026-06-19"
+- "Oral Histories: The Inevitables, 2026-07-06"
+- "Oral Histories: The Inevitables, 2026-07-07"
+- "Oral Histories: The Inevitables, 2026-07-15"
 published: '2026-09-10'
 wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
@@ -91,7 +101,7 @@ gallery:
 
 *Also known as:* **Foxtale** (NEST codename; filed once as *Foxtail* in a recovered BioTec document) · **Deirdre Moro**, also written *Deedra Mora* (Korth cover, taken off a corpse) · **Hermione Granger** (on the books of the Zilspar Farm-Table Co-op) · one of the **Heroes of Leef**
 
-Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Croso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She is now in Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it.
+Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Corso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She is now in Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it.
 
 A tiefling in fey-crafted armour — the plates reworked by her patron after a dream-audience, the interior now lined in velvet to match the pewter heart-box she was given in the same dream. She goes armed with **Bright Dawn**, a sword that was once red Khyber and is now clear crystal. More often than not she is wearing a face that is not hers: a high-elf acolyte's for eleven days in Korth, a dead Star Advocate's for the last several weeks. Her hair is red <small>(the Sharn News Network broadcast that named "a red-haired tiefling" among the three suspects)</small>. Height, horns and tail are **Unknown**; no source describes them.
 
@@ -99,23 +109,31 @@ A tiefling in fey-crafted armour — the plates reworked by her patron after a d
 
 **In public** Gemma is whoever the assignment requires and nobody remembers her afterwards. In Korth she is Star Advocate Deirdre Moro of the Ministry of Law, a woman feared for winning, whose credentials open nearly any Imperial facility and whose delivery of a capital indictment drew admiring looks from eight judges of the High Court. Before that she was a lay penitent of the Host seeking work in the mercy-kitchens of a Black Dove cloister, grief rehearsed and correct. On the Zilspar co-op's payroll she is a farm hand called Hermione Granger. **In private** she is the party member who does the arithmetic nobody else wants to see written down. She killed Deirdre Moro, Deirdre's paralegal, a tarot-reading woman, a dog and a guard in one evening to secure a safehouse and a set of papers, and she has never once argued that this was anything other than what it was. She keeps her patron's terms secret from her own friends. She has told Eric to his face that she will kill him in his sleep if he goes near another bell.
 
-Gemma is a spy first, a duellist second and a bureaucrat third — she has taken three levels of Fighter as a Battlemaster and now fights with Riposte, Parry and Trip Attack alongside eldritch blast and misty step. She works with [Zero of Sharn](/people/zero-of-sharn/), Jessica Grimpledink, Izaak, and the Fulcrum leadership at Zilspar. Her heirloom is a debt: her adoptive father, Jane Croso, is dead, and his pact passed to her when he died.
+Gemma is a spy first, a duellist second and a bureaucrat third — she has taken three levels of Fighter as a Battlemaster and now fights with Riposte, Parry and Trip Attack alongside eldritch blast and misty step. She works with [Zero of Sharn](/people/zero-of-sharn/), Jessica Grimpledink, Izaak, and the Fulcrum leadership at Zilspar. Her heirloom is a debt: her adoptive father, Jane Corso, is dead, and his pact passed to her when he died.
 
-**The secret:** the pact was never hers. Jane Croso bargained with the archfey Kitsune for freedom and power and promised in exchange to deliver **the heart of Emperor Kaius III**. On his death the debt transferred to Gemma, along with a velvet-lined pewter box built to carry a heart in. Kitsune told her this himself in a fey-dream on the road to Korth. She has told no one — not Eric, not Dario, not the Nest.
+**The secret:** the pact was never hers. Jane Corso bargained with the archfey Kitsune for freedom and power and promised in exchange to deliver **the heart of Emperor Kaius III**. On his death the debt transferred to Gemma, along with a velvet-lined pewter box built to carry a heart in. Kitsune told her this himself in a fey-dream on the road to Korth. She has told no one — not Eric, not Dario, not the Nest.
+
+Kitsune later told her, in Dave's words, to "think less literally about what is the heart of the emperor". <small>(Oral Histories: The Inevitables, 2026-07-15)</small>
 
 She believes that a person can be studied until they can be worn, and that this is a skill and not a sin. She believes that anything left in one piece will be raised by [Uriel Qualanthri](/people/uriel-qualanthri/) and used against her, and so she burns it. She believes Eric is being driven by something that does not have Sharn's interests at heart, and that when the moment comes it will fall to her to stop him.
 
 **On the job** Gemma runs long. Eleven days inside a Black Dove cloister with its dawn washing-liturgy. Months on a single Ministry advocate before laying a hand on her. She flags her own weak sourcing in writing — *"What follows is eyes-on or first-voice; I flag anything weaker"* — and she cross-walks her own claims against gate logs and other people's files before she reports them. In the field she burns every face she leaves behind, executes stragglers before dawn without witnesses, and keeps fifty flasks of lamp oil in the bag of holding for exactly that purpose.
 
-**Origin.** Her adoptive father was an old man named **Jane Croso** <small>(the Korth record is the only source that names him)</small>, who had bargained with the archfey Kitsune for freedom and power; when Jane died, the pact passed to her. Nothing else of her early life is on the player-facing record. Years later, in the desert rail-town of Leef, she met Dario and Eric; the three of them broke Grand Duke John C. LeBeefe's hold on the east, were named the Heroes of Leef, and then went west to Newham and killed him — at the cost of the city itself, which collapsed into the New Mourning. From there the three of them were sent into Sharn to steal a prototype called the Ghost Chip, and never came back out of the war.
+**Origin.** Her adoptive father was an old man named **Jane Corso** <small>(also written Croso)</small>, who had bargained with the archfey Kitsune for freedom and power; when Jane died, the pact passed to her. By Nico's account Jane was a soldier in the Last War, which is how he knew the Colonel, and he met Kitsune during that war. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small> Gemma grew up in Newham, working at Jane's junkyard; he taught her to cast magic as a child, pulling a sword from thin air among it, and called her his little fox. She left Newham years ago to travel and wander, and came back to Newham and to him after escaping an arrest "for walking down the street". <small>(Oral Histories: The Inevitables, 2025-06-07; 2026-07-06)</small> By Nico's account she also left owed money behind: "The vampires at Club Mawniq owe me money" / "Gemma skipped town and never got her last paycheck". <small>(Oral Histories: The Inevitables, 2025-09-27)</small> Years later, in the desert rail-town of Leef, she met Dario and Eric; the three of them broke Grand Duke John C. LeBeefe's hold on the east, were named the Heroes of Leef, and then went west to Newham and killed him — at the cost of the city itself, which collapsed into the New Mourning. From there the three of them were sent into Sharn to steal a prototype called the Ghost Chip, and never came back out of the war.
+
+Jane was killed during [the fighting in Leef and Newham](/history/the-leef-newham-arc/). Kitsune, who has shown himself to Gemma as a fox, a male human magician and a small fox-humanoid, never really showed himself to her until after Jane died. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small>
 
 ## The teleportation chip
+
+Gemma found the chip on [Cob Cornwell](/people/cob-cornwell/) during her secret mission for the rebellion in the year before Sharn, labelled as a gift from Hallorn to Faith. It worked as a Helm of Teleportation, and it moved the party around Sharn. <small>(Oral Histories: The Inevitables, 2026-05-09)</small>
 
 A chip Gemma believed was hers had been commissioned from BioTec by [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) as a gift for [Faith](/people/faith/) Zeir, and it had been pinging its position the entire time she carried it. Hallorn tracked it to the safehouse door and told her to her face that it was never truly hers. Children of Ember cultists tore it out of her in the street the same night. At the Vault Underground she was chained and dragged to a rooftop; on the night [Esther Crona](/people/esther-crona/) died she stood on the penthouse balcony unchained and terrified while the allied fleets filled the sky. She has been extremely hard to find ever since.
 
 ## Foxtale
 
 In the three years after Sharn fell, Gemma went deep. Under the NEST codename **Foxtale** she located two more of the Fantanya Nyel — one hanging in a [Black Dove](/organizations/the-black-doves/) church in Korth, one hidden in a Lower City church in Sharn. She spent eleven days inside the Korth cloister disguised as a high-elf acolyte, sat through the dawn washing-liturgy, and reported the thing that has governed every plan since: the metal is warm, in a Korth winter, at dawn.
+
+Her exploits in those three years earned her "a legendary status among the wider Nest organization". Her missions ran from a barista's cover to impersonating a bureaucrat, to acting as patron of a fashion designer, to going undercover in a Black Dove convent. <small>(Oral Histories: The Inevitables, 2026-06-06; 2026-06-13)</small>
 
 She came out of it with a friendship. **Sister Maelis Dorn**, Sister-Inquisitor of the house, led a veiling on Gemma's ninth day and recited the forbidden litany in front of the choir of witnesses — *come the night / the bells will toll / thirteen / the dead will rise / to serve the living / and the dragon / will be reborn*. The novices treat it as poetry. Dorn counts the thirteen off on her fingers. Gemma's own written assessment closes on the sentence that the Nest has been acting on ever since: the bell is not waiting patiently, the bell is rehearsing.
 
@@ -136,6 +154,8 @@ Then she set the advocate's role down and testified as **kin** — the one looph
 Bantide read the whole thing as a performance staged to win her trust, and identified the flaw precisely: the real Deirdre had to win above everything and would never have failed unless something else were happening. Eric broke the impasse. Gemma's last act in that cell was to tell her outright that she was not her sister, and to watch her face move from vindication to grief.
 
 ## Habits
+
+In Sharn, by Nico's account, "Gemma is willing to donate her money to the cogborn". <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
 
 Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never raise it. She refused to eat the Mournland pomegranate and took one for study instead. She taught the fanfare of dawn to strangers in a saki bar the night before flying to Zilspar, and they told her the new sad song was going around and everything was getting morose.
 
@@ -170,6 +190,7 @@ Gemma is aboard a river boat to the Summer Palace wearing a dead woman's face an
 - **The pewter heart-box** — velvet-lined, given by her patron, sized for a heart. Empty.
 - **King Corn's horn** — coiled brass, King Corn's smith-mark on it, recovered from under a secret panel beneath the rug in his study. She can play the fanfare of dawn on it.
 - **Deirdre Moro's credentials and face** — Ministry of Law, Star Advocate, clearance to the Ivory Lazaret. Condition: intact, and now overdue at the Grand Lodge.
+- **Boots of speed**, bought from "the wizard in Newham", and **gauntlets of ogre power**, from her bastion — both lent to Lorian. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
 - A wand of magic missile built at cost by Doppler Klink · fifty flasks of lamp oil · one last dose of a potion of lesser polymorph (mouse only), taken off an orc scout · a bone scroll-case.
 
 **Wearing the Dead:** Gemma's signature working is a discipline — she studies a target until she can hold their voice under an Insight check, kills them, and then goes on being them. She has done it to a Black Dove novice's grief, to Star Advocate Deirdre Moro and her paralegal, and — for one morning in a Boldrei temple in Sharn's lower city — to Chancellor Eric himself, wearing his face and his voice to promise a frightened crowd that nothing would be harmed. Dario then brought the tower down through the floor. She now has proficiency in Performance and in the horn, which gives her advantage on the performance of an impersonation.
@@ -212,7 +233,7 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 **Contacts & Relations**
 
 - **Kitsune** — her archfey patron, seen in dreams reclining on a chaise in a white toga. Holds the debt her father contracted. Counsel is sparing and he is under standing warning that he has to lie. Active.
-- **Jane Croso** — her adoptive father, who held the pact with Kitsune before her. Dead; the pact passed to her.
+- **Jane Corso** (also written Croso) — her adoptive father, a Last War soldier, who held the pact with Kitsune before her and raised her at his junkyard in Newham. Killed during the fighting in Leef and Newham; the pact passed to her.
 - **Sir Dario Argentino** and **Eric the Cleric** — met in Leef, and everything since. Alive; both aboard the boat.
 - **Sister Maelis Dorn** — Sister-Inquisitor of the Korth Black Dove house, befriended under cover, gave her the litany. Whereabouts unknown; she sealed the Korranberg shrine.
 - **Bantide Moro** — the Nightingale, sister of the woman whose face Gemma wears. Alive, hidden in the Korth apartment, officially recorded as a suicide in custody.

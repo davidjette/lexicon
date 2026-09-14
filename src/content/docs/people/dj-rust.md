@@ -37,6 +37,7 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/home.txt
 - worldanvil/images/rebel-factions/13.jpg
+- "Oral Histories: The Inevitables, 2026-04-04"
 published: '2026-09-10'
 wa:
   slug: dj-rust-person
@@ -56,7 +57,7 @@ gallery:
 
 **DJ Rust** is a charismatic Lower City performer of Sharn and a courier for [R.U.S.T.](/organizations/r-u-s-t/), whose music career doubles as cover for his work within the city's underground networks. Born to a Cogborn family in the Cogs but raised in the Lantern District, he moves easily between both worlds, giving him access to communities the Empire rarely sees coming; his crowded shows in taverns and street venues allow him to pass coded messages, schedule covert handoffs and move information without attracting Imperial attention.
 
-Long before the Iron Veil's occupation intensified he was already a familiar presence at Cogborn gatherings and vigils, and he was the first to recognise that [Renn Tal](/people/renn-tal/)'s research into Dhakaani tunnels and the Eternal Guardian ritual could be helpful to the Cogborn. He brought her into the Lower City network and saw that she reached people who could protect her; through him she met [Misty Kross](/people/misty-kross/) and eventually [Preacher](/people/preacher/). Within R.U.S.T. he serves as a trusted courier and cultural anchor, coordinating with the Kross family, guiding newcomers through the Lower City, and using his performances to mask the movement of Cogborn families toward hidden tunnel entrances.
+Long before the Iron Veil's occupation intensified he was already a familiar presence at Cogborn gatherings and vigils, and he was the first to recognise that [Renn Tal](/people/renn-tal/)'s research into [Dhakaani](/history/the-dhakaani-empire/) tunnels and the Eternal Guardian ritual could be helpful to the Cogborn. He brought her into the Lower City network and saw that she reached people who could protect her; through him she met [Misty Kross](/people/misty-kross/) and eventually [Preacher](/people/preacher/). Within R.U.S.T. he serves as a trusted courier and cultural anchor, coordinating with the Kross family, guiding newcomers through the Lower City, and using his performances to mask the movement of Cogborn families toward hidden tunnel entrances.
 
 ## Physical description
 
@@ -73,6 +74,10 @@ He works closest with Misty and [Kriss Kross](/people/kriss-kross/), answers to 
 Renn Tal came down out of the Sharn Library asking Cogborn elders about Dhakaani tunnels and sewer-line schematics, and every instinct in the Lower City said Imperial informant. DJ Rust decided she was not a spy but a woman wandering into danger, and brought her into the network instead of letting her disappear. Through him she met Misty; through Misty she reached Preacher; through Preacher the rebellion found the Forge of Binding. When she needed to reach the party after the library she did not give them an address — she told them to find DJ Rust at Breaker's Pit. He was there, he collected them after the bout, and he walked them into the network.
 
 > "He recognized she was not a spy but a scholar wandering into danger."
+
+## The message
+
+After the fall of [Circuit City](/places/circuit-city/), with the public still unaware of what BioTec had been doing, the party looked for a way to expose it. DJ Rust had been rapping with an anti-fascist message and was still in the Lower City, where many people feel for the Cogborn and oppose the Iron Veil but do not say or do anything about it. Nico: "DJ rust can ge the message out" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-04-04)</small>
 
 ## Right now
 

@@ -39,6 +39,7 @@ sources:
 - sources/site/children-of-ember.txt
 - sources/site/sharn-episode-summaries.txt
 - worldanvil/CANON.md
+- "Oral Histories: The Inevitables, 2025-08-31"
 published: '2026-09-10'
 wa:
   slug: 05f12119-f896-4827-bf26-c5b83b74dcf5
@@ -107,7 +108,7 @@ They showed it. [Dario](/people/sir-dario-argentino/) played it from the EBT-7 o
 
 **Items:** none recorded. The most valuable object associated with him is a memory taken out of another man's head.
 
-**The Mark:** whatever Uriel Qualanthri did to him in his first minute is not understood by anyone living. It killed him briefly and then let him go. It left a visible sign the Empress's own cult read as prophecy. The Empress has fourteen daughters by the Emperor and no son, and the rebellion's working theory is that she is waiting on an heir.
+**The Mark:** whatever Uriel Qualanthri did to him in his first minute is not understood by anyone living. It killed him briefly and then let him go. It left a visible sign the Empress's own cult read as prophecy. The Empress has fourteen daughters by the Emperor and no son, and the rebellion's working theory is that she is waiting on an heir. Asked what the Empress would do about a messiah Esther might already have borne, Dave answered: "Kill it". <small>(Oral Histories: The Inevitables, 2025-08-31)</small>
 
 **Personality Characteristics**
 
