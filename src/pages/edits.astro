@@ -1,0 +1,118 @@
+---
+// Every change to the articles, newest first, read from the git history at build time.
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { editHistory } from '../lib/home';
+
+const REPO = 'https://github.com/davidjette/lexicon';
+const SHOWN = 12; // articles listed before the rest fold away
+
+const edits = await editHistory();
+const monthName = (ym: string) => new Date(`${ym}-15T12:00:00Z`).toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+const months: { key: string; label: string; edits: typeof edits }[] = [];
+for (const e of edits) {
+	const key = e.date.slice(0, 7);
+	let m = months.at(-1);
+	if (!m || m.key !== key) months.push((m = { key, label: monthName(key), edits: [] }));
+	m.edits.push(e);
+}
+const plural = (n: number, one: string, many = one + 's') => `${n} ${n === 1 ? one : many}`;
+---
+
+<StarlightPage frontmatter={{ title: 'All Edits', description: 'Every change to the Lexicon, newest first.', tableOfContents: false, pagefind: false }}>
+	<p>{plural(edits.length, 'edit')} to the articles, newest first. Each links to its full change on GitHub.</p>
+	{months.length > 1 && (
+		<nav class="ed-months" aria-label="Months">
+			{months.map((m) => <a href={`#m-${m.key}`}>{m.label} <span>{m.edits.length}</span></a>)}
+		</nav>
+	)}
+	{
+		months.map((m) => (
+			<section id={`m-${m.key}`}>
+				<h2>{m.label}</h2>
+				<ol class="ed-list">
+					{m.edits.map((e) => (
+						<li>
+							<p class="ed-head">
+								<a href={`${REPO}/commit/${e.sha}`}>{e.subject}</a>
+								<span>
+									{e.date} · {e.author} · {plural(e.articles.length + e.other, 'article')}
+								</span>
+							</p>
+							{e.articles.length > 0 && (
+								<p class="ed-articles">
+									{e.articles.slice(0, SHOWN).map((a, i) => (
+										<>
+											{i > 0 && ', '}
+											<a href={a.url}>{a.title}</a>
+										</>
+									))}
+									{e.other > 0 && e.articles.length <= SHOWN && <span>, and {plural(e.other, 'sealed, removed or renamed file')}</span>}
+								</p>
+							)}
+							{e.articles.length > SHOWN && (
+								<details class="ed-more">
+									<summary>and {e.articles.length - SHOWN + e.other} more</summary>
+									<p class="ed-articles">
+										{e.articles.slice(SHOWN).map((a, i) => (
+											<>
+												{i > 0 && ', '}
+												<a href={a.url}>{a.title}</a>
+											</>
+										))}
+										{e.other > 0 && <span>, and {plural(e.other, 'sealed, removed or renamed file')}</span>}
+									</p>
+								</details>
+							)}
+							{e.articles.length === 0 && e.other > 0 && <p class="ed-articles"><span>{plural(e.other, 'sealed, removed or renamed file')}</span></p>}
+						</li>
+					))}
+				</ol>
+			</section>
+		))
+	}
+</StarlightPage>
+
+<style>
+	.ed-months {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.4rem 1rem;
+		font-size: var(--sl-text-sm);
+	}
+	.ed-months span {
+		color: var(--sl-color-gray-3);
+	}
+	.ed-list {
+		list-style: none;
+		padding: 0;
+	}
+	.ed-list li {
+		margin: 0 0 1.1rem;
+		padding: 0 0 1rem;
+		border-bottom: 1px solid var(--sl-color-hairline);
+	}
+	.ed-head {
+		margin: 0;
+	}
+	.ed-head a {
+		font-weight: 600;
+	}
+	.ed-head span {
+		display: block;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+	.ed-articles {
+		margin: 0.35rem 0 0;
+		font-size: var(--sl-text-sm);
+	}
+	.ed-articles span {
+		color: var(--sl-color-gray-3);
+	}
+	.ed-more summary {
+		cursor: pointer;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+		margin-top: 0.35rem;
+	}
+</style>

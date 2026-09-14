@@ -97,6 +97,7 @@ const mapPicks = [0, 1, 2, 3].map((i) => MAPS[(dayIndex(today, MAPS.length) + i 
 					))
 				}
 			</ul>
+			<p class="lx-more"><a href={withBase('/edits/')}>All edits →</a></p>
 		</section>
 	</div>
 
@@ -314,6 +315,10 @@ const mapPicks = [0, 1, 2, 3].map((i) => MAPS[(dayIndex(today, MAPS.length) + i 
 		display: block;
 		font-size: var(--sl-text-sm);
 		color: var(--sl-color-gray-3);
+	}
+	.lx-more {
+		margin: 0.2rem 0 0;
+		font-size: var(--sl-text-sm);
 	}
 	.lx-maps {
 		list-style: none;

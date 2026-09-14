@@ -96,27 +96,57 @@ export async function latestSessions(n = 4) {
 		.map((e) => ({ title: e.data.title, url: href(e), lead: clip(lead(e.body ?? ''), 180) }));
 }
 
-/** Articles most recently changed in git, newest first, with who changed them. */
-export async function recentlyUpdated(n = 8) {
+export type Edit = {
+	sha: string;
+	date: string;
+	author: string;
+	subject: string;
+	/** Articles the commit touched that still exist and are not sealed. */
+	articles: { title: string; url: string }[];
+	/** Files it touched that are sealed, removed or renamed since. */
+	other: number;
+};
+
+/** Every commit that touched an article, newest first. `limit` caps how many commits are read. */
+export async function editHistory(limit?: number): Promise<Edit[]> {
 	const all = await getArticles();
 	const byPath = new Map<string, Doc>(all.filter((e) => !e.data.redacted).map((e) => [`src/content/docs/${e.id}.md`, e]));
 	let log = '';
 	try {
-		log = execFileSync('git', ['log', '--format=@@%aI|%an|%s', '--name-only', '-n', '300', '--', 'src/content/docs'], { encoding: 'utf8' });
+		const args = ['log', '--format=@@%H|%aI|%an|%s', '--name-only', ...(limit ? ['-n', String(limit)] : []), '--', 'src/content/docs'];
+		log = execFileSync('git', args, { encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 });
 	} catch {
 		return [];
 	}
+	return log
+		.split('@@')
+		.slice(1)
+		.map((commit) => {
+			const [head, ...files] = commit.split('\n').map((l) => l.trim()).filter(Boolean);
+			const [sha, date, author, ...subject] = head.split('|');
+			const docs = files.filter((f) => f.startsWith('src/content/docs/'));
+			const found = docs.map((f) => byPath.get(f)).filter((e): e is Doc => !!e);
+			return {
+				sha,
+				date: date.slice(0, 10),
+				author,
+				subject: subject.join('|'),
+				articles: found.map((e) => ({ title: e.data.title, url: href(e) })),
+				other: docs.length - found.length,
+			};
+		});
+}
+
+/** Articles most recently changed in git, newest first, with who changed them. */
+export async function recentlyUpdated(n = 8) {
 	const out: { title: string; url: string; date: string; author: string }[] = [];
 	const seen = new Set<string>();
-	for (const commit of log.split('@@').slice(1)) {
-		const [head, ...files] = commit.split('\n').map((l) => l.trim()).filter(Boolean);
-		if (files.length > 15) continue; // bulk maintenance (imports, reformatting), not an edit to an article
-		const [date, author] = head.split('|');
-		for (const file of files) {
-			const e = byPath.get(file);
-			if (!e || seen.has(e.id)) continue;
-			seen.add(e.id);
-			out.push({ title: e.data.title, url: href(e), date: date.slice(0, 10), author });
+	for (const edit of await editHistory(300)) {
+		if (edit.articles.length + edit.other > 15) continue; // bulk maintenance (imports, reformatting), not an edit to an article
+		for (const a of edit.articles) {
+			if (seen.has(a.url)) continue;
+			seen.add(a.url);
+			out.push({ ...a, date: edit.date, author: edit.author });
 			if (out.length === n) return out;
 		}
 	}
