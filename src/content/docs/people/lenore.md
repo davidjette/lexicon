@@ -78,3 +78,5 @@ She had been shot from behind outside the inn by a rogue who mistook her for som
 ## Right now
 
 In the dark of the maze beneath the fort, fitting on the slinky black leather armour Heyu saved from a defeated foe — still in her glasses and black bob — when three bodies fall onto the dome above her: [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and Barold, hanged at dawn.
+
+![Lenore candle.png](/images/uploads/lenore-candle-mu0x8b4n.webp)
