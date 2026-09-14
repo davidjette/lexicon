@@ -1,32 +1,34 @@
 ---
 title: The Arcane Eye Network (ArcEyes)
 description: 'The Empire''s citywide surveillance grid over Sharn: drifting scrying eyes on every major street, every feed permanently recorded and archived.'
+tags:
+  - ArcEye
+  - ArcEyes
+  - Arcane Eye
+  - Arcane Eye Security Network
+  - Arcane Eye network
+  - surveillance
+  - Iron Veil
+  - Veil Building
+  - Hillary Heinrick
+  - Sharn Library
+  - ArcEye Crystallizer
+  - Ghost Chip
+image:
+  src: /images/uploads/the-arcane-eye-network-arceyes-mu0t5gz4.webp
 type: technology
 kind: items
-tags:
-- ArcEye
-- ArcEyes
-- Arcane Eye
-- Arcane Eye Security Network
-- Arcane Eye network
-- surveillance
-- Iron Veil
-- Veil Building
-- Hillary Heinrick
-- Sharn Library
-- ArcEye Crystallizer
-- Ghost Chip
 icon: fa-eye
 fields:
   type: Imperial surveillance infrastructure
   alternativename: ArcEyes
 sources:
-- worldanvil/sources/site/home.txt
-- worldanvil/sources/site/ebt-7.txt
-- worldanvil/sources/site/biotec.txt
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/key-figures.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/home.txt
+  - worldanvil/sources/site/ebt-7.txt
+  - worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/key-figures.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-arcane-eye-network-28arceyes29-technology
