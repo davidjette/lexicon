@@ -70,3 +70,5 @@ Blair led them through the escape passage and back into the [Underhive](/organiz
 ## Consequences
 
 The Forge went dark and Esther took the ground the trio had just vacated — the moment she later described to Richard as a veil lifting. Blair's Underhive had been breached by the Iron Veil for the first time, leaving her a prisoner to interrogate and a grievance to act on.
+
+![Mindflayer - Gemma - Eric - Dario.png](/images/uploads/mindflayer-gemma-eric-dario-mu0zictt.webp)
