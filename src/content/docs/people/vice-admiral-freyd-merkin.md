@@ -1,21 +1,23 @@
 ---
 title: Vice Admiral Freyd Merkin
 description: Deirdre Moro's handler at the Ministry of Law, who tested his star prosecutor with her own sister's death warrant - and lost.
+tags:
+  - Freyd Merkin
+  - Vice Admiral Merkin
+  - Merkin
+  - Ministry of Law
+  - Korth
+  - Deirdre Moro
+  - Deedra Mora
+  - Bantide Moro
+  - Nightingale
+  - Star Advocate
+  - Grand Lodge
+  - Summer Palace
+image:
+  src: /images/uploads/vice-admiral-freyd-merkin-mu0n7iw0.webp
 type: person
 kind: people
-tags:
-- Freyd Merkin
-- Vice Admiral Merkin
-- Merkin
-- Ministry of Law
-- Korth
-- Deirdre Moro
-- Deedra Mora
-- Bantide Moro
-- Nightingale
-- Star Advocate
-- Grand Lodge
-- Summer Palace
 icon: fa-scale-balanced
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- npcs-korth.md
-- korth.md
-- session-2026-09-04-summary.md
-- worldanvil/CANON.md
+  - sources/site/korth-episode-summaries.txt
+  - npcs-korth.md
+  - korth.md
+  - session-2026-09-04-summary.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: vice-admiral-freyd-merkin-person
