@@ -1,20 +1,22 @@
 ---
 title: General Tso
 description: Brother of the matriarch and the Teryaki's field commander, clearing a haunted foundry one room a day so that his cousins can be buried properly.
+tags:
+  - General Tso
+  - Tso
+  - Teryaki
+  - Madame Tso Teryaki
+  - Deeptempura
+  - Rak'tafur
+  - Korranberg Foundry
+  - speak with dead
+  - Scallion Pancake
+  - Hetta
+  - Egg Roll
+image:
+  src: /images/uploads/general-tso-mu0if0w0.webp
 type: person
 kind: people
-tags:
-- General Tso
-- Tso
-- Teryaki
-- Madame Tso Teryaki
-- Deeptempura
-- Rak'tafur
-- Korranberg Foundry
-- speak with dead
-- Scallion Pancake
-- Hetta
-- Egg Roll
 icon: fa-user-shield
 fields:
   rpgAlignment: Unknown
@@ -31,9 +33,9 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: general-tso-person
