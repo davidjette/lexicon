@@ -15,6 +15,8 @@ tags:
 - SSJ Zanzibar
 - Starfall
 - Light of Xaryxis
+- Lexical Scroller
+- The Starsong Awakens
 icon: fa-scroll
 fields:
   type: Wondrous device, standard issue
@@ -37,6 +39,7 @@ sources:
 - Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
 - Desktop/D&D/Starfall TNG/sydiot_85807344.pdf
 - Desktop/D&D/Starfall TNG/sydiot_85076692.pdf
+- "The Starsong Awakens site (JL Byrd): New magic items"
 ---
 
 **Standard-issue device · Astral Command · Charged scroll-preparer · Communicator and tricorder**
@@ -61,3 +64,7 @@ In January 2023 Dave changed the Scroller to work like scrolls: an expanded spel
 - **[Carlos Vega](/people/carlos-vega/) and [Hyperion Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/):** each carries a Scroller. <small>(character sheets)</small>
 
 In November 2023 the Voodoo Boys operated on Nico's character and fitted a cyberdeck implant. Dave ruled that the cyberdeck can replace the scroller, since it is a scroller in the head. <small>(Oral Histories: The Inevitables, 2023-11-18)</small>
+
+## The Lexical Scroller
+
+In *[The Starsong Awakens](/history/the-starsong-awakens/)* the **Lexical Scroller** is a device that requires attunement. Lexical Scrollers are illegal, and broken and malfunctioning scrollers are commonly sold by disreputable vendors. An attuned user can cast one of *sending*, *pass without trace*, *rope trick*, *dimension door* or *scrying* per long rest. <small>(The Starsong Awakens site, New magic items)</small>

@@ -23,6 +23,14 @@ tags:
 - the Sphinx Tomb
 - Necis
 - the Company
+- Company dossier
+- Battle of Tannhauser Gate
+- T.U.N.E.
+- Red Eye Manifesto
+- Esper
+- LDR-N
+- RN-HRT
+- Mace of Elistraee
 - Spelljammer
 icon: fa-rocket
 fields:
@@ -81,7 +89,24 @@ sources:
 - 'Oral Histories: The Inevitables, 2025-04-07'
 - 'Oral Histories: The Inevitables, 2025-05-18'
 - 'Oral Histories: The Inevitables, 2025-05-23'
+- 'The Starsong Awakens site (JL Byrd): Home'
+- 'The Starsong Awakens site (JL Byrd): New allies'
+- 'The Starsong Awakens site (JL Byrd): Company dossier'
+- 'The Starsong Awakens site (JL Byrd): New robots'
+- 'The Starsong Awakens site (JL Byrd): Red Eye Manifesto'
+- 'The Starsong Awakens site (JL Byrd): The Rock of Bral'
+- 'The Starsong Awakens site (JL Byrd): New ships'
+- 'The Starsong Awakens site (JL Byrd): New playable race'
+- 'The Starsong Awakens site (JL Byrd): New backgrounds'
+- 'The Starsong Awakens site (JL Byrd): New magic items'
 published: '2026-09-14'
+gallery:
+- src: /images/starsong/ldr-n.webp
+  alt: "LDR-N"
+  caption: "LDR-N (Eldrin), one of the new allies"
+- src: /images/starsong/rn-hrt.webp
+  alt: "RN-HRT"
+  caption: "RN-HRT (Ironheart), one of the new allies"
 ---
 
 **Campaign arc · [Starfall](/lore/starfall-the-next-generation/) · DM JL · 2024–2025 · Fifteen years after *Light of Xaryxis***
@@ -94,7 +119,7 @@ published: '2026-09-14'
 
 JL proposed the sequel on 1 June 2024, the day after the finale of *Light of Xaryxis*, under the working title *Spelljammer: The Motion Picture (The Starsong Awakens)*. It is set fifteen years later; Caprica is long dead, and a call to action comes from Barrias's sister with a dire warning. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
-A year after the Battle of Tannhauser Gate the Starweaver Act, named for Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), was passed in the Sovereignty, outlawing all artificial intelligence, warforged and autognomes included. It led to a devastating and violent purge of robotic creatures and a thriving illicit market in robots. Astral Command has virtually replaced the Lexicon with [Hyperion](/lore/hyperion/), and the Company is most likely pursuing replacements, possibly illegal, at dark sites outside the Sovereignty. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Dave called the Act a predictable outcome of the Lexicon turning on humanity. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+A year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) the Starweaver Act, named for Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), was passed in the Sovereignty, outlawing all artificial intelligence, warforged and autognomes included. It led to a devastating and violent purge of robotic creatures and a thriving illicit market in robots. Astral Command has virtually replaced the Lexicon with [Hyperion](/lore/hyperion/), and the Company is most likely pursuing replacements, possibly illegal, at dark sites outside the Sovereignty. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Dave called the Act a predictable outcome of the Lexicon turning on humanity. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 
 The Sovereignty is in a cold war with the Vodoni Empire, the monsters of the second-edition adventure *Under the Dark Fist*, and wants to make them the scapegoat for the awakened Starsong. The Company, knowing that would disrupt trade, wants to resurrect Caprica to find the true source of [the Starsong](/lore/the-starsong/). <small>(Oral Histories: The Inevitables, 2024-06-12)</small> Barrias's sister, [Halle Barrias](/people/halle-barrias/), works for [the Company](/organizations/nimbus-corp/) and gives the crew a Company dossier. <small>(Oral Histories: The Inevitables, 2024-01-21; 2024-06-11)</small>
 
@@ -149,6 +174,79 @@ On 4 April the crew reached the Sphinx Tomb, whose doors open onto other times; 
 JL called the session of 23 May the start of the endgame. <small>(Oral Histories: The Inevitables, 2025-05-18)</small> By then, in Nico's account, Barrias and Se7en had been going through the time doors of the Sphinx Tomb with Nine while the Pussyfoot waited outside, and Paytra and Kol had brought Caprica's body back to the Terrasque and met Marcel and Weld. Through the doors the crew had gone to the five Zanzibars, as Dave recalled it, and seen the final fight on the Zanzibar, as Nico recalled it. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
 
 The climax of Starfall took place at Necis, at the end of *The Starsong Awakens*. <small>(Dave, 2026-09-14)</small>
+
+## Campaign site
+
+JL kept a public Google Site titled *The Starsong Awakens* for his players, with pages headed Home, New allies, Company dossier, New robots, Red Eye Manifesto, The Rock of Bral, New ships, New playable race, New backgrounds and New magic items.
+
+### Opening narration
+
+The home page, "15 Years Later", carries the arc's opening narration, marked to be read in a Stellan Skarsgård voice. It begins:
+
+> It's been 15 years since the crew of the Zanzibar solved the riddle of the Shrike… 15 years since the Battle of Tannhauser Gate, where the line that separates good from evil was exposed.
+>
+> <small>— Opening narration (The Starsong Awakens site, Home)</small>
+
+### Company dossier
+
+The Company dossier is an in-world document of [the Company](/organizations/nimbus-corp/), giving a status and location for each subject. Its entries are:
+
+- **Temporarily Unknown Noise Energy (T.U.N.E.):** a growing sonic disruption between Realmspace and the Vodoni Empire, first detected after the Battle of Tannhauser Gate. See [the Starsong](/lore/the-starsong/).
+- **[Caprica](/people/caprica/):** listed as deceased, last seen at the helm of the SSJ Zanzibar spelljamming the vessel to the Eye of Doom during the Battle of Tannhauser Gate, her remains never recovered and deemed a vital asset. In play her body was recovered later in the arc, and Dave places the climax of Starfall at Necis. <small>(Oral Histories: The Inevitables, 2025-05-23; Dave, 2026-09-14)</small>
+- **Ragnar XII:** the planet in the Abbathor System that holds the largest banking and commerce conglomerate in the universe. See [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/).
+- **Sovereign Supreme:** [Timothee Buckets](/people/timothee-buckets/), the Astral Command admiral appointed supreme ruler after the crisis at Tannhauser Gate.
+- **[SSJ Zanzibar](/items/the-ssj-zanzibar/) (Zarus Cruiser):** decommissioned; its wreckage held under Astral Command restriction in [Brownsleeve City](/places/brownsleeve-city/).
+- **[Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/):** a Shadowspace prison at maximum capacity, holding [Large Luigi](/people/large-luigi/) as prisoner LL9807. JL's post of the old crew's whereabouts numbered him LL849. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+- **["The Garden" (Lathander VII)](/places/the-garden/):** a Company breeding and cloning facility for Esper in Clusterspace, once the Ice Hell of the Lathander system.
+- **[The Bureau of Compliance](/organizations/the-bureau-of-compliance/):** the paramilitary enforcer of the Starweaver Act.
+- **[James X. Smallberries](/people/captain-jim-smallberries/):** alias Charles Longberries, sentenced in absentia to 20 years and tracked to a Scrospace mining colony. At the table JL gave his alias as Charles Largeberries. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+- **[Buttsack](/people/buttsack/) (Sgt., Ret.):** retired to a Githzerai community after a tragic accident on the field ended his sportsball career. The dossier lists his crewmate [Carlos Vega](/people/carlos-vega/) as deceased; in play Carlos was back by November 2024. <small>(Oral Histories: The Inevitables, 2024-11-22)</small>
+- **[The Vodoni Empire](/organizations/the-vodoni-empire/):** spelled "Vodani" in the entry's heading, in a cold war with the Sovereignty.
+- **SSJ Vanguard (Istus-Class Clipper):** a stealth exploration ship under Capt. Sandy Titzandassia, the dossier's spelling for [Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/), with Lt. Commander [Mordecai](/people/mordecai/) as executive officer. See [the Istus Cruiser](/items/the-istus-cruiser/).
+
+<small>(The Starsong Awakens site, Company dossier)</small>
+
+### New allies
+
+The site's two new allies are autognomes: **LDR-N**, named Eldrin, a level-3 evocation wizard with the sage background; and **RN-HRT**, named Ironheart, a level-3 champion fighter with the soldier background. <small>(The Starsong Awakens site, New allies)</small>
+
+### New robots
+
+Four robot models were offered for play, all immune to psychic damage and vulnerable to lightning <small>(The Starsong Awakens site, New robots)</small>:
+
+- **Asimov**, with a bonus to Intelligence, eight languages and six cantrips, can use spell scrolls from any class's list;
+- **Malware**, with a bonus to Dexterity and proficiency with thieves' tools, can glitch, teleporting up to 30 feet;
+- **Terminator**, with a bonus to armour class and proficiency in all simple and martial weapons, has a steely visage that aids intimidation;
+- **Varius**, with a bonus to Wisdom and a thousand-yard stare, opens its Uncanny Valley to cast disguise self, speak with animals or polymorph.
+
+### New backgrounds
+
+- **Company Agent:** a widely travelled employee of the universe's largest corporation, who knows a guy who knows a guy.
+- **Fugitive:** someone hiding from the law, with a preternatural skill at finding the fastest escape.
+- **Ascetic:** a contemplative whose peaceful demeanour almost always finds the party a place to rest or heal.
+
+<small>(The Starsong Awakens site, New backgrounds)</small>
+
+### New magic items
+
+- **Arcane Artillery:** a two-ton legendary wand, built like a cannon, that casts protective spells on the spelljamming vessel it is mounted on.
+- **Club of Compliance:** an uncommon club dealing extra lightning damage, more against constructs. See [the Bureau of Compliance](/organizations/the-bureau-of-compliance/).
+- **Elixer of Esper Tears** <small>(sic)</small>: a very rare potion granting the psychic power of the Esper for a minute.
+- **Eye of Ao Cannon:** a legendary ship-mounted weapon that can bring life to its vessel or radiant death to a target, consuming a diamond with each shot.
+- **Hey, Hyperion:** a headset that contacts the Hyperion hive mind. See [the Children of Hyperion](/organizations/the-children-of-hyperion/).
+- **Wand of Horgus Hairs:** a very rare wand made with hairs of the legendary deceased Astral Command hero Horgus Simiani, spelled [Horgus Simianis](/people/horgus-simianis/) elsewhere, recovered after the Battle of Tannhauser Gate, that casts animate dead.
+- **Mace of Elistraee:** a very rare +2 mace that sheds light and lets its attuned wielder cast Otto's irresistible dance once a day.
+- **Lexical Scroller:** an illegal device, often sold broken by disreputable vendors, that casts sending, pass without trace, rope trick, dimension door or scrying.
+
+<small>(The Starsong Awakens site, New magic items)</small>
+
+### New playable race
+
+The site's new playable race is the [Esper](/species/esper/), whose origins are shrouded in mystery: some claim they are mutated elves, and others believe they were born from the phlogiston. They are recognised by their shining silver eyes, and have innate psychic powers of telepathy, telekinesis and precognition. <small>(The Starsong Awakens site, New playable race)</small>
+
+### Red Eye Manifesto and other pages
+
+The Red Eye Manifesto page carries *The Way It Is*, in two chapters. See [the Red Eye Manifesto](/items/the-red-eye-manifesto/) and [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/). <small>(The Starsong Awakens site, Red Eye Manifesto)</small> The page on [the Rock of Bral](/places/the-rock-of-bral/) is titled "A City on the Edge of Forever" <small>(The Starsong Awakens site, The Rock of Bral)</small>, and the New ships page describes the Istus-class clipper, the Terrasque, the Gnat and three planetside vehicles. See [Spelljamming](/lore/spelljamming/). <small>(The Starsong Awakens site, New ships)</small>
 
 ## Principal characters
 

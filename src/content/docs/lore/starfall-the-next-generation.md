@@ -108,6 +108,7 @@ sources:
 - 'Oral Histories: The Inevitables, 2024-12-22'
 - 'Oral Histories: The Inevitables, 2025-04-04'
 - 'Oral Histories: The Inevitables, 2025-05-23'
+- 'The Starsong Awakens site (JL Byrd): Home'
 published: '2026-09-10'
 wa:
   slug: starfall3A-the-next-generation-article
@@ -198,7 +199,7 @@ In the second season Jim faced retirement, and the command crew went rogue from 
 
 *Main article: [The Starsong Awakens](/history/the-starsong-awakens/)*
 
-JL's sequel is set fifteen years after *Light of Xaryxis*. Caprica is long dead, and Barrias Ruby-Eye's sister brings a dire warning. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> A year after the Battle of Tannhauser Gate the [Starweaver Act](/lore/the-starweaver-act/) outlawed all artificial intelligence in the Sovereignty, warforged and autognomes included, leading to a violent purge of robotic creatures and a thriving illicit market in robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> In a cold war with the Vodoni Empire, the Sovereignty meant to blame the monsters for the awakened Starsong, while the Company wanted Caprica resurrected to find its true source. <small>(Oral Histories: The Inevitables, 2024-06-12)</small>
+JL's sequel is set fifteen years after *Light of Xaryxis*, whose closing battle JL's Starsong material names [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). <small>(The Starsong Awakens site, Home)</small> Caprica is long dead, and Barrias Ruby-Eye's sister brings a dire warning. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> A year after the Battle of Tannhauser Gate the [Starweaver Act](/lore/the-starweaver-act/) outlawed all artificial intelligence in the Sovereignty, warforged and autognomes included, leading to a violent purge of robotic creatures and a thriving illicit market in robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> In a cold war with the Vodoni Empire, the Sovereignty meant to blame the monsters for the awakened Starsong, while the Company wanted Caprica resurrected to find its true source. <small>(Oral Histories: The Inevitables, 2024-06-12)</small>
 
 The arc ran as two storylines that later joined: the returning [Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Se7en](/people/se7en/), and rookie agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) hunting illegal AI in [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril. <small>(Oral Histories: The Inevitables, 2024-07-01)</small> The robot resistance, [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), knows Barrias by the nom de guerre Red-Eye. <small>(Dave, 2026-09-14)</small> The search for Caprica led back to Necis and the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/). <small>(Oral Histories: The Inevitables, 2025-04-04; 2025-05-23)</small>
 

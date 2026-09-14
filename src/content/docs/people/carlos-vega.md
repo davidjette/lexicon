@@ -61,6 +61,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-01-18"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- "The Starsong Awakens site (JL Byrd): Company dossier"
 ---
 
 **Human · Rogue 5 / Warlock 1 / Wizard 3 · Cadet · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**
@@ -110,6 +111,8 @@ Carlos's wish scattered the crew of the Zanzibar all over the place without warn
 ## The Starsong Awakens
 
 Fifteen years later Buttsack, paralysed after a sportsball career with the Khorvaire Kestrals, had retreated to an isolated Githzerai temple in the outer planes to focus on inner peace, meditation "and the true meaning of the mysterious bottle he carries with him." <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Carlos spent those years in the bottle. By November 2024 he was back in play. <small>(Oral Histories: The Inevitables, 2024-11-22)</small> How he came out of the bottle is unknown.
+
+The [Company](/organizations/nimbus-corp/)'s dossier lists Carlos Vega as deceased, and reports that Buttsack "entertains fantasies of communing with the spirit of his crewmate from the SSJ Zanzibar". <small>(The Starsong Awakens site, Company dossier)</small>
 
 In January 2025 Carlos and Barrias Ruby-Eye, an unlikely pairing in JL's words, went back to Picon to continue the search for Caprica. <small>(Oral Histories: The Inevitables, 2025-01-18)</small>
 

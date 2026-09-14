@@ -13,13 +13,15 @@ tags:
 - Warlock
 - SSJ Zanzibar
 - SSJ Excelsior
+- SSJ Vanguard
 - Vannie
 - Starfall
 - Light of Xaryxis
+- The Starsong Awakens
 fields:
   gender: Male
   species: Tiefling
-  ggmtitle: Ensign, Medical Assistant of the SSJ Zanzibar; later chief science officer of the SSJ Excelsior
+  ggmtitle: Ensign, Medical Assistant of the SSJ Zanzibar; later chief science officer of the SSJ Excelsior (JL) or Executive Officer, Lt. Commander, of the SSJ Vanguard (Company dossier)
   children: Three, including an adopted daughter, Vannie
   status: Alive
 sources:
@@ -34,13 +36,14 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
+- "The Starsong Awakens site (JL Byrd): Company dossier"
 ---
 
-**Tiefling · Warlock 5 (the Celestial) · Medical Assistant, SSJ Zanzibar; later chief science officer, SSJ Excelsior · Alive**
+**Tiefling · Warlock 5 (the Celestial) · Medical Assistant, SSJ Zanzibar; later chief science officer, SSJ Excelsior, or Executive Officer, SSJ Vanguard · Alive**
 
-*Also known as:* Ensign Mordecai · Morti · Mordy
+*Also known as:* Ensign Mordecai · Morti · Mordy · Lt. Commander Mordecai
 
-**Mordecai** is a tiefling warlock of the Celestial who served as an ensign in the medical corps of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), played by JL. His surgery stopped the ceremorphosis of crew members infested by [a mind flayer](/history/the-mind-flayer-on-the-rock/) in November 2022, a technique Dave called the Mordecai Method. Late in *[Light of Xaryxis](/history/light-of-xaryxis/)* he and [Irina Malikovsky](/people/irina-malikovsky/) moved to take the Zanzibar, and fifteen years later he was a doctor and the chief science officer of the SSJ Excelsior.
+**Mordecai** is a tiefling warlock of the Celestial who served as an ensign in the medical corps of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), played by JL. His surgery stopped the ceremorphosis of crew members infested by [a mind flayer](/history/the-mind-flayer-on-the-rock/) in November 2022, a technique Dave called the Mordecai Method. Late in *[Light of Xaryxis](/history/light-of-xaryxis/)* he and [Irina Malikovsky](/people/irina-malikovsky/) moved to take the Zanzibar, and fifteen years later he was a doctor and the chief science officer of the SSJ Excelsior. The [Company](/organizations/nimbus-corp/)'s dossier of the same era names him Executive Officer of the SSJ Vanguard, under [Sandy](/people/hyperion-tidzan-dassiya/).
 
 ## Light of Xaryxis
 
@@ -59,6 +62,8 @@ After the [wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/), whether 
 ## The Starsong Awakens
 
 Fifteen years later, by the time of *[The Starsong Awakens](/history/the-starsong-awakens/)*, Mordecai is a doctor and the chief science officer of the SSJ Excelsior. He is married to a half-orc and has three children, including his adopted daughter Vannie, a cadet at the Astral Command Academy on Toril. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+
+The Company's dossier names Lt. Commander Mordecai as Executive Officer of the SSJ Vanguard, an [Istus-class clipper](/items/the-istus-cruiser/) whose Commanding Officer is Capt. Sandy Titzandassia, and whose top-secret destination is rumoured to lie anywhere from Realmspace to deep within [the Vodoni Empire](/organizations/the-vodoni-empire/). Its command crew is of special interest to the Board because both officers served with [Caprica](/people/caprica/) on the SSJ Zanzibar. <small>(The Starsong Awakens site, Company dossier)</small>
 
 ## Abilities and equipment
 

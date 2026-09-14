@@ -14,6 +14,8 @@ tags:
 - Large Luigi
 - Tillamook
 - cybrids
+- Beholder menace
+- Vodoni Empire
 - Sovereignty of Realms
 - Astral Command
 - Starfall
@@ -35,6 +37,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-02"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
 ---
 
 **Species · The Astral Sea · Enemies of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Largely wiped out**
@@ -57,6 +60,10 @@ Jim Smallberries, then training for mobile infantry, was stranded on Negroni Pri
 
 A second beholder war was under way in the present of *Light of Xaryxis*. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground the attack looked like the work of beholders, but the crew found that the attackers were cybrids, controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> Whether Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) reveals the truth about the beholder invasions is unknown. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 
+## The Vodoni alliance
+
+The Company's dossier on [the Vodoni Empire](/organizations/the-vodoni-empire/) records that, some time after the Sovereignty was founded, the Sovereignty and the Vodoni allied against the Beholder menace. By the era of *The Starsong Awakens* the two wage a cold war. <small>(The Starsong Awakens site, Company dossier)</small>
+
 ## Notable beholders
 
-- **[Large Luigi](/people/large-luigi/)**: a beholder bartender, placed in the Zanzibar's Ten Forward. <small>(Oral Histories: The Inevitables, 2022-10-15)</small> The Zanzibar had been grounded so long that he opened his bar on the ship instead of in town. <small>(Oral Histories: The Inevitables, 2022-10-18)</small> Fifteen years after *Light of Xaryxis* he is prisoner LL849, held in a high-security [OSR3G](/organizations/osr3g/) facility and awaiting trial for treason and crimes against the Sovereignty, which disavows all knowledge of his whereabouts. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+- **[Large Luigi](/people/large-luigi/)**: a beholder bartender, placed in the Zanzibar's Ten Forward. <small>(Oral Histories: The Inevitables, 2022-10-15)</small> The Zanzibar had been grounded so long that he opened his bar on the ship instead of in town. <small>(Oral Histories: The Inevitables, 2022-10-18)</small> Fifteen years after *Light of Xaryxis* he is prisoner LL849, held in a high-security [OSR3G](/organizations/osr3g/) facility and awaiting trial for treason and crimes against the Sovereignty, which disavows all knowledge of his whereabouts. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> The Company's dossier lists him as prisoner LL9807, "the traitor of the Battle of Tannhauser Gate", held in [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/) and serving as a Company asset and criminal informant. <small>(The Starsong Awakens site, Company dossier)</small>

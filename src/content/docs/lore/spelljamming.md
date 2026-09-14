@@ -20,7 +20,16 @@ tags:
 - Crystal Spheres
 - SSJ Zanzibar
 - Caprica
+- Zarus-class
+- Istus-class clipper
+- Terrasque-class
+- Gnat
+- Gimbal Speeder
+- Hermes Glider
+- Parsifal Truckster
+- T.U.N.E.
 - Starfall
+- The Starsong Awakens
 icon: fa-rocket
 fields:
   type: Magic of space travel
@@ -41,6 +50,13 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-03"
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 - sources/dave/2026-09-14-starfall-necis.md
+- "Oral Histories: The Inevitables, 2024-07-12"
+- "The Starsong Awakens site (JL Byrd): New ships"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+gallery:
+- src: /images/starsong/gnat.webp
+  alt: "The Gnat"
+  caption: "The Company's Gnat, from the New ships page of The Starsong Awakens site"
 ---
 
 **Magic of space travel · Helms and jam drives · Starfall**
@@ -74,6 +90,23 @@ An Orcish invocation calls on a helm in the name of [Cypher](/people/stonecypher
 Every system is a "space", such as Realmspace, Krynnspace or Greyspace; the word refers to a solar system. Realmspace, Greyspace and Krynnspace are the core systems of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). <small>(Oral Histories: The Inevitables, 2022-10-09)</small> The Starfall tagline asked "What adventures await between the crystal spheres?" <small>(Dave, 2026-09-14)</small>
 
 The Phlogiston, "the phlo", is part of Starfall's cosmology, brought back from older Spelljammer material. <small>(Oral Histories: The Inevitables, 2022-10-11, 2023-04-08)</small> After [the Astralex](/lore/the-astralex/) attack the Zanzibar was "adrift in the phlo". <small>(Oral Histories: The Inevitables, 2024-01-06)</small> Dave's epitaph for Caprica reads "her song rings through the phlo forever". <small>(Oral Histories: The Inevitables, 2024-06-03)</small>
+
+In the era of *The Starsong Awakens* the Company's dossier reports that the sonic disruption called the T.U.N.E. can destroy phlogiston, rendering interstellar travel and communication extremely difficult, if not impossible. <small>(The Starsong Awakens site, Company dossier)</small> See [the Starsong](/lore/the-starsong/).
+
+## Ships and vehicles
+
+Between *Light of Xaryxis* and *The Starsong Awakens* Astral Command decommissioned its heavy Zarus-class battle cruisers, the class of the SSJ Zanzibar, and turned to light, fast and agile ships. <small>(The Starsong Awakens site, New ships; Company dossier)</small> The ships and vehicles of that era include:
+
+- **Istus-class clipper:** a light, fast Astral Command ship with a thin ceramic-polymer hull and Arcane Artillery that casts protective spells on the vessel, introduced after the Battle of Tannhauser Gate; crew 15, two laser ballistae. See [the Istus Cruiser](/items/the-istus-cruiser/).
+- **Terrasque-class:** an adamantium Astral Command warship roughly the size of a small moon, built for planetary defence and steered by three spelljamming helms, two aft and one ahead; crew 50, armed with laser ballistae, ionic mangonels and an Eye of Ao Cannon. See [the Terrasque](/items/the-terrasque/).
+- **Gnat:** the Company's budget spelljammer, fully armed and armoured, 25 feet long with a crew of 4 and a gravitron trebuchet, costing 5,000 gp.
+- **Gimbal Speeder:** a sleek, compact and affordable flying car for ground transport, carrying five passengers. It can make a ramming manoeuvre at the cost of some of its own hit points, and has an umbilical docking port through which a medium creature can pass between two speeders travelling at equal speed.
+- **Hermes Glider:** a nuclear-propelled flying motorcycle for two, able to jump a gap of up to 120 feet.
+- **Parsifal Truckster:** a steel long-haul flying truck carrying four passengers and up to 50,000 pounds of cargo across a planet or to a moon, certified for up to .00057 light years.
+
+<small>(The Starsong Awakens site, New ships)</small>
+
+At the table Dave took the Gimbal Speeder to be named for [Flex Gimble](/people/flex-gimble/), "like Tesla is for Nikola Tesla", and Nico confirmed it. <small>(Oral Histories: The Inevitables, 2024-07-12)</small>
 
 ## In the Ages of the Infanta
 

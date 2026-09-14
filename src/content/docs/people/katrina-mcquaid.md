@@ -19,6 +19,8 @@ tags:
 - Beholder War
 - Starfall
 - Light of Xaryxis
+- The Starsong Awakens
+- Katrina McQuaid Memorial Prison
 fields:
   gender: Female
   species: Tabaxi
@@ -41,13 +43,14 @@ sources:
 - "Oral Histories: The Inevitables, 2024-05-31"
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-11"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
 ---
 
 **Tabaxi · Ranger 5 / Fighter 3 / Rogue 3 · Captain, Astral Command · Dead**
 
 *Also known as:* Catrina · Captain Catrina McQuade · Kat · Cat · Grey Cloak Catrina
 
-Captain **Katrina McQuaid** is a tabaxi ranger, horizon walker and swashbuckler of [Astral Command](/organizations/astral-command/) and a grey cloak of [OSR3G](/organizations/osr3g/) in [Starfall](/lore/starfall-the-next-generation/), played by Nico. She trained at the Astral Command Academy alongside [Jim Smallberries](/people/captain-jim-smallberries/) and [Horgus Simianis](/people/horgus-simianis/), and as a two-star captain was technically the captain of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) while Jim commanded it. In [the Beholder War](/history/the-beholder-war/) she chose to recover [the Demoncore](/items/the-demoncore/) with Horgus over saving the civilians stranded with Jim on [Negroni Prime](/places/negroni-prime/). She fought in the finale of *[Light of Xaryxis](/history/light-of-xaryxis/)*, and by the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* she was dead and memorialised in the name of a prison.
+Captain **Katrina McQuaid** is a tabaxi ranger, horizon walker and swashbuckler of [Astral Command](/organizations/astral-command/) and a grey cloak of [OSR3G](/organizations/osr3g/) in [Starfall](/lore/starfall-the-next-generation/), played by Nico. She trained at the Astral Command Academy alongside [Jim Smallberries](/people/captain-jim-smallberries/) and [Horgus Simianis](/people/horgus-simianis/), and as a two-star captain was technically the captain of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) while Jim commanded it. In [the Beholder War](/history/the-beholder-war/) she chose to recover [the Demoncore](/items/the-demoncore/) with Horgus over saving the civilians stranded with Jim on [Negroni Prime](/places/negroni-prime/). She fought in the finale of *[Light of Xaryxis](/history/light-of-xaryxis/)*, and by the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* she was dead and memorialised in the name of [a prison in Shadowspace](/places/the-katrina-mcquaid-memorial-prison/).
 
 ## Background
 
@@ -78,6 +81,8 @@ After the finale her player joked that she was probably now a super zombie robot
 ## The Starsong Awakens
 
 By the time of *The Starsong Awakens*, fifteen years later, Katrina is dead. The Company's dossier for the mission names the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center in her memory. <small>(Oral Histories: The Inevitables, 2024-06-11)</small>
+
+The dossier describes [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/) as a massive prison complex in Shadowspace, active and at maximum capacity. It houses prisoner LL9807, [Large Luigi](/people/large-luigi/), whom the dossier calls "the traitor of the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/)". <small>(The Starsong Awakens site, Company dossier)</small>
 
 ## Abilities and equipment
 

@@ -41,6 +41,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-01-12"
 - "Oral Histories: The Inevitables, 2025-02-28"
 - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
+image:
+  src: /images/gallery/2025-02-08-01.webp
+  alt: "The remnants of Necis"
+  caption: "A TaleSpire scene of the destroyed remnants of Necis"
 ---
 
 **Planet · Erased from the Lexicon · Site of the Time Tombs · Destroyed**

@@ -15,6 +15,12 @@ tags:
 - Second Wind
 - nautiloid
 - Company dossier
+- A City on the Edge of Forever
+- Sovereign protectorate
+- aarakocra dynasty
+- Eberron Corps of Engineers
+- Terrasque-class
+- Vodoni Empire
 - Maverick
 - Dead Man's Hand
 - Starfall
@@ -25,11 +31,11 @@ fields:
   type: Asteroid trade city
   location: The edge of the Sovereignty of Realms
   founding: Unknown
-  rulingBody: Unknown
+  rulingBody: An aarakocra dynasty, placed in control fifteen years before The Starsong Awakens
   population: Hundreds
   demonym: Unknown
-  status: Standing at the time of The Starsong Awakens
-  includedLocations: A space dock; a casino
+  status: Standing at the time of The Starsong Awakens; a Sovereign protectorate
+  includedLocations: A space dock; a casino; a nautiloid lodged beneath the city streets
 sources:
 - "Oral Histories: The Inevitables, 2022-09-29"
 - "Oral Histories: The Inevitables, 2022-10-24"
@@ -39,13 +45,18 @@ sources:
 - "Oral Histories: The Inevitables, 2022-11-05"
 - "Oral Histories: The Inevitables, 2024-09-25"
 - src/content/docs/people/maverick.md
+- "The Starsong Awakens site (JL Byrd): The Rock of Bral"
+image:
+  src: /images/starsong/the-rock-of-bral.webp
+  alt: "A ship in the harbour of Bral"
+  caption: "The Rock of Bral, from The Starsong Awakens site"
 ---
 
 **Asteroid trade city · Edge of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · *Light of Xaryxis*, *The Starsong Awakens* · Standing**
 
 *Also known as:* Bral
 
-**The Rock of Bral** is an old trade city of hundreds of far-flung souls on an asteroid, with a large space dock on one side, and the last major settlement on the edge of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). It was the main settlement of the Xaryxis quest in *[Light of Xaryxis](/history/light-of-xaryxis/)*: the crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) reached it early in that arc and left it for [Doomspace](/places/doomspace/). Fifteen years later the story of *[The Starsong Awakens](/history/the-starsong-awakens/)* returned to Bral. In an earlier era, the Rock of Bral also figures in the Dead Man's Hand campaign.
+**The Rock of Bral** is an old trade city of hundreds of far-flung souls on an asteroid, with a large space dock on one side, and the last major settlement on the edge of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). It was the main settlement of the Xaryxis quest in *[Light of Xaryxis](/history/light-of-xaryxis/)*: the crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) reached it early in that arc and left it for [Doomspace](/places/doomspace/). Fifteen years later the story of *[The Starsong Awakens](/history/the-starsong-awakens/)* returned to Bral, by then a Sovereign protectorate ruled by an aarakocra dynasty and guarded by two Terrasque-class warships. In an earlier era, the Rock of Bral also figures in the Dead Man's Hand campaign.
 
 ## Description
 
@@ -63,6 +74,10 @@ The Zanzibar's crew reached Bral once they had completed the adventure's first t
 
 The story of *The Starsong Awakens* returned to the Rock of Bral during its second act, and the Company's dossier holds an entry on the city. Dave's reading of the dossier was that the Company had found the old crew's nautiloid. <small>(Oral Histories: The Inevitables, 2024-09-25)</small>
 
+JL's campaign site gives Bral its own page, titled "A City on the Edge of Forever". By its account the Rock of Bral is a Sovereign protectorate and "not technically part of the Sovereign star-system", and trafficking in illicit materials, artificial intelligence and constructs among them, has been regularly observed there. Fifteen years before the arc an aarakocra dynasty was placed in control of the Bral government by an act of martial fiat, and its rule has been characterised as "corrupt but compliant". <small>(The Starsong Awakens site, The Rock of Bral)</small>
+
+In the era of the arc the Eberron Corps of Engineers is stationed on Bral to exhume a nautiloid vessel lodged beneath the city streets, for display in a museum of astro-history on their planet. The threat of Sovereign war with [the Vodoni Empire](/organizations/the-vodoni-empire/) has agitated the populace: long lines of evacuees mark the docks, leaving the planetoid has become a challenge, and crime on the surface has reached a fever pitch. Two Terrasque-class warships, of the class of [the Terrasque](/items/the-terrasque/), protect it. <small>(The Starsong Awakens site, The Rock of Bral)</small>
+
 ### Dead Man's Hand
 
 In the earlier era of the Dead Man's Hand campaign, [Maverick](/people/maverick/) visited a casino on the Rock of Bral. <small>(DM notes)</small>
@@ -70,4 +85,5 @@ In the earlier era of the Dead Man's Hand campaign, [Maverick](/people/maverick/
 ## Places of interest
 
 - **The space dock:** a large dock on one side of the asteroid, where the SSJ Zanzibar put in.
+- **The nautiloid:** a nautiloid vessel lodged beneath the city streets, being exhumed by the Eberron Corps of Engineers in the era of *The Starsong Awakens*.
 - **The casino:** the gambling house Maverick visited in the Dead Man's Hand era.

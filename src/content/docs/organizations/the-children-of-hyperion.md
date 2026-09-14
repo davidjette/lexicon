@@ -7,6 +7,8 @@ tags:
 - The Children of Hyperion
 - Hyperion
 - the Hyperion entity
+- Hyperion hive mind
+- Hey, Hyperion
 - Consular
 - Lesser Consular
 - Quori
@@ -40,6 +42,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-10"
 - "Oral Histories: The Inevitables, 2024-11-09"
 - "Oral Histories: The Inevitables, 2024-12-13"
+- "The Starsong Awakens site (JL Byrd): New magic items"
 ---
 
 **Interstellar temple · Faith of Hyperion · Starfall era · Active**
@@ -85,6 +88,16 @@ After the wreck of the Zanzibar, Sandy carried the memory of what happened on Ne
 Dave expected the Hyperion entity to gain new relevance in a Sovereignty after the Lexicon. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> A year after the Battle of Tannhauser Gate the Starweaver Act outlawed all artificial intelligence, and Astral Command has virtually replaced the Lexicon with Hyperion. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 
 Fifteen years after *Light of Xaryxis*, Sandy is a captain and a Lesser Consular of the Children of Hyperion, and stands with Astral Command against the legacy crew of the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-12-13)</small> Her former crewmates' players hoped to win her back, and one warned that bringing her near other Sovereign ships would connect her to other Hyperions. <small>(Oral Histories: The Inevitables, 2024-11-09)</small>
+
+### Hey, Hyperion
+
+**Hey, Hyperion** is an uncommon wondrous item of the era: a headset and earpiece that lets its wearer contact the Hyperion hive mind with any question. The Hyperion can address almost any concern free of charge, and operators are standing by. Its advertisement opens:
+
+> Without the Lexicon, there was no way to answer life's many questions... until now!
+>
+> <small>— Hey, Hyperion (The Starsong Awakens site, New magic items)</small>
+
+A footnote to the offer warns that the Hyperion may be able to record conversations even when the headset is powered off. <small>(The Starsong Awakens site, New magic items)</small>
 
 ## Known members
 

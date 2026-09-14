@@ -23,7 +23,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: A small mining asteroid, under the name Charles Largeberries (The Starsong Awakens)
+  residence: A small mining asteroid, under the name Charles Largeberries (The Starsong Awakens); a Scrospace mining colony (Company dossier)
   gender: Male
   species: Human
   age: Early 60s (The Starsong Awakens)
@@ -70,13 +70,14 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-11"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- "The Starsong Awakens site (JL Byrd): Company dossier"
 ---
 
 **Human · Bard 11 (College of Eloquence) · Captain · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Alive**
 
-*Also known as:* James X. Smallberries · Jim · Starberries · Charles Largeberries · Jimbo
+*Also known as:* James X. Smallberries · Jim · Starberries · Charles Largeberries · Charles Longberries · Jimbo
 
-**Captain Jim Smallberries** is a human bard, played by JL, who commanded the [SSJ Zanzibar](/items/the-ssj-zanzibar/) of [Astral Command](/organizations/astral-command/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). His full name is James X. Smallberries. As a young officer he fought in the [Beholder War](/history/the-beholder-war/) and was left stranded on [Negroni Prime](/places/negroni-prime/). Captain of a ship confined to a single system, he collected his new pilot [Caprica](/people/caprica/) at Northspire, and after hard news raised the prospect of his retirement he, Caprica and [Sandy](/people/hyperion-tidzan-dassiya/) severed themselves from Astral Command to seek [the Shrike](/lore/the-shrike/) on [Necis](/places/necis/). He lost his ship and many of his friends in the finale. Fifteen years later, in *[The Starsong Awakens](/history/the-starsong-awakens/)*, he lives under the name Charles Largeberries on a mining asteroid, wanted for dereliction of duty and destruction of Astral Command property.
+**Captain Jim Smallberries** is a human bard, played by JL, who commanded the [SSJ Zanzibar](/items/the-ssj-zanzibar/) of [Astral Command](/organizations/astral-command/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). His full name is James X. Smallberries. As a young officer he fought in the [Beholder War](/history/the-beholder-war/) and was left stranded on [Negroni Prime](/places/negroni-prime/). Captain of a ship confined to a single system, he collected his new pilot [Caprica](/people/caprica/) at Northspire, and after hard news raised the prospect of his retirement he, Caprica and [Sandy](/people/hyperion-tidzan-dassiya/) severed themselves from Astral Command to seek [the Shrike](/lore/the-shrike/) on [Necis](/places/necis/). He lost his ship and many of his friends in the finale. Fifteen years later, in *[The Starsong Awakens](/history/the-starsong-awakens/)*, he lives under the name Charles Largeberries on a mining asteroid, wanted for dereliction of duty and destruction of Astral Command property. The [Company](/organizations/nimbus-corp/)'s dossier records him under the alias Charles Longberries, sentenced in absentia by a military tribunal, and of vital interest to its Board because of Caprica.
 
 ## Background
 
@@ -119,6 +120,10 @@ In the finale of 2024-05-31 the Zanzibar took critical damage and Caprica died. 
 ## The Starsong Awakens
 
 In *The Starsong Awakens*, which JL ran, fifteen years have passed and Jim is an old man. <small>(Oral Histories: The Inevitables, 2024-06-11)</small> He lives under the assumed name Charles Largeberries on a small mining asteroid, works a daily grind in the mines, is usually drunk, and has not piloted a vessel in more than a decade. He is wanted on multiple felony counts of dereliction of duty and destruction of Astral Command property, which could carry fifty years in a military prison. JL's account ends: "Sad and lonely, Jim has returned to the life he longed to escape as a boy, trapped on a desolate rock." <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+
+### The Company dossier
+
+The Company's dossier lists James X. Smallberries as alive, located in Scrospace, with the alias Charles Longberries. It states that Captain Smallberries was tried in absentia by a military tribunal and sentenced to 20 years in a Sovereign penitentiary for 7 counts of dereliction of duty and theft of Astral Command property. His location remains unknown to Astral Command, but Company agents tracked him to a Scrospace mining colony. The dossier describes his relationship with [Caprica](/people/caprica/), whom it lists as deceased, as what makes him a vital interest to the Board of Directors. <small>(The Starsong Awakens site, Company dossier)</small> JL's account of the arc gives the charges as multiple felony counts of dereliction of duty and destruction of Astral Command property, which could carry fifty years in a military prison, and his alias as Charles Largeberries. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
 ## Abilities and equipment
 

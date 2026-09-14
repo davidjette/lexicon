@@ -17,6 +17,14 @@ tags:
 - Order of Scribes
 - Andromeda Starweaver
 - Demoncore
+- Zarus-class
+- Istus-class
+- Terrasque-class
+- SSJ Vanguard
+- Timothee Buckets
+- Sovereign Supreme
+- Battle of Tannhauser Gate
+- Company dossier
 - Starfall
 - Light of Xaryxis
 - The Starsong Awakens
@@ -55,13 +63,15 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-02"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "The Starsong Awakens site (JL Byrd): New ships"
 ---
 
 **Space fleet · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Starfall era · Active**
 
 *Also known as:* AC · AsCom
 
-**Astral Command** is the exploration and defence space fleet of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), and its military, founded as the fleet of the Union of Free Space. It has a thousand-year history by the Starfall era, some five thousand years after the Ages of the Infanta. Its old Sovereign Spelljammer [the SSJ Zanzibar](/items/the-ssj-zanzibar/) is the setting of [*Light of Xaryxis*](/history/light-of-xaryxis/). Its Academy sent its cadets to fight in [the Beholder War](/history/the-beholder-war/), where a secret program first used [the Demoncore](/items/the-demoncore/). In *Light of Xaryxis* the Zanzibar's captain [Jim Smallberries](/people/captain-jim-smallberries/), [Caprica](/people/caprica/) and [Sandy](/people/hyperion-tidzan-dassiya/) severed themselves from Astral Command to pursue [the Shrike](/lore/the-shrike/), while elements of the fleet, the grey cloaks of [OSR3G](/organizations/osr3g/), may have been involved in the Lexicon's cover-up. Fifteen years later, in [*The Starsong Awakens*](/history/the-starsong-awakens/), Jim is a wanted man, and Astral Command has virtually replaced [the Lexicon](/items/the-lexicon/) with Hyperion.
+**Astral Command** is the exploration and defence space fleet of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), and its military, founded as the fleet of the Union of Free Space. It has a thousand-year history by the Starfall era, some five thousand years after the Ages of the Infanta. Its old Sovereign Spelljammer [the SSJ Zanzibar](/items/the-ssj-zanzibar/) is the setting of [*Light of Xaryxis*](/history/light-of-xaryxis/). Its Academy sent its cadets to fight in [the Beholder War](/history/the-beholder-war/), where a secret program first used [the Demoncore](/items/the-demoncore/). In *Light of Xaryxis* the Zanzibar's captain [Jim Smallberries](/people/captain-jim-smallberries/), [Caprica](/people/caprica/) and [Sandy](/people/hyperion-tidzan-dassiya/) severed themselves from Astral Command to pursue [the Shrike](/lore/the-shrike/), while elements of the fleet, the grey cloaks of [OSR3G](/organizations/osr3g/), may have been involved in the Lexicon's cover-up. Astral Command later decommissioned its Zarus-class battle cruisers, introducing the Istus-class clippers after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) along with the Terrasque-class. It seized the wreck of the Zanzibar, a military tribunal sentenced Jim in absentia, and its admiral [Timothee Buckets](/people/timothee-buckets/) became Sovereign Supreme. Fifteen years later, in [*The Starsong Awakens*](/history/the-starsong-awakens/), Jim is a wanted man, and Astral Command has virtually replaced [the Lexicon](/items/the-lexicon/) with Hyperion.
 
 ## Mission
 
@@ -121,7 +131,22 @@ Jim, Sandy and Caprica then set out on a pilgrimage across [Necis](/places/necis
 
 ## The Starsong Awakens
 
-Fifteen years after *Light of Xaryxis*, Jim Smallberries lives as Charles Largeberries on a mining asteroid, wanted on multiple felony counts of dereliction of duty and destruction of Astral Command property, which could carry a penalty of fifty years in a military prison. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Astral Command has virtually replaced the Lexicon with Hyperion. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+Fifteen years after *Light of Xaryxis*, Jim Smallberries lives as Charles Largeberries on a mining asteroid, wanted on multiple felony counts of dereliction of duty and destruction of Astral Command property, which could carry a penalty of fifty years in a military prison. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> The Company's dossier gives his alias as Charles Longberries, and records that a military tribunal tried Captain Smallberries in absentia and sentenced him to 20 years in a Sovereign penitentiary for seven counts of dereliction of duty and theft of Astral Command property. His location is unknown to Astral Command; Company agents tracked him to a mining colony in Scrospace. <small>(The Starsong Awakens site, Company dossier)</small> Astral Command has virtually replaced the Lexicon with Hyperion. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+
+Radical government reforms in the Sovereignty after the crisis at Tannhauser Gate resulted in the appointment of the Astral Command admiral Timothee Buckets as supreme ruler, with broad powers over the military, the legislature and the judiciary. The dossier lists the Sovereign Supreme as alive and in Greyspace. <small>(The Starsong Awakens site, Company dossier)</small>
+
+The wreckage of the SSJ Zanzibar was seized by Astral Command. The Company's dossier on Caprica places it in a top-secret hangar in Realmspace, and its entry on the ship places it in a high-security facility in [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril. Access to the vessel is restricted by Astral Command, and Company agents have been denied it. <small>(The Starsong Awakens site, Company dossier)</small>
+
+### Ships
+
+After decommissioning its heavy Zarus-class battle cruisers, the class of the SSJ Zanzibar, Astral Command took its fleet in a new direction, with light, fast and agile vessels. <small>(The Starsong Awakens site, New ships; Company dossier)</small>
+
+- **The Istus-class clipper**, introduced by Astral Command after the Battle of Tannhauser Gate, was built for stealth exploration, extreme speed and easy manoeuvrability. To compensate for its thin hull it mounts Arcane Artillery, which casts spells to protect the vessel. See [the Istus Cruiser](/items/the-istus-cruiser/).
+- **The Terrasque-class**, inspired by legends of Torillian dreadnoughts, combines the security and firepower of a starbase with the dexterity of a Star Moth. Roughly the size of a small moon, it was built for planetary defence. See [the Terrasque](/items/the-terrasque/).
+
+<small>(The Starsong Awakens site, New ships; Company dossier)</small>
+
+The dossier's entry on the Istus-class **SSJ Vanguard** says rumours of its top-secret destination range from Realmspace to deep within the Vodoni Empire, and names its commanding officer as Capt. Sandy Titzandassia and its executive officer as Lt. Commander Mordecai, both former crewmates of Caprica on the Zanzibar. <small>(The Starsong Awakens site, Company dossier)</small> At the start of the arc JL placed Mordecai as chief science officer of the SSJ Excelsior. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
 ## Known personnel
 
@@ -133,3 +158,4 @@ Fifteen years after *Light of Xaryxis*, Jim Smallberries lives as Charles Largeb
 - [Dr. Nilpferd](/people/dr-nilpferd/), Chief Arcanist of the Order of Scribes
 - [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/), of the Beholder War program
 - [Admiral Andromeda Starweaver](/people/andromeda-starweaver/), head of the Order of Scribes
+- [Admiral Timothee Buckets](/people/timothee-buckets/), later Sovereign Supreme

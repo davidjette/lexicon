@@ -7,6 +7,9 @@ tags:
 - The Starweaver Act
 - Starweaver Act
 - Starweaver act
+- Sovereign Senate
+- Red Eye Manifesto
+- Company dossier
 - Battle of Tannhauser Gate
 - Tannhauser Gate
 - artificial intelligence
@@ -22,9 +25,10 @@ tags:
 icon: fa-gavel
 fields:
   type: Law
-  enacted_by: The Sovereignty of Realms
+  enacted_by: The Sovereignty of Realms (the Sovereign Senate)
   date: A year after the Battle of Tannhauser Gate
   scope: All artificial intelligence, including warforged and autognomes
+  penalty: Not more than 1,000 years in prison
   enforced_by: The Bureau of Compliance
   effect: A violent purge of robotic creatures; a thriving illicit market for robots
   status: In force in The Starsong Awakens
@@ -44,13 +48,16 @@ sources:
 - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "The Starsong Awakens site (JL Byrd): Home"
+- "The Starsong Awakens site (JL Byrd): Red Eye Manifesto"
 ---
 
 **Law · The Sovereignty of Realms · In force in The Starsong Awakens**
 
 *Also known as:* the Starweaver act
 
-**The Starweaver Act** is a law of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), passed a year after the Battle of Tannhauser Gate, that outlaws all artificial intelligence, warforged and autognomes included. It led to a devastating and violent purge of robotic creatures and created a thriving illicit market for robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> It bears the name of Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), architect of [the Astralex](/lore/the-astralex/). Under it the agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) hunt illegal artificial intelligence, and [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), the robot resistance, fight for robots. The Act is the setting of *[The Starsong Awakens](/history/the-starsong-awakens/)*.
+**The Starweaver Act** is a law of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), passed by the Sovereign Senate a year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), that outlaws all artificial intelligence, warforged and autognomes included. It led to a devastating and violent purge of robotic creatures and created a thriving illicit market for robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> It bears the name of Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), architect of [the Astralex](/lore/the-astralex/). Under it the agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) hunt illegal artificial intelligence, and [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), the robot resistance, fight for robots. The Act is the setting of *[The Starsong Awakens](/history/the-starsong-awakens/)*.
 
 ## Background
 
@@ -58,7 +65,17 @@ The Act followed the betrayal of [the Lexicon](/items/the-lexicon/), which at th
 
 After the Lexicon's flight, [Astral Command](/organizations/astral-command/) virtually replaced it with [Hyperion](/lore/hyperion/). The Company is most likely pursuing possibly illegal replacements at dark sites outside the Sovereignty. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 
-What happened at the Battle of Tannhauser Gate is unknown. Barrias's player wrote that *The Starsong Awakens* "is centered on Nine and how he set out to fix everything bad that happened after Tannhauser Gate". <small>(Oral Histories: The Inevitables, 2025-04-06)</small>
+JL's opening narration for *The Starsong Awakens* places the Battle of Tannhauser Gate fifteen years before the arc, when the crew of the Zanzibar solved the riddle of the Shrike. <small>(The Starsong Awakens site, Home)</small> See [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). Barrias's player wrote that *The Starsong Awakens* "is centered on Nine and how he set out to fix everything bad that happened after Tannhauser Gate". <small>(Oral Histories: The Inevitables, 2025-04-06)</small>
+
+## Provisions
+
+The Company's dossier on [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) records that, following the Sovereign Senate's passage of "The Starweaver Act", the possession or dissemination of artificial intelligence was criminalised within Sovereign territory, carrying a penalty of not more than 1,000 years in prison. The Bureau was created to enforce the new law, with authority to act as a paramilitary arm of the Sovereign government, and it pursues and destroys artificial intelligence and those who seek to perpetuate it. <small>(The Starsong Awakens site, Company dossier)</small>
+
+The [Red Eye Manifesto](/items/the-red-eye-manifesto/) describes the vote this way:
+
+> Fifteen years ago, our elected Sovereign delegates voted to abolish intelligence they deemed artificial from the face of the galaxy.
+>
+> <small>— The Way It Is, Chapter One (The Starsong Awakens site, Red Eye Manifesto)</small>
 
 ## Effects
 

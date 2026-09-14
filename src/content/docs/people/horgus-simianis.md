@@ -17,11 +17,16 @@ tags:
 - Astral Command
 - Starfall
 - Light of Xaryxis
+- The Starsong Awakens
+- Horgus Simiani
+- hadozee
+- Wand of Horgus Hairs
+- Battle of Tannhauser Gate
 fields:
   gender: Male
-  species: Monkey
+  species: Monkey; hadozee (The Starsong Awakens site)
   ggmtitle: Ensign; brain surgeon and quantum biologist
-  status: Unknown
+  status: Dead
 sources:
 - "Oral Histories: The Inevitables, 2023-03-31"
 - "Oral Histories: The Inevitables, 2023-04-01"
@@ -34,17 +39,18 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-09"
 - "Oral Histories: The Inevitables, 2024-03-16"
 - "Oral Histories: The Inevitables, 2024-05-31"
+- "The Starsong Awakens site (JL Byrd): New magic items"
 ---
 
-**Monkey · Necromancer · Science department, Astral Command · Status unknown**
+**Monkey · Necromancer · Science department, Astral Command · Dead**
 
-*Also known as:* Ensign Horgus · Horg
+*Also known as:* Ensign Horgus · Horg · Horgus Simiani
 
-**Horgus Simianis** is a monkey necromancer, brain surgeon and quantum biologist of the science department of [Astral Command](/organizations/astral-command/) in [Starfall](/lore/starfall-the-next-generation/), played by Dave. An Academy contemporary of [Jim Smallberries](/people/captain-jim-smallberries/) and [Katrina McQuaid](/people/katrina-mcquaid/), he was the partner of Katrina, a grey cloak of [OSR3G](/organizations/osr3g/), in a secret program built around [the Demoncore](/items/the-demoncore/). During [the Beholder War](/history/the-beholder-war/) they left Jim's group stranded on [Negroni Prime](/places/negroni-prime/) to recover it, and they returned in the final season of *[Light of Xaryxis](/history/light-of-xaryxis/)*.
+**Horgus Simianis** is a monkey necromancer, brain surgeon and quantum biologist of the science department of [Astral Command](/organizations/astral-command/) in [Starfall](/lore/starfall-the-next-generation/), played by Dave. An Academy contemporary of [Jim Smallberries](/people/captain-jim-smallberries/) and [Katrina McQuaid](/people/katrina-mcquaid/), he was the partner of Katrina, a grey cloak of [OSR3G](/organizations/osr3g/), in a secret program built around [the Demoncore](/items/the-demoncore/). During [the Beholder War](/history/the-beholder-war/) they left Jim's group stranded on [Negroni Prime](/places/negroni-prime/) to recover it, and they returned in the final season of *[Light of Xaryxis](/history/light-of-xaryxis/)*. By the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* he was dead, and hairs recovered after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) had been made into the Wand of Horgus Hairs.
 
 ## Background
 
-Horgus began as a level-one officer candidate, Ensign Horgus, a monkey supergenius in Dave's description. <small>(Oral Histories: The Inevitables, 2023-03-31)</small> Dave also referred to him as a level 1 Borgia. <small>(Oral Histories: The Inevitables, 2023-04-07)</small>
+Horgus began as a level-one officer candidate, Ensign Horgus, a monkey supergenius in Dave's description. <small>(Oral Histories: The Inevitables, 2023-03-31)</small> Dave also referred to him as a level 1 Borgia. <small>(Oral Histories: The Inevitables, 2023-04-07)</small> The description of the Wand of Horgus Hairs gives his hairs as hadozee hairs. <small>(The Starsong Awakens site, New magic items)</small>
 
 He was placed in the science department. His official training is as a brain surgeon and quantum biologist, which makes him formally a necromancer. His background places him near the hellmouth, as Katrina's horizon-walker training does her. He is old for a monkey and searching for a way to live longer. <small>(Oral Histories: The Inevitables, 2023-04-08)</small>
 
@@ -69,6 +75,10 @@ Dave described the divergence of Katrina and Horgus's story from Jim's as mirror
 ### The finale
 
 Before the finale of *Light of Xaryxis*, Horgus upgraded his own barrier tattoo and Katrina's. In Dave's ruling Jim's matching tattoo was magically upgraded as well, probably without his knowledge. <small>(Oral Histories: The Inevitables, 2024-05-31)</small>
+
+## The Starsong Awakens
+
+The **Wand of Horgus Hairs** is a very rare wand, requiring attunement by a spellcaster, crafted with hadozee hairs recovered after the Battle of Tannhauser Gate, "hairs belonging to the legendary deceased Astral Command hero Horgus Simiani". It lets its user cast *animate dead* without material components, and has 3 charges, which it regains at dawn. <small>(The Starsong Awakens site, New magic items)</small>
 
 ## Abilities and equipment
 

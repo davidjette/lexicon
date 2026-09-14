@@ -9,6 +9,9 @@ tags:
 - Blade Runners
 - Club of Compliance
 - Compliance
+- paramilitary
+- Sovereign Senate
+- Company dossier
 - Starweaver Act
 - Sovereignty of Realms
 - Brownsleeve City
@@ -20,8 +23,8 @@ tags:
 - The Starsong Awakens
 icon: fa-shield-halved
 fields:
-  type: Law-enforcement agency
-  founding: Unknown
+  type: Law-enforcement agency; a paramilitary arm of the Sovereign government
+  founding: After the passage of the Starweaver Act
   leader: Unknown
   seat: Unknown
   status: Active
@@ -37,21 +40,29 @@ sources:
 - "Oral Histories: The Inevitables, 2024-11-07"
 - "Oral Histories: The Inevitables, 2024-11-10"
 - "Oral Histories: The Inevitables, 2024-11-17"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "The Starsong Awakens site (JL Byrd): New magic items"
+image:
+  src: /images/starsong/bureau-of-compliance.webp
+  alt: "Three Bureau agents"
+  caption: "The Bureau of Compliance, from the Company dossier"
 ---
 
 **Law-enforcement agency · Hunts illegal artificial intelligence · *The Starsong Awakens* · Active**
 
 *Also known as:* the Bureau · Blade Runners (its agents)
 
-**The Bureau of Compliance** is the agency of *The Starsong Awakens* that hunts illegal artificial intelligence, which [the Starweaver Act](/lore/the-starweaver-act/) outlawed in [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). Its agents are called Blade Runners. The rookie agents [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/) were assigned to [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril to find the source of illegal AI there. Paytra died in the finale of that assignment, and she and Kol returned as robots.
+**The Bureau of Compliance** is the agency of *The Starsong Awakens* that hunts illegal artificial intelligence, which [the Starweaver Act](/lore/the-starweaver-act/) outlawed in [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). It was created to enforce the Act, with authority to act as a paramilitary arm of the Sovereign government. Its agents are called Blade Runners. The rookie agents [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/) were assigned to [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril to find the source of illegal AI there. Paytra died in the finale of that assignment, and she and Kol returned as robots.
 
 ## Background
 
-A year after the Battle of Tannhauser Gate the Sovereignty passed the Starweaver Act, outlawing all artificial intelligence, warforged and autognomes included. The act led to a devastating and violent purge of robotic creatures and to a thriving illicit market for robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+A year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) the Sovereignty passed the Starweaver Act, outlawing all artificial intelligence, warforged and autognomes included. The act led to a devastating and violent purge of robotic creatures and to a thriving illicit market for robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+
+The Company's dossier on the Bureau records that the Sovereign Senate passed "The Starweaver Act", which made the possession or dissemination of artificial intelligence a crime within Sovereign territory, carrying a penalty of not more than 1,000 years in prison. The Bureau of Compliance was created to enforce the new law. Given authority to act as a paramilitary arm of the Sovereign government, it "pursues and destroys A.I. and those who seek to perpetuate it." <small>(The Starsong Awakens site, Company dossier)</small> The dossier gives its status as active and its location as the Sovereignty.
 
 ## Agents and equipment
 
-Bureau agents are issued a **Club of Compliance** and a Bureau badge; rookie agents in Brownsleeve City shared one standard-issue flying car. <small>(Oral Histories: The Inevitables, 2024-07-01)</small> Kol Hanaka's rank is "Agent (Blade Runner)" and his faith is listed as "Compliance". <small>(character sheet)</small> Paytra also carries a Club of Compliance. <small>(character sheet)</small> Spoon, a zealot barbarian, is a Bureau of Compliance Deputy. <small>(Oral Histories: The Inevitables, 2024-06-25)</small>
+Bureau agents are issued a **Club of Compliance** and a Bureau badge; rookie agents in Brownsleeve City shared one standard-issue flying car. <small>(Oral Histories: The Inevitables, 2024-07-01)</small> The Club of Compliance is an uncommon magic weapon: a hit deals an additional 2d6 lightning damage, rising to 4d6 against a construct. <small>(The Starsong Awakens site, New magic items)</small> Kol Hanaka's rank is "Agent (Blade Runner)" and his faith is listed as "Compliance". <small>(character sheet)</small> Paytra also carries a Club of Compliance. <small>(character sheet)</small> Spoon, a zealot barbarian, is a Bureau of Compliance Deputy. <small>(Oral Histories: The Inevitables, 2024-06-25)</small>
 
 ## Brownsleeve City
 

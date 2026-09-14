@@ -17,9 +17,12 @@ tags:
 - Light of Xaryxis
 - The Starsong Awakens
 - SSJ Zanzibar
+- SSJ Vanguard
+- Sandy Titzandassia
+- Istus-class clipper
 fields:
   rpgAlignment: Neutral Good
-  ggmtitle: Vox Sovereign of the SSJ Zanzibar (Lt. Cmdr.); Lesser Consular, Children of Hyperion; Captain
+  ggmtitle: Vox Sovereign of the SSJ Zanzibar (Lt. Cmdr.); Lesser Consular, Children of Hyperion; Captain; Commanding Officer of the SSJ Vanguard
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
@@ -58,13 +61,15 @@ sources:
 - "Oral Histories: The Inevitables, 2024-12-13"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "The Starsong Awakens site (JL Byrd): New ships"
 ---
 
 **Kalashtar · Sorcerer 13 / Cleric 5 · Vox Sovereign, later Captain · [Children of Hyperion](/organizations/the-children-of-hyperion/) · Alive**
 
-*Also known as:* Sandy · Hyperion Titara · Lt. Hyperion Titdzan-Dassiya · Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya · Cpt Hyperion Tidzan-Dassiya · Holy Captain Tidzan-Dassiya Ultra Hyperion
+*Also known as:* Sandy · Hyperion Titara · Lt. Hyperion Titdzan-Dassiya · Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya · Cpt Hyperion Tidzan-Dassiya · Capt. Sandy Titzandassia · Holy Captain Tidzan-Dassiya Ultra Hyperion
 
-**Hyperion "Sandy" Tidzan-Dassiya** is a kalashtar sorcerer and cleric of the Peace domain, played by Dave, a Lesser Consular of [the Children of Hyperion](/organizations/the-children-of-hyperion/) who served as diplomat and Vox Sovereign of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). Born possessed by an aberrant quori, she joined the Zanzibar as its counselor and communications officer, warned [Carlos Vega](/people/carlos-vega/) that she would burn him with the wrath of [Hyperion](/lore/hyperion/), and walked with [Jim Smallberries](/people/captain-jim-smallberries/) and [Caprica](/people/caprica/) on the [Shrike pilgrimage](/history/the-shrike-pilgrimage/) across [Necis](/places/necis/), carrying the memory of what happened there to the Hyperion collective. Her rank rose from lieutenant to lieutenant commander to captain. Fifteen years later, in *[The Starsong Awakens](/history/the-starsong-awakens/)*, she stands with the Hyperion-run [Astral Command](/organizations/astral-command/) against the party.
+**Hyperion "Sandy" Tidzan-Dassiya** is a kalashtar sorcerer and cleric of the Peace domain, played by Dave, a Lesser Consular of [the Children of Hyperion](/organizations/the-children-of-hyperion/) who served as diplomat and Vox Sovereign of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall](/lore/starfall-the-next-generation/). Born possessed by an aberrant quori, she joined the Zanzibar as its counselor and communications officer, warned [Carlos Vega](/people/carlos-vega/) that she would burn him with the wrath of [Hyperion](/lore/hyperion/), and walked with [Jim Smallberries](/people/captain-jim-smallberries/) and [Caprica](/people/caprica/) on the [Shrike pilgrimage](/history/the-shrike-pilgrimage/) across [Necis](/places/necis/), carrying the memory of what happened there to the Hyperion collective. Her rank rose from lieutenant to lieutenant commander to captain. Fifteen years later, in *[The Starsong Awakens](/history/the-starsong-awakens/)*, she stands with the Hyperion-run [Astral Command](/organizations/astral-command/) against the party, as Commanding Officer of the SSJ Vanguard.
 
 ## Background
 
@@ -111,6 +116,10 @@ After the finale Dave considered Sandy's course. She would be gunning for Admira
 In *The Starsong Awakens*, which JL ran fifteen years later, Astral Command has virtually replaced the Lexicon with Hyperion. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Sandy is a captain, and stands with Astral Command against the party. <small>(Oral Histories: The Inevitables, 2024-11-09, 2024-12-13)</small>
 
 In November 2024 Dave, as a player, looked for a way to bring Sandy over to the party's side, holding that she was still in there somewhere. Another player warned that if that failed it would be dangerous to bring her near other Sovereignty ships, because she would connect to other Hyperion. <small>(Oral Histories: The Inevitables, 2024-11-09)</small> Dave's portrait of her from that week is titled "Holy Captain Tidzan-Dassiya Ultra Hyperion". <small>(Oral Histories: The Inevitables, 2024-11-10)</small>
+
+### The SSJ Vanguard
+
+The [Company](/organizations/nimbus-corp/)'s dossier names Capt. Sandy Titzandassia as Commanding Officer of the SSJ Vanguard, an [Istus-class clipper](/items/the-istus-cruiser/), with Lt. Commander [Mordecai](/people/mordecai/) as Executive Officer. The dossier lists the Vanguard as active, its location unknown, with rumours of its top-secret destination ranging from Realmspace to deep within [the Vodoni Empire](/organizations/the-vodoni-empire/). Its command crew is of special interest to the Board because both officers served with [Caprica](/people/caprica/) on the SSJ Zanzibar. <small>(The Starsong Awakens site, Company dossier)</small> Astral Command introduced the Istus class after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) and the decommissioning of the Zarus-class battle cruisers, as light, fast and agile vessels. <small>(The Starsong Awakens site, Company dossier; New ships)</small>
 
 ## Appearance
 

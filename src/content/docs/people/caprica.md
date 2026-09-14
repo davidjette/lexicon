@@ -17,6 +17,9 @@ tags:
 - astral elf
 - Circle of Stars
 - Necis
+- Battle of Tannhauser Gate
+- Eye of Doom
+- Company dossier
 fields:
   rpgAlignment: Unknown
   ggmtitle: First Arcanist and Spelljammer of the SSJ Zanzibar (Lt.)
@@ -63,6 +66,11 @@ sources:
 - "Oral Histories: The Inevitables, 2025-05-23"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+image:
+  src: /images/starsong/caprica.webp
+  alt: "Caprica"
+  caption: "Caprica, from the Company dossier on The Starsong Awakens site"
 ---
 
 **Astral elf · Druid 12 (Circle of Stars) · First Arcanist and Spelljammer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Dead**
@@ -107,7 +115,15 @@ After the finale the Lexicon was known to have fled [Sigil](/places/sigil/) to e
 
 In *The Starsong Awakens*, set fifteen years later and run by JL, Caprica is long dead. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> The Sovereignty wants to make the monsters of the Vodoni Empire a scapegoat for the awakened Starsong. The Company knows that would disrupt trade, and wants to resurrect Caprica to help find the Starsong's true source. <small>(Oral Histories: The Inevitables, 2024-06-12)</small> [Halle Barrias](/people/halle-barrias/) told her brother [Barrias Ruby-Eye](/people/barrias-ruby-eye/) of a "star scream" related to Caprica. <small>(Barrias Ruby-Eye's character sheet)</small>
 
-In January 2025 Barrias and [Carlos Vega](/people/carlos-vega/) went back to Picon to continue the search for her. <small>(Oral Histories: The Inevitables, 2025-01-18)</small> By May 2025 the Bureau agents [Paytra](/people/paytra/) and [Kol Hanaka](/people/kol-hanaka/) had brought Caprica's damaged body back to the living ship [the Terrasque](/items/the-terrasque/). <small>(Oral Histories: The Inevitables, 2025-05-23)</small> Dave, as a player, came to regard the search for Caprica as a red herring. <small>(Oral Histories: The Inevitables, 2025-04-06)</small> Whether she was resurrected is unknown.
+### The Company dossier
+
+The [Company](/organizations/nimbus-corp/)'s dossier lists Caprica (Elf, Astral) with the status deceased and her location unknown. It states that Lt. Caprica was last seen at the helm of the SSJ Zanzibar, spelljamming the vessel to the Eye of Doom during the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), that the probability of her survival is calculated at zero, and that her remains have never been recovered. <small>(The Starsong Awakens site, Company dossier)</small> Dave's account places the climax of Starfall at [Necis](/places/necis/). <small>(sources/dave/2026-09-14-starfall-necis.md)</small>
+
+According to the dossier, Astral Command seized the wreckage of the Zanzibar and stored it in a top-secret hangar in Realmspace, and Company agents have been denied access to it; its entry on the Zanzibar places the wreck in a high-security facility in [Brownsleeve City](/places/brownsleeve-city/) and reports that data aboard may lead to Caprica's remains. The dossier notes her "extensive and intimate experience" with the Starsong, records that the Company's Board of Directors has deemed her remains a vital asset, and marks clerics, necromancers and casters of resurrection magic for special attention. <small>(The Starsong Awakens site, Company dossier)</small> It names [Jim Smallberries](/people/captain-jim-smallberries/), and the command crew of the SSJ Vanguard, [Sandy](/people/hyperion-tidzan-dassiya/) and [Mordecai](/people/mordecai/), as of interest to the Board because of their service with her. <small>(The Starsong Awakens site, Company dossier)</small>
+
+### The search
+
+In January 2025 Barrias and [Carlos Vega](/people/carlos-vega/) went back to Picon to continue the search for her. <small>(Oral Histories: The Inevitables, 2025-01-18)</small> The Company dossier states that her remains were never recovered; by May 2025 the Bureau agents [Paytra](/people/paytra/) and [Kol Hanaka](/people/kol-hanaka/) had brought Caprica's damaged body back to the living ship [the Terrasque](/items/the-terrasque/). <small>(The Starsong Awakens site, Company dossier; Oral Histories: The Inevitables, 2025-05-23)</small> Dave, as a player, came to regard the search for Caprica as a red herring. <small>(Oral Histories: The Inevitables, 2025-04-06)</small> Whether she was resurrected is unknown.
 
 ## Abilities and equipment
 

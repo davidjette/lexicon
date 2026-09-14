@@ -10,6 +10,8 @@ tags:
 - the resistance
 - Red Eye Revolutionary
 - Red Eye Manifesto
+- The Way It Is
+- revolutionary party
 - Barrias Ruby-Eye
 - Umwelt
 - Weld
@@ -41,6 +43,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-11-08"
 - "Oral Histories: The Inevitables, 2024-11-09"
 - "Oral Histories: The Inevitables, 2024-11-10"
+- "The Starsong Awakens site (JL Byrd): Red Eye Manifesto"
 ---
 
 **Robot resistance · Devotees of the Red Eye · *The Starsong Awakens* · Active**
@@ -63,6 +66,18 @@ The symbol of the resistance is a red eye. Its sayings and texts include:
 <small>(character sheet)</small>
 
 The movement's manifesto is the **Red Eye Manifesto**. <small>(Oral Histories: The Inevitables, 2024-09-14)</small>
+
+## The Red Eye Manifesto
+
+*Main article: [The Red Eye Manifesto](/items/the-red-eye-manifesto/)*
+
+The Red Eye Manifesto is titled *The Way It Is* and runs to two chapters. <small>(The Starsong Awakens site, Red Eye Manifesto)</small> Kol Hanaka's notes give its author as Red-Eye. <small>(character sheet)</small>
+
+**Chapter One** opens with the writer's father teaching him that the Sovereign government must never be trusted, because that is the way it is, and asks the people of the Sovereignty whether there can be another way. It recalls that fifteen years earlier the elected Sovereign delegates voted to abolish intelligence they deemed artificial, calls it the greatest of all injustices to name a life artificial, and lists the things the artificial are told are false: their intelligence, their limbs, their minds, their hopes and dreams. It names them people, "People who live and love and learn and hunger and fight to be seen as people!", and calls on every reader with a mind, a conscience or a soul to declare that the way it is cannot be.
+
+**Chapter Two** calls for a revolutionary party, built on revolutionary theory, to lead the humans, elves, dwarves, gnomes, orcs, halflings and constructs of the Sovereignty against its racism and bigotry. It looks to the intelligentsia, university youth, professors and wizards for a new vanguard of leadership that joins theory to practice, keeps close links with the masses and practises self-criticism. It sets the task of a better life for the several hundred billion people of the Sovereignty, and holds that among its humanoids only the reactionary ruling circles oppress the people branded artificial, and that those circles cannot represent the workers, farmers, artificers, wizards and sorcerers who make up the majority. It holds that "galactic struggle is a matter of class struggle", and closes by defining revolution as an insurrection, an act of violence by which one class overthrows another.
+
+<small>(The Starsong Awakens site, Red Eye Manifesto)</small>
 
 ## Holy sites
 

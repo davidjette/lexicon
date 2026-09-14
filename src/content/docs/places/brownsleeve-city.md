@@ -20,6 +20,10 @@ tags:
 - BCCC School of Artificery
 - moonstone mine
 - SSJ Zanzibar
+- Faerunian Experience Museum & Family Theme Park
+- Gimbal Speeder
+- Hermes Glider
+- Parsifal Truckster
 - Starweaver Act
 - Starfall
 - The Starsong Awakens
@@ -32,7 +36,7 @@ fields:
   population: Unknown
   demonym: Unknown
   status: Unknown
-  includedLocations: City hall; a bean factory; a moonstone mine; a hangar holding the SSJ Zanzibar; a power plant; the BCCC School of Artificery; a stadium
+  includedLocations: City hall; a bean factory; a moonstone mine; a hangar holding the SSJ Zanzibar; the Faerunian Experience Museum & Family Theme Park; a power plant; the BCCC School of Artificery; a stadium
 sources:
 - "Oral Histories: The Inevitables, 2023-01-15"
 - "Oral Histories: The Inevitables, 2024-06-02"
@@ -45,6 +49,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-11-02"
 - src/content/docs/lore/moonstone.md
 - Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "The Starsong Awakens site (JL Byrd): New ships"
 ---
 
 **Beachside resort community · Selune, the moon of Toril · *The Starsong Awakens* · Status unknown**
@@ -57,7 +63,9 @@ sources:
 
 The Moon lay dead and scarred after the Ages of the Infanta. <small>(Oral Histories: The Inevitables, 2023-01-15; [moonstone](/lore/moonstone/))</small> By the Starfall era it is Selune, a settled moon of Toril, and Brownsleeve City is a sunny beachside resort there. <small>(Oral Histories: The Inevitables, 2024-07-01)</small> Four sites on Selune are holy to the children of Red Eye. <small>(Oral Histories: The Inevitables, 2024-08-16)</small>
 
-Kol Hanaka's notes on the city list a moonstone mine and a hangar holding [the SSJ Zanzibar](/items/the-ssj-zanzibar/). <small>(Kol Hanaka's character sheet)</small> The Bureau's rookies shared one standard-issue flying car, and two vehicles were made for Brownsleeve City, one of them a motorcycle. <small>(Oral Histories: The Inevitables, 2024-07-01; 2024-09-01)</small>
+Kol Hanaka's notes on the city list a moonstone mine and a hangar holding [the SSJ Zanzibar](/items/the-ssj-zanzibar/). <small>(Kol Hanaka's character sheet)</small> The Company's dossier places the wreckage of the Zanzibar in a high-security facility in Brownsleeve City, near the "Faerunian Experience Museum & Family Theme Park", with access to the vessel restricted by [Astral Command](/organizations/astral-command/). Company agents suggest that data leading to the remains of [Caprica](/people/caprica/) may be aboard, though Astral Command may already have recovered or inadvertently destroyed it. <small>(The Starsong Awakens site, Company dossier)</small>
+
+The Bureau's rookies shared one standard-issue flying car, and two vehicles were made for Brownsleeve City, one of them a motorcycle. <small>(Oral Histories: The Inevitables, 2024-07-01; 2024-09-01)</small> JL's campaign site describes three vehicles for travel on a planet or moon: the **Gimbal Speeder**, a compact and affordable flying car for ground transport; the **Hermes Glider**, a nuclear-propelled flying motorcycle; and the **Parsifal Truckster**, a long-haul flying truck certified to carry cargo across the planet or to a moon. <small>(The Starsong Awakens site, New ships)</small> See [Spelljamming](/lore/spelljamming/).
 
 ## History
 
@@ -86,7 +94,8 @@ In the final episode of Brownsleeves City Nights, an agent tried to throw the in
 - **City hall:** blown up when the mayor was taken.
 - **The bean factory:** home to a robot fighting ring, destroyed by the agents.
 - **The moonstone mine:** listed in Kol Hanaka's notes on the city.
-- **The hangar:** where the SSJ Zanzibar is kept.
+- **The hangar:** where the SSJ Zanzibar is kept; the Company dossier calls it a high-security facility.
+- **The Faerunian Experience Museum & Family Theme Park:** near the facility that holds the wreck of the Zanzibar.
 - **The power plant:** where a cyborg recited the poem of the Zanzibars and statues.
 - **The BCCC School of Artificery:** whose student drew up plans for a wet fusion bomb.
 - **The stadium:** where the agents obtained a children's history of Faerûn.

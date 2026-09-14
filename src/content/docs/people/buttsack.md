@@ -17,11 +17,17 @@ tags:
 - The Starsong Awakens
 - Carlos Vega
 - Khorvaire Kestrals
+- Professional Sportsball League
+- Medal of Valorous Service
+- Githzerai
+- Elemental Chaos Plane
+- Battle of Tannhauser Gate
 fields:
   gender: Male
   species: Bugbear
-  ggmtitle: Sergeant-at-Arms, 2nd Sgt. (earlier Lt., Chief of Security)
+  ggmtitle: Sergeant-at-Arms, 2nd Sgt. (earlier Lt., Chief of Security); Sgt., Ret.
   rpgAlignment: Unknown
+  residence: A Githzerai temple in the Outer Planes (JL); a Githzerai community on the Elemental Chaos Plane (Company dossier)
   status: Alive
 sources:
 - Desktop/D&D/Starfall TNG/sydiot_86052237.pdf
@@ -37,11 +43,12 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-07"
 - "Oral Histories: The Inevitables, 2024-11-22"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
 ---
 
 **Bugbear · Barbarian 8 · Sergeant-at-Arms, SSJ Zanzibar · Alive**
 
-*Also known as:* Butsac · Buttsac · Lt Buttsac · 2nd Sgt. Butsac · Bootysack · Monksack
+*Also known as:* Butsac · Buttsac · Lt Buttsac · 2nd Sgt. Butsac · Buttsack (Sgt., Ret.) · Bootysack · Monksack
 
 **Buttsack** is a bugbear barbarian and the chief of security of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) in [Starfall](/lore/starfall-the-next-generation/), played by JL. He served as the ship's Sergeant-at-Arms under [Captain Jim Smallberries](/people/captain-jim-smallberries/) through *[Light of Xaryxis](/history/light-of-xaryxis/)*, and when [Carlos Vega](/people/carlos-vega/) became a djinn bound in a bottle, the bottle came to Buttsack. In the fifteen years before *[The Starsong Awakens](/history/the-starsong-awakens/)* he played professional sportsball, was paralysed, and became a monk at a Githzerai temple, still carrying the bottle.
 
@@ -68,6 +75,10 @@ Over the fifteen years after the wreck of the Zanzibar, Buttsack played a few se
 Carlos spent those fifteen years in the bottle Buttsack carries, and was back in play in *The Starsong Awakens* by November 2024. <small>(Oral Histories: The Inevitables, 2024-06-01; 2024-11-22)</small> How Carlos came out of the bottle is unknown.
 
 For the new arc his player considered making him an Astral Self monk whose astral form looks like Carlos, then a Way of Mercy monk who thinks he can see Carlos. <small>(Oral Histories: The Inevitables, 2024-06-07)</small>
+
+### The Company dossier
+
+The [Company](/organizations/nimbus-corp/)'s dossier lists Buttsack (Sgt., Ret.) as alive and located on the Elemental Chaos Plane. It states that after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) he was awarded, and declined, the Medal of Valorous Service. As a Tight/Round-End in the Professional Sportsball League he twice won MVP (Most Vertical Performance) before "a tragic accident on field" cut his sporting career short. He retired to a Githzerai community and devoted his time to prayer and meditation. The dossier reports that he "entertains fantasies of communing with the spirit of his crewmate from the SSJ Zanzibar, Carlos Vega", whom it lists as deceased. <small>(The Starsong Awakens site, Company dossier)</small> JL's account of the arc places the temple in the Outer Planes and names his team the Khorvaire Kestrals. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Carlos was back in play by November 2024. <small>(Oral Histories: The Inevitables, 2024-11-22)</small>
 
 ## Abilities and equipment
 

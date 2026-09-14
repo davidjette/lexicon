@@ -16,15 +16,19 @@ tags:
 - Starfall
 - Light of Xaryxis
 - The Starsong Awakens
+- Zarus-class cruiser
+- Zarus Cruiser
+- Battle of Tannhauser Gate
+- Brownsleeve City
 icon: fa-rocket
 fields:
-  type: Sovereign Spelljammer (starship)
+  type: Sovereign Spelljammer (starship); Zarus-class cruiser
   creator: Unknown
   owner: Astral Command
   material: Unknown
   rarity: Unique
-  condition: Critically damaged at the end of Light of Xaryxis
-  status: Unknown
+  condition: Critically damaged at the end of Light of Xaryxis; wreckage (The Starsong Awakens)
+  status: Decommissioned (Company dossier)
 sources:
 - "Oral Histories: The Inevitables, 2022-10-09"
 - "Oral Histories: The Inevitables, 2022-10-10"
@@ -50,17 +54,28 @@ sources:
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 - Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
 - CANON.md 5ac
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "The Starsong Awakens site (JL Byrd): New ships"
+- sources/dave/2026-09-14-starfall-necis.md
+gallery:
+- src: /images/starsong/ssj-zanzibar-wreck.webp
+  alt: "The wreck of the Zanzibar in a hangar"
+  caption: "The wreck of the SSJ Zanzibar, from the Company dossier"
 ---
 
 **Sovereign Spelljammer · Astral Command · Flagship of five hundred years before · Critically damaged**
 
 *Also known as:* S.S.J. Zanzibar · the Zanzibar · Zanny · Zan · Zanzo
 
-**The SSJ Zanzibar** is a Sovereign Spelljammer of [Astral Command](/organizations/astral-command/), the fleet of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), and the ship of [Starfall](/lore/starfall-the-next-generation/), named for the Emperors of Faerun, each of whom is called the Zanzibar after [Zanzibar](/people/zanzibar/). A flagship of five hundred years before, it languished in a single system for want of a pilot for its Major Helm until [Caprica](/people/caprica/) took its open helm. Under [Captain Jim Smallberries](/people/captain-jim-smallberries/) it flew the missions of [Light of Xaryxis](/history/light-of-xaryxis/). While the command crew were away, bound for [Necis](/places/necis/), its own Astralex tried to kill everyone aboard and left it adrift; a wish carried it to [Sigil](/places/sigil/), and it took critical damage in the finale of the arc, in which Caprica died.
+**The SSJ Zanzibar** is a Sovereign Spelljammer of [Astral Command](/organizations/astral-command/), the fleet of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), and the ship of [Starfall](/lore/starfall-the-next-generation/), named for the Emperors of Faerun, each of whom is called the Zanzibar after [Zanzibar](/people/zanzibar/). A flagship of five hundred years before, it languished in a single system for want of a pilot for its Major Helm until [Caprica](/people/caprica/) took its open helm. Under [Captain Jim Smallberries](/people/captain-jim-smallberries/) it flew the missions of [Light of Xaryxis](/history/light-of-xaryxis/). While the command crew were away, bound for [Necis](/places/necis/), its own Astralex tried to kill everyone aboard and left it adrift; a wish carried it to [Sigil](/places/sigil/), and it took critical damage in the finale of the arc, in which Caprica died. Fifteen years later, in *[The Starsong Awakens](/history/the-starsong-awakens/)*, the [Company](/organizations/nimbus-corp/)'s dossier lists it as a decommissioned Zarus cruiser whose wreckage Astral Command holds in [Brownsleeve City](/places/brownsleeve-city/).
 
 ## Name
 
 After the Ages quest, Zanzibar, crowned king of Cormyr, declared himself Emperor of Faerun, and every Emperor after him was called the Zanzibar. The Spelljammer craft of Starfall took the same name. <small>(CANON.md 5ac)</small> Like the Karametra, the Balduran and the Excelsior, it is one of the Astral Command ships that bear names from the Ages of the Infanta. A statue of Zanzibar, "Big Z", stands aboard as the ship's namesake. <small>(Oral Histories: The Inevitables, 2022-10-18)</small>
+
+## Class
+
+The Company's dossier gives the Zanzibar's class as Zarus Cruiser. <small>(The Starsong Awakens site, Company dossier)</small> After the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) Astral Command decommissioned its heavy Zarus-class battle cruisers and turned to a new line of light, fast and agile vessels, the [Istus-class clippers](/items/the-istus-cruiser/). <small>(The Starsong Awakens site, New ships; Company dossier)</small>
 
 ## History
 
@@ -86,7 +101,9 @@ In the finale of *Light of Xaryxis* on 2024-05-31, against the Shrike, the Zanzi
 
 ### The Starsong Awakens
 
-In *The Starsong Awakens*, fifteen years later, Kol Hanaka's notes from Brownsleeve City record "hangar - SSJ Zanzibar". <small>(character sheet)</small> Barrias Ruby-Eye, Se7en and Nine went through the time doors of the Sphinx Tomb; Dave recalled that the last door took them to [the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), and Nico that it showed the final fight on the Zanzibar. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
+In *The Starsong Awakens*, fifteen years later, Kol Hanaka's notes from Brownsleeve City record "hangar - SSJ Zanzibar". <small>(character sheet)</small>
+
+The Company's dossier lists the SSJ Zanzibar as decommissioned, located on the Torillian moon. Its wreckage is housed in a high-security facility in Brownsleeve City, on the moon of Toril, near the "Faerunian Experience Museum & Family Theme Park", and access to the vessel is restricted by Astral Command. Company agents suggest that data leading to the remains of [Caprica](/people/caprica/) may be aboard, though Astral Command may have recovered or inadvertently destroyed it. The dossier's entry on Caprica gives a second account: that Astral Command seized the wreckage and stored it in a top-secret hangar in Realmspace, where Company agents have been denied access and infiltration has yielded limited information. That entry records Caprica as last seen at the helm, spelljamming the Zanzibar to the Eye of Doom during the Battle of Tannhauser Gate. <small>(The Starsong Awakens site, Company dossier)</small> Dave's account places the climax of Starfall at [Necis](/places/necis/). <small>(sources/dave/2026-09-14-starfall-necis.md)</small> Barrias Ruby-Eye, Se7en and Nine went through the time doors of the Sphinx Tomb; Dave recalled that the last door took them to [the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), and Nico that it showed the final fight on the Zanzibar. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
 
 ## Crew
 

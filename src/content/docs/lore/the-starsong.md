@@ -8,6 +8,12 @@ tags:
 - Star Song
 - star song
 - the awakened starsong
+- T.U.N.E.
+- Temporarily Unknown Noise Energy
+- sonic disturbance
+- Universal Catastrophe Scale
+- Vodoni Empire
+- Company dossier
 - Caprica
 - Capricorn
 - Necis
@@ -39,6 +45,11 @@ sources:
 - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+gallery:
+- src: /images/starsong/tune.webp
+  alt: "Sound waves"
+  caption: "The T.U.N.E., from the Company dossier"
 ---
 
 **Call from the stars · Starfall · Source unknown**
@@ -80,3 +91,13 @@ Caprica died in the finale, in finding the answer to the star song. <small>(Oral
 The Sovereignty and the Vodoni Empire are in a cold war, and the Sovereignty wants to make the Vodoni monsters an easy scapegoat for the awakened starsong. [The Company](/organizations/nimbus-corp/) knows that would disrupt trade, and wants to resurrect Caprica to help find the true source. <small>(Oral Histories: The Inevitables, 2024-06-12)</small>
 
 Barrias and Carlos went back to Picon to continue the search for Caprica. <small>(Oral Histories: The Inevitables, 2025-01-18)</small> Barrias's player later wrote that "The search for Caprica was a red herring". <small>(Oral Histories: The Inevitables, 2025-04-06)</small> Her body was recovered: Paytra and Kol brought it back to the [Terrasque](/items/the-terrasque/). <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
+
+The Company's dossier on Caprica, which lists her as deceased and her remains as never recovered, notes her "extensive and intimate experience with the previous sonic disturbance known as the Starsong", and records that the Company's Board of Directors has deemed her remains a vital asset. <small>(The Starsong Awakens site, Company dossier)</small>
+
+## The T.U.N.E.
+
+The **Temporarily Unknown Noise Energy**, or **T.U.N.E.**, is a sonic disruption described in the Company's dossier in the era of *The Starsong Awakens*. Its status is active, and its location is Wildspace, somewhere between Realmspace and [the Vodoni Empire](/organizations/the-vodoni-empire/). <small>(The Starsong Awakens site, Company dossier)</small>
+
+Company artificers first detected it following [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), fifteen years before the arc, when it was barely perceptible to even the most highly attuned instruments. It grew steadily louder and more unstable over the years that followed. It is now audible to the unaided ear within 500 light years of the Vodoni border, and it can destroy phlogiston, making interstellar travel and communication extremely difficult, if not impossible. Company statisticians rate the event between 8.7 and 9.0 on the Universal Catastrophe Scale. <small>(The Starsong Awakens site, Company dossier)</small>
+
+Sovereign leadership has implicated the Vodoni Empire, and the Sovereignty suspects the Vodoni of violating their treaty to orchestrate the disturbance; the Company's own policy is neutrality. The Company's Board of Directors has flagged the source and nature of the T.U.N.E. UTMOST HIGH PRIORITY. <small>(The Starsong Awakens site, Company dossier)</small> The dossier calls it "the current sonic disturbance", and calls the Starsong "the previous sonic disturbance". <small>(The Starsong Awakens site, Company dossier)</small>
