@@ -1,21 +1,23 @@
 ---
 title: The Underhive
 description: Blair's sovereign settlement beneath Sharn, ruled by trade, kept by Drones, and never once part of the Empire.
+tags:
+  - The Underhive
+  - Underhive
+  - Blair
+  - Queen B
+  - Drones
+  - Berenstain
+  - Booti'slave
+  - Bootislave
+  - Sharn
+  - Drain Snakes
+  - Vega Oracle
+  - The Spine
+image:
+  src: /images/uploads/the-underhive-mu0qpgfe.webp
 type: organization
 kind: organizations
-tags:
-- The Underhive
-- Underhive
-- Blair
-- Queen B
-- Drones
-- Berenstain
-- Booti'slave
-- Bootislave
-- Sharn
-- Drain Snakes
-- Vega Oracle
-- The Spine
 icon: fa-crown
 fields:
   type: Settlement, criminal sovereignty
@@ -25,11 +27,11 @@ fields:
   status: Autonomous; seated on the Council of Sharn
   allies: R.U.S.T., the Nest, the pirate fleet of Joseph Roberts
 sources:
-- sources/site/key-figures.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/home.txt
-- worldanvil/images/key-figures/02.jpg
+  - sources/site/key-figures.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/home.txt
+  - worldanvil/images/key-figures/02.jpg
 published: '2026-09-10'
 wa:
   slug: the-underhive-organization
