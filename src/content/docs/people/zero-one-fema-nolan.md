@@ -1,21 +1,23 @@
 ---
 title: Zero-One (Fema Nolan)
 description: Founder and leader of Fulcrum, the first woman in centuries to take the nameless rite, and the paladin who resurrected Uriel Qualanthri.
+tags:
+  - Zero-One
+  - Zero One
+  - Fema Nolan
+  - Fulcrum
+  - Silver Flame
+  - Paladin
+  - Zilspar
+  - Zispire
+  - Thrane
+  - Izaak
+  - Izzak
+  - Zero of Sharn
+image:
+  src: /images/uploads/zero-one-fema-nolan-mu0nazpn.webp
 type: person
 kind: people
-tags:
-- Zero-One
-- Zero One
-- Fema Nolan
-- Fulcrum
-- Silver Flame
-- Paladin
-- Zilspar
-- Zispire
-- Thrane
-- Izaak
-- Izzak
-- Zero of Sharn
 icon: fa-fire-flame-curved
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- sources/wa/uriel-qualanthri-person.txt
-- worldanvil/images/rebel-factions/06.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/wa/uriel-qualanthri-person.txt
+  - worldanvil/images/rebel-factions/06.jpg
 published: '2026-09-10'
 wa:
   slug: zero-one-28fema-nolan29-person
