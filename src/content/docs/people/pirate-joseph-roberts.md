@@ -126,3 +126,5 @@ Roberts is a named target of the Imperial Ministry of Law. The Grand Lodge assig
 **Items:** the gnome tablet taken from the Unforeseen at a rebel base near the Dragon Watch Isles, and sold on to a buyer he has never named · a great deal of Imperial coin, none of it returned.
 
 **The Collection:** Roberts's actual trade. He takes secrets and information in order to get what he wants, which means every transaction with him is also a deposit. He knew about Locke Pierce. He knows what the Unforeseen were doing at that rebel base. He knows what the gnome tablet was and who paid for it. None of that has ever been recovered.
+
+![Pirate Jospeh Roberts 2.png](/images/uploads/pirate-jospeh-roberts-2-mu0xg2jy.webp)
