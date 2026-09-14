@@ -22,6 +22,16 @@ tags:
 - Barold Bonds
 - Dead Man's Hand
 - Rex Bedsheets
+- Honnalee
+- high roller
+- poker
+- Outlands
+- Jeremiah
+- Sigil
+- the Mortuary
+- fatemark
+- Grub + Grog
+- Arcaneum
 icon: fa-gavel
 fields:
   rpgAlignment: Unknown
@@ -42,7 +52,9 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2982, IMG_2983, IMG_2996, IMG_2997, IMG_3039, IMG_3041, IMG_3093, IMG_3100, IMG_3105)
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- CANON.md 5ac
 published: '2026-09-10'
 wa:
   slug: shadowhigh-person
@@ -53,9 +65,29 @@ wa:
 
 **Shadowhigh** was a cowgirl ranger, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and the only one under sentence of death. She was arrested at Ard Farkle's after shooting peasants that Rex Bedsheets had dominated, was stunned by a war wizard and dragged in chains to the fort, and was held below its lower halls under a War Wizard and two jailers. At dawn she was led blindfolded, gagged and bound to the gallows on the parade ground with [Maverick](/people/maverick/) and Barold Bonds; her small dragon flew in to burn the ropes and was shot out of the air, and all three prisoners were stunned and torn to shreds by blasts from wanded wizards on the battlements. Her body fell through the trash hole beneath the fort, which is the Yawning Portal into Undermountain, and Tripp Sandhill raised her there.
 
+Before Waterdeep she had played poker against a high roller in Honnalee and been stabbed by a drifter with a glowing sword. Killed, like each of her companions, by [Jeremiah](/people/jeremiah/), she woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), and came with the party to Waterdeep.
+
 ## Physical description
 
 A cowgirl ranger in a leather duster and wide-brim hat, revolver and whip, with a small draconic pet perched on her shoulder or nearby; "sardonic, relaxed but deadly." <small>(Character roster. Her species is not recorded.)</small> In the fort's module she is present entirely as paperwork, timber, and the sound of chains shifting at intervals in a room below a locked door — and one guard's line: *"Something is down there. A woman they're going to hang."*
+
+## The high roller
+
+Shadowhigh followed reports of a high roller in the Outlands who seemingly would never stop betting, though his money would disappear overnight, and she watched him lose his hat in a poker game. <small>(DM notes)</small>
+
+She played poker in a regular saloon in Honnalee, and a stranger came through: a high roller. In their hand she held the ace of spades and the ace of clubs; the high roller pushed her all-in on the turn, the eight of spades, and the river was the ace of diamonds. The hand she knew she couldn't lose was the ace and eight of spades and the ace and eight of clubs. <small>(DM notes)</small>
+
+Finally, a drifter feigning injury approached her and stabbed her with a glowing sword. <small>(DM notes)</small> Like each of her companions, she was killed by Jeremiah, the handsome man with the glowing sword.
+
+## Sigil
+
+She woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) with the rest of the company, tattooed with a [fatemark](/lore/fatemarks/). The tattoo artist Fell told the party: *"It's not one of mine. It's a Fatemark."* The cards of Shadowhigh's fatemark are **Dragon**, **Gem**, **Staff**, **Plant**, **Elemental**, **Talons**, **Corpse**, **Euryale**, **Cavern**, **Path** and **Fates**. <small>(DM notes)</small>
+
+## Waterdeep
+
+The party came to Waterdeep and, at [Tiffany House](/places/tiffany-house/), stole the **RUIN** card. <small>(See [the Tiffany House Heist](/history/the-tiffany-house-heist/).)</small>
+
+That night, in the party's carriage at [the Grub + Grog](/places/the-grub-and-grog/), Shadowhigh and [Maverick](/people/maverick/) played good cop and bad cop with their two hostages until both agreed to climb into a bag of holding, despite the limited air. With [BattleBeast](/people/battlebeast/) and Heyu she found a trail of blood leading from one of the inn rooms; inside were a bloodied dagger and an open letter bearing the seal of the Arcaneum, which said only: "WE KNOW". The party then attacked [Rex Bedsheets](/people/rex-bedsheets/) at his Rexium sales meeting, in [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/).
 
 ## The sentence
 
