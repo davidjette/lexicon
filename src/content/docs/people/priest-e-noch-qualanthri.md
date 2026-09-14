@@ -115,3 +115,5 @@ E'noch Qualanthri has never been located, dated, or shown to be dead. The Forge 
 - **Uriel Qualanthri** — shares his surname. No documented relationship.
 
 **Hobbies & Pets** — None recorded.
+
+![The Stranger and the Eternal Guardian.png](/images/uploads/the-stranger-and-the-eternal-guardian-mu0xjian.webp)
