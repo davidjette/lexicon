@@ -1,21 +1,23 @@
 ---
 title: The Glitterhame
 description: The ore cavern at the heart of the Korramont, named in stone by King Corn and now floored with a glowing fungus that talks.
+tags:
+  - The Glitterhame
+  - Glitterhame
+  - The Korramont
+  - Shavat
+  - Black Khyber
+  - the bloom
+  - the Speaker
+  - John C. LeBeefe
+  - gricks
+  - Deeptempura
+  - Korranberg Foundry
+  - Sedda Tiddes Deeptempura
+image:
+  src: /images/uploads/the-glitterhame-mu0p2b1y.webp
 type: geographic location
 kind: places
-tags:
-- The Glitterhame
-- Glitterhame
-- The Korramont
-- Shavat
-- Black Khyber
-- the bloom
-- the Speaker
-- John C. LeBeefe
-- gricks
-- Deeptempura
-- Korranberg Foundry
-- Sedda Tiddes Deeptempura
 icon: fa-seedling
 fields:
   type: Cavern
@@ -23,12 +25,12 @@ fields:
   location: Beneath the Grand Stair, above the Korranberg Foundry level
   population: None living; the bloom, gricks, and whatever the bloom is escorting
 sources:
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- C:/dev/sharn-campaign/session-2026-07-17-recap.md
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- sources/site/korth-episode-summaries.txt
-- worldanvil/CANON.md
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-glitterhame-location
