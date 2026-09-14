@@ -162,7 +162,7 @@ In the **Arcaneum**, the city's college of wizards, the heroes find a **Planetar
 
 ## Part VI — The Seal of Time
 
-The flood drains to reveal an iron **blood seal** in the dungeon floor, marked with a symbol that glows when Silverbane is brought near it. Silverbane — the moonblade, who remembers — confesses the shame it guards: after the Forgetting, **Eldamir** and House Gallidann blamed the dwarves and waged not just a war but a **genocide**, "capturing entire populations and leading them still alive into their tombs." Only afterward did Eldamir discover Calix's plot to seize the throne, and slay him, dying by his hand in the same stroke. The seal demands the blood of a dwarf to open.
+The flood drains to reveal an iron **blood seal** in the dungeon floor, marked with a symbol that glows when Silverbane is brought near it. Silverbane — the moonblade, who remembers — confesses the shame it guards: after the Forgetting, **Eldamir** and House Gallidann blamed the dwarves and waged war on them, a **genocide**, "capturing entire populations and leading them still alive into their tombs." Only afterward did Eldamir discover Calix's plot to seize the throne, and slay him, dying by his hand in the same stroke. The seal demands the blood of a dwarf to open.
 
 Below it lies a chamber where the voices of loved ones lure the unwary into a guardian's killing trance — survivable only by those who "hold your breath and close your eyes," exactly as Mara's lullaby warned — and beyond it a hidden temple lit like electric light, with the emaciated, blinded Tylerjynex himself slumped atop it, kept forever fighting the demon in his own mind. Within is Calix's **phylactery**: a pocket of frozen time holding everything the Betrayer prepared for eternity.
 
@@ -176,7 +176,7 @@ That act made everything about Motherstone, not just its location, cursed and ob
 
 ### Calix the Betrayer — the buried throne and the thing he fears
 
-<small>Recovered from the Oblivia.</small> Calix's crime was not seduction, as the nursery rhymes say. It was the plot behind **the Forgetting**. He buried his own terminal-throne to replace the Lexicon with himself — to dissolve his mind entirely into the crystal and become one with the Motherstones, using the Lexicon and the Obliviator to gather all the knowledge of the world. He did it to outlast the one thing he is afraid of: the [Leviathan](/lore/the-leviathan/). His remnant says it plainly, in the words of the ancient drama:
+<small>Recovered from the Oblivia.</small> The nursery rhymes make Calix's crime seduction; the recovered record makes it the plot behind **the Forgetting**. He buried his own terminal-throne to replace the Lexicon with himself — to dissolve his mind entirely into the crystal and become one with the Motherstones, using the Lexicon and the Obliviator to gather all the knowledge of the world. He did it to outlast the one thing he is afraid of: the [Leviathan](/lore/the-leviathan/). His remnant says it plainly, in the words of the ancient drama:
 
 > My sin is the Forgetting.\
 > Time is the only recompense.\

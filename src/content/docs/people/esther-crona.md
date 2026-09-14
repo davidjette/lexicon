@@ -96,7 +96,7 @@ Varyn saw something special in her at five: a force power he called a rare natur
 
 ## The Eternal Guardian
 
-Varyn Crona served as head Paladin to Kaius I, Kaius II and Kaius III, appointed the Emperor’s sworn protector from birth under the title Eternal Guardian, and shaped Imperial military doctrine for centuries. His soul did not simply linger in a blade by accident; it was bound there by a rite performed at a Dhakaani-era Forge of Binding beneath Sharn, and Esther set the Sharn Library archivist Renn Tal to cataloguing every text on Varyn, the Guardian and the Forge. Merely asking after Varyn Crona at that library was enough for a librarian to report the enquiry to the Iron Veil. Richard Blaze warned the Inevitables that facing her while the sword remained bound would be suicide. He was right.
+Varyn Crona served as head Paladin to Kaius I, Kaius II and Kaius III, appointed the Emperor’s sworn protector from birth under the title Eternal Guardian, and shaped Imperial military doctrine for centuries. His soul was bound in a blade by a rite performed at a Dhakaani-era Forge of Binding beneath Sharn, and Esther set the Sharn Library archivist Renn Tal to cataloguing every text on Varyn, the Guardian and the Forge. Merely asking after Varyn Crona at that library was enough for a librarian to report the enquiry to the Iron Veil. Richard Blaze warned the Inevitables that facing her while the sword remained bound would be suicide. He was right.
 
 She believes Varyn’s soul resides in his sword and that it continues to guide and train her. She believes the Council of 13 murdered him and that she was owed every one of their lives. She believes that together she and her Hexblade will rule the world.
 

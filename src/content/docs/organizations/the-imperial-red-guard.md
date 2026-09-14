@@ -1,6 +1,6 @@
 ---
 title: The Imperial Red Guard
-description: Silent, eyeless undead honour troops in red robes. They stand at attention all night - and at Thronehold they obeyed the Empress, not the Admiral.
+description: Silent, eyeless undead honour troops in red robes. They stand at attention all night - and at Thronehold they obeyed the Empress and turned on the Admiral.
 type: organization
 kind: organizations
 tags:
@@ -63,7 +63,7 @@ The Empire's honour guard does not answer to the Empire's highest-ranking office
 
 Korth Ep 13. In the northeast corner of [the Ministry of Law](/organizations/the-ministry-of-law/), two levels of cells hold prisoners in varying states of distress and undress, **watched by Imperial Red Guard**. **Bantide Moro** was chained to a wall on the upper level under their supervision: starved, dehydrated, and still lucid enough to argue.
 
-[Eric](/people/eric-the-cleric/) tested them there. Standing at the cell bars in front of two of them, he said aloud that he was the Chancellor of Sharn and that the Emperor was not a man but a dragon — high treason and blasphemy in the same breath, at conversational volume. **He got no reaction at all.** Then, an hour later, Bantide cast *feign death* under those same eyes, was carried out as a corpse and dropped down the building's corpse chute into the stacks. <small>The Red Guard neither reported the treason nor noticed the escape. Whatever they are watching for, it is not that.</small>
+[Eric](/people/eric-the-cleric/) tested them there. Standing at the cell bars in front of two of them, he said aloud that he was the Chancellor of Sharn and that the Emperor was not a man but a dragon — high treason and blasphemy in the same breath, at conversational volume. **He got no reaction at all.** Then, an hour later, Bantide cast *feign death* under those same eyes, was carried out as a corpse and dropped down the building's corpse chute into the stacks. <small>The Red Guard neither reported the treason nor noticed the escape.</small>
 
 ## THE HALL OF SUBMISSION — WHERE THEY COME FROM
 
@@ -85,7 +85,7 @@ Korth was and outwardly remains a human city with big human institutions, but Hi
 
 **The Lord Commander's Honor Guard.** [Esther Crona](/people/esther-crona/)'s four masked, fully armoured bodyguards — identities, ranks and origins completely unknown for a decade — were revealed on her balcony as undead members of the [Council of 13](/organizations/the-council-of-13/). Same principle, applied to a murdered government rather than to volunteers.
 
-**The E.D.E.N. units.** Undead and hybrid constructs raised under the Empress's command, fought by the Silver Flame and the Hundreds across Khorvaire, built on a body-supply pipeline fed by Cogborn disappearances. In the Mournlands every fallen paladin rose moments later to join them. <small>Not the same troops. The same doctrine, industrialised.</small>
+**The E.D.E.N. units.** Undead and hybrid constructs raised under the Empress's command, fought by the Silver Flame and the Hundreds across Khorvaire, built on a body-supply pipeline fed by Cogborn disappearances. In the Mournlands every fallen paladin rose moments later to join them.
 
 **Death troopers.** Ringing the walls of Korth from outside, alongside the Empire's last airships.
 

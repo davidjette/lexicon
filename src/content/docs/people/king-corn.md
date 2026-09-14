@@ -82,7 +82,7 @@ His mother was [Queen Pu-Pu Platter Deeptempura](/people/queen-pu-pu-platter-dee
 
 - **KNELL** - his personal black-Khyber warhammer, older than the bells, named for the party by the kin. It cracks anything made of Shavat. Recovered from his corpse's arms on the hoard; carried now by [Sir Dario Argentino](/people/sir-dario-argentino/).
 - **The lead-bound folio** - the complete record of the forging: bell castings, tempering and hammering methods, harmonic-frequency mathematics, horn designs. It is a *Tome of Understanding*. Sealed in a chest under his study floor and opened for the first time since the massacre.
-- **The horn** - coiled brass, unornamented, asymmetrical, two mouthpieces, his smith-mark on it. Brass, not black metal, which means it can be copied.
+- **The horn** - coiled brass, unornamented, asymmetrical, two mouthpieces, his smith-mark on it. Brass, which means it can be copied.
 - **The Crown of Seven Stars** - infernal work, cursed. Claimed by Valtrex as his own property, traded away, and now in [Gemma Corso's](/people/gemma-corso/) bag, unworn.
 
 ## The Answering Note

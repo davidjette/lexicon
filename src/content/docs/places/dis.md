@@ -57,14 +57,12 @@ The Penteract was built in antiquity by [Tylerjynex](/people/tylerjinex/) with t
 
 ## The Seat
 
-That fragment is why the dead come here. Mortal souls are themselves fragments of **Zoth**, and in death they flock toward it because **they are seeking to recombine into Zoth at his Seat**. It is not a summons and not a judgement. It is gravity.
+That fragment is why the dead come here. Mortal souls are themselves fragments of **Zoth**, and in death they flock toward it because **they are seeking to recombine into Zoth at his Seat**.
 
 The locus produced two things on its own: **a kingdom of death**, and **a seat for a God of Death or Judgment** whose office is to control the flow of apostolic souls onward to the outer realms. The Seat has been **fought over for all time**. In the present of the chronicle it is held by the **Raven Queen**, who rules it as a **neutral arbiter** for the other gods and devils.
 
 ## The kidnapping, and the Infanta crisis
 
 **Asmodeus and [St. Cloud](/people/wainwright-st-cloud/) conspired to trap the Raven Queen's soul in a mortal — [Marcus](/people/marcus/).** With the arbiter gone from the Seat, souls could no longer reach the outer realms, and Asmodeus hoarded them. Gods cut off from the souls that sustain them had to **descend into the world to be near their followers or risk extinction and irrelevance** — and descending means being born into a dying mortal child.
-
-**That is what an [Infanta](/lore/the-infanta/) is, and that is why there are any.**
 
 **Related:** [Sigil](/places/sigil/) · [The Egg](/places/the-egg/) · [Marcus](/people/marcus/) · [The Lady of Pain](/people/the-lady-of-pain/) · [The Mammon Machine](/items/the-mammon-machine/) · [The Leviathan](/lore/the-leviathan/)

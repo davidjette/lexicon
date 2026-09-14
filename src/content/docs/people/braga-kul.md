@@ -63,7 +63,7 @@ Recorded chiefly by what he carried and what he did with it: a named orcish kata
 
 Braga Kul commanded a roughly twenty-strong **Uruk-Hoth** recon regiment emplaced at the [Mountain Door](/places/the-mountain-door/) for about five months, watching troop movements in and out of Korth and intercepting communications. His campaign book is the source for what that job actually meant, and for the fact that the war is coming to Korth and the first troops are already moving.
 
-It also records the one thing everybody wanted to know and nobody expected. His men pushed down the [Grand Stair](/places/the-grand-stair/), fought the things that came up from deeper inside, and came back - in his phrase - retching and talking about whispers. So they blocked the stair with rock and dirt and stayed upstairs. There is **no mention of the bell anywhere in his records**. The orcs were not here for the same reason as anyone else. They were doing reconnaissance and they were unlucky.
+It also records the one thing everybody wanted to know and nobody expected. His men pushed down the [Grand Stair](/places/the-grand-stair/), fought the things that came up from deeper inside, and came back - in his phrase - retching and talking about whispers. So they blocked the stair with rock and dirt and stayed upstairs. There is **no mention of the bell anywhere in his records**. The orcs were doing reconnaissance and they were unlucky.
 
 ## Public and private
 

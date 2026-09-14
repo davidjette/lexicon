@@ -67,7 +67,7 @@ Two women, both bearing an extinct mark, both inside the Imperial house.
 
 Master Armhair's confiscated manuscript, recovered from the Hall of Records at Korth under a false index, contains a dragon family tree traced back to the progenitors, an identification of Valtrex's father, and **a thread connecting the Mark of Death, Erandis Vol's birth, and the same dragon** — the vanished progenitor he calls [Viagra](/people/viagra/), and whom he claims is the being on the Imperial throne. Renn Tal, the Sharn archivist who traced the ritual [Priest E'noch](/people/priest-e-noch-qualanthri/) worked at the Forge of Binding to bind the Eternal Guardian, had reached the same suspicions from the other end of the continent.
 
-If Armhair's thread holds, the Mark of Death is not an aberration that appeared in an elvish house. It is what happens when one particular dragon's blood enters an elvish line — which would mean the alliance of elves and dragons that eradicated House Vol was hunting a dragon's own descendants, and that the dragon in question survived the purge by becoming a king.
+If Armhair's thread holds, the Mark of Death is what happens when one particular dragon's blood enters an elvish line — which would mean the alliance of elves and dragons that eradicated House Vol was hunting a dragon's own descendants, and that the dragon in question survived the purge by becoming a king.
 
 <small>Preserved ambiguity: the dragon by which Erandis Vol bore a child is called **the Crimson Sun**. So is the Empire's secret service, whose head was [Varyn Crona](/people/varyn-crona/) and whose sigil is carved in marble in the throne room. Both usages are in play and the connection between them is unresolved.</small>
 

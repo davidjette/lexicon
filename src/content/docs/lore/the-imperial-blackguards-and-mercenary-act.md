@@ -43,7 +43,7 @@ The Imperial Blackguards and Mercenary Act is an Imperial statute governing who 
 - **Smuggling weapons into the city is punishable by death.**
 - An armed, **unenlisted** bodyguard in the centre of the city requires **quite an authority** to bring in at all.
 - The bearer must be **appropriately licensed and insured** under the Act.
-- Failure to file is met on the spot with a written **official reprimand**, signed by the responsible officer of authority, not by the bodyguard.
+- Failure to file is met on the spot with a written **official reprimand**, signed by the responsible officer of authority.
 
 ## The forms
 

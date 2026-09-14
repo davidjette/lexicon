@@ -81,7 +81,7 @@ She believes a god born into a child should be allowed to be the child, whatever
 
 ## Signature capability — the boon of children
 
-What she grants the party at Bask Falls is not a weapon but a social fact: the immediate trust of any child. The following arc is a race between empires, cults and traffickers to lay hands on reborn gods who are, all of them, small children.
+At Bask Falls she grants the party the immediate trust of any child. The following arc is a race between empires, cults and traffickers to lay hands on reborn gods who are, all of them, small children.
 
 ## Right now
 

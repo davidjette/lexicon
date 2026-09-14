@@ -117,7 +117,7 @@ Elsewhere in the same room, Menka was overheard with Sister Nora — tone urgent
 
 ## THE SUPPLY CHAIN
 
-BioTec is the middle of a pipeline, not the whole of it. Reconstructed from Sister Nora's interrogation and Preacher's account:
+BioTec is the middle of a pipeline. Reconstructed from Sister Nora's interrogation and Preacher's account:
 
 - **Bodies** — dead Iron Veil soldiers, and Cogborn abducted by Edwin Graves.
 - **Warforged components** — manufactured and enhanced in-house by BioTec.

@@ -53,7 +53,7 @@ Old kinship claims still function here as currency. In the Great Hall of Rak'taf
 
 ## Present day
 
-On learning that the [bells](/items/the-hell-s-bell-fantanya-nyel/) were cast from an unknown planar ore, the Inevitables reached out to the dwarves of the Mror Holds, in the hope that ancient knowledge of ore and forging could reveal a weakness in the bell-metal. The answer came not from a library but from a clan still living beside the forge.
+On learning that the [bells](/items/the-hell-s-bell-fantanya-nyel/) were cast from an unknown planar ore, the Inevitables reached out to the dwarves of the Mror Holds, in the hope that ancient knowledge of ore and forging could reveal a weakness in the bell-metal. The answer came from a clan still living beside the forge.
 
 **Places of Interest:**
 

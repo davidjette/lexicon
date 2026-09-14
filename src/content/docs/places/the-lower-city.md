@@ -82,7 +82,7 @@ Below the streets run the sewers, the runoff passages off the aqueduct, and the 
 
 After the riot at [POSÉ](/places/pose/) the Iron Veil used the violence as justification to accelerate its occupation of the Cogs. Checkpoints divided upper from lower. Cogborn families were driven underground into a collapsing tunnel pocket called the Pit and cut off from their own neighborhood.
 
-The way out was not up. It was down: through the Underhive, along [the Spine](/places/the-spine/), and out under the mountain to [Gorgonhorn](/places/gorgonhorn/). The majority of the Cogborn left Sharn that way. Iron Veil presence in the Lower City later fell back to pre-Esther levels: patrols present, but predictable and spread thin.
+The way out was down: through the Underhive, along [the Spine](/places/the-spine/), and out under the mountain to [Gorgonhorn](/places/gorgonhorn/). The majority of the Cogborn left Sharn that way. Iron Veil presence in the Lower City later fell back to pre-Esther levels: patrols present, but predictable and spread thin.
 
 ## Present day
 

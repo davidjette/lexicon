@@ -48,8 +48,6 @@ It is an **impossible labyrinth**, and the design turns that impossibility into 
 - **Souls can eventually pass through**, because they have an eternity to spend on it.
 - **Anyone else fails**, because they do not.
 
-It is not a wall. It is a test whose only currency is patience, and the dead are the only ones who have enough.
-
 ## The exception
 
 The human servants who became [House Nimbus](/organizations/house-nimbus/) could crack it. Their Drow masters of [House Carls](/organizations/carls-jr-and-the-drow/) asked them to, and **they refused**.

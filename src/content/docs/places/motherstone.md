@@ -79,7 +79,7 @@ That ring holds the [Obliviator](/items/the-obliviator/). The crystal beneath it
 
 ## Founding
 
-The land was not empty when the elves came to it. It was the roost of the great Copper Dragon **Tylerjynex** of the Snowy Mountain — *"some would say a living god. But you and I would be more precise to call him — father."* Seeing goodness in the first [Infanta](/lore/the-infanta/), the dragon pledged fealty and conceived seven eggs to serve as her honour guard.
+When the elves came to it, the land was the roost of the great Copper Dragon **Tylerjynex** of the Snowy Mountain — *"some would say a living god. But you and I would be more precise to call him — father."* Seeing goodness in the first [Infanta](/lore/the-infanta/), the dragon pledged fealty and conceived seven eggs to serve as her honour guard.
 
 The city itself was a gift. [Silverbane](/people/silverbane/) — the moonblade that remembers what the world does not — recalls **Eldamir** and **Calix** of [House Gallidann](/organizations/house-gallidann/) standing "moments away from drowning their entire landing camp in the Sea of Swords" before the goddess stayed their hand and granted them the Motherstone. The relief carved along the Great Stairs records the result: elves, humans, orcs and dwarves ascending the staircase together toward the crystals, the Infanta and the elves of House Gallidann among them. The Armory mural tells the same story from the other end — two armies laying their weapons into a single silver chest, which is why surrendering your own arms is what opens that vault.
 

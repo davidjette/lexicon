@@ -64,7 +64,7 @@ Stone pre-empted him and threw himself into the Obliviator, and the act drove Ca
 
 ## Bearing
 
-Calix is a *baelnorn*: an elf who refused the grave and willingly turned himself undead. What the record fixes is not a face but a sigil — his mark is emblazoned on the iron blood seal in the Motherstone dungeon, and again, centuries and planes away, throughout the walls of the Old Man's House in [Sigil](/places/sigil/). In the rewritten past of [Arc VI](/history/arc-vi-time-of-troubles/) a very strange elf — undead, extraordinarily old — calling himself the **Masked Prophet** moves among the elves, and he matches the description.
+Calix is a *baelnorn*: an elf who refused the grave and willingly turned himself undead. The record fixes a sigil — his mark is emblazoned on the iron blood seal in the Motherstone dungeon, and again, centuries and planes away, throughout the walls of the Old Man's House in [Sigil](/places/sigil/). In the rewritten past of [Arc VI](/history/arc-vi-time-of-troubles/) a very strange elf — undead, extraordinarily old — calling himself the **Masked Prophet** moves among the elves, and he matches the description.
 
 ## House Gallidann, and the first Infanta
 

@@ -66,7 +66,7 @@ What she gave up before the block stopped her is the order's true portfolio. Pro
 
 [Gemma Corso](/people/gemma-corso/) spent eleven days inside the Korth house, entered as a lay penitent of the Host seeking work in the mercy-kitchens. *The sisters do not vet the grieving — grief is their coin, and I had rehearsed mine.* The findings: a cathedral-grade casting hung in the crossing with no rope and no clapper wheel, tended by three novices with white cloths at dawn in total silence, and warm to the touch in a Korth winter. Sung services in place of all ringing, and beneath the night office a slow pressure behind the ears at roughly one beat to every four of a heart, which the novices call *the Mother's breathing* and are proud of. The [Litany](/lore/the-litany/), taken from [Sister Maelis Dorn](/people/sister-maelis-dorn/)'s own mouth at a veiling. And the **Chorus Ledger** — grey leather, dove seal in white wax, chained to a courier-case that never leaves Dorn's reach; a novice called it *the mother-book of the Houses*, recording which house, which bell, which consecration-day.
 
-**Assessment:** the order is not a charity that has been captured. It is the delivery mechanism. Every bell in every [House of Mercy](/organizations/the-houses-of-mercy/) is consecrated by the Sisters alone, on delivery, with foundry personnel excluded and reminded that curiosity is a breach of contract.
+**Assessment:** the order is the delivery mechanism. Every bell in every [House of Mercy](/organizations/the-houses-of-mercy/) is consecrated by the Sisters alone, on delivery, with foundry personnel excluded and reminded that curiosity is a breach of contract.
 
 ## THE SEALED DOOR AT THE KORRANBERG FOUNDRY
 

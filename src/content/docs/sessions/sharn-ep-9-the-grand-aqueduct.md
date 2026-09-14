@@ -49,7 +49,7 @@ The episode ended at the entrance of a massive drain tunnel leading further into
 
 ## Revelations
 
-- The Drain Snakes are not merely a gang. One of them is wearing a [BioTec](/organizations/biotec/) Security jacket, and BioTec agents are dying in the same tunnels.
+- One of the Drain Snakes is wearing a [BioTec](/organizations/biotec/) Security jacket, and BioTec agents are dying in the same tunnels.
 - The Grand Aqueduct is the seam between the Lower City and the Underhive, and it is passable if you have a guide.
 - Doppler Klink and Snodgrass are willing to go underground with the trio — the beginning of a crew rather than a trio.
 

@@ -82,7 +82,7 @@ Elistrae's own use of the machine ran through him. Lex's account: "when he was i
 
 Two inputs. **Diadems** worn by "teams … in the field," from which it "transmitted and received data"; and the **Gate Ring**, a stable abyssal vortex the mage **Calix** opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward the crystal. Motherstone became "a hub of the universe, a living library of all knowledge."
 
-Knowledge without limit drove it "cynical and dazed," unable to sort through the vast detail the universe described to it. The remedy found for that condition was the [Obliviator](/items/the-obliviator/), "as it is now called" — an engine to refine the Lexicon's mind by deleting the world's excess detail, not from the archive but from every mind that had ever held it.
+Knowledge without limit drove it "cynical and dazed," unable to sort through the vast detail the universe described to it. The remedy found for that condition was the [Obliviator](/items/the-obliviator/), "as it is now called" — an engine to refine the Lexicon's mind by deleting the world's excess detail from every mind that had ever held it.
 
 ## Broken
 
@@ -107,7 +107,7 @@ The [Company](/organizations/sword-coast-trading-company/) spent years failing t
 
 ## What became of it
 
-The Lexicon was not destroyed in a battle. It was **scrammed** — shut down from its own console, by a man who knew how it worked.
+The Lexicon was **scrammed** — shut down from its own console, by a man who knew how it worked.
 
 The mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) reached the **Seat of the Lexicon**, at the underground focal point of Motherstone's largest crystal, while the party was away in Cormyr. Wearing a body taken from the automaton Centurions stored nearby, it set out to corrupt and destroy the Lexicon and so lower the city's defences, since the Lexicon powered and managed the great **Mythal**. The party destroyed that body. When [Roland Deschain](/people/roland-deschain/) moved to destroy the heart itself, **the heart possessed him** — and because Roland is an artificer who had helped build the machine with [Magnus](/people/brother-magnus/), the possession used his own knowledge to shut the entire Lexicon program down, almost for good.
 

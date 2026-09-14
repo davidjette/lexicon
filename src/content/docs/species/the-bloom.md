@@ -87,11 +87,11 @@ The ask has never changed:
 - **[Egg Roll](/people/egg-roll/).** A duergar boy who went for water and did not come back. Found invisible in a mine tunnel, he described the wriggling in his brain accurately, agreed that he must fight it, and said plainly that he could not say no. He ran through a wall of fire to reach the bell and died doing it.
 - **[Hetta](/people/hetta/).** The scout sent to find the boy. He came back with mould across his face and mushrooms at the corners of his mouth, and cast *shatter* at the Thirteenth Casting.
 
-Anyone infected who dies comes back **lucid** - reasoning, conversational, aware - unlike the Black Dove dead upstairs, who cannot be reasoned with at all. That is the party's own synthesis, and it is the difference between a corpse and a princess who kept doing inventory for three years.
+Anyone infected who dies comes back **lucid** - reasoning, conversational, aware - unlike the Black Dove dead upstairs, who cannot be reasoned with at all. That is the party's own synthesis.
 
 ## What it actually is
 
-With the Thirteenth Casting broken, the voice finally resolved for the one man still hearing it. It is not a demon and it is not a god. It is a **recorded personality**, still delivering the same instruction it gave the courier a decade ago, from inside a fungus, to whoever is standing closest; the voice is LeBeefe's.
+With the Thirteenth Casting broken, the voice finally resolved for the one man still hearing it. It is a **recorded personality**, still delivering the same instruction it gave the courier a decade ago, from inside a fungus, to whoever is standing closest; the voice is LeBeefe's.
 
 On the walk out of the mountain it lectured Eric all the way through the Glitterhame while the gricks nipped harmlessly at his heels: that Empress [Uriel Qualanthri](/people/uriel-qualanthri/) took more than ore out of the mountain and made a deal with the devil in the reliefs; that **Kaius is a vampire** and always has been, descended from [the Crimson Sun](/organizations/the-crimson-sun/) and kept alive as a vessel; that the dragon blood in that line has gone too thin over centuries for a man who is not technically alive to sire children; and therefore that if you wish to turn a man back into a dragon, you feed him a dragon's blood.
 

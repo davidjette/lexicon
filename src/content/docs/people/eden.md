@@ -113,7 +113,7 @@ She believes — Faith Zeir insisted on this, to Esther's face, in a room full o
 
 ## Conduct in the Field
 
-She is deployed, not stationed. Iron Veil airships put her into the Glass Plateau and she works: killing Hundreds, holding ground no living soldier can hold, covering the extraction of [Red Khyber](/items/red-khyber/) out of irradiated wasteland. Three years after Sharn fell the Eden units were still in the field: **Zero-One** was taken alive by Eden units when Zilspar Farm was destroyed, and the rebel surgeon who heard it wept.
+Iron Veil airships put her into the Glass Plateau and she works: killing Hundreds, holding ground no living soldier can hold, covering the extraction of [Red Khyber](/items/red-khyber/) out of irradiated wasteland. Three years after Sharn fell the Eden units were still in the field: **Zero-One** was taken alive by Eden units when Zilspar Farm was destroyed, and the rebel surgeon who heard it wept.
 
 ## Origin
 

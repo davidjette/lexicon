@@ -70,7 +70,7 @@ Last line before the burn: *"Dockets burned per standing instruction, this leaf 
 
 What the audit found, and what it conspicuously did not:
 
-- **No records at all for the last three years.** Not thin records. None.
+- **No records at all for the last three years.**
 - Roughly **seven years** of freight schedules before that: ore in, "large classified objects" out. The improved rail was built when the House of Kaius bought the [Korramont](/places/the-korramont/) about ten or eleven years ago.
 - **Archaic property records of dwarvish slaves owned by the Trust.** A trust, holding title to people, filed alongside the freight.
 - A handwritten, unofficial **death tally**: roughly **97% of the dwarvish workforce destroyed in "the accident,"** about three years ago - the same year Sharn fell. It is in nobody's official hand.
@@ -95,7 +95,7 @@ The room it was processed in has the administrative papers still on the table an
 
 ## The contradiction
 
-The Trust's schedule is proud of hitting its dates. Its crates hold a slave register and a death tally in the same drawer. Its gate has a brazier for burning the evidence and its clerk has a script about a rail that never existed. The massacre that ended the works was not an industrial accident: it was an order, executed by the Trust's own overseer, on the House's own paper, over the Emperor's own signature, with a provision at the bottom instructing the overseer to finish with himself.
+The Trust's schedule is proud of hitting its dates. Its crates hold a slave register and a death tally in the same drawer. Its gate has a brazier for burning the evidence and its clerk has a script about a rail that never existed. The massacre that ended the works was an order, executed by the Trust's own overseer, on the House's own paper, over the Emperor's own signature, with a provision at the bottom instructing the overseer to finish with himself.
 
 **Members:** an overseer at the works, dead and still counting; a clerk at the office, alive, helpful, and keen on his rating; a foundry man at the gate with a brazier; and an owned workforce that the paperwork lists as property.
 

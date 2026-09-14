@@ -75,13 +75,13 @@ She was born to the Moro family and rebelled against it. She ran away to join wh
 
 ## Fulcrum, and the hospital
 
-The Silver Flame keeps civilian hospitals inside the Karrnathi Empire, which is the sort of arrangement that survives only as long as nobody looks hard at it. Bantide ran one of them as head nurse. Beneath and alongside that work sat the rebellion's entire medical capability: not a field service but a standing one, supplying everything from surgery to revivification to people who could not be admitted anywhere, under a cover job that let her move casualty paperwork around to hide them. Fulcrum, the rebel network she served, has since been dismantled across the continent as though the Empire obtained a list of every name on it.
+The Silver Flame keeps civilian hospitals inside the Karrnathi Empire, which is the sort of arrangement that survives only as long as nobody looks hard at it. Bantide ran one of them as head nurse. Beneath and alongside that work sat the rebellion's entire medical capability: a standing service supplying everything from surgery to revivification to people who could not be admitted anywhere, under a cover job that let her move casualty paperwork around to hide them. Fulcrum, the rebel network she served, has since been dismantled across the continent as though the Empire obtained a list of every name on it.
 
 ## The clerk and the surgeon
 
 Officially, Bantide Moro is an **Imperial medical records keeper**: casualty reporting, inventory, staffing and logistics, latterly in the Anduin conflict area. It is a dull, respectable, entirely checkable post, and it is why the Empire's case against her is built out of paperwork.
 
-Actually, she has **worked for Izaak for twenty years**. She is the rebellion's surgeon. She performed the operation that fitted Izaak's prosthetic leg. The two lives were the same job done twice — the woman who files the casualty report is the woman who decides which casualties get filed — and she ran it for two decades without being caught. She was caught in the end not by police work but by proximity: *"being that close to the Emperor is why your suspicion was laid on you."*
+Actually, she has **worked for Izaak for twenty years**. She is the rebellion's surgeon. She performed the operation that fitted Izaak's prosthetic leg. The two lives were the same job done twice — the woman who files the casualty report is the woman who decides which casualties get filed — and she ran it for two decades without being caught. She was caught in the end through proximity: *"being that close to the Emperor is why your suspicion was laid on you."*
 
 ## The Nightingale
 
@@ -95,7 +95,7 @@ She stood in irons at the centre of eight judges, watched her own sister walk in
 
 ## What broke her
 
-Not the rescue. The truth. [Eric](/people/eric-the-cleric/) told her plainly, in front of the Imperial Red Guard, that he agreed her sister had betrayed her; that the woman in front of her was not Deirdre, because he had helped kill Deirdre himself; that he was the Chancellor of Sharn; and that the Emperor is not a man but a dragon. The Red Guard did not react to any of it. She asked for one thing — a holy symbol of the Silver Flame — and when [Gemma](/people/gemma-corso/) told her outright that she was not her sister, her face went from vindication to grief.
+[Eric](/people/eric-the-cleric/) told her plainly, in front of the Imperial Red Guard, that he agreed her sister had betrayed her; that the woman in front of her was not Deirdre, because he had helped kill Deirdre himself; that he was the Chancellor of Sharn; and that the Emperor is not a man but a dragon. The Red Guard did not react to any of it. She asked for one thing — a holy symbol of the Silver Flame — and when [Gemma](/people/gemma-corso/) told her outright that she was not her sister, her face went from vindication to grief.
 
 > "You want to win. More than anything, you have to win. That's why I know what happened out there was fake. The real Deirdre would never, ever fail."
 
@@ -107,7 +107,7 @@ Unfooled, and expensive to lie to. She read the courtroom rescue instantly as a 
 
 ## What she gave them
 
-Safe in the apartment, she told them the rest. Fulcrum has not merely lost Zilspar Farm; it is being dismantled across the whole continent, people pulled out of every posting on invented charges, executions running for days, as though the Empire had obtained the full list of names. All of it began after **Izaak disappeared**. She refuses to believe he informed and insists he is still alive. When she learned that **Zero-One** had been taken outside Sharn by Eden units, she wept.
+Safe in the apartment, she told them the rest. Fulcrum has lost Zilspar Farm and is being dismantled across the whole continent, people pulled out of every posting on invented charges, executions running for days, as though the Empire had obtained the full list of names. All of it began after **Izaak disappeared**. She refuses to believe he informed and insists he is still alive. When she learned that **Zero-One** had been taken outside Sharn by Eden units, she wept.
 
 Then, too exhausted to travel and too wanted to be seen, she gave them the one thing she had left: an **Imperial listening post on the east side of the city, beside [the Hall of Submission](/places/the-hall-of-submission/)**, holding the records that would explain what happened to Izaak and to Zero-One.
 

@@ -60,7 +60,7 @@ House Vol was an aberrant elvish house eradicated by humans, giants and "good" e
 
 ## Public and private
 
-In the Empire's public record she does not exist; named dragon records have been removed from the archives at Korth wholesale, and the Vol matter is a closed antiquarian question. In the [Blood of Vol](/organizations/blood-of-vol/)'s street theology she is barely mentioned — the cult worships the Emperor's blood, not hers, though it bears her house's name. In the Black Doves' liturgy she is not named at all: the consecration rite of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) binds the bells to *"the unholy blood and the great mother,"* and leaves the identification to the officiant.
+In the Empire's public record she does not exist; named dragon records have been removed from the archives at Korth wholesale, and the Vol matter is a closed antiquarian question. In the [Blood of Vol](/organizations/blood-of-vol/)'s street theology she is barely mentioned — the cult worships the Emperor's blood, though it bears her house's name. In the Black Doves' liturgy she is not named at all: the consecration rite of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) binds the bells to *"the unholy blood and the great mother,"* and leaves the identification to the officiant.
 
 ## Competence and circle
 

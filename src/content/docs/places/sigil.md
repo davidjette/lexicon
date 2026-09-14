@@ -56,7 +56,7 @@ wa:
 
 > Portals to other worlds and even the depths of hell are tucked into windows, doorways, potholes, and street signs. Each of these portals requires a key or phrase to activate them, and these secrets are the currency of this city.
 
-Sigil's economy is not goods but access, and the Sword Coast Trading Company, built on planar shipping, made the city its headquarters.
+Sigil's economy runs on access, and the Sword Coast Trading Company, built on planar shipping, made the city its headquarters.
 
 ## A drowning refuge
 

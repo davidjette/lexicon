@@ -60,9 +60,9 @@ The system descends from the old Galifar courts and was genuinely reformist when
 
 In practice it does not seek truth. **It seeks atonement.** The doctrine is a kind of original sin — the condemned may be innocent of the charge but is guilty of something, and absolution requires submission to the will of the court, which stands in for the Emperor.
 
-- **You are the condemned, not the defendant.** Guilt is the premise.
+- **You are the condemned.** Guilt is the premise.
 - There is **no defence counsel**, **no discovery**, and no complex evidentiary rules — only a panel of judges whose stated function is to interrogate the prosecution.
-- **Acquittal is common.** The panel is not a rubber stamp; it is an auditor of the prosecutor's work.
+- **Acquittal is common.** The panel audits the prosecutor's work.
 - In place of a defence there is a **kin and patron system**: a person of standing qualified by the state — a spouse, a child, a sibling, an employer or a patron — may testify to the condemned's value to society.
 - **Sabotage, espionage and embezzlement all carry death.** Falsifying records carries a term equivalent to twenty-five human years, scaled by race and expected lifespan.
 - **Monster races receive harsher penalties, are denied advocates entirely, and have execution methods defined specifically so that they can be executed at all.**

@@ -74,7 +74,7 @@ Beneath it, a simple set of notes — the fugue, expanded in the sheet music tak
 
 ## THE TREATISE
 
-The folio is also a **Tome of Understanding** — a genuine work of instruction, not merely a workbook. Its subject is metallurgy and leadership, and it leans throughout on the metaphor of mixing alloys as the ingredients of a strong civilisation. Read properly it grants a permanent increase in Wisdom, to a maximum of 30, over forty-eight hours of study across sixty days.
+The folio is also a **Tome of Understanding** — a genuine work of instruction. Its subject is metallurgy and leadership, and it leans throughout on the metaphor of mixing alloys as the ingredients of a strong civilisation. Read properly it grants a permanent increase in Wisdom, to a maximum of 30, over forty-eight hours of study across sixty days.
 
 <small>A dwarven king enslaved in his own hold, writing a book about how you blend a people into something that holds under load, in the margins of the drawings for the weapon his captors made him build.</small>
 

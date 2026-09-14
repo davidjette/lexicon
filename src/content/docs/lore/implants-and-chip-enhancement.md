@@ -46,7 +46,7 @@ gallery:
 
 Chip enhancement is ordinary commerce in the Lower City. The **Graft & Gear** implant clinic operates openly inside the Ziggurat, among the markets and the fast eateries. **Circuit City**, the largest building on Gear Street, was known citywide for chip implants and refurbished [BioTec](/organizations/biotec/) equipment, and served the workers of the Cogs and the Lowline Ward. Its owner had a professional reputation, immaculate paperwork and rare inventory.
 
-For the [Cogborn](/species/the-cogborn/) this is not cosmetic. It is how a worker keeps working after the factory has taken something off them, and how the job is kept. Circuit City, the market that sold them their hands, was owned by [Edwin Graves](/people/dr-edwin-graves/), who was collecting their bodies.
+For the [Cogborn](/species/the-cogborn/) this is how a worker keeps working after the factory has taken something off them, and how the job is kept. Circuit City, the market that sold them their hands, was owned by [Edwin Graves](/people/dr-edwin-graves/), who was collecting their bodies.
 
 ## Imperial Applications
 

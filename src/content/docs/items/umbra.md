@@ -43,7 +43,7 @@ gallery:
 
 **Material · Grown and supplied by Malrik Zeir · Transported across Khorvaire by Hallorn d'Lyrandar · Consumed by Project E.D.E.N. and by the Children of Ember · Sharn supply severed**
 
-Umbra is a cultivated necromantic reagent. It is not mined; it is grown by [Malrik Zeir](/people/malrik-zeir/), a Valenar high elf and a vampire, and moved across Khorvaire by his half-brother [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), the Empire's Head of Transportation. It is used to prepare corpses for the [Black Doves](/organizations/the-black-doves/)' necromantic rites, to drug the living kept as blood cattle beneath [The Vault Below](/places/the-vault-below/), and in the infusion that produced [EDN-00](/people/eden/), the first result of [Project E.D.E.N.](/organizations/project-e-d-e-n/) With both Zeirs and Hallorn d'Lyrandar dead, the Sharn end of the pipeline is severed.
+Umbra is a cultivated necromantic reagent. It is grown by [Malrik Zeir](/people/malrik-zeir/), a Valenar high elf and a vampire, and moved across Khorvaire by his half-brother [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), the Empire's Head of Transportation. It is used to prepare corpses for the [Black Doves](/organizations/the-black-doves/)' necromantic rites, to drug the living kept as blood cattle beneath [The Vault Below](/places/the-vault-below/), and in the infusion that produced [EDN-00](/people/eden/), the first result of [Project E.D.E.N.](/organizations/project-e-d-e-n/) With both Zeirs and Hallorn d'Lyrandar dead, the Sharn end of the pipeline is severed.
 
 ## The Supply Chain
 

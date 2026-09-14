@@ -82,7 +82,7 @@ Enormous, thick-armed and permanently wet to the knee. His face is broad and har
 
 ## The undercity
 
-The undercity is not one place. It is a stack of failures: sewer lines, storm drains, maintenance shafts, abandoned sub-transit routes, collapsed Cogs tunnels and, beneath all of it, Dhakaani work older than the city. Nobody administers it. Gangs like [the Drain Snakes](/organizations/the-drain-snakes/) hold stretches of it by force, giant crocodiles and rat swarms hold others, and the people who most need to move through it are the ones least able to.
+The undercity is a stack of failures: sewer lines, storm drains, maintenance shafts, abandoned sub-transit routes, collapsed Cogs tunnels and, beneath all of it, Dhakaani work older than the city. Nobody administers it. Gangs like [the Drain Snakes](/organizations/the-drain-snakes/) hold stretches of it by force, giant crocodiles and rat swarms hold others, and the people who most need to move through it are the ones least able to.
 
 The surface knows him, if at all, as a large man living rough in a blocked drainpipe near the Cogborn encampments. He is a ranger with a memory for tunnel layouts and a talent for tracking movement through the undercity, he hunts sewer gators and tunnel beasts to feed Cogborn families, and [Preacher](/people/preacher/) trusts him to scout routes, confirm safe passages and detect Imperial patrols long before they reach the lower levels. He is not formally part of [R.U.S.T.](/organizations/r-u-s-t/) He does the work anyway.
 

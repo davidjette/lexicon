@@ -129,7 +129,7 @@ Jessica runs rebel intelligence for a free city that is out of fuel and weeks fr
 
 - **Izaak** — her liaison to Fulcrum for over nine years. Presumed dead.
 - **Zero of Sharn** — Nest cleric and covert agent; Izaak's half-sister. Alive.
-- **Zero-One** — Fulcrum's leader; strategic peer, not superior. Taken alive by Eden units.
+- **Zero-One** — Fulcrum's leader; strategic peer. Taken alive by Eden units.
 - **Richard Blaze** — the secret she was brought in to protect and run. Alive, officially dead.
 - **Lorian** — trained with Izaak and Jessica after his rescue; later remained in Sharn, reluctantly, to assist her with rebel intelligence. Alive.
 - **Renn Tal** — archivist; met the party through Jessica's own lockbox key, and later took the Eye of Corruption out of her hands. Alive.

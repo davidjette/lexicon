@@ -57,16 +57,16 @@ Jarot's children were unable to live in peace and fought to claim the empire as 
 
 ## THE CLAIMS THE TALE MAKES
 
-The tale gives the Empire a founder older than the war — Galifar — so that the Pax Imperium is a restoration and not a conquest. It assigns the hundred years of ruin to Jarot's quarrelling children rather than to any living house. It puts the deadliest event in recorded history in the Emperor's own hand and calls it a mercy: he did not destroy Cyre, he ended the Last War. And it converts the survivors into worshippers. The [Warforged](/lore/warforged/), the only living things left standing in Cyre, are written as a congregation that thanked him for the gift of their own graveyard. In the Empire the anniversary is not a day of mourning. It is called **the Rejuvenation**.
+The tale gives the Empire a founder older than the war — Galifar — so that the Pax Imperium is a restoration and not a conquest. It assigns the hundred years of ruin to Jarot's quarrelling children rather than to any living house. It puts the deadliest event in recorded history in the Emperor's own hand and calls it a mercy: he did not destroy Cyre, he ended the Last War. And it converts the survivors into worshippers. The [Warforged](/lore/warforged/), the only living things left standing in Cyre, are written as a congregation that thanked him for the gift of their own graveyard. In the Empire the anniversary is called **the Rejuvenation**.
 
 ## THE ACCOUNT FROM MT. SILICON
 
 Three years after the fall of Sharn, [Locke Pierce](/people/locke-pierce/) took [Eric](/people/eric-the-cleric/), [Gemma](/people/gemma-corso/) and [Dario](/people/sir-dario-argentino/) into a control chamber inside the Warforged stronghold at Mt. Silicon and showed them a weapon he had built: a deliberate, controlled recreation of the Mourning itself. He spoke of the Crimson Sun and of the power it had once unleashed, and then he pressed the switch. A red dome bloomed silently across the northern Mournlands, obliterated a portal site and the ships hanging above the border, and was visible from Thronehold. He called it **the Ruby Nova**.
 
-The free states, watching it on the arceye feeds beside the wreck of the Thronehold Summit, named it something else: **the Last Mourning**. Pierce is not the Emperor; he was in the room when the Empire's founding relic came out of the ground, and he understood the Mourning well enough to build a second one that could be aimed.
+The free states, watching it on the arceye feeds beside the wreck of the Thronehold Summit, named it something else: **the Last Mourning**. Pierce was in the room when the Empire's founding relic came out of the ground, and he understood the Mourning well enough to build a second one that could be aimed.
 
 ## THE NAMES THE TALE USES
 
-The troupe's spellings are its own and are preserved above. The Emperor signs himself KAIUS — the death warrant recovered beneath the Korranberg Foundry is signed **Kaius III** — while the ancestral kings of Karrnath are the Kaius line the tale invokes. Galafar for Galifar, Karnnath for Karrnath, Breeland for Breland: a script written to be heard, not read.
+The troupe's spellings are its own and are preserved above. The Emperor signs himself KAIUS — the death warrant recovered beneath the Korranberg Foundry is signed **Kaius III** — while the ancestral kings of Karrnath are the Kaius line the tale invokes. They include Galafar for Galifar, Karnnath for Karrnath and Breeland for Breland.
 
 The tale also names the Emperor's **loyal 13** on the mountaintop. Thirteen recurs elsewhere in the Empire's business: thirteen [Master bells](/items/the-hell-s-bell-fantanya-nyel/), thirteen [Doves](/organizations/the-black-doves/) and thirteen planes in the consecration rite, and the undead members of the Council of 13 who stood as [Esther Crona](/people/esther-crona/)'s Honor Guard on a balcony in Sharn.

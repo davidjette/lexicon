@@ -58,7 +58,7 @@ Vex called down his warships and ordered them to fire on the Summit grounds. Exp
 
 ## Revelations
 
-- The undead guards at the Summit answer to [Uriel Qualanthri](/people/uriel-qualanthri/), not to Vex. The Empire's own Admiral was walked into a trap by his Empress.
+- The undead guards at the Summit answer to [Uriel Qualanthri](/people/uriel-qualanthri/). The Empire's own Admiral was walked into a trap by his Empress.
 - Vex will shell a peace conference — delegates, civilians and all — rather than lose it.
 - The [Black Dove](/organizations/the-black-doves/) sisters flee immediately as the undead turn on Vex and anyone in their path.
 - Joseph Roberts runs. When the bombardment begins and rooftops erupt in flame, Roberts wastes no time, he turns his ship and flees the island entirely.

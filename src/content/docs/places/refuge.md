@@ -33,7 +33,7 @@ Refuge is a settlement and the site of [the Mammon Machine](/items/the-mammon-ma
 
 ## The repeating hour
 
-The party dreams of it afterwards: "Couch — **The clock tower of Refuge** — striking noon and collapsing." <small>(Arc V, [Starfall](/history/arc-v-starfall/), Part III, "Dreaming." That is the hour, seen from inside it.)</small>
+The party dreams of it afterwards: "Couch — **The clock tower of Refuge** — striking noon and collapsing." <small>(Arc V, [Starfall](/history/arc-v-starfall/), Part III, "Dreaming.")</small>
 
 <small>"Long before Refuge, this gang of witches, thieves, and outlaws has managed to…" — the line in Arc V Parts I–II is cut off, and dates the town as older than the events here.</small>
 

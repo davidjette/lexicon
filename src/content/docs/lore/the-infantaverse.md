@@ -50,7 +50,7 @@ The **Infantaverse** is the shared setting behind four canon campaigns. It is a 
 
 The event the world calls the [Oblivia](/lore/the-oblivia/) — the End of the Infanta — erased knowledge from the world, and erased itself along with the rest. What survives of it is armies that laid down their weapons without remembering why, relics with no attributed makers, a religious order or two, a symbol, a myth.
 
-The mechanism is not metaphorical. The setting contains an actual machine, the [Obliviator](/items/the-obliviator/), whose nature is that any information passing within its arcane horizon is destroyed "not just in that instance, but in the minds of everyone who ever lived." And at the end of time the heroes learn the machine is a small copy of a larger one: **Time itself is the Obliviator**, invented by a divided god-child to hide its consciousness from a blind father who devours by remembering.
+The setting contains an actual machine, the [Obliviator](/items/the-obliviator/), whose nature is that any information passing within its arcane horizon is destroyed "not just in that instance, but in the minds of everyone who ever lived." And at the end of time the heroes learn the machine is a small copy of a larger one: **Time itself is the Obliviator**, invented by a divided god-child to hide its consciousness from a blind father who devours by remembering.
 
 ## The four canon campaigns
 

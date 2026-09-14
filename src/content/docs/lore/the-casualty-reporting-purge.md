@@ -53,11 +53,11 @@ The letters entered in evidence against her were letters she had written to a be
 
 Karrnathi justice descends from Galifar and was once reformist. It now seeks atonement rather than truth. Its architecture, learned by the trio in the Ministry of Records the day before they had to work inside it:
 
-- The accused is not the accused. She is **the condemned**. Guilt is presumed.
+- The accused is called **the condemned**. Guilt is presumed.
 - There is no defence counsel. There is no discovery.
 - Judges interrogate the prosecution; nobody interrogates the evidence.
 - The condemned may be innocent of the charge and guilty of something, and absolution requires submission to the court, which stands in for the Emperor.
-- In place of a defence there is a kin-and-patron system: spouses, siblings, employers or patrons testify to the condemned's **value**, not to her innocence.
+- In place of a defence there is a kin-and-patron system: spouses, siblings, employers or patrons testify to the condemned's **value**.
 
 The High Court chamber is overlooked by an Iron Maiden designed to kill the condemned while preserving the body intact for **second service**. The Empire that is prosecuting the casualty returns raises its own dead.
 

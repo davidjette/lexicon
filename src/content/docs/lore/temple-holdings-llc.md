@@ -55,7 +55,7 @@ wa:
 
 ## Where the name comes from
 
-It is not a grand title. It is a property purchase. Midway through the first arc, the garrison marches out of **Harloch** and leaves the town undefended; the Jarl, saved by the party, begs them to make it their home and offers to sell them the derelict **Old Temple**. They buy it — as a base, and as a refuge for the Cult of Elistrae — and in doing so give themselves a legal identity: **Temple Holdings, LLC**. The campaign is named after the heroes' real-estate holding company.
+The name comes from a property purchase. Midway through the first arc, the garrison marches out of **Harloch** and leaves the town undefended; the Jarl, saved by the party, begs them to make it their home and offers to sell them the derelict **Old Temple**. They buy it — as a base, and as a refuge for the Cult of Elistrae — and in doing so give themselves a legal identity: **Temple Holdings, LLC**. The campaign is named after the heroes' real-estate holding company.
 
 ## The company
 

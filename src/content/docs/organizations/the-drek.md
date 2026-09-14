@@ -65,4 +65,4 @@ The Drek attacked the party when it first reached Motherstone, because the lower
 
 <small>When [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, threw himself into the Obliviator, the Lexicon hit a fatal error — Ayror — and attacked everything while trying to learn the identity of its master, and of itself. The robotic spider that attacked the party wearing a dead dwarf's skin was under Ayror's command.</small>
 
-Neither people can name the betrayal they accuse each other of, because it was committed with the [Obliviator](/items/the-obliviator/), which does not merely conceal history but removes it from every mind that ever held it.
+Neither people can name the betrayal they accuse each other of, because it was committed with the [Obliviator](/items/the-obliviator/), which removes history from every mind that ever held it.

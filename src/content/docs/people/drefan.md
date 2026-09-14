@@ -84,7 +84,7 @@ He is the company's infiltrator, and his signature feat is theft on a scale nobo
 
 ## Signature capability — the sword that remembers
 
-Silverbane is not equipment. It is a witness with a persistent memory and blank spaces in it, and Drefan is the man it talks to. Beneath Motherstone it confesses the shame it guards: after the Forgetting, Eldamir and House Gallidann blamed the dwarves and waged not a war but a **genocide**, "capturing entire populations and leading them still alive into their tombs" — and only afterward did Eldamir discover Calix's plot and kill him, dying by his hand in the same stroke. In the rewritten past of [Arc VI](/history/arc-vi-time-of-troubles/), away from the Oblivia that erased the age, the blade recovers the rest.
+Silverbane is a witness with a persistent memory and blank spaces in it, and Drefan is the man it talks to. Beneath Motherstone it confesses the shame it guards: after the Forgetting, Eldamir and House Gallidann blamed the dwarves and waged war on them, a **genocide**, "capturing entire populations and leading them still alive into their tombs" — and only afterward did Eldamir discover Calix's plot and kill him, dying by his hand in the same stroke. In the rewritten past of [Arc VI](/history/arc-vi-time-of-troubles/), away from the Oblivia that erased the age, the blade recovers the rest.
 
 > I remember these times much better now… much of this age was erased from history, which for you is written record but for me, is empty spaces spoiling my persistent memory. But now that I've seen myself as I was in this time — with Eldamir — I remember what it was like.
 

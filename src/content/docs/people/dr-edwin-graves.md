@@ -78,7 +78,7 @@ Doctor Edwin Graves was a quiet, impeccably mannered businessman whose presence 
 
 ## The Trade He Fronted
 
-Circuit City is the largest building on Gear Street, in the busiest commercial artery of the Lower City, and it is known citywide for chip implants and refurbished BioTec equipment. Its customers are the workers of the Cogs and the Lowline Ward — the people for whom an [implant](/lore/implants-and-chip-enhancement/) is not a luxury but the difference between employment and destitution. Known publicly as the owner of Circuit City Chip Enhancement Parlor, Graves cultivated a reputation for professionalism, rare biotech inventory, and a polite distance from neighborhood politics, and he operated for years without drawing suspicion from the communities he preyed upon.
+Circuit City is the largest building on Gear Street, in the busiest commercial artery of the Lower City, and it is known citywide for chip implants and refurbished BioTec equipment. Its customers are the workers of the Cogs and the Lowline Ward — the people for whom an [implant](/lore/implants-and-chip-enhancement/) is the difference between employment and destitution. Known publicly as the owner of Circuit City Chip Enhancement Parlor, Graves cultivated a reputation for professionalism, rare biotech inventory, and a polite distance from neighborhood politics, and he operated for years without drawing suspicion from the communities he preyed upon.
 
 ## Public Face and Private Truth
 

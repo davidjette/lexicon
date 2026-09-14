@@ -49,7 +49,7 @@ Under the rug: sliding panels, and a stair down. At the bottom, a statue of a dw
 Inside were the two objects the whole campaign now turns on:
 
 - **The lead-bound folio** - in the clan shorthand. Drawings of bells and of the casting of the first bell; tempering and hammering methods; mathematical figures that read as harmonic frequencies and Fourier transforms; margin notes crowded with question marks, one word legible - **wounding** - beside a picture of a great hammer striking a bell; and drawings of horns worked against harmonic-resonance mathematics, trying to solve a problem about the common symmetries of multiple waveforms. It is also a *Tome of Understanding*, and as a book it is a treatise on metallurgy and leadership that leans throughout on the metaphor of alloys as the ingredients of a strong civilisation.
-- **The horn** - wrapped in oilcloth. Coiled brass, unornamented, oddly asymmetrical, with a couple of mouthpieces and Corn's own smith-mark on it. Brass, and not black metal, which is the point: the method for making it has since been confirmed in Sharn.
+- **The horn** - wrapped in oilcloth. Coiled brass, unornamented, oddly asymmetrical, with a couple of mouthpieces and Corn's own smith-mark on it. Brass. The method for making it has since been confirmed in Sharn.
 
 On the folio's last page, in plain Common and in a shaking hand: *"I made their key. Someone must learn to make its answer sing."* Beneath it, a simple set of notes - the fugue that the sheet music upstairs expands into the **fanfare of dawn**.
 

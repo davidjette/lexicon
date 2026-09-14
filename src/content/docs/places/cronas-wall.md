@@ -54,7 +54,7 @@ gallery:
 
 *Also known as:* The Wall
 
-Crona's Wall was a massive barrier of force, mythal-like in construction, raised across the Empire's western frontier to hold and push back the **Uruk-Hoth Republic**. It was not built by masons: it was maintained continuously by high-level Iron Veil wizards and casters stationed out of **Fort Crona** and along the Wall itself, and it was named for the Lord Commander whose western campaign it made possible. It collapsed in the three years after the fall of Sharn, opening the Eldeen Reaches to the Orc forces it had held back.
+Crona's Wall was a massive barrier of force, mythal-like in construction, raised across the Empire's western frontier to hold and push back the **Uruk-Hoth Republic**. It was maintained continuously by high-level Iron Veil wizards and casters stationed out of **Fort Crona** and along the Wall itself, and it was named for the Lord Commander whose western campaign it made possible. It collapsed in the three years after the fall of Sharn, opening the Eldeen Reaches to the Orc forces it had held back.
 
 ## Command
 

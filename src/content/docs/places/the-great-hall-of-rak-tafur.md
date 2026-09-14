@@ -70,7 +70,7 @@ Only Bofric walked out. The hall remains a camp under a mountain Valtrex has cla
 
 ## Places of Interest
 
-- **The throne and dais** - unoccupied. The Teryaki camp around it, not on it.
+- **The throne and dais** - unoccupied. The Teryaki camp around it.
 - **The council room** - behind the throne through an unlocked iron door: a table of black Khyber cut from a single slab, and a stone door carved as a dwarf's face.
 - **The foundry door** - past a young sentry and a warning, out into sulphur and heat and the still-glowing lava flows, with the [Bladeworks](/places/the-bladeworks/) across a gap where a bridge used to be.
 - **The shrine** - cleansed of [Velen Marsk](/people/overseer-velen-marsk/) and his ogres, and now the resting place of an unknown soldier and of the princess and heir.

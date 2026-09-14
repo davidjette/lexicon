@@ -84,7 +84,7 @@ Zebulon on what the ground used to be:
 
 > The Chronicle is said to be powered by the heat of an ancient volcano below the ground, but at one time, this was a towering and glittering ivory fortess. The Netherese destroyed it trying to get to the Chronicle. It must have erupted this magma to seal itself off and kill the attackers.
 
-<small>(Sic on "fortess." The subject of "It must have erupted this magma to seal itself off" is the Chronicle, not the volcano.)</small>
+<small>(Sic on "fortess." The subject of "It must have erupted this magma to seal itself off" is the Chronicle.)</small>
 
 ### Places of Interest
 

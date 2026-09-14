@@ -1,6 +1,6 @@
 ---
 title: The Grand Stair
-description: The masoned descent from the Mountain Door into the Glitterhame, flanked by the carved history of two bargains - and built to be climbed, not descended.
+description: The masoned descent from the Mountain Door into the Glitterhame, flanked by the carved history of two bargains - and built to be climbed.
 type: building / landmark
 kind: places
 tags:

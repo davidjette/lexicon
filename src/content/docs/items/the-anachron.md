@@ -100,7 +100,7 @@ The legends held that the Anachron warps time as it warps space. Lex explained w
 
 It is a **part of Zoth's ship**. The vessel of **Zoth-Ommog** — the Star Child, whose split soul are the gods of this realm — lay dormant on the ocean floor, and the aboleth built the city of [R'lyeh](/places/rlyeh/) around it. The **Infernal Machines** are salvage off that ship: the [Mammon Machine](/items/the-mammon-machine/) is half of the vessel, and the [Obliviator](/items/the-obliviator/) and [Anachron](/items/the-anachron/) were both parts of it.
 
-[Wainwright St. Cloud](/people/wainwright-st-cloud/) is how they reached the later world. He brought the dragons against the aboleth to get down to the ship, deactivated the Obliviator, took the Anachron, and then **flew the ship itself into space to meet Cthulhu and travelled forward in time with it, ahead of the impact**. <small>("The Penteract is a five-dimensional structure surrounding the City of Dis, which is ½ of Zoth's vessel (i.e Mammon Machine)." Arc VI, Time of Troubles Part VII. The **Penteract** is the five-dimensional barrier built around a **fragment** of the Mammon Machine trapped at the Heart of the [City of Dis](/places/dis/); Dis is a city, not a machine.)</small>
+[Wainwright St. Cloud](/people/wainwright-st-cloud/) is how they reached the later world. He brought the dragons against the aboleth to get down to the ship, deactivated the Obliviator, took the Anachron, and then **flew the ship itself into space to meet Cthulhu and travelled forward in time with it, ahead of the impact**. <small>("The Penteract is a five-dimensional structure surrounding the City of Dis, which is ½ of Zoth's vessel (i.e Mammon Machine)." Arc VI, Time of Troubles Part VII. The **Penteract** is the five-dimensional barrier built around a **fragment** of the Mammon Machine trapped at the Heart of the [City of Dis](/places/dis/).)</small>
 
 ## How it reached the Arcaneum
 
@@ -160,7 +160,7 @@ The Arielle came down in the deep, deep past — and the Anachron stayed there, 
 
 ## Deep time
 
-From that crash forward the machine has a life measured in ages rather than sessions. It survives as an object of immense power and curiosity, and it is taken up as the god and instrument of thousands of cultures in turn. Among the last of them are the **orcish artificers** — the people of **Zebulon the Meek**, who called it **the Chronicle** and who describe themselves not as its worshippers but as its archivists.
+From that crash forward the machine has a life measured in ages rather than sessions. It survives as an object of immense power and curiosity, and it is taken up as the god and instrument of thousands of cultures in turn. Among the last of them are the **orcish artificers** — the people of **Zebulon the Meek**, who called it **the Chronicle** and who describe themselves as its archivists.
 
 Zebulon's own account of what his people were and how they ended is the fullest description of any of those cultures. They held "an innumerable hoard of magical items," worked from "visions of the future, tremendous foreknowledge that allowed our people to accumulate so much, with our sole mission to protect it and prevent it from falling into the wrong hands." Then "after the queens of Netheril demanded that we open our archives to their archmages, our people were divided on how to answer… Our leaders took sides against themselves, so that when the Netherese attacked we were already defeated."
 

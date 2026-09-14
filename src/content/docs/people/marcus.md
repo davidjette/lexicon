@@ -80,7 +80,7 @@ Marcus is not an accident of reincarnation. Marcus is **where the Raven Queen wa
 
 The Raven Queen held the Seat of Death and Judgment at the Heart of the [City of Dis](/places/dis/), as a neutral arbiter between the gods and the devils, controlling the flow of souls onward to the outer realms. **Asmodeus and St. Cloud conspired to trap her soul in a mortal** — and the mortal is Marcus. With the Seat vacant, Asmodeus hoarded the dead, the gods began to starve, and they descended into mortal children to stay near their followers. **That is the Infanta crisis, and Marcus is its cause and its cure.**
 
-It also reframes the tomb in the Ride below. The Horseking and his Gravedigger were torturing a princess once a year to wake a god, and they were not wrong that a god was there to be found — they were looking in the wrong child, for a god somebody else had already put in a box.
+It also reframes the tomb in the Ride below. The Horseking and his Gravedigger were torturing a princess once a year to wake a god that somebody else had already put in a box, in a different child.
 
 ## Who she is
 

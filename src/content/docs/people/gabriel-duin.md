@@ -99,7 +99,7 @@ Duin is missing. The public reporting blames Lady Glow for her assassination. Th
 
 ## The name
 
-**Flagged, not resolved.** The surviving record of her carries two spellings. The older Black Doves entry calls her **Gabriel Duin**; the Campaign 1 document — the source for the Cyre murder, Project Godseed, the Dragonmark of Death and the disappearance — calls her **Gabrielle Duin** throughout and describes the same woman: a High Elf who leads the Blood of Vol, bears the Mark of Death, and consorts with the Emperor. Which is the typo has not been decided.
+**Unresolved.** The surviving record of her carries two spellings. The older Black Doves entry calls her **Gabriel Duin**; the Campaign 1 document — the source for the Cyre murder, Project Godseed, the Dragonmark of Death and the disappearance — calls her **Gabrielle Duin** throughout and describes the same woman: a High Elf who leads the Blood of Vol, bears the Mark of Death, and consorts with the Emperor. Which is the typo has not been decided.
 
 ### Personality Characteristics
 

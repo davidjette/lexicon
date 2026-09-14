@@ -63,7 +63,7 @@ In order:
 
 A giant Crimson Sun symbol is carved into marble in the throne room of [Emperor Kaius III](/people/emperor-caius-iii/).
 
-<small>Note the seat on the Council. The Master of the Crimson Sun sits on [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right — first Varyn Crona, then Hayman Maw, listed on the roster as "Human Sorcerer: Current head of the Crimson Sun." The Empire's secret police is not a bureau under a ministry. It is one of the thirteen heads of state.</small>
+<small>Note the seat on the Council. The Master of the Crimson Sun sits on [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right — first Varyn Crona, then Hayman Maw, listed on the roster as "Human Sorcerer: Current head of the Crimson Sun." The Empire's secret police is one of the thirteen heads of state.</small>
 
 ## REBEL OBSERVATION FILE — CRONA–BLAZE
 

@@ -54,7 +54,7 @@ wa:
 
 **Cthulhu is in many eggs, which roam endlessly.** One of them eventually meets Ydryssyl, destroys it, and kills it.
 
-[The Egg](/places/the-egg/) is not a unique object. It is one of many, and the others are still moving. June's account at the end of time describes the process from the far side: "Once the evening sky was bright with stars, but he swallowed nearly every one. These forgotten realms lie somewhere in the deepest past, erased by his incessant and unstoppable hunger." <small>(Arc V, Starfall Part VI.)</small>
+[The Egg](/places/the-egg/) is one of many, and the others are still moving. June's account at the end of time describes the process from the far side: "Once the evening sky was bright with stars, but he swallowed nearly every one. These forgotten realms lie somewhere in the deepest past, erased by his incessant and unstoppable hunger." <small>(Arc V, Starfall Part VI.)</small>
 
 The [timeline](/lore/the-infanta-timeline/) records what the impact left behind: the Moon cut off from Earth, the Feywild and Shadowfell split off, the Banefae exiled to become the Elves, and Ydryssyl itself destroyed — **becoming the Spire, which is [Sigil](/places/sigil/)**.
 

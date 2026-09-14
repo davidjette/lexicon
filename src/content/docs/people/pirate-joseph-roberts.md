@@ -59,7 +59,7 @@ There is a likeness of him in the Imperial Ministry of Law's Grand Lodge file, w
 
 **NicoPico's record:** *Pirate Joseph Roberts aka "The Collector" is a pirate known to sail the seas near the Dragon Watch Isles. He is known to have a large fleet of ships and collects "secrets and information" in order to get what he wants.*
 
-A pirate fleet in the Lhazaar tradition is not a navy and not a gang; it is a standing negotiation between captains, and Roberts sits at the head of one large enough to matter to governments. He does not primarily deal in cargo. His stock is leverage — what people did, who they did it with, and who has not yet been told. He trades in it the way a merchant house trades in ore.
+A pirate fleet in the Lhazaar tradition is a standing negotiation between captains, and Roberts sits at the head of one large enough to matter to governments. His stock is leverage — what people did, who they did it with, and who has not yet been told. He trades in it the way a merchant house trades in ore.
 
 To the ports he is a raider with an unusual pricing structure. To the rebellion he is a fleet that answers when [Blair](/people/blair/) calls, and the reason a pirate armada appeared over the Veil Building on the night the Iron Veil fell. To the Empire, as of three years later, he is a name on a Grand Lodge warrant. What is true underneath all three is that Roberts collects, and that no one who has dealt with him has ever established the full extent of what he already knew going in.
 
@@ -79,7 +79,7 @@ To the ports he is a raider with an unusual pricing structure. To the rebellion 
 
 ## Beliefs
 
-He believes information keeps better than gold and sells later at a higher price. He believes a fleet exists to be preserved, not spent. He believes a bargain made with him is complete when he says it is.
+He believes information keeps better than gold and sells later at a higher price. He believes a fleet exists to be preserved. He believes a bargain made with him is complete when he says it is.
 
 ## Conduct
 

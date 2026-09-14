@@ -54,7 +54,7 @@ The rite was recovered from the library of Sister Calvane in the reclaimed halls
 |  |  |
 |---|---|
 | **Officiants** | **Thirteen Doves.** Sisters of the Black Dove order, and no one else. |
-| **Invocation** | **All thirteen planes.** Not one patron plane. All of them. |
+| **Invocation** | **All thirteen planes.** |
 | **Binding** | The bell is bound to *"the unholy blood and the great mother."* |
 | **Sacrifice** | **A very dear sacrifice — a living child, or virgin royalty.** |
 

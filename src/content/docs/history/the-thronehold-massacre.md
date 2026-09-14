@@ -78,7 +78,7 @@ Vex began to rise into the air, lightning crawling across his body. Through the 
 
 ## THE TRAP
 
-The masked guards surged forward — and turned on Vex. They were not his. They were [Uriel](/people/uriel-qualanthri/)'s, and they attacked him and everyone in their path. The Black Dove sisters were already leaving the building. Vex, screaming of her betrayal, called down his own warships and ordered them to fire on the summit grounds. Explosions tore through the surrounding buildings and killed delegates and civilians.
+The masked guards surged forward — and turned on Vex. They were [Uriel](/people/uriel-qualanthri/)'s, and they attacked him and everyone in their path. The Black Dove sisters were already leaving the building. Vex, screaming of her betrayal, called down his own warships and ordered them to fire on the summit grounds. Explosions tore through the surrounding buildings and killed delegates and civilians.
 
 The Dread Pirate [Joseph Roberts](/people/pirate-joseph-roberts/)' airship had just arrived at Thronehold. When the bombardment began he turned it around and left the island entirely.
 

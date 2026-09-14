@@ -61,7 +61,7 @@ He has a golden snout — which is how he recognises his own kind in a drowning 
 
 ## The honour-guard he did not know he belonged to
 
-Motherstone was not empty land when the Infantas came; it was the roost of the copper dragon [Tylerjynex](/people/tylerjinex/). Seeing goodness in the Infanta, he pledged fealty and conceived **seven eggs** to be her honour guard, raised by the white furnace of the Underforge. The honour guard has two surviving members: Yoshi, and the priest who told him.
+When the Infantas came, Motherstone was the roost of the copper dragon [Tylerjynex](/people/tylerjinex/). Seeing goodness in the Infanta, he pledged fealty and conceived **seven eggs** to be her honour guard, raised by the white furnace of the Underforge. The honour guard has two surviving members: Yoshi, and the priest who told him.
 
 ## Public and private
 

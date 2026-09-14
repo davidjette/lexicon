@@ -69,7 +69,7 @@ This section is the working theory of [Gemma Corso](/people/gemma-corso/), [Eric
 - Therefore Uriel is attempting to repeat the thing Erandis did: to bear a dragon-sired son.
 - Which accounts for the fourteen daughters, and for three years of bleeding Valtrex on a rig built to harpoon, restrain and drain him.
 
-The theory carries one hard consequence: the [bells](/organizations/the-houses-of-mercy/) are not waiting on a calendar, they are waiting on a birth, and Locke Pierce's countermeasure is aimed at the same event from the other side. It also leaves one thing unresolved. Valtrex believes the heirs are his, and the Litany promises a dragon reborn, and those two statements are only the same statement if Valtrex's blood was ever the point. Nothing recovered says it was.
+The theory carries one hard consequence: the [bells](/organizations/the-houses-of-mercy/) are waiting on a birth, and Locke Pierce's countermeasure is aimed at the same event from the other side. It also leaves one thing unresolved. Valtrex believes the heirs are his, and the Litany promises a dragon reborn, and those two statements are only the same statement if Valtrex's blood was ever the point. Nothing recovered says it was.
 
 ## SURVIVING CLAIMANTS
 

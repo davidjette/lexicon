@@ -71,7 +71,7 @@ The rebellion's own attempt at the same census, assembled by a network that has 
 
 Fulcrum's file is a decade of brave work by a cook, a lamplighter, a porter, a midwife, a carter, a gravedigger, a purser, a teamster, a tinker, a miner and a muleteer — undated scraps, third-hand scraps, scraps that may or may not describe the same bell — and it is *still* guesswork.
 
-The Ledger is not guesswork. It is an accounting book.
+The Ledger is an accounting book.
 
 ## HB-CHORUS-13 — DIRECTORATE OF RELIC INTELLIGENCE
 

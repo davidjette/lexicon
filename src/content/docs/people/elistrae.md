@@ -92,7 +92,7 @@ Publicly she is a war-banner. The Lusmundii believe the child will turn the tide
 
 ## Beliefs
 
-She believes her worshippers are not an audience but a connection, which is why losing them breaks her rather than merely offending her. She believes a kingdom is worth giving away to a person she loves — she gave Motherstone to Stone, a dwarven god's incarnation, over the objection of two elf-nobles, Eldamir and her brother Calix, who were moments from drowning his entire landing camp. She believes, at the Council of Forgetting, that a goddess may put her own realm's existence to a vote.
+She believes her worshippers are a connection, which is why losing them breaks her. She believes a kingdom is worth giving away to a person she loves — she gave Motherstone to Stone, a dwarven god's incarnation, over the objection of two elf-nobles, Eldamir and her brother Calix, who were moments from drowning his entire landing camp. She believes, at the Council of Forgetting, that a goddess may put her own realm's existence to a vote.
 
 ## The charge that governs her upbringing
 
@@ -120,7 +120,7 @@ In Arc VII, when the party returns to Motherstone, "Brightmantle is dead. Elistr
 
 ## What she is beneath the goddess
 
-<small>Recovered from the Oblivia.</small> At the end of time, the goddess **June** gives the floor under everything: the gods of this realm are the split soul of the Star Child, whose name was **Zoth-Ommog**, who left their father somewhere deep in the dark and fled him across all of time. Elistrae is not merely a moon-goddess. She is a fragment of divided memory, hiding from a blind devourer in the one place he cannot look — a self that happens *in Time*.
+<small>Recovered from the Oblivia.</small> At the end of time, the goddess **June** gives the floor under everything: the gods of this realm are the split soul of the Star Child, whose name was **Zoth-Ommog**, who left their father somewhere deep in the dark and fled him across all of time. Elistrae is also a fragment of divided memory, hiding from a blind devourer in the one place he cannot look — a self that happens *in Time*.
 
 ## Right now
 

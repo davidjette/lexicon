@@ -55,7 +55,7 @@ The survivors fled east, evacuating en masse to Leef. There, the townsfolk, Newh
 
 ## COMPTROLLER'S PRIVATE ACCOUNT
 
-"The victory came at a catastrophic cost." In a large otherworldly explosion the city of Newham collapsed into ruin, and a vast region around it became corrupted, toxic and uninhabitable — the **New Mourning**. The proclamation calls the Republic a nation born of defiance and unlikely alliances. Digma, who keeps the ledgers, records that it was born of an evacuation from a city his allies destroyed, and that this is not a contradiction but an accounting entry with two sides.
+"The victory came at a catastrophic cost." In a large otherworldly explosion the city of Newham collapsed into ruin, and a vast region around it became corrupted, toxic and uninhabitable — the **New Mourning**. The proclamation calls the Republic a nation born of defiance and unlikely alliances. Digma, who keeps the ledgers, records that it was born of an evacuation from a city his allies destroyed.
 
 <small>Digma now serves as acting Comptroller of the Republic of Talenta while Eric is stationed in Sharn. Leef's old name survives in daily speech; the Republic's own paperwork still reads "formerly known as Leef".</small>
 

@@ -59,7 +59,7 @@ The ban did not make the house's work stop. It made it informal. Torralyn d'Sivi
 
 ## Herr Bomba
 
-The Empire's grievance against the gnomes is not administrative. It is the North Warrens. In the last year of the war, operating under the nom-de-guerre **Herr Bomba**, Torralyn d'Sivis is rumoured — between bombs and building collapses — to have claimed the lives of nearly half a million Imperial soldiers in the collapse of the North Warrens of Sharn. Many suspect that defeat is what led the Emperor to trigger the Mourning and end the war entirely.
+The Empire's grievance against the gnomes is the North Warrens. In the last year of the war, operating under the nom-de-guerre **Herr Bomba**, Torralyn d'Sivis is rumoured — between bombs and building collapses — to have claimed the lives of nearly half a million Imperial soldiers in the collapse of the North Warrens of Sharn. Many suspect that defeat is what led the Emperor to trigger the Mourning and end the war entirely.
 
 Torralyn denies any connection with resistance activity during the war. He is an elder of a banned house running the guild that enforces every contract in the city, and he says he was not there.
 

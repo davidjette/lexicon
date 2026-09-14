@@ -53,7 +53,7 @@ gallery:
 
 *Also known as:* The Imperial Capital · the Capitol
 
-Korth is the political capital of the Kingdom of Karrnath and the ceremonial seat of the Empire. It is old, walled, dense, and vertical in the European way rather than the impossible way [Sharn](/places/sharn/) is vertical. It is not the Empire's largest city and it is not its administrative brain. It is its throne room, and it behaves like one: much of it is ceremonial space that stands empty most of the year.
+Korth is the political capital of the Kingdom of Karrnath and the ceremonial seat of the Empire. It is old, walled, dense, and vertical in the European way rather than the impossible way [Sharn](/places/sharn/) is vertical. It is not the Empire's largest city or its administrative brain, and much of it is ceremonial space that stands empty most of the year.
 
 It is also a garrison. The army lives inside the walls, the Empire's last airships and death troopers ring the outside, and columns of soldiers — living and undead both — move to and from the barracks all night.
 
@@ -63,7 +63,7 @@ The city is clean, quiet, tasteful and morbid. Korth has none of Sharn's industr
 
 Korth runs on steam. It hisses and bubbles under everything, powering lights, drainage pumps, plumbing, heating and every otherwise-magical contraption in the city. Huge **steam vats** stand in the open near the ministries, generating and storing pressurised steam, and open **hot pools** vent in the west — infrastructure that doubles as a quiet park where people keep their voices down.
 
-The working fluid is not water. It is **aqua vitae**: a salty, faintly proteinous liquid, less compressible than water and therefore prized for hydraulics. It is kept entirely separate from the drinking supply.
+The working fluid is **aqua vitae**: a salty, faintly proteinous liquid, less compressible than water and therefore prized for hydraulics. It is kept entirely separate from the drinking supply.
 
 A decommissioned lightning rail subway runs beneath the city. The station is still there; there are people alive who remember when it was open.
 
@@ -75,7 +75,7 @@ The city was built out of ancient forums and plazas, so no building sits neatly 
 
 **The Lower Plaza.** Below and beyond the parade stair, toward the palace: the one part of the core that belongs to ordinary people. A public administration building serves as a great rotunda and town hall where rations are distributed to Karrnathi peasants in queues under guard. The corruption is visible if you watch — guards take payment for extra rations. The Empire's statue of [John Stamos](/people/john-stamos/) stands in the city.
 
-**North — the Ministry of Records.** A giant building that has been a library, a university and a wizard's tower at different points in a very long history. It is not a general library; it exists to hold the most controlled material — sensitive government documents, secrets, licences, records of the Emperor's ancestors, subjects of great magical knowledge. It has been emptied out and backfilled with fluff, the legal section is down to a handful of tomes, and any record naming a specific dragon has been removed by order. The secret of the Hall of Records is not the records. It is the people. Scholars work and loiter here at all hours, and on the third level sits a clerk who will forge identity papers and weapon registrations for a bribe.
+**North — the Ministry of Records.** A giant building that has been a library, a university and a wizard's tower at different points in a very long history. It is not a general library; it exists to hold the most controlled material — sensitive government documents, secrets, licences, records of the Emperor's ancestors, subjects of great magical knowledge. It has been emptied out and backfilled with fluff, the legal section is down to a handful of tomes, and any record naming a specific dragon has been removed by order. Scholars work and loiter here at all hours, and on the third level sits a clerk who will forge identity papers and weapon registrations for a bribe.
 
 **Northeast — the Ministry of Law.** Next door to Records: where laws are made and negotiated and where trials are held, with a separate side entrance for officers and upper floors full of advocates. The High Court for capital cases sits on an upper level, overlooked by a balcony holding an **Iron Maiden** that kills the condemned while leaving the corpse intact for use. The jail occupies the northeast corner of the same complex, two levels of cells watched by Imperial Red Guard. Behind the building a stair descends to the dumpster yard, where a **corpse chute** empties the dead into stacks for reuse.
 

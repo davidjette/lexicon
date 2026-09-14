@@ -50,7 +50,7 @@ gallery:
 
 *Also known as:* Kyber · Khyber · black Khyber / Shavat · red Khyber · white Khyber / Siberys
 
-The Khyber taxonomy is the classification of the three named varieties of Khyber ore — black Khyber or Shavat, red Khyber, and white Khyber or Siberys — as delivered by Sir [Dario Argentino](/people/sir-dario-argentino/). Khyber is not a term of art. It is a common word, the way *iron* is a common word, and people are imprecise when talking about metallurgy. It is also the name of one of the three progenitor dragons, encased in the body of Eberron, and the ore is called Khyber out of old myths that it is his body, his blood, or his outer scales. Which of those three the myths mean has never been settled.
+The Khyber taxonomy is the classification of the three named varieties of Khyber ore — black Khyber or Shavat, red Khyber, and white Khyber or Siberys — as delivered by Sir [Dario Argentino](/people/sir-dario-argentino/). Khyber is a common word, the way *iron* is a common word, and people are imprecise when talking about metallurgy. It is also the name of one of the three progenitor dragons, encased in the body of Eberron, and the ore is called Khyber out of old myths that it is his body, his blood, or his outer scales. Which of those three the myths mean has never been settled.
 
 ## BLACK KHYBER — SHAVAT
 

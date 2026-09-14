@@ -110,7 +110,7 @@ Correspondence between Malrik and Hallorn concerning Umbra and its connection to
 
 ## TESTIMONY OF A CAPTURED CULTIST
 
-A frightened young woman, taken alive outside the Upper City safe house after the Children of Ember cut the teleportation chip out of [Gemma Corso](/people/gemma-corso/)'s skull, said that every masked cultist had once been "Father" Malrik Zeir's cattle. Each was personally groomed and reshaped by the Mother Prophet, Faith. The cult was not recruited; it was made out of its own victims.
+A frightened young woman, taken alive outside the Upper City safe house after the Children of Ember cut the teleportation chip out of [Gemma Corso](/people/gemma-corso/)'s skull, said that every masked cultist had once been "Father" Malrik Zeir's cattle. Each was personally groomed and reshaped by the Mother Prophet, Faith.
 
 <small>The trio could not bring themselves to kill her; they left her tied to a chair and went on to the club.</small>
 

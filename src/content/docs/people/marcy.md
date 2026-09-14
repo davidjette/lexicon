@@ -38,7 +38,7 @@ wa:
 
 **Mountain Dwarf · Bard, Level 3 · Unaffiliated · Chaotic Good · Status unknown**
 
-*Also known as:* "Marcy" <small>— the label on the character sheet's file, not a name in the world. The sheet's own character-name field is blank.</small>
+*Also known as:* "Marcy" <small>— the label on the character sheet's file. The sheet's own character-name field is blank.</small>
 
 **Marcy** is a mountain dwarf bard recorded on a complete character sheet dated the fifteenth of March: rolled up, equipped, and given a personality and a spell list. The name at the top of the file is the player's label. The character was never named in the world, and the sheet does not state a gender.
 

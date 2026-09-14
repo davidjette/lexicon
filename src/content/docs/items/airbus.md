@@ -43,7 +43,7 @@ The Airbus is a Sharn public transit vehicle: a large, open-sided levitating pla
 
 ## Place in the city
 
-Airbuses sit inside Sharn's flight law: private flight is prohibited in restricted airspace, so for most citizens the fixed sky lanes are not one option among several. They are the way to move between levels.
+Airbuses sit inside Sharn's flight law: private flight is prohibited in restricted airspace, so for most citizens the fixed sky lanes are the way to move between levels.
 
 ## Fares
 

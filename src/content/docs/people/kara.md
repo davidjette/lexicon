@@ -73,7 +73,7 @@ No description of Kara's face is recorded, apart from the portrait in St. Cloud'
 
 ## The sorceress
 
-She is named among the protagonists when the Moongate sets the shipwreck survivors down on Snowdown. She is not a cultist, not sworn to a house, and not hunting anybody. She follows clues other people put down: the half-elf apothecary **Fhastine** keeps a journal nobody has been able to read, with a moon symbol on its cover and one question behind it — where is her mother? — and Kara is the one who takes it seriously. That riddle leads to a mine beneath Snowy Mountain, to a dead explorer's last letter, and — with [Brother Magnus](/people/brother-magnus/) — down a magic-bored shaft into a buried moonstone machine five stories high.
+She is named among the protagonists when the Moongate sets the shipwreck survivors down on Snowdown. She follows clues other people put down: the half-elf apothecary **Fhastine** keeps a journal nobody has been able to read, with a moon symbol on its cover and one question behind it — where is her mother? — and Kara is the one who takes it seriously. That riddle leads to a mine beneath Snowy Mountain, to a dead explorer's last letter, and — with [Brother Magnus](/people/brother-magnus/) — down a magic-bored shaft into a buried moonstone machine five stories high.
 
 ## Public and private
 

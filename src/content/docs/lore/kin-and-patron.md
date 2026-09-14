@@ -50,7 +50,7 @@ wa:
 
 ## What it is for
 
-The court is not asked whether the condemned is innocent; it is asked whether the condemned is worth more to the Empire alive and reordered than dead and in [second service](/lore/second-service/).
+The court is asked whether the condemned is worth more to the Empire alive and reordered than dead and in [second service](/lore/second-service/).
 
 ## The loophole
 

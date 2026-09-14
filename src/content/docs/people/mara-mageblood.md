@@ -55,7 +55,7 @@ No description of Mara is recorded; nobody living ever saw her. What survives is
 
 ## The scholarship that killed her
 
-Mara's method was comparison. She held that the standard account of the age of the Infantas — the so-called Time of Troubles, a time of great war and upheaval in which priests lost their holy magics and the gods of the old races were shut out from the world — was not merely incomplete but *edited*, and that the edit is visible if you read the same period from other peoples' records. She wrote it on her journal's first page.
+Mara's method was comparison. She held that the standard account of the age of the Infantas — the so-called Time of Troubles, a time of great war and upheaval in which priests lost their holy magics and the gods of the old races were shut out from the world — was *edited*, and that the edit is visible if you read the same period from other peoples' records. She wrote it on her journal's first page.
 
 > There is a lie at the heart of our history, one that the entire world has forgotten. The age of the Infantas, the so-called Time of Troubles, we are told, was a time of great war and upheaval… There is something missing in this tale, and one can see it if you look from other sides.
 

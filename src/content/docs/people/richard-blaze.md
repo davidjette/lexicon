@@ -98,7 +98,7 @@ Publicly he is the Empire's favourite chef, married into its command structure, 
 
 His circle is the four people who know and the one who does not. Digma Beeve, who was the first man to treat him as a man rather than property. Zero-One, who leads Fulcrum from Zilspar. John Stamos, dead. And Esther Crona, Lord Commander of the Imperial Military, his wife, the mother of his son, and the woman his entire network exists to defeat. <small>The Fulcrum bell file dates Stamos's death twenty years back rather than "over a decade"; the two accounts have not been reconciled.</small>
 
-He believes his marriage is not a betrayal of Fulcrum but Fulcrum's deepest position. He believes Esther can still be saved, and has been told to his face that she cannot. He believes the sword is doing it — "I've seen her whisper to it. I've seen it change her. That sword is a chain around her neck. A ghost she can't escape."
+He believes his marriage is Fulcrum's deepest position. He believes Esther can still be saved, and has been told to his face that she cannot. He believes the sword is doing it — "I've seen her whisper to it. I've seen it change her. That sword is a chain around her neck. A ghost she can't escape."
 
 ## Conduct
 

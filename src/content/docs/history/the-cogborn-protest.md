@@ -60,7 +60,7 @@ The Iron Veil's retaliation was swift and merciless. Raids, searches and forced 
 
 The Empire's account is about a different casualty. As the crowd surges up the grand staircase, shots ring out **from within the protesters**, striking the balcony and killing celebrity news anchor [Candice Kurt](/people/candice-kurt/). The official story is that she was assassinated by a group of protesters from the Cogs. Broadcasts covering the attack, the riot and the tightening of Iron Veil security ran on every crystal screen in the city for days afterward.
 
-Two things about that account do not sit still. The shots came from inside a crowd that had come to protest peacefully and was already being torn apart by a bomb. And the death that led the coverage was a news anchor's, not the forty-three.
+Two things about that account do not sit still. The shots came from inside a crowd that had come to protest peacefully and was already being torn apart by a bomb. And the coverage led with the news anchor's death.
 
 ## THE EXPLOSION
 

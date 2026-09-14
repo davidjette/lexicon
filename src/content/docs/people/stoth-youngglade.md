@@ -86,7 +86,7 @@ He believes chains are meant to be broken, as are those who would forge them. He
 
 ## The vision, and the disappearance
 
-In the shared prophetic dream before Starfall, each hero is given one image. Stoth's is not a person or a blade. It is *"a vision of the stars, and all the constellations coming together to form a word."* The word is not recorded. In [Arc III](/history/arc-iii-age-of-the-infanta/) the word that opens a door is [Leviathan](/lore/the-leviathan/), spoken in Deep Speech.
+In the shared prophetic dream before Starfall, each hero is given one image. Stoth's is *"a vision of the stars, and all the constellations coming together to form a word."* The word is not recorded. In [Arc III](/history/arc-iii-age-of-the-infanta/) the word that opens a door is [Leviathan](/lore/the-leviathan/), spoken in Deep Speech.
 
 Then the party scatters through time, and the recap of the split is blunt about how it went:
 

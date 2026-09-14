@@ -48,7 +48,7 @@ wa:
 
 The **Bane blades** are **shards of Perfect [moonstone](/lore/moonstone/)**, carried by the **Banefae** — "the five original progenitors for the high elven races, who came to Toril after the Starfall."
 
-They are not forged weapons. They are pieces of the same substance as the [Lexicon](/items/the-lexicon/) and the Moon, which makes the elven houses' inheritance a piece of the Starfall itself.
+They are pieces of the same substance as the [Lexicon](/items/the-lexicon/) and the Moon, which makes the elven houses' inheritance a piece of the Starfall itself.
 
 ## The five
 

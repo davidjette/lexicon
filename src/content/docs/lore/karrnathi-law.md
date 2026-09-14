@@ -49,7 +49,7 @@ The surviving legal shelf of [the Hall of Records](/places/the-hall-of-records/)
 
 Karrnathi justice **does not seek truth; it seeks atonement.** The elementary texts state the principle without embarrassment: you happen to be accused of this, and while you may be innocent of *it*, you are guilty of something. To win absolution you must submit to the will of the court. Through that submission the wisdom of the court can then pass judgement on the appropriate sentence, or non-sentence, for the crime.
 
-The condemned's role is to seek atonement and more or less to admit guilt; the court's role is to weigh, not to test. And the court is a stand-in for the Emperor — an extension of his wisdom and his mercy. Submitting to it is submitting to him.
+The condemned's role is to seek atonement and more or less to admit guilt; the court's role is to weigh. And the court is a stand-in for the Emperor — an extension of his wisdom and his mercy. Submitting to it is submitting to him.
 
 The system **effectively mandates that you give your corpse to the state**, and offers the criminal one road back in: see [second service](/lore/second-service/).
 
@@ -87,7 +87,7 @@ In place of an advocate for the accused there is the [kin and patron](/lore/kin-
 
 **Sabotage, espionage and embezzlement all carry death.** Falsifying Imperial records carries a variable term **equivalent to twenty-five human years**.
 
-**Sentences are scaled by race and expected lifespan.** The term is not a number of years; it is a proportion of the life the state believes you were going to have. An elf and a human convicted of the same falsification do not serve the same sentence, and neither of them is being punished for the same length of time.
+**Sentences are scaled by race and expected lifespan.** The term is a proportion of the life the state believes you were going to have. An elf and a human convicted of the same falsification do not serve the same sentence, and neither of them is being punished for the same length of time.
 
 **A death sentence specifies two durations.** The first is **how long the pain of the killing is to last**. The second is **how long the condemned owes the Emperor in service afterward, in undeath** — if they have not already pledged themselves to him. [The Iron Maiden](/items/the-iron-maiden/) on the balcony of [the High Court](/places/the-high-court/) exists to satisfy both clauses at once: it kills the condemned while leaving the body intact for use.
 

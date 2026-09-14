@@ -91,7 +91,7 @@ He kept a manor in Korth and a slave girl he chose to educate. He was secretive 
 
 ## The bloodline claim
 
-The Echo raised at the Forge of Binding named a brother: **E'noch Qualanthri**, the priest who performed the Sacred Rite over the newborn Kaius. Renn Tal's research and, later, Master Armhair's confiscated manuscript both run the same thread — Varyn Crona, the Eternal Guardian, the [Vol](/organizations/blood-of-vol/) bloodline and the Emperor's true nature are one problem, not four.
+The Echo raised at the Forge of Binding named a brother: **E'noch Qualanthri**, the priest who performed the Sacred Rite over the newborn Kaius. Renn Tal's research and, later, Master Armhair's confiscated manuscript both run the same thread — Varyn Crona, the Eternal Guardian, the [Vol](/organizations/blood-of-vol/) bloodline and the Emperor's true nature are one problem.
 
 ## Beliefs
 

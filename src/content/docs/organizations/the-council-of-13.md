@@ -66,7 +66,7 @@ Sharn Ep 18. On the penthouse balcony at the Veil Building: Esther Crona, her so
 
 The memory shattered Esther's composure. In a rage, **she revealed the true faces of her Honor Guards — undead members of the Council of 13 — and killed Henry Heinrick.**
 
-She had not merely executed the men who murdered her master. She had kept them: raised, armoured, masked, and walked through years of Imperial ceremony as her personal bodyguard, with one of them always near her son. Heinrick was the thirteenth, and she killed him in front of two of them.
+After executing the men who murdered her master, she had kept them: raised, armoured, masked, and walked through years of Imperial ceremony as her personal bodyguard, with one of them always near her son. Heinrick was the thirteenth, and she killed him in front of two of them.
 
 In the fight that followed, [Eric](/people/eric-the-cleric/) successfully turned one of the undead Honor Guards, forcing it to flee. The other was knocked from the balcony.
 

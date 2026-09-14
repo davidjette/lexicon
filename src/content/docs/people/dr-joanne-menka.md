@@ -62,7 +62,7 @@ Dr. Joanne Menka was a leading figure in the field of biotechnology, head Hybrid
 
 ## Physical Description
 
-What people describe of her is not her appearance but her manner: precision, discipline, and no warmth whatsoever. When she is frightened she does not become loud. She lowers her voice and moves closer, which is how she delivered the worst news of her career, whispering, in the middle of a party.
+People describe her manner: precision, discipline, and no warmth whatsoever. When she is frightened she does not become loud. She lowers her voice and moves closer, which is how she delivered the worst news of her career, whispering, in the middle of a party.
 
 ## The Institute
 
@@ -94,7 +94,7 @@ She believes nothing about the eternal nightfall, and did not pretend to when a 
 
 The single most consequential decision of her career was administrative. The project is overseen by Lead Scientist Joanne Menka, a senior researcher with full Imperial clearance, and the decision to exclude **ArcEyes from the facility** was made by Menka herself, citing "data contamination risks" — and the Empire let her. No other significant Imperial installation in Sharn runs without them. She then compounded it by compartmentalising internally: Martin Kross, a technician in her own enchantments department, was never permitted through a restricted door off the East Lab and did not know what happened behind it.
 
-Both measures were designed to keep information in. Both are the reason a rebel operative could sit in a bar for weeks and assemble the shape of her programme from a drunk junior employee — because Menka's security model assumed the threat was the Empire watching, not a technician talking.
+Both measures were designed to keep information in. Both are the reason a rebel operative could sit in a bar for weeks and assemble the shape of her programme from a drunk junior employee — because Menka's security model assumed the threat was the Empire watching.
 
 ## Origin
 

@@ -53,7 +53,7 @@ Lilith Hornblast is a [Warforged](/lore/warforged/) and one of the 'leaders in e
 
 **In public** Hornblast is a leader in exile of a parliament the record calls a sham. **In private** her position is genuinely held. She is asking for an independent, Imperially aligned state.
 
-**Competence and circle.** Hornblast's circle is the Imperial political apparatus: parliaments in exile, assemblies, functions. She does not appear in any account of fighting, tunnelling or evacuating. Her Warforged counterparts are not colleagues but rivals for the same future — Locke Pierce, who has a nation, an army, an airship fleet and a doomsday device; and Preacher, who has a tunnel network and refused to leave Sharn at all. Her heirloom is **Unknown**; no item of hers is recorded.
+**Competence and circle.** Hornblast's circle is the Imperial political apparatus: parliaments in exile, assemblies, functions. She does not appear in any account of fighting, tunnelling or evacuating. Her Warforged counterparts are rivals for the same future — Locke Pierce, who has a nation, an army, an airship fleet and a doomsday device; and Preacher, who has a tunnel network and refused to leave Sharn at all. Her heirloom is **Unknown**; no item of hers is recorded.
 
 She believes an independent, Imperially aligned state is the preferred outcome for the Warforged. Nothing else of what she believes is recorded.
 

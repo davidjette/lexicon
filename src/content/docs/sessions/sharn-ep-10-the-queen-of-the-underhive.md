@@ -69,7 +69,7 @@ Back in the tavern, the trio used the token and received a magical fortune, a po
 
 - Blair, Queen of the Underhive, is **John C. LeBeefe's daughter** — and the wife of the Dread Pirate [Joseph Roberts](/people/pirate-joseph-roberts/).
 - Martin Kross is alive and in Blair's custody, not BioTec's.
-- The Underhive is a working settlement with Drones, a tavern, an oracle and a monarch, not a sewer.
+- The Underhive is a working settlement with Drones, a tavern, an oracle and a monarch.
 - Esther's airship is named the Black Veil, and General Stockton Thar casts at her side.
 
 ## Cast

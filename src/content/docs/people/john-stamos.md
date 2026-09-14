@@ -96,7 +96,7 @@ Two sources date his death differently. The rebel-faction record says *over a de
 
 **Organizations / Groups:** Fulcrum, as one of four founders alongside Fema Nolan, Digma Beeve and Richard Blaze · the Breland stage and the Imperial entertainment circuit, as cover.
 
-**Holdings:** none recorded. The statue in Korth is the Empire's, not his.
+**Holdings:** none recorded. The statue in Korth belongs to the Empire.
 
 **Items:** **his eyes** — taken from his body by John C. LeBeefe on the lightning rail and still in LeBeefe's possession at last record. Everything else he owned is unrecorded.
 
