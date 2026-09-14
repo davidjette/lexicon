@@ -14,6 +14,8 @@ tags:
 - the lullaby
 - Calix
 - Infantaverse
+- Westphal
+- minor Waines
 icon: fa-book-skull
 fields:
   rpgAlignment: Unknown
@@ -37,6 +39,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone (notes).txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part III.txt
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part VI.txt
+- "Oral Histories: Temporal Holdings, 2020-09-26"
 published: '2026-09-10'
 wa:
   slug: mara-mageblood-person
@@ -61,7 +64,11 @@ Mara's method was comparison. She held that the standard account of the age of t
 
 <small>— Mara Mageblood's Journal, opening lines</small>
 
+Her journal draws on Glacius' *History of the Moonshae Kingdom* and the ancient drama *Calix, Betrayer*. She visited Calix's tomb on the minor Waines, "empty now, as everyone knows", went deep into the crypt, overturned the sarcophagus, and found something etched into the underside of the coffin lid. <small>(Oral Histories: Temporal Holdings, 2020-09-26)</small>
+
 The Orcish tome she read to prove it cost her an eye and then her mind's balance. Off its last page she read: *"a buried throne for a living god, for even he fears the Leviathan."*
+
+The tome speaks of a city in the Moonshae, the capital of the world, with a crest of a diamond and a crescent moon. Its first line reads: "Noon, on the Fifth Day of Leaffall, in the Forty-Ninth Year of the Age of the Infantas". <small>(Oral Histories: Temporal Holdings, 2020-09-26)</small>
 
 ## Public and private
 
@@ -77,6 +84,12 @@ The lullaby is a nursery song Mara's own mother could never sing all the way thr
 > so never sing this song again of — Calix the Betrayer.
 
 ## Death
+
+After reading the tome she dreamed of "a horrific, faceless darkness" creeping just beyond her sight, and wrote:
+
+> There is a hole in the universe, and I must find it. I set out for Westphal at dawn.
+
+<small>(Oral Histories: Temporal Holdings, 2020-09-26)</small>
 
 She died in the belly of the machine, alone, blind in her left eye, with the work finished and no way out. Her last page is a handoff.
 

@@ -52,6 +52,14 @@ sources:
 - CANON.md 5d (the DM's account, 2026-09-10)
 - sources/dave/2026-09-13-fates-june-saharel.md
 - Dave, note of 2026-09-13
+- "Oral Histories: Temporal Holdings, 2018-10-25"
+- "Oral Histories: Temporal Holdings, 2019-02-19"
+- "Oral Histories: Temporal Holdings, 2019-03-03"
+- "Oral Histories: Temporal Holdings, 2019-09-19"
+- "Oral Histories: The Inevitables, 2022-07-03"
+- "Oral Histories: The Inevitables, 2023-10-07"
+- "Oral Histories: The Inevitables, 2023-12-02"
+- "Oral Histories: The Inevitables, 2024-04-27"
 published: '2026-09-10'
 wa:
   slug: marcus-person
@@ -80,6 +88,8 @@ Marcus is not an accident of reincarnation. Marcus is **where the Raven Queen wa
 
 The Raven Queen held the Seat of Death and Judgment at the Heart of the [City of Dis](/places/dis/), as a neutral arbiter between the gods and the devils, controlling the flow of souls onward to the outer realms. **Asmodeus and St. Cloud conspired to trap her soul in a mortal** — and the mortal is Marcus. With the Seat vacant, Asmodeus hoarded the dead, the gods began to starve, and they descended into mortal children to stay near their followers. **That is the Infanta crisis, and Marcus is its cause and its cure.**
 
+The Soul Syphon once lay, with the Mammon Machine, at the heart of [the Penteract](/places/the-penteract/). Its power drew souls through the maze and into the syphon, "where Thanatos (and later the Raven Queen) divided them into their heavens and hells". <small>(Oral Histories: The Inevitables, 2023-12-02)</small> In the Arcaneum campaign JL asked whether St. Cloud had used one of the infernal machines "underground beneath Anorak Mts" to "suck the Goddess of Death’s soul out of the heavens and into the body of a human"; Dave answered, "Yes that’s one". <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small>
+
 It also reframes the tomb in the Ride below. The Horseking and his Gravedigger were torturing a princess once a year to wake a god that somebody else had already put in a box, in a different child.
 
 ## Who she is
@@ -93,6 +103,8 @@ Marcus's own account of how the two of them came to hold Sigil, spoken through t
 > My sister and I came to Sigil with the sage, after the Second Fall. We took the Banefae's home while they were feeding our people into oblivion. By the time they returned, the cities were ours. We cast them into Despondos where all of them perished. The sage had lied to us for a century, so we threw him in as well and gave his house to the poor. He caused both the First and Second Fall. Now he will trigger the Third.
 
 <small>— Marcus, Arc IV, [The Infernal Machines](/history/arc-iv-the-infernal-machines/), Part V. The sage is [Wainwright St. Cloud](/people/wainwright-st-cloud/).</small>
+
+In the last loop, when Brightmantle collapsed the city and sent the Mammon Machine into the desert, "it trapped the Queens and Grey Sage in Despondos for centuries". <small>(Oral Histories: The Inevitables, 2022-07-03)</small> Dave's working list of ally cards for the final battle names "Marcus, Infanta of Death", "Aurora Saharel, Lady of Pain" and "Astra & Aurora Saharel" as separate cards. <small>(Oral Histories: The Inevitables, 2023-10-07)</small>
 
 ## Appearance
 
@@ -108,6 +120,12 @@ The Ride is a remote valley of horse farmers with a trading post called **Whiteh
 
 Leaving the tomb was the first time she had ever left it, and the note adds that if she is still alive she is probably lost. The party, St. Cloud's men and child-traffickers all converge on the Citadel of the Raven looking for her.
 
+The enslaved children freed there, who became [Drefan's Kids](/organizations/drefans-kids/), "might want to follow the goddess of death they’ve lived with underground for 10 years". <small>(Oral Histories: Temporal Holdings, 2018-10-25)</small>
+
+## Warning the party
+
+During the Arcaneum campaign [Stonecypher](/people/stonecypher/) prayed to Marcus, who told her that [Una](/people/una/) might have harmed some children in [Motherstone](/places/motherstone/) and was showing signs of extreme mental distress. Dave: "he did you a solid and gave you the heads up". <small>(Oral Histories: Temporal Holdings, 2019-02-19)</small>
+
 ## In the vault at Waterdeep
 
 Marcus appears in the bank vault alongside Elistrae and Obi — the record calls the three of them "the other two infanta" from Obi's point of view. When Allo Vera speaks, "Marcus raises two fingers and says 'silence,' and suddenly a black thread appears at Allo Vera's mouth, and blood begins to stream from her lips as it weaves around them, sealing her mouth closed." Obi then "puts a hand on Marcus' wrist, as if suggesting she show mercy to Vera."
@@ -122,7 +140,7 @@ When Vera and Piergerion talk Obi into returning to Waterdeep, Elistrae says "No
 
 <small>— Marcus, Arc IV Part V. Sic on "Alphalpha Beginnigain," which the Lady of Pain renders "Alphalpha Beginnigin."</small>
 
-The party can bring her into Sigil through the portals in the living area. The record notes that Marcus demands it.
+The party can bring her into Sigil through the portals in the living area. The record notes that Marcus demands it. Dave, summing up the Infanta before the Battle of the River Lis: "Marcus wants you all to defy the Lady of Pain so she can go to Sigil". <small>(Oral Histories: Temporal Holdings, 2019-09-19)</small>
 
 ## Her sister
 
@@ -147,6 +165,8 @@ They arrive together at the last battle, after the severed head of Asmodeus. Mar
 The record notes that "Marcus smiles for the first time you have ever seen." The friends stepping out of the land of the Dead behind them are Obi, Jeggings, Holden Tudyx, **the Orcs who served [the Chronicle](/items/the-chronicle/)**, and a sheepish **Flex Gimble**, "barely recognizable as such, his face long since replaced by a bronze mask and his limbs replaced with six mechanical multiarticulated prosthesis." <small>(Sic on "prosthesis." End of the Infanta, notes for a final encounter.)</small>
 
 The sisters were at [the Egg](/places/the-egg/) twice. They came once as Marcus and [the Lady of Pain](/people/the-lady-of-pain/) from the present, and once as [the Saharel twins](/people/aurora-and-astra-saharel/), young women of Netheril, from Antiquity in the second loop. The party went back in time and recruited allies for the Egg; some of those allies were allies, and some enemies, in their own timeline's future.
+
+After the Wish, the Fates are held to be the source of "the seeming untouchable realms of the Raven Queen and Lady of Pain, who govern the central locus of that balance in Sigil and the City of Judgment in the shadowfell". <small>(Oral Histories: The Inevitables, 2024-04-27)</small>
 
 ---
 

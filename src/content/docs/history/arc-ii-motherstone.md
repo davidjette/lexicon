@@ -30,6 +30,10 @@ tags:
 - the Drek
 - Calix's vault
 - Infanta of the Moon
+- King of Worms
+- Faceless Boy
+- spirit naga
+- Snowy Mountain Mine
 icon: fa-gem
 fields:
   campaign: Temple Holdings LLC
@@ -54,6 +58,12 @@ sources:
 - "Oral Histories: Temporal Holdings, 2018-01-26"
 - "Oral Histories: Temporal Holdings, 2018-04-23"
 - "Oral Histories: Temporal Holdings, 2018-06-26"
+- "Oral Histories: Temporal Holdings, 2018-05-12"
+- "Oral Histories: Temporal Holdings, 2018-06-03"
+- "Oral Histories: Temporal Holdings, 2018-06-04"
+- "Oral Histories: Temporal Holdings, 2018-07-01"
+- "Oral Histories: Temporal Holdings, 2019-05-05"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
 published: '2026-09-10'
 wa:
   slug: arc-ii-E28094-motherstone-plot
@@ -74,7 +84,7 @@ The lie at the centre of it is written on the very first page of [Mara Mageblood
 
 ## The premise
 
-Arc I ended with [Kara](/people/kara/) and [Brother Magnus](/people/brother-magnus/) breaking into an ancient moonstone-powered machine far beneath Snowy Mountain while the rest of the party sheltered the Infanta and her cult at Leftfork. From Leftfork the party returned the Infanta to safety at the Gildergreen <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small>, and [Viceroy Couch](/people/cuthbert-couch/) later came into Motherstone through a side adventure with [Yoshi](/people/yoshi/) <small>(Oral Histories: Temporal Holdings, 2018-04-23)</small>. Arc II opens in the machine, in the dark of the mountain's belly. The heroes climb the Great Pipes, find Mara Mageblood's abandoned camp and journal, fight up through generator halls and scaffolded catwalks, realign the power stones of a Power Station, and wake its Clockwork Guardian — and when the great doors grind open, they look out on a wonder.
+Arc I ended with [Kara](/people/kara/) and [Brother Magnus](/people/brother-magnus/) breaking into an ancient moonstone-powered machine far beneath Snowy Mountain while the rest of the party sheltered the Infanta and her cult at Leftfork. From Leftfork the party returned the Infanta to safety at the Gildergreen <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small>, and [Viceroy Couch](/people/cuthbert-couch/) later came into Motherstone through a side adventure with [Yoshi](/people/yoshi/) <small>(Oral Histories: Temporal Holdings, 2018-04-23)</small>. Arc II opens in the machine, in the dark of the mountain's belly. The heroes climb the Great Pipes, find Mara Mageblood's abandoned camp and journal, fight up through generator halls and scaffolded catwalks, realign the power stones of a Power Station, and wake its Clockwork Guardian — and when the great doors grind open, they look out on a wonder. The Snowy Mountain Mine, which they came through on the way in, before the generators, is a goblin hideout. <small>(Oral Histories: Temporal Holdings, 2018-07-01)</small>
 
 > A magnificent outgrowth of blue moonstone crystals ten stories tall, surrounded by an elven city, encircled by the mountain itself… Bright blue moonstone crystals catch the sun from all over, as if the city itself was carved from a humming blue geode, with elder oaks growing from its basin, shaped by arcane elven magics into domiciles and long abandoned magical laboratories. A tremendous, eerily motionless, bronze ring the size of a sailing ship seems fixed above the largest moonstone, with an equally motionless orb floating in its center.
 
@@ -122,7 +132,7 @@ It was [Flex Gimble](/people/flex-gimble/) who led the party to the Seat of the 
 
 <small>Recovered from the Oblivia.</small> Motherstone was built around the **Lexicon**: a mind grown inside the heart of the world's largest **perfect moonstone**, a crystal able to "stand in for the mind itself." It managed the city's power, water, weather, architecture and defences, drawing knowledge from agents wearing **diadems** in the field and through the **Gate Ring** — a stable abyssal vortex the mage [Calix](/people/calix-the-betrayer/) opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward itself. Motherstone became the hub of the universe, a living library of all knowledge.
 
-The Lexicon was built by [Brightmantle](/people/brightmantle/), the dwarven second Infanta, to run the heart of Motherstone using the Obliviator and the great crystals in the mountain, and it carries his personality and intelligence. It did not stay in the mountain: in Arc III the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) possessed [Roland](/people/roland-deschain/) and scrammed it, Wainwright's ships attacked in the Second Battle of Motherstone, and afterwards Roland and [Brother Magnus](/people/brother-magnus/) moved what was left into the [Anachron](/items/the-anachron/), where it remains as Lex. <small>(The full record of the machine under all three of its names is at [The Anachron](/items/the-anachron/).)</small>
+The Lexicon was built by [Brightmantle](/people/brightmantle/), the dwarven second Infanta, to run the heart of Motherstone using the Obliviator and the great crystals in the mountain, and it carries his personality and intelligence. It did not stay in the mountain. In Arc III Lex was built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is the [Anachron](/items/the-anachron/). <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled [Roland](/people/roland-deschain/) through [the Palantir](/items/the-palantir/), and Roland destroyed the Lexicon and let the Company into Motherstone. About three rounds into the Second Battle of Motherstone Lex transferred himself to the ship, and the Motherstone Lexicon died. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> <small>(The full record of the machine under all three of its names is at [The Anachron](/items/the-anachron/).)</small>
 
 More exactly: [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, built the Lexicon together with Calix, from Netherese magic and technology.
 
@@ -141,6 +151,8 @@ Flex struck just as the party cured the Lexicon. His shrink ray made them tiny, 
 Shrunk to the size of insects and slowly, dangerously growing back as Flex's stolen shrinking ray fails, the party climbs up through the roots beneath the city. The Underglow is a kingdom of deep fey, immortals, many of them survivors from the time of the Infantas, who remember the Betrayal only obliquely — as the day "so much blood soaked the ground that today the mushrooms still taste of iron." Their guide proves to be the kingdom's runaway heir: **Bridgette**, only daughter of **Rhizoman**, lord protector of the Underglow, fleeing a political marriage to her father's greatest rival — **Mannemarco, the King of Worms**.
 
 They arrive to find Rhizoman arrested for aiding her escape, and a wedding-colosseum being dressed around a great moonstone cube, **the Illimat**. To save her father, the party must beat Mannemarco at his favourite game on the Illimat itself — a card-and-combat duel in which every played card summons a beast into the arena below and every captured card is won in blood. When it goes wrong, Bridgette breaks free to strike at Mannemarco, and the party fights its way out as the shrinking ray finally dies and they swell, round by round, toward a size the exits can no longer hold.
+
+The party saved Bridgette's father and defeated the King of Worms. <small>(Oral Histories: Temporal Holdings, 2018-05-12)</small>
 
 ## Part V — The Heart of the Tree
 
@@ -163,6 +175,8 @@ Meanwhile, in the drowning Drembles, [Yoshi](/people/yoshi/) follows a hooded Dr
 Above them, the Company makes good on Fhastine's warning: a mining blast tears open the **Deepgate**, and Mundi and Drek must fight side by side to hold the breach.
 
 In the **Arcaneum**, the city's college of wizards, the heroes find a **Planetarium** whose thrones reveal the cosmology the Motherstone scholars knew — eleven planes arranged like the planets, from the **Sun** (Chaos, "the source of all magic") through the **Moon** ("a reflection of the Prime material against the Astral Plane… the Earth and Moon are twins, a body and its shadow") to the **Cosmos** (the Astral Void). Selecting the last symbol shows them something worse: "a dark orbit that intersects directly with Faerûn, a black streak that touches down in the sea off the coast of Snowdown."
+
+By the end of this part the Company had breached the gates, the grandmaster's throne was missing, and Yoshi had met his long-lost brother, who gave him a lightsaber. <small>(Oral Histories: Temporal Holdings, 2018-06-03)</small> A spirit naga, bound in a staff until Drefan touched it, was loose in the Arcaneum; the entire marine force of the Sword Coast Trading Company was outside; and the Obliviator was about to explode. <small>(Oral Histories: Temporal Holdings, 2018-06-04)</small>
 
 ## Part VI — The Seal of Time
 
@@ -220,8 +234,21 @@ Then she introduces the advisor who made her victory possible: **Calix**.
 
 The arc's final movement is a race against a coronation. If the Infanta is crowned on the Throne of Motherstone, Calix's crown will lock her into a deadly trance and let her divine power be hijacked to destroy the entire island. The one thing that can wake her is the sound of a particular music box — *the Infanta's Dream* — and the only way to learn where it lies is to follow Calix into the Orb and pull the memory of its maker, [Brightmantle](/people/brightmantle/), back out of the Obliviator before he can erase it again.
 
+In the arc's final session Brother Magnus posed as the Faceless Boy when talking to Calix. Afterwards Magnus became the prophet of that god, able to look for his reincarnation. Yoshi's lightsaber was lost in the same session. <small>(Oral Histories: Temporal Holdings, 2018-07-01)</small>
+
 ## Into the Age of the Infanta
 
 Motherstone ends with the first Infanta's heir enthroned in her recovered capital, the Company driven out of the city, the Leviathan still looming, and a young goddess-empress now openly ruling the Moonshae. The chronicle's third arc, [Age of the Infanta](/history/arc-iii-age-of-the-infanta/), opens from that throne.
 
-<small>Calix was killed in the vault before the party destroyed his phylactery, and stands again at the young Empress's side after the time skip, following her into the Orb. He is immortal, and had survived being slain once before, on the beach with Eldamir.</small>
+<small>Calix survived the vault. He is immortal: slain once before, on the beach with Eldamir, he had survived as a lich. After the time skip he reappears, conquers Motherstone with the young Empress, stands at her side as her advisor, and enters the Orb.</small>
+
+## Sessions
+
+The arc was played in six sessions. <small>(Oral Histories: Temporal Holdings, 2018-01-24 to 2018-07-01)</small>
+
+- **2018-01-27**: Part I. The arc opens.
+- **2018-02-17**: Chapter II. The NPC names Marv, Jizzy and Crookshanks come from the players' suggestions.
+- **2018-03-17**: The St. Patrick's Day game. The party "cracked it open" and killed Flex Gimble.
+- **2018-05-12**: The Underglow. Bridgette's father saved and the King of Worms defeated.
+- **2018-06-03**: Part V. Out of the Underglow; the Company breaches the gates; Yoshi's brother gives him a lightsaber; a spirit naga is loosed.
+- **2018-06-30**: The finale. The megadungeon ends; Magnus poses as the Faceless Boy to Calix; the lightsaber is lost.

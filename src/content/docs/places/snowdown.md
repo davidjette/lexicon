@@ -19,6 +19,9 @@ tags:
 - Infantaverse
 - Sword Coast Trading Company
 - Infanta of the Moon
+- Caer Westphal
+- Stones of Safe Passage
+- storm mythal
 icon: fa-mountain
 fields:
   type: Island
@@ -34,6 +37,9 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part III.txt
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part IV.txt
 - CANON.md 5x (the DM's account, 2026-09-10)
+- "Oral Histories: Temporal Holdings, 2017-11-20"
+- "Oral Histories: Temporal Holdings, 2018-01-26"
+- "Oral Histories: Temporal Holdings, 2018-10-15"
 published: '2026-09-10'
 wa:
   slug: snowdown-location
@@ -47,6 +53,8 @@ wa:
 The house that holds the island came to it from elsewhere. **Eldamir** "came with a wave of elves from the Feywild into the north around the time of Troubles," and Wain Gallidan took her family's name. Beneath the Snowy Mountain lay the largest [moonstone](/lore/moonstone/) deposit on the plane and, around it, a crystal city granted to the elves by a child god — a city that was erased from the memory of everyone who ever lived, leaving an island whose greatest feature nobody could remember was there.
 
 By the present age the island is worked and contested rather than idyllic: enslaved elves under human planters, goblin warrens in the hills, and a three-way conflict between the Sylvan Elves, the human settlers, and the renegade Forsworn. Into that arrives the reborn Infanta, and with her the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), which wants the mountain.
+
+As the party prepared to leave Harloch at the end of the first arc, what had happened at the farm was still unsettled. Dave: "Let's put it this way, if no one at the farm gets back to Harloch before you leave, then no one from the farm gets back to Harloch before you leave." <small>(Oral Histories: Temporal Holdings, 2017-11-20)</small> The party then "return the infanta to safety at the Gildergreen and then wandered through ancient titanic pipes into the hidden city of Motherstone." <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small>
 
 ## Places of Interest
 
@@ -64,6 +72,8 @@ By the present age the island is worked and contested rather than idyllic: ensla
 By the Age of the Infanta, Snowdown and its moonstone are what the Company and the reborn goddess are fighting over, and the island is the ground of the First and Second Battles of Motherstone.
 
 The Company had only begun colonising Snowdown when the party entered Motherstone in Arc II. Ten years later it was mining Motherstone itself, until the Infanta of the Moon came with a small army from around Snowdown and, with the party, pushed it out.
+
+Afterwards, "trade into and out of the Island is strictly regulated through Stones of Safe Passage through the storm mythal". For real trade, Dave told the party, "you'll have to rebuild the docks and allow for some kind of registry of those stones. otherwise Snowdown is cut off from the world and will have a purely internal economy". When Patrick, who played Magnus, offered to remove the mythal, Dave answered: "Oh no the queen has no intention to remove the mythal". The docks at Caer Westphal "where mostly destroyed". <small>(Sic. Oral Histories: Temporal Holdings, 2018-10-15)</small>
 
 ## Maps
 

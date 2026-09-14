@@ -29,6 +29,12 @@ tags:
 - R'lyeh
 - the Queens
 - Infantaverse
+- Tylerjinex
+- Drefanmetra
+- the Fatherstone
+- Seat of Judgement
+- Tiamat
+- mind flayers
 icon: fa-timeline
 fields:
   type: Chronology
@@ -42,6 +48,9 @@ sources:
 - "Oral Histories: Temporal Holdings, 2020-02-22"
 - "Oral Histories: Temporal Holdings, 2021-12-10"
 - "Oral Histories: The Inevitables, 2021-08-21"
+- "Oral Histories: The Inevitables, 2021-08-26"
+- "Oral Histories: The Inevitables, 2021-09-06"
+- "Oral Histories: The Inevitables, 2021-10-30"
 - "Oral Histories: The Inevitables, 2022-02-09"
 - "Oral Histories: The Inevitables, 2022-07-03"
 published: '2026-09-10'
@@ -68,6 +77,8 @@ wa:
 | **The First Time of Troubles** | The Netherese break Death |
 | **The Second Time of Troubles** (the present) | Wainwright St. Cloud is born in Baldur's Gate |
 
+Dave put the first Time of Troubles at "like 800" and the second, the present, at "like 1900". <small>(Oral Histories: The Inevitables, 2021-08-26)</small>
+
 ## Deep time
 
 - **Ydryssl grows from the Godseed** in the Elemental Chaos.
@@ -86,6 +97,8 @@ wa:
 - **St. Cloud lives as "the Old Man."**
 
 <small>(The timeline's note that Ydryssl destroyed becomes Sigil sits alongside the account in which Sigil and [Dis](/places/dis/) are both planar disturbances caused by the Egg's impact at Waterdeep. Both stand; neither is merged into the other.)</small>
+
+Tiamat and her forces were destroyed before the Egg arrived, and she was lost in the abyss until she reconstituted in Hell. <small>(Oral Histories: The Inevitables, 2021-10-30)</small> By Dave's account the mind flayers came from "Zoth-brain octopi merging with the elder brain in the Egg", ruled the astral plane from Toril for millions of years, and were destroyed by the rise of the red dragons and the Gith. <small>(Oral Histories: The Inevitables, 2021-09-06)</small>
 
 ## The rise of the Netherese
 
@@ -118,7 +131,11 @@ In the same period the Aboleth and Dragon Empires are destroyed in cataclysm, an
 - **The Queens become the Ladies of Pain and Death.**
 - **The Old Man escapes Despondos.**
 
+[Tylerjinex](/people/tylerjinex/) "made the maze dimension of Despondos to encase the Seat of Judgement, The corpse of Thanatos, and the Soul Syphon". The Banefae, united by [Drefanmetra](/people/the-waning-one/), attacked the maze and enslaved Tylerjinex to get into the [Penteract](/places/the-penteract/) at the heart of [Despondos](/places/despondos/). Their plan was "to unite the bane blades into the Fatherstone and use it to trap the power of the Netherese and destroy all mortal souls in a rite to undo time and restore the Moon". <small>(Oral Histories: The Inevitables, 2021-08-21)</small>
+
 The Queens and the Grey Sage went into Despondos together. As allies they defeated the Banefae: "They are confronted by the Queens and Grey Sage and defeated." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> In the last loop "Brightmantle did the same thing as you, collapsed the city and sent the mammon machine into the desert, it trapped the Queens and Grey Sage in Despondos for centuries." <small>(Oral Histories: The Inevitables, 2022-07-03)</small> The Queens then turned on the sage and threw him deeper, took the seats of Pain and Death, and the Old Man escaped.
+
+Meanwhile "the Atlantans also largely fail, but Brightmantle succeeds". Drefanmetra's efforts still led to the fall of Netheril and [Brightmantle](/people/brightmantle/)'s victory, "and St Cloud has to wait another 1000 years to try again". <small>(Oral Histories: The Inevitables, 2021-08-21)</small>
 
 ## The Second Time of Troubles — the present
 

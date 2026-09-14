@@ -51,6 +51,19 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-06-20"
 - "Oral Histories: Temporal Holdings, 2019-08-27"
 - "Oral Histories: The Inevitables, 2025-10-01"
+- "Oral Histories: Temporal Holdings, 2018-10-21"
+- "Oral Histories: Temporal Holdings, 2019-03-01"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2019-06-25"
+- "Oral Histories: Temporal Holdings, 2019-08-22"
+- "Oral Histories: Battle of River Lis, 2019-10-21"
+- "Oral Histories: Temporal Holdings, 2019-11-01"
+- "Oral Histories: Temporal Holdings, 2020-01-30"
+- "Oral Histories: Temporal Holdings, 2020-02-17"
+- "Oral Histories: Temporal Holdings, 2020-12-05"
+- "Oral Histories: Temporal Holdings, 2021-10-27"
+- "Oral Histories: Temporal Holdings, 2023-04-23"
+- "Oral Histories: The Inevitables, 2021-10-30"
 published: '2026-09-10'
 wa:
   slug: revan-darkcember-person
@@ -73,11 +86,22 @@ Their own dossier lists him as a threat of unknown category:
 
 ## In the record
 
+- At [Whitehorn](/places/whitehorn/) he tried to sweet-talk an elemental and called it a "genderless fiend". His wounds turned him into a zombie; [Stoth](/people/stoth-youngglade/) subdued him and tied him up, [Kara](/people/kara/) flew the ship in, and [Drefan](/people/drefan/) cured him. Afterwards fruit tasted bad to him and made him nauseous. <small>(Oral Histories: Temporal Holdings, 2018-10-21)</small>
 - He and [Pim](/people/pim/) have smuggler contacts in [Suzail](/places/suzail/), which is how the party reaches a [Zent](/organizations/the-zhentarim/) bigwig named Emery. <small>(Arc III Part VII.)</small>
+- In the Second Battle of Motherstone he and [Zanzibar](/people/zanzibar/) jumped down the pit after the Infanta. The only witnesses to her jump were Pim, Roland, Zanzibar and Revan. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small>
+- He wears a cloak of the billowing elf, which billows dramatically whenever he uses a bonus action. <small>(Oral Histories: Temporal Holdings, 2019-06-25)</small>
+- In [Sigil](/places/sigil/) the party bribed a criminal contact of Revan's to sneak under a hole in the wall into the city proper. <small>(Oral Histories: Temporal Holdings, 2019-08-22)</small>
 - In Waterdeep his contract negotiations turn on the Cassalanters, House Tiffany, and a debt: **"Asmodeus: owns his soul and will demand the amulet and zarus."** He is confronted by **Violet**, an erinyes who serves as a housecarl and as Asmodeus's spy — "if killed, she returns to the House." <small>(The Winking Depths, Part IV.)</small> Violet is an alias of [Griddy Champagne](/people/griddy-champagne/), the same devil who serves the pactbound owner of Tiffany House in every age. By then Revan had "luxury estates in two major cities and a devil as a personal attaché", and the table called her Gritty Champagne. <small>(Oral Histories: Temporal Holdings, 2019-08-27)</small>
+- Before the Battle of the River Lis, Dave reminded the party of their strong contact in Jonathan Silverhand, a top-three Zent who "owes you the city of WD to a Certain extent", "Esp the Panther". <small>(Oral Histories: Battle of River Lis, 2019-10-21)</small>
+- Dave put the homebrew level-3 spell Freezing Fog on the wizard list, so that Revan had access to it. <small>(Oral Histories: Temporal Holdings, 2019-11-01)</small>
 - He assaults the House of Nimbus alongside [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth. <small>(Arc IV Part V.)</small>
 - He carries **Ebonbane**, one of the Bane swords, with Drefan bearing Silverbane. <small>(Arc V, Starfall Part III.)</small>
 - He is one of those who "went to steal the power to move the moon." <small>(Arc V, Starfall Parts I–III.)</small>
+- Reading the book at Refuge, Revan saw a vision of R'lyeh "where dead Cthulu lies dreaming", and a glimpse of the Egg sent him into "a screaming insanity that starts behind your eyes and finds its way into your belly, and out through your arms as you put a burning hole in Barold's brain and go searching for the ones who try to stop you every time." <small>(Oral Histories: Temporal Holdings, 2020-01-30)</small>
+- When the party reached St. Cloud in the time bubble, he "underestimated Revan’s loyalty". <small>(Oral Histories: Temporal Holdings, 2020-02-17)</small>
+- By December 2020 the party had resurrected him at least once. <small>(Oral Histories: Temporal Holdings, 2020-12-05)</small>
+- In the battle at the peak of Sigil he kept [Valen](/people/valen/) blinded the whole fight, which stopped Valen's "epic Dark Matter combo move". <small>(Oral Histories: Temporal Holdings, 2021-10-27)</small>
+- Revan and Zanzibar both turned down offers from Asmodeus "to have everything they ever wanted". <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
 
 ## Carls IV, and Onyxbane
 
@@ -85,13 +109,15 @@ Revan is a descendant of the Carls — **he is Carls IV** — and he carries [On
 
 ## His house, and his father
 
-Revan is of [House Nimbus](/organizations/house-nimbus/), the clan that could solve [the Penteract](/places/the-penteract/) and refused to do it for their Drow masters of House Carls. **His father is the one who broke that refusal**, selling the secret to [St. Cloud](/people/wainwright-st-cloud/) in exchange for safety from the Leviathan. St. Cloud then killed the clan, which had guarded one of the machines in [Sigil](/places/sigil/): "Also Revan’s clan guarded one for a long time in Sigil which St Cloud killed them for." <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small>
+Revan is of [House Nimbus](/organizations/house-nimbus/), the clan that could solve [the Penteract](/places/the-penteract/) and refused to do it for their Drow masters of House Carls. **His father is the one who broke that refusal**, selling the secret to [St. Cloud](/people/wainwright-st-cloud/) in exchange for safety from the Leviathan. St. Cloud then killed the clan, which had guarded one of the machines in [Sigil](/places/sigil/): "Also Revan’s clan guarded one for a long time in Sigil which St Cloud killed them for." <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small> During the Arcaneum campaign LaMont, who played Revan, wrote in character to the party: "You’re the only clan I have left." <small>(Oral Histories: Temporal Holdings, 2019-03-01)</small>
 
 When Revan, Roland, Stonecypher, Drefan and Stoth "approach the House of Nimbus, ready for an assault on those inside," Revan is going in against his own house.
 
 ## Sable
 
 [Sable, the Immortal Cyclone](/people/sable-the-cyclone/), of the Nimbus Clan, is his sister. Her Ally Card says four words from her — "…its time to come home…" — "was at one time all that Revan needed to hear before he abandoned any and all to attend to his sister." <small>(Sic on "its".)</small>
+
+In the Time of Troubles Dave offered the party, once back in the "present", the option to "go to Hell to save Revans sister". <small>(Sic. Oral Histories: The Inevitables, 2021-10-30)</small> After the party escaped Asmodeus's trap, JL recapped that she "resisted scrying" and that "Asmodeus said she’s on Toril somewhere as his servant". <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
 
 ## Thane of Punis, Darkcember and Tiffany House
 
@@ -101,7 +127,7 @@ By assuming the lordship of Marsember, Revan took Tiffany House and its old debt
 
 ## Nimbus Corp
 
-When the assets of St. Cloud's Company went up for auction, Revan bid in secret and beat the party's group bid, and [Temple Holdings LLC](/lore/temple-holdings-llc/) lost to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on. He headed Nimbus Corp until he vanished from view, about two hundred years after the Ages of the Infanta. He may have lived on unseen: "And then he probably lived for hundreds of years or more" / "As the richest man in the universe". <small>(Oral Histories: The Inevitables, 2025-10-01)</small> [Maverick](/people/maverick/) of [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages, is his distant descendant. The Klaxon heirs to [Tiffany House](/places/tiffany-house/) carry the Darkcember name: [Phillip Klaxon](/people/phillip-klaxon/) married a Darkcember, and their son is Darius Klaxon - Darkcember - Montevideo, whom his father wants to become the Panther. <small>(DM notes)</small>
+When the assets of St. Cloud's Company went up for auction, Revan bid in secret and beat the party's group bid, and [Temple Holdings LLC](/lore/temple-holdings-llc/) lost to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on. He headed Nimbus Corp until he vanished from view, about two hundred years after the Ages of the Infanta. He may have lived on unseen: "And then he probably lived for hundreds of years or more" / "As the richest man in the universe". Dave: "His descendants are all over the ruling class of multiple planes, he was also a masked lord and landed gentry in multiple kingdoms, heir of the whole drow race". <small>(Oral Histories: The Inevitables, 2025-10-01)</small> [Maverick](/people/maverick/) of [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages, is his distant descendant. The Klaxon heirs to [Tiffany House](/places/tiffany-house/) carry the Darkcember name: [Phillip Klaxon](/people/phillip-klaxon/) married a Darkcember, and their son is Darius Klaxon - Darkcember - Montevideo, whom his father wants to become the Panther. <small>(DM notes)</small>
 
 ## Status
 

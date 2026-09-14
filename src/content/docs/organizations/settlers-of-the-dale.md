@@ -7,6 +7,8 @@ tags:
 - Settlers of the Dale
 - Suzara's City
 - Camp Vengeance
+- Fort Vengeance
+- Fort Zanzibar
 - Suzara
 - Gunch
 - Valen
@@ -29,6 +31,8 @@ sources:
 - "Oral Histories: The Inevitables, 2021-08-15"
 - "Oral Histories: The Inevitables, 2021-09-04"
 - "Oral Histories: The Inevitables, 2021-10-30"
+- "Oral Histories: The Inevitables, 2020-07-26"
+- "Oral Histories: Temporal Holdings, 2021-05-27"
 published: '2026-09-10'
 wa:
   slug: settlers-of-the-dale-organization
@@ -46,8 +50,13 @@ The **Settlers of the Dale** are the people of **Suzara's City** and **Camp Veng
 
 ## Suzara and Gunch
 
-The session record has Gunch "cowed by the encounter but seems very…" and, as an optional beat, attempting to ambush the party as they leave. Suzara himself "sent his boy SUE to the elf witch to seek healing." <small>(Arc VI, Time of Troubles Part VII.)</small> The elf witch is Valen: "you met Sue, the son of Suzara, who his father sent to Valen to get healed." <small>(Oral Histories: The Inevitables, 2021-08-15)</small> After Sue's death, Suzara stayed away. <small>(Oral Histories: The Inevitables, 2021-09-04, 2021-10-30)</small>
+The session record has Gunch "cowed by the encounter but seems very…" and, as an optional beat, attempting to ambush the party as they leave. Suzara himself "sent his boy SUE to the elf witch to seek healing." <small>(Arc VI, Time of Troubles Part VII.)</small> The elf witch is Valen: "you met Sue, the son of Suzara, who his father sent to Valen to get healed." <small>(Oral Histories: The Inevitables, 2021-08-15)</small> Sue betrayed the party and died. Dave: "The poor boy had Valen in his head and had little choice". <small>(Oral Histories: The Inevitables, 2021-09-04)</small> After Sue's death, Suzara stayed away. <small>(Oral Histories: The Inevitables, 2021-09-04, 2021-10-30)</small>
 
+## Camp Vengeance
+
+Archmage [Valen](/people/valen/) "betrayed the Cormanthryians against the men of the Dale and in exchange was granted the land to build the Arcaneum". <small>(Dave. Oral Histories: The Inevitables, 2020-07-26)</small>
+
+Camp Vengeance is "the future site of Fort Zanzibar". The party was caught there in a fight between the human settlers and the elven natives, mostly stopped it and saved the innocents. <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small> From "Fort Vengeance", having parted with the Sun Elves of [Myth Drannor](/places/myth-drannor/), the party set out for Nibblegrasp Swamp to find [Peter Glans](/people/tylerjinex/). <small>(Oral Histories: The Inevitables, 2021-08-15)</small>
 ## The pledge
 
 > You saved us from Valen and a rain of snakes, and freed us from the cruel whip of Gunch. We are with you to the end.

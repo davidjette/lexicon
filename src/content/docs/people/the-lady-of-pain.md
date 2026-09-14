@@ -13,6 +13,9 @@ tags:
 - Marcus
 - the Raven Queen
 - Despondos
+- Deadfall Peak
+- the maze of infinite pain
+- City of Judgment
 - Asmodeus
 - the Traveler
 - Drefan
@@ -35,6 +38,13 @@ sources:
 - sources/dave/2026-09-13-fates-june-saharel.md
 - Dave, note of 2026-09-13
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3008, IMG_3010, IMG_3068)
+- sources/dave/2026-09-14-temple-holdings-batch2-questions.md
+- CANON.md Oral Histories batch 4, A22
+- "Oral Histories: Temporal Holdings, 2019-10-01"
+- "Oral Histories: Temporal Holdings, 2019-11-11"
+- "Oral Histories: The Inevitables, 2022-07-03"
+- "Oral Histories: The Inevitables, 2023-10-07"
+- "Oral Histories: The Inevitables, 2024-04-27"
 published: '2026-09-10'
 wa:
   slug: the-lady-of-pain-person
@@ -60,6 +70,10 @@ image:
 
 "A resplendent twelve foot tall masked woman covered in a symmetrical pattern of gold and silver blades, thick wet with the blood and bile of devils." <small>(End of the Infanta, notes for a final encounter, immediately after the severed head of Asmodeus.)</small>
 
+## Despondos and Deadfall Peak
+
+In the last loop, [Brightmantle](/people/brightmantle/) "collapsed the city and sent the mammon machine into the desert, it trapped the Queens and Grey Sage in Despondos for centuries". <small>(Dave. Oral Histories: The Inevitables, 2022-07-03)</small> When the Lady of Pain escapes [Despondos](/places/despondos/) she emerges at **Deadfall Peak**, the peak of Sigil and a nexus corresponding to [Dis](/places/dis/), while the Raven Queen stays behind to rule Dis. <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small>
+
 ## How the party encountered her
 
 She appears the moment Marcus enters Sigil — which Marcus demanded the party arrange — and identifies St. Cloud for what he is:
@@ -74,21 +88,29 @@ She appears the moment Marcus enters Sigil — which Marcus demanded the party a
 
 ## How she became an ally
 
-She absolves the party and purges Sigil of its demons — and in the same act banishes her own sister to Despondos with the line "Seek your throne in the maze." She returns at the final battle with Marcus on her shoulder, the two of them having killed Asmodeus and "returned Death to its natural rule."
+She absolves the party and purges Sigil of its demons — and in the same act banishes her own sister to Despondos with the line "Seek your throne in the maze." When the demon riot tore the western half of the city apart, "the lady of pain vaporizes it as well". <small>(Dave. Oral Histories: Temporal Holdings, 2019-11-11)</small> She returns at the final battle with Marcus on her shoulder, the two of them having killed Asmodeus and "returned Death to its natural rule."
 
 ## Drefan
 
 Her card's quote is the one statement anywhere in the record about what became of [Drefan](/people/drefan/) at Deschain & Son, and it gives three possibilities without choosing: "transported or erased or vaporized by the Lady of Pain."
 
+In Sigil, Drefan found his own body "in the maze of infinite pain with a message to himself hidden in the rock". <small>(Dave. Oral Histories: Temporal Holdings, 2019-10-01)</small>
+
 ## At the Egg
 
 The Saharel sisters were at [the Egg](/places/the-egg/) twice: once as Marcus and the Lady of Pain from the present, and once as [the Saharel twins](/people/aurora-and-astra-saharel/), young women of Netheril, from Antiquity in the second loop.
+
+Dave's working list of ally cards gave hers as "Aurora Saharel, Lady of Pain", separate from the card "Astra & Aurora Saharel". <small>(Oral Histories: The Inevitables, 2023-10-07)</small>
 
 **White — Sigilese Law:** "Cast Power Word Pain."
 
 **Black — Lord of Despondos:** "Cast Maze without concentration."
 
 <small>Her card type is **Legendary Land Creature — Infanta**. She is one of three cards typed as a Land: the others are the [Lords of Waterdeep](/organizations/lords-of-waterdeep/) and [Nimue](/organizations/nimue-and-the-elves-of-avalon/). In each case the character and the place are the same thing.</small>
+
+## After the Oblivia
+
+After Cypher's Wish, the three aspects of Cypher are considered "time keepers and order makers on the scale of individual destinies and the preservation of the great wheel and the source of the seeming untouchable realms of the Raven Queen and Lady of Pain, who govern the central locus of that balance in Sigil and the City of Judgment in the shadowfell". <small>(Dave. Oral Histories: The Inevitables, 2024-04-27)</small>
 
 ## Dead Man's Hand
 

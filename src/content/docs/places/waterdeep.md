@@ -82,7 +82,7 @@ The Council of Lords objected. An exchange in the Hall of Justice:
 > "The Lords of Waterdeep are not ruled by a boy, God or not, we have our laws. And laws apply to all, including the Gods."\
 > "You don't know how right you are."
 
-St. Cloud's changeling agents wore his own face to Council; the noble **Von Lampes** plotted to seize the Infanta and pay 999 souls to Asmodeus for their twins; the masked lords resented that St. Cloud had cornered the ear of the child "and they want it back, or they will cut it off." Even guard commanders and ship captains had begun asking "why the great might of the Empire should enrich so few men", and key Company and Imperial buildings were by then guarded by Warforged in place of the City Watch.
+St. Cloud's changeling agents wore his own face to Council; the noble **[Von Lampes](/organizations/the-von-lampes/)** plotted to seize the Infanta and pay 999 souls to Asmodeus for their twins; the masked lords resented that St. Cloud had cornered the ear of the child "and they want it back, or they will cut it off." Even guard commanders and ship captains had begun asking "why the great might of the Empire should enrich so few men", and key Company and Imperial buildings were by then guarded by Warforged in place of the City Watch.
 
 ## Under occupation
 

@@ -25,6 +25,10 @@ tags:
 - the Tudix Cube
 - the god of puzzles
 - Infantaverse
+- Alen Tudyx
+- Copperbane
+- Nibblegrasp Swamp
+- Camp Vengeance
 icon: fa-dragon
 fields:
   species: Copper dragon
@@ -45,6 +49,10 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-01-16"
 - "Oral Histories: Temporal Holdings, 2021-05-27"
 - "Oral Histories: The Inevitables, 2021-08-21"
+- "Oral Histories: Temporal Holdings, 2021-08-21"
+- "Oral Histories: Temporal Holdings, 2021-08-22"
+- "Oral Histories: The Inevitables, 2021-08-15"
+- "Oral Histories: The Inevitables, 2021-10-23"
 published: '2026-09-10'
 wa:
   slug: tylerjinex-person
@@ -96,6 +104,10 @@ The seven eggs, DJ Steve and the blind dragon atop the phylactery temple are **f
 ## King of the Wyrms
 
 In the Time of Troubles he was **Peter Glans**, and "he is the King of the Wyrms from Kara’s latest vision." <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small> The "king of the worms" in the rhyme of [Copperbane](/items/the-bane-blades/) is him <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small>. **Mannemarco**, the King of Worms whom the party defeated in [Arc II](/history/arc-ii-motherstone/) <small>(Oral Histories: Temporal Holdings, 2018-05-12)</small>, is a different person with a different title.
+
+At Camp Vengeance, lackeys told the party that "their queen Alen Tudix married a human named Peter Glans who ran off with Copperbane after she mysteriously died, that Valen is that queens brother, and that he also absconded with many of their clans magic objects." The party "used magic to discover the general location of a nearby copper dragon that you believe to be Peter Glans in his true form". <small>(Sic. Oral Histories: Temporal Holdings, 2021-05-27)</small> From Fort Vengeance they set out for Nibblegrasp Swamp "to find Peter Glans because you think he's also a copper dragon". <small>(Oral Histories: The Inevitables, 2021-08-15)</small> There they solved the puzzle he set them, and Dave remarked the next day: "None of you asked Glans why he made you do that stupid puzzle". <small>(Oral Histories: Temporal Holdings, 2021-08-21, 2021-08-22)</small> See [Valen](/people/valen/).
+
+Copperbane carries a rune from Glans. <small>(Oral Histories: The Inevitables, 2021-10-23)</small>
 
 ## Status
 

@@ -22,6 +22,10 @@ tags:
 - the Obliviator
 - Infantaverse
 - The Archives
+- Dark Lex
+- Grover Dill
+- Grey Sage
+- Ioulaum's Notes on Epic Spells
 icon: fa-book-atlas
 fields:
   type: Living archive / Infernal Machine
@@ -38,6 +42,12 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part I.txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
 - "Oral Histories: Temporal Holdings, 2020-11-22"
+- "Oral Histories: Temporal Holdings, 2020-12-19"
+- "Oral Histories: Temporal Holdings, 2021-01-02"
+- "Oral Histories: Temporal Holdings, 2021-07-31"
+- "Oral Histories: The Inevitables, 2021-10-21"
+- "Oral Histories: The Inevitables, 2021-10-23"
+- "Oral Histories: The Inevitables, 2022-02-09"
 published: '2026-09-10'
 wa:
   slug: the-chronicle-item
@@ -60,6 +70,8 @@ The **Chronicle** is what the orcish artificers called the machine that came dow
 
 By his account his people worked from "visions of the future, tremendous foreknowledge that allowed our people to accumulate so much, with our sole mission to protect it and prevent it from falling into the wrong hands," and they held "an innumerable hoard of magical items," some of them "devices of such sinister and eldritch invention that the knowledge of their existence was limited to only a handful of archivists and prophets."
 
+Lex was the centrepiece of the orcish faith in Cypher, which by Dave's account was centred on "archiving the past, collecting magic items, keeping them away from bad guys, and Obliviating whatever led to knowledge of the Leviathan and the desire to find and trigger the egg". <small>(Oral Histories: The Inevitables, 2021-10-21)</small> See [Cypheric Orcs](/organizations/cypheric-orcs/).
+
 One of those devices, from the notes of Zebulon's master Curtis Washington, was "a great orb which could only operate on the power of a planar rift or some other great battery of energy," which in Washington's experiments "generated a force field that caused not only his own mind but writing and other data to become incomprehensible." His theory was that at full power it could create an "Obliviation" field "that could erase information from existence, and shield knowledge of whatever was inside the force field from detection or even memory outside the field." <small>The device Washington describes is the [Obliviator](/items/the-obliviator/), which he does not name.</small>
 
 ## The fall
@@ -77,6 +89,8 @@ Netheril destroyed the fortress and the orcs. The Netherese stole and ruined the
 <small>(Sic on "how they were built of by whom.")</small>
 
 They never got into the machine. The archivists were dead, their history erased, and the machine still shut.
+
+By Dave's account the Netherese "could not access the chronicle itself, which kept itself safe until you came to unlock it". <small>(Oral Histories: The Inevitables, 2021-10-21)</small>
 
 ## The site
 
@@ -117,6 +131,12 @@ Eloise's own authorization is accepted as root and opens the door. The restore s
 ## What the party wanted from it
 
 Not the machine. Zebulon told them the Chronicle was the only thing that could read a vision he had been given: "The Chronicle will know how to interpret my vision and give you the knowledge you need to enter the Eye." The vision was of the party itself — "a band of immortal heroes, step through the Deepgate at Motherstone and bow to the Queen of the Moon" — alongside the moon exploding into its rings, the sinking of a ship, and five blades piercing an opened eye with five pupils and an iris of eldritch runes.
+
+## The party at the Chronicle
+
+The party travelled to the Chronicle as birds, charmed their way past Grover Dill, and astrally projected to charm "four stages of Netheril to permit you to pass". They then fought the broken Chronicle, which Dave called "the God Wong" and which "had just shifted into Dark Lex mode", while Eloise froze time for herself, accessed the terminal in the Anachron "and zipped into the Matrix". <small>(Oral Histories: Temporal Holdings, 2020-12-19)</small> The battle ended in the following session. <small>(Oral Histories: Temporal Holdings, 2021-01-02)</small>
+
+By Dave's recollection the Netherese at their outpost at the Chronicle were "pretty friendly and helpful". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> The party saw the Grey Sage, [Wainwright St. Cloud](/people/wainwright-st-cloud/), at the Chronicle, and almost stayed to fight him with the Lexicon before leaving. <small>(Oral Histories: The Inevitables, 2022-02-09)</small> They fled with Lex "instead of facing down the Sages", and so missed a clue labelled "Ioulaum’s Notes on Epic Spells" that they would have found exploring the Chronicle. <small>(Oral Histories: Temporal Holdings, 2021-07-31)</small>
 
 ## Afterwards
 

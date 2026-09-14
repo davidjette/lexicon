@@ -18,6 +18,7 @@ tags:
 - divine magic
 - Ally Cards
 - Infantaverse
+- River Lis
 icon: fa-leaf
 fields:
   ggmtitle: Infanta of Nature
@@ -32,6 +33,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-01-28"
 - "Oral Histories: Temporal Holdings, 2019-04-01"
 - "Oral Histories: Battle of River Lis, 2019-10-21"
+- "Oral Histories: Temporal Holdings, 2019-11-22"
 published: '2026-09-10'
 wa:
   slug: teo2C-infanta-of-nature-person
@@ -56,6 +58,12 @@ image:
 ## Suzail and Cormanthor
 
 The War Wizards' report to the archmagi names him by his god: "Only recently did we find Sylvanus, the nature god, and through our work we have quadrupled the output of our key magical stock farm here in Suzail." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> The party delivered him to Cormanthor <small>(Oral Histories: Temporal Holdings, 2019-01-27)</small>, where he was kept in Myth Drannor. <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+
+The same report says of him: "we are worried this boy cannot take the intense discomfort required to harness his powers effectively." The War Wizards proposed to release him to allies of the Cormanthyrian elves and, when he self-destructed, to overrun Cormanthyr. <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> The party relented to the Cormanthyreans and let them keep him in Myth Drannor, and as a result worshippers of Sylvanus outside Myth Drannor cannot use their holy magic. <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+
+## The Battle of the River Lis
+
+At [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) Teo was near the front on the allied side, protected by the elves. <small>(Oral Histories: Battle of River Lis, 2019-10-21)</small> His being near the battle was essential to his followers. Dave asked the players: "You thinking you'll put the princess and Tico in a tiny hut for the battle?" <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small>
 
 ## At the Egg
 

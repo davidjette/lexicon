@@ -36,6 +36,7 @@ tags:
 - Harlochs
 - Temporal Holdings
 - Nimbus Corp
+- mind flayers
 icon: fa-egg
 fields:
   campaign: Temple Holdings LLC
@@ -56,6 +57,8 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2023-04-23"
+- "Oral Histories: Temporal Holdings, 2023-06-04"
 - "Oral Histories: Temporal Holdings, 2023-10-12"
 - "Oral Histories: The Inevitables, 2023-12-02"
 - "Oral Histories: The Inevitables, 2024-01-18"
@@ -74,6 +77,18 @@ wa:
 ## Into the breach
 
 Before the assault, **[Una](/people/una/)**, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned **[Asmodeus](/people/asmodeus/)** to [Waterdeep](/places/waterdeep/) before the party killed her, a portal was used for him to step down toward the Egg, and the party defeated him at the threshold of the portal from the tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out, since all the Infanta are drawn to the Egg to merge with Cthulhu and bring about the end, as [St. Cloud](/people/wainwright-st-cloud/) designed. Because the Egg and the final battle were obliviated, the world remembers instead that troops on the surface led by [Zanzibar](/people/zanzibar/) and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing St. Cloud and ending [the Infanta Crisis](/lore/the-infanta-crisis/).
+
+Asmodeus also set a trap for the party, which they escaped, and offered [Revan](/people/revan-darkcember/) and Zanzibar "everything they ever wanted"; both turned him down. <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small> In the same session [Elistrae](/people/elistrae/) kissed [Drefan](/people/drefan/).
+
+> I’ve waited 400 years for someone like her- what’s another 3?
+
+<small>— Drefan. (Oral Histories: Temporal Holdings, 2023-04-23)</small>
+
+The party fought a "middle encounter" with mind flayers, which Dave set as a preview of the finale:
+
+> Cthulhu is the big daddy mindflayer so everything you hated about that middle encounter yesterday think about how to prepare yourself for the finale
+
+<small>— Dave. (Oral Histories: Temporal Holdings, 2023-06-04)</small>
 
 At the **Crack** in the Egg's side, the assembled host of every age — present from every era because the party was scattered in Time at [Starfall](/history/arc-v-starfall/) and June's instruction was that "Inside the Egg all Times converge" — files into the wound, group by group, each shielded in a bubble of magic — the Purple Dragons under Lord Krapsmere, the naked druids of [Myth Drannor](/places/myth-drannor/), Untari's Bladesingers, the Watch of Waterdeep and the armies of Amn, blessed by priests of Obus and Tyr — down into "the acid meat of the egg and into the darkness." And as the **[Arielle](/items/the-arielle/)** turns toward the fold:
 
@@ -132,4 +147,14 @@ Either way, the Age of the Infanta is over, the gods are loosed from their rebor
 
 ## The Bank of Harloch
 
-The heroes are forgotten in all but the vaguest terms. The **Bank of Harloch** and its holding company, [Temple Holdings](/lore/temple-holdings-llc/), persist well into the future. After the finale the company was rebranded **Temporal Holdings**, and sovereign currency is nicknamed **"Harlochs"** because of the bank. The company lost the bid for the St. Cloud Trading Company to [Revan Darkcember's](/people/revan-darkcember/) [Nimbus Corp](/organizations/nimbus-corp/).
+Before the final battle the party's "consolidated holding co" paid them a dividend of about 500,000 gold. <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
+
+The heroes are forgotten in all but the vaguest terms. The **[Bank of Harloch](/organizations/the-bank-of-harloch/)** and its holding company, [Temple Holdings](/lore/temple-holdings-llc/), persist well into the future. After the finale the company was rebranded **Temporal Holdings**, and sovereign currency is nicknamed **"Harlochs"** because of the bank. The company lost the bid for the St. Cloud Trading Company to [Revan Darkcember's](/people/revan-darkcember/) [Nimbus Corp](/organizations/nimbus-corp/).
+
+## Sessions
+
+- **2023-03-04** — Played online.
+- **2023-04-22** — The party escapes Asmodeus's trap; Revan and Zanzibar refuse the devil.
+- **2023-06-03** — The mind flayer "middle encounter".
+- **2023-06-24** — The "final room".
+- **2023-10-14** — The final battle, fought with [the Ally Cards](/lore/the-ally-cards/).

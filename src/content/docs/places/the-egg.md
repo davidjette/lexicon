@@ -49,6 +49,14 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-30"
 - "Oral Histories: The Inevitables, 2022-06-11"
 - "Oral Histories: The Inevitables, 2023-12-02"
+- "Oral Histories: Temporal Holdings, 2020-01-12"
+- "Oral Histories: Temporal Holdings, 2020-05-11"
+- "Oral Histories: Temporal Holdings, 2022-02-13"
+- "Oral Histories: Temporal Holdings, 2022-02-27"
+- "Oral Histories: Temporal Holdings, 2022-07-17"
+- "Oral Histories: The Inevitables, 2021-08-26"
+- "Oral Histories: The Inevitables, 2021-10-21"
+- "Oral Histories: The Inevitables, 2026-06-20"
 published: '2026-09-10'
 wa:
   slug: the-egg-location
@@ -62,6 +70,8 @@ wa:
 The Crack — the host of the last day is "helped into an open slice" of it — runs beneath the buried city; the Motherstone scholars' own Planetarium showed the other half of the picture — "a dark orbit that intersects directly with Faerûn, a black streak that touches down in the sea off the coast of Snowdown." The prison and the falling star are the same object.
 
 The [Sword Coast Trading Company](/organizations/sword-coast-trading-company/)'s records placed it in the deep ocean off Faerûn: "based on company records, the egg is somewhere in this part of the ocean. this area is very deep and is thought to intersect with the Plane of Water." <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small> In [Revan Darkcember](/people/revan-darkcember/)'s vision of [R'lyeh](/places/rlyeh/), the Egg appeared as part of the god's own body: "a glimpse, just a glimpse, of a tiny fraction of his body, the Egg." <small>(Oral Histories: Temporal Holdings, 2020-01-30)</small>
+
+In the present, the 23rd level of [Undermountain](/places/undermountain/) had access to the Egg. [Blackstaff](/people/khelben-arunsun/) "went down the hole right before Obus revealed himself in the Winking Depths arc", and following his trail took the party straight there. <small>(Oral Histories: The Inevitables, 2026-06-20)</small>
 
 ## Inside
 
@@ -85,6 +95,14 @@ According to the time-goddess June at the End of Time, **inside the Egg all Time
 <small>— June, Arc V, [Starfall](/history/arc-v-starfall/), Part VI. Sic on "You friends" and "every force the can."</small>
 
 Because the scrambled Anachron left the party in every era at once, and because inside the Egg all Times converge, the last battle could be joined from every era at once. The final encounter records that on a failure the party sees "another wound open in the Egg and another ship full of themselves and their allies ready to do battle with Cthulhu as well." <small>(End of the Infanta, notes for a final encounter. For the scramble and the crash that left the Anachron in the deep past, see [The Anachron](/items/the-anachron/).)</small>
+
+## The race for the Egg
+
+After the Infernal Machines arc, "everyone in Faerun knows about it and is compelled to find it". <small>(Dave. Oral Histories: Temporal Holdings, 2020-01-12)</small> In the deep past, after Roland killed a St. Cloud, Dave told the party that the Leviathan was "one to two weeks from impact." <small>(Oral Histories: Temporal Holdings, 2020-05-11)</small>
+
+Below the sea, the Drow, the mind flayers with the aboleth, and the sea elves fought a war for the Egg. <small>(Oral Histories: The Inevitables, 2021-08-26)</small> The Bane blades told the party that in Antiquity "the Egg rises from the sea as the Sea Elves attempt to enter it, and then the defeat of the Netherese causes it to crash back into the ocean and destroy Atlantis". In the "present" era, as Dave set it out in October 2021, "Asmodeus comes to Waterdeep and there is a massive final battle of the Infanta, followed by a prolonged underground and undersea campaign to capture the Egg, which Una and the driders win". <small>(Oral Histories: The Inevitables, 2021-10-21)</small> See [Atlas and the Sea Elves](/organizations/atlas-and-the-sea-elves/) and [Una](/people/una/).
+
+In Antiquity the party went deep underwater, to "a quick jaunt from the Egg and the Winking Depths where Mindflayers and Aboleth are spewing out and the Netherese are up to something". <small>(Oral Histories: Temporal Holdings, 2022-02-13)</small> Inside an underwater Netherese facility, "massive magical lifting engines have been fastened to the surface of the subterranean Leviathan Egg". <small>(Oral Histories: Temporal Holdings, 2022-02-27)</small> At the climax of the Time of Troubles, "the city of Zeal rises into orbit to meet the Egg, carrying the Obliviator and the Armies of Faerun", and "In one day, Zeal will enter the Egg and the confrontation with the Leviathan will begin." <small>(Oral Histories: Temporal Holdings, 2022-07-17)</small> See [Zeal](/places/zeal/) and [Netheril](/places/netheril/).
 
 ## The End of the Infanta
 

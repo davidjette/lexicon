@@ -27,6 +27,10 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part VII.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__Interlude.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2019-06-23"
+- "Oral Histories: Temporal Holdings, 2021-10-30"
 published: '2026-09-10'
 wa:
   slug: illanna-person
@@ -53,6 +57,8 @@ In Arc IV, "nervous about the invitation of such powerful adversaries onto the i
 
 ## The trial
 
-Roland had scrammed the Lexicon under possession by [Carlysle St. Cloud](/people/carlysle-st-cloud/)'s heart, and then thrown that heart into the Obliviator's singularity — after which nobody could remember Carlysle, or the cause of the malfunction, only that Roland had done it. The fanatic druids of Motherstone demanded his execution. Illanna prosecuted; [Brother Magnus](/people/brother-magnus/) defended; Elistrae, [Marcus](/people/marcus/) and [Obi](/people/obi/) presided. Magnus swayed the Infanta and Roland was spared.
+At the Second Battle of Motherstone Roland touched [the Palantir](/items/the-palantir/), and [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled him through it; Roland destroyed the Lexicon and let the Company into Motherstone. <small>(Oral Histories: Temporal Holdings, 2021-10-30)</small> The party captured [Carlysle St. Cloud](/people/carlysle-st-cloud/) in [Roland's Cube](/items/rolands-cube/) and threw him and the Palantir into the Obliviator, after which nobody could remember Carlysle or the Palantir. Motherstone remembers only that Roland betrayed it. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> The fanatic druids of Motherstone demanded his execution. Illanna prosecuted; [Brother Magnus](/people/brother-magnus/) defended; Elistrae, [Marcus](/people/marcus/) and [Obi](/people/obi/) presided. Magnus swayed the Infanta and Roland was spared.
+
+The Crown called [Pim](/people/pim/) as its primary witness. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> Most of the witnesses against Roland ended up helping his case. <small>(Oral Histories: Temporal Holdings, 2019-06-23)</small>
 
 **Related:** [Elistrae](/people/elistrae/) · [Roland Deschain](/people/roland-deschain/) · [Brother Magnus](/people/brother-magnus/) · [Motherstone](/places/motherstone/) · [Calix](/people/calix/)

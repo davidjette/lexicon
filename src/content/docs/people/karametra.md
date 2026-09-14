@@ -11,6 +11,7 @@ tags:
 - Ur-Kara
 - the Traveler
 - Tiamat
+- Dragon Mountain
 - Tarrasque
 - Celion
 - the abolethi courtesan
@@ -34,8 +35,12 @@ sources:
 - CANON.md 5f
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2020-05-03"
 - "Oral Histories: Temporal Holdings, 2020-05-04"
+- "Oral Histories: Temporal Holdings, 2020-05-11"
+- "Oral Histories: Temporal Holdings, 2022-03-19"
 - "Oral Histories: The Inevitables, 2021-12-03"
+- "Oral Histories: The Inevitables, 2021-12-04"
 - "Oral Histories: The Inevitables, 2022-09-17"
 - "Oral Histories: The Inevitables, 2023-01-15"
 published: '2026-09-10'
@@ -65,7 +70,7 @@ Kara(metra) is a human sorcerer and [Kara](/people/kara/) from another loop of t
 
 In her reality she and St. Cloud were partners. Dave: "she seduces Celion to infiltrate the Arcaneum and steal the Anachron to come back in time, but once here they have a change of heart". <small>(Oral Histories: The Inevitables, 2023-01-15)</small> See [Celion](/people/celion/) and [the Anachron](/items/the-anachron/). In the deep past the party found St. Cloud "living in peace, after marrying Karametra and giving up his quest". <small>(Oral Histories: The Inevitables, 2021-12-03)</small> She is Kay, the wife of the St. Cloud known as the Traveler; she changed his heart, and then his mind.
 
-When she saw the Egg coming, the true Evening Star, she knew that someday St. Cloud would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made", and "She went to Tiamat to move the moon". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small>
+When she saw the Egg coming, the true Evening Star, she knew that someday St. Cloud would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made", and "She went to Tiamat to move the moon". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> Others had gone to [Dragon Mountain](/places/dragon-mountain/) "to somehow move the moon in its way and crack the egg before it reaches the earth", and "St. Cloud's Kara" went to Dragon Mountain as well. <small>(Oral Histories: Temporal Holdings, 2020-05-03, 2020-05-11)</small>
 
 [Roland Deschain](/people/roland-deschain/) shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/). It was empty. They placed a perfect moonstone inside it and closed the lid. Then they took the Tudyx Cube they had stolen from St. Cloud's quarters on the *Arielle*, which they had never been able to open. Now it opened, and a Perfect Dark moonstone came out, having been inside for a presumed 65 million years.
 
@@ -76,6 +81,8 @@ She is the red-robed, green-eyed woman in the painting St. Cloud was working on 
 She is the **"abolethi courtesan"** the dragons speak of. She seduced **Bahamut** and had the dragons build a literal **platinum temple** as a spell component for a casting of **Move Planet**, to put the moon into the path of Cthulhu's egg.
 
 The dragons noticed. A chromatic elder dragon's line about their own errand names hers: "They are here to do the same as the Abolethi courtesan, to convince her gloriousness to destroy the Moon." <small>(Naga to Nefarion, on the [Chromatic Elder Dragons](/organizations/chromatic-elder-dragons/) card.)</small>
+
+Helping her was on the party's plans for the deep past. Dave's quest board of December 2021 listed "Dragon Mountain, help Karametra and bring Tiamat into the team, stop the dragon war and lead them into space". <small>(Oral Histories: The Inevitables, 2021-12-04)</small> His campaign checklist of March 2022 included "help Karametra move the moon (past)". <small>(Oral Histories: Temporal Holdings, 2022-03-19)</small>
 
 The party came to help her when they returned to the deep past a second time, fulfilling [Kara](/people/kara/)'s Wish that the moon had been moved. While Karametra cast Move Planet they defended the platinum temple against a tarrasque, then some dragons, and then Tiamat herself. **Percival** was inside the temple, "the last line of defense between Tiamat and Karametra’s ritual". <small>(Oral Histories: The Inevitables, 2022-09-17)</small> They succeeded, and Tiamat was defeated there.
 

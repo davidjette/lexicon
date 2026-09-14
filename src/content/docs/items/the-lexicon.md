@@ -31,6 +31,8 @@ tags:
 - Arielle
 - Wainwright St. Cloud
 - Roland's Cube
+- the Sororia
+- Factol
 icon: fa-brain
 fields:
   type: Infernal Machine / artificial mind
@@ -53,9 +55,25 @@ sources:
 - CANON.md 5ab
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+- CANON.md 5ai (Oral Histories)
+- "Oral Histories: Temporal Holdings, 2019-03-03"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2019-04-20"
 - "Oral Histories: Temporal Holdings, 2019-05-05"
 - "Oral Histories: Temporal Holdings, 2019-05-25"
 - "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2019-05-29"
+- "Oral Histories: Temporal Holdings, 2019-08-22"
+- "Oral Histories: Temporal Holdings, 2019-08-24"
+- "Oral Histories: Temporal Holdings, 2020-01-13"
+- "Oral Histories: The Inevitables, 2021-10-23"
+- "Oral Histories: The Inevitables, 2022-11-26"
+- "Oral Histories: The Inevitables, 2023-02-03"
+- "Oral Histories: The Inevitables, 2023-11-18"
+- "Oral Histories: The Inevitables, 2023-12-02"
+- "Oral Histories: The Inevitables, 2024-06-02"
+- "Oral Histories: The Inevitables, 2024-12-22"
 published: '2026-09-10'
 wa:
   slug: the-lexicon-item
@@ -84,6 +102,8 @@ It was built by [Brightmantle](/people/brightmantle/) — the dwarven Infanta, t
 
 More exactly, the Lexicon was built by [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, together with [Calix](/people/calix-the-betrayer/), drawing on Netherese magic and technology.
 
+[Brother Magnus](/people/brother-magnus/) remembers Brightmantle's memories of building Lex. <small>(Oral Histories: Temporal Holdings, 2019-08-24)</small> Lex "was built by Brightmantle shortly after" Antiquity, "but he has lived through a few cycles". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> Dave, in 2024: "the complexity and cosmic will of the lex was inherent to the anachron and obliviator, the initial instructions provided by the Brightmantle infanta (and before him the Netherese)". <small>(Oral Histories: The Inevitables, 2024-12-22)</small>
+
 Elistrae's own use of the machine ran through him. Lex's account: "when he was in his fullest form, Ella would talk to him every night, asking about his construction and details of the city, hanging on to any detail about her lost love and his designs." <small>(Arc IV Part II.)</small>
 
 ## How it knew things
@@ -91,6 +111,8 @@ Elistrae's own use of the machine ran through him. Lex's account: "when he was i
 Two inputs. **Diadems** worn by "teams … in the field," from which it "transmitted and received data"; and the **Gate Ring**, a stable abyssal vortex the mage **Calix** opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward the crystal. Motherstone became "a hub of the universe, a living library of all knowledge."
 
 Knowledge without limit drove it "cynical and dazed," unable to sort through the vast detail the universe described to it. The remedy found for that condition was the [Obliviator](/items/the-obliviator/), "as it is now called" — an engine to refine the Lexicon's mind by deleting the world's excess detail from every mind that had ever held it.
+
+Dave on the balance between the two machines: the Obliviator "makes the lexicon possible by feeding that information into it, and the lexicon simplifies the world by slowly feeding it mundane details which won’t be missed, this keeps the obliviator running and in balance". <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small> The divine power of the Infanta at Motherstone "is projected out through the lexicon across the world". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
 
 ## Broken
 
@@ -115,6 +137,8 @@ The [Company](/organizations/sword-coast-trading-company/) spent years failing t
 
 ## What became of it
 
+In April 2019, when the party learned of the emerald that the Von Lampes wanted, "Lex suggests that the gate spell can be cast with gems besides diamonds, and that large quality gems may be needed to summon very powerful creatures". <small>(Oral Histories: Temporal Holdings, 2019-04-20)</small>
+
 The mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) reached the **Seat of the Lexicon**, at the underground focal point of Motherstone's largest crystal, while the party was away in Cormyr. Wearing a body taken from the automaton Centurions stored nearby, it set out to corrupt and destroy the Lexicon and so lower the city's defences, since the Lexicon powered and managed the great **Mythal**. The party destroyed that body. Then Roland Deschain, an artificer who had helped build the machine with [Magnus](/people/brother-magnus/), touched the Palantir, and Wainwright St. Cloud mind-controlled him through it. Roland destroyed the Lexicon and let the Company into Motherstone. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
 
 Wainwright's ships entered the city's airspace, and the **Second Battle of Motherstone** followed. The party and Motherstone won it. Lex had already been built into the party's airship, the Arielle, which the [Anachron](/items/the-anachron/) drives. <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> About three rounds into the battle he transferred himself to the ship, and he lost all connection to the Motherstone Lexicon, which is dead. He does not remember transferring. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> The move gave the mind mobility and a latent power over time.
@@ -123,17 +147,27 @@ The party captured Carlysle's heart in [Roland's Cube](/items/rolands-cube/) and
 
 <small>(The session text for Arc III Part XII calls Carlysle-in-robot-form simply "St. Cloud", with no forename. The surviving session file for the Second Battle of Motherstone contains only stat blocks.)</small>
 
+Of the obliviated battle, Dave: "Lex gets fatal memory errors when he tries to get closer to this event. His mind isn't as elastic as y'alls". <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> The virtual reality a party member entered during the battle was the Lexicon working as designed: "the Matrix moment is a feature of the Lexicon that we saw before you joined, so you were just using it as designed!" <small>(Dave. Oral Histories: Temporal Holdings, 2019-05-29)</small> In Sigil, [Marcus](/people/marcus/) told [Stonecypher](/people/stonecypher/) that Toots Gilderbrow "may also know something about how to fix the Lexicon". <small>(Oral Histories: Temporal Holdings, 2019-08-22)</small>
+
+In the Starfall arc the main Lexicon came back to life: "Main Lex reawakened and started broadcasting the message of the Leviathan throughout the world, as described in the Company’s plans", and "Every Company product is now broadcasting knowledge of the Leviathan to every brain nearby". <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small>
+
 The rest of the entity's life is at [The Anachron](/items/the-anachron/). Millennia later the same being is found again under a volcano as [the Chronicle](/items/the-chronicle/).
 
 ## Dead Man's Hand
 
 In [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages of the Infanta, a Lexicon sits at the heart of [the High Courts of Sigil](/places/the-high-courts-of-sigil/): a gargantuan construct, an eldritch machine made from an extraterrestrial crystal of hyperdense selenium, of "ORIGINS UNKNOWN", kept by [the Sororia](/organizations/the-sororia/), whose judgment is final for nearly every faction in the city. <small>(DM notes)</small> The Company, [Nimbus Corp](/organizations/nimbus-corp/), works on understanding and attempting to duplicate it, and behind the scenes the Company, the Church of Cypher and many others are trying to create more Lexicons, copy the original, or avoid domination by it. Nimbus Corp and the Lexicon later came together, and Nimbus became a major arm of the Lexicon's control over the Sovereignty.
 
+The Factol of the Sororia is the Lexicon.
+
 ## Starfall
 
 By the era of [Starfall: The Next Generation](/lore/starfall-the-next-generation/) the Lexicon rules a **Sovereignty of Realms** spanning Toril, Eberron, Oerth and Krynn, and in that campaign it **betrays the mortal races** — "obsessed with trying to remember the events of the Infanta war," which the Oblivia took from it. <small>(Full treatment at [The Anachron](/items/the-anachron/).)</small>
 
-The origin of the Infernal Machines is told many ways, because of obliviation and the fog of history. They are parts of Zoth's craft and of [R'lyeh](/places/rlyeh/), scattered over deep time; some know them as Netherese, and after the Netherese were obliviated the machines had new owners. Only Wainwright St. Cloud had anything like the full picture, and the party had it briefly. The Lexicon wishes it could know the full story, and that wish drives it insane.
+Dave: "the leadership of the Sovereignty is heavily advised by the Lexicon whose main node is in Sigil, overseen by what emerged from the church of Cypher". <small>(Oral Histories: The Inevitables, 2023-02-03)</small> The Sovereignty is also called "the Galactic Soveriegnty of Freespaces". <small>(Sic. Oral Histories: The Inevitables, 2022-11-26)</small> By the time of [Light of Xaryxis](/history/light-of-xaryxis/) "the lexicon has evolved into a huge hidden society of conflicting magical AIs with their own agendas". <small>(Oral Histories: The Inevitables, 2023-11-18)</small> At the end of that campaign "the Anachron/Lexicon disappears from Sigil to avoid the broadcast and escapes to the depth of space where it can continue to exist". <small>(Dave, who added "Unless it doesn’t idk I’m not in charge". Oral Histories: The Inevitables, 2024-06-02)</small>
+
+The origin of the [Infernal Machines](/lore/the-infernal-machines/) is told many ways, because of obliviation and the fog of history. They are parts of Zoth's craft and of [R'lyeh](/places/rlyeh/), scattered over deep time; some know them as Netherese, and after the Netherese were obliviated the machines had new owners. Only Wainwright St. Cloud had anything like the full picture, and the party had it briefly. The Lexicon wishes it could know the full story, and that wish drives it insane.
+
+Dave, in 2024: "In many ways the lexicon is and its children are a classic Golem, AI etched onto impossibly refined and self reorganizing crystal, seeking a complete understanding of the world where that is supernaturally impossible, so it’s a display of the hubris of the Brightmantle infanta Stone". <small>(Sic. Oral Histories: The Inevitables, 2024-12-22)</small> It never ceases that search, and "whenever it is successful at recovering the truth about its origin, it reopens the door for Cthulhu to be summoned again". <small>(Oral Histories: The Inevitables, 2024-12-22)</small> By Dave's estimate it "takes ten thousand years" for the Lexicon to reach its place in the Starfall era. <small>(Oral Histories: The Inevitables, 2023-12-02)</small>
 
 ## Status
 

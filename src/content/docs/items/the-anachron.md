@@ -61,8 +61,15 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-05-05"
 - "Oral Histories: Temporal Holdings, 2019-05-25"
 - "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2020-01-13"
+- "Oral Histories: Temporal Holdings, 2020-12-19"
+- "Oral Histories: Temporal Holdings, 2021-07-02"
 - "Oral Histories: Temporal Holdings, 2021-12-10"
+- "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2021-12-03"
+- "Oral Histories: The Inevitables, 2021-12-04"
+- "Oral Histories: The Inevitables, 2022-10-09"
+- "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2024-12-06"
 published: '2026-09-10'
 wa:
@@ -115,7 +122,7 @@ The legends held that the Anachron warps time as it warps space. Lex explained w
 
 ## Where it comes from
 
-It is a **part of Zoth's ship**. The vessel of **Zoth-Ommog** — the Star Child, whose split soul are the gods of this realm — lay dormant on the ocean floor, and the aboleth built the city of [R'lyeh](/places/rlyeh/) around it. The **Infernal Machines** are salvage off that ship: the [Mammon Machine](/items/the-mammon-machine/) is half of the vessel, and the [Obliviator](/items/the-obliviator/) and [Anachron](/items/the-anachron/) were both parts of it.
+It is a **part of Zoth's ship**. The vessel of **Zoth-Ommog** — the Star Child, whose split soul are the gods of this realm — lay dormant on the ocean floor, and the aboleth built the city of [R'lyeh](/places/rlyeh/) around it. The **[Infernal Machines](/lore/the-infernal-machines/)** are salvage off that ship: the [Mammon Machine](/items/the-mammon-machine/) is half of the vessel, and the [Obliviator](/items/the-obliviator/) and [Anachron](/items/the-anachron/) were both parts of it.
 
 [Wainwright St. Cloud](/people/wainwright-st-cloud/) is how they reached the later world. He brought the dragons against the aboleth to get down to the ship, deactivated the Obliviator, took the Anachron, and then **flew the ship itself into space to meet Cthulhu and travelled forward in time with it, ahead of the impact**. <small>("The Penteract is a five-dimensional structure surrounding the City of Dis, which is ½ of Zoth's vessel (i.e Mammon Machine)." Arc VI, Time of Troubles Part VII. The **Penteract** is the five-dimensional barrier built around a **fragment** of the Mammon Machine trapped at the Heart of the [City of Dis](/places/dis/).)</small>
 
@@ -154,6 +161,8 @@ After the transfer Lex travelled with the party. He ran the Arielle's core, repo
 
 <small>Arc IV Parts II and V; Arc VI, [Time of Troubles](/history/arc-vi-time-of-troubles/).</small>
 
+At the start of the Starfall arc "the Anachron is working in new ways after the Lexicon came back to life and you all went near the" diamond mine at [Refuge](/places/refuge/). <small>(Dave. Oral Histories: Temporal Holdings, 2020-01-13)</small>
+
 ## The three machines assembled
 
 At Starfall the Anachron is not working alone. The session record names the apparatus the party has to defend as the **mammon-obliviator-anachron** — the [Mammon Machine](/items/the-mammon-machine/), the Obliviator and the Anachron joined into one device. St. Cloud's aim in sabotaging it is set out plainly: "to awaken and alert Cthulhu that his children are here," and "to veer toward Ydrissl."
@@ -170,6 +179,12 @@ Two capabilities are recorded for the Anachron in that configuration, and both a
 The box that opened the way to the Time of Troubles came from two [Tudyx Cubes](/items/the-tudyx-cube/), puzzle boxes. In the deep past [Karametra](/people/karametra/), seeing the Egg coming, the true Evening Star, knew that St. Cloud would someday go back on his promise, and left him. Roland shot him, and the party took his Tudyx Cube. It was empty. They placed a perfect moonstone inside it and closed the lid.
 
 They then took the second Tudyx Cube, the box they had stolen from St. Cloud's quarters on the Arielle, which they had been unable to open. Now it opened, and a **Perfect Dark** moonstone came out of it, having been inside that box for a presumed 65 million years. Perfect Dark was the fifth phase the Company had named and judged impossible, and the Anachron needs a Perfect Dark moonstone to travel in time. <small>(Oral Histories: The Inevitables, 2021-12-03)</small>
+
+Dave's rule for the stone: "If you keep a perfect moonstone out of sunlight for about 50 million years you get a perfect dark stone you can use for time travel". <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small> Of the two boxes, he told the party:
+
+> you basically passed yourself something through time, it's a schroedinger's box
+
+<small>— Dave. (Oral Histories: The Inevitables, 2021-12-03)</small>
 
 ## Starfall — scrambled, and left behind
 
@@ -205,6 +220,8 @@ By the time the party reaches it, the machine sits under hardened magma northeas
 
 The Netherese never got in. They destroyed the fortress, destroyed the orcs, obliviated their history and their historians, and left bore holes all around the formation where they had tried to cut through magma that a Disintegrate spell can remove only 125 cubic feet at a time. Netherese researchers and mages were still working the site when the party arrived. Full account at [The Chronicle](/items/the-chronicle/).
 
+In the battle with the broken Chronicle, [Eloise](/people/stonecypher/) froze time for herself, "accessed the terminal in the Anachron, and zipped into the Matrix", while the rest of the party fought the machine as it "shifted into Dark Lex mode". <small>(Oral Histories: Temporal Holdings, 2020-12-19)</small>
+
 The terminal in the Seat of Cypher answers a user with a lockdown and an error, and a root crash restore fails in the kernel. <small>Rendered in the record as "AY-ROR (error) TERMINAL LOCKDOWN COMPLETE. NO ACCESS PERMITTED TO THE CORE," then "FATAL AY-ROR IN KERNEL. UNABLE TO RESTORE." Ayror is separately the name of the mechanical spider overlord beneath Motherstone, who "forgot himself and hid himself inside a human body." The record does not state a connection between the two.</small>
 
 The Orcs who served the Chronicle appear again at the very end, stepping out of the land of the Dead among the allies the Raven Queen brings to the final battle. <small>(End of the Infanta, notes for a final encounter.)</small>
@@ -217,6 +234,8 @@ The Anachron exists at three points of its own loop at once, and all three insta
 - **Anachron "2"** is the one Zanzibar and [Blackstaff](/people/khelben-arunsun/) find and take back. Zanzibar used it to come back, with a dark crystal provided by Blackstaff.
 - **Anachron "3"** is the party's own, the instance after Zanzibar takes it back and it loops a third time. The party also hold one dark crystal.
 
+Before that, Dave had set out the party's Anachron as a machine that "has made multiple cycles of course", with stored time points "a) just before the starfall, b) the moment you left refuge/your time", and c) the far future from which [Dark Zanzibar](/people/dark-zanzibar/) and Max came to find the party in the ancient past. <small>(Oral Histories: Temporal Holdings, 2021-07-02)</small> In Antiquity it sat at Motherstone "with a Perfect Dark crystal loaded, it’s capable of going to Refuge In The pResent, the Dark Future, or the deep past", and once used it could return "to the same moment here". <small>(Sic. Oral Histories: The Inevitables, 2021-10-23)</small> The many copies are a residue of time travel, "similar to why there are multiple Anachron and Drefans". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> In December 2021 the party had "one time travel charge". <small>(Oral Histories: The Inevitables, 2021-12-04)</small> Dave's limit on the machine: "Since time machines only work from where they leave and travel to, they can’t be used to go forward from after they are created + real flow of time". <small>(Oral Histories: The Inevitables, 2022-10-09)</small>
+
 ## Why it forgot what it could do
 
 The Lexicon does not know, for most of its life, that it can travel in time — nor that the Anachron makes time travel possible at all. Both facts are removed from the world by **Cypher** in the finale against [Cthulhu](/lore/the-leviathan/), when the Infantaverse quest itself is obliviated from memory. The machine loses its own capability along with everyone else's knowledge of it, and does not recover it for millennia.
@@ -226,6 +245,8 @@ The Obliviator was installed to trim the Lexicon's mind; the last use of Oblivia
 ## Afterwards: Starfall
 
 The forgetting has consequences at the far end of the timeline. By the era of [Starfall: The Next Generation](/lore/starfall-the-next-generation/) the Lexicon rules a **Sovereignty of Realms** across Toril, Eberron, Oerth and Krynn — and it **betrays the mortal races**, "obsessed with trying to remember the events of the Infanta war." The memory it is chasing is the one taken from it here.
+
+At the end of [Light of Xaryxis](/history/light-of-xaryxis/), "the Anachron/Lexicon disappears from Sigil to avoid the broadcast and escapes to the depth of space where it can continue to exist". <small>(Dave, who added "Unless it doesn’t idk I’m not in charge". Oral Histories: The Inevitables, 2024-06-02)</small>
 
 ## The three names, in order
 

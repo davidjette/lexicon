@@ -39,6 +39,19 @@ tags:
 - The Archives
 - Despondos
 - Ironbane
+- ToT
+- Camp Vengeance
+- Fort Vengeance
+- Fort Zanzibar
+- Mirar
+- Memnon
+- Sue
+- Valen
+- Carl's Jr.
+- Drefanmetra
+- Myth Drannor
+- Nibblegrasp Swamp
+- Prismatic Order
 icon: fa-hourglass-half
 fields:
   campaign: Temple Holdings LLC
@@ -62,15 +75,38 @@ sources:
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - "Oral Histories: Temporal Holdings, 2019-05-05"
 - "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2020-07-25"
 - "Oral Histories: Temporal Holdings, 2020-08-08"
+- "Oral Histories: Temporal Holdings, 2020-08-09"
+- "Oral Histories: Temporal Holdings, 2020-08-11"
+- "Oral Histories: Temporal Holdings, 2020-10-04"
+- "Oral Histories: Temporal Holdings, 2020-10-24"
+- "Oral Histories: Temporal Holdings, 2020-11-06"
+- "Oral Histories: Temporal Holdings, 2020-11-08"
 - "Oral Histories: Temporal Holdings, 2020-11-22"
+- "Oral Histories: Temporal Holdings, 2020-12-05"
+- "Oral Histories: Temporal Holdings, 2021-01-16"
+- "Oral Histories: Temporal Holdings, 2021-05-27"
+- "Oral Histories: Temporal Holdings, 2021-08-22"
+- "Oral Histories: Temporal Holdings, 2021-10-10"
+- "Oral Histories: Temporal Holdings, 2021-10-23"
+- "Oral Histories: Temporal Holdings, 2021-12-04"
 - "Oral Histories: Temporal Holdings, 2021-12-10"
+- "Oral Histories: Temporal Holdings, 2022-02-27"
+- "Oral Histories: Temporal Holdings, 2022-03-19"
 - "Oral Histories: Temporal Holdings, 2022-04-09"
+- "Oral Histories: Temporal Holdings, 2022-04-10"
+- "Oral Histories: Temporal Holdings, 2022-07-06"
 - "Oral Histories: Temporal Holdings, 2022-07-17"
 - "Oral Histories: The Inevitables, 2020-07-26"
+- "Oral Histories: The Inevitables, 2021-08-15"
 - "Oral Histories: The Inevitables, 2021-08-21"
 - "Oral Histories: The Inevitables, 2021-08-22"
+- "Oral Histories: The Inevitables, 2021-09-04"
+- "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2021-12-03"
+- "Oral Histories: The Inevitables, 2021-12-04"
+- "Oral Histories: The Inevitables, 2022-01-15"
 - "Oral Histories: The Inevitables, 2022-03-19"
 - "Oral Histories: The Inevitables, 2023-12-02"
 published: '2026-09-10'
@@ -90,11 +126,21 @@ wa:
 
 Cornered by the forces of **Talona**, [Kara](/people/kara/) spends a Wish — that they *had* moved [the Moon](/places/the-moon/) in the past — and the act rewrites reality around them. The citadel transforms; the walls fill with **[Pim](/people/pim/)'s** chronicle of a history in which the deflection succeeded; the God of Medicine becomes an ally instead of an enemy. In a world remade by a single sentence, the party resolves to gather allies for the war to come, beginning with [Brightmantle](/people/brightmantle/) — and are drawn into the oldest legend of the age. The Wish was fulfilled when the party went back to the deep past a second time to help [Karametra](/people/karametra/) move the Moon, told in [Arc VII](/history/arc-vii-leviathan/).
 
+The era in which the party found itself held the building of Motherstone by Brightmantle, [Elistrae](/people/elistrae/) and the Gallidean elves; [Tylerjinex](/people/tylerjinex/) and the Dragonknights; the end of the High Elves of Avalon and the beginning of the age of men with the Pendragon dynasty; [Blackstaff](/people/khelben-arunsun/); "the forgotten Netherese including the Twin Queens"; "Sigil ruled by the Banefae"; and "the proto origins of Cormyr and the Dale Reckoning". <small>(Oral Histories: Temporal Holdings, 2020-07-25)</small>
+
+> the legendary ages of your history are all the present, and you must marshal them to fight the Leviathan and not each other
+
+<small>— Dave. (Oral Histories: Temporal Holdings, 2020-07-25)</small>
+
+Drefan and Magnus both turned down [Eloise](/people/stonecypher/) as a patron. The party scried on Brightmantle and found him "in the northern forest near Camelot", heard the call of the Nether for the first time, and learned that St. Cloud spends the Time of Troubles in [Zeal](/places/zeal/). <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small> On the refusal, Patrick, who played Magnus, wrote: "Dance with the god who brought you". <small>(Oral Histories: Temporal Holdings, 2020-08-09)</small> By Dave's account a big part of the quest was "reconciling the goals of Brightmantle and Elistrae to end the ToT/destroy the Netherese with the goals of Eloise/June (and by extension Obus I guess) to end St Clouds meddling in time permanently". <small>(Oral Histories: Temporal Holdings, 2020-08-11)</small>
+
 ## Camelot
 
 **Nimue** (Vivien), one of the five [Banefae](/organizations/the-banefae/) and founder of **Avalon**, foresaw the Time of Troubles and sought a human king to raise a rival to Netheril and "create a culture of peace and justice among the men of Earth." She gave **Uther Els** her sword **Excalibur** — also called **Ironbane** — and set her lover **Merlin** to watch his line. Uther's treachery broke the gift: Merlin stole away the child, Uther drove Excalibur into the stone, and **Arthur Els** grew to take up the legend. The sword "was given to Arthur after the death of the High Elves of Avalon in the forgotten war" <small>(Oral Histories: The Inevitables, 2020-07-26)</small>. In the previous loop Mordred held Ironbane, so in this one the [Waning One](/people/the-waning-one/) and **[Valen](/people/valen/)** "have one less Bane (mordred + iron bane) than they did last time" <small>(Oral Histories: The Inevitables, 2021-08-22)</small>.
 
-But treachery ran deeper. **Morgana La Fay** trapped Merlin in an oak, stole his power, and bore an incestuous son in a rite that bound the **God of Mercy and Judgment** into him: **Mordred**, who would become **the Jesu, the Infanta of Judgment**. With a false Grail-promise, Morgana and Mordred allied with the Infanta-less dwarves of **Mithral Hall**, preaching that all gods are one — Moradin — and that Jesu was his son come "to bring deliverance to believers and hellfire for heretics." The party's charge is plain: destroy Mordred and La Fay, free Merlin, and ally with the elves of Avalon. Along the way they take in a young would-be knight, [Parsifal](/people/percival/), who swears himself squire to [Roland](/people/roland-deschain/) <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small>.
+But treachery ran deeper. **[Morgana La Fay](/people/morgana-la-fay/)** trapped Merlin in an oak, stole his power, and bore an incestuous son in a rite that bound the **God of Mercy and Judgment** into him: **Mordred**, who would become **the Jesu, the Infanta of Judgment**. With a false Grail-promise, Morgana and Mordred allied with the Infanta-less dwarves of **Mithral Hall**, preaching that all gods are one — Moradin — and that Jesu was his son come "to bring deliverance to believers and hellfire for heretics." The party's charge is plain: destroy Mordred and La Fay, free Merlin, and ally with the elves of Avalon. Along the way they take in a young would-be knight, [Parsifal](/people/percival/), who swears himself squire to [Roland](/people/roland-deschain/) <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small>.
+
+After Camelot the elves were allied with Avalon, and Brightmantle and his crew planned to garrison Camelot and return to Motherstone "pending a plan to onboard the other three elvish peoples". The party chose a zombie-killing mission to Mirar. <small>(Oral Histories: Temporal Holdings, 2020-10-04)</small> In the dungeon inside the castle every room had a numbered twin, and leaving a room brought the party out of its twin in the same direction, with a couple of exceptions. <small>(Oral Histories: Temporal Holdings, 2020-10-24)</small> The party then faced Morgana and met back up with Magnus and Brightmantle. <small>(Oral Histories: Temporal Holdings, 2020-11-06)</small> By then they had "consolidated 2 of the 5 elvish lines" and made Motherstone their base. <small>(Oral Histories: Temporal Holdings, 2020-11-08)</small>
 
 ### The making of Merlin, and the corruption of Queen Maab
 
@@ -122,6 +168,8 @@ The blades' testimony names the founding families — **Gallidan, Nimue, Atlas, 
 
 ## The Chronicle, and the war to come
 
+After a rest in which the party partied like celebrities, used a [Palantir](/items/the-palantir/) by accident and helped save a troll's life <small>(Oral Histories: Temporal Holdings, 2020-11-22)</small>, they defended [Memnon](/organizations/people-of-memnon/) from Cyric's reinforcements and then went after Cyric himself. <small>(Oral Histories: Temporal Holdings, 2020-11-22; 2020-12-05)</small>
+
 Gathering allies — the **Horsemen** of the Dale (won by slaying **Cyric**, the God of Murder), the witch-elves of Avalon, Brightmantle, Calix and Eldamir — the heroes are led by [Zebulon the Meek](/people/zebulon/), a prophet of **Istus** (Lady Cypher, "the weaver of fate and the guardian of Time"), to the [Chronicle](/items/the-chronicle/). In his words: "The Chronicle was the mythical living archive of my people. It is located near a volcanic vent from which it draws its power. Northeast of Enkidu, hidden there. Only the blessed of Cypher can access it, but it has been corrupted by those who have tried thus far." Zebulon carries a memory of a master, **Curtis Washington**, whose existence he cannot evidence — "besides these paltry notes and a few specks of memory that haunt me in my sleep, I have no record or evidence that Curtis Washington ever existed" — and a vision he was given of the chronicle's end: <small>(Arc VI Part IX, "The Chronicle"; the session file itself is headed "Part XI – The Chronicle.")</small>
 
 > I saw you, and a band of immortal heroes, step through the Deepgate at Motherstone and bow to the Queen of the Moon. At the same time, I watched the moon explode and form its rings, I saw the sinking of a ship, and I five blades piercing an opened eye. The eye had five pupils and an swirling iris made of eldritch runes… It bled a blood so dark that the white was obscured and filled with an inky void…
@@ -144,14 +192,66 @@ The site is also called **the Archives**. The Netherese stole and ruined the Chr
 
 Three instances of the Anachron are present in the Time of Troubles, the same machine at three points in its own loop. The Netherese hold the first, which was hidden in the Penteract until St. Cloud stole it and gave it to Valen: "It’s the same one as yours but BEFORE you take it to the past." [Zanzibar](/people/zanzibar/) came back with the second, using a dark crystal provided by [Blackstaff](/people/khelben-arunsun/). The party hold the third, with one dark crystal. <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>
 
+## Camp Vengeance, Myth Drannor and Despondos
+
+During a week of downtime Kara made a clone of herself and hid it inside a commissioned statue of herself, Zanzibar and Eloise made a priceless reliquary, Magnus and Kara invested in a casino and a gem dealer, and the party conned a witch out of dragonscales and made potions. They also learned the lore of Copperbane as a rhyme. <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small>
+
+At Camp Vengeance, "the future site of Fort Zanzibar", the party was caught in a fight between the human [settlers](/organizations/settlers-of-the-dale/) and the elven natives, mostly stopped it and saved the innocents, and Kara made her dragon form known to those who scoffed at her. The elves' lackeys later told the party that their queen Alen Tudix had married a human named Peter Glans, who ran off with Copperbane after she mysteriously died; that [Valen](/people/valen/) was the queen's brother and had absconded with many of the clan's magic objects; and that [Myth Drannor](/places/myth-drannor/) was "cloaked in the mists and fighting the encroaching human presence." <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small> There the party also met Sue, the son of Suzara, whose father had sent him to Valen to be healed. From Fort Vengeance, having parted with the Sun Elves from Myth Drannor, they headed to Nibblegrasp Swamp to find Peter Glans, whom they believed to be a copper dragon. Calix and Eldamir had asked to be contacted when the party located Myth Drannor. <small>(Oral Histories: The Inevitables, 2021-08-15)</small>
+
+The party solved the puzzle Glans set them. <small>(Oral Histories: Temporal Holdings, 2021-08-22)</small> Sue betrayed the party and died. By Dave's account "The poor boy had Valen in his head and had little choice". <small>(Oral Histories: The Inevitables, 2021-09-04)</small>
+
+The party entered the labyrinthine dimension of Despondos "through the gate foretold", with Valen and his allies already inside. They rushed from coppermark to coppermark, subdued an undead magma titan trapped in the maze, spared some wounded Drow, and confronted Valen, [Carl's Jr.](/organizations/carls-jr-and-the-drow/) and the Waning One at the peak of [Sigil](/places/sigil/), where the Waning One transformed into a gargantuan fae dragon and the Bane Blades awakened. <small>(Oral Histories: Temporal Holdings, 2021-10-10)</small> In the battle that followed the party charmed the Waning One "with an hour left", bested Carl's Jr. and convinced her and the Drow to join them, and left Valen "in a puddle of acid"; the Bane blades merged and evolved, and Calix and [Atlas](/organizations/atlas-and-the-sea-elves/) returned to their Infanta to lead attacks on Netherese cities and the Egg. <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> Kara kept Valen blind for the whole fight. <small>(Oral Histories: The Inevitables, 2021-10-23)</small> The party then imprisoned Drefanmetra in his own sword, cloned themselves, and yelled at Calix "for getting the job done". <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>
+
+Dave then laid out the quests in each era. In the Time of Troubles: Netheril, to find Blackstaff, confront St. Cloud and the Queens and take the Obliviator; Atlantis, to find Atlas II and enter the Egg; Avalon, to learn the Charm of Making and free Merlin; and Motherstone, to "finish clone statuary". In the Renaissance: Atlantis, Waterdeep, Calimshan and Sigil. In the deep past: the Moon, R'lyeh, Dragon Mountain, and the Egg in orbit. <small>(Oral Histories: The Inevitables, 2021-12-04)</small>
+
 ## The sages, and Zeal
 
+The party teleported to Atlantis "with glass". <small>(Oral Histories: The Inevitables, 2022-01-15)</small> Inside an underwater Netherese facility they found "massive magical lifting engines" fastened to the surface of the subterranean Leviathan Egg. <small>(Oral Histories: Temporal Holdings, 2022-02-27)</small> They interrupted a Netherese ritual, recovered a "scroll" of Move Mountain, downed two Netherese archmages and a few aquanauts, and put "the whole Prismatic Order on the run including the Man himself". <small>(Oral Histories: Temporal Holdings, 2022-03-19)</small> The sages fought them as four legendary characters at once. <small>(Oral Histories: The Inevitables, 2022-03-19)</small>
+
 Parsifal, also called **Percival**, **Percy** and **Perceval**, was killed and frozen by the Netherese sages <small>(Oral Histories: The Inevitables, 2022-03-19)</small>. His frozen corpse was carried home to Motherstone, and [Brother Magnus](/people/brother-magnus/) raised him <small>(Oral Histories: Temporal Holdings, 2022-04-09)</small>. Percival survived, though almost his whole life was obliviated. His faith survived, and he became the chief apostle of the church of Cypher, Istus and Eloise and the founder of the faith that became [the Sororia](/organizations/the-sororia/): **St. Percival**.
+
+In the battle in which Percival was raised, Roland was trapped in his own [Cube](/items/rolands-cube/), Drefan brought Eloise back on the first turn, and the party stole St. Cloud's ship; St. Cloud ran away because "he and his friends want very much to survive". <small>(Oral Histories: Temporal Holdings, 2022-04-09; 2022-04-10)</small>
+
+When the party at last went to Netheril, it turned out to be "an egalitarian post scarcity utopia with ubiquitous magic for all at the cost of all mortal souls being fed into oblivion to power it". "All the souls which March through Despondos get fed into the mammon machine and obliviated and it powers their society." <small>(Oral Histories: Temporal Holdings, 2022-07-06)</small>
+
+> So everyone on earth who dies eventually ends up forgotten to power some flying car or whatever
+
+<small>— Dave. (Oral Histories: Temporal Holdings, 2022-07-06)</small>
 
 The Time of Troubles came to its climax as the city of **[Zeal](/places/zeal/)** rose into orbit to meet the [Egg](/places/the-egg/), carrying the [Obliviator](/items/the-obliviator/) and the armies of Faerûn. The **Grey Sage**, [Wainwright St. Cloud](/people/wainwright-st-cloud/), was captured alive, and [Roland's Cube](/items/rolands-cube/) was in hand, though broken. In one day Zeal would enter the Egg. <small>(Oral Histories: Temporal Holdings, 2022-07-17)</small>
 
 ## Into Arc VII
 
 With the moonblades remembering, the founders' war against Netheril joined, and Zebulon's vision of five blades in a single vast Eye burning ahead of them, the alliances forged in the rewritten past converge on the present. The chronicle turns to the gathering of every force across every age, and the rise of the thing that has been coming since the first star went dark, in [Arc VII — Leviathan](/history/arc-vii-leviathan/).
+
+## Sessions
+
+- **2020-07-25** — Kara's Wish; the era laid out; the party chooses Camelot.
+- **2020-08-08** — Drefan and Magnus refuse Eloise as patron; the call of the Nether; Parsifal swears himself to Roland.
+- **2020-08-22** — Lore of the gods; Magnus receives the Armor, Helm and Axe of the Woods.
+- **2020-09-12** — Camelot; the sword in the Abbey.
+- **2020-09-26** — Back to Camelot; [Mara Mageblood](/people/mara-mageblood/)'s journal.
+- **2020-10-10** — Mirar; the zombie mission and the castle.
+- **2020-10-24** — The twin-room dungeon; Arana joins the party.
+- **2020-11-07** — Morgana; the reunion with Magnus and Brightmantle.
+- **2020-11-21** — The rest episode.
+- **2020-12-05** — Memnon defended; the party goes after Cyric.
+- **2020-12-19** — Memnon resurrected; the flight to the Chronicle; the battle with the Chronicle begins.
+- **2021-01-02** — The battle with the Chronicle concludes.
+- **2021-01-16** — A week of downtime; the Copperbane rhyme.
+- **2021-01-30** — Dialects and sea shanties; Stoth's burglary.
+- **2021-02-13** — Camp Vengeance; Peter Glans.
+- **2021-08-21** — Glans's puzzle solved; a scene at Myth Drannor.
+- **2021-09-04** — Roland reaches level 21.
+- **2021-09-24** — A session in the middle of a fight.
+- **2021-10-08** — Despondos.
+- **2021-10-23** — The battle at the peak of Sigil.
+- **2021-12-04** — Drefanmetra imprisoned; the party clones itself.
+- **2021-12-17** — A holiday session.
+- **2022-01-15** — Atlantis.
+- **2022-02-26** — The underwater Netherese facility.
+- **2022-03-19** — The ritual interrupted; Percival killed by the sages.
+- **2022-04-09** — Roland trapped in his Cube; St. Cloud's ship stolen; Percival raised.
+- **2022-07-02** — Netheril.
 
 *Opens with:* Kara's Wish — a moved moon, a changed world · *Spans:* Camelot · Avalon · the road to Netheril · *The awakening:* the moonblades remember · *Follows:* [Arc V — Starfall](/history/arc-v-starfall/) · *Leads into:* [Arc VII — Leviathan](/history/arc-vii-leviathan/)

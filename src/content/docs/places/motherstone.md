@@ -33,6 +33,7 @@ tags:
   - the Netherese
   - Eldamir
   - the Founding
+  - Heroes' Hill
 type: settlement
 kind: places
 icon: fa-gem
@@ -65,6 +66,16 @@ sources:
   - worldanvil/CANON.md
   - CANON.md 5x (the DM's account, 2026-09-10)
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3108, IMG_3109)
+  - "Oral Histories: Temporal Holdings, 2018-06-26"
+  - "Oral Histories: Temporal Holdings, 2018-10-15"
+  - "Oral Histories: Temporal Holdings, 2019-01-25"
+  - "Oral Histories: Temporal Holdings, 2019-03-03"
+  - "Oral Histories: Temporal Holdings, 2019-04-01"
+  - "Oral Histories: Temporal Holdings, 2019-05-05"
+  - "Oral Histories: Temporal Holdings, 2019-05-28"
+  - "Oral Histories: Temporal Holdings, 2022-03-28"
+  - "Oral Histories: The Inevitables, 2024-01-21"
+  - "Oral Histories: The Inevitables, 2025-10-31"
 published: '2026-09-10'
 wa:
   slug: motherstone-location
@@ -75,7 +86,7 @@ wa:
 
 > A magnificent outgrowth of blue moonstone crystals ten stories tall, surrounded by an elven city, encircled by the mountain itself… Bright blue moonstone crystals catch the sun from all over, as if the city itself was carved from a humming blue geode, with elder oaks growing from its basin, shaped by arcane elven magics into domiciles and long abandoned magical laboratories. A tremendous, eerily motionless, bronze ring the size of a sailing ship seems fixed above the largest moonstone, with an equally motionless orb floating in its center.
 
-That ring holds the [Obliviator](/items/the-obliviator/). The crystal beneath it held the [Lexicon](/items/the-lexicon/) until the Second Battle of Motherstone, when the Lexicon was moved into [the Anachron](/items/the-anachron/). Together they ran the city.
+That ring holds the [Obliviator](/items/the-obliviator/). The crystal beneath it held the [Lexicon](/items/the-lexicon/) until the Second Battle of Motherstone. Lex had been built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is [the Anachron](/items/the-anachron/); about three rounds into the battle he transferred himself to the ship, and the Motherstone Lexicon died. <small>(Oral Histories: Temporal Holdings, 2019-05-05, 2019-05-28)</small> Together the Obliviator and the Lexicon ran the city.
 
 ## Founding
 
@@ -97,6 +108,8 @@ Motherstone was built around a **mind**. [Brightmantle](/people/brightmantle/) �
 
 Knowledge without limit drove the Lexicon cynical and dazed. The Obliviator, brought back from the Netherese war, was the remedy — an engine that would filter the world's excess detail out of the Lexicon and, by its nature, out of every mind that had ever held it. <small>Who knows what tiny wonders were forgotten on behalf of all by the Obliviator.</small>
 
+The bubble around the island is "an eleven mythal, a ring of storm and anti magic that protects the island". <small>(Sic. Oral Histories: Temporal Holdings, 2019-03-03)</small> "Motherstone was designed by Brightmantle and Calix to distrbute the infanta's power" <small>(sic)</small>, and "that particular concentration of perfect moonstones and their effects are totally unique". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+
 ## The Betrayal
 
 Motherstone went from the capital of the world to entirely forgotten in a day. The nursery rhymes record it as a seduction; the crime was the Forgetting. Calix buried his own terminal-throne in order to replace the Lexicon with himself — to dissolve his mind into the crystal and become one with the Motherstones — and planned to obliviate the city and frame Brightmantle and the dwarvish people for his betrayal. He was pre-empted. [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, could not bear that his wife [Elistrada](/people/elistrae/) would think he had turned on her, and threw himself into the Obliviator so that she would forget he had ever existed. That made everything about Motherstone, not just its location, cursed and obliviated knowledge. What survived was a hole: ledgers that skip, ruins nobody can place, an explorer who read of it and went half-blind. It is the founding instance of the [Oblivia](/lore/the-oblivia/).
@@ -109,6 +122,8 @@ Motherstone went from the capital of the world to entirely forgotten in a day. T
 The Lexicon is broken to this day because exactly one fact is missing from it: the date of the Betrayal. The override that locked every other terminal out of a hard reset was placed "on the Fifth of Leaffall, 49," by a single user — Calix. And the Lexicon's own error state announces itself on a twin archive's terminal as **AY-ROR (error)**, which is how the spider-god **Ayror**, feared by half the city, turns out to be no god at all.
 
 Stone's act is what broke it. With its master erased, the Lexicon hit a fatal error — Ayror — and attacked everything while trying to learn the identity of its master, and of itself. The same act drove Calix and the Gallidan elves insane: they slew the dwarves, and Calix and Eldamir were cast out of the forgotten city and slew each other on the beach, though Calix, immortal, survived as a lich, mad, and no longer knowing how to find his own phylactery. Elistrada became a mysteriously depressed and always-weeping queen. The party freed Stone's memory when they cured the Lexicon in Arc II.
+
+Dave, on what the party learned in Arc II: "there were dozens of infanta in the Time of Troubles and you guys discovered that the Betrayer murdered them all at a peace treaty meeting which led to the collapse of the world which has never fully recovered". <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small>
 
 ## The two peoples
 
@@ -136,6 +151,8 @@ The [Mundi](/organizations/the-mundi/) — lithe white moon-elves — live insid
 **The Crack:** the wound beneath the city, and the only known approach to [the Egg](/places/the-egg/).\
 **Calix's vault:** the secret chamber in the city where his hacked throne and his phylactery were hidden; time runs slower inside it than outside. The chamber was never used.\
 **The bottom of the great crystal:** opens over the Winking Depths.\
+**Heroes' Hill:** six stone statues and a faceless woman, named in rhyme.\
+**The crumbling statuary:** where the party's clones waited.\
 **The Eldergreen:** the heart of the world-tree, sealed since the Betrayal, and through its roots the deep fey kingdom of the **Underglow**.
 
 ## Reclaimed, and lost again
@@ -144,12 +161,36 @@ The First Infanta's heir retook her capital at the head of an invading army, rid
 
 Before that return the party spent ten years below, in the slow time of Calix's vault. In those years the Company found Motherstone and turned it into a massive moonstone mining operation; St. Cloud, who had forgotten the city along with everyone else, made it a centrepiece of his empire once it was remembered. When the party emerged they raised a rebellion among the workers, and the ten-year-old Infanta of the Moon arrived riding an elephant with a small army from around Snowdown. Together they pushed the Company out.
 
+When the party took their airship, Dave told them they would want a home for it, "either in Harlock or in Motherstone", at a cost of another 50,000 gold "for an airdock capable of repairing the boat". <small>(Sic on "Harlock". Oral Histories: Temporal Holdings, 2018-10-15)</small> A portal linked Motherstone to a pet shop in Suzail. For the [Suzail coup](/history/the-suzail-coup/), Nico, who played [Stonecypher](/people/stonecypher/), planned for the party to "open the pet shop door" and "take the snail king through the portal to Motherstone". <small>(Oral Histories: Temporal Holdings, 2019-01-25)</small>
+
 At the Second Battle of Motherstone the Lexicon left the mountain for good. At the Seat of the Lexicon, at the underground focal point of the city's largest crystal, [Roland Deschain](/people/roland-deschain/) touched [the Palantir](/items/the-palantir/) and [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled him through it; Roland destroyed Lex and let the Company into Motherstone, which lowered the great **Mythal** the Lexicon powered and managed. <small>(Oral Histories: Temporal Holdings, 2021-10-30)</small> Wainwright then jumped his ships into the city's airspace. Lex had already been built into the party's airship, the Arielle, whose drive is the [Anachron](/items/the-anachron/); about three rounds into the battle he transferred himself to the ship, and the Motherstone Lexicon died. <small>(Oral Histories: Temporal Holdings, 2019-05-05, 2019-05-28)</small> The city won the battle; the party captured [Carlysle St. Cloud](/people/carlysle-st-cloud/) in [Roland's Cube](/items/rolands-cube/) and threw him and the Palantir into the Obliviator. From then on the Lexicon travelled with the party aboard the Arielle, and Motherstone ran without it: trash "piles up before it can be physically removed and burned, instead of fed into the Deepmaker for recycling as it was before," and "conflict is breaking out between ethnic and class groups." <small>(The session plan for the approach has St. Cloud "rushing to get to the Lexicon's control room to overtake the Obliviator" (Arc III Part XII, Lost Children). The state of the city afterwards: Arc IV Part II. The Lexicon's later life, as the Anachron and then the Chronicle, is at [The Anachron](/items/the-anachron/).)</small>
 
+[Kara](/people/kara/) later cloned most of the party, and the clones waited in Motherstone "in the crumbling statuary"; [Zanzibar](/people/zanzibar/) was the only one not cloned. <small>(Oral Histories: Temporal Holdings, 2022-03-28)</small>
+
 **Right now:** Motherstone is reclaimed and long ruined at once — a capital whose mind is dark, whose two peoples still blame each other for a crime neither can name, and beneath which the Crack still runs down to a sleeping god.
+
+## Heroes' Hill
+
+A rhyme names Heroes' Hill in Motherstone, its six stone statues and a faceless woman:
+
+> The Waning-One loved many girls, but only 1 he wed.\
+> In old Faerun, 5 Zanzibars fought til each had lost their head.
+>
+> A million died at River Lis, so says the Elven lore.\
+> Celion the Broken Cocked he killed a million more.
+>
+> In deeper waters, Lords in masks were 4 and 21.\
+> Saint Percy for an honest man did search, yet found he none
+>
+> In Motherstone, on Heroes’ Hill, 6 statues made of stone,\
+> and 1 a faceless woman, unnamed, apart, alone
+
+<small>(Oral Histories: The Inevitables, 2025-10-31)</small>
 
 ## Motherstone Hall
 
 Five hundred years later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), rooms 23 to 26 on Level 2 of [Undermountain](/places/undermountain/), far below Waterdeep, are Motherstone Hall <small>(DM notes)</small>:
 
 > Segments of Motherstone architecture, bas relief, tombs, statuary, and relics stolen by Halaster over the centuries, and assembled as a kind of exhibit and "model" for understanding and admiring the ancient city. Built before any obliviation was lifted on Brightmantle, so constructed with profound mystery around the origin of the city. Halaster presumably extracted and reinstalled sections of the ancient city as a district in his vast dungeon, securing inside of it some of the artifacts he held from its glory days.
+
+Asked what became of Motherstone, Dave suggested: "It’s far off shored it could be in a fog near falling into the faewyld, held in place by its contingency of gnomes and human traders" / "Disappearing and reappearing with the phases of the moon". <small>(Sic. Oral Histories: The Inevitables, 2024-01-21)</small>

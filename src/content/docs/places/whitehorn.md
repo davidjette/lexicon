@@ -41,7 +41,7 @@ published: '2026-09-14'
 
 **Trading post · The Ride · Arc III, The Age of the Infanta**
 
-**Whitehorn** is a small trading post in the Ride, a northern valley north of Zhentil Keep and east of the Anauroch Desert, where the Eraka horsemen of Khal Unger keep order. It was the last stop of [Wainwright St. Cloud](/people/wainwright-st-cloud/)'s ship before Snowdown, and the Company left a team there to search for the Infanta of Death, [Marcus](/people/marcus/), who had fled the tomb beneath its temple. In [Arc III](/history/arc-iii-age-of-the-infanta/) the party followed the ship's records to Whitehorn, fought the dead there and freed enslaved children. They returned to defeat zombies, devils, a necromancer and earthquakes, and extracted the Soul Syphon from the tomb.
+**Whitehorn** is a small trading post in the Ride, a northern valley north of Zhentil Keep and east of the Anauroch Desert, where the Eraka horsemen of Khal Unger keep order. It was the last stop of [Wainwright St. Cloud](/people/wainwright-st-cloud/)'s ship before Snowdown, and the Company left a team there to search for the Infanta of Death, [Marcus](/people/marcus/), who had fled the tomb beneath its temple. In [Arc III](/history/arc-iii-age-of-the-infanta/) the party followed the ship's records to Whitehorn, fought the dead there and freed enslaved children. They returned to defeat zombies, devils, a necromancer and earthquakes, and extracted the [Soul Syphon](/items/the-soul-syphon/) from the tomb.
 
 ## The Ride
 

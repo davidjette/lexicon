@@ -49,7 +49,7 @@ That search produced [Arthur](/organizations/king-arthur-and-his-knights/), and 
 
 Merlin's own origin is the Summer Court's bargain: the elves of Avalon, "desperate to break their curse of infertility and isolation from their divine aspect of the moon," made a deal with an infernal power to produce "the child of a fiend — Asmodeus — and a mortal woman — and create a sorcerer who could look backward into time." <small>(Arc VI, Time of Troubles Part VIII.)</small>
 
-Kara travelled to Avalon to learn the Charm of Making and free Merlin from the oak tree Morgana sealed him in, and was welcomed by the witch elves of the heath "as a sister and a sorceress."
+Kara travelled to Avalon to learn the Charm of Making and free Merlin from the oak tree [Morgana](/people/morgana-la-fay/) sealed him in, and was welcomed by the witch elves of the heath "as a sister and a sorceress."
 
 Their card type is **Legendary Land Creature**.
 

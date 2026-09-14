@@ -22,6 +22,10 @@ tags:
 - Infantaverse
 - Roland's Cube
 - the Palantir
+- the fortune teller
+- Zanzibar
+- Pim
+- Stonecypher
 icon: fa-book-skull
 fields:
   type: Fairy tale; true
@@ -35,6 +39,8 @@ sources:
 - CANON.md 5e (the DM's account, 2026-09-10)
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-01-21"
+- "Oral Histories: Temporal Holdings, 2019-04-05"
 - "Oral Histories: Temporal Holdings, 2019-05-25"
 - "Oral Histories: Temporal Holdings, 2019-10-14"
 published: '2026-09-10'
@@ -58,6 +64,18 @@ wa:
 > These gifts made the brothers rich and powerful, and they achieved their dreams. But the knowledge that the book contained consumed their waking thoughts, dark wisdom so horrible that I dare not speak of it to you. But they never rested for another day, nor forever, as they lived on in an endless world of constant dread.
 
 <small>— a fortune teller in Suzail. Arc III, The Age of the Infanta, Part VII (Suzail) and Part VIII (War Wizards); repeated in the Part VIII handouts.</small>
+
+## The fortune teller's messages
+
+The fortune teller in [Suzail](/places/suzail/) told the story to [Zanzibar](/people/zanzibar/), [Pim](/people/pim/) and [Stonecypher](/people/stonecypher/), and gave each of them a one-sentence, cryptic message. Nichole, who played Stonecypher, reported them to the party:
+
+- **Zanzibar:** "There is a hole at the bottom of the sea."
+- **Pim:** "Don't read it"
+- **Stonecypher:** "Forever is a very long time."
+
+<small>(Oral Histories: Temporal Holdings, 2019-01-21)</small>
+
+After Pim found the hole left by [Carlysle](/people/carlysle-st-cloud/)'s heart, JL, who played Zanzibar, proposed a reading of his message: "If Carlile’s corpse left a hole in the earth maybe ysmir’s did also. And that’s the old witch’s prophecy." Dave answered the same evening that Ysmir's body went down with the *Evening Star*. <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
 
 ## Who the sage was
 
@@ -94,5 +112,7 @@ The fortune teller will not name it. The black book carries knowledge of [Cthulh
 After Carlysle's obliviation, "a mysterious change to the trifecta of St. Cloud… extended to Wainwright and shaped much of his hatred of the party from then on." <small>(Nobody in Motherstone remembered Carlysle or the Palantir afterwards; the city believed Roland had betrayed it.)</small>
 
 Hearing the tale again later did not bring back the party's memory of Carlysle. Dave: "The Obliviator still clouds everything around Carlysle and it still has erased the Palantir, but now you can put a name to it and Roland can reason and appreciate that he got his revenge". <small>(Oral Histories: Temporal Holdings, 2019-10-14)</small>
+
+The party heard the story again in [Sigil](/places/sigil/). In Dave's words, what it did was "partly solve the mystery you all have been struggling with and it helps make sense of the fragments you do have, and maybe clears a few more." <small>(Oral Histories: Temporal Holdings, 2019-10-14)</small>
 
 **Related:** [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [Carlysle St. Cloud](/people/carlysle-st-cloud/) · [Roland Deschain](/people/roland-deschain/) · [The Obliviator](/items/the-obliviator/) · [The Leviathan](/lore/the-leviathan/) · [Arc I: Hope in Exile](/history/arc-i-hope-in-exile/)

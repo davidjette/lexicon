@@ -22,6 +22,9 @@ tags:
 - Calix's vault
 - the Netherese
 - phylactery
+- Drefan
+- the Faceless Boy
+- Palantir
 icon: fa-skull
 fields:
   rpgAlignment: Unknown
@@ -50,6 +53,14 @@ sources:
 - CANON.md 5x (the DM's account, 2026-09-10)
 - CANON.md 5z
 - "Oral Histories: Temporal Holdings, 2018-06-26"
+- "Oral Histories: Temporal Holdings, 2018-07-01"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2020-01-08"
+- "Oral Histories: Temporal Holdings, 2021-10-23"
+- "Oral Histories: Temporal Holdings, 2021-12-04"
+- "Oral Histories: The Inevitables, 2021-08-15"
+- "Oral Histories: The Inevitables, 2021-10-09"
+- "Oral Histories: The Inevitables, 2022-03-19"
 published: '2026-09-10'
 wa:
   slug: calix-the-betrayer-person
@@ -74,11 +85,13 @@ In the age the elves call the **Heavenfall**, Calix was the brother of **Eldamir
 
 Only Eldamir stayed dead. Calix stored parts of his soul throughout the smaller islands in hopes of extending his life beyond even an elf's, allied with **Queen Maab**, goddess of air and darkness, and rose again and again to seize the island's power.
 
+He is kin to [Drefan](/people/drefan/) Gallidan. Dave: "young calix looks related to drefan because he is". <small>(Oral Histories: Temporal Holdings, 2020-01-08)</small>
+
 ## The Forgetting
 
 <small>Recovered from the Oblivia.</small> Motherstone was built around the [Lexicon](/items/the-lexicon/), a mind grown inside the world's largest perfect moonstone; Calix opened the **Gate Ring**, a stable abyssal vortex, to make the city a data vacuum pulling the echoes of all information in creation toward itself. Then he buried his own terminal-throne to *replace the Lexicon with himself* — to dissolve his mind entirely into the crystal and become one with the Motherstones.
 
-Calix built the Lexicon together with [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, from Netherese magic and technology. After the war with the Netherese, Stone and Elistrada invited the Infanta of the world to come and live in peace in Motherstone. Calix betrayed them: at the peace-treaty meeting he murdered dozens of Infanta, a massacre that "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> He planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal. Stone pre-empted him: rather than let his wife [Elistrada](/people/elistrae/) believe he had turned on her, he threw himself into the Obliviator so that she would forget he had ever existed. That act made everything about Motherstone cursed and obliviated knowledge, and drove Calix and the Gallidan elves insane.
+Calix built the Lexicon together with [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, from Netherese magic and technology. "Motherstone was designed by Brightmantle and Calix to distrbute the infanta's power". <small>(Sic. Oral Histories: Temporal Holdings, 2019-04-01)</small> Of the Netherese, Dave says Brightmantle and Calix "obliviated the culture itself". <small>(Oral Histories: The Inevitables, 2022-03-19)</small> After the war with the Netherese, Stone and Elistrada invited the Infanta of the world to come and live in peace in Motherstone. Calix betrayed them: at the peace-treaty meeting he murdered dozens of Infanta, a massacre that "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> He planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal. Stone pre-empted him: rather than let his wife [Elistrada](/people/elistrae/) believe he had turned on her, he threw himself into the Obliviator so that she would forget he had ever existed. That act made everything about Motherstone cursed and obliviated knowledge, and drove Calix and the Gallidan elves insane.
 
 He did it to outlast the one thing he fears. His remnant says so in the words of an ancient drama:
 
@@ -104,9 +117,13 @@ The whole of it survives only in a nursery song that Mara Mageblood's mother cou
 
 Once the party had cured the Lexicon, Calix was able to locate the city, and he attacked them. They found his hacked throne and his phylactery hidden in his vault, in a chamber that had never been used. When the heroes emerge from the phylactery ten years on, the young Empress who retakes Motherstone introduces the advisor who made her victory possible: Calix. His crown would have locked her into a deadly trance on the Throne and let her divine power be hijacked to destroy the island. The thing that undoes him is the music box *the Infanta's Dream*, made by Brightmantle, whose maker's memory the heroes drew back out of the Obliviator before he could erase it again. By the [Age of the Infanta](/history/arc-iii-age-of-the-infanta/) Calix is dead, and the Company spends years failing to unlock the Calix puzzle in the broken Lexicon.
 
+In the Motherstone finale [Brother Magnus](/people/brother-magnus/) spoke to Calix as the Faceless Boy, a four-thousand-year-old god. Patrick, who played Magnus: "I was lying to Calix". <small>(Oral Histories: Temporal Holdings, 2018-07-01)</small>
+
 ## The remnant and the ally
 
 <small>Recovered from the Oblivia.</small> In the rewritten past he walks as the Masked Prophet, guiding the elves toward ruin with a plan to end the rule of gods and men in one stroke and restore the Moon. And at the muster in [Arc VII](/history/arc-vii-leviathan/) he stands with **Lex** to lay out the final intelligence — because he hears the **Call of Cthulhu** himself, and turns. It is Calix who exposes how [Wainwright St. Cloud](/people/wainwright-st-cloud/) deceived the Netherese queens into serving the Leviathan, warping their understanding so they would bring all the magic of their world to bear against their own existence. The moon elves who ride out at the end ride with Elistrae, Eldamir — and Calix.
+
+In the Time of Troubles, Calix and Eldamir told the party to contact them when they located [Myth Drannor](/places/myth-drannor/). <small>(Oral Histories: The Inevitables, 2021-08-15)</small> [Brightmantle](/people/brightmantle/) did not yet know of Calix's betrayal, because Magnus was keeping it secret. <small>(Oral Histories: The Inevitables, 2021-08-15)</small> In Antiquity Calix refused to go along with [Valen](/people/valen/) and [the Waning One](/people/the-waning-one/), as Atlas III did. <small>(Oral Histories: The Inevitables, 2021-10-09)</small> After the battle at the peak of Sigil, Calix and Atlas "returned to their Infanta to lead attacks on Netherese cities and the Egg itself". <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> "Calix also has a Palantir btw, Zanzibar looked into it". <small>(Dave. Oral Histories: Temporal Holdings, 2021-10-23)</small> In December 2021 the party yelled at Calix "for getting the job done". <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>
 
 ## Beliefs
 

@@ -17,6 +17,9 @@ tags:
 - R'lyeh
 - Starfall
 - Infantaverse
+- Youngblade
+- the Zhentarim
+- Whitehorn
 icon: fa-user-ninja
 fields:
   rpgAlignment: Chaotic Neutral
@@ -40,6 +43,10 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part I.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part III.docx
+- "Oral Histories: Temporal Holdings, 2018-10-21"
+- "Oral Histories: Temporal Holdings, 2021-01-30"
+- "Oral Histories: Temporal Holdings, 2022-02-26"
+- "Oral Histories: The Inevitables, 2024-01-21"
 published: '2026-09-10'
 wa:
   slug: stoth-youngglade-person
@@ -72,6 +79,8 @@ Publicly he is a hired pair of eyes: the man who is already at the docks when th
 
 At the fall of Caer Westphal it is Stoth who watches the colony break: the colonial bourgeoisie begging to board any ship they can find, the Forsworn cutting officials' throats in their beds, the elves' god-queen holding the mines and putting every man and dwarf to death. And it is Stoth who stakes out the **Excelsior** — "awaiting the last of the Company's plunder to be loaded into its belly" — while, in that same belly, a cloud of soft white mist that is Drefan waits to seize the helm. The theft of the Arielle is a two-man job and Stoth is the half of it standing in the open.
 
+At [Whitehorn](/places/whitehorn/), when [Revan](/people/revan-darkcember/)'s wounds turned him into a zombie, Stoth subdued him, tied him up and ran for help. <small>(Oral Histories: Temporal Holdings, 2018-10-21)</small>
+
 At Sigil he goes in with the assault: "Revan, Roland, Stonecypher, Drefan and Stoth approach the House of Nimbus, ready for an assault on those inside."
 
 **Organizations / Groups:** Temple Holdings LLC, by contract rather than oath
@@ -91,6 +100,14 @@ In the shared prophetic dream before Starfall, each hero is given one image. Sto
 Then the party scatters through time, and the recap of the split is blunt about how it went:
 
 > Magnus, Cypher, Yoshi, and Stoth went to find the Aboleth city and stop St. Cloud from whatever he was trying to do… None of them ever returned.
+
+## The Time of Troubles
+
+In a Time of Troubles session Stoth found "a little burglary mini game", and he fell into the harbour. <small>(Oral Histories: Temporal Holdings, 2021-01-30)</small> By February 2022 he had reached Level 17. <small>(Oral Histories: Temporal Holdings, 2022-02-26)</small>
+
+## Legacy
+
+Dave, on the world after the Ages of the Infanta: "Stoth is a legendary former leader of Zhentarum and the Youngblade clan still rules it". <small>(Sic. Oral Histories: The Inevitables, 2024-01-21)</small> See [the Zhentarim](/organizations/the-zhentarim/).
 
 ## Right now
 

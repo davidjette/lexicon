@@ -31,13 +31,18 @@ tags:
 - Maximillien
 - Winking Depths
 - Blackstaff
+- Glassbane
+- Zara
+- Myth Drannor
+- Castle Danzig
+- Caesar of Faerun
 icon: fa-crown
 fields:
-  rpgAlignment: Unknown
+  rpgAlignment: Lawful Neutral (Dave, 2019)
   ggmtitle: Crown Prince of Punis; Zanzibar the Younger, Heir of Punis and Paenis; envoy of the high priest of Punis
   dobDisplay: Unknown
   birthplace: Unknown
-  children: Unknown
+  children: Zara
   residence: Unknown; the Old Temple at Harloch is the company's
   gender: Male
   age: Unknown
@@ -68,8 +73,31 @@ sources:
 - CANON.md, Oral Histories batch 4
 - sources/dave/2026-09-14-temple-holdings-c30-coronation.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2019-01-01"
+- "Oral Histories: Temporal Holdings, 2019-01-06"
+- "Oral Histories: Temporal Holdings, 2019-01-24"
+- "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: Temporal Holdings, 2019-01-30"
+- "Oral Histories: Temporal Holdings, 2019-03-10"
 - "Oral Histories: Temporal Holdings, 2019-03-31"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2019-06-07"
+- "Oral Histories: Temporal Holdings, 2019-10-01"
+- "Oral Histories: Temporal Holdings, 2019-11-11"
+- "Oral Histories: Temporal Holdings, 2019-11-22"
+- "Oral Histories: Temporal Holdings, 2021-01-16"
+- "Oral Histories: Temporal Holdings, 2021-08-11"
+- "Oral Histories: Temporal Holdings, 2021-10-23"
+- "Oral Histories: Temporal Holdings, 2022-03-28"
+- "Oral Histories: Temporal Holdings, 2023-04-23"
+- "Oral Histories: The Inevitables, 2020-07-26"
+- "Oral Histories: The Inevitables, 2021-10-01"
+- "Oral Histories: The Inevitables, 2021-10-09"
+- "Oral Histories: The Inevitables, 2021-10-23"
+- "Oral Histories: The Inevitables, 2022-09-17"
+- "Oral Histories: The Inevitables, 2022-12-24"
 - "Oral Histories: The Inevitables, 2024-01-21"
+- "Oral Histories: The Inevitables, 2025-11-09"
 published: '2026-09-10'
 wa:
   slug: zanzibar-person
@@ -86,7 +114,7 @@ image:
 
 <small>For other uses, see [Zanzibar (disambiguation)](/lore/zanzibar-disambiguation/), [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), [the SSJ Zanzibar](/items/the-ssj-zanzibar/), [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/).</small>
 
-**Zanzibar** is the crown prince of [Punis](/places/punis/) and a man of faith, dispatched by the high priest of Punis to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision and the loss of divine magic from the world. He carries [Glassbane](/items/the-bane-blades/), the sea elves' shard of Perfect moonstone, by birthright and plunder, and earned it by deed fighting beside the water elves and Prince [Atlas](/organizations/atlas-and-the-sea-elves/) against the Drow in the Winking Depths, in the war that made him Dark Zanzibar, and in the founding of Atlantis. At the Candlenights festival in [Suzail](/places/suzail/) he carried home **[Una](/people/una/)**, a drowned and resurrected girl who may be an Infanta, against the designs of Cormyr's War Wizards, and left betrothed to King Glenn Danzig's daughter Roseanne. His father, the king of Punis, died while he was there. He was named King of Punis immediately after the Arcaneum arc, when [Valen](/people/valen/) was defeated, and after [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) he married Princess Roseanne of Cormyr. Her father the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. Immediately after the Ages of the Infanta, he declared himself Emperor of Faerûn and, as **Zanzibar the Elder**, First Emperor of Faerûn, founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since.
+**Zanzibar** is the crown prince of [Punis](/places/punis/) and a man of faith, dispatched by the high priest of Punis to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision and the loss of divine magic from the world. He carries [Glassbane](/items/the-bane-blades/), the sea elves' shard of Perfect moonstone, by birthright and plunder, and earned it by deed fighting beside the water elves and Prince [Atlas](/organizations/atlas-and-the-sea-elves/) against the Drow in the [Winking Depths](/places/the-winking-depths/), in the war that made him Dark Zanzibar, and in the founding of Atlantis. At the Candlenights festival in [Suzail](/places/suzail/) he carried home **[Una](/people/una/)**, a drowned and resurrected girl who may be an Infanta, against the designs of Cormyr's War Wizards, and left betrothed to King Glenn Danzig's daughter [Roseanne](/people/roseanne-danzig/). His father, the king of Punis, died while he was there. He was named King of Punis immediately after the Arcaneum arc, when [Valen](/people/valen/) was defeated, and after [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) he married Princess Roseanne of Cormyr. Her father the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. Immediately after the Ages of the Infanta, he declared himself Emperor of Faerûn and, as **Zanzibar the Elder**, First Emperor of Faerûn, founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since.
 
 ## Bearing and arms
 
@@ -106,6 +134,10 @@ Suzail, the City of Song, is a knot of danger during the ten-day winter festival
 
 News from home reached him in Suzail: *"Zanzibar — your father has died. The king finally succumbed to his injuries last night in the presence of his wife, your brothers, and a priest of Zarus."* The letter names his brother Seppy as the one to be crowned; he is nonetheless still styled Crown Prince, and "the king of Punis" is later laid to rest at **King Zanzibar's funeral**.
 
+At the start of 2019 the party chose the Principality of Punis and Paenis as its next destination, "to recapture @Zanzibar’s birthright". <small>(Oral Histories: Temporal Holdings, 2019-01-01)</small> In Suzail they turned King Glenn Danzig into a snail, and Dave summed up the session: "somehow orchestrated a fragile coup to make Zanzibar king of cormyr." <small>(Oral Histories: Temporal Holdings, 2019-01-06)</small> They had traded the Amulet of Kai Ryssdahl for information on how to break into Castle Danzig, and used it, in Dave's words, "to assassinate Valen and Celion and almost King Danzig himself, using a forced marriage for Zanzibar to assume the Cormyrean throne". <small>(Oral Histories: Temporal Holdings, 2021-08-11)</small> The king had named Roseanne his heir. Dave set out Zanzibar's options: marrying her "would combine the thrones of Cormyr and Punis in the next generation"; "Zanzibar can obviously claim the throne if he wants and if Roseanne makes him king that would also be legal"; "Or he can serve as prince regent to Roseanne’s Queen". <small>(Oral Histories: Temporal Holdings, 2019-01-24)</small> See [the Suzail Coup](/history/the-suzail-coup/).
+
+In the session of 27 January 2019 Zanzibar died. Dave: "I'm obsessed with zanzibar dying, seeing the shadowfell and the city of judgment on fire, and then getting ripped back to the world and called a hero". <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> The [Arcaneum](/lore/arcaneum-campaign/) stands in Punis, "so going home for Zanzibar means going by the Arcaneum". <small>(Oral Histories: Temporal Holdings, 2019-01-30)</small>
+
 ## Una
 
 At Candlenights he carries home a girl named Una — drowned and resurrected, "suffering from the common effects of being brought back to life after three days" — who may or may not be an Infanta herself.
@@ -114,9 +146,11 @@ At Candlenights he carries home a girl named Una — drowned and resurrected, "s
 
 <small>— Una, at Suzail</small>
 
+When Una went down the pit below the city in the Second Battle of Motherstone, Zanzibar and [Revan](/people/revan-darkcember/) jumped in after her. Dave: "Zan did it without a ring of featherfall". <small>(Oral Histories: Temporal Holdings, 2019-06-07)</small>
+
 ## Beliefs
 
-**Unknown.** No statement of his beliefs is recorded.
+Dave in 2019: "Zan is almost certainly Lawful Neutral, and has been leaning toward good recently", and "Zanzibar derives his power and priorities from a strict sense of what is right and honorable, he would die to make a point about justice? No?" <small>(Oral Histories: Temporal Holdings, 2019-03-10)</small>
 
 ## Right now
 
@@ -132,22 +166,36 @@ At Suzail Zanzibar has Una in his keeping, and the War Wizards mean to seize her
 
 **Items:** **Glassbane**, the sea elves' shard of Perfect moonstone, held by birthright and plunder — the Punisean crown recovered it in a war, and he is of the line it belongs to. He earns it a second time fighting beside the water elves and Prince Atlas against the Drow in the Winking Depths, in the war that made him Dark Zanzibar, and in the founding of Atlantis. No other equipment is recorded for him.
 
+In the Time of Troubles Glassbane already bore a rune from "Atlas himself on the moon". <small>(Oral Histories: The Inevitables, 2021-10-01)</small> It was a +1 longsword and a Perfect moonstone which, while attuned, gave him one level of Storm Sorcerer and a 30-foot swim speed. The sorcerer level "comes from the blessing of Atlas IV who was the Triton prince you met in the winking depth". <small>(Oral Histories: The Inevitables, 2021-10-09)</small> Dave then reforged it as "a +2 longsword, 2d6, gives 1 level of Storm Sorc, plus your rune", and set out its runes, "all from kings of Atlantis (all named Atlas)": the blessing of the first Atlas ("+2 intelligent Greatsword plus Mental Load"), the last Atlas ("1 level of storm sorc"), and the last Atlas's father, giving "Immunity to Cold and 2d6 extra cold damage on attacks w Glassbane"; "The last rune is from the Atlas of antiquity here in this time". For Zanzibar's own rune Dave proposed the elvish word "belaw", Friend, or "cast Water Wall once per long rest without a spell slot": "At the very least it should honor Zanzibar’s journey to becoming a friend of elves". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> See [the Bane blades](/items/the-bane-blades/) and [Atlas and the Sea Elves](/organizations/atlas-and-the-sea-elves/).
+
+**St. Cloud's ring**, by September 2022: "3 legendary resistances per day". Dave: "Wow Zanzibar is probably invincible now that he has St Clouds ring". <small>(Oral Histories: The Inevitables, 2022-09-17)</small>
+
 ## King of Punis and King of Cormyr
 
-Zanzibar was named King of Punis immediately after the Arcaneum arc, when Valen was defeated. <small>(Dave)</small> After his exile at the hands of the Arcaneum he returned to Punis and was crowned. At the coronation he named [Revan Darkcember](/people/revan-darkcember/) and [Roland Deschain](/people/roland-deschain/) Thanes of Punis and gave them holds: Revan's was **Marsember**, which became Darkcember because the Duchess of Marsember had been killed. The thanes' packages from Punis held "500 Gold Zans and assorted jewelry and trinkets worth another 100". <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small> He named [Stonecypher](/people/stonecypher/) his general and promoted Maximillien to Steward. His twin, **Zebediah**, was disinherited. King Glenn Danzig of Cormyr was turned into a snail. When he was turned back, he saw why Zanzibar had held [the coup](/history/the-suzail-coup/), appreciated "him rooting out the evil of Valen and his tainting by the Leviathan", and offered Roseanne's hand in marriage anyway. After the Battle of the River Lis Zanzibar married Princess Roseanne. Later in the campaign the king fell ill, and Zanzibar was crowned after his wedding to Roseanne. <small>(Dave)</small>
+Zanzibar was named King of Punis immediately after the Arcaneum arc, when Valen was defeated. <small>(Dave)</small> After his exile at the hands of the Arcaneum he returned to Punis and was crowned. At the coronation he named [Revan Darkcember](/people/revan-darkcember/) and [Roland Deschain](/people/roland-deschain/) Thanes of Punis and gave them holds: Revan's was **Marsember**, which became Darkcember because the Duchess of Marsember had been killed. The thanes' packages from Punis held "500 Gold Zans and assorted jewelry and trinkets worth another 100". <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small> He named [Stonecypher](/people/stonecypher/) his general and promoted [Maximillien](/people/maximillien/) to Steward. His twin, **[Zebediah](/people/zebediah/)**, was disinherited. King Glenn Danzig of Cormyr was turned into a snail. When he was turned back, he saw why Zanzibar had held [the coup](/history/the-suzail-coup/), appreciated "him rooting out the evil of Valen and his tainting by the Leviathan", and offered Roseanne's hand in marriage anyway. The elves of [Myth Drannor](/places/myth-drannor/) let the party come and go "as long as you behave. Except for Zanzibar, who they feel it would be inappropriate to allow inside the mythal". <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small> As divine magic faded, Dave told him: "Zanzibar - your holy power is waning as well". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small> By October 2019 he was "close to a way to bring a host of angels to Cormyr to stop the Orc invasion of Cormanthor". <small>(Oral Histories: Temporal Holdings, 2019-10-01)</small> In the raid on St. Cloud's base he killed Nub Clitman. <small>(Oral Histories: Temporal Holdings, 2019-11-11)</small> Before the River Lis his paladin powers depended on keeping the princess near the fighting: "within 1/4 mile gets you level 7+ spells, and it drops off a level per mile from there", and "it's not just Zan's powers, it's half the Purple Dragons as well". <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> After the Battle of the River Lis Zanzibar married Princess Roseanne. Later in the campaign the king fell ill, and Zanzibar was crowned after his wedding to Roseanne. <small>(Dave)</small>
+
+His child is **Zara**. Dave in 2022 wrote of Zanzibar's "own infanta and CHILD Zara". <small>(Oral Histories: The Inevitables, 2022-12-24)</small> See [House Zanzibar](/organizations/house-zanzibar/).
 
 ## Dark Zanzibar
 
 The party teleported out of the Winking Depths and went to [Waterdeep](/places/waterdeep/). The war below came after the party left [Refuge](/places/refuge/) for the past. Zanzibar was left behind, and in that loop he went forward with Max to fight beside the sea elves against the Drow and the mind flayers, through to [the Egg](/places/the-egg/). This is the war in which he fought with the water elves and Prince Atlas against the Drow in the Winking Depths, and earned Glassbane by deed. At the Egg, [Blackstaff](/people/khelben-arunsun/) sent him back in time, with Max, to stop [Wainwright St. Cloud](/people/wainwright-st-cloud/). That Zanzibar is **Dark Zanzibar**.
 
+JL, who played Zanzibar, gave his account in the Time of Troubles: "After you guys left I commanded an army of wood elves and celestial (to miserable defeat)". <small>(Oral Histories: The Inevitables, 2020-07-26)</small> During the week-long downtime of January 2021, "Zanzibar and Eloise made a priceless reliquary". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> Dave, in October 2021: "In the Present there’s Zanzibar Prime". In his suit Zanzibar was size Large, "an avenging angel of Time". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> In the same session he looked into [Calix](/people/calix-the-betrayer/)'s [Palantir](/items/the-palantir/). <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> He was the only member of the party never cloned. <small>(Oral Histories: Temporal Holdings, 2022-03-28)</small> In the final arc "both Revan and Zanzibar turned down offers from the devil to have everything they ever wanted". <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small> JL on Zanzibar in September 2022:
+
+> Zan doesn’t care if he lives or dies. In fact he’d prefer to die. But it has to be fighting his hardest.
+
+<small>— JL, who played Zanzibar (Oral Histories: The Inevitables, 2022-09-17)</small>
+
+See [Dark Zanzibar](/people/dark-zanzibar/).
+
 ## Emperor of Faerun
 
-Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and with his forces in the old imperial capital of [Waterdeep](/places/waterdeep/), declared himself Emperor of Faerun and consolidated control of the continent. Humankind submitted mostly peacefully, and the elves and dwarves were confined to their remote homelands. <small>(Oral Histories: The Inevitables, 2024-01-21)</small> From then on the Emperor of [the Cormyrean Empire](/organizations/the-cormyrean-empire/) was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> He founded the Empire in the aftermath of the Infanta War and set his imperial capital in Suzail. <small>(Dave)</small>
+Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and with his forces in the old imperial capital of [Waterdeep](/places/waterdeep/), declared himself Emperor of Faerun and consolidated control of the continent. Humankind submitted mostly peacefully, and the elves and dwarves were confined to their remote homelands. <small>(Oral Histories: The Inevitables, 2024-01-21)</small> From then on the Emperor of [the Cormyrean Empire](/organizations/the-cormyrean-empire/) was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> He founded the Empire in the aftermath of the Infanta War and set his imperial capital in Suzail. <small>(Dave)</small> Dave in 2024: "Zanzibar is the Caesar of Faerun". <small>(Oral Histories: The Inevitables, 2024-01-21)</small>
 As **Zanzibar the Elder**, First Emperor of Faerûn, he founded the Empire following the defeat of [Asmodeus](/people/asmodeus/) and the end of [the Infanta Crisis](/lore/the-infanta-crisis/). The world remembers that troops on the surface led by Zanzibar and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing [Wainwright St. Cloud](/people/wainwright-st-cloud/) and ending the Infanta Crisis.
 
 <small>Recovered from the Oblivia.</small> Una, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed her, but not before the summoning, and a portal was used for him to step down toward [the Egg](/places/the-egg/). The party defeated Asmodeus at the threshold of the portal from a Waterdeep tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out. The Egg and the final battle were obliviated, and that battle is forgotten.
 
- The state patron deity **Zarus** blessed his bloodline to rule forever, and every emperor since has claimed descent from holy blood. His successors rule from [the Glass Throne](/items/the-glass-throne/); among them were [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and his son [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), in whose first month on the throne, with four factions risen against him, [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) was beginning. Rival empires claiming to be the true Zanzibar came later.
+ The state patron deity **Zarus** blessed his bloodline to rule forever, and every emperor since has claimed descent from holy blood. His successors rule from [the Glass Throne](/items/the-glass-throne/); among them were [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and his son [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), in whose first month on the throne, with four factions risen against him, [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) was beginning. Rival empires claiming to be the true Zanzibar came later. Of the Lexicon's rule, Dave: "the previous line of Zanzibars resisted that for 500 years because Zanny wasn’t about to let Revan take over his part of the universe". <small>(Oral Histories: The Inevitables, 2025-11-09)</small>
 
 Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), a barker in Waterdeep calls for independence from the Zanzibar, and [General Peterbilt Varkus](/people/peterbilt-varkus/) delivers an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
 

@@ -46,8 +46,13 @@ sources:
 - Desktop/D&D/NPCs/YOSHI GENDO.pdf
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2017-07-13"
+- "Oral Histories: Temporal Holdings, 2017-08-11"
 - "Oral Histories: Temporal Holdings, 2017-08-23"
+- "Oral Histories: Temporal Holdings, 2018-04-05"
+- "Oral Histories: Temporal Holdings, 2018-04-23"
 - "Oral Histories: Temporal Holdings, 2018-06-03"
+- "Oral Histories: Temporal Holdings, 2018-06-26"
 - "Oral Histories: Temporal Holdings, 2018-06-28"
 - "Oral Histories: Temporal Holdings, 2018-07-01"
 published: '2026-09-10'
@@ -72,7 +77,9 @@ When the Infantas came, Motherstone was the roost of the copper dragon [Tylerjyn
 
 ## Public and private
 
-Publicly Yoshi is the party's front line and, in the record, the trusting one: named among the protagonists on Snowdown alongside his companion **Denver**, he is also the source of the company's first great loss. Returning from victory at Heartstone Cave, "the party finds the Infanta gone, carried off by the wet-nurse Yoshi had trusted with her" — the mistake that sends the heroes on the long chase to Bask Falls. Privately he is a farm boy from nowhere — "a dragonborn egg … stumbled upon by human farmers on some godforsaken island in the middle of the sea" — with no explanation for his own face until a hooded priest in a flooded temple gives him one.
+Publicly Yoshi is the party's front line and, in the record, the trusting one: named among the protagonists on Snowdown alongside his companion **[Denver](/people/denver/)**, he is also the source of the company's first great loss. Returning from victory at Heartstone Cave, "the party finds the Infanta gone, carried off by the wet-nurse Yoshi had trusted with her" — the mistake that sends the heroes on the long chase to Bask Falls. Privately he is a farm boy from nowhere — "a dragonborn egg … stumbled upon by human farmers on some godforsaken island in the middle of the sea" — with no explanation for his own face until a hooded priest in a flooded temple gives him one.
+
+Yoshi began the campaign locked up and alone. Dave told his player "I'm going to start you in a cage every single game". <small>(Oral Histories: Temporal Holdings, 2017-07-13)</small> He had been raised by humans, the rest of the party "didn't even know about you yet", and [Brother Magnus](/people/brother-magnus/) saved his life. <small>(Oral Histories: Temporal Holdings, 2017-08-11)</small>
 
 ## Son of the dragon
 
@@ -84,7 +91,9 @@ The traitor [Calix](/people/calix-the-betrayer/) beguiled Tylerjynex and banishe
 
 ## Two weapons
 
-In June 2018, as the Company breached the gates and the grandmaster's throne went missing, Yoshi met his long-lost brother, who gave him a lightsaber. <small>(Oral Histories: Temporal Holdings, 2018-06-03)</small> The lightsaber was not sentient, and at the Arc II finale it "died". <small>(Oral Histories: Temporal Holdings, 2018-06-28, 2018-07-01)</small> His weapon after it was the Maulder, the honour-guard's blade from the Drek priest. Whether the long-lost brother and the priest are the same person is lost to time.
+In the spring of 2018 "Yoshi's mysterious sojourn" continued while his player was away <small>(Oral Histories: Temporal Holdings, 2018-04-05)</small>, a side adventure he shared with [Cuthbert Couch](/people/cuthbert-couch/). <small>(Oral Histories: Temporal Holdings, 2018-04-23)</small>
+
+In June 2018, as the Company breached the gates and the grandmaster's throne went missing, Yoshi met his long-lost brother, who gave him a lightsaber. <small>(Oral Histories: Temporal Holdings, 2018-06-03)</small> For the Arc II finale, which Yoshi's player missed, [Drefan](/people/drefan/) carried it: "I’m giving Adam your lightsaber". <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> The lightsaber was not sentient, and at the Arc II finale it "died". <small>(Oral Histories: Temporal Holdings, 2018-06-28, 2018-07-01)</small> His weapon after it was the Maulder, the honour-guard's blade from the Drek priest. Whether the long-lost brother and the priest are the same person is lost to time.
 
 ## Conduct in the field
 

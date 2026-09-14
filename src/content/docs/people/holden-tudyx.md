@@ -67,7 +67,7 @@ The Anachron. The same sequence carries [Celion](/people/celion/)'s message to K
 
 ## The Tudix family
 
-The name recurs, spelled three ways. **Alan** or **Alen Tudix**, "Lode Star of Myth Drannor," is dead by Arc VI and is the brother of **Valen**; **Copperbane**, "family sword of the TUDIX, is not lost, but is hidden." <small>(Arc VI, Time of Troubles Part VII.)</small> A "Tudiks" is among those hunting unicorns in Arc V. <small>(Starfall Part IV.)</small> The card spells it **Tudyx**. All spellings are on the record.
+The name recurs, spelled three ways. **Alan** or **[Alen Tudix](/people/alen-tudyx/)**, "Lode Star of Myth Drannor," is dead by Arc VI and is the brother of **Valen**; **Copperbane**, "family sword of the TUDIX, is not lost, but is hidden." <small>(Arc VI, Time of Troubles Part VII.)</small> A "Tudiks" is among those hunting unicorns in Arc V. <small>(Starfall Part IV.)</small> The card spells it **Tudyx**. All spellings are on the record.
 
 ## How he became an ally
 

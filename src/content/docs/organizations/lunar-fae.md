@@ -12,6 +12,8 @@ tags:
 - Banefae
 - the Short King
 - Brownsleeves
+- Brownsleevesmetra
+- the moon people
 - Ally Cards
 - Infantaverse
 icon: fa-spa
@@ -25,6 +27,10 @@ sources:
 - CANON.md 5f
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2022-11-06"
+- "Oral Histories: Temporal Holdings, 2022-12-03"
+- "Oral Histories: Temporal Holdings, 2023-01-13"
+- "Oral Histories: The Inevitables, 2023-01-15"
 published: '2026-09-10'
 wa:
   slug: lunar-fae-organization
@@ -46,11 +52,17 @@ The **Lunar Fae** are fae primordials of the Moon and allies of the party at the
 
 The same stretch of the record has [unicorns](/organizations/lunar-unicorns/) on the Moon, and the Banefae hunting them.
 
+## The rescue
+
+In the final arc, about a week before Starfall, Dave asked the party whether they would "save the Banefae and the other fae on the Moon before it’s impact with the Egg" or skip that side quest to go straight to the Obliviator. <small>(Oral Histories: Temporal Holdings, 2022-11-06)</small> A simulacrum of Magnus was left in a time temple beneath the sea "Protecting all the evacuees from the moon and some perfect moonstones". <small>(Oral Histories: Temporal Holdings, 2022-12-03)</small> Dave announced the session of 2023-01-14 with "Yes tomm we save the moon people". <small>(Oral Histories: Temporal Holdings, 2023-01-13)</small> See [the Moon](/places/the-moon/) and [the Banefae](/organizations/the-banefae/).
+
 Their card type is **Enchantment Creature — Fae Primordial**, the only Enchantment in the set of 41.
 
 ## The Short King
 
 The Short King of the moon is **Brownsleeves** from another loop. When the party came back to the deep past a second time, to help [Karametra](/people/karametra/) move the moon, the Short King had been seduced by **Drefanmetra**, the Waning One, and was a warlock of the Waning One. He joined the party, and died in the final round of the fight against Cthulhu. See [Arc V: Starfall](/history/arc-v-starfall/).
+
+Dave called him "Brownsleevesmetra or some other loop". In his reality Kara and St. Cloud were partners, and "Like wise Drefan and Brownsleeves see the paradise of the moon and change their minds too". Had the party gone to the moon first, "he would have demanded you not to move the moon and he would have stowed away and sabotaged your ship to prevent it". <small>(Oral Histories: The Inevitables, 2023-01-15)</small> See [Brownsleeves](/people/brownsleeves/).
 
 ## At the Egg
 

@@ -39,7 +39,10 @@ sources:
 - CANON.md 5e (the DM's account, 2026-09-10)
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-04-05"
+- "Oral Histories: Temporal Holdings, 2019-05-02"
 - "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
 - "Oral Histories: Temporal Holdings, 2019-10-14"
 - "Oral Histories: Temporal Holdings, 2021-10-30"
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part III.txt
@@ -83,6 +86,8 @@ It did. At Harloch the Jarl introduces "Commander Carlysle St. Cloud as the gues
 
 The party faces him at Motherstone "in a mechanical spider and a Company force including mechanical spiders," in the battle where the released prisoners and the assembled armies of the Underglow, the Mundi, the Drek and the [Lexicon](/items/the-lexicon/) fight the Company. <small>(Arc II, Motherstone Part VII.)</small> He is killed and buried in a mass grave. The heart is buried with the body.
 
+Dave later identified him as "Carlysle who Roland shot in the face at the Battle of Motherstone". <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
+
 ## The buried heart
 
 Months later the grave is excavated:
@@ -101,6 +106,8 @@ In robot form he takes Una deeper into the collapsed dungeon, where direct acces
 
 ## The attack on the Lexicon
 
+In the downtime after the Arcaneum the party's investigations included "Carlysle St Clouds heart". <small>(Oral Histories: Temporal Holdings, 2019-05-02)</small>
+
 The party was away in Cormyr when the heart moved. Carlysle drilled down to the deepest part of [Motherstone](/places/motherstone/), to the **Seat of the Lexicon** at the underground focal point of the city's largest crystal, and appropriated a mechanical body from the **automaton Centurions** long stored nearby. His aim was to corrupt and destroy the Lexicon and so lower the city's defences — the Lexicon powered and managed the great **Mythal**.
 
 The party fought the robot. Then **Roland touched the Palantir, and [Wainwright](/people/wainwright-st-cloud/) mind-controlled him through it**. Roland was an accomplished artificer who had helped build the Lexicon with [Magnus](/people/brother-magnus/), and under that control he scrammed the entire Lexicon program and let the Company into Motherstone. Wainwright jumped his ships into the city's airspace, and the **Second Battle of Motherstone** followed. Dave's summary: "st clouds brother had a mechanical heart which you buried near mother’s time and it came to life and stole a robot and the Palantir and thwn you fought it and then Roland touched the Palantir and then St Cloud mind controlled him and he destroyed Lex and let the Company into Motherstone". <small>(Oral Histories: Temporal Holdings, 2021-10-30. Sic on "thwn".)</small>
@@ -108,6 +115,12 @@ The party fought the robot. Then **Roland touched the Palantir, and [Wainwright]
 ## The end of the wish
 
 The party destroyed two of the Company's ships and stopped the invasion. They **captured Carlysle in [Roland's Cube](/items/rolands-cube/)**, and Roland used the Palantir to contact Wainwright and take credit for an act that both of them would forget. Then Carlysle and the Palantir were thrown together into the [Obliviator](/items/the-obliviator/): "they captured Carlysle in Rolands cube and then threw him and the Palantir into the Obliviator." <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
+
+> I’m about to obliviate the heart of your brother, you’ll never even know he existed.
+
+<small>— Roland to Wainwright, over the Palantir, as Joseph, who played Roland, reported it. (Oral Histories: Temporal Holdings, 2019-05-25)</small>
+
+The golem is still where the party fought it. Nobody knows how it got there or remembers fighting it, but it is physical evidence of the events leading up to what Motherstone took for Roland's treason. It still has a ripped-open welding that most golems lack and a hole in its head. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small>
 
 [Magnus](/people/brother-magnus/) attempted to document the act before the obliviation took hold. Much of what he wrote is impossible to understand.
 

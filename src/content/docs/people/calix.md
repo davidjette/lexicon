@@ -38,6 +38,12 @@ sources:
 - CANON.md 5ab
 - CANON.md 5z
 - "Oral Histories: Temporal Holdings, 2018-06-26"
+- "Oral Histories: Temporal Holdings, 2018-07-01"
+- "Oral Histories: Temporal Holdings, 2020-01-08"
+- "Oral Histories: Temporal Holdings, 2021-10-23"
+- "Oral Histories: Temporal Holdings, 2021-12-04"
+- "Oral Histories: The Inevitables, 2021-08-15"
+- "Oral Histories: The Inevitables, 2021-10-09"
 published: '2026-09-10'
 wa:
   slug: calix-person
@@ -67,6 +73,8 @@ His madness dates from the Forgetting. Cast out of the erased city with Eldamir,
 
 [Celion](/people/celion/) described him as "a follower, or a cultist, or a thrall, whatever you can call it, of a very powerful force." <small>(Arc III, Interlude.)</small>
 
+He is kin to [Drefan](/people/drefan/): "young calix looks related to drefan because he is". <small>(Dave. Oral Histories: Temporal Holdings, 2020-01-08)</small>
+
 ## The ancient drama
 
 The play *Calix, Betrayer* gives him four lines:
@@ -80,11 +88,15 @@ The play *Calix, Betrayer* gives him four lines:
 
 In Arc II, once the party had cured the Lexicon, Calix was able to locate the city and attack them. They reached the vault where his hacked throne and his phylactery were hidden, in a chamber that had never been used, and emerged from the phylactery ten years in the future. The Naga survived him for a while, "out there, plotting to avenge Calix, whispering in the ears" of others. <small>(Arc III, Interlude.)</small>
 
+In the Motherstone finale [Brother Magnus](/people/brother-magnus/) spoke to Calix as the Faceless Boy, a four-thousand-year-old god whose prophet Magnus then became. <small>(Oral Histories: Temporal Holdings, 2018-07-01)</small>
+
 ## After the time skip
 
 Ten years later he reappears and conquers [Motherstone](/places/motherstone/) with an Infanta. He is introduced to the party as the Infanta's "closest advisor who made the victory possible," and he then seats her on the throne and consumes her mind, freeing himself to enter the Orb after the location of his phylactery. The party follows him in, and takes [Brightmantle](/people/brightmantle/)'s memory out of the [Obliviator](/items/the-obliviator/) while they are there. <small>(Arc II Part VII and Arc III, Interlude.)</small>
 
 ## The war against Netheril
+
+In the Time of Troubles, Calix and Eldamir told the party to contact them when they located [Myth Drannor](/places/myth-drannor/). <small>(Oral Histories: The Inevitables, 2021-08-15)</small> In Antiquity he refused to go along with [Valen](/people/valen/) and [the Waning One](/people/the-waning-one/), as Atlas III did. <small>(Oral Histories: The Inevitables, 2021-10-09)</small> After the battle at the peak of Sigil, Calix and Atlas "returned to their Infanta to lead attacks on Netherese cities and the Egg itself", and Calix had [a Palantir](/items/the-palantir/), which Zanzibar looked into. <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> In December 2021 the party yelled at Calix "for getting the job done". <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>
 
 He sits on the Council of Forgetting, and in Arc VII the party's allies gather "with Calix and Lex's help to plan that final invasion of Netheril"; when the commanders assemble it is "Lex and Calix" who "hold a briefing to deliver all the final pieces." [Elistrae](/people/elistrae/), Eldamir, Calix and the Moon Elves pledge together at Brightmantle's funeral. <small>(Arc VII, Leviathan I.)</small>
 

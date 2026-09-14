@@ -13,6 +13,9 @@ tags:
 - Planetarium
 - needs source
 - Infantaverse
+- Valen
+- Celion
+- Punis
 icon: fa-graduation-cap
 fields:
   setting: The Infantaverse
@@ -26,6 +29,12 @@ sources:
 - 'Desktop/D&D/Arcaneum/ (one file: 03-003.strixhaven-memories.jpg)'
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part IX - X - XI - Arcaneum.docx
+- "Oral Histories: Temporal Holdings, 2019-02-15"
+- "Oral Histories: Temporal Holdings, 2019-02-16"
+- "Oral Histories: Temporal Holdings, 2019-02-22"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: The Inevitables, 2020-07-26"
+- "Oral Histories: The Inevitables, 2021-10-23"
 published: '2026-09-10'
 wa:
   slug: arcaneum-article
@@ -45,9 +54,17 @@ The name appears twice in the [Ages of the Infanta](/lore/temple-holdings-llc/),
 - **The Arcaneum of Motherstone** — the buried crystal city's own college of wizards, where the heroes find a **Planetarium** whose thrones lay out the cosmology the Motherstone scholars knew: eleven planes arranged like the planets, from the **Sun** (Chaos, "the source of all magic") through the **Moon** ("a reflection of the Prime material against the Astral Plane… the Earth and Moon are twins, a body and its shadow") to the **Cosmos**, the Astral Void. Selecting the last symbol shows them a dark orbit intersecting Faerûn — a black streak touching down in the sea off Snowdown.
 - **The Arcaneum of Punis** — the **War Wizards'** academy of war-magic in the kingdom neighbouring Cormyr, and the destination of the long chase over the lost god-children at the end of [Arc III](/history/arc-iii-age-of-the-infanta/). This is the school run by the cabal who meant to seize the girl **Una** and "use her to conduct a world war."
 
+## The Arcaneum of Punis
+
+[Valen](/people/valen/) founded the Arcaneum. He "betrayed the Cormanthryians against the men of the Dale and in exchange was granted the land to build the Arcaneum". <small>(Oral Histories: The Inevitables, 2020-07-26)</small> He created the school and its permanent rivalry with the kingdom of [Punis](/places/punis/), and his cult was destroyed in the very first session of the original Punis game. <small>(Oral Histories: The Inevitables, 2021-10-23)</small>
+
+The physical school is a large ten-sided building just outside Punis. Inside is a large forum surrounded by function rooms and a handful of administrative offices. In a secure area a crystal ball serves as the portal to the rest of the school, a series of local demiplanes, one for each school of magic practised there and one for the Archmage and his work. Each demiplane is tuned to its school of magic and led by a semi-independent Headmaster, and passage between them requires foreknowledge of spells, puzzles and passwords. The School of Abjuration, which holds the War Room and serves as the school's barracks, is the only school connected directly to the building, and Evocation is reached through it. There are portal balls inside each dimension, each with its own password. <small>(Oral Histories: Temporal Holdings, 2019-02-15)</small> The keys are numbered; one the party used was "22". <small>(Oral Histories: Temporal Holdings, 2019-02-22)</small> Dave: "Blowing up the building will only do so much, the real school is in a network of bespoke dimensions". <small>(Oral Histories: Temporal Holdings, 2019-02-15)</small>
+
+The last room held "just clocks! measuring the flow of time in different areas of the room", and the fight there was a strictly timed exercise against a prismatic wall, a lich-type wizard, a black dragon and three other mages. Had the party failed, the archmages would have turned on a time machine. After Valen was beaten, [Celion](/people/celion/) inherited the school, which Dave called "cia/hogwarts". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+
 ## Maps
 
-Floor plans of the Arcaneum, entrance to upper spheres.
+Floor plans of the Arcaneum, entrance to upper spheres. On the ground-floor plan the dark area is raised 60 feet and reached by a grand staircase on the east side. <small>(Oral Histories: Temporal Holdings, 2019-02-16)</small>
 
 - [The Arcaneum — Malkuth (Entrance)](/maps/27-the-arcaneum-malkuth-entrance/)
 - [The Arcaneum — Malkuth (Entrance), second version](/maps/28-the-arcaneum-malkuth-entrance-second-version/)

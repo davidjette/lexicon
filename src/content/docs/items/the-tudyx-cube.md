@@ -17,6 +17,9 @@ tags:
 - the Infanta of Puzzles
 - Perfect Moonstone
 - the Anachron
+- the Arielle
+- Perfect Dark
+- the Traveler
 - Dead Man's Hand
 icon: fa-cube
 fields:
@@ -27,6 +30,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3073)
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
 - CANON.md 5ae
+- CANON.md Oral Histories batch 4, A13
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2020-05-04"
+- "Oral Histories: The Inevitables, 2021-12-03"
 published: '2026-09-14'
 ---
 
@@ -41,6 +48,16 @@ The cube hides its contents from magic. It is drawn as a cube within a cube, wit
 ## The first cubes
 
 Tylerjinex and Alen Tudyx discovered these puzzle boxes and began producing them with the help of the Infanta of Puzzles. One of them was used to store a Perfect Moonstone, which later powered [the Anachron](/items/the-anachron/), passing over multiple ages of the world when it was brought back by St. Cloud and the party. <small>(Dave)</small>
+
+## The two cubes of the Ages
+
+When the party first took the [Arielle](/items/the-arielle/), they found a box aboard that was "sealed by a mysterious force". It was the same box that [St. Cloud](/people/wainwright-st-cloud/) had demanded [Roland](/people/roland-deschain/)'s father open. Roland's father refused, and St. Cloud and his brothers killed him. <small>(Oral Histories: The Inevitables, 2021-12-03)</small>
+
+In the deep past Roland shot the St. Cloud known as the Traveler, husband of [Karametra](/people/karametra/), and the party took his Tudyx Cube. It was empty. Questioned after his death, the Traveler said: "We kept our wedding rings and flowers from the wedding in the box, now it’s empty". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> The party placed a Perfect Moonstone inside and closed the lid. They then opened the box from the Arielle, which they had been unable to open before, and a Perfect Dark moonstone came out of it, having been inside for about 65 million years. The [Anachron](/items/the-anachron/) needs a Perfect Dark moonstone to travel in time. <small>(Oral Histories: The Inevitables, 2021-12-03)</small> Dave, of the two boxes:
+
+> you basically passed yourself something through time, it's a schroedinger's box
+
+<small>— Dave. (Oral Histories: The Inevitables, 2021-12-03)</small>
 
 ## Heyu's cube
 

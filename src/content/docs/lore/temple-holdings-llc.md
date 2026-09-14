@@ -20,6 +20,8 @@ tags:
 - Temporal Holdings
 - Bank of Harloch
 - Harlochs
+- HAM LLC
+- First Harloch Trust
 icon: fa-scroll
 fields:
   setting: The Infantaverse - Faerun, the Moonshae Isles, Sigil, the deep past
@@ -42,6 +44,14 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-06-08"
 - "Oral Histories: Temporal Holdings, 2019-12-22"
 - "Oral Histories: Temporal Holdings, 2021-05-27"
+- "Oral Histories: Temporal Holdings, 2017-08-15"
+- "Oral Histories: Temporal Holdings, 2017-09-07"
+- "Oral Histories: Temporal Holdings, 2018-10-15"
+- "Oral Histories: Temporal Holdings, 2019-01-02"
+- "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: Temporal Holdings, 2021-01-16"
+- "Oral Histories: Temporal Holdings, 2023-04-23"
+- "Oral Histories: The Inevitables, 2021-09-06"
 published: '2026-09-10'
 wa:
   slug: temple-holdings-llc-article
@@ -60,7 +70,7 @@ wa:
 
 *Played as:* **Ages of the Infanta** · *Also known as:* Temple Holdings · the Temple Holdings chronicle, after the party's company, Temple Holdings LLC · Temporal Holdings, the company's name after the end of the game
 
-**Temple Holdings LLC** is the founding campaign of the [Infantaverse](/lore/the-infantaverse/), played as **Ages of the Infanta** and named for the holding company the party formed when they bought the derelict Old Temple at Harloch. Over eight arcs between 1481 and 1492 DR it follows a band of shipwreck survivors who become the guardians of a reborn goddess, and are carried by that charge across the world, into the deep past, and at last into the heart of a waking god — ending the Age of the Infanta with the act of forgetting the setting calls the [Oblivia](/lore/the-oblivia/).
+**Temple Holdings LLC** is the founding campaign of the [Infantaverse](/lore/the-infantaverse/), played as **Ages of the Infanta** and named for the holding company the party formed when they bought the derelict Old Temple at [Harloch](/places/harloch/). Over eight arcs between 1481 and 1492 DR it follows a band of shipwreck survivors who become the guardians of a reborn goddess, and are carried by that charge across the world, into the deep past, and at last into the heart of a waking god — ending the Age of the Infanta with the act of forgetting the setting calls the [Oblivia](/lore/the-oblivia/).
 
 ## Where the name comes from
 
@@ -69,6 +79,14 @@ The name comes from a property purchase. Midway through the first arc, the garri
 ## The company
 
 The founders are shipwreck survivors rather than a fellowship. Knighted together at Harloch as the **Lusmundi, the light of the world**, and the **Champions of the Evening Star**, the roll of honour reads: [Kara](/people/kara/), [Roland](/people/roland-deschain/), [Yoshi](/people/yoshi/), **Denver**, [Fulori](/people/fulori-splitheel/), [Drefan](/people/drefan/), [Viceroy Couch](/people/cuthbert-couch/) and [Brother Magnus](/people/brother-magnus/). Later arcs bring in [Zanzibar](/people/zanzibar/) of Cormyr, the rogue [Stoth Youngglade](/people/stoth-youngglade/), the [traveling healer](/people/the-traveling-healer/) who found the mountain, Revan, Chronocypher, [Brownsleeves](/people/brownsleeves/) and Stonecypher.
+
+After the party took the airship, Jenny, who played Kara, proposed merging their marine and aeronautical companies as "HAM LLC", and Dave ruled: "If Temple Holdings makes the loan to HAM, LLC it can have recourse to the assets of HAM and interest". The crew's insurance came from the **First Harloch Trust**, "started by the girl you guys saved from the brothel". Dave reminded the table: "please remember that you are effectively 50% owners of the First Harloch Trust which you bankrolled with 1/2 of your holdings, so you are major shareholders in the second of two banks in the whole world", and "You already have a monopoly on Moonstone". He added: "boats are a money sink in all realities". <small>(Oral Histories: Temporal Holdings, 2018-10-15)</small>
+
+[Pim](/people/pim/) held no share in the company: "he's a contractor and has a loaner diadem". The same day Dave told the table: "You could literally abolish capitalism in its nascent state in this campaign you’re just choosing to be the Silicon Valley of faerun instead". <small>(Oral Histories: Temporal Holdings, 2019-01-02)</small>
+
+The Arcaneum's top-secret intelligence report on Snowdown, headed "and Temple Ham LLC?", describes "a group of extremely bawdy and reckless adventurers who lack a central identity but keep their wealth hidden in various shell companies", with "money laundering schemes which include a brothel and a questionably insured bank." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small>
+
+During a week-long downtime in the sixth arc, Magnus and Kara "invested in a casino and a gem dealer expanding Temple Holdings into gaming and minerals". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> In the final arc the party received "a dividend payment from your consolidated holding co of about 500,000 gold". <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
 
 ## The eight arcs
 
@@ -81,7 +99,11 @@ The founders are shipwreck survivors rather than a fellowship. Knighted together
 7. [**Leviathan**](/history/arc-vii-leviathan/) — a god's death, the muster of every ally across every age, and the march on [Netheril](/places/netheril/).
 8. [**End of the Infanta**](/history/arc-viii-end-of-the-infanta/) — the last battle inside the Egg, and the Wish that becomes the Oblivia.
 
+Of the first arc Dave said: "we get to free slaves and fight fantasy racists, I think its apt" <small>(Oral Histories: Temporal Holdings, 2017-08-15)</small>, and "I'm basically doing Wishbone with swords" <small>(Oral Histories: Temporal Holdings, 2017-09-07)</small>.
+
 In 2019 Dave planned the campaign in six arcs. In June he put the table "about 3/5 through the story" <small>(Oral Histories: Temporal Holdings, 2019-06-08)</small>, and at the close of the fourth arc he wrote: "Hope in Exile - Motherstone - Age of the Infanta - The Infernal Machines, you’re actually 4/6 of the way through the campaign" <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>. The story ran to eight arcs. In Dave's words, "it went longer than I expected." <small>(Dave, 2026-09-14)</small>
+
+In 2021 Dave wrote: "The entire ocean wing of the Infanta campaign has been left unplayed but I love that it’s still very much a part of the story - from the beginning they went to Harloch instead of the Merglen, you all didn’t follow the spiderbros and meet up with Atlas III (or even find out who he was)". <small>(Oral Histories: The Inevitables, 2021-09-06)</small>
 
 ## Mara Mageblood's journal
 
@@ -109,4 +131,4 @@ It ends by deleting itself. The heroes beat the god's head to nothing, touch it 
 
 ## The Bank of Harloch and Temporal Holdings
 
-The **Bank of Harloch** and its holding company, Temple Holdings, persist well into the future. After the end of the game the company was rebranded **Temporal Holdings**. Sovereign currency is nicknamed **"Harlochs"** because of the bank. <small>(Dave, 2026-09-14)</small>
+The **[Bank of Harloch](/organizations/the-bank-of-harloch/)** and its holding company, Temple Holdings, persist well into the future. After the end of the game the company was rebranded **Temporal Holdings**. Sovereign currency is nicknamed **"Harlochs"** because of the bank. <small>(Dave, 2026-09-14)</small>

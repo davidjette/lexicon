@@ -24,6 +24,8 @@ tags:
   - Perfect Stone
   - Lex
   - transplanar drive
+  - shard of Diana
+  - Tudyx Cube
 type: article
 kind: lore
 icon: fa-gem
@@ -45,6 +47,11 @@ sources:
   - CANON.md 5ae (Oral Histories)
   - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
   - "Oral Histories: Temporal Holdings, 2021-12-10"
+  - "Oral Histories: Temporal Holdings, 2017-09-05"
+  - "Oral Histories: Temporal Holdings, 2019-11-11"
+  - "Oral Histories: Temporal Holdings, 2022-12-03"
+  - "Oral Histories: The Inevitables, 2021-12-03"
+  - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 published: '2026-09-10'
 wa:
   slug: moonstone-article
@@ -66,11 +73,17 @@ The [Company](/organizations/sword-coast-trading-company/)'s surveys, led by the
 **Phase III — Parabolic or Control Stones.** Crystals that accumulate toward "a parabolic fractal which once established is a perfect surface for programmatically reflecting and intensifying arcane wave patterns"; "useful in control applications for automated or complex devices."\
 **Phase IV — Perfect Moonstones.** Rare stones "capable of storing complex energy patterns like consciousness and awareness." The [Lexicon](/items/the-lexicon/) was "constructed from the heart of the world's largest perfect moonstone."
 
+Of the moonstone at the core of the Shors' cave, the first arc's notes say: "Like other major moonstones in the Moonshae Isles, this shard of Diana has shifting and inaccessible properties. Most magic users can find some way to store, magnify, focus, or disperse their powers using the moonstone, but it takes extraordinary skill, diligence, and resources to fully unlock its potential. It is possible to break ir with adamantine or magical effects, but only 5% of shard maintain any properties after broken off." <small>(Sic. Hope in Exile, Part III; Oral Histories: Temporal Holdings, 2017-09-05)</small>
+
 ## Phase V — Perfect Dark
 
 <small>Beyond the perfect stones the Company's researchers hypothesised a fifth phase: a moonstone "so far beyond its half life that it was twice as old as the oldest moonstone on Faerûn" — what the [Anachron](/items/the-anachron/) would need to warp *time* as well as space. They judged it impossible and re-sequestered the drive.</small>
 
 Perfect Dark stones exist, and form in about 50 million years: "If you keep a perfect moonstone out of sunlight for about 50 million years you get a perfect dark stone you can use for time travel". The deep past lies about 65 million years ago. <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>
+
+Dave: "You needed a Perfect Dark Moonstone to travel in time with the Anachron, but those require a lifetime of twice the age of the earth to exist". <small>(Oral Histories: The Inevitables, 2021-12-03)</small> In the deep past [Roland](/people/roland-deschain/) shot the Traveler, [Wainwright St. Cloud](/people/wainwright-st-cloud/), and the party took his [Tudyx Cube](/items/the-tudyx-cube/). It was empty. They placed a perfect moonstone inside and closed the lid. They then opened the Tudyx Cube they had stolen from St. Cloud's quarters on [the Arielle](/items/the-arielle/), which they had never been able to open, and a Perfect Dark moonstone came out, after a presumed 65 million years inside. <small>(Dave, 2026-09-14)</small> In Dave's words, "you basically passed yourself something through time, it's a schroedinger's box". <small>(Oral Histories: The Inevitables, 2021-12-03)</small>
+
+In the final arc the party's permanent time vault at the bottom of the ocean, kept by a simulacrum of Magnus, protected "all the evacuees from the moon and some perfect moonstones". <small>(Oral Histories: Temporal Holdings, 2022-12-03)</small>
 
 ### Lex's specification
 
@@ -90,6 +103,8 @@ Lex's findings after experiments with the transplanar drive, as recorded:
 - "Interplanar jumping cannot use the city's power."
 
 <small>(Sic on "expends" and "volumous." Arc IV Part II. St. Cloud's picked-over stores in Sigil at that point held "12 viable power stones, 3 perfect stones, 5 control stones.")</small>
+
+After the fall of the Company in Sigil, an old woman whom Kara and Roland sent to dig for moonstones came back with about four. Dave: "four moonstones is like four jumps for the ship" / "Oh but you use them in your guns that’s right", of Roland's guns. Joseph, who played Roland: "Fuck it. We’re going to the moon." <small>(Oral Histories: Temporal Holdings, 2019-11-11)</small>
 
 ## The gem of the Winter Court
 

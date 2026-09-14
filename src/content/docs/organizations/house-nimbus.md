@@ -16,6 +16,9 @@ tags:
 - Shadowfell
 - baneblade
 - Infernal Machines
+- House of Nimbus
+- XIII
+- Dox Prime
 - Infantaverse
 icon: fa-key
 fields:
@@ -27,6 +30,11 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 - sources/dave/2026-09-13-dead-mans-hand-company.md
 - CANON.md 5ab
+- "Oral Histories: Temporal Holdings, 2019-03-03"
+- "Oral Histories: Temporal Holdings, 2019-10-21"
+- "Oral Histories: Temporal Holdings, 2019-10-24"
+- "Oral Histories: Temporal Holdings, 2019-11-10"
+- "Oral Histories: Temporal Holdings, 2020-01-19"
 published: '2026-09-10'
 wa:
   slug: house-nimbus-organization
@@ -51,9 +59,13 @@ The Company memo that set that in motion survives, dated 28th Midyear 1461 DR:
 
 <small>"Find out who among the clan is the weakest and tempt him" is the order. Revan's father is the man it found.</small>
 
+Revan's clan had guarded one of the Infernal Machines in [Sigil](/places/sigil/) for a long time, and St. Cloud killed them for it. <small>(Dave. Oral Histories: Temporal Holdings, 2019-03-03)</small>
+
 ## The assault
 
 In Arc IV, [Revan](/people/revan-darkcember/), [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth "approach the House of Nimbus, ready for an assault on those inside. (Full battle)." <small>(Arc IV, The Infernal Machines, Part V. Revan is assaulting his own house.)</small>
+
+Before the Arc IV finale LaMont, who played Revan, asked the table for help "ridding St clouds presence from the House of Nimbus’s fortress", and Dave proposed opening the next session "with an encounter to free the House of Nimbus". <small>(Oral Histories: Temporal Holdings, 2019-10-21, 2019-10-24)</small> At the session of 2019-11-09 the party freed the House. Among the moments Dave listed from it: "no alarm being set off at nimbus". <small>(Oral Histories: Temporal Holdings, 2019-11-10)</small> **[XIII](/people/xiii/)** was "the warforged that gave you the code" at Nimbus, the code "that let you beat Dox PRime in like two rounds". <small>(Dave. Sic. Oral Histories: Temporal Holdings, 2020-01-19)</small>
 
 ## The clan
 

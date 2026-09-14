@@ -34,6 +34,12 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-11-22"
 - "Oral Histories: Temporal Holdings, 2020-01-19"
 - "Oral Histories: The Inevitables, 2023-10-10"
+- "Oral Histories: Temporal Holdings, 2019-09-19"
+- "Oral Histories: Battle of River Lis, 2019-12-17"
+- "Oral Histories: Battle of River Lis, 2019-12-19"
+- "Oral Histories: Temporal Holdings, 2020-01-12"
+- "Oral Histories: Temporal Holdings, 2020-01-13"
+- "Oral Histories: The Inevitables, 2026-06-20"
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VII - Suzail.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
@@ -65,9 +71,9 @@ gallery:
 
 ## The observatory atop Mount Waterdeep
 
-Obi fled Motherstone to be near his followers. <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> St. Cloud hid him in the observatory, and put him to work. Obi was made to **chart the sky back millennia** in order to pinpoint **the date on which Cthulhu's course crossed the Moon's orbit** — so that St. Cloud could **prevent [Karametra](/people/karametra/) from moving the moon**, and stop the party from stopping him summoning Cthulhu.
+Obi fled Motherstone to be near his followers. <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> St. Cloud hid him in the observatory, and put him to work. Obi was made to **chart the sky back millennia** in order to pinpoint **the date on which Cthulhu's course crossed the Moon's orbit** — so that St. Cloud could **prevent [Karametra](/people/karametra/) from moving the moon**, and stop the party from stopping him summoning Cthulhu. Obi showed [Stonecypher](/people/stonecypher/) charts that "described how an object would approach but NOT strike the planet at some time in the past"; St. Cloud was looking for the date when that object would come closest. <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small>
 
-The hiding place is also the mechanism of the deception below: the priests of Obus nearest Waterdeep felt his power and credited it to the boy the propaganda had given them.
+The hiding place is also the mechanism of the deception below: the priests of Obus nearest Waterdeep felt his power and credited it to the boy the propaganda had given them. In September 2019 Dave listed the Infanta's positions, among them "Obi is hiding in Waterdeep". <small>(Oral Histories: Temporal Holdings, 2019-09-19)</small>
 
 ## The false Infanta
 
@@ -85,7 +91,11 @@ Because the divine power was real. It simply was not Jacob's. Lex's briefing aft
 
 ## The reveal
 
-It came out in public and at scale. After **an attempted coup**, **multiple assassinations**, and the rise of Revan Darkcember to the Masked Lords as **"the Panther"**, **Obi ascended over Waterdeep and destroyed the Company's armada in the harbour.** When St. Cloud threatened a civil war with a second false Infanta, "he flew over the city in a blinding light, destroyed the Company’s armada in the harbor, and burned concentric rings in the ground miles in diameter." <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small>
+It came out in public and at scale. After **an attempted coup**, **multiple assassinations**, and the rise of Revan Darkcember to the Masked Lords as **"the Panther"**, **Obi ascended over Waterdeep and destroyed the Company's armada in the harbour.** When St. Cloud threatened a civil war with a second false Infanta, "he flew over the city in a blinding light, destroyed the Company’s armada in the harbor, and burned concentric rings in the ground miles in diameter." [Zanzibar](/people/zanzibar/), Stonecypher and Revan saw it. <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> Obus revealed himself in the Winking Depths arc, right after [Blackstaff](/people/khelben-arunsun/) went down the hole into [Undermountain](/places/undermountain/). <small>(Oral Histories: The Inevitables, 2026-06-20)</small>
+
+## The Battle of the River Lis
+
+Before [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) the party courted Obi to join the fight, <small>(Oral Histories: Battle of River Lis, 2019-12-17)</small> and Dave's list of the allied army put "Obi?" among the reserves. <small>(Oral Histories: Battle of River Lis, 2019-12-19)</small>
 
 ## The vault at Waterdeep
 
@@ -99,7 +109,7 @@ Obi is one of the three Infanta who presided over Roland Deschain's trial at Mot
 
 ## Death
 
-Obi died sacrificing himself to save the survivors on the battlefield from a Meteor Swarm. <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small>
+By January 2020 Dave told the party that "the god protecting Waterdeep is dead", and was calling him "the late Obi (RIP the best infanta)". <small>(Oral Histories: Temporal Holdings, 2020-01-12, 2020-01-13)</small> Obi died sacrificing himself to save the survivors on the battlefield from a Meteor Swarm. <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small>
 
 ## The return
 

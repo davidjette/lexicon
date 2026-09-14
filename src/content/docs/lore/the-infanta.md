@@ -54,6 +54,10 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - "Oral Histories: Temporal Holdings, 2019-01-27"
 - "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: Temporal Holdings, 2019-02-19"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2019-10-01"
+- "Oral Histories: Temporal Holdings, 2019-11-22"
 published: '2026-09-10'
 wa:
   slug: the-infanta-article
@@ -91,6 +95,16 @@ The first was **Elistrada** — the goddess **Elistrae**, "an innocent god, who 
 As a second Time of Troubles looms, the old gods incarnate again, and every kingdom, cult and corporation in Faerûn races to seize one. The chronicle names many: the **Moon** (Elistrae); **Order and Justice** (the boy Jacob Alaistair Southampton of [Waterdeep](/places/waterdeep/), proclaimed Imperator and Pontifex Universalis); **Death** (Marcus, the Raven Queen); **Judgment** (Mordred); **War** (**Una**, the Infanta of Tempus); **Nature** ([Teo](/people/teo-infanta-of-nature/), Sylvanus in the War Wizards' report, held by the [War Wizards](/organizations/war-wizards/) at their magical stock farm in Suzail until the party delivered him to Cormanthor and Myth Drannor); **Justice** (Tyr), **Dawn** (Lothander) and **Good Fortune** (Tymora); **Puzzles**; and the [Company](/organizations/sword-coast-trading-company/)'s own dossiers — full profiles on **Order, Time, Destiny, Reason** and **Revelry**, partial ones on **Moon, War, Nature, Forge, Death, Sea** and **Murder**. <small>(Oral Histories: Temporal Holdings, 2019-01-27, 2019-01-28)</small>
 
 The War Wizards, who had taken five Infanta, reported to the archmagi: "Three were killed – Tyr, Tymora and Lothander." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> The Infanta of Tymora who stood with the party at [the Egg](/places/the-egg/) came from another time.
+
+The same report states that killing an Infanta "has devastating local effects and ends their beneficially impact on clerics of their ‘Word’" <small>(sic)</small>, and that "Tyr’s death, for example, was the true cause of the sinking of the warship Crescenta during the battle of West Sembia". Its notes add: "Infanta can be controlled by subjecting them to psychological torment. This sets their default nature to self destruct, we consider this a safety feature." Their power "can’t seem to be stolen by any known means". Some shrines stay active with no Infanta nearby, and the War Wizards' theory was that those Infanta "project their influence across the Weave on ley lines or similar arcane phenomenon". "The infanta have incomplete memory of their godhood and very limited access to their former power. Their senses are limited to their human senses." The War Wizards "built the Tempus shrine to test our theory about the proximity of infanta and were proven correct." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> During the [Suzail coup](/history/the-suzail-coup/) an Infanta self-destructed in the room next to [Roland](/people/roland-deschain/), throwing him and [Drefan](/people/drefan/) 300 ft and collapsing the tower. <small>(Oral Histories: Temporal Holdings, 2019-01-27)</small>
+
+When the party wanted Marcus to ask [Una](/people/una/) what she wanted, Dave told them: "yeah unfortunately you can't really task your god with a to-do list sorry". <small>(Oral Histories: Temporal Holdings, 2019-02-19)</small>
+
+After the Arcaneum, Dave set out how the Infanta's power worked: "divine magic is fading from the world. Alll spells above 5th level are impossible now, unless oyu are near an infanta that you worship" <small>(sic)</small>; "the exception is those infanta at motherstone, whose divine power is projected out through the lexicon across the world"; and "once an infanta is born, that god's magic only works in their proximity". The schools of arcane magic "don't line up to gods". The Dream, Death and Order Infanta "themselves are people and have their own council where they like to decide things". Cormyr had "a pretty nasty health crisis" in which "followers of Zarus and other gods are begging for healing and care at the temple of Obus". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+
+In [Sigil](/places/sigil/) the Infantas of Reason and Destiny "killed themselves in ridiculous ways". <small>(Oral Histories: Temporal Holdings, 2019-10-01)</small>
+
+Before the [Battle of the River Lis](/history/the-battle-of-the-river-lis/), asked how close Zanzibar had to be to keep his powers, Dave estimated that "within 1/4 mile gets you level 7+ spells, and it drops off a level per mile from there", adding that "Infanta also draw power from their nearby followers, so a well attended Infanta will be more powerful than one who is alone". <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small>
 
 The first and second [Infanta Crises](/lore/the-infanta-crisis/) each ran on the order of a hundred years. The Infanta Crisis ended with Asmodeus defeated at a tavern in Waterdeep and the Cormyrean Empire founded by [Zanzibar the Elder](/people/zanzibar/) on the claim of holy blood. Five centuries after that, at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a princeling named Zellmo, raised by the Horsecock Prophecy to believe himself the new Infanta of Zarus, demands the Empire's throne.
 

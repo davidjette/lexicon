@@ -8,6 +8,10 @@ tags:
 - Masked Lords
 - Waterdeep
 - Open Lord
+- Unmasked Lord
+- Jonathan Silverhand
+- the Zhentarim
+- Heroes' Hill rhyme
 - Southampton
 - Emperor Jacob
 - Obi
@@ -25,6 +29,10 @@ sources:
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3075, IMG_3078)
+- "Oral Histories: Temporal Holdings, 2018-10-15"
+- "Oral Histories: Battle of River Lis, 2019-10-21"
+- "Oral Histories: The Inevitables, 2025-10-31"
+- "Oral Histories: The Inevitables, 2025-11-09"
 published: '2026-09-10'
 wa:
   slug: lords-of-waterdeep-organization
@@ -44,9 +52,13 @@ image:
 
 The Lords of Waterdeep are the masked nobility of the city of Waterdeep, and allies of the party at [the Egg](/places/the-egg/). Their card preserves the exchange in which they told [St. Cloud](/people/wainwright-st-cloud/) that the law binds gods too, and his reply.
 
+"The unmasked Lord of Waterdeep allows for free trade," Dave told the party in Arc III. <small>(Oral Histories: Temporal Holdings, 2018-10-15)</small>
+
 St. Cloud "spread propaganda calling for the enthronement of Southampton's son Jacob as Open Lord," then as Imperator, and when the Lords "put that rumor to rest… the priests of Obus announced that the boy was Infanta." **Jacob is a false Infanta of Order**; the real one, [Obi](/people/obi/), was hidden near the city, and it was his power the priests of Obus were feeling. Jacob then told the Council to its face: "This Council shall be an organ of my power alone… I wish for the people to see the Masked Lords at my service." <small>(Arc III, The Age of the Infanta, Part VI.)</small>
 
 After an attempted coup, multiple assassinations, and the rise of [Revan Darkcember](/people/revan-darkcember/) to the Masked Lords as **"the Panther"**, Obi ascended over Waterdeep and destroyed the Empire and Company's ship in the harbour.
+
+In the Winking Depths arc, while ousting the false Infanta, the party put a [Zhentarim](/organizations/the-zhentarim/) agent, **Jonathan Silverhand**, in as Unmasked Lord. <small>(Oral Histories: The Inevitables, 2025-11-09)</small> Before [the Battle of the River Lis](/history/the-battle-of-the-river-lis/), Dave described Silverhand as the party's strong contact: "He’s a top 3 Zent and he owes you the city of WD to a Certain extent", especially to the Panther. <small>(Oral Histories: Battle of River Lis, 2019-10-21)</small>
 
 In the third epoch of the final battle, the Egg lies far below the city, guarded by mindflayers.
 
@@ -61,6 +73,14 @@ Their card type is **Land Creature — Masked Nobles**.
 ## Dead Man's Hand
 
 Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), the owner of [Tiffany House](/places/tiffany-house/) traditionally sits on the Lords' Council. [Phillip Klaxon](/people/phillip-klaxon/) planned to place his son [Darius](/people/darius-klaxon/) on the Council by ruining Beef Wellington; after [the Tiffany House heist](/history/the-tiffany-house-heist/) Wellington was ruined and Darius had agreed to his place in Waterdeep, with four days until the Lords' meeting. <small>(DM notes)</small>
+
+## The Heroes' Hill rhyme
+
+The rhyme of Heroes' Hill in [Motherstone](/places/motherstone/) numbers the masked Lords:
+
+> In deeper waters, Lords in masks were 4 and 21.
+
+<small>— the Heroes' Hill rhyme. (Oral Histories: The Inevitables, 2025-10-31)</small>
 
 ## Status
 

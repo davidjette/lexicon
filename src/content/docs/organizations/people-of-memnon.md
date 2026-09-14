@@ -21,6 +21,9 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- "Oral Histories: Temporal Holdings, 2020-11-22"
+- "Oral Histories: Temporal Holdings, 2020-12-05"
+- "Oral Histories: Temporal Holdings, 2020-12-19"
 published: '2026-09-10'
 wa:
   slug: people-of-memnon-organization
@@ -34,7 +37,7 @@ image:
 
 **Human commoners · The city of Memnon · Allies from Arc VI**
 
-The People of Memnon are the human commoners of the city of Memnon and an alliance of Arc VI. Memnon was under the control of the Calimshites, "who are led by the Infanta of Fortune," to the best of [Zebulon](/people/zebulon/)'s knowledge, and was massacred and purged by the Death Knights of **Cyric**. The party found a group of orphans hidden in the village and sent them back to Motherstone, then hunted Cyric to his lair and killed him. The card credits the party with reversing the genocide; how they did so is not recorded.
+The People of Memnon are the human commoners of the city of Memnon and an alliance of Arc VI. Memnon was under the control of the Calimshites, "who are led by the Infanta of Fortune," to the best of [Zebulon](/people/zebulon/)'s knowledge, and was massacred and purged by the Death Knights of **Cyric**. The party found a group of orphans hidden in the village and sent them back to Motherstone, then hunted Cyric to his lair and killed him. The card credits the party with reversing the genocide: after Cyric's death the party resurrected Memnon. <small>(Oral Histories: Temporal Holdings, 2020-12-19)</small>
 
 > You reversed a genocide of our people and ended the tyranny of Cyric. We are with you to the end.
 
@@ -43,6 +46,10 @@ The People of Memnon are the human commoners of the city of Memnon and an allian
 ## The massacre
 
 The party found "the scene of an horrific massacre and purge by the Death Knights of **Cyric**. The bridge has been destroyed and piles of dismembered and burned corpses lie in great piles near the edge of the river. The buildings have all been burned and emptied, there ponds of blood collecting in the street, and there is no sound of survivors." <small>(Sic on "an horrific" and "there ponds". Arc VI, Time of Troubles Part IX.)</small>
+
+## The defence and the resurrection
+
+The session of 2020-12-05 opened with the party "defending Memnon from Cyric’s reinforcement", and from there they went after Cyric himself. <small>(Oral Histories: Temporal Holdings, 2020-11-22, 2020-12-05)</small> At the next session, on 2020-12-19, the party resurrected Memnon (Dave: "you all resurrected memnon"), then travelled to [the Chronicle](/items/the-chronicle/) as birds. <small>(Oral Histories: Temporal Holdings, 2020-12-19)</small>
 
 <small>Their pledge is recorded at [Brightmantle](/people/brightmantle/)'s impromptu funeral, where the allies of that era stepped forward one by one with the armies of the world already gathering for the invasion of Netheril. (Arc VII, Leviathan I, "The Throne of Tears.")</small>
 

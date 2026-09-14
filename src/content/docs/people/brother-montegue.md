@@ -35,6 +35,8 @@ sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3067, IMG_3068, IMG_3072, IMG_3073)
   - sources/dave/2026-09-14-dead-mans-hand-breakout.md
   - CANON.md 5ad
+  - CANON.md 5ai (Oral Histories)
+  - "Oral Histories: The Inevitables, 2025-11-09"
 published: '2026-09-14'
 ---
 
@@ -45,6 +47,8 @@ Brother Montegue is the Factol of the Faceless, leader of [the Sororia](/organiz
 ## Description
 
 He is an "Attractive young Orcish priest (w/BD energy)", and his magic word is "STONE". <small>(DM notes)</small> He looks like an Orcish BD Wong. <small>(Dave)</small>
+
+The Factol of the Sororia is the [Lexicon](/items/the-lexicon/). Dave to the players: "I have to assume you guys assumed the Factol with BD energy is the OG Lexi". <small>(Oral Histories: The Inevitables, 2025-11-09)</small>
 
 ## The Faceless
 

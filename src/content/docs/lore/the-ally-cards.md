@@ -21,6 +21,7 @@ tags:
 - Aurora Saharel
 - Obi
 - the Raven Queen
+- ally minigame
 icon: fa-id-card
 fields:
   type: Game artefact and campaign record
@@ -34,8 +35,14 @@ sources:
 - CANON.md 5f
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2023-10-08"
 - "Oral Histories: Temporal Holdings, 2023-10-12"
+- "Oral Histories: The Inevitables, 2021-10-30"
+- "Oral Histories: The Inevitables, 2023-09-12"
+- "Oral Histories: The Inevitables, 2023-10-05"
 - "Oral Histories: The Inevitables, 2023-10-07"
+- "Oral Histories: The Inevitables, 2023-10-08"
+- "Oral Histories: The Inevitables, 2023-10-09"
 published: '2026-09-10'
 wa:
   slug: the-ally-cards-article
@@ -169,7 +176,13 @@ gallery:
 
 **Game artefact · 41 cards · Made October 2023 for the final session of End of the Infanta**
 
+*Also known as:* the ally minigame
+
 The **Ally Cards** are a set of 41 cards made in October 2023 for the final session of [Arc VIII: End of the Infanta](/history/arc-viii-end-of-the-infanta/), and the record of who stood with the party at [the Egg](/places/the-egg/). They cover **39 distinct allies** — Ella and Obi each have two variants — and each card names a person or a people, gives them two things they can do, and carries a quotation. Most of the allies pledged themselves at Brightmantle's funeral in Arc VII; others are the party's own dead, and one was made for Wainwright St. Cloud in case Kara turned him. The players drafted a hand of them, and every character gained an Ally Action each round of the final battle.
+
+## The making of the cards
+
+Dave built the ally minigame for the final-battle session. <small>(Oral Histories: Temporal Holdings, 2023-10-08)</small> His working list of allies on 7 October 2023 ran to 29 names, among them "People of Waterdeep", "Fey of the Moon", "Kindori (Space Whales)" and "Kara (Metra)"; the Zanzibar card is "Zan the King", and "Dark Zan is a sep guy". He took the card quotations from his collected DM notes and adapted them, shortening the ability text to fit ("w/i for within"). <small>(Oral Histories: The Inevitables, 2023-10-07)</small> The Horsemen "ended up being centaurs". <small>(Oral Histories: The Inevitables, 2023-10-08)</small> A card for refugee celestials and fiends was also planned. <small>(Oral Histories: The Inevitables, 2023-10-09)</small>
 
 ## How they were used
 
@@ -182,6 +195,8 @@ The players **drafted** a hand of allies. Then, for every round of the final bat
 
 Each card's black text is therefore that character's possible death scene. Wainwright St. Cloud's black action was played. **Which other black actions were played is not recorded.**
 
+For the final battle Dave rented two 8-foot tables and put them together in his living room, with Cthulhu on a dark ocean base, ocean-print tablecloths, and tape measures for every distance. <small>(Oral Histories: The Inevitables, 2023-10-05)</small> His plan was to use the living room as the Egg, with Cthulhu in the middle, and to make miniatures for all the allies from printed pictures on little stands. <small>(Oral Histories: The Inevitables, 2023-09-12)</small>
+
 ## The three epochs
 
 The allies were not all in the same place or the same century. The party had been scattered in Time at [Starfall](/history/arc-v-starfall/), and inside the Egg all Times converge, so they attacked it from three eras at once — each group driving an [Obliviator](/items/the-obliviator/) into a crack in the shell.
@@ -193,6 +208,8 @@ The allies were not all in the same place or the same century. The party had bee
 | The time of the quest | Far below Waterdeep | Past countless mindflayers, and the male Drow rebels who had taken [Undermountain](/places/undermountain/) and the Winking Depths |
 
 ## Where the allies came from
+
+Two years before the final battle, Dave listed the allies to be mustered in each era. For the deep past: "Dragons, maybe the first Gen Banefae". For Antiquity: "All five races of elves, Brightmantle and Elistrae, other infanta?, the horse people, (not suzara cause you killed his kid)". For the party's own time: "so many but basically the combined forces of the West, war wizards, motherstone, Atlantis, anyone else you can muster". <small>(Oral Histories: The Inevitables, 2021-10-30)</small>
 
 Most of them pledged themselves in one scene: [Brightmantle](/people/brightmantle/)'s impromptu funeral in [Arc VII](/history/arc-vii-leviathan/), with the armies of the world already gathering for the invasion of Netheril. The pledges are recorded there almost word for word as they appear on the cards — the [Horsemen](/organizations/horsemen-of-the-plains/)' "You saved our people from the God of Murder", the [People of Memnon](/organizations/people-of-memnon/)'s "You reversed a genocide of our people", [Atlas IV](/organizations/atlas-and-the-sea-elves/)'s "You saved us from the mindflayers and defeated the Waning One."
 

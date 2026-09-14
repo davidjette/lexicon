@@ -15,6 +15,8 @@ tags:
 - Daenan Gallidann
 - slavery
 - Infantaverse
+- Brownsleeves
+- Ismear Saint Cloud
 icon: fa-compass
 fields:
   gender: Male
@@ -25,6 +27,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part III.txt
 - CANON.md 5e
+- "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: Temporal Holdings, 2019-04-05"
 published: '2026-09-10'
 wa:
   slug: ysmir-st-cloud-person
@@ -46,6 +50,8 @@ Below the cargo, in Deep Storage, he was carrying forty starving wood-elf slaves
 ## Death
 
 He died in the wreck of his own ship in Arc I. The news reached [Roland Deschain](/people/roland-deschain/) as the opening of a list: "Ysmir St. Cloud is finally dead. But he is only the first on the list. His brother, [Carlysle St. Cloud](/people/carlysle-st-cloud/), still breathes." <small>(Arc I, Part III.)</small>
+
+The [War Wizards](/organizations/war-wizards/)' report on the party dates the disappearance of [Brother Magnus](/people/brother-magnus/) to "the sinking of the Evening Star, the same incident that took the life of Ysmir St. Cloud." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> Ysmir's body went down with the ship, together with [Brownsleeves](/people/brownsleeves/). <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
 
 ## Afterwards
 

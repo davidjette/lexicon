@@ -22,6 +22,8 @@ tags:
 - Flex Gimble
 - Seat of the Lexicon
 - BD Wong
+- Camelot
+- Netheril
 - the Netherese
 - the Nether
 - Eldamir
@@ -47,6 +49,19 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - CANON.md 5x (the DM's account, 2026-09-10)
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3020, IMG_3109)
+- "Oral Histories: Temporal Holdings, 2019-03-03"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2019-05-29"
+- "Oral Histories: Temporal Holdings, 2019-08-24"
+- "Oral Histories: Temporal Holdings, 2020-08-08"
+- "Oral Histories: Temporal Holdings, 2020-08-11"
+- "Oral Histories: Temporal Holdings, 2020-10-04"
+- "Oral Histories: Temporal Holdings, 2020-11-06"
+- "Oral Histories: The Inevitables, 2020-07-26"
+- "Oral Histories: The Inevitables, 2021-08-15"
+- "Oral Histories: The Inevitables, 2021-08-21"
+- "Oral Histories: The Inevitables, 2022-03-19"
+- "Oral Histories: The Inevitables, 2022-07-03"
 published: '2026-09-10'
 wa:
   slug: brightmantle-person
@@ -73,11 +88,17 @@ The Company reached the same identification from the archives: "The Company beli
 
 At his funeral he is named **the God of Discovery and Invention**. <small>(Arc VII, Leviathan I.)</small>
 
+Dave: "Brightmantle was the god of invention and definitely made his own stuff too". <small>(Oral Histories: Temporal Holdings, 2019-08-24)</small>
+
 ## The founding, and the war on Netheril
 
 Stone and [Elistrada](/people/elistrae/) met as teenagers on the battlefield and fell in love, and together they founded [Motherstone](/places/motherstone/). The founding came before the war with the Netherese.
 
 In the first loop, Stone and Elistrada, with Calix and Eldamir and with the help of the masses, slaughtered the Netherese and obliviated their entire race and culture. Their purpose was to end the [Infanta crisis](/lore/the-infanta-crisis/) and to purge worship of the [Leviathan](/lore/the-leviathan/) forever: **the Nether** is the Netherese name for the Leviathan, and Netheril was named for the thing it worshipped. They returned to Motherstone with the [Obliviator](/items/the-obliviator/) and invited the [Infanta](/lore/the-infanta/) of the world to come and live in peace in the city. Afterwards the people forgot what the war had been for, and mainly blamed the Infanta themselves.
+
+"Brightmantle takes the Obliviator from Netheril to add it to Motherstone", and "It’s what let’s him build lex from the Motherstone". <small>(Sic. Oral Histories: The Inevitables, 2020-07-26)</small> "Motherstone was designed by Brightmantle and Calix to distrbute the infanta's power". <small>(Sic. Oral Histories: Temporal Holdings, 2019-04-01)</small> Dave called the arrangement "Brightmantle’s solution to the Troubles - give the Infanta a neutral home where their holy magic could be felt again". <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small> Of the Netherese, Dave says Brightmantle and Calix "obliviated the culture itself". <small>(Oral Histories: The Inevitables, 2022-03-19)</small>
+
+In the first loop "the Atlantans also largely fail, but Brightmantle succeeds", and "Drefanmetras efforts still lead to the fall of Netheril and Brightmantles victory, and St Cloud has to wait another 1000 years to try again". <small>(Oral Histories: The Inevitables, 2021-08-21)</small> Dave on that last loop: "Last loop Brightmantle did the same thing as you, collapsed the city and sent the mammon machine into the desert, it trapped the Queens and Grey Sage in Despondos for centuries". <small>(Oral Histories: The Inevitables, 2022-07-03. See [the Mammon Machine](/items/the-mammon-machine/) and [Despondos](/places/despondos/).)</small>
 
 ## The obliviation of Motherstone
 
@@ -95,11 +116,19 @@ Elistrae is his lover, and the reason the broken Lexicon matters to her personal
 
 When [Calix](/people/calix/) seats the Infanta on the throne and consumes her mind, only one thing can revive her: "the sound of Brightmantle's music box. (Castle's of Spain, the Infanta's Dream)." The location of the box is not known to the party; it is recovered by following Calix into the Orb and retrieving **the memory of Brightmantle from the Obliviator**, which reveals where the box is and unlocks the central mystery. The box is then played for the Infanta and she is released. <small>(Arc III, Interlude, items 9 through 12.)</small>
 
+Only Magnus remembers Brightmantle, and "it’s based on his gospel that everyone understands what happened then". Magnus "is the apostle of Brightmantle and it’s his gospel that people choose to believe or not about the founding of Motherstone and the end of the first age of the Infanta". He reached Brightmantle "because of a confluence of affinities - he has worshipped him all his life, he spent 8 sessions delving BMs greatest creation and learning the details of his life and final days, he had lots of specific clues, he met the digits shadow of BM in the Lexicon, and he had to make a roll", "And he had the little platinum thimble ofc". <small>(Sic on "digits". Dave. Oral Histories: Temporal Holdings, 2019-05-29)</small> Magnus remembers Brightmantle's memories of building Lex. <small>(Oral Histories: Temporal Holdings, 2019-08-24)</small>
+
 ## His dream, as a live question
 
 After the revolution the Council of Forgetting has to decide Motherstone's place in the world: tune the Obliviator to hide the city and the island of Snowdown from memory entirely, or open the city and "possibly seek to complete Brightmantle's dream of a peaceful Faerun." Kara, Magnus, Drefan, [Roland](/people/roland-deschain/) and Yoshi sat on that Council, with Ilana, Untari, Crookshanks, Chad, Bridgett and the Lexicon also attending. <small>(Arc III, Interlude, "Council of Forgetting.")</small>
 
 A new prophet of Brightmantle appears during the divine crisis that follows, "who claims to hold the key to avoid a Second Troubles," and Zanzibar is dispatched from Punis to find him. <small>(Arc III, Interlude.)</small>
+
+## In the Time of Troubles
+
+In the Time of Troubles the party scried on him and found him "in the northern forest near Camelot". <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small> Dave framed the quest as "reconciling the goals of Brightmantle and Elistrae to end the ToT/destroy the Netherese with the goals of Eloise/June (and by extension Obus I guess) to end St Clouds meddling in time permanently". <small>(Oral Histories: Temporal Holdings, 2020-08-11)</small> After Avalon joined the elves, "Brightmantle and his crew plan to garrison Camelot and return BM et al to Motherstone pending a plan to onboard the other three elvish peoples", and Magnus went back to Motherstone with him. <small>(Oral Histories: Temporal Holdings, 2020-10-04)</small> The party met back up with Magnus and Brightmantle after facing Morgana. <small>(Oral Histories: Temporal Holdings, 2020-11-06)</small>
+
+By August 2021 the party had told him "he's destined to defeat the netherese and unite the Infanta", and he wanted to push into Netheril. Dave: "he doesn't know about the tragic betrayal from Calix yet", because Magnus was keeping that secret. <small>(Oral Histories: The Inevitables, 2021-08-15. See [Calix the Betrayer](/people/calix-the-betrayer/).)</small>
 
 ## Death
 

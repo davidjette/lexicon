@@ -35,6 +35,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
+- sources/dave/2026-09-14-temple-holdings-batch2-questions.md
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - "Oral Histories: Temporal Holdings, 2021-10-01"
 - "Oral Histories: Temporal Holdings, 2021-10-09"
@@ -92,7 +93,7 @@ He led Archmage **Valen**, who murdered his sister Alen Tudyx for her Bane blade
 
 Scheduling the session, Dave wrote: "Would be a bummer for dref not to be there to fight his own double". <small>(Oral Histories: Temporal Holdings, 2021-10-01)</small> The [Waxing](/items/the-bane-blades/) power was "available to everyone with bane blades in this next battle, including the three main enemies!" <small>(Oral Histories: Temporal Holdings, 2021-10-09)</small>
 
-The party crossed the maze of Despondos, and "finally the party confronted Valen, Carl’s Jr. and The Waning One at the peak of Sigil, and Anti-Drefan transformed into a gargantuan fae dragon, and the Bane Blades finally awakened". <small>(Oral Histories: Temporal Holdings, 2021-10-10)</small> The fight is also called the Deadfall Peak battle. Before the second session Jenny, who played [Kara](/people/kara/), looked for a way to "exploit Kara & Dref’s BFF spell so that every time Kara gets hit, the Waning One takes damage. But Dref would also take the damage". <small>(Oral Histories: Temporal Holdings, 2021-10-20)</small>
+The party crossed the maze of Despondos, and "finally the party confronted Valen, Carl’s Jr. and The Waning One at the peak of Sigil, and Anti-Drefan transformed into a gargantuan fae dragon, and the Bane Blades finally awakened". <small>(Oral Histories: Temporal Holdings, 2021-10-10)</small> The fight is also called the Deadfall Peak battle: Deadfall Peak is the peak of Sigil, the place where [Sigil](/places/sigil/) is built in the future. <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small> Before the second session Jenny, who played [Kara](/people/kara/), looked for a way to "exploit Kara & Dref’s BFF spell so that every time Kara gets hit, the Waning One takes damage. But Dref would also take the damage". <small>(Oral Histories: Temporal Holdings, 2021-10-20)</small>
 
 "You charmed the Waning One with an hour left, you bested Carl’s Jr. and convinced her and the Drow to join your effort … Valen lies in a puddle of acid and the Bane blades merge and evolve." <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> Wainwright St. Cloud watched "your battle against Valen and Waning One succeed" through the [Palantir](/items/the-palantir/). <small>(Oral Histories: The Inevitables, 2022-02-09)</small>
 

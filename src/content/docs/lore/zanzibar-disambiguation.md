@@ -32,3 +32,5 @@ published: '2026-09-14'
 - **[The War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/)**, the war and revolution that collapsed the continent before the Sovereignty.
 - **[The SSJ Zanzibar](/items/the-ssj-zanzibar/)**, the Sovereign Spelljammer of Starfall, named for the emperors.
 - **[The Five Zanzibars](/history/the-war-of-the-five-zanzibars/#the-five-zanzibars)**, the claimants of that war: William the Melancholy, Zellmo, Zythara, [Peterbilt Varkus](/people/peterbilt-varkus/) and Modle Negen.
+
+*See also:* **[Zebediah](/people/zebediah/)**, Zanzibar's twin.

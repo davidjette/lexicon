@@ -17,6 +17,9 @@ tags:
 - Seat of the Lexicon
 - Winking Depths
 - Eldergreen
+- Flex Gimbal
+- Gimbal Speeder
+- Pim
 icon: fa-gear
 fields:
   gender: Male
@@ -32,6 +35,9 @@ sources:
 - CANON.md 5x (the DM's account, 2026-09-10)
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - "Oral Histories: Temporal Holdings, 2018-03-18"
+- "Oral Histories: Temporal Holdings, 2019-03-03"
+- "Oral Histories: The Inevitables, 2024-05-29"
+- "Oral Histories: The Inevitables, 2024-07-12"
 published: '2026-09-10'
 wa:
   slug: flex-gimble-person
@@ -61,6 +67,8 @@ He introduces himself at length: "Flex Gimble, engineer, inventor and entreprene
 
 On why he came: "I came here chasing tales of spectacular technology and arcane science the likes of which I'd never imagined. When I got here it was impressive, but nothing worked. Then — boom! — today it turns on and I see things you wouldn't believe!"
 
+No designs for the [Obliviator](/items/the-obliviator/) have ever been found. Since the "awakening" of Motherstone, "scholars like Pim and Gimble theorized the machine was already built, and the city and its unique moonstone formations were merely the perfect place to turn it on". [Pim](/people/pim/) and Gimble place the Infernal Machines "as originating before any other knows artifacts and long before the creation date believed in most faiths". <small>(Sic on "knows". Dave. Oral Histories: Temporal Holdings, 2019-03-03)</small>
+
 ## The Betrayal
 
 It was Flex who led the party to the Seat of the Lexicon, where they connected to its terminal.
@@ -78,6 +86,8 @@ The party killed Flex Gimble in Arc II, at the session of 2018-03-17. <small>(Or
 ## Afterward
 
 A "giant, conspicuously new statue of Flex Gimble welcomes visitors" to the spire in Arc IV, where the engineer of the spire is described as "the former partner of Flex Gimble." <small>(Arc IV Parts III–IV.)</small>
+
+After the Oblivia, Dave described him as "A very famous artificer whose greatest discoveries would now be forgotten or in comprehensible". <small>(Sic on "in comprehensible". Oral Histories: The Inevitables, 2024-05-29)</small> In the Starfall era the Gimbal Speeder carries his name. Dave asked at the table whether it was "a Gimbal Speeder for Flex Gimbal like Tesla is for Nikola Tesla", and Nichole answered, "It was!" <small>(Oral Histories: The Inevitables, 2024-07-12)</small>
 
 ## How he became an ally
 

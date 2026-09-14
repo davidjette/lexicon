@@ -29,6 +29,11 @@ tags:
 - Punis
 - Karametra
 - Wainwright St. Cloud
+- Arielle
+- Whitehorn
+- King of the Wyrms
+- Camp Vengeance
+- clone
 icon: fa-wand-sparkles
 fields:
   rpgAlignment: Neutral Good (level-18 sheet; the level-5 sheet reads Lawful Neutral)
@@ -60,7 +65,24 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2017-09-07"
+- "Oral Histories: Temporal Holdings, 2017-10-02"
+- "Oral Histories: Temporal Holdings, 2018-10-02"
+- "Oral Histories: Temporal Holdings, 2018-10-21"
+- "Oral Histories: Temporal Holdings, 2019-01-16"
+- "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: Temporal Holdings, 2019-02-15"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2020-01-19"
+- "Oral Histories: Temporal Holdings, 2020-05-29"
+- "Oral Histories: Temporal Holdings, 2020-07-12"
+- "Oral Histories: Temporal Holdings, 2021-01-16"
+- "Oral Histories: Temporal Holdings, 2021-05-27"
+- "Oral Histories: Temporal Holdings, 2022-03-28"
+- "Oral Histories: Temporal Holdings, 2022-12-04"
 - "Oral Histories: Temporal Holdings, 2023-10-12"
+- "Oral Histories: The Inevitables, 2018-11-21"
+- "Oral Histories: The Inevitables, 2021-12-03"
 published: '2026-09-10'
 wa:
   slug: kara-person
@@ -81,6 +103,10 @@ No description of Kara's face is recorded, apart from the portrait in St. Cloud'
 
 She is named among the protagonists when the Moongate sets the shipwreck survivors down on Snowdown. She follows clues other people put down: the half-elf apothecary **Fhastine** keeps a journal nobody has been able to read, with a moon symbol on its cover and one question behind it — where is her mother? — and Kara is the one who takes it seriously. That riddle leads to a mine beneath Snowy Mountain, to a dead explorer's last letter, and — with [Brother Magnus](/people/brother-magnus/) — down a magic-bored shaft into a buried moonstone machine five stories high.
 
+By September 2017 she was a fifth-level sorcerer: "Kara now has Lightning bolt." <small>(Oral Histories: Temporal Holdings, 2017-09-07)</small> In the session of 30 September 2017 [Fulori](/people/fulori-splitheel/)'s "knowledge of disappearing inks allowed Kara to piss on the letter to Shor and reveal a letter of credit for 30,000 platinum". <small>(Oral Histories: Temporal Holdings, 2017-10-02)</small>
+
+Of the ten years after she emerged from Motherstone, Dave wrote: "I think she's establishing franchises of Fhastine's her magic shop megaempire", "which of course you guys burn down in chapter 1 of the original game". <small>(Oral Histories: The Inevitables, 2018-11-21)</small>
+
 ## Public and private
 
 Publicly she is the party's navigator and problem-solver: when the Infanta is carried off by the wet-nurse, it is Kara who *fixes the child's bearing* with the **Quicksilver Sextant** and turns a disaster into a chase with a heading. Privately she is the one being watched. Wainwright St. Cloud has been painting her across the ages, and she does not learn this until she walks into his studio.
@@ -99,9 +125,19 @@ The elf-queen's widower **Peter Glans** — who is the copper dragon Tylerjynex 
 
 The arc the heroes call **Kara's Wish** turns on a single sentence. Cornered by the forces of **Talona** in [Arc VI](/history/arc-vi-time-of-troubles/), Kara spends a *Wish* — that they *had* moved the Moon in the past — and reality reshapes itself around the party. The citadel transforms. The walls fill with [Pim](/people/pim/)'s chronicle of a history in which the deflection succeeded. The God of Medicine becomes an ally instead of an enemy. The party later fulfilled the Wish when they returned to the deep past a second time and helped [Karametra](/people/karametra/) move the moon.
 
+Kara also cast Wish in the session of 3 December 2022, which left a Magnus simulacrum in a time temple beneath the sea. Dave: "Also Kara cast Wish. Big magics". <small>(Oral Histories: Temporal Holdings, 2022-12-04)</small>
+
 ## Beliefs
 
 She believes a riddle somebody else abandoned is worth a mountain of digging. She believes the way through is the way in — down the shaft, into the phylactery, into the Egg. She believes a sentence can be worth more than an army.
+
+## The Arielle, Suzail and the Arcaneum
+
+Of the party's airship, Dave in October 2018: "she commands the elemental who occupies the Airship so she's basically in charge". <small>(Oral Histories: Temporal Holdings, 2018-10-02)</small> See [the Arielle](/items/the-arielle/). At [Whitehorn](/places/whitehorn/), after [Revan](/people/revan-darkcember/) turned into a zombie from his wounds, "Kara flew the ship in", destroyed the other zombies and saved him. <small>(Oral Histories: Temporal Holdings, 2018-10-21)</small>
+
+In [Suzail](/places/suzail/) she impersonated the king, who had been turned into a snail, and as the king won Princess Roseanne's agreement to marry [Zanzibar](/people/zanzibar/) "the next morning". <small>(Oral Histories: Temporal Holdings, 2019-01-16)</small> See [the Suzail Coup](/history/the-suzail-coup/). A top-secret dossier on the party describes "Kara of Paenis": its writer "was an associate of mine in my early studies, and some would say, a lover", and "She possesses unheard of powers related to her connection with her lunar cycle. If she is allied with the Moon Queen at Motherstone then she might be a major threat." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small>
+
+Before the assault on the [Arcaneum](/lore/arcaneum-campaign/), "Kara knows the basics of the Arcaneum", including the portal balls between its schools' demiplanes: "she has the password for abjuration and evocation". <small>(Oral Histories: Temporal Holdings, 2019-02-15)</small>
 
 ## Celion, the mirror and the Palantir
 
@@ -113,9 +149,21 @@ In [Arc III](/history/arc-iii-age-of-the-infanta/), while resting, "Kara sees Ce
 
 In Valen's sanctum, behind the Anachron, stand "three vessels made of brass and glass holding three humanoid bodies": Valen's clone, Celion's, and a clone of Kara herself, grown from tissue taken at her admission. Valen: "When I ordered that your clone be reconstituted, so that I could imprison and indoctrinate you in the event of your untimely death, our necromancy department naturally reviled at handling your trimmings. But Celion was more than willing to oblige. After you assassinated us at Cormyr, I had these clones moved here for safe keeping." <small>(Arc III Parts IX–XI. The full account of the device is at The Anachron.)</small>
 
+The clone in the sanctum stayed live: if Kara dies, "her soul goes into it". After Valen's defeat Celion took the Arcaneum, and Dave: "I think Kara prefers the private sector". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+
 ## The portrait in the Old Man's House
 
 <small>Recovered from the Oblivia.</small> In St. Cloud's hidden lair in [Arc IV](/history/arc-iv-the-infernal-machines/), a great portrait overlooks a studio of half-built machines: *a sorceress in flight, the moon exploding into blue shards above her, her face Kara's — but her eyes green.* The walls around it are hung with the faces of heroes through the ages, "many have the same eyes and faces of you yourself… over and over again, in slightly different versions which tip perilously into the uncanny valley." The immortal has been painting the same recurring souls through loop after loop of a bent timeline. Kara is one of them. The green-eyed sorceress of the great portrait is [Karametra](/people/karametra/), Kara from another loop: the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past.
+
+## Portents, clones and the King of the Wyrms
+
+In January 2020 Kara's portent roll saved the ship, and, Dave: "she basically fortold of Obi's sacrificing himself to save the survivors on the battlefield from that Meteor Swarm". <small>(Sic on "fortold". Oral Histories: Temporal Holdings, 2020-01-19)</small> See [Obi](/people/obi/). Dave also reminded her of "when you were 'enslaved' by the aboleth". <small>(Oral Histories: Temporal Holdings, 2020-05-29)</small> Of her War Wizard schooling, Jenny, who played Kara, claimed "an Associates degree from the War Wizard college. Double major in Evocation and Divination." Dave: "It’s a bachelor at least". <small>(Oral Histories: Temporal Holdings, 2020-07-12)</small>
+
+In the week-long downtime of January 2021, "Kara made a clone of herself and hid it inside a commissioned statue of herself", and "Magnus and Kara invested in a casino and a gem dealer expanding Temple Holdings into gaming and minerals". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> At Camp Vengeance, the future site of Fort Zanzibar, "Kara made her dragon form known", and the party located a copper dragon they believed to be Peter Glans in his true form, "the King of the Wyrms from Kara’s latest vision". <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small>
+
+Kara holds two boxes. The first was found aboard the Arielle when the party first took the ship, "sealed by a mysterious force"; the second, identical, the party found in the deep past, and it could open. The party locked a Perfect Moonstone in the open box and took a perfect dark crystal out of the sealed one, and the box from the deep past is now sealed. Dave: "you basically passed yourself something through time, it's a schroedinger's box". <small>(Oral Histories: The Inevitables, 2021-12-03)</small> See [the Tudyx Cube](/items/the-tudyx-cube/).
+
+By March 2022 "Kara cloned most of you", and the clones waited "in the crumbling statuary" of Motherstone; Zanzibar was the one not cloned. <small>(Oral Histories: Temporal Holdings, 2022-03-28)</small>
 
 ## The Egg
 

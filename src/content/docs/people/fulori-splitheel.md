@@ -39,6 +39,10 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part IV.docx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VII.docx
+- "Oral Histories: Temporal Holdings, 2017-08-15"
+- "Oral Histories: Temporal Holdings, 2017-09-30"
+- "Oral Histories: Temporal Holdings, 2017-10-02"
+- "Oral Histories: Temporal Holdings, 2018-01-26"
 published: '2026-09-10'
 wa:
   slug: fulori-splitheel-person
@@ -85,6 +89,8 @@ Publicly she is the party's quiet professional: she watches Leftfork Farm from t
 
 The scroll taken from the dead courier at Harloch is meant for Thaddeus Shor and is strangely brief, with the words *"Forsworn Activity on the Rise. Beware"* bizarrely centred on the page. Fulori is the one who looks at the layout rather than the text and concludes that a longer message is hidden there in invisible ink — the thread that exposes the sale of Leftfork and the Company's brokerage of it.
 
+In the session of 30 September 2017 her "knowledge of disappearing inks allowed Kara to piss on the letter to Shor and reveal a letter of credit for 30,000 platinum". <small>(Oral Histories: Temporal Holdings, 2017-10-02)</small> See [Kara](/people/kara/). Jordan, who played Fulori, missed that session. Dave: "Sorry to hear it. Fulori is in good hands." <small>(Oral Histories: Temporal Holdings, 2017-09-30)</small>
+
 ## Beliefs
 
 She believes freedom is the most important thing and is willing to break the law to help those who are enslaved — the ideal written on her sheet. She believes she has "a natural disdain for masters of any type," and hides it behind a cool demeanour. She believes history is best left in the past and some mistakes cannot be undone.
@@ -94,6 +100,10 @@ She believes freedom is the most important thing and is willing to break the law
 At the close of Arc I, Fulori, [Yoshi](/people/yoshi/) and [Couch](/people/cuthbert-couch/) race back to Leftfork and find they have made it in time — the green glowing orb of magic still surrounds the village, so Untari and the Infanta are still safe inside. The Bladesingers intercept them on the approach.
 
 Fulori appears only in Hope in Exile, and is not named in Motherstone or any later arc. Her wards were never found.
+
+## At the table
+
+Fulori joined the game on 15 August 2017, introduced by Adam: "Please welcome our new rogue, Fulori Splitheel". Asked "are you lv 1 Jordan?", Jordan said yes, and Dave called the sheet "great as is". <small>(Oral Histories: Temporal Holdings, 2017-08-15)</small> She did not level up at the end of Arc I: "Everyone leveled up last time, except Sam and Jordan." <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small>
 
 **Organizations / Groups:** Temple Holdings LLC · the Lusmundi, named so and one of the Champions of the Evening Star at the Conclave at Leftfork
 

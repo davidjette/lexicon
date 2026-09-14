@@ -21,6 +21,9 @@ tags:
 - Lusmundii
 - Moonshae
 - Infantaverse
+- Calamar
+- Grimalkin
+- Forsworn
 icon: fa-anchor
 fields:
   campaign: Temple Holdings LLC
@@ -40,6 +43,11 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VII.docx
 - "Oral Histories: Temporal Holdings, 2018-01-26"
 - "Oral Histories: Temporal Holdings, 2018-04-23"
+- "Oral Histories: Temporal Holdings, 2017-07-23"
+- "Oral Histories: Temporal Holdings, 2017-09-06"
+- "Oral Histories: Temporal Holdings, 2017-09-07"
+- "Oral Histories: Temporal Holdings, 2017-10-02"
+- "Oral Histories: Temporal Holdings, 2017-10-18"
 published: '2026-09-10'
 wa:
   slug: arc-i-E28094-hope-in-exile-plot
@@ -50,7 +58,7 @@ wa:
 
 *Opens on:* the privateer *Evening Star* · *Ends at:* Harloch, on Snowdown · *Leads into:* [Arc II — Motherstone](/history/arc-ii-motherstone/)
 
-Arc I — Hope in Exile is the founding arc of the [Ages of the Infanta](/lore/temple-holdings-llc/), played across the Moonshae Isles off the Sword Coast. It opens at Baldur's Gate aboard the privateer *Evening Star*, flagship of the Sword Coast Trading Company, and the wreck of that ship leaves a band of strangers as the guardians of an infant carried in secret by the druidic cult of the Lusmundii. The survivors cross the islands of the Moonshae pursued by the Empire, by the Forsworn and by the messengers of Queen Maab; they free the enslaved elves of Leftfork Farm, recover the Infanta from a binding rite at Bask Falls Barrow, and reach the walled town of Harloch, where they buy the derelict Old Temple and take the name Temple Holdings, LLC. The arc ends with Kara and Brother Magnus descending into a buried power station beneath Snowy Mountain on the trail of the Motherstone.
+Arc I — Hope in Exile is the founding arc of the [Ages of the Infanta](/lore/temple-holdings-llc/), played across the Moonshae Isles off the Sword Coast. It opens at Baldur's Gate aboard the privateer *Evening Star*, flagship of the Sword Coast Trading Company, and the wreck of that ship leaves a band of strangers as the guardians of an infant carried in secret by the druidic cult of the Lusmundii. The survivors cross the islands of the Moonshae pursued by the Empire, by the Forsworn and by the messengers of Queen Maab; they free the enslaved elves of Leftfork Farm, recover the Infanta from a binding rite at Bask Falls Barrow, and reach the walled town of [Harloch](/places/harloch/), where they buy the derelict Old Temple and take the name Temple Holdings, LLC. The arc ends with Kara and Brother Magnus descending into a buried power station beneath Snowy Mountain on the trail of the Motherstone.
 
 The arc's opening text sets the era:
 
@@ -90,6 +98,8 @@ Driven off course, they make landfall on a small, fey-touched island and step st
 
 By the chapter's end Fortuno and Andira are dead, his tower torn apart by tempest winds, and Sycorax is freed. In gratitude — or in payment — she opens a **Moongate**, a shimmering white bridge arcing over the sea, and sends the survivors on to the next island.
 
+The party killed Calamer, whose name Dave spells Calamar. <small>(Oral Histories: Temporal Holdings, 2017-09-07)</small> Dave's summary of the session was that the party "killed everyone in the Tempest, something Shakespeare wasn't brave enough to do." <small>(Oral Histories: Temporal Holdings, 2017-07-23)</small>
+
 ## Part III — Snowdown
 
 The Moongate sets them down on [Snowdown](/places/snowdown/) (anciently **Wain Gallidan**), the elves' own home island and the seat of the Cult of [Elistrae](/people/elistrae/), the Lusmundii. Here the chronicle's protagonists are named for the first time: [Drefan](/people/drefan/), the elf sworn to House Gallidann who comes to bear the moonblade [Silverbane](/people/silverbane/); the wizard-merchant [Kara](/people/kara/); [Roland](/people/roland-deschain/), who hunts the bloodline of St. Cloud; [Yoshi](/people/yoshi/) and his companion **Denver**; the dwarf [Brother Magnus](/people/brother-magnus/); and [Fulori](/people/fulori-splitheel/), searching for kidnapped wards of her own.
@@ -114,13 +124,19 @@ The rite is broken — the returned hag Sycorax and the spectral cat-fiend **Gre
 
 > Who are you, champions? Who are you, champions of Elistrae and the Moonshae Isles? Tell me your names so I may sing songs of you among the gildergreens in throne forests of Arboria… But she mustn't be raised as a god. She must be a child, living beneath the Gildergreen.
 
+In the rescue the party attacked the Forsworn base with fire and won it outright, killed two mid-level villains, and drew "the direct attention of an evil fae goddess". They also killed Greymalkin, whom Dave spells Grimalkin. Dave: "he'd been following you since the shipwreck." <small>(Oral Histories: Temporal Holdings, 2017-09-06)</small>
+
 ## Part V — Harloch
 
 Carrying the Infanta back toward the cult, the party reaches the walled town of **Harloch** on a day of festival — and into the arms of the Empire. Commander **Carlysle St. Cloud**, brother of the captain they drowned, has arrived with a fresh garrison, claiming a great victory over the Forsworn that the heroes know to be a lie. A letter taken from an Imperial courier reveals the deeper scheme: Leftfork Farm and all its people have been **sold** to a buyer who means to mine its moonstone, with the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) brokering the deal. Beneath the town's derelict **Old Temple** lies a crypt, the **Ghost of Aldawan**, and the **Gauntlet of Aldawan**; the festival erupts into an assassination attempt, and the chapter scatters into a dozen threads as the messengers of Queen Maab begin to stalk the party openly.
 
+The letter to Shor also hid a letter of credit for 30,000 platinum. Fulori's knowledge of disappearing inks let Kara reveal it by urinating on the letter. <small>(Oral Histories: Temporal Holdings, 2017-10-02)</small>
+
 ## Part VI — Where the Hearth Is
 
 The garrison marches out and leaves Harloch undefended; the Jarl, already saved once by the party from St. Cloud, begs them to make the town their home and offers to sell them the Old Temple. Buying it, the heroes give themselves a base, a refuge for the Cult of Elistrae — and a name. **They become "Temple Holdings, LLC,"** the holding that gives the whole campaign its title. A new thread opens here: **Fhastine Mageblood**, the half-elf apothecary of *The Dram*, keeps a journal she cannot read and a moon-marked riddle of a missing mother — a clue pointing past Harloch toward the [Motherstone](/places/motherstone/).
+
+With the platinum bars in hand, the party had to choose where to take them: back to Leftfork, over to the Gildergreen, or elsewhere. <small>(Oral Histories: Temporal Holdings, 2017-10-18)</small>
 
 ## Into Arc II
 
@@ -137,6 +153,18 @@ After the shelter at Leftfork, the party returned the Infanta to safety at the G
 > Ascending from the hatch, you step up into a building so huge and ancient, but somehow far more advanced than any you have seen before. Blue light flows up through tiny visible conduits in the stone, humming from the turbines below. The light flows into man-sized pedestals throughout the room. On some of these pedestals, pale blue moonstones rest and glow in the energy.
 
 Guarded by clockwork spiders, guardians and a centurion, this buried engine — and the hunt for the Motherstone the dead elf died seeking — carries directly into [Arc II — Motherstone](/history/arc-ii-motherstone/).
+
+## Sessions
+
+The arc was played in seven sessions. <small>(Oral Histories: Temporal Holdings, 2017-07-09 to 2017-11-26)</small>
+
+- **2017-07-09** (on or before): Part I, Fall of an Evening Star. The first game, aboard the *Evening Star*; Yoshi starts alone in a cage.
+- **2017-07-23**: Part II, The Greater Storm. The Tempest island.
+- **2017-08-18**: Part III, Snowdown. A short levelling session, Fulori's first; it ends with Elistrae kidnapped.
+- **2017-09-04**: Part IV, The Good Men. The Forsworn base burned and won, Grimalkin and two mid-level villains killed, the baby saved; Couch joins.
+- **2017-09-30**: Part V, Harloch. Kara reveals the letter of credit for 30,000 platinum.
+- **2017-11-11**: Part VI. The name Temple Holdings, LLC is taken.
+- **2017-11-25**: Part VII, the final session. The quest line is completed.
 
 ## Maps
 

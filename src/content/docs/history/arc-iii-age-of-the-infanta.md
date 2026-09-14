@@ -34,6 +34,11 @@ tags:
 - King of Punis
 - Palantir
 - Roland's Cube
+- Whitehorn
+- Soul Syphon
+- Suzail Coup
+- Von Lampes
+- Amulet of Kai Ryssdall
 icon: fa-baby
 fields:
   campaign: Temple Holdings LLC
@@ -66,6 +71,19 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-05-05"
 - "Oral Histories: Temporal Holdings, 2019-05-25"
 - "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2018-10-15"
+- "Oral Histories: Temporal Holdings, 2018-10-25"
+- "Oral Histories: Temporal Holdings, 2018-11-11"
+- "Oral Histories: Temporal Holdings, 2018-12-11"
+- "Oral Histories: Temporal Holdings, 2019-01-06"
+- "Oral Histories: Temporal Holdings, 2019-01-16"
+- "Oral Histories: Temporal Holdings, 2019-01-21"
+- "Oral Histories: Temporal Holdings, 2019-01-27"
+- "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: Temporal Holdings, 2019-02-04"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2019-04-20"
+- "Oral Histories: Temporal Holdings, 2019-06-07"
 published: '2026-09-10'
 wa:
   slug: arc-iii-E28094-age-of-the-infanta-plot
@@ -78,7 +96,7 @@ wa:
 
 *Follows:* [Arc II — Motherstone](/history/arc-ii-motherstone/) · *Leads into:* [Arc IV — The Infernal Machines](/history/arc-iv-the-infernal-machines/)
 
-**Arc III — Age of the Infanta** is the third arc of the Temple Holdings LLC chronicle, running from the reclaimed throne of Motherstone to the Second Battle of Motherstone. It opens on a world transformed. [Calix](/people/calix-the-betrayer/) has been killed and the Infanta enthroned, but the heroes lost ten years inside his phylactery — and in that decade the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), under [Wainwright St. Cloud](/people/wainwright-st-cloud/), turned the moonstone of Motherstone into the engine of a naval empire stretching from Waterdeep to Cormyr. The heroes have since cut off that supply, holy magic is quietly failing across Faerûn, reborn god-children — [Infantas](/lore/the-infanta/) — are awakening one by one, and every kingdom, cult and company races to seize them.
+**Arc III — Age of the Infanta** is the third arc of the Temple Holdings LLC chronicle, running from the reclaimed throne of Motherstone to the Second Battle of Motherstone. It opens on a world transformed. [Calix](/people/calix-the-betrayer/) survived the vault as a lich and seated the young Infanta on the throne, and the party has released her from his hold, but the heroes lost ten years inside his phylactery — and in that decade the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), under [Wainwright St. Cloud](/people/wainwright-st-cloud/), turned the moonstone of Motherstone into the engine of a naval empire stretching from Waterdeep to Cormyr. The heroes have since cut off that supply, holy magic is quietly failing across Faerûn, reborn god-children — [Infantas](/lore/the-infanta/) — are awakening one by one, and every kingdom, cult and company races to seize them.
 
 ## The Council of Forgetting
 
@@ -94,6 +112,8 @@ The Interlude opens by restating how Arc II closed. Calix seats the Infanta on t
 > 2\) they can open the city and seek to fulfill the destiny of the Lexicon by gathering the next generation of Infanta together to preserve divine power in the Material Plane.
 
 The elves of [House Gallidann](/organizations/house-gallidann/), radicalised by their long alliance with the Forsworn and Calix, strain toward forgetting — "some say the Feywild will return to protect the elves from new evils." The Lexicon argues to stay open, but will do as the Infanta asks.
+
+The Council chose to keep Motherstone a secret. <small>(Oral Histories: Temporal Holdings, 2019-01-16)</small>
 
 ## The world remade
 
@@ -115,6 +135,8 @@ The "St. Cloud" they chase across the rooftops proves to be **Dox** — a change
 
 > Do what you have to and make sure people remember why we have a civilization in the first place. Then bring me my ship. — WSC
 
+Storming the ship, the heroes met four elementals and a legendary arcane golem and killed them all with minimal damage to the vessel; about 40 sailors and 24 civilians died. The ship's notes showed its captain signing documents as St. Cloud while corresponding with a superior, "WSC", who used the seal of the Chancellor of Waterdeep, and the heroes came to suspect that the man they had killed was a lieutenant who regularly impersonated St. Cloud. The records also showed that the Company had hunted and found the Infanta of Obus, and gave leads to the Infantas of Death and Time. <small>(Oral Histories: Temporal Holdings, 2018-09-15)</small>
+
 ## The hunt for the Infantas
 
 The arc's engine is a race. As divine magic fails, the old gods are incarnating again in mortal children, exactly as [Elistrae](/people/elistrae/) did — and the Company is collecting them. The Arielle's logs point to its strangest recent errand: ferrying armed men "to a remote valley full of backward horse farmers, looking for what the crew nicknamed 'the death child.'"
@@ -127,9 +149,13 @@ That trail leads to **the Ride** and the trading post of [Whitehorn](/places/whi
 
 <small>Marcus is non-binary; both pronouns are correct, with she as the primary. The quotation above keeps its source's "he."</small>
 
+At Whitehorn Drefan and [Roland](/people/roland-deschain/) each saved a band of enslaved children. <small>(Oral Histories: Temporal Holdings, 2018-10-25)</small> On their return the heroes defeated 12 zombies, two devils, a 15th-level necromancer and multiple earthquakes. They discovered the eldritch origin of the Soul Syphon there, "some combination of water elemental magick and magic from the far realm (deep)", and learned of the empire's plans to invade Amn in the morning. <small>(Oral Histories: Temporal Holdings, 2018-11-11)</small>
+
 The same race plays out in [Waterdeep](/places/waterdeep/), where the Company has installed a *false* Infanta: the boy lord **Jacob Alaistair Southampton**, also called **Gregory I**, the young emperor <small>(Oral Histories: Temporal Holdings, 2018-09-15)</small>, proclaimed by the priests of **Obus**, God of Order and Justice, and crowned Imperator. In the Council of Lords, St. Cloud and the masked oligarchs fence over the boy:
 
 > "I serve at the behest of the Open Lord Jacob Alaistair Southampton, Imperator and Pontifex Universalis and Infanta of the God of Order and Justice. And who are you?"
+
+The unmasked Lord of Waterdeep allows free trade. <small>(Oral Histories: Temporal Holdings, 2018-10-15)</small> In Dave's words, the heroes handled Waterdeep "with uncharacteristic patience and restraint." <small>(Oral Histories: Temporal Holdings, 2018-12-11)</small>
 
 But the true prize is hidden elsewhere — in the **Observatory** atop Mount Waterdeep, a sealed pocket-dimension whose lock yields to a key from Dox's belt — or to a single word: **"Leviathan,"** spoken in Deep Speech.
 
@@ -149,6 +175,10 @@ The hunt widens into open politics in **Suzail**, the City of Song, capital of C
 
 Cormyr's court is a knot of danger: King **Glenn Danzig** and his elite **Purple Dragons** under **Lord Krapsmere**, who slew the Witch Queen of Cormanthor twenty years past; and the **War Wizards**, the kingdom's military arcane cabal, who mean to seize Una and "use her to conduct a world war." The [Lexicon](/items/the-lexicon/)'s briefings make the scale plain — the Obus Infanta awakened in Waterdeep, the elves of [Myth Drannor](/places/myth-drannor/) are said to hold the Infanta of **Sylvanus**, and the orcs another at **Mordulkin**. Every god is being reborn into a child, and every army wants one of its own.
 
+In Suzail the heroes turned King Glenn Danzig into a snail, and Kara, impersonating him, won Princess Roseanne's agreement to marry Zanzibar. Krapsmere was sent to attack the War Wizards' campus in the city and kill every War Wizard on sight, and many of Cormyr's paladins and knights came to believe that the War Wizards had attempted a coup. Dave summed up the session as "a fragile coup to make Zanzibar king of cormyr". <small>(Oral Histories: Temporal Holdings, 2019-01-06, 2019-01-16, 2019-01-21)</small>
+
+In the crisis that followed, the War Wizards meant to torture an Infanta until it released an explosion big enough to destroy the party and possibly the whole city, and the party forced them to set it off early. <small>(Oral Histories: Temporal Holdings, 2019-02-04)</small> The Infanta self-destructed in the room next to Roland, threw him and Drefan 300 feet and brought a tower down on the others; everyone survived except the Infanta. Zanzibar died, saw the Shadowfell and the city of judgment on fire, and was pulled back to the world and called a hero. The party stopped the city being destroyed and got the nature Infanta, [Teo](/people/teo-infanta-of-nature/), to Cormanthor. <small>(Oral Histories: Temporal Holdings, 2019-01-27, 2019-01-28)</small> The full account is at [The Suzail Coup](/history/the-suzail-coup/).
+
 ## The Arcaneum, and the Second Battle of Motherstone
 
 The chase carries the heroes at last to the **Arcaneum** — the War Wizards' academy of war-magic in neighbouring Punis — and into a long reckoning over the lost children the Company and its rivals have gathered.
@@ -159,9 +189,15 @@ The Arcaneum holds the [Anachron](/items/the-anachron/). Its own handout records
 
 Archmage **Valen** wants the device for the same end: "This magnificent device baffles me. We've tried everything to try and turn it on. We're certain this device will bring us to where and when we have to be to summon her, to summon the Leviathan…" <small>(Arc III, Parts IX–XI.)</small>
 
+The last room of the Arcaneum was a timed fight against a prismatic wall, a lich-type wizard, a black dragon and three other mages. Valen fought from a tank with 200 hit points that absorbed all damage from outside. The heroes used exhaustion against him, killed his dragon and used an antimagic field, and beat him. [Holden Tudyx](/people/holden-tudyx/) died in the fight, and at its end Una was revealed to be missing. <small>(Oral Histories: Temporal Holdings, 2019-03-31, 2019-04-01)</small>
+
 ### The coronation in Punis
 
-After his exile at the hands of the Arcaneum, [Zanzibar](/people/zanzibar/) returned to **Punis** and was crowned King of Punis. He named [Revan](/people/revan-darkcember/) and Roland Thanes and gave them holds: Revan's is Marsember, which becomes Darkcember because the Duchess of Marsember was killed. He named [Stonecypher](/people/stonecypher/) his general and promoted **Maximillien** to Steward. His twin, **Zebediah**, was disinherited. <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small>
+After his exile at the hands of the Arcaneum, [Zanzibar](/people/zanzibar/) returned to **Punis** and was crowned King of Punis. He named [Revan](/people/revan-darkcember/) and Roland Thanes and gave them holds: Revan's is Marsember, which becomes Darkcember because the Duchess of Marsember was killed. He named [Stonecypher](/people/stonecypher/) his general and promoted **Maximillien** to Steward. His twin, **Zebediah**, was disinherited. Each thane's package from Punis held 500 Gold Zans and jewellery and trinkets worth another 100. <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small>
+
+### The heist
+
+In a one-shot heist the heroes broke Zebediah out of the jail where he had got himself held, and went after the **Amulet of Kai Ryssdall**, a gem St. Cloud needed for his plan to summon [Asmodeus](/people/asmodeus/) into the heart of Waterdeep. Roland drew Excalibur from its stone in the vault below, and Stonecypher voided the **[Von Lampes](/organizations/the-von-lampes/)** with the Vault Wand. <small>(Oral Histories: Temporal Holdings, 2019-04-20)</small> The full account is at [Roland Deschain](/people/roland-deschain/) and [The Zhentarim](/organizations/the-zhentarim/).
 
 ### The Second Battle of Motherstone
 
@@ -169,11 +205,36 @@ It ends where the arc began: at Motherstone, where the Company returns in force 
 
 Before the battle, Lex had been built into the Arielle, whose drive is the Anachron. <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> The party fought the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/); then [Roland Deschain](/people/roland-deschain/) touched [the Palantir](/items/the-palantir/), and Wainwright St. Cloud mind-controlled him through it. Roland destroyed the [Lexicon](/items/the-lexicon/) and let the Company into Motherstone. About three rounds into the battle Lex transferred himself to the ship and lost all connection to the Motherstone Lexicon, which is dead. He does not remember transferring. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> The party and Motherstone won. They captured Carlysle's heart in [Roland's Cube](/items/rolands-cube/) and threw it, with the Palantir, into the [Obliviator](/items/the-obliviator/), so that no one remembers either. All Motherstone remembers is that Roland betrayed it, and he is put on trial for it. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
 
+Before the battle the heroes had also foiled Asmodeus. <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> Two of the invasion ships were destroyed, and the last jumped back to Sigil with Couch on board. Motherstone almost threw Roland into the Obliviator too, but Magnus convinced the city to hold a trial. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> Revan and Zanzibar jumped into the pit after the missing Infanta, Una, and the only witnesses to her jump were Pim, Roland, Zanzibar and Revan. The golem is still at the bottom, with its welding ripped open and a hole in its head; no one knows how it got there, and it is physical evidence of the events that led to Roland's treason. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> Zanzibar jumped without a ring of feather fall. Dave told him:
+
+> You did a very selfless thing for a very small chance to save the kid that nobody likes and that shows real growth
+
+<small>(Oral Histories: Temporal Holdings, 2019-06-07)</small>
+
 From here on the Lexicon travels with the party as Lex, and its home in the Anachron makes it mobile and gives it a latent power over time. <small>(Full treatment at [The Anachron](/items/the-anachron/).)</small>
 
 ## Into Arc IV
 
 The age of reborn gods gives way to the age of the machines that hunt them. With Wainwright St. Cloud's true design half-revealed — a date fixed in the ancient sky, a word that means *Leviathan* — the chronicle turns to the Company's interplanar engines and the city of doors where they are made, in [Arc IV — The Infernal Machines](/history/arc-iv-the-infernal-machines/).
+
+## Sessions
+
+The arc was played in fourteen sessions. <small>(Oral Histories: Temporal Holdings, 2018-07-22 to 2019-06-07)</small>
+
+- **2018-07-29**: The Interlude, "the first session of Season 3". Downtime and levelling; Revan arrives.
+- **2018-08-25**: A ship fight begun in media res, with nine players.
+- **2018-09-15**: The Excelsior stormed. Four elementals and an arcane golem slain; the ship, its records and the "WSC" letters taken.
+- **2018-10-21**: The Halloween episode. St. Cloud's last berth at Whitehorn; Revan zombified and cured; enslaved children freed; Pim arrives.
+- **2018-11-11**: The return to Whitehorn. Zombies, devils and a 15th-level necromancer defeated; the Soul Syphon's origin; the empire's plan to invade Amn.
+- **2018-12-08**: Waterdeep.
+- **2019-01-05**: Suzail. King Danzig turned into a snail; Kara impersonates him; a fragile coup to make Zanzibar king.
+- **2019-01-27**: The Suzail crisis. An Infanta self-destructs and a tower collapses; Zanzibar dies and returns; the nature Infanta taken to Cormanthor.
+- **2019-02-17**: Part IX. Into the Arcaneum; Marcus warns Stonecypher about Una.
+- **2019-03-02**: Part X. The Arcaneum continues; the flesh-bound book in hand.
+- **2019-03-31**: The Arcaneum finale. Valen beaten in his tank; Holden killed; thane packages; Una revealed missing.
+- **2019-04-20**: The heist one-shot.
+- **2019-05-04**: A downtime chapter. Asmodeus foiled; Lex built into the Arielle.
+- **2019-05-25**: The finale, the Second Battle of Motherstone. Two invasion ships destroyed; Carlysle and the Palantir obliviated; Roland blamed; Revan and Zanzibar jump after the Infanta.
 
 ## Maps
 

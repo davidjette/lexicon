@@ -20,6 +20,12 @@ tags:
 - Roland's Cube
 - the Obliviator
 - Second Battle of Motherstone
+- Crown Jewels of Cormyr
+- War Wizards
+- Valen
+- Calix
+- Eloise
+- Zanzibar
 icon: fa-circle-dot
 fields:
   type: Scrying stone
@@ -33,9 +39,13 @@ sources:
 - CANON.md, Oral Histories batch 4 (A9)
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2019-04-01"
 - "Oral Histories: Temporal Holdings, 2019-05-25"
 - "Oral Histories: Temporal Holdings, 2019-10-14"
+- "Oral Histories: Temporal Holdings, 2020-11-22"
+- "Oral Histories: Temporal Holdings, 2021-10-23"
 - "Oral Histories: Temporal Holdings, 2021-10-30"
+- "Oral Histories: Temporal Holdings, 2021-11-11"
 - "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2022-02-09"
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3081)
@@ -57,6 +67,8 @@ The [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) s
 
 [Celion](/people/celion/) takes out a Palantir when he speaks to [Kara](/people/kara/) through the mirror at Paenis — from a clone suspended in liquid inside Archmage Valen's sanctum. <small>(Arc III, Parts IX–XI.)</small>
 
+After the Arcaneum fell, Dave described the stone as "One of the Crown Jewels of Cormyr, the War Wizards kept it to use to spy on everyone", and said that Celion would "return the palantir to the king and provide appropriate access and coordination with the civilian govt". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small> See [the War Wizards](/organizations/war-wizards/).
+
 ## The one under Motherstone
 
 One Palantir was stuck inside a dormant mech in the deeps below [Motherstone](/places/motherstone/). [Carlysle St. Cloud](/people/carlysle-st-cloud/)'s mechanical heart burrowed through the earth to reach it:
@@ -75,6 +87,18 @@ When the party fought Carlysle's robot body, [Roland Deschain](/people/roland-de
 
 After the battle the party captured Carlysle in [Roland's Cube](/items/rolands-cube/). Roland used the Palantir to contact Wainwright and take credit for an act that both of them would forget, and then Carlysle and the Palantir were thrown together into the [Obliviator](/items/the-obliviator/). The stone went in so that its part would be forgotten: "No the Palantir went in so everyone forgets that happened". <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> Nobody in Motherstone remembered Carlysle or the Palantir, and the city believed that Roland had betrayed it. Months later, "The Obliviator still clouds everything around Carlysle and it still has erased the Palantir". <small>(Oral Histories: Temporal Holdings, 2019-10-14)</small>
 
+## The Time of Troubles
+
+During a rest episode in the Time of Troubles the party "partied like ceebrities, used a Palantir accidentally , and then helped save a trolls life". <small>(Sic. Oral Histories: Temporal Holdings, 2020-11-22)</small>
+
+After the battle in [Despondos](/places/despondos/) the party took the Palantir of Archmage [Valen](/people/valen/), who had kept it in a bag of holding "Or in his Oculary". Dave added: "Calix also has a Palantir btw, Zanzibar looked into it". <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> See [Calix](/people/calix/). JL, who played [Zanzibar](/people/zanzibar/), gave Valen's stone to Eloise: "I’m gonna give it to Eloise. She is powerful enough to wield it." <small>(Oral Histories: The Inevitables, 2021-10-23)</small> Nichole, who played her, later confirmed: "The palantir is in my bag of holding". <small>(Oral Histories: Temporal Holdings, 2021-11-11)</small> Eloise is [Stonecypher](/people/stonecypher/).
+
+> Eloise with St Cloud level surveliellance and obfuscation is no different than a literal god of time
+
+<small>— Dave. (Sic. Oral Histories: The Inevitables, 2021-10-23)</small>
+
+Dave also told the party: "Your enemies have used the Palantir since the beginning to be very well acquainted with your doings". <small>(Oral Histories: The Inevitables, 2021-10-23)</small>
+
 ## One stone
 
 Close inspection of a Palantir reveals to the god of time "that the Palantir is one-of-a-kind, the fact that there are many is probably the residual effect of time travel, similar to why there are multiple Anachron and Drefans, etc". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> The stones recorded in different hands are the one Palantir met at different points in its own history, as [the Anachron](/items/the-anachron/) is, and this is why the stones pair: Wainwright could guide Carlysle's heart to the stone under Motherstone because he held the same stone.
@@ -89,6 +113,6 @@ Five hundred years later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/
 
 ## Status
 
-One of a kind. The Company's, Celion's, Wainwright's and the one under Motherstone are the same stone at different points in its history. The stone taken from under Motherstone was obliviated with Carlysle St. Cloud in the Obliviator.
+One of a kind. The Company's, Celion's, Wainwright's and the one under Motherstone are the same stone at different points in its history. The stone taken from under Motherstone was obliviated with Carlysle St. Cloud in the Obliviator. In the Time of Troubles stones are also recorded with Valen and with Calix; Valen's passed to Eloise.
 
 **Related:** [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [Carlysle St. Cloud](/people/carlysle-st-cloud/) · [Roland Deschain](/people/roland-deschain/) · [Roland's Cube](/items/rolands-cube/) · [The Obliviator](/items/the-obliviator/) · [Celion](/people/celion/) · [The Lexicon](/items/the-lexicon/) · [The Mammon Machine](/items/the-mammon-machine/)

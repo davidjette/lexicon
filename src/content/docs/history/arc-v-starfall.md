@@ -36,6 +36,9 @@ tags:
 - Drefanmetra
 - the Waning One
 - mammon-obliviator-anachron
+- Dead Cloud
+- Zebediah
+- the Watcher
 icon: fa-meteor
 fields:
   campaign: Temple Holdings LLC
@@ -59,10 +62,23 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - "Oral Histories: Temporal Holdings, 2018-07-06"
+- "Oral Histories: Temporal Holdings, 2019-12-22"
+- "Oral Histories: Temporal Holdings, 2020-01-13"
+- "Oral Histories: Temporal Holdings, 2020-01-19"
+- "Oral Histories: Temporal Holdings, 2020-01-22"
+- "Oral Histories: Temporal Holdings, 2020-01-30"
+- "Oral Histories: Temporal Holdings, 2020-02-17"
 - "Oral Histories: Temporal Holdings, 2020-05-03"
+- "Oral Histories: Temporal Holdings, 2020-05-04"
+- "Oral Histories: Temporal Holdings, 2020-05-11"
+- "Oral Histories: Temporal Holdings, 2020-05-29"
+- "Oral Histories: Temporal Holdings, 2020-05-30"
+- "Oral Histories: Temporal Holdings, 2020-06-27"
+- "Oral Histories: Temporal Holdings, 2020-07-11"
 - "Oral Histories: Temporal Holdings, 2021-12-10"
 - "Oral Histories: The Inevitables, 2022-09-17"
 - "Oral Histories: The Inevitables, 2023-01-15"
+- "Oral Histories: The Inevitables, 2023-01-16"
 published: '2026-09-10'
 wa:
   slug: arc-v-E28094-starfall-plot
@@ -76,6 +92,16 @@ wa:
 *Follows:* [Arc IV — The Infernal Machines](/history/arc-iv-the-infernal-machines/) · *Leads into:* [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/)
 
 Arc V — Starfall is the fifth arc of [Temple Holdings LLC](/lore/temple-holdings-llc/), set in the deep past and at the end of time. Riding the [Anachron](/items/the-anachron/) about 65 million years into the deep past <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>, the heroes reached the **Moon** as it was before the Starfall, a living world, and pursued [Wainwright St. Cloud](/people/wainwright-st-cloud/) through R'lyeh and Dragon Mountain as he worked to wake Cthulhu. At the end of time the dying goddess June told Chronocypher that **Time itself is the Obliviator**, and that the gods, the Infantas and their own recurring souls are *memory* hiding from a blind, devouring god. The arc closes with the [Arielle](/items/the-arielle/) wrecked in the deep past, the Anachron left behind with the Lexicon inside it, and the party scattered across the ages.
+
+## From the River Lis to Refuge
+
+After the [Battle of the River Lis](/history/the-battle-of-the-river-lis/), Dave announced that the next arc was titled Starfall and would open on the aftermath of the battle "with a flying child adorned in luxurious black and silver robes, appearing over the battlefield about 500 feet away from your boat above the clouds." <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small> The first session was downtime. The party's ship was fixed and optimized for underwater travel for $25K, and the Anachron was working "in new ways" after the Lexicon came back to life and the party went near the diamond mine at Refuge. <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small>
+
+Four courses lay open to the party: go into the sea and look for Atlantis and the Egg; go to [Tiffany House](/places/tiffany-house/) and defeat the Asmodeans; go to the Shadowfell and defeat [Asmodeus](/people/asmodeus/); or go to the diamond mine at [Refuge](/places/refuge/) and look for St. Cloud and the Mammon Machine. <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small> The party chose the desert. <small>(Oral Histories: Temporal Holdings, 2020-01-22)</small>
+
+At Refuge, a desert mining town, [Revan](/people/revan-darkcember/) read the book. Black tentacles reached out of it and seemed to take over his body, while his mind "traveled into the lost corpse city of Ry'leh", and "a glimpse, just a glimpse, of a tiny fraction of his body, the Egg, is enough to send you into compounding waves of madness". <small>(Oral Histories: Temporal Holdings, 2020-01-30)</small>
+
+The party found St. Cloud inside a time bubble and followed him back through time. They had not brought "the spacesuits I gave you for a potential trip to the moon", and Dave named the main locations of the new age as "The Moon by way of the plane of air and a vertical protofeywild", Dragon Mountain, "and an underwater interstellar mindslaver city." <small>(Oral Histories: Temporal Holdings, 2020-02-17)</small>
 
 ## The Moon, before it broke
 
@@ -93,11 +119,21 @@ When Kay discovered this, she left to find **Tiamat**, to move the Moon into the
 
 [Roland](/people/roland-deschain/) shoots him, and the party takes his [Tudyx Cube](/items/the-tudyx-cube/). <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> It is empty; they place a perfect [moonstone](/lore/moonstone/) inside and close the lid. Then they take out the Tudyx Cube they stole from St. Cloud's quarters on the Arielle. They could not open it before, but now they can, and a Perfect Dark moonstone comes out, after a presumed 65 million years inside the box.
 
+St. Cloud had been teasing Roland, and his last words were "You can’t just shoot me Roland". <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> The party questioned the corpse. Of the box, the dead St. Cloud said: "We kept our wedding rings and flowers from the wedding in the box, now it’s empty." Of his wife: "She went to Tiamat to move the moon." By Dave's account, Ur-Kara "succeeded in changing his mind, but at some point, he changes back, came back in time, and affected that Kara's timeline". The dead St. Cloud put it this way:
+
+> She left me for a choice I had not yet made
+
+<small>— the dead St. Cloud. (Oral Histories: Temporal Holdings, 2020-05-04)</small>
+
 ## R'lyeh and Dragon Mountain
+
+After the killing the party knew that Brownsleeves' party had split up to go to R'lyeh and Dragon Mountain, that the dead St. Cloud's Kara had gone to Dragon Mountain as well, and that the Leviathan was one to two weeks from impact. <small>(Oral Histories: Temporal Holdings, 2020-05-11)</small>
 
 The party threads two fronts. In the drowned Aboleth city of **R'lyeh**, they work to free the enslaved races bound in the syphon matrix and to stop St. Cloud sabotaging the mammon-obliviator-anachron — his scheme to wake Cthulhu and veer it toward the World Tree. Atop **Dragon Mountain**, guarded by hundreds of dragons and the summoned **Tarrasque**, sits **Tiamat** herself, where an Abolethi courtesan petitions her to destroy the Moon — and Kay, to move it. The dragons fear the "walking fish" who foretell doom from the stars "with just enough foresight to convince her gloriousness that all of us will eventually betray her."
 
 The session plan names the apparatus the **mammon-obliviator-anachron** — the [Mammon Machine](/items/the-mammon-machine/), the [Obliviator](/items/the-obliviator/) and the [Anachron](/items/the-anachron/) joined as one device — and gives St. Cloud's aims as "to awaken and alert Cthulhu that his children are here" and "to veer toward Ydrissl." Two uses of the Anachron are recorded in the same plan: "Lex will pick up coordinates for the 1st Infanta War from through the end of time," and "The box/moonstone will allow them use the Anachron and go to the Time of Troubles/Netheril/Motherstone." <small>(Sic on "allow them use." Arc V, Starfall, Parts II through IV. The second line is how the party reaches the Netherese era, and the Chronicle, in Arc VI.)</small>
+
+Chronocypher failed a Wisdom save against a charm of the fish apes and teleported away with them. <small>(Oral Histories: Temporal Holdings, 2020-05-29)</small> The party went after her, and [Zebediah](/people/zebediah/), [Zanzibar](/people/zanzibar/)'s twin, turned to dust in the middle of a toxic sea. <small>(Oral Histories: Temporal Holdings, 2020-05-30)</small>
 
 At the centre of the sabotage stands the man himself, and he is no longer pretending to be a merchant:
 
@@ -123,11 +159,19 @@ One of them — **Chronocypher**, split from the rest — is carried instead to 
 
 By June's account the Infantas, the Forgetting and the Obliviator at Motherstone are one mechanism: consciousness is the hiding place from a blind god who devours by *remembering*, and forgetting is the wall against him. June dies again, and names Chronocypher her successor — **the Watcher** at the end of time — and gives the heroes their impossible orders: their souls are scattered across the ages, but "inside the Egg all Times converge," and there they must reunite and "bring every force the can from whenever they are to defeat Him." <small>(Sic on "the can." Arc V Part VI.)</small>
 
+June showed Chronocypher three beams of cool blue light, "three places where time is broken, where the Traveler shattered the Forgetting": "The moment you just left", "The moment you left Refuge", and a third: "Here Cthulhu is first awakened from his long slumber. Here the Axis of Time passes through the heart of the world. Here we are born on Earth again. And so shall you be." <small>(Oral Histories: Temporal Holdings, 2020-06-27)</small>
+
+> As alone as we may feel right now, this distance is what gives us space to love. Even in His heart where all things are one, without each other, we have nothing.
+
+<small>— June, at the End of Time. (Oral Histories: Temporal Holdings, 2020-06-27)</small>
+
 > Our souls are one, in time, but for now, we are ourselves. That is why we hurt each other. That is why we die. But this is how it's meant to be… You must repair the weave. You must unite the world. You must win. You will Win.
 
 June is the [Infanta of Time](/people/the-infanta-of-time/) who held the repeating hour at [Refuge](/places/refuge/). When the party returned to the "present", Chronocypher replaced her there and lived through that arc again as the child June. At the last moment, instead of dying, she was blown free of Refuge and rescued by the party, who appeared to have just left for the past and came back at level 20 or higher from the back half of the campaign.
 
 ## Into Arc VI
+
+The party defeated St. Cloud "againagain", with the forces of Talona still to be dealt with. <small>(Oral Histories: Temporal Holdings, 2020-07-11)</small>
 
 The [Egg](/places/the-egg/) — the Evening Star, a pristine black sphere — falls toward the world, and the First Impact comes within days: the **Starfall** that breaks the Moon and seeds the moonstone of every age to follow. The party is flung apart across time, each at one of the broken points where "the Traveler shattered the Forgetting." With the Anachron scrambled and the coordinates of the First Infanta War ringing through the [Lexicon](/items/the-lexicon/), the survivors are scattered back into the deep history of the world — into the age of reborn gods and falling empires, in [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/).
 
@@ -136,3 +180,23 @@ The [Egg](/places/the-egg/) — the Evening Star, a pristine black sphere — fa
 In the final arc the party came back to the deep past a second time, to help Karametra move the Moon, fulfilling the Wish [Kara](/people/kara/) cast on arriving in Antiquity that it had been done. Karametra seduced **Bahamut** and had the dragons build a platinum temple to cast **Move Planet** and put the Moon into the Egg's path. On this return the party fought the Tarrasque, some dragons, and then Tiamat herself, defending the platinum temple while Karametra cast Move Planet, and they succeeded. <small>(Oral Histories: The Inevitables, 2022-09-17)</small>
 
 The party went to the Moon again. This time the Short King had been seduced by **[Drefanmetra](/people/the-waning-one/)**, the Waning One, and was a warlock of the Waning One (Archfey), and he joined the party. Brownsleeves was JL's character at the opening of the chronicle, and JL played the Short King in the finale, where he died in the final round of the fight against Cthulhu in [Arc VIII](/history/arc-viii-end-of-the-infanta/). <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
+
+Had the party gone to the Moon first, the Short King "would have demanded you not to move the moon and he would have stowed away and sabotaged your ship to prevent it"; the party reached the Moon too quickly for him to stop them. In his loop Brownsleeves survived the *Evening Star*, and he and that loop's Drefan saw "the paradise of the moon" and changed their minds. <small>(Oral Histories: The Inevitables, 2023-01-15)</small> That loop's Magnus, Magnusmetra, died at R'lyeh with that loop's Stonecypher. <small>(Oral Histories: The Inevitables, 2023-01-16)</small>
+
+## Sessions
+
+- **2020-01-12** — Downtime; the ship refitted for underwater travel.
+- **2020-01-26** — Refuge, a desert mining town; Revan reads the book.
+- **2020-02-16** — St. Cloud found in a time bubble and followed into the deep past.
+- **2020-03-21** — The prehistoric age; the approach to Dragon Mountain debated.
+- **2020-03-28** — Played online.
+- **2020-04-04** — "critical discoveries here in this new time".
+- **2020-04-11** — The realm of dreams.
+- **2020-04-18** — The realm of dreams completed.
+- **2020-04-25** — Space and the Moon; twelve elementals destroyed with one spell.
+- **2020-05-02** — Dreams of the Old Man's house; Roland shoots St. Cloud.
+- **2020-05-16** — Chronocypher charmed and teleported away by the fish apes.
+- **2020-05-30** — The rescue of Chronocypher; Zebediah turned to dust.
+- **2020-06-13** — The showdown with St. Cloud begins; he attacks Kara.
+- **2020-06-27** — The showdown continues; Chronocypher at the End of Time.
+- **2020-07-11** — St. Cloud defeated "againagain".

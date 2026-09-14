@@ -19,6 +19,10 @@ tags:
 - Temple Holdings LLC
 - Bard
 - Infantaverse
+- Velvet
+- Charlatan
+- Sigil
+- Doomkin
 icon: fa-masks-theater
 fields:
   rpgAlignment: Chaotic Neutral
@@ -47,6 +51,18 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part III.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part IV.docx
+- "Oral Histories: Temporal Holdings, 2017-08-24"
+- "Oral Histories: Temporal Holdings, 2017-08-28"
+- "Oral Histories: Temporal Holdings, 2018-01-24"
+- "Oral Histories: Temporal Holdings, 2018-01-26"
+- "Oral Histories: Temporal Holdings, 2018-04-23"
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-06-22"
+- "Oral Histories: Temporal Holdings, 2019-06-23"
+- "Oral Histories: Temporal Holdings, 2019-08-22"
+- "Oral Histories: Temporal Holdings, 2019-11-10"
+- "Oral Histories: Temporal Holdings, 2020-12-18"
+- "Oral Histories: Temporal Holdings, 2021-01-16"
 published: '2026-09-10'
 wa:
   slug: cuthbert-couch-person
@@ -55,13 +71,13 @@ wa:
 
 **Human · Bard (College of Lore), Level 4 · Temple Holdings LLC · Chaotic Neutral · Alive**
 
-*Also known as:* Viceroy Couch · Viscount Viceroy Cuthbert Couch · **Thomas Stamp** (his real name) · "Stamp" / "Stump" <small>(both spellings appear in the Starfall recaps; unresolved)</small>
+*Also known as:* Viceroy Couch · Viscount Viceroy Cuthbert Couch · **Thomas Stamp** (his real name) · "Stamp" / "Stump" <small>(both spellings appear in the Starfall recaps; unresolved)</small> · Velvet <small>(the table's name)</small>
 
 **Cuthbert Couch** is a human bard of the College of Lore, a member of Temple Holdings LLC, and the styled Viceroy of the court of Sembia, advisor to the Doge and merchant lord of Sandstad. He is none of those things. He is **Thomas Stamp**, "a scam artist who blends in with all types to sell worthless junk as priceless treasure," and the entire Sembian nobility he trades on is a signet ring and a confident manner. He fled Sembia after promising the Doge a rare dwarven artefact, borrowing the money for it and spending it, worked the slave auctions of Baldur's Gate as a Sembian merchant lord, and was taken by the Forsworn at the Snowdown plantation of Grenphal alongside a prostitute named Sadia whom he had introduced as his betrothed. The party rescued him at Bask Falls; he was knighted at Harloch among the Champions of the Evening Star, bought the Old Temple there jointly with the company, and by the middle arcs was running its transport and logistics.
 
 ## Bearing and arms
 
-Human, thirty-six. Height, weight, eyes, hair and colouring are left blank on his sheet. He travels with an **Amulet of Station**, fine clothes, perfume, a cello, a disguise kit, a forgery kit with ink pen, sealing wax and map case, and poison. He is AC 12 with 24 hit points and a dagger he is only modestly good with (+3, 1d4+1); his real statistics are WIS 18 and CHA 18, Deception +6, Persuasion +6, Insight +6. He speaks Common and Elvish and plays bagpipes, flute and lyre.
+Human, thirty-six. Height, weight, eyes, hair and colouring are left blank on his sheet. He travels with an **Amulet of Station**, fine clothes, perfume, a cello, a disguise kit, a forgery kit with ink pen, sealing wax and map case, and poison. He is AC 12 with 24 hit points and a dagger he is only modestly good with (+3, 1d4+1); his real statistics are WIS 18 and CHA 18, Deception +6, Persuasion +6, Insight +6. He speaks Common and Elvish and plays bagpipes, flute and lyre. Sam Roden, who played him, gave his background: "Apparently I'm a charlatan (with no pants)". <small>(Oral Histories: Temporal Holdings, 2017-08-28)</small>
 
 ## The confidence game
 
@@ -88,6 +104,14 @@ His own thread in Arc I is titled in the script: **The Brave Viceroy** — Couch
 ## Signature capability — wearing the enemy
 
 Couch's real spell is impersonation, and the campaign uses it as a key rather than a joke. When the deed to Leftfork must be delivered inside an Imperial function, the script's own solution is that "Couch could impersonate Shor" — and if he pulls it off, Commander Carlysle personally invites him to the Toast and seats him at his side. It nearly goes wrong immediately: the ship's crew, hunting for the real Thaddeus Shor, compel the disguised Cuthbert to follow them. Later, at Starfall Tower, it is a Couch spell running out the clock that lets Kara and Drefan stand ready for the invisible double of Drefan before it can act.
+
+## Motherstone, Sigil and after
+
+Sam Roden joined the game on 24 August 2017. <small>(Oral Histories: Temporal Holdings, 2017-08-24)</small> He did not level up at the end of Arc I: "Everyone leveled up last time, except Sam and Jordan." <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small> Dave wrote "a couple deleted scenes from the last arc to get fulori and couch into the mix" of [Motherstone](/places/motherstone/) <small>(Oral Histories: Temporal Holdings, 2018-01-24)</small>, and Couch and [Yoshi](/people/yoshi/) were on a side adventure of their own that spring. <small>(Oral Histories: Temporal Holdings, 2018-04-23)</small>
+
+When the invasion of Motherstone was stopped, "the last ship jumped back to Sigil with Couch on board". <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> JL's account: "Cuthbert stole one of his warships during the failed invasion of Motherstone but now he’s trapped." <small>(Oral Histories: Temporal Holdings, 2019-06-23)</small> On [Sigil](/places/sigil/) he was taken prisoner "by a gang of Wainwright St Cloud doppelgängers". <small>(JL. Oral Histories: Temporal Holdings, 2019-06-22)</small> The party travelled to Sigil and "located Couch in the brig at the SCTC and broke him out". <small>(Oral Histories: Temporal Holdings, 2019-08-22)</small>
+
+Among the "huge moments" Dave listed from the session of 9 November 2019 was "kara, dref and couch killing the doomkin before he could cast any spells". <small>(Oral Histories: Temporal Holdings, 2019-11-10)</small> In the week-long downtime of January 2021 came "Dref and Couch's miserable tropical vacation". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> At the table he was "Velvet": "Velvet returns next episode". <small>(Sam Roden. Oral Histories: Temporal Holdings, 2020-12-18)</small>
 
 ## Beliefs
 

@@ -29,6 +29,10 @@ tags:
 - Despondos
 - Brightmantle
 - Grey Sage
+- the Penteract
+- Soul Syphon
+- Zeal
+- Dis
 icon: fa-atom
 fields:
   type: Infernal Machine
@@ -48,14 +52,16 @@ sources:
 - CANON.md, Oral Histories batch 4
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2022-07-06"
 - "Oral Histories: The Inevitables, 2022-07-03"
+- "Oral Histories: The Inevitables, 2023-12-02"
 published: '2026-09-10'
 wa:
   slug: the-mammon-machine-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
 ---
 
-The **Mammon Machine** — **Zoth's Vessel** — is "the greatest treasure of (doomed Netheril)": an energy collection and amplification device with which the Netherese "claimed to have slain the god of death and captured his essence in the machine's heart." One of the **Infernal Machines**, kin to the [Lexicon](/items/the-lexicon/) and the [Obliviator](/items/the-obliviator/). It is half of the vessel of Zoth-Ommog, salvaged from the ocean floor beneath [R'lyeh](/places/rlyeh/) and carried forward in time by [Wainwright St. Cloud](/people/wainwright-st-cloud/); the Netherese powered their empire from it, and in the last loop [Brightmantle](/people/brightmantle/)'s collapse sent it into the desert. It now lies several miles deep in the Anauroch Desert, where St. Cloud hunts it for the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/).
+The **Mammon Machine** — **Zoth's Vessel** — is "the greatest treasure of (doomed Netheril)": an energy collection and amplification device with which the Netherese "claimed to have slain the god of death and captured his essence in the machine's heart." One of the **[Infernal Machines](/lore/the-infernal-machines/)**, kin to the [Lexicon](/items/the-lexicon/) and the [Obliviator](/items/the-obliviator/). It is half of the vessel of Zoth-Ommog, salvaged from the ocean floor beneath [R'lyeh](/places/rlyeh/) and carried forward in time by [Wainwright St. Cloud](/people/wainwright-st-cloud/); the Netherese powered their empire from it, and in the last loop [Brightmantle](/people/brightmantle/)'s collapse sent it into the desert. It now lies several miles deep in the Anauroch Desert, where St. Cloud hunts it for the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/).
 
 ## Where it comes from
 
@@ -70,6 +76,12 @@ Where the machines came from is told many ways, because of obliviation and the f
 They ran an empire on it. The Machine let them "strum the Weave like a guitar," powering the **Flux** that drove every mythallar and flying city of Netheril, drawing the magic of the dead through leylines emanating from it and from the Obliviator.
 
 And they broadcast the achievement. The Netherese proclaimed knowledge of their captured "god-monster, Cthulhu," and announced "that man had overcome the need for Gods."
+
+The party found out what powered it in the Time of Troubles. Dave: "Netheril is an egalitarian post scarcity utopia with ubiquitous magic for all at the cost of all mortal souls being fed into oblivion to power it", and "All the souls which March through Despondos get fed into the mammon machine and obliviated and it powers their society". <small>(Oral Histories: Temporal Holdings, 2022-07-06. See [Despondos](/places/despondos/).)</small>
+
+> So everyone on earth who dies eventually ends up forgotten to power some flying car or whatever
+
+<small>— Dave. (Oral Histories: Temporal Holdings, 2022-07-06)</small>
 
 ## Where it went
 
@@ -86,6 +98,16 @@ St. Cloud deceived them into bringing "all the magic of their world to bear agai
 At Starfall, in the past the party reached through the [Anachron](/items/the-anachron/), the Mammon Machine is neither buried nor alone. The session record names the apparatus the party has to defend in the drowned city of R'lyeh as the "mammon-obliviator-anachron" — this machine, the [Obliviator](/items/the-obliviator/) and the Anachron joined into one device — and gives St. Cloud's aim in sabotaging it: "to awaken and alert Cthulhu that his children are here" and "to veer toward Ydrissl." <small>(Arc V, [Starfall](/history/arc-v-starfall/), Parts II through IV.)</small> The Company's R&D had planned such a bridge: the administrative key to the Lexicon "is designed to match a design depicted in Netherese texts in attempt to be compatible with the Mammon Machine," because "R&D believes bridging the Obliviator and the Mammon Machine will enable the Oblivator to be like a broadcast system for thoughts." <small>(Sic on "in attempt" and "Oblivator." Arc IV, SCTC Archives.)</small>
 
 St. Cloud "tinkers with the infernal machine with the Anachron" and, when he judges the fight lost, "rushes the Anachron before his death and scrambles the core" and flees into a time portal. <small>(Arc V Parts V and VI.)</small>
+
+## The Penteract and Zeal
+
+Dave: "It used to be that the Mammon Machine and the Soul Syphon were are the heart of the Penteract, located at Sigil/Dis inside Despondos, a great labyrinth in the Shadowfell". <small>(Sic. Oral Histories: The Inevitables, 2023-12-02)</small> Its power "drew apostolic souls from the dead through the maze and into the syphon, where Thanatos (and later the Raven Queen) divided them into their heavens and hells". <small>(Oral Histories: The Inevitables, 2023-12-02)</small> See [the Penteract](/places/the-penteract/) and [Dis](/places/dis/).
+
+At the climax of the Time of Troubles the machine joined [Zeal](/places/zeal/)'s airship to the Penteract, where the party's army and friends waited. Dave: "The Mammon Machine connects the airship to the Penteract, your army is in the Penteract, your friends are too, if you separate it from the airship, how will you deliver them into the Egg?" <small>(Oral Histories: The Inevitables, 2022-07-03)</small>
+
+## Unmade
+
+When [Cypher](/people/stonecypher/) obliviated the eldritch machines and Cthulhu, the mechanisms of death had to be remade. Dave: "The sudden obligation of the mammon machine would have been enough to warp the space around it, sending Dis into the Hells and twisting the area around Sigil into a great Torus, the donut shape it has in planescape". <small>(Sic on "obligation". Oral Histories: The Inevitables, 2023-12-02)</small> See [Sigil](/places/sigil/) and [the Oblivia](/lore/the-oblivia/).
 
 ## Status
 

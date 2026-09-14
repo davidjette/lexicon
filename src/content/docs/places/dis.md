@@ -25,6 +25,9 @@ tags:
 - the Egg
 - Copperbane
 - Despondos
+- the Soul Syphon
+- Thanatos
+- Deadfall Peak
 - Infantaverse
 icon: fa-gavel
 fields:
@@ -38,6 +41,8 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-01-28"
 - "Oral Histories: The Inevitables, 2023-12-02"
 - "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2021-08-21"
+- sources/dave/2026-09-14-temple-holdings-batch2-questions.md
 published: '2026-09-10'
 wa:
   slug: the-city-of-dis-settlement
@@ -52,7 +57,7 @@ The **City of Dis** is the reflection of [Sigil](/places/sigil/). Both are **pla
 
 ## What happens there
 
-The souls of mortals — **themselves all fragments of Zoth's** — wander toward the Rift. At Dis the **God of Death** judges them and sends them on: to the Upper Planes, or to the hells of the Lower Planes.
+The souls of mortals — **themselves all fragments of Zoth's** — wander toward the Rift. At Dis the **God of Death** judges them and sends them on: to the Upper Planes, or to the hells of the Lower Planes. The power at the heart of the city "drew apostolic souls from the dead through the maze and into the syphon, where Thanatos (and later the Raven Queen) divided them into their heavens and hells". <small>(Dave. Oral Histories: The Inevitables, 2023-12-02)</small>
 
 That is the seat [Marcus](/people/marcus/) means when she asks the party to help her "restore my place at the heart of death," and it is what [the Lady of Pain](/people/the-lady-of-pain/) means by "He destroyed me and let **Asmodeus** take the land of the dead." [St. Cloud](/people/wainwright-st-cloud/) handed the judgement of the dead to a devil.
 
@@ -64,7 +69,13 @@ At the **Heart of Dis** lies a **fragment of the [Mammon Machine](/items/the-mam
 
 The Penteract was built in antiquity by [Tylerjynex](/people/tylerjinex/) with the god of puzzles, to keep the Banefae and the Netherese from taking the Seat. It is an impossible labyrinth the dead can solve because they have an eternity, and the living cannot.
 
+Dis itself lies inside [Despondos](/places/despondos/), the maze dimension in the Shadowfell that Tylerjinex made "to encase the Seat of Judgement, The corpse of Thanatos, and the Soul Syphon". <small>(Oral Histories: The Inevitables, 2021-08-21)</small> The Mammon Machine and the Soul Syphon were at the heart of the Penteract, "located at Sigil/Dis inside Despondos, a great labyrinth in the Shadowfell." <small>(Oral Histories: The Inevitables, 2023-12-02)</small>
+
 **Copperbane**, family sword of the Tudix, "is not lost, but is hidden in Despondos" — Glans "left it in a block of stone just outside the Penteract and walked away," to torment Valen and protect it forever. <small>(Arc VI Part VII.)</small>
+
+## Deadfall Peak
+
+**Deadfall Peak**, the peak of [Sigil](/places/sigil/) and the place where Sigil is built in the future, is a nexus corresponding to Dis. The Old Man's House and Starfall Tower, once the home of the Drow royal family, the Carls, stand there. When [the Lady of Pain](/people/the-lady-of-pain/) escapes Despondos she emerges at the peak, while the Raven Queen stays behind to rule Dis. <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small> See [Carls Jr and the Drow](/organizations/carls-jr-and-the-drow/).
 
 ## The Seat
 
@@ -75,6 +86,8 @@ The locus produced two things on its own: **a kingdom of death**, and **a seat f
 ## The kidnapping, and the Infanta crisis
 
 **Asmodeus and [St. Cloud](/people/wainwright-st-cloud/) conspired to trap the Raven Queen's soul in a mortal — [Marcus](/people/marcus/).** With the arbiter gone from the Seat, souls could no longer reach the outer realms, and Asmodeus hoarded them. Gods cut off from the souls that sustain them had to **descend into the world to be near their followers or risk extinction and irrelevance** — and descending means being born into a dying mortal child.
+
+When [Zanzibar](/people/zanzibar/) died in the crisis at Suzail, he saw the Shadowfell and the city of judgment on fire before he was ripped back to the world and called a hero. <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> See [the Suzail Coup](/history/the-suzail-coup/).
 
 ## After the Oblivia
 

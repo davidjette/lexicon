@@ -16,6 +16,7 @@ tags:
 - Banefae
 - the Grey Sage
 - the Queens
+- Deadfall Peak
 - Infantaverse
 icon: fa-dungeon
 fields:
@@ -31,6 +32,7 @@ sources:
 - CANON.md 5s
 - CANON.md Oral Histories batch 4
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-batch2-questions.md
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VII.txt
@@ -51,7 +53,7 @@ published: '2026-09-14'
 
 *Also known as:* the Maze of Despondos · the Mazes of Despondos · the maze
 
-**Despondos** is a maze dimension, "a great labyrinth in the Shadowfell", made in antiquity by the copper dragon [Tylerjynex](/people/tylerjinex/) to encase the Seat of Judgement, the corpse of Thanatos and the Soul Syphon. The places nest: Despondos holds [the City of Dis](/places/dis/), and Dis holds [the Penteract](/places/the-penteract/). The [Banefae](/organizations/the-banefae/), united by [Drefanmetra](/people/the-waning-one/), attacked the maze and enslaved Tylerjynex to reach the Penteract. The Queens of [Netheril](/places/netheril/) and the Grey Sage defeated the Banefae and cast them in; the machines were hidden there, and the Queens and the Grey Sage were themselves trapped inside for centuries until the sage, the Old Man, escaped. In Netheril's era the souls of the dead marched through Despondos to be fed into the [Mammon Machine](/items/the-mammon-machine/). In the Time of Troubles the party entered it through "the gate foretold" and fought Valen, Carl's Jr. and the Waning One at the peak of Sigil.
+**Despondos** is a maze dimension, "a great labyrinth in the Shadowfell", made in antiquity by the copper dragon [Tylerjynex](/people/tylerjinex/) to encase the Seat of Judgement, the corpse of Thanatos and the Soul Syphon. The places nest: Despondos holds [the City of Dis](/places/dis/), and Dis holds [the Penteract](/places/the-penteract/). The [Banefae](/organizations/the-banefae/), united by [Drefanmetra](/people/the-waning-one/), attacked the maze and enslaved Tylerjynex to reach the Penteract. The Queens of [Netheril](/places/netheril/) and the Grey Sage defeated the Banefae and cast them in; the machines were hidden there, and the Queens and the Grey Sage were themselves trapped inside for centuries until the sage, the Old Man, escaped. In Netheril's era the souls of the dead marched through Despondos to be fed into the [Mammon Machine](/items/the-mammon-machine/). In the Time of Troubles the party entered it through "the gate foretold" and fought Valen, Carl's Jr. and the Waning One at the peak of Sigil, which is Deadfall Peak.
 
 ## The making
 
@@ -111,7 +113,7 @@ When Cypher obliviated the eldritch machines and Cthulhu, the loss of the Mammon
 
 - **[The City of Dis](/places/dis/)** — the city at the pit of the rift, where the dead were judged.
 - **[The Penteract](/places/the-penteract/)** — the five-dimensional labyrinth around the Seat.
-- **The peak of Sigil** — where the party fought Valen, Carl's Jr. and the Waning One, and where Tylerjynex kept watch before the invasion of Netheril.
+- **The peak of Sigil** — also called Deadfall Peak; where the party fought Valen, Carl's Jr. and the Waning One, and where Tylerjynex kept watch before the invasion of Netheril. It is the nexus, corresponding to Dis, where [Sigil](/places/sigil/) is built in the future, and where the Lady of Pain emerges when she escapes Despondos. <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small>
 - **Copperbane's stone** — a block of stone just outside the Penteract.
 
 **Related:** [Tylerjynex](/people/tylerjinex/) · [The Banefae](/organizations/the-banefae/) · [Netheril](/places/netheril/) · [The Waning One](/people/the-waning-one/) · [Aurora & Astra Saharel](/people/aurora-and-astra-saharel/) · [The Mammon Machine](/items/the-mammon-machine/) · [The Infanta Timeline](/lore/the-infanta-timeline/)

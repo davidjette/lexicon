@@ -34,6 +34,10 @@ tags:
 - Tarrasque
 - Tiamat
 - Bahamut
+- Schmagnus
+- the time temple
+- the Moon
+- Banefae
 icon: fa-water
 fields:
   campaign: Temple Holdings LLC
@@ -53,7 +57,14 @@ sources:
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - "Oral Histories: Temporal Holdings, 2022-04-09"
 - "Oral Histories: Temporal Holdings, 2022-07-17"
+- "Oral Histories: Temporal Holdings, 2022-11-06"
+- "Oral Histories: Temporal Holdings, 2022-11-09"
+- "Oral Histories: Temporal Holdings, 2022-12-03"
+- "Oral Histories: Temporal Holdings, 2022-12-04"
+- "Oral Histories: Temporal Holdings, 2023-01-13"
+- "Oral Histories: The Inevitables, 2021-10-30"
 - "Oral Histories: The Inevitables, 2022-09-17"
+- "Oral Histories: The Inevitables, 2023-01-15"
 published: '2026-09-10'
 wa:
   slug: arc-vii-E28094-leviathan-plot
@@ -116,6 +127,24 @@ The Time of Troubles came to its climax as Zeal rose into orbit to meet the [Egg
 
 In the deep past [Karametra](/people/karametra/) seduced **Bahamut** and had the dragons build a **platinum temple** in which to cast **Move Planet**, to put the Moon into the path of the Egg. The party came to help her. Defending the temple while she cast the spell, they fought a tarrasque, some dragons, and then **Tiamat** herself, and they succeeded. <small>(Oral Histories: The Inevitables, 2022-09-17)</small>
 
+The Tarrasque came first. Dave called it "disappointing honestly" and followed it with "an all out dragon ambush with Tiamat", with [Percival](/people/percival/) still inside the temple as "technically the last line of defense between Tiamat and Karametra’s ritual". <small>(Oral Histories: The Inevitables, 2022-09-17)</small> Tiamat was killed there <small>(Oral Histories: The Inevitables, 2023-01-15)</small>, and was lost in the abyss until she reconstituted in Hell. <small>(Oral Histories: The Inevitables, 2021-10-30)</small>
+
+With about a week until Starfall, the party had to choose whether to save the [Banefae](/organizations/the-banefae/) and the other fae on [the Moon](/places/the-moon/) before its impact with the Egg, or go straight to the Obliviator. <small>(Oral Histories: Temporal Holdings, 2022-11-06)</small> In this era the gods of the world were not yet born, and [Asmodeus](/people/asmodeus/), a fallen celestial, had not yet fallen:
+
+> I suppose in this cosmology we are in a time before the gods of this world were born, before magic and reality was split open by the Starfall and blood of Zoth distributed into the mortal races.
+
+<small>— Dave. (Oral Histories: Temporal Holdings, 2022-11-09)</small>
+
+A simulacrum of [Brother Magnus](/people/brother-magnus/), named Schmagnus, was left in a [time temple beneath the sea](/places/the-time-temple-beneath-the-sea/), where it casts Temple of the Gods every day "to expand a permanent time vault at the bottom of the ocean", "Protecting all the evacuees from the moon and some perfect moonstones". <small>(Oral Histories: Temporal Holdings, 2022-12-03)</small> Magnus used Divine Intervention to make the simulacrum "effectively a real person", so that it can regain spell slots, and again the next day to make the Slow spell in the temple permanent. <small>(Oral Histories: Temporal Holdings, 2022-12-04)</small> The party then went to save the moon people. <small>(Oral Histories: Temporal Holdings, 2023-01-13)</small>
+
 ## Into Arc VIII
 
 With Brightmantle entombed, the alliance whole, and the Mammon Machine rising toward the Black Omen, the chronicle continues with the breaking of the Egg, the convergence of every Time, and the act of forgetting that ends the Age of the Infanta, in [Arc VIII — End of the Infanta](/history/arc-viii-end-of-the-infanta/).
+
+## Sessions
+
+- **2022-08-27** — Played in person; the Tarrasque.
+- **2022-10-08** — Played in person.
+- **2022-11-12** — The Moon before Starfall.
+- **2022-12-03** — The time temple beneath the sea.
+- **2023-01-14** — The moon people.

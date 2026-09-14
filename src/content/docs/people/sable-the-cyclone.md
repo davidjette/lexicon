@@ -23,6 +23,9 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__Ally Print.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- "Oral Histories: Temporal Holdings, 2019-03-03"
+- "Oral Histories: Temporal Holdings, 2023-04-23"
+- "Oral Histories: The Inevitables, 2021-10-30"
 published: '2026-09-10'
 wa:
   slug: sable2C-the-cyclone-person
@@ -42,9 +45,13 @@ image:
 
 ## The clan
 
-The **Nimbus Clan** is [House Nimbus](/organizations/house-nimbus/): the human servants of the Drow of House Carls who became the only people able to solve the Penteract. They refused to do it for their masters.
+The **Nimbus Clan** is [House Nimbus](/organizations/house-nimbus/): the human servants of the Drow of House Carls who became the only people able to solve the Penteract. They refused to do it for their masters. After her father sold the secret, St. Cloud killed the clan, which had guarded one of the machines in [Sigil](/places/sigil/): "Also Revan’s clan guarded one for a long time in Sigil which St Cloud killed them for." <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small>
 
 The **House of Nimbus** is a place in the chronicle. The Company's archives call "the situation related to House Nimbus… unacceptable," and in Arc IV Revan, [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth mount a full assault on it. <small>(Arc IV, The Infernal Machines, Part V.)</small>
+
+## Asmodeus's claim
+
+In the Time of Troubles Dave offered the party, once back in the "present", the option to "go to Hell to save Revans sister". <small>(Sic. Oral Histories: The Inevitables, 2021-10-30)</small> After the party escaped a trap set by [Asmodeus](/people/asmodeus/), JL recapped: "Wherever Revan’s sister is, she’s trying not to be found (she resisted scrying) and Asmodeus said she’s on Toril somewhere as his servant." LaMont, who played Revan, called it "an interesting development even if it’s from the prince of lies." <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
 
 ## At the Egg
 

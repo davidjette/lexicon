@@ -23,10 +23,15 @@ tags:
 - the Lady of Pain
 - Sigil
 - Dead Man's Hand
+- Percival
+- Saint Percy
+- Elohim
+- Cypheristuseloise
+- Cypherian Pontificate
 icon: fa-mask
 fields:
   type: Priestly sisterhood
-  founding: Unknown
+  founding: From the faith founded by St. Percival after the Ages of the Infanta
   leader: Brother Montegue, Factol of the Faceless
   seat: Sigil; the cathedral of Our Lady of Mysteries
   deity: Cypher, the god of Mystery
@@ -39,6 +44,13 @@ sources:
 - CANON.md 5aa
 - CANON.md 5ab
 - CANON.md 5ad
+- CANON.md 5ae (Oral Histories) C21
+- sources/dave/2026-09-14-temple-holdings-rulings-c17-c21.md
+- "Oral Histories: The Inevitables, 2023-02-03"
+- "Oral Histories: The Inevitables, 2023-11-29"
+- "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2025-04-21"
+- "Oral Histories: The Inevitables, 2025-10-31"
 published: '2026-09-14'
 ---
 
@@ -48,9 +60,25 @@ published: '2026-09-14'
 
 **The Sororia** is the priestly sisterhood of the devotees of **Cypher**, the god of Mystery, in [Sigil](/places/sigil/). Worship of gods or devils is taboo in Sigil, and temples there never grow too large for fear of [the Lady of Pain](/people/the-lady-of-pain/); the Sororia are the one exception. The order replaces the Fraternity of Order among the factions of the city, keeps [the Lexicon](/items/the-lexicon/) at the heart of [the High Courts](/places/the-high-courts-of-sigil/), and holds to the Ordo Trium, the Rule of Three. Its Factol is [Brother Montegue](/people/brother-montegue/), and its towering cathedral is [Our Lady of Mysteries](/places/our-lady-of-mysteries/), where [Heyu](/people/heyu/) was brought before him.
 
+## Founding
+
+The faith that becomes the Sororia was founded by [Percival](/people/percival/). He survived the final battle of the Ages of the Infanta with almost his whole life obliviated and his faith intact, and became the chief apostle of the church of Cypher, Istus and Eloise. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c17-c21.md)</small> The Heroes' Hill rhyme remembers him:
+
+> Saint Percy for an honest man did search, yet found he none
+
+<small>— the Heroes' Hill rhyme. (Oral Histories: The Inevitables, 2025-10-31)</small>
+
 ## Cypher and her sisters
 
-Cypher is one of the three **Fates**, laid out as Time, Fate and Mystery: **Eloise**, **Istus** and **Cypher**. Eloise is the god of Space and Time, Istus is the god of Fate and Time, and Cypher is the god of Mystery. The Factol speaks of "the Mother of Mysteries and her sisters". <small>(DM notes)</small>
+Cypher is one of the three **Fates**, laid out as Time, Fate and Mystery: **Eloise**, **Istus** and **Cypher**. Eloise is the god of Space and Time, Istus is the god of Fate and Time, and Cypher is the god of Mystery. The Factol speaks of "the Mother of Mysteries and her sisters". <small>(DM notes)</small> Dave has also named the three aspects "Elohim the goddess of time and space, Istus goddess of fate, and Cypher goddess of mysteries and secrets", worshipped "as a set of three goddesses, sometimes shown as sisters, other times as one being". <small>(Oral Histories: The Inevitables, 2024-04-27)</small>
+
+The faith's doxology:
+
+> Praise the eternal, the unknowable, the unsolvable Cypher
+
+<small>— Dave. (Oral Histories: The Inevitables, 2023-11-29)</small>
+
+Its oath joins the three names: "Cypheristuseloise is the equivalent in this universe of saying 'jesus h christ'". <small>(Dave. Oral Histories: The Inevitables, 2025-04-21)</small>
 
 The Faceless do not worship Cypher directly. They hold any appeal to her, any image of her, or any knowledge of her true nature to be "a blasphemous overreach into a holy and impenetrable unknown that she crafted around herself and the unspeakable truths which led to the Infanta Crisis itself." <small>(DM notes)</small> Their cathedral depicts no god and no recognisable creature, object or work.
 
@@ -93,6 +121,8 @@ The crisis named is [the Infanta Crisis](/lore/the-infanta-crisis/).
 The Sororia are the keepers of the Lexicon of the High Courts, "a tremendously powerful artifact, a magical oracle whose provenance and origin is of constant debate". <small>(DM notes)</small> It is a gargantuan construct, an eldritch machine made from an extraterrestrial crystal of hyperdense selenium, and its judgment is final for nearly every faction in Sigil. Its existence is not common knowledge. <small>(DM notes)</small>
 
 Behind the scenes, the Church of Cypher, the Company and many others are trying to create more Lexicons, to copy the original, or to avoid domination by it.
+
+In the Starfall era the leadership of the Sovereignty is advised by the Lexicon, "whose main node is in Sigil, overseen by what emerged from the church of Cypher which, of course, saved the world from the Leviathan". <small>(Dave. Oral Histories: The Inevitables, 2023-02-03)</small> See [the Cypherian Pontificate](/organizations/the-cypherian-pontificate/).
 
 ## The Factol
 

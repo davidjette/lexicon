@@ -27,6 +27,9 @@ tags:
 - the Netherese
 - Netheril
 - the Founding
+- Drefan
+- Battle of the River Lis
+- Ella
 icon: fa-moon
 fields:
   rpgAlignment: Chaotic Good (published Forgotten Realms canon for Eilistraee; no local source states it)
@@ -56,6 +59,15 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - CANON.md (5c)
 - CANON.md 5x (the DM's account, 2026-09-10)
+- "Oral Histories: Temporal Holdings, 2017-08-23"
+- "Oral Histories: Temporal Holdings, 2017-09-06"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Temporal Holdings, 2019-05-05"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2019-05-29"
+- "Oral Histories: Battle of River Lis, 2019-12-17"
+- "Oral Histories: Battle of River Lis, 2019-12-19"
+- "Oral Histories: Temporal Holdings, 2023-04-23"
 published: '2026-09-10'
 wa:
   slug: elistrae-person
@@ -64,7 +76,7 @@ wa:
 
 **Goddess incarnate (the Infanta) · Chaos, beauty, moonlight, the hunt · House Gallidann / the Lusmundii · Living, enthroned at Motherstone**
 
-*Also known as:* the Infanta of the Moon · the Dark Maiden · Elistraee · Elistrada (in her first incarnation)
+*Also known as:* the Infanta of the Moon · the Dark Maiden · Elistraee · Elistrada (in her first incarnation) · Ella
 
 **Elistrae** is the cast-out moon-goddess at the centre of the chronicle: "an Elven god of chaos, beauty, hunting, moonlight and song… the god of all dark elves who have left the Underdark to come to live on the surface." Sister of **Lolth**, daughter of **Sylvanus**, she is the deity who hides inside mortal children to be born into the world as the [Infanta](/lore/the-infanta/). In the age the elves call the Heavenfall she entered a dying human child on Snowdown and grew into the living goddess-queen **Elistrada**, who met [Stone](/people/stone-infanta-of-discovery/) — the incarnation of the dwarven god [Brightmantle](/people/brightmantle/) — as a teenager on the battlefield, fell in love with him, founded the crystal city of [Motherstone](/places/motherstone/) with him, took his part in the war that obliviated the Netherese, and was left a weeping queen when Stone threw himself into the [Obliviator](/items/the-obliviator/) to be forgotten.
 
@@ -100,9 +112,15 @@ The whole first arc turns on one instruction, spoken by the spectral echo of [St
 
 > Who are you, champions? Who are you, champions of Elistrae and the Moonshae Isles? Tell me your names so I may sing songs of you among the gildergreens in throne forests of Arboria… But she mustn't be raised as a god. She must be a child, living beneath the Gildergreen.
 
+## The kidnapping
+
+At the end of one session of [Hope in Exile](/history/arc-i-hope-in-exile/), Elistrae was kidnapped. <small>(Oral Histories: Temporal Holdings, 2017-08-23)</small> In the next session the party went after her, attacked a major base of their enemy and won outright, killed two mid-level villains, drew the attention of an evil fae goddess, and "saved the baby". <small>(Oral Histories: Temporal Holdings, 2017-09-06)</small>
+
 ## The Council of Forgetting
 
 <small>Recovered from the Oblivia.</small> With her capital reclaimed she convenes a Council — Kara, Magnus, Drefan, Roland, Yoshi, and the survivors of Motherstone — to decide the city's place in the new world. There are two paths: tune the [Obliviator](/items/the-obliviator/) to hide Motherstone and Snowdown from the rest of the world and operate from the shadows, or open the city and fulfil the destiny of the Lexicon by gathering the next generation of Infanta together to preserve divine power in the Material Plane. House Gallidann, radicalised by its long alliance with the Forsworn and Calix, strains toward forgetting. The Lexicon argues to stay open — but will do as she asks.
+
+After the fall of the Arcaneum, Dave wrote that "Ella considers herself monarch of Motherstone". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
 
 ## Brightmantle and the broken Lexicon
 
@@ -114,13 +132,23 @@ Brightmantle built the [Lexicon](/items/the-lexicon/) to run the heart of the ci
 
 <small>— Lex, Arc IV, The Infernal Machines, Part II, "Order of Awakening."</small>
 
-The same passage records her state after the Second Battle of Motherstone: "Now that the Lexicon is broken, she is cutoff from moon worshipers all across the Universe, and she is desperate to repair it and complete Brightmantle's vision of a City of Infanta, a holy arc through the Time of Troubles." She "has directed her servants to seek out the oldest and wisest of spellcasters and engineers from across the land" — the archmagi of the Arcaneum, the Blackstaff of Waterdeep, the Grand Wizard of Thay, the arcanagnomes of Greygarden and the forgemaster dwarves of the Sword Mountains — while Ilana and Untari urged her to abandon Motherstone and retreat to the Gildergreen. <small>(Sic on "cutoff." Arc IV Part II. By then the Lexicon had been moved into the Anachron by Roland and Magnus, and Lex speaks from there; see [The Anachron](/items/the-anachron/).)</small>
+The same passage records her state after the Second Battle of Motherstone: "Now that the Lexicon is broken, she is cutoff from moon worshipers all across the Universe, and she is desperate to repair it and complete Brightmantle's vision of a City of Infanta, a holy arc through the Time of Troubles." She "has directed her servants to seek out the oldest and wisest of spellcasters and engineers from across the land" — the archmagi of the Arcaneum, the Blackstaff of Waterdeep, the Grand Wizard of Thay, the arcanagnomes of Greygarden and the forgemaster dwarves of the Sword Mountains — while Ilana and Untari urged her to abandon Motherstone and retreat to the Gildergreen. <small>(Sic on "cutoff." Arc IV Part II.)</small> Lex had been built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is the Anachron; about three rounds into the Second Battle of Motherstone he transferred himself to the ship, and the Motherstone Lexicon died. Lex speaks from the ship. <small>(Oral Histories: Temporal Holdings, 2019-05-05, 2019-05-28. See [The Anachron](/items/the-anachron/).)</small>
+
+During the Second Battle of Motherstone [Drefan](/people/drefan/) "realized the danger to the infanta and rushed to her side to defend elistrae during the invasion". <small>(Oral Histories: Temporal Holdings, 2019-05-29)</small> Before the [Battle of the River Lis](/history/the-battle-of-the-river-lis/), Magnus and Drefan tried to get Elistrae to join the fight <small>(Oral Histories: Battle of River Lis, 2019-12-17)</small>, and the allied army listed her among its reserves as "Elistrae?". <small>(Oral Histories: Battle of River Lis, 2019-12-19)</small>
 
 In Arc VII, when the party returns to Motherstone, "Brightmantle is dead. Elistrae and the entire city weeps." She "is heartbroken but rallies her people to their final calling," the assault on Netheril. <small>(Arc VII, Leviathan I, "The Throne of Tears.")</small>
 
 ## What she is beneath the goddess
 
 <small>Recovered from the Oblivia.</small> At the end of time, the goddess **June** gives the floor under everything: the gods of this realm are the split soul of the Star Child, whose name was **Zoth-Ommog**, who left their father somewhere deep in the dark and fled him across all of time. Elistrae is also a fragment of divided memory, hiding from a blind devourer in the one place he cannot look — a self that happens *in Time*.
+
+## Drefan
+
+In the final arc, after the party escaped a trap set by [Asmodeus](/people/asmodeus/), "the big news was Drefan made out with Elistrae". <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
+
+> She’s the oldest infanta. She kissed me. I redirected from lips to forehead. … I’ve waited 400 years for someone like her- what’s another 3?
+
+<small>— Drefan, in the words of Adam, who played him. (Oral Histories: Temporal Holdings, 2023-04-23)</small>
 
 ## Right now
 

@@ -5,7 +5,12 @@ type: organization
 kind: organizations
 tags:
 - Carls Jr
+- Carl's Jr.
 - the Carls
+- Starfall Tower
+- Deadfall Peak
+- Despondos
+- the Waning One
 - Carls III
 - Drow
 - Onyxbane
@@ -21,6 +26,11 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- sources/dave/2026-09-14-temple-holdings-batch2-questions.md
+- "Oral Histories: Temporal Holdings, 2021-10-10"
+- "Oral Histories: Temporal Holdings, 2021-10-23"
+- "Oral Histories: The Inevitables, 2021-09-06"
+- "Oral Histories: The Inevitables, 2021-10-23"
 published: '2026-09-10'
 wa:
   slug: carls-jr-and-the-drow-organization
@@ -34,6 +44,8 @@ image:
 
 **Drow nobles · Bearers of Onyxbane · Allies from Arc VII**
 
+*Also known as:* Carl's Jr. and the Drow
+
 **Carls Jr and the Drow** are what is left of the Carls, a drow noble house reduced to its hardiest survivors in the Underdark, and an allied people of the final battle at the Egg. The line was once numerous enough to fill a tower and was worn away over generations in far-flung planes, foolish quests and botched robberies, until the survivors hid themselves away underground. **Carls Jr** leads them. At [Brightmantle](/people/brightmantle/)'s funeral the house pledged itself to the rightful heir of **Onyxbane**.
 
 ## The decline of the house
@@ -45,6 +57,24 @@ The family's decline is told twice over. The card gives the long attrition — a
 <small>— the Carls Jr Ally Card.</small>
 
 A "Carls" is among those hunting unicorns in Arc V. <small>(Starfall Part IV.)</small>
+
+## Starfall Tower and Deadfall Peak
+
+**Starfall Tower** was once the home of the Drow royal family, the Carls. It stands at **Deadfall Peak**, the peak of [Sigil](/places/sigil/) and the place where Sigil is built in the future, a nexus corresponding to [Dis](/places/dis/). <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small> Dave named "the drows origin as Dark Elves cut off from Starfall" among the stories of the campaign's water side. <small>(Oral Histories: The Inevitables, 2021-09-06)</small>
+
+## The battle at the peak
+
+In the Time of Troubles the party entered [Despondos](/places/despondos/) "through the gate foretold", spared some wounded Drow in the maze, and "confronted Valen, Carl’s Jr. and The Waning One at the peak of Sigil". <small>(Oral Histories: Temporal Holdings, 2021-10-10)</small> They charmed [the Waning One](/people/the-waning-one/), and "bested Carl’s Jr. and convinced her and the Drow to join your effort", while [Valen](/people/valen/) died in a puddle of acid. <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small>
+
+That night Dave told the party what they had changed:
+
+> You guys just saved the Drow and prevented their split from the elves, this defeat left their colonies in the underdark isolated and their hatred of men and the moon gods of the elves was cemented
+
+> They gave in to their worse slaver tendencies and became the Drow, and Starfall tower was more or less empty for hundreds of years
+
+> As Sigil was built around it
+
+<small>— Dave. (Oral Histories: The Inevitables, 2021-10-23)</small>
 
 ## Onyxbane
 

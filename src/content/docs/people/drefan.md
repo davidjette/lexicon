@@ -58,6 +58,29 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-10-23"
 - "Oral Histories: Temporal Holdings, 2021-12-04"
 - "Oral Histories: The Inevitables, 2021-08-21"
+- "Oral Histories: Temporal Holdings, 2017-08-31"
+- "Oral Histories: Temporal Holdings, 2018-06-04"
+- "Oral Histories: Temporal Holdings, 2018-06-26"
+- "Oral Histories: Temporal Holdings, 2018-10-21"
+- "Oral Histories: Temporal Holdings, 2018-10-25"
+- "Oral Histories: Temporal Holdings, 2019-02-11"
+- "Oral Histories: Temporal Holdings, 2019-02-15"
+- "Oral Histories: Temporal Holdings, 2019-02-20"
+- "Oral Histories: Temporal Holdings, 2019-05-29"
+- "Oral Histories: Temporal Holdings, 2019-08-26"
+- "Oral Histories: Temporal Holdings, 2019-10-01"
+- "Oral Histories: Temporal Holdings, 2019-11-11"
+- "Oral Histories: Temporal Holdings, 2020-01-08"
+- "Oral Histories: Temporal Holdings, 2020-07-11"
+- "Oral Histories: Temporal Holdings, 2020-08-08"
+- "Oral Histories: Temporal Holdings, 2021-01-16"
+- "Oral Histories: Temporal Holdings, 2021-11-11"
+- "Oral Histories: Temporal Holdings, 2022-04-10"
+- "Oral Histories: Temporal Holdings, 2023-01-15"
+- "Oral Histories: Temporal Holdings, 2023-04-23"
+- "Oral Histories: Temporal Holdings, 2023-10-16"
+- "Oral Histories: The Inevitables, 2021-10-01"
+- "Oral Histories: The Inevitables, 2023-01-15"
 published: '2026-09-10'
 wa:
   slug: drefan-person
@@ -75,6 +98,8 @@ wa:
 ## Bearing and arms
 
 No portrait of Drefan survives in the session record. The sheet gives a wood elf druid of the fifth level, Chaotic Good, acolyte-raised: AC 13, 35 hit points, a 35-foot stride, darkvision to sixty feet, immune to magical sleep by Fey Ancestry. His wisdom carries him (WIS 16) and his charisma does not (CHA 8). He speaks Common, Druidic, Dwarvish, Elvish and Sylvan, moves unseen in light cover by Mask of the Wild, carries a herbalism kit, and the sheet lists his weapon simply as **Moonsword** — annotated, in Dave's hand, *Silver Bane*. Under Flaws the sheet says only: *"Cares too much."*
+
+Dave approved the homebrew cantrip **Hershey Squirt** for him. <small>(Oral Histories: Temporal Holdings, 2017-08-31)</small> Its target, within 30 feet, must succeed on a Constitution saving throw or soil itself, and attacks against it have advantage until the start of the caster's next turn. <small>(Oral Histories: Temporal Holdings, 2019-02-11)</small> By the Arcaneum campaign he could change his appearance at will, and he wore boots of speed, mithril chain and the Daymoon amulet, <small>(Oral Histories: Temporal Holdings, 2019-02-15, 2019-02-20)</small> which Dave later described as "a free long rest and I gave him before I knew how to balance 5e". <small>(Oral Histories: Temporal Holdings, 2021-11-11)</small> He can sidestep, as Roland and Revan can. <small>(Oral Histories: Temporal Holdings, 2020-01-08)</small>
 
 ## Origin
 
@@ -100,15 +125,39 @@ Silverbane is a witness with a persistent memory and blank spaces in it, and Dre
 
 <small>— Silverbane, Arc VI</small>
 
+Silverbane's own item text, written by Dave:
+
+> Retrieved from the descrated sepulcher of his ancestor Daenan, Drefan Gallidan set off the final loop of the Leviathan Cycle by awakening Daenan's baelnorn, sinking the Evening Star and initiating the events that led to the discovery and rescue of the Forgotten Realms of Faerun.
+
+<small>(Sic on "descrated". Oral Histories: The Inevitables, 2023-01-15)</small>
+
 ## The Master Runes
 
-A Master Rune on Silverbane is opened by a previous owner's blessing. Star Quendi's blessing at Bask Falls Barrow opened one, and each of the blade's other previous owners blessed Drefan with their rune's power **except Daenan**, whom the party never went back to contact. Drefan then added his own rune, his capstone power: *"if you strike a creature with this bow and it has fewer than 100 hit points, it dies."* <small>(sic)</small>
+A Master Rune on Silverbane is opened by a previous owner's blessing. Star Quendi's blessing at Bask Falls Barrow opened one, and each of the blade's other previous owners blessed Drefan with their rune's power **except Daenan**, whom the party never went back to contact. Drefan then added his own rune, his capstone power: *"if you strike a creature with this bow and it has fewer than 100 hit points, it dies."* <small>(sic)</small> Dave: "Dref has added three runes to his by speaking to ancestors at tombs early in the campaign". <small>(Oral Histories: The Inevitables, 2021-10-01)</small>
+
+## Motherstone to the Time of Troubles
+
+In the Arcaneum at Motherstone, Drefan touched a staff in which a spirit naga was bound, and freed it. <small>(Oral Histories: Temporal Holdings, 2018-06-04)</small> For the finale of [Arc II](/history/arc-ii-motherstone/), Dave gave Drefan [Yoshi](/people/yoshi/)'s lightsaber. <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small>
+
+At [Whitehorn](/places/whitehorn/), Drefan cured [Revan](/people/revan-darkcember/) after his wounds turned him into a zombie. <small>(Oral Histories: Temporal Holdings, 2018-10-21)</small> Drefan and Roland both saved bands of enslaved children there. Drefan's became [Drefan's Kids](/organizations/drefans-kids/), and he used Quendi's boon on them, once a day. <small>(Oral Histories: Temporal Holdings, 2018-10-25)</small> Dave later ruled: "Drefs kids run the boat, they’re not a potion factory". <small>(Oral Histories: Temporal Holdings, 2019-11-11)</small>
+
+In the Second Battle of Motherstone, "Drefan realized the danger to the infanta and rushed to her side to defend elistrae during the invasion". <small>(Oral Histories: Temporal Holdings, 2019-05-29)</small> In [Sigil](/places/sigil/) he went into the Maze <small>(Oral Histories: Temporal Holdings, 2019-08-26)</small>, and in "the maze of infinite pain" he found his own body "with a message to himself hidden in the rock". <small>(Oral Histories: Temporal Holdings, 2019-10-01)</small> Dave: "young calix looks related to drefan because he is". <small>(Oral Histories: Temporal Holdings, 2020-01-08)</small>
+
+By the Time of Troubles Drefan and [Magnus](/people/brother-magnus/) had lost their divine spells, and Dave suggested they "go find some of the Infanta that would give Magnus and Dref their spells back". <small>(Oral Histories: Temporal Holdings, 2020-07-11)</small> The two of them turned down Eloise as a patron. <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small> In a week-long downtime Drefan and [Cuthbert Couch](/people/cuthbert-couch/) took a "miserable tropical vacation". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small>
 
 ## The Waning One
 
 **Drefanmetra**, the **[Waning One](/people/the-waning-one/)**, is a version of Drefan from another arc. He vowed to stop [the moon](/places/the-moon/) being moved, which would have saved the home of the elves and doomed Toril, and he failed. He went forward in time as the Waning One to preempt [St. Cloud](/people/wainwright-st-cloud/), and organised the **[Banefae](/organizations/the-banefae/)**, the remaining heads of each elvish house, to steal the [Mammon Machine](/items/the-mammon-machine/) for themselves "and send him back to try again". <small>(Dave, 2026-09-14)</small> "The Banefae United by Drefanmetra attack the maze and enslaved TJ to get into the Penteract at the heart of Despondos." <small>(Oral Histories: The Inevitables, 2021-08-21)</small>
 
 The Waning One fought the party alongside **[Valen](/people/valen/)** and [Carl's Jr.](/organizations/carls-jr-and-the-drow/) at Deadfall Peak. The party charmed him <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> and imprisoned him in his own sword <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>. He is held in Silverbane, which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, 2026-09-14)</small>
+
+## The final arc
+
+In the session of 2022-04-09 Drefan brought [Eloise](/people/stonecypher/) back in the first turn, which Dave called "a huge huge huge move". <small>(Oral Histories: Temporal Holdings, 2022-04-10)</small> On [the Moon](/places/the-moon/) he saved bunnies, and Dave agreed they could be trained as battle bunnies. <small>(Oral Histories: Temporal Holdings, 2023-01-15)</small>
+
+After the party escaped a trap set by [Asmodeus](/people/asmodeus/), Dave reported that "Drefan made out with Elistrae". Adam, who played Drefan, wrote of [Elistrae](/people/elistrae/): "I’ve waited 400 years for someone like her- what’s another 3?" <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
+
+In Dave's epilogue after the finale, "a populist revolution" follows, in which Drefan leads "an ecoterrorist group to revive the leviathan and return the world to nature". <small>(Oral Histories: Temporal Holdings, 2023-10-16)</small>
 
 ## Right now
 
