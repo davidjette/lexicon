@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 9 — The Death Warrant and the Ringer
 description: An Imperial death warrant names the Korranberg genocide, and the ghost of Sedda Deeptempura hands over the horn and the hammer KNELL.
+tags:
+  - Korth Ep 9
+  - The Death Warrant and the Ringer
+  - Sedda Deeptempura
+  - Velen Marsk
+  - Kaius III
+  - KNELL
+  - Corn's Horn
+  - Corn's Folio
+  - Egg Roll
+  - Consecration Rite
+  - John C. LeBeefe
+  - Maelis Dorn
+image:
+  src: /images/uploads/korth-ep-9-the-death-warrant-and-the-rin-mu0smfsy.webp
 sidebar:
   order: 309
 type: report
 kind: sessions
-tags:
-- Korth Ep 9
-- The Death Warrant and the Ringer
-- Sedda Deeptempura
-- Velen Marsk
-- Kaius III
-- KNELL
-- Corn's Horn
-- Corn's Folio
-- Egg Roll
-- Consecration Rite
-- John C. LeBeefe
-- Maelis Dorn
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-9-E28094-the-death-warrant-and-the-ringer-report
