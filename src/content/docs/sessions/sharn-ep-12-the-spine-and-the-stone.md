@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 12 — The Spine and the Stone
 description: The Cogborn are evacuated through the Spine and a Dhakaani chamber to R.U.S.T., and Locke Pierce comes in person to thank the trio.
+tags:
+  - Sharn Ep 12
+  - The Spine and the Stone
+  - Blair
+  - Berenstain
+  - Cogborn
+  - Chamber Room
+  - Stone Golem
+  - Dhakaani
+  - Lexicon
+  - Locke Pierce
+  - The Hundreds
+  - Doppler Klink
+image:
+  src: /images/uploads/sharn-ep-12-the-spine-and-the-stone-mu0rv9qc.webp
 sidebar:
   order: 212
 type: report
 kind: sessions
-tags:
-- Sharn Ep 12
-- The Spine and the Stone
-- Blair
-- Berenstain
-- Cogborn
-- Chamber Room
-- Stone Golem
-- Dhakaani
-- Lexicon
-- Locke Pierce
-- The Hundreds
-- Doppler Klink
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-12-E28094-the-spine-and-the-stone-report
