@@ -1,21 +1,23 @@
 ---
 title: Hopper
 description: Proprietor of Hopper's Magic Emporium, who discovered his customers were his new landlords and became the rebellion's supplier that afternoon.
+tags:
+  - Hopper
+  - Hopper's Magic Emporium
+  - Sub-line District
+  - The Arcade
+  - Sharn
+  - Lower City
+  - Edwin Graves
+  - Candy Crush
+  - Ring of Spell Storing
+  - Summon Dragon
+  - Magic Shop
+  - Valtrex
+image:
+  src: /images/uploads/hopper-mu0kf05t.webp
 type: person
 kind: people
-tags:
-- Hopper
-- Hopper's Magic Emporium
-- Sub-line District
-- The Arcade
-- Sharn
-- Lower City
-- Edwin Graves
-- Candy Crush
-- Ring of Spell Storing
-- Summon Dragon
-- Magic Shop
-- Valtrex
 icon: fa-shop
 fields:
   rpgAlignment: Unknown
@@ -32,9 +34,9 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: hopper-person
