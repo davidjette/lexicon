@@ -1,21 +1,24 @@
 ---
 title: Sister Nora
 description: 'The Empress''s eyes in Sharn: the Black Dove cleric who gave up Project E.D.E.N. and the Eternal Nightfall, and could not speak one name.'
+tags:
+  - Sister Nora
+  - Nora
+  - Black Doves
+  - Sanctum of the Last Mercy
+  - Black Dove Hospital
+  - Project EDEN
+  - E.D.E.N.
+  - EDN-00
+  - Eternal Nightfall
+  - BioTec
+  - Edwin Graves
+  - Cog Collector
+image:
+  src: /images/site/sister-nora-2.webp
+  alt: Sister Nora
 type: person
 kind: people
-tags:
-- Sister Nora
-- Nora
-- Black Doves
-- Sanctum of the Last Mercy
-- Black Dove Hospital
-- Project EDEN
-- E.D.E.N.
-- EDN-00
-- Eternal Nightfall
-- BioTec
-- Edwin Graves
-- Cog Collector
 icon: fa-user-nurse
 fields:
   rpgAlignment: Unknown — no record
@@ -32,17 +35,14 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/wa/the-black-doves-organization.txt
+  - sources/site/key-figures.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/wa/the-black-doves-organization.txt
 published: '2026-09-10'
 wa:
   slug: sister-nora-person
   category: 25384e32-6c51-426d-8263-5535b8295114
-image:
-  src: /images/site/sister-nora-2.webp
-  alt: Sister Nora
 gallery:
   - src: /images/site/sister-nora-1.webp
     alt: Sister Nora
@@ -135,3 +135,5 @@ She is ash, by her enemies' own ordinance. What she said in that cellar is still
 - **Donna** — the Silver Flame cleric who kept her cell and reported that she was refusing to eat.
 
 **Hobbies & Pets** — None recorded.
+
+![Sister Nora - Eternal Night.png](/images/uploads/sister-nora-eternal-night-mu0v0tj8.webp)
