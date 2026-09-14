@@ -1,21 +1,23 @@
 ---
 title: R.U.S.T.
 description: 'Resistance Under Sharn''s Tyranny: a Cogborn and Warforged escape network whose goal was never liberation, only survival.'
+tags:
+  - R.U.S.T.
+  - RUST
+  - Resistance Under Sharns Tyranny
+  - Preacher
+  - Cogborn
+  - The Cogs
+  - Warforged
+  - Gorgonhorn
+  - Misty Kross
+  - Kriss Kross
+  - DJ Rust
+  - Sharn
+image:
+  src: /images/uploads/r-u-s-t-mu0qi3bv.webp
 type: organization
 kind: organizations
-tags:
-- R.U.S.T.
-- RUST
-- Resistance Under Sharns Tyranny
-- Preacher
-- Cogborn
-- The Cogs
-- Warforged
-- Gorgonhorn
-- Misty Kross
-- Kriss Kross
-- DJ Rust
-- Sharn
 icon: fa-gears
 fields:
   type: Resistance and evacuation network
@@ -25,11 +27,11 @@ fields:
   status: Active
   allies: The Hundreds, the Underhive, the Nest
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/home.txt
-- worldanvil/images/rebel-factions/11.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - worldanvil/images/rebel-factions/11.jpg
 published: '2026-09-10'
 wa:
   slug: rust-organization
