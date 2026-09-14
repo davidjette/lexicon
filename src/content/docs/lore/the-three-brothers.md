@@ -20,6 +20,8 @@ tags:
 - Baldur's Gate
 - Waterdeep
 - Infantaverse
+- Roland's Cube
+- the Palantir
 icon: fa-book-skull
 fields:
   type: Fairy tale; true
@@ -31,6 +33,10 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
 - CANON.md 5e (the DM's account, 2026-09-10)
+- CANON.md 5ae (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-10-14"
 published: '2026-09-10'
 wa:
   slug: the-three-brothers-myth
@@ -79,12 +85,14 @@ The fortune teller will not name it. The black book carries knowledge of [Cthulh
 
 **Ysmir's sextant.** The Quicksilver Sextant "reveals the direction of any known object, place or person. The path it suggests will always avoid all storms and pirates." Ysmir was a slaver, and the *Evening Star*'s luck was worked by an enslaved dark-elf Navigator kept compliant with enchanted rum. Ysmir is the first of the brothers to die. <small>(Arc I, Hope in Exile, Parts I–III.)</small>
 
-**Carlysle's heart.** The engine pumps on *even if his body is destroyed*. The party killed him and buried him, and the heart dug itself out of the grave <small>(see [Carlysle St. Cloud](/people/carlysle-st-cloud/))</small>. It ended in the [Obliviator](/items/the-obliviator/)'s singularity.
+**Carlysle's heart.** The engine pumps on *even if his body is destroyed*. The party killed him and buried him, and the heart dug itself out of the grave <small>(see [Carlysle St. Cloud](/people/carlysle-st-cloud/))</small>. At the Second Battle of Motherstone the party captured Carlysle in [Roland's Cube](/items/rolands-cube/) and threw him and the [Palantir](/items/the-palantir/) into the [Obliviator](/items/the-obliviator/). <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
 
 **Wainwright's book.** "The book made him its master and it his."
 
 ## The trifecta
 
-After Carlysle's obliviation, "a mysterious change to the trifecta of St. Cloud… extended to Wainwright and shaped much of his hatred of the party from then on." <small>(Nobody in Motherstone remembered Carlysle afterwards, only that Roland had done it.)</small>
+After Carlysle's obliviation, "a mysterious change to the trifecta of St. Cloud… extended to Wainwright and shaped much of his hatred of the party from then on." <small>(Nobody in Motherstone remembered Carlysle or the Palantir afterwards; the city believed Roland had betrayed it.)</small>
+
+Hearing the tale again later did not bring back the party's memory of Carlysle. Dave: "The Obliviator still clouds everything around Carlysle and it still has erased the Palantir, but now you can put a name to it and Roland can reason and appreciate that he got his revenge". <small>(Oral Histories: Temporal Holdings, 2019-10-14)</small>
 
 **Related:** [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [Carlysle St. Cloud](/people/carlysle-st-cloud/) · [Roland Deschain](/people/roland-deschain/) · [The Obliviator](/items/the-obliviator/) · [The Leviathan](/lore/the-leviathan/) · [Arc I: Hope in Exile](/history/arc-i-hope-in-exile/)

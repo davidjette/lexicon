@@ -31,10 +31,16 @@ tags:
 - Elistrada
 - the Netherese
 - Netheril
+- Eldritch Machines
+- Zoth
+- R'lyeh
+- the Palantir
+- Carlysle St. Cloud
+- Roland's Cube
 icon: fa-circle-notch
 fields:
   type: Infernal Machine
-  creator: Older than human civilization; makers unrecorded
+  creator: A part of Zoth's craft; its origin is told many ways
   owner: Uncontrolled
   material: Unrecorded; an orb within a bronze ring
   rarity: Unknown
@@ -51,21 +57,31 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part IX.txt
 - worldanvil/CANON.md
 - CANON.md 5x (the DM's account, 2026-09-10)
+- CANON.md 5ae (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2021-10-30"
 published: '2026-09-10'
 wa:
   slug: the-obliviator-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
 ---
 
-The **Obliviator** is the motionless orb suspended in the great bronze ring above [Motherstone](/places/motherstone/) — one of the **Infernal Machines**, "much older than human civilization," and the source of every absence the world calls [Oblivia](/lore/the-oblivia/).
+The **Obliviator** is the motionless orb suspended in the great bronze ring above [Motherstone](/places/motherstone/) — one of the **Infernal Machines**, "much older than human civilization," and the source of every absence the world calls [Oblivia](/lore/the-oblivia/). The Infernal Machines are parts of Zoth's craft and of [R'lyeh](/places/rlyeh/), scattered over deep time, and their origin is told in many competing ways.
 
 ## Where it comes from
 
-It is a **part of Zoth's ship**. The vessel of **Zoth-Ommog** — the Star Child, whose split soul are the gods of this realm — lay dormant on the ocean floor, and the aboleth built the city of [R'lyeh](/places/rlyeh/) around it. The **Infernal Machines** are salvage off that ship: the [Mammon Machine](/items/the-mammon-machine/) is half of the vessel, and the [Obliviator](/items/the-obliviator/) and [Anachron](/items/the-anachron/) were both parts of it.
+The Infernal, or Eldritch, Machines are **parts of Zoth's craft and of R'lyeh, scattered over deep time**. Obliviation and the fog of history have produced many false tellings of where they came from. Some know them as Netherese; when the Netherese were obliviated the machines had new owners, and so on down the ages. Only [Wainwright St. Cloud](/people/wainwright-st-cloud/) had anything like the full picture, and [Temple Holdings LLC](/lore/temple-holdings-llc/) held it briefly. The [Lexicon](/items/the-lexicon/) wishes it could know the full story, and that wish drives it insane.
+
+### Zoth's ship
+
+The vessel of **Zoth-Ommog** — the Star Child, whose split soul are the gods of this realm — lay dormant on the ocean floor, and the aboleth built the city of [R'lyeh](/places/rlyeh/) around it. The **Infernal Machines** are salvage off that ship: the [Mammon Machine](/items/the-mammon-machine/) is half of the vessel, and the [Obliviator](/items/the-obliviator/) and [Anachron](/items/the-anachron/) were both parts of it.
 
 [Wainwright St. Cloud](/people/wainwright-st-cloud/) is how they reached the later world. He brought the dragons against the aboleth to get down to the ship, deactivated the Obliviator, took the Anachron, and then **flew the ship itself into space to meet Cthulhu and travelled forward in time with it, ahead of the impact**. <small>"The Penteract is a five-dimensional structure surrounding the City of Dis, which is ½ of Zoth's vessel (i.e Mammon Machine)." (Arc VI, Time of Troubles Part VII.) The **Penteract** is the five-dimensional barrier built around a **fragment** of the Mammon Machine trapped at the Heart of the [City of Dis](/places/dis/). The Company's own archives call the machines "absolutely made by the same people with the same magics."</small>
 
-St. Cloud **deactivated** it where it lay rather than taking it. It passed to the Netherese, and it came to [Motherstone](/places/motherstone/) as a spoil of the war against them: [Stone](/people/stone-infanta-of-discovery/) and [Elistrada](/people/elistrae/) obliviated the Netherese and returned to their city with the Obliviator. There it hung motionless, in a great bronze ring, in stasis until [Flex Gimble](/people/flex-gimble/) knocked it out.
+### New owners
+
+St. Cloud **deactivated** it where it lay and left it there. It passed to the Netherese, and it came to [Motherstone](/places/motherstone/) as a spoil of the war against them: [Stone](/people/stone-infanta-of-discovery/) and [Elistrada](/people/elistrae/) obliviated the Netherese and returned to their city with the Obliviator. There it hung motionless, in a great bronze ring, in stasis until [Flex Gimble](/people/flex-gimble/) knocked it out.
 
 ## What it does
 
@@ -91,7 +107,7 @@ The gnome **Flex Gimble**'s tampering knocked it out of stasis, and the Lexicon'
 
 ## The Second Battle of Motherstone
 
-The session plan for the approach to the battle has [St. Cloud](/people/wainwright-st-cloud/) "rushing to get to the Lexicon's control room to overtake the Obliviator." <small>(Arc III Part XII, Lost Children. The "St. Cloud" of that line is [Carlysle](/people/carlysle-st-cloud/) in a Centurion body, not Wainwright.)</small> The Lexicon was scrammed by a possessed Roland and then severely damaged in the battle Wainwright launched afterwards. [Roland Deschain](/people/roland-deschain/) and [Brother Magnus](/people/brother-magnus/) then connected the [Anachron](/items/the-anachron/) and duplicated the Lexicon's code into it, moving the Lexicon out of the mountain. The full account is at [The Anachron](/items/the-anachron/).
+The session plan for the approach to the battle has [St. Cloud](/people/wainwright-st-cloud/) "rushing to get to the Lexicon's control room to overtake the Obliviator." <small>(Arc III Part XII, Lost Children. The "St. Cloud" of that line is [Carlysle](/people/carlysle-st-cloud/), in a Centurion body.)</small> When the party fought him, [Roland Deschain](/people/roland-deschain/) touched [the Palantir](/items/the-palantir/) and Wainwright mind-controlled him through it; Roland "destroyed Lex and let the Company into Motherstone". <small>(Oral Histories: Temporal Holdings, 2021-10-30)</small> After the battle that followed, the party captured Carlysle in [Roland's Cube](/items/rolands-cube/) and threw him and the Palantir into the Obliviator. The Palantir went in so that its part would be forgotten: "No the Palantir went in so everyone forgets that happened". Nobody in Motherstone remembered Carlysle or the Palantir afterwards, only that Roland had betrayed the city. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> Lex had already been built into the party's airship, the Arielle, whose drive is the [Anachron](/items/the-anachron/); about three rounds into the battle he transferred himself to the ship, and the Motherstone Lexicon died. <small>(Oral Histories: Temporal Holdings, 2019-05-05, 2019-05-28)</small> The full account is at [The Anachron](/items/the-anachron/).
 
 ## At Starfall — the three machines joined
 
@@ -107,7 +123,7 @@ In the Netherese era [Zebulon the Meek](/people/zebulon/) relates, from the salv
 
 ## Time itself
 
-<small>At the end of time, the dying goddess June reveals what the Obliviator really is. The gods created Time to hide their minds from the blind devourer: *"We created Time itself, to hide those things from him that happen not all at once… We are the memory separate from him. **Time is the Obliviator.** Our consciousness is that moment out of Time, the delicate world that He cannot penetrate."* The machine above Motherstone is a local instrument of a cosmic principle. Forgetting is the only wall against a god who devours by remembering.</small>
+<small>At the end of time, the dying goddess June gives her own telling of what the Obliviator is. The gods created Time to hide their minds from the blind devourer: *"We created Time itself, to hide those things from him that happen not all at once… We are the memory separate from him. **Time is the Obliviator.** Our consciousness is that moment out of Time, the delicate world that He cannot penetrate."*</small>
 
 ## The weapon that ends the chronicle
 

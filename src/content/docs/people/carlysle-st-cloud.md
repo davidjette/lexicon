@@ -1,6 +1,6 @@
 ---
 title: Carlysle St. Cloud
-description: The second St. Cloud brother, who wished never to die. His heart dug itself out of the grave and nearly killed the Lexicon.
+description: The second St. Cloud brother, who wished never to die. His heart dug itself out of the grave and was obliviated with the Palantir.
 type: person
 kind: people
 tags:
@@ -24,6 +24,8 @@ tags:
 - Snowdown
 - Sword Coast Trading Company
 - Infantaverse
+- Roland's Cube
+- Second Battle of Motherstone
 icon: fa-heart-pulse
 fields:
   gender: Male
@@ -32,9 +34,14 @@ fields:
   ggmtitle: Commander, Imperial garrison; the second of the three brothers
   residence: A top garrison in the north; whereabouts held as Imperial business
   birthplace: Unknown
-  status: Dead at Motherstone; the heart obliviated in the Obliviator's singularity
+  status: Dead at Motherstone; the heart captured in Roland's Cube and obliviated with the Palantir
 sources:
 - CANON.md 5e (the DM's account, 2026-09-10)
+- CANON.md 5ae (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-10-14"
+- "Oral Histories: Temporal Holdings, 2021-10-30"
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part III.txt
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part V.txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VII.txt
@@ -50,9 +57,9 @@ wa:
 
 *Also known as:* Commander Carlysle St. Cloud · the second brother · the buried heart
 
-**Carlysle St. Cloud** is the second of the three St. Cloud brothers and the commander of an Imperial garrison in the north, working with the Sword Coast Trading Company. He was the brother who wished never to die: under the terms of [the Three Brothers](/lore/the-three-brothers/), the Black Book turned his heart "into amber and bronze, an immortal engine that would pump away even if his body is destroyed." The party killed his body at Motherstone and it was buried in a mass grave, but the heart burrowed out, took a mechanical body and a Palantir, captured Una, and attacked the [Lexicon](/items/the-lexicon/), which brought on the Second Battle of Motherstone. After the battle [Roland Deschain](/people/roland-deschain/) carried the heart into the [Obliviator](/items/the-obliviator/)'s singularity.
+**Carlysle St. Cloud** is the second of the three St. Cloud brothers and the commander of an Imperial garrison in the north, working with the Sword Coast Trading Company. He was the brother who wished never to die: under the terms of [the Three Brothers](/lore/the-three-brothers/), the Black Book turned his heart "into amber and bronze, an immortal engine that would pump away even if his body is destroyed." The party killed his body at Motherstone and it was buried in a mass grave, but the heart burrowed out, took a mechanical body and a Palantir, captured Una, and attacked the [Lexicon](/items/the-lexicon/). Through that Palantir [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled [Roland Deschain](/people/roland-deschain/), which brought on the Second Battle of Motherstone. In the battle the party captured Carlysle in [Roland's Cube](/items/rolands-cube/) and threw him and the Palantir into the [Obliviator](/items/the-obliviator/).
 
-<small>**Recovered from the Oblivia.** After Roland threw the heart into the singularity, nobody in Motherstone remembered Carlysle or the cause of the malfunction he had caused — only that Roland had done it.</small>
+<small>**Recovered from the Oblivia.** After Carlysle and the Palantir went into the Obliviator, nobody in Motherstone remembered either of them; the city believed Roland had betrayed it.</small>
 
 ## The commander
 
@@ -88,7 +95,7 @@ The tunnel leads into a branch of the Underglow and on to the area where dormant
 
 > St. Cloud burrowed down through the Earth to where the Palantir was, because Wainwright St. Cloud has another Palantir and could communicate its location to him. Once in hand, St. Cloud uses it to gain deep knowledge of everything happening in Motherstone and to entice Una to runaway, then captured her.
 
-<small>Arc III Part XII. Sic on "to runaway." The two Palantirs are paired, which is how Wainwright could direct the heart to the one in Motherstone.</small>
+<small>Arc III Part XII. Sic on "to runaway." Wainwright's stone and the one under Motherstone are the same [Palantir](/items/the-palantir/) at two points in its own history, which is how Wainwright could direct the heart to it.</small>
 
 In robot form he takes Una deeper into the collapsed dungeon, where direct access to the Lexicon can be had.
 
@@ -96,16 +103,16 @@ In robot form he takes Una deeper into the collapsed dungeon, where direct acces
 
 The party was away in Cormyr when the heart moved. Carlysle drilled down to the deepest part of [Motherstone](/places/motherstone/), to the **Seat of the Lexicon** at the underground focal point of the city's largest crystal, and appropriated a mechanical body from the **automaton Centurions** long stored nearby. His aim was to corrupt and destroy the Lexicon and so lower the city's defences — the Lexicon powered and managed the great **Mythal**.
 
-The party destroyed the robot body. When Roland moved to take the heart and destroy it for good, **the heart possessed him** and used him against the machine instead: Roland was an accomplished artificer who had helped build the Lexicon with [Magnus](/people/brother-magnus/), and under possession he scrammed the entire Lexicon program, shutting it down almost for good. He threw off the possession too late. [Wainwright](/people/wainwright-st-cloud/) jumped his ships into the city's airspace, and the **Second Battle of Motherstone** followed.
+The party fought the robot. Then **Roland touched the Palantir, and [Wainwright](/people/wainwright-st-cloud/) mind-controlled him through it**. Roland was an accomplished artificer who had helped build the Lexicon with [Magnus](/people/brother-magnus/), and under that control he scrammed the entire Lexicon program and let the Company into Motherstone. Wainwright jumped his ships into the city's airspace, and the **Second Battle of Motherstone** followed. Dave's summary: "st clouds brother had a mechanical heart which you buried near mother’s time and it came to life and stole a robot and the Palantir and thwn you fought it and then Roland touched the Palantir and then St Cloud mind controlled him and he destroyed Lex and let the Company into Motherstone". <small>(Oral Histories: Temporal Holdings, 2021-10-30. Sic on "thwn".)</small>
 
 ## The end of the wish
 
-After the battle Roland refused to let Carlysle go on living inside the heart. He carried it into the Obliviator's **critical sphere** and threw it into the singularity, erasing Carlysle from his own memory and from the universe's — but not before using the Palantir to contact Wainwright and take credit for an act that both of them would forget.
+The party destroyed two of the Company's ships and stopped the invasion. They **captured Carlysle in [Roland's Cube](/items/rolands-cube/)**, and Roland used the Palantir to contact Wainwright and take credit for an act that both of them would forget. Then Carlysle and the Palantir were thrown together into the [Obliviator](/items/the-obliviator/): "they captured Carlysle in Rolands cube and then threw him and the Palantir into the Obliviator." <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
 
 [Magnus](/people/brother-magnus/) attempted to document the act before the obliviation took hold. Much of what he wrote is impossible to understand.
 
 ## Status
 
-Obliviated. The body died at Motherstone; the heart ended in the singularity. There is no grave, no record and no memory of him in the world, and the fanatic druids of Motherstone demanded Roland's execution for an act whose cause they could no longer name. See [Roland Deschain](/people/roland-deschain/) for the trial.
+Obliviated, with the Palantir. The body died at Motherstone; the heart went into the Obliviator. There is no grave, no record and no memory of him in the world. Motherstone remembers only that Roland betrayed it and "opened the portal for St Cloud", and for that Roland was put on trial. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> When the party later heard the story of the Three Brothers again, it gave them a name for what they had lost without restoring it: "The Obliviator still clouds everything around Carlysle and it still has erased the Palantir, but now you can put a name to it and Roland can reason and appreciate that he got his revenge". <small>(Oral Histories: Temporal Holdings, 2019-10-14)</small> See [Roland Deschain](/people/roland-deschain/) for the trial.
 
 **Related:** [The Three Brothers](/lore/the-three-brothers/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [Roland Deschain](/people/roland-deschain/) · [The Lexicon](/items/the-lexicon/) · [The Obliviator](/items/the-obliviator/) · [The Oblivia](/lore/the-oblivia/) · [Motherstone](/places/motherstone/)
