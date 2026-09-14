@@ -1,21 +1,23 @@
 ---
 title: Deirdre Moro
 description: Star Advocate of the Ministry of Law, prosecutor of crimes against records, and almost certainly the author of her own sister's death warrant.
+tags:
+  - Deirdre Moro
+  - Deedra Mora
+  - Deirdre Mora
+  - Advocate Moro
+  - Moro
+  - Ministry of Law
+  - Star Advocate
+  - Korth
+  - Karrnathi law
+  - Freyd Merkin
+  - Graham Cracker
+  - Bantide Moro
+image:
+  src: /images/uploads/deirdre-moro-mu0i4ddr.webp
 type: person
 kind: people
-tags:
-- Deirdre Moro
-- Deedra Mora
-- Deirdre Mora
-- Advocate Moro
-- Moro
-- Ministry of Law
-- Star Advocate
-- Korth
-- Karrnathi law
-- Freyd Merkin
-- Graham Cracker
-- Bantide Moro
 icon: fa-gavel
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/deirdre-moro-cases.md
-- C:/dev/sharn-campaign/npcs-korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/deirdre-moro-cases.md
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: deirdre-moro-person
