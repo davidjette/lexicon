@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 10 — The Queen of the Underhive
 description: In the Underhive the trio learn Queen B is Blair, daughter of John C. LeBeefe, and buy the Cogborn a way out with a promise.
+tags:
+  - Sharn Ep 10
+  - The Queen of the Underhive
+  - Blair
+  - Queen B
+  - Underhive
+  - Booti'slave
+  - Martin Kross
+  - John C. LeBeefe
+  - Joseph Roberts
+  - Black Veil
+  - Stockton Thar
+  - Vega Oracle
+image:
+  src: /images/uploads/sharn-ep-10-the-queen-of-the-underhive-mu0rs2mq.webp
 sidebar:
   order: 210
 type: report
 kind: sessions
-tags:
-- Sharn Ep 10
-- The Queen of the Underhive
-- Blair
-- Queen B
-- Underhive
-- Booti'slave
-- Martin Kross
-- John C. LeBeefe
-- Joseph Roberts
-- Black Veil
-- Stockton Thar
-- Vega Oracle
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-10-E28094-the-queen-of-the-underhive-report
