@@ -1,21 +1,24 @@
 ---
 title: Gemma Corso
 description: Archfey warlock, NEST agent FOXTALE, and the Inevitable who located two more of the Fantanya Nyel while wearing a dead advocate's face.
+tags:
+  - Gemma Corso
+  - Gemma
+  - Corso
+  - Foxtale
+  - Foxtail
+  - Deirdre Moro
+  - Deedra Mora
+  - The Inevitables
+  - The Nest
+  - Archfey Warlock
+  - Kitsune
+  - Heroes of Leef
+image:
+  src: /images/site/gemma-corso-1.webp
+  alt: Gemma Corso
 type: person
 kind: people
-tags:
-- Gemma Corso
-- Gemma
-- Corso
-- Foxtale
-- Foxtail
-- Deirdre Moro
-- Deedra Mora
-- The Inevitables
-- The Nest
-- Archfey Warlock
-- Kitsune
-- Heroes of Leef
 icon: fa-mask
 fields:
   rpgAlignment: Unknown - no source records an alignment
@@ -32,31 +35,28 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
-- worldanvil/sources/site/biotec.txt
-- handouts/foxtale-debrief.md
-- current-state.md
-- episodes.md
-- korth.md
-- npcs-korth.md
-- session-2026-07-11-recap.md
-- session-2026-07-15-recap.md
-- session-2026-07-17-recap.md
-- session-2026-08-07-recap.md
-- session-2026-08-21-recap.md
-- session-2026-08-28-summary-nichole-style.md
-- session-2026-09-04-summary.md
-- worldanvil/CANON.md
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - worldanvil/sources/site/biotec.txt
+  - handouts/foxtale-debrief.md
+  - current-state.md
+  - episodes.md
+  - korth.md
+  - npcs-korth.md
+  - session-2026-07-11-recap.md
+  - session-2026-07-15-recap.md
+  - session-2026-07-17-recap.md
+  - session-2026-08-07-recap.md
+  - session-2026-08-21-recap.md
+  - session-2026-08-28-summary-nichole-style.md
+  - session-2026-09-04-summary.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
-image:
-  src: /images/site/gemma-corso-1.webp
-  alt: Gemma Corso
 ---
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**
@@ -195,3 +195,5 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 **Hobbies & Pets**
 
 Lalo Kitsune, a summoned fey fox drawn out of the charges in her armour, who drops cubes of darkness where they are needed. Performance and the horn, learned recently, for professional reasons.
+
+![Gemma Corso - Foxtale in Korth.png](/images/uploads/gemma-corso-foxtale-in-korth-mu0jno5w.webp)
