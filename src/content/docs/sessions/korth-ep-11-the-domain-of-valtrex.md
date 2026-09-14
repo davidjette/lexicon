@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 11 — The Domain of Valtrex
 description: The trio free the black dragon Valtrex from an Imperial bleeding rig, and Dario shatters the Thirteenth Casting with KNELL.
+tags:
+  - Korth Ep 11
+  - The Domain of Valtrex
+  - Valtrex
+  - KNELL
+  - Thirteenth Casting
+  - Bofric
+  - Crown of Seven Stars
+  - Erandis Vol
+  - The Crimson Sun
+  - Kaius III
+  - Egg Roll
+  - Korramont
+image:
+  src: /images/uploads/korth-ep-11-the-domain-of-valtrex-mu0sq8uy.webp
 sidebar:
   order: 311
 type: report
 kind: sessions
-tags:
-- Korth Ep 11
-- The Domain of Valtrex
-- Valtrex
-- KNELL
-- Thirteenth Casting
-- Bofric
-- Crown of Seven Stars
-- Erandis Vol
-- The Crimson Sun
-- Kaius III
-- Egg Roll
-- Korramont
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-11-E28094-the-domain-of-valtrex-report
