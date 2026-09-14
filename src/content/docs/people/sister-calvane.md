@@ -1,21 +1,23 @@
 ---
 title: Sister Calvane
 description: The Black Dove resident at the Korranberg Foundry, sealed in by her own order and named on the Emperor's death warrant beside the slaves.
+tags:
+  - Sister Calvane
+  - Calvane
+  - Black Doves
+  - Korranberg Foundry
+  - Deeptempura
+  - Deep Tempura
+  - Velen Marsk
+  - Vellin Marsk
+  - death warrant
+  - Kaius III
+  - consecration rite
+  - Fantanya Nyel
+image:
+  src: /images/uploads/sister-calvane-mu0nc8iy.webp
 type: person
 kind: people
-tags:
-- Sister Calvane
-- Calvane
-- Black Doves
-- Korranberg Foundry
-- Deeptempura
-- Deep Tempura
-- Velen Marsk
-- Vellin Marsk
-- death warrant
-- Kaius III
-- consecration rite
-- Fantanya Nyel
 icon: fa-door-closed
 fields:
   rpgAlignment: Unknown — no record
@@ -32,10 +34,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- sources/wa/the-black-doves-organization.txt
-- sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
-- handouts/caius-foundry-manifest.md
+  - sources/site/korth-episode-summaries.txt
+  - sources/wa/the-black-doves-organization.txt
+  - sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
+  - handouts/caius-foundry-manifest.md
 published: '2026-09-10'
 wa:
   slug: sister-calvane-person
