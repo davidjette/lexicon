@@ -72,6 +72,12 @@ judgement across three hundred articles that nobody asked for.
 
 ### What is not allowed
 
+- **Contrast clips: "not X but Y", "is not X. It is Y", "X, not Y", "It is not a grand title. It is a property
+  purchase."** Dave, 2026-09-14: *"don't do these cliips not-but-this it reads as ai slop. use my style, my quotes, and
+  factual reporting like a wikipedia."* State the fact directly ("The name comes from a property purchase."). Say what a
+  thing is; do not stage it against what it is not. Quote Dave and the session record instead of paraphrasing into
+  aphorism.
+
 - **Character judgement.** "He is not gentle. He is consistent." "the party's conscience and its
   bookkeeper of the dead." "That marriage is not incidental." Delete on sight.
 - **Unattributed `X believes...`.** A beliefs claim is an interpretation unless a source states it or
