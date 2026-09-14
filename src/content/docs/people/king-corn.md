@@ -1,21 +1,23 @@
 ---
 title: King Corn of the Deeptempura
 description: The last dwarf king of the Korramont, enslaved in his own hold, who made the bells and spent his final days writing their answer.
+tags:
+  - King Corn
+  - Corn
+  - Corn Deeptempura
+  - King Corn of the Deeptempura
+  - Deeptempura
+  - Deep Tempura
+  - Korranberg Foundry
+  - The Korramont
+  - KNELL
+  - Crown of Seven Stars
+  - fanfare of dawn
+  - Shavat
+image:
+  src: /images/uploads/king-corn-of-the-deeptempura-carving-mu0lchm0.webp
 type: person
 kind: people
-tags:
-- King Corn
-- Corn
-- Corn Deeptempura
-- King Corn of the Deeptempura
-- Deeptempura
-- Deep Tempura
-- Korranberg Foundry
-- The Korramont
-- KNELL
-- Crown of Seven Stars
-- fanfare of dawn
-- Shavat
 icon: fa-crown
 fields:
   rpgAlignment: Unknown
@@ -32,12 +34,12 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
-- worldanvil/CANON.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: king-corn-of-the-deeptempura-person
