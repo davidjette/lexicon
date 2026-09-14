@@ -41,6 +41,9 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/mission-board.txt
 - worldanvil/images/key-figures/06.jpg
+- sources/documents/2026-09-14-nico-sharn-captive-lorian.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: 599e2e63-905e-4c33-af94-06dce29f717b
@@ -96,11 +99,33 @@ Faith was born to a Grand Duke who did not raise her, one of four daughters scat
 
 **The Reshaping:** Faith's one demonstrated art, and the only reason the Children of Ember existed. She took her husband's surviving cattle — drugged, isolated, and already convinced no one was coming — and made them into a congregation that would put on a mask and hold down the next one. Every cultist the Inevitables fought had been through it. So had the frightened young woman who told them so, tied to a chair outside an Upper City safe house, and who was still trying to explain it when they walked away.
 
+## In Lorian's account
+
+In Nico's notes, [Lorian](/people/lorian/) met Faith after nearly a week of dancing at her Upper City club, when he was told the owner wanted to meet him. She looked him over, said he would "do nicely", and took him into her private residence to perform for a large man sitting in shadow by a fireplace. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+Lorian's account of the club has Faith watching the crowd from its laid-back first floor down: "She pretends she's relaxing, but she's scouting. Looking for people she thinks Malrik will like." She approached him on the party floor below it, told him he had "potential", and in her office told him he was "chosen". Her office is small but fancy, with velvet chairs, a big desk and a mirror "she stares into like she's waiting for it to talk back". <small>(Nico's DM notes, Captive – Lorian)</small>
+
+Many times, Lorian said, Faith begged Malrik to change her, screaming at him not to make her wait any longer, and he always refused, saying it was not time. On the night a cloaked woman climbed up through a hatch in the floor of their bedroom and Malrik pinned her to the wall by the throat, it was Faith who screamed at him to stop, and he stopped. She then drugged Lorian again. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+Nico planned Faith as a fire sorcerer of some kind who would not fight openly at first, seated with Malrik in chairs beside the great-room fireplace watching drugged "cattle" perform on a round platform. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+## The opening of Posé
+
+In Nico's notes Faith and Malrik arrived at the grand opening of [Posé](/places/pose/) together and went straight to Calcifer to fawn over him. "There you are, my little Ember," she told him. Calcifer: "Aunty, I'm helping Daddy in the kitchen!" Faith: "Of course you are sweetheart." <small>(Nico's DM notes, Episode 2)</small>
+
+Nico scripted her exchange with Esther in three parts. On Eden: "Esther, bring our sister home, the Mournlands, they eat at her. Eden should not suffer any longer. Bring her home. The project is ready." Esther, barely holding her composure, answered that Eden would stay until Faith's husband and "his slut brother" increased the Embra supply. On Blair, Faith dropped to a whisper: "The other came to see me, you know, in The Vault Below while sleeping. Malrik was most unhappy…" Esther, smiling slyly: "Playing favorite's now, sister?" <small>(sic)</small> On Calcifer: "He travels too much, he should spend time with his aunty more". Esther ignored her completely. <small>(Nico's DM notes, Episode 2)</small>
+
+When Hallorn d'Lyrandar arrived, Faith peeled away from Malrik to greet him, and he kissed her hand: "Faith. You look radiant tonight." In a second scene he asked why she had not used the gift he sent her. Faith, frowning: "Gift? No. I received nothing Hal." The two separated fast, looking as if they wanted to embrace. Nico's notes state that Hallorn was secretly in love with her and that the two might be having an affair. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes make Faith the leader of the Children of Ember, and the cult responsible for the shooting at Posé. Faith got word that the Cogborn protest would be happening and planned a false-flag attack with Malrik. Before the shot Malrik told her, "The Children of Ember are here", and a cult member shot Candice Kurt and let themselves be killed in the cult's service. In the same notes no one outside the cult knew of it, Esther included, and she and her group worshipped Calcifer. <small>(Nico's DM notes, Episode 2)</small>
+
 ## The Night the Vault Fell
 
 The Inevitables came in through the front with a VIP pass Hallorn had handed them himself, and [Lorian](/people/lorian/) — who had been kept in the Pantry — walked them down. They found her cultists mid-ceremony over [Whole Foods](/people/whole-foods/), Calcifer's nanny, bound and terrified in the ritual room, and cut them down. Upstairs the recruiters attacked, Hallorn confronted them, [Gemma](/people/gemma-corso/) was chained and dragged away, and Malrik fled to the roof with both Gemma and Calcifer. Faith went after her husband.
 
 [Dario](/people/sir-dario-argentino/) killed Malrik outright on the pool deck; the vampire's mist escaped into his coffin but the body was destroyed. And then Esther Crona came down out of the sky, saw her son in danger, saw Gemma in chains and the Mother Prophet running, and stabbed her sister through the chest in a single decisive strike. [Eric](/people/eric-the-cleric/) delivered the final blow as she collapsed. Faith Zeir died without being told what she was being killed for.
+
+The next day her name went into Digma Beeve's cover story for Richard Blaze: that Faith and Malrik had ambushed Richard's private airship during the kidnapping. At the Council of Sharn the Underhive asked for legal ownership of the Vault Below, which Nico's notes put as "Faith is dead; Blair wants the club." The Silver Flame asked the Council for a Flame-led cleansing of the Zeir residence. <small>(Nico's DM notes, Episode 19)</small>
 
 > Every masked cultist had once been "Father" Malrik Zeir's cattle, personally groomed and reshaped by the Mother Prophet, Faith.
 

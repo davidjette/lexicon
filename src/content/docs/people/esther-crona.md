@@ -52,6 +52,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-06-19"
 - "Oral Histories: The Inevitables, 2026-06-25"
 - "Oral Histories: The Inevitables, 2026-08-23"
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: esther-crona-person
@@ -152,11 +154,33 @@ She has three half-sisters, all daughters of [John C. LeBeefe](/people/john-c-le
 
 [Uriel Qualanthri](/people/uriel-qualanthri/) delivered the boy on the penthouse balcony. A memory recovered from the Arcane Eye network and later broadcast across the whole city showed Uriel raise her hand over the newborn in a sickly green glow, dark vein-like lines forming on his cheek, and freeze only when Esther screamed. The same recording caught a glowing diamond embedded at the base of Uriel's skull.
 
+## Eden
+
+In Nico's notes, four years before the Sharn arc and six months before BioTec Phase I, Esther's half-sister [Eden](/people/eden/), a young Tiefling woman who was attending college in Sharn, suffered catastrophic trauma to the sternum. Esther found her and in a panic took her to the Black Dove Hospital in Upper Sharn, where she told the clerics about a diamond ritual she had once seen the rebel Fema Nolan perform on Uriel to bring her back to life after a mind flayer killed her. That ritual left a diamond embedded in Uriel's head; Eden's required one in her sternum, replacing her heart. It did not go smoothly, and on Esther's orders Embrace and BioTec were brought in to make Eden "whole again". Sister Nora's sealed testimony describes Esther arriving "hysterical, blood-covered, and begging." Esther, Sister Nora, Dr. Joanne Menka and two Black Dove clerics were the only people present. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes also record that Esther blames [the Hundreds](/organizations/the-hundreds/) for what happened to Eden, and that this, with Locke Pierce's past with her, is why Warforged are enemies of the state in Sharn and arrested on sight. <small>(Nico's DM notes, Episode 2)</small>
+
+## The opening of Posé
+
+At the grand opening of Richard's restaurant [Posé](/places/pose/) Esther arrived looking beautiful and regal. Richard greeted her with a deep kiss, and Calcifer yelled "mummy" and ran to hug her around the waist. She mingled with the guests, polite but reserved. Supreme Admiral Vex d'Lyrandar made straight for her, and General Stockton Thar took a drink and stood alone overlooking the city, waiting for her to come to him. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's script gave her lines beyond those the trio overheard. After asking about the Emperor, Vex leaned in: "If you need support, you know I'm here." He slid his hand along her lower back, and Esther calmly handed him a drink and walked away. Nico's notes take three things from the exchange: the Emperor is weak or ill, Esther is effectively running the Empire, and Vex's loyalty is to her. In the scripted versions of her other conversations, she told Faith that Eden "stays until YOUR husband and his slut brother increase the Embra supply", demanded of Hallorn, "Where are my shipments of Embra from Valenar?", and ignored Faith completely on the subject of Calcifer. To Dr. Menka she said, "Clean the mess. Contain the story. And find Kross." <small>(Nico's DM notes, Episode 2)</small>
+
+Nico directed her scene with Richard as "quiet, warm". She slipped her fingers between his and said, "You're doing beautifully, Richard." Then, watching their son, she said, "He's happy. He loves the kitchen." <small>(Nico's DM notes, Episode 2)</small>
+
+When the shot from the protest killed Candice Kurt, Esther grabbed Calcifer and teleported away. That night every screen turned red with the words "What was first just a dream has become a frightening reality for those who may oppose us", and showed her in full armour with her great HexBlade drawn, on top of her Imperial ship parked over the city, executing four Cogborn prisoners. <small>(Nico's DM notes, Episode 2)</small>
+
+In Nico's notes Esther knew Faith and Malrik only as the owners of the Vault nightclubs and gambling houses, and Malrik as a rich Valenar high elf supplying the EDEN project. She knew nothing of the Children of Ember, who planned the shooting at Posé. <small>(Nico's DM notes, Episode 2)</small>
+
 ## Death
 
 Esther died on her own balcony at the end of the Sharn rising, in the fight that broke out after that broadcast. She revealed her Honor Guards to be the undead members of the Council of 13, and killed Mayor Henry Heinrick before the allied fleets filled the sky over the city. Her last act was carried on every screen in Sharn: "Your pact is void." Every Iron Veil soldier's pact collapsed with it. Her final command was to kill Empress Uriel Qualanthri.
 
 With the last of her strength she seized the *Black Veil* telekinetically and threw it into the colossal statue of Uriel above the Skyport. Then she fell from the balcony and landed at the base of her own building, and Dario Argentino broadcast the body live and told the city the Empire would fall.
+
+Nico's recap of that night, headed "The Lord Commander Esther Crona is dead.", adds that the memory of Calcifer's birth revealed Empress Uriel had tried to kill Esther's son with necromancy magic. Esther exploded in rage, killed Henry Heinrick, and turned her anger on Eric, Dario and Gemma, whom she said her father LeBeefe had warned her about in his death. At her weakest, Dario ended the fight with the magic missile wand Doppler had given him. In the recap her airship's crash into the statue above the Skyport destroyed "the symbol of the Empire's power". <small>(Nico's DM notes, Episode 19)</small>
+
+The next day, when the Silver Flame came to cremate her body under the council's cremation directive, it was missing; witnesses reported two elven women, believed to be Black Doves, removing a corpse from the morgue during the chaos. <small>(Nico's DM notes, Episode 19)</small>
 
 Dave: "Esther was the center point of Imperial command and control and defeating her (really her family defeated her we just lit the match) was the tipping point of the war". <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
 

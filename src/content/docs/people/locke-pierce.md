@@ -48,6 +48,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-06-27"
 - "Oral Histories: The Inevitables, 2026-07-04"
 - "Oral Histories: The Inevitables, 2026-08-11"
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: locke-pierce-person
@@ -136,9 +137,13 @@ Of the four who founded the Unforeseen, Pierce is the one who turned. He now lea
 
 He first appeared to the [Inevitables](/people/gemma-corso/) in the undercity beneath Sharn, teleporting in after they had brought the trapped Cogborn through the Spine to R.U.S.T. He thanked them and left communication necklaces for the network. When the rising came he answered the call: the Hundreds joined the assault on the Veil Building alongside the Nest, R.U.S.T., the soldiers of Leef, [Blair](/people/blair/)'s Underhive and the Dread Pirate's ship.
 
+## The Council of Sharn
+
+In Nico's notes, on the morning after the rising Locke Pierce's Hundreds and R.U.S.T. were taking Iron Veil soldiers into custody. At the first meeting of the Council of Sharn the Hundreds and R.U.S.T. sat as a unified bloc under Locke, with [Snodgrass](/people/snodgrass/), [Doppler](/people/doppler-klink/) and [Preacher](/people/preacher/). The bloc backed Preacher's demand for Warforged citizenship and legal personhood. Locke wanted tribunals for every Iron Veil soldier and no amnesty for any of them, the immediate arrest of the Iron Veil engineers holding the Cogs hostage, a Department of Infrastructure run by R.U.S.T. engineers and Warforged specialists, the Hundreds as Sharn's standing army, the whole ArcEye surveillance system dismantled, a permanent council seat for the Warforged diaspora, and a memorial for the Cogborn victims, especially those lost in the POSÉ riot. Blair would support his militia everywhere except the tunnels: "Locke controls the city; Blair controls the tunnels." <small>(Nico's DM notes, Episode 19)</small>
+
 ## The Ruby Nova
 
-Three years later he sent the Chancellor of Sharn a private message and a Cyrean Red Pomegranate, and asked for a meeting at the Thronehold Summit. When the Summit collapsed into slaughter he ran for his vessels and took the survivors with him. Aboard, over open water, he and the party fought Supreme Admiral Vex d’Lyrandar off the hull, and then he flew them south into the dead kingdom of Cyre, dropped the ship over a Silver Flame line holding a Cyrean portal, and pulled the last of them off it.
+Three years later he sent the Chancellor of Sharn a private message and a Cyrean Red Pomegranate, and asked for a meeting at the Thronehold Summit. By Dave's notes after the first Summit session, Locke Pierce met the party there and said he wanted to bring them to the Mournlands to see some fruit. <small>(Nico's DM notes, Episode 19)</small> When the Summit collapsed into slaughter he ran for his vessels and took the survivors with him. Aboard, over open water, he and the party fought Supreme Admiral Vex d’Lyrandar off the hull, and then he flew them south into the dead kingdom of Cyre, dropped the ship over a Silver Flame line holding a Cyrean portal, and pulled the last of them off it.
 
 In the fight on the hull, by Dave's account, the party "took down a Storm Giant with Locke Pierce": Vex fought with a storm giant's statistics. By Nico's account Vex "took down Lorian twice and almost took out Locke". <small>(Oral Histories: The Inevitables, 2026-06-27)</small>
 

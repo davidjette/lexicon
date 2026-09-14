@@ -41,6 +41,8 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/key-figures/02.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: c00f2b19-cde4-4258-9273-16a6ad403733
@@ -91,6 +93,12 @@ Adopted as an infant and raised in the Lhazaar Principalities, Blair spent her e
 
 Blair's later discovery of her true lineage, daughter of [John C. LeBeefe](/people/john-c-lebeefe/), did little to change her course. She spent time with him when he first reached out, recognizing both his intelligence and the danger beneath his charm, though she saw through his illusions, she maintained a cautious, measured relationship with him until his death, keeping her distance from the ambitions that consumed him. <small>LeBeefe died at Newham.</small> Her sisters' ambitions took them elsewhere: a nightclub and a cult for Faith, a laboratory table for Eden, the Iron Veil for Esther.
 
+## Talked about at Posé
+
+In Nico's script for the opening of [Posé](/places/pose/), Faith raised Blair with Esther under the heading "Blair", dropping to a whisper: "The other came to see me, you know, in The Vault Below while sleeping. Malrik was most unhappy… Sneaky, slithering under our feet… Why do you continue to let her live in your city? She smells like shit on your shoes." Esther, smiling slyly, answered, "Playing favorite's now, sister?" <small>(sic)</small> <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes for the following session list Blair, as the thieves' guild leader in the sewers, among the people the trio might meet if they went down into the lower city, and describe Eden as the half-sister of Esther Crona, Faith Zeir and Blair. <small>(Nico's DM notes, Episode 2)</small>
+
 ## The Cogborn Passage
 
 The Cogborn were trapped behind a cave-in, [R.U.S.T.](/organizations/r-u-s-t/) and the mountain tunnel lay on the far side of her country, and every route out of the Lower City ran through her. She set her price to the Inevitables, they paid it, and she then went further than the terms required — revealing the Spine, warning them about the Chamber Room, having Berenstain and her people help clear the collapsed tunnel themselves. The Cogborn walked out through her country. She has never once described this as charity.
@@ -102,6 +110,10 @@ When Esther Crona put a drill through the ceiling of the Forge of Binding, it wa
 ## Arrested by Her Own Allies
 
 At the first meeting of the Council of Sharn she asked for autonomy, for the Ziggurat and the Vault Below, and for a permanent seat for Berenstain. Tempers rose; Dario ordered her arrest during the dispute. She was tried later and released. By nightfall her Drones had joined the new Department of Infrastructure while maintaining their subterranean autonomy.
+
+In Nico's notes, during the fall of Esther Crona Blair and her Underhive fought in the Lower City beside her first husband, Joseph Roberts, and his pirates, and by the next morning, in Jessica Grimpledink's report, they had cleared the Lower City. At the council Blair sat with Berenstain and Joseph Roberts. Privately she asked, "Where are Richard and Calcifer?" <small>(Nico's DM notes, Episode 19)</small>
+
+Her full demands, in Nico's notes, were autonomy for the Underhive with no Silver Flame, no ArcEye and no Upper City interference; legal recognition of the Ziggurat complex, which is already hers; the Vault Below, because "Faith is dead; Blair wants the club"; a permanent seat for Berenstain, because Blair does not want the seat herself; Underhive Drones in the Department of Infrastructure; support for a Warforged-led militia outside Underhive territory, since "Locke controls the city; Blair controls the tunnels"; a ban on Silver Flame patrols in the Underhive, which Zero-One would oppose; and no taxation of the Underhive by the Upper City. "Blair will not pay for their mess." <small>(Nico's DM notes, Episode 19)</small>
 
 ## Right now
 

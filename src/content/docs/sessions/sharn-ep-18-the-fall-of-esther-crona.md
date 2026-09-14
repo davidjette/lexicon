@@ -26,6 +26,7 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/sharn-episode-summaries.txt
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: sharn-ep-18-E28094-the-fall-of-esther-crona-report
@@ -91,6 +92,16 @@ With the last of her strength, Esther telekinetically seized her airship, the Bl
 Moments later, Dario used the EBT-7 once more, broadcasting live to the entire city. He showed Esther's corpse and declared that the Empire would fall. Iron Veil soldiers, suddenly powerless and terrified, surrendered in droves. Others fled. A small number vanished into the shadows, forming the first seeds of a hidden Iron Veil remnant.
 
 By the end of the night, Sharn was free — but leaderless, wounded, and on the brink of collapse.
+
+## The aftermath, in Nico's notes
+
+Nico's recap of the night, read at the start of the next session, opens with **"The Lord Commander Esther Crona is dead."** In it, the memory of Calcifer's birth played to the city showed that Empress Uriel had tried to kill Esther's son with necromancy. Esther exploded in rage, killed the Mayor of Sharn, Henry Heinrick, and turned her anger on Eric, Dario and Gemma, whom she said her father LeBeefe had warned her about in his death. <small>(Nico's DM notes, Episode 19)</small>
+
+While the trio fought Esther and her undead Honor Guards, Iron Veil soldiers moved in on the citizens of Sharn. Richard Blaze shielded his son and still gave the party aid. The screens across Sharn showed Nest and Fulcrum fighters, Leef security soldiers, Silver Flame paladins, RUST runners and Locke Pierce's Hundreds rising against the Iron Veil, and in the Lower City Blair and her Underhive fought beside her first husband, the Dread Pirate Joseph Roberts, and his pirates. <small>(Nico's DM notes, Episode 19)</small>
+
+Eric held two concentration spells at once, using Ada, his celestial, and a Bigby's hand scroll he had got from [Hopper](/people/hopper/); he turned one undead Honor Guard and knocked the other off the balcony with the Bigby's hand. At Esther's weakest, Dario ended the fight with the magic missile wand Doppler had given him. Stripped of the pact, Sharn's enforcers became "ordinary fighters with no weapons, no magic, and no leader" overnight. <small>(Nico's DM notes, Episode 19)</small>
+
+In Nico's recap, Dario's broadcast declared the Empire the enemy, and the Iron Veil soldiers who did not surrender or flee were "a small and dangerous faction" that vanished into the shadows to hide. "Sharn survived the night — but only barely." <small>(Nico's DM notes, Episode 19)</small>
 
 ## Revelations
 

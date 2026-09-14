@@ -32,6 +32,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-12-14"
 - "Oral Histories: The Inevitables, 2025-12-18"
 - "Oral Histories: The Inevitables, 2026-06-06"
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-republic-of-talenta-organization
@@ -71,6 +72,8 @@ The trio's road to Sharn began in the Republic. Digma handed them a sealed dossi
 ## The Republic at War
 
 After the fall of the Iron Veil, Leef sent representatives to the first meeting of the Council of Sharn seeking alliance and stability, and Leef soldiers appeared on every screen in the city during the rising. Three years on, the Republic sends delegates to the Thronehold Summit alongside Sharn, and the Republic's alliance with the Mror Holds remains the eastern rebellion's best line to the dwarf clans.
+
+In Nico's notes, Leef security soldiers were among the forces on Sharn's screens the night Esther Crona fell, and the Republic's seats at the first council were held by Gemma, Dario and Eric themselves. Jessica Grimpledink gave "our allies from the Republic of Talenta" the floor first. Nico left the Republic's topics to be talked over at the table: an alliance between Sharn and Leef; stability for Sharn's citizens; opposition to Empire influence; support for Cogborn and Warforged rights; protection of Richard Blaze and Calcifer's anonymity; a unified public narrative about Esther's death; and cooperation with the other factions on rebuilding. <small>(Nico's DM notes, Episode 19)</small>
 
 Before the Summit the Emperor's spokespeople were "calling the Rebels in Sharn and Talenta traitors and deathbound but leaving room for terms with the larger forces approaching his capital". <small>(Oral Histories: The Inevitables, 2026-06-06)</small>
 

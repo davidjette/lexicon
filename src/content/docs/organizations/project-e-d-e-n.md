@@ -37,6 +37,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-03-31"
 - "Oral Histories: The Inevitables, 2026-04-04"
 - "Oral Histories: The Inevitables, 2026-06-25"
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: project-eden-organization
@@ -132,6 +133,20 @@ He had. **Project E.D.E.N. is not primarily a military programme.** It is a syst
 The Black Doves have a third account of what the programme is. Nora used the phrase at POSÉ while trying to calm a furious Menka: *"the souls lost last night will be added to the eternal nightfall."* Under interrogation she explained it — [Uriel Qualanthri](/people/uriel-qualanthri/)'s doctrine of endless resurrection and a world remade in undeath.
 
 To BioTec, E.D.E.N. is a procurement contract. To the Iron Veil, it is a division that does not tire. To the Black Doves, it is a sacrament, and every body fed into it is a soul entered onto the Empress's ledger. Menka ignored Nora when she said so.
+
+## NICO'S NOTES — SHARN EP 2 AND 3
+
+**The files at the Nest.** Nico planned the decoding of the stolen BioTec files to reveal that Project EDEN involves hybrid undead-warforged soldiers, that Dr. Joanne Menka, formerly Fema Nolan's colleague, is involved, that the hybrids require fresh bodies, that [the Children of Ember](/organizations/the-children-of-ember/) are tied to the project, and that the Empire plans to deploy the units soon. <small>(Nico's DM notes, Episode 2)</small>
+
+**At Posé.** In Nico's script Vex d'Lyrandar's report to Esther Crona reads "EDEN has retrieved enough Khyber from the plateau to continue testing the project, both projects Esther…", and Esther holds Eden back until the Zeirs increase "the Embra supply". <small>(Nico's DM notes, Episode 2)</small>
+
+**The Diamond Ritual.** Nico's notes describe the resurrection behind EDN-00 as an emergency procedure modelled on Fema Nolan's resurrection of Uriel: a Khyber-cut diamond of unknown size, a modified Last Mercy rite, a necro-arcane lattice stabilizer and direct channelling from three senior Doves, with the diamond embedded in Eden's sternum in place of her heart. The ritual did not go smoothly, and on Esther's orders Embrace and BioTec were brought in to make Eden "whole again". Esther, [Sister Nora](/people/sister-nora/), Dr. Menka and two Black Dove clerics were the only people present. <small>(Nico's DM notes, Episode 2)</small>
+
+**Embra.** In the same notes the main ingredient of the drug [Embrace](/items/embrace/) is Embra, a rare plant that grows only in Valenar. Malrik Zeir's company harvests it and Hallorn d'Lyrandar helps ship it to Sharn for the Black Doves and BioTec to use in creating the hybrid soldiers. Resistance attacks in the Khraal-controlled lands slowed the shipments, and with them the production of new units. <small>(Nico's DM notes, Episode 2)</small>
+
+**Cogborn corpse acquisition.** Nico's notes describe a secret portion of the project under that name. [Dr. Ed Graves](/people/dr-edwin-graves/), a loner and once a full-time BioTec scientist fascinated by the dead and by the Black Doves' secret necromantic abilities, left BioTec and the upper city when Project EDEN was created three and a half years before the Sharn arc and moved to the lower city to hunt, kidnap and kill Cogborn and collect their corpses for the project. At first he dumped the bodies around the lower city, and once discovered they were taken to the Black Dove Hospital in the upper city. In the last year more Cogborn went missing while fewer bodies were dumped, because he took the dead directly to the hospital or left them for a collection crew. Only Sister Nora, Dr. Menka and Esther Crona knew who he was. The bodies from the BioTec break-in, two private guards, a scientist and a hybrid unit, were likewise taken to the [Sanctum of the Last Mercy](/places/sanctum-of-the-last-mercy/) for the Umbra ritual that folds corpses into possible EDEN units. <small>(Nico's DM notes, Episode 2)</small>
+
+**Imperial Expansion.** A section of the E.D.E.N. file that stayed redacted for the trio reads, in Nico's notes: "The Emperor's decline shifts power to Uriel and the Black Doves. E.D.E.N. framed as a divine reclamation instrument." There the initials are expanded as Empire Directive for Eternal Nightfall. This is the section Sister Nora meant at Posé. <small>(Nico's DM notes, Episode 2)</small>
 
 ## THE UNITS
 

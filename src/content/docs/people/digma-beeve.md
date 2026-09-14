@@ -36,6 +36,7 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/05.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: digma-beeve-person
@@ -82,6 +83,8 @@ Digma Beeve came out of the City of Newham with a trade and a war behind him, an
 **Items:** a small dark leather-bound ledger, carried everywhere · a beaded stone necklace.
 
 **The Cover Story:** Digma's real specialism, exercised most consequentially in the hour after the Empire fell in Sharn. He went straight to Richard and Calcifer, spoke privately, and then told the party what the record would say: that Faith and [Malrik Zeir](/people/malrik-zeir/) ambushed Richard's private airship during the kidnapping, killing Richard, Calcifer, and two of Esther's Honor Guards. With [the Children of Ember](/organizations/the-children-of-ember/) already dead, there was nobody left to contradict it. Then he left to coordinate the narrative. It has held for three years.
+
+In Nico's notes for that morning, Digma is the first to arrive at the penthouse. He pulls his old friend Richard into a tight embrace and whispers something only Richard can hear, while [Calcifer](/people/calcifer/) clings to him, shaking. Then he turns to the trio: "Richard and Calcifer are teleporting to the safehouse at Zilspar Farm before anyone else arrives." Richard twists the ring on his finger and the two vanish in a flash of blue light, and Digma proposes the story: "Richard will want to remain anonymous. A cover story may be needed. Something like… Faith and Malrik ambushed his private airship." He gives the trio a final nod and leaves. He later updated Jessica Grimpledink and Zero-One that Richard and Calcifer were safe at the farm. <small>(Nico's DM notes, Episode 19)</small>
 
 ## Newham
 

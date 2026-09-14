@@ -22,6 +22,7 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/sharn-episode-summaries.txt
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: sharn-ep-19-E28094-the-council-of-sharn-report
@@ -55,6 +56,28 @@ By nightfall, a provisional Sharn government had formed. [Eric](/people/eric-the
 With the Iron Veil dissolved, the Black Doves dismantled, and Sharn's leadership restructured, Sharn was free but rebuilding had only begun.
 
 > A similar bell had been uncovered thirteen years earlier by the Unforeseen in the Greenbluff mines outside Newham.
+
+## The opening, in Nico's notes
+
+Nico opened the session with a recap of the fall of Esther Crona, headed **"The Lord Commander Esther Crona is dead."** <small>(Nico's DM notes, Episode 19)</small>
+
+In her notes Digma Beeve pulls his old friend Richard into a tight embrace, whispering something only Richard can hear, while Calcifer clings to him, shaking. Then Digma turns to the trio: "Richard and Calcifer are teleporting to the safehouse at Zilspar Farm before anyone else arrives." Richard twists the ring on his finger, and in a flash of blue light he and Calcifer vanish. Digma adds: "Richard will want to remain anonymous. A cover story may be needed." He gives a final nod and leaves to coordinate the lie. <small>(Nico's DM notes, Episode 19)</small>
+
+Jessica arrives still streaked with soot and blood. Beyond the round-up, her report adds that [Donna](/people/donna/) is at the Black Dove Hospital tending the injured with other Silver Flame clerics and Fulcrum healers; that Blair, the Underhive, Joseph Roberts and his pirates have cleared the Lower City; and that the Iron Veil engineers who had run the Cogs since the Cogborn were pushed out are refusing to leave, claiming that if they walk away the entire city will shut down. She pulls the trio aside about Richard: Digma has told her and Zero-One that Richard and Calcifer are safe at the farm, and [Lorian](/people/lorian/), who saw Richard at Malrik's and is tending Malrik's captives with Nest healers, has been told too. The factions, she warns, are calling what comes next "the first meeting of a possible council". <small>(Nico's DM notes, Episode 19)</small>
+
+Nico's note for the table was that the council would be addressing people outside Fulcrum who did not know about Richard, one of the biggest funders of the Nest, Fulcrum and even the Silver Flame, whose wealth would go to Fulcrum. <small>(Nico's DM notes, Episode 19)</small>
+
+Jessica's opening statement, in Nico's notes, begins "Thank you all for coming. Every person in this room answered Sharn's call when it mattered most," credits "Dario, Eric and Gemma" with Sharn's survival, and ends by inviting "our allies from the Republic of Talenta" to speak first. <small>(Nico's DM notes, Episode 19)</small>
+
+**Attendees, in Nico's notes:**
+
+- **Republic of Talenta (Leef):** Gemma, Dario and Eric
+- **NEST / Fulcrum:** Jessica, [Izaak](/people/izaak/) and Lorian
+- **Silver Flame:** Zero-One with two paladin guards, [Zero of Sharn](/people/zero-of-sharn/) and Donna
+- **The Hundreds / R.U.S.T., a unified bloc:** [Snodgrass](/people/snodgrass/), [Doppler](/people/doppler-klink/), [Preacher](/people/preacher/) and Locke Pierce
+- **The Underhive:** Blair, Berenstain and [Joseph Roberts](/people/pirate-joseph-roberts/)
+
+<small>(Nico's DM notes, Episode 19)</small> The full proposals each delegation brought are on [the Council of Sharn](/lore/the-council-of-sharn/).
 
 ## Revelations
 

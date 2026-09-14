@@ -32,6 +32,8 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/home.txt
+- sources/documents/2026-09-14-nico-sharn-captive-lorian.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-vault-underground-location
@@ -67,6 +69,26 @@ The Vault Underground is a 3 story, 24-hour Upper City club with the attached Ze
 
 According to [Lorian](/people/lorian/)'s testimony, the private Zeir residence is accessed from the lowest level of the club through Faith's office. During his captivity, Lorian witnessed Children of Ember cultists gathering in a large ritual room beneath the main floor of the residence; wealthy recruiters (4 men, and Hallorn) bringing in new victims; and captives kept in a cell called **the Pantry** off the kitchen — drugged, isolated, and used by Malrik and the recruiters. The recruiters are not cultists: they are wealthy men from across Khorvaire who traffic young people to Malrik, trade captives, and treat the Zeir residence as a private den when visiting. Above it all is a rooftop pool deck.
 
+### Floor by floor
+
+Nico's notes give Lorian's walk-through of the club. From the street a visitor enters the top of the building, where the cover is paid. Big bodyguards who "don't smile" are everywhere, checking bags and pockets and sometimes patting people down for weapons and for people they do not want inside; VIPs are not searched. A staircase leads down. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+- **First floor down, the laid-back level:** the "chill floor", with sofas, booths, a long bar and tables. The middle of the building is open "like a big hollow cylinder", so from the railing a guest can see the two floors below. Faith liked to watch from here, scouting for people Malrik would like.
+- **Second floor down, the party floor:** reached past a hallway with the bathrooms. A bigger bar, private dancers, private booths with curtains and loud music; the VIP tickets bring guests to a booth here. Faith approached Lorian on this floor.
+- **Third floor down, the dance floor:** packed, loud and dark, with a bar and some booths, and a long hall with two doors. One opens into Faith's private office; the other leads to the lower floor of the Zeir penthouse. "No one knows," Lorian said. "No one except staff. And… people like me."
+
+<small>(Nico's DM notes, Captive – Lorian)</small>
+
+Faith's office is small but fancy, with velvet chairs, a big desk and a mirror, and a door in it leads into the lower floor of the penthouse. From there a hallway passes a huge ritual room, whose floor markings Lorian saw without being allowed inside: "Circles. Chains. Candles. Something… wrong." Past it a staircase climbs into the kitchen, "Big place. Too clean. Too quiet.", and then the living room, with a low ceiling and windows everywhere looking out over the clouds and the whole city. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+### The residence in Nico's plan
+
+In Nico's plan for the assault, whether the party came in through the hall door or the door in Faith's office, the first room they reached was a large, industrial-looking ritual room full of Children of Ember cultists. Around the corner from it, stairs led up to the main living floor and straight into a large kitchen. Part of the kitchen is hidden from the great room, but a long bar and countertop runs the length of one side of the great room, and a door off the bar opens onto an outside shuttle platform with a private shuttle parked on it. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+Off the main part of the kitchen is the cell of sick and drugged "cattle", with two doors: one from the kitchen and one from a private office, separate from the club office, which has a secret back door into the club's party floor. The great room has walls lined with windows, a low ceiling, a large fireplace, wrap-around sofas and a round platform with chains on the floor, and a door to the master bedroom; through the bedroom are a bathroom and a door out to the terrace pool. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+Nico planned the danger to be in the great room: Malrik and Faith in chairs by the fireplace, watching drugged "cattle" perform on the round platform; Hallorn watching from one sofa; and on the other sofa the recruiters, with two scared young women, not drugged, sitting between them. <small>(Nico's DM notes, Captive – Lorian)</small>
+
 ## The night it fell
 
 The Inevitables entered on VIP passes handed to them in the street by [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) himself, with the message that Malrik "invites" them. In the ritual room they cut down cultists performing a ceremony over **Whole Foods**, Calcifer's nanny, and freed her. Upstairs the fight spread: recruiters attacking from several angles, Hallorn, then Malrik. Gemma was chained and dragged away; [Calcifer](/people/calcifer/) was trapped in the bedroom; the Mother Prophet chased Malrik as he fled with both of them to the pool deck.
@@ -76,3 +98,5 @@ There [Dario](/people/sir-dario-argentino/) killed Malrik outright — his vampi
 ## Present day
 
 The trafficking network beneath the Vault Underground was destroyed with its owners, and the fact that the Children of Ember were already dead let the new Council of Sharn hang a convenient cover story on them a night later. The club itself is one of the few buildings in Sharn where the staff genuinely did not know.
+
+On the night Esther Crona fell, Lorian tended Malrik's captives with Nest healers. At the first Council of Sharn the Silver Flame asked for a Flame-led cleansing of corrupted sites, the Zeir residence among them. <small>(Nico's DM notes, Episode 19)</small>

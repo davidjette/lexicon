@@ -33,6 +33,7 @@ sources:
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/CANON.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-council-of-sharn-article
@@ -66,6 +67,20 @@ Representatives of every major faction came to the penthouse. Jessica opened, cr
 - **The Underhive** — autonomy, legal ownership of the Ziggurat and the Vault Below, and a permanent council seat for Berenstain.
 
 It nearly broke in the room. During a dispute [Dario](/people/sir-dario-argentino/) ordered [Blair](/people/blair/) arrested — the Queen of the Underhive, whose drones had died fighting the Iron Veil days earlier and whose tunnels had carried the Cogborn out. She was tried later and eventually released.
+
+## THE DELEGATIONS AND THEIR PROPOSALS, IN NICO'S NOTES
+
+Nico's notes seat the first meeting as follows. **Republic of Talenta (Leef):** Gemma, Dario and Eric. **NEST / Fulcrum:** Jessica, [Izaak](/people/izaak/) and [Lorian](/people/lorian/). **Silver Flame:** [Zero-One](/people/zero-one-fema-nolan/) with two paladin guards, [Zero of Sharn](/people/zero-of-sharn/) and [Donna](/people/donna/). **The Hundreds and R.U.S.T., as a unified bloc under Locke Pierce:** [Snodgrass](/people/snodgrass/), [Doppler](/people/doppler-klink/), [Preacher](/people/preacher/) and Locke Pierce. **The Underhive:** Blair, [Berenstain](/people/berenstain/) and [Joseph Roberts](/people/pirate-joseph-roberts/). Jessica's opening statement named the purpose as "to decide how we continue helping this city survive… and how we continue fighting the Empire that threatens all of us", and she gave the floor first to the Republic of Talenta. <small>(Nico's DM notes, Episode 19)</small>
+
+**[The Republic of Talenta](/organizations/the-republic-of-talenta/)**, whose topics Nico left to be talked over at the table: alliance between Sharn and Leef; stability for Sharn's citizens; opposition to Empire influence; support for Cogborn and Warforged rights; protection of Richard and Calcifer's anonymity; a unified public narrative about Esther's death; and cooperation with the other factions on rebuilding. <small>(Nico's DM notes, Episode 19)</small>
+
+**[NEST / Fulcrum](/organizations/the-nest/):** trials for high-ranking Iron Veil officials; distribution of funds to rebuild the city and keep the rebellion funded; consideration of amnesty for some of Sharn's Iron Veil soldiers, meaning the old Sharn Watch under Izaak, government employees and ArcEye mages; aid for the [Skyport](/places/skyport/) disaster, which killed many, destroyed the Skyport and lost dozens of personal and passenger ships; and documentation of the Empire's crimes. Nest and Fulcrum agents from other regions who had answered Jessica's call would not stay in Sharn long-term, having other assignments. <small>(Nico's DM notes, Episode 19)</small>
+
+**[The Silver Flame](/organizations/the-silver-flame/):** convert the Black Dove Hospital into a Silver Flame healing centre and continue healing Sharn's citizens and the Skyport victims; execute and outlaw the Black Doves; a Flame-led cleansing of corrupted sites, including the Zeir residence and the Black Veil crash site; a citywide cremation directive, to prevent Uriel from raising the dead; sanctuary protections for refugees, especially Cogborn, Lower City families, war survivors and orphans; and a permanent Silver Flame seat on the council. <small>(Nico's DM notes, Episode 19)</small>
+
+**[The Hundreds](/organizations/the-hundreds/) and [R.U.S.T.](/organizations/r-u-s-t/):** Warforged citizenship and legal personhood, Preacher's demand, backed by Locke; no amnesty for any Iron Veil soldier, with tribunals for all of them; immediate arrest of the Iron Veil engineers, who "are holding the Cogs hostage"; a new Department of Infrastructure run by R.U.S.T. engineers and Warforged specialists; a Warforged-led militia to defend Sharn, with the Hundreds as the city's standing army; a ban on ArcEye surveillance and the dismantling of the whole system; a permanent council seat for the Warforged diaspora, as Locke wants political power; and a memorial for the Cogborn victims, especially those lost in the POSÉ riot. <small>(Nico's DM notes, Episode 19)</small>
+
+**[The Underhive](/organizations/the-underhive/):** Blair asks privately, "Where are Richard and Calcifer?" Publicly: full autonomy for the Underhive, with no Silver Flame, no ArcEye and no Upper City interference; legal recognition of her ownership of [the Ziggurat](/places/the-ziggurat/) complex, which is already hers; legal ownership of [the Vault Below](/places/the-vault-below/), because "Faith is dead; Blair wants the club"; a permanent Underhive seat filled by Berenstain, since Blair does not want it herself; Underhive Drones in the new Department of Infrastructure alongside R.U.S.T. and Warforged engineers; support for a Warforged-led militia everywhere except Underhive territory, since "Locke controls the city; Blair controls the tunnels"; a ban on Silver Flame patrols in the Underhive, which Zero-One would oppose; and no taxation of the Underhive by the Upper City. "Blair will not pay for their mess." <small>(Nico's DM notes, Episode 19)</small>
 
 ## THE TRIALS
 

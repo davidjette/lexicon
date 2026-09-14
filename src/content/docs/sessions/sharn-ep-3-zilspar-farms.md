@@ -25,6 +25,7 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/sharn-episode-summaries.txt
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: sharn-ep-3-E28094-zilspar-farms-report
@@ -55,6 +56,18 @@ Soon after their arrival an Iron Veil patrol of four soldiers and a Veil Hound d
 Exhausted but victorious, the Trio return to the underground cell. Sister Nora is awake now, still bound but no longer gagged. They question her further, gathering what information they can before finally taking a long rest in the Zilspar guest house.
 
 > The farmers quickly band together to erase all evidence, burning the bodies and dismantling the soldiers' skiff.
+
+## Nico's plan for the session
+
+**The first hour.** Nico's notes pick up thirty to forty minutes after the attack at Posé. The trio took the service elevator down a level under invisibility and switched on their Ghost Chips at the bottom. Dario stuffed Sister Nora into a bag of holding and rode his panther mount across the upper city to the safe house, where he tied, bound and blindfolded her, laid her on the bed and turned on loud music. The safe house is a loft with high windows, a front and a back door to the street, and a secret passage to The Nest. Gemma and Eric arrived soon after, and Eric messaged Izaak to come at once. <small>(Nico's DM notes, Episode 2)</small>
+
+**The broadcast.** The crystal screen cut from the red message to a studio bathed in red light and a young half-elf journalist, Tim Raisins, under the banner BREAKING NEWS — POSÉ ATTACK / COGBORN RIOT. "Good evening, Sharn. I… I wish we were coming to you under better circumstances." He confirmed that "our colleague and dear friend, Candace Kurt" <small>(sic)</small> had been killed, and reported the Imperial account that Cogborn agitators escalated a peaceful protest into a riot. Sister Nora of the Sanctum of the Last Mercy was unaccounted for, believed caught in the chaos as the mob surged through the Veil level plaza, under a second banner: SISTER NORA MISSING — IRON VEIL SEARCH UNDERWAY. Over a map of the lower wards he announced increased surveillance and ongoing raids in Cogborn neighbourhoods, with EXPECT DELAYS — SECURITY CHECKPOINTS BETWEEN LOWER & UPPER LEVELS scrolling beneath, and then that BioTec had reported Martin Kross, "a junior technician", missing since the night before the Posé event, urging anyone with information to contact the Imperial tip line. He signed off, "This is Tim Raisins… reporting for the Sharn News Network", and the broadcast looped. <small>(Nico's DM notes, Episode 2)</small>
+
+**Izaak.** Izaak slipped in hood up, his cloak damp from the upper-city mist, saw Nora and said, "…Oh, you've got to be shitting me." From then on he spoke to the trio only by Telepathic Utterance: "You have no idea what this means." He told them the Iron Veil was tearing the lower wards apart, raiding homes and locking down the lifts, and warned that people with "abilities to *find* things" would be looking for her. He sent his falcon familiar, Petey, to the Nest with a pop, and added, "… don't untie her hands." Through the falcon the Nest advised moving her out of the city to the Zilspar farms, dead or alive, by Gemma's teleportation, with Nora back in the bag of holding. The trio moved her to Zilspar Farm 02 in the bag. <small>(Nico's DM notes, Episode 2)</small>
+
+**The interrogation.** Nico prepared three arcs for Sister Nora, depending on how the players treated her, and lines for each subject they might raise: the Cogborn and their protest, Malrik's words "The Children of Ember are here", Project EDEN and the Black Doves' part in it, Eden, Martin Kross, and her own remark at Posé about the eternal nightfall. In the notes Nora is not scared to die and will take certain things to her grave. Izaak or Nora might point out that General Stockton Thar is thought to bear the Mark of Finding, which made the safe house a dangerous place to keep her. <small>(Nico's DM notes, Episode 2)</small>
+
+**What next.** The options Nico listed for after the interrogation were to kill Sister Nora and hide the body; to move her out of Sharn, to Zilspar or even Leef; to make contact with the Cogborn in the lower city, where the hidden Warforged cell of [the Hundreds](/organizations/the-hundreds/) and its preacher, Blair's guild in the sewers, Martin Kross and his ex-wife, and the fighting pit [Breaker's Pit](/places/breakers-pit/) waited; to investigate the Black Dove Hospital; or to use Eric's Mark of Passage to reach official archives. Whatever they chose, the sessions were to lead to the reveal of Richard Blaze, which Nico first planned for the Zilspar farms: Jessica would tell the trio that Fema Nolan wanted to meet them there with Digma Beeve, and after a fight on the farm Fema, Digma and Jessica would bring them into a private house, where Richard would arrive masked or disguised. <small>(Nico's DM notes, Episode 2)</small>
 
 ## Revelations
 

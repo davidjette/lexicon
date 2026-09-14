@@ -34,6 +34,7 @@ fields:
 sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/key-figures.txt
+- sources/documents/2026-09-14-nico-sharn-hopper.md
 published: '2026-09-10'
 wa:
   slug: candy-crush-person
@@ -53,6 +54,14 @@ The previous deed holder was Dr. Edwin Graves — publicly the owner of Circuit 
 That leaves a man whose professional obligation is to a dead serial murderer's estate, with a client list assembled through shell companies, holding the legal claim to a substantial part of the Lower City. Nobody has met him. Nobody has served him. Nobody has asked what else was in the portfolio.
 
 > While there you also learned about the lawyer, a large man named Candy Crush, who would represent the previous deed holder.
+
+## In Nico's notes
+
+Nico's notes describe Candy Crush as Edwin Graves' personal property lawyer: "A fat, nervous man in a perfect candy color suit." He is always sweating, always looking over his shoulder, and knows far too much. He is a member of [the Velvet Table Society](/organizations/the-velvet-table-society/), and his ads are all over Sharn. <small>(Nico's DM notes, Hopper)</small>
+
+Nico planned for him to walk into the Arcade holding a clipboard, with no idea that Graves was dead, to check on the place, collect the coin intake, reset the machines and make sure nobody had tampered with anything, muttering "Alright, let's get this over with…" <small>(Nico's DM notes, Hopper)</small>
+
+He knows only the legal side. In Nico's notes he can reveal that Graves owned the Arcade through a shell company and used it as a "behavioral testing site"; that the machines are illegal BioTec prototypes; that the city never inspected the building and the property records are sealed; that Graves paid him in cash and memory crystals; that Graves had "other sites" in Sharn; and that Graves was planning a "Phase 2". He knows nothing of Project EDEN, the Underhive, the Nest, Esther or the Vault Underground. Shown the deed, he panics, offers information, documents, access codes and to sign over anything he can, and begs not to be killed. <small>(Nico's DM notes, Hopper)</small>
 
 ## Right now
 

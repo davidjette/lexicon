@@ -32,6 +32,8 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/children-of-ember.txt
 - sources/site/pose-mission-notes.txt
+- sources/documents/2026-09-14-nico-sharn-captive-lorian.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-vault-below-location
@@ -66,6 +68,10 @@ The documents scattered in those chambers opened the whole conspiracy: correspon
 
 A concealed trapdoor from the lower chambers opens into the undercity tunnels.
 
+In Nico's notes, Lorian was drugged, blindfolded and moved here from the Upper City residence, and woke in the little cell where the trio found him; he had thought they were taking him away to kill him. The woman found in the cell with him was a stranger to him. She told him her name was Roma, she had been there for months or more, and she was already fading when he was put in with her. <small>(Nico's DM notes, Captive – Lorian)</small>
+
 ## Present day
 
 Four cultists fell and the prisoners were freed. With Malrik and Faith Zeir dead and the Children of Ember destroyed at the Vault Underground, the Vault Below's other trade ended with them. At the founding of the Council of Sharn the Underhive's delegation asked for legal ownership of the building.
+
+The request came from Blair, and Nico's notes record it as "Faith is dead; Blair wants the club." <small>(Nico's DM notes, Episode 19)</small>

@@ -42,6 +42,8 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/04.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: richard-blaze-person
@@ -108,6 +110,14 @@ In the kitchen and at the table he is charming, warm and continuously performing
 
 Born in the Demon Waste, Richard Blaze was captured during an Imperial raid and sold into kitchen labour in Newham. From the boy who stirred pots in a slave kitchen, he rose to become one of Khorvaire's most celebrated chefs, building restaurants across the continent. Behind the wealth and acclaim he never forgot the chains that bound him, nor the cruelty of the Empire that profited from them. It was in Newham that he met Digma Beeve, and from that friendship the network grew, joined by Fema Nolan and John Stamos, while Richard remained the ghost founder, his name absent from records, his role concealed behind the mask of a charming restaurateur. <small>Imperial files record him as born a slave in New Ham rather than taken there; NicoPico's older entry gives Korth. All three readings are preserved here.</small>
 
+## The opening of Posé
+
+At the grand opening of [Posé](/places/pose/) Richard greeted the trio, undercover as servers, friendly and polite but busy with the opening, and then greeted each VIP at the top of the stairs as the hostess announced them. When Esther arrived he greeted her with a deep kiss. Calcifer ran around "helping" his father, and told his aunt Faith, "Aunty, I'm helping Daddy in the kitchen!" <small>(Nico's DM notes, Episode 2)</small>
+
+Nico scripted a moment between husband and wife during the evening. Esther stepped beside him and slipped her fingers between his: "You're doing beautifully, Richard." He leaned into her touch: "Because of you." She watched Calcifer playing and said, "He's happy. He loves the kitchen." Richard kissed her, smiled and went back to work. Hallorn d'Lyrandar and Malrik Zeir each remarked in their own conversations that Richard had outdone himself. <small>(Nico's DM notes, Episode 2)</small>
+
+In Nico's notes for the sessions that followed, Richard is one of the original members of Fulcrum and has been undercover the entire time. The only people who know are the other living founders, Fema Nolan and Digma Beeve, and Jessica Grimpledink; Fema's children Zero of Sharn and Izaak do not. Nico first planned the reveal for the Zilspar farms, with Richard arriving masked or in disguise, perhaps by teleport or on a private ship, since trips to the Zilspar farms for his restaurants were nothing unusual for him. <small>(Nico's DM notes, Episode 2)</small>
+
 ## The Confession at Zilspar Farm 02
 
 The morning after an Iron Veil patrol was quietly eliminated in the farmyard, four people came through the hidden teleportation circle into a sealed safe-house room: Zero-One, Jessica Grimpledink, Digma Beeve and Richard Blaze. There he finally delivered his long-buried confession — the truth about Esther, the sword, and the forces shaping the Empire.
@@ -117,6 +127,12 @@ Eric and Dario remained deeply wary, unconvinced that saving Esther was possible
 ## The Balcony
 
 When his son was taken he did not wait for the Nest. He led Dario and Eric to his own penthouse, fought through the Iron Veil at his door, and tried to talk his wife down while Calcifer ran into his arms. She accused him of bringing her killers into her home. When Dario played the broadcast and Esther's composure shattered, Richard pulled Calcifer into the boy's bedroom and cast Darkness so that his son would not watch his mother die.
+
+## Vanishing
+
+In Nico's notes for the morning after, Digma Beeve arrives first and pulls his old friend into a tight embrace, whispering something only Richard can hear, while Calcifer clings to him, shaking. After a private exchange Digma tells the trio that Richard and Calcifer are teleporting to the safehouse at Zilspar Farm before anyone else arrives. Richard twists the ring on his finger, and in a flash of blue light he and Calcifer vanish. "Richard will want to remain anonymous," Digma says, and proposes the airship cover story. <small>(Nico's DM notes, Episode 19)</small>
+
+Afterwards Digma told Jessica Grimpledink and Zero-One that the two were safe at the farm, and Jessica told Lorian, who had seen Richard at Malrik's. At the council Blair asked privately where Richard and Calcifer were, and the Republic of Talenta's delegation put the protection of their anonymity on the table. Nico's note for the council was that it would be addressing people outside Fulcrum who did not know about Richard, who had been one of the biggest contributors to the funding of the Nest, Fulcrum and even the Silver Flame, and whose wealth would go to Fulcrum. <small>(Nico's DM notes, Episode 19)</small>
 
 > "I've seen her whisper to it. I've seen it change her. That sword is a chain around her neck. A ghost she can't escape."
 

@@ -39,6 +39,8 @@ sources:
 - worldanvil/images/rebel-factions/08.jpg
 - "Oral Histories: The Inevitables, 2026-01-23"
 - "Oral Histories: The Inevitables, 2026-07-12"
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: izaak-person
@@ -87,6 +89,20 @@ His mother is Zero-One, founder and leader of Fulcrum, once the paladin Fema Nol
 Newly arrived in Sharn, the trio were instructed to meet a rebel operative during a quiet meeting at the Astra Bar in the Upper City. Their first assignment came from him: infiltrate the corporate labs of BioTec and steal a prototype known only as the Ghost Chip. He also gave them the way into the Nest — a hidden puzzle in Skyroot Park, solved at the end of a night that had very nearly killed all three of them.
 
 He met three unvetted foreigners over a quiet drink, gave them a target and an entry method, and did not tell them anything they did not need. Afterwards he implanted their Ghost Chips himself, arranged the Vilspar produce-delivery cover, flew back into the Lower City with them, and revealed a hidden elevator route out of a collapsing gala only at the moment it was needed.
+
+## Posé and Sister Nora, in Nico's notes
+
+In Nico's notes for Sharn Ep 2 Izaak was in the Nest's workshop the morning after the BioTec raid, already tinkering with the Ghost Chip, and waved the trio over, excited and muttering: "Okay, okay — so the Ghost Chip? I cracked the signature. I can duplicate the code. If you want, I can implant a copy into each of you." Nico describes the duplicated chip as disrupting the scry-signature ArcEyes rely on, creating a persistent blind spot around the person implanted so that ArcEyes can neither see nor hear them. <small>(Nico's DM notes, Episode 2)</small>
+
+In the same notes Izaak is from Vilspar and had been working with Gemma for the past few months, which made him the only rebel the trio would ever meet in public; he and the trio could come and go through the safe house's street doors under their shared cover as Vilspar farm co-op employees. On the night of the opening he watched Posé from a distant rooftop, and after the shooting sent the trio a message telling them to take a service elevator down a level and not be seen. <small>(Nico's DM notes, Episode 2)</small>
+
+When Eric messaged him that the trio had Sister Nora, Izaak slipped into the safe house hood up, his cloak damp from the upper-city mist, saw her and said, "…Oh, you've got to be shitting me." From then on he spoke to the trio only by Telepathic Utterance: "You have no idea what this means." He warned that the Iron Veil was raiding homes and locking down the lifts, that "Doves, The Veil… others with, abilities to *find* things" <small>(sic)</small> would be looking for her, and that "she can't stay here, I need to speak with The Nest." He summoned his falcon familiar, Petey, spoke to it telepathically, and sent it off with a pop, then added, "… don't untie her hands." Through Petey he stayed in contact with the Nest throughout the interrogation. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes give Izaak a good knowledge of Sharn from growing up around the city, awareness of why the Cogborn were protesting, and the rumour of a serial killer the Cogborn call the Cog Collector. The same notes state that he does not know that Richard Blaze is a founder of Fulcrum. <small>(Nico's DM notes, Episode 2)</small>
+
+## The Council of Sharn
+
+In Nico's notes for the first meeting of the Council of Sharn, Izaak sat with the NEST / Fulcrum delegation alongside Jessica Grimpledink and Lorian. Among its proposals was consideration of amnesty for some of Sharn's Iron Veil soldiers, beginning with the old Sharn Watch under Izaak, along with government employees and ArcEye mages. <small>(Nico's DM notes, Episode 19)</small>
 
 ## The Redacted Mission
 

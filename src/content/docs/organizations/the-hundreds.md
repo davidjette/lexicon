@@ -33,6 +33,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-03-31"
 - "Oral Histories: The Inevitables, 2026-06-06"
 - "Oral Histories: The Inevitables, 2026-06-27"
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-hundreds-organization
@@ -67,9 +68,15 @@ Project E.D.E.N. exists in large part because of them. Hybrid undead-Warforged s
 
 By Nico's account, the Project Eden units east of [Gorgonhorn](/places/gorgonhorn/) in the Mournlands are now the Cogborn's biggest fight, and the Hundreds are the ones who mainly hold them off. <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
 
+## COUNCIL OF SHARN — THE UNIFIED BLOC
+
+In Nico's notes, the Hundreds rose against the Iron Veil on every screen in Sharn on the night Esther Crona fell, and the next morning Locke Pierce's Hundreds and [R.U.S.T.](/organizations/r-u-s-t/) were taking Iron Veil soldiers into custody. At the first meeting of the Council of Sharn the two sat as one bloc under Locke Pierce, with [Snodgrass](/people/snodgrass/), [Doppler](/people/doppler-klink/) and [Preacher](/people/preacher/). Their proposals: Warforged citizenship and legal personhood; no amnesty for any Iron Veil soldier, and tribunals for all of them; immediate arrest of the Iron Veil engineers holding the Cogs hostage; a new Department of Infrastructure run by R.U.S.T. engineers and Warforged specialists; a Warforged-led militia to defend Sharn, with the Hundreds as the city's standing army; a ban on ArcEye surveillance, with the entire system dismantled; a permanent council seat for the Warforged diaspora; and a memorial for the Cogborn victims, especially those lost in the POSÉ riot. The Underhive would support the militia everywhere except its own territory: "Locke controls the city; Blair controls the tunnels." <small>(Nico's DM notes, Episode 19)</small>
+
 ## THE THRONEHOLD SUMMIT
 
 Dave, before the Summit: "The Hundreds will participate on the condition that they are recognized as an independent power in the Mournlands with security guarantees. They send a separate invitation for Eric to meet with Locke Pierce at the Summit before Eric gives his speech." <small>(Oral Histories: The Inevitables, 2026-06-06)</small>
+
+The Hundreds sent representatives, and by Dave's notes after the first Summit session Locke Pierce told the party he wanted to bring them to the Mournlands to see some fruit. <small>(Nico's DM notes, Episode 19)</small>
 
 ## WHAT LOCKE PIERCE SHOWED THEM AT MT. SILICON
 

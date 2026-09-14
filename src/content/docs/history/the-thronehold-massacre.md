@@ -36,6 +36,7 @@ sources:
 - README.md
 - "Oral Histories: The Inevitables, 2026-06-06"
 - "Oral Histories: The Inevitables, 2026-06-19"
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-thronehold-massacre-militaryConflict
@@ -68,9 +69,13 @@ The Summit was presented as "a neutral attempt to end the civil war by priests a
 
 Khorvaire was three years into fracture. Crona's Wall had collapsed and orc forces were pushing into Dark Druid territory in the Eldeen Reaches; the Hundreds and the Silver Flame were locked in fighting against E.D.E.N. constructs; food was running short in Sharn.
 
+Dave's account of those three years: "The Empire has its back broken with the death of Esther Crona and the end of the Iron Veil, and the fractured state begins to flail and rot, making it all the more dangerous, even if the end seems actually possible for the first time in a generation." <small>(Nico's DM notes, Episode 19)</small>
+
 ## THE DELEGATIONS
 
 [Eric](/people/eric-the-cleric/) came as Chancellor of Sharn with [Lorian](/people/lorian/) and with [Gemma](/people/gemma-corso/) in disguise, representing Sharn and Leef; [Dario](/people/sir-dario-argentino/) was still deployed on the Thrane front. Orc tribes, [the Hundreds](/organizations/the-hundreds/), the [Black Doves](/organizations/the-black-doves/) and Aundair all sent delegates. [Locke Pierce](/people/locke-pierce/) hinted at "new growth" in the Mournlands and had already sent Eric a Cyrean Red Pomegranate — a fruit believed extinct since [the Mourning](/history/the-mourning/), arriving fresh and oversized. Lorian established, quietly, that every masked Empire guard at the summit was undead.
+
+In Nico's notes on the session, Gemma, Eric and Lorian met with the orc, Black Dove and Hundreds representatives and gathered their thoughts before the final assembly in the great hall. The orcs wanted to start taking more land that had not originally been theirs. <small>(Nico's DM notes, Episode 19)</small>
 
 [The Nest](/organizations/the-nest/) saw the Summit as a possible moment to overture to the orcs, "who have been uncooperative and frequently hostile to the Rebellion writ large." The Hundreds took part "on the condition that they are recognized as an independent power in the Mournlands with security guarantees", and sent Eric a separate invitation to meet Locke Pierce at the Summit before his speech. <small>(Oral Histories: The Inevitables, 2026-06-06)</small> Dave on why the factions came: "The draw of potential post-war power had many faction let their guard down and send delegations". <small>(sic; Oral Histories: The Inevitables, 2026-06-19)</small>
 

@@ -39,6 +39,9 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/sharn-episode-summaries.txt
 - worldanvil/images/key-figures/06.jpg
+- sources/documents/2026-09-14-nico-sharn-captive-lorian.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: malrik-zeir-person
@@ -84,11 +87,11 @@ His half-brother Hallorn d'Lyrandar — Head of Transportation, son of Supreme A
 
 **The family line:** Malrik's family ties extend into imperial infrastructure through his younger half-brother, Hallorn d'Lyrandar of Aundair, the newly appointed Head of Transportation and son of Supreme Admiral Vex Lyrandar, giving the Zeirs a quiet but potent reach into both Sharn's underworld and its political machinery. His wife was [Esther Crona](/people/esther-crona/)'s half-sister. He was, by marriage, the Lord Commander's brother-in-law.
 
-Beliefs: Unknown. No words of his are recorded.
+Beliefs: Unknown.
 
 The work divided four ways: recruiters brought the victims; Faith performed the reshaping that turned survivors into masked cultists; Hallorn moved the product; and Malrik's own part was the feeding and the growing of Umbra. When the fighting reached his roof he took a chained woman and a child and ran.
 
-Malrik Zeir's history before Sharn is not recorded beyond his origin — Valenar, high elf, half-brother to an Aundairian scion of House Lyrandar — and the fact that his vampirism was not publicly known until the night he died. He married into [John C. LeBeefe](/people/john-c-lebeefe/)'s scattered family, acquired a nightclub, a residence beneath it and a wife who could manufacture worshippers, and lived as a fixture of Upper City society. Eliminating him, the Nest's briefing noted, would sever the Umbra supply, close the cult and end the trafficking at once.
+Before Sharn, Malrik Zeir was a Valenar high elf, half-brother to an Aundairian scion of House Lyrandar, and his vampirism was not publicly known until the night he died. He married into [John C. LeBeefe](/people/john-c-lebeefe/)'s scattered family, acquired a nightclub, a residence beneath it and a wife who could manufacture worshippers, and lived as a fixture of Upper City society. Eliminating him, the Nest's briefing noted, would sever the Umbra supply, close the cult and end the trafficking at once.
 
 **Right now:** Dario Argentino killed him outright on the rooftop pool deck in a devastating series of blows. His body was destroyed. His vampire mist escaped into his coffin. Nobody has produced the coffin.
 
@@ -103,6 +106,26 @@ Malrik Zeir's history before Sharn is not recorded beyond his origin — Valenar
 ## The Pantry
 
 The cell off the kitchen. Captives kept there were drugged, isolated and used by Malrik and the recruiters. Two emaciated prisoners were found alive beneath the Vault Below alongside [Grady Marsh](/people/grady-marsh/) and freed. Every masked cultist in the Children of Ember had been through it first.
+
+## The opening of Posé
+
+Nico's notes for Sharn Ep 2 introduce Malrik as "Faith's pale high-elf husband", a wealthy and powerful sorcerer from Valenar, with Nico's early idea that he might be a vampire or a follower of [the Blood of Vol](/organizations/blood-of-vol/) who believed Calcifer was marked with the [Dragonmark of Death](/lore/the-mark-of-death-and-the-dragonmarks/). At the grand opening of [Posé](/places/pose/) he and Faith went straight to Calcifer and fawned over him. <small>(Nico's DM notes, Episode 2)</small>
+
+When Hallorn arrived with two women on his arms and took Faith's hand, Malrik stepped up beside her, smiling politely and unaware of any tension: "Brother! Good to see you. I didn't know you were bringing… guests." Then, frustrated but controlled, he pressed Hallorn on the delayed shipment: "Listen brother, the shipment is on the Valenar coast waiting for your ships. Why aren't they moving?" and "You're Lyrandar. You have airships, stormcallers, half the Bay under contract." He ended it coldly: "Esther won't accept delays." <small>(Nico's DM notes, Episode 2)</small>
+
+Before the shot that killed Candice Kurt he said to Faith, "The Children of Ember are here." Nico's notes make the shooting the cult's work, planned by Faith and Malrik as a false flag on the back of the real Cogborn protest. <small>(Nico's DM notes, Episode 2)</small>
+
+In Nico's notes for the next session, Malrik's company harvests Embra, a rare plant that grows only in Valenar and is the main ingredient of the drug Embrace, and ships it to Sharn with Hallorn's help for the Black Doves and BioTec; elsewhere the same notes describe his family's connections to growing and harvesting Umbra in Valenar for the EDEN project. Esther knew him as a very rich Valenar high elf and the supplier of that crop, and knew nothing of the cult. Sister Nora, questioned, might describe him only as an industrialist. <small>(Nico's DM notes, Episode 2)</small>
+
+## In Lorian's account
+
+In Nico's notes, [Lorian](/people/lorian/)'s first performance in the Zeir residence was for "a large man, sitting in shadow by a fireplace". In his account of the penthouse he met Malrik in the living room: "He sat in the dark. Watching me. He told me to perform. To dance. To… entertain him." Captives chained in the room off the kitchen were made to perform for Malrik, for guests and for rituals. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+When he fed on Lorian he complained, saying humans were scraps and their blood too weak, and talked about "stronger stock" coming in from the monster lands. Faith begged him many times to change her; he always refused, saying it was not time. One night a cloaked woman climbed up through a hatch in the floor of their bedroom while they slept. Malrik did not open his eyes. He moved like an animal, leapt out of bed and pinned her to the wall by the throat, and when Faith screamed at him to stop, he stopped at once. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+Nico planned Malrik with vampire stats and a two-stage change into a beast form, and a scene in the great room of the residence with Malrik and Faith seated by the large fireplace watching drugged "cattle" perform for them on a round platform with chains on the floor. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+The day after the Vault fell, Digma Beeve's cover story put Malrik and Faith on Richard Blaze's private airship, ambushing it during the kidnapping and killing Richard, Calcifer and two of Esther's Honor Guards. <small>(Nico's DM notes, Episode 19)</small>
 
 ## The Roof
 

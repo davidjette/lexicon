@@ -36,6 +36,7 @@ fields:
 sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/key-figures.txt
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: berenstain-person
@@ -68,6 +69,8 @@ Berenstain worked through an entire night alongside [Snodgrass](/people/snodgras
 ## The council seat
 
 At the first meeting of the Council of Sharn the Underhive requested autonomy, legal ownership of the Ziggurat and the Vault Below, and a permanent council seat for Berenstain. It got them. Underhive Drones joined the new Department of Infrastructure while maintaining their subterranean autonomy, and Berenstain holds the seat.
+
+In Nico's notes for the council, Berenstain sits with the Underhive delegation beside Blair and Joseph Roberts, and is described as Cogborn, having grown up in the Cogs. Blair asked for the permanent Underhive seat to be filled by Berenstain because she did not want the seat herself. <small>(Nico's DM notes, Episode 19)</small>
 
 ## Right now
 

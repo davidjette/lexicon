@@ -29,6 +29,7 @@ fields:
 sources:
 - sources/site/home.txt
 - sources/site/ebt-7.txt
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: skyport-landmark
@@ -47,6 +48,10 @@ A Skyport is one of Sharn's primary hubs for long-range airship travel, perched 
 ## The flight prohibition
 
 To ensure safety within the city's dense vertical districts, all private flight, whether by spell or vehicle, is strictly prohibited within restricted airspace, with exceptions granted only to military forces and a select class of authorized elite. Outside the designated flight corridors surrounding the Skyports, unauthorized aerial travel is subject to fines, impoundment, and potential arrest. The Skyports are therefore the only lawful way in or out of Sharn by air for anyone who is neither military nor among the authorized elite.
+
+## The Skyport disaster
+
+On the night she died, [Esther Crona](/people/esther-crona/) telekinetically crashed her airship the Black Veil into the massive statue of Uriel above the Skyport. In Nico's notes for the Council of Sharn the next day, the disaster took many lives, destroyed the Skyport, and lost dozens of personal and passenger ships that had been parked there. [The Nest](/organizations/the-nest/) asked the council for aid for its victims, and [the Silver Flame](/organizations/the-silver-flame/) asked to continue healing them and to cleanse the Black Veil crash site. <small>(Nico's DM notes, Episode 19)</small>
 
 ## Places of Interest
 

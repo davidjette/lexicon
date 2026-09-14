@@ -24,6 +24,7 @@ icon: fa-scroll
 fields: {}
 sources:
 - sources/site/sharn-episode-summaries.txt
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: sharn-ep-17-E28094-the-vault-underground-report
@@ -91,3 +92,5 @@ The trio was left standing on the blood-stained rooftop, the city roaring below 
 ## Consequences
 
 Both Zeirs died in one night and the [Children of Ember](/organizations/the-children-of-ember/) were finished as a faction. Gemma went up to the penthouse in chains, Calcifer went with his mother, and the trio's last unresolved thread narrowed to a single confrontation. The Upper City safe house was abandoned and its tunnel collapsed.
+
+In Nico's notes for the aftermath, Lorian stayed with Malrik's captives and tended them with Nest healers, and saw Richard at Malrik's. After Esther's fall, Digma Beeve's cover story for Richard and Calcifer put the dead Zeirs on Richard's private airship, and it held because the Children of Ember were already dead from the assault on the Vault Underground. At the first Council of Sharn the Silver Flame asked to cleanse the Zeir residence, and Blair asked for the Vault Below: "Faith is dead; Blair wants the club." <small>(Nico's DM notes, Episode 19)</small>

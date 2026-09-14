@@ -39,6 +39,7 @@ sources:
   - sources/site/korth-episode-summaries.txt
   - sources/wa/uriel-qualanthri-person.txt
   - worldanvil/images/rebel-factions/06.jpg
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: zero-one-28fema-nolan29-person
@@ -92,6 +93,10 @@ She was alone in the Zilspar safe-house room when [Gemma](/people/gemma-corso/),
 ## The Diamond
 
 After the party watched Grady Marsh's recovered memory — Uriel raising a hand over a newborn in a sickly green glow, the vein-like lines forming, the freeze at Esther's scream, and the glowing diamond at the base of the Empress's skull as she turned away — Zero-One told the room that the diamond was hers. She had put it there.
+
+## The Council of Sharn
+
+After Esther Crona fell, Zero-One and her Silver Flame paladins took over the Black Dove Hospital and rounded up its clerics. In Nico's notes, Digma Beeve told her and Jessica Grimpledink that Richard Blaze and Calcifer were safe at the farm. At the first meeting of the Council of Sharn she led the Silver Flame delegation with two paladin guards, beside [Zero of Sharn](/people/zero-of-sharn/) and [Donna](/people/donna/), and the Flame asked for the hospital as a healing centre, the Black Doves executed and outlawed, a Flame-led cleansing of the Zeir residence and the Black Veil crash site, citywide cremation, sanctuary for refugees and orphans, and a permanent council seat. Blair's demand for a ban on Silver Flame patrols in the Underhive was one Nico noted Zero-One would oppose. <small>(Nico's DM notes, Episode 19)</small>
 
 > She guided him toward the Silver Flame, urging him to let purpose, not hatred, shape his path.
 

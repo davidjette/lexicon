@@ -43,6 +43,8 @@ sources:
 - session-2026-06-18-recap.md
 - worldanvil/CANON.md
 - "Oral Histories: The Inevitables, 2026-06-19"
+- sources/documents/2026-09-14-nico-sharn-captive-lorian.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: bb5d1c45-6b93-46b2-99a3-7d83f8ea5eac
@@ -84,11 +86,35 @@ He was held beneath **The Vault Underground** by Faith and Malrik Zeir, in the c
 
 At the Zilspar farms he told Zero-One all of it and told her plainly that he wanted vengeance. She did not talk him out of it. She told him to let purpose rather than hatred shape the path, and pointed him at the Flame. He took the Oath of Vengeance.
 
+## Lorian's testimony
+
+Nico's notes give Lorian's own account of his captivity, spoken to the trio who freed him: "You saved us, I don't know how else I can thank you." <small>(Nico's DM notes, Captive – Lorian)</small>
+
+He is from Korth, where he worked as a dancer at a brothel. One night a half-elf came in, handsome, charming and wealthy, who told Lorian to call him Mr. H; later Lorian called him Hal. The man promised him a real dancing job at the biggest club in Khorvaire, performing for rich and powerful people for more gold than he had ever dreamed of. He paid Lorian well and showed him a good time, and eventually Lorian agreed and followed him to Sharn. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+Mr. H took him straight to a club in the Upper City. Lorian worked there for nearly a week, made friends with the staff and shared an apartment with other dancers and servers. Then he was told the owner wanted to meet him, and met Faith, who looked him over and said he would "do nicely". She took him into her private residence, attached to the club in the same building, and asked him to perform for a large man sitting in shadow by a fireplace. He thinks that was the first time they drugged him. After that he was kept in a chamber in their home with others, some tied up, some bleeding out, some already dead, and was taken out sometimes "for him". <small>(Nico's DM notes, Captive – Lorian)</small>
+
+In the fuller account he gave of the Vault Underground, Faith first approached him on the club's party floor, told him he had "potential" and that Malrik would want to see him, and in her office told him he was "chosen". Malrik sat in the dark in the penthouse living room and told him to perform. "I didn't want to," Lorian said. "I performed." He woke chained to the wall of a room off the kitchen beside other people, and was kept there for weeks or months, made to perform for Malrik, for guests and for rituals. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+He was drugged again, blindfolded and moved to the Vault Below, the lower-city club, and woke in the little cell where the trio later found him. A woman was already there. He did not know her; she told him her name was Roma, and she had been there for months or more and was already fading when he was put in with her. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+When Malrik fed on him he complained, calling humans scraps and their blood too weak, and talked about "stronger stock" coming in from the monster lands. Many times Faith begged Malrik to change her and screamed at him not to make her wait any longer; he always refused, saying it was not time. One night, after a lot of drugs and a night with them, Lorian passed out on their bed and woke to the sound of a hatch opening in the floor. A cloaked woman climbed up into the room. Malrik did not open his eyes; he moved like an animal, leapt out of bed and pinned her to the wall by the throat. Faith screamed at him to stop, and he did, at once. Then she came over and drugged Lorian again, and that is the last thing he remembers of the night. <small>(Nico's DM notes, Captive – Lorian)</small>
+
+He offered the trio everything he knew: the layout, the entrances, the rules, the drinks, the staff, the bouncers, the way Faith talks and the way Malrik moves. He offered to get them inside, and to go with them.
+
+> "I'll go with you if you want. I'm scared. But I'm not useless."
+
+<small>(Nico's DM notes, Captive – Lorian)</small>
+
 ## Training
 
 Lorian has a farmer's background and was a dancer. Nico, who plays him, made him a Vengeance paladin because he was angry, wanted vengeance and was spending time with Zero-One. He fights unarmed, in keeping with the dancer, and does not wear heavy armour. He trains with the Nest and Izaak, and carries a pistol. He wears the boots of speed [Gemma](/people/gemma-corso/) bought from the wizard in Newham and the gauntlets of ogre power she got from the bastion. His steed is a horse because he was a farmer. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
 
 When Dave took over as DM for the Korth arc he allowed the pistol, with loading: "firearms are at DMs discretion because they violate some of the main tradeoffs of the game (range/cover/damage/hands)". <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
+
+## The Council of Sharn
+
+On the night Esther Crona fell, Lorian tended Malrik's captives with Nest healers. He is one of the few who knew Richard Blaze had survived: he had seen Richard at Malrik's, and Jessica Grimpledink told him the truth because, in her words, "Lorian needed the truth." At the first meeting of the Council of Sharn he sat with the NEST and Fulcrum delegation alongside Jessica and Izaak. <small>(Nico's DM notes, Episode 19)</small>
 
 ## Thronehold
 

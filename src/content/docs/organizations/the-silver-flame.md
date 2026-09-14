@@ -33,6 +33,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-06-24"
 - "Oral Histories: The Inevitables, 2025-07-18"
 - "Oral Histories: The Inevitables, 2025-08-08"
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-silver-flame-organization
@@ -71,6 +72,8 @@ Certain women of the faith undertake [an ancient and nearly forgotten rite that 
 ## The Council of Sharn
 
 When Sharn fell to the coalition, Zero-One and Silver Flame paladins seized the Black Dove Hospital and rounded up the clergy. At the first session of the Council of Sharn the Flame brought two demands and won both: **outlaw the Black Doves**, and **enforce citywide cremation**. Sister Nora, Hillary Heinrick and Dr. Joanne Menka were tried, found guilty and executed with other high-level Iron Veil officials. The cremation directive was enacted across the city. When the Flame came for [Esther Crona](/people/esther-crona/)'s body it had already been carried out of the morgue by two elven women.
+
+In Nico's notes, Donna and other Silver Flame clerics tended the injured at the seized hospital with Fulcrum healers, and the Flame's delegation to the council was Zero-One with two paladin guards, [Zero of Sharn](/people/zero-of-sharn/) and [Donna](/people/donna/). Its full proposals were: convert the Black Dove Hospital into a Silver Flame healing centre; continue healing Sharn's citizens and the victims of the Black Veil's Skyport disaster; execute and outlaw the Black Doves; a Flame-led cleansing of corrupted sites, including the Zeir residence and the Black Veil crash site; a citywide cremation directive, to prevent Uriel from raising the dead; sanctuary protections for refugees, especially Cogborn, Lower City families, war survivors and orphans; and a permanent seat on the council. Blair's demand for a ban on Silver Flame patrols in the Underhive was one Zero-One would oppose. <small>(Nico's DM notes, Episode 19)</small>
 
 Three years on the Flame and Zero-One opposed the Thronehold Summit outright. The Summit ended in massacre. At the hospital afterward, Bofric the runesmith played the fanfare of the Dawn for a representative of every faith on the continent, and the clergy took up teaching what they named the **Horn of Mourning**, congregation by congregation. Dario told that room he had broken three bells and would break every one — and that the woman who rings them must be cut down along with everyone who helped her.
 

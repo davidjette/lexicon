@@ -34,6 +34,7 @@ fields:
 sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/pose-mission-notes.txt
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: posE-location
@@ -70,6 +71,12 @@ gallery:
 *Also known as:* Posé · Pocē
 
 POSÉ is a restaurant in the Upper City of [Sharn](/places/sharn/), the newest venue of the restaurateur [Richard Blaze](/people/richard-blaze/). Its grand opening drew the Empire's high command and was infiltrated by three of the Inevitables, disguised as servers, who recorded the table talk of [Esther Crona](/people/esther-crona/) and her officers. A Cogborn protest outside surged up the grand staircase, shots from within the crowd killed the news anchor Candice Kurt, and the three servers abducted **Sister Nora** in the panic. The Iron Veil blamed the protesters, and the occupation of [the Cogs](/places/the-cogs/) began that night. The restaurant is still standing.
+
+## The Veil level
+
+In Nico's notes Posé is built on the rooftop of an apartment building on the Veil level, one of the highest levels of Sharn, which also holds the Arcane Eye headquarters, the government building, the Veil barracks, a high-security prison and Esther Crona's penthouse. A single grand staircase leads up to the level: "One way in. One way out." A short staircase climbs from the street to the rooftop terrace, where a large outdoor dining area opens onto the views of the upper city, and an overhang balcony looks down on the grand staircase. The apartment building beneath has an elevator that runs from the Veil level down to the lower Astra level. <small>(Nico's DM notes, Episode 2)</small>
+
+The name means "to ignite" in Infernal slang. Jessica Grimpledink, briefing the trio: "Infernal slang. Means 'to ignite.' Fitting." The opening was largely a cocktail event, with food, drinks and hookah. <small>(Nico's DM notes, Episode 2)</small>
 
 ## The room
 
@@ -129,8 +136,41 @@ What they overheard, moving between tables, was the state of the Empire in fragm
 
 **Faith Zeir and [Malrik Zeir](/people/malrik-zeir/)** — Malrik to Faith: "The Children of Ember are here."
 
+## Arrivals and table talk, in Nico's notes
+
+At the foot of the short staircase a hostess sent the servers up to find Marla, the head server, beside a single Honor Guard, tall, fully armoured and face shielded. At the top Richard Blaze greeted them, friendly but busy, and Marla gave them their trays and showed them the restaurant. [Calcifer](/people/calcifer/) ran around "helping" his father, with his nanny [Whole Foods](/people/whole-foods/) always nearby. [Candice Kurt](/people/candice-kurt/) and her personal media ArcEye were already set up on the overhang balcony, with a clear view of the protesters being held back by Iron Veil guards on the grand staircase. <small>(Nico's DM notes, Episode 2)</small>
+
+The VIP guest list named Esther Crona, Richard Blaze, Calcifer Crona-Blaze, [Henry](/people/henry-heinrick/), [Hillary](/people/hillary-heinrick/) and [Chelsea Heinrick](/people/chelsea-heinrick/), Supreme Admiral Vex d'Lyrandar, Hallorn d'Lyrandar, Faith and Malrik Zeir, General Stockton Thar, Dr. Joanne Menka, [Sister Nora](/people/sister-nora/) and Candice Kurt. The hostess announced each guest and Richard greeted each at the top of the stairs. Nico's arrival order: <small>(Nico's DM notes, Episode 2)</small>
+
+- **The Heinrick family.** Chelsea ran straight to Calcifer and the two ran off playing.
+- **Esther Crona**, beautiful and regal. Richard greeted her with a deep kiss, and Calcifer yelled "mummy" and ran to hug her around the waist. She mingled, polite but reserved.
+- **Dr. Joanne Menka**, stern and annoyed.
+- **Sister Nora**, quiet and sweet-looking. Menka made straight for her.
+- **Supreme Admiral Vex d'Lyrandar**, who made straight for Esther.
+- **Faith and Malrik Zeir**, who went straight to Calcifer and fawned over him.
+- **General Stockton Thar**, who took a drink and stood alone overlooking the city, waiting for Esther to approach him.
+- **Hallorn d'Lyrandar**, last, with a beautiful woman on each arm. He went directly to Faith.
+
+Nico scripted further conversations for the trio to overhear. Hallorn asked Faith about a gift: "Faith… the gift I sent you. You received it, yes? Why haven't you used it?" Faith: "Gift? No. I received nothing Hal." Hallorn promised to send another, and the two separated fast, looking as if they wanted to embrace. Faith found Calcifer: "There you are, my little Ember." Calcifer: "Aunty, I'm helping Daddy in the kitchen!" <small>(Nico's DM notes, Episode 2)</small>
+
+Esther stepped beside Richard and slipped her fingers between his. "You're doing beautifully, Richard." Richard: "Because of you." Watching Calcifer play, she said, "He's happy. He loves the kitchen." <small>(Nico's DM notes, Episode 2)</small>
+
+At the terrace railing, with Hallorn's companions forgotten, Malrik pressed his half-brother: "Listen brother, the shipment is on the Valenar coast waiting for your ships. Why aren't they moving?" Hallorn blamed the Republic of Khraal: "Rebel hobgoblins have taken the shoreline. My captains can't get within a mile of the docks." Malrik: "Esther won't accept delays." Hallorn: "I know." <small>(Nico's DM notes, Episode 2)</small>
+
+On the balcony Candice Kurt interviewed [Henry Heinrick](/people/henry-heinrick/) for *Serving Sharn Nightline*. Henry, beaming, called Posé "a dining experience worthy of Sharn's highest towers" and said, "I'd move my family in if they'd let me!" Hillary pushed Chelsea toward her father, and he hugged her for the ArcEye. When Candice raised the Cogborn protest as a sign of growing instability, he smirked: "Candice, if Sharn isn't dramatic, it isn't Sharn. We thrive on spectacle." <small>(Nico's DM notes, Episode 2)</small>
+
 ## The staircase
 
 Outside, a Cogborn protest erupted into chaos — *"We are the Cogs! We are the base! Bodies gone missing! Name every face!"* — and surged up the grand staircase. Shots rang out from within the protesters, struck the balcony and killed the celebrity news anchor **Candice Kurt**. The blame was placed on the Cog protesters. In the panic the three servers turned invisible, abducted **Sister Nora** of the Black Doves, and escaped by a hidden elevator route.
 
 That night every screen in Sharn turned red and [Esther Crona](/people/esther-crona/) executed Cogborn prisoners live from the deck of her warship. Iron Veil security tightened across the city, checkpoints divided upper from lower, and the occupation of [the Cogs](/places/the-cogs/) began in earnest.
+
+In Nico's notes the protest gathered at the foot of the grand staircase, behind Iron Veil blockades at its bottom and top, and at the height of the night pushed through the barriers and up the stairs. One protester screamed "For the Cogs" and fired at the balcony. Esther Crona grabbed Calcifer and teleported away, and [Izaak](/people/izaak/), watching from a distant rooftop, directed the trio to the apartment building's elevator, which took them down to the Astra level. Candice Kurt's media ArcEye, the only ArcEye at the opening, vanished when she died. <small>(Nico's DM notes, Episode 2)</small>
+
+## The menu
+
+The opening menu, in Nico's notes: <small>(Nico's DM notes, Episode 2)</small>
+
+- **Small bites:** Spicy Newham Pork Tacos (braised pork, Newham cabbage spice, charred pineapple, micro-cilantro) · Ember-Glazed Shrimp Skewers (honey-chili glaze, torch-kissed finish) · Cinder-Roasted Mushroom Tartlets (roasted mushrooms, caramelized onion, smoked cheese) · Fire-Kissed Citrus Crème Bites, for dessert (brûléed citrus custard, ember caramel shard, warm spice).
+- **Signature cocktails:** Skyfire Saffron (golden gin, saffron syrup, citrus, ember-salt rim) · Cinderstorm (mezcal, blood orange, smoked chili, flaming peel) · Dragonhawk Ember (spiced whiskey, ruby cordial, crackling sugar) · Forge-Born Fizz (champagne, ginger fire syrup, glowing ember cube).
+- **Hookah, elemental blends:** Blazeleaf No. 13 (a warm, spicy exhale infused with Newham cabbage) · Cinderbloom Ember Mix (floral smoke grown near Fernian zones) · Dragon's Breath Red (a deep ruby blend with a cinnamon-ember finish).

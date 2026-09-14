@@ -29,6 +29,7 @@ fields:
 sources:
 - sources/site/biotec.txt
 - sources/site/sharn-episode-summaries.txt
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: the-astra-bar-location
@@ -49,4 +50,8 @@ He was assessed as a low-risk, easily influenced source with no awareness of the
 
 ## The meeting
 
-It was at the Astra Bar that Izaak met three newcomers to Sharn for a quiet conversation and handed them their first assignment: infiltrate the corporate labs of BioTec and steal the Ghost Chip.
+It was at the Astra Bar that Izaak met three newcomers to Sharn for a quiet conversation and handed them their first assignment: infiltrate the corporate labs of BioTec and steal the Ghost Chip. Nico's narration opening the next session looked back on "meeting Izaak at The Astra… the assignment… Martin Kross". <small>(Nico's DM notes, Episode 2)</small>
+
+## The Astra level
+
+In Nico's notes the Astra level lies below the Veil level. The apartment building under the rooftop restaurant [Posé](/places/pose/) has an elevator running between the two, and on the night of the Posé attack the trio took it down to the Astra level and slipped back to their safe house unnoticed. <small>(Nico's DM notes, Episode 2)</small>

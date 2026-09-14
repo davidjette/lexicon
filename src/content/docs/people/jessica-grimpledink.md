@@ -39,6 +39,8 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/01.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: jessica-grimpledink-person
@@ -87,6 +89,14 @@ She is cautious with outsiders and unwaveringly loyal to those who earn her trus
 
 Her method is the mission board. She does not issue orders so much as lay out the whole interconnected map of a problem and let operatives pick. She hands out tools before she hands out risk — Ghost Chips, Sending charms, produce-delivery covers with the Vilspar Farm-Table Co-operative, upgraded and linked sending stones — and she does not send anyone anywhere she has not thought about the exit from. When the Children of Ember learned the location of the Upper City safe house, she walked the party through the tunnel into the Nest and then collapsed the tunnel behind them without discussion.
 
+## The tour and the Posé briefing
+
+In Nico's notes for Sharn Ep 2 Jessica is a gnome woman, voiced "dry, efficient, but warm beneath it." Zero of Sharn introduced her to the trio in the Nest's kitchen: "This is Jessica Grimpledink. She built this place, built The Nest." Jessica's greeting: "You made quite an impression last night. Let's get you oriented, let me show you around." She led them through the kitchen, the bunks, the workshop and the map room, and set the stolen files in front of them: "These are the encrypted files you pulled from BioTec. Let's see what you can make of them." She watched their reactions carefully as they read. <small>(Nico's DM notes, Episode 2)</small>
+
+At the briefing for Posé she named the target, "Richard Blaze is opening a new restaurant — Posé. Infernal slang. Means 'to ignite.' Fitting.", and described the guest list as "High-profile. Dangerous." Her instruction: "Observe. Listen. Report. Do not engage." In Nico's arrangement she and Zero could meet the trio only in the Nest or through the secret tunnel to the safe house, never in public. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes add that Jessica was told Richard Blaze's secret years earlier, when the Nest was established and began helping Fulcrum and Fema Nolan at Zilspar, and that Zero of Sharn and Izaak were never told. Nico's first plan for the reveal had Jessica tell the trio that Fema wanted to meet them at the Zilspar farms with Digma Beeve present, and then arrive there herself with Fema and Digma. <small>(Nico's DM notes, Episode 2)</small>
+
 ## The Briefing at the Nest
 
 With Hallorn and the Children of Ember closing on the safe house, Jessica brought the party in and gave them the whole picture at once: the worsening war in the West, Crona's Wall freezing Lake Galifar, rising Red Khyber activity, the looming Sharn Broadcast Override, and — from [Lorian](/people/lorian/)'s testimony — a complete architectural breakdown of the Vault Underground and the trafficking network beneath it. Then she upgraded their sending stones into a single linked device and let them choose their target.
@@ -94,6 +104,14 @@ With Hallorn and the Children of Ember closing on the safe house, Jessica brough
 ## The Council of Sharn
 
 In the hours after the rising she reported that Nest and Fulcrum operatives had secured the Veil Building and taken Hillary Heinrick and Dr. Joanne Menka into custody, that Zero-One's paladins had seized the Black Dove Hospital, and that representatives of every major faction were already on their way to the penthouse. She opened the meeting herself, credited the trio with preventing the city's fall, and framed the council's purpose: stabilise Sharn, and prepare for a war that was not over.
+
+In Nico's notes she steps into the penthouse still streaked with soot and blood. Her report adds that Donna was at the Black Dove Hospital with Silver Flame clerics and Fulcrum healers; that Blair's Underhive, Joseph Roberts and his pirates had cleared the Lower City; and that the Iron Veil engineers running the Cogs refused to leave, claiming the entire city would shut down if they walked away. She pulled the trio aside about Richard: "Digma updated me and Zero‑One. Richard and Calcifer are safe at the farm. Lorian knows too he saw Richard at Malrik's. I thought it best not to tell anyone else, but Lorian needed the truth." <small>(Nico's DM notes, Episode 19)</small>
+
+Her opening statement, in Nico's notes, began:
+
+> "Thank you all for coming. Every person in this room answered Sharn's call when it mattered most."
+
+She told the room that Sharn would have fallen without Dario, Eric and Gemma, that the purpose was "to decide how we continue helping this city survive… and how we continue fighting the Empire that threatens all of us", and gave the floor first to the Republic of Talenta. She sat on the NEST / Fulcrum delegation with Izaak and Lorian. <small>(Nico's DM notes, Episode 19)</small>
 
 ## Zilspar
 

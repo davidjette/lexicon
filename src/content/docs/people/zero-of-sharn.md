@@ -42,6 +42,7 @@ sources:
 - session-2026-08-28-summary-nichole-style.md
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: e873d4b7-4a63-4e80-80dc-7cd41abe73c3
@@ -85,6 +86,14 @@ She believes the Flame is worth a name and gave up her own to prove it. She beli
 A BioTec letterhead document recovered by an operative during a Fulcrum lightning rail infiltration named a prototype called the Ghost Chip and said it was entering final testing. Zero took it from there. Weeks of surveillance on Martin Kross at The Astra produced the specification the Empire had not written down: an implant that disrupts the scry-signature the Arcane Eyes rely on and creates a persistent blind spot around the person carrying it. Menka's name. The excluded ArcEyes. The locked door off the East Lab.
 
 The Nest sent three strangers to steal the prototype itself. They came out with the chip and a folder of encrypted high-level data, solved the puzzle in Skyroot Park, and met Zero underground while the city slept. She helped them redact the files and pull **Project EDEN** out of them, and Izaak implanted a Ghost Chip in each of them before they went back up. Everything after that — Posé, Sister Nora, the Underhive, Edwin Graves, the Forge of Binding, the balcony — proceeds from a woman buying drinks for a technician who liked to talk.
+
+## The Nest and the Posé assignment
+
+In Nico's notes for Sharn Ep 2, voiced "calm, quiet, authoritative", Zero met the trio when they reached the Nest after the BioTec raid. She did not ask questions; she looked them over, nodded once and said, "You're safe. Good. Bunks are this way. We'll talk in the morning. Oh — and welcome to The Nest." The next morning she introduced them to Jessica Grimpledink: "Good. You're awake, there's someone you need to meet." When Izaak offered to copy the Ghost Chip into each of them, she added, "It'll make you invisible to ArcEyes. Useful for tonight." <small>(Nico's DM notes, Episode 2)</small>
+
+After the tour Zero gathered them at the central table, set out three rose-gold server badges and folded uniforms, and said, "Your next assignment is tonight." She gave them their cover, "Farm-to-Table Fresh. Vilspar Co-operative. Your cover is solid," and slid the VIP dossier across the table. Nico made her the trio's main contact inside the Nest, someone they could meet only there or through the secret tunnel to their safe house, never in public. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes also state that Zero does not know that Richard Blaze is a founder of Fulcrum. <small>(Nico's DM notes, Episode 2)</small>
 
 ## The Horn of Mourning
 

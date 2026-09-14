@@ -37,6 +37,8 @@ sources:
 - sources/site/home.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
+- sources/documents/2026-09-14-nico-sharn-hopper.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: hopper-person
@@ -63,6 +65,20 @@ He supplies the rebellion out of the shop, and it is a supply line the Empire ne
 
 > Hopper, thrilled at the chance to expand, struck a major trade deal with them.
 
+## The deed, in Nico's notes
+
+In Nico's notes for the scene, Hopper has no idea who owned the Arcade. All he knows is that it ruined his business, appeared out of nowhere, had no staff, made no sense and creeped him out. By his account the records were sealed, the building was bought under a shell company, and the place "just… opened" one day with no owner and no deliveries. He had thought it cursed, or haunted, or both. <small>(Nico's DM notes, Hopper)</small>
+
+Handed the deed, Nico's Hopper makes a tiny frog squeak, clutches it to his chest and shakes with excitement:
+
+> "I LOVE YOU. I LOVE ALL OF YOU. I WILL NAME A SHELF AFTER YOU."
+
+Then he gets serious: "I don't know who built that place, but it wasn't anyone normal. I'll take it off your hands. And I'll make it something good." Nico planned his thanks as one or two free uncommon magic items, a permanent discount of 25 to 30 percent, access to his "secret stash", a future favour, a promise to expand the shop and a promise to keep the party's secret, making him a major ally. <small>(Nico's DM notes, Hopper)</small>
+
+The Arcade he was taking on was, in Nico's notes, an automated BioTec field test site for Project EDEN, with no employees and a handful of Lower City locals who had been feeding its machines for days; see [Dr. Edwin Graves](/people/dr-edwin-graves/). <small>(Nico's DM notes, Hopper)</small>
+
+At the fall of Esther Crona, Eric held a Bigby's hand from a scroll he had got from Hopper, and used the hand to knock one of Esther's undead Honor Guards off the balcony. <small>(Nico's DM notes, Episode 19)</small>
+
 ## Right now
 
 Hopper supplies the free city's rebellion out of a shop in the Sub-line District.
@@ -71,7 +87,7 @@ Hopper supplies the free city's rebellion out of a shop in the Sub-line District
 
 **Holdings:** Hopper's Magic Emporium, Sub-line District, Lower City.
 
-**Items:** home-security crystals · ritual incense · bulk supplies and magic items sold into the rebellion · one casting of Summon Dragon, placed into a Ring of Spell Storing.
+**Items:** home-security crystals · ritual incense · bulk supplies and magic items sold into the rebellion · one casting of Summon Dragon, placed into a Ring of Spell Storing · a scroll of Bigby's hand, which Eric used on Esther Crona's balcony. <small>(Nico's DM notes, Episode 19)</small>
 
 **Personality Characteristics**
 

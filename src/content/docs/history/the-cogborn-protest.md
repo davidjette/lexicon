@@ -33,6 +33,7 @@ sources:
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/key-figures.txt
 - worldanvil/sources/site/home.txt
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: the-cogborn-protest2C-explosion-and-riot-militaryConflict
@@ -66,6 +67,14 @@ Two things about that account do not sit still. The shots came from inside a cro
 
 No source in the rebellion's possession names who set it. R.U.S.T.'s own record says only that an explosion tore through the crowd, and that the Iron Veil used the chaos as justification. Whether the bomb was rebel, Imperial or something else has never been established, and the people best placed to investigate spent that night abducting [Sister Nora](/people/sister-nora/) of the Black Doves through a hidden elevator route and did not go back.
 
+## NICO'S NOTES — THE STAIRCASE AND THE SHOT
+
+In Nico's notes the protest gathered at the foot of the grand staircase, the only way up to the Veil level, with Iron Veil soldiers standing guard behind blockades at its bottom and top. The protesters were real Cogborn, protesting that their people were going missing and turning up dead with no news and no help. Their chant ran back and forth between a leader and the crowd, "We are the Cogs!" answered by "We are the base!" <small>(Nico's DM notes, Episode 2)</small>
+
+At the height of the night the protest grew louder and wilder, and people pushed through the barriers, up the stairs and into the Iron Veil guards. Inside Posé, Malrik Zeir told his wife Faith, "The Children of Ember are here." Then one person in the crowd screamed "For the Cogs" and fired toward the Posé balcony, killing Candice Kurt. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes attribute the shot to [the Children of Ember](/organizations/the-children-of-ember/). Faith heard the protest was coming and planned the attack with Malrik as a false flag; the cult member who shot Candice Kurt allowed themselves to be killed in the cult's service. In the same notes no one outside the cult knew, Esther Crona included. The media and the government blamed the Cogborn for the shooting and for the disappearance of Sister Nora, and the Sharn News Network's anchor Tim Raisins reported the Imperial account that "Cogborn agitators escalated a peaceful protest into a riot". <small>(Nico's DM notes, Episode 2)</small>
+
 ## THE EXECUTIONS
 
 That same night, every screen in Sharn turned red. [Esther Crona](/people/esther-crona/), clad in full armor atop her Imperial warship, executes Cogborn prisoners live for the entire city to witness.
@@ -73,6 +82,8 @@ That same night, every screen in Sharn turned red. [Esther Crona](/people/esther
 > The message is unmistakable: dissent will be crushed.
 
 It was the first time the Inevitables saw her.
+
+In Nico's notes the screens turned red with black letters reading "What was first just a dream has become a frightening reality for those who may oppose us." The broadcast then showed Esther in full armour with her great HexBlade drawn, standing on top of her Imperial ship parked over the city, with four Cogborn prisoners in front of her, and she executed them live. <small>(Nico's DM notes, Episode 2)</small>
 
 ## WHAT IT SET IN MOTION
 

@@ -39,6 +39,7 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/sharn-episode-summaries.txt
 - worldanvil/images/rebel-factions/11.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: preacher-person
@@ -74,6 +75,8 @@ He believes the Cogborn are his people and that the argument ends there. He beli
 He briefed three armed strangers by telling them the truth of the crisis in plain order — the Cogborn are trapped, the Iron Veil is tightening its grip, the window is closing — and then told them the price [Blair](/people/blair/) had set, without recommending they pay it. He has never once been recorded raising his voice, and he has never been recorded leaving anyone behind.
 
 Generations of Cogborn workers and Warforged labourers built the city's industrial heart, and he was among them; the furnaces shaped him and decades of the worst jobs on the line kept him there. Then the decree came, the Iron Veil seized the factories, and Cogborn labour was replaced with trained soldiers. The community — already weakened by hazardous work, malnutrition, and the loss of the Warforged who had shouldered the deadliest tasks — was pushed out of its jobs, its neighbourhoods and finally its homes, into collapsing tunnels beneath the Cogs. Preacher stayed hidden through all of it, raising Misty, opening routes, and gradually turning a survival habit into a network. Then a peaceful protest in the Upper City erupted into a riot when an explosion tore through the crowd, twenty-one of his people and forty-three Cogborn civilians died, and there was no longer any option but to leave.
+
+In Nico's notes for the first meeting of the Council of Sharn, Preacher sat in the unified Hundreds and R.U.S.T. bloc with [Snodgrass](/people/snodgrass/), [Doppler](/people/doppler-klink/) and [Locke Pierce](/people/locke-pierce/). Warforged citizenship and legal personhood was Preacher's demand, backed by Locke, and the bloc also asked for a memorial for the Cogborn victims, especially those lost in the POSÉ riot. <small>(Nico's DM notes, Episode 19)</small>
 
 **Right now:** the Cogborn walked out of Sharn through [the Underhive](/organizations/the-underhive/) and the Spine, and Preacher led them in song at the mountain tunnel while Locke Pierce teleported in to meet him. R.U.S.T. holds a seat in the new Sharn: Warforged citizenship, the arrest of the Iron Veil engineers, and a Department of Infrastructure, all carried at the first Council. Warforged troops and engineers are stabilising the city and restoring the Cogs he was raised in.
 

@@ -37,6 +37,7 @@ sources:
 - worldanvil/sources/site/pose-mission-notes.txt
 - worldanvil/sources/site/mission-board.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: dr-joanne-menka-person
@@ -100,6 +101,8 @@ Both measures were designed to keep information in. Both are the reason a rebel 
 
 No account of her life before BioTec has reached rebel hands. She enters the record fully formed, at the top of a field, in a company renowned for its unwavering support of the Empire and the Iron Veil, and everything written about her is written about the work. Her reputation was built on precision and discipline, and it is the only biography the Empire published.
 
+In Nico's notes Menka was formerly a colleague of Fema Nolan, and she was one of the few people present when Esther Crona brought her half-sister [Eden](/people/eden/) to the Black Dove Hospital four years before the Sharn arc: Esther, Sister Nora, Menka and two Black Dove clerics were the only ones there, and the only ones who know exactly what happened to Eden. <small>(Nico's DM notes, Episode 2)</small>
+
 ## The Breach
 
 The night the Ghost Chip was stolen, three hybrid units were released in a corridor by a panicking scientist and the intruders barely escaped. Menka was furious about it at the POSÉ opening the following evening — Sister Nora tried to calm her with the line that "the souls lost last night will be added to the eternal nightfall," and Menka ignored her entirely. Then she found the Lord Commander:
@@ -111,6 +114,14 @@ The night the Ghost Chip was stolen, three hybrid units were released in a corri
 > **Menka:** "Yes, my Lady."
 
 <small>She lost a senior scientist and led with the technician's name.</small>
+
+## Posé, in Nico's notes
+
+In Nico's notes Menka arrived at [Posé](/places/pose/) looking stern and annoyed, already suspecting that BioTec had been broken into the night before, and made straight for Sister Nora on her arrival. In the planned version of their conversation she believed someone inside BioTec had helped the intruders. Nico staged her report to Esther in a shadowed corner near the service hallway, with Menka "pale with fury" and "shaking with anger", and the scripted close ran: "Clean the mess. Contain the story. And find Kross." Menka nodded, trembling. <small>(Nico's DM notes, Episode 2)</small>
+
+In the notes for the next session Menka would have told Sister Nora at once that Martin Kross never showed up for work the next morning, that his BioTec-issued apartment had been ransacked, and that his key card had been used to enter the building the night of the break-in. The bodies found inside, two private guards, the scientist and one of the hybrid units, were taken to the [Sanctum of the Last Mercy](/places/sanctum-of-the-last-mercy/) to undergo the Umbra ritual that would fold them into possible Project EDEN units. The slowed Embra shipments from Valenar, which slowed the production of new units, made Menka nervous. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes also name Menka, with Sister Nora and Esther Crona, as one of only three people who knew who the Cog Collector was: [Dr. Ed Graves](/people/dr-edwin-graves/), a former BioTec scientist who left the company when Project EDEN was created to collect Cogborn corpses for it. <small>(Nico's DM notes, Episode 2)</small>
 
 ## Right Now
 

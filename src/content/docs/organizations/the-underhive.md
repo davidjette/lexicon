@@ -32,6 +32,7 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/home.txt
 - worldanvil/images/key-figures/02.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-underhive-organization
@@ -79,3 +80,17 @@ Blair, enraged that [Esther Crona](/people/esther-crona/) had dared encroach on 
 ## COUNCIL OF SHARN — UNDERHIVE DEMANDS
 
 Autonomy. Legal ownership of the Ziggurat and the Vault Below. A permanent council seat for Berenstain. The demands were tabled, tempers rose, and Dario ordered Blair arrested during the dispute; she was tried later and released. Underhive Drones nevertheless joined the new Department of Infrastructure while keeping their subterranean autonomy — the only faction to take a seat in the new city and keep its own country underneath it.
+
+In Nico's notes, Blair, her Underhive, Joseph Roberts and his pirates had cleared the Lower City by the morning after the rising. The Underhive delegation to the council was Blair, [Berenstain](/people/berenstain/) and [Joseph Roberts](/people/pirate-joseph-roberts/), and its full list ran:
+
+- privately, from Blair: "Where are Richard and Calcifer?"
+- full autonomy for the Underhive: no Silver Flame, no ArcEye, no Upper City interference
+- legal recognition of Blair's ownership of [the Ziggurat](/places/the-ziggurat/) complex, which is already hers
+- legal ownership of [the Vault Below](/places/the-vault-below/): "Faith is dead; Blair wants the club"
+- a permanent Underhive seat on the council, filled by Berenstain, since Blair does not want the seat herself
+- Underhive Drones in the new Department of Infrastructure, working alongside R.U.S.T. and Warforged engineers
+- support for a Warforged-led militia outside Underhive territory: "Locke controls the city; Blair controls the tunnels"
+- a ban on Silver Flame patrols in the Underhive, which Zero-One would oppose
+- no taxation of the Underhive by the Upper City: "Blair will not pay for their mess"
+
+<small>(Nico's DM notes, Episode 19)</small>

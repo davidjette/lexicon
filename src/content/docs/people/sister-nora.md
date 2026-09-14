@@ -41,6 +41,7 @@ sources:
 - sources/wa/the-black-doves-organization.txt
 - "Oral Histories: The Inevitables, 2026-01-22"
 - "Oral Histories: The Inevitables, 2026-02-21"
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: sister-nora-person
@@ -96,9 +97,19 @@ Quiet, deferential, unhurried, and present at every event that mattered. She hid
 
 Her birth, her clan and her arrival in Khorvaire are not recorded. She is first attested at the University of Newham, studying the drug Embrace, in the same years that Uriel Qualanthri's hospital there grew into the research and educational facility that houses U.N.D.E.A.D. It was at Newham that she confirmed the blood relation between Esther Crona, [Faith](/people/faith/), [Blair](/people/blair/) and Eden. By the time of the Sharn arc she was senior enough to represent the Sanctum of the Last Mercy, to speak for the order at civic functions, and to be the Empress's chosen observer in the Empire's second city.
 
+## Eden and the Diamond Ritual
+
+In Nico's notes Sister Nora filed the sealed testimony on the Eden incident, four years before the Sharn arc and six months before BioTec Phase I. Esther Crona brought her half-sister [Eden](/people/eden/) to the Black Dove Hospital in Upper Sharn with catastrophic sternal trauma and no vital signs, and told the clerics about the diamond ritual she had once seen Fema Nolan perform to bring Uriel back to life. Nora was the main cleric to perform it, with the help of Umbra and BioTec technology. <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes set out the Diamond Ritual as an emergency resurrection modelled on the Uriel and Fema Nolan event. Its components were a Khyber-cut diamond of unknown size, a modified Last Mercy rite, a necro-arcane lattice stabilizer, and direct channelling from three senior Doves. Uriel's ritual had set the diamond at the base of the skull; Eden's required it embedded in the sternum, replacing her heart. The recorded outcome: "Eden revived." Esther, Nora, Dr. Joanne Menka and two Black Dove clerics were the only people there. <small>(Nico's DM notes, Episode 2)</small>
+
 ## The Abduction at POSÉ
 
 At the opening of [Richard Blaze](/people/richard-blaze/)'s restaurant POSÉ, a Cogborn protest outside erupted into chaos and shots fired from within the crowd killed the news anchor Candice Kurt on the balcony. In the panic the trio turned invisible and abducted Sister Nora, escaping by a hidden elevator route revealed by Izaak. They teleported her unconscious to Zilspar Farm 02, where Donna led them to a concealed underground cell and sealed it with a Private Sanctum ritual. Her disappearance closed the checkpoints between the upper and lower city and sent Iron Veil raids sweeping the Cogborn neighbourhoods.
+
+In Nico's notes Nora arrived at [Posé](/places/pose/) quiet and sweet-looking, and Dr. Joanne Menka made straight for her. When the shooting started she saw Dario, under his server name Ronaldo Weasley, tackle her to the ground, seemingly to keep her safe. She went without much of a fight while Dario persuaded her he was moving her to safety; he carried her invisibly to the elevator and then in a bag of holding on his panther mount to the safe house. By the time they arrived she understood she had been kidnapped by a Vilspar farm-to-table co-op server. She lay bound, her face and mouth covered, and assumed the servers had been working with whoever attacked Posé and killed Candice Kurt, which would make them Cogborn agents. <small>(Nico's DM notes, Episode 2)</small>
+
+On the Sharn News Network that night, the anchor Tim Raisins reported that "Sister Nora of the Sanctum of the Last Mercy remains unaccounted for", and that authorities believed she might have been caught in the chaos as the Cogborn mob surged through the Veil level plaza. The media and the government blamed her disappearance on the Cogborn, tied the missing BioTec technician Martin Kross to them too, and the Iron Veil raided the Cog neighbourhoods. <small>(Nico's DM notes, Episode 2)</small>
 
 ## The Cell at Zilspar
 
@@ -109,6 +120,16 @@ Then they asked who supplied the bodies. She grabbed the side of her head near h
 > "She's more alive than the hybrids that came after her…but not whole. Not like she once was. A miracle, yes but an incomplete one, a soul even Uriel may not reach."
 
 By Nico's account, in her cell Nora worked out that her captors were not Cogborn, while the Empire still held the Cogs responsible for her kidnapping. <small>(Oral Histories: The Inevitables, 2026-01-22)</small> She talked after rolling two natural 1s on her saves. Nico, as DM: "she is one with her faith and you all took her because it is part of her calling to spread the message". Nico rated her "a high lvl cleric". At the time the Iron Veil believed "the cog were responsible for the riot / death of Candice Kurt and the kidnaping of Nora", and Nico warned that killing her might turn the Cogborn neighbourhood more violent. <small>(Oral Histories: The Inevitables, 2026-02-21)</small>
+
+Nico prepared the interrogation around what Nora knew and what she would protect. In those notes she is not scared to die and will take particular things to her grave. <small>(Nico's DM notes, Episode 2)</small>
+
+- **The Cogborn.** She knows they are protesting because their people are going missing and being killed, and comes across as unsurprised that they turned to violence after being ignored for three and a half years. She knows the cause is a secret portion of Project EDEN, "Cogborn corpse acquisition", run by Dr. Ed Graves, and she, Menka and Esther are the only people who know about him. She would never openly reveal that the killer the Cogborn call the Cog Collector is real, or give his name.
+- **The Zeirs.** She knows Faith and Malrik own and operate the Vault clubs and gambling houses and that Faith is Esther's sister, and gives that freely. She has never heard of the Children of Ember. She knows Malrik supplies Embra from Valenar and his half-brother Hallorn d'Lyrandar transports it, and that resistance attacks in the Khraal-controlled lands have slowed the shipments and with them the production of new EDEN units, which angers Esther and makes Menka nervous. She would not volunteer anything about Embra or the street drug Embrace, and might describe Malrik only as an industrialist.
+- **The BioTec break-in.** Menka would have told her at once what happened inside, what was taken, and that Martin Kross never came to work the next morning, his BioTec apartment ransacked and his key card used to enter the building that night. The bodies found inside, two private guards, a scientist and a hybrid unit, went to the Sanctum of the Last Mercy for the Umbra ritual that would fold them into possible EDEN units. She does not know where Kross is, and thinks he was involved in or duped into helping the intruders.
+- **Eden.** She knows that EDN-00 is Esther's half-sister Eden, and that she herself was the main cleric at the Diamond Ritual, and would not be open about either.
+- **The eternal nightfall.** Her words to Menka at Posé, "the souls lost last night will be added to the eternal nightfall", refer to a section of the E.D.E.N. file the trio saw only redacted, Imperial Expansion: "The Emperor's decline shifts power to Uriel and the Black Doves. E.D.E.N. framed as a divine reclamation instrument." There the initials stand for Empire Directive for Eternal Nightfall. Nora believes Uriel will bring the dead back for the Empire to rule all, and that Uriel means to command the Black Doves as her own army of necromantic warrior priests. She would give this up partly or not at all.
+
+As the questions went on she might first suspect the trio of working with the Cogborn, then come to believe they had no part in it and suspect them instead of the BioTec break-in, perhaps with the Zilspar co-op behind them. Izaak or Nora might mention that General Stockton Thar is thought to bear the Mark of Finding, which made it dangerous to keep her in the city, and if she saw Eric's palm she might point out that his Mark of Passage could get him into government archives. If she died, Nico allowed that the trio might learn some of her secrets through *speak with dead*, though she would still say little about Project EDEN. <small>(Nico's DM notes, Episode 2)</small>
 
 ## Trial and Execution
 

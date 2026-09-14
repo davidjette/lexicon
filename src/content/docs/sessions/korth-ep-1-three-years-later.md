@@ -26,6 +26,7 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - "Oral Histories: The Inevitables, 2026-06-06"
 - "Oral Histories: The Inevitables, 2026-06-19"
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: korth-ep-1-E28094-three-years-later-report
@@ -81,3 +82,5 @@ During the final assembly Eric delivered a speech calling for the Empire to be o
 ## Consequences
 
 The Summit ended on the brink of violence. Uriel's undead were already in the hall, and the accusation that opened the violence came from a Black Dove.
+
+In Nico's notes on the session, the delegates met with the orc, Black Dove and Hundreds representatives before the final assembly, and the orcs wanted to start taking more land that had not originally been theirs. The session stopped as Vex began to lift into the air, glowing with lightning, with a fight to follow. Dave's notes after the session record the party's gains: an Armor of Incognito, a Purse of Clutching, a Hairpin of Magic Detection and a Buff Chip (Ogre Str); the little poem about the bells; another bell found in a small church in Sharn; most of the big factions' plans for after the war mapped; and a meeting with Locke Pierce, who said he wanted to bring the party to the Mournlands to see some fruit. Gemma's missions were taking shape: a barista, an impersonated bureaucrat, patron of a fashion designer, and undercover in a Black Dove convent. <small>(Nico's DM notes, Episode 19)</small>

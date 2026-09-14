@@ -37,6 +37,7 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
 - worldanvil/images/rebel-factions/09.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: donna-person
@@ -92,6 +93,10 @@ Donna's life is rooted firmly in the soil of Zilspar Farm 02, and where she came
 ## The Patrol
 
 An Iron Veil patrol of four soldiers and a Veil Hound came down on the farm in the night, harassing sleeping workers and dragging families out of their homes. The trio and three farm security fought and killed all of them. The farmers banded together immediately to erase the evidence, burning the bodies and dismantling the skiff, and by dawn Zilspar Farm 02 was again a farm. Donna had the guest house made up.
+
+## The fall of Sharn
+
+In Nico's notes, after Esther Crona fell and Zero-One's paladins took over the Black Dove Hospital, Donna was at the hospital tending the injured alongside other Silver Flame clerics and Fulcrum healers. At the first meeting of the Council of Sharn she sat with the Silver Flame delegation, beside Zero-One and [Zero of Sharn](/people/zero-of-sharn/). <small>(Nico's DM notes, Episode 19)</small>
 
 ## Right now
 

@@ -40,6 +40,8 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - worldanvil/CANON.md
 - "Oral Histories: The Inevitables, 2025-08-31"
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: 05f12119-f896-4827-bf26-c5b83b74dcf5
@@ -90,11 +92,19 @@ He behaves like a sheltered eight-year-old under constant guard, because that is
 
 **Origin.** Calcifer was born eight years ago on the penthouse balcony of the Veil Building, an event no Arcane Eye report ever legally recorded because the officer who saw it wandered off his patrol route and chose not to file. He grew up in the tower his mother ruled the city from, monitored constantly, insulated completely — a child raised inside a surveillance apparatus that was pointed everywhere except at him. His father spent those eight years running a rebellion out of a restaurant supply chain and never once used the boy as cover. His mother spent them terrified of a thing she had seen on her own balcony and could not prove. Then a retired wizard got drunk in a sake bar in the Lantern District and started telling the story, and every arrangement that had held Calcifer's life in place came apart.
 
+## The opening of Posé
+
+The VIP guest list for the grand opening of his father's restaurant [Posé](/places/pose/) names him as Calcifer Crona-Blaze. In Nico's notes he spent the evening running around "helping" his father, with his nanny Whole Foods always nearby. When the Heinricks arrived, [Chelsea](/people/chelsea-heinrick/) ran straight to him and the two ran off playing together. When his mother arrived he yelled "mummy" and ran over to hug her around the waist. <small>(Nico's DM notes, Episode 2)</small>
+
+Faith and Malrik Zeir went straight to him and fawned over him. Faith: "There you are, my little Ember." Calcifer: "Aunty, I'm helping Daddy in the kitchen!" Faith told Esther he travelled too much and should spend more time with his aunt, and Esther ignored her. Watching him play, Esther told Richard, "He's happy. He loves the kitchen." When a shot from the protest killed Candice Kurt, Esther grabbed him and teleported away. <small>(Nico's DM notes, Episode 2)</small>
+
 ## The Broadcast
 
 The memory was extracted at Zilspar Farm 02 with an ArcEye Crystallizer Lens taken out of Circuit City, and watched in the private Fulcrum room. Three copies were made. [Jessica Grimpledink](/people/jessica-grimpledink/) kept one. The trio held the others and argued about whether to show a city the worst minute of a child's life.
 
 They showed it. [Dario](/people/sir-dario-argentino/) played it from the EBT-7 on the penthouse balcony, live, over every screen in Sharn, with Calcifer standing on that same balcony. It shattered Esther Crona's composure, ended the Empire's hold on the city inside a night, and made the boy's face the most recognisable image in Khorvaire — which is precisely why he had to be declared dead the next morning.
+
+In Nico's notes for that morning, Digma Beeve pulls Calcifer's father into a tight embrace, and Calcifer clings on, shaking. Then Richard twists the ring on his finger and the two of them vanish in a flash of blue light, bound for the safehouse at Zilspar Farm. At the council that followed, Blair asked privately where Richard and Calcifer were. <small>(Nico's DM notes, Episode 19)</small>
 
 > "They believe in and worship Ember — Calcifer, whom they consider a prophesied figure."
 

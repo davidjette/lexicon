@@ -32,6 +32,7 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/home.txt
 - worldanvil/images/rebel-factions/11.jpg
+- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: rust-organization
@@ -90,6 +91,8 @@ The Cogborn were sealed into a collapsing tunnel pocket called the Pit. The only
 ## COUNCIL OF SHARN — R.U.S.T. DEMANDS
 
 Warforged citizenship. The arrest of the Iron Veil engineers. A new Department of Infrastructure. All three were carried. Warforged forces offered troops and engineers to stabilise the city and restore the Cogs; Underhive drones joined the new department while keeping their subterranean autonomy.
+
+In Nico's notes, R.U.S.T. and Locke Pierce's Hundreds spent the morning after the rising taking Iron Veil soldiers into custody, and came to the council as a unified bloc under Locke: [Snodgrass](/people/snodgrass/), [Doppler](/people/doppler-klink/), [Preacher](/people/preacher/) and Locke Pierce. The bloc's full list was Warforged citizenship and legal personhood, Preacher's demand, backed by Locke; no amnesty for any Iron Veil soldier, with tribunals for all of them; the immediate arrest of the Iron Veil engineers, who were holding the Cogs hostage; a new Department of Infrastructure run by R.U.S.T. engineers and Warforged specialists; a Warforged-led militia, with the Hundreds as the city's standing army; a ban on ArcEye surveillance; a permanent council seat for the Warforged diaspora; and a memorial for the Cogborn victims, especially those lost in the POSÉ riot. Jessica Grimpledink reported that the engineers who had run the Cogs since the Cogborn were pushed out were refusing to leave, claiming the entire city would shut down without them. <small>(Nico's DM notes, Episode 19)</small>
 
 > "He has returned to the tunnels not to fight for Sharn, but to save the Cogborn who were left behind."
 

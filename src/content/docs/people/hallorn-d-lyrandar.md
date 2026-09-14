@@ -41,6 +41,8 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
+- sources/documents/2026-09-14-nico-sharn-captive-lorian.md
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: hallorn-d-lyrandar-person-1
@@ -91,6 +93,8 @@ He called the Lord Commander by her first name. He was half-brother to **Malrik 
 
 Born in Aundair to Supreme Admiral Vex d'Lyrandar, and half-brother to Malrik Zeir of Valenar. Bearing the Dragonmark of Storm, he took the development and production of airships for the family monopoly, then took the same work for the Iron Veil, and was named the Empire's new **Head of Transportation**. He was also, by then, transporting Umbra across Khorvaire for the Zeirs and recruiting victims for Malrik's cellar: the rebellion's file names him one of the primary recruiters and the man who brought Lorian to Sharn.
 
+In Nico's notes, [Lorian](/people/lorian/)'s own account of that recruitment names the man only as Mr. H, whom Lorian later called Hal: a half-elf, handsome, charming and wealthy, who walked into the Korth brothel where Lorian danced. He promised Lorian a real dancing job at the biggest club in Khorvaire, performing for rich and powerful people for more gold than he had ever dreamed of, paid him well and showed him a good time until he agreed, then took him to Sharn and straight to a club in the Upper City. <small>(Nico's DM notes, Captive – Lorian)</small>
+
 ## The chip
 
 The teleportation chip in [Gemma's](/people/gemma-corso/) head was crafted by BioTec for Hallorn as a gift for Faith. When it was stolen he had it tracked, and its teleportation pings bounced across the city — including under his brother's club, The Vault Below, the night it was broken into. He noted it pinging outside the city a great deal, and only when the trio teleported to their Upper City safe house did his people finally pinpoint its exact location. He walked up to their door, told them so, left them VIP passes to Malrik's club saying Malrik *"invites"* them, and reminded Gemma the chip was never truly hers. Minutes later the Children of Ember seized her in the street and cut it out.
@@ -105,6 +109,16 @@ At the opening of POSÉ he complimented Esther Crona's restaurant, complimented 
 > "I don't command rooms, Hallorn. I command outcomes."\
 > \
 > — overheard at the opening of POSÉ
+
+## Posé, in Nico's notes
+
+In Nico's notes Hallorn was the last guest to arrive at [Posé](/places/pose/), with a beautiful woman on each arm, and went directly to Faith. Nico's notes state that he was secretly in love with Faith, the wife of his half-brother Malrik, that no one knew, and that the two might even be having an affair. <small>(Nico's DM notes, Episode 2)</small>
+
+At the terrace railing he took Faith's hand and kissed it: "Faith. You look radiant tonight." Malrik stepped up beside her, unaware of the tension: "Brother! Good to see you. I didn't know you were bringing… guests." Hallorn, looking only at Faith: "They insisted." When Malrik praised Richard's work, Hallorn said quietly, "Some things outshine even Richard's work." Malrik then pressed him on the delayed shipment waiting on the Valenar coast. Hallorn: "Because the Republic of Khraal has decided to play warlord again. Rebel hobgoblins have taken the shoreline. My captains can't get within a mile of the docks." To Malrik's "You're Lyrandar. You have airships, stormcallers, half the Bay under contract," he answered, "And Khraal has no fear of dying. They've already sunk two of my transports." Malrik: "Esther won't accept delays." Hallorn: "I know." <small>(Nico's DM notes, Episode 2)</small>
+
+In a second scripted scene he asked Faith about a gift: "Faith… the gift I sent you. You received it, yes? Why haven't you used it?" Faith had received nothing. Hallorn: "But I left it with….. It should have reached you darling! No worries, I'll just send you another." They separated quickly, looking as if they wanted to embrace. In Nico's script of his exchange with Esther, she asked, "Where are my shipments of Embra from Valenar?" <small>(Nico's DM notes, Episode 2)</small>
+
+Nico's notes for the following session describe the cargo: Embra, a rare plant that grows only in Valenar and is the main ingredient of the drug Embrace, harvested by Malrik Zeir's company and shipped from Valenar to Sharn with Hallorn's help for the Black Doves and BioTec. In the same notes Sister Nora knows that the shipments had slowed because of resistance attacks in the Khraal-controlled lands, and that the production of new EDEN units had slowed with them. <small>(Nico's DM notes, Episode 2)</small>
 
 ## The Vault Underground
 

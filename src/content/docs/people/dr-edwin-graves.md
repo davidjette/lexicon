@@ -42,6 +42,7 @@ sources:
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/home.txt
 - "Oral Histories: The Inevitables, 2026-04-04"
+- sources/documents/2026-09-14-nico-sharn-hopper.md
 published: '2026-09-10'
 wa:
   slug: dr-edwin-graves-person
@@ -112,6 +113,24 @@ His downfall came when the Trio uncovered the truth. It began with a body that f
 The fight that followed was against Graves and his creations. It ended with Graves' death, exposing the full extent of his crimes and severing the central link between BioTec, the Cogborn disappearances, and Project EDEN.
 
 Graves, "the private owner of Biotec and many other Sharn properties", was wealthy, and had grown wealthier when Cob Cornwell was killed and left his fortune to BioTec. Nico: "Dr. Grave definitely had a kink for gore" <small>(sic)</small>. The general public knew BioTec as the maker of implant chips, crystallizer screens, zephyr pods and other gear, and had no idea about Project EDEN or that the killer of the Cogborn was in any way connected to it. <small>(Oral Histories: The Inevitables, 2026-04-04)</small> Dave on the man the party had kept meaning to visit: "the guy was there the whole time" / "and he was like the richest guy in town". <small>(Oral Histories: The Inevitables, 2026-04-04)</small>
+
+## The Arcade
+
+In Nico's notes the Arcade in the Sub-line District was Graves's **field test site for Project EDEN**, owned through a shell company. It had no employees, no owner, no signage, no maintenance, no deliveries and no human presence; everything was automated, and it felt like a BioTec lab disguised as a fun centre. Inside, neon lights flicker, a low hum runs like a heartbeat, the air smells of stale sweat and metal, and the only music is the game sounds. <small>(Nico's DM notes, Hopper)</small>
+
+Its games were all BioTec-influenced:
+
+- **Memory Dive**, which reads surface thoughts
+- **Cog Runner**, in which Cogborn flee hunters
+- **Surgical Precision**, a rhythm game with glowing scalpels
+- **The Collector**, a claw machine full of prosthetic limbs
+- **Pulse Sync**, which syncs to the player's heartbeat
+
+Some machines carried BioTec chips that charm, mesmerise, loop dopamine, encourage compulsive play and drain money, using micro-doses of dopamine, subliminal visual pulses, low-frequency sound and micro-hypnotic patterns. Nico calls the effect "magical casino addiction". Through them Graves tested memory extraction, emotional manipulation, neural conditioning and addiction cycles. <small>(Nico's DM notes, Hopper)</small>
+
+Nico planned three to six Lower City locals inside, pale, unwashed, dehydrated, bloodshot and trembling, their pockets empty after days at the machines. They do not look up or speak, and if spoken to they answer in dry, cracked voices: "Just… one more round… I'm so close…" Pulled away, they resist, panic, beg to stay, cry and shake. <small>(Nico's DM notes, Hopper)</small>
+
+A search of the building could turn up BioTec serial numbers, shipping crates addressed to Circuit City, maintenance logs signed "E.G.", a hidden panel with a memory crystal slot, a locked back room with a small elevator shaft, now sealed, a hidden camera system, a ledger of coin intake running absurdly high, and a Vega Oracle 2.0 machine. His personal property lawyer, [Candy Crush](/people/candy-crush/), had the job of collecting the coin intake and resetting the machines. <small>(Nico's DM notes, Hopper)</small>
 
 ## Right Now
 

@@ -32,6 +32,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-02-22"
 - "Oral Histories: The Inevitables, 2026-03-03"
 - "Oral Histories: The Inevitables, 2026-03-31"
+- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: the-cogborn-species
@@ -94,6 +95,12 @@ On the grand staircase outside POSÉ, while the Empire's officers drank inside, 
 > **Crowd:** "Gone without trace!"
 
 Shots came from inside the protest and killed the news anchor Candice Kurt on the balcony. The official story blamed a group of protesters from the Cogs.
+
+## In Nico's notes
+
+Nico's notes for Sharn Ep 2 and 3 describe the Cogborn as the people who work and live in the Cogs of the lower city in rough and unsafe conditions: mostly humans, gnomes and other humanoid races, and no Warforged. For three and a half years their people had been going missing or turning up dead across the lower city, worse in recent months, with whispers of a serial killer the Cogborn call "The Cog Collector." The city and the mainstream media ignored it; in the Cogs some people protested and tried to take a stand, and others fled deeper below the city. The protest at Posé was real, raised because there had been no news and no help while their people kept dying on top of poor living conditions. <small>(Nico's DM notes, Episode 2)</small>
+
+After the attack the news media and the government blamed the Cogborn for the shooting and for the disappearance of Sister Nora, and tied the missing BioTec technician Martin Kross to them as well. Iron Veil soldiers raided the surface Cog neighbourhoods, and many Cogborn fled to the deeper Cog tunnels in the sewers and below. In the same notes a Warforged cell of Locke Pierce's [Hundreds](/organizations/the-hundreds/), with its Warforged preacher, hid deep in those tunnels beneath the Cog neighbourhoods, since Warforged were enemies of the state in Sharn and arrested on sight. Nico's notes also name the fighting pit where implants, money or information could be won as [Breaker's Pit](/places/breakers-pit/). <small>(Nico's DM notes, Episode 2)</small>
 
 ## R.U.S.T.
 
