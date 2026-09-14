@@ -1,21 +1,24 @@
 ---
 title: Richard Blaze
 description: The Empire's favourite chef, husband of the Lord Commander, and the hidden fourth founder of Fulcrum.
+tags:
+  - Richard Blaze
+  - Blaze
+  - Fulcrum
+  - Chef
+  - Restaurant
+  - Restaurateur
+  - POSE
+  - Pose
+  - Poce
+  - Eat My Blaze
+  - Richard's Tip
+  - Esther Crona
+image:
+  src: /images/uploads/richard-blaze-mu0mt7su.webp
+  alt: Richard Blaze
 type: person
 kind: people
-tags:
-- Richard Blaze
-- Blaze
-- Fulcrum
-- Chef
-- Restaurant
-- Restaurateur
-- POSE
-- Pose
-- Poce
-- Eat My Blaze
-- Richard's Tip
-- Esther Crona
 icon: fa-utensils
 fields:
   rpgAlignment: Unknown
@@ -32,21 +35,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/wa/richard-blaze-person.txt
-- sources/site/rebel-factions.txt
-- sources/site/esther-crona.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/images/rebel-factions/04.jpg
+  - sources/wa/richard-blaze-person.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/esther-crona.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/images/rebel-factions/04.jpg
 published: '2026-09-10'
 wa:
   slug: richard-blaze-person
   uuid: 1e89d416-ba55-4113-98d0-94c1631c2ce4
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/richard-blaze-1.webp
-  alt: Richard Blaze
 ---
 
 **Male Tiefling · Chef and Restaurateur · Fulcrum, hidden founder · Alive**
