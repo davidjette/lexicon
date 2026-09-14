@@ -52,6 +52,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075)
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
+- sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 - C:/dev/fort-max/fort-maximillien.md
 - CANON.md 5ac
 - CANON.md 5ah
@@ -70,7 +71,7 @@ image:
 
 *Also known as:* Zanzibar the Younger · Crown Prince Zanzibar · Zanzibar the Elder, First Emperor of Faerûn
 
-**Zanzibar** is the crown prince of **Punis** and a man of faith, dispatched by the high priest of Punis to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision and the loss of divine magic from the world. He carries [Glassbane](/items/the-bane-blades/), the sea elves' shard of Perfect moonstone, by birthright and plunder, and fights with it beside the water elves and Prince [Atlas](/organizations/atlas-and-the-sea-elves/) against the Drow in the Winking Depths and in the founding of Atlantis. At the Candlenights festival in Suzail he carried home **Una**, a drowned and resurrected girl who may be an Infanta, against the designs of Cormyr's War Wizards, and left betrothed to King Glenn Danzig's daughter Roseanne. His father, the king of Punis, died while he was there. Immediately after the Ages of the Infanta, crowned king of Cormyr, he declared himself Emperor of Faerûn and, as **Zanzibar the Elder**, First Emperor of Faerûn, founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since.
+**Zanzibar** is the crown prince of **Punis** and a man of faith, dispatched by the high priest of Punis to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision and the loss of divine magic from the world. He carries [Glassbane](/items/the-bane-blades/), the sea elves' shard of Perfect moonstone, by birthright and plunder, and fights with it beside the water elves and Prince [Atlas](/organizations/atlas-and-the-sea-elves/) against the Drow in the Winking Depths and in the founding of Atlantis. At the Candlenights festival in Suzail he carried home **Una**, a drowned and resurrected girl who may be an Infanta, against the designs of Cormyr's War Wizards, and left betrothed to King Glenn Danzig's daughter Roseanne. His father, the king of Punis, died while he was there. He was named King of Punis immediately after the Arcaneum arc, when Valen was defeated, and after the Battle of the River Lis he married Princess Roseanne of Cormyr. Immediately after the Ages of the Infanta, crowned king of Cormyr, he declared himself Emperor of Faerûn and, as **Zanzibar the Elder**, First Emperor of Faerûn, founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since.
 
 ## Bearing and arms
 
