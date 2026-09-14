@@ -1,26 +1,28 @@
 ---
 title: Sharn Ep 13 — Doctor Edwin Graves
 description: A divination points at Circuit City, where Edwin Graves is unmasked as the Cog Collector and BioTec's secret owner.
+tags:
+  - Sharn Ep 13
+  - Doctor Edwin Graves
+  - Edwin Graves
+  - Cog Collector
+  - Circuit City
+  - BioTec
+  - ArcEye Crystallizer
+  - Cogborn
+  - Gear Street Market
+  - Hopper's
+  - Project EDEN
+image:
+  src: /images/uploads/sharn-ep-13-doctor-edwin-graves-mu0rwhrp.webp
 sidebar:
   order: 213
 type: report
 kind: sessions
-tags:
-- Sharn Ep 13
-- Doctor Edwin Graves
-- Edwin Graves
-- Cog Collector
-- Circuit City
-- BioTec
-- ArcEye Crystallizer
-- Cogborn
-- Gear Street Market
-- Hopper's
-- Project EDEN
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-13-E28094-doctor-edwin-graves-report
