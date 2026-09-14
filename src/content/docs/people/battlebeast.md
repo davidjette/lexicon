@@ -59,7 +59,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2986, IMG_2987, IMG_2996, IMG_3022, IMG_3023, IMG_3024, IMG_3025, IMG_3026, IMG_3027, IMG_3028, IMG_3033, IMG_3035, IMG_3039, IMG_3040, IMG_3053, IMG_3093, IMG_3100, IMG_3105)
 - sources/dave/2026-09-14-fort-maximillien-as-played.md
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- sources/dave/2026-09-14-heyu-and-feng.md
 - CANON.md 5ac
+- CANON.md 5ae
 - CANON.md 5af
 published: '2026-09-10'
 wa:
