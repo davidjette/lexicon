@@ -179,3 +179,5 @@ The Clamshell Casino. Nothing kept.
 - **Digma Beeve** — the Newham furniture trader who assembled the resistance that killed him. Now acting Comptroller of the Republic of Talenta. Alive.
 - **Taby PC** — leader of the gang Booty Salad in New Cyre; cut a deal to move Embrace through New Ham.
 - **[Eric the Cleric](/people/eric-the-cleric/)** — spent time around him and carries the residue: half damage from psychic attacks, a tune from the Black Palace, and a voice that will not stop asking him to ring a bell.
+
+![Visions of LeBeefe.png](/images/uploads/visions-of-lebeefe-mu0x6odp.webp)
