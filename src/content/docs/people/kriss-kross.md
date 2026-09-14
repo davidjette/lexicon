@@ -1,21 +1,23 @@
 ---
 title: Kriss Kross
 description: Logistics and security for R.U.S.T., who keeps a pawn shop over a secret railway looking like nothing at all.
+tags:
+  - Kriss Kross
+  - Kriss
+  - Kross
+  - R.U.S.T.
+  - Misty Kross
+  - Misty's Pawn Shop
+  - Martin Kross
+  - Karin Kross
+  - Cogborn
+  - Sharn
+  - Lower City
+  - Preacher
+image:
+  src: /images/uploads/kriss-kross-mu0lgd29.webp
 type: person
 kind: people
-tags:
-- Kriss Kross
-- Kriss
-- Kross
-- R.U.S.T.
-- Misty Kross
-- Misty's Pawn Shop
-- Martin Kross
-- Karin Kross
-- Cogborn
-- Sharn
-- Lower City
-- Preacher
 icon: fa-door-closed
 fields:
   rpgAlignment: Unknown
@@ -32,10 +34,10 @@ fields:
   height: Tall (portrait)
   weight: Lean (portrait)
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- worldanvil/images/rebel-factions/12.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - worldanvil/images/rebel-factions/12.jpg
 published: '2026-09-10'
 wa:
   slug: kriss-kross-person
