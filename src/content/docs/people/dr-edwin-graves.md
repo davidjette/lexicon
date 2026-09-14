@@ -129,3 +129,5 @@ He is dead, and the six Cogborn found alive in his cages were handed to the RUST
 **Items:** An ArcEye Crystallizer Lens, held in stock as refurbished BioTec equipment, recovered from his shop after his death and used to extract Grady Marsh's memory · an amulet of proof against detection and location, taken from him when he died and carried since, unattuned, in Eric's pack.
 
 **Signature Capability — The Block:** Surgical suppression of testimony. Anyone who worked for him carried a chip that made his name physically unsayable. Dario had to cut the chip out of Martin Kross before the rebellion learned a first name.
+
+![Edwin Graves attacking Dario.png](/images/uploads/edwin-graves-attacking-dario-mu0z85mf.webp)
