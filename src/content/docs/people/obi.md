@@ -16,6 +16,8 @@ tags:
 - Piergerion
 - Revan Darkcember
 - the Panther
+- Motherstone
+- Meteor Swarm
 - Ally Cards
 - Infantaverse
 icon: fa-scale-balanced
@@ -23,9 +25,15 @@ fields:
   gender: Male
   ggmtitle: Infanta of Order; Obus, God of Order and Justice
   residence: Hidden near Waterdeep
-  status: Died; returned from the land of the Dead at the Egg
+  status: Died shielding survivors from a Meteor Swarm; returned among the dead at the Egg
 sources:
 - CANON.md 5g (the DM's account, 2026-09-10)
+- CANON.md 5h
+- CANON.md Oral Histories batch 4, A23
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2019-11-22"
+- "Oral Histories: Temporal Holdings, 2020-01-19"
+- "Oral Histories: The Inevitables, 2023-10-10"
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VII - Suzail.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
@@ -53,11 +61,11 @@ gallery:
 
 *Also known as:* Obi · the Infanta of Obus
 
-**Obi** is the true **Infanta of Order** — the living **Obus**, God of Order and Justice. [Wainwright St. Cloud](/people/wainwright-st-cloud/) hid him in an observatory atop Mount Waterdeep and set him to chart the sky back millennia, and for most of the chronicle the divine power the priests of Obus felt was his while the world credited it to **Prince Jacob of Waterdeep**, a fake Infanta built by St. Cloud's propaganda. He revealed himself by ascending over Waterdeep and destroying the Empire and Company's ship in the harbour, following an attempted coup, multiple assassinations and the rise of [Revan Darkcember](/people/revan-darkcember/) to the Masked Lords as "the Panther." He appeared in the bank vault at Waterdeep with [Elistrae](/people/elistrae/) and [Marcus](/people/marcus/), sat for Order at [Roland Deschain](/people/roland-deschain/)'s trial at Motherstone, and was the first of the named dead the Raven Queen brought back out of the land of the Dead at the final battle.
+**Obi** is the true **Infanta of Order** — the living **Obus**, God of Order and Justice. He fled [Motherstone](/places/motherstone/) to be near his followers, and [Wainwright St. Cloud](/people/wainwright-st-cloud/) hid him in an observatory atop Mount Waterdeep and set him to chart the sky back millennia; for most of the chronicle the divine power the priests of Obus felt was his while the world credited it to **Prince Jacob of Waterdeep**, a fake Infanta built by St. Cloud's propaganda. He revealed himself by flying over Waterdeep in a blinding light, destroying the Company's armada in the harbour and burning concentric rings miles across into the ground, following an attempted coup, multiple assassinations and the rise of [Revan Darkcember](/people/revan-darkcember/) to the Masked Lords as "the Panther." He appeared in the bank vault at Waterdeep with [Elistrae](/people/elistrae/) and [Marcus](/people/marcus/), and sat for Order at [Roland Deschain](/people/roland-deschain/)'s trial at Motherstone. He later died sacrificing himself to save the survivors on a battlefield from a Meteor Swarm, and came to the final battle only as the first of the named dead the Raven Queen brought back out of the land of the Dead.
 
 ## The observatory atop Mount Waterdeep
 
-St. Cloud hid him there, and put him to work. Obi was made to **chart the sky back millennia** in order to pinpoint **the date on which Cthulhu's course crossed the Moon's orbit** — so that St. Cloud could **prevent [Karametra](/people/karametra/) from moving the moon**, and stop the party from stopping him summoning Cthulhu.
+Obi fled Motherstone to be near his followers. <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> St. Cloud hid him in the observatory, and put him to work. Obi was made to **chart the sky back millennia** in order to pinpoint **the date on which Cthulhu's course crossed the Moon's orbit** — so that St. Cloud could **prevent [Karametra](/people/karametra/) from moving the moon**, and stop the party from stopping him summoning Cthulhu.
 
 The hiding place is also the mechanism of the deception below: the priests of Obus nearest Waterdeep felt his power and credited it to the boy the propaganda had given them.
 
@@ -77,7 +85,7 @@ Because the divine power was real. It simply was not Jacob's. Lex's briefing aft
 
 ## The reveal
 
-It came out in public and at scale. After **an attempted coup**, **multiple assassinations**, and the rise of Revan Darkcember to the Masked Lords as **"the Panther"**, **Obi ascended over Waterdeep and destroyed the Empire and Company's ship in the harbour.**
+It came out in public and at scale. After **an attempted coup**, **multiple assassinations**, and the rise of Revan Darkcember to the Masked Lords as **"the Panther"**, **Obi ascended over Waterdeep and destroyed the Company's armada in the harbour.** When St. Cloud threatened a civil war with a second false Infanta, "he flew over the city in a blinding light, destroyed the Company’s armada in the harbor, and burned concentric rings in the ground miles in diameter." <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small>
 
 ## The vault at Waterdeep
 
@@ -89,9 +97,13 @@ Piergerion and Vera talk him into leaving with them — "The Imperium is for you
 
 Obi is one of the three Infanta who presided over Roland Deschain's trial at Motherstone, sitting for **Order** alongside Elistrae for the Moon and Marcus for Death.
 
+## Death
+
+Obi died sacrificing himself to save the survivors on the battlefield from a Meteor Swarm. <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small>
+
 ## The return
 
-He is the **first** of the named dead the Raven Queen brings back out of the land of the Dead at the final battle: "First among them is Obi, then Jeggings, Holden Tudyx, the Orcs who served the Chronicle, and a sheepish Flex Gimble." <small>(End of the Infanta.)</small>
+Obi was dead by the final battle, and came to it only as one of the dead the Raven Queen brought back. <small>(Oral Histories: The Inevitables, 2023-10-10)</small> He is the **first** of the named dead the Raven Queen brings back out of the land of the Dead at the final battle: "First among them is Obi, then Jeggings, Holden Tudyx, the Orcs who served the Chronicle, and a sheepish Flex Gimble." <small>(End of the Infanta.)</small>
 
 ## At the Egg
 

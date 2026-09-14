@@ -7,6 +7,10 @@ tags:
 - War Wizards
 - Cormyr
 - Una
+- Infanta of War
+- Tempus
+- Teo
+- Suzail
 - Shadowhigh Inn
 - Kara
 - Zanzibar
@@ -22,6 +26,11 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- CANON.md 5ae (Oral Histories), C6, C16
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2019-01-27"
+- "Oral Histories: Temporal Holdings, 2019-01-28"
 published: '2026-09-10'
 wa:
   slug: war-wizards-organization
@@ -43,7 +52,9 @@ The War Wizards are Cormyr's order of wizard knights, and allies of the party at
 
 The girl he speaks of is **Una**, the miller's daughter. The full account: "They caught the little girl stealing grain and brought her to the constable. When they put her in shackles to teach her a lesson, poof, she vaporized the lot of them. Fourteen dead." There is "a small altar to a handful of people killed by Una many years ago" in the inn, with "small reminders of her parents… visible." <small>(Arc III Parts IX–XI, the Shadowhigh Inn.)</small>
 
-<small>The name **Una** appears twice in the record — here, and in Arc III Part XII, where a child called Una is enticed away and captured by Carlysle in robot form. Whether they are the same person, and whether either is [Kara](/people/kara/), is not recorded.</small>
+Una is one girl, and she is the Infanta of War, **Tempus**. The child of the Shadowhigh Inn is the same Una who, in Arc III Part XII, is enticed away and captured by Carlysle in robot form. The War Wizards' own report to the archmagi calls her "Una, the infanta of War." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small>
+
+The War Wizards also held [Teo](/people/teo-infanta-of-nature/), the Infanta of Nature, at their magical stock farm in Suzail, until the party delivered him to Cormanthor and Myth Drannor. <small>(Oral Histories: Temporal Holdings, 2019-01-27, 2019-01-28)</small>
 
 The order's own conduct is a live question in the chronicle: [Celion](/people/celion/) says "[Zanzibar](/people/zanzibar/) sought to subvert the War Wizard's efforts to contain the Infanta, so naturally he had to die."
 

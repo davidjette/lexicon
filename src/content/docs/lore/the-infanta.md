@@ -25,6 +25,13 @@ tags:
 - Tymora
 - Tyr
 - Lothander
+- Una
+- Infanta of War
+- Tempus
+- Teo
+- Tiko
+- Tico
+- War Wizards
 icon: fa-child
 fields:
   type: Recurring incarnation
@@ -41,6 +48,12 @@ sources:
 - C:/dev/fort-max/fort-maximillien.md
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+- CANON.md 5ae (Oral Histories), C6, C16
+- CANON.md 5aa
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2019-01-27"
+- "Oral Histories: Temporal Holdings, 2019-01-28"
 published: '2026-09-10'
 wa:
   slug: the-infanta-article
@@ -75,7 +88,9 @@ The first was **Elistrada** — the goddess **Elistrae**, "an innocent god, who 
 
 ## The race for the god-children
 
-As a second Time of Troubles looms, the old gods incarnate again, and every kingdom, cult and corporation in Faerûn races to seize one. The chronicle names many: the **Moon** (Elistrae); **Order and Justice** (the boy Jacob Alaistair Southampton of [Waterdeep](/places/waterdeep/), proclaimed Imperator and Pontifex Universalis); **Death** (Marcus, the Raven Queen); **Judgment** (Mordred); **Nature** (Sylvanus, secured at Myth Drannor); **Justice** (Tyr), **Dawn** (Lothander) and **Good Fortune** (Tymora), three of whom were killed; **Puzzles**; and the [Company](/organizations/sword-coast-trading-company/)'s own dossiers — full profiles on **Order, Time, Destiny, Reason** and **Revelry**, partial ones on **Moon, War, Nature, Forge, Death, Sea** and **Murder**.
+As a second Time of Troubles looms, the old gods incarnate again, and every kingdom, cult and corporation in Faerûn races to seize one. The chronicle names many: the **Moon** (Elistrae); **Order and Justice** (the boy Jacob Alaistair Southampton of [Waterdeep](/places/waterdeep/), proclaimed Imperator and Pontifex Universalis); **Death** (Marcus, the Raven Queen); **Judgment** (Mordred); **War** (**Una**, the Infanta of Tempus); **Nature** ([Teo](/people/teo-infanta-of-nature/), Sylvanus in the War Wizards' report, held by the [War Wizards](/organizations/war-wizards/) at their magical stock farm in Suzail until the party delivered him to Cormanthor and Myth Drannor); **Justice** (Tyr), **Dawn** (Lothander) and **Good Fortune** (Tymora); **Puzzles**; and the [Company](/organizations/sword-coast-trading-company/)'s own dossiers — full profiles on **Order, Time, Destiny, Reason** and **Revelry**, partial ones on **Moon, War, Nature, Forge, Death, Sea** and **Murder**. <small>(Oral Histories: Temporal Holdings, 2019-01-27, 2019-01-28)</small>
+
+The War Wizards, who had taken five Infanta, reported to the archmagi: "Three were killed – Tyr, Tymora and Lothander." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> The Infanta of Tymora who stood with the party at [the Egg](/places/the-egg/) came from another time.
 
 The first and second [Infanta Crises](/lore/the-infanta-crisis/) each ran on the order of a hundred years. The Infanta Crisis ended with Asmodeus defeated at a tavern in Waterdeep and the Cormyrean Empire founded by [Zanzibar the Elder](/people/zanzibar/) on the claim of holy blood. Five centuries after that, at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a princeling named Zellmo, raised by the Horsecock Prophecy to believe himself the new Infanta of Zarus, demands the Empire's throne.
 

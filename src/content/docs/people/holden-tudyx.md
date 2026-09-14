@@ -1,6 +1,6 @@
 ---
 title: Holden Tudyx
-description: Headmaster of Abjuration and Grand-Magus of the Arcaneum, killed by the Doomers; his last words named five Sephiroth and warned of the Anachron.
+description: Headmaster of Abjuration at the Arcaneum, cursed by the Doomers; he warned of the Anachron and died as collateral in the Arcaneum finale.
 type: person
 kind: people
 tags:
@@ -28,6 +28,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- "Oral Histories: Temporal Holdings, 2019-02-19"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
 published: '2026-09-10'
 wa:
   slug: holden-tudyx-person
@@ -43,7 +45,7 @@ image:
 
 *Also known as:* Holden Tudiks · Grand-Magus Tudiks
 
-**Holden Tudyx** was an elf wizard, Headmaster of Abjuration and Grand-Magus of the [Arcaneum](/lore/arcaneum-campaign/). He and his team were ambushed by the Doomers during their seizure of the school, and the party reached him gravely cursed and dying in the middle of a war-wizard battle; his last words named five Sephiroth and a warning that they were trying to turn [the Anachron](/items/the-anachron/) on. He returned out of the land of the Dead at the final battle as the third of the named dead the Raven Queen brought, and stood as an ally at the Egg.
+**Holden Tudyx** was an elf wizard, Headmaster of Abjuration and Grand-Magus of the [Arcaneum](/lore/arcaneum-campaign/). He and his team were ambushed by the Doomers during their seizure of the school, and the party reached him gravely cursed and dying in the middle of a war-wizard battle, where he named five Sephiroth and warned that they were trying to turn [the Anachron](/items/the-anachron/) on. He travelled with the party through Parts IX and X, and died as collateral in the finale at the Arcaneum. He returned out of the land of the Dead at the final battle as the third of the named dead the Raven Queen brought, and stood as an ally at the Egg.
 
 > Hod, Tipheret, Hesed, Binah, Keter. Theyre trying to turn it on. Gods help us all.
 
@@ -54,6 +56,10 @@ image:
 Dying. The party arrives at "the gore and smoke of a pitched magical battle, where two war wizards fight two other war wizards in a blaze of counterspells and magic missiles." One of the two still standing is "the Headmaster of Abjuration, Grand-Magus Holden Tudiks. He and his team were ambushed by the Doomers and have likely taken control of the rest of the school. He has been cursed gravely and will die."
 
 If he lasts long enough, he speaks the five names and the warning. <small>(Arc III, Parts IX–XI.)</small>
+
+## With the party, and his death
+
+Holden survived the encounter and travelled with the party, still cursed, through Parts IX and X. <small>(Oral Histories: Temporal Holdings, 2019-02-19)</small> He died as collateral in the finale at the Arcaneum, caught close by with only 50 hit points. <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
 
 ## What he was warning about
 

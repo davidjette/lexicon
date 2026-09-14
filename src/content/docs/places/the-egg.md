@@ -21,6 +21,8 @@ tags:
 - Starfall
 - Wainwright St. Cloud
 - all Times converge
+- the aboleth
+- R'lyeh
 icon: fa-egg
 fields:
   type: Anomalous structure / prison
@@ -38,6 +40,15 @@ sources:
 - sources/dave/2026-09-13-fates-june-saharel.md
 - Dave, note of 2026-09-13
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+- CANON.md 5f
+- CANON.md 5h
+- CANON.md Oral Histories batch 4, A19, A20
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2020-01-13"
+- "Oral Histories: Temporal Holdings, 2020-01-30"
+- "Oral Histories: The Inevitables, 2021-10-30"
+- "Oral Histories: The Inevitables, 2022-06-11"
+- "Oral Histories: The Inevitables, 2023-12-02"
 published: '2026-09-10'
 wa:
   slug: the-egg-location
@@ -50,6 +61,8 @@ wa:
 
 The Crack — the host of the last day is "helped into an open slice" of it — runs beneath the buried city; the Motherstone scholars' own Planetarium showed the other half of the picture — "a dark orbit that intersects directly with Faerûn, a black streak that touches down in the sea off the coast of Snowdown." The prison and the falling star are the same object.
 
+The [Sword Coast Trading Company](/organizations/sword-coast-trading-company/)'s records placed it in the deep ocean off Faerûn: "based on company records, the egg is somewhere in this part of the ocean. this area is very deep and is thought to intersect with the Plane of Water." <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small> In [Revan Darkcember](/people/revan-darkcember/)'s vision of [R'lyeh](/places/rlyeh/), the Egg appeared as part of the god's own body: "a glimpse, just a glimpse, of a tiny fraction of his body, the Egg." <small>(Oral Histories: Temporal Holdings, 2020-01-30)</small>
+
 ## Inside
 
 Within the shell the laws of the world fail:
@@ -58,6 +71,10 @@ Within the shell the laws of the world fail:
 **The sea:** "a caustic brine that dissolves everything except for him."\
 **Escape:** "Unless Cthulhu is destroyed, there is no way to teleport, plane shift, astral project or otherwise leave the Egg by magical or non-magical means."\
 **The shell:** partable only by certain magics — and breakable only by the god himself, reborn through a fragment of his child Zoth.
+
+## The dragons and the aboleth
+
+In the deep past the dragons went into the ocean to kill the aboleth and destroy Zoth, because "they believed Zoth was calling the Leviathan." <small>(Oral Histories: The Inevitables, 2021-10-30)</small> [Wainwright St. Cloud](/people/wainwright-st-cloud/) steered them against the aboleth through that belief, to reach Zoth's ship. The dragons fought each other, and then lost a battle against the aboleth. <small>(Oral Histories: The Inevitables, 2022-06-11)</small> See [the chromatic](/organizations/chromatic-elder-dragons/) and [metallic elder dragons](/organizations/metallic-elder-dragons/).
 
 ## Where all Times meet
 
@@ -71,7 +88,7 @@ Because the scrambled Anachron left the party in every era at once, and because 
 
 ## The End of the Infanta
 
-The chronicle ends inside it: every ally of every age filing into the acid meat of the wound, the Lady of Pain and Marcus arriving with the severed head of Asmodeus, the god fought in pieces — Head, Claws, Tentacles, Wings, each regenerating — and a final Wish which, touching the god with an [Obliviator](/items/the-obliviator/), unwrites everything the Egg contained. By the terms of the act, the people who performed it are forgotten too.
+The chronicle ends inside it: every ally of every age filing into the acid meat of the wound, the Lady of Pain and Marcus arriving with the severed head of Asmodeus, the god fought in pieces — Head, Claws, Tentacles, Wings, each regenerating — until Cthulhu was brought to 0 hit points, and then a final Wish from **Cypher** which, touching the god with an [Obliviator](/items/the-obliviator/), erased him and unwrote everything the Egg contained. <small>(Oral Histories: The Inevitables, 2023-12-02)</small> By the terms of the act, the people who performed it are forgotten too.
 
 All the Infanta are drawn to the Egg to merge with Cthulhu and bring about the end, as [St. Cloud](/people/wainwright-st-cloud/) designed. After **Una**, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to [Waterdeep](/places/waterdeep/), the party defended the portal from the tavern to the crack in the Egg to keep her and any other Infanta out, and defeated Asmodeus at its threshold; because the Egg and the final battle were obliviated, the world remembers instead that troops on the surface led by [Zanzibar](/people/zanzibar/) and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing St. Cloud and ending [the Infanta Crisis](/lore/the-infanta-crisis/).
 

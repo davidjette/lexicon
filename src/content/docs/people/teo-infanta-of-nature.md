@@ -5,8 +5,16 @@ type: person
 kind: people
 tags:
 - Teo
+- Tiko
+- Tico
+- Chauntea
+- Sylvanus
 - Infanta of Nature
 - the Infanta
+- War Wizards
+- Suzail
+- Cormanthor
+- Myth Drannor
 - divine magic
 - Ally Cards
 - Infantaverse
@@ -18,6 +26,12 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__Interlude.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- CANON.md 5ae (Oral Histories), C16
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2019-01-27"
+- "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: Temporal Holdings, 2019-04-01"
+- "Oral Histories: Battle of River Lis, 2019-10-21"
 published: '2026-09-10'
 wa:
   slug: teo2C-infanta-of-nature-person
@@ -31,11 +45,17 @@ image:
 
 **Infanta of Nature · Ally at the Egg · Fate not recorded**
 
-**Teo** is the Infanta of Nature and one of the allies at [the Egg](/places/the-egg/). His Ally Card shows a laughing boy in a green coat up a tree, and the passage printed beneath it sets out what happens when an Infanta is killed. Divine magic in the world rises and falls with the living Infanta: when [Brightmantle](/people/brightmantle/) sickens, [Magnus](/people/brother-magnus/) is cut to third-level spells, and with the birth of the Elistrae infanta "9th level divine magic automatically fails" for everyone except worshippers of [Elistrae](/people/elistrae/). <small>(Arc VII Leviathan I; Arc III Interlude.)</small>
+*Also known as:* Tiko · Tico
+
+**Teo** is the Infanta of Nature and one of the allies at [the Egg](/places/the-egg/). "Teo" is short for Chauntea. The [War Wizards](/organizations/war-wizards/) held him at their magical stock farm in Suzail, and the party delivered him to Cormanthor and the elves of Myth Drannor. His Ally Card shows a laughing boy in a green coat up a tree, and the passage printed beneath it sets out what happens when an Infanta is killed. Divine magic in the world rises and falls with the living Infanta: when [Brightmantle](/people/brightmantle/) sickens, [Magnus](/people/brother-magnus/) is cut to third-level spells, and with the birth of the Elistrae infanta "9th level divine magic automatically fails" for everyone except worshippers of [Elistrae](/people/elistrae/). <small>(Arc VII Leviathan I; Arc III Interlude.)</small>
 
 > …and as we have seen, killing an infanta has devastating local effects and ends their beneficially impact on clerics of their Word…
 
 <small>— Teo's Ally Card. Sic on "beneficially".</small>
+
+## Suzail and Cormanthor
+
+The War Wizards' report to the archmagi names him by his god: "Only recently did we find Sylvanus, the nature god, and through our work we have quadrupled the output of our key magical stock farm here in Suzail." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> The party delivered him to Cormanthor <small>(Oral Histories: Temporal Holdings, 2019-01-27)</small>, where he was kept in Myth Drannor. <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
 
 ## At the Egg
 

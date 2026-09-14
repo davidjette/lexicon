@@ -10,6 +10,9 @@ tags:
 - Suzara
 - Gunch
 - Valen
+- Sue
+- the elf witch
+- Suzara's Legacy
 - Ally Cards
 - Infantaverse
 icon: fa-people-group
@@ -21,6 +24,11 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- CANON.md Oral Histories batch 4, A16
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: The Inevitables, 2021-08-15"
+- "Oral Histories: The Inevitables, 2021-09-04"
+- "Oral Histories: The Inevitables, 2021-10-30"
 published: '2026-09-10'
 wa:
   slug: settlers-of-the-dale-organization
@@ -38,7 +46,7 @@ The **Settlers of the Dale** are the people of **Suzara's City** and **Camp Veng
 
 ## Suzara and Gunch
 
-The session record has Gunch "cowed by the encounter but seems very…" and, as an optional beat, attempting to ambush the party as they leave. Suzara himself "sent his boy SUE to the elf witch to seek healing." <small>(Arc VI, Time of Troubles Part VII.)</small>
+The session record has Gunch "cowed by the encounter but seems very…" and, as an optional beat, attempting to ambush the party as they leave. Suzara himself "sent his boy SUE to the elf witch to seek healing." <small>(Arc VI, Time of Troubles Part VII.)</small> The elf witch is Valen: "you met Sue, the son of Suzara, who his father sent to Valen to get healed." <small>(Oral Histories: The Inevitables, 2021-08-15)</small> After Sue's death, Suzara stayed away. <small>(Oral Histories: The Inevitables, 2021-09-04, 2021-10-30)</small>
 
 ## The pledge
 
@@ -53,6 +61,8 @@ The same people are named "The People of Suzara's City and Camp Vengeance" at [B
 **White — God of Protection: "Grant +2 AC to all allies within 90 ft until the end of your next turn."**
 
 **Black — Suzara's Legacy: "You gain an additional Action this turn."**
+
+The card belongs to the settlers. Suzara did not come to the Egg, and "Suzara's Legacy" is his people acting without him.
 
 <small>Theirs is the only card in the set of 41 whose sacrifice buys the party a whole turn's worth of tempo rather than damage.</small>
 
