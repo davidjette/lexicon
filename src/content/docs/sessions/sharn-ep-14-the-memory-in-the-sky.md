@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 14 — The Memory in the Sky
 description: 'Grady Marsh''s memory is finally pulled: Uriel killed Calcifer at birth and stopped only when Esther screamed.'
+tags:
+  - Sharn Ep 14
+  - The Memory in the Sky
+  - Calcifer
+  - Uriel Qualanthri
+  - Esther Crona
+  - Grady Marsh
+  - ArcEye Crystallizer
+  - Fema Nolan
+  - Zero-One
+  - Forge of Binding
+  - Richard Blaze
+  - Aboleth
+image:
+  src: /images/uploads/sharn-ep-14-the-memory-in-the-sky-mu0rxf03.webp
 sidebar:
   order: 214
 type: report
 kind: sessions
-tags:
-- Sharn Ep 14
-- The Memory in the Sky
-- Calcifer
-- Uriel Qualanthri
-- Esther Crona
-- Grady Marsh
-- ArcEye Crystallizer
-- Fema Nolan
-- Zero-One
-- Forge of Binding
-- Richard Blaze
-- Aboleth
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-14-E28094-the-memory-in-the-sky-report
