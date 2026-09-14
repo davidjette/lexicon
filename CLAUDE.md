@@ -25,6 +25,9 @@ Commit messages end with the attribution lines the session gives you.
   an article, a commit message, a skill or this file. Articles may *cite* "CANON.md 5x" in `sources`.
 - **Player-safe only.** Nothing from the DM-only files (`C:\dev\sharn-campaign\worldanvil\dmnotes\`,
   `handouts\hells-bells-intel-web.md`, the Korranberg module files). `npm run qa` checks this.
+- **Nico has the same authority as Dave** (Dave, 2026-09-13). Her edits are canon: never revert or
+  second-guess her content; only fix technical problems (a broken build, a leak, a broken link) and
+  tell her or Dave. Other contributors' edits are reviewed normally.
 - **Never invent facts** (`house/STYLE.md` §0, §6). Dave's statements in chat are sources: save them
   verbatim to `sources/dave/YYYY-MM-DD-<topic>.md` before using them, and cite that file.
 - **Where Dave's retelling and a contemporary session document disagree, the document wins**

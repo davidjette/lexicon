@@ -18,6 +18,10 @@ git log --since="<last review>" --format="%h %an %ad %s" --date=short -- src/con
 Contributor commits read `Edit <title> (by <name>)`, `Create ...`, `Restore ...`, `Upload image ...`.
 Review everything not authored by Dave or produced by `scripts/notes.py`.
 
+**Nico has the same authority as Dave.** Her edits are canon: do not revert, rewrite or question
+their content. For her commits, only fix technical breakage (build, links, a DM-only leak) with the
+smallest change that keeps her wording, and mention it in your report.
+
 ## 2. Check
 
 - `npm run qa` — **leaks are the priority.** A leak hit means DM-only text reached the public site:
