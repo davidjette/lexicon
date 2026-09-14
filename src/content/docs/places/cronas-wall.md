@@ -67,3 +67,7 @@ In the three years after the fall of Sharn, Crona's Wall collapsed, allowing Orc
 
 - **Fort Crona:** the Iron Veil casters' station on the western front.
 - **The Wall line:** the barrier itself, and the frozen, warmth-drained country behind it.
+
+![Crona's Wall.png](/images/uploads/crona-s-wall-mu0o3fyd.webp)
+
+![Crona's Wall.png](/images/uploads/crona-s-wall-mu0o3iun.webp)
