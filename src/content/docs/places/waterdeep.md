@@ -48,17 +48,18 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 published: '2026-09-10'
 wa:
   slug: waterdeep-location
   category: c3f639a3-eec5-4058-a4cc-d3e5b1d76287
 ---
 
-**Waterdeep** is the largest city in the West and, twice over, the seat of an empire that no longer exists. It has been the capital of the Old Empire, the capital of the Lord's Alliance, the throne-room of a boy proclaimed god, and — five hundred years later — an occupied provincial governorship of the [Cormyrean Empire](/organizations/the-cormyrean-empire/).
+**Waterdeep** is the largest city in the West, on the Sword Coast. It has been the capital of the Old Empire, the capital of the Lord's Alliance, the seat of the boy Imperator Jacob Southampton, proclaimed an Infanta, and — five hundred years later — an occupied provincial governorship of the [Cormyrean Empire](/organizations/the-cormyrean-empire/).
 
 ## The Old Empire
 
-An empire once ruled the North and the South, reaching as far as the Kingdoms of Cormyr and Sembia, and its capital was Waterdeep. By the time of the chronicle, all that survives of it are the armies of Waterdeep and the navies that patrol the commercial centres of the Sword Coast; the city's Open Lord stopped using the title *Emperor* more than two hundred years earlier. Its laws and customs still govern trade and cosmopolitan society across the North, while the South and East — conquered by the Empire at its height — have shed the vestiges. What remains is aesthetic: <small>"many military officers and petty tyrants of the ports and customs houses hang on to the Legionnaire aesthetic and its dwindling prestige."</small>
+An empire once ruled the North and the South, reaching as far as the Kingdoms of Cormyr and Sembia, and its capital was Waterdeep. By the time of the chronicle, all that survives of it are the armies of Waterdeep and the navies that patrol the commercial centres of the Sword Coast; the city's Open Lord stopped using the title *Emperor* more than two hundred years earlier. Its laws and customs still govern trade and cosmopolitan society across the North, while the South and East — conquered by the Empire at its height — have shed the vestiges. <small>"many military officers and petty tyrants of the ports and customs houses hang on to the Legionnaire aesthetic and its dwindling prestige."</small>
 
 The [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) is itself a charter house dating back to those remnants. Its rise forced the Alliance to extend its naval jurisdiction, and that in turn produced "a renaissance of the old imperial dreams of the city and its people, including the language, dress, and arrogance of its ancient Imperial stature."
 
@@ -70,9 +71,9 @@ Those families scramble for a seat on the **Council of Lords** — a shrouded sy
 
 ## The Imperator
 
-The sudden death of Open Lord **Alastair Southampton** opened a vacuum, and the Company's chairman **Wainwright St. Cloud** filled it. St. Cloud spread propaganda calling for the enthronement of Southampton's son **Jacob** as Open Lord; the people went further and clamoured for the boy to be crowned **Imperator, Emperor of the West**. The Lords put the rumour down. Then the priests of Obus announced that the boy was an [Infanta](/lore/the-infanta/) — the reincarnation of the God of Order and Justice — and the argument was over.
+The sudden death of Open Lord **Alastair Southampton** opened a vacuum, and the Company's chairman **Wainwright St. Cloud** filled it. St. Cloud spread propaganda calling for the enthronement of Southampton's son **Jacob** as Open Lord; the people went further and clamoured for the boy to be crowned **Imperator, Emperor of the West**. The Lords put the rumour down. Then the priests of Obus announced that the boy was an [Infanta](/lore/the-infanta/) — the reincarnation of the God of Order and Justice — and he was proclaimed Imperator and Pontifex Universalis.
 
-The Council did not take it well. The exchange in the Hall of Justice:
+The Council of Lords objected. An exchange in the Hall of Justice:
 
 > "I must insist on protocol. St. Cloud you are not a Lord of Waterdeep and you do not belong in that chair."\
 > "I serve at the behest of the Open Lord Jacob Alaistair Southampton, Imperator and Pontifex Universalis and Infanta of the God of Order and Justice. And who are you?"\
@@ -80,11 +81,11 @@ The Council did not take it well. The exchange in the Hall of Justice:
 > "The Lords of Waterdeep are not ruled by a boy, God or not, we have our laws. And laws apply to all, including the Gods."\
 > "You don't know how right you are."
 
-Underneath the ceremony the city was already being sold twice. St. Cloud's changeling agents wore his own face to Council; the noble **Von Lampes** plotted to seize the Infanta and pay 999 souls to Asmodeus for their twins; the masked lords resented that St. Cloud had cornered the ear of the child "and they want it back, or they will cut it off." Even guard commanders and ship captains had begun asking "why the great might of the Empire should enrich so few men" — a fair question, given that key Company and Imperial buildings were by then guarded by Warforged rather than the flesh-and-blood City Watch.
+St. Cloud's changeling agents wore his own face to Council; the noble **Von Lampes** plotted to seize the Infanta and pay 999 souls to Asmodeus for their twins; the masked lords resented that St. Cloud had cornered the ear of the child "and they want it back, or they will cut it off." Even guard commanders and ship captains had begun asking "why the great might of the Empire should enrich so few men", and key Company and Imperial buildings were by then guarded by Warforged in place of the City Watch.
 
 ## Under occupation
 
-Five hundred years on, Waterdeep is the western capital of somebody else's empire. It answers to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor, and to the urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) garrisoned inside its walls. The city stands at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
+Five hundred years on, Waterdeep is held by the Cormyrean Empire under military governorship. It answers to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor, and to the urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) garrisoned inside its walls. The city stands at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
 
 The **Unmasked Lord ap Dyksterhaus** flaunts imperial custom, rails against overtaxation and champions the merchants; he refused to travel to the imperial capital and pay tribute at all. The **Old Houses** despise the merchant class but love imperial peace, trade routes and access, and Varkus dines at Tiffany House. Beyond the walls the **farmlands** revolt over grain and cattle seizures and burn the levy wagons: the garrison eats while the countryside starves.
 

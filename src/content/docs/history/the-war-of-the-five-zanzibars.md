@@ -27,20 +27,22 @@ fields:
   type: War and revolution
   location: Faerun
   date: Five hundred years after the founding of the Cormyrean Empire
-  belligerents: At its beginning, Emperor Zanzibar William the Melancholy and the factions risen against him
+  belligerents: At its beginning, the five Zanzibars - Emperor Zanzibar William the Melancholy, Zellmo, Zythara, Peterbilt Varkus and Modle Negen
   outcome: A critical collapse of the continent, before a dark time preceding the ascendance of the Sovereignty
 sources:
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - C:/dev/fort-max/fort-maximillien.md
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075, IMG_3079)
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - CANON.md 5ah
+- CANON.md 5ai
 published: '2026-09-14'
 ---
 
 **War and revolution · Faerûn · The Cormyrean Empire against the risings · A critical collapse of the continent**
 
-**The War of the Five Zanzibars** is a war and revolution in Faerûn, and a critical collapse of the continent before a dark time that preceded the ascendance of the Sovereignty. It broke out five hundred years after [Zanzibar](/people/zanzibar/), Zanzibar the Elder, declared himself Emperor of Faerûn and founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since. It began in the first month of the reign of [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), with four factions risen against him and [Waterdeep](/places/waterdeep/) talking of independence. [Dead Man's Hand](/lore/dead-mans-hand/) takes place during its beginnings, and the war is referred to in [Starfall: The Next Generation](/lore/starfall-the-next-generation/).
+**The War of the Five Zanzibars** is a war and revolution in Faerûn, and a critical collapse of the continent before a dark time that preceded the ascendance of the Sovereignty. It broke out five hundred years after [Zanzibar](/people/zanzibar/), Zanzibar the Elder, declared himself Emperor of Faerûn and founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since. It began in the first month of the reign of [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), with four factions risen against him and [Waterdeep](/places/waterdeep/) talking of independence. The five Zanzibars are the Emperor and the four leaders risen against him: Zellmo, Zythara, [Peterbilt Varkus](/people/peterbilt-varkus/) and Modle Negen. [Dead Man's Hand](/lore/dead-mans-hand/) takes place during its beginnings, and the war is referred to in [Starfall: The Next Generation](/lore/starfall-the-next-generation/).
 
 ## The Empire of the Zanzibars
 
@@ -54,8 +56,16 @@ When the Penitent died, elderly, his son Zanzibar William the Melancholy, former
 
 - **The Zarus Cult.** A zealot princeling named **Zellmo**, raised by the Horsecock Prophecy to believe himself the new Infanta of Zarus, demands the throne.
 - **The Witch Queen of Myth Drannor.** Princess **Zythara**, once the Emperor's favoured cousin and a prodigy of the Arcaneum, was stripped of her titles for defying ecclesiastical oversight of arcane study. She fled to Myth Drannor, rekindled its mythal, and her agents move unseen across the plane.
-- **The March of the Free West.** General Varkus and the Purple Dragons of the Western Vanguard declare loyalty not to the throne but to the people of the Empire and its most exalted institutions. Before he can march on the capital Varkus must secure his rear, where conspirators in league with the Zanzibar and rival rebellions seek to ruin him.
+- **The March of the Free West.** General Varkus and the Purple Dragons of the Western Vanguard declare loyalty to the people of the Empire and its most exalted institutions. Before he can march on the capital Varkus must secure his rear, where conspirators in league with the Zanzibar and rival rebellions seek to ruin him.
 - **The Negende Zonen.** Brigands and outlaws in the Anauroch, the Zooners, led by **Modle Negen**, who claims descent from the Zanzibars of old.
+
+## The five Zanzibars
+
+- **Zanzibar William the Melancholy**, Emperor of Faerûn, on the Glass Throne.
+- **Zellmo**, of the Zarus Cult.
+- **Zythara**, the Witch Queen of Myth Drannor.
+- **Peterbilt Varkus**, of the March of the Free West.
+- **Modle Negen**, of the Negende Zonen.
 
 ## Waterdeep
 

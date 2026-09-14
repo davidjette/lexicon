@@ -40,6 +40,7 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/8 - End of the Infanta/Ally Print.docx
 - sources/dave/2026-09-13-fates-june-saharel.md
 - Dave, note of 2026-09-13
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 published: '2026-09-10'
 wa:
   slug: arc-viii-E28094-end-of-the-infanta-plot
@@ -54,7 +55,9 @@ wa:
 
 ## Into the breach
 
-At the **Crack** in the Egg's side, the assembled host of every age — present from every era because the party was scattered in Time at [Starfall](/history/arc-v-starfall/) and June's instruction was that "Inside the Egg all Times converge" — files into the wound, group by group, each shielded in a bubble of magic — the Purple Dragons under Lord Krapsmere, the naked druids of Myth Drannor, Untari's Bladesingers, the Watch of Waterdeep and the armies of Amn, blessed by priests of Obus and Tyr — down into "the acid meat of the egg and into the darkness." And as the **Arielle** turns toward the fold, an old debt is paid in full:
+Before the assault, **Una**, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned **Asmodeus** to [Waterdeep](/places/waterdeep/) before the party killed her, a portal was used for him to step down toward the Egg, and the party defeated him at the threshold of the portal from the tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out, since all the Infanta are drawn to the Egg to merge with Cthulhu and bring about the end, as [St. Cloud](/people/wainwright-st-cloud/) designed. Because the Egg and the final battle were obliviated, the world remembers instead that troops on the surface led by [Zanzibar](/people/zanzibar/) and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing St. Cloud and ending [the Infanta Crisis](/lore/the-infanta-crisis/).
+
+At the **Crack** in the Egg's side, the assembled host of every age — present from every era because the party was scattered in Time at [Starfall](/history/arc-v-starfall/) and June's instruction was that "Inside the Egg all Times converge" — files into the wound, group by group, each shielded in a bubble of magic — the Purple Dragons under Lord Krapsmere, the naked druids of Myth Drannor, Untari's Bladesingers, the Watch of Waterdeep and the armies of Amn, blessed by priests of Obus and Tyr — down into "the acid meat of the egg and into the darkness." And as the **Arielle** turns toward the fold:
 
 > Immediately following, the severed head of Asmodeus levitates a resplendent twelve-foot-tall masked woman covered in a symmetrical pattern of gold and silver blades, thick wet with the blood and bile of devils. On her shoulder rides a slight, pale and dark-haired child, and on their shoulder, a jet black raven.
 
@@ -82,7 +85,7 @@ Refuse it, and "now you die, but not before suffering an eternity in pain."
 
 ## Cthulhu, the Leviathan
 
-The god is fought in pieces — a thousand-foot horror of Head, Claws, Tentacles and Wings, each tracked as its own creature, each regenerating, the air around him bending space so that distance halves and halves again as you close. The Egg permits no escape: no teleport, no plane shift, no astral projection, no way out at all while the god lives. To even stand near him is to risk permanent madness under his **Unspeakable Presence**. He cannot truly be killed by force — only one act ends him.
+The god is fought in pieces — a thousand-foot horror of Head, Claws, Tentacles and Wings, each tracked as its own creature, each regenerating, the air around him bending space so that distance halves and halves again as you close. The Egg permits no escape: no teleport, no plane shift, no astral projection, no way out at all while the god lives. To even stand near him is to risk permanent madness under his **Unspeakable Presence**. He cannot be killed by force; one act ends him.
 
 ### The End of the Infanta — the Wish that becomes the Oblivia
 
@@ -100,7 +103,7 @@ Among what is removed from memory is the [Lexicon](/items/the-lexicon/)'s knowle
 
 How the world wakes depends on the final breath of the conflagration:
 
-- **If the contents of the Egg are forgotten**, the surface is left confused and leaderless — armies drop their weapons and drift home, the Infantas gone from every memory, the driders retreating to the Underdark. The world is saved by no one it can name. This is the world of the Oblivia.
+- **If the contents of the Egg are forgotten**, the surface is left confused and leaderless — armies drop their weapons and drift home, the Infantas gone from every memory, the driders retreating to the Underdark. This is the world of the Oblivia.
 - **If the heroes spend their Wish to preserve the memory** instead, they emerge to absolute reverence — and more: the Final Wish "unlocked centuries of Obliviation, revealing untold plethora of knowledge once hidden from thought," and broadcast their story "into tens of thousands of sentient minds throughout the Realms… they now know your story, and many will remember it, and make legends from it."
 
 Either way, the Age of the Infanta is over, the gods are loosed from their reborn children, and the Leviathan is unwritten. What survives of it is myth and relic. The Ages of the Infanta ends here.

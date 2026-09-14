@@ -54,6 +54,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
 - sources/dave/2026-09-14-heyu-and-feng.md
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - CANON.md 5w, 5ab, 5ac
 published: '2026-09-10'
 wa:
@@ -140,7 +141,7 @@ In [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), Len
 
 ## The deck
 
-The campaign is named for, and built around, a deck. Twenty-one numbered cards survive in the campaign's own materials, each with a name: **Key · Balance · Puzzle · Gem · Rogue · Sage · Fates · Knight · Sun · Moon · Comet · Star · Jester · Throne · Ruin · Donjon · Void · Skull · Flames · Talons · Euryale**. Alongside them run a second set of unnumbered cards — **Beast · Dragon · Elemental · Fool · Maze · Plant · Priest · Tower**. Each player character is dealt a hand, and those hands are kept: the folder of them is titled, literally, *fate hands*, and the readings are logged. The cards of each character's hand are the cards of their fatemark.
+The campaign is named for, and built around, a deck. Twenty-one numbered cards survive in the campaign's own materials, each with a name: **Key · Balance · Puzzle · Gem · Rogue · Sage · Fates · Knight · Sun · Moon · Comet · Star · Jester · Throne · Ruin · Donjon · Void · Skull · Flames · Talons · Euryale**. Alongside them run a second set of unnumbered cards — **Beast · Dragon · Elemental · Fool · Maze · Plant · Priest · Tower**. Each player character is dealt a hand, and those hands are kept: the folder of them is titled *fate hands*, and the readings are logged. The cards of each character's hand are the cards of their fatemark.
 
 <small>In [Arc II](/history/arc-ii-motherstone/) the party had to beat Mannemarco, the King of Worms, at his favourite game on the moonstone cube called the Illimat — a card-and-combat duel in which every played card summoned a beast into the arena and every captured card was won in blood. Whether the two decks are related is not recorded.</small>
 
@@ -150,7 +151,7 @@ The Company of this age is [Nimbus Corp](/organizations/nimbus-corp/). When St. 
 
 ## Continuity with the older chronicle
 
-Threads of the Ages of the Infanta surface everywhere. Heyu's arcane focus is a floating **moonstone**. The party's world has firearms, clockwork automata and steampunk artifice as ordinary equipment, which is what the Sword Coast Trading Company was building toward when it learned to ride the Obliviator's leylines. The Ordo Trium taught in Sigil holds that the three Fates, Istus, Eloise and Cypher, pulled the world back from the brink five hundred years ago. And in Undermountain, Halaster Blackcloak keeps a hall of stolen [Motherstone](/places/motherstone/) architecture, assembled before any obliviation was lifted on Brightmantle.
+Heyu's arcane focus is a floating **moonstone**. The party's world has firearms, clockwork automata and steampunk artifice as ordinary equipment, which is what the Sword Coast Trading Company was building toward when it learned to ride the Obliviator's leylines. The Ordo Trium taught in Sigil holds that the three Fates, Istus, Eloise and Cypher, pulled the world back from the brink five hundred years ago. And in Undermountain, Halaster Blackcloak keeps a hall of stolen [Motherstone](/places/motherstone/) architecture, assembled before any obliviation was lifted on Brightmantle.
 
 ## Maps
 

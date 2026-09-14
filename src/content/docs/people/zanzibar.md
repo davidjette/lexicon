@@ -55,6 +55,7 @@ sources:
 - C:/dev/fort-max/fort-maximillien.md
 - CANON.md 5ac
 - CANON.md 5ah
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 published: '2026-09-10'
 wa:
   slug: zanzibar-person
@@ -73,7 +74,7 @@ image:
 
 ## Bearing and arms
 
-No physical description of Zanzibar is recorded, and no character sheet for him is archived. What is fixed is his standing: crown prince of Punis, son of its king — "Zanzibar the Younger, Heir of Punis and Paenis," as the sheet of his steward Ser Maximilian styles him — and the envoy of the high priest of Punis.
+No physical description of Zanzibar is recorded, and no character sheet for him is archived. He is crown prince of Punis, son of its king — "Zanzibar the Younger, Heir of Punis and Paenis," as the sheet of his steward Ser Maximilian styles him — and the envoy of the high priest of Punis.
 
 ## Punis, and the fear that sent him
 
@@ -81,17 +82,17 @@ Across Faerûn the holy magic of priests is waning and nobody wants to discuss i
 
 ## Public and private
 
-Publicly he is a diplomatic instrument: a royal sent to interview a foreign cleric on a theological problem, while Cormyr's War Wizards are already calculating what a reborn god would be worth in a war. Privately his loyalties shift almost immediately — the man who arrived to collect an answer for a crumbling temple ends the arc carrying a child into Cormyr's court in defiance of its arcane cabal.
+He was sent as an envoy to interview Brother Magnus on the loss of divine magic, while Cormyr's War Wizards sought an Infanta to use in a war. By the end of the arc he had carried Una into Cormyr's court against the designs of the War Wizards.
 
 ## Cormyr, and the court he brings her into
 
-Suzail, the City of Song, is a knot of danger during the ten-day winter festival of **Candlenights**: King **Glenn Danzig** and the elite [Purple Dragons](/organizations/the-purple-dragons/) under **Lord Krapsmere**, who slew the Witch Queen of Cormanthor twenty years past; and the **War Wizards**, the kingdom's military arcane cabal, who mean to seize **Una** and "use her to conduct a world war." Danzig believed Zanzibar dead, "perishing in his mission to find an infanta for Cormyr to call their own." It is not Zanzibar's own court, and he brought her there anyway. He left it betrothed: the king's daughter **Roseanne** was to marry Crown Prince Zanzibar "to unite the thrones of Suzail and Punis under a single family."
+Suzail, the City of Song, is a knot of danger during the ten-day winter festival of **Candlenights**: King **Glenn Danzig** and the elite [Purple Dragons](/organizations/the-purple-dragons/) under **Lord Krapsmere**, who slew the Witch Queen of Cormanthor twenty years past; and the **War Wizards**, the kingdom's military arcane cabal, who mean to seize **Una** and "use her to conduct a world war." Danzig believed Zanzibar dead, "perishing in his mission to find an infanta for Cormyr to call their own." He left Suzail betrothed: the king's daughter **Roseanne** was to marry Crown Prince Zanzibar "to unite the thrones of Suzail and Punis under a single family."
 
 News from home reached him in Suzail: *"Zanzibar — your father has died. The king finally succumbed to his injuries last night in the presence of his wife, your brothers, and a priest of Zarus."* The letter names his brother Seppy as the one to be crowned; he is nonetheless still styled Crown Prince, and "the king of Punis" is later laid to rest at **King Zanzibar's funeral**.
 
 ## Una
 
-At Candlenights he carries home a girl named Una — drowned and resurrected, "suffering from the common effects of being brought back to life after three days" — who may or may not be an Infanta herself. Her grief is aimed at him.
+At Candlenights he carries home a girl named Una — drowned and resurrected, "suffering from the common effects of being brought back to life after three days" — who may or may not be an Infanta herself.
 
 > I sometimes dream of heaven, like I've been there before. But in the dream the angels are fighting each other. And the devil is laughing… Sometimes I get really mad… What did you save me from?
 
@@ -99,11 +100,11 @@ At Candlenights he carries home a girl named Una — drowned and resurrected, "s
 
 ## Beliefs
 
-He believes a vision reported by a foreign dwarf is worth crossing the world to hear out. He believes a resurrected child is a person to be taken home rather than an asset to be assessed, and holds that against his own kingdom's War Wizards. He believes the fading of the gods is a problem with an explanation, not a punishment.
+**Unknown.** No statement of his beliefs is recorded.
 
 ## Right now
 
-Zanzibar stands between a girl who does not want to have been saved and a cabal of war-mages who want her as an instrument, in Cormyr's capital, with the Purple Dragons in the streets. The [Lexicon](/items/the-lexicon/)'s briefings say the Obus Infanta has awakened in Waterdeep, the elves of Myth Drannor hold the Infanta of Sylvanus, and the orcs another at Mordulkin. Every god is being reborn into a child, and every army wants one of its own.
+At Suzail Zanzibar has Una in his keeping, and the War Wizards mean to seize her; the Purple Dragons are in the streets of Cormyr's capital. The [Lexicon](/items/the-lexicon/)'s briefings say the Obus Infanta has awakened in Waterdeep, the elves of Myth Drannor hold the Infanta of Sylvanus, and the orcs another at Mordulkin.
 
 > Zanzibar sought to subvert the War Wizard's efforts to contain the Infanta, so naturally he had to die.
 
@@ -119,7 +120,11 @@ Zanzibar stands between a girl who does not want to have been saved and a cabal 
 
 Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and with his forces in the old imperial capital of [Waterdeep](/places/waterdeep/), declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. From then on the Emperor of [the Cormyrean Empire](/organizations/the-cormyrean-empire/) was called "the Zanzibar". <small>(Dave, 2026-09-14)</small>
 
-As **Zanzibar the Elder**, First Emperor of Faerûn, he founded the Empire following the defeat of Asmodeus and the end of [the Infanta Crisis](/lore/the-infanta-crisis/). The state patron deity **Zarus** blessed his bloodline to rule forever, and every emperor since has claimed descent from holy blood. His successors rule from [the Glass Throne](/items/the-glass-throne/); among them were [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and his son [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), in whose first month on the throne, with four factions risen against him, [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) was beginning.
+As **Zanzibar the Elder**, First Emperor of Faerûn, he founded the Empire following the defeat of Asmodeus and the end of [the Infanta Crisis](/lore/the-infanta-crisis/). The world remembers that troops on the surface led by Zanzibar and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing [Wainwright St. Cloud](/people/wainwright-st-cloud/) and ending the Infanta Crisis.
+
+<small>Recovered from the Oblivia.</small> Una, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed her, but not before the summoning, and a portal was used for him to step down toward [the Egg](/places/the-egg/). The party defeated Asmodeus at the threshold of the portal from a Waterdeep tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out. The Egg and the final battle were obliviated, and that battle is forgotten.
+
+ The state patron deity **Zarus** blessed his bloodline to rule forever, and every emperor since has claimed descent from holy blood. His successors rule from [the Glass Throne](/items/the-glass-throne/); among them were [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and his son [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), in whose first month on the throne, with four factions risen against him, [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) was beginning.
 
 Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), a barker in Waterdeep calls for independence from the Zanzibar, and [General Peterbilt Varkus](/people/peterbilt-varkus/) delivers an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
 
@@ -127,7 +132,7 @@ Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), a barker 
 
 **Contacts & Relations:**
 
-- **Una** — the drowned and resurrected girl he carried home from Candlenights; possibly an Infanta. Alive, and angry about it.
+- **Una** — the drowned and resurrected girl he carried home from Candlenights. She later invaded Undermountain with the Spiderbros and summoned Asmodeus to Waterdeep, and was killed by the party.
 - **The high priest of Punis** — dispatched him. Unnamed in the record.
 - **Brother Magnus** — the man he was sent to interview, and thereafter a comrade.
 - **King Glenn Danzig** — Cormyr's king; believed Zanzibar dead, and whose daughter Roseanne he is to marry.

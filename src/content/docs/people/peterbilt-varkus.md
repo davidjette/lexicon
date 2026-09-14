@@ -48,6 +48,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3075, IMG_3080)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 published: '2026-09-10'
 wa:
   slug: general-peterbilt-varkus-person
@@ -60,7 +61,7 @@ wa:
 
 **General Peterbilt Varkus** is Marshall of the Western Vanguard and Imperial Governor of [Waterdeep](/places/waterdeep/), and commander of **The Violets**, the Vanguard's elite cavalry and mage detachment. Born in Sembia as the third son of a minor lord, he joined the occupying Cormyrean forces as squire to **Sir Horis Jannassar**, a Purple Dragon Knight "with roots in Waterdeep and Calamshan," and rose through the Imperial Vanguard to command The Violets; their invasion of the Anauroch in DR 1993 was immortalised in Volothamp Geddarm's popular novel *Violets on the Dune*, which made him famous across the Empire. [Zanzibar the Penitent](/people/zanzibar-the-penitent/) named him Marshall of the Western Vanguard and gave him the governorship, "as much to guard the Empire's westerly flank as to remove Varkus from the capital."
 
-He has since proclaimed the **March of the Free West**, declaring loyalty not to the throne but to the people of the Empire and its most exalted institutions, and is courting Waterdeep's old-money elite and ancient trades. He is one of four risings against [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), and the only one commanding a real army.
+He has since proclaimed the **March of the Free West**, declaring loyalty to the people of the Empire and its most exalted institutions, and is courting Waterdeep's old-money elite and ancient trades. He is one of the five Zanzibars of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/): Emperor [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/) and the four risen against him, Zellmo, Zythara, Varkus and Modle Negen.
 
 ## Physical description
 
@@ -70,11 +71,11 @@ He has since proclaimed the **March of the Free West**, declaring loyalty not to
 
 The Vanguard is the [Cormyrean Empire](/organizations/the-cormyrean-empire/)'s frontier army — "half crusaders, half occupying force — renowned for its discipline and merciless efficiency" — and Varkus is its Marshall. Within it, The Violets are an elite cavalry and mage detachment.
 
-The detachment garrisoned at [Fort Maximillien](/places/fort-maximillien/) is not the Vanguard proper but its urban arm, which is a different job with different politics: soldiers inside a city that tolerates them "the way a body tolerates a splinter — with inflammation, not acceptance."
+The detachment garrisoned at [Fort Maximillien](/places/fort-maximillien/) is the Vanguard's urban arm: soldiers inside a city that tolerates them "the way a body tolerates a splinter — with inflammation, not acceptance."
 
 ## Public and private
 
-Publicly, Varkus is the Empire's hand in the west: the Governor who requisitions grain. Privately, and now not very privately at all, he has proclaimed the March of the Free West.
+As Governor, Varkus answers for the Empire's seizures of grain and cattle in the west. He has proclaimed the March of the Free West.
 
 Varkus is courting Waterdeep's old-money elite and ancient trades. Before he can march on the capital he must secure his rear, where conspirators in league with the Zanzibar and rival rebellions are working to ruin him.
 
@@ -84,11 +85,11 @@ Born in Sembia as the third son of a minor lord, Varkus joined the occupying Cor
 
 ## Beliefs
 
-He believes the Empire's institutions are worth more than the bloodline currently sitting on them.
+The March of the Free West declares loyalty to the people of the Empire and its most exalted institutions.
 
-## The rebellion he is
+## The March of the Free West
 
-Varkus is one of four risings against Zanzibar William the Melancholy, and the only one commanding a real army. His March of the Free West is part of the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
+The March of the Free West is one of four risings against Zanzibar William the Melancholy, alongside Zellmo and the Zarus Cult, Zythara the Witch Queen of Myth Drannor, and Modle Negen and the Negende Zonen; the Emperor and the four are the five Zanzibars. The March is part of the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
 
 ## Tiffany House
 
@@ -100,14 +101,16 @@ On the day of [the Tiffany House heist](/history/the-tiffany-house-heist/), the 
 
 Before he came in, Maverick had been questioned by [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/), a paladin and Purple Dragon Knight of the garrison, and when the fort erupted below Varkus ordered Merriam out to investigate. The full account is at [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/).
 
+The party suspect that Varkus is allied with **Asmodeus**, because he seems to be allied with [Phillip Klaxon](/people/phillip-klaxon/).
+
 ## Right now
 
-Below him a scaffold has been used, a heist at Tiffany House has been foiled by people he now has names for, two of his prisoners are loose in the dark under his fort, the farmlands are burning levy wagons, and Ostara is coming.
+After the breakout, Lenore and BattleBeast had escaped the fort into Undermountain with Heyu, the farmlands were burning levy wagons, and Ostara was approaching.
 
 ## Contacts and relations
 
 **Sir Horis Jannassar** — his knight and master as a squire; roots in Waterdeep and Calamshan. Status unrecorded.\
-**Zanzibar the Penitent** — made him Marshall and Governor; also exiled him westward by doing so. Dead.\
+**Zanzibar the Penitent** — made him Marshall and Governor, in part to remove him from the capital. Dead.\
 **Colonel Angus** — his second at the fort. Active.\
 **The Unmasked Lord ap Dyksterhaus** — rival for the city. Active.\
 **Volothamp Geddarm** — made him famous. Unrecorded.\

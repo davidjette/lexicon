@@ -37,6 +37,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
 - sources/dave/2026-09-13-fates-june-saharel.md
 - Dave, note of 2026-09-13
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 published: '2026-09-10'
 wa:
   slug: the-egg-location
@@ -47,11 +48,11 @@ wa:
 
 ## Approach
 
-There is one way in. The Crack — the host of the last day is "helped into an open slice" of it — runs beneath the buried city; the Motherstone scholars' own Planetarium showed the other half of the picture — "a dark orbit that intersects directly with Faerûn, a black streak that touches down in the sea off the coast of Snowdown." The prison and the falling star are the same object seen from two ends of time.
+The Crack — the host of the last day is "helped into an open slice" of it — runs beneath the buried city; the Motherstone scholars' own Planetarium showed the other half of the picture — "a dark orbit that intersects directly with Faerûn, a black streak that touches down in the sea off the coast of Snowdown." The prison and the falling star are the same object.
 
 ## Inside
 
-Within the shell the laws of the world fail, and they fail in ways that are measured rather than vague.
+Within the shell the laws of the world fail:
 
 **Geometry:** "The distance between points in space change and warp as you approach Cthulhu. Within 300 feet of Cthulhu, the range of all weapons, spells, effects, the movement of all creatures, and all other measures of distance are halved. Within 100 feet of Cthulhu, these distances are halved again."\
 **The sea:** "a caustic brine that dissolves everything except for him."\
@@ -60,16 +61,18 @@ Within the shell the laws of the world fail, and they fail in ways that are meas
 
 ## Where all Times meet
 
-The Egg's strangest property is given by the time-goddess June at the End of Time: **inside the Egg all Times converge.** The party had just been strewn across the ages — St. Cloud "rushes the [Anachron](/items/the-anachron/) before his death and scrambles the core," then flees into a time portal — and June's instruction is built on that scattering:
+According to the time-goddess June at the End of Time, **inside the Egg all Times converge.** The party had just been strewn across the ages — St. Cloud "rushes the [Anachron](/items/the-anachron/) before his death and scrambles the core," then flees into a time portal — and June's instruction is built on that scattering:
 
 > You friends are scattered in Time. You must unite them. Inside the Egg all Times converge. They will meet each other there. You must tell them to bring every force the can from whenever they are to defeat Him, if such a thing is possible.
 
 <small>— June, Arc V, [Starfall](/history/arc-v-starfall/), Part VI. Sic on "You friends" and "every force the can."</small>
 
-Because the scrambled Anachron left the party in every era at once, and because inside the Egg all Times converge, the last battle could be joined from every era at once. That is what the final encounter records: on a failure the party sees "another wound open in the Egg and another ship full of themselves and their allies ready to do battle with Cthulhu as well." <small>(End of the Infanta, notes for a final encounter. For the scramble and the crash that left the Anachron in the deep past, see [The Anachron](/items/the-anachron/).)</small>
+Because the scrambled Anachron left the party in every era at once, and because inside the Egg all Times converge, the last battle could be joined from every era at once. The final encounter records that on a failure the party sees "another wound open in the Egg and another ship full of themselves and their allies ready to do battle with Cthulhu as well." <small>(End of the Infanta, notes for a final encounter. For the scramble and the crash that left the Anachron in the deep past, see [The Anachron](/items/the-anachron/).)</small>
 
 ## The End of the Infanta
 
-The chronicle ends inside it: every ally of every age filing into the acid meat of the wound, the Lady of Pain and Marcus arriving with the severed head of Asmodeus, the god fought in pieces — Head, Claws, Tentacles, Wings, each regenerating — and a final Wish which, touching the god with an [Obliviator](/items/the-obliviator/), unwrites everything the Egg contained. Including, by the terms of the act, the people who performed it.
+The chronicle ends inside it: every ally of every age filing into the acid meat of the wound, the Lady of Pain and Marcus arriving with the severed head of Asmodeus, the god fought in pieces — Head, Claws, Tentacles, Wings, each regenerating — and a final Wish which, touching the god with an [Obliviator](/items/the-obliviator/), unwrites everything the Egg contained. By the terms of the act, the people who performed it are forgotten too.
+
+All the Infanta are drawn to the Egg to merge with Cthulhu and bring about the end, as [St. Cloud](/people/wainwright-st-cloud/) designed. After **Una**, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to [Waterdeep](/places/waterdeep/), the party defended the portal from the tavern to the crack in the Egg to keep her and any other Infanta out, and defeated Asmodeus at its threshold; because the Egg and the final battle were obliviated, the world remembers instead that troops on the surface led by [Zanzibar](/people/zanzibar/) and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing St. Cloud and ending [the Infanta Crisis](/lore/the-infanta-crisis/).
 
 The allies at the Egg came from across time. The party went back in time and recruited them, and some of them had been allies, or enemies, in their own timeline's future. The [Saharel sisters](/people/aurora-and-astra-saharel/) were present twice: as [Marcus](/people/marcus/) and [the Lady of Pain](/people/the-lady-of-pain/) from the present, and as the Saharel twins, young women of Netheril, from Antiquity in the second loop.

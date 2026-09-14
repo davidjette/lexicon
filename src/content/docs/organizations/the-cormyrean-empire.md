@@ -40,6 +40,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075)
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
 - CANON.md 5ac
+- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - CANON.md 5ah
 published: '2026-09-10'
 wa:
@@ -51,7 +52,7 @@ wa:
 
 ## OVERHEARD GOSSIP: THE SWORD COAST TRADING CO., THE 'IMPERIAL NAVY', AND THE KING OF CORMYR
 
-The oldest surviving file on the subject predates the Empire.
+A file of overheard gossip from before the founding of the Empire records:
 
 > The King of Cormyr has ambitions to reassert himself as a new Emperor and has provoked a dangerous war with the nobles of the Dalelands and the merchant princes of Sembia. He believes he can reestablish a new Empire on the Inland Sea and link it with the Empire of old. The Sword Coast Trading Co. will help him in his goals.
 
@@ -59,7 +60,7 @@ The "Empire of old" is the one whose capital was Waterdeep, and whose Open Lord 
 
 ## THE FOUNDING
 
-The Empire was forged five hundred years ago by **Zanzibar the Elder**, the First Emperor of Faerûn, following the defeat of **Asmodeus** and the end of the [Infanta Crisis](/lore/the-infanta-crisis/). The state patron deity **Zarus** — god of sentinels, conquest, and humanity triumphant — blessed the Zanzibar bloodline to rule forever. Every emperor since has claimed descent from holy blood. The Empire's authority is therefore not conquest but inheritance, and not policy but scripture.
+The Empire was forged five hundred years ago by **Zanzibar the Elder**, the First Emperor of Faerûn, following the defeat of **Asmodeus** and the end of the [Infanta Crisis](/lore/the-infanta-crisis/). The state patron deity **Zarus** — god of sentinels, conquest, and humanity triumphant — blessed the Zanzibar bloodline to rule forever. Every emperor since has claimed descent from holy blood.
 
 It reaches from its capital in the heartland to [Waterdeep](/places/waterdeep/) in the far west, which it holds under military governorship. It is defended by the [Purple Dragons](/organizations/the-purple-dragons/) and the **War Wizards**, and its frontier is held by the **Western Vanguard** — "Cormyr's frontier army — half crusaders, half occupying force — renowned for its discipline and merciless efficiency."
 
@@ -77,12 +78,12 @@ Four factions have risen against the Melancholy Emperor.
 
 **The Zarus Cult.** A zealot princeling named **Zellmo**, raised by the **Horsecock Prophecy** to believe himself the new Infanta of Zarus, demands the throne.\
 **The Witch Queen of Myth Drannor.** Princess **Zythara**, once the Emperor's favoured cousin and a prodigy of the Arcaneum, was stripped of her titles for defying ecclesiastical oversight of arcane study. She fled to Myth Drannor, rekindled its mythal, and her agents now move unseen across the plane.\
-**The March of the Free West.** [General Varkus](/people/peterbilt-varkus/) and the Purple Dragons of the Western Vanguard, declaring loyalty not to the throne but to "the people of the Empire and its most exalted institutions."\
+**The March of the Free West.** [General Varkus](/people/peterbilt-varkus/) and the Purple Dragons of the Western Vanguard, declaring loyalty to the people of the Empire and its most exalted institutions.\
 **The Negende Zonen (the Zooners).** Brigands and outlaws in the Anauroch led by **Modle Negen**, who claims descent from the Zanzibars of old.
 
 ## THE WAR OF THE FIVE ZANZIBARS
 
-These risings stand at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a war and revolution that is a critical collapse of the continent, before a dark time preceding the ascendance of the Sovereignty. [Dead Man's Hand](/lore/dead-mans-hand/) takes place during its beginnings.
+These risings stand at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a war and revolution that is a critical collapse of the continent, before a dark time preceding the ascendance of the Sovereignty. The five Zanzibars are Emperor Zanzibar William the Melancholy and the four risen against him: Zellmo of the Zarus Cult, Zythara the Witch Queen of Myth Drannor, [Peterbilt Varkus](/people/peterbilt-varkus/) of the March of the Free West, and Modle Negen of the Negende Zonen. [Dead Man's Hand](/lore/dead-mans-hand/) takes place during its beginnings.
 
 ## HOW IT PAYS FOR ITSELF
 
