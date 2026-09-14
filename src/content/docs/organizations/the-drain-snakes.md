@@ -1,21 +1,23 @@
 ---
 title: The Drain Snakes
 description: The sewer gang that blocked the Cogborn evacuation route, and that Malrik Zeir was quietly paying for captives.
+tags:
+  - The Drain Snakes
+  - Drain Snakes
+  - Sharn
+  - Undercity
+  - Sub-line District
+  - Ziggurat
+  - Grand Aqueduct
+  - Underhive
+  - Blair
+  - Malrik Zeir
+  - BioTec
+  - Cogborn
+image:
+  src: /images/uploads/drain-snakes-mu0vipof.webp
 type: organization
 kind: organizations
-tags:
-- The Drain Snakes
-- Drain Snakes
-- Sharn
-- Undercity
-- Sub-line District
-- Ziggurat
-- Grand Aqueduct
-- Underhive
-- Blair
-- Malrik Zeir
-- BioTec
-- Cogborn
 icon: fa-worm
 fields:
   type: Criminal gang
@@ -25,9 +27,9 @@ fields:
   status: Destroyed (Sharn Ep 11)
   allies: Paid by Malrik Zeir for captives
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: the-drain-snakes-organization
