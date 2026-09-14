@@ -1,26 +1,28 @@
 ---
 title: Korth Ep 10 — Tunnel to the Abyss
 description: Hunting the missing duergar boy, the trio find and destroy an Alkilith holding a permanent portal to the Abyss open beneath the foundry.
+tags:
+  - Korth Ep 10
+  - Tunnel to the Abyss
+  - Alkilith
+  - Abyss
+  - Egg Roll
+  - Glitterhame
+  - Thirteenth Casting
+  - Sister Calvane
+  - Succubus
+  - Old Toby
+  - Korranberg Foundry
+image:
+  src: /images/uploads/korth-ep-10-tunnel-to-the-abyss-mu0spnna.webp
 sidebar:
   order: 310
 type: report
 kind: sessions
-tags:
-- Korth Ep 10
-- Tunnel to the Abyss
-- Alkilith
-- Abyss
-- Egg Roll
-- Glitterhame
-- Thirteenth Casting
-- Sister Calvane
-- Succubus
-- Old Toby
-- Korranberg Foundry
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-10-E28094-tunnel-to-the-abyss-report
