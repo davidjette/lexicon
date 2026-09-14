@@ -1,21 +1,25 @@
 ---
 title: Sharn
 description: 'The vertical City of Towers: Upper City above, Cogs and Underhive below, watched by ArcEyes and now governed by the Council of Sharn.'
+tags:
+  - Sharn
+  - City of Towers
+  - Upper City
+  - Lower City
+  - The Cogs
+  - Iron Veil
+  - ArcEye
+  - Council of Sharn
+  - Breland
+  - Underhive
+  - Veil Building
+  - Skyport
+image:
+  src: /images/uploads/sharn-upper-city-mu0pwzpz.webp
+  alt: Arcane Eye Security Network
+  caption: Arcane Eye Security Network
 type: settlement
 kind: places
-tags:
-- Sharn
-- City of Towers
-- Upper City
-- Lower City
-- The Cogs
-- Iron Veil
-- ArcEye
-- Council of Sharn
-- Breland
-- Underhive
-- Veil Building
-- Skyport
 icon: fa-city
 fields:
   type: City
@@ -35,20 +39,16 @@ fields:
   owner: Itself, since the fall of the Iron Veil
   ruler: Chancellor Eric the Cleric
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- sources/wa/temple-of-the-closed-circle-landmark.txt
-- sources/site/biotec.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/wa/temple-of-the-closed-circle-landmark.txt
+  - sources/site/biotec.txt
 published: '2026-09-10'
 wa:
   slug: sharn-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
-image:
-  src: /images/site/sharn-1.webp
-  alt: Arcane Eye Security Network
-  caption: Arcane Eye Security Network
 gallery:
   - src: /images/site/sharn-2.webp
     alt: Arcane Eye Security Network
