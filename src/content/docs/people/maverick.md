@@ -62,7 +62,6 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - C:/dev/fort-max/fort-maximillien.md
   - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
   - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
   - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
@@ -70,7 +69,9 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-names.md
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - sources/dave/2026-09-13-dead-mans-hand-company.md
+  - sources/dave/2026-09-14-fort-maximillien-as-played.md
   - CANON.md 5ac
+  - CANON.md 5af
 published: '2026-09-10'
 wa:
   slug: maverick-person
@@ -85,13 +86,13 @@ gallery:
 
 **Also known as:** Maverick Asswell
 
-Maverick was a dark elf bard and prince, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and the only one questioned personally by [General Peterbilt Varkus](/people/peterbilt-varkus/). Taken on his knees with crossbows and halberds pointed at him, he was lifted to his feet, shackled as a gentleman and driven to the fort in a passenger carriage; the paladin **Sir Merriam Wordsworker** took custody of him and led him up the tower stair to the upper bastion, where he was questioned across a well-appointed desk while two War Wizards read his mind. He talked Merriam round to his innocence, and then **Nicollo** was brought in and betrayed him, claiming **Phillip Klaxon**'s service and the **RUIN** card for himself. Varkus sentenced him to hang at dawn. He was thrown into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), led blindfolded and gagged to the parade-ground gallows, misty-stepped off the scaffold, and was torn apart by wanded wizards on the battlements; his body fell through the dark onto the dome sheltering the friends who got out, in Undermountain, where Tripp Sandhill raised him.
+Maverick was a dark elf bard and prince, one of the party taken by the [Purple Dragons](/organizations/the-purple-dragons/) to [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/) after the fighting at [the Grub + Grog](/places/the-grub-and-grog/), where he was questioned by [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/) and [General Peterbilt Varkus](/people/peterbilt-varkus/). He talked Merriam round to his innocence, but [Nicollo](/people/nicollo/) turned on the party, claiming **Phillip Klaxon**'s service and the **RUIN** card for himself, and Varkus sentenced Maverick to hang at dawn. He was hanged the next day with [Shadowhigh](/people/shadowhigh/) and [Barold](/people/barold-bonds/) and thrown down the fort's huge trash hole, where [Tripp Sandhill](/people/tripp-sandhill/) resurrected him in [Undermountain](/places/undermountain/).
 
 Maverick is a distant descendant of [Revan Darkcember](/people/revan-darkcember/) and, after the Klaxons, heir to [Tiffany House](/places/tiffany-house/). Killed, like each of his companions, by [Jeremiah](/people/jeremiah/), he woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), made an enemy of Sir Guy Standing, and came with the party to Waterdeep.
 
 ## Physical description
 
-A dark elf bard prince "with an air of black excellence": dark skin, romantic white hair, elegant, flamboyant, a rakish smile, silken clothes and a rapier at his hip — and he "looks even better when disheveled." <small>(Character roster.)</small> In the fort's own module he is never seen: every other prisoner is described in a room somebody can walk into, and Maverick is present only as sound from above.
+A dark elf bard prince "with an air of black excellence": dark skin, romantic white hair, elegant, flamboyant, a rakish smile, silken clothes and a rapier at his hip — and he "looks even better when disheveled." <small>(Character roster.)</small>
 
 ## Family
 
@@ -125,21 +126,9 @@ When [Bud Holhertz](/people/bud-holhertz/) shot [Lenore](/people/lenore/) outsid
 
 At the Rexium sales meeting the party attacked, in [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/). Rex dominated Maverick, and with him all the charm wearers, forcing them to attack [Heyu](/people/heyu/). Maverick broke free, but not before stabbing Heyu, then ran to stop Rex, casting a hypnotic pattern that stunned Rex's horses, his footman and Lenore. He grabbed the silver charm from the dead Megan's neck. Guards converged on him and Lenore and bound them.
 
-## Held upstairs
-
-He is on the fort's upper floor, with the General, the War Wizards, the artillery positions overlooking both courtyard and city, and the officer quarters. The stair up is the one door in the building constructed to refuse entry: heavy oak bound in iron, in a stone frame thick enough to withstand a battering ram, with a dwarven-forged lock, an *arcane lock* laid from above under War Wizard urban protocol, and a physical bar dropped across it on the far side. Even the Colonel's keys do not open it from below. From the stairwell drifts the smell of lamp oil and old magic, "like cold air from a cave."
-
 ## The interrogation
 
-What reaches the lower halls is a pattern rather than words:
-
-> Varkus' measured voice asking questions, long silences, the scrape of a chair.
-
-Varkus, Marshall of the Western Vanguard, does not question street prisoners. He questions people he thinks know something about the night's events at Tiffany House, where he was raising funds among Waterdeep's old families when a heist was foiled — or about the conspirators he believes are working in his rear to ruin him before he can march east.
-
-## What he might know
-
-<small>From the session record.</small> Taken on his knees with crossbows and halberds pointed at him, he was lifted respectfully to his feet, bound in light shackles as a gentleman, and driven to the fort in a passenger carriage. The paladin **Sir Merriam Wordsworker** took custody of him and led him up the tower stair to the upper bastion. He was questioned in a plush armchair across a well-appointed desk while two War Wizards stood behind Merriam reading his mind; on the desk lay his rapier, his quill and a loosely wrapped deck of cards with **RUIN** peeking out. He talked Merriam round to his innocence and even to investigating Rex Bedsheets — and then Varkus came in with **Phillip Klaxon** and **Griddy Champagne**, demanding the true reason for the attack and whether they worked for his enemies. Maverick explained himself well enough to make Klaxon fume. Then the fort erupted below; then Nicollo was brought in and, to Maverick's stunned face, betrayed him — claiming Klaxon's service and the RUIN card for himself. Griddy slipped the card into her bra. Varkus passed sentence: hanging, at dawn.
+Taken on his knees with crossbows and halberds pointed at him, he was lifted respectfully to his feet, bound in light shackles as a gentleman, and driven to the fort in a passenger carriage. The paladin **Sir Merriam Wordsworker** took custody of him and led him up the tower stair to the upper bastion. He was questioned in a plush armchair across a well-appointed desk while two War Wizards stood behind Merriam reading his mind; on the desk lay his rapier, his quill and a loosely wrapped deck of cards with **RUIN** peeking out. He talked Merriam round to his innocence and even to investigating Rex Bedsheets — and then Varkus came in with **Phillip Klaxon** and **Griddy Champagne**, demanding the true reason for the attack and whether they worked for his enemies. Maverick explained himself well enough to make Klaxon fume. Then the fort erupted below, as BattleBeast broke out loudly and the rest of the team snuck in; the party killed almost everyone, including Sir Loin, who was raised afterwards. Then Nicollo was brought in and, to Maverick's stunned face, betrayed him — claiming Klaxon's service and the RUIN card for himself. Griddy slipped the card into her bra. Varkus passed sentence: hanging, at dawn. The rest of the team were captured, apart from [Lenore](/people/lenore/), Heyu, [BattleBeast](/people/battlebeast/) and [Rodriel](/people/rodriel/), who got away down the trash hole.
 
 ## What the interrogation won
 
@@ -149,11 +138,11 @@ Maverick convinced Sir Merriam Wordsworker to investigate Rex Bedsheets, and con
 
 ## The gallows
 
-Thrown stunned into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), where they traded stories and regrets, he was led blindfolded and gagged to the parade-ground gallows at dawn with Shadowhigh and Barold Bonds, before the whole garrison and Varkus on a white steed. He misty-stepped off the scaffold. Wanded wizards on the battlements tore all three of them to shreds. His body fell through the dark onto the dome sheltering the friends who got out.
+Thrown stunned into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), where they traded stories and regrets, he was led blindfolded and gagged to the parade-ground gallows at dawn with Shadowhigh and Barold Bonds, before the whole garrison and Varkus on a white steed. He misty-stepped off the scaffold. Wanded wizards on the battlements tore all three of them to shreds. The three were thrown down the trash hole, and his body fell through the dark onto the dome sheltering the friends who got out.
 
 ## Raised in Undermountain
 
-The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." In return the party helped Tripp take revenge for the death of his own adventuring party.
+The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character; he resurrected Maverick, Shadowhigh and Barold, and the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
 ## Right now
 

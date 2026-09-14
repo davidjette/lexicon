@@ -11,6 +11,7 @@ tags:
   - Undermountain
   - Heyu
   - Tripp Sandhill
+  - Fort Maximillien
 type: person
 kind: people
 icon: fa-shield-halved
@@ -31,13 +32,14 @@ fields:
 sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2990, IMG_3065, IMG_3073, IMG_3105)
   - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
+  - sources/dave/2026-09-14-fort-maximillien-as-played.md
   - CANON.md 5ab
 published: '2026-09-14'
 ---
 
 **Paladin of Neptune · Former ruffian · Knight errant · Alive**
 
-Rodriel is a paladin of Neptune and former ruffian, a survivor and knight errant who travels with the party of [Dead Man's Hand](/lore/dead-mans-hand/). Rodriel was with the party by their second real rest, after [Saltmarsh](/places/saltmarsh/), and is with them in [Undermountain](/places/undermountain/).
+Rodriel is a paladin of Neptune and former ruffian, a survivor and knight errant who travels with the party of [Dead Man's Hand](/lore/dead-mans-hand/). Rodriel was with the party by their second real rest, after [Saltmarsh](/places/saltmarsh/), was one of the four, with [Heyu](/people/heyu/), [Lenore](/people/lenore/) and [BattleBeast](/people/battlebeast/), not captured at [Fort Maximillien](/places/fort-maximillien/), and is with the party in [Undermountain](/places/undermountain/).
 
 ## Physical description
 
@@ -45,9 +47,11 @@ Sea-stained armor, a weathered longsword and a tattered cloak. <small>(Character
 
 ## With the party
 
-At the party's second real rest, after Saltmarsh, where they kept the FATES card from [Keisha Milosh](/people/keisha-milosh/) and killed [Jeremiah](/people/jeremiah/), though not permanently, Rodriel was with them, as was [Heyu](/people/heyu/). <small>(DM notes)</small>
+At the party's second real rest, after Saltmarsh, where they kept the FATES card from [Keisha Milosh](/people/keisha-milosh/) and killed [Jeremiah](/people/jeremiah/), though not permanently, Rodriel was with them, as was Heyu. <small>(DM notes)</small>
 
-In Undermountain, Heyu, [Shadowhigh](/people/shadowhigh/), [Lenore](/people/lenore/), [Maverick](/people/maverick/), [BattleBeast](/people/battlebeast/), Rodriel and [Barold Bonds](/people/barold-bonds/) met [Tripp Sandhill](/people/tripp-sandhill/), who brought many of them back to life, and helped him get revenge for the death of his party. They recovered the mission file for [O-3255](/items/o-3255/) and met an old man who had been the bandit camp's prisoner. <small>(DM notes)</small>
+In [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), the party were captured, except Heyu, Lenore, BattleBeast and Rodriel.
+
+In Undermountain, Heyu, [Shadowhigh](/people/shadowhigh/), Lenore, [Maverick](/people/maverick/), BattleBeast, Rodriel and [Barold Bonds](/people/barold-bonds/) met [Tripp Sandhill](/people/tripp-sandhill/), who brought many of them back to life, and helped him get revenge for the death of his party. They recovered the mission file for [O-3255](/items/o-3255/) and met an old man who had been the bandit camp's prisoner. <small>(DM notes)</small>
 
 ## The cards
 

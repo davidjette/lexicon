@@ -42,7 +42,6 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3096, IMG_3099)
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
-- C:/dev/fort-max/fort-maximillien.md
 published: '2026-09-14'
 ---
 
@@ -63,6 +62,7 @@ Maverick was brought through the gatehouse of Fort Maximillien in light shackles
 The questioning was set for three: two [War Wizards](/organizations/war-wizards/), Gallant Sheridan Choice and Dame Synna Mantos, and one Purple Dragon Knight, Sir Merriam. Merriam's part was a zone of truth, Mantos's a detection of thoughts, and Choice's a hold on the prisoner. <small>(DM notes)</small> The lines of inquiry asked why the party had attacked the sales meeting, who had sent them, where they had got the RUIN card, and whether Maverick was "The Prince" the Grille brothers said they worked for. <small>(DM notes)</small>
 
 Merriam sat behind a well-appointed desk with Maverick in a plush armchair across from him and the two War Wizards standing behind him, gazing at Maverick and reading his mind. He questioned him about the incident at the Grub + Grog, then about the reasons for Maverick's journey to Waterdeep, his connection with the condemned [Shadowhigh](/people/shadowhigh/), and why he had been spotted at [Tiffany House](/places/tiffany-house/) earlier that day. On the desk lay the items seized from the party: Maverick's rapier, his quill, and a loosely wrapped deck of cards with the card of **RUIN** peeking out. Maverick convinced Merriam of his innocence, and convinced him further to investigate Rex Bedsheets and his pyramid scheme. <small>(Fort Maximillien narrative)</small>
+
 ## Called away
 
 General Varkus entered behind Maverick with [Phillip Klaxon](/people/phillip-klaxon/) and [Griddy Champagne](/people/griddy-champagne/) and demanded to know the true reason for the party's attack, and whether they were working with his enemies. When the fort erupted below, with [BattleBeast](/people/battlebeast/) and a wounded owlbear breaking out of the stable, Varkus ordered Merriam to investigate the racket outside, and he and the War Wizards left the room. <small>(Fort Maximillien narrative)</small>

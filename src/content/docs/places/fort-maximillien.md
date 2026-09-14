@@ -7,104 +7,79 @@ tags:
 - Fort Maximillien
 - Waterdeep
 - Purple Dragons
+- War Wizards
 - Western Vanguard
-- Colonel Angus
 - Peterbilt Varkus
+- Colonel Angus
+- Sir Loin
 - Asmodeus
 - Infanta Crisis
-- Cormyrean Empire
-- Lenore
-- BattleBeast
-- Maverick
-- Shadowhigh
-- Ostara
-- Infantaverse
-- Sir Loin
-- Sir Merriam Wordsworker
-- Heyu
-- Nicollo
+- the trash pit
+- Undermountain
 - Dead Man's Hand
-- owlbear
+- Infantaverse
 icon: fa-fort-awesome
 fields:
-  type: Fortified garrison and guard post
-  location: Waterdeep, near the Dock Ward (module); on a fortified island in a small deep lake (session record)
+  type: Fortified garrison; headquarters of the Western Vanguard occupying force
+  location: Waterdeep, on a fortified island in a small deep lake
   founding: Built on the consecrated ruins of the tavern where Asmodeus was defeated
-  rulingBody: Colonel Angus, urban detachment of the Purple Dragons; under General Peterbilt Varkus
-  population: Roughly thirty named garrison soldiers plus civilian cook and surgeon
+  rulingBody: General Peterbilt Varkus, High Commander, Western Vanguard; Colonel Angus, his second
+  population: Purple Dragon knights and a War Wizard detachment, with a cook and medical staff
   demonym: Unknown
   status: Active garrison; breached on the night of the Grub + Grog arrests
-  includedLocations: Gatehouse; Parade Grounds; Animal Pens; Inner Courtyard; Arcade Hall; Dispatch Antechamber; Kitchen; Command and Dispatch; Barracks; Infirmary and Long Rest Chamber; Side Gate House; Back Hall; Lower Barracks; Dungeon Stairs; Guard Room; Trash Postern; Inner Storage; the Upper Bastion; the Dungeon; the Trash Pit, which is the Yawning Portal into Undermountain
+  includedLocations: The gatehouse; the parade ground and its gallows; the stables; the kitchen; the command center; the infirmary; the upper bastion; the dungeon; the trash pit, which is the Yawning Portal into Undermountain
 sources:
-- C:/dev/fort-max/fort-maximillien.md
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
+- sources/dave/2026-09-14-fort-maximillien-as-played.md
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3093, IMG_3094, IMG_3095, IMG_3100, IMG_3105)
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+- C:/dev/fort-max/fort-maximillien.md
 published: '2026-09-10'
 wa:
   slug: fort-maximillien-location
   category: c3f639a3-eec5-4058-a4cc-d3e5b1d76287
 ---
 
-**Fort Maximillien** is a fortified garrison and guard post inside occupied [Waterdeep](/places/waterdeep/), held by an urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) under [Colonel Angus](/people/colonel-angus/) and answering to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor of the city. It stands on the ruins of the tavern where the final battle against **Asmodeus** was fought at the close of the [Infanta Crisis](/lore/the-infanta-crisis/), a site consecrated and then fortified. Four prisoners of the occupation were held there — Lenore, BattleBeast, Maverick and Shadowhigh. On the night of the breakout Lenore and BattleBeast fought their way out and went down the trash pit; at dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground. The trash pit is the Yawning Portal into Undermountain, and the hanged were raised there.
-
-> Peace is maintained, not requested.\
-> — Colonel Angus, Urban Detachment of the Purple Dragons
+**Fort Maximillien** is a fortified garrison on an island in a small deep lake inside occupied [Waterdeep](/places/waterdeep/), the headquarters of the Western Vanguard occupying force and of the [Purple Dragons](/organizations/the-purple-dragons/) in the city, commanded by [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor of the city. It stands on the ruins of the tavern where the final battle against **Asmodeus** was fought at the close of the [Infanta Crisis](/lore/the-infanta-crisis/), a site consecrated and then fortified. After [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/), Lenore, BattleBeast, Maverick and Shadowhigh were held there. On the night of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/) the party broke in while BattleBeast broke out, and [Colonel Angus](/people/colonel-angus/) and Sir Loin were killed and later revived. Lenore, BattleBeast and Heyu escaped down the fort's trash pit; the rest of the party were captured, except Rodriel. At dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground and thrown down the pit, which is the Yawning Portal into [Undermountain](/places/undermountain/), where [Tripp Sandhill](/people/tripp-sandhill/) raised them.
 
 ## What it was built on
 
-The fort stands on the ruins of the tavern where the final battle against Asmodeus was fought, at the close of the Infanta Crisis — the five centuries of holy war that ended with the founding of the [Cormyrean Empire](/organizations/the-cormyrean-empire/). The site was consecrated, then fortified, then forgotten by everyone except the soldiers garrisoned inside it. Nothing in the fort marks the ground it occupies. The stone "has seen centuries of weather and war," and the men billeted on it complain about the damp.
+The fort stands on the ruins of the tavern where the final battle against Asmodeus was fought, at the close of the Infanta Crisis — the five centuries of holy war that ended with the founding of the [Cormyrean Empire](/organizations/the-cormyrean-empire/). The site was consecrated, then fortified, then forgotten by everyone except the soldiers garrisoned inside it.
 
-<small>Two accounts of its position stand side by side: one places the fort in the city near the Dock Ward, the other has the carriages ride "toward the small deep lake inside which on a fortified island stand Fort Maximillien, the headquarters of the Western Vanguard occupying force," its battlements high above the water.</small>
+## The fort
 
-## The place itself
+The fort stands on a fortified island in a small deep lake beyond a posh neighborhood, its battlements far above the water. Carriages enter through a sturdy gatehouse past heavily armed infantry guards. The stables sit behind large barn doors, lit by torches that glow a magical yellow, because the War Wizards who occupy the upper bastion will not allow unsafe lanterns in a stable; a metal-barred animal cage is permanently installed on the back wall. A parade ground lies in front of the main entrance.
 
-It is a working garrison, not a castle: a gatehouse smelling of wet iron and horse sweat, murder slits watching the street "with the patience of old architecture," and a notice nailed to the crossbeam where everyone entering has to duck. Past it, a parade ground of hard-packed dirt scored with drill lines, ballista components in oiled canvas, and a sergeant's chalkboard. An inner courtyard "opens like a stone throat" around a well with a frayed winch rope. A covered colonnade runs beneath the outer wall, open to the night on one side, close enough to the street that you can hear the city through it — distant laughter, a dog, a cart on cobblestones.
-
-Below and behind are the working rooms: kitchen, barracks, infirmary, storage, and the lower halls that run down to a dungeon. The one door built to refuse entry is the stair to the upper floor — heavy oak bound in iron, in a frame thick enough to stop a ram, locked, warded from above by a War Wizard, and barred on the far side for good measure. Above it live the General, the War Wizards, the artillery positions overlooking both courtyard and city, and whoever is currently being questioned.
+Inside, an interior tower door, unlocked from the inside, opens on the stair up to the upper bastion, and an identical door on the other side of the hall leads down to the dungeons. Behind the stable a door opens into the fort's kitchen, and a hall runs from it toward a command center. In the infirmary, a barred and locked ward looks through its bars into an unsecured north room. A door leads outside to a huge pit in the ground, with no bottom in sight, its edges littered with trash.
 
 ## The garrison
 
-This is not the full Western Vanguard. <small>"These are the soldiers stationed inside a city that tolerates them the way a body tolerates a splinter — with inflammation, not acceptance."</small> The roster divides, unofficially but consistently, into four kinds: **loyalists** who quote the regulations, **cynics** who drink on duty and do not care who rules, **local converts** born Waterdhavian who joined for coin and are uncomfortable in the purple, and **rural conscriptees** whose family farms are on the seizure lists they help enforce.
+The fort is garrisoned by heavy and light armored knights and an occasional War Wizard wearing mithril pauldrons and breastplate, the famous [War Wizards](/organizations/war-wizards/) of Cormyr. General Varkus rules the Sword Coast as governor from its battlements, with the Colonel as his second; on the night of the breakout the fort was undermanned, with large detachments in the field levying grain and suppressing dockworker riots. <small>(DM notes)</small>
 
-One private is writing a letter home: *"They've taken our cattle again. Three farms this tenday. Corporal Belk says it's lawful requisition. I don't know what to tell you except that I'm sorry I can't send more coin."* Another keeps a seditious broadside under his mattress — *"The Ballad of the Violet General — who taxed the grain and burned the inn and called it all 'imperial discipline'"* — printed on ap Dyksterhaus' press, complete with the printer's mark. The civilian cook resents the occupation; the civilian surgeon does not want bloodshed; the officers drink Dalelands wine while the troops eat thin stew and hardtack, and the difference is visible at a glance.
-
-## What the paperwork says
-
-The fort's documents run from garrison administration into political intelligence. Grain requisition tallies from three farmsteads. Merchant tax arrears annotated *"Dyksterhaus affiliate — handle with discretion."* A Tiffany House guest list marked up in the Governor's own hand: *"Lady Vellacourt — sympathetic. Lord Marnivon — undecided. Dowager Ilvastarr — needs convincing."* A shipment ledger: powder in forty casks, two hundred ballista heads, reinforced timbers, all arriving by Ostara. And on the Colonel's desk, a letter draft:
-
-> When Roe abdicates — and he will — Waterdeep must already be aligned. The old houses understand this. The merchants will be made to understand.
-
-Under a loose flagstone in the inner storage, wrapped in oiled cloth, someone has hidden a single sheet in an unknown hand: *"Old houses favour peace. Varkus favours power. Dyksterhaus favours coin. The one who favours all three wins Waterdeep."*
+The Governor has proclaimed the **March of the Free West** and courts the ancient families whose spellbooks predate the Empire he commands the armies of.
 
 ## The prisoners
 
-**[Lenore](/people/lenore/)** lies in the infirmary, manacle-marks fading on her wrists. **[BattleBeast](/people/battlebeast/)** kneels chained in the pens beside the owlbear, under an order to be displayed in the square at second bell. **[Maverick](/people/maverick/)** is upstairs, and the sounds of his interrogation carry down the stairwell — the General's measured voice asking questions, long silences, the scrape of a chair. **[Shadowhigh](/people/shadowhigh/)** is in irons in the dungeon, checked at 2200 hours — *"Alive. Uncooperative."* — and scheduled to hang at dawn. A transfer order for her was drawn up, sealed, then broken and discarded. Shadowhigh stays.
+**[BattleBeast](/people/battlebeast/)** was put in the stables' animal cage, chained to an anchor in the corner opposite a wounded owlbear chained by its leg, and the guards said both were to be culled at dawn along with the other executions. **[Maverick](/people/maverick/)** was taken up to the upper bastion and questioned there by [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/), then by General Varkus with Phillip Klaxon and Griddy Champagne. **[Lenore](/people/lenore/)** woke healed in the infirmary, nude under a white sheet and handcuffed to a gurney beside an inert biomechanical sarcophagus with arcane markings. **[Shadowhigh](/people/shadowhigh/)** was chained to the wall of a dark, barren cell in the dungeon, where a pile of partly incinerated bones lay with a singed spellbook. In a nearby cell **[Barold Bonds](/people/barold-bonds/)** was chained and condemned for a totally unrelated crime.
 
 ## The night of the breakout
 
-The stable's torches burn a magical yellow — the War Wizards who occupy the upper bastion will not allow unsafe lanterns near the animals. BattleBeast tore off his chains at the second attempt and, with the wounded owlbear, lifted the cage door off its hinges, killed two guards and went through the back wall of the stable toward the parade ground. Nicollo, having forged the General's signature off a stolen execution order in the kitchen, was pushed aside by Colonel Angus in the command centre; Sir Loin fell to BattleBeast in the kitchen doorway; Angus himself was brought down by prisoner and owlbear together. Lenore, healed in a locked ward beside an inert biomechanical sarcophagus, picked her cuffs and blinded the nurse with his own acid. Heyu, invisible, shattered a guard on a tower stair with a frosty ray. The survivors went down the trash pit — a huge pit with no bottom in sight — through a portal Lenore opened far below, and landed on smooth stone in a pitch-black subterranean maze lined with rusty shields and obscene graffiti. Nicollo stayed on the lip and surrendered.
+Heyu and Nicollo got in past the gatehouse in the rain, and in the kitchen Nicollo forged the General's signature from an execution order he had pulled down behind the stables. BattleBeast tore off his bindings at the second attempt and, with the owlbear, lifted the cage door off its hinges, killed two guards and went through the back wall of the stable toward the parade ground, and the fort was thrown into uproar. In the command center Colonel Angus pushed the disguised Nicollo aside and sent troops out; Sir Loin fell to BattleBeast in the kitchen doorway, and Angus was brought down by BattleBeast and the owlbear together. Both officers were killed, and were revived after. Lenore picked her cuffs, splashed a jar of acid into the nurse's face and killed him with a shocking grasp. Heyu, invisible, shattered a guard on a tower stair with a frosty ray.
 
-In the dungeon that night, Barold, trying to rage and break his bindings, let loose an inexplicable magic that filled his cell with moss, flowers and beautiful mushrooms, and he was miserable.
+Lenore, BattleBeast and Heyu went down the trash pit through a portal Lenore opened far below, and landed on smooth stone in a pitch-black subterranean maze lined with rusty shields and obscene graffiti. Nicollo stayed on the lip and gave himself up, then betrayed the party to Varkus. The party were captured, except Heyu, Lenore, BattleBeast and [Rodriel](/people/rodriel/).
 
-At dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground — torn apart by wand blasts from the battlements when they tried to break free — before the garrison, the War Wizard detachment, General Varkus on a white steed, and a revived Angus and Sir Loin. Their bodies fell into the dark beneath the fort, onto the dome sheltering the three who got out.
+At dawn Maverick, Shadowhigh and Barold were hanged on the parade ground, torn apart by wand blasts from the battlements when they tried to break free, before the garrison, the War Wizard detachment, General Varkus on a white steed, and a revived Angus and Sir Loin. Their bodies were thrown down the hole and fell onto the dome sheltering the three who had got out.
 
-The trash pit "happened to be the 'Yawning Portal' of Undermountain Fame." In the dungeon the party were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)."
-
-The prisoners had been brought in after [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/), and upstairs Maverick was first questioned by the paladin [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/). The trash pit opens into [Undermountain](/places/undermountain/). The full account of the night is at [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/).
-
-## Command loyalties
-
-Colonel Angus keeps a private journal in cipher, recording his doubts about whether the Governor can hold the city at all if the farmlands fully revolt. The Governor has proclaimed the **March of the Free West** and courts the ancient families whose spellbooks predate the Empire he commands the armies of.
+The trash pit "happened to be the 'Yawning Portal' of Undermountain Fame." In the dungeon the party were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." <small>(DM notes)</small>
 
 ## Places of Interest
 
-**The Gatehouse:** two lanterns, two bored soldiers, and the execution notices nailed where you cannot miss them.\
-**The Parade Grounds:** drill lines, ballista stores, and — stacked with carpenter's care against the inner wall — fresh-cut uprights, a crossbeam and a hinged trapdoor.\
-**The Pens:** stables reinforced with iron bands, chains at shoulder height, and a young owlbear from the High Forest sedated in its water.\
-**The Inner Courtyard:** the well, the rainwater and sand barrels, and the gallows timber with tomorrow's date chalked on the crossbeam.\
-**The Arcade Hall:** the colonnade, and the graffiti cut deep between two columns — *"Waterdeep for Waterdeep"* — which somebody has tried and failed to scrape away.\
-**Command and Dispatch:** the nerve centre. A heavy oak table under maps of Waterdeep pinned flat and marked with coloured tacks — red for threats, blue for assets, violet for the Governor's personal interests. A pegboard of keys. Mounted by the door like a weapon in its scabbard, the brass dispatch horn, large enough to be heard across the fort and halfway into the street.\
-**The Infirmary:** lavender and healing salve, white sheets on a cord dividing the bays, and beyond the archway a warded chamber that suppresses scrying, silences sound and speeds healing.\
-**The Stairs Up:** locked, warded and barred; the boundary of the night.\
-**The Trash Postern:** wet cobblestones through the gaps in the door, and a private who knows the sewer routes and will negotiate.
+**The Gatehouse:** sturdy, with heavily armed infantry guards waving carriages through.\
+**The Parade Ground:** in front of the main entrance; the gallows where the prisoners were hanged at dawn.\
+**The Stables:** a bright, dry barn lit by magical yellow torches, with a metal-barred animal cage on the back wall.\
+**The Kitchen:** behind the stable, reached by a door that swings open and closed.\
+**The Command Center:** down the hall from the kitchen, where Colonel Angus and Sir Loin stood that night.\
+**The Infirmary:** a barred, locked ward with an inert biomechanical sarcophagus, beside an unsecured north room.\
+**The Upper Bastion:** the War Wizards' floor, with the office where Maverick was questioned.\
+**The Dungeon:** dark, barren cells down the stair across the hall from the tower door.\
+**The Trash Pit:** a huge pit with no bottom in sight, its edges littered with trash; the Yawning Portal into Undermountain.

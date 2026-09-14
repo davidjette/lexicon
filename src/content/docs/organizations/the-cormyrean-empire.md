@@ -64,12 +64,6 @@ It reaches from its capital in the heartland to [Waterdeep](/places/waterdeep/) 
 
 Immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. From then on the Emperor was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> In occupied Waterdeep a barker on an apple cart calls for the Unmasked Lord to evict the Purple Dragons and win independence from the Zanzibar, and General Varkus has delivered an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
 
-## COLONEL ANGUS, ON THE EMPIRE
-
-> Zanzibar united an empire. He did not ask permission. He did not hold a vote. He imposed order and called it peace. That is what peace is. That is all it has ever been.
-
-On the city it garrisons: *"Noise is for cities without discipline. This city has forgotten what discipline means. We will remind them."* On its politics: *"Dyksterhaus mistakes taxation for tyranny because tyranny is a word that sells."*
-
 ## THE PRESENT SUCCESSION
 
 The Empire is currently held by [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), formerly Prince William Wenly Zarusson, one month on the [Glass Throne](/items/the-glass-throne/) after the death of his father [Zanzibar the Penitent](/people/zanzibar-the-penitent/). The late emperor — "a holy and pious man to all but those who knew him" — gave over nearly all political and military control to his armies, his rivals and his laconic son.
@@ -85,4 +79,4 @@ Four factions have risen against the Melancholy Emperor.
 
 ## HOW IT PAYS FOR ITSELF
 
-Grain and cattle, taken by levy. The farmlands beyond Waterdeep are in open revolt over imperial seizures; farmers burn the levy wagons; the garrison eats while the countryside starves. The Unmasked Lord ap Dyksterhaus rails against overtaxation from the merchant side and refused to travel to the capital to pay tribute, and his press prints the sedition the garrison reads in its bunks.
+Grain and cattle, taken by levy. The farmlands beyond Waterdeep are in open revolt over imperial seizures; farmers burn the levy wagons; the garrison eats while the countryside starves. The Unmasked Lord ap Dyksterhaus rails against overtaxation from the merchant side and refused to travel to the capital to pay tribute.

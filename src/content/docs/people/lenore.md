@@ -1,12 +1,11 @@
 ---
 title: Lenore Bishop
-description: The human artificer who woke handcuffed in the Fort Maximillien infirmary, picked her cuffs, and led the survivors down the trash pit.
+description: The human artificer who woke healed in the Fort Maximillien infirmary, killed a nurse, freed BattleBeast and escaped down the trash hole.
 tags:
   - Lenore
   - Fort Maximillien
   - Waterdeep
   - Purple Dragons
-  - Surgeon Alaire
   - Tiffany House
   - Ard Farkle's
   - BattleBeast
@@ -52,14 +51,15 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - C:/dev/fort-max/fort-maximillien.md
   - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
   - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
   - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2978, IMG_2979, IMG_3039, IMG_3041, IMG_3042, IMG_3053, IMG_3064, IMG_3067, IMG_3078, IMG_3081, IMG_3082, IMG_3083, IMG_3084, IMG_3090, IMG_3093, IMG_3100, IMG_3105)
   - sources/dave/2026-09-13-dead-mans-hand-company.md
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+  - sources/dave/2026-09-14-fort-maximillien-as-played.md
   - CANON.md 5ac
+  - CANON.md 5af
 published: '2026-09-10'
 wa:
   slug: lenore-person
@@ -72,13 +72,11 @@ gallery:
 
 **Human · Artificer, planar philosopher · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**
 
-Lenore Bishop is a human artificer, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), after a night in which her party foiled a heist at Tiffany House and was caught up in a shooting at Ard Farkle's that burned carts and killed horses. Shot, poisoned and stabbed in that night's fighting, she woke handcuffed in the fort infirmary, picked the cuffs, killed the nurse who came back for her, and escaped down a bottomless trash pit with Heyu and [BattleBeast](/people/battlebeast/). She is in the dungeon-maze beneath the fort.
+Lenore Bishop is a human artificer, one of the party taken by the [Purple Dragons](/organizations/the-purple-dragons/) to [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/) after the fighting at [the Grub + Grog](/places/the-grub-and-grog/). Shot, poisoned and stabbed that night, she woke healed and nude in the fort infirmary while BattleBeast was breaking out, killed a nurse, escaped, freed [BattleBeast](/people/battlebeast/), and ran with him and Heyu for the huge trash hole outside the castle, which led into [Undermountain](/places/undermountain/). She, Heyu, BattleBeast and Rodriel were the four of the team who got away.
 
 Before Waterdeep she was sent by [the Company](/organizations/nimbus-corp/) to recover an artifact from a village, where she was jailed and the village burned. Killed, like each of her companions, by [Jeremiah](/people/jeremiah/), she woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), and travelled with the party to [Saltmarsh](/places/saltmarsh/) on Oerth and on to Waterdeep, where she carried the **RUIN** card stolen at [Tiffany House](/places/tiffany-house/).
 
 ## Physical description
-
-She is described once in the fort infirmary, lying on her side on a cot in the second bay behind a white sheet hung from a cord, breathing shallowly, **her wrists marked with the fading indentations of manacles recently removed**. She is weak but conscious, and she turns her head when the door opens.
 
 The character roster describes a human steampunk artificer with brass goggles, flying boots and a long rifle slung on her back, clever and practical, in layered utility gear, her hair cut in an ultra-modern black bob with bangs. She wears nerdy glasses. Her steel defender, **Johnny**, was a hulking, silent metal automaton until an armored thug bashed it to bits outside Ard Farkle's. <small>(Character roster; the Grub & Grog narrative.)</small>
 
@@ -120,25 +118,17 @@ Holhertz led a rival adventuring party that had recently failed to recover the c
 
 Later that night the party attacked [Rex Bedsheets](/people/rex-bedsheets/) at his Rexium sales meeting in [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/). Lenore ran alongside Rex's fleeing carriage and was about to shoot him through the carriage window when Maverick's hypnotic pattern stunned her, along with Rex's horses and his footman. Guards converged on her and Maverick and bound them.
 
-## Where she is held
+## Fort Maximillien
 
-The infirmary is the cleanest room in the fort: dried lavender and healing salve, sheets dividing the space into bays, and beyond an archway a warded chamber that suppresses scrying, silences sound within its boundary, and speeds healing. She shares the room with a Purple Dragon officer sedated on laudanum after taking glass at Tiffany House, and with **Surgeon Alaire** — a civilian, hired for her skill, who stays because leaving would mean abandoning her patients.
+She had been shot from behind outside the inn by a rogue who mistook her for someone named "Lexi", poisoned and left dying, revived by Maverick, and then stabbed deeply in the torso by a dominated Nicollo. A Purple Dragon with a holy symbol laid hands on her in the mud, and she was carried to the fort on a stretcher. The **RUIN** card she had been carrying, the thing Nicollo came to Waterdeep for, was seized with her.
 
-## What the surgeon says
+While the rest of the team snuck into the fort, BattleBeast broke out loudly and caused a huge ruckus, and the party killed almost everyone, including Sir Loin, who was raised afterwards. Lenore woke nude under a white sheet, healed, handcuffed to a gurney beside an inert biomechanical sarcophagus covered in arcane markings; a medic told her to lie still. She picked the cuffs, waited beside the door in an open hospital gown, splashed the returning nurse with his own jar of acid and fried him with a shocking grasp. Beyond a side door she found a huge bottomless pit littered with trash. She ran into Nicollo and Heyu, teleported BattleBeast out of his fight with [Colonel Angus](/people/colonel-angus/), opened a portal far down inside the pit, and jumped with Heyu and BattleBeast. Nicollo stayed on the lip and turned himself in, and upstairs he turned on the party; the **RUIN** card ended the night in Griddy Champagne's keeping. The rest of the team were captured; only Lenore, Heyu, BattleBeast and [Rodriel](/people/rodriel/) got away.
 
-> She needs rest, not rescue. But I suppose she'll get neither if she stays.
-
-And, to Lenore herself: *"You're not like the others they bring through here. That's your curse, I think."* What Alaire means by that is not recorded.
-
-## What happened
-
-She had been shot from behind outside the inn by a rogue who mistook her for someone named "Lexi", poisoned and left dying, revived by Maverick, and then stabbed deeply in the torso by a dominated Nicollo. A Purple Dragon with a holy symbol laid hands on her in the mud, and she was carried to the fort on a stretcher. She woke nude under a white sheet, healed, handcuffed to a gurney beside an inert biomechanical sarcophagus covered in arcane markings; a medic told her to lie still. She picked the cuffs, waited beside the door in an open hospital gown, splashed the returning nurse with his own jar of acid and fried him with a shocking grasp. Beyond a side door she found a huge bottomless pit littered with trash. She ran into Nicollo and Heyu, teleported BattleBeast out of his fight with Colonel Angus, opened a portal far down inside the pit, and jumped with Heyu and BattleBeast — Nicollo stayed on the lip and turned himself in. The **RUIN** card she had been carrying, the thing Nicollo came to Waterdeep for, was seized with her and ended the night in Griddy Champagne's keeping upstairs.
-
-In the dark of the maze beneath the fort she fitted on the slinky black leather armour Heyu had saved from a defeated foe, still in her glasses and black bob, when three bodies fell onto the dome above her: [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and Barold, hanged at dawn.
+In the dark beneath the fort she fitted on the slinky black leather armour Heyu had saved from a defeated foe, still in her glasses and black bob, when three bodies fell onto the dome above her: [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and [Barold](/people/barold-bonds/), hanged at dawn and thrown down the hole.
 
 ## Undermountain
 
-The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." In return the party helped Tripp take revenge for the death of his own adventuring party.
+The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character, and with him the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
 ## Right now
 

@@ -8,10 +8,8 @@ tags:
 - Fort Maximillien
 - Waterdeep
 - Purple Dragons
-- Colonel Angus
 - gallows
 - execution at dawn
-- Ostara
 - Lenore
 - BattleBeast
 - Maverick
@@ -48,13 +46,14 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/fort-max/fort-maximillien.md
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2982, IMG_2983, IMG_2996, IMG_2997, IMG_3039, IMG_3041, IMG_3093, IMG_3100, IMG_3105)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- sources/dave/2026-09-14-fort-maximillien-as-played.md
 - CANON.md 5ac
+- CANON.md 5af
 published: '2026-09-10'
 wa:
   slug: shadowhigh-person
@@ -63,13 +62,13 @@ wa:
 
 **Species unknown · Cowgirl ranger · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**
 
-**Shadowhigh** was a cowgirl ranger, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and the only one under sentence of death. She was arrested at Ard Farkle's after shooting peasants that Rex Bedsheets had dominated, was stunned by a war wizard and dragged in chains to the fort, and was held below its lower halls under a War Wizard and two jailers. At dawn she was led blindfolded, gagged and bound to the gallows on the parade ground with [Maverick](/people/maverick/) and Barold Bonds; her small dragon flew in to burn the ropes and was shot out of the air, and all three prisoners were stunned and torn to shreds by blasts from wanded wizards on the battlements. Her body fell through the trash hole beneath the fort, which is the Yawning Portal into Undermountain, and Tripp Sandhill raised her there.
+**Shadowhigh** was a cowgirl ranger, one of the party taken by the [Purple Dragons](/organizations/the-purple-dragons/) to [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and condemned to death. She was arrested at Ard Farkle's after shooting peasants that Rex Bedsheets had dominated, was stunned by a war wizard and dragged in chains to the fort, and was chained in a dungeon cell. At dawn the next day she was hanged with [Maverick](/people/maverick/) and [Barold Bonds](/people/barold-bonds/); her small dragon flew in to burn the ropes and was shot out of the air, and all three prisoners were stunned and torn to shreds by blasts from wanded wizards on the battlements. They were thrown down the huge trash hole beneath the fort, which is the Yawning Portal into [Undermountain](/places/undermountain/), and [Tripp Sandhill](/people/tripp-sandhill/) resurrected her there.
 
 Before Waterdeep she had played poker against a high roller in Honnalee and been stabbed by a drifter with a glowing sword. Killed, like each of her companions, by [Jeremiah](/people/jeremiah/), she woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), and came with the party to Waterdeep.
 
 ## Physical description
 
-A cowgirl ranger in a leather duster and wide-brim hat, revolver and whip, with a small draconic pet perched on her shoulder or nearby; "sardonic, relaxed but deadly." <small>(Character roster. Her species is not recorded.)</small> In the fort's module she is present entirely as paperwork, timber, and the sound of chains shifting at intervals in a room below a locked door — and one guard's line: *"Something is down there. A woman they're going to hang."*
+A cowgirl ranger in a leather duster and wide-brim hat, revolver and whip, with a small draconic pet perched on her shoulder or nearby; "sardonic, relaxed but deadly." <small>(Character roster. Her species is not recorded.)</small>
 
 ## The high roller
 
@@ -89,42 +88,18 @@ The party came to Waterdeep and, at [Tiffany House](/places/tiffany-house/), sto
 
 That night, in the party's carriage at [the Grub + Grog](/places/the-grub-and-grog/), Shadowhigh and [Maverick](/people/maverick/) played good cop and bad cop with their two hostages until both agreed to climb into a bag of holding, despite the limited air. With [BattleBeast](/people/battlebeast/) and Heyu she found a trail of blood leading from one of the inn rooms; inside were a bloodied dagger and an open letter bearing the seal of the Arcaneum, which said only: "WE KNOW". The party then attacked [Rex Bedsheets](/people/rex-bedsheets/) at his Rexium sales meeting, in [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/).
 
-## The sentence
-
-A notice is nailed to the gatehouse crossbeam, at the height where everyone entering the fort has to duck under it:
-
-> By order of the Marshall — Execution at dawn. The prisoner Shadowhigh. Attendance mandatory for all off-duty personnel.
-
-The scaffold is already being built. Fresh-cut uprights, a crossbeam and a hinged trapdoor are stacked with carpenter's care along the parade-ground wall, more timber is piled in the inner courtyard, and one beam has tomorrow's date chalked on it in a carpenter's hand: *"Dawn. Test the drop."* The whole garrison walks past it.
-
-## In the dungeon
-
-She is held below the lower halls, past a door whose lock and hinges are both recently oiled — a door that is opened and closed regularly. Down there with her are one War Wizard and two jailers. Listening at the door gives no words, only cadence: the War Wizard "reading aloud from a document," and Shadowhigh's chains shifting at intervals. The watch logbook records the last check on her in five words.
-
-> 2200 — prisoner Shadowhigh checked. Alive. Uncooperative.
-
-## The transfer that was cancelled
-
-A broken wax seal lies discarded on the floor of the back hall. Reassembled, it reads: *"By authority of the Marshall — transfer order — prisoner Shadowhigh — disposition pending."* The seal was broken and the order thrown away, which means the transfer was cancelled. Shadowhigh stays. Nothing in the record says who cancelled it or why.
-
-## What the execution is for
-
-[Colonel Angus](/people/colonel-angus/) states the purpose without disguise, and it has nothing to do with the prisoner:
-
-> Shadowhigh hangs at dawn. The scaffold will be clean. The crowd will be orderly. There will be no speeches. There will be no martyrs.
-
-Not every soldier agrees. A sergeant in the pens, a veteran, thinks executions are bad for morale; a private in the courtyard stares at the gallows wood and talks about his uncle's farm on the seizure list; the garrison surgeon says what several of them are thinking: *"Ostara is meant for renewal. Planting season. New beginnings. Instead we're building a gallows and calling it justice."*
-
-## What happened
+## Fort Maximillien
 
 At Ard Farkle's she ran in and shot the peasants Rex Bedsheets had dominated, which shocked the guards into arresting her; she threw down her guns and tried to explain herself, was stunned by a war wizard and dragged in chains to a carriage. Chained to a wall in a dark, barren cell, she snapped her fingers and summoned her small dragon, which searched the dungeon and brought back pages of a singed spellbook from a pile of half-incinerated bones — a book she could make neither heads nor tails of. She tried to pick her handcuffs with a shard of bone. In a nearby cell sat Barold Bonds, condemned for a wholly unrelated crime; later [Maverick](/people/maverick/) was thrown in beside her, and they traded stories and regrets.
 
-At dawn she, Maverick and Barold were led blindfolded, gagged and bound to the gallows on the parade ground, before the garrison, the War Wizard detachment and General Varkus on a white steed. Her dragon flew in to burn the ropes and was cut down by a crossbow bolt. Maverick misty-stepped clear and Barold broke his bindings; all three were stunned and torn to shreds by blasts from wanded wizards on the battlements. Their bodies fell into the dark below the fort, onto the dome sheltering [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and Heyu.
+That night BattleBeast broke out loudly and caused a huge ruckus while the rest of the team snuck into the fort; the party killed almost everyone, including Sir Loin, who was raised afterwards. [Lenore](/people/lenore/), Heyu, [BattleBeast](/people/battlebeast/) and [Rodriel](/people/rodriel/) got away, the rest of the team were captured, and Nicollo turned on the party.
+
+At dawn the next day she, Maverick and Barold were led blindfolded, gagged and bound to the gallows on the parade ground, before the garrison, the War Wizard detachment and General Varkus on a white steed. Her dragon flew in to burn the ropes and was cut down by a crossbow bolt. Maverick misty-stepped clear and Barold broke his bindings; all three were stunned and torn to shreds by blasts from wanded wizards on the battlements. Their bodies were thrown down the trash hole and fell into the dark below the fort, onto the dome sheltering Lenore, BattleBeast and Heyu.
 
 ## Raised in Undermountain
 
-The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." In return the party helped Tripp take revenge for the death of his own adventuring party.
+The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character; he resurrected Shadowhigh, Maverick and Barold, and the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
 ## Right now
 
-Alive, and deep in Undermountain with Heyu, Lenore, [Maverick](/people/maverick/), [BattleBeast](/people/battlebeast/), Rodriel and Barold. The party have cleared the first level and descended to the second, the Arcane Chambers. The module's hook at the fort had read *"scheduled for hanging at dawn unless events change."*
+Alive, and deep in Undermountain with Heyu, Lenore, [Maverick](/people/maverick/), [BattleBeast](/people/battlebeast/), Rodriel and Barold. The party have cleared the first level and descended to the second, the Arcane Chambers.

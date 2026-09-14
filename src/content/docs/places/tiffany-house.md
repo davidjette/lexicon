@@ -76,7 +76,7 @@ Griddy Champagne is housecarl at Tiffany House. <small>(DM notes)</small> The pa
 
 ## Under the occupation
 
-General Varkus raised funds at Tiffany House among Waterdeep's old families. His papers at [Fort Maximillien](/places/fort-maximillien/) include a note, *"Tiffany House — donors confirmed. Purpose: goodwill and continuity fund. Governor attending in person,"* and a guest list for the next gathering annotated in his hand: *"Lady Vellacourt — sympathetic. Lord Marnivon — undecided. Dowager Ilvastarr — needs convincing."* One line of garrison talk runs: *"Tiffany House welcomed Varkus. That's new. That's dangerous."*
+General Varkus raised funds at Tiffany House among Waterdeep's old families.
 
 On the day the party came, mounted knights in violet plumed helmets stood outside, and Varkus delivered an incendiary speech against the Zanzibar, the Emperor of Cormyr and Faerun. <small>(DM notes, session record)</small>
 

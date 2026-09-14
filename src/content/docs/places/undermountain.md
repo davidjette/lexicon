@@ -37,6 +37,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/items/O3255.md
 - sources/dave/2026-09-13-dead-mans-hand-company.md
+- sources/dave/2026-09-14-fort-maximillien-as-played.md
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5ab
@@ -51,13 +52,13 @@ published: '2026-09-14'
 
 **Also known as:** the Yawning Portal (its entrance at Fort Maximillien)
 
-**Undermountain** is a dungeon far below [Waterdeep](/places/waterdeep/), reached from [Fort Maximillien](/places/fort-maximillien/) through a giant trash hole which "happened to be the 'Yawning Portal' of Undermountain Fame." The Company's file on [O-3255](/items/o-3255/) holds that tomes and items stolen from the library of the House of Wonder at the direction of Halaster Blackcloak found their way into it, and on its second level Halaster has assembled relics of [Motherstone](/places/motherstone/) as an exhibit. On the night of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and [Heyu](/people/heyu/) escaped into it through a portal in the hole; at dawn the bodies of the hanged [Maverick](/people/maverick/), [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) fell after them, and [Tripp Sandhill](/people/tripp-sandhill/) raised the fallen. With [Rodriel](/people/rodriel/), the party worked through Level 1 and descended into Level 2, the Arcane Chambers.
+**Undermountain** is a dungeon far below [Waterdeep](/places/waterdeep/), reached from [Fort Maximillien](/places/fort-maximillien/) through a giant trash hole which "happened to be the 'Yawning Portal' of Undermountain Fame." The Company's file on [O-3255](/items/o-3255/) holds that tomes and items stolen from the library of the House of Wonder at the direction of Halaster Blackcloak found their way into it, and on its second level Halaster has assembled relics of [Motherstone](/places/motherstone/) as an exhibit. On the night of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and [Heyu](/people/heyu/) escaped into it through a portal in the hole; at dawn the bodies of the hanged [Maverick](/people/maverick/), [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) fell after them, and [Tripp Sandhill](/people/tripp-sandhill/), a player character played by Patrick, raised the fallen. With [Rodriel](/people/rodriel/), who had also escaped capture at the fort, the party worked through Level 1 and descended into Level 2, the Arcane Chambers.
 
 ## The Yawning Portal
 
 Inside Fort Maximillien a door leads outside to a huge pit in the ground, "with no bottom in sight, its edges littered with TRASH." Among Waterdeep's places of interest, Fort Max is listed with its portal: "TRASH HOLE." <small>(DM notes, IMG_3009)</small>
 
-During the breakout Lenore used a spell to open a portal, horizontal and far below the ground inside the pit, and she, BattleBeast and Heyu jumped in. [Nicollo](/people/nicollo/) stood on the edge, then turned back and gave himself up to the guards. The three hit the hard smooth stone of an underground dungeon in pitch black, in a room with only two exits and old rusty shields lining the walls, covered in obscene graffiti. They had no idea what was in the darkness.
+During the breakout Lenore used a spell to open a portal, horizontal and far below the ground inside the pit, and she, BattleBeast and Heyu jumped in. [Nicollo](/people/nicollo/) stood on the edge, then turned back and gave himself up to the guards. The three hit the hard smooth stone of an underground dungeon in pitch black, in a room with only two exits and old rusty shields lining the walls, covered in obscene graffiti. They had no idea what was in the darkness. Of the party, only Heyu, Lenore, BattleBeast and Rodriel were not captured at the fort.
 
 After dawn they crouched under a translucent sheltering dome that Heyu raised from her wand, while Lenore fitted on some slinky black leather armor Heyu had saved from a previous defeated foe. Then three bodies fell onto the dome: Shadowhigh, Maverick and Barold. Half of the party had landed in the hole dead, betrayed by Nicollo, "their erstwhile companion." They were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." <small>(DM notes, IMG_3100)</small>
 

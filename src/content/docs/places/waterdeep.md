@@ -11,7 +11,6 @@ tags:
 - Council of Lords
 - Masked Lords
 - Open Lord
-- Roe
 - Jacob Southampton
 - Imperator
 - Wainwright St. Cloud
@@ -37,7 +36,7 @@ fields:
   population: Unknown
   demonym: Waterdhavian
   status: Occupied; garrisoned by the Western Vanguard
-  includedLocations: The Hall of Justice; the Fainting Queen; Coin Alley; the Sea Ward; the Trades Ward; the Dock Ward; the Harbor; Mount Waterdeep and the Observatory; the Noble Quarter; Tiffany House; Ard Farkle's; Fort Maximillien
+  includedLocations: The Hall of Justice; the Fainting Queen; Coin Alley; the Sea Ward; the Trades Ward; the Dock Ward; the Harbor; Mount Waterdeep and the Observatory; Tiffany House; Ard Farkle's; Fort Maximillien
 sources:
 - C:/dev/fort-max/fort-maximillien.md
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
@@ -84,17 +83,13 @@ Underneath the ceremony the city was already being sold twice. St. Cloud's chang
 
 ## Under occupation
 
-Five hundred years on, Waterdeep is the western capital of somebody else's empire. It answers to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor, and to the urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) garrisoned inside its walls. The city's own institutions have not been abolished so much as suspended: the Open Lord's office still exists, and the Empire's own officers openly speculate about the day **Roe** abdicates.
+Five hundred years on, Waterdeep is the western capital of somebody else's empire. It answers to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor, and to the urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) garrisoned inside its walls.
 
 The **Unmasked Lord ap Dyksterhaus** flaunts imperial custom, rails against overtaxation and champions the merchants; he refused to travel to the imperial capital and pay tribute at all. The **Old Houses** despise the merchant class but love imperial peace, trade routes and access, and Varkus dines at Tiffany House. Beyond the walls the **farmlands** revolt over grain and cattle seizures and burn the levy wagons: the garrison eats while the countryside starves.
 
-The graffiti cut deep between two columns of the fort's arcade is old — not this month's work, not last year's — and someone has tried and failed to scrape it out:
-
-> Waterdeep for Waterdeep.
-
 On an apple cart a barker calls for the Unmasked Lord to evict the Purple Dragons and win independence from **the Zanzibar**. <small>(DM notes)</small> The title is the Emperor's: immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun, and from then on the Emperor was called the Zanzibar. <small>(Dave, 2026-09-14)</small> Visitors arriving by portal come out in a foyer high in Blackstaff Tower, where security issues each of them a **VISA**, a 24-hour voucher to be in the city; to protect the Mage's Guild, all extraplanar entities within the walls are monitored. <small>(DM notes)</small>
 
-**Right now:** Ostara approaches, the festival season is thinner than usual, and a scaffold is going up in a garrison courtyard.
+**Right now:** Ostara approaches, and the festival season is thinner than usual.
 
 ## Places of Interest
 
@@ -103,11 +98,10 @@ On an apple cart a barker calls for the Unmasked Lord to evict the Purple Dragon
 **Coin Alley:** near the Naval Harbor; a well there holds a portal.\
 **The Sea Ward:** the northwest, where the Von Lampes kept a villa that was hard to penetrate and harder to leave.\
 **The Trades Ward:** site of a local Company charter house.\
-**The Dock Ward and the Harbor:** the working city, and five centuries later the districts an occupying colonel maps in coloured tacks.\
+**The Dock Ward and the Harbor:** the working city.\
 **Mount Waterdeep and the Observatory:** taken before dawn in the assault of the Age of the Infanta.\
-**The Noble Quarter:** the old houses, whose spellbooks are older than Cormyr.\
-**[Tiffany House](/places/tiffany-house/):** the elite gathering-house of the occupation era, where the Imperial Governor courts old money over silk tablecloths.\
-**[Ard Farkle's](/places/the-grub-and-grog/):** Ard Farkle's Grub & Grog, a three-storey stone-and-timber inn taking up a small block of the Sea Ward, kept by the kenku Ard Farkle, with a Harper hideaway on its dark top floor called the Crow's Nest; the garrison's account is that a convict fired into bystanders there, carts burned and horses died.\
+**[Tiffany House](/places/tiffany-house/):** the elite gathering-house of the occupation era, where the Imperial Governor courts old money.\
+**[Ard Farkle's](/places/the-grub-and-grog/):** Ard Farkle's Grub & Grog, a three-storey stone-and-timber inn taking up a small block of the Sea Ward, kept by the kenku Ard Farkle, with a Harper hideaway on its dark top floor called the Crow's Nest.\
 **Fort Maximillien:** the [garrison](/places/fort-maximillien/) built on the ruins of the tavern where Asmodeus fell; the session record sets it on a fortified island in a small deep lake.\
 **Blackstaff Tower:** a portal opens into a well-appointed foyer high in the Tower, where several mages look up quizzically at new arrivals. <small>(DM notes)</small>\
 **The Lady's Circle:** a large plaza with a large teleportation circle where plane tickets can be used. <small>(DM notes)</small>

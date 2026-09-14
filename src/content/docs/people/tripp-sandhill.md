@@ -1,11 +1,13 @@
 ---
 title: Tripp Sandhill
-description: The Undermountain adventurer who raised the party's hanged dead for a hefty price, with a golden lancet and ledger bound in a pact with Mammon.
+description: Patrick's player character, an Undermountain adventurer who raised the party's hanged dead for a hefty price with a golden lancet and ledger.
 type: person
 kind: people
 tags:
 - Tripp Sandhill
 - Tripp
+- Patrick
+- player character
 - Undermountain
 - Golden Lancet and Ledger
 - Mammon
@@ -34,13 +36,14 @@ fields:
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3097, IMG_3098, IMG_3100, IMG_3105, IMG_3107)
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+- sources/dave/2026-09-14-fort-maximillien-as-played.md
 - CANON.md 5ac
 published: '2026-09-14'
 ---
 
-**Species unknown · Adventurer · Pact with Mammon · [Undermountain](/places/undermountain/), Level 1 · Alive**
+**Species unknown · Player character (Patrick) · Adventurer · Pact with Mammon · [Undermountain](/places/undermountain/), Level 1 · Alive**
 
-**Tripp Sandhill** is an adventurer the party met on the first level of [Undermountain](/places/undermountain/), after the death of his own party. When the escapees of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/) came down the trash hole, and the hanged bodies of [Maverick](/people/maverick/), [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) fell after them, Tripp raised the fallen "(for a hefty prize)" and brought many of them back to life. He warned the party about the "vampires", the Undertakers, and the party helped him get revenge for the death of his party. He carries the Golden Lancet and Ledger, in which a payment is recorded to cast a spell, under a pact with Mammon.
+**Tripp Sandhill** is a player character, played by Patrick, an adventurer the party met on the first level of [Undermountain](/places/undermountain/), after the death of his own party. When the escapees of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/) came down the trash hole, and the hanged bodies of [Maverick](/people/maverick/), [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) fell after them, Tripp raised the fallen "(for a hefty prize)" and brought many of them back to life. He warned the party about the "vampires", the Undertakers, and the party helped him get revenge for the death of his party. He carries the Golden Lancet and Ledger, in which a payment is recorded to cast a spell, under a pact with Mammon.
 
 ## Undermountain
 
