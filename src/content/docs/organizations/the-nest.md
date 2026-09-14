@@ -1,21 +1,23 @@
 ---
 title: The Nest
 description: Sharn's Upper City rebel stronghold, built inside the abandoned lightning rail Station 5 beneath Skyroot Park.
+tags:
+  - The Nest
+  - Nest
+  - NEST
+  - Jessica Grimpledink
+  - Skyroot Park
+  - Station 5
+  - Sub-Transit
+  - Sharn
+  - Rebellion
+  - Upper City
+  - Fulcrum
+  - EBT-7
+image:
+  src: /images/uploads/the-nest-mu0ql5p4.webp
 type: organization
 kind: organizations
-tags:
-- The Nest
-- Nest
-- NEST
-- Jessica Grimpledink
-- Skyroot Park
-- Station 5
-- Sub-Transit
-- Sharn
-- Rebellion
-- Upper City
-- Fulcrum
-- EBT-7
 icon: fa-tree-city
 fields:
   type: Rebel cell, intelligence network
@@ -25,12 +27,12 @@ fields:
   status: Active
   allies: Fulcrum, R.U.S.T., the Silver Flame, the Underhive, the Hundreds
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/home.txt
-- worldanvil/images/rebel-factions/01.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/home.txt
+  - worldanvil/images/rebel-factions/01.jpg
 published: '2026-09-10'
 wa:
   slug: the-nest-organization
