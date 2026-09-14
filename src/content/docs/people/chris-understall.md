@@ -1,21 +1,23 @@
 ---
 title: Chris Understall
 description: The Cogborn elder who held a trapped community together inside the Pit until Berenstain, Snodgrass and Doppler dug through to them.
+tags:
+  - Chris Understall
+  - Understall
+  - Cogborn
+  - The Cogs
+  - The Pit
+  - R.U.S.T.
+  - Preacher
+  - The Spine
+  - Gorgonhorn
+  - Sharn
+  - Undercity
+  - Snodgrass
+image:
+  src: /images/uploads/chris-understall-mu0uhgh7.webp
 type: person
 kind: people
-tags:
-- Chris Understall
-- Understall
-- Cogborn
-- The Cogs
-- The Pit
-- R.U.S.T.
-- Preacher
-- The Spine
-- Gorgonhorn
-- Sharn
-- Undercity
-- Snodgrass
 icon: fa-people-group
 fields:
   rpgAlignment: Unknown
@@ -32,9 +34,9 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/home.txt
 published: '2026-09-10'
 wa:
   slug: chris-understall-person
