@@ -126,3 +126,5 @@ Sedda is at rest in the shrine, second on a death warrant signed KAIUS III. Her 
 **Holdings:** The rebellion cache at the bottom of the chasm beneath the Korranberg Foundry - months of purloined supplies, now old trash.
 
 **Items:** The rock she rang the Thirteenth Casting with. Nobody has recorded what became of it.
+
+![Seeda - Gemma - Eric and Dario.png](/images/uploads/seeda-gemma-eric-and-dario-mu0y1uc7.webp)
