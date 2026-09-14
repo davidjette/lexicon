@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 16 — The City Watches Back
 description: Blair interrogates an Iron Veil prisoner, the trio collect the EBT-7 broadcast node, and the Children of Ember tear Gemma's chip out.
+tags:
+  - Sharn Ep 16
+  - The City Watches Back
+  - EBT-7
+  - Hallorn d'Lyrandar
+  - Children of Ember
+  - Blair
+  - Brice Peters
+  - Iron Veil
+  - Crona's Wall
+  - Hopper's
+  - Richard Blaze
+  - Conduit Exchange
+image:
+  src: /images/uploads/sharn-ep-16-the-city-watches-back-mu0s0cq3.webp
 sidebar:
   order: 216
 type: report
 kind: sessions
-tags:
-- Sharn Ep 16
-- The City Watches Back
-- EBT-7
-- Hallorn d'Lyrandar
-- Children of Ember
-- Blair
-- Brice Peters
-- Iron Veil
-- Crona's Wall
-- Hopper's
-- Richard Blaze
-- Conduit Exchange
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-16-E28094-the-city-watches-back-report
