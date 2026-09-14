@@ -1,31 +1,33 @@
 ---
 title: Maverick
 description: The drow bard prince interrogated upstairs at Fort Maximillien, betrayed by Nicollo, and hanged at dawn beside Shadowhigh.
+tags:
+  - Maverick
+  - Fort Maximillien
+  - Waterdeep
+  - Purple Dragons
+  - Peterbilt Varkus
+  - interrogation
+  - War Wizards
+  - Lenore
+  - BattleBeast
+  - Shadowhigh
+  - Tiffany House
+  - Infantaverse
+  - Maverick Asswell
+  - drow
+  - bard
+  - Sir Merriam Wordsworker
+  - Griddy Champagne
+  - Phillip Klaxon
+  - RUIN
+  - Dead Man's Hand
+  - Nicollo
+  - Barold Bonds
+image:
+  src: /images/uploads/maverick-mu0m6wun.webp
 type: person
 kind: people
-tags:
-- Maverick
-- Fort Maximillien
-- Waterdeep
-- Purple Dragons
-- Peterbilt Varkus
-- interrogation
-- War Wizards
-- Lenore
-- BattleBeast
-- Shadowhigh
-- Tiffany House
-- Infantaverse
-- Maverick Asswell
-- drow
-- bard
-- Sir Merriam Wordsworker
-- Griddy Champagne
-- Phillip Klaxon
-- RUIN
-- Dead Man's Hand
-- Nicollo
-- Barold Bonds
 icon: fa-comment-slash
 fields:
   rpgAlignment: Unknown
@@ -42,10 +44,10 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/fort-max/fort-maximillien.md
-- Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
-- Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
-- Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+  - C:/dev/fort-max/fort-maximillien.md
+  - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
+  - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+  - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 published: '2026-09-10'
 wa:
   slug: maverick-person
