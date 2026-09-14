@@ -1,19 +1,21 @@
 ---
 title: GoldSky Neighborhood
 description: 'Sharn''s wealthiest district on the upper terraces: mansions, the Sharn Theater, the Black Dove hospital, the City Library and the Grand GoldSky Tower.'
+tags:
+  - GoldSky Neighborhood
+  - GoldSky
+  - Sharn
+  - Upper City
+  - Grand GoldSky Tower
+  - Sharn Theater
+  - Sharn Library
+  - Black Dove Hospital
+  - Iron Veil
+  - Grand Sharn Hotel
+image:
+  src: /images/uploads/goldsky-neighborhood-mu0o7tfz.webp
 type: settlement
 kind: places
-tags:
-- GoldSky Neighborhood
-- GoldSky
-- Sharn
-- Upper City
-- Grand GoldSky Tower
-- Sharn Theater
-- Sharn Library
-- Black Dove Hospital
-- Iron Veil
-- Grand Sharn Hotel
 icon: fa-gem
 fields:
   type: City district
@@ -26,9 +28,9 @@ fields:
   defenses: GoldSky Iron Veil Precinct Station and constant patrol presence
   owner: Largely private and Imperial-connected
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: goldsky-neighborhood-location
