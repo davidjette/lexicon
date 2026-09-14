@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 8 — R.U.S.T.
 description: Dario wins at Breakers Pit and an invitation from Queen B; beneath a pawn shop the trio meet Preacher and R.U.S.T.
+tags:
+  - Sharn Ep 8
+  - R.U.S.T.
+  - Preacher
+  - Queen B
+  - Blair
+  - Underhive
+  - Cogborn
+  - Breakers Pit
+  - Drain Snakes
+  - Gorgonhorn
+  - Misty Kross
+  - Renn Tal
+image:
+  src: /images/uploads/sharn-ep-8-r-u-s-t-mu0rnfgi.webp
 sidebar:
   order: 208
 type: report
 kind: sessions
-tags:
-- Sharn Ep 8
-- R.U.S.T.
-- Preacher
-- Queen B
-- Blair
-- Underhive
-- Cogborn
-- Breakers Pit
-- Drain Snakes
-- Gorgonhorn
-- Misty Kross
-- Renn Tal
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-8-E28094-rust-report
