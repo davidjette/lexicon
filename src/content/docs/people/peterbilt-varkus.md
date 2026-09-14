@@ -46,6 +46,8 @@ sources:
 - C:/dev/fort-max/fort-maximillien.md
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3075)
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 published: '2026-09-10'
 wa:
   slug: general-peterbilt-varkus-person
@@ -92,9 +94,15 @@ He works upstairs and out of sight. Interrogations are conducted personally — 
 
 Varkus is one of four risings against Zanzibar William the Melancholy, and the only one commanding a real army. His officers already speak of the succession as arithmetic — *"And if Roe doesn't abdicate?" "Then the question will be asked differently."* — and his colonel's desk draft is blunter still: *"When Roe abdicates — and he will — Waterdeep must already be aligned."*
 
+## Tiffany House
+
+On the day of [the Tiffany House heist](/history/the-tiffany-house-heist/), the party saw Varkus deliver an incendiary speech against the Zanzibar, the Emperor of Cormyr and Faerun, at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
+
 ## Fort Maximillien
 
 <small>From the session record.</small> He questioned [Maverick](/people/maverick/) himself, entering the upstairs office behind the prisoner with the furious minor noble **Phillip Klaxon** and the livid, restrained **Griddy Champagne**, and demanded to know whether the party worked for his enemies. When a guard reported the breakout below he gave Maverick a condemning look; when Nicollo was brought in and betrayed his companions, Varkus set down his sentence — hanging, at dawn. At dawn he presided, on a white steed in violet plume and cloak, over the execution of Maverick, [Shadowhigh](/people/shadowhigh/) and Barold Bonds. The execution order Nicollo tore from the stable wall was signed *"GENERAL PETERBILT VARKUS, HIGH COMMANDER, WESTERN VANGUARD."*
+
+Before he came in, Maverick had been questioned by [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/), a paladin and Purple Dragon Knight of the garrison, and when the fort erupted below Varkus ordered Merriam out to investigate. The full account is at [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/).
 
 ## Right now
 
@@ -110,4 +118,4 @@ Below him a scaffold has been used, a heist at Tiffany House has been foiled by 
 **Volothamp Geddarm** — made him famous. Unrecorded.\
 **Phillip Klaxon** — a middle-aged minor noble at his side in the interrogation, furious. Active.\
 **Griddy Champagne** — in black leather armour and duster under a demure scarf; took the RUIN card from the desk. Active.\
-**Sir Merriam Wordsworker** — the blond, bearded paladin who took custody of Maverick and questioned him first. Active.
+**[Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/)** — the blond, bearded paladin who took custody of Maverick and questioned him first. Active.

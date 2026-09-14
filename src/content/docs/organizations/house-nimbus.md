@@ -25,6 +25,8 @@ sources:
 - CANON.md 5l (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
+- sources/dave/2026-09-13-dead-mans-hand-company.md
+- CANON.md 5ab
 published: '2026-09-10'
 wa:
   slug: house-nimbus-organization
@@ -56,6 +58,10 @@ In Arc IV, [Revan](/people/revan-darkcember/), [Roland](/people/roland-deschain/
 ## The clan
 
 [Sable, the Immortal Cyclone](/people/sable-the-cyclone/), "of the Nimbus Clan," is Revan's sister. **Nimbus Form** is the name of her white Ally Action.
+
+## Nimbus Corp
+
+[Nimbus Corp](/organizations/nimbus-corp/), "the Company" of [Dead Man's Hand](/lore/dead-mans-hand/), descends from House Nimbus. Revan won the St. Cloud Trading Company at auction with a secret bid, and renaming the Company from St. Cloud to Nimbus kept the "cloud" branding built up over centuries while putting his own stamp on it.
 
 ## Maps
 

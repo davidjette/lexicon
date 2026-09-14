@@ -44,6 +44,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
 - CANON.md 5x (the DM's account, 2026-09-10)
+- sources/dave/2026-09-13-dead-mans-hand-company.md
+- CANON.md 5ab
 published: '2026-09-10'
 wa:
   slug: sword-coast-trading-company-organization
@@ -83,3 +85,5 @@ St. Cloud's design is the **Apotheosis of Man** — marrying the Mammon Machine 
 ## PRESENT DISPOSITION
 
 After two Battles of Motherstone and the breaking of its Sigil hub — the Lady of Pain destroyed the Old Man's House in a blaze of radioactive starlight — the Company is "crippled and scattered, leaving assets and employees up for grabs." Its products, however, are still in people's homes, and they are still wired to the Obliviator's leylines.
+
+When St. Cloud fled the "present" into the past, he left behind the St. Cloud Trading Company, the true Company in Sigil, born from the Sword Coast Trading Company on Faerun. Its assets went up for auction, where [Revan Darkcember](/people/revan-darkcember/) secretly outbid the party's [Temple Holdings LLC](/lore/temple-holdings-llc/), and the winner, [Nimbus Corp](/organizations/nimbus-corp/), was "the Company" from then on.

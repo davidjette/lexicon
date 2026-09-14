@@ -24,6 +24,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3075, IMG_3078)
 published: '2026-09-10'
 wa:
   slug: lords-of-waterdeep-organization
@@ -56,6 +57,10 @@ Their card type is **Land Creature — Masked Nobles**.
 **White — Siege Attack: "Deal 10d10 bludgeoning split among up to 5 creatures within 120 ft."**
 
 **Black — City of Splendor: "Create five Griffon mounts for allies within 120 ft. The griffons are permanent."**
+
+## Dead Man's Hand
+
+Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), the owner of [Tiffany House](/places/tiffany-house/) traditionally sits on the Lords' Council. [Phillip Klaxon](/people/phillip-klaxon/) planned to place his son [Darius](/people/darius-klaxon/) on the Council by ruining Beef Wellington; after [the Tiffany House heist](/history/the-tiffany-house-heist/) Wellington was ruined and Darius had agreed to his place in Waterdeep, with four days until the Lords' meeting. <small>(DM notes)</small>
 
 ## Status
 

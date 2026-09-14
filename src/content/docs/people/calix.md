@@ -34,6 +34,8 @@ sources:
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
 - CANON.md 5x (the DM's account, 2026-09-10)
+- Desktop/D&D/Dead Mans Hand/items/O3255.md
+- CANON.md 5ab
 published: '2026-09-10'
 wa:
   slug: calix-person
@@ -89,6 +91,10 @@ He sits on the Council of Forgetting, and in Arc VII the party's allies gather "
 **White — Raise Dead:** "Cast Raise Dead as an action."
 
 **Black — Time Warp:** "Cast Haste. This effect does not require concentration and is permanent."
+
+## The Ars Calixia
+
+Calix's magnum opus and autobiography is the *Ars Calixia*, penned with a magic quill circa 100 DR. Its volumes XIII to XVI, a gold and adamantine-bound tome whose contents are an [oblivia](/lore/the-oblivia/), are the Company's [O-3255](/items/o-3255/), lost into [Undermountain](/places/undermountain/); in the time of [Dead Man's Hand](/lore/dead-mans-hand/) the sister volumes I to XII and XVII to XXV reside in the personal library of the Company's Chairman of the Board. <small>(O-3255)</small>
 
 ## Status
 

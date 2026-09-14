@@ -40,7 +40,7 @@ published: '2026-09-14'
 
 **Orcish priest · Factol of the Faceless · [The Sororia](/organizations/the-sororia/) · [Our Lady of Mysteries](/places/our-lady-of-mysteries/), [Sigil](/places/sigil/) · Alive**
 
-Brother Montegue is the Factol of the Faceless, leader of [the Sororia](/organizations/the-sororia/), the Sorority of Order, at its cathedral of [Our Lady of Mysteries](/places/our-lady-of-mysteries/) in [Sigil](/places/sigil/). When [Heyu](/people/heyu/) came to the cathedral, the Faceless surrounded her and brought her before him. He questioned her, told her she bore the mark of the Mother of Mysteries and was meant to hold the Cards, charged her to find them, and gave her a cube that hides its contents from magic.
+Brother Montegue is the Factol of the Faceless, leader of [the Sororia](/organizations/the-sororia/), the Sorority of Order, at its cathedral of [Our Lady of Mysteries](/places/our-lady-of-mysteries/) in [Sigil](/places/sigil/). When [Heyu](/people/heyu/) came to the cathedral, the Faceless surrounded her and brought her before him. He questioned her, told her she bore the mark of the Mother of Mysteries and was meant to hold the Cards, charged her to find them, and gave her a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box made to hold the Deck of Many Things.
 
 ## Description
 
@@ -68,7 +68,7 @@ Heyu was welcomed to an altar bearing a fractal mosaic and a silver candle. Afte
 
 <small>(Brother Montegue, DM notes)</small>
 
-He gives Heyu a cube that hides its contents from magic and locks tight. It is drawn as a cube within a cube. <small>(DM notes)</small>
+He gives Heyu a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box meant to store the Deck of Many Things, which hides its contents from magic. It is drawn as a cube within a cube. <small>(DM notes)</small>
 
 **Contacts & Relations:**
 - [Heyu](/people/heyu/): brought before him at Our Lady of Mysteries.

@@ -64,6 +64,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
 - worldanvil/CANON.md
 - CANON.md 5x (the DM's account, 2026-09-10)
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3108, IMG_3109)
 published: '2026-09-10'
 wa:
   slug: motherstone-location
@@ -146,3 +147,9 @@ Before that return the party spent ten years below, in the slow time of Calix's 
 At the Second Battle of Motherstone the Lexicon left the mountain for good. The machine was shut down from its own console: the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) reached the Seat of the Lexicon at the underground focal point of the city's largest crystal, possessed [Roland Deschain](/people/roland-deschain/), and used his own artificer's knowledge of the machine to scram it — which lowered the great **Mythal** the Lexicon powered and managed. [Wainwright St. Cloud](/people/wainwright-st-cloud/) then jumped his ships into the city's airspace. The city won the battle and the Lexicon was severely damaged. Roland and [Brother Magnus](/people/brother-magnus/) then connected the [Anachron](/items/the-anachron/) and duplicated the Lexicon's code into it, moving the Lexicon out of the mountain and into the Anachron. From then on the Lexicon travelled with the party aboard the Arielle, and Motherstone ran without it: trash "piles up before it can be physically removed and burned, instead of fed into the Deepmaker for recycling as it was before," and "conflict is breaking out between ethnic and class groups." <small>(The session plan for the approach has St. Cloud "rushing to get to the Lexicon's control room to overtake the Obliviator" (Arc III Part XII, Lost Children). The state of the city afterwards: Arc IV Part II. The Lexicon's later life, as the Anachron and then the Chronicle, is at [The Anachron](/items/the-anachron/).)</small>
 
 **Right now:** Motherstone is reclaimed and long ruined at once — a capital whose mind is dark, whose two peoples still blame each other for a crime neither can name, and beneath which the Crack still runs down to a sleeping god.
+
+## Motherstone Hall
+
+Five hundred years later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), rooms 23 to 26 on Level 2 of [Undermountain](/places/undermountain/), far below Waterdeep, are Motherstone Hall <small>(DM notes)</small>:
+
+> Segments of Motherstone architecture, bas relief, tombs, statuary, and relics stolen by Halaster over the centuries, and assembled as a kind of exhibit and "model" for understanding and admiring the ancient city. Built before any obliviation was lifted on Brightmantle, so constructed with profound mystery around the origin of the city.

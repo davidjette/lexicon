@@ -61,7 +61,7 @@ At Fort Maximillien she wore "a reserved but nonetheless smoldering black leathe
 
 Griddy took the RUIN card from Bumpkin Countrymile, a gambler losing his family's moonstone fortune: he lost it to a thief, "a beautiful seductress who robbed him". <small>(DM notes)</small> See [Bumpkin Countrymile](/people/bumpkin-countrymile/).
 
-Phillip Klaxon has dealt with Griddy for RUIN, which he intends to use on a Masked Lord. His son Darius finds the pact made through Griddy unbearable, and is seeking the card to divest himself of it. Griddy has obtained RUIN for both father and son, and intends to play them off each other. <small>(DM notes)</small>
+Phillip Klaxon has dealt with Griddy for RUIN, which he intends to use on a Masked Lord. His son Darius finds the pact with Asmodeus made through Griddy unbearable, and is seeking the card to divest himself of it. Griddy has obtained RUIN for both father and son, and intends to play them off each other. <small>(DM notes)</small>
 
 ## Tiffany House
 

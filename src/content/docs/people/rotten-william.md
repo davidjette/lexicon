@@ -85,7 +85,7 @@ In the Sanitizing Room a portal to a plague dimension had opened in the drain an
 
 <small>(DM notes, play log)</small>
 
-The party killed Gorelach and Gunt, saved Craig, closed the portal for an hour and killed Rotten William, and by closing the portal cured Cageblight. [Barold](/people/barold-bonds/) was killed in the fight and reincarnated as a tiefling. <small>(DM notes, play log)</small> Among the spoils were a Wand of Secrets, an Epee of Temperance, various potions and a ring of invisibility. <small>(DM notes, play log)</small>
+The party killed Gorelach and Gunt, saved Craig and killed Rotten William, and by closing the portal cured Cageblight entirely. [Barold](/people/barold-bonds/) was killed in the fight and reincarnated as a tiefling. <small>(DM notes, play log)</small> Among the spoils were a Wand of Secrets, an Epee of Temperance, various potions and a ring of invisibility. <small>(DM notes, play log)</small>
 
 **Arms:** A wand of ice spikes, a dagger, and a ring of invisibility with one use. <small>(DM notes)</small>
 

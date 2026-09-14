@@ -32,6 +32,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part IV.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VII - Suzail.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3081)
 published: '2026-09-10'
 wa:
   slug: the-lusmundii-organization
@@ -60,3 +61,7 @@ Untari also serves as the assessor of claimed Infantas. When a prince of Cormyr 
 
 **The Gildergreen:** the sacred tree; the cult's heart, and the child's nursery.\
 **Temple Holdings, Harloch:** the bought Old Temple and the community around it.
+
+## The Tomb of St. Magnus
+
+Five hundred years later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), [the Tomb of St. Magnus](/places/the-tomb-of-st-magnus/), reached by a hidden entrance on a Moonshae isle, is protected by the Order of St. Magnus, the Harmonium Seraphim, by traps and magic, and by the Lusmundii, "Priests of Motherstone". Treasures believed to be hidden in the tomb include a helm and armor, and perhaps a [Palantir](/items/the-palantir/). <small>(DM notes)</small>

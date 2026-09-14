@@ -46,6 +46,9 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
 - Desktop/D&D/Character Sheets/DJ/CS MAXIMILIAN.pdf
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075)
+- CANON.md 5ac
 published: '2026-09-10'
 wa:
   slug: zanzibar-person
@@ -105,6 +108,10 @@ Zanzibar stands between a girl who does not want to have been saved and a cabal 
 **Holdings:** Unknown.
 
 **Items:** **Glassbane**, the sea elves' shard of Perfect moonstone, held by birthright and plunder — the Punisean crown recovered it in a war, and he is of the line it belongs to. He earns it a second time fighting beside the water elves and Prince Atlas against the Drow in the Winking Depths, and in the founding of Atlantis. No other equipment is recorded for him.
+
+## Emperor of Faerun
+
+Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and with his forces in the old imperial capital of [Waterdeep](/places/waterdeep/), declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. From then on the Emperor of [the Cormyrean Empire](/organizations/the-cormyrean-empire/) was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), a barker in Waterdeep calls for independence from the Zanzibar, and [General Peterbilt Varkus](/people/peterbilt-varkus/) delivers an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
 
 ## Social
 

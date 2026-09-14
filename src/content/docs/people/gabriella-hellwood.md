@@ -70,7 +70,7 @@ Hellwood once held the **FATES** card. She gave it long before, as plunder, to a
 
 When news came that Dolores's temple had been attacked, Hellwood came to kill whoever had done it, and found it was a trap for her. <small>(DM notes)</small> Saltmarsh's authorities suspected her of the desecration and want her dead. Investigation in the temple found no gunpowder and no evidence that it was pirates. <small>(DM notes)</small>
 
-Aboard the Blackfish, the one who directs the party to Keisha tells it differently: "He was crew here." "Feng won it from Gooch in a game of pink Monty." <small>(DM notes)</small>
+Aboard the Blackfish, the one who directs the party to Keisha says of Feng: "He was crew here." "Feng won it from Gooch in a game of pink Monty." <small>(DM notes)</small>
 
 ## Below the waves
 

@@ -68,7 +68,7 @@ The party assaulted Rotten William's lair in the Spillway, killing everyone exce
 
 They cornered Rotten William in the **Sanitizing Room**. A portal to a plague dimension had opened in the drain, poisoning the water system. Craig had attempted to finish his master's mission to close it, and in doing so had angered a plague demon. Rotten William ordered his men to stop Craig; the party ambushed and killed them, and then the demon. Rotten William tried to appeal to the demon to save him, but it held no mercy for him.
 
-The party killed Gorelach and Gunt, saved Craig, closed the portal for one hour, and killed Rotten William. [Barold](/people/barold-bonds/) was killed and reincarnated as a tiefling. By closing the portal, they cured Cageblight.
+The party killed Gorelach and Gunt, saved Craig, and killed Rotten William. [Barold](/people/barold-bonds/) was killed and reincarnated as a tiefling. By closing the portal, they cured Cageblight.
 
 Among what they found were a Wand of Secrets, an Epee of Temperance, various potions and a Ring of Invisibility. Diana Rhea gave them 2000 gold and poultices, the Gatehouse was opened to them, and the Bleak Cabal became their faction ally.
 

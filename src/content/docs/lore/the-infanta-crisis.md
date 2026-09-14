@@ -34,6 +34,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VII - Suzail.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3066)
 published: '2026-09-10'
 wa:
   slug: the-infanta-crisis-article
@@ -59,3 +60,7 @@ How the archdevil came to be fought in a tavern, and by whom, is not recorded. T
 An empire founded on the claim that its founder's blood is holy, with **Zarus** — god of sentinels, conquest and humanity triumphant — as state patron. A frontier army of crusader-occupiers. An ecclesiastical oversight of arcane study strong enough to strip a princess of her titles for defying it. And a political culture in which the only legitimate way to oppose the throne is to claim you are its truer heir — which is what three of the Empire's four current rebellions do.
 
 The course of the Crisis between the Age of the Infanta and the tavern in Waterdeep is not recorded; five hundred years sit in that gap. <small>See [the Oblivia](/lore/the-oblivia/).</small>
+
+## The Ordo Trium
+
+In [Sigil](/places/sigil/), [the Sororia](/organizations/the-sororia/) teach the Ordo Trium, the Rule of Three, whose wisdom "established itself in the aftermath of the INFANTA CRISIS, 500 years ago, when the 3 FATES ISTUS, ELOISE, and CYPHER pulled the world back from the brink." <small>(DM notes)</small>

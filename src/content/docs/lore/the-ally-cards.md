@@ -180,7 +180,7 @@ The allies were not all in the same place or the same century. The party had bee
 |---|---|---|
 | The deep past | In orbit of Toril, after the Egg struck the moon | The moon was in its path because [Karametra](/people/karametra/) moved it |
 | Antiquity | Flying above the Sea of Swords, raised by the Netherese and the Grey Sage | They stopped the Netherese merging the Egg with the [Mammon Machine](/items/the-mammon-machine/) and flew Netheril's own Obliviator into it instead |
-| The time of the quest | Far below Waterdeep | Past countless mindflayers, and the male Drow rebels who had taken Undermountain and the Winking Depths |
+| The time of the quest | Far below Waterdeep | Past countless mindflayers, and the male Drow rebels who had taken [Undermountain](/places/undermountain/) and the Winking Depths |
 
 ## Where the allies came from
 

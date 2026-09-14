@@ -1,6 +1,6 @@
 ---
 title: Darius Klaxon
-description: Son of Phillip Klaxon and heir of a line that includes Tiffany House, who seeks the RUIN card to escape a pact made through Griddy Champagne.
+description: Son of Phillip Klaxon and heir of a line that includes Tiffany House, who seeks the RUIN card to escape a pact with Asmodeus made through Griddy.
 tags:
   - Darius Klaxon
   - Darius Montevideo
@@ -54,7 +54,7 @@ His full name is Darius Klaxon - Darkcember - Montevideo. Montevideo is part of 
 
 Darius is a shareholder in [the Company](/organizations/nimbus-corp/) and the heir of a line that includes Tiffany House. <small>(DM notes)</small> His father married a Darkcember, and wants Darius to become the Panther and take the Panther Mask. <small>(DM notes)</small>
 
-The pact made through Griddy Champagne is unbearable for him, and he is seeking the card of RUIN to divest himself of it. <small>(DM notes)</small> Griddy has obtained RUIN for both Darius and his father, and intends to play them off each other. <small>(DM notes)</small>
+The pact with Asmodeus made through Griddy Champagne is unbearable for him, and he is seeking the card of RUIN to divest himself of it. <small>(DM notes)</small> Griddy has obtained RUIN for both Darius and his father, and intends to play them off each other. <small>(DM notes)</small>
 
 After the Klaxons, [Maverick](/people/maverick/), a distant descendant of [Revan Darkcember](/people/revan-darkcember/), is heir to Tiffany House.
 

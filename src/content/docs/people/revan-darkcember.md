@@ -22,19 +22,25 @@ fields:
   gender: Male
   ggmtitle: Masked Lord of Waterdeep, "the Panther"
   residence: Waterdeep
-  status: Alive; his soul owned by Asmodeus
+  status: Disappeared about two hundred years after the Ages of the Infanta; his soul owned by Asmodeus
 sources:
 - CANON.md 5g (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part III.txt
+- sources/dave/2026-09-13-dead-mans-hand-company.md
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- sources/dave/2026-09-14-dead-mans-hand-names.md
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2991, IMG_2992, IMG_3075)
+- CANON.md 5ab
+- CANON.md 5ac
 published: '2026-09-10'
 wa:
   slug: revan-darkcember-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
 ---
 
-**Masked Lord of Waterdeep as "the Panther" · Called "The Tempest" in the Company's files · Sable's brother · Alive**
+**Masked Lord of Waterdeep as "the Panther" · Called "The Tempest" in the Company's files · Sable's brother · Disappeared**
 
 *Also known as:* the Panther · The Tempest
 
@@ -69,6 +75,10 @@ When Revan, Roland, Stonecypher, Drefan and Stoth "approach the House of Nimbus,
 ## Sable
 
 [Sable, the Immortal Cyclone](/people/sable-the-cyclone/), of the Nimbus Clan, is his sister. Her Ally Card says four words from her — "…its time to come home…" — "was at one time all that Revan needed to hear before he abandoned any and all to attend to his sister." <small>(Sic on "its".)</small>
+
+## Nimbus Corp
+
+When the assets of St. Cloud's Company went up for auction, Revan bid in secret and beat the party's group bid, and [Temple Holdings LLC](/lore/temple-holdings-llc/) lost to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on. He headed Nimbus Corp until his disappearance, about two hundred years after the Ages of the Infanta. [Maverick](/people/maverick/) of [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages, is his distant descendant. The Klaxon heirs to [Tiffany House](/places/tiffany-house/) carry the Darkcember name: [Phillip Klaxon](/people/phillip-klaxon/) married a Darkcember, and their son is Darius Klaxon - Darkcember - Montevideo, whom his father wants to become the Panther. <small>(DM notes)</small>
 
 ## Status
 

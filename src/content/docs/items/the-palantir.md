@@ -25,6 +25,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part XII  - Lost Children.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
 - CANON.md 5e
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3081)
 published: '2026-09-10'
 wa:
   slug: the-palantir-item
@@ -58,6 +59,10 @@ After the mech left, "the Palantir and the robot it was stuck inside are missing
 [Roland Deschain](/people/roland-deschain/) used a Palantir to contact [Wainwright](/people/wainwright-st-cloud/) and take credit for throwing Carlysle's heart into the [Obliviator](/items/the-obliviator/)'s singularity — **before** he did it, so that neither of them would remember the conversation afterwards.
 
 Wainwright's own Ally Card names the device as his signature move: **Palantir** — "Create a censor up to 500 ft. away, you can take actions as if you are in this location until the end of this turn."
+
+## The Tomb of St. Magnus
+
+Five hundred years later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), the treasures believed to be hidden in [the Tomb of St. Magnus](/places/the-tomb-of-st-magnus/) include a helm and armor, and perhaps a Palantir. The tomb, reached by a hidden entrance on a Moonshae isle, is protected by the Order of St. Magnus, the Harmonium Seraphim, by [the Lusmundii](/organizations/the-lusmundii/), and by traps and magic. <small>(DM notes)</small>
 
 ## Status
 

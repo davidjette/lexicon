@@ -45,6 +45,9 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part IX.txt
 - CANON.md 5c (the DM's account, 2026-09-10)
 - CANON.md 5x (the DM's account, 2026-09-10)
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3066, IMG_3069, IMG_3070)
+- sources/dave/2026-09-13-dead-mans-hand-company.md
+- CANON.md 5ab
 published: '2026-09-10'
 wa:
   slug: the-lexicon-item
@@ -115,6 +118,10 @@ Afterwards Roland and Magnus connected the [Anachron](/items/the-anachron/) and 
 <small>(The session text for Arc III Part XII calls Carlysle-in-robot-form simply "St. Cloud", with no forename. The surviving session file for the Second Battle of Motherstone contains only stat blocks.)</small>
 
 The rest of the entity's life is at [The Anachron](/items/the-anachron/). Millennia later the same being is found again under a volcano as [the Chronicle](/items/the-chronicle/).
+
+## Dead Man's Hand
+
+In [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages of the Infanta, a Lexicon sits at the heart of [the High Courts of Sigil](/places/the-high-courts-of-sigil/): a gargantuan construct, an eldritch machine made from an extraterrestrial crystal of hyperdense selenium, of "ORIGINS UNKNOWN", kept by [the Sororia](/organizations/the-sororia/), whose judgment is final for nearly every faction in the city. <small>(DM notes)</small> The Company, [Nimbus Corp](/organizations/nimbus-corp/), works on understanding and attempting to duplicate it, and behind the scenes the Company, the Church of Cypher and many others are trying to create more Lexicons, copy the original, or avoid domination by it. Nimbus Corp and the Lexicon later came together, and Nimbus became a major arm of the Lexicon's control over the Sovereignty.
 
 ## Starfall
 

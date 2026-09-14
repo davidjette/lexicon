@@ -41,7 +41,7 @@ published: '2026-09-14'
 
 **Half-orc · Pirate of the [Blackfish](/history/the-blackfish-encounter/) · Holder of the FATES card · Murdered by [Jeremiah](/people/jeremiah/) · Dead**
 
-Feng Milosh was a half-orc of Greyhawk, a pirate who had sailed as crew on the *Blackfish*, and the father of [Keisha Milosh](/people/keisha-milosh/). He won a card of [the Deck of Many Things](/items/the-deck-of-many-things/), FATES, from a man called Gooch in a game of pink Monty, and it brought him good luck until he was killed in a home invasion by a handsome man with a glowing sword: [Jeremiah](/people/jeremiah/), who never found the card. His ghost could not move on until the card reached his daughter. The party recovered it, and Keisha let them keep it.
+Feng Milosh was a half-orc of Greyhawk, a pirate who had sailed as crew on the *Blackfish*, and the father of [Keisha Milosh](/people/keisha-milosh/). A card of [the Deck of Many Things](/items/the-deck-of-many-things/), FATES, which [Gabriella Hellwood](/people/gabriella-hellwood/) had long before given away as plunder, came to him as crew of her ship: he won it from a man called Gooch in a game of pink Monty, and it brought him good luck until he was killed in a home invasion by a handsome man with a glowing sword: [Jeremiah](/people/jeremiah/), who never found the card. His ghost could not move on until the card reached his daughter. The party recovered it, and Keisha let them keep it.
 
 ## The card
 

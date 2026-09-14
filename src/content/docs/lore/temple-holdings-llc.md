@@ -31,6 +31,8 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VI.docx
+- sources/dave/2026-09-13-dead-mans-hand-company.md
+- CANON.md 5ab
 published: '2026-09-10'
 wa:
   slug: temple-holdings-llc-article
@@ -83,6 +85,10 @@ What the campaign uncovers follows from that missing piece: a machine that delet
 ## The antagonists
 
 **Adversaries:** [Wainwright St. Cloud](/people/wainwright-st-cloud/) and the Sword Coast Trading Company · [Calix the Betrayer](/people/calix-the-betrayer/) · Queen Maab and the Forsworn · Ayror and the machines of [Motherstone](/places/motherstone/) · Flex Gimble · Mannemarco, the King of Worms · Morgana La Fay and Mordred · the Netherese queens · and behind all of them, **Cthulhu, the [Leviathan](/lore/the-leviathan/)**.
+
+## The auction
+
+When St. Cloud fled the "present" into the past, the assets of the St. Cloud Trading Company, the Company he left behind in [Sigil](/places/sigil/), went up for auction. The party made a group bid, but [Revan Darkcember](/people/revan-darkcember/) bid in secret and beat it: Temple Holdings LLC lost the auction to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on, and the Company of [Dead Man's Hand](/lore/dead-mans-hand/).
 
 ## How it ends
 

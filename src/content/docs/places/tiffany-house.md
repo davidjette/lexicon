@@ -64,7 +64,7 @@ Tiffany House stood five hundred years earlier, in the Ages of the Infanta, when
 
 **Phillip Klaxon**, a minor noble, married a Darkcember, and their son was heir to Tiffany House. Phillip wants his son to become **the Panther**, and dealt with Griddy Champagne for the RUIN card, which he intended to use on a Masked Lord. <small>(DM notes)</small>
 
-**Darius**, who bears the names Klaxon, Darkcember and Montevideo, is a shareholder in the Company and the heir of a line that includes Tiffany House. His father sent [Nicollo](/people/nicollo/) to him as a tutor in leadership and cunning, wanting Darius to take the Panther mask. A pact made through Griddy Champagne "is unbearable for him," and he sought the RUIN card to rid himself of it. <small>(DM notes)</small>
+**Darius**, who bears the names Klaxon, Darkcember and Montevideo, is a shareholder in the Company and the heir of a line that includes Tiffany House. His father sent [Nicollo](/people/nicollo/) to him as a tutor in leadership and cunning, wanting Darius to take the Panther mask. His pact with Asmodeus, made through Griddy Champagne, "is unbearable for him," and he sought the RUIN card to rid himself of it. <small>(DM notes)</small>
 
 **Maverick**, the drow bard prince, is a distant descendant of Revan Darkcember and, after the Klaxons, heir to Tiffany House. <small>(Dave, 2026-09-14)</small>
 

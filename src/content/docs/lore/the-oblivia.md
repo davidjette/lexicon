@@ -42,6 +42,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part IX.txt
 - worldanvil/CANON.md
 - CANON.md 5x (the DM's account, 2026-09-10)
+- Desktop/D&D/Dead Mans Hand/items/O3255.md
 published: '2026-09-10'
 wa:
   slug: the-oblivia-article
@@ -78,3 +79,7 @@ Oblivia was also used as an instrument of conquest. The Netherese destroyed the 
 ## The End of the Infanta
 
 The chronicle ends with the End of the Infanta: the heroes touch the waking god with an Obliviator, and the Wish that unwrites him unwrites them too — "they themselves will be forgotten in all but the vaguest terms. A symbol, image, relic or myth may stay behind." <small>Recovered from the Oblivia.</small>
+
+## O-3255
+
+In [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years later, the Company's file on [O-3255](/items/o-3255/), volumes XIII to XVI of [Calix](/people/calix/)'s *Ars Calixia*, calls its contents a self-keeping secret, and the tome "possibly the longest known written example of an oblivia in existence." Attempts to read or remember the words in its pages always fail, leaving the reader with acute mental stress, inability to remember or speak, and in some cases temporary insanity and psychic trauma. <small>(O-3255)</small>

@@ -39,6 +39,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VII.txt
 - CANON.md 5x (the DM's account, 2026-09-10)
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3109)
+- sources/dave/2026-09-14-dead-mans-hand-names.md
 published: '2026-09-10'
 wa:
   slug: house-gallidann-organization
@@ -76,3 +78,7 @@ A further charge against the house comes from outside the family entirely. The C
 ## PRESENT DISPOSITION
 
 The house is led by **Ilana**, radicalised by the Forsworn and Calix yet still the Infanta's closest ally after Untari, who has led House Gallidan since Drefan disappeared; it is strained between its sworn oath to protect the Infanta forever and an alliance with the Forsworn — and with Calix — that cannot quickly be set aside.
+
+## THE TOMB IN UNDERMOUNTAIN
+
+Five hundred years later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), room 26 of Motherstone Hall, on Level 2 of [Undermountain](/places/undermountain/), is an elven tomb: the tomb of **Daenan Gallidan**, and it is empty except for the STAR card of [the Deck of Many Things](/items/the-deck-of-many-things/). <small>(DM notes)</small>

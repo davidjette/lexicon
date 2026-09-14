@@ -35,6 +35,9 @@ sources:
 - C:/dev/fort-max/fort-maximillien.md
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VII - Suzail.txt
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075)
+- CANON.md 5ac
 published: '2026-09-10'
 wa:
   slug: the-cormyrean-empire-organization
@@ -58,6 +61,8 @@ In the Empire's own telling it was forged five hundred years ago by **Zanzibar t
 It reaches from its capital in the heartland to [Waterdeep](/places/waterdeep/) in the far west, which it holds under military governorship. It is defended by the [Purple Dragons](/organizations/the-purple-dragons/) and the **War Wizards**, and its frontier is held by the **Western Vanguard** — "Cormyr's frontier army — half crusaders, half occupying force — renowned for its discipline and merciless efficiency."
 
 <small>The Temple Holdings records place a **Zanzibar**, a prince of Cormyr — present at Suzail and at Motherstone, whose father the king died of his injuries during the Age of the Infanta with a priest of Zarus at his bedside — roughly five centuries before this Empire's founding, in the same crisis, in the same kingdom that had already declared its imperial ambition. Whether he *is* Zanzibar the Elder, or an ancestor, or a coincidence of names, is not recorded.</small>
+
+Immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. From then on the Emperor was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> In occupied Waterdeep a barker on an apple cart calls for the Unmasked Lord to evict the Purple Dragons and win independence from the Zanzibar, and General Varkus has delivered an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
 
 ## COLONEL ANGUS, ON THE EMPIRE
 

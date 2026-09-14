@@ -41,6 +41,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2997, IMG_3004, IMG_3009, IMG_3012, IMG_3023, IMG_3033, IMG_3048, IMG_3068, IMG_3069, IMG_3072)
 - CANON.md 5d (the DM's account, 2026-09-10)
 - CANON.md 5w (the DM's account, 2026-09-10)
 published: '2026-09-10'
@@ -73,12 +74,22 @@ It is in Sigil that the heroes break the Company's interplanar empire, and it is
 
 Dead Man's Hand begins here, five hundred years after the Ages of the Infanta. Its heroes wake in Sigil's **Mortuary**, tattooed with fate marks and each remembering their own murder. They fight gangsters in the **Hive Ward**, and they cross **Shemeska**, a demon who owns a casino in the city.
 
+In that age worship of gods or devils is taboo in Sigil, and temples never grow too large for fear of the Lady of Pain; the one exception is [the Sororia](/organizations/the-sororia/), the priestly sisterhood of Cypher, who keep [the Lexicon](/items/the-lexicon/) at the heart of the High Courts. <small>(DM notes)</small> [Cageblight](/lore/cageblight/), a plague of the Hive Ward, was cured when the party closed a portal to a plague dimension that had opened in a drain in the Spillway.
+
 ## Places of Interest
 
 **Port Somewhere:** the main port, and the deportation apparatus that has grown over it.\
 **St. Cloud Tower:** the Company's headquarters, dominating the port, "almost all the staff dressed and looking exactly like Wainwright St. Cloud."\
 **The Old Man's House:** behind a portrait in the Tower's executive suite, the millennia-old palace of **Wainwright St. Cloud**, emblazoned throughout with the sigil of **Calix**. Burned to ash by the Lady of Pain.\
-**The Spire:** the impossibly tall formation the city sits upon.
+**The Spire:** the impossibly tall formation the city sits upon.\
+**[The Hive Ward](/places/the-hive-ward/):** honeycomb tenements, corpse markets and gang turf, where the Dead Man's Hand party woke and fought their first battles.\
+**[The Mortuary](/places/the-mortuary/):** the Dustmen's headquarters in the Hive Ward, where the dead arrive down a long chute.\
+**[The Catwalk](/places/the-catwalk/):** Sharegrave's thieves' guild headquarters, strung across the span between two Hive buildings.\
+**[The Grindhouse](/places/the-grindhouse/):** a no-holds-barred fighting arena in the Hive Ward, with a prize fight every tenday.\
+**[Fortune's Wheel](/places/fortunes-wheel/):** Shemeska's casino in the Lady's Ward.\
+**[Our Lady of Mysteries](/places/our-lady-of-mysteries/):** the towering cathedral of the Sororia, in which no god is depicted.\
+**[The High Courts of Sigil](/places/the-high-courts-of-sigil/):** the seat of the city's legal and bureaucratic power, where Justiciars hear most cases and the Lexicon renders final judgment.\
+**The Clerk's Ward:** home to a jump portal provided by the Company, [Nimbus Corp](/organizations/nimbus-corp/). <small>(DM notes)</small>
 
 ## Maps
 

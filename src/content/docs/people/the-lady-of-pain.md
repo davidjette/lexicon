@@ -34,6 +34,7 @@ sources:
 - CANON.md 5aa
 - sources/dave/2026-09-13-fates-june-saharel.md
 - Dave, note of 2026-09-13
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3008, IMG_3010, IMG_3068)
 published: '2026-09-10'
 wa:
   slug: the-lady-of-pain-person
@@ -88,6 +89,10 @@ The Saharel sisters were at [the Egg](/places/the-egg/) twice: once as Marcus an
 **Black — Lord of Despondos:** "Cast Maze without concentration."
 
 <small>Her card type is **Legendary Land Creature — Infanta**. She is one of three cards typed as a Land: the others are the [Lords of Waterdeep](/organizations/lords-of-waterdeep/) and [Nimue](/organizations/nimue-and-the-elves-of-avalon/). In each case the character and the place are the same thing.</small>
+
+## Dead Man's Hand
+
+Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), worship of gods or devils is taboo in Sigil, and temples there never grow too large for fear of her retribution. [The Sororia](/organizations/the-sororia/), the priestly sisterhood of Cypher, are the exception, and the Lady looks the other way regarding their "Towering Cloister". <small>(DM notes)</small> In [the Hive Ward](/places/the-hive-ward/), contacting "the **LADY**" dressed in her garb is a blasphemy that brings the dabus <small>(DM notes)</small>, and there the dabus mazed Severin, the devotee of Vanda.
 
 ## Status
 

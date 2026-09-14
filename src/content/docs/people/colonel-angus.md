@@ -41,6 +41,7 @@ fields:
 sources:
 - C:/dev/fort-max/fort-maximillien.md
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+- Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 published: '2026-09-10'
 wa:
   slug: colonel-angus-person
@@ -90,6 +91,8 @@ On his general's dinner parties: *"The Governor courts old money because old mon
 ## The night of the escape
 
 A disguised Nicollo shoved forged orders under his nose in the command centre demanding to see Varkus; Angus pushed him aside, told him to sit down, and sent troops to investigate the animal screams outside. **Sir Loin**, the white-clad knight beside him, went to the kitchen and fell to a blood-soaked BattleBeast. Angus and a crowd of guards then fought BattleBeast themselves until the owlbear broke through the wall behind them and tore the crowd apart; together the beast and the prisoner brought the Colonel down, grievously wounded. He was revived in time for dawn, and attended the hanging of Shadowhigh, Maverick and Barold Bonds with an angry face.
+
+The prisoners had been taken after [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/), and Maverick was upstairs, where he had been questioned by [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/). Lenore, BattleBeast and Heyu escaped down the fort's trash pit into [Undermountain](/places/undermountain/). The full account is at [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/).
 
 ## Items
 

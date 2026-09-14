@@ -56,7 +56,7 @@ Phillip Klaxon is a minor noble of [Waterdeep](/places/waterdeep/) and the fathe
 
 Klaxon married a Darkcember; their son Darius is heir to Tiffany House. He wants his son to become the Panther and take the Panther Mask, and sent Nicollo to Darius as a tutor for leadership and cunning. He has dealt with Griddy Champagne for RUIN, and intends to use the card on a Masked Lord. <small>(DM notes)</small>
 
-In the power plays of Waterdeep he is a "STRIVING MINOR NOBLE elevating his son to prominence, bound to service of an Archdevil." His ally is Griddy; his enemies include Dyksterhaus; his plot is to ruin Wellington; the threat he faces is failure to satisfy Griddy and the Archdevil; and he desires "prominence, wealth, earthly glory". <small>(DM notes)</small> He is also using [General Varkus](/people/peterbilt-varkus/). <small>(DM notes)</small>
+In the power plays of Waterdeep he is a "STRIVING MINOR NOBLE elevating his son to prominence, bound to service of an Archdevil." His allies are Griddy and Asmodeus; his enemies include Dyksterhaus; his plot is to ruin Wellington; the threat he faces is failure to satisfy Asmodeus and Griddy; and he desires "prominence, wealth, earthly glory". <small>(DM notes)</small> He is also using [General Varkus](/people/peterbilt-varkus/). <small>(DM notes)</small>
 
 ## Tiffany House
 

@@ -87,7 +87,7 @@ The Factol is [Brother Montegue](/people/brother-montegue/), Factol of the Facel
 >
 > <small>Brother Montegue (DM notes)</small>
 
-His gift for Heyu is a cube that hides its contents from magic. <small>(DM notes)</small>
+His gift for Heyu is a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box made to store the Deck of Many Things, which hides its contents from magic. <small>(DM notes)</small>
 
 ## Waterdeep
 

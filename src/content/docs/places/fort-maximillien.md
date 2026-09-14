@@ -39,6 +39,7 @@ sources:
 - C:/dev/fort-max/fort-maximillien.md
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
+- Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 published: '2026-09-10'
 wa:
   slug: fort-maximillien-location
@@ -84,9 +85,13 @@ Under a loose flagstone in the inner storage, wrapped in oiled cloth, someone ha
 
 The stable's torches burn a magical yellow — the War Wizards who occupy the upper bastion will not allow unsafe lanterns near the animals. BattleBeast tore off his chains at the second attempt and, with the wounded owlbear, lifted the cage door off its hinges, killed two guards and went through the back wall of the stable toward the parade ground. Nicollo, having forged the General's signature off a stolen execution order in the kitchen, was pushed aside by Colonel Angus in the command centre; Sir Loin fell to BattleBeast in the kitchen doorway; Angus himself was brought down by prisoner and owlbear together. Lenore, healed in a locked ward beside an inert biomechanical sarcophagus, picked her cuffs and blinded the nurse with his own acid. Heyu, invisible, shattered a guard on a tower stair with a frosty ray. The survivors went down the trash pit — a huge pit with no bottom in sight — through a portal Lenore opened far below, and landed on smooth stone in a pitch-black subterranean maze lined with rusty shields and obscene graffiti. Nicollo stayed on the lip and surrendered.
 
+In the dungeon that night, Barold, trying to rage and break his bindings, let loose an inexplicable magic that filled his cell with moss, flowers and beautiful mushrooms, and he was miserable.
+
 At dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground — torn apart by wand blasts from the battlements when they tried to break free — before the garrison, the War Wizard detachment, General Varkus on a white steed, and a revived Angus and Sir Loin. Their bodies fell into the dark beneath the fort, onto the dome sheltering the three who got out.
 
 The trash pit "happened to be the 'Yawning Portal' of Undermountain Fame." In the dungeon the party were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)."
+
+The prisoners had been brought in after [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/), and upstairs Maverick was first questioned by the paladin [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/). The trash pit opens into [Undermountain](/places/undermountain/). The full account of the night is at [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/).
 
 ## Command loyalties
 

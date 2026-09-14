@@ -30,6 +30,8 @@ fields:
 sources:
 - C:/dev/fort-max/fort-maximillien.md
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt
+- Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+- Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 published: '2026-09-10'
 wa:
   slug: the-purple-dragons-organization
@@ -72,3 +74,7 @@ The roster falls into four kinds.
 ## BROADSIDE — THE BALLAD OF THE VIOLET GENERAL
 
 Printed on the Unmasked Lord ap Dyksterhaus' press and carrying his printer's mark, found under a private's mattress in the lower barracks. It mocks "the Violet General — who taxed the grain and burned the inn and called it all 'imperial discipline'." Possession is floggable. The private hides it when he hears footsteps and takes it back out afterwards.
+
+## THE GRUB + GROG AND THE BREAKOUT
+
+On the rainy night of [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/), Purple Dragon knights arrested Battlebeast, Maverick, Shadowhigh and Lenore and took them to Fort Maximillien, where the paladin and Purple Dragon Knight [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/) questioned Maverick. That night brought [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/): Lenore, BattleBeast and Heyu escaped down the fort's trash pit into [Undermountain](/places/undermountain/), and at dawn the garrison hanged Maverick, Shadowhigh and Barold Bonds.

@@ -46,6 +46,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074)
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 published: '2026-09-10'
 wa:
   slug: waterdeep-location
@@ -90,6 +92,8 @@ The graffiti cut deep between two columns of the fort's arcade is old — not th
 
 > Waterdeep for Waterdeep.
 
+On an apple cart a barker calls for the Unmasked Lord to evict the Purple Dragons and win independence from **the Zanzibar**. <small>(DM notes)</small> The title is the Emperor's: immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun, and from then on the Emperor was called the Zanzibar. <small>(Dave, 2026-09-14)</small> Visitors arriving by portal come out in a foyer high in Blackstaff Tower, where security issues each of them a **VISA**, a 24-hour voucher to be in the city; to protect the Mage's Guild, all extraplanar entities within the walls are monitored. <small>(DM notes)</small>
+
 **Right now:** Ostara approaches, the festival season is thinner than usual, and a scaffold is going up in a garrison courtyard.
 
 ## Places of Interest
@@ -102,6 +106,8 @@ The graffiti cut deep between two columns of the fort's arcade is old — not th
 **The Dock Ward and the Harbor:** the working city, and five centuries later the districts an occupying colonel maps in coloured tacks.\
 **Mount Waterdeep and the Observatory:** taken before dawn in the assault of the Age of the Infanta.\
 **The Noble Quarter:** the old houses, whose spellbooks are older than Cormyr.\
-**Tiffany House:** the elite gathering-house of the occupation era, where the Imperial Governor courts old money over silk tablecloths.\
-**Ard Farkle's:** Ard Farkle's Grub & Grog, a three-storey stone-and-timber inn taking up a small block of the Sea Ward, kept by the kenku Ard Farkle, with a Harper hideaway on its dark top floor called the Crow's Nest; the garrison's account is that a convict fired into bystanders there, carts burned and horses died.\
-**Fort Maximillien:** the [garrison](/places/fort-maximillien/) built on the ruins of the tavern where Asmodeus fell; the session record sets it on a fortified island in a small deep lake.
+**[Tiffany House](/places/tiffany-house/):** the elite gathering-house of the occupation era, where the Imperial Governor courts old money over silk tablecloths.\
+**[Ard Farkle's](/places/the-grub-and-grog/):** Ard Farkle's Grub & Grog, a three-storey stone-and-timber inn taking up a small block of the Sea Ward, kept by the kenku Ard Farkle, with a Harper hideaway on its dark top floor called the Crow's Nest; the garrison's account is that a convict fired into bystanders there, carts burned and horses died.\
+**Fort Maximillien:** the [garrison](/places/fort-maximillien/) built on the ruins of the tavern where Asmodeus fell; the session record sets it on a fortified island in a small deep lake.\
+**Blackstaff Tower:** a portal opens into a well-appointed foyer high in the Tower, where several mages look up quizzically at new arrivals. <small>(DM notes)</small>\
+**The Lady's Circle:** a large plaza with a large teleportation circle where plane tickets can be used. <small>(DM notes)</small>

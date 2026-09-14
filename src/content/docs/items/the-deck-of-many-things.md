@@ -101,4 +101,8 @@ Rex Bedsheets is a debt-bound warlock of a Mummy Lord. While Rex is alive and in
 
 In Motherstone Hall, on Level 2 of [Undermountain](/places/undermountain/), where Halaster assembled segments of Motherstone architecture, tombs, statuary and relics stolen over the centuries, the tomb of Daenan Gallidan of [House Gallidann](/organizations/house-gallidann/) is empty except for Star. <small>(DM notes)</small>
 
+## Keeping the cards
+
+A [Tudyx Cube](/items/the-tudyx-cube/) is a puzzle box intended to store the Deck of Many Things. Brother Montegue of the Sororia gave one to [Heyu](/people/heyu/). <small>(Dave; DM notes)</small>
+
 **Related:** [Fatemarks](/lore/fatemarks/) · [Shemeska](/people/shemeska/) · [Jeremiah](/people/jeremiah/) · [Dead Man's Hand](/lore/dead-mans-hand/)

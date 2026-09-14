@@ -76,7 +76,7 @@ His words to her:
 >
 > <small>— the Factol to Heyu (DM notes)</small>
 
-The Factol is Brother Montegue, "Factol of the Faceless (Sorority of Order)", an "Attractive young Orcish priest (w/BD energy)". <small>(DM notes)</small> He looks like an orcish BD Wong. His magic word is "STONE". He has a gift for Heyu: a cube that hides its contents from magic. <small>(DM notes)</small>
+The Factol is Brother Montegue, "Factol of the Faceless (Sorority of Order)", an "Attractive young Orcish priest (w/BD energy)". <small>(DM notes)</small> He looks like an orcish BD Wong. His magic word is "STONE". He has a gift for Heyu: a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box that hides its contents from magic. <small>(DM notes)</small>
 
 ## Places of Interest
 

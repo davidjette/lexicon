@@ -46,6 +46,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - CANON.md 5x (the DM's account, 2026-09-10)
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3020, IMG_3109)
 published: '2026-09-10'
 wa:
   slug: brightmantle-person
@@ -107,6 +108,10 @@ Word reaches the party while they are aboard ship that "Brightmantle is suddenly
 If the party returns instantly, Magnus gets a final scene in which Brightmantle cannot speak but "smiles approvingly while he gasps for air and transmits a final goodbye to Magnus and then to Elistrae."
 
 At the impromptu funeral, with the armies of the world already assembling for the invasion of Netheril, **Lex and Magnus touch the body before it is entombed.** No attempt to raise him succeeds. He leaves enough of himself inside Magnus in that last act that Magnus regains his full power and can empower the faithful of Brightmantle within a mile. <small>(Arc VII, Leviathan I, "The Throne of Tears.")</small>
+
+## Dead Man's Hand
+
+Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), [Diana Rhea](/people/diana-rhea/), a healer of the Bleak Cabal in [Sigil](/places/sigil/), is a cleric of Brightmantle of the Knowledge domain. <small>(DM notes)</small> In [Undermountain](/places/undermountain/), Motherstone Hall, Halaster's exhibit of Motherstone architecture and relics stolen over the centuries, was "Built before any obliviation was lifted on Brightmantle, so constructed with profound mystery around the origin of the city." <small>(DM notes)</small>
 
 ## Status
 

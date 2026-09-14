@@ -41,6 +41,7 @@ sources:
   - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VIII.txt
   - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
   - worldanvil/CANON.md
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3071)
 published: '2026-09-10'
 wa:
   slug: moonstone-article
@@ -94,3 +95,7 @@ Legend has it that in the time before history began, dwarven miners unearthed "a
 Moonstone holds **mind, memory and time** in matter. A perfect stone can mirror a consciousness, or imprison one. The Lexicon and the moonblades — "cut from a pristine shard of the primordial moon" — are moonstone instruments of thought.
 
 The Motherstone Planetarium states the cosmology behind it: the Moon is "a reflection of the Prime material against the Astral Plane… the Earth and Moon are twins, a body and its shadow." Moonstone is a piece of that shadow, fallen into the body.
+
+## A moonstone fortune
+
+In the time of [Dead Man's Hand](/lore/dead-mans-hand/), [Bumpkin Countrymile](/people/bumpkin-countrymile/) is losing a moonstone fortune at the gambling tables of [Fortune's Wheel](/places/fortunes-wheel/) in Sigil. His family discovered moonstone on their land and used it to travel and buy treasures, among them many magic shoes and garments, and a magic playing card with a picture of a crumbling sword and crown: RUIN. <small>(DM notes)</small>

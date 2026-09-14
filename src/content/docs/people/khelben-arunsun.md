@@ -37,7 +37,7 @@ image:
 
 **Human wizard · Blackstaff of Waterdeep · Missing; ally at the Egg**
 
-**Khelben Arunsun**, the Blackstaff of Waterdeep, is a human wizard and one of the "oldest and wisest of spellcasters and engineers" [Elistrae](/people/elistrae/) petitioned when she set out to repair the broken [Lexicon](/items/the-lexicon/) — alongside the archmagi of the Arcaneum, the Grand Wizard of Thay, the arcanagnomes of Greygarden and the forgemasters of the Sword Mountains. <small>(Arc IV, The Infernal Machines, Part II.)</small> He was last seen at the Yawning Portal the night he talked to [St. Cloud](/people/wainwright-st-cloud/), went into Undermountain, and is held there by the Drow. He appears as an ally at [the Egg](/places/the-egg/).
+**Khelben Arunsun**, the Blackstaff of Waterdeep, is a human wizard and one of the "oldest and wisest of spellcasters and engineers" [Elistrae](/people/elistrae/) petitioned when she set out to repair the broken [Lexicon](/items/the-lexicon/) — alongside the archmagi of the Arcaneum, the Grand Wizard of Thay, the arcanagnomes of Greygarden and the forgemasters of the Sword Mountains. <small>(Arc IV, The Infernal Machines, Part II.)</small> He was last seen at the Yawning Portal the night he talked to [St. Cloud](/people/wainwright-st-cloud/), went into [Undermountain](/places/undermountain/), and is held there by the Drow. He appears as an ally at [the Egg](/places/the-egg/).
 
 ## Disappearance
 

@@ -61,6 +61,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part VI.txt
 - CANON.md (5c)
 - CANON.md 5x (the DM's account, 2026-09-10)
+- sources/dave/2026-09-13-dead-mans-hand-company.md
+- CANON.md 5ab
 published: '2026-09-10'
 wa:
   slug: wainwright-st-cloud-person
@@ -164,6 +166,10 @@ At Starfall he "tinkers with the infernal machine with the Anachron at its cente
 ## Right now
 
 His house is ash, his Company is broken, his changelings are exposed, and he is somewhere ahead of the heroes with a date, a star-chart and a machine. The Lady of Pain has named the company's purpose in five words: *"It's their destiny to destroy the Traveler."*
+
+## The Company he left behind
+
+When St. Cloud fled the "present" into the past, he left behind the St. Cloud Trading Company, the true Company in [Sigil](/places/sigil/), born from the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) on Faerun. The party had ruined his tower and the Lady of Pain had destroyed his home; the Company's assets went up for auction, and to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on.
 
 ## Social
 
