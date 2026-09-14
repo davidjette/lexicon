@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 2 — Storm Above Thronehold
 description: Vex d'Lyrandar shells the Thronehold Summit, Uriel's undead turn on him, and the trio escape aboard a ship of the Hundreds.
+tags:
+  - Korth Ep 2
+  - Storm Above Thronehold
+  - Thronehold
+  - Vex d'Lyrandar
+  - Locke Pierce
+  - The Hundreds
+  - Joseph Roberts
+  - Uriel Qualanthri
+  - Lorian
+  - Tira
+  - Maelis Dorn
+  - Undead
+image:
+  src: /images/uploads/korth-ep-2-storm-above-thronehold-mu0s773d.webp
 sidebar:
   order: 302
 type: report
 kind: sessions
-tags:
-- Korth Ep 2
-- Storm Above Thronehold
-- Thronehold
-- Vex d'Lyrandar
-- Locke Pierce
-- The Hundreds
-- Joseph Roberts
-- Uriel Qualanthri
-- Lorian
-- Tira
-- Maelis Dorn
-- Undead
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-2-E28094-storm-above-thronehold-report
