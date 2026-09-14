@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 1 — Three Years Later
 description: Three years after Sharn, Gemma finds two more bells and a forbidden litany, and the Thronehold Summit collapses into lightning.
+tags:
+  - Korth Ep 1
+  - Three Years Later
+  - Thronehold
+  - Vex d'Lyrandar
+  - Maelis Dorn
+  - Fantanya Nyel
+  - Foxtale
+  - Locke Pierce
+  - Cyrean Red Pomegranate
+  - Chancellor of Sharn
+  - Black Doves
+  - Crona's Wall
+image:
+  src: /images/uploads/korth-ep-1-three-years-later-mu0s5b66.webp
 sidebar:
   order: 301
 type: report
 kind: sessions
-tags:
-- Korth Ep 1
-- Three Years Later
-- Thronehold
-- Vex d'Lyrandar
-- Maelis Dorn
-- Fantanya Nyel
-- Foxtale
-- Locke Pierce
-- Cyrean Red Pomegranate
-- Chancellor of Sharn
-- Black Doves
-- Crona's Wall
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-1-E28094-three-years-later-report
