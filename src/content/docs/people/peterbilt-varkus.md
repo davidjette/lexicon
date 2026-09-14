@@ -47,6 +47,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3075, IMG_3080)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
 published: '2026-09-10'
 wa:
   slug: general-peterbilt-varkus-person
@@ -87,7 +88,7 @@ He believes the Empire's institutions are worth more than the bloodline currentl
 
 ## The rebellion he is
 
-Varkus is one of four risings against Zanzibar William the Melancholy, and the only one commanding a real army.
+Varkus is one of four risings against Zanzibar William the Melancholy, and the only one commanding a real army. His March of the Free West is part of the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
 
 ## Tiffany House
 

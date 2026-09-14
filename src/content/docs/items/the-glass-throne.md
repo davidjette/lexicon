@@ -1,6 +1,6 @@
 ---
 title: The Glass Throne
-description: The seat of the Cormyrean Empire, whose origin no source records and whose current occupant has held it for a month.
+description: The seat of the Cormyrean Empire, held for one month by Zanzibar William the Melancholy as the War of the Five Zanzibars begins.
 type: item
 kind: items
 tags:
@@ -17,6 +17,7 @@ tags:
 - Zythara
 - Modle Negen
 - Peterbilt Varkus
+- War of the Five Zanzibars
 - Infantaverse
 icon: fa-chair
 fields:
@@ -29,13 +30,14 @@ fields:
   status: Occupied for one month
 sources:
 - C:/dev/fort-max/fort-maximillien.md
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
 published: '2026-09-10'
 wa:
   slug: the-glass-throne-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
 ---
 
-The **Glass Throne** is the imperial seat of the [Cormyrean Empire](/organizations/the-cormyrean-empire/), the chair from which the Emperor of Faerûn rules. Its authority rests on the claim that **Zarus** blessed the Zanzibar bloodline to rule forever and that every emperor since **Zanzibar the Elder** descends from holy blood, which is the whole legal theory of the Empire. It is held at present by [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), who has occupied it for one month. The Throne's origin, material, dimensions, maker and the rite of accession are not described in any surviving source.
+The **Glass Throne** is the imperial seat of the [Cormyrean Empire](/organizations/the-cormyrean-empire/), the chair from which the Emperor of Faerûn rules. Its authority rests on the claim that **Zarus** blessed the Zanzibar bloodline to rule forever and that every emperor since [Zanzibar the Elder](/people/zanzibar/) descends from holy blood, which is the whole legal theory of the Empire. It is held at present by [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), who has occupied it for one month. The Throne's origin, material, dimensions, maker and the rite of accession are not described in any surviving source.
 
 ## The bloodline claim
 
@@ -47,6 +49,6 @@ Because the Empire's legal theory is descent rather than possession, all four of
 
 His father [Zanzibar the Penitent](/people/zanzibar-the-penitent/) had given away nearly all political and military control of the Empire before he died, "to his armies, his rivals, and his laconic son." What the son inherited was the Throne without the apparatus that went with it.
 
-## The short reign and the western garrisons
+## The short reign and the war
 
-The one-month occupancy is known to every officer in the western garrisons. [General Varkus](/people/peterbilt-varkus/) has chosen this year to court Waterdeep's old families and to proclaim the March of the Free West, and a corporal on gate duty accounts for the Governor's sudden interest in dinner parties in one line: *"Since the Emperor started looking like he won't last the year."*
+In the Melancholy Emperor's first month on the Throne, [General Varkus](/people/peterbilt-varkus/) has proclaimed the March of the Free West and is courting Waterdeep's old families. That month is the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the war and revolution that is a critical collapse of the continent, before a dark time preceding the ascendance of the Sovereignty.

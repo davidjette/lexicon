@@ -39,6 +39,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__Interlude.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
 - C:/dev/fort-max/fort-maximillien.md
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
 published: '2026-09-10'
 wa:
   slug: the-infanta-article
@@ -75,7 +76,7 @@ The first was **Elistrada** — the goddess **Elistrae**, "an innocent god, who 
 
 As a second Time of Troubles looms, the old gods incarnate again, and every kingdom, cult and corporation in Faerûn races to seize one. The chronicle names many: the **Moon** (Elistrae); **Order and Justice** (the boy Jacob Alaistair Southampton of [Waterdeep](/places/waterdeep/), proclaimed Imperator and Pontifex Universalis); **Death** (Marcus, the Raven Queen); **Judgment** (Mordred); **Nature** (Sylvanus, secured at Myth Drannor); **Justice** (Tyr), **Dawn** (Lothander) and **Good Fortune** (Tymora), three of whom were killed; **Puzzles**; and the [Company](/organizations/sword-coast-trading-company/)'s own dossiers — full profiles on **Order, Time, Destiny, Reason** and **Revelry**, partial ones on **Moon, War, Nature, Forge, Death, Sea** and **Murder**.
 
-The race for the god-children runs its course over five hundred years: the [Infanta Crisis](/lore/the-infanta-crisis/) ends with Asmodeus defeated in a tavern in Waterdeep and the Cormyrean Empire founded on the claim of holy blood. Five centuries after that, a princeling named Zellmo is being raised on a prophecy to believe himself the new Infanta of Zarus.
+The race for the god-children runs its course over five hundred years: the [Infanta Crisis](/lore/the-infanta-crisis/) ends with Asmodeus defeated in a tavern in Waterdeep and the Cormyrean Empire founded by [Zanzibar the Elder](/people/zanzibar/) on the claim of holy blood. Five centuries after that, at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a princeling named Zellmo, raised by the Horsecock Prophecy to believe himself the new Infanta of Zarus, demands the Empire's throne.
 
 ## What the Infantas truly are
 

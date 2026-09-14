@@ -47,6 +47,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
 published: '2026-09-10'
 wa:
   slug: waterdeep-location
@@ -83,7 +84,7 @@ Underneath the ceremony the city was already being sold twice. St. Cloud's chang
 
 ## Under occupation
 
-Five hundred years on, Waterdeep is the western capital of somebody else's empire. It answers to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor, and to the urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) garrisoned inside its walls.
+Five hundred years on, Waterdeep is the western capital of somebody else's empire. It answers to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor, and to the urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) garrisoned inside its walls. The city stands at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
 
 The **Unmasked Lord ap Dyksterhaus** flaunts imperial custom, rails against overtaxation and champions the merchants; he refused to travel to the imperial capital and pay tribute at all. The **Old Houses** despise the merchant class but love imperial peace, trade routes and access, and Varkus dines at Tiffany House. Beyond the walls the **farmlands** revolt over grain and cattle seizures and burn the levy wagons: the garrison eats while the countryside starves.
 

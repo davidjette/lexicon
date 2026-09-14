@@ -14,6 +14,7 @@ tags:
 - Peterbilt Varkus
 - Western Vanguard
 - Waterdeep
+- War of the Five Zanzibars
 - Infantaverse
 icon: fa-cross
 fields:
@@ -32,6 +33,7 @@ fields:
   weight: Unknown
 sources:
 - C:/dev/fort-max/fort-maximillien.md
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
 published: '2026-09-10'
 wa:
   slug: zanzibar-the-penitent-person
@@ -42,7 +44,7 @@ wa:
 
 **Also known as:** the Penitent · the late emperor · <small>father of Zanzibar William the Melancholy</small>
 
-**Zanzibar the Penitent** was Emperor of Faerûn and holder of the [Glass Throne](/items/the-glass-throne/), heir to **Zanzibar the Elder** and to the claim that **Zarus** blessed the bloodline to rule forever. He was *"known as a holy and pious man to all but those who knew him,"* and over his reign he devolved the Empire, giving "nearly all political and military control of the Empire to his armies, his rivals, and his laconic son." His most consequential surviving act was a posting: he named [Peterbilt Varkus](/people/peterbilt-varkus/) Marshall of the Western Vanguard and charged him with the governorship of [Waterdeep](/places/waterdeep/), *"as much to guard the Empire's westerly flank as to remove Varkus from the capital."* He died elderly, one month before the events at [Fort Maximillien](/places/fort-maximillien/), and the throne passed to [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/).
+**Zanzibar the Penitent** was Emperor of Faerûn and holder of the [Glass Throne](/items/the-glass-throne/), heir to [Zanzibar the Elder](/people/zanzibar/) and to the claim that **Zarus** blessed the bloodline to rule forever. He was *"known as a holy and pious man to all but those who knew him,"* and over his reign he devolved the Empire, giving "nearly all political and military control of the Empire to his armies, his rivals, and his laconic son." His most consequential surviving act was a posting: he named [Peterbilt Varkus](/people/peterbilt-varkus/) Marshall of the Western Vanguard and charged him with the governorship of [Waterdeep](/places/waterdeep/), *"as much to guard the Empire's westerly flank as to remove Varkus from the capital."* He died elderly, one month before the events at [Fort Maximillien](/places/fort-maximillien/), and the throne passed to [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/).
 
 ## Physical description
 
@@ -50,7 +52,7 @@ wa:
 
 ## The reign
 
-The Penitent held the Glass Throne as heir to Zanzibar the Elder and to the claim that Zarus blessed the bloodline to rule forever. The record draws the contrast in a single clause and does not soften it: he was *"known as a holy and pious man to all but those who knew him."* What he did was devolve the Empire — giving "nearly all political and military control of the Empire to his armies, his rivals, and his laconic son." His motive for doing so is not recorded. The Empire that resulted was inherited a month ago by Zanzibar William the Melancholy.
+The Penitent held the Glass Throne as heir to Zanzibar the Elder and to the claim that Zarus blessed the bloodline to rule forever. He was *"known as a holy and pious man to all but those who knew him."* What he did was devolve the Empire — giving "nearly all political and military control of the Empire to his armies, his rivals, and his laconic son." His motive for doing so is not recorded. The Empire that resulted was inherited a month ago by Zanzibar William the Melancholy.
 
 ## The appointment that outlived him
 
@@ -64,6 +66,6 @@ The Empire's most popular general was given an army, a distant city, a title tha
 
 ## Death
 
-He died elderly, one month before the events at Fort Maximillien, and the succession passed to his son without incident.
+He died elderly, one month before the events at Fort Maximillien, and the succession passed to his son without incident. In the month after his death four factions had risen against his son, and the Empire stood at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a critical collapse of the continent in whose beginnings [Dead Man's Hand](/lore/dead-mans-hand/) is set.
 
-**Related:** [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/) · [General Peterbilt Varkus](/people/peterbilt-varkus/) · [The Glass Throne](/items/the-glass-throne/) · [The Cormyrean Empire](/organizations/the-cormyrean-empire/) · [Waterdeep](/places/waterdeep/)
+**Related:** [Zanzibar](/people/zanzibar/) · [The War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) · [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/) · [General Peterbilt Varkus](/people/peterbilt-varkus/) · [The Glass Throne](/items/the-glass-throne/) · [The Cormyrean Empire](/organizations/the-cormyrean-empire/) · [Waterdeep](/places/waterdeep/)

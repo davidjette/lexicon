@@ -53,6 +53,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
 - sources/dave/2026-09-14-heyu-and-feng.md
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
 - CANON.md 5w, 5ab, 5ac
 published: '2026-09-10'
 wa:
@@ -129,7 +130,7 @@ In the downtime that followed, Heyu visited [Our Lady of Mysteries](/places/our-
 
 ## Waterdeep
 
-The party came next to occupied [Waterdeep](/places/waterdeep/), the city [Bumpkin Countrymile](/people/bumpkin-countrymile/) sold his plane ticket home to, where "the Zanzibar", the Emperor of Cormyr and Faerun, is resisted by talk of independence. At [Tiffany House](/places/tiffany-house/) they walked into [the Tiffany House Heist](/history/the-tiffany-house-heist/): [Phillip Klaxon](/people/phillip-klaxon/)'s plot to seat his son [Darius Klaxon](/people/darius-klaxon/) on the Lords' Council, [Griddy Champagne](/people/griddy-champagne/) revealed as the fallen angel Garidriel, and Jeremiah disguised as a waiter. The party stole the **RUIN** card.
+The party came next to occupied [Waterdeep](/places/waterdeep/), the city [Bumpkin Countrymile](/people/bumpkin-countrymile/) sold his plane ticket home to, where "the Zanzibar", the Emperor of Cormyr and Faerun, is resisted by talk of independence. The campaign is set during the beginnings of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the War and Revolution of which General Varkus's March of the Free West is part. At [Tiffany House](/places/tiffany-house/) they walked into [the Tiffany House Heist](/history/the-tiffany-house-heist/): [Phillip Klaxon](/people/phillip-klaxon/)'s plot to seat his son [Darius Klaxon](/people/darius-klaxon/) on the Lords' Council, [Griddy Champagne](/people/griddy-champagne/) revealed as the fallen angel Garidriel, and Jeremiah disguised as a waiter. The party stole the **RUIN** card.
 
 That night came [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/): [Bud Holhertz](/people/bud-holhertz/) shot Lenore for someone else, and the party attacked [Rex Bedsheets](/people/rex-bedsheets/) of [Rexium](/organizations/rexium/), who carried the **THRONE** card. The Purple Dragons arrested them.
 

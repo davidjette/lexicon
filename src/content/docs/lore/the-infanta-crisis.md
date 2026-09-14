@@ -35,19 +35,21 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VII - Suzail.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3066)
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
+- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 published: '2026-09-10'
 wa:
   slug: the-infanta-crisis-article
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
 ---
 
-The **Infanta Crisis** was five centuries of holy war. It ended with the defeat of **Asmodeus** in a tavern in [Waterdeep](/places/waterdeep/), and with the founding of the [Cormyrean Empire](/organizations/the-cormyrean-empire/) by **Zanzibar the Elder**, first Emperor of Faerûn. The Empire's bloodline claim, its state deity, its frontier garrisons and its rebellions all date from that settlement.
+The **Infanta Crisis** was five centuries of holy war. It ended with the defeat of **Asmodeus** in a tavern in [Waterdeep](/places/waterdeep/), and with the founding of the [Cormyrean Empire](/organizations/the-cormyrean-empire/) by [Zanzibar the Elder](/people/zanzibar/), first Emperor of Faerûn. The Empire's bloodline claim, its state deity, its frontier garrisons and its rebellions all date from that settlement.
 
 ## What the war was about
 
 An [Infanta](/lore/the-infanta/) is a god reborn into a mortal child. When the gods were shut out of the world, some incarnated themselves in mortal form, and the god-children that resulted "inverted the world with their immense and terrifying sorcery and slavish followings." Divinity had become a thing that could be *captured*, and every kingdom, cult, corporation and church in Faerûn moved for it at roughly the same time.
 
-The records of the crisis's opening decades, preserved in the record of the Ages of the Infanta, show exactly that scramble: Waterdeep proclaiming a boy Imperator and Pontifex Universalis on the word of the priests of Obus; the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) compiling profiles on the Infantas of Order, Time, Destiny, Reason, Revelry, Moon, War, Nature, Forge, Death, Sea and Murder; the elves of Myth Drannor securing the Infanta of Sylvanus; rumours of orcs holding one at Mordulkin; and an empire mobilising to invade Amn by sea and land, in a move that risked dragging "all the kingdoms of elf, man and dwarf into a continental conflagration."
+The records of the crisis preserved in the record of the Ages of the Infanta show exactly that scramble: Waterdeep proclaiming a boy Imperator and Pontifex Universalis on the word of the priests of Obus; the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/) compiling profiles on the Infantas of Order, Time, Destiny, Reason, Revelry, Moon, War, Nature, Forge, Death, Sea and Murder; the elves of Myth Drannor securing the Infanta of Sylvanus; rumours of orcs holding one at Mordulkin; and an empire mobilising to invade Amn by sea and land, in a move that risked dragging "all the kingdoms of elf, man and dwarf into a continental conflagration."
 
 ## Asmodeus
 
@@ -59,7 +61,7 @@ How the archdevil came to be fought in a tavern, and by whom, is not recorded. T
 
 An empire founded on the claim that its founder's blood is holy, with **Zarus** — god of sentinels, conquest and humanity triumphant — as state patron. A frontier army of crusader-occupiers. An ecclesiastical oversight of arcane study strong enough to strip a princess of her titles for defying it. And a political culture in which the only legitimate way to oppose the throne is to claim you are its truer heir — which is what three of the Empire's four current rebellions do.
 
-The course of the Crisis between the Age of the Infanta and the tavern in Waterdeep is not recorded; five hundred years sit in that gap. <small>See [the Oblivia](/lore/the-oblivia/).</small>
+Zanzibar the Elder is [Zanzibar](/people/zanzibar/) of the Ages of the Infanta. Immediately after the Ages, crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, he declared himself Emperor of Faerûn and consolidated control of the continent, mostly peacefully, and from then on the Emperor was called "the Zanzibar". Five hundred years later the Empire he founded came to [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), a critical collapse of the continent.
 
 ## The Ordo Trium
 

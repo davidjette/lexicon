@@ -34,6 +34,7 @@ sources:
 - user-directed (named as canon by the creator)
 - worldanvil/registry.tsv (four existing 15-starfall rows)
 - CANON.md 5v (the DM's account, 2026-09-10)
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
 published: '2026-09-10'
 wa:
   slug: starfall3A-the-next-generation-article
@@ -51,6 +52,8 @@ wa:
 By the Starfall era the [Lexicon](/items/the-lexicon/) rules a **Sovereignty of Realms** spanning four worlds: **Toril**, **Eberron**, **Oerth** and **Krynn**.
 
 The approach to it is visible from the Eberron side of the timeline, where Eberron is on the verge of first contact with an interplanar civilisation from Toril "largely led by the Lexicon and its many allies and instruments." By Starfall that contact has happened.
+
+Starfall refers to [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) as a critical collapse of the continent of Faerûn, before a dark time preceding the ascendance of the Sovereignty.
 
 ## The Lexicon's betrayal
 

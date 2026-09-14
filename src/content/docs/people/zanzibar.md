@@ -1,6 +1,6 @@
 ---
 title: Zanzibar
-description: The crown prince of Punis sent as a religious envoy to Motherstone, who carried the drowned-and-resurrected girl Una into Cormyr's court at Candlenights.
+description: The crown prince of Punis who carried Una into Cormyr's court at Candlenights and, as Zanzibar the Elder, became First Emperor of Faerun.
 type: person
 kind: people
 tags:
@@ -22,6 +22,9 @@ tags:
 - Stonecypher
 - Seppy
 - Ser Maximilian
+- Zanzibar the Elder
+- Cormyrean Empire
+- War of the Five Zanzibars
 icon: fa-crown
 fields:
   rpgAlignment: Unknown
@@ -48,7 +51,10 @@ sources:
 - Desktop/D&D/Character Sheets/DJ/CS MAXIMILIAN.pdf
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075)
+- sources/dave/2026-09-14-zanzibar-and-the-war.md
+- C:/dev/fort-max/fort-maximillien.md
 - CANON.md 5ac
+- CANON.md 5ah
 published: '2026-09-10'
 wa:
   slug: zanzibar-person
@@ -61,9 +67,9 @@ image:
 
 **Species unknown · Crown Prince of Punis · Temple Holdings LLC / the royal house of Punis · Alive**
 
-*Also known as:* Zanzibar the Younger · Crown Prince Zanzibar
+*Also known as:* Zanzibar the Younger · Crown Prince Zanzibar · Zanzibar the Elder, First Emperor of Faerûn
 
-**Zanzibar** is the crown prince of **Punis** and a man of faith, dispatched by the high priest of Punis to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision and the loss of divine magic from the world. He carries [Glassbane](/items/the-bane-blades/), the sea elves' shard of Perfect moonstone, by birthright and plunder, and fights with it beside the water elves and Prince [Atlas](/organizations/atlas-and-the-sea-elves/) against the Drow in the Winking Depths and in the founding of Atlantis. At the Candlenights festival in Suzail he carried home **Una**, a drowned and resurrected girl who may be an Infanta, against the designs of Cormyr's War Wizards, and left betrothed to King Glenn Danzig's daughter Roseanne. His father, the king of Punis, died while he was there.
+**Zanzibar** is the crown prince of **Punis** and a man of faith, dispatched by the high priest of Punis to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision and the loss of divine magic from the world. He carries [Glassbane](/items/the-bane-blades/), the sea elves' shard of Perfect moonstone, by birthright and plunder, and fights with it beside the water elves and Prince [Atlas](/organizations/atlas-and-the-sea-elves/) against the Drow in the Winking Depths and in the founding of Atlantis. At the Candlenights festival in Suzail he carried home **Una**, a drowned and resurrected girl who may be an Infanta, against the designs of Cormyr's War Wizards, and left betrothed to King Glenn Danzig's daughter Roseanne. His father, the king of Punis, died while he was there. Immediately after the Ages of the Infanta, crowned king of Cormyr, he declared himself Emperor of Faerûn and, as **Zanzibar the Elder**, First Emperor of Faerûn, founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), whose emperors have been called "the Zanzibar" ever since.
 
 ## Bearing and arms
 
@@ -111,7 +117,11 @@ Zanzibar stands between a girl who does not want to have been saved and a cabal 
 
 ## Emperor of Faerun
 
-Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and with his forces in the old imperial capital of [Waterdeep](/places/waterdeep/), declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. From then on the Emperor of [the Cormyrean Empire](/organizations/the-cormyrean-empire/) was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), a barker in Waterdeep calls for independence from the Zanzibar, and [General Peterbilt Varkus](/people/peterbilt-varkus/) delivers an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
+Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and with his forces in the old imperial capital of [Waterdeep](/places/waterdeep/), declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. From then on the Emperor of [the Cormyrean Empire](/organizations/the-cormyrean-empire/) was called "the Zanzibar". <small>(Dave, 2026-09-14)</small>
+
+As **Zanzibar the Elder**, First Emperor of Faerûn, he founded the Empire following the defeat of Asmodeus and the end of [the Infanta Crisis](/lore/the-infanta-crisis/). The state patron deity **Zarus** blessed his bloodline to rule forever, and every emperor since has claimed descent from holy blood. His successors rule from [the Glass Throne](/items/the-glass-throne/); among them were [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and his son [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), in whose first month on the throne, with four factions risen against him, [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) was beginning.
+
+Five hundred years later, in [Dead Man's Hand](/lore/dead-mans-hand/), a barker in Waterdeep calls for independence from the Zanzibar, and [General Peterbilt Varkus](/people/peterbilt-varkus/) delivers an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
 
 ## Social
 
