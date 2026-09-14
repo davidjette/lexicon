@@ -9,4 +9,13 @@ Asked whether he wrote O-3255 (the `oblivia-registry/` folder beside it is Claud
 
 > I helped rigth it, the registry was an earlier project and is not canon.
 
+Follow-up 1, asked to confirm that this Revan is Revan Darkcember (Carls IV, Onyxbane, Masked Lord) and
+that Nimbus Corp descends from House Nimbus:
+
+> yes this is all confirmed
+
+Follow-up 2:
+
+> also changing St Cloud -> Nimbus meant he could preserve the 'cloud' branding establish over centuries while putting his true stamp on it!
+
 Source file for the handout: `Desktop/D&D/Dead Mans Hand/items/O3255.md`.
