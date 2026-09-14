@@ -22,6 +22,9 @@ tags:
 - Star Quendi
 - Daenan
 - Bask Falls Barrow
+- Drefanmetra
+- Waning One
+- Banefae
 icon: fa-leaf
 fields:
   rpgAlignment: Chaotic Good
@@ -48,6 +51,13 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone (notes).txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
+- CANON.md 5p
+- sources/dave/2026-09-14-oral-histories-cast.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2021-10-23"
+- "Oral Histories: Temporal Holdings, 2021-12-04"
+- "Oral Histories: The Inevitables, 2021-08-21"
 published: '2026-09-10'
 wa:
   slug: drefan-person
@@ -94,6 +104,12 @@ Silverbane is a witness with a persistent memory and blank spaces in it, and Dre
 
 A Master Rune on Silverbane is opened by a previous owner's blessing. Star Quendi's blessing at Bask Falls Barrow opened one, and each of the blade's other previous owners blessed Drefan with their rune's power **except Daenan**, whom the party never went back to contact. Drefan then added his own rune, his capstone power: *"if you strike a creature with this bow and it has fewer than 100 hit points, it dies."* <small>(sic)</small>
 
+## The Waning One
+
+**Drefanmetra**, the **Waning One**, is a version of Drefan from another arc. He vowed to stop the moon being moved, which would have saved the home of the elves and doomed Toril, and he failed. He went forward in time as the Waning One to preempt [St. Cloud](/people/wainwright-st-cloud/), and organised the **Banefae**, the remaining heads of each elvish house, to steal the [Mammon Machine](/items/the-mammon-machine/) for themselves "and send him back to try again". <small>(Dave, 2026-09-14)</small> "The Banefae United by Drefanmetra attack the maze and enslaved TJ to get into the Penteract at the heart of Despondos." <small>(Oral Histories: The Inevitables, 2021-08-21)</small>
+
+The Waning One fought the party alongside **Valen** and [Carl's Jr.](/organizations/carls-jr-and-the-drow/) at Deadfall Peak. The party charmed him <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> and imprisoned him in his own sword <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>. He is held in Silverbane, which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, 2026-09-14)</small>
+
 ## Right now
 
 Drefan carries Silverbane into the muster at Motherstone as one of five sibling blades — Silverbane, Ebonbane, Ironbane, Glassbane, Copperbane — nearly reunited for the first time since the age they cannot remember, and named in Zebulon's vision as five blades piercing an opened eye.
@@ -106,7 +122,7 @@ He believes an oath to a house is a debt payable with a life, which is the exact
 
 **Holdings:** the Old Temple at Harloch, bought jointly by the company
 
-**Items:** **Silverbane**, a living moonblade of House Gallidann, taken from Daenan Gallidan's sarcophagus aboard the *Evening Star* and blessed to him by the spectral echo of [Star Quendi](/people/star-quendi/) at Bask Falls Barrow on the condition that he pledge to live and die for her house. Its previous bearers are in the barrow; the blade itself remembers them. It carries a Master Rune for each owner who blessed him, and a last one he added himself.
+**Items:** **Silverbane**, a living moonblade of House Gallidann, taken from Daenan Gallidan's sarcophagus aboard the *Evening Star* and blessed to him by the spectral echo of [Star Quendi](/people/star-quendi/) at Bask Falls Barrow on the condition that he pledge to live and die for her house. Its previous bearers are in the barrow; the blade itself remembers them. It carries a Master Rune for each owner who blessed him, and a last one he added himself. The Waning One is imprisoned in it.
 
 ## Social
 
@@ -116,6 +132,7 @@ He believes an oath to a house is a debt payable with a life, which is the exact
 - **Star Quendi** — granted him the right to bear it, in exchange for his life. Ascended, in Arboria.
 - **King Chad of the Mundi** — mistook him for a king, then tried to use him against Magnus.
 - **Brother Magnus** — the companion Chad tried to turn him against. Alive.
+- **Drefanmetra, the Waning One** — a version of Drefan from another arc. Imprisoned in Silverbane, which Drefan carries.
 - **Untari** — the enslaved elven chief freed at Leftfork; her Bladesingers fight beside the company to the end.
 
 **Hobbies & Pets:** Unknown.

@@ -23,6 +23,11 @@ tags:
 - Time of Troubles
 - Sigil
 - Motherstone
+- 65 million years
+- the deep past
+- the Traveler
+- R'lyeh
+- the Queens
 - Infantaverse
 icon: fa-timeline
 fields:
@@ -32,6 +37,13 @@ fields:
 sources:
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Infanta Timeline.pdf (2 pages, handwritten, transcribed 2026-09-10)
 - CANON.md 5m
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2020-02-22"
+- "Oral Histories: Temporal Holdings, 2021-12-10"
+- "Oral Histories: The Inevitables, 2021-08-21"
+- "Oral Histories: The Inevitables, 2022-02-09"
+- "Oral Histories: The Inevitables, 2022-07-03"
 published: '2026-09-10'
 wa:
   slug: the-infanta-timeline-article
@@ -45,6 +57,8 @@ wa:
 **The Infanta Timeline** is the definitive chronology of the [Infantaverse](/lore/the-infantaverse/), running from the growth of Ydryssl out of the Godseed to the second Time of Troubles. It survives as two handwritten pages dated June 2020, and it runs **up to the party's first journey back**; everything after the return to Starfall is not on it. <small>(Readings marked (sic?) are uncertain.)</small>
 
 **The timeline is a closed loop, and the document draws it as one.** A single line runs from 40,000,000 B.C. to the present, and a great arc carries [Wainwright St. Cloud](/people/wainwright-st-cloud/) from his own birth back to the beginning of it.
+
+<small>(The 40,000,000 B.C. on the document is the deep past, 65 million years ago. Dave described the same moment as "40,000,000 years in the past" (Oral Histories: Temporal Holdings, 2020-02-22) and wrote that the "deep past is about 65 million years ago" (Oral Histories: Temporal Holdings, 2021-12-10).)</small>
 
 ## The three eras
 
@@ -104,6 +118,8 @@ In the same period the Aboleth and Dragon Empires are destroyed in cataclysm, an
 - **The Queens become the Ladies of Pain and Death.**
 - **The Old Man escapes Despondos.**
 
+The Queens and the Grey Sage went into Despondos together. As allies they defeated the Banefae: "They are confronted by the Queens and Grey Sage and defeated." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> In the last loop "Brightmantle did the same thing as you, collapsed the city and sent the mammon machine into the desert, it trapped the Queens and Grey Sage in Despondos for centuries." <small>(Oral Histories: The Inevitables, 2022-07-03)</small> The Queens then turned on the sage and threw him deeper, took the seats of Pain and Death, and the Old Man escaped.
+
 ## The Second Time of Troubles — the present
 
 1. **Wainwright St. Cloud is born in Baldur's Gate.**
@@ -121,6 +137,8 @@ In the same period the Aboleth and Dragon Empires are destroyed in cataclysm, an
 Read the columns together and the document states it plainly:
 
 **The Old Man is the previous loop's Wainwright St. Cloud.** He lives as the Old Man in deep time; he is the Grey Sage who raises Netheril; he is banished to Despondos and escapes; he meets the St. Cloud brothers in the present — and the young Wainwright murders him and takes what he has.
+
+Two different St. Clouds are killed. "Grey Sage" is an office that each loop's St. Cloud holds. The young Wainwright kills the Old Man, the immediately previous loop's St. Cloud, in Baldur's Gate. The party killed an older loop's St. Cloud, **the Traveler**, at [R'lyeh](/places/rlyeh/): "you killed the one who was the grey sage “last” time at Rlyeh." <small>(Oral Histories: The Inevitables, 2022-02-09)</small> The party's own St. Cloud watched that killing, "to ambush you as you killed a previous st cloud at rlyeh" <small>(Oral Histories: The Inevitables, 2022-07-03)</small>, went forward, and became the Grey Sage of Antiquity, who "knows you’re coming, because he’s YOUR St. Cloud." <small>(Oral Histories: The Inevitables, 2022-02-09)</small>
 
 Which names the sage of [the Three Brothers](/lore/the-three-brothers/). The fairy tale has "an elderly sage" hire three brothers to carry his library from Baldur's Gate to Waterdeep, and the brothers steal the shipment and murder him — and one book survives the fire. **The Black Book that gave Wainwright his Warlock Pact came off his own older self's corpse.**
 

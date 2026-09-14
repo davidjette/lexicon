@@ -1,11 +1,19 @@
 ---
 title: Tylerjynex
-description: The great copper dragon of Motherstone, who built the Penteract with the god of puzzles and was beguiled and banished by Calix.
+description: The great copper dragon of Motherstone, also Peter Glans, who built Despondos and the Penteract and was enslaved by the Banefae and Calix.
 type: person
 kind: people
 tags:
 - Tylerjynex
-- Tylerjynex
+- Tylerjinex
+- Peter Glans
+- Glans
+- King of the Wyrms
+- TJ
+- Despondos
+- Banefae
+- Drefanmetra
+- Valen
 - copper dragon
 - Snowy Mountain
 - Motherstone
@@ -29,6 +37,14 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part V.txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
+- CANON.md 5n
+- CANON.md 5p
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2018-05-12"
+- "Oral Histories: Temporal Holdings, 2021-01-16"
+- "Oral Histories: Temporal Holdings, 2021-05-27"
+- "Oral Histories: The Inevitables, 2021-08-21"
 published: '2026-09-10'
 wa:
   slug: tylerjinex-person
@@ -39,13 +55,15 @@ wa:
 
 <small>— Tylerjynex's pledge at [Brightmantle](/people/brightmantle/)'s funeral, Arc VII, Leviathan I. The longest pledge any ally gives. "Solved my greatest dungeon" is [the Penteract](/places/the-penteract/).</small>
 
-**Great Copper Dragon of the Snowy Mountain · Builder of the Penteract · Sire of the Dragonborn of Motherstone**
+**Great Copper Dragon of the Snowy Mountain · Builder of Despondos and the Penteract · Sire of the Dragonborn of Motherstone**
 
-*Also known as:* Tylerjynex <small>(the session text's spelling)</small>
+*Also known as:* Tylerjynex <small>(the session text's spelling)</small> · Tylerjinex · TJ · Peter Glans · the King of the Wyrms
 
-Tylerjynex is the great Copper Dragon of the Snowy Mountain and the lord of [Motherstone](/places/motherstone/). In antiquity he built [the Penteract](/places/the-penteract/) with the god of puzzles to keep the Banefae and the Netherese from the Seat of Death at the Heart of [Dis](/places/dis/). He yielded Motherstone to the [Infanta](/lore/the-infanta/), pledged fealty to her and sired seven eggs as her honour guard, and was then beguiled and banished by [Calix](/people/calix/) while the House of Gallidan killed his brethren in their sleep. The party found him again blind and in thrall atop the temple holding Calix's phylactery, and he is an ally at the final battle.
+Tylerjynex is the great Copper Dragon of the Snowy Mountain and the lord of [Motherstone](/places/motherstone/). In antiquity he made **Despondos**, the maze dimension, and built [the Penteract](/places/the-penteract/) at its heart with the god of puzzles, to keep the Banefae and the Netherese from the Seat of Death at the Heart of [Dis](/places/dis/). He yielded Motherstone to the [Infanta](/lore/the-infanta/), pledged fealty to her and sired seven eggs as her honour guard. The **Banefae**, united by **Drefanmetra** and with **Valen** as their arm, attacked the maze and enslaved him, and he ended in thrall to [Calix](/people/calix/), who beguiled him and banished him into his own maze while the House of Gallidan killed his brethren in their sleep. In the Time of Troubles he went by **Peter Glans**, the King of the Wyrms. The party found him again blind and in thrall atop the temple holding Calix's phylactery, and he is an ally at the final battle.
 
-## The Penteract
+## Despondos and the Penteract
+
+"Tylerjinex made the maze dimension of Despondos to encase the Seat of Judgement, The corpse of Thanatos, and the Soul Syphon." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> The places nest: Despondos holds Dis, and Dis holds the Penteract.
 
 In antiquity he built the Penteract with **the god of puzzles**: an impossible labyrinth around the fragment at the Heart of Dis, to keep the **Banefae** and the **Netherese** from taking the Seat of Death. It lets the dead through, because they have an eternity, and stops everyone else.
 
@@ -58,6 +76,8 @@ He pledged fealty to the Infanta and "conceived of a children to be her honor gu
 ## What Calix did to him
 
 "The one called [Calix](/people/calix/) beguiled Tylerjynex and banished him to some dark abyss. Our brethren were slain in their sleep by the Betrayer's foul agents — you call them the House of Gallidan. They could not stand to see anyone but elves at the side of the Infanta." <small>(Arc II, Motherstone Part V.)</small>
+
+The dark abyss is his own maze. Before he came into Calix's thrall, "The Banefae United by Drefanmetra attack the maze and enslaved TJ to get into the Penteract at the heart of Despondos." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> Valen was the Banefae's arm in that defeat.
 
 The party finds him again atop the temple that holds Calix's phylactery: "an enormous, emaciated gold Dragon… It slumps over as if mostly dead." He is **blind and cannot smell**, but he can hear. He is "in thrall… in a state of constantly fighting off the demon in his mind. He cannot be reasoned with, but a successful CHA roll might calm him to sleep." DJ Steve recognises him as his father, "who he thought to be banished to another plane." <small>(Arc II, Motherstone Part VI. He is described as *gold* in this passage and *copper* everywhere else; both are on the record.)</small>
 
@@ -72,6 +92,10 @@ His history differs between the two turns of the cycle.
 | Outcome | found blind and dying by the party in the "present" | a bloodline that **may also lead to Kara's own birth** |
 
 The seven eggs, DJ Steve and the blind dragon atop the phylactery temple are **first-loop**. The line in his funeral pledge — "you are the mother of my Egg" — belongs to the second.
+
+## King of the Wyrms
+
+In the Time of Troubles he was **Peter Glans**, and "he is the King of the Wyrms from Kara’s latest vision." <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small> The "king of the worms" in the rhyme of [Copperbane](/items/the-bane-blades/) is him <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small>. **Mannemarco**, the King of Worms whom the party defeated in [Arc II](/history/arc-ii-motherstone/) <small>(Oral Histories: Temporal Holdings, 2018-05-12)</small>, is a different person with a different title.
 
 ## Status
 

@@ -1,11 +1,18 @@
 ---
 title: The City of Dis
-description: 'The reflection of Sigil: a city at the pit of a rift in the Shadowfell, where the God of Death judges the dead.'
+description: 'The reflection of Sigil: a city in a Shadowfell rift where the God of Death judged the dead, flung into the Hells after the Oblivia.'
 type: settlement
 kind: places
 tags:
 - The City of Dis
 - Dis
+- the city of judgment
+- City of Judgment
+- the Seat of Death
+- the Seat of Judgement
+- the Hells
+- Cypher
+- the Oblivia
 - the Penteract
 - Sigil
 - Shadowfell
@@ -23,10 +30,14 @@ icon: fa-gavel
 fields:
   type: Planar city
   founded: A planar disturbance caused by the Egg's impact
-  status: Judgement seat taken by Asmodeus; recovered at the final battle
+  status: Judgement seat taken by Asmodeus; recovered at the final battle; flung into the Hells after the Oblivia
 sources:
 - CANON.md 5i (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VII.txt
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2019-01-28"
+- "Oral Histories: The Inevitables, 2023-12-02"
+- "Oral Histories: The Inevitables, 2024-04-27"
 published: '2026-09-10'
 wa:
   slug: the-city-of-dis-settlement
@@ -35,7 +46,7 @@ wa:
 
 **Planar city · At the pit of a great rift in the Shadowfell · Where the dead are judged**
 
-*Also known as:* the City of Dis · the reflection of Sigil
+*Also known as:* the City of Dis · the reflection of Sigil · the city of judgment <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small>
 
 The **City of Dis** is the reflection of [Sigil](/places/sigil/). Both are **planar disturbances caused by the impact** of [the Egg](/places/the-egg/) at Waterdeep: Sigil stands atop a seemingly endless pillar at the antipode of Toril, and Dis lies at the pit of a great rift in the Shadowfell. One is the spike, the other is the hole.
 
@@ -59,10 +70,16 @@ The Penteract was built in antiquity by [Tylerjynex](/people/tylerjinex/) with t
 
 That fragment is why the dead come here. Mortal souls are themselves fragments of **Zoth**, and in death they flock toward it because **they are seeking to recombine into Zoth at his Seat**.
 
-The locus produced two things on its own: **a kingdom of death**, and **a seat for a God of Death or Judgment** whose office is to control the flow of apostolic souls onward to the outer realms. The Seat has been **fought over for all time**. In the present of the chronicle it is held by the **Raven Queen**, who rules it as a **neutral arbiter** for the other gods and devils.
+The locus produced two things on its own: **a kingdom of death**, and **a seat for a God of Death or Judgment** whose office is to control the flow of apostolic souls onward to the outer realms. It is called the **Seat of Death**, and also the **Seat of Judgement**. The Seat has been **fought over for all time**. In the present of the chronicle it is held by the **Raven Queen**, who rules it as a **neutral arbiter** for the other gods and devils.
 
 ## The kidnapping, and the Infanta crisis
 
 **Asmodeus and [St. Cloud](/people/wainwright-st-cloud/) conspired to trap the Raven Queen's soul in a mortal — [Marcus](/people/marcus/).** With the arbiter gone from the Seat, souls could no longer reach the outer realms, and Asmodeus hoarded them. Gods cut off from the souls that sustain them had to **descend into the world to be near their followers or risk extinction and irrelevance** — and descending means being born into a dying mortal child.
+
+## After the Oblivia
+
+Dis stood in the Shadowfell for the whole of the chronicle. After [the Oblivia](/lore/the-oblivia/), when Cypher obliviated the eldritch machines and Cthulhu, the loss of the Mammon Machine flung Dis, the fallen seat Asmodeus had taken, into the Hells: "The sudden obligation of the mammon machine would have been enough to warp the space around it, sending Dis into the Hells and twisting the area around Sigil into a great Torus, the donut shape it has in planescape." <small>(Sic on "obligation". Oral Histories: The Inevitables, 2023-12-02)</small>
+
+The office of judging the dead stayed in the Shadowfell as the **City of Judgment**, under the **Raven Queen**, and [Sigil](/places/sigil/) became a torus. The Raven Queen and the Lady of Pain "govern the central locus of that balance in Sigil and the City of Judgment in the shadowfell." <small>(Oral Histories: The Inevitables, 2024-04-27)</small>
 
 **Related:** [Sigil](/places/sigil/) · [The Egg](/places/the-egg/) · [Marcus](/people/marcus/) · [The Lady of Pain](/people/the-lady-of-pain/) · [The Mammon Machine](/items/the-mammon-machine/) · [The Leviathan](/lore/the-leviathan/)
