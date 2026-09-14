@@ -50,6 +50,9 @@ def main():
         'process language in description': (CLEAN.replace('A test subject.', 'The record gives little on him.'), {'source-consulted'}),
         'DM-only leak in body': (CLEAN.replace('He was born in Sharn.', 'He was born in Sharn. ' + dm_shingle + '.'), {'leak-file'}),
         'DM-only leak in a field': (CLEAN.replace('age: Unknown', 'age: "' + dm_shingle + '"'), {'leak-file'}),
+        'unquoted colon in sources': (CLEAN.replace('tags: [Test]', 'tags: [Test]\nsources:\n- Oral Histories: The Inevitables, 2024-06-01'), {'not-a-string'}),
+        'number as a tag': (CLEAN.replace('tags: [Test]', 'tags: [Test, 1.0]'), {'not-a-string'}),
+        'unquoted date': (CLEAN.replace('tags: [Test]', 'tags: [Test]\npublished: 2026-09-14'), {'not-a-string'}),
         'redaction and link syntax are not brackets': (CLEAN.replace('He was born in Sharn.', 'He was born in :redacted[the vault under [Sharn](/places/sharn/)]{id="t"}.'), set()),
     }
     failed = 0

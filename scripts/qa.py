@@ -220,6 +220,31 @@ def check_descriptions(a):
     return out
 
 
+# ------------------------------------------------------------------ front matter types
+def check_frontmatter(a):
+    """Values the content schema (src/content.config.ts) wants as strings. YAML turns an unquoted
+    `- Oral Histories: X` into a map, `- 1.0` into a number and `published: 2026-09-14` into a date,
+    and any of those fails the Astro build."""
+    d, out = a.data, []
+    def bad(where, v):
+        out.append(('not-a-string', f'{where}: {v!r}'[:110]))
+    for key in ('title', 'description', 'type', 'icon', 'published'):
+        if key in d and d[key] is not None and not isinstance(d[key], str):
+            bad(key, d[key])
+    for key in ('tags', 'sources'):
+        for i, v in enumerate(d.get(key) or []):
+            if not isinstance(v, str):
+                bad(f'{key}[{i}]', v)
+    for k, v in (d.get('fields') or {}).items():
+        if not isinstance(v, str):
+            bad(f'fields.{k}', v)
+    for i, img in enumerate([d.get('image')] + list(d.get('gallery') or [])):
+        for k, v in (img or {}).items():
+            if not isinstance(v, str):
+                bad(f'{"image" if i == 0 else f"gallery[{i - 1}]"}.{k}', v)
+    return out
+
+
 # ------------------------------------------------------------------ links (qa_links.py)
 def check_links(a, known):
     out = []
@@ -353,6 +378,7 @@ def run(articles, leaks=True, known=None, leak_index=None):
         flags = [('style', k, d) for k, d in check_style(a)]
         flags += [('brackets', k, d) for k, d in check_brackets(a)]
         flags += [('descriptions', k, d) for k, d in check_descriptions(a)]
+        flags += [('frontmatter', k, d) for k, d in check_frontmatter(a)]
         flags += [('links', k, d) for k, d in check_links(a, known)]
         flags += [('notes', k, d) for k, d in check_notes(a)]
         if leaks:
