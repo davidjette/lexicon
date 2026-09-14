@@ -17,6 +17,11 @@ Work in `C:\Users\djett\Desktop\infantaverse-wiki`. Pull first (`git pull --reba
 
 Copy the text you will cite into `sources/sessions/` (player-safe material only; the repo is public).
 
+**Oral Histories** (the Messenger game chats) are the exception. They stay private in
+`canon/oral-histories/` (transcripts, per-quarter `findings/`, and `REPORT-*.md`, built by
+`scripts/oral_histories.py`). Do not copy them into `sources/`. Cite them as
+`Oral Histories: <Chat title>, YYYY-MM-DD` and quote only in-game lines (STYLE addendum).
+
 ## 2. Plan the deltas and show Dave before writing
 
 Read `canon/CANON.md` §1–2 (campaign names and episode numbering: episode titles are arc-prefixed,

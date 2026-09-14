@@ -14,7 +14,7 @@ push to `main` redeploys through GitHub Pages (`.github/workflows/deploy.yml`).
 | `house/LEAK-ADJUDICATIONS.md` | Leak-check hits that were verified as player-safe. |
 | `canon/` | **Private.** Dave's CANON register and the notes log. Its own local git repo, ignored by this one, never pushed. |
 | `scripts/` | Import, QA, the notes loop, and their self-tests. |
-| `sources/` | Source material the articles cite. |
+| `sources/` | Source material the articles cite. Oral Histories (the players' Messenger game chats) are cited as `Oral Histories: <Chat title>, YYYY-MM-DD`, and their transcripts stay private in `canon/oral-histories/`. |
 | `legacy/` | The June 2026 pages, superseded by the World Anvil import, kept for a later merge. |
 
 ## Editing

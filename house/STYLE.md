@@ -31,6 +31,13 @@
 > **Player-safe, and not-yet-revealed.** CANON is a DM register. Anything it marks as not yet
 > revealed in-world, and anything from the DM-only files in §6.2, never goes on the site.
 >
+> **Oral Histories** are the players' Facebook Messenger game chats (Temporal Holdings, The Inevitables,
+> Battle of River Lis), 2017 onward. The transcripts are private (`canon/oral-histories/`) because they mix
+> the game with real life. Cite them as `Oral Histories: <Chat title>, YYYY-MM-DD`, in `sources` and in an
+> inline `<small>`. Quote only in-game content, verbatim. Dave's own messages are close to canon.
+> Everyone else's are speculation or color, and must be attributed as such (Dave, 2026-09-14,
+> `sources/dave/2026-09-14-oral-histories-cast.md`).
+>
 > **Notes to Claude** are HTML comments in an article: `<!-- @claude: what to change -->`.
 > `python scripts/notes.py --run` applies them (see `README.md`).
 >
