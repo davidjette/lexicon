@@ -1,21 +1,23 @@
 ---
 title: High Inquisitor of the Crimson Sun Esther Crona
 description: Slave, apprentice, High Inquisitor, Lord Commander of Sharn. Founder of the Unforeseen, and the first great antagonist the Inevitables had to bring down.
+tags:
+  - Esther Crona
+  - Esther
+  - Crona
+  - Vayrn Crona
+  - Varyn
+  - Fairhaven
+  - Crimson Sun
+  - Hexblade
+  - Vengeance Paladin
+  - Inquisitor
+  - Lord Commander
+  - Iron Veil
+image:
+  src: /images/uploads/the-lord-comander-esther-crona-mu0isuhy.webp
 type: person
 kind: people
-tags:
-- Esther Crona
-- Esther
-- Crona
-- Vayrn Crona
-- Varyn
-- Fairhaven
-- Crimson Sun
-- Hexblade
-- Vengeance Paladin
-- Inquisitor
-- Lord Commander
-- Iron Veil
 icon: fa-sun
 fields:
   rpgAlignment: Lawful Evil
@@ -32,16 +34,16 @@ fields:
   height: 6'2"
   weight: '180'
 sources:
-- sources/wa/esther-crona-person.txt
-- sources/wa/varyn-crona-person.txt
-- sources/wa/the-crimson-sun-organization.txt
-- sources/site/esther-crona.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/key-figures.txt
-- sources/site/rebel-factions.txt
-- sources/site/korth-episode-summaries.txt
-- sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
-- worldanvil/CANON.md
+  - sources/wa/esther-crona-person.txt
+  - sources/wa/varyn-crona-person.txt
+  - sources/wa/the-crimson-sun-organization.txt
+  - sources/site/esther-crona.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/key-figures.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: esther-crona-person
