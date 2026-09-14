@@ -1,6 +1,6 @@
 ---
 title: The Mammon Machine
-description: 'Netheril''s greatest treasure: an engine holding the captured god of death, buried in the Anauroch, and the key to waking the Leviathan.'
+description: Half of Zoth's vessel, held by Netheril as its greatest treasure and said to hold the god of death; buried in the Anauroch, key to waking the Leviathan.
 type: item
 kind: items
 tags:
@@ -26,10 +26,13 @@ tags:
 - Starfall
 - R'lyeh
 - Ydrissl
+- Despondos
+- Brightmantle
+- Grey Sage
 icon: fa-atom
 fields:
   type: Infernal Machine
-  creator: The Netherese
+  creator: Part of Zoth's craft; known to some as Netherese
   owner: None; buried
   material: Unrecorded
   rarity: Unique
@@ -41,19 +44,26 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__7 - Leviathan__AGES OF THE INFANTA - Leviathan I.txt
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part II.txt
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part VI.txt
+- CANON.md 5ae (Oral Histories)
+- CANON.md, Oral Histories batch 4
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: The Inevitables, 2022-07-03"
 published: '2026-09-10'
 wa:
   slug: the-mammon-machine-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
 ---
 
-The **Mammon Machine** — **Zoth's Vessel** — is "the greatest treasure of (doomed Netheril)": an energy collection and amplification device with which the Netherese "claimed to have slain the god of death and captured his essence in the machine's heart." One of the **Infernal Machines**, kin to the [Lexicon](/items/the-lexicon/) and the [Obliviator](/items/the-obliviator/). It is half of the vessel of Zoth-Ommog, salvaged from the ocean floor beneath [R'lyeh](/places/rlyeh/) and carried forward in time by [Wainwright St. Cloud](/people/wainwright-st-cloud/); the Netherese powered their empire from it, lost it in the calamity that destroyed Netheril, and it now lies several miles deep in the Anauroch Desert, where St. Cloud hunts it for the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/).
+The **Mammon Machine** — **Zoth's Vessel** — is "the greatest treasure of (doomed Netheril)": an energy collection and amplification device with which the Netherese "claimed to have slain the god of death and captured his essence in the machine's heart." One of the **Infernal Machines**, kin to the [Lexicon](/items/the-lexicon/) and the [Obliviator](/items/the-obliviator/). It is half of the vessel of Zoth-Ommog, salvaged from the ocean floor beneath [R'lyeh](/places/rlyeh/) and carried forward in time by [Wainwright St. Cloud](/people/wainwright-st-cloud/); the Netherese powered their empire from it, and in the last loop [Brightmantle](/people/brightmantle/)'s collapse sent it into the desert. It now lies several miles deep in the Anauroch Desert, where St. Cloud hunts it for the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/).
 
 ## Where it comes from
 
 It is a **part of Zoth's ship**. The vessel of **Zoth-Ommog** — the Star Child, whose split soul are the gods of this realm — lay dormant on the ocean floor, and the aboleth built the city of [R'lyeh](/places/rlyeh/) around it. The **Infernal Machines** are salvage off that ship: **this machine is half of that vessel**, and the [Obliviator](/items/the-obliviator/) and [Anachron](/items/the-anachron/) were both parts of it.
 
 [Wainwright St. Cloud](/people/wainwright-st-cloud/) is how they reached the later world. He brought the dragons against the aboleth to get down to the ship, deactivated the Obliviator, took the Anachron, and then **flew the ship itself into space to meet Cthulhu and travelled forward in time with it, ahead of the impact**. <small>(The session text has it that "The Penteract is a five-dimensional structure surrounding the City of Dis, which is ½ of Zoth's vessel (i.e Mammon Machine)." Arc VI, Time of Troubles Part VII. The **Penteract** is the five-dimensional barrier built around a **fragment** of the Mammon Machine trapped at the Heart of the [City of Dis](/places/dis/). The Company's own archives call the machines "absolutely made by the same people with the same magics.")</small>
+
+Where the machines came from is told many ways, because of obliviation and the fog of history. Some know them as Netherese, and Netheril held this one as its greatest treasure; after the Netherese were obliviated the machines had new owners. Only St. Cloud had anything like the full picture, and the party had it briefly.
 
 ## What the Netherese did with it
 
@@ -63,7 +73,7 @@ And they broadcast the achievement. The Netherese proclaimed knowledge of their 
 
 ## Where it went
 
-It was lost in the calamity that destroyed Netheril and now lies "several miles deep in the Anauroch Desert, subsumed in igneous rock." **Wainwright St. Cloud** hunts it across three candidate sites on behalf of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/)'s Special Projects division, and then goes silent in pursuit of it.
+In the last loop, Brightmantle "collapsed the city and sent the mammon machine into the desert, it trapped the Queens and Grey Sage in Despondos for centuries." <small>(Oral Histories: The Inevitables, 2022-07-03)</small> The Queens are the twin [queens of Netheril](/people/aurora-and-astra-saharel/). It was lost in the calamity that destroyed Netheril and now lies "several miles deep in the Anauroch Desert, subsumed in igneous rock." **Wainwright St. Cloud** hunts it across three candidate sites on behalf of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/)'s Special Projects division, and then goes silent in pursuit of it.
 
 ## The Apotheosis of Man
 

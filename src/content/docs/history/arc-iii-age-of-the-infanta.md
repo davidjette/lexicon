@@ -27,11 +27,18 @@ tags:
 - Brightmantle
 - Celion
 - Valen
+- Gregory I
+- Infanta of War
+- Tempus
+- Punis
+- King of Punis
+- Palantir
+- Roland's Cube
 icon: fa-baby
 fields:
   campaign: Temple Holdings LLC
   era: Ten years after Motherstone
-  region: Caer Westphal, the Ride, Waterdeep, Suzail
+  region: Caer Westphal, the Ride, Waterdeep, Suzail, Punis
   status: Complete
   follows: Arc II — Motherstone
   leadsInto: Arc IV — The Infernal Machines
@@ -48,6 +55,17 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part IX - X - XI - Arcaneum.docx
 - Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part XII  - Lost Children.docx
 - Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part XIII  - Second Battle of Motherstone.docx
+- CANON.md 5ae (Oral Histories)
+- CANON.md 5ai (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c17-c21.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-temple-holdings-c30-coronation.md
+- "Oral Histories: Temporal Holdings, 2018-09-15"
+- "Oral Histories: Temporal Holdings, 2019-03-31"
+- "Oral Histories: Temporal Holdings, 2019-05-05"
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
 published: '2026-09-10'
 wa:
   slug: arc-iii-E28094-age-of-the-infanta-plot
@@ -109,7 +127,7 @@ That trail leads to **the Ride** and the trading post of **Whitehorn**, where th
 
 <small>Marcus is non-binary; both pronouns are correct, with she as the primary. The quotation above keeps its source's "he."</small>
 
-The same race plays out in [Waterdeep](/places/waterdeep/), where the Company has installed a *false* Infanta: the boy lord **Jacob Alaistair Southampton**, proclaimed by the priests of **Obus**, God of Order and Justice, and crowned Imperator. In the Council of Lords, St. Cloud and the masked oligarchs fence over the boy:
+The same race plays out in [Waterdeep](/places/waterdeep/), where the Company has installed a *false* Infanta: the boy lord **Jacob Alaistair Southampton**, also called **Gregory I**, the young emperor <small>(Oral Histories: Temporal Holdings, 2018-09-15)</small>, proclaimed by the priests of **Obus**, God of Order and Justice, and crowned Imperator. In the Council of Lords, St. Cloud and the masked oligarchs fence over the boy:
 
 > "I serve at the behest of the Open Lord Jacob Alaistair Southampton, Imperator and Pontifex Universalis and Infanta of the God of Order and Justice. And who are you?"
 
@@ -125,7 +143,7 @@ St. Cloud forced the god of Order's perfect mind to compute the night sky as it 
 
 ## Cormyr, and the children of the gods
 
-The hunt widens into open politics in **Suzail**, the City of Song, capital of Cormyr, during the ten-day winter festival of **Candlenights**. Here Zanzibar carries home a girl named **Una** — dead and resurrected, "suffering from the common effects of being brought back to life after three days" — who may or may not be an Infanta herself. Her grief is the arc's quiet heart:
+The hunt widens into open politics in **Suzail**, the City of Song, capital of Cormyr, during the ten-day winter festival of **Candlenights**. Here Zanzibar carries home a girl named **Una** — dead and resurrected, "suffering from the common effects of being brought back to life after three days" — who is the Infanta of War, **Tempus**. Her grief is the arc's quiet heart:
 
 > I sometimes dream of heaven, like I've been there before. But in the dream the angels are fighting each other. And the devil is laughing… Sometimes I get really mad… What did you save me from?
 
@@ -141,11 +159,17 @@ The Arcaneum holds the [Anachron](/items/the-anachron/). Its own handout records
 
 Archmage **Valen** wants the device for the same end: "This magnificent device baffles me. We've tried everything to try and turn it on. We're certain this device will bring us to where and when we have to be to summon her, to summon the Leviathan…" <small>(Arc III, Parts IX–XI.)</small>
 
+### The coronation in Punis
+
+After his exile at the hands of the Arcaneum, [Zanzibar](/people/zanzibar/) returned to **Punis** and was crowned King of Punis. He named [Revan](/people/revan-darkcember/) and Roland Thanes and gave them holds: Revan's is Marsember, which becomes Darkcember because the Duchess of Marsember was killed. He named [Stonecypher](/people/stonecypher/) his general and promoted **Maximillien** to Steward. His twin, **Zebediah**, was disinherited. <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small>
+
 ### The Second Battle of Motherstone
 
 It ends where the arc began: at Motherstone, where the Company returns in force for the moonstone it lost. The **Second Battle of Motherstone** is fought over the city itself: a great flying ship and a fleet of skiffs, crewed by Warforged soldiers and gunners and by Dox, comes for the Obliviator — the war the whole age has been building toward.
 
-The [Lexicon](/items/the-lexicon/) was scrammed before the battle, not in it: the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) possessed [Roland](/people/roland-deschain/) and used his own knowledge of the machine against it, which brought down the Mythal and let Wainwright's ships into the city's airspace. [Roland Deschain](/people/roland-deschain/) and [Brother Magnus](/people/brother-magnus/) connected the Anachron and duplicated the Lexicon's code into it, moving the Lexicon out of the mountain and into the Anachron, which made it mobile and gave it a latent power over time. From here on the Lexicon travels with the party as Lex. <small>(Full treatment at [The Anachron](/items/the-anachron/).)</small>
+Before the battle, Lex had been built into the Arielle, whose drive is the Anachron. <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> The party fought the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/); then [Roland Deschain](/people/roland-deschain/) touched [the Palantir](/items/the-palantir/), and Wainwright St. Cloud mind-controlled him through it. Roland destroyed the [Lexicon](/items/the-lexicon/) and let the Company into Motherstone. About three rounds into the battle Lex transferred himself to the ship and lost all connection to the Motherstone Lexicon, which is dead. He does not remember transferring. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> The party and Motherstone won. They captured Carlysle's heart in [Roland's Cube](/items/rolands-cube/) and threw it, with the Palantir, into the [Obliviator](/items/the-obliviator/), so that no one remembers either. All Motherstone remembers is that Roland betrayed it, and he is put on trial for it. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
+
+From here on the Lexicon travels with the party as Lex, and its home in the Anachron makes it mobile and gives it a latent power over time. <small>(Full treatment at [The Anachron](/items/the-anachron/).)</small>
 
 ## Into Arc IV
 

@@ -24,6 +24,9 @@ tags:
 - Lexicon
 - Brightmantle
 - Arielle
+- Trial of Roland Deschain
+- Palantir
+- Zoth
 icon: fa-gears
 fields:
   campaign: Temple Holdings LLC
@@ -40,6 +43,12 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - SCTC Archives.docx
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/Over the intercom.docx
+- CANON.md 5ae (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-05-05"
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2019-06-22"
 published: '2026-09-10'
 wa:
   slug: arc-iv-E28094-the-infernal-machines-plot
@@ -54,13 +63,15 @@ wa:
 
 ## A city without its mind
 
-Motherstone is dying of its own miracle. The [Lexicon](/items/the-lexicon/) is still broken, and the city built around it cannot function:
+Motherstone is dying of its own miracle. The [Lexicon](/items/the-lexicon/) at Motherstone died in the Second Battle of Motherstone, and the city built around it cannot function:
 
 > Citizens of Motherstone had grown accustomed to a lifestyle aided by magical technology, from teaching their children, moving them around, to managing the architecture of the city itself. Now that lifestyle is in shambles, and conflict is breaking out between ethnic and class groups. The city is ripping at the seams.
 
+The arc opens with the trial of [Roland Deschain](/people/roland-deschain/). In the Second Battle, Wainwright St. Cloud mind-controlled Roland through [the Palantir](/items/the-palantir/), and Roland destroyed the Lexicon and let the Company into Motherstone. The party then threw the heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/), captured in [Roland's Cube](/items/rolands-cube/), into the [Obliviator](/items/the-obliviator/) together with the Palantir, and no one remembers either. All Motherstone remembers is that Roland betrayed it. <small>(Oral Histories: Temporal Holdings, 2019-05-25, 2019-06-22)</small>
+
 [Elistrae](/people/elistrae/), cut off from her worshippers across the universe with the Lexicon dark, falls into grief and desperation — invading the party's dreams night after night, raiding their memories for how St. Cloud broke the city and where he might be found. [Roland](/people/roland-deschain/) suffers worst: she forces him again and again through the unrememberable moment in his father's gunshop, the box St. Cloud could not open, and the murder he cannot recall. The machines, the heroes realise, are the only road left.
 
-Lex — the Lexicon, housed since the Second Battle of Motherstone in the [Anachron](/items/the-anachron/) and travelling with the party — gives the measure of what she has lost. In the record's words: "Lex explains that when he was in his fullest form, Ella would talk to him every night, asking about his construction and details of the city, hanging on to any detail about her lost love and his designs. Now that the Lexicon is broken, she is cutoff from moon worshipers all across the Universe, and she is desperate to repair it and complete Brightmantle's vision of a City of Infanta, a holy arc through the Time of Troubles." The Lexicon was built by [Brightmantle](/people/brightmantle/) and carries his personality and intelligence. <small>(Sic on "cutoff." Arc IV Part II, "Order of Awakening." In the same session Magnus has "a burgeoning congregation of Brightmantle worshipers" in the city.)</small>
+Lex — the Lexicon, built into the Arielle and its [Anachron](/items/the-anachron/) before the Second Battle of Motherstone and travelling with the party <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> — gives the measure of what she has lost. In the record's words: "Lex explains that when he was in his fullest form, Ella would talk to him every night, asking about his construction and details of the city, hanging on to any detail about her lost love and his designs. Now that the Lexicon is broken, she is cutoff from moon worshipers all across the Universe, and she is desperate to repair it and complete Brightmantle's vision of a City of Infanta, a holy arc through the Time of Troubles." The Lexicon was built by [Brightmantle](/people/brightmantle/) and carries his personality and intelligence. <small>(Sic on "cutoff." Arc IV Part II, "Order of Awakening." In the same session Magnus has "a burgeoning congregation of Brightmantle worshipers" in the city.)</small>
 
 ## The City of Doors
 
@@ -79,8 +90,10 @@ At the centre stands **St. Cloud Tower**, staffed entirely by **Dox** — the ch
 - **The Obliviator** — the engine of forgetting, never controlled, only *read*: the Company learned to ride its leylines "to transmit magic energy and information across great distances and even between the planes," and built that power into every consumer device they sell.
 - **The Lexicon** — overridden via a stolen Palantir and routed to an administrative key shaped to match Netherese designs, so it might one day be bridged to the Mammon Machine and "broadcast… into the minds of every sentient being within a few hundred feet of a compatible Company product."
 - **The Soul Syphon** — a machine to entrap souls, which the Company tried to miniaturise "to remove the souls of the Infanta and contain them inside of Perfect Moonstones."
-- **The Mammon Machine** — the Netherese vessel of the captured god of death, buried miles deep in the Anauroch.
+- **The Mammon Machine** — in the Netherese telling, the vessel of the god of death they captured; buried miles deep in the Anauroch.
 - **The Anachron** — an elemental drive that warps space into temporary portals, the heart of the Company's airships — and, the legends claim, *time itself*, though that would need "a perfect moonstone so far beyond its half life that it was twice as old as the oldest moonstone on Faerûn." The researchers called that hypothetical Phase V **Perfect Dark**. See [The Anachron](/items/the-anachron/).
+
+The Company's account is one of many tellings of where the machines came from, all clouded by obliviation and the fog of history. The Infernal Machines are parts of Zoth's craft and of [R'lyeh](/places/rlyeh/), scattered over deep time. Some know them as Netherese; after the Netherese were obliviated the machines had new owners, and so on. Only St. Cloud had anything like the full picture, and the heroes had it briefly.
 
 ### Lex and the drive
 

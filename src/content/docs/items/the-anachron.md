@@ -11,6 +11,10 @@ tags:
 - The Chronicle
 - Infernal Machines
 - Arcane Core
+- Elemental Core
+- Tudyx Cube
+- the Penteract
+- Karametra
 - Arielle
 - Brightmantle
 - Zebulon
@@ -33,7 +37,7 @@ icon: fa-hourglass-half
 fields:
   type: Infernal Machine / elemental drive / vessel of the Lexicon
   creator: Unrecorded; the Infernal Machines are older than human civilisation. Reverse-engineered by Company R&D from Netherese designs found in the Anauroch
-  owner: Held in turn by SCTC Special Projects, Wainwright St. Cloud, the Arcaneum, the heroes, and thousands of cultures across deep time
+  owner: Held in turn by SCTC Special Projects, the Netherese (hidden in the Penteract), Wainwright St. Cloud, the Arcaneum, the heroes, and thousands of cultures across deep time
   material: Eldritch machine housing a very complex moonstone crystal
   rarity: Unique
   condition: Core scrambled by St. Cloud at Starfall; sealed under volcanic magma northeast of Enkidu
@@ -49,6 +53,17 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part IX.txt
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
+- CANON.md 5ae (Oral Histories)
+- CANON.md, Oral Histories batch 4
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- "Oral Histories: Temporal Holdings, 2019-05-05"
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
+- "Oral Histories: Temporal Holdings, 2021-12-10"
+- "Oral Histories: The Inevitables, 2021-12-03"
+- "Oral Histories: The Inevitables, 2024-12-06"
 published: '2026-09-10'
 wa:
   slug: the-anachron-item
@@ -57,11 +72,11 @@ wa:
 
 **Infernal Machine · elemental drive and moonstone housing · one entity under three names · extant**
 
-*Also known as:* Lex · the Lexicon (after Motherstone) · the Chronicle (in the Netherese era) · the transplanar drive · the Arcane Core (of the derived Company product)
+*Also known as:* Lex · the Lexicon (after Motherstone) · the Chronicle (in the Netherese era) · the transplanar drive · the Arcane Core or Elemental Core (of the derived Company product)
 
-The **Anachron** is an Eldritch Machine and a part of the propulsion system of the vessel that carried **Zoth**, a cosmic creature and child of [Cthulhu](/lore/the-leviathan/), to Toril in ancient times. [Wainwright St. Cloud](/people/wainwright-st-cloud/) took it from that ship at [R'lyeh](/places/rlyeh/) in the deep past and carried it forward in time. It was recovered by the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), whose Special Projects division researched it as the basis of the **Arcane Core** that powers the Company's airships, and it was later delivered to the **Arcaneum** for chronomantic research, where Archmage Valen's mages tried for years and failed to activate it. After their raid on the Arcaneum, **Temple Holdings LLC** took the Anachron and used it to power their vessel the *Arielle*. At the Second Battle of [Motherstone](/places/motherstone/) they copied the mind of the defunct [Lexicon](/items/the-lexicon/) into it, making it a sentient superintelligence with vast predictive and magical powers, and used its time-travelling power to chase St. Cloud into the past and stop his plan to summon Cthulhu to Toril.
+The **Anachron** is an Eldritch Machine and a part of the propulsion system of the vessel that carried **Zoth**, a cosmic creature and child of [Cthulhu](/lore/the-leviathan/), to Toril in ancient times. [Wainwright St. Cloud](/people/wainwright-st-cloud/) took it from that ship at [R'lyeh](/places/rlyeh/) in the deep past, about 65 million years ago, and carried it forward in time. It was recovered by the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), whose Special Projects division researched it as the basis of the **Arcane Core** that powers the Company's airships, and it was later delivered to the **Arcaneum** for chronomantic research: the Netherese instance of the machine was hidden in [the Penteract](/places/the-penteract/) until St. Cloud stole it and gave it to Archmage **Valen**, whose mages tried for years and failed to activate it. After their raid on the Arcaneum, **Temple Holdings LLC** took the Anachron and used it to power their vessel the *Arielle*. They built Lex, the mind of the [Lexicon](/items/the-lexicon/), into the ship before the Second Battle of [Motherstone](/places/motherstone/), in which the Lexicon at Motherstone died, making the Anachron a sentient superintelligence with vast predictive and magical powers, and used its time-travelling power to chase St. Cloud into the past and stop his plan to summon Cthulhu to Toril.
 
-The machine was left in the deep past at the crash of the *Arielle* with the Lexicon inside it, and spent the ages that followed as the god and instrument of thousands of cultures in turn. In the Netherese era it is known as **the Chronicle**; by the era of Starfall it is the **Lexicon** again. The Anachron, the Lexicon and the Chronicle are the same being at three points in one life.
+The machine was left in the deep past at the crash of the *Arielle* with the Lexicon inside it, and spent the ages that followed as the god and instrument of thousands of cultures in turn. In the Netherese era it is known as **the Chronicle**; by the era of Starfall it is the **Lexicon** again. The Anachron, the Lexicon and the Chronicle are the same being at three points in one life. Three instances of the one Anachron, at different points of its loop, are present together in the Time of Troubles.
 
 ## The device
 
@@ -74,6 +89,8 @@ It is inert until an elemental enters it willingly, at which point it "springs t
 ### What the Company built out of it
 
 Company R&D "opened a propulsion lab devoted to the Anachron and devised the **Arcane Core** which powers the dozen or so Company airships that were ever built" — including the flagship the heroes captured and renamed the **Arielle**. The interplanar drive itself was never made to work.
+
+The Arcane Core and the **Elemental Core** are the same device: "Arcane Core" is the Company's name for it, and "Elemental Core" names what it does. The Arielle's specification describes "an arcane contraption called an Elemental Core. It can store (and trap) up to five elementals and use their power to operate and enhance the ship." <small>(Oral Histories: The Inevitables, 2024-12-06)</small> The ship's core traps elementals; the Anachron, a different machine, takes only willing ones.
 
 ### The cost of a jump
 
@@ -104,7 +121,7 @@ It is a **part of Zoth's ship**. The vessel of **Zoth-Ommog** — the Star Child
 
 ## How it reached the Arcaneum
 
-[Wainwright St. Cloud](/people/wainwright-st-cloud/) delivered the inert device himself. The Arcaneum's own record: "St. Cloud delivered to us a device we soon learned was the Anachron," which "was inert and St. Cloud would not tell us where he found" it, "except that it was not around here." He took an Amulet in exchange. <small>He was telling the truth. He had taken it off Zoth's ship at R'lyeh, in the deep past, and carried it forward — see above.</small> <small>(Sic throughout; Arc III, Part VIII Handouts.)</small>
+[Wainwright St. Cloud](/people/wainwright-st-cloud/) delivered the inert device himself. The Arcaneum's own record: "St. Cloud delivered to us a device we soon learned was the Anachron," which "was inert and St. Cloud would not tell us where he found" it, "except that it was not around here." He took an Amulet in exchange. <small>(Sic throughout; Arc III, Part VIII Handouts.)</small> The instance he delivered was the Netherese one, which had been hidden in the Penteract until he stole it and gave it to Valen. It is the party's own Anachron at an earlier point of its loop, before they take it to the past. <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>
 
 The mage **Celion**, speaking to [Kara](/people/kara/) from a clone suspended in liquid inside Archmage Valen's sanctum, gave the reason it was a gift:
 
@@ -122,11 +139,11 @@ The Lexicon was built by **Brightmantle** — the dwarven Infanta, the second In
 
 In that form it was a mind grown inside the world's largest perfect moonstone, fed by diadems worn by teams in the field and by the Gate Ring's abyssal vortex, and it ran the city's power, water, weather, architecture, defences and schooling. It was already broken when the party found it, because a single date was missing from it — the date of the Betrayal. The full account of that installation is at [The Lexicon](/items/the-lexicon/).
 
-## The Second Battle of Motherstone — the transfer
+## The Arielle and the Second Battle of Motherstone — the transfer
 
-The original Lexicon was shut down by [Roland](/people/roland-deschain/) himself, under possession by the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/), and severely damaged in the battle Wainwright launched afterwards. <small>(The session text calls Carlysle in robot form simply "St. Cloud".)</small> [Roland Deschain](/people/roland-deschain/) and [Brother Magnus](/people/brother-magnus/) connected the Anachron — itself a very complex eldritch machine containing a very complex moonstone crystal — and duplicated the Lexicon's code, moving the Lexicon out of the mountain and into the Anachron.
+Lex was built into the Arielle, whose drive is the Anachron — itself a very complex eldritch machine containing a very complex moonstone crystal — before the Second Battle of Motherstone. <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> After the party fought the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/), [Roland Deschain](/people/roland-deschain/) touched [the Palantir](/items/the-palantir/) and Wainwright St. Cloud mind-controlled him through it; Roland destroyed the Lexicon and let the Company into Motherstone. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> About three rounds into the battle Lex transferred himself to the ship and lost all connection to the Motherstone Lexicon, which is dead. He does not remember transferring. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small>
 
-Two things followed from that, one of them not understood at the time:
+Two things followed from the move into the Anachron, one of them not understood at the time:
 
 - **Mobility.** The mind of a city became an object that could be carried, installed in a ship, and lost.
 - **A latent power over time.** The Lexicon's store of information was now housed in the one device whose legends claimed it could warp time — and the store of information was the missing requirement.
@@ -147,6 +164,12 @@ Two capabilities are recorded for the Anachron in that configuration, and both a
 - "The box/moonstone will allow them use the Anachron and go to the Time of Troubles/Netheril/Motherstone."
 
 <small>Arc V, [Starfall](/history/arc-v-starfall/), Parts II through IV. The second line is how the party reaches the Netherese era at all, and therefore how they reach the Chronicle.</small>
+
+## The Tudyx Cubes and the Perfect Dark moonstone
+
+The box that opened the way to the Time of Troubles came from two [Tudyx Cubes](/items/the-tudyx-cube/), puzzle boxes. In the deep past [Karametra](/people/karametra/), seeing the Egg coming, the true Evening Star, knew that St. Cloud would someday go back on his promise, and left him. Roland shot him, and the party took his Tudyx Cube. It was empty. They placed a perfect moonstone inside it and closed the lid.
+
+They then took the second Tudyx Cube, the box they had stolen from St. Cloud's quarters on the Arielle, which they had been unable to open. Now it opened, and a **Perfect Dark** moonstone came out of it, having been inside that box for a presumed 65 million years. Perfect Dark was the fifth phase the Company had named and judged impossible, and the Anachron needs a Perfect Dark moonstone to travel in time. <small>(Oral Histories: The Inevitables, 2021-12-03)</small>
 
 ## Starfall — scrambled, and left behind
 
@@ -186,6 +209,14 @@ The terminal in the Seat of Cypher answers a user with a lockdown and an error, 
 
 The Orcs who served the Chronicle appear again at the very end, stepping out of the land of the Dead among the allies the Raven Queen brings to the final battle. <small>(End of the Infanta, notes for a final encounter.)</small>
 
+## Three Anachrons in the Time of Troubles
+
+The Anachron exists at three points of its own loop at once, and all three instances are present in the Time of Troubles. <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>
+
+- **The Netherese Anachron** is the first. It was hidden in the Penteract until Wainwright St. Cloud stole it and gave it to Valen. It is the party's Anachron before they take it to the past.
+- **Anachron "2"** is the one Zanzibar and [Blackstaff](/people/khelben-arunsun/) find and take back. Zanzibar used it to come back, with a dark crystal provided by Blackstaff.
+- **Anachron "3"** is the party's own, the instance after Zanzibar takes it back and it loops a third time. The party also hold one dark crystal.
+
 ## Why it forgot what it could do
 
 The Lexicon does not know, for most of its life, that it can travel in time — nor that the Anachron makes time travel possible at all. Both facts are removed from the world by **Cypher** in the finale against [Cthulhu](/lore/the-leviathan/), when the Infantaverse quest itself is obliviated from memory. The machine loses its own capability along with everyone else's knowledge of it, and does not recover it for millennia.
@@ -202,7 +233,7 @@ The forgetting has consequences at the far end of the timeline. By the era of [S
 |---|---|---|---|
 | Before the Betrayal | The Lexicon | The heart of Motherstone | Brightmantle, then Calix, then nobody |
 | Arc II–III | The Lexicon, broken | Motherstone | The insurgents, after the revolution |
-| Second Battle of Motherstone | Lex, in the Anachron | Aboard the Arielle | The heroes |
+| Second Battle of Motherstone | Lex, in the Anachron | Aboard the Arielle; the Motherstone Lexicon dead | The heroes |
 | The deep past onward | Unrecorded, many | Wherever it was carried | Thousands of cultures in turn |
 | Netheril's era | The Chronicle | A volcano northeast of Enkidu | The orcish artificers; then nobody |
 | Arc VI | The Chronicle | The same volcano | Contested; Netherese mages on site |

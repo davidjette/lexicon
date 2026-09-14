@@ -1,6 +1,6 @@
 ---
 title: The Lexicon
-description: The mind of Motherstone, built by Brightmantle inside the world's largest perfect moonstone and carrying his personality. Later moved into the Anachron.
+description: The mind of Motherstone, built by Brightmantle inside the world's largest perfect moonstone and carrying his personality. Later built into the Arielle.
 type: item
 kind: items
 tags:
@@ -28,6 +28,9 @@ tags:
 - Ayror
 - Flex Gimble
 - Seat of the Lexicon
+- Arielle
+- Wainwright St. Cloud
+- Roland's Cube
 icon: fa-brain
 fields:
   type: Infernal Machine / artificial mind
@@ -35,8 +38,8 @@ fields:
   owner: Recovered by the insurgents of Motherstone
   material: The world's largest perfect moonstone
   rarity: Unique
-  condition: Broken since the fall of the city; a diminished Lex persists
-  status: Moved into the Anachron at the Second Battle of Motherstone; see The Anachron
+  condition: The Motherstone installation is dead since the Second Battle of Motherstone; a diminished Lex persists aboard the Arielle
+  status: Lex built into the Arielle before the Second Battle of Motherstone; see The Anachron
 sources:
 - Desktop/infantaverse-wiki/src/content/docs/items/the-lexicon.mdx
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part III.txt
@@ -48,6 +51,11 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3066, IMG_3069, IMG_3070)
 - sources/dave/2026-09-13-dead-mans-hand-company.md
 - CANON.md 5ab
+- CANON.md 5ae (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-05-05"
+- "Oral Histories: Temporal Holdings, 2019-05-25"
+- "Oral Histories: Temporal Holdings, 2019-05-28"
 published: '2026-09-10'
 wa:
   slug: the-lexicon-item
@@ -66,7 +74,7 @@ gallery:
 
 <small>— the Lexicon's Ally Card. Sic on "Lexicons". The creator is [Brightmantle](/people/brightmantle/). It is the only card in the set of 41 with **no black action** — there is no way to sacrifice it.</small>
 
-The **Lexicon** is the mind of [Motherstone](/places/motherstone/) — "a virtual soul constructed from the heart of the world's largest **perfect [moonstone](/lore/moonstone/)**" — a crystal that, in Crestor's words, "can stand in for the mind itself." It was built by [Stone](/people/stone-infanta-of-discovery/), the [Brightmantle](/people/brightmantle/) Infanta, together with [Calix](/people/calix-the-betrayer/), and it carries Brightmantle's personality and intelligence. It ran the city's power, water, weather, architecture, defences and schooling until a fatal error left it attacking everything around it; it was cured by the party, scrammed under possession by Carlysle St. Cloud's mechanical heart, damaged in the Second Battle of Motherstone, and finally copied out of the mountain into [the Anachron](/items/the-anachron/). The Lexicon and the Anachron are the same being from that point on.
+The **Lexicon** is the mind of [Motherstone](/places/motherstone/) — "a virtual soul constructed from the heart of the world's largest **perfect [moonstone](/lore/moonstone/)**" — a crystal that, in Crestor's words, "can stand in for the mind itself." It was built by [Stone](/people/stone-infanta-of-discovery/), the [Brightmantle](/people/brightmantle/) Infanta, together with [Calix](/people/calix-the-betrayer/), and it carries Brightmantle's personality and intelligence. It ran the city's power, water, weather, architecture, defences and schooling until a fatal error left it attacking everything around it; it was cured by the party, and Lex was built into their airship, the **Arielle**, whose drive is [the Anachron](/items/the-anachron/). In the Second Battle of Motherstone [Roland Deschain](/people/roland-deschain/), mind-controlled by [Wainwright St. Cloud](/people/wainwright-st-cloud/) through [the Palantir](/items/the-palantir/), destroyed the Lexicon and let the Company into the city; Lex transferred himself to the ship and lost all connection to the Motherstone Lexicon, which is dead. The Lex aboard the Arielle and the Anachron are the same being from that point on.
 
 <small>The Lexicon described below is the installation at Motherstone. The full life of the entity — Lexicon, Anachron, and later the Chronicle — is at [The Anachron](/items/the-anachron/).</small>
 
@@ -74,7 +82,7 @@ The **Lexicon** is the mind of [Motherstone](/places/motherstone/) — "a virtua
 
 It was built by [Brightmantle](/people/brightmantle/) — the dwarven Infanta, the lover of [Elistrae](/people/elistrae/), and in the Company's phrase "the dwarven king who built Motherstone" — to run the heart of the city, using the [Obliviator](/items/the-obliviator/) and the great crystals in the mountain. It carries **his personality and intelligence**. <small>(The Company reached the same identification independently: "The Company believes Magnus' patron god Brightmantle could have been the dwarven king who built Motherstone. Review of cursed historical record confirms this." Arc IV, SCTC Archives.)</small>
 
-More exactly, the Lexicon was built by [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, together with [Calix](/people/calix-the-betrayer/), from Netherese magic and technology.
+More exactly, the Lexicon was built by [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, together with [Calix](/people/calix-the-betrayer/), drawing on Netherese magic and technology.
 
 Elistrae's own use of the machine ran through him. Lex's account: "when he was in his fullest form, Ella would talk to him every night, asking about his construction and details of the city, hanging on to any detail about her lost love and his designs." <small>(Arc IV Part II.)</small>
 
@@ -107,13 +115,11 @@ The [Company](/organizations/sword-coast-trading-company/) spent years failing t
 
 ## What became of it
 
-The Lexicon was **scrammed** — shut down from its own console, by a man who knew how it worked.
+The mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) reached the **Seat of the Lexicon**, at the underground focal point of Motherstone's largest crystal, while the party was away in Cormyr. Wearing a body taken from the automaton Centurions stored nearby, it set out to corrupt and destroy the Lexicon and so lower the city's defences, since the Lexicon powered and managed the great **Mythal**. The party destroyed that body. Then Roland Deschain, an artificer who had helped build the machine with [Magnus](/people/brother-magnus/), touched the Palantir, and Wainwright St. Cloud mind-controlled him through it. Roland destroyed the Lexicon and let the Company into Motherstone. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
 
-The mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) reached the **Seat of the Lexicon**, at the underground focal point of Motherstone's largest crystal, while the party was away in Cormyr. Wearing a body taken from the automaton Centurions stored nearby, it set out to corrupt and destroy the Lexicon and so lower the city's defences, since the Lexicon powered and managed the great **Mythal**. The party destroyed that body. When [Roland Deschain](/people/roland-deschain/) moved to destroy the heart itself, **the heart possessed him** — and because Roland is an artificer who had helped build the machine with [Magnus](/people/brother-magnus/), the possession used his own knowledge to shut the entire Lexicon program down, almost for good.
+Wainwright's ships entered the city's airspace, and the **Second Battle of Motherstone** followed. The party and Motherstone won it. Lex had already been built into the party's airship, the Arielle, which the [Anachron](/items/the-anachron/) drives. <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> About three rounds into the battle he transferred himself to the ship, and he lost all connection to the Motherstone Lexicon, which is dead. He does not remember transferring. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> The move gave the mind mobility and a latent power over time.
 
-He threw off the possession too late. [Wainwright St. Cloud](/people/wainwright-st-cloud/) jumped his ships into the city's airspace, and the **Second Battle of Motherstone** followed. The party and Motherstone won it. The Lexicon was severely damaged.
-
-Afterwards Roland and Magnus connected the [Anachron](/items/the-anachron/) and duplicated the Lexicon's code into it, moving the mind out of the mountain and into a device that could be carried. That gave it mobility and a latent power over time. It is the last thing recorded of the Lexicon as an installation.
+The party captured Carlysle's heart in [Roland's Cube](/items/rolands-cube/) and threw it, with the Palantir, into the [Obliviator](/items/the-obliviator/), so that no one remembers either. All Motherstone remembers is that Roland betrayed it, and he was put on trial for it. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
 
 <small>(The session text for Arc III Part XII calls Carlysle-in-robot-form simply "St. Cloud", with no forename. The surviving session file for the Second Battle of Motherstone contains only stat blocks.)</small>
 
@@ -127,6 +133,8 @@ In [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages o
 
 By the era of [Starfall: The Next Generation](/lore/starfall-the-next-generation/) the Lexicon rules a **Sovereignty of Realms** spanning Toril, Eberron, Oerth and Krynn, and in that campaign it **betrays the mortal races** — "obsessed with trying to remember the events of the Infanta war," which the Oblivia took from it. <small>(Full treatment at [The Anachron](/items/the-anachron/).)</small>
 
+The origin of the Infernal Machines is told many ways, because of obliviation and the fog of history. They are parts of Zoth's craft and of [R'lyeh](/places/rlyeh/), scattered over deep time; some know them as Netherese, and after the Netherese were obliviated the machines had new owners. Only Wainwright St. Cloud had anything like the full picture, and the party had it briefly. The Lexicon wishes it could know the full story, and that wish drives it insane.
+
 ## Status
 
-Recovered by the insurgents after the revolution, and broken. A city whose people had "grown accustomed to a lifestyle aided by magical technology, from teaching their children, moving them around, to managing the architecture of the city itself" fell into "conflict … between ethnic and class groups" without it — "the city is ripping at the seams" — and Elistrae was "cutoff from moon worshipers all across the universe." A diminished **Lex** still speaks, recalling "when he was in his fullest form," and later helps plan the assault on Netheril.
+Recovered by the insurgents after the revolution, and broken; the Motherstone installation is dead since the Second Battle of Motherstone. A city whose people had "grown accustomed to a lifestyle aided by magical technology, from teaching their children, moving them around, to managing the architecture of the city itself" fell into "conflict … between ethnic and class groups" without it — "the city is ripping at the seams" — and Elistrae was "cutoff from moon worshipers all across the universe." A diminished **Lex** still speaks aboard the Arielle, recalling "when he was in his fullest form," and later helps plan the assault on Netheril.
