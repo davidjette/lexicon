@@ -30,6 +30,7 @@ fields:
   status: Canon; record not yet recovered
   arcs: Unknown
 sources:
+- sources/dave/2026-09-14-starfall-necis.md
 - Desktop/infantaverse-wiki/src/content/docs/campaigns/starfall-tng.md
 - user-directed (named as canon by the creator)
 - worldanvil/registry.tsv (four existing 15-starfall rows)
@@ -39,6 +40,10 @@ published: '2026-09-10'
 wa:
   slug: starfall3A-the-next-generation-article
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+image:
+  src: /images/gallery/2025-02-08-01.webp
+  alt: The remnants of Necis
+  caption: "A TaleSpire scene in space: the destroyed remnants of the planet Necis, where the Time Tombs stood and the Shrike originated, and where the climax of Starfall: The Next Generation took place at the end of the Light of Xaryxis and Star Song story."
 ---
 
 **Campaign · The far end of the chronology · Record partly recovered**
