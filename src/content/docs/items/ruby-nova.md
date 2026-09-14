@@ -1,26 +1,28 @@
 ---
 title: The Ruby Nova
 description: Locke Pierce’s weaponised recreation of the Mourning, used once over the northern Mournlands.
+tags:
+  - Ruby Nova
+  - Locke Pierce
+  - The Hundreds
+  - Mt. Silicon
+  - the Mourning
+  - Mournland
+  - warforged
+  - Cyrean portal
+  - superweapon
+  - Korth Ep 3
+image:
+  src: /images/uploads/the-ruby-nova-mu0t6tnl.webp
 type: item
 kind: items
-tags:
-- Ruby Nova
-- Locke Pierce
-- The Hundreds
-- Mt. Silicon
-- the Mourning
-- Mournland
-- warforged
-- Cyrean portal
-- superweapon
-- Korth Ep 3
 icon: fa-burst
 fields:
   residence: Mt. Silicon
 sources:
-- sources/site/korth-episode-summaries.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/key-figures.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/key-figures.txt
 published: '2026-09-10'
 wa:
   slug: the-ruby-nova-item
