@@ -32,6 +32,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part IV.txt
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - CANON.md 5f
 - CANON.md 5ae (Oral Histories)
 - CANON.md, Oral Histories batch 4
@@ -79,7 +80,7 @@ The dragons had already gone to war under the sea. Dave: "the dragons went into 
 
 The party's first online session, on 21 March 2020, turned on whether to go to Dragon Mountain. JL, who played Zanzibar's twin Zeb in that arc, proposed "seeking out the good dragon king" or "tricking the evil dragon queen somehow into thinking we are hot shit", and then: "We need to roll into Dragon Mt. like we own the place. We aren’t here to make a deal, we are here to dictate terms." Dave answered, "you guys ARE time travelers with a message of certain doom", and posted a picture captioned "<3 tiamat". JL: "These maniacs only respect authority. Obey us or perish." Roland's player added "Dref should pee on them". <small>(Oral Histories: Temporal Holdings, 2020-03-21)</small>
 
-The Short King on [the Moon](/places/the-moon/) told the party how his own party had split on arriving in the past: Roland, Revan, Stump and Zanzibar went "to steal the power to move the moon into the path of the Leviathan and deflect it back into space", and Magnus, Cypher, Yoshi and Stoth went to the Aboleth city. "None of them ever returned." <small>(Arc V, Starfall Parts II–IV.)</small>
+The Short King on [the Moon](/places/the-moon/) told the party how his own party had split on arriving in the past: Roland, Revan, Stump and Zanzibar went "to steal the power to move the moon into the path of the Leviathan and deflect it back into space", and Magnus, Cypher, Yoshi and Stoth went to the Aboleth city. "None of them ever returned." <small>(Arc V, Starfall Parts II–IV.)</small> The party's own [Stoth](/people/stoth-youngglade/) came back from the deep past. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small>
 
 After [Roland](/people/roland-deschain/) shot the Traveler, Dave, answering for the corpse, gave the party the line "“She went to Tiamat to move the moon”". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> He set out what they knew: "Others have gone to Dragon Mtn to somehow move the moon in its way and crack the egg before it reaches the earth." <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> A week later: "You know "Brownsleeves' party split up to go to Rlyeh and Dragon Mtn, and that the dead "St. Cloud's Kara" went to Dragon Mtn as well." <small>(Oral Histories: Temporal Holdings, 2020-05-11)</small>
 

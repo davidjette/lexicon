@@ -34,6 +34,7 @@ sources:
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - CANON.md 5r
 - CANON.md 5ac
 - CANON.md 5ah
@@ -63,7 +64,7 @@ published: '2026-09-14'
 
 *Also known as:* the Zanzibars · the line of Zanzibars · the Zanzibar line
 
-**House Zanzibar** is the dynasty descended from [Zanzibar](/people/zanzibar/), Zanzibar the Elder, King of Punis and of Cormyr and First Emperor of Faerûn. It was the royal house of the Principality of [Punis](/places/punis/) and Paenis, where Zanzibar was crowned king after the Arcaneum arc and his twin, [Zebediah](/people/zebediah/), was disinherited. After [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) he married Princess [Roseanne](/people/roseanne-danzig/) of Cormyr and was crowned king of Cormyr, and his child Zara was an Infanta. Immediately after the Ages of the Infanta he declared himself Emperor of Faerûn and founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), with his capital at [Suzail](/places/suzail/), and every emperor after him has been called "the Zanzibar". The god **Zarus** blessed the bloodline to rule forever. For five hundred years the line held out against a government led by [the Lexicon](/items/the-lexicon/). In the reign of [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), son of [Zanzibar the Penitent](/people/zanzibar-the-penitent/), four claimants rose against the throne in [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), and rival empires later claimed to be the true Zanzibar.
+**House Zanzibar** is the dynasty descended from [Zanzibar](/people/zanzibar/), Zanzibar the Elder, King of Punis and of Cormyr and First Emperor of Faerûn. It was the royal house of the Principality of [Punis](/places/punis/) and Paenis, where Zanzibar was crowned king after the Arcaneum arc and his twin, [Zebediah](/people/zebediah/), was disinherited. After [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) he married Princess [Roseanne](/people/roseanne-danzig/) of Cormyr and was crowned king of Cormyr, and their child Zara was an Infanta. Immediately after the Ages of the Infanta he declared himself Emperor of Faerûn and founded [the Cormyrean Empire](/organizations/the-cormyrean-empire/), with his capital at [Suzail](/places/suzail/), and every emperor after him has been called "the Zanzibar". The god **Zarus** blessed the bloodline to rule forever. For five hundred years the line held out against a government led by [the Lexicon](/items/the-lexicon/). In the reign of [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), son of [Zanzibar the Penitent](/people/zanzibar-the-penitent/), four claimants rose against the throne in [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), and rival empires later claimed to be the true Zanzibar.
 
 ## The royal house of Punis
 
@@ -75,7 +76,11 @@ After his exile at the hands of the Arcaneum, when Valen was defeated, Zanzibar 
 
 King Glenn Danzig of Cormyr, turned into a snail and turned back, appreciated Zanzibar "rooting out the evil of Valen and his tainting by the Leviathan" and offered him Roseanne's hand. After the Battle of the River Lis Zanzibar married Princess Roseanne, and when the king fell ill Zanzibar was crowned king of Cormyr after the wedding. <small>(Dave, sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md)</small>
 
-**Zara** is Zanzibar's child. In September 2019, listing the Infanta, Dave wrote "Zaria is an embryo". <small>(Oral Histories: Temporal Holdings, 2019-09-19)</small> Of the Infanta on the field at the River Lis: "Tico and Mora at a minimum, likely Zara in utero". <small>(Oral Histories: Battle of River Lis, 2019-10-21)</small> Zanzibar's player planned to "convince my preggo girlfriend to come to an almost unwinnable battle". <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> In December 2022 Dave wrote: "The main issue with Zan coming back is why would he leave his own infanta and CHILD Zara to save June and infanta he’s never met". <small>(Oral Histories: The Inevitables, 2022-12-24)</small> The spelling is Zara; Zaria is an alias.
+**Zara** is the child of Zanzibar and Roseanne. In September 2019, listing the Infanta, Dave wrote "Zaria is an embryo". <small>(Oral Histories: Temporal Holdings, 2019-09-19)</small> Of the Infanta on the field at the River Lis: "Tico and Mora at a minimum, likely Zara in utero". <small>(Oral Histories: Battle of River Lis, 2019-10-21)</small> Before the battle JL, who played Zanzibar, planned to bring Roseanne, writing that he would "convince my preggo girlfriend to come to an almost unwinnable battle". <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> In December 2022 Dave wrote: "The main issue with Zan coming back is why would he leave his own infanta and CHILD Zara to save June and infanta he’s never met". <small>(Oral Histories: The Inevitables, 2022-12-24)</small> The spelling is Zara; Zaria is an alias.
+
+## Zanzibar the Elder
+
+"Zanzibar the Elder" is a relative title: it means the elder Zanzibar at any given time. In the Age of the Infanta it named the king of Punis, the father of the player character Zanzibar, and [Maximillien](/people/maximillien/)'s character sheet records that he "was knighted by Zanzibar the Elder". The title later stuck to the player character, and the Zanzibars after him took new epithets, such as the Penitent and the Melancholy. Dave: "zanzibar the elder refers to the elder zanzibar at any given time, until it sticks on the PC and future zanzibars call themselves by new epithets". <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small>
 
 ## The first Emperor
 
@@ -139,7 +144,7 @@ The Spelljammer of Starfall is [the SSJ Zanzibar](/items/the-ssj-zanzibar/), and
 - **Roseanne** — Princess of Cormyr, his wife.
 - **Zebediah** — his twin, disinherited.
 - **Seppy** — his brother, named in the letter that announced their father's death.
-- **Zara** — his child, an Infanta.
+- **Zara** — his child with Roseanne, an Infanta.
 - **Zanzibar the Penitent** — a later emperor, father of William.
 - **Zanzibar William the Melancholy** — Emperor at the beginning of the War of the Five Zanzibars.
 - **Princess Zythara** — William's cousin, the Witch Queen of Myth Drannor.

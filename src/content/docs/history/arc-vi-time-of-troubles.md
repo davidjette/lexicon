@@ -73,6 +73,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c17-c21.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2019-05-05"
 - "Oral Histories: Temporal Holdings, 2019-05-28"
 - "Oral Histories: Temporal Holdings, 2020-07-25"
@@ -124,7 +125,7 @@ wa:
 
 ## A wish in time
 
-Cornered by the forces of **Talona**, [Kara](/people/kara/) spends a Wish — that they *had* moved [the Moon](/places/the-moon/) in the past — and the act rewrites reality around them. The citadel transforms; the walls fill with **[Pim](/people/pim/)'s** chronicle of a history in which the deflection succeeded; the God of Medicine becomes an ally instead of an enemy. In a world remade by a single sentence, the party resolves to gather allies for the war to come, beginning with [Brightmantle](/people/brightmantle/) — and are drawn into the oldest legend of the age. The Wish was fulfilled when the party went back to the deep past a second time to help [Karametra](/people/karametra/) move the Moon, told in [Arc VII](/history/arc-vii-leviathan/).
+Cornered by the forces of **Talona**, [Kara](/people/kara/) spends a Wish — that they *had* moved [the Moon](/places/the-moon/) in the past — and the act rewrites reality around them. The citadel transforms; the walls fill with **[Pim](/people/pim/)'s** chronicle of a history in which the deflection succeeded; the God of Medicine becomes an ally instead of an enemy. In a world remade by a single sentence, the party resolves to gather allies for the war to come, beginning with [Brightmantle](/people/brightmantle/) — and are drawn into the oldest legend of the age. This 2020 Wish is a different Wish from the one Kara cast on arriving in Antiquity in December 2022, the moon Wish that the party fulfilled when they went back to the deep past a second time to help [Karametra](/people/karametra/) move the Moon, told in [Arc VII](/history/arc-vii-leviathan/).
 
 The era in which the party found itself held the building of Motherstone by Brightmantle, [Elistrae](/people/elistrae/) and the Gallidean elves; [Tylerjinex](/people/tylerjinex/) and the Dragonknights; the end of the High Elves of Avalon and the beginning of the age of men with the Pendragon dynasty; [Blackstaff](/people/khelben-arunsun/); "the forgotten Netherese including the Twin Queens"; "Sigil ruled by the Banefae"; and "the proto origins of Cormyr and the Dale Reckoning". <small>(Oral Histories: Temporal Holdings, 2020-07-25)</small>
 

@@ -58,6 +58,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-10-23"
 - "Oral Histories: Temporal Holdings, 2021-12-04"
 - "Oral Histories: The Inevitables, 2021-08-21"
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2017-08-31"
 - "Oral Histories: Temporal Holdings, 2018-06-04"
 - "Oral Histories: Temporal Holdings, 2018-06-26"
@@ -157,7 +158,7 @@ In the session of 2022-04-09 Drefan brought [Eloise](/people/stonecypher/) back 
 
 After the party escaped a trap set by [Asmodeus](/people/asmodeus/), Dave reported that "Drefan made out with Elistrae". Adam, who played Drefan, wrote of [Elistrae](/people/elistrae/): "I’ve waited 400 years for someone like her- what’s another 3?" <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
 
-In Dave's epilogue after the finale, "a populist revolution" follows, in which Drefan leads "an ecoterrorist group to revive the leviathan and return the world to nature". <small>(Oral Histories: Temporal Holdings, 2023-10-16)</small>
+In the joking epilogue Dave posted two days after the finale, "a populist revolution" follows, in which Drefan leads "an ecoterrorist group to revive the leviathan and return the world to nature". <small>(Oral Histories: Temporal Holdings, 2023-10-16)</small>
 
 ## Right now
 

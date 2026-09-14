@@ -65,6 +65,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2017-09-07"
 - "Oral Histories: Temporal Holdings, 2017-10-02"
 - "Oral Histories: Temporal Holdings, 2018-10-02"
@@ -123,9 +124,9 @@ The elf-queen's widower **Peter Glans** — who is the copper dragon Tylerjynex 
 
 ## Signature capability — the Wish
 
-The arc the heroes call **Kara's Wish** turns on a single sentence. Cornered by the forces of **Talona** in [Arc VI](/history/arc-vi-time-of-troubles/), Kara spends a *Wish* — that they *had* moved the Moon in the past — and reality reshapes itself around the party. The citadel transforms. The walls fill with [Pim](/people/pim/)'s chronicle of a history in which the deflection succeeded. The God of Medicine becomes an ally instead of an enemy. The party later fulfilled the Wish when they returned to the deep past a second time and helped [Karametra](/people/karametra/) move the moon.
+The arc the heroes call **Kara's Wish** turns on a single sentence. Cornered by the forces of **Talona** in [Arc VI](/history/arc-vi-time-of-troubles/), Kara spends a *Wish* — that they *had* moved the Moon in the past — and reality reshapes itself around the party. The citadel transforms. The walls fill with [Pim](/people/pim/)'s chronicle of a history in which the deflection succeeded. The God of Medicine becomes an ally instead of an enemy. <small>(Time of Troubles, Part I, 2020-07-25)</small>
 
-Kara also cast Wish in the session of 3 December 2022, which left a Magnus simulacrum in a time temple beneath the sea. Dave: "Also Kara cast Wish. Big magics". <small>(Oral Histories: Temporal Holdings, 2022-12-04)</small>
+Kara cast a different Wish on arriving in Antiquity, in the session of 3 December 2022, the session that left a Magnus simulacrum in a time temple beneath the sea: the Wish that the moon had been moved. Dave: "Also Kara cast Wish. Big magics". <small>(Oral Histories: Temporal Holdings, 2022-12-04)</small> The party fulfilled that Wish when they returned to the deep past a second time and helped [Karametra](/people/karametra/) move the moon.
 
 ## Beliefs
 

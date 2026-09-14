@@ -35,6 +35,7 @@ sources:
 - sources/dave/2026-09-14-oral-histories-cast.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - CANON.md 5f
 - CANON.md 5s
 - CANON.md 5ae (Oral Histories)
@@ -50,6 +51,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2022-11-06"
 - "Oral Histories: Temporal Holdings, 2022-11-09"
 - "Oral Histories: Temporal Holdings, 2022-12-03"
+- "Oral Histories: Temporal Holdings, 2022-12-04"
 - "Oral Histories: Temporal Holdings, 2023-01-13"
 - "Oral Histories: Temporal Holdings, 2023-01-14"
 - "Oral Histories: Temporal Holdings, 2023-01-15"
@@ -89,7 +91,7 @@ Everyone but [Drefan](/people/drefan/), and to a lesser extent [Revan](/people/r
 
 ## The Short King
 
-**Brownsleeves**, the Short King, has ruled a small portion of the Moon since his arrival, and spends his time teaching his subjects the basics of science and good living that he can remember. When he saw the party he wept, because he had seen them all die. His own party had split when they arrived in the past: Roland, Revan, Stump and Zanzibar went "to steal the power to move the moon into the path of the Leviathan and deflect it back into space"; Magnus, Cypher, Yoshi and Stoth went to find the Aboleth city and stop St. Cloud; Drefan and Brownsleeves came to warn the moon people to relocate. When Drefan saw what would be destroyed he refused, and left to stop the others. "None of them ever returned." Brownsleeves stayed. <small>(Arc V, Starfall Parts II–IV.)</small> Dave summed up what the party knew: "Brownsleeves' party split up to go to Rlyeh and Dragon Mtn". <small>(Oral Histories: Temporal Holdings, 2020-05-11)</small>
+**Brownsleeves**, the Short King, has ruled a small portion of the Moon since his arrival, and spends his time teaching his subjects the basics of science and good living that he can remember. When he saw the party he wept, because he had seen them all die. His own party had split when they arrived in the past: Roland, Revan, Stump and Zanzibar went "to steal the power to move the moon into the path of the Leviathan and deflect it back into space"; Magnus, Cypher, Yoshi and Stoth went to find the Aboleth city and stop St. Cloud; Drefan and Brownsleeves came to warn the moon people to relocate. When Drefan saw what would be destroyed he refused, and left to stop the others. "None of them ever returned." Brownsleeves stayed. <small>(Arc V, Starfall Parts II–IV.)</small> The party's own [Stoth](/people/stoth-youngglade/) came back from the deep past. Dave summed up what the party knew: "Brownsleeves' party split up to go to Rlyeh and Dragon Mtn". <small>(Oral Histories: Temporal Holdings, 2020-05-11)</small>
 
 The Short King is Brownsleeves from another loop: "Technically this isn’t Brownsleeves it’s Brownsleevesmetra or some other loop." In his reality he survived the *Evening Star*, and "Drefan and Brownsleeves see the paradise of the moon and change their minds". <small>(Oral Histories: The Inevitables, 2023-01-15)</small> That Drefan is **Drefanmetra**, [the Waning One](/people/the-waning-one/), who vowed to stop the Moon being moved, "saving the home of the elves and dooming Toril on its own", failed, and went forward in time to become the Waning One. <small>(Dave, sources/dave/2026-09-14-oral-histories-cast.md)</small>
 
@@ -107,7 +109,7 @@ The man in the shack was the Traveler, a [Wainwright St. Cloud](/people/wainwrig
 
 The Banefae had a plan of their own, to "unite the bane blades into the Fatherstone and use it to trap the power of the Netherese and destroy all mortal souls in a rite to undo time and restore the Moon". <small>(Oral Histories: The Inevitables, 2021-08-21)</small>
 
-On arriving in Antiquity [Kara](/people/kara/) cast a Wish that the Moon had been moved (see [Arc VI](/history/arc-vi-time-of-troubles/)). Dave's quest board for the deep past read "Moon, Rescue the elves" and "Dragon Mountain, help Karametra and bring Tiamat into the team, stop the dragon war and lead them into space". <small>(Oral Histories: The Inevitables, 2021-12-04)</small> In the final arc the party came back to the deep past a second time to fulfil the Wish. Karametra seduced Bahamut and had the dragons build a platinum temple as the spell component for **Move Planet**, and while she cast it the party fought a tarrasque, some dragons and then Tiamat herself, and succeeded. <small>(Dave, sources/dave/2026-09-14-ages-rulings-a1-a30.md)</small> The party went on to the Moon a second time, where the Short King, now a warlock of the Waning One, joined them. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small> Dave: "If you had gone to the moon first he would have demanded you not to move the moon and he would have stowed away and sabotaged your ship to prevent it". <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
+On arriving in Antiquity [Kara](/people/kara/) cast a Wish that the Moon had been moved, in the session of 3 December 2022 <small>(Oral Histories: Temporal Holdings, 2022-12-04)</small>. It is a different Wish from the one she cast in the Time of Troubles in 2020 (see [Arc VI](/history/arc-vi-time-of-troubles/)). Dave's quest board for the deep past read "Moon, Rescue the elves" and "Dragon Mountain, help Karametra and bring Tiamat into the team, stop the dragon war and lead them into space". <small>(Oral Histories: The Inevitables, 2021-12-04)</small> In the final arc the party came back to the deep past a second time to fulfil the Wish. Karametra seduced Bahamut and had the dragons build a platinum temple as the spell component for **Move Planet**, and while she cast it the party fought a tarrasque, some dragons and then Tiamat herself, and succeeded. <small>(Dave, sources/dave/2026-09-14-ages-rulings-a1-a30.md)</small> The party went on to the Moon a second time, where the Short King, now a warlock of the Waning One, joined them. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small> Dave: "If you had gone to the moon first he would have demanded you not to move the moon and he would have stowed away and sabotaged your ship to prevent it". <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
 
 ## The moon people saved
 

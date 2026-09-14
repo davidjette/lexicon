@@ -22,7 +22,7 @@ fields:
   ggmtitle: Princess of Cormyr; styled Princess of Paenis; heir of King Glenn Danzig
   parents: King Glenn Danzig of Cormyr
   spouse: Zanzibar
-  children: Unknown
+  children: Zara, with Zanzibar
   birthplace: Unknown
   residence: Castle Danzig, Suzail
   status: Unknown
@@ -32,6 +32,7 @@ sources:
 - CANON.md 5aj (Zanzibar, King of Punis)
 - CANON.md 5ai (Oral Histories), C30
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2019-01-06"
 - "Oral Histories: Temporal Holdings, 2019-01-16"
 - "Oral Histories: Temporal Holdings, 2019-01-21"
@@ -105,6 +106,8 @@ Dave counted "1000 paladin of Zarus out there" on the allied side. <small>(Oral 
 ## Marriage
 
 After the Battle of the River Lis, Zanzibar married Princess Roseanne of Cormyr. Later the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. After the Infanta War he founded the Empire and set his imperial capital in Suzail. <small>(Dave, sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md)</small> See [House Zanzibar](/organizations/house-zanzibar/) and [the Cormyrean Empire](/organizations/the-cormyrean-empire/).
+
+Roseanne is the mother of Zanzibar's child **Zara**, an Infanta. Of the Infanta on the field at the River Lis Dave wrote: "Tico and Mora at a minimum, likely Zara in utero". <small>(Oral Histories: Battle of River Lis, 2019-10-21)</small> Before the battle JL, who played Zanzibar, planned to "convince my preggo girlfriend to come to an almost unwinnable battle". <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small>
 
 Years after the campaign, trying to recall a name from another game, Dave offered "Rosanne". Nico: "Wasn’t that Zanzibars wife’s name?" Dave: "Oh right". <small>(Oral Histories: The Inevitables, 2025-05-31)</small>
 

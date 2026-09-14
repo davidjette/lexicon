@@ -40,6 +40,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-c30-coronation.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - CANON.md 5ae (Oral Histories)
 - CANON.md 5ai (Oral Histories)
 - CANON.md, Oral Histories batch 4
@@ -76,6 +77,8 @@ His character sheet gives his history:
 > Maximilian's parents and two sisters are millers in the land of Paenis, they are happy and proud of their accomplished son.
 
 The sheet names his ally as "Zanzibar the Younger, Heir of Punis and Paenis", and his organization as "House of Zanzibar - Steward".
+
+"Zanzibar the Elder" is a relative title for the elder Zanzibar at any given time. On Max's sheet it means the father of his prince, the king of Punis. The title later stuck to [Zanzibar](/people/zanzibar/) himself, and later Zanzibars took new epithets. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> See [House Zanzibar](/organizations/house-zanzibar/).
 
 ## Waterdeep
 

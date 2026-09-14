@@ -42,7 +42,7 @@ fields:
   ggmtitle: Crown Prince of Punis; Zanzibar the Younger, Heir of Punis and Paenis; envoy of the high priest of Punis
   dobDisplay: Unknown
   birthplace: Unknown
-  children: Zara
+  children: Zara, with Roseanne
   residence: Unknown; the Old Temple at Harloch is the company's
   gender: Male
   age: Unknown
@@ -73,6 +73,7 @@ sources:
 - CANON.md, Oral Histories batch 4
 - sources/dave/2026-09-14-temple-holdings-c30-coronation.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2019-01-01"
 - "Oral Histories: Temporal Holdings, 2019-01-06"
 - "Oral Histories: Temporal Holdings, 2019-01-24"
@@ -174,7 +175,7 @@ In the Time of Troubles Glassbane already bore a rune from "Atlas himself on the
 
 Zanzibar was named King of Punis immediately after the Arcaneum arc, when Valen was defeated. <small>(Dave)</small> After his exile at the hands of the Arcaneum he returned to Punis and was crowned. At the coronation he named [Revan Darkcember](/people/revan-darkcember/) and [Roland Deschain](/people/roland-deschain/) Thanes of Punis and gave them holds: Revan's was **Marsember**, which became Darkcember because the Duchess of Marsember had been killed. The thanes' packages from Punis held "500 Gold Zans and assorted jewelry and trinkets worth another 100". <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small> He named [Stonecypher](/people/stonecypher/) his general and promoted [Maximillien](/people/maximillien/) to Steward. His twin, **[Zebediah](/people/zebediah/)**, was disinherited. King Glenn Danzig of Cormyr was turned into a snail. When he was turned back, he saw why Zanzibar had held [the coup](/history/the-suzail-coup/), appreciated "him rooting out the evil of Valen and his tainting by the Leviathan", and offered Roseanne's hand in marriage anyway. The elves of [Myth Drannor](/places/myth-drannor/) let the party come and go "as long as you behave. Except for Zanzibar, who they feel it would be inappropriate to allow inside the mythal". <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small> As divine magic faded, Dave told him: "Zanzibar - your holy power is waning as well". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small> By October 2019 he was "close to a way to bring a host of angels to Cormyr to stop the Orc invasion of Cormanthor". <small>(Oral Histories: Temporal Holdings, 2019-10-01)</small> In the raid on St. Cloud's base he killed Nub Clitman. <small>(Oral Histories: Temporal Holdings, 2019-11-11)</small> Before the River Lis his paladin powers depended on keeping the princess near the fighting: "within 1/4 mile gets you level 7+ spells, and it drops off a level per mile from there", and "it's not just Zan's powers, it's half the Purple Dragons as well". <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> After the Battle of the River Lis Zanzibar married Princess Roseanne. Later in the campaign the king fell ill, and Zanzibar was crowned after his wedding to Roseanne. <small>(Dave)</small>
 
-His child is **Zara**. Dave in 2022 wrote of Zanzibar's "own infanta and CHILD Zara". <small>(Oral Histories: The Inevitables, 2022-12-24)</small> See [House Zanzibar](/organizations/house-zanzibar/).
+His child with Roseanne is **Zara**. Dave in 2022 wrote of Zanzibar's "own infanta and CHILD Zara". <small>(Oral Histories: The Inevitables, 2022-12-24)</small> See [House Zanzibar](/organizations/house-zanzibar/).
 
 ## Dark Zanzibar
 
@@ -191,6 +192,8 @@ See [Dark Zanzibar](/people/dark-zanzibar/).
 ## Emperor of Faerun
 
 Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and with his forces in the old imperial capital of [Waterdeep](/places/waterdeep/), declared himself Emperor of Faerun and consolidated control of the continent. Humankind submitted mostly peacefully, and the elves and dwarves were confined to their remote homelands. <small>(Oral Histories: The Inevitables, 2024-01-21)</small> From then on the Emperor of [the Cormyrean Empire](/organizations/the-cormyrean-empire/) was called "the Zanzibar". <small>(Dave, 2026-09-14)</small> He founded the Empire in the aftermath of the Infanta War and set his imperial capital in Suzail. <small>(Dave)</small> Dave in 2024: "Zanzibar is the Caesar of Faerun". <small>(Oral Histories: The Inevitables, 2024-01-21)</small>
+"Zanzibar the Elder" is a relative title for the elder Zanzibar at any given time. In his youth it named his father, the king of Punis, by whom [Maximillien](/people/maximillien/) "was knighted" according to Max's character sheet. The title later stuck to Zanzibar himself, and later Zanzibars took new epithets, such as the Penitent and the Melancholy. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small>
+
 As **Zanzibar the Elder**, First Emperor of Faerûn, he founded the Empire following the defeat of [Asmodeus](/people/asmodeus/) and the end of [the Infanta Crisis](/lore/the-infanta-crisis/). The world remembers that troops on the surface led by Zanzibar and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing [Wainwright St. Cloud](/people/wainwright-st-cloud/) and ending the Infanta Crisis.
 
 <small>Recovered from the Oblivia.</small> Una, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed her, but not before the summoning, and a portal was used for him to step down toward [the Egg](/places/the-egg/). The party defeated Asmodeus at the threshold of the portal from a Waterdeep tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out. The Egg and the final battle were obliviated, and that battle is forgotten.

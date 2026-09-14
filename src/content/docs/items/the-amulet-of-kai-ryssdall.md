@@ -1,6 +1,6 @@
 ---
 title: The Amulet of Kai Ryssdall
-description: A gem big enough to cast Greater Gate, key to St. Cloud's plan to summon Asmodeus into Waterdeep. Traded to the Zhentarim and stolen back in a heist.
+description: The largest emerald in the world, big enough to cast Greater Gate, key to St. Cloud's plan to summon Asmodeus. Traded to the Zhentarim, stolen back.
 type: item
 kind: items
 tags:
@@ -20,12 +20,13 @@ icon: fa-gem
 fields:
   itemType: Amulet
   rarity: Unknown
-  materials: A gem big enough to cast Greater Gate
+  materials: The largest emerald in the world, a gem big enough to cast Greater Gate
   manufacturingProcess: Unknown
   usedBy: Temple Holdings LLC; Emery Grim and the Zhentarim; Zebediah
   significance: A key part of Wainwright St. Cloud's plan to summon Asmodeus into the heart of Waterdeep
 sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - CANON.md 5ae (Oral Histories), C9
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VIII - War Wizards.txt
 - "Oral Histories: Temporal Holdings, 2018-11-11"
@@ -37,15 +38,17 @@ sources:
 published: '2026-09-14'
 ---
 
-**Amulet · A gem big enough to cast *Greater Gate* · Sought by Wainwright St. Cloud and the Von Lampes**
+**Amulet · The largest emerald in the world · A gem big enough to cast *Greater Gate* · Sought by Wainwright St. Cloud and the Von Lampes**
 
 *Also known as:* the Amulet of Kai Ryssdahl · the Amulet of Kai Rhyssdal · the Amulet of Kai Ryssdal
 
-**The Amulet of Kai Ryssdall** is an amulet, a gem big enough to cast *Greater Gate*, and a key part of [Wainwright St. Cloud](/people/wainwright-st-cloud/)'s plan to summon [Asmodeus](/people/asmodeus/) into the heart of [Waterdeep](/places/waterdeep/). During the crisis in Cormyr, [Pim](/people/pim/) of Temple Holdings LLC delivered it to Emery Grim of [the Zhentarim](/organizations/the-zhentarim/) in return for information on how to break into Castle Danzig. It later came to an auction, where the party and the Von Lampes both went for it. Zebediah, Zanzibar's twin, reached it in the vault below and stole it back from the Zhentarim, and he had it afterwards.
+**The Amulet of Kai Ryssdall** is an amulet and the largest emerald in the world, a gem big enough to cast *Greater Gate*, and a key part of [Wainwright St. Cloud](/people/wainwright-st-cloud/)'s plan to summon [Asmodeus](/people/asmodeus/) into the heart of [Waterdeep](/places/waterdeep/). During the crisis in Cormyr, [Pim](/people/pim/) of Temple Holdings LLC delivered it to Emery Grim of [the Zhentarim](/organizations/the-zhentarim/) in return for information on how to break into Castle Danzig. It later came to an auction, where the party and the Von Lampes both went for it. Zebediah, Zanzibar's twin, reached it in the vault below and stole it back from the Zhentarim, and he had it afterwards.
 
 ## St. Cloud's plan
 
 Dave's description of the Amulet: "a gem big enough to cast Greater Gate", and "a key part of his plan to summon Asmodeus into the heart of Waterdeep". <small>(Dave, 2026-09-14)</small>
+
+The Amulet is "the largest emerald in the world". <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> After the heist Dave wrote: "It's reportedly the largest emerald in the world". <small>(Oral Histories: Temporal Holdings, 2019-04-20)</small>
 
 ## Traded in Suzail
 

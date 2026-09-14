@@ -30,6 +30,7 @@ fields:
 sources:
 - Desktop/D&D/Temple Holdings LLC/Character Sheets/CS MARCY.pdf
 - Negative search across all 72 converted Temple Holdings documents (no occurrences)
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 published: '2026-09-10'
 wa:
   slug: marcy-person
@@ -42,7 +43,7 @@ wa:
 
 **Marcy** is a mountain dwarf bard recorded on a complete character sheet dated the fifteenth of March: rolled up, equipped, and given a personality and a spell list. The name at the top of the file is the player's label. The character was never named in the world, and the sheet does not state a gender.
 
-Age, height, weight, eyes, hair, skin, deity, appearance, backstory and allies are all empty on the sheet, and the name occurs in none of the seventy-two converted campaign documents. She is not among the eight champions knighted at Harloch — that roll is Kara, Roland, Yoshi, Denver, Fulori, Drefan, Viceroy Couch and Brother Magnus — and she cannot be matched to Denver, who the record treats as male and as Yoshi's trainee.
+Age, height, weight, eyes, hair, skin, deity, appearance, backstory and allies are all empty on the sheet, and the name occurs in none of the seventy-two converted campaign documents. She is not among the eight champions knighted at Leftfork — that roll is Kara, Roland, Yoshi, Denver, Fulori, Drefan, Viceroy Couch and Brother Magnus — and she cannot be matched to Denver, who the record treats as male and as Yoshi's trainee.
 
 ## What the sheet says
 

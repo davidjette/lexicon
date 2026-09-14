@@ -26,6 +26,7 @@ fields:
 sources:
 - CANON.md Oral Histories batch 5
 - sources/dave/2026-09-14-temple-holdings-batch1-questions.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2021-12-10"
 - "Oral Histories: Temporal Holdings, 2022-11-06"
 - "Oral Histories: Temporal Holdings, 2022-12-03"
@@ -73,6 +74,8 @@ Dave's summary the next morning, for a player who had missed it:
 > Main thing I think you missed was @Magnus using Divine Intervention to give the Schmagnus simulacrum effectively a real person (so that he can regain spell slots so he can cast Temple of the Gods everyday for a year) and the next day again to make the Slow in the temple spell permanent. I know you’re used to that not working all the time but this time is worked great.
 
 <small>— Dave. Sic. Oral Histories: Temporal Holdings, 2022-12-04</small>
+
+The same message ends: "Also Kara cast Wish. Big magics". That is the Wish [Kara](/people/kara/) cast on arriving in Antiquity, that the Moon had been moved, which the party fulfilled on their second trip to the deep past. It is a different Wish from the one she cast in the Time of Troubles in 2020 (see [Arc VI](/history/arc-vi-time-of-troubles/)).
 
 Later that day he added how the first request was granted: "It occurred to me after that a divine being wouldn’t want Schmagnus to be some automoton with no soul, so to grant Magnus’s request they would give Schmagnus a soul, so that he can perform the spell as normal". <small>(Sic on "automoton". Oral Histories: The Inevitables, 2022-12-04)</small>
 

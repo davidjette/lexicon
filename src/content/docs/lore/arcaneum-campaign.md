@@ -29,6 +29,7 @@ sources:
 - 'Desktop/D&D/Arcaneum/ (one file: 03-003.strixhaven-memories.jpg)'
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/The Age of Infanta - Part IX - X - XI - Arcaneum.docx
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2019-02-15"
 - "Oral Histories: Temporal Holdings, 2019-02-16"
 - "Oral Histories: Temporal Holdings, 2019-02-22"
@@ -61,6 +62,8 @@ The name appears twice in the [Ages of the Infanta](/lore/temple-holdings-llc/),
 The physical school is a large ten-sided building just outside Punis. Inside is a large forum surrounded by function rooms and a handful of administrative offices. In a secure area a crystal ball serves as the portal to the rest of the school, a series of local demiplanes, one for each school of magic practised there and one for the Archmage and his work. Each demiplane is tuned to its school of magic and led by a semi-independent Headmaster, and passage between them requires foreknowledge of spells, puzzles and passwords. The School of Abjuration, which holds the War Room and serves as the school's barracks, is the only school connected directly to the building, and Evocation is reached through it. There are portal balls inside each dimension, each with its own password. <small>(Oral Histories: Temporal Holdings, 2019-02-15)</small> The keys are numbered; one the party used was "22". <small>(Oral Histories: Temporal Holdings, 2019-02-22)</small> Dave: "Blowing up the building will only do so much, the real school is in a network of bespoke dimensions". <small>(Oral Histories: Temporal Holdings, 2019-02-15)</small>
 
 The last room held "just clocks! measuring the flow of time in different areas of the room", and the fight there was a strictly timed exercise against a prismatic wall, a lich-type wizard, a black dragon and three other mages. Had the party failed, the archmages would have turned on a time machine. After Valen was beaten, [Celion](/people/celion/) inherited the school, which Dave called "cia/hogwarts". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+
+Celion helped the party from inside the Arcaneum, tank-bound in the tanks on the 10th level of the college, where Valen, also in a tank until the final battle, had the Anachron and Kara's clone. In another loop, in Dave's one-shot the original Punis game, Zanzibar the Younger, a Kara, Akira the Red and Maximillien the Younger broke into the Arcaneum and found the tomb of "Celion the Great". <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> See [Celion](/people/celion/).
 
 ## Maps
 

@@ -51,6 +51,7 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part III.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part IV.docx
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2017-08-24"
 - "Oral Histories: Temporal Holdings, 2017-08-28"
 - "Oral Histories: Temporal Holdings, 2018-01-24"
@@ -123,7 +124,7 @@ By the middle arcs Couch has become the company's logistics: the party contacts 
 
 ---
 
-**Organizations / Groups:** Temple Holdings LLC · the Lusmundi, "the light of the world," and the Champions of the Evening Star, knighted at Harloch · the court of Sembia <small>(claimed)</small>
+**Organizations / Groups:** Temple Holdings LLC · the Lusmundi, "the light of the world," and the Champions of the Evening Star, knighted at Leftfork · the court of Sembia <small>(claimed)</small>
 
 **Holdings:** the Old Temple at Harloch, bought jointly by the company · Sandstad and a Sembian merchant lordship <small>(claimed)</small>
 

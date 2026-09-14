@@ -35,6 +35,7 @@ sources:
 - CANON.md 5f
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2020-05-03"
 - "Oral Histories: Temporal Holdings, 2020-05-04"
 - "Oral Histories: Temporal Holdings, 2020-05-11"
@@ -84,7 +85,7 @@ The dragons noticed. A chromatic elder dragon's line about their own errand name
 
 Helping her was on the party's plans for the deep past. Dave's quest board of December 2021 listed "Dragon Mountain, help Karametra and bring Tiamat into the team, stop the dragon war and lead them into space". <small>(Oral Histories: The Inevitables, 2021-12-04)</small> His campaign checklist of March 2022 included "help Karametra move the moon (past)". <small>(Oral Histories: Temporal Holdings, 2022-03-19)</small>
 
-The party came to help her when they returned to the deep past a second time, fulfilling [Kara](/people/kara/)'s Wish that the moon had been moved. While Karametra cast Move Planet they defended the platinum temple against a tarrasque, then some dragons, and then Tiamat herself. **Percival** was inside the temple, "the last line of defense between Tiamat and Karametra’s ritual". <small>(Oral Histories: The Inevitables, 2022-09-17)</small> They succeeded, and Tiamat was defeated there.
+The party came to help her when they returned to the deep past a second time, fulfilling the Wish [Kara](/people/kara/) cast on arriving in Antiquity, that the moon had been moved. It is a different Wish from the one Kara cast in the Time of Troubles in 2020. While Karametra cast Move Planet they defended the platinum temple against a tarrasque, then some dragons, and then Tiamat herself. **Percival** was inside the temple, "the last line of defense between Tiamat and Karametra’s ritual". <small>(Oral Histories: The Inevitables, 2022-09-17)</small> They succeeded, and Tiamat was defeated there.
 
 That casting is what makes the first of the three epochs reachable. The party attacks the Egg in the deep past *in orbit of Toril, after the Egg struck the moon*, and the moon was in its path because Karametra put it there.
 

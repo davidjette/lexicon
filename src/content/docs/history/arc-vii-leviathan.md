@@ -55,6 +55,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c17-c21.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2022-04-09"
 - "Oral Histories: Temporal Holdings, 2022-07-17"
 - "Oral Histories: Temporal Holdings, 2022-11-06"
@@ -125,7 +126,7 @@ The Time of Troubles came to its climax as Zeal rose into orbit to meet the [Egg
 
 ## The platinum temple
 
-In the deep past [Karametra](/people/karametra/) seduced **Bahamut** and had the dragons build a **platinum temple** in which to cast **Move Planet**, to put the Moon into the path of the Egg. The party came to help her. Defending the temple while she cast the spell, they fought a tarrasque, some dragons, and then **Tiamat** herself, and they succeeded. <small>(Oral Histories: The Inevitables, 2022-09-17)</small>
+In the deep past [Karametra](/people/karametra/) seduced **Bahamut** and had the dragons build a **platinum temple** in which to cast **Move Planet**, to put the Moon into the path of the Egg. The party came to help her. Defending the temple while she cast the spell, they fought a tarrasque, some dragons, and then **Tiamat** herself, and they succeeded. <small>(Oral Histories: The Inevitables, 2022-09-17)</small> That second trip to the deep past fulfilled the moon Wish [Kara](/people/kara/) cast on arriving in Antiquity, a different Wish from the one she cast in the Time of Troubles in 2020.
 
 The Tarrasque came first. Dave called it "disappointing honestly" and followed it with "an all out dragon ambush with Tiamat", with [Percival](/people/percival/) still inside the temple as "technically the last line of defense between Tiamat and Karametra’s ritual". <small>(Oral Histories: The Inevitables, 2022-09-17)</small> Tiamat was killed there <small>(Oral Histories: The Inevitables, 2023-01-15)</small>, and was lost in the abyss until she reconstituted in Hell. <small>(Oral Histories: The Inevitables, 2021-10-30)</small>
 
@@ -135,7 +136,7 @@ With about a week until Starfall, the party had to choose whether to save the [B
 
 <small>— Dave. (Oral Histories: Temporal Holdings, 2022-11-09)</small>
 
-A simulacrum of [Brother Magnus](/people/brother-magnus/), named Schmagnus, was left in a [time temple beneath the sea](/places/the-time-temple-beneath-the-sea/), where it casts Temple of the Gods every day "to expand a permanent time vault at the bottom of the ocean", "Protecting all the evacuees from the moon and some perfect moonstones". <small>(Oral Histories: Temporal Holdings, 2022-12-03)</small> Magnus used Divine Intervention to make the simulacrum "effectively a real person", so that it can regain spell slots, and again the next day to make the Slow spell in the temple permanent. <small>(Oral Histories: Temporal Holdings, 2022-12-04)</small> The party then went to save the moon people. <small>(Oral Histories: Temporal Holdings, 2023-01-13)</small>
+A simulacrum of [Brother Magnus](/people/brother-magnus/), named Schmagnus, was left in a [time temple beneath the sea](/places/the-time-temple-beneath-the-sea/), where it casts Temple of the Gods every day "to expand a permanent time vault at the bottom of the ocean", "Protecting all the evacuees from the moon and some perfect moonstones". <small>(Oral Histories: Temporal Holdings, 2022-12-03)</small> Magnus used Divine Intervention to make the simulacrum "effectively a real person", so that it can regain spell slots, and again the next day to make the Slow spell in the temple permanent. In the same session Kara cast her moon Wish. Dave: "Also Kara cast Wish. Big magics". <small>(Oral Histories: Temporal Holdings, 2022-12-04)</small> The party then went to save the moon people. <small>(Oral Histories: Temporal Holdings, 2023-01-13)</small>
 
 ## Into Arc VIII
 

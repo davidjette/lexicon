@@ -54,6 +54,7 @@ sources:
 - CANON.md, Oral Histories batch 4 (A3, A7, A8, A16)
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 ---
 
 > Wainwright St. Cloud is a man, crude and comically short sighted. He was wise enough to bring the Anachron to me, so that I may assume his quest and rightly witness the final moments at her side. I will be the last, and I alone will see the truth.
@@ -74,7 +75,7 @@ Dave, on the elves of Antiquity: "Blackstaff is still around", "and Valen", "who
 
 > His cult is what you destroyed in the very first session with Zan the Younger
 
-<small>— Dave, sic on "Pubis". (Oral Histories: The Inevitables, 2021-10-23)</small> See [the Arcaneum campaign](/lore/arcaneum-campaign/) and [the War Wizards](/organizations/war-wizards/).
+<small>— Dave, sic on "Pubis". (Oral Histories: The Inevitables, 2021-10-23)</small> See [the Arcaneum campaign](/lore/arcaneum-campaign/) and [the War Wizards](/organizations/war-wizards/). Zan the Younger was a player character in the original Punis game, Dave's one-shot set in another loop; see [Celion](/people/celion/).
 
 ## Alen Tudyx and Copperbane
 
@@ -105,6 +106,8 @@ During the crisis in Cormyr the party stormed Castle Danzig and killed the archm
 The party reached Valen's sanctum sanctorum, the tenth and final sphere of the Sephiroth and the deepest dimension of the Arcaneum, where four grandfather clocks tick in unison around the Anachron. Valen lay in a glass vessel, recovering from death while his clone regrew, beside the tubes holding Celion and a clone of Kara. <small>(Arc III Parts IX–XI.)</small> From inside the vessel he greeted them: "YOU INSOLENT VERMIN. HOW DARE YOU TRESPASS IN MY SANCTUM SANCTORUM. MORE THAN ANY OTHER, YOU WILL SUFFER AT THE ETERNAL TORMENT OF THE LEVIATHAN." To Kara he said, "Yes, we take a tissue sample of all students upon admission." <small>(Arc III Parts IX–XI.)</small>
 
 Dave, after the battle: "a strictly timed exercise with a prismatic wall, lich-type wizard, black dragon, and the three other mages you didn’t kill. Most of my planning was around what would happen if you failed and they turned on a time machine". The tanks "had 200 HP", "But the tanks absorbed all damage so trying to kill him with damage from outside wouldn’t work. The exhaustion was very clever". Valen "definitely had means to escape with his magic and his dragon", "But when you killed the dragon and used the AM field I my only option remaining was bringing in the other three archmages". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small> [Holden Tudyx](/people/holden-tudyx/) died in the fight.
+
+The tanks stood on the 10th level of the college. Valen was in a tank until the final battle and had the Anachron and Kara's clone there, and Celion, tank-bound in that loop after Drefan cast Dream on him while he was reforming, helped the party from the tanks. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> See [Celion](/people/celion/).
 
 Zanzibar was named King of Punis immediately after the Arcaneum arc, "when Valen is defeated". King Danzig of Cormyr, turned back from a snail, "sees why Zanzibar held the coup, appreciates himrooting out the evil of Valen and his tainting by the Leviathan" (sic), and offered Roseanne's hand to Zanzibar. <small>(Dave, 2026-09-14)</small>
 

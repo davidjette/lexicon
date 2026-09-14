@@ -40,6 +40,7 @@ sources:
 - CANON.md 5ab
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2018-05-12"
 - "Oral Histories: Temporal Holdings, 2019-06-08"
 - "Oral Histories: Temporal Holdings, 2019-12-22"
@@ -78,7 +79,7 @@ The name comes from a property purchase. Midway through the first arc, the garri
 
 ## The company
 
-The founders are shipwreck survivors rather than a fellowship. Knighted together at Harloch as the **Lusmundi, the light of the world**, and the **Champions of the Evening Star**, the roll of honour reads: [Kara](/people/kara/), [Roland](/people/roland-deschain/), [Yoshi](/people/yoshi/), **Denver**, [Fulori](/people/fulori-splitheel/), [Drefan](/people/drefan/), [Viceroy Couch](/people/cuthbert-couch/) and [Brother Magnus](/people/brother-magnus/). Later arcs bring in [Zanzibar](/people/zanzibar/) of Cormyr, the rogue [Stoth Youngglade](/people/stoth-youngglade/), the [traveling healer](/people/the-traveling-healer/) who found the mountain, Revan, Chronocypher, [Brownsleeves](/people/brownsleeves/) and Stonecypher.
+The founders are shipwreck survivors rather than a fellowship. Knighted together at Leftfork as the **Lusmundi, the light of the world**, and the **Champions of the Evening Star**, the roll of honour reads: [Kara](/people/kara/), [Roland](/people/roland-deschain/), [Yoshi](/people/yoshi/), **Denver**, [Fulori](/people/fulori-splitheel/), [Drefan](/people/drefan/), [Viceroy Couch](/people/cuthbert-couch/) and [Brother Magnus](/people/brother-magnus/). Later arcs bring in [Zanzibar](/people/zanzibar/) of Cormyr, the rogue [Stoth Youngglade](/people/stoth-youngglade/), the [traveling healer](/people/the-traveling-healer/) who found the mountain, Revan, Chronocypher, [Brownsleeves](/people/brownsleeves/) and Stonecypher.
 
 After the party took the airship, Jenny, who played Kara, proposed merging their marine and aeronautical companies as "HAM LLC", and Dave ruled: "If Temple Holdings makes the loan to HAM, LLC it can have recourse to the assets of HAM and interest". The crew's insurance came from the **First Harloch Trust**, "started by the girl you guys saved from the brothel". Dave reminded the table: "please remember that you are effectively 50% owners of the First Harloch Trust which you bankrolled with 1/2 of your holdings, so you are major shareholders in the second of two banks in the whole world", and "You already have a monopoly on Moonstone". He added: "boats are a money sink in all realities". <small>(Oral Histories: Temporal Holdings, 2018-10-15)</small>
 

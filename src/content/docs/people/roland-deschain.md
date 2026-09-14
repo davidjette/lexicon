@@ -52,7 +52,7 @@ tags:
 icon: fa-gun
 fields:
   rpgAlignment: Lawful Good
-  ggmtitle: Knight of the Order; Thane of Punis
+  ggmtitle: Knight of the Order; Thane of Punis; Baron of Wyvernstead
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
@@ -79,6 +79,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-temple-holdings-c30-coronation.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2017-07-13"
 - "Oral Histories: Temporal Holdings, 2019-01-02"
 - "Oral Histories: Temporal Holdings, 2019-01-27"
@@ -202,7 +203,7 @@ Because Motherstone remembered only his betrayal, Roland was put on trial for it
 
 **Magnus swayed the Infanta and Roland was spared.** <small>(Recorded variously as Elistraee and Elistrae, Illanna and Ilana.)</small>
 
-The tribunal had no presumption of innocence. Each of the three judges ruled on the preponderance of evidence; a majority was needed to convict, and a unanimous verdict for a sentence of death or forgetting. Witnesses could be called from any era of the story, and the Crown called [Pim](/people/pim/) as its primary witness. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> Most of the witnesses against Roland ended up helping his case. <small>(Oral Histories: Temporal Holdings, 2019-06-23)</small> The recap posted by JL, who played Zanzibar, after the session reads: "Roland not guilty. Terrorists attacked the trial, proving that Motherstone is very vulnerable without the Lexicon." It adds that "Roland has been appointed Baron of Wyvernstead, a haunted country manor in Paenis." <small>(Oral Histories: Temporal Holdings, 2019-06-22)</small>
+The tribunal had no presumption of innocence. Each of the three judges ruled on the preponderance of evidence; a majority was needed to convict, and a unanimous verdict for a sentence of death or forgetting. Witnesses could be called from any era of the story, and the Crown called [Pim](/people/pim/) as its primary witness. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> Most of the witnesses against Roland ended up helping his case. <small>(Oral Histories: Temporal Holdings, 2019-06-23)</small> Roland was found not guilty, and terrorists attacked the trial; JL, who played Zanzibar, wrote that the attack proved "that Motherstone is very vulnerable without the Lexicon." After the trial Roland was appointed **Baron of Wyvernstead**, "a haunted country manor in Paenis." <small>(Oral Histories: Temporal Holdings, 2019-06-22)</small>
 
 At the opening of Arc IV the record notes: "Following Roland's trial, Elistrae has fallen into a deep depression," and she "has not allowed you a moment of sleep since you were acquitted." <small>(Arc IV, The Infernal Machines, Part II, "Order of Awakening.")</small>
 
@@ -258,7 +259,7 @@ Roland marches with the muster toward [Netheril](/places/netheril/) and the Egg.
 
 **Organizations / Groups:** Temple Holdings LLC · the Knights of the Order
 
-**Holdings:** the Old Temple at Harloch, bought by the company · a hold in Punis, granted by King Zanzibar
+**Holdings:** the Old Temple at Harloch, bought by the company · a hold in Punis, granted by King Zanzibar · Wyvernstead, a haunted country manor in Paenis, with the barony
 
 **Items:** **twin revolvers cast from Ironbane (Excalibur)** in the Deepmaker, after he drew the sword from its stone in the auction vault; [Roland's Cube](/items/rolands-cube/); an arquebus and a longbow. His father's gunshop, **Deschain & Son**, and the box in it that St. Cloud could not open. From the shop, later: his mother Gabrielle's journal, the heavy gun mould for twin revolvers, a handwritten letter between lovers, and the deed showing the shop transferred to *502 Showdown, Ltd* months before his mother's disappearance and his father's murder.
 

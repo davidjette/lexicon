@@ -46,6 +46,7 @@ sources:
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - sources/dave/2026-09-14-dead-mans-hand-names.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2019-01-01"
 - "Oral Histories: Temporal Holdings, 2019-01-24"
 - "Oral Histories: Temporal Holdings, 2019-01-30"
@@ -129,7 +130,7 @@ In the Starfall era the starship [SSJ Zanzibar](/items/the-ssj-zanzibar/) flies 
 
 ## Places of Interest
 
-- **Paenis** — the second half of the principality. [Una](/people/una/)'s parents "own the mill in Coxswain, in the west of Paenis" <small>(Arc III Part VII)</small>; when she vanished from Motherstone, most people there believed she had been sent home to Paenis <small>(Arc III Part XII)</small>. The Arcaneum's file names [Kara](/people/kara/) "Kara of Paenis", and Celion asked her to "Meet me in Paenis, where this all began. Sit in our corner booth." <small>(Arc III, VIII Handouts; Parts IX–XI)</small> Zanzibar's player JL reported that Roland was made "Baron of Wyvernstead, a haunted country manor in Paenis." <small>(Oral Histories: Temporal Holdings, 2019-06-22)</small>
+- **Paenis** — the second half of the principality. [Una](/people/una/)'s parents "own the mill in Coxswain, in the west of Paenis" <small>(Arc III Part VII)</small>; when she vanished from Motherstone, most people there believed she had been sent home to Paenis <small>(Arc III Part XII)</small>. The Arcaneum's file names [Kara](/people/kara/) "Kara of Paenis", and Celion asked her to "Meet me in Paenis, where this all began. Sit in our corner booth." <small>(Arc III, VIII Handouts; Parts IX–XI)</small> After his trial [Roland Deschain](/people/roland-deschain/) was appointed Baron of **Wyvernstead**, "a haunted country manor in Paenis." <small>(Oral Histories: Temporal Holdings, 2019-06-22)</small>
 - **The Arcaneum** — the ten-sided school of the War Wizards, just outside Punis.
 - **The temple of Punis** — the town's ancient temple, crumbling as divine magic failed. <small>(Arc III, Interlude)</small>
 - **Wicktit's** — a bar in Punis. <small>(Oral Histories: The Inevitables, 2019-01-01)</small>
@@ -139,5 +140,3 @@ In the Starfall era the starship [SSJ Zanzibar](/items/the-ssj-zanzibar/) flies 
 The musician Gordon Lightfoot, who played the Sheepskin Tavern in Suzail, was called "the Lutist of Punis" by Kara's player Jenny. <small>(Arc III Part VII; Oral Histories: Temporal Holdings, 2019-01-24)</small>
 
 **Related:** [Zanzibar](/people/zanzibar/) · [Arcaneum](/lore/arcaneum-campaign/) · [Suzail](/places/suzail/) · [The Suzail Coup](/history/the-suzail-coup/) · [The Battle of the River Lis](/history/the-battle-of-the-river-lis/) · [Myth Drannor](/places/myth-drannor/) · [The Cormyrean Empire](/organizations/the-cormyrean-empire/)
-</content>
-</invoke>

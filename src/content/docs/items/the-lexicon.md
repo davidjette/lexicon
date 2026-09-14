@@ -57,6 +57,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 - CANON.md 5ai (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2019-03-03"
 - "Oral Histories: Temporal Holdings, 2019-04-01"
 - "Oral Histories: Temporal Holdings, 2019-04-20"
@@ -149,7 +150,7 @@ The party captured Carlysle's heart in [Roland's Cube](/items/rolands-cube/) and
 
 Of the obliviated battle, Dave: "Lex gets fatal memory errors when he tries to get closer to this event. His mind isn't as elastic as y'alls". <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> The virtual reality a party member entered during the battle was the Lexicon working as designed: "the Matrix moment is a feature of the Lexicon that we saw before you joined, so you were just using it as designed!" <small>(Dave. Oral Histories: Temporal Holdings, 2019-05-29)</small> In Sigil, [Marcus](/people/marcus/) told [Stonecypher](/people/stonecypher/) that Toots Gilderbrow "may also know something about how to fix the Lexicon". <small>(Oral Histories: Temporal Holdings, 2019-08-22)</small>
 
-In the Starfall arc the main Lexicon came back to life: "Main Lex reawakened and started broadcasting the message of the Leviathan throughout the world, as described in the Company’s plans", and "Every Company product is now broadcasting knowledge of the Leviathan to every brain nearby". <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small>
+At the start of the Starfall arc Dave wrote: "Main Lex reawakened and started broadcasting the message of the Leviathan throughout the world, as described in the Company’s plans", and "Every Company product is now broadcasting knowledge of the Leviathan to every brain nearby". <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small>
 
 The rest of the entity's life is at [The Anachron](/items/the-anachron/). Millennia later the same being is found again under a volcano as [the Chronicle](/items/the-chronicle/).
 

@@ -33,6 +33,7 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part I.txt
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2018-07-06"
 - "Oral Histories: Temporal Holdings, 2019-04-05"
 - "Oral Histories: Temporal Holdings, 2019-07-08"
@@ -80,6 +81,8 @@ He told them that his own gang had split up when they arrived in the past:
 - [Drefan](/people/drefan/) and Brownsleeves came to warn the moon people to relocate. When Drefan saw what would be destroyed he refused, and left to stop Kara and the others who meant to move the moon. None of them ever returned. Brownsleeves stayed, since the Earth would be destroyed by the blast and he might have a better chance to survive on the Moon.
 
 <small>(Arc V, Starfall Part I.)</small>
+
+The party's own [Stoth](/people/stoth-youngglade/) came back from the deep past. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small>
 
 Dave's summary of what the party knew afterwards included that "Brownsleeves' party split up to go to Rlyeh and Dragon Mtn". <small>(Sic. Oral Histories: Temporal Holdings, 2020-05-11)</small> Patrick, who played Magnus, suspected him: "I’m not fully sure that brown sleeves isn’t a dox if some kind, but I might just be paranoid". JL answered: "Brownsleeves ain't no fugazi". <small>(Oral Histories: Temporal Holdings, 2020-04-25)</small>
 

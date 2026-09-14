@@ -60,6 +60,8 @@ sources:
 - "Oral Histories: Temporal Holdings, 2023-04-23"
 - "Oral Histories: Temporal Holdings, 2023-06-04"
 - "Oral Histories: Temporal Holdings, 2023-10-12"
+- "Oral Histories: Temporal Holdings, 2023-10-16"
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: The Inevitables, 2023-12-02"
 - "Oral Histories: The Inevitables, 2024-01-18"
 published: '2026-09-10'
@@ -150,6 +152,10 @@ Either way, the Age of the Infanta is over, the gods are loosed from their rebor
 Before the final battle the party's "consolidated holding co" paid them a dividend of about 500,000 gold. <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
 
 The heroes are forgotten in all but the vaguest terms. The **[Bank of Harloch](/organizations/the-bank-of-harloch/)** and its holding company, [Temple Holdings](/lore/temple-holdings-llc/), persist well into the future. After the finale the company was rebranded **Temporal Holdings**, and sovereign currency is nicknamed **"Harlochs"** because of the bank. The company lost the bid for the St. Cloud Trading Company to [Revan Darkcember's](/people/revan-darkcember/) [Nimbus Corp](/organizations/nimbus-corp/).
+
+## Dave's epilogue
+
+Two days after the finale Dave posted a joking epilogue in the players' chat, in which "Temple Holdings steps in to prop up the economy with venture capital and a universal basic income tied to data collection and private management of govt subsidy, the societal rot from over consolidation and monopsony leads to a populist revolution where drefan leads an ecoterrorist group to revive the leviathan and return the world to nature". <small>(Oral Histories: Temporal Holdings, 2023-10-16)</small> See [Drefan](/people/drefan/).
 
 ## Sessions
 

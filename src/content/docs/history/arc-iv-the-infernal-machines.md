@@ -50,6 +50,7 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/Over the intercom.docx
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2019-05-05"
 - "Oral Histories: Temporal Holdings, 2019-05-25"
 - "Oral Histories: Temporal Holdings, 2019-05-28"
@@ -85,7 +86,7 @@ Motherstone is dying of its own miracle. The [Lexicon](/items/the-lexicon/) at M
 
 The arc opens with the trial of [Roland Deschain](/people/roland-deschain/). In the Second Battle, Wainwright St. Cloud mind-controlled Roland through [the Palantir](/items/the-palantir/), and Roland destroyed the Lexicon and let the Company into Motherstone. The party then threw the heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/), captured in [Roland's Cube](/items/rolands-cube/), into the [Obliviator](/items/the-obliviator/) together with the Palantir, and no one remembers either. All Motherstone remembers is that Roland betrayed it. <small>(Oral Histories: Temporal Holdings, 2019-05-25, 2019-06-22)</small>
 
-Roland was tried before a tribunal of three gods, each judging on the preponderance of evidence. A majority could convict, and a sentence of death or forgetting needed a unanimous verdict. Witnesses could be called from any era of the story, and the Crown called Pim as its primary witness. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> Roland was found not guilty. Dave told him his counsel "mounted a spirited and competent defense", and most of the witnesses against him ended up helping his case. <small>(Oral Histories: Temporal Holdings, 2019-06-23)</small> JL, who played Zanzibar, recorded that terrorists attacked the trial, and that Roland was appointed Baron of Wyvernstead, "a haunted country manor in Paenis." <small>(Oral Histories: Temporal Holdings, 2019-06-22)</small>
+Roland was tried before a tribunal of three gods, each judging on the preponderance of evidence. A majority could convict, and a sentence of death or forgetting needed a unanimous verdict. Witnesses could be called from any era of the story, and the Crown called Pim as its primary witness. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> Roland was found not guilty. Dave told him his counsel "mounted a spirited and competent defense", and most of the witnesses against him ended up helping his case. <small>(Oral Histories: Temporal Holdings, 2019-06-23)</small> Terrorists attacked the trial. After it Roland was appointed **Baron of Wyvernstead**, "a haunted country manor in Paenis." <small>(Oral Histories: Temporal Holdings, 2019-06-22)</small>
 
 [Elistrae](/people/elistrae/), cut off from her worshippers across the universe with the Lexicon dark, falls into grief and desperation — invading the party's dreams night after night, raiding their memories for how St. Cloud broke the city and where he might be found. [Roland](/people/roland-deschain/) suffers worst: she forces him again and again through the unrememberable moment in his father's gunshop, the box St. Cloud could not open, and the murder he cannot recall. The machines, the heroes realise, are the only road left.
 

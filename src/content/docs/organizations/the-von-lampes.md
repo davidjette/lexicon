@@ -32,6 +32,7 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - CANON.md 5ae (Oral Histories), C9, C36
 - CANON.md 5ai (Oral Histories)
 - "Oral Histories: Temporal Holdings, 2018-11-11"
@@ -50,7 +51,7 @@ published: '2026-09-14'
 
 *Also known as:* the von Lamps
 
-**The Von Lampes** were a noble family of [Waterdeep](/places/waterdeep/), the owners of [Tiffany House](/places/tiffany-house/), bound by a pact with [Asmodeus](/people/asmodeus/). In the Age of the Infanta they worked with and against [Wainwright St. Cloud](/people/wainwright-st-cloud/) over the Infanta he held in Waterdeep, promising Asmodeus 999 souls and the Infanta, and fled the city after the attack on the boy emperor's parade. They went after the [Amulet of Kai Ryssdall](/items/the-amulet-of-kai-ryssdall/), a gem big enough to cast *Greater Gate*, and at its auction [Stonecypher](/people/stonecypher/) used the Vault Wand to void them. [Revan Darkcember](/people/revan-darkcember/) inherited Tiffany House and its old debt to Asmodeus after them. The Von Lampes were on the Lost Train at the end of the Infanta.
+**The Von Lampes** were a noble family of [Waterdeep](/places/waterdeep/), the owners of [Tiffany House](/places/tiffany-house/), bound by a pact with [Asmodeus](/people/asmodeus/). In the Age of the Infanta they worked with and against [Wainwright St. Cloud](/people/wainwright-st-cloud/) over the Infanta he held in Waterdeep, promising Asmodeus 999 souls and the Infanta, and fled the city after the attack on the boy emperor's parade. They went after the [Amulet of Kai Ryssdall](/items/the-amulet-of-kai-ryssdall/), the largest emerald in the world and a gem big enough to cast *Greater Gate*, and at its auction [Stonecypher](/people/stonecypher/) used the Vault Wand to void them. [Revan Darkcember](/people/revan-darkcember/) inherited Tiffany House and its old debt to Asmodeus after them. The Von Lampes were on the Lost Train at the end of the Infanta.
 
 ## The family
 
@@ -90,7 +91,7 @@ In the briefing that followed, the emperor had survived the assassination attemp
 
 ## The auction heist
 
-The party went to the auction of the Amulet of Kai Ryssdall because St. Cloud wanted it: a gem big enough to cast *Greater Gate*, key to his plan to summon Asmodeus into the heart of Waterdeep. Dave:
+The party went to the auction of the Amulet of Kai Ryssdall because St. Cloud wanted it: "the largest emerald in the world", a gem big enough to cast *Greater Gate*, key to his plan to summon Asmodeus into the heart of Waterdeep. Dave:
 
 > the Von Lampes are there.  These are analogs to the Cassalanters in dragon Heist, in this telling, they are the owners of Tiffany House and a pact with Asmodeus, they are there to get the Amulet as well.
 

@@ -1,6 +1,6 @@
 ---
 title: Stoth Youngglade
-description: The rogue who blackmailed his way onto the team, staked out the Excelsior, buried his loot in an unknown Westphal tomb, and never returned from the deep past.
+description: The rogue who blackmailed his way onto the team, staked out the Excelsior, buried his loot in an unknown Westphal tomb, and came back from the deep past.
 type: person
 kind: people
 tags:
@@ -43,6 +43,7 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part I.docx
 - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part III.docx
+- sources/dave/2026-09-14-temple-holdings-open-questions.md
 - "Oral Histories: Temporal Holdings, 2018-10-21"
 - "Oral Histories: Temporal Holdings, 2021-01-30"
 - "Oral Histories: Temporal Holdings, 2022-02-26"
@@ -53,11 +54,11 @@ wa:
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
 ---
 
-**Human · Rogue (Thief), Level 6 · Temple Holdings LLC, on terms · Chaotic Neutral · Missing in the deep past**
+**Human · Rogue (Thief), Level 6 · Temple Holdings LLC, on terms · Chaotic Neutral · Returned from the deep past**
 
 *Also known as:* Stoth
 
-**Stoth Youngglade** is a human rogue attached to Temple Holdings LLC by contract rather than oath. A shady and wily man, he turned up in Harloch once the heroes came into money and opened the relationship by explaining that he was not the only one who knew about their good fortune and that his silence had a price. He went on selling the party reconnaissance: the ambush waiting for them, the fall of Caer Westphal, and the stake-out of the **Excelsior** that let [Drefan](/people/drefan/) take the ship. Between adventures he buried his loot in an unknown tomb in Westphal. When the party scattered through time he went with Magnus, Cypher and Yoshi to find the Aboleth city, and none of them returned.
+**Stoth Youngglade** is a human rogue attached to Temple Holdings LLC by contract rather than oath. A shady and wily man, he turned up in Harloch once the heroes came into money and opened the relationship by explaining that he was not the only one who knew about their good fortune and that his silence had a price. He went on selling the party reconnaissance: the ambush waiting for them, the fall of Caer Westphal, and the stake-out of the **Excelsior** that let [Drefan](/people/drefan/) take the ship. Between adventures he buried his loot in an unknown tomb in Westphal. When the party scattered through time he went with Magnus, Cypher and Yoshi to find the Aboleth city. He came back from the deep past, and was with the party in the Time of Troubles.
 
 ## Bearing and arms
 
@@ -101,6 +102,8 @@ Then the party scatters through time, and the recap of the split is blunt about 
 
 > Magnus, Cypher, Yoshi, and Stoth went to find the Aboleth city and stop St. Cloud from whatever he was trying to do… None of them ever returned.
 
+Stoth came back. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small>
+
 ## The Time of Troubles
 
 In a Time of Troubles session Stoth found "a little burglary mini game", and he fell into the harbour. <small>(Oral Histories: Temporal Holdings, 2021-01-30)</small> By February 2022 he had reached Level 17. <small>(Oral Histories: Temporal Holdings, 2022-02-26)</small>
@@ -111,7 +114,7 @@ Dave, on the world after the Ages of the Infanta: "Stoth is a legendary former l
 
 ## Right now
 
-Stoth is somewhere in the deep past, in or near a drowned Aboleth city, on a job the party has no way to check on. The loot is still buried in a tomb in Westphal and nobody else knows which one.
+Stoth came back from the deep past. The loot is still buried in a tomb in Westphal and nobody else knows which one.
 
 ## Personality Characteristics
 
@@ -128,7 +131,7 @@ Stoth is somewhere in the deep past, in or near a drowned Aboleth city, on a job
 - **A generous benefactor** — unnamed; owed an old debt he is still trying to pay.
 - **Drefan** — his opposite number on the Excelsior job: one man visible on the dock, one invisible in the hold.
 - **Roland**, **Revan** and **Stonecypher** — the House of Nimbus assault team.
-- **Brother Magnus**, **Yoshi** and **Cypher** — the party he went into the deep past with, and did not come back from.
+- **Brother Magnus**, **Yoshi** and **Cypher** — the party he went into the deep past with, to find the Aboleth city.
 - **The party** — a client relationship that outlasted several of the people who signed it.
 
 **Hobbies & Pets:** a dice set, and burying things.
