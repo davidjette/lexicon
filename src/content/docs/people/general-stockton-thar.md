@@ -46,6 +46,13 @@ image:
   src: /images/site/general-stockton-thar-1.webp
   alt: General Stockton
   caption: General Stockton
+gallery:
+- src: /images/album/stockton-thar-and-rotunda-goose.webp
+  alt: General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for t
+  caption: 'General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
+- src: /images/album/the-party-watching-stockton-thar.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are watching General Stockton Thar and Rotunda Goose in conversation - Aboard a river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
 ---
 
 **Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Status unconfirmed**

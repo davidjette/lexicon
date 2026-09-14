@@ -57,6 +57,13 @@ wa:
 image:
   src: /images/site/eric-the-cleric-1.webp
   alt: Eric the Cleric
+gallery:
+- src: /images/album/extracting-izaak.webp
+  alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
+  caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
+- src: /images/album/passing-the-hall-of-submission.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are walking past the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
 ---
 
 **Cleric · Chancellor of Sharn · The Inevitables · Level 12 · Alive**

@@ -34,6 +34,10 @@ published: '2026-09-10'
 wa:
   slug: the-summer-palace-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
+image:
+  src: /images/album/the-summer-palace.webp
+  alt: 'The Summer Palace - Korth Episode: The Listening Post'
+  caption: 'The Summer Palace - Korth Episode: The Listening Post'
 ---
 
 **Imperial retreat · upriver from Korth · Grounds of the Ivory Lazaret · Standing**

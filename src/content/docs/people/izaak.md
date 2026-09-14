@@ -43,6 +43,16 @@ wa:
 image:
   src: /images/site/izaak-1.webp
   alt: Izaak
+gallery:
+- src: /images/album/izaak-in-the-listening-station.webp
+  alt: Dr. Ilsa Brandt, A death trooper, and a black-coated torturer overseeing rebel prisoner Izaak - The Korth Listening Stat
+  caption: 'Dr. Ilsa Brandt, A death trooper, and a black-coated torturer overseeing rebel prisoner Izaak - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
+- src: /images/album/teleportation-circle-in-deirdre-moros-apartment.webp
+  alt: Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to reb
+  caption: 'Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to rebel''s Izaak and Bantide Moro (Nightingale) in the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Listening Post'
+- src: /images/album/extracting-izaak.webp
+  alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
+  caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
 ---
 
 **Species unrecorded · Ranger and Artificer · Fulcrum liaison to the Nest · Missing, presumed dead**

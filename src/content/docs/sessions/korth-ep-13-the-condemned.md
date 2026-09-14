@@ -26,6 +26,17 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-13-E28094-the-condemned-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+image:
+  src: /images/album/after-rescuing-bantide-moro.webp
+  alt: Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (N
+  caption: 'Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (Nightingale). Location: inside the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Condemned'
+gallery:
+- src: /images/album/carrying-bantide-moro.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) carrying an invisible rebel agent Bantide Moro (Nightingale) through the Imperial capital of Korth - Korth Episode: The Condemned'
+- src: /images/album/speaking-with-bantide-moro-in-jail.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Mo
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Moro. Imperial capital of Korth jail - Korth Episode: The Condemned'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 13 · DM: Dave**

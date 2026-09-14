@@ -36,6 +36,14 @@ published: '2026-09-10'
 wa:
   slug: korth-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
+image:
+  src: /images/album/korth-listening-station.webp
+  alt: 'Korth Listening Station - Korth Episode: The Listening Post'
+  caption: 'Korth Listening Station - Korth Episode: The Listening Post'
+gallery:
+- src: /images/album/korth-undead-corpse-transfer.webp
+  alt: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
+  caption: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
 ---
 
 **City · Kingdom of Karrnath · Political capital and ceremonial seat of the Pax Imperium · Standing**

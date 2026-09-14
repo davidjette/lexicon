@@ -56,6 +56,13 @@ wa:
 image:
   src: /images/site/sir-dario-argentino-1.webp
   alt: Sir Dario Argentino
+gallery:
+- src: /images/album/the-party-watching-stockton-thar.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are watching General Stockton Thar and Rotunda Goose in conversation - Aboard a river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
+- src: /images/album/speaking-with-bantide-moro-in-jail.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Mo
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Moro. Imperial capital of Korth jail - Korth Episode: The Condemned'
 ---
 
 **Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 12 · Alive**

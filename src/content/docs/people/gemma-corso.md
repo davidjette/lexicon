@@ -2,18 +2,18 @@
 title: Gemma Corso
 description: Archfey warlock, NEST agent FOXTALE, and the Inevitable who located two more of the Fantanya Nyel while wearing a dead advocate's face.
 tags:
-  - Gemma Corso
-  - Gemma
-  - Corso
-  - Foxtale
-  - Foxtail
-  - Deirdre Moro
-  - Deedra Mora
-  - The Inevitables
-  - The Nest
-  - Archfey Warlock
-  - Kitsune
-  - Heroes of Leef
+- Gemma Corso
+- Gemma
+- Corso
+- Foxtale
+- Foxtail
+- Deirdre Moro
+- Deedra Mora
+- The Inevitables
+- The Nest
+- Archfey Warlock
+- Kitsune
+- Heroes of Leef
 image:
   src: /images/site/gemma-corso-1.webp
   alt: Gemma Corso
@@ -35,28 +35,41 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-  - worldanvil/sources/site/rebel-factions.txt
-  - worldanvil/sources/site/sharn-episode-summaries.txt
-  - worldanvil/sources/site/korth-episode-summaries.txt
-  - worldanvil/sources/site/biotec.txt
-  - handouts/foxtale-debrief.md
-  - current-state.md
-  - episodes.md
-  - korth.md
-  - npcs-korth.md
-  - session-2026-07-11-recap.md
-  - session-2026-07-15-recap.md
-  - session-2026-07-17-recap.md
-  - session-2026-08-07-recap.md
-  - session-2026-08-21-recap.md
-  - session-2026-08-28-summary-nichole-style.md
-  - session-2026-09-04-summary.md
-  - worldanvil/CANON.md
+- worldanvil/sources/site/rebel-factions.txt
+- worldanvil/sources/site/sharn-episode-summaries.txt
+- worldanvil/sources/site/korth-episode-summaries.txt
+- worldanvil/sources/site/biotec.txt
+- handouts/foxtale-debrief.md
+- current-state.md
+- episodes.md
+- korth.md
+- npcs-korth.md
+- session-2026-07-11-recap.md
+- session-2026-07-15-recap.md
+- session-2026-07-17-recap.md
+- session-2026-08-07-recap.md
+- session-2026-08-21-recap.md
+- session-2026-08-28-summary-nichole-style.md
+- session-2026-09-04-summary.md
+- worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
+gallery:
+- src: /images/album/gemma-corso-and-kitsune-1.webp
+  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+- src: /images/album/gemma-corso-and-kitsune-2.webp
+  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+- src: /images/album/gemma-corso-and-kitsune-3.webp
+  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+- src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
+  caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
 ---
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**

@@ -30,6 +30,14 @@ published: '2026-09-10'
 wa:
   slug: the-hall-of-submission-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
+image:
+  src: /images/album/passing-the-hall-of-submission.webp
+  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are walking past the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+gallery:
+- src: /images/album/the-hall-of-submission.webp
+  alt: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+  caption: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
 ---
 
 **Landmark · South side of [Korth](/places/korth/) · Open to the public**
