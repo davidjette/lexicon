@@ -1,25 +1,27 @@
 ---
 title: The breaking of the bells
 description: Three castings destroyed with a dead slave king's hammer, and ten still hanging.
+tags:
+  - Breaking of the bells
+  - KNELL
+  - Corn's horn
+  - fanfare of dawn
+  - Horn of Mourning
+  - Thirteenth Casting
+  - Fantanya Nyel
+  - Hell's Bells
+  - Bofric
+  - King Corn
+  - Sir Dario Argentino
+  - Boldrei
+  - Black Doves
+  - Doppler Klink
+  - Valtrex
+  - Hetta
+image:
+  src: /images/uploads/chatgpt-image-sep-2-2026-06-00-21-pm-mu0tnhd6.webp
 type: article
 kind: lore
-tags:
-- Breaking of the bells
-- KNELL
-- Corn's horn
-- fanfare of dawn
-- Horn of Mourning
-- Thirteenth Casting
-- Fantanya Nyel
-- Hell's Bells
-- Bofric
-- King Corn
-- Sir Dario Argentino
-- Boldrei
-- Black Doves
-- Doppler Klink
-- Valtrex
-- Hetta
 icon: fa-hammer
 fields:
   type: Counter-artifact campaign
@@ -30,10 +32,10 @@ fields:
   remaining: Ten, at least one a Master casting in Korth - the ninth great casting, in a Black Dove tower attached to the Imperial Palace
   known: Breaking a bell does not notify Uriel; the horn can be reproduced; KNELL is likely unique
 sources:
-- worldanvil/sources/site/korth-episode-summaries.txt
-- handouts/hells-bells-dossier.md
-- current-state.md
-- worldanvil/CANON.md
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - handouts/hells-bells-dossier.md
+  - current-state.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-breaking-of-the-bells-article
