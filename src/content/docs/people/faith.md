@@ -1,21 +1,25 @@
 ---
 title: Faith
 description: Faith Zeir, owner of the Vault and Mother Prophet of the Children of Ember, who built a congregation out of her husband's victims.
+tags:
+  - Faith
+  - Faith Zeir
+  - Mother Prophet
+  - The Vault
+  - The Vault Underground
+  - The Vault Below
+  - Children of Ember
+  - Ember
+  - Malrik Zeir
+  - Calcifer
+  - Esther Crona
+  - John C. LeBeefe
+image:
+  src: /images/site/faith-1.webp
+  alt: Faith and Malrik Zeir
+  caption: Faith and Malrik Zeir
 type: person
 kind: people
-tags:
-- Faith
-- Faith Zeir
-- Mother Prophet
-- The Vault
-- The Vault Underground
-- The Vault Below
-- Children of Ember
-- Ember
-- Malrik Zeir
-- Calcifer
-- Esther Crona
-- John C. LeBeefe
 icon: fa-fire
 fields:
   rpgAlignment: Unknown
@@ -32,20 +36,16 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/children-of-ember.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- worldanvil/images/key-figures/06.jpg
+  - sources/site/key-figures.txt
+  - sources/site/children-of-ember.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - worldanvil/images/key-figures/06.jpg
 published: '2026-09-10'
 wa:
   slug: 599e2e63-905e-4c33-af94-06dce29f717b
   uuid: e4882442-a310-4589-88de-e6d866e4bcfc
   category: 25384e32-6c51-426d-8263-5535b8295114
-image:
-  src: /images/site/faith-1.webp
-  alt: Faith and Malrik Zeir
-  caption: Faith and Malrik Zeir
 ---
 
 **The Mother Prophet · The Vault · Children of Ember · Deceased**
@@ -110,3 +110,5 @@ The Inevitables came in through the front with a VIP pass Hallorn had handed the
 - **Eden** — half-sister, resurrected as EDN-00 for a project Faith's household supplied. Status contested.
 - **Grady Marsh** — her prisoner; interrogated personally. Rescued, later missing at Zilspar.
 - **Lorian** — her prisoner; survived, and drew the map that ended her. Alive.
+
+![Faith Zier - Mother Profit.png](/images/uploads/faith-zier-mother-profit-mu0uks0b.webp)
