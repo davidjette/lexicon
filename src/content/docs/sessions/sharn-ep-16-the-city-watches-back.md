@@ -71,3 +71,5 @@ Cultists seized Gemma, restrained her, and violently removed the teleportation c
 ## Consequences
 
 Gemma lost the teleportation chip. The trio gained the EBT-7 and with it the means to hijack Sharn's ArcEye feeds. Hallorn's invitation set the trap for Episode 17.
+
+![Blair with Gemma, Eric, Dario and captive Iron Veil - Sharn Ep 16 — The City Watches Back.png](/images/uploads/blair-with-gemma-eric-dario-and-captive-mu0zokpq.webp)
