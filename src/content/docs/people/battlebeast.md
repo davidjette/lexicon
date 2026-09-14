@@ -1,43 +1,47 @@
 ---
 title: BattleBeast
 description: The lion-man gladiator monk caged in the stables of Fort Maximillien, who tore off his bindings and broke out loudly with an owlbear.
+tags:
+  - BattleBeast
+  - BB
+  - Fort Maximillien
+  - Waterdeep
+  - Purple Dragons
+  - the owlbear
+  - Lenore
+  - Maverick
+  - Shadowhigh
+  - Infantaverse
+  - Battle Beast
+  - lion-man
+  - monk
+  - Dead Man's Hand
+  - Heyu
+  - Nicollo
+  - Sir Loin
+  - leonin
+  - Planet Greg
+  - Lesbos
+  - Cair Ophidian
+  - Euryale
+  - Sharegrave
+  - the Grindhouse
+  - Arena of Moons
+  - Shemeska
+  - Fortune's Wheel
+  - Papa Diaz
+  - Rex Bedsheets
+  - Sigil
+  - the Mortuary
+  - fatemark
+  - Saltmarsh
+  - Grub + Grog
+image:
+  src: /images/gallery/2025-08-22-07.webp
+  alt: BattleBeast
+  caption: Portrait of a massive white-maned lion-man in black and red armour plates, fists bound in red wraps, roaring.
 type: person
 kind: people
-tags:
-- BattleBeast
-- BB
-- Fort Maximillien
-- Waterdeep
-- Purple Dragons
-- the owlbear
-- Lenore
-- Maverick
-- Shadowhigh
-- Infantaverse
-- Battle Beast
-- lion-man
-- monk
-- Dead Man's Hand
-- Heyu
-- Nicollo
-- Sir Loin
-- leonin
-- Planet Greg
-- Lesbos
-- Cair Ophidian
-- Euryale
-- Sharegrave
-- the Grindhouse
-- Arena of Moons
-- Shemeska
-- Fortune's Wheel
-- Papa Diaz
-- Rex Bedsheets
-- Sigil
-- the Mortuary
-- fatemark
-- Saltmarsh
-- Grub + Grog
 icon: fa-paw
 fields:
   rpgAlignment: Unknown
@@ -54,24 +58,20 @@ fields:
   height: Massive (character roster)
   weight: Unknown
 sources:
-- Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
-- Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
-- Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2986, IMG_2987, IMG_2996, IMG_3022, IMG_3023, IMG_3024, IMG_3025, IMG_3026, IMG_3027, IMG_3028, IMG_3033, IMG_3035, IMG_3039, IMG_3040, IMG_3053, IMG_3093, IMG_3100, IMG_3105)
-- sources/dave/2026-09-14-fort-maximillien-as-played.md
-- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
-- sources/dave/2026-09-14-heyu-and-feng.md
-- CANON.md 5ac
-- CANON.md 5ae
-- CANON.md 5af
+  - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
+  - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+  - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2986, IMG_2987, IMG_2996, IMG_3022, IMG_3023, IMG_3024, IMG_3025, IMG_3026, IMG_3027, IMG_3028, IMG_3033, IMG_3035, IMG_3039, IMG_3040, IMG_3053, IMG_3093, IMG_3100, IMG_3105)
+  - sources/dave/2026-09-14-fort-maximillien-as-played.md
+  - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+  - sources/dave/2026-09-14-heyu-and-feng.md
+  - CANON.md 5ac
+  - CANON.md 5ae
+  - CANON.md 5af
 published: '2026-09-10'
 wa:
   slug: battlebeast-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
-image:
-  src: /images/gallery/2025-08-22-07.webp
-  alt: BattleBeast
-  caption: Portrait of a massive white-maned lion-man in black and red armour plates, fists bound in red wraps, roaring.
 ---
 
 **Lion-man · Gladiator monk · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**
@@ -145,3 +145,5 @@ The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Porta
 ## Right now
 
 Deep in Undermountain with the whole party. They have cleared the first level and descended to the second, the Arcane Chambers.
+
+![beast.png](/images/uploads/beast-mu1odzh4.webp)
