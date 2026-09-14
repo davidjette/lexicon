@@ -1,26 +1,28 @@
 ---
 title: Sharn Ep 9 — The Grand Aqueduct
 description: Crossing the aqueduct into the undercity, the trio kill a Drain Snake patrol and find one of them wearing BioTec Security colours.
+tags:
+  - Sharn Ep 9
+  - The Grand Aqueduct
+  - Grand Aqueduct
+  - Drain Snakes
+  - Doppler Klink
+  - Snodgrass
+  - BioTec
+  - Gear Street Markets
+  - Underhive
+  - Renn Tal
+  - Queen B
+image:
+  src: /images/uploads/sharn-ep-9-the-grand-aqueduct-mu0rqt3q.webp
 sidebar:
   order: 209
 type: report
 kind: sessions
-tags:
-- Sharn Ep 9
-- The Grand Aqueduct
-- Grand Aqueduct
-- Drain Snakes
-- Doppler Klink
-- Snodgrass
-- BioTec
-- Gear Street Markets
-- Underhive
-- Renn Tal
-- Queen B
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-9-E28094-the-grand-aqueduct-report
