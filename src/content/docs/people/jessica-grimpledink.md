@@ -1,20 +1,23 @@
 ---
 title: Jessica Grimpledink
 description: Artificer, survivor of the Sub-Transit Collapse, and the engineer who rebuilt Station 5 into the Nest and ran Sharn's rebellion from it.
+tags:
+  - Jessica Grimpledink
+  - Jessica
+  - Grimpledink
+  - The Nest
+  - Station 5
+  - Sub-Transit Collapse
+  - Skyroot Park
+  - Artificer
+  - Morgrave University
+  - Sharn
+  - Fulcrum
+image:
+  src: /images/site/jessica-grimpledink-1.webp
+  alt: Jessica Grimpledink
 type: person
 kind: people
-tags:
-- Jessica Grimpledink
-- Jessica
-- Grimpledink
-- The Nest
-- Station 5
-- Sub-Transit Collapse
-- Skyroot Park
-- Artificer
-- Morgrave University
-- Sharn
-- Fulcrum
 icon: fa-screwdriver-wrench
 fields:
   rpgAlignment: Unknown
@@ -31,18 +34,15 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/images/rebel-factions/01.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/images/rebel-factions/01.jpg
 published: '2026-09-10'
 wa:
   slug: jessica-grimpledink-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/jessica-grimpledink-1.webp
-  alt: Jessica Grimpledink
 ---
 
 **Artificer · Leader of the Nest · Alive**
@@ -126,3 +126,5 @@ Jessica runs rebel intelligence for a free city that is out of fuel and weeks fr
 - **The Inevitables** — her operatives in Sharn from their first night in the city. Alive.
 
 **Hobbies & Pets:** Unknown.
+
+![Jessica Grimpledink with the Eye of Corruption.png](/images/uploads/jessica-grimpledink-with-the-eye-of-corr-mu0wi4i0.webp)
