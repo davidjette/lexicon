@@ -1,21 +1,24 @@
 ---
 title: Preacher
 description: The last Warforged in Sharn, who refused the exile decree and built R.U.S.T. to get the Cogborn out instead.
+tags:
+  - Preacher
+  - R.U.S.T.
+  - RUST
+  - Warforged
+  - Cogborn
+  - The Cogs
+  - Sharn
+  - Gorgonhorn
+  - Misty Kross
+  - Kriss Kross
+  - Lexicon
+  - RUST Runners
+image:
+  src: /images/site/preacher-1.webp
+  alt: Preacher
 type: person
 kind: people
-tags:
-- Preacher
-- R.U.S.T.
-- RUST
-- Warforged
-- Cogborn
-- The Cogs
-- Sharn
-- Gorgonhorn
-- Misty Kross
-- Kriss Kross
-- Lexicon
-- RUST Runners
 icon: fa-robot
 fields:
   rpgAlignment: Unknown
@@ -32,17 +35,14 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- worldanvil/images/rebel-factions/11.jpg
+  - sources/site/rebel-factions.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - worldanvil/images/rebel-factions/11.jpg
 published: '2026-09-10'
 wa:
   slug: preacher-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/preacher-1.webp
-  alt: Preacher
 ---
 
 **Warforged · Founder of RUST · The last Warforged in Sharn · Alive**
@@ -113,3 +113,5 @@ It was Preacher who identified her. The Hundreds had been fighting a hybrid sold
 - **Locke Pierce** — met him at the mountain tunnel; Gorgonhorn is a joint society. Alive.
 
 **Hobbies & Pets:** Unknown. He sings.
+
+![Preacher and Locke.png](/images/uploads/preacher-and-locke-mu0xhcgw.webp)
