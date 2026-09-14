@@ -1,21 +1,23 @@
 ---
 title: Valtrex
 description: 'The elder black dragon of the Korramont: bell-collared, bled by the Empire for three years, freed by the Inevitables, and now claiming the mountain as his...'
+tags:
+  - Valtrex
+  - Vuldrach
+  - Voldrak
+  - Valtrex the Putrid
+  - black dragon
+  - The Korramont
+  - the black lake
+  - Korranberg Foundry
+  - dragon blood
+  - Crown of Seven Stars
+  - KNELL
+  - Erandis Vol
+image:
+  src: /images/uploads/valtrex-mu0teki6.webp
 type: creature
 kind: species
-tags:
-- Valtrex
-- Vuldrach
-- Voldrak
-- Valtrex the Putrid
-- black dragon
-- The Korramont
-- the black lake
-- Korranberg Foundry
-- dragon blood
-- Crown of Seven Stars
-- KNELL
-- Erandis Vol
 icon: fa-dragon
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- worldanvil/CANON.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: valtrex-species
