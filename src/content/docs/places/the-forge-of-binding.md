@@ -62,3 +62,5 @@ His form shattered into red-black light, hanging in the air like blood splatter,
 Moments later the ceiling came in. A massive drill — driven down from the great factory in [the Cogs](/places/the-cogs/), where Esther had gone in with General Stockton Thar and a company of frontline Iron Veil — broke through and crashed to the floor, and Esther dropped down onto it and strode toward the extinguished Forge. [Blair](/people/blair/) burst out of a hidden tunnel and pulled the party into an escape passage that came out in the Underhive vault.
 
 Esther told Richard Blaze at sunrise the next day that she had been searching for something deep beneath the city, had finally found it, and that once she did it was like a veil had been lifted. Then she left for [Crona's Wall](/places/cronas-wall/).
+
+![Esther Crona - Breaking through into the Froge of Binding.png](/images/uploads/esther-crona-breaking-through-into-the-f-mu0yhad3.webp)
