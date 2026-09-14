@@ -17,6 +17,9 @@ tags:
 - Calix
 - Oblivia
 - Infantaverse
+- Temporal Holdings
+- Bank of Harloch
+- Harlochs
 icon: fa-scroll
 fields:
   setting: The Infantaverse - Faerun, the Moonshae Isles, Sigil, the deep past
@@ -33,6 +36,12 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VI.docx
 - sources/dave/2026-09-13-dead-mans-hand-company.md
 - CANON.md 5ab
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2018-05-12"
+- "Oral Histories: Temporal Holdings, 2019-06-08"
+- "Oral Histories: Temporal Holdings, 2019-12-22"
+- "Oral Histories: Temporal Holdings, 2021-05-27"
 published: '2026-09-10'
 wa:
   slug: temple-holdings-llc-article
@@ -49,7 +58,7 @@ wa:
 
 **Campaign · Ages of the Infanta · The founding chronicle of the Infantaverse · Eight arcs · 1481–1492 DR · Complete**
 
-*Played as:* **Ages of the Infanta** · *Also known as:* Temple Holdings · the Temple Holdings chronicle, after the party's company, Temple Holdings LLC
+*Played as:* **Ages of the Infanta** · *Also known as:* Temple Holdings · the Temple Holdings chronicle, after the party's company, Temple Holdings LLC · Temporal Holdings, the company's name after the end of the game
 
 **Temple Holdings LLC** is the founding campaign of the [Infantaverse](/lore/the-infantaverse/), played as **Ages of the Infanta** and named for the holding company the party formed when they bought the derelict Old Temple at Harloch. Over eight arcs between 1481 and 1492 DR it follows a band of shipwreck survivors who become the guardians of a reborn goddess, and are carried by that charge across the world, into the deep past, and at last into the heart of a waking god — ending the Age of the Infanta with the act of forgetting the setting calls the [Oblivia](/lore/the-oblivia/).
 
@@ -72,6 +81,8 @@ The founders are shipwreck survivors rather than a fellowship. Knighted together
 7. [**Leviathan**](/history/arc-vii-leviathan/) — a god's death, the muster of every ally across every age, and the march on Netheril.
 8. [**End of the Infanta**](/history/arc-viii-end-of-the-infanta/) — the last battle inside the Egg, and the Wish that becomes the Oblivia.
 
+In 2019 Dave planned the campaign in six arcs. In June he put the table "about 3/5 through the story" <small>(Oral Histories: Temporal Holdings, 2019-06-08)</small>, and at the close of the fourth arc he wrote: "Hope in Exile - Motherstone - Age of the Infanta - The Infernal Machines, you’re actually 4/6 of the way through the campaign" <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>. The story ran to eight arcs. In Dave's words, "it went longer than I expected." <small>(Dave, 2026-09-14)</small>
+
 ## Mara Mageblood's journal
 
 The first page of a missing explorer's journal states:
@@ -86,6 +97,8 @@ What the campaign uncovers follows from that missing piece: a machine that delet
 
 **Adversaries:** [Wainwright St. Cloud](/people/wainwright-st-cloud/) and the Sword Coast Trading Company · [Calix the Betrayer](/people/calix-the-betrayer/) · Queen Maab and the Forsworn · Ayror and the machines of [Motherstone](/places/motherstone/) · Flex Gimble · Mannemarco, the King of Worms · Morgana La Fay and Mordred · the Netherese queens · and behind all of them, **Cthulhu, the [Leviathan](/lore/the-leviathan/)**.
 
+Mannemarco, the King of Worms, whom the party defeated in the Underglow in the second arc <small>(Oral Histories: Temporal Holdings, 2018-05-12)</small>, and **Peter Glans** of the sixth arc, "the King of the Wyrms from Kara’s latest vision" <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small>, are two different people with two different titles.
+
 ## The auction
 
 When St. Cloud fled the "present" into the past, the assets of the St. Cloud Trading Company, the Company he left behind in [Sigil](/places/sigil/), went up for auction. The party made a group bid, but [Revan Darkcember](/people/revan-darkcember/) bid in secret and beat it: Temple Holdings LLC lost the auction to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on, and the Company of [Dead Man's Hand](/lore/dead-mans-hand/).
@@ -93,3 +106,7 @@ When St. Cloud fled the "present" into the past, the assets of the St. Cloud Tra
 ## How it ends
 
 It ends by deleting itself. The heroes beat the god's head to nothing, touch it with an Obliviator, and spend a final Wish in the six seconds before the negation shockwave — choosing what the world forgets, on the condition that they themselves are forgotten "in all but the vaguest terms." Whether the party keeps the memory or spends it, the Age of the Infanta is over and the Leviathan is unwritten. Every later campaign in the Infantaverse takes place in the hole this one left.
+
+## The Bank of Harloch and Temporal Holdings
+
+The **Bank of Harloch** and its holding company, Temple Holdings, persist well into the future. After the end of the game the company was rebranded **Temporal Holdings**. Sovereign currency is nicknamed **"Harlochs"** because of the bank. <small>(Dave, 2026-09-14)</small>

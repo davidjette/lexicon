@@ -1,6 +1,6 @@
 ---
 title: Calix
-description: The elf lich who authored the Forgetting, buried himself in the crystal to become the Lexicon, and ended up briefing the war against Netheril.
+description: The elf lich who betrayed Motherstone by murdering dozens of Infanta at a peace-treaty meeting, and later briefed the war against Netheril.
 type: person
 kind: people
 tags:
@@ -36,6 +36,8 @@ sources:
 - CANON.md 5x (the DM's account, 2026-09-10)
 - Desktop/D&D/Dead Mans Hand/items/O3255.md
 - CANON.md 5ab
+- CANON.md 5z
+- "Oral Histories: Temporal Holdings, 2018-06-26"
 published: '2026-09-10'
 wa:
   slug: calix-person
@@ -51,7 +53,7 @@ image:
 
 *Also known as:* Calix the Betrayer
 
-**Calix** was an elf wizard and lich, and the author of the Forgetting. He built the [Lexicon](/items/the-lexicon/) together with [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, from Netherese magic and technology, and opened the **Gate Ring** that made Motherstone a data vacuum. He fought alongside [Elistrada](/people/elistrae/) and his sister Eldamir in the war that obliviated Netheril, after Stone and Elistrada had founded Motherstone. He then planned to obliviate Motherstone and frame [Brightmantle](/people/brightmantle/) and the dwarvish people for his betrayal, and buried his own terminal-throne in order to replace the Lexicon with himself, dissolving into the crystal to become one with the Motherstones; Stone threw himself into the [Obliviator](/items/the-obliviator/) first. Calix and Eldamir were cast out of the forgotten city and killed each other, and Calix survived as a lich, mad, no longer knowing how to find his phylactery. Once the party cured the Lexicon in Arc II he was able to locate the city and attack them. They reached his vault, where his hacked throne and his phylactery were hidden in a chamber that had never been used, and they emerged from the phylactery ten years in the future.
+**Calix** was an elf wizard and lich who betrayed Motherstone and brought on the Forgetting. He built the [Lexicon](/items/the-lexicon/) together with [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, from Netherese magic and technology, and opened the **Gate Ring** that made Motherstone a data vacuum. He fought alongside [Elistrada](/people/elistrae/) and his sister Eldamir in the war that obliviated Netheril, after Stone and Elistrada had founded Motherstone. When Stone and Elistrada then invited the Infanta of the world to live in peace in the city, Calix betrayed them: he murdered dozens of Infanta at the peace-treaty meeting, which "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> He planned to obliviate Motherstone and frame [Brightmantle](/people/brightmantle/) and the dwarvish people for his betrayal, and buried his own terminal-throne in order to replace the Lexicon with himself, dissolving into the crystal to become one with the Motherstones; Stone threw himself into the [Obliviator](/items/the-obliviator/) first, and the Forgetting followed. Calix and Eldamir were cast out of the forgotten city and killed each other, and Calix survived as a lich, mad, no longer knowing how to find his phylactery. Once the party cured the Lexicon in Arc II he was able to locate the city and attack them. They reached his vault, where his hacked throne and his phylactery were hidden in a chamber that had never been used, and they emerged from the phylactery ten years in the future.
 
 > Every step is seven days, but never stop to wonder, for wonderings fine but not when time is fleeting for our kingdom. When all the worlds inside your mind, forgetting is oblivion. So never sing this song again of Calix the Betrayer.
 

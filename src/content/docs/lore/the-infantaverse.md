@@ -34,6 +34,8 @@ sources:
 - Desktop/infantaverse-wiki/src/content/docs/concepts/index.md
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Mara Mageblood's Journal.docx
 - CANON.md 5b and 5c (the DM's statements, 2026-09-10)
+- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- "Oral Histories: Temporal Holdings, 2019-12-22"
 published: '2026-09-10'
 wa:
   slug: the-infantaverse-article
@@ -54,7 +56,7 @@ The setting contains an actual machine, the [Obliviator](/items/the-obliviator/)
 
 ## The four canon campaigns
 
-- [**Temple Holdings LLC**](/lore/temple-holdings-llc/) — the founding chronicle, in eight arcs, 1481–1492 DR. Shipwreck to the death of a god.
+- [**Temple Holdings LLC**](/lore/temple-holdings-llc/) — the founding chronicle, in eight arcs, 1481–1492 DR. Shipwreck to the death of a god. In 2019 Dave planned it in six arcs, "4/6 of the way through" after the fourth <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>; "it went longer than I expected." <small>(Dave, 2026-09-14)</small>
 - [**Dead Man's Hand**](/lore/dead-mans-hand/) — five hundred years after the Ages of the Infanta: strangers wake in Sigil's Mortuary, murdered and marked, and go after the cards.
 - [**Starfall: The Next Generation**](/lore/starfall-the-next-generation/) — canon; record not yet recovered.
 - [**Arcaneum**](/lore/arcaneum-campaign/) — canon; record not yet recovered.
@@ -74,7 +76,7 @@ Lore that is erased or hidden in-world — the material the Oblivia took — is 
 **Infanta** — a god born into a mortal child, fused to that soul in order to be born at all. Not an avatar, not possession, and not deathless: the first Infanta "was a human girl who lived and died at a ripe old age."\
 **Moonstone** — the substance seeded across the world when the Starfall broke the Moon; the medium of magic, industry and empire.\
 **The Lexicon** — the mind built by Brightmantle to run the heart of Motherstone; carried in the Anachron after the Second Battle of Motherstone, and known in the Netherese era as the Chronicle.\
-**The Forgetting** — Calix's crime, and the day Motherstone went from hub of the universe to wholly forgotten.\
+**The Forgetting** — the consequence of Calix's betrayal, the murder of dozens of Infanta at a peace-treaty meeting, and the day Motherstone went from hub of the universe to wholly forgotten.\
 **The Oblivia** — the later, larger absence: the End of the Infanta, and the self-keeping hole it left.\
 **The Leviathan** — Cthulhu; also called Mammon; the blind god who consumes worlds in pursuit of a memory.
 

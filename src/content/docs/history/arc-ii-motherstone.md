@@ -50,6 +50,10 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Mara Mageblood's Journal.docx
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone (notes).docx
 - CANON.md 5x (the DM's account, 2026-09-10)
+- CANON.md 5z
+- "Oral Histories: Temporal Holdings, 2018-01-26"
+- "Oral Histories: Temporal Holdings, 2018-04-23"
+- "Oral Histories: Temporal Holdings, 2018-06-26"
 published: '2026-09-10'
 wa:
   slug: arc-ii-E28094-motherstone-plot
@@ -70,7 +74,7 @@ The lie at the centre of it is written on the very first page of [Mara Mageblood
 
 ## The premise
 
-Arc I ended with [Kara](/people/kara/) and [Brother Magnus](/people/brother-magnus/) breaking into an ancient moonstone-powered machine far beneath Snowy Mountain while the rest of the party sheltered the Infanta and her cult at Leftfork. Arc II opens there, in the dark of the mountain's belly. The heroes climb the Great Pipes, find Mara Mageblood's abandoned camp and journal, fight up through generator halls and scaffolded catwalks, realign the power stones of a Power Station, and wake its Clockwork Guardian — and when the great doors grind open, they look out on a wonder.
+Arc I ended with [Kara](/people/kara/) and [Brother Magnus](/people/brother-magnus/) breaking into an ancient moonstone-powered machine far beneath Snowy Mountain while the rest of the party sheltered the Infanta and her cult at Leftfork. From Leftfork the party returned the Infanta to safety at the Gildergreen <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small>, and [Viceroy Couch](/people/cuthbert-couch/) later came into Motherstone through a side adventure with [Yoshi](/people/yoshi/) <small>(Oral Histories: Temporal Holdings, 2018-04-23)</small>. Arc II opens in the machine, in the dark of the mountain's belly. The heroes climb the Great Pipes, find Mara Mageblood's abandoned camp and journal, fight up through generator halls and scaffolded catwalks, realign the power stones of a Power Station, and wake its Clockwork Guardian — and when the great doors grind open, they look out on a wonder.
 
 > A magnificent outgrowth of blue moonstone crystals ten stories tall, surrounded by an elven city, encircled by the mountain itself… Bright blue moonstone crystals catch the sun from all over, as if the city itself was carved from a humming blue geode, with elder oaks growing from its basin, shaped by arcane elven magics into domiciles and long abandoned magical laboratories. A tremendous, eerily motionless, bronze ring the size of a sailing ship seems fixed above the largest moonstone, with an equally motionless orb floating in its center.
 
@@ -176,7 +180,7 @@ That act made everything about Motherstone, not just its location, cursed and ob
 
 ### Calix the Betrayer — the buried throne and the thing he fears
 
-<small>Recovered from the Oblivia.</small> The nursery rhymes make Calix's crime seduction; the recovered record makes it the plot behind **the Forgetting**. He buried his own terminal-throne to replace the Lexicon with himself — to dissolve his mind entirely into the crystal and become one with the Motherstones, using the Lexicon and the Obliviator to gather all the knowledge of the world. He did it to outlast the one thing he is afraid of: the [Leviathan](/lore/the-leviathan/). His remnant says it plainly, in the words of the ancient drama:
+<small>Recovered from the Oblivia.</small> After Stone and Elistrada invited the Infanta of the world to live in peace in Motherstone, Calix betrayed them: at the peace-treaty meeting he murdered dozens of Infanta, a massacre that "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> **The Forgetting** followed from that betrayal. The nursery rhymes tell Calix's crime as a seduction. He buried his own terminal-throne to replace the Lexicon with himself — to dissolve his mind entirely into the crystal and become one with the Motherstones, using the Lexicon and the Obliviator to gather all the knowledge of the world. He did it to outlast the one thing he is afraid of: the [Leviathan](/lore/the-leviathan/). His remnant says it plainly, in the words of the ancient drama:
 
 > My sin is the Forgetting.\
 > Time is the only recompense.\

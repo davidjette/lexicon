@@ -14,6 +14,7 @@ tags:
 - Snowdown
 - Harloch
 - Leftfork
+- Gildergreen
 - Bask Falls
 - Sycorax
 - Star Quendi
@@ -37,6 +38,8 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VI.docx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part VII.docx
+- "Oral Histories: Temporal Holdings, 2018-01-26"
+- "Oral Histories: Temporal Holdings, 2018-04-23"
 published: '2026-09-10'
 wa:
   slug: arc-i-E28094-hope-in-exile-plot
@@ -124,6 +127,8 @@ The garrison marches out and leaves Harloch undefended; the Jarl, already saved 
 The final session splits the party. While Yoshi, Fulori and Couch race back to shelter the Infanta and her cult at Leftfork — now hunted by the elf-lich Calix himself — Kara and Brother Magnus follow Fhastine's clue. A weathered dragonborn healer recognises the two symbols from the journal and leads them to a mine beneath **Snowy Mountain**, where a dead explorer left a letter for her daughter:
 
 > I have found its belly, but in breaking it I have undone myself… I've come so close to understanding. I've written it all down for you, but I fear you won't be able to read it for many many centuries. If you find me, please, push on and find the mother stone.
+
+After the shelter at Leftfork, the party returned the Infanta to safety at the Gildergreen and went on into Motherstone. Dave's recap on the eve of the second arc: "you guys return the infanta to safety at the Gildergreen and then wandered through ancient titanic pipes into the hidden city of Motherstone." <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small> Couch reached Motherstone later, through a side adventure with Yoshi. <small>(Oral Histories: Temporal Holdings, 2018-04-23)</small>
 
 ### What was buried under the mountain
 
