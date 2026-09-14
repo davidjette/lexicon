@@ -1,27 +1,29 @@
 ---
 title: Korth Ep 3 — The Last Mourning
 description: Vex d'Lyrandar dies on Locke Pierce's deck, and Locke demonstrates the Ruby Nova over the Mournlands as his answer to the bells.
+tags:
+  - Korth Ep 3
+  - The Last Mourning
+  - Ruby Nova
+  - Locke Pierce
+  - Vex d'Lyrandar
+  - Mt. Silicon
+  - Mournlands
+  - Mistborn illness
+  - Bright Dawn
+  - The Hundreds
+  - Project EDEN
+  - Fantanya Nyel
+image:
+  src: /images/uploads/korth-ep-3-the-last-mourning-mu0s94cm.webp
 sidebar:
   order: 303
 type: report
 kind: sessions
-tags:
-- Korth Ep 3
-- The Last Mourning
-- Ruby Nova
-- Locke Pierce
-- Vex d'Lyrandar
-- Mt. Silicon
-- Mournlands
-- Mistborn illness
-- Bright Dawn
-- The Hundreds
-- Project EDEN
-- Fantanya Nyel
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-3-E28094-the-last-mourning-report
