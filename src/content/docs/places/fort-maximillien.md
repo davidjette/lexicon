@@ -33,18 +33,19 @@ fields:
   rulingBody: Colonel Angus, urban detachment of the Purple Dragons; under General Peterbilt Varkus
   population: Roughly thirty named garrison soldiers plus civilian cook and surgeon
   demonym: Unknown
-  status: Active garrison; breached on the night of the Grub & Grog arrests
-  includedLocations: Gatehouse; Parade Grounds; Animal Pens; Inner Courtyard; Arcade Hall; Dispatch Antechamber; Kitchen; Command and Dispatch; Barracks; Infirmary and Long Rest Chamber; Side Gate House; Back Hall; Lower Barracks; Dungeon Stairs; Guard Room; Trash Postern; Inner Storage; the Upper Bastion; the Dungeon; the Trash Pit and the maze beneath
+  status: Active garrison; breached on the night of the Grub + Grog arrests
+  includedLocations: Gatehouse; Parade Grounds; Animal Pens; Inner Courtyard; Arcade Hall; Dispatch Antechamber; Kitchen; Command and Dispatch; Barracks; Infirmary and Long Rest Chamber; Side Gate House; Back Hall; Lower Barracks; Dungeon Stairs; Guard Room; Trash Postern; Inner Storage; the Upper Bastion; the Dungeon; the Trash Pit, which is the Yawning Portal into Undermountain
 sources:
 - C:/dev/fort-max/fort-maximillien.md
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
 published: '2026-09-10'
 wa:
   slug: fort-maximillien-location
   category: c3f639a3-eec5-4058-a4cc-d3e5b1d76287
 ---
 
-**Fort Maximillien** is a fortified garrison and guard post inside occupied [Waterdeep](/places/waterdeep/), held by an urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) under [Colonel Angus](/people/colonel-angus/) and answering to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor of the city. It stands on the ruins of the tavern where the final battle against **Asmodeus** was fought at the close of the [Infanta Crisis](/lore/the-infanta-crisis/), a site consecrated and then fortified. Four prisoners of the occupation were held there — Lenore, BattleBeast, Maverick and Shadowhigh. On the night of the breakout Lenore and BattleBeast fought their way out and went down the trash pit; at dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground.
+**Fort Maximillien** is a fortified garrison and guard post inside occupied [Waterdeep](/places/waterdeep/), held by an urban detachment of the [Purple Dragons](/organizations/the-purple-dragons/) under [Colonel Angus](/people/colonel-angus/) and answering to [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor of the city. It stands on the ruins of the tavern where the final battle against **Asmodeus** was fought at the close of the [Infanta Crisis](/lore/the-infanta-crisis/), a site consecrated and then fortified. Four prisoners of the occupation were held there — Lenore, BattleBeast, Maverick and Shadowhigh. On the night of the breakout Lenore and BattleBeast fought their way out and went down the trash pit; at dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground. The trash pit is the Yawning Portal into Undermountain, and the hanged were raised there.
 
 > Peace is maintained, not requested.\
 > — Colonel Angus, Urban Detachment of the Purple Dragons
@@ -84,6 +85,8 @@ Under a loose flagstone in the inner storage, wrapped in oiled cloth, someone ha
 The stable's torches burn a magical yellow — the War Wizards who occupy the upper bastion will not allow unsafe lanterns near the animals. BattleBeast tore off his chains at the second attempt and, with the wounded owlbear, lifted the cage door off its hinges, killed two guards and went through the back wall of the stable toward the parade ground. Nicollo, having forged the General's signature off a stolen execution order in the kitchen, was pushed aside by Colonel Angus in the command centre; Sir Loin fell to BattleBeast in the kitchen doorway; Angus himself was brought down by prisoner and owlbear together. Lenore, healed in a locked ward beside an inert biomechanical sarcophagus, picked her cuffs and blinded the nurse with his own acid. Heyu, invisible, shattered a guard on a tower stair with a frosty ray. The survivors went down the trash pit — a huge pit with no bottom in sight — through a portal Lenore opened far below, and landed on smooth stone in a pitch-black subterranean maze lined with rusty shields and obscene graffiti. Nicollo stayed on the lip and surrendered.
 
 At dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground — torn apart by wand blasts from the battlements when they tried to break free — before the garrison, the War Wizard detachment, General Varkus on a white steed, and a revived Angus and Sir Loin. Their bodies fell into the dark beneath the fort, onto the dome sheltering the three who got out.
+
+The trash pit "happened to be the 'Yawning Portal' of Undermountain Fame." In the dungeon the party were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)."
 
 ## Command loyalties
 

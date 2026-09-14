@@ -1,6 +1,6 @@
 ---
 title: Shadowhigh
-description: The cowgirl ranger held in the Fort Maximillien dungeon and hanged at dawn, her small dragon shot out of the air trying to burn the ropes.
+description: The cowgirl ranger hanged at dawn at Fort Maximillien, her small dragon shot down trying to burn the ropes, and raised by Tripp Sandhill in Undermountain.
 type: person
 kind: people
 tags:
@@ -29,7 +29,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Dead; body fell into the dungeon-maze beneath Fort Maximillien
+  residence: Undermountain, with the party
   gender: Female
   age: Unknown
   eyes: Unknown
@@ -42,15 +42,16 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
 published: '2026-09-10'
 wa:
   slug: shadowhigh-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
 ---
 
-**Species unknown · Cowgirl ranger · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Dead — hanged at dawn**
+**Species unknown · Cowgirl ranger · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**
 
-**Shadowhigh** was a cowgirl ranger, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and the only one under sentence of death. She was arrested at Ard Farkle's after shooting peasants that Rex Bedsheets had dominated, was stunned by a war wizard and dragged in chains to the fort, and was held below its lower halls under a War Wizard and two jailers. At dawn she was led blindfolded, gagged and bound to the gallows on the parade ground with [Maverick](/people/maverick/) and Barold Bonds; her small dragon flew in to burn the ropes and was shot out of the air, and all three prisoners were stunned and torn to shreds by blasts from wanded wizards on the battlements.
+**Shadowhigh** was a cowgirl ranger, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and the only one under sentence of death. She was arrested at Ard Farkle's after shooting peasants that Rex Bedsheets had dominated, was stunned by a war wizard and dragged in chains to the fort, and was held below its lower halls under a War Wizard and two jailers. At dawn she was led blindfolded, gagged and bound to the gallows on the parade ground with [Maverick](/people/maverick/) and Barold Bonds; her small dragon flew in to burn the ropes and was shot out of the air, and all three prisoners were stunned and torn to shreds by blasts from wanded wizards on the battlements. Her body fell through the trash hole beneath the fort, which is the Yawning Portal into Undermountain, and Tripp Sandhill raised her there.
 
 ## Physical description
 
@@ -88,6 +89,10 @@ At Ard Farkle's she ran in and shot the peasants Rex Bedsheets had dominated, wh
 
 At dawn she, Maverick and Barold were led blindfolded, gagged and bound to the gallows on the parade ground, before the garrison, the War Wizard detachment and General Varkus on a white steed. Her dragon flew in to burn the ropes and was cut down by a crossbow bolt. Maverick misty-stepped clear and Barold broke his bindings; all three were stunned and torn to shreds by blasts from wanded wizards on the battlements. Their bodies fell into the dark below the fort, onto the dome sheltering [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and Heyu.
 
+## Raised in Undermountain
+
+The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." In return the party helped Tripp take revenge for the death of his own adventuring party.
+
 ## Right now
 
-Shadowhigh is dead, hanged at dawn on the parade ground of Fort Maximillien before the garrison, the War Wizard detachment and General Varkus on a white steed. The module's hook had read *"scheduled for hanging at dawn unless events change."*
+Alive, and deep in Undermountain with Heyu, Lenore, [Maverick](/people/maverick/), [BattleBeast](/people/battlebeast/), Rodriel and Barold. The party have cleared the first level and descended to the second, the Arcane Chambers. The module's hook at the fort had read *"scheduled for hanging at dawn unless events change."*

@@ -1,6 +1,6 @@
 ---
 title: Maverick
-description: The drow bard prince interrogated upstairs at Fort Maximillien, betrayed by Nicollo, and hanged at dawn beside Shadowhigh.
+description: The drow bard prince interrogated upstairs at Fort Maximillien, betrayed by Nicollo, hanged at dawn, and raised by Tripp Sandhill in Undermountain.
 tags:
   - Maverick
   - Fort Maximillien
@@ -35,7 +35,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Dead; body fell into the dungeon-maze beneath Fort Maximillien
+  residence: Undermountain, with the party
   gender: Male
   age: Unknown
   eyes: Unknown
@@ -48,17 +48,18 @@ sources:
   - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
   - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
   - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
 published: '2026-09-10'
 wa:
   slug: maverick-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
 ---
 
-**Dark elf · Bard · Prince · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Dead — hanged at dawn**
+**Dark elf · Bard · Prince · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**
 
 **Also known as:** Maverick Asswell
 
-Maverick was a dark elf bard and prince, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and the only one questioned personally by [General Peterbilt Varkus](/people/peterbilt-varkus/). Taken on his knees with crossbows and halberds pointed at him, he was lifted to his feet, shackled as a gentleman and driven to the fort in a passenger carriage; the paladin **Sir Merriam Wordsworker** took custody of him and led him up the tower stair to the upper bastion, where he was questioned across a well-appointed desk while two War Wizards read his mind. He talked Merriam round to his innocence, and then **Nicollo** was brought in and betrayed him, claiming **Phillip Klaxon**'s service and the **RUIN** card for himself. Varkus sentenced him to hang at dawn. He was thrown into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), led blindfolded and gagged to the parade-ground gallows, misty-stepped off the scaffold, and was torn apart by wanded wizards on the battlements; his body fell through the dark onto the dome sheltering the friends who got out.
+Maverick was a dark elf bard and prince, one of four companions taken by the Imperial garrison of [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/), and the only one questioned personally by [General Peterbilt Varkus](/people/peterbilt-varkus/). Taken on his knees with crossbows and halberds pointed at him, he was lifted to his feet, shackled as a gentleman and driven to the fort in a passenger carriage; the paladin **Sir Merriam Wordsworker** took custody of him and led him up the tower stair to the upper bastion, where he was questioned across a well-appointed desk while two War Wizards read his mind. He talked Merriam round to his innocence, and then **Nicollo** was brought in and betrayed him, claiming **Phillip Klaxon**'s service and the **RUIN** card for himself. Varkus sentenced him to hang at dawn. He was thrown into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), led blindfolded and gagged to the parade-ground gallows, misty-stepped off the scaffold, and was torn apart by wanded wizards on the battlements; his body fell through the dark onto the dome sheltering the friends who got out, in Undermountain, where Tripp Sandhill raised him.
 
 ## Physical description
 
@@ -80,6 +81,14 @@ Varkus, Marshall of the Western Vanguard, does not question street prisoners. He
 
 <small>From the session record.</small> Taken on his knees with crossbows and halberds pointed at him, he was lifted respectfully to his feet, bound in light shackles as a gentleman, and driven to the fort in a passenger carriage. The paladin **Sir Merriam Wordsworker** took custody of him and led him up the tower stair to the upper bastion. He was questioned in a plush armchair across a well-appointed desk while two War Wizards stood behind Merriam reading his mind; on the desk lay his rapier, his quill and a loosely wrapped deck of cards with **RUIN** peeking out. He talked Merriam round to his innocence and even to investigating Rex Bedsheets — and then Varkus came in with **Phillip Klaxon** and **Griddy Champagne**, demanding the true reason for the attack and whether they worked for his enemies. Maverick explained himself well enough to make Klaxon fume. Then the fort erupted below; then Nicollo was brought in and, to Maverick's stunned face, betrayed him — claiming Klaxon's service and the RUIN card for himself. Griddy slipped the card into her bra. Varkus passed sentence: hanging, at dawn.
 
+## The gallows
+
+Thrown stunned into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), where they traded stories and regrets, he was led blindfolded and gagged to the parade-ground gallows at dawn with Shadowhigh and Barold Bonds, before the whole garrison and Varkus on a white steed. He misty-stepped off the scaffold. Wanded wizards on the battlements tore all three of them to shreds. His body fell through the dark onto the dome sheltering the friends who got out.
+
+## Raised in Undermountain
+
+The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." In return the party helped Tripp take revenge for the death of his own adventuring party.
+
 ## Right now
 
-Dead. Thrown stunned into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), where they traded stories and regrets, he was led blindfolded and gagged to the parade-ground gallows at dawn with Shadowhigh and Barold Bonds, before the whole garrison and Varkus on a white steed. He misty-stepped off the scaffold. Wanded wizards on the battlements tore all three of them to shreds. His body fell through the dark onto the dome sheltering the friends who got out.
+Alive, and deep in Undermountain with Heyu, [Shadowhigh](/people/shadowhigh/), [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/), Rodriel and Barold. The party have cleared the first level and descended to the second, the Arcane Chambers.

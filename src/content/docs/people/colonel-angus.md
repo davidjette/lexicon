@@ -106,4 +106,4 @@ A disguised Nicollo shoved forged orders under his nose in the command centre de
 **Sergeant Drask** — a cynic in the pens who thinks executions are bad for morale. Active.\
 **Surgeon Alaire** — a civilian in his fort who does not want bloodshed and says so. Active.\
 **Sir Loin** — a handsome white-clad knight with long black hair, a pencil moustache and a thin ornate longsword; fell in the kitchen doorway, revived for the dawn. Active.\
-**Shadowhigh** — a prisoner he intended to hang without ceremony. [Hanged at dawn](/people/shadowhigh/).
+**Shadowhigh** — a prisoner he intended to hang without ceremony. [Hanged at dawn](/people/shadowhigh/), and raised in Undermountain.

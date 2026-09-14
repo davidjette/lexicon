@@ -32,7 +32,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Escaped Fort Maximillien; in the dungeon-maze beneath it
+  residence: Undermountain, with the party
   gender: Female
   age: Unknown
   eyes: Unknown
@@ -45,6 +45,7 @@ sources:
   - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
   - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
   - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
 published: '2026-09-10'
 wa:
   slug: lenore-person
@@ -75,8 +76,14 @@ And, to Lenore herself: *"You're not like the others they bring through here. Th
 
 She had been shot from behind outside the inn by a rogue who mistook her for someone named "Lexi", poisoned and left dying, revived by Maverick, and then stabbed deeply in the torso by a dominated Nicollo. A Purple Dragon with a holy symbol laid hands on her in the mud, and she was carried to the fort on a stretcher. She woke nude under a white sheet, healed, handcuffed to a gurney beside an inert biomechanical sarcophagus covered in arcane markings; a medic told her to lie still. She picked the cuffs, waited beside the door in an open hospital gown, splashed the returning nurse with his own jar of acid and fried him with a shocking grasp. Beyond a side door she found a huge bottomless pit littered with trash. She ran into Nicollo and Heyu, teleported BattleBeast out of his fight with Colonel Angus, opened a portal far down inside the pit, and jumped with Heyu and BattleBeast — Nicollo stayed on the lip and turned himself in. The **RUIN** card she had been carrying, the thing Nicollo came to Waterdeep for, was seized with her and ended the night in Griddy Champagne's keeping upstairs.
 
+In the dark of the maze beneath the fort she fitted on the slinky black leather armour Heyu had saved from a defeated foe, still in her glasses and black bob, when three bodies fell onto the dome above her: [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and Barold, hanged at dawn.
+
+## Undermountain
+
+The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." In return the party helped Tripp take revenge for the death of his own adventuring party.
+
 ## Right now
 
-In the dark of the maze beneath the fort, fitting on the slinky black leather armour Heyu saved from a defeated foe — still in her glasses and black bob — when three bodies fall onto the dome above her: [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and Barold, hanged at dawn.
+Deep in Undermountain with the whole party, the hanged three alive again. They have cleared the first level and descended to the second, the Arcane Chambers.
 
 ![Lenore candle.png](/images/uploads/lenore-candle-mu0x8b4n.webp)

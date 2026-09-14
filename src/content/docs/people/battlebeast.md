@@ -30,7 +30,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Escaped Fort Maximillien; in the dungeon-maze beneath it
+  residence: Undermountain, with the party
   gender: Male
   age: Unknown
   eyes: Unknown
@@ -43,6 +43,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3100, IMG_3105)
 published: '2026-09-10'
 wa:
   slug: battlebeast-person
@@ -79,6 +80,12 @@ One of the wall bolts holding his chains has worked loose in its socket. Nobody 
 
 Taken face-down in a carriage track in the rain, his white fur brown with mud and blood, he was caged on a flatbed built for horses and driven to the fort, where the guards chained him in the stable cage opposite a wounded owlbear and laughed at his fear of it. He began a pantomime parlay with the beast. The guards mentioned that both of them were to be culled at dawn along with the other executions. His first attempt to tear off his bindings failed; the second did not. Together he and the owlbear lifted the cage door off its hinges and pushed it onto a guardsman, killed two guards, and the owlbear went out through the back wall of the stable. BattleBeast savaged the cook and the kitchen guard, was wounded by Sir Loin in the kitchen doorway, and with the owlbear brought down [Colonel Angus](/people/colonel-angus/) himself, both of them grievously wounded in the doing. [Lenore](/people/lenore/) teleported him out of the fight, and he went down the fort's trash pit through her portal with her and Heyu.
 
+In the pitch black beneath the fort he sheltered with Lenore and Heyu under Heyu's dome, onto which, at dawn, fell the bodies of [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and Barold.
+
+## Undermountain
+
+The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." In return the party helped Tripp take revenge for the death of his own adventuring party.
+
 ## Right now
 
-In the pitch black of a subterranean maze beneath the fort, with Lenore and Heyu, under Heyu's sheltering dome — onto which, at dawn, fell the bodies of [Shadowhigh](/people/shadowhigh/), [Maverick](/people/maverick/) and Barold. Half the party is alive. The module's own reward ledger had described his recovery in four words: *"a dangerous ally freed."*
+Deep in Undermountain with the whole party. They have cleared the first level and descended to the second, the Arcane Chambers. The module's own reward ledger had described his recovery in four words: *"a dangerous ally freed."*
