@@ -74,6 +74,7 @@ export default defineConfig({
 				{ label: 'Home', link: '/' },
 				...KINDS.map(([directory, label]) => ({ label, collapsed: true, items: [{ autogenerate: { directory } }] })),
 				{ label: 'Maps', link: '/maps/' },
+				{ label: 'Gallery', link: '/gallery/' },
 				{ label: 'Sealed Records', link: '/sealed-records/' },
 			],
 		}),
