@@ -1,0 +1,17 @@
+# Temple Holdings: Dave's rulings on Oral Histories conflicts C1-C10, given in chat 2026-09-14 (verbatim)
+
+Given in answer to the ten highest-ranked conflicts between the contemporary Temporal Holdings chat and the
+wiki. The C-numbers below refer to these questions:
+- C1: the Second Battle of Motherstone. Was Roland controlled through the Palantir, and did Carlysle and the
+  Palantir go into the Obliviator?
+- C2: was Lex built into the Arielle, leaving the Motherstone Lex dead?
+- C3: the campaign's arc count and length.
+- C4: June and Chronocypher.
+- C5: Zeal rises into orbit and St. Cloud is captured alive.
+- C6: Una.
+- C7: the epilogue and Temple Holdings' fate.
+- C8: the Waning One.
+- C9: Excalibur.
+- C10: the origin of the Infernal Machines.
+
+> C1 - go with chat's version C2 - chat C3 note important, it went longer than I expected C4 June is a separate Infanta that Chronocypher replaces when the party returns to the "present". So Chronocypher experiences that arc again but as the child June, and in the last moment rather than dying, is blown free of refue and rescued by the party, who seemed to have just left for the past but return at level 20+ having gone through the great back half of the campaign. C5 Chat is correct. C6 Una is one girl and she is the Infanta of War (Tempus). C7 this is correct, the Bank of Harloch and its holding company Temple Holdings (rebranded Temporal Holdings after the end of the game) presists well into the future.  Sovereign currency is nicknamed "Harlochs" because of this. But it does lose the bid to Revan's NIMBUS Corp C8 Chat is correct, Waning One is in Silverbane and Drefan carries him, letting him out ocassionally for carnal purposes. C9 Chat is correct, Excalibur was still in a stone in the auction and he draws it once they get into the vault.  In that episode, which was a sort of one shot interlude, the gang goes to this auctin because they heard something St Cloud was looking for was there (the Amulet of Kai Ryssdall - a gem big enough to cast Greater Gate. this was a key part of his plan to summon Asmodeus into the heart of Waterdeep) they attend in finery as guests, the Von Lampes are there.  These are analogs to the Cassalanters in dragon Heist, in this telling, they are the owners of Tiffany House and a pact with Asmodeus, they are there to get the Amulet as well.  The objects in the room are illusions, the real treasures are in a vault below.  The party is told to break Zebidiah out of jail - Zanzibar's twin and a rascal - Zebediah got himself arrested on purpose because the jailcell had a way through the cellars to below the vault, where he was able to use his memorization of a floor pattern to evade the deadly traps and get to the Amulet, Excalibur, and more.  In the auction above, Stonecypher used the Vault Wand from the train episode to create a temporary space in the bathroom, waited for the Von Lampes to enter, and then closed the space, voiding them.  They later end up on the train in the finale scene.  C10 there are many false tellings of the origins of the Infernal/Eldritch machines because of obliviation and fog of war/history.  The true nature of them is that they are parts of Zoth's craft/Rlyeh scattered over deep time.  But some would know them as Netherese, when they obliviated they had new owners, and so on, only St Cloud had a really fully picture, and briefly, the party.  The Lexicon wishes it could know the full story, and it drives it insane.
