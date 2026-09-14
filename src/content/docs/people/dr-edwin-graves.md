@@ -1,21 +1,24 @@
 ---
 title: Dr. Edwin Graves
 description: The polite owner of Circuit City, the secret owner of BioTec, and the Cog Collector who fed Cogborn bodies into Project E.D.E.N. for four years.
+tags:
+  - Edwin Graves
+  - Dr. Edwin Graves
+  - Graves
+  - Cog Collector
+  - The Cog Collector
+  - E.G.
+  - Circuit City
+  - BioTec
+  - Project EDEN
+  - Project E.D.E.N.
+  - Cogborn
+  - Gear Street
+image:
+  src: /images/site/dr-edwin-graves-1.webp
+  alt: Dr. Edwin Graves
 type: person
 kind: people
-tags:
-- Edwin Graves
-- Dr. Edwin Graves
-- Graves
-- Cog Collector
-- The Cog Collector
-- E.G.
-- Circuit City
-- BioTec
-- Project EDEN
-- Project E.D.E.N.
-- Cogborn
-- Gear Street
 icon: fa-user-doctor
 fields:
   rpgAlignment: Unknown
@@ -32,19 +35,16 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- worldanvil/sources/site/key-figures.txt
-- worldanvil/sources/site/biotec.txt
-- worldanvil/sources/site/mission-board.txt
-- worldanvil/sources/site/ebt-7.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/home.txt
+  - worldanvil/sources/site/key-figures.txt
+  - worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/mission-board.txt
+  - worldanvil/sources/site/ebt-7.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/home.txt
 published: '2026-09-10'
 wa:
   slug: dr-edwin-graves-person
   category: 25384e32-6c51-426d-8263-5535b8295114
-image:
-  src: /images/site/dr-edwin-graves-1.webp
-  alt: Dr. Edwin Graves
 gallery:
   - src: /images/site/dr-edwin-graves-2.webp
     alt: 'Owner: Dr. Edwin Graves'
