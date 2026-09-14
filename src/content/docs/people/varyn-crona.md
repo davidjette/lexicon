@@ -1,21 +1,23 @@
 ---
 title: Varyn Crona
 description: High Elf paladin, head of the Crimson Sun, Eternal Guardian to three Emperors, and the soul Esther Crona carried in her sword.
+tags:
+  - Varyn Crona
+  - Vayrn Crona
+  - Varyn
+  - Crona
+  - Eternal Guardian
+  - Crimson Sun
+  - Imperial Council
+  - Council of 13
+  - Forge of Binding
+  - Esther Crona
+  - Aerenal
+  - High Elf
+image:
+  src: /images/uploads/vayrn-crona-eternal-guardian-mu0n5ghk.webp
 type: person
 kind: people
-tags:
-- Varyn Crona
-- Vayrn Crona
-- Varyn
-- Crona
-- Eternal Guardian
-- Crimson Sun
-- Imperial Council
-- Council of 13
-- Forge of Binding
-- Esther Crona
-- Aerenal
-- High Elf
 icon: fa-sun
 fields:
   rpgAlignment: Unknown
@@ -32,14 +34,14 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/wa/varyn-crona-person.txt
-- sources/wa/esther-crona-person.txt
-- sources/wa/the-crimson-sun-organization.txt
-- sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
-- sources/site/esther-crona.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- worldanvil/CANON.md
+  - sources/wa/varyn-crona-person.txt
+  - sources/wa/esther-crona-person.txt
+  - sources/wa/the-crimson-sun-organization.txt
+  - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
+  - sources/site/esther-crona.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: varyn-crona-person
