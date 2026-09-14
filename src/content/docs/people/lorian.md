@@ -1,21 +1,24 @@
 ---
 title: Lorian
 description: Trafficking survivor turned Oath of Vengeance paladin; the Nest's best witness against the Zeirs, and the man who counted the undead at Thronehold.
+tags:
+  - Lorian
+  - The Nest
+  - The Inevitables
+  - Silver Flame
+  - Oath of Vengeance
+  - Tira
+  - Zero-One
+  - The Vault Below
+  - Children of Ember
+  - Malrik Zeir
+  - Hallorn d'Lyrandar
+  - Thronehold
+image:
+  src: /images/site/lorian-1.webp
+  alt: Lorian
 type: person
 kind: people
-tags:
-- Lorian
-- The Nest
-- The Inevitables
-- Silver Flame
-- Oath of Vengeance
-- Tira
-- Zero-One
-- The Vault Below
-- Children of Ember
-- Malrik Zeir
-- Hallorn d'Lyrandar
-- Thronehold
 icon: fa-horse-head
 fields:
   rpgAlignment: Unknown - no source records an alignment
@@ -32,21 +35,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
-- episodes.md
-- factions.md
-- session-2026-06-18-recap.md
-- worldanvil/CANON.md
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - episodes.md
+  - factions.md
+  - session-2026-06-18-recap.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: bb5d1c45-6b93-46b2-99a3-7d83f8ea5eac
   uuid: 7346fb9e-d02c-4889-82af-71ea792b18db
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
-image:
-  src: /images/site/lorian-1.webp
-  alt: Lorian
 ---
 
 **Paladin of the Silver Flame, Oath of Vengeance · The Nest · The Inevitables · Level 5 · Alive**
@@ -145,3 +145,5 @@ Hot-headed, by the assessment of the cleric who nursed him back.
 Tira, a light-brown palomino steed, summoned.
 
 **Related:** [The Nest](/organizations/the-nest/) · [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) · [Faith Zeir](/people/faith/) · [Uriel Qualanthri](/people/uriel-qualanthri/)
+
+![Lorian on Tira.png](/images/uploads/lorian-on-tira-mu10xuqs.webp)
