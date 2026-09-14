@@ -61,3 +61,5 @@ The Cog Collector is dead, what does this mean for [Project E.D.E.N.](/organizat
 ## Consequences
 
 The trio walked out with bank records, property deeds, 800 gold and — decisively — an **ArcEye Crystallizer Lens**, the device they had been hunting since Episode 6. [Grady Marsh](/people/grady-marsh/)'s memory could finally be pulled. The Cog Collector was dead, and the question of what Project E.D.E.N. was for was left standing.
+
+![Edwin Graves and Dario.png](/images/uploads/edwin-graves-and-dario-mu0zaafd.webp)
