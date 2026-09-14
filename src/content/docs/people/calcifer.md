@@ -1,21 +1,23 @@
 ---
-title: Calcifer
+title: Calcifer Crona-Blaze
 description: The eight-year-old son of Esther Crona and Richard Blaze, marked at birth by Uriel, worshipped as Ember, and officially dead.
+tags:
+  - Calcifer
+  - Calcifer Blaze
+  - Calsifer
+  - Ember
+  - Esther Crona
+  - Richard Blaze
+  - Uriel Qualanthri
+  - Children of Ember
+  - Birthmark
+  - Grady Marsh
+  - ArcEye Crystallizer
+  - Veil Building
+image:
+  src: /images/uploads/calcifer-crona-blaze-mu0hrfir.webp
 type: person
 kind: people
-tags:
-- Calcifer
-- Calcifer Blaze
-- Calsifer
-- Ember
-- Esther Crona
-- Richard Blaze
-- Uriel Qualanthri
-- Children of Ember
-- Birthmark
-- Grady Marsh
-- ArcEye Crystallizer
-- Veil Building
 icon: fa-child
 fields:
   rpgAlignment: Unknown
@@ -32,11 +34,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/mission-board.txt
-- sources/site/children-of-ember.txt
-- sources/site/sharn-episode-summaries.txt
-- worldanvil/CANON.md
+  - sources/site/key-figures.txt
+  - sources/site/mission-board.txt
+  - sources/site/children-of-ember.txt
+  - sources/site/sharn-episode-summaries.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: 05f12119-f896-4827-bf26-c5b83b74dcf5
