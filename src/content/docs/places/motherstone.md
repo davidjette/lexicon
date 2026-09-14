@@ -1,40 +1,40 @@
 ---
 title: Motherstone
 description: 'The buried crystal city inside Snowy Mountain: capital of the world, home of the Lexicon and the Obliviator, erased from every mind in an afternoon.'
+tags:
+  - Motherstone
+  - the Crystal City
+  - Crystal City
+  - lost city of the Faceless Guardian
+  - Snowdown
+  - Snowy Mountain
+  - Moonshae Isles
+  - moonstone
+  - the Lexicon
+  - the Obliviator
+  - the Mundi
+  - the Drek
+  - the Drembles
+  - the Betrayal
+  - Oblivia
+  - Temple Holdings
+  - Infantaverse
+  - Brightmantle
+  - the Anachron
+  - Second Battle of Motherstone
+  - Ayror
+  - Roland Deschain
+  - Brother Magnus
+  - Wainwright St. Cloud
+  - Stone
+  - Elistrada
+  - Calix's vault
+  - Winking Depths
+  - the Netherese
+  - Eldamir
+  - the Founding
 type: settlement
 kind: places
-tags:
-- Motherstone
-- the Crystal City
-- Crystal City
-- lost city of the Faceless Guardian
-- Snowdown
-- Snowy Mountain
-- Moonshae Isles
-- moonstone
-- the Lexicon
-- the Obliviator
-- the Mundi
-- the Drek
-- the Drembles
-- the Betrayal
-- Oblivia
-- Temple Holdings
-- Infantaverse
-- Brightmantle
-- the Anachron
-- Second Battle of Motherstone
-- Ayror
-- Roland Deschain
-- Brother Magnus
-- Wainwright St. Cloud
-- Stone
-- Elistrada
-- Calix's vault
-- Winking Depths
-- the Netherese
-- Eldamir
-- the Founding
 icon: fa-gem
 fields:
   type: Ancient city (subterranean)
@@ -47,24 +47,24 @@ fields:
   includedLocations: The Trunks; the Flares; the Grand Concourse; the Shifting City; the Terminal Room; the Great Stairs; the Armory; the Arcaneum; the Drembles; the Deep Crystal Mine; the Deepgate; the Blood Seal; the Crack; the Eldergreen
   rpgAlignment: Unknown
 sources:
-- Desktop/infantaverse-wiki/src/content/docs/locations/motherstone.mdx
-- Desktop/infantaverse-wiki/src/content/docs/events/motherstone.mdx
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part I.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part III.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part IV.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part V.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VI.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VII.txt
-- sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone (notes).txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__Interlude.txt
-- sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part IX.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part XII  - Lost Children.txt
-- sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
-- sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
-- worldanvil/CANON.md
-- CANON.md 5x (the DM's account, 2026-09-10)
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3108, IMG_3109)
+  - Desktop/infantaverse-wiki/src/content/docs/locations/motherstone.mdx
+  - Desktop/infantaverse-wiki/src/content/docs/events/motherstone.mdx
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part I.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part II.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part III.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part IV.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part V.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VI.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VII.txt
+  - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone (notes).txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__Interlude.txt
+  - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part IX.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part XII  - Lost Children.txt
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - SCTC Archives.txt
+  - worldanvil/CANON.md
+  - CANON.md 5x (the DM's account, 2026-09-10)
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3108, IMG_3109)
 published: '2026-09-10'
 wa:
   slug: motherstone-location
@@ -152,4 +152,4 @@ At the Second Battle of Motherstone the Lexicon left the mountain for good. The 
 
 Five hundred years later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), rooms 23 to 26 on Level 2 of [Undermountain](/places/undermountain/), far below Waterdeep, are Motherstone Hall <small>(DM notes)</small>:
 
-> Segments of Motherstone architecture, bas relief, tombs, statuary, and relics stolen by Halaster over the centuries, and assembled as a kind of exhibit and "model" for understanding and admiring the ancient city. Built before any obliviation was lifted on Brightmantle, so constructed with profound mystery around the origin of the city.
+> Segments of Motherstone architecture, bas relief, tombs, statuary, and relics stolen by Halaster over the centuries, and assembled as a kind of exhibit and "model" for understanding and admiring the ancient city. Built before any obliviation was lifted on Brightmantle, so constructed with profound mystery around the origin of the city. Halaster presumably extracted and reinstalled sections of the ancient city as a district in his vast dungeon, securing inside of it some of the artifacts he held from its glory days.
