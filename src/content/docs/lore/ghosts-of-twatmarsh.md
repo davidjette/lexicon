@@ -40,6 +40,7 @@ fields:
   status: Concluded
   arcs: Party 1; The Sinister Secret of Saltmarsh; Dunwater; Salvage Operation; Isle of the Abbey; Gabriella's honeymoon; the Saltmarsh finale; the kobold one-shot; White Plume Mountain; the Eldabrin
 sources:
+- sources/dave/2026-09-14-nico-docs-questions.md
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - sources/documents/2026-09-14-dolores-weathervein-concept.md
 - sources/dave/2026-09-14-oral-histories-cast.md
@@ -170,7 +171,7 @@ Scrunt was back with the party by 2022-10-07. On 2022-10-14 the party fought a d
 
 In 2025 the party of Dead Man's Hand came through a gateway from Sigil to Saltmarsh. Dave: "Yeah did you expect to enter the twatmarshverse". Nico: "I did not think we would go to Saltmarsh and be involved with our og crew" and "RIP Delores". <small>(Oral Histories: The Inevitables, 2025-05-31)</small> They found the Temple of Neptune desecrated, its High Priestess Dolores Weathervein dead and her tomb beneath the sea, and Weathervein stolen. Gabriella Hellwood was captain of the pirate ship Blackfish; she is also Ladybeard and the Horror of Dunwater. <small>(DM notes; `sources/dave/2026-09-14-oral-histories-cast.md`)</small> See [the Blackfish Encounter](/history/the-blackfish-encounter/).
 
-Dave on Hellwood by then: "But it’s been a few hundred years…." and "Hellwood only lived this long because she became an eldritch horror from her pact with offgoofa". <small>(Oral Histories: The Inevitables, 2025-05-31, 2026-03-07)</small> Her patron is [Hafgufa](/lore/hafgufa/). After the party's time in Saltmarsh he wrote: "Now I guess there’s a dying demikraken near Saltmarsh who guards a lair with blackrazor". Nico asked "Is she guarding her bff’s underwater temples?", and Dave answered "Yeah that’s what the whole thing was about!" <small>(Oral Histories: The Inevitables, 2025-09-22)</small> Of Scrunt, Dave wrote: "Scrunt I think lived a natural life". <small>(Oral Histories: The Inevitables, 2026-03-07)</small>
+Dave on Hellwood by then: "But it’s been a few hundred years…." and "Hellwood only lived this long because she became an eldritch horror from her pact with offgoofa". <small>(Oral Histories: The Inevitables, 2025-05-31, 2026-03-07)</small> Her patron is [Hafgufa](/lore/hafgufa/). After the party's time in Saltmarsh he wrote: "Now I guess there’s a dying demikraken near Saltmarsh who guards a lair with blackrazor". Nico asked "Is she guarding her bff’s underwater temples?", and Dave answered "Yeah that’s what the whole thing was about!" <small>(Oral Histories: The Inevitables, 2025-09-22)</small>
 
 ## Sessions
 

@@ -35,6 +35,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- sources/dave/2026-09-14-nico-docs-questions.md
 - sources/site/rebel-factions.txt
 - sources/site/mission-board.txt
 - sources/site/sharn-episode-summaries.txt
@@ -50,7 +51,7 @@ gallery:
   caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
 ---
 
-**Warforged · Founder of RUST · The last Warforged in Sharn · Alive**
+**Warforged · Founder of RUST · The last Warforged in Sharn, in hiding · Alive**
 
 <small>Also known as: Preacher</small>
 

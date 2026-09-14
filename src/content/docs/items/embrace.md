@@ -5,6 +5,8 @@ type: item
 kind: items
 tags:
 - Embrace
+- Embra
+- Umbra
 - drug
 - Uriel Qualanthri
 - Flighter
@@ -72,7 +74,7 @@ Dave, on Uriel as Empress: "She’s also definitely using a refined version of E
 
 ## Embra
 
-In Nico's notes for the Sharn arc, Embrace is a known street drug that makes its user "appear dead". Ten years before the arc Uriel discovered that the drug, used on corpses, slows their decomposition, and she went on studying its uses on the undead. The main ingredient is made from part of a rare plant that grows only in Valenar, called **Embra**. Malrik Zeir's company harvests it, and Hallorn d'Lyrandar helps ship it from Valenar to Sharn, where it is used by [the Black Doves](/organizations/the-black-doves/) and [BioTec](/organizations/biotec/) in the study and creation of the [Project E.D.E.N.](/organizations/project-e-d-e-n/) hybrid soldiers. <small>(Nico's DM notes, Episode 2)</small>
+In Nico's notes for the Sharn arc, Embrace is a known street drug that makes its user "appear dead". Ten years before the arc Uriel discovered that the drug, used on corpses, slows their decomposition, and she went on studying its uses on the undead. The main ingredient is made from part of a rare plant that grows only in Valenar, called **Embra**. Nico also writes **Umbra**, a name Dave suggests may derive from Embra. <small>(Dave, sources/dave/2026-09-14-nico-docs-questions.md)</small> Malrik Zeir's company harvests it, and Hallorn d'Lyrandar helps ship it from Valenar to Sharn, where it is used by [the Black Doves](/organizations/the-black-doves/) and [BioTec](/organizations/biotec/) in the study and creation of the [Project E.D.E.N.](/organizations/project-e-d-e-n/) hybrid soldiers. <small>(Nico's DM notes, Episode 2)</small>
 
 In the same notes, when Esther Crona's half-sister Eden was resurrected by the Diamond Ritual and the ritual did not go smoothly, Embrace and BioTec were brought in on Esther's orders to make Eden "whole again". Nico's script for the opening of [Posé](/places/pose/) has Esther demanding of Hallorn, "Where are my shipments of Embra from Valenar?", and telling Faith that Eden would stay where she was until Malrik and Hallorn increased "the Embra supply". <small>(Nico's DM notes, Episode 2)</small>
 

@@ -1,6 +1,6 @@
 ---
 title: Candice Kurt
-description: Sharn’s most recognisable news anchor, shot dead at the opening of POSÉ and blamed on Cogborn protesters.
+description: Sharn’s most recognisable news anchor, shot dead at the opening of POSÉ by a Children of Ember false flag blamed on Cogborn protesters.
 type: person
 kind: people
 tags:
@@ -55,6 +55,8 @@ Kurt's career was closely tied to the city's political currents. She shaped publ
 Sharn Ep 2. Candice was killed during the opening of Richard Blaze's restaurant POSÉ. Outside, a Cogborn protest erupted into chaos; as the crowd surged up the grand staircase, shots rang out from within the protesters, striking the balcony and killing her. Panic consumed the event.
 
 **The official story** is that she was assassinated by a group of protesters from the Cogs. Esther Crona executed Cogborn prisoners for it on live broadcast within the day.
+
+**The shooter** was a member of [the Children of Ember](/organizations/the-children-of-ember/). Faith Zeir heard the protest was coming and planned the attack with Malrik as a false flag, and the cult member who shot Candice let themselves be killed in the cult's service. <small>(Dave, sources/dave/2026-09-14-nico-docs-questions.md; Nico's DM notes, Episode 2)</small> See [the Cogborn protest](/history/the-cogborn-protest/).
 
 [The Inevitables](/organizations/the-inevitables/) were in the room, serving. They did not fire the shot and have never established who did. In the confusion they turned invisible, abducted [Sister Nora](/people/sister-nora/) of the Black Doves, and escaped through a hidden elevator route revealed by [Izaak](/people/izaak/).
 

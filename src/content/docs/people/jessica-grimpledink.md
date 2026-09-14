@@ -26,6 +26,7 @@ fields:
   birthplace: Unknown - trained at Morgrave University, Sharn
   children: Unknown
   residence: Station 5, beneath Skyroot Park, Upper City Sharn
+  species: Gnome
   gender: Female
   age: Unknown
   eyes: Brown (portrait)
@@ -57,7 +58,7 @@ gallery:
   caption: Gemma Corso points and leans over Jessica Grimpledink beside a desk, airships drifting past the tall window behind them. Gemma's attempt to warn Jessica about Eric backfires.
 ---
 
-**Artificer · Leader of the Nest · Alive**
+**Gnome · Artificer · Leader of the Nest · Alive**
 
 <small>Also known as: no other name is recorded.</small>
 
@@ -91,7 +92,7 @@ Her method is the mission board. She does not issue orders so much as lay out th
 
 ## The tour and the Posé briefing
 
-In Nico's notes for Sharn Ep 2 Jessica is a gnome woman, voiced "dry, efficient, but warm beneath it." Zero of Sharn introduced her to the trio in the Nest's kitchen: "This is Jessica Grimpledink. She built this place, built The Nest." Jessica's greeting: "You made quite an impression last night. Let's get you oriented, let me show you around." She led them through the kitchen, the bunks, the workshop and the map room, and set the stolen files in front of them: "These are the encrypted files you pulled from BioTec. Let's see what you can make of them." She watched their reactions carefully as they read. <small>(Nico's DM notes, Episode 2)</small>
+Jessica is a gnome. <small>(Dave, sources/dave/2026-09-14-nico-docs-questions.md)</small> In Nico's notes for Sharn Ep 2 she is a gnome woman, voiced "dry, efficient, but warm beneath it." Zero of Sharn introduced her to the trio in the Nest's kitchen: "This is Jessica Grimpledink. She built this place, built The Nest." Jessica's greeting: "You made quite an impression last night. Let's get you oriented, let me show you around." She led them through the kitchen, the bunks, the workshop and the map room, and set the stolen files in front of them: "These are the encrypted files you pulled from BioTec. Let's see what you can make of them." She watched their reactions carefully as they read. <small>(Nico's DM notes, Episode 2)</small>
 
 At the briefing for Posé she named the target, "Richard Blaze is opening a new restaurant — Posé. Infernal slang. Means 'to ignite.' Fitting.", and described the guest list as "High-profile. Dangerous." Her instruction: "Observe. Listen. Report. Do not engage." In Nico's arrangement she and Zero could meet the trio only in the Nest or through the secret tunnel to the safe house, never in public. <small>(Nico's DM notes, Episode 2)</small>
 

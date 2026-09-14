@@ -1,6 +1,6 @@
 ---
 title: Scrunt Pissfoot
-description: JL's kobold arcane trickster in Ghosts of Twatmarsh, first mate of the Sea Ghost and a Rising Dawn member, who died in White Plume Mountain and returned.
+description: JL's kobold arcane trickster in Ghosts of Twatmarsh, first mate of the Sea Ghost and a Rising Dawn member, who died in White Plume Mountain.
 type: person
 kind: people
 tags:
@@ -38,7 +38,7 @@ fields:
   skin: Unknown
   height: Unknown
   weight: Unknown
-  status: Died in White Plume Mountain and returned; lived a natural life
+  status: Dead, killed in White Plume Mountain
 sources:
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - "Oral Histories: The Inevitables, 2021-08-15"
@@ -71,11 +71,11 @@ published: '2026-09-14'
 
 <small>— JL, introducing his character. (Oral Histories: The Inevitables, 2021-08-15)</small>
 
-**Kobold · Rogue (arcane trickster) · First mate of the Sea Ghost · [Rising Dawn](/organizations/the-rising-dawn/) · Lived a natural life**
+**Kobold · Rogue (arcane trickster) · First mate of the Sea Ghost · [Rising Dawn](/organizations/the-rising-dawn/) · Dead**
 
 *Also known as:* Scrunt · Mr Scrunt
 
-**Scrunt Pissfoot** is a kobold arcane trickster, a member of the Rising Dawn, and the player character of JL in [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/). Escaped from a prison ship, he washed ashore near [Saltmarsh](/places/saltmarsh/) chained to [Gabriella Hellwood](/people/gabriella-hellwood/), and with her and [Dolores Weathervein](/people/dolores-weathervein/) formed [Neptune's Rejects](/organizations/neptunes-rejects/). He was first mate of [the Sea Ghost](/items/the-sea-ghost/), talked the party peacefully into [Dunwater](/places/dunwater/), and wore the Rising Dawn's neck tattoo. He died in [White Plume Mountain](/places/white-plume-mountain/) in September 2022 and returned to the party, and by Dave's account he lived a natural life and left many kobold descendants.
+**Scrunt Pissfoot** is a kobold arcane trickster, a member of the Rising Dawn, and the player character of JL in [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/). Escaped from a prison ship, he washed ashore near [Saltmarsh](/places/saltmarsh/) chained to [Gabriella Hellwood](/people/gabriella-hellwood/), and with her and [Dolores Weathervein](/people/dolores-weathervein/) formed [Neptune's Rejects](/organizations/neptunes-rejects/). He was first mate of [the Sea Ghost](/items/the-sea-ghost/), talked the party peacefully into [Dunwater](/places/dunwater/), and wore the Rising Dawn's neck tattoo. He died in [White Plume Mountain](/places/white-plume-mountain/) in September 2022.
 
 ## Description and abilities
 
@@ -119,11 +119,11 @@ On 2022-09-09 an invisible stalker singled Scrunt out. Dave, the next day, on th
 
 Dave on Gabriella: "I decided during that game that the death of Scrunt was very impactful for Gabriella and she resolved to overcoming the negative influence of blackrazor and getting home". <small>(Oral Histories: The Inevitables, 2022-09-24)</small>
 
-Scrunt returned, and was with the party again when Nico ruled on his tattoo on 2022-10-07. <small>(Oral Histories: The Inevitables, 2022-10-07)</small>
+Scrunt died in White Plume Mountain. <small>(Dave, sources/dave/2026-09-14-nico-docs-questions.md)</small>
 
 ## Later life
 
-Dave, in 2025: "At this point Scrunt probably has a whole village of kobold descendants". In 2026: "Scrunt I think lived a natural life". <small>(Oral Histories: The Inevitables, 2025-05-31, 2026-03-07)</small>
+Dave, in 2025: "At this point Scrunt probably has a whole village of kobold descendants". <small>(Oral Histories: The Inevitables, 2025-05-31)</small>
 
 **Organizations / Groups:** [Neptune's Rejects](/organizations/neptunes-rejects/); the Rising Dawn.
 
