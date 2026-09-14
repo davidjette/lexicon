@@ -16,6 +16,8 @@ tags:
   - Tripp Sandhill
   - Maverick
   - Shadowhigh
+image:
+  src: /images/uploads/barold-bonds-mu1oc6wu.webp
 type: person
 kind: people
 icon: fa-baseball-bat-ball
