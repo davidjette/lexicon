@@ -15,7 +15,7 @@ tags:
   - Esther Crona
   - Mark of Finding
 image:
-  src: /images/uploads/crona-s-wall-mu0nww68.webp
+  src: /images/uploads/crona-s-wall-mu0ogeeu.webp
 type: landmark
 kind: places
 icon: fa-shield-halved
