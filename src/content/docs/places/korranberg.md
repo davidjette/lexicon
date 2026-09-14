@@ -1,18 +1,20 @@
 ---
 title: Korranberg
 description: A one-road mining town under the Korramont that will take your gold and tell you nothing about the accident.
+tags:
+  - Korranberg
+  - Korranberg town
+  - The Korramont
+  - King's Forest
+  - Karrnath
+  - Korranberg Foundry Trust
+  - the accident
+  - Austin
+  - Marest
+image:
+  src: /images/uploads/korranberg-jul-12-2026-04-20-34-pm-mu0oowyi.webp
 type: settlement
 kind: places
-tags:
-- Korranberg
-- Korranberg town
-- The Korramont
-- King's Forest
-- Karrnath
-- Korranberg Foundry Trust
-- the accident
-- Austin
-- Marest
 icon: fa-house-chimney
 fields:
   type: Mining town
@@ -21,11 +23,11 @@ fields:
   population: Unknown; small
   government: Imperial marshals; the Trust office
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-07-11-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- C:/dev/sharn-campaign/handouts/fulcrum-bell-file.md
-- worldanvil/CANON.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - C:/dev/sharn-campaign/handouts/fulcrum-bell-file.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: korranberg-location
