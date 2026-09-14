@@ -9,3 +9,7 @@ Verbatim. One clause about an unrevealed identity is held privately and marked [
 - The Dead Man's Hand preamble is the read-aloud opening of the DM notebook (IMG_2970 to IMG_2974).
 - The "Evening Star" preamble is the opening of *Hope in Exile, Part I: Fall of an Evening Star*
   (`C:/dev/sharn-campaign/worldanvil/sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part I.txt`).
+
+Follow-up 1, asked whether the preamble's last word on IMG_2971 (cut off at the page edge) is "realities" or "reality":
+
+> "Reality"

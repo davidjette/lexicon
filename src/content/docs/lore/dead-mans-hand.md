@@ -63,7 +63,7 @@ wa:
 >
 > Cut off from their followers, the Gods of every world, race, and power left their realms to descend upon the world as god-like infanta, child avatars of gods and demons who ravaged the landscape in war and conquest.
 >
-> A handful of the wisest gods, and their champions, turned back the tide of ruin and in the settled peace carved out a new pantheon and enduring balance. They restored the Raven Queen's dominion over death, and the Lady of Pain's dominion over SIGIL, the interplanar city atop the Spire in the center of the Great Wheel of realities.
+> A handful of the wisest gods, and their champions, turned back the tide of ruin and in the settled peace carved out a new pantheon and enduring balance. They restored the Raven Queen's dominion over death, and the Lady of Pain's dominion over SIGIL, the interplanar city atop the Spire in the center of the Great Wheel of reality.
 >
 > The other gods returned to their Heavens and Hells, and all was right with the world. The outer planes retreated from the material realms. Mortals lived and died with no concrete knowledge of the beyond, or an encounter with an elemental power.
 >
