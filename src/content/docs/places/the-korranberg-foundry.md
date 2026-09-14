@@ -1,21 +1,23 @@
 ---
 title: The Korranberg Foundry
 description: The Imperial works inside the Korramont that cast the Hell's Bells with dwarven slave labour, and killed nearly everyone in it three years ago.
+tags:
+  - The Korranberg Foundry
+  - Korranberg Foundry
+  - the Foundry
+  - Tempurahold
+  - The Korramont
+  - Fantanya Nyel
+  - Hell's Bells
+  - Shavat
+  - Black Khyber
+  - Deeptempura
+  - House of Kaius
+  - Velen Marsk
+image:
+  src: /images/uploads/the-korranberg-foundry-mu0q40v5.webp
 type: building / landmark
 kind: places
-tags:
-- The Korranberg Foundry
-- Korranberg Foundry
-- the Foundry
-- Tempurahold
-- The Korramont
-- Fantanya Nyel
-- Hell's Bells
-- Shavat
-- Black Khyber
-- Deeptempura
-- House of Kaius
-- Velen Marsk
 icon: fa-industry
 fields:
   type: Foundry and mining works
@@ -23,14 +25,14 @@ fields:
   location: Inside the Korramont, above the black lake
   population: Abandoned; a Teryaki camp (fourteen bedrolls) in the adjoining Great Hall
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-07-11-recap.md
-- C:/dev/sharn-campaign/session-2026-07-17-recap.md
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
-- C:/dev/sharn-campaign/current-state.md
-- worldanvil/CANON.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
+  - C:/dev/sharn-campaign/current-state.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-korranberg-foundry-location
