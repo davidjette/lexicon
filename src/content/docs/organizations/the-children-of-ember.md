@@ -1,21 +1,25 @@
 ---
 title: The Children of Ember
 description: A masked cult beneath the Vault Underground that worshipped Calcifer as Ember, built by Faith Zeir out of her husband's victims.
+tags:
+  - The Children of Ember
+  - Children of Ember
+  - Ember
+  - Faith Zeir
+  - Malrik Zeir
+  - Mother Prophet
+  - Calcifer
+  - The Vault Underground
+  - Umbra
+  - Project EDEN
+  - Blood Cattle
+  - Hallorn d'Lyrandar
+image:
+  src: /images/uploads/children-of-ember-mu0qji91.webp
+  alt: MISSION OVERVIEW
+  caption: MISSION OVERVIEW
 type: organization
 kind: organizations
-tags:
-- The Children of Ember
-- Children of Ember
-- Ember
-- Faith Zeir
-- Malrik Zeir
-- Mother Prophet
-- Calcifer
-- The Vault Underground
-- Umbra
-- Project EDEN
-- Blood Cattle
-- Hallorn d'Lyrandar
 icon: fa-fire
 fields:
   type: Religious, Cult
@@ -25,18 +29,14 @@ fields:
   status: Leadership destroyed, Sharn Ep 17; remnant unaccounted for
   allies: The recruiters (traffickers, not cultists); Project E.D.E.N.
 sources:
-- sources/site/children-of-ember.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/key-figures.txt
+  - sources/site/children-of-ember.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/key-figures.txt
 published: '2026-09-10'
 wa:
   slug: the-children-of-ember-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
-image:
-  src: /images/site/the-children-of-ember-1.webp
-  alt: MISSION OVERVIEW
-  caption: MISSION OVERVIEW
 ---
 
 **Cult · The Vault Underground, Upper City Sharn · Leadership destroyed**
