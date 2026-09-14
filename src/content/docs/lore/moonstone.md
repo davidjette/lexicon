@@ -53,7 +53,7 @@ wa:
 
 [Company](/organizations/sword-coast-trading-company/) research concludes that Selenium crystals form when sunlight strikes a pure surface in the absence of corrupting gases, most notably as on the surface of Selune, the primary moon of Toril, but also in countless other places in the known Universe. Sunlight deposits which accumulate over many millennia form a highly rigid and resilient lattice capable of tremendous arcane conductivity with near zero paradox inertia, allowing magic to pass through and retain its shape with little resistance or heat transfer.  This makes even the most common Moonstones the ideal Arcane focus. In its purest and oldest forms Moonstones can hold and focus magic unlike any other material, and are used as the physical medium of persistent mind that many of the worlds' most powerful intelligent arcane artifacts. 
 
-## The phases
+## Phases
 
 The [Company](/organizations/sword-coast-trading-company/)'s surveys, led by the gnome artificer **Flex Gimble**, graded it by how long it had lain buried out of sunlight, growing more complex as it aged past its half-life.
 
