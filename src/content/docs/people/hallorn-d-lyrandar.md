@@ -1,21 +1,24 @@
 ---
 title: Hallorn d'Lyrandar
 description: Khoravar engineer, playboy and Imperial Head of Transportation; built the Empire's airships, and died in his brother's club.
+tags:
+  - Hallorn d'Lyrandar
+  - Hallorn
+  - Lyrandar
+  - House Lyrandar
+  - Khoravar
+  - Mark of Storm
+  - Dragonmark of Flight
+  - Head of Transportation
+  - Airships
+  - Malrik Zeir
+  - Vex d'Lyrandar
+  - Aundair
+image:
+  src: /images/site/hallorn-d-lyrandar-1.webp
+  alt: Hallorn d'Lyrandar
 type: person
 kind: people
-tags:
-- Hallorn d'Lyrandar
-- Hallorn
-- Lyrandar
-- House Lyrandar
-- Khoravar
-- Mark of Storm
-- Dragonmark of Flight
-- Head of Transportation
-- Airships
-- Malrik Zeir
-- Vex d'Lyrandar
-- Aundair
 icon: fa-wind
 fields:
   rpgAlignment: Unknown
@@ -32,20 +35,17 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/wa/hallorn-d-lyrandar-person-1.txt
-- sources/site/key-figures.txt
-- sources/site/pose-mission-notes.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/CANON.md
+  - sources/wa/hallorn-d-lyrandar-person-1.txt
+  - sources/site/key-figures.txt
+  - sources/site/pose-mission-notes.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: hallorn-d-lyrandar-person-1
   uuid: b8f692c8-f945-4188-9010-fd807ce757c9
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
-image:
-  src: /images/site/hallorn-d-lyrandar-1.webp
-  alt: Hallorn d'Lyrandar
 ---
 
 **Khoravar · Engineer / Pilot · House Lyrandar · Imperial Head of Transportation · Dead**
@@ -150,3 +150,5 @@ Hallorn is three years dead and his father is dead behind him, killed on an airs
 - **Sister Maelis Dorn** — the Black Dove who publicly accused Chancellor Eric of his death at Thronehold.
 
 **Hobbies & Pets** — Races anything that moves. Hunts anything that doesn't.
+
+![Halorn, Lorian and Eric.png](/images/uploads/halorn-lorian-and-eric-mu10vy11.webp)
