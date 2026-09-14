@@ -1,27 +1,29 @@
 ---
 title: Sharn Ep 17 — The Vault Underground
 description: Dario kills Malrik Zeir on the rooftop, Esther kills the Mother Prophet, and then takes Calcifer and Gemma into the sky.
+tags:
+  - Sharn Ep 17
+  - The Vault Underground
+  - Malrik Zeir
+  - Faith Zeir
+  - Mother Prophet
+  - Children of Ember
+  - Calcifer
+  - Esther Crona
+  - Whole Foods
+  - The Nest
+  - Lorian
+  - Hallorn d'Lyrandar
+image:
+  src: /images/uploads/sharn-ep-17-the-vault-underground-mu0s296g.webp
 sidebar:
   order: 217
 type: report
 kind: sessions
-tags:
-- Sharn Ep 17
-- The Vault Underground
-- Malrik Zeir
-- Faith Zeir
-- Mother Prophet
-- Children of Ember
-- Calcifer
-- Esther Crona
-- Whole Foods
-- The Nest
-- Lorian
-- Hallorn d'Lyrandar
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-17-E28094-the-vault-underground-report
