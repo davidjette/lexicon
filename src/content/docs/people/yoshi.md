@@ -20,6 +20,7 @@ tags:
 - DJ Steves
 - Sun Blade
 - Folk Hero
+- lightsaber
 icon: fa-fire
 fields:
   rpgAlignment: Neutral (sheet; 'Chaotic Evil' struck out)
@@ -43,6 +44,12 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part V.docx
 - Desktop/D&D/Temple Holdings LLC/Character Sheets/CS YOSHI.pdf
 - Desktop/D&D/NPCs/YOSHI GENDO.pdf
+- CANON.md 5ae (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2017-08-23"
+- "Oral Histories: Temporal Holdings, 2018-06-03"
+- "Oral Histories: Temporal Holdings, 2018-06-28"
+- "Oral Histories: Temporal Holdings, 2018-07-01"
 published: '2026-09-10'
 wa:
   slug: yoshi-person
@@ -53,11 +60,11 @@ wa:
 
 *Also known as:* Yoshi (Gendo) <small>(on his later sheet)</small>
 
-**Yoshi** is a copper dragonborn fighter of Temple Holdings LLC and one of the seven eggs the copper dragon [Tylerjynex](/people/tylerjinex/) conceived to be the honour guard of the first Infanta. The hatchlings were slain in their sleep by agents of [House Gallidann](/organizations/house-gallidann/); two eggs were stolen and discarded into a seam in the rock and survived, and Yoshi was raised by human farmers on a faraway island, never knowing what he was. He learned it in [Arc II](/history/arc-ii-motherstone/), from an ancient copper dragonborn Drek priest in a flooded temple beneath the Drembles who gave him the honour-guard's blade, the **Maulder**.
+**Yoshi** is a copper dragonborn fighter of Temple Holdings LLC and one of the seven eggs the copper dragon [Tylerjynex](/people/tylerjinex/) conceived to be the honour guard of the first Infanta. The hatchlings were slain in their sleep by agents of [House Gallidann](/organizations/house-gallidann/); two eggs were stolen and discarded into a seam in the rock and survived, and Yoshi was raised by human farmers on a faraway island, never knowing what he was. He learned it in [Arc II](/history/arc-ii-motherstone/), from an ancient copper dragonborn Drek priest in a flooded temple beneath the Drembles who gave him the honour-guard's blade, the **Maulder**. Before the Maulder he carried a lightsaber from his long-lost brother, which "died" at the Arc II finale.
 
 ## Bearing and arms
 
-He has a golden snout — which is how he recognises his own kind in a drowning slum, and how they recognise him. The sheet gives a folk-hero dragonborn fighter at level five: AC 18, 40 hit points, 30-foot stride, resistant to fire, with STR 17 carrying everything and INT 9 carrying nothing. He breathes fire in a fifteen-foot cone, 2d6, DC 11 Dexterity save. Action Surge, Second Wind, Eldritch Knight, two attacks a turn, and a weapon bond to the **Maulder** and a whip; a sling besides. He speaks Common and Draconic. His alignment box reads Chaotic Evil struck through, with *Neutral* written over it. A later sheet, "Yoshi (Gendo)," has him a fifteenth-level fighter in a mithral breastplate carrying a Sun Blade.
+His player's first description of him was gold: "Yoshi is a gold dragon." <small>(Oral Histories: Temporal Holdings, 2017-08-23)</small> His sheet and the session record make him copper. He has a golden snout — which is how he recognises his own kind in a drowning slum, and how they recognise him. The sheet gives a folk-hero dragonborn fighter at level five: AC 18, 40 hit points, 30-foot stride, resistant to fire, with STR 17 carrying everything and INT 9 carrying nothing. He breathes fire in a fifteen-foot cone, 2d6, DC 11 Dexterity save. Action Surge, Second Wind, Eldritch Knight, two attacks a turn, and a weapon bond to the **Maulder** and a whip; a sling besides. He speaks Common and Draconic. His alignment box reads Chaotic Evil struck through, with *Neutral* written over it. A later sheet, "Yoshi (Gendo)," has him a fifteenth-level fighter in a mithral breastplate carrying a Sun Blade.
 
 ## The honour-guard he did not know he belonged to
 
@@ -74,6 +81,10 @@ Publicly Yoshi is the party's front line and, in the record, the trusting one: n
 > This place was not some terra nova when the Infantas came. This was the roost of a great being. Some would say a living god. But you and I would be more precise to call him — father.
 
 The traitor [Calix](/people/calix-the-betrayer/) beguiled Tylerjynex and banished him to a dark abyss, and the hatchlings were slain in their sleep by the agents of [House Gallidann](/organizations/house-gallidann/), who could not stand to see anyone but elves at the side of the Infanta. The priest hatched three centuries ago and tried to hatch the others himself. Two eggs were stolen and discarded into a seam in the rock, and against all odds survived. One of them was Yoshi.
+
+## Two weapons
+
+In June 2018, as the Company breached the gates and the grandmaster's throne went missing, Yoshi met his long-lost brother, who gave him a lightsaber. <small>(Oral Histories: Temporal Holdings, 2018-06-03)</small> The lightsaber was not sentient, and at the Arc II finale it "died". <small>(Oral Histories: Temporal Holdings, 2018-06-28, 2018-07-01)</small> His weapon after it was the Maulder, the honour-guard's blade from the Drek priest. Whether the long-lost brother and the priest are the same person is lost to time.
 
 ## Conduct in the field
 
@@ -98,6 +109,7 @@ He believes people are what they present themselves to be. He believes the Infan
 **Contacts & Relations:**
 
 - **Tylerjynex** — his sire. Blinded and imprisoned beneath Motherstone for centuries; alive, guarding a nest, at the end.
+- **His long-lost brother** — gave him a lightsaber in June 2018.
 - **DJ Steves, the elder Drek priest** — hatched three centuries ago; tried to hatch Yoshi's siblings himself; gave him the honour-guard's blade.
 - **Denver** — his companion, named beside him at the first roll-call on Snowdown.
 - **The wet-nurse** — the person he trusted with the Infanta, who carried her off.

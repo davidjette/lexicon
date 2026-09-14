@@ -13,16 +13,20 @@ tags:
 - Xentharim
 - Asmodeus
 - Violet
+- Griddy Champagne
 - Ebonbane
 - Sable
 - Nimbus Clan
+- Thane of Punis
+- Marsember
+- Tiffany House
 - Infantaverse
 icon: fa-cat
 fields:
   gender: Male
-  ggmtitle: Masked Lord of Waterdeep, "the Panther"
+  ggmtitle: Masked Lord of Waterdeep, "the Panther"; Thane of Punis
   residence: Waterdeep
-  status: Disappeared about two hundred years after the Ages of the Infanta; his soul owned by Asmodeus
+  status: Vanished from view about two hundred years after the Ages of the Infanta, and may have lived on unseen; his soul owned by Asmodeus
 sources:
 - CANON.md 5g (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
@@ -34,17 +38,30 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2991, IMG_2992, IMG_3075)
 - CANON.md 5ab
 - CANON.md 5ac
+- CANON.md 5ae (Oral Histories)
+- CANON.md 5ai (Oral Histories)
+- CANON.md, Oral Histories batch 4
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- sources/dave/2026-09-14-temple-holdings-c30-coronation.md
+- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+- "Oral Histories: Temporal Holdings, 2019-03-03"
+- "Oral Histories: Temporal Holdings, 2019-03-31"
+- "Oral Histories: Temporal Holdings, 2019-04-22"
+- "Oral Histories: Temporal Holdings, 2019-06-20"
+- "Oral Histories: Temporal Holdings, 2019-08-27"
+- "Oral Histories: The Inevitables, 2025-10-01"
 published: '2026-09-10'
 wa:
   slug: revan-darkcember-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
 ---
 
-**Masked Lord of Waterdeep as "the Panther" · Called "The Tempest" in the Company's files · Sable's brother · Disappeared**
+**Masked Lord of Waterdeep as "the Panther" · Thane of Punis · Called "The Tempest" in the Company's files · Sable's brother · Vanished from view**
 
-*Also known as:* the Panther · The Tempest
+*Also known as:* the Panther · The Tempest · the Count of Darkcember
 
-**Revan Darkcember** is a member of [House Nimbus](/organizations/house-nimbus/), a descendant of the Carls and Carls IV himself, and the brother of [Sable, the Immortal Cyclone](/people/sable-the-cyclone/). He rose to the [Masked Lords](/organizations/lords-of-waterdeep/) of Waterdeep under the name **"the Panther"** — one of the events that preceded [Obi](/people/obi/)'s ascent over the city and the destruction of the Empire and Company's ship in the harbour — and the Company's own files list him under a second name, **"The Tempest"**, as a threat of unknown category. He carries [Onyxbane](/items/the-bane-blades/), the drow shard of Perfect moonstone; he assaulted the House of Nimbus alongside [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth, and he was one of those who "went to steal the power to move the moon." Asmodeus owns his soul.
+**Revan Darkcember** is a member of [House Nimbus](/organizations/house-nimbus/), a descendant of the Carls and Carls IV himself, and the brother of [Sable, the Immortal Cyclone](/people/sable-the-cyclone/). He rose to the [Masked Lords](/organizations/lords-of-waterdeep/) of Waterdeep under the name **"the Panther"** — one of the events that preceded [Obi](/people/obi/)'s ascent over the city and the destruction of the Empire and Company's ship in the harbour — and the Company's own files list him under a second name, **"The Tempest"**, as a threat of unknown category. He carries [Onyxbane](/items/the-bane-blades/), the drow shard of Perfect moonstone; he assaulted the House of Nimbus alongside [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth, and he was one of those who "went to steal the power to move the moon." When [Zanzibar](/people/zanzibar/) was crowned King of **Punis**, he named Revan a Thane and gave him the hold of **Marsember**, which became Darkcember. With the lordship of Marsember came [Tiffany House](/places/tiffany-house/) and its old debt to Asmodeus, which his line carries forever. Asmodeus owns his soul. He vanished from view about two hundred years after the Ages of the Infanta.
 
 ## What the Company knew about him
 
@@ -57,7 +74,7 @@ Their own dossier lists him as a threat of unknown category:
 ## In the record
 
 - He and Pim have smuggler contacts in Suzail, which is how the party reaches a Zent bigwig named Emery. <small>(Arc III Part VII.)</small>
-- In Waterdeep his contract negotiations turn on the Cassalanters, House Tiffany, and a debt: **"Asmodeus: owns his soul and will demand the amulet and zarus."** He is confronted by **Violet**, an erinyes who serves as a housecarl and as Asmodeus's spy — "if killed, she returns to the House." <small>(The Winking Depths, Part IV.)</small>
+- In Waterdeep his contract negotiations turn on the Cassalanters, House Tiffany, and a debt: **"Asmodeus: owns his soul and will demand the amulet and zarus."** He is confronted by **Violet**, an erinyes who serves as a housecarl and as Asmodeus's spy — "if killed, she returns to the House." <small>(The Winking Depths, Part IV.)</small> Violet is an alias of [Griddy Champagne](/people/griddy-champagne/), the same devil who serves the pactbound owner of Tiffany House in every age. By then Revan had "luxury estates in two major cities and a devil as a personal attaché", and the table called her Gritty Champagne. <small>(Oral Histories: Temporal Holdings, 2019-08-27)</small>
 - He assaults the House of Nimbus alongside [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth. <small>(Arc IV Part V.)</small>
 - He carries **Ebonbane**, one of the Bane swords, with Drefan bearing Silverbane. <small>(Arc V, Starfall Part III.)</small>
 - He is one of those who "went to steal the power to move the moon." <small>(Arc V, Starfall Parts I–III.)</small>
@@ -68,7 +85,7 @@ Revan is a descendant of the Carls — **he is Carls IV** — and he carries [On
 
 ## His house, and his father
 
-Revan is of [House Nimbus](/organizations/house-nimbus/), the clan that could solve [the Penteract](/places/the-penteract/) and refused to do it for their Drow masters of House Carls. **His father is the one who broke that refusal**, selling the secret to [St. Cloud](/people/wainwright-st-cloud/) in exchange for safety from the Leviathan.
+Revan is of [House Nimbus](/organizations/house-nimbus/), the clan that could solve [the Penteract](/places/the-penteract/) and refused to do it for their Drow masters of House Carls. **His father is the one who broke that refusal**, selling the secret to [St. Cloud](/people/wainwright-st-cloud/) in exchange for safety from the Leviathan. St. Cloud then killed the clan, which had guarded one of the machines in [Sigil](/places/sigil/): "Also Revan’s clan guarded one for a long time in Sigil which St Cloud killed them for." <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small>
 
 When Revan, Roland, Stonecypher, Drefan and Stoth "approach the House of Nimbus, ready for an assault on those inside," Revan is going in against his own house.
 
@@ -76,12 +93,18 @@ When Revan, Roland, Stonecypher, Drefan and Stoth "approach the House of Nimbus,
 
 [Sable, the Immortal Cyclone](/people/sable-the-cyclone/), of the Nimbus Clan, is his sister. Her Ally Card says four words from her — "…its time to come home…" — "was at one time all that Revan needed to hear before he abandoned any and all to attend to his sister." <small>(Sic on "its".)</small>
 
+## Thane of Punis, Darkcember and Tiffany House
+
+After his exile at the hands of the Arcaneum, Zanzibar returned to Punis and was crowned King of Punis. He named Revan and [Roland](/people/roland-deschain/) Thanes and gave them holds. Revan's player wrote afterward, "I am a THANE OF PUNIS." <small>(Oral Histories: Temporal Holdings, 2019-03-31, 2019-04-22)</small> Revan's hold was Marsember, which became **Darkcember** because the Duchess of Marsember had been killed, and he is styled "the Count of Darkcember". <small>(Oral Histories: Temporal Holdings, 2019-06-20)</small>
+
+By assuming the lordship of Marsember, Revan took Tiffany House and its old debt to Asmodeus. His line carries that debt forever; in the time of [Dead Man's Hand](/lore/dead-mans-hand/), [Darius Klaxon](/people/darius-klaxon/) carries it.
+
 ## Nimbus Corp
 
-When the assets of St. Cloud's Company went up for auction, Revan bid in secret and beat the party's group bid, and [Temple Holdings LLC](/lore/temple-holdings-llc/) lost to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on. He headed Nimbus Corp until his disappearance, about two hundred years after the Ages of the Infanta. [Maverick](/people/maverick/) of [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages, is his distant descendant. The Klaxon heirs to [Tiffany House](/places/tiffany-house/) carry the Darkcember name: [Phillip Klaxon](/people/phillip-klaxon/) married a Darkcember, and their son is Darius Klaxon - Darkcember - Montevideo, whom his father wants to become the Panther. <small>(DM notes)</small>
+When the assets of St. Cloud's Company went up for auction, Revan bid in secret and beat the party's group bid, and [Temple Holdings LLC](/lore/temple-holdings-llc/) lost to [Nimbus Corp](/organizations/nimbus-corp/), which was "the Company" from then on. He headed Nimbus Corp until he vanished from view, about two hundred years after the Ages of the Infanta. He may have lived on unseen: "And then he probably lived for hundreds of years or more" / "As the richest man in the universe". <small>(Oral Histories: The Inevitables, 2025-10-01)</small> [Maverick](/people/maverick/) of [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages, is his distant descendant. The Klaxon heirs to [Tiffany House](/places/tiffany-house/) carry the Darkcember name: [Phillip Klaxon](/people/phillip-klaxon/) married a Darkcember, and their son is Darius Klaxon - Darkcember - Montevideo, whom his father wants to become the Panther. <small>(DM notes)</small>
 
 ## Status
 
-Alive. Asmodeus owns his soul.
+Vanished from view about two hundred years after the Ages of the Infanta, and may have lived on unseen. Asmodeus owns his soul.
 
 **Related:** [Sable, the Cyclone](/people/sable-the-cyclone/) · [Obi](/people/obi/) · [Lords of Waterdeep](/organizations/lords-of-waterdeep/) · [Drefan](/people/drefan/) · [Roland Deschain](/people/roland-deschain/)

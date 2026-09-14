@@ -1,6 +1,6 @@
 ---
 title: Moonstone
-description: Shards of the fallen moon that store and magnify magic, graded I to IV with a hypothesised V, and the medium of mind and memory itself.
+description: Shards of the fallen moon that store and magnify magic, graded I to V, the fifth a Perfect Dark stone that can carry time travel.
 tags:
   - Moonstone
   - Selenium Crystal
@@ -31,7 +31,7 @@ fields:
   type: Magical mineral
   origin: Lunar meteorites from the Starfall
   found: The Moonshae Isles; beneath Motherstone
-  phases: I rock; II Power; III Parabolic/Control; IV Perfect; V Perfect Dark (hypothesised)
+  phases: I rock; II Power; III Parabolic/Control; IV Perfect; V Perfect Dark (about 50 million years out of sunlight)
   status: Mined industrially by the Sword Coast Trading Company
 sources:
   - Desktop/infantaverse-wiki/src/content/docs/concepts/moonstone.mdx
@@ -42,6 +42,9 @@ sources:
   - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part II.txt
   - worldanvil/CANON.md
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3071)
+  - CANON.md 5ae (Oral Histories)
+  - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+  - "Oral Histories: Temporal Holdings, 2021-12-10"
 published: '2026-09-10'
 wa:
   slug: moonstone-article
@@ -66,6 +69,8 @@ The [Company](/organizations/sword-coast-trading-company/)'s surveys, led by the
 ## Phase V — Perfect Dark
 
 <small>Beyond the perfect stones the Company's researchers hypothesised a fifth phase: a moonstone "so far beyond its half life that it was twice as old as the oldest moonstone on Faerûn" — what the [Anachron](/items/the-anachron/) would need to warp *time* as well as space. They judged it impossible and re-sequestered the drive.</small>
+
+Perfect Dark stones exist, and form in about 50 million years: "If you keep a perfect moonstone out of sunlight for about 50 million years you get a perfect dark stone you can use for time travel". The deep past lies about 65 million years ago. <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>
 
 ### Lex's specification
 

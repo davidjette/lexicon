@@ -30,6 +30,8 @@ sources:
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
 - CANON.md 5x (the DM's account, 2026-09-10)
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+- "Oral Histories: Temporal Holdings, 2018-03-18"
 published: '2026-09-10'
 wa:
   slug: flex-gimble-person
@@ -45,7 +47,7 @@ image:
 
 *Also known as:* Third Grade Master Artificer, Sword Coast Guild of Alchemists
 
-**Flex Gimble** is a rock gnome artificer, a Third Grade Master Artificer of the Sword Coast Guild of Alchemists, who came to [Motherstone](/places/motherstone/) chasing tales of arcane science and was exploring the Grand Concourse alone when the party found him. He led them to the Seat of the Lexicon, and the moment they had cured the [Lexicon](/items/the-lexicon/) he turned on them, shrinking them with a shrink ray and flooding them down the crystal into the Winking Depths and the world of the Deep Fae. His tampering knocked the [Obliviator](/items/the-obliviator/) out of stasis, which is why it is unstable for the rest of the chronicle. He prospered on what he learned — a giant statue of him welcomed visitors to the spire in Arc IV — and he came back out of the land of the Dead at the final battle among the allies the Raven Queen brought, his face long since replaced by a bronze mask and his limbs by six mechanical prostheses.
+**Flex Gimble** is a rock gnome artificer, a Third Grade Master Artificer of the Sword Coast Guild of Alchemists, who came to [Motherstone](/places/motherstone/) chasing tales of arcane science and was exploring the Grand Concourse alone when the party found him. He led them to the Seat of the Lexicon, and the moment they had cured the [Lexicon](/items/the-lexicon/) he turned on them, shrinking them with a shrink ray and flooding them down the crystal into the Winking Depths and the world of the Deep Fae. His tampering knocked the [Obliviator](/items/the-obliviator/) out of stasis, which is why it is unstable for the rest of the chronicle. The party killed him in Arc II. A giant statue of him welcomed visitors to the spire in Arc IV, and he came back out of the land of the Dead at the final battle among the allies the Raven Queen brought, his face long since replaced by a bronze mask and his limbs by six mechanical prostheses.
 
 > My apologies brave heroes, but I have a job to do. The Company can have their Moonstones… The secrets we have learned here will change the world, and I, FLEX GIMBLE, will be their inventor. Goodbye, fools!
 
@@ -69,7 +71,13 @@ He turned on them just as they cured the Lexicon: he shrank them with a shrink r
 
 His tampering is also what knocked the [Obliviator](/items/the-obliviator/) out of stasis, which is the reason it is unstable for the rest of the chronicle.
 
-He prospers on it. A "giant, conspicuously new statue of Flex Gimble welcomes visitors" to the spire in Arc IV, where the engineer of the spire is described as "the former partner of Flex Gimble." <small>(Arc IV Parts III–IV.)</small>
+## Death
+
+The party killed Flex Gimble in Arc II, at the session of 2018-03-17. <small>(Oral Histories: Temporal Holdings, 2018-03-18)</small>
+
+## Afterward
+
+A "giant, conspicuously new statue of Flex Gimble welcomes visitors" to the spire in Arc IV, where the engineer of the spire is described as "the former partner of Flex Gimble." <small>(Arc IV Parts III–IV.)</small>
 
 ## How he became an ally
 

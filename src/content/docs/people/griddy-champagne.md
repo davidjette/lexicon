@@ -5,6 +5,8 @@ tags:
   - Griddy Champagne
   - Garidriel
   - Gritty Champagne
+  - Violet
+  - Revan Darkcember
   - Dead Man's Hand
   - fallen angel
   - devil
@@ -42,20 +44,29 @@ sources:
   - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - CANON.md 5ac
+  - CANON.md 5ae (Oral Histories)
+  - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
+  - "Oral Histories: Temporal Holdings, 2019-08-27"
+  - "Oral Histories: Temporal Holdings, 2019-11-11"
 published: '2026-09-14'
 ---
 
 **Fallen angel · Devil in human form · Housecarl at [Tiffany House](/places/tiffany-house/) · [Waterdeep](/places/waterdeep/)**
 
-**Also known as:** Garidriel
+**Also known as:** Garidriel · Violet · Gritty Champagne
 
-Griddy Champagne is Garidriel, a fallen angel who lives as a devil in human form and serves as housecarl at [Tiffany House](/places/tiffany-house/) in [Waterdeep](/places/waterdeep/). She obtained the RUIN card of [the Deck of Many Things](/items/the-deck-of-many-things/) for both [Phillip Klaxon](/people/phillip-klaxon/) and his son [Darius](/people/darius-klaxon/). At Tiffany House the party found her seducing Beef Wellington with a false deck stacked with RUIN; [Jeremiah](/people/jeremiah/) surprised them there, Griddy and Jeremiah fought, and the party resisted him and stole the card. At [Fort Maximillien](/places/fort-maximillien/), when [Nicollo](/people/nicollo/) betrayed the party, she took RUIN back and slipped it into her bra.
+Griddy Champagne is Garidriel, a fallen angel who lives as a devil in human form and serves as housecarl at [Tiffany House](/places/tiffany-house/) in [Waterdeep](/places/waterdeep/), the bound servant of the pactbound owner of the house. She is the same devil in every age: in the Ages of the Infanta, under the alias **Violet**, she served [Revan Darkcember](/people/revan-darkcember/) as his devil attaché. She obtained the RUIN card of [the Deck of Many Things](/items/the-deck-of-many-things/) for both [Phillip Klaxon](/people/phillip-klaxon/) and his son [Darius](/people/darius-klaxon/). At Tiffany House the party found her seducing Beef Wellington with a false deck stacked with RUIN; [Jeremiah](/people/jeremiah/) surprised them there, Griddy and Jeremiah fought, and the party resisted him and stole the card. At [Fort Maximillien](/places/fort-maximillien/), when [Nicollo](/people/nicollo/) betrayed the party, she took RUIN back and slipped it into her bra.
 
 ## Description
 
 **Appearance:** "A beautiful and dangerous white woman, secretly a devil in human form, often in black versions of normal fantasy clothing." <small>(Character roster.)</small>
 
 At Fort Maximillien she wore "a reserved but nonetheless smoldering black leather armor and duster", her head covered with a demure scarf. <small>(Post-session narrative.)</small> She is an erinyes. <small>(DM notes)</small> Her sister is Dusty Grapes. <small>(DM notes)</small>
+
+## In the Ages of the Infanta
+
+In Waterdeep, during his contract negotiations over Tiffany House and his debt to Asmodeus, Revan Darkcember was confronted by **Violet**, an erinyes who served as a housecarl and as a spy for Asmodeus: "If killed, she returns to the House." <small>(The Winking Depths, Part IV)</small> Revan then had "luxury estates in two major cities and a devil as a personal attaché", and his player asked, "Can her name be Grittey Champagne?" At the table she was Gritty Champagne from then on. <small>(Oral Histories: Temporal Holdings, 2019-08-27, 2019-11-11)</small>
 
 ## RUIN and the Klaxons
 

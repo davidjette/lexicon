@@ -10,6 +10,8 @@ tags:
 - Blesstown
 - Sigil
 - Banefae
+- the Short King
+- Brownsleeves
 - Ally Cards
 - Infantaverse
 icon: fa-spa
@@ -21,6 +23,8 @@ sources:
 - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part IV.txt
 - ALLY_CARDS.md (card transcription)
 - CANON.md 5f
+- CANON.md 5ae (Oral Histories)
+- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 published: '2026-09-10'
 wa:
   slug: lunar-fae-organization
@@ -43,6 +47,10 @@ The **Lunar Fae** are fae primordials of the Moon and allies of the party at the
 The same stretch of the record has [unicorns](/organizations/lunar-unicorns/) on the Moon, and the Banefae hunting them.
 
 Their card type is **Enchantment Creature — Fae Primordial**, the only Enchantment in the set of 41.
+
+## The Short King
+
+The Short King of the moon is **Brownsleeves** from another loop. When the party came back to the deep past a second time, to help [Karametra](/people/karametra/) move the moon, the Short King had been seduced by **Drefanmetra**, the Waning One, and was a warlock of the Waning One. He joined the party, and died in the final round of the fight against Cthulhu. See [Arc V: Starfall](/history/arc-v-starfall/).
 
 ## At the Egg
 
