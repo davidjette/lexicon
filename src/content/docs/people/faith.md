@@ -153,3 +153,5 @@ The next day her name went into Digma Beeve's cover story for Richard Blaze: tha
 - **Lorian** — her prisoner; survived, and drew the map that ended her. Alive.
 
 
+
+![Faith and Malrik Zeir - Magic.png](/images/uploads/faith-and-malrik-zeir-magic-mu3982ns.webp)
