@@ -1,25 +1,29 @@
 ---
 title: Caprica
 description: An astral elf druid of the Circle of Stars, pilot and science officer of the SSJ Zanzibar, who followed the star song to Necis and died finding its answer.
+tags:
+  - Caprica
+  - Lt. Caprica
+  - Caprice
+  - the singer of stars
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - SSJ Zanzibar
+  - the star song
+  - astral elf
+  - Circle of Stars
+  - Necis
+  - Battle of Tannhauser Gate
+  - Eye of Doom
+  - Company dossier
+image:
+  src: /images/uploads/caprica-onboard-the-ssj-zanzibar-light-o-mu33idye.webp
+  alt: Caprica
+  caption: Caprica, from the Company dossier on The Starsong Awakens site
 type: person
 kind: people
 icon: fa-star
-tags:
-- Caprica
-- Lt. Caprica
-- Caprice
-- the singer of stars
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- SSJ Zanzibar
-- the star song
-- astral elf
-- Circle of Stars
-- Necis
-- Battle of Tannhauser Gate
-- Eye of Doom
-- Company dossier
 fields:
   rpgAlignment: Unknown
   ggmtitle: First Arcanist and Spelljammer of the SSJ Zanzibar (Lt.)
@@ -37,68 +41,64 @@ fields:
   weight: Unknown
   status: Dead
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_61076043.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-04-28"
-- "Oral Histories: The Inevitables, 2022-09-29"
-- "Oral Histories: The Inevitables, 2022-10-10"
-- "Oral Histories: The Inevitables, 2022-10-17"
-- "Oral Histories: The Inevitables, 2022-10-18"
-- "Oral Histories: The Inevitables, 2022-10-19"
-- "Oral Histories: The Inevitables, 2022-10-22"
-- "Oral Histories: The Inevitables, 2022-11-27"
-- "Oral Histories: The Inevitables, 2023-01-08"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2023-06-09"
-- "Oral Histories: The Inevitables, 2023-12-22"
-- "Oral Histories: The Inevitables, 2024-01-06"
-- "Oral Histories: The Inevitables, 2024-02-10"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-04-27"
-- "Oral Histories: The Inevitables, 2024-05-31"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-02"
-- "Oral Histories: The Inevitables, 2024-06-03"
-- "Oral Histories: The Inevitables, 2024-06-12"
-- "Oral Histories: The Inevitables, 2024-12-22"
-- "Oral Histories: The Inevitables, 2025-01-18"
-- "Oral Histories: The Inevitables, 2025-04-06"
-- "Oral Histories: The Inevitables, 2025-05-23"
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-- "The Starsong Awakens site (JL Byrd): Company dossier"
-image:
-  src: /images/starsong/caprica.webp
-  alt: "Caprica"
-  caption: "Caprica, from the Company dossier on The Starsong Awakens site"
+  - Desktop/D&D/Starfall TNG/sydiot_61076043.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-04-28'
+  - 'Oral Histories: The Inevitables, 2022-09-29'
+  - 'Oral Histories: The Inevitables, 2022-10-10'
+  - 'Oral Histories: The Inevitables, 2022-10-17'
+  - 'Oral Histories: The Inevitables, 2022-10-18'
+  - 'Oral Histories: The Inevitables, 2022-10-19'
+  - 'Oral Histories: The Inevitables, 2022-10-22'
+  - 'Oral Histories: The Inevitables, 2022-11-27'
+  - 'Oral Histories: The Inevitables, 2023-01-08'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-06-09'
+  - 'Oral Histories: The Inevitables, 2023-12-22'
+  - 'Oral Histories: The Inevitables, 2024-01-06'
+  - 'Oral Histories: The Inevitables, 2024-02-10'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - 'Oral Histories: The Inevitables, 2024-05-31'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-06-03'
+  - 'Oral Histories: The Inevitables, 2024-06-12'
+  - 'Oral Histories: The Inevitables, 2024-12-22'
+  - 'Oral Histories: The Inevitables, 2025-01-18'
+  - 'Oral Histories: The Inevitables, 2025-04-06'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
 gallery:
-- src: /images/chat/2022-05-01-969613280371931.webp
-  alt: "Caprica's HeroForge miniature"
-  caption: "Front and back views of a HeroForge miniature of Caprica, a woman with long dark blue hair in a black and purple uniform."
-- src: /images/chat/2022-10-20-617939336566338.webp
-  alt: "Caprica in command uniform"
-  caption: "AI-generated painting of a dark-haired astral elf woman with glowing facial markings and a gold insignia badge, against a starfield."
-- src: /images/chat/2022-10-20-831176091240609.webp
-  alt: "Caprica in astral form"
-  caption: "AI-generated painting of an elf woman with closed eyes and starlit skin holding a glowing blue orb."
-- src: /images/chat/2023-05-19-256147600332230.webp
-  alt: "Caprica in AI portrait"
-  caption: "A painted portrait of a black-haired elf woman in a dark purple uniform holding a glowing orb, with a second orb and a ring of starlight behind her."
-- src: /images/chat/2022-05-01-742660036724756.webp
-  alt: "Caprica in starry form"
-  caption: "Two views of Caprica's miniature in her starry form, with grey skin, glowing white eyes and bright violet hair."
-- src: /images/chat/2022-10-09-3293942590881309.webp
-  alt: "Caprica holding an orb"
-  caption: "Caprica's HeroForge miniature in her uniform, holding a blue orb."
-- src: /images/chat/2022-10-09-409531434682385.webp
-  alt: "Caprica in starry form holding an orb"
-  caption: "Caprica's miniature in her starry form, head tilted back, holding a violet orb."
-- src: /images/chat/2022-10-20-900989104618168.webp
-  alt: "AI portrait of Caprica"
-  caption: "An AI painting of a pointed-eared woman with violet hair and green eyes against a starfield."
-- src: /images/chat/2022-10-20-419629636913935.webp
-  alt: "Caprica in her modified uniform"
-  caption: "AI painting of Caprica, an astral elf with short violet hair, in an open violet uniform, ringed by blue light against a starfield."
+  - src: /images/chat/2022-05-01-969613280371931.webp
+    alt: Caprica's HeroForge miniature
+    caption: Front and back views of a HeroForge miniature of Caprica, a woman with long dark blue hair in a black and purple uniform.
+  - src: /images/chat/2022-10-20-617939336566338.webp
+    alt: Caprica in command uniform
+    caption: AI-generated painting of a dark-haired astral elf woman with glowing facial markings and a gold insignia badge, against a starfield.
+  - src: /images/chat/2022-10-20-831176091240609.webp
+    alt: Caprica in astral form
+    caption: AI-generated painting of an elf woman with closed eyes and starlit skin holding a glowing blue orb.
+  - src: /images/chat/2023-05-19-256147600332230.webp
+    alt: Caprica in AI portrait
+    caption: A painted portrait of a black-haired elf woman in a dark purple uniform holding a glowing orb, with a second orb and a ring of starlight behind her.
+  - src: /images/chat/2022-05-01-742660036724756.webp
+    alt: Caprica in starry form
+    caption: Two views of Caprica's miniature in her starry form, with grey skin, glowing white eyes and bright violet hair.
+  - src: /images/chat/2022-10-09-3293942590881309.webp
+    alt: Caprica holding an orb
+    caption: Caprica's HeroForge miniature in her uniform, holding a blue orb.
+  - src: /images/chat/2022-10-09-409531434682385.webp
+    alt: Caprica in starry form holding an orb
+    caption: Caprica's miniature in her starry form, head tilted back, holding a violet orb.
+  - src: /images/chat/2022-10-20-900989104618168.webp
+    alt: AI portrait of Caprica
+    caption: An AI painting of a pointed-eared woman with violet hair and green eyes against a starfield.
+  - src: /images/chat/2022-10-20-419629636913935.webp
+    alt: Caprica in her modified uniform
+    caption: AI painting of Caprica, an astral elf with short violet hair, in an open violet uniform, ringed by blue light against a starfield.
 ---
 
 **Astral elf · Druid 12 (Circle of Stars) · First Arcanist and Spelljammer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Dead**
@@ -170,3 +170,5 @@ Caprica's sheet makes her a Druid 12 of the Circle of Stars with the Astral Drif
 - **[Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/):** her fellow pilgrim on Necis.
 - **[Barrias Ruby-Eye](/people/barrias-ruby-eye/) and [Carlos Vega](/people/carlos-vega/):** crewmates who searched for her at Picon fifteen years later.
 - **Orion:** her space cat.
+
+![caprica.webp](/images/uploads/caprica-mu33ikic.webp)
