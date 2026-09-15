@@ -4,6 +4,7 @@ description: Revan's sister of the Nimbus Clan, the Immortal Cyclone. Four words
 type: person
 kind: people
 tags:
+- the Immortal Tempest
 - Sable
 - Sable the Cyclone
 - the Immortal Cyclone
@@ -19,6 +20,7 @@ fields:
   ggmtitle: The Immortal Cyclone, of the Nimbus Clan
   status: Undead at the final battle; fate not recorded
 sources:
+- sources/documents/2026-09-14-lamont-revan-its-time-to-come-home.md
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
 - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__Ally Print.txt
 - ALLY_CARDS.md (card transcription)
@@ -39,7 +41,7 @@ image:
 
 **Half-elf monk · The Nimbus Clan · Revan's sister · Undead by the final battle**
 
-*Also known as:* Sable, the Immortal Cyclone
+*Also known as:* Sable, the Immortal Cyclone · the Immortal Tempest
 
 **Sable** is a half-elf monk of the **Nimbus Clan** and the sister of [Revan](/people/revan-darkcember/). Her and Revan's father sold the secret of [the Penteract](/places/the-penteract/) to [St. Cloud](/people/wainwright-st-cloud/) in exchange for safety from the Leviathan. By the final battle at the Egg she was undead, and she fought there as an ally. How she met the party, how she came to be at the Egg, and what became of her are not recorded.
 
@@ -48,6 +50,8 @@ image:
 The **Nimbus Clan** is [House Nimbus](/organizations/house-nimbus/): the human servants of the Drow of House Carls who became the only people able to solve the Penteract. They refused to do it for their masters. After her father sold the secret, St. Cloud killed the clan, which had guarded one of the machines in [Sigil](/places/sigil/): "Also Revan’s clan guarded one for a long time in Sigil which St Cloud killed them for." <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small>
 
 The **House of Nimbus** is a place in the chronicle. The Company's archives call "the situation related to House Nimbus… unacceptable," and in Arc IV Revan, [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth mount a full assault on it. <small>(Arc IV, The Infernal Machines, Part V.)</small>
+
+In LaMont's short story "…It's time to come home…", Sable is "The Immortal Tempest, of the Nimbus clan", and she taught Revan the forms of spear fighting. The last time she told him "…It's time to come home…", he came home from a self-imposed isolation to find her and everyone else in the clan slaughtered. <small>(LaMont, "…It's time to come home…")</small>
 
 ## Asmodeus's claim
 

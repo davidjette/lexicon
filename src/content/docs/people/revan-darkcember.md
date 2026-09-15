@@ -4,6 +4,10 @@ description: Masked Lord of Waterdeep as "the Panther", the Company's unidentifi
 type: person
 kind: people
 tags:
+- XIII
+- Nimbus Stronghold
+- Onyx
+- Sunsaber
 - Revan Darkcember
 - Revan
 - the Panther
@@ -28,6 +32,7 @@ fields:
   residence: Waterdeep
   status: Vanished from view about two hundred years after the Ages of the Infanta, and may have lived on unseen; his soul owned by Asmodeus
 sources:
+- sources/documents/2026-09-14-lamont-revan-its-time-to-come-home.md
 - CANON.md 5g (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
 - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
@@ -81,7 +86,7 @@ gallery:
 
 **Masked Lord of Waterdeep as "the Panther" · Thane of Punis · Called "The Tempest" in the Company's files · Sable's brother · Vanished from view**
 
-*Also known as:* the Panther · The Tempest · the Count of Darkcember
+*Also known as:* the Panther · The Tempest · the Count of Darkcember · Rev · Lord of Darkcember, Proprietor of the Tiphany Estate, Master of the Nimbus Stronghold
 
 **Revan Darkcember** is a member of [House Nimbus](/organizations/house-nimbus/), a descendant of the Carls and Carls IV himself, and the brother of [Sable, the Immortal Cyclone](/people/sable-the-cyclone/). He rose to the [Masked Lords](/organizations/lords-of-waterdeep/) of Waterdeep under the name **"the Panther"** — one of the events that preceded [Obi](/people/obi/)'s ascent over the city and the destruction of the Empire and Company's ship in the harbour — and the Company's own files list him under a second name, **"The Tempest"**, as a threat of unknown category. He carries [Onyxbane](/items/the-bane-blades/), the drow shard of Perfect moonstone; he assaulted the House of Nimbus alongside [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth, and he was one of those who "went to steal the power to move the moon." When [Zanzibar](/people/zanzibar/) was crowned King of [Punis](/places/punis/), he named Revan a Thane and gave him the hold of **Marsember**, which became Darkcember. With the lordship of Marsember came [Tiffany House](/places/tiffany-house/) and its old debt to [Asmodeus](/people/asmodeus/), which his line carries forever. Asmodeus owns his soul. He vanished from view about two hundred years after the Ages of the Infanta.
 
@@ -131,6 +136,23 @@ When Revan, Roland, Stonecypher, Drefan and Stoth "approach the House of Nimbus,
 [Sable, the Immortal Cyclone](/people/sable-the-cyclone/), of the Nimbus Clan, is his sister. Her Ally Card says four words from her — "…its time to come home…" — "was at one time all that Revan needed to hear before he abandoned any and all to attend to his sister." <small>(Sic on "its".)</small>
 
 In the Time of Troubles Dave offered the party, once back in the "present", the option to "go to Hell to save Revans sister". <small>(Sic. Oral Histories: The Inevitables, 2021-10-30)</small> After the party escaped Asmodeus's trap, JL recapped that she "resisted scrying" and that "Asmodeus said she’s on Toril somewhere as his servant". <small>(Oral Histories: Temporal Holdings, 2023-04-23)</small>
+
+## "It's time to come home"
+
+LaMont, who played Revan, wrote a short story about him, "…It's time to come home…". It opens in [Sigil](/places/sigil/) at night, outside a tavern, with a letter in red on something that may not have been paper. The letter carried Sable's words, "…It's time to come home…", and was signed "Your Colleague in serving the dark Lord, Champain": [Griddy Champagne](/people/griddy-champagne/), whom Revan greets as "Gritty Champain". The last time Sable had said those words, Revan came home from a self-imposed isolation to find her and everyone else in the clan slaughtered. He burned the letter with a fire bolt. His sentient shield, Ebonbane, whom he calls Onyx and who speaks to him in his mind, asked whether he would go, and Revan answered: "Yeah, Onyx. You and I are gonna go home." <small>(LaMont, "…It's time to come home…")</small>
+
+Home is the Nimbus Stronghold, a house of polished wood hundreds of years old, with shoji doors. The Company had occupied it with Warforged under an overseer; Revan killed the overseer and burned the Warforged on a pyre. [XIII](/people/xiii/), the Warforged who had given him the code to shut down "the big guy", came back to the house. The two played dragonchess, XIII staking thirteen months of servitude against Revan's lightsaber. Revan won with Ebonbane's help, released XIII from the bet, invited him to look after the house, and took him on as his attaché. Revan: "Magnus isn't gonna like this." / "Magnus doesn't like anything." <small>(LaMont, "…It's time to come home…")</small>
+
+The story adds these details:
+
+- Revan sees in the dark, "the product of years of training, and some inherited traits", and because of his family history he can see the clouds at night.
+- His skin is "darker than amberwood", and his black hair is "braided in the tribal style of the infamous Nimbus clan". His laugh is "a rich baritone".
+- His sister taught him the forms of spear fighting.
+- He is the last of the Nimbus Tempests: "I'm the last one. So one way or the other, yeah. That's me. Really only my enemies call me that. My friends for some reason refuse to." He will not be called lord.
+- His lightsaber is the Sunsaber: a hilt that "erupts in a slender tube of...pure sunlight", lighting a room as if it were midday.
+- Ebonbane styles him "Revan, Lord of Darkcember, Proprietor of the Tiphany Estate, Master of the Nimbus Stronghold". Revan: "When I left here the first time I had no home. Now I have three".
+
+<small>(LaMont, "…It's time to come home…")</small>
 
 ## Thane of Punis, Darkcember and Tiffany House
 
