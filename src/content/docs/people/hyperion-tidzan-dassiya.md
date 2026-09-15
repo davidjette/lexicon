@@ -1,25 +1,29 @@
 ---
 title: Hyperion "Sandy" Tidzan-Dassiya
 description: A kalashtar sorcerer and cleric of peace of the Children of Hyperion, Vox Sovereign of the SSJ Zanzibar, who later rose to captain.
+tags:
+  - Hyperion Tidzan-Dassiya
+  - Sandy
+  - Hyperion Titara
+  - Titdzan-Dassiya
+  - Vox Sovereign
+  - Children of Hyperion
+  - Hyperion
+  - kalashtar
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - SSJ Zanzibar
+  - SSJ Vanguard
+  - Sandy Titzandassia
+  - Istus-class clipper
+image:
+  src: /images/uploads/hyperion-sandy-tidzan-dassiya-onboard-th-mu378npc.webp
+  alt: Lt. Hyperion "Sandy" Tidzan-Dassiya
+  caption: A HeroForge miniature of Sandy, a bald woman with a white ponytail in a white and gold uniform, standing with a hand at her ear.
 type: person
 kind: people
 icon: fa-dove
-tags:
-- Hyperion Tidzan-Dassiya
-- Sandy
-- Hyperion Titara
-- Titdzan-Dassiya
-- Vox Sovereign
-- Children of Hyperion
-- Hyperion
-- kalashtar
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- SSJ Zanzibar
-- SSJ Vanguard
-- Sandy Titzandassia
-- Istus-class clipper
 fields:
   rpgAlignment: Neutral Good
   ggmtitle: Vox Sovereign of the SSJ Zanzibar (Lt. Cmdr.); Lesser Consular, Children of Hyperion; Captain; Commanding Officer of the SSJ Vanguard
@@ -37,61 +41,57 @@ fields:
   weight: 200 lb
   status: Alive
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-07-24"
-- "Oral Histories: The Inevitables, 2022-10-09"
-- "Oral Histories: The Inevitables, 2022-10-10"
-- "Oral Histories: The Inevitables, 2022-10-16"
-- "Oral Histories: The Inevitables, 2022-10-18"
-- "Oral Histories: The Inevitables, 2022-11-26"
-- "Oral Histories: The Inevitables, 2022-11-28"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2023-05-19"
-- "Oral Histories: The Inevitables, 2023-05-27"
-- "Oral Histories: The Inevitables, 2023-12-22"
-- "Oral Histories: The Inevitables, 2024-01-06"
-- "Oral Histories: The Inevitables, 2024-02-10"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-02"
-- "Oral Histories: The Inevitables, 2024-06-09"
-- "Oral Histories: The Inevitables, 2024-06-10"
-- "Oral Histories: The Inevitables, 2024-11-09"
-- "Oral Histories: The Inevitables, 2024-11-10"
-- "Oral Histories: The Inevitables, 2024-12-13"
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-- "The Starsong Awakens site (JL Byrd): Company dossier"
-- "The Starsong Awakens site (JL Byrd): New ships"
-image:
-  src: /images/chat/2022-10-18-1409902612867650.webp
-  alt: "Lt. Hyperion \"Sandy\" Tidzan-Dassiya"
-  caption: "A HeroForge miniature of Sandy, a bald woman with a white ponytail in a white and gold uniform, standing with a hand at her ear."
+  - Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-07-24'
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2022-10-10'
+  - 'Oral Histories: The Inevitables, 2022-10-16'
+  - 'Oral Histories: The Inevitables, 2022-10-18'
+  - 'Oral Histories: The Inevitables, 2022-11-26'
+  - 'Oral Histories: The Inevitables, 2022-11-28'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-05-19'
+  - 'Oral Histories: The Inevitables, 2023-05-27'
+  - 'Oral Histories: The Inevitables, 2023-12-22'
+  - 'Oral Histories: The Inevitables, 2024-01-06'
+  - 'Oral Histories: The Inevitables, 2024-02-10'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-06-09'
+  - 'Oral Histories: The Inevitables, 2024-06-10'
+  - 'Oral Histories: The Inevitables, 2024-11-09'
+  - 'Oral Histories: The Inevitables, 2024-11-10'
+  - 'Oral Histories: The Inevitables, 2024-12-13'
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - 'The Starsong Awakens site (JL Byrd): New ships'
 gallery:
-- src: /images/chat/2022-07-24-766221108028806.webp
-  alt: "Hyperion Titara miniature"
-  caption: "A kneeling HeroForge miniature of a bald woman with a white ponytail in a white and gold uniform, one hand raised to her head."
-- src: /images/chat/2022-07-24-469356511210681.webp
-  alt: "Hyperion Titara miniature, rear view"
-  caption: "The back of the kneeling Hyperion miniature, holding up a dark swirling mask or head."
-- src: /images/chat/2022-10-09-664520591755026.webp
-  alt: "Hyperion Titara against the sky"
-  caption: "The kneeling Hyperion Titara miniature on a plated base against a blue sky."
-- src: /images/chat/2022-10-18-1106217060025103.webp
-  alt: "Sandy's miniature, rear view"
-  caption: "The back of Sandy's standing miniature in her white and gold uniform."
-- src: /images/chat/2022-10-18-1164883247455613.webp
-  alt: "Sandy's miniature, side view"
-  caption: "Sandy's standing miniature seen from the side, with green eyes and a white ponytail."
-- src: /images/chat/2022-10-19-866438011018135.webp
-  alt: "Sandy's original miniature"
-  caption: "The first HeroForge miniature for Sandy, in a white and gold uniform with a smoking staff and a lantern."
-- src: /images/chat/2024-04-20-1173214100701452.webp
-  alt: "Sandy and a beholder"
-  caption: "AI pulp-style painting of a blonde woman in a white uniform with a raygun, hiding behind a rock from a many-toothed beholder."
-- src: /images/chat/2024-04-20-886329843261236.webp
-  alt: "Sandy fleeing a beholder"
-  caption: "AI pulp-style painting of a blonde woman in a white uniform and a man in a gold uniform, both armed, fleeing a many-eyed beholder."
+  - src: /images/chat/2022-07-24-766221108028806.webp
+    alt: Hyperion Titara miniature
+    caption: A kneeling HeroForge miniature of a bald woman with a white ponytail in a white and gold uniform, one hand raised to her head.
+  - src: /images/chat/2022-07-24-469356511210681.webp
+    alt: Hyperion Titara miniature, rear view
+    caption: The back of the kneeling Hyperion miniature, holding up a dark swirling mask or head.
+  - src: /images/chat/2022-10-09-664520591755026.webp
+    alt: Hyperion Titara against the sky
+    caption: The kneeling Hyperion Titara miniature on a plated base against a blue sky.
+  - src: /images/chat/2022-10-18-1106217060025103.webp
+    alt: Sandy's miniature, rear view
+    caption: The back of Sandy's standing miniature in her white and gold uniform.
+  - src: /images/chat/2022-10-18-1164883247455613.webp
+    alt: Sandy's miniature, side view
+    caption: Sandy's standing miniature seen from the side, with green eyes and a white ponytail.
+  - src: /images/chat/2022-10-19-866438011018135.webp
+    alt: Sandy's original miniature
+    caption: The first HeroForge miniature for Sandy, in a white and gold uniform with a smoking staff and a lantern.
+  - src: /images/chat/2024-04-20-1173214100701452.webp
+    alt: Sandy and a beholder
+    caption: AI pulp-style painting of a blonde woman in a white uniform with a raygun, hiding behind a rock from a many-toothed beholder.
+  - src: /images/chat/2024-04-20-886329843261236.webp
+    alt: Sandy fleeing a beholder
+    caption: AI pulp-style painting of a blonde woman in a white uniform and a man in a gold uniform, both armed, fleeing a many-eyed beholder.
 ---
 
 **Kalashtar · Sorcerer 13 / Cleric 5 · Vox Sovereign, later Captain · [Children of Hyperion](/organizations/the-children-of-hyperion/) · Alive**
