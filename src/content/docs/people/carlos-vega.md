@@ -15,7 +15,7 @@ tags:
   - The Starsong Awakens
   - SSJ Zanzibar
 image:
-  src: /images/chat/2022-10-20-1861983854133860.webp
+  src: /images/uploads/carlos-vega-onboard-the-ssj-zanzibar-lig-mu390z64.webp
   alt: AI portrait of Carlos Vega
   caption: An AI painting of a man with long dark hair and a moustache in gold-trimmed armour.
 type: person
@@ -166,4 +166,3 @@ His sheet gives his traits as "I am always calm, no matter what the situation. I
 - **[Dr. Nilpferd](/people/dr-nilpferd/):** his superior as a cadet.
 - **[Barrias Ruby-Eye](/people/barrias-ruby-eye/):** his companion on the return to Picon.
 
-![Carlos Vega - Onboard the SSJ Zanzibar - Light of Xaryxis, Starfall TNG, The Starsong Awakens.png](/images/uploads/carlos-vega-onboard-the-ssj-zanzibar-lig-mu363g0u.webp)
