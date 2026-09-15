@@ -39,13 +39,14 @@ fields:
   children: Unknown
   residence: Motherstone
   gender: Female
-  age: An infant, then ten years on a young Empress
+  age: An infant, then ten years on a young Infanta
   eyes: Unknown
   hair: Unknown
   skin: Unknown
   height: Unknown
   weight: Unknown
 sources:
+- sources/dave/2026-09-14-calix-throne-and-eldamir.md
 - Desktop/infantaverse-wiki/src/content/docs/characters/elistrae.mdx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part I.docx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part IV.docx
@@ -88,7 +89,7 @@ Reborn, she was carried in secret through hostile waters as an infant in the Moo
 
 ## Appearance
 
-She has no fixed body. In the Moonshae she is an infant carried in secret through hostile waters; ten years later she is a young Empress who retakes her capital riding an elephant at the head of an invading army — "her divine form is awesome, but she is still a small human girl." The heraldry that stands in for her across the record is older than any of her bodies: a naked woman holding a sword, silhouetted by the Moon, drawn on papers in a slaver captain's cabin above a single line — *"To keep this, you must first give it to me."*
+She has no fixed body. In the Moonshae she is an infant carried in secret through hostile waters; ten years later she is a young Infanta who retakes her capital riding an elephant at the head of an invading army — "her divine form is awesome, but she is still a small human girl." The heraldry that stands in for her across the record is older than any of her bodies: a naked woman holding a sword, silhouetted by the Moon, drawn on papers in a slaver captain's cabin above a single line — *"To keep this, you must first give it to me."*
 
 At ten years old she rode into Motherstone on an elephant, leading a small army from around Snowdown, and with the party she pushed the Company out of the city.
 
