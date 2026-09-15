@@ -50,6 +50,14 @@ sources:
 - "Oral Histories: The Inevitables, 2022-02-25"
 - "Oral Histories: The Inevitables, 2022-06-22"
 published: '2026-09-14'
+image:
+  src: /images/chat/2021-09-19-335078318220543.webp
+  alt: "Oshi, a blue-skinned sea elf with a trident and a satchel, a small creature at his feet"
+  caption: "Oshi: Nico's HeroForge miniature, \"I changed our boy Oceanus aka Oshi a bit\""
+gallery:
+- src: /images/chat/2021-09-18-211980987660376.webp
+  alt: "Oshi, a blue-skinned sea elf with a green bow"
+  caption: "Nico's first miniature of Oshi"
 ---
 
 **Sea elf · Ranger · Boatswain of the Sea Ghost · [Neptune's Rejects](/organizations/neptunes-rejects/) · Dead**

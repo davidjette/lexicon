@@ -32,6 +32,7 @@ fields:
   founding: Named 2021-09-17
   status: Unknown
 sources:
+- "Oral Histories: The Inevitables, 2022-07-14"
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - "Oral Histories: The Inevitables, 2021-09-10"
 - "Oral Histories: The Inevitables, 2021-09-13"
@@ -47,6 +48,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-07-10"
 - "Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)"
 published: '2026-09-14'
+image:
+  src: /images/chat/2022-07-14-8095571610467986.webp
+  alt: "Neptune's Rejects as miniatures in a town square"
+  caption: "Neptune's Rejects: Nico's group render of the crew's miniatures"
 ---
 
 > Yes now our band is tight - a holy woman who’s actually a grave robber, and her paladin and pet who are actually a pirate and a dragonrat

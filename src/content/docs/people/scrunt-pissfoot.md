@@ -40,6 +40,7 @@ fields:
   weight: Unknown
   status: Dead, killed in White Plume Mountain
 sources:
+- "Oral Histories: The Inevitables, 2021-11-11"
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - "Oral Histories: The Inevitables, 2021-08-15"
 - "Oral Histories: The Inevitables, 2021-08-20"
@@ -65,6 +66,17 @@ sources:
 - "Oral Histories: The Inevitables, 2025-05-31"
 - "Oral Histories: The Inevitables, 2026-03-07"
 published: '2026-09-14'
+image:
+  src: /images/chat/2021-09-18-3107884319537719.webp
+  alt: "Scrunt Pissfoot, a horned kobold in a long coat and red bandana with a scimitar, standing on coins"
+  caption: "Scrunt Pissfoot: Nico's updated HeroForge miniature"
+gallery:
+- src: /images/chat/2021-08-15-2335615576569287.webp
+  alt: "Scrunt Pissfoot with a crossbow, a pipe and a pile of gold coins"
+  caption: "Nico's first miniature of Scrunt, \"Our boy Scrunt Pissfoot\""
+- src: /images/chat/2021-11-11-475905887081701.webp
+  alt: "Pencil sketch of Scrunt saying \"I'm not even sposed ta be here\""
+  caption: "JL's sketch of Scrunt"
 ---
 
 > Scrunt is going to create some problems for the party until he forms bonds with you and learns your expectations. He’s got a chip on his shoulder and thrives in chaos.

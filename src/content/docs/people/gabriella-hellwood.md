@@ -55,6 +55,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- "Oral Histories: The Inevitables, 2022-07-01"
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3056, IMG_3058, IMG_3059)
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - sources/dave/2026-09-14-oral-histories-cast.md
@@ -94,6 +95,20 @@ sources:
 - "Oral Histories: The Inevitables, 2025-09-22"
 - "Oral Histories: The Inevitables, 2026-03-07"
 published: '2026-09-14'
+image:
+  src: /images/chat/2021-09-18-278459714094957.webp
+  alt: "Gabriella Hellwood as a pirate captain: tricorn hat, green coat, eyepatch, pistol and cutlass"
+  caption: "Gabriella Hellwood, captain of the Sea Ghost: Dave's HeroForge miniature, labelled \"Hellwood\""
+gallery:
+- src: /images/chat/2021-08-15-267834171481145.webp
+  alt: "Gabriella Hellwood in a brown cloak and blue tunic with an axe and a hook"
+  caption: "Nico's first miniature of Gabriella, made from Dave's reference picture"
+- src: /images/chat/2022-07-01-1750781908617165.webp
+  alt: "Gabriella Hellwood in half plate and red cape with a pistol and a flaming blade"
+  caption: "Commodore Hellwood: Dave's miniature, labelled \"Comm Hellwood\""
+- src: /images/chat/2022-08-14-5359469007466533.webp
+  alt: "Gabriella Hellwood with a grey beard, red cape and black greatsword, tentacles at her feet"
+  caption: "Gabriella grows out her beard: Dave's miniature from White Plume Mountain"
 ---
 
 **Human · Fighter, Fathomless warlock · Captain of the Sea Ghost, later of the Blackfish · The Dunwater Horror, dying**

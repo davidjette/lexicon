@@ -80,6 +80,20 @@ sources:
 - "Oral Histories: The Inevitables, 2026-03-07"
 - "Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)"
 published: '2026-09-14'
+image:
+  src: /images/chat/2021-09-18-3047493555573368.webp
+  alt: "Dolores Weathervein: white hair, blue eye paint, blue coat and black dress, holding a sword and a blue crystal"
+  caption: "Dolores Weathervein with a sword and a blue crystal: Nico's HeroForge miniature"
+gallery:
+- src: /images/chat/2021-08-15-203216015183564.webp
+  alt: "Dolores Weathervein with a crystal-topped staff and a blue crystal in her hand"
+  caption: "Nico's first miniature of Dolores"
+- src: /images/chat/2021-09-17-258324279495632.webp
+  alt: "Dolores Weathervein with great grey wings, a sword and a blue crystal"
+  caption: "Dolores with the wings of the Weathervein angels: Nico's miniature"
+- src: /images/chat/2022-07-12-1494504800985753.webp
+  alt: "Dolores Weathervein as a mermaid with a trident and a blue crystal"
+  caption: "Sea form Dolores: Nico's miniature"
 ---
 
 **Aasimar · Cleric, sorcerer and hexblade of Weathervein · Priestess of Neptune · Neptune's Rejects · Dead**
