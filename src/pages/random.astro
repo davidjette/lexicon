@@ -1,0 +1,22 @@
+---
+// Lucky Roll: sends the reader to a random article. Linked from the front page's Explore tiles.
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { getArticles, href } from '../lib/articles';
+
+const urls = (await getArticles()).filter((e) => !e.data.redacted).map((e) => href(e));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<StarlightPage frontmatter={{ title: 'Lucky Roll', description: 'A random article from the Lexicon.', tableOfContents: false, pagefind: false }}>
+	<p data-lucky>Rolling the dice…</p>
+	<noscript><p>Lucky Roll needs JavaScript. Browse the <a href={`${base}/people/`}>articles</a> instead.</p></noscript>
+	<script type="application/json" id="lx-lucky" set:html={JSON.stringify(urls)} />
+</StarlightPage>
+
+<script>
+	const list: string[] = JSON.parse(document.getElementById('lx-lucky')?.textContent || '[]');
+	if (list.length) {
+		const pick = list[Math.floor(Math.random() * list.length)];
+		window.location.replace(pick);
+	}
+</script>
