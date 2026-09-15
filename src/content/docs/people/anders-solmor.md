@@ -1,25 +1,27 @@
 ---
 title: Anders Solmor
 description: Dread Pirate Anders, a man of Saltmarsh who courted Dolores Weathervein, survived the Saltmarsh finale, and was named as Gabriella's successor.
+tags:
+  - Anders Solmor
+  - Anders
+  - pirate Anders
+  - Dread Pirate Anders
+  - Solmor
+  - Salmor
+  - Salmoor
+  - Petra
+  - Alexander
+  - the Duke
+  - Saltmarsh
+  - Oerth
+  - Ghosts of Twatmarsh
+  - Neptune's Rejects
+  - Dolores Weathervein
+  - Sea Princes
+image:
+  src: /images/uploads/anders-solmor-saltmarsh-ghost-of-twatmar-mu31ti3p.webp
 type: person
 kind: people
-tags:
-- Anders Solmor
-- Anders
-- pirate Anders
-- Dread Pirate Anders
-- Solmor
-- Salmor
-- Salmoor
-- Petra
-- Alexander
-- the Duke
-- Saltmarsh
-- Oerth
-- Ghosts of Twatmarsh
-- Neptune's Rejects
-- Dolores Weathervein
-- Sea Princes
 icon: fa-anchor
 fields:
   rpgAlignment: Unknown
@@ -38,22 +40,22 @@ fields:
   weight: Unknown
   status: Alive at the end of the Saltmarsh finale
 sources:
-- sources/dave/2026-09-14-twatmarsh-open-questions-2.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-- "Oral Histories: The Inevitables, 2021-09-17"
-- "Oral Histories: The Inevitables, 2021-11-03"
-- "Oral Histories: The Inevitables, 2021-11-13"
-- "Oral Histories: The Inevitables, 2021-11-20"
-- "Oral Histories: The Inevitables, 2021-12-18"
-- "Oral Histories: The Inevitables, 2021-12-24"
-- "Oral Histories: The Inevitables, 2022-01-08"
-- "Oral Histories: The Inevitables, 2022-03-13"
-- "Oral Histories: The Inevitables, 2022-04-23"
-- "Oral Histories: The Inevitables, 2022-06-30"
-- "Oral Histories: The Inevitables, 2022-07-01"
-- "Oral Histories: The Inevitables, 2022-07-10"
-- "Oral Histories: The Inevitables, 2022-07-14"
-- "Oral Histories: The Inevitables, 2022-09-16"
+  - sources/dave/2026-09-14-twatmarsh-open-questions-2.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'Oral Histories: The Inevitables, 2021-09-17'
+  - 'Oral Histories: The Inevitables, 2021-11-03'
+  - 'Oral Histories: The Inevitables, 2021-11-13'
+  - 'Oral Histories: The Inevitables, 2021-11-20'
+  - 'Oral Histories: The Inevitables, 2021-12-18'
+  - 'Oral Histories: The Inevitables, 2021-12-24'
+  - 'Oral Histories: The Inevitables, 2022-01-08'
+  - 'Oral Histories: The Inevitables, 2022-03-13'
+  - 'Oral Histories: The Inevitables, 2022-04-23'
+  - 'Oral Histories: The Inevitables, 2022-06-30'
+  - 'Oral Histories: The Inevitables, 2022-07-01'
+  - 'Oral Histories: The Inevitables, 2022-07-10'
+  - 'Oral Histories: The Inevitables, 2022-07-14'
+  - 'Oral Histories: The Inevitables, 2022-09-16'
 published: '2026-09-14'
 ---
 
