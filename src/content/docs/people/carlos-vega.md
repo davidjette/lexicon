@@ -1,22 +1,26 @@
 ---
 title: Carlos Vega
 description: A human rogue and bladesinger who came aboard the SSJ Zanzibar as a civilian, became a cadet, and was bound as a djinn in a bottle by his third wish.
+tags:
+  - Carlos Vega
+  - Carlos
+  - Cadet Carlos Vega
+  - Senor Vega
+  - Genie Carlos
+  - djinn
+  - bladesinger
+  - Razomel
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - SSJ Zanzibar
+image:
+  src: /images/chat/2022-10-20-1861983854133860.webp
+  alt: AI portrait of Carlos Vega
+  caption: An AI painting of a man with long dark hair and a moustache in gold-trimmed armour.
 type: person
 kind: people
 icon: fa-wine-bottle
-tags:
-- Carlos Vega
-- Carlos
-- Cadet Carlos Vega
-- Senor Vega
-- Genie Carlos
-- djinn
-- bladesinger
-- Razomel
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- SSJ Zanzibar
 fields:
   rpgAlignment: Unknown
   ggmtitle: Cadet, SSJ Zanzibar
@@ -34,60 +38,56 @@ fields:
   weight: Unknown
   status: Unknown
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_85410398.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-10-09"
-- "Oral Histories: The Inevitables, 2022-10-20"
-- "Oral Histories: The Inevitables, 2022-11-06"
-- "Oral Histories: The Inevitables, 2022-11-16"
-- "Oral Histories: The Inevitables, 2022-11-26"
-- "Oral Histories: The Inevitables, 2022-12-14"
-- "Oral Histories: The Inevitables, 2023-01-22"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2023-05-15"
-- "Oral Histories: The Inevitables, 2023-06-03"
-- "Oral Histories: The Inevitables, 2023-06-10"
-- "Oral Histories: The Inevitables, 2023-06-14"
-- "Oral Histories: The Inevitables, 2023-07-01"
-- "Oral Histories: The Inevitables, 2023-08-12"
-- "Oral Histories: The Inevitables, 2023-12-16"
-- "Oral Histories: The Inevitables, 2024-01-26"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-04-20"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-02"
-- "Oral Histories: The Inevitables, 2024-06-09"
-- "Oral Histories: The Inevitables, 2024-11-22"
-- "Oral Histories: The Inevitables, 2025-01-18"
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-- "The Starsong Awakens site (JL Byrd): Company dossier"
-image:
-  src: /images/chat/2022-10-20-1861983854133860.webp
-  alt: "AI portrait of Carlos Vega"
-  caption: "An AI painting of a man with long dark hair and a moustache in gold-trimmed armour."
+  - Desktop/D&D/Starfall TNG/sydiot_85410398.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2022-10-20'
+  - 'Oral Histories: The Inevitables, 2022-11-06'
+  - 'Oral Histories: The Inevitables, 2022-11-16'
+  - 'Oral Histories: The Inevitables, 2022-11-26'
+  - 'Oral Histories: The Inevitables, 2022-12-14'
+  - 'Oral Histories: The Inevitables, 2023-01-22'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-05-15'
+  - 'Oral Histories: The Inevitables, 2023-06-03'
+  - 'Oral Histories: The Inevitables, 2023-06-10'
+  - 'Oral Histories: The Inevitables, 2023-06-14'
+  - 'Oral Histories: The Inevitables, 2023-07-01'
+  - 'Oral Histories: The Inevitables, 2023-08-12'
+  - 'Oral Histories: The Inevitables, 2023-12-16'
+  - 'Oral Histories: The Inevitables, 2024-01-26'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-20'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-06-09'
+  - 'Oral Histories: The Inevitables, 2024-11-22'
+  - 'Oral Histories: The Inevitables, 2025-01-18'
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
 gallery:
-- src: /images/chat/2023-01-27-3171756136457042.webp
-  alt: "Carlos Vega in cadet uniform"
-  caption: "A 3D miniature render of a man with swept-back hair in a black and navy cadet uniform holding a purple crystal dagger."
-- src: /images/chat/2024-04-20-2076791709362668.webp
-  alt: "Carlos as an eldritch fire djinn"
-  caption: "AI painting of a shirtless man with tentacles on his shoulders, seated and holding a lamp with a tall flame."
-- src: /images/chat/2024-04-20-958874712564034.webp
-  alt: "Carlos the djinn on his throne"
-  caption: "Illustration of a moustached man in red seated on a purple armchair between two bowls of flame."
-- src: /images/chat/2022-10-09-406203218373518.webp
-  alt: "The stowaway miniature"
-  caption: "A HeroForge miniature of a bare-chested man in a gold vest and skirt with a scimitar and a glowing ringed hand."
-- src: /images/chat/2022-10-19-2050306265163033.webp
-  alt: "Nico's crew line-up"
-  caption: "HeroForge miniatures of the stowaway with twin daggers, Se7en with a tankard, and Caprica in her normal and starry forms."
-- src: /images/chat/2022-10-20-484506666957140.webp
-  alt: "AI portrait of Carlos Vega with a horn"
-  caption: "An AI painting of a moustached man with blue eyes and a single curved horn."
-- src: /images/chat/2022-10-20-3245955278977492.webp
-  alt: "AI portrait of Carlos Vega in a scarf"
-  caption: "An AI painting of a bearded man with dark hair, a brown scarf and a gold harness."
+  - src: /images/chat/2023-01-27-3171756136457042.webp
+    alt: Carlos Vega in cadet uniform
+    caption: A 3D miniature render of a man with swept-back hair in a black and navy cadet uniform holding a purple crystal dagger.
+  - src: /images/chat/2024-04-20-2076791709362668.webp
+    alt: Carlos as an eldritch fire djinn
+    caption: AI painting of a shirtless man with tentacles on his shoulders, seated and holding a lamp with a tall flame.
+  - src: /images/chat/2024-04-20-958874712564034.webp
+    alt: Carlos the djinn on his throne
+    caption: Illustration of a moustached man in red seated on a purple armchair between two bowls of flame.
+  - src: /images/chat/2022-10-09-406203218373518.webp
+    alt: The stowaway miniature
+    caption: A HeroForge miniature of a bare-chested man in a gold vest and skirt with a scimitar and a glowing ringed hand.
+  - src: /images/chat/2022-10-19-2050306265163033.webp
+    alt: Nico's crew line-up
+    caption: HeroForge miniatures of the stowaway with twin daggers, Se7en with a tankard, and Caprica in her normal and starry forms.
+  - src: /images/chat/2022-10-20-484506666957140.webp
+    alt: AI portrait of Carlos Vega with a horn
+    caption: An AI painting of a moustached man with blue eyes and a single curved horn.
+  - src: /images/chat/2022-10-20-3245955278977492.webp
+    alt: AI portrait of Carlos Vega in a scarf
+    caption: An AI painting of a bearded man with dark hair, a brown scarf and a gold harness.
 ---
 
 **Human · Rogue 5 / Warlock 1 / Wizard 3 · Cadet · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**
@@ -165,3 +165,5 @@ His sheet gives his traits as "I am always calm, no matter what the situation. I
 - **[Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/):** issued his credentials and warned him of Hyperion's wrath.
 - **[Dr. Nilpferd](/people/dr-nilpferd/):** his superior as a cadet.
 - **[Barrias Ruby-Eye](/people/barrias-ruby-eye/):** his companion on the return to Picon.
+
+![Carlos Vega - Onboard the SSJ Zanzibar - Light of Xaryxis, Starfall TNG, The Starsong Awakens.png](/images/uploads/carlos-vega-onboard-the-ssj-zanzibar-lig-mu363g0u.webp)
