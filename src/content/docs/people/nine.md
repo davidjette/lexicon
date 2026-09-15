@@ -1,27 +1,29 @@
 ---
 title: Nine
 description: A companion of Barrias Ruby-Eye and Se7en in The Starsong Awakens, who went with them through the time doors of the Sphinx Tomb.
+tags:
+  - Nine
+  - Starfall
+  - The Starsong Awakens
+  - Barrias Ruby-Eye
+  - Se7en
+  - Seven
+  - Eight
+  - Sphinx Tomb
+  - Tannhauser Gate
+image:
+  src: /images/uploads/nine-lost-in-the-time-tombs-the-starsong-mu39xwhv.webp
 type: person
 kind: people
-tags:
-- Nine
-- Starfall
-- The Starsong Awakens
-- Barrias Ruby-Eye
-- Se7en
-- Seven
-- Eight
-- Sphinx Tomb
-- Tannhauser Gate
 fields:
   gender: Male
   species: Unknown
   status: Unknown
 sources:
-- "Oral Histories: The Inevitables, 2024-06-04"
-- "Oral Histories: The Inevitables, 2025-04-06"
-- "Oral Histories: The Inevitables, 2025-04-07"
-- "Oral Histories: The Inevitables, 2025-05-23"
+  - 'Oral Histories: The Inevitables, 2024-06-04'
+  - 'Oral Histories: The Inevitables, 2025-04-06'
+  - 'Oral Histories: The Inevitables, 2025-04-07'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
 ---
 
 **Species unknown · The Starsong Awakens · Status unknown**
