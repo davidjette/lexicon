@@ -15,6 +15,8 @@ tags:
   - Ghosts of Twatmarsh
   - Neptune's Rejects
   - Dolores Weathervein
+image:
+  src: /images/uploads/brother-guido-meatball-saltmarsh-ghost-o-mu31ue3i.webp
 type: person
 kind: people
 icon: fa-book-bible
