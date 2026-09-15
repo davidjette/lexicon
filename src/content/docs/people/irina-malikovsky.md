@@ -1,22 +1,26 @@
 ---
 title: Irina Malikovsky
 description: A changeling of Dolphin 9 who took a dead Astral Command pilot's life through the genie Razomel, propulsion engineer of the SSJ Zanzibar.
+tags:
+  - Irina Malikovsky
+  - Irina Malikowski
+  - Irina Malikovski
+  - Irena
+  - Irene
+  - Changeling
+  - Warlock
+  - Razomel
+  - Dolphin 9
+  - SSJ Zanzibar
+  - Astral Command
+  - Starfall
+  - Light of Xaryxis
+image:
+  src: /images/uploads/irina-malikovsky-onboard-the-ssj-zanziba-mu37ddk1.webp
+  alt: Irina Malikovsky miniature
+  caption: Hero Forge miniature of a green-haired woman with goggles, a dark coat and striped boots, crouching with two pistols.
 type: person
 kind: people
-tags:
-- Irina Malikovsky
-- Irina Malikowski
-- Irina Malikovski
-- Irena
-- Irene
-- Changeling
-- Warlock
-- Razomel
-- Dolphin 9
-- SSJ Zanzibar
-- Astral Command
-- Starfall
-- Light of Xaryxis
 fields:
   gender: Female
   species: Changeling
@@ -25,39 +29,35 @@ fields:
   rpgAlignment: Unknown
   status: Unknown
 sources:
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-12-07"
-- "Oral Histories: The Inevitables, 2022-12-08"
-- "Oral Histories: The Inevitables, 2023-01-22"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2023-07-01"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-04-26"
-- "Oral Histories: The Inevitables, 2024-04-27"
-- "Oral Histories: The Inevitables, 2024-05-10"
-- "Oral Histories: The Inevitables, 2024-05-11"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-09"
-image:
-  src: /images/chat/2022-12-08-3416077438677311.webp
-  alt: "Irina Malikovsky miniature"
-  caption: "Hero Forge miniature of a green-haired woman with goggles, a dark coat and striped boots, crouching with two pistols."
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-12-07'
+  - 'Oral Histories: The Inevitables, 2022-12-08'
+  - 'Oral Histories: The Inevitables, 2023-01-22'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-07-01'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-26'
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - 'Oral Histories: The Inevitables, 2024-05-10'
+  - 'Oral Histories: The Inevitables, 2024-05-11'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-09'
 gallery:
-- src: /images/chat/2024-04-27-404125309044852.webp
-  alt: "Irina's miniature, front view"
-  caption: "A HeroForge miniature of a woman with green hair in buns, red glasses, a bomber jacket and a utility belt."
-- src: /images/chat/2022-12-08-948758182776211.webp
-  alt: "Irina Malikovsky miniature, side view"
-  caption: "Side view of the green-haired miniature aiming a heavy pistol."
-- src: /images/chat/2024-04-27-860464802776225.webp
-  alt: "Irina's miniature, three-quarter view"
-  caption: "A HeroForge miniature of a green-haired woman with red glasses and a fur-collared jacket, seen from the side."
-- src: /images/chat/2024-04-27-444378251289388.webp
-  alt: "Irina's miniature, side view"
-  caption: "A HeroForge miniature of a green-haired woman with red glasses, a bomber jacket and a yellow backpack."
-- src: /images/chat/2024-04-27-1385609685421707.webp
-  alt: "Irina in profile"
-  caption: "A painted profile of a woman with a green ponytail, red glasses and a green jacket standing at a round window."
+  - src: /images/chat/2024-04-27-404125309044852.webp
+    alt: Irina's miniature, front view
+    caption: A HeroForge miniature of a woman with green hair in buns, red glasses, a bomber jacket and a utility belt.
+  - src: /images/chat/2022-12-08-948758182776211.webp
+    alt: Irina Malikovsky miniature, side view
+    caption: Side view of the green-haired miniature aiming a heavy pistol.
+  - src: /images/chat/2024-04-27-860464802776225.webp
+    alt: Irina's miniature, three-quarter view
+    caption: A HeroForge miniature of a green-haired woman with red glasses and a fur-collared jacket, seen from the side.
+  - src: /images/chat/2024-04-27-444378251289388.webp
+    alt: Irina's miniature, side view
+    caption: A HeroForge miniature of a green-haired woman with red glasses, a bomber jacket and a yellow backpack.
+  - src: /images/chat/2024-04-27-1385609685421707.webp
+    alt: Irina in profile
+    caption: A painted profile of a woman with a green ponytail, red glasses and a green jacket standing at a round window.
 ---
 
 **Changeling · Warlock 3 · Propulsion engineer, SSJ Zanzibar · Status unknown**
