@@ -1,20 +1,24 @@
 ---
 title: Umwelt
 description: A warforged Wild Heart barbarian, a liberated farming and ranch-hand unit called Weld, who joined the Red Eye resistance aboard the Istus Cruiser.
+tags:
+  - Umwelt
+  - Weld
+  - Umwelt (Weld)
+  - Starfall
+  - The Starsong Awakens
+  - Children of the Red Eye
+  - Red Eye Revolutionary
+  - Istus Cruiser
+  - Warforged
+  - Marcel Martel
+  - Herdenfrieden
+image:
+  src: /images/uploads/umwelt-onboard-the-terrasque-the-starson-mu38xibw.webp
+  alt: Weld miniature
+  caption: Hero Forge render of an antlered robot with its head tilted up, holding a staff and wearing a scaled cloak.
 type: person
 kind: people
-tags:
-- Umwelt
-- Weld
-- Umwelt (Weld)
-- Starfall
-- The Starsong Awakens
-- Children of the Red Eye
-- Red Eye Revolutionary
-- Istus Cruiser
-- Warforged
-- Marcel Martel
-- Herdenfrieden
 fields:
   gender: Unknown
   species: Warforged
@@ -23,42 +27,38 @@ fields:
   occupation: Farming and ranch-hand unit; crew of the Istus Cruiser
   status: Unknown
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
-- "Oral Histories: The Inevitables, 2024-10-26"
-- "Oral Histories: The Inevitables, 2024-11-02"
-- "Oral Histories: The Inevitables, 2024-11-06"
-- "Oral Histories: The Inevitables, 2024-11-08"
-- "Oral Histories: The Inevitables, 2025-05-23"
-- sources/dave/2026-09-14-starfall-necis.md
-image:
-  src: /images/chat/2024-11-08-1952331351931527.webp
-  alt: "Weld miniature"
-  caption: "Hero Forge render of an antlered robot with its head tilted up, holding a staff and wearing a scaled cloak."
+  - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
+  - 'Oral Histories: The Inevitables, 2024-10-26'
+  - 'Oral Histories: The Inevitables, 2024-11-02'
+  - 'Oral Histories: The Inevitables, 2024-11-06'
+  - 'Oral Histories: The Inevitables, 2024-11-08'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
+  - sources/dave/2026-09-14-starfall-necis.md
 gallery:
-- src: /images/chat/2024-11-08-1026049996231750.webp
-  alt: "Weld miniature, first version"
-  caption: "Hero Forge render of an antlered robot with a staff and a scaled cloak, standing on a grassy base."
-- src: /images/chat/2024-11-08-897888795779843.webp
-  alt: "\"We till your land\" Weld poster"
-  caption: "AI-generated propaganda poster of an antlered warforged with an axe above wheat fields, captioned \"We till your land\"."
-- src: /images/chat/2024-11-08-1491592068218460.webp
-  alt: "\"We make your bread\" Weld poster"
-  caption: "AI-generated propaganda poster of an antlered robot holding a hammer, captioned \"We make your bread\"."
-- src: /images/chat/2024-11-08-1269904067510702.webp
-  alt: "\"We raise your beasts\" Weld poster"
-  caption: "AI-generated propaganda poster of an antlered robot with a scythe among sheep, captioned \"We raise your beasts\"."
-- src: /images/chat/2024-11-08-1264451574872805.webp
-  alt: "\"We will not submit\" Weld poster"
-  caption: "AI-generated propaganda poster of an antlered robot with a hammer leading a crowd of robots, captioned \"We will not submit\"."
-- src: /images/chat/2024-11-08-1032592105289481.webp
-  alt: "\"We build your starships\" Weld poster"
-  caption: "AI-generated propaganda poster of an antlered robot welding at a bench beneath starships, captioned \"We build your starships\"."
-- src: /images/chat/2024-11-08-1735564290613658.webp
-  alt: "\"We shovel your shit\" Weld poster"
-  caption: "AI-generated propaganda poster of an antlered robot with a shovel in an industrial room, captioned \"We shovel your shit\"."
-- src: /images/chat/2024-11-10-796847185868014.webp
-  alt: "\"We shovel your shit\" Weld poster, wide"
-  caption: "Wide AI-generated propaganda poster of an antlered robot with a shovel, captioned \"We shovel your shit\" and \"Warforged android revolutionary\"."
+  - src: /images/chat/2024-11-08-1026049996231750.webp
+    alt: Weld miniature, first version
+    caption: Hero Forge render of an antlered robot with a staff and a scaled cloak, standing on a grassy base.
+  - src: /images/chat/2024-11-08-897888795779843.webp
+    alt: '"We till your land" Weld poster'
+    caption: AI-generated propaganda poster of an antlered warforged with an axe above wheat fields, captioned "We till your land".
+  - src: /images/chat/2024-11-08-1491592068218460.webp
+    alt: '"We make your bread" Weld poster'
+    caption: AI-generated propaganda poster of an antlered robot holding a hammer, captioned "We make your bread".
+  - src: /images/chat/2024-11-08-1269904067510702.webp
+    alt: '"We raise your beasts" Weld poster'
+    caption: AI-generated propaganda poster of an antlered robot with a scythe among sheep, captioned "We raise your beasts".
+  - src: /images/chat/2024-11-08-1264451574872805.webp
+    alt: '"We will not submit" Weld poster'
+    caption: AI-generated propaganda poster of an antlered robot with a hammer leading a crowd of robots, captioned "We will not submit".
+  - src: /images/chat/2024-11-08-1032592105289481.webp
+    alt: '"We build your starships" Weld poster'
+    caption: AI-generated propaganda poster of an antlered robot welding at a bench beneath starships, captioned "We build your starships".
+  - src: /images/chat/2024-11-08-1735564290613658.webp
+    alt: '"We shovel your shit" Weld poster'
+    caption: AI-generated propaganda poster of an antlered robot with a shovel in an industrial room, captioned "We shovel your shit".
+  - src: /images/chat/2024-11-10-796847185868014.webp
+    alt: '"We shovel your shit" Weld poster, wide'
+    caption: Wide AI-generated propaganda poster of an antlered robot with a shovel, captioned "We shovel your shit" and "Warforged android revolutionary".
 ---
 
 **Warforged · Barbarian 5 (Path of the Wild Heart) · Crew, Istus Cruiser · Children of the Red Eye · Status unknown**
