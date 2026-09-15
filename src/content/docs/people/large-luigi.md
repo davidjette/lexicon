@@ -1,24 +1,26 @@
 ---
 title: Large Luigi
 description: A beholder bartender who kept his bar aboard the SSJ Zanzibar and was later held for fifteen years by OSR3G as prisoner LL849.
+tags:
+  - Large Luigi
+  - Luigi
+  - prisoner LL849
+  - prisoner LL9807
+  - Katrina McQuaid Memorial Prison
+  - Battle of Tannhauser Gate
+  - Negroni Accords
+  - Beholder
+  - SSJ Zanzibar
+  - Se7en
+  - OSR3G
+  - Sovereignty
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+image:
+  src: /images/uploads/large-luigi-onboard-the-ssj-zanzibar-lig-mu388toj.webp
 type: person
 kind: people
-tags:
-- Large Luigi
-- Luigi
-- prisoner LL849
-- prisoner LL9807
-- Katrina McQuaid Memorial Prison
-- Battle of Tannhauser Gate
-- Negroni Accords
-- Beholder
-- SSJ Zanzibar
-- Se7en
-- OSR3G
-- Sovereignty
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
 fields:
   gender: Male
   species: Beholder
@@ -26,14 +28,14 @@ fields:
   residence: A high-security OSR3G facility (JL); the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center, Shadowspace (Company dossier)
   status: Imprisoned
 sources:
-- "Oral Histories: The Inevitables, 2022-10-09"
-- "Oral Histories: The Inevitables, 2022-10-18"
-- "Oral Histories: The Inevitables, 2022-10-19"
-- "Oral Histories: The Inevitables, 2022-12-10"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "The Starsong Awakens site (JL Byrd): Company dossier"
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2022-10-18'
+  - 'Oral Histories: The Inevitables, 2022-10-19'
+  - 'Oral Histories: The Inevitables, 2022-12-10'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
 ---
 
 **Beholder · Bartender · SSJ Zanzibar · Imprisoned**
