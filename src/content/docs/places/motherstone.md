@@ -49,6 +49,7 @@ fields:
   rpgAlignment: Unknown
 sources:
   - sources/dave/2026-09-14-eldamir-elistrada-ella.md
+  - sources/dave/2026-09-14-calix-throne-and-eldamir.md
   - Desktop/infantaverse-wiki/src/content/docs/locations/motherstone.mdx
   - Desktop/infantaverse-wiki/src/content/docs/events/motherstone.mdx
   - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part I.txt
