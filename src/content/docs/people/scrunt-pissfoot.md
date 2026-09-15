@@ -1,27 +1,31 @@
 ---
 title: Scrunt Pissfoot
 description: JL's kobold arcane trickster in Ghosts of Twatmarsh, first mate of the Sea Ghost and a Rising Dawn member, who died in White Plume Mountain.
+tags:
+  - Scrunt Pissfoot
+  - Scrunt
+  - Mr Scrunt
+  - kobold
+  - arcane trickster
+  - Rising Dawn
+  - Sea Ghost
+  - first mate
+  - Bimz
+  - Neptune's Rejects
+  - Ghosts of Twatmarsh
+  - Gabriella Hellwood
+  - Dolores Weathervein
+  - Dunwater
+  - Skerrin
+  - Whelm
+  - White Plume Mountain
+  - Saltmarsh
+image:
+  src: /images/uploads/scrunt-pissfoot-saltmarsh-ghost-of-twatm-mu2zg197.webp
+  alt: Scrunt Pissfoot, a horned kobold in a long coat and red bandana with a scimitar, standing on coins
+  caption: 'Scrunt Pissfoot: Nico''s updated HeroForge miniature'
 type: person
 kind: people
-tags:
-- Scrunt Pissfoot
-- Scrunt
-- Mr Scrunt
-- kobold
-- arcane trickster
-- Rising Dawn
-- Sea Ghost
-- first mate
-- Bimz
-- Neptune's Rejects
-- Ghosts of Twatmarsh
-- Gabriella Hellwood
-- Dolores Weathervein
-- Dunwater
-- Skerrin
-- Whelm
-- White Plume Mountain
-- Saltmarsh
 icon: fa-dragon
 fields:
   species: Kobold
@@ -40,44 +44,40 @@ fields:
   weight: Unknown
   status: Dead, killed in White Plume Mountain
 sources:
-- sources/dave/2026-09-14-nico-docs-questions.md
-- "Oral Histories: The Inevitables, 2021-11-11"
-- sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
-- "Oral Histories: The Inevitables, 2021-08-15"
-- "Oral Histories: The Inevitables, 2021-08-20"
-- "Oral Histories: The Inevitables, 2021-09-09"
-- "Oral Histories: The Inevitables, 2021-09-17"
-- "Oral Histories: The Inevitables, 2021-09-18"
-- "Oral Histories: The Inevitables, 2021-10-10"
-- "Oral Histories: The Inevitables, 2021-10-16"
-- "Oral Histories: The Inevitables, 2021-10-17"
-- "Oral Histories: The Inevitables, 2021-11-15"
-- "Oral Histories: The Inevitables, 2021-11-20"
-- "Oral Histories: The Inevitables, 2021-12-22"
-- "Oral Histories: The Inevitables, 2022-02-25"
-- "Oral Histories: The Inevitables, 2022-07-12"
-- "Oral Histories: The Inevitables, 2022-07-13"
-- "Oral Histories: The Inevitables, 2022-08-14"
-- "Oral Histories: The Inevitables, 2022-08-19"
-- "Oral Histories: The Inevitables, 2022-09-10"
-- "Oral Histories: The Inevitables, 2022-09-16"
-- "Oral Histories: The Inevitables, 2022-09-23"
-- "Oral Histories: The Inevitables, 2022-09-24"
-- "Oral Histories: The Inevitables, 2022-10-07"
-- "Oral Histories: The Inevitables, 2025-05-31"
-- "Oral Histories: The Inevitables, 2026-03-07"
+  - sources/dave/2026-09-14-nico-docs-questions.md
+  - 'Oral Histories: The Inevitables, 2021-11-11'
+  - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
+  - 'Oral Histories: The Inevitables, 2021-08-15'
+  - 'Oral Histories: The Inevitables, 2021-08-20'
+  - 'Oral Histories: The Inevitables, 2021-09-09'
+  - 'Oral Histories: The Inevitables, 2021-09-17'
+  - 'Oral Histories: The Inevitables, 2021-09-18'
+  - 'Oral Histories: The Inevitables, 2021-10-10'
+  - 'Oral Histories: The Inevitables, 2021-10-16'
+  - 'Oral Histories: The Inevitables, 2021-10-17'
+  - 'Oral Histories: The Inevitables, 2021-11-15'
+  - 'Oral Histories: The Inevitables, 2021-11-20'
+  - 'Oral Histories: The Inevitables, 2021-12-22'
+  - 'Oral Histories: The Inevitables, 2022-02-25'
+  - 'Oral Histories: The Inevitables, 2022-07-12'
+  - 'Oral Histories: The Inevitables, 2022-07-13'
+  - 'Oral Histories: The Inevitables, 2022-08-14'
+  - 'Oral Histories: The Inevitables, 2022-08-19'
+  - 'Oral Histories: The Inevitables, 2022-09-10'
+  - 'Oral Histories: The Inevitables, 2022-09-16'
+  - 'Oral Histories: The Inevitables, 2022-09-23'
+  - 'Oral Histories: The Inevitables, 2022-09-24'
+  - 'Oral Histories: The Inevitables, 2022-10-07'
+  - 'Oral Histories: The Inevitables, 2025-05-31'
+  - 'Oral Histories: The Inevitables, 2026-03-07'
 published: '2026-09-14'
-image:
-  src: /images/chat/2021-09-18-3107884319537719.webp
-  alt: "Scrunt Pissfoot, a horned kobold in a long coat and red bandana with a scimitar, standing on coins"
-  caption: "Scrunt Pissfoot: Nico's updated HeroForge miniature"
 gallery:
-- src: /images/chat/2021-08-15-2335615576569287.webp
-  alt: "Scrunt Pissfoot with a crossbow, a pipe and a pile of gold coins"
-  caption: "Nico's first miniature of Scrunt, \"Our boy Scrunt Pissfoot\""
-- src: /images/chat/2021-11-11-475905887081701.webp
-  alt: "Pencil sketch of Scrunt saying \"I'm not even sposed ta be here\""
-  caption: "JL's sketch of Scrunt"
+  - src: /images/chat/2021-08-15-2335615576569287.webp
+    alt: Scrunt Pissfoot with a crossbow, a pipe and a pile of gold coins
+    caption: Nico's first miniature of Scrunt, "Our boy Scrunt Pissfoot"
+  - src: /images/chat/2021-11-11-475905887081701.webp
+    alt: Pencil sketch of Scrunt saying "I'm not even sposed ta be here"
+    caption: JL's sketch of Scrunt
 ---
 
 > Scrunt is going to create some problems for the party until he forms bonds with you and learns your expectations. He’s got a chip on his shoulder and thrives in chaos.
