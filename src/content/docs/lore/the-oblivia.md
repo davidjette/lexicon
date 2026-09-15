@@ -57,8 +57,9 @@ Oblivia is produced by the [Obliviator](/items/the-obliviator/), the engine abov
 
 Mara Mageblood's journal names it inside a lullaby:
 
-> When all the world's inside your mind, forgetting is oblivion,\
-> so never sing this song again of — Calix the Betrayer.
+> When all the world's inside your mind, forgetting is oblivion\
+> So never sing this song again of\
+> Calix the Betrayer
 
 ## How to detect it
 

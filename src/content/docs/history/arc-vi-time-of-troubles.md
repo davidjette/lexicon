@@ -147,7 +147,7 @@ After Camelot the elves were allied with Avalon, and Brightmantle and his crew p
 
 <small>Recovered from the Oblivia.</small> In Avalon, learning the **Charm of Making** to unbind Merlin, Kara uncovers the fae history behind Arc I's dark goddess. Merlin himself was engineered: the elves of the Summer Court, "desperate to break their curse of infertility and isolation from their divine aspect of the moon," bargained with **[Asmodeus](/people/asmodeus/)** to sire a child who "could look backward into time" — a wizard with "one foot in the land of dreams."
 
-And **Queen Maab** — the Queen of Air and Darkness, [Calix's](/people/calix-the-betrayer/) dark ally — was made by a stone:
+And **Queen Maab** — the Queen of Air and Darkness, [Calix's](/people/calix/) dark ally — was made by a stone:
 
 > Legend has it that in the time before history began, dwarven miners had unearthed a ten-faceted black gemstone of dark beauty… The gem, which is whispered to have been cut from the very center of the most perfect shard of the Moon ever found, slowly corrupted the princess, eating away her physical body and destroying her soul.
 

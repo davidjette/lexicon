@@ -88,7 +88,7 @@ Silverbane seeks the advancement of elvenkind and elven ideals. **Courage, loyal
 
 ## The confession
 
-<small>Recovered from the Oblivia.</small> Silverbane remembers the slaying of [Calix](/people/calix-the-betrayer/), because it did it itself. Eldamir and Calix stood on the beach as boats landed all around them; Calix tried to blind Eldamir with fire and poison, and Eldamir ran into battle with her eyes closed, following Silverbane's lead into her brother's heart. They both fell dead on that spot — but Calix had buried part of his soul elsewhere.
+<small>Recovered from the Oblivia.</small> Silverbane remembers the slaying of [Calix](/people/calix/), because it did it itself. Eldamir and Calix stood on the beach as boats landed all around them; Calix tried to blind Eldamir with fire and poison, and Eldamir ran into battle with her eyes closed, following Silverbane's lead into her brother's heart. They both fell dead on that spot — but Calix had buried part of his soul elsewhere.
 
 It remembers killing a great many more than Calix. In Eldamir's hands it slew hosts of dwarves, orcs, dragonkin and men. After the Betrayal the elves of Snowdown poured out their wrath on every other race in the Moonshae, and Silverbane was at the front. Pressed, it cannot remember the nature of the Betrayal at all — only that the Infanta's heart was broken and Eldamir thirsted for revenge against her brother.
 
@@ -130,4 +130,4 @@ At Brightmantle's funeral the Moon Elves, with Elistrae, Eldamir and Calix, give
 
 ---
 
-**Related:** [Drefan](/people/drefan/) · [House Gallidann](/organizations/house-gallidann/) · [Elistrae](/people/elistrae/) · [Motherstone](/places/motherstone/) · [The Oblivia](/lore/the-oblivia/) · [Moonstone](/lore/moonstone/) · [The Mundi](/organizations/the-mundi/) · [Calix](/people/calix-the-betrayer/) · [The Infanta](/lore/the-infanta/)
+**Related:** [Drefan](/people/drefan/) · [House Gallidann](/organizations/house-gallidann/) · [Elistrae](/people/elistrae/) · [Motherstone](/places/motherstone/) · [The Oblivia](/lore/the-oblivia/) · [Moonstone](/lore/moonstone/) · [The Mundi](/organizations/the-mundi/) · [Calix](/people/calix/) · [The Infanta](/lore/the-infanta/)

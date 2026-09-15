@@ -130,7 +130,7 @@ It was [Flex Gimble](/people/flex-gimble/) who led the party to the Seat of the 
 
 ### What Motherstone truly was — the Lexicon and the Obliviator
 
-<small>Recovered from the Oblivia.</small> Motherstone was built around the **Lexicon**: a mind grown inside the heart of the world's largest **perfect moonstone**, a crystal able to "stand in for the mind itself." It managed the city's power, water, weather, architecture and defences, drawing knowledge from agents wearing **diadems** in the field and through the **Gate Ring** — a stable abyssal vortex the mage [Calix](/people/calix-the-betrayer/) opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward itself. Motherstone became the hub of the universe, a living library of all knowledge.
+<small>Recovered from the Oblivia.</small> Motherstone was built around the **Lexicon**: a mind grown inside the heart of the world's largest **perfect moonstone**, a crystal able to "stand in for the mind itself." It managed the city's power, water, weather, architecture and defences, drawing knowledge from agents wearing **diadems** in the field and through the **Gate Ring** — a stable abyssal vortex the mage [Calix](/people/calix/) opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward itself. Motherstone became the hub of the universe, a living library of all knowledge.
 
 The Lexicon was built by [Brightmantle](/people/brightmantle/), the dwarven second Infanta, to run the heart of Motherstone using the Obliviator and the great crystals in the mountain, and it carries his personality and intelligence. It did not stay in the mountain. In Arc III Lex was built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is the [Anachron](/items/the-anachron/). <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled [Roland](/people/roland-deschain/) through [the Palantir](/items/the-palantir/), and Roland destroyed the Lexicon and let the Company into Motherstone. About three rounds into the Second Battle of Motherstone Lex transferred himself to the ship, and the Motherstone Lexicon died. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> <small>(The full record of the machine under all three of its names is at [The Anachron](/items/the-anachron/).)</small>
 
@@ -209,16 +209,16 @@ The whole arc is foretold, in code, in the lullaby Mara's mother could never sin
 
 > Our true queen, she saw the boy, atop his shining stallion,\
 > and with a sigh of true love's power she gave him all her kingdom.\
-> Every boy and every girl, wished to see them dancing,\
+> Every boy and every girl, wished to see them dancing.\
 > in the hall, atop the trees within their mountain kingdom.\
-> But lo, there is a darkness there, that stalks and plots betrayal,\
-> and with a lie can all undo the magic of their kingdom.\
+> But lo, there is a darkness there, that stalks and plots betrayal, and with a lie can all undo the magic of their kingdom.\
 > Under where the mushrooms grow, he hides his wicked measures,\
 > but hold your breath and close your eyes and he cannot devour you.\
 > Every step is seven days, but never stop to wonder,\
 > for wondering's fine but not when time is fleeting for our kingdom.\
-> When all the world's inside your mind, forgetting is oblivion,\
-> so never sing this song again of — Calix the Betrayer.
+> When all the world's inside your mind, forgetting is oblivion\
+> So never sing this song again of\
+> Calix the Betrayer
 
 A scholar's note in the journal corrects the other great misconception, too. The Infanta was no deathless child:
 

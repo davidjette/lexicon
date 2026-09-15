@@ -80,8 +80,9 @@ The lullaby is a nursery song Mara's own mother could never sing all the way thr
 
 > Under where the mushrooms grow, he hides his wicked measures,\
 > but hold your breath and close your eyes and he cannot devour you…\
-> When all the world's inside your mind, forgetting is oblivion,\
-> so never sing this song again of — Calix the Betrayer.
+> When all the world's inside your mind, forgetting is oblivion\
+> So never sing this song again of\
+> Calix the Betrayer
 
 ## Death
 
@@ -105,7 +106,7 @@ Her remains are still in the mountain. Her journal is in the party's hands.
 
 Her journal states that the world's history has a lie at its heart and that the whole world has forgotten it. Her final letter records her fear that the reader would not be able to read what she left for many centuries, and she addressed it to whoever came after her.
 
-**Items:** **Mara Mageblood's Journal** — carrying her thesis, her mother's lullaby, and the coded record of [Calix the Betrayer](/people/calix-the-betrayer/). Left hidden with her wedding dress; recovered by Kara in the machine; carried by the party for the rest of the chronicle. · *The Betrayal of Motherstone*, the cursed Orcish tome, which cost her an eye.
+**Items:** **Mara Mageblood's Journal** — carrying her thesis, her mother's lullaby, and the coded record of [Calix the Betrayer](/people/calix/). Left hidden with her wedding dress; recovered by Kara in the machine; carried by the party for the rest of the chronicle. · *The Betrayal of Motherstone*, the cursed Orcish tome, which cost her an eye.
 
 ## Social
 

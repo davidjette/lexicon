@@ -88,7 +88,7 @@ At the funeral every people the heroes saved across the arcs stepped forward to 
 
 > Atlas IV and the Sea Elves — "You saved us from the mindflayers and defeated the Waning One. You are the true bearers of Glassbane. We are with you to the end."
 
-So too the **Sun Elves** (Copperbane), the **Drow** (Onyxbane), the **High Elves** with the Weird Sisters and Morgana (Ironbane), the **Knights of the Round Table**, the **Horsemen Clans**, the freed people of **Memnon**, **Steve Merlin** ("You got me outta that dang tree!"), and the **Moon Elves** with [Elistrae](/people/elistrae/), Eldamir and [Calix](/people/calix-the-betrayer/), who hail the bearer of "all the [Silverbane](/people/silverbane/)s across all time." Last came the copper dragon.
+So too the **Sun Elves** (Copperbane), the **Drow** (Onyxbane), the **High Elves** with the Weird Sisters and Morgana (Ironbane), the **Knights of the Round Table**, the **Horsemen Clans**, the freed people of **Memnon**, **Steve Merlin** ("You got me outta that dang tree!"), and the **Moon Elves** with [Elistrae](/people/elistrae/), Eldamir and [Calix](/people/calix/), who hail the bearer of "all the [Silverbane](/people/silverbane/)s across all time." Last came the copper dragon.
 
 ### Tylerjynex's pledge
 

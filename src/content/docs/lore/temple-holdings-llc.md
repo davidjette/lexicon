@@ -122,7 +122,7 @@ What the campaign uncovers follows from that missing piece: a machine that delet
 
 ## The antagonists
 
-**Adversaries:** [Wainwright St. Cloud](/people/wainwright-st-cloud/) and the Sword Coast Trading Company · [Calix the Betrayer](/people/calix-the-betrayer/) · Queen Maab and the Forsworn · Ayror and the machines of [Motherstone](/places/motherstone/) · Flex Gimble · Mannemarco, the King of Worms · Morgana La Fay and Mordred · the Netherese queens · and behind all of them, **Cthulhu, the [Leviathan](/lore/the-leviathan/)**.
+**Adversaries:** [Wainwright St. Cloud](/people/wainwright-st-cloud/) and the Sword Coast Trading Company · [Calix the Betrayer](/people/calix/) · Queen Maab and the Forsworn · Ayror and the machines of [Motherstone](/places/motherstone/) · Flex Gimble · Mannemarco, the King of Worms · Morgana La Fay and Mordred · the Netherese queens · and behind all of them, **Cthulhu, the [Leviathan](/lore/the-leviathan/)**.
 
 Mannemarco, the King of Worms, whom the party defeated in the Underglow in the second arc <small>(Oral Histories: Temporal Holdings, 2018-05-12)</small>, and **Peter Glans** of the sixth arc, "the King of the Wyrms from Kara’s latest vision" <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small>, are two different people with two different titles.
 

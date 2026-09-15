@@ -106,7 +106,7 @@ Yoshi began the campaign locked up and alone. Dave told his player "I'm going to
 
 > This place was not some terra nova when the Infantas came. This was the roost of a great being. Some would say a living god. But you and I would be more precise to call him — father.
 
-The traitor [Calix](/people/calix-the-betrayer/) beguiled Tylerjynex and banished him to a dark abyss, and the hatchlings were slain in their sleep by the agents of [House Gallidann](/organizations/house-gallidann/), who could not stand to see anyone but elves at the side of the Infanta. The priest hatched three centuries ago and tried to hatch the others himself. Two eggs were stolen and discarded into a seam in the rock, and against all odds survived. One of them was Yoshi.
+The traitor [Calix](/people/calix/) beguiled Tylerjynex and banished him to a dark abyss, and the hatchlings were slain in their sleep by the agents of [House Gallidann](/organizations/house-gallidann/), who could not stand to see anyone but elves at the side of the Infanta. The priest hatched three centuries ago and tried to hatch the others himself. Two eggs were stolen and discarded into a seam in the rock, and against all odds survived. One of them was Yoshi.
 
 ## Two weapons
 

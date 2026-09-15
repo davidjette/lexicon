@@ -72,7 +72,7 @@ Atlas and his people are called both tritons and sea elves; the two names are in
 
 ## Antiquity
 
-After the party charmed [the Waning One](/people/the-waning-one/) and killed Valen in the Time of Troubles, Dave told them: "you know Calix and Atlas have returned to their Infanta to lead attacks on Netherese cities and the Egg itself." <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> See [Calix](/people/calix-the-betrayer/) and [Netheril](/places/netheril/).
+After the party charmed [the Waning One](/people/the-waning-one/) and killed Valen in the Time of Troubles, Dave told them: "you know Calix and Atlas have returned to their Infanta to lead attacks on Netherese cities and the Egg itself." <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> See [Calix](/people/calix/) and [Netheril](/places/netheril/).
 
 The threads still open that November included "Netheril, Atlantis in two eras, the deep past and the Dragons". <small>(Oral Histories: Temporal Holdings, 2021-11-05)</small> The next session was to include "going to Atlantis now and the future". <small>(Oral Histories: Temporal Holdings, 2021-11-20)</small>
 

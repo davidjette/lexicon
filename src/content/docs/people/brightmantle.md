@@ -128,7 +128,7 @@ A new prophet of Brightmantle appears during the divine crisis that follows, "wh
 
 In the Time of Troubles the party scried on him and found him "in the northern forest near Camelot". <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small> Dave framed the quest as "reconciling the goals of Brightmantle and Elistrae to end the ToT/destroy the Netherese with the goals of Eloise/June (and by extension Obus I guess) to end St Clouds meddling in time permanently". <small>(Oral Histories: Temporal Holdings, 2020-08-11)</small> After Avalon joined the elves, "Brightmantle and his crew plan to garrison Camelot and return BM et al to Motherstone pending a plan to onboard the other three elvish peoples", and Magnus went back to Motherstone with him. <small>(Oral Histories: Temporal Holdings, 2020-10-04)</small> The party met back up with Magnus and Brightmantle after facing Morgana. <small>(Oral Histories: Temporal Holdings, 2020-11-06)</small>
 
-By August 2021 the party had told him "he's destined to defeat the netherese and unite the Infanta", and he wanted to push into Netheril. Dave: "he doesn't know about the tragic betrayal from Calix yet", because Magnus was keeping that secret. <small>(Oral Histories: The Inevitables, 2021-08-15. See [Calix the Betrayer](/people/calix-the-betrayer/).)</small>
+By August 2021 the party had told him "he's destined to defeat the netherese and unite the Infanta", and he wanted to push into Netheril. Dave: "he doesn't know about the tragic betrayal from Calix yet", because Magnus was keeping that secret. <small>(Oral Histories: The Inevitables, 2021-08-15. See [Calix the Betrayer](/people/calix/).)</small>
 
 ## Death
 

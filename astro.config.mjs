@@ -59,6 +59,7 @@ export default defineConfig({
 		'/people/chronocypher/': BASE + '/people/stonecypher/',
 		'/people/june/': BASE + '/people/the-infanta-of-time/',
 		'/people/istus/': BASE + '/people/the-infanta-of-time/',
+		'/people/calix-the-betrayer/': BASE + '/people/calix/',
 	},
 	markdown: {
 		remarkPlugins: [remarkStripComments, remarkRedacted, remarkSealedRefs],
