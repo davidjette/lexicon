@@ -1,21 +1,23 @@
 ---
 title: Candy Crush
 description: 'A large man and a lawyer, named once: counsel to the estate of Edwin Graves, and the only living claim on the Cog Collector''s holdings.'
+tags:
+  - Candy Crush
+  - Lawyer
+  - Edwin Graves
+  - Cog Collector
+  - Hopper's Magic Emporium
+  - The Arcade
+  - Deeds
+  - Sharn
+  - Lower City
+  - Unresolved
+  - BioTec
+  - Cob Cornwell
+image:
+  src: /images/uploads/candy-crush-sharn-s-top-lawyer-and-membe-mu31v70t.webp
 type: person
 kind: people
-tags:
-- Candy Crush
-- Lawyer
-- Edwin Graves
-- Cog Collector
-- Hopper's Magic Emporium
-- The Arcade
-- Deeds
-- Sharn
-- Lower City
-- Unresolved
-- BioTec
-- Cob Cornwell
 icon: fa-scale-balanced
 fields:
   rpgAlignment: Unknown
@@ -32,9 +34,9 @@ fields:
   height: Unknown - described only as 'a large man'
   weight: Unknown - described only as 'a large man'
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/key-figures.txt
-- sources/documents/2026-09-14-nico-sharn-hopper.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/key-figures.txt
+  - sources/documents/2026-09-14-nico-sharn-hopper.md
 published: '2026-09-10'
 wa:
   slug: candy-crush-person
