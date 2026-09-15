@@ -166,3 +166,5 @@ His sheet gives his traits as "I am always calm, no matter what the situation. I
 - **[Dr. Nilpferd](/people/dr-nilpferd/):** his superior as a cadet.
 - **[Barrias Ruby-Eye](/people/barrias-ruby-eye/):** his companion on the return to Picon.
 
+
+![Carlos Vega - djinn.png](/images/uploads/carlos-vega-djinn-mu3a2dms.webp)
