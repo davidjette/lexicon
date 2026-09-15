@@ -125,3 +125,5 @@ Kol's sheet gives his trait as "I’ve lost too many friends, and I’m slow to 
 
 - **Paytra:** his partner in the Bureau of Compliance in Brownsleeve City; she died in the finale of Brownsleeve City Nights and was rebuilt as a robot with him.
 - **Marcel Martel** and **Umwelt:** devotees of the Red Eye whom he and Paytra met up with.
+
+![Kol Hanaka - Onboard The Terrasque - The Starsong Awakens.png](/images/uploads/kol-hanaka-onboard-the-terrasque-the-sta-mu3b2on6.webp)
