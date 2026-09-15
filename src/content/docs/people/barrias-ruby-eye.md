@@ -1,22 +1,26 @@
 ---
 title: Barrias Ruby-Eye
 description: A dwarf artificer and shipwright, First Artificer of the SSJ Zanzibar, known to the robot resistance of The Starsong Awakens as the Red Eye.
+tags:
+  - Barrias Ruby-Eye
+  - Red-Eye
+  - Red Eye
+  - Barris
+  - Berrias
+  - Barrías
+  - Karris Ruby-Eye
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - SSJ Zanzibar
+  - Se7en
+image:
+  src: /images/uploads/barrias-ruby-eye-onboard-the-ssj-zanziba-mu359e93.webp
+  alt: Barrias Red-Eye miniature
+  caption: A HeroForge miniature of Barrias, a red-bearded dwarf with a scarred eye in olive power armour, with a shield and flaming pistol.
 type: person
 kind: people
 icon: fa-screwdriver-wrench
-tags:
-- Barrias Ruby-Eye
-- Red-Eye
-- Red Eye
-- Barris
-- Berrias
-- Barrías
-- Karris Ruby-Eye
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- SSJ Zanzibar
-- Se7en
 fields:
   rpgAlignment: Neutral Good
   ggmtitle: First Artificer of the SSJ Zanzibar (1st Sgt.); the Red Eye
@@ -34,73 +38,69 @@ fields:
   weight: 150 lb
   status: Unknown
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-05-01"
-- "Oral Histories: The Inevitables, 2022-09-26"
-- "Oral Histories: The Inevitables, 2022-10-09"
-- "Oral Histories: The Inevitables, 2022-10-10"
-- "Oral Histories: The Inevitables, 2022-10-19"
-- "Oral Histories: The Inevitables, 2022-10-21"
-- "Oral Histories: The Inevitables, 2022-12-08"
-- "Oral Histories: The Inevitables, 2022-12-11"
-- "Oral Histories: The Inevitables, 2022-12-18"
-- "Oral Histories: The Inevitables, 2022-12-21"
-- "Oral Histories: The Inevitables, 2022-12-31"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2023-08-11"
-- "Oral Histories: The Inevitables, 2024-01-21"
-- "Oral Histories: The Inevitables, 2024-03-09"
-- "Oral Histories: The Inevitables, 2024-03-15"
-- "Oral Histories: The Inevitables, 2024-03-16"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-02"
-- "Oral Histories: The Inevitables, 2024-06-04"
-- "Oral Histories: The Inevitables, 2024-06-11"
-- "Oral Histories: The Inevitables, 2024-06-18"
-- "Oral Histories: The Inevitables, 2024-07-01"
-- "Oral Histories: The Inevitables, 2024-07-11"
-- "Oral Histories: The Inevitables, 2024-07-12"
-- "Oral Histories: The Inevitables, 2024-08-09"
-- "Oral Histories: The Inevitables, 2024-08-16"
-- "Oral Histories: The Inevitables, 2024-08-24"
-- "Oral Histories: The Inevitables, 2024-09-25"
-- "Oral Histories: The Inevitables, 2024-11-10"
-- "Oral Histories: The Inevitables, 2024-12-07"
-- "Oral Histories: The Inevitables, 2025-01-18"
-- "Oral Histories: The Inevitables, 2025-04-06"
-- "Oral Histories: The Inevitables, 2025-05-23"
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-image:
-  src: /images/chat/2022-10-09-1513239562431838.webp
-  alt: "Barrias Red-Eye miniature"
-  caption: "A HeroForge miniature of Barrias, a red-bearded dwarf with a scarred eye in olive power armour, with a shield and flaming pistol."
+  - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-05-01'
+  - 'Oral Histories: The Inevitables, 2022-09-26'
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2022-10-10'
+  - 'Oral Histories: The Inevitables, 2022-10-19'
+  - 'Oral Histories: The Inevitables, 2022-10-21'
+  - 'Oral Histories: The Inevitables, 2022-12-08'
+  - 'Oral Histories: The Inevitables, 2022-12-11'
+  - 'Oral Histories: The Inevitables, 2022-12-18'
+  - 'Oral Histories: The Inevitables, 2022-12-21'
+  - 'Oral Histories: The Inevitables, 2022-12-31'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-08-11'
+  - 'Oral Histories: The Inevitables, 2024-01-21'
+  - 'Oral Histories: The Inevitables, 2024-03-09'
+  - 'Oral Histories: The Inevitables, 2024-03-15'
+  - 'Oral Histories: The Inevitables, 2024-03-16'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-06-04'
+  - 'Oral Histories: The Inevitables, 2024-06-11'
+  - 'Oral Histories: The Inevitables, 2024-06-18'
+  - 'Oral Histories: The Inevitables, 2024-07-01'
+  - 'Oral Histories: The Inevitables, 2024-07-11'
+  - 'Oral Histories: The Inevitables, 2024-07-12'
+  - 'Oral Histories: The Inevitables, 2024-08-09'
+  - 'Oral Histories: The Inevitables, 2024-08-16'
+  - 'Oral Histories: The Inevitables, 2024-08-24'
+  - 'Oral Histories: The Inevitables, 2024-09-25'
+  - 'Oral Histories: The Inevitables, 2024-11-10'
+  - 'Oral Histories: The Inevitables, 2024-12-07'
+  - 'Oral Histories: The Inevitables, 2025-01-18'
+  - 'Oral Histories: The Inevitables, 2025-04-06'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
 gallery:
-- src: /images/chat/2024-06-18-1685086462262365.webp
-  alt: "Old Barrias with a mechanical arm"
-  caption: "A bald, bearded old man with an eyepatch and a mechanical arm sits in a cluttered steampunk workshop with a bottle of red liquid."
-- src: /images/chat/2022-05-01-754904065705855.webp
-  alt: "Karris Ruby-Eye miniature"
-  caption: "A HeroForge miniature of a red-bearded dwarf in olive power armour with a tower shield and a flaming pistol, posted as Karris Ruby-Eye."
-- src: /images/chat/2022-07-24-766221108028806.webp
-  alt: "Barrias, Hyperion and F.L.A.P. line-up"
-  caption: "HeroForge miniatures of the armoured dwarf Barrias, a bugbear security chief with a rotary gun, the kneeling Hyperion Titara and the seated robot F.L.A.P."
-- src: /images/chat/2024-08-25-302030112973488.webp
-  alt: "Barrias escaping prison"
-  caption: "A red-bearded dwarf with pointed ears runs down a starship corridor chased by armoured guards."
-- src: /images/chat/2024-08-25-3787532524793727.webp
-  alt: "Barrias on the run"
-  caption: "A red-bearded dwarf in steampunk gear runs down a metal corridor ahead of an armed guard."
-- src: /images/chat/2024-08-25-864182138983730.webp
-  alt: "Barrias in armour, sketch"
-  caption: "A comic-style bust of a red-bearded man in grey armour surrounded by drawings of mechanical parts."
-- src: /images/chat/2024-08-25-529051239581881.webp
-  alt: "Barrias in red power armour"
-  caption: "A comic-style figure with a red beard and glowing eyes stalks down a corridor in bulky red power armour."
-- src: /images/chat/2024-08-25-2981923635281174.webp
-  alt: "Barrias in dark plate"
-  caption: "A comic-style red-bearded warrior in heavy dark and red plate armour stands in a burning street."
+  - src: /images/chat/2024-06-18-1685086462262365.webp
+    alt: Old Barrias with a mechanical arm
+    caption: A bald, bearded old man with an eyepatch and a mechanical arm sits in a cluttered steampunk workshop with a bottle of red liquid.
+  - src: /images/chat/2022-05-01-754904065705855.webp
+    alt: Karris Ruby-Eye miniature
+    caption: A HeroForge miniature of a red-bearded dwarf in olive power armour with a tower shield and a flaming pistol, posted as Karris Ruby-Eye.
+  - src: /images/chat/2022-07-24-766221108028806.webp
+    alt: Barrias, Hyperion and F.L.A.P. line-up
+    caption: HeroForge miniatures of the armoured dwarf Barrias, a bugbear security chief with a rotary gun, the kneeling Hyperion Titara and the seated robot F.L.A.P.
+  - src: /images/chat/2024-08-25-302030112973488.webp
+    alt: Barrias escaping prison
+    caption: A red-bearded dwarf with pointed ears runs down a starship corridor chased by armoured guards.
+  - src: /images/chat/2024-08-25-3787532524793727.webp
+    alt: Barrias on the run
+    caption: A red-bearded dwarf in steampunk gear runs down a metal corridor ahead of an armed guard.
+  - src: /images/chat/2024-08-25-864182138983730.webp
+    alt: Barrias in armour, sketch
+    caption: A comic-style bust of a red-bearded man in grey armour surrounded by drawings of mechanical parts.
+  - src: /images/chat/2024-08-25-529051239581881.webp
+    alt: Barrias in red power armour
+    caption: A comic-style figure with a red beard and glowing eyes stalks down a corridor in bulky red power armour.
+  - src: /images/chat/2024-08-25-2981923635281174.webp
+    alt: Barrias in dark plate
+    caption: A comic-style red-bearded warrior in heavy dark and red plate armour stands in a burning street.
 ---
 
 **Dwarf (Mark of Warding) · Artificer 16 · First Artificer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**
