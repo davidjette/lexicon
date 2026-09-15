@@ -1,22 +1,24 @@
 ---
 title: Garbanzo
 description: The daughter of the Saltmarsh smuggler Gellen Primewater, who married Gabriella Hellwood under a deal struck between the Commodore and her father.
+tags:
+  - Garbanzo
+  - Primewater
+  - the Smugglers Daughter
+  - the primewater girl
+  - Gellen Primewater
+  - Gabriella Hellwood
+  - Hellwood
+  - The Commodore and the Smugglers Daughter
+  - Weathervein summer home
+  - Saltmarsh
+  - Oerth
+  - Ghosts of Twatmarsh
+  - Neptune's Rejects
+image:
+  src: /images/uploads/garbanzo-saltmarsh-ghost-of-twatmarsh-ca-mu31jjl0.webp
 type: person
 kind: people
-tags:
-- Garbanzo
-- Primewater
-- the Smugglers Daughter
-- the primewater girl
-- Gellen Primewater
-- Gabriella Hellwood
-- Hellwood
-- The Commodore and the Smugglers Daughter
-- Weathervein summer home
-- Saltmarsh
-- Oerth
-- Ghosts of Twatmarsh
-- Neptune's Rejects
 icon: fa-ring
 fields:
   rpgAlignment: Unknown
@@ -36,16 +38,16 @@ fields:
   spouse: Gabriella Hellwood
   status: Unknown
 sources:
-- sources/dave/2026-09-14-oral-histories-cast.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-- "Oral Histories: The Inevitables, 2022-01-07"
-- "Oral Histories: The Inevitables, 2022-01-08"
-- "Oral Histories: The Inevitables, 2022-01-22"
-- "Oral Histories: The Inevitables, 2022-03-13"
-- "Oral Histories: The Inevitables, 2022-03-18"
-- "Oral Histories: The Inevitables, 2022-07-01"
-- "Oral Histories: The Inevitables, 2022-07-14"
-- "Oral Histories: The Inevitables, 2025-05-31"
+  - sources/dave/2026-09-14-oral-histories-cast.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'Oral Histories: The Inevitables, 2022-01-07'
+  - 'Oral Histories: The Inevitables, 2022-01-08'
+  - 'Oral Histories: The Inevitables, 2022-01-22'
+  - 'Oral Histories: The Inevitables, 2022-03-13'
+  - 'Oral Histories: The Inevitables, 2022-03-18'
+  - 'Oral Histories: The Inevitables, 2022-07-01'
+  - 'Oral Histories: The Inevitables, 2022-07-14'
+  - 'Oral Histories: The Inevitables, 2025-05-31'
 published: '2026-09-14'
 ---
 
