@@ -48,6 +48,7 @@ fields:
   includedLocations: The Trunks; the Flares; the Grand Concourse; the Shifting City; the Terminal Room; the Great Stairs; the Armory; the Arcaneum; the Drembles; the Deep Crystal Mine; the Deepgate; the Blood Seal; the Crack; the Eldergreen
   rpgAlignment: Unknown
 sources:
+  - sources/dave/2026-09-14-eldamir-elistrada-ella.md
   - Desktop/infantaverse-wiki/src/content/docs/locations/motherstone.mdx
   - Desktop/infantaverse-wiki/src/content/docs/events/motherstone.mdx
   - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part I.txt
@@ -157,7 +158,7 @@ The [Mundi](/organizations/the-mundi/) — lithe white moon-elves — live insid
 
 ## Reclaimed, and lost again
 
-The First Infanta's heir retook her capital at the head of an invading army, riding an elephant, grown into a young Infanta, and was to be crowned on the Throne of Motherstone with Calix standing at her shoulder as chief advisor. Calix put her on the Throne to extract from her the memory of the city, reactivate the Lexicon and release his phylactery; the party used the music box to remind her of Stone. <small>(Dave, sources/dave/2026-09-14-calix-throne-and-eldamir.md)</small> The city was fought over twice more by the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/): the First and Second Battles of Motherstone bracket the Age of the Infanta. When the Lexicon finally broke, a city that depended on its magic for everything from teaching children to moving its own architecture fell into ruin and class war, "ripping at the seams."
+The First Infanta's heir retook her capital at the head of an invading army, riding an elephant: [Ella](/people/elistrae/), the Infanta of the Moon of that age, grown into a young woman, and was to be crowned on the Throne of Motherstone with Calix standing at her shoulder as chief advisor. Calix put her on the Throne to extract from her the memory of the city, reactivate the Lexicon and release his phylactery; the party used the music box to remind her of Stone. <small>(Dave, sources/dave/2026-09-14-calix-throne-and-eldamir.md)</small> The city was fought over twice more by the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/): the First and Second Battles of Motherstone bracket the Age of the Infanta. When the Lexicon finally broke, a city that depended on its magic for everything from teaching children to moving its own architecture fell into ruin and class war, "ripping at the seams."
 
 Before that return the party spent ten years below, in the slow time of Calix's vault. In those years the Company found Motherstone and turned it into a massive moonstone mining operation; St. Cloud, who had forgotten the city along with everyone else, made it a centrepiece of his empire once it was remembered. When the party emerged they raised a rebellion among the workers, and the ten-year-old Infanta of the Moon arrived riding an elephant with a small army from around Snowdown. Together they pushed the Company out.
 

@@ -43,6 +43,7 @@ fields:
   follows: Arc I — Hope in Exile
   leadsInto: Arc III — Age of the Infanta
 sources:
+- sources/dave/2026-09-14-eldamir-elistrada-ella.md
 - Desktop/infantaverse-wiki/src/content/docs/events/motherstone.mdx
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part I.docx
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part II.docx
@@ -240,7 +241,7 @@ In the arc's final session Brother Magnus posed as the Faceless Boy when talking
 
 Motherstone ends with the first Infanta's heir enthroned in her recovered capital, the Company driven out of the city, the Leviathan still looming, and a young goddess-empress now openly ruling the Moonshae. The chronicle's third arc, [Age of the Infanta](/history/arc-iii-age-of-the-infanta/), opens from that throne.
 
-<small>Calix survived the vault. He is immortal: slain once before, on the beach with Eldamir, he had survived as a lich. After the time skip he reappears, conquers Motherstone with the young Infanta, stands at her side as her advisor, puts her on the Throne to extract the memory of the city, reactivate the Lexicon and release his phylactery, and enters the Orb. The party woke her with the music box, which reminded her of Stone. <small>(Dave, sources/dave/2026-09-14-calix-throne-and-eldamir.md)</small></small>
+<small>Calix survived the vault. He is immortal: slain once before, on the beach with Eldamir, he had survived as a lich. After the time skip he reappears, conquers Motherstone with [Ella](/people/elistrae/), the young Infanta of the Moon, stands at her side as her advisor, puts her on the Throne to extract the memory of the city, reactivate the Lexicon and release his phylactery, and enters the Orb. The party woke her with the music box, which reminded her of Stone. <small>(Dave, sources/dave/2026-09-14-calix-throne-and-eldamir.md)</small></small>
 
 ## Sessions
 
