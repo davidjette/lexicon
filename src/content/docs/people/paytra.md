@@ -1,65 +1,65 @@
 ---
 title: Paytra
 description: A winged tiefling fighter and warlock of the Bureau of Compliance, Kol Hanaka's partner, who died in Brownsleeve City and was rebuilt as a robot.
+tags:
+  - Paytra
+  - Patyra
+  - Starfall
+  - The Starsong Awakens
+  - Bureau of Compliance
+  - Blade Runner
+  - Brownsleeve City
+  - Brownsleeve City Nights
+  - Kol Hanaka
+  - Tiefling
+  - Red Eye
+image:
+  src: /images/uploads/paytra-brownsleeves-city-the-starsong-aw-mu33z1b2.webp
+  alt: Paytra miniature
+  caption: A HeroForge miniature of a red-skinned winged tiefling in blue and gold armour holding a glaive.
 type: person
 kind: people
-tags:
-- Paytra
-- Patyra
-- Starfall
-- The Starsong Awakens
-- Bureau of Compliance
-- Blade Runner
-- Brownsleeve City
-- Brownsleeve City Nights
-- Kol Hanaka
-- Tiefling
-- Red Eye
 fields:
   gender: Female
   species: Tiefling (variant feral, winged)
   occupation: Agent (Blade Runner), Bureau of Compliance
   status: Rebuilt as a robot
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
-- "Oral Histories: The Inevitables, 2024-06-19"
-- "Oral Histories: The Inevitables, 2024-07-01"
-- "Oral Histories: The Inevitables, 2024-07-11"
-- "Oral Histories: The Inevitables, 2024-11-02"
-- "Oral Histories: The Inevitables, 2024-11-10"
-- "Oral Histories: The Inevitables, 2024-11-17"
-- "Oral Histories: The Inevitables, 2024-08-16"
-- "Oral Histories: The Inevitables, 2025-05-23"
-- sources/dave/2026-09-14-starfall-necis.md
-image:
-  src: /images/chat/2024-06-19-2795676110589678.webp
-  alt: "Paytra miniature"
-  caption: "A HeroForge miniature of a red-skinned winged tiefling in blue and gold armour holding a glaive."
+  - Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
+  - 'Oral Histories: The Inevitables, 2024-06-19'
+  - 'Oral Histories: The Inevitables, 2024-07-01'
+  - 'Oral Histories: The Inevitables, 2024-07-11'
+  - 'Oral Histories: The Inevitables, 2024-11-02'
+  - 'Oral Histories: The Inevitables, 2024-11-10'
+  - 'Oral Histories: The Inevitables, 2024-11-17'
+  - 'Oral Histories: The Inevitables, 2024-08-16'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
+  - sources/dave/2026-09-14-starfall-necis.md
 gallery:
-- src: /images/chat/2024-06-19-1470558383544622.webp
-  alt: "Paytra miniature, side view"
-  caption: "A HeroForge miniature of a red-skinned winged tiefling in blue and gold armour, seen from the side holding a glaive."
-- src: /images/chat/2024-06-23-433150462475030.webp
-  alt: "Updated Paytra portrait"
-  caption: "A portrait of a blue-skinned woman with three black horns, a red ponytail and a red mark on her forehead."
-- src: /images/chat/2024-06-23-989645959506447.webp
-  alt: "Updated Paytra miniature"
-  caption: "A HeroForge miniature of a grey-skinned winged tiefling with horns, a baton and a round shield, mid-stride."
-- src: /images/chat/2024-06-23-4621353914756512.webp
-  alt: "Updated Paytra miniature with shield"
-  caption: "A HeroForge miniature of a grey-skinned winged tiefling raising a round shield, seen from the side."
-- src: /images/chat/2024-06-23-1210182513671129.webp
-  alt: "Updated Paytra miniature with baton"
-  caption: "A HeroForge miniature of a grey-skinned winged tiefling swinging a baton with a shield held out."
-- src: /images/chat/2024-06-23-1482621852342301.webp
-  alt: "Paytra with a red crest"
-  caption: "A portrait of a blue-skinned woman with a red crest of hair, a black horn and a studded shoulder guard."
-- src: /images/chat/2024-07-27-853627159500044.webp
-  alt: "Paytra reading"
-  caption: "A teal-skinned woman with curled horns and red hair reads a book against a blue sky."
-- src: /images/chat/2024-07-27-1012598783658653.webp
-  alt: "Paytra at the beach"
-  caption: "An illustration of a horned tiefling woman with teal hair and sunglasses reading a book on a beach."
+  - src: /images/chat/2024-06-19-1470558383544622.webp
+    alt: Paytra miniature, side view
+    caption: A HeroForge miniature of a red-skinned winged tiefling in blue and gold armour, seen from the side holding a glaive.
+  - src: /images/chat/2024-06-23-433150462475030.webp
+    alt: Updated Paytra portrait
+    caption: A portrait of a blue-skinned woman with three black horns, a red ponytail and a red mark on her forehead.
+  - src: /images/chat/2024-06-23-989645959506447.webp
+    alt: Updated Paytra miniature
+    caption: A HeroForge miniature of a grey-skinned winged tiefling with horns, a baton and a round shield, mid-stride.
+  - src: /images/chat/2024-06-23-4621353914756512.webp
+    alt: Updated Paytra miniature with shield
+    caption: A HeroForge miniature of a grey-skinned winged tiefling raising a round shield, seen from the side.
+  - src: /images/chat/2024-06-23-1210182513671129.webp
+    alt: Updated Paytra miniature with baton
+    caption: A HeroForge miniature of a grey-skinned winged tiefling swinging a baton with a shield held out.
+  - src: /images/chat/2024-06-23-1482621852342301.webp
+    alt: Paytra with a red crest
+    caption: A portrait of a blue-skinned woman with a red crest of hair, a black horn and a studded shoulder guard.
+  - src: /images/chat/2024-07-27-853627159500044.webp
+    alt: Paytra reading
+    caption: A teal-skinned woman with curled horns and red hair reads a book against a blue sky.
+  - src: /images/chat/2024-07-27-1012598783658653.webp
+    alt: Paytra at the beach
+    caption: An illustration of a horned tiefling woman with teal hair and sunglasses reading a book on a beach.
 ---
 
 **Tiefling · Fighter 5 (Battle Master) / Warlock 3 (Archfey) · Agent, Bureau of Compliance · Rebuilt as a robot**
