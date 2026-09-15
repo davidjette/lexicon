@@ -37,6 +37,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- sources/dave/2026-09-14-onyxbane-and-griddy.md
 - worldanvil/sources/infantaverse/SILVERBANE.pdf
 - worldanvil/sources/infantaverse/Notes__Feybane.txt
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part III.docx
@@ -57,7 +58,7 @@ wa:
 
 *Also known as:* Feybane <small>(its dormant name, before it was recognised)</small> · the Moonsword · "all the Silverbanes across all time"
 
-**Silverbane** is the sentient [moonstone](/lore/moonstone/) blade of [House Gallidann](/organizations/house-gallidann/), an intelligent bastard sword that has served the house for three thousand years and retains a persistent memory of the ages the **Forgetting** erased. Its four previous owners were **Eldamir**, **Star Quendi**, **Renos** and **Daenan**; it was found dormant under the name **Feybane** in the deep hold of the slaver *Evening Star*, interred with the *baelnorn* Daenan, taken from his sarcophagus, and then blessed to [Drefan](/people/drefan/) by the spirit of Star Quendi at Bask Falls Barrow, who opened another Master Rune on it. Its siblings are **Ebonbane**, **Ironbane** (Excalibur), **Glassbane**, **Copperbane** and **Onyxbane**. It seeks the advancement of elvenkind and elven ideals, and grants its powers as it chooses to protect the [Infanta](/lore/the-infanta/).
+**Silverbane** is the sentient [moonstone](/lore/moonstone/) blade of [House Gallidann](/organizations/house-gallidann/), an intelligent bastard sword that has served the house for three thousand years and retains a persistent memory of the ages the **Forgetting** erased. Its four previous owners were **Eldamir**, **Star Quendi**, **Renos** and **Daenan**; it was found dormant under the name **Feybane** in the deep hold of the slaver *Evening Star*, interred with the *baelnorn* Daenan, taken from his sarcophagus, and then blessed to [Drefan](/people/drefan/) by the spirit of Star Quendi at Bask Falls Barrow, who opened another Master Rune on it. Its siblings are **Onyxbane**, **Ironbane** (Excalibur), **Glassbane** and **Copperbane**. It seeks the advancement of elvenkind and elven ideals, and grants its powers as it chooses to protect the [Infanta](/lore/the-infanta/).
 
 ## The blade itself
 
@@ -100,7 +101,7 @@ And then, because the seal demands it, **Silverbane must take the blood of a dwa
 
 ## Memory across the Oblivia
 
-<small>Recovered from the Oblivia.</small> Reunited with its siblings Ebonbane, Ironbane and Glassbane in the rewritten past of the Time of Troubles, away from the [Oblivia](/lore/the-oblivia/) that erased that age, the blades find that their memories and intellects are sharper in each other's presence, and that being in that age makes them more powerful than ever. Silverbane finally recovers the founding:
+<small>Recovered from the Oblivia.</small> Reunited with its siblings Onyxbane, Ironbane and Glassbane in the rewritten past of the Time of Troubles, away from the [Oblivia](/lore/the-oblivia/) that erased that age, the blades find that their memories and intellects are sharper in each other's presence, and that being in that age makes them more powerful than ever. Silverbane finally recovers the founding:
 
 > I remember these times much better now. You have to forgive me, but much of this age was erased from history, which for you is written record but for me, is empty spaces spoiling my persistent memory. But now that I've seen myself as I was in this time — with Eldamir — I remember what it was like. Elistrae came to us in the body of a human girl, and the elders did not know what to do, at first. They tried to exorcise her, summon her out of the child, but it was no use. The elvish god had fused to a mortal soul in order to be born and spread her grace.
 
@@ -125,7 +126,7 @@ At Brightmantle's funeral the Moon Elves, with Elistrae, Eldamir and Calix, give
 - **Star Quendi** — second rune. Greeted the sword "as an old friend and wept" when its new bearer came to her barrow.
 - **Renos** and **Daenan** — third and fourth runes; Quendi's son and grandson. Daenan's tomb is where the blade was found, dormant, as Feybane, and Daenan is the one owner who never blessed Drefan.
 - **Drefan's own rune** — the last on the line, added after the blessings: a creature struck with fewer than 100 hit points dies.
-- **Ebonbane · Ironbane · Glassbane · Copperbane · Onyxbane** — its siblings. Sharper together.
+- **Onyxbane · Ironbane · Glassbane · Copperbane** — its siblings. Sharper together.
 - **Elistrae** — whose image is on its forte, and whose protection overrides its loyalty to any owner.
 
 ---

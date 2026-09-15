@@ -39,6 +39,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/dave/2026-09-14-onyxbane-and-griddy.md
   - sources/documents/2026-09-14-lamont-revan-its-time-to-come-home.md
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2991, IMG_2992, IMG_2993, IMG_3071, IMG_3075, IMG_3076, IMG_3077, IMG_3078, IMG_3087, IMG_3096)
   - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
@@ -70,6 +71,8 @@ At Fort Maximillien she wore "a reserved but nonetheless smoldering black leathe
 In Waterdeep, during his contract negotiations over Tiffany House and his debt to Asmodeus, Revan Darkcember was confronted by **Violet**, an erinyes who served as a housecarl and as a spy for Asmodeus: "If killed, she returns to the House." <small>(The Winking Depths, Part IV)</small> Revan then had "luxury estates in two major cities and a devil as a personal attaché", and his player asked, "Can her name be Grittey Champagne?" At the table she was Gritty Champagne from then on. <small>(Oral Histories: Temporal Holdings, 2019-08-27, 2019-11-11)</small>
 
 In LaMont's short story "…It's time to come home…", she wrote to Revan in Sigil, in red on something that may not have been paper, with Sable's words "…It's time to come home…", signing "With regards, Your Colleague in serving the dark Lord, Champain". Revan greeted it with "Gritty Champain, You beautiful bitch" and burned it. <small>(LaMont, "…It's time to come home…")</small>
+
+Griddy has been killed. A devil killed on the Material Plane simply goes back to the Hells, which is why she returns. <small>(Dave, sources/dave/2026-09-14-onyxbane-and-griddy.md)</small>
 
 ## RUIN and the Klaxons
 

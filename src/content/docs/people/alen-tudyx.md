@@ -71,7 +71,7 @@ published: '2026-09-14'
 
 ## House Tudyx and Copperbane
 
-House Tudyx is one of the five elven houses descended from [the Banefae](/organizations/the-banefae/), the house of the high elves, and Copperbane is its blade, a shard of Perfect moonstone. Ebonbane's memory of the founding of Starfall Tower names the Tudix among the five families shown the place by the Masked Prophet: "Gallidan, Nimue, Atlas, Carls, and Tudix". <small>(Arc VI, Time of Troubles Part VII.)</small> See [the Bane Blades](/items/the-bane-blades/).
+House Tudyx is one of the five elven houses descended from [the Banefae](/organizations/the-banefae/), the house of the high elves, and Copperbane is its blade, a shard of Perfect moonstone. Onyxbane's memory of the founding of Starfall Tower names the Tudix among the five families shown the place by the Masked Prophet: "Gallidan, Nimue, Atlas, Carls, and Tudix". <small>(Arc VI, Time of Troubles Part VII.)</small> See [the Bane Blades](/items/the-bane-blades/).
 
 ## Peter Glans
 

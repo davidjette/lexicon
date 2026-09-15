@@ -119,7 +119,7 @@ In the Time of Troubles the party came to Camp Vengeance, where the young druids
 
 Dave had earlier offered the party a trip to "Corma and Panae" to deal with "Valen and/or the Cormanthyr elves and copperbane". <small>(Oral Histories: Temporal Holdings, 2020-11-22)</small>
 
-The Bane Blades spoke of him as the war approached. Silverbane said that "soon CALIX will receive a missive from VALEN", claiming that Valen and his allies had found the City of Dis in the Shadowfell and that the Netherese sages had murdered Thanatos and usurped the Seat of Judgment. Ebonbane: "I am with Carls Jr, who is with Valen now as well as with the Masked Prophet who first guided them to the City of Dis." <small>(Arc VI, Time of Troubles Part VII.)</small> See [Dis](/places/dis/).
+The Bane Blades spoke of him as the war approached. Silverbane said that "soon CALIX will receive a missive from VALEN", claiming that Valen and his allies had found the City of Dis in the Shadowfell and that the Netherese sages had murdered Thanatos and usurped the Seat of Judgment. Onyxbane: "I am with Carls Jr, who is with Valen now as well as with the Masked Prophet who first guided them to the City of Dis." <small>(Arc VI, Time of Troubles Part VII.)</small> See [Dis](/places/dis/).
 
 ## Despondos and his death
 

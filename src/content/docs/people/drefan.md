@@ -45,6 +45,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/dave/2026-09-14-onyxbane-and-griddy.md
   - Desktop/infantaverse-wiki/src/content/docs/characters/drefan.mdx
   - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part III.docx
   - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part IV.docx
@@ -178,7 +179,7 @@ In the joking epilogue Dave posted two days after the finale, "a populist revolu
 
 ## Right now
 
-Drefan carries Silverbane into the muster at Motherstone as one of five sibling blades — Silverbane, Ebonbane, Ironbane, Glassbane, Copperbane — nearly reunited for the first time since the age they cannot remember, and named in Zebulon's vision as five blades piercing an opened eye.
+Drefan carries Silverbane into the muster at Motherstone as one of five sibling blades — Silverbane, Onyxbane, Ironbane, Glassbane, Copperbane — nearly reunited for the first time since the age they cannot remember, and named in Zebulon's vision as five blades piercing an opened eye.
 
 ## Beliefs
 

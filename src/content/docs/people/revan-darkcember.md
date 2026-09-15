@@ -32,6 +32,7 @@ fields:
   residence: Waterdeep
   status: Vanished from view about two hundred years after the Ages of the Infanta, and may have lived on unseen; his soul owned by Asmodeus
 sources:
+- sources/dave/2026-09-14-onyxbane-and-griddy.md
 - sources/documents/2026-09-14-lamont-revan-its-time-to-come-home.md
 - CANON.md 5g (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
@@ -113,7 +114,7 @@ Their own dossier lists him as a threat of unknown category:
 - Before the Battle of the River Lis, Dave reminded the party of their strong contact in Jonathan Silverhand, a top-three Zent who "owes you the city of WD to a Certain extent", "Esp the Panther". <small>(Oral Histories: Battle of River Lis, 2019-10-21)</small>
 - Dave put the homebrew level-3 spell Freezing Fog on the wizard list, so that Revan had access to it. <small>(Oral Histories: Temporal Holdings, 2019-11-01)</small>
 - He assaults the House of Nimbus alongside [Roland](/people/roland-deschain/), Stonecypher, [Drefan](/people/drefan/) and Stoth. <small>(Arc IV Part V.)</small>
-- He carries **Ebonbane**, one of the Bane swords, with Drefan bearing Silverbane. <small>(Arc V, Starfall Part III.)</small>
+- He carries **Onyxbane**, one of the Bane blades, with Drefan bearing Silverbane. <small>(Arc V, Starfall Part III, where it is called Ebonbane. Dave, sources/dave/2026-09-14-onyxbane-and-griddy.md)</small>
 - He is one of those who "went to steal the power to move the moon." <small>(Arc V, Starfall Parts I–III.)</small>
 - Reading the book at Refuge, Revan saw a vision of R'lyeh "where dead Cthulu lies dreaming", and a glimpse of the Egg sent him into "a screaming insanity that starts behind your eyes and finds its way into your belly, and out through your arms as you put a burning hole in Barold's brain and go searching for the ones who try to stop you every time." <small>(Oral Histories: Temporal Holdings, 2020-01-30)</small>
 - When the party reached St. Cloud in the time bubble, he "underestimated Revan’s loyalty". <small>(Oral Histories: Temporal Holdings, 2020-02-17)</small>
@@ -123,7 +124,7 @@ Their own dossier lists him as a threat of unknown category:
 
 ## Carls IV, and Onyxbane
 
-Revan is a descendant of the Carls — **he is Carls IV** — and he carries [Onyxbane](/items/the-bane-blades/), the drow shard of Perfect moonstone. <small>(The session text calls his blade **Ebonbane**: "Drefan & Revan — Silverbane and Ebonbane," Arc V Part III. Same blade, two names.)</small>
+Revan is a descendant of the Carls — **he is Carls IV** — and he carries [Onyxbane](/items/the-bane-blades/), the drow shard of Perfect moonstone. <small>(Also called Ebonbane: "Drefan & Revan — Silverbane and Ebonbane," Arc V Part III.)</small>
 
 ## His house, and his father
 
@@ -139,9 +140,9 @@ In the Time of Troubles Dave offered the party, once back in the "present", the 
 
 ## "It's time to come home"
 
-LaMont, who played Revan, wrote a short story about him, "…It's time to come home…". It opens in [Sigil](/places/sigil/) at night, outside a tavern, with a letter in red on something that may not have been paper. The letter carried Sable's words, "…It's time to come home…", and was signed "Your Colleague in serving the dark Lord, Champain": [Griddy Champagne](/people/griddy-champagne/), whom Revan greets as "Gritty Champain". The last time Sable had said those words, Revan came home from a self-imposed isolation to find her and everyone else in the clan slaughtered. He burned the letter with a fire bolt. His sentient shield, Ebonbane, whom he calls Onyx and who speaks to him in his mind, asked whether he would go, and Revan answered: "Yeah, Onyx. You and I are gonna go home." <small>(LaMont, "…It's time to come home…")</small>
+LaMont, who played Revan, wrote a short story about him, "…It's time to come home…". It opens in [Sigil](/places/sigil/) at night, outside a tavern, with a letter in red on something that may not have been paper. The letter carried Sable's words, "…It's time to come home…", and was signed "Your Colleague in serving the dark Lord, Champain": [Griddy Champagne](/people/griddy-champagne/), whom Revan greets as "Gritty Champain". The last time Sable had said those words, Revan came home from a self-imposed isolation to find her and everyone else in the clan slaughtered. He burned the letter with a fire bolt. His sentient shield, [Onyxbane](/items/the-bane-blades/), which he calls Onyx and who speaks to him in his mind, asked whether he would go, and Revan answered: "Yeah, Onyx. You and I are gonna go home." <small>(LaMont, "…It's time to come home…")</small>
 
-Home is the Nimbus Stronghold, a house of polished wood hundreds of years old, with shoji doors. The Company had occupied it with Warforged under an overseer; Revan killed the overseer and burned the Warforged on a pyre. [XIII](/people/xiii/), the Warforged who had given him the code to shut down "the big guy", came back to the house. The two played dragonchess, XIII staking thirteen months of servitude against Revan's lightsaber. Revan won with Ebonbane's help, released XIII from the bet, invited him to look after the house, and took him on as his attaché. Revan: "Magnus isn't gonna like this." / "Magnus doesn't like anything." <small>(LaMont, "…It's time to come home…")</small>
+Home is the Nimbus Stronghold, a house of polished wood hundreds of years old, with shoji doors. The Company had occupied it with Warforged under an overseer; Revan killed the overseer and burned the Warforged on a pyre. [XIII](/people/xiii/), the Warforged who had given him the code to shut down "the big guy", came back to the house. The two played dragonchess, XIII staking thirteen months of servitude against Revan's lightsaber. Revan won with Onyxbane's help, released XIII from the bet, invited him to look after the house, and took him on as his attaché. Revan: "Magnus isn't gonna like this." / "Magnus doesn't like anything." <small>(LaMont, "…It's time to come home…")</small>
 
 The story adds these details:
 
@@ -150,7 +151,7 @@ The story adds these details:
 - His sister taught him the forms of spear fighting.
 - He is the last of the Nimbus Tempests: "I'm the last one. So one way or the other, yeah. That's me. Really only my enemies call me that. My friends for some reason refuse to." He will not be called lord.
 - His lightsaber is the Sunsaber: a hilt that "erupts in a slender tube of...pure sunlight", lighting a room as if it were midday.
-- Ebonbane styles him "Revan, Lord of Darkcember, Proprietor of the Tiphany Estate, Master of the Nimbus Stronghold". Revan: "When I left here the first time I had no home. Now I have three".
+- Onyxbane styles him "Revan, Lord of Darkcember, Proprietor of the Tiphany Estate, Master of the Nimbus Stronghold". Revan: "When I left here the first time I had no home. Now I have three".
 
 <small>(LaMont, "…It's time to come home…")</small>
 

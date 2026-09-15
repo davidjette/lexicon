@@ -61,6 +61,7 @@ fields:
   follows: Arc V — Starfall
   leadsInto: Arc VII — Leviathan
 sources:
+- sources/dave/2026-09-14-onyxbane-and-griddy.md
 - Desktop/infantaverse-wiki/src/content/docs/events/time-of-troubles.mdx
 - Desktop/D&D/Temple Holdings LLC/6 - Time of Troubles/Time of Troubles - Part I.docx
 - Desktop/D&D/Temple Holdings LLC/6 - Time of Troubles/Time of Troubles - Part VII.docx
@@ -155,7 +156,7 @@ The stone is black, and cut from the Moon. The Company's own researchers would l
 
 ## The blades remember
 
-The **moonblades** — [Silverbane](/people/silverbane/), Ebonbane, Ironbane, Glassbane, and the lost Copperbane — wake up in this arc. Away from the Oblivia that erased this age, and almost reunited, the sibling blades begin to recover memories that, for them, are simply blank spaces in an unbroken life. Together, they report, "their memories and intellects are sharper in each others' presence."
+The **moonblades** — [Silverbane](/people/silverbane/), Onyxbane, Ironbane, Glassbane, and the lost Copperbane — wake up in this arc. Away from the Oblivia that erased this age, and almost reunited, the sibling blades begin to recover memories that, for them, are simply blank spaces in an unbroken life. Together, they report, "their memories and intellects are sharper in each others' presence."
 
 ### What Silverbane finally remembered
 
@@ -165,7 +166,7 @@ The **moonblades** — [Silverbane](/people/silverbane/), Ebonbane, Ironbane, Gl
 > \
 > And when she fell in love with another human, but this one an avatar of a Dwarven god, a genuine blasphemy. Eldamir and Calix were moments away from drowning their entire landing camp in the Sea of Swords, but Elistrae commanded them to stand down. And then she gave them the Motherstone, and there was no going back.
 
-The blades' testimony names the founding families — **Gallidan, Nimue, Atlas, Carls and Tudix** — who raised **Starfall Tower** at Izar Erori; **Peter Glans**, the philandering king who is also the copper dragon [Tylerjynex](/people/tylerjinex/), hiding the sword **Copperbane** in a block of stone just outside the [Penteract](/places/the-penteract/) (the five-dimensional ward at the heart of the City of [Dis](/places/dis/), "½ of Zoth's vessel", inside **[Despondos](/places/despondos/)**, the maze dimension in the Shadowfell that Tylerjynex also made <small>(Oral Histories: The Inevitables, 2021-08-21; 2023-12-02)</small>); and, behind it all, a **Masked Prophet** — a strange elf, undead perhaps, and extraordinarily old — who claims to have saved the elves off the Moon before the cataclysm, and who now whispers a plan to "end the rule of Gods and mankind in one fell swoop, send their souls into Oblivion… and restore the Moon." Ebonbane names the shape of that horror precisely: a Silverbane rode with him, but not *this* one — "This Silver was haggard, much older and totally jaded."
+The blades' testimony names the founding families — **Gallidan, Nimue, Atlas, Carls and Tudix** — who raised **Starfall Tower** at Izar Erori; **Peter Glans**, the philandering king who is also the copper dragon [Tylerjynex](/people/tylerjinex/), hiding the sword **Copperbane** in a block of stone just outside the [Penteract](/places/the-penteract/) (the five-dimensional ward at the heart of the City of [Dis](/places/dis/), "½ of Zoth's vessel", inside **[Despondos](/places/despondos/)**, the maze dimension in the Shadowfell that Tylerjynex also made <small>(Oral Histories: The Inevitables, 2021-08-21; 2023-12-02)</small>); and, behind it all, a **Masked Prophet** — a strange elf, undead perhaps, and extraordinarily old — who claims to have saved the elves off the Moon before the cataclysm, and who now whispers a plan to "end the rule of Gods and mankind in one fell swoop, send their souls into Oblivion… and restore the Moon." Onyxbane names the shape of that horror precisely: a Silverbane rode with him, but not *this* one — "This Silver was haggard, much older and totally jaded."
 
 ## The Chronicle, and the war to come
 

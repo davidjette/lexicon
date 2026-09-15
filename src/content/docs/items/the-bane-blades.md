@@ -41,6 +41,7 @@ fields:
   owner: The five Banefae houses; four passed to the party
   status: Awake and recovering memory
 sources:
+- sources/dave/2026-09-14-onyxbane-and-griddy.md
 - sources/documents/2026-09-14-lamont-revan-its-time-to-come-home.md
 - CANON.md 5s (the DM's account, 2026-09-10)
 - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VII.txt
@@ -170,9 +171,9 @@ The blades gain runes from their former owners: Drefan "has added three runes to
 
 The blades awakened when the party confronted Valen, Carl's Jr. and the Waning One "at the peak of Sigil" <small>(Oral Histories: Temporal Holdings, 2021-10-10)</small>. The peak of Sigil and Deadfall Peak are the same place, where [Sigil](/places/sigil/) is built in the future. <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small> After Valen's death "the Bane blades merge and evolve". <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small>
 
-<small>**Ebonbane.** The session text calls Revan's blade Ebonbane (Arc V Part III: "Drefan & Revan — Silverbane and Ebonbane"; Arc VI Part VII lists "Silverbane, Ebonbane, Ironbane, and Glassbane"). Revan's blade is **Onyxbane**. Ebonbane and Onyxbane are the same blade under two names; there is no sixth.</small>
+<small>**Onyxbane**, Revan's blade, is also called Ebonbane: "Drefan & Revan — Silverbane and Ebonbane" (Arc V Part III), and "Silverbane, Ebonbane, Ironbane, and Glassbane" (Arc VI Part VII). Onyxbane is its canonical name. <small>(Dave, sources/dave/2026-09-14-onyxbane-and-griddy.md)</small></small>
 
-In LaMont's short story "…It's time to come home…", Ebonbane is Revan's sentient bladed shield, carried on his back, "his bladed shield that seemed as if it drain light". It speaks to him in his mind, and Revan calls it Onyx. <small>(LaMont, "…It's time to come home…")</small>
+In LaMont's short story "…It's time to come home…", Onyxbane is Revan's sentient bladed shield, carried on his back, "his bladed shield that seemed as if it drain light". It speaks to him in his mind, and Revan calls it Onyx. <small>(LaMont, "…It's time to come home…")</small>
 
 ## Custody
 

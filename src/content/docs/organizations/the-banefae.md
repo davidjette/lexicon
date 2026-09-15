@@ -25,6 +25,7 @@ fields:
   members: Gallidan, Tudyx, Nimue (Vivien) of Avalon, Carls, Atlas
   status: Cast into Despondos by the Queens of Netheril; their houses endure
 sources:
+- sources/dave/2026-09-14-onyxbane-and-griddy.md
 - CANON.md 5l
 - CANON.md 5m
 - CANON.md 5p
@@ -90,7 +91,7 @@ In the deep past "Drefanmetra is saving the five Banefae and the dragons fight e
 
 When the Moon was cut off from the Earth and the Feywild and Shadowfell split away, the Banefae were exiled and became the Elves. They built **Starfall Tower** atop the Spire, forming Sigil, though St. Cloud reached the top of the spire and set up house before them. <small>([The Infanta Timeline](/lore/the-infanta-timeline/).)</small>
 
-Ebonbane's memory, given to the party in the Time of Troubles, names the families and the place. A **Masked Prophet** "led us to the Gates of Izar Erori and showed Gallidan, Nimue, Atlas, Carls, and Tudix the place to build Starfall Tower. The other families left, but the Carls stayed at Izar, and we kept the histories." <small>(Arc VI, Time of Troubles Part VII.)</small> In the Time of Troubles the era held "Sigil ruled by the Banefae". <small>(Oral Histories: Temporal Holdings, 2020-07-25)</small>
+Onyxbane's memory, given to the party in the Time of Troubles, names the families and the place. A **Masked Prophet** "led us to the Gates of Izar Erori and showed Gallidan, Nimue, Atlas, Carls, and Tudix the place to build Starfall Tower. The other families left, but the Carls stayed at Izar, and we kept the histories." <small>(Arc VI, Time of Troubles Part VII.)</small> In the Time of Troubles the era held "Sigil ruled by the Banefae". <small>(Oral Histories: Temporal Holdings, 2020-07-25)</small>
 
 ## The Bane blades
 
@@ -108,7 +109,7 @@ In Antiquity the united Banefae went for the Seat of Death:
 
 <small>— Dave. (Oral Histories: The Inevitables, 2021-08-21)</small>
 
-[Tylerjynex](/people/tylerjinex/) had built the Penteract to keep the Banefae and the Netherese from the Seat. Archmage **Valen**, brother of the Tudyx queen Alen, rode with the Waning One. Not every house followed him: "There’s another atlas here in Antiquity who refused to go along with Valen/Waning One - Atlas III", "As did Calix". <small>(Oral Histories: The Inevitables, 2021-10-09)</small> Ebonbane remembered that the prophet who guided Carls Jr to the City of Dis promised "we could end the rule of Gods and mankind in one fell swoop, send their souls into Oblivion while capturing that power for elvenkind again. And that with anout power, and with no mortal rivals, we could restore the MOON and leave the realms of dwarves and men destroyed and forgotten for eternity." <small>(Sic on "anout". Arc VI, Time of Troubles Part VII.)</small>
+[Tylerjynex](/people/tylerjinex/) had built the Penteract to keep the Banefae and the Netherese from the Seat. Archmage **Valen**, brother of the Tudyx queen Alen, rode with the Waning One. Not every house followed him: "There’s another atlas here in Antiquity who refused to go along with Valen/Waning One - Atlas III", "As did Calix". <small>(Oral Histories: The Inevitables, 2021-10-09)</small> Onyxbane remembered that the prophet who guided Carls Jr to the City of Dis promised "we could end the rule of Gods and mankind in one fell swoop, send their souls into Oblivion while capturing that power for elvenkind again. And that with anout power, and with no mortal rivals, we could restore the MOON and leave the realms of dwarves and men destroyed and forgotten for eternity." <small>(Sic on "anout". Arc VI, Time of Troubles Part VII.)</small>
 
 The Banefae also made war on Netheril. Dave: "It’s likely that Brightmantle and the Banefae who invade Netheril in your era’s past got this idea from the Netherese themselves, who in a way got it from the Cypherene Orcs". <small>(Oral Histories: The Inevitables, 2021-10-21)</small>
 
