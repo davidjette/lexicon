@@ -1,23 +1,27 @@
 ---
 title: Oshi
 description: Oceanus, called Oshi, the sea elf ranger and boatswain of the Sea Ghost, who died on 2021-11-12 and whose body the party promised to return to his people.
+tags:
+  - Oshi
+  - Oceanus
+  - Oceania
+  - Sea elf
+  - Ranger
+  - Boatswain
+  - Sea Ghost
+  - Neptune's Rejects
+  - Ghosts of Twatmarsh
+  - Saltmarsh
+  - Oerth
+  - Dunwater
+  - Lizardfolk
+  - Sahuagin
+image:
+  src: /images/uploads/oshi-saltmarsh-ghost-of-twatmarsh-campai-mu32gzrg.webp
+  alt: Oshi, a blue-skinned sea elf with a trident and a satchel, a small creature at his feet
+  caption: 'Oshi: Nico''s HeroForge miniature, "I changed our boy Oceanus aka Oshi a bit"'
 type: person
 kind: people
-tags:
-- Oshi
-- Oceanus
-- Oceania
-- Sea elf
-- Ranger
-- Boatswain
-- Sea Ghost
-- Neptune's Rejects
-- Ghosts of Twatmarsh
-- Saltmarsh
-- Oerth
-- Dunwater
-- Lizardfolk
-- Sahuagin
 icon: fa-water
 fields:
   rpgAlignment: Unknown
@@ -37,27 +41,23 @@ fields:
   weight: Unknown
   status: Dead
 sources:
-- sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- "Oral Histories: The Inevitables, 2021-09-18"
-- "Oral Histories: The Inevitables, 2021-09-19"
-- "Oral Histories: The Inevitables, 2021-10-10"
-- "Oral Histories: The Inevitables, 2021-11-13"
-- "Oral Histories: The Inevitables, 2021-11-15"
-- "Oral Histories: The Inevitables, 2021-11-19"
-- "Oral Histories: The Inevitables, 2021-12-03"
-- "Oral Histories: The Inevitables, 2021-12-26"
-- "Oral Histories: The Inevitables, 2022-02-25"
-- "Oral Histories: The Inevitables, 2022-06-22"
+  - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - 'Oral Histories: The Inevitables, 2021-09-18'
+  - 'Oral Histories: The Inevitables, 2021-09-19'
+  - 'Oral Histories: The Inevitables, 2021-10-10'
+  - 'Oral Histories: The Inevitables, 2021-11-13'
+  - 'Oral Histories: The Inevitables, 2021-11-15'
+  - 'Oral Histories: The Inevitables, 2021-11-19'
+  - 'Oral Histories: The Inevitables, 2021-12-03'
+  - 'Oral Histories: The Inevitables, 2021-12-26'
+  - 'Oral Histories: The Inevitables, 2022-02-25'
+  - 'Oral Histories: The Inevitables, 2022-06-22'
 published: '2026-09-14'
-image:
-  src: /images/chat/2021-09-19-335078318220543.webp
-  alt: "Oshi, a blue-skinned sea elf with a trident and a satchel, a small creature at his feet"
-  caption: "Oshi: Nico's HeroForge miniature, \"I changed our boy Oceanus aka Oshi a bit\""
 gallery:
-- src: /images/chat/2021-09-18-211980987660376.webp
-  alt: "Oshi, a blue-skinned sea elf with a green bow"
-  caption: "Nico's first miniature of Oshi"
+  - src: /images/chat/2021-09-18-211980987660376.webp
+    alt: Oshi, a blue-skinned sea elf with a green bow
+    caption: Nico's first miniature of Oshi
 ---
 
 **Sea elf · Ranger · Boatswain of the Sea Ghost · [Neptune's Rejects](/organizations/neptunes-rejects/) · Dead**
