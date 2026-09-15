@@ -17,7 +17,7 @@ tags:
   - Light of Xaryxis
   - The Starsong Awakens
 image:
-  src: /images/uploads/chatgpt-image-sep-15-2026-12-56-06-pm-mu33ej68.webp
+  src: /images/uploads/mordecai-onboard-the-ssj-zanzibar-light-mu33gqc6.webp
   alt: Ensign Mordecai
   caption: Illustration of a grinning red-skinned tiefling in a hood and heavy pauldron, holding a dagger.
 type: person
