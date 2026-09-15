@@ -1,44 +1,48 @@
 ---
 title: Gabriella Hellwood
 description: Gabby, Dave's pirate fighter in Ghosts of Twatmarsh, whose pact with Hafgufa made her Ladybeard of the Blackfish and the Dunwater Horror.
+tags:
+  - Gabriella Hellwood
+  - Hellwood
+  - Gabby
+  - Gabrielle Hellwood
+  - Ladybeard
+  - Captain G. Hellwood
+  - the Commodore
+  - Sir Martina Navitilovachan
+  - Blackfish
+  - Warlock Pirate of the Kraken
+  - Dunwater Horror
+  - Horror of Dunwater
+  - Hafgufa
+  - Hoff Goofa
+  - Fathomless
+  - Ghosts of Twatmarsh
+  - Sea Ghost
+  - Neptune's Rejects
+  - Hell's Belles
+  - Scrunt Pissfoot
+  - Dolores Weathervein
+  - Garbanzo
+  - White Plume Mountain
+  - Blackrazor
+  - Quart
+  - Keisha Milosh
+  - Parko
+  - Saltmarsh
+  - Oerth
+  - Temple of Neptune
+  - Jeremiah
+  - Feng Milosh
+  - Maverick
+  - FATES
+  - Dead Man's Hand
+image:
+  src: /images/uploads/gabriella-hellwood-saltmarsh-ghost-of-tw-mu30fkqd.webp
+  alt: 'Gabriella Hellwood as a pirate captain: tricorn hat, green coat, eyepatch, pistol and cutlass'
+  caption: 'Gabriella Hellwood, captain of the Sea Ghost: Dave''s HeroForge miniature, labelled "Hellwood"'
 type: person
 kind: people
-tags:
-- Gabriella Hellwood
-- Hellwood
-- Gabby
-- Gabrielle Hellwood
-- Ladybeard
-- Captain G. Hellwood
-- the Commodore
-- Sir Martina Navitilovachan
-- Blackfish
-- Warlock Pirate of the Kraken
-- Dunwater Horror
-- Horror of Dunwater
-- Hafgufa
-- Hoff Goofa
-- Fathomless
-- Ghosts of Twatmarsh
-- Sea Ghost
-- Neptune's Rejects
-- Hell's Belles
-- Scrunt Pissfoot
-- Dolores Weathervein
-- Garbanzo
-- White Plume Mountain
-- Blackrazor
-- Quart
-- Keisha Milosh
-- Parko
-- Saltmarsh
-- Oerth
-- Temple of Neptune
-- Jeremiah
-- Feng Milosh
-- Maverick
-- FATES
-- Dead Man's Hand
 icon: fa-skull-crossbones
 fields:
   rpgAlignment: Unknown
@@ -55,60 +59,56 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- "Oral Histories: The Inevitables, 2022-07-01"
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3056, IMG_3058, IMG_3059)
-- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
-- sources/dave/2026-09-14-oral-histories-cast.md
-- sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
-- CANON.md 5ac
-- "Oral Histories: The Inevitables, 2021-08-14"
-- "Oral Histories: The Inevitables, 2021-08-15"
-- "Oral Histories: The Inevitables, 2021-08-27"
-- "Oral Histories: The Inevitables, 2021-08-28"
-- "Oral Histories: The Inevitables, 2021-09-03"
-- "Oral Histories: The Inevitables, 2021-09-06"
-- "Oral Histories: The Inevitables, 2021-09-12"
-- "Oral Histories: The Inevitables, 2021-09-13"
-- "Oral Histories: The Inevitables, 2021-09-18"
-- "Oral Histories: The Inevitables, 2021-10-01"
-- "Oral Histories: The Inevitables, 2021-10-02"
-- "Oral Histories: The Inevitables, 2021-10-10"
-- "Oral Histories: The Inevitables, 2021-10-16"
-- "Oral Histories: The Inevitables, 2021-11-13"
-- "Oral Histories: The Inevitables, 2022-01-08"
-- "Oral Histories: The Inevitables, 2022-01-22"
-- "Oral Histories: The Inevitables, 2022-03-12"
-- "Oral Histories: The Inevitables, 2022-03-13"
-- "Oral Histories: The Inevitables, 2022-06-18"
-- "Oral Histories: The Inevitables, 2022-06-30"
-- "Oral Histories: The Inevitables, 2022-07-10"
-- "Oral Histories: The Inevitables, 2022-07-18"
-- "Oral Histories: The Inevitables, 2022-07-23"
-- "Oral Histories: The Inevitables, 2022-08-14"
-- "Oral Histories: The Inevitables, 2022-08-15"
-- "Oral Histories: The Inevitables, 2022-09-16"
-- "Oral Histories: The Inevitables, 2022-09-17"
-- "Oral Histories: The Inevitables, 2022-09-23"
-- "Oral Histories: The Inevitables, 2022-09-24"
-- "Oral Histories: The Inevitables, 2025-05-31"
-- "Oral Histories: The Inevitables, 2025-09-21"
-- "Oral Histories: The Inevitables, 2025-09-22"
-- "Oral Histories: The Inevitables, 2026-03-07"
+  - 'Oral Histories: The Inevitables, 2022-07-01'
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3056, IMG_3058, IMG_3059)
+  - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+  - sources/dave/2026-09-14-oral-histories-cast.md
+  - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
+  - CANON.md 5ac
+  - 'Oral Histories: The Inevitables, 2021-08-14'
+  - 'Oral Histories: The Inevitables, 2021-08-15'
+  - 'Oral Histories: The Inevitables, 2021-08-27'
+  - 'Oral Histories: The Inevitables, 2021-08-28'
+  - 'Oral Histories: The Inevitables, 2021-09-03'
+  - 'Oral Histories: The Inevitables, 2021-09-06'
+  - 'Oral Histories: The Inevitables, 2021-09-12'
+  - 'Oral Histories: The Inevitables, 2021-09-13'
+  - 'Oral Histories: The Inevitables, 2021-09-18'
+  - 'Oral Histories: The Inevitables, 2021-10-01'
+  - 'Oral Histories: The Inevitables, 2021-10-02'
+  - 'Oral Histories: The Inevitables, 2021-10-10'
+  - 'Oral Histories: The Inevitables, 2021-10-16'
+  - 'Oral Histories: The Inevitables, 2021-11-13'
+  - 'Oral Histories: The Inevitables, 2022-01-08'
+  - 'Oral Histories: The Inevitables, 2022-01-22'
+  - 'Oral Histories: The Inevitables, 2022-03-12'
+  - 'Oral Histories: The Inevitables, 2022-03-13'
+  - 'Oral Histories: The Inevitables, 2022-06-18'
+  - 'Oral Histories: The Inevitables, 2022-06-30'
+  - 'Oral Histories: The Inevitables, 2022-07-10'
+  - 'Oral Histories: The Inevitables, 2022-07-18'
+  - 'Oral Histories: The Inevitables, 2022-07-23'
+  - 'Oral Histories: The Inevitables, 2022-08-14'
+  - 'Oral Histories: The Inevitables, 2022-08-15'
+  - 'Oral Histories: The Inevitables, 2022-09-16'
+  - 'Oral Histories: The Inevitables, 2022-09-17'
+  - 'Oral Histories: The Inevitables, 2022-09-23'
+  - 'Oral Histories: The Inevitables, 2022-09-24'
+  - 'Oral Histories: The Inevitables, 2025-05-31'
+  - 'Oral Histories: The Inevitables, 2025-09-21'
+  - 'Oral Histories: The Inevitables, 2025-09-22'
+  - 'Oral Histories: The Inevitables, 2026-03-07'
 published: '2026-09-14'
-image:
-  src: /images/chat/2021-09-18-278459714094957.webp
-  alt: "Gabriella Hellwood as a pirate captain: tricorn hat, green coat, eyepatch, pistol and cutlass"
-  caption: "Gabriella Hellwood, captain of the Sea Ghost: Dave's HeroForge miniature, labelled \"Hellwood\""
 gallery:
-- src: /images/chat/2021-08-15-267834171481145.webp
-  alt: "Gabriella Hellwood in a brown cloak and blue tunic with an axe and a hook"
-  caption: "Nico's first miniature of Gabriella, made from Dave's reference picture"
-- src: /images/chat/2022-07-01-1750781908617165.webp
-  alt: "Gabriella Hellwood in half plate and red cape with a pistol and a flaming blade"
-  caption: "Commodore Hellwood: Dave's miniature, labelled \"Comm Hellwood\""
-- src: /images/chat/2022-08-14-5359469007466533.webp
-  alt: "Gabriella Hellwood with a grey beard, red cape and black greatsword, tentacles at her feet"
-  caption: "Gabriella grows out her beard: Dave's miniature from White Plume Mountain"
+  - src: /images/chat/2021-08-15-267834171481145.webp
+    alt: Gabriella Hellwood in a brown cloak and blue tunic with an axe and a hook
+    caption: Nico's first miniature of Gabriella, made from Dave's reference picture
+  - src: /images/chat/2022-07-01-1750781908617165.webp
+    alt: Gabriella Hellwood in half plate and red cape with a pistol and a flaming blade
+    caption: 'Commodore Hellwood: Dave''s miniature, labelled "Comm Hellwood"'
+  - src: /images/chat/2022-08-14-5359469007466533.webp
+    alt: Gabriella Hellwood with a grey beard, red cape and black greatsword, tentacles at her feet
+    caption: 'Gabriella grows out her beard: Dave''s miniature from White Plume Mountain'
 ---
 
 **Human · Fighter, Fathomless warlock · Captain of the Sea Ghost, later of the Blackfish · The Dunwater Horror, dying**
