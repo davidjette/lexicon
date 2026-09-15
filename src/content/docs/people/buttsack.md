@@ -1,27 +1,31 @@
 ---
 title: Buttsack
 description: A bugbear barbarian and Sergeant-at-Arms of the SSJ Zanzibar who carried Carlos Vega's bottle and later became a monk.
+tags:
+  - Buttsack
+  - Butsac
+  - Buttsac
+  - Bootysack
+  - Monksack
+  - Bugbear
+  - SSJ Zanzibar
+  - Astral Command
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - Carlos Vega
+  - Khorvaire Kestrals
+  - Professional Sportsball League
+  - Medal of Valorous Service
+  - Githzerai
+  - Elemental Chaos Plane
+  - Battle of Tannhauser Gate
+image:
+  src: /images/uploads/buttsack-onboard-the-ssj-zanzibar-light-mu364eir.webp
+  alt: Buttsack miniature
+  caption: A HeroForge miniature of a lion-like humanoid in a brown and olive uniform carrying a double-barrelled gun.
 type: person
 kind: people
-tags:
-- Buttsack
-- Butsac
-- Buttsac
-- Bootysack
-- Monksack
-- Bugbear
-- SSJ Zanzibar
-- Astral Command
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- Carlos Vega
-- Khorvaire Kestrals
-- Professional Sportsball League
-- Medal of Valorous Service
-- Githzerai
-- Elemental Chaos Plane
-- Battle of Tannhauser Gate
 fields:
   gender: Male
   species: Bugbear
@@ -30,46 +34,42 @@ fields:
   residence: A Githzerai temple in the Outer Planes (JL); a Githzerai community on the Elemental Chaos Plane (Company dossier)
   status: Alive
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_86052237.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-07-24"
-- "Oral Histories: The Inevitables, 2022-11-13"
-- "Oral Histories: The Inevitables, 2022-11-16"
-- "Oral Histories: The Inevitables, 2023-01-22"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2023-12-16"
-- "Oral Histories: The Inevitables, 2024-01-26"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-07"
-- "Oral Histories: The Inevitables, 2024-11-22"
-- "The Starsong Awakens site (JL Byrd): Company dossier"
-image:
-  src: /images/chat/2022-10-09-636097241251928.webp
-  alt: "Buttsack miniature"
-  caption: "A HeroForge miniature of a lion-like humanoid in a brown and olive uniform carrying a double-barrelled gun."
+  - Desktop/D&D/Starfall TNG/sydiot_86052237.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-07-24'
+  - 'Oral Histories: The Inevitables, 2022-11-13'
+  - 'Oral Histories: The Inevitables, 2022-11-16'
+  - 'Oral Histories: The Inevitables, 2023-01-22'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-12-16'
+  - 'Oral Histories: The Inevitables, 2024-01-26'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-07'
+  - 'Oral Histories: The Inevitables, 2024-11-22'
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
 gallery:
-- src: /images/chat/2023-05-26-956668448741629.webp
-  alt: "Buttsack in AI portrait"
-  caption: "A painted portrait of a bear-like humanoid in a green and yellow tunic holding a knife."
-- src: /images/chat/2024-07-12-507101031668050.webp
-  alt: "Buttsack monk miniature"
-  caption: "A HeroForge miniature of an old bearded bugbear monk in orange robes with a staff on his back."
-- src: /images/chat/2022-07-24-847067462933007.webp
-  alt: "Feline security officer miniature"
-  caption: "A HeroForge miniature of a lion-like humanoid in a brown and olive uniform holding a curved blade."
-- src: /images/chat/2022-10-20-495800955894703.webp
-  alt: "Buttsack option as a miniature"
-  caption: "AI-generated image of a furred, ape-faced figure in armour holding a pistol, styled as a painted miniature."
-- src: /images/chat/2022-10-20-511601944190103.webp
-  alt: "Buttsack option in comic style"
-  caption: "AI-generated comic illustration of a grey-furred creature in a black and yellow uniform."
-- src: /images/chat/2022-10-20-907143730267496.webp
-  alt: "Buttsack option as a sketch"
-  caption: "AI-generated greyscale drawing of a furred creature with pointed ears in armour."
-- src: /images/chat/2024-07-12-1145558900284603.webp
-  alt: "Buttsack as a monk"
-  caption: "A cartoon of a grey-furred, bearded creature in brown monk's robes before a round golden window."
+  - src: /images/chat/2023-05-26-956668448741629.webp
+    alt: Buttsack in AI portrait
+    caption: A painted portrait of a bear-like humanoid in a green and yellow tunic holding a knife.
+  - src: /images/chat/2024-07-12-507101031668050.webp
+    alt: Buttsack monk miniature
+    caption: A HeroForge miniature of an old bearded bugbear monk in orange robes with a staff on his back.
+  - src: /images/chat/2022-07-24-847067462933007.webp
+    alt: Feline security officer miniature
+    caption: A HeroForge miniature of a lion-like humanoid in a brown and olive uniform holding a curved blade.
+  - src: /images/chat/2022-10-20-495800955894703.webp
+    alt: Buttsack option as a miniature
+    caption: AI-generated image of a furred, ape-faced figure in armour holding a pistol, styled as a painted miniature.
+  - src: /images/chat/2022-10-20-511601944190103.webp
+    alt: Buttsack option in comic style
+    caption: AI-generated comic illustration of a grey-furred creature in a black and yellow uniform.
+  - src: /images/chat/2022-10-20-907143730267496.webp
+    alt: Buttsack option as a sketch
+    caption: AI-generated greyscale drawing of a furred creature with pointed ears in armour.
+  - src: /images/chat/2024-07-12-1145558900284603.webp
+    alt: Buttsack as a monk
+    caption: A cartoon of a grey-furred, bearded creature in brown monk's robes before a round golden window.
 ---
 
 **Bugbear · Barbarian 8 · Sergeant-at-Arms, SSJ Zanzibar · Alive**
