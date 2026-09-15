@@ -111,3 +111,5 @@ Paytra is a Battle Master fighter and a warlock of an archfey patron. She has wi
 - **Marcel Martel** and **Umwelt:** devotees of the Red Eye whom she and Kol met up with.
 
 ![Paytra - Onboard The Terrasque - The Starsong Awakens.png](/images/uploads/paytra-onboard-the-terrasque-the-starson-mu3al3tt.webp)
+
+![Paytra - Onboard The Terrasque - The Starsong Awakens.png](/images/uploads/paytra-onboard-the-terrasque-the-starson-mu3b0mmv.webp)
