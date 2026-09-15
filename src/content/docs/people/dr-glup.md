@@ -1,21 +1,23 @@
 ---
 title: Dr. Glup
 description: A plasmoid monk of the Way of Mercy and First Apothecar, the medical officer, of the SSJ Zanzibar in Light of Xaryxis.
+tags:
+  - Dr. Glup
+  - Glup
+  - Doctor Glup
+  - Plasmoid
+  - Monk
+  - Way of Mercy
+  - First Apothecar
+  - SSJ Zanzibar
+  - Astral Command
+  - Starfall
+  - Light of Xaryxis
+  - Ooze of Zivilyn
+image:
+  src: /images/uploads/dr-glup-onboard-the-ssj-zanzibar-light-o-mu37no8e.webp
 type: person
 kind: people
-tags:
-- Dr. Glup
-- Glup
-- Doctor Glup
-- Plasmoid
-- Monk
-- Way of Mercy
-- First Apothecar
-- SSJ Zanzibar
-- Astral Command
-- Starfall
-- Light of Xaryxis
-- Ooze of Zivilyn
 fields:
   gender: Unknown
   species: Plasmoid
@@ -23,19 +25,19 @@ fields:
   rpgAlignment: Lawful Neutral
   status: Unknown
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_81229398.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-10-09"
-- "Oral Histories: The Inevitables, 2022-10-23"
-- "Oral Histories: The Inevitables, 2022-11-16"
-- "Oral Histories: The Inevitables, 2022-11-19"
-- "Oral Histories: The Inevitables, 2022-11-26"
-- "Oral Histories: The Inevitables, 2022-11-28"
-- "Oral Histories: The Inevitables, 2023-01-27"
+  - Desktop/D&D/Starfall TNG/sydiot_81229398.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2022-10-23'
+  - 'Oral Histories: The Inevitables, 2022-11-16'
+  - 'Oral Histories: The Inevitables, 2022-11-19'
+  - 'Oral Histories: The Inevitables, 2022-11-26'
+  - 'Oral Histories: The Inevitables, 2022-11-28'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
 gallery:
-- src: /images/chat/2022-10-18-671670044230346.webp
-  alt: "Why Dr. Glup joined Astral Command"
-  caption: "A questionnaire answer telling how Astral Command recovered Dr. Glup from the windshield of the SSJ Holden Tudix and made him a medical officer."
+  - src: /images/chat/2022-10-18-671670044230346.webp
+    alt: Why Dr. Glup joined Astral Command
+    caption: A questionnaire answer telling how Astral Command recovered Dr. Glup from the windshield of the SSJ Holden Tudix and made him a medical officer.
 ---
 
 **Plasmoid · Monk 10 · First Apothecar, SSJ Zanzibar · Status unknown**
