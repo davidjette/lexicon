@@ -1,32 +1,36 @@
 ---
 title: Dolores Weathervein
 description: Nico's aasimar priestess of Neptune in Ghosts of Twatmarsh, heir of the Weathervein line, who recovered the sword Weathervein; later High Priestess, now dead.
+tags:
+  - Dolores Weathervein
+  - Delores Weathervien
+  - Dolores
+  - Delores
+  - Talia Weathervien
+  - Thalia
+  - Sister Dolores
+  - Lady of Tears
+  - High Priestess Dolores Weathervein
+  - Weathervein
+  - Weathervien
+  - Neptune
+  - Temple of Neptune
+  - Velkstaad
+  - Icy Sea
+  - aasimar
+  - hexblade
+  - Ring of Shooting Stars
+  - Vivica Amphibiana Weathervein
+  - Neptune's Rejects
+  - Ghosts of Twatmarsh
+  - Saltmarsh
+  - Dead Man's Hand
+image:
+  src: /images/uploads/dolores-weathervein-saltmarsh-ghost-of-t-mu2zuc6a.webp
+  alt: 'Dolores Weathervein: white hair, blue eye paint, blue coat and black dress, holding a sword and a blue crystal'
+  caption: 'Dolores Weathervein with a sword and a blue crystal: Nico''s HeroForge miniature'
 type: person
 kind: people
-tags:
-- Dolores Weathervein
-- Delores Weathervien
-- Dolores
-- Delores
-- Talia Weathervien
-- Thalia
-- Sister Dolores
-- Lady of Tears
-- High Priestess Dolores Weathervein
-- Weathervein
-- Weathervien
-- Neptune
-- Temple of Neptune
-- Velkstaad
-- Icy Sea
-- aasimar
-- hexblade
-- Ring of Shooting Stars
-- Vivica Amphibiana Weathervein
-- Neptune's Rejects
-- Ghosts of Twatmarsh
-- Saltmarsh
-- Dead Man's Hand
 icon: fa-cloud-bolt
 fields:
   species: Aasimar
@@ -41,59 +45,55 @@ fields:
   eyes: Icy blue-grey
   hair: White
   skin: Pale
-  height: "6'0\""
+  height: 6'0"
   weight: 180 lb
   status: Dead; her tomb lies beneath the sea off Saltmarsh
 sources:
-- sources/documents/2026-09-14-dolores-weathervein-concept.md
-- sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3056)
-- sources/dave/2026-09-14-dead-mans-hand-names.md
-- "Oral Histories: The Inevitables, 2021-08-15"
-- "Oral Histories: The Inevitables, 2021-09-01"
-- "Oral Histories: The Inevitables, 2021-09-09"
-- "Oral Histories: The Inevitables, 2021-09-17"
-- "Oral Histories: The Inevitables, 2021-09-18"
-- "Oral Histories: The Inevitables, 2021-09-19"
-- "Oral Histories: The Inevitables, 2021-09-25"
-- "Oral Histories: The Inevitables, 2021-10-16"
-- "Oral Histories: The Inevitables, 2021-10-17"
-- "Oral Histories: The Inevitables, 2021-11-06"
-- "Oral Histories: The Inevitables, 2021-11-12"
-- "Oral Histories: The Inevitables, 2021-11-13"
-- "Oral Histories: The Inevitables, 2021-11-15"
-- "Oral Histories: The Inevitables, 2021-11-20"
-- "Oral Histories: The Inevitables, 2021-12-03"
-- "Oral Histories: The Inevitables, 2021-12-17"
-- "Oral Histories: The Inevitables, 2021-12-18"
-- "Oral Histories: The Inevitables, 2021-12-24"
-- "Oral Histories: The Inevitables, 2021-12-26"
-- "Oral Histories: The Inevitables, 2022-01-07"
-- "Oral Histories: The Inevitables, 2022-01-08"
-- "Oral Histories: The Inevitables, 2022-03-12"
-- "Oral Histories: The Inevitables, 2022-07-12"
-- "Oral Histories: The Inevitables, 2022-08-14"
-- "Oral Histories: The Inevitables, 2022-08-19"
-- "Oral Histories: The Inevitables, 2022-09-16"
-- "Oral Histories: The Inevitables, 2025-05-31"
-- "Oral Histories: The Inevitables, 2025-09-22"
-- "Oral Histories: The Inevitables, 2026-03-07"
-- "Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)"
+  - sources/documents/2026-09-14-dolores-weathervein-concept.md
+  - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3056)
+  - sources/dave/2026-09-14-dead-mans-hand-names.md
+  - 'Oral Histories: The Inevitables, 2021-08-15'
+  - 'Oral Histories: The Inevitables, 2021-09-01'
+  - 'Oral Histories: The Inevitables, 2021-09-09'
+  - 'Oral Histories: The Inevitables, 2021-09-17'
+  - 'Oral Histories: The Inevitables, 2021-09-18'
+  - 'Oral Histories: The Inevitables, 2021-09-19'
+  - 'Oral Histories: The Inevitables, 2021-09-25'
+  - 'Oral Histories: The Inevitables, 2021-10-16'
+  - 'Oral Histories: The Inevitables, 2021-10-17'
+  - 'Oral Histories: The Inevitables, 2021-11-06'
+  - 'Oral Histories: The Inevitables, 2021-11-12'
+  - 'Oral Histories: The Inevitables, 2021-11-13'
+  - 'Oral Histories: The Inevitables, 2021-11-15'
+  - 'Oral Histories: The Inevitables, 2021-11-20'
+  - 'Oral Histories: The Inevitables, 2021-12-03'
+  - 'Oral Histories: The Inevitables, 2021-12-17'
+  - 'Oral Histories: The Inevitables, 2021-12-18'
+  - 'Oral Histories: The Inevitables, 2021-12-24'
+  - 'Oral Histories: The Inevitables, 2021-12-26'
+  - 'Oral Histories: The Inevitables, 2022-01-07'
+  - 'Oral Histories: The Inevitables, 2022-01-08'
+  - 'Oral Histories: The Inevitables, 2022-03-12'
+  - 'Oral Histories: The Inevitables, 2022-07-12'
+  - 'Oral Histories: The Inevitables, 2022-08-14'
+  - 'Oral Histories: The Inevitables, 2022-08-19'
+  - 'Oral Histories: The Inevitables, 2022-09-16'
+  - 'Oral Histories: The Inevitables, 2025-05-31'
+  - 'Oral Histories: The Inevitables, 2025-09-22'
+  - 'Oral Histories: The Inevitables, 2026-03-07'
+  - 'Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)'
 published: '2026-09-14'
-image:
-  src: /images/chat/2021-09-18-3047493555573368.webp
-  alt: "Dolores Weathervein: white hair, blue eye paint, blue coat and black dress, holding a sword and a blue crystal"
-  caption: "Dolores Weathervein with a sword and a blue crystal: Nico's HeroForge miniature"
 gallery:
-- src: /images/chat/2021-08-15-203216015183564.webp
-  alt: "Dolores Weathervein with a crystal-topped staff and a blue crystal in her hand"
-  caption: "Nico's first miniature of Dolores"
-- src: /images/chat/2021-09-17-258324279495632.webp
-  alt: "Dolores Weathervein with great grey wings, a sword and a blue crystal"
-  caption: "Dolores with the wings of the Weathervein angels: Nico's miniature"
-- src: /images/chat/2022-07-12-1494504800985753.webp
-  alt: "Dolores Weathervein as a mermaid with a trident and a blue crystal"
-  caption: "Sea form Dolores: Nico's miniature"
+  - src: /images/chat/2021-08-15-203216015183564.webp
+    alt: Dolores Weathervein with a crystal-topped staff and a blue crystal in her hand
+    caption: Nico's first miniature of Dolores
+  - src: /images/chat/2021-09-17-258324279495632.webp
+    alt: Dolores Weathervein with great grey wings, a sword and a blue crystal
+    caption: 'Dolores with the wings of the Weathervein angels: Nico''s miniature'
+  - src: /images/chat/2022-07-12-1494504800985753.webp
+    alt: Dolores Weathervein as a mermaid with a trident and a blue crystal
+    caption: 'Sea form Dolores: Nico''s miniature'
 ---
 
 **Aasimar · Cleric, sorcerer and hexblade of Weathervein · Priestess of Neptune · Neptune's Rejects · Dead**
