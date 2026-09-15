@@ -1,22 +1,22 @@
 ---
 title: Brother Guido Meatball
 description: A celestial warlock devoted to a mysterious holy book, run by Dave as a healer ally of Neptune's Rejects, whom the book bound to serve Dolores.
+tags:
+  - Brother Guido Meatball
+  - Meatball
+  - Guido Meatball
+  - brother francesco meatbaldi
+  - Celestial warlock
+  - the book
+  - Atlas of Endless Horizons
+  - Abbey Isle
+  - Saltmarsh
+  - Oerth
+  - Ghosts of Twatmarsh
+  - Neptune's Rejects
+  - Dolores Weathervein
 type: person
 kind: people
-tags:
-- Brother Guido Meatball
-- Meatball
-- Guido Meatball
-- brother francesco meatbaldi
-- Celestial warlock
-- the book
-- Atlas of Endless Horizons
-- Abbey Isle
-- Saltmarsh
-- Oerth
-- Ghosts of Twatmarsh
-- Neptune's Rejects
-- Dolores Weathervein
 icon: fa-book-bible
 fields:
   rpgAlignment: Unknown
@@ -36,20 +36,20 @@ fields:
   weight: Unknown
   status: Unknown
 sources:
-- sources/dave/2026-09-14-twatmarsh-open-questions.md
-- "Oral Histories: The Inevitables, 2021-11-28"
-- "Oral Histories: The Inevitables, 2021-12-03"
-- "Oral Histories: The Inevitables, 2021-12-12"
-- "Oral Histories: The Inevitables, 2021-12-15"
-- "Oral Histories: The Inevitables, 2021-12-17"
-- "Oral Histories: The Inevitables, 2021-12-18"
-- "Oral Histories: The Inevitables, 2021-12-22"
-- "Oral Histories: The Inevitables, 2021-12-26"
-- "Oral Histories: The Inevitables, 2022-03-13"
-- "Oral Histories: The Inevitables, 2022-04-23"
-- "Oral Histories: The Inevitables, 2022-06-30"
-- "Oral Histories: The Inevitables, 2022-07-10"
-- "Oral Histories: The Inevitables, 2025-07-18"
+  - sources/dave/2026-09-14-twatmarsh-open-questions.md
+  - 'Oral Histories: The Inevitables, 2021-11-28'
+  - 'Oral Histories: The Inevitables, 2021-12-03'
+  - 'Oral Histories: The Inevitables, 2021-12-12'
+  - 'Oral Histories: The Inevitables, 2021-12-15'
+  - 'Oral Histories: The Inevitables, 2021-12-17'
+  - 'Oral Histories: The Inevitables, 2021-12-18'
+  - 'Oral Histories: The Inevitables, 2021-12-22'
+  - 'Oral Histories: The Inevitables, 2021-12-26'
+  - 'Oral Histories: The Inevitables, 2022-03-13'
+  - 'Oral Histories: The Inevitables, 2022-04-23'
+  - 'Oral Histories: The Inevitables, 2022-06-30'
+  - 'Oral Histories: The Inevitables, 2022-07-10'
+  - 'Oral Histories: The Inevitables, 2025-07-18'
 published: '2026-09-14'
 ---
 
