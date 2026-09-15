@@ -1,21 +1,25 @@
 ---
 title: Forbes of-the-Smelly-Swamp
 description: A firbolg ranger and beast master, the exozoologist of the SSJ Zanzibar's science staff in Light of Xaryxis.
+tags:
+  - Forbes of-the-Smelly-Swamp
+  - Forbes
+  - Ensign Forbes
+  - Firbolg
+  - Ranger
+  - Beast Master
+  - Exozoologist
+  - SSJ Zanzibar
+  - Astral Command
+  - Starfall
+  - Light of Xaryxis
+  - Below Decks
+image:
+  src: /images/uploads/forbes-of-the-smelly-swamp-onboard-the-s-mu36ifyw.webp
+  alt: Forbes with a fox companion
+  caption: Hero Forge miniature of a man with a mohawk in a fur-collared coat raising one hand, with a green fox at his feet.
 type: person
 kind: people
-tags:
-- Forbes of-the-Smelly-Swamp
-- Forbes
-- Ensign Forbes
-- Firbolg
-- Ranger
-- Beast Master
-- Exozoologist
-- SSJ Zanzibar
-- Astral Command
-- Starfall
-- Light of Xaryxis
-- Below Decks
 fields:
   gender: Male
   species: Firbolg
@@ -23,24 +27,20 @@ fields:
   rpgAlignment: Neutral Good
   status: Unknown
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_85076692.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2022-10-18"
-- "Oral Histories: The Inevitables, 2022-11-26"
-- "Oral Histories: The Inevitables, 2022-11-27"
-- "Oral Histories: The Inevitables, 2022-12-07"
-- "Oral Histories: The Inevitables, 2022-12-08"
-- "Oral Histories: The Inevitables, 2022-12-09"
-- "Oral Histories: The Inevitables, 2022-12-10"
-- "Oral Histories: The Inevitables, 2023-01-27"
-image:
-  src: /images/chat/2022-12-09-1201519667107469.webp
-  alt: "Forbes with a fox companion"
-  caption: "Hero Forge miniature of a man with a mohawk in a fur-collared coat raising one hand, with a green fox at his feet."
+  - Desktop/D&D/Starfall TNG/sydiot_85076692.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2022-10-18'
+  - 'Oral Histories: The Inevitables, 2022-11-26'
+  - 'Oral Histories: The Inevitables, 2022-11-27'
+  - 'Oral Histories: The Inevitables, 2022-12-07'
+  - 'Oral Histories: The Inevitables, 2022-12-08'
+  - 'Oral Histories: The Inevitables, 2022-12-09'
+  - 'Oral Histories: The Inevitables, 2022-12-10'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
 gallery:
-- src: /images/chat/2022-12-08-1087973491874723.webp
-  alt: "Forbes miniature with a spear"
-  caption: "Hero Forge miniature of a man with a mohawk in a fur-collared coat, lunging with a spear beside a small yellow animal."
+  - src: /images/chat/2022-12-08-1087973491874723.webp
+    alt: Forbes miniature with a spear
+    caption: Hero Forge miniature of a man with a mohawk in a fur-collared coat, lunging with a spear beside a small yellow animal.
 ---
 
 **Firbolg · Ranger 4 · Exozoologist, SSJ Zanzibar · Status unknown**
