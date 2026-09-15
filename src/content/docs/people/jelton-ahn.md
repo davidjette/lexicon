@@ -1,20 +1,22 @@
 ---
 title: Jelton Ahn
 description: Leonin scholar and Master Armhair's self-appointed protector, who paid for a cursed crown with a scroll of true resurrection.
+tags:
+  - Jelton Ahn
+  - Jelton
+  - Leonin
+  - Hall of Records
+  - Korth
+  - Master Armhair
+  - Crown of Seven Stars
+  - true resurrection
+  - Kabara
+  - forged passports
+  - Sky Rizzy
+image:
+  src: /images/uploads/jelton-ahn-mu327gz1.webp
 type: person
 kind: people
-tags:
-- Jelton Ahn
-- Jelton
-- Leonin
-- Hall of Records
-- Korth
-- Master Armhair
-- Crown of Seven Stars
-- true resurrection
-- Kabara
-- forged passports
-- Sky Rizzy
 icon: fa-cat
 fields:
   rpgAlignment: Unknown
@@ -31,18 +33,18 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/npcs-korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
 published: '2026-09-10'
 wa:
   slug: jelton-ahn-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-- src: /images/gallery/2026-09-07-06.webp
-  alt: The midnight meeting with Armhair and Jelton Ahn
-  caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
+  - src: /images/gallery/2026-09-07-06.webp
+    alt: The midnight meeting with Armhair and Jelton Ahn
+    caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
 ---
 
 **Leonin · Scholar and historian · Self-appointed protector of [Master Armhair](/people/master-armhair/) · Alive, leaving Korth**
