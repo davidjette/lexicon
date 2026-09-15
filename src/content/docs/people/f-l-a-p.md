@@ -1,53 +1,53 @@
 ---
 title: F.L.A.P.
 description: An autognome artificer and the built-in robot autopilot of the SSJ Zanzibar, which came with the ship.
+tags:
+  - F.L.A.P.
+  - FLAP
+  - Flap
+  - Fully Lingual Automatic Pilot
+  - Fully Linguistic Autonomous Pilot
+  - Autognome
+  - Autopilot
+  - Droid
+  - SSJ Zanzibar
+  - Starfall
+  - Light of Xaryxis
+image:
+  src: /images/uploads/f-l-a-p-onboard-the-ssj-zanzibar-light-o-mu36lt7u.webp
+  alt: F.L.A.P. miniature
+  caption: A HeroForge miniature of a copper-coloured robot seated on a hex base with a helm device between its legs.
 type: person
 kind: people
-tags:
-- F.L.A.P.
-- FLAP
-- Flap
-- Fully Lingual Automatic Pilot
-- Fully Linguistic Autonomous Pilot
-- Autognome
-- Autopilot
-- Droid
-- SSJ Zanzibar
-- Starfall
-- Light of Xaryxis
 fields:
   gender: Male
   species: Autognome
   ggmtitle: Autopilot of the SSJ Zanzibar
   status: Unknown
 sources:
-- "Oral Histories: The Inevitables, 2022-08-29"
-- "Oral Histories: The Inevitables, 2022-09-26"
-- "Oral Histories: The Inevitables, 2022-10-09"
-- "Oral Histories: The Inevitables, 2022-10-11"
-- "Oral Histories: The Inevitables, 2022-10-19"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-image:
-  src: /images/chat/2022-08-29-5743161529050996.webp
-  alt: "F.L.A.P. miniature"
-  caption: "A HeroForge miniature of a copper-coloured robot seated on a hex base with a helm device between its legs."
+  - 'Oral Histories: The Inevitables, 2022-08-29'
+  - 'Oral Histories: The Inevitables, 2022-09-26'
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2022-10-11'
+  - 'Oral Histories: The Inevitables, 2022-10-19'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
 gallery:
-- src: /images/chat/2022-07-24-766221108028806.webp
-  alt: "Barrias, Hyperion and F.L.A.P. line-up"
-  caption: "HeroForge miniatures of the armoured dwarf Barrias, a bugbear security chief with a rotary gun, the kneeling Hyperion Titara and the seated robot F.L.A.P."
-- src: /images/chat/2022-10-20-690748958724785.webp
-  alt: "F.L.A.P. concept, painted robot head"
-  caption: "An AI illustration of a white and red robot head with a single lens eye and headphones."
-- src: /images/chat/2022-10-20-5539330462851294.webp
-  alt: "F.L.A.P. concept, rusted robot"
-  caption: "An AI image of a squat rusted orange robot with round eyes and a green display."
-- src: /images/chat/2022-10-20-491888819541870.webp
-  alt: "F.L.A.P. concept, visored robot"
-  caption: "An AI image of a battered metal robot head with a goggle visor against an orange wall."
-- src: /images/chat/2022-10-20-503521025000502.webp
-  alt: "F.L.A.P. concept, robot in a corridor"
-  caption: "An AI painting of a red-helmeted robot standing in a dim corridor lit by a yellow lamp."
+  - src: /images/chat/2022-07-24-766221108028806.webp
+    alt: Barrias, Hyperion and F.L.A.P. line-up
+    caption: HeroForge miniatures of the armoured dwarf Barrias, a bugbear security chief with a rotary gun, the kneeling Hyperion Titara and the seated robot F.L.A.P.
+  - src: /images/chat/2022-10-20-690748958724785.webp
+    alt: F.L.A.P. concept, painted robot head
+    caption: An AI illustration of a white and red robot head with a single lens eye and headphones.
+  - src: /images/chat/2022-10-20-5539330462851294.webp
+    alt: F.L.A.P. concept, rusted robot
+    caption: An AI image of a squat rusted orange robot with round eyes and a green display.
+  - src: /images/chat/2022-10-20-491888819541870.webp
+    alt: F.L.A.P. concept, visored robot
+    caption: An AI image of a battered metal robot head with a goggle visor against an orange wall.
+  - src: /images/chat/2022-10-20-503521025000502.webp
+    alt: F.L.A.P. concept, robot in a corridor
+    caption: An AI painting of a red-helmeted robot standing in a dim corridor lit by a yellow lamp.
 ---
 
 **Autognome · Artificer 1 · Autopilot, SSJ Zanzibar · Status unknown**
