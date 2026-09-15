@@ -2,20 +2,20 @@
 title: Berenstain
 description: Blair's bear-man husband, who dug open the tunnel to the trapped Cogborn and holds the Underhive's seat on the Council of Sharn.
 tags:
-- Berenstain
-- Underhive
-- Blair
-- Queen B
-- Council of Sharn
-- Drones
-- Cogborn
-- The Spine
-- Move Earth
-- Sharn
-- Department of Infrastructure
-- Ziggurat
+  - Berenstain
+  - Underhive
+  - Blair
+  - Queen B
+  - Council of Sharn
+  - Drones
+  - Cogborn
+  - The Spine
+  - Move Earth
+  - Sharn
+  - Department of Infrastructure
+  - Ziggurat
 image:
-  src: /images/uploads/berenstain-and-blair-mu0fuywe.webp
+  src: /images/uploads/berenstain-in-the-uderhive-mu2hqhoz.webp
 type: person
 kind: people
 icon: fa-paw
@@ -34,20 +34,20 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/key-figures.txt
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/key-figures.txt
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: berenstain-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-- src: /images/gallery/2026-03-29-08.webp
-  alt: Clearing the collapsed tunnel
-  caption: Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel, Doppler cutting stone with a blue beam and Snodgrass hauling a boulder, to reach the trapped Cogborn.
-- src: /images/gallery/2026-03-29-07.webp
-  alt: Berenstain
-  caption: 'A hooded bear-man in a dark cloak and layered necklaces, on a plain white background: Blair''s husband Berenstain.'
+  - src: /images/gallery/2026-03-29-08.webp
+    alt: Clearing the collapsed tunnel
+    caption: Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel, Doppler cutting stone with a blue beam and Snodgrass hauling a boulder, to reach the trapped Cogborn.
+  - src: /images/gallery/2026-03-29-07.webp
+    alt: Berenstain
+    caption: 'A hooded bear-man in a dark cloak and layered necklaces, on a plain white background: Blair''s husband Berenstain.'
 ---
 
 **Bear-man · Husband of Queen B · Underhive seat on the Council of Sharn · Alive**
