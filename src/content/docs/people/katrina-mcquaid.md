@@ -20,7 +20,7 @@ tags:
   - The Starsong Awakens
   - Katrina McQuaid Memorial Prison
 image:
-  src: /images/uploads/katrina-mcquaid-mu32rfwe.webp
+  src: /images/uploads/katrina-mcquaid-onboard-the-ssj-zanzibar-mu33h9f5.webp
   alt: Captain Katrina McQuaid
   caption: A 3D miniature render of a white-furred feline woman in a red, blue and white uniform with a silver breastplate, holding two golden blades.
 type: person
