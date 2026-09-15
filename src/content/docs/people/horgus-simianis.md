@@ -1,53 +1,53 @@
 ---
 title: Horgus Simianis
 description: A monkey necromancer, brain surgeon and quantum biologist of Astral Command, Katrina McQuaid's partner in the secret program behind the Demoncore.
+tags:
+  - Horgus Simianis
+  - Horgus
+  - Ensign Horgus
+  - Horg
+  - Katrina McQuaid
+  - OSR3G
+  - grey cloaks
+  - Demoncore
+  - Beholder War
+  - Negroni Prime
+  - Astral Command
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - Horgus Simiani
+  - hadozee
+  - Wand of Horgus Hairs
+  - Battle of Tannhauser Gate
+image:
+  src: /images/uploads/horgus-simianis-light-of-xaryxis-starfal-mu37v6mk.webp
+  alt: Horgus Simianis
+  caption: An image of an elderly white-haired monkey wearing round glasses and a white lab coat.
 type: person
 kind: people
-tags:
-- Horgus Simianis
-- Horgus
-- Ensign Horgus
-- Horg
-- Katrina McQuaid
-- OSR3G
-- grey cloaks
-- Demoncore
-- Beholder War
-- Negroni Prime
-- Astral Command
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- Horgus Simiani
-- hadozee
-- Wand of Horgus Hairs
-- Battle of Tannhauser Gate
 fields:
   gender: Male
   species: Monkey; hadozee (The Starsong Awakens site)
   ggmtitle: Ensign; brain surgeon and quantum biologist
   status: Dead
 sources:
-- "Oral Histories: The Inevitables, 2023-03-31"
-- "Oral Histories: The Inevitables, 2023-04-01"
-- "Oral Histories: The Inevitables, 2023-04-04"
-- "Oral Histories: The Inevitables, 2023-04-07"
-- "Oral Histories: The Inevitables, 2023-04-08"
-- "Oral Histories: The Inevitables, 2023-04-22"
-- "Oral Histories: The Inevitables, 2023-04-29"
-- "Oral Histories: The Inevitables, 2024-02-24"
-- "Oral Histories: The Inevitables, 2024-03-09"
-- "Oral Histories: The Inevitables, 2024-03-16"
-- "Oral Histories: The Inevitables, 2024-05-31"
-- "The Starsong Awakens site (JL Byrd): New magic items"
-image:
-  src: /images/chat/2023-04-01-894085841677417.webp
-  alt: "Horgus Simianis"
-  caption: "An image of an elderly white-haired monkey wearing round glasses and a white lab coat."
+  - 'Oral Histories: The Inevitables, 2023-03-31'
+  - 'Oral Histories: The Inevitables, 2023-04-01'
+  - 'Oral Histories: The Inevitables, 2023-04-04'
+  - 'Oral Histories: The Inevitables, 2023-04-07'
+  - 'Oral Histories: The Inevitables, 2023-04-08'
+  - 'Oral Histories: The Inevitables, 2023-04-22'
+  - 'Oral Histories: The Inevitables, 2023-04-29'
+  - 'Oral Histories: The Inevitables, 2024-02-24'
+  - 'Oral Histories: The Inevitables, 2024-03-09'
+  - 'Oral Histories: The Inevitables, 2024-03-16'
+  - 'Oral Histories: The Inevitables, 2024-05-31'
+  - 'The Starsong Awakens site (JL Byrd): New magic items'
 gallery:
-- src: /images/chat/2024-05-03-1099651471068892.webp
-  alt: "Robed simian sorcerer"
-  caption: "A monkey in dark robes and a tall hood casts magic in front of a swirling galaxy among floating wreckage."
+  - src: /images/chat/2024-05-03-1099651471068892.webp
+    alt: Robed simian sorcerer
+    caption: A monkey in dark robes and a tall hood casts magic in front of a swirling galaxy among floating wreckage.
 ---
 
 **Monkey · Necromancer · Science department, Astral Command · Dead**
