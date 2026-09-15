@@ -56,7 +56,7 @@ The setting contains an actual machine, the [Obliviator](/items/the-obliviator/)
 
 ## The four canon campaigns
 
-- [**Temple Holdings LLC**](/lore/temple-holdings-llc/) — the founding chronicle, in eight arcs, 1481–1492 DR. Shipwreck to the death of a god. In 2019 Dave planned it in six arcs, "4/6 of the way through" after the fourth <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>; "it went longer than I expected." <small>(Dave, 2026-09-14)</small>
+- [**Temple Holdings LLC**](/lore/temple-holdings-llc/) — the founding chronicle, in eight arcs, 1481–1492 DR. Shipwreck to the death of a god. In 2019 Dave planned it in six arcs, "4/6 of the way through" after the fourth <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>; "it went longer than I expected." <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 - [**Dead Man's Hand**](/lore/dead-mans-hand/) — five hundred years after the Ages of the Infanta: strangers wake in Sigil's Mortuary, murdered and marked, and go after the cards.
 - [**Starfall: The Next Generation**](/lore/starfall-the-next-generation/) — canon; record not yet recovered.
 - [**Arcaneum**](/lore/arcaneum-campaign/) — canon; record not yet recovered.

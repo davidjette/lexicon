@@ -26,6 +26,7 @@ fields:
   ggmtitle: Alchemist
   status: Dead; his corpse was never raised
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions.md
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - "Oral Histories: The Inevitables, 2021-09-12"
 - "Oral Histories: The Inevitables, 2021-09-13"

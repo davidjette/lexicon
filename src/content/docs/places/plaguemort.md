@@ -57,7 +57,7 @@ In Plaguemort Heyu ran a business for petitioner souls. Dave:
 
 > She came to Sigil because the soul of Feng Milosh crossed the outlands to Plaguemort, and she ran a business for petitioner souls to give her their last coins to deliver messages or uncover truths about their deaths, like a private eye, and then she felt the divine will of Cypher telling her to go to Sigil and help this man.
 
-<small>(Dave, 2026-09-14)</small>
+<small>(Dave, sources/dave/2026-09-14-heyu-and-feng.md)</small>
 
 Feng Milosh, a spirit and petitioner, had worshipped Cypher but was headed to the Abyss for his acts in life. He hired Heyu to recover an heirloom from his corpse in [the Mortuary](/places/the-mortuary/) of Sigil and return it to his daughter, [Keisha Milosh](/people/keisha-milosh/). <small>(DM notes)</small> The heirloom was the **FATES** card of [the Deck of Many Things](/items/the-deck-of-many-things/). <small>(Dave)</small> Heyu travelled to Sigil through a portal known to a Cypherian monk in a distant town, borrowing the gold to use it, and the journey took a month. <small>(DM notes)</small>
 

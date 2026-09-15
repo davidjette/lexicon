@@ -147,11 +147,11 @@ In December 2024 Barrias acquired a new weapon. <small>(Oral Histories: The Inev
 
 By May 2025 Barrias and Se7en were in the Sphinx Tomb with Nine, going through its time doors, with the ship *Pussyfoot* parked outside. Through the doors they saw earlier events: Dave recalled the last door as a visit to the Five Zanzibars, and Se7en's player recalled it as the final fight on the Zanzibar. <small>(Oral Histories: The Inevitables, 2025-05-23)</small> Dave, as a player, described the arc as centred on Nine, who set out to fix everything bad that happened after Tannhauser Gate, and on his father and brother eventually bringing him home. <small>(Oral Histories: The Inevitables, 2025-04-06)</small>
 
-The climax of Starfall came at [Necis](/places/necis/), at the end of both *Light of Xaryxis* and *The Starsong Awakens*. <small>(Dave, 2026-09-14)</small>
+The climax of Starfall came at [Necis](/places/necis/), at the end of both *Light of Xaryxis* and *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
 
 ### The Red Eye
 
-"Red-Eye", also "Red Eye", is the nom de guerre used by the robot resistance in *The Starsong Awakens*. <small>(Dave, 2026-09-14)</small> Four sites on Selune are holy to [the children of the Red Eye](/organizations/the-children-of-the-red-eye/). The party were told: "Make the pilgrimage, follow his righteous path, to save your mayor’s life." <small>(Oral Histories: The Inevitables, 2024-08-16)</small> When the dead Bureau agents [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/) were rebuilt as robots, JL called their mission a success, since they had found the Red Eye. <small>(Oral Histories: The Inevitables, 2024-11-10)</small>
+"Red-Eye", also "Red Eye", is the nom de guerre used by the robot resistance in *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small> Four sites on Selune are holy to [the children of the Red Eye](/organizations/the-children-of-the-red-eye/). The party were told: "Make the pilgrimage, follow his righteous path, to save your mayor’s life." <small>(Oral Histories: The Inevitables, 2024-08-16)</small> When the dead Bureau agents [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/) were rebuilt as robots, JL called their mission a success, since they had found the Red Eye. <small>(Oral Histories: The Inevitables, 2024-11-10)</small>
 
 In battle Barrias's helmet flips up and his suit grows, moving fast and firing blasts, until he looks like a flying robot tank. Dave, as a player, took this to be why the Bureau suspects that Red Eye is a construct. <small>(Oral Histories: The Inevitables, 2024-07-12)</small>
 

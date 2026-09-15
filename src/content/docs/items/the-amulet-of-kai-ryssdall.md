@@ -46,7 +46,7 @@ published: '2026-09-14'
 
 ## St. Cloud's plan
 
-Dave's description of the Amulet: "a gem big enough to cast Greater Gate", and "a key part of his plan to summon Asmodeus into the heart of Waterdeep". <small>(Dave, 2026-09-14)</small>
+Dave's description of the Amulet: "a gem big enough to cast Greater Gate", and "a key part of his plan to summon Asmodeus into the heart of Waterdeep". <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 The Amulet is "the largest emerald in the world". <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> After the heist Dave wrote: "It's reportedly the largest emerald in the world". <small>(Oral Histories: Temporal Holdings, 2019-04-20)</small>
 
@@ -58,9 +58,9 @@ Dave on what the trade bought: "you traded it for info on how to break into Cast
 
 ## The heist
 
-The party went to an auction because they heard that something St. Cloud was looking for was there: the Amulet. They attended in finery as guests. The Von Lampes, owners of [Tiffany House](/places/tiffany-house/) and bound by a pact with Asmodeus, were there to get the Amulet as well. The objects in the auction room were illusions, and the real treasures were in a vault below. <small>(Dave, 2026-09-14)</small>
+The party went to an auction because they heard that something St. Cloud was looking for was there: the Amulet. They attended in finery as guests. The Von Lampes, owners of [Tiffany House](/places/tiffany-house/) and bound by a pact with Asmodeus, were there to get the Amulet as well. The objects in the auction room were illusions, and the real treasures were in a vault below. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
-The party first had to free Zebediah: "But first you have to break out Zeb who has the map and intel of the target" / "He got nabbed by the Xents but they don’t know what he’s planning". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small> Zebediah had got himself arrested on purpose, because his jail cell had a way through the cellars to below the vault. His memorisation of a floor pattern took him past the vault's deadly traps to the Amulet, Excalibur and more. Upstairs, [Stonecypher](/people/stonecypher/) used the Vault Wand to make a temporary space in the bathroom, waited for the Von Lampes to enter, and closed it, voiding them. <small>(Dave, 2026-09-14)</small>
+The party first had to free Zebediah: "But first you have to break out Zeb who has the map and intel of the target" / "He got nabbed by the Xents but they don’t know what he’s planning". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small> Zebediah had got himself arrested on purpose, because his jail cell had a way through the cellars to below the vault. His memorisation of a floor pattern took him past the vault's deadly traps to the Amulet, Excalibur and more. Upstairs, [Stonecypher](/people/stonecypher/) used the Vault Wand to make a temporary space in the bathroom, waited for the Von Lampes to enter, and closed it, voiding them. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 Dave, in 2021: "Zeb went and stole it back from the Zentharim during the Heist episode". <small>(Sic. Oral Histories: Temporal Holdings, 2021-08-11)</small> In 2025: "First you guys disappeared the Von Lampes in the heist of the Amulet of Kai Rhyssdal". <small>(Oral Histories: The Inevitables, 2025-10-25)</small>
 

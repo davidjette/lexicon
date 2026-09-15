@@ -109,7 +109,7 @@ Dave, after the battle: "a strictly timed exercise with a prismatic wall, lich-t
 
 The tanks stood on the 10th level of the college. Valen was in a tank until the final battle and had the Anachron and Kara's clone there, and Celion, tank-bound in that loop after Drefan cast Dream on him while he was reforming, helped the party from the tanks. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> See [Celion](/people/celion/).
 
-Zanzibar was named King of Punis immediately after the Arcaneum arc, "when Valen is defeated". King Danzig of Cormyr, turned back from a snail, "sees why Zanzibar held the coup, appreciates himrooting out the evil of Valen and his tainting by the Leviathan" (sic), and offered Roseanne's hand to Zanzibar. <small>(Dave, 2026-09-14)</small>
+Zanzibar was named King of Punis immediately after the Arcaneum arc, "when Valen is defeated". King Danzig of Cormyr, turned back from a snail, "sees why Zanzibar held the coup, appreciates himrooting out the evil of Valen and his tainting by the Leviathan" (sic), and offered Roseanne's hand to Zanzibar. <small>(Dave, sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md)</small>
 
 ## Camp Vengeance
 

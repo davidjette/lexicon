@@ -64,7 +64,7 @@ gallery:
 
 **The Starsong** is a call from the stars heard by the astral elf [Caprica](/people/caprica/), which drew the crew of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) to [Necis](/places/necis/) in *[Light of Xaryxis](/history/light-of-xaryxis/)* and whose awakening is the premise of *[The Starsong Awakens](/history/the-starsong-awakens/)*. Caprica took her posting on the Zanzibar as her best chance to encounter it, and followed it to Necis 1, a world erased from [the Lexicon](/items/the-lexicon/), bringing her captain and crew with her. At the end of *Light of Xaryxis* Caprica died in finding the Starsong's answer, and the Lexicon fled [Sigil](/places/sigil/) to escape it. Fifteen years later the Sovereignty sought to blame its awakening on the Vodoni Empire, and the Company wanted Caprica resurrected to find its true source.
 
-The campaign's tagline asked: "What is the Star Song?" <small>(Dave, 2026-09-14)</small>
+The campaign's tagline asked: "What is the Star Song?" <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
 
 ## Background
 

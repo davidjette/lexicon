@@ -206,7 +206,7 @@ The arc ran as two storylines that later joined: the returning [Barrias Ruby-Eye
 
 ## Necis
 
-[Necis](/places/necis/) is a planet, now destroyed. Its remnants are where [the Time Tombs](/places/the-time-tombs/) stood and where the Shrike originated, and where the climax of Starfall happened, at the end of *Light of Xaryxis* and *The Starsong Awakens*. <small>(Dave, 2026-09-14)</small> The Zanzibar's command crew reached it in December 2023, and the crew of *The Starsong Awakens* returned there in February 2025. Before the finale of *Light of Xaryxis* the Zanzibar itself had reached Sigil, and at the end of that finale the Lexicon disappeared from Sigil. <small>(Oral Histories: The Inevitables, 2024-04-06; 2024-06-02)</small>
+[Necis](/places/necis/) is a planet, now destroyed. Its remnants are where [the Time Tombs](/places/the-time-tombs/) stood and where the Shrike originated, and where the climax of Starfall happened, at the end of *Light of Xaryxis* and *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small> The Zanzibar's command crew reached it in December 2023, and the crew of *The Starsong Awakens* returned there in February 2025. Before the finale of *Light of Xaryxis* the Zanzibar itself had reached Sigil, and at the end of that finale the Lexicon disappeared from Sigil. <small>(Oral Histories: The Inevitables, 2024-04-06; 2024-06-02)</small>
 
 ## Crew
 

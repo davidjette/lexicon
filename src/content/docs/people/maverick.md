@@ -100,7 +100,7 @@ A dark elf bard prince "with an air of black excellence": dark skin, romantic wh
 
 Maverick is a distant descendant of Revan Darkcember, who headed [Nimbus Corp](/organizations/nimbus-corp/) until he vanished about three hundred years before Maverick's time, and after the Klaxons he is heir to Tiffany House. His uncle is JG Wentworth. <small>(DM notes)</small>
 
-The house carries an old debt to Asmodeus, which rides Revan's line forever and which [Darius Klaxon](/people/darius-klaxon/) bears now. Darius wanted to take the RUIN card to disinherit himself, and Nicollo talked him out of it; had he taken it, Tiffany House would have fallen to Maverick. The characters did not know this at the time. <small>(Dave, 2026-09-14)</small>
+The house carries an old debt to Asmodeus, which rides Revan's line forever and which [Darius Klaxon](/people/darius-klaxon/) bears now. Darius wanted to take the RUIN card to disinherit himself, and Nicollo talked him out of it; had he taken it, Tiffany House would have fallen to Maverick. The characters did not know this at the time. <small>(Dave, sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md)</small>
 
 ## The Rock of Bral
 

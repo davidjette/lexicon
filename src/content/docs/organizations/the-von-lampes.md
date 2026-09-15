@@ -25,6 +25,7 @@ fields:
   members: Moth Von Lampe; Tanning Von Lampe, Moth's sister; three children
   status: Voided by the Vault Wand at the auction heist; on the Lost Train at the end of the Infanta
 sources:
+- sources/dave/2026-09-14-temple-holdings-c30-coronation.md
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VII - Suzail.txt
 - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part XII  - Lost Children.txt
@@ -101,7 +102,7 @@ While [Zebediah](/people/zebediah/) went through the vault below, the Von Lampes
 
 > In the auction above, Stonecypher used the Vault Wand from the train episode to create a temporary space in the bathroom, waited for the Von Lampes to enter, and then closed the space, voiding them.  They later end up on the train in the finale scene.
 
-<small>(Dave, 2026-09-14)</small>
+<small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 At the table the Vault Wand was also called Jenkin's Portal Wand. <small>(Nico. Oral Histories: The Inevitables, 2021-12-03)</small> Nico, in 2025: "I used the Jenkins wand on the von lamps during the auction house heist". JL, the same day: "I thought we killed Moth von Lamp. Didn’t we?" <small>(Oral Histories: The Inevitables, 2025-10-25)</small>
 
@@ -129,11 +130,11 @@ Dave, on the Vault Wand:
 
 <small>— Sic on "in stead" and "of your tail". (Oral Histories: The Inevitables, 2021-12-03)</small>
 
-The Vault Wand's non-room also swallowed a train. At Baldur's Gate Stonecypher used the wand on the railway gate, and the out-of-control steam engine careened into the void. That train is the Lost Train of the finale. <small>(Dave, 2026-09-14)</small> In the heart of the Egg a player finds themself in a luxurious car of it: "In a seat nearby, you see Moth and Tanning Von Lampe, they ignore you. They are sitting with two other people reading from a book as a group with some papers spread around the small table." <small>(Arc VIII, End of the Infanta, notes for a final encounter.)</small> Dave, in 2025: "They were on the train at the end". <small>(Oral Histories: The Inevitables, 2025-10-25)</small> See [Arc VIII: End of the Infanta](/history/arc-viii-end-of-the-infanta/).
+The Vault Wand's non-room also swallowed a train. At Baldur's Gate Stonecypher used the wand on the railway gate, and the out-of-control steam engine careened into the void. That train is the Lost Train of the finale. <small>(Dave, sources/dave/2026-09-14-ages-rulings-a1-a30.md)</small> In the heart of the Egg a player finds themself in a luxurious car of it: "In a seat nearby, you see Moth and Tanning Von Lampe, they ignore you. They are sitting with two other people reading from a book as a group with some papers spread around the small table." <small>(Arc VIII, End of the Infanta, notes for a final encounter.)</small> Dave, in 2025: "They were on the train at the end". <small>(Oral Histories: The Inevitables, 2025-10-25)</small> See [Arc VIII: End of the Infanta](/history/arc-viii-end-of-the-infanta/).
 
 ## Tiffany House after them
 
-Tiffany House stayed bound to Asmodeus. In Arc V the party weighed an option to "Go to Tiffany House and defeat the Asmodeans". <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small> In Waterdeep Revan was confronted by Violet, an erinyes who served as a housecarl and as a spy for Asmodeus. <small>(Arc IV, Winking Depths Part IV.)</small> She is [Griddy Champagne](/people/griddy-champagne/), the same devil through every game, the bound servant of the pactbound owner of Tiffany House. <small>(Dave, 2026-09-14)</small> Nico recalled Griddy as the manor's "house Carl" and "a liaison for asmodeus", and Dave answered: "And yeah Griddy is it’s hauscarl". <small>(Sic. Oral Histories: The Inevitables, 2025-10-25)</small>
+Tiffany House stayed bound to Asmodeus. In Arc V the party weighed an option to "Go to Tiffany House and defeat the Asmodeans". <small>(Oral Histories: Temporal Holdings, 2020-01-19)</small> In Waterdeep Revan was confronted by Violet, an erinyes who served as a housecarl and as a spy for Asmodeus. <small>(Arc IV, Winking Depths Part IV.)</small> She is [Griddy Champagne](/people/griddy-champagne/), the same devil through every game, the bound servant of the pactbound owner of Tiffany House. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small> Nico recalled Griddy as the manor's "house Carl" and "a liaison for asmodeus", and Dave answered: "And yeah Griddy is it’s hauscarl". <small>(Sic. Oral Histories: The Inevitables, 2025-10-25)</small>
 
 Dave on how the house passed to Revan:
 

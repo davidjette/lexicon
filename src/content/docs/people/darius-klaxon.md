@@ -60,7 +60,7 @@ The pact with Asmodeus made through Griddy Champagne is unbearable for him, and 
 
 After the Klaxons, [Maverick](/people/maverick/), a distant descendant of [Revan Darkcember](/people/revan-darkcember/), is heir to Tiffany House.
 
-The debt is old. Revan Darkcember assumed it with the lordship of Marsember, which included Tiffany House, and his line is saddled with it forever. <small>(Dave, Oral Histories: The Inevitables, 2025-10-25; Dave, 2026-09-14)</small> Darius carries the burden now. He wanted to take the RUIN card himself, to disinherit himself and free himself, and Nicollo talked him out of it. Had he taken it, the house would have fallen to Maverick. <small>(Dave, 2026-09-14)</small>
+The debt is old. Revan Darkcember assumed it with the lordship of Marsember, which included Tiffany House, and his line is saddled with it forever. <small>(Dave, Oral Histories: The Inevitables, 2025-10-25; Dave, 2026-09-14)</small> Darius carries the burden now. He wanted to take the RUIN card himself, to disinherit himself and free himself, and Nicollo talked him out of it. Had he taken it, the house would have fallen to Maverick. <small>(Dave, sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md)</small>
 
 ## Nicollo
 

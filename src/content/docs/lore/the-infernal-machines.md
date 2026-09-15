@@ -130,7 +130,7 @@ At the end of the Infanta, Cypher obliviated Cthulhu and the machines with him. 
 
 What they had been was erased with them: "the true nature and existence of Cthulhu and the origins of the eldritch machines (including the Anachron/lexicon) were erased from memory and are now cursed information which only madmen and poets ever understand". <small>(Oral Histories: The Inevitables, 2024-04-27)</small> See [The Oblivia](/lore/the-oblivia/).
 
-The Lexicon wishes it could know the full story of the machines, and that drives it insane. <small>(Dave, 2026-09-14)</small> Dave, on its search: "whenever it is successful at recovering the truth about its origin, it reopens the door for Cthulhu to be summoned again". <small>(Oral Histories: The Inevitables, 2024-12-22)</small>
+The Lexicon wishes it could know the full story of the machines, and that drives it insane. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small> Dave, on its search: "whenever it is successful at recovering the truth about its origin, it reopens the door for Cthulhu to be summoned again". <small>(Oral Histories: The Inevitables, 2024-12-22)</small>
 
 ## The machines
 

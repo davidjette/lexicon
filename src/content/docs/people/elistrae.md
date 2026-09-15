@@ -46,6 +46,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- sources/dave/2026-09-14-eldamir-elistrada-ella.md
 - sources/dave/2026-09-14-calix-throne-and-eldamir.md
 - Desktop/infantaverse-wiki/src/content/docs/characters/elistrae.mdx
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part I.docx

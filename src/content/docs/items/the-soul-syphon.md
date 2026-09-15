@@ -55,7 +55,7 @@ published: '2026-09-14'
 
 ## Origin
 
-The Infernal Machines are parts of Zoth's craft and of R'lyeh, scattered over deep time, and their origin is told many ways. <small>(Dave, 2026-09-14)</small> After the raid on Whitehorn Dave told the party: "you did discover the eldritch origin of the soul syphon, some combination of water elemental magick and magic from the far realm (deep)". <small>(Oral Histories: Temporal Holdings, 2018-11-11)</small> The Company's file on the machines holds that they were "built by beings who traveled the border between the Deep Realms of the Astral Sea and the Elemental Plane of Water." <small>(Arc IV, SCTC Archives.)</small>
+The Infernal Machines are parts of Zoth's craft and of R'lyeh, scattered over deep time, and their origin is told many ways. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small> After the raid on Whitehorn Dave told the party: "you did discover the eldritch origin of the soul syphon, some combination of water elemental magick and magic from the far realm (deep)". <small>(Oral Histories: Temporal Holdings, 2018-11-11)</small> The Company's file on the machines holds that they were "built by beings who traveled the border between the Deep Realms of the Astral Sea and the Elemental Plane of Water." <small>(Arc IV, SCTC Archives.)</small>
 
 ## Netheril and the god of death
 

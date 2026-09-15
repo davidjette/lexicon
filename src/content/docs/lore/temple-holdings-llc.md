@@ -106,7 +106,7 @@ During a week-long downtime in the sixth arc, Magnus and Kara "invested in a cas
 
 Of the first arc Dave said: "we get to free slaves and fight fantasy racists, I think its apt" <small>(Oral Histories: Temporal Holdings, 2017-08-15)</small>, and "I'm basically doing Wishbone with swords" <small>(Oral Histories: Temporal Holdings, 2017-09-07)</small>.
 
-In 2019 Dave planned the campaign in six arcs. In June he put the table "about 3/5 through the story" <small>(Oral Histories: Temporal Holdings, 2019-06-08)</small>, and at the close of the fourth arc he wrote: "Hope in Exile - Motherstone - Age of the Infanta - The Infernal Machines, you’re actually 4/6 of the way through the campaign" <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>. The story ran to eight arcs. In Dave's words, "it went longer than I expected." <small>(Dave, 2026-09-14)</small>
+In 2019 Dave planned the campaign in six arcs. In June he put the table "about 3/5 through the story" <small>(Oral Histories: Temporal Holdings, 2019-06-08)</small>, and at the close of the fourth arc he wrote: "Hope in Exile - Motherstone - Age of the Infanta - The Infernal Machines, you’re actually 4/6 of the way through the campaign" <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>. The story ran to eight arcs. In Dave's words, "it went longer than I expected." <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 In 2021 Dave wrote: "The entire ocean wing of the Infanta campaign has been left unplayed but I love that it’s still very much a part of the story - from the beginning they went to Harloch instead of the Merglen, you all didn’t follow the spiderbros and meet up with Atlas III (or even find out who he was)". <small>(Oral Histories: The Inevitables, 2021-09-06)</small>
 
@@ -136,4 +136,4 @@ It ends by deleting itself. The heroes beat the god's head to nothing, touch it 
 
 ## The Bank of Harloch and Temporal Holdings
 
-The **[Bank of Harloch](/organizations/the-bank-of-harloch/)** and its holding company, Temple Holdings, persist well into the future. After the end of the game the company was rebranded **Temporal Holdings**. Sovereign currency is nicknamed **"Harlochs"** because of the bank. <small>(Dave, 2026-09-14)</small>
+The **[Bank of Harloch](/organizations/the-bank-of-harloch/)** and its holding company, Temple Holdings, persist well into the future. After the end of the game the company was rebranded **Temporal Holdings**. Sovereign currency is nicknamed **"Harlochs"** because of the bank. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>

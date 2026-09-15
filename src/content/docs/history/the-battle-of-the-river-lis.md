@@ -106,7 +106,7 @@ When Roland joined the four, Dave gave them their commissions:
 
 <small>— Dave, Oral Histories: Battle of River Lis, 2019-12-19</small>
 
-Stonecypher briefly served as a general in Zanzibar's army at the battle. <small>(Dave, 2026-09-12)</small>
+Stonecypher briefly served as a general in Zanzibar's army at the battle. <small>(Dave, sources/dave/2026-09-12-stonecypher.md)</small>
 
 ## Order of battle
 
@@ -150,7 +150,7 @@ Dave's word on the result, that evening: "you stopped the cities". <small>(Oral 
 
 [Arc V](/history/arc-v-starfall/) opens "on the aftermath of the battle with a flying child adorned in luxurious black and silver robes, appearing over the battlefield about 500 feet away from your boat above the clouds". <small>(Oral Histories: Temporal Holdings, 2019-12-22)</small>
 
-After the Battle of the River Lis, Zanzibar married Princess Roseanne of Cormyr, and after the wedding he was crowned king of Cormyr. <small>(Dave, 2026-09-14)</small> He did not go with the party into the deep past: "he left after the River Lis and you guys went off with Zeb!" <small>(Oral Histories: The Inevitables, 2025-11-09)</small>
+After the Battle of the River Lis, Zanzibar married Princess Roseanne of Cormyr, and after the wedding he was crowned king of Cormyr. <small>(Dave, sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md)</small> He did not go with the party into the deep past: "he left after the River Lis and you guys went off with Zeb!" <small>(Oral Histories: The Inevitables, 2025-11-09)</small>
 
 ## In Elven lore
 

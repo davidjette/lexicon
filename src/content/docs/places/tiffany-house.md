@@ -69,11 +69,11 @@ The owner of Tiffany House traditionally sits on the Lords' Council, though hist
 
 **Darius**, who bears the names Klaxon, Darkcember and Montevideo, is a shareholder in the Company and heir of a line that includes Tiffany House. His father sent [Nicollo](/people/nicollo/) to him as a tutor in leadership and cunning, wanting Darius to take the Panther mask. His pact with Asmodeus, made through Griddy Champagne, "is unbearable for him," and he sought the RUIN card to rid himself of it. <small>(DM notes)</small>
 
-**Maverick**, the drow bard prince, is a distant descendant of Revan Darkcember and, after the Klaxons, heir to Tiffany House. <small>(Dave, 2026-09-14)</small>
+**Maverick**, the drow bard prince, is a distant descendant of Revan Darkcember and, after the Klaxons, heir to Tiffany House. <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-names.md)</small>
 
 ### The debt to Asmodeus
 
-The old debt to Asmodeus came with the house to Revan Darkcember, and his line is saddled with it forever. Darius carries the burden now. He wanted to take the RUIN card himself, to disinherit himself and free himself of it, and Nicollo talked him out of it. Had Darius taken it, the house would have fallen to Maverick. <small>(Dave, 2026-09-14)</small>
+The old debt to Asmodeus came with the house to Revan Darkcember, and his line is saddled with it forever. Darius carries the burden now. He wanted to take the RUIN card himself, to disinherit himself and free himself of it, and Nicollo talked him out of it. Had Darius taken it, the house would have fallen to Maverick. <small>(Dave, sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md)</small>
 
 Nicollo was sent to the house as a secret delivery. Dave: "J killed MachV why? He was a secret delivery to Tiffany House, which eventually did receive the Ruin card he came for". <small>(Oral Histories: The Inevitables, 2025-12-06)</small>
 
@@ -91,7 +91,7 @@ The RUIN card had belonged to [Bumpkin Countrymile](/people/bumpkin-countrymile/
 
 Tiffany House stood five hundred years earlier, in the Ages of the Infanta, when it figured in Revan Darkcember's contract negotiations in Waterdeep. <small>(Arc IV, Winking Depths, Part IV)</small>
 
-Its owners then were the Von Lampes, bound by a pact with Asmodeus. At the auction of the Amulet of Kai Ryssdall, Stonecypher voided them with the Vault Wand. <small>(Dave, 2026-09-14)</small> After Zanzibar was crowned King of Punis he gave Revan a hold, Marsember, which became Darkcember. <small>(Dave, 2026-09-14)</small> Dave: "Then Revan signed papers assuming the lordship of Marsember" / "Which includes Tiffany House and an old debt to Asmodeus which Revan assumed" / "So he inherited it after the Von Lampes had died" / "And yeah Griddy is it’s hauscarl". <small>(Oral Histories: The Inevitables, 2025-10-25)</small>
+Its owners then were the Von Lampes, bound by a pact with Asmodeus. At the auction of the Amulet of Kai Ryssdall, Stonecypher voided them with the Vault Wand. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small> After Zanzibar was crowned King of Punis he gave Revan a hold, Marsember, which became Darkcember. <small>(Dave, 2026-09-14)</small> Dave: "Then Revan signed papers assuming the lordship of Marsember" / "Which includes Tiffany House and an old debt to Asmodeus which Revan assumed" / "So he inherited it after the Von Lampes had died" / "And yeah Griddy is it’s hauscarl". <small>(Oral Histories: The Inevitables, 2025-10-25)</small>
 
 ### Cormyrean occupation
 

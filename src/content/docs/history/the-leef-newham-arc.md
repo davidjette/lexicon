@@ -31,6 +31,7 @@ fields:
   outcome: The Battle of Leef; Grand Duke John C. LeBeefe killed in Newham; the trio rooted in Talenta
   consequence: One in-world year of downtime, then the Sharn arc
 sources:
+- sources/dave/2026-09-14-legranouille-is-lebeefe.md
 - "Oral Histories: The Inevitables, 2025-06-07"
 - "Oral Histories: The Inevitables, 2025-06-08"
 - "Oral Histories: The Inevitables, 2025-06-24"

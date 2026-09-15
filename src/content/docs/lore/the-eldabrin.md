@@ -26,6 +26,7 @@ fields:
   location: The temple of the Eldabrin
   status: Unknown
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions.md
 - "Oral Histories: The Inevitables, 2022-07-10"
 - "Oral Histories: The Inevitables, 2022-08-14"
 - "Oral Histories: The Inevitables, 2022-09-16"

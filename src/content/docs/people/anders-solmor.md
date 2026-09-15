@@ -38,6 +38,7 @@ fields:
   weight: Unknown
   status: Alive at the end of the Saltmarsh finale
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions-2.md
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 - "Oral Histories: The Inevitables, 2021-09-17"
 - "Oral Histories: The Inevitables, 2021-11-03"

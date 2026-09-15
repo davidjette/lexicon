@@ -35,6 +35,7 @@ fields:
   height: Unknown - he can also be miniature
   weight: Unknown
 sources:
+- sources/dave/2026-09-14-legranouille-is-lebeefe.md
 - sources/wa/john-c-lebeefe-person.txt
 - sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
 - sources/wa/episode-4-28a26amp3Bb29-E2809Cnew-cyreE2809D-dm3A-lamont-report.txt

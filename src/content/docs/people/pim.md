@@ -122,7 +122,7 @@ After [Kara](/people/kara/)'s Wish that the Moon had been moved in the past, "Pi
 
 By the Time of Troubles he was no longer with the party. Dave: "you don’t know much about them and what they even think really, and Pim is gone". <small>(Oral Histories: The Inevitables, 2021-10-21)</small> His map of Netheril survived: "Pim’s map left in the cave showed all their flying enclaves / And they’re on the master campaign map". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> Dave listed him among the characters still in the deep past: "Chronocypher, XIII, Pim, Karametra, Drefanmetra and Revan, and Roland". <small>(Oral Histories: The Inevitables, 2021-10-23)</small> The quest board for the deep past read "Rlyeh, get the Obliviator, meet back with Cypher and Pim". <small>(Oral Histories: The Inevitables, 2021-12-04)</small>
 
-[Stonecypher](/people/stonecypher/), split in time, remained "in the deep past as Chronocypher in a hidden refuge with Pim and the Changelings of the Moon". <small>(Dave, 2026-09-12)</small>
+[Stonecypher](/people/stonecypher/), split in time, remained "in the deep past as Chronocypher in a hidden refuge with Pim and the Changelings of the Moon". <small>(Dave, sources/dave/2026-09-12-stonecypher.md)</small>
 
 ## At the table
 

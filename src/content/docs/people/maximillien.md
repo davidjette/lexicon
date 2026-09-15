@@ -86,7 +86,7 @@ In [the Winking Depths](/places/the-winking-depths/), Piergerion the Younger and
 
 ## Steward of Punis
 
-After his exile at the hands of the Arcaneum, Zanzibar returned to Punis and was crowned its king. Dave: "He named Stonecypher his general, and promotes Maximillien to Steward." <small>(Dave, 2026-09-14)</small> See [Arc III](/history/arc-iii-age-of-the-infanta/).
+After his exile at the hands of the Arcaneum, Zanzibar returned to Punis and was crowned its king. Dave: "He named Stonecypher his general, and promotes Maximillien to Steward." <small>(Dave, sources/dave/2026-09-14-temple-holdings-c30-coronation.md)</small> See [Arc III](/history/arc-iii-age-of-the-infanta/).
 
 ## The Infernal Machines
 
@@ -98,7 +98,7 @@ While the party planned for [the Battle of the River Lis](/history/the-battle-of
 
 ## The war for the Egg
 
-The war Zanzibar fought with Max and the sea elves came after the party left Refuge for the past. Zanzibar was left behind, and in that loop he went forward to fight beside the sea elves against the Drow and the mind flayers to reach the Egg. Once there, Blackstaff sent him back in time, with Max, to stop St. Cloud. <small>(Dave, 2026-09-14)</small>
+The war Zanzibar fought with Max and the sea elves came after the party left Refuge for the past. Zanzibar was left behind, and in that loop he went forward to fight beside the sea elves against the Drow and the mind flayers to reach the Egg. Once there, Blackstaff sent him back in time, with Max, to stop St. Cloud. <small>(Dave, sources/dave/2026-09-14-ages-rulings-a1-a30.md)</small>
 
 The sea-elf prince Atlas IV fought beside them, "the third wheel to Max + Zan in the offscreen future war VS the spiderbros". <small>(Oral Histories: The Inevitables, 2021-10-09)</small> See [Atlas and the Sea Elves](/organizations/atlas-and-the-sea-elves/) and [Atlantis](/places/atlantis/).
 
@@ -106,7 +106,7 @@ Among the time points stored in the party's [Anachron](/items/the-anachron/) was
 
 ## R'lyeh
 
-Dark Zanzibar arrived at R'lyeh just before the party's first time in the deep past. He and Maximillien entered, sacrificing Max's life, and Zanzibar freed Chronocypher from the Zoth matrix, after which she was the three-fold goddess, the Sisters. <small>(Dave, 2026-09-14)</small>
+Dark Zanzibar arrived at R'lyeh just before the party's first time in the deep past. He and Maximillien entered, sacrificing Max's life, and Zanzibar freed Chronocypher from the Zoth matrix, after which she was the three-fold goddess, the Sisters. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small>
 
 When Dave designed Zanzibar's own rune for Glassbane, he proposed that it let Zanzibar cast Knock at will, in honor of Max's sacrifice to open the gates of R'lyeh. <small>(Oral Histories: The Inevitables, 2021-10-23)</small> See [the Bane Blades](/items/the-bane-blades/).
 

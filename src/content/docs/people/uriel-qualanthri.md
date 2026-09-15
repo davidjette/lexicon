@@ -32,6 +32,7 @@ fields:
   height: Unknown - strikingly tall
   weight: Unknown - tall and lithe
 sources:
+- sources/dave/2026-09-14-eberron-open-questions.md
 - sources/wa/uriel-qualanthri-person.txt
 - sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
 - sources/wa/episode-5-E2809Cthe-eldeen-reachesE2809D-dm3A-jbyrd-report.txt

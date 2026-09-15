@@ -33,6 +33,7 @@ fields:
   founding: Unknown
   status: Fallen in a single generation; its heir Dolores Weathervein recovered the Tempest Sword
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions.md
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - sources/documents/2026-09-14-dolores-weathervein-concept.md
 - "Oral Histories: The Inevitables, 2021-08-14"

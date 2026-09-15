@@ -38,6 +38,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/dave/2026-09-14-twatmarsh-open-questions-2.md
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2984, IMG_2985, IMG_2991, IMG_3022, IMG_3040, IMG_3073, IMG_3074, IMG_3075, IMG_3078, IMG_3093, IMG_3095, IMG_3097, IMG_3100)
   - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
   - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt

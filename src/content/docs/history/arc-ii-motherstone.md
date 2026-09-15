@@ -43,6 +43,7 @@ fields:
   follows: Arc I — Hope in Exile
   leadsInto: Arc III — Age of the Infanta
 sources:
+- sources/dave/2026-09-14-calix-throne-and-eldamir.md
 - sources/dave/2026-09-14-eldamir-elistrada-ella.md
 - Desktop/infantaverse-wiki/src/content/docs/events/motherstone.mdx
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part I.docx

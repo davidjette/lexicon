@@ -67,7 +67,7 @@ wa:
 
 **The timeline is a closed loop, and the document draws it as one.** A single line runs from 40,000,000 B.C. to the present, and a great arc carries [Wainwright St. Cloud](/people/wainwright-st-cloud/) from his own birth back to the beginning of it.
 
-<small>(The 40,000,000 B.C. on the document is the deep past, 65 million years ago. Dave described the same moment as "40,000,000 years in the past" (Oral Histories: Temporal Holdings, 2020-02-22) and wrote that the "deep past is about 65 million years ago" (Oral Histories: Temporal Holdings, 2021-12-10).)</small>
+<small>(The line's starting point is the deep past, about 65 million years ago. Oral Histories: Temporal Holdings, 2021-12-10; Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small>
 
 ## The three eras
 

@@ -91,7 +91,7 @@ Barold died in the fight. Dave:
 
 > Barold died in combat, and I let him roll on my expanded wild magic table (he's a wild magic barb) he rolled super high and was Reincarnated instantly, he rolled Tiefling on a table to decide the race.
 
-<small>(Dave, 2026-09-14)</small>
+<small>(Dave, sources/dave/2026-09-14-inevitables-rulings-batch.md)</small>
 
 Among the spoils were a Wand of Secrets, an Epee of Temperance, various potions and a ring of invisibility. Diana Rhea gave the party 2,000 gold and poultices, the Gatehouse was opened to them, and the Bleak Cabal became their faction ally. <small>(DM notes, play log)</small>
 

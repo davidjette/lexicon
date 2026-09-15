@@ -92,7 +92,7 @@ Then Varkus opened the door behind him, followed by **[Phillip Klaxon](/people/p
 
 At the pit Lenore used a spell to open a portal, horizontal and far below the ground inside it, and Heyu, BattleBeast and Lenore, in only a hospital gown, jumped in. Nicollo stood on the edge, pondered, then turned back and gave himself up to the guards.
 
-The party were captured, except Heyu, Lenore, BattleBeast and Rodriel. <small>(Dave, 2026-09-14)</small>
+The party were captured, except Heyu, Lenore, BattleBeast and Rodriel. <small>(Dave, sources/dave/2026-09-14-fort-maximillien-as-played.md)</small>
 
 They landed on the hard smooth stone of an underground dungeon, in pitch black, in a room with only two exits and old rusty shields lining the walls, covered in obscene graffiti. Lenore had opened the portal "in the Trash Hole leading to Undermountain." <small>(DM notes, IMG_3095)</small>
 
@@ -100,7 +100,7 @@ They landed on the hard smooth stone of an underground dungeon, in pitch black, 
 
 Upstairs Varkus took a guard's report and gave Maverick a condemning look. Then Nicollo was brought in. Maverick smiled; Nicollo did not. Nicollo said that he had been betrayed by the group, that he had never meant to steal the RUIN card, that he was in the service of Klaxon as he had said, and that the moment he found out Lenore had the card he had killed her and tried to take it. Griddy picked the RUIN card up off the desk and slipped it into her bra. Maverick protested, and Varkus set down the sentence: hanging, at dawn.
 
-At [Tiffany House](/history/the-tiffany-house-heist/) Nicollo had convinced Klaxon and Griddy that he was on their side and that [Jeremiah](/people/jeremiah/) had taken the card. At the fort he betrayed the party, admitting that Lenore had stolen it. <small>(Dave, 2026-09-14)</small>
+At [Tiffany House](/history/the-tiffany-house-heist/) Nicollo had convinced Klaxon and Griddy that he was on their side and that [Jeremiah](/people/jeremiah/) had taken the card. At the fort he betrayed the party, admitting that Lenore had stolen it. <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md)</small>
 
 ## The dungeon
 

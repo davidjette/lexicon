@@ -60,7 +60,7 @@ The City of Splendors has lost its lustre. Shops and parks are closed, people ar
 
 **The Barker.** A man stands on an apple cart proclaiming the liberty of Waterdeep from continental rule, and calls for the Unmasked Lord to evict the [Purple Dragons](/organizations/the-purple-dragons/) and win independence from the Zanzibar. <small>(DM notes)</small>
 
-**The Zanzibar** is the Emperor of Cormyr and Faerun. Immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. He set his imperial capital in Suzail. From then on the Emperor has been called the Zanzibar. <small>(Dave, 2026-09-14)</small>
+**The Zanzibar** is the Emperor of Cormyr and Faerun. Immediately after the Ages of the Infanta, [Zanzibar](/people/zanzibar/), crowned king of Cormyr and with his forces in the old imperial capital of Waterdeep, declared himself Emperor of Faerun and consolidated control of the continent, mostly peacefully. He set his imperial capital in Suzail. From then on the Emperor has been called the Zanzibar. <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md)</small>
 
 ## At Tiffany House
 
@@ -91,7 +91,7 @@ Jeremiah knows Griddy. The party know her as **Garidriel**, and the two of them 
 
 <small>(DM notes)</small>
 
-"Griddy and Jeremiah fought and the party resisted him." <small>(Dave, 2026-09-14)</small>
+"Griddy and Jeremiah fought and the party resisted him." <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md)</small>
 
 ## The card
 

@@ -72,7 +72,7 @@ JL, choosing to play him in April 2019, gave his history:
 
 ## Disinherited
 
-After his exile at the hands of the Arcaneum, Zanzibar returned to Punis and was crowned king. Dave: "Seppy is a foot note. Zebediah his twin was disinherited." <small>(Dave, 2026-09-14)</small> See [House Zanzibar](/organizations/house-zanzibar/).
+After his exile at the hands of the Arcaneum, Zanzibar returned to Punis and was crowned king. Zebediah, his twin, was disinherited. <small>(Dave, sources/dave/2026-09-14-temple-holdings-c30-coronation.md)</small> See [House Zanzibar](/organizations/house-zanzibar/).
 
 ## The auction heist
 
@@ -82,7 +82,7 @@ The target was the Amulet of Kai Ryssdall, a gem big enough to cast *Greater Gat
 
 > The party is told to break Zebidiah out of jail - Zanzibar's twin and a rascal - Zebediah got himself arrested on purpose because the jailcell had a way through the cellars to below the vault, where he was able to use his memorization of a floor pattern to evade the deadly traps and get to the Amulet, Excalibur, and more.
 
-<small>(Dave, 2026-09-14)</small> In the vault [Roland Deschain](/people/roland-deschain/) drew Excalibur from its stone. Upstairs [Stonecypher](/people/stonecypher/) used the Vault Wand to void [the Von Lampes](/organizations/the-von-lampes/). See [the Bane Blades](/items/the-bane-blades/).
+<small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small> In the vault [Roland Deschain](/people/roland-deschain/) drew Excalibur from its stone. Upstairs [Stonecypher](/people/stonecypher/) used the Vault Wand to void [the Von Lampes](/organizations/the-von-lampes/). See [the Bane Blades](/items/the-bane-blades/).
 
 The amulet had been in the party's hands before. Dave, in 2021: "you traded it for info on how to break into Castle Danzig btw, which you used to assassinate Valen and Celion and almost King Danzig himself, using a forced marriage for Zanzibar to assume the Cormyrean throne" / "Zeb went and stole it back from the Zentharim during the Heist episode". When LaMont, who played Revan, recalled "I think Zeb had it", Dave answered: "That’s right he did". <small>(Sic on "Zentharim". Oral Histories: Temporal Holdings, 2021-08-10, 2021-08-11)</small> See [the Suzail Coup](/history/the-suzail-coup/).
 
@@ -98,7 +98,7 @@ Dave had Zeb's token ready for the first online session of [Starfall](/history/a
 
 ## Death in the deep past
 
-Zeb died in a fight with the chromatic dragons when the party first came to the deep past, and Dark Zanzibar became JL's character a session later. <small>(Dave, 2026-09-14)</small> See [the Chromatic Elder Dragons](/organizations/chromatic-elder-dragons/).
+Zeb died in a fight with the chromatic dragons when the party first came to the deep past, and Dark Zanzibar became JL's character a session later. <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small> See [the Chromatic Elder Dragons](/organizations/chromatic-elder-dragons/).
 
 The chat on the day of his death, the session in which the party rescued Cypher, records how he died. JL: "Not too late for Kara to use true resurrection to save Zeb. You have 200 years." Jenny, who played [Kara](/people/kara/): "But you turned into dust in the middle of a toxic sea" / "Don’t we need a body?" Dave: "Not with TR but you’d need to know the spell and have the unicorn horn". <small>(Oral Histories: Temporal Holdings, 2020-05-30)</small>
 
@@ -106,7 +106,7 @@ The chat on the day of his death, the session in which the party rescued Cypher,
 
 Before the final arc Dave floated a new build for him: "Possible Zeb rebuild: Rogue Swashbuckler / Artificer with a gun for a hand and most of Roland’s stuff". <small>(Oral Histories: The Inevitables, 2022-12-24)</small> JL, weeks later: "I probably should have brought Zeb into the egg, like a “join me, brother,” moment". Dave: "We can open with that Retcon :)" <small>(Oral Histories: The Inevitables, 2023-01-15)</small>
 
-The party raised Zeb on their second trip to the deep past, though his arm could not be saved, and he fought beside Dark Zanzibar and Chronocypher there. <small>(Dave, 2026-09-14)</small> By then Zanzibar himself was an NPC, having not gone on the past quest with the party. Dave: "Zebidiah is is raised and with Dark Zanzibar". <small>(Sic. Dave, 2026-09-14)</small> Dark Zanzibar is the Zanzibar who survived the first loop and was sent back by [Blackstaff](/people/khelben-arunsun/) to stop St. Cloud. See [Dark Zanzibar](/people/dark-zanzibar/) and [Stonecypher](/people/stonecypher/).
+The party raised Zeb on their second trip to the deep past, though his arm could not be saved, and he fought beside Dark Zanzibar and Chronocypher there. <small>(Dave, sources/dave/2026-09-14-temple-holdings-batch2-questions.md)</small> By then Zanzibar himself was an NPC, having not gone on the past quest with the party. Dave: "Zebidiah is is raised and with Dark Zanzibar". <small>(Sic. Dave, 2026-09-14)</small> Dark Zanzibar is the Zanzibar who survived the first loop and was sent back by [Blackstaff](/people/khelben-arunsun/) to stop St. Cloud. See [Dark Zanzibar](/people/dark-zanzibar/) and [Stonecypher](/people/stonecypher/).
 
 **Items:** the Amulet of Kai Ryssdall, which he stole back from the Zhentarim at the heist.
 

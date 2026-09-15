@@ -48,6 +48,7 @@ fields:
   species: Elf; lich (baelnorn)
   status: Dead by the Age of the Infanta; later an ally in the war on Netheril and at the Egg
 sources:
+- sources/dave/2026-09-14-calix-throne-and-eldamir.md
 - sources/dave/2026-09-14-eldamir-elistrada-ella.md
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part III.txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VI.txt

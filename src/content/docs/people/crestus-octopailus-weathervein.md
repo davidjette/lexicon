@@ -77,7 +77,7 @@ Dave, on 2022-08-15:
 
 Members of the line were bound into the artifacts of the treasure hoard. Dave said that all three weapons "have true natures we can try to bring our, and their corrupted natures from Keraptis", and that Blackrazor was still evil on its own. <small>(sic; Oral Histories: The Inevitables, 2022-09-16)</small>
 
-Centuries later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), Dave wrote: "Now I guess there’s a dying demikraken near Saltmarsh who guards a lair with blackrazor". <small>(Oral Histories: The Inevitables, 2025-09-22)</small> The demikraken is the Dunwater Horror, Gabriella Hellwood. <small>(Dave, 2026-09-14)</small>
+Centuries later, in the time of [Dead Man's Hand](/lore/dead-mans-hand/), Dave wrote: "Now I guess there’s a dying demikraken near Saltmarsh who guards a lair with blackrazor". <small>(Oral Histories: The Inevitables, 2025-09-22)</small> The demikraken is the Dunwater Horror, Gabriella Hellwood. <small>(Dave, sources/dave/2026-09-14-oral-histories-cast.md)</small>
 
 ## Names
 

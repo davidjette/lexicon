@@ -106,7 +106,7 @@ A year before the party came, [Wainwright St. Cloud](/people/wainwright-st-cloud
 
 ### King of Punis
 
-After his exile at the hands of the Arcaneum, Zanzibar returned to Punis and was crowned King of Punis. He named [Revan Darkcember](/people/revan-darkcember/) and [Roland Deschain](/people/roland-deschain/) Thanes and gave them holds; Revan's was Marsember, which became Darkcember. He named [Stonecypher](/people/stonecypher/) his general and promoted [Maximillien](/people/maximillien/) to Steward. Seppy is a footnote, and Zanzibar's twin, Zebediah, was disinherited. <small>(Dave, 2026-09-14)</small> See [House Zanzibar](/organizations/house-zanzibar/). Dave on the thanes' gifts: "your thane packages from Punis include 500 Gold Zans and assorted jewelry and trinkets worth another 100". <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small>
+After his exile at the hands of the Arcaneum, Zanzibar returned to Punis and was crowned King of Punis. He named [Revan Darkcember](/people/revan-darkcember/) and [Roland Deschain](/people/roland-deschain/) Thanes and gave them holds; Revan's was Marsember, which became Darkcember. He named [Stonecypher](/people/stonecypher/) his general and promoted [Maximillien](/people/maximillien/) to Steward. Zanzibar's twin, Zebediah, was disinherited. <small>(Dave, sources/dave/2026-09-14-temple-holdings-c30-coronation.md)</small> See [House Zanzibar](/organizations/house-zanzibar/). Dave on the thanes' gifts: "your thane packages from Punis include 500 Gold Zans and assorted jewelry and trinkets worth another 100". <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small>
 
 JL, who played both twins, gave Zebediah's story: "Zeb was banished for being a juvenile delinquent. He went to Waterdeep and fell in with a bad crowd." And of the kingdom: "He’s definitely gay but that’s accepted in Punis. Zarus-worshippers are racist but not everyone in Punis is racist." <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small> The heist that followed began in Punis, "since it's closer to Xenthil Keep and the hook flows through Punis". <small>(Sic. Oral Histories: Temporal Holdings, 2019-04-01)</small>
 
@@ -116,7 +116,7 @@ When Zanzibar's player proposed that Punis take in refugees from [Sigil](/places
 
 ### The River Lis
 
-The **Punis Royal Guard**, human elite heavy infantry and an honour guard, stood in the allied line at [the Battle of the River Lis](/history/the-battle-of-the-river-lis/). The party fought there as Purple Dragon officers "As landed gentry in Cormyr and Punis", and the paladins of Zarus from Punis "are all in the PDs, probably 1/2 the officer corps". <small>(River Lis Units; Oral Histories: Battle of River Lis, 2019-10-21, 2019-12-19)</small> After the battle Zanzibar married Princess Roseanne of Cormyr. <small>(Dave, 2026-09-14)</small>
+The **Punis Royal Guard**, human elite heavy infantry and an honour guard, stood in the allied line at [the Battle of the River Lis](/history/the-battle-of-the-river-lis/). The party fought there as Purple Dragon officers "As landed gentry in Cormyr and Punis", and the paladins of Zarus from Punis "are all in the PDs, probably 1/2 the officer corps". <small>(River Lis Units; Oral Histories: Battle of River Lis, 2019-10-21, 2019-12-19)</small> After the battle Zanzibar married Princess Roseanne of Cormyr. <small>(Dave, sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md)</small>
 
 ## The Empire and after
 

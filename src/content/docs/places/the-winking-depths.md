@@ -56,7 +56,7 @@ Just as the party cured [the Lexicon](/items/the-lexicon/), [Flex Gimble](/peopl
 
 ## The arc
 
-The party teleported out of the Winking Depths arc Dave had built and went to Waterdeep, where they played a political intrigue game instead. <small>(Dave, 2026-09-14)</small> In the Winking Depths arc they met the sea-elf prince Atlas IV, "the Triton prince you met in the winking depth". <small>(Oral Histories: The Inevitables, 2021-10-09)</small> See [Atlas and the Sea Elves](/organizations/atlas-and-the-sea-elves/) and [Atlantis](/places/atlantis/).
+The party teleported out of the Winking Depths arc Dave had built and went to Waterdeep, where they played a political intrigue game instead. <small>(Dave, sources/dave/2026-09-14-ages-rulings-a1-a30.md)</small> In the Winking Depths arc they met the sea-elf prince Atlas IV, "the Triton prince you met in the winking depth". <small>(Oral Histories: The Inevitables, 2021-10-09)</small> See [Atlas and the Sea Elves](/organizations/atlas-and-the-sea-elves/) and [Atlantis](/places/atlantis/).
 
 In 2021 Dave wrote, "It’s making me realize that I really left mine flayers as a whole out of this campaign even though the big/bad basically is one" <small>(sic on "mine")</small>, and "But that cause you guys didn’t actually play the Winking Depths". Nico: "Ha true, I got us the fuck outa there lol" and "But then we had a cool city / political game". Dave: "For sure, plus that quest is still out there if you can get back to the Present". <small>(Oral Histories: The Inevitables, 2021-08-26)</small>
 
@@ -82,7 +82,7 @@ Dave: "You guys put a zhentarim agent in as unmasked lord during the winking dep
 
 ## The war in the Depths
 
-The war Zanzibar fought with Max and the sea elves came after the party left Refuge for the past. Zanzibar was left behind, and in that loop he went forward to fight beside the sea elves against the Drow and the mind flayers to reach the Egg. Once there, Blackstaff sent him back in time, with Max, to stop St. Cloud. <small>(Dave, 2026-09-14)</small> That Zanzibar is [Dark Zanzibar](/people/dark-zanzibar/), and Max is [Maximillien](/people/maximillien/), who gave his life at [R'lyeh](/places/rlyeh/).
+The war Zanzibar fought with Max and the sea elves came after the party left Refuge for the past. Zanzibar was left behind, and in that loop he went forward to fight beside the sea elves against the Drow and the mind flayers to reach the Egg. Once there, Blackstaff sent him back in time, with Max, to stop St. Cloud. <small>(Dave, sources/dave/2026-09-14-ages-rulings-a1-a30.md)</small> That Zanzibar is [Dark Zanzibar](/people/dark-zanzibar/), and Max is [Maximillien](/people/maximillien/), who gave his life at [R'lyeh](/places/rlyeh/).
 
 Atlas IV fought beside them: "the Triton prince you met in the winking depth and who become the third wheel to Max + Zan in the offscreen future war VS the spiderbros". <small>(Sic on "become". Oral Histories: The Inevitables, 2021-10-09)</small> Fighting with the water elves and Prince Atlas against the Drow in the Winking Depths is how Zanzibar earned Glassbane by deed. See [the Bane Blades](/items/the-bane-blades/).
 

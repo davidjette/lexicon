@@ -188,7 +188,7 @@ On 4 April the crew reached the Sphinx Tomb, whose doors open onto other times; 
 
 JL called the session of 23 May the start of the endgame. <small>(Oral Histories: The Inevitables, 2025-05-18)</small> By then, in Nico's account, Barrias and Se7en had been going through the time doors of the Sphinx Tomb with Nine while the Pussyfoot waited outside, and Paytra and Kol had brought Caprica's body back to the Terrasque and met Marcel and Weld. Through the doors the crew had gone to the five Zanzibars, as Dave recalled it, and seen the final fight on the Zanzibar, as Nico recalled it. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
 
-The climax of Starfall took place at Necis, at the end of *The Starsong Awakens*. <small>(Dave, 2026-09-14)</small>
+The climax of Starfall took place at Necis, at the end of *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
 
 ## Campaign site
 

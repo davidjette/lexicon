@@ -23,6 +23,7 @@ tags:
 icon: fa-scroll
 fields: {}
 sources:
+- sources/dave/2026-09-14-legranouille-is-lebeefe.md
 - "Oral Histories: The Inevitables, 2025-10-23"
 - "Oral Histories: The Inevitables, 2025-11-10"
 - "Oral Histories: The Inevitables, 2025-11-21"

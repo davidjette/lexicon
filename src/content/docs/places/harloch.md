@@ -79,7 +79,7 @@ The players had their own plans for the town. Patrick, who played Magnus, collec
 
 ## The Bank of Harloch and the Harlochs
 
-The Bank of Harloch and its holding company, Temple Holdings, persist well into the future; the company was rebranded Temporal Holdings after the end of the game, and the Sovereign currency is nicknamed "Harlochs" because of the bank. <small>(Dave, 2026-09-14)</small> Asked whether "the Harlock bank" was still a major economic concern, Dave answered: "The galactic currency could be Harlochs" / "They invented a magical blockchain". <small>(Oral Histories: The Inevitables, 2022-10-09)</small> See [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) and [Nimbus Corp](/organizations/nimbus-corp/).
+The Bank of Harloch and its holding company, Temple Holdings, persist well into the future; the company was rebranded Temporal Holdings after the end of the game, and the Sovereign currency is nicknamed "Harlochs" because of the bank. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small> Asked whether "the Harlock bank" was still a major economic concern, Dave answered: "The galactic currency could be Harlochs" / "They invented a magical blockchain". <small>(Oral Histories: The Inevitables, 2022-10-09)</small> See [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) and [Nimbus Corp](/organizations/nimbus-corp/).
 
 ## Places of Interest
 

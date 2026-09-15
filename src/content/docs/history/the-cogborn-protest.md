@@ -29,6 +29,7 @@ fields:
   imperial_account: Shots from within the protesters killed Candice Kurt; an assassination by protesters from the Cogs
   aftermath: Checkpoints dividing upper and lower city; raids and forced removals; Esther Crona's live executions from her Imperial warship
 sources:
+- sources/dave/2026-09-14-nico-docs-questions.md
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/key-figures.txt

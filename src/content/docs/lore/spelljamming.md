@@ -96,7 +96,7 @@ An Orcish invocation calls on a helm in the name of [Cypher](/people/stonecypher
 
 ## Space and the Phlogiston
 
-Every system is a "space", such as Realmspace, Krynnspace or Greyspace; the word refers to a solar system. Realmspace, Greyspace and Krynnspace are the core systems of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). <small>(Oral Histories: The Inevitables, 2022-10-09)</small> The Starfall tagline asked "What adventures await between the crystal spheres?" <small>(Dave, 2026-09-14)</small>
+Every system is a "space", such as Realmspace, Krynnspace or Greyspace; the word refers to a solar system. Realmspace, Greyspace and Krynnspace are the core systems of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). <small>(Oral Histories: The Inevitables, 2022-10-09)</small> The Starfall tagline asked "What adventures await between the crystal spheres?" <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
 
 The Phlogiston, "the phlo", is part of Starfall's cosmology, brought back from older Spelljammer material. <small>(Oral Histories: The Inevitables, 2022-10-11, 2023-04-08)</small> After [the Astralex](/lore/the-astralex/) attack the Zanzibar was "adrift in the phlo". <small>(Oral Histories: The Inevitables, 2024-01-06)</small> Dave's epitaph for Caprica reads "her song rings through the phlo forever". <small>(Oral Histories: The Inevitables, 2024-06-03)</small>
 

@@ -26,6 +26,7 @@ fields:
   owner: Uriel Qualanthri; the gangs of New Cyre; the Children of Ember
   status: In use
 sources:
+- sources/dave/2026-09-14-nico-docs-questions.md
 - sources/wa/episode-4-28a26amp3Bb29-E2809Cnew-cyreE2809D-dm3A-lamont-report.txt
 - sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
 - sources/documents/2026-09-14-nico-evil-campaign-3.md

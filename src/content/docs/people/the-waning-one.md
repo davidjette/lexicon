@@ -101,11 +101,11 @@ The party crossed the maze of Despondos, and "finally the party confronted Valen
 
 After the battle "Drefanmetra is under a spell". <small>(Oral Histories: Temporal Holdings, 2021-11-05)</small> "Drefanmetra has a copy of Drefans equipments except for some stuff"; the party were dividing it up, "but not a good idea since he’s only dominated for 1 hour", "And is still a dragon." <small>(Oral Histories: Temporal Holdings, 2021-11-11)</small> The next session's business was "figuring out what to do with the charmed Drefanmetra". <small>(Oral Histories: Temporal Holdings, 2021-11-20)</small>
 
-"Congrats on imprisoning Drefmetra in his own sword". <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small> The Waning One is held in [Silverbane](/people/silverbane/), which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, 2026-09-14)</small>
+"Congrats on imprisoning Drefmetra in his own sword". <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small> The Waning One is held in [Silverbane](/people/silverbane/), which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 ## Patron of the Short King
 
-When the party went back to the deep past a second time, to help Karametra move the moon, they went to the moon again. The Short King, **Brownsleeves** from another loop, had been seduced by Drefanmetra, was a warlock of the Waning One (Archfey), and joined the party. He died in the final round of the fight against Cthulhu. <small>(Dave, 2026-09-14)</small> JL proposed the build at the table, "What if BS was a rogue/warlock who made a pact with Drefenmetra?", and Dave answered "That is awesome, follows the waning one". <small>(Oral Histories: The Inevitables, 2023-01-15)</small> See [Lunar Fae](/organizations/lunar-fae/).
+When the party went back to the deep past a second time, to help Karametra move the moon, they went to the moon again. The Short King, **Brownsleeves** from another loop, had been seduced by Drefanmetra, was a warlock of the Waning One (Archfey), and joined the party. He died in the final round of the fight against Cthulhu. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small> JL proposed the build at the table, "What if BS was a rogue/warlock who made a pact with Drefenmetra?", and Dave answered "That is awesome, follows the waning one". <small>(Oral Histories: The Inevitables, 2023-01-15)</small> See [Lunar Fae](/organizations/lunar-fae/).
 
 ## The titles
 

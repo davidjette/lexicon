@@ -75,7 +75,7 @@ On Candlenights Eve the party stormed Castle Danzig, killed the War Wizards' arc
 
 ## The imperial capital
 
-When King Glenn Danzig was turned back from a snail, he offered Roseanne's hand to Zanzibar. After [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) Zanzibar married her; the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. In the aftermath of the Infanta War he founded the Empire and set his imperial capital in Suzail. <small>(Dave, 2026-09-14)</small> [Waterdeep](/places/waterdeep/) was the old imperial capital. The emperors of his line, among them [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), rule from Suzail.
+When King Glenn Danzig was turned back from a snail, he offered Roseanne's hand to Zanzibar. After [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) Zanzibar married her; the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. In the aftermath of the Infanta War he founded the Empire and set his imperial capital in Suzail. <small>(Dave, sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md)</small> [Waterdeep](/places/waterdeep/) was the old imperial capital. The emperors of his line, among them [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), rule from Suzail.
 
 ## Places of Interest
 

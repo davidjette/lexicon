@@ -35,6 +35,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- sources/dave/2026-09-14-nico-docs-questions.md
 - sources/site/rebel-factions.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/mission-board.txt

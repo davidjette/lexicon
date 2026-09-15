@@ -119,7 +119,7 @@ By July 2024 Se7en was predicting the future again. <small>(Oral Histories: The 
 
 By May 2025 Se7en and Barrias were in the Sphinx Tomb with Nine, going through its time doors, with the ship *Pussyfoot* parked outside. Dave recalled the last door as a visit to the Five Zanzibars, and Se7en's player recalled it as the final fight on the Zanzibar. <small>(Oral Histories: The Inevitables, 2025-05-23)</small> Dave, as a player, described the arc as centred on Nine, who set out to fix everything bad that happened after Tannhauser Gate, and on his father and brother eventually bringing him home. <small>(Oral Histories: The Inevitables, 2025-04-06)</small>
 
-The climax of Starfall came at [Necis](/places/necis/), at the end of both *Light of Xaryxis* and *The Starsong Awakens*. <small>(Dave, 2026-09-14)</small>
+The climax of Starfall came at [Necis](/places/necis/), at the end of both *Light of Xaryxis* and *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
 
 ## Abilities and equipment
 

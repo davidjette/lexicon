@@ -65,7 +65,7 @@ The party know that Shemeska hired [Jeremiah](/people/jeremiah/) to hunt them do
 
 When [Sharegrave](/people/sharegrave/)'s gang trapped the party a second time and BattleBeast was sent to the arena, Barold and [Nicollo](/people/nicollo/) were headed for the Gatehouse of [the Bleak Cabal](/organizations/the-bleak-cabal/). In the Spillway, where the party killed [Rotten William](/people/rotten-william/) and Gorelach and Gunt and cured [Cageblight](/lore/cageblight/), Barold was killed, and was reincarnated as a tiefling.
 
-Barold is a wild magic barbarian. When he died in combat, his wild magic surged, and he was reincarnated instantly; he came back as a tiefling. At the table he rolled very high on Dave's expanded wild magic table, then rolled Tiefling on a table deciding his race. <small>(Dave, 2026-09-14)</small>
+Barold is a wild magic barbarian. When he died in combat, his wild magic surged, and he was reincarnated instantly; he came back as a tiefling. At the table he rolled very high on Dave's expanded wild magic table, then rolled Tiefling on a table deciding his race. <small>(Dave, sources/dave/2026-09-14-inevitables-rulings-batch.md)</small>
 
 ## Fort Maximillien
 

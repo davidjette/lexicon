@@ -34,6 +34,7 @@ fields:
   military: Bladesingers; bearers of the moonblades
   status: Enduring
 sources:
+- sources/dave/2026-09-14-eldamir-elistrada-ella.md
 - Desktop/infantaverse-wiki/src/content/docs/factions/house-gallidann.mdx
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part IV.txt
 - sources/infantaverse/Temple Holdings LLC__2 - Motherstone__Motherstone - Part VI.txt

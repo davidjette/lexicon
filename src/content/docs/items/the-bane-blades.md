@@ -99,7 +99,7 @@ In the previous loop **Mordred** held Ironbane for the Waning One and **Valen**,
 
 Arthur added a rune to Ironbane. Dave: "I have to add a rune for Arthur to Excalibur too, he will get Revivify once per dawn with no components". <small>(Oral Histories: The Inevitables, 2021-10-01, 2021-10-23)</small>
 
-[Roland](/people/roland-deschain/)'s mother, a long descendant of the Els, found the sword. It was still in its stone when it came to an auction, which the party attended as a heist; the treasures on show in the auction room were illusions and the real ones were in a vault below. Roland drew Excalibur from the stone once the party got into the vault. He later melted it down in the Deepmaker into his twin revolvers. <small>(Dave, 2026-09-14)</small>
+[Roland](/people/roland-deschain/)'s mother, a long descendant of the Els, found the sword. It was still in its stone when it came to an auction, which the party attended as a heist; the treasures on show in the auction room were illusions and the real ones were in a vault below. Roland drew Excalibur from the stone once the party got into the vault. He later melted it down in the Deepmaker into his twin revolvers. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 Excalibur's item text reads "Weapon (longsword), artifact (requires attunement by a creature fated to be royalty)". When LaMont, who played Revan, answered that Revan was a thane of Punis, Dave replied: "royal =/= noble". <small>(Oral Histories: Temporal Holdings, 2019-04-22)</small>
 
@@ -157,7 +157,7 @@ At the final battle there was more than one set of five: the party held all five
 
 <small>This is the other half of a title the party is given at [Brightmantle](/people/brightmantle/)'s funeral — "the great hunter, the Deadfall Raining, **the Waning and the Waxing One**." The Waning One is **Drefanmetra**, a version of [Drefan](/people/drefan/) from another loop, who fought the party at Deadfall Peak; Waxing is what they do with the blades.</small>
 
-The party charmed the Waning One <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> and then imprisoned him in his own sword <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>. He is held in **Silverbane**, which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, 2026-09-14)</small>
+The party charmed the Waning One <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> and then imprisoned him in his own sword <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>. He is held in **Silverbane**, which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 ## They are waking up
 

@@ -26,6 +26,7 @@ fields:
   status: Ghost; present to Dolores Weathervein through her ring
   residence: The Weathervein Tomb, Saltmarsh
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions.md
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - "Oral Histories: The Inevitables, 2021-11-12"
 - "Oral Histories: The Inevitables, 2021-11-13"

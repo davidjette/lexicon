@@ -40,6 +40,7 @@ fields:
   status: Concluded
   arcs: Party 1; The Sinister Secret of Saltmarsh; Dunwater; Salvage Operation; Isle of the Abbey; Gabriella's honeymoon; the Saltmarsh finale; the kobold one-shot; White Plume Mountain; the Eldabrin
 sources:
+- sources/dave/2026-09-14-twatmarsh-open-questions-2.md
 - sources/dave/2026-09-14-nico-docs-questions.md
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - sources/documents/2026-09-14-dolores-weathervein-concept.md

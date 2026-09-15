@@ -23,6 +23,7 @@ fields:
   type: The industrial labour population of the Cogs; mostly human
   alternativename: The Cogs (collective)
 sources:
+- sources/dave/2026-09-14-nico-docs-questions.md
 - worldanvil/sources/site/home.txt
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/key-figures.txt

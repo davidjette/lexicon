@@ -75,11 +75,11 @@ House Tudyx is one of the five elven houses descended from [the Banefae](/organi
 
 ## Peter Glans
 
-"Glans met Alen and woo’d her". <small>(Arc VI, Time of Troubles Part VII.)</small> Glans was Tylerjinex, the great copper dragon, and she married him mainly to take care of her adopted child, the Infanta of the God of Puzzles; the god of puzzles also helped Tylerjinex build [the Penteract](/places/the-penteract/). The tellings of the marriage gathered in the Time of Troubles mark as true that "Glans was a philanderer but not after her death", and mark as false that "Glans left to secretly build Despondos". <small>(Arc VI, Time of Troubles Part VII.)</small> The rhyme has it that the queen and "the king of the worms" "were married a fortnight / but left on bad terms". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> "Worms" in the rhyme means wyrms, and the king is Glans. <small>(Dave, 2026-09-14)</small>
+"Glans met Alen and woo’d her". <small>(Arc VI, Time of Troubles Part VII.)</small> Glans was Tylerjinex, the great copper dragon, and she married him mainly to take care of her adopted child, the Infanta of the God of Puzzles; the god of puzzles also helped Tylerjinex build [the Penteract](/places/the-penteract/). The tellings of the marriage gathered in the Time of Troubles mark as true that "Glans was a philanderer but not after her death", and mark as false that "Glans left to secretly build Despondos". <small>(Arc VI, Time of Troubles Part VII.)</small> The rhyme has it that the queen and "the king of the worms" "were married a fortnight / but left on bad terms". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> "Worms" in the rhyme means wyrms, and the king is Glans. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small>
 
 ## The Tudyx Cube
 
-Dave: "Yes, its a Tudyx Cube, a puzzle box which is intended to store the deck of many things, the same kind of item which Tylerjynex and Alen Tudyx discovered and began producing with the help of the Infanta of Puzzles, one of which was used to store a Perfect Moonstone, which later was used to power the Anachron". <small>(Dave, 2026-09-14)</small> See [the Anachron](/items/the-anachron/).
+Dave: "Yes, its a Tudyx Cube, a puzzle box which is intended to store the deck of many things, the same kind of item which Tylerjynex and Alen Tudyx discovered and began producing with the help of the Infanta of Puzzles, one of which was used to store a Perfect Moonstone, which later was used to power the Anachron". <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-breakout.md)</small> See [the Anachron](/items/the-anachron/).
 
 ## Her death
 

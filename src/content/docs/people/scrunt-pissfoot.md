@@ -40,6 +40,7 @@ fields:
   weight: Unknown
   status: Dead, killed in White Plume Mountain
 sources:
+- sources/dave/2026-09-14-nico-docs-questions.md
 - "Oral Histories: The Inevitables, 2021-11-11"
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
 - "Oral Histories: The Inevitables, 2021-08-15"
