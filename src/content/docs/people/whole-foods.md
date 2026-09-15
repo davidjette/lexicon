@@ -1,21 +1,23 @@
 ---
 title: Whole Foods
 description: Calcifer's nanny in the Veil Building penthouse, freed from a Children of Ember ritual floor, and dead by a means that is not recorded.
+tags:
+  - Whole Foods
+  - Calcifer
+  - Esther Crona
+  - Richard Blaze
+  - Children of Ember
+  - The Vault Underground
+  - Veil Building
+  - Nanny
+  - Sharn
+  - Zeir residence
+  - Faith Zeir
+  - Crona-Blaze
+image:
+  src: /images/uploads/whole-foods-mu34emd2.webp
 type: person
 kind: people
-tags:
-- Whole Foods
-- Calcifer
-- Esther Crona
-- Richard Blaze
-- Children of Ember
-- The Vault Underground
-- Veil Building
-- Nanny
-- Sharn
-- Zeir residence
-- Faith Zeir
-- Crona-Blaze
 icon: fa-hands-holding-child
 fields:
   rpgAlignment: Unknown
@@ -32,9 +34,9 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/esther-crona.txt
-- sources/site/sharn-episode-summaries.txt
-- worldanvil/CANON.md
+  - sources/site/esther-crona.txt
+  - sources/site/sharn-episode-summaries.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: whole-foods-person
