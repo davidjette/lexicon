@@ -1,20 +1,22 @@
 ---
 title: Halle Barrias
 description: Barrias Ruby-Eye's sister, who works for the Company and brings the dire warning that calls the old crew to The Starsong Awakens.
+tags:
+  - Halle Barrias
+  - Holly Barrias
+  - Halle
+  - Holly
+  - Barrias Ruby-Eye
+  - Starfall
+  - The Starsong Awakens
+  - The Company
+  - Nimbus Corp
+  - Caprica
+  - Star scream
+image:
+  src: /images/uploads/halle-barrias-the-company-crystal-tower-mu36zsr7.webp
 type: person
 kind: people
-tags:
-- Halle Barrias
-- Holly Barrias
-- Halle
-- Holly
-- Barrias Ruby-Eye
-- Starfall
-- The Starsong Awakens
-- The Company
-- Nimbus Corp
-- Caprica
-- Star scream
 fields:
   gender: Female
   species: Unknown
@@ -22,13 +24,13 @@ fields:
   relatives: Barrias Ruby-Eye (brother)
   status: Unknown
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-- "Oral Histories: The Inevitables, 2024-01-21"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-11"
-- "Oral Histories: The Inevitables, 2024-06-12"
-- "Oral Histories: The Inevitables, 2024-07-11"
-- CANON.md 5ai (Oral Histories)
+  - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
+  - 'Oral Histories: The Inevitables, 2024-01-21'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-11'
+  - 'Oral Histories: The Inevitables, 2024-06-12'
+  - 'Oral Histories: The Inevitables, 2024-07-11'
+  - CANON.md 5ai (Oral Histories)
 ---
 
 **Species unknown · Employee of the Company · Sister of Barrias Ruby-Eye · Status unknown**
