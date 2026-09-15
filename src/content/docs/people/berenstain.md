@@ -101,5 +101,5 @@ Berenstain sits on the Council of Sharn as the Underhive's permanent representat
 **Items:** a pair of enchanted gloves carrying the *move earth* cantrip, given to the Inevitables as thanks for the Cogborn.
 
 **Hobbies & Pets:** Unknown.
+![Berenstain and Blair.png](/images/uploads/berenstain-and-blair-mu2z3l3y.webp)
 
-![Berenstain, Doppler and Snodgrass clear a cave-in.png](/images/uploads/berenstain-doppler-and-snodgrass-clear-a-mu0yjr8t.webp)
