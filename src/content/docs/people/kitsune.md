@@ -1,21 +1,24 @@
 ---
 title: Kitsune
 description: The archfey patron of Jane Corso and then of Gemma Corso, owed the heart of the Emperor, which he has since called a riddle.
+tags:
+  - Kitsune
+  - Katsune
+  - Archfey
+  - Fey patron
+  - Gemma Corso
+  - Foxtale
+  - Jane Corso
+  - Jane Croso
+  - Lalo Kitsune
+  - The heart of the Emperor
+  - Emperor Caius III
+  - The Summer Palace
+image:
+  src: /images/uploads/korth-ep-14-the-listening-post-gemma-cor-mu329a53.webp
+  alt: Gemma Corso and her archfey patron Kitsune
 type: person
 kind: people
-tags:
-- Kitsune
-- Katsune
-- Archfey
-- Fey patron
-- Gemma Corso
-- Foxtale
-- Jane Corso
-- Jane Croso
-- Lalo Kitsune
-- The heart of the Emperor
-- Emperor Caius III
-- The Summer Palace
 icon: fa-paw
 fields:
   rpgAlignment: Unknown
@@ -32,31 +35,28 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- "Oral Histories: The Inevitables, 2026-07-06"
-- "Oral Histories: The Inevitables, 2026-07-07"
-- "Oral Histories: The Inevitables, 2026-07-15"
-- sources/site/korth-episode-summaries.txt
-- session-2026-07-15-recap.md
-- session-2026-07-17-recap.md
-- session-2026-08-07-recap.md
-- session-2026-09-11-summary.md
+  - 'Oral Histories: The Inevitables, 2026-07-06'
+  - 'Oral Histories: The Inevitables, 2026-07-07'
+  - 'Oral Histories: The Inevitables, 2026-07-15'
+  - sources/site/korth-episode-summaries.txt
+  - session-2026-07-15-recap.md
+  - session-2026-07-17-recap.md
+  - session-2026-08-07-recap.md
+  - session-2026-09-11-summary.md
 published: '2026-09-14'
-image:
-  src: /images/album/gemma-corso-and-kitsune-1.webp
-  alt: Gemma Corso and her archfey patron Kitsune
 gallery:
-- src: /images/album/gemma-corso-and-kitsune-2.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
-- src: /images/album/gemma-corso-and-kitsune-3.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
-- src: /images/gallery/2026-07-11-01.webp
-  alt: Gemma dances with Kitsune
-  caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
-- src: /images/gallery/2026-08-10-03.webp
-  alt: Gemma's dream of the fountain
-  caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
+  - src: /images/album/gemma-corso-and-kitsune-2.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-corso-and-kitsune-3.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/gallery/2026-07-11-01.webp
+    alt: Gemma dances with Kitsune
+    caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
+  - src: /images/gallery/2026-08-10-03.webp
+    alt: Gemma's dream of the fountain
+    caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
 ---
 
 **Archfey · Warlock patron of Gemma Corso · Active**
