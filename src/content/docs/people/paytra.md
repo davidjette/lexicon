@@ -109,3 +109,5 @@ Paytra is a Battle Master fighter and a warlock of an archfey patron. She has wi
 
 - **Kol Hanaka:** her partner in the Bureau of Compliance. Nico called the pair their "Jedi and sith builds". <small>(Oral Histories: The Inevitables, 2024-07-11)</small>
 - **Marcel Martel** and **Umwelt:** devotees of the Red Eye whom she and Kol met up with.
+
+![Paytra - Onboard The Terrasque - The Starsong Awakens.png](/images/uploads/paytra-onboard-the-terrasque-the-starson-mu3al3tt.webp)
