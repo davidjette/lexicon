@@ -1,26 +1,30 @@
 ---
 title: Katrina McQuaid
 description: A tabaxi ranger and swashbuckler, a two-star Astral Command captain and grey cloak of OSR3G who chose the Demoncore over civilians.
+tags:
+  - Katrina McQuaid
+  - Catrina McQuade
+  - Catrina
+  - Kat
+  - Cat
+  - Grey Cloak Catrina
+  - Tabaxi
+  - Horizon Walker
+  - Astral Command
+  - OSR3G
+  - grey cloaks
+  - Demoncore
+  - Beholder War
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - Katrina McQuaid Memorial Prison
+image:
+  src: /images/uploads/katrina-mcquaid-mu32rfwe.webp
+  alt: Captain Katrina McQuaid
+  caption: A 3D miniature render of a white-furred feline woman in a red, blue and white uniform with a silver breastplate, holding two golden blades.
 type: person
 kind: people
-tags:
-- Katrina McQuaid
-- Catrina McQuade
-- Catrina
-- Kat
-- Cat
-- Grey Cloak Catrina
-- Tabaxi
-- Horizon Walker
-- Astral Command
-- OSR3G
-- grey cloaks
-- Demoncore
-- Beholder War
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- Katrina McQuaid Memorial Prison
 fields:
   gender: Female
   species: Tabaxi
@@ -28,42 +32,38 @@ fields:
   rpgAlignment: Unknown
   status: Dead
 sources:
-- Desktop/D&D/Starfall TNG/sydiot_97396464.pdf
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- "Oral Histories: The Inevitables, 2023-01-27"
-- "Oral Histories: The Inevitables, 2023-04-01"
-- "Oral Histories: The Inevitables, 2023-04-04"
-- "Oral Histories: The Inevitables, 2023-04-05"
-- "Oral Histories: The Inevitables, 2023-04-14"
-- "Oral Histories: The Inevitables, 2023-04-22"
-- "Oral Histories: The Inevitables, 2024-02-24"
-- "Oral Histories: The Inevitables, 2024-03-09"
-- "Oral Histories: The Inevitables, 2024-03-16"
-- "Oral Histories: The Inevitables, 2024-05-03"
-- "Oral Histories: The Inevitables, 2024-05-31"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-11"
-- "The Starsong Awakens site (JL Byrd): Company dossier"
-image:
-  src: /images/chat/2023-04-01-731982798471474.webp
-  alt: "Captain Katrina McQuaid"
-  caption: "A 3D miniature render of a white-furred feline woman in a red, blue and white uniform with a silver breastplate, holding two golden blades."
+  - Desktop/D&D/Starfall TNG/sydiot_97396464.pdf
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-04-01'
+  - 'Oral Histories: The Inevitables, 2023-04-04'
+  - 'Oral Histories: The Inevitables, 2023-04-05'
+  - 'Oral Histories: The Inevitables, 2023-04-14'
+  - 'Oral Histories: The Inevitables, 2023-04-22'
+  - 'Oral Histories: The Inevitables, 2024-02-24'
+  - 'Oral Histories: The Inevitables, 2024-03-09'
+  - 'Oral Histories: The Inevitables, 2024-03-16'
+  - 'Oral Histories: The Inevitables, 2024-05-03'
+  - 'Oral Histories: The Inevitables, 2024-05-31'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-11'
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
 gallery:
-- src: /images/chat/2024-05-03-1494683397801553.webp
-  alt: "Grey Cloak Catrina miniature"
-  caption: "A HeroForge miniature of a striped cat-folk swordswoman in armour and a grey cloak, raising a rapier."
-- src: /images/chat/2023-04-01-1366341010817483.webp
-  alt: "Katrina McQuaid as an Academy cadet"
-  caption: "A 3D miniature render of a white-furred feline woman with a striped tail in a red flight suit and harness."
-- src: /images/chat/2024-05-03-988508572679848.webp
-  alt: "Grey Cloak Catrina, side view"
-  caption: "A HeroForge miniature of a striped cat-folk swordswoman in a grey cloak, seen from the side with her sword raised."
-- src: /images/chat/2024-05-03-1524843971580556.webp
-  alt: "Cat-folk warrior in white"
-  caption: "A grey cat-folk woman in a fur-collared white and black uniform holds a dagger."
-- src: /images/chat/2024-05-03-1010365460647603.webp
-  alt: "Tabby cat-folk in a hooded coat"
-  caption: "A grey tabby cat-folk wearing a high-collared grey hooded coat looks out of a window."
+  - src: /images/chat/2024-05-03-1494683397801553.webp
+    alt: Grey Cloak Catrina miniature
+    caption: A HeroForge miniature of a striped cat-folk swordswoman in armour and a grey cloak, raising a rapier.
+  - src: /images/chat/2023-04-01-1366341010817483.webp
+    alt: Katrina McQuaid as an Academy cadet
+    caption: A 3D miniature render of a white-furred feline woman with a striped tail in a red flight suit and harness.
+  - src: /images/chat/2024-05-03-988508572679848.webp
+    alt: Grey Cloak Catrina, side view
+    caption: A HeroForge miniature of a striped cat-folk swordswoman in a grey cloak, seen from the side with her sword raised.
+  - src: /images/chat/2024-05-03-1524843971580556.webp
+    alt: Cat-folk warrior in white
+    caption: A grey cat-folk woman in a fur-collared white and black uniform holds a dagger.
+  - src: /images/chat/2024-05-03-1010365460647603.webp
+    alt: Tabby cat-folk in a hooded coat
+    caption: A grey tabby cat-folk wearing a high-collared grey hooded coat looks out of a window.
 ---
 
 **Tabaxi · Ranger 5 / Fighter 3 / Rogue 3 · Captain, Astral Command · Dead**
