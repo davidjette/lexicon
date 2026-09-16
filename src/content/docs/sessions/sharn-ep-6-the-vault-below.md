@@ -14,7 +14,7 @@ tags:
   - Velvet Table Society
   - Project EDEN
 image:
-  src: /images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3l3z4v.webp
+  src: /images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mjrfb.webp
   alt: 'Episode 6: The Vault Below'
   caption: 'Episode 6: The Vault Below'
 sidebar:
@@ -84,3 +84,7 @@ The trio left with Grady Marsh and the memory of Calcifer's birth still locked i
 > There they found Grady Marsh, shaken but alive, along with two emaciated prisoners kept as "blood cattle" for Malrik Zeir's feeding.
 
 ![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario with captives Lorian and Grady Marsh in Zeir lower city bedroom - Lower city Sharn - Lattern Disctric.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3l4pli.webp)
+
+![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario outside the nightclub The Vault Below - Lower city Sharn - Lattern Disctric.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mk21t.webp)
+
+![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario fight Children of Ember Cultist.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mkjxj.webp)
