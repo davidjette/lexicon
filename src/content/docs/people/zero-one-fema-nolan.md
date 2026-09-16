@@ -138,3 +138,5 @@ She believes purpose and not hatred should shape a survivor's path, and says so 
 - **Uriel Qualanthri** — resurrected by her, with a diamond. Empress of the Empire. Alive.
 
 **Hobbies & Pets:** Unknown. She farms.
+
+![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3kqoi5.webp)
