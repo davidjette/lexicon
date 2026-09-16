@@ -1,21 +1,23 @@
 ---
 title: Asmodeus
 description: Archdevil of the Nine Hells who took the seat of the dead at Dis, was summoned to Waterdeep by Una, and was defeated at the threshold of the Egg.
+tags:
+  - Asmodeus
+  - the Prince of Darkness
+  - archdevil
+  - the Nine Hells
+  - the Asmodeans
+  - the cult of Asmodeus
+  - Tiffany House
+  - the Von Lampes
+  - Griddy Champagne
+  - Una
+  - the Infanta Crisis
+  - Steve Merlin
+image:
+  src: /images/uploads/asmodeus-in-the-waters-off-the-city-of-w-mu4jag1o.webp
 type: person
 kind: people
-tags:
-- Asmodeus
-- the Prince of Darkness
-- archdevil
-- the Nine Hells
-- the Asmodeans
-- the cult of Asmodeus
-- Tiffany House
-- the Von Lampes
-- Griddy Champagne
-- Una
-- the Infanta Crisis
-- Steve Merlin
 icon: fa-fire
 fields:
   gender: Male
@@ -25,43 +27,43 @@ fields:
   children: Steve Merlin, by a mortal woman
   status: Defeated at the threshold of the portal to the Egg; still rules the Hells after the Oblivia
 sources:
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IV.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part XII  - Lost Children.txt
-- sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
-- sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
-- sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VIII.txt
-- sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
-- "Oral Histories: Temporal Holdings, 2019-01-28"
-- "Oral Histories: Temporal Holdings, 2019-04-01"
-- "Oral Histories: Temporal Holdings, 2019-05-05"
-- "Oral Histories: Temporal Holdings, 2019-11-11"
-- "Oral Histories: Temporal Holdings, 2020-01-19"
-- "Oral Histories: Temporal Holdings, 2020-01-21"
-- "Oral Histories: Temporal Holdings, 2022-03-19"
-- "Oral Histories: Temporal Holdings, 2022-11-09"
-- "Oral Histories: Temporal Holdings, 2023-04-23"
-- "Oral Histories: The Inevitables, 2021-10-21"
-- "Oral Histories: The Inevitables, 2021-10-30"
-- "Oral Histories: The Inevitables, 2021-12-03"
-- "Oral Histories: The Inevitables, 2024-01-21"
-- "Oral Histories: The Inevitables, 2025-10-25"
-- "Oral Histories: The Inevitables, 2025-12-06"
-- CANON.md 5f
-- CANON.md 5i
-- CANON.md 5k
-- CANON.md 5ae (Oral Histories), C9, C36
-- CANON.md 5ae (Dead Man's Hand), Asmodeus may be named
-- CANON.md 5ai (Oral Histories), Tiffany House
-- CANON.md 5ai (The Five Zanzibars, Asmodeus at the threshold)
-- CANON.md, Oral Histories batch 4 (A4)
-- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
-- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
-- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-- sources/dave/2026-09-14-ages-rulings-a1-a30.md
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IV.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part XII  - Lost Children.txt
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
+  - sources/infantaverse/Temple Holdings LLC__6 - Time of Troubles__Time of Troubles - Part VIII.txt
+  - sources/infantaverse/Temple Holdings LLC__8 - End of the Infanta__END OF THE INFANTA - notes for a final encounter.txt
+  - 'Oral Histories: Temporal Holdings, 2019-01-28'
+  - 'Oral Histories: Temporal Holdings, 2019-04-01'
+  - 'Oral Histories: Temporal Holdings, 2019-05-05'
+  - 'Oral Histories: Temporal Holdings, 2019-11-11'
+  - 'Oral Histories: Temporal Holdings, 2020-01-19'
+  - 'Oral Histories: Temporal Holdings, 2020-01-21'
+  - 'Oral Histories: Temporal Holdings, 2022-03-19'
+  - 'Oral Histories: Temporal Holdings, 2022-11-09'
+  - 'Oral Histories: Temporal Holdings, 2023-04-23'
+  - 'Oral Histories: The Inevitables, 2021-10-21'
+  - 'Oral Histories: The Inevitables, 2021-10-30'
+  - 'Oral Histories: The Inevitables, 2021-12-03'
+  - 'Oral Histories: The Inevitables, 2024-01-21'
+  - 'Oral Histories: The Inevitables, 2025-10-25'
+  - 'Oral Histories: The Inevitables, 2025-12-06'
+  - CANON.md 5f
+  - CANON.md 5i
+  - CANON.md 5k
+  - CANON.md 5ae (Oral Histories), C9, C36
+  - CANON.md 5ae (Dead Man's Hand), Asmodeus may be named
+  - CANON.md 5ai (Oral Histories), Tiffany House
+  - CANON.md 5ai (The Five Zanzibars, Asmodeus at the threshold)
+  - CANON.md, Oral Histories batch 4 (A4)
+  - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+  - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+  - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 ---
 
 > Asmodeus is a fallen celestial, in this world, he would not have fallen yet or even be distinguishable from the greater fabric of divine creation that fills the world right now
