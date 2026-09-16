@@ -2,20 +2,20 @@
 title: Korth Ep 12 — The Price of Bread
 description: Zilspar Farm is destroyed and Zero-One taken; Dario breaks two more bells and Eric sells Sharn's airspace to Locke Pierce for bread.
 tags:
-- Korth Ep 12
-- The Price of Bread
-- Zilspar Farm
-- Zero-One
-- Izaak
-- Horn of Mourning
-- Bofric
-- Himmie Joffa
-- Locke Pierce
-- Noot Gunray
-- Project EDEN
-- Eye of Corruption
+  - Korth Ep 12
+  - The Price of Bread
+  - Zilspar Farm
+  - Zero-One
+  - Izaak
+  - Horn of Mourning
+  - Bofric
+  - Himmie Joffa
+  - Locke Pierce
+  - Noot Gunray
+  - Project EDEN
+  - Eye of Corruption
 image:
-  src: /images/uploads/korth-ep-12-the-price-of-bread-mu0sr9g6.webp
+  src: /images/uploads/korth-ep-12-the-price-of-bread-eric-figh-mu3lrctv.webp
 sidebar:
   order: 312
 type: report
@@ -23,30 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-12-E28094-the-price-of-bread-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
 gallery:
-- src: /images/gallery/2026-09-02-01.webp
-  alt: The battle at Zilspar Farm
-  caption: On a burning, corpse-strewn field, a bearded man in a red coat with a shield, a dragonborn swinging a warhammer and a woman with a blade fight grey armoured undead soldiers.
-- src: /images/gallery/2026-09-02-02.webp
-  alt: The battle at Zilspar Farm
-  caption: Sir Dario Argentino on his black panther swings a warhammer, Eric the Cleric charges and Gemma Corso looses violet magic at armoured undead soldiers across a burning field.
-- src: /images/gallery/2026-09-02-03.webp
-  alt: Gemma fights an E.D.E.N. unit
-  caption: On a wet wooden platform, Gemma Corso swings a glowing blade at a skeletal armoured soldier, with burning buildings and crackling lightning towers behind.
-- src: /images/gallery/2026-09-02-04.webp
-  alt: E.D.E.N. units among the ruins
-  caption: A bearded man in a red coat with a shield stands between two skeletal armoured soldiers among the burning ruins of a farm, a panther rider and crackling lightning behind them.
-- src: /images/gallery/2026-09-03-01.webp
-  alt: Jessica Grimpledink and the wedding gift
-  caption: In a dark gothic apartment, Jessica Grimpledink reaches toward a floating black and red crystalline object by the fireplace while Gemma Corso lounges on a sofa and Eric the Cleric and Sir Dario Argentino look on. Jessica has found that Esther's wedding gift is both black and red Khyber.
-- src: /images/gallery/2026-09-03-03.webp
-  alt: Esther's wedding gift
-  caption: A spiked black crystalline object with a glowing red heart floats in a dark room framed by gold pillars.
+  - src: /images/gallery/2026-09-02-01.webp
+    alt: The battle at Zilspar Farm
+    caption: On a burning, corpse-strewn field, a bearded man in a red coat with a shield, a dragonborn swinging a warhammer and a woman with a blade fight grey armoured undead soldiers.
+  - src: /images/gallery/2026-09-02-02.webp
+    alt: The battle at Zilspar Farm
+    caption: Sir Dario Argentino on his black panther swings a warhammer, Eric the Cleric charges and Gemma Corso looses violet magic at armoured undead soldiers across a burning field.
+  - src: /images/gallery/2026-09-02-03.webp
+    alt: Gemma fights an E.D.E.N. unit
+    caption: On a wet wooden platform, Gemma Corso swings a glowing blade at a skeletal armoured soldier, with burning buildings and crackling lightning towers behind.
+  - src: /images/gallery/2026-09-02-04.webp
+    alt: E.D.E.N. units among the ruins
+    caption: A bearded man in a red coat with a shield stands between two skeletal armoured soldiers among the burning ruins of a farm, a panther rider and crackling lightning behind them.
+  - src: /images/gallery/2026-09-03-01.webp
+    alt: Jessica Grimpledink and the wedding gift
+    caption: In a dark gothic apartment, Jessica Grimpledink reaches toward a floating black and red crystalline object by the fireplace while Gemma Corso lounges on a sofa and Eric the Cleric and Sir Dario Argentino look on. Jessica has found that Esther's wedding gift is both black and red Khyber.
+  - src: /images/gallery/2026-09-03-03.webp
+    alt: Esther's wedding gift
+    caption: A spiked black crystalline object with a glowing red heart floats in a dark room framed by gold pillars.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 12 · DM: Dave**
@@ -85,3 +85,5 @@ They flew to [Zilspar Farm](/places/zilspar/) anyway. Eight [E.D.E.N.](/organiza
 ## Consequences
 
 [Locke Pierce](/people/locke-pierce/) has taken the skies of Sharn — a capital ship settled out of the fog to hand out fruit in orderly lines. The papers blamed the Chancellor for the temple, and a dossier from the Hundreds confirmed no survivors at Zilspar. Ten bells remain, at least one in Korth. The party reached level 12 and intends to hand Noot to someone who can raise him.
+
+![Korth Ep 12 — The Price of Bread - Jessica Grimpledink, Zero of Sharn, Gemma, Eric and Dario - Upper city Sharn Penthouse.png](/images/uploads/korth-ep-12-the-price-of-bread-jessica-g-mu3lrroi.webp)
