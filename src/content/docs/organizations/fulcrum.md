@@ -14,6 +14,8 @@ tags:
   - Izzak
   - Breland
   - Rebellion
+image:
+  src: /images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3h8csv.webp
 type: organization
 kind: organizations
 icon: fa-wheat-awn
