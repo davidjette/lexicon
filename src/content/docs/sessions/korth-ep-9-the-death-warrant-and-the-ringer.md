@@ -2,18 +2,18 @@
 title: Korth Ep 9 — The Death Warrant and the Ringer
 description: An Imperial death warrant names the Korranberg genocide; the undead Sedda Deeptempura leads the party to Corn's horn and tells them of his hammer, KNELL.
 tags:
-- Korth Ep 9
-- The Death Warrant and the Ringer
-- Sedda Deeptempura
-- Velen Marsk
-- Kaius III
-- KNELL
-- Corn's Horn
-- Corn's Folio
-- Egg Roll
-- Consecration Rite
-- John C. LeBeefe
-- Maelis Dorn
+  - Korth Ep 9
+  - The Death Warrant and the Ringer
+  - Sedda Deeptempura
+  - Velen Marsk
+  - Kaius III
+  - KNELL
+  - Corn's Horn
+  - Corn's Folio
+  - Egg Roll
+  - Consecration Rite
+  - John C. LeBeefe
+  - Maelis Dorn
 image:
   src: /images/uploads/korth-ep-9-the-death-warrant-and-the-rin-mu0smfsy.webp
 sidebar:
@@ -23,28 +23,28 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
-- "Oral Histories: The Inevitables, 2026-08-09"
+  - sources/site/korth-episode-summaries.txt
+  - 'Oral Histories: The Inevitables, 2026-08-09'
 published: '2026-09-10'
 wa:
   slug: korth-ep-9-E28094-the-death-warrant-and-the-ringer-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
 gallery:
-- src: /images/gallery/2026-08-10-01.webp
-  alt: Reading Egg Roll's map
-  caption: Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat study a large parchment map in a dark hall. Egg Roll's mother gives Gemma the boy's hand-drawn map of the foundry level.
-- src: /images/gallery/2026-08-10-02.webp
-  alt: The chain ladder into the depths
-  caption: Three figures descend a long ladder into a black shaft, one of them falling away from it. The trio take a 300-foot chain ladder down, and Eric falls.
-- src: /images/gallery/2026-08-10-05.webp
-  alt: Eric's dream in the Glitterhame
-  caption: A barefoot man in shorts stands in the glowing fungal cavern, watching a small boy face a huge fungus-covered figure. Eric dreams of John C. LeBeefe standing over a duergar boy in the Glitterhame.
-- src: /images/gallery/2026-08-10-07.webp
-  alt: Overseer Velen Marsk and his ogres
-  caption: In a shrine hall two huge undead ogres flank a smaller figure while the trio face them, one with a flaming sword. Overseer Velen Marsk and his risen ogres are still on shift in the sealed Black Dove shrine.
-- src: /images/gallery/2026-08-10-09.webp
-  alt: Meeting Sedda at the bottom of the shaft
-  caption: In a dark cavern of black water, Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat face a pale, decayed dwarf woman. At the bottom of the ladder the trio find Sedda Tiddes Deeptempura, three years dead.
+  - src: /images/gallery/2026-08-10-01.webp
+    alt: Reading Egg Roll's map
+    caption: Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat study a large parchment map in a dark hall. Egg Roll's mother gives Gemma the boy's hand-drawn map of the foundry level.
+  - src: /images/gallery/2026-08-10-02.webp
+    alt: The chain ladder into the depths
+    caption: Three figures descend a long ladder into a black shaft, one of them falling away from it. The trio take a 300-foot chain ladder down, and Eric falls.
+  - src: /images/gallery/2026-08-10-05.webp
+    alt: Eric's dream in the Glitterhame
+    caption: A barefoot man in shorts stands in the glowing fungal cavern, watching a small boy face a huge fungus-covered figure. Eric dreams of John C. LeBeefe standing over a duergar boy in the Glitterhame.
+  - src: /images/gallery/2026-08-10-07.webp
+    alt: Overseer Velen Marsk and his ogres
+    caption: In a shrine hall two huge undead ogres flank a smaller figure while the trio face them, one with a flaming sword. Overseer Velen Marsk and his risen ogres are still on shift in the sealed Black Dove shrine.
+  - src: /images/gallery/2026-08-10-09.webp
+    alt: Meeting Sedda at the bottom of the shaft
+    caption: In a dark cavern of black water, Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat face a pale, decayed dwarf woman. At the bottom of the ladder the trio find Sedda Tiddes Deeptempura, three years dead.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 9 · DM: Dave**
@@ -80,3 +80,5 @@ Following the map further they found a 300-foot chain ladder into the depths. At
 [Sir Dario Argentino](/people/sir-dario-argentino/) performed last rites and slew Sedda at her own asking, and carried her remains up through the camp; the clan consecrated her beside the unknown soldier. Madame Tso returned the Belt of Dwarvenkind to Eric and blessed the trio's claim on the folio, the horn and all they had recovered. In Corn's study a hidden stair beneath the rug and a spell-sealed chest, opened by a key Gemma already carried, gave up the lead-bound folio, a *Tome of Understanding* and the brass horn. The kin named the hammer: **[KNELL](/items/knell/)**. Egg Roll was still missing.
 
 The hammer itself stayed below: "the hammer that can break the bells lies somewhere below, in the dark, with Vuldrach." <small>(Oral Histories: The Inevitables, 2026-08-09)</small> The party recovered it from the hoard of [Valtrex](/species/valtrex/) in [Korth Ep 11](/sessions/korth-ep-11-the-domain-of-valtrex/).
+
+![Korth Ep 9 — The Death Warrant and the Ringer - Eric's dream of Egg Role speaking with the Voice in Glitterhame.png](/images/uploads/korth-ep-9-the-death-warrant-and-the-rin-mu3lob3l.webp)
