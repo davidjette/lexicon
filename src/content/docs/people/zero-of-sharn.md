@@ -1,21 +1,24 @@
 ---
 title: Zero of Sharn
 description: The Silver Flame cleric who gave up her name to the rite, cracked the Ghost Chip, and onboarded the three operatives who became the Inevitables.
+tags:
+  - Zero of Sharn
+  - Zero
+  - The Nest
+  - Silver Flame
+  - Fulcrum
+  - Zero-One
+  - Fema Nolan
+  - Izaak
+  - Izzak
+  - Ghost Chip
+  - BioTec
+  - Horn of Mourning
+image:
+  src: /images/site/zero-of-sharn-1.webp
+  alt: Zero of Sharn
 type: person
 kind: people
-tags:
-- Zero of Sharn
-- Zero
-- The Nest
-- Silver Flame
-- Fulcrum
-- Zero-One
-- Fema Nolan
-- Izaak
-- Izzak
-- Ghost Chip
-- BioTec
-- Horn of Mourning
 icon: fa-fire
 fields:
   rpgAlignment: Unknown - no source records an alignment
@@ -32,25 +35,22 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/site/biotec.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
-- episodes.md
-- factions.md
-- session-2026-08-28-summary.md
-- session-2026-08-28-summary-nichole-style.md
-- session-2026-09-04-summary.md
-- worldanvil/CANON.md
-- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/site/biotec.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - episodes.md
+  - factions.md
+  - session-2026-08-28-summary.md
+  - session-2026-08-28-summary-nichole-style.md
+  - session-2026-09-04-summary.md
+  - worldanvil/CANON.md
+  - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: e873d4b7-4a63-4e80-80dc-7cd41abe73c3
   uuid: fb1c6036-a261-405d-b6d4-995e8eecb5f4
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/zero-of-sharn-1.webp
-  alt: Zero of Sharn
 gallery:
   - src: /images/site/zero-of-sharn-2.webp
     alt: Zero
@@ -103,7 +103,7 @@ It was in that room that Dario stood up and told every faith on the continent th
 
 ## The family
 
-Zero's mother is **Zero-One**, leader of Fulcrum, the woman who resurrected Uriel Qualanthri and put the diamond in her skull. Zero's half-brother is **Izaak**, the Fulcrum liaison and artificer who implanted the party's Ghost Chips and fitted a prosthetic leg he did not build. Fulcrum has since been dismantled across the continent — pulled apart posting by posting, as though the Empire had obtained a list of every name, with executions running for days — and all of it began after Izaak disappeared. Zilspar Farm was burned with its people boarded inside. Zero-One was taken alive by E.D.E.N. units and has not been recovered. **The Nightingale refuses to believe Izaak informed on anyone and insists he is still alive.**
+Zero's mother is **Zero-One**, leader of Fulcrum, the woman who resurrected Uriel Qualanthri and put the diamond in her skull. Her father is deceased Fulcrum founder **John Stamos**. Zero's older half-brother is **Izaak**, the Fulcrum liaison and artificer who implanted the party's Ghost Chips and fitted a prosthetic leg he did not build. Fulcrum has since been dismantled across the continent — pulled apart posting by posting, as though the Empire had obtained a list of every name, with executions running for days — and all of it began after Izaak disappeared. Zilspar Farm was burned with its people boarded inside. Zero-One was taken alive by E.D.E.N. units and has not been recovered. **The Nightingale refuses to believe Izaak informed on anyone and insists he is still alive.**
 
 Jessica Grimpledink has said that if they cannot save Zero-One, they must not let her be taken. She was already taken.
 
