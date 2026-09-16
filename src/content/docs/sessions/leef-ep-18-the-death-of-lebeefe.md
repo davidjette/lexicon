@@ -1,34 +1,36 @@
 ---
 title: Leef Ep 18 — The Death of LeBeefe
 description: The party makes its attempt on Grand Duke John C. LeBeefe in Newham, and LeBeefe dies.
+tags:
+  - Leef Ep 18
+  - The Death of LeBeefe
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Newham
+  - John C. LeBeefe
+  - LaBeefe
+  - Grand Duke
+  - Fall of Newham
+  - Gemma Corso
+  - Sir Dario Argentino
+  - Eric the Cleric
+image:
+  src: /images/uploads/leef-ep-18-the-death-of-lebeefe-gemma-da-mu3hrr49.webp
 sidebar:
   order: 168
 type: report
 kind: sessions
-tags:
-- Leef Ep 18
-- The Death of LeBeefe
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Newham
-- John C. LeBeefe
-- LaBeefe
-- Grand Duke
-- Fall of Newham
-- Gemma Corso
-- Sir Dario Argentino
-- Eric the Cleric
 icon: fa-scroll
 fields: {}
 sources:
-- sources/dave/2026-09-14-legranouille-is-lebeefe.md
-- "Oral Histories: The Inevitables, 2025-11-22"
-- "Oral Histories: The Inevitables, 2025-12-05"
-- "Oral Histories: The Inevitables, 2026-09-11"
-- sources/site/rebel-factions.txt
-- sources/site/korth-episode-summaries.txt
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - sources/dave/2026-09-14-legranouille-is-lebeefe.md
+  - 'Oral Histories: The Inevitables, 2025-11-22'
+  - 'Oral Histories: The Inevitables, 2025-12-05'
+  - 'Oral Histories: The Inevitables, 2026-09-11'
+  - sources/site/rebel-factions.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 published: '2026-09-14'
 ---
 
