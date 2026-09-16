@@ -2,18 +2,18 @@
 title: Korth Ep 4 — Road to Korth
 description: Locke arms the trio for the Mournlands, Kitsune reveals Gemma's inherited pact, and three civil servants die for their identities in Korth.
 tags:
-- Korth Ep 4
-- Road to Korth
-- Kitsune
-- Deirdre Moro
-- Graham Cracker
-- Sir Beef Taco
-- Korranberg Foundry
-- Mt. Silicon
-- Fulcrum
-- Uriel Qualanthri
-- Lexicon
-- Air Bubble
+  - Korth Ep 4
+  - Road to Korth
+  - Kitsune
+  - Deirdre Moro
+  - Graham Cracker
+  - Sir Beef Taco
+  - Korranberg Foundry
+  - Mt. Silicon
+  - Fulcrum
+  - Uriel Qualanthri
+  - Lexicon
+  - Air Bubble
 image:
   src: /images/uploads/korth-ep-4-road-to-korth-mu0sbkkr.webp
 sidebar:
@@ -23,30 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-4-E28094-road-to-korth-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
 gallery:
-- src: /images/gallery/2026-07-11-01.webp
-  alt: Gemma dances with Kitsune
-  caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
-- src: /images/gallery/2026-07-12-17.webp
-  alt: 'Dossier: The Fatanya Nyel'
-  caption: 'A prop document from the Mt. Silicon Archive: Intelligence Dossier HB-CHORUS-13, "The Fatanya Nyel - Hell''s Bells - Instruments of the Eternal Nightfall", from the Office of the Progenitor, with a threat table and an assessment of the threat. It is part of the sealed intelligence dossier on the Hell''s Bells that Locke Pierce gives the trio.'
-- src: /images/gallery/2026-07-12-18.webp
-  alt: 'Dossier: The Greenbluff Bell'
-  caption: A prop document page headed "Sec. 02 The Greenbluff Bell (Notes from the Progenitor)", a first-hand account of recovering the Fatanya Nyel from the Greenbluff mine. It belongs to the Hell's Bells dossier from Locke Pierce.
-- src: /images/gallery/2026-07-12-19.webp
-  alt: 'Dossier: The Black Noise'
-  caption: A prop document page from the Mt. Silicon Archive, HB-CHORUS-13 leaf two, headed "Sec. 03 The Black Noise", with boxed notes titled "Silence does not stop it", "The living unravel" and "The dead wake".
-- src: /images/gallery/2026-07-12-20.webp
-  alt: Korranberg Foundry Trust schedule of works
-  caption: 'A prop document: a Chancellery of Sharn Office of Seizures evidence tag clipped to the second leaf of the Korranberg Foundry Trust''s private schedule of works, listing thirteen great castings commissioned, eleven delivered and two in the yard. It is the partially burned foundry schedule recovered from the Lower City church.'
-- src: /images/gallery/2026-07-12-01.webp
-  alt: The disguised trio in Deirdre Moro's apartment
-  caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
+  - src: /images/gallery/2026-07-11-01.webp
+    alt: Gemma dances with Kitsune
+    caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
+  - src: /images/gallery/2026-07-12-17.webp
+    alt: 'Dossier: The Fatanya Nyel'
+    caption: 'A prop document from the Mt. Silicon Archive: Intelligence Dossier HB-CHORUS-13, "The Fatanya Nyel - Hell''s Bells - Instruments of the Eternal Nightfall", from the Office of the Progenitor, with a threat table and an assessment of the threat. It is part of the sealed intelligence dossier on the Hell''s Bells that Locke Pierce gives the trio.'
+  - src: /images/gallery/2026-07-12-18.webp
+    alt: 'Dossier: The Greenbluff Bell'
+    caption: A prop document page headed "Sec. 02 The Greenbluff Bell (Notes from the Progenitor)", a first-hand account of recovering the Fatanya Nyel from the Greenbluff mine. It belongs to the Hell's Bells dossier from Locke Pierce.
+  - src: /images/gallery/2026-07-12-19.webp
+    alt: 'Dossier: The Black Noise'
+    caption: A prop document page from the Mt. Silicon Archive, HB-CHORUS-13 leaf two, headed "Sec. 03 The Black Noise", with boxed notes titled "Silence does not stop it", "The living unravel" and "The dead wake".
+  - src: /images/gallery/2026-07-12-20.webp
+    alt: Korranberg Foundry Trust schedule of works
+    caption: 'A prop document: a Chancellery of Sharn Office of Seizures evidence tag clipped to the second leaf of the Korranberg Foundry Trust''s private schedule of works, listing thirteen great castings commissioned, eleven delivered and two in the yard. It is the partially burned foundry schedule recovered from the Lower City church.'
+  - src: /images/gallery/2026-07-12-01.webp
+    alt: The disguised trio in Deirdre Moro's apartment
+    caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 4 · DM: Dave**
@@ -81,3 +81,5 @@ Disguised as the high-elf bureaucrat **Deirdre Moro**, her assistant **Graham Cr
 ## Consequences
 
 The trio entered the Imperial capital as three murdered civil servants, with a safehouse in the heart of Korth and a mission: infiltrate the [the Korranberg Foundry](/places/the-korranberg-foundry/), reach the Summer Palace upriver, and stop the ringing of the bells.
+
+![Korth Ep 4 — Road to Korth - Gemma and Kitsune Dream.png](/images/uploads/korth-ep-4-road-to-korth-gemma-and-kitsu-mu3ljixz.webp)
