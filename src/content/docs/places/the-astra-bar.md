@@ -1,20 +1,22 @@
 ---
 title: The Astra Bar
 description: The Upper City bar where BioTec staff drink after work, where Zero of Sharn worked Martin Kross for weeks, and where Izaak briefed the Inevitables.
+tags:
+  - The Astra Bar
+  - The Astra
+  - Sharn
+  - Upper City
+  - Zero of Sharn
+  - Martin Kross
+  - Izaak
+  - Izzak
+  - BioTec
+  - Ghost Chip
+  - Joanne Menka
+image:
+  src: /images/uploads/sharn-ep-1-welcome-to-sharn-gemma-dario-mu3nhgrh.webp
 type: landmark
 kind: places
-tags:
-- The Astra Bar
-- The Astra
-- Sharn
-- Upper City
-- Zero of Sharn
-- Martin Kross
-- Izaak
-- Izzak
-- BioTec
-- Ghost Chip
-- Joanne Menka
 icon: fa-martini-glass
 fields:
   type: Bar
@@ -27,9 +29,9 @@ fields:
   defenses: None
   history: Zero of Sharn worked Martin Kross here over several weeks for the Ghost Chip intelligence; Izaak briefed the future Inevitables here on their first mission
 sources:
-- sources/site/biotec.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+  - sources/site/biotec.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: the-astra-bar-location
