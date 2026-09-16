@@ -61,3 +61,5 @@ Continuing their investigation, the Trio visited the Gremlin Lantern Sake Bar, w
 The Kross family became the trio's entire Lower City network — shopkeeper, pawnbroker, and later the tunnel into [R.U.S.T.](/organizations/r-u-s-t/). Two missing-person threads, Martin Kross and Grady Marsh, converged on the same district, and both would resolve underground.
 
 > Following the lead to his apartment, they discovered signs of a struggle, blood on the floor, and a matchbook advertising The Vault Below, a notorious Lower City club and gambling house.
+
+![Sharn Ep 5 — Welcome to the Neighborhood - Eric, Gemma and Dario at Gremlin Lantern Sake Bar - Sharn lower city.png](/images/uploads/sharn-ep-5-welcome-to-the-neighborhood-e-mu3mj29k.webp)
