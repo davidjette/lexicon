@@ -1,70 +1,70 @@
 ---
 title: Korth Ep 14 — The Listening Post
 description: The trio rescue Izaak from the Imperial listening post in Korth, send him to Sharn, and sail to the Grand Lodge, where Kitsune names his price.
+tags:
+  - Korth Ep 14
+  - The Listening Post
+  - Listening Station
+  - Izaak
+  - Ace
+  - Bantide Moro
+  - Nightingale
+  - Director Chandler
+  - Ilse Brandt
+  - Juan Valdez
+  - Freyd Merkin
+  - Stockton Thar
+  - Rotunda Goose
+  - Saturnia
+  - Kitsune
+  - FOXTALE
+  - The Grand Lodge
+  - Summer Palace
+image:
+  src: /images/uploads/korth-ep-14-the-listening-post-gemma-cor-mu3lu2db.webp
+  alt: 'Korth Listening Station - Korth Episode: The Listening Post'
+  caption: 'Korth Listening Station - Korth Episode: The Listening Post'
 sidebar:
   order: 314
 type: report
 kind: sessions
-tags:
-- Korth Ep 14
-- The Listening Post
-- Listening Station
-- Izaak
-- Ace
-- Bantide Moro
-- Nightingale
-- Director Chandler
-- Ilse Brandt
-- Juan Valdez
-- Freyd Merkin
-- Stockton Thar
-- Rotunda Goose
-- Saturnia
-- Kitsune
-- FOXTALE
-- The Grand Lodge
-- Summer Palace
 icon: fa-scroll
 fields: {}
 sources:
-- C:/dev/sharn-campaign/session-2026-09-11-summary.md
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - C:/dev/sharn-campaign/session-2026-09-11-summary.md
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
 published: '2026-09-14'
-image:
-  src: /images/album/korth-listening-station.webp
-  alt: 'Korth Listening Station - Korth Episode: The Listening Post'
-  caption: 'Korth Listening Station - Korth Episode: The Listening Post'
 gallery:
-- src: /images/album/passing-the-hall-of-submission.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
-  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are walking past the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
-- src: /images/album/the-hall-of-submission.webp
-  alt: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
-  caption: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
-- src: /images/album/korth-undead-corpse-transfer.webp
-  alt: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
-  caption: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
-- src: /images/album/gemma-as-deirdre-moro-with-director-chandler.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Ko
-  caption: 'Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Korth Episode: The Listening Post'
-- src: /images/album/extracting-izaak.webp
-  alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
-  caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
-- src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
-  caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
-- src: /images/album/teleportation-circle-in-deirdre-moros-apartment.webp
-  alt: Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to reb
-  caption: 'Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to rebel''s Izaak and Bantide Moro (Nightingale) in the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Listening Post'
-- src: /images/album/gemma-corso-and-kitsune-1.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
-- src: /images/album/gemma-corso-and-kitsune-2.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
-- src: /images/album/gemma-corso-and-kitsune-3.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/passing-the-hall-of-submission.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are walking past the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+  - src: /images/album/the-hall-of-submission.webp
+    alt: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+    caption: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+  - src: /images/album/korth-undead-corpse-transfer.webp
+    alt: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
+    caption: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-as-deirdre-moro-with-director-chandler.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Ko
+    caption: 'Gemma Corso (Disguised as Deirdre Moro) and Korth Listening Station Director Chandler - The Korth Listening Station - Korth Episode: The Listening Post'
+  - src: /images/album/extracting-izaak.webp
+    alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
+    caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
+    caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
+  - src: /images/album/teleportation-circle-in-deirdre-moros-apartment.webp
+    alt: Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to reb
+    caption: 'Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to rebel''s Izaak and Bantide Moro (Nightingale) in the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-corso-and-kitsune-1.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-corso-and-kitsune-2.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-corso-and-kitsune-3.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 14 · DM: Dave**
@@ -135,3 +135,5 @@ Gemma spent her free *contact other plane* going to sleep, and dreamed the boat 
 ## Consequences
 
 The session ended with the trio as paying guests inside the Grand Lodge, the building [Korth Ep 13](/sessions/korth-ep-13-the-condemned/)'s assignment had sent them to investigate, two hours south of the Ivory Lazaret. Izaak and the Nightingale are safe in Sharn. The Empire's intelligence service holds a file on a callsign it cannot put a face to; its director has invited the Star Advocate to the opera; Merkin's summons is unanswered; and witnesses in the listening post heard Locke Pierce's name.
+
+![Korth Ep 14 — The Listening Post - Gemma Corso, Chancler of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, in torture room.png](/images/uploads/korth-ep-14-the-listening-post-gemma-cor-mu3lujbd.webp)
