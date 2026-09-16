@@ -1,21 +1,24 @@
 ---
 title: Digma Beeve
 description: Halfling furniture trader, founder of Fulcrum, and now Comptroller of the Republic of Talenta - the man who writes the cover story.
+tags:
+  - Digma Beeve
+  - Digma
+  - Beeve
+  - Fulcrum
+  - Republic of Talenta
+  - Comptroller
+  - Newham
+  - Halfling
+  - Richard Blaze
+  - Last War
+  - Heroes of Leef
+  - Mror Holds
+image:
+  src: /images/site/digma-beeve-1.webp
+  alt: Digma Beeve
 type: person
 kind: people
-tags:
-- Digma Beeve
-- Digma
-- Beeve
-- Fulcrum
-- Republic of Talenta
-- Comptroller
-- Newham
-- Halfling
-- Richard Blaze
-- Last War
-- Heroes of Leef
-- Mror Holds
 icon: fa-scroll
 fields:
   rpgAlignment: Unknown
@@ -32,22 +35,19 @@ fields:
   height: Short - halfling
   weight: Unknown
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/images/rebel-factions/05.jpg
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/images/rebel-factions/05.jpg
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: digma-beeve-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/digma-beeve-1.webp
-  alt: Digma Beeve
 gallery:
-- src: /images/gallery/2025-12-30-04.webp
-  alt: Digma Beeve in a leather coat
-  caption: Digma Beeve, a bald, smiling halfling in a brown leather coat, holds a small book against a stone wall.
+  - src: /images/gallery/2025-12-30-04.webp
+    alt: Digma Beeve in a leather coat
+    caption: Digma Beeve, a bald, smiling halfling in a brown leather coat, holds a small book against a stone wall.
 ---
 
 **Halfling · Furniture trader · Founder of Fulcrum · Comptroller of the Republic of Talenta · Alive**
@@ -114,3 +114,5 @@ It was Digma who made the fall of [John C. LeBeefe](/people/john-c-lebeefe/) pos
 - **Thadric "The Colonel" Rourke** — old ally out of Leef, who sent the Heroes to him. Alive.
 - **The Inevitables** — he armed them politically in Newham and has fed them intelligence since. Alive.
 - **Calcifer** — the child he declared dead in order to save. Alive.
+
+![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3ksnvs.webp)
