@@ -1,28 +1,30 @@
 ---
 title: Sharn Ep 19 — The Council of Sharn
 description: The first Council of Sharn convenes, the executions begin, Esther's body vanishes, and a second Hell's Bell is found in a crate.
+tags:
+  - Sharn Ep 19
+  - The Council of Sharn
+  - Council of Sharn
+  - Chancellor of Sharn
+  - Black Dove Hospital
+  - Fantanya Nyel
+  - Hell's Bell
+  - Sister Nora
+  - Hillary Heinrick
+  - Joanne Menka
+  - Blair
+  - Greenbluff
+image:
+  src: /images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-mu3k34tf.webp
 sidebar:
   order: 219
 type: report
 kind: sessions
-tags:
-- Sharn Ep 19
-- The Council of Sharn
-- Council of Sharn
-- Chancellor of Sharn
-- Black Dove Hospital
-- Fantanya Nyel
-- Hell's Bell
-- Sister Nora
-- Hillary Heinrick
-- Joanne Menka
-- Blair
-- Greenbluff
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: sharn-ep-19-E28094-the-council-of-sharn-report
