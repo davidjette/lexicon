@@ -1,21 +1,24 @@
 ---
 title: Izaak
 description: Fulcrum's liaison to the Nest for nine years, ranger, chip artificer, and the man whose disappearance began the dismantling of Fulcrum.
+tags:
+  - Izaak
+  - Izzak
+  - Fulcrum
+  - The Nest
+  - Sharn Watch
+  - Iron Veil
+  - Ranger
+  - Artificer
+  - Ghost Chip
+  - Zero-One
+  - Fema Nolan
+  - Zero of Sharn
+image:
+  src: /images/uploads/izaak-mu3ki5zo.webp
+  alt: Izaak
 type: person
 kind: people
-tags:
-- Izaak
-- Izzak
-- Fulcrum
-- The Nest
-- Sharn Watch
-- Iron Veil
-- Ranger
-- Artificer
-- Ghost Chip
-- Zero-One
-- Fema Nolan
-- Zero of Sharn
 icon: fa-feather-pointed
 fields:
   rpgAlignment: Unknown
@@ -32,32 +35,29 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- "Korth Ep 14 summary (C:/dev/sharn-campaign/session-2026-09-11-summary.md)"
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/images/rebel-factions/08.jpg
-- "Oral Histories: The Inevitables, 2026-01-23"
-- "Oral Histories: The Inevitables, 2026-07-12"
-- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - Korth Ep 14 summary (C:/dev/sharn-campaign/session-2026-09-11-summary.md)
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/images/rebel-factions/08.jpg
+  - 'Oral Histories: The Inevitables, 2026-01-23'
+  - 'Oral Histories: The Inevitables, 2026-07-12'
+  - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: izaak-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/izaak-1.webp
-  alt: Izaak
 gallery:
-- src: /images/album/izaak-in-the-listening-station.webp
-  alt: Dr. Ilsa Brandt, A death trooper, and a black-coated torturer overseeing rebel prisoner Izaak - The Korth Listening Stat
-  caption: 'Dr. Ilsa Brandt, A death trooper, and a black-coated torturer overseeing rebel prisoner Izaak - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
-- src: /images/album/teleportation-circle-in-deirdre-moros-apartment.webp
-  alt: Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to reb
-  caption: 'Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to rebel''s Izaak and Bantide Moro (Nightingale) in the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Listening Post'
-- src: /images/album/extracting-izaak.webp
-  alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
-  caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
+  - src: /images/album/izaak-in-the-listening-station.webp
+    alt: Dr. Ilsa Brandt, A death trooper, and a black-coated torturer overseeing rebel prisoner Izaak - The Korth Listening Stat
+    caption: 'Dr. Ilsa Brandt, A death trooper, and a black-coated torturer overseeing rebel prisoner Izaak - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
+  - src: /images/album/teleportation-circle-in-deirdre-moros-apartment.webp
+    alt: Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to reb
+    caption: 'Gemma Corso drawing a teleportation circle while Chancellor of Sharn Eric the Cleric and Sir Dario Argentino tend to rebel''s Izaak and Bantide Moro (Nightingale) in the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Listening Post'
+  - src: /images/album/extracting-izaak.webp
+    alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
+    caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
 ---
 
 **Species unrecorded · Ranger and Artificer · Fulcrum liaison to the Nest · Rescued; in Sharn with the Nest**
