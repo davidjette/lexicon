@@ -15,7 +15,7 @@ tags:
   - Breland
   - Rebellion
 image:
-  src: /images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3h8csv.webp
+  src: /images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu4jl1c2.webp
 type: organization
 kind: organizations
 icon: fa-wheat-awn
