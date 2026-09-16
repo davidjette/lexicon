@@ -1,24 +1,26 @@
 ---
 title: The Council of Sharn
 description: Six factions with nothing in common invented a government in a dead woman's living room, and her body went missing the same day.
+tags:
+  - Council of Sharn
+  - Provisional government
+  - Eric the Cleric
+  - Chancellor of Sharn
+  - Jessica Grimpledink
+  - Digma Beeve
+  - Zero-One
+  - Blair
+  - Sister Nora
+  - Hillary Heinrick
+  - Joanne Menka
+  - Black Doves
+  - Silver Flame
+  - R.U.S.T.
+  - Fantanya Nyel
+image:
+  src: /images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-mu3k4keq.webp
 type: article
 kind: lore
-tags:
-- Council of Sharn
-- Provisional government
-- Eric the Cleric
-- Chancellor of Sharn
-- Jessica Grimpledink
-- Digma Beeve
-- Zero-One
-- Blair
-- Sister Nora
-- Hillary Heinrick
-- Joanne Menka
-- Black Doves
-- Silver Flame
-- R.U.S.T.
-- Fantanya Nyel
 icon: fa-scale-balanced
 fields:
   type: Provisional government, trials and executions
@@ -30,10 +32,10 @@ fields:
   unresolved: Esther Crona's body stolen from the morgue by two elven women believed to be Black Doves
   discovery: A replica Fatanya Nyel crated inside the Black Dove hospital, with an unfinished tower waiting for it
 sources:
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/CANON.md
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/CANON.md
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-council-of-sharn-article
