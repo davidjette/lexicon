@@ -194,3 +194,5 @@ From her character document:
 - Brother Guido Meatball: bound by his book to serve her; she tried to kill him.
 - Anders Solmor: courted her; Nico, 2022-09-16: "Nah, Delores likes pirate Anders".
 - [Aqueus](/people/aqueus/): the seraph pinned to her tomb.
+
+![Dolores Weathervein Winged - Saltmarsh - Ghost of Twatmarsh Campaign.png](/images/uploads/dolores-weathervein-winged-saltmarsh-gho-mu3kf9l1.webp)
