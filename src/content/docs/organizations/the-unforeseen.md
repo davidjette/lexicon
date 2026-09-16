@@ -1,21 +1,23 @@
 ---
 title: The Unforeseen
 description: Four Imperial operatives swore in a ruined village to grow in power together. A decade later they are the Empire, and the enemy.
+tags:
+  - Unforeseen
+  - The Unforeseen
+  - Esther
+  - Uriel
+  - Locke
+  - LeBeefe
+  - Arden Crest
+  - Richard Blaze
+  - Episode 9
+  - Crimson Sun
+  - The Hundreds
+  - Campaign 1
+image:
+  src: /images/uploads/the-unforeseen-john-c-lebeefe-esther-cro-mu3h0twc.webp
 type: organization
 kind: organizations
-tags:
-- Unforeseen
-- The Unforeseen
-- Esther
-- Uriel
-- Locke
-- LeBeefe
-- Arden Crest
-- Richard Blaze
-- Episode 9
-- Crimson Sun
-- The Hundreds
-- Campaign 1
 icon: fa-skull
 fields:
   type: Secret, Brotherhood
@@ -25,18 +27,18 @@ fields:
   allies: Richard Blaze
   disbanded: Never formally. Two founders are dead; the surviving two are on opposite sides of the war.
 sources:
-- sources/wa/the-unforeseen-organization.txt
-- sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
-- sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
-- sources/wa/episode-3-28a2Cb2Cc29-E2809Cmassacre-on-the-talenta-plains-expressE2809D-dm3A-dave-report.txt
-- sources/wa/blood-of-vol-organization.txt
-- sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
-- sources/site/esther-crona.txt
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/CANON.md
-- "Oral Histories: The Inevitables, 2026-02-15"
+  - sources/wa/the-unforeseen-organization.txt
+  - sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
+  - sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
+  - sources/wa/episode-3-28a2Cb2Cc29-E2809Cmassacre-on-the-talenta-plains-expressE2809D-dm3A-dave-report.txt
+  - sources/wa/blood-of-vol-organization.txt
+  - sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
+  - sources/site/esther-crona.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/CANON.md
+  - 'Oral Histories: The Inevitables, 2026-02-15'
 published: '2026-09-10'
 wa:
   slug: the-unforeseen-organization
