@@ -1,19 +1,21 @@
 ---
 title: The Grand Aqueduct
 description: 'A recessed concrete waterway cutting across the Lower City: district boundary, water supply, and the shadowed road down to the Underhive.'
+tags:
+  - The Grand Aqueduct
+  - Grand Aqueduct
+  - Sharn
+  - Lower City
+  - Drain Snakes
+  - Underhive
+  - sewers
+  - undercity
+  - BioTec Security
+  - Forge of Binding
+image:
+  src: /images/uploads/the-grand-aqueduct-at-day-mu3ebmso.webp
 type: geography
 kind: places
-tags:
-- The Grand Aqueduct
-- Grand Aqueduct
-- Sharn
-- Lower City
-- Drain Snakes
-- Underhive
-- sewers
-- undercity
-- BioTec Security
-- Forge of Binding
 icon: fa-water
 fields:
   type: Aqueduct and waterway
@@ -25,9 +27,9 @@ fields:
   owner: The city; the Underhive controls the lower routes
   sensory: Cold running water, echo, drainage grates, standing damp and the smell of the undercity
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/ebt-7.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/ebt-7.txt
 published: '2026-09-10'
 wa:
   slug: the-grand-aqueduct-location
