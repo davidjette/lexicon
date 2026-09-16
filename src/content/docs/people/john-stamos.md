@@ -1,21 +1,24 @@
 ---
 title: John Stamos
 description: Breland's most beloved actor, a founder of Fulcrum, killed on the lightning rail and given a statue by the Empire that killed him.
+tags:
+  - John Stamos
+  - Stamos
+  - Fulcrum
+  - Zilspar
+  - Zispire
+  - Fema Nolan
+  - Zero-One
+  - Digma Beeve
+  - Richard Blaze
+  - Lady Glow
+  - John C. LeBeefe
+  - The Unforeseen
+image:
+  src: /images/site/john-stamos-1.webp
+  alt: John Stamos
 type: person
 kind: people
-tags:
-- John Stamos
-- Stamos
-- Fulcrum
-- Zilspar
-- Zispire
-- Fema Nolan
-- Zero-One
-- Digma Beeve
-- Richard Blaze
-- Lady Glow
-- John C. LeBeefe
-- The Unforeseen
 icon: fa-masks-theater
 fields:
   rpgAlignment: Unknown
@@ -32,20 +35,17 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- worldanvil/sources/wa/john-stamos-person.txt
-- worldanvil/sources/site/rebel-factions.txt
-- handouts/fulcrum-bell-file.md
-- handouts/hells-bells-dossier.md
-- factions.md
-- worldanvil/CANON.md
+  - worldanvil/sources/wa/john-stamos-person.txt
+  - worldanvil/sources/site/rebel-factions.txt
+  - handouts/fulcrum-bell-file.md
+  - handouts/hells-bells-dossier.md
+  - factions.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: john-stamos-person
   uuid: 69cc5f22-9601-44a3-984f-0f02c75398f4
   category: e17ea579-a469-4a08-90db-a8a85bc33534
-image:
-  src: /images/site/john-stamos-1.webp
-  alt: John Stamos
 ---
 
 **Actor and entertainer · Founding member of Fulcrum · Level Unknown · Deceased**
@@ -125,3 +125,5 @@ Two sources date his death differently. The rebel-faction record says *over a de
 > "Stamos died for this bell. So understand us, Chancellor. Fulcrum does not want the Empire reformed." — from Fulcrum's file on the Hell's Bells
 
 **Related:** [Richard Blaze](/people/richard-blaze/) · [Lady Glow](/people/lady-glow/) · [John C. LeBeefe](/people/john-c-lebeefe/) · [The Unforeseen](/organizations/the-unforeseen/) · [Esther Crona](/people/esther-crona/)
+
+![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3krhpv.webp)
