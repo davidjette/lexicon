@@ -97,3 +97,5 @@ Jessica's opening statement, in Nico's notes, begins "Thank you all for coming. 
 By nightfall a provisional government had formed. [Eric the Cleric](/people/eric-the-cleric/) was appointed **Chancellor of Sharn** and took residence in Esther's former penthouse. Warforged offered troops and engineers to restore the Cogs; Underhive drones joined the new Department of Infrastructure while keeping their subterranean autonomy. Sharn was free, and rebuilding had only begun.
 
 <small>End of the Sharn arc. Three years pass before [Korth Ep 1](/sessions/korth-ep-1-three-years-later/).</small>
+
+![Sharn Ep 19 — The Council of Sharn - Dario, Izaak, Berenstain, Blair being arrested - Sharn Upper City.jpg](/images/uploads/sharn-ep-19-the-council-of-sharn-dario-i-mu3lfn9c.webp)
