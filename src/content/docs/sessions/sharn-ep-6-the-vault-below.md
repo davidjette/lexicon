@@ -82,3 +82,5 @@ Their escape led them through a concealed trapdoor into the undercity tunnels, w
 The trio left with Grady Marsh and the memory of Calcifer's birth still locked in his head after a failed extraction. The search for a working ArcEye Crystallizer ran through the next eight episodes, and the Zeir brothers became the party's most immediate enemies.
 
 > There they found Grady Marsh, shaken but alive, along with two emaciated prisoners kept as "blood cattle" for Malrik Zeir's feeding.
+
+![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario with captives Lorian and Grady Marsh in Zeir lower city bedroom - Lower city Sharn - Lattern Disctric.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3l4pli.webp)
