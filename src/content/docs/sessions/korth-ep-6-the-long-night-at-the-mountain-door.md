@@ -2,18 +2,18 @@
 title: Korth Ep 6 — The Long Night at the Mountain Door
 description: A day of preparation at the Mountain Door ends in a night battle with the orc recon regiment, and the reliefs name the black dragon.
 tags:
-- Korth Ep 6
-- The Long Night at the Mountain Door
-- Braga Kul
-- King Corn
-- Valtrex
-- Deeptempura Clan
-- Glitterhame
-- Uruk-Hoth
-- Augury
-- Kitsune
-- LeBeefe
-- Mountain Door
+  - Korth Ep 6
+  - The Long Night at the Mountain Door
+  - Braga Kul
+  - King Corn
+  - Valtrex
+  - Deeptempura Clan
+  - Glitterhame
+  - Uruk-Hoth
+  - Augury
+  - Kitsune
+  - LeBeefe
+  - Mountain Door
 image:
   src: /images/uploads/korth-ep-6-the-long-night-at-the-mountai-mu0sgd6o.webp
 sidebar:
@@ -23,29 +23,29 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
-- "Oral Histories: The Inevitables, 2026-07-12"
-- "Oral Histories: The Inevitables, 2026-07-15"
+  - sources/site/korth-episode-summaries.txt
+  - 'Oral Histories: The Inevitables, 2026-07-12'
+  - 'Oral Histories: The Inevitables, 2026-07-15'
 published: '2026-09-10'
 wa:
   slug: korth-ep-6-E28094-the-long-night-at-the-mountain-door-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
 gallery:
-- src: /images/gallery/2026-07-19-01.webp
-  alt: Dario rests beneath the trophy skull
-  caption: Two cloaked figures stand in a dim room where a dragonborn lies resting on a bed beneath a huge monstrous skull mounted on the wall. The trio hold the Mountain Door while Dario recovers, and Gemma studies a trophy skull hung there.
-- src: /images/gallery/2026-07-19-03.webp
-  alt: The fox mask at Braga Kul's cell
-  caption: The fox-masked woman stands at iron bars in a torchlit corridor, facing a captive orc inside the cell. Masked, Gemma Corso questions the prisoner Braga Kul.
-- src: /images/gallery/2026-07-19-04.webp
-  alt: Wall of fire at the rope bridge
-  caption: A roaring wall of fire runs along a rope bridge as orcs charge through the smoke toward it. Eric's wall of fire seals the doorway and burns the bridge away.
-- src: /images/gallery/2026-07-20-02.webp
-  alt: The reliefs of the Grand Stair
-  caption: A ruined stone chamber opens onto a stair descending into light, its walls carved with deep reliefs including a coiled dragon, the floor strewn with rubble and bones.
-- src: /images/gallery/2026-07-20-03.webp
-  alt: Before the reliefs of the Grand Stair
-  caption: Three figures, one armoured and two cloaked, stand before the carved dragon reliefs at the head of the stair down into the mountain.
+  - src: /images/gallery/2026-07-19-01.webp
+    alt: Dario rests beneath the trophy skull
+    caption: Two cloaked figures stand in a dim room where a dragonborn lies resting on a bed beneath a huge monstrous skull mounted on the wall. The trio hold the Mountain Door while Dario recovers, and Gemma studies a trophy skull hung there.
+  - src: /images/gallery/2026-07-19-03.webp
+    alt: The fox mask at Braga Kul's cell
+    caption: The fox-masked woman stands at iron bars in a torchlit corridor, facing a captive orc inside the cell. Masked, Gemma Corso questions the prisoner Braga Kul.
+  - src: /images/gallery/2026-07-19-04.webp
+    alt: Wall of fire at the rope bridge
+    caption: A roaring wall of fire runs along a rope bridge as orcs charge through the smoke toward it. Eric's wall of fire seals the doorway and burns the bridge away.
+  - src: /images/gallery/2026-07-20-02.webp
+    alt: The reliefs of the Grand Stair
+    caption: A ruined stone chamber opens onto a stair descending into light, its walls carved with deep reliefs including a coiled dragon, the floor strewn with rubble and bones.
+  - src: /images/gallery/2026-07-20-03.webp
+    alt: Before the reliefs of the Grand Stair
+    caption: Three figures, one armoured and two cloaked, stand before the carved dragon reliefs at the head of the stair down into the mountain.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 6 · DM: Dave**
@@ -80,3 +80,5 @@ In the morning the trio blasted apart the dwarven stair-gate, whose key had snap
 ## Consequences
 
 Dario woke fully recovered, one-eyed, the diamond gleaming in the socket. The Mountain Door was secured behind them and the way into the Glitterhame stood open. The whispers Eric had been hearing had stirred again at the trophy skull, and he told no one.
+
+![Korth Ep 6 — The Long Night at the Mountain Door - Eric and Gemma in disguise while dario heals.png](/images/uploads/korth-ep-6-the-long-night-at-the-mountai-mu3nmipy.webp)
