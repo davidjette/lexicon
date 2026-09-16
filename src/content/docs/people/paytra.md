@@ -112,4 +112,3 @@ Paytra is a Battle Master fighter and a warlock of an archfey patron. She has wi
 
 ![Paytra - Onboard The Terrasque - The Starsong Awakens.png](/images/uploads/paytra-onboard-the-terrasque-the-starson-mu3al3tt.webp)
 
-![Paytra - Onboard The Terrasque - The Starsong Awakens.png](/images/uploads/paytra-onboard-the-terrasque-the-starson-mu3b0mmv.webp)
