@@ -83,3 +83,5 @@ Exhausted but victorious, the Trio return to the underground cell. Sister Nora i
 ## Consequences
 
 Sharn split in two at the checkpoints, and the Lower City became the only ground the trio could work. Zilspar Farm 02 became their fallback and their prison, and the produce-delivery run out of it became their cover for re-entering the city.
+
+![Sharn Ep 3 — Zilspar Farms - Eric, Sister Nora, Gemma and Dario in Zilspar Cell.png](/images/uploads/sharn-ep-3-zilspar-farms-eric-sister-nor-mu3mhiqc.webp)
