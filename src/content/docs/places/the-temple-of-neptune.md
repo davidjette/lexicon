@@ -1,31 +1,33 @@
 ---
 title: The Temple of Neptune
 description: Saltmarsh's temple of the sea god, deeded to Neptune's Rejects and built over the Weathervein Tomb, later desecrated and robbed of its relic Weathervein.
+tags:
+  - The Temple of Neptune
+  - Temple of Neptune
+  - Neptune's sept
+  - the church
+  - Neptune
+  - Saltmarsh
+  - Oerth
+  - Weathervein Tomb
+  - Weathervein Masoleum
+  - Weathervein
+  - Dolores Weathervein
+  - Vivica Amphibiana Weathervein
+  - Count Crestus
+  - Wellgar Brinehanded
+  - Neptune's Rejects
+  - Skerrin Wavechaser
+  - Scarlet Brotherhood
+  - Gabriella Hellwood
+  - Jeremiah
+  - Papa Diaz
+  - Ghosts of Twatmarsh
+  - Dead Man's Hand
+image:
+  src: /images/uploads/temple-of-neptune-saltmarsh-ghost-of-twa-mu3ekotb.webp
 type: building
 kind: places
-tags:
-- The Temple of Neptune
-- Temple of Neptune
-- Neptune's sept
-- the church
-- Neptune
-- Saltmarsh
-- Oerth
-- Weathervein Tomb
-- Weathervein Masoleum
-- Weathervein
-- Dolores Weathervein
-- Vivica Amphibiana Weathervein
-- Count Crestus
-- Wellgar Brinehanded
-- Neptune's Rejects
-- Skerrin Wavechaser
-- Scarlet Brotherhood
-- Gabriella Hellwood
-- Jeremiah
-- Papa Diaz
-- Ghosts of Twatmarsh
-- Dead Man's Hand
 icon: fa-place-of-worship
 fields:
   type: Temple
@@ -36,23 +38,23 @@ fields:
   status: Desecrated; its holy relic Weathervein stolen
   includedLocations: The Temple Courtyard and its fountain; the catacombs; the Weathervein Tomb beneath the temple; the graveyard beside it
 sources:
-- sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
-- "Oral Histories: The Inevitables, 2021-09-11"
-- "Oral Histories: The Inevitables, 2021-09-12"
-- "Oral Histories: The Inevitables, 2021-09-13"
-- "Oral Histories: The Inevitables, 2021-09-17"
-- "Oral Histories: The Inevitables, 2021-09-18"
-- "Oral Histories: The Inevitables, 2021-11-12"
-- "Oral Histories: The Inevitables, 2021-11-13"
-- "Oral Histories: The Inevitables, 2021-11-18"
-- "Oral Histories: The Inevitables, 2022-01-07"
-- "Oral Histories: The Inevitables, 2022-04-23"
-- "Oral Histories: The Inevitables, 2025-05-31"
-- "Oral Histories: The Inevitables, 2025-09-22"
-- "Oral Histories: The Inevitables, 2026-03-07"
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3052)
-- sources/dave/2026-09-14-oral-histories-cast.md
-- sources/dave/2026-09-14-twatmarsh-open-questions.md
+  - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
+  - 'Oral Histories: The Inevitables, 2021-09-11'
+  - 'Oral Histories: The Inevitables, 2021-09-12'
+  - 'Oral Histories: The Inevitables, 2021-09-13'
+  - 'Oral Histories: The Inevitables, 2021-09-17'
+  - 'Oral Histories: The Inevitables, 2021-09-18'
+  - 'Oral Histories: The Inevitables, 2021-11-12'
+  - 'Oral Histories: The Inevitables, 2021-11-13'
+  - 'Oral Histories: The Inevitables, 2021-11-18'
+  - 'Oral Histories: The Inevitables, 2022-01-07'
+  - 'Oral Histories: The Inevitables, 2022-04-23'
+  - 'Oral Histories: The Inevitables, 2025-05-31'
+  - 'Oral Histories: The Inevitables, 2025-09-22'
+  - 'Oral Histories: The Inevitables, 2026-03-07'
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3052)
+  - sources/dave/2026-09-14-oral-histories-cast.md
+  - sources/dave/2026-09-14-twatmarsh-open-questions.md
 published: '2026-09-14'
 ---
 
