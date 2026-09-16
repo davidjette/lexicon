@@ -1,28 +1,32 @@
 ---
 title: Neptune's Rejects
 description: The second party of Ghosts of Twatmarsh, who held Saltmarsh's Temple of Neptune and sailed as its navy, called by the town the Daughters of Neptune.
+tags:
+  - Neptune's Rejects
+  - Daughters of Neptune
+  - Neptune's Navy
+  - Neptune's Pirates
+  - Ghosts of Twatmarsh
+  - Twatmarsh
+  - adventuring party
+  - Gabriella Hellwood
+  - Scrunt Pissfoot
+  - Dolores Weathervein
+  - Oshi
+  - MacGruber
+  - Bimz
+  - Brother Guido Meatball
+  - Temple of Neptune
+  - Sea Ghost
+  - Stinking Albatross
+  - Saltmarsh
+  - Neptune
+image:
+  src: /images/uploads/neptune-s-rejects-dolores-weathervein-br-mu3g23yi.webp
+  alt: Neptune's Rejects as miniatures in a town square
+  caption: 'Neptune''s Rejects: Nico''s group render of the crew''s miniatures'
 type: organization
 kind: organizations
-tags:
-- Neptune's Rejects
-- Daughters of Neptune
-- Neptune's Navy
-- Neptune's Pirates
-- Ghosts of Twatmarsh
-- Twatmarsh
-- adventuring party
-- Gabriella Hellwood
-- Scrunt Pissfoot
-- Dolores Weathervein
-- Oshi
-- MacGruber
-- Bimz
-- Brother Guido Meatball
-- Temple of Neptune
-- Sea Ghost
-- Stinking Albatross
-- Saltmarsh
-- Neptune
 icon: fa-people-group
 fields:
   type: Adventuring party; Saltmarsh's navy
@@ -32,26 +36,22 @@ fields:
   founding: Named 2021-09-17
   status: Unknown
 sources:
-- "Oral Histories: The Inevitables, 2022-07-14"
-- sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
-- "Oral Histories: The Inevitables, 2021-09-10"
-- "Oral Histories: The Inevitables, 2021-09-13"
-- "Oral Histories: The Inevitables, 2021-09-17"
-- "Oral Histories: The Inevitables, 2021-09-18"
-- "Oral Histories: The Inevitables, 2021-11-03"
-- "Oral Histories: The Inevitables, 2021-11-13"
-- "Oral Histories: The Inevitables, 2021-11-15"
-- "Oral Histories: The Inevitables, 2021-11-28"
-- "Oral Histories: The Inevitables, 2022-03-13"
-- "Oral Histories: The Inevitables, 2022-06-21"
-- "Oral Histories: The Inevitables, 2022-06-30"
-- "Oral Histories: The Inevitables, 2022-07-10"
-- "Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)"
+  - 'Oral Histories: The Inevitables, 2022-07-14'
+  - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
+  - 'Oral Histories: The Inevitables, 2021-09-10'
+  - 'Oral Histories: The Inevitables, 2021-09-13'
+  - 'Oral Histories: The Inevitables, 2021-09-17'
+  - 'Oral Histories: The Inevitables, 2021-09-18'
+  - 'Oral Histories: The Inevitables, 2021-11-03'
+  - 'Oral Histories: The Inevitables, 2021-11-13'
+  - 'Oral Histories: The Inevitables, 2021-11-15'
+  - 'Oral Histories: The Inevitables, 2021-11-28'
+  - 'Oral Histories: The Inevitables, 2022-03-13'
+  - 'Oral Histories: The Inevitables, 2022-06-21'
+  - 'Oral Histories: The Inevitables, 2022-06-30'
+  - 'Oral Histories: The Inevitables, 2022-07-10'
+  - 'Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)'
 published: '2026-09-14'
-image:
-  src: /images/chat/2022-07-14-8095571610467986.webp
-  alt: "Neptune's Rejects as miniatures in a town square"
-  caption: "Neptune's Rejects: Nico's group render of the crew's miniatures"
 ---
 
 > Yes now our band is tight - a holy woman who’s actually a grave robber, and her paladin and pet who are actually a pirate and a dragonrat
