@@ -2,18 +2,18 @@
 title: Korth Ep 8 — The Thirteenth Bell
 description: 'The forging of the bells is pieced together from the dead: Sedda rang the Thirteenth Bell, and King Corn was building a horn to answer it.'
 tags:
-- Korth Ep 8
-- The Thirteenth Bell
-- Sedda Deeptempura
-- King Corn
-- Sister Calvane
-- Maelis Dorn
-- General Tso
-- Madame Tso Teryaki
-- Black Khyber
-- Shavat
-- Corn's Folio
-- Succubus
+  - Korth Ep 8
+  - The Thirteenth Bell
+  - Sedda Deeptempura
+  - King Corn
+  - Sister Calvane
+  - Maelis Dorn
+  - General Tso
+  - Madame Tso Teryaki
+  - Black Khyber
+  - Shavat
+  - Corn's Folio
+  - Succubus
 image:
   src: /images/uploads/korth-ep-8-the-thirteenth-bell-mu0sino6.webp
 sidebar:
@@ -23,30 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-8-E28094-the-thirteenth-bell-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
 gallery:
-- src: /images/gallery/2026-07-28-01.webp
-  alt: Black Khyber on the forge floor
-  caption: Gemma Corso, Eric the Cleric in a white wig and red coat and Sir Dario Argentino study a document over a workbench laid with black-metal blades and a hammer. The forge floor is littered with tools and weapons of Black Khyber.
-- src: /images/gallery/2026-07-29-01.webp
-  alt: General Tso's search party
-  caption: In a dim corridor the trio meet a robed duergar and a duergar riding a giant spider. General Tso's search party, one of them mounted on a giant spider, is clearing the sealed rooms.
-- src: /images/gallery/2026-07-29-02.webp
-  alt: General Tso speaks with the dead
-  caption: A kneeling horned duergar casts green light over a wrapped corpse among bones, watched by Eric the Cleric in a white wig and red coat and Gemma Corso. General Tso casts speak with dead on Scallion Pancake.
-- src: /images/gallery/2026-07-29-03.webp
-  alt: The demon in Sister Calvane's rooms
-  caption: A red-skinned winged demon woman swoops over a ruined room as Eric the Cleric and Gemma Corso fight below. The nun in the sealed room transforms into a winged demon and is killed.
-- src: /images/gallery/2026-07-29-04.webp
-  alt: The undead Sister Calvane
-  caption: A ghostly green undead woman in tattered robes attacks as Eric the Cleric, Gemma Corso with a sword and Sir Dario Argentino with a flaming blade close in. Deeper in the suite, the undead thrall of the real Sister Calvane attacks.
-- src: /images/gallery/2026-07-29-05.webp
-  alt: Eric breaks and is restrained
-  caption: A wild-eyed Eric the Cleric in a white wig and red coat screams as Gemma Corso and Sir Dario Argentino hold him back in a ruined corridor. The voice overwhelms Eric and he has to be tackled and restrained.
+  - src: /images/gallery/2026-07-28-01.webp
+    alt: Black Khyber on the forge floor
+    caption: Gemma Corso, Eric the Cleric in a white wig and red coat and Sir Dario Argentino study a document over a workbench laid with black-metal blades and a hammer. The forge floor is littered with tools and weapons of Black Khyber.
+  - src: /images/gallery/2026-07-29-01.webp
+    alt: General Tso's search party
+    caption: In a dim corridor the trio meet a robed duergar and a duergar riding a giant spider. General Tso's search party, one of them mounted on a giant spider, is clearing the sealed rooms.
+  - src: /images/gallery/2026-07-29-02.webp
+    alt: General Tso speaks with the dead
+    caption: A kneeling horned duergar casts green light over a wrapped corpse among bones, watched by Eric the Cleric in a white wig and red coat and Gemma Corso. General Tso casts speak with dead on Scallion Pancake.
+  - src: /images/gallery/2026-07-29-03.webp
+    alt: The demon in Sister Calvane's rooms
+    caption: A red-skinned winged demon woman swoops over a ruined room as Eric the Cleric and Gemma Corso fight below. The nun in the sealed room transforms into a winged demon and is killed.
+  - src: /images/gallery/2026-07-29-04.webp
+    alt: The undead Sister Calvane
+    caption: A ghostly green undead woman in tattered robes attacks as Eric the Cleric, Gemma Corso with a sword and Sir Dario Argentino with a flaming blade close in. Deeper in the suite, the undead thrall of the real Sister Calvane attacks.
+  - src: /images/gallery/2026-07-29-05.webp
+    alt: Eric breaks and is restrained
+    caption: A wild-eyed Eric the Cleric in a white wig and red coat screams as Gemma Corso and Sir Dario Argentino hold him back in a ruined corridor. The voice overwhelms Eric and he has to be tackled and restrained.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 8 · DM: Dave**
@@ -78,3 +78,5 @@ At the end of the hall was a door sealed with a [Black Dove](/organizations/the-
 ## Consequences
 
 The Tso siblings made their offer: descend, find the remains of Sedda and [King Corn](/people/king-corn/), bring them back, and the kin would give the trio anything — hospitality, knowledge of the bells, and access to **Corn's folio**, the complete record of the forging of Shavat and the bells. Eric was now visibly compromised and still hiding how badly.
+
+![Korth Ep 8 — The Thirteenth Bell - Eric, Gemma and Dario fight the Vampiric undead Sister Calvane.png](/images/uploads/korth-ep-8-the-thirteenth-bell-eric-gemm-mu3ln2c7.webp)
