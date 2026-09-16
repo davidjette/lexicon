@@ -1,21 +1,21 @@
 ---
 title: Fulcrum
 description: The oldest rebel network on Khorvaire, rooted in the Breland farmsteads and now being dismantled name by name.
+tags:
+  - Fulcrum
+  - Zilspar
+  - Zispire
+  - Zero-One
+  - Fema Nolan
+  - Richard Blaze
+  - Digma Beeve
+  - John Stamos
+  - Izaak
+  - Izzak
+  - Breland
+  - Rebellion
 type: organization
 kind: organizations
-tags:
-- Fulcrum
-- Zilspar
-- Zispire
-- Zero-One
-- Fema Nolan
-- Richard Blaze
-- Digma Beeve
-- John Stamos
-- Izaak
-- Izzak
-- Breland
-- Rebellion
 icon: fa-wheat-awn
 fields:
   type: Rebel network
@@ -25,10 +25,10 @@ fields:
   status: Dismantled across the continent; remnant active
   allies: The Nest, the Silver Flame, the Republic of Talenta
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- worldanvil/CANON.md
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: fulcrum-organization
