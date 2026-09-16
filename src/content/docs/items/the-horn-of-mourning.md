@@ -1,21 +1,23 @@
 ---
 title: The Horn of Mourning
 description: 'King Corn''s coiled brass prototype horn: played with the fanfare of dawn it silences the bells, and being brass, it can be copied.'
+tags:
+  - Horn of Mourning
+  - Horn of Morning
+  - Corn's horn
+  - King Corn
+  - Corn Deeptempura
+  - fanfare of dawn
+  - arcane harmonics
+  - Bofric
+  - Gemma Corso
+  - Doppler Klink
+  - Hell's Bells
+  - Fantanya Nyel
+image:
+  src: /images/uploads/the-horn-of-mourning-mu3ihh8b.webp
 type: item
 kind: items
-tags:
-- Horn of Mourning
-- Horn of Morning
-- Corn's horn
-- King Corn
-- Corn Deeptempura
-- fanfare of dawn
-- arcane harmonics
-- Bofric
-- Gemma Corso
-- Doppler Klink
-- Hell's Bells
-- Fantanya Nyel
 icon: fa-bullhorn
 fields:
   itemType: Musical instrument — horn
@@ -30,12 +32,12 @@ fields:
   discovery: A cache beneath the study floor in King Corn's secret study, in a spell-sealed chest under a sliding panel and hidden stair
   sideEffects: Masks only while played. It does not break a bell.
 sources:
-- worldanvil/sources/site/korth-episode-summaries.txt
-- session-2026-08-07-recap.md
-- session-2026-08-21-recap.md
-- session-2026-08-28-summary.md
-- session-2026-09-04-summary.md
-- current-state.md
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - session-2026-08-07-recap.md
+  - session-2026-08-21-recap.md
+  - session-2026-08-28-summary.md
+  - session-2026-09-04-summary.md
+  - current-state.md
 published: '2026-09-10'
 wa:
   slug: the-horn-of-mourning-item
