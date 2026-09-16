@@ -2,18 +2,18 @@
 title: Sharn Ep 10 — The Queen of the Underhive
 description: In the Underhive the trio learn Queen B is Blair, daughter of John C. LeBeefe, and buy the Cogborn a way out with a promise.
 tags:
-- Sharn Ep 10
-- The Queen of the Underhive
-- Blair
-- Queen B
-- Underhive
-- Booti'slave
-- Martin Kross
-- John C. LeBeefe
-- Joseph Roberts
-- Black Veil
-- Stockton Thar
-- Vega Oracle
+  - Sharn Ep 10
+  - The Queen of the Underhive
+  - Blair
+  - Queen B
+  - Underhive
+  - Booti'slave
+  - Martin Kross
+  - John C. LeBeefe
+  - Joseph Roberts
+  - Black Veil
+  - Stockton Thar
+  - Vega Oracle
 image:
   src: /images/uploads/sharn-ep-10-the-queen-of-the-underhive-mu0rs2mq.webp
 sidebar:
@@ -23,30 +23,30 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-10-E28094-the-queen-of-the-underhive-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-- src: /images/gallery/2026-03-16-02.webp
-  alt: Snodgrass battles a giant crocodile
-  caption: Snodgrass grapples a giant crocodile in the flooded sewers while Doppler Klink casts, with Dario and Renn Tal behind at a round drain grate.
-- src: /images/gallery/2026-02-27-02.webp
-  alt: The Vega Oracle machine
-  caption: A fortune-telling cabinet with a grinning bearded face wreathed in flame above a crystal ball, in a brick-walled room.
-- src: /images/gallery/2026-02-27-04.webp
-  alt: Ring of Vega card
-  caption: 'A hand holds a red-jewelled ring before the oracle machine beside a card titled "Ring of Vega": "Speak my name to cast any spell of 6th level or lower (1 action). No components required. One-time use... maybe."'
-- src: /images/gallery/2026-03-16-01.webp
-  alt: Crocodiles in the flooded sewers
-  caption: Snodgrass, Doppler Klink, Dario, Gemma and Eric fight giant crocodiles in a flooded sewer tunnel.
-- src: /images/gallery/2026-03-16-05.webp
-  alt: Crocodiles and rats in the flooded sewer
-  caption: Gemma Corso, Eric the Cleric, Sir Dario Argentino, Snodgrass, Doppler Klink and Renn Tal fight giant crocodiles in a flooded sewer beneath Sharn on the way to the Underhive.
-- src: /images/gallery/2026-03-16-08.webp
-  alt: Crocodiles and rat swarms in the flooded sewer
-  caption: Snodgrass, Sir Dario Argentino and Eric the Cleric fight crocodiles and a swarm of rats in a flooded sewer while Gemma Corso and Doppler Klink cast and Renn Tal shelters behind them.
+  - src: /images/gallery/2026-03-16-02.webp
+    alt: Snodgrass battles a giant crocodile
+    caption: Snodgrass grapples a giant crocodile in the flooded sewers while Doppler Klink casts, with Dario and Renn Tal behind at a round drain grate.
+  - src: /images/gallery/2026-02-27-02.webp
+    alt: The Vega Oracle machine
+    caption: A fortune-telling cabinet with a grinning bearded face wreathed in flame above a crystal ball, in a brick-walled room.
+  - src: /images/gallery/2026-02-27-04.webp
+    alt: Ring of Vega card
+    caption: 'A hand holds a red-jewelled ring before the oracle machine beside a card titled "Ring of Vega": "Speak my name to cast any spell of 6th level or lower (1 action). No components required. One-time use... maybe."'
+  - src: /images/gallery/2026-03-16-01.webp
+    alt: Crocodiles in the flooded sewers
+    caption: Snodgrass, Doppler Klink, Dario, Gemma and Eric fight giant crocodiles in a flooded sewer tunnel.
+  - src: /images/gallery/2026-03-16-05.webp
+    alt: Crocodiles and rats in the flooded sewer
+    caption: Gemma Corso, Eric the Cleric, Sir Dario Argentino, Snodgrass, Doppler Klink and Renn Tal fight giant crocodiles in a flooded sewer beneath Sharn on the way to the Underhive.
+  - src: /images/gallery/2026-03-16-08.webp
+    alt: Crocodiles and rat swarms in the flooded sewer
+    caption: Snodgrass, Sir Dario Argentino and Eric the Cleric fight crocodiles and a swarm of rats in a flooded sewer while Gemma Corso and Doppler Klink cast and Renn Tal shelters behind them.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 10 · DM: Nichole**
@@ -81,3 +81,5 @@ Back in the tavern, the trio used the token and received a magical fortune, a po
 ## Consequences
 
 The trio secured a conditional alliance with the Underhive and a minor-wish ring. The crystallizer screens cut to black before the city saw what General Stockton Thar cast over the Ziggurat.
+
+![Sharn Ep 10 — The Queen of the Underhive - Sewer Fight with Snodgrass, Dario, Eric, Renn, Doppler and Gemma.png](/images/uploads/sharn-ep-10-the-queen-of-the-underhive-s-mu3l6sm3.webp)
