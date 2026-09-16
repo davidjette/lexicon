@@ -2,19 +2,19 @@
 title: Sharn Ep 6 — The Vault Below
 description: Beneath a Lower City nightclub the trio find blood cattle, the Children of Ember, and the memory buried in Grady Marsh's head.
 tags:
-- Sharn Ep 6
-- The Vault Below
-- Children of Ember
-- Malrik Zeir
-- Hallorn d'Lyrandar
-- Grady Marsh
-- Umbra
-- Blood Cattle
-- ArcEye Crystallizer
-- Velvet Table Society
-- Project EDEN
+  - Sharn Ep 6
+  - The Vault Below
+  - Children of Ember
+  - Malrik Zeir
+  - Hallorn d'Lyrandar
+  - Grady Marsh
+  - Umbra
+  - Blood Cattle
+  - ArcEye Crystallizer
+  - Velvet Table Society
+  - Project EDEN
 image:
-  src: /images/uploads/sharn-ep-6-the-vault-below-mu0r3y7z.webp
+  src: /images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3l3z4v.webp
   alt: 'Episode 6: The Vault Below'
   caption: 'Episode 6: The Vault Below'
 sidebar:
@@ -24,33 +24,33 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-6-E28094-the-vault-below-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-- src: /images/site/sharn-ep-6-the-vault-below-2.webp
-  alt: 'Episode 6: The Vault Below'
-  caption: 'Episode 6: The Vault Below'
-- src: /images/gallery/2026-01-24-01.webp
-  alt: The trio outside The Vault Below
-  caption: Eric, Gemma and Dario walk a neon-lit alley past the Gremlin's Lantern sign toward the glowing entrance of The Vault Below.
-- src: /images/gallery/2026-01-26-04.webp
-  alt: Vault Below drink menu
-  caption: 'The Vault Below drink menu in a fiery dragon border: Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.'
-- src: /images/gallery/2026-02-10-01.webp
-  alt: Letter from Hallorn d'Lyrandar to Malrik
-  caption: A letter to Malrik signed Hallorn d'Lyrandar about delayed Umbra shipments, the Lord Commander's threats and Eden being deployed against the Hundreds, with Hallorn's portrait.
-- src: /images/gallery/2026-02-10-02.webp
-  alt: Letter from Malrik Zier to Hallorn
-  caption: A sealed letter to Hallorn signed Malrik Zier about Faith, Esther and the EDEN units in the Mournlands, with Malrik's portrait.
-- src: /images/gallery/2026-02-10-05.webp
-  alt: Hallorn's letter on the Velvet Table Society
-  caption: A letter to Malrik signed Hallorn d'Lyrandar gossiping that Henry Heinrick has been invited to fill an opening in the Velvet Table Society after Cob Cornwell's death.
-- src: /images/gallery/2026-02-10-10.webp
-  alt: The trio at the door of The Vault Below
-  caption: Gemma, Eric and Dario stand before the orange neon sign of The Vault Below Club & Gambling, looking into the crowded club.
+  - src: /images/site/sharn-ep-6-the-vault-below-2.webp
+    alt: 'Episode 6: The Vault Below'
+    caption: 'Episode 6: The Vault Below'
+  - src: /images/gallery/2026-01-24-01.webp
+    alt: The trio outside The Vault Below
+    caption: Eric, Gemma and Dario walk a neon-lit alley past the Gremlin's Lantern sign toward the glowing entrance of The Vault Below.
+  - src: /images/gallery/2026-01-26-04.webp
+    alt: Vault Below drink menu
+    caption: 'The Vault Below drink menu in a fiery dragon border: Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.'
+  - src: /images/gallery/2026-02-10-01.webp
+    alt: Letter from Hallorn d'Lyrandar to Malrik
+    caption: A letter to Malrik signed Hallorn d'Lyrandar about delayed Umbra shipments, the Lord Commander's threats and Eden being deployed against the Hundreds, with Hallorn's portrait.
+  - src: /images/gallery/2026-02-10-02.webp
+    alt: Letter from Malrik Zier to Hallorn
+    caption: A sealed letter to Hallorn signed Malrik Zier about Faith, Esther and the EDEN units in the Mournlands, with Malrik's portrait.
+  - src: /images/gallery/2026-02-10-05.webp
+    alt: Hallorn's letter on the Velvet Table Society
+    caption: A letter to Malrik signed Hallorn d'Lyrandar gossiping that Henry Heinrick has been invited to fill an opening in the Velvet Table Society after Cob Cornwell's death.
+  - src: /images/gallery/2026-02-10-10.webp
+    alt: The trio at the door of The Vault Below
+    caption: Gemma, Eric and Dario stand before the orange neon sign of The Vault Below Club & Gambling, looking into the crowded club.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 6 · DM: Nichole**
