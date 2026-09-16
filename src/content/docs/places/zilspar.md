@@ -1,22 +1,24 @@
 ---
 title: Zilspar
 description: 'The Breland farm belt outside Sharn: Fulcrum''s stronghold, Donna''s Farm 02, and the birthplace of John Stamos. Destroyed by E.D.E.N.'
+tags:
+  - Zilspar
+  - Zispire
+  - Zilspar Farm 02
+  - Vilspar Co-operative
+  - Fulcrum
+  - Donna
+  - Zero-One
+  - Izaak
+  - Izzak
+  - John Stamos
+  - Project E.D.E.N.
+  - Sister Nora
+  - Zispire Farms
+image:
+  src: /images/uploads/zilspar-farms-02-mu3ewpyw.webp
 type: settlement
 kind: places
-tags:
-- Zilspar
-- Zispire
-- Zilspar Farm 02
-- Vilspar Co-operative
-- Fulcrum
-- Donna
-- Zero-One
-- Izaak
-- Izzak
-- John Stamos
-- Project E.D.E.N.
-- Sister Nora
-- Zispire Farms
 icon: fa-wheat-awn
 fields:
   type: Farming settlement and rebel stronghold
@@ -31,24 +33,24 @@ fields:
   owner: Fulcrum
   ruler: Donna, Silver Flame cleric, missing since the farm fell
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/factions.md
-- C:/dev/sharn-campaign/session-2026-08-28-summary.md
-- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/factions.md
+  - C:/dev/sharn-campaign/session-2026-08-28-summary.md
+  - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: zilspar-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
 gallery:
-- src: /images/gallery/2026-04-27-05.webp
-  alt: Donna at the farm door
-  caption: Donna, the red-haired Silver Flame cleric in pale robes, holds a clipboard beside a grey-bearded man with a basket of fresh vegetables at the door of a farm greenhouse.
+  - src: /images/gallery/2026-04-27-05.webp
+    alt: Donna at the farm door
+    caption: Donna, the red-haired Silver Flame cleric in pale robes, holds a clipboard beside a grey-bearded man with a basket of fresh vegetables at the door of a farm greenhouse.
 ---
 
 **Farming settlement · Breland, outside Sharn · Fulcrum stronghold · DESTROYED**
 
-*Also known as:* Zispire · Zilspar Farms · Zispire Farms · Vilspar (as the Co-operative is spelled in the Sharn Ep 2 summary)
+*Also known as:* Zispire · Zilspar Farms · Zispire Farms · 
 
 Zilspar was farmland: a belt of Breland <small>("Breeland" in the rebel-factions page)</small> farmsteads outside [Sharn](/places/sharn/) that fed the city, sent its produce in on delivery runs, and organised itself as the **Farm-Table Co-operative**. It was also the stronghold of **Fulcrum**, the oldest rebel network on the continent, and it was where three people from Sharn went whenever they needed a night of sleep nobody was watching. Three years after the Sharn rising a hundred E.D.E.N. troops came across the farms and laid them flat, burning the buildings over the people inside; one survivor was found.
 
@@ -56,7 +58,7 @@ The actor [John Stamos](/people/john-stamos/) was born here.
 
 ## The Co-operative as cover
 
-In Nico's notes for Sharn Ep 2, Gemma's Vilspar agricultural cover became the cover for the whole trio in Sharn. Their badges for the opening of [Posé](/places/pose/) read "Farm-to-Table Fresh" and "Vilspar Co-operative", under the names Hermione Granger, Harry Potter and Ronaldo Weasley. [Izaak](/people/izaak/), who is from Vilspar and had been working with Gemma for months, was the only rebel allowed to be seen in public with them, because all four passed as co-op employees who travel, work and live between Vilspar and Sharn. It was nothing unusual for [Richard Blaze](/people/richard-blaze/) to make trips to the Zilspar farms for his restaurants. <small>(Nico's DM notes, Episode 2)</small>
+In Nico's notes for Sharn Ep 2, Gemma's Zilspar agricultural cover became the cover for the whole trio in Sharn. Their badges for the opening of [Posé](/places/pose/) read "Farm-to-Table Fresh" and "Zilspar Co-operative", under the names Hermione Granger, Harry Potter and Ronaldo Weasley. [Izaak](/people/izaak/), who is from Vilspar and had been working with Gemma for months, was the only rebel allowed to be seen in public with them, because all four passed as co-op employees who travel, work and live between Zilspar and Sharn. It was nothing unusual for [Richard Blaze](/people/richard-blaze/) to make trips to the Zilspar farms for his restaurants. <small>(Nico's DM notes, Episode 2)</small>
 
 After the abduction of Sister Nora the Nest advised moving her out of the city to the Zilspar farms, and the trio carried her to Farm 02 in a bag of holding. Nico's first plan for revealing Richard Blaze as a founder of Fulcrum was also set at the farms, with Fema Nolan, Digma Beeve and Jessica Grimpledink meeting the trio in a private house. <small>(Nico's DM notes, Episode 2)</small>
 
