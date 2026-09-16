@@ -1,60 +1,60 @@
 ---
 title: Korth Ep 13 — The Condemned
 description: Gemma prosecutes her cover identity's own sister, and a heretic loremaster names the Emperor as the vanished dragon Viagra.
+tags:
+  - Korth Ep 13
+  - The Condemned
+  - Bantide Moro
+  - Nightingale
+  - Master Armhair
+  - Jelton Ahn
+  - Viagra
+  - Kaius III
+  - Valtrex
+  - Ivory Lazaret
+  - Freyd Merkin
+  - Crown of Seven Stars
+image:
+  src: /images/uploads/korth-ep-13-the-condemned-gemma-disguise-mu3lsqid.webp
+  alt: Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (N
+  caption: 'Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (Nightingale). Location: inside the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Condemned'
 sidebar:
   order: 313
 type: report
 kind: sessions
-tags:
-- Korth Ep 13
-- The Condemned
-- Bantide Moro
-- Nightingale
-- Master Armhair
-- Jelton Ahn
-- Viagra
-- Kaius III
-- Valtrex
-- Ivory Lazaret
-- Freyd Merkin
-- Crown of Seven Stars
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-13-E28094-the-condemned-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-image:
-  src: /images/album/after-rescuing-bantide-moro.webp
-  alt: Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (N
-  caption: 'Gemma Corso as Foxtale, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino after rescuing rebel Bantide Moro (Nightingale). Location: inside the real and deceased Deirdre Moro''s Korth apartment - Korth Episode: The Condemned'
 gallery:
-- src: /images/album/carrying-bantide-moro.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
-  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) carrying an invisible rebel agent Bantide Moro (Nightingale) through the Imperial capital of Korth - Korth Episode: The Condemned'
-- src: /images/album/speaking-with-bantide-moro-in-jail.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Mo
-  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Moro. Imperial capital of Korth jail - Korth Episode: The Condemned'
-- src: /images/gallery/2026-09-07-01.webp
-  alt: Bantide Moro, the condemned
-  caption: A barefoot blonde woman with a long braid, in a torn sackcloth dress, stands chained in a stone cell. Bantide Moro is condemned before the High Court of Korth.
-- src: /images/gallery/2026-09-07-03.webp
-  alt: The condemned before the High Court
-  caption: In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them.
-- src: /images/gallery/2026-09-07-04.webp
-  alt: The Advocate and Vice Admiral Merkin in court
-  caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
-- src: /images/gallery/2026-09-07-05.webp
-  alt: Master Armhair in the Hall of Records
-  caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
-- src: /images/gallery/2026-09-07-06.webp
-  alt: The midnight meeting with Armhair and Jelton Ahn
-  caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
-- src: /images/gallery/2026-09-07-07.webp
-  alt: The Advocate and her bodyguard at the Ministry
-  caption: The dark-haired Advocate and the skull-masked samurai stand at a great iron-bound door flanked by red-robed guards and a uniformed officer.
+  - src: /images/album/carrying-bantide-moro.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) carrying an invisible rebel agent Bantide Moro (Nightingale) through the Imperial capital of Korth - Korth Episode: The Condemned'
+  - src: /images/album/speaking-with-bantide-moro-in-jail.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Mo
+    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Moro. Imperial capital of Korth jail - Korth Episode: The Condemned'
+  - src: /images/gallery/2026-09-07-01.webp
+    alt: Bantide Moro, the condemned
+    caption: A barefoot blonde woman with a long braid, in a torn sackcloth dress, stands chained in a stone cell. Bantide Moro is condemned before the High Court of Korth.
+  - src: /images/gallery/2026-09-07-03.webp
+    alt: The condemned before the High Court
+    caption: In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them.
+  - src: /images/gallery/2026-09-07-04.webp
+    alt: The Advocate and Vice Admiral Merkin in court
+    caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
+  - src: /images/gallery/2026-09-07-05.webp
+    alt: Master Armhair in the Hall of Records
+    caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
+  - src: /images/gallery/2026-09-07-06.webp
+    alt: The midnight meeting with Armhair and Jelton Ahn
+    caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
+  - src: /images/gallery/2026-09-07-07.webp
+    alt: The Advocate and her bodyguard at the Ministry
+    caption: The dark-haired Advocate and the skull-masked samurai stand at a great iron-bound door flanked by red-robed guards and a uniformed officer.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 13 · DM: Dave**
@@ -93,3 +93,5 @@ Gemma broke script and testified as kin; the panel found the documentation insuf
 <small>A Master bell — the ninth great casting — hangs in a Black Dove tower attached to the Imperial Palace itself.</small>
 
 **Next:** [Korth Ep 14 — The Listening Post](/sessions/korth-ep-14-the-listening-post/)
+
+![Korth Ep 13 — The Condemned - Gemma, Eric and Dario speaking with Bantide Moro.png](/images/uploads/korth-ep-13-the-condemned-gemma-eric-and-mu3ltada.webp)
