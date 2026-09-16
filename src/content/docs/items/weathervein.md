@@ -1,58 +1,60 @@
 ---
 title: Weathervein
 description: The holy relic of Saltmarsh's Temple of Neptune, a blade stolen in its desecration and driven through the heart of the seraph Aqueus on the sea floor.
+tags:
+  - Weathervein
+  - Weathervane
+  - Tempest Sword
+  - Tempest Blade
+  - Weatherbrand
+  - House Weathervein
+  - Weathervein dynasty
+  - Ghosts of Twatmarsh
+  - Skerrin Wavechaser
+  - Vivica Amphibiana Weathervein
+  - White Plume Mountain
+  - Blackrazor
+  - Whelm
+  - hexblade
+  - Dolores Weathervein
+  - High Priestess Dolores Weathervein
+  - Lady of Tears
+  - Temple of Neptune
+  - Neptune
+  - Saltmarsh
+  - Oerth
+  - Aqueus
+  - Jeremiah
+  - Gabriella Hellwood
+  - Dagon
+  - Aasimar
+  - Blackfish
+  - Dead Man's Hand
+image:
+  src: /images/uploads/weathervein-sword-mu3iomub.webp
 type: item
 kind: items
-tags:
-- Weathervein
-- Weathervane
-- Tempest Sword
-- Tempest Blade
-- Weatherbrand
-- House Weathervein
-- Weathervein dynasty
-- Ghosts of Twatmarsh
-- Skerrin Wavechaser
-- Vivica Amphibiana Weathervein
-- White Plume Mountain
-- Blackrazor
-- Whelm
-- hexblade
-- Dolores Weathervein
-- High Priestess Dolores Weathervein
-- Lady of Tears
-- Temple of Neptune
-- Neptune
-- Saltmarsh
-- Oerth
-- Aqueus
-- Jeremiah
-- Gabriella Hellwood
-- Dagon
-- Aasimar
-- Blackfish
-- Dead Man's Hand
 icon: fa-khanda
 fields:
   type: Blade; holy relic
   rarity: Unique
   status: Pinning the heart of Aqueus at the tomb of Dolores Weathervein
 sources:
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3054, IMG_3056, IMG_3058, IMG_3059, IMG_3060)
-- sources/dave/2026-09-14-dead-mans-hand-names.md
-- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
-- CANON.md 5ac
-- "Oral Histories: The Inevitables, 2021-08-14"
-- "Oral Histories: The Inevitables, 2021-11-12"
-- "Oral Histories: The Inevitables, 2021-11-13"
-- "Oral Histories: The Inevitables, 2021-12-17"
-- "Oral Histories: The Inevitables, 2022-03-12"
-- "Oral Histories: The Inevitables, 2022-03-13"
-- "Oral Histories: The Inevitables, 2022-04-23"
-- "Oral Histories: The Inevitables, 2022-08-14"
-- "Oral Histories: The Inevitables, 2022-08-15"
-- "Oral Histories: The Inevitables, 2022-09-16"
-- "Oral Histories: The Inevitables, 2025-09-21"
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3054, IMG_3056, IMG_3058, IMG_3059, IMG_3060)
+  - sources/dave/2026-09-14-dead-mans-hand-names.md
+  - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+  - CANON.md 5ac
+  - 'Oral Histories: The Inevitables, 2021-08-14'
+  - 'Oral Histories: The Inevitables, 2021-11-12'
+  - 'Oral Histories: The Inevitables, 2021-11-13'
+  - 'Oral Histories: The Inevitables, 2021-12-17'
+  - 'Oral Histories: The Inevitables, 2022-03-12'
+  - 'Oral Histories: The Inevitables, 2022-03-13'
+  - 'Oral Histories: The Inevitables, 2022-04-23'
+  - 'Oral Histories: The Inevitables, 2022-08-14'
+  - 'Oral Histories: The Inevitables, 2022-08-15'
+  - 'Oral Histories: The Inevitables, 2022-09-16'
+  - 'Oral Histories: The Inevitables, 2025-09-21'
 published: '2026-09-14'
 ---
 
