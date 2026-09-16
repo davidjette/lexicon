@@ -1,21 +1,23 @@
 ---
 title: The Velvet Table Society
 description: A name found once, on a note beneath the Vault Below, beside Henry Heinrick's. Everyone who could explain it is dead.
+tags:
+  - The Velvet Table Society
+  - Velvet Table Society
+  - Velvet Table
+  - Henry Heinrick
+  - The Vault Underground
+  - The Vault Below
+  - Children of Ember
+  - Faith Zeir
+  - Malrik Zeir
+  - Sharn
+  - Unresolved
+  - Upper City
+image:
+  src: /images/uploads/sharn-ep-17-the-vault-underground-privat-mu3h71bp.webp
 type: organization
 kind: organizations
-tags:
-- The Velvet Table Society
-- Velvet Table Society
-- Velvet Table
-- Henry Heinrick
-- The Vault Underground
-- The Vault Below
-- Children of Ember
-- Faith Zeir
-- Malrik Zeir
-- Sharn
-- Unresolved
-- Upper City
 icon: fa-circle-question
 fields:
   type: Private society, purpose unknown
@@ -25,17 +27,17 @@ fields:
   status: Unresolved - known members all deceased
   allies: Unknown
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/children-of-ember.txt
-- sources/documents/2026-09-14-nico-sharn-hopper.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/children-of-ember.txt
+  - sources/documents/2026-09-14-nico-sharn-hopper.md
 published: '2026-09-10'
 wa:
   slug: the-velvet-table-society-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
 gallery:
-- src: /images/gallery/2026-02-10-05.webp
-  alt: Hallorn's letter on the Velvet Table Society
-  caption: A letter to Malrik signed Hallorn d'Lyrandar gossiping that Henry Heinrick has been invited to fill an opening in the Velvet Table Society after Cob Cornwell's death.
+  - src: /images/gallery/2026-02-10-05.webp
+    alt: Hallorn's letter on the Velvet Table Society
+    caption: A letter to Malrik signed Hallorn d'Lyrandar gossiping that Henry Heinrick has been invited to fill an opening in the Velvet Table Society after Cob Cornwell's death.
 ---
 
 **Society · The Vault Underground, Upper City Sharn · Unresolved**
