@@ -85,6 +85,7 @@ The trio left with Grady Marsh and the memory of Calcifer's birth still locked i
 
 ![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario with captives Lorian and Grady Marsh in Zeir lower city bedroom - Lower city Sharn - Lattern Disctric.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3l4pli.webp)
 
-![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario outside the nightclub The Vault Below - Lower city Sharn - Lattern Disctric.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mk21t.webp)
 
 ![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario fight Children of Ember Cultist.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mkjxj.webp)
+
+![Sharn Ep 6 — The Vault Below - Inside The Vault Below - Sharn Lower City - Lantern District.png](/images/uploads/sharn-ep-6-the-vault-below-inside-the-va-mu3nblsy.webp)
