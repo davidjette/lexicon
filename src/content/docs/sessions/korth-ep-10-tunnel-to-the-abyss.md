@@ -2,17 +2,17 @@
 title: Korth Ep 10 — Tunnel to the Abyss
 description: Hunting the missing duergar boy, the trio find and destroy an Alkilith holding a permanent portal to the Abyss open beneath the foundry.
 tags:
-- Korth Ep 10
-- Tunnel to the Abyss
-- Alkilith
-- Abyss
-- Egg Roll
-- Glitterhame
-- Thirteenth Casting
-- Sister Calvane
-- Succubus
-- Old Toby
-- Korranberg Foundry
+  - Korth Ep 10
+  - Tunnel to the Abyss
+  - Alkilith
+  - Abyss
+  - Egg Roll
+  - Glitterhame
+  - Thirteenth Casting
+  - Sister Calvane
+  - Succubus
+  - Old Toby
+  - Korranberg Foundry
 image:
   src: /images/uploads/korth-ep-10-tunnel-to-the-abyss-mu0spnna.webp
 sidebar:
@@ -22,23 +22,23 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
-- "Oral Histories: The Inevitables, 2026-08-15"
-- "Oral Histories: The Inevitables, 2026-08-20"
+  - sources/site/korth-episode-summaries.txt
+  - 'Oral Histories: The Inevitables, 2026-08-15'
+  - 'Oral Histories: The Inevitables, 2026-08-20'
 published: '2026-09-10'
 wa:
   slug: korth-ep-10-E28094-tunnel-to-the-abyss-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
 gallery:
-- src: /images/gallery/2026-08-15-04.webp
-  alt: Footprints in the Glitterhame
-  caption: In the glowing fungal cavern, Eric the Cleric in a white wig and red coat and Sir Dario Argentino watch as Gemma Corso crouches to examine the ground by the rock wall. Gemma finds a missing boy's small footprints leading to a crevice.
-- src: /images/gallery/2026-08-15-05.webp
-  alt: The portal in the drainage tunnel
-  caption: In a narrow timbered tunnel, three figures with glowing blades crouch before a fiery opening where a horned demon looms. The trio find a portal to the Abyss beneath the foundry.
-- src: /images/gallery/2026-08-15-07.webp
-  alt: Undead in the abandoned kitchen
-  caption: Gemma Corso slashes with a glowing blade beside Eric the Cleric as rotting undead lurch through an old kitchen.
+  - src: /images/gallery/2026-08-15-04.webp
+    alt: Footprints in the Glitterhame
+    caption: In the glowing fungal cavern, Eric the Cleric in a white wig and red coat and Sir Dario Argentino watch as Gemma Corso crouches to examine the ground by the rock wall. Gemma finds a missing boy's small footprints leading to a crevice.
+  - src: /images/gallery/2026-08-15-05.webp
+    alt: The portal in the drainage tunnel
+    caption: In a narrow timbered tunnel, three figures with glowing blades crouch before a fiery opening where a horned demon looms. The trio find a portal to the Abyss beneath the foundry.
+  - src: /images/gallery/2026-08-15-07.webp
+    alt: Undead in the abandoned kitchen
+    caption: Gemma Corso slashes with a glowing blade beside Eric the Cleric as rotting undead lurch through an old kitchen.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 10 · DM: Dave**
@@ -70,3 +70,5 @@ They squeezed through single-file and followed the trail up into a forgotten dra
 ## Consequences
 
 One demonic incursion was closed and one child was still gone. The tunnel opened into a vast rocky cavern directly beneath the forge room, beneath the hanging bell itself. The footprints ended here. Egg Roll was somewhere above them.
+
+![Korth Ep 10 — Tunnel to the Abyss - Gemma and Eric fighting Undead.png](/images/uploads/korth-ep-10-tunnel-to-the-abyss-gemma-an-mu3lp4m5.webp)
