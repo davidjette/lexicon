@@ -1,34 +1,34 @@
 ---
 title: Sharn Ep 5 — Welcome to the Neighborhood
 description: 'House-hunting turns into detective work: a hidden sewer panel, the Kross family, a landlord called E.G., and Grady Marsh gone missing.'
+tags:
+  - Sharn Ep 5
+  - Welcome to the Neighborhood
+  - Karin Kross
+  - Kriss Kross
+  - Misty Kross
+  - Martin Kross
+  - Grady Marsh
+  - Circuit City
+  - The Vault Below
+  - Hopper's
+  - Grand Aqueduct
+image:
+  src: /images/uploads/sharn-ep-5-welcome-to-the-neighborhood-e-mu3l395p.webp
+  alt: The trio questions a shopkeeper
+  caption: Eric, Gemma and Dario, holding a bag of groceries, talk with a wary blonde elf woman among the shelves of a small corner store.
 sidebar:
   order: 205
 type: report
 kind: sessions
-tags:
-- Sharn Ep 5
-- Welcome to the Neighborhood
-- Karin Kross
-- Kriss Kross
-- Misty Kross
-- Martin Kross
-- Grady Marsh
-- Circuit City
-- The Vault Below
-- Hopper's
-- Grand Aqueduct
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-5-E28094-welcome-to-the-neighborhood-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-image:
-  src: /images/gallery/2026-02-11-01.webp
-  alt: The trio questions a shopkeeper
-  caption: Eric, Gemma and Dario, holding a bag of groceries, talk with a wary blonde elf woman among the shelves of a small corner store.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 5 · DM: Nichole**
