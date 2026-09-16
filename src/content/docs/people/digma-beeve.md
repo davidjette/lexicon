@@ -115,4 +115,6 @@ It was Digma who made the fall of [John C. LeBeefe](/people/john-c-lebeefe/) pos
 - **The Inevitables** — he armed them politically in Newham and has fed them intelligence since. Alive.
 - **Calcifer** — the child he declared dead in order to save. Alive.
 
-![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3ksnvs.webp)
+
+![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu4n52dm.webp)
+
