@@ -2,18 +2,18 @@
 title: Korth Ep 2 — Storm Above Thronehold
 description: Vex d'Lyrandar shells the Thronehold Summit, Uriel's undead turn on him, and the trio escape aboard a ship of the Hundreds.
 tags:
-- Korth Ep 2
-- Storm Above Thronehold
-- Thronehold
-- Vex d'Lyrandar
-- Locke Pierce
-- The Hundreds
-- Joseph Roberts
-- Uriel Qualanthri
-- Lorian
-- Tira
-- Maelis Dorn
-- Undead
+  - Korth Ep 2
+  - Storm Above Thronehold
+  - Thronehold
+  - Vex d'Lyrandar
+  - Locke Pierce
+  - The Hundreds
+  - Joseph Roberts
+  - Uriel Qualanthri
+  - Lorian
+  - Tira
+  - Maelis Dorn
+  - Undead
 image:
   src: /images/uploads/korth-ep-2-storm-above-thronehold-mu0s773d.webp
 sidebar:
@@ -23,21 +23,21 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/korth-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: korth-ep-2-E28094-storm-above-thronehold-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
 gallery:
-- src: /images/gallery/2026-06-21-04.webp
-  alt: Warships bombard Thronehold
-  caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
-- src: /images/gallery/2026-06-21-02.webp
-  alt: Escape from the burning Summit hall
-  caption: Eric the Cleric gallops on a palomino as Lorian and a woman run beside him, fleeing an explosion through a crowded hall at Thronehold.
-- src: /images/gallery/2026-06-21-03.webp
-  alt: Vex attacks the Hundreds' warship
-  caption: Vex d'Lyrandar flies at a massive warship over the sea beside Thronehold, lightning crackling around him, as Gemma Corso, Eric the Cleric and Lorian stand on its deck.
+  - src: /images/gallery/2026-06-21-04.webp
+    alt: Warships bombard Thronehold
+    caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
+  - src: /images/gallery/2026-06-21-02.webp
+    alt: Escape from the burning Summit hall
+    caption: Eric the Cleric gallops on a palomino as Lorian and a woman run beside him, fleeing an explosion through a crowded hall at Thronehold.
+  - src: /images/gallery/2026-06-21-03.webp
+    alt: Vex attacks the Hundreds' warship
+    caption: Vex d'Lyrandar flies at a massive warship over the sea beside Thronehold, lightning crackling around him, as Gemma Corso, Eric the Cleric and Lorian stand on its deck.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 2 · DM: Dave**
@@ -70,3 +70,5 @@ Vex called down his warships and ordered them to fire on the Summit grounds. Exp
 ## Consequences
 
 The Summit has fallen but the fight with Vex isn't over. Broadcast across Khorvaire by the arceye cameras, the massacre would be read by the free states as proof that peace had died. The trio escaped aboard a ship belonging to a Campaign 1 founder with the Empire's Admiral clinging to the hull.
+
+![Korth Ep 2 — Storm Above Thronehold - Eric, Lorian and Gemma in disguise flee attack at Thornehold.png](/images/uploads/korth-ep-2-storm-above-thronehold-eric-l-mu3lhd81.webp)
