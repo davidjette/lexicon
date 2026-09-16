@@ -1,31 +1,33 @@
 ---
 title: Leef Ep 5 — The Belly of the Beast
 description: The party finds LeBeefe raising a mind-flayer army to take the Dwarflands, beheads prisoners, and Eric the Cleric joins the game.
+tags:
+  - Leef Ep 5
+  - The Belly of the Beast
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - John C. LeBeefe
+  - Mind flayers
+  - The Dwarflands
+  - Esther Crona
+  - Eric the Cleric
+  - Greenish Hughes
+  - House of Vol
+  - LeBeefes
+image:
+  src: /images/uploads/gemma-eric-and-dario-in-leef-mu3l0yqg.webp
 sidebar:
   order: 155
 type: report
 kind: sessions
-tags:
-- Leef Ep 5
-- The Belly of the Beast
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- John C. LeBeefe
-- Mind flayers
-- The Dwarflands
-- Esther Crona
-- Eric the Cleric
-- Greenish Hughes
-- House of Vol
-- LeBeefes
 icon: fa-scroll
 fields: {}
 sources:
-- "Oral Histories: The Inevitables, 2025-06-07"
-- "Oral Histories: The Inevitables, 2025-07-22"
-- "Oral Histories: The Inevitables, 2025-08-30"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'Oral Histories: The Inevitables, 2025-06-07'
+  - 'Oral Histories: The Inevitables, 2025-07-22'
+  - 'Oral Histories: The Inevitables, 2025-08-30'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 published: '2026-09-14'
 ---
 
