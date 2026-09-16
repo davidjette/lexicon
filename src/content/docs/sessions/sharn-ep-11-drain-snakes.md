@@ -2,17 +2,17 @@
 title: Sharn Ep 11 — Drain Snakes
 description: Martin Kross gives up the name of BioTec's private owner, and the Drain Snakes are wiped out of the undercity tunnels.
 tags:
-- Sharn Ep 11
-- Drain Snakes
-- Martin Kross
-- Edwin Graves
-- BioTec
-- Red Khyber
-- Ghost Chip
-- Malrik Zeir
-- Underhive
-- Booti'slave
-- Snodgrass
+  - Sharn Ep 11
+  - Drain Snakes
+  - Martin Kross
+  - Edwin Graves
+  - BioTec
+  - Red Khyber
+  - Ghost Chip
+  - Malrik Zeir
+  - Underhive
+  - Booti'slave
+  - Snodgrass
 image:
   src: /images/uploads/sharn-ep-11-drain-snakes-mu0rtum3.webp
 sidebar:
@@ -22,27 +22,27 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-11-E28094-drain-snakes-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-- src: /images/gallery/2026-03-17-02.webp
-  alt: 'The MZ note: deliver out-of-towners'
-  caption: 'A hand holds a torn note in a sewer tunnel: "For special clients only. Deliver young, attractive out-of-towners to the marked tunnel. Keep them bound and hooded. No injuries. Payment on delivery. - MZ" It is the note recovered from the Drain Snakes suggesting Malrik Zeir paid them for captives.'
-- src: /images/gallery/2026-03-16-10.webp
-  alt: Martin Kross behind bars
-  caption: Martin Kross, in his BioTec lab coat, grips the bars of a cell as Sir Dario Argentino, Eric the Cleric and Gemma Corso question him in the Underhive, where Blair holds him prisoner.
-- src: /images/gallery/2026-03-23-02.webp
-  alt: Snodgrass and Gemma fight Drain Snakes
-  caption: Snodgrass swings a blade and Gemma Corso blasts with green eldritch fire as they battle masked gang thugs in a torchlit sewer tunnel.
-- src: /images/gallery/2026-03-23-03.webp
-  alt: The Drain Snakes' throne platform
-  caption: A masked gang boss in studded leather stands before a carved stone throne on a wooden platform, with a huge fanged worm on one side and a red-haired captive chained to the wall on the other.
-- src: /images/gallery/2026-03-23-04.webp
-  alt: The Drain Snakes' throne platform, guarded
-  caption: Two armed gang members stand on the wooden platform before the stone throne, with the fanged worm and a chained captive behind them.
+  - src: /images/gallery/2026-03-17-02.webp
+    alt: 'The MZ note: deliver out-of-towners'
+    caption: 'A hand holds a torn note in a sewer tunnel: "For special clients only. Deliver young, attractive out-of-towners to the marked tunnel. Keep them bound and hooded. No injuries. Payment on delivery. - MZ" It is the note recovered from the Drain Snakes suggesting Malrik Zeir paid them for captives.'
+  - src: /images/gallery/2026-03-16-10.webp
+    alt: Martin Kross behind bars
+    caption: Martin Kross, in his BioTec lab coat, grips the bars of a cell as Sir Dario Argentino, Eric the Cleric and Gemma Corso question him in the Underhive, where Blair holds him prisoner.
+  - src: /images/gallery/2026-03-23-02.webp
+    alt: Snodgrass and Gemma fight Drain Snakes
+    caption: Snodgrass swings a blade and Gemma Corso blasts with green eldritch fire as they battle masked gang thugs in a torchlit sewer tunnel.
+  - src: /images/gallery/2026-03-23-03.webp
+    alt: The Drain Snakes' throne platform
+    caption: A masked gang boss in studded leather stands before a carved stone throne on a wooden platform, with a huge fanged worm on one side and a red-haired captive chained to the wall on the other.
+  - src: /images/gallery/2026-03-23-04.webp
+    alt: The Drain Snakes' throne platform, guarded
+    caption: Two armed gang members stand on the wooden platform before the stone throne, with the fanged worm and a chained captive behind them.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 11 · DM: Nichole**
@@ -73,3 +73,5 @@ Gathering the loot to later distribute to the Cogborn, the group returned to the
 ## Consequences
 
 The Drain Snakes were finished, which discharged the trio's debt to Blair and opened the Underhive to the Cogborn. "Edwin" became the name the party carried for two more episodes before they walked into Circuit City and found him.
+
+![Sharn Ep 11 — Drain Snakes - Snodgrass, Eric, Gemma and Dario in battle with Drain Snakes.png](/images/uploads/sharn-ep-11-drain-snakes-snodgrass-eric-mu3l7zbx.webp)
