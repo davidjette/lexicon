@@ -15,7 +15,7 @@ tags:
   - Iron Veil
   - Uriel Qualanthri
 image:
-  src: /images/uploads/chatgpt-image-jun-1-2026-04-38-51-pm-mu0fhz3l.webp
+  src: /images/uploads/sharn-ep-18-the-fall-of-esther-crona-est-mu3nz6of.webp
   alt: 'Subject:'
   caption: 'Subject:'
 sidebar:
