@@ -1,21 +1,23 @@
 ---
 title: The Ziggurat
 description: 'The stepped commercial complex at the heart of the Lower City: markets, an implant clinic, a foundry, a fast eatery and Breaker''s Pit beneath.'
+tags:
+  - The Ziggurat
+  - Sharn
+  - Lower City
+  - City Center
+  - Breaker's Pit
+  - Graft & Gear
+  - FoundMe Foundry
+  - Scorching Blaze
+  - ArcEye
+  - Black Veil
+  - Underhive
+  - Stockton Thar
+image:
+  src: /images/uploads/the-ziggurat-sharn-lower-city-center-mu3enmkl.webp
 type: landmark
 kind: places
-tags:
-- The Ziggurat
-- Sharn
-- Lower City
-- City Center
-- Breaker's Pit
-- Graft & Gear
-- FoundMe Foundry
-- Scorching Blaze
-- ArcEye
-- Black Veil
-- Underhive
-- Stockton Thar
 icon: fa-monument
 fields:
   type: Commercial complex
@@ -28,17 +30,17 @@ fields:
   history: Esther Crona's airship the Black Veil hovered above it while General Stockton Thar began casting, on live broadcast
   sensory: Unknown
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-ziggurat-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/gallery/2026-03-17-01.webp
-  alt: An airship over the Ziggurat
-  caption: 'A long black airship hovers over the stepped Ziggurat at the heart of the Lower City while crowds fill the plaza below and crystallizer screens glow on the towers: Esther Crona''s airship, the Black Veil, above the Ziggurat as broadcast at the end of the episode.'
+  - src: /images/gallery/2026-03-17-01.webp
+    alt: An airship over the Ziggurat
+    caption: 'A long black airship hovers over the stepped Ziggurat at the heart of the Lower City while crowds fill the plaza below and crystallizer screens glow on the towers: Esther Crona''s airship, the Black Veil, above the Ziggurat as broadcast at the end of the episode.'
 ---
 
 **Commercial complex · [City Center](/places/city-center/), [Lower City](/places/the-lower-city/) · Markets and arena · Standing**
