@@ -15,7 +15,7 @@ tags:
   - Lexicon
   - Air Bubble
 image:
-  src: /images/uploads/korth-ep-4-road-to-korth-mu0sbkkr.webp
+  src: /images/uploads/korth-ep-4-road-to-korth-gemma-and-kitsu-mu3nnopb.webp
 sidebar:
   order: 304
 type: report
@@ -82,4 +82,6 @@ Disguised as the high-elf bureaucrat **Deirdre Moro**, her assistant **Graham Cr
 
 The trio entered the Imperial capital as three murdered civil servants, with a safehouse in the heart of Korth and a mission: infiltrate the [the Korranberg Foundry](/places/the-korranberg-foundry/), reach the Summer Palace upriver, and stop the ringing of the bells.
 
-![Korth Ep 4 — Road to Korth - Gemma and Kitsune Dream.png](/images/uploads/korth-ep-4-road-to-korth-gemma-and-kitsu-mu3ljixz.webp)
+
+![Korth Ep 4 — Road to Korth - Eric, Gemma and Dario fighting Graham Gracker, Deirdre Moro and a fortune teller in Korth.png](/images/uploads/korth-ep-4-road-to-korth-eric-gemma-and-mu3nny5j.webp)
+
