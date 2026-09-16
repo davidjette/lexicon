@@ -2,18 +2,18 @@
 title: Sharn Ep 17 — The Vault Underground
 description: Dario kills Malrik Zeir on the rooftop, Esther kills the Mother Prophet, and then takes Calcifer and Gemma into the sky.
 tags:
-- Sharn Ep 17
-- The Vault Underground
-- Malrik Zeir
-- Faith Zeir
-- Mother Prophet
-- Children of Ember
-- Calcifer
-- Esther Crona
-- Whole Foods
-- The Nest
-- Lorian
-- Hallorn d'Lyrandar
+  - Sharn Ep 17
+  - The Vault Underground
+  - Malrik Zeir
+  - Faith Zeir
+  - Mother Prophet
+  - Children of Ember
+  - Calcifer
+  - Esther Crona
+  - Whole Foods
+  - The Nest
+  - Lorian
+  - Hallorn d'Lyrandar
 image:
   src: /images/uploads/sharn-ep-17-the-vault-underground-mu0s296g.webp
 sidebar:
@@ -23,31 +23,31 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: sharn-ep-17-E28094-the-vault-underground-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-- src: /images/gallery/2026-05-13-02.webp
-  alt: Recruiter stat block
-  caption: A creature stat block for the "Recruiter", a Medium humanoid with Umbra syringes, Umbra-drugged effects and an Umbra powder burst.
-- src: /images/gallery/2026-05-13-03.webp
-  alt: Children of Ember stat block
-  caption: 'A creature stat block for a "Children of Ember" cultist: a Medium humanoid spellcaster with fire bolt, burning hands and hold person.'
-- src: /images/gallery/2026-05-13-04.webp
-  alt: Hallorn d'Lyrandar stat block
-  caption: A creature stat block for "Hallorn d'Lyrandar", a half-elf rapier fighter with the Mark of Storm, battle master maneuvers and a storm step.
-- src: /images/gallery/2026-05-14-02.webp
-  alt: Faith Zeir stat block
-  caption: A creature stat block for "Faith Zeir", a Medium tiefling spellcaster with the Mother Prophet trait, Ember Shield and Ember Nova.
-- src: /images/gallery/2026-05-15-02.webp
-  alt: The Vault Underground 3rd Level VIP pass
-  caption: 'A prop VIP pass for The Vault Underground, one pass granting access to all three levels: the Inferno, the Purgatory and the Maelstrom. It also lists a private booth, one free drink and a table dancer of your choice.'
-- src: /images/gallery/2026-05-15-03.webp
-  alt: The Vault Underground drink menu
-  caption: A prop drink menu for The Vault Underground, framed by a red dragon. It lists Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.
+  - src: /images/gallery/2026-05-13-02.webp
+    alt: Recruiter stat block
+    caption: A creature stat block for the "Recruiter", a Medium humanoid with Umbra syringes, Umbra-drugged effects and an Umbra powder burst.
+  - src: /images/gallery/2026-05-13-03.webp
+    alt: Children of Ember stat block
+    caption: 'A creature stat block for a "Children of Ember" cultist: a Medium humanoid spellcaster with fire bolt, burning hands and hold person.'
+  - src: /images/gallery/2026-05-13-04.webp
+    alt: Hallorn d'Lyrandar stat block
+    caption: A creature stat block for "Hallorn d'Lyrandar", a half-elf rapier fighter with the Mark of Storm, battle master maneuvers and a storm step.
+  - src: /images/gallery/2026-05-14-02.webp
+    alt: Faith Zeir stat block
+    caption: A creature stat block for "Faith Zeir", a Medium tiefling spellcaster with the Mother Prophet trait, Ember Shield and Ember Nova.
+  - src: /images/gallery/2026-05-15-02.webp
+    alt: The Vault Underground 3rd Level VIP pass
+    caption: 'A prop VIP pass for The Vault Underground, one pass granting access to all three levels: the Inferno, the Purgatory and the Maelstrom. It also lists a private booth, one free drink and a table dancer of your choice.'
+  - src: /images/gallery/2026-05-15-03.webp
+    alt: The Vault Underground drink menu
+    caption: A prop drink menu for The Vault Underground, framed by a red dragon. It lists Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 17 · DM: Nichole**
@@ -94,3 +94,5 @@ The trio was left standing on the blood-stained rooftop, the city roaring below 
 Both Zeirs died in one night and the [Children of Ember](/organizations/the-children-of-ember/) were finished as a faction. Gemma went up to the penthouse in chains, Calcifer went with his mother, and the trio's last unresolved thread narrowed to a single confrontation. The Upper City safe house was abandoned and its tunnel collapsed.
 
 In Nico's notes for the aftermath, Lorian stayed with Malrik's captives and tended them with Nest healers, and saw Richard at Malrik's. After Esther's fall, Digma Beeve's cover story for Richard and Calcifer put the dead Zeirs on Richard's private airship, and it held because the Children of Ember were already dead from the assault on the Vault Underground. At the first Council of Sharn the Silver Flame asked to cleanse the Zeir residence, and Blair asked for the Vault Below: "Faith is dead; Blair wants the club." <small>(Nico's DM notes, Episode 19)</small>
+
+![Sharn Ep 17 — The Vault Underground -  Lorian, Dario, Eric and Gemma in the Sharn upper city Club The Vault Underground.png](/images/uploads/sharn-ep-17-the-vault-underground-lorian-mu3ldp37.webp)
