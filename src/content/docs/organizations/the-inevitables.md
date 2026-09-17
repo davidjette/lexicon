@@ -109,3 +109,5 @@ Gemma spends months becoming someone before they arrive; Eric reads the ledgers;
 > Kill Empress Uriel Qualanthri.
 
 <small>— Esther Crona's last order, broadcast across Sharn. They have treated it as a commission.</small>
+
+![Gemma, Eric and Dario in Leef.png](/images/uploads/gemma-eric-and-dario-in-leef-mu65f37b.webp)
