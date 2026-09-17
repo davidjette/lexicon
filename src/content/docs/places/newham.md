@@ -1,21 +1,25 @@
 ---
 title: Newham
 description: The chartered boom city known as the gateway to the East, ruled by Grand Duke LeBeefe and destroyed in the rising that made New Mourning.
+tags:
+  - Newham
+  - New Ham
+  - Newham City
+  - John C. LeBeefe
+  - LeBeefe
+  - Clamshell Casino
+  - Lake LeBeefe
+  - Albert Spear
+  - New Mourning
+  - Republic of Talenta
+  - U.N.D.E.A.D.
+  - Rekkenmark Anex
+image:
+  src: /images/uploads/city-of-newham-front-gates-mu657ax1.webp
+  alt: Map of the City of Newham
+  caption: 'A top-down city map labelled City of Newham: a walled town wrapped around a harbour and river channels, with farmland outside the walls and a numbered location key.'
 type: settlement
 kind: places
-tags:
-- Newham
-- New Ham
-- Newham City
-- John C. LeBeefe
-- LeBeefe
-- Clamshell Casino
-- Lake LeBeefe
-- Albert Spear
-- New Mourning
-- Republic of Talenta
-- U.N.D.E.A.D.
-- Rekkenmark Anex
 icon: fa-city
 fields:
   type: City
@@ -32,23 +36,19 @@ fields:
   owner: None; the ruin lies within the New Mourning
   ruler: Grand Duke John C. LeBeefe, deceased
 sources:
-- sources/wa/newham-settlement.txt
-- sources/site/rebel-factions.txt
-- sources/wa/john-c-lebeefe-person.txt
-- C:/dev/sharn-campaign/factions.md
-- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
-- "Oral Histories: The Inevitables, 2025-09-27"
-- "Oral Histories: The Inevitables, 2025-11-08"
-- "Oral Histories: The Inevitables, 2025-12-05"
+  - sources/wa/newham-settlement.txt
+  - sources/site/rebel-factions.txt
+  - sources/wa/john-c-lebeefe-person.txt
+  - C:/dev/sharn-campaign/factions.md
+  - sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+  - 'Oral Histories: The Inevitables, 2025-09-27'
+  - 'Oral Histories: The Inevitables, 2025-11-08'
+  - 'Oral Histories: The Inevitables, 2025-12-05'
 published: '2026-09-10'
 wa:
   slug: newham-settlement
   uuid: aff701ba-2761-4fed-ade5-90e83a61fe0a
   category: f80c9190-be4c-4471-bd22-2e9cced68451
-image:
-  src: /images/gallery/2025-06-08-01.webp
-  alt: Map of the City of Newham
-  caption: 'A top-down city map labelled City of Newham: a walled town wrapped around a harbour and river channels, with farmland outside the walls and a numbered location key.'
 ---
 
 **City · eastern Khorvaire · The gateway to the East · DESTROYED**
@@ -98,3 +98,5 @@ Newham is not a city any more. The manor, the hotel, the university, the academy
 **University of Newham:** The Hospital that Uriel founded has grown and thrived into a medical research and educational facility. Uriel heads the department known as the University of Newham Department to Eradicate and Analyze Diseases AKA, U.N.D.E.A.D.
 
 **The Rekkenmark Academy, Newham Anex:** Established during the cities development. Locke Pierce has a semi-permanent post in Newham as Director.
+
+![LeBeef's Black Castle - City of Newham.png](/images/uploads/lebeef-s-black-castle-city-of-newham-mu657ml8.webp)
