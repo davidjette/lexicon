@@ -13,7 +13,7 @@ tags:
   - FoundMe Foundry
   - Lower City gates
 image:
-  src: /images/uploads/city-center-mu0o5jej.webp
+  src: /images/uploads/the-ziggurat-sharn-lower-city-center-2-mu65bn9x.webp
 type: settlement
 kind: places
 icon: fa-shop
