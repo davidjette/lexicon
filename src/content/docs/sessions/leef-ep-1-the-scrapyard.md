@@ -1,34 +1,36 @@
 ---
 title: Leef Ep 1 — The Scrapyard
 description: 'The first played session of the Leef / Newham arc: the Silver Flame pass phrase, and Dario beheads the guard Morlo Gint in front of a scrapyard.'
+tags:
+  - Leef Ep 1
+  - The Scrapyard
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Gemma Corso
+  - Sir Dario Argentino
+  - Flintscale
+  - Quicksilver
+  - The Silver Flame
+  - Long night
+  - Morlo Gint
+image:
+  src: /images/uploads/falcons-junk-yard-leef-mu660cq8.webp
 sidebar:
   order: 151
 type: report
 kind: sessions
-tags:
-- Leef Ep 1
-- The Scrapyard
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Gemma Corso
-- Sir Dario Argentino
-- Flintscale
-- Quicksilver
-- The Silver Flame
-- Long night
-- Morlo Gint
 icon: fa-scroll
 fields: {}
 sources:
-- "Oral Histories: The Inevitables, 2025-06-07"
-- "Oral Histories: The Inevitables, 2025-06-24"
-- "Oral Histories: The Inevitables, 2025-06-26"
-- "Oral Histories: The Inevitables, 2025-07-09"
-- "Oral Histories: The Inevitables, 2025-07-13"
-- "Oral Histories: The Inevitables, 2025-07-18"
-- "Oral Histories: The Inevitables, 2025-07-19"
-- "Oral Histories: The Inevitables, 2025-08-08"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - 'Oral Histories: The Inevitables, 2025-06-07'
+  - 'Oral Histories: The Inevitables, 2025-06-24'
+  - 'Oral Histories: The Inevitables, 2025-06-26'
+  - 'Oral Histories: The Inevitables, 2025-07-09'
+  - 'Oral Histories: The Inevitables, 2025-07-13'
+  - 'Oral Histories: The Inevitables, 2025-07-18'
+  - 'Oral Histories: The Inevitables, 2025-07-19'
+  - 'Oral Histories: The Inevitables, 2025-08-08'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
 published: '2026-09-14'
 ---
 
