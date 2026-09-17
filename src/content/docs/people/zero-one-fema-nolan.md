@@ -139,4 +139,5 @@ She believes purpose and not hatred should shape a survivor's path, and says so 
 
 **Hobbies & Pets:** Unknown. She farms.
 
-![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3kqoi5.webp)
+![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu4w93wr.webp)
+
