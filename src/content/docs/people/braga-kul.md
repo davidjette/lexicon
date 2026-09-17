@@ -2,16 +2,16 @@
 title: Braga Kul
 description: Orc war-chief of the Uruk-Hoth recon regiment, who killed a paladin, refused to be taken alive, and died in a cell with a rock in his fist.
 tags:
-- Braga Kul
-- Bragga Kul
-- War-Chief Braga Kul
-- Uruk-Hoth
-- Uruk-Hoth recon regiment
-- orcs
-- The Mountain Door
-- The Korramont
-- Korth
-- Sir Dario Argentino
+  - Braga Kul
+  - Bragga Kul
+  - War-Chief Braga Kul
+  - Uruk-Hoth
+  - Uruk-Hoth recon regiment
+  - orcs
+  - The Mountain Door
+  - The Korramont
+  - Korth
+  - Sir Dario Argentino
 image:
   src: /images/uploads/braga-kul-mu0gwe0r.webp
 type: person
@@ -32,24 +32,24 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- C:/dev/sharn-campaign/session-2026-07-11-recap.md
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- sources/site/korth-episode-summaries.txt
-- worldanvil/CANON.md
-- "Oral Histories: The Inevitables, 2026-07-12"
-- "Oral Histories: The Inevitables, 2026-07-15"
-- "Oral Histories: The Inevitables, 2026-07-16"
+  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - sources/site/korth-episode-summaries.txt
+  - worldanvil/CANON.md
+  - 'Oral Histories: The Inevitables, 2026-07-12'
+  - 'Oral Histories: The Inevitables, 2026-07-15'
+  - 'Oral Histories: The Inevitables, 2026-07-16'
 published: '2026-09-10'
 wa:
   slug: braga-kul-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
-- src: /images/gallery/2026-07-13-05.webp
-  alt: Braga Kul stands over the fallen Dario
-  caption: The orc war-chief stands with his katana over a fallen dragonborn in dark armour while his warband closes in behind him. At the Mountain Door, Braga Kul kills Sir Dario Argentino.
-- src: /images/gallery/2026-07-19-03.webp
-  alt: The fox mask at Braga Kul's cell
-  caption: The fox-masked woman stands at iron bars in a torchlit corridor, facing a captive orc inside the cell. Masked, Gemma Corso questions the prisoner Braga Kul.
+  - src: /images/gallery/2026-07-13-05.webp
+    alt: Braga Kul stands over the fallen Dario
+    caption: The orc war-chief stands with his katana over a fallen dragonborn in dark armour while his warband closes in behind him. At the Mountain Door, Braga Kul kills Sir Dario Argentino.
+  - src: /images/gallery/2026-07-19-03.webp
+    alt: The fox mask at Braga Kul's cell
+    caption: The fox-masked woman stands at iron bars in a torchlit corridor, facing a captive orc inside the cell. Masked, Gemma Corso questions the prisoner Braga Kul.
 ---
 
 **Orc · War-Chief of the Uruk-Hoth recon regiment · Uruk-Hoth · Dead**
@@ -111,3 +111,5 @@ Dave's count of the first fight at the Mountain Door: "about 20 orcs including t
 **Organizations / Groups:** Uruk-Hoth; the recon regiment watching Korth.
 
 **Items:** A named orcish katana, inscription unread; the campaign book, now rebel intelligence; a rock.
+
+![Korth Ep 5 — The Korranberg Descent - A fallen Dario Killed by Braga Kul.png](/images/uploads/korth-ep-5-the-korranberg-descent-a-fall-mu65iqti.webp)
