@@ -1,32 +1,34 @@
 ---
 title: Leef Ep 10 — The Theater Bombing
 description: The first Newham session. St. Stamos cultists bomb a theater, a singer with element stones in her torso is not saved, and the party gains a home base.
+tags:
+  - Leef Ep 10
+  - The Theater Bombing
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Newham
+  - St. Stamos cultists
+  - St. Stamos
+  - The orc actress
+  - Club Mawniq
+  - Teleportation circle
+  - Gemma Corso
+  - Sir Dario Argentino
+  - Eric the Cleric
+image:
+  src: /images/uploads/leef-ep-10-the-theater-bombing-gemma-eri-mu643jop.webp
 sidebar:
   order: 160
 type: report
 kind: sessions
-tags:
-- Leef Ep 10
-- The Theater Bombing
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Newham
-- St. Stamos cultists
-- St. Stamos
-- The orc actress
-- Club Mawniq
-- Teleportation circle
-- Gemma Corso
-- Sir Dario Argentino
-- Eric the Cleric
 icon: fa-scroll
 fields: {}
 sources:
-- "Oral Histories: The Inevitables, 2025-09-25"
-- "Oral Histories: The Inevitables, 2025-09-26"
-- "Oral Histories: The Inevitables, 2025-09-27"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'Oral Histories: The Inevitables, 2025-09-25'
+  - 'Oral Histories: The Inevitables, 2025-09-26'
+  - 'Oral Histories: The Inevitables, 2025-09-27'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 published: '2026-09-14'
 ---
 
