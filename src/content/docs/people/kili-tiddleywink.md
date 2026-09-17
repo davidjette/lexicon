@@ -1,39 +1,39 @@
 ---
 title: Kili Tiddleywink
 description: A faerie monk of the Astral Way and the ship's cook of the SSJ Zanzibar, listed on its crew roster as Galley Master.
+tags:
+  - Kili Tiddleywink
+  - Kili
+  - Private Kili Tiddleywink
+  - Galley Master
+  - Faerie
+  - Fairy
+  - Monk
+  - SSJ Zanzibar
+  - Starfall
+  - Light of Xaryxis
+image:
+  src: /images/uploads/kili-tiddleywink-onboard-the-ssj-zanziba-mu4w5xxu.webp
+  alt: Kili the fairy chef
+  caption: A HeroForge miniature of a four-armed fairy in a chef's apron holding a cleaver, whisk, fish, teapot, mug and a flaming bowl.
 type: person
 kind: people
-tags:
-- Kili Tiddleywink
-- Kili
-- Private Kili Tiddleywink
-- Galley Master
-- Faerie
-- Fairy
-- Monk
-- SSJ Zanzibar
-- Starfall
-- Light of Xaryxis
 fields:
   gender: Male
   species: Faerie
   ggmtitle: Galley Master of the SSJ Zanzibar
   status: Unknown
 sources:
-- "Oral Histories: The Inevitables, 2022-05-02"
-- "Oral Histories: The Inevitables, 2022-07-14"
-- "Oral Histories: The Inevitables, 2022-09-26"
-- "Oral Histories: The Inevitables, 2022-10-09"
-- "Oral Histories: The Inevitables, 2023-01-27"
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-image:
-  src: /images/chat/2022-09-26-814663946551844.webp
-  alt: "Kili the fairy chef"
-  caption: "A HeroForge miniature of a four-armed fairy in a chef's apron holding a cleaver, whisk, fish, teapot, mug and a flaming bowl."
+  - 'Oral Histories: The Inevitables, 2022-05-02'
+  - 'Oral Histories: The Inevitables, 2022-07-14'
+  - 'Oral Histories: The Inevitables, 2022-09-26'
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
 gallery:
-- src: /images/chat/2022-07-14-593668185507065.webp
-  alt: "Crew line-up with the fairy cook"
-  caption: "HeroForge miniatures of the seated robot, the armoured dwarf, the uniformed captain, a four-armed fairy cook and Caprica."
+  - src: /images/chat/2022-07-14-593668185507065.webp
+    alt: Crew line-up with the fairy cook
+    caption: HeroForge miniatures of the seated robot, the armoured dwarf, the uniformed captain, a four-armed fairy cook and Caprica.
 ---
 
 **Faerie · Monk of the Astral Way · Galley Master, SSJ Zanzibar · Status unknown**
