@@ -1,32 +1,34 @@
 ---
 title: Leef Ep 4 — The Train Station
 description: An explosion at the train station, a Black Dove spared by Dario and later named Luz Fayana, and Dario nearly killed chasing a smite.
+tags:
+  - Leef Ep 4
+  - The Train Station
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Leef
+  - Leaf
+  - Gemma Corso
+  - Sir Dario Argentino
+  - The Black Doves
+  - Luz Fayana
+  - Luz Fayina
+  - Valenya Elenwe
+image:
+  src: /images/uploads/leef-ep-4-the-train-station-gemm-and-dar-mu669mtk.webp
 sidebar:
   order: 154
 type: report
 kind: sessions
-tags:
-- Leef Ep 4
-- The Train Station
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Leef
-- Leaf
-- Gemma Corso
-- Sir Dario Argentino
-- The Black Doves
-- Luz Fayana
-- Luz Fayina
-- Valenya Elenwe
 icon: fa-scroll
 fields: {}
 sources:
-- "Oral Histories: The Inevitables, 2025-08-22"
-- "Oral Histories: The Inevitables, 2025-08-23"
-- "Oral Histories: The Inevitables, 2025-09-27"
-- "Oral Histories: The Inevitables, 2025-10-19"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'Oral Histories: The Inevitables, 2025-08-22'
+  - 'Oral Histories: The Inevitables, 2025-08-23'
+  - 'Oral Histories: The Inevitables, 2025-09-27'
+  - 'Oral Histories: The Inevitables, 2025-10-19'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 published: '2026-09-14'
 ---
 
