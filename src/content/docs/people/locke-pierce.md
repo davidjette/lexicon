@@ -1,21 +1,24 @@
 ---
 title: Locke Pierce
 description: The founder of the Unforeseen who turned. He leads the Warforged nation of the Mournlands - and holds a weapon he has promised to use on the world.
+tags:
+  - Locke Pierce
+  - Locke
+  - Locke Peirce
+  - Rekkenmark
+  - Relic
+  - Newham Anex
+  - Unforeseen
+  - The Hundreds
+  - Warforged
+  - Mournlands
+  - Ruby Nova
+  - Mt. Silicon
+image:
+  src: /images/site/locke-pierce-1.webp
+  alt: Locke Pierce
 type: person
 kind: people
-tags:
-- Locke Pierce
-- Locke
-- Locke Peirce
-- Rekkenmark
-- Relic
-- Newham Anex
-- Unforeseen
-- The Hundreds
-- Warforged
-- Mournlands
-- Ruby Nova
-- Mt. Silicon
 icon: fa-robot
 fields:
   rpgAlignment: Unknown - no record states one, and his own conduct argues both ways
@@ -32,47 +35,44 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/wa/locke-pierce-person.txt
-- sources/wa/episode-2-E2809ChellE28099s-bellE2809D-dm3A-nico-report.txt
-- sources/wa/episode-3-28a2Cb2Cc29-E2809Cmassacre-on-the-talenta-plains-expressE2809D-dm3A-dave-report.txt
-- sources/wa/episode-6-28a26amp3Bb29-E2809C6-months-later-2F-the-tabletE2809D-dm3A-nico-report.txt
-- sources/wa/episode-8-28a26amp3Bb29-E2809Cpirate-joseph-roberts-dm3A-lamont-report.txt
-- sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
-- sources/wa/blood-of-vol-organization.txt
-- sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
-- sources/site/rebel-factions.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
-- sources/documents/2026-09-14-nico-evil-campaign-3.md
-- "Oral Histories: The Inevitables, 2026-06-27"
-- "Oral Histories: The Inevitables, 2026-07-04"
-- "Oral Histories: The Inevitables, 2026-08-11"
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/wa/locke-pierce-person.txt
+  - sources/wa/episode-2-E2809ChellE28099s-bellE2809D-dm3A-nico-report.txt
+  - sources/wa/episode-3-28a2Cb2Cc29-E2809Cmassacre-on-the-talenta-plains-expressE2809D-dm3A-dave-report.txt
+  - sources/wa/episode-6-28a26amp3Bb29-E2809C6-months-later-2F-the-tabletE2809D-dm3A-nico-report.txt
+  - sources/wa/episode-8-28a26amp3Bb29-E2809Cpirate-joseph-roberts-dm3A-lamont-report.txt
+  - sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
+  - sources/wa/blood-of-vol-organization.txt
+  - sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+  - sources/documents/2026-09-14-nico-evil-campaign-3.md
+  - 'Oral Histories: The Inevitables, 2026-06-27'
+  - 'Oral Histories: The Inevitables, 2026-07-04'
+  - 'Oral Histories: The Inevitables, 2026-08-11'
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: locke-pierce-person
   uuid: b0bcbcec-5fe3-4cd0-ac51-f7d2d1988aa0
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
-image:
-  src: /images/site/locke-pierce-1.webp
-  alt: Locke Pierce
 gallery:
-- src: /images/gallery/2025-12-19-06.webp
-  alt: 'The Unforeseen Strikes Back toy box: Locke Pierce'
-  caption: A mock toy-store shelf photo of a boxed playset titled "The Unforeseen Strikes Back - Locke Pierce Mournlands Fortress", showing a fur-coated figure before a green-lit fortress and a battling army.
-- src: /images/gallery/2026-03-31-02.webp
-  alt: Locke Pierce meets Preacher
-  caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
-- src: /images/gallery/2025-12-19-01.webp
-  alt: 3D figure of Locke Pierce
-  caption: A rendered 3D figure of Locke Pierce in a gas-mask helmet and quilted fur-trimmed coat, holding a spear and a pistol.
-- src: /images/gallery/2026-06-15-02.webp
-  alt: Chancellor Eric meets Locke Pierce
-  caption: Chancellor Eric the Cleric, in red coat and wig, speaks with the masked Locke Pierce in a fur-collared coat, in a stone room with armoured figures behind.
-- src: /images/gallery/2026-06-27-08.webp
-  alt: Arriving at Mt. Silicon with Locke Pierce
-  caption: Eric the Cleric, Lorian, Gemma Corso and an armoured knight follow Locke Pierce toward a fortified gate in a cliff, beside a giant warforged.
+  - src: /images/gallery/2025-12-19-06.webp
+    alt: 'The Unforeseen Strikes Back toy box: Locke Pierce'
+    caption: A mock toy-store shelf photo of a boxed playset titled "The Unforeseen Strikes Back - Locke Pierce Mournlands Fortress", showing a fur-coated figure before a green-lit fortress and a battling army.
+  - src: /images/gallery/2026-03-31-02.webp
+    alt: Locke Pierce meets Preacher
+    caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
+  - src: /images/gallery/2025-12-19-01.webp
+    alt: 3D figure of Locke Pierce
+    caption: A rendered 3D figure of Locke Pierce in a gas-mask helmet and quilted fur-trimmed coat, holding a spear and a pistol.
+  - src: /images/gallery/2026-06-15-02.webp
+    alt: Chancellor Eric meets Locke Pierce
+    caption: Chancellor Eric the Cleric, in red coat and wig, speaks with the masked Locke Pierce in a fur-collared coat, in a stone room with armoured figures behind.
+  - src: /images/gallery/2026-06-27-08.webp
+    alt: Arriving at Mt. Silicon with Locke Pierce
+    caption: Eric the Cleric, Lorian, Gemma Corso and an armoured knight follow Locke Pierce toward a fortified gate in a cliff, beside a giant warforged.
 ---
 
 **Warforged · Artificer / Armorer · [The Unforeseen](/organizations/the-unforeseen/), then The Hundreds · Ancient Relic Specialist, Director of the Rekkenmark Newham Annex, leader of the Warforged nation of the Mournlands · **Alive****
@@ -214,3 +214,5 @@ He has decided that the correct answer to an apocalypse is a smaller apocalypse 
 **Hobbies & Pets**
 
 None recorded.
+
+![Locke Pierce 2.png](/images/uploads/locke-pierce-2-mu65p3yj.webp)
