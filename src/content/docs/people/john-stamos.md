@@ -86,7 +86,7 @@ The Empire knew Stamos was a rebel. It killed him, blamed a second rebel for his
 
 ## Zero-One
 
-Fema Nolan was a respected Paladin of the Silver Flame from Thrane, known for compassion and discipline. After the death of her companion and fellow founder John Stamos, she undertook an ancient and nearly forgotten Silver Flame rite that strips away one's name and past — the first woman in centuries to do it — and emerged as **Zero-One**. She now leads Fulcrum out of Zilspar.
+Fema Nolan was a respected Paladin of the Silver Flame from Thrane, known for compassion and discipline. After the death of her companion and fellow founder John Stamos, she undertook an ancient and nearly forgotten Silver Flame rite that strips away one's name and past — the first woman in centuries to do it — and emerged as **Zero-One**. She now leads Fulcrum out of Zilspar. John has a daughter in her early 20's with Zero-One, known by Zero of Sharn. 
 
 ## How long ago
 
