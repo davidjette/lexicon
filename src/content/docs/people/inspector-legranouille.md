@@ -1,21 +1,23 @@
 ---
 title: Inspector LeGranouille
 description: The inspector who joined the trio in Newham after their heist, and who was Grand Duke John C. LeBeefe in disguise the whole time.
+tags:
+  - Inspector LeGranouille
+  - LeGranouille
+  - Granuille
+  - Granwille
+  - Inspector
+  - John C. LeBeefe
+  - Newham
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Gemma Corso
+  - Sir Dario Argentino
+  - Eric the Cleric
+image:
+  src: /images/uploads/inspector-legranouille-mu652tvt.webp
 type: person
 kind: people
-tags:
-- Inspector LeGranouille
-- LeGranouille
-- Granuille
-- Granwille
-- Inspector
-- John C. LeBeefe
-- Newham
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Gemma Corso
-- Sir Dario Argentino
-- Eric the Cleric
 icon: fa-magnifying-glass
 fields:
   rpgAlignment: Unknown
@@ -32,12 +34,12 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/dave/2026-09-14-legranouille-is-lebeefe.md
-- "Oral Histories: The Inevitables, 2025-10-23"
-- "Oral Histories: The Inevitables, 2025-11-10"
-- "Oral Histories: The Inevitables, 2025-11-22"
-- "Oral Histories: The Inevitables, 2025-12-05"
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - sources/dave/2026-09-14-legranouille-is-lebeefe.md
+  - 'Oral Histories: The Inevitables, 2025-10-23'
+  - 'Oral Histories: The Inevitables, 2025-11-10'
+  - 'Oral Histories: The Inevitables, 2025-11-22'
+  - 'Oral Histories: The Inevitables, 2025-12-05'
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 published: '2026-09-14'
 ---
 
@@ -77,3 +79,5 @@ LeGranouille turned out to be LeBeefe himself. Dave: "Le Granouille turned out t
 
 - **[John C. LeBeefe](/people/john-c-lebeefe/)** — himself; LeGranouille was his disguise. Killed at Newham.
 - **[Gemma Corso](/people/gemma-corso/)**, **[Sir Dario Argentino](/people/sir-dario-argentino/)** and **[Eric the Cleric](/people/eric-the-cleric/)** — joined them after their heist and followed with them the whole time.
+
+![John C. LeBeefe - Drops his illusion of Inspector LeGranouille 2.png](/images/uploads/john-c-lebeefe-drops-his-illusion-of-ins-mu65321r.webp)
