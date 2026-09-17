@@ -126,4 +126,6 @@ Two sources date his death differently. The rebel-faction record says *over a de
 
 **Related:** [Richard Blaze](/people/richard-blaze/) · [Lady Glow](/people/lady-glow/) · [John C. LeBeefe](/people/john-c-lebeefe/) · [The Unforeseen](/organizations/the-unforeseen/) · [Esther Crona](/people/esther-crona/)
 
-![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu3krhpv.webp)
+
+![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu4w7em2.webp)
+
