@@ -1,21 +1,23 @@
 ---
 title: The Clamshell Casino
 description: Newham's newly built casino, engine of the charter boom, house of Farps, Smelly Clam, Hand of Fate and War, lost with the city.
+tags:
+  - The Clamshell Casino
+  - Clamshell Casino
+  - Newham
+  - gambling
+  - Farps
+  - Smelly Clam
+  - Hand of Fate
+  - War
+  - Lightning-rail Hotel
+  - Albert Spear
+  - New Mourning
+  - John C. LeBeefe
+image:
+  src: /images/uploads/the-clamshell-casino-city-of-newham-mu653tuf.webp
 type: landmark
 kind: places
-tags:
-- The Clamshell Casino
-- Clamshell Casino
-- Newham
-- gambling
-- Farps
-- Smelly Clam
-- Hand of Fate
-- War
-- Lightning-rail Hotel
-- Albert Spear
-- New Mourning
-- John C. LeBeefe
 icon: fa-dice
 fields:
   type: Casino
@@ -27,9 +29,9 @@ fields:
   defenses: House security
   history: Built during the Imperial Charter boom that turned New Ham into Newham; destroyed with the city in the explosion that created the New Mourning
 sources:
-- sources/wa/the-clamshell-casino-landmark.txt
-- sources/wa/newham-settlement.txt
-- sources/site/rebel-factions.txt
+  - sources/wa/the-clamshell-casino-landmark.txt
+  - sources/wa/newham-settlement.txt
+  - sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: the-clamshell-casino-landmark
