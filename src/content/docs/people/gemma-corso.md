@@ -2,20 +2,20 @@
 title: Gemma Corso
 description: Archfey warlock, NEST agent FOXTALE, and the Inevitable who located two more of the Fantanya Nyel while wearing a dead advocate's face.
 tags:
-- Gemma Corso
-- Gemma
-- Corso
-- Foxtale
-- Foxtail
-- Deirdre Moro
-- Deedra Mora
-- The Inevitables
-- The Nest
-- Archfey Warlock
-- Kitsune
-- Heroes of Leef
+  - Gemma Corso
+  - Gemma
+  - Corso
+  - Foxtale
+  - Foxtail
+  - Deirdre Moro
+  - Deedra Mora
+  - The Inevitables
+  - The Nest
+  - Archfey Warlock
+  - Kitsune
+  - Heroes of Leef
 image:
-  src: /images/site/gemma-corso-1.webp
+  src: /images/uploads/gemma-corso-korth-wielding-bright-dawn-c-mu4wnfrf.webp
   alt: Gemma Corso
 type: person
 kind: people
@@ -35,67 +35,67 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- Nico's Sharn DM notes (character ideas)
-- worldanvil/sources/site/rebel-factions.txt
-- worldanvil/sources/site/sharn-episode-summaries.txt
-- worldanvil/sources/site/korth-episode-summaries.txt
-- worldanvil/sources/site/biotec.txt
-- handouts/foxtale-debrief.md
-- current-state.md
-- episodes.md
-- korth.md
-- npcs-korth.md
-- session-2026-07-11-recap.md
-- session-2026-07-15-recap.md
-- session-2026-07-17-recap.md
-- session-2026-08-07-recap.md
-- session-2026-08-21-recap.md
-- session-2026-08-28-summary-nichole-style.md
-- session-2026-09-04-summary.md
-- worldanvil/CANON.md
-- "Oral Histories: The Inevitables, 2025-06-07"
-- "Oral Histories: The Inevitables, 2025-09-27"
-- "Oral Histories: The Inevitables, 2026-03-31"
-- "Oral Histories: The Inevitables, 2026-05-09"
-- "Oral Histories: The Inevitables, 2026-06-06"
-- "Oral Histories: The Inevitables, 2026-06-13"
-- "Oral Histories: The Inevitables, 2026-06-19"
-- "Oral Histories: The Inevitables, 2026-07-06"
-- "Oral Histories: The Inevitables, 2026-07-07"
-- "Oral Histories: The Inevitables, 2026-07-15"
+  - Nico's Sharn DM notes (character ideas)
+  - worldanvil/sources/site/rebel-factions.txt
+  - worldanvil/sources/site/sharn-episode-summaries.txt
+  - worldanvil/sources/site/korth-episode-summaries.txt
+  - worldanvil/sources/site/biotec.txt
+  - handouts/foxtale-debrief.md
+  - current-state.md
+  - episodes.md
+  - korth.md
+  - npcs-korth.md
+  - session-2026-07-11-recap.md
+  - session-2026-07-15-recap.md
+  - session-2026-07-17-recap.md
+  - session-2026-08-07-recap.md
+  - session-2026-08-21-recap.md
+  - session-2026-08-28-summary-nichole-style.md
+  - session-2026-09-04-summary.md
+  - worldanvil/CANON.md
+  - 'Oral Histories: The Inevitables, 2025-06-07'
+  - 'Oral Histories: The Inevitables, 2025-09-27'
+  - 'Oral Histories: The Inevitables, 2026-03-31'
+  - 'Oral Histories: The Inevitables, 2026-05-09'
+  - 'Oral Histories: The Inevitables, 2026-06-06'
+  - 'Oral Histories: The Inevitables, 2026-06-13'
+  - 'Oral Histories: The Inevitables, 2026-06-19'
+  - 'Oral Histories: The Inevitables, 2026-07-06'
+  - 'Oral Histories: The Inevitables, 2026-07-07'
+  - 'Oral Histories: The Inevitables, 2026-07-15'
 published: '2026-09-10'
 wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
-- src: /images/album/gemma-corso-and-kitsune-1.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
-- src: /images/album/gemma-corso-and-kitsune-2.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
-- src: /images/album/gemma-corso-and-kitsune-3.webp
-  alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
-  caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
-- src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
-  caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
-- src: /images/gallery/2025-12-29-04.webp
-  alt: Gemma Corso portrait
-  caption: Gemma Corso, a red-haired tiefling in a mustard jacket and rust scarf, stands with a dagger in hand and her tail curling behind her.
-- src: /images/gallery/2026-06-07-03.webp
-  alt: Gemma Corso as Foxtale in Korth
-  caption: Gemma Corso, a horned tiefling with a long red braid in dark clothes, stands in a rain-wet alley between tall Gothic buildings.
-- src: /images/gallery/2026-07-11-01.webp
-  alt: Gemma dances with Kitsune
-  caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
-- src: /images/gallery/2026-08-10-03.webp
-  alt: Gemma's dream of the fountain
-  caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
-- src: /images/gallery/2025-12-19-04.webp
-  alt: 3D figure of Gemma Corso
-  caption: A rendered 3D figure of a red-haired tiefling woman with curling horns, a braid, a long red scarf and a tail, holding a short sword.
+  - src: /images/album/gemma-corso-and-kitsune-1.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-corso-and-kitsune-2.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-corso-and-kitsune-3.webp
+    alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
+    caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
+    caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'
+  - src: /images/gallery/2025-12-29-04.webp
+    alt: Gemma Corso portrait
+    caption: Gemma Corso, a red-haired tiefling in a mustard jacket and rust scarf, stands with a dagger in hand and her tail curling behind her.
+  - src: /images/gallery/2026-06-07-03.webp
+    alt: Gemma Corso as Foxtale in Korth
+    caption: Gemma Corso, a horned tiefling with a long red braid in dark clothes, stands in a rain-wet alley between tall Gothic buildings.
+  - src: /images/gallery/2026-07-11-01.webp
+    alt: Gemma dances with Kitsune
+    caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
+  - src: /images/gallery/2026-08-10-03.webp
+    alt: Gemma's dream of the fountain
+    caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
+  - src: /images/gallery/2025-12-19-04.webp
+    alt: 3D figure of Gemma Corso
+    caption: A rendered 3D figure of a red-haired tiefling woman with curling horns, a braid, a long red scarf and a tail, holding a short sword.
 ---
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**
@@ -248,4 +248,5 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 
 Lalo Kitsune, a summoned fey fox drawn out of the charges in her armour, who drops cubes of darkness where they are needed. Performance and the horn, learned recently, for professional reasons.
 
-![Gemma Corso - Foxtale in Korth.png](/images/uploads/gemma-corso-foxtale-in-korth-mu0jno5w.webp)
+![Gemma Corso - Sharn.png](/images/uploads/gemma-corso-sharn-mu4wqc69.webp)
+
