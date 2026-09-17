@@ -2,19 +2,19 @@
 title: Grand Duke John C. LeBeefe
 description: Slaver, Magister, Mayor, Grand Duke. Founder of the Unforeseen, killed at Newham - and still whispering to the people who killed him.
 tags:
-- Inspector LeGranouille
-- John C. LeBeefe
-- LeBeefe
-- LaBeefe
-- LeBeef
-- New Ham
-- Newham
-- Unforeseen
-- Slaves
-- Slaver
-- Grand Duke
-- New Mourning
-- LeBeefe Eye
+  - Inspector LeGranouille
+  - John C. LeBeefe
+  - LeBeefe
+  - LaBeefe
+  - LeBeef
+  - New Ham
+  - Newham
+  - Unforeseen
+  - Slaves
+  - Slaver
+  - Grand Duke
+  - New Mourning
+  - LeBeefe Eye
 image:
   src: /images/uploads/lebeefe-mu0k80ml.webp
 type: person
@@ -35,34 +35,34 @@ fields:
   height: Unknown - he can also be miniature
   weight: Unknown
 sources:
-- sources/dave/2026-09-14-legranouille-is-lebeefe.md
-- sources/wa/john-c-lebeefe-person.txt
-- sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
-- sources/wa/episode-4-28a26amp3Bb29-E2809Cnew-cyreE2809D-dm3A-lamont-report.txt
-- sources/wa/episode-6-28a26amp3Bb29-E2809C6-months-later-2F-the-tabletE2809D-dm3A-nico-report.txt
-- sources/wa/episode-7-E2809CvacationE2809D-dm3A-dave-report.txt
-- sources/wa/episode-8-28a26amp3Bb29-E2809Cpirate-joseph-roberts-dm3A-lamont-report.txt
-- sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
-- sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
-- sources/site/rebel-factions.txt
-- sources/site/key-figures.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
-- sources/documents/2026-09-14-nico-evil-campaign-3.md
-- "Oral Histories: The Inevitables, 2025-08-30"
-- "Oral Histories: The Inevitables, 2025-08-31"
-- "Oral Histories: The Inevitables, 2025-12-05"
-- "Oral Histories: The Inevitables, 2026-09-11"
+  - sources/dave/2026-09-14-legranouille-is-lebeefe.md
+  - sources/wa/john-c-lebeefe-person.txt
+  - sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
+  - sources/wa/episode-4-28a26amp3Bb29-E2809Cnew-cyreE2809D-dm3A-lamont-report.txt
+  - sources/wa/episode-6-28a26amp3Bb29-E2809C6-months-later-2F-the-tabletE2809D-dm3A-nico-report.txt
+  - sources/wa/episode-7-E2809CvacationE2809D-dm3A-dave-report.txt
+  - sources/wa/episode-8-28a26amp3Bb29-E2809Cpirate-joseph-roberts-dm3A-lamont-report.txt
+  - sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
+  - sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/key-figures.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+  - sources/documents/2026-09-14-nico-evil-campaign-3.md
+  - 'Oral Histories: The Inevitables, 2025-08-30'
+  - 'Oral Histories: The Inevitables, 2025-08-31'
+  - 'Oral Histories: The Inevitables, 2025-12-05'
+  - 'Oral Histories: The Inevitables, 2026-09-11'
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person
   uuid: 1ecf7ea6-fb90-428a-b597-50e72631b841
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
 gallery:
-- src: /images/gallery/2025-09-12-01.webp
-  alt: 'Parchment: the fortune of John C. LeBeefe'
-  caption: A parchment handout stating that John C. LeBeefe made his fortune as a slave trader in the Demon Wastes, let fiends harvest his seed, and fathered four tiefling daughters, the eldest adopted by Imperial Counselor Veryn Crona as his protege.
+  - src: /images/gallery/2025-09-12-01.webp
+    alt: 'Parchment: the fortune of John C. LeBeefe'
+    caption: A parchment handout stating that John C. LeBeefe made his fortune as a slave trader in the Demon Wastes, let fiends harvest his seed, and fathered four tiefling daughters, the eldest adopted by Imperial Counselor Veryn Crona as his protege.
 ---
 
 **Human · Aberrant Mind Sorcerer · [The Unforeseen](/organizations/the-unforeseen/) and the Imperial Ministry · Magister of New Ham, Mayor of [Newham](/places/newham/), Grand Duke of the Eastern Provinces · Dead — killed at Newham, and still audible**
@@ -202,4 +202,6 @@ The Clamshell Casino. Nothing kept.
 - **Taby PC** — leader of the gang Booty Salad in New Cyre; cut a deal to move Embrace through New Ham.
 - **[Eric the Cleric](/people/eric-the-cleric/)** — spent time around him and carries the residue: half damage from psychic attacks, a tune from the Black Palace, and a voice that will not stop asking him to ring a bell.
 
-![Visions of LeBeefe.png](/images/uploads/visions-of-lebeefe-mu0x6odp.webp)
+
+![John C. LeBeefe - True Form.png](/images/uploads/john-c-lebeefe-true-form-mu65gwvi.webp)
+
