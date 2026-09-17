@@ -1,20 +1,22 @@
 ---
 title: Leef
 description: The last eastern stop on the lightning rail, liberated from LeBeefe's occupation and refounded as the capital of the Republic of Talenta.
+tags:
+  - Leef
+  - Leaf
+  - Republic of Talenta
+  - John C. LeBeefe
+  - Thadric Rourke
+  - Zero of Leef
+  - Princess Orange Chicken
+  - Heroes of Leef
+  - Mror Holds
+  - New Mourning
+  - The Inevitables
+image:
+  src: /images/uploads/main-st-in-leef-dario-eric-and-gemma-mu655ikj.webp
 type: settlement
 kind: places
-tags:
-- Leef
-- Leaf
-- Republic of Talenta
-- John C. LeBeefe
-- Thadric Rourke
-- Zero of Leef
-- Princess Orange Chicken
-- Heroes of Leef
-- Mror Holds
-- New Mourning
-- The Inevitables
 icon: fa-flag
 fields:
   type: Town; now the Republic of Talenta
@@ -29,18 +31,18 @@ fields:
   history: Occupied by Grand Duke John C. LeBeefe with illithid city guards and Iron Veil; liberated by the future Inevitables and local defenders
   owner: The Republic of Talenta
 sources:
-- sources/site/rebel-factions.txt
-- sources/wa/john-c-lebeefe-person.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- "Oral Histories: The Inevitables, 2025-06-24"
-- "Oral Histories: The Inevitables, 2025-08-22"
-- "Oral Histories: The Inevitables, 2025-09-06"
-- "Oral Histories: The Inevitables, 2025-09-07"
-- "Oral Histories: The Inevitables, 2025-09-12"
-- "Oral Histories: The Inevitables, 2025-09-27"
-- "Oral Histories: The Inevitables, 2025-12-18"
-- "Oral Histories: The Inevitables, 2025-12-21"
+  - sources/site/rebel-factions.txt
+  - sources/wa/john-c-lebeefe-person.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - 'Oral Histories: The Inevitables, 2025-06-24'
+  - 'Oral Histories: The Inevitables, 2025-08-22'
+  - 'Oral Histories: The Inevitables, 2025-09-06'
+  - 'Oral Histories: The Inevitables, 2025-09-07'
+  - 'Oral Histories: The Inevitables, 2025-09-12'
+  - 'Oral Histories: The Inevitables, 2025-09-27'
+  - 'Oral Histories: The Inevitables, 2025-12-18'
+  - 'Oral Histories: The Inevitables, 2025-12-21'
 published: '2026-09-10'
 wa:
   slug: leef-location
@@ -75,3 +77,5 @@ Leef soldiers were among the ships that filled the sky above Sharn on the night 
 
 - **The airship yard:** built under LeBeefe's occupation.
 - **The lightning rail terminus:** the last eastern stop on the line.
+
+![Leef Lightning Rail and Air-Ship Terminal 2.png](/images/uploads/leef-lightning-rail-and-air-ship-termina-mu656kho.webp)
