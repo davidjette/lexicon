@@ -1,21 +1,23 @@
 ---
 title: Sanctum of the Last Mercy
 description: 'Sharn''s Black Dove hospital in GoldSky: destination of Circuit City''s corpse skylift, and site of a crated Fantanya Nyel and an unfinished bell tower.'
+tags:
+  - Sanctum of the Last Mercy
+  - Black Dove Hospital
+  - The Black Doves
+  - Sister Nora
+  - Sharn
+  - Upper City
+  - GoldSky
+  - Fantanya Nyel
+  - Edwin Graves
+  - Silver Flame
+  - Zero of Sharn
+  - Horn of Mourning
+image:
+  src: /images/uploads/sanctum-of-the-last-mercy-upper-city-sha-mu6dbjxg.webp
 type: landmark
 kind: places
-tags:
-- Sanctum of the Last Mercy
-- Black Dove Hospital
-- The Black Doves
-- Sister Nora
-- Sharn
-- Upper City
-- GoldSky
-- Fantanya Nyel
-- Edwin Graves
-- Silver Flame
-- Zero of Sharn
-- Horn of Mourning
 icon: fa-hospital
 fields:
   type: Hospital and religious foundation
@@ -29,19 +31,19 @@ fields:
   history: Seized on the night of the rising; its bell was later broken by Dario Argentino with KNELL
   inhabitants: Formerly Black Dove clergy under Sister Nora
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/ebt-7.txt
-- C:/dev/sharn-campaign/session-2026-08-28-summary.md
-- C:/dev/sharn-campaign/npcs.md
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/ebt-7.txt
+  - C:/dev/sharn-campaign/session-2026-08-28-summary.md
+  - C:/dev/sharn-campaign/npcs.md
 published: '2026-09-10'
 wa:
   slug: sanctum-of-the-last-mercy-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/gallery/2026-09-03-07.webp
-  alt: Before the crated bell
-  caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino, warhammer in hand, stand before the great bell in its straw-packed crate. The first bell sits crated in the unfinished tower above the hospital.
+  - src: /images/gallery/2026-09-03-07.webp
+    alt: Before the crated bell
+    caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino, warhammer in hand, stand before the great bell in its straw-packed crate. The first bell sits crated in the unfinished tower above the hospital.
 ---
 
 **Hospital · [GoldSky Neighborhood](/places/goldsky-neighborhood/), [Upper City](/places/the-upper-city/) · Black Dove foundation · SEIZED**
