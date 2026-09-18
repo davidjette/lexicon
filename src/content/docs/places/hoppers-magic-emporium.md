@@ -1,19 +1,21 @@
 ---
 title: Hopper's Magic Emporium
 description: The Lower City magic shop whose deed changed hands when Edwin Graves died, and which has outfitted the rebellion ever since.
+tags:
+  - Hopper's Magic Emporium
+  - Hopper
+  - The Arcade
+  - Sub-line District
+  - Sharn
+  - Lower City
+  - Edwin Graves
+  - Candy Crush
+  - Summon Dragon
+  - magic shop
+image:
+  src: /images/uploads/hopper-s-magic-emporium-lower-city-sharn-mu6dm9cu.webp
 type: landmark
 kind: places
-tags:
-- Hopper's Magic Emporium
-- Hopper
-- The Arcade
-- Sub-line District
-- Sharn
-- Lower City
-- Edwin Graves
-- Candy Crush
-- Summon Dragon
-- magic shop
 icon: fa-wand-sparkles
 fields:
   type: Magic shop
@@ -25,17 +27,17 @@ fields:
   defenses: Its own stock
   history: Struck a major supply deal with the rebellion after acquiring the Arcade; cast Summon Dragon into a Ring of Spell Storing for the Inevitables
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-08-28-summary.md
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-08-28-summary.md
 published: '2026-09-10'
 wa:
   slug: hopper26230393Bs-magic-emporium-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/gallery/2026-05-09-03.webp
-  alt: At Hopper's Magic Emporium
-  caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino at the counter of a cluttered magic shop, where a frog-like shopkeeper holds up a scroll among potions and curios.
+  - src: /images/gallery/2026-05-09-03.webp
+    alt: At Hopper's Magic Emporium
+    caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino at the counter of a cluttered magic shop, where a frog-like shopkeeper holds up a scroll among potions and curios.
 ---
 
 **Shop · [Sub-line District](/places/sub-line-district/), [Lower City](/places/the-lower-city/) · Magic shop · Standing and expanding**
