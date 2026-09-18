@@ -1,17 +1,19 @@
 ---
 title: Lowline Ward
 description: 'The southeast Lower City ward: high-rise apartment clusters above Gear Street, a small business park, and the district''s only urgent care centre.'
+tags:
+  - Lowline Ward
+  - Sharn
+  - Lower City
+  - Gear Street Markets
+  - urgent care
+  - residential
+  - The Cogs
+  - apartment towers
+image:
+  src: /images/uploads/lowline-ward-lower-city-sharn-mu6dk7pa.webp
 type: settlement
 kind: places
-tags:
-- Lowline Ward
-- Sharn
-- Lower City
-- Gear Street Markets
-- urgent care
-- residential
-- The Cogs
-- apartment towers
 icon: fa-building
 fields:
   type: Residential district
@@ -24,8 +26,8 @@ fields:
   defenses: None notable
   owner: Unknown
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
 published: '2026-09-10'
 wa:
   slug: lowline-ward-location
