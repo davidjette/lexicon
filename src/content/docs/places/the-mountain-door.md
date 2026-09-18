@@ -1,18 +1,20 @@
 ---
 title: The Mountain Door
 description: 'The fortified dwarven gate at the top of the Korramont road: arrow slits, a rift, a Warden Statue, and five months of orc tenancy that ended badly.'
+tags:
+  - The Mountain Door
+  - Mountain Door
+  - The Korramont
+  - Korranberg
+  - Deeptempura
+  - Braga Kul
+  - Uruk-Hoth
+  - Warden Statue
+  - Grand Stair
+image:
+  src: /images/uploads/the-mountain-door-fortified-gate-complex-mu6gblxf.webp
 type: building / landmark
 kind: places
-tags:
-- The Mountain Door
-- Mountain Door
-- The Korramont
-- Korranberg
-- Deeptempura
-- Braga Kul
-- Uruk-Hoth
-- Warden Statue
-- Grand Stair
 icon: fa-dungeon
 fields:
   type: Fortified gatehouse and mine entrance
@@ -20,27 +22,27 @@ fields:
   location: Top of the switchback road above Korranberg, on the Korramont
   population: None
 sources:
-- C:/dev/sharn-campaign/session-2026-07-11-recap.md
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- C:/dev/sharn-campaign/session-2026-07-17-recap.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-mountain-door-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
 gallery:
-- src: /images/gallery/2026-07-12-23.webp
-  alt: Deirdre's face in the archer nook
-  caption: The disguised Gemma Corso stands sword in hand in a narrow stone arrow gallery, a slain orc at her feet and an armoured orc looming behind her. At the Mountain Door she misty-steps into an archer nook and clears it with Bright Dawn.
-- src: /images/gallery/2026-07-12-24.webp
-  alt: Graham's face at the Mountain Door
-  caption: The disguised Eric the Cleric advances with shield and blade through a stone passage wreathed in glowing golden mathematical symbols, while an orc archer aims through an arrow slit. Eric's spirit guardians manifest as golden math symbols.
-- src: /images/gallery/2026-07-13-01.webp
-  alt: Battle on the rope bridge
-  caption: A rider on a black horse charges across a rope bridge over a fiery rift, beside a warrior inside a ring of golden symbols, with an orc caster and a woman in red fighting beyond.
-- src: /images/gallery/2026-07-19-04.webp
-  alt: Wall of fire at the rope bridge
-  caption: A roaring wall of fire runs along a rope bridge as orcs charge through the smoke toward it. Eric's wall of fire seals the doorway and burns the bridge away.
+  - src: /images/gallery/2026-07-12-23.webp
+    alt: Deirdre's face in the archer nook
+    caption: The disguised Gemma Corso stands sword in hand in a narrow stone arrow gallery, a slain orc at her feet and an armoured orc looming behind her. At the Mountain Door she misty-steps into an archer nook and clears it with Bright Dawn.
+  - src: /images/gallery/2026-07-12-24.webp
+    alt: Graham's face at the Mountain Door
+    caption: The disguised Eric the Cleric advances with shield and blade through a stone passage wreathed in glowing golden mathematical symbols, while an orc archer aims through an arrow slit. Eric's spirit guardians manifest as golden math symbols.
+  - src: /images/gallery/2026-07-13-01.webp
+    alt: Battle on the rope bridge
+    caption: A rider on a black horse charges across a rope bridge over a fiery rift, beside a warrior inside a ring of golden symbols, with an orc caster and a woman in red fighting beyond.
+  - src: /images/gallery/2026-07-19-04.webp
+    alt: Wall of fire at the rope bridge
+    caption: A roaring wall of fire runs along a rope bridge as orcs charge through the smoke toward it. Eric's wall of fire seals the doorway and burns the bridge away.
 ---
 
 **Fortified gate complex - the surface entrance to the Korramont**
