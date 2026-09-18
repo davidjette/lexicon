@@ -2,17 +2,17 @@
 title: Gear Street Markets
 description: 'The Lower City''s busiest commercial artery: scrap vendors, food stalls, Doppler Klink''s stall, and Circuit City at the end of it.'
 tags:
-- Gear Street Markets
-- Gear St. Markets
-- Gear Street
-- Sharn
-- Lower City
-- Doppler Klink
-- Doppler Klank
-- Circuit City
-- Cog Collector
-- The Cogs
-- ArcEye
+  - Gear Street Markets
+  - Gear St. Markets
+  - Gear Street
+  - Sharn
+  - Lower City
+  - Doppler Klink
+  - Doppler Klank
+  - Circuit City
+  - Cog Collector
+  - The Cogs
+  - ArcEye
 image:
   src: /images/uploads/gear-street-markets-mu0o327c.webp
 type: settlement
@@ -30,21 +30,21 @@ fields:
   defenses: Iron Veil patrols on streets and catwalks historically
   owner: Circuit City and several other properties were held by Dr. Edwin Graves
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/rebel-factions.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: gear-street-markets-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/gallery/2026-02-23-03.webp
-  alt: Doppler Klink at his Arcane Gear stall
-  caption: A painted portrait of Doppler Klink at his market stall under a sign reading "Doppler Klink Arcane Gear", with a shoulder-mounted device and a sign offering wands for 10 sovereigns.
-- src: /images/gallery/2026-04-04-14.webp
-  alt: Snodgrass and a cat at the market
-  caption: Snodgrass in his feathered red cap looks down at an orange cat on a rain-slick street under a neon MARKET sign.
+  - src: /images/gallery/2026-02-23-03.webp
+    alt: Doppler Klink at his Arcane Gear stall
+    caption: A painted portrait of Doppler Klink at his market stall under a sign reading "Doppler Klink Arcane Gear", with a shoulder-mounted device and a sign offering wands for 10 sovereigns.
+  - src: /images/gallery/2026-04-04-14.webp
+    alt: Snodgrass and a cat at the market
+    caption: Snodgrass in his feathered red cap looks down at an orange cat on a rain-slick street under a neon MARKET sign.
 ---
 
 **District · [Lower City](/places/the-lower-city/), south · Commercial artery · Standing**
@@ -72,3 +72,5 @@ Doppler Klink left with his people during the Cogborn exodus, came back, and now
 - **Doppler Klink's Arcane Gear:** repairs, custom wands, and the best-informed stall on the street.
 - **[Circuit City](/places/circuit-city/):** the largest building on Gear Street; chip implants, refurbished BioTec equipment, and worse.
 - **The cargo skylift:** Circuit City's private rooftop lift, still programmed to run between the shop and the Black Dove Hospital; it dropped a corpse on the market.
+
+![Snodgrass in Gear Street Market.png](/images/uploads/snodgrass-in-gear-street-market-mu6f9by4.webp)
