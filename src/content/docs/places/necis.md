@@ -1,22 +1,26 @@
 ---
 title: Necis
 description: A planet erased from the Lexicon, now destroyed, where the Time Tombs stood, the Shrike originated and the climax of Starfall happened.
+tags:
+  - Necis
+  - Necis 1
+  - Neesus
+  - the Time Tombs
+  - Lightfoot City
+  - sea of grass
+  - Tesla forest
+  - Chronos Keep
+  - the Shrike
+  - the Shrike pilgrimage
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+image:
+  src: /images/uploads/necis-remnants-of-the-time-tombs-1-mu6jskw7.webp
+  alt: The remnants of Necis
+  caption: A TaleSpire scene of the destroyed remnants of Necis
 type: location
 kind: places
-tags:
-- Necis
-- Necis 1
-- Neesus
-- the Time Tombs
-- Lightfoot City
-- sea of grass
-- Tesla forest
-- Chronos Keep
-- the Shrike
-- the Shrike pilgrimage
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
 icon: fa-globe
 fields:
   type: Planet (destroyed)
@@ -28,23 +32,19 @@ fields:
   status: Destroyed; its remnants remain
   includedLocations: Lightfoot City, the sea of grass, the Tesla forest, Chronos Keep, the Valley of the Time Tombs, the palace, the senate
 sources:
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-- "Oral Histories: The Inevitables, 2023-11-18"
-- "Oral Histories: The Inevitables, 2023-12-22"
-- "Oral Histories: The Inevitables, 2024-02-10"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-04-12"
-- "Oral Histories: The Inevitables, 2024-04-13"
-- "Oral Histories: The Inevitables, 2024-04-27"
-- "Oral Histories: The Inevitables, 2024-06-09"
-- "Oral Histories: The Inevitables, 2025-01-12"
-- "Oral Histories: The Inevitables, 2025-02-28"
-- Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
-image:
-  src: /images/gallery/2025-02-08-01.webp
-  alt: "The remnants of Necis"
-  caption: "A TaleSpire scene of the destroyed remnants of Necis"
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
+  - 'Oral Histories: The Inevitables, 2023-11-18'
+  - 'Oral Histories: The Inevitables, 2023-12-22'
+  - 'Oral Histories: The Inevitables, 2024-02-10'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-12'
+  - 'Oral Histories: The Inevitables, 2024-04-13'
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - 'Oral Histories: The Inevitables, 2024-06-09'
+  - 'Oral Histories: The Inevitables, 2025-01-12'
+  - 'Oral Histories: The Inevitables, 2025-02-28'
+  - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
 ---
 
 **Planet · Erased from the Lexicon · Site of the Time Tombs · Destroyed**
@@ -84,3 +84,8 @@ In *The Starsong Awakens* the characters went back to Necis on 2025-02-28, in a 
 - **The Valley of the Time Tombs:** the site of the Time Tombs.
 - **The palace:** explored with care on the pilgrimage.
 - **The senate:** where a blast went off as the party left.
+
+
+![Necis - Remnants of the Time Tombs and The Star Song.png](/images/uploads/necis-remnants-of-the-time-tombs-and-the-mu6jt2vl.webp)
+
+
