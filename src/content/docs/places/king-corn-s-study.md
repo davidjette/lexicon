@@ -1,19 +1,21 @@
 ---
 title: King Corn's study
 description: 'A room on the foundry level with two layers: the treasure and sheet music anyone would take, and the floor cache nobody opened for three years.'
+tags:
+  - King Corn's study
+  - Corn's study
+  - King Corn
+  - Korranberg Foundry
+  - the folio
+  - the horn
+  - fanfare of dawn
+  - Tome of Understanding
+  - Sedda Tiddes Deeptempura
+  - The Korramont
+image:
+  src: /images/uploads/king-corn-s-study-private-study-the-korr-mu6forlb.webp
 type: building / landmark
 kind: places
-tags:
-- King Corn's study
-- Corn's study
-- King Corn
-- Korranberg Foundry
-- the folio
-- the horn
-- fanfare of dawn
-- Tome of Understanding
-- Sedda Tiddes Deeptempura
-- The Korramont
 icon: fa-book
 fields:
   type: Private study and floor cache
@@ -21,9 +23,9 @@ fields:
   location: The Korranberg Foundry level, inside the Korramont
   population: None
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/current-state.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/current-state.md
 published: '2026-09-10'
 wa:
   slug: king-corn26230393Bs-study-location
