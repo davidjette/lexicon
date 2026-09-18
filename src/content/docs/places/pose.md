@@ -2,20 +2,20 @@
 title: POSÉ
 description: Richard Blaze's newest Upper City restaurant, whose grand opening ended in a Cogborn riot, a murdered news anchor and a live execution broadcast.
 tags:
-- POSÉ
-- Pose
-- Pocē
-- Richard Blaze
-- Sharn
-- Upper City
-- Candice Kurt
-- Sister Nora
-- Cogborn protest
-- Esther Crona
-- Vilspar Co-operative
-- Joanne Menka
+  - POSÉ
+  - Pose
+  - Pocē
+  - Richard Blaze
+  - Sharn
+  - Upper City
+  - Candice Kurt
+  - Sister Nora
+  - Cogborn protest
+  - Esther Crona
+  - Vilspar Co-operative
+  - Joanne Menka
 image:
-  src: /images/uploads/pose-opening-2-sharn-episode-2-pose-mu0oqprt.webp
+  src: /images/uploads/veil-hq-building-and-pose-upper-city-sha-mu6dgdpd.webp
   alt: 'Episode 2: “POSÉ”'
   caption: 'Episode 2: “POSÉ”'
 type: landmark
@@ -32,38 +32,38 @@ fields:
   defenses: Event security; overwhelmed by the Cogborn protest
   history: At its grand opening a protest surged the staircase, shots killed the anchor Candice Kurt, and Sister Nora was abducted in the panic
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/pose-mission-notes.txt
-- sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/pose-mission-notes.txt
+  - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-10'
 wa:
   slug: posE-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/site/pose-2.webp
-  alt: 'Episode 2: “POSÉ”'
-  caption: 'Episode 2: “POSÉ”'
-- src: /images/site/pose-3.webp
-  alt: Page updated
-  caption: Page updated
-- src: /images/site/pose-4.webp
-  alt: Page updated
-  caption: Page updated
-- src: /images/site/pose-5.webp
-  alt: Page updated
-  caption: Page updated
-- src: /images/site/pose-6.webp
-  alt: Page updated
-  caption: Page updated
-- src: /images/gallery/2025-12-28-02.webp
-  alt: POSÉ Restaurant & Grill logo
-  caption: 'The POSÉ Restaurant & Grill logo: an orange flame beside the name on a black background.'
-- src: /images/gallery/2026-01-03-02.webp
-  alt: POSÉ menu on parchment
-  caption: 'The POSÉ Restaurant & Grill menu on aged parchment: small bites such as Spicy Newham Pork Tacos, signature cocktails and elemental hookah blends.'
-- src: /images/gallery/2026-01-06-06.webp
-  alt: POSÉ menu
-  caption: A plain printed POSÉ Restaurant & Grill menu listing small bites, signature cocktails and hookah elemental blends.
+  - src: /images/site/pose-2.webp
+    alt: 'Episode 2: “POSÉ”'
+    caption: 'Episode 2: “POSÉ”'
+  - src: /images/site/pose-3.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/site/pose-4.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/site/pose-5.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/site/pose-6.webp
+    alt: Page updated
+    caption: Page updated
+  - src: /images/gallery/2025-12-28-02.webp
+    alt: POSÉ Restaurant & Grill logo
+    caption: 'The POSÉ Restaurant & Grill logo: an orange flame beside the name on a black background.'
+  - src: /images/gallery/2026-01-03-02.webp
+    alt: POSÉ menu on parchment
+    caption: 'The POSÉ Restaurant & Grill menu on aged parchment: small bites such as Spicy Newham Pork Tacos, signature cocktails and elemental hookah blends.'
+  - src: /images/gallery/2026-01-06-06.webp
+    alt: POSÉ menu
+    caption: A plain printed POSÉ Restaurant & Grill menu listing small bites, signature cocktails and hookah elemental blends.
 ---
 
 **Restaurant · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Richard Blaze's newest venue · Standing**
@@ -174,3 +174,5 @@ The opening menu, in Nico's notes: <small>(Nico's DM notes, Episode 2)</small>
 - **Small bites:** Spicy Newham Pork Tacos (braised pork, Newham cabbage spice, charred pineapple, micro-cilantro) · Ember-Glazed Shrimp Skewers (honey-chili glaze, torch-kissed finish) · Cinder-Roasted Mushroom Tartlets (roasted mushrooms, caramelized onion, smoked cheese) · Fire-Kissed Citrus Crème Bites, for dessert (brûléed citrus custard, ember caramel shard, warm spice).
 - **Signature cocktails:** Skyfire Saffron (golden gin, saffron syrup, citrus, ember-salt rim) · Cinderstorm (mezcal, blood orange, smoked chili, flaming peel) · Dragonhawk Ember (spiced whiskey, ruby cordial, crackling sugar) · Forge-Born Fizz (champagne, ginger fire syrup, glowing ember cube).
 - **Hookah, elemental blends:** Blazeleaf No. 13 (a warm, spicy exhale infused with Newham cabbage) · Cinderbloom Ember Mix (floral smoke grown near Fernian zones) · Dragon's Breath Red (a deep ruby blend with a cinnamon-ember finish).
+
+![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-mu6dgvja.webp)
