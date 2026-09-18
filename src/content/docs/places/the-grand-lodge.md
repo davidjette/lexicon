@@ -1,19 +1,21 @@
 ---
 title: The Grand Lodge
 description: A former guild hall on the Summer Palace grounds where non-Imperial dignitaries gather, and whose guest records the Ministry of Law wants seized.
+tags:
+  - The Grand Lodge
+  - Summer Palace
+  - Ivory Lazaret
+  - Freyd Merkin
+  - Ministry of Law
+  - Lhazaar pirates
+  - Joseph Roberts
+  - Deirdre Moro
+  - Uriel Qualanthri
+  - Uruk-Hoth
+image:
+  src: /images/uploads/the-grand-lodge-guild-hall-the-summer-pa-mu6j6heg.webp
 type: landmark
 kind: places
-tags:
-- The Grand Lodge
-- Summer Palace
-- Ivory Lazaret
-- Freyd Merkin
-- Ministry of Law
-- Lhazaar pirates
-- Joseph Roberts
-- Deirdre Moro
-- Uriel Qualanthri
-- Uruk-Hoth
 icon: fa-scroll
 fields:
   type: Guild hall and meeting house
@@ -25,10 +27,10 @@ fields:
   defenses: Imperial oversight of the grounds; the Ministry has ordered arrests of saboteurs and suspected pirates on site
   history: Subject of a Ministry of Law seizure order issued by Vice Admiral Freyd Merkin, on suspicion of dealings with Lhazaar pirates
 sources:
-- C:/dev/sharn-campaign/deirdre-moro-cases.md
-- sources/site/korth-episode-summaries.txt
-- sources/site/pose-mission-notes.txt
-- C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/deirdre-moro-cases.md
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/pose-mission-notes.txt
+  - C:/dev/sharn-campaign/npcs-korth.md
 published: '2026-09-10'
 wa:
   slug: the-grand-lodge-location
