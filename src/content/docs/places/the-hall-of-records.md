@@ -1,21 +1,23 @@
 ---
 title: The Hall of Records
 description: 'Korth''s Ministry of Records: library, university and wizard''s tower by turns, now emptied of anything naming a dragon.'
+tags:
+  - Hall of Records
+  - Ministry of Records
+  - Korth
+  - Great Plaza
+  - Master Armhair
+  - forger
+  - Form 7-168
+  - Sky Rizzy
+  - Eric the Cleric
+  - Karrnathi law
+  - dragon lore
+  - Jelton Ahn
+image:
+  src: /images/uploads/the-hall-of-records-landmark-the-ministr-mu6hfdql.webp
 type: landmark
 kind: places
-tags:
-- Hall of Records
-- Ministry of Records
-- Korth
-- Great Plaza
-- Master Armhair
-- forger
-- Form 7-168
-- Sky Rizzy
-- Eric the Cleric
-- Karrnathi law
-- dragon lore
-- Jelton Ahn
 icon: fa-book-atlas
 fields:
   type: Imperial archive and ministry
@@ -24,19 +26,19 @@ fields:
   parentLocation: Korth
   purpose: 'Holding the Empire''s most controlled material: sensitive documents, secrets, licences, ancestral records, great magical knowledge'
 sources:
-- C:/dev/sharn-campaign/korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/npcs-korth.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-hall-of-records-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
 gallery:
-- src: /images/gallery/2026-09-07-05.webp
-  alt: Master Armhair in the Hall of Records
-  caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
+  - src: /images/gallery/2026-09-07-05.webp
+    alt: Master Armhair in the Hall of Records
+    caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
 ---
 
 **Landmark · The Ministry of Records · North side of [Korth](/places/korth/), across [the Great Plaza](/places/the-great-plaza/) · Access restricted**
