@@ -1,19 +1,23 @@
 ---
 title: Lantern District
 description: 'The Lower City''s northwest nightlife quarter: paper lanterns, late-night bars, a rooftop Air-Pad, and The Vault Below in the old sub-levels.'
+tags:
+  - Lantern District
+  - Sharn
+  - Lower City
+  - The Vault Below
+  - Gremlin Lantern Sake Bar
+  - Nightwick Motel
+  - Air-Pad
+  - Grady Marsh
+  - Children of Ember
+  - nightlife
+image:
+  src: /images/uploads/lantern-district-lower-city-sharn-mu6dj1ks.webp
+  alt: Lantern District — Northwest
+  caption: Lantern District — Northwest
 type: settlement
 kind: places
-tags:
-- Lantern District
-- Sharn
-- Lower City
-- The Vault Below
-- Gremlin Lantern Sake Bar
-- Nightwick Motel
-- Air-Pad
-- Grady Marsh
-- Children of Ember
-- nightlife
 icon: fa-lightbulb
 fields:
   type: City district
@@ -26,23 +30,19 @@ fields:
   defenses: Private door security at the Vault Below; Iron Veil patrols historically
   owner: Unknown
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: lantern-district-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
-image:
-  src: /images/site/lantern-district-1.webp
-  alt: Lantern District — Northwest
-  caption: Lantern District — Northwest
 gallery:
-- src: /images/gallery/2026-02-22-09.webp
-  alt: The trio at a lantern-lit food stall
-  caption: Eric, Gemma and Dario lean on the counter of a crowded food stall under red paper lanterns while a cook serves.
-- src: /images/gallery/2026-02-25-02.webp
-  alt: Map of Sharn's Lower City
-  caption: A district map titled "Sharn Lower City", showing the Lantern District, City Center and the Ziggurat, the Sub-Line District, the Grand Aqueduct, the Small Waterway, the Cogs, Gear St. Markets and Lowline Ward.
+  - src: /images/gallery/2026-02-22-09.webp
+    alt: The trio at a lantern-lit food stall
+    caption: Eric, Gemma and Dario lean on the counter of a crowded food stall under red paper lanterns while a cook serves.
+  - src: /images/gallery/2026-02-25-02.webp
+    alt: Map of Sharn's Lower City
+    caption: A district map titled "Sharn Lower City", showing the Lantern District, City Center and the Ziggurat, the Sub-Line District, the Grand Aqueduct, the Small Waterway, the Cogs, Gear St. Markets and Lowline Ward.
 ---
 
 **District · [Lower City](/places/the-lower-city/), northwest · Nightlife quarter · Standing**
@@ -65,3 +65,5 @@ The lanterns still burn all night. The cells below the Vault were emptied, the C
 - **Gremlin Lantern Sake Bar:** a small bar whose regulars are the district's early-warning system; Grady Marsh's local.
 - **The Nightwick Motel:** cheap rooms between two apartment towers.
 - **[The Vault Below](/places/the-vault-below/):** a club and gaming house in the old sub-levels, with a great deal beneath it.
+
+![Sharn Ep 6 — The Vault Below - Outside The Vault Below - Sharn Lower City - Lantern District.png](/images/uploads/sharn-ep-6-the-vault-below-outside-the-v-mu6djils.webp)
