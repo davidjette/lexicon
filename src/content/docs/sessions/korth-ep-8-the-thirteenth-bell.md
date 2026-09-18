@@ -79,4 +79,7 @@ At the end of the hall was a door sealed with a [Black Dove](/organizations/the-
 
 The Tso siblings made their offer: descend, find the remains of Sedda and [King Corn](/people/king-corn/), bring them back, and the kin would give the trio anything — hospitality, knowledge of the bells, and access to **Corn's folio**, the complete record of the forging of Shavat and the bells. Eric was now visibly compromised and still hiding how badly.
 
+![Korth Ep 8 — The Thirteenth Bell - Gemma, Dario and Eric searching King Corn's study - Private study - the Korranberg Foundry level, inside the Korramont.png](/images/uploads/korth-ep-8-the-thirteenth-bell-gemma-dar-mu6fxmal.webp)
+
 ![Korth Ep 8 — The Thirteenth Bell - Eric, Gemma and Dario fight the Vampiric undead Sister Calvane.png](/images/uploads/korth-ep-8-the-thirteenth-bell-eric-gemm-mu3ln2c7.webp)
+
