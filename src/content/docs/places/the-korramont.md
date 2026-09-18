@@ -1,21 +1,23 @@
 ---
 title: The Korramont
 description: 'The mountain above Korranberg: a seam of infernal Black Khyber, a dwarven hold turned Imperial slave foundry, and now the declared domain of a black dragon.'
+tags:
+  - The Korramont
+  - Korramont
+  - Korranberg
+  - King's Forest
+  - Karrnath
+  - Shavat
+  - Black Khyber
+  - Shavarite
+  - Deeptempura
+  - Deep Tempura
+  - Glitterhame
+  - Valtrex
+image:
+  src: /images/uploads/korth-ep-7-the-glitterhame-and-the-grave-mu6hoql5.webp
 type: geographic location
 kind: places
-tags:
-- The Korramont
-- Korramont
-- Korranberg
-- King's Forest
-- Karrnath
-- Shavat
-- Black Khyber
-- Shavarite
-- Deeptempura
-- Deep Tempura
-- Glitterhame
-- Valtrex
 icon: fa-mountain
 fields:
   type: Mountain and mining complex
@@ -23,16 +25,16 @@ fields:
   location: Foothills of the King's Forest, north of Korth, Karrnath
   population: A Teryaki camp of fourteen bedrolls in the Great Hall; one dragon; the dead
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-07-11-recap.md
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- C:/dev/sharn-campaign/session-2026-07-17-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
-- worldanvil/CANON.md
-- "Oral Histories: The Inevitables, 2026-07-15"
-- "Oral Histories: The Inevitables, 2026-08-15"
-- "Oral Histories: The Inevitables, 2026-08-20"
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - C:/dev/sharn-campaign/handouts/caius-foundry-manifest.md
+  - worldanvil/CANON.md
+  - 'Oral Histories: The Inevitables, 2026-07-15'
+  - 'Oral Histories: The Inevitables, 2026-08-15'
+  - 'Oral Histories: The Inevitables, 2026-08-20'
 published: '2026-09-10'
 wa:
   slug: the-korramont-location
