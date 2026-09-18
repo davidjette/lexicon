@@ -1,21 +1,25 @@
 ---
 title: Korth
 description: 'The walled, steam-driven imperial capital of Karrnath: clean, quiet, tasteful and morbid, with nobody on the throne for ten years.'
+tags:
+  - Korth
+  - Karrnath
+  - Imperial Capital
+  - aqua vitae
+  - Great Plaza
+  - Hall of Records
+  - Ministry of Law
+  - Hall of Submission
+  - Throne of Bones
+  - Altar of the Guardian
+  - Black Dove cloister
+  - Korthish
+image:
+  src: /images/uploads/korth-city-kingdom-of-karrnath-political-mu6gmb5u.webp
+  alt: 'Korth Listening Station - Korth Episode: The Listening Post'
+  caption: 'Korth Listening Station - Korth Episode: The Listening Post'
 type: settlement
 kind: places
-tags:
-- Korth
-- Karrnath
-- Imperial Capital
-- aqua vitae
-- Great Plaza
-- Hall of Records
-- Ministry of Law
-- Hall of Submission
-- Throne of Bones
-- Altar of the Guardian
-- Black Dove cloister
-- Korthish
 icon: fa-city
 fields:
   type: City — imperial capital and garrison
@@ -27,28 +31,24 @@ fields:
   location: Kingdom of Karrnath, on a river with twice-daily boats to the Summer Palace and the Ivory Lazaret
   alternativename: The Imperial Capital
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- C:/dev/sharn-campaign/npcs-korth.md
-- "Oral Histories: The Inevitables, 2026-07-06"
-- "Oral Histories: The Inevitables, 2026-08-12"
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - 'Oral Histories: The Inevitables, 2026-07-06'
+  - 'Oral Histories: The Inevitables, 2026-08-12'
 published: '2026-09-10'
 wa:
   slug: korth-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
-image:
-  src: /images/album/korth-listening-station.webp
-  alt: 'Korth Listening Station - Korth Episode: The Listening Post'
-  caption: 'Korth Listening Station - Korth Episode: The Listening Post'
 gallery:
-- src: /images/album/korth-undead-corpse-transfer.webp
-  alt: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
-  caption: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
-- src: /images/gallery/2026-07-12-16.webp
-  alt: Skull-masked rider in the streets of Korth
-  caption: The skull-masked samurai rides a black horse down a rain-slick gothic street under airships, past a red poster reading "Loyalty is its own reward".
+  - src: /images/album/korth-undead-corpse-transfer.webp
+    alt: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
+    caption: 'Imperial capital of Korth - Undead corpse transfer - Korth Episode: The Listening Post'
+  - src: /images/gallery/2026-07-12-16.webp
+    alt: Skull-masked rider in the streets of Korth
+    caption: The skull-masked samurai rides a black horse down a rain-slick gothic street under airships, past a red poster reading "Loyalty is its own reward".
 ---
 
 **City · Kingdom of Karrnath · Political capital and ceremonial seat of the Pax Imperium · Standing**
@@ -137,3 +137,5 @@ Three operatives of the Inevitables are living in a dead advocate's apartment on
 - **The river landing:** boats twice daily to the Summer Palace and the Ivory Lazaret.
 
 > "Korth is like the oldest capital of the non-Sharnian kingdoms. Sharn has this mystical depth to it, but Karrnath has one of the first real ones. And it hasn't changed very much."
+
+![Korth Ep 14 — The Listening Post - Korth Listening Sation.png](/images/uploads/korth-ep-14-the-listening-post-korth-lis-mu6gmpsd.webp)
