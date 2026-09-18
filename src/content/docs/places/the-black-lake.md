@@ -1,20 +1,22 @@
 ---
 title: The black lake
 description: 'Acid water three hundred feet under the foundry: a dragon''s hoard, a crowned corpse, and the machine the Empire built to bleed him.'
+tags:
+  - the black lake
+  - black lake
+  - The Korramont
+  - Valtrex
+  - Vuldrach
+  - King Corn
+  - KNELL
+  - Crown of Seven Stars
+  - dragon blood
+  - Korranberg Foundry
+  - Sedda Tiddes Deeptempura
+image:
+  src: /images/uploads/the-black-lake-subterranean-lake-at-the-mu6j0h0w.webp
 type: geographic location
 kind: places
-tags:
-- the black lake
-- black lake
-- The Korramont
-- Valtrex
-- Vuldrach
-- King Corn
-- KNELL
-- Crown of Seven Stars
-- dragon blood
-- Korranberg Foundry
-- Sedda Tiddes Deeptempura
 icon: fa-water
 fields:
   type: Subterranean lake and dragon lair
@@ -22,19 +24,19 @@ fields:
   location: Three hundred feet beneath the Korranberg Foundry, inside the Korramont
   population: One dragon
 sources:
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/current-state.md
-- worldanvil/CANON.md
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/current-state.md
+  - worldanvil/CANON.md
 published: '2026-09-10'
 wa:
   slug: the-black-lake-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
 gallery:
-- src: /images/gallery/2026-08-26-01.webp
-  alt: Eric rides Valtrex over the black lake
-  caption: A horned black dragon crouches over a glowing green acid lake while a man in a red coat rides its back with a mace raised. Eric teleports onto Valtrex's back and shatters his collar.
+  - src: /images/gallery/2026-08-26-01.webp
+    alt: Eric rides Valtrex over the black lake
+    caption: A horned black dragon crouches over a glowing green acid lake while a man in a red coat rides its back with a mace raised. Eric teleports onto Valtrex's back and shatters his collar.
 ---
 
 **Subterranean lake and dragon lair - the bottom of the Korramont**
