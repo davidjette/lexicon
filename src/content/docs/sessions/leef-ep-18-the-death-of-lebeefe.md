@@ -15,7 +15,7 @@ tags:
   - Sir Dario Argentino
   - Eric the Cleric
 image:
-  src: /images/uploads/leef-ep-18-the-death-of-lebeefe-gemma-da-mu3hrr49.webp
+  src: /images/uploads/leef-ep-18-the-death-of-lebeefe-gemma-da-mu6kr2nt.webp
 sidebar:
   order: 168
 type: report
