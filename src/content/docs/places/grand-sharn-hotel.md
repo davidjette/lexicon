@@ -1,19 +1,21 @@
 ---
 title: Grand Sharn Hotel
 description: The Upper City's busiest civilian tower, attached to the Sharn Theater, carrying the city's only rotating permanent ArcEye camera on its roof.
+tags:
+  - Grand Sharn Hotel
+  - Sharn Theater
+  - Sharn
+  - Upper City
+  - GoldSky
+  - ArcEye
+  - EBT-7
+  - Sharn Broadcast Override
+  - hospitality
+  - rooftop camera
+image:
+  src: /images/uploads/grand-sharn-hotel-upper-city-sharn-mu6da42k.webp
 type: landmark
 kind: places
-tags:
-- Grand Sharn Hotel
-- Sharn Theater
-- Sharn
-- Upper City
-- GoldSky
-- ArcEye
-- EBT-7
-- Sharn Broadcast Override
-- hospitality
-- rooftop camera
 icon: fa-hotel
 fields:
   type: Hotel
@@ -26,8 +28,8 @@ fields:
   history: Identified as one of four viable EBT-7 override sites for the Sharn Broadcast Override
   sensory: Unknown
 sources:
-- sources/site/ebt-7.txt
-- sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/home.txt
 published: '2026-09-10'
 wa:
   slug: grand-sharn-hotel-location
