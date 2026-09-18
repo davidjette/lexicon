@@ -18,7 +18,7 @@ tags:
   - R.U.S.T.
   - Fantanya Nyel
 image:
-  src: /images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-mu3k4keq.webp
+  src: /images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-mu6enkp9.webp
 type: article
 kind: lore
 icon: fa-scale-balanced
@@ -105,3 +105,5 @@ By nightfall a provisional government existed. [Eric](/people/eric-the-cleric/) 
 **Established:** the Council of Sharn, provisional government · **Chancellor:** Eric the Cleric · **Executed:** Sister Nora, Hillary Heinrick, Joanne Menka and senior Iron Veil officials · **Unresolved:** the theft of Esther Crona's body
 
 <small>The Chancellor's seat is given as Chancellor of Sharn throughout the episode record; one campaign note calls the same office Chancellor of Char. The variant is unresolved.</small>
+
+![Sharn Ep 19 — The Council of Sharn - Dario, Izaak, Berenstain, Blair being arrested - Sharn Upper City.jpg](/images/uploads/sharn-ep-19-the-council-of-sharn-dario-i-mu6eodzl.webp)
