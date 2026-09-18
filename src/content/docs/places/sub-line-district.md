@@ -1,21 +1,23 @@
 ---
 title: Sub-line District
 description: 'Built on the ruins of Lightning Rail Sub-Transit Station 1: Station One Market above, and R.U.S.T.''s control room hidden below.'
+tags:
+  - Sub-line District
+  - Subline District
+  - Sharn
+  - Lower City
+  - Station One Market
+  - Lightning Rail
+  - Sub-Transit
+  - House Orien
+  - R.U.S.T.
+  - RUST
+  - Hopper's Magic Emporium
+  - The Arcade
+image:
+  src: /images/uploads/station-one-market-lower-city-sharn-sub-mu6dlnpz.webp
 type: settlement
 kind: places
-tags:
-- Sub-line District
-- Subline District
-- Sharn
-- Lower City
-- Station One Market
-- Lightning Rail
-- Sub-Transit
-- House Orien
-- R.U.S.T.
-- RUST
-- Hopper's Magic Emporium
-- The Arcade
 icon: fa-train-subway
 fields:
   type: City district
@@ -28,9 +30,9 @@ fields:
   defenses: None formal; the Drain Snakes held the sewers below until they were cleared
   owner: Several properties here were secretly held by Dr. Edwin Graves
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
 published: '2026-09-10'
 wa:
   slug: sub-line-district-location
@@ -65,3 +67,5 @@ The tunnels beneath the Ziggurat and Sub-Line District were held by the **Drain 
 - **Kross Roads Corner Store:** Karin Kross's shop; household goods, and a family the Empire kept asking questions about.
 - **The boarded apartment:** across from Kross Roads; a wine cellar, two ghosts, and a panel behind the fireplace.
 - **The Sub-Transit control room:** R.U.S.T.'s headquarters, reached through a pawn shop.
+
+![Arcade - Lower City, Sharn - Sub-line District.png](/images/uploads/arcade-lower-city-sharn-sub-line-distric-mu6dlv84.webp)
