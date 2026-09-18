@@ -1,21 +1,23 @@
 ---
 title: Circuit City
 description: The abandoned chip-implant parlour on Gear Street where Edwin Graves ran the Cog Collector's pipeline, with a corpse skylift on the roof.
+tags:
+  - Circuit City
+  - CircuitCity
+  - Edwin Graves
+  - Cog Collector
+  - BioTec
+  - Gear Street Markets
+  - Sharn
+  - Lower City
+  - cargo skylift
+  - Black Dove Hospital
+  - ArcEye Crystallizer
+  - Cogborn
+image:
+  src: /images/uploads/chatgpt-image-sep-17-2026-06-33-58-pm-mu6cpqat.webp
 type: landmark
 kind: places
-tags:
-- Circuit City
-- CircuitCity
-- Edwin Graves
-- Cog Collector
-- BioTec
-- Gear Street Markets
-- Sharn
-- Lower City
-- cargo skylift
-- Black Dove Hospital
-- ArcEye Crystallizer
-- Cogborn
 icon: fa-microchip
 fields:
   type: Shop and clandestine laboratory
@@ -28,21 +30,21 @@ fields:
   history: Edwin Graves was killed here and exposed as the Cog Collector and the secret private owner of BioTec; six ill Cogborn were rescued
   sensory: Empty shelves, sealed back rooms, and a roof that smells of the lift
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
 published: '2026-09-10'
 wa:
   slug: circuit-city-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/gallery/2026-04-04-01.webp
-  alt: Dr. Edwin Graves among his captives
-  caption: Dr. Edwin Graves, masked and in a long black coat, stands before cages of emaciated prisoners reaching through the bars in a red-lit backroom.
-- src: /images/gallery/2026-04-04-02.webp
-  alt: The abomination in Circuit City's backroom
-  caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino fight a hulking flesh abomination among the tanks and machinery of Edwin Graves's hidden laboratory behind Circuit City.
+  - src: /images/gallery/2026-04-04-01.webp
+    alt: Dr. Edwin Graves among his captives
+    caption: Dr. Edwin Graves, masked and in a long black coat, stands before cages of emaciated prisoners reaching through the bars in a red-lit backroom.
+  - src: /images/gallery/2026-04-04-02.webp
+    alt: The abomination in Circuit City's backroom
+    caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino fight a hulking flesh abomination among the tanks and machinery of Edwin Graves's hidden laboratory behind Circuit City.
 ---
 
 **Shop · [Gear Street Markets](/places/gear-street-markets/), [Lower City](/places/the-lower-city/) · Chip-implant parlour · ABANDONED**
