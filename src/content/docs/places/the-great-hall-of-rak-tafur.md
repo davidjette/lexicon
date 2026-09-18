@@ -1,20 +1,22 @@
 ---
 title: The Great Hall of Rak'tafur
 description: The Deeptempura throne hall beneath the Korramont, now a camp of Teryaki kin who came home to bury their dead and take the mountain back.
+tags:
+  - The Great Hall of Rak'tafur
+  - Rak'tafur
+  - Rak'tafur
+  - Rak'tafur hospitality
+  - The Korramont
+  - Deeptempura
+  - Teryaki
+  - Madame Tso Teryaki
+  - General Tso
+  - Korranberg Foundry
+  - Iron Door
+image:
+  src: /images/uploads/the-great-hall-of-rak-tafur-throne-hall-mu6h05sf.webp
 type: building / landmark
 kind: places
-tags:
-- The Great Hall of Rak'tafur
-- Rak'tafur
-- Rak'tafur
-- Rak'tafur hospitality
-- The Korramont
-- Deeptempura
-- Teryaki
-- Madame Tso Teryaki
-- General Tso
-- Korranberg Foundry
-- Iron Door
 icon: fa-chess-rook
 fields:
   type: Throne hall and refugee camp
@@ -22,18 +24,18 @@ fields:
   location: Inside the Korramont, adjoining the Korranberg Foundry level
   population: Fourteen bedrolls counted; headcount unrecorded
 sources:
-- C:/dev/sharn-campaign/session-2026-07-17-recap.md
-- C:/dev/sharn-campaign/session-2026-08-07-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-17-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-07-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-great-hall-of-rak26230393Btafur-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
 gallery:
-- src: /images/gallery/2026-07-20-08.webp
-  alt: Returning the belt to Madame Tso
-  caption: In a pillared hall of carved dragons and waiting dwarves, Eric the Cleric in a white wig and red coat hands an object to a white-haired duergar woman, with Gemma Corso and Sir Dario Argentino beside him. Madame Tso Teryaki names the party grave robbers and takes back her husband's Belt of Dwarvenkind.
+  - src: /images/gallery/2026-07-20-08.webp
+    alt: Returning the belt to Madame Tso
+    caption: In a pillared hall of carved dragons and waiting dwarves, Eric the Cleric in a white wig and red coat hands an object to a white-haired duergar woman, with Gemma Corso and Sir Dario Argentino beside him. Madame Tso Teryaki names the party grave robbers and takes back her husband's Belt of Dwarvenkind.
 ---
 
 **Throne hall - the seat of the Deeptempura, beneath the Korramont**
