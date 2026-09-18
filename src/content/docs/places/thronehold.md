@@ -1,22 +1,24 @@
 ---
 title: Thronehold
 description: Khorvaire's neutral island meeting ground, where Vex d'Lyrandar's Peace Summit became a massacre broadcast live on the Empire's own cameras.
+tags:
+  - Thronehold
+  - Peace Summit
+  - Vex d'Lyrandar
+  - Maelis Dorn
+  - Maylas Dorne
+  - Uriel Qualanthri
+  - Eric the Cleric
+  - Locke Pierce
+  - The Hundreds
+  - Black Doves
+  - Ruby Nova
+  - The Last Mourning
+  - Council of Mayors
+image:
+  src: /images/uploads/korth-ep-2-storm-above-thronehold-air-at-mu6htiwf.webp
 type: settlement
 kind: places
-tags:
-- Thronehold
-- Peace Summit
-- Vex d'Lyrandar
-- Maelis Dorn
-- Maylas Dorne
-- Uriel Qualanthri
-- Eric the Cleric
-- Locke Pierce
-- The Hundreds
-- Black Doves
-- Ruby Nova
-- The Last Mourning
-- Council of Mayors
 icon: fa-handshake-slash
 fields:
   type: Island city and neutral meeting ground
@@ -29,18 +31,18 @@ fields:
   owner: None
   sensory: Burning rooftops, smoke, debris and lightning
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/episodes.md
-- "Oral Histories: The Inevitables, 2026-06-06"
-- "Oral Histories: The Inevitables, 2026-06-19"
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/episodes.md
+  - 'Oral Histories: The Inevitables, 2026-06-06'
+  - 'Oral Histories: The Inevitables, 2026-06-19'
 published: '2026-09-10'
 wa:
   slug: thronehold-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
 gallery:
-- src: /images/gallery/2026-06-21-04.webp
-  alt: Warships bombard Thronehold
-  caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
+  - src: /images/gallery/2026-06-21-04.webp
+    alt: Warships bombard Thronehold
+    caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
 ---
 
 **Island city and neutral ground · Khorvaire · Site of the Peace Summit · Ruined and bombarded**
