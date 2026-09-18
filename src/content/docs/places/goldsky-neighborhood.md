@@ -13,7 +13,7 @@ tags:
   - Iron Veil
   - Grand Sharn Hotel
 image:
-  src: /images/uploads/goldsky-neighborhood-mu0o7tfz.webp
+  src: /images/uploads/sharn-upper-city-goldsky-neighborhood-mu6dvv2e.webp
 type: settlement
 kind: places
 icon: fa-gem
