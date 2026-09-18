@@ -61,3 +61,5 @@ At the founding of the Council of Sharn the Underhive asked for legal ownership 
 - **[The Ziggurat](/places/the-ziggurat/):** markets, services, an eatery, a foundry, an implant clinic and a fighting pit.
 - **[Misty's Pawn Shop](/places/mistys-pawn-shop/):** pawnbroking above, a hidden tunnel below.
 - **The main Lower City gates:** the way out of Sharn by road and rail.
+
+![Misty's Pawn Shop - Lower City, Sharn - City Center.png](/images/uploads/misty-s-pawn-shop-lower-city-sharn-city-mu6di0q0.webp)
