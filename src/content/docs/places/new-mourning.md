@@ -1,19 +1,21 @@
 ---
 title: New Mourning
 description: The toxic wasteland left when the rising against John C. LeBeefe collapsed Newham City in an otherworldly explosion.
+tags:
+  - New Mourning
+  - Newham
+  - John C. LeBeefe
+  - LeBeefe
+  - Republic of Talenta
+  - Leef
+  - Digma Beeve
+  - Mror Holds
+  - wasteland
+  - Greenbluff
+image:
+  src: /images/uploads/new-mourning-city-of-newham-eastern-khor-mu6ihl7a.webp
 type: geography
 kind: places
-tags:
-- New Mourning
-- Newham
-- John C. LeBeefe
-- LeBeefe
-- Republic of Talenta
-- Leef
-- Digma Beeve
-- Mror Holds
-- wasteland
-- Greenbluff
 icon: fa-skull-crossbones
 fields:
   type: Corrupted region
@@ -26,10 +28,10 @@ fields:
   owner: Unclaimed
   defenses: The land itself
 sources:
-- sources/site/rebel-factions.txt
-- sources/wa/john-c-lebeefe-person.txt
-- sources/wa/the-unforeseen-organization.txt
-- sources/wa/newham-settlement.txt
+  - sources/site/rebel-factions.txt
+  - sources/wa/john-c-lebeefe-person.txt
+  - sources/wa/the-unforeseen-organization.txt
+  - sources/wa/newham-settlement.txt
 published: '2026-09-10'
 wa:
   slug: new-mourning-location
