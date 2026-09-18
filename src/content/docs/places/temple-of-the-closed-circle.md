@@ -1,21 +1,23 @@
 ---
 title: Temple of the Closed Circle
 description: The buried temple beneath Sharn holding an incomplete portal to Xoriat, reached through a wardrobe in a flower shop.
+tags:
+  - Temple of the Closed Circle
+  - Closed Circle
+  - Xoriat
+  - Sharn
+  - mind flayer
+  - Ulitharid
+  - The Brain
+  - Albert Spear
+  - Fulcrum
+  - The Unforeseen
+  - Uriel Qualanthri
+  - Fema Nolan
+image:
+  src: /images/uploads/the-temple-of-the-closed-circle-dungeon-mu6isaoa.webp
 type: landmark
 kind: places
-tags:
-- Temple of the Closed Circle
-- Closed Circle
-- Xoriat
-- Sharn
-- mind flayer
-- Ulitharid
-- The Brain
-- Albert Spear
-- Fulcrum
-- The Unforeseen
-- Uriel Qualanthri
-- Fema Nolan
 icon: fa-dungeon
 fields:
   type: Dungeon
@@ -28,8 +30,8 @@ fields:
   history: Discovered and resurrected by the Cult of the Closed Circle; found simultaneously by the Unforeseen and by Albert Spear with Fulcrum, who were killed there; Uriel Qualanthri was killed and resurrected in the same fight
   sensory: Unknown
 sources:
-- sources/wa/temple-of-the-closed-circle-landmark.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/wa/temple-of-the-closed-circle-landmark.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: temple-of-the-closed-circle-landmark
