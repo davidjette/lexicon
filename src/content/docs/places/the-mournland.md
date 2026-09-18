@@ -2,18 +2,18 @@
 title: The Mournland
 description: 'The dead kingdom of Cyre: poisonous fog, dead that rise where they fall, the Glass Plateau, Mt. Silicon, and the Ruby Nova.'
 tags:
-- The Mournland
-- Mournlands
-- Cyre
-- Glass Plateau
-- Mt. Silicon
-- Locke Pierce
-- The Hundreds
-- Ruby Nova
-- The Last Mourning
-- Mistborn illness
-- Cyrean Red Pomegranate
-- Project E.D.E.N.
+  - The Mournland
+  - Mournlands
+  - Cyre
+  - Glass Plateau
+  - Mt. Silicon
+  - Locke Pierce
+  - The Hundreds
+  - Ruby Nova
+  - The Last Mourning
+  - Mistborn illness
+  - Cyrean Red Pomegranate
+  - Project E.D.E.N.
 image:
   src: /images/uploads/the-mournlands-mu0vbyer.webp
 type: geography
@@ -32,18 +32,18 @@ fields:
   owner: The Hundreds hold the Glass Plateau
   ruler: Locke Pierce, over the Hundreds; no ruler of the region is recorded
 sources:
-- sources/site/korth-episode-summaries.txt
-- sources/site/pose-mission-notes.txt
-- C:/dev/sharn-campaign/biotec.md
-- C:/dev/sharn-campaign/npcs.md
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/pose-mission-notes.txt
+  - C:/dev/sharn-campaign/biotec.md
+  - C:/dev/sharn-campaign/npcs.md
 published: '2026-09-10'
 wa:
   slug: the-mournland-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
 gallery:
-- src: /images/gallery/2026-06-27-04.webp
-  alt: A portal in the Mournland
-  caption: A ring of white light glows inside a twisted black stone arch standing in a flat, dead green-grey waste beneath jagged spires.
+  - src: /images/gallery/2026-06-27-04.webp
+    alt: A portal in the Mournland
+    caption: A ring of white light glows inside a twisted black stone arch standing in a flat, dead green-grey waste beneath jagged spires.
 ---
 
 **Region · the dead kingdom of Cyre, central Khorvaire · Toxic and undead-haunted · Held by the Hundreds**
@@ -81,3 +81,5 @@ Survival requires specialised masks against the toxic air. The Hundreds issue up
 
 > "Stop Uriel before she rings the bells. If you fail, I will end this world before she can, and only my kind will survive it."\
 > — Locke Pierce, at Mt. Silicon
+
+![Korth Ep 3 — The Last Mourning - Gemma teleports Silver Flame Paladin from undead in The Mournlands.png](/images/uploads/korth-ep-3-the-last-mourning-gemma-telep-mu6hqdi1.webp)
