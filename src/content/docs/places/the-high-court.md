@@ -1,21 +1,23 @@
 ---
 title: The High Court
 description: 'Korth''s capital court: eight judges, no defence, and an Iron Maiden on the balcony where the condemned can see it.'
+tags:
+  - High Court
+  - Ministry of Law
+  - Korth
+  - Karrnathi law
+  - the condemned
+  - Iron Maiden
+  - First Judge
+  - Red Guard
+  - corpse chute
+  - Bantide Moro
+  - Gemma Corso
+  - Freyd Merkin
+image:
+  src: /images/uploads/the-high-court-landmark-capital-court-of-mu6hmbru.webp
 type: landmark
 kind: places
-tags:
-- High Court
-- Ministry of Law
-- Korth
-- Karrnathi law
-- the condemned
-- Iron Maiden
-- First Judge
-- Red Guard
-- corpse chute
-- Bantide Moro
-- Gemma Corso
-- Freyd Merkin
 icon: fa-landmark-dome
 fields:
   type: Court of capital jurisdiction
@@ -24,22 +26,22 @@ fields:
   parentLocation: Korth
   purpose: Hearing capital cases before a panel of eight judges
 sources:
-- C:/dev/sharn-campaign/korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- C:/dev/sharn-campaign/npcs-korth.md
-- C:/dev/sharn-campaign/deirdre-moro-cases.md
+  - C:/dev/sharn-campaign/korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/deirdre-moro-cases.md
 published: '2026-09-10'
 wa:
   slug: the-high-court-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
 gallery:
-- src: /images/gallery/2026-09-07-03.webp
-  alt: The condemned before the High Court
-  caption: In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them.
-- src: /images/gallery/2026-09-07-04.webp
-  alt: The Advocate and Vice Admiral Merkin in court
-  caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
+  - src: /images/gallery/2026-09-07-03.webp
+    alt: The condemned before the High Court
+    caption: In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them.
+  - src: /images/gallery/2026-09-07-04.webp
+    alt: The Advocate and Vice Admiral Merkin in court
+    caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
 ---
 
 **Landmark · Capital court of the Ministry of Law · Upper level, northeast [Korth](/places/korth/)**
