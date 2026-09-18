@@ -2,17 +2,19 @@
 title: The Upper City
 description: 'Sharn''s governmental, corporate and elite quarter: the Veil Building, the Skyport, Skyroot Park and the GoldSky Neighborhood.'
 tags:
-- The Upper City
-- Upper City
-- Sharn
-- Veil Building
-- Skyport
-- GoldSky
-- Skyroot Park
-- The Bazaar
-- Iron Veil
-- BioTec
-- Sharn Theater
+  - The Upper City
+  - Upper City
+  - Sharn
+  - Veil Building
+  - Skyport
+  - GoldSky
+  - Skyroot Park
+  - The Bazaar
+  - Iron Veil
+  - BioTec
+  - Sharn Theater
+image:
+  src: /images/uploads/sharn-upper-city-goldsky-neighborhood-mu6e4m2y.webp
 type: settlement
 kind: places
 icon: fa-building-columns
@@ -29,17 +31,17 @@ fields:
   owner: Formerly the Empire
   ruler: Chancellor Eric the Cleric
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-upper-city-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/gallery/2026-05-10-04.webp
-  alt: Restricted Upper-City terrace feed
-  caption: An ArcEye view of an Upper City terrace at night, with a bronze-leafed tree, benches and a tower whose sign reads VEIL.
+  - src: /images/gallery/2026-05-10-04.webp
+    alt: Restricted Upper-City terrace feed
+    caption: An ArcEye view of an Upper City terrace at night, with a bronze-leafed tree, benches and a tower whose sign reads VEIL.
 ---
 
 **District · [Sharn](/places/sharn/) · Governmental, corporate and elite quarter · Standing**
