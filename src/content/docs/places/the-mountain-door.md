@@ -76,3 +76,5 @@ Cleared, emptied, and burned out. The rift can no longer be crossed without magi
 - **The cells** - where Braga Kul was held, and where he died with a rock in his fist.
 - **The trophy door** - hung with a skull that is no natural creature, and resembles the one-eyed tentacled things the party fought outside Leef years ago. It has never been identified.
 - **The stair room** - behind a dwarven iron gate with the key snapped off in the lock. Scattered dwarvish dead three to four years old, killed reaching it from the inside, and the relief carvings that begin the [Grand Stair](/places/the-grand-stair/).
+
+![Korth Ep 5 — The Korranberg Descent.png](/images/uploads/korth-ep-5-the-korranberg-descent-mu6jwdp3.webp)
