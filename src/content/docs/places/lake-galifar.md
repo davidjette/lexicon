@@ -1,17 +1,19 @@
 ---
 title: Lake Galifar
 description: The great inland water of the west, frozen solid by the warmth Crona's Wall drained out of the land.
+tags:
+  - Lake Galifar
+  - Crona's Wall
+  - Stockton Thar
+  - Eldeen Reaches
+  - Esther Crona
+  - Dark Druids
+  - western front
+  - frozen
+image:
+  src: /images/uploads/lake-galifar-western-khorvaire-frozen-so-mu6iayh2.webp
 type: geography
 kind: places
-tags:
-- Lake Galifar
-- Crona's Wall
-- Stockton Thar
-- Eldeen Reaches
-- Esther Crona
-- Dark Druids
-- western front
-- frozen
 icon: fa-snowflake
 fields:
   type: Lake
@@ -24,17 +26,17 @@ fields:
   owner: Unknown
   sensory: Solid ice from shore to shore
 sources:
-- sources/site/pose-mission-notes.txt
-- sources/site/sharn-episode-summaries.txt
-- C:/dev/sharn-campaign/biotec.md
+  - sources/site/pose-mission-notes.txt
+  - sources/site/sharn-episode-summaries.txt
+  - C:/dev/sharn-campaign/biotec.md
 published: '2026-09-10'
 wa:
   slug: lake-galifar-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
 gallery:
-- src: /images/gallery/2026-05-12-03.webp
-  alt: Map of Khorvaire with Crona's Wall
-  caption: A map of Khorvaire marked with a red boundary line, showing the Uruk-Hoth Republic, Crona's Wall, Frozen Lake Galifar, the Mournland, the Grand Duchy of Newham, the New Mourning and the Free State of Khraal.
+  - src: /images/gallery/2026-05-12-03.webp
+    alt: Map of Khorvaire with Crona's Wall
+    caption: A map of Khorvaire marked with a red boundary line, showing the Uruk-Hoth Republic, Crona's Wall, Frozen Lake Galifar, the Mournland, the Grand Duchy of Newham, the New Mourning and the Free State of Khraal.
 ---
 
 **Lake · western Khorvaire · Frozen solid · Standing**
