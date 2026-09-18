@@ -1,36 +1,38 @@
 ---
 title: Leef Ep 6 — The Battle of Leef
 description: Eps 6-8 at Leef, from Orangemeet and the swamp to the Battle of Leef, broken off mid-fight and resumed as the planned close of the first arc.
+tags:
+  - Leef Ep 6
+  - Leef Ep 7
+  - Leef Ep 8
+  - The Battle of Leef
+  - Battle of Leef
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Leef
+  - Leaf
+  - Orangemeet
+  - Gemma Corso
+  - Sir Dario Argentino
+  - Eric the Cleric
+  - Esther Crona
+image:
+  src: /images/uploads/leef-ep-8-the-battle-of-leef-mu671wfb.webp
 sidebar:
   order: 156
 type: report
 kind: sessions
-tags:
-- Leef Ep 6
-- Leef Ep 7
-- Leef Ep 8
-- The Battle of Leef
-- Battle of Leef
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Leef
-- Leaf
-- Orangemeet
-- Gemma Corso
-- Sir Dario Argentino
-- Eric the Cleric
-- Esther Crona
 icon: fa-scroll
 fields: {}
 sources:
-- "Oral Histories: The Inevitables, 2025-09-01"
-- "Oral Histories: The Inevitables, 2025-09-05"
-- "Oral Histories: The Inevitables, 2025-09-06"
-- "Oral Histories: The Inevitables, 2025-09-07"
-- "Oral Histories: The Inevitables, 2025-09-12"
-- "Oral Histories: The Inevitables, 2025-09-25"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'Oral Histories: The Inevitables, 2025-09-01'
+  - 'Oral Histories: The Inevitables, 2025-09-05'
+  - 'Oral Histories: The Inevitables, 2025-09-06'
+  - 'Oral Histories: The Inevitables, 2025-09-07'
+  - 'Oral Histories: The Inevitables, 2025-09-12'
+  - 'Oral Histories: The Inevitables, 2025-09-25'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 published: '2026-09-14'
 ---
 
