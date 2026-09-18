@@ -1,21 +1,23 @@
 ---
 title: The Spine
 description: The ancient hidden tunnel out of the Underhive that became the Cogborn evacuation route to Gorgonhorn.
+tags:
+  - The Spine
+  - The Underhive
+  - Blair
+  - Cogborn
+  - Chamber Room
+  - Chris Understall
+  - Berenstain
+  - Snodgrass
+  - Doppler Klink
+  - R.U.S.T.
+  - Gorgonhorn
+  - Sharn
+image:
+  src: /images/uploads/sharn-ep-12-the-spine-and-the-stone-dari-mu6hr2dj.webp
 type: landmark
 kind: places
-tags:
-- The Spine
-- The Underhive
-- Blair
-- Cogborn
-- Chamber Room
-- Chris Understall
-- Berenstain
-- Snodgrass
-- Doppler Klink
-- R.U.S.T.
-- Gorgonhorn
-- Sharn
 icon: fa-road
 fields:
   type: Ancient tunnel and evacuation route
@@ -27,19 +29,19 @@ fields:
   defenses: Four giant spiders and an ancient stone golem in the Chamber Room, both since destroyed
   history: Opened by Blair after the Drain Snakes were cleared; the Cogborn of Sharn walked out along it to R.U.S.T. and the mountain tunnel
 sources:
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
 published: '2026-09-10'
 wa:
   slug: the-spine-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
 gallery:
-- src: /images/gallery/2026-03-29-08.webp
-  alt: Clearing the collapsed tunnel
-  caption: Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel, Doppler cutting stone with a blue beam and Snodgrass hauling a boulder, to reach the trapped Cogborn.
-- src: /images/gallery/2026-03-30-03.webp
-  alt: Dario leads the Cogborn through the tunnels
-  caption: Sir Dario Argentino rides his black panther at the head of a long column of Cogborn families through a lamplit tunnel.
+  - src: /images/gallery/2026-03-29-08.webp
+    alt: Clearing the collapsed tunnel
+    caption: Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel, Doppler cutting stone with a blue beam and Snodgrass hauling a boulder, to reach the trapped Cogborn.
+  - src: /images/gallery/2026-03-30-03.webp
+    alt: Dario leads the Cogborn through the tunnels
+    caption: Sir Dario Argentino rides his black panther at the head of a long column of Cogborn families through a lamplit tunnel.
 ---
 
 **Tunnel · beneath [Sharn](/places/sharn/), within [the Underhive](/organizations/the-underhive/) · Evacuation route · Open**
