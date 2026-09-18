@@ -60,3 +60,5 @@ On the folio's last page, in plain Common and in a shaking hand: *"I made their 
 Emptied. The folio, the horn and the music are out of the mountain, and [Bofric](/people/bofric/) - who reads the shorthand - left with them. Between the three, more horns can be built and more players trained, which makes this small room the single most consequential space in the Korramont.
 
 <small>A locate object ritual cast at the bottom of the chasm returned the answer *three hundred feet above you*. They had walked past it twice.</small>
+
+![Korth Ep 8 — The Thirteenth Bell - Gemma, Dario and Eric searching King Corn's study - Private study - the Korranberg Foundry level, inside the Korramont.png](/images/uploads/korth-ep-8-the-thirteenth-bell-gemma-dar-mu6i7bq1.webp)
