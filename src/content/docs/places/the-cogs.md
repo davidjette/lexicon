@@ -1,21 +1,23 @@
 ---
 title: The Cogs
 description: 'Sharn''s industrial slum: factories, shanties welded to their walls, the Cogborn who lived in them, and the drill that went through the Forge of Binding.'
+tags:
+  - The Cogs
+  - Cogborn
+  - Sharn
+  - Lower City
+  - Preacher
+  - R.U.S.T.
+  - RUST
+  - Doppler Klink
+  - The Pit
+  - Iron Veil
+  - ArcEye
+  - Gorgonhorn
+image:
+  src: /images/uploads/chatgpt-image-sep-17-2026-07-02-18-pm-mu6bg5no.webp
 type: settlement
 kind: places
-tags:
-- The Cogs
-- Cogborn
-- Sharn
-- Lower City
-- Preacher
-- R.U.S.T.
-- RUST
-- Doppler Klink
-- The Pit
-- Iron Veil
-- ArcEye
-- Gorgonhorn
 icon: fa-gears
 fields:
   type: City district (industrial slum)
@@ -30,14 +32,14 @@ fields:
   owner: The Empire built and ran the factories; ownership now disputed
   ruler: Chancellor Eric the Cleric
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- sources/site/rebel-factions.txt
-- sources/site/pose-mission-notes.txt
-- "Oral Histories: The Inevitables, 2026-02-22"
-- "Oral Histories: The Inevitables, 2026-03-03"
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - sources/site/rebel-factions.txt
+  - sources/site/pose-mission-notes.txt
+  - 'Oral Histories: The Inevitables, 2026-02-22'
+  - 'Oral Histories: The Inevitables, 2026-03-03'
 published: '2026-09-10'
 wa:
   slug: the-cogs-location
