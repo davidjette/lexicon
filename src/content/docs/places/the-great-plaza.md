@@ -1,20 +1,22 @@
 ---
 title: The Great Plaza
 description: 'The ceremonial heart of Korth: a grand stair to a parade throne nobody has sat in years, and a lower plaza where rations are queued for.'
+tags:
+  - Great Plaza
+  - Lower Plaza
+  - Parade Throne
+  - Korth
+  - checkpoint
+  - rations
+  - steam vats
+  - John Stamos
+  - Imperial Blackguards and Mercenary Act
+  - Hall of Records
+  - Ministry of Law
+image:
+  src: /images/uploads/the-great-plaza-landmark-ceremonial-hear-mu6hhupd.webp
 type: landmark
 kind: places
-tags:
-- Great Plaza
-- Lower Plaza
-- Parade Throne
-- Korth
-- checkpoint
-- rations
-- steam vats
-- John Stamos
-- Imperial Blackguards and Mercenary Act
-- Hall of Records
-- Ministry of Law
 icon: fa-monument
 fields:
   type: Civic plaza and ceremonial precinct
@@ -23,10 +25,10 @@ fields:
   parentLocation: Korth
   purpose: Imperial parades and ceremony; ration distribution in the lower plaza; checkpoints
 sources:
-- C:/dev/sharn-campaign/korth.md
-- C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/korth.md
+  - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - sources/site/korth-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: the-great-plaza-location
