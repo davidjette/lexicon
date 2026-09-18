@@ -1,21 +1,23 @@
 ---
 title: The Mror Holds
 description: 'The dwarven nation east of Leef: home of the swamp tribes who helped found the Republic of Talenta and of the exiled Deep Tempura kin.'
+tags:
+  - The Mror Holds
+  - Mror Holds
+  - dwarves
+  - Princess Orange Chicken
+  - Chief Yellowmeat
+  - Deep Tempura
+  - Deeptempura
+  - Teryaki
+  - Republic of Talenta
+  - Leef
+  - Korramont
+  - King Six-Foot-Six-Inch-Long
+image:
+  src: /images/uploads/the-mror-holds-region-and-dwarven-nation-mu6jefun.webp
 type: geography
 kind: places
-tags:
-- The Mror Holds
-- Mror Holds
-- dwarves
-- Princess Orange Chicken
-- Chief Yellowmeat
-- Deep Tempura
-- Deeptempura
-- Teryaki
-- Republic of Talenta
-- Leef
-- Korramont
-- King Six-Foot-Six-Inch-Long
 icon: fa-hammer
 fields:
   type: Dwarven nation and mountain region
@@ -28,9 +30,9 @@ fields:
   history: Sent the swamp tribes west to help liberate Leef and found the Republic; received the mourners of the Deeptempura clan after the Korranberg massacre
   owner: The dwarven clans
 sources:
-- sources/site/rebel-factions.txt
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - sources/site/rebel-factions.txt
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-11-recap.md
 published: '2026-09-10'
 wa:
   slug: the-mror-holds-location
