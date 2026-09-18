@@ -1,23 +1,25 @@
 ---
 title: The Sharn Library
 description: The Upper City's compact library, its family lockboxes, and behind them the restricted archive of every ArcEye recording in Sharn.
+tags:
+  - The Sharn Library
+  - City Library
+  - ArcEye
+  - ArcEye Crystallizer
+  - Renn Tal
+  - Varyn Crona
+  - Iron Veil
+  - Sharn
+  - Upper City
+  - GoldSky
+  - Jessica Grimpledink
+  - Esther Crona
+  - Grand Sharn Library
+  - Old Histories Wing
+image:
+  src: /images/uploads/the-sharn-library-upper-city-sharn-mu6d9cfw.webp
 type: landmark
 kind: places
-tags:
-- The Sharn Library
-- City Library
-- ArcEye
-- ArcEye Crystallizer
-- Renn Tal
-- Varyn Crona
-- Iron Veil
-- Sharn
-- Upper City
-- GoldSky
-- Jessica Grimpledink
-- Esther Crona
-- Grand Sharn Library
-- Old Histories Wing
 icon: fa-book
 fields:
   type: Library and state archive
@@ -31,10 +33,10 @@ fields:
   inhabitants: Archivists, including the librarian Peter; formerly Renn Tal of the Old Histories Wing
   history: An Iron Veil squad was killed outside it after Renn Tal was reported; Esther Crona attended in person the same day
 sources:
-- sources/site/home.txt
-- sources/site/ebt-7.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/rebel-factions.txt
+  - sources/site/home.txt
+  - sources/site/ebt-7.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: the-sharn-library-location
