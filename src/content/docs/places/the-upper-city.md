@@ -14,7 +14,7 @@ tags:
   - BioTec
   - Sharn Theater
 image:
-  src: /images/uploads/sharn-upper-city-goldsky-neighborhood-mu6e4m2y.webp
+  src: /images/uploads/the-upper-city-sharn-mu6hs9so.webp
 type: settlement
 kind: places
 icon: fa-building-columns
