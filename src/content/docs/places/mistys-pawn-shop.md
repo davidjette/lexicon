@@ -1,21 +1,23 @@
 ---
 title: Misty's Pawn Shop
 description: Kriss and Misty Kross's pawn shop across from the Ziggurat, with a hidden tunnel to R.U.S.T.'s control room beneath it.
+tags:
+  - Misty's Pawn Shop
+  - Misty Kross
+  - Kriss Kross
+  - Karin Kross
+  - Martin Kross
+  - R.U.S.T.
+  - RUST
+  - Preacher
+  - Sharn
+  - Lower City
+  - City Center
+  - Renn Tal
+image:
+  src: /images/uploads/misty-s-pawn-shop-lower-city-sharn-city-mu6god3q.webp
 type: landmark
 kind: places
-tags:
-- Misty's Pawn Shop
-- Misty Kross
-- Kriss Kross
-- Karin Kross
-- Martin Kross
-- R.U.S.T.
-- RUST
-- Preacher
-- Sharn
-- Lower City
-- City Center
-- Renn Tal
 icon: fa-shop-lock
 fields:
   type: Pawn shop and clandestine entrance
@@ -28,9 +30,9 @@ fields:
   inhabitants: Kriss Kross and Misty, Preacher's adopted daughter
   history: Martin Kross came here while fleeing BioTec; the shop later sheltered Renn Tal and delivered the Inevitables to Preacher
 sources:
-- sources/site/home.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
+  - sources/site/home.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
 published: '2026-09-10'
 wa:
   slug: misty26230393Bs-pawn-shop-location
