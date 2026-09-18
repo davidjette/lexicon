@@ -15,7 +15,7 @@ tags:
   - ArcEye
   - Gorgonhorn
 image:
-  src: /images/uploads/chatgpt-image-sep-17-2026-07-02-18-pm-mu6bg5no.webp
+  src: /images/uploads/the-cogs-lower-city-sharn-mu6dkwvs.webp
 type: settlement
 kind: places
 icon: fa-gears
