@@ -1,21 +1,23 @@
 ---
 title: Greenbluff
 description: The played-out mining camp outside Newham where the original Fantanya Nyel came out of the ground and left on the rail for Korth.
+tags:
+  - Greenbluff
+  - Fantanya Nyel
+  - Hell's Bell
+  - Newham
+  - New Mourning
+  - The Unforeseen
+  - John Stamos
+  - Lady Glow
+  - mining camp
+  - Fulcrum
+  - Korth
+  - lightning rail
+image:
+  src: /images/uploads/greenbluff-mining-camp-hills-outside-new-mu6i62ua.webp
 type: settlement
 kind: places
-tags:
-- Greenbluff
-- Fantanya Nyel
-- Hell's Bell
-- Newham
-- New Mourning
-- The Unforeseen
-- John Stamos
-- Lady Glow
-- mining camp
-- Fulcrum
-- Korth
-- lightning rail
 icon: fa-mountain
 fields:
   type: Abandoned mining camp
@@ -28,10 +30,10 @@ fields:
   owner: The Empire, nominally; unreachable in practice
   defenses: None
 sources:
-- C:/dev/sharn-campaign/handouts/fulcrum-bell-file.md
-- C:/dev/sharn-campaign/handouts/hells-bells-dossier.md
-- sources/site/sharn-episode-summaries.txt
-- sources/site/rebel-factions.txt
+  - C:/dev/sharn-campaign/handouts/fulcrum-bell-file.md
+  - C:/dev/sharn-campaign/handouts/hells-bells-dossier.md
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/rebel-factions.txt
 published: '2026-09-10'
 wa:
   slug: greenbluff-location
