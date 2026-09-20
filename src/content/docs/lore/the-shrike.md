@@ -1,22 +1,24 @@
 ---
 title: The Shrike
 description: A deadly, near-invulnerable being that originated at the Time Tombs of Necis, and the object of the Zanzibar command crew's pilgrimage.
+tags:
+  - The Shrike
+  - Shrike
+  - The Shrike (Hyperion)
+  - army of shrikes
+  - tree of pain
+  - Necis
+  - the Time Tombs
+  - the Lexicon
+  - grey cloaks
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - Hyperion
+image:
+  src: /images/uploads/the-shrike-creature-necis-light-of-xaryx-mu956f0e.webp
 type: concept
 kind: lore
-tags:
-- The Shrike
-- Shrike
-- The Shrike (Hyperion)
-- army of shrikes
-- tree of pain
-- Necis
-- the Time Tombs
-- the Lexicon
-- grey cloaks
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
-- Hyperion
 icon: fa-skull
 fields:
   type: Creature
@@ -25,22 +27,22 @@ fields:
   appearances: Light of Xaryxis; The Starsong Awakens
   status: Unknown
 sources:
-- "Oral Histories: The Inevitables, 2023-01-08"
-- "Oral Histories: The Inevitables, 2023-11-18"
-- "Oral Histories: The Inevitables, 2023-12-22"
-- "Oral Histories: The Inevitables, 2024-01-06"
-- "Oral Histories: The Inevitables, 2024-02-03"
-- "Oral Histories: The Inevitables, 2024-02-17"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-04-20"
-- "Oral Histories: The Inevitables, 2024-04-27"
-- "Oral Histories: The Inevitables, 2024-05-31"
-- "Oral Histories: The Inevitables, 2024-06-02"
-- "Oral Histories: The Inevitables, 2024-12-22"
-- "Oral Histories: The Inevitables, 2025-04-04"
-- "Oral Histories: The Inevitables, 2025-04-05"
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
+  - 'Oral Histories: The Inevitables, 2023-01-08'
+  - 'Oral Histories: The Inevitables, 2023-11-18'
+  - 'Oral Histories: The Inevitables, 2023-12-22'
+  - 'Oral Histories: The Inevitables, 2024-01-06'
+  - 'Oral Histories: The Inevitables, 2024-02-03'
+  - 'Oral Histories: The Inevitables, 2024-02-17'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-20'
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - 'Oral Histories: The Inevitables, 2024-05-31'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-12-22'
+  - 'Oral Histories: The Inevitables, 2025-04-04'
+  - 'Oral Histories: The Inevitables, 2025-04-05'
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
 ---
 
 **Creature · Necis · Light of Xaryxis and The Starsong Awakens · Status unknown**
@@ -90,3 +92,5 @@ The same stat block, "The Shrike (Hyperion)", was used again in *The Starsong Aw
 ## Player theories
 
 The players offered their own readings during the pilgrimage. Jim's player took *[Martin's Final Cantos](/items/martins-final-cantos/)* to mean that the Shrike is the crew itself, and that Jim is the Shrike. <small>(Oral Histories: The Inevitables, 2024-04-20)</small> Caprica's player suggested that the Shrike might be a "techno obliviator" that impales on the tree of pain those who come too close to the mystery. <small>(Oral Histories: The Inevitables, 2024-04-27)</small>
+
+![Jim and Caprica fith The Shrike - Creature · Necis · Light of Xaryxis.png](/images/uploads/jim-and-caprica-fith-the-shrike-creature-mu956sew.webp)
