@@ -1,24 +1,26 @@
 ---
 title: The Sphinx Tomb
 description: A tomb of time doors in The Starsong Awakens, through which Barrias Ruby-Eye, Se7en and Nine went into other times, among them the final fight on the Zanzibar.
+tags:
+  - The Sphinx Tomb
+  - Sphinx Tomb
+  - sphinx temple
+  - sphinx doors
+  - time doors
+  - time travel
+  - Barrias Ruby-Eye
+  - Se7en
+  - Nine
+  - the Pussyfoot
+  - Five Zanzibars
+  - SSJ Zanzibar
+  - the Shrike
+  - Starfall
+  - The Starsong Awakens
+image:
+  src: /images/uploads/the-sphinx-tomb-the-starsong-awakens-mu93dn76.webp
 type: landmark
 kind: places
-tags:
-- The Sphinx Tomb
-- Sphinx Tomb
-- sphinx temple
-- sphinx doors
-- time doors
-- time travel
-- Barrias Ruby-Eye
-- Se7en
-- Nine
-- the Pussyfoot
-- Five Zanzibars
-- SSJ Zanzibar
-- the Shrike
-- Starfall
-- The Starsong Awakens
 icon: fa-dungeon
 fields:
   type: Tomb
@@ -30,11 +32,11 @@ fields:
   status: Unknown
   includedLocations: The time doors
 sources:
-- "Oral Histories: The Inevitables, 2025-04-04"
-- "Oral Histories: The Inevitables, 2025-04-05"
-- "Oral Histories: The Inevitables, 2025-04-07"
-- "Oral Histories: The Inevitables, 2025-05-18"
-- "Oral Histories: The Inevitables, 2025-05-23"
+  - 'Oral Histories: The Inevitables, 2025-04-04'
+  - 'Oral Histories: The Inevitables, 2025-04-05'
+  - 'Oral Histories: The Inevitables, 2025-04-07'
+  - 'Oral Histories: The Inevitables, 2025-05-18'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
 ---
 
 **Tomb · *The Starsong Awakens* · Location unknown**
