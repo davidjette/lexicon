@@ -2,21 +2,21 @@
 title: Valtrex
 description: 'The elder black dragon of the Korramont: bell-collared, bled by the Empire for three years, freed by the Inevitables, and now claiming the mountain as his...'
 tags:
-- Valtrex
-- Vuldrach
-- Voldrak
-- Vondrak
-- Valtrex the Putrid
-- black dragon
-- The Korramont
-- the black lake
-- Korranberg Foundry
-- dragon blood
-- Crown of Seven Stars
-- KNELL
-- Erandis Vol
+  - Valtrex
+  - Vuldrach
+  - Voldrak
+  - Vondrak
+  - Valtrex the Putrid
+  - black dragon
+  - The Korramont
+  - the black lake
+  - Korranberg Foundry
+  - dragon blood
+  - Crown of Seven Stars
+  - KNELL
+  - Erandis Vol
 image:
-  src: /images/uploads/valtrex-mu0teki6.webp
+  src: /images/uploads/korth-ep-11-the-domain-of-valtrex-veltex-mu95hqlu.webp
 type: creature
 kind: species
 icon: fa-dragon
@@ -35,21 +35,21 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/session-2026-07-15-recap.md
-- C:/dev/sharn-campaign/session-2026-08-21-recap.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- worldanvil/CANON.md
-- "Oral Histories: The Inevitables, 2026-07-29"
-- "Oral Histories: The Inevitables, 2026-08-22"
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+  - C:/dev/sharn-campaign/session-2026-08-21-recap.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - worldanvil/CANON.md
+  - 'Oral Histories: The Inevitables, 2026-07-29'
+  - 'Oral Histories: The Inevitables, 2026-08-22'
 published: '2026-09-10'
 wa:
   slug: valtrex-species
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
 gallery:
-- src: /images/gallery/2026-08-26-01.webp
-  alt: Eric rides Valtrex over the black lake
-  caption: A horned black dragon crouches over a glowing green acid lake while a man in a red coat rides its back with a mace raised. Eric teleports onto Valtrex's back and shatters his collar.
+  - src: /images/gallery/2026-08-26-01.webp
+    alt: Eric rides Valtrex over the black lake
+    caption: A horned black dragon crouches over a glowing green acid lake while a man in a red coat rides its back with a mace raised. Eric teleports onto Valtrex's back and shatters his collar.
 ---
 
 **Black dragon (elder) - Lord of the Korramont - Unaligned to any faction - Alive**
