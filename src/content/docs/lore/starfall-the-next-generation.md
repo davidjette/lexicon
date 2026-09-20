@@ -1,123 +1,123 @@
 ---
 title: 'Starfall: TNG'
-description: "Starfall: TNG, a Spelljammer campaign set some five thousand years after the Ages, following the SSJ Zanzibar through Light of Xaryxis and The Starsong Awakens."
+description: 'Starfall: TNG, a Spelljammer campaign set some five thousand years after the Ages, following the SSJ Zanzibar through Light of Xaryxis and The Starsong Awakens.'
+tags:
+  - Starfall
+  - 'Starfall: TNG'
+  - 'Starfall: The Next Generation'
+  - Starfall TNG
+  - Spelljammer
+  - campaign
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - SSJ Zanzibar
+  - Astral Command
+  - Barrias Ruby-Eye
+  - Barrias Red-Eye
+  - Caprica
+  - Jim Smallberries
+  - the Shrike
+  - Necis
+  - Hyperion
+  - Infantaverse
+  - Sovereignty of Realms
+  - The Lexicon
+  - Toril
+  - Eberron
+  - Oerth
+  - Krynn
+  - the Oblivia
+  - Infanta war
+image:
+  src: /images/uploads/necis-remnants-of-the-time-tombs-and-the-mu940ztp.webp
+  alt: The remnants of Necis
+  caption: 'A TaleSpire scene in space: the destroyed remnants of the planet Necis, where the Time Tombs stood and the Shrike originated, and where the climax of Starfall: The Next Generation took place at the end of the Light of Xaryxis and Star Song story.'
 type: article
 kind: lore
-tags:
-- Starfall
-- 'Starfall: TNG'
-- 'Starfall: The Next Generation'
-- Starfall TNG
-- Spelljammer
-- campaign
-- Light of Xaryxis
-- The Starsong Awakens
-- SSJ Zanzibar
-- Astral Command
-- Barrias Ruby-Eye
-- Barrias Red-Eye
-- Caprica
-- Jim Smallberries
-- the Shrike
-- Necis
-- Hyperion
-- Infantaverse
-- Sovereignty of Realms
-- The Lexicon
-- Toril
-- Eberron
-- Oerth
-- Krynn
-- the Oblivia
-- Infanta war
 icon: fa-rocket
 fields:
   setting: The Infantaverse
   era: About five thousand years after the Ages of the Infanta, after the great melting of the 6700s
   system: 'Dungeons & Dragons 5e, with Spelljammer: Adventures in Space and homebrew'
   status: Canon
-  arcs: 'Light of Xaryxis (DM Dave, 2022-10-21 to 2024-05-31, three seasons); The Starsong Awakens (DM JL, 2024-06-18 to 2025)'
+  arcs: Light of Xaryxis (DM Dave, 2022-10-21 to 2024-05-31, three seasons); The Starsong Awakens (DM JL, 2024-06-18 to 2025)
   ship: SSJ Zanzibar
 sources:
-- sources/dave/2026-09-14-starfall-necis.md
-- Desktop/infantaverse-wiki/src/content/docs/campaigns/starfall-tng.md
-- user-directed (named as canon by the creator)
-- worldanvil/registry.tsv (four existing 15-starfall rows)
-- CANON.md 5v (the DM's account, 2026-09-10)
-- sources/dave/2026-09-14-zanzibar-and-the-war.md
-- CANON.md 5aj
-- CANON.md 5ah
-- CANON.md 5ai (Oral Histories)
-- CANON.md 5ae (Oral Histories)
-- Desktop/D&D/Starfall TNG/970900243884499.pdf
-- Desktop/D&D/Starfall TNG/sydiot_85807344.pdf
-- Desktop/D&D/Starfall TNG/sydiot_61076043.pdf
-- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-- Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
-- Desktop/D&D/Starfall TNG/sydiot_81229398.pdf
-- Desktop/D&D/Starfall TNG/sydiot_86052237.pdf
-- Desktop/D&D/Starfall TNG/sydiot_85076692.pdf
-- Desktop/D&D/Starfall TNG/sydiot_86420225.pdf
-- Desktop/D&D/Starfall TNG/sydiot_86151296.pdf
-- Desktop/D&D/Starfall TNG/sydiot_85410398.pdf
-- Desktop/D&D/Starfall TNG/sydiot_97396464.pdf
-- Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
-- Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
-- Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
-- 'Oral Histories: The Inevitables, 2022-04-28'
-- 'Oral Histories: The Inevitables, 2022-05-01'
-- 'Oral Histories: The Inevitables, 2022-09-26'
-- 'Oral Histories: The Inevitables, 2022-10-06'
-- 'Oral Histories: The Inevitables, 2022-10-09'
-- 'Oral Histories: The Inevitables, 2022-10-10'
-- 'Oral Histories: The Inevitables, 2022-10-11'
-- 'Oral Histories: The Inevitables, 2022-10-17'
-- 'Oral Histories: The Inevitables, 2022-10-18'
-- 'Oral Histories: The Inevitables, 2022-10-19'
-- 'Oral Histories: The Inevitables, 2022-10-22'
-- 'Oral Histories: The Inevitables, 2022-10-23'
-- 'Oral Histories: The Inevitables, 2022-10-27'
-- 'Oral Histories: The Inevitables, 2022-11-10'
-- 'Oral Histories: The Inevitables, 2022-11-11'
-- 'Oral Histories: The Inevitables, 2022-11-26'
-- 'Oral Histories: The Inevitables, 2022-12-01'
-- 'Oral Histories: The Inevitables, 2022-12-02'
-- 'Oral Histories: The Inevitables, 2023-01-22'
-- 'Oral Histories: The Inevitables, 2023-01-23'
-- 'Oral Histories: The Inevitables, 2023-01-27'
-- 'Oral Histories: The Inevitables, 2023-02-03'
-- 'Oral Histories: The Inevitables, 2023-07-01'
-- 'Oral Histories: The Inevitables, 2023-07-20'
-- 'Oral Histories: The Inevitables, 2023-11-18'
-- 'Oral Histories: The Inevitables, 2023-12-02'
-- 'Oral Histories: The Inevitables, 2023-12-15'
-- 'Oral Histories: The Inevitables, 2023-12-23'
-- 'Oral Histories: The Inevitables, 2024-01-06'
-- 'Oral Histories: The Inevitables, 2024-01-10'
-- 'Oral Histories: The Inevitables, 2024-03-08'
-- 'Oral Histories: The Inevitables, 2024-03-16'
-- 'Oral Histories: The Inevitables, 2024-04-06'
-- 'Oral Histories: The Inevitables, 2024-04-26'
-- 'Oral Histories: The Inevitables, 2024-05-31'
-- 'Oral Histories: The Inevitables, 2024-06-01'
-- 'Oral Histories: The Inevitables, 2024-06-02'
-- 'Oral Histories: The Inevitables, 2024-06-12'
-- 'Oral Histories: The Inevitables, 2024-06-25'
-- 'Oral Histories: The Inevitables, 2024-07-01'
-- 'Oral Histories: The Inevitables, 2024-11-02'
-- 'Oral Histories: The Inevitables, 2024-11-07'
-- 'Oral Histories: The Inevitables, 2024-12-22'
-- 'Oral Histories: The Inevitables, 2025-04-04'
-- 'Oral Histories: The Inevitables, 2025-05-23'
-- 'The Starsong Awakens site (JL Byrd): Home'
+  - sources/dave/2026-09-14-starfall-necis.md
+  - Desktop/infantaverse-wiki/src/content/docs/campaigns/starfall-tng.md
+  - user-directed (named as canon by the creator)
+  - worldanvil/registry.tsv (four existing 15-starfall rows)
+  - CANON.md 5v (the DM's account, 2026-09-10)
+  - sources/dave/2026-09-14-zanzibar-and-the-war.md
+  - CANON.md 5aj
+  - CANON.md 5ah
+  - CANON.md 5ai (Oral Histories)
+  - CANON.md 5ae (Oral Histories)
+  - Desktop/D&D/Starfall TNG/970900243884499.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_85807344.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_61076043.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_81229398.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_86052237.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_85076692.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_86420225.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_86151296.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_85410398.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_97396464.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
+  - 'Oral Histories: The Inevitables, 2022-04-28'
+  - 'Oral Histories: The Inevitables, 2022-05-01'
+  - 'Oral Histories: The Inevitables, 2022-09-26'
+  - 'Oral Histories: The Inevitables, 2022-10-06'
+  - 'Oral Histories: The Inevitables, 2022-10-09'
+  - 'Oral Histories: The Inevitables, 2022-10-10'
+  - 'Oral Histories: The Inevitables, 2022-10-11'
+  - 'Oral Histories: The Inevitables, 2022-10-17'
+  - 'Oral Histories: The Inevitables, 2022-10-18'
+  - 'Oral Histories: The Inevitables, 2022-10-19'
+  - 'Oral Histories: The Inevitables, 2022-10-22'
+  - 'Oral Histories: The Inevitables, 2022-10-23'
+  - 'Oral Histories: The Inevitables, 2022-10-27'
+  - 'Oral Histories: The Inevitables, 2022-11-10'
+  - 'Oral Histories: The Inevitables, 2022-11-11'
+  - 'Oral Histories: The Inevitables, 2022-11-26'
+  - 'Oral Histories: The Inevitables, 2022-12-01'
+  - 'Oral Histories: The Inevitables, 2022-12-02'
+  - 'Oral Histories: The Inevitables, 2023-01-22'
+  - 'Oral Histories: The Inevitables, 2023-01-23'
+  - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'Oral Histories: The Inevitables, 2023-02-03'
+  - 'Oral Histories: The Inevitables, 2023-07-01'
+  - 'Oral Histories: The Inevitables, 2023-07-20'
+  - 'Oral Histories: The Inevitables, 2023-11-18'
+  - 'Oral Histories: The Inevitables, 2023-12-02'
+  - 'Oral Histories: The Inevitables, 2023-12-15'
+  - 'Oral Histories: The Inevitables, 2023-12-23'
+  - 'Oral Histories: The Inevitables, 2024-01-06'
+  - 'Oral Histories: The Inevitables, 2024-01-10'
+  - 'Oral Histories: The Inevitables, 2024-03-08'
+  - 'Oral Histories: The Inevitables, 2024-03-16'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-26'
+  - 'Oral Histories: The Inevitables, 2024-05-31'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-06-12'
+  - 'Oral Histories: The Inevitables, 2024-06-25'
+  - 'Oral Histories: The Inevitables, 2024-07-01'
+  - 'Oral Histories: The Inevitables, 2024-11-02'
+  - 'Oral Histories: The Inevitables, 2024-11-07'
+  - 'Oral Histories: The Inevitables, 2024-12-22'
+  - 'Oral Histories: The Inevitables, 2025-04-04'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
+  - 'The Starsong Awakens site (JL Byrd): Home'
 published: '2026-09-10'
 wa:
   slug: starfall3A-the-next-generation-article
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
-image:
-  src: /images/gallery/2025-02-08-01.webp
-  alt: The remnants of Necis
-  caption: "A TaleSpire scene in space: the destroyed remnants of the planet Necis, where the Time Tombs stood and the Shrike originated, and where the climax of Starfall: The Next Generation took place at the end of the Light of Xaryxis and Star Song story."
 ---
 
 **Spelljammer campaign · About five thousand years after the Ages of the Infanta · Two arcs, 2022–2025 · Canon**
