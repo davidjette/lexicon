@@ -1,20 +1,22 @@
 ---
 title: The Time Tombs
 description: Tombs in the Valley of the Time Tombs on Necis, the goal of the Shrike pilgrimage, where the pilgrims saw an army of shrikes and the tree of pain.
+tags:
+  - The Time Tombs
+  - time tombs
+  - Valley of the Time Tombs
+  - Necis
+  - the Shrike
+  - the Shrike pilgrimage
+  - tree of pain
+  - army of shrikes
+  - Zith'ra
+  - Starfall
+  - Light of Xaryxis
+image:
+  src: /images/uploads/valley-of-the-time-tombs-necis-goal-of-t-mu962mkg.webp
 type: location
 kind: places
-tags:
-- The Time Tombs
-- time tombs
-- Valley of the Time Tombs
-- Necis
-- the Shrike
-- the Shrike pilgrimage
-- tree of pain
-- army of shrikes
-- Zith'ra
-- Starfall
-- Light of Xaryxis
 icon: fa-hourglass-half
 fields:
   type: Tomb complex
@@ -26,23 +28,23 @@ fields:
   status: Stood on Necis, now destroyed
   includedLocations: Unknown
 sources:
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-- "Oral Histories: The Inevitables, 2024-02-03"
-- "Oral Histories: The Inevitables, 2024-02-17"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-04-12"
-- "Oral Histories: The Inevitables, 2024-04-13"
-- "Oral Histories: The Inevitables, 2024-04-19"
-- "Oral Histories: The Inevitables, 2024-04-20"
-- "Oral Histories: The Inevitables, 2024-04-27"
-- "Oral Histories: The Inevitables, 2024-06-09"
-- "Oral Histories: The Inevitables, 2024-12-22"
-- "Oral Histories: The Inevitables, 2025-01-12"
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
+  - 'Oral Histories: The Inevitables, 2024-02-03'
+  - 'Oral Histories: The Inevitables, 2024-02-17'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-12'
+  - 'Oral Histories: The Inevitables, 2024-04-13'
+  - 'Oral Histories: The Inevitables, 2024-04-19'
+  - 'Oral Histories: The Inevitables, 2024-04-20'
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - 'Oral Histories: The Inevitables, 2024-06-09'
+  - 'Oral Histories: The Inevitables, 2024-12-22'
+  - 'Oral Histories: The Inevitables, 2025-01-12'
 gallery:
-- src: /images/chat/2024-04-20-1196891171296427.webp
-  alt: "Carved wall in the Time Tombs"
-  caption: "AI image of a stone relief of a beaked, winged figure with two red eyes and a third eye on its brow."
+  - src: /images/chat/2024-04-20-1196891171296427.webp
+    alt: Carved wall in the Time Tombs
+    caption: AI image of a stone relief of a beaked, winged figure with two red eyes and a third eye on its brow.
 ---
 
 **Tomb complex · Valley of the Time Tombs, Necis · Goal of the Shrike pilgrimage · Destroyed with Necis**
@@ -70,3 +72,5 @@ The pilgrims had innocents with them whom they did not want to leave behind, so 
 ### Aftermath
 
 Dave has said that Sandy would carry the memory of what happened on Necis, with the Consul and at the Time Tombs, to the Hyperion entity. <small>(Oral Histories: The Inevitables, 2024-06-09)</small>
+
+![Valley of the Time Tombs - Necis · Goal of the Shrike pilgrimage · Destroyed with Necis 2.png](/images/uploads/valley-of-the-time-tombs-necis-goal-of-t-mu962ron.webp)
