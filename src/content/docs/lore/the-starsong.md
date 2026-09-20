@@ -1,27 +1,29 @@
 ---
 title: The Starsong
 description: A call from the stars heard by the astral elf Caprica, which drew the SSJ Zanzibar's crew to Necis and whose awakening opens The Starsong Awakens.
+tags:
+  - The Starsong
+  - Star Song
+  - star song
+  - the awakened starsong
+  - T.U.N.E.
+  - Temporarily Unknown Noise Energy
+  - sonic disturbance
+  - Universal Catastrophe Scale
+  - Vodoni Empire
+  - Company dossier
+  - Caprica
+  - Capricorn
+  - Necis
+  - the Lexicon
+  - Cypher
+  - Starfall
+  - Light of Xaryxis
+  - The Starsong Awakens
+image:
+  src: /images/uploads/necis-remnants-of-the-time-tombs-and-the-mu95jqgo.webp
 type: concept
 kind: lore
-tags:
-- The Starsong
-- Star Song
-- star song
-- the awakened starsong
-- T.U.N.E.
-- Temporarily Unknown Noise Energy
-- sonic disturbance
-- Universal Catastrophe Scale
-- Vodoni Empire
-- Company dossier
-- Caprica
-- Capricorn
-- Necis
-- the Lexicon
-- Cypher
-- Starfall
-- Light of Xaryxis
-- The Starsong Awakens
 icon: fa-star
 fields:
   type: A call from the stars
@@ -30,32 +32,32 @@ fields:
   setting: Starfall
   arcs: Light of Xaryxis; The Starsong Awakens
 sources:
-- "Oral Histories: The Inevitables, 2022-10-10"
-- "Oral Histories: The Inevitables, 2022-10-18"
-- "Oral Histories: The Inevitables, 2022-10-19"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-06-01"
-- "Oral Histories: The Inevitables, 2024-06-02"
-- "Oral Histories: The Inevitables, 2024-06-03"
-- "Oral Histories: The Inevitables, 2024-06-12"
-- "Oral Histories: The Inevitables, 2024-12-22"
-- "Oral Histories: The Inevitables, 2025-01-18"
-- "Oral Histories: The Inevitables, 2025-04-06"
-- "Oral Histories: The Inevitables, 2025-05-23"
-- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-- "The Starsong Awakens site (JL Byrd): Company dossier"
+  - 'Oral Histories: The Inevitables, 2022-10-10'
+  - 'Oral Histories: The Inevitables, 2022-10-18'
+  - 'Oral Histories: The Inevitables, 2022-10-19'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-06-03'
+  - 'Oral Histories: The Inevitables, 2024-06-12'
+  - 'Oral Histories: The Inevitables, 2024-12-22'
+  - 'Oral Histories: The Inevitables, 2025-01-18'
+  - 'Oral Histories: The Inevitables, 2025-04-06'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
+  - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
 gallery:
-- src: /images/starsong/tune.webp
-  alt: "Sound waves"
-  caption: "The T.U.N.E., from the Company dossier"
-- src: /images/chat/2024-06-01-3724869057777465.webp
-  alt: "Astral drifting"
-  caption: "An elf woman with closed eyes floats against a nebula of purple and teal light."
-- src: /images/gallery/2025-06-14-01.webp
-  alt: "Singer of stars on the bridge"
-  caption: "An elf woman stands on a damaged starship bridge facing a black hole as a ship passes and debris burns."
+  - src: /images/starsong/tune.webp
+    alt: Sound waves
+    caption: The T.U.N.E., from the Company dossier
+  - src: /images/chat/2024-06-01-3724869057777465.webp
+    alt: Astral drifting
+    caption: An elf woman with closed eyes floats against a nebula of purple and teal light.
+  - src: /images/gallery/2025-06-14-01.webp
+    alt: Singer of stars on the bridge
+    caption: An elf woman stands on a damaged starship bridge facing a black hole as a ship passes and debris burns.
 ---
 
 **Call from the stars · Starfall · Source unknown**
