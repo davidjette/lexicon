@@ -43,6 +43,8 @@ sources:
 - worldanvil/images/rebel-factions/01.jpg
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: jessica-grimpledink-person
@@ -120,6 +122,14 @@ She told the room that Sharn would have fallen without Dario, Eric and Gemma, th
 Three years later she met the party with the worst news of the war: Zilspar Farm destroyed, Zero-One taken alive, Izaak presumed dead. Cut out of the Eye of Corruption's disposition by Renn Tal, she took [Gemma](/people/gemma-corso/) aside and asked whether Eric was how the Empire found the farm — and said that if they could not save Zero-One, they must not let her be taken.
 
 > "If we cannot save her, we must not let her be taken."
+
+## The horns
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), while the party was at the Grand Lodge, they put their holdings' money into horns, to be made by the smithy at Leaf and carried to the other kingdoms by the Leaf Guard. Jessica was already having horns made and distributed. Her reply came over the sending stone in her own voice:
+
+> "Copy received, but be careful. Our scribes say there is significant magical interference from a very powerful source near your location. Be advised. J.G."
+
+<small>(Korth Ep 15)</small>
 
 ## Right now
 
