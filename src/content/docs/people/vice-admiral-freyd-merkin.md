@@ -41,6 +41,8 @@ sources:
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
 - "Oral Histories: The Inevitables, 2026-09-07"
+- session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: vice-admiral-freyd-merkin-person
@@ -108,6 +110,10 @@ He told her she had spent her only chip, that Bantide would never leave that cel
 
 The deadline was Monday. It was Friday morning. Failure to return carried a bounty. The advocate he issued it to is Gemma Corso of the Inevitables, and the Empress is at the end of that river.
 
+## The Imperial Counting House
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), Director [Aurel Kesk](/people/aurel-kesk/) of [the Imperial Counting House](/places/the-imperial-counting-house/) demanded to know why the Advocate had ordered his wardress out of her own office without a warrant. The party produced a *hold person* scroll as a warrant signed by the Magister, Deirdre sold it, and Kesk said, *"I can't believe that Merkin, of all people, would pull this."* He then told the Advocate that Freyd could forget the favour Kesk was going to do him. <small>(Korth Ep 15)</small>
+
 ## Right now
 
 Merkin is alive, in Korth, expecting a report on the Grand Lodge by Monday from an advocate he does not trust, on behalf of betters he will not name. The condemned he was owed is officially a suicide and is currently hidden in his own star prosecutor's apartment. Somewhere above him, Fulcrum is being dismantled across the continent as though the Empire had obtained a list of every name.
@@ -152,6 +158,7 @@ Merkin is alive, in Korth, expecting a report on the Grand Lodge by Monday from 
 - **Bantide Moro** — the condemned; codename **the Nightingale**. Officially a suicide. Alive.
 - [Gemma Corso](/people/gemma-corso/) — the woman currently wearing his prosecutor. He suspects her of the wrong thing.
 - **His betters** — unnamed, expecting an update on the Grand Lodge situation.
+- [Aurel Kesk](/people/aurel-kesk/) — Director of the Imperial Counting House. Withdrew a planned favour to Merkin after being shown a supposed warrant. <small>(Korth Ep 15)</small>
 - [Uriel Qualanthri](/people/uriel-qualanthri/) — the Empress at the far end of the assignment he issued. Connection unestablished.
 
 **Hobbies & Pets** — Unknown.
