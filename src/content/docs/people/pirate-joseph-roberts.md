@@ -38,6 +38,8 @@ sources:
   - sources/site/key-figures.txt
   - sources/site/sharn-episode-summaries.txt
   - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/session-2026-09-25-summary.md
+  - Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: pirate-joseph-roberts-person
@@ -98,6 +100,8 @@ The Grand Lodge file names him plainly: the Dread Pirate, Blair's husband, Gemma
 ## Right now
 
 Roberts is a named target of the Imperial Ministry of Law. The Grand Lodge assignment handed to Gemma in her cover identity as the Star Advocate Deirdre Moro was to travel to the Summer Palace and the Ivory Lazaret, seize all guest records, and arrest any saboteurs or suspected pirates — with his likeness in the file. The Empire is hunting him at the exact place the Inevitables are already going.
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), over breakfast in the [Grand Lodge](/places/the-grand-lodge/), Gemma told the others that she had messaged him from the Lodge door the night they arrived, short and sweet, and that he had answered. She made the case for him from memory: he had spared them on the train, given them a sending stone, and moved people from Newham to Leaf without asking anything but a mural. The party decided to mingle and find out where he is, and has not yet found him. On the Lodge's grand stair two men passed a purse between them and a coin fell; it was minted in [the Uruk-Hoth Republic](/organizations/the-uruk-hoth/), and Gemma remembered General Thar telling Esther at Posay that the Lhazaar Principalities were helping the Uruk-Hoth. Later that day a load of sealed hazardous-materials containers, paid for in platinum at [the Imperial Counting House](/places/the-imperial-counting-house/), went by carriage straight to the Lodge and around the back. <small>(Korth Ep 15)</small>
 
 **Personality Characteristics**
 
