@@ -75,6 +75,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-07-06"
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+- sources/dave/2026-09-26-korth-ep15-rulings.md
+- Dave, note of 2026-09-26
 published: '2026-09-14'
 ---
 
@@ -90,7 +92,7 @@ The three characters came to it from different places:
 
 - **Gemma Corso**, in Nico's description an infernal tiefling warlock with the wayfarer background. She grew up in Newham working at her adoptive father's junkyard, where he taught her "how to call forth a blade", left Newham years before to travel, and came home after escaping an arrest. <small>(Oral Histories: The Inevitables, 2025-06-07; 2025-06-08)</small> Nico later said that her adoptive father Jane's patron, the archfey Kitsune, showed himself to Gemma only after Jane died, in Leef and Newham. <small>(Oral Histories: The Inevitables, 2026-07-06)</small>
 - **Sir Dario Argentino**, "Squire Templar of the Silver Flame", a silver dragonborn paladin from a jungle near Q'barra, of clan Dawnmantle. He travelled under the cover of a journeyman smith called Flintscale. <small>(Dave, Oral Histories: The Inevitables, 2025-06-07; 2025-06-26; 2025-07-13)</small>
-- **Eric the Cleric**, in JL's description "a tax attorney sent by the empire to investigate irregularities in LeBeefe’s accounting", a human who "Serves Oghma, god of maths" and "probably grew up in the Depths of Sharn". JL said the party would meet him "around level 3 maybe", as "part of the rebel storyline". <small>(Oral Histories: The Inevitables, 2025-06-07; 2025-07-22)</small>
+- **Eric the Cleric**, in JL's description "a tax attorney sent by the empire to investigate irregularities in LeBeefe’s accounting", a human who serves Matt Matheny, "god of maths", and "probably grew up in the Depths of Sharn". JL said the party would meet him "around level 3 maybe", as "part of the rebel storyline". <small>(Oral Histories: The Inevitables, 2025-06-07; 2025-07-22; sources/dave/2026-09-26-korth-ep15-rulings.md)</small>
 
 JL, as DM, set out the world the party entered. [The Silver Flame](/organizations/the-silver-flame/) is outlawed: "Membership is punishable by death. They’re also one of the more powerful rebel factions." <small>(Oral Histories: The Inevitables, 2025-06-24)</small> His "stuff everyone knows" for the map of Khorvaire: "the goblins and gnomes in the south have allied and declared an independent state", "the orcs in the west have created a sovereign state", and "directly to our south is the elven homeland of valinar, where a strong rebel contingency is being persecuted." <small>(Oral Histories: The Inevitables, 2025-08-23)</small> The currency of the Grand Duchy of Newham is the LeBeefe. <small>(Oral Histories: The Inevitables, 2025-08-30)</small>
 
