@@ -59,6 +59,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-12"
 - "Oral Histories: The Inevitables, 2026-08-22"
 - "Oral Histories: The Inevitables, 2026-08-23"
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: uriel-qualanthri-person
@@ -186,6 +188,12 @@ The Fantanya Nyel — the Hell’s Bells — are real, there are thirteen Master
 
 > Stop Uriel before she rings the bells. If you fail, I will end this world before she can, and only my kind will survive it.\
 > — Locke Pierce, at Mt. Silicon
+
+## The Stairs of Her Mercy
+
+The Stairs of Her Mercy rise in white arcs out of the Plaza of the Martyrs toward a colossal statue of Uriel in her Black Dove habit. The statue stands at the apex altar with shield and imperial crown, over a fountain at her feet. The party climbed the stairs disguised as Black Doves, and [Sir Dario Argentino](/people/sir-dario-argentino/) spat into the fountain. In the forecourt of Nos Matre a polygon floats in the air, tended by sisters night and day. [Eric the Cleric](/people/eric-the-cleric/) examined it with *detect magic* and judged it a store of immense power that can cast spells, and Uriel's focus. <small>(Korth Ep 15)</small>
+
+At the Grand Lodge a gambler calling himself Joey Monica said the Empress comes down her stairs every couple of months, and last did so nine or ten months ago; his companion said she is over two hundred years old. Pilgrims in the plaza said the Empress heals in person but touches only five or six people, and nobody can predict which. <small>([Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/))</small>
 
 ## Right Now
 
