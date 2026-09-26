@@ -49,6 +49,8 @@ sources:
 - session-2026-08-28-summary.md
 - session-2026-08-28-summary-nichole-style.md
 - session-2026-09-04-summary.md
+- session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 - worldanvil/CANON.md
 - "Oral Histories: The Inevitables, 2025-06-07"
 - "Oral Histories: The Inevitables, 2025-06-26"
@@ -171,6 +173,10 @@ He has destroyed the **Thirteenth Casting**, every small casting in the Bladewor
 > "may our children forgive us"
 
 <small>— Sir Dario Argentino, clearing the straw muffling from the crated bell in the unfinished tower above the Black Dove hospital, before the first swing. Korth Ep 12. **The line is a deliberate reference to Independence Day and is quoted exactly; it is not to be corrected into more natural English.**</small>
+
+## The Stairs of Her Mercy
+
+At the Counting House, wearing Gemma's *seeming* as the bodyguard Sky Rizzy, he followed a load of sealed hazardous-materials containers outside after a man in a swashbuckler's coat paid for them; they went by carriage straight to the [Grand Lodge](/places/the-grand-lodge/) and around the back. Later that day, disguised as a winged aasimar Black Dove sister, he climbed the Stairs of Her Mercy with Gemma and Eric. At the fountain at the feet of Uriel's statue he spat into the water in front of the pilgrims. The pilgrims gasped, Gemma turned on him, and he said he was glad he had not pissed in it. <small>([Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/))</small>
 
 ## Right now
 
