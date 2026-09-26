@@ -52,6 +52,8 @@ sources:
   - session-2026-08-21-recap.md
   - session-2026-08-28-summary-nichole-style.md
   - session-2026-09-04-summary.md
+  - session-2026-09-25-summary.md
+  - Dave, note of 2026-09-26
   - worldanvil/CANON.md
   - 'Oral Histories: The Inevitables, 2025-06-07'
   - 'Oral Histories: The Inevitables, 2025-09-27'
@@ -156,6 +158,12 @@ Then she set the advocate's role down and testified as **kin** — the one looph
 
 Bantide read the whole thing as a performance staged to win her trust, and identified the flaw precisely: the real Deirdre had to win above everything and would never have failed unless something else were happening. Eric broke the impasse. Gemma's last act in that cell was to tell her outright that she was not her sister, and to watch her face move from vindication to grief.
 
+## The Stairs of Her Mercy
+
+At the [Grand Lodge](/places/the-grand-lodge/) Gemma cast *seeming* over all three of them each morning: herself as Deirdre Moro, Eric as Graham Cracker and Dario as the bodyguard Sky Rizzy. She had messaged [Joseph Roberts](/people/pirate-joseph-roberts/) from the Lodge door the night they arrived, short and sweet, and he answered. Over breakfast she made the case for him from memory: he spared them on the train, gave them a sending stone, moved people from Newham to Leaf without asking anything but a mural, and his wife Blair helped them twice. Her greenhouse bastion sent her a small potted plant grown from some of [Locke Pierce](/people/locke-pierce/)'s seeds. It grows three pink plums every seven days, each one a *lesser restoration* if eaten within a day of picking, and she keeps it alive with *plant growth*. <small>([Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/))</small>
+
+At the Counting House, Director [Aurel Kesk](/people/aurel-kesk/)'s men dragged Wardress [Ilma Vitt](/people/ilma-vitt/) into his office, and when Deirdre followed they were beating her. Deirdre demanded her as a witness and Kesk let her go. Behind the stables Gemma recast *seeming* and made the party [Black Doves](/organizations/the-black-doves/): herself as the novice she had been in Korth, Eric as an old nun and Dario as a winged aasimar sister. She rolled a natural twenty on performance, and the guards hurried them up the Stairs of Her Mercy. Just inside the doors of the nave of Nos Matre stands a great fountain of pale blue water, and Gemma knew it as the fountain from her vision with Kitsune, where it ran with blood. <small>(Korth Ep 15)</small>
+
 ## Habits
 
 In Sharn, by Nico's account, "Gemma is willing to donate her money to the cogborn". <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
@@ -194,6 +202,7 @@ Gemma is aboard a river boat to the Summer Palace wearing a dead woman's face an
 - **King Corn's horn** — coiled brass, King Corn's smith-mark on it, recovered from under a secret panel beneath the rug in his study. She can play the fanfare of dawn on it.
 - **Deirdre Moro's credentials and face** — Ministry of Law, Star Advocate, clearance to the Ivory Lazaret. Condition: intact, and now overdue at the Grand Lodge.
 - **Boots of speed**, bought from "the wizard in Newham", and **gauntlets of ogre power**, from her bastion — both lent to Lorian. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
+- **A potted plum plant** — sent by her greenhouse bastion, grown from Locke Pierce's seeds. Three pink plums of *lesser restoration* every seven days; kept alive with *plant growth*.
 - A wand of magic missile built at cost by Doppler Klink · fifty flasks of lamp oil · one last dose of a potion of lesser polymorph (mouse only), taken off an orc scout · a bone scroll-case.
 
 **Wearing the Dead:** Gemma's signature working is a discipline — she studies a target until she can hold their voice under an Insight check, kills them, and then goes on being them. She has done it to a Black Dove novice's grief, to Star Advocate Deirdre Moro and her paralegal, and — for one morning in a Boldrei temple in Sharn's lower city — to Chancellor Eric himself, wearing his face and his voice to promise a frightened crowd that nothing would be harmed. Dario then brought the tower down through the floor. She now has proficiency in Performance and in the horn, which gives her advantage on the performance of an impersonation.
@@ -249,4 +258,3 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 Lalo Kitsune, a summoned fey fox drawn out of the charges in her armour, who drops cubes of darkness where they are needed. Performance and the horn, learned recently, for professional reasons.
 
 ![Gemma Corso - Sharn.png](/images/uploads/gemma-corso-sharn-mu4wqc69.webp)
-
