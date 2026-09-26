@@ -12,6 +12,8 @@ tags:
   - Deirdre Moro
   - Uriel Qualanthri
   - Uruk-Hoth
+  - Cob Cornwell
+  - Imperial Counting House
 image:
   src: /images/uploads/the-grand-lodge-guild-hall-the-summer-pa-mu6j6heg.webp
 type: landmark
@@ -31,6 +33,9 @@ sources:
   - sources/site/korth-episode-summaries.txt
   - sources/site/pose-mission-notes.txt
   - C:/dev/sharn-campaign/npcs-korth.md
+  - C:/dev/sharn-campaign/session-2026-09-25-summary.md
+  - sources/dave/2026-09-26-korth-ep15-rulings.md
+  - Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: the-grand-lodge-location
@@ -59,7 +64,18 @@ The assignment is the party's authorised route to the Ivory Lazaret and therefor
 
 The deadline is Monday. Failure to return carries a bounty.
 
+## The hunting lodge
+
+The Grand Lodge is an old hunting lodge, older than the Summer Palace, and has no Imperial affiliation. Its members are the very rich. They include **Brillo Myers**, a textile magnate, and **Craig**, the construction magnate who built the great war memorial and cemetery and a voting member of the membership committee. [Cob Cornwell](/people/cob-cornwell/) was a member, and his portrait hangs among the Fieldmasters on the grand stair. <small>(Korth Ep 15)</small>
+
+The members hunt at night and sleep by day, and their talk of hares and crossbows is a cant for business. A servant named **Bimples** looks after the Fieldmaster's Suite, where the Inevitables stayed in [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/). In the upstairs gaming room members play random walk, in which a mechanical egg wanders the table until it knocks down some number of pins. There a man calling himself **Joey Monica** asked the Star Advocate for help with "quite a few millions of barrels of barley" stuck in a customs affair, moving out of "certain war-damaged areas". <small>(Korth Ep 15)</small>
+
+On the grand stair two men passed a purse between them, and a coin that fell from it was minted in the [Uruk-Hoth Republic](/organizations/the-uruk-hoth/). Sealed hazardous-materials containers paid for at [the Imperial Counting House](/places/the-imperial-counting-house/) go by carriage to the Lodge and around the back of the house. The Lodge will not take pilgrims at any price. <small>(Korth Ep 15)</small>
+
 **Places of Interest:**
 
 - **The guest records:** names, dates and arrivals; the object of the entire assignment.
 - **The lodge hall:** the old guild room where dignitaries who do not serve the Emperor meet the people who do.
+- **The grand stair:** hung with portraits of the Fieldmasters, Cob Cornwell's among them.
+- **The Fieldmaster's Suite:** a guest suite looked after by the servant Bimples.
+- **The gaming room:** upstairs, where members play random walk.
