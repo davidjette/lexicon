@@ -41,6 +41,9 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - worldanvil/images/rebel-factions/14.jpg
 - "Oral Histories: The Inevitables, 2026-03-29"
+- sources/dave/2026-09-26-korth-ep15-rulings.md
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: renn-tal-person
@@ -153,3 +156,9 @@ She believes an archive that has been edited is evidence of what was removed. Sh
 **Hobbies & Pets:** Unknown.
 
 ![Renn Tal and Eric - Examining ancient runes in a futuristic world.png](/images/uploads/renn-tal-and-eric-examining-ancient-rune-mu0xxs85.webp)
+
+## Eric's deputy
+
+Renn Tal is [Eric](/people/eric-the-cleric/)'s deputy in Sharn. <small>(sources/dave/2026-09-26-korth-ep15-rulings.md)</small>
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), at the Grand Lodge, the party spent the rest of its money on the horns: the smithy at Leaf would make them, the stables would train riders to carry them, and parties of the Leaf Guard would take them to the other kingdoms. Renn Tal was to be asked to put the foundries of Sharn to work making horns.
