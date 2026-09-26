@@ -38,6 +38,8 @@ sources:
 - "Oral Histories: The Inevitables, 2025-08-30"
 - "Oral Histories: The Inevitables, 2025-10-19"
 - "Oral Histories: The Inevitables, 2025-12-14"
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: the-black-doves-organization
@@ -99,3 +101,9 @@ At the end of the Sharn rising, Zero-One and Silver Flame paladins seized the Bl
 The order was dismantled in Sharn and nowhere else. Three years on, a Dove sat at Thronehold as a delegate of a recognised power, the Sisters fled the great hall a beat before the undead turned on everyone in it, and ten bells remain standing across the continent.
 
 > "The sisters sing the hours instead, and if you ask a nun why the bell is silent she smiles at you like you asked a child's question." — a cook off the cathedral square, Korth; Fulcrum bell file, Scrap 1
+
+## The Stairs of Her Mercy
+
+The sisters' habits mark their work. At the [Imperial Counting House](/places/the-imperial-counting-house/), Sub-Auditor Corvan Bleek listed them by colour: white, black, the green who are healers, and the red who take care of the Emperor. Sisters in green habits keep the queue of petitioners at the foot of the Stairs of Her Mercy, with white guards behind them. When [General Stockton Thar](/people/general-stockton-thar/) forced his way to the foot of the stairs, the sisters sent for a high sister, and her procession came down one step at a time: sisters in red, led by a very tall woman in black wearing a red mask. She told Thar that the Emperor had agreed to meet him in his garden the next day. People in the valley say there are more sisters there than there were a year ago. <small>(Korth Ep 15)</small>
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), Gemma Corso cast *seeming* over the party behind the stables and the three passed as Black Doves: Gemma as the novice she had been in Korth, Eric as an old nun, and Dario as a winged aasimar sister. The guards hurried them up the stairs. <small>(Korth Ep 15)</small>
