@@ -49,7 +49,7 @@ sources:
 - session-2026-08-28-summary.md
 - session-2026-08-28-summary-nichole-style.md
 - session-2026-09-04-summary.md
-- session-2026-09-25-summary.md
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
 - worldanvil/CANON.md
 - "Oral Histories: The Inevitables, 2025-06-07"

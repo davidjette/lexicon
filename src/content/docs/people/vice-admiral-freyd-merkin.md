@@ -41,7 +41,7 @@ sources:
 - session-2026-09-04-summary.md
 - worldanvil/CANON.md
 - "Oral Histories: The Inevitables, 2026-09-07"
-- session-2026-09-25-summary.md
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
