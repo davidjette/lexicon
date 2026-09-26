@@ -39,6 +39,9 @@ sources:
 - "Oral Histories: The Inevitables, 2025-10-19"
 - "Oral Histories: The Inevitables, 2025-12-14"
 - "Oral Histories: The Inevitables, 2026-06-27"
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- sources/dave/2026-09-26-korth-ep15-rulings.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: the-ivory-lazaret-location
@@ -71,11 +74,26 @@ Fulcrum's best intelligence on the place came from a muleteer working the high r
 
 Ten [bells](/items/the-hell-s-bell-fantanya-nyel/) remain to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace. Fulcrum is being dismantled across the continent. A Star Advocate of the Ministry of Law has been handed written authority to travel to the Summer Palace, the Ivory Lazaret and the surrounding grounds, seize the guest records of [the Grand Lodge](/places/the-grand-lodge/) and arrest any saboteurs or suspected pirates found there. The deadline is Monday. The boat leaves at nightfall.
 
+## The Stairs of Her Mercy
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/) the party was set down in the Plaza of the Martyrs, whose stones are carved with tens of thousands of names. The plaza is a market for everything from holy water and blankets to building stone and furniture, and the [Imperial Counting House](/places/the-imperial-counting-house/) stands on it. <small>(Korth Ep 15)</small>
+
+The Stairs of Her Mercy, formerly the Sovereign Steps, rise out of the plaza in white arcs. At their foot a queue of petitioners begs sisters in green habits to let them through, past white guards who stand head and shoulders over the crowd. Each landing is an altar once dedicated to a god of the Sovereign Host and rededicated to the Mother, and at the apex altar a colossal statue of Uriel in her Black Dove habit stands with shield and imperial crown over a fountain at her feet. By old tradition the military is not allowed up the stairs, and Imperial power stops at the edge of the hill. <small>(Korth Ep 15)</small>
+
+On Relic Row the twins Bran Flakes and Frosted Flakes sell a place on the list within a day for 3,500 gp: 2,500 to them and their supplier, and 1,000 to be left on the altars on the way up. They also sell water from the Fountain of Mercy at a silver a flask. Frosted places the Lazaret in the western nave of Nos Matre, with the Tomb of Kaius I in front of it, a garden with an orrery on the east side, and stairs south to the Imperial gardens. <small>(Korth Ep 15)</small>
+
+At the top of the stairs is the forecourt of Nos Matre. A floating object hangs in the middle of it, sharp-edged and swirling grey, pink, white and sometimes black, and four sisters stand one to a side staring up at it without moving. Just inside the doors of the nave stands a great fountain of glittering pale blue water. The Tomb of Kaius I in the forecourt carries abjuration magic. <small>(Korth Ep 15)</small>
+
 **Places of Interest:**
 
 - **[The Summer Palace](/places/the-summer-palace/):** the Imperial residence upriver of Korth, on whose grounds the Lazaret stands.
 - **[The Grand Lodge](/places/the-grand-lodge/):** the former guild hall beside the Lazaret where non-Imperial dignitaries gather, suspected of dealings with Lhazaar pirates.
 - **The Qarth road:** the high road up the mountain, worked at night by wool-wrapped freight under Sister escort.
+- **The Plaza of the Martyrs:** the market square at the foot of the hill, its stones carved with tens of thousands of names.
+- **[The Imperial Counting House](/places/the-imperial-counting-house/):** on the Plaza of the Martyrs.
+- **The Stairs of Her Mercy:** formerly the Sovereign Steps, the altar-landings climbing from the plaza to Nos Matre.
+- **Nos Matre:** at the top of the stairs, with the floating object in its forecourt, the pale blue fountain inside its nave, and the Lazaret in its western nave.
+- **The Tomb of Kaius I:** in the forecourt of Nos Matre, before the western nave.
 
 > "When you go up the Qarth road, and you will, if there is anything left of her in that holy place, you give her quiet."\
 > — the cover letter of the Fulcrum bell file, signed "I"
