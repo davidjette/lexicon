@@ -36,6 +36,8 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - C:/dev/sharn-campaign/session-2026-07-11-recap.md
 - C:/dev/sharn-campaign/session-2026-07-15-recap.md
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-14'
 ---
 
@@ -76,6 +78,10 @@ For about five months an Uruk-Hoth recon regiment under War-Chief Braga Kul held
 In Korth Ep 5 the orcs at the mine entrance sounded a war horn and attacked. The trio fought through nearly twenty of them; Dave counted "about 20 orcs including two lieutenant-level and a captain level plus a caster". <small>(Oral Histories: The Inevitables, 2026-07-12)</small> Braga Kul struck [Sir Dario Argentino](/people/sir-dario-argentino/) down before he was knocked unconscious and taken prisoner. Dave, afterwards: "we killed that whole Uruk Hoth recon unit, and technically they're not even our enemies, but they were ready to attack all imperials on sight". <small>(Oral Histories: The Inevitables, 2026-07-12)</small>
 
 In Korth Ep 6 the regiment's scout party, eight orcs including a war-caster, came home. One of them came through an arrow slit as a mouse by lesser polymorph and lifted the bar of the front door. Eric killed Braga in his cell with magic missiles, and by the end of the battle every member of the recon regiment was dead. The bodies were burned and dropped into the chasm. Dave: "An orc recon squad of 40 in a well held stronghold means the war is moving very fast". <small>(Oral Histories: The Inevitables, 2026-07-15)</small> Of a Lesser Polymorph potion the party took from the Mountain Door, which turns the drinker into a mouse, he said it was "a common tool of warlocks attached to orc recon units it seems". <small>(Oral Histories: The Inevitables, 2026-07-16)</small>
+
+## A coin at the Grand Lodge
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), on the grand stair of [the Grand Lodge](/places/the-grand-lodge/), two members passed a purse between them without looking and a coin fell. [Eric](/people/eric-the-cleric/) picked it up: it had been minted in the Uruk-Hoth Republic. [Gemma](/people/gemma-corso/) heard their talk of hares and crossbows as a cant for business, and remembered what the party had overheard at POSÉ four years earlier: General Thar telling [Esther](/people/esther-crona/) that the Lhazaar Principalities were helping the Uruk-Hoth. The two men went through a door to the south. <small>(Korth Ep 15)</small>
 
 **Enemies:** the Empire; [the Iron Veil](/organizations/the-iron-veil/); Crona's Wall and its garrison.
 
