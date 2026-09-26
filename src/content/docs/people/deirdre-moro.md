@@ -40,6 +40,8 @@ sources:
 - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
 - sources/site/korth-episode-summaries.txt
 - "Oral Histories: The Inevitables, 2026-08-22"
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: deirdre-moro-person
@@ -116,6 +118,8 @@ Exacting, feared, procedurally immaculate and personally unpleasant — a woman 
 Dead. Gemma Corso spent months tracking her specifically — where she lived, what she did on a Wednesday evening, how she spoke to baristas, how she saluted — then killed her and her paralegal in Deirdre's own apartment, put both bodies in a Bag of Holding, and burned them at the bottom of the bridge with the orc dead. Her face, her post and her clearance are now being used to reach the Ivory Lazaret.
 
 The cover holds only while Deirdre is seen in Korth. Dave, as DM, after the Korranberg dungeon: "You know that if you stay away from Korth too long, people will wonder what happened to Dierdre and (what his name?) and blow your cover". <small>(sic; Oral Histories: The Inevitables, 2026-08-22)</small>
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/) Gemma worked Deirdre's case at [the Imperial Counting House](/places/the-imperial-counting-house/), where Wardress [Ilma Vitt](/people/ilma-vitt/) told her she was the first person from the Ministry to come up that hill in two years. Vitt handed the Advocate her private reconciliation of every probate the Counting House had handled, in her own cipher: the Director and his whole staff were enriching themselves on the property of people who die in the hospital, on donations of land and goods, and on war profiteering, and the Lodge's books would complete the chain. [Director Aurel Kesk](/people/aurel-kesk/) came to the office with three troopers holding Vitt and demanded to know why the Advocate had ordered his wardress out without a warrant. Shown one, he said, *"I can't believe that Merkin, of all people, would pull this."* His men took Vitt into his office and beat her until Deirdre demanded her as a witness and he let her go. Kesk then told the Advocate that Freyd could forget the favour Kesk was going to do him, that there were more important people than he who would be upset if she held too hard to the letter of the law, and that he could make cooperation very worth her while. The Grand Lodge assignment is due Monday. <small>(Korth Ep 15)</small>
 
 **Organizations / Groups:** The Ministry of Law, Korth (Star Advocate) · the Empire
 
