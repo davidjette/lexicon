@@ -75,6 +75,8 @@ sources:
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - C:/dev/sharn-campaign/session-2026-09-25-summary.md
+  - Dave, note of 2026-09-26
 gallery:
   - src: /images/chat/2022-10-09-1975455802845387.webp
     alt: Captain Jim Smallberries miniature
@@ -153,6 +155,10 @@ In *The Starsong Awakens*, which JL ran, fifteen years have passed and Jim is an
 ### The Company dossier
 
 The Company's dossier lists James X. Smallberries as alive, located in Scrospace, with the alias Charles Longberries. It states that Captain Smallberries was tried in absentia by a military tribunal and sentenced to 20 years in a Sovereign penitentiary for 7 counts of dereliction of duty and theft of Astral Command property. His location remains unknown to Astral Command, but Company agents tracked him to a Scrospace mining colony. The dossier describes his relationship with [Caprica](/people/caprica/), whom it lists as deceased, as what makes him a vital interest to the Board of Directors. <small>(The Starsong Awakens site, Company dossier)</small> JL's account of the arc gives the charges as multiple felony counts of dereliction of duty and destruction of Astral Command property, which could carry fifty years in a military prison, and his alias as Charles Largeberries. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+
+## Korth
+
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), Old Jim Smallberries was among the pilgrims at the first great altar on the Stairs of Her Mercy, below the [Ivory Lazaret](/places/the-ivory-lazaret/), up on a pass after hauling a delivery. He went around a corner and was gone. <small>(Korth Ep 15)</small>
 
 ## Abilities and equipment
 
