@@ -38,6 +38,9 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/site/ebt-7.txt
 - worldanvil/CANON.md
+- C:/dev/sharn-campaign/session-2026-09-25-summary.md
+- sources/dave/2026-09-26-korth-ep15-rulings.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: general-stockton-thar-person
@@ -124,6 +127,16 @@ Sharn Ep 10. A crystallizer screen in the Underhive tavern flickered to life sho
 Korth Ep 1, three years later. **Crona's Wall collapses, allowing Orc forces to push into Dark Druid territory in the Eldeen Reaches.** The Wall he warned about, on the front he was the lynchpin of, in the country he came from.
 
 <small>The general himself appears in no episode record after that line. Whether Stockton Thar died holding the Wall, withdrew with what was left of the western command, or went home to the Reaches ahead of the Orcs is not established. He is one of the very few senior Imperials whose disposition the Inevitables have never confirmed either way.</small>
+
+## The Stairs of Her Mercy
+
+[Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/). Thar's voice is ruined. At [the Imperial Counting House](/places/the-imperial-counting-house/), with two officers, two dark druids of his staff and a room's worth of death troopers, he cornered Director [Aurel Kesk](/people/aurel-kesk/). He raised a hand and the officer in front of him pulled at his own collar, choking, until he lowered it. He demanded that Kesk take him to the Emperor: <small>(Korth Ep 15)</small>
+
+> "I don't need you to have the authority. I have the authority. I am going to deliver my report to the Emperor in person. You will take me to him."
+
+Kesk answered that he counted money, had not been up the stairs or to the palace in more than a year, had never seen the Emperor, and that nobody could open that door but the sisters. Thar's druids handed Kesk a tightly rolled sheet of parchment and the delegation left, though several troopers stayed to watch the Director.
+
+Thar then forced his way through the petitioners to the foot of the Stairs of Her Mercy, the crowd following in his wake. Two sisters bowed, welcomed him and told him his name was on the list. When the crowd began pleading its own cases, he said *"Enough!"* and a supernatural silence fell over the plaza. A high sister came down the stairs in procession, a very tall woman in black wearing a red mask, followed by sisters in red, and even his druids stood aside for her. She told him the Emperor was very ill but had agreed to meet him in his garden the next day. Thar replied, *"Excellent. Thank you, Sister, by his grace and her mercy."* He spoke a few words in a language the party did not know, became a huge red bird, and flew with his two druids, now smaller brown and grey birds, first to the Counting House roof and then north across the river. <small>(Korth Ep 15)</small>
 
 ## Right now
 
