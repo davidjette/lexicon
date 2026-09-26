@@ -40,6 +40,8 @@ sources:
 - worldanvil/CANON.md
 - "Oral Histories: The Inevitables, 2026-02-15"
 - "Oral Histories: The Inevitables, 2026-04-04"
+- sharn-campaign/session-2026-09-25-summary.md
+- Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: cob-cornwell-person
@@ -82,6 +84,10 @@ Cob Cornwell was dead by the time of the Sharn arc. <small>(Oral Histories: The 
 In Sharn, after collecting the packaged EBT-7 from the Conduit Exchange, [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) were approached in the street by a ragged man who claimed that **Cobb Cornwell wanted to speak with them**. Sensing a trap, they refused and returned to the safe house.
 
 That invitation was extended in a city where Cornwell's estate had already been inherited and spent by a serial murderer, and where the man himself does not appear on any list of the living. Who sent the ragged man, and what would have been waiting, has never been established.
+
+## The Grand Lodge
+
+Cob Cornwell was a member of [the Grand Lodge](/places/the-grand-lodge/), and his portrait hangs among the Fieldmasters on its grand stair, where the party saw it during their stay at the Lodge in [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/). <small>(Korth Ep 15)</small>
 
 ## Beliefs
 
