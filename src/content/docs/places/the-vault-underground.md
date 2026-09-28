@@ -1,21 +1,25 @@
 ---
 title: The Vault Underground
 description: 'The Upper City''s prestige nightclub and the Zeir residence beneath it: ritual room, the Pantry, and the rooftop where Malrik and Faith died.'
+tags:
+  - The Vault Underground
+  - 'The Vault: Underground'
+  - Faith Zeir
+  - Malrik Zeir
+  - Children of Ember
+  - Velvet Table Society
+  - Sharn
+  - Upper City
+  - Hallorn d'Lyrandar
+  - Calcifer
+  - Esther Crona
+  - Lorian
+image:
+  src: /images/site/the-vault-underground-1.webp
+  alt: 'The Vault: Underground'
+  caption: 'The Vault: Underground'
 type: landmark
 kind: places
-tags:
-- The Vault Underground
-- 'The Vault: Underground'
-- Faith Zeir
-- Malrik Zeir
-- Children of Ember
-- Velvet Table Society
-- Sharn
-- Upper City
-- Hallorn d'Lyrandar
-- Calcifer
-- Esther Crona
-- Lorian
 icon: fa-wine-glass
 fields:
   type: Nightclub and private residence
@@ -28,33 +32,29 @@ fields:
   defenses: VIP access control, masked cultists, wealthy recruiters, and a vampire
   history: Assaulted by the Inevitables; Malrik was killed on the pool deck and Faith Zeir was killed by Esther Crona moments later
 sources:
-- sources/site/children-of-ember.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/home.txt
-- sources/documents/2026-09-14-nico-sharn-captive-lorian.md
-- sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/site/children-of-ember.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/home.txt
+  - sources/documents/2026-09-14-nico-sharn-captive-lorian.md
+  - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 published: '2026-09-10'
 wa:
   slug: the-vault-underground-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
-image:
-  src: /images/site/the-vault-underground-1.webp
-  alt: 'The Vault: Underground'
-  caption: 'The Vault: Underground'
 gallery:
-- src: /images/gallery/2026-05-15-02.webp
-  alt: The Vault Underground 3rd Level VIP pass
-  caption: 'A prop VIP pass for The Vault Underground, one pass granting access to all three levels: the Inferno, the Purgatory and the Maelstrom. It also lists a private booth, one free drink and a table dancer of your choice.'
-- src: /images/gallery/2026-05-15-03.webp
-  alt: The Vault Underground drink menu
-  caption: A prop drink menu for The Vault Underground, framed by a red dragon. It lists Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.
-- src: /images/gallery/2025-10-07-01.webp
-  alt: Glowing square symbol
-  caption: 'A pale glowing emblem of nested squares with a bar beneath, on a dark panel: the symbol on the sign of The Vault Underground.'
-- src: /images/gallery/2026-05-15-01.webp
-  alt: 3rd Level VIP One Pass
-  caption: 'A red-and-gold club pass with a coiled dragon: "VIP - 3rd Level VIP One Pass", including access to the 3rd club level, a private booth, one free drink and a table dancer of your choice.'
+  - src: /images/gallery/2026-05-15-02.webp
+    alt: The Vault Underground 3rd Level VIP pass
+    caption: 'A prop VIP pass for The Vault Underground, one pass granting access to all three levels: the Inferno, the Purgatory and the Maelstrom. It also lists a private booth, one free drink and a table dancer of your choice.'
+  - src: /images/gallery/2026-05-15-03.webp
+    alt: The Vault Underground drink menu
+    caption: A prop drink menu for The Vault Underground, framed by a red dragon. It lists Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.
+  - src: /images/gallery/2025-10-07-01.webp
+    alt: Glowing square symbol
+    caption: 'A pale glowing emblem of nested squares with a bar beneath, on a dark panel: the symbol on the sign of The Vault Underground.'
+  - src: /images/gallery/2026-05-15-01.webp
+    alt: 3rd Level VIP One Pass
+    caption: 'A red-and-gold club pass with a coiled dragon: "VIP - 3rd Level VIP One Pass", including access to the 3rd club level, a private booth, one free drink and a table dancer of your choice.'
 ---
 
 **Nightclub and private residence · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · The Zeir residence · Destroyed as an operation**
@@ -100,3 +100,5 @@ There [Dario](/people/sir-dario-argentino/) killed Malrik outright — his vampi
 The trafficking network beneath the Vault Underground was destroyed with its owners, and the fact that the Children of Ember were already dead let the new Council of Sharn hang a convenient cover story on them a night later. The club itself is one of the few buildings in Sharn where the staff genuinely did not know.
 
 On the night Esther Crona fell, Lorian tended Malrik's captives with Nest healers. At the first Council of Sharn the Silver Flame asked for a Flame-led cleansing of corrupted sites, the Zeir residence among them. <small>(Nico's DM notes, Episode 19)</small>
+
+![The Vault Underground Club - Upper City Sharn 2.png](/images/uploads/the-vault-underground-club-upper-city-sh-muky2lnd.webp)
