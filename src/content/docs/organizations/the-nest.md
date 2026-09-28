@@ -35,6 +35,8 @@ sources:
 - worldanvil/images/rebel-factions/01.jpg
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
+- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
 published: '2026-09-10'
 wa:
   slug: the-nest-organization
@@ -66,6 +68,20 @@ Nine years ago Sharn dismantled its once-famous Lightning Rail Sub-Transit, a ne
 Jessica Grimpledink was on duty at Station 5 when the detonations occurred. She coordinated rescue efforts, saved multiple survivors, and witnessed enough to know the official story was a fabrication. When the city blamed the union, she and a small group of survivors retreated into the sealed tunnels beneath Skyroot Park and rebuilt Station 5 into a base. The board she keeps there is the rebellion's working memory: Project E.D.E.N., the Cog Collector, [Varyn Crona](/people/varyn-crona/) and the Forge of Binding, [Grady Marsh](/people/grady-marsh/) and the ArcEye Crystallizer, the fate of Sister Nora, the Sharn Broadcast Override. Missions are marked open, critical or completed in her hand.
 
 The Nest supplies its operatives with Ghost Chips for false identity, Sending charms, and cover employment with the Vilspar Farm-Table Co-operative. It maintains an Upper City safe house, a collapsible tunnel into the command centre, and the EBT-7 Sub-Transit Repeater Node — a salvaged device capable of hijacking Sharn's ArcEye live feeds and broadcasting anything the holder chooses across the entire city.
+
+## ELEVEN MONTHS AFTER NEWHAM
+
+Eleven months after the fall of Newham, rumours of a terrorist attack had been circling Sharn for weeks. The Nest held them to be a hoax concocted by Crona and her people as a pretext to crack down on rebels, but all travel in or out of the city was shut down, and [Zero](/people/zero-of-sharn/) needed a way to the east coast to make contact with a new rebel gang. The Nest had heard that another faction, [the Hundreds](/organizations/the-hundreds/), had built ships able to teleport across great distances, and it sent seven of its low-level members to get a warforged spelljammer: <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(Dave, sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
+
+- **Beef Brockly**, a dragonborn from Q'barra, a former soldier and the crew's muscle.
+- **Slashlee Simpson**, a khoravar from Thrane, a sharpshooter.
+- **Grim Goodbody**, a gnome from Karrnath, a toolmaster and saboteur.
+- **Mitt Romney**, a changeling from Farlnen, an infiltrator and spy.
+- **Stroke Slightly**, a human from the Lhazaar Principalities, a con artist.
+- **Hamilton Burgher**, a tiefling from Uruk-Hoth, the schemer and mastermind.
+- **Glonk**, a shifter from Frostfell, an arcanist and summoner.
+
+How the job ended is not recorded.
 
 ## INSIDE THE STATION, IN NICO'S NOTES
 
