@@ -40,6 +40,7 @@ sources:
   - sources/site/korth-episode-summaries.txt
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - Dave, note of 2026-09-26
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
 published: '2026-09-10'
 wa:
   slug: pirate-joseph-roberts-person
@@ -90,6 +91,16 @@ In practice he takes everything, gives back most of it, keeps the coin, and name
 ## Origin
 
 His history before the Isles is not recorded. He married [Blair](/people/blair/) out of the Lhazaar Principalities, where she had been raised among pirates, smugglers and sea-born mercenaries after being adopted as an infant; he remains her first husband and a powerful ally, and the political connection he gives her extends far beyond Sharn. He met the Unforeseen at the height of their service to the Empire and robbed all four of them. Years later he met their successors: [Gemma Corso](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) encountered him in Newham before ever reaching Sharn, and it was learning that they had met her husband — and known her father — that decided Blair to receive them at all. Word reached Sharn during the occupation that he was coming; his fleet was in the sky for the rising.
+
+## Newham and Leef
+
+On the night train to Newham, while [Gemma Corso](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) were fighting [Greenish Hughes](/people/greenish-hughes/) and her half-illithids, the train rocked as an airship landed on top of it, and three pirates and the Dread Pirate himself, by then quite old but tough, came crashing through the windows. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+> "Congratulations. You're being robbed by the dread pirate Joseph Roberts, an honor offered to few."
+
+<small>— Joseph Roberts, on the night train to Newham.</small>
+
+In the year after Newham fell he landed a small corvair near Gemma's crops at Leef one cold autumn night, pointed his rapier at her throat, told her she owed him a favour and had come to collect, and went down on one knee to ask her to marry him. He said he had decided to leave his playboy ways behind: he was 83, though he might not look it, and he never smoked and seldom drank. He wanted to be married and to father a child, and asked her for nothing more, fidelity included. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## Gemma's Complication
 
