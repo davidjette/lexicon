@@ -19,6 +19,8 @@ tags:
   - The Polygon
   - Tomb of Kaius I
   - Fountain of Mercy
+image:
+  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-dari-mukj3vvf.webp
 sidebar:
   order: 315
 type: report
