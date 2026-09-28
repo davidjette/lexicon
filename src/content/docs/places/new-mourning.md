@@ -21,7 +21,7 @@ fields:
   type: Corrupted region
   alternativename: The New Mourning
   location: Eastern Khorvaire, west of Leef and the Republic of Talenta
-  geography: A vast corrupted region centred on the ruins of Newham City
+  geography: A corrupted region of some 12,000 square miles from Karrnath to Q'barra, centred on the ruins of Newham City
   population: None; uninhabitable
   naturalresources: None recoverable
   history: Created by the otherworldly explosion that ended the rising against Grand Duke John C. LeBeefe
@@ -32,6 +32,7 @@ sources:
   - sources/wa/john-c-lebeefe-person.txt
   - sources/wa/the-unforeseen-organization.txt
   - sources/wa/newham-settlement.txt
+  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-10'
 wa:
   slug: new-mourning-location
@@ -49,6 +50,12 @@ wa:
 Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) — first mayor of Newham, aberrant-minded sorcerer, and by the end slowly transforming into something otherworldly — carried the Empire eastward from the outpost of [Leef](/places/leef/), raising an airship yard, illithid city guards and the Iron Veil there. Three operatives who had just liberated Leef followed his trail west to Newham City, met **Digma Beeve**, and with his guidance welded a scattering of anti-LeBeefe cells into a single coordinated resistance.
 
 The rising succeeded. LeBeefe was killed. And then a massive otherworldly explosion collapsed the city into ruin and corrupted a vast region around it: toxic, poisoned, and dead to settlement. The gateway to the East became the second wound in the map of Khorvaire.
+
+## The news from Rekkenmark
+
+A year after the fall the news reached Leef. Rekkenmark scientists investigating the burning wreckage of Newham judged that it would be a hundred years before the ground was habitable again, and the contaminated territory was given its name, the New Mourning. The arcane contamination had spread over some 12,000 square miles from Karrnath to Q'barra, cutting Leef and the Dwarflands off from the rest of the Empire. The ground was toxic and tainted, and the scientists had already seen strange mutations in the native plants and animals: half-illithid rabbits and bears, and plants able to warp the minds of passersby. Rumours of the cause ran wild; some said it was a rebel attack, others the gods' retribution on LeBeefe's malice and avarice, and nobody knew for sure. The Empire commemorated an 8-foot solid-gold bust of Grand Duke LeBeefe, heroic protector of the Empire, outside the Hall of Justice in Karrnath. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+In the same year strange and unusually aggressive beasts with psionic powers began to appear on the outskirts of Leef. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## After
 
