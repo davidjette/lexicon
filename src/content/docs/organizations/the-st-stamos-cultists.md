@@ -23,12 +23,13 @@ fields:
   leader: Unknown
   founding: Unknown
   status: Unknown
-  allies: Unknown
+  allies: Gemma Corso, Dario Argentino and Eric the Cleric, for the Newham prison break
   enemies: Unknown
 sources:
 - "Oral Histories: The Inevitables, 2025-09-25"
 - "Oral Histories: The Inevitables, 2025-09-27"
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-14'
 ---
 
@@ -53,6 +54,8 @@ JL, who ran the arc, answered:
 Asked whether these were the radicals, JL confirmed it: "Yep. That’s their war cry." <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
 
 Gemma tried to get one of the cultists to follow the party so that they could talk. Dave wrote that "if we had captured them or fought them, maybe they'd end up our enemies". <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
+
+The cultists were one of the rebel factions the trio courted in Newham. Once met, they agreed to create a massive distraction for the trio's break-in at the city prison, where Locke Pierce's warforged were held. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 The trio later welded Newham's anti-LeBeefe rebel cells into a single resistance, and the city collapsed into the New Mourning when Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) was killed. See [the fall of Newham](/history/the-fall-of-newham/).
 
