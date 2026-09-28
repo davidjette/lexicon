@@ -49,6 +49,9 @@ gallery:
   - src: /images/gallery/2026-07-12-16.webp
     alt: Skull-masked rider in the streets of Korth
     caption: The skull-masked samurai rides a black horse down a rain-slick gothic street under airships, past a red poster reading "Loyalty is its own reward".
+  - src: /images/album/great-imperial-palace-and-the-throne-of-bones-imperial-city-of-korth-seat-of-the.webp
+    alt: 'Great Imperial Palace and the Throne of Bones - Imperial City of Korth - Seat of the Emperor’s power'
+    caption: 'Great Imperial Palace and the Throne of Bones - Imperial City of Korth - Seat of the Emperor’s power'
 ---
 
 **City · Kingdom of Karrnath · Political capital and ceremonial seat of the Pax Imperium · Standing**
