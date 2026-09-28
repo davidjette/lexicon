@@ -14,6 +14,7 @@ tags:
   - Gemma Corso
   - Sir Dario Argentino
   - Eric the Cleric
+  - LeGrenwille
 image:
   src: /images/uploads/inspector-legranouille-mu652tvt.webp
 type: person
@@ -40,18 +41,25 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-11-22'
   - 'Oral Histories: The Inevitables, 2025-12-05'
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
 published: '2026-09-14'
+gallery:
+  - src: /images/album/dario-and-inspector-legranouille-city-of-newham.webp
+    alt: 'Dario and Inspector LeGranouille - City of Newham'
+    caption: 'Dario and Inspector LeGranouille - City of Newham'
 ---
 
 **Disguise of John C. LeBeefe · Inspector · Travelled with the trio · Dead, as LeBeefe**
 
-*Also known as:* Granuille · Granwille
+*Also known as:* Granuille · Granwille · Deputy LeGrenwille
 
 **Inspector LeGranouille** was Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) in disguise. As the inspector he followed along with the trio the whole time, and his turn against LeBeefe was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small> In the story he told, he was an inspector who worked for Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) and joined [Gemma Corso](/people/gemma-corso/), [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/) during the Newham half of [the Leef / Newham arc](/history/the-leef-newham-arc/), after watching them pull off a heist in [Leef Ep 16](/sessions/leef-ep-16-the-mega-heist/). By Nico's account he gave the trio to understand that LeBeefe's mind control troubled him only when he came face to face with the Grand Duke. <small>(Oral Histories: The Inevitables, 2025-10-23; 2025-11-22)</small>
 
 ## In LeBeefe's service
 
 JL, who ran the arc, introduced him with a portrait: "Found Inspector LeGranouille". <small>(Oral Histories: The Inevitables, 2025-10-23)</small> Dave later shared a likeness of him "When he was a boy detective". Nico's verdict on him was "He’s dashing and smart, but works for that monster LeBeefe? Terrible". <small>(Oral Histories: The Inevitables, 2025-11-10)</small>
+
+As Deputy LeGrenwille, chief inspector for the Grand Duke, he came to the trio's door in Newham asking questions about the murder on the train. He cast *detect thoughts*, and seemed to know that Dario was of the Silver Flame. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## Joining the trio
 
