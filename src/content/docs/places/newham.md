@@ -44,11 +44,22 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-09-27'
   - 'Oral Histories: The Inevitables, 2025-11-08'
   - 'Oral Histories: The Inevitables, 2025-12-05'
+  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-10'
 wa:
   slug: newham-settlement
   uuid: aff701ba-2761-4fed-ade5-90e83a61fe0a
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+gallery:
+  - src: /images/album/city-of-newham-gemma-eric-and-dario-rescuing-warforged-chip-and-rust-from-the-ne.webp
+    alt: 'City of Newham - Gemma, Eric and Dario rescuing warforged Chip and Rust from the Newham Jail'
+    caption: 'City of Newham - Gemma, Eric and Dario rescuing warforged Chip and Rust from the Newham Jail'
+  - src: /images/album/newham-city-guard.webp
+    alt: 'Newham City Guard'
+    caption: 'Newham City Guard'
+  - src: /images/album/gemma-eric-and-dario-listen-to-a-guard-play-a-haunting-tune-black-castle-city-of.webp
+    alt: 'Gemma, Eric and Dario listen to a guard play a haunting tune - Black Castle - City of Newham'
+    caption: 'Gemma, Eric and Dario listen to a guard play a haunting tune - Black Castle - City of Newham'
 ---
 
 **City · eastern Khorvaire · The gateway to the East · DESTROYED**
@@ -75,6 +86,8 @@ Three operatives — [Gemma Corso](/people/gemma-corso/), [Sir Dario Argentino](
 
 The trio took a home base in the city. When people in Newham think of "the rebels", by JL's account, they are most likely to think of the **St. Stamos cultists** and their actions: a radical cell whose war cry is "St. Stamos". Soon after the trio arrived a theater was bombed, and a singer with element stones in her torso was not saved. An orc actress was another lead the trio could follow in town. <small>(Oral Histories: The Inevitables, 2025-09-27)</small> Three of the four rebel groups they courted became their allies, vampires among them. <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
 
+Newham's rebellion was many movements, most of them feuding. Deuce Loosely's cutpurses ran the thieves' guild beneath the Clamshell Casino; the Grey Doves, Black Doves ready to betray Uriel, followed [Luz Fayana](/people/luz-fayana/); the Diggers were labourers held in debt peonage by LeBeefe, with a radical liberation creed, kept under lock and guard at his dig site; ex-Blood of Vol vampires kept [Club Mawniq](/places/club-mawniq/); there were one or two Inquisition turncoats and Silver Flame faithful in deep cover; Locke Pierce's warforged were building something they called a spelljammer out of stolen gnomish technology; and there were the St. Stamos cultists. [Digma Beeve](/people/digma-beeve/) was Rourke's man in the city. Paulina Gunter-Gooch, lodging at the Imperial Marquis Hotel, brought in the orcs of the Uruk Republic, who wanted the imprisoned warforged's technology and sent six soldiers for the assault on LeBeefe's fortress in exchange for it, and the St. Stamos cultists agreed to stage a massive distraction for the trio's break-in at the city prison. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
 The assault succeeded and LeBeefe was killed. <small>(Oral Histories: The Inevitables, 2025-12-05)</small> The victory came at a catastrophic cost: a massive otherworldly explosion collapsed the city into ruin, and a vast region around Newham became corrupted, toxic and uninhabitable — [the New Mourning](/places/new-mourning/).
 
 The survivors fled east, evacuating en masse to Leef. There the townsfolk, the Newham refugees and the swamp-dwarf tribes of [the Mror Holds](/places/the-mror-holds/) forged a new nation: **the Republic of Talenta**, which stands between the wasteland to the west and the Mror Holds to the east, and which remains one of the few places in Khorvaire largely beyond the reach of the Empire.
@@ -85,13 +98,27 @@ Newham is not a city any more. The manor, the hotel, the university, the academy
 
 ## Places of Interest
 
-**[The Clamshell Casino](/places/the-clamshell-casino/):** A newly built casino in the city of Newham.
+**[The Clamshell Casino](/places/the-clamshell-casino/):** A newly built casino in the city of Newham. Deuce Loosely's thieves' guild met beneath it, and its bartender Gibbs helped them. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 **LeBeefe Manor:** Home of Mayor John C. LeBeefe.
 
 **Lightning-rail Hotel:** Newly remodeled hotel with theater and restaurant.
 
 **Lake LaBeefe:** Also written Lake LaBeef. The man-made lake made by redirecting the river Dark, named for the city's first mayor; Locke Pierce's brownstone stood near its docks. <small>(Episode 6 "6 Months Later / The Tablet")</small>
+
+**Castle LeBeefe:** The Black Fortress, an evil black tower in the middle of the lake, the Grand Duke's seat, held by an army on its island. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+**Grand Cathedral of the Sovereign Host:** The city's great temple. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+**The prison:** Where Locke Pierce's warforged were held until the trio broke them out. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+**Fort Gumption:** A large military base set apart from the city, with a great cemetery and a park dedicated to the heroes of the Last War's Battle of Endworld Mountain. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+**The Imperial Marquis Hotel:** A hotel above Bunzo's wizard shop. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+**[Club Mawniq](/places/club-mawniq/):** A night club run by two vampires. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+**The Slippery Eel:** A tavern where Inquisition soldiers disciplined for anti-Imperial sentiment could be found. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 **God Save the Blaze:** Pub restaurant / Club style services a hip younger collage crowd. Own and ran by Chef [Richard Blaze](/people/richard-blaze/).
 
