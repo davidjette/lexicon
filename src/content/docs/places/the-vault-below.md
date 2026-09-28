@@ -75,3 +75,5 @@ In Nico's notes, Lorian was drugged, blindfolded and moved here from the Upper C
 Four cultists fell and the prisoners were freed. With Malrik and Faith Zeir dead and the Children of Ember destroyed at the Vault Underground, the Vault Below's other trade ended with them. At the founding of the Council of Sharn the Underhive's delegation asked for legal ownership of the building.
 
 The request came from Blair, and Nico's notes record it as "Faith is dead; Blair wants the club." <small>(Nico's DM notes, Episode 19)</small>
+
+![Sharn Ep 6 — The Vault Below - Inside The Vault Below - Sharn Lower City - Lantern District.png](/images/uploads/sharn-ep-6-the-vault-below-inside-the-va-muky0ql6.webp)
