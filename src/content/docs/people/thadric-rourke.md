@@ -1,20 +1,22 @@
 ---
 title: Colonel Thadric Rourke
 description: Retired colonel and Last War veteran who welcomed the trio to the rebellion at Leef, and died in his sleep the year after the fall of Newham.
+tags:
+  - Thadric Rourke
+  - Colonel Thadric Rourke
+  - The Colonel
+  - Thadric
+  - Leef
+  - Cat & Biscuits
+  - Heroes of Leef
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Digma Beeve
+  - The Last War
+image:
+  src: /images/uploads/colonel-thadric-rourke-leef-muktwfee.webp
 type: person
 kind: people
-tags:
-- Thadric Rourke
-- Colonel Thadric Rourke
-- The Colonel
-- Thadric
-- Leef
-- Cat & Biscuits
-- Heroes of Leef
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Digma Beeve
-- The Last War
 icon: fa-medal
 fields:
   rpgAlignment: Unknown
@@ -31,8 +33,8 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
-- sources/dave/2026-09-27-leef-jl-notes-rulings.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-27'
 ---
 
