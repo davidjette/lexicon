@@ -1,8 +1,6 @@
 ---
 title: Club Mawniq
 description: A Newham night club kept by two ex-Blood of Vol vampires, allies of the trio, reopened at Leef as a massage parlour after the fall.
-type: building
-kind: places
 tags:
   - Club Mawniq
   - Newham
@@ -15,6 +13,10 @@ tags:
   - Gary
   - Gemma Corso
   - Leef / Newham arc
+image:
+  src: /images/uploads/club-mawniq-outside-newham-mukrxocb.webp
+type: building
+kind: places
 icon: fa-moon
 fields:
   type: Night club; later a massage parlour
@@ -24,9 +26,9 @@ fields:
   history: Allied with Gemma Corso, Dario Argentino and Eric the Cleric in the rising against LeBeefe; reopened at Leef as a 24-hour massage parlour
   status: Relocated to Leef
 sources:
-  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
-  - "Oral Histories: The Inevitables, 2025-09-27"
-  - "Oral Histories: The Inevitables, 2025-11-08"
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - 'Oral Histories: The Inevitables, 2025-09-27'
+  - 'Oral Histories: The Inevitables, 2025-11-08'
 published: '2026-09-27'
 ---
 
@@ -49,3 +51,5 @@ The vampires were among the refugees from Newham who made new lives at Leef, whe
 **Known people:** Morg and Nips, owners · Diamond, a dancer · Unc, the bouncer · Gary, a rival vampire from Aundair.
 
 **Related:** [Newham](/places/newham/) · [Leef](/places/leef/) · [The fall of Newham](/history/the-fall-of-newham/) · [Gemma Corso](/people/gemma-corso/)
+
+![Club Mawniq - Inside - Newham.png](/images/uploads/club-mawniq-inside-newham-mukrxuca.webp)
