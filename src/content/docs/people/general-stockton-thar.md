@@ -1,21 +1,25 @@
 ---
 title: General Stockton Thar
 description: Dark Druid of the Eldeen Reaches, general of the Iron Veil's ground forces, and the man who held Crona's Wall knowing what it cost.
+tags:
+  - Stockton Thar
+  - General Stockton Thar
+  - Thar
+  - Dark Druid
+  - Mark of Finding
+  - Crona's Wall
+  - Fort Crona
+  - Eldeen Reaches
+  - Uruk-Hoth
+  - Uruk-Hoth
+  - Iron Veil
+  - Esther Crona
+image:
+  src: /images/site/general-stockton-thar-1.webp
+  alt: General Stockton
+  caption: General Stockton
 type: person
 kind: people
-tags:
-- Stockton Thar
-- General Stockton Thar
-- Thar
-- Dark Druid
-- Mark of Finding
-- Crona's Wall
-- Fort Crona
-- Eldeen Reaches
-- Uruk-Hoth
-- Uruk-Hoth
-- Iron Veil
-- Esther Crona
 icon: fa-tree
 fields:
   rpgAlignment: Unknown
@@ -32,33 +36,29 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/key-figures.txt
-- sources/site/pose-mission-notes.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- sources/site/ebt-7.txt
-- worldanvil/CANON.md
-- C:/dev/sharn-campaign/session-2026-09-25-summary.md
-- sources/dave/2026-09-26-korth-ep15-rulings.md
-- Dave, note of 2026-09-26
+  - sources/site/key-figures.txt
+  - sources/site/pose-mission-notes.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/ebt-7.txt
+  - worldanvil/CANON.md
+  - C:/dev/sharn-campaign/session-2026-09-25-summary.md
+  - sources/dave/2026-09-26-korth-ep15-rulings.md
+  - Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: general-stockton-thar-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
-image:
-  src: /images/site/general-stockton-thar-1.webp
-  alt: General Stockton
-  caption: General Stockton
 gallery:
-- src: /images/album/stockton-thar-and-rotunda-goose.webp
-  alt: General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for t
-  caption: 'General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
-- src: /images/album/the-party-watching-stockton-thar.webp
-  alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
-  caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are watching General Stockton Thar and Rotunda Goose in conversation - Aboard a river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
-- src: /images/gallery/2025-12-16-04.webp
-  alt: General Stockton Thar
-  caption: Portrait of General Stockton Thar, a white-bearded man in red and black robes and a red spiked crown, holding a staff topped with a dragon head.
+  - src: /images/album/stockton-thar-and-rotunda-goose.webp
+    alt: General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for t
+    caption: 'General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
+  - src: /images/album/the-party-watching-stockton-thar.webp
+    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
+    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are watching General Stockton Thar and Rotunda Goose in conversation - Aboard a river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'
+  - src: /images/gallery/2025-12-16-04.webp
+    alt: General Stockton Thar
+    caption: Portrait of General Stockton Thar, a white-bearded man in red and black robes and a red spiked crown, holding a staff topped with a dragon head.
 ---
 
 **Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Status unconfirmed**
@@ -176,3 +176,5 @@ The Wall is down and the Uruk-Hoth Republic is in the Eldeen Reaches. The Hundre
 - [The Lhazaar pirates](/people/pirate-joseph-roberts/) — supply-runners for the Republic, and a standing item in his reports.
 
 **Hobbies & Pets** — Unknown.
+
+![Korth Ep 15 — The Stairs of Her Mercy - Dario, Eric and Gemma in disguise entering the Imperial Counting House - Inside General Stockton Thar and Aurel Kesk.png](/images/uploads/korth-ep-15-the-stairs-of-her-mercy-dari-mukjvq91.webp)
