@@ -48,6 +48,9 @@ gallery:
   - src: /images/gallery/2026-05-15-03.webp
     alt: The Vault Underground drink menu
     caption: A prop drink menu for The Vault Underground, framed by a red dragon. It lists Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.
+  - src: /images/album/sharn-ep-17-the-vault-underground-dario-eric-and-esther-crona-zeir-s-upper-city.webp
+    alt: 'Dario, Eric and Esther Crona - Zeir''s upper city Sharn apartment - Sharn Episode: The Vault Underground'
+    caption: 'Dario, Eric and Esther Crona - Zeir''s upper city Sharn apartment - Sharn Episode: The Vault Underground'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 17 · DM: Nichole**
