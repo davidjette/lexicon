@@ -47,6 +47,9 @@ gallery:
   - src: /images/gallery/2026-06-15-10.webp
     alt: At the Thronehold Summit with Rotunda Goose
     caption: Chancellor Eric the Cleric and Lorian talk with Rotunda Goose in her red gown and a woman in a white blouse, in a candlelit stone hall.
+  - src: /images/album/korth-ep-1-three-years-later-gemma-and-silver-flame-with-bell-in-sharn-upp-alt.webp
+    alt: 'Gemma and Silver Flame with Bell in Sharn Upper city - Korth Episode: Three Years Later (alternate render)'
+    caption: 'Gemma and Silver Flame with Bell in Sharn Upper city - Korth Episode: Three Years Later (alternate render)'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 1 · DM: Dave**

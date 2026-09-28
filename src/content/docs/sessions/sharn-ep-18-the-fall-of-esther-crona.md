@@ -62,6 +62,12 @@ gallery:
   - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-eric-using-bigby-hand-to-flick-esther-s-hon.webp
     alt: 'Eric using Bigby Hand to flick Esther''s honor guard off balcony - Sharn Episode: The Fall of Esther Crona'
     caption: 'Eric using Bigby Hand to flick Esther''s honor guard off balcony - Sharn Episode: The Fall of Esther Crona'
+  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-richard-blaze-calcifer-and-esther-cro-alt.webp
+    alt: 'Richard Blaze, Calcifer and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona (alternate render)'
+    caption: 'Richard Blaze, Calcifer and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona (alternate render)'
+  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-dario-fighting-esther-crona-on-pentho-alt.webp
+    alt: 'Dario fighting Esther Crona on Penthouse Balcony - Upper City Sharn - Sharn Episode: The Fall of Esther Crona (alternate'
+    caption: 'Dario fighting Esther Crona on Penthouse Balcony - Upper City Sharn - Sharn Episode: The Fall of Esther Crona (alternate render)'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 18 · DM: Nichole**

@@ -46,6 +46,9 @@ gallery:
 - src: /images/album/sharn-ep-13-doctor-edwin-graves-edwin-graves-dario-gemma-eric-and-edwins-creatio.webp
   alt: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
   caption: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
+- src: /images/album/sharn-ep-13-doctor-edwin-graves-edwin-graves-dario-gemma-eric-and-edwins-c-alt.webp
+  alt: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creation - Sharn Episode: Doctor Edwin Graves (alternate render)'
+  caption: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creation - Sharn Episode: Doctor Edwin Graves (alternate render)'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 13 · DM: Nichole**
