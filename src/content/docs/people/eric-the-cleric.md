@@ -14,6 +14,9 @@ tags:
 - Belt of Dwarvenkind
 - Heroes of Leef
 - Sharn
+- Eric Passagemarked
+- Khraal
+- Fronque
 image:
   src: /images/site/eric-the-cleric-1.webp
   alt: Eric the Cleric
@@ -62,6 +65,9 @@ sources:
 - "Oral Histories: The Inevitables, 2025-12-14"
 - "Oral Histories: The Inevitables, 2026-06-06"
 - "Oral Histories: The Inevitables, 2026-06-19"
+- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+- 'JL''s DM notes: Eric''s secret Khraal mission (dossier)'
+- sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: 8d2fe097-8974-47cc-a067-7b61b36f178b
@@ -93,7 +99,7 @@ gallery:
 
 **Cleric · Chancellor of Sharn · The Inevitables · Level 12 · Alive**
 
-*Also known as:* **Graham Cracker** (Korth cover, taken off a corpse) · **The Nerd** · **Harry Potter** (on the books of the Zilspar Farm-Table Co-op) · one of the **Heroes of Leef** · <small>styled "Chancellor of Char" in one internal note — the live record says Sharn</small>
+*Also known as:* **Graham Cracker** (Korth cover, taken off a corpse) · **The Nerd** · **Harry Potter** (on the books of the Zilspar Farm-Table Co-op) · **Eric Passagemarked** (his official style, after his mark) · one of the **Heroes of Leef** · <small>styled "Chancellor of Char" in one internal note — the live record says Sharn</small>
 
 Eric the Cleric is a cleric of a Karrnathi order of mathematics and order, a former auditor of the Pax Imperium, and Chancellor of the free city of Sharn. He was an orphan forced to learn mathematics and to worship it, served the Empire as an auditor, and lived three years in a bunker beneath the Hall of Records in Korth. In the desert rail-town of Leef he fell in with [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/); the three liberated the town and were named the Heroes of Leef, then went west to Newham and killed Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, they fought the war that broke the Empire's hold on the city, and its Council seated Eric as Chancellor in [Esther Crona](/people/esther-crona/)'s former penthouse. Since the Glitterhame beneath the Korramont he has been hearing the voice of LeBeefe, which nobody else can hear.
 
@@ -111,7 +117,23 @@ He believes that a city is a ledger and that the arithmetic will tell you what i
 
 **In the chair** Eric governs by negotiation and by exposure. He inherited a city out of fuel, a month from severe shortages, and by the Hundreds' own arithmetic forty-seven days from famine, and he paid for bread with airspace. He found that the Eye of Corruption in Esther's penthouse resonates with his psychic power and sharpens him, and used that borrowed clarity to help the Nest's engineers bleed its output off as ordinary fire under the city's furnaces. He hides by being underestimated, and he tests his cover by telling the truth in front of armed men to see whether anybody twitches.
 
-**Origin.** Eric was, by his own account, an orphan forced to learn mathematics and to worship it. By JL's account he "probably grew up in the Depths of Sharn, went to the university to study maths just to get out." <small>(Oral Histories: The Inevitables, 2025-06-07)</small> He served the Pax Imperium as an auditor and spent three years living in a bunker beneath the Hall of Records. The Empire then sent him east as, in JL's words, "a tax attorney sent by the empire to investigate irregularities in LeBeefe’s accounting". <small>(Oral Histories: The Inevitables, 2025-06-07)</small> His memory carries flashes from his time around John C. LeBeefe, including a tune out of the Black Palace that he heard again years later behind a membrane door under Sharn. In the desert rail-town of Leef he fell in with Gemma Corso and Dario Argentino; the three of them liberated the town with Thadric Rourke, Zero of Leef and Princess Orange Chicken, and were named the Heroes of Leef. He joined Gemma and Dario after the train-station attack, on the rebels' side, and was with them in what JL called "the belly of the beast", where LeBeefe was attempting to build a mind flayer army. <small>(Oral Histories: The Inevitables, 2025-07-22; 2025-08-30)</small> He first appears in the fifth session of the [Leef / Newham arc](/history/the-leef-newham-arc/). <small>(Oral Histories: The Inevitables, 2025-08-30)</small> They went west to Newham, united Digma Beeve's scattered cells, and killed LeBeefe — and the city collapsed into the New Mourning behind them. Sent on to Sharn to steal the Ghost Chip, they met [Zero of Sharn](/people/zero-of-sharn/) and never left the war. Digma Beeve holds Eric's comptrollership of the Republic of Talenta in his absence.
+**Origin.** Eric was, by his own account, an orphan forced to learn mathematics and to worship it. By JL's account he "probably grew up in the Depths of Sharn, went to the university to study maths just to get out." <small>(Oral Histories: The Inevitables, 2025-06-07)</small> He served the Pax Imperium as an auditor and spent three years living in a bunker beneath the Hall of Records. The Empire then sent him east as, in JL's words, "a tax attorney sent by the empire to investigate irregularities in LeBeefe’s accounting". <small>(Oral Histories: The Inevitables, 2025-06-07)</small> His memory carries flashes from his time around John C. LeBeefe, including a tune out of the Black Palace that he heard again years later behind a membrane door under Sharn. In the desert rail-town of Leef he fell in with Gemma Corso and Dario Argentino; the three of them liberated the town with Thadric Rourke, Zero of Leef and Princess Orange Chicken, and were named the Heroes of Leef. He joined Gemma and Dario after the train-station attack, on the rebels' side, and was with them in what JL called "the belly of the beast", where LeBeefe was attempting to build a mind flayer army. <small>(Oral Histories: The Inevitables, 2025-07-22; 2025-08-30)</small> He is found caged in the fourth session and first played in the fifth session of the [Leef / Newham arc](/history/the-leef-newham-arc/). <small>(Oral Histories: The Inevitables, 2025-08-30)</small> They went west to Newham, united Digma Beeve's scattered cells, and killed LeBeefe — and the city collapsed into the New Mourning behind them. Sent on to Sharn to steal the Ghost Chip, they met [Zero of Sharn](/people/zero-of-sharn/) and never left the war. Digma Beeve holds Eric's comptrollership of the Republic of Talenta in his absence.
+
+## Leef and Newham
+
+Eric came east for the Imperial Revue Service; his superior there was a gnome, Master Clipperfast. Imperial soldiers took him on arrival and handed him to the Black Doves to verify his story, and the Doves imprisoned and tortured him in the basement of the abandoned [temple of Dol Arrah](/places/the-temple-of-dol-arrah/) at Leef, their listening station, and cast *feeblemind* on him. The trio found him there in a cage. A Black Dove who survived the fight offered them an alliance against LeBeefe, and told them that the boy in the cage bore the imperial mark of audit and was the key to LeBeefe's fortress. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> In Newham his mark let the trio pass freely in and out of the Black Fortress, where LeBeefe welcomed them to inspect his books and the ink bled off every page. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+## Comptroller of Leef
+
+In the year after Newham fell, Eric ran for office in Leef and was elected comptroller unanimously, as the only choice on the ballot. The old lightning rail depot became the township's meeting hall. He put three policies to a public vote: the land the town had used for rail transport would become public housing for refugees from Newham and Mrorian immigrants; farmers would give fifteen percent of their annual crop to the public good; and citizens over eighteen could volunteer for the public defence force, which would absolve them of annual taxation. He added a humble fane to Matt Matheny to the Falcons' garage, a place for prayer and reflection that turns out holy healing charms. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+The gnome **Potpie**, an envoy of the Librarians, came to Leef in a two-seater airship to see [Digma Beeve](/people/digma-beeve/), and after that meeting Digma went straight to Eric. When the two came out, hours later, Eric said: "It seems I have a secret mission to go on." <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> The rebel dossier on the mission records the rest. The Librarians of Darguun-Zilargo could fight no further against the Empire while Hobgoblin pirates contested their territory, and Eric Passagemarked, clerk of rank 5, was dispatched to the shores of Khraal to find the funds for a war on two fronts. He began a full accounting of the Librarians' ledgers; he was abducted by pirates in a daylight raid on their rebel fortress; he was released after negotiating an armistice between the rival pirate gangs and the Librarians, and the warlords pledged themselves to the rebellion. The united pirates then broke the armistice and declared war on the Librarians and the Empire both. The Librarian stronghold fell, the pirates took the Khraalish peninsula and drove the Imperial forces west, and they declared the free and independent [Hobgoblin State of Khraal](/organizations/the-free-state-of-khraal/), a full member of the rebel alliance. <small>(JL's DM notes: Eric's secret Khraal mission (dossier))</small>
+
+Eric came home looking very relaxed, with a confidence nobody had seen in him before, a tattoo in Goblin on his neck, and a hobgoblin girlfriend, **Fronque**, a foot taller than him. The two of them had an appointment for a couples massage with the vampires. On that mission he learned Deep Speech, gained proficiency with the bagpipes, and came away with a Repulsion Shield. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+> "The mission was a smashing success. But you can read all about it in the dossier."
+
+<small>— Eric the Cleric, back in Leef.</small>
 
 ## Thronehold
 
@@ -179,9 +201,11 @@ Eric is on a river boat to the Summer Palace wearing a dead paralegal's face, wi
 - **A scroll of Greater Silence** from Renn Tal, given on the theory that amplified by enough casters it could disrupt the bells' resonance. He accepted it knowing he would have to grow into it.
 - **A tarot deck** — used for augury. The five-card spread before the descent read Tower, Moon, Devil, Hanged Man, Judgement, and the spell answered weal and woe.
 - **An adamantine mace** — the weapon that broke the collar off a black dragon's neck · a wand of magic missile built at cost by Doppler Klink · an amulet of proof against detection and location, unattuned, taken off Edwin Graves.
+- **A Repulsion Shield** — brought back from Khraal.
+- **A charm of *healing word*** — from the fane to Matt Matheny in Leef.
 - **Graham Cracker's face and papers** — an elf paralegal of the Ministry of Law. Bantide Moro remembers the original well enough to have remarked, mid-jailbreak, "I thought you were gay, Graham."
 
-**The Passage Mark:** Eric's dragonmark is his escape hatch and his tell. It is a mark of House Orien, and it lets him cast phantom steed, which JL described as "Mostly an overland travel spell… but… it does have a speed of 100 ft per round." <small>(Oral Histories: The Inevitables, 2025-08-31; 2025-12-14)</small> It broke him out of a grell's tentacles thirty feet above the floor of the Glitterhame after the thing had paralyzed him and begun trying to open him. And at Thronehold it flared with lightning in front of Supreme Admiral Vex d'Lyrandar, who looked at it and said *"Now I see. Now I see what she's done."* and died without explaining what he meant.
+**The Passage Mark:** Eric's dragonmark is his escape hatch and his tell. It is the Mark of Passage, a mark tied to no noble house and recognised internationally as a mysterious symbol of authority associated with passage; it was first recorded as a mark of House Orien. Eric is an orphan raised by Imperial monks and has no family name, so officially he would be called Eric Passagemarked. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> It lets him cast phantom steed, which JL described as "Mostly an overland travel spell… but… it does have a speed of 100 ft per round." <small>(Oral Histories: The Inevitables, 2025-08-31; 2025-12-14)</small> It broke him out of a grell's tentacles thirty feet above the floor of the Glitterhame after the thing had paralyzed him and begun trying to open him. And at Thronehold it flared with lightning in front of Supreme Admiral Vex d'Lyrandar, who looked at it and said *"Now I see. Now I see what she's done."* and died without explaining what he meant.
 
 ## Personality Characteristics
 
@@ -230,6 +254,7 @@ He conceals, and then denies concealing, and remembers every word of it perfectl
 - **Madame Tso Teryaki** — matriarch of the Teryaki kin; named him a grave robber, then gave him her late husband's belt. Alive, and staying in the mountain with the dragon.
 - **Bantide Moro**, the Nightingale — the prisoner he told the truth to. Alive, hidden, officially dead.
 - **Digma Beeve** — acting Comptroller of the Republic of Talenta in Eric's stead. Alive.
+- **Fronque** — his hobgoblin girlfriend, met on the Khraal mission. Status unrecorded.
 
 **Hobbies & Pets**
 
