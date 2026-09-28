@@ -73,6 +73,9 @@ gallery:
   - src: /images/gallery/2026-06-27-08.webp
     alt: Arriving at Mt. Silicon with Locke Pierce
     caption: Eric the Cleric, Lorian, Gemma Corso and an armoured knight follow Locke Pierce toward a fortified gate in a cliff, beside a giant warforged.
+  - src: /images/album/locke-pierce-the-unforeseen-og.webp
+    alt: 'Locke Pierce - The Unforeseen - OG'
+    caption: 'Locke Pierce - The Unforeseen - OG'
 ---
 
 **Warforged · Artificer / Armorer · [The Unforeseen](/organizations/the-unforeseen/), then The Hundreds · Ancient Relic Specialist, Director of the Rekkenmark Newham Annex, leader of the Warforged nation of the Mournlands · **Alive****
