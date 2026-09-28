@@ -40,6 +40,7 @@ sources:
   - sources/site/korth-episode-summaries.txt
   - worldanvil/images/rebel-factions/05.jpg
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
 published: '2026-09-10'
 wa:
   slug: digma-beeve-person
@@ -92,6 +93,18 @@ It was Digma who made the fall of [John C. LeBeefe](/people/john-c-lebeefe/) pos
 
 > "Digma provided cover and contacts, while Richard built the infrastructure."
 
+He was the Colonel's man in Newham. Before the assault on the Black Fortress he put the trio's problem to them plainly: they had an army of allies who might bog down LeBeefe's guards once he was dead, but that left two problems, how to kill him once inside, and how to get out once he was dead. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+> "We spent so many years puzzling over how to get into the Black Fortress we never thought about how to get out."
+
+<small>— Digma Beeve, before the assault on LeBeefe.</small>
+
+## Leef
+
+In the year after Newham fell, a gnome arrived at Leef in a small two-seater airship, a battle-hardened older woman in shining heavy armour, an artificer and by the look of her a veteran of the Last War. Her name was **Potpie**, she was one of the Librarians, the gnomish craftsmen and scholars who are legendary outlaw heroes of the rebellion, and she would speak only with Digma. The two of them seemed to have history, perhaps romantic. After the meeting Digma, flustered, went straight to [Eric](/people/eric-the-cleric/) in the meeting hall, and Eric left with the gnome on a secret mission to Khraal. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+When [Colonel Thadric Rourke](/people/thadric-rourke/) died in his sleep, Digma stepped forward to give the eulogy and was overcome, and [Gemma](/people/gemma-corso/) gave it in his place. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
 **Personality Characteristics**
 
 **Motivation:** to keep the network alive, and to make sure that what survives is written down correctly.
@@ -111,7 +124,8 @@ It was Digma who made the fall of [John C. LeBeefe](/people/john-c-lebeefe/) pos
 - **Richard Blaze** — his oldest friend and co-founder; the first man he treated as a man. Alive, officially dead.
 - **Zero-One (Fema Nolan)** — co-founder and Fulcrum's leader. Taken alive by Eden units.
 - **John Stamos** — co-founder, killed on the lightning rail. Deceased.
-- **Thadric "The Colonel" Rourke** — old ally out of Leef, who sent the Heroes to him. Alive.
+- **[Thadric "The Colonel" Rourke](/people/thadric-rourke/)** — old ally out of Leef, who sent the Heroes to him; Digma was the Colonel's man in Newham. Died in his sleep at Leef the year after the fall of Newham.
+- **Potpie** — a gnome artificer of the Librarians, with whom he has history. Status unrecorded.
 - **The Inevitables** — he armed them politically in Newham and has fed them intelligence since. Alive.
 - **Calcifer** — the child he declared dead in order to save. Alive.
 
