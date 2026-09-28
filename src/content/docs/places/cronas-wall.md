@@ -34,6 +34,7 @@ sources:
   - sources/site/pose-mission-notes.txt
   - sources/site/korth-episode-summaries.txt
   - C:/dev/sharn-campaign/npcs.md
+  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-10'
 wa:
   slug: crona26230393Bs-wall-location
@@ -68,6 +69,10 @@ The Wall drained warmth out of the land it stood on. Thar himself raised the cos
 > — General Stockton Thar
 
 Her answer was to hold it together and find his control. On the morning after the Forge of Binding went dark, Esther told Richard Blaze she was leaving for Crona's Wall, and the last Nest briefing before the fall of Sharn listed the Wall freezing Lake Galifar among the standing facts of the war in the West.
+
+## News at Leef
+
+In the year after the fall of Newham, the news that reached Leef said the Imperial war against the Uruk Republic in the west was going to Uriel's and Esther's plans. The Republic's forces had been pushed back, Crona's troops had occupied a large part of Droaam, the monsterlands, and annexed it to Breland, and the Empire had built a massive wall of arcane energy to hold the enemy at bay. The rumour in Leef was that a thousand magic users stood guard on it, casting a tenth-level mythal twenty-four hours a day, though people tend to exaggerate such things. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## The collapse
 
