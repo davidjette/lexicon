@@ -40,11 +40,29 @@ sources:
 - "Oral Histories: The Inevitables, 2025-12-14"
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
+- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
 published: '2026-09-10'
 wa:
   slug: the-black-doves-organization
   uuid: 1b38d4b7-7cc1-4560-9b4f-4ae943c63a5b
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+gallery:
+  - src: /images/album/black-dove-nun.webp
+    alt: 'Black Dove Nun'
+    caption: 'Black Dove Nun'
+  - src: /images/album/black-dove-assimar.webp
+    alt: 'Black Dove Aasimar'
+    caption: 'Black Dove Aasimar'
+  - src: /images/album/black-dove-nun-2.webp
+    alt: 'Black Dove Nun 2'
+    caption: 'Black Dove Nun 2'
+  - src: /images/album/black-dove-caster-keeper-of-the-object.webp
+    alt: 'Black Dove Caster - Keeper of the Object'
+    caption: 'Black Dove Caster - Keeper of the Object'
+  - src: /images/album/black-dove-white.webp
+    alt: 'Black Dove - White'
+    caption: 'Black Dove - White'
 ---
 
 **Humanitarian medical order · Aerenal / Korvarian · Active, and the largest single instrument of Imperial policy on the continent**
@@ -93,6 +111,12 @@ The full rite, recovered from that library, binds the castings to *"the unholy b
 ## From Duin to Uriel
 
 The Black Doves were battlefield medics and undead killers who mopped up after slaughters. After killing Gabrielle Duin, Uriel led a purge of the order and turned most of it into her convent, and with no great wars being fought the old Black Doves are less prominent than they were. <small>(Oral Histories: The Inevitables, 2025-08-30)</small> Dave: "So the Black Doves which were a truly holy order when she took them from Duin, are now a vehicle for the Blood of Vol and Emerald Claw, she has completely corrupted them" / "So she can’t purge them all". <small>(Oral Histories: The Inevitables, 2025-10-19)</small> Their hospitals let her convent spread and control her secret undead armies, protected by the reputation of a hospital, and keep no obvious guard beyond a few paladins at each. <small>(Oral Histories: The Inevitables, 2025-08-30)</small> Black Dove battle clerics still assisted Esther Crona's [Iron Veil](/organizations/the-iron-veil/), "the best place to recruit for the true Army". <small>(Oral Histories: The Inevitables, 2025-12-14)</small>
+
+## The listening station at Leef
+
+In the years of Uriel's convent the order kept a listening station in the basement of the abandoned [temple of Dol Arrah](/places/the-temple-of-dol-arrah/) at [Leef](/places/leef/), and anything that came in or out of the town, the Doves knew about. They held the Imperial auditor [Eric the Cleric](/people/eric-the-cleric/) there, imprisoned, tortured and Feebleminded, after Imperial soldiers arrested him on his arrival and brought him to the Doves to test his story. When the trio broke in, Dario spared one of the Doves, [Luz Fayana](/people/luz-fayana/), <small>(Dave, sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small> and a surviving Dove offered them an alliance: Her August Majesty the Empress Uriel, she said, also sought to rid the Empire of Grand Duke LeBeefe's corruption, and the caged auditor, who bore the Imperial mark of audit, was the key to LeBeefe's fortress. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+In [Newham](/places/newham/), Luz Fayana led the **Grey Doves**, Black Doves open to betraying Uriel, who met in a temple to Kol Korran under the password *Columba nigra*, Sylvan for "black dove". She brought the trio dossiers on three Inquisition soldiers disciplined for anti-Imperial sentiment, Sergeant Tam Chodely, Corporal Russ Nuggets and Private Harry Foxtrot, who could be found at the Slippery Eel tavern. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## The Dismantling in Sharn
 
