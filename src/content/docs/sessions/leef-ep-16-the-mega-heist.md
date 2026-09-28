@@ -30,6 +30,9 @@ sources:
 - "Oral Histories: The Inevitables, 2025-11-22"
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
+- "sources/dave/2026-09-27-jl-notes.md"
+- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
 published: '2026-09-14'
 ---
 
@@ -39,7 +42,7 @@ published: '2026-09-14'
 
 ## Summary
 
-Inspector LeGranouille had appeared before the heist. JL gave him a portrait in October, and Dave later posted a picture of him "When he was a boy detective". Nico's view of him: "He’s dashing and smart, but works for that monster LeBeefe? Terrible". <small>(Oral Histories: The Inevitables, 2025-10-23; 2025-11-10)</small>
+Inspector LeGranouille had appeared before the heist. As chief inspector for the Grand Duke he came to the party's door asking questions about a murder on the train, cast *detect thoughts*, and seemed to know that Dario was of the Silver Flame. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> JL gave him a portrait in October, and Dave later posted a picture of him "When he was a boy detective". Nico's view of him: "He’s dashing and smart, but works for that monster LeBeefe? Terrible". <small>(Oral Histories: The Inevitables, 2025-10-23; 2025-11-10)</small>
 
 Dave's account of the session:
 
