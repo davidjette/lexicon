@@ -61,6 +61,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-23"
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
+- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+- sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: uriel-qualanthri-person
@@ -73,6 +75,9 @@ gallery:
 - src: /images/gallery/2026-06-10-06.webp
   alt: Holy Empress Uriel, The White Death document
   caption: A document page titled "Holy Empress Uriel, The White Death", with sections on the Black Doves, her ascension to the throne and the Ivory Lazaret, and an illustration of Uriel Qualanthri kneeling in white.
+- src: /images/album/uriel-qualanthri-black-dove-og-photo.webp
+  alt: 'Uriel Qualanthri - Black Dove - OG Photo'
+  caption: 'Uriel Qualanthri - Black Dove - OG Photo'
 ---
 
 **Female High Elf · Cleric of the Grave (in disguise as a Cleric of Light) · [The Black Doves](/organizations/the-black-doves/) and [The Unforeseen](/organizations/the-unforeseen/) · Holy Empress of the Pax Imperium · **Alive****
@@ -152,6 +157,12 @@ Uriel delivered Esther Crona's son on the penthouse balcony. The recovered memor
 Asked what the Empress would do about a messiah Esther might already have borne, Dave answered: "Kill it". <small>(Oral Histories: The Inevitables, 2025-08-31)</small>
 
 Esther Crona's dying command, carried on every screen in the city, was to kill Empress Uriel Qualanthri. The Inevitables have been moving toward the Ivory Lazaret ever since.
+
+## The wedding
+
+Tavern talk in Leef, in the year of the Leef / Newham arc, was that the Emperor had married a priestess of the Black Doves named Uriel, that his wedding gift to the Empire had been the abolition of slavery, and that he had fallen sick and had not been seen since his wedding day. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+[Esther Crona](/people/esther-crona/) was always secretly in love with Uriel, and was hurt when Uriel married the Emperor. Uriel's wedding gift to Esther was the undead bodies of the Council, to serve Esther as her Death Knights. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
 
 ## The Ivory Lazaret
 
