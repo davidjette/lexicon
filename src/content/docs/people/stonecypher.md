@@ -1,91 +1,91 @@
 ---
 title: Stonecypher
 description: A changeling rogue and warlock of Temple Holdings LLC.
-type: person
-kind: people
 tags:
-- Stonecypher
-- Chronocypher
-- Cypher
-- Eloise
-- Temple Holdings LLC
-- Changeling
-- Zanzibar
-- Celion
-- Arcaneum
-- Marcus
-- Raven Queen
-- Po
-- June
-- Istus
-- Refuge
-- Zoth
-- R'lyeh
-- Pim
-- the Egg
-- Wish
-- the Fates
-- Elohim
-- King of Punis
-- the Vault Wand
-- the Lost Train
-- Baldur's Gate
-- Martin's Final Cantos
-- the Palantir
-sources:
-- sources/dave/2026-09-12-stonecypher.md
-- sources/dave/2026-09-13-fates-june-saharel.md
-- Dave, note of 2026-09-13
-- sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
-- CANON.md 5ae (Oral Histories)
-- CANON.md 5ai (Oral Histories)
-- CANON.md, Oral Histories batch 4
-- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
-- sources/dave/2026-09-14-temple-holdings-c30-coronation.md
-- sources/dave/2026-09-14-ages-rulings-a1-a30.md
-- "Oral Histories: Temporal Holdings, 2019-03-31"
-- "Oral Histories: The Inevitables, 2024-04-27"
-- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
-- "Oral Histories: Temporal Holdings, 2019-01-24"
-- "Oral Histories: Temporal Holdings, 2019-02-19"
-- "Oral Histories: Battle of River Lis, 2019-10-21"
-- "Oral Histories: Temporal Holdings, 2019-11-22"
-- "Oral Histories: Battle of River Lis, 2019-12-19"
-- "Oral Histories: Temporal Holdings, 2020-01-13"
-- "Oral Histories: Temporal Holdings, 2020-05-29"
-- "Oral Histories: Temporal Holdings, 2020-08-09"
-- "Oral Histories: Temporal Holdings, 2020-12-19"
-- "Oral Histories: Temporal Holdings, 2021-01-16"
-- "Oral Histories: Temporal Holdings, 2021-07-30"
-- "Oral Histories: Temporal Holdings, 2021-10-23"
-- "Oral Histories: Temporal Holdings, 2022-04-10"
-- "Oral Histories: The Inevitables, 2021-10-01"
-- "Oral Histories: The Inevitables, 2021-10-23"
-- "Oral Histories: The Inevitables, 2021-12-03"
-- "Oral Histories: The Inevitables, 2023-10-17"
-- "Oral Histories: The Inevitables, 2023-12-02"
-- "Oral Histories: The Inevitables, 2024-04-06"
-- "Oral Histories: The Inevitables, 2024-04-20"
-- "Oral Histories: The Inevitables, 2024-10-07"
-- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
-redacted:
-  names:
   - Stonecypher
   - Chronocypher
+  - Cypher
+  - Eloise
+  - Temple Holdings LLC
+  - Changeling
+  - Zanzibar
+  - Celion
+  - Arcaneum
+  - Marcus
+  - Raven Queen
+  - Po
+  - June
+  - Istus
+  - Refuge
+  - Zoth
+  - R'lyeh
+  - Pim
+  - the Egg
+  - Wish
+  - the Fates
+  - Elohim
+  - King of Punis
+  - the Vault Wand
+  - the Lost Train
+  - Baldur's Gate
+  - Martin's Final Cantos
+  - the Palantir
+image:
+  src: /images/portraits/stonecypher.webp
+  alt: Eloise, a dark-skinned girl with long white hair, moth wings and a white-and-gold scarf, a white moth on her raised hand
+  caption: Eloise in the Temple Holdings party portrait
+type: person
+kind: people
+sources:
+  - sources/dave/2026-09-12-stonecypher.md
+  - sources/dave/2026-09-13-fates-june-saharel.md
+  - Dave, note of 2026-09-13
+  - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__The Infernal Machines - Part V.txt
+  - CANON.md 5ae (Oral Histories)
+  - CANON.md 5ai (Oral Histories)
+  - CANON.md, Oral Histories batch 4
+  - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+  - sources/dave/2026-09-14-temple-holdings-c30-coronation.md
+  - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+  - 'Oral Histories: Temporal Holdings, 2019-03-31'
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+  - 'Oral Histories: Temporal Holdings, 2019-01-24'
+  - 'Oral Histories: Temporal Holdings, 2019-02-19'
+  - 'Oral Histories: Battle of River Lis, 2019-10-21'
+  - 'Oral Histories: Temporal Holdings, 2019-11-22'
+  - 'Oral Histories: Battle of River Lis, 2019-12-19'
+  - 'Oral Histories: Temporal Holdings, 2020-01-13'
+  - 'Oral Histories: Temporal Holdings, 2020-05-29'
+  - 'Oral Histories: Temporal Holdings, 2020-08-09'
+  - 'Oral Histories: Temporal Holdings, 2020-12-19'
+  - 'Oral Histories: Temporal Holdings, 2021-01-16'
+  - 'Oral Histories: Temporal Holdings, 2021-07-30'
+  - 'Oral Histories: Temporal Holdings, 2021-10-23'
+  - 'Oral Histories: Temporal Holdings, 2022-04-10'
+  - 'Oral Histories: The Inevitables, 2021-10-01'
+  - 'Oral Histories: The Inevitables, 2021-10-23'
+  - 'Oral Histories: The Inevitables, 2021-12-03'
+  - 'Oral Histories: The Inevitables, 2023-10-17'
+  - 'Oral Histories: The Inevitables, 2023-12-02'
+  - 'Oral Histories: The Inevitables, 2024-04-06'
+  - 'Oral Histories: The Inevitables, 2024-04-20'
+  - 'Oral Histories: The Inevitables, 2024-10-07'
+  - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
+redacted:
+  names:
+    - Stonecypher
+    - Chronocypher
   label: A member of Temple Holdings LLC, erased by her own Wish
   reason: Obliviated by the Wish she cast at the Egg
   source: sources/dave/2026-09-12-stonecypher.md
-image:
-  src: /images/portraits/stonecypher.webp
-  alt: 'Eloise, a dark-skinned girl with long white hair, moth wings and a white-and-gold scarf, a white moth on her raised hand'
-  caption: 'Eloise in the Temple Holdings party portrait'
 gallery:
-- src: /images/minis/stonecypher-1.webp
-  alt: 'Eloise''s miniature: moth wings, white hair and white clothes, with an hourglass at her feet'
-  caption: 'Eloise''s miniature: moth wings, white hair and white clothes, with an hourglass at her feet (reference for the party portrait)'
-- src: /images/minis/stonecypher-2.webp
-  alt: 'Eloise''s miniature from behind'
-  caption: 'Eloise''s miniature from behind (reference for the party portrait)'
+  - src: /images/minis/stonecypher-1.webp
+    alt: 'Eloise''s miniature: moth wings, white hair and white clothes, with an hourglass at her feet'
+    caption: 'Eloise''s miniature: moth wings, white hair and white clothes, with an hourglass at her feet (reference for the party portrait)'
+  - src: /images/minis/stonecypher-2.webp
+    alt: Eloise's miniature from behind
+    caption: Eloise's miniature from behind (reference for the party portrait)
 ---
 
 **Changeling · Rogue / Warlock · Temple Holdings LLC · Player character (Nico) · Obliviated**
@@ -219,3 +219,5 @@ Stonecypher and her deeds, with the true nature and existence of Cthulhu and the
 Dave: "Stonecypher has no true face". Nico, who played her, added that "she likes to look like a half elf early on". <small>(Oral Histories: The Inevitables, 2024-10-07)</small>
 
 As **Eloise**, the warlock who uses time and space to manipulate reality, she appears as a thirteen-year-old human girl with delicate white moth wings. She has dark skin, long wavy white hair and pale blue-white eyes, and wears a gold crescent-moon circlet on her brow and a round white pendant at her throat. Her armour is white cloth and leather, belted with a crescent-moon buckle, with laced white boots. Around her shoulders and neck is a long, almost iridescent silk-like scarf of white and gold, which she likes to knit. She carries no weapons. Her familiar is a white moth, always in her hand or flying around her head; she holds her right arm out with the palm facing forward and the moth resting on her fingers. <small>(Temple Holdings party portrait and its commission brief)</small>
+
+![Stonecypher and Dark Zanzibar.png](/images/uploads/stonecypher-and-dark-zanzibar-mukxj9u9.webp)
