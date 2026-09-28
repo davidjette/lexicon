@@ -24,6 +24,9 @@ sources:
 - "Oral Histories: The Inevitables, 2025-11-08"
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
+- "sources/dave/2026-09-27-jl-notes.md"
+- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
 published: '2026-09-14'
 ---
 
@@ -37,11 +40,14 @@ In the fight Dario used his Channel Divinity for Divine Sense rather than for at
 
 The session also advanced the party's work with Newham's rebels. Dave: "and we're 3/4 for making allies from these rebels". Nico: "we have vampi allies!" and "the only group we haven't had any interaction with is the possible defects from the military base". <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
 
+The vampire allies were Morg and Nips of [Club Mawniq](/places/club-mawniq/). <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
 ## Revelations
 
 - Three of four rebel groups in Newham were allied with the party after this session. One is a group of vampires. The remaining group is possible defectors from the military base. <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
-- Dario's *find steed* mount: Dave chose a large cat, fey or celestial, "a strong telepathic beast" that works in dungeons, and wanted to call it Greymalkin. Dave also wrote that "now we can do blind fighting on horseback". <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
+- Dario's *find steed* mount is a large cat, fey or celestial, "a strong telepathic beast" that works in dungeons, named **Rum Tum Tugger**. Dave had proposed calling it Greymalkin, and also wrote that "now we can do blind fighting on horseback". <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
+- The vampire allies are Morg and Nips of Club Mawniq.
 
 ## Cast
 
-[Sir Dario Argentino](/people/sir-dario-argentino/) · [Gemma Corso](/people/gemma-corso/) · [Eric the Cleric](/people/eric-the-cleric/) · the rebel groups of Newham, among them vampires · possible defectors from the military base, named.
+[Sir Dario Argentino](/people/sir-dario-argentino/) · [Gemma Corso](/people/gemma-corso/) · [Eric the Cleric](/people/eric-the-cleric/) · the rebel groups of Newham, among them the vampires Morg and Nips of [Club Mawniq](/places/club-mawniq/) · Rum Tum Tugger, Dario's steed · possible defectors from the military base, named.
