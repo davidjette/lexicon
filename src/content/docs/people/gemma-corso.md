@@ -271,7 +271,7 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 - **Sister Maelis Dorn** — Sister-Inquisitor of the Korth Black Dove house, befriended under cover, gave her the litany. Whereabouts unknown; she sealed the Korranberg shrine.
 - **Bantide Moro** — the Nightingale, sister of the woman whose face Gemma wears. Alive, hidden in the Korth apartment, officially recorded as a suicide in custody.
 - **Jessica Grimpledink** — leader of the Nest. Asked Gemma quietly whether Eric was how the Empire learned about Zilspar Farm. Alive.
-- **Joseph Roberts**, the Dread Pirate — former husband; now married to Blair. His likeness is in the Grand Lodge file she has been ordered to act on.
+- **Joseph Roberts**, the Dread Pirate — in the year after the fall of Newham, Roberts purposed to Gemma while they spent time together in his island palace in The Lhazaar Principalities, asking her to be "one of his wives"; he calls Blair his first wife. His likeness is in the Grand Lodge file she has been ordered to act on.
 - **Zero-One (Fema Nolan)** — Fulcrum's leader. Taken alive by E.D.E.N. units at Zilspar; not recovered.
 
 **Hobbies & Pets**
