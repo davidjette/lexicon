@@ -32,6 +32,55 @@ sources:
   - C:/dev/sharn-campaign/session-2026-09-25-lodge.transcript.txt
   - sources/dave/2026-09-26-korth-ep15-rulings.md
 published: '2026-09-26'
+gallery:
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguised-as-black-d.webp
+    alt: 'Dario, Eric and Gemma disguised as black dove nuns at the Tomb of Kaius I - The Ivory Lazaret - Korth Episode: The Stair'
+    caption: 'Dario, Eric and Gemma disguised as black dove nuns at the Tomb of Kaius I - The Ivory Lazaret - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-imperial-co.webp
+    alt: 'Dario, Eric and Gemma in disguise - Imperial Counting House with Corvan Bleek, Sub-Auditor - Korth Episode: The Stairs o'
+    caption: 'Dario, Eric and Gemma in disguise - Imperial Counting House with Corvan Bleek, Sub-Auditor - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-with-bran-f.webp
+    alt: 'Dario, Eric and Gemma in disguise with Bran Flakes and Frosted Flakes - Plaza Markets - Korth Episode: The Stairs of Her'
+    caption: 'Dario, Eric and Gemma in disguise with Bran Flakes and Frosted Flakes - Plaza Markets - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-inside-the.webp
+    alt: 'Dario, Eric and Gemma in disguise inside The Grand Lodge with servant Bimples - Korth Episode: The Stairs of Her Mercy'
+    caption: 'Dario, Eric and Gemma in disguise inside The Grand Lodge with servant Bimples - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-outside-the.webp
+    alt: 'Dario, Eric and Gemma in disguise outside The Grand Lodge with driver Pork Broccoli - Korth Episode: The Stairs of Her M'
+    caption: 'Dario, Eric and Gemma in disguise outside The Grand Lodge with driver Pork Broccoli - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-general-stockton-thar-and-dark-druid-at-the.webp
+    alt: 'General Stockton Thar and dark druid at The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+    caption: 'General Stockton Thar and dark druid at The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise.webp
+    alt: 'Dario, Eric and Gemma in disguise - Korth Episode: The Stairs of Her Mercy'
+    caption: 'Dario, Eric and Gemma in disguise - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-records-roo.webp
+    alt: 'Dario, Eric and Gemma in disguise - records room - Imperial Counting House with Ilma Vitt - Korth Episode: The Stairs of'
+    caption: 'Dario, Eric and Gemma in disguise - records room - Imperial Counting House with Ilma Vitt - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-bran-flakes-and-frosted-flakes-market-plaza.webp
+    alt: 'Bran Flakes and Frosted Flakes - Market Plaza - Korth Episode: The Stairs of Her Mercy'
+    caption: 'Bran Flakes and Frosted Flakes - Market Plaza - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-black-dove-white-knight-the-stairs-of-her-me.webp
+    alt: 'Black Dove White Knight - The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+    caption: 'Black Dove White Knight - The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-the-grand-lodge-brillo-myers.webp
+    alt: 'The Grand Lodge - Brillo Myers - Korth Episode: The Stairs of Her Mercy'
+    caption: 'The Grand Lodge - Brillo Myers - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-general-stockton-thar-and-dark-druid-in-bird.webp
+    alt: 'General Stockton Thar and dark druid in bird form The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+    caption: 'General Stockton Thar and dark druid in bird form The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-driver-pork-broccoli.webp
+    alt: 'Driver Pork Broccoli - Korth Episode: The Stairs of Her Mercy'
+    caption: 'Driver Pork Broccoli - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-eric-in-disguise-gambling-in-the-grand-lodge.webp
+    alt: 'Eric in disguise gambling in the Grand Lodge - Brillo Myers - Korth Episode: The Stairs of Her Mercy'
+    caption: 'Eric in disguise gambling in the Grand Lodge - Brillo Myers - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-the-stairs-of-her-mercy.webp
+    alt: 'The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+    caption: 'The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-the-ivory-lazaret-uriel-s-object-2.webp
+    alt: 'The Ivory Lazaret - Uriel''s Object 2 - Korth Episode: The Stairs of Her Mercy'
+    caption: 'The Ivory Lazaret - Uriel''s Object 2 - Korth Episode: The Stairs of Her Mercy'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 15 · DM: Dave**
