@@ -18,6 +18,8 @@ tags:
 - KNELL
 - Fantanya Nyel
 - Couatl
+- Mortimer Bunk
+- Rum Tum Tugger
 icon: fa-hammer
 fields:
   rpgAlignment: Unknown - no source records an alignment
@@ -60,6 +62,8 @@ sources:
 - "Oral Histories: The Inevitables, 2025-07-19"
 - "Oral Histories: The Inevitables, 2025-07-21"
 - "Oral Histories: The Inevitables, 2025-08-08"
+- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+- sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: f47b8ed5-7adf-4935-870c-42c903223e32
@@ -94,7 +98,7 @@ gallery:
 
 **Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 12 · Alive**
 
-*Also known as:* **Flintscale** (his name as a journeyman smith) · **Sir Beef Taco** (first Korth cover) · **Sky Rizzy** (his registered Korth papers, forged in the Hall of Records with a wand-drawn portrait and an official seal) · **Greyscale** · **Ronaldo Weasley** (on the books of the Zilspar Farm-Table Co-op) · one of the **Heroes of Leef** · **of clan Dawnmantle**
+*Also known as:* **Flintscale** (his name as a journeyman smith) · **Sir Beef Taco** (first Korth cover) · **Sky Rizzy** (his registered Korth papers, forged in the Hall of Records with a wand-drawn portrait and an official seal) · **Greyscale** · **Ronaldo Weasley** (on the books of the Zilspar Farm-Table Co-op) · **Mortimer Bunk** (Newham cover) · one of the **Heroes of Leef** · **of clan Dawnmantle**
 
 Sir Dario Argentino is a dragonborn paladin, Squire Templar of the Silver Flame, a blacksmith, a member of **the Inevitables**, and the only person recorded to have destroyed a **Fantanya Nyel**. He was born and raised in a jungle near Q'barra and took the oath of the Silver Flame — a religion outlawed by the Empire — because it is his family's trade, as all the strong ones of clan Dawnmantle do. He met [Gemma Corso](/people/gemma-corso/) and [Eric the Cleric](/people/eric-the-cleric/) in the rail-town of Leef, where they were named the Heroes of Leef; went west to Newham and killed Grand Duke John C. LeBeefe; fought through the rising at Sharn, and afterwards spent three years on the Thrane front leading cavalry against undead E.D.E.N. units.
 
@@ -150,6 +154,16 @@ In the first session of the Leef / Newham arc Dario decapitated a guard in front
 
 At the table the trio's group took the name **Falcon's Junkyard**, which Nico credited to [Gemma Corso](/people/gemma-corso/): "Gemma named the group Falcon's Junkyard." <small>(Oral Histories: The Inevitables, 2025-07-21)</small> In Sharn the Nest onboarded them as the Falcon Crew.
 
+## Leef and Newham
+
+The Colonel's first job for the trio was the Imperial stockyard at Leef, where a supply train marked MILITARY SUPPLIES NEWHAM had unloaded 135 crates for the soldiers heading east to fight the dwarves. Dario and Gemma went in disguised. Dario was incapacitated in the blast, and Gemma dragged him clear of it. He came out with a **Longsword of Vengeance**, a +1 blade possessed by an aspect of Tira Miron. When the Inquisition began executing citizens at random in the aftermath, Dario became a folk hero in Leef, and Zero, the Silver Flame's agent in the town, sought him out and told him there was a treasure in [the temple of Dol Arrah](/places/the-temple-of-dol-arrah/). The treasure was [Eric](/people/eric-the-cleric/), caged in its basement. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+In the swamps of the dwarflands the shaman [Yellameet](/people/yellameet/) set the price of an alliance, and one of his conditions was a marriage with his granddaughter. Dario became engaged to [Orange Chicken](/people/orange-chicken/), and came back toward Leef with Yellameet and a small army of thirty-five dwarves trailing behind. His squire in Leef was **Calaban**, aged ten, who came with an orphan foster sister, Kuna, aged two, and another brother. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> His *find steed* was a large cat named **Rum Tum Tugger**. <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
+
+In Newham his cover name was **Mortimer Bunk**. In the halls of LeBeefe's Black Fortress a small dragonborn girl walked beside him and asked why he had left, and whether he was sad that she had died after he did: his sister. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+In the morning after the trio came home from Newham, Orange Chicken told Dario she was pregnant. In the year that followed he built an annex onto the Falcon's garage as a barracks for up to twelve warriors, and chose an old building on the north side of town for a redoubt, a fortress for defence and military training. On his downtime mission to the Mror Holds, with a hill giant named Bungus beside him, he learned Giant, gained proficiency with carpenter's tools and came away with Horseshoes of Speed. Zero, the high priestess of the Flame, asked him what should be done with the temple on the hill that the Black Doves had desecrated. On the day Orange Chicken went into labour, word came that [Colonel Thadric Rourke](/people/thadric-rourke/) had died in his sleep, and Dario had to choose between the funeral and the birth. The child is **Red Dragon Shrimp**. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
 ## Sharn
 
 Dario fought at Breaker's Pit, crossed the Grand Aqueduct into the Underhive, cleared the Drain Snakes and the Chamber Room, and killed **Malrik Zeir** outright on the rooftop pool deck of the Vault Underground, though the vampire's mist escaped to its coffin. On the last night he told Esther Crona to her face that he knew what [Uriel Qualanthri](/people/uriel-qualanthri/) had done to [Calcifer](/people/calcifer/), and she froze. Then he broadcast his own pre-recorded message and the reclaimed Arcane Eye memory of Calcifer's birth across the entire city — Uriel's hand raised over the newborn in a sickly green glow, the vein-like lines forming on his cheek, the freeze when Esther screamed. Esther's composure broke. When she was dead he broadcast her corpse live and declared that the Empire would fall.
@@ -193,6 +207,8 @@ Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth
 - **Esther Crona's armour** — commissioned for the Lord Commander of Sharn, found in the Crona penthouse, fits him with uncanny precision. He chose it as the foundation of his Korth disguise.
 - **A tower shield and a sentinel shield** — he swaps to the tower shield specifically for breath weapons.
 - **Smith's tools** — with which he named Shavat on sight.
+- **Longsword of Vengeance** — a +1 longsword possessed by an aspect of Tira Miron, taken from the Imperial stockyard at Leef.
+- **Horseshoes of Speed** — brought back from his downtime mission to the Mror Holds.
 - **Quicksilver** — his first sword of real quality, made in secret before the Leef / Newham arc; the rest of his starting kit he made from scrap.
 - **A masked helm** — made as part of his paladin gear so that he could fight anonymously, rigged for his breath weapon.
 - **A handaxe**, a wand of magic missile built at cost by Doppler Klink, and a Feather Token won in a fighting pit.
@@ -211,6 +227,7 @@ Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth
 
 **Contacts & Relations**
 
+- **[Yellameet](/people/yellameet/)** — the dwarven swamp shaman whose conditions made the marriage; grandfather of his wife.
 - **Princess Orange Chicken** — his wife, a young dwarven leader of the Mror Holds swamp tribes and one of the defenders of Leef. Alive. Their child is Red Dragon Shrimp.
 - **Gemma Corso** and **Eric the Cleric** — met in Leef. Alive; both aboard the boat.
 - **Valtrex** — the black dragon he negotiated with in Draconic and who pulled him out of the acid with his own claw. Alive, free, and now claiming the Korramont as his domain, having ordered the Inevitables never to return.
@@ -222,4 +239,4 @@ Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth
 
 **Hobbies & Pets**
 
-Smithing. A mount was killed under him on Esther Crona's balcony on the last night of the Sharn rising; no replacement is recorded.
+Smithing. His *find steed* in Leef and Newham was a large cat, **Rum Tum Tugger**. A mount was killed under him on Esther Crona's balcony on the last night of the Sharn rising; no replacement is recorded.
