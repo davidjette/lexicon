@@ -14,6 +14,7 @@ tags:
   - The heart of the Emperor
   - Emperor Caius III
   - The Summer Palace
+  - Renarde
 image:
   src: /images/uploads/korth-ep-14-the-listening-post-gemma-cor-mu329a53.webp
   alt: Gemma Corso and her archfey patron Kitsune
@@ -43,6 +44,8 @@ sources:
   - session-2026-07-17-recap.md
   - session-2026-08-07-recap.md
   - session-2026-09-11-summary.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 gallery:
   - src: /images/album/gemma-corso-and-kitsune-2.webp
@@ -61,7 +64,7 @@ gallery:
 
 **Archfey · Warlock patron of Gemma Corso · Active**
 
-*Also known as:* Katsune
+*Also known as:* Katsune · **Renarde** (a bard in a fox mask, in Newham)
 
 **Kitsune** is an archfey and the warlock patron of [Gemma Corso](/people/gemma-corso/). He was first the patron of her adoptive father, Jane Corso, whom he met while Jane was a soldier in the Last War, and he showed himself to Gemma only after Jane died during the fighting in Leef and Newham. On the road to Korth he told her that Jane had promised him the heart of [Emperor Caius III](/people/emperor-caius-iii/) in exchange for freedom and power, and that the debt had passed to her, and he gave her a velvet-lined box to carry it in. On the river boat to [the Summer Palace](/places/the-summer-palace/) he told her that the heart of the Emperor was a riddle, and that what he wants is the Emperor's child.
 
@@ -72,6 +75,14 @@ By Nico's account he calls himself Kitsune, and has shown himself to Gemma "look
 ## Jane Corso
 
 By Nico's account, Kitsune was the patron of Jane Corso <small>(also written Croso)</small>, Gemma's adoptive father, and met him during the Last War, when Jane was a soldier. Jane knew the Colonel from the same war. Jane taught Gemma to cast some magic as a child, pulling a sword from thin air among it, and called her his little fox. Kitsune never really showed himself to Gemma until after Jane was killed, in the fighting in Leef and Newham. Gemma did not know whether Jane had made a pact with him during the war, or on what terms. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small>
+
+## The fox in the trap
+
+In the dwarflands, on the way to the dwarven shaman Yellameet, the trio heard an animal in distress and found a fox caught in a trap. It asked for help: "Can you find it in your heart to serve another?" To [Gemma](/people/gemma-corso/) it said that it saw the magic within her, that her power was to see what is hidden and take it, and that she could stay asleep to it or wake up: "Think less and know more." As it ran off it called back, "Knew your father I did," and the wind carried the word *Kitsune*. The dwarves later warned the party not to trust the fox. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+## Renarde
+
+In [Newham](/places/newham/) he came back as a fox-like man, a bard in a fox mask who called himself **Renarde**. To a crowd he declared that he had lain hidden a thousand years and reigned a thousand years, over an empire of shadows, and offered a hundred LeBeefes to anyone who could guess his true name. To Gemma he said that the two of them were made from the same matter, told her she should thank her master for the gift she had been given, and demanded that she kneel. He warned her that her lizard-faced friend would try to kill her, unless she killed him first. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
 
 ## The bargain
 
@@ -114,5 +125,5 @@ Gemma told him that what she does is for some semblance of normalcy in the world
 **Contacts & Relations**
 
 - **[Gemma Corso](/people/gemma-corso/)** — warlock, agent Foxtale of the Nest; holds the pact Jane made. Alive.
-- **Jane Corso** (also written Croso) — Gemma's adoptive father, a Last War soldier, who held the pact before her. Killed in the fighting in Leef and Newham.
+- **Jane Corso** (also written Croso, and Jeyne Korso) — Gemma's adoptive father, a Last War soldier, who held the pact before her. Killed in the fighting in Leef and Newham.
 - **Lalo Kitsune** — a fey fox summoned from the charges in Gemma's armour.
