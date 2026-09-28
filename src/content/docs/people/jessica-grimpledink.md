@@ -35,6 +35,8 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
+- sources/dave/2026-09-27-leef-jl-notes-rulings.md
 - sources/dave/2026-09-14-nico-docs-questions.md
 - sources/site/rebel-factions.txt
 - sources/site/sharn-episode-summaries.txt
@@ -82,6 +84,8 @@ A small woman with auburn hair pinned up off her neck and a pair of brass-rimmed
 The city's record of her is a decommissioning file. She was a trained artificer out of Morgrave University and an engineer of the Sharn Lightning Rail Sub-Transit — a good one, employed on a marvel of Orien-industrial engineering, until the marvel killed a great many people and the Empire blamed her union for it. Jessica Grimpledink was on duty at Station 5 when the detonations occurred nine years ago, coordinated the rescue effort herself, pulled multiple survivors out, and saw enough in the process to know the official story was a fabrication. She has never published what she saw. She built a rebellion instead.
 
 Jessica came out of Morgrave University into a job on the most ambitious transit system on Khorvaire and was standing in Station 5 the day it came apart. She got people out, she was told what the story was going to be, and she watched an entire union take the blame. Then she and a small group of survivors did the only thing they could still do with their expertise: they went back down into the sealed tunnels beneath Skyroot Park and made the wreck habitable. Over nine years the wreck became a stronghold and the survivors became a network. She brought the rumour of a drunken old ArcEye wizard in a Lower City sake bar straight to Richard Blaze — and that single piece of gossip ended the Empire's hold on Sharn.
+
+Her father was the bard known as Grimpledink. Inquisition agents abducted him and held him at an Imperial guard post outside [Leef](/places/leef/), where LeBeefe's technology was slowly turning him into a mind flayer. [Gemma Corso](/people/gemma-corso/), [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/) freed him, and he fought with them through [the liberation of Leef](/history/the-liberation-of-leef/). When he began to turn, he asked them to kill him, and made them promise to kill LeBeefe and tell him "Grimpledink sent ya." <small>(JL's DM notes: The Unforeseen Strike Back DM Notes; sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
 
 ## Competence and circle
 
