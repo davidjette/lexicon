@@ -1,19 +1,21 @@
 ---
 title: Greenish Hughes
 description: Comptroller of the Leef rail hub under the Inquisition's thumb, a half-illithid who experimented on dwarves in LeBeefe's service.
+tags:
+  - Greenish Hughes
+  - Greenesh Hughes
+  - Comptroller Hughes
+  - Leef
+  - John C. LeBeefe
+  - Half-illithid
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Mind flayers
+  - The Inquisition
+image:
+  src: /images/uploads/greenish-hughes-imperial-comptroller-lee-mukux4sr.webp
 type: person
 kind: people
-tags:
-- Greenish Hughes
-- Greenesh Hughes
-- Comptroller Hughes
-- Leef
-- John C. LeBeefe
-- Half-illithid
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Mind flayers
-- The Inquisition
 icon: fa-user-secret
 fields:
   rpgAlignment: Unknown
@@ -30,8 +32,8 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
-- 'Oral Histories: The Inevitables, 2025-08-30'
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - 'Oral Histories: The Inevitables, 2025-08-30'
 published: '2026-09-27'
 ---
 
