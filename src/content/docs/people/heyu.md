@@ -64,6 +64,8 @@ sources:
   - "Oral Histories: The Inevitables, 2025-11-09"
   - "Oral Histories: The Inevitables, 2026-03-08"
   - "Oral Histories: The Inevitables, 2026-04-26"
+  - sources/sessions/dead-mans-hand-2026-09-26-summary.md
+  - sources/dave/2026-09-28-dead-mans-hand-skullport.md
 published: '2026-09-14'
 ---
 
@@ -134,6 +136,10 @@ They landed on smooth stone in the pitch black of Undermountain. Heyu raised a t
 A session in Undermountain in April 2026 ended with a sword attached to Heyu's hand. <small>(Dave, Oral Histories: The Inevitables, 2026-04-26)</small>
 
 Heyu, Shadowhigh, Lenore, Maverick, BattleBeast, [Rodriel](/people/rodriel/) and Barold recovered the mission file for [O-3255](/items/o-3255/), met [Soggy Blankets](/people/soggy-blankets/), and cleared the first level, where Heyu got a **circlet of blasting**, an uncommon circlet that casts scorching ray. The party descended to the second level, the Arcane Chambers.
+
+Heyu wears the **Circlet of Human Perfection**, taken from the leader of the Goblin Bazaar on Level 2, which transforms her into a human woman who looks like Salma Hayek. The form is real and not an illusion. <small>(Dave, sources/dave/2026-09-28-dead-mans-hand-skullport.md)</small>
+
+On [the Road to Skullport](/history/the-road-to-skullport/) she led the party across Level 3 with a light on her wand, tapping the walls, and kept BattleBeast and Maverick under *foresight*. Three giant spiders dropped on her and poisoned her when she opened a door, and her *shocking grasp* burst one across the wall. She reached [Skullport](/places/skullport/) with the party. <small>(session summary)</small>
 
 ## The fatemark
 

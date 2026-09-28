@@ -25,7 +25,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Undermountain
+  residence: Unknown; last in Skullport
   gender: Male
   age: Unknown
   eyes: Unknown
@@ -39,10 +39,12 @@ sources:
 - sources/dave/2026-09-14-fort-maximillien-as-played.md
 - CANON.md 5ac
 - "Oral Histories: The Inevitables, 2026-05-12"
+- sources/sessions/dead-mans-hand-2026-09-26-summary.md
+- sources/dave/2026-09-28-dead-mans-hand-skullport.md
 published: '2026-09-14'
 ---
 
-**Species unknown · Player character (Patrick) · Adventurer · Pact with Mammon · [Undermountain](/places/undermountain/), Level 1 · Alive**
+**Species unknown · Player character (Patrick) · Adventurer · Pact with Mammon · Fatemarked (STAR) · [Skullport](/places/skullport/) · Alive**
 
 **Tripp Sandhill** is a player character, played by Patrick, an adventurer the party met on the first level of [Undermountain](/places/undermountain/), after the death of his own party. When the escapees of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/) came down the trash hole, and the hanged bodies of [Maverick](/people/maverick/), [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) fell after them, Tripp raised the fallen "(for a hefty prize)" and brought many of them back to life. He warned the party about the "vampires", the Undertakers, and the party helped him get revenge for the death of his party. He carries the Golden Lancet and Ledger, in which a payment is recorded to cast a spell, under a pact with Mammon.
 
@@ -53,6 +55,14 @@ The party escaped Fort Maximillien "by jumping into a giant trash hole which hap
 Tripp warned them about the "vampires" (undertakers), who are not vampires. <small>(DM notes, IMG_3100)</small>
 
 Heyu, Shadowhigh, Lenore, Maverick, BattleBeast, Rodriel and Barold "have met Tripp Sandhill who brought many of them back to life, and they helped him get revenge for the death of his party." <small>(DM notes, IMG_3105)</small>
+
+## The fatemark
+
+Tripp, too, woke up with a tattoo like the party's. He is fatemarked with the STAR card. <small>(Dave, sources/dave/2026-09-28-dead-mans-hand-skullport.md)</small>
+
+## The road to Skullport
+
+Tripp came with the party across Level 3 for his fee, the thousand gold the Company's book was to earn, and would not be separated from whoever was paying him. He finished a fleeing drow of House Wendy's with *true strike* and a dagger, and dived in to help Maverick and BattleBeast against the merrows below [Skullport](/places/skullport/). <small>(session summary)</small>
 
 ## The Golden Lancet and Ledger
 

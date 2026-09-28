@@ -20,6 +20,9 @@ tags:
 - O-3255
 - Daenan Gallidan
 - Nadia the Unbent
+- House Wendy's
+- Azrock
+- Skullport
 - Dead Man's Hand
 - Infantaverse
 icon: fa-dungeon
@@ -28,10 +31,10 @@ fields:
   location: Far below Waterdeep; reached from Fort Maximillien through the trash hole, the Yawning Portal
   founding: Unknown
   rulingBody: Unknown; Halaster Blackcloak collects stolen tomes and relics there
-  population: Goblins, bugbears and intellect devourers; the Undertakers; Tripp Sandhill; Soggy Blankets; Nadia the Unbent and her thugs
+  population: Goblins, bugbears and intellect devourers; giant spiders; the drow of House Wendy's; Azrock's bugbears, goblins and hobgoblins; the Undertakers; Tripp Sandhill; Soggy Blankets; Nadia the Unbent and her thugs
   demonym: Unknown
-  status: The party are on Level 2, the Arcane Chambers
-  includedLocations: The arrival room; Level 1, with the Undertakers and Worg's Eye Outpost; Level 2, the Arcane Chambers, with the Goblin Bazaar, the Mind Flayer Door and Motherstone Hall, rooms 23 to 26
+  status: The party crossed Level 3 and left for Skullport
+  includedLocations: The arrival room; Level 1, with the Undertakers and Worg's Eye Outpost; Level 2, the Arcane Chambers, with the Goblin Bazaar, the Mind Flayer Door and Motherstone Hall, rooms 23 to 26; Level 3, with a dwarven tomb, a ruined underground town divided between House Wendy's and Azrock, and the tunnel through Beggar's Rest Pass to Skullport
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3009, IMG_3080, IMG_3095, IMG_3097, IMG_3100, IMG_3101, IMG_3102, IMG_3103, IMG_3104, IMG_3105, IMG_3106, IMG_3107, IMG_3108, IMG_3109)
 - Desktop/D&D/Dead Mans Hand/images/03 22/Session Notes.txt
@@ -47,14 +50,16 @@ sources:
 - src/content/docs/history/arc-i-hope-in-exile.md
 - "Oral Histories: The Inevitables, 2026-03-08"
 - "Oral Histories: The Inevitables, 2026-06-20"
+- sources/sessions/dead-mans-hand-2026-09-26-summary.md
+- sources/dave/2026-09-28-dead-mans-hand-skullport.md
 published: '2026-09-14'
 ---
 
-**Dungeon · Far below [Waterdeep](/places/waterdeep/) · Halaster Blackcloak's collection · Level 1 and Level 2, the Arcane Chambers**
+**Dungeon · Far below [Waterdeep](/places/waterdeep/) · Halaster Blackcloak's collection · Levels 1 to 3**
 
 **Also known as:** the Yawning Portal (its entrance at Fort Maximillien)
 
-**Undermountain** is a dungeon far below [Waterdeep](/places/waterdeep/), reached from [Fort Maximillien](/places/fort-maximillien/) through a giant trash hole which "happened to be the 'Yawning Portal' of Undermountain Fame." The Company's file on [O-3255](/items/o-3255/) holds that tomes and items stolen from the library of the House of Wonder at the direction of [Halaster Blackcloak](/people/halaster-blackcloak/) found their way into it, and on its second level Halaster has assembled relics of [Motherstone](/places/motherstone/) as an exhibit. On the night of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and [Heyu](/people/heyu/) escaped into it through a portal in the hole; at dawn the bodies of the hanged [Maverick](/people/maverick/), [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) fell after them, and [Tripp Sandhill](/people/tripp-sandhill/), a player character played by Patrick, raised the fallen. With [Rodriel](/people/rodriel/), who had also escaped capture at the fort, the party worked through Level 1 and descended into Level 2, the Arcane Chambers.
+**Undermountain** is a dungeon far below [Waterdeep](/places/waterdeep/), reached from [Fort Maximillien](/places/fort-maximillien/) through a giant trash hole which "happened to be the 'Yawning Portal' of Undermountain Fame." The Company's file on [O-3255](/items/o-3255/) holds that tomes and items stolen from the library of the House of Wonder at the direction of [Halaster Blackcloak](/people/halaster-blackcloak/) found their way into it, and on its second level Halaster has assembled relics of [Motherstone](/places/motherstone/) as an exhibit. On the night of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/) and [Heyu](/people/heyu/) escaped into it through a portal in the hole; at dawn the bodies of the hanged [Maverick](/people/maverick/), [Shadowhigh](/people/shadowhigh/) and [Barold Bonds](/people/barold-bonds/) fell after them, and [Tripp Sandhill](/people/tripp-sandhill/), a player character played by Patrick, raised the fallen. With [Rodriel](/people/rodriel/), who had also escaped capture at the fort, the party worked through Level 1, descended into Level 2, the Arcane Chambers, and crossed Level 3 to [Skullport](/places/skullport/).
 
 ## The Yawning Portal
 
@@ -128,6 +133,20 @@ In the hall's large chamber, 23B, lies the **Sleeping Fomorian**. Beyond a way m
 
 Daenan Gallidan is the elven prince of [House Gallidann](/organizations/house-gallidann/) whose sarcophagus, with [Silverbane](/people/silverbane/) inside it, was carried in the hold of the *Evening Star* in [Hope in Exile](/history/arc-i-hope-in-exile/).
 
+## Level 3
+
+Level 3 was reached by a long winding stair from the Arcane Chambers, and its air is damp, mossy and fishy, from a freshwater river that runs through it. Skullport can be reached from this level. <small>(session summary)</small>
+
+**The dwarven tomb.** The first halls are a catacomb, dusty and cobwebbed, reeking of old decay and burned incense, a tomb of the faith of Moradin. The dwarves of that faith held a monotheism in which [Brightmantle](/people/brightmantle/) was a heresy, possibly because the obliviation of Brightmantle made the worship of lesser gods look like heresy or madness. <small>(Dave, at the table, 2026-09-26)</small>
+
+**The ruined town.** Beyond the tomb, a rough-hewn cavern thirty feet high holds an ancient underground settlement of low stone buildings, most of them roofless and picked clean, built on the banks of the river. An earthquake long ago collapsed whole sections and cut the town in two. Giant spiders nest among the webs strung between the buildings. The northern half belonged to the bugbear chief **Azrock** until the drow of **House Wendy's** came. The house is led by a red-headed priestess, and its male drow own nothing; they kept goblins and a bugbear shackled in a kitchen, and drained one prisoner with spider venom. <small>(session summary; Dave, sources/dave/2026-09-28-dead-mans-hand-skullport.md)</small> Rafts are moored on the river bank there.
+
+**Azrock's territory.** A transplanted dwarven hall, canted slightly out of line with the rock, is laid with pressure plates that drop stone blocks. Beyond it a hole too small for anything but a goblin leads toward Azrock. Azrock was born blind, can somehow see, and has lost the magic dagger that made him strong. Hobgoblins guard the passage west of the fork. Dead bugbears found on the upper levels with empty eye sockets are said to be the Xanathar's, whose Guild can replace a creature's brain with another. <small>(session summary)</small>
+
+**The way to Skullport.** The river goes to Skullport, swallowing whatever it carries. From the fork a tunnel runs south for a couple of miles, in and out beside the river, to Beggar's Rest Pass above the city, patrolled by hobgoblins and bugbears. <small>(session summary)</small>
+
+The party crossed Level 3 on [the Road to Skullport](/history/the-road-to-skullport/), killing nine giant spiders and four drow and freeing two goblins, Waddle and Snood, who came with them.
+
 ## In the Ages of the Infanta
 
 Five hundred years before Dead Man's Hand, male Drow rebels had taken Undermountain and the Winking Depths. [Khelben Arunsun](/people/khelben-arunsun/), the Blackstaff, went into Undermountain and was held there by the Drow. In the time of that quest, one of the three epochs from which the party attacked [the Egg](/places/the-egg/), the Egg lay far below Waterdeep, reached past countless mindflayers and those Drow. <small>(See [the Ally Cards](/lore/the-ally-cards/).)</small>
@@ -146,4 +165,7 @@ The Blackstaff went down just before Obus revealed himself in the Winking Depths
 **The Sleeping Fomorian:** room 23B.\
 **The wedding frescoes:** a hall marked "(Place rings on finger)", with an altar.\
 **The faceless crone statue:** in Motherstone Hall.\
-**The tomb of Daenan Gallidan:** room 26, empty except for the STAR card.
+**The tomb of Daenan Gallidan:** room 26, empty except for the STAR card.\
+**Level 3's dwarven tomb:** a catacomb of the faith of Moradin.\
+**The ruined town:** an earthquake-split settlement on the river, held by House Wendy's and Azrock.\
+**Beggar's Rest Pass:** the tunnel to [Skullport](/places/skullport/).

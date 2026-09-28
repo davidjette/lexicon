@@ -44,6 +44,7 @@ sources:
   - CANON.md 5ac
   - sources/dave/2026-09-14-heyu-and-feng.md
   - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/sessions/dead-mans-hand-2026-09-26-summary.md
 published: '2026-09-14'
 ---
 
@@ -78,6 +79,8 @@ At dawn Barold, Maverick and Shadowhigh were led blindfolded, gagged and tightly
 The three bodies fell through the fort's trash pit onto the translucent dome [Heyu](/people/heyu/) had raised over the survivors in the pitch black of Undermountain. Half the party "landed in the hole **dead**, betrayed by Mach V", and Tripp Sandhill raised the fallen for a hefty prize. <small>(DM notes)</small> The party helped Tripp avenge the death of his own adventuring party.
 
 Heyu, Shadowhigh, [Lenore](/people/lenore/), Maverick, [BattleBeast](/people/battlebeast/), [Rodriel](/people/rodriel/) and Barold recovered the mission file for [O-3255](/items/o-3255/), met [Soggy Blankets](/people/soggy-blankets/), cleared the first level, and descended to the second, the Arcane Chambers.
+
+On [the Road to Skullport](/history/the-road-to-skullport/) his wild magic filled the air around him with illusory butterflies and flower petals during a fight with giant spiders, his cleave hit two spiders at once, and he broke a drow's skull with his bat in the kitchen of House Wendy's. He took one of the drow's light chain shirts, and reached [Skullport](/places/skullport/) with the party. <small>(session summary)</small>
 
 ## The fatemark
 

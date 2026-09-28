@@ -51,6 +51,7 @@ sources:
   - sources/infantaverse/Temple Holdings LLC__4 - The Infernal Machines__Winking Depths - Part IV.txt
   - "Oral Histories: Temporal Holdings, 2019-08-27"
   - "Oral Histories: Temporal Holdings, 2019-11-11"
+  - sources/sessions/dead-mans-hand-2026-09-26-summary.md
 published: '2026-09-14'
 ---
 
@@ -64,7 +65,7 @@ Griddy Champagne is Garidriel, a fallen angel who lives as a devil in human form
 
 **Appearance:** "A beautiful and dangerous white woman, secretly a devil in human form, often in black versions of normal fantasy clothing." <small>(Character roster.)</small>
 
-At Fort Maximillien she wore "a reserved but nonetheless smoldering black leather armor and duster", her head covered with a demure scarf. <small>(Post-session narrative.)</small> She is an erinyes. <small>(DM notes)</small> Her sister is Dusty Grapes. <small>(DM notes)</small>
+At Fort Maximillien she wore "a reserved but nonetheless smoldering black leather armor and duster", her head covered with a demure scarf. <small>(Post-session narrative.)</small> She is an erinyes. <small>(DM notes)</small> Her sisters are Sandy Rawlins and Dusty Grapes. <small>(DM notes; Dave, at the table, 2026-09-26)</small>
 
 ## In the Ages of the Infanta
 

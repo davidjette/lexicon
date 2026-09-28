@@ -70,6 +70,7 @@ sources:
   - CANON.md 5af
   - sources/dave/2026-09-14-oral-histories-cast.md
   - "Oral Histories: The Inevitables, 2024-12-20"
+  - sources/sessions/dead-mans-hand-2026-09-26-summary.md
 published: '2026-09-10'
 wa:
   slug: battlebeast-person
@@ -144,9 +145,11 @@ In the pitch black beneath the fort he sheltered with Lenore and Heyu under Heyu
 
 The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character, and with him the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
+On [the Road to Skullport](/history/the-road-to-skullport/) BattleBeast led the party through the dark of Level 3 under Heyu's *foresight*, tore apart giant spiders, and punched a drow of House Wendy's to death. When a dozen hobgoblins came to stop the party, he told their captain that the entrails of their enemies were strewn through everything to the north and that the captain could smell it on his claws, and the captain let them pass. Below [Skullport](/places/skullport/) he swam after Maverick, holding his breath, killed a merrow and leapt back onto the dock. <small>(session summary)</small>
+
 ## Right now
 
-Deep in Undermountain with the whole party. They have cleared the first level and descended to the second, the Arcane Chambers.
+In [Skullport](/places/skullport/) with the party, making for the Flagon and the Dragon.
 
 ## At the table
 

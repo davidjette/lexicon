@@ -74,6 +74,8 @@ sources:
   - CANON.md 5af
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
   - "Oral Histories: The Inevitables, 2025-09-21"
+  - sources/sessions/dead-mans-hand-2026-09-26-summary.md
+  - sources/dave/2026-09-28-dead-mans-hand-skullport.md
 published: '2026-09-10'
 wa:
   slug: maverick-person
@@ -84,17 +86,21 @@ gallery:
     caption: Maverick, a dark-skinned elf with swept white hair in a black suit and open white shirt, holds up a glowing wand in an arched window.
 ---
 
-**Dark elf · Bard · Prince · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**
+**Astral elf of drow descent · Bard · Prince · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**
 
 **Also known as:** Maverick Asswell
 
-Maverick was a dark elf bard and prince, one of the party taken by the [Purple Dragons](/organizations/the-purple-dragons/) to [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/) after the fighting at [the Grub + Grog](/places/the-grub-and-grog/), where he was questioned by [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/) and [General Peterbilt Varkus](/people/peterbilt-varkus/). He talked Merriam round to his innocence, but [Nicollo](/people/nicollo/) turned on the party, claiming **Phillip Klaxon**'s service and the **RUIN** card for himself, and Varkus sentenced Maverick to hang at dawn. He was hanged the next day with [Shadowhigh](/people/shadowhigh/) and [Barold](/people/barold-bonds/) and thrown down the fort's huge trash hole, where [Tripp Sandhill](/people/tripp-sandhill/) resurrected him in [Undermountain](/places/undermountain/).
+Maverick is a bard and prince, a drow from Faerûn who left for the stars and lives as an astral elf, one of the party taken by the [Purple Dragons](/organizations/the-purple-dragons/) to [Fort Maximillien](/places/fort-maximillien/) in occupied [Waterdeep](/places/waterdeep/) after the fighting at [the Grub + Grog](/places/the-grub-and-grog/), where he was questioned by [Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/) and [General Peterbilt Varkus](/people/peterbilt-varkus/). He talked Merriam round to his innocence, but [Nicollo](/people/nicollo/) turned on the party, claiming **Phillip Klaxon**'s service and the **RUIN** card for himself, and Varkus sentenced Maverick to hang at dawn. He was hanged the next day with [Shadowhigh](/people/shadowhigh/) and [Barold](/people/barold-bonds/) and thrown down the fort's huge trash hole, where [Tripp Sandhill](/people/tripp-sandhill/) resurrected him in [Undermountain](/places/undermountain/).
 
 Maverick is a distant descendant of [Revan Darkcember](/people/revan-darkcember/) and, after the Klaxons, heir to [Tiffany House](/places/tiffany-house/). Killed, like each of his companions, by [Jeremiah](/people/jeremiah/), he woke in [the Mortuary](/places/the-mortuary/) of [Sigil](/places/sigil/) tattooed with a [fatemark](/lore/fatemarks/), made an enemy of Sir Guy Standing, and came with the party to Waterdeep.
 
 ## Physical description
 
 A dark elf bard prince "with an air of black excellence": dark skin, romantic white hair, elegant, flamboyant, a rakish smile, silken clothes and a rapier at his hip — and he "looks even better when disheveled." <small>(Character roster.)</small>
+
+## Ancestry
+
+Maverick is a drow from Faerûn who left for the stars. He lives as an astral elf, and his drow ancestry ties him to [Revan Darkcember](/people/revan-darkcember/), who was half human and half drow. <small>(Dave, sources/dave/2026-09-28-dead-mans-hand-skullport.md)</small> Crossing Undermountain he reminded the party that he descends from drow.
 
 ## Family
 
@@ -152,6 +158,10 @@ Thrown stunned into a dungeon cell beside [Shadowhigh](/people/shadowhigh/), whe
 
 The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character; he resurrected Maverick, Shadowhigh and Barold, and the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
+## The road to Skullport
+
+On [the Road to Skullport](/history/the-road-to-skullport/) Maverick pressed to split the party in the spider-haunted ruins of Level 3, and opened the latrine door on a drow of House Wendy's. He talked two freed goblins, Waddle and Snood, into coming along with a promise that they could sit under their own fig trees. At the water's edge below [Skullport](/places/skullport/) the party fed a hungry kuo-toa, and it brought Maverick a **cloak of the manta ray**, which lets its wearer breathe underwater and swim fast. Wearing it he swam out to scout a way across, was attacked by merrows, trapped one in an illusion of an electrified cage, and came up with another's harpoon in his leg. After the session he was given the **golden castanets** from the goblins of Worg's Eye Outpost: while he holds them his spell attacks and spell save DC are improved, and once a day playing them restores a use of Bardic Inspiration. <small>(session summary; DM notes, IMG_3107)</small>
+
 ## Right now
 
-Alive, and deep in Undermountain with Heyu, [Shadowhigh](/people/shadowhigh/), [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/), Rodriel and Barold. The party have cleared the first level and descended to the second, the Arcane Chambers.
+Alive, in [Skullport](/places/skullport/) with Heyu, [Lenore](/people/lenore/), [BattleBeast](/people/battlebeast/), Barold and [Tripp Sandhill](/people/tripp-sandhill/), making for the Flagon and the Dragon to deliver [O-3255](/items/o-3255/).

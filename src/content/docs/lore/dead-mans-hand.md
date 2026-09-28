@@ -30,6 +30,7 @@ tags:
 - Waterdeep
 - Fort Maximillien
 - Undermountain
+- Skullport
 - Oblivia
 - Infantaverse
 - Ages of the Infanta
@@ -39,7 +40,7 @@ fields:
   era: Present day, five hundred years after the Ages of the Infanta
   system: Dungeons & Dragons 5e
   status: Running
-  arcs: Sigil; Saltmarsh; Waterdeep; Undermountain
+  arcs: Sigil; Saltmarsh; Waterdeep; Undermountain; Skullport
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2970-2974 preamble; IMG_2975-3109)
 - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
@@ -68,6 +69,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-12-04"
 - "Oral Histories: The Inevitables, 2026-02-03"
 - "Oral Histories: The Inevitables, 2026-03-03"
+- sources/sessions/dead-mans-hand-2026-09-26-summary.md
 published: '2026-09-10'
 wa:
   slug: dead-man26230393Bs-hand-article
@@ -147,9 +149,11 @@ The party came next to occupied [Waterdeep](/places/waterdeep/), the city [Bumpk
 
 That night came [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/): [Bud Holhertz](/people/bud-holhertz/) shot Lenore for someone else, and the party attacked [Rex Bedsheets](/people/rex-bedsheets/) of [Rexium](/organizations/rexium/), who carried the **THRONE** card. The Purple Dragons arrested them.
 
-## Fort Maximillien and Undermountain
+## Fort Maximillien, Undermountain and Skullport
 
 In [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), Lenore, BattleBeast and Heyu escaped down the fort's trash pit. Nicollo betrayed the rest, and Maverick, Shadowhigh and Barold were hanged at dawn. The trash pit was the Yawning Portal: in [Undermountain](/places/undermountain/) [Tripp Sandhill](/people/tripp-sandhill/) raised the fallen. The party cleared the first level, met the old man [Soggy Blankets](/people/soggy-blankets/), recovered the Company's mission file for [O-3255](/items/o-3255/), and descended to the Arcane Chambers, where [Halaster Blackcloak](/people/halaster-blackcloak/) keeps a hall of Motherstone relics and the tomb of Daenan Gallidan, empty but for the **STAR** card.
+
+On [the Road to Skullport](/history/the-road-to-skullport/) they crossed the third level, through a dwarven tomb and a ruined town held by the drow of House Wendy's, freed two goblins who came with them, and reached [Skullport](/places/skullport/), the Xanathar Guild's city, to deliver O-3255 at the Flagon and the Dragon.
 
 ## The deck
 

@@ -76,6 +76,7 @@ sources:
   - "Oral Histories: The Inevitables, 2025-11-08"
   - "Oral Histories: The Inevitables, 2026-02-28"
   - "Oral Histories: The Inevitables, 2026-03-08"
+  - sources/sessions/dead-mans-hand-2026-09-26-summary.md
 published: '2026-09-10'
 wa:
   slug: lenore-person
@@ -169,9 +170,11 @@ In the dark beneath the fort she fitted on the slinky black leather armour Heyu 
 
 The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character, and with him the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
+On [the Road to Skullport](/history/the-road-to-skullport/) Johnny clotheslined a fleeing drow of House Wendy's, and Lenore found the pressure plates of a trapped dwarven hall and walked the party around them. Asked when she was last paid, she said the Company pays her by direct deposit. <small>(session summary)</small>
+
 ## Right now
 
-Deep in Undermountain with the whole party, the hanged three alive again. They have cleared the first level and descended to the second, the Arcane Chambers.
+In [Skullport](/places/skullport/) with the party, making for the Flagon and the Dragon, the Company's rendezvous, to deliver [O-3255](/items/o-3255/).
 
 ## At the table
 
