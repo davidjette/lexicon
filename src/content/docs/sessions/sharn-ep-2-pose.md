@@ -47,6 +47,9 @@ gallery:
   - src: /images/gallery/2026-02-22-10.webp
     alt: Three figures over Sharn at night
     caption: Three silhouetted figures stand at a railing looking out over the glowing towers of Sharn, beside a neon BAR sign.
+  - src: /images/album/sharn-ep-2-pos-cogborn-protest-upper-city-sharn.webp
+    alt: 'Cogborn Protest - Upper City Sharn - Sharn Episode: POSÉ'
+    caption: 'Cogborn Protest - Upper City Sharn - Sharn Episode: POSÉ'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 2 · DM: Nichole**
