@@ -1,8 +1,6 @@
 ---
 title: Aurel Kesk
 description: Director of the Imperial Counting House, who has never seen the Emperor and turned on the Star Advocate who took his wardress from him.
-type: person
-kind: people
 tags:
   - Aurel Kesk
   - Director Kesk
@@ -13,6 +11,10 @@ tags:
   - Corvan Bleek
   - Deirdre Moro
   - Freyd Merkin
+image:
+  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-mukjf7yz.webp
+type: person
+kind: people
 icon: fa-coins
 fields:
   rpgAlignment: Unknown
