@@ -43,6 +43,9 @@ gallery:
 - src: /images/gallery/2026-04-04-09.webp
   alt: Edwin Graves behind Eric
   caption: Eric the Cleric stands in a cluttered workshop, unaware of the masked Dr. Edwin Graves raising a blade behind him.
+- src: /images/album/sharn-ep-13-doctor-edwin-graves-edwin-graves-dario-gemma-eric-and-edwins-creatio.webp
+  alt: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
+  caption: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 13 · DM: Nichole**
