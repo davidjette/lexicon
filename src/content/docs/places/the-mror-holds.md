@@ -33,6 +33,7 @@ sources:
   - sources/site/rebel-factions.txt
   - sources/site/korth-episode-summaries.txt
   - C:/dev/sharn-campaign/session-2026-07-11-recap.md
+  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-10'
 wa:
   slug: the-mror-holds-location
@@ -46,6 +47,10 @@ The Mror Holds are the dwarven nation east of [Leef](/places/leef/) <small>(publ
 ## The swamp tribes
 
 Among the defenders who liberated Leef from Grand Duke [LeBeefe](/people/john-c-lebeefe/)'s occupation was **Princess Orange Chicken**, a young dwarven leader out of the Mror swamp tribes. When the survivors of Newham fled east, it was the townsfolk, the refugees and those swamp-dwarf tribes together who forged the Republic of Talenta. Princess Orange Chicken is now the wife of [Sir Dario Argentino](/people/sir-dario-argentino/); their child is called Red Dragon Shrimp.
+
+The dwarves of the east have fought the Empire since before there was an Empire. They hold a narrow strip of land beyond the Ironroot Mountains, keep their own gods and customs, and have raided Imperial convoys and battlements for hundreds of years; an Imperial garrison watched them from a guard post on the road in. The rebels' envoy to them was the old shaman [Yellameet](/people/yellameet/), out in the swamps, the grandfather of Orange Chicken. His terms were that the rebels preserve dwarven autonomy and the sanctity of the dwarven homelands, that the dwarves fight beside outlanders as equals and never under them, and that the alliance be sealed by a marriage with his granddaughter. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+In the year after the fall of Newham, Dario went back to the Mror Holds on a mission for the rebellion, helped by a hill giant named Bungus, to seek a full alliance at the court of King Six-Foot-Six-Inch-Long, the King Under the Mountain; see [Leef Ep 19](/sessions/leef-ep-19-the-year-long-episode/). <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## The clans and their memory
 
