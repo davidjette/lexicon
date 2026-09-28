@@ -59,6 +59,12 @@ gallery:
   - src: /images/gallery/2025-12-16-04.webp
     alt: General Stockton Thar
     caption: Portrait of General Stockton Thar, a white-bearded man in red and black robes and a red spiked crown, holding a staff topped with a dragon head.
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-general-stockton-thar-and-dark-druid-at-the.webp
+    alt: 'General Stockton Thar and dark druid at The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+    caption: 'General Stockton Thar and dark druid at The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-general-stockton-thar-and-dark-druid-in-bird.webp
+    alt: 'General Stockton Thar and dark druid in bird form The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+    caption: 'General Stockton Thar and dark druid in bird form The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
 ---
 
 **Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Status unconfirmed**
