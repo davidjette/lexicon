@@ -1,8 +1,6 @@
 ---
 title: The temple of Dol Arrah
 description: Leef's abandoned temple of the sun goddess, secretly a Black Dove listening station, where the party found Eric caged and Dario spared Luz Fayana.
-type: building
-kind: places
 tags:
   - Temple of Dol Arrah
   - Dol Arrah
@@ -14,6 +12,10 @@ tags:
   - Zero of Leef
   - Thadric Rourke
   - Leef / Newham arc
+image:
+  src: /images/uploads/the-temple-of-dol-arrah-leef-mukrmh69.webp
+type: building
+kind: places
 icon: fa-church
 fields:
   type: Temple; secretly a Black Dove listening station
@@ -22,9 +24,9 @@ fields:
   owner: Abandoned by imperial order; held by the Black Doves
   status: Desecrated
 sources:
-  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
-  - "Oral Histories: The Inevitables, 2025-08-30"
+  - 'Oral Histories: The Inevitables, 2025-08-30'
 published: '2026-09-27'
 ---
 
