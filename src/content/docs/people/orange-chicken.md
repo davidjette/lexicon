@@ -14,7 +14,7 @@ tags:
   - Leef / Newham arc
   - Republic of Talenta
 image:
-  src: /images/uploads/princess-orange-chicken-the-mror-holds-muksxbzt.webp
+  src: /images/uploads/princess-orange-chicken-and-her-son-red-mukuhfzz.webp
 type: person
 kind: people
 icon: fa-crown
@@ -75,3 +75,5 @@ It was she who wrote to [Digma Beeve](/people/digma-beeve/) about the lost Deept
 - **[Digma Beeve](/people/digma-beeve/)** — the Republic's comptroller, who carries her letters.
 
 The dwarves' price for the rebellion, and Dario's wife.
+
+![Dario, Princess Orange Chicken and their son Red Dragon Shrimp - Leef.png](/images/uploads/dario-princess-orange-chicken-and-their-mukuhn6d.webp)
