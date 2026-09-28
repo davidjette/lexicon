@@ -54,6 +54,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-08-31'
   - 'Oral Histories: The Inevitables, 2025-12-05'
   - 'Oral Histories: The Inevitables, 2026-09-11'
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person
@@ -63,6 +65,15 @@ gallery:
   - src: /images/gallery/2025-09-12-01.webp
     alt: 'Parchment: the fortune of John C. LeBeefe'
     caption: A parchment handout stating that John C. LeBeefe made his fortune as a slave trader in the Demon Wastes, let fiends harvest his seed, and fathered four tiefling daughters, the eldest adopted by Imperial Counselor Veryn Crona as his protege.
+  - src: /images/album/gemma-eric-and-dario-speak-with-john-c-lebeefe-in-throneroom-black-castle-city-o.webp
+    alt: 'Gemma, Eric and Dario speak with John C. LeBeefe in Throneroom - Black Castle - City of Newham'
+    caption: 'Gemma, Eric and Dario speak with John C. LeBeefe in Throneroom - Black Castle - City of Newham'
+  - src: /images/album/gemma-eric-and-dario-meet-john-c-lebeefe-for-the-firrst-time-black-castle-city-o.webp
+    alt: 'Gemma, Eric and Dario meet John C. LeBeefe for the first time - Black Castle - City of Newham'
+    caption: 'Gemma, Eric and Dario meet John C. LeBeefe for the first time - Black Castle - City of Newham'
+  - src: /images/album/gemma-eric-and-dario-pretend-to-autit-lebeefe-s-records-black-castle-city-of-new.webp
+    alt: 'Gemma, Eric and Dario pretend to audit LeBeefe''s records - Black Castle - City of Newham'
+    caption: 'Gemma, Eric and Dario pretend to audit LeBeefe''s records - Black Castle - City of Newham'
 ---
 
 **Human · Aberrant Mind Sorcerer · [The Unforeseen](/organizations/the-unforeseen/) and the Imperial Ministry · Magister of New Ham, Mayor of [Newham](/places/newham/), Grand Duke of the Eastern Provinces · Dead — killed at Newham, and still audible**
@@ -131,9 +142,23 @@ LeBeefe was made Grand Duke and carried the Empire eastward from the outpost of 
 
 During the fighting in Leef the Inevitables found, in JL's words, that "LeBeefe is attempting to build a mind flayer army. He’s attempting to take the Dwarflands. And he’s doing it with Esther’s troops!" The currency of the Grand Duchy of Newham was "LeBeefes". <small>(Oral Histories: The Inevitables, 2025-08-30)</small> During the Newham fighting he travelled with the trio disguised as [Inspector LeGranouille](/people/inspector-legranouille/), an inspector in his own service who appeared to turn against him and join them after their heist; the turn was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small> He was killed in the assault on him in Newham. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
 
+## The Black Fortress
+
+In Leef, where he was the Grand Duke Dominus Imperium, the talk in every tavern ended the same way: "Gods-damned LeBeefe, curse his soul." His seat in Newham City was Castle LeBeefe, a black tower in the middle of a lake that the rebels called the Black Fortress. The rebels of Newham held him to be the most powerful sorcerer on the continent, and his fortress to be alive with dark magic. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+Eric's mark let the trio pass in and out of the fortress freely, and LeBeefe welcomed them to inspect his books; the ink bled off every page. He greeted them as a young human, intangible, a trick of the mind. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+> "You thought it would be that easy? You simpering nitwits. My name is LeBeefe. I cannot be killed."
+
+<small>— John C. LeBeefe, in the Black Fortress.</small>
+
+He promised them a little present, inserted directly behind the eye, that would make them his slaves. When he died, his arcane eye exploded and poisoned the land with illithid magic. Rekkenmark scientists sent to the flaming wreckage of Newham found the ground would not be habitable for a hundred years, and the contaminated territory, named the New Mourning, spread over 12,000 square miles from Karrnath to Q'barra, cutting Leef and the dwarflands off from the rest of the Empire. The native plants and animals began to mutate. Some said a rebel attack had caused the catastrophe, and others that the gods had taken their retribution for his malice and avarice. An eight-foot bust of solid gold, honouring Grand Duke LeBeefe as heroic protector of the Empire, was set up outside the Hall of Justice in Karrnath. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
 ## His daughters
 
 Sister Nora of the Black Doves named them under questioning: [Blair](/people/blair/) , [Eden](/people/eden/) and [Faith](/people/faith/) are all his, and all half-sisters to [Esther Crona](/people/esther-crona/).
+
+Esther is his daughter too. His tiefling daughters are part mind flayer, and in Sharn they served as Esther's deadly agents. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
 
 <small>Rebel intelligence out of Sharn puts it differently — three Tiefling daughters with Esther the eldest of them. Blair, who reached out to him herself and spent time with him before his death, recognised both his intelligence and the danger under the charm, saw through his illusions, and kept a careful distance from him until he died. Faith led the Children of Ember and was killed on a rooftop in Sharn.</small>
 
