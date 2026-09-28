@@ -37,6 +37,9 @@ gallery:
   - src: /images/chat/2023-12-15-896451758730236.webp
     alt: Dr. Nilpferd as an elephantfolk
     caption: Digital miniature of an elephantfolk in spectacles and a jumpsuit, holding a scroll in his trunk and a blaster.
+  - src: /images/documents/ssj-zanzibar-crew-roster.webp
+    alt: Crew roster of the S.S.J. Zanzibar
+    caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'
 ---
 
 **Elephantfolk · Wizard (Order of Scribes) · Magus ex Machina, SSJ Zanzibar · Dead**

@@ -46,6 +46,9 @@ gallery:
   - src: /images/chat/2022-10-23-457169636553308.webp
     alt: Insectoid soldier concept
     caption: Illustration of an insectoid soldier in armour and a scarf carrying a rifle, with a sword on his back.
+  - src: /images/documents/ssj-zanzibar-crew-roster.webp
+    alt: Crew roster of the S.S.J. Zanzibar
+    caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'
 ---
 
 **Thri-kreen · Fighter 1 / Wizard 2 · Squadron leader, SSJ Zanzibar · Dead**

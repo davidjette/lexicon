@@ -34,6 +34,9 @@ gallery:
   - src: /images/chat/2022-07-14-593668185507065.webp
     alt: Crew line-up with the fairy cook
     caption: HeroForge miniatures of the seated robot, the armoured dwarf, the uniformed captain, a four-armed fairy cook and Caprica.
+  - src: /images/documents/ssj-zanzibar-crew-roster.webp
+    alt: Crew roster of the S.S.J. Zanzibar
+    caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'
 ---
 
 **Faerie · Monk of the Astral Way · Galley Master, SSJ Zanzibar · Status unknown**

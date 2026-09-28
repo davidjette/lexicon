@@ -41,6 +41,9 @@ gallery:
   - src: /images/chat/2022-12-08-1087973491874723.webp
     alt: Forbes miniature with a spear
     caption: Hero Forge miniature of a man with a mohawk in a fur-collared coat, lunging with a spear beside a small yellow animal.
+  - src: /images/documents/ssj-zanzibar-crew-roster.webp
+    alt: Crew roster of the S.S.J. Zanzibar
+    caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'
 ---
 
 **Firbolg · Ranger 4 · Exozoologist, SSJ Zanzibar · Status unknown**

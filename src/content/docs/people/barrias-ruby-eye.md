@@ -101,6 +101,9 @@ gallery:
   - src: /images/chat/2024-08-25-2981923635281174.webp
     alt: Barrias in dark plate
     caption: A comic-style red-bearded warrior in heavy dark and red plate armour stands in a burning street.
+  - src: /images/documents/ssj-zanzibar-crew-roster.webp
+    alt: Crew roster of the S.S.J. Zanzibar
+    caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'
 ---
 
 **Dwarf (Mark of Warding) · Artificer 16 · First Artificer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**
