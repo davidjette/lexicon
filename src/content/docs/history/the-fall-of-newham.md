@@ -26,7 +26,7 @@ fields:
   belligerents: The united anti-LeBeefe cells, led by Gemma Corso, Dario Argentino and Eric the Cleric with Digma Beeve, against Grand Duke John C. LeBeefe
   outcome: LeBeefe killed; Newham destroyed by a large otherworldly explosion
   consequence: The region corrupted into New Mourning; survivors evacuated east and founded the Republic of Talenta
-  cause_of_explosion: Unknown - no source explains it
+  cause_of_explosion: By JL's account, LeBeefe's arcane eye exploded at his death; publicly unknown
 sources:
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/wa/newham-settlement.txt
@@ -37,6 +37,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-09-27"
 - "Oral Histories: The Inevitables, 2025-11-08"
 - "Oral Histories: The Inevitables, 2025-12-05"
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-10'
 wa:
   slug: the-fall-of-newham-militaryConflict
@@ -63,11 +64,13 @@ In Newham they met [Digma Beeve](/people/digma-beeve/), Rourke's old ally, a hal
 
 When people in Newham think of "the rebels", by JL's account, they are most likely to think of the **St. Stamos cultists** and their actions: a radical cell whose war cry is "St. Stamos". Soon after the trio reached the city a theater was bombed, and a singer with element stones in her torso was not saved. <small>(Oral Histories: The Inevitables, 2025-09-27)</small> Of the rebel groups the trio worked to win over, three of four became allies, vampires among them; the fourth, possible defectors from the military base, had not yet been approached. <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
 
-With his guidance the trio welded those cells into a single coordinated resistance, strong enough to move on the Grand Duke directly. The assault succeeded. LeBeefe was killed. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
+The cells included Deuce Loosely's cutpurses under the Clamshell Casino, Luz Fayana's Grey Doves, the Diggers in debt peonage at LeBeefe's dig site, the ex-Blood of Vol vampires of [Club Mawniq](/places/club-mawniq/), a few Inquisition turncoats, deep-cover Silver Flame faithful, Locke Pierce's warforged and the St. Stamos cultists; see [Newham](/places/newham/). Before storming the castle the trio built an army: six orc soldiers of the Uruk Republic, brokered by Paulina Gunter-Gooch in exchange for the warforged's technology, and the St. Stamos cultists, who staged a distraction while the trio broke Locke Pierce's warforged out of the city prison. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+With his guidance the trio welded those cells into a single coordinated resistance, strong enough to move on the Grand Duke directly. Eric's dragonmark let the trio pass in and out of LeBeefe's Black Fortress. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> The assault succeeded. LeBeefe was killed. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
 
 ## THE EXPLOSION
 
-Then the city ended. A large otherworldly explosion collapsed Newham into ruin and corrupted a vast region around it: toxic, uninhabitable, and closed. What detonated is not recorded, nor whether it was LeBeefe's doing or his death's.
+Then the city ended. A large otherworldly explosion collapsed Newham into ruin and corrupted a vast region around it: toxic, uninhabitable, and closed. By JL's account, LeBeefe's arcane eye exploded at his death and poisoned the land with illithid magic. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> Nobody in the Empire knew for sure: some blamed a rebel attack, others the gods' retribution against LeBeefe's malice and avarice, and the Empire raised an 8-foot solid-gold bust of him as the heroic protector of the Empire outside the Hall of Justice in Karrnath. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 The survivors did not stay to find out. They evacuated east en masse, to Leef.
 
