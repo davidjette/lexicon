@@ -44,6 +44,12 @@ gallery:
   - src: /images/gallery/2026-04-27-02.webp
     alt: Eric in the flooded chamber
     caption: Eric the Cleric wades through a flooded brick chamber toward a gaunt creature emerging from an archway.
+  - src: /images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc.webp
+    alt: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 1 - Sharn Episode: The Memory in the Sky'
+    caption: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 1 - Sharn Episode: The Memory in the Sky'
+  - src: /images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc.webp
+    alt: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2 - Sharn Episode: The Memory in the Sky'
+    caption: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2 - Sharn Episode: The Memory in the Sky'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 14 · DM: Nichole**
