@@ -47,7 +47,7 @@ gallery:
   - src: /images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc.webp
     alt: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 1 - Sharn Episode: The Memory in the Sky'
     caption: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 1 - Sharn Episode: The Memory in the Sky'
-  - src: /images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc.webp
+  - src: /images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc-2.webp
     alt: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2 - Sharn Episode: The Memory in the Sky'
     caption: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2 - Sharn Episode: The Memory in the Sky'
 ---
