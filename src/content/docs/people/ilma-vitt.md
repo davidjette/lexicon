@@ -1,8 +1,6 @@
 ---
 title: Ilma Vitt
 description: Wardress of records at the Imperial Counting House, the dwarf who trained Eric the Cleric and gave Deirdre the ledger exposing the valley's embezzlement.
-type: person
-kind: people
 tags:
   - Ilma Vitt
   - Wardress Vitt
@@ -12,6 +10,10 @@ tags:
   - Eric the Cleric
   - Aurel Kesk
   - Deirdre Moro
+image:
+  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-mukjfpta.webp
+type: person
+kind: people
 icon: fa-calculator
 fields:
   rpgAlignment: Unknown
