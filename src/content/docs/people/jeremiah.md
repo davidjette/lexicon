@@ -21,6 +21,8 @@ tags:
   - Goodface
   - Bobby Goodface
   - Nicollo
+image:
+  src: /images/uploads/jeremiah-mukwl3rf.webp
 type: person
 kind: people
 icon: fa-skull
@@ -45,9 +47,9 @@ sources:
   - CANON.md 5w
   - CANON.md 5ac
   - sources/dave/2026-09-14-heyu-and-feng.md
-  - "Oral Histories: The Inevitables, 2025-08-17"
-  - "Oral Histories: The Inevitables, 2025-10-05"
-  - "Oral Histories: The Inevitables, 2025-12-06"
+  - 'Oral Histories: The Inevitables, 2025-08-17'
+  - 'Oral Histories: The Inevitables, 2025-10-05'
+  - 'Oral Histories: The Inevitables, 2025-12-06'
 published: '2026-09-14'
 ---
 
