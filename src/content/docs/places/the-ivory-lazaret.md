@@ -1,20 +1,22 @@
 ---
 title: The Ivory Lazaret
 description: The white hospital in the mountains upriver of Korth where Uriel Qualanthri keeps the comatose Emperor; the Inevitables' destination.
+tags:
+  - The Ivory Lazaret
+  - Ivory Lazarette
+  - Uriel Qualanthri
+  - The White Death
+  - Black Doves
+  - Emperor Kaius III
+  - Qarth
+  - Summer Palace
+  - Grand Lodge
+  - Qarth road
+  - dove seal
+image:
+  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-mukkarpb.webp
 type: landmark
 kind: places
-tags:
-- The Ivory Lazaret
-- Ivory Lazarette
-- Uriel Qualanthri
-- The White Death
-- Black Doves
-- Emperor Kaius III
-- Qarth
-- Summer Palace
-- Grand Lodge
-- Qarth road
-- dove seal
 icon: fa-dove
 fields:
   type: Hospital and cloister; imperial retreat
@@ -30,18 +32,18 @@ fields:
   inhabitants: The comatose Emperor, the Holy Empress and her Black Dove sisters; Lady Glow is rumoured to sing at the bedside
   sensory: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- C:/dev/sharn-campaign/handouts/fulcrum-bell-file.md
-- C:/dev/sharn-campaign/session-2026-09-04-summary.md
-- sources/site/key-figures.txt
-- sources/wa/uriel-qualanthri-person.txt
-- "Oral Histories: The Inevitables, 2025-06-07"
-- "Oral Histories: The Inevitables, 2025-10-19"
-- "Oral Histories: The Inevitables, 2025-12-14"
-- "Oral Histories: The Inevitables, 2026-06-27"
-- C:/dev/sharn-campaign/session-2026-09-25-summary.md
-- sources/dave/2026-09-26-korth-ep15-rulings.md
-- Dave, note of 2026-09-26
+  - sources/site/korth-episode-summaries.txt
+  - C:/dev/sharn-campaign/handouts/fulcrum-bell-file.md
+  - C:/dev/sharn-campaign/session-2026-09-04-summary.md
+  - sources/site/key-figures.txt
+  - sources/wa/uriel-qualanthri-person.txt
+  - 'Oral Histories: The Inevitables, 2025-06-07'
+  - 'Oral Histories: The Inevitables, 2025-10-19'
+  - 'Oral Histories: The Inevitables, 2025-12-14'
+  - 'Oral Histories: The Inevitables, 2026-06-27'
+  - C:/dev/sharn-campaign/session-2026-09-25-summary.md
+  - sources/dave/2026-09-26-korth-ep15-rulings.md
+  - Dave, note of 2026-09-26
 published: '2026-09-10'
 wa:
   slug: the-ivory-lazaret-location
