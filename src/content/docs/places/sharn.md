@@ -121,6 +121,9 @@ gallery:
 - src: /images/gallery/2026-02-11-13.webp
   alt: The trio on a night street in Sharn
   caption: Eric, Gemma and Dario pose on a night street lined with lit towers and rooftops.
+- src: /images/album/sharn-theater-upper-city-sharn.webp
+  alt: 'Sharn Theater - Upper City Sharn'
+  caption: 'Sharn Theater - Upper City Sharn'
 ---
 
 **City · Breland · Vertical metropolis · Formerly Imperial, now self-governing · Standing**
