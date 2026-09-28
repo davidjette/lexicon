@@ -54,6 +54,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-23"
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+- sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: esther-crona-person
@@ -78,11 +80,17 @@ gallery:
 - src: /images/gallery/2026-05-02-06.webp
   alt: Esther Crona rides the drill down
   caption: A massive drill has broken through the ceiling and lies in the rubble of the chamber, with Esther Crona standing on top of it in a dark cloak.
+- src: /images/album/esther-crona-age-18-inside-crimson-sun-hall-korth.webp
+  alt: 'Esther Crona Age 18 - Inside Crimson Sun Hall - Korth'
+  caption: 'Esther Crona Age 18 - Inside Crimson Sun Hall - Korth'
+- src: /images/album/esther-crona-age-18-and-vayrn-crona-inside-crimson-sun-hall-korth.webp
+  alt: 'Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth'
+  caption: 'Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth'
 ---
 
 **Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · High Inquisitor, later Lord Commander of the Imperial Military · **Dead** (Sharn Ep 18, aged 31)**
 
-**Also known as:** High Inquisitor of the Crimson Sun Esther Crona · Lord Commander · Grand Inquisitor · the Lord Commander of Sharn
+**Also known as:** High Inquisitor of the Crimson Sun Esther Crona · Lord Commander · Grand Inquisitor · the Lord Commander of Sharn · the Queen of Whispers
 
 ---
 
@@ -144,11 +152,17 @@ She was nineteen and a High Inquisitor when four Imperial operatives stood in th
 
 Esther rose to Lord Commander and Grand Inquisitor, ruling Sharn for the Empire from the Veil Building with the Iron Veil at her command and the Arcane Eye network watching the city on her behalf. She married the chef [Richard Blaze](/people/richard-blaze/) ; they have a son, [Calcifer](/people/calcifer/) .
 
+In the year after the fall of Newham, the news that reached Leef called her the Queen of Whispers, Grand Inquisitor of the Empire and Commander-in-chief of its armed forces. The Imperial war against the Uruk Republic in the west was going to her and Uriel's plans: Crona's troops had occupied a large part of Droaam and annexed it to Breland, and the Empire had raised a massive wall of arcane energy to hold the enemy back, which rumour said took a thousand magic users casting a mythal of the tenth level day and night to keep standing. Leef lived with a steady dread of her reprisal. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
 ## Family
 
 She has three half-sisters, all daughters of [John C. LeBeefe](/people/john-c-lebeefe/) : [Blair](/people/blair/) , who rules the Underhive beneath Sharn as Queen B; [Eden](/people/eden/) , taken into Project EDEN by BioTec; and [Faith](/people/faith/) , who led the Children of Ember alongside her husband Malrik Zeir.
 
-<small>Rebel intelligence out of Sharn states it slightly differently — that LeBeefe fathered three Tiefling daughters with Esther the eldest of them. Sister Nora, under questioning, named Blair, Eden and Faith and made them her half-sisters. Both readings are in the record and neither has been closed out.</small>
+<small>Rebel intelligence out of Sharn states it slightly differently — that LeBeefe fathered three Tiefling daughters with Esther the eldest of them. Sister Nora, under questioning, named Blair, Eden and Faith and made them her half-sisters. Both readings are in the record.</small>
+
+Esther is herself LeBeefe's daughter. The tiefling daughters of LeBeefe are part mind flayer, and in Sharn they served as Esther's deadly agents. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
+
+Esther was always secretly in love with [Uriel Qualanthri](/people/uriel-qualanthri/), and when Uriel married the Emperor, Esther was hurt. Uriel's wedding gift to Esther was the undead bodies of [the Council](/organizations/the-council-of-13/), to serve Esther as her Death Knights. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
 
 ## The birth of Calcifer
 
