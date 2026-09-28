@@ -33,6 +33,8 @@ sources:
 - "Oral Histories: The Inevitables, 2025-12-18"
 - "Oral Histories: The Inevitables, 2026-06-06"
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
+- "JL's DM notes: Eric's secret Khraal mission (dossier)"
 published: '2026-09-10'
 wa:
   slug: the-republic-of-talenta-organization
@@ -62,6 +64,12 @@ The survivors fled east, evacuating en masse to Leef. There, the townsfolk, Newh
 "The victory came at a catastrophic cost." In a large otherworldly explosion the city of Newham collapsed into ruin, and a vast region around it became corrupted, toxic and uninhabitable — the **New Mourning**. The proclamation calls the Republic a nation born of defiance and unlikely alliances. Digma, who keeps the ledgers, records that it was born of an evacuation from a city his allies destroyed.
 
 <small>Digma now serves as acting Comptroller of the Republic of Talenta while Eric is stationed in Sharn. Leef's old name survives in daily speech; the Republic's own paperwork still reads "formerly known as Leef".</small>
+
+## The first year
+
+In the year after Newham the township chose a government. [Eric the Cleric](/people/eric-the-cleric/) ran for comptroller and was elected unanimously, the only choice on the ballot, and the old lightning rail depot became the meeting hall where decisions affecting the township are debated and rulings made. His first policies, put to a public vote, would turn the land the railway had used into public housing for Newham refugees and Mrorian immigrants, ask farmers to give 15 per cent of their annual crop to the public good, and let citizens over eighteen volunteer for a public defence force, service in which absolves them of annual taxation. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+Later that year Eric left on a secret mission to Darguun-Zilargo, and came back with the [Free State of Khraal](/organizations/the-free-state-of-khraal/) in the rebel alliance. <small>(JL's DM notes: Eric's secret Khraal mission (dossier))</small> Colonel [Thadric Rourke](/people/thadric-rourke/), hero of the Last War, died peacefully in his sleep, on the day Princess Orange Chicken gave birth to Dario's first child, Red Dragon Shrimp. Through the whole year the town lived with rumours of the coming reprisal of [Esther Crona](/people/esther-crona/), the Queen of Whispers, Grand Inquisitor of the Empire and commander-in-chief of its armed forces. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## The name
 
