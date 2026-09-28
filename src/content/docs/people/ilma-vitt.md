@@ -33,6 +33,10 @@ sources:
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-lodge.transcript.txt
 published: '2026-09-26'
+gallery:
+  - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-records-roo.webp
+    alt: 'Dario, Eric and Gemma in disguise - records room - Imperial Counting House with Ilma Vitt - Korth Episode: The Stairs of'
+    caption: 'Dario, Eric and Gemma in disguise - records room - Imperial Counting House with Ilma Vitt - Korth Episode: The Stairs of Her Mercy'
 ---
 
 **Dwarf · Wardress and keeper of records · The Imperial Counting House · Level Unknown · Alive, beaten, at the pilgrim camp**
