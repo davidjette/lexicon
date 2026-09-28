@@ -67,6 +67,9 @@ gallery:
 - src: /images/gallery/2026-02-17-16.webp
   alt: Esther Crona and Varyn Crona embrace
   caption: Esther Crona in a black gown embraces a white-haired, bearded elf in a black shirt on a candlelit staircase.
+- src: /images/album/esther-crona-age-18-and-vayrn-crona-inside-crimson-sun-hall-korth.webp
+  alt: 'Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth'
+  caption: 'Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth'
 ---
 
 **High Elf · Paladin · The Crimson Sun / The Imperial Council · Dead**
