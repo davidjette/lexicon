@@ -53,6 +53,15 @@ gallery:
   - src: /images/gallery/2026-06-01-06.webp
     alt: Esther Crona's last act over Sharn
     caption: Esther Crona stands at the balcony rail on torn red wings, arm raised, as the statue above the Skyport explodes in the distance and airships circle the city.
+  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-eric-dario-richard-and-iron-veil-sharn-uppe.webp
+    alt: 'Eric, Dario, Richard and Iron Veil - Sharn Upper City Veil Building - Sharn Episode: The Fall of Esther Crona'
+    caption: 'Eric, Dario, Richard and Iron Veil - Sharn Upper City Veil Building - Sharn Episode: The Fall of Esther Crona'
+  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-richard-blaze-calcifer-henry-heinrick-and-e.webp
+    alt: 'Richard Blaze, Calcifer, Henry Heinrick and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona'
+    caption: 'Richard Blaze, Calcifer, Henry Heinrick and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona'
+  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-eric-using-bigby-hand-to-flick-esther-s-hon.webp
+    alt: 'Eric using Bigby Hand to flick Esther''s honor guard off balcony - Sharn Episode: The Fall of Esther Crona'
+    caption: 'Eric using Bigby Hand to flick Esther''s honor guard off balcony - Sharn Episode: The Fall of Esther Crona'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 18 · DM: Nichole**
