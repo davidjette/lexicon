@@ -14,6 +14,9 @@ tags:
   - Archfey Warlock
   - Kitsune
   - Heroes of Leef
+  - June Lockheart
+  - Dawn
+  - Leef / Newham arc
 image:
   src: /images/uploads/gemma-corso-korth-wielding-bright-dawn-c-mu4wnfrf.webp
   alt: Gemma Corso
@@ -65,6 +68,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-07-06'
   - 'Oral Histories: The Inevitables, 2026-07-07'
   - 'Oral Histories: The Inevitables, 2026-07-15'
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
@@ -102,7 +107,7 @@ gallery:
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**
 
-*Also known as:* **Foxtale** (NEST codename; filed once as *Foxtail* in a recovered BioTec document) · **Deirdre Moro**, also written *Deedra Mora* (Korth cover, taken off a corpse) · **Hermione Granger** (on the books of the Zilspar Farm-Table Co-op) · one of the **Heroes of Leef**
+*Also known as:* **Foxtale** (NEST codename; filed once as *Foxtail* in a recovered BioTec document) · **Deirdre Moro**, also written *Deedra Mora* (Korth cover, taken off a corpse) · **Hermione Granger** (on the books of the Zilspar Farm-Table Co-op) · **June Lockheart** (Newham cover) · **Dawn** (rebel code name at Leef) · one of the **Heroes of Leef**
 
 Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Corso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She is now in Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it.
 
@@ -122,11 +127,27 @@ She believes that a person can be studied until they can be worn, and that this 
 
 **On the job** Gemma runs long. Eleven days inside a Black Dove cloister with its dawn washing-liturgy. Months on a single Ministry advocate before laying a hand on her. She flags her own weak sourcing in writing — *"What follows is eyes-on or first-voice; I flag anything weaker"* — and she cross-walks her own claims against gate logs and other people's files before she reports them. In the field she burns every face she leaves behind, executes stragglers before dawn without witnesses, and keeps fifty flasks of lamp oil in the bag of holding for exactly that purpose.
 
-**Origin.** Her adoptive father was an old man named **Jane Corso** <small>(also written Croso)</small>, who had bargained with the archfey Kitsune for freedom and power; when Jane died, the pact passed to her. By Nico's account Jane was a soldier in the Last War, which is how he knew the Colonel, and he met Kitsune during that war. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small> Gemma grew up in Newham, working at Jane's junkyard; he taught her to cast magic as a child, pulling a sword from thin air among it, and called her his little fox. She left Newham years ago to travel and wander, and came back to Newham and to him after escaping an arrest "for walking down the street". <small>(Oral Histories: The Inevitables, 2025-06-07; 2026-07-06)</small> By Nico's account she also left owed money behind: "The vampires at Club Mawniq owe me money" / "Gemma skipped town and never got her last paycheck". <small>(Oral Histories: The Inevitables, 2025-09-27)</small> Years later, in the desert rail-town of Leef, she met Dario and Eric; the three of them broke Grand Duke John C. LeBeefe's hold on the east, were named the Heroes of Leef, and then went west to Newham and killed him — at the cost of the city itself, which collapsed into the New Mourning. From there the three of them were sent into Sharn to steal a prototype called the Ghost Chip, and never came back out of the war.
+**Origin.** Her adoptive father was an old man named **Jane Corso** <small>(also written Croso, and Jeyne Korso)</small>, who had bargained with the archfey Kitsune for freedom and power; when Jane died, the pact passed to her. By Nico's account Jane was a soldier in the Last War, which is how he knew the Colonel, and he met Kitsune during that war. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small> Gemma grew up in Newham, working at Jane's junkyard; he taught her to cast magic as a child, pulling a sword from thin air among it, and called her his little fox. She left Newham years ago to travel and wander, and came back to Newham and to him after escaping an arrest "for walking down the street". <small>(Oral Histories: The Inevitables, 2025-06-07; 2026-07-06)</small> By Nico's account she also left owed money behind: "The vampires at Club Mawniq owe me money" / "Gemma skipped town and never got her last paycheck". <small>(Oral Histories: The Inevitables, 2025-09-27)</small> Years later, in the desert rail-town of Leef, she met Dario and Eric; the three of them broke Grand Duke John C. LeBeefe's hold on the east, were named the Heroes of Leef, and then went west to Newham and killed him — at the cost of the city itself, which collapsed into the New Mourning. From there the three of them were sent into Sharn to steal a prototype called the Ghost Chip, and never came back out of the war.
 
 Jane was killed during [the fighting in Leef and Newham](/history/the-leef-newham-arc/). Kitsune, who has shown himself to Gemma as a fox, a male human magician and a small fox-humanoid, never really showed himself to her until after Jane died. <small>(Oral Histories: The Inevitables, 2026-07-06; 2026-07-07)</small>
 
 Nico's Sharn DM notes give a second account of Gemma's early life. Ten years before the Sharn arc she was taken from the Monster Lands at the age of 11 and brought to Newham as a slave. Soon after she arrived slavery was outlawed, and she lived on the streets of Newham, stealing to survive. One night a guard caught her stealing food and chased her down a dark street; when he was about to attack her she pulled a dagger and killed him. An old man, Jane Corso, saw it happen, took her in and fed her, and she grew up with him as her adopted father. He taught her warlock magic. In this account Jane was killed by imperial soldiers, and Gemma seemed to take on his pact with Kitsune. <small>(Nico's Sharn DM notes, "Character ideas"; sources/dave/2026-09-14-eberron-open-questions.md)</small>
+
+## Leef and Newham
+
+Gemma came home on the lightning rail with Imperial guards aboard looking for a tiefling who matched her description. Her father kept a junkyard at [Leef](/places/leef/). In JL's account he was an engineer who had built the lightning rail and been forced into retirement by an injury on the job, and he stayed loyal to the Empire all the same. He asked her to keep the Emperor in her prayers, and he ended every conversation with "Go Falcons", for the Newham Falcons sportsball team. He gave her a tin scimitar with GO FALCONS painted on it and sent her to the Cat & Biscuits for a pint while he finished a surprise he had been working on for years. When she came back, two agents of the Inquisition were standing over his body. The lead agent claimed to have seen her beat the old man to death with a weapon, and put her under arrest. In her father's hand was a clockwork amulet he had made for her. The tin scimitar was later found to hold his spirit. His robot, Grill Wizmo, outlived him; Wizmo went on to keep the armory of the Falcons' Workshop in Leef and to rebuild the Falcon so that it could fly. Gemma's code name among the rebels of Leef was **Dawn**. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+On the Colonel's first job, the raid on the Imperial stockyard at Leef, Gemma dragged the incapacitated [Dario](/people/sir-dario-argentino/) clear of the blast; the two of them had gone in disguised. She came out of the stockyard with a pair of **Gloves of Thievery**. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> In the dwarflands a fox caught in a trap told her that it had known her father; it was [Kitsune](/people/kitsune/). <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+In [Newham](/places/newham/) she went by the cover name **June Lockheart**, and the city still held her old life. Her ex, **Chet Rey**, fronts a band called The Gaseous. Her friend **Diamond** dances at [Club Mawniq](/places/club-mawniq/). Her one-time "sugar daddy" **Benjen**, a plantation owner, was a middleman in a smuggling ring that moved cabbage dust, an illicit spice harvested by the Diggers, from the dwarven caves to a buyer in Sharn; he gave Gemma a Pearl of Power, and three of LeBeefe's guards broke in on the party at his plantation. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+In the year after Newham fell, Gemma consulted Benjen about turning the arid land on the outskirts of Leef into farmland, and spent a month expanding the town's farms and filling its new silo. On her downtime mission to Breland she learned Thieves' Cant, gained proficiency with the herbalism kit, and came away with a Helm of Teleportation. When the Colonel died in his sleep, Digma could not finish the eulogy, and Gemma gave it. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+One cold autumn night a small corvair landed near her crops and [Joseph Roberts](/people/pirate-joseph-roberts/), the Dread Pirate, stepped out. He pointed his rapier at her throat, reminded her that she owed him a favour, then went down on one knee and asked her to marry him. He was 83. He wanted to be married and to father a child, and asked nothing else of her, fidelity included. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+> "You owe me a favor, and I have come to collect. Marry me."
+
+<small>— Joseph Roberts, to Gemma Corso at Leef.</small>
 
 ## The teleportation chip
 
@@ -245,7 +266,7 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 **Contacts & Relations**
 
 - **Kitsune** — her archfey patron, seen in dreams reclining on a chaise in a white toga. Holds the debt her father contracted. Counsel is sparing and he is under standing warning that he has to lie. Active.
-- **Jane Corso** (also written Croso) — her adoptive father, a Last War soldier, who held the pact with Kitsune before her and raised her at his junkyard in Newham. Killed during the fighting in Leef and Newham; the pact passed to her.
+- **Jane Corso** (also written Croso, and Jeyne Korso) — her adoptive father, a Last War soldier, who held the pact with Kitsune before her and raised her at his junkyard in Newham. Killed during the fighting in Leef and Newham; the pact passed to her.
 - **Sir Dario Argentino** and **Eric the Cleric** — met in Leef, and everything since. Alive; both aboard the boat.
 - **Sister Maelis Dorn** — Sister-Inquisitor of the Korth Black Dove house, befriended under cover, gave her the litany. Whereabouts unknown; she sealed the Korranberg shrine.
 - **Bantide Moro** — the Nightingale, sister of the woman whose face Gemma wears. Alive, hidden in the Korth apartment, officially recorded as a suicide in custody.
