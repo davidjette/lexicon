@@ -56,6 +56,9 @@ gallery:
 - src: /images/gallery/2026-06-09-01.webp
   alt: Bright Dawn (Crimson Sun Unbound) item card
   caption: An item card for "Bright Dawn (Crimson Sun Unbound)", a very rare longsword requiring attunement, with its Solar Trip and Solar Step abilities and a picture of the glowing blade.
+- src: /images/album/bright-dawn.webp
+  alt: 'Bright Dawn'
+  caption: 'Bright Dawn'
 ---
 
 **Longsword · Black Khyber (Shavat) · Former arm of Vayrn Crona · Former Hexblade of Esther Crona · Crystal after the Rite of Recall · Carried by Gemma Corso**
