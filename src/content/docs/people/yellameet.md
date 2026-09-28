@@ -1,19 +1,21 @@
 ---
 title: Yellameet
 description: The old dwarven swamp shaman who set the terms of the dwarves' alliance with the rebels, among them his granddaughter's marriage to Dario.
+tags:
+  - Yellameet
+  - Yellow Meat
+  - Dwarves
+  - The Mror Holds
+  - Orange Chicken
+  - Sir Dario Argentino
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Tree of wisdom
+  - Eversmoking bottle
+image:
+  src: /images/uploads/yellameet-the-mror-holds-mukspznl.webp
 type: person
 kind: people
-tags:
-- Yellameet
-- Yellow Meat
-- Dwarves
-- The Mror Holds
-- Orange Chicken
-- Sir Dario Argentino
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Tree of wisdom
-- Eversmoking bottle
 icon: fa-leaf
 fields:
   rpgAlignment: Unknown
@@ -30,9 +32,9 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
-- 'Oral Histories: The Inevitables, 2025-09-05'
-- sources/dave/2026-09-27-leef-jl-notes-rulings.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - 'Oral Histories: The Inevitables, 2025-09-05'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-27'
 ---
 
