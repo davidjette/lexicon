@@ -51,6 +51,12 @@ gallery:
   - src: /images/gallery/2026-02-10-10.webp
     alt: The trio at the door of The Vault Below
     caption: Gemma, Eric and Dario stand before the orange neon sign of The Vault Below Club & Gambling, looking into the crowded club.
+  - src: /images/album/sharn-ep-6-the-vault-below-dario-rescues-captive-blood-catle-lorian-from-the-vua.webp
+    alt: 'Dario rescues captive blood-cattle Lorian from The Vault Below - Sharn Episode: The Vault Below'
+    caption: 'Dario rescues captive blood-cattle Lorian from The Vault Below - Sharn Episode: The Vault Below'
+  - src: /images/album/sharn-ep-6-the-vault-below-lorian-found-in-a-feeding-cell-the-vault-below-sharn.webp
+    alt: 'Lorian found in a feeding cell - The Vault Below - Sharn Lower City - Lantern District - Sharn Episode: The Vault Below'
+    caption: 'Lorian found in a feeding cell - The Vault Below - Sharn Lower City - Lantern District - Sharn Episode: The Vault Below'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 6 · DM: Nichole**
