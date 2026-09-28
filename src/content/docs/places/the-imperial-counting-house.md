@@ -1,8 +1,6 @@
 ---
 title: The Imperial Counting House
 description: The Exchequer's office on the Plaza of the Martyrs, once the Hospital for the Weary, now the valley's tax house and a hub of embezzlement.
-type: landmark
-kind: places
 tags:
   - The Imperial Counting House
   - Counting House
@@ -15,6 +13,10 @@ tags:
   - Ilma Vitt
   - Corvan Bleek
   - Stockton Thar
+image:
+  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-mukj6vvy.webp
+type: landmark
+kind: places
 icon: fa-coins
 fields:
   type: Imperial treasury and tax office
