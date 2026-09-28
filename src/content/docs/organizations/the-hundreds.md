@@ -34,6 +34,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-06-06"
 - "Oral Histories: The Inevitables, 2026-06-27"
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-10'
 wa:
   slug: the-hundreds-organization
@@ -59,6 +60,14 @@ The Hundreds are the Warforged nation of the Mournlands, led by [Locke Pierce](/
 **THE HUNDREDS — The Warforged Nation of the Mournlands.** Leader: Locke Pierce. Status: Alive. Influence: Growing. Intent: Unknown.
 
 <small>That is the entire entry. The Nest has never known what the Hundreds want.</small>
+
+## NEWHAM, BEFORE SHARN
+
+Before Sharn, Locke Pierce's warforged were one of the rebel factions of [Newham](/places/newham/), launching attacks in the city and building something they called a spelljammer out of gnomish technology stolen from Zilargo. Two of them, the streetwise robots Chip and Rusty, were in the city prison when [Gemma Corso](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) broke them out; the orcs of the Uruk Republic wanted a share of their technology. A week after the trio came home to [Leef](/places/leef/) from the fall of Newham, the warforged left for Cyre, leaving a gift and a note:
+
+> Peace and love, brothers and sisters. Anytime, anywhere, anything you need, Daddy Locke will have your back. Stay slutty. Love, the Hundreds.
+
+The name is Locke's own: he has sired a hundred children to serve him. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> Eleven months after the fall of Newham, word in Sharn was that the Hundreds had built ships able to teleport across great distances. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ## WHAT SISTER NORA GAVE UP — PROJECT E.D.E.N.
 
