@@ -29,6 +29,9 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-09-27'
   - sources/dave/2026-09-14-inevitables-rulings-batch.md
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
+  - "sources/dave/2026-09-27-jl-notes.md"
+  - "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
 published: '2026-09-14'
 ---
 
@@ -46,9 +49,13 @@ The bombers were the **St. Stamos cultists**. JL, as DM: "When people in Newham 
 
 The bombing weighed on Dario. Dave wrote that Dario "is gunna feel very bad about letting people get harmed and will be v conflicted by the acts of terrorism", and that "we've gotta root out the rebels who would do this to innocents". Nico answered that the heroes of Leef had also "attacked the train station and blew up their shipments and killed guards"; Dave: "yeah but civilians is different". <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
 
+Before the party left for Newham they were warned that LeBeefe's Black Fortress could not be taken alone: LeBeefe was a tyrant, but "above all he is the most powerful sorcerer on the continent", his fortress was said to be alive with dark magic, and there was no chance of survival without an army. In Newham the Colonel's man was the halfling [Digma Beeve](/people/digma-beeve/), and the city's rebels were divided among themselves. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
 By the end of the session the party had a home base in Newham, "a home base baldurs gate style" in Dave's description. JL named a second lead: "There will be many quest hooks in town. This is just one of the first. There’s also the orc actress you could follow up on." <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
 
 ## Revelations
+
+- LeBeefe's seat in Newham is the Black Fortress, and the party needed allies and an army before attempting it.
 
 - The St. Stamos cultists are a radical group in Newham whose war cry is "St. Stamos", and they are who Newham means by "the rebels". <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
 - Teleportation circles, by JL's ruling: "you can choose which circle you travel to, but it has to be one you have seen and investigated so you understand the language on its sigil. You know of one (the train)". <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
@@ -56,4 +63,4 @@ By the end of the session the party had a home base in Newham, "a home base bald
 
 ## Cast
 
-[Gemma Corso](/people/gemma-corso/) · [Sir Dario Argentino](/people/sir-dario-argentino/) · [Eric the Cleric](/people/eric-the-cleric/) · the St. Stamos cultists · the singer · the orc actress, named.
+[Gemma Corso](/people/gemma-corso/) · [Sir Dario Argentino](/people/sir-dario-argentino/) · [Eric the Cleric](/people/eric-the-cleric/) · the St. Stamos cultists · the singer · the orc actress, named · [Digma Beeve](/people/digma-beeve/).
