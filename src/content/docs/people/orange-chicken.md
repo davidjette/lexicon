@@ -1,20 +1,22 @@
 ---
 title: Princess Orange Chicken
 description: Young dwarven leader of the Mror swamp tribes, a defender of Leef, wife of Sir Dario Argentino and mother of Red Dragon Shrimp.
+tags:
+  - Princess Orange Chicken
+  - Orange Chicken
+  - Orangemeet
+  - Oranjhiken
+  - Sir Dario Argentino
+  - Red Dragon Shrimp
+  - Yellameet
+  - The Mror Holds
+  - Heroes of Leef
+  - Leef / Newham arc
+  - Republic of Talenta
+image:
+  src: /images/uploads/princess-orange-chicken-the-mror-holds-muksxbzt.webp
 type: person
 kind: people
-tags:
-- Princess Orange Chicken
-- Orange Chicken
-- Orangemeet
-- Oranjhiken
-- Sir Dario Argentino
-- Red Dragon Shrimp
-- Yellameet
-- The Mror Holds
-- Heroes of Leef
-- Leef / Newham arc
-- Republic of Talenta
 icon: fa-crown
 fields:
   rpgAlignment: Unknown
@@ -31,11 +33,11 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
-- 'Oral Histories: The Inevitables, 2025-09-05'
-- 'Oral Histories: The Inevitables, 2025-12-08'
-- 'Oral Histories: The Inevitables, 2025-12-14'
-- sources/dave/2026-09-27-leef-jl-notes-rulings.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - 'Oral Histories: The Inevitables, 2025-09-05'
+  - 'Oral Histories: The Inevitables, 2025-12-08'
+  - 'Oral Histories: The Inevitables, 2025-12-14'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-27'
 ---
 
