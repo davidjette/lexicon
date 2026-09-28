@@ -18,3 +18,14 @@ Notes on applying it:
 - (5) Grey Lanterns, Shattered Flame and both rank ladders are prep only: not published.
 - (8) Dario's cat is Rum Tum Tugger (Greymalkin was a proposal).
 - "go": tiers 1-2 of the delta table are approved.
+
+## Follow-up, same day
+
+Asked (1) whether the bard Grimpledink's plea to be killed as he turned ("When you see him at the mouth of hell,
+you put a blade in his belly and you tell him Grimpledink sent ya") was played, and (2) whether Uriel's wedding gift
+to Esther was the Council of 13 or a different "Council of 12":
+
+> 1. yes, that is Jessica's father, who we knew as 'grimpledink' 2. keep canon its the same body
+
+- (1) Played. The bard Grimpledink is the father of Jessica Grimpledink, leader of the Nest.
+- (2) The gift is the Council of 13; JL's "Council of 12" is the same body.
