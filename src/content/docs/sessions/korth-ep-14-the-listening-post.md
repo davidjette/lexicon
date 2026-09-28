@@ -67,6 +67,9 @@ gallery:
   - src: /images/album/gemma-corso-and-kitsune-3.webp
     alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
     caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+  - src: /images/album/ross-candler.webp
+    alt: 'Director Ross Chandler'
+    caption: 'Director Ross Chandler'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 14 · DM: Dave**
