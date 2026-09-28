@@ -55,3 +55,5 @@ Kesk greeted [Deirdre Moro](/people/deirdre-moro/) with *"The Ministry sends nob
 ## Appearances
 
 - [Korth Ep 15 — The Stairs of Her Mercy](/sessions/korth-ep-15-the-stairs-of-her-mercy/)
+
+![Korth Ep 15 — The Stairs of Her Mercy - Dario, Eric and Gemma in disguise - records room - Imperial Counting House with Director Aurel Kesk.png](/images/uploads/korth-ep-15-the-stairs-of-her-mercy-dari-mukjydx4.webp)
