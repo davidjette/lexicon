@@ -87,3 +87,5 @@ At the top, the floating object hangs over the cathedral forecourt, sharp-edged,
 ## Consequences
 
 Deirdre's standing at the Counting House is gone; Kesk is openly hostile and has invoked Merkin by name. Ilma Vitt is waiting at the pilgrim camp. General Thar's audience with the Emperor is the next day, in the garden, and the party has talked about hunting the red bird at night with the Lodge's hunters and walking into that garden in his place. The Lodge assignment is due on Monday. The party earned 2,500 experience each and stands close to thirteenth level.
+
+![Korth Ep 15 — The Stairs of Her Mercy - The Ivory Lazaret - Uriel's Object.png](/images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-mukkg76s.webp)
