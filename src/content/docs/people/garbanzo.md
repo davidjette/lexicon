@@ -15,6 +15,8 @@ tags:
   - Oerth
   - Ghosts of Twatmarsh
   - Neptune's Rejects
+  - Garbonzo Primewater-Hellwood
+  - Salem Specksnyder
 image:
   src: /images/uploads/garbanzo-saltmarsh-ghost-of-twatmarsh-ca-mu31jjl0.webp
 type: person
@@ -38,6 +40,7 @@ fields:
   spouse: Gabriella Hellwood
   status: Unknown
 sources:
+  - "JL's DM notes: Slatmarsh: Greyhawk sessions"
   - sources/dave/2026-09-14-oral-histories-cast.md
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
   - 'Oral Histories: The Inevitables, 2022-01-07'
@@ -53,7 +56,7 @@ published: '2026-09-14'
 
 **Saltmarsh, Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Wife of Gabriella Hellwood**
 
-*Also known as:* the Smugglers Daughter · the primewater girl
+*Also known as:* the Smugglers Daughter · the primewater girl · Garbonzo Primewater-Hellwood
 
 Garbanzo is the daughter of the Saltmarsh smuggler [Gellen Primewater](/people/gellen-primewater/) and the wife of [Gabriella Hellwood](/people/gabriella-hellwood/), captain of the [*Sea Ghost*](/items/the-sea-ghost/) and commodore of the navy of [Saltmarsh](/places/saltmarsh/), in the campaign Ghosts of Twatmarsh. Gabriella asked Primewater for her hand, and the engagement came with a deal: the Navy would look the other way on smuggling, Primewater could use the Weathervein summer home again, and his dowry would stay in his own sphere. The wedding followed, with gaming tables, and ended in an attack. The next adventure was called Gabriella's honeymoon.
 
@@ -86,6 +89,10 @@ The wedding ended on a cliffhanger. Dave: "The cliffhanger is big because the ma
 The adventure that followed was Gabriella's honeymoon: Dave summed up the campaign as "Level 1-6 become major figure of Saltmarsh, level 7-10 Gabriella’s honeymoon". <small>(Oral Histories: The Inevitables, 2022-03-18)</small> Weighing a warlock pact for Gabriella, Dave wrote: "gabby is independent, but she’s been binding herself to things in the last arc, her wife and Saltmarsh". <small>(Oral Histories: The Inevitables, 2022-03-13)</small>
 
 After JL posted the stats of [Malenti](/people/malenti/), Dave wrote "Ooo lala", then "Garbanzo I’m sorry". <small>(Oral Histories: The Inevitables, 2022-07-01)</small> Nico later posted an image of a "Double date with Garbanzo and pirate Anders". <small>(Oral Histories: The Inevitables, 2022-07-14)</small> See [Anders Solmor](/people/anders-solmor/).
+
+## The warlock in Greyhawk
+
+On the honeymoon, in the city of Greyhawk, the warlock [Salem Specksnyder](/people/salem-specksnyder/) saw Garbanzo walking with two goblin escorts and became obsessed with her, because she resembled the wife he had murdered. He followed her, and at the party's hotel he tried to abduct her, with a red slaad and gibbering mouthers. His creatures did not fight to the death; they teleported away, leaving a thick, black, shimmering ichor. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
 
 ## Her name
 
