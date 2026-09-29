@@ -20,6 +20,9 @@ tags:
   - hadozee
   - Wand of Horgus Hairs
   - Battle of Tannhauser Gate
+  - the Time Tombs
+  - the Vernacular
+  - Necis
 image:
   src: /images/uploads/horgus-simianis-light-of-xaryxis-starfal-mu37v6mk.webp
   alt: Horgus Simianis
@@ -44,6 +47,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-03-16'
   - 'Oral Histories: The Inevitables, 2024-05-31'
   - 'The Starsong Awakens site (JL Byrd): New magic items'
+  - 'JL''s DM notes: Starfall Awakens Notes'
 gallery:
   - src: /images/chat/2024-05-03-1099651471068892.webp
     alt: Robed simian sorcerer
@@ -87,6 +91,12 @@ Before the finale of *Light of Xaryxis*, Horgus upgraded his own barrier tattoo 
 ## The Starsong Awakens
 
 The **Wand of Horgus Hairs** is a very rare wand, requiring attunement by a spellcaster, crafted with hadozee hairs recovered after the Battle of Tannhauser Gate, "hairs belonging to the legendary deceased Astral Command hero Horgus Simiani". It lets its user cast *animate dead* without material components, and has 3 charges, which it regains at dawn. <small>(The Starsong Awakens site, New magic items)</small>
+
+### The Time Tombs
+
+In the Pyramid among [the Time Tombs](/places/the-time-tombs/) of [Necis](/places/necis/), [Paytra](/people/paytra/) and [Kol Hanaka](/people/kol-hanaka/) met Dr. Horgus: a small grey-haired hadozee in a stained lab coat, his eyes a bit mad. "What are you doing here? You shouldn't be here." The tomb was a quiet place for his research, and he could not say how long he had been there: "Time has a funny way around here. I couldn't tell you if its been decades or centuries. Or both. Maybe neither." He introduced his wife, Katrina, stitched together from the head of a tabaxi, the arms of an elf and huge orcish thighs: "Katrina darling. Should we have our new guests over for supper?" <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Horgus had found [Caprica](/people/caprica/) and used her astral elven form to help him rebuild Katrina. He also used Caprica's consciousness to create a device called **the Vernacular**, which powers his whole ship, in fact an asteroid. The Vernacular is an aspect of the Lexicon. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
