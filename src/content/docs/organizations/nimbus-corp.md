@@ -1,29 +1,31 @@
 ---
 title: Nimbus Corp
-description: "The Company: Revan Darkcember's corporation, which won the St. Cloud Trading Company at auction and became an arm of the Lexicon's Sovereignty."
+description: 'The Company: Revan Darkcember''s corporation, which won the St. Cloud Trading Company at auction and became an arm of the Lexicon''s Sovereignty.'
+tags:
+  - Nimbus Corp
+  - the Company
+  - Nimbus
+  - Revan Darkcember
+  - House Nimbus
+  - St. Cloud Trading Company
+  - Sword Coast Trading Company
+  - Temple Holdings LLC
+  - Temporal Holdings
+  - Bank of Harloch
+  - the Lexicon
+  - the Sovereignty
+  - Seekers
+  - the Fated
+  - Zhentarim
+  - Lexi
+  - O-3255
+  - Sigil
+  - Waterdeep
+  - Dead Man's Hand
+image:
+  src: /images/uploads/crystal-tower-nimbus-corp-the-company-th-mun1c1ku.webp
 type: organization
 kind: organizations
-tags:
-- Nimbus Corp
-- the Company
-- Nimbus
-- Revan Darkcember
-- House Nimbus
-- St. Cloud Trading Company
-- Sword Coast Trading Company
-- Temple Holdings LLC
-- Temporal Holdings
-- Bank of Harloch
-- the Lexicon
-- the Sovereignty
-- Seekers
-- the Fated
-- Zhentarim
-- Lexi
-- O-3255
-- Sigil
-- Waterdeep
-- Dead Man's Hand
 icon: fa-cloud
 fields:
   type: Corporation
@@ -32,15 +34,15 @@ fields:
   seat: Unknown
   status: Active; at the beginning of its consolidation in the time of Dead Man's Hand
 sources:
-- sources/dave/2026-09-13-dead-mans-hand-company.md
-- sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
-- CANON.md 5ab
-- CANON.md 5ac
-- CANON.md 5l
-- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
-- Desktop/D&D/Dead Mans Hand/items/O3255.md
-- Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
-- Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2978, IMG_2979, IMG_2991, IMG_3002, IMG_3009, IMG_3018, IMG_3042, IMG_3064, IMG_3066, IMG_3067, IMG_3069, IMG_3079, IMG_3081, IMG_3083, IMG_3102, IMG_3103, IMG_3104, IMG_3105)
+  - sources/dave/2026-09-13-dead-mans-hand-company.md
+  - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
+  - CANON.md 5ab
+  - CANON.md 5ac
+  - CANON.md 5l
+  - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+  - Desktop/D&D/Dead Mans Hand/items/O3255.md
+  - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
+  - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2978, IMG_2979, IMG_2991, IMG_3002, IMG_3009, IMG_3018, IMG_3042, IMG_3064, IMG_3066, IMG_3067, IMG_3069, IMG_3079, IMG_3081, IMG_3083, IMG_3102, IMG_3103, IMG_3104, IMG_3105)
 published: '2026-09-14'
 ---
 
