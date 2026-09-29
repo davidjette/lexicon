@@ -64,3 +64,5 @@ She assigned the crew a Company [Esper](/species/esper/), Lamp, who knew where e
 
 - **Barrias Ruby-Eye:** her brother.
 - **The Company:** her employer.
+
+![Crystal Tower - Nimbus Corp - The Company - The Starsong Awakens.png](/images/uploads/crystal-tower-nimbus-corp-the-company-th-mun1bgxq.webp)
