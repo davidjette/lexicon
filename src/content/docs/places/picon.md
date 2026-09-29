@@ -1,9 +1,6 @@
 ---
 title: Picon
 description: A moon in the Feywild, home of Caprica's family, blighted by the song, where Barrias and Carlos climbed the Crystalline Volcano to find the way to Necis.
-type: location
-kind: places
-icon: fa-moon
 tags:
   - Picon
   - moon of Picon
@@ -19,6 +16,11 @@ tags:
   - Carlos Vega
   - Starfall
   - The Starsong Awakens
+image:
+  src: /images/uploads/picon-the-starsong-awakens-mumzxwzt.webp
+type: location
+kind: places
+icon: fa-moon
 fields:
   type: Moon
   location: The Feywild
@@ -29,12 +31,12 @@ fields:
   status: Scarcely habitable, blighted by a sonic disturbance
   includedLocations: The Crystalline Volcano; the shrine to Elistraee; the lava bridge; the Righteous Pass; LS-TR3
 sources:
-  - "JL's DM notes: Starfall Awakens Notes"
-  - "sources/dave/2026-09-28-starfall-jl-nico-answers.md"
-  - "Oral Histories: The Inevitables, 2025-01-18"
-  - "Oral Histories: The Inevitables, 2025-01-25"
-  - "Oral Histories: The Inevitables, 2025-02-28"
-  - "The Starsong Awakens site (JL Byrd): New magic items"
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - 'Oral Histories: The Inevitables, 2025-01-18'
+  - 'Oral Histories: The Inevitables, 2025-01-25'
+  - 'Oral Histories: The Inevitables, 2025-02-28'
+  - 'The Starsong Awakens site (JL Byrd): New magic items'
 ---
 
 **Moon · The Feywild · Home of [Caprica](/people/caprica/)'s family · Blighted by the song**
