@@ -31,6 +31,9 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-12'
   - 'Oral Histories: The Inevitables, 2024-07-11'
   - CANON.md 5ai (Oral Histories)
+  - 'JL''s DM notes: Starfall Notes - The Company - Holly Berrias Session'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 ---
 
 **Species unknown · Employee of the Company · Sister of Barrias Ruby-Eye · Status unknown**
@@ -45,7 +48,7 @@ JL, who ran *The Starsong Awakens*, gave her name as Holly Barrias, the name the
 
 ## Light of Xaryxis
 
-During *Light of Xaryxis* Barrias's sister already worked for the Company. <small>(Oral Histories: The Inevitables, 2024-01-21)</small>
+During *Light of Xaryxis* Barrias's sister already worked for the Company. <small>(Oral Histories: The Inevitables, 2024-01-21)</small> On Life Day, an intergalactic celebration kept on many worlds for sharing joy with loved ones, she sent a transmission to the Zanzibar inviting her brother and a couple of friends to her party on [Kamino](/places/kamino/), a few quadrants away. Barrias's former love ran the cloning facility there. The party, in the Crystal Tower, was taken hostage by the astral-elf militants of the Radiant Visage. See [the Kamino hostage crisis](/history/the-kamino-hostage-crisis/). <small>(JL's DM notes: Starfall Notes - The Company - Holly Berrias Session)</small>
 
 ## The Starsong Awakens
 
@@ -53,7 +56,9 @@ During *Light of Xaryxis* Barrias's sister already worked for the Company. <smal
 
 The first episode, played on 11 July 2024, had two scenes over drinks: one among new partners, and one among old friends and family. In the second, Halle accepted the drink. <small>(Oral Histories: The Inevitables, 2024-07-11)</small>
 
-Barrias's sheet notes record that his sister told him about a "star scream" related to Caprica, and tipped him off to a stash, a "prize from company", held in the name of Emily Rugburn at Ragnor XII (also spelled Ragnar XII), which Barrias collected. <small>(character sheet)</small>
+Barrias's sheet notes record that his sister told him about a "star scream" related to Caprica, and tipped him off to a stash, a "prize from company", held in the name of Emily Rugburn at Ragnor XII (also spelled Ragnar XII), which Barrias collected. <small>(character sheet)</small> It was a safe-deposit box at the 1st Galactic Bank of Abbathor on Ragnar XII, said to hold 30,000 harlocks, a small arsenal and something special just for him. Her note inside ended: "May the gods guide your hands, and don't fuck it up. Enjoy your dragon. -Sincerely, Your sister, Holly-Barrias". The dragon was an egg. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+She assigned the crew a Company [Esper](/species/esper/), Lamp, who knew where each of the old crew could be found and whose off-putting manner made Barrias uneasy. <small>(JL's DM notes: Starfall Awakens Notes)</small> Halle and the Company thought the Sovereignty's coming war with the Vodoni Empire unjust and unwarranted. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Relationships
 
