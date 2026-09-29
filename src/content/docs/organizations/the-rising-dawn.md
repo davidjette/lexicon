@@ -22,14 +22,17 @@ tags:
 - Saltmarsh
 - Oerth
 - Ghosts of Twatmarsh
+- Copperlocks
 icon: fa-sun
 fields:
   type: Order
   residence: Unknown
   leader: Unknown
-  members: Scrunt Pissfoot
+  members: Scrunt Pissfoot; Manistrad Copperlocks
   status: Unknown
 sources:
+- "JL's DM notes: Slatmarsh: Greyhawk sessions"
+- sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
 - "Oral Histories: The Inevitables, 2022-02-05"
 - "Oral Histories: The Inevitables, 2022-07-10"
 - "Oral Histories: The Inevitables, 2022-07-12"
@@ -49,6 +52,10 @@ The **Rising Dawn** is an order in [Ghosts of Twatmarsh](/lore/ghosts-of-twatmar
 ## Scrunt and the Dawn
 
 In February 2022 Dave suggested that "Skrunt should get in with Kezzie and join the Dawn-boys on his own". <small>(Oral Histories: The Inevitables, 2022-02-05)</small>
+
+## Copperlocks
+
+The dwarven mining magnate Manistrad Copperlocks was an agent of the Dawn. She confessed to the party that the Dawn had sent her to Saltmarsh ten years before on the trail of a high father of the Scarlet Brotherhood; she found him in Duke [Alexander Solmor](/people/alexander-solmor/), learned he was after a source of great arcane power beneath the ground, and planted a bomb on his ship. For ten years she had searched the mines and found only magic items, some with godlike powers. With the Duke back, she asked the party to find out what he was doing, offering political favors, and land by eminent domain, in place of money. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> <small>(sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
 
 ## Malenti's offer
 
