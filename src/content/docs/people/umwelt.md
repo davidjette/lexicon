@@ -34,6 +34,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-11-08'
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - sources/dave/2026-09-14-starfall-necis.md
+  - "JL's DM notes: Starfall Awakens Notes"
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2024-11-08-1026049996231750.webp
     alt: Weld miniature, first version
@@ -82,6 +84,8 @@ Weld and Marcel Martel first appeared on 8 November 2024. <small>(Oral Histories
 By May 2025, according to Nico, Kol and Paytra had brought the body of [Caprica](/people/caprica/) back to [the Terrasque](/items/the-terrasque/) and met up with Marcel and Weld. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
 
 His sheet's notes record the words "Paradox Dawn", "shut down", "necis" and "secured by OSRIIG". <small>(character sheet)</small>
+
+Weld and Marcel first met aboard the SSJ Vanguard, strangers told only to wait, where [OU812](/people/ou812/) brought them the Red Eye's orders to learn what the ship's commanding officers knew about the Lexicon. They took part in the seizure of [the Terrasque](/items/the-terrasque/). OU812 later gave Weld a golden orb that Nine called a seed; no one knew what it did, and Weld kept it in his nose. At [Necis](/places/necis/) Weld and Marcel explored the Labyrinth among [the Time Tombs](/places/the-time-tombs/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
