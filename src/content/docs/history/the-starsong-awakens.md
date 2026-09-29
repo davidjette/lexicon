@@ -34,8 +34,6 @@ tags:
   - the Pussyfoot
   - Root Hold
   - Punis
-image:
-  src: /images/uploads/the-pussyfoot-the-starsong-awakens-mun05mlc.webp
 type: event
 kind: history
 icon: fa-rocket
