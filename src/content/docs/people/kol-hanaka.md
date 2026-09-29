@@ -44,6 +44,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - CANON.md 5aj
   - sources/dave/2026-09-14-starfall-necis.md
+  - "JL's DM notes: Starfall Awakens Notes"
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2024-11-15-1648410909351448.webp
     alt: Kol Hanaka Cyber miniature
@@ -96,11 +98,17 @@ In September 2024 the party shut down a plant on suspicion alone. Afterwards Kol
 
 Paytra died in the finale of Brownsleeve City Nights, played on 1 November 2024. <small>(Oral Histories: The Inevitables, 2024-11-02)</small>
 
+The night the agents took the case of the old cruiser, a robot in the shape of a frightened half-orc man knocked at Kol's door in the Moonstone Arms begging to be let in, and attacked once inside. At the Wet Fusion Plant Kol was infected by the nanobot curse of a werebot bugbear, which is what grew the metallic scales on his wound. He later chased an armed terrorist into the basement of Negroni Prime Memorial Stadium. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+After the truck crash Kol stood on the shore of the Waning Sea with cold metal on his face. Paramedics told him the robo-virus had reached stage three and that stage four was irreversible, and flew him to the SSJ Vanguard. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 ### Rebuilt
 
 After the finale Kol and Paytra were rebuilt as robots. <small>(Oral Histories: The Inevitables, 2024-11-17)</small> Dave imagined the rebuilt Kol as a spine with legs and a skull, one arm and half a metallic ribcage, with no abdomen, and said Kol had committed hara-kiri at the moment he no longer needed his organs. The two agents' mission was a success: they had found the Red Eye. <small>(Oral Histories: The Inevitables, 2024-11-10)</small> Red Eye is the nom de guerre of [Barrias Ruby-Eye](/people/barrias-ruby-eye/), the name the robot resistance, [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), uses for him. <small>(sources/dave/2026-09-14-starfall-necis.md)</small>
 
 By May 2025, according to Nico, Kol and Paytra had brought Caprica's body back to the Terrasque and met up with [Marcel Martel](/people/marcel-martel/) and Weld ([Umwelt](/people/umwelt/)). <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
+
+In the hospital of the Vanguard, Kol dreamed of standing shirtless on the beach by the Waning Sea with a sword in his hand, and woke at a thunk in his hospital bed. Rebuilt, he took the robot background Malware. <small>(JL's DM notes: Starfall Awakens Notes)</small> Kol and [Nine](/people/nine/) then spent six months together in a pocket dimension, gathering food, hunting game and building shelter. Nine shared his plans, his hopes and his dreams: his fervent belief that his destiny was to rewrite the past by creating the Lexicon and sending it back, filled this time with understanding and compassion, to erase the mistakes of the past. He told Kol stories of his father and brothers, and some nights sang by the fire. At the end of it Nine told Kol he had had a dream about him. At [Necis](/places/necis/) Kol and Paytra explored the Pyramid among [the Time Tombs](/places/the-time-tombs/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
