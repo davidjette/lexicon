@@ -14,6 +14,7 @@ tags:
 - Esther Crona
 - Aerenal
 - High Elf
+- Veryn Crona
 image:
   src: /images/uploads/vayrn-crona-eternal-guardian-mu0n5ghk.webp
 type: person
@@ -46,6 +47,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-07-08"
 - "Oral Histories: The Inevitables, 2026-08-22"
 - "Oral Histories: The Inevitables, 2026-08-23"
+- "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
 published: '2026-09-10'
 wa:
   slug: varyn-crona-person
@@ -120,7 +122,7 @@ Esther Crona was born into slavery two years after the end of the Last War. At t
 
 Esther and Varyn spent their last two years together investigating a rebel stronghold in the city of Fairhaven in Aundair. They became romantically involved with each other during this time. They believed they had tracked a rebel leader to a cave system outside the city.
 
-Varyn Crona was killed by a masked assailant in a cave system outside of Fairhaven in Aundair while he and Esther were tracking a rebel leader. His manor in Korth was left to Esther Crona and his soul is trapped in his sword, now being wielded by Esther as her Hexblade. Varyn was around 56 human years old when he was killed.
+Varyn Crona was killed by a masked assailant in a cave system outside of Fairhaven in Aundair while he and Esther were tracking a rebel leader. His manor in Korth was left to Esther Crona and his soul is trapped in his sword, now being wielded by Esther as her Hexblade. Varyn was around 56 human years old when he was killed. In Campaign 1 the Unforeseen lodged at the house, the cavernous manor of Varyn Crona, the night before they went into the Rekkenmark. <small>(JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank)</small>
 
 ## The Eternal Guardian
 
