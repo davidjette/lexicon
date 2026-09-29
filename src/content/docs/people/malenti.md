@@ -1,6 +1,6 @@
 ---
 title: Malenti
-description: An amphibious spellcaster of Ghosts of Twatmarsh whose offer to parley with Sekolah was refused by Neptune's Rejects at the Saltmarsh finale.
+description: A sahuagin princess in the guise of a sea elf, wife of Alexander Solmor, whose offer to parley with Sekolah Neptune's Rejects refused.
 type: person
 kind: people
 tags:
@@ -19,6 +19,9 @@ tags:
 - Saltmarsh
 - Oerth
 - Ghosts of Twatmarsh
+- Melanti
+- Sahuagin
+- Alexander Solmor
 icon: fa-person-swimming
 fields:
   rpgAlignment: Unknown
@@ -35,17 +38,25 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- "JL's DM notes: Slatmarsh: Greyhawk sessions"
+- sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
 - "Oral Histories: The Inevitables, 2022-07-01"
 - "Oral Histories: The Inevitables, 2022-07-08"
 - "Oral Histories: The Inevitables, 2022-07-10"
 published: '2026-09-14'
 ---
 
-**Medium humanoid · Spellcaster · Ghosts of Twatmarsh · Status unknown**
+**Sahuagin princess, in the guise of a sea elf · Spellcaster · Ghosts of Twatmarsh · Status unknown**
 
-*Also known as:* Malento <small>(Oral Histories: The Inevitables, 2022-07-01)</small>
+*Also known as:* Malento · Melanti <small>(Oral Histories: The Inevitables, 2022-07-01)</small>
 
-**Malenti** is a spellcaster whom the party [Neptune's Rejects](/organizations/neptunes-rejects/) met in [Saltmarsh](/places/saltmarsh/) during [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/), in the session of 2022-06-30 in which they killed Salmor. JL, who ran that session, posted her stat block the next morning. At the Saltmarsh finale of July 2022 she offered to take the party with Dwight to parley with Sekolah, and they refused. Had they accepted, Dave said, they would have invaded Saltmarsh and been at open war with [the Rising Dawn](/organizations/the-rising-dawn/).
+**Malenti** is a sahuagin princess who passed as a sea elf, the second wife of [Alexander Solmor](/people/alexander-solmor/), and a spellcaster whom the party [Neptune's Rejects](/organizations/neptunes-rejects/) met in [Saltmarsh](/places/saltmarsh/) during [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/), in the session of 2022-06-30 in which they killed Salmor. JL, who ran that session, posted her stat block the next morning. At the Saltmarsh finale of July 2022 she offered to take the party with Dwight to parley with Sekolah, and they refused. Had they accepted, Dave said, they would have invaded Saltmarsh and been at open war with [the Rising Dawn](/organizations/the-rising-dawn/).
+
+## The Duke's bride
+
+Alexander Solmor came home in April 2022 with a bride. By his account she was the warrior from the sea, an elven beauty, who had rescued him from the island where he had been marooned for ten years. She looked like a sea elf, tall, thin and blue-skinned like [Oshi](/people/oshi/), and he introduced her to his son [Anders](/people/anders-solmor/) as his new mother. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
+
+She was in fact a sahuagin princess, and the marriage sealed the union of the sahuagin and [the Scarlet Brotherhood](/organizations/the-scarlet-brotherhood/). The sahuagin invasion of Saltmarsh was a ruse to cover the Brotherhood's real objective, [the Eldabrin](/lore/the-eldabrin/) beneath the mines. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> <small>(sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
 
 ## After Salmor
 
