@@ -18,7 +18,7 @@ tags:
 - Light of Xaryxis
 fields:
   gender: Male
-  species: Unknown
+  species: Dwarf
   status: Unknown
 sources:
 - "Oral Histories: The Inevitables, 2023-08-11"
@@ -27,9 +27,11 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-08"
 - "Oral Histories: The Inevitables, 2024-03-09"
 - "Oral Histories: The Inevitables, 2024-03-15"
+- 'JL''s DM notes: Starfall Notes - Barrias'' Nightmare session'
+- sources/dave/2026-09-28-starfall-jl-nico-answers.md
 ---
 
-**Species unknown · Prophet of the Beholder great mother · Status unknown**
+**Dwarf · Private, Astral Command; prophet of the Beholder great mother · Status unknown**
 
 *Also known as:* the prophet
 
@@ -41,12 +43,12 @@ In the aftermath of the Black Hole Sun, Tillamook was stranded on Negroni Prime 
 
 Jim believed the boy had died at Negroni Prime. <small>(Oral Histories: The Inevitables, 2024-03-08)</small>
 
+In the nightmare in which [Barrias Ruby-Eye](/people/barrias-ruby-eye/) later relived the battle, Tillamook was a much younger dwarf private, his beard barely coming in, a boy rather than a man. His parents had told him not to sign up with Astral Command because they needed him on the farm; he could have had a dispensation but wanted to do something good, and at Negroni Prime he was too scared to fight. A beholder dragged him away in its eye stalks while he cried for Barrias to help. <small>(JL's DM notes: Starfall Notes - Barrias' Nightmare session)</small>
+
 ## Survival
 
 A lich may have cast the wish that saved Tillamook. Barrias was left unsure whether it actually did. <small>(Oral Histories: The Inevitables, 2023-08-11)</small>
 
 ## The prophet
 
-Tillamook became the prophet of the terrorists who follow the Beholder great mother. <small>(Oral Histories: The Inevitables, 2024-03-08)</small> In August 2023 the crew were back aboard the Zanzibar with the prophet, and the prophet plot concluded in September. <small>(Oral Histories: The Inevitables, 2023-08-25, 2023-09-08)</small> The party later brought him to Limbo. <small>(Oral Histories: The Inevitables, 2024-03-08)</small>
-
-His species is unknown.
+Tillamook became the prophet of the terrorists who follow the Beholder great mother. <small>(Oral Histories: The Inevitables, 2024-03-08)</small> He believed he was the prophet of Ao, but he was really being played by the beholders. <small>(JL, sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small> In August 2023 the crew were back aboard the Zanzibar with the prophet, and the prophet plot concluded in September. <small>(Oral Histories: The Inevitables, 2023-08-25, 2023-09-08)</small> The party later brought him to Limbo. <small>(Oral Histories: The Inevitables, 2024-03-08)</small>
