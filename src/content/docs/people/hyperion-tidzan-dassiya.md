@@ -67,6 +67,8 @@ sources:
   - CANON.md 5aj
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
   - 'The Starsong Awakens site (JL Byrd): New ships'
+  - "JL's DM notes: Starfall Awakens Notes"
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2022-07-24-766221108028806.webp
     alt: Hyperion Titara miniature
@@ -152,6 +154,16 @@ In November 2024 Dave, as a player, looked for a way to bring Sandy over to the 
 ### The SSJ Vanguard
 
 The [Company](/organizations/nimbus-corp/)'s dossier names Capt. Sandy Titzandassia as Commanding Officer of the SSJ Vanguard, an [Istus-class clipper](/items/the-istus-cruiser/), with Lt. Commander [Mordecai](/people/mordecai/) as Executive Officer. The dossier lists the Vanguard as active, its location unknown, with rumours of its top-secret destination ranging from Realmspace to deep within [the Vodoni Empire](/organizations/the-vodoni-empire/). Its command crew is of special interest to the Board because both officers served with [Caprica](/people/caprica/) on the SSJ Zanzibar. <small>(The Starsong Awakens site, Company dossier)</small> Astral Command introduced the Istus class after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) and the decommissioning of the Zarus-class battle cruisers, as light, fast and agile vessels. <small>(The Starsong Awakens site, Company dossier; New ships)</small>
+
+### Captive on the Vanguard
+
+Followers of the Red Eye took the Vanguard, and Sandy and Mordecai were held in its brig. Sent by the Red Eye to learn what the officers knew about the Lexicon, the new recruits questioned them. Sandy said the Lexicon was a dangerous machine, that Sovereign orders were to put such devices out of commission, and that anyone whose boss had a scheme to resurrect the Astralex should think twice about whose orders they took. She said that Sovereign scientists had found energy readings exactly like the Lexicon's in sediment samples dating to primordial times:
+
+> Did man create Lex, or did Lex create man? There can be no answer. The Lexicon is a Moebius strip that ends at the beginning and begins at the end. That's why it had to die.
+
+<small>— Sandy, in the brig of the Vanguard.</small>
+
+Pressed further, she admitted that nobody knew what the Lexicon was or how it worked, and that it had something to do with the temporal anomalies around the star system of [Necis](/places/necis/). "We were there," she said, and at the mention of [the Time Tombs](/places/the-time-tombs/) and [the Shrike](/lore/the-shrike/) she screamed and fell unconscious. The two officers were still in the brig when the party seized [the Terrasque](/items/the-terrasque/). See [the Astralex](/lore/the-astralex/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Appearance
 
