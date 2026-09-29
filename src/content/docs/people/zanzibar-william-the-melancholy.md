@@ -21,6 +21,11 @@ tags:
 - Peterbilt Varkus
 - War of the Five Zanzibars
 - Infantaverse
+- Sad King Billy
+- the Silver Pretender
+- Punis
+- Necis
+- The Starsong Awakens
 icon: fa-crown
 fields:
   rpgAlignment: Unknown
@@ -43,6 +48,7 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3074, IMG_3075)
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
+- 'JL''s DM notes: Starfall Awakens Notes'
 published: '2026-09-10'
 wa:
   slug: zanzibar-william-the-melancholy-person
@@ -78,3 +84,9 @@ Four factions have risen against him: **Zellmo** and the Zarus Cult, raised on t
 ## The War of the Five Zanzibars
 
 His reign opens the [War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the war and revolution that is a critical collapse of the continent, before a dark time preceding the ascendance of the Sovereignty. The five Zanzibars are the Emperor and the four risen against him: Zellmo of the Zarus Cult, Zythara the Witch Queen of Myth Drannor, [Peterbilt Varkus](/people/peterbilt-varkus/) of the March of the Free West, and Modle Negen of the Negende Zonen. Dead Man's Hand takes place during its beginnings.
+
+## The Starsong Awakens
+
+When the crew of *[The Starsong Awakens](/history/the-starsong-awakens/)* reached Punis through [the Sphinx Tomb](/places/the-sphinx-tomb/), Prince William, "the Silver Pretender", led a faction of aristocrats, bards, poets and artists, whose partisans filled a tavern called the Buttress of Windsor. The prince kept himself in seclusion, prone to bouts of melancholy, and wanted only one thing: to get off the planet and find a new world. During the assault on Fort Zanzibar, Sad King Billy prepared his vessel to escape. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Among [the Time Tombs](/places/the-time-tombs/) of [Necis](/places/necis/), [Marcel Martel](/people/marcel-martel/) and [Weld](/people/umwelt/) met a man in a brown cloak with a long, drawn face, beside a great tree, who called himself William. He warned them to leave or be trapped there forever as he was: "This is a place of death. Men come. Men die. Over and again." He had come from a far star torn apart by war and factionalism, dreaming of a new start, and found that even at the ends of the universe one cannot escape the cycle of death and destruction. He was Sad King Billy. <small>(JL's DM notes: Starfall Awakens Notes)</small>
