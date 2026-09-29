@@ -26,6 +26,9 @@ tags:
 - Griddy Champagne
 - Sir Merriam Wordsworker
 - Dead Man's Hand
+- Punis
+- The Starsong Awakens
+- the Iron Tyrant
 icon: fa-chess-knight
 fields:
   rpgAlignment: Lawful neutral
@@ -50,6 +53,7 @@ sources:
 - sources/dave/2026-09-14-zanzibar-and-the-war.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - "Oral Histories: The Inevitables, 2025-10-31"
+- 'JL''s DM notes: Starfall Awakens Notes'
 published: '2026-09-10'
 wa:
   slug: general-peterbilt-varkus-person
@@ -120,3 +124,7 @@ After the breakout, Lenore and BattleBeast had escaped the fort into Undermounta
 **Phillip Klaxon** — a middle-aged minor noble at his side in the interrogation, furious. Active.\
 **Griddy Champagne** — in black leather armour and duster under a demure scarf; took the RUIN card from the desk. Active.\
 **[Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/)** — the blond, bearded paladin who took custody of Maverick and questioned him first. Active.
+
+## The Starsong Awakens
+
+When the crew of *[The Starsong Awakens](/history/the-starsong-awakens/)* reached Punis through [the Sphinx Tomb](/places/the-sphinx-tomb/), General Varkas, "the Iron Tyrant", held the castle, kept a guard loyal to him on every street corner, and controlled the city's defence airship, on which an aspect of the Lexicon was grafted. His men had taken the People's Champion, Negen Zanzibar, into custody and held him in the castle dungeon. He had allied with the Witch Queen, and each planned to betray the other. He would not listen to reason. <small>(JL's DM notes: Starfall Awakens Notes)</small>
