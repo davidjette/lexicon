@@ -17,6 +17,11 @@ tags:
   - Battle of Tannhauser Gate
   - Eye of Doom
   - Company dossier
+  - Picon
+  - Capricornelius
+  - Aralon
+  - Sagittaron
+  - the Vernacular
 image:
   src: /images/uploads/caprica-onboard-the-ssj-zanzibar-light-o-mu33idye.webp
   alt: Caprica
@@ -71,6 +76,8 @@ sources:
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2022-05-01-969613280371931.webp
     alt: Caprica's HeroForge miniature
@@ -155,6 +162,16 @@ According to the dossier, Astral Command seized the wreckage of the Zanzibar and
 ### The search
 
 In January 2025 Barrias and [Carlos Vega](/people/carlos-vega/) went back to Picon to continue the search for her. <small>(Oral Histories: The Inevitables, 2025-01-18)</small> The Company dossier states that her remains were never recovered; by May 2025 the Bureau agents [Paytra](/people/paytra/) and [Kol Hanaka](/people/kol-hanaka/) had brought Caprica's damaged body back to the living ship [the Terrasque](/items/the-terrasque/). <small>(The Starsong Awakens site, Company dossier; Oral Histories: The Inevitables, 2025-05-23)</small> Dave, as a player, came to regard the search for Caprica as a red herring. <small>(Oral Histories: The Inevitables, 2025-04-06)</small> Whether she was resurrected is unknown.
+
+### Picon
+
+Caprica's family lives on [Picon](/places/picon/), a moon in the Feywild blighted by the song: her father, her mother, and her sisters Aralon and Sagittaron. Her father insisted he had no daughter named Caprica; the daughter he named was Capricornelius. He gave the searchers the Mace of Elistraee and sent them to the Crystalline Volcano, where visions showed Caprica at the helm of the Zanzibar, Caprica fighting the Shrike, and Caprica floating in a tank, armless and legless like the Venus de Milo. The volcano's elven computer, LS-TR3, held her name among its star maps. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Caprica's tune runs C C C C D F E D F E D. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+### After Tannhauser Gate
+
+Dr. [Horgus](/people/horgus-simianis/) found Caprica, and used her astral elven form to help him rebuild [Katrina](/people/katrina-mcquaid/). He also used her consciousness to create a device called the Vernacular, which powers his whole ship, an asteroid; it is an aspect of the Lexicon. <small>(JL's DM notes: Starfall Awakens Notes)</small> Behind the door marked Forgiveness in [the Sphinx Tomb](/places/the-sphinx-tomb/), [Barrias](/people/barrias-ruby-eye/) and [Se7en](/people/se7en/) stood beside her on the Zanzibar during the Battle of Tannhauser Gate. <small>(JL's DM notes: Starfall Awakens Notes)</small> In the final session Hermes' notes listed "James Starberries in the body of Caprica" among those inside the tomb. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
