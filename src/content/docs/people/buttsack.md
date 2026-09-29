@@ -20,6 +20,11 @@ tags:
   - Githzerai
   - Elemental Chaos Plane
   - Battle of Tannhauser Gate
+  - Root Hold
+  - Grumbar
+  - the Earthlord
+  - the Pussyfoot
+  - Plane of Elemental Chaos
 image:
   src: /images/uploads/buttsack-onboard-the-ssj-zanzibar-light-mu364eir.webp
   alt: Buttsack miniature
@@ -31,7 +36,7 @@ fields:
   species: Bugbear
   ggmtitle: Sergeant-at-Arms, 2nd Sgt. (earlier Lt., Chief of Security); Sgt., Ret.
   rpgAlignment: Unknown
-  residence: A Githzerai temple in the Outer Planes (JL); a Githzerai community on the Elemental Chaos Plane (Company dossier)
+  residence: A Githzerai community on the Plane of Elemental Chaos
   status: Alive
 sources:
   - Desktop/D&D/Starfall TNG/sydiot_86052237.pdf
@@ -48,6 +53,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-07'
   - 'Oral Histories: The Inevitables, 2024-11-22'
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2023-05-26-956668448741629.webp
     alt: Buttsack in AI portrait
@@ -99,7 +106,7 @@ In April 2024, with the ship exploding, Carlos made his third wish and became a 
 
 ## The Starsong Awakens
 
-Over the fifteen years after the wreck of the Zanzibar, Buttsack played a few seasons of professional sportsball with the Khorvaire Kestrals until he was paralysed from the waist down, ending his career. He gave up his rage and retreated to an isolated Githzerai temple in the Outer Planes to focus on inner peace, meditation, and "the true meaning of the mysterious bottle he carries with him". He is content to be paralysed, and is now a monk. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+Over the fifteen years after the wreck of the Zanzibar, Buttsack played a few seasons of professional sportsball with the Khorvaire Kestrals until he was paralysed from the waist down, ending his career. He gave up his rage and retreated to an isolated Githzerai temple to focus on inner peace, meditation, and "the true meaning of the mysterious bottle he carries with him". He is content to be paralysed, and is now a monk. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
 Carlos spent those fifteen years in the bottle Buttsack carries, and was back in play in *The Starsong Awakens* by November 2024. <small>(Oral Histories: The Inevitables, 2024-06-01; 2024-11-22)</small> How Carlos came out of the bottle is unknown.
 
@@ -107,7 +114,13 @@ For the new arc his player considered making him an Astral Self monk whose astra
 
 ### The Company dossier
 
-The [Company](/organizations/nimbus-corp/)'s dossier lists Buttsack (Sgt., Ret.) as alive and located on the Elemental Chaos Plane. It states that after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) he was awarded, and declined, the Medal of Valorous Service. As a Tight/Round-End in the Professional Sportsball League he twice won MVP (Most Vertical Performance) before "a tragic accident on field" cut his sporting career short. He retired to a Githzerai community and devoted his time to prayer and meditation. The dossier reports that he "entertains fantasies of communing with the spirit of his crewmate from the SSJ Zanzibar, Carlos Vega", whom it lists as deceased. <small>(The Starsong Awakens site, Company dossier)</small> JL's account of the arc places the temple in the Outer Planes and names his team the Khorvaire Kestrals. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Carlos was back in play by November 2024. <small>(Oral Histories: The Inevitables, 2024-11-22)</small>
+The [Company](/organizations/nimbus-corp/)'s dossier lists Buttsack (Sgt., Ret.) as alive and located on the Elemental Chaos Plane. It states that after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) he was awarded, and declined, the Medal of Valorous Service. As a Tight/Round-End in the Professional Sportsball League he twice won MVP (Most Vertical Performance) before "a tragic accident on field" cut his sporting career short. He retired to a Githzerai community and devoted his time to prayer and meditation. The dossier reports that he "entertains fantasies of communing with the spirit of his crewmate from the SSJ Zanzibar, Carlos Vega", whom it lists as deceased. <small>(The Starsong Awakens site, Company dossier)</small> JL's first account of the arc placed the temple in the Outer Planes; it was on the Plane of Elemental Chaos, where the Githzerai had been seen before. <small>(sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small> JL's account names his team the Khorvaire Kestrals. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Carlos was back in play by November 2024. <small>(Oral Histories: The Inevitables, 2024-11-22)</small>
+
+### Root Hold
+
+The Company Esper Lamp told Barrias that the former sergeant was said to have lost his mind, and that there was no way to reach his Githzerai community on the Plane of Elemental Chaos without a nautiloid. <small>(JL's DM notes: Starfall Awakens Notes)</small> The crew found him in Root Hold, the vast subterranean halls of Grumbar, primordial lord of earth. Buttsack did not want to leave. He had heard [Caprica](/people/caprica/)'s starsong, and the Earthlord preached against change. The crew tried to reason with the Earthlord; he died, but is not gone, and has sworn to find [Barrias](/people/barrias-ruby-eye/) if he ever touches dirt again. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Buttsack named the crew's nautiloid [the Pussyfoot](/items/the-pussyfoot/), after his mother. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
