@@ -1,41 +1,43 @@
 ---
 title: The Starsong Awakens
 description: The second arc of Starfall, run by JL from 2024 to 2025 and set fifteen years after Light of Xaryxis, during the Sovereignty's purge of artificial intelligence.
+tags:
+  - The Starsong Awakens
+  - Starsong
+  - 'Spelljammer: The Motion Picture'
+  - Starfall
+  - Starfall TNG
+  - Barrias Ruby-Eye
+  - Red-Eye
+  - the Red Eye
+  - Se7en
+  - Nine
+  - Caprica
+  - Starweaver Act
+  - Bureau of Compliance
+  - Brownsleeve City
+  - Brownsleeves City Nights
+  - Children of the Red Eye
+  - the Sphinx Tomb
+  - Necis
+  - the Company
+  - Company dossier
+  - Battle of Tannhauser Gate
+  - T.U.N.E.
+  - Red Eye Manifesto
+  - Esper
+  - LDR-N
+  - RN-HRT
+  - Mace of Elistraee
+  - Spelljammer
+  - Picon
+  - the Pussyfoot
+  - Root Hold
+  - Punis
+image:
+  src: /images/uploads/the-pussyfoot-the-starsong-awakens-mun05mlc.webp
 type: event
 kind: history
-tags:
-- The Starsong Awakens
-- Starsong
-- 'Spelljammer: The Motion Picture'
-- Starfall
-- Starfall TNG
-- Barrias Ruby-Eye
-- Red-Eye
-- the Red Eye
-- Se7en
-- Nine
-- Caprica
-- Starweaver Act
-- Bureau of Compliance
-- Brownsleeve City
-- Brownsleeves City Nights
-- Children of the Red Eye
-- the Sphinx Tomb
-- Necis
-- the Company
-- Company dossier
-- Battle of Tannhauser Gate
-- T.U.N.E.
-- Red Eye Manifesto
-- Esper
-- LDR-N
-- RN-HRT
-- Mace of Elistraee
-- Spelljammer
-- Picon
-- the Pussyfoot
-- Root Hold
-- Punis
 icon: fa-rocket
 fields:
   type: Campaign arc
@@ -46,88 +48,88 @@ fields:
   ships: The Terrasque, the stolen Istus Cruiser, the Pussyfoot
   outcome: The climax of Starfall, at Necis
 sources:
-- sources/dave/2026-09-14-starfall-necis.md
-- CANON.md 5aj
-- CANON.md 5ai (Oral Histories)
-- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-- Desktop/D&D/Starfall TNG/sydiot_86151296.pdf
-- Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
-- Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
-- Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
-- 'Oral Histories: The Inevitables, 2024-01-21'
-- 'Oral Histories: The Inevitables, 2024-06-01'
-- 'Oral Histories: The Inevitables, 2024-06-02'
-- 'Oral Histories: The Inevitables, 2024-06-08'
-- 'Oral Histories: The Inevitables, 2024-06-11'
-- 'Oral Histories: The Inevitables, 2024-06-12'
-- 'Oral Histories: The Inevitables, 2024-06-18'
-- 'Oral Histories: The Inevitables, 2024-06-25'
-- 'Oral Histories: The Inevitables, 2024-07-01'
-- 'Oral Histories: The Inevitables, 2024-07-11'
-- 'Oral Histories: The Inevitables, 2024-07-12'
-- 'Oral Histories: The Inevitables, 2024-08-09'
-- 'Oral Histories: The Inevitables, 2024-08-16'
-- 'Oral Histories: The Inevitables, 2024-08-17'
-- 'Oral Histories: The Inevitables, 2024-08-24'
-- 'Oral Histories: The Inevitables, 2024-09-07'
-- 'Oral Histories: The Inevitables, 2024-09-14'
-- 'Oral Histories: The Inevitables, 2024-09-25'
-- 'Oral Histories: The Inevitables, 2024-10-11'
-- 'Oral Histories: The Inevitables, 2024-10-25'
-- 'Oral Histories: The Inevitables, 2024-10-26'
-- 'Oral Histories: The Inevitables, 2024-11-02'
-- 'Oral Histories: The Inevitables, 2024-11-07'
-- 'Oral Histories: The Inevitables, 2024-11-08'
-- 'Oral Histories: The Inevitables, 2024-11-09'
-- 'Oral Histories: The Inevitables, 2024-11-10'
-- 'Oral Histories: The Inevitables, 2024-11-17'
-- 'Oral Histories: The Inevitables, 2024-11-22'
-- 'Oral Histories: The Inevitables, 2024-12-07'
-- 'Oral Histories: The Inevitables, 2024-12-13'
-- 'Oral Histories: The Inevitables, 2025-01-03'
-- 'Oral Histories: The Inevitables, 2025-01-18'
-- 'Oral Histories: The Inevitables, 2025-01-25'
-- 'Oral Histories: The Inevitables, 2025-02-28'
-- 'Oral Histories: The Inevitables, 2025-04-04'
-- 'Oral Histories: The Inevitables, 2025-04-06'
-- 'Oral Histories: The Inevitables, 2025-04-07'
-- 'Oral Histories: The Inevitables, 2025-05-18'
-- 'Oral Histories: The Inevitables, 2025-05-23'
-- 'The Starsong Awakens site (JL Byrd): Home'
-- 'The Starsong Awakens site (JL Byrd): New allies'
-- 'The Starsong Awakens site (JL Byrd): Company dossier'
-- 'The Starsong Awakens site (JL Byrd): New robots'
-- 'The Starsong Awakens site (JL Byrd): Red Eye Manifesto'
-- 'The Starsong Awakens site (JL Byrd): The Rock of Bral'
-- 'The Starsong Awakens site (JL Byrd): New ships'
-- 'The Starsong Awakens site (JL Byrd): New playable race'
-- 'The Starsong Awakens site (JL Byrd): New backgrounds'
-- 'The Starsong Awakens site (JL Byrd): New magic items'
-- 'JL''s DM notes: Starfall Awakens Notes'
-- sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - sources/dave/2026-09-14-starfall-necis.md
+  - CANON.md 5aj
+  - CANON.md 5ai (Oral Histories)
+  - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_86151296.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_132470279.pdf
+  - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
+  - 'Oral Histories: The Inevitables, 2024-01-21'
+  - 'Oral Histories: The Inevitables, 2024-06-01'
+  - 'Oral Histories: The Inevitables, 2024-06-02'
+  - 'Oral Histories: The Inevitables, 2024-06-08'
+  - 'Oral Histories: The Inevitables, 2024-06-11'
+  - 'Oral Histories: The Inevitables, 2024-06-12'
+  - 'Oral Histories: The Inevitables, 2024-06-18'
+  - 'Oral Histories: The Inevitables, 2024-06-25'
+  - 'Oral Histories: The Inevitables, 2024-07-01'
+  - 'Oral Histories: The Inevitables, 2024-07-11'
+  - 'Oral Histories: The Inevitables, 2024-07-12'
+  - 'Oral Histories: The Inevitables, 2024-08-09'
+  - 'Oral Histories: The Inevitables, 2024-08-16'
+  - 'Oral Histories: The Inevitables, 2024-08-17'
+  - 'Oral Histories: The Inevitables, 2024-08-24'
+  - 'Oral Histories: The Inevitables, 2024-09-07'
+  - 'Oral Histories: The Inevitables, 2024-09-14'
+  - 'Oral Histories: The Inevitables, 2024-09-25'
+  - 'Oral Histories: The Inevitables, 2024-10-11'
+  - 'Oral Histories: The Inevitables, 2024-10-25'
+  - 'Oral Histories: The Inevitables, 2024-10-26'
+  - 'Oral Histories: The Inevitables, 2024-11-02'
+  - 'Oral Histories: The Inevitables, 2024-11-07'
+  - 'Oral Histories: The Inevitables, 2024-11-08'
+  - 'Oral Histories: The Inevitables, 2024-11-09'
+  - 'Oral Histories: The Inevitables, 2024-11-10'
+  - 'Oral Histories: The Inevitables, 2024-11-17'
+  - 'Oral Histories: The Inevitables, 2024-11-22'
+  - 'Oral Histories: The Inevitables, 2024-12-07'
+  - 'Oral Histories: The Inevitables, 2024-12-13'
+  - 'Oral Histories: The Inevitables, 2025-01-03'
+  - 'Oral Histories: The Inevitables, 2025-01-18'
+  - 'Oral Histories: The Inevitables, 2025-01-25'
+  - 'Oral Histories: The Inevitables, 2025-02-28'
+  - 'Oral Histories: The Inevitables, 2025-04-04'
+  - 'Oral Histories: The Inevitables, 2025-04-06'
+  - 'Oral Histories: The Inevitables, 2025-04-07'
+  - 'Oral Histories: The Inevitables, 2025-05-18'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
+  - 'The Starsong Awakens site (JL Byrd): Home'
+  - 'The Starsong Awakens site (JL Byrd): New allies'
+  - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - 'The Starsong Awakens site (JL Byrd): New robots'
+  - 'The Starsong Awakens site (JL Byrd): Red Eye Manifesto'
+  - 'The Starsong Awakens site (JL Byrd): The Rock of Bral'
+  - 'The Starsong Awakens site (JL Byrd): New ships'
+  - 'The Starsong Awakens site (JL Byrd): New playable race'
+  - 'The Starsong Awakens site (JL Byrd): New backgrounds'
+  - 'The Starsong Awakens site (JL Byrd): New magic items'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 published: '2026-09-14'
 gallery:
-- src: /images/starsong/ldr-n.webp
-  alt: "LDR-N"
-  caption: "LDR-N (Eldrin), one of the new allies"
-- src: /images/starsong/rn-hrt.webp
-  alt: "RN-HRT"
-  caption: "RN-HRT (Ironheart), one of the new allies"
-- src: /images/chat/2024-06-18-1685086462262365.webp
-  alt: "Old Barrias with a mechanical arm"
-  caption: "A bald, bearded old man with an eyepatch and a mechanical arm sits in a cluttered steampunk workshop with a bottle of red liquid."
-- src: /images/chat/2024-06-19-1831522640659993.webp
-  alt: "Old Jim miniature"
-  caption: "A HeroForge miniature of a grey-haired, moustached old man with an eyepatch, an open vest and fingerless gloves."
-- src: /images/chat/2024-07-12-842604574065396.webp
-  alt: "Ragnar XII"
-  caption: "A handout card shows a ship before a vast planet, titled Ragnar XII, a banking and commerce world in the Abbathor System."
-- src: /images/chat/2024-10-26-1786087512129249.webp
-  alt: "The Five Zanzibars"
-  caption: "TaleSpire capture of five character miniatures, including a crowned king and a sword-bearing warrior, on a red-lit floor."
-- src: /images/chat/2025-02-28-1342113986929254.webp
-  alt: "Terminator robot background"
-  caption: "Handout card for the Terminator robot background showing a red-crested armoured robot beside its traits, including +1 AC and psychic immunity."
+  - src: /images/starsong/ldr-n.webp
+    alt: LDR-N
+    caption: LDR-N (Eldrin), one of the new allies
+  - src: /images/starsong/rn-hrt.webp
+    alt: RN-HRT
+    caption: RN-HRT (Ironheart), one of the new allies
+  - src: /images/chat/2024-06-18-1685086462262365.webp
+    alt: Old Barrias with a mechanical arm
+    caption: A bald, bearded old man with an eyepatch and a mechanical arm sits in a cluttered steampunk workshop with a bottle of red liquid.
+  - src: /images/chat/2024-06-19-1831522640659993.webp
+    alt: Old Jim miniature
+    caption: A HeroForge miniature of a grey-haired, moustached old man with an eyepatch, an open vest and fingerless gloves.
+  - src: /images/chat/2024-07-12-842604574065396.webp
+    alt: Ragnar XII
+    caption: A handout card shows a ship before a vast planet, titled Ragnar XII, a banking and commerce world in the Abbathor System.
+  - src: /images/chat/2024-10-26-1786087512129249.webp
+    alt: The Five Zanzibars
+    caption: TaleSpire capture of five character miniatures, including a crowned king and a sword-bearing warrior, on a red-lit floor.
+  - src: /images/chat/2025-02-28-1342113986929254.webp
+    alt: Terminator robot background
+    caption: Handout card for the Terminator robot background showing a red-crested armoured robot beside its traits, including +1 AC and psychic immunity.
 ---
 
 **Campaign arc · [Starfall: TNG](/lore/starfall-the-next-generation/) · DM JL · 2024–2025 · Fifteen years after *Light of Xaryxis***
