@@ -108,6 +108,12 @@ sources:
 - 'Oral Histories: The Inevitables, 2024-06-02'
 - 'Oral Histories: The Inevitables, 2024-06-09'
 - 'The Starsong Awakens site (JL Byrd): Home'
+- 'JL''s DM notes: Starfall Notes - Hermes 1st appearance session'
+- 'JL''s DM notes: Starfall Notes - The Company - Holly Berrias Session'
+- 'JL''s DM notes: Starfall Notes - The Trouble with Wishes'
+- 'JL''s DM notes: Starfall Notes - Barrias'' Nightmare session'
+- 'Oral Histories: The Inevitables, 2023-08-12'
+- sources/dave/2026-09-28-starfall-jl-nico-answers.md
 published: '2026-09-14'
 gallery:
 - src: /images/documents/ssj-zanzibar-crew-roster.webp
@@ -143,13 +149,15 @@ Over three sessions in November 2022 a mind flayer in a lair on a rock infested 
 
 ### Below Decks, the paradise world and the Shrike
 
-On 9 December the level-1 crew, among them Mordecai, [Se7en](/people/se7en/) and [Forbes of-the-Smelly-Swamp](/people/forbes-of-the-smelly-swamp/), had an episode below decks, which JL had planned as a card game. <small>(Oral Histories: The Inevitables, 2022-12-07; 2022-12-10)</small> On a small paradise world a week later Jim ordered the Zanzibar to leave, but he passed on his duress code, so the crew defied the order and turned hostile to rescue the party. <small>(Oral Histories: The Inevitables, 2022-12-18)</small> On 30 December JL ran an episode about the old flame of [Barrias Ruby-Eye](/people/barrias-ruby-eye/), which introduced the Iridium Complicator. <small>(Oral Histories: The Inevitables, 2022-12-31)</small>
+On 9 December the level-1 crew, among them Mordecai, [Se7en](/people/se7en/) and [Forbes of-the-Smelly-Swamp](/people/forbes-of-the-smelly-swamp/), had an episode below decks, which JL had planned as a card game. <small>(Oral Histories: The Inevitables, 2022-12-07; 2022-12-10)</small> The dealer was the trickster god [Hermes](/people/hermes/), who carried them to the Citadel to stand trial for their civilization; see [the Citadel trial](/history/the-citadel-trial/). <small>(JL's DM notes: Starfall Notes - Hermes 1st appearance session)</small> On a small paradise world a week later Jim ordered the Zanzibar to leave, but he passed on his duress code, so the crew defied the order and turned hostile to rescue the party. <small>(Oral Histories: The Inevitables, 2022-12-18)</small> On 30 December JL ran an episode about the old flame of [Barrias Ruby-Eye](/people/barrias-ruby-eye/), which introduced the Iridium Complicator. <small>(Oral Histories: The Inevitables, 2022-12-31)</small> At his sister [Halle Barrias](/people/halle-barrias/)'s Life Day party in the Crystal Tower on [Kamino](/places/kamino/), where his old flame ran the cloning facility, astral-elf militants of the Radiant Visage took the guests hostage; see [the Kamino hostage crisis](/history/the-kamino-hostage-crisis/). <small>(JL's DM notes: Starfall Notes - The Company - Holly Berrias Session)</small>
 
 On 7 January 2023 Dave ran a horror episode in which the crew first met the Shrike. It proved very hard to damage and very deadly, and the party retreated. <small>(Oral Histories: The Inevitables, 2023-01-08)</small>
 
 ### The Drumhead
 
 The episode of 20 January 2023 adapted "The Drumhead" from *Star Trek: The Next Generation*. It grew out of a thread between Smallberries and [Princess Xedalli](/people/princess-xedalli/). An engineer was killed in a blast and Carlos was suspected; [Irina Malikovsky](/people/irina-malikovsky/), pulled in when [Buttsack](/people/buttsack/) searched the crew's lockers, witnessed for his innocence. <small>(Oral Histories: The Inevitables, 2023-01-21; 2023-01-22)</small> A week later Dave issued the crew roster of the Zanzibar, on which Carlos is a cadet. <small>(Oral Histories: The Inevitables, 2023-01-27)</small>
+
+For his help after the engine explosion Carlos was moved to the arcane division as a janitor under [Dr. Nilpferd](/people/dr-nilpferd/), whom JL had introduced as "Carlos' new boss". There a Chingwa's *wish* began to fill the ship with gold and mushrooms while Barrias, Caprica and Nilpferd went aboard the deep-space station [the Cube](/places/the-cube/) to find the legal expert [MacFlecknoe](/people/macflecknoe/); see [the Chingwa's wish](/history/the-chingwas-wish/). <small>(Oral Histories: The Inevitables, 2023-01-22; JL's DM notes: Starfall Notes - The Trouble with Wishes)</small>
 
 ### The Academy and the race
 
@@ -173,7 +181,7 @@ The season premiere on 9 June 2023 was a character episode, almost all Jim and C
 >
 > <small>— the English of the invocation. (Oral Histories: The Inevitables, 2023-06-23)</small>
 
-No sessions were played in July. <small>(Oral Histories: The Inevitables, 2023-07-20)</small> In August JL ran an episode that ended with Barrias unsure whether a lich had cast the wish that saved [Tillamook](/people/tillamook/), the boy Jim had believed dead at Negroni Prime. <small>(Oral Histories: The Inevitables, 2023-08-11; 2024-03-08)</small> The crew then held a memorial for [Negroni Prime](/places/negroni-prime/) and returned to the Zanzibar with the prophet, Tillamook, who had become the prophet of terrorists following the Beholder great mother. <small>(Oral Histories: The Inevitables, 2023-08-18; 2023-08-25; 2024-03-08)</small>
+No sessions were played in July. <small>(Oral Histories: The Inevitables, 2023-07-20)</small> In August JL ran an episode that ended with Barrias unsure whether a lich had cast the wish that saved [Tillamook](/people/tillamook/), the boy Jim had believed dead at Negroni Prime. <small>(Oral Histories: The Inevitables, 2023-08-11; 2024-03-08)</small> It finished the story of [the Chingwa's wish](/history/the-chingwas-wish/), and Barrias relived the Battle of Negroni Prime in a nightmare; Dave: "I love that we went from whiz bang sci-fi to exploring our characters trauma" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2023-08-12; JL's DM notes: Starfall Notes - Barrias' Nightmare session)</small> The crew then held a memorial for [Negroni Prime](/places/negroni-prime/) and returned to the Zanzibar with the prophet, Tillamook, who had become the prophet of terrorists following the Beholder great mother. <small>(Oral Histories: The Inevitables, 2023-08-18; 2023-08-25; 2024-03-08)</small>
 
 ### The Lexicon and the B Team
 
