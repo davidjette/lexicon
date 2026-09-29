@@ -19,6 +19,8 @@ tags:
   - Light of Xaryxis
   - The Starsong Awakens
   - Katrina McQuaid Memorial Prison
+  - the Time Tombs
+  - Necis
 image:
   src: /images/uploads/katrina-mcquaid-onboard-the-ssj-zanzibar-mu33h9f5.webp
   alt: Captain Katrina McQuaid
@@ -48,6 +50,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-01'
   - 'Oral Histories: The Inevitables, 2024-06-11'
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - 'JL''s DM notes: Starfall Awakens Notes'
 gallery:
   - src: /images/chat/2024-05-03-1494683397801553.webp
     alt: Grey Cloak Catrina miniature
@@ -103,6 +106,10 @@ After the finale her player joked that she was probably now a super zombie robot
 By the time of *The Starsong Awakens*, fifteen years later, Katrina is dead. The Company's dossier for the mission names the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center in her memory. <small>(Oral Histories: The Inevitables, 2024-06-11)</small>
 
 The dossier describes [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/) as a massive prison complex in Shadowspace, active and at maximum capacity. It houses prisoner LL9807, [Large Luigi](/people/large-luigi/), whom the dossier calls "the traitor of the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/)". <small>(The Starsong Awakens site, Company dossier)</small>
+
+### The Time Tombs
+
+On 4 April 2025 the session at the Sphinx Tomb brought in Katrina. <small>(Oral Histories: The Inevitables, 2025-04-04)</small> In the Pyramid among [the Time Tombs](/places/the-time-tombs/) of [Necis](/places/necis/), [Horgus](/people/horgus-simianis/) introduced [Paytra](/people/paytra/) and [Kol Hanaka](/people/kol-hanaka/) to his wife: a shambling hulk stitched together from different bodies, with the head of a tabaxi, the arms of an elf and huge orcish thighs, stumbling out of the shadows. "Katrina darling. Should we have our new guests over for supper?" Horgus had rebuilt her using the astral elven form of [Caprica](/people/caprica/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
