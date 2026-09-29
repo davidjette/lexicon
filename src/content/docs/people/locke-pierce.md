@@ -14,6 +14,10 @@ tags:
   - Mournlands
   - Ruby Nova
   - Mt. Silicon
+  - LK-PRC
+  - Lick Price
+  - Knife Sprinters
+  - DR4MB
 image:
   src: /images/site/locke-pierce-1.webp
   alt: Locke Pierce
@@ -52,6 +56,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-07-04'
   - 'Oral Histories: The Inevitables, 2026-08-11'
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
+  - "sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md"
 published: '2026-09-10'
 wa:
   slug: locke-pierce-person
@@ -109,6 +115,16 @@ In the basement of the Rekkenmark, in a standoff with [Esther Crona](/people/est
 Hayman Maw allowed him to keep working at Rekkenmark East under Esther Crona’s supervision on one condition: notify Maw the instant the records cracked, and say absolutely nothing to Esther if anything about [Varyn Crona](/people/varyn-crona/) turned up.
 
 <small>Locke uncovered info about his past, not shared with the group.</small>
+
+## Unit LK-PRC
+
+The binary order found on his would-be assassin gave Locke's designation as **LK-PRC** and declared him due for decommissioning. The Knife Sprinters, the Cyrean warforged who hunted obsolete units, had been run by the same machine that sent Radd Orgasm, [DR4MB](/items/dr4mb/). <small>(JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank)</small>
+
+LK-PRC was first built as a prototype in Cyre about 175 years before the Rekkenmark, before the Last War. After testing, Cyre's scientists decided not to put it into mass production, because of instabilities in its programming: willful, obstinate, contrarian, prone to rash decision-making, of questionable loyalty. His memory has been wiped five times. He fought for Cyre against the Karrnathi invaders in the Last War and was decorated for meritorious service, and was later captured with a train of Cyrean warforged and sold to a pirate lord in the Lhazaar Principalities. <small>(JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank; sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
+
+He has a sister unit that still functions in the Mournlands, **Lick Price**, reprogrammed as a pleasure unit. <small>(JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank; sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
+
+Radd Orgasm, the R-0 unit who tried to kill him, had studied for the same degree at the academy, washed out and disappeared. Professor Marble, turned vampire, told Locke that he existed only because someone else had given their soul, and asked who they had been; that is her claim. <small>(JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank; sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
 
 ## Public and private
 
