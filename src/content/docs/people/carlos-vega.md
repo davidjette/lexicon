@@ -14,6 +14,11 @@ tags:
   - Light of Xaryxis
   - The Starsong Awakens
   - SSJ Zanzibar
+  - Picon
+  - Hermes
+  - Korbos
+  - Mount Celestia
+  - the Chingwa
 image:
   src: /images/uploads/carlos-vega-onboard-the-ssj-zanzibar-lig-mu390z64.webp
   alt: AI portrait of Carlos Vega
@@ -66,6 +71,9 @@ sources:
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - 'JL''s DM notes: The Trouble with Wishes'
 gallery:
   - src: /images/chat/2023-01-27-3171756136457042.webp
     alt: Carlos Vega in cadet uniform
@@ -117,6 +125,8 @@ Afterwards [Sandy](/people/hyperion-tidzan-dassiya/) brought Carlos to security 
 
 In January 2023, in an adaptation of the *Star Trek* episode "The Drumhead", an engineer was killed in a blast and Carlos was suspected. Irina Malikovsky was drawn in when Buttsack had crew lockers tossed, and she witnessed for Carlos's innocence. <small>(Oral Histories: The Inevitables, 2023-01-22)</small> The same week [Dr. Nilpferd](/people/dr-nilpferd/), the Zanzibar's Magus ex Machina and a wizard of the Order of Scribes, became Carlos's new boss. <small>(Oral Histories: The Inevitables, 2023-01-22)</small> The crew roster lists **Cadet Carlos Vega** among the Civilians and Guests. <small>(Desktop/D&D/Starfall TNG/970900243884499.pdf; Oral Histories: The Inevitables, 2023-01-27)</small>
 
+In recognition of his help with the engine explosion aboard the Zanzibar, the captain reassigned Carlos to the ship's arcane sector: from busboy to janitor, cleaning the arcane laboratory under Ensign [Forbes of-the-Smelly-Swamp](/people/forbes-of-the-smelly-swamp/), who reported to [Dr. Nilpferd](/people/dr-nilpferd/). There a Chingwa in a terrarium asked him, in his mind, for his favourite thing, and he answered gold. See [the Chingwa's wish](/history/the-chingwas-wish/). <small>(JL's DM notes: The Trouble with Wishes)</small>
+
 In May 2023 Carlos won the party the human faction by cheating at cards; sleight of hand is his best skill. <small>(Oral Histories: The Inevitables, 2023-05-15)</small> In June 2023 he became a bladesinger. <small>(Oral Histories: The Inevitables, 2023-06-03)</small> The season premiere of 2023-06-09 reassigned him to a security post, and his new uniform matched the colours of [Chad "Kreen" Mantis](/people/chad-kreen-mantis/). Dave called him a bladesinger with a Walkman. <small>(Oral Histories: The Inevitables, 2023-06-10, 2023-06-14)</small>
 
 ### Irina and Razomel
@@ -139,11 +149,29 @@ Carlos's wish scattered the crew of the Zanzibar all over the place without warn
 
 ## The Starsong Awakens
 
-Fifteen years later Buttsack, paralysed after a sportsball career with the Khorvaire Kestrals, had retreated to an isolated Githzerai temple in the outer planes to focus on inner peace, meditation "and the true meaning of the mysterious bottle he carries with him." <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Carlos spent those years in the bottle. By November 2024 he was back in play. <small>(Oral Histories: The Inevitables, 2024-11-22)</small> How he came out of the bottle is unknown.
+Fifteen years later Buttsack, paralysed after a sportsball career with the Khorvaire Kestrals, had retreated to an isolated Githzerai temple, on the Plane of Elemental Chaos, to focus on inner peace, meditation "and the true meaning of the mysterious bottle he carries with him." <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Carlos spent those years in the bottle. By November 2024 he was back in play. <small>(Oral Histories: The Inevitables, 2024-11-22)</small> How he came out of the bottle is unknown.
 
 The [Company](/organizations/nimbus-corp/)'s dossier lists Carlos Vega as deceased, and reports that Buttsack "entertains fantasies of communing with the spirit of his crewmate from the SSJ Zanzibar". <small>(The Starsong Awakens site, Company dossier)</small>
 
 In January 2025 Carlos and Barrias Ruby-Eye, an unlikely pairing in JL's words, went back to Picon to continue the search for Caprica. <small>(Oral Histories: The Inevitables, 2025-01-18)</small>
+
+### Razomel's court
+
+Aboard the crew's nautiloid [Jim Smallberries](/people/captain-jim-smallberries/) cried "Carlos, Carlos, I wish you were here with me right now," and collapsed into a coma. Inside Carlos's bottle, the genie [Razomel](/people/razomel/) held court on him:
+
+> "Carlos, Carlos, Carlos. You are indeed a most pathetic genie."
+
+<small>— Razomel, inside the bottle.</small>
+
+Razomel sentenced him to a thousand years of pain and punishment in the Lake of Fire. Carlos had been tasked with finding a mortal and using the power of wish to subvert their will, and had gone adventuring instead. In his absence Razomel had met Carlos's friend Smallberries, "or… Longberries", and granted him three wishes: wine, song, and to be with a woman he once knew, forever. The third left Jim adrift in the Astral Plane. Razomel offered a bargain: if Carlos found his friend within a week, Razomel would sign a notice declaring him the greatest genie of all time. But first Carlos had to best him in a lovemaking challenge, on terms Carlos would name. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+### Picon
+
+On [Picon](/places/picon/) the night hag Luna, disguised as a wounded elf girl, warned [Barrias](/people/barrias-ruby-eye/) that Carlos was not a man but "a creature beyond understanding". At the Righteous Pass the statues judged Carlos "slothful and vain", and in his trial of selflessness a fairy took him back into the bottle wearing the face of Irina and accused him of loving only himself. Three Carloses from different times came against him: the original Carlos, a wizard Carlos and a genie Carlos. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+### Hermes' ward
+
+Carlos then found himself atop a lush mountain high among the clouds, before a dais of twelve imperious figures in togas, presided over by Ao. "Are you a god?" Ao asked him, and judged: "A god you are not, yet neither are you a mortal man. And still you ventured into the forbidden place." [Hermes](/people/hermes/) claimed him, as "Korbos or something", as his ward on a mission to stop the mortals below from undoing time, and Ao let it be. "Stick with me Korbos… and you'll be a god in no time." <small>(JL's DM notes: Starfall Awakens Notes)</small> In the final session Carlos floated invisibly with Hermes above [the Sphinx Tomb](/places/the-sphinx-tomb/), where Hermes locked the travellers in. <small>(JL's DM notes: Starfall Awakens Notes; sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small>
 
 ## Abilities and equipment
 
