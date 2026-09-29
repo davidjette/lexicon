@@ -49,6 +49,7 @@ fields:
   weight: 180 lb
   status: Dead; her tomb lies beneath the sea off Saltmarsh
 sources:
+  - "JL's DM notes: Slatmarsh: Greyhawk sessions"
   - sources/documents/2026-09-14-dolores-weathervein-concept.md
   - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051, IMG_3056)
@@ -153,6 +154,8 @@ In November 2021 Nico wrote: "I am so tempted to take a lvl of hexblade if I fin
 On Gabriella's honeymoon the party ran down Skerrin, who had fled Saltmarsh with the sword, and killed him on 2022-03-12. JL, the DM: "XP: 2750 for SKERRIN, 100 for Gabby for finding Weathervein. 500 Dolores for achieving her destiny." Dave: "I’m sure your hexblade master will be way less demanding". <small>(Oral Histories: The Inevitables, 2022-03-12)</small>
 
 Weathervein became her patron. Dave: "Since you’re a hexblade and your master IS Weathervein". He ruled that the sword bends the Pact of the Blade rule for artifacts by its own choice: "So you couldn’t dismiss it without it’s will to do so". It comes to her hand instantly, a precedent from the ring and from Wave. Nico: "potb would work with weathervien, so I took another lvl in sorcerer." <small>(sic; Oral Histories: The Inevitables, 2022-08-14, 2022-08-19)</small>
+
+In the caravan on the frontier a teamster named Willy asked Dolores whether a priestess of Neptune could marry, and pressed that she was awfully pretty. Willy was [Skerrin Wavechaser](/people/skerrin-wavechaser/) in disguise; unmasked, he knelt, offered her the sword, and asked her to marry him and rule Saltmarsh with him. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> Back in Saltmarsh, an agent of the dwarven mining magnate Copperlocks slipped Dolores a note asking for a meeting of minds. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
 
 ## White Plume Mountain
 
