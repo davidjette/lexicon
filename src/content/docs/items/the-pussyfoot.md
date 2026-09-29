@@ -1,9 +1,6 @@
 ---
 title: The Pussyfoot
 description: An illithid nautiloid dug from beneath the Rock of Bral, stolen by Barrias Ruby-Eye's crew and named by Buttsack after his mother.
-type: item
-kind: items
-icon: fa-rocket
 tags:
   - The Pussyfoot
   - Pussyfoot
@@ -17,6 +14,11 @@ tags:
   - the Sphinx Tomb
   - Starfall
   - The Starsong Awakens
+image:
+  src: /images/uploads/the-pussyfoot-the-starsong-awakens-mun099qq.webp
+type: item
+kind: items
+icon: fa-rocket
 fields:
   type: Spelljamming vessel; mind flayer nautiloid
   creator: Mind flayers
@@ -26,10 +28,10 @@ fields:
   condition: Unknown
   status: Unknown
 sources:
-  - "JL's DM notes: Starfall Awakens Notes"
-  - "Oral Histories: The Inevitables, 2025-05-23"
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - 'Oral Histories: The Inevitables, 2025-05-23'
   - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-  - "The Starsong Awakens site (JL Byrd): The Rock of Bral"
+  - 'The Starsong Awakens site (JL Byrd): The Rock of Bral'
 ---
 
 **Mind flayer nautiloid · Stolen from [the Rock of Bral](/places/the-rock-of-bral/) · *The Starsong Awakens***
