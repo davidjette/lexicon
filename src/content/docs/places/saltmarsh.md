@@ -36,6 +36,11 @@ tags:
 - Euryale
 - Medusa
 - Dead Man's Hand
+- Crabber's Cove
+- Wicker Goat
+- Snapping Line
+- Empty Net
+- Copperlocks
 icon: fa-anchor
 fields:
   type: Seaside town
@@ -47,6 +52,9 @@ fields:
   status: Temple of Neptune desecrated; a bounty on Gabriella Hellwood
   includedLocations: The Temple of Neptune and its courtyard fountain; the town square; Xendros's shop; the shore; the whirlpool over the hidden temple of Neptune; the tomb of Dolores Weathervein; the Weathervein tomb beneath the temple; the dwarves' temple to Moradin
 sources:
+- "JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella"
+- "JL's DM notes: Slatmarsh: Greyhawk sessions"
+- sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2979, IMG_3004, IMG_3009, IMG_3049, IMG_3050, IMG_3051, IMG_3052, IMG_3053)
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
 - sources/dave/2026-09-14-dead-mans-hand-names.md
@@ -93,6 +101,18 @@ Dave on the town's politics: the sahuagin were "the main book plot", and the rea
 **[Anders Solmor](/people/anders-solmor/)** wooed Dolores Weathervein and suggested she be appointed a special religious delegate to the council, with a vote in town affairs. He compared her to his mother, Petra, blamed the Sea Princes for her death, and hoped Neptune would support an independent Saltmarsh "dedicated to freedom and trade". <small>(Oral Histories: The Inevitables, 2021-11-13)</small> **Salmor** owned PW's house; Dave: "it's PW's house, owned by Salmoor, formerly Sanbalet's smuggling hideout". <small>(Oral Histories: The Inevitables, 2021-11-03)</small>. In January 2022 "Salmor is gone and they want to forfeit his stuff" <small>(Oral Histories: The Inevitables, 2022-01-08)</small>; that April Dave said "Salmor is here to stop the Weathervein from rising again" and "now the Salmoors own the land around here". <small>(Oral Histories: The Inevitables, 2022-04-23)</small> The party sneaked back into Saltmarsh and killed Salmor at the end of June 2022. <small>(Oral Histories: The Inevitables, 2022-06-30; 2022-07-01)</small> Anders survived the finale: Dave "rolled him up", and "Anders wants to be your little cabin boy"; Nico: "And he has his daddy’s ring." <small>(Oral Histories: The Inevitables, 2022-07-10)</small> Dave later called him "Dread Pirate Anders". <small>(Oral Histories: The Inevitables, 2022-09-16)</small>
 
 In the sahuagin attack the party saved the town's dwarves and the imperial mining operation. Dave: "The people we really saved were the dwarves and imperial mining operation". <small>(Oral Histories: The Inevitables, 2022-07-01)</small>
+
+### The harbor and the taverns
+
+In the second party's first days, three adventurers, a half-elf wizard and two blue-skinned pirates, were found mutilated at the harbor, the third such murder in as many weeks. A guard told the crowd that too many of the guard corps belonged to the Scarlet Brotherhood for the murders to be investigated. Xendros, at the Mariner's Guild Hall, had lately seen a scarred woman named Glokta, once a Brotherhood assassin, near Crabber's Cove, a quarter of abandoned buildings where the vampire Xolec was trapped. Riggs and Murtaugh kept a badly damaged ship docked nearby. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small>
+
+Three factions each kept a tavern: the loyalists under [Anders Solmor](/people/anders-solmor/) at the Wicker Goat, the assassins under [Skerrin Wavechaser](/people/skerrin-wavechaser/) at the Snapping Line, and the traditionalists under [Gellen Primewater](/people/gellen-primewater/) at the Empty Net. The town's wealth came from the dwarves' silver mine on [Ratcatcher](/places/ratcatcher/), run by the dwarven mining magnate Manistrad Copperlocks. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small>
+
+### The Duke and the mines
+
+In April 2022 [Alexander Solmor](/people/alexander-solmor/), the Duke of Dreadwood, returned to his council seat. Copperlocks confessed to the party that she had sunk his ship ten years before: an agent of [the Rising Dawn](/organizations/the-rising-dawn/) on the trail of the Brotherhood's high father, she had found him in the Duke and planted a bomb aboard. The Brotherhood was after [the Eldabrin](/lore/the-eldabrin/), a source of power beneath the mines, and the sahuagin invasion was a ruse to mask it. Some of the mine's dwarves were loyal to Copperlocks and the Dawn; others secretly served the Brotherhood. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> <small>(sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
+
+While the party was away the Temple of Neptune fell into disorder, and a youth gang, [the Starfish](/organizations/the-starfish/), took up residence in Crabber's Cove. Brother Steve, a priest of Chauntea whom the party brought home from the honeymoon, settled in a farmhouse outside town with the Greenblatt orphans. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
 
 ### The two Weathervein tombs
 
@@ -151,6 +171,10 @@ The symbol of the Company's Metallurgy, Ores, Oxides and Nano Materials Departme
 **The whirlpool:** over the hidden temple of Neptune.\
 **The Weathervein tomb:** beneath the Temple of Neptune, the tomb of Count Crestus, Amphibiana and [Vivica](/people/vivica-amphibiana-weathervein/).\
 **The dwarven temple:** the dwarves' temple to Moradin.\
+**The Wicker Goat, the Snapping Line and the Empty Net:** the taverns of the loyalists, the assassins and the traditionalists.\
+**Crabber's Cove:** abandoned buildings by the harbor; later the Starfish's den.\
+**The Mariner's Guild Hall:** where Xendros was found.\
+**Brother Steve's farmhouse:** outside town.\
 **The tomb of Dolores Weathervein:** on the sea floor, where Aqueus lies pinned by Weathervein.\
 **The Blackfish:** Gabriella Hellwood's ship.
 
