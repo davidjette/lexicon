@@ -15,6 +15,8 @@ tags:
   - Starfall
   - Light of Xaryxis
   - The Starsong Awakens
+  - Neecis
+  - Project Paradox Dawn
 image:
   src: /images/uploads/necis-remnants-of-the-time-tombs-1-mu6jskw7.webp
   alt: The remnants of Necis
@@ -45,11 +47,12 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-01-12'
   - 'Oral Histories: The Inevitables, 2025-02-28'
   - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
+  - 'JL''s DM notes: Starfall Awakens Notes'
 ---
 
 **Planet · Erased from the Lexicon · Site of the Time Tombs · Destroyed**
 
-*Also known as:* Necis 1 · Neesus (JL)
+*Also known as:* Necis 1 · Neesus · Neecis (JL)
 
 **Necis** is a planet, now destroyed, whose remnants are where [the Time Tombs](/places/the-time-tombs/) stood, where [the Shrike](/lore/the-shrike/) originated, and where the climax of [Starfall: TNG](/lore/starfall-the-next-generation/) happened, at the end of both [Light of Xaryxis](/history/light-of-xaryxis/) and [The Starsong Awakens](/history/the-starsong-awakens/). <small>(sources/dave/2026-09-14-starfall-necis.md)</small> The world had been erased from [the Lexicon](/items/the-lexicon/). [Caprica](/people/caprica/) followed the star song there and brought [Captain Jim Smallberries](/people/captain-jim-smallberries/) and Sandy with her, and the three crossed it on [the Shrike pilgrimage](/history/the-shrike-pilgrimage/) to the Time Tombs. The crew of *The Starsong Awakens* returned to Necis fifteen years later. When and how it was destroyed is unknown.
 
@@ -74,6 +77,8 @@ Dave has said that Sandy would carry the memory of what happened on Necis, with 
 ### The Starsong Awakens
 
 In *The Starsong Awakens* the characters went back to Necis on 2025-02-28, in a session that included a hologram to "Neesus". <small>(Oral Histories: The Inevitables, 2025-02-28)</small> Weld's notes also record Necis. <small>(character sheet)</small>
+
+Necis lay 9,990 parsecs from the planet Maysee, beyond the reach of any ship without a Far Caster or a nautiloid; the crew seized [the Terrasque](/items/the-terrasque/) because it could make the crossing without phlogiston. <small>(JL's DM notes: Starfall Awakens Notes)</small> [Nine](/people/nine/), the Red Eye, came to Necis trying to commune again with the banned and vanished Lexicon. <small>(Dave, sources/dave/2026-09-28-the-red-eye.md)</small> When the Terrasque arrived where Necis should have been, there was nothing but rubble: the planet was missing, and no one knew what had happened to it. Among the remnants stood the Time Tombs, six in number, and the crew split up to explore them. See [the Time Tombs](/places/the-time-tombs/) and [the Sphinx Tomb](/places/the-sphinx-tomb/), which legend called the birthplace of the Lexicon. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Places of interest
 
