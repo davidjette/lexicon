@@ -11,8 +11,6 @@ tags:
   - hippo
   - SSJ Zanzibar
   - Carlos Vega
-  - Schnuptfabak
-  - Schnuppy
   - Starfall
   - Light of Xaryxis
 image:
@@ -28,7 +26,6 @@ fields:
   age: About 90 in Light of Xaryxis
   height: Over 6 ft
   weight: About 900 lb
-  children: Schnuptfabak ("Schnuppy"), a biological clone of him
   status: Dead
 sources:
   - 'Oral Histories: The Inevitables, 2023-01-22'
@@ -71,4 +68,4 @@ When a Chingwa's *wish* began to fill the ship with gold and mushrooms, Carlos w
 
 ## Death
 
-Dr. Nilpferd died peacefully in his sleep after a prolonged illness, surrounded by loved ones. Among them was his young daughter Schnuptfabak, a biological clone of him who has developed preternatural skills in the arcane and goes by Schnuppy. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+Dr. Nilpferd died peacefully in his sleep after a prolonged illness, surrounded by loved ones. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
