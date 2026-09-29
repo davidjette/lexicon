@@ -19,6 +19,9 @@ tags:
 - Dolores Weathervein
 - Gabriella Hellwood
 - Alexander
+- Willy
+- Myron
+- Snapping Line
 icon: fa-user-secret
 fields:
   rpgAlignment: Unknown
@@ -37,6 +40,9 @@ fields:
   weight: Unknown
   status: Dead
 sources:
+- "JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella"
+- "JL's DM notes: Slatmarsh: Greyhawk sessions"
+- sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
 - sources/dave/2026-09-14-oral-histories-cast.md
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 - "Oral Histories: The Inevitables, 2021-09-10"
@@ -57,6 +63,12 @@ published: '2026-09-14'
 **Saltmarsh, Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Enemy of [Neptune's Rejects](/organizations/neptunes-rejects/) · Dead**
 
 Skerrin Wavechaser was a man of [Saltmarsh](/places/saltmarsh/) in the campaign Ghosts of Twatmarsh. He did the party Neptune's Rejects a favor after their arrest, and then, after they captured the [*Stinking Albatross*](/items/the-stinking-albatross/) and won a naval commission from the town council, he questioned them over the disappearance of two men, led them to the Weathervein tomb at night and ambushed them there with [Brotherhood](/organizations/the-scarlet-brotherhood/) assassins. The party survived. Skerrin fled Saltmarsh with the sword [Weathervein](/items/weathervein/), and on the adventure called Gabriella's honeymoon the party tracked him through a gnome inn and a caravan and killed him, and [Dolores Weathervein](/people/dolores-weathervein/) recovered the sword.
+
+## The prison transport
+
+Before the second party reached Saltmarsh, the Scarlet Brotherhood attacked the prisoner transport carrying Gabriella Hellwood and Scrunt Pissfoot. Skerrin and two assassins slipped aboard to silence a member of their own order before he could testify against them: Myron, who admitted to killing the Grand Duchess of Ahlissa by throwing a hand mortar into her carriage. Skerrin killed Myron, told the prisoners that he never left witnesses, and left them to the burning ship. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small>
+
+The party next saw him in servant's clothes at a Saltmarsh inn, standing beside a handsome young nobleman who was addressing the patrons. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small> In town he held the Snapping Line, the tavern of the assassins' faction, beside the loyalists of the Wicker Goat and the traditionalists of the Empty Net. When the party took work at the dwarves' mine on [Ratcatcher](/places/ratcatcher/), his commission was to kill the foreman, Hawaiian Coffee, who had been pushing the town's sergeant, Eliander Fireborn, to investigate the recent murders. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small>
 
 ## The favor
 
@@ -90,7 +102,7 @@ At the end of December 2021 Dave, as DM, told the party that Xendros could get t
 
 ## The hunt and his death
 
-The hunt for Skerrin ran through Gabriella's honeymoon, a frontier adventure run by JL. The party helped a gnome inn "so we could get info on skerrin" <small>(Oral Histories: The Inevitables, 2022-03-05)</small>, and went looking for him in a caravan. <small>(Oral Histories: The Inevitables, 2022-03-11)</small> On 2022-03-12 they killed him, and Dolores took Weathervein. JL's award for the session:
+The hunt for Skerrin ran through Gabriella's honeymoon, a frontier adventure run by JL. The party helped a gnome inn "so we could get info on skerrin" <small>(Oral Histories: The Inevitables, 2022-03-05)</small>, and went looking for him in a caravan. <small>(Oral Histories: The Inevitables, 2022-03-11)</small> In the caravan of [Dab Sweet](/people/dab-sweet/) Skerrin was travelling as Willy, a changeling warlock of the archfey with an assassin's skills, who asked Dolores whether a priestess of Neptune could marry. Unmasked, he kept Willy's face, apologized for the attack and for [Oshi](/people/oshi/)'s death, and offered to make it right: the sword, a marriage, and a union of the Brotherhood and the Sea Princes to rule Saltmarsh together before the Brotherhood or the sahuagin took it. By his own account he had been a young changeling on the streets of Saltmarsh when the rich man Alexander Solmor found him. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> On 2022-03-12 they killed him, and Dolores took Weathervein. JL's award for the session:
 
 > XP: 2750 for SKERRIN, 100 for Gabby for finding Weathervein. 500 Dolores for achieving her destiny.
 
@@ -103,12 +115,15 @@ Dave, as a player, recapped Skerrin's part a month later. The devil artifact dea
 **Organizations / Groups:** he ordered the Brotherhood assassins' ambush at the Weathervein tomb.\
 **Items:** [Weathervein](/items/weathervein/), which he carried out of Saltmarsh and which Dolores recovered at his death.
 
+After his death [Alexander Solmor](/people/alexander-solmor/) took a new butler in his place, Peter Stormcrow, an assassin with magical skills. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> <small>(sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
+
 ## Social
 
 **Contacts & Relations:**
 
 - **Dolores Weathervein**: he told her the history of her house and led her into the ambush; she recovered Weathervein when he died.
 - **[Gabriella Hellwood](/people/gabriella-hellwood/)**: captain of the party that killed him; awarded XP "for finding Weathervein".
-- **Alexander**, the Duke: sent him a letter.
+- **[Alexander Solmor](/people/alexander-solmor/)**, the Duke: found him as a changeling child on the streets of Saltmarsh, and sent him a letter.
+- **Myron**: a Brotherhood assassin he killed aboard the prison transport.
 - **Murtog** and **Riggs**: the men whose disappearance he questioned the party about.
 - **[Anders Solmor](/people/anders-solmor/)** and **[Aubreck Drallion](/people/aubreck-drallion/)**: the other two who approached the party after the council meeting.
