@@ -20,6 +20,7 @@ fields:
   residence: A magic bottle; free since his release
   status: Free
 sources:
+- "JL's DM notes: Starfall Awakens Notes"
 - "Oral Histories: The Inevitables, 2023-07-01"
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-06-01"
@@ -42,7 +43,18 @@ Carlos Vega and Irina were both servants of Razomel. <small>(Oral Histories: The
 
 Dave's guesses were that Razomel had probably plane-shifted to the City of Brass, and that all the bottles might be portals to the same demiplane, where Carlos is now trapped. <small>(Oral Histories: The Inevitables, 2024-04-06)</small>
 
+## The Starsong Awakens
+
+Razomel still held Carlos. Aboard the crew's nautiloid, [Jim Smallberries](/people/captain-jim-smallberries/) cried out "Carlos, Carlos, I wish you were here with me right now" and collapsed into a coma, and inside the bottle Razomel held court on Carlos:
+
+> "Carlos, Carlos, Carlos. You are indeed a most pathetic genie."
+
+<small>— Razomel, inside the bottle.</small>
+
+He sentenced Carlos to a thousand years of pain and punishment in the Lake of Fire. Carlos had been set to find a mortal and use the power of wish to subvert their will, and had gone adventuring instead. In the meantime Razomel had met Jim, "Smallberries… or… Longberries", and granted him three wishes: wine, song, and to be with a woman he once knew, forever. The third left Jim adrift in the Astral Plane. Razomel then offered Carlos a bargain, sure that he would fail: if Carlos found his friend within one week, Razomel would sign a notice declaring him the greatest genie of all time. First, though, Carlos had to best him in a lovemaking challenge, on terms Carlos would name. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 ## Relationships
 
 - **Irina Malikovsky:** bound to him by her wish, and cursed to take his place in servitude after her death.
-- **Carlos Vega:** his servant, whose third wish made Carlos a djinn and set Razomel free.
+- **Carlos Vega:** his servant, whose third wish made Carlos a djinn and set Razomel free; later sentenced by him to the Lake of Fire, then offered a one-week bargain.
+- **Jim Smallberries:** granted three wishes by Razomel; the third left him adrift in the Astral Plane.
