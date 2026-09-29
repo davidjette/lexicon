@@ -18,6 +18,8 @@ tags:
 - House of Vol
 - The Crimson Sun
 - The Unforeseen
+- Gabrielle Dwuine
+- Gabrielle Duine
 icon: fa-dove
 fields:
   rpgAlignment: Unknown
@@ -43,6 +45,8 @@ sources:
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 - sources/documents/2026-09-14-nico-evil-campaign-3.md
 - sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+- "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
+- "sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md"
 published: '2026-09-10'
 wa:
   slug: gabriel-duin-person
@@ -99,6 +103,8 @@ The hooded figure from the dreams stood with the Emperor at the top of the stair
 > "My cover stopped there, on that island where you burned my work. 7 years of infiltration and it's destroyed because you kept digging. For 7 years not a soul knew I had joined the rebellion as a spy, that I gained their trust, that I fed them information which got imperial agents and soldiers killed, you too were expendable, just bodies used to hide my cover, I can never go back as the cell I belonged to is now gone." — Gabrielle Duin
 
 > "I trained you well Uriel, perhaps too well. I do find it….. cute, that you believe your mark means anything, or perhaps Vol blood runs through your veins as it does mine, but don't let my forgiveness fool you Uriel, don't play your silly games with me. Study the undead all you wish but get in my way and you will become another body to add to my collection." — Gabrielle Duin, to Uriel Qualanthri
+
+In JL's recap of the throne room she is "Gabrielle Dwuine", the leader of "the peaceful holy order of the Black Doves": the Emperor's lover, and a woman who commanded the Unforeseen to serve her. The ultimatum left the party unsure what to do, and they spent the night at Varyn Crona's old manor in Korth before the Rekkenmark. <small>(JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank)</small>
 
 ## The Blood of Vol
 
