@@ -41,6 +41,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-02'
   - Desktop/D&D/Starfall TNG/970900243884499.pdf
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - "JL's DM notes: Starfall Awakens Notes"
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2022-11-27-848000789848715.webp
     alt: Mordecai miniature in white
@@ -78,6 +80,10 @@ After the [wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/), whether 
 Fifteen years later, by the time of *[The Starsong Awakens](/history/the-starsong-awakens/)*, Mordecai is a doctor and the chief science officer of the SSJ Excelsior. He is married to a half-orc and has three children, including his adopted daughter Vannie, a cadet at the Astral Command Academy on Toril. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
 The Company's dossier names Lt. Commander Mordecai as Executive Officer of the SSJ Vanguard, an [Istus-class clipper](/items/the-istus-cruiser/) whose Commanding Officer is Capt. Sandy Titzandassia, and whose top-secret destination is rumoured to lie anywhere from Realmspace to deep within [the Vodoni Empire](/organizations/the-vodoni-empire/). Its command crew is of special interest to the Board because both officers served with [Caprica](/people/caprica/) on the SSJ Zanzibar. <small>(The Starsong Awakens site, Company dossier)</small>
+
+### Captive on the Vanguard
+
+Followers of the Red Eye took the Vanguard, and Mordecai and Sandy were held in its brig. Questioned by the new recruits about the Lexicon, Mordecai said it was a device of, he believed, Netherese construction; that ancient Torileans put total faith in its ability to predict the future and became so addicted to it that they could not see it was not predicting the future but manipulating them toward a future it desired; and that it was destroyed at [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), when its duplicity was exposed, which he called "a rather glorious thing" that gave free will back to the galaxy. Pressed, he conceded that the Lexicon never actually went away, as far as the Sovereignty knew; it simply stopped speaking to them, and no one knew whether it was dead or had found someone else to do its dirty work. The Starsong, the "Temporarily Unknown Noise Energy" coming from [the Vodoni Empire](/organizations/the-vodoni-empire/) and devouring the phlogiston, had an atomic signature noticeably like the Astralex's. The two officers were still in the brig when the party seized [the Terrasque](/items/the-terrasque/). See [the Astralex](/lore/the-astralex/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
