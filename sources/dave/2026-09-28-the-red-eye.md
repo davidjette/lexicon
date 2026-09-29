@@ -11,3 +11,10 @@ Notes on applying it:
 - Nine led the robot resistance into open hostility with the Sovereignty and into an obsession with the banned,
   vanished Lexicon; that is why he is at Necis, trying to commune with it again.
 - This was the big reveal of the game.
+
+## How the arc was played (Dave, same conversation, verbatim)
+
+> we played the Barrias, Kol and Umwelt as three separate threads all woven together in the ending of Awakens
+
+- The Starsong Awakens ran as three threads: Barrias's (the legacy crew), Kol's (the Bureau agents in Brownsleeve
+  City) and Umwelt's (the Red Eye's recruits on the Vanguard). The three were woven together in the ending.
