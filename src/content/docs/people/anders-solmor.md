@@ -18,6 +18,8 @@ tags:
   - Neptune's Rejects
   - Dolores Weathervein
   - Sea Princes
+  - Wicker Goat
+  - Alexander Solmor
 image:
   src: /images/uploads/anders-solmor-saltmarsh-ghost-of-twatmar-mu31ti3p.webp
 type: person
@@ -40,6 +42,8 @@ fields:
   weight: Unknown
   status: Alive at the end of the Saltmarsh finale
 sources:
+  - "JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella"
+  - "JL's DM notes: Slatmarsh: Greyhawk sessions"
   - sources/dave/2026-09-14-twatmarsh-open-questions-2.md
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
   - 'Oral Histories: The Inevitables, 2021-09-17'
@@ -72,6 +76,14 @@ Nico counted Anders among those who backed the party's hold on the [Temple of Ne
 After the council meeting at which the party announced the capture of the [*Stinking Albatross*](/items/the-stinking-albatross/), three people approached them: Anders, [Skerrin Wavechaser](/people/skerrin-wavechaser/) and [Aubreck Drallion](/people/aubreck-drallion/). Anders wooed Dolores again, and suggested that she be appointed a special religious delegate to the council, giving her a vote in town affairs. He compared her glowingly to his own mother, **Petra**, "the center of his whole world and his primary example". He told her that he believed his mother's death was no accident and that the Sea Princes were responsible, and that he hoped Neptune would support the people of Saltmarsh and "enact an independent nation dedicated to freedom and trade." <small>(Oral Histories: The Inevitables, 2021-11-13)</small>
 
 Nico said of Dolores that "she’s into the idea of the council and Anders". <small>(Oral Histories: The Inevitables, 2021-12-18)</small>
+
+## The Wicker Goat
+
+Anders's faction, the loyalists, drank at the Wicker Goat. When the party took work at the dwarves' silver mine on [Ratcatcher](/places/ratcatcher/), which had made the town rich, his commission was simply to help the dwarves with their trouble. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small>
+
+## His father's return
+
+In April 2022 his father, [Alexander Solmor](/people/alexander-solmor/), came home after ten years presumed dead, and introduced Anders to his new stepmother, [Malenti](/people/malenti/). <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
 
 ## After the finale
 
@@ -114,7 +126,7 @@ The Solmors are a family of Saltmarsh. The name is spelled **Solmor**, **Salmor*
 
 - **Dolores Weathervein**: he courted her and proposed her for a council vote; he wanted to be her cabin boy.
 - **Petra**: his mother, dead; he blamed the Sea Princes.
-- **Salmor**: his father; killed by the party on 2022-06-30.
-- **Alexander**, the Duke: a Solmor.
+- **[Alexander Solmor](/people/alexander-solmor/)** (Salmor): his father; killed by the party on 2022-06-30.
+- **[Malenti](/people/malenti/)**: his father's second wife.
 - **[Gabriella Hellwood](/people/gabriella-hellwood/)**: Dave named Anders as the one to take over for her.
 - **[Garbanzo](/people/garbanzo/)**: Gabriella's wife, pictured with him on a "Double date".
