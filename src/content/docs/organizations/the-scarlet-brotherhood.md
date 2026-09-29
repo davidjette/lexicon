@@ -23,6 +23,9 @@ tags:
 - Saltmarsh
 - Oerth
 - Ghosts of Twatmarsh
+- Myron
+- Alexander Solmor
+- Malenti
 icon: fa-user-secret
 fields:
   type: Secret society of assassins
@@ -30,6 +33,9 @@ fields:
   leader: Unknown
   status: Every named member killed by Neptune's Rejects
 sources:
+- "JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella"
+- "JL's DM notes: Slatmarsh: Greyhawk sessions"
+- sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
 - sources/dave/2026-09-14-twatmarsh-open-questions.md
 - "Oral Histories: The Inevitables, 2021-11-12"
 - "Oral Histories: The Inevitables, 2021-11-13"
@@ -51,6 +57,10 @@ published: '2026-09-14'
 
 The **Scarlet Brotherhood** is a secret society of assassins in [Saltmarsh](/places/saltmarsh/) in [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/). In November 2021 [Skerrin Wavechaser](/people/skerrin-wavechaser/) led the party [Neptune's Rejects](/organizations/neptunes-rejects/) to the Weathervein Tomb beneath [the Temple of Neptune](/places/the-temple-of-neptune/) and ambushed them there with Brotherhood assassins; the party survived, and devastated a secret society in a single night. The Brotherhood fought the party again at the Saltmarsh finale of July 2022, where it was beaten, and by September 2022 the party had killed every named member.
 
+## Before the tomb
+
+The Brotherhood attacked the prisoner transport that carried [Gabriella Hellwood](/people/gabriella-hellwood/) and [Scrunt Pissfoot](/people/scrunt-pissfoot/) to Saltmarsh, so that Skerrin Wavechaser and two assassins could kill one of their own, Myron, before he testified. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small> In the town the party found three adventurers murdered at the harbor in the Brotherhood's fashion, and a guard corps too full of its members to investigate. The party learned that the Brotherhood was a cult as well as an assassins' guild, and uncovered a possible plot to summon and enslave the dragon god Bahamut. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small>
+
 ## The ambush at the Weathervein Tomb
 
 Dave's notes for the session "Salvage Operation – Part I": "Either way, Skerrin will order their assassination by leading them to the Weather vein tomb and ambushing them with Brotherhood assassins." <small>(Oral Histories: The Inevitables, 2021-11-13)</small> The party's ally [Oshi](/people/oshi/) was killed in the fight. <small>(Oral Histories: The Inevitables, 2021-11-13)</small> Dave, afterwards: "the scarlet b gave us a chance to bounce". <small>(Oral Histories: The Inevitables, 2021-11-15)</small>
@@ -68,6 +78,10 @@ The Brotherhood was one of the two main foes of [the Rising Dawn](/organizations
 ## Dave's theory: the Weathervein trove
 
 In April 2022 Dave put forward what he called "my current fan theory". He recalled that "they hinted that the SB might have been built to depose the Weathervein dynasty a long time ago", and that "the SB opposed the Sea Princes". His reading: "If there’s a big trove down there, it could be that the mission of the SB is to cover it UP" / "That’s why they enable the Sauhagin to invade - to disrupt the town and stop them from digging more" / "They want Saltmarsh poor and sleepy". <small>(Oral Histories: The Inevitables, 2022-04-23)</small>
+
+## The high father and the Eldabrin
+
+[Alexander Solmor](/people/alexander-solmor/), the Duke of Dreadwood, was a high father of the Brotherhood. The Brotherhood's true objective at Saltmarsh was [the Eldabrin](/lore/the-eldabrin/), beneath the mines; its union with the sahuagin, sealed by Solmor's marriage to the sahuagin princess [Malenti](/people/malenti/), made the sahuagin invasion a ruse to cover it. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> <small>(sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
 
 ## The finale and after
 
