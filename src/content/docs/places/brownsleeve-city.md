@@ -51,6 +51,8 @@ sources:
 - Desktop/D&D/Starfall TNG/sydiot_126704470.pdf
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): New ships"
+- "JL's DM notes: Starfall Awakens Notes"
+- sources/dave/2026-09-28-starfall-jl-nico-answers.md
 ---
 
 **Beachside resort community · Selune, the moon of Toril · *The Starsong Awakens* · Status unknown**
@@ -85,6 +87,10 @@ Kol Hanaka's notes record a secure area entered, a metal suit, the mayor taken a
 
 At a power plant the agents confronted the workers and a cyborg who recited a historical poem, "4 21 5 Zanzibars, 6 Statues". They also came by a security badge and a copy of the Little Red Book, *The Way It Is*, by Red-Eye, hollowed out with a pearl-handled pistol inside; discovered plans to build a wet fusion bomb, from a student of the BCCC School of Artificery; arrested the chief engineer; and obtained a children's history of Faerûn at the stadium. <small>(Kol Hanaka's character sheet)</small>
 
+### The pilgrimage and the blackout
+
+After city hall was blown up, the Inevitable named the four sites on the moon holy to the Red Eye: [the SSJ Zanzibar](/items/the-ssj-zanzibar/) in its hangar, the Wet Fusion Plant, the BCCC School of Artificery, and Negroni Prime Memorial Stadium. When the plant's reactor failed, power went down across the moon and rioting stopped the city's traffic. A news report from the shore of the Waning Sea asked the question on every beach: what happens next? <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 ### End of the storyline
 
 In the final episode of Brownsleeves City Nights, an agent tried to throw the inevitable off a truck by crashing it, meaning to destroy the robots while Paytra flew to safety. Paytra had already fallen unconscious, and she died in the crash, rocketing against the surface of the moon. An epilogue showed [an Istus Cruiser](/items/the-istus-cruiser/), whose crew of Red Eye devotees took up the story. <small>(Oral Histories: The Inevitables, 2024-11-02)</small>
@@ -99,3 +105,14 @@ In the final episode of Brownsleeves City Nights, an agent tried to throw the in
 - **The power plant:** where a cyborg recited the poem of the Zanzibars and statues.
 - **The BCCC School of Artificery:** whose student drew up plans for a wet fusion bomb.
 - **The stadium:** where the agents obtained a children's history of Faerûn.
+
+- **The Moonstone Arms:** a luxury skyrise downtown, over the ocean, where the Bureau housed its agents in furnished suites.
+- **George W's convenience store:** where Iron Cobra robots were caged behind the register.
+- **The police precinct:** where Jeb died in his cell with the cameras switched off.
+- **The Wet Fusion Plant:** its reactor powered the moon; a photograph on its wall shows Barrias Redeye, inventor of wet fusion.
+- **Negroni Prime Memorial Stadium:** one of the four holy sites of the Red Eye, where a bomb was planted in the basement.
+- **Glittergold Hall:** at the BCCC School of Artificery.
+- **The House of Tyr:** a temple at the mall, kept by Brother Grande.
+- **The Mines of Phandelver:** a ride at the family theme park.
+- **The Zanzibarmory:** a weapon shop.
+- **The Waning Sea:** the sea off the city's beaches. <small>(JL's DM notes: Starfall Awakens Notes)</small>
