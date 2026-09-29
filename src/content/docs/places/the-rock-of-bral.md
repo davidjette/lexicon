@@ -26,6 +26,10 @@ tags:
 - Starfall
 - Light of Xaryxis
 - The Starsong Awakens
+- Aerdrie
+- Robin Redbreast
+- Grover Stevens
+- the Pussyfoot
 icon: fa-city
 fields:
   type: Asteroid trade city
@@ -35,7 +39,7 @@ fields:
   population: Hundreds
   demonym: Unknown
   status: Standing at the time of The Starsong Awakens; a Sovereign protectorate
-  includedLocations: A space dock; a casino; a nautiloid lodged beneath the city streets
+  includedLocations: A space dock; a casino; a subterranean temple of Aerdrie; a nautiloid beneath the city streets
 sources:
 - "Oral Histories: The Inevitables, 2022-09-29"
 - "Oral Histories: The Inevitables, 2022-10-24"
@@ -46,6 +50,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-09-25"
 - src/content/docs/people/maverick.md
 - "The Starsong Awakens site (JL Byrd): The Rock of Bral"
+- 'JL''s DM notes: Starfall Awakens Notes'
+- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
 image:
   src: /images/starsong/the-rock-of-bral.webp
   alt: "A ship in the harbour of Bral"
@@ -78,6 +84,12 @@ JL's campaign site gives Bral its own page, titled "A City on the Edge of Foreve
 
 In the era of the arc the Eberron Corps of Engineers is stationed on Bral to exhume a nautiloid vessel lodged beneath the city streets, for display in a museum of astro-history on their planet. The threat of Sovereign war with [the Vodoni Empire](/organizations/the-vodoni-empire/) has agitated the populace: long lines of evacuees mark the docks, leaving the planetoid has become a challenge, and crime on the surface has reached a fever pitch. Two Terrasque-class warships, of the class of [the Terrasque](/items/the-terrasque/), protect it. <small>(The Starsong Awakens site, The Rock of Bral)</small>
 
+Fifteen years before, Bral had been a tiny planet on the fringes of the Sovereignty full of drunks and pirates; the crew of the Zanzibar saved it and installed the aarakocra dynasty, corrupt but meant to be friendly to the Sovereignty. <small>(JL's DM notes: Starfall Awakens Notes)</small> By the Company Esper Lamp's briefing, reaching it now meant passing one or more Terrasque-class vessels, two of them moon-sized in orbit; the Rock was a hive of scum and villainy, a pirate enclave whose aarakocra elite were corrupt and fickle, and whose guards took bribes for entry. The illithid nautiloid beneath the streets had been largely excavated and was held by archaeologists from Eberron. <small>(JL's DM notes: Starfall Awakens Notes)</small> The Sovereignty had declared war on [the Vodoni Empire](/organizations/the-vodoni-empire/) and was on lockdown, and Bralish Terrasques were stopping ships to search them. Barrias, a war hero and a famous outlaw, was highly recognisable. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+The crew of the old Zanzibar found sanctuary in a subterranean temple beneath the city to Aerdrie, the fey goddess of flight, welcomed by its aarakocra priestess Robin Redbreast. <small>(JL's DM notes: Starfall Awakens Notes)</small> Barrias recorded the temple under the city, a golden eagle and a fae god. <small>(Barrias Ruby-Eye's character sheet)</small> At the table the players added three facts of their own to JL's three. The aarakocra rule Bral but are widely hated: they have strip-mined the planet, leaving everyone but themselves cash-poor, and it was they who found the nautiloid and sold it to Eberron. The nautiloid was almost fully excavated and visible from the surface, dug out from the bottom of the planet by Eberese rumoured to use questionable, maybe extralegal, technology. And there was mass fear that the aarakocra would surrender the planet to the Vodoni if pressed, which is why the Sovereignty sent the Terrasques. <small>(JL's DM notes: Starfall Awakens Notes)</small> In a fight with a gang in the streets, [Jim Smallberries](/people/captain-jim-smallberries/) summoned the power of Carlos. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+The crew stole the nautiloid, along with robots and Grover Stevens. <small>(Barrias Ruby-Eye's character sheet)</small> Buttsack later named it [the Pussyfoot](/items/the-pussyfoot/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 ### Dead Man's Hand
 
 In the earlier era of the Dead Man's Hand campaign, [Maverick](/people/maverick/) visited a casino on the Rock of Bral. <small>(DM notes)</small>
@@ -85,5 +97,6 @@ In the earlier era of the Dead Man's Hand campaign, [Maverick](/people/maverick/
 ## Places of interest
 
 - **The space dock:** a large dock on one side of the asteroid, where the SSJ Zanzibar put in.
-- **The nautiloid:** a nautiloid vessel lodged beneath the city streets, being exhumed by the Eberron Corps of Engineers in the era of *The Starsong Awakens*.
+- **The nautiloid:** a nautiloid vessel lodged beneath the city streets, being exhumed by the Eberron Corps of Engineers in the era of *The Starsong Awakens*, and stolen by the crew as [the Pussyfoot](/items/the-pussyfoot/).
+- **The temple of Aerdrie:** a subterranean temple beneath the city, kept by aarakocra clerics under the priestess Robin Redbreast.
 - **The casino:** the gambling house Maverick visited in the Dead Man's Hand era.
