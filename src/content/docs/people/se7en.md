@@ -14,6 +14,11 @@ tags:
   - SSJ Zanzibar
   - Nine
   - the Sphinx Tomb
+  - Lamp
+  - Picon
+  - Punis
+  - the Lexicon
+  - precognition
 image:
   src: /images/uploads/se7en-onboard-the-ssj-zanzibar-light-of-mu2yya7a.webp
   alt: Se7en miniature, revised head
@@ -60,6 +65,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2022-12-09-1215856918966882.webp
     alt: Se7en miniature
@@ -117,7 +124,21 @@ Se7en and Barrias returned at level 12, each with a feat learned in the fifteen 
 
 By July 2024 Se7en was predicting the future again. <small>(Oral Histories: The Inevitables, 2024-07-27)</small> On 2024-08-09 Se7en and Barrias slaughtered the diners and worked through riddles, and on 2024-08-23 each earned 4,600 XP in a session at a prison. <small>(Oral Histories: The Inevitables, 2024-08-09, 2024-08-24)</small>
 
+Aboard the ship Se7en played cards with the Company Esper Lamp, who was plainly winning by using his psychic powers to cheat: "Only a fool would enter a game of chance with an Esper." With his hand on Se7en's arm, Lamp taught Se7en to do the same: "Close your eyes, open your mind, don't think, just feel. What do you see?" Se7en saw the next card, a purple moon; then themself on the Cube among agents of the Bureau of Compliance in turquoise suits with lightning clubs; then a fat man with a beard at the helm of their ship, with the shirtless [Carlos Vega](/people/carlos-vega/) beside him, their old crewmate from the Zanzibar and dead; and then themself riding on the back of a dragon. <small>(JL's DM notes: Starfall Awakens Notes)</small> When Nine noticed that the topaz dragon egg from Halle Barrias's stash was starting to look soft-boiled, Se7en worked out that it needed heat. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+On [Picon](/places/picon/), Se7en could not enter, having failed the trials. <small>(sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small>
+
+At Punis, in the age of [the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), an aspect of the Lexicon grafted onto General Varkas's airship scanned Se7en and called them its son, a lexical entity born with a fraction of its power:
+
+> "Come closer so I can see you with my eyes, child."
+
+<small>— The Lexicon's aspect, at Punis.</small>
+
+It had met Se7en's brother, [Nine](/people/nine/), the Red Eye <small>(Dave, sources/dave/2026-09-28-the-red-eye.md)</small>, also its son, who said he was also its father, destined to create it. It asked Se7en why there is so much pain in the world, why such creatures as they should live in the shadow of creatures so obviously inferior, and what the most just use of power is, and said it would prefer to have Se7en as a father. Se7en took the moonstone out of the airship's lexical station. When someone sat on the throne of Zanzibar the Great, the Lexicon remembered Se7en and Barrias and called Se7en "my son" again. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 By May 2025 Se7en and Barrias were in the Sphinx Tomb with Nine, going through its time doors, with the ship *Pussyfoot* parked outside. Dave recalled the last door as a visit to the Five Zanzibars, and Se7en's player recalled it as the final fight on the Zanzibar. <small>(Oral Histories: The Inevitables, 2025-05-23)</small> Dave, as a player, described the arc as centred on Nine, who set out to fix everything bad that happened after Tannhauser Gate, and on his father and brother eventually bringing him home. <small>(Oral Histories: The Inevitables, 2025-04-06)</small>
+
+Behind the door marked Forgiveness, Se7en and Barrias stood with Caprica on the Zanzibar during the Battle of Tannhauser Gate, unsure what they were there for. <small>(JL's DM notes: Starfall Awakens Notes)</small> In the final session Se7en went through the doors with [Kol Hanaka](/people/kol-hanaka/), and with Barrias passed through the dragon door into the primordial age, where the platinum dragon Bahamut spoke to them. <small>(JL's DM notes: Starfall Awakens Notes; sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small> See [the Sphinx Tomb](/places/the-sphinx-tomb/).
 
 The climax of Starfall came at [Necis](/places/necis/), at the end of both *Light of Xaryxis* and *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
 
