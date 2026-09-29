@@ -35,6 +35,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-08-16'
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - sources/dave/2026-09-14-starfall-necis.md
+  - "JL's DM notes: Starfall Awakens Notes"
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2024-06-19-1470558383544622.webp
     alt: Paytra miniature, side view
@@ -80,6 +82,8 @@ Paytra and Kol were two rookie Blade Runners of the Bureau of Compliance, assign
 
 Their investigation followed the trail of the Red Eye across the moon, to four sites on Selune holy to the children of the Red Eye, the followers of Barrias Ruby-Eye under his nom de guerre. <small>(Oral Histories: The Inevitables, 2024-08-16)</small>
 
+The night the agents took the case of the old cruiser, a robot in the shape of a frightened aasimar woman with golden wings knocked at Paytra's door in the Moonstone Arms, and attacked once inside. The agents kept their prisoner George W bound and gagged on her rothé-skin couch. At Negroni Prime Memorial Stadium she carried the red book and the history book. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 ### Death
 
 In the finale of Brownsleeve City Nights, played on 1 November 2024, Paytra fell unconscious in a fight with robots aboard a truck, one of them "the inevitable". The truck was crashed to destroy the robots, and Paytra, meant to fly clear, died in the crash. She was killed in the line of duty. <small>(Oral Histories: The Inevitables, 2024-11-02)</small> Of her end the arc's DM, JL, said: "At least she went peacefully, rocketing against the surface of the moon." <small>(Oral Histories: The Inevitables, 2024-11-02)</small>
@@ -91,6 +95,8 @@ An epilogue that night showed an Istus Cruiser, on which new devotees of the Red
 Paytra and Kol were rebuilt as robots. <small>(Oral Histories: The Inevitables, 2024-11-10; 2024-11-17)</small> Their mission was a success: they had found the Red Eye. <small>(Oral Histories: The Inevitables, 2024-11-10)</small> Red Eye is the nom de guerre the robot resistance uses for [Barrias Ruby-Eye](/people/barrias-ruby-eye/). <small>(sources/dave/2026-09-14-starfall-necis.md)</small>
 
 By May 2025, according to Nico, she and Kol had brought Caprica's body back to the Terrasque and met up with [Marcel Martel](/people/marcel-martel/) and Weld ([Umwelt](/people/umwelt/)). <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
+
+Paytra woke in total darkness in a sickbed, too weak to stand, and behind a curtain a figure with its back to her spoke: [Nine](/people/nine/), who told her she was still too weak to move and would heal in time. Rebuilt, she took the robot background Terminator. Aboard [the Terrasque](/items/the-terrasque/) she summoned an aspect of the Lexicon, which asked how it could help her, and said that it had been killed and had not been born yet, and that it had many brothers in many ages. At [Necis](/places/necis/) she and Kol explored the Pyramid among [the Time Tombs](/places/the-time-tombs/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Abilities and equipment
 
