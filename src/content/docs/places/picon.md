@@ -74,3 +74,5 @@ At the summit, where the tune grew loudest and visions of Necis floated through 
 Inside the volcano stands LS-TR3, a massive supercomputer of elven construction connected to a vast multi-dimensional network, with a huge terminal of star maps to every point in the elven universe; Caprica's name is among them. The searchers hacked it for the star map while mechanical wolves, goblins, ogres, iron cobras and a mechanical giant came against Barrias at the terminal, until the computer shut down its defenders and gave them the hologram to Necis. The crew also came away with a Rod of Security and a Hat of Many Spells. <small>(JL's DM notes: Starfall Awakens Notes)</small> A short session on 28 February 2025 returned the crew to Necis with the hologram to "Neesus". <small>(Oral Histories: The Inevitables, 2025-02-28)</small>
 
 **Related:** [Caprica](/people/caprica/) · [Necis](/places/necis/) · [The Starsong](/lore/the-starsong/) · [The Starsong Awakens](/history/the-starsong-awakens/)
+
+![LS-TR3 - Picon - The Starsong Awakens.png](/images/uploads/ls-tr3-picon-the-starsong-awakens-mun1tut9.webp)
