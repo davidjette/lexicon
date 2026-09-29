@@ -149,7 +149,7 @@ The Sovereignty is in a cold war with the Vodoni Empire, the monsters of the sec
 JL set out where the crew of *Light of Xaryxis* are fifteen years on. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
 - **[Large Luigi](/people/large-luigi/)** is prisoner LL849, held in a high-security OSR3G facility awaiting trial for treason and crimes against the Sovereignty, which disavows all knowledge of his whereabouts.
-- **[Dr. Nilpferd](/people/dr-nilpferd/)** died peacefully in his sleep after a long illness, leaving a daughter who is his biological clone, Schnuptfabak, called Schnuppy.
+- **[Dr. Nilpferd](/people/dr-nilpferd/)** died peacefully in his sleep after a long illness.
 - **[Mordecai](/people/mordecai/)** is a doctor and the chief science officer of the SSJ Excelsior, married to a half-orc, with three children; his adopted daughter Vannie is a cadet at the Astral Command Academy on Toril.
 - **[Buttsack](/people/buttsack/)** played professional sportsball for the Khorvaire Kestrals until he was paralysed from the waist down, then retreated to an isolated githzerai temple with the mysterious bottle he carries; it lay on the Plane of Elemental Chaos. <small>(sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small>
 - **[Jim Smallberries](/people/captain-jim-smallberries/)** lives as Charles Largeberries on a small mining asteroid, in his early sixties, usually drunk, and wanted for dereliction of duty and destruction of Astral Command property.
