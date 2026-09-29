@@ -18,6 +18,8 @@ tags:
 - Oerth
 - Ghosts of Twatmarsh
 - Neptune's Rejects
+- Sea Princes
+- Empty Net
 icon: fa-boxes-stacked
 fields:
   rpgAlignment: Unknown
@@ -36,6 +38,8 @@ fields:
   weight: Unknown
   status: Unknown
 sources:
+- "JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella"
+- "JL's DM notes: Slatmarsh: Greyhawk sessions"
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 - "Oral Histories: The Inevitables, 2021-09-18"
 - "Oral Histories: The Inevitables, 2022-01-07"
@@ -54,6 +58,10 @@ Gellen Primewater is a smuggler and one of the power brokers of [Saltmarsh](/pla
 
 After the party broke up a smuggling operation and won the [*Sea Ghost*](/items/the-sea-ghost/), Nico suggested "We should gift some of the booze to Primewater / And the bar". Dave: "No we gave it back to the law". <small>(Oral Histories: The Inevitables, 2021-09-18)</small> The same day Dave described Eda, the mayor and leader of the traditionalists, as "somewhat applied with prime water" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2021-09-18)</small>
 
+## The Sea Princes' man
+
+Gellen was the Saltmarsh liaison of the pirate gang called the Sea Princes, and hired the party through a smugglers' bar for a jailbreak, in which an innocent elven merchant was cut down. His faction, the traditionalists, drank at the Empty Net. When the party sailed for the dwarves' mine on [Ratcatcher](/places/ratcatcher/), he wanted them to find the duergar there and bring them round to working with the pirates against the mining operation. <small>(JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella)</small>
+
 ## The marriage deal
 
 In JL's session of 2022-01-07 Gabriella went to Primewater alone and asked for his daughter's hand. Dave: "I don’t know if promewater accepted my offer for the hand of his daughter but he seemed amenable". <small>(Oral Histories: The Inevitables, 2022-01-07)</small> JL, as DM:
@@ -65,6 +73,10 @@ He was open to the marriage, hopeful that Gabriella could wield power against [D
 Dave called it "The Commodore and the Smugglers Daughter", and set out the terms: "the Navy will look the other way on smuggling and he can use the Weathervein summer home again", and "I’ll marry his daughter and he’ll keep his dowry in his own power sphere". Gabriella's reasons, in Dave's words, were to "make some bank, shore up an actually useful ally, and be the wall between Dolores's rage and the rest of the power brokers". <small>(Oral Histories: The Inevitables, 2022-01-08)</small>
 
 The wedding was held on 2022-01-21. See [Garbanzo](/people/garbanzo/).
+
+## The Duke's return
+
+The return of [Alexander Solmor](/people/alexander-solmor/) to his council seat made Gellen very nervous, and he wanted assurances that the illicit trade could go on. He was unconvinced by the Duke's story of survival but plainly intimidated by him. He also recruited a gang of young delinquents, [the Starfish](/organizations/the-starfish/). <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
 
 ## His name
 
