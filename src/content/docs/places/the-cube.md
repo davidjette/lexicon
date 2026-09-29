@@ -1,23 +1,25 @@
 ---
 title: The Cube
 description: DS-K7, the deep-space station called Little Sigil, which by The Starsong Awakens had freed itself from the Sovereignty under the crystal dragon Oxyl.
+tags:
+  - The Cube
+  - Little Sigil
+  - DS-K7
+  - DS-7
+  - Oxyl
+  - crystal dragon
+  - MacFlecknoe
+  - Malorcus Donk
+  - Tiberius
+  - Sigil
+  - Sovereignty of Realms
+  - Light of Xaryxis
+  - The Starsong Awakens
+  - Starfall
+image:
+  src: /images/uploads/the-cube-little-sigil-ds-k7-ds-7-starfal-mun11cb3.webp
 type: settlement
 kind: places
-tags:
-- The Cube
-- Little Sigil
-- DS-K7
-- DS-7
-- Oxyl
-- crystal dragon
-- MacFlecknoe
-- Malorcus Donk
-- Tiberius
-- Sigil
-- Sovereignty of Realms
-- Light of Xaryxis
-- The Starsong Awakens
-- Starfall
 icon: fa-satellite
 fields:
   type: Deep-space station
@@ -28,11 +30,11 @@ fields:
   status: Independent
   includedLocations: The market; the temple; the fighting pit; the library; Oxyl's chamber
 sources:
-- "JL's DM notes: Starfall Notes - The Trouble with Wishes"
-- "JL's DM notes: Starfall Notes - The Company - Holly Berrias Session"
-- "JL's DM notes: Starfall Awakens Notes"
-- Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
-- sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - 'JL''s DM notes: Starfall Notes - The Trouble with Wishes'
+  - 'JL''s DM notes: Starfall Notes - The Company - Holly Berrias Session'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 ---
 
 **Deep-space station · Independent state · *Light of Xaryxis*, *The Starsong Awakens***
