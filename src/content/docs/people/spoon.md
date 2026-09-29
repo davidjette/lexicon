@@ -26,6 +26,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-25'
   - 'Oral Histories: The Inevitables, 2024-07-01'
   - 'Oral Histories: The Inevitables, 2024-08-08'
+  - "JL's DM notes: Starfall Awakens Notes"
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2024-07-10-3591562701094446.webp
     alt: New Spoon miniature
@@ -41,5 +43,9 @@ gallery:
 Spoon joined the arc as a level-six character, one of the three new Bureau characters with [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/), whose storyline ran on the moon of Toril. The new Bureau characters began with a Club of Compliance, one uncommon magic item, 100 gp and a Bureau badge, and shared one standard-issue flying car. <small>(Oral Histories: The Inevitables, 2024-07-01)</small>
 
 In August 2024 JL planned to take her to Withers to be respecialised as a World Tree barbarian. <small>(Oral Histories: The Inevitables, 2024-08-08)</small>
+
+### Brownsleeve City
+
+Spoon worked the Brownsleeve City cases with the rookies [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/). After the robot fighting ring she told the police that the agents had brought in the bugbear Jeb, and that he and his brother George W had been making or selling constructs. It was Spoon who read the map of the Zarus-class cruiser as a clue to the Red Eye, and who put the agents up in the Moonstone Arms. In the hangar she remarked that the old Zarus-class ships could hold more than a hundred Sovereign soldiers, and when the black cat Orion appeared on the wrecked bridge of the Zanzibar she told the others to grab it. See [Brownsleeve City Nights](/history/brownsleeve-city-nights/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 Her species is unknown.
