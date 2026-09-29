@@ -13,6 +13,12 @@ tags:
   - Zith'ra
   - Starfall
   - Light of Xaryxis
+  - Project Paradox Dawn
+  - Bikura
+  - Kraszch
+  - Dr. Horgus
+  - Sad King Billy
+  - The Starsong Awakens
 image:
   src: /images/uploads/valley-of-the-time-tombs-necis-goal-of-t-mu962mkg.webp
 type: location
@@ -26,7 +32,7 @@ fields:
   population: Unknown
   demonym: Unknown
   status: Stood on Necis, now destroyed
-  includedLocations: Unknown
+  includedLocations: The palace; the senate; the Labyrinth; the Pyramid; the Jade Temple; the Sphinx Tomb
 sources:
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj
@@ -41,6 +47,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-09'
   - 'Oral Histories: The Inevitables, 2024-12-22'
   - 'Oral Histories: The Inevitables, 2025-01-12'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2024-04-20-1196891171296427.webp
     alt: Carved wall in the Time Tombs
@@ -68,6 +76,28 @@ On 2024-04-12 the pilgrims explored the tombs as a dungeon crawl, clearing two o
 On 2024-04-19 verse was read aloud in the tombs, closing with the line "I am a translator." The name Zith'ra was given in the same session; what Zith'ra is is unknown. <small>(Oral Histories: The Inevitables, 2024-04-19; 2024-04-20)</small> The next day [Martin's Final Cantos](/items/martins-final-cantos/) was posted in full. <small>(Oral Histories: The Inevitables, 2024-04-20)</small>
 
 The pilgrims had innocents with them whom they did not want to leave behind, so they did not delve too deep into the palace. They saw the future with an army of shrikes, and found a number of people on the "tree of pain". <small>(Oral Histories: The Inevitables, 2024-04-27)</small> Dave later described the tree of pain as strung with undying mortals who showed a glimmer of remembering what had been erased, and said it could be removing those memories from reality to protect reality, harvesting them to discover the truth, or both. <small>(Oral Histories: The Inevitables, 2024-12-22)</small>
+
+### The Starsong Awakens
+
+Fifteen years later the crew of *[The Starsong Awakens](/history/the-starsong-awakens/)* found Necis itself gone, and the Time Tombs, six in number, standing among the rubble. Nine had memories of stories his father told him: of Time Tombs, six in number, and of a Shrike, some kind of artificial intelligence, that was destroyed. The crew split up. [Paytra](/people/paytra/) and [Kol Hanaka](/people/kol-hanaka/) took the Pyramid; [Nine](/people/nine/) and OU812 took the Jade Temple; [Marcel Martel](/people/marcel-martel/) and [Weld](/people/umwelt/) took the Labyrinth, each pair carrying sending stones. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+**The Labyrinth.** Its tombs are carved into the side of a forbidding cave, inside an air bubble that protects the structure. Voices echo there, gravity pulls first one way and then the other, and a six-foot stalagmite of volcanic stone is a teleporter to a different tomb. Before its door, which is covered in shifting metallic patterns, Marcel and Weld saw two figures appear and vanish: a fair-haired man in a leather jacket asking his lieutenant how they might destroy the Shrike, and a black-haired elven woman in a soldier's uniform answering that they had no choice, "to save the life of the child". "She's not a child, Lieutenant," the man said. "Her name is Rachel." The door itself is a paradox door, ajar to one of them and sealed to the other, and anything done to it returns the doer to the beginning. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Inside waited four Bikura, short humanoids in shabby clothes with a mark like a lower-case t on their chests, who said only "God is coming". In their satchel was a burned and broken scroller holding fragments about Astral Command's **Project Paradox Dawn**, a level-four classified operation on Necis, secured by [OSR3G](/organizations/osr3g/), and shut down permanently. Tomb guardians of animated armour stood deeper in, and [the Shrike](/lore/the-shrike/) appeared, ready to attack, and blinked out of existence. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+An iron chest marked ASTRAL COMMAND held papers on Project Paradox Dawn, extensive notes on [the Astralex](/lore/the-astralex/), and a data chip marked *Drofplin*. The chip played a hologram log by an Astral Command captain on Necis, who had lost track of time and feared he was losing his mind. The arrival of "our strange little pilgrim friends", childlike in intellect and aggression and convinced of the imminent arrival of their god, had created a stir, and grey cloaks watched every move the project made:
+
+> "No good came from the Astralex, why study it? And why here, on this gods-forsaken planet half a universe away from civilization?"
+
+<small>— An Astral Command captain, in the *Drofplin* log.</small>
+
+He meant to advise high command to suspend the operation, evacuate Necis and detonate the planet from orbit. The Shrike came again as the ground shook. At the end of the Labyrinth Marcel and Weld found a room of grey-cloak scientists moving in reverse for eternity around a naked astral elf strapped to a table, hooked to a machine and crying "Help me!", whose psychic energy was being siphoned in an attempt to summon the Lexicon. The entrance behind them had disappeared. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+**The temple with the tree.** In a temple beside a great tree, Marcel and Weld watched Sovereign scientists trying to recreate an Astralex; all they could make was something like a magic eight-ball, an illusion caught in a time loop. A man in a brown cloak with a long, drawn face, who called himself William, told them to leave or be trapped there forever as he was: "This is a place of death. Men come. Men die. Over and again." He had come from a far star torn apart by war and factionalism, dreaming of a new start. He was [Sad King Billy](/people/zanzibar-william-the-melancholy/), though the pair did not know it then. By his account the place is cursed by chronurgy, a nexus of black magic; the end of the universe begins there, and the universe begins there again after the end; the last time everyone died, it started there, and it never happens the same way twice. The Sphinx, he said, is the most unstable of the temples, the alpha and the omega, "a temple to hubris". The scientists were caught in a loop of the years after the Battle of Tannhauser Gate, when the Sovereignty moved in and tried to rebuild the Lexicon. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+**The Pyramid.** Paytra and Kol met [Dr. Horgus](/people/horgus-simianis/), a small grey-haired hadozee in a stained lab coat, his eyes a little mad, who used the tombs as a quiet place for his research and could not say whether he had been there decades or centuries, or both, or neither. He introduced his wife, [Katrina](/people/katrina-mcquaid/), a shambling hulk stitched together from the head of a tabaxi, the arms of an elf and huge orcish thighs. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Back aboard the Terrasque, the mechanical minotaur Kraszch told returning crew that they had been gone for days and were the first back, and that mind flayers had arrived, fought a couple of Lamprays, and then simply sat there. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ### Aftermath
 
