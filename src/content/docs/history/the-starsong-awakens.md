@@ -32,6 +32,10 @@ tags:
 - RN-HRT
 - Mace of Elistraee
 - Spelljammer
+- Picon
+- the Pussyfoot
+- Root Hold
+- Punis
 icon: fa-rocket
 fields:
   type: Campaign arc
@@ -99,6 +103,8 @@ sources:
 - 'The Starsong Awakens site (JL Byrd): New playable race'
 - 'The Starsong Awakens site (JL Byrd): New backgrounds'
 - 'The Starsong Awakens site (JL Byrd): New magic items'
+- 'JL''s DM notes: Starfall Awakens Notes'
+- sources/dave/2026-09-28-starfall-jl-nico-answers.md
 published: '2026-09-14'
 gallery:
 - src: /images/starsong/ldr-n.webp
@@ -128,7 +134,7 @@ gallery:
 
 *Also known as:* Spelljammer: The Motion Picture (The Starsong Awakens) · Starsong
 
-***The Starsong Awakens*** is the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), run by JL from June 2024 to 2025 and set fifteen years after [Light of Xaryxis](/history/light-of-xaryxis/), after the [Starweaver Act](/lore/the-starweaver-act/) outlawed artificial intelligence in the Sovereignty. [Caprica](/people/caprica/) is long dead, and [Barrias Ruby-Eye](/people/barrias-ruby-eye/)'s sister brings a dire warning. The arc ran as two storylines that later joined: the returning crew of the SSJ Zanzibar, Barrias and [Se7en](/people/se7en/), and rookie agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) hunting illegal AI in [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril. The robot resistance knew Barrias by the nom de guerre Red-Eye. The search for Caprica led back to [Necis](/places/necis/) and through the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/), and the climax of Starfall took place at Necis. <small>(Oral Histories: The Inevitables, 2024-06-01; 2024-06-02; 2024-07-01; Dave, 2026-09-14)</small>
+***The Starsong Awakens*** is the second arc of [Starfall: TNG](/lore/starfall-the-next-generation/), run by JL from June 2024 to 2025 and set fifteen years after [Light of Xaryxis](/history/light-of-xaryxis/), after the [Starweaver Act](/lore/the-starweaver-act/) outlawed artificial intelligence in the Sovereignty. [Caprica](/people/caprica/) is long dead, and [Barrias Ruby-Eye](/people/barrias-ruby-eye/)'s sister brings a dire warning. The arc ran as three threads, woven together in its ending: [Barrias Ruby-Eye](/people/barrias-ruby-eye/)'s legacy crew of the *Mighty Caprica*, with [Se7en](/people/se7en/); [Kol Hanaka](/people/kol-hanaka/) and his fellow rookie agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/), hunting illegal AI in [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril; and [Umwelt](/people/umwelt/) and the Red Eye's recruits aboard the Vanguard and [the Terrasque](/items/the-terrasque/). <small>(Dave, sources/dave/2026-09-28-the-red-eye.md)</small> The robot resistance first knew Barrias by the nom de guerre Red-Eye; the big reveal of the game was that the Red Eye the Bureau agents were hunting was [Nine](/people/nine/), Barrias's "son", who had taken the name. <small>(Dave, sources/dave/2026-09-28-the-red-eye.md)</small> The search for Caprica led back to [Necis](/places/necis/) and through the time doors of [the Sphinx Tomb](/places/the-sphinx-tomb/), and the climax of Starfall took place at Necis. <small>(Oral Histories: The Inevitables, 2024-06-01; 2024-06-02; 2024-07-01; Dave, 2026-09-14)</small>
 
 ## Background
 
@@ -145,7 +151,7 @@ JL set out where the crew of *Light of Xaryxis* are fifteen years on. <small>(Or
 - **[Large Luigi](/people/large-luigi/)** is prisoner LL849, held in a high-security OSR3G facility awaiting trial for treason and crimes against the Sovereignty, which disavows all knowledge of his whereabouts.
 - **[Dr. Nilpferd](/people/dr-nilpferd/)** died peacefully in his sleep after a long illness, leaving a daughter who is his biological clone, Schnuptfabak, called Schnuppy.
 - **[Mordecai](/people/mordecai/)** is a doctor and the chief science officer of the SSJ Excelsior, married to a half-orc, with three children; his adopted daughter Vannie is a cadet at the Astral Command Academy on Toril.
-- **[Buttsack](/people/buttsack/)** played professional sportsball for the Khorvaire Kestrals until he was paralysed from the waist down, then retreated to an isolated githzerai temple in the Outer Planes with the mysterious bottle he carries.
+- **[Buttsack](/people/buttsack/)** played professional sportsball for the Khorvaire Kestrals until he was paralysed from the waist down, then retreated to an isolated githzerai temple with the mysterious bottle he carries; it lay on the Plane of Elemental Chaos. <small>(sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small>
 - **[Jim Smallberries](/people/captain-jim-smallberries/)** lives as Charles Largeberries on a small mining asteroid, in his early sixties, usually drunk, and wanted for dereliction of duty and destruction of Astral Command property.
 - **[Katrina McQuaid](/people/katrina-mcquaid/)** is memorialised in the name of the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center. <small>(Oral Histories: The Inevitables, 2024-06-11)</small>
 - **[Carlos Vega](/people/carlos-vega/)**, bound as a djinn at the end of *Light of Xaryxis*, spent the fifteen years in that bottle and is back in play in the arc. <small>(Oral Histories: The Inevitables, 2024-11-22; 2025-01-18)</small>
@@ -168,6 +174,8 @@ On 9 August the returning crew slaughtered the diners and solved riddles, and JL
 
 Act II opened in a prison, and Se7en and Barrias each earned 4,600 experience. <small>(Oral Histories: The Inevitables, 2024-08-17; 2024-08-24)</small> On 6 September the party shut down a plant on suspicion alone, with potentially world-changing shifts in the balance of power, and Kol's wound began to grow crusty metallic scales. <small>(Oral Histories: The Inevitables, 2024-09-07)</small> JL posted the Red Eye Manifesto. <small>(Oral Histories: The Inevitables, 2024-09-14)</small> The story then returned to [the Rock of Bral](/places/the-rock-of-bral/), where, by the Company dossier, the old crew's nautiloid had been found. <small>(Oral Histories: The Inevitables, 2024-09-25)</small> A session in October played both storylines side by side, with a number cipher that reads WE ARE PRISONERS HERE. <small>(Oral Histories: The Inevitables, 2024-10-25; 2024-10-26)</small>
 
+On Bral the crew found sanctuary in a temple of Aerdrie, stole the illithid nautiloid, and went on to Root Hold on the Plane of Elemental Chaos for [Buttsack](/people/buttsack/), who named the ship [the Pussyfoot](/items/the-pussyfoot/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 ### Brownsleeve City Nights
 
 *Main article: [Brownsleeve City Nights](/history/brownsleeve-city-nights/)*
@@ -176,7 +184,7 @@ The Bureau storyline, Brownsleeve City Nights, ended on 1 November 2024. Paytra 
 
 ### The Red Eye
 
-JL required the next new characters to be level-3 devotees of the Red Eye, to crew [the Istus Cruiser](/items/the-istus-cruiser/) seen in the epilogue. <small>(Oral Histories: The Inevitables, 2024-10-26; 2024-11-02)</small> Dave's [Umwelt](/people/umwelt/), called Weld, is a warforged farmer and liberated ranch-hand unit who joined the resistance. Nico's [Marcel Martel](/people/marcel-martel/) is a high elf, once a famous Waterdeep musician and actor, working with the resistance aboard the stolen Istus Cruiser; in Nico's backstory his wife Robin Martel, a synth AI politician, was taken from their home and dismantled by the Bureau after the Starweaver Act. <small>(Oral Histories: The Inevitables, 2024-11-02; 2024-11-07; 2024-11-08)</small> The resistance is [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), and Red-Eye is its name for Barrias. <small>(Dave, 2026-09-14)</small>
+JL required the next new characters to be level-3 devotees of the Red Eye, to crew [the Istus Cruiser](/items/the-istus-cruiser/) seen in the epilogue. <small>(Oral Histories: The Inevitables, 2024-10-26; 2024-11-02)</small> Dave's [Umwelt](/people/umwelt/), called Weld, is a warforged farmer and liberated ranch-hand unit who joined the resistance. Nico's [Marcel Martel](/people/marcel-martel/) is a high elf, once a famous Waterdeep musician and actor, working with the resistance aboard the stolen Istus Cruiser; in Nico's backstory his wife Robin Martel, a synth AI politician, was taken from their home and dismantled by the Bureau after the Starweaver Act. <small>(Oral Histories: The Inevitables, 2024-11-02; 2024-11-07; 2024-11-08)</small> The resistance is [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/). Red-Eye began as its name for Barrias <small>(Dave, 2026-09-14)</small>, but the Red Eye who led it in the arc was Nine, who took his father's name and led the resistance into open hostility with the Sovereignty and an obsession with the banned and vanished Lexicon. <small>(Dave, sources/dave/2026-09-28-the-red-eye.md)</small>
 
 [Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/), now a captain, stood with the Hyperion-run Astral Command against the party; Dave, as a player, hoped to find a way to bring her over. <small>(Oral Histories: The Inevitables, 2024-11-09; 2024-11-10)</small> Barrias gained a new weapon in December, and on 13 December the crew used the Eye of Ao Cannon aboard [the Terrasque](/items/the-terrasque/), which can bring life to the ship or radiant death to a target. <small>(Oral Histories: The Inevitables, 2024-12-07; 2024-12-13)</small>
 
@@ -184,11 +192,15 @@ JL required the next new characters to be level-3 devotees of the Red Eye, to cr
 
 On 24 January 2025 Barrias and Carlos went back to Picon to continue the search for Caprica, and Barrias had a vision of her. <small>(Oral Histories: The Inevitables, 2025-01-18; 2025-01-25)</small> A short session on 28 February returned the crew to Necis. <small>(Oral Histories: The Inevitables, 2025-02-28)</small>
 
+On [Picon](/places/picon/), Caprica's blighted home moon, Barrias and Carlos climbed the Crystalline Volcano through the trials of the Righteous Pass, and the elven computer LS-TR3 gave them the hologram to Necis. <small>(JL's DM notes: Starfall Awakens Notes)</small> At Necis the planet itself was gone; the crew split up to explore [the Time Tombs](/places/the-time-tombs/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
 On 4 April the crew reached the Sphinx Tomb, whose doors open onto other times; the session brought in the Shrike and Katrina. <small>(Oral Histories: The Inevitables, 2025-04-04)</small> JL told the table they were near the resolution of a very long, epoch-spanning narrative, and that they could go through every door in the tomb. <small>(Oral Histories: The Inevitables, 2025-04-07)</small> Dave, as a player, read the arc as centred on [Nine](/people/nine/), who set out to fix everything that went wrong after Tannhauser Gate and whose father and brother eventually bring him home; to him the search for Caprica was a red herring, and wishes had upset everything. <small>(Oral Histories: The Inevitables, 2025-04-06)</small>
 
 JL called the session of 23 May the start of the endgame. <small>(Oral Histories: The Inevitables, 2025-05-18)</small> By then, in Nico's account, Barrias and Se7en had been going through the time doors of the Sphinx Tomb with Nine while the Pussyfoot waited outside, and Paytra and Kol had brought Caprica's body back to the Terrasque and met Marcel and Weld. Through the doors the crew had gone to the five Zanzibars, as Dave recalled it, and seen the final fight on the Zanzibar, as Nico recalled it. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
 
-The climax of Starfall took place at Necis, at the end of *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
+Through the doors the travellers also reached Punis in [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), where [Nine](/people/nine/) had lived for years as Negen Zanzibar, and the primordial war of dragons, the fall of Netheril, the Egg, and the illithid Grand Design at the end of the universe. In the final session [Hermes](/people/hermes/) locked them in the tomb, and the only way out was the seventh door, into the Lexicon's inner domain, opened with the NO FU TU RE key. <small>(JL's DM notes: Starfall Awakens Notes; sources/dave/2026-09-28-starfall-jl-nico-answers.md)</small>
+
+The three threads came together in the ending, at Necis and the Sphinx Tomb. <small>(Dave, sources/dave/2026-09-28-the-red-eye.md)</small> The climax of Starfall took place at Necis, at the end of *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small>
 
 ## Campaign site
 
