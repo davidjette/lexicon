@@ -42,6 +42,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-11-17"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): New magic items"
+- "JL's DM notes: Starfall Awakens Notes"
+- sources/dave/2026-09-28-starfall-jl-nico-answers.md
 image:
   src: /images/starsong/bureau-of-compliance.webp
   alt: "Three Bureau agents"
@@ -88,6 +90,8 @@ Paytra died in the line of duty in the finale of *Brownsleeve City Nights*, play
 > "Their mission is a success. They found the Red Eye."
 >
 > <small>— Oral Histories: The Inevitables, 2024-11-10</small>
+
+The Bureau housed its Brownsleeve City agents in furnished suites at the Moonstone Arms downtown. When Jeb died in his cell at the police precinct, with the cameras switched off, the local police proved crooked. The Bureau's recruitment chief is Ed Harpen. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## The Red Eye
 
