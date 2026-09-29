@@ -14,6 +14,9 @@ tags:
   - SSJ Zanzibar
   - Astral Command
   - the Shrike
+  - Razomel
+  - Charles Z. Largeberries
+  - the Astral Plane
 image:
   src: /images/uploads/captain-jim-smallberries-onboard-the-ssj-mu35hajt.webp
   alt: Captain Jim Smallberries miniature
@@ -77,6 +80,7 @@ sources:
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - Dave, note of 2026-09-26
+  - 'JL''s DM notes: Starfall Awakens Notes'
 gallery:
   - src: /images/chat/2022-10-09-1975455802845387.webp
     alt: Captain Jim Smallberries miniature
@@ -154,6 +158,10 @@ In the finale of 2024-05-31 the Zanzibar took critical damage and Caprica died. 
 ## The Starsong Awakens
 
 In *The Starsong Awakens*, which JL ran, fifteen years have passed and Jim is an old man. <small>(Oral Histories: The Inevitables, 2024-06-11)</small> He lives under the assumed name Charles Largeberries on a small mining asteroid, works a daily grind in the mines, is usually drunk, and has not piloted a vessel in more than a decade. He is wanted on multiple felony counts of dereliction of duty and destruction of Astral Command property, which could carry fifty years in a military prison. JL's account ends: "Sad and lonely, Jim has returned to the life he longed to escape as a boy, trapped on a desolate rock." <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+
+The Company Esper Lamp placed him in Scrospace, the orcish domain, where unregistered vessels tend to be shot down, living as a deep-space trucker under the name Charles Z. Largeberries. <small>(JL's DM notes: Starfall Awakens Notes)</small> In a vision [Se7en](/people/se7en/) later saw a fat man with a beard at the helm of Barrias's ship. <small>(JL's DM notes: Starfall Awakens Notes)</small> On [the Rock of Bral](/places/the-rock-of-bral/), in a fight with a gang, Jim summoned the power of Carlos. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+According to the genie [Razomel](/people/razomel/), he granted Jim three wishes: wine, song, and to be with a woman he once knew, forever. The third doomed him, and left him adrift in the Astral Plane. Aboard the crew's nautiloid Jim cried "Carlos, Carlos, I wish you were here with me right now," and collapsed into a coma. <small>(JL's DM notes: Starfall Awakens Notes)</small> In the final session Hermes' notes listed among those inside [the Sphinx Tomb](/places/the-sphinx-tomb/) "James Starberries in the body of Caprica". <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ### The Company dossier
 
