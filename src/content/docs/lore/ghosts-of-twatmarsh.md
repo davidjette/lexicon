@@ -40,6 +40,9 @@ fields:
   status: Concluded
   arcs: Party 1; The Sinister Secret of Saltmarsh; Dunwater; Salvage Operation; Isle of the Abbey; Gabriella's honeymoon; the Saltmarsh finale; the kobold one-shot; White Plume Mountain; the Eldabrin
 sources:
+- "JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella"
+- "JL's DM notes: Slatmarsh: Greyhawk sessions"
+- sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
 - sources/dave/2026-09-14-twatmarsh-open-questions-2.md
 - sources/dave/2026-09-14-nico-docs-questions.md
 - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
@@ -150,6 +153,10 @@ In January 2022 Gabriella struck a marriage deal with the smuggler [Gellen Prime
 
 JL's honeymoon arc took the party to the frontier. Dave: "I can hang in the Oregon trail more I think it’s a great setting". <small>(Oral Histories: The Inevitables, 2022-03-18)</small> Scrunt went missing; the party helped a gnome inn for news of Skerrin and searched a caravan for him. On 2022-03-12 they killed Skerrin, and Dolores recovered Weathervein. <small>(Oral Histories: The Inevitables, 2022-02-25, 2022-03-05, 2022-03-12)</small>
 
+The honeymoon took Gabriella and Garbanzo to the city of Greyhawk, where the warlock [Salem Specksnyder](/people/salem-specksnyder/) fixed on Garbanzo and tried to abduct her. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> The frontier leg rode with the caravan of the trail boss [Dab Sweet](/people/dab-sweet/), under attack from the pink elves; in it the party found Skerrin disguised as a teamster named Willy. The party then sailed home from [Hardby](/places/hardby/), fought off the pirate ship *Sea Cow*, and came back to a Saltmarsh celebrating the return of the Duke, [Alexander Solmor](/people/alexander-solmor/), long presumed dead. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
+
+They brought emigrés home with them: Dab Sweet and his wife Pinky, who took rooms at the Snapping Line; Brother Steve, a priest of Chauntea, set up in a farmhouse outside town; and the Greenblatt orphans, among them the infant [Bug](/people/bug/). A youth gang, [the Starfish](/organizations/the-starfish/), had moved into Crabber's Cove, and an agent of the mining magnate Copperlocks passed Dolores a note asking for a meeting. The party sent Hardbread to tail the agent; he was caught and lost a toe. <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small> <small>(sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md)</small>
+
 In June 2022 the party declined to fight a Ruby dragon that threatened them, because, Dave wrote, "the idea of Saltmarsh and my house and all my stuff getting gilded into nothing was not worth the risk". <small>(Oral Histories: The Inevitables, 2022-06-18)</small> JL then finished his material ("We wrapped up everything that I had planned"), and Dave took back the book's quests, heading for Dunwater. <small>(Oral Histories: The Inevitables, 2022-06-21, 2022-06-29)</small> On 2022-06-30, in JL's session, the party slipped back into Saltmarsh and killed Salmor. They refused an offer from [Malenti](/people/malenti/), and at the finale on 2022-07-09 they beat the [Scarlet Brotherhood](/organizations/the-scarlet-brotherhood/) and reached level 10. Dave: "Level 10 actually feels properly earned in this case, esp since it’s the second party we rolled". <small>(Oral Histories: The Inevitables, 2022-07-01, 2022-07-08, 2022-07-10)</small>
 
 ## The kobold one-shot
@@ -177,14 +184,14 @@ Dave on Hellwood by then: "But it’s been a few hundred years…." and "Hellwoo
 ## Sessions
 
 - **2021-08-13** (Dave, Roll20): the first party's only session, *The Sinister Secret of Saltmarsh*; the party dies in the marketplace and an assassin takes the sword.
-- **2021-08-20** (JL, TaleSpire): the second party's prologue; Gabriella and Scrunt wash ashore chained together and meet Talia at a mausoleum.
-- **2021-08-27** (JL): the prologue ends; the murder mystery; Gabriella kills a vampire in a sunken building.
+- **2021-08-20** (JL, TaleSpire): the second party's prologue; the Scarlet Brotherhood attacks their prison transport and [Skerrin Wavechaser](/people/skerrin-wavechaser/) kills the prisoner Myron; Gabriella and Scrunt wash ashore chained together and meet Talia at a mausoleum.
+- **2021-08-27** (JL): the prologue ends; the murder mystery of three adventurers at the harbor; Gabriella kills a vampire in a sunken building in Crabber's Cove.
 - **2021-09-03**: Gabriella's drinking puts the party in danger.
 - **2021-09-11** (Dave): the haunted house; Xendros trusted; a miracle at the Temple of Neptune.
 - **2021-09-17** (Dave): the party is named Neptune's Rejects; Ned is killed; 900 gold in temple donations.
 - **2021-09-18** (Dave): the *Sea Ghost* won; Gabriella saves Dolores from an exploding boat; Bimz, Oshi and MacGruber join; the Weathervein Tomb looted.
 - **2021-09-25**: Sanbalet's spellbook read.
-- **2021-10-01** (JL): the dwarf clans.
+- **2021-10-01** (JL): the dwarf clans; the silver mine on [Ratcatcher](/places/ratcatcher/) and the duergar beneath it.
 - **2021-10-09** (Dave): sahuagin at sea; Scrunt talks the party into Dunwater.
 - **2021-10-15**: "The Scrunt Episode"; Dolores jailed by Irhtos.
 - **2021-10-22**
@@ -204,16 +211,16 @@ Dave on Hellwood by then: "But it’s been a few hundred years…." and "Hellwoo
 - **2022-02-04**: Gabriella reaches 7th level.
 - **2022-02-11** (JL): "the pirate game"; fish-folk.
 - **2022-02-18** (JL)
-- **2022-02-25** (JL): Gabriella's honeymoon; Scrunt missing.
+- **2022-02-25** (JL): Gabriella's honeymoon; Scrunt missing; the warlock [Salem Specksnyder](/people/salem-specksnyder/) stalks Garbanzo.
 - **2022-03-05** (JL): the hunt for Skerrin; a gnome inn.
-- **2022-03-11** (JL): the caravan searched.
-- **2022-03-12** (JL): Skerrin killed; Dolores recovers Weathervein.
+- **2022-03-11** (JL): the caravan of [Dab Sweet](/people/dab-sweet/) searched; the pink elves.
+- **2022-03-12** (JL): Skerrin, disguised in the caravan as Willy, killed; Dolores recovers Weathervein.
 - **2022-03-18** (JL): the frontier.
 - **2022-04-01** (JL)
 - **2022-04-08**
-- **2022-04-22** (JL): ship combat; a Duke appears.
+- **2022-04-22** (JL): the voyage home from [Hardby](/places/hardby/); the attack of the *Sea Cow*; [Alexander Solmor](/people/alexander-solmor/), the Duke of Dreadwood, returns to Saltmarsh.
 - **2022-04-29**: blood hawks.
-- **2022-06-17** (JL): the Ruby dragon.
+- **2022-06-17** (JL): the Ruby dragon, the Dragon of the Dark Sea, comes for its son [Bug](/people/bug/); the Starfish in Saltmarsh.
 - **2022-06-21** (JL, then Dave): JL's material finished; Dave takes over the book's quests.
 - **2022-06-24** (Dave)
 - **2022-06-29** (Dave): to Dunwater; the Baroness.
