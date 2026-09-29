@@ -41,6 +41,7 @@ fields:
   weight: Unknown
   status: Dead
 sources:
+  - "JL's DM notes: Slatmarsh: Greyhawk sessions"
   - sources/documents/2026-09-14-twatmarsh-neptunes-rejects-ledger.md
   - sources/dave/2026-09-14-inevitables-rulings-batch.md
   - 'Oral Histories: The Inevitables, 2021-09-18'
@@ -87,6 +88,8 @@ By October 2021 he had 271 XP, 29 short of the next level, at which "he gains fi
 Oshi died in the session "Salvage Operation – Part I" on 2021-11-12, in which Skerrin Wavechaser's [Brotherhood](/organizations/the-scarlet-brotherhood/) assassins ambushed the party at the Weathervein tomb. Dave, the next morning: "rip oshi what a session". <small>(Oral Histories: The Inevitables, 2021-11-13)</small> See [Skerrin Wavechaser](/people/skerrin-wavechaser/).
 
 Nico said of her character: "Oshi might be the first person she was close with that has died." <small>(Oral Histories: The Inevitables, 2021-11-13)</small> When Dave listed what followed that night, the blown-up building and the open executions, Nico answered: "For Oshi". <small>(Oral Histories: The Inevitables, 2021-11-15)</small>
+
+In March 2022, unmasked in a caravan on the frontier, Skerrin apologized for Oshi's death: "I'm sorry for Oshi. If it makes a difference, I'm sorry he died." <small>(JL's DM notes: Slatmarsh: Greyhawk sessions)</small>
 
 ## His body
 
