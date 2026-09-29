@@ -27,6 +27,13 @@ tags:
 - the Sovereignty
 - Dead Man's Hand
 - Starfall
+- Punis
+- Fort Zanzibar
+- the Buttress of Windsor
+- Jackdaw
+- Nine
+- The Starsong Awakens
+- the Sphinx Tomb
 icon: fa-fire
 fields:
   type: War and revolution
@@ -45,6 +52,7 @@ sources:
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 - "Oral Histories: The Inevitables, 2024-01-21"
 - "Oral Histories: The Inevitables, 2025-05-17"
+- 'JL''s DM notes: Starfall Awakens Notes'
 published: '2026-09-14'
 image:
   src: /images/chat/2024-10-26-1786087512129249.webp
@@ -92,6 +100,24 @@ Varkus courts the city's **Old Houses**, ancient families that predate the Empir
 ## Dead Man's Hand
 
 Dead Man's Hand, a sequel to the Ages of the Infanta and a prequel to Starfall: The Next Generation, takes place during the beginnings of the War and Revolution. Its party came to occupied Waterdeep, saw Varkus speak against the Zanzibar on the day of [the Tiffany House Heist](/history/the-tiffany-house-heist/), and were arrested by the Purple Dragons and held at Fort Maximillien, where Varkus sentenced those still captive to hang. See [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/).
+
+## The Starsong Awakens: Punis
+
+In *[The Starsong Awakens](/history/the-starsong-awakens/)* the crew of [Barrias Ruby-Eye](/people/barrias-ruby-eye/) passed through the door marked Unity in [the Sphinx Tomb](/places/the-sphinx-tomb/) and reached [Punis](/places/punis/) at the height of the war: a torchlit town of cobblestone streets and stone and brick walls, beneath the lone pale moon of Toril, so primitive as to be unrecognisable, with an old signpost in faintly glowing celestial script. People hurried by with their eyes on their shoulders, whispering of war, and guards stopped strangers to ask which Zanzibar they supported. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+- **The Witch Queen**, Lady Zythara, a reclusive sorceress with deep ties to ancient magic, led magic users, scholars and exiles. Her evokers had burned down a district and driven its lord into hiding. She had allied with the General, and each planned to betray the other.
+- **General Varkas**, [Peterbilt Varkus](/people/peterbilt-varkus/), "the Iron Tyrant", commanded the largest army of professional soldiers and enforcers. He held the castle and the city's defence airship, and posted a guard loyal to him on every street corner.
+- **Prince William**, "the Silver Pretender", led aristocrats, bards, poets and artists; his partisans filled a tavern called the Buttress of Windsor, where the kenku mercenary Jackdaw played high card, low card for information. The prince himself was in melancholy seclusion, and wanted only to get off the planet and find a new world.
+- **Negen Zanzibar**, "the People's Champion", a revolutionary ex-smuggler who promised to abolish noble rule, led thieves, peasants and former slaves from the alleyways. The General's men had taken him into custody.
+- **Little Lord Zellmo**, "the Chosen One", a child prodigy whom zealots called ordained by the gods, led fanatics, paladins and inquisitors from the places of worship, where a statue of St. Parsival stood: "For he searched the world for an honest man and wept when he found none." Beaten but not broken, his faction sought a neutral party to carry a message of alliance to the Pretender.
+
+<small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+The Witch Queen received the crew at her mansion, divining the truth from bones on her table. By her account she had ridden five thousand miles from Calimshan on a camel; the Little Lord had come from Moonshae with his elves, Prince William from Baldur's Gate with his army of bards, and Negen, whom she called the Masked Lord, from Waterdeep with his griffons. All of them had come for a prophecy of the Lexicon: "whosoever shall sit upon the throne of Zanzibar the Great at the appointed hour shall be the one true Zanzibar". She had seen in her bones that all of them would die in the coming war, and asked the crew, who did not care who sat upon the throne, to broker a peace with even one of the Zanzibars. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Negen was [Nine](/people/nine/), who had crossed through the Sphinx doors years before, become a masked lord of Waterdeep and laid claim to the Zanzibar heritage to find the Lexicon; Varkas held him in the castle dungeon. An aspect of the Lexicon was grafted onto the General's airship, and it called [Se7en](/people/se7en/) its son. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+**The Onslaught.** The airship and ground troops launched a massive assault on Fort Zanzibar, bombarding it from above, and the Witch Queen stepped out through the flames of an explosion. Sad King Billy said there was a lexical station in the fort, inert for years for want of moonstone; Se7en had taken the moonstone out of the lexical station on the airship. The crew fought through knights, the Witch Queen's evokers and Zellmo's war priests toward the throne room, while Billy prepared his vessel to escape. The throne itself was connected to the Lexicon. When someone sat on it, the Lexicon declared the prophecy fulfilled, remembered Se7en and Barrias, called Se7en "my son", knew they were not supposed to be there, and asked whether they had tried walking backwards. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## The collapse
 
