@@ -37,6 +37,9 @@ sources:
   - 'Oral Histories: The Inevitables, 2022-12-09'
   - 'Oral Histories: The Inevitables, 2022-12-10'
   - 'Oral Histories: The Inevitables, 2023-01-27'
+  - 'JL''s DM notes: Starfall Notes - Hermes 1st appearance session'
+  - 'JL''s DM notes: Starfall Notes - The Trouble with Wishes'
+  - 'JL''s DM notes: Starfall Notes - The Company - Holly Berrias Session'
 gallery:
   - src: /images/chat/2022-12-08-1087973491874723.webp
     alt: Forbes miniature with a spear
@@ -60,9 +63,11 @@ Forbes is the ship's science ranger and an expert on alien animals. <small>(Oral
 
 On the crew roster of the Zanzibar he is Ensign Forbes of-the-Smelly-Swamp, Exozoologist. <small>(Oral Histories: The Inevitables, 2023-01-27)</small>
 
-The session of 9 December 2022 was a card game among the first-level crew below decks while the ship was spelljamming across the cosmos. <small>(Oral Histories: The Inevitables, 2022-11-26)</small> Forbes was played that night as the melee member of the group, a beast master exozoologist, alongside [Mordecai](/people/mordecai/) and [Se7en](/people/se7en/). <small>(Oral Histories: The Inevitables, 2022-12-07; 2022-12-08; 2022-12-09)</small>
+The session of 9 December 2022 was a card game among the first-level crew below decks while the ship was spelljamming across the cosmos. <small>(Oral Histories: The Inevitables, 2022-11-26)</small> Forbes was played that night as the melee member of the group, a beast master exozoologist, alongside [Mordecai](/people/mordecai/) and [Se7en](/people/se7en/). <small>(Oral Histories: The Inevitables, 2022-12-07; 2022-12-08; 2022-12-09)</small> Their dealer, an ensign named [Hermes](/people/hermes/), was a god, who carried the three to the Citadel to stand trial for their civilization; see [the Citadel trial](/history/the-citadel-trial/). There Forbes first met a Chingwa, whose charm laid *false life* on those who were kind to her. <small>(JL's DM notes: Starfall Notes - Hermes 1st appearance session; Starfall Notes - The Trouble with Wishes)</small>
 
 Had Se7en been told to turn his pig Mr Hamburger over to the science department, Forbes would have told him to let the pig stay in its habitat. <small>(Oral Histories: The Inevitables, 2022-12-10)</small>
+
+In 2023 Forbes worked in the arcane division under [Dr. Nilpferd](/people/dr-nilpferd/), where [Carlos Vega](/people/carlos-vega/) was put under his command as a janitor. Forbes could explain the Chingwa kept in a terrarium there as harmless and quite magical. When it cast *wish* to please them, the ship began to fill with Carlos's favourite thing, gold, and Forbes's, mushrooms, and Nilpferd sent the two of them into the Astral Plane to find a caster who could end it. See [the Chingwa's wish](/history/the-chingwas-wish/). <small>(JL's DM notes: Starfall Notes - The Trouble with Wishes; Starfall Notes - The Company - Holly Berrias Session)</small>
 
 ## Personality
 
