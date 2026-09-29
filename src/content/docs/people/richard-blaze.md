@@ -14,6 +14,7 @@ tags:
 - Eat My Blaze
 - Richard's Tip
 - Esther Crona
+- Great Balls of Blaze
 image:
   src: /images/uploads/richard-blaze-mu0mt7su.webp
   alt: Richard Blaze
@@ -44,6 +45,7 @@ sources:
 - worldanvil/images/rebel-factions/04.jpg
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
 published: '2026-09-10'
 wa:
   slug: richard-blaze-person
@@ -105,6 +107,10 @@ He believes his marriage is Fulcrum's deepest position. He believes Esther can s
 ## Conduct
 
 In the kitchen and at the table he is charming, warm and continuously performing; it is the same skill in both jobs. In the field he is quiet and useful rather than heroic: he fought beside [Dario](/people/sir-dario-argentino/) and [Eric](/people/eric-the-cleric/) through the Iron Veil guard at his own front door, then spent the battle on the balcony healing, bolstering and inspiring the three of them with subtle sorcery while keeping his body between his son and the fight. He gave a long-buried confession, took the disbelief without arguing, and answered only with a warning.
+
+## Great Balls of Blaze
+
+In Korth Blaze kept an all-night eatery, Great Balls of Blaze, where the Unforeseen went for a meal after midnight on the night Radd Orgasm tried to kill [Locke Pierce](/people/locke-pierce/). Its host was a half-elf and its server a half-orc named Mantooth. <small>(JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank)</small>
 
 ## Origin
 
