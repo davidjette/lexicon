@@ -36,6 +36,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-11-08'
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - sources/dave/2026-09-14-starfall-necis.md
+  - "JL's DM notes: Starfall Awakens Notes"
+  - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2024-11-07-946582527292335.webp
     alt: Marcel Martel playing the violin
@@ -71,6 +73,8 @@ After Robin was dismantled Marcel became a rogue and a devotee of the Red Eye, t
 Marcel and Weld ([Umwelt](/people/umwelt/)) first appeared on 8 November 2024. <small>(Oral Histories: The Inevitables, 2024-11-08)</small>
 
 By May 2025, according to Nico, the rebuilt Bureau agents [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/) had brought the body of [Caprica](/people/caprica/) back to [the Terrasque](/items/the-terrasque/) and met up with Martel and Weld. <small>(Oral Histories: The Inevitables, 2025-05-23)</small>
+
+Marcel and Weld first met aboard the SSJ Vanguard, strangers told only to wait, where [OU812](/people/ou812/) brought them the Red Eye's orders to learn what the ship's commanding officers knew about the Lexicon. They took part in the seizure of [the Terrasque](/items/the-terrasque/). At [Necis](/places/necis/) Marcel and Weld explored the Labyrinth among [the Time Tombs](/places/the-time-tombs/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Relationships
 
