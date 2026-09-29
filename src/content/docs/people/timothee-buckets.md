@@ -26,6 +26,9 @@ sources:
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "Oral Histories: The Inevitables, 2024-06-11"
 - "CANON.md 5ai (Oral Histories)"
+- 'JL''s DM notes: Starfall Notes - Barrias'' Nightmare session'
+- sources/dave/2026-09-28-starfall-jl-nico-answers.md
+- 'Oral Histories: The Inevitables, 2023-08-25'
 image:
   src: /images/starsong/sovereign-supreme.webp
   alt: "Timothee Buckets"
@@ -45,6 +48,10 @@ The Company dossier, which [Halle Barrias](/people/halle-barrias/) gives the cre
 > Radical government reforms in the Sovereignty following the crisis at Tannhauser Gate resulted in Astral Command Admiral Timothee Buckets' appointment as supreme ruler with an incredibly broad range of powers over the military, legislature, and judiciary.
 >
 > <small>— The Starsong Awakens site, Company dossier</small>
+
+## Light of Xaryxis
+
+As an admiral of Astral Command during *[Light of Xaryxis](/history/light-of-xaryxis/)*, Buckets sent [Barrias Ruby-Eye](/people/barrias-ruby-eye/) a video message inviting him to a ceremony in his honour. As the anniversary of the Battle of [Negroni Prime](/places/negroni-prime/) approached, the planet, renamed the Planet of Galactic Peace, was to house a memorial to all who died in the conflict, unveiled by the Sovereignty in conjunction with the Beholder Collective, and Astral Command hoped Barrias, Captain Smallberries and Large Luigi would attend as survivors, with full honours for their comrades living and dead. <small>(JL's DM notes: Starfall Notes - Barrias' Nightmare session)</small> In August 2023 the crew were "back on the Zanzibar with the prophet and buckets". <small>(Oral Histories: The Inevitables, 2023-08-25)</small>
 
 ## The Sovereignty under the Sovereign Supreme
 
