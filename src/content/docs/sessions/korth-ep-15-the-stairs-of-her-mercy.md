@@ -120,6 +120,12 @@ In the crowd they heard that the Empress heals in person but touches only five o
 
 Instead of paying, Gemma recast *seeming* behind the stables, and the three became Black Doves: Gemma as the novice she had been in Korth, Eric as an old nun, and Dario as a winged aasimar sister. Gemma's performance carried them past the guards. Every landing on the stairs is an altar, each once built for one of the Sovereign Host and rededicated to the Mother. At the first great altar they overheard **Tamsin Vell**, a vine-dresser who climbs there every morning to pray for a son missing at the front, and **Lord Aldric and Lady Sabine Varenne**, who had come to hunt and to watch the pilgrims, and whose family silver had just gone down to the estate appraiser at the Lodge. [Captain Jim Smallberries](/people/captain-jim-smallberries/) was there on a delivery pass. Above a holy tree that was once a nature god's altar, the statue of Uriel stands with a shield and an imperial crown over a fountain at her feet, and Dario spat into it. Asked how his faith was holding up, Eric said he cares about maths, not the gods.
 
+![Gemma's disguise: the novice she had been in Korth](/images/album/black-dove-nun.webp)
+*Gemma's disguise: the novice she had been in Korth.*
+
+![Dario's disguise: a winged aasimar sister](/images/album/black-dove-assimar.webp)
+*Dario's disguise: a winged aasimar sister.*
+
 ![Gemma, Eric and Dario as Black Doves](/images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise.webp)
 *Gemma, Eric and Dario as Black Doves.*
 
