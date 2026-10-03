@@ -15,7 +15,7 @@ tags:
   - Black Box
   - Aerenal
 image:
-  src: /images/uploads/image-459346361-10102143779440741-850329363828-musoreb7.webp
+  src: /images/uploads/uriel-in-prayer-mussg0kc.webp
 type: person
 kind: people
 icon: fa-crown
