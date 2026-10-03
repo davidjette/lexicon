@@ -282,4 +282,3 @@ None recorded. Her downtime is laboratory work on the magical nature of blood, a
 
 ![uriel-qualanthri-black-dove-og-photo.webp](/images/uploads/uriel-qualanthri-black-dove-og-photo-musotos4.webp)
 
-![IMG_3506.webp](/images/uploads/img-3506-musqhkn4.webp)
