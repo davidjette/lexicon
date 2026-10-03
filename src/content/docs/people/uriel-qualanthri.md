@@ -1,21 +1,23 @@
 ---
 title: Holy Empress Uriel Qualanthri
 description: Founder of the Unforeseen, Black Dove combat medic, and now Holy Empress of the Pax Imperium - the White Death, and the last enemy.
+tags:
+  - Uriel Qualanthri
+  - Uriel
+  - Holy Empress
+  - White Death
+  - Black Doves
+  - Unforeseen
+  - Erandis Vol
+  - Vol
+  - Necromancy
+  - Sex Magic
+  - Black Box
+  - Aerenal
+image:
+  src: /images/uploads/image-459346361-10102143779440741-850329363828-musoreb7.webp
 type: person
 kind: people
-tags:
-- Uriel Qualanthri
-- Uriel
-- Holy Empress
-- White Death
-- Black Doves
-- Unforeseen
-- Erandis Vol
-- Vol
-- Necromancy
-- Sex Magic
-- Black Box
-- Aerenal
 icon: fa-crown
 fields:
   rpgAlignment: Neutral Evil
@@ -32,52 +34,52 @@ fields:
   height: Unknown - strikingly tall
   weight: Unknown - tall and lithe
 sources:
-- sources/dave/2026-09-14-eberron-open-questions.md
-- sources/wa/uriel-qualanthri-person.txt
-- sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
-- sources/wa/episode-5-E2809Cthe-eldeen-reachesE2809D-dm3A-jbyrd-report.txt
-- sources/wa/episode-6-28a26amp3Bb29-E2809C6-months-later-2F-the-tabletE2809D-dm3A-nico-report.txt
-- sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
-- sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
-- sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- sources/site/key-figures.txt
-- sources/site/biotec.txt
-- uriel-ivory-lazaret.md (published Homebrewery text - voice/lore only)
-- worldanvil/CANON.md
-- sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
-- sources/documents/2026-09-14-nico-evil-campaign-3.md
-- "Oral Histories: The Inevitables, 2025-06-07"
-- "Oral Histories: The Inevitables, 2025-08-24"
-- "Oral Histories: The Inevitables, 2025-08-30"
-- "Oral Histories: The Inevitables, 2025-08-31"
-- "Oral Histories: The Inevitables, 2025-10-19"
-- "Oral Histories: The Inevitables, 2025-12-14"
-- "Oral Histories: The Inevitables, 2025-12-17"
-- "Oral Histories: The Inevitables, 2026-06-19"
-- "Oral Histories: The Inevitables, 2026-08-12"
-- "Oral Histories: The Inevitables, 2026-08-22"
-- "Oral Histories: The Inevitables, 2026-08-23"
-- C:/dev/sharn-campaign/session-2026-09-25-summary.md
-- Dave, note of 2026-09-26
-- 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
-- sources/dave/2026-09-27-leef-jl-notes-rulings.md
+  - sources/dave/2026-09-14-eberron-open-questions.md
+  - sources/wa/uriel-qualanthri-person.txt
+  - sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
+  - sources/wa/episode-5-E2809Cthe-eldeen-reachesE2809D-dm3A-jbyrd-report.txt
+  - sources/wa/episode-6-28a26amp3Bb29-E2809C6-months-later-2F-the-tabletE2809D-dm3A-nico-report.txt
+  - sources/wa/episode-9-E2809Cthe-dig-site-2F-throne-roomE2809D-dm3A-nico-report.txt
+  - sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
+  - sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/key-figures.txt
+  - sources/site/biotec.txt
+  - uriel-ivory-lazaret.md (published Homebrewery text - voice/lore only)
+  - worldanvil/CANON.md
+  - sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
+  - sources/documents/2026-09-14-nico-evil-campaign-3.md
+  - 'Oral Histories: The Inevitables, 2025-06-07'
+  - 'Oral Histories: The Inevitables, 2025-08-24'
+  - 'Oral Histories: The Inevitables, 2025-08-30'
+  - 'Oral Histories: The Inevitables, 2025-08-31'
+  - 'Oral Histories: The Inevitables, 2025-10-19'
+  - 'Oral Histories: The Inevitables, 2025-12-14'
+  - 'Oral Histories: The Inevitables, 2025-12-17'
+  - 'Oral Histories: The Inevitables, 2026-06-19'
+  - 'Oral Histories: The Inevitables, 2026-08-12'
+  - 'Oral Histories: The Inevitables, 2026-08-22'
+  - 'Oral Histories: The Inevitables, 2026-08-23'
+  - C:/dev/sharn-campaign/session-2026-09-25-summary.md
+  - Dave, note of 2026-09-26
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: uriel-qualanthri-person
   uuid: 6f27454e-bbde-4a0f-b156-b568213e0dda
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
 gallery:
-- src: /images/gallery/2026-04-05-02.webp
-  alt: 'Calcifer''s birth: Uriel holds the newborn'
-  caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
-- src: /images/gallery/2026-06-10-06.webp
-  alt: Holy Empress Uriel, The White Death document
-  caption: A document page titled "Holy Empress Uriel, The White Death", with sections on the Black Doves, her ascension to the throne and the Ivory Lazaret, and an illustration of Uriel Qualanthri kneeling in white.
-- src: /images/album/uriel-qualanthri-black-dove-og-photo.webp
-  alt: 'Uriel Qualanthri - Black Dove - OG Photo'
-  caption: 'Uriel Qualanthri - Black Dove - OG Photo'
+  - src: /images/gallery/2026-04-05-02.webp
+    alt: 'Calcifer''s birth: Uriel holds the newborn'
+    caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
+  - src: /images/gallery/2026-06-10-06.webp
+    alt: Holy Empress Uriel, The White Death document
+    caption: A document page titled "Holy Empress Uriel, The White Death", with sections on the Black Doves, her ascension to the throne and the Ivory Lazaret, and an illustration of Uriel Qualanthri kneeling in white.
+  - src: /images/album/uriel-qualanthri-black-dove-og-photo.webp
+    alt: Uriel Qualanthri - Black Dove - OG Photo
+    caption: Uriel Qualanthri - Black Dove - OG Photo
 ---
 
 **Female High Elf · Cleric of the Grave (in disguise as a Cleric of Light) · [The Black Doves](/organizations/the-black-doves/) and [The Unforeseen](/organizations/the-unforeseen/) · Holy Empress of the Pax Imperium · **Alive****
