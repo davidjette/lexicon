@@ -279,3 +279,5 @@ A rash, perverted psychopath under an austere uniform. She has a shallow underst
 None recorded. Her downtime is laboratory work on the magical nature of blood, and a standing intention to acquire vampires she can keep.
 
 <small>The future empress and mother of the God of Death.</small>
+
+![uriel-qualanthri-black-dove-og-photo.webp](/images/uploads/uriel-qualanthri-black-dove-og-photo-musotos4.webp)
