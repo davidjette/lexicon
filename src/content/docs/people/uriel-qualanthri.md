@@ -1,6 +1,6 @@
 ---
-title: Holy Empress Uriel Qualanthri
-description: Founder of the Unforeseen, Black Dove combat medic, and now Holy Empress of the Pax Imperium - the White Death, and the last enemy.
+title: Uriel Qualanthri
+description: Founder of the Unforeseen, Black Dove combat medic, and now Holy Empress of the Pax Imperium a.k.a the White Death
 tags:
   - Uriel Qualanthri
   - Uriel
