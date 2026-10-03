@@ -30,31 +30,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-13-E28094-the-condemned-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/album/carrying-bantide-moro.webp
-    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
-    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) carrying an invisible rebel agent Bantide Moro (Nightingale) through the Imperial capital of Korth - Korth Episode: The Condemned'
-  - src: /images/album/speaking-with-bantide-moro-in-jail.webp
-    alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Mo
-    caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) speaking with prisoner Bantide Moro. Imperial capital of Korth jail - Korth Episode: The Condemned'
-  - src: /images/gallery/2026-09-07-01.webp
-    alt: Bantide Moro, the condemned
-    caption: A barefoot blonde woman with a long braid, in a torn sackcloth dress, stands chained in a stone cell. Bantide Moro is condemned before the High Court of Korth.
-  - src: /images/gallery/2026-09-07-03.webp
-    alt: The condemned before the High Court
-    caption: In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them.
-  - src: /images/gallery/2026-09-07-04.webp
-    alt: The Advocate and Vice Admiral Merkin in court
-    caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
-  - src: /images/gallery/2026-09-07-05.webp
-    alt: Master Armhair in the Hall of Records
-    caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
-  - src: /images/gallery/2026-09-07-06.webp
-    alt: The midnight meeting with Armhair and Jelton Ahn
-    caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
-  - src: /images/gallery/2026-09-07-07.webp
-    alt: The Advocate and her bodyguard at the Ministry
-    caption: The dark-haired Advocate and the skull-masked samurai stand at a great iron-bound door flanked by red-robed guards and a uniformed officer.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 13 · DM: Dave**
@@ -69,9 +44,27 @@ gallery:
 
 At the Ministry of Records the trio studied the machinery they were about to operate: no defence counsel, no discovery, only judges interrogating the prosecution, and a kin-and-patron system in which spouses, siblings or employers testified to the condemned's value. Sabotage, espionage and embezzlement meant death.
 
+![Gemma, as Deirdre Moro, and her bodyguard Sky Rizzy at the Ministry](/images/gallery/2026-09-07-07.webp)
+*Gemma, as Deirdre Moro, and her bodyguard Sky Rizzy at the Ministry.*
+
 In the Hall of Records they overheard scholars discussing a black dragon over the [Korramont](/places/the-korramont/). Gemma approached the elderly half-elf loremaster **Master Armhair** and admitted she had stood before the dragon and spoken with it. At midnight Armhair returned with the Leonin scholar Jelton Ahn and confessed his life's heresy. The trio gave him the Crown of Seven Stars as a gift for [Valtrex](/species/valtrex/) and told him to bargain — without telling him it was cursed. Jelton, refusing such a treasure for nothing, gave them a *scroll of true resurrection*.
 
+![Gemma and Eric meet the loremaster Master Armhair in the Hall of Records](/images/gallery/2026-09-07-05.webp)
+*Gemma and Eric meet the loremaster Master Armhair in the Hall of Records.*
+
+![The trio meet Armhair and the Leonin scholar Jelton Ahn at midnight](/images/gallery/2026-09-07-06.webp)
+*The trio meet Armhair and the Leonin scholar Jelton Ahn at midnight.*
+
 At dawn stormtroopers came: Deirdre was recorded absent and required at the Ministry of Law. In the High Court, overlooked by an Iron Maiden designed to kill the condemned while preserving the body for "second service," eight judges were already seated. The condemned turned to face her — and was unmistakably Deirdre Moro's sister. Her name was **Bantide Moro**.
+
+![The Star Advocate faces the condemned before the High Court of Korth](/images/gallery/2026-09-07-03.webp)
+*The Star Advocate faces the condemned before the High Court of Korth.*
+
+![The Advocate speaks with Vice Admiral Freyd Merkin in court](/images/gallery/2026-09-07-04.webp)
+*The Advocate speaks with Vice Admiral Freyd Merkin in court.*
+
+![Bantide Moro, the condemned, chained in a stone cell](/images/gallery/2026-09-07-01.webp)
+*Bantide Moro, the condemned, chained in a stone cell.*
 
 ## Revelations
 
@@ -89,6 +82,12 @@ At dawn stormtroopers came: Deirdre was recorded absent and required at the Mini
 ## Consequences
 
 Gemma broke script and testified as kin; the panel found the documentation insufficient, granted the state one month and remanded Bantide to the garrison. Merkin told her she had spent her only chip — and handed her the **Grand Lodge assignment**: travel to the Summer Palace and the Ivory Lazaret, seize all guest records, and arrest any saboteurs or suspected pirates. The file included a likeness of [Captain Joseph L. Roberts](/people/pirate-joseph-roberts/), Blair's husband and Gemma's former fling. Deadline Monday; it was Friday morning. Bantide cast *feign death*, dropped from the corpse chute, and was revived and hidden in Deirdre's apartment. She named a last lead: a listening post beside the Hall of Submission that may explain what happened to Izaak and [Zero-One](/people/zero-one-fema-nolan/).
+
+![The disguised Gemma and Eric speak with Bantide Moro in her jail cell](/images/album/speaking-with-bantide-moro-in-jail.webp)
+*The disguised Gemma and Eric speak with Bantide Moro in her jail cell.*
+
+![The disguised trio carry an invisible Bantide Moro through Korth](/images/album/carrying-bantide-moro.webp)
+*The disguised trio carry an invisible Bantide Moro through Korth.*
 
 <small>A Master bell — the ninth great casting — hangs in a Black Dove tower attached to the Imperial Palace itself.</small>
 

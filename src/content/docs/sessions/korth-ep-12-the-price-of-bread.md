@@ -28,25 +28,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-12-E28094-the-price-of-bread-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-09-02-01.webp
-    alt: The battle at Zilspar Farm
-    caption: On a burning, corpse-strewn field, a bearded man in a red coat with a shield, a dragonborn swinging a warhammer and a woman with a blade fight grey armoured undead soldiers.
-  - src: /images/gallery/2026-09-02-02.webp
-    alt: The battle at Zilspar Farm
-    caption: Sir Dario Argentino on his black panther swings a warhammer, Eric the Cleric charges and Gemma Corso looses violet magic at armoured undead soldiers across a burning field.
-  - src: /images/gallery/2026-09-02-03.webp
-    alt: Gemma fights an E.D.E.N. unit
-    caption: On a wet wooden platform, Gemma Corso swings a glowing blade at a skeletal armoured soldier, with burning buildings and crackling lightning towers behind.
-  - src: /images/gallery/2026-09-02-04.webp
-    alt: E.D.E.N. units among the ruins
-    caption: A bearded man in a red coat with a shield stands between two skeletal armoured soldiers among the burning ruins of a farm, a panther rider and crackling lightning behind them.
-  - src: /images/gallery/2026-09-03-01.webp
-    alt: Jessica Grimpledink and the wedding gift
-    caption: In a dark gothic apartment, Jessica Grimpledink reaches toward a floating black and red crystalline object by the fireplace while Gemma Corso lounges on a sofa and Eric the Cleric and Sir Dario Argentino look on. Jessica has found that Esther's wedding gift is both black and red Khyber.
-  - src: /images/gallery/2026-09-03-03.webp
-    alt: Esther's wedding gift
-    caption: A spiked black crystalline object with a glowing red heart floats in a dark room framed by gold pillars.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 12 · DM: Dave**
@@ -57,6 +38,12 @@ gallery:
 
 [The Inevitables](/organizations/the-inevitables/) returned to Sharn to find Jessica with the worst news of the war: [Zilspar Farm](/places/zilspar/) had been destroyed, [Zero-One](/people/zero-one-fema-nolan/) taken alive, and [Izaak](/people/izaak/) presumed dead. Research confirmed the method for making [King Corn](/people/king-corn/)'s horn, established that breaking a bell does *not* notify [Uriel Qualanthri](/people/uriel-qualanthri/), and concluded [KNELL](/items/knell/) is likely unique.
 
+![Jessica Grimpledink examines Esther's wedding gift as the party looks on](/images/gallery/2026-09-03-01.webp)
+*Jessica Grimpledink examines Esther's wedding gift as the party looks on.*
+
+![Esther's wedding gift, a spiked crystal of black and red Khyber](/images/gallery/2026-09-03-03.webp)
+*Esther's wedding gift, a spiked crystal of black and red Khyber.*
+
 [Sir Dario Argentino](/people/sir-dario-argentino/) destroyed two bells in a morning. The first sat crated in the unfinished tower above the hospital, packed with straw by people too frightened to touch it; he cleared the muffling himself and swung with *"may our children forgive us."* The second hung in a small temple of Boldrei in the Lower City, where [Gemma Corso](/people/gemma-corso/) masked herself as Chancellor [Eric the Cleric](/people/eric-the-cleric/) and promised the crowd nothing would be harmed — and Dario's strike brought the whole tower down through the floor, burying him and turning the crowd against them.
 
 [Renn Tal](/people/renn-tal/) briefed Eric: the city was out of fuel and, with the farm gone, a month from severe food shortages. Standing near the Eye of Corruption, Eric found it resonated with his psychic power and sharpened him, and used that to help [The Nest](/organizations/the-nest/) engineers bleed its rising output off as fire for the furnaces. Renn then declared the Eye property of Sharn.
@@ -66,6 +53,18 @@ At the hospital, [Zero of Sharn](/people/zero-of-sharn/) convened a meeting with
 They caroused and outfitted. Hopper cast *summon dragon* into Eric's Ring of Spell Storing on the understanding that a true name summons that dragon for one hour and then frees it, which they intend to spend on [Valtrex](/species/valtrex/). Doppler Klink built each of them a wand of magic missile at cost and then got to work making Horns. Gemma received more on her cover in Korth as [Deirdre Moro](/people/deirdre-moro/), a Star Advocate from the Ministry of Law, with standing to investigate nearly any Imperial facility, and Eric as her paralegal, Graham Cracker.
 
 They flew to [Zilspar Farm](/places/zilspar/) anyway. Eight [E.D.E.N.](/organizations/project-e-d-e-n/) units remained, and they were not what the party fled at level five: self-healing, undead fortitude, articulating on impossible second elbows, bursting into lightning when killed. All eight fell.
+
+![Eric the Cleric, Sir Dario Argentino and Gemma Corso fight E.D.E.N. units at Zilspar Farm](/images/gallery/2026-09-02-01.webp)
+*Eric the Cleric, Sir Dario Argentino and Gemma Corso fight E.D.E.N. units at Zilspar Farm.*
+
+![Sir Dario Argentino, Eric the Cleric and Gemma Corso charge across the burning farm](/images/gallery/2026-09-02-02.webp)
+*Sir Dario Argentino, Eric the Cleric and Gemma Corso charge across the burning farm.*
+
+![Gemma Corso fights an E.D.E.N. unit on a wet wooden platform](/images/gallery/2026-09-02-03.webp)
+*Gemma Corso fights an E.D.E.N. unit on a wet wooden platform.*
+
+![Eric the Cleric stands between two E.D.E.N. units among the burning ruins](/images/gallery/2026-09-02-04.webp)
+*Eric the Cleric stands between two E.D.E.N. units among the burning ruins.*
 
 > may our children forgive us.
 

@@ -30,22 +30,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-6-E28094-the-long-night-at-the-mountain-door-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-07-19-01.webp
-    alt: Dario rests beneath the trophy skull
-    caption: Two cloaked figures stand in a dim room where a dragonborn lies resting on a bed beneath a huge monstrous skull mounted on the wall. The trio hold the Mountain Door while Dario recovers, and Gemma studies a trophy skull hung there.
-  - src: /images/gallery/2026-07-19-03.webp
-    alt: The fox mask at Braga Kul's cell
-    caption: The fox-masked woman stands at iron bars in a torchlit corridor, facing a captive orc inside the cell. Masked, Gemma Corso questions the prisoner Braga Kul.
-  - src: /images/gallery/2026-07-19-04.webp
-    alt: Wall of fire at the rope bridge
-    caption: A roaring wall of fire runs along a rope bridge as orcs charge through the smoke toward it. Eric's wall of fire seals the doorway and burns the bridge away.
-  - src: /images/gallery/2026-07-20-02.webp
-    alt: The reliefs of the Grand Stair
-    caption: A ruined stone chamber opens onto a stair descending into light, its walls carved with deep reliefs including a coiled dragon, the floor strewn with rubble and bones.
-  - src: /images/gallery/2026-07-20-03.webp
-    alt: Before the reliefs of the Grand Stair
-    caption: Three figures, one armoured and two cloaked, stand before the carved dragon reliefs at the head of the stair down into the mountain.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 6 · DM: Dave**
@@ -56,13 +40,28 @@ gallery:
 
 With the Mountain Door sealed behind them, the trio held position a full day so [Sir Dario Argentino](/people/sir-dario-argentino/) could recover. Their captive [Braga Kul](/people/braga-kul/) confirmed his warband had fought something below and come back "retching and talking about whispers," warned them plainly that unblocking the stair would be a mistake, and asked for a dagger rather than face Imperial or [Black Dove](/organizations/the-black-doves/) interrogation.
 
+![Masked, Gemma Corso questions the captive Braga Kul through the bars of his cell](/images/gallery/2026-07-19-03.webp)
+*Masked, Gemma Corso questions the captive Braga Kul through the bars of his cell.*
+
 [Gemma Corso](/people/gemma-corso/) repaired [Eric the Cleric](/people/eric-the-cleric/)'s boots with her father's cobbling kit. The Sharn home-defence crystal was set at the door of Dario's room; its password, **"LeBeefe,"** whispered back at Eric when he spoke it aloud. Gemma examined a skull hung on the wall like a trophy — no natural creature, and too like the one-eyed tentacled horrors encountered outside Leef years ago. Eric cast *augury* with his tarot deck: Tower, Moon, Devil, Hanged Man, Judgement. The spread returned a mixed omen of weal and woe, hinting at disaster, deception, infernal influence, sacrifice, and salvation. Gemma, contacting her patron, heard the warning: "Never negotiate with an insane dragon."
 
+![Gemma and Eric stand beneath the trophy skull while Sir Dario Argentino recovers](/images/gallery/2026-07-19-01.webp)
+*Gemma and Eric stand beneath the trophy skull while Sir Dario Argentino recovers.*
+
 Late that night Eric heard tapping through the stone, answered by Braga tapping a rock on his cell bars. When Eric and Gemma attempted to interrogate him using the truth serum delivered by invisible mage hand, Braga resisted the magic and warned them that something was coming. Moments later the barred front door opened from the inside: the warband's scout party, eight orcs including a war-caster, had come back. Eric killed Braga through the bars with magic missiles, then sealed the doorway with a *wall of fire* that burned the rope bridge away entirely. Spirit Guardians tore through the attackers, while Gemma cut down fleeing scouts with Bright Dawn. By the end of the battle, every member of the Uruk-Hoth recon regiment was dead; Braga, the scouts, and the straggler found outside and later executed by Gemma before dawn.
+
+![Eric's wall of fire burns along the rope bridge as the orc scouts charge](/images/gallery/2026-07-19-04.webp)
+*Eric's wall of fire burns along the rope bridge as the orc scouts charge.*
 
 The recon unit numbered about forty. About twenty had fallen in the fight at the mine in [Korth Ep 5](/sessions/korth-ep-5-the-korranberg-descent/), and the rest died here. Dave: "An orc recon squad of 40 in a well held stronghold means the war is moving very fast". <small>(Oral Histories: The Inevitables, 2026-07-15)</small> Of the unit, after Ep 5: "we killed that whole Uruk Hoth recon unit, and technically they're not even our enemies, but they were ready to attack all imperials on sight". <small>(Dave, Oral Histories: The Inevitables, 2026-07-12)</small>
 
 In the morning the trio blasted apart the dwarven stair-gate, whose key had snapped in the lock, and found the stair chamber littered with dwarven dead three to four years old.
+
+![The stair chamber beyond the gate, its walls carved with reliefs of the clan and a dragon](/images/gallery/2026-07-20-02.webp)
+*The stair chamber beyond the gate, its walls carved with reliefs of the clan and a dragon.*
+
+![The trio stand before the carved reliefs at the head of the stair into the mountain](/images/gallery/2026-07-20-03.webp)
+*The trio stand before the carved reliefs at the head of the stair into the mountain.*
 
 > Never negotiate with an insane dragon.
 

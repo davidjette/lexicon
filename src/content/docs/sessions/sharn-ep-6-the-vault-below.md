@@ -33,30 +33,6 @@ gallery:
   - src: /images/site/sharn-ep-6-the-vault-below-2.webp
     alt: 'Episode 6: The Vault Below'
     caption: 'Episode 6: The Vault Below'
-  - src: /images/gallery/2026-01-24-01.webp
-    alt: The trio outside The Vault Below
-    caption: Eric, Gemma and Dario walk a neon-lit alley past the Gremlin's Lantern sign toward the glowing entrance of The Vault Below.
-  - src: /images/gallery/2026-01-26-04.webp
-    alt: Vault Below drink menu
-    caption: 'The Vault Below drink menu in a fiery dragon border: Emberwine, Shadowshot, Ironblood Stout, Crystal Tonic and the house special "The Vaulted Secret", each with a game effect.'
-  - src: /images/gallery/2026-02-10-01.webp
-    alt: Letter from Hallorn d'Lyrandar to Malrik
-    caption: A letter to Malrik signed Hallorn d'Lyrandar about delayed Umbra shipments, the Lord Commander's threats and Eden being deployed against the Hundreds, with Hallorn's portrait.
-  - src: /images/gallery/2026-02-10-02.webp
-    alt: Letter from Malrik Zier to Hallorn
-    caption: A sealed letter to Hallorn signed Malrik Zier about Faith, Esther and the EDEN units in the Mournlands, with Malrik's portrait.
-  - src: /images/gallery/2026-02-10-05.webp
-    alt: Hallorn's letter on the Velvet Table Society
-    caption: A letter to Malrik signed Hallorn d'Lyrandar gossiping that Henry Heinrick has been invited to fill an opening in the Velvet Table Society after Cob Cornwell's death.
-  - src: /images/gallery/2026-02-10-10.webp
-    alt: The trio at the door of The Vault Below
-    caption: Gemma, Eric and Dario stand before the orange neon sign of The Vault Below Club & Gambling, looking into the crowded club.
-  - src: /images/album/sharn-ep-6-the-vault-below-dario-rescues-captive-blood-catle-lorian-from-the-vua.webp
-    alt: 'Dario rescues captive blood-cattle Lorian from The Vault Below - Sharn Episode: The Vault Below'
-    caption: 'Dario rescues captive blood-cattle Lorian from The Vault Below - Sharn Episode: The Vault Below'
-  - src: /images/album/sharn-ep-6-the-vault-below-lorian-found-in-a-feeding-cell-the-vault-below-sharn.webp
-    alt: 'Lorian found in a feeding cell - The Vault Below - Sharn Lower City - Lantern District - Sharn Episode: The Vault Below'
-    caption: 'Lorian found in a feeding cell - The Vault Below - Sharn Lower City - Lantern District - Sharn Episode: The Vault Below'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 6 · DM: Nichole**
@@ -67,7 +43,31 @@ Sharn Ep 6 — The Vault Below is the sixth session of the Sharn arc of Campaign
 
 The trio pushed deeper into the lower city, following the trail of the missing ArcEye retiree [Grady Marsh](/people/grady-marsh/) to the pulsing, industrial nightclub known as [The Vault Below](/places/the-vault-below/). After sampling the club's signature specialty drinks, each with its own uncanny knack for sharpening their skills, they watched a hooded figure slip through a guarded door and whisper a password to the security stationed there. With their senses heightened and their instincts sharp, the trio repeated the phrase and were granted access to the restricted levels beneath the club.
 
+![Eric, Gemma and Dario approach the entrance of The Vault Below](/images/gallery/2026-01-24-01.webp)
+*Eric, Gemma and Dario approach the entrance of The Vault Below.*
+
+![The trio stand at the door of The Vault Below club](/images/gallery/2026-02-10-10.webp)
+*The trio stand at the door of The Vault Below club.*
+
+![The Vault Below drink menu, with the effect of each specialty drink](/images/gallery/2026-01-26-04.webp)
+*The Vault Below drink menu, with the effect of each specialty drink.*
+
 Below the dance floor, a lone [Children of Ember](/organizations/the-children-of-ember/) cultist confronted them, calling for reinforcements. The fight was fast and brutal; four cultists fell before the trio pushed deeper into the hidden chambers. There they found Grady Marsh, shaken but alive, along with two emaciated prisoners kept as "blood cattle" for [Malrik Zeir](/people/malrik-zeir/)'s feeding. The trio freed them all and uncovered scattered documents, relics, and clues about the Children of Ember, correspondence between Malrik and his half-brother [Hallorn](/people/hallorn-d-lyrandar/) about [Umbra](/items/umbra/) and its connection to [Project EDEN](/organizations/project-e-d-e-n/), mention of [Henry Heinrick](/people/henry-heinrick/) joining "[The Velvet Table Society](/organizations/the-velvet-table-society/)" which meets at the upper-city Vault location, and notes on the strange ritual attempted on Grady Marsh.
+
+![Lorian chained in a feeding cell beneath The Vault Below](/images/album/sharn-ep-6-the-vault-below-lorian-found-in-a-feeding-cell-the-vault-below-sharn.webp)
+*Lorian chained in a feeding cell beneath The Vault Below.*
+
+![Dario carries Lorian out of The Vault Below](/images/album/sharn-ep-6-the-vault-below-dario-rescues-captive-blood-catle-lorian-from-the-vua.webp)
+*Dario carries Lorian out of The Vault Below.*
+
+![Hallorn d'Lyrandar's letter to Malrik about delayed Umbra shipments and Eden](/images/gallery/2026-02-10-01.webp)
+*Hallorn d'Lyrandar's letter to Malrik about delayed Umbra shipments and Eden.*
+
+![Malrik Zeir's sealed reply to Hallorn about Faith, Esther and the EDEN units](/images/gallery/2026-02-10-02.webp)
+*Malrik Zeir's sealed reply to Hallorn about Faith, Esther and the EDEN units.*
+
+![Hallorn's letter reporting Henry Heinrick's invitation to the Velvet Table Society](/images/gallery/2026-02-10-05.webp)
+*Hallorn's letter reporting Henry Heinrick's invitation to the Velvet Table Society.*
 
 Their escape led them through a concealed trapdoor into the undercity tunnels, where they chose not to risk the labyrinth. Instead, [Gemma](/people/gemma-corso/) activated her teleportation chip, whisking the entire group safely back to [Zilspar Farm 02](/places/zilspar/). There, Silver Flame [Donna](/people/donna/) tended to the rescued captives while Grady, still foggy from drugs and a failed memory-extraction ritual, shared what fragments he could about the night [Calcifer](/people/calcifer/) was born. He offered the trio several leads on where they might find a functioning [ArcEye Crystallizer](/items/the-arceye-crystallizer/), the only device capable of safely unlocking the full truth buried in his mind.
 

@@ -28,25 +28,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-7-E28094-the-glitterhame-and-the-grave-robbers-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-07-20-04.webp
-    alt: The dead outrider in the pocket cave
-    caption: The trio stand over a dead grey-skinned dwarf in a cave, with scattered coins and a wax-sealed crest rubbing on the ground before them. The dead mourner, later named Sesame Tofu, carries a family crest rubbing from House Moo Goo Gai Pan.
-  - src: /images/gallery/2026-07-20-05.webp
-    alt: Grells over the underground stream
-    caption: Floating brain-like tentacled grells attack over a dark stream; one carries a figure into the air while an armoured warrior swings a flaming sword.
-  - src: /images/gallery/2026-07-20-06.webp
-    alt: Descending into the Glitterhame
-    caption: Three figures descend a stone stair into a vast cavern filled with glowing orange fungus and pale crystals.
-  - src: /images/gallery/2026-07-20-07.webp
-    alt: Skeletons rise from the silt
-    caption: A dragonborn with a blue-flaming sword, a dark-haired elf and a woman with a glowing blade fight skeletons rising from shallow water among glowing mushrooms.
-  - src: /images/gallery/2026-07-20-08.webp
-    alt: Returning the belt to Madame Tso
-    caption: In a pillared hall of carved dragons and waiting dwarves, Eric the Cleric in a white wig and red coat hands an object to a white-haired duergar woman, with Gemma Corso and Sir Dario Argentino beside him. Madame Tso Teryaki names the party grave robbers and takes back her husband's Belt of Dwarvenkind.
-  - src: /images/gallery/2026-07-20-09.webp
-    alt: The Bladeworks above the lava
-    caption: A huge black bell hangs from scaffolding over a chasm of glowing lava, below tiers of dwarven forge halls.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 7 · DM: Dave**
@@ -59,11 +40,29 @@ gallery:
 
 At the threshold of the Grand Stair the whispers began, aimed only at [Eric the Cleric](/people/eric-the-cleric/): *"Deliver the message."* He concealed them. Stirges woke to the ring of his armour; further down, four grells descended from the stalactites, one paralysing Eric and carrying him thirty feet into the air while the whispers shrieked through his mind. He broke free with his Passage Mark. In a pocket cave they found a dead duergar mourner weeks gone, carrying a mourning-braid and a family crest rubbing from House Moo Goo Gai Pan.
 
+![Grells attack the trio over an underground stream](/images/gallery/2026-07-20-05.webp)
+*Grells attack the trio over an underground stream.*
+
+![The trio find the dead duergar mourner in a pocket cave](/images/gallery/2026-07-20-04.webp)
+*The trio find the dead duergar mourner in a pocket cave.*
+
 The masoned path opened into the sepulcher gallery and then the Glitterhame itself: a vast cavern filled with a glowing fungal bloom. The spores reached Eric at once, speaking with a clear voice — *"Have you come to deliver the message… as my lord sent you?"* He answered aloud, failed, and felt a presence looking out through his eyes. [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/) began to worry.
+
+![The trio descend into the glowing fungal cavern of the Glitterhame](/images/gallery/2026-07-20-06.webp)
+*The trio descend into the glowing fungal cavern of the Glitterhame.*
 
 Despite consecrated ground, the trio looted the graves, taking five jewelled ceremonial belts and a Belt of Dwarvenkind that Eric attuned to. Below the waterfall they cleared skeletons in Imperial slave shackles; a cistern held a writhing mass of bones, and a child's chalk drawing showed a bell with dwarves covering their ears. A black pudding dropped on them in the storeroom.
 
+![The trio fight skeletons rising from the water below the waterfall](/images/gallery/2026-07-20-07.webp)
+*The trio fight skeletons rising from the water below the waterfall.*
+
 Beyond the Iron Door and a hidden passage lay the Great Hall of Rak'tafûr, where the surviving [Deeptempura Clan](/organizations/the-deeptempura-clan/) kin had made camp. The matriarch, Madame Tso Teryaki, saw the Belt of Dwarvenkind at Eric's waist and declared them grave robbers. Weapons were drawn until Eric surrendered it. [Sir Dario Argentino](/people/sir-dario-argentino/) salvaged the encounter in Dwarvish, invoking kinship through Orange Chicken, Yellow Meat and the court of King Six-Foot-Six-Inch-Long, and the kin granted one cold night of hospitality. Gemma returned the mourning-braid, giving a name to the dead outrider: Sesame Tofu.
+
+![Eric the Cleric returns the Belt of Dwarvenkind to Madame Tso Teryaki](/images/gallery/2026-07-20-08.webp)
+*Eric the Cleric returns the Belt of Dwarvenkind to Madame Tso Teryaki.*
+
+![A huge black bell hangs from scaffolding above a chasm of lava](/images/gallery/2026-07-20-09.webp)
+*A huge black bell hangs from scaffolding above a chasm of lava.*
 
 ## Revelations
 

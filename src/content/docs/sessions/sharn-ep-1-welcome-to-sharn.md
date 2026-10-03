@@ -28,10 +28,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-1-E28094-welcome-to-sharn-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/gallery/2026-02-11-08.webp
-    alt: The trio escapes BioTec
-    caption: Eric, Gemma and Dario stand ready with mace, dagger and shield as armoured undead hybrids advance out of the smoke beneath the BioTec sign.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 1 · DM: Nichole**
@@ -43,6 +39,9 @@ gallery:
 Newly arrived in the towering city of [Sharn](/places/sharn/), the trio; [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) are instructed to meet rebel operative [Izaak](/people/izaak/) during a quiet meeting at [The Astra Bar](/places/the-astra-bar/) in the upper city. Their first assignment: infiltrate the corporate labs of [BioTec](/organizations/biotec/) and steal a prototype known only as the [Ghost Chip](/items/the-ghost-chip/).
 
 To get inside, the trio befriend an intoxicated BioTec employee [Martin Kross](/people/martin-kross/), escorting him home and lifting his keycard. Their break-in quickly spirals out of control when private security confronts them and a panicked scientist accidentally unleashes three horrific undead [warforged](/lore/warforged/) hybrid units never before seen.
+
+![Eric, Gemma and Dario face the undead warforged hybrids inside BioTec](/images/gallery/2026-02-11-08.webp)
+*Eric, Gemma and Dario face the undead warforged hybrids inside BioTec.*
 
 Barely surviving the encounter, the trio secure the Ghost Chip and a folder of encrypted high-level data before fleeing into the night. Following Izaak's instructions, they solve a hidden puzzle in [Skyroot Park](/places/skyroot-park/) that grants them access to the Sharn rebel stronghold known as [The Nest](/organizations/the-nest/), where they meet [Zero of Sharn](/people/zero-of-sharn/) and take refuge as the city sleeps.
 

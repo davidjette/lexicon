@@ -28,16 +28,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-2-E28094-storm-above-thronehold-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-06-21-04.webp
-    alt: Warships bombard Thronehold
-    caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
-  - src: /images/gallery/2026-06-21-02.webp
-    alt: Escape from the burning Summit hall
-    caption: Eric the Cleric gallops on a palomino as Lorian and a woman run beside him, fleeing an explosion through a crowded hall at Thronehold.
-  - src: /images/gallery/2026-06-21-03.webp
-    alt: Vex attacks the Hundreds' warship
-    caption: Vex d'Lyrandar flies at a massive warship over the sea beside Thronehold, lightning crackling around him, as Gemma Corso, Eric the Cleric and Lorian stand on its deck.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 2 · DM: Dave**
@@ -50,9 +40,18 @@ The great hall erupted the moment Admiral [Vex d'Lyrandar](/people/supreme-admir
 
 [Lorian](/people/lorian/) summoned Tira, his light-brown palomino, and pulled Eric onto the saddle as the masked Empire guards surged forward. Their movements were unnatural — undead soldiers loyal not to Vex but to Empress [Uriel Qualanthri](/people/uriel-qualanthri/). The Black Dove sisters fled at once as the undead turned on Vex and anyone in their path, confirming Uriel's trap and leaving Vex furious and screaming of her betrayal.
 
+![Eric the Cleric rides Tira as Lorian and Gemma Corso flee the exploding Summit hall](/images/gallery/2026-06-21-02.webp)
+*Eric the Cleric rides Tira as Lorian and Gemma Corso flee the exploding Summit hall.*
+
 Vex called down his warships and ordered them to fire on the Summit grounds. Explosions tore through the surrounding buildings, killing delegates and civilians. Amid the chaos the trio spotted the silhouette of [the Dread Pirate Joseph Roberts](/people/pirate-joseph-roberts/)'s airship, newly arrived at Thronehold — and watched him turn and flee the island entirely as the rooftops caught.
 
+![Vex's warships shell the Summit grounds at Thronehold, leaving a hall burning](/images/gallery/2026-06-21-04.webp)
+*Vex's warships shell the Summit grounds at Thronehold, leaving a hall burning.*
+
 [Locke Pierce](/people/locke-pierce/) and [The Hundreds](/organizations/the-hundreds/) sprinted for their vessels; the trio raced after them and misty-stepped aboard one of Locke's ships as it lifted. Vex, wrapped in lightning and rage, launched himself into the sky and clung to the rising hull.
+
+![Vex d'Lyrandar flies at the rising ship as Gemma Corso, Eric and Lorian stand on deck](/images/gallery/2026-06-21-03.webp)
+*Vex d'Lyrandar flies at the rising ship as Gemma Corso, Eric and Lorian stand on deck.*
 
 > Kill Chancellor Eric for the Empire.
 

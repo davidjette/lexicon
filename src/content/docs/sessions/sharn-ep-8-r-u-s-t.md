@@ -28,13 +28,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-8-E28094-rust-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/gallery/2026-01-16-02.webp
-    alt: 'Breakers Pit fighter card: Biff, Tier 1'
-    caption: 'A Breakers Pit fighter card for Biff, a scarred brawler in a fur-collared coat with a knife and pistol: Tier 1, entry fee 150 gp.'
-  - src: /images/gallery/2026-03-01-01.webp
-    alt: Dario fights at Breaker's Pit
-    caption: An armoured knight with a shield and warhammer duels a bearded brawler with a blade in a packed underground arena.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 8 · DM: Nichole**
@@ -46,6 +39,12 @@ gallery:
 The trio began the night in their [Lower City](/places/the-lower-city/) safehouse, recovering from the violent clash outside the [Sharn Library](/places/the-sharn-library/) in the upper city. As they prepared for their evening fight at [Breakers Pit](/places/breakers-pit/), a breaking broadcast from the Sharn News Network identified a silver dragonborn, a red-haired tiefling, and a human man in short-shorts as suspects in a "coordinated terrorist attack." With the [Iron Veil](/organizations/the-iron-veil/) now hunting them, the trio disguised themselves before stepping into the streets.
 
 At Breakers Pit, [Dario](/people/sir-dario-argentino/) entered the fighting ring and defeated Biff, earning a Feather Token and the attention of the mysterious hooded and masked woman, Queen B. Impressed by his skills in the pit, she invited the trio to seek her in the [Underhive](/organizations/the-underhive/), hinting that the aqueduct would be their first landmark.
+
+![The Breakers Pit fighter card for Biff, a Tier 1 brawler](/images/gallery/2026-01-16-02.webp)
+*The Breakers Pit fighter card for Biff, a Tier 1 brawler.*
+
+![Dario fights Biff in the ring at Breakers Pit](/images/gallery/2026-03-01-01.webp)
+*Dario fights Biff in the ring at Breakers Pit.*
 
 After the fight, the trio met with [Misty Kross](/people/misty-kross/) and [DJ Rust](/people/dj-rust/), who escorted them to [Misty's Pawn Shop](/places/mistys-pawn-shop/). There they reunited with [Kriss Kross](/people/kriss-kross/) and [Renn Tal](/people/renn-tal/). Renn explained that Lord Commander [Esther Crona](/people/esther-crona/) had arrived at the library after their escape, questioned witnesses and left, raising fears she may have followed Renn to the Lower City.
 

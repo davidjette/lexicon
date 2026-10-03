@@ -27,22 +27,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-5-E28094-the-korranberg-descent-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-07-12-01.webp
-    alt: The disguised trio in Deirdre Moro's apartment
-    caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
-  - src: /images/gallery/2026-07-12-22.webp
-    alt: Riding into Korranberg
-    caption: Three riders on horseback enter a one-road mountain town of timber buildings, past a tavern and a sheriff's office, toward a hall marked Korranberg under snowy peaks.
-  - src: /images/gallery/2026-07-12-23.webp
-    alt: Deirdre's face in the archer nook
-    caption: The disguised Gemma Corso stands sword in hand in a narrow stone arrow gallery, a slain orc at her feet and an armoured orc looming behind her. At the Mountain Door she misty-steps into an archer nook and clears it with Bright Dawn.
-  - src: /images/gallery/2026-07-12-24.webp
-    alt: Graham's face at the Mountain Door
-    caption: The disguised Eric the Cleric advances with shield and blade through a stone passage wreathed in glowing golden mathematical symbols, while an orc archer aims through an arrow slit. Eric's spirit guardians manifest as golden math symbols.
-  - src: /images/gallery/2026-07-12-25.webp
-    alt: Mounted charge against the orcs
-    caption: The armoured rider on a black horse swings a blue-flaming sword through a burning camp of orcs.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 5 · DM: Dave**
@@ -53,9 +37,24 @@ Korth Ep 5 — The Korranberg Descent is the fifth session of the Korth arc of C
 
 Cleaning the apartment, the trio learned that Deirdre Moro had been a contract lawyer for the Empire — a post granting her and her assistant wide mobility through the Capitol and its territories. Among her files were maps, client lists and old work orders referencing **Korranberg**, a one-road mining town in the foothills of the King's Forest, once home to the [Deeptempura Clan](/organizations/the-deeptempura-clan/), deep dwarves conquered and enslaved by the Empire years ago. [the Korranberg Foundry](/places/the-korranberg-foundry/), now abandoned, sat connected to old rails and mine networks.
 
+![The trio, disguised as Deirdre Moro, Graham Cracker and their bodyguard, in Deirdre's apartment](/images/gallery/2026-07-12-01.webp)
+*The trio, disguised as Deirdre Moro, Graham Cracker and their bodyguard, in Deirdre's apartment.*
+
 Around the same time, Digma contacted the trio with news from the Mror Holds: descendants of the Deeptempura Clan had recently visited Chief Yellowmeat, stating they were returning to their ancestral mines in Korranberg, suggesting dwarves might already be heading toward the same location the trio was investigating.
 
 The trio rode out of the Capitol in their disguises. The town was quiet and wary; locals refused to speak about an "incident" at the Foundry three years earlier, and rumours of Orc activity circulated. At the mine entrance Orcs sounded a war horn and attacked. The trio cut down nearly twenty of them before [Sir Dario Argentino](/people/sir-dario-argentino/) was surrounded and struck down by an Orc captain called [Braga Kul](/people/braga-kul/). [Gemma Corso](/people/gemma-corso/) and [Eric the Cleric](/people/eric-the-cleric/) formed a ring around his body and tore through the rest, knocked the captain unconscious, and Eric filled the deep gash in Dario's skull with a diamond and cast *resurrection*. Dario came back — at the cost of an eye.
+
+![The disguised trio ride into the one-road mining town of Korranberg](/images/gallery/2026-07-12-22.webp)
+*The disguised trio ride into the one-road mining town of Korranberg.*
+
+![Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn](/images/gallery/2026-07-12-23.webp)
+*Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn.*
+
+![Disguised as Graham Cracker, Eric the Cleric advances amid spirit guardians shaped like golden math symbols](/images/gallery/2026-07-12-24.webp)
+*Disguised as Graham Cracker, Eric the Cleric advances amid spirit guardians shaped like golden math symbols.*
+
+![An armoured rider swings a blue-flaming sword through a burning orc camp](/images/gallery/2026-07-12-25.webp)
+*An armoured rider swings a blue-flaming sword through a burning orc camp.*
 
 ## Revelations
 

@@ -31,25 +31,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-1-E28094-three-years-later-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-06-15-01.webp
-    alt: The red pomegranate on the table
-    caption: Chancellor Eric the Cleric sits at a table with a large red pomegranate before him, joined by Jessica Grimpledink, Gemma Corso and Lorian. The fruit is the Cyrean Red Pomegranate Locke Pierce sent Eric before the Thronehold Summit.
-  - src: /images/gallery/2026-06-15-02.webp
-    alt: Chancellor Eric meets Locke Pierce
-    caption: Chancellor Eric the Cleric, in red coat and wig, speaks with the masked Locke Pierce in a fur-collared coat, in a stone room with armoured figures behind.
-  - src: /images/gallery/2026-06-15-03.webp
-    alt: Gemma finds a bell in a church tower
-    caption: Gemma Corso stands in a stone bell tower beside a huge ornate golden bell, with robed figures in white cloaks marked with a flame across the room and a city beyond the arches.
-  - src: /images/gallery/2026-06-15-07.webp
-    alt: Chancellor Eric speaks with the orc delegates
-    caption: Chancellor Eric the Cleric, in red coat and wig, gestures as he speaks to an orc woman in leather armour and two orc warriors in a candlelit hall.
-  - src: /images/gallery/2026-06-15-10.webp
-    alt: At the Thronehold Summit with Rotunda Goose
-    caption: Chancellor Eric the Cleric and Lorian talk with Rotunda Goose in her red gown and a woman in a white blouse, in a candlelit stone hall.
-  - src: /images/album/korth-ep-1-three-years-later-gemma-and-silver-flame-with-bell-in-sharn-upp-alt.webp
-    alt: 'Gemma and Silver Flame with Bell in Sharn Upper city - Korth Episode: Three Years Later (alternate render)'
-    caption: 'Gemma and Silver Flame with Bell in Sharn Upper city - Korth Episode: Three Years Later (alternate render)'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 1 · DM: Dave**
@@ -62,7 +43,25 @@ Three years after the fall of [Esther Crona](/people/esther-crona/) and the [Iro
 
 In those years Gemma found two more bells: one hanging in a [Black Dove](/organizations/the-black-doves/) church in Korth, and one hidden in a small Lower City church in Sharn. The Sharn bell is secured, raising concerns about the strategic placement of Fantanya-type artifacts. On one Korth assignment, infiltrating a Black Dove church as a high-elf acolyte, she befriended [Sister Maelis Dorn](/people/sister-maelis-dorn/), who — believing her a worthy initiate — whispered a forbidden poem.
 
+![Gemma Corso finds a bell in a church tower guarded by the Silver Flame](/images/gallery/2026-06-15-03.webp)
+*Gemma Corso finds a bell in a church tower guarded by the Silver Flame.*
+
+![Alternate render of Gemma Corso and the Silver Flame with a bell in Sharn](/images/album/korth-ep-1-three-years-later-gemma-and-silver-flame-with-bell-in-sharn-upp-alt.webp)
+*Alternate render of Gemma Corso and the Silver Flame with a bell in Sharn.*
+
 Across Khorvaire the war fractured the continent. Crona's Wall collapsed and Orc forces pushed into Dark Druid territory in the Eldeen Reaches. The Hundreds and the Silver Flame remain locked in battles against E.D.E.N. constructs and food shortages worsen in Sharn. Amid the instability, Admiral [Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) called a Summit at Thronehold to negotiate an end to the civil war. Nearly every major faction sent representatives. The Summit was presented as "a neutral attempt to end the civil war by priests and scholars of the [Sovereign Host](/organizations/the-sovereign-host/)"; Vex convened it for the Empire on the Emperor's orders. <small>(Oral Histories: The Inevitables, 2026-06-06; 2026-06-19)</small> Before the Summit, Eric receives a private message from [Locke Pierce](/people/locke-pierce/) along with a rare Cyrean Red Pomegranate, a fruit believed extinct since the Mourning. With Dario still deployed, [Gemma Corso](/people/gemma-corso/) (in disguise), [Eric the Cleric](/people/eric-the-cleric/) and [Lorian](/people/lorian/) travel to Thronehold as representatives of Sharn and Leef. The trio spends the afternoon gathering intelligence, mapping political intentions, and meeting with key figures.
+
+![Eric the Cleric, Jessica Grimpledink, Gemma Corso and Lorian with Locke Pierce's Cyrean Red Pomegranate](/images/gallery/2026-06-15-01.webp)
+*Eric the Cleric, Jessica Grimpledink, Gemma Corso and Lorian with Locke Pierce's Cyrean Red Pomegranate.*
+
+![Chancellor Eric the Cleric meets the masked Locke Pierce](/images/gallery/2026-06-15-02.webp)
+*Chancellor Eric the Cleric meets the masked Locke Pierce.*
+
+![Eric the Cleric speaks with the orc delegates at Thronehold](/images/gallery/2026-06-15-07.webp)
+*Eric the Cleric speaks with the orc delegates at Thronehold.*
+
+![Eric the Cleric and Lorian talk with Rotunda Goose at the Thronehold Summit](/images/gallery/2026-06-15-10.webp)
+*Eric the Cleric and Lorian talk with Rotunda Goose at the Thronehold Summit.*
 
 During the final assembly Eric delivered a speech calling for the Empire to be outlawed. Sister Maelis Dorn, attending for the Black Doves, confronted Admiral Vex and publicly accused Eric of responsibility for [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/)'s death. Moments later Vex began to rise into the air, glowing with crackling lightning.
 

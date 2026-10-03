@@ -28,25 +28,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-4-E28094-road-to-korth-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-07-11-01.webp
-    alt: Gemma dances with Kitsune
-    caption: Gemma Corso, in a white and red gown, dances with her archfey patron Kitsune, a fox-headed figure in a dark suit, on a misty lantern-lit bridge beneath gnarled trees.
-  - src: /images/gallery/2026-07-12-17.webp
-    alt: 'Dossier: The Fatanya Nyel'
-    caption: 'A prop document from the Mt. Silicon Archive: Intelligence Dossier HB-CHORUS-13, "The Fatanya Nyel - Hell''s Bells - Instruments of the Eternal Nightfall", from the Office of the Progenitor, with a threat table and an assessment of the threat. It is part of the sealed intelligence dossier on the Hell''s Bells that Locke Pierce gives the trio.'
-  - src: /images/gallery/2026-07-12-18.webp
-    alt: 'Dossier: The Greenbluff Bell'
-    caption: A prop document page headed "Sec. 02 The Greenbluff Bell (Notes from the Progenitor)", a first-hand account of recovering the Fatanya Nyel from the Greenbluff mine. It belongs to the Hell's Bells dossier from Locke Pierce.
-  - src: /images/gallery/2026-07-12-19.webp
-    alt: 'Dossier: The Black Noise'
-    caption: A prop document page from the Mt. Silicon Archive, HB-CHORUS-13 leaf two, headed "Sec. 03 The Black Noise", with boxed notes titled "Silence does not stop it", "The living unravel" and "The dead wake".
-  - src: /images/gallery/2026-07-12-20.webp
-    alt: Korranberg Foundry Trust schedule of works
-    caption: 'A prop document: a Chancellery of Sharn Office of Seizures evidence tag clipped to the second leaf of the Korranberg Foundry Trust''s private schedule of works, listing thirteen great castings commissioned, eleven delivered and two in the yard. It is the partially burned foundry schedule recovered from the Lower City church.'
-  - src: /images/gallery/2026-07-12-01.webp
-    alt: The disguised trio in Deirdre Moro's apartment
-    caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 4 · DM: Dave**
@@ -57,11 +38,29 @@ gallery:
 
 Still inside Mt. Silicon, the trio took Locke's parting gifts — Locke offered more of the strange Mournland pomegranate; Gemma refused to eat it, but took one for study at [Zilspar](/places/zilspar/) Farms — a sealed intelligence dossier on the Hell's Bells, five upgraded breathing devices generating an Air Bubble — each inscribed in ancient gnomish, *Interplanetary Association of Lexical Engineers* — and an emergency channel to his Warforged captain, Edday. Back in Sharn, [Jessica Grimpledink](/people/jessica-grimpledink/) was waiting with [Fulcrum](/organizations/fulcrum/)'s decade-long bell-counting operation and a partially burned foundry schedule recovered from the Lower City church.
 
+![The partially burned Korranberg Foundry schedule recovered from the Lower City church](/images/gallery/2026-07-12-20.webp)
+*The partially burned Korranberg Foundry schedule recovered from the Lower City church.*
+
 Reviewing the dossiers, the trio concluded that [Uriel Qualanthri](/people/uriel-qualanthri/) was waiting for a specific event, possibly the birth of a male heir: she has fourteen daughters by [Emperor Kaius III](/people/emperor-caius-iii/), many of them twins, all under twelve. They discussed approaching the dwarves of the Mror Holds about the bell-metal and putting [the Silver Flame](/organizations/the-silver-flame/) watchers on the major bell sites. [Lorian](/people/lorian/) stayed in Sharn to help Jessica.
+
+![The opening page of Locke Pierce's dossier on the Fantanya Nyel](/images/gallery/2026-07-12-17.webp)
+*The opening page of Locke Pierce's dossier on the Fantanya Nyel.*
+
+![The dossier page on the Greenbluff Bell](/images/gallery/2026-07-12-18.webp)
+*The dossier page on the Greenbluff Bell.*
+
+![The dossier page on the Black Noise](/images/gallery/2026-07-12-19.webp)
+*The dossier page on the Black Noise.*
 
 [Gemma Corso](/people/gemma-corso/) meditated and reached her archfey patron, **Kitsune**, who appeared through the fog in a fey-dream dance and told her the truth of her pact. [Sir Dario Argentino](/people/sir-dario-argentino/) found a suit of armour in the Crona penthouse, commissioned for [Esther Crona](/people/esther-crona/) and fitting him with uncanny precision. [Eric the Cleric](/people/eric-the-cleric/) took a scroll of *greater silence* from [Renn Tal](/people/renn-tal/), who believed it could disrupt the bells' resonance if amplified by multiple casters.
 
+![Gemma Corso dances with her archfey patron Kitsune in the fog](/images/gallery/2026-07-11-01.webp)
+*Gemma Corso dances with her archfey patron Kitsune in the fog.*
+
 Disguised as the high-elf bureaucrat **Deirdre Moro**, her assistant **Graham Cracker** and a security officer under the alias **Sir Beef Taco**, the trio teleported to Korth. On the second floor, they encountered a guard stationed at her door. The trio struck quickly, killing him, and entered the apartment. Inside, they found the real Deirdre, a tarot-reading woman, and a dog. All were killed. Moments later, the real Graham Cracker arrived and met the same fate. The trio cleaned the scene, stored the bodies in their Bags of Holding, and erased all evidence.
+
+![The disguised trio in Deirdre Moro's apartment in Korth](/images/gallery/2026-07-12-01.webp)
+*The disguised trio in Deirdre Moro's apartment in Korth.*
 
 ## Revelations
 

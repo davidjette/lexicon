@@ -30,25 +30,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-3-E28094-the-last-mourning-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-06-27-03.webp
-    alt: Watching the Ruby Nova
-    caption: Eric the Cleric, Gemma Corso, Lorian and an armoured companion, masked against the air, watch a vast red dome of energy rise from the horizon of a dead plain.
-  - src: /images/gallery/2026-06-27-05.webp
-    alt: A winged paladin above the Cyrean portal
-    caption: A winged armoured paladin with a flaming sword dives over a glowing portal in a twisted black arch as the undead reach up from the mud below.
-  - src: /images/gallery/2026-06-27-09.webp
-    alt: The Mournland portal under siege
-    caption: A Hundreds airship flies over a dead grey plain where a horde of undead surrounds a glowing portal in a twisted black arch.
-  - src: /images/gallery/2026-06-27-01.webp
-    alt: Charging Vex on the warship deck
-    caption: Eric the Cleric, Lorian and Gemma Corso run across the deck of the Hundreds' warship toward Vex d'Lyrandar, who hangs in the air crackling with lightning.
-  - src: /images/gallery/2026-06-27-02.webp
-    alt: The gate of Mt. Silicon
-    caption: A giant warforged stands guard beside a fortified gate cut into a grey cliff at the end of a stone causeway, in a misty dead landscape.
-  - src: /images/gallery/2026-06-27-04.webp
-    alt: A portal in the Mournland
-    caption: A ring of white light glows inside a twisted black stone arch standing in a flat, dead green-grey waste beneath jagged spires.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 3 · DM: Dave**
@@ -59,11 +40,29 @@ Korth Ep 3 — The Last Mourning is the third session of the Korth arc of Unfore
 
 [Locke Pierce](/people/locke-pierce/)'s airship raced south toward [the Mournlands](/places/the-mournland/) with Admiral [Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) clinging to the hull, his conjured storm tearing across the sky behind. The fight on the open deck was brutal — Vex's fury fed by betrayal, by the Emperor's coma, by Uriel's deception, and by the revelation that [Eric the Cleric](/people/eric-the-cleric/) was responsible for his son [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/)'s death. [Lorian](/people/lorian/) was nearly killed twice before [Gemma Corso](/people/gemma-corso/) drove **the Bright Dawn** up Vex's spine. The admiral fell dead and his storm vanished as the ship crossed into the northern Mournlands.
 
+![Eric the Cleric, Lorian and Gemma Corso charge Vex d'Lyrandar on the airship deck](/images/gallery/2026-06-27-01.webp)
+*Eric the Cleric, Lorian and Gemma Corso charge Vex d'Lyrandar on the airship deck.*
+
 <small>At the table Vex was run on Storm Giant statistics (Dave, sources/dave/2026-09-14-inevitables-rulings-batch.md). Dave: "You guys took down a Storm Giant with Locke Pierce, it was a good one, giants are awesome cause they’re easy to hit, they hit super fucking hard". Nico: "he was hard! took down Lorian twice and almost took out Locke." (Oral Histories: The Inevitables, 2026-06-27)</small>
 
 Fitted with masks against the toxic air, Eric and Gemma returned to the bridge. Through the haze Eric spotted a flaming sword: a small group of [the Silver Flame](/organizations/the-silver-flame/) paladins holding a massive Cyrean portal against waves of undead and [E.D.E.N.](/organizations/project-e-d-e-n/) hybrids. Among them was [Sir Dario Argentino](/people/sir-dario-argentino/). The three fought side by side to evacuate the survivors, every fallen paladin rising moments later to swell the enemy. Dario was alive but gravely wounded, and his injury carried the telltale signs of **Mistborn illness**, a curse spreading through the Mournland mist and whatever force was raising the dead where they fell.
 
+![The Cyrean portal glows inside a twisted black arch in the Mournlands](/images/gallery/2026-06-27-04.webp)
+*The Cyrean portal glows inside a twisted black arch in the Mournlands.*
+
+![An airship flies over the undead horde besieging the Cyrean portal](/images/gallery/2026-06-27-09.webp)
+*An airship flies over the undead horde besieging the Cyrean portal.*
+
+![A winged paladin with a flaming sword dives over the Cyrean portal](/images/gallery/2026-06-27-05.webp)
+*A winged paladin with a flaming sword dives over the Cyrean portal.*
+
 Locke landed at **Mt. Silicon**, a fortified Warforged stronghold, and led them to a control chamber full of screens and members of [The Hundreds](/organizations/the-hundreds/) — his "children." There he told them the truth about the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), and showed them his countermeasure.
+
+![A giant warforged guards the gate of Mt. Silicon](/images/gallery/2026-06-27-02.webp)
+*A giant warforged guards the gate of Mt. Silicon.*
+
+![Eric the Cleric, Gemma Corso, Lorian and a companion watch the Ruby Nova rise](/images/gallery/2026-06-27-03.webp)
+*Eric the Cleric, Gemma Corso, Lorian and a companion watch the Ruby Nova rise.*
 
 ## Revelations
 

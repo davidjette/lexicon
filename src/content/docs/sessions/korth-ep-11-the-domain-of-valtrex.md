@@ -28,16 +28,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-11-E28094-the-domain-of-valtrex-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-08-26-02.webp
-    alt: Egg Roll runs through the fire
-    caption: A bearded man in a red coat reaches out as a small figure runs along mine rails into an arch of fire. Egg Roll runs through Eric's wall of fire toward the bell.
-  - src: /images/gallery/2026-08-26-03.webp
-    alt: Eric seized beneath the Thirteenth Casting
-    caption: Beneath a huge black bell, Sir Dario Argentino grips a bearded man in a red coat who strains toward it while Gemma Corso stands close. Eric tries to ring the bell himself and Dario grapples him down.
-  - src: /images/gallery/2026-08-27-01.webp
-    alt: Dario breaks the Thirteenth Casting
-    caption: In a smoke-filled hall a dragonborn swings a great warhammer toward a bell on a platform while two figures reel with their hands over their ears and the dead rise. Dario breaks the Thirteenth Casting with KNELL.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 11 · DM: Dave**
@@ -47,6 +37,12 @@ Korth Ep 11 — The Domain of Valtrex is the eleventh session of the Korth arc o
 ## Summary
 
 Standing beside [the Thirteenth Casting](/items/the-thirteenth-casting/), [Eric the Cleric](/people/eric-the-cleric/) was overcome by the compulsion and tried to ring the bell himself. [Sir Dario Argentino](/people/sir-dario-argentino/) grappled him to the platform and [Gemma Corso](/people/gemma-corso/) blanketed the scaffold in darkness until he recovered. They then found Egg Roll hiding invisible in a mine tunnel; Eric penned him inside a ring of holy fire and tried to talk him down, but the boy ran through the flames toward the bell and was killed. Eric revived him with a diamond and he came back badly burned. Madame Tso accepted the account.
+
+![Beneath the Thirteenth Casting, Sir Dario Argentino grapples Eric as Gemma Corso stands close](/images/gallery/2026-08-26-03.webp)
+*Beneath the Thirteenth Casting, Sir Dario Argentino grapples Eric as Gemma Corso stands close.*
+
+![Egg Roll runs along the mine rails through Eric's ring of holy fire toward the bell](/images/gallery/2026-08-26-02.webp)
+*Egg Roll runs along the mine rails through Eric's ring of holy fire toward the bell.*
 
 [Bofric](/people/bofric/), the clan runesmith, had translated one section of [King Corn](/people/king-corn/)'s folio — the song the king spent his final days perfecting. Played on Corn's horn it suppresses the bell's influence entirely; Bofric identified it as arcane harmonics, an elvish weapon from the old war against the dragons, and warned that the horn only masks the sound while it plays. Breaking a bell needs the hammer that made it. He volunteered to come.
 
@@ -67,5 +63,8 @@ At the black lake the party were ambushed by the black dragon [Valtrex](/species
 ## Consequences
 
 Gemma's alarm signalled an intruder at the bell: Hetta, fungus-infected, casting at the casting. The bell rang, driving the foundry, the camp and the dead in the lake into a shared frenzy. The party snapped free to save Bofric, and [Sir Dario Argentino](/people/sir-dario-argentino/) broke the Thirteenth Casting with [KNELL](/items/knell/), deafening himself and Bofric, while Eric turned the risen dead back down the shaft. Dario then destroyed every remaining cast bell in the Bladeworks; Valtrex destroyed the original moulds. The Tsos refused to evacuate and chose to renew their pact with the dragon. Only Bofric left with them. The trio escaped into the forest as Valtrex circled the peak, claiming the Korramont as his domain.
+
+![Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise](/images/gallery/2026-08-27-01.webp)
+*Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise.*
 
 ![Korth Ep 11 — The Domain of Valtrex - Eric breaking the chained bell around Veltex neck.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-eric-b-mu3lqe5a.webp)

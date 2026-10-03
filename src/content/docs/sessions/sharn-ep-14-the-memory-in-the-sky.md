@@ -28,28 +28,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-14-E28094-the-memory-in-the-sky-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/gallery/2026-04-05-02.webp
-    alt: 'Calcifer''s birth: Uriel holds the newborn'
-    caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
-  - src: /images/gallery/2026-04-28-01.webp
-    alt: Infected Cogborn stat block
-    caption: 'A screenshot of the "Infected Cogborn" creature stat block: a Medium aberration with tentacles, a bite and a mind blast.'
-  - src: /images/gallery/2026-04-05-01.webp
-    alt: 'Calcifer''s birth: Esther in labour'
-    caption: 'Esther Crona, heavily pregnant, doubles over on her penthouse balcony above the lights of Sharn while Uriel Qualanthri stands watching in white robes: the memory of the night Calcifer was born.'
-  - src: /images/gallery/2026-04-27-01.webp
-    alt: Dario against an infected Cogborn
-    caption: A winged Sir Dario Argentino with a flaming sword and shield meets a tentacle-faced infected Cogborn in a flooded chamber beneath Sharn.
-  - src: /images/gallery/2026-04-27-02.webp
-    alt: Eric in the flooded chamber
-    caption: Eric the Cleric wades through a flooded brick chamber toward a gaunt creature emerging from an archway.
-  - src: /images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc.webp
-    alt: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 1 - Sharn Episode: The Memory in the Sky'
-    caption: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 1 - Sharn Episode: The Memory in the Sky'
-  - src: /images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc-2.webp
-    alt: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2 - Sharn Episode: The Memory in the Sky'
-    caption: 'Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2 - Sharn Episode: The Memory in the Sky'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 14 · DM: Nichole**
@@ -68,6 +46,18 @@ Grady's memory was pulled successfully. Donna and Grady stepped out, and Jessica
 
 The ArcEye feed revealed [Esther](/people/esther-crona/) collapsing into sudden labor on her penthouse balcony while [Uriel](/people/uriel-qualanthri/) stood motionless, watching. Uriel eventually delivered the baby and examined him closely. Then, with a cold, deliberate motion, she raised her hand over the newborn's face. A sickly green glow spread from her fingertips as the baby's breathing faltered and went still. Dark, vein-like lines formed across his cheek — the mark that would later be known as his "birthmark."
 
+![Esther Crona goes into labour on her balcony while Uriel Qualanthri watches](/images/gallery/2026-04-05-01.webp)
+*Esther Crona goes into labour on her balcony while Uriel Qualanthri watches.*
+
+![Uriel Qualanthri holds the newborn Calcifer beside the exhausted Esther](/images/gallery/2026-04-05-02.webp)
+*Uriel Qualanthri holds the newborn Calcifer beside the exhausted Esther.*
+
+![Uriel cradles Calcifer as Esther lies on the balcony couch](/images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc.webp)
+*Uriel cradles Calcifer as Esther lies on the balcony couch.*
+
+![A green glow spreads from Uriel's hand over the newborn Calcifer](/images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc-2.webp)
+*A green glow spreads from Uriel's hand over the newborn Calcifer.*
+
 At the sound of Esther's desperate scream for help, Uriel froze. The glow faded. The baby gasped and began crying again as if nothing had happened. As Uriel turned away, the ArcEye caught a glimpse of a glowing diamond embedded at the base of her skull. The memory ended with Uriel lifting her gaze and looking directly at the unseen observer.
 
 Shaken, the group argued over what to do next. Richard revealed he had already arranged to leave Sharn with Calcifer within the next two days, fearing the growing threat of Malrik and Faith's cult, The [Children of Ember](/organizations/the-children-of-ember/). Jessica promised that once Richard and his son were safely gone, the Nest, along with Lorian would help the trio investigate and strike at the Zeirs. Though tempted to broadcast the memory to the entire city, the trio ultimately chose to wait. They made three copies and gave one to Jessica for safekeeping.
@@ -77,6 +67,15 @@ Zero-One also revealed that years ago, when she was known as Fema Nolan, she was
 With the memory set aside for now, they turned their attention to the [Forge of Binding](/places/the-forge-of-binding/). Renn believed the entrance lay behind the boarded-up sewer door near the Underhive tunnels. Gemma teleported the group back to the lower city, where they broke through the old boards and descended into the forgotten dungeon beneath Sharn.
 
 They fought through three chambers: a rat-infested entryway, a flooded room filled with infected Cogborn and a young aboleth, and an alien-looking corridor crawling with more infected creatures. During the battle, [Eric](/people/eric-the-cleric/) discovered he was taking only half damage from psychic attacks, experiencing flashes of memory from his time around [John C. LeBeefe](/people/john-c-lebeefe/) and hearing a familiar tune from LeBeefe's Black Palace.
+
+![The stat block for an infected Cogborn](/images/gallery/2026-04-28-01.webp)
+*The stat block for an infected Cogborn.*
+
+![Dario fights an infected Cogborn in the flooded chamber](/images/gallery/2026-04-27-01.webp)
+*Dario fights an infected Cogborn in the flooded chamber.*
+
+![Eric wades through the flooded chamber toward an emerging creature](/images/gallery/2026-04-27-02.webp)
+*Eric wades through the flooded chamber toward an emerging creature.*
 
 ## Revelations
 

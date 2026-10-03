@@ -31,43 +31,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-18-E28094-the-fall-of-esther-crona-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/site/sharn-ep-18-the-fall-of-esther-crona-2.webp
-    alt: Page updated
-    caption: Page updated
-  - src: /images/gallery/2026-05-21-01.webp
-    alt: Lord Commander Esther Crona stat block
-    caption: A game stat block titled "Lord Commander Esther Crona", a Medium tiefling, with the Crimson Sun melee attack, Eldritch Blast, Telekinetic Throw, Thunder Step and legendary actions.
-  - src: /images/gallery/2026-05-21-02.webp
-    alt: Honor Guard stat block
-    caption: 'A game stat block titled "Honor Guard", a Medium undead with a greatsword, necrotic beam and the trait "Bound to Esther": if Esther Crona dies, its Red Khyber crystal explodes.'
-  - src: /images/gallery/2026-05-29-01.webp
-    alt: The Black Veil bears down on Uriel's statue
-    caption: A huge black airship trailing a red beam flies low over night-time Sharn toward a giant statue with outstretched arms in the foreground. It is Esther Crona hurling the Black Veil into the statue of Uriel above the Skyport.
-  - src: /images/gallery/2026-06-01-01.webp
-    alt: Battle with Esther Crona on the balcony
-    caption: Esther Crona dives on red wings over a neon-lit penthouse balcony as Sir Dario Argentino charges with a burning blade and Gemma Corso casts violet magic.
-  - src: /images/gallery/2026-06-01-05.webp
-    alt: Henry Heinrick's lockdown broadcast
-    caption: Henry Heinrick, white-bearded in glasses and braces, reads from a paper at a microphone before a throne-like chair and the towers of Sharn. It is the city-wide emergency lockdown announcement after Malrik Zeir's death.
-  - src: /images/gallery/2026-06-01-06.webp
-    alt: Esther Crona's last act over Sharn
-    caption: Esther Crona stands at the balcony rail on torn red wings, arm raised, as the statue above the Skyport explodes in the distance and airships circle the city.
-  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-eric-dario-richard-and-iron-veil-sharn-uppe.webp
-    alt: 'Eric, Dario, Richard and Iron Veil - Sharn Upper City Veil Building - Sharn Episode: The Fall of Esther Crona'
-    caption: 'Eric, Dario, Richard and Iron Veil - Sharn Upper City Veil Building - Sharn Episode: The Fall of Esther Crona'
-  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-richard-blaze-calcifer-henry-heinrick-and-e.webp
-    alt: 'Richard Blaze, Calcifer, Henry Heinrick and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona'
-    caption: 'Richard Blaze, Calcifer, Henry Heinrick and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona'
-  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-eric-using-bigby-hand-to-flick-esther-s-hon.webp
-    alt: 'Eric using Bigby Hand to flick Esther''s honor guard off balcony - Sharn Episode: The Fall of Esther Crona'
-    caption: 'Eric using Bigby Hand to flick Esther''s honor guard off balcony - Sharn Episode: The Fall of Esther Crona'
-  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-richard-blaze-calcifer-and-esther-cro-alt.webp
-    alt: 'Richard Blaze, Calcifer and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona (alternate render)'
-    caption: 'Richard Blaze, Calcifer and Esther Crona - Sharn Upper City - Sharn Episode: The Fall of Esther Crona (alternate render)'
-  - src: /images/album/sharn-ep-18-the-fall-of-esther-crona-dario-fighting-esther-crona-on-pentho-alt.webp
-    alt: 'Dario fighting Esther Crona on Penthouse Balcony - Upper City Sharn - Sharn Episode: The Fall of Esther Crona (alternate'
-    caption: 'Dario fighting Esther Crona on Penthouse Balcony - Upper City Sharn - Sharn Episode: The Fall of Esther Crona (alternate render)'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 18 · DM: Nichole**
@@ -78,19 +41,49 @@ Sharn Ep 18 — The Fall of Esther Crona is the eighteenth session of the Sharn 
 
 In the aftermath of [Malrik Zeir](/people/malrik-zeir/)'s death, [Esther](/people/esther-crona/) had arrived at the Zeir residence seizing [Calcifer](/people/calcifer/) and [Gemma](/people/gemma-corso/) and fleeing into the night. [Jessica](/people/jessica-grimpledink/) contacted [Lorian](/people/lorian/) through a sending stone, urging him to hold position and tend to the captives while she mobilized Nest forces. At the same time, [Henry Heinrick](/people/henry-heinrick/) broadcast a city-wide emergency alert announcing a full lockdown across Sharn.
 
+![Esther Crona above the towers of Sharn](/images/site/sharn-ep-18-the-fall-of-esther-crona-2.webp)
+*Esther Crona above the towers of Sharn.*
+
+![Henry Heinrick reads the city-wide lockdown announcement after Malrik Zeir's death](/images/gallery/2026-06-01-05.webp)
+*Henry Heinrick reads the city-wide lockdown announcement after Malrik Zeir's death.*
+
 [Richard Blaze](/people/richard-blaze/) urged [Dario](/people/sir-dario-argentino/) and [Eric](/people/eric-the-cleric/) to follow him to his penthouse at the [Veil Building](/places/the-veil-building/) the place he believed Esther would retreat to with their son. As they traveled, the trio called on their allies: [Locke Pierce](/people/locke-pierce/)'s [Hundreds](/organizations/the-hundreds/), and surviving [RUST](/organizations/r-u-s-t/) members like [Snodgrass](/people/snodgrass/) and [Doppler](/people/doppler-klink/) and also [Blair](/people/blair/) of the [underhive](/organizations/the-underhive/).
 
 At the penthouse, Richard helped Dario and Eric fight through [Iron Veil](/organizations/the-iron-veil/) soldiers standing guard at the entrance door. After the fight Dario used the [EBT-7](/items/the-ebt-7-sub-transit-repeater-node/) transmitter to pre-record a message he intended to broadcast to the entire city. Once inside, Eric spotted the LeBeefe Eye sitting on the fireplace mantel and resisted its pull, refusing to pick it up.
 
+![Eric, Dario and Richard fight Iron Veil soldiers at the Veil Building](/images/album/sharn-ep-18-the-fall-of-esther-crona-eric-dario-richard-and-iron-veil-sharn-uppe.webp)
+*Eric, Dario and Richard fight Iron Veil soldiers at the Veil Building.*
+
 On the balcony, they came face to face with Esther, her son Calcifer sitting near by. Her two Honor Guards, Henry Heinrick, and Gemma, now unchained but terrified, all out on the balcony watching Esther. Richard tried to reason with her, while Calcifer runs into his arms, but Esther accused him of bringing her killers into her home. Dario activated his prerecorded message, followed immediately by the reclaimed memory of Calcifer's birth. The city saw the truth for the first time: [Uriel](/people/uriel-qualanthri/) reaching for the newborn child, marking him, draining him, and Esther screaming in horror.
+
+![Richard Blaze holds Calcifer as he faces Esther on the balcony](/images/album/sharn-ep-18-the-fall-of-esther-crona-richard-blaze-calcifer-and-esther-cro-alt.webp)
+*Richard Blaze holds Calcifer as he faces Esther on the balcony.*
 
 The memory shattered Esther's composure. In a rage, she revealed the true faces of her Honor Guards, undead members of the [Council of 13](/organizations/the-council-of-13/), and killed Henry Heinrick.
 
+![Esther turns on Henry Heinrick as Richard shields Calcifer](/images/album/sharn-ep-18-the-fall-of-esther-crona-richard-blaze-calcifer-henry-heinrick-and-e.webp)
+*Esther turns on Henry Heinrick as Richard shields Calcifer.*
+
+![The stat block for Esther's undead Honor Guard](/images/gallery/2026-05-21-02.webp)
+*The stat block for Esther's undead Honor Guard.*
+
 A battle broke out. Eric successfully turned one of the undead Honor Guards, forcing it to flee the fight. The other was knocked from the balcony. Esther repeatedly dropped all three heroes to low health, even killing Dario's mount. Richard used subtle sorcery to heal, bolster, and inspire the trio while protecting Calcifer.
+
+![The stat block for Lord Commander Esther Crona](/images/gallery/2026-05-21-01.webp)
+*The stat block for Lord Commander Esther Crona.*
+
+![Esther dives on Dario and Gemma across the penthouse balcony](/images/gallery/2026-06-01-01.webp)
+*Esther dives on Dario and Gemma across the penthouse balcony.*
+
+![Eric uses a Bigby's Hand to flick an Honor Guard off the balcony](/images/album/sharn-ep-18-the-fall-of-esther-crona-eric-using-bigby-hand-to-flick-esther-s-hon.webp)
+*Eric uses a Bigby's Hand to flick an Honor Guard off the balcony.*
 
 Halfway through the fight, the skies above Sharn filled with allied ships. Screens across the city flickered to life, showing Nest fighters, [Leef](/places/leef/) soldiers, [Silver Flame](/organizations/the-silver-flame/) paladins, RUST runners, Locke Pierce the Hundreds and even Blair, her underhive and the Dread Pirate [Joseph Roberts](/people/pirate-joseph-roberts/) ship of pirates rising up against the Iron Veil. The rebellion had begun.
 
 Eventually, Dario struck Esther with the magic missile wand Doppler had crafted for him. Richard pulled Calcifer into Calcifer's bedroom and cast Darkness to shield the child from witnessing what came next.
+
+![Dario fights Esther Crona on the penthouse balcony](/images/album/sharn-ep-18-the-fall-of-esther-crona-dario-fighting-esther-crona-on-pentho-alt.webp)
+*Dario fights Esther Crona on the penthouse balcony.*
 
 Bleeding out and defeated, Esther unleashed her final act. Her voice boomed magically across all of Sharn:
 
@@ -103,6 +96,12 @@ Then her final command echoed across the towers:
 > "… Kill Empress Uriel Qualanthri…"
 
 With the last of her strength, Esther telekinetically seized her airship, the Black Veil, and hurled it into the massive statue of Uriel above the Skyport. The explosion destroyed the statue. In her death, Esther fell from the balcony landing at the base of the Veil Building.
+
+![The Black Veil bears down on the statue of Uriel above the Skyport](/images/gallery/2026-05-29-01.webp)
+*The Black Veil bears down on the statue of Uriel above the Skyport.*
+
+![Esther stands at the balcony rail as the statue above the Skyport explodes](/images/gallery/2026-06-01-06.webp)
+*Esther stands at the balcony rail as the statue above the Skyport explodes.*
 
 Moments later, Dario used the EBT-7 once more, broadcasting live to the entire city. He showed Esther's corpse and declared that the Empire would fall. Iron Veil soldiers, suddenly powerless and terrified, surrendered in droves. Others fled. A small number vanished into the shadows, forming the first seeds of a hidden Iron Veil remnant.
 

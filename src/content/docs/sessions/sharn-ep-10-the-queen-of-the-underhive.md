@@ -28,25 +28,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-10-E28094-the-queen-of-the-underhive-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/gallery/2026-03-16-02.webp
-    alt: Snodgrass battles a giant crocodile
-    caption: Snodgrass grapples a giant crocodile in the flooded sewers while Doppler Klink casts, with Dario and Renn Tal behind at a round drain grate.
-  - src: /images/gallery/2026-02-27-02.webp
-    alt: The Vega Oracle machine
-    caption: A fortune-telling cabinet with a grinning bearded face wreathed in flame above a crystal ball, in a brick-walled room.
-  - src: /images/gallery/2026-02-27-04.webp
-    alt: Ring of Vega card
-    caption: 'A hand holds a red-jewelled ring before the oracle machine beside a card titled "Ring of Vega": "Speak my name to cast any spell of 6th level or lower (1 action). No components required. One-time use... maybe."'
-  - src: /images/gallery/2026-03-16-01.webp
-    alt: Crocodiles in the flooded sewers
-    caption: Snodgrass, Doppler Klink, Dario, Gemma and Eric fight giant crocodiles in a flooded sewer tunnel.
-  - src: /images/gallery/2026-03-16-05.webp
-    alt: Crocodiles and rats in the flooded sewer
-    caption: Gemma Corso, Eric the Cleric, Sir Dario Argentino, Snodgrass, Doppler Klink and Renn Tal fight giant crocodiles in a flooded sewer beneath Sharn on the way to the Underhive.
-  - src: /images/gallery/2026-03-16-08.webp
-    alt: Crocodiles and rat swarms in the flooded sewer
-    caption: Snodgrass, Sir Dario Argentino and Eric the Cleric fight crocodiles and a swarm of rats in a flooded sewer while Gemma Corso and Doppler Klink cast and Renn Tal shelters behind them.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 10 · DM: Nichole**
@@ -57,13 +38,31 @@ Sharn Ep 10 — The Queen of the Underhive is the tenth session of the Sharn arc
 
 Following [Snodgrass](/people/snodgrass/) into a massive drain pipe beneath the aqueduct, the trio descended deeper under Sharn toward the hidden territory of Queen B. The tunnel opened into a flooded sewer chamber where they were attacked by giant crocodiles and swarms of rats. After defeating the creatures and discovering two dead [BioTec](/organizations/biotec/) Security agents in the water, they approached a reinforced door, the threshold of Queen B's domain.
 
+![Snodgrass, Doppler Klink, Dario, Gemma and Eric fight giant crocodiles in the flooded sewer](/images/gallery/2026-03-16-01.webp)
+*Snodgrass, Doppler Klink, Dario, Gemma and Eric fight giant crocodiles in the flooded sewer.*
+
+![The party, with Renn Tal, fights crocodiles in the flooded sewer beneath Sharn](/images/gallery/2026-03-16-05.webp)
+*The party, with Renn Tal, fights crocodiles in the flooded sewer beneath Sharn.*
+
+![Crocodiles and a rat swarm close in as the party protects Renn Tal](/images/gallery/2026-03-16-08.webp)
+*Crocodiles and a rat swarm close in as the party protects Renn Tal.*
+
+![Snodgrass grapples a giant crocodile while Doppler Klink casts and Renn Tal looks on](/images/gallery/2026-03-16-02.webp)
+*Snodgrass grapples a giant crocodile while Doppler Klink casts and Renn Tal looks on.*
+
 At the door they were met by [Booti'slave](/people/booti-slave/), an [Underhive](/organizations/the-underhive/) Drone who escorted them through the sprawling subterranean settlement and into its bustling tavern. As honored guests of the Queen, they were offered food, drink, and a place to rest. The trio explored the tavern's strange curiosities, including a magical Vega Oracle machine before Booti'slave returned to summon them to Blair's private chambers.
+
+![The Vega Oracle machine in the Underhive tavern](/images/gallery/2026-02-27-02.webp)
+*The Vega Oracle machine in the Underhive tavern.*
 
 Inside, they found [Blair](/people/blair/), Queen of the Underhive, surrounded by her many husbands and the imprisoned [Martin Kross](/people/martin-kross/). Blair greeted the trio warmly, showing particular interest in [Dario](/people/sir-dario-argentino/) and curiosity toward [Eric](/people/eric-the-cleric/) once she realized they had known her father, [John C. LeBeefe](/people/john-c-lebeefe/), and met her husband [Joseph Roberts](/people/pirate-joseph-roberts/) in [Newham](/places/newham/). She spoke candidly about her family and her father's ambitions. Blair agreed to allow the Cogborn safe passage through her Underhive if the trio cleared the [Drain Snakes](/organizations/the-drain-snakes/) from the undercity and secured a route toward the mountain pass / [RUST](/organizations/r-u-s-t/). She hinted she might also release Martin Kross to them, if they completed the task.
 
 Before dismissing them, Blair offered the trio lodging in the tavern's bunk room, promised to show them a faster route in and out of the Underhive, and handed them a token to use in Carlos Vega's enchanted oracle machine.
 
 Back in the tavern, the trio used the token and received a magical fortune, a powerful ring that grants a minor wish. As they settled in for the night, a crystallizer screen flickered to life, showing a live broadcast of the [Lower City](/places/the-lower-city/). Above the [Ziggurat](/places/the-ziggurat/) hovered [Esther Crona](/people/esther-crona/)'s airship, The Black Veil. Esther stepped onto the deck alongside [General Stockton Thar](/people/general-stockton-thar/), who began casting a spell as the crowd below panicked. The crystallizer screens abruptly cut to black.
+
+![The Ring of Vega and its fortune card from the oracle machine](/images/gallery/2026-02-27-04.webp)
+*The Ring of Vega and its fortune card from the oracle machine.*
 
 ## Revelations
 

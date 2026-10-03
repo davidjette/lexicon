@@ -27,22 +27,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-11-E28094-drain-snakes-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/gallery/2026-03-17-02.webp
-    alt: 'The MZ note: deliver out-of-towners'
-    caption: 'A hand holds a torn note in a sewer tunnel: "For special clients only. Deliver young, attractive out-of-towners to the marked tunnel. Keep them bound and hooded. No injuries. Payment on delivery. - MZ" It is the note recovered from the Drain Snakes suggesting Malrik Zeir paid them for captives.'
-  - src: /images/gallery/2026-03-16-10.webp
-    alt: Martin Kross behind bars
-    caption: Martin Kross, in his BioTec lab coat, grips the bars of a cell as Sir Dario Argentino, Eric the Cleric and Gemma Corso question him in the Underhive, where Blair holds him prisoner.
-  - src: /images/gallery/2026-03-23-02.webp
-    alt: Snodgrass and Gemma fight Drain Snakes
-    caption: Snodgrass swings a blade and Gemma Corso blasts with green eldritch fire as they battle masked gang thugs in a torchlit sewer tunnel.
-  - src: /images/gallery/2026-03-23-03.webp
-    alt: The Drain Snakes' throne platform
-    caption: A masked gang boss in studded leather stands before a carved stone throne on a wooden platform, with a huge fanged worm on one side and a red-haired captive chained to the wall on the other.
-  - src: /images/gallery/2026-03-23-04.webp
-    alt: The Drain Snakes' throne platform, guarded
-    caption: Two armed gang members stand on the wooden platform before the stone throne, with the fanged worm and a chained captive behind them.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 11 · DM: Nichole**
@@ -53,7 +37,22 @@ gallery:
 
 After waking in the [Underhive](/organizations/the-underhive/) tavern, the trio learned [Blair](/people/blair/) was away on business and that [Martin Kross](/people/martin-kross/) was asking to speak with them. [Booti'slave](/people/booti-slave/) guided them to Blair's chambers, where Martin revealed what he knew about [BioTec](/organizations/biotec/), the [Ghost Chip](/items/the-ghost-chip/) prototypes, [Red Khyber](/items/red-khyber/) shipments, and a private owner pulling the strings. After [Dario](/people/sir-dario-argentino/) removed the control chip from his skull, Martin was finally able to say the owner's name: Edwin.
 
+![Dario, Eric and Gemma question Martin Kross through the bars of his cell](/images/gallery/2026-03-16-10.webp)
+*Dario, Eric and Gemma question Martin Kross through the bars of his cell.*
+
 With the interrogation complete, Booti'slave showed the trio a faster exit and gave them the password "honeycomb." [Doppler](/people/doppler-klink/) and [Renn](/people/renn-tal/) stayed behind in the tavern while [Snodgrass](/people/snodgrass/) took the rest of the crew through the northern sewer tunnels to the [Drain Snakes](/organizations/the-drain-snakes/)' lair. A brutal fight followed, ending with the Drain Snake gang defeated, a kidnapped tourist rescued, and piles of stolen goods recovered, including a note suggesting [Malrik](/people/malrik-zeir/) had been paying the Drain Snakes for captives.
+
+![Snodgrass and Gemma fight Drain Snakes in a torchlit sewer tunnel](/images/gallery/2026-03-23-02.webp)
+*Snodgrass and Gemma fight Drain Snakes in a torchlit sewer tunnel.*
+
+![The Drain Snakes' boss on the throne platform, with a giant worm and a chained captive](/images/gallery/2026-03-23-03.webp)
+*The Drain Snakes' boss on the throne platform, with a giant worm and a chained captive.*
+
+![Two Drain Snakes guard the throne platform](/images/gallery/2026-03-23-04.webp)
+*Two Drain Snakes guard the throne platform.*
+
+![The note signed MZ, recovered from the Drain Snakes](/images/gallery/2026-03-17-02.webp)
+*The note signed MZ, recovered from the Drain Snakes.*
 
 Gathering the loot to later distribute to the Cogborn, the group returned to the Underhive with their rescued civilian, arriving back at the tavern in the early afternoon.
 

@@ -29,21 +29,9 @@ wa:
   slug: sharn-ep-4-E28094-richard-blaze-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-  - src: /images/site/sharn-ep-4-richard-blaze-2.webp
-    alt: 'Episode 4: Richard Blaze'
-    caption: 'Episode 4: Richard Blaze'
-  - src: /images/gallery/2026-02-11-11.webp
-    alt: The trio and the apartment ghosts
-    caption: Eric, Gemma and Dario stand in a dim room between two pale, spectral figures reaching toward them.
-  - src: /images/gallery/2026-02-11-14.webp
-    alt: The trio delivering produce
-    caption: Eric, Gemma and Dario carry crates of tomatoes, greens and apples past a lit storefront.
   - src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-1.webp
     alt: The trio and the apartment ghosts
     caption: Eric, Gemma and Dario stand in a dim room between two pale, spectral figures reaching toward them.
-  - src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-2.webp
-    alt: Richard Blaze and rebel allies at a teleport circle
-    caption: Richard Blaze gestures to a dark-haired woman in a white dress, Jessica Grimpledink and Digma Beeve, standing around a glowing blue teleportation circle.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 4 · DM: Nichole**
@@ -54,11 +42,23 @@ Sharn Ep 4 — Richard Blaze is the fourth session of the Sharn arc of Unforesee
 
 The morning after the [Iron Veil](/organizations/the-iron-veil/) patrol was quietly eliminated at [Zilspar Farm 02](/places/zilspar/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) were summoned to a secluded safe-house room. Inside waited [Zero-One](/people/zero-one-fema-nolan/), alone, her [Silver Flame](/organizations/the-silver-flame/) paladins keeping guard outside. Moments later, [Jessica Grimpledink](/people/jessica-grimpledink/), [Digma Beeve](/people/digma-beeve/), and [Richard Blaze](/people/richard-blaze/) arrived through the hidden teleportation circle.
 
+![Gemma, Eric and Dario face an armoured patrol and its hound at night](/images/site/sharn-ep-4-richard-blaze-2.webp)
+*Gemma, Eric and Dario face an armoured patrol and its hound at night.*
+
+![Richard Blaze, Jessica Grimpledink and Digma Beeve at the glowing teleportation circle](/images/site/sharn-ep-5-welcome-to-the-neighborhood-2.webp)
+*Richard Blaze, Jessica Grimpledink and Digma Beeve at the glowing teleportation circle.*
+
 There, Richard finally delivered his long-buried confession, the truth about [Esther](/people/esther-crona/), the Sword, and the forces shaping the Empire. Jessica, Zero-One, and Digma supported and clarified the revelations, but the emotional fallout was immediate. Eric and Dario remained deeply wary, unconvinced that "saving" Esther was possible or wise. Richard didn't argue; he simply warned them that facing Esther while her Sword remained bound would be suicide. Jessica then presented a full mission board, laying out the interconnected operations now available to them.
 
 Using their Zilspar Farm 02 produce-delivery cover, the Trio flew with [Izaak](/people/izaak/) back into the [Lower City](/places/the-lower-city/). After delivering goods to Richard Blaze restaurant in the [Ziggurat](/places/the-ziggurat/) plaza, they explored the area, signed up for an upcoming fight at [Breakers Pit](/places/breakers-pit/), asked locals about housing, and learned of an abandoned apartment near the Kross Roads Corner Store.
 
+![Eric, Gemma and Dario carry crates of produce under their delivery cover](/images/gallery/2026-02-11-14.webp)
+*Eric, Gemma and Dario carry crates of produce under their delivery cover.*
+
 Inside the long-boarded-up unit, they encountered two ghosts haunting the forgotten space. After defeating them, the Trio began cleaning and reclaiming the apartment; a hidden, low-profile base of operations perfect for their growing list of missions. The session closed with the Trio standing in their newly secured Lower City hideout, a Tier One Breaker's Pit fight scheduled for the next night, and multiple mission threads pulling them in different directions, all while tension simmered around Richard's confession and the impossible question of what to do about Esther Crona.
+
+![Eric, Gemma and Dario confront the two ghosts in the boarded-up apartment](/images/gallery/2026-02-11-11.webp)
+*Eric, Gemma and Dario confront the two ghosts in the boarded-up apartment.*
 
 ## Revelations
 

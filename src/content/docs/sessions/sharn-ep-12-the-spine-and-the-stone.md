@@ -28,25 +28,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-12-E28094-the-spine-and-the-stone-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/gallery/2026-03-20-01.webp
-    alt: R.U.S.T. prayer sheet to Lexicon
-    caption: A song sheet with doves and a radiant cross, bordered in binary, with verses such as "You'll be given love (Lexicon)" and "All is full of love (Lexicon)". It is the prayer sheet the R.U.S.T. Runners hand out to the Cogborn.
-  - src: /images/gallery/2026-03-29-02.webp
-    alt: The Stone Golem of the Chamber Room
-    caption: Sir Dario Argentino on his black panther, Eric the Cleric and Gemma Corso battle an ancient Stone Golem among spider corpses in the webbed Chamber Room.
-  - src: /images/gallery/2026-03-29-08.webp
-    alt: Clearing the collapsed tunnel
-    caption: Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel, Doppler cutting stone with a blue beam and Snodgrass hauling a boulder, to reach the trapped Cogborn.
-  - src: /images/gallery/2026-03-31-02.webp
-    alt: Locke Pierce meets Preacher
-    caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
-  - src: /images/gallery/2026-03-27-01.webp
-    alt: R.U.S.T. communication necklace
-    caption: 'A silver pendant on a chain: a crosshair medallion ringed with binary digits and four points. It is the R.U.S.T. communication necklace Locke Pierce gives the trio.'
-  - src: /images/gallery/2026-03-29-01.webp
-    alt: Eric faces a giant spider
-    caption: Eric the Cleric, dagger drawn, faces a giant spider descending on its web in the webbed Chamber Room.
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 12 · DM: Nichole**
@@ -59,9 +40,27 @@ After returning to the [Underhive](/organizations/the-underhive/) tavern, the tr
 
 That night, Berenstain, [Snodgrass](/people/snodgrass/), and [Doppler](/people/doppler-klink/) worked together to clear the collapsed tunnel, opening a path to the Cogborn and reuniting with the Cogborn elder [Chris Understall](/people/chris-understall/). Plans were made for the community to move once the way was confirmed safe.
 
+![Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel to the Cogborn](/images/gallery/2026-03-29-08.webp)
+*Berenstain, Doppler Klink and Snodgrass dig out the collapsed tunnel to the Cogborn.*
+
 The next morning, the trio entered the long-sealed Chamber Room, discovering a vast webbed hall guarded by four giant spiders and an ancient Stone Golem. After a brutal fight, they defeated the guardians, recovered several magic items, including an Ioun Stone with old Dhakaani runes on it, and took a short rest before pressing deeper toward [RUST](/organizations/r-u-s-t/). They quickly found [Misty Kross](/people/misty-kross/) patrolling the tunnels in the area and she led them to [Preacher](/people/preacher/).
 
+![Eric the Cleric faces a giant spider in the webbed Chamber Room](/images/gallery/2026-03-29-01.webp)
+*Eric the Cleric faces a giant spider in the webbed Chamber Room.*
+
+![Dario, Eric and Gemma battle the Stone Golem of the Chamber Room](/images/gallery/2026-03-29-02.webp)
+*Dario, Eric and Gemma battle the Stone Golem of the Chamber Room.*
+
 With the Chamber Room cleared, the trio, Doppler and Snodgrass guided the Cogborn community through the Spine, down the underhive river, through the ancient chamber room, past the defeated stone golem and large spider corpses and directly to RUST and the mountain tunnel. There Preacher and the RUST Runners led the people in song and handed out prayer sheets, praying to the love of something called "[Lexicon](/items/the-lexicon/)". [Locke Pierce](/people/locke-pierce/), leader of [The Hundreds](/organizations/the-hundreds/), teleported in once the people were cleared and met with Preacher. He thanked the group for saving the Cogborn and presented each of them with a RUST communication necklace. As the Cogborn prepared to continue their journey toward [Gorgonhorn](/places/gorgonhorn/), Doppler made the difficult decision to leave Sharn and travel with his people.
+
+![The R.U.S.T. prayer sheet to Lexicon handed out to the Cogborn](/images/gallery/2026-03-20-01.webp)
+*The R.U.S.T. prayer sheet to Lexicon handed out to the Cogborn.*
+
+![Locke Pierce meets Preacher in the R.U.S.T. control room as the trio look on](/images/gallery/2026-03-31-02.webp)
+*Locke Pierce meets Preacher in the R.U.S.T. control room as the trio look on.*
+
+![The R.U.S.T. communication necklace Locke Pierce gives each of the trio](/images/gallery/2026-03-27-01.webp)
+*The R.U.S.T. communication necklace Locke Pierce gives each of the trio.*
 
 With their mission complete, [Gemma](/people/gemma-corso/) teleported the trio, along with [Renn](/people/renn-tal/) and Snodgrass, back to their Lower City safe house. Snodgrass chose to remain in Sharn, determined to help the group solve the mystery of the Cog Collector.
 

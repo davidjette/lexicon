@@ -29,22 +29,6 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-9-E28094-the-death-warrant-and-the-ringer-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
-gallery:
-  - src: /images/gallery/2026-08-10-01.webp
-    alt: Reading Egg Roll's map
-    caption: Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat study a large parchment map in a dark hall. Egg Roll's mother gives Gemma the boy's hand-drawn map of the foundry level.
-  - src: /images/gallery/2026-08-10-02.webp
-    alt: The chain ladder into the depths
-    caption: Three figures descend a long ladder into a black shaft, one of them falling away from it. The trio take a 300-foot chain ladder down, and Eric falls.
-  - src: /images/gallery/2026-08-10-05.webp
-    alt: Eric's dream in the Glitterhame
-    caption: A barefoot man in shorts stands in the glowing fungal cavern, watching a small boy face a huge fungus-covered figure. Eric dreams of John C. LeBeefe standing over a duergar boy in the Glitterhame.
-  - src: /images/gallery/2026-08-10-07.webp
-    alt: Overseer Velen Marsk and his ogres
-    caption: In a shrine hall two huge undead ogres flank a smaller figure while the trio face them, one with a flaming sword. Overseer Velen Marsk and his risen ogres are still on shift in the sealed Black Dove shrine.
-  - src: /images/gallery/2026-08-10-09.webp
-    alt: Meeting Sedda at the bottom of the shaft
-    caption: In a dark cavern of black water, Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat face a pale, decayed dwarf woman. At the bottom of the ladder the trio find Sedda Tiddes Deeptempura, three years dead.
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 9 · DM: Dave**
@@ -57,9 +41,24 @@ Korth Ep 9 — The Death Warrant and the Ringer is the ninth session of the Kort
 
 [Eric the Cleric](/people/eric-the-cleric/) dreamed of the Glitterhame again. The whisper was there, but aimed at someone else — he followed it around a fungal growth and found a small duergar boy staring up at [John C. LeBeefe](/people/john-c-lebeefe/). *"Good idea to ring that bell,"* LeBeefe murmured, smiling down at the child. Eric woke to find the camp already stirring over a missing boy, **Egg Roll**, who had gone for water hours earlier. He said nothing about the dream. [Gemma Corso](/people/gemma-corso/) woke from her own omen: a marble foyer, a gold-lined fountain, Kitsune on a chaise, and an emaciated old man wearing [Emperor Kaius III](/people/emperor-caius-iii/)'s face stumbling in with an infant, blood pouring from his chest as he collapsed into the water.
 
+![In his dream, Eric watches a duergar boy face John C. LeBeefe in the Glitterhame](/images/gallery/2026-08-10-05.webp)
+*In his dream, Eric watches a duergar boy face John C. LeBeefe in the Glitterhame.*
+
 Egg Roll's mother gave Gemma a hand-drawn map — the boy had mapped the entire foundry level. Following it, the trio found a sealed [Black Dove](/organizations/the-black-doves/) shrine marked by [Sister Maelis Dorn](/people/sister-maelis-dorn/). Inside, Overseer [Velen Marsk](/people/overseer-velen-marsk/), dead three years, still commanded his undead ogres to "finish the count" and exterminate the dwarves. [Eric the Cleric](/people/eric-the-cleric/)'s turn undead broke the mob and Marsk fell.
 
+![Sir Dario Argentino, Gemma Corso and Eric the Cleric study Egg Roll's map of the foundry level](/images/gallery/2026-08-10-01.webp)
+*Sir Dario Argentino, Gemma Corso and Eric the Cleric study Egg Roll's map of the foundry level.*
+
+![Overseer Velen Marsk and his undead ogres face the trio in the sealed Black Dove shrine](/images/gallery/2026-08-10-07.webp)
+*Overseer Velen Marsk and his undead ogres face the trio in the sealed Black Dove shrine.*
+
 Following the map further they found a 300-foot chain ladder into the depths. At the bottom, in black acid-smelling water among reptilian drag marks, a lone ghostly figure sorted through barrels: [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/), three years dead, lucid, and expecting them. Up close she was corporeal undead: "a dwarf woman, long decayed and somehow still lucid". <small>(Oral Histories: The Inevitables, 2026-08-09)</small> She mistook the trio for the "Lord Mayor's extraction team." Gemma played along. She confessed she rang the bell with a rock, not the proper hammer, and fled below as instructed and has been waiting. Feeling a strange bond between herself and Eric, Sedda realized her plan had failed and that she was undead. She begged them to stop the bells everywhere and to end her suffering.
+
+![The trio climb down the 300-foot chain ladder, and Eric falls](/images/gallery/2026-08-10-02.webp)
+*The trio climb down the 300-foot chain ladder, and Eric falls.*
+
+![At the bottom of the shaft the trio meet Sedda Tiddes Deeptempura, three years dead](/images/gallery/2026-08-10-09.webp)
+*At the bottom of the shaft the trio meet Sedda Tiddes Deeptempura, three years dead.*
 
 ## Revelations
 

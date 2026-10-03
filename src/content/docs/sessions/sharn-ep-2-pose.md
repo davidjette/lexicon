@@ -28,28 +28,6 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-2-E28094-posE-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
-gallery:
-  - src: /images/gallery/2025-12-11-01.webp
-    alt: Eric the Cleric's co-op badge photo
-    caption: 'A bespectacled young man in a green floral shirt poses against a black backdrop: the photo on Eric''s Harry Potter staff badge for the Vilspar Co-operative at POSÉ.'
-  - src: /images/gallery/2026-01-02-02.webp
-    alt: 'POSÉ server badge: "Hermione Granger"'
-    caption: 'A POSÉ Restaurant & Grill name badge reading "Hermione Granger - Farm-to-Table Fresh - Vilspar Co-operative" with Gemma Corso''s portrait: her server disguise for the grand opening.'
-  - src: /images/gallery/2026-01-02-03.webp
-    alt: 'POSÉ server badge: "Harry Potter"'
-    caption: 'A POSÉ Restaurant & Grill name badge reading "Harry Potter - Farm-to-Table Fresh - Vilspar Co-operative" with Eric the Cleric''s portrait in a floral shirt: his server disguise for the grand opening.'
-  - src: /images/gallery/2026-01-03-01.webp
-    alt: 'POSÉ server badge: "Ronaldo Weasley"'
-    caption: 'A POSÉ Restaurant & Grill name badge reading "Ronaldo Weasley - Farm-to-Table Fresh - Vilspar Co-operative" with Sir Dario Argentino''s portrait: his server disguise for the grand opening.'
-  - src: /images/gallery/2026-02-11-09.webp
-    alt: The trio undercover as POSÉ servers
-    caption: Eric, Gemma and Dario in black server uniforms carry trays of champagne, food and wine through an elegant rooftop party over the lit city.
-  - src: /images/gallery/2026-02-22-10.webp
-    alt: Three figures over Sharn at night
-    caption: Three silhouetted figures stand at a railing looking out over the glowing towers of Sharn, beside a neon BAR sign.
-  - src: /images/album/sharn-ep-2-pos-cogborn-protest-upper-city-sharn.webp
-    alt: 'Cogborn Protest - Upper City Sharn - Sharn Episode: POSÉ'
-    caption: 'Cogborn Protest - Upper City Sharn - Sharn Episode: POSÉ'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 2 · DM: Nichole**
@@ -62,11 +40,32 @@ gallery:
 
 After recovering at [The Nest](/organizations/the-nest/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) are brought deeper into the rebels' hidden stronghold to review the stolen [BioTec](/organizations/biotec/) files. With [Zero of Sharn](/people/zero-of-sharn/)'s help, they successfully redact portions of the data and uncover the name of a classified military initiative: [Project EDEN](/organizations/project-e-d-e-n/). Before they depart, [Izaak](/people/izaak/) implants each of them with [Ghost Chips](/items/the-ghost-chip/).
 
+![Gemma, Eric and Dario look out over the towers of Sharn at night](/images/gallery/2026-02-22-10.webp)
+*Gemma, Eric and Dario look out over the towers of Sharn at night.*
+
 With new identities established, [Jessica Grimpledink](/people/jessica-grimpledink/) assigns the Trio their next mission: infiltrate the grand opening of [Richard Blaze](/people/richard-blaze/)'s newest upper-city restaurant, [Posé](/places/pose/), disguised as servers from the Vilspar Co-operative.
+
+![Eric's badge photo for his Vilspar Co-operative server disguise](/images/gallery/2025-12-11-01.webp)
+*Eric's badge photo for his Vilspar Co-operative server disguise.*
+
+![Gemma's server badge for Posé, under the name Hermione Granger](/images/gallery/2026-01-02-02.webp)
+*Gemma's server badge for Posé, under the name Hermione Granger.*
+
+![Eric's server badge for Posé, under the name Harry Potter](/images/gallery/2026-01-02-03.webp)
+*Eric's server badge for Posé, under the name Harry Potter.*
+
+![Dario's server badge for Posé, under the name Ronaldo Weasley](/images/gallery/2026-01-03-01.webp)
+*Dario's server badge for Posé, under the name Ronaldo Weasley.*
 
 Inside the event, the Trio mingle among Sharn's elite. Through careful eavesdropping, they piece together troubling fragments: a breach at BioTec, the disappearance of [Martin Kross](/people/martin-kross/), whispered mentions of Project EDEN, and escalating political tension within the Empire.
 
+![Eric, Gemma and Dario serve drinks and food at the Posé grand opening](/images/gallery/2026-02-11-09.webp)
+*Eric, Gemma and Dario serve drinks and food at the Posé grand opening.*
+
 Outside, a [Cogborn protest](/history/the-cogborn-protest/) erupts into chaos. As the crowd surges up the grand staircase, shots ring out from within the protesters, striking the balcony and killing celebrity news anchor [Candice Kurt](/people/candice-kurt/). Panic consumes the event. Amid the confusion, the Trio regroup, turn invisible, and abduct [Sister Nora](/people/sister-nora/) of [the Black Doves](/organizations/the-black-doves/), escaping through a hidden elevator route revealed by Izaak.
+
+![Cogborn protesters with placards gather in the upper city](/images/album/sharn-ep-2-pos-cogborn-protest-upper-city-sharn.webp)
+*Cogborn protesters with placards gather in the upper city.*
 
 Back at their upper-city safehouse, every screen in Sharn suddenly turns red. A chilling broadcast appears: [Esther Crona](/people/esther-crona/), clad in full armor atop her Imperial warship, executes Cogborn prisoners live for the entire city to witness. The message is unmistakable: dissent will be crushed. With a high-value captive in their custody and the Empire tightening its grip, the Trio brace for the storm ahead.
 
