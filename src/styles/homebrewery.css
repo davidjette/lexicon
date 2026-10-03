@@ -232,3 +232,20 @@ details.oblivia .oblivia__body > :first-child {
 	font-size: 0.9rem;
 	margin: 1rem 0;
 }
+
+/* Inline article images: a picture on its own line, followed by an italic caption line. */
+.sl-markdown-content p > img:first-child {
+	display: block;
+	max-height: 560px;
+	width: auto;
+	max-width: 100%;
+	margin: 0 auto 0.3rem;
+	border: 1px solid var(--gold);
+	border-radius: 5px;
+}
+.sl-markdown-content p:has(> img:first-child) > em {
+	display: block;
+	text-align: center;
+	font-size: 0.9em;
+	opacity: 0.85;
+}
