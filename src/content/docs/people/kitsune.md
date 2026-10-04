@@ -127,3 +127,5 @@ Gemma told him that what she does is for some semblance of normalcy in the world
 - **[Gemma Corso](/people/gemma-corso/)** — warlock, agent Foxtale of the Nest; holds the pact Jane made. Alive.
 - **Jane Corso** (also written Croso, and Jeyne Korso) — Gemma's adoptive father, a Last War soldier, who held the pact before her. Killed in the fighting in Leef and Newham.
 - **Lalo Kitsune** — a fey fox summoned from the charges in Gemma's armour.
+
+![Korth Ep 16 — Orientation Day -Gemma Corso and her Archfey Patron Kitsune in a bath - The Grand Lodge.png](/images/uploads/korth-ep-16-orientation-day-gemma-corso-mutf8oyi.webp)
