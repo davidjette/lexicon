@@ -43,14 +43,7 @@ Sharn Ep 6 — The Vault Below is the sixth session of the Sharn arc of Campaign
 
 The trio pushed deeper into the lower city, following the trail of the missing ArcEye retiree [Grady Marsh](/people/grady-marsh/) to the pulsing, industrial nightclub known as [The Vault Below](/places/the-vault-below/). After sampling the club's signature specialty drinks, each with its own uncanny knack for sharpening their skills, they watched a hooded figure slip through a guarded door and whisper a password to the security stationed there. With their senses heightened and their instincts sharp, the trio repeated the phrase and were granted access to the restricted levels beneath the club.
 
-![Eric, Gemma and Dario approach the entrance of The Vault Below](/images/gallery/2026-01-24-01.webp)
-*Eric, Gemma and Dario approach the entrance of The Vault Below.*
-
-![The trio stand at the door of The Vault Below club](/images/gallery/2026-02-10-10.webp)
-*The trio stand at the door of The Vault Below club.*
-
-![The Vault Below drink menu, with the effect of each specialty drink](/images/gallery/2026-01-26-04.webp)
-*The Vault Below drink menu, with the effect of each specialty drink.*
+![Sharn Ep 6 — The Vault Below - Inside The Vault Below - Sharn Lower City - Lantern District.png](/images/uploads/sharn-ep-6-the-vault-below-inside-the-va-mu3nblsy.webp)
 
 Below the dance floor, a lone [Children of Ember](/organizations/the-children-of-ember/) cultist confronted them, calling for reinforcements. The fight was fast and brutal; four cultists fell before the trio pushed deeper into the hidden chambers. There they found Grady Marsh, shaken but alive, along with two emaciated prisoners kept as "blood cattle" for [Malrik Zeir](/people/malrik-zeir/)'s feeding. The trio freed them all and uncovered scattered documents, relics, and clues about the Children of Ember, correspondence between Malrik and his half-brother [Hallorn](/people/hallorn-d-lyrandar/) about [Umbra](/items/umbra/) and its connection to [Project EDEN](/organizations/project-e-d-e-n/), mention of [Henry Heinrick](/people/henry-heinrick/) joining "[The Velvet Table Society](/organizations/the-velvet-table-society/)" which meets at the upper-city Vault location, and notes on the strange ritual attempted on Grady Marsh.
 
@@ -94,4 +87,3 @@ The trio left with Grady Marsh and the memory of Calcifer's birth still locked i
 
 ![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario fight Children of Ember Cultist.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mkjxj.webp)
 
-![Sharn Ep 6 — The Vault Below - Inside The Vault Below - Sharn Lower City - Lantern District.png](/images/uploads/sharn-ep-6-the-vault-below-inside-the-va-mu3nblsy.webp)
