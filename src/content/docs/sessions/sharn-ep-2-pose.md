@@ -40,27 +40,13 @@ wa:
 
 After recovering at [The Nest](/organizations/the-nest/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) are brought deeper into the rebels' hidden stronghold to review the stolen [BioTec](/organizations/biotec/) files. With [Zero of Sharn](/people/zero-of-sharn/)'s help, they successfully redact portions of the data and uncover the name of a classified military initiative: [Project EDEN](/organizations/project-e-d-e-n/). Before they depart, [Izaak](/people/izaak/) implants each of them with [Ghost Chips](/items/the-ghost-chip/).
 
-![Gemma, Eric and Dario look out over the towers of Sharn at night](/images/gallery/2026-02-22-10.webp)
-*Gemma, Eric and Dario look out over the towers of Sharn at night.*
-
 With new identities established, [Jessica Grimpledink](/people/jessica-grimpledink/) assigns the Trio their next mission: infiltrate the grand opening of [Richard Blaze](/people/richard-blaze/)'s newest upper-city restaurant, [Posé](/places/pose/), disguised as servers from the Vilspar Co-operative.
 
 ![Eric's badge photo for his Vilspar Co-operative server disguise](/images/gallery/2025-12-11-01.webp)
 *Eric's badge photo for his Vilspar Co-operative server disguise.*
 
-![Gemma's server badge for Posé, under the name Hermione Granger](/images/gallery/2026-01-02-02.webp)
-*Gemma's server badge for Posé, under the name Hermione Granger.*
-
-![Eric's server badge for Posé, under the name Harry Potter](/images/gallery/2026-01-02-03.webp)
-*Eric's server badge for Posé, under the name Harry Potter.*
-
-![Dario's server badge for Posé, under the name Ronaldo Weasley](/images/gallery/2026-01-03-01.webp)
-*Dario's server badge for Posé, under the name Ronaldo Weasley.*
-
 Inside the event, the Trio mingle among Sharn's elite. Through careful eavesdropping, they piece together troubling fragments: a breach at BioTec, the disappearance of [Martin Kross](/people/martin-kross/), whispered mentions of Project EDEN, and escalating political tension within the Empire.
 
-![Eric, Gemma and Dario serve drinks and food at the Posé grand opening](/images/gallery/2026-02-11-09.webp)
-*Eric, Gemma and Dario serve drinks and food at the Posé grand opening.*
 
 Outside, a [Cogborn protest](/history/the-cogborn-protest/) erupts into chaos. As the crowd surges up the grand staircase, shots ring out from within the protesters, striking the balcony and killing celebrity news anchor [Candice Kurt](/people/candice-kurt/). Panic consumes the event. Amid the confusion, the Trio regroup, turn invisible, and abduct [Sister Nora](/people/sister-nora/) of [the Black Doves](/organizations/the-black-doves/), escaping through a hidden elevator route revealed by Izaak.
 
@@ -80,6 +66,8 @@ Nico's checklist for the Nest scene: show the trio their safe house and have the
 **The assignment.** Zero set three rose-gold server badges and folded uniforms on the central table. Jessica: "Richard Blaze is opening a new restaurant — Posé. Infernal slang. Means 'to ignite.' Fitting." The cover was Farm-to-Table Fresh servers from the Vilspar Co-operative, and the badges read "Hermione Granger" for Gemma, "Harry Potter" for Eric and "Ronaldo Weasley" for Dario. The guest list was the subject of the correspondence Gemma had found on [Cob Cornwell](/people/cob-cornwell/). Jessica's instruction: "Observe. Listen. Report. Do not engage." <small>(Nico's DM notes, Episode 2)</small>
 
 **The night.** At the base of the grand staircase up to the Veil level a small group of protesters gathered, with Iron Veil soldiers behind blockades at the bottom and top. The head server, Marla, showed the trio the restaurant and the menu, and Richard Blaze, friendly and kind but busy, met them while [Calcifer](/people/calcifer/) ran around helping his father. The guests then arrived and the trio worked to overhear them. At the height of the night the protest pushed through the barriers and up the stairs into the Iron Veil guards. [Malrik Zeir](/people/malrik-zeir/) said to [Faith](/people/faith/), "The Children of Ember are here", and one protester screamed "For the Cogs" and shot toward the balcony, killing Candice Kurt. <small>(Nico's DM notes, Episode 2)</small>
+
+![Sharn Ep 2 — POSÉ - Cogborn Protest - Upper City Sharn Veil HQ Building.png](/images/uploads/sharn-ep-2-pose-cogborn-protest-upper-ci-mu3mg34d.webp)
 
 Izaak, on a far-off rooftop, sent the trio a sending-stone message about an elevator to the level beneath the restaurant. Esther grabbed Calcifer and teleported away. The trio ran to each other and cast invisibility, and Dario restrained Sister Nora, made her invisible too and carried her off. They escaped to the Astra level and back to their safe house unnoticed. There the screens turned red with black letters, "What was first just a dream has become a frightening reality for those who may oppose us", and showed Esther in full armour with her great HexBlade drawn, on top of her Imperial ship parked over the city, executing four Cogborn prisoners. <small>(Nico's DM notes, Episode 2)</small>
 
@@ -103,4 +91,4 @@ Nico's notes attribute the shooting to the Children of Ember. Faith learned the 
 
 The rebellion gained a high-value captive in Sister Nora and lost any hope of operating quietly: Posé put the [Iron Veil](/organizations/the-iron-veil/) on alert across Sharn. Esther Crona's broadcast set the terms of the whole arc — dissent will be crushed publicly — and made her, rather than the Emperor, the face the trio would eventually have to confront.
 
-![Sharn Ep 2 — POSÉ - Cogborn Protest - Upper City Sharn Veil HQ Building.png](/images/uploads/sharn-ep-2-pose-cogborn-protest-upper-ci-mu3mg34d.webp)
+
