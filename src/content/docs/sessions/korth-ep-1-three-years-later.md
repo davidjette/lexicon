@@ -43,8 +43,6 @@ Three years after the fall of [Esther Crona](/people/esther-crona/) and the [Iro
 
 In those years Gemma found two more bells: one hanging in a [Black Dove](/organizations/the-black-doves/) church in Korth, and one hidden in a small Lower City church in Sharn. The Sharn bell is secured, raising concerns about the strategic placement of Fantanya-type artifacts. On one Korth assignment, infiltrating a Black Dove church as a high-elf acolyte, she befriended [Sister Maelis Dorn](/people/sister-maelis-dorn/), who — believing her a worthy initiate — whispered a forbidden poem.
 
-![Gemma Corso finds a bell in a church tower guarded by the Silver Flame](/images/gallery/2026-06-15-03.webp)
-*Gemma Corso finds a bell in a church tower guarded by the Silver Flame.*
 
 ![Alternate render of Gemma Corso and the Silver Flame with a bell in Sharn](/images/album/korth-ep-1-three-years-later-gemma-and-silver-flame-with-bell-in-sharn-upp-alt.webp)
 *Alternate render of Gemma Corso and the Silver Flame with a bell in Sharn.*
