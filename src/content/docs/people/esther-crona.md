@@ -62,6 +62,15 @@ wa:
   uuid: bda32680-b078-40ff-a3b4-df5ef7d47d65
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
 gallery:
+- src: /images/album/korth-ep-16-orientation-day-the-sword.webp
+  alt: 'Gemma and Esther both call the sword, and it hangs between them - Korth Ep 16, Orientation Day'
+  caption: 'Gemma and Esther both call the sword, and it hangs between them - Korth Ep 16, Orientation Day'
+- src: /images/album/korth-ep-16-orientation-day-esther-risen-2.webp
+  alt: 'Esther Crona spreads her wings - Korth Ep 16, Orientation Day'
+  caption: 'Esther Crona spreads her wings - Korth Ep 16, Orientation Day'
+- src: /images/album/korth-ep-16-orientation-day-esther-risen.webp
+  alt: 'Esther Crona, risen - Korth Ep 16, Orientation Day'
+  caption: 'Esther Crona, risen - Korth Ep 16, Orientation Day'
 - src: /images/gallery/2025-12-03-02.webp
   alt: Esther Crona, Lord Commander
   caption: A dark portrait card of Esther Crona, horned and cloaked in black with a glowing red sword, titled Esther Crona, Lord Commander, Vengeance Paladin / Warlock.

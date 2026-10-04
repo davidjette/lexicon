@@ -44,6 +44,10 @@ published: '2026-09-10'
 wa:
   slug: zero-one-28fema-nolan29-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+gallery:
+  - src: /images/album/korth-ep-16-orientation-day-the-rite.webp
+    alt: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'
+    caption: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'
 ---
 
 **Human · Paladin of the Silver Flame · Leader of Fulcrum · Taken alive**

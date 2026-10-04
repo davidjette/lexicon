@@ -48,6 +48,9 @@ sources:
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 gallery:
+  - src: /images/album/korth-ep-16-orientation-day-kitsune-in-the-bath.webp
+    alt: 'Kitsune joins Gemma in the bath at the Grand Lodge - Korth Ep 16, Orientation Day'
+    caption: 'Kitsune joins Gemma in the bath at the Grand Lodge - Korth Ep 16, Orientation Day'
   - src: /images/album/gemma-corso-and-kitsune-2.webp
     alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
     caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'

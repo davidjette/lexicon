@@ -46,6 +46,9 @@ image:
   src: /images/site/donna-1.webp
   alt: Donna
 gallery:
+- src: /images/album/korth-ep-16-orientation-day-donna.webp
+  alt: 'Through the window: Donna on the transformation floor - Korth Ep 16, Orientation Day'
+  caption: 'Through the window: Donna on the transformation floor - Korth Ep 16, Orientation Day'
 - src: /images/gallery/2026-02-20-01.webp
   alt: Donna of Zilspar Farm 02
   caption: Donna, a red-haired Silver Flame cleric in pale robes with a belt of tools, smiles with a ledger in her arms.

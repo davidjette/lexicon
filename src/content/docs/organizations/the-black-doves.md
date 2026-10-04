@@ -48,6 +48,18 @@ wa:
   uuid: 1b38d4b7-7cc1-4560-9b4f-4ae943c63a5b
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
 gallery:
+  - src: /images/album/korth-ep-16-orientation-day-battle-sister.webp
+    alt: 'A battle sister of the Black Doves - Korth Ep 16, Orientation Day'
+    caption: 'A battle sister of the Black Doves - Korth Ep 16, Orientation Day'
+  - src: /images/album/korth-ep-16-orientation-day-lus-fayina.webp
+    alt: 'Director Lus Fayina - Korth Ep 16, Orientation Day'
+    caption: 'Director Lus Fayina - Korth Ep 16, Orientation Day'
+  - src: /images/album/korth-ep-16-orientation-day-sister-of-the-blood.webp
+    alt: 'A Sister of the Blood in red - Korth Ep 16, Orientation Day'
+    caption: 'A Sister of the Blood in red - Korth Ep 16, Orientation Day'
+  - src: /images/album/korth-ep-16-orientation-day-the-guide.webp
+    alt: 'The severe old guide in red who led the novices'' tour - Korth Ep 16, Orientation Day'
+    caption: 'The severe old guide in red who led the novices'' tour - Korth Ep 16, Orientation Day'
   - src: /images/album/black-dove-nun.webp
     alt: 'Black Dove Nun'
     caption: 'Black Dove Nun'

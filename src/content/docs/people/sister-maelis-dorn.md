@@ -43,6 +43,10 @@ published: '2026-09-10'
 wa:
   slug: sister-maelis-dorn-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+gallery:
+  - src: /images/album/korth-ep-16-orientation-day-maelis-dorn.webp
+    alt: 'Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day'
+    caption: 'Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day'
 ---
 
 **Aereni High Elf · Cleric-Inquisitor of the Black Doves · The Empire · Alive, whereabouts unknown**
