@@ -64,4 +64,3 @@ The Ghost Chip and the encrypted folder passed into rebel hands, giving the Nest
 
 ![Sharn Ep 1 — Welcome to Sharn - Gemma, Dario Eric and Martin Kross inside the Astra bar - Upper city Sharn.png](/images/uploads/sharn-ep-1-welcome-to-sharn-gemma-dario-mu3n8q89.webp)
 
-![Sharn Ep 1 — Welcome to Sharn - Eric, Gemma and Dario - The BioTec breach - Sharn Upper city.png](/images/uploads/sharn-ep-1-welcome-to-sharn-eric-gemma-a-mu3n9f39.webp)
