@@ -40,8 +40,6 @@ wa:
 
 Inside the upper-city safehouse the Trio watch a flood of crystal-screen broadcasts covering the [Posé](/places/pose/) attack, the [Cogborn protest / riot](/history/the-cogborn-protest/), the disappearance of [Sister Nora](/people/sister-nora/), and the sudden tightening of [Iron Veil](/organizations/the-iron-veil/) security across Sharn. Reports confirm that [BioTec](/organizations/biotec/) employee [Martin Kross](/people/martin-kross/) is missing, checkpoints now divide the upper and lower city, and raids sweep through Cogborn neighborhoods in search of suspects.
 
-![Iron Veil soldiers and their hounds hold the steps against a crowd of protesters](/images/site/sharn-ep-3-zilspar-farms-2.webp)
-*Iron Veil soldiers and their hounds hold the steps against a crowd of protesters.*
 
 [Izaak](/people/izaak/) arrives shortly after, coordinating with [The Nest](/organizations/the-nest/) through his shared familiar, a falcon linked to his sister, [Zero of Sharn](/people/zero-of-sharn/). With time running short, the Trio interrogate their captive, Sister Nora, using Zone of Truth and intimidation to force yes-or-no answers while she remains gagged and bound.
 
@@ -51,8 +49,7 @@ Soon after their arrival an Iron Veil patrol of four soldiers and a Veil Hound d
 
 Exhausted but victorious, the Trio return to the underground cell. Sister Nora is awake now, still bound but no longer gagged. They question her further, gathering what information they can before finally taking a long rest in the Zilspar guest house.
 
-![Eric, Gemma and Dario question Sister Nora](/images/gallery/2026-02-11-10.webp)
-*Eric, Gemma and Dario question Sister Nora.*
+![Sharn Ep 3 — Zilspar Farms - Eric, Sister Nora, Gemma and Dario in Zilspar Cell.png](/images/uploads/sharn-ep-3-zilspar-farms-eric-sister-nor-mu3mhiqc.webp)
 
 > The farmers quickly band together to erase all evidence, burning the bodies and dismantling the soldiers' skiff.
 
@@ -83,4 +80,3 @@ Exhausted but victorious, the Trio return to the underground cell. Sister Nora i
 
 Sharn split in two at the checkpoints, and the Lower City became the only ground the trio could work. Zilspar Farm 02 became their fallback and their prison, and the produce-delivery run out of it became their cover for re-entering the city.
 
-![Sharn Ep 3 — Zilspar Farms - Eric, Sister Nora, Gemma and Dario in Zilspar Cell.png](/images/uploads/sharn-ep-3-zilspar-farms-eric-sister-nor-mu3mhiqc.webp)
