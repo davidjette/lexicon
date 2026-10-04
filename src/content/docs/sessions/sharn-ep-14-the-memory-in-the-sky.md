@@ -46,11 +46,10 @@ Grady's memory was pulled successfully. Donna and Grady stepped out, and Jessica
 
 The ArcEye feed revealed [Esther](/people/esther-crona/) collapsing into sudden labor on her penthouse balcony while [Uriel](/people/uriel-qualanthri/) stood motionless, watching. Uriel eventually delivered the baby and examined him closely. Then, with a cold, deliberate motion, she raised her hand over the newborn's face. A sickly green glow spread from her fingertips as the baby's breathing faltered and went still. Dark, vein-like lines formed across his cheek — the mark that would later be known as his "birthmark."
 
-![Esther Crona goes into labour on her balcony while Uriel Qualanthri watches](/images/gallery/2026-04-05-01.webp)
-*Esther Crona goes into labour on her balcony while Uriel Qualanthri watches.*
+![Sharn Ep 14 — The Memory in the Sky - Mindflayer, Gemma, Eric and Dario - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-mindfl-mu3lb6jp.webp)
 
-![Uriel Qualanthri holds the newborn Calcifer beside the exhausted Esther](/images/gallery/2026-04-05-02.webp)
-*Uriel Qualanthri holds the newborn Calcifer beside the exhausted Esther.*
+![Sharn Ep 14 — The Memory in the Sky - Pregnant Esther Crona and Holy Empress Uriel Qualanthri - Upper City Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-pregna-mutfpvsb.webp)
+
 
 ![Uriel cradles Calcifer as Esther lies on the balcony couch](/images/album/sharn-ep-14-the-memory-in-the-sky-esther-crona-empress-uriel-qualanthri-and-calc.webp)
 *Uriel cradles Calcifer as Esther lies on the balcony couch.*
@@ -93,4 +92,3 @@ They fought through three chambers: a rat-infested entryway, a flooded room fill
 
 Three copies of the memory were made and one given to Jessica for safekeeping. Richard revealed he had already arranged to leave Sharn with Calcifer within two days. The trio chose not to broadcast — a decision they reversed four episodes later, on Esther's own balcony, with the city watching.
 
-![Sharn Ep 14 — The Memory in the Sky - Mindflayer, Gemma, Eric and Dario - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-mindfl-mu3lb6jp.webp)
