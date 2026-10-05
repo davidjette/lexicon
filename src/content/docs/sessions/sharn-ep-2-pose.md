@@ -36,8 +36,6 @@ wa:
 
 > Back at their upper-city safehouse, every screen in Sharn suddenly turns red.
 
-![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
-
 ## Summary
 
 After recovering at [The Nest](/organizations/the-nest/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) are brought deeper into the rebels' hidden stronghold to review the stolen [BioTec](/organizations/biotec/) files. With [Zero of Sharn](/people/zero-of-sharn/)'s help, they successfully redact portions of the data and uncover the name of a classified military initiative: [Project EDEN](/organizations/project-e-d-e-n/). Before they depart, [Izaak](/people/izaak/) implants each of them with [Ghost Chips](/items/the-ghost-chip/).
@@ -46,6 +44,7 @@ With new identities established, [Jessica Grimpledink](/people/jessica-grimpledi
 
 Inside the event, the Trio mingle among Sharn's elite. Through careful eavesdropping, they piece together troubling fragments: a breach at BioTec, the disappearance of [Martin Kross](/people/martin-kross/), whispered mentions of Project EDEN, and escalating political tension within the Empire.
 
+![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
 
 Outside, a [Cogborn protest](/history/the-cogborn-protest/) erupts into chaos. As the crowd surges up the grand staircase, shots ring out from within the protesters, striking the balcony and killing celebrity news anchor [Candice Kurt](/people/candice-kurt/). Panic consumes the event. Amid the confusion, the Trio regroup, turn invisible, and abduct [Sister Nora](/people/sister-nora/) of [the Black Doves](/organizations/the-black-doves/), escaping through a hidden elevator route revealed by Izaak.
 
