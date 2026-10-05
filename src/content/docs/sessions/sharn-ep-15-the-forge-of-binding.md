@@ -15,7 +15,7 @@ tags:
   - Esther Crona
   - Rite of Recall
 image:
-  src: /images/uploads/sharn-ep-15-the-forge-of-binding-mu0ryp53.webp
+  src: /images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-muvvw91u.webp
 sidebar:
   order: 215
 type: report
@@ -65,10 +65,15 @@ His form shattered into red-black light, hanging in the air like blood splatter 
 
 Moments later, a massive drill broke through the ceiling. [Blair](/people/blair/) burst from a hidden tunnel, shouting for the trio to follow. As they escaped, they saw the drill crash to the floor and [Esther](/people/esther-crona/) drop down onto it, striding toward the extinguished Forge.
 
-![Esther Crona stands atop the drill after it breaks through the ceiling](/images/gallery/2026-05-02-06.webp)
-*Esther Crona stands atop the drill after it breaks through the ceiling.*
+
+![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun 2.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-muvw1cy3.webp)
+
 
 Blair led them through the escape passage and back into the [Underhive](/organizations/the-underhive/) vault, where they learned what had happened while they were below: [Iron Veil](/organizations/the-iron-veil/) soldiers had broken into the Underhive, killing three drones. The drones fought back, killing seven of the attackers and leaving one soldier alive and captured.
+
+
+![Sharn Ep 15 — The Forge of Binding - Dario, Eric and Gemma running to Blair in Forge of Binding room that collapsing.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-muvvyh28.webp)
+
 
 ## Revelations
 
@@ -86,5 +91,3 @@ Blair led them through the escape passage and back into the [Underhive](/organiz
 
 The Forge went dark and Esther took the ground the trio had just vacated — the moment she later described to Richard as a veil lifting. Blair's Underhive had been breached by the Iron Veil for the first time, leaving her a prisoner to interrogate and a grievance to act on.
 
-
-![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-mu3lch2l.webp)
