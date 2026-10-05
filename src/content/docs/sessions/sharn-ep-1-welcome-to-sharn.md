@@ -45,12 +45,12 @@ Newly arrived in the towering city of [Sharn](/places/sharn/), the trio; [Gemma]
 
 To get inside, the trio befriend an intoxicated BioTec employee [Martin Kross](/people/martin-kross/), escorting him home and lifting his keycard. Their break-in quickly spirals out of control when private security confronts them and a panicked scientist accidentally unleashes three horrific undead [warforged](/lore/warforged/) hybrid units never before seen.
 
-![Eric, Gemma and Dario face the undead warforged hybrids inside BioTec](/images/gallery/2026-02-11-08.webp)
-*Eric, Gemma and Dario face the undead warforged hybrids inside BioTec.*
-
 Barely surviving the encounter, the trio secure the Ghost Chip and a folder of encrypted high-level data before fleeing into the night. Following Izaak's instructions, they solve a hidden puzzle in [Skyroot Park](/places/skyroot-park/) that grants them access to the Sharn rebel stronghold known as [The Nest](/organizations/the-nest/), where they meet [Zero of Sharn](/people/zero-of-sharn/) and take refuge as the city sleeps.
 
 > Their first assignment: infiltrate the corporate labs of BioTec and steal a prototype known only as the Ghost Chip.
+
+![Eric, Gemma and Dario face the undead warforged hybrids inside BioTec](/images/gallery/2026-02-11-08.webp)
+*Eric, Gemma and Dario face the undead warforged hybrids inside BioTec.*
 
 ## Revelations
 
