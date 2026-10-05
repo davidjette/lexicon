@@ -15,7 +15,7 @@ tags:
   - Misty Kross
   - Renn Tal
 image:
-  src: /images/uploads/sharn-ep-8-r-u-s-t-mu0rnfgi.webp
+  src: /images/uploads/sharn-ep-8-r-u-s-t-eric-gemma-dario-and-muvssx49.webp
 sidebar:
   order: 208
 type: report
