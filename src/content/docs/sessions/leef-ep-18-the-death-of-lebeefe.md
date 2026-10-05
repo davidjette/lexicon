@@ -31,9 +31,9 @@ sources:
   - sources/site/korth-episode-summaries.txt
   - sources/dave/2026-09-14-inevitables-rulings-batch.md
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
-  - "sources/dave/2026-09-27-jl-notes.md"
-  - "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-jl-notes.md
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 ---
 
@@ -59,6 +59,8 @@ The attempt succeeded and LeBeefe was killed. The trio had welded Newham's scatt
 
 At his death his arcane eye exploded and poisoned the land with illithid magic, and the ground around Newham became the [New Mourning](/places/new-mourning/). <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
+![New Mourning - City of Newham - eastern Khorvaire, west of Leef · Corrupted wasteland.png](/images/uploads/new-mourning-city-of-newham-eastern-khor-muvsh3yq.webp)
+
 ## Revelations
 
 - [Inspector LeGranouille](/people/inspector-legranouille/), who had joined the trio after the mega heist, was LeBeefe in disguise and had followed with the party the whole time; his turn was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small>
@@ -70,3 +72,4 @@ At his death his arcane eye exploded and poisoned the land with illithid magic, 
 ## Cast
 
 [Gemma Corso](/people/gemma-corso/) · [Sir Dario Argentino](/people/sir-dario-argentino/) · [Eric the Cleric](/people/eric-the-cleric/) · [John C. LeBeefe](/people/john-c-lebeefe/), killed · LeBeefe's mind-flayer troops.
+
