@@ -14,7 +14,7 @@ tags:
   - Ghost Chip
   - Black Doves
 image:
-  src: /images/uploads/chatgpt-image-sep-13-2026-03-47-32-pm-mu0engob.webp
+  src: /images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvru0ga.webp
 sidebar:
   order: 202
 type: report
@@ -34,11 +34,9 @@ wa:
 
 **Sharn Ep 2 — POSÉ** is the second session of the Sharn arc of *The Unforeseen Strikes Back*, run by Nichole. At [The Nest](/organizations/the-nest/) the trio unredacted the stolen [BioTec](/organizations/biotec/) files, uncovered the name [Project EDEN](/organizations/project-e-d-e-n/) and were implanted with [Ghost Chips](/items/the-ghost-chip/); they then infiltrated the grand opening of [Richard Blaze](/people/richard-blaze/)'s upper-city restaurant [Posé](/places/pose/) disguised as servers. A [Cogborn protest](/history/the-cogborn-protest/) outside turned to gunfire that killed the news anchor [Candice Kurt](/people/candice-kurt/), and in the panic the trio abducted [Sister Nora](/people/sister-nora/) of [the Black Doves](/organizations/the-black-doves/). That night every screen in Sharn carried [Esther Crona](/people/esther-crona/) executing Cogborn prisoners live.
 
+> Back at their upper-city safehouse, every screen in Sharn suddenly turns red.
 
 ![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
-
-
-> Back at their upper-city safehouse, every screen in Sharn suddenly turns red.
 
 ## Summary
 
