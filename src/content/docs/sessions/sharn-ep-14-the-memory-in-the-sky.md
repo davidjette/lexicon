@@ -15,7 +15,7 @@ tags:
   - Richard Blaze
   - Aboleth
 image:
-  src: /images/uploads/sharn-ep-14-the-memory-in-the-sky-mu0rxf03.webp
+  src: /images/uploads/sharn-ep-14-the-memory-in-the-sky-pregna-muvveikv.webp
 sidebar:
   order: 214
 type: report
@@ -46,7 +46,6 @@ Grady's memory was pulled successfully. Donna and Grady stepped out, and Jessica
 
 The ArcEye feed revealed [Esther](/people/esther-crona/) collapsing into sudden labor on her penthouse balcony while [Uriel](/people/uriel-qualanthri/) stood motionless, watching. Uriel eventually delivered the baby and examined him closely. Then, with a cold, deliberate motion, she raised her hand over the newborn's face. A sickly green glow spread from her fingertips as the baby's breathing faltered and went still. Dark, vein-like lines formed across his cheek — the mark that would later be known as his "birthmark."
 
-![Sharn Ep 14 — The Memory in the Sky - Mindflayer, Gemma, Eric and Dario - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-mindfl-mu3lb6jp.webp)
 
 ![Sharn Ep 14 — The Memory in the Sky - Pregnant Esther Crona and Holy Empress Uriel Qualanthri - Upper City Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-pregna-mutfpvsb.webp)
 
@@ -67,14 +66,18 @@ With the memory set aside for now, they turned their attention to the [Forge of 
 
 They fought through three chambers: a rat-infested entryway, a flooded room filled with infected Cogborn and a young aboleth, and an alien-looking corridor crawling with more infected creatures. During the battle, [Eric](/people/eric-the-cleric/) discovered he was taking only half damage from psychic attacks, experiencing flashes of memory from his time around [John C. LeBeefe](/people/john-c-lebeefe/) and hearing a familiar tune from LeBeefe's Black Palace.
 
-![The stat block for an infected Cogborn](/images/gallery/2026-04-28-01.webp)
-*The stat block for an infected Cogborn.*
 
 ![Dario fights an infected Cogborn in the flooded chamber](/images/gallery/2026-04-27-01.webp)
 *Dario fights an infected Cogborn in the flooded chamber.*
 
 ![Eric wades through the flooded chamber toward an emerging creature](/images/gallery/2026-04-27-02.webp)
 *Eric wades through the flooded chamber toward an emerging creature.*
+
+![Sharn Ep 14 — The Memory in the Sky - Mindflayer, Gemma, Eric and Dario - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-mindfl-mu3lb6jp.webp)
+
+
+![Sharn Ep 14 — The Memory in the Sky - Eric and vision of John C. LeBeefe.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-muvvg5r8.webp)
+
 
 ## Revelations
 
