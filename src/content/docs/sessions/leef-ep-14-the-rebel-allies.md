@@ -1,32 +1,32 @@
 ---
 title: Leef Ep 14 — The Rebel Allies
 description: Dario's Protection from Evil and Good carries a fight in Newham, and the party wins three of four rebel groups as allies, vampires among them.
+tags:
+  - Leef Ep 14
+  - The Rebel Allies
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Newham
+  - Protection from Evil and Good
+  - Vampires
+  - Sir Dario Argentino
+  - Gemma Corso
+  - Eric the Cleric
+  - Greymalkin
 sidebar:
   order: 164
 type: report
 kind: sessions
-tags:
-- Leef Ep 14
-- The Rebel Allies
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Newham
-- Protection from Evil and Good
-- Vampires
-- Sir Dario Argentino
-- Gemma Corso
-- Eric the Cleric
-- Greymalkin
 icon: fa-scroll
 fields: {}
 sources:
-- "Oral Histories: The Inevitables, 2025-11-07"
-- "Oral Histories: The Inevitables, 2025-11-08"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-- "JL's DM notes: The Unforeseen Strike Back DM Notes"
-- "sources/dave/2026-09-27-jl-notes.md"
-- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+  - 'Oral Histories: The Inevitables, 2025-11-07'
+  - 'Oral Histories: The Inevitables, 2025-11-08'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-jl-notes.md
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 ---
 
@@ -41,6 +41,9 @@ In the fight Dario used his Channel Divinity for Divine Sense rather than for at
 The session also advanced the party's work with Newham's rebels. Dave: "and we're 3/4 for making allies from these rebels". Nico: "we have vampi allies!" and "the only group we haven't had any interaction with is the possible defects from the military base". <small>(Oral Histories: The Inevitables, 2025-11-08)</small>
 
 The vampire allies were Morg and Nips of [Club Mawniq](/places/club-mawniq/). <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+![Club Mawniq - Inside - Newham.png](/images/uploads/club-mawniq-inside-newham-muvnhv0s.webp)
+
 
 ## Revelations
 
