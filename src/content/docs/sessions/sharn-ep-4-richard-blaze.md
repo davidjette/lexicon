@@ -72,4 +72,3 @@ Inside the long-boarded-up unit, they encountered two ghosts haunting the forgot
 
 The trio acquired a Lower City hideout of their own and a Tier One booking at Breakers Pit. Richard's confession split the party over whether [Esther Crona](/people/esther-crona/) could be saved, a disagreement not settled until the balcony in Episode 18.
 
-![Sharn Ep 4 — Richard Blaze - Eric, Gemma, Dario finding the ghost of Tony and Tidy Danza - Sharn lower city safe house.png](/images/uploads/sharn-ep-4-richard-blaze-eric-gemma-dari-mu3midys.webp)
