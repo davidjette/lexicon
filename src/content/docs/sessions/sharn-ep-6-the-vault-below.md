@@ -47,6 +47,8 @@ The trio pushed deeper into the lower city, following the trail of the missing A
 
 Below the dance floor, a lone [Children of Ember](/organizations/the-children-of-ember/) cultist confronted them, calling for reinforcements. The fight was fast and brutal; four cultists fell before the trio pushed deeper into the hidden chambers. There they found Grady Marsh, shaken but alive, along with two emaciated prisoners kept as "blood cattle" for [Malrik Zeir](/people/malrik-zeir/)'s feeding. The trio freed them all and uncovered scattered documents, relics, and clues about the Children of Ember, correspondence between Malrik and his half-brother [Hallorn](/people/hallorn-d-lyrandar/) about [Umbra](/items/umbra/) and its connection to [Project EDEN](/organizations/project-e-d-e-n/), mention of [Henry Heinrick](/people/henry-heinrick/) joining "[The Velvet Table Society](/organizations/the-velvet-table-society/)" which meets at the upper-city Vault location, and notes on the strange ritual attempted on Grady Marsh.
 
+![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario fight Children of Ember Cultist.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mkjxj.webp)
+
 ![Lorian chained in a feeding cell beneath The Vault Below](/images/album/sharn-ep-6-the-vault-below-lorian-found-in-a-feeding-cell-the-vault-below-sharn.webp)
 *Lorian chained in a feeding cell beneath The Vault Below.*
 
@@ -63,6 +65,8 @@ Below the dance floor, a lone [Children of Ember](/organizations/the-children-of
 *Hallorn's letter reporting Henry Heinrick's invitation to the Velvet Table Society.*
 
 Their escape led them through a concealed trapdoor into the undercity tunnels, where they chose not to risk the labyrinth. Instead, [Gemma](/people/gemma-corso/) activated her teleportation chip, whisking the entire group safely back to [Zilspar Farm 02](/places/zilspar/). There, Silver Flame [Donna](/people/donna/) tended to the rescued captives while Grady, still foggy from drugs and a failed memory-extraction ritual, shared what fragments he could about the night [Calcifer](/people/calcifer/) was born. He offered the trio several leads on where they might find a functioning [ArcEye Crystallizer](/items/the-arceye-crystallizer/), the only device capable of safely unlocking the full truth buried in his mind.
+
+![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario with captives Lorian and Grady Marsh in Zeir lower city bedroom - Lower city Sharn - Lattern Disctric.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3l4pli.webp)
 
 ## Revelations
 
@@ -82,8 +86,5 @@ The trio left with Grady Marsh and the memory of Calcifer's birth still locked i
 
 > There they found Grady Marsh, shaken but alive, along with two emaciated prisoners kept as "blood cattle" for Malrik Zeir's feeding.
 
-![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario with captives Lorian and Grady Marsh in Zeir lower city bedroom - Lower city Sharn - Lattern Disctric.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3l4pli.webp)
 
-
-![Sharn Ep 6 — The Vault Below - Gemma, Eric and Dario fight Children of Ember Cultist.png](/images/uploads/sharn-ep-6-the-vault-below-gemma-eric-an-mu3mkjxj.webp)
 
