@@ -38,8 +38,12 @@ wa:
 
 Deep beneath Sharn in the ancient Dhakaani tunnels, [Eric](/people/eric-the-cleric/) discovered he could open the strange membrane-like door leading into the next chamber. Stepping through triggered flashes of [LeBeefe](/people/john-c-lebeefe/)'s voice and the faint echo of that familiar song. Inside, the group was ambushed by a Mind Flayer and infected Cogborn. The Mind Flayer struck fast, dropping [Gemma](/people/gemma-corso/) and dragging her into a grapple, preparing to consume her brain. Instead of finishing her, it turned on Eric — dominating his mind and forcing him to obey.
 
-![The Mind Flayer seizes Gemma as Dario and Eric rush to her aid](/images/gallery/2026-05-02-02.webp)
-*The Mind Flayer seizes Gemma as Dario and Eric rush to her aid.*
+![Sharn Ep 14 — The Memory in the Sky - Mindflayer, Gemma, Eric and Dario - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-mindfl-mu3lb6jp.webp)
+
+![Sharn Ep 14 — The Memory in the Sky - Eric and vision of John C. LeBeefe.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-muvvg5r8.webp)
+
+
+![Sharn Ep 14 — The Memory in the Sky - Eric and a vison of LeBeefe's eye of Corruption.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-muvvuls3.webp)
 
 With Gemma unconscious and Eric controlled, the fight nearly collapsed. [Renn](/people/renn-tal/) used the Wand of Magic Missile [Doppler](/people/doppler-klink/) had given her to break the Mind Flayer's concentration, freeing Eric just in time for him and [Dario](/people/sir-dario-argentino/) to stop the creature from killing Gemma. The group defeated the remaining thralls and took a short rest before pressing on.
 
