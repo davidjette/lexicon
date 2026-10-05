@@ -15,7 +15,7 @@ tags:
   - Stockton Thar
   - Vega Oracle
 image:
-  src: /images/uploads/sharn-ep-10-the-queen-of-the-underhive-mu0rs2mq.webp
+  src: /images/uploads/sharn-ep-10-the-queen-of-the-underhive-b-muvuehl5.webp
 sidebar:
   order: 210
 type: report
@@ -74,5 +74,3 @@ Back in the tavern, the trio used the token and received a magical fortune, a po
 ## Consequences
 
 The trio secured a conditional alliance with the Underhive and a minor-wish ring. The crystallizer screens cut to black before the city saw what General Stockton Thar cast over the Ziggurat.
-
-![Sharn Ep 10 — The Queen of the Underhive - Sewer Fight with Snodgrass, Dario, Eric, Renn, Doppler and Gemma.png](/images/uploads/sharn-ep-10-the-queen-of-the-underhive-s-mu3l6sm3.webp)
