@@ -73,10 +73,14 @@ They fought through three chambers: a rat-infested entryway, a flooded room fill
 ![Eric wades through the flooded chamber toward an emerging creature](/images/gallery/2026-04-27-02.webp)
 *Eric wades through the flooded chamber toward an emerging creature.*
 
+![Sharn Ep 14 — The Memory in the Sky - Dario and Gemma - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-dario-muvvtmbt.webp)
+
 ![Sharn Ep 14 — The Memory in the Sky - Mindflayer, Gemma, Eric and Dario - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-mindfl-mu3lb6jp.webp)
 
-
 ![Sharn Ep 14 — The Memory in the Sky - Eric and vision of John C. LeBeefe.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-muvvg5r8.webp)
+
+
+![Sharn Ep 14 — The Memory in the Sky - Eric and a vison of LeBeefe's eye of Corruption.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-muvvuls3.webp)
 
 
 ## Revelations
