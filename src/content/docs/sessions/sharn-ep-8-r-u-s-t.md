@@ -70,5 +70,3 @@ He told the trio the truth of the crisis: the Cogborn are trapped, the Iron Veil
 The trio acquired the arc's second faction alliance and its first humanitarian obligation. The evacuation of the Cogborn — through the Drain Snakes, the Spine and the sealed Chamber Room — would occupy the next four episodes and buy them the Underhive as a permanent ally.
 
 > Blair the "Queen" of the Underhive has offered a deal; clear the Drain Snakes from the undercity tunnels, and she will open the Underhive routes needed to evacuate the Cogborn to Gorgonhorn.
-
-![Sharn Ep 8 — R.U.S.T. - Dario fighting at Breaker's Pit - Lower city Sharn.png](/images/uploads/sharn-ep-8-r-u-s-t-dario-fighting-at-bre-mu3l5ihy.webp)
