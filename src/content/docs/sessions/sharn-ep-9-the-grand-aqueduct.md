@@ -14,7 +14,7 @@ tags:
   - Renn Tal
   - Queen B
 image:
-  src: /images/uploads/sharn-ep-9-the-grand-aqueduct-mu0rqt3q.webp
+  src: /images/uploads/sharn-ep-9-the-grand-aqueduct-dario-gemm-muvsy2u2.webp
 sidebar:
   order: 209
 type: report
