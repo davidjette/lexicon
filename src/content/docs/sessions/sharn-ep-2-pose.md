@@ -34,6 +34,10 @@ wa:
 
 **Sharn Ep 2 — POSÉ** is the second session of the Sharn arc of *The Unforeseen Strikes Back*, run by Nichole. At [The Nest](/organizations/the-nest/) the trio unredacted the stolen [BioTec](/organizations/biotec/) files, uncovered the name [Project EDEN](/organizations/project-e-d-e-n/) and were implanted with [Ghost Chips](/items/the-ghost-chip/); they then infiltrated the grand opening of [Richard Blaze](/people/richard-blaze/)'s upper-city restaurant [Posé](/places/pose/) disguised as servers. A [Cogborn protest](/history/the-cogborn-protest/) outside turned to gunfire that killed the news anchor [Candice Kurt](/people/candice-kurt/), and in the panic the trio abducted [Sister Nora](/people/sister-nora/) of [the Black Doves](/organizations/the-black-doves/). That night every screen in Sharn carried [Esther Crona](/people/esther-crona/) executing Cogborn prisoners live.
 
+
+![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
+
+
 > Back at their upper-city safehouse, every screen in Sharn suddenly turns red.
 
 ## Summary
@@ -41,9 +45,6 @@ wa:
 After recovering at [The Nest](/organizations/the-nest/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) are brought deeper into the rebels' hidden stronghold to review the stolen [BioTec](/organizations/biotec/) files. With [Zero of Sharn](/people/zero-of-sharn/)'s help, they successfully redact portions of the data and uncover the name of a classified military initiative: [Project EDEN](/organizations/project-e-d-e-n/). Before they depart, [Izaak](/people/izaak/) implants each of them with [Ghost Chips](/items/the-ghost-chip/).
 
 With new identities established, [Jessica Grimpledink](/people/jessica-grimpledink/) assigns the Trio their next mission: infiltrate the grand opening of [Richard Blaze](/people/richard-blaze/)'s newest upper-city restaurant, [Posé](/places/pose/), disguised as servers from the Vilspar Co-operative.
-
-![Eric's badge photo for his Vilspar Co-operative server disguise](/images/gallery/2025-12-11-01.webp)
-*Eric's badge photo for his Vilspar Co-operative server disguise.*
 
 Inside the event, the Trio mingle among Sharn's elite. Through careful eavesdropping, they piece together troubling fragments: a breach at BioTec, the disappearance of [Martin Kross](/people/martin-kross/), whispered mentions of Project EDEN, and escalating political tension within the Empire.
 
