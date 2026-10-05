@@ -46,8 +46,7 @@ Following [Snodgrass](/people/snodgrass/) into a massive drain pipe beneath the 
 
 At the door they were met by [Booti'slave](/people/booti-slave/), an [Underhive](/organizations/the-underhive/) Drone who escorted them through the sprawling subterranean settlement and into its bustling tavern. As honored guests of the Queen, they were offered food, drink, and a place to rest. The trio explored the tavern's strange curiosities, including a magical Vega Oracle machine before Booti'slave returned to summon them to Blair's private chambers.
 
-![The Vega Oracle machine in the Underhive tavern](/images/gallery/2026-02-27-02.webp)
-*The Vega Oracle machine in the Underhive tavern.*
+![Sharn Ep 10 — The Queen of the Underhive - Blair and Husbands - Underhive.png](/images/uploads/sharn-ep-10-the-queen-of-the-underhive-b-muvun2ud.webp)
 
 Inside, they found [Blair](/people/blair/), Queen of the Underhive, surrounded by her many husbands and the imprisoned [Martin Kross](/people/martin-kross/). Blair greeted the trio warmly, showing particular interest in [Dario](/people/sir-dario-argentino/) and curiosity toward [Eric](/people/eric-the-cleric/) once she realized they had known her father, [John C. LeBeefe](/people/john-c-lebeefe/), and met her husband [Joseph Roberts](/people/pirate-joseph-roberts/) in [Newham](/places/newham/). She spoke candidly about her family and her father's ambitions. Blair agreed to allow the Cogborn safe passage through her Underhive if the trio cleared the [Drain Snakes](/organizations/the-drain-snakes/) from the undercity and secured a route toward the mountain pass / [RUST](/organizations/r-u-s-t/). She hinted she might also release Martin Kross to them, if they completed the task.
 
