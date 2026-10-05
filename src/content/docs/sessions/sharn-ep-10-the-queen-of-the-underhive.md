@@ -38,12 +38,6 @@ Sharn Ep 10 — The Queen of the Underhive is the tenth session of the Sharn arc
 
 Following [Snodgrass](/people/snodgrass/) into a massive drain pipe beneath the aqueduct, the trio descended deeper under Sharn toward the hidden territory of Queen B. The tunnel opened into a flooded sewer chamber where they were attacked by giant crocodiles and swarms of rats. After defeating the creatures and discovering two dead [BioTec](/organizations/biotec/) Security agents in the water, they approached a reinforced door, the threshold of Queen B's domain.
 
-![Snodgrass, Doppler Klink, Dario, Gemma and Eric fight giant crocodiles in the flooded sewer](/images/gallery/2026-03-16-01.webp)
-*Snodgrass, Doppler Klink, Dario, Gemma and Eric fight giant crocodiles in the flooded sewer.*
-
-![The party, with Renn Tal, fights crocodiles in the flooded sewer beneath Sharn](/images/gallery/2026-03-16-05.webp)
-*The party, with Renn Tal, fights crocodiles in the flooded sewer beneath Sharn.*
-
 ![Crocodiles and a rat swarm close in as the party protects Renn Tal](/images/gallery/2026-03-16-08.webp)
 *Crocodiles and a rat swarm close in as the party protects Renn Tal.*
 
