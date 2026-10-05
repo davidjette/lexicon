@@ -38,6 +38,8 @@ wa:
 
 Deep beneath Sharn in the ancient Dhakaani tunnels, [Eric](/people/eric-the-cleric/) discovered he could open the strange membrane-like door leading into the next chamber. Stepping through triggered flashes of [LeBeefe](/people/john-c-lebeefe/)'s voice and the faint echo of that familiar song. Inside, the group was ambushed by a Mind Flayer and infected Cogborn. The Mind Flayer struck fast, dropping [Gemma](/people/gemma-corso/) and dragging her into a grapple, preparing to consume her brain. Instead of finishing her, it turned on Eric — dominating his mind and forcing him to obey.
 
+With Gemma unconscious and Eric controlled, the fight nearly collapsed. [Renn](/people/renn-tal/) used the Wand of Magic Missile [Doppler](/people/doppler-klink/) had given her to break the Mind Flayer's concentration, freeing Eric just in time for him and [Dario](/people/sir-dario-argentino/) to stop the creature from killing Gemma. The group defeated the remaining thralls and took a short rest before pressing on.
+
 ![Sharn Ep 14 — The Memory in the Sky - Mindflayer, Gemma, Eric and Dario - Deep below Sharn.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-mindfl-mu3lb6jp.webp)
 
 ![Sharn Ep 14 — The Memory in the Sky - Eric and vision of John C. LeBeefe.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-muvvg5r8.webp)
@@ -45,7 +47,6 @@ Deep beneath Sharn in the ancient Dhakaani tunnels, [Eric](/people/eric-the-cler
 
 ![Sharn Ep 14 — The Memory in the Sky - Eric and a vison of LeBeefe's eye of Corruption.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-muvvuls3.webp)
 
-With Gemma unconscious and Eric controlled, the fight nearly collapsed. [Renn](/people/renn-tal/) used the Wand of Magic Missile [Doppler](/people/doppler-klink/) had given her to break the Mind Flayer's concentration, freeing Eric just in time for him and [Dario](/people/sir-dario-argentino/) to stop the creature from killing Gemma. The group defeated the remaining thralls and took a short rest before pressing on.
 
 In the next chamber, they found a massive puzzle door. Renn deciphered the inscription and helped them open it, revealing the long-lost [Forge of Binding](/places/the-forge-of-binding/). Inside, she explained how [Varyn Crona](/people/varyn-crona/) and [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) once used the Forge as part of the Eternal Guardian ritual, drawing on forbidden Vol rites. Eric performed the Rite of Recall, with Dario binding elemental cold into his weapon.
 
