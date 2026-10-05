@@ -49,9 +49,9 @@ Soon after their arrival an Iron Veil patrol of four soldiers and a Veil Hound d
 
 Exhausted but victorious, the Trio return to the underground cell. Sister Nora is awake now, still bound but no longer gagged. They question her further, gathering what information they can before finally taking a long rest in the Zilspar guest house.
 
-![Sharn Ep 3 — Zilspar Farms - Eric, Sister Nora, Gemma and Dario in Zilspar Cell.png](/images/uploads/sharn-ep-3-zilspar-farms-eric-sister-nor-mu3mhiqc.webp)
-
 > The farmers quickly band together to erase all evidence, burning the bodies and dismantling the soldiers' skiff.
+
+![Sharn Ep 3 — Zilspar Farms - Eric, Sister Nora, Gemma and Dario in Zilspar Cell.png](/images/uploads/sharn-ep-3-zilspar-farms-eric-sister-nor-mu3mhiqc.webp)
 
 ## Nico's plan for the session
 
