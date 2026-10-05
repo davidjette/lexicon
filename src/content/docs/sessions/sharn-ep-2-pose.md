@@ -44,8 +44,6 @@ With new identities established, [Jessica Grimpledink](/people/jessica-grimpledi
 
 Inside the event, the Trio mingle among Sharn's elite. Through careful eavesdropping, they piece together troubling fragments: a breach at BioTec, the disappearance of [Martin Kross](/people/martin-kross/), whispered mentions of Project EDEN, and escalating political tension within the Empire.
 
-![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
-
 Outside, a [Cogborn protest](/history/the-cogborn-protest/) erupts into chaos. As the crowd surges up the grand staircase, shots ring out from within the protesters, striking the balcony and killing celebrity news anchor [Candice Kurt](/people/candice-kurt/). Panic consumes the event. Amid the confusion, the Trio regroup, turn invisible, and abduct [Sister Nora](/people/sister-nora/) of [the Black Doves](/organizations/the-black-doves/), escaping through a hidden elevator route revealed by Izaak.
 
 ![Cogborn protesters with placards gather in the upper city](/images/album/sharn-ep-2-pos-cogborn-protest-upper-city-sharn.webp)
@@ -62,6 +60,8 @@ The planned reveals from the files were that Project EDEN involves hybrid undead
 Nico's checklist for the Nest scene: show the trio their safe house and have them name it; explain that coming and going from the Nest is risky and that the garden cat will let them know when it is safe to enter; mention that "Her ship is here", meaning Esther is in the city; install the Ghost Chips; fix Gemma's teleportation chip; keep Gemma's Vilspar agricultural cover as the group's cover in Sharn; and make Zero their main contact in the Nest, with Izaak, who is from Vilspar and had been working with Gemma for months, the only rebel they would ever meet in public. <small>(Nico's DM notes, Episode 2)</small>
 
 **The assignment.** Zero set three rose-gold server badges and folded uniforms on the central table. Jessica: "Richard Blaze is opening a new restaurant — Posé. Infernal slang. Means 'to ignite.' Fitting." The cover was Farm-to-Table Fresh servers from the Vilspar Co-operative, and the badges read "Hermione Granger" for Gemma, "Harry Potter" for Eric and "Ronaldo Weasley" for Dario. The guest list was the subject of the correspondence Gemma had found on [Cob Cornwell](/people/cob-cornwell/). Jessica's instruction: "Observe. Listen. Report. Do not engage." <small>(Nico's DM notes, Episode 2)</small>
+
+![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
 
 **The night.** At the base of the grand staircase up to the Veil level a small group of protesters gathered, with Iron Veil soldiers behind blockades at the bottom and top. The head server, Marla, showed the trio the restaurant and the menu, and Richard Blaze, friendly and kind but busy, met them while [Calcifer](/people/calcifer/) ran around helping his father. The guests then arrived and the trio worked to overhear them. At the height of the night the protest pushed through the barriers and up the stairs into the Iron Veil guards. [Malrik Zeir](/people/malrik-zeir/) said to [Faith](/people/faith/), "The Children of Ember are here", and one protester screamed "For the Cogs" and shot toward the balcony, killing Candice Kurt. <small>(Nico's DM notes, Episode 2)</small>
 
