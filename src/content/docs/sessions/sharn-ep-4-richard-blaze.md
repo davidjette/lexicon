@@ -42,11 +42,6 @@ Sharn Ep 4 — Richard Blaze is the fourth session of the Sharn arc of Unforesee
 
 The morning after the [Iron Veil](/organizations/the-iron-veil/) patrol was quietly eliminated at [Zilspar Farm 02](/places/zilspar/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) were summoned to a secluded safe-house room. Inside waited [Zero-One](/people/zero-one-fema-nolan/), alone, her [Silver Flame](/organizations/the-silver-flame/) paladins keeping guard outside. Moments later, [Jessica Grimpledink](/people/jessica-grimpledink/), [Digma Beeve](/people/digma-beeve/), and [Richard Blaze](/people/richard-blaze/) arrived through the hidden teleportation circle.
 
-![Gemma, Eric and Dario face an armoured patrol and its hound at night](/images/site/sharn-ep-4-richard-blaze-2.webp)
-*Gemma, Eric and Dario face an armoured patrol and its hound at night.*
-
-![Richard Blaze, Jessica Grimpledink and Digma Beeve at the glowing teleportation circle](/images/site/sharn-ep-5-welcome-to-the-neighborhood-2.webp)
-*Richard Blaze, Jessica Grimpledink and Digma Beeve at the glowing teleportation circle.*
 
 There, Richard finally delivered his long-buried confession, the truth about [Esther](/people/esther-crona/), the Sword, and the forces shaping the Empire. Jessica, Zero-One, and Digma supported and clarified the revelations, but the emotional fallout was immediate. Eric and Dario remained deeply wary, unconvinced that "saving" Esther was possible or wise. Richard didn't argue; he simply warned them that facing Esther while her Sword remained bound would be suicide. Jessica then presented a full mission board, laying out the interconnected operations now available to them.
 
