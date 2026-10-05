@@ -14,7 +14,7 @@ tags:
   - Renn Tal
   - Queen B
 image:
-  src: /images/uploads/sharn-ep-9-the-grand-aqueduct-dario-gemm-muvsy2u2.webp
+  src: /images/uploads/sharn-ep-9-the-grand-aqueduct-dario-gemm-muvt9py2.webp
 sidebar:
   order: 209
 type: report
@@ -47,6 +47,8 @@ The episode ended at the entrance of a massive drain tunnel leading further into
 
 > Among the bodies, they discovered a clue: one of the Drain Snakes was wearing a BioTec Security jacket, and a dead BioTec Security agent lay nearby with his badge still intact.
 
+![Sharn Ep 9 — The Grand Aqueduct - Dario, Gemma, Eric, Snodgrass, Doppler, and Drain Snakes - Sharn Lower city Aqueduct 3.png](/images/uploads/sharn-ep-9-the-grand-aqueduct-dario-gemm-muvt9yla.webp)
+
 ## Revelations
 
 - One of the Drain Snakes is wearing a [BioTec](/organizations/biotec/) Security jacket, and BioTec agents are dying in the same tunnels.
@@ -60,3 +62,4 @@ The episode ended at the entrance of a massive drain tunnel leading further into
 ## Consequences
 
 The BioTec jacket became the first physical thread between the corporate conspiracy above and the gang war below — a thread that put a name, Edwin, on the conspiracy two episodes later. The trio ended the session on the threshold of Blair's territory with the Cogborn evacuation still unpurchased.
+
