@@ -47,8 +47,6 @@ In the cellar, [Sister Nora](/people/sister-nora/) spilled the truth about [Proj
 When asked directly about who supplied the bodies, Nora began seizing with pain, clutching the side of her head near her ear as blood ran from her nose. The trio realized she had a [BioTec](/organizations/biotec/)-implanted mental block, preventing her from speaking openly about the supplier's identity. [Dario](/people/sir-dario-argentino/) removed the chip, leaving Nora to rest and recover.
 
 ![Sharn Ep 7 — Shadow of the Past - Sister Nora speaking about the Eternal Night - Zilspar Farms Cell.png](/images/uploads/sharn-ep-7-shadow-of-the-past-sister-nor-muvt2lmc.webp)
-![Sharn Ep 7 — Shadow of the Past - Sister Nora speaking about the Eternal Night - Zilspar Farms Cell.png](/images/uploads/sharn-ep-7-shadow-of-the-past-sister-nor-muvt3zwo.webp)
-
 
 [Zero-One](/people/zero-one-fema-nolan/) and [Jessica Grimpledink](/people/jessica-grimpledink/) met with the trio, warning that Faith and Malrik would now be hunting whoever infiltrated their sanctum. Jessica gave them a Sending Charm and a key to her family's lockbox in the [Sharn Library](/places/the-sharn-library/).
 
