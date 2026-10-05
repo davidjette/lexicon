@@ -41,8 +41,7 @@ After waking in the [Underhive](/organizations/the-underhive/) tavern, the trio 
 *Dario, Eric and Gemma question Martin Kross through the bars of his cell.*
 
 ![Sharn Ep 11 — Drain Snakes - Renn Tal Learning From Doppler.png](/images/uploads/sharn-ep-11-drain-snakes-renn-tal-learni-muvuy98b.webp)
-
-![Sharn Ep 11 — Drain Snakes - Renn Tal Learning From Doppler.png](/images/uploads/sharn-ep-11-drain-snakes-renn-tal-learni-muvv1hcm.webp)
+*Doppler teached Renn how to use a wand*
 
 With the interrogation complete, Booti'slave showed the trio a faster exit and gave them the password "honeycomb." [Doppler](/people/doppler-klink/) and [Renn](/people/renn-tal/) stayed behind in the tavern while [Snodgrass](/people/snodgrass/) took the rest of the crew through the northern sewer tunnels to the [Drain Snakes](/organizations/the-drain-snakes/)' lair. A brutal fight followed, ending with the Drain Snake gang defeated, a kidnapped tourist rescued, and piles of stolen goods recovered, including a note suggesting [Malrik](/people/malrik-zeir/) had been paying the Drain Snakes for captives.
 
