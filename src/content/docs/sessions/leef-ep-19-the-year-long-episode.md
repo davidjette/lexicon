@@ -1,42 +1,44 @@
 ---
 title: Leef Ep 19 — The Year-Long Episode
 description: The last Leef session covers a year of downtime, with Dario sent to the Dwarflands and Gemma to Breland, ending with the trio rooted in Talenta.
+tags:
+  - Leef Ep 19
+  - The Year-Long Episode
+  - The year long episode
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Leef
+  - Republic of Talenta
+  - Talenta
+  - Dwarflands
+  - Breland
+  - Princess Orange Chicken
+  - Field Marshall of Talenta
+  - Sir Dario Argentino
+  - Gemma Corso
+  - Eric the Cleric
+image:
+  src: /images/uploads/leef-ep-19-the-year-long-episode-gemma-p-muvnyl88.webp
 sidebar:
   order: 169
 type: report
 kind: sessions
-tags:
-- Leef Ep 19
-- The Year-Long Episode
-- The year long episode
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Leef
-- Republic of Talenta
-- Talenta
-- Dwarflands
-- Breland
-- Princess Orange Chicken
-- Field Marshall of Talenta
-- Sir Dario Argentino
-- Gemma Corso
-- Eric the Cleric
 icon: fa-scroll
 fields: {}
 sources:
-- "Oral Histories: The Inevitables, 2025-12-07"
-- "Oral Histories: The Inevitables, 2025-12-08"
-- "Oral Histories: The Inevitables, 2025-12-11"
-- "Oral Histories: The Inevitables, 2025-12-14"
-- "Oral Histories: The Inevitables, 2025-12-18"
-- "Oral Histories: The Inevitables, 2026-02-21"
-- "Oral Histories: The Inevitables, 2026-05-09"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-- "JL's DM notes: The Unforeseen Strike Back DM Notes"
-- "JL's DM notes: The Unforeseen Strike Back: Eric's secret Khraal mission (dossier)"
-- "sources/dave/2026-09-27-jl-notes.md"
-- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+  - 'Oral Histories: The Inevitables, 2025-12-07'
+  - 'Oral Histories: The Inevitables, 2025-12-08'
+  - 'Oral Histories: The Inevitables, 2025-12-11'
+  - 'Oral Histories: The Inevitables, 2025-12-14'
+  - 'Oral Histories: The Inevitables, 2025-12-18'
+  - 'Oral Histories: The Inevitables, 2026-02-21'
+  - 'Oral Histories: The Inevitables, 2026-05-09'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - 'JL''s DM notes: The Unforeseen Strike Back: Eric''s secret Khraal mission (dossier)'
+  - sources/dave/2026-09-27-jl-notes.md
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 ---
 
