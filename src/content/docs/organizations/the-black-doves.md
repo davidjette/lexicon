@@ -1,20 +1,22 @@
 ---
 title: The Black Doves
 description: The Aereni healer-knights who tend the dying on every battlefield in Khorvaire, and who hang a silent bell in every house they take.
+tags:
+  - The Black Doves
+  - Black Doves
+  - Doves
+  - Sable Dove
+  - Clerics
+  - Healers
+  - Gabriel Duin
+  - Gabrielle Duin
+  - Uriel Qualanthri
+  - Adulfphus Mudge
+  - endemic diseases
+image:
+  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-muvmm175.webp
 type: organization
 kind: organizations
-tags:
-- The Black Doves
-- Black Doves
-- Doves
-- Sable Dove
-- Clerics
-- Healers
-- Gabriel Duin
-- Gabrielle Duin
-- Uriel Qualanthri
-- Adulfphus Mudge
-- endemic diseases
 icon: fa-dove
 fields:
   type: Military, Medical, Religious order
@@ -25,23 +27,23 @@ fields:
   allies: The Empire, the House of Caius, BioTec, the Korranberg Foundry Trust
   enemies: The Silver Flame, the Inevitables, Fulcrum, the Nest, the Sovereign Host
 sources:
-- sources/wa/the-black-doves-organization.txt
-- sources/wa/uriel-qualanthri-person.txt
-- sources/site/key-figures.txt
-- sources/site/mission-board.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/korth-episode-summaries.txt
-- handouts/foxtale-debrief.md
-- handouts/hells-bells-dossier.md
-- handouts/caius-foundry-manifest.md
-- handouts/fulcrum-bell-file.md
-- "Oral Histories: The Inevitables, 2025-08-30"
-- "Oral Histories: The Inevitables, 2025-10-19"
-- "Oral Histories: The Inevitables, 2025-12-14"
-- C:/dev/sharn-campaign/session-2026-09-25-summary.md
-- Dave, note of 2026-09-26
-- "JL's DM notes: The Unforeseen Strike Back DM Notes"
-- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+  - sources/wa/the-black-doves-organization.txt
+  - sources/wa/uriel-qualanthri-person.txt
+  - sources/site/key-figures.txt
+  - sources/site/mission-board.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/korth-episode-summaries.txt
+  - handouts/foxtale-debrief.md
+  - handouts/hells-bells-dossier.md
+  - handouts/caius-foundry-manifest.md
+  - handouts/fulcrum-bell-file.md
+  - 'Oral Histories: The Inevitables, 2025-08-30'
+  - 'Oral Histories: The Inevitables, 2025-10-19'
+  - 'Oral Histories: The Inevitables, 2025-12-14'
+  - C:/dev/sharn-campaign/session-2026-09-25-summary.md
+  - Dave, note of 2026-09-26
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-10'
 wa:
   slug: the-black-doves-organization
@@ -49,32 +51,32 @@ wa:
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
 gallery:
   - src: /images/album/korth-ep-16-orientation-day-battle-sister.webp
-    alt: 'A battle sister of the Black Doves - Korth Ep 16, Orientation Day'
-    caption: 'A battle sister of the Black Doves - Korth Ep 16, Orientation Day'
+    alt: A battle sister of the Black Doves - Korth Ep 16, Orientation Day
+    caption: A battle sister of the Black Doves - Korth Ep 16, Orientation Day
   - src: /images/album/korth-ep-16-orientation-day-lus-fayina.webp
-    alt: 'Director Lus Fayina - Korth Ep 16, Orientation Day'
-    caption: 'Director Lus Fayina - Korth Ep 16, Orientation Day'
+    alt: Director Lus Fayina - Korth Ep 16, Orientation Day
+    caption: Director Lus Fayina - Korth Ep 16, Orientation Day
   - src: /images/album/korth-ep-16-orientation-day-sister-of-the-blood.webp
-    alt: 'A Sister of the Blood in red - Korth Ep 16, Orientation Day'
-    caption: 'A Sister of the Blood in red - Korth Ep 16, Orientation Day'
+    alt: A Sister of the Blood in red - Korth Ep 16, Orientation Day
+    caption: A Sister of the Blood in red - Korth Ep 16, Orientation Day
   - src: /images/album/korth-ep-16-orientation-day-the-guide.webp
-    alt: 'The severe old guide in red who led the novices'' tour - Korth Ep 16, Orientation Day'
-    caption: 'The severe old guide in red who led the novices'' tour - Korth Ep 16, Orientation Day'
+    alt: The severe old guide in red who led the novices' tour - Korth Ep 16, Orientation Day
+    caption: The severe old guide in red who led the novices' tour - Korth Ep 16, Orientation Day
   - src: /images/album/black-dove-nun.webp
-    alt: 'Black Dove Nun'
-    caption: 'Black Dove Nun'
+    alt: Black Dove Nun
+    caption: Black Dove Nun
   - src: /images/album/black-dove-assimar.webp
-    alt: 'Black Dove Aasimar'
-    caption: 'Black Dove Aasimar'
+    alt: Black Dove Aasimar
+    caption: Black Dove Aasimar
   - src: /images/album/black-dove-nun-2.webp
-    alt: 'Black Dove Nun 2'
-    caption: 'Black Dove Nun 2'
+    alt: Black Dove Nun 2
+    caption: Black Dove Nun 2
   - src: /images/album/black-dove-caster-keeper-of-the-object.webp
-    alt: 'Black Dove Caster - Keeper of the Object'
-    caption: 'Black Dove Caster - Keeper of the Object'
+    alt: Black Dove Caster - Keeper of the Object
+    caption: Black Dove Caster - Keeper of the Object
   - src: /images/album/black-dove-white.webp
-    alt: 'Black Dove - White'
-    caption: 'Black Dove - White'
+    alt: Black Dove - White
+    caption: Black Dove - White
 ---
 
 **Humanitarian medical order · Aerenal / Korvarian · Active, and the largest single instrument of Imperial policy on the continent**
