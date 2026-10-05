@@ -14,7 +14,7 @@ tags:
   - Booti'slave
   - Snodgrass
 image:
-  src: /images/uploads/sharn-ep-11-drain-snakes-mu0rtum3.webp
+  src: /images/uploads/sharn-ep-11-drain-snakes-snodgrass-eric-muvuwgre.webp
 sidebar:
   order: 211
 type: report
@@ -40,16 +40,17 @@ After waking in the [Underhive](/organizations/the-underhive/) tavern, the trio 
 ![Dario, Eric and Gemma question Martin Kross through the bars of his cell](/images/gallery/2026-03-16-10.webp)
 *Dario, Eric and Gemma question Martin Kross through the bars of his cell.*
 
+![Sharn Ep 11 — Drain Snakes - Renn Tal Learning From Doppler.png](/images/uploads/sharn-ep-11-drain-snakes-renn-tal-learni-muvuy98b.webp)
+
+![Sharn Ep 11 — Drain Snakes - Renn Tal Learning From Doppler.png](/images/uploads/sharn-ep-11-drain-snakes-renn-tal-learni-muvv1hcm.webp)
+
 With the interrogation complete, Booti'slave showed the trio a faster exit and gave them the password "honeycomb." [Doppler](/people/doppler-klink/) and [Renn](/people/renn-tal/) stayed behind in the tavern while [Snodgrass](/people/snodgrass/) took the rest of the crew through the northern sewer tunnels to the [Drain Snakes](/organizations/the-drain-snakes/)' lair. A brutal fight followed, ending with the Drain Snake gang defeated, a kidnapped tourist rescued, and piles of stolen goods recovered, including a note suggesting [Malrik](/people/malrik-zeir/) had been paying the Drain Snakes for captives.
 
 ![Snodgrass and Gemma fight Drain Snakes in a torchlit sewer tunnel](/images/gallery/2026-03-23-02.webp)
 *Snodgrass and Gemma fight Drain Snakes in a torchlit sewer tunnel.*
 
-![The Drain Snakes' boss on the throne platform, with a giant worm and a chained captive](/images/gallery/2026-03-23-03.webp)
-*The Drain Snakes' boss on the throne platform, with a giant worm and a chained captive.*
+![Sharn Ep 11 — Drain Snakes - Dario and Eric fighting Darin Snakes.png](/images/uploads/sharn-ep-11-drain-snakes-dario-and-eric-muvuxf22.webp)
 
-![Two Drain Snakes guard the throne platform](/images/gallery/2026-03-23-04.webp)
-*Two Drain Snakes guard the throne platform.*
 
 ![The note signed MZ, recovered from the Drain Snakes](/images/gallery/2026-03-17-02.webp)
 *The note signed MZ, recovered from the Drain Snakes.*
@@ -73,4 +74,3 @@ Gathering the loot to later distribute to the Cogborn, the group returned to the
 
 The Drain Snakes were finished, which discharged the trio's debt to Blair and opened the Underhive to the Cogborn. "Edwin" became the name the party carried for two more episodes before they walked into Circuit City and found him.
 
-![Sharn Ep 11 — Drain Snakes - Snodgrass, Eric, Gemma and Dario in battle with Drain Snakes.png](/images/uploads/sharn-ep-11-drain-snakes-snodgrass-eric-mu3l7zbx.webp)
