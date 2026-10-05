@@ -2,17 +2,17 @@
 title: Sharn Ep 13 — Doctor Edwin Graves
 description: A divination points at Circuit City, where Edwin Graves is unmasked as the Cog Collector and BioTec's secret owner.
 tags:
-- Sharn Ep 13
-- Doctor Edwin Graves
-- Edwin Graves
-- Cog Collector
-- Circuit City
-- BioTec
-- ArcEye Crystallizer
-- Cogborn
-- Gear Street Market
-- Hopper's
-- Project EDEN
+  - Sharn Ep 13
+  - Doctor Edwin Graves
+  - Edwin Graves
+  - Cog Collector
+  - Circuit City
+  - BioTec
+  - ArcEye Crystallizer
+  - Cogborn
+  - Gear Street Market
+  - Hopper's
+  - Project EDEN
 image:
   src: /images/uploads/sharn-ep-13-doctor-edwin-graves-mu0rwhrp.webp
 sidebar:
@@ -22,33 +22,33 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
-- sources/site/sharn-episode-summaries.txt
+  - sources/site/sharn-episode-summaries.txt
 published: '2026-09-10'
 wa:
   slug: sharn-ep-13-E28094-doctor-edwin-graves-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
 gallery:
-- src: /images/gallery/2026-04-04-01.webp
-  alt: Dr. Edwin Graves among his captives
-  caption: Dr. Edwin Graves, masked and in a long black coat, stands before cages of emaciated prisoners reaching through the bars in a red-lit backroom.
-- src: /images/gallery/2026-04-04-02.webp
-  alt: The abomination in Circuit City's backroom
-  caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino fight a hulking flesh abomination among the tanks and machinery of Edwin Graves's hidden laboratory behind Circuit City.
-- src: /images/gallery/2026-04-04-04.webp
-  alt: Edwin Graves over a fallen Dario
-  caption: The masked Dr. Edwin Graves in his black coat bends over Sir Dario Argentino, who has fallen to his knees in the laboratory.
-- src: /images/gallery/2026-04-04-06.webp
-  alt: Snodgrass and Renn Tal face Edwin Graves
-  caption: Snodgrass raises his weapon with Renn Tal behind him as Dr. Edwin Graves, holding a syringe, confronts them in the laboratory.
-- src: /images/gallery/2026-04-04-09.webp
-  alt: Edwin Graves behind Eric
-  caption: Eric the Cleric stands in a cluttered workshop, unaware of the masked Dr. Edwin Graves raising a blade behind him.
-- src: /images/album/sharn-ep-13-doctor-edwin-graves-edwin-graves-dario-gemma-eric-and-edwins-creatio.webp
-  alt: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
-  caption: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
-- src: /images/album/sharn-ep-13-doctor-edwin-graves-edwin-graves-dario-gemma-eric-and-edwins-c-alt.webp
-  alt: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creation - Sharn Episode: Doctor Edwin Graves (alternate render)'
-  caption: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creation - Sharn Episode: Doctor Edwin Graves (alternate render)'
+  - src: /images/gallery/2026-04-04-01.webp
+    alt: Dr. Edwin Graves among his captives
+    caption: Dr. Edwin Graves, masked and in a long black coat, stands before cages of emaciated prisoners reaching through the bars in a red-lit backroom.
+  - src: /images/gallery/2026-04-04-02.webp
+    alt: The abomination in Circuit City's backroom
+    caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino fight a hulking flesh abomination among the tanks and machinery of Edwin Graves's hidden laboratory behind Circuit City.
+  - src: /images/gallery/2026-04-04-04.webp
+    alt: Edwin Graves over a fallen Dario
+    caption: The masked Dr. Edwin Graves in his black coat bends over Sir Dario Argentino, who has fallen to his knees in the laboratory.
+  - src: /images/gallery/2026-04-04-06.webp
+    alt: Snodgrass and Renn Tal face Edwin Graves
+    caption: Snodgrass raises his weapon with Renn Tal behind him as Dr. Edwin Graves, holding a syringe, confronts them in the laboratory.
+  - src: /images/gallery/2026-04-04-09.webp
+    alt: Edwin Graves behind Eric
+    caption: Eric the Cleric stands in a cluttered workshop, unaware of the masked Dr. Edwin Graves raising a blade behind him.
+  - src: /images/album/sharn-ep-13-doctor-edwin-graves-edwin-graves-dario-gemma-eric-and-edwins-creatio.webp
+    alt: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
+    caption: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creations - Sharn Episode: Doctor Edwin Graves'
+  - src: /images/album/sharn-ep-13-doctor-edwin-graves-edwin-graves-dario-gemma-eric-and-edwins-c-alt.webp
+    alt: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creation - Sharn Episode: Doctor Edwin Graves (alternate render)'
+    caption: 'Edwin Graves, Dario, Gemma, Eric and Edwin''s creation - Sharn Episode: Doctor Edwin Graves (alternate render)'
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 13 · DM: Nichole**
@@ -63,11 +63,29 @@ Following a Divination ritual performed by Eric, the group was guided toward [Ci
 
 A deadly battle followed against [Edwin Graves](/people/dr-edwin-graves/) and his creations. The crew defeated him and uncovered the truth: Edwin Graves was the Cog Collector, and secretly the private owner of [BioTec](/organizations/biotec/), CircuitCity, the Arcade, and even the apartment building they live in.
 
+![Sharn Ep 13 — Doctor Edwin Graves - Edwin Graves, Dario, Gemma, Eric and Edwins creations.png](/images/uploads/sharn-ep-13-doctor-edwin-graves-edwin-gr-muvv5a8d.webp)
+
+
+![Sharn Ep 13 — Doctor Edwin Graves - Edwin Graves, Dario, Gemma, Eric and Edwins creation.png](/images/uploads/sharn-ep-13-doctor-edwin-graves-edwin-gr-muvv6oqf.webp)
+
+
+![Sharn Ep 13 — Doctor Edwin Graves - Eric and Edwins creation.png](/images/uploads/sharn-ep-13-doctor-edwin-graves-eric-and-muvv7akc.webp)
+
+
+![Sharn Ep 13 — Doctor Edwin Graves - Edwin Graves attacking Dario.png](/images/uploads/sharn-ep-13-doctor-edwin-graves-edwin-gr-muvv7wyp.webp)
+
+![Sharn Ep 13 — Doctor Edwin Graves - Edwin Graves, Renn Tal and Snodgrass.png](/images/uploads/sharn-ep-13-doctor-edwin-graves-edwin-gr-muvv87jl.webp)
+
+
 Among the evidence they recovered were bank records, property deeds, 800 gold, an [ArcEye Crystallizer](/items/the-arceye-crystallizer/) Lens, and six severely ill Cogborn, who were safely handed off to [RUST](/organizations/r-u-s-t/) Runners for rescue.
 
 The Cog Collector is dead, what does this mean for [Project E.D.E.N.](/organizations/project-e-d-e-n/)?
 
 > The Cog Collector is dead, what does this mean for Project E.D.E.N.?
+
+
+![Sharn Ep 13 — Doctor Edwin Graves - Edwin Graves and Dario.png](/images/uploads/sharn-ep-13-doctor-edwin-graves-edwin-gr-muvv8lvu.webp)
+
 
 ## Revelations
 
@@ -84,4 +102,3 @@ The Cog Collector is dead, what does this mean for [Project E.D.E.N.](/organizat
 
 The trio walked out with bank records, property deeds, 800 gold and — decisively — an **ArcEye Crystallizer Lens**, the device they had been hunting since Episode 6. [Grady Marsh](/people/grady-marsh/)'s memory could finally be pulled. The Cog Collector was dead, and the question of what Project E.D.E.N. was for was left standing.
 
-![Edwin Graves and Dario.png](/images/uploads/edwin-graves-and-dario-mu0zaafd.webp)
