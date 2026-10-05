@@ -204,9 +204,6 @@ She has fourteen daughters by the Emperor, many of them sets of twins, all of th
 
 They are not, it turns out, the fruit of a reawakened Vol bloodline. The dragon half was harvested. For three years the Empire kept the black dragon Valtrex collared and bled beneath the Korramont and shipped the blood out by rail, and Valtrex — freed, sane, and testifying — states plainly that Uriel used his stolen blood to sire her heirs. By his account he is their father.
 
-![The black dragon Valtrex](/images/uploads/valtrex-mu0teki6.webp)
-*The black dragon Valtrex.*
-
 Dave: "she has had many miscarriages from failed attempts but has the emperor comatose so keeps making new ones" / "She’s also brought some to term which she considers failures also and they are all female children half dragon demon kids" / "And they live near her in the palace". <small>(Oral Histories: The Inevitables, 2025-10-19)</small>
 
 ## The Scion
@@ -219,9 +216,6 @@ As the Penitent Empress, Uriel was already pregnant with **the Scion**. <small>(
 ## Eternal Nightfall
 
 Sister Nora of the Black Doves, taken in a cellar in Sharn and questioned, gave up three things: Project E.D.E.N., the names of Esther Crona’s sisters, and Uriel’s doctrine of the Eternal Nightfall. Nora was executed after the rising and left no further account of it. What the Inevitables have since assembled is the shape of the thing rather than its text: the dead rise everywhere, and stay risen, and the wilds take back the kingdoms of man exactly as Uriel has said in writing that she wants.
-
-![Sister Nora, bleeding, laughs upward in her cell](/images/uploads/sister-nora-eternal-night-mu0v0tj8.webp)
-*Sister Nora in her cell.*
 
 ## The bells
 
