@@ -45,6 +45,8 @@ The Trio then visited [Hopper's](/places/hoppers-magic-emporium/), a local magic
 
 Continuing their investigation, the Trio visited the Gremlin Lantern Sake Bar, where they learned that regular, [Grady Marsh](/people/grady-marsh/) hadn't been seen in days. Following the lead to his apartment, they discovered signs of a struggle, blood on the floor, and a matchbook advertising [The Vault Below](/places/the-vault-below/), a notorious Lower City club and gambling house. The Trio followed Grady's trail to the entrance of The Vault Below, standing outside the club as the next chapter of their investigation loomed.
 
+![Sharn Ep 5 — Welcome to the Neighborhood - Eric, Gemma and Dario at Gremlin Lantern Sake Bar - Sharn lower city.png](/images/uploads/sharn-ep-5-welcome-to-the-neighborhood-e-mu3mj29k.webp)
+
 ## Revelations
 
 - The apartment's landlord is written only as **E.G.** — the initials of [Edwin Graves](/people/dr-edwin-graves/), whom the trio will not meet for another eight episodes.
@@ -61,5 +63,3 @@ Continuing their investigation, the Trio visited the Gremlin Lantern Sake Bar, w
 The Kross family became the trio's entire Lower City network — shopkeeper, pawnbroker, and later the tunnel into [R.U.S.T.](/organizations/r-u-s-t/). Two missing-person threads, Martin Kross and Grady Marsh, converged on the same district, and both would resolve underground.
 
 > Following the lead to his apartment, they discovered signs of a struggle, blood on the floor, and a matchbook advertising The Vault Below, a notorious Lower City club and gambling house.
-
-![Sharn Ep 5 — Welcome to the Neighborhood - Eric, Gemma and Dario at Gremlin Lantern Sake Bar - Sharn lower city.png](/images/uploads/sharn-ep-5-welcome-to-the-neighborhood-e-mu3mj29k.webp)
