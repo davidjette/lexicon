@@ -46,6 +46,10 @@ In the cellar, [Sister Nora](/people/sister-nora/) spilled the truth about [Proj
 
 When asked directly about who supplied the bodies, Nora began seizing with pain, clutching the side of her head near her ear as blood ran from her nose. The trio realized she had a [BioTec](/organizations/biotec/)-implanted mental block, preventing her from speaking openly about the supplier's identity. [Dario](/people/sir-dario-argentino/) removed the chip, leaving Nora to rest and recover.
 
+![Sharn Ep 7 — Shadow of the Past - Sister Nora speaking about the Eternal Night - Zilspar Farms Cell.png](/images/uploads/sharn-ep-7-shadow-of-the-past-sister-nor-muvt2lmc.webp)
+![Sharn Ep 7 — Shadow of the Past - Sister Nora speaking about the Eternal Night - Zilspar Farms Cell.png](/images/uploads/sharn-ep-7-shadow-of-the-past-sister-nor-muvt3zwo.webp)
+
+
 [Zero-One](/people/zero-one-fema-nolan/) and [Jessica Grimpledink](/people/jessica-grimpledink/) met with the trio, warning that Faith and Malrik would now be hunting whoever infiltrated their sanctum. Jessica gave them a Sending Charm and a key to her family's lockbox in the [Sharn Library](/places/the-sharn-library/).
 
 At the library, the trio accessed the lockbox and met [Renn Tal](/people/renn-tal/), an archivist specializing in [Varyn Crona](/people/varyn-crona/) and the [Forge of Binding](/places/the-forge-of-binding/). She quietly warned them the library wasn't safe and told them that if they needed to speak further, they should find [DJ Rust](/people/dj-rust/) at [Breakers Pit](/places/breakers-pit/). A male librarian, Peter, confirmed with Renn that per protocol he was to contact [Iron Veil](/organizations/the-iron-veil/) if anyone inquired about Varyn Crona, then moments later the Iron Veil arrived. The Veil confronted the trio outside and demanding they come with them. A fight broke out, and the trio killed the Iron Veil soldiers before teleporting back to their Lower City safehouse.
@@ -70,3 +74,4 @@ Now back in their apartment, the trio have only a few hours to rest before their
 Renn Tal was burned as an archivist and became the party's scholar for the rest of both arcs. The library killing put the trio's faces into an Iron Veil manhunt, and the name "DJ Rust" sent them to Breakers Pit with a fight already booked.
 
 > She quietly warned them the library wasn't safe and told them that if they needed to speak further, they should find DJ Rust at Breakers Pit.
+
