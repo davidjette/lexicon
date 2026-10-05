@@ -15,7 +15,7 @@ tags:
   - The Inevitables
   - Warforged
 image:
-  src: /images/uploads/sharn-ep-1-welcome-to-sharn-gemma-dario-mu3n8ivr.webp
+  src: /images/uploads/sharn-ep-1-welcome-to-sharn-gemma-dario-muvo0kzl.webp
 sidebar:
   order: 201
 type: report
@@ -34,9 +34,14 @@ wa:
 
 **Sharn Ep 1 — Welcome to Sharn** is the first session of the Sharn arc of *The Unforeseen Strikes Back*, run by Nichole. Newly arrived in [Sharn](/places/sharn/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) took their first assignment from the rebel operative [Izaak](/people/izaak/), broke into the [BioTec](/organizations/biotec/) corporate labs on a lifted keycard, escaped with the [Ghost Chip](/items/the-ghost-chip/) and a folder of encrypted data, and were admitted to the rebel stronghold [The Nest](/organizations/the-nest/) beneath [Skyroot Park](/places/skyroot-park/).
 
+
 ## Summary
 
 Newly arrived in the towering city of [Sharn](/places/sharn/), the trio; [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) are instructed to meet rebel operative [Izaak](/people/izaak/) during a quiet meeting at [The Astra Bar](/places/the-astra-bar/) in the upper city. Their first assignment: infiltrate the corporate labs of [BioTec](/organizations/biotec/) and steal a prototype known only as the [Ghost Chip](/items/the-ghost-chip/).
+
+![Sharn Ep 1 — Welcome to Sharn - Gemma, Dario Eric and Izaak inside the Astra bar - Upper city Sharn.png](/images/uploads/sharn-ep-1-welcome-to-sharn-gemma-dario-muvo0z27.webp)
+
+![Sharn Ep 1 — Welcome to Sharn - Gemma, Dario Eric and Martin Kross inside the Astra bar - Upper city Sharn.png](/images/uploads/sharn-ep-1-welcome-to-sharn-gemma-dario-mu3n8q89.webp)
 
 To get inside, the trio befriend an intoxicated BioTec employee [Martin Kross](/people/martin-kross/), escorting him home and lifting his keycard. Their break-in quickly spirals out of control when private security confronts them and a panicked scientist accidentally unleashes three horrific undead [warforged](/lore/warforged/) hybrid units never before seen.
 
@@ -62,5 +67,5 @@ Barely surviving the encounter, the trio secure the Ghost Chip and a folder of e
 
 The Ghost Chip and the encrypted folder passed into rebel hands, giving the Nest its first hard look inside BioTec. Martin Kross was compromised by association and would be hunted by his own employer. The trio, until this night three travellers with no standing in Sharn, became the Nest's field team.
 
-![Sharn Ep 1 — Welcome to Sharn - Gemma, Dario Eric and Martin Kross inside the Astra bar - Upper city Sharn.png](/images/uploads/sharn-ep-1-welcome-to-sharn-gemma-dario-mu3n8q89.webp)
 
+![Sharn Ep 1 — Welcome to Sharn - Eric, Gemma and Dario in Sharn upper city 1.png](/images/uploads/sharn-ep-1-welcome-to-sharn-eric-gemma-a-muvo17d5.webp)
