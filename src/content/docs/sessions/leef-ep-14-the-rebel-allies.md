@@ -14,7 +14,7 @@ tags:
   - Eric the Cleric
   - Greymalkin
 image:
-  src: /images/uploads/club-mawniq-outside-newham-mux0ieje.webp
+  src: /images/uploads/leef-ep-14-the-rebel-allies-mux30qxk.webp
 sidebar:
   order: 164
 type: report
@@ -45,6 +45,9 @@ The session also advanced the party's work with Newham's rebels. Dave: "and we'r
 The vampire allies were Morg and Nips of [Club Mawniq](/places/club-mawniq/). <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 ![Club Mawniq - Inside - Newham.png](/images/uploads/club-mawniq-inside-newham-muvnhv0s.webp)
+
+
+![Club Mawniq - Outside - Newham.png](/images/uploads/club-mawniq-outside-newham-mux31av7.webp)
 
 
 ## Revelations
