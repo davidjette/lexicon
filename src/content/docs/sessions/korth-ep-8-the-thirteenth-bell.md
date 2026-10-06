@@ -49,6 +49,8 @@ In the hall they spoke with Crab Rangoon, one of the surviving kin, then explore
 ![General Tso casts speak with dead on Scallion Pancake](/images/gallery/2026-07-29-02.webp)
 *General Tso casts speak with dead on Scallion Pancake.*
 
+![Korth Ep 8 — The Thirteenth Bell - Gemma, Dario and Eric searching King Corn's study - Private study - the Korranberg Foundry level, inside the Korramont.png](/images/uploads/korth-ep-8-the-thirteenth-bell-gemma-dar-mu6fxmal.webp)
+
 At the end of the hall was a door sealed with a [Black Dove](/organizations/the-black-doves/) prayer ritual — a muslin sheet of protective scripture signed by [Sister Maelis Dorn](/people/sister-maelis-dorn/), the same Dove [Gemma Corso](/people/gemma-corso/) had befriended years earlier in Korth. [Sir Dario Argentino](/people/sir-dario-argentino/) tore it down. Inside was a nun, [Sister Calvane](/people/sister-calvane/), who claimed to have been locked in since the bell rang. When Gemma blocked the door she attacked, transformed mid-fight into a red-skinned winged demon, and fled into the hall, where they killed her. Deeper in the suite the undead thrall of the *real* Sister Calvane attacked. During that fight the voice overwhelmed Eric; he broke and sprinted for the great hall screaming that he needed to ring the bell, and had to be tackled and restrained. A dwarf's potion cleared his mind.
 
 ![The false Sister Calvane attacks as a red-skinned winged demon](/images/gallery/2026-07-29-03.webp)
@@ -77,8 +79,4 @@ At the end of the hall was a door sealed with a [Black Dove](/organizations/the-
 ## Consequences
 
 The Tso siblings made their offer: descend, find the remains of Sedda and [King Corn](/people/king-corn/), bring them back, and the kin would give the trio anything — hospitality, knowledge of the bells, and access to **Corn's folio**, the complete record of the forging of Shavat and the bells. Eric was now visibly compromised and still hiding how badly.
-
-![Korth Ep 8 — The Thirteenth Bell - Gemma, Dario and Eric searching King Corn's study - Private study - the Korranberg Foundry level, inside the Korramont.png](/images/uploads/korth-ep-8-the-thirteenth-bell-gemma-dar-mu6fxmal.webp)
-
-![Korth Ep 8 — The Thirteenth Bell - Eric, Gemma and Dario fight the Vampiric undead Sister Calvane.png](/images/uploads/korth-ep-8-the-thirteenth-bell-eric-gemm-mu3ln2c7.webp)
 
