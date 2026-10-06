@@ -17,7 +17,7 @@ tags:
   - Eric the Cleric
   - Esther Crona
 image:
-  src: /images/uploads/leef-ep-8-the-battle-of-leef-mu671wfb.webp
+  src: /images/uploads/leef-ep-6-the-battle-of-leef-2-mux2tnhd.webp
 sidebar:
   order: 156
 type: report
@@ -33,9 +33,9 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-09-25'
   - sources/dave/2026-09-14-inevitables-rulings-batch.md
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
-  - "sources/dave/2026-09-27-jl-notes.md"
-  - "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-jl-notes.md
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 ---
 
