@@ -54,10 +54,13 @@ Reviewing the dossiers, the trio concluded that [Uriel Qualanthri](/people/uriel
 
 [Gemma Corso](/people/gemma-corso/) meditated and reached her archfey patron, **Kitsune**, who appeared through the fog in a fey-dream dance and told her the truth of her pact. [Sir Dario Argentino](/people/sir-dario-argentino/) found a suit of armour in the Crona penthouse, commissioned for [Esther Crona](/people/esther-crona/) and fitting him with uncanny precision. [Eric the Cleric](/people/eric-the-cleric/) took a scroll of *greater silence* from [Renn Tal](/people/renn-tal/), who believed it could disrupt the bells' resonance if amplified by multiple casters.
 
-![Gemma Corso dances with her archfey patron Kitsune in the fog](/images/gallery/2026-07-11-01.webp)
+
+![Korth Ep 4 — Road to Korth - Gemma and Kitsune Dream.png](/images/uploads/korth-ep-4-road-to-korth-gemma-and-kitsu-muw0c4lu.webp)
 *Gemma Corso dances with her archfey patron Kitsune in the fog.*
 
 Disguised as the high-elf bureaucrat **Deirdre Moro**, her assistant **Graham Cracker** and a security officer under the alias **Sir Beef Taco**, the trio teleported to Korth. On the second floor, they encountered a guard stationed at her door. The trio struck quickly, killing him, and entered the apartment. Inside, they found the real Deirdre, a tarot-reading woman, and a dog. All were killed. Moments later, the real Graham Cracker arrived and met the same fate. The trio cleaned the scene, stored the bodies in their Bags of Holding, and erased all evidence.
+
+![Korth Ep 4 — Road to Korth - Eric, Gemma and Dario fighting Graham Gracker, Deirdre Moro and a fortune teller in Korth.png](/images/uploads/korth-ep-4-road-to-korth-eric-gemma-and-mu3nny5j.webp)
 
 ![The disguised trio in Deirdre Moro's apartment in Korth](/images/gallery/2026-07-12-01.webp)
 *The disguised trio in Deirdre Moro's apartment in Korth.*
@@ -80,7 +83,4 @@ Disguised as the high-elf bureaucrat **Deirdre Moro**, her assistant **Graham Cr
 ## Consequences
 
 The trio entered the Imperial capital as three murdered civil servants, with a safehouse in the heart of Korth and a mission: infiltrate the [the Korranberg Foundry](/places/the-korranberg-foundry/), reach the Summer Palace upriver, and stop the ringing of the bells.
-
-
-![Korth Ep 4 — Road to Korth - Eric, Gemma and Dario fighting Graham Gracker, Deirdre Moro and a fortune teller in Korth.png](/images/uploads/korth-ep-4-road-to-korth-eric-gemma-and-mu3nny5j.webp)
 
