@@ -70,4 +70,3 @@ Vex called down his warships and ordered them to fire on the Summit grounds. Exp
 
 The Summit has fallen but the fight with Vex isn't over. Broadcast across Khorvaire by the arceye cameras, the massacre would be read by the free states as proof that peace had died. The trio escaped aboard a ship belonging to a Campaign 1 founder with the Empire's Admiral clinging to the hull.
 
-![Korth Ep 2 — Storm Above Thronehold - Eric, Lorian and Gemma in disguise flee attack at Thornehold.png](/images/uploads/korth-ep-2-storm-above-thronehold-eric-l-mu3lhd81.webp)
