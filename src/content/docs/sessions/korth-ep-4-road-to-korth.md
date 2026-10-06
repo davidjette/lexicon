@@ -62,9 +62,6 @@ Disguised as the high-elf bureaucrat **Deirdre Moro**, her assistant **Graham Cr
 
 ![Korth Ep 4 — Road to Korth - Eric, Gemma and Dario fighting Graham Gracker, Deirdre Moro and a fortune teller in Korth.png](/images/uploads/korth-ep-4-road-to-korth-eric-gemma-and-mu3nny5j.webp)
 
-![The disguised trio in Deirdre Moro's apartment in Korth](/images/gallery/2026-07-12-01.webp)
-*The disguised trio in Deirdre Moro's apartment in Korth.*
-
 ## Revelations
 
 - [Gemma Corso](/people/gemma-corso/)'s pact was never hers to make: her adoptive father, Jane Croso, agreed to bring Kitsune [Emperor Kaius III](/people/emperor-caius-iii/)'s heart in exchange for freedom and power. When Jane died the pact passed to Gemma. Kitsune gave her a velvet-lined pewter heart-box for the task. **She kept this from the others.**
