@@ -57,8 +57,6 @@ With six hours in Korth before the boat, they went as Imperials, on the reasonin
 ![Deirdre, Graham and Dario pass the Hall of Submission](/images/album/passing-the-hall-of-submission.webp)
 *Deirdre, Graham and Dario pass the Hall of Submission.*
 
-![Inside the Hall of Submission](/images/album/the-hall-of-submission.webp)
-*Inside the Hall of Submission.*
 
 ![Bodies turned in the Hall walk onto a troop transport for the front](/images/album/korth-undead-corpse-transfer.webp)
 *Bodies turned in the Hall walk onto a troop transport for the front.*
@@ -75,8 +73,6 @@ The director came up behind her. His name tag read Chandler: an old man with clo
 ![Deirdre Moro and Director Chandler](/images/album/gemma-as-deirdre-moro-with-director-chandler.webp)
 *Deirdre Moro and Director Chandler.*
 
-![Director Ross Chandler](/images/album/ross-candler.webp)
-*Director Ross Chandler.*
 
 > We have been able to harvest the ghost chips from almost every Fulcrum member we have captured, we have a near complete understanding of their organisation, and it is only a matter of time until we kill every single one of them. But we are lucky to have Mr Izaak here in the listening station.
 
@@ -119,23 +115,18 @@ He also asked for air cover for the units fighting the Uruk-Hoth in Aundair. The
 
 Also aboard were the Archbishop of Arawai, a well-liked [Sovereign Host](/organizations/the-sovereign-host/) figure whom even the Empire tolerates, wearing a large and obviously magical amulet; **Rotunda Goose**, the parliamentarian from the [Thronehold](/places/thronehold/) summit, who survived it without her left hand and an ear; a very tall masked Black Dove, whom Gemma recognised as the sister she had seen in the Hall of Submission turning corpses into soldiers; merchants bound for the Grand Lodge; nobles with ailments; and a steerage deck of wounded coming to ask the Holy Empress to heal them. At a window stood an elf woman named **Saturnia**, who has lived her whole life in Khorvaire and was going to take the vows of poverty, virtue and chastity and join the Sisterhood, which her mother calls the future of elvendom in the world.
 
-![General Stockton Thar and Rotunda Goose on the barge](/images/album/stockton-thar-and-rotunda-goose.webp)
-*General Stockton Thar and Rotunda Goose on the barge.*
-
 Gemma used her sending stone on Joseph Roberts, accepting a marriage proposal, and got back: "always great to have a future ex, where are you". That night she sent to [Jessica](/people/jessica-grimpledink/) that she was near target with cover kept, and that the listening post needs destroying. Jessica answered that the Nest had received Izaak, who was well, and the Nightingale. Izaak got a codename at last: **Ace**.
 
 They docked at midnight, where Dario's Divine Sense found the guards on the quay undead. A dworc carriage driver called Pork Broccoli, half orc and half dwarf, took sixty gold and drove them past an Imperial administration building older than the Empire, a reflecting pond and a triumphal gate. On a hill in the town stands the great hospital and holy complex, once a Sovereign Host cathedral and now the heart of the Black Doves, with a giant statue of [Uriel Qualanthri](/people/uriel-qualanthri/) at the top of its stair and a floating geometric shape lit in its courtyard. The Grand Lodge is an old hunting lodge on the river, hung with banners of the Kingdom of Karrnath from before there was an Empire. The only room free was the Fieldmaster's Suite at five hundred gold a night, looking south to the Summer Palace wall and the Imperial landing pad; Dario paid fifty platinum and asked to be left alone.
 
-![The Summer Palace by night](/images/album/the-summer-palace.webp)
-*The Summer Palace by night.*
+![Kitsune, in the Archbishop's robes, corrects the terms of the bargain](/images/album/gemma-corso-and-kitsune-3.webp)
+*Kitsune, in the Archbishop's robes, corrects the terms of the bargain.*
 
 Gemma spent her free *contact other plane* going to sleep, and dreamed the boat empty but for herself and **Kitsune**, wearing the Archbishop's robes and amulet. He asked whether she had come to become a nun; she said she had come to retrieve his gift. He told her she was close, and that if she did not hurry she would have to steal it screaming. The bargain, he allowed, was never an immediate binding agreement, and settled somewhere around the eighth or ninth person she killed with the power he gave her. He has no children, and wants the feeling of a heart living outside his body, with one particular child, which he means to take out of this world entirely. Then he corrected the terms. Gemma had carried a velvet-lined box to bring him the heart of Caius; the heart of the Emperor was a riddle, and what he wants is the Emperor himself, the child, alive or dead. Gemma asked how you can kill something that is already dead, and he told her to think about what would need a great amount of dragon blood. What "the elf witch" had dug into, he said, is some of the oldest magic there is: a way to sire a child "from the bones of the earth, from the seed of existence". Gemma answered that handing him a child that powerful would be handing another bomb to another ally, like Locke Pierce. His last words were that the time is almost near, and to get him what he wants before she rings the bell. <small>Kitsune's account. The Emperor's nature has two other accounts in the Korth arc: LeBeefe's voice named him a vampire in [Korth Ep 11](/sessions/korth-ep-11-the-domain-of-valtrex/), and Master Armhair named him the dragon Viagra in [Korth Ep 13](/sessions/korth-ep-13-the-condemned/).</small>
 
-![Gemma and Kitsune on the empty barge, in her dream](/images/album/gemma-corso-and-kitsune-1.webp)
-*Gemma and Kitsune on the empty barge, in her dream.*
 
-![Kitsune, in the Archbishop's robes, corrects the terms of the bargain](/images/album/gemma-corso-and-kitsune-3.webp)
-*Kitsune, in the Archbishop's robes, corrects the terms of the bargain.*
+![The Summer Palace by night](/images/album/the-summer-palace.webp)
+*The Summer Palace by night.*
 
 ## Revelations
 
