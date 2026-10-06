@@ -14,7 +14,7 @@ tags:
   - Long night
   - Morlo Gint
 image:
-  src: /images/uploads/falcons-junk-yard-leef-mu660cq8.webp
+  src: /images/uploads/falcons-junk-yard-leef-2-mux2p61t.webp
 sidebar:
   order: 151
 type: report
@@ -31,9 +31,9 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-07-19'
   - 'Oral Histories: The Inevitables, 2025-08-08'
   - sources/dave/2026-09-14-inevitables-rulings-batch.md
-  - "JL's DM notes: The Unforeseen Strike Back DM Notes"
-  - "sources/dave/2026-09-27-jl-notes.md"
-  - "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-jl-notes.md
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 ---
 
