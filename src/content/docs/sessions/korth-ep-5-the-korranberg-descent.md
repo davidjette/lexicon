@@ -47,11 +47,11 @@ The trio rode out of the Capitol in their disguises. The town was quiet and wary
 ![The disguised trio ride into the one-road mining town of Korranberg](/images/gallery/2026-07-12-22.webp)
 *The disguised trio ride into the one-road mining town of Korranberg.*
 
-![Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn](/images/gallery/2026-07-12-23.webp)
-*Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn.*
-
 
 ![Korth Ep 5 — The Korranberg Descent.png](/images/uploads/korth-ep-5-the-korranberg-descent-muw0lod3.webp)
+
+![Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn](/images/gallery/2026-07-12-23.webp)
+*Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn.*
 
 
 ![Disguised as Graham Cracker, Eric the Cleric advances amid spirit guardians shaped like golden math symbols](/images/gallery/2026-07-12-24.webp)
