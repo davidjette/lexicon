@@ -40,11 +40,12 @@ wa:
 
 At the threshold of the Grand Stair the whispers began, aimed only at [Eric the Cleric](/people/eric-the-cleric/): *"Deliver the message."* He concealed them. Stirges woke to the ring of his armour; further down, four grells descended from the stalactites, one paralysing Eric and carrying him thirty feet into the air while the whispers shrieked through his mind. He broke free with his Passage Mark. In a pocket cave they found a dead duergar mourner weeks gone, carrying a mourning-braid and a family crest rubbing from House Moo Goo Gai Pan.
 
+![The trio find the dead duergar mourner in a pocket cave](/images/gallery/2026-07-20-04.webp)
+*The trio find the dead duergar mourner in a pocket cave.*
+
 ![Grells attack the trio over an underground stream](/images/gallery/2026-07-20-05.webp)
 *Grells attack the trio over an underground stream.*
 
-![The trio find the dead duergar mourner in a pocket cave](/images/gallery/2026-07-20-04.webp)
-*The trio find the dead duergar mourner in a pocket cave.*
 
 The masoned path opened into the sepulcher gallery and then the Glitterhame itself: a vast cavern filled with a glowing fungal bloom. The spores reached Eric at once, speaking with a clear voice — *"Have you come to deliver the message… as my lord sent you?"* He answered aloud, failed, and felt a presence looking out through his eyes. [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/) began to worry.
 
@@ -80,7 +81,3 @@ Beyond the Iron Door and a hidden passage lay the Great Hall of Rak'tafûr, wher
 ## Consequences
 
 Eric was infected and hiding it. Madame Tso refused to share anything of the foundry — *"You robbed from my dead. You do not have the right."* — and the trio ended the night standing over the Thirteenth Casting with no way to break it and no clan willing to help.
-
-![Korth Ep 7 — The Glitterhame and the Grave Robbers - Gemma, Eric, Dario in disguise at Grand Staircase.png](/images/uploads/korth-ep-7-the-glitterhame-and-the-grave-mu3nkyn2.webp)
-
-![Korth Ep 7 — The Glitterhame and the Grave Robbers - Gemma, Eric, Dario in disguise enter The Glitterhame.png](/images/uploads/korth-ep-7-the-glitterhame-and-the-grave-mu3nldww.webp)
