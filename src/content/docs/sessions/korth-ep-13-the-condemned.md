@@ -44,13 +44,12 @@ wa:
 
 At the Ministry of Records the trio studied the machinery they were about to operate: no defence counsel, no discovery, only judges interrogating the prosecution, and a kin-and-patron system in which spouses, siblings or employers testified to the condemned's value. Sabotage, espionage and embezzlement meant death.
 
-![Gemma, as Deirdre Moro, and her bodyguard Sky Rizzy at the Ministry](/images/gallery/2026-09-07-07.webp)
-*Gemma, as Deirdre Moro, and her bodyguard Sky Rizzy at the Ministry.*
-
-In the Hall of Records they overheard scholars discussing a black dragon over the [Korramont](/places/the-korramont/). Gemma approached the elderly half-elf loremaster **Master Armhair** and admitted she had stood before the dragon and spoken with it. At midnight Armhair returned with the Leonin scholar Jelton Ahn and confessed his life's heresy. The trio gave him the Crown of Seven Stars as a gift for [Valtrex](/species/valtrex/) and told him to bargain — without telling him it was cursed. Jelton, refusing such a treasure for nothing, gave them a *scroll of true resurrection*.
 
 ![Gemma and Eric meet the loremaster Master Armhair in the Hall of Records](/images/gallery/2026-09-07-05.webp)
 *Gemma and Eric meet the loremaster Master Armhair in the Hall of Records.*
+
+In the Hall of Records they overheard scholars discussing a black dragon over the [Korramont](/places/the-korramont/). Gemma approached the elderly half-elf loremaster **Master Armhair** and admitted she had stood before the dragon and spoken with it. At midnight Armhair returned with the Leonin scholar Jelton Ahn and confessed his life's heresy. The trio gave him the Crown of Seven Stars as a gift for [Valtrex](/species/valtrex/) and told him to bargain — without telling him it was cursed. Jelton, refusing such a treasure for nothing, gave them a *scroll of true resurrection*.
+
 
 ![The trio meet Armhair and the Leonin scholar Jelton Ahn at midnight](/images/gallery/2026-09-07-06.webp)
 *The trio meet Armhair and the Leonin scholar Jelton Ahn at midnight.*
@@ -60,11 +59,10 @@ At dawn stormtroopers came: Deirdre was recorded absent and required at the Mini
 ![The Star Advocate faces the condemned before the High Court of Korth](/images/gallery/2026-09-07-03.webp)
 *The Star Advocate faces the condemned before the High Court of Korth.*
 
-![The Advocate speaks with Vice Admiral Freyd Merkin in court](/images/gallery/2026-09-07-04.webp)
-*The Advocate speaks with Vice Admiral Freyd Merkin in court.*
 
-![Bantide Moro, the condemned, chained in a stone cell](/images/gallery/2026-09-07-01.webp)
-*Bantide Moro, the condemned, chained in a stone cell.*
+![Korth Ep 13 — The Condemned - Gemma disguised  at Bantide trial with Vice Admiral Freyd Merkin.png](/images/uploads/korth-ep-13-the-condemned-gemma-disguise-mux1qduk.webp)*The Advocate speaks with Vice Admiral Freyd Merkin in court.*
+
+
 
 ## Revelations
 
@@ -86,11 +84,16 @@ Gemma broke script and testified as kin; the panel found the documentation insuf
 ![The disguised Gemma and Eric speak with Bantide Moro in her jail cell](/images/album/speaking-with-bantide-moro-in-jail.webp)
 *The disguised Gemma and Eric speak with Bantide Moro in her jail cell.*
 
+![Gemma, as Deirdre Moro, and her bodyguard Sky Rizzy at the Ministry](/images/gallery/2026-09-07-07.webp)
+*Gemma, as Deirdre Moro, and her bodyguard Sky Rizzy at the Ministry.*
+
 ![The disguised trio carry an invisible Bantide Moro through Korth](/images/album/carrying-bantide-moro.webp)
 *The disguised trio carry an invisible Bantide Moro through Korth.*
 
+![Korth Ep 13 — The Condemned - Gemma, Eric and Dario speaking with Bantide Moro.png](/images/uploads/korth-ep-13-the-condemned-gemma-eric-and-mu3ltada.webp)
+
 <small>A Master bell — the ninth great casting — hangs in a Black Dove tower attached to the Imperial Palace itself.</small>
+
 
 **Next:** [Korth Ep 14 — The Listening Post](/sessions/korth-ep-14-the-listening-post/)
 
-![Korth Ep 13 — The Condemned - Gemma, Eric and Dario speaking with Bantide Moro.png](/images/uploads/korth-ep-13-the-condemned-gemma-eric-and-mu3ltada.webp)
