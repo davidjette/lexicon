@@ -37,15 +37,13 @@ wa:
 
 ## Summary
 
-
-![Sharn Ep 19 — The Council of Sharn - Dario, Jessica, Izaak, Locke, Gemma, Berenstain, Blair, Eric, Zero-One, Preacher - Sharn Upper City.png](/images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-muvylloh.webp)
-
-
 With Lord Commander [Esther Crona](/people/esther-crona/) dead, Mayor [Henry Heinrick](/people/henry-heinrick/) killed, and the [Iron Veil](/organizations/the-iron-veil/)'s pact dismantled, the rebellion moved quickly to stabilize Sharn before the city collapsed. [Digma Beeve](/people/digma-beeve/) arrived first, going straight to [Richard](/people/richard-blaze/) and [Calcifer](/people/calcifer/). After a brief private exchange, he informed the trio that Richard and Calcifer would teleport to [Zilspar Farm](/places/zilspar/) before anyone else arrived and proposed a cover story to protect them: [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) had ambushed Richard's private airship during the kidnapping, killing Richard, Calcifer, and two of Esther's Honor Guards. With the [Children of Ember](/organizations/the-children-of-ember/) already dead from the [Vault Underground](/places/the-vault-underground/) assault, the lie would hold. Digma left to coordinate the narrative.
 
 Moments later, [Jessica Grimpledink](/people/jessica-grimpledink/) arrived, reporting that [Zero-One](/people/zero-one-fema-nolan/) and [Silver Flame](/organizations/the-silver-flame/) paladins had seized the Black Dove Hospital and rounded up [Black Dove](/organizations/the-black-doves/) clergy. Mass protests were erupting across Sharn, with citizens tearing down statues of [Uriel](/people/uriel-qualanthri/). [Nest](/organizations/the-nest/) and [Fulcrum](/organizations/fulcrum/) operatives had secured the [Veil Building](/places/the-veil-building/), and high-ranking officials, including [Hillary Heinrick](/people/hillary-heinrick/) and [Dr. Joanne Menka](/people/dr-joanne-menka/), were being taken into custody. [Locke Pierce](/people/locke-pierce/)'s [Hundreds](/organizations/the-hundreds/) and [R.U.S.T.](/organizations/r-u-s-t/) were rounding up Iron Veil soldiers; many fled, many hid, and many surrendered.
 
 Jessica warned the trio that representatives from every major faction were on their way to the penthouse. What followed became known as the first meeting of the [Council of Sharn](/lore/the-council-of-sharn/).
+
+![Sharn Ep 19 — The Council of Sharn - Dario, Jessica, Izaak, Locke, Gemma, Berenstain, Blair, Eric, Zero-One, Preacher - Sharn Upper City.png](/images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-muvylloh.webp)
 
 Representatives from [Leef](/places/leef/), NEST, the Silver Flame, R.U.S.T., the Hundreds, and the [Underhive](/organizations/the-underhive/) arrived with proposals and demands. Jessica opened the meeting, crediting the trio for preventing Sharn's fall and framing the council's purpose: stabilizing the city and preparing for continued resistance against the Empire.
 
