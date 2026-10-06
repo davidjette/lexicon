@@ -13,6 +13,8 @@ tags:
   - Gemma Corso
   - Eric the Cleric
   - Greymalkin
+image:
+  src: /images/uploads/club-mawniq-outside-newham-mux0ieje.webp
 sidebar:
   order: 164
 type: report
