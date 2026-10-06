@@ -40,6 +40,8 @@ wa:
 
 After recovering at [The Nest](/organizations/the-nest/), [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/), and [Dario](/people/sir-dario-argentino/) are brought deeper into the rebels' hidden stronghold to review the stolen [BioTec](/organizations/biotec/) files. With [Zero of Sharn](/people/zero-of-sharn/)'s help, they successfully redact portions of the data and uncover the name of a classified military initiative: [Project EDEN](/organizations/project-e-d-e-n/). Before they depart, [Izaak](/people/izaak/) implants each of them with [Ghost Chips](/items/the-ghost-chip/).
 
+![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
+
 With new identities established, [Jessica Grimpledink](/people/jessica-grimpledink/) assigns the Trio their next mission: infiltrate the grand opening of [Richard Blaze](/people/richard-blaze/)'s newest upper-city restaurant, [Posé](/places/pose/), disguised as servers from the Vilspar Co-operative.
 
 Inside the event, the Trio mingle among Sharn's elite. Through careful eavesdropping, they piece together troubling fragments: a breach at BioTec, the disappearance of [Martin Kross](/people/martin-kross/), whispered mentions of Project EDEN, and escalating political tension within the Empire.
@@ -49,7 +51,13 @@ Outside, a [Cogborn protest](/history/the-cogborn-protest/) erupts into chaos. A
 ![Cogborn protesters with placards gather in the upper city](/images/album/sharn-ep-2-pos-cogborn-protest-upper-city-sharn.webp)
 *Cogborn protesters with placards gather in the upper city.*
 
+![Sharn Ep 2 — POSÉ - Cogborn Protest - Upper City Sharn Veil HQ Building.png](/images/uploads/sharn-ep-2-pose-cogborn-protest-upper-ci-mu3mg34d.webp)
+
 Back at their upper-city safehouse, every screen in Sharn suddenly turns red. A chilling broadcast appears: [Esther Crona](/people/esther-crona/), clad in full armor atop her Imperial warship, executes Cogborn prisoners live for the entire city to witness. The message is unmistakable: dissent will be crushed. With a high-value captive in their custody and the Empire tightening its grip, the Trio brace for the storm ahead.
+
+
+![Sharn Ep 2 — POSÉ - Esther Crona ontop of her Warship, the Black Veil with Cogborn prisoners.png](/images/uploads/sharn-ep-2-pose-esther-crona-ontop-of-he-mux499pm.webp)
+
 
 ## Nico's plan for the session
 
@@ -61,11 +69,8 @@ Nico's checklist for the Nest scene: show the trio their safe house and have the
 
 **The assignment.** Zero set three rose-gold server badges and folded uniforms on the central table. Jessica: "Richard Blaze is opening a new restaurant — Posé. Infernal slang. Means 'to ignite.' Fitting." The cover was Farm-to-Table Fresh servers from the Vilspar Co-operative, and the badges read "Hermione Granger" for Gemma, "Harry Potter" for Eric and "Ronaldo Weasley" for Dario. The guest list was the subject of the correspondence Gemma had found on [Cob Cornwell](/people/cob-cornwell/). Jessica's instruction: "Observe. Listen. Report. Do not engage." <small>(Nico's DM notes, Episode 2)</small>
 
-![Sharn Ep 2 — POSÉ - Eric Gemma and Dario as Servers. Esther, Richard, Nora, Candice, Thar - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-eric-gemma-and-dario-as-muvo6c33.webp)
-
 **The night.** At the base of the grand staircase up to the Veil level a small group of protesters gathered, with Iron Veil soldiers behind blockades at the bottom and top. The head server, Marla, showed the trio the restaurant and the menu, and Richard Blaze, friendly and kind but busy, met them while [Calcifer](/people/calcifer/) ran around helping his father. The guests then arrived and the trio worked to overhear them. At the height of the night the protest pushed through the barriers and up the stairs into the Iron Veil guards. [Malrik Zeir](/people/malrik-zeir/) said to [Faith](/people/faith/), "The Children of Ember are here", and one protester screamed "For the Cogs" and shot toward the balcony, killing Candice Kurt. <small>(Nico's DM notes, Episode 2)</small>
 
-![Sharn Ep 2 — POSÉ - Cogborn Protest - Upper City Sharn Veil HQ Building.png](/images/uploads/sharn-ep-2-pose-cogborn-protest-upper-ci-mu3mg34d.webp)
 
 Izaak, on a far-off rooftop, sent the trio a sending-stone message about an elevator to the level beneath the restaurant. Esther grabbed Calcifer and teleported away. The trio ran to each other and cast invisibility, and Dario restrained Sister Nora, made her invisible too and carried her off. They escaped to the Astra level and back to their safe house unnoticed. There the screens turned red with black letters, "What was first just a dream has become a frightening reality for those who may oppose us", and showed Esther in full armour with her great HexBlade drawn, on top of her Imperial ship parked over the city, executing four Cogborn prisoners. <small>(Nico's DM notes, Episode 2)</small>
 
