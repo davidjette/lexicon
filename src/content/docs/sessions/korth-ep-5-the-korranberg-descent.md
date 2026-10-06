@@ -50,11 +50,19 @@ The trio rode out of the Capitol in their disguises. The town was quiet and wary
 ![Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn](/images/gallery/2026-07-12-23.webp)
 *Disguised as Deirdre Moro, Gemma Corso clears an orc archer nook with Bright Dawn.*
 
+
+![Korth Ep 5 — The Korranberg Descent.png](/images/uploads/korth-ep-5-the-korranberg-descent-muw0lod3.webp)
+
+
 ![Disguised as Graham Cracker, Eric the Cleric advances amid spirit guardians shaped like golden math symbols](/images/gallery/2026-07-12-24.webp)
 *Disguised as Graham Cracker, Eric the Cleric advances amid spirit guardians shaped like golden math symbols.*
 
+![Korth Ep 5 — The Korranberg Descent - Eric and Gemma and Dario in disguise fighting Orcs 2.png](/images/uploads/korth-ep-5-the-korranberg-descent-eric-a-muw0jiyf.webp)
+
 ![An armoured rider swings a blue-flaming sword through a burning orc camp](/images/gallery/2026-07-12-25.webp)
 *An armoured rider swings a blue-flaming sword through a burning orc camp.*
+
+![Korth Ep 5 — The Korranberg Descent - Eric and Gemma in disguise while Eric resurrects a fallen Dario.png](/images/uploads/korth-ep-5-the-korranberg-descent-eric-a-mu3llto3.webp)
 
 ## Revelations
 
@@ -73,4 +81,3 @@ Dario returned from death with a resurrection diamond in his empty socket — th
 
 > The one-road town was quiet and wary; locals refused to speak openly about an "incident" that occurred at the Foundry three years prior.
 
-![Korth Ep 5 — The Korranberg Descent - Eric and Gemma in disguise while Eric resurrects a fallen Dario.png](/images/uploads/korth-ep-5-the-korranberg-descent-eric-a-mu3llto3.webp)
