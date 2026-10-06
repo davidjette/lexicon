@@ -47,12 +47,6 @@ published: '2026-10-03'
 
 The session opened where the last one ended, at the Tomb of Kaius I, with the three disguised as Black Doves. A group of novices came up the processional walk behind a severe old sister in heavy white makeup. The novices wore plain black, the same habit as the party, and the green-robed healers among the sisters carried the holy symbols of the Sovereign Host and older native gods. Eric recognised **Saturnia**, the blue-haired elf from the boat. Three novices came over to size up the strangers. Gemma gave her name as **Sister Apollonia**, "Apple", the name she had used as a novice in the Korth house; Eric gave **Sister Euphrasia**, and Dario **Sister Mr. Rogers**. Dario wanted to kill the three girls on the spot, and was talked out of it. When the guide called time, the party fell in at the back of the group.
 
-![The severe old guide in red who led the novices' tour](/images/album/korth-ep-16-orientation-day-the-guide.webp)
-*The severe old guide in red who led the novices' tour.*
-
-![A Black Dove sister in the plain black habit of the order](/images/album/black-dove-nun-2.webp)
-*A Black Dove sister in the plain black habit of the order.*
-
 From the terrace they saw the Westhouse, once the palace wing of the royal family and now the headquarters of the Black Doves, with a small harbour below it, and the pilgrim camp to the north. A procession of red-robed sisters in heels came out of the cathedral behind a large, mannish sister. They were the **Sisters of the Blood**, who care for the Emperor directly and are trained in his unusual illness, and every one of them looked like [Uriel](/people/uriel-qualanthri/).
 
 ![A Sister of the Blood in red](/images/album/korth-ep-16-orientation-day-sister-of-the-blood.webp)
@@ -84,9 +78,6 @@ Through the west door Gemma and Dario found the transformation floor, cells wher
 
 ![Through the window: Donna on the transformation floor](/images/album/korth-ep-16-orientation-day-donna.webp)
 *Through the window: Donna on the transformation floor.*
-
-![Sister Mary Christmas, who oversees the finished soldiers](/images/album/black-dove-white.webp)
-*Sister Mary Christmas, who oversees the finished soldiers.*
 
 Gemma took Dario through the window by *dimension door* and Eric followed by *misty step*. Esther lay on the slab, rebuilt with the grafted muscle and skin of larger creatures, her skeleton braced with bronze and black Khyber metal and a skull-faced mask bolted to her horns, while sisters in grey sang over her and Zero-One knelt in irons with her hands on her chest. Eric climbed onto the observation gallery, shouted *"Down with the Empire!"*, cast *spirit guardians*, and told the sisters he was Eric, the Chancellor of Sharn. Dario lit Pale Fire and took two heads in two blows: *"By the power of the Flame, heathens will perish."* Gemma killed a sorrowful sister and reached Zero-One, who was too deep in the trance to notice her.
 
