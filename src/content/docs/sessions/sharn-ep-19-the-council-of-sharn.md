@@ -15,7 +15,7 @@ tags:
   - Blair
   - Greenbluff
 image:
-  src: /images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-mu3k34tf.webp
+  src: /images/uploads/sharn-ep-19-the-council-of-sharn-dario-i-muvyktg4.webp
 sidebar:
   order: 219
 type: report
@@ -36,6 +36,10 @@ wa:
 **Sharn Ep 19 — The Council of Sharn** is the nineteenth and final session of the Sharn arc of The Unforeseen Strikes Back. The first Council of Sharn convenes in the former Iron Veil penthouse, the trials and executions of the Empire's officials begin, Esther Crona's body is found missing from the morgue, a replica of the Fantanya (Hell's) Nyel is uncovered in the Black Dove Hospital, and Eric the Cleric is appointed Chancellor of Sharn.
 
 ## Summary
+
+
+![Sharn Ep 19 — The Council of Sharn - Dario, Jessica, Izaak, Locke, Gemma, Berenstain, Blair, Eric, Zero-One, Preacher - Sharn Upper City.png](/images/uploads/sharn-ep-19-the-council-of-sharn-dario-j-muvylloh.webp)
+
 
 With Lord Commander [Esther Crona](/people/esther-crona/) dead, Mayor [Henry Heinrick](/people/henry-heinrick/) killed, and the [Iron Veil](/organizations/the-iron-veil/)'s pact dismantled, the rebellion moved quickly to stabilize Sharn before the city collapsed. [Digma Beeve](/people/digma-beeve/) arrived first, going straight to [Richard](/people/richard-blaze/) and [Calcifer](/people/calcifer/). After a brief private exchange, he informed the trio that Richard and Calcifer would teleport to [Zilspar Farm](/places/zilspar/) before anyone else arrived and proposed a cover story to protect them: [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) had ambushed Richard's private airship during the kidnapping, killing Richard, Calcifer, and two of Esther's Honor Guards. With the [Children of Ember](/organizations/the-children-of-ember/) already dead from the [Vault Underground](/places/the-vault-underground/) assault, the lie would hold. Digma left to coordinate the narrative.
 
@@ -98,4 +102,4 @@ By nightfall a provisional government had formed. [Eric the Cleric](/people/eric
 
 <small>End of the Sharn arc. Three years pass before [Korth Ep 1](/sessions/korth-ep-1-three-years-later/).</small>
 
-![Sharn Ep 19 — The Council of Sharn - Dario, Izaak, Berenstain, Blair being arrested - Sharn Upper City.jpg](/images/uploads/sharn-ep-19-the-council-of-sharn-dario-i-mu3lfn9c.webp)
+
