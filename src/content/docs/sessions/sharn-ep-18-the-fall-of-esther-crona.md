@@ -94,12 +94,11 @@ Then her final command echoed across the towers:
 
 With the last of her strength, Esther telekinetically seized her airship, the Black Veil, and hurled it into the massive statue of Uriel above the Skyport. The explosion destroyed the statue. In her death, Esther fell from the balcony landing at the base of the Veil Building.
 
+![Sharn Ep 18 — The Fall of Esther Crona - Esther moving the Black Veil.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-est-muvysjsf.webp)*Esther stands at the balcony rail as the statue above the Skyport explodes.*
 
 ![Sharn Ep 18 — The Fall of Esther Crona - Black Veil Crash 3.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-bla-muvypkzl.webp)
 *The Black Veil bears down on the statue of Uriel above the Skyport.*
 
-![Esther stands at the balcony rail as the statue above the Skyport explodes](/images/gallery/2026-06-01-06.webp)
-*Esther stands at the balcony rail as the statue above the Skyport explodes.*
 
 Moments later, Dario used the EBT-7 once more, broadcasting live to the entire city. He showed Esther's corpse and declared that the Empire would fall. Iron Veil soldiers, suddenly powerless and terrified, surrendered in droves. Others fled. A small number vanished into the shadows, forming the first seeds of a hidden Iron Veil remnant.
 
@@ -131,5 +130,3 @@ In Nico's recap, Dario's broadcast declared the Empire the enemy, and the Iron V
 Bleeding out, Esther telekinetically seized the Black Veil and hurled it into the massive statue of Uriel above the Skyport, then fell from the balcony to the base of the Veil Building. Dario broadcast her corpse live and declared the Empire would fall. Iron Veil soldiers surrendered in droves; others fled; a small number vanished into the shadows as the first seeds of an Iron Veil remnant. By the end of the night Sharn was free — but leaderless, wounded, and on the brink of collapse.
 
 <small>The site's summary for this session carries no episode title.</small>
-
-![Sharn Ep 18 — The Fall of Esther Crona - Gemma, Dario, Eric and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-gem-mu3lequ5.webp)
