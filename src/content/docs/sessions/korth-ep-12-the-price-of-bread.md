@@ -38,6 +38,8 @@ wa:
 
 [The Inevitables](/organizations/the-inevitables/) returned to Sharn to find Jessica with the worst news of the war: [Zilspar Farm](/places/zilspar/) had been destroyed, [Zero-One](/people/zero-one-fema-nolan/) taken alive, and [Izaak](/people/izaak/) presumed dead. Research confirmed the method for making [King Corn](/people/king-corn/)'s horn, established that breaking a bell does *not* notify [Uriel Qualanthri](/people/uriel-qualanthri/), and concluded [KNELL](/items/knell/) is likely unique.
 
+![Korth Ep 12 — The Price of Bread - Jessica Grimpledink, Zero of Sharn, Gemma, Eric and Dario - Upper city Sharn Penthouse.png](/images/uploads/korth-ep-12-the-price-of-bread-jessica-g-mu3lrroi.webp)
+
 ![Jessica Grimpledink examines Esther's wedding gift as the party looks on](/images/gallery/2026-09-03-01.webp)
 *Jessica Grimpledink examines Esther's wedding gift as the party looks on.*
 
@@ -84,5 +86,3 @@ They flew to [Zilspar Farm](/places/zilspar/) anyway. Eight [E.D.E.N.](/organiza
 ## Consequences
 
 [Locke Pierce](/people/locke-pierce/) has taken the skies of Sharn — a capital ship settled out of the fog to hand out fruit in orderly lines. The papers blamed the Chancellor for the temple, and a dossier from the Hundreds confirmed no survivors at Zilspar. Ten bells remain, at least one in Korth. The party reached level 12 and intends to hand Noot to someone who can raise him.
-
-![Korth Ep 12 — The Price of Bread - Jessica Grimpledink, Zero of Sharn, Gemma, Eric and Dario - Upper city Sharn Penthouse.png](/images/uploads/korth-ep-12-the-price-of-bread-jessica-g-mu3lrroi.webp)
