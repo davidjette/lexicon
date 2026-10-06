@@ -41,8 +41,6 @@ Sharn Ep 18 — The Fall of Esther Crona is the eighteenth session of the Sharn 
 
 In the aftermath of [Malrik Zeir](/people/malrik-zeir/)'s death, [Esther](/people/esther-crona/) had arrived at the Zeir residence seizing [Calcifer](/people/calcifer/) and [Gemma](/people/gemma-corso/) and fleeing into the night. [Jessica](/people/jessica-grimpledink/) contacted [Lorian](/people/lorian/) through a sending stone, urging him to hold position and tend to the captives while she mobilized Nest forces. At the same time, [Henry Heinrick](/people/henry-heinrick/) broadcast a city-wide emergency alert announcing a full lockdown across Sharn.
 
-![Esther Crona above the towers of Sharn](/images/site/sharn-ep-18-the-fall-of-esther-crona-2.webp)
-*Esther Crona above the towers of Sharn.*
 
 ![Henry Heinrick reads the city-wide lockdown announcement after Malrik Zeir's death](/images/gallery/2026-06-01-05.webp)
 *Henry Heinrick reads the city-wide lockdown announcement after Malrik Zeir's death.*
@@ -64,15 +62,15 @@ The memory shattered Esther's composure. In a rage, she revealed the true faces 
 ![Esther turns on Henry Heinrick as Richard shields Calcifer](/images/album/sharn-ep-18-the-fall-of-esther-crona-richard-blaze-calcifer-henry-heinrick-and-e.webp)
 *Esther turns on Henry Heinrick as Richard shields Calcifer.*
 
-![The stat block for Esther's undead Honor Guard](/images/gallery/2026-05-21-02.webp)
-*The stat block for Esther's undead Honor Guard.*
 
 A battle broke out. Eric successfully turned one of the undead Honor Guards, forcing it to flee the fight. The other was knocked from the balcony. Esther repeatedly dropped all three heroes to low health, even killing Dario's mount. Richard used subtle sorcery to heal, bolster, and inspire the trio while protecting Calcifer.
 
-![The stat block for Lord Commander Esther Crona](/images/gallery/2026-05-21-01.webp)
-*The stat block for Lord Commander Esther Crona.*
 
-![Esther dives on Dario and Gemma across the penthouse balcony](/images/gallery/2026-06-01-01.webp)
+![Sharn Ep 18 — The Fall of Esther Crona - Calcifer with his Father Richard Blaze - Sharn Upper CIty Penthouse.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-cal-muvy7w9v.webp)
+
+
+![Sharn Ep 18 — The Fall of Esther Crona - Gemma, Dario, Eric and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-gem-muvyaig1.webp)
+
 *Esther dives on Dario and Gemma across the penthouse balcony.*
 
 ![Eric uses a Bigby's Hand to flick an Honor Guard off the balcony](/images/album/sharn-ep-18-the-fall-of-esther-crona-eric-using-bigby-hand-to-flick-esther-s-hon.webp)
@@ -97,7 +95,7 @@ Then her final command echoed across the towers:
 
 With the last of her strength, Esther telekinetically seized her airship, the Black Veil, and hurled it into the massive statue of Uriel above the Skyport. The explosion destroyed the statue. In her death, Esther fell from the balcony landing at the base of the Veil Building.
 
-![The Black Veil bears down on the statue of Uriel above the Skyport](/images/gallery/2026-05-29-01.webp)
+
 *The Black Veil bears down on the statue of Uriel above the Skyport.*
 
 ![Esther stands at the balcony rail as the statue above the Skyport explodes](/images/gallery/2026-06-01-06.webp)
