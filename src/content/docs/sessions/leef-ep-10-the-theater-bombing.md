@@ -43,13 +43,19 @@ published: '2026-09-14'
 
 After the fighting at Leef the arc went on to Newham, in JL's words "Forward to Newham with the 3 amigos." <small>(Oral Histories: The Inevitables, 2025-09-25)</small>
 
+![City of Newham - Front Gates.png](/images/uploads/city-of-newham-front-gates-mux37fpy.webp)*City of Newham Front gates and Train Station*
+
 In Newham a theater was bombed and people were harmed. Among them was a singer with element stones in her torso. Dave wrote the next morning, "I wonder if we were supposed to intervene and save the singer whoops" and "pull the element stones out of her torso". <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
+
+![Leef Ep 10 — The Theater Bombing - Gemma, Eric and Dario watch Paulina Gunter-Gooch sing - City of Newham Grand Theater.png](/images/uploads/leef-ep-10-the-theater-bombing-gemma-eri-mux39hrj.webp)
 
 The bombers were the **St. Stamos cultists**. JL, as DM: "When people in Newham think of “the rebels” they’re most likely to think of the St. Stamos cultists and their actions." Asked "Thats these radicals?", JL confirmed that "St. Stamos" is their war cry: "Yep. That’s their war cry." Gemma tried to get one of the cultists to follow the party so they could talk. Dave's reading was that "if we had captured them or fought them, maybe they'd end up our enemies". <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
 
 The bombing weighed on Dario. Dave wrote that Dario "is gunna feel very bad about letting people get harmed and will be v conflicted by the acts of terrorism", and that "we've gotta root out the rebels who would do this to innocents". Nico answered that the heroes of Leef had also "attacked the train station and blew up their shipments and killed guards"; Dave: "yeah but civilians is different". <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
 
 Before the party left for Newham they were warned that LeBeefe's Black Fortress could not be taken alone: LeBeefe was a tyrant, but "above all he is the most powerful sorcerer on the continent", his fortress was said to be alive with dark magic, and there was no chance of survival without an army. In Newham the Colonel's man was the halfling [Digma Beeve](/people/digma-beeve/), and the city's rebels were divided among themselves. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+![LeBeef's Black Castle - City of Newham.png](/images/uploads/lebeef-s-black-castle-city-of-newham-mux38634.webp)
 
 By the end of the session the party had a home base in Newham, "a home base baldurs gate style" in Dave's description. JL named a second lead: "There will be many quest hooks in town. This is just one of the first. There’s also the orc actress you could follow up on." <small>(Oral Histories: The Inevitables, 2025-09-27)</small>
 
