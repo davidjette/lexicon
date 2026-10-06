@@ -98,4 +98,3 @@ Locke landed at **Mt. Silicon**, a fortified Warforged stronghold, and led them 
 
 To the free states, it appeared the last chance for peace had died and a new weapon, quickly dubbed **"The Last Mourning,"** now loomed as the true end of the war. Two deadlines now ran against the party: Uriel's bells and Locke's device. Dario's wound carried the signs of Mistborn illness, and [Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) was dead, killed by the party aboard Locke Pierce's ship.
 
-![Korth Ep 3 — The Last Mourning - Eric, Gemma, Lorian and Dario in the Mournlands watching The Ruby Nova.png](/images/uploads/korth-ep-3-the-last-mourning-eric-gemma-mu3lireu.webp)
