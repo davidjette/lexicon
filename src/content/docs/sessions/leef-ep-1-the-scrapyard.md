@@ -14,7 +14,7 @@ tags:
   - Long night
   - Morlo Gint
 image:
-  src: /images/uploads/falcons-junk-yard-leef-2-mux3frdc.webp
+  src: /images/uploads/falcons-junk-yard-leef-2-mux4a6lf.webp
 sidebar:
   order: 151
 type: report
