@@ -17,7 +17,7 @@ tags:
   - Eric the Cleric
   - Esther Crona
 image:
-  src: /images/uploads/leef-ep-6-the-battle-of-leef-2-mux2tnhd.webp
+  src: /images/uploads/leef-ep-6-the-battle-of-leef-2-mux3gavd.webp
 sidebar:
   order: 156
 type: report
