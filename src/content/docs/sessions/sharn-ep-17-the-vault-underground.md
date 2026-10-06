@@ -15,7 +15,7 @@ tags:
   - Lorian
   - Hallorn d'Lyrandar
 image:
-  src: /images/uploads/sharn-ep-17-the-vault-underground-mu0s296g.webp
+  src: /images/uploads/sharn-ep-17-the-vault-underground-dario-muvxixu2.webp
 sidebar:
   order: 217
 type: report
@@ -39,31 +39,18 @@ wa:
 
 Outside the [Upper City](/places/the-upper-city/) safe house, the trio questioned a single captured [Children of Ember](/organizations/the-children-of-ember/) cultist, a frightened young woman who revealed that every masked cultist had once been "Father" [Malrik Zeir](/people/malrik-zeir/)'s cattle, personally groomed and reshaped by the Mother Prophet, [Faith](/people/faith/). Uneasy with killing her, they left the girl tied to a chair outside while they regrouped.
 
-![The stat block for a Children of Ember cultist](/images/gallery/2026-05-13-03.webp)
-*The stat block for a Children of Ember cultist.*
-
 [Jessica](/people/jessica-grimpledink/) arrived soon after and led them through a hidden tunnel beneath the safe house into [The Nest](/organizations/the-nest/), her fortified Upper City command center. Once everyone was inside, she collapsed the tunnel behind them; [Hallorn](/people/hallorn-d-lyrandar/) and the Children of Ember knew the safe house's location, and it could no longer be trusted. In The Nest, Jessica briefed them on the worsening war in the West, [Crona's Wall](/places/cronas-wall/) freezing [Lake Galifar](/places/lake-galifar/), rising [Red Khyber](/items/red-khyber/) activity, the looming [Sharn Broadcast Override](/lore/the-sharn-broadcast-override/), and, with [Lorian](/people/lorian/)'s intel, a full breakdown of the [Vault Underground](/places/the-vault-underground/) and the trafficking network beneath it. She also upgraded their sending stones into a single linked device.
 
 After weighing their options, the trio chose to strike the Vault Underground first.
 
+![Sharn Ep 17 — The Vault Underground -  Lorian, Dario, Eric and Gemma in the Sharn upper city Club The Vault Underground.png](/images/uploads/sharn-ep-17-the-vault-underground-lorian-mu3ldp37.webp)
+
+
 With Lorian guiding them, they entered the club without issue and used their VIP pass to reach the lower levels. The tone shifted immediately once they reached the private residence. As they moved deeper, Jessica sent a sudden message: [Calcifer](/people/calcifer/) and [Richard](/people/richard-blaze/) had been taken by the Children of Ember. Pressing forward, they found a ritual room where cultists were performing a ceremony over a bound and terrified [Whole Foods](/people/whole-foods/), Calcifer's nanny. The trio cut the cultists down and freed her.
 
-![The Vault Underground VIP pass, granting access to all three levels](/images/gallery/2026-05-15-02.webp)
-*The Vault Underground VIP pass, granting access to all three levels.*
-
-![The Vault Underground drink menu](/images/gallery/2026-05-15-03.webp)
-*The Vault Underground drink menu.*
 
 Upstairs, the situation spiraled. Recruiters attacked from multiple angles. Hallorn confronted them. Malrik joined the fight. [Gemma](/people/gemma-corso/) was chained and dragged away. Calcifer was trapped in the bedroom. A recruiter and the Mother Prophet herself appeared, chasing after Malrik as he fled with both Gemma and Calcifer to the rooftop pool deck.
 
-![The stat block for a Recruiter, armed with Umbra syringes](/images/gallery/2026-05-13-02.webp)
-*The stat block for a Recruiter, armed with Umbra syringes.*
-
-![The stat block for Hallorn d'Lyrandar](/images/gallery/2026-05-13-04.webp)
-*The stat block for Hallorn d'Lyrandar.*
-
-![The stat block for Faith Zeir, the Mother Prophet](/images/gallery/2026-05-14-02.webp)
-*The stat block for Faith Zeir, the Mother Prophet.*
 
 There, [Dario](/people/sir-dario-argentino/) unleashed a devastating series of blows, killing Malrik outright. His vampire mist escaped into his coffin, but his body was destroyed.
 
@@ -71,12 +58,13 @@ And then everything changed.
 
 [Esther](/people/esther-crona/) descended from her ship just as Malrik fell. She saw her son in danger, Gemma chained, the Mother Prophet running, and the trio standing over Malrik's corpse. Without hesitation, she stabbed the Mother Prophet through the chest, ending her in a single, decisive strike. As Faith collapsed, [Eric](/people/eric-the-cleric/) delivered the final blow.
 
-![Esther Crona descends on Dario and Eric at the Zeir residence](/images/album/sharn-ep-17-the-vault-underground-dario-eric-and-esther-crona-zeir-s-upper-city.webp)
-*Esther Crona descends on Dario and Eric at the Zeir residence.*
 
 Dario shouted that he knows what [Uriel](/people/uriel-qualanthri/) had done to Calcifer, and Esther froze for a moment. She seized Calcifer, grabbed the chain attached to Gemma, and without another word lifted off into the night sky towards her penthouse.
 
 The trio was left standing on the blood-stained rooftop, the city roaring below them, knowing with absolute certainty that their next confrontation would be with Esther Crona.
+
+![Esther Crona descends on Dario and Eric at the Zeir residence](/images/album/sharn-ep-17-the-vault-underground-dario-eric-and-esther-crona-zeir-s-upper-city.webp)
+*Esther Crona descends on Dario and Eric at the Zeir residence.*
 
 ## Revelations
 
@@ -96,5 +84,3 @@ The trio was left standing on the blood-stained rooftop, the city roaring below 
 Both Zeirs died in one night and the [Children of Ember](/organizations/the-children-of-ember/) were finished as a faction. Gemma went up to the penthouse in chains, Calcifer went with his mother, and the trio's last unresolved thread narrowed to a single confrontation. The Upper City safe house was abandoned and its tunnel collapsed.
 
 In Nico's notes for the aftermath, Lorian stayed with Malrik's captives and tended them with Nest healers, and saw Richard at Malrik's. After Esther's fall, Digma Beeve's cover story for Richard and Calcifer put the dead Zeirs on Richard's private airship, and it held because the Children of Ember were already dead from the assault on the Vault Underground. At the first Council of Sharn the Silver Flame asked to cleanse the Zeir residence, and Blair asked for the Vault Below: "Faith is dead; Blair wants the club." <small>(Nico's DM notes, Episode 19)</small>
-
-![Sharn Ep 17 — The Vault Underground -  Lorian, Dario, Eric and Gemma in the Sharn upper city Club The Vault Underground.png](/images/uploads/sharn-ep-17-the-vault-underground-lorian-mu3ldp37.webp)
