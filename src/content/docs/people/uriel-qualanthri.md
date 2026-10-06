@@ -211,8 +211,8 @@ Dave: "she has had many miscarriages from failed attempts but has the emperor co
 
 As the Penitent Empress, Uriel was already pregnant with **the Scion**. <small>(Oral Histories: The Inevitables, 2025-06-07)</small> Her cult's purpose was the dragon's blood, used to make a dragon spawn that she would carry or raise. <small>(Oral Histories: The Inevitables, 2025-06-07)</small> The doctrine she brings to the faith of the Sovereign Host is "Installing her self + unborn son as the eight Sovereign of course" <small>(sic)</small>: a pregnant god of life and death, the reincarnation of Erandis Vol, "birthing a race marked with the dragonmark of Death and ascending to rule the Host as its sole primateur". She secretly means never to deliver the son. Dave: "She secretly plans to never bear her child the heir and dragon incarnate, instead to siphon its power into her own, turning it into a living phalactery" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2025-10-19)</small> Both Valtrex and LeBeefe connect the dragon blood she took to "her scheme to birth the next dragon messiah". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
-![A crowned elf woman in white with a flaming scythe and a glowing belly, among skull-faced armoured soldiers](/images/gallery/2026-01-14-01.webp)
-*The Empress with child, among her dead.*
+![Uriel, crowned and in white, her eyes and her belly glowing, strides over a battlefield with a scythe as soldiers cry out below](/images/portraits/uriel-qualanthri-with-child.webp)
+*The Empress with child, on the battlefield.*
 
 ## Eternal Nightfall
 
