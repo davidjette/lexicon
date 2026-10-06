@@ -77,5 +77,3 @@ In the morning the trio blasted apart the dwarven stair-gate, whose key had snap
 ## Consequences
 
 Dario woke fully recovered, one-eyed, the diamond gleaming in the socket. The Mountain Door was secured behind them and the way into the Glitterhame stood open. The whispers Eric had been hearing had stirred again at the trophy skull, and he told no one.
-
-![Korth Ep 6 — The Long Night at the Mountain Door - Eric and Gemma in disguise while dario heals.png](/images/uploads/korth-ep-6-the-long-night-at-the-mountai-mu3nmipy.webp)
