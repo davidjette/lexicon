@@ -20,7 +20,7 @@ tags:
   - Tomb of Kaius I
   - Fountain of Mercy
 image:
-  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-dari-mukj3vvf.webp
+  src: /images/uploads/korth-ep-15-the-stairs-of-her-mercy-dari-mux21dcj.webp
 sidebar:
   order: 315
 type: report
@@ -69,8 +69,6 @@ Pork Broccoli, the dworc carriage driver, drove them to the Plaza of the Martyrs
 ![The party with Pork Broccoli outside the Grand Lodge](/images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-outside-the.webp)
 *The party with Pork Broccoli outside the Grand Lodge.*
 
-![Pork Broccoli](/images/album/korth-ep-15-the-stairs-of-her-mercy-driver-pork-broccoli.webp)
-*Pork Broccoli.*
 
 Inside the Counting House, General Thar, with two officers, two dark druids of his staff and a room's worth of death troopers, had cornered [Director Aurel Kesk](/people/aurel-kesk/). Thar's voice is ruined. He raised a hand, and the officer in front of him pulled at his collar until he lowered it.
 
@@ -80,9 +78,6 @@ Kesk answered that he counts money, that he had not been up the stairs or to the
 
 ![General Thar and his staff in the Counting House](/images/uploads/korth-ep-15-the-stairs-of-her-mercy-dari-mukjvq91.webp)
 *General Thar and his staff in the Counting House.*
-
-![Director Aurel Kesk](/images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-mukjf7yz.webp)
-*Director Aurel Kesk.*
 
 Kesk passed the Advocate to Sub-Auditor **Corvan Bleek**, who was in Eric's intake twenty years ago. By old tradition, Bleek said, the military is not allowed up the stairs, and Imperial power stops at the edge of the hill. He named the sisters by the colour of their habits: white, black, the green who are healers, and the red who take care of the Emperor. While he talked, an officer offered a man in a swashbuckler's coat his condolences on an aunt, and the swashbuckler paid Bleek a bag of platinum for a load of sealed hazardous-materials containers. Dario followed them by carriage straight to the Lodge and around the back.
 
@@ -94,8 +89,6 @@ In the commissary Eric recognised [Ilma Vitt](/people/ilma-vitt/), the dwarf who
 ![The records room, with Ilma Vitt](/images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-records-roo.webp)
 *The records room, with Ilma Vitt.*
 
-![Wardress Ilma Vitt](/images/uploads/korth-ep-15-the-stairs-of-her-mercy-the-mukjfpta.webp)
-*Wardress Ilma Vitt.*
 
 Kesk came back with troopers holding Vitt and accused Deirdre of ordering her out without a warrant. Eric produced the *hold person* scroll as a warrant signed by the Magister, and Deirdre carried it. *"I can't believe that Merkin, of all people, would pull this."* His men dragged Vitt into his office and beat her until Deirdre demanded her as a witness. Kesk let her go, told Deirdre that [Freyd Merkin](/people/vice-admiral-freyd-merkin/) could forget the favour Kesk had planned for him, warned her that more important people than he would be upset if she held too hard to the letter of the law, and offered to make her cooperation worth her while. Vitt told them to get out, and went to the pilgrim camp, where she sleeps most nights, to meet them later.
 
@@ -115,9 +108,6 @@ In the crowd they heard that the Empress heals in person but touches only five o
 ![The party with Bran Flakes and Frosted Flakes on Relic Row](/images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-with-bran-f.webp)
 *The party with Bran Flakes and Frosted Flakes on Relic Row.*
 
-![Bran Flakes and Frosted Flakes](/images/album/korth-ep-15-the-stairs-of-her-mercy-bran-flakes-and-frosted-flakes-market-plaza.webp)
-*Bran Flakes and Frosted Flakes.*
-
 Instead of paying, Gemma recast *seeming* behind the stables, and the three became Black Doves: Gemma as the novice she had been in Korth, Eric as an old nun, and Dario as a winged aasimar sister. Gemma's performance carried them past the guards. Every landing on the stairs is an altar, each once built for one of the Sovereign Host and rededicated to the Mother. At the first great altar they overheard **Tamsin Vell**, a vine-dresser who climbs there every morning to pray for a son missing at the front, and **Lord Aldric and Lady Sabine Varenne**, who had come to hunt and to watch the pilgrims, and whose family silver had just gone down to the estate appraiser at the Lodge. [Captain Jim Smallberries](/people/captain-jim-smallberries/) was there on a delivery pass. Above a holy tree that was once a nature god's altar, the statue of Uriel stands with a shield and an imperial crown over a fountain at her feet, and Dario spat into it. Asked how his faith was holding up, Eric said he cares about maths, not the gods.
 
 ![Gemma's disguise: the novice she had been in Korth](/images/album/black-dove-nun.webp)
@@ -126,14 +116,9 @@ Instead of paying, Gemma recast *seeming* behind the stables, and the three beca
 ![Dario's disguise: a winged aasimar sister](/images/album/black-dove-assimar.webp)
 *Dario's disguise: a winged aasimar sister.*
 
-![Gemma, Eric and Dario as Black Doves](/images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise.webp)
-*Gemma, Eric and Dario as Black Doves.*
 
 ![The Stairs of Her Mercy](/images/album/korth-ep-15-the-stairs-of-her-mercy-the-stairs-of-her-mercy.webp)
 *The Stairs of Her Mercy.*
-
-![A white knight of the Black Doves on the stairs](/images/album/korth-ep-15-the-stairs-of-her-mercy-black-dove-white-knight-the-stairs-of-her-me.webp)
-*A white knight of the Black Doves on the stairs.*
 
 At the top, the floating object hangs over the cathedral forecourt, sharp-edged, its surface swirling grey, pink, white and sometimes black, reflecting the sky and bending it. Four strangely dressed sisters stand one to a side staring up at it. Gemma felt sick at the sight of it, and Eric felt a rush of hate. His *detect magic* showed enchantment, with transmutation holding it aloft, and he judged it a store of immense power that can cast spells: Uriel's focus. Just inside the nave stands a great fountain of glittering pale blue water, and Gemma knew it as the fountain from her vision with [Kitsune](/people/kitsune/), where it ran with blood. The session ended at the Tomb of Kaius I, which carries abjuration magic, with the party arguing about whether to break into it.
 
