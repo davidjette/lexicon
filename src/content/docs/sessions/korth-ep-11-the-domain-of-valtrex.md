@@ -48,6 +48,11 @@ Standing beside [the Thirteenth Casting](/items/the-thirteenth-casting/), [Eric 
 
 At the black lake the party were ambushed by the black dragon [Valtrex](/species/valtrex/) — alive, airborne, and wearing a bell locked around his neck. On the far platform stood an Imperial rig built to harpoon, restrain and drain him. [Eric the Cleric](/people/eric-the-cleric/) teleported onto Valtrex's back and shattered the collar with an adamantine mace. Freed, Valtrex destroyed the rig himself and cast *speak with dead* on the crowned corpse atop his hoard. Now that he was no longer insane, negotiations with the dragon followed. Valtrex demanded total domain over the mountain and the servitude of the Teryaki clan, who he claimed violated their pact. Dario, speaking Draconic, offered a Ring of Lesser Wish and secured both KNELL and the Crown of Seven Stars.
 
+![Korth Ep 11 — The Domain of Valtrex - Eric breaking the chained bell around Veltex neck.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-eric-b-mu3lqe5a.webp)
+
+![Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise](/images/gallery/2026-08-27-01.webp)
+*Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise.*
+
 ## Revelations
 
 - The Empire has been **bleeding the dragon for three years** and shipping the blood out by rail.
@@ -64,7 +69,3 @@ At the black lake the party were ambushed by the black dragon [Valtrex](/species
 
 Gemma's alarm signalled an intruder at the bell: Hetta, fungus-infected, casting at the casting. The bell rang, driving the foundry, the camp and the dead in the lake into a shared frenzy. The party snapped free to save Bofric, and [Sir Dario Argentino](/people/sir-dario-argentino/) broke the Thirteenth Casting with [KNELL](/items/knell/), deafening himself and Bofric, while Eric turned the risen dead back down the shaft. Dario then destroyed every remaining cast bell in the Bladeworks; Valtrex destroyed the original moulds. The Tsos refused to evacuate and chose to renew their pact with the dragon. Only Bofric left with them. The trio escaped into the forest as Valtrex circled the peak, claiming the Korramont as his domain.
 
-![Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise](/images/gallery/2026-08-27-01.webp)
-*Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise.*
-
-![Korth Ep 11 — The Domain of Valtrex - Eric breaking the chained bell around Veltex neck.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-eric-b-mu3lqe5a.webp)
