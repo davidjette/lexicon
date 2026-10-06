@@ -44,6 +44,9 @@ They cleared a long-abandoned kitchen of undead and found sealed barrels of Old 
 ![Gemma Corso and Eric the Cleric fight undead in the abandoned kitchen](/images/gallery/2026-08-15-07.webp)
 *Gemma Corso and Eric the Cleric fight undead in the abandoned kitchen.*
 
+![Korth Ep 10 — Tunnel to the Abyss - Dario fighting Undead.png](/images/uploads/korth-ep-10-tunnel-to-the-abyss-dario-fi-muw0zo3g.webp)
+*Dario fights undead in the abandoned kitchen.*
+
 ![Gemma Corso finds Egg Roll's small footprints by the rock wall of the Glitterhame](/images/gallery/2026-08-15-04.webp)
 *Gemma Corso finds Egg Roll's small footprints by the rock wall of the Glitterhame.*
 
@@ -70,4 +73,4 @@ They squeezed through single-file and followed the trail up into a forgotten dra
 
 One demonic incursion was closed and one child was still gone. The tunnel opened into a vast rocky cavern directly beneath the forge room, beneath the hanging bell itself. The footprints ended here. Egg Roll was somewhere above them.
 
-![Korth Ep 10 — Tunnel to the Abyss - Gemma and Eric fighting Undead.png](/images/uploads/korth-ep-10-tunnel-to-the-abyss-gemma-an-mu3lp4m5.webp)
+
