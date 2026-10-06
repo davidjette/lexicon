@@ -92,11 +92,6 @@ Gemma took Dario through the window by *dimension door* and Eric followed by *mi
 
 Maelis Dorn, Gemma's mother superior in Korth, stepped in. *"If you stop the ritual, she'll die. I didn't think I'd ever see you again, Apollonia. You were always a terrible sister, and now you're proving me right."* — *"I came back to get my report card."* Dorn rang a black iron handbell, tried to banish Gemma and hold Dario, took a dagger in the thigh from Eric, sealed the door behind her with her ring, and called through it: *"Pathetic one. Enough of the demonstration. Complete your task."* Zero-One rose into the air and poured her power into the body. Eric's *remove curse* did nothing. Dorn boiled his blood with *harm*. Zero-One collapsed, and Esther Crona sat up and lifted off the slab, dripping blood: *"Where is Richard Blaze? Which restaurant is he at?"*
 
-![Sister-Inquisitor Maelis Dorn](/images/album/korth-ep-16-orientation-day-maelis-dorn.webp)
-*Sister-Inquisitor Maelis Dorn.*
-
-![A battle sister of the Black Doves](/images/album/korth-ep-16-orientation-day-battle-sister.webp)
-*A battle sister of the Black Doves.*
 
 ![Gemma, Dario and the sisters fight across the slab room](/images/album/korth-ep-16-orientation-day-the-fight.webp)
 *Gemma, Dario and the sisters fight across the slab room.*
