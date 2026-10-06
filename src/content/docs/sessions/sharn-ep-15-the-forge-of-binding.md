@@ -68,6 +68,10 @@ Varyn's Echo manifested, repeating fragments of his final moments rather than fi
 
 His form shattered into red-black light, hanging in the air like blood splatter as the Forge went dark.
 
+
+![Sharn Ep 15 — The Forge of Binding - Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-muvx9hdi.webp)
+
+
 Moments later, a massive drill broke through the ceiling. [Blair](/people/blair/) burst from a hidden tunnel, shouting for the trio to follow. As they escaped, they saw the drill crash to the floor and [Esther](/people/esther-crona/) drop down onto it, striding toward the extinguished Forge.
 
 
