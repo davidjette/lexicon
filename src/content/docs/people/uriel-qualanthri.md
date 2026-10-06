@@ -176,7 +176,8 @@ Asked what the Empress would do about a messiah Esther might already have borne,
 
 Esther Crona's dying command, carried on every screen in the city, was to kill Empress Uriel Qualanthri. The Inevitables have been moving toward the Ivory Lazaret ever since.
 
-![The Black Veil bears down on the statue of Uriel above the Skyport](/images/gallery/2026-05-29-01.webp)
+
+![Sharn Ep 18 — The Fall of Esther Crona - Black Veil Crash 3.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-bla-muvyylff.webp)
 *The Black Veil bears down on the statue of Uriel above the Skyport in Sharn.*
 
 ## The wedding
