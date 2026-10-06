@@ -39,17 +39,48 @@ wa:
 
 Outside the [Upper City](/places/the-upper-city/) safe house, the trio questioned a single captured [Children of Ember](/organizations/the-children-of-ember/) cultist, a frightened young woman who revealed that every masked cultist had once been "Father" [Malrik Zeir](/people/malrik-zeir/)'s cattle, personally groomed and reshaped by the Mother Prophet, [Faith](/people/faith/). Uneasy with killing her, they left the girl tied to a chair outside while they regrouped.
 
-[Jessica](/people/jessica-grimpledink/) arrived soon after and led them through a hidden tunnel beneath the safe house into [The Nest](/organizations/the-nest/), her fortified Upper City command center. Once everyone was inside, she collapsed the tunnel behind them; [Hallorn](/people/hallorn-d-lyrandar/) and the Children of Ember knew the safe house's location, and it could no longer be trusted. In The Nest, Jessica briefed them on the worsening war in the West, [Crona's Wall](/places/cronas-wall/) freezing [Lake Galifar](/places/lake-galifar/), rising [Red Khyber](/items/red-khyber/) activity, the looming [Sharn Broadcast Override](/lore/the-sharn-broadcast-override/), and, with [Lorian](/people/lorian/)'s intel, a full breakdown of the [Vault Underground](/places/the-vault-underground/) and the trafficking network beneath it. She also upgraded their sending stones into a single linked device.
+
+![Sharn Ep 17 — The Vault Underground - Gemma, Eric and Dario interrogating captive Children of Ember cultist Valerie - Outside Sharn Upper city safe house.png](/images/uploads/sharn-ep-17-the-vault-underground-gemma-muvxudxi.webp)
+
+
+[Jessica](/people/jessica-grimpledink/) arrived soon after and led them through a hidden tunnel beneath the safe house into [The Nest](/organizations/the-nest/), her fortified Upper City command center. Once everyone was inside, she collapsed the tunnel behind them; [Hallorn](/people/hallorn-d-lyrandar/) and the Children of Ember knew the safe house's location, and it could no longer be trusted. 
+
+
+![Sharn Ep 17 — The Vault Underground - Dario, Eric, Jessica, Gemma and Lorian - Sharn Upper City - The Nest.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muvxn4u9.webp)
+
+
+In The Nest, Jessica briefed them on the worsening war in the West, [Crona's Wall](/places/cronas-wall/) freezing [Lake Galifar](/places/lake-galifar/), rising [Red Khyber](/items/red-khyber/) activity, the looming [Sharn Broadcast Override](/lore/the-sharn-broadcast-override/), and, with [Lorian](/people/lorian/)'s intel, a full breakdown of the [Vault Underground](/places/the-vault-underground/) and the trafficking network beneath it. She also upgraded their sending stones into a single linked device.
 
 After weighing their options, the trio chose to strike the Vault Underground first.
 
 ![Sharn Ep 17 — The Vault Underground -  Lorian, Dario, Eric and Gemma in the Sharn upper city Club The Vault Underground.png](/images/uploads/sharn-ep-17-the-vault-underground-lorian-mu3ldp37.webp)
 
 
+![Sharn Ep 17 — The Vault Underground -  Private Booth for The Velvet Table Society -  Candy Crush, Henry Heinrick, Recruiters and others.jpg](/images/uploads/sharn-ep-17-the-vault-underground-privat-muvxnvl6.webp)
+
+
 With Lorian guiding them, they entered the club without issue and used their VIP pass to reach the lower levels. The tone shifted immediately once they reached the private residence. As they moved deeper, Jessica sent a sudden message: [Calcifer](/people/calcifer/) and [Richard](/people/richard-blaze/) had been taken by the Children of Ember. Pressing forward, they found a ritual room where cultists were performing a ceremony over a bound and terrified [Whole Foods](/people/whole-foods/), Calcifer's nanny. The trio cut the cultists down and freed her.
 
 
+![Sharn Ep 17 — The Vault Underground - Dario, Eric, Gemma and Lorian in battle with Children of Ember Cultist.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muvxp53q.webp)
+
+
 Upstairs, the situation spiraled. Recruiters attacked from multiple angles. Hallorn confronted them. Malrik joined the fight. [Gemma](/people/gemma-corso/) was chained and dragged away. Calcifer was trapped in the bedroom. A recruiter and the Mother Prophet herself appeared, chasing after Malrik as he fled with both Gemma and Calcifer to the rooftop pool deck.
+
+
+![Sharn Ep 17 — The Vault Underground - Dario rushing Malrik Zeir -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muvxqac5.webp)
+
+
+![Sharn Ep 17 — The Vault Underground - Halorn, Lorian and Eric in battle in Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-halorn-muvxrgn6.webp)
+
+
+![Sharn Ep 17 — The Vault Underground - Eric's celestial Ada and creepy Recruiter in battle in Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-eric-s-muvxs70s.webp)
+
+
+![Sharn Ep 17 — The Vault Underground - Gemma and Malrik Zeir-  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-gemma-muvxslaz.webp)
+
+
+![Sharn Ep 17 — The Vault Underground - Eric and Lorian in battle with Recruiters -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-eric-a-muvxqyba.webp)
 
 
 There, [Dario](/people/sir-dario-argentino/) unleashed a devastating series of blows, killing Malrik outright. His vampire mist escaped into his coffin, but his body was destroyed.
@@ -60,6 +91,10 @@ And then everything changed.
 
 
 Dario shouted that he knows what [Uriel](/people/uriel-qualanthri/) had done to Calcifer, and Esther froze for a moment. She seized Calcifer, grabbed the chain attached to Gemma, and without another word lifted off into the night sky towards her penthouse.
+
+
+![Sharn Ep 17 — The Vault Underground - Dario, Beast Malrik, Gemma, Calcifer and Faith -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muvxtpsd.webp)
+
 
 The trio was left standing on the blood-stained rooftop, the city roaring below them, knowing with absolute certainty that their next confrontation would be with Esther Crona.
 
