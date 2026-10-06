@@ -61,7 +61,7 @@ More pointedly: **any record naming a specific dragon has been removed by order.
 
 Scholars work and loiter here at all hours, because it is where the writing is. It is nice to hear the Korthish accent in the stacks. On the **second level** they sit reading and gossiping, and it was there that the Inevitables overheard scholars discussing a black dragon sighted over the Korramont — and found [Master Armhair](/people/master-armhair/).
 
-On the **third level** sits a non-binary dwarf clerk who forges **identity papers and weapon registrations** for a shakedown or a bribe, writing a description into a book, drawing a portrait onto the page with a wand, and stamping an official seal on it. This is where [Dario](/people/sir-dario-argentino/) became **Sky Rizzy** and where every weapon he carried was logged on Form 7-168 except KNELL. [Jelton Ahn](/people/jelton-ahn/) uses the same clerk to move his wife to Kabara. The clerk loathes her.
+On the **third level** sits a non-binary dwarf clerk who forges **identity papers and weapon registrations** for a shakedown or a bribe, writing a description into a book, drawing a portrait onto the page with a wand, and stamping an official seal on it. This is where [Dario](/people/sir-dario-argentino/) became **Sky Rizzy** and where every weapon he carried was logged on Form 7-168 except Knell. [Jelton Ahn](/people/jelton-ahn/) uses the same clerk to move his wife to Kabara. The clerk loathes her.
 
 Somewhere in the stacks, shelved under a false index as a treatise on the **mating habits of the creatures of the Underdark**, sits the only complete family tree of Eberron's dragons — hidden in the Empire's own archive by the man the Empire consults about dragons.
 

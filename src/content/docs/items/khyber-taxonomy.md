@@ -18,7 +18,7 @@ tags:
 - BioTec
 icon: fa-gem
 fields:
-  significance: The material basis of the Fatanya Nyel, of KNELL, and of the Empire's Mournland mining programme
+  significance: The material basis of the Fatanya Nyel, of Knell, and of the Empire's Mournland mining programme
   type: Mythic planar ore, in three named varieties
   color: Black (Shavat), red, white
   commonUses: Bells, weapons, tools and ingots (black); unstated Imperial industrial use (red); myth (white)
@@ -64,7 +64,7 @@ Its properties, as established on screen:
 
 - Tempered and shaped by a dwarven method itself likely derived from something infernal, the resulting body vibrates in sympathy with the arcane forces governing life and death. This is what makes [the Black Noise](/lore/the-black-noise/) possible.
 - It can be worked into ordinary arms and tools. The Bladeworks floor was littered with weapons, tools and ingots of it, and the party took what they could carry.
-- [KNELL](/items/knell/) is made of it. So is every bell it breaks. The hammer and the target are the same substance.
+- [Knell](/items/knell/) is made of it. So is every bell it breaks. The hammer and the target are the same substance.
 - [Dario](/people/sir-dario-argentino/)'s theory of the foundry: the enslaved dwarves were transmuting black Khyber into a *more complex crystalline form*, able to take imprinted arcane sigils dictated by the elves who enslaved them.
 
 The seams are, in the assessment of Locke Pierce's metallurgists, **the hardest and oldest known rock in Eberron**. The Korranberg mountain was one. Its molds are now at the bottom of an acid lake and nothing is cast from it again.

@@ -15,7 +15,7 @@ tags:
 - Ronaldo Weasley
 - Silver Flame
 - The Inevitables
-- KNELL
+- Knell
 - Fantanya Nyel
 - Couatl
 - Mortimer Bunk
@@ -102,7 +102,7 @@ gallery:
 
 Sir Dario Argentino is a dragonborn paladin, Squire Templar of the Silver Flame, a blacksmith, a member of **the Inevitables**, and the only person recorded to have destroyed a **Fantanya Nyel**. He was born and raised in a jungle near Q'barra and took the oath of the Silver Flame — a religion outlawed by the Empire — because it is his family's trade, as all the strong ones of clan Dawnmantle do. He met [Gemma Corso](/people/gemma-corso/) and [Eric the Cleric](/people/eric-the-cleric/) in the rail-town of Leef, where they were named the Heroes of Leef; went west to Newham and killed Grand Duke John C. LeBeefe; fought through the rising at Sharn, and afterwards spent three years on the Thrane front leading cavalry against undead E.D.E.N. units.
 
-Beneath the [Korramont](/places/the-korramont/) the orc war-chief **Braga Kul** killed him; Eric brought him back with a diamond, which sits in the eye socket he lost. On the hoard of the black dragon [Valtrex](/species/valtrex/) he lifted King Corn's warhammer out of the crowned corpse's arms, and with the hammer the kin named **KNELL** he has destroyed the Thirteenth Casting, every small casting in the Bladeworks, the crated bell in the unfinished tower above the Black Dove hospital and one in a temple of Boldrei in Sharn's lower city. He is now on a river boat to the Summer Palace.
+Beneath the [Korramont](/places/the-korramont/) the orc war-chief **Braga Kul** killed him; Eric brought him back with a diamond, which sits in the eye socket he lost. On the hoard of the black dragon [Valtrex](/species/valtrex/) he lifted King Corn's warhammer out of the crowned corpse's arms, and with the hammer the kin named **Knell** he has destroyed the Thirteenth Casting, every small casting in the Bladeworks, the crated bell in the unfinished tower above the Black Dove hospital and one in a temple of Boldrei in Sharn's lower city. He is now on a river boat to the Summer Palace.
 
 ## Physical description
 
@@ -172,15 +172,15 @@ Dario fought at Breaker's Pit, crossed the Grand Aqueduct into the Underhive, cl
 
 At the Mountain Door beneath the Korramont, the orc war-chief **Braga Kul** opened Dario's skull and killed him. Eric brought him back with a diamond, and the cost was permanent: he is blind in one eye and the revivification diamond sits gleaming in the empty socket. The table's note at the time was that he now has a diamond head like the Empress — twinning. He came out of that death with a vision of dragons and white sands that has not been decoded.
 
-## KNELL
+## Knell
 
 Deep beneath the mountain, on the hoard of the black dragon **Valtrex**, lay the crowned corpse of **King Corn** of the Deeptempura with a warhammer folded into its arms. The dragon had just been freed from a three-year Imperial bleeding-rig, and his position on ownership was unambiguous: *"That hammer doesn't belong to King Corn. It belongs to me. So does his crown."* Dario stepped forward, spoke in Draconic, rolled 21, laid a Ring of Lesser Wish on the hoard, and lifted the hammer out of the corpse's arms — heavy even for him — along with the Crown of Seven Stars.
 
-The kin named it **KNELL**. Bofric the runesmith had already told them that the horn only masks a bell while it plays, and that breaking one requires the hammer that made it.
+The kin named it **Knell**. Bofric the runesmith had already told them that the horn only masks a bell while it plays, and that breaking one requires the hammer that made it.
 
 ## Breaking the bells
 
-Dario is the only person recorded to have destroyed a Fantanya Nyel, and he has done it repeatedly. A bell struck with KNELL does not ring: the crack runs across it, the metal loses its symmetry and folds in on itself in a lopsided cyclone, dropping so hot it can light straw. The recoil throws him backwards; breaking a Master casting deafened him and the dwarf standing next to him for hours.
+Dario is the only person recorded to have destroyed a Fantanya Nyel, and he has done it repeatedly. A bell struck with Knell does not ring: the crack runs across it, the metal loses its symmetry and folds in on itself in a lopsided cyclone, dropping so hot it can light straw. The recoil throws him backwards; breaking a Master casting deafened him and the dwarf standing next to him for hours.
 
 He has destroyed the **Thirteenth Casting**, every small casting in the Bladeworks, the crated bell in the unfinished tower above the Black Dove hospital, and one in a small temple of Boldrei in Sharn's lower city. That last strike brought the whole tower down through the floor into the building below, buried him, and turned against the party the crowd Gemma had just pacified.
 
@@ -202,7 +202,7 @@ Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth
 
 **Items:**
 
-- **KNELL** — King Corn's personal black-Khyber warhammer, older than the bells themselves, taken out of a crowned corpse's arms on the hoard of a black dragon. Traded for a Ring of Lesser Wish. Not logged on any Imperial weapon registration.
+- **Knell** — King Corn's personal black-Khyber warhammer, older than the bells themselves, taken out of a crowned corpse's arms on the hoard of a black dragon. Traded for a Ring of Lesser Wish. Not logged on any Imperial weapon registration.
 - **Pale Fire** — his sword, carried through the Sharn rising and the Korramont; elemental cold was bound into a weapon of his at the Forge of Binding.
 - **Esther Crona's armour** — commissioned for the Lord Commander of Sharn, found in the Crona penthouse, fits him with uncanny precision. He chose it as the foundation of his Korth disguise.
 - **A tower shield and a sentinel shield** — he swaps to the tower shield specifically for breath weapons.

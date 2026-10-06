@@ -71,7 +71,7 @@ He also read the mark on the bell itself: **the master's insignia stamped upside
 |  |  |
 |---|---|
 | **The horn's limit** | It masks while it plays, where it is heard, and no further. Bofric was explicit about this in the same breath as the discovery. |
-| **The hammer's requirement** | *"To break the bell, you would need to break it with the hammer that made it."* Resonance can be answered by resonance; it can only be *ended* by [KNELL](/items/knell/). |
+| **The hammer's requirement** | *"To break the bell, you would need to break it with the hammer that made it."* Resonance can be answered by resonance; it can only be *ended* by [Knell](/items/knell/). |
 
 ## Who can practise it
 

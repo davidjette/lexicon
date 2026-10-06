@@ -59,7 +59,7 @@ Masterwork carvings in the stair chamber of the Deep Tempura Clan record the oth
 
 Found alive, airborne, insane and **wearing a bell locked around his neck** in the flooded cavern beneath the foundry. On the far platform stood an Imperial rig built to harpoon, restrain and drain him: the Empire had been bleeding the dragon for three years and shipping the blood out by rail. [Eric](/people/eric-the-cleric/) teleported onto his back and shattered the collar with an adamantine mace; freed, Valtrex destroyed the rig himself, and the madness lifted with the bell.
 
-What the species is capable of, observed: flight in an enclosed cavern; acid, in water that smelled of it and stone that reeked; drag marks described as *large and reptilian*; *speak with dead* cast on the crowned corpse atop his own hoard; fluent negotiation in Draconic; and a hoard that included the Crown of Seven Stars and the black-Khyber warhammer KNELL. He demanded total domain over the mountain and the servitude of the Teryaki clan, took a Ring of Lesser Wish for the hammer and the crown, destroyed the original bell moulds himself, and ordered the Inevitables never to return.
+What the species is capable of, observed: flight in an enclosed cavern; acid, in water that smelled of it and stone that reeked; drag marks described as *large and reptilian*; *speak with dead* cast on the crowned corpse atop his own hoard; fluent negotiation in Draconic; and a hoard that included the Crown of Seven Stars and the black-Khyber warhammer Knell. He demanded total domain over the mountain and the servitude of the Teryaki clan, took a Ring of Lesser Wish for the hammer and the crown, destroyed the original bell moulds himself, and ordered the Inevitables never to return.
 
 ## HIS TESTIMONY
 

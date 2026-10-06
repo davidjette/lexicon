@@ -13,7 +13,7 @@ tags:
 - the Speaker
 - the bloom
 - Thirteenth Casting
-- KNELL
+- Knell
 image:
   src: /images/uploads/sedda-tiddes-deeptempura-mu0n07xg.webp
 type: person
@@ -112,7 +112,7 @@ It came apart when Eric said out loud that the man was dead. She had already loo
 Dying a second time, she handed over the two keys to the entire bell problem:
 
 - **The horn.** *"My father's horn. It is in his study. There's a secret panel below the rug in the centre of the room."* Play the fanfare of dawn on a horn built to Corn's design, she said, and any bard with enough talent can drown out the bells.
-- **The hammer.** *"My father's hammer can crack anything made of black Kyber. If you find that, you could also destroy the bells."* The kin later gave it its name: **KNELL**.
+- **The hammer.** *"My father's hammer can crack anything made of black Kyber. If you find that, you could also destroy the bells."* The kin later gave it its name: **Knell**.
 
 Then she asked for the only thing she wanted. *"But I must ask, if you favour - end this suffering. I am less than myself."* Sir Dario Argentino gave her the rites of the Silver Flame - *"I commit you to the hands of your maker. And I absolve you of all the sins for which you are truly repentant. May the flame have mercy on us all"* - and took her head.
 

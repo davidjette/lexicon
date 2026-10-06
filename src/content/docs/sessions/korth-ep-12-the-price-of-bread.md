@@ -36,7 +36,7 @@ wa:
 
 ## Summary
 
-[The Inevitables](/organizations/the-inevitables/) returned to Sharn to find Jessica with the worst news of the war: [Zilspar Farm](/places/zilspar/) had been destroyed, [Zero-One](/people/zero-one-fema-nolan/) taken alive, and [Izaak](/people/izaak/) presumed dead. Research confirmed the method for making [King Corn](/people/king-corn/)'s horn, established that breaking a bell does *not* notify [Uriel Qualanthri](/people/uriel-qualanthri/), and concluded [KNELL](/items/knell/) is likely unique.
+[The Inevitables](/organizations/the-inevitables/) returned to Sharn to find Jessica with the worst news of the war: [Zilspar Farm](/places/zilspar/) had been destroyed, [Zero-One](/people/zero-one-fema-nolan/) taken alive, and [Izaak](/people/izaak/) presumed dead. Research confirmed the method for making [King Corn](/people/king-corn/)'s horn, established that breaking a bell does *not* notify [Uriel Qualanthri](/people/uriel-qualanthri/), and concluded [Knell](/items/knell/) is likely unique.
 
 ![Korth Ep 12 — The Price of Bread - Jessica Grimpledink, Zero of Sharn, Gemma, Eric and Dario - Upper city Sharn Penthouse.png](/images/uploads/korth-ep-12-the-price-of-bread-jessica-g-mu3lrroi.webp)
 

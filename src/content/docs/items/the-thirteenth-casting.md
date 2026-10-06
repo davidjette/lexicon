@@ -1,6 +1,6 @@
 ---
 title: The Thirteenth Casting
-description: The last great casting, never consecrated, never delivered - rung once by King Corn's daughter with a rock, and broken by Dario with KNELL.
+description: The last great casting, never consecrated, never delivered - rung once by King Corn's daughter with a rock, and broken by Dario with Knell.
 tags:
 - Thirteenth Casting
 - Thirteenth Bell
@@ -10,7 +10,7 @@ tags:
 - Bladeworks
 - Sedda Deeptempura
 - Hetta
-- KNELL
+- Knell
 - Dario Argentino
 - Eric the Cleric
 - Egg Roll
@@ -30,7 +30,7 @@ fields:
   owningOrganization: Korranberg Foundry Trust, for the House of Caius
   usedBy: Sedda Tiddes Deeptempura (rang it with a rock, three years ago); Hetta (shatter, Korth Ep 11)
   discovery: Found by Gemma Corso across a removed bridge at the Bladeworks, Korth Ep 7
-  destructionDate: Korth Ep 11 — broken by Sir Dario Argentino with KNELL
+  destructionDate: Korth Ep 11 — broken by Sir Dario Argentino with Knell
   condition: Destroyed. The molds were destroyed by Valtrex.
 sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
@@ -58,14 +58,14 @@ gallery:
   caption: A cloaked figure looks across a lava-lit forge hall at a great black bell hanging above a rail track, with more bells along the walls.
 - src: /images/gallery/2026-08-27-01.webp
   alt: Dario breaks the Thirteenth Casting
-  caption: In a smoke-filled hall a dragonborn swings a great warhammer toward a bell on a platform while two figures reel with their hands over their ears and the dead rise. Dario breaks the Thirteenth Casting with KNELL.
+  caption: In a smoke-filled hall a dragonborn swings a great warhammer toward a bell on a platform while two figures reel with their hands over their ears and the dead rise. Dario breaks the Thirteenth Casting with Knell.
 ---
 
 **Unique Artifact · Great casting the thirteenth · Korranberg Foundry Trust · Rung twice · DESTROYED**
 
 *Also known as:* the Thirteenth Bell · great casting the thirteenth
 
-The **Thirteenth Casting** was the last of the thirteen great castings of the Korranberg Foundry Trust, an enormous black bell of [Shavat](/items/khyber-taxonomy/) hung on a scaffold at the Bladeworks deep beneath the Korramont. It never left the yard and was never consecrated. Three years ago **Sedda Tiddes Deeptempura**, King Corn's daughter, struck it with a rock on the instruction of a whispering thing in the Glitterhame she called the Speaker, killing tens of thousands of dwarves and raising an entire enslaved workforce as undead. It was rung a second time by the Teryaki scout **Hetta**, who cast *shatter* at it, taking the party, the kin camp and the risen dead into one mind. Sir [Dario Argentino](/people/sir-dario-argentino/) then broke it with [KNELL](/items/knell/) and destroyed every remaining casting in the Bladeworks.
+The **Thirteenth Casting** was the last of the thirteen great castings of the Korranberg Foundry Trust, an enormous black bell of [Shavat](/items/khyber-taxonomy/) hung on a scaffold at the Bladeworks deep beneath the Korramont. It never left the yard and was never consecrated. Three years ago **Sedda Tiddes Deeptempura**, King Corn's daughter, struck it with a rock on the instruction of a whispering thing in the Glitterhame she called the Speaker, killing tens of thousands of dwarves and raising an entire enslaved workforce as undead. It was rung a second time by the Teryaki scout **Hetta**, who cast *shatter* at it, taking the party, the kin camp and the risen dead into one mind. Sir [Dario Argentino](/people/sir-dario-argentino/) then broke it with [Knell](/items/knell/) and destroyed every remaining casting in the Bladeworks.
 
 ## The object
 
@@ -101,7 +101,7 @@ Gemma set an alarm twenty feet around the bell and filled the Bladeworks with sm
 
 The toll took everyone: the party, the kin camp in the next hall, and the risen dead climbing the shaft, all into one mind — a thirst for blood and flesh and an urge to tear one's own skin off. Everyone inside it wounded themselves.
 
-Dario came out of it first, spent his last channel divinity to make [KNELL](/items/knell/) a sacred weapon, swung, and rolled a natural 1 — the bell clanged and the recoil threw his hand back. He swung again and broke it. There was no ring: a tremendous cracking sound, a rift almost splitting it in two, and the metal folding in on itself, symmetry lost, collapsing into a twisted ribbon. He and the runesmith Bofric were deafened for hours.
+Dario came out of it first, spent his last channel divinity to make [Knell](/items/knell/) a sacred weapon, swung, and rolled a natural 1 — the bell clanged and the recoil threw his hand back. He swung again and broke it. There was no ring: a tremendous cracking sound, a rift almost splitting it in two, and the metal folding in on itself, symmetry lost, collapsing into a twisted ribbon. He and the runesmith Bofric were deafened for hours.
 
 He then walked bell to bell through the Bladeworks and destroyed every remaining casting standing there. The freed dragon Valtrex destroyed the original molds himself. **Nothing is cast from that mountain again.**
 

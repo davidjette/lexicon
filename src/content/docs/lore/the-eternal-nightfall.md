@@ -21,7 +21,7 @@ fields:
   significance: 'The stated purpose of the entire bell network: a coordinated continental necromantic rising'
   dateOfSetting: Not yet. Assessed to wait on the birth of a male heir to Uriel Qualanthri and Emperor Caius III.
   relatedOrganizations: The Black Doves; the Empire; the House of Caius; the Korranberg Foundry Trust
-  relatedItems: The Fatanya Nyel; the Chorus Ledger; KNELL; the Horn of Mourning
+  relatedItems: The Fatanya Nyel; the Chorus Ledger; Knell; the Horn of Mourning
   relatedLocations: The Houses of Mercy; Korth; the Ivory Lazaret northeast of Qarth
   history: Named in the sisterhood's own liturgy. Recorded in Locke Pierce's dossier HB-CHORUS-13 and in the Litany taken by Foxtale at a veiling in Korth.
   inLiterature: come the night / the bells will toll / thirteen / the dead will rise / to serve the living / and the dragon / will be reborn
@@ -96,7 +96,7 @@ The dragon [Valtrex](/species/valtrex/), bled by the Empire for three years, bel
 
 ## WHAT STANDS BETWEEN
 
-**KNELL**, the one hammer that cracks a casting. **The horn and the fanfare of dawn**, which mask the Noise while they play, now being taught congregation by congregation as the **Horn of Mourning**. Ten bells remain, at least one of them a Master — the ninth great casting, hanging in a Black Dove tower attached to the Imperial Palace itself. See [the breaking of the bells](/lore/the-breaking-of-the-bells/).
+**Knell**, the one hammer that cracks a casting. **The horn and the fanfare of dawn**, which mask the Noise while they play, now being taught congregation by congregation as the **Horn of Mourning**. Ten bells remain, at least one of them a Master — the ninth great casting, hanging in a Black Dove tower attached to the Imperial Palace itself. See [the breaking of the bells](/lore/the-breaking-of-the-bells/).
 
 And the road itself. Fulcrum's last scrap is from a muleteer on the Qarth road, northeast, toward the white hospital in the mountains: wool-wrapped freight going up at night under Sister escort, and escort papers sealed with a dove — the same seal worn by the young Inquisitor who preaches in Korth. Whatever lives at the top of that road, the dove seal goes home to it. The Inevitables have been moving toward the Ivory Lazaret since Esther Crona's dying command.
 

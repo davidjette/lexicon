@@ -76,7 +76,7 @@ The living quarters were a corridor of sealed doors with undead behind them, bei
 
 ## Present day
 
-The level is cleared. The Thirteenth Casting has been broken with **KNELL** and every remaining casting in the Bladeworks was smashed one after another the same evening. The moulds are in the acid at the bottom of the shaft. The foundry's own paper - seven years of freight schedules, the slave register, the personnel ledger and the death warrant - is in Sharn, in the hands of a Chancellor who intends to use it at trial.
+The level is cleared. The Thirteenth Casting has been broken with **Knell** and every remaining casting in the Bladeworks was smashed one after another the same evening. The moulds are in the acid at the bottom of the shaft. The foundry's own paper - seven years of freight schedules, the slave register, the personnel ledger and the death warrant - is in Sharn, in the hands of a Chancellor who intends to use it at trial.
 
 Nothing is cast here again. What remains is a Teryaki camp in the next hall, a boy who was killed and revived at the foot of the scaffold, and a dragon above the peak who considers all of it his.
 

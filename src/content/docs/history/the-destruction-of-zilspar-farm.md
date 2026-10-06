@@ -55,7 +55,7 @@ Zilspar was where everyone went when the city stopped being survivable. It was [
 
 ## THE NEWS
 
-The Inevitables came back from the Korramont carrying **KNELL**, the horn and the folio, and walked into [Jessica Grimpledink](/people/jessica-grimpledink/) delivering the worst news of the war. Zilspar Farm had been destroyed. Zero-One had been taken alive. [Izaak](/people/izaak/) was presumed dead.
+The Inevitables came back from the Korramont carrying **Knell**, the horn and the folio, and walked into [Jessica Grimpledink](/people/jessica-grimpledink/) delivering the worst news of the war. Zilspar Farm had been destroyed. Zero-One had been taken alive. [Izaak](/people/izaak/) was presumed dead.
 
 > Zilspar Farm has been destroyed, Zero-One taken alive, and Izzak presumed dead.
 
@@ -63,7 +63,7 @@ A dossier from the Hundreds confirmed no survivors.
 
 ## THE SCENE
 
-They flew out anyway. They landed wide and were found immediately: eight [E.D.E.N.](/organizations/project-e-d-e-n/) units still on the ground, and not the things the party had fled at level five. They self-heal. They survive on undead fortitude. They articulate on impossible second elbows. They burst into lightning when they die. [Eric](/people/eric-the-cleric/) killed one on top of an antenna and the discharge electrified the whole tower field for the rest of the fight; [Dario](/people/sir-dario-argentino/) sheathed Pale Fire and used KNELL purely to shove them clear before they detonated, and threw Eric bodily into the brush to save him. All eight fell.
+They flew out anyway. They landed wide and were found immediately: eight [E.D.E.N.](/organizations/project-e-d-e-n/) units still on the ground, and not the things the party had fled at level five. They self-heal. They survive on undead fortitude. They articulate on impossible second elbows. They burst into lightning when they die. [Eric](/people/eric-the-cleric/) killed one on top of an antenna and the discharge electrified the whole tower field for the rest of the fight; [Dario](/people/sir-dario-argentino/) sheathed Pale Fire and used Knell purely to shove them clear before they detonated, and threw Eric bodily into the brush to save him. All eight fell.
 
 The wreckage records the sequence. **Many E.D.E.N. soldiers died defending the farm** — the farm fought and hurt them. Incendiaries were brought in afterward, and the buildings were burned over people who had been boarded up inside.
 

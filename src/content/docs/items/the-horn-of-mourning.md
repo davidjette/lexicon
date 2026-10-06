@@ -86,4 +86,4 @@ The horn stopped being a relic the week the party got back to Sharn. Research es
 
 ## Right now
 
-The original is in Korth with the Inevitables, alongside [KNELL](/items/knell/) and the folio, while they work an Imperial cover toward the Summer Palace and the Ivory Lazaret. An outstanding item on their own list is to teach the fanfare and the horn's construction to someone who will remain behind — because if the chorus starts while all three of them are inside the Empire, the horns are what the continent has.
+The original is in Korth with the Inevitables, alongside [Knell](/items/knell/) and the folio, while they work an Imperial cover toward the Summer Palace and the Ivory Lazaret. An outstanding item on their own list is to teach the fanfare and the horn's construction to someone who will remain behind — because if the chorus starts while all three of them are inside the Empire, the horns are what the continent has.

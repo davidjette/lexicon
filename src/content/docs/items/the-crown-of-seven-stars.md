@@ -68,7 +68,7 @@ Three escalating stages:
 
 ## Recovery
 
-[Sir Dario Argentino](/people/sir-dario-argentino/) negotiated in Draconic with a dragon who had just destroyed his own harpoon rig, laid a **Ring of Lesser Wish** on the hoard, and lifted [KNELL](/items/knell/) and the crown out of it — borrowed, with a warning attached that the crown was the devil's gift. It went into [Gemma](/people/gemma-corso/)'s bag **unworn**, and the party's stated intention was either to destroy it or to keep it away from anyone who would use it.
+[Sir Dario Argentino](/people/sir-dario-argentino/) negotiated in Draconic with a dragon who had just destroyed his own harpoon rig, laid a **Ring of Lesser Wish** on the hoard, and lifted [Knell](/items/knell/) and the crown out of it — borrowed, with a warning attached that the crown was the devil's gift. It went into [Gemma](/people/gemma-corso/)'s bag **unworn**, and the party's stated intention was either to destroy it or to keep it away from anyone who would use it.
 
 ## Plans for the crown
 

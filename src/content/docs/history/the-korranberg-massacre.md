@@ -19,7 +19,7 @@ tags:
 - Valtrex
 - Vuldrach
 - Maelis Dorn
-- KNELL
+- Knell
 icon: fa-skull
 fields:
   type: Genocide
@@ -29,7 +29,7 @@ fields:
   executed_by: Overseer Velen Marsk and his undead ogres, under Imperial warrant
   trigger: Sedda Tiddes Deeptempura rang the Thirteenth Casting with a rock, on the Speaker's instruction
   dead: Tens of thousands of Deeptempura dwarves
-  recovered_later: King Corn's folio, his brass horn and the fanfare of dawn, and KNELL
+  recovered_later: King Corn's folio, his brass horn and the fanfare of dawn, and Knell
 sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
 - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
@@ -79,7 +79,7 @@ Valtrex, whose pact with the clan predated all of this, was collared, harpooned 
 
 ## WHAT SURVIVED
 
-Descendants of the clan returned to the mountain to bury their dead and reclaim the halls of Rak'tafûr, led by Madame Tso Teryaki and her brother General Tso. From that camp the Inevitables took the three things that make [breaking the bells](/lore/the-breaking-of-the-bells/) possible at all: King Corn's lead-bound folio of forging mathematics, his brass horn and the fanfare of dawn, and **KNELL**, his black-Khyber warhammer.
+Descendants of the clan returned to the mountain to bury their dead and reclaim the halls of Rak'tafûr, led by Madame Tso Teryaki and her brother General Tso. From that camp the Inevitables took the three things that make [breaking the bells](/lore/the-breaking-of-the-bells/) possible at all: King Corn's lead-bound folio of forging mathematics, his brass horn and the fanfare of dawn, and **Knell**, his black-Khyber warhammer.
 
 Sedda was given last rites by [Dario](/people/sir-dario-argentino/) and consecrated beside the unknown soldier by her own kin. King Corn was found at last in the dragon's hoard, crowned, and named the *white queen* as the author of the massacre.
 

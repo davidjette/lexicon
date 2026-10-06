@@ -65,4 +65,4 @@ He wrote the reprimand, took her scribbled signature, and let them pass with the
 
 On the third level of [the Hall of Records](/places/the-hall-of-records/) sits a non-binary dwarf clerk who forges identity papers and weapon registrations for a bribe or a shakedown. [Sir Dario Argentino](/people/sir-dario-argentino/) was papered there under the name **Sky Rizzy**, with a wand-drawn portrait and an official seal, and every weapon he produced was logged on Form 7-168 — a lance among them.
 
-Every weapon except **KNELL**. The hammer that breaks the bells has never appeared on an Imperial form.
+Every weapon except **Knell**. The hammer that breaks the bells has never appeared on an Imperial form.

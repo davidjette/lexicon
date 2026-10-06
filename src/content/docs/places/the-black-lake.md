@@ -8,7 +8,7 @@ tags:
   - Valtrex
   - Vuldrach
   - King Corn
-  - KNELL
+  - Knell
   - Crown of Seven Stars
   - dragon blood
   - Korranberg Foundry
@@ -57,7 +57,7 @@ To the west of the ladder's foot is a cache of purloined supplies - months or ye
 
 Train track runs along the crumbling south ridge - the rail that officially never existed, coming down this far. A huge collapsed wooden platform sits to the west. Two islands stand out in the dark, the further one larger.
 
-On the near island lie the hoard and, at the top of it, a corpse wearing a crown: [King Corn](/people/king-corn/), folded around the black-Khyber warhammer his people call **KNELL**. Roughly ten thousand gold and a quantity of silver ingots surround him, and the crown on his head is the **Crown of Seven Stars**, which is a devil's receipt.
+On the near island lie the hoard and, at the top of it, a corpse wearing a crown: [King Corn](/people/king-corn/), folded around the black-Khyber warhammer his people call **Knell**. Roughly ten thousand gold and a quantity of silver ingots surround him, and the crown on his head is the **Crown of Seven Stars**, which is a devil's receipt.
 
 ## The rig
 

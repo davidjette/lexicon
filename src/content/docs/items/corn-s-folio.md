@@ -13,7 +13,7 @@ tags:
 - arcane harmonics
 - fanfare of dawn
 - Horn of Mourning
-- KNELL
+- Knell
 - Hell's Bells
 - Fantanya Nyel
 icon: fa-book
@@ -60,7 +60,7 @@ The man who wrote it built the machine.
 
 ## THE MARGINS
 
-Crowded with question marks. One word is legible — **"wounding"** — written beside a picture of a big hammer striking a bell. It is the idea that became [KNELL](/items/knell/)'s entire function, written by the smith who had the hammer in his own hall the whole time.
+Crowded with question marks. One word is legible — **"wounding"** — written beside a picture of a big hammer striking a bell. It is the idea that became [Knell](/items/knell/)'s entire function, written by the smith who had the hammer in his own hall the whole time.
 
 Further in: drawings of **horns**, worked against harmonic-resonance mathematics, trying — in Eric's reading — *"to solve some type of problem related to the common symmetries of multiple waveforms."*
 
@@ -100,8 +100,8 @@ The Trust also burned its own dockets nightly on a brazier kept at the gate for 
 
 - **It makes horns reproducible.** Research in Sharn established the method of Corn's horn from these pages. Doppler Klink is building them.
 - **It makes the fanfare teachable.** Notes on the last page, arrangement in the sheet music, translation by Bofric, and the clergy of Sharn carrying it congregation by congregation.
-- **It does not make a second KNELL.** Research concluded the hammer is likely unique. The folio names the wound and cannot make the blade.
+- **It does not make a second Knell.** Research concluded the hammer is likely unique. The folio names the wound and cannot make the blade.
 
 ## Right now
 
-The folio is in Korth with the party, under Imperial cover, alongside KNELL and the horn. Bofric is out of the mountain — the only person known to read Corn's shorthand. Roughly one section of the book has been translated. The rest of it is still, functionally, the Empire's manufacturing secret sitting in a rebel's bag.
+The folio is in Korth with the party, under Imperial cover, alongside Knell and the horn. Bofric is out of the mountain — the only person known to read Corn's shorthand. Roughly one section of the book has been translated. The rest of it is still, functionally, the Empire's manufacturing secret sitting in a rebel's bag.

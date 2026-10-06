@@ -139,7 +139,7 @@ Sessions last 30 days.
 \`\`\`
 POST ${api}/api/login           {"name":"your-name","password":"..."}
 GET  ${api}/api/file?path=src/content/docs/items/knell.md
-PUT  ${api}/api/file            {"path":"src/content/docs/items/knell.md","content":"---\\ntitle: KNELL\\n...","sha":"<sha from GET>","summary":"added who carries it now"}
+PUT  ${api}/api/file            {"path":"src/content/docs/items/knell.md","content":"---\\ntitle: Knell\\n...","sha":"<sha from GET>","summary":"added who carries it now"}
 \`\`\`
 `;
 	return new Response(text, { headers: { 'Content-Type': 'text/plain; charset=utf-8' } });

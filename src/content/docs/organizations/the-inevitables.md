@@ -72,7 +72,7 @@ The Inevitables are a three-person adventuring company founded in Leef — Gemma
 
 **[Eric the Cleric](/people/eric-the-cleric/)** — Chancellor of Sharn, formerly an Imperial auditor. The negotiator, and since the Glitterhame the company's largest unresolved problem.
 
-**[Sir Dario Argentino](/people/sir-dario-argentino/)** — dragonborn Squire Templar of the outlawed Silver Flame. Carries [KNELL](/items/knell/).
+**[Sir Dario Argentino](/people/sir-dario-argentino/)** — dragonborn Squire Templar of the outlawed Silver Flame. Carries [Knell](/items/knell/).
 
 **[Lorian](/people/lorian/)** — vengeance paladin, rescued rather than recruited. Currently detached, holding in Sharn.
 

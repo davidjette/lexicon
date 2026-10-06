@@ -24,7 +24,7 @@ fields:
   symptoms: Intrusive tolling; waking dreams of the grave; violent mania; self-inflicted or mutual death. The afflicted defend the bell rather than flee it.
   affectedGroups: The living within sustained proximity; and the dead, everywhere within range, who rise under the will of a sufficiently powerful necromancer
   prevention: None known that relies on silence. Silence wards, deafness and sealed vaults stop the toll and not the Noise.
-  treatment: The fanfare of dawn played on a horn of King Corn's design, for as long as it is played. Permanent removal requires destroying the bell with KNELL.
+  treatment: The fanfare of dawn played on a horn of King Corn's design, for as long as it is played. Permanent removal requires destroying the bell with Knell.
   hosts: Every Fatanya Nyel casting, great and parish
 sources:
 - handouts/hells-bells-dossier.md
@@ -81,6 +81,6 @@ That sympathy with the arcane forces governing life and death is the mechanism o
 
 ## The only known counter
 
-Not silence. **Music.** [The fanfare of dawn](/lore/the-fanfare-of-dawn/), played on [a horn of King Corn's design](/items/the-horn-of-mourning/), suppresses the influence entirely, and only while it plays. Bofric names the art [arcane harmonics](/items/arcane-harmonics/). Permanent removal requires [KNELL](/items/knell/).
+Not silence. **Music.** [The fanfare of dawn](/lore/the-fanfare-of-dawn/), played on [a horn of King Corn's design](/items/the-horn-of-mourning/), suppresses the influence entirely, and only while it plays. Bofric names the art [arcane harmonics](/items/arcane-harmonics/). Permanent removal requires [Knell](/items/knell/).
 
 <small>A rebel proposal — a scroll of *Greater Silence*, given to Eric by Renn Tal on the theory that amplified silence across multiple casters could disrupt the resonance — sits against the Progenitor's prediction that silence stops the toll and not the Noise. Eric accepted the scroll.</small>

@@ -13,7 +13,7 @@ tags:
   - Korranberg Foundry
   - dragon blood
   - Crown of Seven Stars
-  - KNELL
+  - Knell
   - Erandis Vol
 image:
   src: /images/uploads/korth-ep-11-the-domain-of-valtrex-veltex-mu95hqlu.webp
@@ -90,7 +90,7 @@ He bellowed, and then he began to laugh with relief. He flew to the harpoon rig 
 
 Once sane, he opened negotiations by naming his own terms unprompted: the descendants of the oath-breakers will serve him, and he asked the party to lead the [Teryaki](/organizations/the-teryaki-clan/)'s most revered and powerful down to him under a guise of peace, so that he could consume them and enslave the rest. Nobody accepted. Nobody refused either.
 
-Dario spoke to him in Draconic, laid a **Ring of Lesser Wish** on the hoard, and lifted **KNELL** out of the crowned corpse's arms along with the **Crown of Seven Stars**. The hammer and the crown came back borrowed, and Valtrex was clear whose property they were: *"That hammer doesn't belong to King Corn. It belongs to me. So does his crown."*
+Dario spoke to him in Draconic, laid a **Ring of Lesser Wish** on the hoard, and lifted **Knell** out of the crowned corpse's arms along with the **Crown of Seven Stars**. The hammer and the crown came back borrowed, and Valtrex was clear whose property they were: *"That hammer doesn't belong to King Corn. It belongs to me. So does his crown."*
 
 Dave's account of how the trade was won: "Corn gave you his blessing when he spoke with dead because you helped his ghost", and "freeing him made him go from hostile to indifferent, and then good persuasion rolls plus the trade plus the endorsement of Corns ghost let him part with the hammer". On what the party gained: "And you added a potentially ally I suppose" / "A lot more powerful than a bunch of useless duergar". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 

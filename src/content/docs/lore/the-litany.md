@@ -70,7 +70,7 @@ The Korranberg Foundry Trust's private schedule of works confirms what the finge
 
 - **come the night** — the sisterhood's own name for the operation is the **Eternal Nightfall**, given up by [Sister Nora](/people/sister-nora/) under interrogation at Zilspar and whispered once by her at POSÉ.
 - **the bells will toll** — the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) castings hanging in the [Houses of Mercy](/organizations/the-houses-of-mercy/), washed daily, never rung.
-- **thirteen** — the great castings. Eleven delivered and two in the yard when the leaf was written; the Thirteenth was broken with KNELL under the Korramont and two more in Sharn; ten bells remain, at least one of them a Master in Korth.
+- **thirteen** — the great castings. Eleven delivered and two in the yard when the leaf was written; the Thirteenth was broken with Knell under the Korramont and two more in Sharn; ten bells remain, at least one of them a Master in Korth.
 - **the dead will rise** — the Black Noise raises the dead where they lie, through rock, at continental distance.
 - **to serve the living** — *"ready to serve the will of a sufficiently powerful necromancer keyed in to the chorus. There is exactly one necromancer alive with the reach the network is tuned for."*
 - **and the dragon** — unresolved. Every candidate in the archive is a different answer: [Viagra](/people/viagra/), the great dragon of Master Armhair's heresy; the Crimson Sun, who fathered [Erandis Vol](/people/erandis-vol/)'s child; Valtrex, bled for three years; or a child not yet born.

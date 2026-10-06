@@ -12,7 +12,7 @@ tags:
 - Hell's Bells
 - Shavat
 - Black Khyber
-- KNELL
+- Knell
 - The Korramont
 - Sedda Tiddes Deeptempura
 - Hetta
@@ -60,7 +60,7 @@ That bell is the **Thirteenth Casting** - the last great casting, thirteen of th
 
 ## The breaking
 
-What ended it was a runesmith who did not run. [Bofric](/people/bofric/) reached the ladder with zombies coming up behind him, turned round, and played the fanfare of dawn instead, and the confusion lifted off the room. [Eric](/people/eric-the-cleric/) cast faerie fire blind above his own head so that a bell nobody could see through the smoke would still be outlined. And [Sir Dario Argentino](/people/sir-dario-argentino/) swung **KNELL**.
+What ended it was a runesmith who did not run. [Bofric](/people/bofric/) reached the ladder with zombies coming up behind him, turned round, and played the fanfare of dawn instead, and the confusion lifted off the room. [Eric](/people/eric-the-cleric/) cast faerie fire blind above his own head so that a bell nobody could see through the smoke would still be outlined. And [Sir Dario Argentino](/people/sir-dario-argentino/) swung **Knell**.
 
 The Thirteenth Casting did not ring. It cracked, lost its symmetry, folded in on itself and collapsed into a jagged warped ribbon of metal across the floor. The recoil threw Dario backwards and deafened him and Bofric until they had rested.
 

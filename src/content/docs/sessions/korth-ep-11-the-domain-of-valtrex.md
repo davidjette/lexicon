@@ -1,11 +1,11 @@
 ---
 title: Korth Ep 11 — The Domain of Valtrex
-description: The trio free the black dragon Valtrex from an Imperial bleeding rig, and Dario shatters the Thirteenth Casting with KNELL.
+description: The trio free the black dragon Valtrex from an Imperial bleeding rig, and Dario shatters the Thirteenth Casting with Knell.
 tags:
   - Korth Ep 11
   - The Domain of Valtrex
   - Valtrex
-  - KNELL
+  - Knell
   - Thirteenth Casting
   - Bofric
   - Crown of Seven Stars
@@ -32,7 +32,7 @@ wa:
 
 **The Unforeseen Strikes Back · Korth arc · Episode 11 · DM: Dave**
 
-Korth Ep 11 — The Domain of Valtrex is the eleventh session of the Korth arc of Campaign 2, The Unforeseen Strikes Back, run by Dave. [Eric the Cleric](/people/eric-the-cleric/) was overcome by the compulsion of [the Thirteenth Casting](/items/the-thirteenth-casting/) and restrained by his companions; the clan runesmith [Bofric](/people/bofric/) translated the song [King Corn](/people/king-corn/) had spent his last days perfecting, which suppresses a bell's influence while it is played on Corn's horn. At the black lake the party freed the black dragon [Valtrex](/species/valtrex/) from an Imperial rig built to drain him, and [Sir Dario Argentino](/people/sir-dario-argentino/) negotiated the dragon's domain over the mountain in exchange for KNELL and the Crown of Seven Stars. The session ends with the Thirteenth Casting and every remaining cast bell in the Bladeworks destroyed, the Teryaki clan left behind, and the trio escaping into the forest.
+Korth Ep 11 — The Domain of Valtrex is the eleventh session of the Korth arc of Campaign 2, The Unforeseen Strikes Back, run by Dave. [Eric the Cleric](/people/eric-the-cleric/) was overcome by the compulsion of [the Thirteenth Casting](/items/the-thirteenth-casting/) and restrained by his companions; the clan runesmith [Bofric](/people/bofric/) translated the song [King Corn](/people/king-corn/) had spent his last days perfecting, which suppresses a bell's influence while it is played on Corn's horn. At the black lake the party freed the black dragon [Valtrex](/species/valtrex/) from an Imperial rig built to drain him, and [Sir Dario Argentino](/people/sir-dario-argentino/) negotiated the dragon's domain over the mountain in exchange for Knell and the Crown of Seven Stars. The session ends with the Thirteenth Casting and every remaining cast bell in the Bladeworks destroyed, the Teryaki clan left behind, and the trio escaping into the forest.
 
 ## Summary
 
@@ -46,12 +46,12 @@ Standing beside [the Thirteenth Casting](/items/the-thirteenth-casting/), [Eric 
 
 [Bofric](/people/bofric/), the clan runesmith, had translated one section of [King Corn](/people/king-corn/)'s folio — the song the king spent his final days perfecting. Played on Corn's horn it suppresses the bell's influence entirely; Bofric identified it as arcane harmonics, an elvish weapon from the old war against the dragons, and warned that the horn only masks the sound while it plays. Breaking a bell needs the hammer that made it. He volunteered to come.
 
-At the black lake the party were ambushed by the black dragon [Valtrex](/species/valtrex/) — alive, airborne, and wearing a bell locked around his neck. On the far platform stood an Imperial rig built to harpoon, restrain and drain him. [Eric the Cleric](/people/eric-the-cleric/) teleported onto Valtrex's back and shattered the collar with an adamantine mace. Freed, Valtrex destroyed the rig himself and cast *speak with dead* on the crowned corpse atop his hoard. Now that he was no longer insane, negotiations with the dragon followed. Valtrex demanded total domain over the mountain and the servitude of the Teryaki clan, who he claimed violated their pact. Dario, speaking Draconic, offered a Ring of Lesser Wish and secured both KNELL and the Crown of Seven Stars.
+At the black lake the party were ambushed by the black dragon [Valtrex](/species/valtrex/) — alive, airborne, and wearing a bell locked around his neck. On the far platform stood an Imperial rig built to harpoon, restrain and drain him. [Eric the Cleric](/people/eric-the-cleric/) teleported onto Valtrex's back and shattered the collar with an adamantine mace. Freed, Valtrex destroyed the rig himself and cast *speak with dead* on the crowned corpse atop his hoard. Now that he was no longer insane, negotiations with the dragon followed. Valtrex demanded total domain over the mountain and the servitude of the Teryaki clan, who he claimed violated their pact. Dario, speaking Draconic, offered a Ring of Lesser Wish and secured both Knell and the Crown of Seven Stars.
 
 ![Korth Ep 11 — The Domain of Valtrex - Eric breaking the chained bell around Veltex neck.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-eric-b-mu3lqe5a.webp)
 
-![Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise](/images/gallery/2026-08-27-01.webp)
-*Sir Dario Argentino breaks the Thirteenth Casting with KNELL as the dead rise.*
+![Sir Dario Argentino breaks the Thirteenth Casting with Knell as the dead rise](/images/gallery/2026-08-27-01.webp)
+*Sir Dario Argentino breaks the Thirteenth Casting with Knell as the dead rise.*
 
 ## Revelations
 
@@ -67,5 +67,5 @@ At the black lake the party were ambushed by the black dragon [Valtrex](/species
 
 ## Consequences
 
-Gemma's alarm signalled an intruder at the bell: Hetta, fungus-infected, casting at the casting. The bell rang, driving the foundry, the camp and the dead in the lake into a shared frenzy. The party snapped free to save Bofric, and [Sir Dario Argentino](/people/sir-dario-argentino/) broke the Thirteenth Casting with [KNELL](/items/knell/), deafening himself and Bofric, while Eric turned the risen dead back down the shaft. Dario then destroyed every remaining cast bell in the Bladeworks; Valtrex destroyed the original moulds. The Tsos refused to evacuate and chose to renew their pact with the dragon. Only Bofric left with them. The trio escaped into the forest as Valtrex circled the peak, claiming the Korramont as his domain.
+Gemma's alarm signalled an intruder at the bell: Hetta, fungus-infected, casting at the casting. The bell rang, driving the foundry, the camp and the dead in the lake into a shared frenzy. The party snapped free to save Bofric, and [Sir Dario Argentino](/people/sir-dario-argentino/) broke the Thirteenth Casting with [Knell](/items/knell/), deafening himself and Bofric, while Eric turned the risen dead back down the shaft. Dario then destroyed every remaining cast bell in the Bladeworks; Valtrex destroyed the original moulds. The Tsos refused to evacuate and chose to renew their pact with the dragon. Only Bofric left with them. The trio escaped into the forest as Valtrex circled the peak, claiming the Korramont as his domain.
 

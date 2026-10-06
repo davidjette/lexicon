@@ -28,7 +28,7 @@ fields:
   architecture: An upper-city hospital with an unfinished bell tower above it and a skylift landing
   contents: Wards, clergy quarters, an unfinished bell tower, and a crated golden replica of the Fatanya Nyel
   defenses: Black Dove clergy; overrun by Zero-One and Silver Flame paladins
-  history: Seized on the night of the rising; its bell was later broken by Dario Argentino with KNELL
+  history: Seized on the night of the rising; its bell was later broken by Dario Argentino with Knell
   inhabitants: Formerly Black Dove clergy under Sister Nora
 sources:
   - sources/site/home.txt

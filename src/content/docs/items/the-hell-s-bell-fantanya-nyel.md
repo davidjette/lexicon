@@ -31,7 +31,7 @@ fields:
   usedBy: Uriel Qualanthri, Empress-caretaker
   discovery: Recovered from the Greenbluff mines by Esther Crona, Uriel Qualanthri, John C. LeBeefe and Locke Pierce
   creationDate: Unknown; buried by a Celestial Queen centuries ago
-  destructionDate: Extant. The Thirteenth Casting was destroyed by KNELL; ten bells remain.
+  destructionDate: Extant. The Thirteenth Casting was destroyed by Knell; ten bells remain.
 sources:
 - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
 - handouts/hells-bells-dossier.md
@@ -148,12 +148,12 @@ Coded documents in the reclaimed halls told the rest. King Corn and his daughter
 
 King Corn had built one. His secret study held sheet music and plans for a handheld horn made to answer the bell, and beneath the study floor the prototype survived: coiled brass, unornamented, two mouthpieces, carrying his smith-mark. The activating piece is called the fanfare of dawn — played on a horn of Corn's design, a bard with enough talent can drown out the bells. His lead-bound folio holds the bell castings, the tempering and the harmonic mathematics, and on its last page: "I made their key. Someone must learn to make its answer sing."
 
-The kin named the other answer KNELL — King Corn's black-Khyber warhammer, older than the bells, which can crack them.
+The kin named the other answer Knell — King Corn's black-Khyber warhammer, older than the bells, which can crack them.
 
 **The three answers, and their limits:**
 
 - [The Horn of Mourning](/items/the-horn-of-mourning/) — masks the Noise only while it is being played.
-- [KNELL](/items/knell/) — breaks a bell permanently, and is very likely the only such hammer in the world.
+- [Knell](/items/knell/) — breaks a bell permanently, and is very likely the only such hammer in the world.
 - [Corn's folio](/items/corn-s-folio/) — the mathematics that make more horns possible.
 
 ## The consecration rite
@@ -166,11 +166,11 @@ It rang. Hetta, a Teryaki scout with mould across his face and mushrooms at his 
 
 The party had already barely resisted an urge to ring the bell themselves, caused by LeBeefe's contamination of the Glitterhame. Dave summed up a ringing as "lots of confusion saves while every dead body nearby animates". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
-[Sir Dario Argentino](/people/sir-dario-argentino/) came out of it first, raised [KNELL](/items/knell/), and broke the Thirteenth Casting. The recoil deafened him and the runesmith Bofric for hours. He then walked bell to bell through the Bladeworks and destroyed every remaining casting standing in it, and the freed dragon Valtrex destroyed the original molds. Nothing is cast from that mountain again.
+[Sir Dario Argentino](/people/sir-dario-argentino/) came out of it first, raised [Knell](/items/knell/), and broke the Thirteenth Casting. The recoil deafened him and the runesmith Bofric for hours. He then walked bell to bell through the Bladeworks and destroyed every remaining casting standing in it, and the freed dragon Valtrex destroyed the original molds. Nothing is cast from that mountain again.
 
 ## Ten bells remain
 
-Back in Sharn, Dario destroyed two more in a single morning. The first sat crated and packed with straw in the unfinished tower above the Black Dove hospital, muffled by people too frightened to touch it; he cleared the packing himself and swung with *“may our children forgive us.”* The second hung in a small temple of Boldrei in the lower city, where the strike brought the whole tower down through the floor into the building below and turned a pacified crowd against him. Research in the same week established three things: the method for making more horns, that **breaking a bell sends no word of itself back to Uriel**, and that KNELL is very likely unique.
+Back in Sharn, Dario destroyed two more in a single morning. The first sat crated and packed with straw in the unfinished tower above the Black Dove hospital, muffled by people too frightened to touch it; he cleared the packing himself and swung with *“may our children forgive us.”* The second hung in a small temple of Boldrei in the lower city, where the strike brought the whole tower down through the floor into the building below and turned a pacified crowd against him. Research in the same week established three things: the method for making more horns, that **breaking a bell sends no word of itself back to Uriel**, and that Knell is very likely unique.
 
 **Ten bells remain**, at least one of them a Master in Korth — **great casting the ninth**, hanging in a Black Dove tower attached to the Imperial Palace itself. The Original was returned from the Korranberg yard to Her Radiance's keeping under Sister-Inquisitor escort, destination withheld, and the House's factor has written that the reference *will not travel again before the appointed night.*
 
@@ -180,6 +180,6 @@ Uriel can still set the bells ringing all over Khorvaire. Dave: "stopping that w
 
 <small>— Locke Pierce, from Mt. Silicon, having just detonated Ruby Nova on the horizon as a demonstration.</small>
 
-**Held by the Inevitables:** KNELL, the horn, the folio, and one dwarf who reads Corn's shorthand and can play the fanfare.
+**Held by the Inevitables:** Knell, the horn, the folio, and one dwarf who reads Corn's shorthand and can play the fanfare.
 
 **Held by the Empire:** the Original, the ten remaining bells, three hundred and forty-one parish castings on the Trust's last count, and the woman who intends to ring them.

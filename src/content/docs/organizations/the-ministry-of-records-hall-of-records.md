@@ -55,7 +55,7 @@ And: **any record naming a specific dragon has been removed by order.** Master A
 
 ## THE THIRD LEVEL
 
-On the third level of the Hall of Records sits a clerk — a non-binary dwarf — who will forge identity papers and weapon registrations for a shakedown or a bribe. The party had [Dario](/people/sir-dario-argentino/) documented under the name **Sky Rizzy**, logging every weapon he carried *except* KNELL. The Leonin scholar **Jelton Ahn** is separately using the same clerk to arrange forged passports to move his wife out of the city to Kabara.
+On the third level of the Hall of Records sits a clerk — a non-binary dwarf — who will forge identity papers and weapon registrations for a shakedown or a bribe. The party had [Dario](/people/sir-dario-argentino/) documented under the name **Sky Rizzy**, logging every weapon he carried *except* Knell. The Leonin scholar **Jelton Ahn** is separately using the same clerk to arrange forged passports to move his wife out of the city to Kabara.
 
 ## FALSE INDEX — THE MATING HABITS OF CREATURES OF THE UNDERDARK
 
