@@ -47,19 +47,34 @@ Korth Ep 3 — The Last Mourning is the third session of the Korth arc of Unfore
 
 Fitted with masks against the toxic air, Eric and Gemma returned to the bridge. Through the haze Eric spotted a flaming sword: a small group of [the Silver Flame](/organizations/the-silver-flame/) paladins holding a massive Cyrean portal against waves of undead and [E.D.E.N.](/organizations/project-e-d-e-n/) hybrids. Among them was [Sir Dario Argentino](/people/sir-dario-argentino/). The three fought side by side to evacuate the survivors, every fallen paladin rising moments later to swell the enemy. Dario was alive but gravely wounded, and his injury carried the telltale signs of **Mistborn illness**, a curse spreading through the Mournland mist and whatever force was raising the dead where they fell.
 
-![The Cyrean portal glows inside a twisted black arch in the Mournlands](/images/gallery/2026-06-27-04.webp)
-*The Cyrean portal glows inside a twisted black arch in the Mournlands.*
 
 ![An airship flies over the undead horde besieging the Cyrean portal](/images/gallery/2026-06-27-09.webp)
 *An airship flies over the undead horde besieging the Cyrean portal.*
 
+
+![Korth Ep 3 — The Last Mourning - Gemma fighting undead in the Mournlands.png](/images/uploads/korth-ep-3-the-last-mourning-gemma-fight-muvz6aoq.webp)
+
+
+![Korth Ep 3 — The Last Mourning - Dario and other Silver Flame Paladins fight undead in The Mournlands.png](/images/uploads/korth-ep-3-the-last-mourning-dario-and-o-muvz7w9y.webp)
+
+
+![Korth Ep 3 — The Last Mourning - Gemma teleports Silver Flame Paladin from undead in The Mournlands.png](/images/uploads/korth-ep-3-the-last-mourning-gemma-telep-muvz88i8.webp)
+
+
+![Korth Ep 3 — The Last Mourning - Eric and Silver Flame Paladin fight undead in The Mournlands.png](/images/uploads/korth-ep-3-the-last-mourning-eric-and-si-muvz5kkq.webp)
+
 ![A winged paladin with a flaming sword dives over the Cyrean portal](/images/gallery/2026-06-27-05.webp)
-*A winged paladin with a flaming sword dives over the Cyrean portal.*
+*A winged Dario with a flaming sword dives over the Cyrean portal.*
 
 Locke landed at **Mt. Silicon**, a fortified Warforged stronghold, and led them to a control chamber full of screens and members of [The Hundreds](/organizations/the-hundreds/) — his "children." There he told them the truth about the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), and showed them his countermeasure.
 
-![A giant warforged guards the gate of Mt. Silicon](/images/gallery/2026-06-27-02.webp)
+
+![Korth Ep 3 — The Last Mourning - Eric, Lorian, Gemma, Lorian and Locke outside Mt. Silicon.png](/images/uploads/korth-ep-3-the-last-mourning-eric-lorian-muvz98yx.webp)
 *A giant warforged guards the gate of Mt. Silicon.*
+
+
+![Korth Ep 3 — The Last Mourning - Eric, Gemma, Dario Locke and Lorian inside Mt. Silicon Mournlands.png](/images/uploads/korth-ep-3-the-last-mourning-eric-gemma-muvz9ss9.webp)
+
 
 ![Eric the Cleric, Gemma Corso, Lorian and a companion watch the Ruby Nova rise](/images/gallery/2026-06-27-03.webp)
 *Eric the Cleric, Gemma Corso, Lorian and a companion watch the Ruby Nova rise.*
