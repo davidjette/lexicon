@@ -15,7 +15,7 @@ tags:
   - Black Doves
   - Crona's Wall
 image:
-  src: /images/uploads/korth-ep-1-three-years-later-mu0s5b66.webp
+  src: /images/uploads/korth-ep-1-three-years-later-eric-and-ad-muvz08xe.webp
 sidebar:
   order: 301
 type: report
@@ -62,6 +62,10 @@ Across Khorvaire the war fractured the continent. Crona's Wall collapsed and Orc
 *Eric the Cleric and Lorian talk with Rotunda Goose at the Thronehold Summit.*
 
 During the final assembly Eric delivered a speech calling for the Empire to be outlawed. Sister Maelis Dorn, attending for the Black Doves, confronted Admiral Vex and publicly accused Eric of responsibility for [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/)'s death. Moments later Vex began to rise into the air, glowing with crackling lightning.
+
+
+![Korth Ep 1 — Three Years Later - Eric and Admiral Vex d’Lyrandar at Thronehold.png](/images/uploads/korth-ep-1-three-years-later-eric-and-ad-muvz1atl.webp)
+
 
 ## Revelations
 
