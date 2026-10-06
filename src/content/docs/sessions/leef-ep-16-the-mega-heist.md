@@ -1,38 +1,40 @@
 ---
 title: Leef Ep 16 — The Mega Heist
 description: The party pulls off a mega heist in Newham, and Inspector LeGranouille, who works for LeBeefe, watches it and joins them.
+tags:
+  - Leef Ep 16
+  - The Mega Heist
+  - Leef / Newham arc
+  - Unforeseen Strikes Back
+  - Newham
+  - Inspector LeGranouille
+  - LeGranouille
+  - Granuille
+  - Granwille
+  - John C. LeBeefe
+  - Mind flayers
+  - Gemma Corso
+  - Sir Dario Argentino
+  - Eric the Cleric
+image:
+  src: /images/uploads/leef-ep-16-the-mega-heist-mux3699e.webp
 sidebar:
   order: 166
 type: report
 kind: sessions
-tags:
-- Leef Ep 16
-- The Mega Heist
-- Leef / Newham arc
-- Unforeseen Strikes Back
-- Newham
-- Inspector LeGranouille
-- LeGranouille
-- Granuille
-- Granwille
-- John C. LeBeefe
-- Mind flayers
-- Gemma Corso
-- Sir Dario Argentino
-- Eric the Cleric
 icon: fa-scroll
 fields: {}
 sources:
-- sources/dave/2026-09-14-legranouille-is-lebeefe.md
-- "Oral Histories: The Inevitables, 2025-10-23"
-- "Oral Histories: The Inevitables, 2025-11-10"
-- "Oral Histories: The Inevitables, 2025-11-21"
-- "Oral Histories: The Inevitables, 2025-11-22"
-- sources/dave/2026-09-14-inevitables-rulings-batch.md
-- sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
-- "JL's DM notes: The Unforeseen Strike Back DM Notes"
-- "sources/dave/2026-09-27-jl-notes.md"
-- "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+  - sources/dave/2026-09-14-legranouille-is-lebeefe.md
+  - 'Oral Histories: The Inevitables, 2025-10-23'
+  - 'Oral Histories: The Inevitables, 2025-11-10'
+  - 'Oral Histories: The Inevitables, 2025-11-21'
+  - 'Oral Histories: The Inevitables, 2025-11-22'
+  - sources/dave/2026-09-14-inevitables-rulings-batch.md
+  - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
+  - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/dave/2026-09-27-jl-notes.md
+  - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 ---
 
