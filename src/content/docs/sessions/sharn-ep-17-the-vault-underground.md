@@ -76,11 +76,9 @@ Upstairs, the situation spiraled. Recruiters attacked from multiple angles. Hall
 
 ![Sharn Ep 17 — The Vault Underground - Eric's celestial Ada and creepy Recruiter in battle in Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-eric-s-muvxs70s.webp)
 
+![Sharn Ep 17 — The Vault Underground - Eric and Lorian in battle with Recruiters -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-eric-a-muvxqyba.webp)
 
 ![Sharn Ep 17 — The Vault Underground - Gemma and Malrik Zeir-  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-gemma-muvxslaz.webp)
-
-
-![Sharn Ep 17 — The Vault Underground - Eric and Lorian in battle with Recruiters -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-eric-a-muvxqyba.webp)
 
 
 There, [Dario](/people/sir-dario-argentino/) unleashed a devastating series of blows, killing Malrik outright. His vampire mist escaped into his coffin, but his body was destroyed.
