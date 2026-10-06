@@ -21,6 +21,8 @@ tags:
   - Kitsune
   - Pork Broccoli
   - Bimples
+image:
+  src: /images/uploads/korth-ep-16-orientation-day-gemma-disgui-mux2hpyv.webp
 sidebar:
   order: 316
 type: report
