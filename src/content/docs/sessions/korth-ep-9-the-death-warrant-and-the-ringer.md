@@ -57,7 +57,9 @@ Following the map further they found a 300-foot chain ladder into the depths. At
 ![The trio climb down the 300-foot chain ladder, and Eric falls](/images/gallery/2026-08-10-02.webp)
 *The trio climb down the 300-foot chain ladder, and Eric falls.*
 
-![At the bottom of the shaft the trio meet Sedda Tiddes Deeptempura, three years dead](/images/gallery/2026-08-10-09.webp)
+
+![Korth Ep 9 — The Death Warrant and the Ringer Seeda Tiddies, Dario, Gemma and Eric.png](/images/uploads/korth-ep-9-the-death-warrant-and-the-rin-muw0xytw.webp)
+
 *At the bottom of the shaft the trio meet Sedda Tiddes Deeptempura, three years dead.*
 
 ## Revelations
@@ -79,5 +81,3 @@ Following the map further they found a 300-foot chain ladder into the depths. At
 [Sir Dario Argentino](/people/sir-dario-argentino/) performed last rites and slew Sedda at her own asking, and carried her remains up through the camp; the clan consecrated her beside the unknown soldier. Madame Tso returned the Belt of Dwarvenkind to Eric and blessed the trio's claim on the folio, the horn and all they had recovered. In Corn's study a hidden stair beneath the rug and a spell-sealed chest, opened by a key Gemma already carried, gave up the lead-bound folio, a *Tome of Understanding* and the brass horn. The kin named the hammer: **[KNELL](/items/knell/)**. Egg Roll was still missing.
 
 The hammer itself stayed below: "the hammer that can break the bells lies somewhere below, in the dark, with Vuldrach." <small>(Oral Histories: The Inevitables, 2026-08-09)</small> The party recovered it from the hoard of [Valtrex](/species/valtrex/) in [Korth Ep 11](/sessions/korth-ep-11-the-domain-of-valtrex/).
-
-![Korth Ep 9 — The Death Warrant and the Ringer - Eric's dream of Egg Role speaking with the Voice in Glitterhame.png](/images/uploads/korth-ep-9-the-death-warrant-and-the-rin-mu3lob3l.webp)
