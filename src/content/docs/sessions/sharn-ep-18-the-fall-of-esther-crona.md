@@ -70,7 +70,6 @@ A battle broke out. Eric successfully turned one of the undead Honor Guards, for
 
 
 ![Sharn Ep 18 — The Fall of Esther Crona - Gemma, Dario, Eric and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-gem-muvyaig1.webp)
-
 *Esther dives on Dario and Gemma across the penthouse balcony.*
 
 ![Eric uses a Bigby's Hand to flick an Honor Guard off the balcony](/images/album/sharn-ep-18-the-fall-of-esther-crona-eric-using-bigby-hand-to-flick-esther-s-hon.webp)
@@ -96,6 +95,7 @@ Then her final command echoed across the towers:
 With the last of her strength, Esther telekinetically seized her airship, the Black Veil, and hurled it into the massive statue of Uriel above the Skyport. The explosion destroyed the statue. In her death, Esther fell from the balcony landing at the base of the Veil Building.
 
 
+![Sharn Ep 18 — The Fall of Esther Crona - Black Veil Crash 3.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-bla-muvypkzl.webp)
 *The Black Veil bears down on the statue of Uriel above the Skyport.*
 
 ![Esther stands at the balcony rail as the statue above the Skyport explodes](/images/gallery/2026-06-01-06.webp)
