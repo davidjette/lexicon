@@ -57,8 +57,6 @@ The recon unit numbered about forty. About twenty had fallen in the fight at the
 
 In the morning the trio blasted apart the dwarven stair-gate, whose key had snapped in the lock, and found the stair chamber littered with dwarven dead three to four years old.
 
-![The stair chamber beyond the gate, its walls carved with reliefs of the clan and a dragon](/images/gallery/2026-07-20-02.webp)
-*The stair chamber beyond the gate, its walls carved with reliefs of the clan and a dragon.*
 
 ![The trio stand before the carved reliefs at the head of the stair into the mountain](/images/gallery/2026-07-20-03.webp)
 *The trio stand before the carved reliefs at the head of the stair into the mountain.*
