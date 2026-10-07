@@ -465,9 +465,7 @@ She was thirty-one.
 
 ## After Death
 
-The Silver Flame issued a citywide cremation directive after the first [Council of Sharn](/lore/the-council-of-sharn/).
-
-Esther's body was supposed to be cremated, but it was missing.
+The Silver Flame issued a citywide cremation directive after the first [Council of Sharn](/lore/the-council-of-sharn/). Esther's body was supposed to be cremated, but it was missing.
 
 Witnesses reported seeing two elven women, believed to be Black Doves, removing a corpse from the morgue during the chaos surrounding [the fall of Sharn](/history/the-fall-of-sharn/). Their identities were never established with certainty.
 
