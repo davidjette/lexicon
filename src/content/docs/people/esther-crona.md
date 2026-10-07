@@ -283,15 +283,9 @@ Eden was the youngest of Esther's three half-sisters and, unlike the others, gen
 
 She was bright, idealistic and loyal. She was recruited into an Imperial research division in part because she was Esther's sister and therefore assumed to be loyal and discreet.
 
-Her assignment concerned the Mournlands, Warforged migration, the resurgence of [Locke Pierce](/people/locke-pierce/) and the resistance group known as [the Hundreds](/organizations/the-hundreds/). Eden discovered that a Hundreds cell was operating inside Sharn. Her investigation followed stolen shipments, anti-Imperial graffiti and reports of a Warforged preacher in the Cogs.
+Her assignment concerned the Mournlands, Warforged migration, the resurgence of [Locke Pierce](/people/locke-pierce/) and the resistance group known as [the Hundreds](/organizations/the-hundreds/). Eden discovered that a Hundreds cell was operating inside Sharn and began investigating them in the [Lower City](https://davidjette.github.io/lexicon/places/the-lower-city/), following stolen shipments, anti-Imperial graffiti and reports of a Warforged preacher in the Cogs.
 
-The records disagree on exactly what happened next.
-
-One account has [Preacher](/people/preacher/) chasing Eden through the Lower City drainage tunnels until she fell from the Grand Aqueduct's upper walkway and was impaled on machinery below.
-
-Another set of notes describes the Hundreds deliberately attacking Eden after recognizing her Imperial badge and resemblance to Esther, crushing her sternum and leaving her critically injured.
-
-What is consistent is that Esther found Eden in terrible condition and carried her to the Black Dove hospital.
+While investigating the Hundreds in the Lower City, Eden was critically injured. Esther found her in terrible condition and carried her to the Black Dove hospital.
 
 ![Esther, Eden and Sister Nora - Eden's Death.png](/images/uploads/esther-eden-and-sister-nora-eden-s-death-muxkdjxf.webp)
 *Esther, Eden and Sister Nora - Eden's Death*
@@ -311,7 +305,6 @@ The result became **EDN-00**, the prototype of [Project E.D.E.N.](/organizations
 As Lord Commander, Esther had the authority and resources to turn Eden's failed resurrection into something much larger.
 
 Project E.D.E.N. began with Eden. Esther's desperate attempt to bring her half-sister back produced the first hybridization before [BioTec](/organizations/biotec/) was formally involved. What followed became a much larger Imperial programme whose founding circle included **[Esther Crona](/people/esther-crona/), [Sister Nora](/people/sister-nora/), [Dr. Joanne Menka](/people/dr-joanne-menka/), [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), [Malrik Zeir](/people/malrik-zeir/), [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/)** and BioTec's private owner, **[Dr. Edwin Graves](/people/dr-edwin-graves/)**.
-
 
 ![Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves..png](/images/uploads/project-e-d-e-n-founding-circle-esther-c-muyksbw2.webp)
 
