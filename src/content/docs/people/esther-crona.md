@@ -27,7 +27,7 @@ fields:
   children: Calcifer Blaze, age 8, by Richard Blaze
   residence: Korth - Crona Manor (official); the Veil Building penthouse, Sharn (operational)
   gender: Female
-  age: 19 in Campaign 1; 29 at the start of the Sharn arc; 31 at her death. All three are correct.
+  age: 19 in Campaign 1; 31 at the start of the Sharn arc; 31 at her death.
   eyes: Silver
   hair: Black
   skin: Light Gray
