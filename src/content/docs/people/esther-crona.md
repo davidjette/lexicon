@@ -127,9 +127,17 @@ Whatever has risen in Esther's body appears to be an undead version of the forme
 
 At twelve, [Varyn Crona](/people/varyn-crona/) made Esther his apprentice in **[The Crimson Sun](/organizations/the-crimson-sun/)**, the Empire's elite secret service based in Korth. The Crimson Sun was a small, feared government agency made up of Masters and apprentices, most of them Knights, Paladins or Sorcerers. Its agents served as spies and rebel hunters, operating where ordinary Imperial forces could not.
 
+
+![Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth.png](/images/uploads/esther-crona-age-18-and-vayrn-crona-insi-muxi6rmt.webp)
+*Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth*
+
 Esther rose from Apprentice to Inquisitor and eventually High Inquisitor while working directly under Varyn. His position as Master of the Crimson Sun also carried a seat on the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right, placing Esther close to the highest levels of Imperial power from an early age.
 
 Varyn was more than Esther's commanding officer. He was her adoptive father, teacher and master, and he personally shaped the way she understood loyalty, authority and the use of power. Under his direction, Esther became an Imperial operative trusted with espionage, rebel hunting, assassination and the Empire's most sensitive operations.
+
+
+![Esther Crona at 18 with Vayrn Crona in Korth, Vayrn Manor - portrait.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxibf59.webp)
+*Esther and Varyn in Crona Manor - Korth*
 
 During Campaign 1, Esther served alongside Varyn, [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). She helped recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and carried out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
 
@@ -155,6 +163,10 @@ The woman who would eventually become Lord Commander of Sharn was forged in the 
 
 At nineteen, Esther was already a High Inquisitor when she stood with [Uriel Qualanthri](/people/uriel-qualanthri/), [Locke Pierce](/people/locke-pierce/) and [John C. LeBeefe](/people/john-c-lebeefe/) in the ruins of Arden Crest and swore to work together and grow in power.
 
+
+![The Unforeseen - John C. LeBeefe, Esther Crona, Uriel Qualanthri, Locke Pierce.png](/images/uploads/the-unforeseen-john-c-lebeefe-esther-cro-muxids24.webp) *The Unforeseen: John C. LeBeefe, Esther Crona, Uriel Qualanthri and Locke Pierce.*
+
+
 The four became [The Unforeseen](/organizations/the-unforeseen/), an Imperial team of elite operatives used for missions that demanded unusual skill, secrecy and violence. They recovered the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and uncovered increasingly dangerous information about the Empire.
 
 One of Esther's most important accomplishments during these years was political rather than military. After the Unforeseen's meeting with the Imperial Council, Esther spent a month in the Eldeen Reaches working with Minister [Henry Heinrick](/people/henry-heinrick/), helping finalize an alliance between the Empire and the Children of Winter under Dark Queen Ivanka Riefenstahl. The agreement strengthened Imperial influence in the region while recognizing the Children of Winter's leadership there.
@@ -179,7 +191,7 @@ When Uriel was killed by a mind flayer in the sewers beneath [Sharn](/places/sha
 
 Esther never forgot what she had witnessed. Years later, when [Eden](/people/eden/) lay dying, Esther remembered the ritual and demanded that the Black Doves attempt to reproduce it.
 
-Uriel eventually married Emperor Kaius III. Esther was secretly in love with her and was hurt by the marriage. In the year of the Leef / Newham arc, tavern talk held that the Emperor's wedding gift to the Empire had been the abolition of slavery and that he had fallen ill and had not been seen since the wedding.
+Uriel eventually married Emperor Kaius III. Esther was secretly in love with her and was hurt by the marriage.
 
 Uriel nevertheless gave Esther a deeply personal wedding gift: the undead bodies of the [Council of 13](/organizations/the-council-of-13/), which became Esther's Death Knights and later her masked Honor Guard. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
@@ -190,6 +202,10 @@ Uriel herself delivered Calcifer on the balcony of the [Veil Building](/places/t
 Esther saw what was happening and screamed at Uriel to stop.
 
 Uriel did.
+
+
+![Sharn Ep 14 — The Memory in the Sky - Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-esther-muxiia95.webp) *The memory broadcast over Sharn: a green glow spreads from Uriel’s hand over the newborn Calcifer.*
+
 
 When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther understood that Uriel had been trying to kill her son.
 
