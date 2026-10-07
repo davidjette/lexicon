@@ -409,7 +409,7 @@ Esther ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library,
 ![Esther and Renn Tal - Sharn Library.png](/images/uploads/esther-and-renn-tal-sharn-library-muxxcef8.webp)
 *Esther and Renn Tal - Sharn Library*
 
-That warning was triggered when [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and Dario came to the library seeking the same information. Renn became interested in their questions and helped them, but another librarian alerted the Iron Veil. The three escaped the library and later met Renn again in the Lower City.
+That warning was triggered when [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) came to the library seeking the same information. Renn became interested in their questions and helped them, but another librarian alerted the Iron Veil. The three escaped the library and later met Renn again in the Lower City.
 
 Esther came to the library before Renn left and spoke with her about what she had learned. When Renn departed, Esther began tracking her. She enlisted General [Stockton Thar](/people/general-stockton-thar/) and his Dragonmark of Finding to locate Renn in the Lower City. The trail led Esther to a Cogborn factory, where she had a massive drill brought in and used it to bore down beneath the building.
 
