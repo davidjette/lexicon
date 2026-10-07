@@ -113,11 +113,7 @@ When her youngest half-sister [Eden](/people/eden/) was critically injured, Esth
 
 Esther died on her own balcony during [the fall of Sharn](/history/the-fall-of-sharn/) after learning what Uriel had done to Calcifer. Bleeding out and defeated, she voided every Iron Veil pact in the city, ordered Uriel killed and, with the last of her strength, seized **the *Black Veil*, her Imperial warship**, and hurled it into Uriel's statue above the Skyport before falling to her death.
 
-Her corpse was supposed to be cremated.
-
-It disappeared.
-
-For three years, Esther was believed dead. She was dead.
+Her corpse was supposed to be cremated. It disappeared.
 
 What happened to her corpse was eventually revealed beneath the [Ivory Lazaret](/places/the-ivory-lazaret/), where it had been subjected to a resurrection process similar to the one used on [Eden](/people/eden/) and later [Project E.D.E.N.](/organizations/project-e-d-e-n/) units. The process did not appear to restore Esther to life in the normal sense. Instead, her dead body was rebuilt and reanimated.
 
@@ -220,7 +216,7 @@ Bleeding out on her balcony, Esther's final command was for Uriel:
 
 > **"... Kill Empress Uriel Qualanthri..."**
 
-Esther died trying to destroy the woman she had once loved.
+Esther died calling for the death of the woman she had once loved.
 
 ## The Sisters
 
@@ -529,7 +525,7 @@ And she is back because **it wants her back**.
 
 
 
-**Organizations / Groups:** 
+## Organizations / Groups:
 
 [The Crimson Sun](/organizations/the-crimson-sun/) · [The Unforeseen](/organizations/the-unforeseen/) · [The Iron Veil](/organizations/the-iron-veil/) · [Project E.D.E.N.](/organizations/project-e-d-e-n/)
 
