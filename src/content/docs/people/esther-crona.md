@@ -157,19 +157,33 @@ During one period of downtime in Korth she waited for orders in Varyn's manor, g
 
 ## Uriel
 
-Esther and [Uriel Qualanthri](/people/uriel-qualanthri/) were two of the four founders of the Unforeseen, and Esther was secretly in love with her.
+[Uriel Qualanthri](/people/uriel-qualanthri/) was one of Esther's three fellow founders of [The Unforeseen](/organizations/the-unforeseen/), and the woman Esther was secretly in love with. They spent years working together as Imperial agents, and their relationship survived the transformation of both women from rebel hunters into major Imperial powers.
 
-In the year of the Leef / Newham arc, tavern talk held that Uriel had married Emperor Kaius III, that the Emperor's wedding gift to the Empire had been the abolition of slavery, and that the Emperor had fallen ill and had not been seen since the wedding.
+When Uriel was killed by a mind flayer in the sewers beneath Sharn, Esther refused to leave her dead. She carried Uriel's body out and brought her to [Fema Nolan](/people/zero-one-fema-nolan/), a healer and founder of [Fulcrum](/organizations/fulcrum/). Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
 
-Esther was hurt by Uriel's marriage.
+Esther never forgot what she had witnessed.
 
-Uriel's personal wedding gift to Esther was much darker: the undead bodies of the [Council of 13](/organizations/the-council-of-13/), intended to serve Esther as her Death Knights.
+Years later, when [Eden](/people/eden/) lay dying, Esther remembered the ritual and demanded that the Black Doves attempt to reproduce it. Eden's failed resurrection became the prototype for [Project E.D.E.N.](/organizations/project-e-d-e-n/).
 
-Their relationship nevertheless continued.
+Uriel eventually married Emperor Kaius III. Esther was secretly in love with her and was hurt by the marriage. Uriel nevertheless gave Esther a deeply personal wedding gift: the undead bodies of the [Council of 13](/organizations/the-council-of-13/), which became Esther's Death Knights and later her masked Honor Guard.
 
-When Uriel was later killed by a mind flayer in the sewers of Sharn, Esther carried her body to the rebel [Fulcrum](/organizations/fulcrum/) base beyond the walls. [Fema Nolan](/people/zero-one-fema-nolan/) resurrected Uriel and embedded a diamond at the base of her skull.
+When Esther and Richard had their son [Calcifer](/people/calcifer/), Esther named Uriel his godmother.
 
-Years later, Esther would remember that ritual when Eden lay dying.
+Uriel herself delivered Calcifer on the balcony of the [Veil Building](/places/the-veil-building/). Years later, an [ArcEye](/items/the-arcane-eye-network/) recording of the birth was recovered. It showed Uriel raising her hand over the newborn while a sickly green light spread across him. Calcifer stopped breathing. Dark, vein-like markings appeared on his face.
+
+Esther saw what was happening and screamed at Uriel to stop. Uriel did.
+
+For years the meaning of what Esther had witnessed remained hidden. When the recording was finally broadcast across Sharn during the fall of the city, Esther understood that Uriel had been trying to kill her son.
+
+Whatever remained of their bond ended there.
+
+Bleeding out on her balcony, Esther's final command was not for the Empire or the Iron Veil.
+
+It was for Uriel:
+
+> **"... Kill Empress Uriel Qualanthri..."**
+
+Esther died trying to destroy the woman she had once loved.
 
 ## The Sisters
 
