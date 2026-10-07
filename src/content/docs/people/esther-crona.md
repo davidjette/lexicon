@@ -371,14 +371,18 @@ Calcifer was also the person around whom Esther's ruthlessness became most extre
 ![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-muxq23aw.webp)
 *Esther, Richard and Calcifer at the POSÉ opening*
 
+![Esther Crona and Richard Blaze.png](/images/uploads/esther-crona-and-richard-blaze-muxr8dsk.webp)
+*Esther Crona and Richard Blaze*
+
 Richard's life was more complicated than Esther understood. Behind the public identity of the Empire's celebrated chef, he was secretly one of the original founders of [Fulcrum](/organizations/fulcrum/), using his restaurants, money and supply networks to move intelligence and resources to the rebellion while remaining inside the household of the woman who ruled Sharn. For years, husband and wife lived on opposite sides of the same war without Esther knowing the full extent of Richard's second life.
 
 Their final meeting made that contradiction impossible to ignore.
 
-![Esther Crona and Richard Blaze.png](/images/uploads/esther-crona-and-richard-blaze-muxr8dsk.webp)
-*Esther Crona and Richard Blaze*
-
 When Richard later confronted Esther on the balcony of the [Veil Building](/places/the-veil-building/), he did not attack her first. He tried to reason with his wife while Calcifer ran into his arms. Esther accused him of bringing her killers into her home, and the marriage that had once contained moments of genuine warmth became part of the battle itself.
+
+
+![Sharn Ep 18 — The Fall of Esther Crona - Richard Blaze, Calcifer and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-ric-muxtetqe.webp)
+*Esther, Richard and Calcifer*
 
 Even then, Richard's first concern was their son. As the fight escalated, he pulled Calcifer into the boy's bedroom and cast Darkness so that he would not have to watch his mother die. He then returned to the balcony, using his subtle sorcery to heal and bolster the others while keeping himself between the fighting and his son.
 
