@@ -182,6 +182,9 @@ After Varyn's death, Esther took up his personal sword, **the [Crimson Sun](/ite
 
 Esther eventually turned that obsession toward the mystery surrounding the [Eternal Guardian](/people/varyn-crona/), the ritual that had bound Varyn and the [Forge of Binding](/places/the-forge-of-binding/). She ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to investigate the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. Under Esther's authority, material concerning Varyn, the Crimson Sun, the Council of 13, the Eternal Guardian rites and the Forge was gathered under Iron Veil protection, including the Eternal Guardian tome in the Sharn Library.
 
+![Esther and Renn Tal - Sharn Library.png](/images/uploads/esther-and-renn-tal-sharn-library-muxxcef8.webp)
+*Esther and Renn Tal - Sharn Library*
+
 The investigation eventually led to the Forge itself, hidden deep beneath Sharn in the ruins of a Dhakaani-era foundry. There, [Eric the Cleric](/people/eric-the-cleric/) performed the Rite of Recall and summoned **Varyn's Echo** from the Forge.
 
 The Echo did not remain.
@@ -191,6 +194,9 @@ It repeated fragments of Varyn's voice before shattering into red-black light:
 > "…we'll bleed the sun, eternal night. Our bloodline shall reign… As the blood is the power, and the blood flows through me, the power is mine. E'noch… Qualanthri… my brother…"
 
 The rite broke the old binding. The Echo was gone, and the sword Esther had carried for years was no longer what it had been. The red within the blade drained away and crystallized, leaving behind something diminished and changed. Esther's Hexblade bond was believed to have weakened or broken with it. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
+
+![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun 3.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-muxxdnps.webp)
+*Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun*
 
 Richard Blaze later described what Esther was like immediately afterward. She returned home at sunrise and stood quietly on their balcony, seeming almost lost, as though she had just awakened from a very long sleep. She told Richard that she had been looking for something for a very long time and that, deep beneath the city, she had finally found it. For once, she was not angry or frightened. Richard said it was the most content he had seen her in years.
 
