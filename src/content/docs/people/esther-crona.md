@@ -220,31 +220,32 @@ Her philosophy was simple:
 
 [Uriel Qualanthri](/people/uriel-qualanthri/) was one of Esther's three fellow founders of [The Unforeseen](/organizations/the-unforeseen/), and the woman Esther was secretly in love with.
 
-Their friendship survived long after the Unforeseen ended. Even as Esther rose to Lord Commander and Uriel became Empress, Uriel remained one of the most important people in Esther's life.
+Their bond survived long after the Unforeseen ended. Even as Esther rose to Lord Commander and Uriel became Empress, Uriel remained one of the most important people in Esther's life.
 
-When Uriel was killed by a mind flayer in the sewers beneath [Sharn](/places/sharn/), Esther refused to leave her dead. In a panic, she carried Uriel's body to an area just outside the city where they believed help might be found. There she encountered [Fema Nolan](/people/zero-one-fema-nolan/), who was known to them only as a healer and possible rebel. Esther begged her to help, and Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
+When Uriel was killed by a mind flayer in the sewers beneath [Sharn](/places/sharn/), Esther refused to leave her dead. In a panic, she carried Uriel's body to an area just outside the city where they believed help might be found. There she encountered [Fema Nolan](/people/zero-one-fema-nolan/), who was known to them only as a healer. Esther begged her to help, and Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
 
 At the time, Esther and the others did not know Fema was connected to the [Silver Flame](/organizations/the-silver-flame/), [Fulcrum](/organizations/fulcrum/), or the rebellion. They believed they had simply found a healer willing to save Uriel.
 
 ![Esther, Uriel, LeBeefe, Locke and Fema Nolan.png](/images/uploads/esther-uriel-lebeefe-locke-and-fema-nola-muxjg6ke.webp)
 *Esther, Uriel, LeBeefe, Locke and Fema Nolan*
 
-Esther never forgot what she had witnessed. Years later, when [Eden](/people/eden/) lay dying, Esther remembered the ritual and demanded that the Black Doves attempt to reproduce it.
+Esther never forgot what she had seen. Years later, when [Eden](/people/eden/) lay dying, she remembered the ritual and demanded that the Black Doves attempt to reproduce it.
 
-Uriel eventually married Emperor Kaius III. Esther was secretly in love with her and was hurt by the marriage. Uriel nevertheless gave Esther a deeply personal wedding gift: the undead bodies of the [Council of 13](/organizations/the-council-of-13/), which became Esther's Death Knights and later her masked Honor Guard. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+Uriel eventually married Emperor Kaius III. Esther was hurt by the marriage, but Uriel remained close to her. She gave Esther a deeply personal wedding gift: the undead bodies of the [Council of 13](/organizations/the-council-of-13/), which became Esther's Death Knights and later her masked Honor Guard. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 When Esther and Richard had their son [Calcifer](/people/calcifer/), Esther named Uriel his godmother.
 
-Uriel herself delivered Calcifer on the balcony of the [Veil Building](/places/the-veil-building/). Years later, an ArcEye recording of the birth was recovered. It showed Uriel raising her hand over the newborn while a sickly green light spread across him. Calcifer stopped breathing. Dark, vein-like markings appeared on his face.
+Uriel herself delivered Calcifer on the balcony of the [Veil Building](/places/the-veil-building/). Years later, an ArcEye recording of the birth was recovered. It showed Esther heavily pregnant, in severe pain and losing blood as she drifted in and out of consciousness.
 
-Esther saw what was happening and screamed at Uriel to stop.
-
-Uriel did.
+After Calcifer was born, Uriel raised her hand over him. A sickly green light appeared, his crying stopped, and dark, vein-like markings spread across his cheek. Esther heard the silence and screamed for Uriel to help. Uriel withdrew her hand, and Calcifer gasped and began crying again.
 
 ![Sharn Ep 14 — The Memory in the Sky - Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-esther-muxiia95.webp)
 *The memory broadcast over Sharn: a green glow spreads from Uriel’s hand over the newborn Calcifer.*
 
-When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther understood that Uriel had been trying to kill her son. Whatever remained of their bond ended there.
+Esther later remembered those moments as Uriel trying to harm her son. Her memory was fragmented by pain and blood loss, but the recovered recording appeared to support what she believed had happened. She could never have known exactly what Uriel intended or what caused her to stop.
+
+
+When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther saw the events again. To her, the memory confirmed what she had come to believe about Uriel and her son. Whatever remained of their bond ended there.
 
 Bleeding out on her balcony, Esther's final command was for Uriel:
 
