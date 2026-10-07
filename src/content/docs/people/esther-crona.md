@@ -395,7 +395,7 @@ At [POSÉ](/places/pose/), Esther sat among the people who made up the Empire's 
 
 Esther answered every problem as though it were a matter of logistics.
 
-When Menka reported that Martin Kross was missing and that BioTec had been breached, Esther said:
+When Menka reported that [Martin Kross](https://davidjette.github.io/lexicon/people/martin-kross/) was missing and that [BioTec](/organizations/biotec/) had been breached, Esther said:
 
 > "Clean the mess. Contain the story. And find Kross."
 
