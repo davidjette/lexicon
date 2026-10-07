@@ -312,7 +312,7 @@ Each controlled a different part of the project. Esther held overall authority a
 
 The resulting programme combined undead bodies, Warforged components, Black Dove rites, BioTec augmentation and Imperial military resources, eventually producing units that were deployed into the Mournlands.
 
-At [POSÉ](/places/pose/), Faith begged Esther to bring Eden home.
+At [POSÉ](https://davidjette.github.io/lexicon/places/pose/), Faith begged Esther to bring Eden home.
 
 > **Faith:** "Esther, bring her home. It's eating at her. She should not suffer any longer. Bring her home. The project is ready."
 >
@@ -320,7 +320,7 @@ At [POSÉ](/places/pose/), Faith begged Esther to bring Eden home.
 
 Esther was using Eden as leverage to force the Umbra supply to increase.
 
-She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her half-sister, her brother-in-law and wealthy suppliers connected to the project, not as the leaders of a hidden blood cult.
+She knew Faith and Malrik were supplying the project, but she did not know the true nature of the [Children of Ember](/organizations/the-children-of-ember/). She was unaware that her sister and brother-in-law were leaders of a hidden cult with its own plans for Calcifer. To Esther, they were still family, and their connection to E.D.E.N. was a matter of supply and loyalty to the Empire.
 
 ## Public and private
 
