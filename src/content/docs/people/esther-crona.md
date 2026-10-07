@@ -535,7 +535,6 @@ And she is back because **it wants her back**.
 
 
 ![Korth Ep 16 — Orientation Day - Gemma disguised as Black Doves - Under The Ivory Lazaret - Operating theater - Zero-One, Risen Esther Crona.png](/images/uploads/korth-ep-16-orientation-day-gemma-disgui-muyofgkj.webp)
-
 *Gemma disguised as a Black Dove in battle with a risen Esther Crona*
 
 ## Organizations / Groups:
