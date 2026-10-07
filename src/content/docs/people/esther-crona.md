@@ -123,15 +123,12 @@ Whatever has risen in Esther's body appears to be an undead version of the forme
 
 At twelve, [Varyn Crona](/people/varyn-crona/) made Esther his apprentice in **[The Crimson Sun](/organizations/the-crimson-sun/)**, the Empire's elite secret service based in Korth. The Crimson Sun was a small, feared government agency made up of Masters and apprentices, most of them Knights, Paladins or Sorcerers. Its agents served as spies and rebel hunters, operating where ordinary Imperial forces could not.
 
-
 ![Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth.png](/images/uploads/esther-crona-age-18-and-vayrn-crona-insi-muxi6rmt.webp)
 *Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth*
 
 Esther rose from Apprentice to Inquisitor and eventually High Inquisitor while working directly under Varyn. His position as Master of the Crimson Sun also carried a seat on the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right, placing Esther close to the highest levels of Imperial power from an early age.
 
 Varyn was more than Esther's commanding officer. He was her adoptive father, teacher and master and eventually her lover. He personally shaped the way she understood loyalty, authority and the use of power. Under his direction, Esther became an Imperial operative trusted with espionage, rebel hunting, assassination and the Empire's most sensitive operations.
-
-
 
 ![Esther Crona at 18 with Vayrn Crona in Korth, Vayrn Manor.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxqay3c.webp)
 *Esther and Varyn in Crona Manor - Korth*
@@ -204,9 +201,7 @@ Esther saw what was happening and screamed at Uriel to stop.
 
 Uriel did.
 
-
 ![Sharn Ep 14 — The Memory in the Sky - Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-esther-muxiia95.webp) *The memory broadcast over Sharn: a green glow spreads from Uriel’s hand over the newborn Calcifer.*
-
 
 When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther understood that Uriel had been trying to kill her son.
 
@@ -228,10 +223,8 @@ Inside she found three tiefling women she did not recognize: **[Faith](/people/f
 
 LeBeefe had learned that his harvested sperm had produced four daughters with different mothers and had called all four of them to his home. [Sister Nora](/people/sister-nora/) of the local Black Dove hospital was brought in to confirm their blood relationship.
 
-
 ![LeBeefe's Daughters - Esther, Faith, Eden and Blair. First time meeting.png](/images/uploads/lebeefe-s-daughters-esther-faith-eden-an-muxqhpm6.webp)
 *LeBeefe's Daughters - Esther, Faith, Eden and Blair. First time meeting*
-
 
 The four women were established as **half-sisters**. They share the same biological father, John C. LeBeefe, but each has a different mother.
 
@@ -264,7 +257,6 @@ One account has [Preacher](/people/preacher/) chasing Eden through the Lower Cit
 Another set of notes describes the Hundreds deliberately attacking Eden after recognizing her Imperial badge and resemblance to Esther, crushing her sternum and leaving her critically injured.
 
 What is consistent is that Esther found Eden in terrible condition and carried her to the Black Dove hospital.
-
 
 ![Esther, Eden and Sister Nora - Eden's Death.png](/images/uploads/esther-eden-and-sister-nora-eden-s-death-muxkdjxf.webp)
 *Esther, Eden and Sister Nora - Eden's Death*
@@ -320,7 +312,6 @@ Over time, the pact could erode individuality, emotional range and the ability t
 
 The Iron Veil was not a uniform body. **Sharn patrols** were largely former City Watch personnel. Many still thought of themselves as policemen rather than soldiers and continued trying to protect the people of Sharn where they could. Some remained because the Veil offered a steady job and a way to support their families.
 
-
 ![Esther Crona at Crona's Wall.png](/images/uploads/esther-crona-at-crona-s-wall-muxkgf89.webp)
 *Esther at Crona's Wall*
 
@@ -352,7 +343,14 @@ Her philosophy was simple:
 
 Esther's public image was one of absolute control. She was regal, disciplined and restrained, rarely raising her voice and expecting competence, loyalty and obedience from everyone around her. Even when surrounded by the Empire's most powerful figures, she behaved as though every conversation were another matter of state.
 
-Her private life was markedly different. Early on she lived in the house [Varyn Crona](/people/varyn-crona/) had left her, painted, drank heavily during periods of grief and continued to speak to [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) as though he were still beside her. But the strongest evidence of the woman beneath the armor was her relationship with her husband, [Richard Blaze](/people/richard-blaze/), and their son, [Calcifer](/people/calcifer/) whom she raised in Sharn.
+Her private life was markedly different. Early on she lived in the house [Varyn Crona](/people/varyn-crona/) had left her, painted, drank heavily during periods of grief and continued to speak to [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) as though he were still beside her. But the strongest evidence of the woman beneath the armor was her relationship with her husband, [Richard Blaze](/people/richard-blaze/), and their son, [Calcifer](/people/calcifer/), whom she raised in Sharn.
+
+![Episode 3 (a,b,c) - Massacre on the Talenta Plains Express - Richard Blaze and Esther Crona's first meeting.png](/images/uploads/episode-3-a-b-c-massacre-on-the-talenta-muxsviog.webp)
+*Richard Blaze and Esther Crona's first meeting*
+
+Esther first met [Richard Blaze](/people/richard-blaze/) aboard the lightning rail returning to Korth after the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) was recovered from the Greenbluff mines. The train was attacked by rebels from [Fulcrum](/organizations/fulcrum/), and [John Stamos](/people/john-stamos/) was killed during the fighting. Richard was there that day, and the journey introduced him to Esther. What began with a meeting on an Imperial train eventually became a sexual relationship, then a marriage, and finally a family.
+
+Their early relationship developed while Esther was still grieving Varyn. In Korth, while she waited for another assignment in Varyn's manor, her nights included frequent encounters with Richard even as she continued to dream about Varyn's murder and hear his voice through [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/). <small>(Nico's DM notes, Episode 6)</small>
 
 Richard was one of the few people who could approach Esther without ceremony. Their marriage was affectionate and familiar in a way that almost none of her other relationships were. At the grand opening of his restaurant [POSÉ](/places/pose/), Richard greeted her with a deep kiss, and she slipped her fingers between his while telling him, "You're doing beautifully, Richard." His answer was simple: "Because of you."
 
@@ -369,15 +367,12 @@ That same warmth was visible in her relationship with Calcifer. He was raised in
 
 Calcifer was also the person around whom Esther's ruthlessness became most extreme. She was willing to use the power of the Empire to protect him, and ultimately willing to kill members of her own family when she believed they threatened him. Her relationship with him was therefore both deeply maternal and dangerously possessive: Calcifer was her child, her responsibility and one of the few things she could not accept losing.
 
-
 ![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-muxq23aw.webp)
 *Esther, Richard and Calcifer at the POSÉ opening*
 
 Richard's life was more complicated than Esther understood. Behind the public identity of the Empire's celebrated chef, he was secretly one of the original founders of [Fulcrum](/organizations/fulcrum/), using his restaurants, money and supply networks to move intelligence and resources to the rebellion while remaining inside the household of the woman who ruled Sharn. For years, husband and wife lived on opposite sides of the same war without Esther knowing the full extent of Richard's second life.
 
 Their final meeting made that contradiction impossible to ignore.
-
-
 
 ![Esther Crona and Richard Blaze.png](/images/uploads/esther-crona-and-richard-blaze-muxr8dsk.webp)
 *Esther Crona and Richard Blaze*
