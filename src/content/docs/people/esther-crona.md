@@ -105,7 +105,7 @@ gallery:
 
 **Esther Crona** is a tiefling Vengeance Paladin and Hexblade Warlock, founding member of [The Unforeseen](/organizations/the-unforeseen/), former High Inquisitor of [The Crimson Sun](/organizations/the-crimson-sun/) and former Lord Commander of the Imperial Military. Born into slavery, she was purchased at the age of five by [Varyn Crona](/people/varyn-crona/), who adopted and raised her, taught her to read and write and harness her natural powers, and made her his apprentice at twelve. She became an Inquisitor and then High Inquisitor of the Crimson Sun before Varyn was murdered outside Fairhaven.
 
-His death defined the rest of her life. Esther inherited [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) and came to believe that his soul remained within it, guiding and training her as her Hexblade. She pursued his killers, purged much of the [Council of 13](/organizations/the-council-of-13/), and eventually rose to Lord Commander of Sharn, ruling through the [Iron Veil](/organizations/the-iron-veil/) and the [ArcEye network](/items/the-arcane-eye-network/).
+His death defined the rest of her life. Esther inherited [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) and came to believe that his soul remained within it, guiding and training her as her Hexblade. She eventually learned that members of the [Council of 13](/organizations/the-council-of-13/) were responsible for Varyn's death, hunted them down, and ultimately rose to Lord Commander of Sharn, ruling through the [Iron Veil](/organizations/the-iron-veil/) and the [ArcEye network](/items/the-arcane-eye-network/).
 
 She married the chef [Richard Blaze](/people/richard-blaze/) and had a son, [Calcifer](/people/calcifer/). She was also the eldest of four daughters fathered by [John C. LeBeefe](/people/john-c-lebeefe/), all born to different mothers. Esther did not meet her three biological half-sisters until years after they were born.
 
@@ -124,7 +124,7 @@ Whatever has risen in Esther's body appears to be an undead version of the forme
 At twelve, [Varyn Crona](/people/varyn-crona/) made Esther his apprentice in **[The Crimson Sun](/organizations/the-crimson-sun/)**, the Empire's elite secret service based in Korth. The Crimson Sun was a small, feared government agency made up of Masters and apprentices, most of them Knights, Paladins or Sorcerers. Its agents served as spies and rebel hunters, operating where ordinary Imperial forces could not.
 
 ![Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth.png](/images/uploads/esther-crona-age-18-and-vayrn-crona-insi-muxi6rmt.webp)
-*Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth*
+*Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth*
 
 Esther rose from Apprentice to Inquisitor and eventually High Inquisitor while working directly under Varyn. His position as Master of the Crimson Sun also carried a seat on the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right, placing Esther close to the highest levels of Imperial power from an early age.
 
@@ -133,7 +133,7 @@ Varyn was more than Esther's commanding officer. He was her adoptive father, tea
 ![Esther Crona at 18 with Vayrn Crona in Korth, Vayrn Manor.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxqay3c.webp)
 *Esther and Varyn in Crona Manor - Korth*
 
-During Campaign 1, Esther served alongside Varyn, [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). She helped recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and carried out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
+During Campaign 1, Esther served alongside [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). Varyn was already dead. Esther continued her work for the Empire while carrying his sword and struggling with his death, helping recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fighting rebels aboard the Talenta Plains Express, investigating Imperial secrets and carrying out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
 
 Esther was nineteen and already a High Inquisitor when she became one of the founders of [The Unforeseen](/organizations/the-unforeseen/). By then she was no longer simply Varyn's young apprentice. She had become one of the Empire's most capable and trusted agents in her own right.
 
@@ -141,11 +141,12 @@ Varyn's death left Esther with two things: his sword and a question she could no
 
 ## The Unforeseen
 
-At nineteen, Esther was already a High Inquisitor when she stood with [Uriel Qualanthri](/people/uriel-qualanthri/), [Locke Pierce](/people/locke-pierce/) and [John C. LeBeefe](/people/john-c-lebeefe/) in the ruins of Arden Crest and swore to work together and grow in power.
+Esther was nineteen when the Unforeseen campaign began, roughly six months to a year after Varyn's death. Already a High Inquisitor, she stood with [Uriel Qualanthri](/people/uriel-qualanthri/), [Locke Pierce](/people/locke-pierce/) and [John C. LeBeefe](/people/john-c-lebeefe/) in the ruins of Arden Crest and swore to work together and grow in power.
 
 The four became [The Unforeseen](/organizations/the-unforeseen/), an Imperial team of elite operatives used for missions that demanded unusual skill, secrecy and violence. They recovered the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and uncovered increasingly dangerous information about the Empire.
 
-![The Unforeseen - John C. LeBeefe, Esther Crona, Uriel Qualanthri, Locke Pierce.png](/images/uploads/the-unforeseen-john-c-lebeefe-esther-cro-muxids24.webp) *The Unforeseen: John C. LeBeefe, Esther Crona, Uriel Qualanthri and Locke Pierce.*
+![The Unforeseen - John C. LeBeefe, Esther Crona, Uriel Qualanthri, Locke Pierce.png](/images/uploads/the-unforeseen-john-c-lebeefe-esther-cro-muxids24.webp)
+*The Unforeseen: John C. LeBeefe, Esther Crona, Uriel Qualanthri and Locke Pierce.*
 
 One of Esther's most important accomplishments during these years was political rather than military. After the Unforeseen's meeting with the Imperial Council, Esther spent a month in the Eldeen Reaches working with Minister [Henry Heinrick](/people/henry-heinrick/), helping finalize an alliance between the Empire and the Children of Winter under Dark Queen Ivanka Riefenstahl. The agreement strengthened Imperial influence in the region while recognizing the Children of Winter's leadership there.
 
@@ -157,9 +158,7 @@ Back in Korth she spent months waiting for another assignment in Varyn's manor. 
 
 During the Unforeseen's investigations, Esther finally learned what had happened to Varyn. Evidence connected members of the Council of 13 to his assassination, transforming his death from a personal tragedy into a betrayal by the very government he had served.
 
-In the Emperiors throne room, Esther was specifically reminded of Varyn's loyalty and charged with avenging his death. She was also given the possibility that she might one day take his place.
-
-By the end of the Unforeseen's campaign, Esther had learned that the Council of 13 was responsible for Varyn's assassination. The discovery changed the course of her life. The Council had not simply killed her adoptive father and master; they had murdered the head of the organization that had raised her and betrayed the Empire he had spent his life protecting.
+In the Emperor's throne room, Esther was specifically reminded of Varyn's loyalty and charged with avenging his death. She was also given the possibility that she might one day take his place.
 
 What happened next occurred largely outside the campaigns themselves. Esther hunted down the Council, dissolved the Crimson Sun and eventually rose to command the military of Sharn.
 
@@ -172,7 +171,7 @@ For Esther, the Unforeseen years were the bridge between the woman Varyn trained
 
 In the years following the Unforeseen campaign, Esther acted on what she had learned about Varyn's assassination. She hunted down the members of the Council of 13 and their immediate families, then dismantled the Crimson Sun itself. With the old order destroyed, Esther rose through the Imperial hierarchy and became Grand Inquisitor and Lord Commander of the Imperial Military.
 
-From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance.
+From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance. Esther wanted a military force that answered directly to her rather than to the institutions she had learned to distrust.
 
 Her defining creation was the [Iron Veil](/organizations/the-iron-veil/), whose soldiers entered magical pacts directly with Esther.
 
@@ -189,7 +188,7 @@ The Iron Veil was not a uniform body. **Sharn patrols** were largely former City
 ![Esther Crona at Crona's Wall.png](/images/uploads/esther-crona-at-crona-s-wall-muxkgf89.webp)
 *Esther at Crona's Wall*
 
-Much of Esther's time as Lord Commander was spent directing the war against the [Uruk-Hoth Republic]. Along the Empire's western frontier, she oversaw the construction and maintenance of Crona's Wall, a colossal magical barrier raised across the frontier to hold back the Uruk-Hoth advance. The Wall was sustained with Red Khyber extracted from the Mournlands by Project E.D.E.N. units, tying Esther's military campaign directly to the secret program she had created after Eden's death.
+Much of Esther's time as Lord Commander was spent directing the war against the Uruk-Hoth Republic. Along the Empire's western frontier, she oversaw the construction and maintenance of [Crona's Wall](/places/cronas-wall/), a massive, mythal-like magical barrier raised across the frontier to hold back and push against the Uruk-Hoth advance. The Wall was sustained with [Red Khyber](/items/red-khyber/) extracted from the Mournlands by [Project E.D.E.N.](/organizations/project-e-d-e-n/) units, tying Esther's military campaign directly to the secret program she had created after Eden's death.
 
 **Frontliners** were the heavily trained soldiers stationed at [Crona's Wall](/places/cronas-wall/). They were real war soldiers — stronger, better trained and often capable of casting spells. Esther could bring them into the city when something demanded serious military force.
 
@@ -207,7 +206,7 @@ That policy helped create the conditions from which [R.U.S.T.](/organizations/r-
 
 Her rule was reinforced by the [ArcEye network](/items/the-arcane-eye-network/), which watched and recorded the city.
 
-At the western front, her armies held [Crona's Wall](/places/cronas-wall/) against the Uruk-Hoth Republic. When General [Stockton Thar](/people/general-stockton-thar/) warned her that the Wall was draining warmth from the land and that Lake Galifar had frozen, Esther answered:
+At the western front, General [Stockton Thar](/people/general-stockton-thar/) warned Esther that the Wall was draining warmth from the land and that Lake Galifar had frozen. Esther answered:
 
 > "Then hold it together and find your control, general."
 
@@ -220,8 +219,6 @@ Her philosophy was simple:
 [Uriel Qualanthri](/people/uriel-qualanthri/) was one of Esther's three fellow founders of [The Unforeseen](/organizations/the-unforeseen/), and the woman Esther was secretly in love with.
 
 Their friendship survived long after the Unforeseen ended. Even as Esther rose to Lord Commander and Uriel became Empress, Uriel remained one of the most important people in Esther's life.
-
-They spent years working together as Imperial agents, and their relationship survived the transformation of both women from rebel hunters into major Imperial powers.
 
 When Uriel was killed by a mind flayer in the sewers beneath [Sharn](/places/sharn/), Esther refused to leave her dead. She carried Uriel's body out and brought her to [Fema Nolan](/people/zero-one-fema-nolan/), a healer and founder of [Fulcrum](/organizations/fulcrum/). Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
 
@@ -242,7 +239,8 @@ Esther saw what was happening and screamed at Uriel to stop.
 
 Uriel did.
 
-![Sharn Ep 14 — The Memory in the Sky - Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-esther-muxiia95.webp) *The memory broadcast over Sharn: a green glow spreads from Uriel’s hand over the newborn Calcifer.*
+![Sharn Ep 14 — The Memory in the Sky - Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-esther-muxiia95.webp)
+*The memory broadcast over Sharn: a green glow spreads from Uriel’s hand over the newborn Calcifer.*
 
 When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther understood that Uriel had been trying to kill her son. Whatever remained of their bond ended there.
 
@@ -254,7 +252,7 @@ Esther died calling for the death of the woman she had once loved.
 
 ## The Sisters
 
-By the time Esther had become Lord Commander, her attention was no longer focused solely on military affairs. Her private life had grown alongside her political power: she married Richard Blaze, had a son, and eventually learned that she had three biological half-sisters.
+By the time Esther had become Lord Commander, her attention was no longer focused solely on military affairs. Her private life had grown alongside her political power: she married [Richard Blaze](/people/richard-blaze/), had a son, and eventually learned that she had three biological half-sisters.
 
 Nine years before the present, a woman named Greenish Huges contacted Esther on behalf of [John C. LeBeefe](/people/john-c-lebeefe/) and asked her to come to his manor in [Newham](/places/newham/). Esther traveled there with [Richard Blaze](/people/richard-blaze/) but was asked to enter the palace alone. Inside she found three tiefling women she did not recognize: **[Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/)**.
 
@@ -354,7 +352,6 @@ She then watched their son moving through the kitchen and said:
 
 The moment is one of the clearest glimpses of Esther as a wife and mother rather than as Lord Commander. Richard was not merely her husband by title. He was someone she could be physically affectionate with, someone whose success genuinely pleased her, and someone with whom she shared a private tenderness that never appeared in her dealings with subordinates.
 
-
 ![Esther, Richard and Calcifer family portrait.png](/images/uploads/esther-richard-and-calcifer-family-portr-muxt4w83.webp)
 *Esther, Richard and Calcifer family portrait*
 
@@ -410,9 +407,9 @@ It was the moment she became the visible face of the crackdown.
 
 ## The Sword and the Forge
 
-Long after Varyn's death, and by then Lord Commander of Sharn, Esther turned her attention to the mystery surrounding the sword and the Forge of Binding. She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword became her Hexblade, but also the physical center of her grief and her obsession with avenging Varyn.
+Long after Varyn's death, and by then Lord Commander of Sharn, Esther turned her obsession with Varyn toward the mystery surrounding his sword and the [Forge of Binding](/places/the-forge-of-binding/). She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword became her Hexblade, but also the physical center of her grief and her obsession with avenging Varyn.
 
-Esther eventually turned that obsession toward the mystery surrounding the [Eternal Guardian](/people/varyn-crona/), the ritual that had bound Varyn and the [Forge of Binding](/places/the-forge-of-binding/). She ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to investigate the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. Under Esther's authority, material concerning Varyn, the Crimson Sun, the Council of 13, the Eternal Guardian rites and the Forge was gathered under Iron Veil protection, including the Eternal Guardian tome in the Sharn Library.
+Esther ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to investigate the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. Under Esther's authority, material concerning Varyn, the Crimson Sun, the Council of 13, the Eternal Guardian rites and the Forge was gathered under Iron Veil protection, including the Eternal Guardian tome in the Sharn Library.
 
 ![Esther and Renn Tal - Sharn Library.png](/images/uploads/esther-and-renn-tal-sharn-library-muxxcef8.webp)
 *Esther and Renn Tal - Sharn Library*
@@ -428,7 +425,7 @@ It repeated fragments of Varyn's voice before shattering into red-black light:
 The rite broke the old binding. The Echo was gone, and the sword Esther had carried for years was no longer what it had been. The red within the blade drained away and crystallized, leaving behind something diminished and changed. Esther's Hexblade bond was believed to have weakened or broken with it. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
 
 ![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun 3.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-muxxdnps.webp)
-*Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun*
+*Esther Crona on top of a drill inside the Forge of Binding holding the unbound Crimson Sun*
 
 Richard Blaze later described what Esther was like immediately afterward. She returned home at sunrise and stood quietly on their balcony, seeming almost lost, as though she had just awakened from a very long sleep. She told Richard that she had been looking for something for a very long time and that, deep beneath the city, she had finally found it. For once, she was not angry or frightened. Richard said it was the most content he had seen her in years.
 
@@ -455,7 +452,7 @@ Esther put her sword through her own half-sister's chest.
 The death of Faith was immediate and personal. The same woman who had once been tolerated, protected and allowed to live in Esther's city was killed the moment Esther believed she threatened Calcifer.
 
 ![Sharn Ep 17 — The Vault Underground - Dario, Eric and Esther Crona -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muxlxw5m.webp)
-*Esther ontop of The Black Veil warship over the pool deck*
+*Esther on top of the Black Veil warship over the pool deck*
 
 Esther took Calcifer and Gemma back to the [Veil Building](/places/the-veil-building/).
 
@@ -485,7 +482,8 @@ Esther fell from the balcony, landing at the base of the [Veil Building](/places
 
 She was thirty-one.
 
-![Sharn Ep 18 — The Fall of Esther Crona - Esther moving the Black Veil.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-est-muxlzs3d.webp) *Esthers finale stand*
+![Sharn Ep 18 — The Fall of Esther Crona - Esther moving the Black Veil.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-est-muxlzs3d.webp)
+*Esther's final stand*
 
 ## After Death
 
@@ -509,7 +507,8 @@ Esther's corpse had been rebuilt with grafted muscle and skin. Her skeleton was 
 
 She rose bloody and winged. But she did not rise alive. Whatever emerged from the ritual appears to be an undead soldier wearing Esther Crona's body.
 
-![Korth Ep 16 — Orientation Day - Esther Crona - Risen Undead 1.png](/images/uploads/korth-ep-16-orientation-day-esther-crona-muxm1ek5.webp)*Esther Risen*
+![Korth Ep 16 — Orientation Day - Esther Crona - Risen Undead 1.png](/images/uploads/korth-ep-16-orientation-day-esther-crona-muxm1ek5.webp)
+*Esther Risen*
 
 The process was not cleanly understood even when it was performed on Eden, and the extent to which Esther's mind, soul, memories and personality survived is still unknown. She remembers people and objects from her former life, including [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/), but whether this represents the true continuity of Esther's identity or something more complicated remains unclear.
 
@@ -531,7 +530,8 @@ According to Gemma's patron, Esther has a patron of her own.
 
 And she is back because **it wants her back**.
 
-![Korth Ep 16 — Orientation Day - Gemma disguised as Black Doves - Under The Ivory Lazaret - Operating theater - Zero-One, Risen Esther Crona.png](/images/uploads/korth-ep-16-orientation-day-gemma-disgui-muxpx2tn.webp) *Gemma disguised as a Black Dove in battle with a risne Esther Crona*
+![Korth Ep 16 — Orientation Day - Gemma disguised as Black Doves - Under The Ivory Lazaret - Operating theater - Zero-One, Risen Esther Crona.png](/images/uploads/korth-ep-16-orientation-day-esther-crona-muxpx2tn.webp)
+*Gemma disguised as a Black Dove in battle with a risen Esther Crona*
 
 ## Organizations / Groups:
 
@@ -586,10 +586,10 @@ She is famously immaculate and a neat freak.
 - **[Richard Blaze](/people/richard-blaze/)** — husband and father of [Calcifer](/people/calcifer/). Alive.
 - **[Calcifer](/people/calcifer/)** — son. Alive, officially believed dead.
 - **[John C. LeBeefe](/people/john-c-lebeefe/)** — biological father of Esther, Faith, Blair and Eden. Dead.
-- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder of the Unforeseen, woman Esther secretly loved, former confidante and the person Esther finally ordered killed. Alive.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder of [The Unforeseen](/organizations/the-unforeseen/), woman Esther secretly loved, former confidante and the person Esther finally ordered killed. Alive.
 - **[Blair](/people/blair/)** — half-sister, sharing LeBeefe as their biological father, and Queen B of the Underhive. Alive.
-- **[Faith](/people/faith/)** — half-sister, sharing LeBeefe as their biological father, and Mother Prophet of the Children of Ember. Killed by Esther.
-- **[Eden](/people/eden/)** — youngest half-sister, sharing LeBeefe as their biological father, and prototype of Project E.D.E.N. Dead, reanimated as EDN-00.
+- **[Faith](/people/faith/)** — half-sister, sharing LeBeefe as their biological father, and Mother Prophet of the [Children of Ember](/organizations/the-children-of-ember/). Killed by Esther.
+- **[Eden](/people/eden/)** — youngest half-sister, sharing LeBeefe as their biological father, and prototype of [Project E.D.E.N.](/organizations/project-e-d-e-n/). Dead, reanimated as EDN-00.
 - **[Sister Nora](/people/sister-nora/)** — Black Dove cleric who performed the resurrection attempt on Eden. Dead.
 - **[Zero-One](/people/zero-one-fema-nolan/)** — resurrected Uriel and was later forced to perform the reanimation rite on Esther. Alive.
 - **[Renn Tal](/people/renn-tal/)** — archivist whom Esther tasked with researching Varyn and the [Forge of Binding](/places/the-forge-of-binding/). Alive.
@@ -602,4 +602,3 @@ She is famously immaculate and a neat freak.
 > "Your pact is void."
 >
 > — Esther Crona
-
