@@ -1,5 +1,5 @@
 ---
-title: The Upper City
+title: Sharn The Upper City
 description: 'Sharn''s governmental, corporate and elite quarter: the Veil Building, the Skyport, Skyroot Park and the GoldSky Neighborhood.'
 tags:
   - The Upper City
