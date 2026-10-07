@@ -164,7 +164,7 @@ In the years that followed, Esther acted on what she had learned. She hunted dow
 
 For Esther, the Unforeseen years were the bridge between the woman Varyn trained and the Lord Commander she would become.
 
-## Lord Commander of Sharn
+## The Lord Commander
 
 ![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
 *Esther Crona Amidst the Battlefield*
