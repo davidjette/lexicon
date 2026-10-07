@@ -436,9 +436,7 @@ For years, Esther had been searching for an explanation for Varyn, the sword and
 
 She spent the early morning with [Calcifer](/people/calcifer/), playing and laughing with him while Richard cooked breakfast. She told Richard she wished she could stay with them or come to their lake house, but that events at [Crona's Wall](/places/cronas-wall/) were escalating. She kissed her husband and son goodbye and left.
 
-For most of Esther's life, the sword had been a voice telling her to continue.
-
-After the Forge, that voice was gone.
+For most of Esther's life, the sword had been a voice telling her to continue. After the Forge, that voice was gone.
 
 What Esther believed she had finally found beneath Sharn — and what exactly was lost when Varyn's Echo disappeared — remains one of the central mysteries surrounding her. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
 
