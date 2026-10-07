@@ -136,7 +136,8 @@ Esther rose from Apprentice to Inquisitor and eventually High Inquisitor while w
 Varyn was more than Esther's commanding officer. He was her adoptive father, teacher and master, and he personally shaped the way she understood loyalty, authority and the use of power. Under his direction, Esther became an Imperial operative trusted with espionage, rebel hunting, assassination and the Empire's most sensitive operations.
 
 
-![Esther Crona at 18 with Vayrn Crona in Korth, Vayrn Manor - portrait.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxibf59.webp)
+
+![Esther Crona at 18 with Vayrn Crona in Korth, Vayrn Manor.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxqay3c.webp)
 *Esther and Varyn in Crona Manor - Korth*
 
 During Campaign 1, Esther served alongside Varyn, [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). She helped recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and carried out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
@@ -395,10 +396,6 @@ She could be affectionate and ruthless within the same hour.
 ## POSÉ
 
 At [POSÉ](/places/pose/), Esther sat among the people who made up the Empire's military, scientific, political and logistical power structure.
-
-
-![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-muxplx6x.webp) *Esther, Richard and Calcifer at the open of POSÉ*
-
 
 [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) reported on the Emperor and [Project E.D.E.N.](/organizations/project-e-d-e-n/). [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) reported on shipments. General [Stockton Thar](/people/general-stockton-thar/) warned her about the western front. [Dr. Joanne Menka](/people/dr-joanne-menka/) reported the breach at [BioTec](/organizations/biotec/).
 
