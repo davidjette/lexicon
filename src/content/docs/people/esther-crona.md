@@ -22,7 +22,7 @@ icon: fa-sun
 fields:
   rpgAlignment: Lawful Evil
   ggmtitle: High Inquisitor of the Crimson Sun; Lord Commander of the Imperial Military; Grand Inquisitor; Director of the Iron Veil
-  dobDisplay: Unknown - 19 years ago (two years after the end of the Last War)
+  dobDisplay: Unknown - (two years after the end of the Last War)
   birthplace: Unknown - born into slavery
   children: Calcifer Blaze, age 8, by Richard Blaze
   residence: Korth - Crona Manor (official); the Veil Building penthouse, Sharn (operational)
