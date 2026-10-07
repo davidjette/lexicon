@@ -160,11 +160,9 @@ The woman who would eventually become Lord Commander of Sharn was forged in the 
 
 At nineteen, Esther was already a High Inquisitor when she stood with [Uriel Qualanthri](/people/uriel-qualanthri/), [Locke Pierce](/people/locke-pierce/) and [John C. LeBeefe](/people/john-c-lebeefe/) in the ruins of Arden Crest and swore to work together and grow in power.
 
+The four became [The Unforeseen](/organizations/the-unforeseen/), an Imperial team of elite operatives used for missions that demanded unusual skill, secrecy and violence. They recovered the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and uncovered increasingly dangerous information about the Empire.
 
 ![The Unforeseen - John C. LeBeefe, Esther Crona, Uriel Qualanthri, Locke Pierce.png](/images/uploads/the-unforeseen-john-c-lebeefe-esther-cro-muxids24.webp) *The Unforeseen: John C. LeBeefe, Esther Crona, Uriel Qualanthri and Locke Pierce.*
-
-
-The four became [The Unforeseen](/organizations/the-unforeseen/), an Imperial team of elite operatives used for missions that demanded unusual skill, secrecy and violence. They recovered the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and uncovered increasingly dangerous information about the Empire.
 
 One of Esther's most important accomplishments during these years was political rather than military. After the Unforeseen's meeting with the Imperial Council, Esther spent a month in the Eldeen Reaches working with Minister [Henry Heinrick](/people/henry-heinrick/), helping finalize an alliance between the Empire and the Children of Winter under Dark Queen Ivanka Riefenstahl. The agreement strengthened Imperial influence in the region while recognizing the Children of Winter's leadership there.
 
