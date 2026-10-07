@@ -146,6 +146,9 @@ Varyn served as Master of the Crimson Sun and as the Emperor's **Eternal Guardia
 
 Varyn was murdered outside Fairhaven while investigating a suspected rebel stronghold. The Empire treated his death as a consequence of rebel activity, but later intelligence suggested that members of the Council itself were responsible.
 
+![Vary's death - Esther and Varyn in Fairhaven.png](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
+*Vary's death - Esther and Varyn in Fairhaven*
+
 Esther did not accept Varyn's death. She systematically hunted the people she believed responsible and ultimately purged the Council of 13, including members of their immediate families.
 
 The Crimson Sun's Master had been murdered by people within the government he served, and its High Inquisitor responded by destroying much of that same government. Why the Empire tolerated Esther's actions, and why Emperor Kaius III allowed the purge to continue, was never clearly explained.
