@@ -133,7 +133,7 @@ At twelve, [Varyn Crona](/people/varyn-crona/) made Esther his apprentice in **[
 
 Esther rose from Apprentice to Inquisitor and eventually High Inquisitor while working directly under Varyn. His position as Master of the Crimson Sun also carried a seat on the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right, placing Esther close to the highest levels of Imperial power from an early age.
 
-Varyn was more than Esther's commanding officer. He was her adoptive father, teacher and master, and he personally shaped the way she understood loyalty, authority and the use of power. Under his direction, Esther became an Imperial operative trusted with espionage, rebel hunting, assassination and the Empire's most sensitive operations.
+Varyn was more than Esther's commanding officer. He was her adoptive father, teacher and master and eventually her lover. He personally shaped the way she understood loyalty, authority and the use of power. Under his direction, Esther became an Imperial operative trusted with espionage, rebel hunting, assassination and the Empire's most sensitive operations.
 
 
 
