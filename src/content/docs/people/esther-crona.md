@@ -97,7 +97,7 @@ gallery:
     caption: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
 ---
 
-**Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · Former Lord Commander of the Imperial Military · **Alive — resurrected** (Korth Ep 16, formerly died aged 31)**
+**Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · Former Lord Commander of the Imperial Military · **Dead — reanimated as an undead soldier** (Korth Ep 16)**
 
 **Also known as:** High Inquisitor · Grand Inquisitor · Lord Commander · Lord Commander of Sharn · Queen of Whispers
 
@@ -117,7 +117,15 @@ Her corpse was supposed to be cremated.
 
 It disappeared.
 
-Three years later, Esther was resurrected beneath the [Ivory Lazaret](/places/the-ivory-lazaret/).
+For three years, Esther was believed dead.
+
+She was dead.
+
+What happened to her corpse was eventually revealed beneath the [Ivory Lazaret](/places/the-ivory-lazaret/), where it had been subjected to a resurrection process similar to the one used on [Eden](/people/eden/) and later [Project E.D.E.N.](/organizations/project-e-d-e-n/) units. The process did not appear to restore Esther to life in the normal sense. Instead, her dead body was rebuilt and reanimated.
+
+Whatever now walks in Esther Crona's body is therefore an undead version of the former Lord Commander.
+
+How complete the process was, how much of Esther remains, and exactly what returned are still unknown.
 
 ## The Crimson Sun
 
@@ -257,7 +265,7 @@ The result became **EDN-00**, the prototype of [Project E.D.E.N.](/organizations
 
 Project E.D.E.N. began with Eden.
 
-Esther's desperate attempt to resurrect her half-sister produced the first hybridization before [BioTec](/organizations/biotec/) was formally involved. The prototype was then used as the basis for a much larger Imperial programme combining undead bodies, Warforged components, Black Dove rites and BioTec augmentation.
+Esther's desperate attempt to bring her half-sister back produced the first hybridization before [BioTec](/organizations/biotec/) was formally involved. The prototype was then used as the basis for a much larger Imperial programme combining undead bodies, Warforged components, Black Dove rites and BioTec augmentation.
 
 Its later supply chain included bodies recovered for the programme, Warforged components, [Umbra](/items/umbra/) supplied by [Malrik Zeir](/people/malrik-zeir/) and transported by Hallorn d'Lyrandar, Black Dove necromantic rites, BioTec assembly and experimentation, and deployment into the Mournlands by Imperial airships.
 
@@ -435,17 +443,25 @@ For three years Esther was considered dead.
 
 Her final order remained the standing objective of the Inevitables.
 
-Then she appeared beneath the [Ivory Lazaret](/places/the-ivory-lazaret/).
+Then her corpse was found beneath the [Ivory Lazaret](/places/the-ivory-lazaret/).
 
 ## Right Now
 
-Esther Crona is alive.
+Esther Crona is still dead.
 
 In Korth Ep 16, [Zero-One](/people/zero-one-fema-nolan/) was forced to perform a resurrection rite on Esther deep beneath the [Ivory Lazaret](/places/the-ivory-lazaret/). [Sister Maelis Dorn](/people/sister-maelis-dorn/) ordered the ritual completed even while the Inevitables attacked.
 
-Esther's body had been rebuilt with grafted muscle and skin. Her skeleton was reinforced with bronze and black Khyber, and a skull-faced mask had been bolted to her horns.
+The process appears to have been based on the same general principle used to restore [Eden](/people/eden/) and create later [Project E.D.E.N.](/organizations/project-e-d-e-n/) units: a dead body rebuilt through a combination of necromancy, artificial components and magical intervention.
+
+Esther's corpse had been rebuilt with grafted muscle and skin. Her skeleton was reinforced with bronze and black Khyber, and a skull-faced mask had been bolted to her horns.
 
 She rose bloody and winged.
+
+But she did not rise alive.
+
+Whatever emerged from the ritual appears to be an undead soldier wearing Esther Crona's body.
+
+The process was not cleanly understood even when it was performed on Eden, and the extent to which Esther's mind, soul, memories and personality survived is still unknown. She remembers people and objects from her former life, including [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/), but whether this represents the true continuity of Esther's identity or something more complicated remains unclear.
 
 She immediately recognized the sword now carried by [Gemma Corso](/people/gemma-corso/) as her own and called it the Crimson Sun.
 
@@ -467,11 +483,17 @@ And she is back because **it wants her back**.
 
 Esther escaped the chamber and remains at large.
 
+Her exact condition is unknown.
+
+She is officially dead.
+
+Whatever has risen in her place is not.
+
 **Organizations / Groups:** [The Crimson Sun](/organizations/the-crimson-sun/) · [The Unforeseen](/organizations/the-unforeseen/) · [The Iron Veil](/organizations/the-iron-veil/) · [Project E.D.E.N.](/organizations/project-e-d-e-n/)
 
 **Former Holdings:** Crona Manor in Korth · the penthouse atop the [Veil Building](/places/the-veil-building/) · **the *Black Veil*, her Imperial warship** · Fort Crona · [Crona's Wall](/places/cronas-wall/)
 
-**Current Status:** Resurrected and at large
+**Current Status:** Dead — reanimated as an undead soldier; at large
 
 ## Personality Characteristics
 
@@ -508,9 +530,9 @@ She is famously immaculate and a neat freak.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder of the Unforeseen, woman Esther secretly loved, former confidante and the person Esther finally ordered killed. Alive.
 - **[Blair](/people/blair/)** — half-sister, sharing LeBeefe as their biological father, and Queen B of the Underhive. Alive.
 - **[Faith](/people/faith/)** — half-sister, sharing LeBeefe as their biological father, and Mother Prophet of the Children of Ember. Killed by Esther.
-- **[Eden](/people/eden/)** — youngest half-sister, sharing LeBeefe as their biological father, and prototype of Project E.D.E.N. Dead, resurrected as EDN-00.
+- **[Eden](/people/eden/)** — youngest half-sister, sharing LeBeefe as their biological father, and prototype of Project E.D.E.N. Dead, reanimated as EDN-00.
 - **[Sister Nora](/people/sister-nora/)** — Black Dove cleric who performed the resurrection attempt on Eden. Dead.
-- **[Zero-One](/people/zero-one-fema-nolan/)** — resurrected Uriel and was later forced to resurrect Esther. Alive.
+- **[Zero-One](/people/zero-one-fema-nolan/)** — resurrected Uriel and was later forced to perform the reanimation rite on Esther. Alive.
 - **[Renn Tal](/people/renn-tal/)** — archivist whom Esther tasked with researching Varyn and the [Forge of Binding](/places/the-forge-of-binding/). Alive.
 - **[Henry Heinrick](/people/henry-heinrick/)** — last surviving member of the old Council and later mayor of Sharn. Killed by Esther.
 
