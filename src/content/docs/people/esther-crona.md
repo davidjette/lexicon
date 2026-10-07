@@ -522,15 +522,14 @@ According to Gemma's patron, Esther has a patron of her own.
 
 And she is back because **it wants her back**.
 
-Esther escaped the chamber and remains at large.
 
-Her exact condition is unknown.
+![Korth Ep 16 — Orientation Day - Gemma disguised as Black Doves - Under The Ivory Lazaret - Operating theater - Zero-One, Risen Esther Crona.png](/images/uploads/korth-ep-16-orientation-day-gemma-disgui-muxpx2tn.webp) *Gemma disguised as a Black Dove in battle with a risne Esther Crona*
 
-She is officially dead.
 
-Whatever has risen in her place is not.
 
-**Organizations / Groups:** [The Crimson Sun](/organizations/the-crimson-sun/) · [The Unforeseen](/organizations/the-unforeseen/) · [The Iron Veil](/organizations/the-iron-veil/) · [Project E.D.E.N.](/organizations/project-e-d-e-n/)
+**Organizations / Groups:** 
+
+[The Crimson Sun](/organizations/the-crimson-sun/) · [The Unforeseen](/organizations/the-unforeseen/) · [The Iron Veil](/organizations/the-iron-veil/) · [Project E.D.E.N.](/organizations/project-e-d-e-n/)
 
 **Former Holdings:** Crona Manor in Korth · the penthouse atop the [Veil Building](/places/the-veil-building/) · **the *Black Veil*, her Imperial warship** · Fort Crona · [Crona's Wall](/places/cronas-wall/)
 
