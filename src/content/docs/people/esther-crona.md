@@ -379,7 +379,8 @@ Richard's life was more complicated than Esther understood. Behind the public id
 Their final meeting made that contradiction impossible to ignore.
 
 
-![Esther Crona and Richard Blaze.png](/images/uploads/esther-crona-and-richard-blaze-muxlvvu1.webp)
+
+![Esther Crona and Richard Blaze.png](/images/uploads/esther-crona-and-richard-blaze-muxr8dsk.webp)
 *Esther Crona and Richard Blaze*
 
 When Richard later confronted Esther on the balcony of the [Veil Building](/places/the-veil-building/), he did not attack her first. He tried to reason with his wife while Calcifer ran into his arms. Esther accused him of bringing her killers into her home, and the marriage that had once contained moments of genuine warmth became part of the battle itself.
@@ -408,12 +409,12 @@ When Faith spoke of Eden, Esther refused to release her.
 
 Then the protest outside POSÉ erupted into violence. Esther grabbed Calcifer and teleported him away.
 
+![Esther Crona atop the Black Veil with Varyn's sword drawn, four chained prisoners kneeling before her and every screen in Sharn red](/images/album/sharn-ep-2-pose-esther-crona-executions-on-the-black-veil.webp)
+*Esther atop the Black Veil with the four Cogborn prisoners, every screen in Sharn red.*
+
 Later that night every screen in Sharn turned red.
 
 Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn, and executed four Cogborn prisoners for the entire city to witness.
-
-![Esther Crona atop the Black Veil with Varyn's sword drawn, four chained prisoners kneeling before her and every screen in Sharn red](/images/album/sharn-ep-2-pose-esther-crona-executions-on-the-black-veil.webp)
-*Esther atop the Black Veil with the four Cogborn prisoners, every screen in Sharn red.*
 
 It was the moment she became the visible face of the crackdown.
 
