@@ -426,13 +426,12 @@ Meanwhile the secrets surrounding Calcifer were closing around Esther.
 
 After [Malrik Zeir](/people/malrik-zeir/) was killed at the [Vault Underground](/places/the-vault-underground/), Esther arrived by airship and saw her son in danger. Faith was fleeing.
 
-
-![Sharn Ep 17 — The Vault Underground - Dario, Eric and Esther Crona -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muxlxw5m.webp)
-*Esther ontop of The Black Veil warship over the pool deck*
-
 Esther put her sword through her own half-sister's chest.
 
 The death of Faith was immediate and personal. The same woman who had once been tolerated, protected and allowed to live in Esther's city was killed the moment Esther believed she threatened Calcifer.
+
+![Sharn Ep 17 — The Vault Underground - Dario, Eric and Esther Crona -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muxlxw5m.webp)
+*Esther ontop of The Black Veil warship over the pool deck*
 
 Esther took Calcifer and Gemma back to the [Veil Building](/places/the-veil-building/).
 
