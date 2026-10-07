@@ -566,7 +566,7 @@ Heavy drinking, emotional repression, obsession with control, inability to accep
 
 **Physical**
 
-6'2" · 180 lbs · light grey skin · black hair · silver eyes.
+6'2" · 180-190 lbs · light grey skin · black hair · silver eyes.
 
 She is famously immaculate and a neat freak.
 
