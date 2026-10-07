@@ -1,5 +1,5 @@
 ---
-title: Shanr The Lower City
+title: Sharn - The Lower City
 description: Six stacked neighbourhoods beneath Sharn's towers, split by the Grand Aqueduct, home to the Cogborn and the way down to the Underhive.
 tags:
   - The Lower City
