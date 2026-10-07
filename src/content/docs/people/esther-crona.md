@@ -370,9 +370,11 @@ Calcifer was also the person around whom Esther’s ruthlessness became most ext
 ![Esther Crona and Richard Blaze.png](/images/uploads/esther-crona-and-richard-blaze-muxr8dsk.webp)
 *Esther Crona and Richard Blaze*
 
-Richard's life was more complicated than Esther understood. Behind the public identity of the Empire's celebrated chef, he was secretly one of the original founders of [Fulcrum](/organizations/fulcrum/), using his restaurants, money and supply networks to move intelligence and resources to the rebellion while remaining inside the household of the woman who ruled Sharn. For years, husband and wife lived on opposite sides of the same war without Esther knowing the full extent of Richard's second life.
+Richard's life was more complicated than Esther ever knew. To Esther, he was exactly what he appeared to be: a talented and celebrated chef, a devoted husband and a loyal supporter of the Empire. Unknown to her, he was secretly one of the original founders of [Fulcrum](/organizations/fulcrum/), using his restaurants, money and supply networks to move intelligence and resources to the rebellion while remaining inside the household of the woman who ruled Sharn.
 
-Their final meeting made that contradiction impossible to ignore.
+Esther never suspected that Richard was working against the Empire. She believed he shared her loyalty to the state, even as his hidden life placed him directly on the other side of the war.
+
+Their final meeting made that hidden contradiction impossible to ignore.
 
 When Richard later confronted Esther on the balcony of the [Veil Building](/places/the-veil-building/), he did not attack her first. He tried to reason with his wife while Calcifer ran into his arms. Esther accused him of bringing her killers into her home, and the marriage that had once contained moments of genuine warmth became part of the battle itself.
 
