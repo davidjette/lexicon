@@ -362,7 +362,7 @@ The moment is one of the clearest glimpses of Esther as a wife and mother rather
 
 That same warmth was visible in her relationship with Calcifer. He was raised inside the [Veil Building](/places/the-veil-building/) under constant protection, and despite the machinery of the Empire surrounding him, Esther clearly loved him as her son. At [POSÉ](/places/pose/), he called for his mother and ran to hug her around the waist when she arrived. Later, when the protest erupted and a shot killed Candice Kurt, Esther's immediate response was not to secure the restaurant or the officials around her. She grabbed Calcifer and teleported him to safety.
 
-Calcifer was also the person around whom Esther's ruthlessness became most extreme. She was willing to use the power of the Empire to protect him, and ultimately willing to kill members of her own family when she believed they threatened him. Her relationship with him was therefore both deeply maternal and dangerously possessive: Calcifer was her child, her responsibility and one of the few things she could not accept losing.
+Calcifer was also the person around whom Esther’s ruthlessness became most extreme. She was willing to use the power of the Empire to protect him, and ultimately willing to kill her own sister Faith when she believed Faith threatened him. Her relationship with him was therefore both deeply maternal and dangerously possessive: Calcifer was her child, her responsibility and one of the few things she could not accept losing.
 
 ![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-muxq23aw.webp)
 *Esther, Richard and Calcifer at the POSÉ opening*
