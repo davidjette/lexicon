@@ -383,7 +383,7 @@ When Richard later confronted Esther on the balcony of the [Veil Building](/plac
 
 Even then, Richard's first concern was their son. As the fight escalated, he pulled Calcifer into the boy's bedroom and cast Darkness so that he would not have to watch his mother die. He then returned to the balcony, using his subtle sorcery to heal and bolster the others while keeping himself between the fighting and his son.
 
-Esther's relationship with Richard and Calcifer was therefore never simply a softer side of her personality. They were the center of the private life she had built around herself — the husband who loved her while secretly working against her, and the son whose safety became inseparable from her authority and ultimately from her destruction.
+Esther's relationship with Richard and Calcifer was therefore never simply a softer side of her personality. They were the center of the private life she had built around herself, the husband who loved her while secretly working against her, and the son whose safety became inseparable from her authority and ultimately from her destruction.
 
 She could be affectionate and ruthless within the same hour.
 
