@@ -303,11 +303,10 @@ She knew what she was demanding from the Zeirs. She did not, however, know the f
 
 ## From founder to Lord Commander
 
-Esther eventually became Grand Inquisitor and Lord Commander of the Imperial Military.
-
-
 ![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
 *Esther Crona Amidst the Battlefield*
+
+Esther eventually became Grand Inquisitor and Lord Commander of the Imperial Military.
 
 From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance.
 
