@@ -137,24 +137,7 @@ During Campaign 1, Esther served alongside Varyn, [Uriel Qualanthri](/people/uri
 
 Esther was nineteen and already a High Inquisitor when she became one of the founders of [The Unforeseen](/organizations/the-unforeseen/). By then she was no longer simply Varyn's young apprentice. She had become one of the Empire's most capable and trusted agents in her own right.
 
-## Varyn's assassination
-
-Varyn served as Master of the Crimson Sun and as the Emperor's **Eternal Guardian**, having sworn service to three generations of the Kaius dynasty. His influence over Imperial military doctrine and his long-term plans eventually brought him into conflict with members of the [Council of 13](/organizations/the-council-of-13/).
-
-Varyn was murdered outside Fairhaven while investigating a suspected rebel stronghold. The Empire treated his death as a consequence of rebel activity, but later intelligence suggested that members of the Council itself were responsible.
-
-![Vary's death - Esther and Varyn in Fairhaven.png](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
-*Vary's death - Esther and Varyn in Fairhaven*
-
-Esther did not accept Varyn's death. She systematically hunted the people she believed responsible and ultimately purged the Council of 13, including members of their immediate families.
-
-The Crimson Sun's Master had been murdered by people within the government he served, and its High Inquisitor responded by destroying much of that same government. Why the Empire tolerated Esther's actions, and why Emperor Kaius III allowed the purge to continue, was never clearly explained.
-
-After Varyn's death, **[Hayman Maw](/people/hayman-maw/)** became Master of the Crimson Sun and inherited its seat on the Imperial Council.
-
-For Esther, the Crimson Sun remained inseparable from Varyn's legacy. She had entered the order as a child because of him, risen to its highest rank beneath him and ultimately used the power he had entrusted to her to avenge his murder.
-
-The woman who would eventually become Lord Commander of Sharn was forged in the Crimson Sun first.
+Varyn's death left Esther with two things: his sword and a question she could not let go of — who had actually ordered his death?
 
 ## The Unforeseen
 
@@ -172,7 +155,13 @@ Esther was therefore no longer simply an Imperial hunter. She was being trusted 
 
 Back in Korth she spent months waiting for another assignment in Varyn's manor. She painted, practiced new magic, drank heavily and continued to hear Varyn's voice through [his sword](/items/the-bright-dawn-crimson-sun-unbound/).
 
-In the throne room, Esther was specifically reminded of Varyn's loyalty and charged with avenging his death. She was also given the possibility that she might one day take his place.
+During the Unforeseen's investigations, Esther finally learned what had happened to Varyn. Evidence connected members of the Council of 13 to his assassination, transforming his death from a personal tragedy into a betrayal by the very government he had served.
+
+In the Emperiors throne room, Esther was specifically reminded of Varyn's loyalty and charged with avenging his death. She was also given the possibility that she might one day take his place.
+
+By the end of the Unforeseen's campaign, Esther had learned that the Council of 13 was responsible for Varyn's assassination. The discovery changed the course of her life. The Council had not simply killed her adoptive father and master; they had murdered the head of the organization that had raised her and betrayed the Empire he had spent his life protecting.
+
+What happened next occurred largely outside the campaigns themselves. Esther hunted down the Council, dissolved the Crimson Sun and eventually rose to command the military of Sharn.
 
 For Esther, the Unforeseen years were the bridge between the woman Varyn trained and the Lord Commander she would become.
 
@@ -181,7 +170,7 @@ For Esther, the Unforeseen years were the bridge between the woman Varyn trained
 ![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
 *Esther Crona Amidst the Battlefield*
 
-Esther eventually became Grand Inquisitor and Lord Commander of the Imperial Military.
+In the years following the Unforeseen campaign, Esther acted on what she had learned about Varyn's assassination. She hunted down the members of the Council of 13 and their immediate families, then dismantled the Crimson Sun itself. With the old order destroyed, Esther rose through the Imperial hierarchy and became Grand Inquisitor and Lord Commander of the Imperial Military.
 
 From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance.
 
@@ -199,6 +188,8 @@ The Iron Veil was not a uniform body. **Sharn patrols** were largely former City
 
 ![Esther Crona at Crona's Wall.png](/images/uploads/esther-crona-at-crona-s-wall-muxkgf89.webp)
 *Esther at Crona's Wall*
+
+Much of Esther's time as Lord Commander was spent directing the war against the [Uruk-Hoth Republic]. Along the Empire's western frontier, she oversaw the construction and maintenance of Crona's Wall, a colossal magical barrier raised across the frontier to hold back the Uruk-Hoth advance. The Wall was sustained with Red Khyber extracted from the Mournlands by Project E.D.E.N. units, tying Esther's military campaign directly to the secret program she had created after Eden's death.
 
 **Frontliners** were the heavily trained soldiers stationed at [Crona's Wall](/places/cronas-wall/). They were real war soldiers — stronger, better trained and often capable of casting spells. Esther could bring them into the city when something demanded serious military force.
 
@@ -227,6 +218,8 @@ Her philosophy was simple:
 ## Uriel
 
 [Uriel Qualanthri](/people/uriel-qualanthri/) was one of Esther's three fellow founders of [The Unforeseen](/organizations/the-unforeseen/), and the woman Esther was secretly in love with.
+
+Their friendship survived long after the Unforeseen ended. Even as Esther rose to Lord Commander and Uriel became Empress, Uriel remained one of the most important people in Esther's life.
 
 They spent years working together as Imperial agents, and their relationship survived the transformation of both women from rebel hunters into major Imperial powers.
 
@@ -261,7 +254,7 @@ Esther died calling for the death of the woman she had once loved.
 
 ## The Sisters
 
-Esther did not meet her three biological half-sisters until years after all four had been born.
+By the time Esther had become Lord Commander, her attention was no longer focused solely on military affairs. Her private life had grown alongside her political power: she married Richard Blaze, had a son, and eventually learned that she had three biological half-sisters.
 
 Nine years before the present, a woman named Greenish Huges contacted Esther on behalf of [John C. LeBeefe](/people/john-c-lebeefe/) and asked her to come to his manor in [Newham](/places/newham/). Esther traveled there with [Richard Blaze](/people/richard-blaze/) but was asked to enter the palace alone. Inside she found three tiefling women she did not recognize: **[Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/)**.
 
