@@ -267,6 +267,10 @@ Another set of notes describes the Hundreds deliberately attacking Eden after re
 
 What is consistent is that Esther found Eden in terrible condition and carried her to the Black Dove hospital.
 
+
+![Esther, Eden and Sister Nora - Eden's Death.png](/images/uploads/esther-eden-and-sister-nora-eden-s-death-muxkdjxf.webp)
+*Esther, Eden and Sister Nora - Eden's Death*
+
 Esther was devastated. She demanded the resurrection rite she had once seen [Fema Nolan](/people/zero-one-fema-nolan/) use on Uriel. The Doves hesitated. Esther threatened them.
 
 The modified rite embedded a Khyber-cut diamond in Eden's sternum, replacing the destroyed heart. [Dr. Joanne Menka](/people/dr-joanne-menka/) monitored the decay while [Sister Nora](/people/sister-nora/) and senior Black Doves performed the rite.
@@ -314,6 +318,10 @@ The pact granted standardized warlock abilities and enhanced discipline, coordin
 Over time, the pact could erode individuality, emotional range and the ability to question orders or empathize with those considered enemies of the Empire. Soldiers became colder, more rigid and increasingly dependent on the structure Esther had created.
 
 The Iron Veil was not a uniform body. **Sharn patrols** were largely former City Watch personnel. Many still thought of themselves as policemen rather than soldiers and continued trying to protect the people of Sharn where they could. Some remained because the Veil offered a steady job and a way to support their families.
+
+
+![Esther Crona at Crona's Wall.png](/images/uploads/esther-crona-at-crona-s-wall-muxkgf89.webp)
+*Esther at Crona's Wall*
 
 **Frontliners** were the heavily trained soldiers stationed at [Crona's Wall](/places/cronas-wall/). They were real war soldiers — stronger, better trained and often capable of casting spells. Esther could bring them into the city when something demanded serious military force.
 
