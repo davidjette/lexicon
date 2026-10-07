@@ -398,7 +398,7 @@ Outside the restaurant, a protest had grown increasingly violent. When gunfire e
 
 Later that night, every screen in Sharn turned red. Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn. She executed four Cogborn prisoners before the entire city.
 
-The executions marked a turning point. Esther was no longer ruling the city from behind the machinery of the Empire — she had become the symbol of its brutality.
+The executions marked a turning point. Esther was no longer ruling the city from behind the machinery of the Empire, she had become the symbol of its brutality.
 
 ## The Sword and the Forge
 
