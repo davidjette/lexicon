@@ -97,7 +97,7 @@ gallery:
     caption: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
 ---
 
-**Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · Former Lord Commander of the Imperial Military · Dead — reanimated as an undead soldier (Korth Ep 16)**
+**Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · Former Lord Commander of the Imperial Military · Dead — reanimated as an undead soldier ([Korth Ep 16](/sessions/korth-ep-16-orientation-day/))**
 
 **Also known as:** High Inquisitor · Grand Inquisitor · Lord Commander · Lord Commander of Sharn · Queen of Whispers
 
@@ -417,7 +417,7 @@ Then her corpse was found beneath the [Ivory Lazaret](/places/the-ivory-lazaret/
 
 Esther Crona is still dead.
 
-In Korth Ep 16, [Zero-One](/people/zero-one-fema-nolan/) was forced to perform a resurrection rite on Esther deep beneath the [Ivory Lazaret](/places/the-ivory-lazaret/). [Sister Maelis Dorn](/people/sister-maelis-dorn/) ordered the ritual completed even while the Inevitables attacked.
+In **[Korth Ep 16](/sessions/korth-ep-16-orientation-day/)**, [Zero-One](/people/zero-one-fema-nolan/) was forced to perform a resurrection rite on Esther deep beneath the [Ivory Lazaret](/places/the-ivory-lazaret/). [Sister Maelis Dorn](/people/sister-maelis-dorn/) ordered the ritual completed even while the Inevitables attacked.
 
 The process appears to have been based on the same general principle used to restore [Eden](/people/eden/) and create later [Project E.D.E.N.](/organizations/project-e-d-e-n/) units: a dead body rebuilt through a combination of necromancy, artificial components and magical intervention.
 
