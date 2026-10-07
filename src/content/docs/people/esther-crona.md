@@ -158,7 +158,7 @@ Back in Korth she spent months waiting for another assignment in Varyn's manor. 
 
 During the Unforeseen's investigations, Esther finally learned what had happened to Varyn. Evidence connected members of the Council of 13 to his assassination, transforming his death from a personal tragedy into a betrayal by the very government he had served.
 
-In the Emperor's throne room, Esther was specifically reminded of Varyn's loyalty and charged with avenging his death. She was also given the possibility that she might one day take his place.
+In the throne room of [Emperor Kaius III](/people/emperor-caius-iii/), Esther was reminded of Varyn's loyalty and given permission to hunt down the members of the [Council of 13](/organizations/the-council-of-13/) responsible for his death. Kaius charged her with avenging Varyn and told her that she might one day take his place.
 
 In the years that followed, Esther acted on what she had learned. She hunted down the Council, dissolved the Crimson Sun and eventually rose to command the military of Sharn.
 
@@ -229,9 +229,7 @@ At the time, Esther and the others did not know Fema was connected to the [Silve
 
 Esther never forgot what she had witnessed. Years later, when [Eden](/people/eden/) lay dying, Esther remembered the ritual and demanded that the Black Doves attempt to reproduce it.
 
-Uriel eventually married Emperor Kaius III. Esther was secretly in love with her and was hurt by the marriage.
-
-Uriel nevertheless gave Esther a deeply personal wedding gift: the undead bodies of the [Council of 13](/organizations/the-council-of-13/), which became Esther's Death Knights and later her masked Honor Guard. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+Uriel eventually married Emperor Kaius III. Esther was secretly in love with her and was hurt by the marriage. Uriel nevertheless gave Esther a deeply personal wedding gift: the undead bodies of the [Council of 13](/organizations/the-council-of-13/), which became Esther's Death Knights and later her masked Honor Guard. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
 When Esther and Richard had their son [Calcifer](/people/calcifer/), Esther named Uriel his godmother.
 
