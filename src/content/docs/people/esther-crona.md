@@ -369,7 +369,7 @@ When Richard later confronted Esther on the balcony of the [Veil Building](/plac
 ![Sharn Ep 18 — The Fall of Esther Crona - Richard Blaze, Calcifer and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-ric-muxu044x.webp)
 *Esther, Richard and Calcifer*
 
-Even then, Richard's first concern was their son. As the fight escalated, he pulled Calcifer into the boy's bedroom and cast Darkness so that he would not have to watch his mother die. He then returned to the balcony, using his subtle sorcery to heal and bolster the others while keeping himself between the fighting and his son.
+Even then, Richard's first concern was their son. He pulled Calcifer into the boy's bedroom and cast Darkness so he would not have to watch his mother die, then returned to the balcony to heal the others while shielding his son from the fighting.
 
 Esther's relationship with Richard and Calcifer was therefore never simply a softer side of her personality. They were the center of the private life she had built around herself, the husband who loved her while secretly working against her, and the son whose safety became inseparable from her authority and ultimately from her destruction.
 
