@@ -352,7 +352,7 @@ Her philosophy was simple:
 
 Esther's public image was one of absolute control. She was regal, disciplined and restrained, rarely raising her voice and expecting competence, loyalty and obedience from everyone around her. Even when surrounded by the Empire's most powerful figures, she behaved as though every conversation were another matter of state.
 
-Her private life was markedly different. She lived in the house [Varyn Crona](/people/varyn-crona/) had left her, painted, drank heavily during periods of grief and continued to speak to [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) as though he were still beside her. But the strongest evidence of the woman beneath the armor was her relationship with her husband, [Richard Blaze](/people/richard-blaze/), and their son, [Calcifer](/people/calcifer/).
+Her private life was markedly different. Early on she lived in the house [Varyn Crona](/people/varyn-crona/) had left her, painted, drank heavily during periods of grief and continued to speak to [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) as though he were still beside her. But the strongest evidence of the woman beneath the armor was her relationship with her husband, [Richard Blaze](/people/richard-blaze/), and their son, [Calcifer](/people/calcifer/) whom she raised in Sharn.
 
 Richard was one of the few people who could approach Esther without ceremony. Their marriage was affectionate and familiar in a way that almost none of her other relationships were. At the grand opening of his restaurant [POSÉ](/places/pose/), Richard greeted her with a deep kiss, and she slipped her fingers between his while telling him, "You're doing beautifully, Richard." His answer was simple: "Because of you."
 
@@ -361,7 +361,6 @@ She then watched their son moving through the kitchen and said:
 > "He's happy. He loves the kitchen."
 
 The moment is one of the clearest glimpses of Esther as a wife and mother rather than as Lord Commander. Richard was not merely her husband by title. He was someone she could be physically affectionate with, someone whose success genuinely pleased her, and someone with whom she shared a private tenderness that never appeared in her dealings with subordinates.
-
 
 ![Esther Crona, Calcifer and Richard Blaze - The Crono-Blaze Family - Upper City Sharn.png](/images/uploads/esther-crona-calcifer-and-richard-blaze-muxkmjuy.webp)
 *Esther Crona, Calcifer and Richard Blaze*
