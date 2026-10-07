@@ -373,6 +373,10 @@ Richard's life was more complicated than Esther understood. Behind the public id
 
 Their final meeting made that contradiction impossible to ignore.
 
+
+![Esther Crona and Richard Blaze.png](/images/uploads/esther-crona-and-richard-blaze-muxlvvu1.webp)
+*Esther Crona and Richard Blaze*
+
 When Richard later confronted Esther on the balcony of the [Veil Building](/places/the-veil-building/), he did not attack her first. He tried to reason with his wife while Calcifer ran into his arms. Esther accused him of bringing her killers into her home, and the marriage that had once contained moments of genuine warmth became part of the battle itself.
 
 Even then, Richard's first concern was their son. As the fight escalated, he pulled Calcifer into the boy's bedroom and cast Darkness so that he would not have to watch his mother die. He then returned to the balcony, using his subtle sorcery to heal and bolster the others while keeping himself between the fighting and his son.
@@ -415,6 +419,10 @@ Meanwhile the secrets surrounding Calcifer were closing around Esther.
 
 After [Malrik Zeir](/people/malrik-zeir/) was killed at the [Vault Underground](/places/the-vault-underground/), Esther arrived by airship and saw her son in danger. Faith was fleeing.
 
+
+![Sharn Ep 17 — The Vault Underground - Dario, Eric and Esther Crona -  Zeir's upper city Sharn apartment.png](/images/uploads/sharn-ep-17-the-vault-underground-dario-muxlxw5m.webp)
+*Esther ontop of The Black Veil warship over the pool deck*
+
 Esther put her sword through her own half-sister's chest.
 
 The death of Faith was immediate and personal. The same woman who had once been tolerated, protected and allowed to live in Esther's city was killed the moment Esther believed she threatened Calcifer.
@@ -449,6 +457,10 @@ Esther fell from the balcony, landing at the base of the [Veil Building](/places
 
 She was thirty-one.
 
+
+![Sharn Ep 18 — The Fall of Esther Crona - Esther moving the Black Veil.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-est-muxlzs3d.webp) *Esthers finale stand*
+
+
 ## After Death
 
 The Silver Flame issued a citywide cremation directive after the first [Council of Sharn](/lore/the-council-of-sharn/).
@@ -476,6 +488,10 @@ She rose bloody and winged.
 But she did not rise alive.
 
 Whatever emerged from the ritual appears to be an undead soldier wearing Esther Crona's body.
+
+
+![Korth Ep 16 — Orientation Day - Esther Crona - Risen Undead 1.png](/images/uploads/korth-ep-16-orientation-day-esther-crona-muxm1ek5.webp)*Esther Risen*
+
 
 The process was not cleanly understood even when it was performed on Eden, and the extent to which Esther's mind, soul, memories and personality survived is still unknown. She remembers people and objects from her former life, including [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/), but whether this represents the true continuity of Esther's identity or something more complicated remains unclear.
 
