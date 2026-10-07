@@ -107,11 +107,11 @@ gallery:
 
 His death defined the rest of her life. Esther inherited his sword and came to believe that his soul remained within it, guiding and training her as her Hexblade. She pursued his killers, purged much of the [Council of 13](/organizations/the-council-of-13/), and eventually rose to Lord Commander of Sharn, ruling through the [Iron Veil](/organizations/the-iron-veil/) and the [ArcEye network](/items/the-arcane-eye-network/).
 
-She married the chef [Richard Blaze](/people/richard-blaze/) and had a son, [Calcifer](/people/calcifer/). She was also the eldest of four daughters born to [John C. LeBeefe](/people/john-c-lebeefe/), though she did not meet her three half-sisters until years after they were born.
+She married the chef [Richard Blaze](/people/richard-blaze/) and had a son, [Calcifer](/people/calcifer/). She was also the eldest of four daughters fathered by [John C. LeBeefe](/people/john-c-lebeefe/), all born to different mothers. Esther did not discover her three biological half-sisters until years after they were born.
 
-When her youngest sister [Eden](/people/eden/) was critically injured, Esther refused to accept the loss. She brought Eden to the Black Doves and demanded that they reproduce the resurrection rite she had once witnessed when Uriel Qualanthri was brought back from death. The failed result became the prototype for [Project E.D.E.N.](/organizations/project-e-d-e-n/).
+When her youngest half-sister [Eden](/people/eden/) was critically injured, Esther refused to accept the loss. She brought Eden to the Black Doves and demanded that they reproduce the resurrection rite she had once witnessed when [Uriel Qualanthri](/people/uriel-qualanthri/) was brought back from death. The failed result became the prototype for [Project E.D.E.N.](/organizations/project-e-d-e-n/).
 
-Esther died on her own balcony during the fall of Sharn after learning what [Uriel Qualanthri](/people/uriel-qualanthri/) had done to Calcifer. She voided every Iron Veil pact in the city, ordered Uriel killed and threw **the *Black Veil*, her Imperial warship,** into Uriel's statue before falling to her death.
+Esther died on her own balcony during the fall of Sharn after learning what Uriel had done to Calcifer. Bleeding out and defeated, she voided every Iron Veil pact in the city, ordered Uriel killed and, with the last of her strength, seized **the *Black Veil*, her Imperial warship**, and hurled it into Uriel's statue above the Skyport before falling to her death.
 
 Her corpse was supposed to be cremated.
 
@@ -141,7 +141,7 @@ He told her:
 
 Varyn was murdered by a masked man in a cave system outside Fairhaven while investigating a suspected rebel stronghold. Esther brought his body back to Korth and kept his sword.
 
-She came to believe that Varyn's soul remained inside the blade and that he continued to speak to her through it. After his death she lived alone in his manor, drank heavily, painted, trained and suffered vivid dreams of the murder. The sword remained both her weapon and the physical focus of her grief.
+She came to believe that Varyn's soul remained within the blade and that he continued to speak to her through it. After his death she lived alone in his manor, drank heavily, painted, trained and suffered vivid dreams of the murder. The sword remained both her weapon and the physical focus of her grief.
 
 Esther later ordered [Renn Tal](/people/renn-tal/) to investigate Varyn, the Eternal Guardian and the [Forge of Binding](/places/the-forge-of-binding/), while the Iron Veil watched anyone asking the same questions.
 
@@ -173,31 +173,32 @@ Years later, Esther would remember that ritual when Eden lay dying.
 
 ## The Sisters
 
-Esther did not meet her three half-sisters until years after all four had been born.
+Esther did not meet her three biological half-sisters until years after all four had been born.
 
 Nine years before the present, a woman named Greenish Huges contacted Esther on behalf of John C. LeBeefe and asked her to come to his manor in Newham. Esther traveled there with Richard Blaze but was asked to enter the palace alone.
 
 Inside she found three tiefling women she did not recognize: **Faith, Blair and Eden**.
 
-LeBeefe had learned that his harvested sperm had produced four children — four tiefling daughters — and had called all of them to his home. [Sister Nora](/people/sister-nora/) of the local Black Dove hospital was brought in to confirm the blood relationship.
+LeBeefe had learned that his harvested sperm had produced four daughters with different mothers and had called all four of them to his home. [Sister Nora](/people/sister-nora/) of the local Black Dove hospital was brought in to confirm their blood relationship.
 
-The four women were established as sisters.
+The four women were established as **half-sisters**, sharing the same biological father, John C. LeBeefe, but each having a different mother.
 
 Esther was the eldest, around thirty-one during the Sharn events. [Faith](/people/faith/) was only slightly younger, around thirty. [Blair](/people/blair/) was around twenty-eight. [Eden](/people/eden/) was the youngest, around eighteen when she died.
 
-After the meeting, the sisters traveled together back to Sharn. Sister Nora was later transferred from Newham to Sharn and became the head cleric of the city's Black Dove hospital, Sanctum of the Last Mercy.
+After the meeting, the half-sisters traveled together back to Sharn. Sister Nora was later transferred from Newham to Sharn and became the head cleric of the city's Black Dove hospital, Sanctum of the Last Mercy.
 
-The sisters' lives took radically different paths:
+Their different upbringings shaped them dramatically:
 
+- **Esther** was born into slavery and was purchased by Varyn Crona at the age of five, who adopted and raised her.
 - **Faith Zeir** was raised in a noble High Elf household in Valenar and was already married to [Malrik Zeir](/people/malrik-zeir/) when Esther met her. She later became Mother Prophet of the [Children of Ember](/organizations/the-children-of-ember/).
-- **Blair** was already involved with thieves' guilds and piracy before meeting her sisters. Esther later invited the sisters to Sharn, where Blair established herself in the Lower City and eventually became Queen B of the Underhive.
+- **Blair** was already involved with thieves' guilds and piracy before meeting her half-sisters. Esther later invited her to Sharn, where Blair established herself in the Lower City and eventually became Queen B of the Underhive.
 - **Eden** was never sold. She lived with her mother until her mother's death, after which Greenish Huges found her and arranged a home for her in Newham. In Sharn she became an Imperial researcher.
 
-Esther was therefore not merely the sister of three women who happened to oppose the Empire. She had personally met them, brought them into her city and watched each of them become entangled with the world she controlled.
+Esther was therefore not merely connected to three women who happened to oppose the Empire. She had personally met her three half-sisters, brought them into her city and watched each of them become entangled with the world she controlled.
 
 ## Eden
 
-Eden was the youngest of the four sisters and, unlike the others, genuinely believed in the Empire.
+Eden was the youngest of Esther's three half-sisters and, unlike the others, genuinely believed in the Empire.
 
 She was bright, idealistic and loyal. She was recruited into an Imperial research division in part because she was Esther's sister and therefore assumed to be loyal and discreet.
 
@@ -231,7 +232,7 @@ The result became **EDN-00**, the prototype of Project E.D.E.N.
 
 Project E.D.E.N. began with Eden.
 
-Esther's desperate attempt to resurrect her sister produced the first hybridization before BioTec was formally involved. The prototype was then used as the basis for a much larger Imperial programme combining undead bodies, Warforged components, Black Dove rites and BioTec augmentation.
+Esther's desperate attempt to resurrect her half-sister produced the first hybridization before BioTec was formally involved. The prototype was then used as the basis for a much larger Imperial programme combining undead bodies, Warforged components, Black Dove rites and BioTec augmentation.
 
 Its later supply chain included bodies recovered for the programme, Warforged components, Umbra supplied by Malrik Zeir and transported by Hallorn d'Lyrandar, Black Dove necromantic rites, BioTec assembly and experimentation, and deployment into the Mournlands by Imperial airships.
 
@@ -245,7 +246,7 @@ At POSÉ, Faith begged Esther to bring Eden home.
 
 Esther was using Eden as leverage to force the Umbra supply to increase.
 
-She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her sister, her brother-in-law and a wealthy supplier connected to the project, not as the leaders of a hidden blood cult.
+She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her half-sister, her brother-in-law and a wealthy supplier connected to the project, not as the leaders of a hidden blood cult.
 
 ## From Founder to Lord Commander
 
@@ -359,7 +360,7 @@ Meanwhile the secrets surrounding Calcifer were closing around Esther.
 
 After Malrik Zeir was killed at the Vault, Esther arrived by airship and saw her son in danger. Faith was fleeing.
 
-Esther put her sword through her own sister's chest.
+Esther put her sword through her own half-sister's chest.
 
 The death of Faith was immediate and personal. The same woman who had once been tolerated, protected and allowed to live in Esther's city was killed the moment Esther believed she threatened Calcifer.
 
@@ -375,19 +376,23 @@ The revelation broke whatever loyalty remained.
 
 Esther killed Mayor [Henry Heinrick](/people/henry-heinrick/), revealed that her Honor Guards were the undead members of the old Council and fought the people who had come to take Calcifer from her.
 
-At the end, she said:
+Bleeding out and defeated, Esther unleashed her final act.
 
-> "Your pact is void."
+Her voice boomed magically across all of Sharn:
 
-Every Iron Veil soldier's pact collapsed.
+> **"Your pact is void."**
 
-Her final command was:
+Every Iron Veil soldier in the city felt their pact collapse. Their longsword pact weapons vanished. Their warlock spells evaporated. Their connection to Esther was severed.
 
-> "Kill Empress Uriel Qualanthri."
+Then her final command echoed across the towers:
 
-With the last of her strength she seized the *Black Veil* and hurled her warship into the colossal statue of Uriel above the Skyport.
+> **"... Kill Empress Uriel Qualanthri..."**
 
-Then Esther fell from her own balcony.
+With the last of her strength, Esther telekinetically seized **the *Black Veil*, her Imperial warship**, and hurled it into the massive statue of Uriel above the Skyport.
+
+The explosion shattered the symbol of the Empire's power.
+
+Esther fell from the balcony, landing at the base of the [Veil Building](/places/the-veil-building/).
 
 She was thirty-one.
 
@@ -476,11 +481,11 @@ She is famously immaculate and a neat freak.
 - **[Varyn Crona](/people/varyn-crona/)** — adoptive father, master and former lover; his sword became Esther's Hexblade. Dead.
 - **[Richard Blaze](/people/richard-blaze/)** — husband and father of Calcifer. Alive.
 - **[Calcifer](/people/calcifer/)** — son. Alive, officially believed dead.
-- **[John C. LeBeefe](/people/john-c-lebeefe/)** — biological father. Dead.
+- **[John C. LeBeefe](/people/john-c-lebeefe/)** — biological father of Esther, Faith, Blair and Eden. Dead.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder of the Unforeseen, woman Esther secretly loved, former confidante and the person Esther finally ordered killed. Alive.
-- **[Blair](/people/blair/)** — half-sister and Queen B of the Underhive. Alive.
-- **[Faith](/people/faith/)** — half-sister and Mother Prophet of the Children of Ember. Killed by Esther.
-- **[Eden](/people/eden/)** — youngest half-sister and prototype of Project E.D.E.N. Dead, resurrected as EDN-00.
+- **[Blair](/people/blair/)** — half-sister, sharing LeBeefe as their biological father, and Queen B of the Underhive. Alive.
+- **[Faith](/people/faith/)** — half-sister, sharing LeBeefe as their biological father, and Mother Prophet of the Children of Ember. Killed by Esther.
+- **[Eden](/people/eden/)** — youngest half-sister, sharing LeBeefe as their biological father, and prototype of Project E.D.E.N. Dead, resurrected as EDN-00.
 - **[Sister Nora](/people/sister-nora/)** — Black Dove cleric who performed the resurrection attempt on Eden. Dead.
 - **[Zero-One](/people/zero-one-fema-nolan/)** — resurrected Uriel and was later forced to resurrect Esther. Alive.
 - **[Renn Tal](/people/renn-tal/)** — archivist whom Esther tasked with researching Varyn and the Forge of Binding. Alive.
