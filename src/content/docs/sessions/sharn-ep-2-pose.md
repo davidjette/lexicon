@@ -78,6 +78,10 @@ The trio did not turn on their Ghost Chips at Posé. In Nico's notes the only Ar
 
 Nico's notes attribute the shooting to the Children of Ember. Faith learned the protest was coming and planned the attack with Malrik as a false flag, and the cultist who shot Candice Kurt let themselves be killed in the cult's service. The Cogborn protest itself was real. <small>(Nico's DM notes, Episode 2)</small>
 
+
+![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-muxpnu29.webp)
+
+
 ## Revelations
 
 - The stolen BioTec data names **Project EDEN**, a classified military initiative. The name is all they have.
