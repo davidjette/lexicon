@@ -310,9 +310,9 @@ The result became **EDN-00**, the prototype of [Project E.D.E.N.](/organizations
 
 ## Project E.D.E.N.
 
-Project E.D.E.N. began with Eden.
+As Lord Commander, Esther had the authority and resources to turn Eden's failed resurrection into something much larger.
 
-Esther's desperate attempt to bring her half-sister back produced the first hybridization before [BioTec](/organizations/biotec/) was formally involved. What followed became a much larger Imperial programme whose founding circle included **[Esther Crona](/people/esther-crona/), [Sister Nora](/people/sister-nora/), [Dr. Joanne Menka](/people/dr-joanne-menka/), [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), [Malrik Zeir](/people/malrik-zeir/), [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/)** and BioTec's private owner, **[Dr. Edwin Graves](/people/dr-edwin-graves/)**.
+Project E.D.E.N. began with Eden. Esther's desperate attempt to bring her half-sister back produced the first hybridization before [BioTec](/organizations/biotec/) was formally involved. What followed became a much larger Imperial programme whose founding circle included **[Esther Crona](/people/esther-crona/), [Sister Nora](/people/sister-nora/), [Dr. Joanne Menka](/people/dr-joanne-menka/), [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), [Malrik Zeir](/people/malrik-zeir/), [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/)** and BioTec's private owner, **[Dr. Edwin Graves](/people/dr-edwin-graves/)**.
 
 ![Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves..png](/images/uploads/project-e-d-e-n-founding-circle-esther-c-muxvx6nc.webp)
 *Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves.*
@@ -332,6 +332,8 @@ Esther was using Eden as leverage to force the Umbra supply to increase.
 She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her half-sister, her brother-in-law and wealthy suppliers connected to the project, not as the leaders of a hidden blood cult.
 
 ## Public and private
+
+The years in which Esther built the Imperial military were also the years in which she built her family. To the city she was Lord Commander; at home she was Richard's wife and Calcifer's mother.
 
 Esther's public image was one of absolute control. She was regal, disciplined and restrained, rarely raising her voice and expecting competence, loyalty and obedience from everyone around her. Even when surrounded by the Empire's most powerful figures, she behaved as though every conversation were another matter of state.
 
@@ -408,7 +410,7 @@ It was the moment she became the visible face of the crackdown.
 
 ## The Sword and the Forge
 
-After Varyn's death, Esther took up his personal sword, **the [Crimson Sun](/items/the-bright-dawn-crimson-sun-unbound/)**. She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword became her Hexblade, but also the physical center of her grief and her obsession with avenging Varyn.
+Long after Varyn's death, and by then Lord Commander of Sharn, Esther turned her attention to the mystery surrounding the sword and the Forge of Binding. She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword became her Hexblade, but also the physical center of her grief and her obsession with avenging Varyn.
 
 Esther eventually turned that obsession toward the mystery surrounding the [Eternal Guardian](/people/varyn-crona/), the ritual that had bound Varyn and the [Forge of Binding](/places/the-forge-of-binding/). She ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to investigate the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. Under Esther's authority, material concerning Varyn, the Crimson Sun, the Council of 13, the Eternal Guardian rites and the Forge was gathered under Iron Veil protection, including the Eternal Guardian tome in the Sharn Library.
 
@@ -440,7 +442,7 @@ What Esther believed she had found beneath Sharn — and what, exactly, had been
 
 ## The Fall of Sharn
 
-The violence that began at [POSÉ](/places/pose/) escalated into raids, checkpoints, forced removals and the occupation of the Cogs.
+What began as unrest after POSÉ had become a citywide collapse of Imperial control.
 
 The Cogborn were driven underground. [R.U.S.T.](/organizations/r-u-s-t/) began evacuating them toward Gorgonhorn.
 
