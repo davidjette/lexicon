@@ -233,7 +233,8 @@ Inside she found three tiefling women she did not recognize: **[Faith](/people/f
 LeBeefe had learned that his harvested sperm had produced four daughters with different mothers and had called all four of them to his home. [Sister Nora](/people/sister-nora/) of the local Black Dove hospital was brought in to confirm their blood relationship.
 
 
-![LeBeefe's Daughters - Esther, Faith, Eden and Blair. First time meeting.png](/images/uploads/lebeefe-s-daughters-esther-faith-eden-an-muxjx1ky.webp) *LeBeefe's Daughters - Esther, Faith, Eden and Blair. First time meeting*
+![LeBeefe's Daughters - Esther, Faith, Eden and Blair. First time meeting.png](/images/uploads/lebeefe-s-daughters-esther-faith-eden-an-muxqhpm6.webp)
+*LeBeefe's Daughters - Esther, Faith, Eden and Blair. First time meeting*
 
 
 The four women were established as **half-sisters**. They share the same biological father, John C. LeBeefe, but each has a different mother.
