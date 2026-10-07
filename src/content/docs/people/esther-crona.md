@@ -133,7 +133,7 @@ Varyn was more than Esther's commanding officer. He was her adoptive father, tea
 ![Esther Crona at 18 with Vayrn Crona in Korth, Vayrn Manor.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxqay3c.webp)
 *Esther and Varyn in Crona Manor - Korth*
 
-During Campaign 1, Esther served alongside [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). Varyn was already dead. Esther continued her work for the Empire while carrying his sword and struggling with his death, helping recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fighting rebels aboard the Talenta Plains Express, investigating Imperial secrets and carrying out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
+After Varyn's death, Esther continued her work for the Empire alongside [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). Varyn was already dead. Esther continued carrying his sword while struggling with his death, helping recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fighting rebels aboard the Talenta Plains Express, investigating Imperial secrets and carrying out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
 
 Esther was nineteen and already a High Inquisitor when she became one of the founders of [The Unforeseen](/organizations/the-unforeseen/). By then she was no longer simply Varyn's young apprentice. She had become one of the Empire's most capable and trusted agents in her own right.
 
@@ -141,7 +141,7 @@ Varyn's death left Esther with two things: his sword and a question she could no
 
 ## The Unforeseen
 
-Esther was nineteen when the Unforeseen campaign began, roughly six months to a year after Varyn's death. Already a High Inquisitor, she stood with [Uriel Qualanthri](/people/uriel-qualanthri/), [Locke Pierce](/people/locke-pierce/) and [John C. LeBeefe](/people/john-c-lebeefe/) in the ruins of Arden Crest and swore to work together and grow in power.
+Roughly six months to a year after Varyn's death, Esther was nineteen and already a High Inquisitor when she stood with [Uriel Qualanthri](/people/uriel-qualanthri/), [Locke Pierce](/people/locke-pierce/) and [John C. LeBeefe](/people/john-c-lebeefe/) in the ruins of Arden Crest and swore to work together and grow in power.
 
 The four became [The Unforeseen](/organizations/the-unforeseen/), an Imperial team of elite operatives used for missions that demanded unusual skill, secrecy and violence. They recovered the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and uncovered increasingly dangerous information about the Empire.
 
@@ -160,7 +160,7 @@ During the Unforeseen's investigations, Esther finally learned what had happened
 
 In the Emperor's throne room, Esther was specifically reminded of Varyn's loyalty and charged with avenging his death. She was also given the possibility that she might one day take his place.
 
-What happened next occurred largely outside the campaigns themselves. Esther hunted down the Council, dissolved the Crimson Sun and eventually rose to command the military of Sharn.
+In the years that followed, Esther acted on what she had learned. She hunted down the Council, dissolved the Crimson Sun and eventually rose to command the military of Sharn.
 
 For Esther, the Unforeseen years were the bridge between the woman Varyn trained and the Lord Commander she would become.
 
@@ -169,7 +169,7 @@ For Esther, the Unforeseen years were the bridge between the woman Varyn trained
 ![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
 *Esther Crona Amidst the Battlefield*
 
-In the years following the Unforeseen campaign, Esther acted on what she had learned about Varyn's assassination. She hunted down the members of the Council of 13 and their immediate families, then dismantled the Crimson Sun itself. With the old order destroyed, Esther rose through the Imperial hierarchy and became Grand Inquisitor and Lord Commander of the Imperial Military.
+In the years following the Unforeseen, Esther acted on what she had learned about Varyn's assassination. She hunted down the members of the Council of 13 and their immediate families, then dismantled the Crimson Sun itself. With the old order destroyed, Esther rose through the Imperial hierarchy and became Grand Inquisitor and Lord Commander of the Imperial Military.
 
 From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance. Esther wanted a military force that answered directly to her rather than to the institutions she had learned to distrust.
 
