@@ -290,7 +290,7 @@ Esther was using Eden as leverage to force the Umbra supply to increase.
 
 She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her half-sister, her brother-in-law and wealthy suppliers connected to the project, not as the leaders of a hidden blood cult.
 
-## From founder to Lord Commander
+## Lord Commander of Sharn
 
 ![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
 *Esther Crona Amidst the Battlefield*
