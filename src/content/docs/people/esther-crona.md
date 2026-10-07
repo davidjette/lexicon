@@ -111,7 +111,7 @@ She married the chef [Richard Blaze](/people/richard-blaze/) and had a son, [Cal
 
 When her youngest half-sister [Eden](/people/eden/) was critically injured, Esther refused to accept the loss. She brought Eden to the [Black Doves](/organizations/the-black-doves/) and demanded that they reproduce the resurrection rite she had once witnessed when [Uriel Qualanthri](/people/uriel-qualanthri/) was brought back from death. The failed result became the prototype for [Project E.D.E.N.](/organizations/project-e-d-e-n/).
 
-Esther died on her own balcony during [the fall of Sharn](/history/the-fall-of-sharn/) after learning what Uriel had done to Calcifer. Bleeding out and defeated, she voided every Iron Veil pact in the city, ordered Uriel killed and, with the last of her strength, seized **the *Black Veil*, her Imperial warship**, and hurled it into Uriel's statue above the Skyport before falling to her death.
+Esther died on her own balcony during [the fall of Sharn](/history/the-fall-of-sharn/) after learning what Uriel had done to Calcifer. Bleeding out and defeated, she voided every Iron Veil pact, ordered Uriel killed and, with the last of her strength, seized **the *Black Veil*, her Imperial warship**, and hurled it into Uriel's statue above the Skyport before falling to her death.
 
 Her corpse was supposed to be cremated.
 
