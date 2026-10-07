@@ -44,6 +44,7 @@ sources:
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - sources/dave/2026-09-26-korth-ep15-rulings.md
   - Dave, note of 2026-09-26
+  - sources/dave/2026-10-06-lazaret-flame-tomb-inscription-uriel-diamond.md
 published: '2026-09-10'
 wa:
   slug: the-ivory-lazaret-location
@@ -86,6 +87,30 @@ On Relic Row the twins Bran Flakes and Frosted Flakes sell a place on the list w
 
 At the top of the stairs is the forecourt of Nos Matre. A floating object hangs in the middle of it, sharp-edged and swirling grey, pink, white and sometimes black, and four sisters stand one to a side staring up at it without moving. Just inside the doors of the nave stands a great fountain of glittering pale blue water. The Tomb of Kaius I in the forecourt carries abjuration magic. <small>(Korth Ep 15)</small>
 
+## The eternal flame
+
+An eternal flame burns at the back of the altar. The guide who leads novices through Nos Matre calls it out as "part of the original structure built on this hill more than two millennia ago, demonstrating the deep history of this site". <small>(Korth Ep 16)</small>
+
+![The eternal flame on its iron stand](/images/album/korth-ep-16-orientation-day-the-eternal-flame.webp)
+*The eternal flame.*
+
+![The eternal flame beside the orrery](/images/album/korth-ep-16-orientation-day-the-eternal-flame-and-the-orrery.webp)
+*The eternal flame beside the orrery.*
+
+![Nos Matre and the hill from the air](/images/album/korth-ep-16-orientation-day-nos-matre-from-the-air.webp)
+*Nos Matre and the hill from the air.*
+
+## The Tomb of Kaius I
+
+The Tomb of Kaius I stands in the forecourt of Nos Matre, before the western nave, and carries abjuration magic. It bears a prominent inscription in two languages: <small>(Korth Ep 16)</small>
+
+> Nányë i carnë elen i síla lómissë.\n> Vályë tarë saptanyassë ar níta.\n> Uin tassë; uin firnë.
+>
+> Zu’u los fin sahqo fil tol viin ko vulon.\n> Ni kriist ahst dii qoth ahrk luv.\n> Zu’u ni los til; zu’u drey ni dir.
+
+![The Tomb of Kaius I](/images/album/korth-ep-16-orientation-day-the-tomb-of-kaius-i.webp)
+*The Tomb of Kaius I.*
+
 **Places of Interest:**
 
 - **[The Summer Palace](/places/the-summer-palace/):** the Imperial residence upriver of Korth, on whose grounds the Lazaret stands.
@@ -95,7 +120,8 @@ At the top of the stairs is the forecourt of Nos Matre. A floating object hangs 
 - **[The Imperial Counting House](/places/the-imperial-counting-house/):** on the Plaza of the Martyrs.
 - **The Stairs of Her Mercy:** formerly the Sovereign Steps, the altar-landings climbing from the plaza to Nos Matre.
 - **Nos Matre:** at the top of the stairs, with the floating object in its forecourt, the pale blue fountain inside its nave, and the Lazaret in its western nave.
-- **The Tomb of Kaius I:** in the forecourt of Nos Matre, before the western nave.
+- **The Tomb of Kaius I:** in the forecourt of Nos Matre, before the western nave, inscribed in two languages.
+- **The eternal flame:** at the back of the altar, part of the original structure on the hill.
 
 > "When you go up the Qarth road, and you will, if there is anything left of her in that holy place, you give her quiet."\
 > — the cover letter of the Fulcrum bell file, signed "I"

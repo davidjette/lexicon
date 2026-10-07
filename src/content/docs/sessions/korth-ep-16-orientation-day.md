@@ -33,6 +33,7 @@ sources:
   - sources/sessions/korth-2026-10-02-summary.md
   - C:/dev/sharn-campaign/session-2026-10-02-summary.md
   - C:/dev/sharn-campaign/session-2026-10-02-lazaret.transcript.txt
+  - sources/dave/2026-10-06-lazaret-flame-tomb-inscription-uriel-diamond.md
 published: '2026-10-03'
 ---
 
@@ -46,6 +47,20 @@ published: '2026-10-03'
 ## Summary
 
 The session opened where the last one ended, at the Tomb of Kaius I, with the three disguised as Black Doves. A group of novices came up the processional walk behind a severe old sister in heavy white makeup. The novices wore plain black, the same habit as the party, and the green-robed healers among the sisters carried the holy symbols of the Sovereign Host and older native gods. Eric recognised **Saturnia**, the blue-haired elf from the boat. Three novices came over to size up the strangers. Gemma gave her name as **Sister Apollonia**, "Apple", the name she had used as a novice in the Korth house; Eric gave **Sister Euphrasia**, and Dario **Sister Mr. Rogers**. Dario wanted to kill the three girls on the spot, and was talked out of it. When the guide called time, the party fell in at the back of the group.
+
+The tomb carries a prominent inscription in two languages:
+
+> Nányë i carnë elen i síla lómissë.\n> Vályë tarë saptanyassë ar níta.\n> Uin tassë; uin firnë.
+>
+> Zu’u los fin sahqo fil tol viin ko vulon.\n> Ni kriist ahst dii qoth ahrk luv.\n> Zu’u ni los til; zu’u drey ni dir.
+
+![The Tomb of Kaius I](/images/album/korth-ep-16-orientation-day-the-tomb-of-kaius-i.webp)
+*The Tomb of Kaius I.*
+
+On the tour the guide called out an eternal flame burning at the back of the altar as "part of the original structure built on this hill more than two millennia ago, demonstrating the deep history of this site".
+
+![The eternal flame](/images/album/korth-ep-16-orientation-day-the-eternal-flame.webp)
+*The eternal flame.*
 
 From the terrace they saw the Westhouse, once the palace wing of the royal family and now the headquarters of the Black Doves, with a small harbour below it, and the pilgrim camp to the north. A procession of red-robed sisters in heels came out of the cathedral behind a large, mannish sister. They were the **Sisters of the Blood**, who care for the Emperor directly and are trained in his unusual illness, and every one of them looked like [Uriel](/people/uriel-qualanthri/).
 

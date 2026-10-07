@@ -66,6 +66,7 @@ sources:
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
   - sources/dave/2026-10-05-uriel-white-death-image.md
+  - sources/dave/2026-10-06-lazaret-flame-tomb-inscription-uriel-diamond.md
 published: '2026-09-10'
 wa:
   slug: uriel-qualanthri-person
@@ -161,7 +162,7 @@ Dave: "Uriel doesn’t give a fuck about the “Empire”" / "The entire imperia
 
 ## The diamond
 
-On a visit to Sharn some years ago Uriel was killed by a mind flayer in the city's sewers. Esther Crona carried her out to a rebel base beyond the walls, where a founder of Fulcrum named Fema Nolan resurrected her and embedded a diamond in her skull. Nolan, who now goes by Zero-One and leads Fulcrum, admitted this to the rebellion herself. The diamond was later caught on an Arcane Eye recording, glowing at the base of Uriel's skull.
+On a visit to Sharn some years ago Uriel had her brain sucked out by a mind flayer in a hidden temple below the city. Esther Crona carried her out to a rebel base beyond the walls, where Fema Nolan, then a nurse in the rebel camp, resurrected her and replaced her brain with a massive diamond. The diamond, together with the Headband of Intellect she wears, turned Uriel from a lustful fanatic into an archgenius. Nolan, who went on to found Fulcrum and now leads it as Zero-One, admitted the resurrection to the rebellion herself. The diamond was later caught on an Arcane Eye recording, glowing at the base of Uriel's skull.
 
 <small>Zero-One has since been taken alive at Zilspar Farm.</small>
 

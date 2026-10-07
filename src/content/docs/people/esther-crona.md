@@ -411,6 +411,9 @@ Later that night every screen in Sharn turned red.
 
 Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn, and executed four Cogborn prisoners for the entire city to witness.
 
+![Esther Crona atop the Black Veil with Varyn's sword drawn, four chained prisoners kneeling before her and every screen in Sharn red](/images/album/sharn-ep-2-pose-esther-crona-executions-on-the-black-veil.webp)
+*Esther atop the Black Veil with the four Cogborn prisoners, every screen in Sharn red.*
+
 It was the moment she became the visible face of the crackdown.
 
 ## The Fall of Sharn
