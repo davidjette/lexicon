@@ -377,7 +377,9 @@ She could be affectionate and ruthless within the same hour.
 
 ## POSÉ
 
-[POSÉ](/places/pose/) was the restaurant owned by Esther's husband, [Richard Blaze](/people/richard-blaze/). At its grand opening, Esther sat among the people who made up the Empire's military, scientific, political and logistical power structure.
+[POSÉ](/places/pose/) was the restaurant owned by Esther's husband, [Richard Blaze](/people/richard-blaze/). At its grand opening, Esther sat on the restaurant's large open balcony overlooking the city, surrounded by many of the people who made up the Empire's military, scientific, political and logistical leadership.
+
+A large [Cogborn](/species/the-cogborn/) protest had gathered down the street and on a lower level below the balcony. The protesters were demanding better conditions in the Lower City and answers about missing Cogborn. From the balcony, Esther and the others had a clear view of the growing unrest.
 
 [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) reported on the Emperor and [Project E.D.E.N.](/organizations/project-e-d-e-n/). [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) reported on shipments. General [Stockton Thar](/people/general-stockton-thar/) warned her about the western front. [Dr. Joanne Menka](/people/dr-joanne-menka/) reported that [BioTec](/organizations/biotec/) had been breached and that [Martin Kross](https://davidjette.github.io/lexicon/people/martin-kross/) was missing.
 
@@ -391,14 +393,14 @@ When Vex reported that E.D.E.N. had retrieved enough from the [Glass Plateau](ht
 
 When Faith pleaded with Esther to bring Eden home, Esther refused to release her.
 
-Outside the restaurant, a protest had grown increasingly violent. When gunfire erupted and [Candice Kurt](/people/candice-kurt/) was killed, Esther's first instinct was to protect Calcifer. She grabbed her son and teleported him to safety.
+The protest below then turned violent. Unknown to Esther, Faith and Malrik's [Children of Ember](/organizations/the-children-of-ember/) had deliberately provoked the violence and ordered the shot that killed [Candice Kurt](/people/candice-kurt/), who was standing near the edge of the balcony. Esther saw Candice struck and immediately grabbed Calcifer, teleporting her son to safety.
 
 ![Esther Crona atop the Black Veil with Varyn's sword drawn, four chained prisoners kneeling before her and every screen in Sharn red](/images/album/sharn-ep-2-pose-esther-crona-executions-on-the-black-veil.webp)
 *Esther atop the Black Veil with the four Cogborn prisoners, every screen in Sharn red.*
 
-Later that night, every screen in Sharn turned red. Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn. She executed four Cogborn prisoners before the entire city.
+Later that night, every screen in Sharn turned red. Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn. Four [Cogborn](/species/the-cogborn/) prisoners were brought before her, and Esther executed them before the entire city.
 
-The executions marked a turning point. Esther was no longer ruling the city from behind the machinery of the Empire, she had become the symbol of its brutality.
+The executions marked a turning point. Esther was no longer ruling the city from behind the machinery of the Empire; she had become the symbol of its brutality.
 
 ## The Sword and the Forge
 
