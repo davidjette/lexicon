@@ -320,7 +320,7 @@ Project E.D.E.N. began with Eden. Esther's desperate attempt to bring her half-s
 
 *Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves.*
 
-Each controlled a different part of the project. Esther held overall authority and drove the programme forward after Eden's failed resurrection. Sister Nora and the [Black Doves](/organizations/the-black-doves/) provided the necromantic rites. Menka led the scientific research and experimentation. Malrik supplied the [Umbra](/items/umbra/), Hallorn transported it, and Vex oversaw Imperial deployment and military operations. Graves provided [BioTec](/organizations/biotec/)'s facilities, personnel and technology for the assembly and augmentation of the E.D.E.N. units.
+Each controlled a different part of the project. Esther held overall authority and drove the programme forward after Eden's failed resurrection. Sister Nora and the [Black Doves](/organizations/the-black-doves/) provided the necromantic rites. Menka led the scientific research and experimentation. Malrik supplied the [Umbra](/items/umbra/), Hallorn transported it, and Vex oversaw Imperial deployment and military operations. Graves provided [BioTec](/organizations/biotec/)'s facilities, personnel, technology and cogborn corpses for the assembly and augmentation of the E.D.E.N. units.
 
 The resulting programme combined undead bodies, Warforged components, Black Dove rites, BioTec augmentation and Imperial military resources, eventually producing units that were deployed into the Mournlands.
 
