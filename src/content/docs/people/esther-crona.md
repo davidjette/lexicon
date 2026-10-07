@@ -187,6 +187,10 @@ For Esther, the Unforeseen years were the bridge between the woman Varyn trained
 
 They spent years working together as Imperial agents, and their relationship survived the transformation of both women from rebel hunters into major Imperial powers.
 
+
+![Esther, Uriel, LeBeefe, Locke and Fema Nolan.png](/images/uploads/esther-uriel-lebeefe-locke-and-fema-nola-muxjg6ke.webp)
+*Esther, Uriel, LeBeefe, Locke and Fema Nolan*
+
 When Uriel was killed by a mind flayer in the sewers beneath [Sharn](/places/sharn/), Esther refused to leave her dead. She carried Uriel's body out and brought her to [Fema Nolan](/people/zero-one-fema-nolan/), a healer and founder of [Fulcrum](/organizations/fulcrum/). Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
 
 Esther never forgot what she had witnessed. Years later, when [Eden](/people/eden/) lay dying, Esther remembered the ritual and demanded that the Black Doves attempt to reproduce it.
