@@ -393,6 +393,10 @@ She could be affectionate and ruthless within the same hour.
 
 At [POSÉ](/places/pose/), Esther sat among the people who made up the Empire's military, scientific, political and logistical power structure.
 
+
+![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-muxplx6x.webp) *Esther, Richard and Calcifer at the open of POSÉ*
+
+
 [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) reported on the Emperor and [Project E.D.E.N.](/organizations/project-e-d-e-n/). [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) reported on shipments. General [Stockton Thar](/people/general-stockton-thar/) warned her about the western front. [Dr. Joanne Menka](/people/dr-joanne-menka/) reported the breach at [BioTec](/organizations/biotec/).
 
 Esther answered every problem as though it were a matter of logistics.
