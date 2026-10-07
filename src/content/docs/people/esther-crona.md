@@ -169,7 +169,9 @@ For Esther, the Unforeseen years were the bridge between the woman Varyn trained
 ![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
 *Esther Crona Amidst the Battlefield*
 
-In the years following the Unforeseen, Esther acted on what she had learned about Varyn's assassination. She hunted down the members of the Council of 13 and their immediate families, then dismantled the Crimson Sun itself. With the old order destroyed, Esther rose through the Imperial hierarchy and became Grand Inquisitor and Lord Commander of the Imperial Military.
+In the years following the Unforeseen, Esther acted on what she had learned about Varyn's assassination. With permission from [Emperor Kaius III](/people/emperor-caius-iii/), she hunted down the members of the [Council of 13](/organizations/the-council-of-13/) and their immediate families. She killed every member except [Henry Heinrick](/people/henry-heinrick/), the former Councilman with whom she had once worked closely and who had known Varyn personally. Henry begged for his life and insisted that he had nothing to do with Varyn's death. Esther chose to keep him alive, using him as a controlled political figure and as one of the few remaining people who had known Varyn and the old [Crimson Sun](/organizations/the-crimson-sun/). She later installed him as Mayor of Sharn.
+
+Esther then dismantled the Crimson Sun itself. With the old order destroyed, she rose through the Imperial hierarchy and became Grand Inquisitor and Lord Commander of the Imperial Military.
 
 From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance. Esther wanted a military force that answered directly to her rather than to the institutions she had learned to distrust.
 
