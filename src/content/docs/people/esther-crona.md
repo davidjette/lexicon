@@ -305,6 +305,10 @@ She knew what she was demanding from the Zeirs. She did not, however, know the f
 
 Esther eventually became Grand Inquisitor and Lord Commander of the Imperial Military.
 
+
+![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
+*Esther Crona Amidst the Battlefield*
+
 From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance.
 
 Her defining creation was the [Iron Veil](/organizations/the-iron-veil/), whose soldiers entered magical pacts directly with Esther.
