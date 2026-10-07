@@ -235,7 +235,7 @@ Uriel eventually married Emperor Kaius III. Esther was hurt by the marriage, but
 
 When Esther and Richard had their son [Calcifer](/people/calcifer/), Esther named Uriel his godmother.
 
-Uriel herself delivered Calcifer on the balcony of the [Veil Building](/places/the-veil-building/). Years later, an ArcEye recording of the birth was recovered. It showed Esther heavily pregnant, in severe pain and losing blood as she drifted in and out of consciousness.
+Uriel herself delivered Calcifer on the balcony of the [Veil Building](https://davidjette.github.io/lexicon/places/the-veil-building/). Years later, an ArcEye recording of the birth was recovered by [Grady Marsh](https://davidjette.github.io/lexicon/people/grady-marsh/), a retired ArcEye surveillance wizard. It showed Esther heavily pregnant, in severe pain and losing blood as she drifted in and out of consciousness.
 
 After Calcifer was born, Uriel raised her hand over him. A sickly green light appeared, his crying stopped, and dark, vein-like markings spread across his cheek. Esther heard the silence and screamed for Uriel to help. Uriel withdrew her hand, and Calcifer gasped and began crying again.
 
