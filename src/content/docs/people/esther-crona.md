@@ -380,8 +380,7 @@ Their final meeting made that contradiction impossible to ignore.
 
 When Richard later confronted Esther on the balcony of the [Veil Building](/places/the-veil-building/), he did not attack her first. He tried to reason with his wife while Calcifer ran into his arms. Esther accused him of bringing her killers into her home, and the marriage that had once contained moments of genuine warmth became part of the battle itself.
 
-
-![Sharn Ep 18 — The Fall of Esther Crona - Richard Blaze, Calcifer and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-ric-muxtetqe.webp)
+![Sharn Ep 18 — The Fall of Esther Crona - Richard Blaze, Calcifer and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-ric-muxu044x.webp)
 *Esther, Richard and Calcifer*
 
 Even then, Richard's first concern was their son. As the fight escalated, he pulled Calcifer into the boy's bedroom and cast Darkness so that he would not have to watch his mother die. He then returned to the balcony, using his subtle sorcery to heal and bolster the others while keeping himself between the fighting and his son.
