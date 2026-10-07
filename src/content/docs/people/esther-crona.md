@@ -176,6 +176,54 @@ In the throne room, Esther was specifically reminded of Varyn's loyalty and char
 
 For Esther, the Unforeseen years were the bridge between the woman Varyn trained and the Lord Commander she would become.
 
+## Lord Commander of Sharn
+
+![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
+*Esther Crona Amidst the Battlefield*
+
+Esther eventually became Grand Inquisitor and Lord Commander of the Imperial Military.
+
+From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance.
+
+Her defining creation was the [Iron Veil](/organizations/the-iron-veil/), whose soldiers entered magical pacts directly with Esther.
+
+When she assumed command, she dissolved the Sharn City Watch and replaced it with the Iron Veil. The pact became the foundation of the new force.
+
+The pact was a military contract enforced by Imperial law and magic. It was not religious, infernal or demonic. Soldiers signed in ink and blood and underwent a brief ritual that anchored the pact to them through a Veil Mark.
+
+The pact granted standardized warlock abilities and enhanced discipline, coordination, focus and resolve. It reinforced loyalty and emotional suppression without completely erasing free will.
+
+Over time, the pact could erode individuality, emotional range and the ability to question orders or empathize with those considered enemies of the Empire. Soldiers became colder, more rigid and increasingly dependent on the structure Esther had created.
+
+The Iron Veil was not a uniform body. **Sharn patrols** were largely former City Watch personnel. Many still thought of themselves as policemen rather than soldiers and continued trying to protect the people of Sharn where they could. Some remained because the Veil offered a steady job and a way to support their families.
+
+![Esther Crona at Crona's Wall.png](/images/uploads/esther-crona-at-crona-s-wall-muxkgf89.webp)
+*Esther at Crona's Wall*
+
+**Frontliners** were the heavily trained soldiers stationed at [Crona's Wall](/places/cronas-wall/). They were real war soldiers — stronger, better trained and often capable of casting spells. Esther could bring them into the city when something demanded serious military force.
+
+The consequences of breaking the pact were severe. A soldier who deserted, betrayed Esther, refused a direct order or otherwise broke the bond lost the magical abilities granted by it and became an oathbreaker hunted by the Empire.
+
+And the pact had one final vulnerability: Esther herself.
+
+When Esther died, every Iron Veil pact collapsed at once. Soldiers across the Empire felt the magical severing. Some panicked. Some deserted. Some remained loyal to the Empire. Some felt liberated.
+
+The military structure Esther had built was therefore also a structure that could not survive her. She had not merely commanded the [Iron Veil](/organizations/the-iron-veil/). She had made herself its magical foundation.
+
+Esther also outlawed all Warforged in [Sharn](/places/sharn/). Most fled toward Gorgonhorn or the Mournlands. The Iron Veil seized the factories, replaced Warforged labor with soldiers and pushed the already weakened Cogborn out of their jobs, neighborhoods and homes.
+
+That policy helped create the conditions from which [R.U.S.T.](/organizations/r-u-s-t/) emerged.
+
+Her rule was reinforced by the [ArcEye network](/items/the-arcane-eye-network/), which watched and recorded the city.
+
+At the western front, her armies held [Crona's Wall](/places/cronas-wall/) against the Uruk-Hoth Republic. When General [Stockton Thar](/people/general-stockton-thar/) warned her that the Wall was draining warmth from the land and that Lake Galifar had frozen, Esther answered:
+
+> "Then hold it together and find your control, general."
+
+Her philosophy was simple:
+
+> "I don't command rooms, Hallorn. I command outcomes."
+
 ## Uriel
 
 [Uriel Qualanthri](/people/uriel-qualanthri/) was one of Esther's three fellow founders of [The Unforeseen](/organizations/the-unforeseen/), and the woman Esther was secretly in love with.
@@ -289,54 +337,6 @@ At [POSÉ](/places/pose/), Faith begged Esther to bring Eden home.
 Esther was using Eden as leverage to force the Umbra supply to increase.
 
 She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her half-sister, her brother-in-law and wealthy suppliers connected to the project, not as the leaders of a hidden blood cult.
-
-## Lord Commander of Sharn
-
-![Esther Crona Amidst the Battlefield.png](/images/uploads/esther-crona-amidst-the-battlefield-muxmmswi.webp)
-*Esther Crona Amidst the Battlefield*
-
-Esther eventually became Grand Inquisitor and Lord Commander of the Imperial Military.
-
-From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance.
-
-Her defining creation was the [Iron Veil](/organizations/the-iron-veil/), whose soldiers entered magical pacts directly with Esther.
-
-When she assumed command, she dissolved the Sharn City Watch and replaced it with the Iron Veil. The pact became the foundation of the new force.
-
-The pact was a military contract enforced by Imperial law and magic. It was not religious, infernal or demonic. Soldiers signed in ink and blood and underwent a brief ritual that anchored the pact to them through a Veil Mark.
-
-The pact granted standardized warlock abilities and enhanced discipline, coordination, focus and resolve. It reinforced loyalty and emotional suppression without completely erasing free will.
-
-Over time, the pact could erode individuality, emotional range and the ability to question orders or empathize with those considered enemies of the Empire. Soldiers became colder, more rigid and increasingly dependent on the structure Esther had created.
-
-The Iron Veil was not a uniform body. **Sharn patrols** were largely former City Watch personnel. Many still thought of themselves as policemen rather than soldiers and continued trying to protect the people of Sharn where they could. Some remained because the Veil offered a steady job and a way to support their families.
-
-![Esther Crona at Crona's Wall.png](/images/uploads/esther-crona-at-crona-s-wall-muxkgf89.webp)
-*Esther at Crona's Wall*
-
-**Frontliners** were the heavily trained soldiers stationed at [Crona's Wall](/places/cronas-wall/). They were real war soldiers — stronger, better trained and often capable of casting spells. Esther could bring them into the city when something demanded serious military force.
-
-The consequences of breaking the pact were severe. A soldier who deserted, betrayed Esther, refused a direct order or otherwise broke the bond lost the magical abilities granted by it and became an oathbreaker hunted by the Empire.
-
-And the pact had one final vulnerability: Esther herself.
-
-When Esther died, every Iron Veil pact collapsed at once. Soldiers across the Empire felt the magical severing. Some panicked. Some deserted. Some remained loyal to the Empire. Some felt liberated.
-
-The military structure Esther had built was therefore also a structure that could not survive her. She had not merely commanded the [Iron Veil](/organizations/the-iron-veil/). She had made herself its magical foundation.
-
-Esther also outlawed all Warforged in [Sharn](/places/sharn/). Most fled toward Gorgonhorn or the Mournlands. The Iron Veil seized the factories, replaced Warforged labor with soldiers and pushed the already weakened Cogborn out of their jobs, neighborhoods and homes.
-
-That policy helped create the conditions from which [R.U.S.T.](/organizations/r-u-s-t/) emerged.
-
-Her rule was reinforced by the [ArcEye network](/items/the-arcane-eye-network/), which watched and recorded the city.
-
-At the western front, her armies held [Crona's Wall](/places/cronas-wall/) against the Uruk-Hoth Republic. When General [Stockton Thar](/people/general-stockton-thar/) warned her that the Wall was draining warmth from the land and that Lake Galifar had frozen, Esther answered:
-
-> "Then hold it together and find your control, general."
-
-Her philosophy was simple:
-
-> "I don't command rooms, Hallorn. I command outcomes."
 
 ## Public and private
 
@@ -607,3 +607,4 @@ She is famously immaculate and a neat freak.
 > "Your pact is void."
 >
 > — Esther Crona
+
