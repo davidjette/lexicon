@@ -244,14 +244,13 @@ After Calcifer was born, Uriel raised her hand over him. A sickly green light ap
 
 Esther later remembered those moments as Uriel trying to harm her son. Her memory was fragmented by pain and blood loss, but the recovered recording appeared to support what she believed had happened. She could never have known exactly what Uriel intended or what caused her to stop.
 
-
 When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther saw the events again. To her, the memory confirmed what she had come to believe about Uriel and her son. Whatever remained of their bond ended there.
 
-Bleeding out on her balcony, Esther's final command was for Uriel:
+Bleeding out on her balcony, Esther's final command was a single order:
 
 > **"... Kill Empress Uriel Qualanthri..."**
 
-Esther died calling for the death of the woman she had once loved.
+It was her last act of vengeance against the woman she had once loved.
 
 ## The Sisters
 
