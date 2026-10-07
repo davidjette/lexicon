@@ -283,9 +283,7 @@ Eden was the youngest of Esther's three half-sisters and, unlike the others, gen
 
 She was bright, idealistic and loyal. She was recruited into an Imperial research division in part because she was Esther's sister and therefore assumed to be loyal and discreet.
 
-Her assignment concerned the Mournlands, Warforged migration, the resurgence of [Locke Pierce](/people/locke-pierce/) and the resistance group known as [the Hundreds](/organizations/the-hundreds/).
-
-Eden discovered that a Hundreds cell was operating inside Sharn. Her investigation followed stolen shipments, anti-Imperial graffiti and reports of a Warforged preacher in the Cogs.
+Her assignment concerned the Mournlands, Warforged migration, the resurgence of [Locke Pierce](/people/locke-pierce/) and the resistance group known as [the Hundreds](/organizations/the-hundreds/). Eden discovered that a Hundreds cell was operating inside Sharn. Her investigation followed stolen shipments, anti-Imperial graffiti and reports of a Warforged preacher in the Cogs.
 
 The records disagree on exactly what happened next.
 
