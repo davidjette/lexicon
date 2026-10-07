@@ -389,52 +389,50 @@ She could be affectionate and ruthless within the same hour.
 
 ## POSÉ
 
-At [POSÉ](/places/pose/), Esther sat among the people who made up the Empire's military, scientific, political and logistical power structure.
+[POSÉ](/places/pose/) was the restaurant owned by Esther's husband, [Richard Blaze](/people/richard-blaze/). At its grand opening, Esther sat among the people who made up the Empire's military, scientific, political and logistical power structure.
 
-[Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) reported on the Emperor and [Project E.D.E.N.](/organizations/project-e-d-e-n/). [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) reported on shipments. General [Stockton Thar](/people/general-stockton-thar/) warned her about the western front. [Dr. Joanne Menka](/people/dr-joanne-menka/) reported the breach at [BioTec](/organizations/biotec/).
+[Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) reported on the Emperor and [Project E.D.E.N.](/organizations/project-e-d-e-n/). [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) reported on shipments. General [Stockton Thar](/people/general-stockton-thar/) warned her about the western front. [Dr. Joanne Menka](/people/dr-joanne-menka/) reported that [BioTec](/organizations/biotec/) had been breached and that [Martin Kross](https://davidjette.github.io/lexicon/people/martin-kross/) was missing.
 
-Esther answered every problem as though it were a matter of logistics.
+Esther treated each problem as a matter of logistics.
 
-When Menka reported that [Martin Kross](https://davidjette.github.io/lexicon/people/martin-kross/) was missing and that [BioTec](/organizations/biotec/) had been breached, Esther said:
+When Menka reported the breach, Esther said:
 
 > "Clean the mess. Contain the story. And find Kross."
 
-When Vex reported that E.D.E.N. had retrieved enough from the Glass Plateau to continue testing, Esther's attention immediately went to the supply problem.
+When Vex reported that E.D.E.N. had retrieved enough from the [Glass Plateau](https://davidjette.github.io/lexicon/places/the-mournland/) to continue testing, Esther's attention immediately turned to the supply problem.
 
-When Faith spoke of Eden, Esther refused to release her.
+When Faith pleaded with Esther to bring Eden home, Esther refused to release her.
 
-Then the protest outside POSÉ erupted into violence. Esther grabbed Calcifer and teleported him away.
+Outside the restaurant, a protest had grown increasingly violent. When gunfire erupted and [Candice Kurt](/people/candice-kurt/) was killed, Esther's first instinct was to protect Calcifer. She grabbed her son and teleported him to safety.
 
 ![Esther Crona atop the Black Veil with Varyn's sword drawn, four chained prisoners kneeling before her and every screen in Sharn red](/images/album/sharn-ep-2-pose-esther-crona-executions-on-the-black-veil.webp)
 *Esther atop the Black Veil with the four Cogborn prisoners, every screen in Sharn red.*
 
-Later that night every screen in Sharn turned red. Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn, and executed four Cogborn prisoners for the entire city to witness.
+Later that night, every screen in Sharn turned red. Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn. She executed four Cogborn prisoners before the entire city.
 
-It was the moment she became the visible face of the crackdown.
+The executions marked a turning point. Esther was no longer ruling the city from behind the machinery of the Empire — she had become the symbol of its brutality.
 
 ## The Sword and the Forge
 
-Long after Varyn's death, and by then Lord Commander of Sharn, Esther turned her obsession with Varyn toward the mystery surrounding his sword and the [Forge of Binding](/places/the-forge-of-binding/). She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword became her Hexblade, but also the physical center of her grief and her obsession with avenging Varyn.
+Long after Varyn's death, and by then Lord Commander of Sharn, Esther became increasingly obsessed with understanding what had happened to him, his sword and the [Forge of Binding](/places/the-forge-of-binding/). She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword had become her Hexblade, but it was also a constant reminder of the man she had lost.
 
-Esther ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to investigate the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. Under Esther's authority, material concerning Varyn, the Crimson Sun, the Council of 13, the Eternal Guardian rites and the Forge was gathered under Iron Veil protection, including the Eternal Guardian tome in the Sharn Library.
+Esther ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to gather and study the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. The library was instructed to alert the [Iron Veil](/organizations/the-iron-veil/) if anyone other than Esther came looking for information about Varyn, the Eternal Guardian or the Forge.
 
 ![Esther and Renn Tal - Sharn Library.png](/images/uploads/esther-and-renn-tal-sharn-library-muxxcef8.webp)
 *Esther and Renn Tal - Sharn Library*
 
-The investigation eventually led to the Forge itself, hidden deep beneath Sharn in the ruins of a Dhakaani-era foundry. There, [Eric the Cleric](/people/eric-the-cleric/) performed the Rite of Recall and summoned **Varyn's Echo** from the Forge.
+That warning was triggered when [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and Dario came to the library seeking the same information. Renn became interested in their questions and helped them, but another librarian alerted the Iron Veil. The three escaped the library and later met Renn again in the Lower City.
 
-The Echo did not remain.
+Esther came to the library before Renn left and spoke with her about what she had learned. When Renn departed, Esther began tracking her. She enlisted General [Stockton Thar](/people/general-stockton-thar/) and his Dragonmark of Finding to locate Renn in the Lower City. The trail led Esther to a Cogborn factory, where she had a massive drill brought in and used it to bore down beneath the building.
 
-It repeated fragments of Varyn's voice before shattering into red-black light:
+The drill broke through into the Forge of Binding just as [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and Dario were fleeing the chamber. They had been performing the Rite of Recall and had summoned **Varyn's Echo**. Esther arrived at the moment the Echo was destroyed, shattering into red-black light.
 
-> "…we'll bleed the sun, eternal night. Our bloodline shall reign… As the blood is the power, and the blood flows through me, the power is mine. E'noch… Qualanthri… my brother…"
-
-The rite broke the old binding. The Echo was gone, and the sword Esther had carried for years was no longer what it had been. The red within the blade drained away and crystallized, leaving behind something diminished and changed. Esther's Hexblade bond was believed to have weakened or broken with it. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
+Esther may have heard fragments of what the Echo said, but she could not have known exactly what had taken place inside the Forge. What mattered most to her was what happened to the sword. At that same moment, the red drained from Varyn's sword and crystallized. Esther could no longer hear or feel Varyn through the blade. From then on, the sword remained crystal, and whatever bond had connected Esther to Varyn appeared to have been broken or diminished.
 
 ![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun 3.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-muxxdnps.webp)
 *Esther Crona on top of a drill inside the Forge of Binding holding the unbound Crimson Sun*
 
-Richard Blaze later described what Esther was like immediately afterward. She returned home at sunrise and stood quietly on their balcony, seeming almost lost, as though she had just awakened from a very long sleep. She told Richard that she had been looking for something for a very long time and that, deep beneath the city, she had finally found it. For once, she was not angry or frightened. Richard said it was the most content he had seen her in years.
+For years, Esther had been searching for an explanation for Varyn, the sword and the binding that had kept his presence with her. Whatever she found beneath Sharn appears to have brought that torment to an end. Richard Blaze later described how she returned home at sunrise, quiet and almost lost, as though she had just awakened from a long sleep. She told him that she had been looking for something for a very long time and that, deep beneath the city, she had finally found it. Richard said it was the most content he had seen her in years.
 
 She spent the early morning with [Calcifer](/people/calcifer/), playing and laughing with him while Richard cooked breakfast. She told Richard she wished she could stay with them or come to their lake house, but that events at [Crona's Wall](/places/cronas-wall/) were escalating. She kissed her husband and son goodbye and left.
 
@@ -442,7 +440,7 @@ For most of Esther's life, the sword had been a voice telling her to continue.
 
 After the Forge, that voice was gone.
 
-What Esther believed she had found beneath Sharn — and what, exactly, had been removed from the sword when the Echo shattered — remains one of the central mysteries surrounding her.
+What Esther believed she had finally found beneath Sharn — and what exactly was lost when Varyn's Echo disappeared — remains one of the central mysteries surrounding her. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
 
 ## The Fall of Sharn
 
