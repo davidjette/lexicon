@@ -203,9 +203,7 @@ Uriel did.
 
 ![Sharn Ep 14 — The Memory in the Sky - Esther Crona, Empress Uriel Qualanthri and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-esther-muxiia95.webp) *The memory broadcast over Sharn: a green glow spreads from Uriel’s hand over the newborn Calcifer.*
 
-When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther understood that Uriel had been trying to kill her son.
-
-Whatever remained of their bond ended there.
+When the recording was finally broadcast across Sharn during [the fall of Sharn](/history/the-fall-of-sharn/), Esther understood that Uriel had been trying to kill her son. Whatever remained of their bond ended there.
 
 Bleeding out on her balcony, Esther's final command was for Uriel:
 
@@ -410,9 +408,7 @@ Then the protest outside POSÉ erupted into violence. Esther grabbed Calcifer an
 ![Esther Crona atop the Black Veil with Varyn's sword drawn, four chained prisoners kneeling before her and every screen in Sharn red](/images/album/sharn-ep-2-pose-esther-crona-executions-on-the-black-veil.webp)
 *Esther atop the Black Veil with the four Cogborn prisoners, every screen in Sharn red.*
 
-Later that night every screen in Sharn turned red.
-
-Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn, and executed four Cogborn prisoners for the entire city to witness.
+Later that night every screen in Sharn turned red. Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn, and executed four Cogborn prisoners for the entire city to witness.
 
 It was the moment she became the visible face of the crackdown.
 
