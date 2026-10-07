@@ -457,17 +457,13 @@ Then her final command echoed across the towers:
 
 > **"... Kill Empress Uriel Qualanthri..."**
 
-With the last of her strength, Esther telekinetically seized **the *Black Veil*, her Imperial warship**, and hurled it into the massive statue of Uriel above the Skyport.
-
-The explosion shattered the symbol of the Empire's power.
+With the last of her strength, Esther telekinetically seized **the *Black Veil*, her Imperial warship**, and hurled it into the massive statue of Uriel above the Skyport. The explosion shattered the symbol of the Empire's power.
 
 Esther fell from the balcony, landing at the base of the [Veil Building](/places/the-veil-building/).
 
 She was thirty-one.
 
-
 ![Sharn Ep 18 — The Fall of Esther Crona - Esther moving the Black Veil.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-est-muxlzs3d.webp) *Esthers finale stand*
-
 
 ## After Death
 
@@ -491,15 +487,9 @@ The process appears to have been based on the same general principle used to res
 
 Esther's corpse had been rebuilt with grafted muscle and skin. Her skeleton was reinforced with bronze and black Khyber, and a skull-faced mask had been bolted to her horns.
 
-She rose bloody and winged.
-
-But she did not rise alive.
-
-Whatever emerged from the ritual appears to be an undead soldier wearing Esther Crona's body.
-
+She rose bloody and winged. But she did not rise alive. Whatever emerged from the ritual appears to be an undead soldier wearing Esther Crona's body.
 
 ![Korth Ep 16 — Orientation Day - Esther Crona - Risen Undead 1.png](/images/uploads/korth-ep-16-orientation-day-esther-crona-muxm1ek5.webp)*Esther Risen*
-
 
 The process was not cleanly understood even when it was performed on Eden, and the extent to which Esther's mind, soul, memories and personality survived is still unknown. She remembers people and objects from her former life, including [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/), but whether this represents the true continuity of Esther's identity or something more complicated remains unclear.
 
@@ -520,7 +510,6 @@ The words briefly disrupted Eric's spirit guardians and Gemma's pact magic.
 According to Gemma's patron, Esther has a patron of her own.
 
 And she is back because **it wants her back**.
-
 
 ![Korth Ep 16 — Orientation Day - Gemma disguised as Black Doves - Under The Ivory Lazaret - Operating theater - Zero-One, Risen Esther Crona.png](/images/uploads/korth-ep-16-orientation-day-gemma-disgui-muxpx2tn.webp) *Gemma disguised as a Black Dove in battle with a risne Esther Crona*
 
