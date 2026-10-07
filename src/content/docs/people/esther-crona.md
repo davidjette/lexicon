@@ -360,8 +360,9 @@ She then watched their son moving through the kitchen and said:
 
 The moment is one of the clearest glimpses of Esther as a wife and mother rather than as Lord Commander. Richard was not merely her husband by title. He was someone she could be physically affectionate with, someone whose success genuinely pleased her, and someone with whom she shared a private tenderness that never appeared in her dealings with subordinates.
 
-![Esther Crona, Calcifer and Richard Blaze - The Crono-Blaze Family - Upper City Sharn.png](/images/uploads/esther-crona-calcifer-and-richard-blaze-muxkmjuy.webp)
-*Esther Crona, Calcifer and Richard Blaze*
+
+![Esther, Richard and Calcifer family portrait.png](/images/uploads/esther-richard-and-calcifer-family-portr-muxt4w83.webp)
+*Esther, Richard and Calcifer family portrait*
 
 That same warmth was visible in her relationship with Calcifer. He was raised inside the [Veil Building](/places/the-veil-building/) under constant protection, and despite the machinery of the Empire surrounding him, Esther clearly loved him as her son. At [POSÉ](/places/pose/), he called for his mother and ran to hug her around the waist when she arrived. Later, when the protest erupted and a shot killed Candice Kurt, Esther's immediate response was not to secure the restaurant or the officials around her. She grabbed Calcifer and teleported him to safety.
 
