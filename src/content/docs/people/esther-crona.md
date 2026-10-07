@@ -222,7 +222,7 @@ Her philosophy was simple:
 
 Their bond survived long after the Unforeseen ended. Even as Esther rose to Lord Commander and Uriel became Empress, Uriel remained one of the most important people in Esther's life.
 
-When Uriel was killed by a mind flayer in the sewers beneath [Sharn](/places/sharn/), Esther refused to leave her dead. In a panic, she carried Uriel's body to an area just outside the city where they believed help might be found. There she encountered [Fema Nolan](/people/zero-one-fema-nolan/), who was known to them only as a healer. Esther begged her to help, and Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
+Years earlier, while Esther and the others were still working together as the [Unforeseen](/organizations/the-unforeseen/), Uriel was killed by a mind flayer in the sewers beneath [Sharn](https://davidjette.github.io/lexicon/places/sharn/). Esther refused to leave her dead. In a panic, she carried Uriel's body to an area just outside the city where they believed help might be found. There she encountered [Fema Nolan](https://davidjette.github.io/lexicon/people/zero-one-fema-nolan/), who was known to them only as a healer. Esther begged her to help, and Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
 
 At the time, Esther and the others did not know Fema was connected to the [Silver Flame](/organizations/the-silver-flame/), [Fulcrum](/organizations/fulcrum/), or the rebellion. They believed they had simply found a healer willing to save Uriel.
 
