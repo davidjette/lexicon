@@ -176,38 +176,6 @@ In the throne room, Esther was specifically reminded of Varyn's loyalty and char
 
 For Esther, the Unforeseen years were the bridge between the woman Varyn trained and the Lord Commander she would become.
 
-## The Sword and the Forge
-
-After Varyn's death, Esther took up his personal sword, **the [Crimson Sun](/items/the-bright-dawn-crimson-sun-unbound/)**. She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword became her Hexblade, but also the physical center of her grief and her obsession with avenging Varyn.
-
-Esther eventually turned that obsession toward the mystery surrounding the [Eternal Guardian](/people/varyn-crona/), the ritual that had bound Varyn and the [Forge of Binding](/places/the-forge-of-binding/). She ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to investigate the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. Under Esther's authority, material concerning Varyn, the Crimson Sun, the Council of 13, the Eternal Guardian rites and the Forge was gathered under Iron Veil protection, including the Eternal Guardian tome in the Sharn Library.
-
-![Esther and Renn Tal - Sharn Library.png](/images/uploads/esther-and-renn-tal-sharn-library-muxxcef8.webp)
-*Esther and Renn Tal - Sharn Library*
-
-The investigation eventually led to the Forge itself, hidden deep beneath Sharn in the ruins of a Dhakaani-era foundry. There, [Eric the Cleric](/people/eric-the-cleric/) performed the Rite of Recall and summoned **Varyn's Echo** from the Forge.
-
-The Echo did not remain.
-
-It repeated fragments of Varyn's voice before shattering into red-black light:
-
-> "…we'll bleed the sun, eternal night. Our bloodline shall reign… As the blood is the power, and the blood flows through me, the power is mine. E'noch… Qualanthri… my brother…"
-
-The rite broke the old binding. The Echo was gone, and the sword Esther had carried for years was no longer what it had been. The red within the blade drained away and crystallized, leaving behind something diminished and changed. Esther's Hexblade bond was believed to have weakened or broken with it. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
-
-![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun 3.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-muxxdnps.webp)
-*Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun*
-
-Richard Blaze later described what Esther was like immediately afterward. She returned home at sunrise and stood quietly on their balcony, seeming almost lost, as though she had just awakened from a very long sleep. She told Richard that she had been looking for something for a very long time and that, deep beneath the city, she had finally found it. For once, she was not angry or frightened. Richard said it was the most content he had seen her in years.
-
-She spent the early morning with [Calcifer](/people/calcifer/), playing and laughing with him while Richard cooked breakfast. She told Richard she wished she could stay with them or come to their lake house, but that events at [Crona's Wall](/places/cronas-wall/) were escalating. She kissed her husband and son goodbye and left.
-
-For most of Esther's life, the sword had been a voice telling her to continue.
-
-After the Forge, that voice was gone.
-
-What Esther believed she had found beneath Sharn — and what, exactly, had been removed from the sword when the Echo shattered — remains one of the central mysteries surrounding her.
-
 ## Uriel
 
 [Uriel Qualanthri](/people/uriel-qualanthri/) was one of Esther's three fellow founders of [The Unforeseen](/organizations/the-unforeseen/), and the woman Esther was secretly in love with.
@@ -444,6 +412,38 @@ Then the protest outside POSÉ erupted into violence. Esther grabbed Calcifer an
 Later that night every screen in Sharn turned red. Esther appeared in full armor atop **the *Black Veil*, her Imperial warship**, with [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) drawn, and executed four Cogborn prisoners for the entire city to witness.
 
 It was the moment she became the visible face of the crackdown.
+
+## The Sword and the Forge
+
+After Varyn's death, Esther took up his personal sword, **the [Crimson Sun](/items/the-bright-dawn-crimson-sun-unbound/)**. She believed that Varyn's soul had remained inside the blade and that he continued to speak to her, guide her and train her through it. The sword became her Hexblade, but also the physical center of her grief and her obsession with avenging Varyn.
+
+Esther eventually turned that obsession toward the mystery surrounding the [Eternal Guardian](/people/varyn-crona/), the ritual that had bound Varyn and the [Forge of Binding](/places/the-forge-of-binding/). She ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library, to investigate the surviving records concerning Varyn, the Eternal Guardian and the Forge. The records were fragmented, contradictory and heavily obscured. Under Esther's authority, material concerning Varyn, the Crimson Sun, the Council of 13, the Eternal Guardian rites and the Forge was gathered under Iron Veil protection, including the Eternal Guardian tome in the Sharn Library.
+
+![Esther and Renn Tal - Sharn Library.png](/images/uploads/esther-and-renn-tal-sharn-library-muxxcef8.webp)
+*Esther and Renn Tal - Sharn Library*
+
+The investigation eventually led to the Forge itself, hidden deep beneath Sharn in the ruins of a Dhakaani-era foundry. There, [Eric the Cleric](/people/eric-the-cleric/) performed the Rite of Recall and summoned **Varyn's Echo** from the Forge.
+
+The Echo did not remain.
+
+It repeated fragments of Varyn's voice before shattering into red-black light:
+
+> "…we'll bleed the sun, eternal night. Our bloodline shall reign… As the blood is the power, and the blood flows through me, the power is mine. E'noch… Qualanthri… my brother…"
+
+The rite broke the old binding. The Echo was gone, and the sword Esther had carried for years was no longer what it had been. The red within the blade drained away and crystallized, leaving behind something diminished and changed. Esther's Hexblade bond was believed to have weakened or broken with it. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
+
+![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun 3.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-muxxdnps.webp)
+*Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun*
+
+Richard Blaze later described what Esther was like immediately afterward. She returned home at sunrise and stood quietly on their balcony, seeming almost lost, as though she had just awakened from a very long sleep. She told Richard that she had been looking for something for a very long time and that, deep beneath the city, she had finally found it. For once, she was not angry or frightened. Richard said it was the most content he had seen her in years.
+
+She spent the early morning with [Calcifer](/people/calcifer/), playing and laughing with him while Richard cooked breakfast. She told Richard she wished she could stay with them or come to their lake house, but that events at [Crona's Wall](/places/cronas-wall/) were escalating. She kissed her husband and son goodbye and left.
+
+For most of Esther's life, the sword had been a voice telling her to continue.
+
+After the Forge, that voice was gone.
+
+What Esther believed she had found beneath Sharn — and what, exactly, had been removed from the sword when the Echo shattered — remains one of the central mysteries surrounding her.
 
 ## The Fall of Sharn
 
