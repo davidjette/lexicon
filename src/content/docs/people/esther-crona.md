@@ -215,9 +215,7 @@ Esther died calling for the death of the woman she had once loved.
 
 Esther did not meet her three biological half-sisters until years after all four had been born.
 
-Nine years before the present, a woman named Greenish Huges contacted Esther on behalf of [John C. LeBeefe](/people/john-c-lebeefe/) and asked her to come to his manor in [Newham](/places/newham/). Esther traveled there with [Richard Blaze](/people/richard-blaze/) but was asked to enter the palace alone.
-
-Inside she found three tiefling women she did not recognize: **[Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/)**.
+Nine years before the present, a woman named Greenish Huges contacted Esther on behalf of [John C. LeBeefe](/people/john-c-lebeefe/) and asked her to come to his manor in [Newham](/places/newham/). Esther traveled there with [Richard Blaze](/people/richard-blaze/) but was asked to enter the palace alone. Inside she found three tiefling women she did not recognize: **[Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/)**.
 
 LeBeefe had learned that his harvested sperm had produced four daughters with different mothers and had called all four of them to his home. [Sister Nora](/people/sister-nora/) of the local Black Dove hospital was brought in to confirm their blood relationship.
 
