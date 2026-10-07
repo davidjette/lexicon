@@ -129,13 +129,33 @@ How complete the process was, how much of Esther remains, and exactly what retur
 
 ## The Crimson Sun
 
-[Varyn Crona](/people/varyn-crona/) found something extraordinary in Esther when she was still a child. He taught her literacy, magic and warfare, and at twelve made her his apprentice in the [Crimson Sun](/organizations/the-crimson-sun/), an elite Imperial secret service of spies and rebel hunters.
+At twelve, [Varyn Crona](/people/varyn-crona/) made Esther his apprentice in **[The Crimson Sun](/organizations/the-crimson-sun/)**, the Empire's elite secret service based in Korth. The Crimson Sun was a small, feared government agency made up of Masters and apprentices, most of them Knights, Paladins or Sorcerers. Its agents served as spies and rebel hunters, operating where ordinary Imperial forces could not.
 
-The order's ranks ran from Apprentice to Inquisitor to High Inquisitor to Master. Esther rose through the first three while working directly under Varyn.
+Esther rose from Apprentice to Inquisitor and eventually High Inquisitor while working directly under Varyn. His position as Master of the Crimson Sun also carried a seat on the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right, placing Esther close to the highest levels of Imperial power from an early age.
 
-During Campaign 1 she served on Imperial operations with Varyn, [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). She helped recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and took part in operations where the Empire authorized interrogation, assassination and total secrecy.
+Varyn was more than Esther's commanding officer. He was her adoptive father, teacher and master, and he personally shaped the way she understood loyalty, authority and the use of power. Under his direction, Esther became an Imperial operative trusted with espionage, rebel hunting, assassination and the Empire's most sensitive operations.
 
-Esther began her career as an Imperial hunter rather than a politician. The woman who eventually ruled [Sharn](/places/sharn/) was first shaped by a master who taught her to solve problems by force, discipline and results.
+During Campaign 1, Esther served alongside Varyn, [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). She helped recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fought rebels aboard the Talenta Plains Express, investigated Imperial secrets and carried out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
+
+Esther was nineteen and already a High Inquisitor when she became one of the founders of [The Unforeseen](/organizations/the-unforeseen/). By then she was no longer simply Varyn's young apprentice. She had become one of the Empire's most capable and trusted agents in her own right.
+
+### Varyn's Assassination
+
+Varyn served as Master of the Crimson Sun and as the Emperor's **Eternal Guardian**, having sworn service to three generations of the Kaius dynasty. His influence over Imperial military doctrine and his long-term plans eventually brought him into conflict with members of the [Council of 13](/organizations/the-council-of-13/).
+
+Varyn was murdered outside Fairhaven while investigating a suspected rebel stronghold. The Empire treated his death as a consequence of rebel activity, but later intelligence suggested that members of the Council itself were responsible.
+
+Esther did not accept Varyn's death.
+
+She systematically hunted the people she believed responsible and ultimately purged the Council of 13, including members of their immediate families. The Crimson Sun's Master had been murdered by people within the government he served, and its High Inquisitor responded by destroying much of that same government.
+
+Why the Empire tolerated Esther's actions, and why Emperor Kaius III allowed the purge to continue, was never clearly explained.
+
+After Varyn's death, **[Hayman Maw](/people/hayman-maw/)** became Master of the Crimson Sun and inherited its seat on the Imperial Council.
+
+For Esther, the Crimson Sun remained inseparable from Varyn's legacy. She had entered the order as a child because of him, risen to its highest rank beneath him and ultimately used the power he had entrusted to her to avenge his murder.
+
+The woman who would eventually become Lord Commander of Sharn was forged in the Crimson Sun first.
 
 ## Varyn Crona
 
