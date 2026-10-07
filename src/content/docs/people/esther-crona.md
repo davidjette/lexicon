@@ -372,6 +372,10 @@ That same warmth was visible in her relationship with Calcifer. He was raised in
 
 Calcifer was also the person around whom Esther's ruthlessness became most extreme. She was willing to use the power of the Empire to protect him, and ultimately willing to kill members of her own family when she believed they threatened him. Her relationship with him was therefore both deeply maternal and dangerously possessive: Calcifer was her child, her responsibility and one of the few things she could not accept losing.
 
+
+![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-muxq23aw.webp)
+*Esther, Richard and Calcifer at the POSÉ opening*
+
 Richard's life was more complicated than Esther understood. Behind the public identity of the Empire's celebrated chef, he was secretly one of the original founders of [Fulcrum](/organizations/fulcrum/), using his restaurants, money and supply networks to move intelligence and resources to the rebellion while remaining inside the household of the woman who ruled Sharn. For years, husband and wife lived on opposite sides of the same war without Esther knowing the full extent of Richard's second life.
 
 Their final meeting made that contradiction impossible to ignore.
