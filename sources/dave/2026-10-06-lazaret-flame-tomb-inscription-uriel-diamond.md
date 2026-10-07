@@ -25,3 +25,5 @@ Pictures stored in `public/images/album/`:
 - `korth-ep-16-orientation-day-nos-matre-from-the-air.webp`
 - `korth-ep-16-orientation-day-the-tomb-of-kaius-i.webp`
 - `sharn-ep-2-pose-esther-crona-executions-on-the-black-veil.webp`
+
+Follow-up 1 (same day): the picture meant for Uriel's resurrection passage is the rebel-camp scene (Esther carrying Uriel to Fema Nolan, LeBeefe and Locke looking on), already uploaded by Nico as `public/images/uploads/esther-uriel-lebeefe-locke-and-fema-nola-muxjg6ke.webp`. Dave confirmed `831376080...png` is the Esther picture: "this is the esther pic".

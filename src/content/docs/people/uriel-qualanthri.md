@@ -164,6 +164,9 @@ Dave: "Uriel doesn’t give a fuck about the “Empire”" / "The entire imperia
 
 On a visit to Sharn some years ago Uriel had her brain sucked out by a mind flayer in a hidden temple below the city. Esther Crona carried her out to a rebel base beyond the walls, where Fema Nolan, then a nurse in the rebel camp, resurrected her and replaced her brain with a massive diamond. The diamond, together with the Headband of Intellect she wears, turned Uriel from a lustful fanatic into an archgenius. Nolan, who went on to found Fulcrum and now leads it as Zero-One, admitted the resurrection to the rebellion herself. The diamond was later caught on an Arcane Eye recording, glowing at the base of Uriel's skull.
 
+![Esther Crona carries Uriel's body into the rebel camp, where Fema Nolan reaches for her as LeBeefe and Locke Pierce look on](/images/uploads/esther-uriel-lebeefe-locke-and-fema-nola-muxjg6ke.webp)
+*Esther carries Uriel to Fema Nolan in the rebel camp.*
+
 <small>Zero-One has since been taken alive at Zilspar Farm.</small>
 
 ## Calcifer
