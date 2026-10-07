@@ -271,11 +271,14 @@ The result became **EDN-00**, the prototype of [Project E.D.E.N.](/organizations
 
 Project E.D.E.N. began with Eden.
 
-Esther's desperate attempt to bring her half-sister back produced the first hybridization before [BioTec](/organizations/biotec/) was formally involved. The prototype was then used as the basis for a much larger Imperial programme combining undead bodies, Warforged components, Black Dove rites and BioTec augmentation.
+Esther's desperate attempt to bring her half-sister back produced the first hybridization before [BioTec](/organizations/biotec/) was formally involved. What followed became a much larger Imperial programme whose founding circle included **[Esther Crona](/people/esther-crona/), [Sister Nora](/people/sister-nora/), [Dr. Joanne Menka](/people/dr-joanne-menka/), [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), [Malrik Zeir](/people/malrik-zeir/), [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/)** and BioTec's private owner, **[Dr. Edwin Graves](/people/dr-edwin-graves/)**.
 
-Its later supply chain included bodies recovered for the programme, Warforged components, [Umbra](/items/umbra/) supplied by [Malrik Zeir](/people/malrik-zeir/) and transported by Hallorn d'Lyrandar, Black Dove necromantic rites, BioTec assembly and experimentation, and deployment into the Mournlands by Imperial airships.
+![Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves..png](/images/uploads/project-e-d-e-n-founding-circle-esther-c-muxvx6nc.webp)
+*Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves.*
 
-Esther held authority over the project, but she was not its scientist. [Dr. Joanne Menka](/people/dr-joanne-menka/) led the scientific work; the Black Doves supplied the rites; other Imperial figures handled procurement and deployment.
+Each controlled a different part of the project. Esther held overall authority and drove the programme forward after Eden's failed resurrection. Sister Nora and the [Black Doves](/organizations/the-black-doves/) provided the necromantic rites. Menka led the scientific research and experimentation. Malrik supplied the [Umbra](/items/umbra/), Hallorn transported it, and Vex oversaw Imperial deployment and military operations. Graves provided [BioTec](/organizations/biotec/)'s facilities, personnel and technology for the assembly and augmentation of the E.D.E.N. units.
+
+The resulting programme combined undead bodies, Warforged components, Black Dove rites, BioTec augmentation and Imperial military resources, eventually producing units that were deployed into the Mournlands.
 
 At [POSÉ](/places/pose/), Faith begged Esther to bring Eden home.
 
@@ -285,7 +288,7 @@ At [POSÉ](/places/pose/), Faith begged Esther to bring Eden home.
 
 Esther was using Eden as leverage to force the Umbra supply to increase.
 
-She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her half-sister, her brother-in-law and a wealthy supplier connected to the project, not as the leaders of a hidden blood cult.
+She knew what she was demanding from the Zeirs. She did not, however, know the full extent of the Children of Ember's trafficking operation. At POSÉ, she knew Faith and Malrik as her half-sister, her brother-in-law and wealthy suppliers connected to the project, not as the leaders of a hidden blood cult.
 
 ## From founder to Lord Commander
 
