@@ -30,7 +30,6 @@ sources:
 - "Oral Histories: The Inevitables, 2026-06-25"
 - Esther Crona, as revised by Nico, 2026-10-07
 - "JL's DM notes: The Unforeseen Strike Back DM Notes"
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-council-of-13-organization

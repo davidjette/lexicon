@@ -33,7 +33,6 @@ sources:
 - sources/site/mission-board.txt
 - worldanvil/CANON.md
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-iron-veil-organization

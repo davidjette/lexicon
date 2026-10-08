@@ -45,7 +45,6 @@ sources:
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
   - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
   - 'Esther Crona, as revised by Nico, 2026-10-07'
-  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: 599e2e63-905e-4c33-af94-06dce29f717b

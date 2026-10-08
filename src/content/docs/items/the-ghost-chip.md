@@ -78,7 +78,7 @@ The break-in went wrong immediately. Private security confronted them, a panicki
 
 The cost, as reported by Menka to the Lord Commander at POSÉ the following night: two hired guards and one senior scientist dead, **Unit 0.3** found beside the scientist's body having executed a full force pulse at shutdown, Kross missing, and the prototype gone.
 
-> **[Esther Crona](/people/esther-crona/):** "And the units?"\
+> **[Esther](/people/esther-crona/):** "And the units?"\
 > **Menka (whispering):** "Unit 0.3 was discovered beside the scientist's body… Someone knew exactly where to strike. The Ghost Chip is missing, And Kross…"\
 > **Esther:** "Clean the mess and find Kross."
 

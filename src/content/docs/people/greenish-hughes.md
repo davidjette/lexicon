@@ -35,7 +35,6 @@ sources:
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - 'Oral Histories: The Inevitables, 2025-08-30'
   - 'Esther Crona, as revised by Nico, 2026-10-07'
-  - 'Dave, note of 2026-10-07'
 published: '2026-09-27'
 ---
 

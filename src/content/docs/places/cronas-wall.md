@@ -36,7 +36,6 @@ sources:
   - C:/dev/sharn-campaign/npcs.md
   - "JL's DM notes: The Unforeseen Strike Back DM Notes"
   - Esther Crona, as revised by Nico, 2026-10-07
-  - Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: crona26230393Bs-wall-location

@@ -43,7 +43,6 @@ sources:
   - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
   - worldanvil/CANON.md
   - 'Esther Crona, as revised by Nico, 2026-10-07'
-  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: henry-heinrick-person

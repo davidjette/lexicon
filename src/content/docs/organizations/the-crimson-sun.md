@@ -32,7 +32,6 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-22"
 - "Oral Histories: The Inevitables, 2026-08-23"
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-crimson-sun-organization

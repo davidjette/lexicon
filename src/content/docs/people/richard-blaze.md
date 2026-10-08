@@ -47,7 +47,6 @@ sources:
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 - "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: richard-blaze-person

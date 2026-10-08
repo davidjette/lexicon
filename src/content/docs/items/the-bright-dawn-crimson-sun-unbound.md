@@ -46,7 +46,6 @@ sources:
 - current-state.md
 - worldanvil/CANON.md
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-14'
 wa:
   slug: bright-dawn-item

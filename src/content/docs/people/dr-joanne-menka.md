@@ -39,7 +39,6 @@ sources:
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: dr-joanne-menka-person

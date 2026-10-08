@@ -34,7 +34,6 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/key-figures.txt
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-children-of-ember-organization

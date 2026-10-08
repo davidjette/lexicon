@@ -43,7 +43,6 @@ sources:
 - worldanvil/sources/wa/esther-crona-person.txt
 - "Oral Histories: The Inevitables, 2026-01-02"
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: 10b44e2f-0a89-4154-9774-c896451aafca

@@ -57,7 +57,6 @@ sources:
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
   - 'Esther Crona, as revised by Nico, 2026-10-07'
-  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person

@@ -38,7 +38,6 @@ sources:
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 - "Oral Histories: The Inevitables, 2026-05-08"
 - Esther Crona, as revised by Nico, 2026-10-07
-- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-fall-of-sharn-militaryConflict
