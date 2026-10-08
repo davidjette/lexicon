@@ -24,7 +24,7 @@ fields:
   ggmtitle: Queen of the Cormanthyrean elves; Lode Star of Myth Drannor
   dobDisplay: Unknown
   birthplace: Unknown
-  children: An adopted child, the Infanta of the God of Puzzles
+  children: An adopted child, Dae, the Infanta of the God of Puzzles
   spouse: Peter Glans (Tylerjinex)
   relatives: Valen (brother)
   residence: Myth Drannor
@@ -51,6 +51,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-05-27"
 - "Oral Histories: The Inevitables, 2021-08-15"
 - "Oral Histories: The Inevitables, 2021-10-23"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
 ---
 
@@ -67,7 +68,7 @@ published: '2026-09-14'
 
 *Also known as:* Alen Tudix · Alan Tudix · the Lode Star of Myth Drannor · the queen of the elves
 
-**Alen Tudyx** was the queen of the Cormanthyrean elves at [Myth Drannor](/places/myth-drannor/) in Antiquity, styled the "Lode Star of Myth Drannor", and the bearer of **Copperbane**, the Baneblade of House Tudyx. She married **Peter Glans**, the copper dragon [Tylerjinex](/people/tylerjinex/) in human form, mainly to care for her adopted child, the Infanta of the God of Puzzles, and with Tylerjinex and that Infanta she discovered and began producing the puzzle boxes called [Tudyx Cubes](/items/the-tudyx-cube/). She died mysteriously. Her brother [Valen](/people/valen/) murdered her, wanting her Baneblade for a plan to kill the god of death and use the Mammon Machine for the glory of the elves before the Netherese could take it. Glans took Copperbane, hid it outside the Penteract in Despondos, and named [Kara](/people/kara/) as her heir. In the Time of Troubles her people told the party her story at Camp Vengeance.
+**Alen Tudyx** was the queen of the Cormanthyrean elves at [Myth Drannor](/places/myth-drannor/) in Antiquity, styled the "Lode Star of Myth Drannor", and the bearer of **Copperbane**, the Baneblade of House Tudyx. She married **Peter Glans**, the copper dragon [Tylerjinex](/people/tylerjinex/) in human form, mainly to care for her adopted child, Dae, the Infanta of the God of Puzzles. Dae invented a puzzle box that she had produced in quantity, and it became known in Cormanthor as the [Tudyx Cube](/items/the-tudyx-cube/), after her house. She died mysteriously. Her brother [Valen](/people/valen/) murdered her, wanting her Baneblade for a plan to kill the god of death and use the Mammon Machine for the glory of the elves before the Netherese could take it. Glans took Copperbane, hid it outside the Penteract in Despondos, and named [Kara](/people/kara/) as her heir. In the Time of Troubles her people told the party her story at Camp Vengeance.
 
 ## House Tudyx and Copperbane
 
@@ -78,6 +79,8 @@ House Tudyx is one of the five elven houses descended from [the Banefae](/organi
 "Glans met Alen and woo’d her". <small>(Arc VI, Time of Troubles Part VII.)</small> Glans was Tylerjinex, the great copper dragon, and she married him mainly to take care of her adopted child, the Infanta of the God of Puzzles; the god of puzzles also helped Tylerjinex build [the Penteract](/places/the-penteract/). The tellings of the marriage gathered in the Time of Troubles mark as true that "Glans was a philanderer but not after her death", and mark as false that "Glans left to secretly build Despondos". <small>(Arc VI, Time of Troubles Part VII.)</small> The rhyme has it that the queen and "the king of the worms" "were married a fortnight / but left on bad terms". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> "Worms" in the rhyme means wyrms, and the king is Glans. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md)</small>
 
 ## The Tudyx Cube
+
+Alen and Peter Glans adopted Dae, the Infanta of Puzzles, in the first age of the Infanta and raised them. Peter had bought a puzzle box in his past and showed it to Dae, who then invented a more difficult and more surprising one. The Queen had Dae's box produced in quantity. It became a popular item in Cormanthor and was known as a Tudyx cube, after the name of her house. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 Dave: "Yes, its a Tudyx Cube, a puzzle box which is intended to store the deck of many things, the same kind of item which Tylerjynex and Alen Tudyx discovered and began producing with the help of the Infanta of Puzzles, one of which was used to store a Perfect Moonstone, which later was used to power the Anachron". <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-breakout.md)</small> See [the Anachron](/items/the-anachron/).
 

@@ -43,6 +43,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-27"
 - "Oral Histories: The Inevitables, 2021-08-21"
 - sources/dave/2026-09-14-temple-holdings-batch2-questions.md
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: the-city-of-dis-settlement
@@ -67,7 +68,7 @@ The sisters killing Asmodeus at the final battle and "returning Death to its nat
 
 At the **Heart of Dis** lies a **fragment of the [Mammon Machine](/items/the-mammon-machine/)**, thrown off in the great cataclysm of the ancient past and trapped there. The **Penteract** is the five-dimensional barrier constructed around that fragment. <small>(The session record of Arc VI Part VII has it as "The Penteract is a five-dimensional structure surrounding the City of Dis, which is ½ of Zoth's vessel (i.e Mammon Machine).")</small>
 
-The Penteract was built in antiquity by [Tylerjynex](/people/tylerjinex/) with the god of puzzles, to keep the Banefae and the Netherese from taking the Seat. It is an impossible labyrinth the dead can solve because they have an eternity, and the living cannot.
+The Penteract was built in antiquity by [Tylerjynex](/people/tylerjinex/) with the god of puzzles, to keep the Banefae and the Netherese from taking the Seat. His partner was Dae, the Infanta of Puzzles, his adopted child and the inventor of the [Tudyx Cube](/items/the-tudyx-cube/). <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> It is an impossible labyrinth the dead can solve because they have an eternity, and the living cannot.
 
 Dis itself lies inside [Despondos](/places/despondos/), the maze dimension in the Shadowfell that Tylerjinex made "to encase the Seat of Judgement, The corpse of Thanatos, and the Soul Syphon". <small>(Oral Histories: The Inevitables, 2021-08-21)</small> The Mammon Machine and the Soul Syphon were at the heart of the Penteract, "located at Sigil/Dis inside Despondos, a great labyrinth in the Shadowfell." <small>(Oral Histories: The Inevitables, 2023-12-02)</small>
 

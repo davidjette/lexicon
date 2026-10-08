@@ -49,6 +49,7 @@ sources:
 - "Oral Histories: Battle of River Lis, 2019-12-19"
 - "Oral Histories: The Inevitables, 2020-07-26"
 - "Oral Histories: The Inevitables, 2021-08-15"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
 ---
 
@@ -64,7 +65,7 @@ published: '2026-09-14'
 
 ## Antiquity
 
-In the Time of Troubles the young druids of Myth Drannor told the party the history of "their absent King by marriage, a human named Peter Glans, their Queen ALEN TUDIX, now dead, and her brother VALEN." <small>(Arc VI, Time of Troubles Part VII)</small> Alen Tudyx, "Lode Star of Myth Drannor", was queen of the Cormanthyrean elves. She married Peter Glans, who is the copper dragon [Tylerjinex](/people/tylerjinex/), mainly to care for her adopted child, the Infanta of the God of Puzzles. She died mysteriously; her brother Valen murdered her, wanting her Baneblade, Copperbane. Glans "ran off with Copperbane after she mysteriously died", and Valen "also absconded with many of their clans magic objects." <small>(Sic. Oral Histories: Temporal Holdings, 2021-05-27)</small> See [The Bane Blades](/items/the-bane-blades/) and [Holden Tudyx](/people/holden-tudyx/).
+In the Time of Troubles the young druids of Myth Drannor told the party the history of "their absent King by marriage, a human named Peter Glans, their Queen ALEN TUDIX, now dead, and her brother VALEN." <small>(Arc VI, Time of Troubles Part VII)</small> Alen Tudyx, "Lode Star of Myth Drannor", was queen of the Cormanthyrean elves. She married Peter Glans, who is the copper dragon [Tylerjinex](/people/tylerjinex/), mainly to care for her adopted child, Dae, the Infanta of the God of Puzzles. Dae invented the puzzle box that the Queen had produced in quantity, a popular item in Cormanthor known as the [Tudyx Cube](/items/the-tudyx-cube/) after her house. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> She died mysteriously; her brother Valen murdered her, wanting her Baneblade, Copperbane. Glans "ran off with Copperbane after she mysteriously died", and Valen "also absconded with many of their clans magic objects." <small>(Sic. Oral Histories: Temporal Holdings, 2021-05-27)</small> See [The Bane Blades](/items/the-bane-blades/) and [Holden Tudyx](/people/holden-tudyx/).
 
 Valen "betrayed the Cormanthryians against the men of the Dale and in exchange was granted the land to build the Arcaneum". <small>(Oral Histories: The Inevitables, 2020-07-26)</small> See [Punis](/places/punis/) and [Settlers of the Dale](/organizations/settlers-of-the-dale/).
 

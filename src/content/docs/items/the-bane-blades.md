@@ -65,6 +65,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-01"
 - "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2023-01-15"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: the-bane-blades-item
@@ -104,6 +105,8 @@ Arthur added a rune to Ironbane. Dave: "I have to add a rune for Arthur to Excal
 [Roland](/people/roland-deschain/)'s mother, a long descendant of the Els, found the sword. It was still in its stone when it came to an auction, which the party attended as a heist; the treasures on show in the auction room were illusions and the real ones were in a vault below. Roland drew Excalibur from the stone once the party got into the vault. He later melted it down in the Deepmaker into his twin revolvers. <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
 Excalibur's item text reads "Weapon (longsword), artifact (requires attunement by a creature fated to be royalty)". When LaMont, who played Revan, answered that Revan was a thane of Punis, Dave replied: "royal =/= noble". <small>(Oral Histories: Temporal Holdings, 2019-04-22)</small>
+
+The party altered the Moonblades with the high-grade moonstone and mining equipment taken from the hold of the [Arielle](/items/the-arielle/) at Caer Westphal, after the same supplies had repaired the Deepmaker. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## They open Despondos
 

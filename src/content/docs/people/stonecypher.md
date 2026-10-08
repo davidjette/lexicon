@@ -72,6 +72,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-04-20'
   - 'Oral Histories: The Inevitables, 2024-10-07'
   - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
+  - sources/dave/2026-10-08-tudyx-cube-spine.md
 redacted:
   names:
     - Stonecypher
@@ -99,6 +100,8 @@ gallery:
 ## Zanzibar
 
 Celion, of the Arcaneum, hired Stonecypher to follow Zanzibar on his quest to find the Zarus Infanta, and to kill the Infanta if she had the chance. She became Zanzibar's best friend. Celion gave her a ring. <small>(Oral Histories: Temporal Holdings, 2021-07-30)</small> During [the Suzail Coup](/history/the-suzail-coup/) she had a rendezvous arranged at the shrine of Elistrae with a contact, the lutist of Punis, to learn more about the other Infanta. <small>(Oral Histories: Temporal Holdings, 2019-01-24)</small> When he returned to [Punis](/places/punis/) after his exile at the hands of the Arcaneum and was crowned King of Punis, he named Stonecypher his general. <small>(Oral Histories: Temporal Holdings, 2019-03-31)</small>
+
+In their prequel episodes she and Zanzibar came to Snowdown by boat and saw the frantic start of the Company's colonial evacuation. With [Revan](/people/revan-darkcember/) they went to Motherstone to ask the new queen for help, and [Elistrae](/people/elistrae/) blessed their joining the party. Stonecypher is a changeling, as was the St. Cloud who died aboard the ship at Caer Westphal, and the party did not know it of her then. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 With Zanzibar and Revan she saw [Obi](/people/obi/) fly over Waterdeep in a blinding light. <small>(Oral Histories: Temporal Holdings, 2019-11-22)</small> Obi had shown her charts describing how an object would approach "but NOT strike" the planet at some time in the past; St. Cloud was looking for the date when it would come closest. <small>(Oral Histories: Temporal Holdings, 2020-01-13)</small>
 

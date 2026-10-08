@@ -87,6 +87,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2022-12-04"
 - sources/infantaverse/Temple Holdings LLC__1 - Hope in Exile__Hope in Exile - Part IV.txt
 - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: brother-magnus-person
@@ -151,6 +152,8 @@ The [War Wizards](/organizations/war-wizards/)' report on the party reads: "Brot
 When the party fished Brightmantle's memory from the Obliviator, Magnus ingested it, saw it once, and told everyone about it. Books about Motherstone drove him mad when he tried to read one, and Roland as well. <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small> Dave: "Ella considers herself monarch of Motherstone, Magnus is an advisor and a leader of his own church of one". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
 
 "Only Magnus remembers Brightmantle and it’s based on his gospel that everyone understands what happened then." Magnus is "the apostle of Brightmantle and it’s his gospel that people choose to believe or not about the founding of Motherstone and the end of the first age of the Infanta". He reached Brightmantle through a confluence: he had worshipped him all his life, spent eight sessions delving Brightmantle's greatest creation and learning his life and final days, had specific clues, met Brightmantle's shadow in the Lexicon, made a roll, "And he had the little platinum thimble ofc". <small>(Oral Histories: Temporal Holdings, 2019-05-29)</small>
+
+At Caer Westphal he was one of the queen's two surrogates, with [Drefan](/people/drefan/), when the party took St. Cloud's airship. When the crew scrambled the core and four elementals came out of it, he pulled a great quantity of sea water down onto the fire elemental. The steam explosion damaged the ship and killed the rest of the elementals. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## The Lexicon and the Anachron
 

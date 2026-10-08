@@ -71,6 +71,7 @@ sources:
 - "Oral Histories: The Inevitables, 2022-10-09"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2024-12-06"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: the-anachron-item
@@ -176,9 +177,9 @@ Two capabilities are recorded for the Anachron in that configuration, and both a
 
 ## The Tudyx Cubes and the Perfect Dark moonstone
 
-The box that opened the way to the Time of Troubles came from two [Tudyx Cubes](/items/the-tudyx-cube/), puzzle boxes. In the deep past [Karametra](/people/karametra/), seeing the Egg coming, the true Evening Star, knew that St. Cloud would someday go back on his promise, and left him. Roland shot him, and the party took his Tudyx Cube. It was empty. They placed a perfect moonstone inside it and closed the lid.
+The stone that opened the way to the Time of Troubles came out of a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box that the party met at two points in its own history. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> In the deep past [Karametra](/people/karametra/), seeing the Egg coming, the true Evening Star, knew that St. Cloud would someday go back on his promise, and left him. Roland shot him, and the party took his Tudyx Cube. It was empty. They placed a perfect moonstone inside it and closed the lid.
 
-They then took the second Tudyx Cube, the box they had stolen from St. Cloud's quarters on the Arielle, which they had been unable to open. Now it opened, and a **Perfect Dark** moonstone came out of it, having been inside that box for a presumed 65 million years. Perfect Dark was the fifth phase the Company had named and judged impossible, and the Anachron needs a Perfect Dark moonstone to travel in time. <small>(Oral Histories: The Inevitables, 2021-12-03)</small>
+They then took the same cube as they had long carried it, the box they had stolen from St. Cloud's quarters on the Arielle, which they had been unable to open. Now it opened, and a **Perfect Dark** moonstone came out of it, having been inside that box for a presumed 65 million years. Perfect Dark was the fifth phase the Company had named and judged impossible, and the Anachron needs a Perfect Dark moonstone to travel in time. <small>(Oral Histories: The Inevitables, 2021-12-03)</small>
 
 Dave's rule for the stone: "If you keep a perfect moonstone out of sunlight for about 50 million years you get a perfect dark stone you can use for time travel". <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small> Of the two boxes, he told the party:
 

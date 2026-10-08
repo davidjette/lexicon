@@ -79,6 +79,7 @@ sources:
 - "Oral Histories: The Inevitables, 2022-09-17"
 - "Oral Histories: The Inevitables, 2023-01-15"
 - "Oral Histories: The Inevitables, 2023-01-16"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: arc-v-E28094-starfall-plot
@@ -117,7 +118,7 @@ Here they meet **Ewe**, a nude faerie shapeshifter who copies the face of everyo
 
 When Kay discovered this, she left to find **Tiamat**, to move the Moon into the path of the falling Egg and spare the Earth — for if she fails, the World Tree "won't just die, it will be obliterated and everything will be gone." She had seen the Egg coming, the true Evening Star, and knew that someday St. Cloud would go back on his promise; he had, and had come back to call for it. The Traveler, too frightened to face Cthulhu, stays behind. He is "a few loops back" from the party — the same recurring soul, at a different turn of the wheel. He is the one the Lady of Pain named: the Traveler the heroes are destined to destroy.
 
-[Roland](/people/roland-deschain/) shoots him, and the party takes his [Tudyx Cube](/items/the-tudyx-cube/). <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> It is empty; they place a perfect [moonstone](/lore/moonstone/) inside and close the lid. Then they take out the Tudyx Cube they stole from St. Cloud's quarters on the Arielle. They could not open it before, but now they can, and a Perfect Dark moonstone comes out, after a presumed 65 million years inside the box.
+[Roland](/people/roland-deschain/) shoots him, and the party takes his [Tudyx Cube](/items/the-tudyx-cube/). <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> It is empty; they place a perfect [moonstone](/lore/moonstone/) inside and close the lid. Then they take out the Tudyx Cube they stole from St. Cloud's quarters on the Arielle. It is the same box, later in its own history. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> They could not open it before, but now they can, and a Perfect Dark moonstone comes out, after a presumed 65 million years inside the box.
 
 St. Cloud had been teasing Roland, and his last words were "You can’t just shoot me Roland". <small>(Oral Histories: Temporal Holdings, 2020-05-03)</small> The party questioned the corpse. Of the box, the dead St. Cloud said: "We kept our wedding rings and flowers from the wedding in the box, now it’s empty." Of his wife: "She went to Tiamat to move the moon." By Dave's account, Ur-Kara "succeeded in changing his mind, but at some point, he changes back, came back in time, and affected that Kara's timeline". The dead St. Cloud put it this way:
 

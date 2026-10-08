@@ -44,6 +44,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-12-04"
 - "Oral Histories: The Inevitables, 2022-09-17"
 - "Oral Histories: The Inevitables, 2023-01-15"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: karametra-person
@@ -73,7 +74,7 @@ In her reality she and St. Cloud were partners. Dave: "she seduces Celion to inf
 
 When she saw the Egg coming, the true Evening Star, she knew that someday St. Cloud would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made", and "She went to Tiamat to move the moon". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> Others had gone to [Dragon Mountain](/places/dragon-mountain/) "to somehow move the moon in its way and crack the egg before it reaches the earth", and "St. Cloud's Kara" went to Dragon Mountain as well. <small>(Oral Histories: Temporal Holdings, 2020-05-03, 2020-05-11)</small>
 
-[Roland Deschain](/people/roland-deschain/) shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/). It was empty. They placed a perfect moonstone inside it and closed the lid. Then they took the Tudyx Cube they had stolen from St. Cloud's quarters on the *Arielle*, which they had never been able to open. Now it opened, and a Perfect Dark moonstone came out, having been inside for a presumed 65 million years.
+[Roland Deschain](/people/roland-deschain/) shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/). It was empty. They placed a perfect moonstone inside it and closed the lid. Then they took the Tudyx Cube they had stolen from St. Cloud's quarters on the *Arielle*, which they had never been able to open. It was the same box, later in its own history. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> Now it opened, and a Perfect Dark moonstone came out, having been inside for a presumed 65 million years.
 
 She is the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past: a sorceress in flight, with Kara's face and green eyes.
 

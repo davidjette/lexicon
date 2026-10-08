@@ -38,6 +38,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-03-03"
 - "Oral Histories: The Inevitables, 2024-05-29"
 - "Oral Histories: The Inevitables, 2024-07-12"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: flex-gimble-person
@@ -102,6 +103,8 @@ The card art matches: a gnome riding a mechanical spider body.
 **Black — Honey, I Shrunk Cthulhu:** "Target creature makes a DC 30 Con save or size is reduced by 3 sizes till end of its turn."
 
 <small>The black action is the same trick he used on the party at Motherstone, turned on a god.</small>
+
+The St. Cloud the party chased at Caer Westphal crossed a plaza to his ship on a mechanical jetpack similar in design to Flex's machines. Flex had worked for the Company. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Status
 

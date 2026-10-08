@@ -96,6 +96,7 @@ sources:
 - "Oral Histories: The Inevitables, 2022-07-03"
 - "Oral Histories: The Inevitables, 2024-05-29"
 - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: wainwright-st-cloud-person
@@ -188,7 +189,7 @@ St. Cloud knows he is inside edited time, and he knows who is editing it. Heard 
 
 In the deep past the heroes meet him at an earlier turn of the wheel: a Hermit in a shack in the far forest, chopping wood, with a single gun and no powers, cut off from the Leviathan. He came back through time to summon it and live forever in Sigil. His wife **Kay** changed his heart, and then his mind, and he abandoned the quest; the summoning happened anyway. He is too frightened of Cthulhu to face it and stays behind while Kay goes to petition Tiamat to move the Moon.
 
-Kay is [Karametra](/people/karametra/). He married her and gave up his quest. When she saw the Egg coming, the true Evening Star, she knew that someday he would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> Roland shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/).
+Kay is [Karametra](/people/karametra/). He married her and gave up his quest. When she saw the Egg coming, the true Evening Star, she knew that someday he would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> Roland shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/). It is the same box the party had carried, sealed, since they took the Arielle. He may have lost it in the Starfall; he found it again a very long time later and could no longer open it. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 Just before the shot he taunted Roland, and Dave confirmed that "those were his last words":
 
@@ -209,6 +210,10 @@ The charts [Obi](/people/obi/) showed [Stonecypher](/people/stonecypher/) "descr
 St. Cloud delivered [the Anachron](/items/the-anachron/) to the Arcaneum himself. The Arcaneum's record: "St. Cloud delivered to us a device we soon learned was the -Anachron- an item we weren't sure was real until we saw it with our own eyes. The Anachron was inert and St. Cloud would not tell us where he found except that 'it wasn't around here.' All he asked for payment was an Amulet Of Proof Against Detection And Location so we couldn't 'watch him on his way home.'" <small>(Sic throughout. Arc III, Part VIII Handouts.)</small>
 
 The same War Wizards intelligence report found that "he is his own underlings". The man who delivered the Anachron was "a regular human with many magical items and devices on his person", and "Nearly all instances of Wainwright St. Cloud are in fact this group of changelings he calls ‘the Team’ but who go by the collective identity of ‘Dox.’" His Team "has notably been in the company of the cult of Asmodeus", and the Wizards' theory was that "he has left the Material Plane and his Team are on their own for now." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small>
+
+The St. Cloud the party mortally wounded aboard the *Excelsior* at Caer Westphal was one of them. As he died he turned into the grey and featureless form of a changeling, and his papers showed him to be an officer of the Company on a management team of changelings who all took St. Cloud's form in their duties, which gave the impression of a chief executive who was everywhere and knew everything. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
+
+St. Cloud knew the deep planar lore that grew from the solving of [the Penteract](/places/the-penteract/). That knowledge allowed him, with Asmodeus, to defeat the Raven Queen and start the Infanta crisis again. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 The mage Celion, speaking to [Kara](/people/kara/) from a clone suspended in liquid in Archmage [Valen](/people/valen/)'s sanctum, after the party had killed him ("You had blown me up"), gave the reason:
 

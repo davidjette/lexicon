@@ -29,7 +29,7 @@ tags:
 icon: fa-cube
 fields:
   type: Five-dimensional barrier
-  creator: Tylerjinex, with the god of puzzles
+  creator: Tylerjinex, with Dae, the Infanta of Puzzles
   status: Its secret betrayed to St. Cloud by Revan's father
 sources:
 - CANON.md 5l (the DM's account, 2026-09-10)
@@ -43,6 +43,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-12-10"
 - "Oral Histories: Temporal Holdings, 2021-10-10"
 - sources/dave/2026-09-14-temple-holdings-batch2-questions.md
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: the-penteract-landmark
@@ -63,6 +64,8 @@ The Banefae, united by **Drefanmetra**, attacked the maze and enslaved Tylerjyne
 
 The first [Anachron](/items/the-anachron/) was hidden in the Penteract until [St. Cloud](/people/wainwright-st-cloud/) stole it and gave it to [Valen](/people/valen/): "It’s the same one as yours but BEFORE you take it to the past." <small>(Dave. Oral Histories: Temporal Holdings, 2021-12-10)</small>
 
+Dave names the builder's partner as Dae, the Infanta of Puzzles, the adopted child of Tylerjinex, in his human form Peter Glans, and Queen [Alen Tudyx](/people/alen-tudyx/). Dae had already invented the puzzle box known as the [Tudyx Cube](/items/the-tudyx-cube/), and the Penteract is a grander form of the same idea: a five-dimensional demiplane made to encase the Mammon Machine and the Soul Syphon at the heart of Dis, to keep the Infanta from reaching them and to end the wars over the power of Death. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
+
 ## How it works
 
 It is an **impossible labyrinth**, and the design turns that impossibility into a filter:
@@ -75,6 +78,10 @@ It is an **impossible labyrinth**, and the design turns that impossibility into 
 The human servants who became [House Nimbus](/organizations/house-nimbus/) could crack it. Their Drow masters of [House Carls](/organizations/carls-jr-and-the-drow/) asked them to, and **they refused**.
 
 That refusal held until [St. Cloud](/people/wainwright-st-cloud/) convinced **Revan's father** to betray the secret, in exchange for safety from the Leviathan. <small>(St. Cloud's own memo of 28th Midyear 1461 DR gives the order that found him: "Find out who among the clan is the weakest and tempt him. Send me his name and I will take care of it." Arc IV, SCTC Archives.)</small>
+
+## Solved
+
+The Penteract still surrounds the Seat of Judgment, which is the Mammon Machine, and all souls still wander toward it in search of their origin in Zoth. The puzzle itself has been solved. Its mysteries are the basis of many occult traditions, of divine mathematics, and of the deep planar lore known to the original House of Nimbus, to the Banefae, who sought to capture the Seat for themselves, and to St. Cloud. That knowledge is what allowed St. Cloud, with Asmodeus, to defeat the Raven Queen and start the Infanta crisis again. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## At the door
 

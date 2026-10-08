@@ -38,6 +38,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2022-04-10"
 - "Oral Histories: Temporal Holdings, 2022-07-17"
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 gallery:
 - src: /images/documents/rolands-cube-key.webp
   alt: An ornate silver key set with bronze gears and a clear stone
@@ -49,6 +50,8 @@ gallery:
 *Also known as:* the Cube · the banishment cube
 
 **Roland's Cube** is a wonderous object, a perfect cube of polarized moonstone sliced into nine cubes per side, made by [Roland Deschain](/people/roland-deschain/) with the help of the Deepmaker of [Motherstone](/places/motherstone/). It is detonated or triggered with a separate Key, and it holds four spells. [Carlysle St. Cloud](/people/carlysle-st-cloud/) was captured in it during the Second Battle of Motherstone. In the Time of Troubles, Roland was himself trapped inside it, and the Cube was recovered broken.
+
+The Deepmaker is a fabrication device built by [Brightmantle](/people/brightmantle/). The party repaired it with the high-grade moonstone and mining equipment they took from the hold of the [Arielle](/items/the-arielle/) at Caer Westphal, and the Cube was among the items made with those supplies. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## History
 

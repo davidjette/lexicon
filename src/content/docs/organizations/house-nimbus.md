@@ -35,6 +35,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-10-24"
 - "Oral Histories: Temporal Holdings, 2019-11-10"
 - "Oral Histories: Temporal Holdings, 2020-01-19"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: house-nimbus-organization
@@ -44,6 +45,8 @@ wa:
 **Clan · Formerly human servants of House Carls · The only people who could crack the Penteract**
 
 **House Nimbus** is a clan that began as the human servants of the Drow of [House Carls](/organizations/carls-jr-and-the-drow/) and became the one clan in the world that could solve [the Penteract](/places/the-penteract/) — the labyrinth [Tylerjynex](/people/tylerjinex/) built to keep the living out of the Seat of Death at [Dis](/places/dis/). Their masters asked them to crack it, and they refused. [Wainwright St. Cloud](/people/wainwright-st-cloud/) obtained the secret in the "present" by buying a member of the clan, and in Arc IV the party assaulted the House.
+
+The solved Penteract is the root of many occult traditions, of divine mathematics and of deep planar lore, and the original House of Nimbus was among the few who knew it. St. Cloud came to know it as well, and it is what allowed him, with Asmodeus, to defeat the Raven Queen and start the Infanta crisis again. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## How St. Cloud got it anyway
 

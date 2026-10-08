@@ -62,6 +62,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-08-21"
 - "Oral Histories: The Inevitables, 2022-03-19"
 - "Oral Histories: The Inevitables, 2022-07-03"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: brightmantle-person
@@ -103,6 +104,8 @@ In the first loop "the Atlantans also largely fail, but Brightmantle succeeds", 
 ## The obliviation of Motherstone
 
 Stone built the Lexicon together with Calix, from Netherese magic and technology. When Calix planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal, Stone could not bear that his wife Elistrada would think he had turned on her, and threw himself into the Obliviator so that she would forget he had ever existed. The party freed his memory in Arc II, when they cured the Lexicon and uncovered the secret.
+
+He also built the Deepmaker, the fabrication device at Motherstone. The party repaired it with moonstone and mining equipment taken from the [Arielle](/items/the-arielle/) at Caer Westphal. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Elistrae
 

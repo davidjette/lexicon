@@ -40,6 +40,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2017-11-20"
 - "Oral Histories: Temporal Holdings, 2018-01-26"
 - "Oral Histories: Temporal Holdings, 2018-10-15"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: snowdown-location
@@ -55,6 +56,8 @@ The house that holds the island came to it from elsewhere. **Eldamir** "came wit
 By the present age the island is worked and contested rather than idyllic: enslaved elves under human planters, goblin warrens in the hills, and a three-way conflict between the Sylvan Elves, the human settlers, and the renegade Forsworn. Into that arrives the reborn Infanta, and with her the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), which wants the mountain.
 
 As the party prepared to leave Harloch at the end of the first arc, what had happened at the farm was still unsettled. Dave: "Let's put it this way, if no one at the farm gets back to Harloch before you leave, then no one from the farm gets back to Harloch before you leave." <small>(Oral Histories: Temporal Holdings, 2017-11-20)</small> The party then "return the infanta to safety at the Gildergreen and then wandered through ancient titanic pipes into the hidden city of Motherstone." <small>(Oral Histories: Temporal Holdings, 2018-01-26)</small>
+
+When [Elistrae](/people/elistrae/) was enthroned at Motherstone her first order of business was to expel the Company from the rest of the island. The Company was already evacuating, carrying off its most valuable equipment and mined moonstone, and the people of its towns feared the Forsworn rebels would come to burn and murder. Caer Westphal is the largest port on the island, and the party took St. Cloud's ship there. See [the Arielle](/items/the-arielle/). <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Places of Interest
 

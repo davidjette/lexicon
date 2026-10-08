@@ -78,6 +78,7 @@ sources:
   - "Oral Histories: Temporal Holdings, 2022-03-28"
   - "Oral Histories: The Inevitables, 2024-01-21"
   - "Oral Histories: The Inevitables, 2025-10-31"
+  - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: motherstone-location
@@ -162,6 +163,8 @@ The [Mundi](/organizations/the-mundi/) — lithe white moon-elves — live insid
 The First Infanta's heir retook her capital at the head of an invading army, riding an elephant: [Ella](/people/elistrae/), the Infanta of the Moon of that age, grown into a young woman, and was to be crowned on the Throne of Motherstone with Calix standing at her shoulder as chief advisor. Calix put her on the Throne to extract from her the memory of the city, reactivate the Lexicon and release his phylactery; the party used the music box to remind her of Stone. <small>(Dave, sources/dave/2026-09-14-calix-throne-and-eldamir.md)</small> The city was fought over twice more by the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/): the First and Second Battles of Motherstone bracket the Age of the Infanta. When the Lexicon finally broke, a city that depended on its magic for everything from teaching children to moving its own architecture fell into ruin and class war, "ripping at the seams."
 
 Before that return the party spent ten years below, in the slow time of Calix's vault. In those years the Company found Motherstone and turned it into a massive moonstone mining operation; St. Cloud, who had forgotten the city along with everyone else, made it a centrepiece of his empire once it was remembered. When the party emerged they raised a rebellion among the workers, and the ten-year-old Infanta of the Moon arrived riding an elephant with a small army from around Snowdown. Together they pushed the Company out.
+
+After the party took the [Arielle](/items/the-arielle/) at Caer Westphal they brought its cargo of high-grade moonstone and mining equipment back to the city and used it to repair the Deepmaker, a fabrication device built by [Brightmantle](/people/brightmantle/), and the Lexicon. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 When the party took their airship, Dave told them they would want a home for it, "either in Harlock or in Motherstone", at a cost of another 50,000 gold "for an airdock capable of repairing the boat". <small>(Sic on "Harlock". Oral Histories: Temporal Holdings, 2018-10-15)</small> A portal linked Motherstone to a pet shop in Suzail. For the [Suzail coup](/history/the-suzail-coup/), Nico, who played [Stonecypher](/people/stonecypher/), planned for the party to "open the pet shop door" and "take the snail king through the portal to Motherstone". <small>(Oral Histories: Temporal Holdings, 2019-01-25)</small>
 

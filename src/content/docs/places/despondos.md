@@ -46,6 +46,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-08-21"
 - "Oral Histories: The Inevitables, 2022-07-03"
 - "Oral Histories: The Inevitables, 2023-12-02"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
 ---
 
@@ -57,7 +58,7 @@ published: '2026-09-14'
 
 ## The making
 
-"Tylerjinex made the maze dimension of Despondos to encase the Seat of Judgement, The corpse of Thanatos, and the Soul Syphon." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> Inside it he built the Penteract, with the god of puzzles, as an impossible labyrinth that the dead can pass because they have an eternity, and to keep the Banefae and the Netherese from the Seat.
+"Tylerjinex made the maze dimension of Despondos to encase the Seat of Judgement, The corpse of Thanatos, and the Soul Syphon." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> Inside it he built the Penteract, with the god of puzzles, as an impossible labyrinth that the dead can pass because they have an eternity, and to keep the Banefae and the Netherese from the Seat. His partner was Dae, the Infanta of Puzzles, his adopted child and the inventor of the [Tudyx Cube](/items/the-tudyx-cube/). <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 Before the Oblivia the machines of death lay at the centre: "It used to be that the Mammon Machine and the Soul Syphon were are the heart of the Penteract, located at Sigil/Dis inside Despondos, a great labyrinth in the Shadowfell." <small>(Sic on "were are". Oral Histories: The Inevitables, 2023-12-02)</small>
 

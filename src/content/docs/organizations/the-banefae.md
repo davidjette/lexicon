@@ -48,6 +48,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-21"
 - "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2022-06-11"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
 ---
 
@@ -112,6 +113,8 @@ In Antiquity the united Banefae went for the Seat of Death:
 [Tylerjynex](/people/tylerjinex/) had built the Penteract to keep the Banefae and the Netherese from the Seat. Archmage **Valen**, brother of the Tudyx queen Alen, rode with the Waning One. Not every house followed him: "There’s another atlas here in Antiquity who refused to go along with Valen/Waning One - Atlas III", "As did Calix". <small>(Oral Histories: The Inevitables, 2021-10-09)</small> Onyxbane remembered that the prophet who guided Carls Jr to the City of Dis promised "we could end the rule of Gods and mankind in one fell swoop, send their souls into Oblivion while capturing that power for elvenkind again. And that with anout power, and with no mortal rivals, we could restore the MOON and leave the realms of dwarves and men destroyed and forgotten for eternity." <small>(Sic on "anout". Arc VI, Time of Troubles Part VII.)</small>
 
 The Banefae also made war on Netheril. Dave: "It’s likely that Brightmantle and the Banefae who invade Netheril in your era’s past got this idea from the Netherese themselves, who in a way got it from the Cypherene Orcs". <small>(Oral Histories: The Inevitables, 2021-10-21)</small>
+
+The mysteries of the solved Penteract became the basis of many occult traditions, of divine mathematics and of deep planar lore. The Banefae knew that lore, as the original House of Nimbus and St. Cloud did, and sought to capture the Seat for themselves. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Defeat and banishment
 

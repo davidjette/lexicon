@@ -85,6 +85,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2023-10-12"
 - "Oral Histories: The Inevitables, 2018-11-21"
 - "Oral Histories: The Inevitables, 2021-12-03"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: kara-person
@@ -181,7 +182,7 @@ In January 2020 Kara's portent roll saved the ship, and, Dave: "she basically fo
 
 In the week-long downtime of January 2021, "Kara made a clone of herself and hid it inside a commissioned statue of herself", and "Magnus and Kara invested in a casino and a gem dealer expanding Temple Holdings into gaming and minerals". <small>(Oral Histories: Temporal Holdings, 2021-01-16)</small> At Camp Vengeance, the future site of Fort Zanzibar, "Kara made her dragon form known", and the party located a copper dragon they believed to be Peter Glans in his true form, "the King of the Wyrms from Kara’s latest vision". <small>(Oral Histories: Temporal Holdings, 2021-05-27)</small>
 
-Kara holds two boxes. The first was found aboard the Arielle when the party first took the ship, "sealed by a mysterious force"; the second, identical, the party found in the deep past, and it could open. The party locked a Perfect Moonstone in the open box and took a perfect dark crystal out of the sealed one, and the box from the deep past is now sealed. Dave: "you basically passed yourself something through time, it's a schroedinger's box". <small>(Oral Histories: The Inevitables, 2021-12-03)</small> See [the Tudyx Cube](/items/the-tudyx-cube/).
+Kara took a fine silver-filigreed box from St. Cloud's quarters when the party first took the Arielle, "sealed by a mysterious force", and it sat in her inventory for at least three years of real play. It was a [Tudyx Cube](/items/the-tudyx-cube/). In the deep past the party found the same box at an earlier point in its history, unlocked and empty. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> The party locked a Perfect Moonstone in the open box and took a perfect dark crystal out of the sealed one, and the box from the deep past is now sealed. Dave: "you basically passed yourself something through time, it's a schroedinger's box". <small>(Oral Histories: The Inevitables, 2021-12-03)</small> See [the Tudyx Cube](/items/the-tudyx-cube/).
 
 By March 2022 "Kara cloned most of you", and the clones waited "in the crumbling statuary" of Motherstone; Zanzibar was the one not cloned. <small>(Oral Histories: Temporal Holdings, 2022-03-28)</small>
 

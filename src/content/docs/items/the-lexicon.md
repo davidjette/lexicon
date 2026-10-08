@@ -75,6 +75,7 @@ sources:
 - "Oral Histories: The Inevitables, 2023-12-02"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2024-12-22"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: the-lexicon-item
@@ -122,6 +123,8 @@ The Lexicon is broken because a single fact is missing from it: the date of **th
 The fault has a cause. When Calix planned to obliviate Motherstone and frame Brightmantle and the dwarves, Stone threw himself into the [Obliviator](/items/the-obliviator/) so that his wife, [Elistrada](/people/elistrae/), would forget he had ever existed. With its master erased, the Lexicon hit a fatal error — **Ayror** — and attacked everything while trying to learn the identity of its master, and of itself.
 
 [Flex Gimble](/people/flex-gimble/) led the party to the Seat of the Lexicon. Connected to its terminal, they entered a virtual reality, fought images of Calix, and freed Brightmantle by telling him things they had found out about him throughout the dungeon. Curing the Lexicon and uncovering the secret freed the memory of Stone. Flex turned on them at that moment.
+
+The high-grade moonstone and mining equipment the party took from the hold of the [Arielle](/items/the-arielle/) at Caer Westphal went to Motherstone to repair the Lexicon and the Deepmaker. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Calix within
 

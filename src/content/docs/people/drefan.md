@@ -88,6 +88,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2021-10-01'
   - 'Oral Histories: The Inevitables, 2023-01-15'
   - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
+  - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: drefan-person
@@ -134,6 +135,8 @@ In public the blade makes him a symbol before he has done anything to earn it. A
 ## Competence and circle
 
 He is the company's infiltrator, and his signature feat is theft on a scale nobody else attempts. When the heroes raid the Company's fleeing flagship at Caer Westphal, **Drefan, hidden aboard as a cloud of mist, seizes the helm** of the **Excelsior**. The captured ship — a sail-less elemental marvel that flies, rolls and crashes back into the sea — is rechristened the **Arielle** and flown home over the mountain. Every arc after Motherstone travels on a vessel Drefan stole.
+
+In that fight he killed the pilot and took the helm as the ship rose into the air, and it went into a slow spin about its nose-to-tail axis before he steadied it. He and [Brother Magnus](/people/brother-magnus/) acted for Motherstone as the queen's surrogates. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Signature capability — the sword that remembers
 

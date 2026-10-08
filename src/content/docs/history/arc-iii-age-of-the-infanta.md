@@ -84,6 +84,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-04-01"
 - "Oral Histories: Temporal Holdings, 2019-04-20"
 - "Oral Histories: Temporal Holdings, 2019-06-07"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: arc-iii-E28094-age-of-the-infanta-plot
@@ -125,6 +126,8 @@ And beneath the politics, a slow catastrophe:
 
 It is this fear that draws new champions to Motherstone — among them [Zanzibar](/people/zanzibar/), Crown Prince of [Punis](/places/punis/), dispatched by the high priest of Punis to ask [Brother Magnus](/people/brother-magnus/) about his vision and the fading of the gods.
 
+The arc follows the Motherstone campaign, in which the party learned most of the history of the city and of Calix, expelled the Company from it and installed the preteen Infanta of the Moon as its queen. It opens with [Zanzibar](/people/zanzibar/), [Stonecypher](/people/stonecypher/) and [Revan](/people/revan-darkcember/) arriving at Motherstone to ask the new queen, the only independent Infanta, for help with their own quests: Revan to find the roots of his family's story in the lore of the Infanta, and Zanzibar to find the Zarus Infanta. [Elistrae](/people/elistrae/) blessed their joining the party, which was deputized to act for Motherstone with [Brother Magnus](/people/brother-magnus/) and [Drefan](/people/drefan/) as her surrogates. Her first order of business was to expel the Company from the rest of Snowdown. In their prequel episodes Stonecypher and Zanzibar had come to Snowdown by boat and seen the frantic start of a full colonial evacuation, the Company leaving with the most valuable equipment and mined moonstone it could carry and the townspeople in fear that the Forsworn rebels would burn the human towns. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
+
 ## Caer Westphal and the Excelsior
 
 The Company has fallen back on its naval seat at **Caer Westphal**, where its sail-less flagship, the **[Excelsior](/items/the-arielle/)**, is loading to flee under Wainwright St. Cloud himself. The heroes find a colony in full collapse:
@@ -134,6 +137,8 @@ The Company has fallen back on its naval seat at **Caer Westphal**, where its sa
 The "St. Cloud" they chase across the rooftops proves to be **Dox** — a changeling agent "never seen in their true form," who impersonates the Company's officers and the Imperial court at will. The Excelsior's cargo is a trap, and Warforged soldiers burst from the crates; but [Drefan](/people/drefan/), hidden aboard as a cloud of mist, seizes the helm. The ship — an elemental-driven marvel that flies, rolls and crashes back into the sea — is taken, rechristened the **Arielle**, and flown home over the mountain to Motherstone. In the captain's desk lies a note in Wainwright's own hand:
 
 > Do what you have to and make sure people remember why we have a civilization in the first place. Then bring me my ship. — WSC
+
+The party had gained a meeting with this St. Cloud by posing as wealthy shareholders, and he reached the ship ahead of them by jetpack. He died aboard it and turned grey and featureless. The Warforged in the hold were guarding high-grade moonstone and mining equipment, which went back to Motherstone to repair the Deepmaker and the Lexicon. In his quarters Kara found a sealed silver-filigreed box, a [Tudyx Cube](/items/the-tudyx-cube/), which she carried unopened for years. See [the Arielle](/items/the-arielle/) for the battle. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 Storming the ship, the heroes met four elementals and a legendary arcane golem and killed them all with minimal damage to the vessel; about 40 sailors and 24 civilians died. The ship's notes showed its captain signing documents as St. Cloud while corresponding with a superior, "WSC", who used the seal of the Chancellor of Waterdeep, and the heroes came to suspect that the man they had killed was a lieutenant who regularly impersonated St. Cloud. The records also showed that the Company had hunted and found the Infanta of Obus, and gave leads to the Infantas of Death and Time. <small>(Oral Histories: Temporal Holdings, 2018-09-15)</small>
 

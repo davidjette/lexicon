@@ -53,6 +53,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-08-22"
 - "Oral Histories: The Inevitables, 2021-08-15"
 - "Oral Histories: The Inevitables, 2021-10-23"
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: tylerjinex-person
@@ -74,6 +75,8 @@ Tylerjynex is the great Copper Dragon of the Snowy Mountain and the lord of [Mot
 "Tylerjinex made the maze dimension of Despondos to encase the Seat of Judgement, The corpse of Thanatos, and the Soul Syphon." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> The places nest: Despondos holds Dis, and Dis holds the Penteract.
 
 In antiquity he built the Penteract with **the god of puzzles**: an impossible labyrinth around the fragment at the Heart of Dis, to keep the **Banefae** and the **Netherese** from taking the Seat of Death. It lets the dead through, because they have an eternity, and stops everyone else.
+
+His partner in that work was Dae, the Infanta of Puzzles, whom he and his wife [Alen Tudyx](/people/alen-tudyx/) had adopted and raised. As Peter Glans he had bought a puzzle box in his past, and he showed it to Dae. Dae answered with a harder and more surprising box, which the Queen had made in quantity and which Cormanthor came to call the [Tudyx Cube](/items/the-tudyx-cube/). The Penteract is a grander form of the same idea: a five-dimensional demiplane that he and Dae made to encase the Mammon Machine and the Soul Syphon, to keep the Infanta from reaching them and to end the wars over the power of Death. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Motherstone was his
 
