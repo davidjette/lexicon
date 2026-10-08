@@ -175,7 +175,7 @@ Drefanmetra was a member of the party in the loop in which [Karametra](/people/k
 
 The Waning One fought the party alongside **[Valen](/people/valen/)** and [Carl's Jr.](/organizations/carls-jr-and-the-drow/) at Deadfall Peak. The party charmed him <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> and imprisoned him in his own sword <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>. He is held in Silverbane, which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 
-With [Zanzibar](/people/zanzibar/) he used [the Palantir](/items/the-palantir/) to spy on a meeting between the Waning One, Carls Jr, Valen, Atlas and Elistrae. It revealed that the Waning One intended to enter Despondos and cut off the Netherese in the Penteract, and that Atlas and Elistrae were not open to such an action. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
+With [Zanzibar](/people/zanzibar/) he used [the Palantir](/items/the-palantir/) to spy on a meeting between the Waning One, Carls Jr, Valen, Atlas and [Calix](/people/calix/). It revealed that the Waning One intended to enter Despondos and cut off the Netherese in the Penteract, and that Atlas and Calix were not open to such an action. Calix refused to join the Waning One. He was loyal to his Infanta, and he did not want to reverse the past event that had created Motherstone in the first place. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## The final arc
 

@@ -108,7 +108,7 @@ He led Archmage **Valen**, who murdered his sister Alen Tudyx for her Bane blade
 
 ## The meeting seen in the Palantir
 
-A key moment in his story was a meeting between the Waning One, Carls Jr, Valen, Atlas and [Elistrae](/people/elistrae/). [Drefan](/people/drefan/) and [Zanzibar](/people/zanzibar/) used [the Palantir](/items/the-palantir/) to spy on it. The meeting revealed that the Waning One intended to enter Despondos and cut off the Netherese in [the Penteract](/places/the-penteract/), and that Atlas and Elistrae were not open to such an action. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
+A key moment in his story was a meeting between the Waning One, Carls Jr, Valen, Atlas and [Calix](/people/calix/). [Drefan](/people/drefan/) and [Zanzibar](/people/zanzibar/) used [the Palantir](/items/the-palantir/) to spy on it. The meeting revealed that the Waning One intended to enter Despondos and cut off the Netherese in [the Penteract](/places/the-penteract/), and that Atlas and Calix were not open to such an action. Calix refused to join the Waning One. He was loyal to his Infanta, and he did not want to reverse the past event that had created Motherstone in the first place. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## The battle in Despondos
 

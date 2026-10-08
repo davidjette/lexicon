@@ -78,6 +78,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-08-15"
 - "Oral Histories: The Inevitables, 2021-10-09"
 - "Oral Histories: The Inevitables, 2022-03-19"
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-10'
 wa:
   slug: calix-person
@@ -191,6 +192,8 @@ Calix's magnum opus and autobiography is the *Ars Calixia*, penned with a magic 
 - **Queen Maab** — his patron, "the elvish goddess of air and darkness."
 - **[Tylerjynex](/people/tylerjinex/)** — the copper dragon he beguiled and banished to a dark abyss, then kept blinded and slumped atop a hidden temple.
 - **[The Lexicon](/items/the-lexicon/)** — the mind he tried to replace with his own, and broke instead.
+
+In Antiquity Calix met with [the Waning One](/people/the-waning-one/), Carls Jr, Valen and Atlas, and refused to join the Waning One's plan to enter Despondos and cut off the Netherese in the Penteract. He was loyal to his Infanta, and he did not want to reverse the past event that had created Motherstone in the first place. [Drefan](/people/drefan/) and [Zanzibar](/people/zanzibar/) watched the meeting through [the Palantir](/items/the-palantir/). <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 **Related:** [The Lexicon](/items/the-lexicon/) · [The Obliviator](/items/the-obliviator/) · [Motherstone](/places/motherstone/) · [Elistrae](/people/elistrae/) · [Brightmantle](/people/brightmantle/) · [The Oblivia](/lore/the-oblivia/) · [Calix the Betrayer (lullaby)](/lore/calix-the-betrayer/)
 

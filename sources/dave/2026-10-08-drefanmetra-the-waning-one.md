@@ -11,3 +11,9 @@ you need an article about Drefanmetra ("The Waning One") as he is a true Drefan 
 ## Follow-up, same day (verbatim)
 
 One key moment in Drefan metra's story was the meeting between him, Carls Jr, Valen, Atlas, and Elistrae.  Drefan and Zanzibar used the Palantir to spy on the meeting, and revealed the intentions of the Waning One  to enter Deposndos and cut off the Netherese in the Penteract and how Atlas and Elistrae were not open to such an action.
+
+---
+
+## Correction, same day (verbatim)
+
+Thats right, its not Elistrae at that meeting, its CALIX, and he REFUSES to join with the Waning One because he is loyal to his infanta and does not want to reverse the past event that created Motherstone in the first place. adjust that canon sorry.
