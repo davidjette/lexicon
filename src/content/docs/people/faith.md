@@ -44,6 +44,8 @@ sources:
   - sources/documents/2026-09-14-nico-sharn-captive-lorian.md
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
   - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: 599e2e63-905e-4c33-af94-06dce29f717b
@@ -88,6 +90,8 @@ She believes [Calcifer](/people/calcifer/) is a prophesied figure, marked by the
 In the club she was a host. In the residence she was a priest and an interrogator. She questioned [Grady Marsh](/people/grady-marsh/) personally in the chambers beneath the Vault Below, with her cultists in attendance, and made him watch Malrik feed — the ordinary technique of a woman who had learned that terror does most of the reshaping and doctrine only has to finish it. The memory-extraction ritual attempted on him in those rooms failed, which is the only reason he could still tell anyone about it. She never lifted the mask on the operation to anyone above her; the Empire's own file on her says nightclub owner.
 
 Faith was born to a Grand Duke who did not raise her, one of four daughters scattered across Khorvaire by [LeBeefe](/people/john-c-lebeefe/) and reunited only on paper by a Black Dove's genealogical study. Where [Blair](/people/blair/) took to the sea and Esther was sold into a Korth manor, Faith married into Valenar money and Imperial infrastructure. The Malrik's family ties extend into imperial infrastructure through his younger half-brother, Hallorn d'Lyrandar of Aundair, the newly appointed Head of Transportation and son of Supreme Admiral Vex Lyrandar, giving the Zeirs a quiet but potent reach into both Sharn's underworld and its political machinery. When Esther rose to Lord Commander, Faith's position became untouchable; when her sister's Iron Veil swept the Lower City, her club was not searched. Somewhere in that stretch of impunity she stopped being a woman with a cult and became the cult's prophet, and the recruiters — wealthy, foreign and emphatically not believers — kept the Pantry stocked while she did it.
+
+Nine years before the present, [Greenish Hughes](/people/greenish-hughes/) summoned the four half-sisters to LeBeefe's manor in [Newham](/places/newham/), where Faith first met Esther. Faith was already married to Malrik Zeir. She was about thirty at the Sharn events.
 
 **Right now:** Faith Zeir is dead. Her sister killed her, on a rooftop pool deck, with a single thrust through the chest, in front of the child her congregation had spent years calling divine. What remains of the Children of Ember has not been heard from, and the Underhive has asked the Council of Sharn for legal ownership of the Vault Below.
 
