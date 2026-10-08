@@ -45,6 +45,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-11-08'
   - 'Oral Histories: The Inevitables, 2025-12-05'
   - "JL's DM notes: The Unforeseen Strike Back DM Notes"
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: newham-settlement
@@ -79,6 +81,8 @@ Construction on the east side of town uncovered a series of ancient passageways 
 ## The Grand Duke
 
 John C. LeBeefe did not stay a mayor. He was made **Grand Duke** and carried the Empire eastward from the outpost of [Leef](/places/leef/), raising an airship yard, illithid city guards and the Iron Veil there — and by the end he was slowly transforming into something otherworldly, ruling Newham with anti-LeBeefe rebel cells hidden throughout the metropolis.
+
+Nine years before the present, LeBeefe called his four daughters, [Esther Crona](/people/esther-crona/), [Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/), to his manor in Newham. [Sister Nora](/people/sister-nora/) of the local [Black Dove](/organizations/the-black-doves/) hospital confirmed that they were half-sisters. Eden was housed in Newham by [Greenish Hughes](/people/greenish-hughes/) after her mother died.
 
 ## The rising and New Mourning
 
