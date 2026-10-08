@@ -203,6 +203,9 @@ Grady had never officially filed what he saw, meaning no Imperial archive contai
 
 Richard teleported to the farm to watch it with Jessica, Zero-One and the trio. The recording showed Uriel delivering Calcifer, then raising a hand over the newborn as sickly green magic appeared. Calcifer's breathing stopped and dark vein-like markings spread across his face. At Esther's scream Uriel withdrew her hand, and the child gasped and began crying again.
 
+![Richard, Gemma, Eric and Dario watching the Arceye memory.png](/images/uploads/richard-gemma-eric-and-dario-watching-th-mv05wm1c.webp)
+*Richard, Gemma, Eric and Dario watching the Arceye memory*
+
 Richard's reaction was immediate:
 
 > "She tried to kill my son!"
