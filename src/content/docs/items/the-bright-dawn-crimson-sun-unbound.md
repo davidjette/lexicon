@@ -45,6 +45,8 @@ sources:
 - session-2026-09-04-summary.md
 - current-state.md
 - worldanvil/CANON.md
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-14'
 wa:
   slug: bright-dawn-item
@@ -61,7 +63,7 @@ gallery:
   caption: 'Bright Dawn'
 ---
 
-**Longsword · Black Khyber (Shavat) · Former arm of Vayrn Crona · Former Hexblade of Esther Crona · Crystal after the Rite of Recall · Carried by Gemma Corso**
+**Longsword · Black Khyber (Shavat) · Former arm of Vayrn Crona · Former Hexblade of [Esther Crona](/people/esther-crona/) · Crystal after the Rite of Recall · Carried by Gemma Corso**
 
 *Also known as:* Bright Dawn · the Crimson Sun · the Crimson Sun Sword · Vayrn's sword · Esther's Hexblade · the sword of the Eternal Guardian
 
@@ -69,7 +71,7 @@ The **BRIGHT DAWN** is a longsword originally forged from [black Khyber — Shav
 
 The sword later became intertwined with the power of the Mourning. After Vayrn used it in the creation of the Mourning, the weapon became partly transformed into black and red Khyber. When the Echo of Vayrn Crona later became trapped within it, the sword served as the Hexblade and pact weapon of [Lord Commander Esther Crona](/people/esther-crona/), carrying the soul and power of the Eternal Guardian.
 
-The Trio ultimately confronted the Echo of Vayrn at the [Forge of Binding](/places/the-forge-of-binding/), where the **Rite of Recall** destroyed the trapped soul and broke the binding. The sword lost its black and red corruption and became crystalline. After Esther's death atop the Veil building, she dropped the sword as she fell from the balcony. [Gemma Corso](/people/gemma-corso/) recovered it, renamed it **Bright Dawn**, and now wields it as her pact blade.
+The Trio ultimately confronted the Echo of Vayrn at the [Forge of Binding](/places/the-forge-of-binding/), where the **Rite of Recall** destroyed the trapped soul and broke the binding. The sword lost its black and red corruption and became crystalline. After Esther's death atop the Veil building, she dropped the sword as she fell from the balcony. [Gemma Corso](/people/gemma-corso/) recovered it, renamed it **Bright Dawn**, and now wields it as her pact blade. In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) the risen Esther recognized the sword as her own and called it the Crimson Sun, and Gemma reclaimed it.
 
 ## The sword
 
@@ -202,6 +204,16 @@ Esther fell from the penthouse balcony, and the sword fell with her. Gemma recov
 
 Unlike its previous bond with the Echo of Vayrn Crona, the weapon now answers to **Gemma Corso**.
 
+## The risen Esther
+
+In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) the risen Esther Crona recognized the sword Gemma Corso carries as her own. She called it the Crimson Sun.
+
+Gemma refused to surrender it.
+
+Both called for the sword at the same time. It hung between them before Gemma reclaimed it.
+
+Esther declared Gemma unworthy to hold the Crimson Sun.
+
 ## On-screen history
 
 - **The Forge of Binding, beneath Sharn** — Vayrn Crona forged the Black Khyber blade that became the Crimson Sun. Priest E'noch oversaw the completion of the Eternal Guardian bond while Vayrn bound eight elemental forces into the weapon.
@@ -211,6 +223,7 @@ Unlike its previous bond with the Echo of Vayrn Crona, the weapon now answers to
 - **The Forge of Binding** — the Trio used the Rite of Recall to destroy the Echo of Vayrn Crona and break the binding that held the Eternal Guardian within the weapon.
 - **The Veil Penthouse** — Esther dropped the sword as she fell from the balcony after her defeat.
 - **Bright Dawn** — Gemma recovered the sword, renamed it, and claimed it as her pact blade.
+- **Korth Ep 16** — the risen Esther recognized the sword as her own, called it the Crimson Sun and declared Gemma unworthy to hold it. Both called for it at once, and it hung between them before Gemma reclaimed it.
 
 ## What changed after Vayrn's destruction
 
