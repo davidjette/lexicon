@@ -30,6 +30,7 @@ sources:
 - worldanvil/sources/site/home.txt
 - "Oral Histories: The Inevitables, 2026-05-09"
 - "Oral Histories: The Inevitables, 2026-07-06"
+- Esther Crona, as revised by Nico, 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-ghost-chip-item
@@ -77,7 +78,7 @@ The break-in went wrong immediately. Private security confronted them, a panicki
 
 The cost, as reported by Menka to the Lord Commander at POSÉ the following night: two hired guards and one senior scientist dead, **Unit 0.3** found beside the scientist's body having executed a full force pulse at shutdown, Kross missing, and the prototype gone.
 
-> **Esther:** "And the units?"\
+> **[Esther Crona](/people/esther-crona/):** "And the units?"\
 > **Menka (whispering):** "Unit 0.3 was discovered beside the scientist's body… Someone knew exactly where to strike. The Ghost Chip is missing, And Kross…"\
 > **Esther:** "Clean the mess and find Kross."
 
