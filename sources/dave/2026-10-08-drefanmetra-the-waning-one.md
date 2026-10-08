@@ -1,0 +1,13 @@
+# Dave: Drefanmetra, the Waning One (2026-10-08)
+
+Dave's instruction in chat, 2026-10-08, verbatim (typos kept).
+
+---
+
+you need an article about Drefanmetra ("The Waning One") as he is a true Drefan alter ego, a major villain of the Antiquity quest line, having united the Banefae and thus all the oldest elvish houses, into trying to use the throne of Death to disrupt the Netherese and St Cloud, and to find a way to go back and time and STOP the moving of the moon by Karametra, which leads to the end of what he saw as an elvish utopia on the Moon. Drefanmetra was part of the party in that loop where Karametra was St Cloud's wife, and therefore not in the party.  It is not clear whether this was the loop just "before" the played loop from the campaign, or some earlier loop.  Drefanmetra (and Drefan as well) was in love with the primal purity of the ancient moon and was outraged when he found that Kara had intentionally destroyed it to crack open the egg (at the time he thought her efforts were part of HELPING st cloud, as many of the party did until they discovered the truth) he vowed to foil those plans and thus put himself in odds to defeating cthulhu, as breaking open the egg with the moon was a critical part.  nonetheless, he went forward to antiquity (and possbly other eras) and garnered a cult following among extreme druids and elves as a primal nature force, a prot-archfey who sought to return elves to their former natural state, and agitated that they must sieze the moment and defeat or enslave the human infantas. His message resonated with Carls Jr and Valen Tudyx, and he would have turned and Elistrae, Atlas and Nimue if circumstances had been different. To this day, many elves worship or pay homage to the Waning One, who represents the darkside of the Archfey Drefan Gallidan and the changeable and dangerous aspect nature of the moon goddess, whom he serves.  It's said that in Arborea, Drefan takes the form of the Waning One, a nude many with a stag's head over his own, holding a gleaming bow - around half the time, like the phases of the moon itself. A hint as to identity of the Waning One was given to the party (Deadfall Raining -> I Drefan Gallidan).  The battle against the Waning One, Valen, and Carls Jr was at Deadfall Peak where Sigil would one day be built.
+
+---
+
+## Follow-up, same day (verbatim)
+
+One key moment in Drefan metra's story was the meeting between him, Carls Jr, Valen, Atlas, and Elistrae.  Drefan and Zanzibar used the Palantir to spy on the meeting, and revealed the intentions of the Waning One  to enter Deposndos and cut off the Netherese in the Penteract and how Atlas and Elistrae were not open to such an action.

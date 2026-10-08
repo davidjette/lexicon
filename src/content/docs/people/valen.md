@@ -55,6 +55,7 @@ sources:
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 - sources/dave/2026-09-14-temple-holdings-open-questions.md
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 ---
 
 > Wainwright St. Cloud is a man, crude and comically short sighted. He was wise enough to bring the Anachron to me, so that I may assume his quest and rightly witness the final moments at her side. I will be the last, and I alone will see the truth.
@@ -88,6 +89,8 @@ Glans left Copperbane "in a block of stone just outside the Penteract and walked
 In the first loop the party knew, Valen defeated Tylerjinex, who was enslaved to Calix. In the second loop, the party and Tylerjinex foiled Valen. The defeat was the Banefae's: "The Banefae United by Drefanmetra attack the maze and enslaved TJ to get into the Penteract at the heart of Despondos." <small>(Oral Histories: The Inevitables, 2021-08-21)</small> Valen was the arm of that coalition, and the Waning One, a loop of [Drefan](/people/drefan/) radicalised against humans and dwarves, led him.
 
 Some of Antiquity refused to join them. Dave: "There’s another atlas here in Antiquity who refused to go along with Valen/Waning One - Atlas III", "As did Calix, which no one seems to have noticed!" <small>(Oral Histories: The Inevitables, 2021-10-09)</small> See [Atlas and the Sea Elves](/organizations/atlas-and-the-sea-elves/) and [Calix](/people/calix/). In the previous loop the pair had held Ironbane through Mordred; in the party's loop "the Waning One and Valen have one less Bane (mordred + iron bane) than they did last time". <small>(Oral Histories: The Inevitables, 2021-08-22)</small>
+
+The Waning One preached that the elves must return to their former natural state and must seize the moment to defeat or enslave the human Infanta, and that message resonated with Valen. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## The Anachron
 

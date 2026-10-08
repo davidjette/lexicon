@@ -31,6 +31,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-10-23"
 - "Oral Histories: The Inevitables, 2021-09-06"
 - "Oral Histories: The Inevitables, 2021-10-23"
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-10'
 wa:
   slug: carls-jr-and-the-drow-organization
@@ -75,6 +76,8 @@ That night Dave told the party what they had changed:
 > As Sigil was built around it
 
 <small>— Dave. (Oral Histories: The Inevitables, 2021-10-23)</small>
+
+Carls Jr had come to the peak as a follower of [the Waning One](/people/the-waning-one/), whose message that the elves must return to their former natural state and defeat or enslave the human Infanta resonated with the house. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## Onyxbane
 

@@ -49,6 +49,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2022-06-11"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-14'
 ---
 
@@ -101,6 +102,8 @@ The blades are "moonblades cut from A pristine shard of the primordial moon, FRA
 ## Drefanmetra's Banefae
 
 [The Waning One](/people/the-waning-one/) is Drefanmetra, a version of [Drefan](/people/drefan/) from another arc, who went forward in time to preempt St. Cloud "by rganizing the Banefae (the remaining heads of each elvish house) to steal the mammon machine for themselves and send him back to try again." <small>(Sic on "rganizing". Dave, 2026-09-14.)</small>
+
+By uniting the Banefae he united all the oldest elvish houses. They meant to use the throne of Death to disrupt the Netherese and St. Cloud, and to find a way to go back in time and stop [Karametra](/people/karametra/) moving the moon, which ended what he saw as an elvish utopia there. He preached that the elves must return to their former natural state and must seize the moment to defeat or enslave the human Infanta. That message resonated with Carls Jr and Valen Tudyx, and he would have turned Elistrae, Atlas and Nimue as well if circumstances had been different. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 In Antiquity the united Banefae went for the Seat of Death:
 

@@ -89,6 +89,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2023-01-15'
   - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
   - sources/dave/2026-10-08-tudyx-cube-spine.md
+  - sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-10'
 wa:
   slug: drefan-person
@@ -170,7 +171,11 @@ By the Time of Troubles Drefan and [Magnus](/people/brother-magnus/) had lost th
 
 **Drefanmetra**, the **[Waning One](/people/the-waning-one/)**, is a version of Drefan from another arc. He vowed to stop [the moon](/places/the-moon/) being moved, which would have saved the home of the elves and doomed Toril, and he failed. He went forward in time as the Waning One to preempt [St. Cloud](/people/wainwright-st-cloud/), and organised the **[Banefae](/organizations/the-banefae/)**, the remaining heads of each elvish house, to steal the [Mammon Machine](/items/the-mammon-machine/) for themselves "and send him back to try again". <small>(Dave, sources/dave/2026-09-14-oral-histories-cast.md)</small> "The Banefae United by Drefanmetra attack the maze and enslaved TJ to get into the Penteract at the heart of Despondos." <small>(Oral Histories: The Inevitables, 2021-08-21)</small>
 
+Drefanmetra was a member of the party in the loop in which [Karametra](/people/karametra/) was St. Cloud's wife. Like Drefan he loved the primal purity of the ancient moon, and he turned against the party's cause when he found that Kara had destroyed it on purpose to crack open the Egg. In Antiquity he drew a cult among extreme druids and elves as a primal force of nature, and many elves still worship him. He represents the dark side of the Archfey Drefan Gallidan and the changeable and dangerous aspect of the moon goddess, whom he serves. It is said that in Arborea Drefan takes the form of the Waning One, a nude man with a stag's head over his own, holding a gleaming bow, for around half the time, like the phases of the moon. The title "the Deadfall Raining" was a hint to the party: its letters rearrange into "I Drefan Gallidan". <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
+
 The Waning One fought the party alongside **[Valen](/people/valen/)** and [Carl's Jr.](/organizations/carls-jr-and-the-drow/) at Deadfall Peak. The party charmed him <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> and imprisoned him in his own sword <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>. He is held in Silverbane, which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
+
+With [Zanzibar](/people/zanzibar/) he used [the Palantir](/items/the-palantir/) to spy on a meeting between the Waning One, Carls Jr, Valen, Atlas and Elistrae. It revealed that the Waning One intended to enter Despondos and cut off the Netherese in the Penteract, and that Atlas and Elistrae were not open to such an action. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## The final arc
 

@@ -45,6 +45,7 @@ sources:
 - "Oral Histories: The Inevitables, 2022-09-17"
 - "Oral Histories: The Inevitables, 2023-01-15"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-10'
 wa:
   slug: karametra-person
@@ -89,6 +90,8 @@ Helping her was on the party's plans for the deep past. Dave's quest board of De
 The party came to help her when they returned to the deep past a second time, fulfilling the Wish [Kara](/people/kara/) cast on arriving in Antiquity, that the moon had been moved. It is a different Wish from the one Kara cast in the Time of Troubles in 2020. While Karametra cast Move Planet they defended the platinum temple against a tarrasque, then some dragons, and then Tiamat herself. **Percival** was inside the temple, "the last line of defense between Tiamat and Karametra’s ritual". <small>(Oral Histories: The Inevitables, 2022-09-17)</small> They succeeded, and Tiamat was defeated there.
 
 That casting is what makes the first of the three epochs reachable. The party attacks the Egg in the deep past *in orbit of Toril, after the Egg struck the moon*, and the moon was in its path because Karametra put it there.
+
+In the loop in which she was St. Cloud's wife she was not in the party, and Drefanmetra was. He loved the ancient moon and vowed to stop it being moved. He failed, went forward in time, and became [the Waning One](/people/the-waning-one/), who united the Banefae in Antiquity to find a way back and stop her. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## What St. Cloud did about her
 

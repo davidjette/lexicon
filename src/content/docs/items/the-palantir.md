@@ -49,6 +49,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2022-02-09"
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3081)
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-10'
 wa:
   slug: the-palantir-item
@@ -98,6 +99,8 @@ After the battle in [Despondos](/places/despondos/) the party took the Palantir 
 <small>— Dave. (Sic. Oral Histories: The Inevitables, 2021-10-23)</small>
 
 Dave also told the party: "Your enemies have used the Palantir since the beginning to be very well acquainted with your doings". <small>(Oral Histories: The Inevitables, 2021-10-23)</small>
+
+In Antiquity [Drefan](/people/drefan/) and [Zanzibar](/people/zanzibar/) used the stone to spy on a meeting between [the Waning One](/people/the-waning-one/), Carls Jr, Valen, Atlas and Elistrae. It revealed that the Waning One intended to enter Despondos and cut off the Netherese in the Penteract, and that Atlas and Elistrae were not open to such an action. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## One stone
 

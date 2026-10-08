@@ -66,6 +66,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2023-01-15"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-10'
 wa:
   slug: the-bane-blades-item
@@ -160,7 +161,7 @@ Dave: "This power will be available to everyone with bane blades in this next ba
 
 At the final battle there was more than one set of five: the party held all five, and **their allies from other loops held theirs**.
 
-<small>This is the other half of a title the party is given at [Brightmantle](/people/brightmantle/)'s funeral — "the great hunter, the Deadfall Raining, **the Waning and the Waxing One**." The Waning One is **Drefanmetra**, a version of [Drefan](/people/drefan/) from another loop, who fought the party at Deadfall Peak; Waxing is what they do with the blades.</small>
+<small>This is the other half of a title the party is given at [Brightmantle](/people/brightmantle/)'s funeral — "the great hunter, the Deadfall Raining, **the Waning and the Waxing One**." The Waning One is **Drefanmetra**, a version of [Drefan](/people/drefan/) from another loop, who fought the party at Deadfall Peak; Waxing is what they do with the blades. "Deadfall Raining" was a hint to his identity: its letters rearrange into "I Drefan Gallidan". (Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 The party charmed the Waning One <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> and then imprisoned him in his own sword <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>. He is held in **Silverbane**, which Drefan carries, and Drefan lets him out occasionally "for carnal purposes". <small>(Dave, sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md)</small>
 

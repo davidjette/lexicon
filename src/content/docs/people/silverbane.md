@@ -47,6 +47,7 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/2 - Motherstone/Motherstone - Part VI.docx
 - Desktop/D&D/Temple Holdings LLC/6 - Time of Troubles/Time of Troubles - Part VII.docx
 - Desktop/D&D/Temple Holdings LLC/7 - Leviathan/AGES OF THE INFANTA - Leviathan I.docx
+- sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-10'
 wa:
   slug: silverbane-person
@@ -116,6 +117,8 @@ The sword outranks the man carrying it. Among the [Mundi](/organizations/the-mun
 ## Right now
 
 At Brightmantle's funeral the Moon Elves, with Elistrae, Eldamir and Calix, give the acclamation: *"You bear all the Silverbanes across all time. You are the great hunter, the Deadfall Raining, the Waning and the Waxing One."* Five blades, in Zebulon's vision, are about to be driven into a single opened Eye.
+
+"Deadfall Raining" was a hint to the party about the identity of [the Waning One](/people/the-waning-one/). Its letters rearrange into "I Drefan Gallidan". <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
 
 ## Social
 
