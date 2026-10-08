@@ -37,6 +37,8 @@ sources:
 - README.md
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 - "Oral Histories: The Inevitables, 2026-05-08"
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-fall-of-sharn-militaryConflict
@@ -63,7 +65,7 @@ gallery:
 
 The **fall of Sharn** is the citywide rising of Sharn Ep 18, three years before the Korth arc, in which [Esther Crona](/people/esther-crona/) was killed on the balcony of her penthouse at the Veil Building and the Empire was expelled from the city. It began as a rescue, went citywide when [Dario](/people/sir-dario-argentino/) triggered [the broadcast](/lore/the-sharn-broadcast-override/) that showed the city what [Uriel Qualanthri](/people/uriel-qualanthri/) had done to Esther's newborn son, and ended with Esther dying of her wounds after voiding the Iron Veil's pact citywide, ordering Uriel's death, and hurling her own airship into Uriel's statue above the Skyport. By dawn Sharn was free, leaderless and on the brink of collapse.
 
-It began as a rescue. [Esther Crona](/people/esther-crona/) had descended on the Zeir rooftop the moment [Malrik Zeir](/people/malrik-zeir/) fell, killed the Mother Prophet with a single strike, seized her son [Calcifer](/people/calcifer/) and the chained [Gemma Corso](/people/gemma-corso/), and lifted off into the night. [Henry Heinrick](/people/henry-heinrick/) broadcast a full city lockdown. [Richard Blaze](/people/richard-blaze/) told [Dario](/people/sir-dario-argentino/) and [Eric](/people/eric-the-cleric/) where she would go: the penthouse at the Veil Building.
+It began as a rescue. [Esther Crona](/people/esther-crona/) had descended on the Zeir rooftop the moment [Malrik Zeir](/people/malrik-zeir/) fell, killed the Mother Prophet with a single strike, seized her son [Calcifer](/people/calcifer/) and the chained [Gemma Corso](/people/gemma-corso/), and lifted off into the night. She had arrived by airship after Malrik was killed at the [Vault Underground](/places/the-vault-underground/) and saw Calcifer in danger. The Mother Prophet was her half-sister [Faith](/people/faith/), and Esther put her sword through her chest. [Henry Heinrick](/people/henry-heinrick/) broadcast a full city lockdown. [Richard Blaze](/people/richard-blaze/) told [Dario](/people/sir-dario-argentino/) and [Eric](/people/eric-the-cleric/) where she would go: the penthouse at the Veil Building.
 
 ## THE BALCONY
 
@@ -100,6 +102,8 @@ With the last of her strength she seized her own airship, the Black Veil, teleki
 ## WHAT IT LEFT
 
 Dario broadcast her corpse live and declared that the Empire would fall. Iron Veil soldiers surrendered in droves; some fled; a small number vanished and became the seed of a hidden Iron Veil remnant. By dawn Sharn was free, leaderless, wounded and on the brink of collapse — which is the problem [the Council of Sharn](/lore/the-council-of-sharn/) convened to solve the same day.
+
+After the first Council of Sharn the [Silver Flame](/organizations/the-silver-flame/) issued a citywide cremation directive. Esther's body was to be cremated, and it was missing. Witnesses reported two elven women, believed to be [Black Doves](/organizations/the-black-doves/), removing a corpse from the morgue.
 
 Esther was **thirty-one** when she died. She had been nineteen at Greenbluff and twenty-nine when the trio first arrived in her city.
 
