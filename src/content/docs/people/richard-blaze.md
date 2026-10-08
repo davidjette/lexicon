@@ -99,11 +99,10 @@ It was during his years in Newham that Richard met [Digma Beeve](/people/digma-b
 
 Richard and [Digma Beeve](/people/digma-beeve/) eventually joined with [Fema Nolan](/people/zero-one-fema-nolan/) and the entertainer [John Stamos](/people/john-stamos/) to form the original [Fulcrum](/organizations/fulcrum/) cell. Richard's original codename was itself **Fulcrum**, a name that later became the identity of the wider movement. Of the four founders, Richard's role was deliberately concealed; his name was kept out of the organization's records so that his growing public career could remain intact.
 
-Digma provided routes, contacts and cover, while Richard built much of the infrastructure. His restaurants became lifelines through which money, medicine, weapons, food, messages and eventually intelligence could move without looking like rebel activity. Richard's success as a restaurateur was real, not merely a disguise, but the legitimate business and the hidden resistance network grew alongside one another.
-
-
 ![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-muzyvq47.webp)
 *Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze*
+
+Digma provided routes, contacts and cover, while Richard built much of the infrastructure. His restaurants became lifelines through which money, medicine, weapons, food, messages and eventually intelligence could move without looking like rebel activity. Richard's success as a restaurateur was real, not merely a disguise, but the legitimate business and the hidden resistance network grew alongside one another.
 
 Only Digma, Fema and Stamos originally knew the truth about Richard. [Jessica Grimpledink](/people/jessica-grimpledink/) was later brought into the secret when [the Nest](/organizations/the-nest/) began working closely with Fulcrum. Even many rebels who benefited from Richard's money and information had no idea who was behind it.
 
