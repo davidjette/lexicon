@@ -139,6 +139,23 @@ Esther was nineteen and already a High Inquisitor when she became one of the fou
 
 Varyn's death left Esther with two things: his sword and a question she could not let go of — who had actually ordered his death?
 
+## Varyn's Assassination
+
+Varyn served as Master of the [Crimson Sun](/organizations/the-crimson-sun/) and as the Emperor's **Eternal Guardian**, having sworn service to three generations of the Kaius dynasty. He was also one of the Empire's most trusted military leaders, and his long service gave him influence far beyond the Crimson Sun itself.
+
+Varyn was murdered outside Fairhaven while investigating a suspected rebel stronghold. The Empire attributed his death to rebel activity, leaving Esther with more questions than answers.
+
+![Vary's death - Esther and Varyn in Fairhaven.png](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
+*Varyn's death - Esther and Varyn in Fairhaven*
+
+Esther was devastated. She took up Varyn's sword and continued serving the Empire, but his death became an obsession she could not put aside. She believed that Varyn's presence remained within the blade, speaking to her, guiding her and continuing to train her.
+
+After Varyn's death, **[Hayman Maw](/people/hayman-maw/)** became Master of the Crimson Sun and inherited its seat on the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/).
+
+Esther carried Varyn's sword with her as she continued her work for the Empire. It was only later, during her investigations with [The Unforeseen](/organizations/the-unforeseen/), that she discovered members of the [Council of 13](/organizations/the-council-of-13/) had been responsible for his assassination.
+
+Varyn's death left Esther with two things: his sword and a question she could not let go of — who had actually ordered his death?
+
 ## The Unforeseen
 
 Roughly six months to a year after Varyn's death, Esther was nineteen and already a High Inquisitor when she stood with [Uriel Qualanthri](/people/uriel-qualanthri/), [Locke Pierce](/people/locke-pierce/) and [John C. LeBeefe](/people/john-c-lebeefe/) in the ruins of Arden Crest and swore to work together and grow in power.
