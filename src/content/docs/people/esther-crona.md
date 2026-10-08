@@ -432,7 +432,7 @@ That warning was triggered when [Gemma Corso](/people/gemma-corso/), [Eric the C
 
 Esther came to the library before Renn left and spoke with her about what she had learned. When Renn departed, Esther began tracking her. She enlisted General [Stockton Thar](/people/general-stockton-thar/) and his Dragonmark of Finding to locate Renn in the Lower City. The trail led Esther to a Cogborn factory, where she had a massive drill brought in and used it to bore down beneath the building.
 
-The drill broke through into the Forge of Binding just as [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and Dario were fleeing the chamber. They had been performing the Rite of Recall and had summoned **Varyn's Echo**. Esther arrived at the moment the Echo was destroyed, shattering into red-black light.
+The drill broke through into the Forge of Binding just as [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) were fleeing the chamber. They had been performing the Rite of Recall and had summoned **Varyn's Echo**. Esther arrived at the moment the Echo was destroyed, shattering into red-black light.
 
 Esther may have heard fragments of what the Echo said, but she could not have known exactly what had taken place inside the Forge. What mattered most to her was what happened to the sword. At that same moment, the red drained from Varyn's sword and crystallized. Esther could no longer hear or feel Varyn through the blade. From then on, the sword remained crystal, and whatever bond had connected Esther to Varyn appeared to have been broken or diminished.
 
