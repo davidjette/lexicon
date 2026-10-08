@@ -1,6 +1,6 @@
 ---
 title: The Crimson Sun
-description: The Empire's secret service - and, in the mouth of a dragon, the name of the dragon who fathered a child on Erandis Vol.
+description: The Empire's secret service until Esther Crona dissolved it - and, in a dragon's mouth, the name of the dragon who fathered a child on Erandis Vol.
 type: organization
 kind: organizations
 tags:
@@ -31,6 +31,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-21"
 - "Oral Histories: The Inevitables, 2026-08-22"
 - "Oral Histories: The Inevitables, 2026-08-23"
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-crimson-sun-organization
@@ -42,11 +44,11 @@ gallery:
   caption: Varyn Crona, a white-haired elf in black armour marked with a red sun, strides across a reflecting wasteland with a flaming sword beneath a black sun.
 ---
 
-**Type:** Government, Secret Service · **Status:** Active · **Seat:** Korth
+**Type:** Government, Secret Service · **Status:** Dissolved · **Seat:** Korth
 
 *Also known as:* *separately and unresolvedly, the name of a dragon.*
 
-The Crimson Sun is the Empire's secret service, seated at Korth — a limited, elite order of Masters and apprentices, mostly Knights, Paladins or Sorcerers, working as spies and rebel hunters, whose Master sits on the Imperial Council by right. It was led by [Varyn Crona](/people/varyn-crona/), sworn protector to three Emperors under the title Eternal Guardian, until his assassination; [Hayman Maw](/people/hayman-maw/) holds the Master's chair after him, and the order's most famous High Inquisitor, [Esther Crona](/people/esther-crona/), is three years dead in Sharn. The same three words separately name a dragon, who fathered a child on Erandis Vol, and the connection between the two usages is unresolved.
+The Crimson Sun was the Empire's secret service, seated at Korth — a limited, elite order of Masters and apprentices, mostly Knights, Paladins or Sorcerers, working as spies and rebel hunters, whose Master sat on the Imperial Council by right. It was led by [Varyn Crona](/people/varyn-crona/), sworn protector to three Emperors under the title Eternal Guardian, until his assassination; [Hayman Maw](/people/hayman-maw/) held the Master's chair after him, and the order's most famous High Inquisitor, [Esther Crona](/people/esther-crona/), is three years dead in Sharn. After Esther learned that members of the [Council of 13](/organizations/the-council-of-13/) were behind Varyn Crona's assassination, she hunted down the Council with the Emperor's leave and then dismantled the Crimson Sun itself. The same three words separately name a dragon, who fathered a child on Erandis Vol, and the connection between the two usages is unresolved.
 
 ## WHERE THE FILE CAME FROM
 
@@ -65,15 +67,19 @@ In order:
 
 [Varyn Crona](/people/varyn-crona/) was the leader of the Crimson Sun, his apprentice is High Inquisitor [Esther Crona](/people/esther-crona/). After Varyn Crona's death, Hayman Maw became the head of the Crimson Sun.
 
+Esther was made Varyn's apprentice at twelve. She rose from Apprentice to Inquisitor to High Inquisitor.
+
 A giant Crimson Sun symbol is carved into marble in the throne room of [Emperor Kaius III](/people/emperor-caius-iii/).
 
-<small>Note the seat on the Council. The Master of the Crimson Sun sits on [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right — first Varyn Crona, then Hayman Maw, listed on the roster as "Human Sorcerer: Current head of the Crimson Sun." The Empire's secret police is one of the thirteen heads of state.</small>
+<small>Note the seat on the Council. The Master of the Crimson Sun sat on [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right — first Varyn Crona, then Hayman Maw, listed on the roster as "Human Sorcerer: Current head of the Crimson Sun." The Empire's secret police was one of the thirteen heads of state.</small>
 
 ## REBEL OBSERVATION FILE — CRONA–BLAZE
 
 Rebel intelligence confirms that Esther was the personal apprentice of Varyn Crona, a High-Elf Paladin, head of Emperor Kaius III's [Council of 13](/organizations/the-council-of-13/), and former head of the Crimson Sun. Recently recovered Imperial records indicate that Varyn served as head Paladin to Kaius I, Kaius II and Kaius III, and was appointed the Emperor's sworn protector from birth under the title **"Eternal Guardian."** His influence shaped Imperial military doctrine for over centuries.
 
 Field analysis indicates that Varyn's death was not the result of rebel activity, despite official Imperial claims. Multiple intelligence fragments point to members of the Council of 13 as the likely architects of his assassination. Following this discovery, Esther, seemingly acting with the Emperor's approval, systematically eliminated all council members, including some of their immediate family members.
+
+Esther killed every Council member except [Henry Heinrick](/people/henry-heinrick/). She then dismantled the Crimson Sun itself.
 
 The Crimson Sun's own Master was murdered by the government he served, and the Crimson Sun's High Inquisitor then killed the government. Why the Empire tolerated that, or why the Emperor blessed it, is not explained anywhere in the Imperial record. Every attempt to look into it — including one archivist merely asking after Varyn Crona at the Sharn Library — has drawn [the Iron Veil](/organizations/the-iron-veil/) within the hour.
 
@@ -118,9 +124,9 @@ The [Council of 13](/organizations/the-council-of-13/) turned on Varyn Crona and
 
 ## CURRENT DISPOSITION
 
-Hayman Maw holds the Master's chair and the Council seat, if the Council still meets — the Empire has never announced that its thirteen heads of state were murdered by its own Lord Commander, and the Assembly tower in Korth has not been reported empty. The order's most famous Inquisitor is three years dead in Sharn and her sword is missing. The symbol is still carved in the marble of a throne room nobody has sat in for a decade.
+The Crimson Sun is dissolved. Hayman Maw held the Master's chair and the Council seat after Varyn Crona. Esther killed every Council member except Henry Heinrick and then dismantled the order. The Empire has never announced that its heads of state were murdered by its own Lord Commander, and the Assembly tower in Korth has not been reported empty. The order's most famous Inquisitor is three years dead in Sharn and her sword is missing. The symbol is still carved in the marble of a throne room nobody has sat in for a decade.
 
-**Known members:** [Varyn Crona](/people/varyn-crona/) (Master, dead) · **Hayman Maw** (Master, current) · [Esther Crona](/people/esther-crona/) (High Inquisitor, dead).
+**Known members:** [Varyn Crona](/people/varyn-crona/) (Master, dead) · [Hayman Maw](/people/hayman-maw/) (Master after Varyn Crona) · [Esther Crona](/people/esther-crona/) (High Inquisitor, dead).
 
 **Holdings:** Crona Manor in Korth. A seat on the Imperial Council. The marble of the throne room floor.
 
