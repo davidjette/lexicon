@@ -449,5 +449,3 @@ No pets recorded.
 ## Related
 
 [**Fulcrum**](/organizations/fulcrum/) · [**Esther Crona**](/people/esther-crona/) · [**Calcifer**](/people/calcifer/) · [**Digma Beeve**](/people/digma-beeve/) · [**Zero-One**](/people/zero-one-fema-nolan/) · [**John Stamos**](/people/john-stamos/) · [**Jessica Grimpledink**](/people/jessica-grimpledink/) · [**Grady Marsh**](/people/grady-marsh/) · [**Varyn Crona**](/people/varyn-crona/) · [**Uriel Qualanthri**](/people/uriel-qualanthri/) · [**Children of Ember**](/organizations/the-children-of-ember/) · [**the Fall of Sharn**](/history/the-fall-of-sharn/)
-
-![The Crono-Blaze Family - Esther Crona, Calcifer and Richard Blaze.png](/images/uploads/the-crono-blaze-family-esther-crona-calc-mu0xvfr4.webp)
