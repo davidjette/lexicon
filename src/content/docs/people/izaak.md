@@ -112,7 +112,7 @@ Zilspar Farm was destroyed and his mother taken alive by Eden units; [Jessica Gr
 
 ## Rescue from the listening post
 
-In [Korth Ep 14 — The Listening Post](/sessions/korth-ep-14-the-listening-post/) the trio found Izaak in the Imperial listening post in Korth, where the Empire had been harvesting the ghost chips of captured Fulcrum members through him. Gemma drew a teleportation circle around him because he could not be moved, aimed at Esther Crona's old penthouse in Sharn. He surfaced while the ink went down: "It was Pierce, he says. Pierce's intelligence. They had some kind of back door with the Empire. I think he gave me up." He learned that Zilspar was gone and his mother taken, and took it in silence. The Nest confirmed it had received him and that he was well, and gave him the first codename he had ever had: Ace.
+In [Korth Ep 14 — The Listening Post](/sessions/korth-ep-14-the-listening-post/) the trio found Izaak in the Imperial listening post in Korth, where the Empire had been harvesting the ghost chips of captured Fulcrum members through him. Gemma drew a teleportation circle around him because he could not be moved, aimed at [Esther Crona](/people/esther-crona/)'s old penthouse in Sharn. He surfaced while the ink went down: "It was Pierce, he says. Pierce's intelligence. They had some kind of back door with the Empire. I think he gave me up." He learned that Zilspar was gone and his mother taken, and took it in silence. The Nest confirmed it had received him and that he was well, and gave him the first codename he had ever had: Ace.
 
 **Right now:** Izaak is safe in Sharn with the Nest.
 

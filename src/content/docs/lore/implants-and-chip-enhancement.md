@@ -68,7 +68,7 @@ Dr. [Edwin Graves](/people/dr-edwin-graves/) implanted them in BioTec employees 
 
 ### Two Removals
 
-**Sister Nora, Zilspar Farm 02.** Under a Zone of Truth she gave up Project E.D.E.N., the Eternal Nightfall and the names of Esther's sisters without much trouble. Asked directly who supplied the corpses, she began to seize, clutching the side of her head near the ear as blood ran from her nose, and collapsed. Sir [Dario Argentino](/people/sir-dario-argentino/) removed the chip and left her to recover. That extraction is the reason the Cog Collector investigation existed at all.
+**Sister Nora, Zilspar Farm 02.** Under a Zone of Truth she gave up Project E.D.E.N., the Eternal Nightfall and the names of [Esther](/people/esther-crona/)'s sisters without much trouble. Asked directly who supplied the corpses, she began to seize, clutching the side of her head near the ear as blood ran from her nose, and collapsed. Sir [Dario Argentino](/people/sir-dario-argentino/) removed the chip and left her to recover. That extraction is the reason the Cog Collector investigation existed at all.
 
 **Martin Kross, the Underhive.** Held in Blair's chambers, [Martin Kross](/people/martin-kross/) told the trio what he knew about BioTec, the Ghost Chip prototypes and [Red Khyber](/items/red-khyber/) shipments, and said there was a private owner pulling the strings whose name he could not produce. Dario cut the control chip out of his skull. Kross said: **Edwin**.
 

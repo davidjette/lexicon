@@ -68,7 +68,7 @@ Cut off from the Cogs, the Cogborn community was pushed into a collapsing tunnel
 
 ## The drill
 
-The largest factory in the Cogs is the one Esther Crona entered with General Stockton Thar, frontline Iron Veil and a large drill — the machine that broke through the ceiling of the [Forge of Binding](/places/the-forge-of-binding/) far below. Its roof carries the Lower City's single permanent **ArcEye** camera, fixed on [the Ziggurat](/places/the-ziggurat/) with the aqueduct in the foreground. The factory is still Veil-built and was still Veil-run afterwards; the roof can be reached from outside by ladders, catwalks and maintenance platforms without ever entering the building.
+The largest factory in the Cogs is the one [Esther Crona](/people/esther-crona/) entered with General Stockton Thar, frontline Iron Veil and a large drill — the machine that broke through the ceiling of the [Forge of Binding](/places/the-forge-of-binding/) far below. Its roof carries the Lower City's single permanent **ArcEye** camera, fixed on [the Ziggurat](/places/the-ziggurat/) with the aqueduct in the foreground. The factory is still Veil-built and was still Veil-run afterwards; the roof can be reached from outside by ladders, catwalks and maintenance platforms without ever entering the building.
 
 ## Present day
 

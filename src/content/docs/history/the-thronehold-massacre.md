@@ -69,7 +69,7 @@ The Summit was presented as "a neutral attempt to end the civil war by priests a
 
 Khorvaire was three years into fracture. Crona's Wall had collapsed and orc forces were pushing into Dark Druid territory in the Eldeen Reaches; the Hundreds and the Silver Flame were locked in fighting against E.D.E.N. constructs; food was running short in Sharn.
 
-Dave's account of those three years: "The Empire has its back broken with the death of Esther Crona and the end of the Iron Veil, and the fractured state begins to flail and rot, making it all the more dangerous, even if the end seems actually possible for the first time in a generation." <small>(Nico's DM notes, Episode 19)</small>
+Dave's account of those three years: "The Empire has its back broken with the death of [Esther Crona](/people/esther-crona/) and the end of the Iron Veil, and the fractured state begins to flail and rot, making it all the more dangerous, even if the end seems actually possible for the first time in a generation." <small>(Nico's DM notes, Episode 19)</small>
 
 ## THE DELEGATIONS
 

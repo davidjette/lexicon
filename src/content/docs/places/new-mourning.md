@@ -59,7 +59,7 @@ In the same year strange and unusually aggressive beasts with psionic powers beg
 
 ## After
 
-The survivors fled east, evacuating en masse to Leef. There the townsfolk, the Newham refugees and the swamp-dwarf tribes out of [the Mror Holds](/places/the-mror-holds/) forged a new nation, the **Republic of Talenta**, which now sits between the corrupted wasteland of New Mourning to the west and the allied Mror Holds to the east. It is one of the few places in Khorvaire that was largely beyond the reach of Esther Crona's imperial forces.
+The survivors fled east, evacuating en masse to Leef. There the townsfolk, the Newham refugees and the swamp-dwarf tribes out of [the Mror Holds](/places/the-mror-holds/) forged a new nation, the **Republic of Talenta**, which now sits between the corrupted wasteland of New Mourning to the west and the allied Mror Holds to the east. It is one of the few places in Khorvaire that was largely beyond the reach of [Esther Crona](/people/esther-crona/)'s imperial forces.
 
 ## Present day
 

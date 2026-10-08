@@ -94,7 +94,7 @@ Goldenhew was in the audience at the Grand Theatre in Sharn on the night the con
 **Contacts & Relations:**
 
 - **Hayman Maw** — leader of the Crimson Sun; put Goldenhew's name on a list of three and sent the Unforeseen after it.
-- **Minister Henry Heinrick** — fellow Assembly member and fellow suspect. Later Mayor of Sharn; later killed by Esther Crona.
+- **Minister Henry Heinrick** — fellow Assembly member and fellow suspect. Later Mayor of Sharn; later killed by [Esther Crona](/people/esther-crona/).
 - **Lord Albert Spear** — fellow Assembly member and the third suspect. Dead by the Sharn arc.
 - **Kwanti d'Orien** — House Orien runs the rails his Federation sets the standards for. Allied with the Empire. Found impaled in lower Sharn.
 - **The Unforeseen** — investigated him, then saved his life at the Grand Theatre.

@@ -55,7 +55,7 @@ wa:
 
 *Also known as:* The Ivory Lazarette · the white hospital in the mountains
 
-The Ivory Lazaret is the white hospital in the mountains where the Holy Empress [Uriel Qualanthri](/people/uriel-qualanthri/) keeps the Emperor. It stands with the [Summer Palace](/places/the-summer-palace/) upriver of [Korth](/places/korth/), in defensible mountains northeast of Qarth, and it is the place the Inevitables have been moving toward since Esther Crona's last command was to kill the Empress.
+The Ivory Lazaret is the white hospital in the mountains where the Holy Empress [Uriel Qualanthri](/people/uriel-qualanthri/) keeps the Emperor. It stands with the [Summer Palace](/places/the-summer-palace/) upriver of [Korth](/places/korth/), in defensible mountains northeast of Qarth, and it is the place the Inevitables have been moving toward since [Esther Crona](/people/esther-crona/)'s last command was to kill the Empress.
 
 ## The Emperor
 

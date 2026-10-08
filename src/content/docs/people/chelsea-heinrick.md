@@ -73,7 +73,7 @@ There is no record of her birth or her birthday, no record of schooling, no reco
 
 ## Origin
 
-Born into the Heinrick household in Sharn, some eight years before the rising — which places her birth in roughly the same season as Calcifer Blaze's, and within the same decade in which her mother's surveillance network was built and her father was spared a purge that killed twelve of his colleagues and, in some cases, their immediate families. <small>Esther Crona killed council members' families. Henry Heinrick was the exception.</small>
+Born into the Heinrick household in Sharn, some eight years before the rising — which places her birth in roughly the same season as Calcifer Blaze's, and within the same decade in which her mother's surveillance network was built and her father was spared a purge that killed twelve of his colleagues and, in some cases, their immediate families. <small>[Esther Crona](/people/esther-crona/) killed council members' families. Henry Heinrick was the exception.</small>
 
 ## The two nights
 

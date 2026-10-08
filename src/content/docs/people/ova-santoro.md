@@ -95,7 +95,7 @@ In public Ova was the Mayor's girlfriend in a boom town. What she wanted, what s
 - **Christopher Santoro** — her father, Pit Boss of the Clamshell Casino. Paid 300 gold for her rescue. Alive at last record.
 - **John C. LeBeefe** — Mayor of Newham and her boyfriend; took the reward. Later Grand Duke; later killed at Newham.
 - **Uriel Qualanthri** — helped rescue her, then murdered her and raised her. Later Empress.
-- **Esther Crona and Locke Pierce** — the other two who came into her apartment. Esther later Lord Commander of Sharn and dead; Locke later leader of the Hundreds.
+- **[Esther Crona](/people/esther-crona/) and Locke Pierce** — the other two who came into her apartment. Esther later Lord Commander of Sharn and dead; Locke later leader of the Hundreds.
 - **The succubi** — held her hostage in her own home. Unnamed.
 
 **Hobbies & Pets:** Unknown.

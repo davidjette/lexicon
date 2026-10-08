@@ -134,7 +134,7 @@ The camera is fixed and non-rotating, capturing:
 - the Veil Building rising in the distance
 - [POSÉ](/places/pose/) and surrounding towers, apartment and businesses
 
-This feed is iconic across Sharn and is frequently used by citizens to track airship movement, weather patterns, and general Upper-City activity. It is commonly used by citizens to check whether Esther's airship, the Black Veil, is currently in the city.
+This feed is iconic across Sharn and is frequently used by citizens to track airship movement, weather patterns, and general Upper-City activity. It is commonly used by citizens to check whether [Esther](/people/esther-crona/)'s airship, the Black Veil, is currently in the city.
 
 **Access & Approach Notes**
 

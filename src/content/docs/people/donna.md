@@ -99,7 +99,7 @@ An Iron Veil patrol of four soldiers and a Veil Hound came down on the farm in t
 
 ## The fall of Sharn
 
-In Nico's notes, after Esther Crona fell and Zero-One's paladins took over the Black Dove Hospital, Donna was at the hospital tending the injured alongside other Silver Flame clerics and Fulcrum healers. At the first meeting of the Council of Sharn she sat with the Silver Flame delegation, beside Zero-One and [Zero of Sharn](/people/zero-of-sharn/). <small>(Nico's DM notes, Episode 19)</small>
+In Nico's notes, after [Esther Crona](/people/esther-crona/) fell and Zero-One's paladins took over the Black Dove Hospital, Donna was at the hospital tending the injured alongside other Silver Flame clerics and Fulcrum healers. At the first meeting of the Council of Sharn she sat with the Silver Flame delegation, beside Zero-One and [Zero of Sharn](/people/zero-of-sharn/). <small>(Nico's DM notes, Episode 19)</small>
 
 ## Right now
 

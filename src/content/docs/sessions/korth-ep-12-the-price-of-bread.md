@@ -41,7 +41,7 @@ wa:
 ![Korth Ep 12 — The Price of Bread - Jessica Grimpledink, Zero of Sharn, Gemma, Eric and Dario - Upper city Sharn Penthouse.png](/images/uploads/korth-ep-12-the-price-of-bread-jessica-g-mu3lrroi.webp)
 
 ![Jessica Grimpledink examines Esther's wedding gift as the party looks on](/images/gallery/2026-09-03-01.webp)
-*Jessica Grimpledink examines Esther's wedding gift as the party looks on.*
+*Jessica Grimpledink examines [Esther](/people/esther-crona/)'s wedding gift as the party looks on.*
 
 ![Esther's wedding gift, a spiked crystal of black and red Khyber](/images/gallery/2026-09-03-03.webp)
 *Esther's wedding gift, a spiked crystal of black and red Khyber.*

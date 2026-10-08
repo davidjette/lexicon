@@ -36,7 +36,7 @@ gallery:
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 7 · DM: Nichole**
 
-**Sharn Ep 7 — Shadow of the Past** is the seventh session of the Sharn arc of The Unforeseen Strikes Back. At Zilspar Farm 02 Sister Nora names Project E.D.E.N., Esther's sisters and Uriel's doctrine of the Eternal Nightfall; a BioTec mental-block chip is cut out of her head when she is asked who supplies the bodies; and an enquiry after Varyn Crona at the Sharn Library brings the Iron Veil down on the trio.
+**Sharn Ep 7 — Shadow of the Past** is the seventh session of the Sharn arc of The Unforeseen Strikes Back. At Zilspar Farm 02 Sister Nora names Project E.D.E.N., [Esther](/people/esther-crona/)'s sisters and Uriel's doctrine of the Eternal Nightfall; a BioTec mental-block chip is cut out of her head when she is asked who supplies the bodies; and an enquiry after Varyn Crona at the Sharn Library brings the Iron Veil down on the trio.
 
 ## Summary
 

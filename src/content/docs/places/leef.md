@@ -61,7 +61,7 @@ gallery:
 
 *Also known as:* Leaf
 
-Leef is a town in eastern Khorvaire, the last eastern stop on the lightning rail, refounded after the collapse of Newham as the **Republic of Talenta**. It was a dusty desert outpost until Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) expanded his empire eastward, constructing an airship yard and flooding the town with illithid city guards and Iron Veil soldiers. It was liberated by the three adventurers who met there, and became a fortified rebel stronghold beyond the reach of Esther Crona's imperial forces.
+Leef is a town in eastern Khorvaire, the last eastern stop on the lightning rail, refounded after the collapse of Newham as the **Republic of Talenta**. It was a dusty desert outpost until Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) expanded his empire eastward, constructing an airship yard and flooding the town with illithid city guards and Iron Veil soldiers. It was liberated by the three adventurers who met there, and became a fortified rebel stronghold beyond the reach of [Esther Crona](/people/esther-crona/)'s imperial forces.
 
 ## The liberation
 

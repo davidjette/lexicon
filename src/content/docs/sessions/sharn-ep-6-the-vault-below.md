@@ -59,7 +59,7 @@ Below the dance floor, a lone [Children of Ember](/organizations/the-children-of
 *Hallorn d'Lyrandar's letter to Malrik about delayed Umbra shipments and Eden.*
 
 ![Malrik Zeir's sealed reply to Hallorn about Faith, Esther and the EDEN units](/images/gallery/2026-02-10-02.webp)
-*Malrik Zeir's sealed reply to Hallorn about Faith, Esther and the EDEN units.*
+*Malrik Zeir's sealed reply to Hallorn about Faith, [Esther](/people/esther-crona/) and the EDEN units.*
 
 ![Hallorn's letter reporting Henry Heinrick's invitation to the Velvet Table Society](/images/gallery/2026-02-10-05.webp)
 *Hallorn's letter reporting Henry Heinrick's invitation to the Velvet Table Society.*

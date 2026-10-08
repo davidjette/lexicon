@@ -66,7 +66,7 @@ The division between upper and lower is not only architectural. After the riot a
 
 ## Present day
 
-On the night the Empire fell in Sharn, the Upper City took the damage: the statue of [Uriel Qualanthri](/people/uriel-qualanthri/) above the Skyport was destroyed by Esther Crona's own airship, the [Black Dove Hospital](/places/sanctum-of-the-last-mercy/) was seized by Silver Flame paladins, and the Veil Building was taken by Nest and Fulcrum operatives. Crowds tore Uriel's statues down across the district. The towers still stand.
+On the night the Empire fell in Sharn, the Upper City took the damage: the statue of [Uriel Qualanthri](/people/uriel-qualanthri/) above the Skyport was destroyed by [Esther Crona](/people/esther-crona/)'s own airship, the [Black Dove Hospital](/places/sanctum-of-the-last-mercy/) was seized by Silver Flame paladins, and the Veil Building was taken by Nest and Fulcrum operatives. Crowds tore Uriel's statues down across the district. The towers still stand.
 
 **Places of Interest:**
 

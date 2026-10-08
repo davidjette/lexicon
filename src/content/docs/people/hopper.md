@@ -87,7 +87,7 @@ Hopper supplies the free city's rebellion out of a shop in the Sub-line District
 
 **Holdings:** Hopper's Magic Emporium, Sub-line District, Lower City.
 
-**Items:** home-security crystals · ritual incense · bulk supplies and magic items sold into the rebellion · one casting of Summon Dragon, placed into a Ring of Spell Storing · a scroll of Bigby's hand, which Eric used on Esther Crona's balcony. <small>(Nico's DM notes, Episode 19)</small>
+**Items:** home-security crystals · ritual incense · bulk supplies and magic items sold into the rebellion · one casting of Summon Dragon, placed into a Ring of Spell Storing · a scroll of Bigby's hand, which Eric used on [Esther Crona](/people/esther-crona/)'s balcony. <small>(Nico's DM notes, Episode 19)</small>
 
 **Personality Characteristics**
 

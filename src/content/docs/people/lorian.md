@@ -114,7 +114,7 @@ When Dave took over as DM for the Korth arc he allowed the pistol, with loading:
 
 ## The Council of Sharn
 
-On the night Esther Crona fell, Lorian tended Malrik's captives with Nest healers. He is one of the few who knew Richard Blaze had survived: he had seen Richard at Malrik's, and Jessica Grimpledink told him the truth because, in her words, "Lorian needed the truth." At the first meeting of the Council of Sharn he sat with the NEST and Fulcrum delegation alongside Jessica and Izaak. <small>(Nico's DM notes, Episode 19)</small>
+On the night [Esther Crona](/people/esther-crona/) fell, Lorian tended Malrik's captives with Nest healers. He is one of the few who knew Richard Blaze had survived: he had seen Richard at Malrik's, and Jessica Grimpledink told him the truth because, in her words, "Lorian needed the truth." At the first meeting of the Council of Sharn he sat with the NEST and Fulcrum delegation alongside Jessica and Izaak. <small>(Nico's DM notes, Episode 19)</small>
 
 ## Thronehold
 

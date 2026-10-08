@@ -65,7 +65,7 @@ Beliefs: Unknown. No words of hers are recorded.
 
 ## The Dragon Watch Isles
 
-**Esther, Uriel, Locke and LeBeefe later found and fought Lady Glow in a rebel base in the Dragon Watch Isles. She escaped the attack with Gabriel Duin.** Duin was an Imperial officer seven years into a cover; whether Glow knew it is not recorded. It was that raid — the burning of the island and the work on it — that ended Duin's infiltration and set everything after it in motion.
+**[Esther](/people/esther-crona/), Uriel, Locke and LeBeefe later found and fought Lady Glow in a rebel base in the Dragon Watch Isles. She escaped the attack with Gabriel Duin.** Duin was an Imperial officer seven years into a cover; whether Glow knew it is not recorded. It was that raid — the burning of the island and the work on it — that ended Duin's infiltration and set everything after it in motion.
 
 ## The gift
 
