@@ -319,7 +319,7 @@ Varyn regarded [Esther](/people/esther-crona/) as his legacy and successor.
 
 Their relationship would define [Esther's](/people/esther-crona/) life long after Varyn was gone.
 
-![Vayrn's death - Esther and Varyn in Fairhaven](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
+![Varyn's death - Esther and Varyn in Fairhaven](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
 *Varyn's death - Esther and Varyn in Fairhaven*
 
 ---
@@ -608,4 +608,4 @@ Varyn was secretive, controlling and ambitious. He raised a child he had purchas
 
 **Hobbies & Pets** — Unknown.
 
-![Vayrn Crona - Eternal Guardian and Enoch 2.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-2-mu0vzg1y.webp)
+![Varyn Crona - Eternal Guardian and Enoch 2.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-2-mu0vzg1y.webp)

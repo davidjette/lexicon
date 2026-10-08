@@ -123,17 +123,17 @@ Whatever has risen in Esther's body appears to be an undead version of the forme
 
 At twelve, [Varyn Crona](/people/varyn-crona/) made Esther his apprentice in **[The Crimson Sun](/organizations/the-crimson-sun/)**, the Empire's elite secret service based in Korth. The Crimson Sun was a small, feared government agency made up of Masters and apprentices, most of them Knights, Paladins or Sorcerers. Its agents served as spies and rebel hunters, operating where ordinary Imperial forces could not.
 
-![Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth.png](/images/uploads/esther-crona-age-18-and-vayrn-crona-insi-muxi6rmt.webp)
+![Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth.png](/images/uploads/esther-crona-age-18-and-vayrn-crona-insi-muxi6rmt.webp)
 *Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth*
 
 Esther rose from Apprentice to Inquisitor and eventually High Inquisitor while working directly under Varyn. His position as Master of the Crimson Sun also carried a seat on the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right, placing Esther close to the highest levels of Imperial power from an early age.
 
 Varyn was more than Esther's commanding officer. He was her adoptive father, teacher and master and eventually her lover. He personally shaped the way she understood loyalty, authority and the use of power. Under his direction, Esther became an Imperial operative trusted with espionage, rebel hunting, assassination and the Empire's most sensitive operations.
 
-![Esther Crona at 18 with Vayrn Crona in Korth, Vayrn Manor.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxqay3c.webp)
+![Esther Crona at 18 with Varyn Crona in Korth, Varyn Manor.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxqay3c.webp)
 *Esther and Varyn in Crona Manor - Korth*
 
-After Varyn's death, Esther continued her work for the Empire alongside [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). Varyn was already dead. Esther continued carrying his sword while struggling with his death, helping recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fighting rebels aboard the Talenta Plains Express, investigating Imperial secrets and carrying out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
+After Varyn's death, Esther continued her work for the Empire alongside [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). Varyn was already dead. Esther continued carrying his sword while struggling with his death, helping recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fighting rebels aboard the [Talenta Plains Express](/history/the-lightning-rail-ambush/), investigating Imperial secrets and carrying out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
 
 Esther was nineteen and already a High Inquisitor when she became one of the founders of [The Unforeseen](/organizations/the-unforeseen/). By then she was no longer simply Varyn's young apprentice. She had become one of the Empire's most capable and trusted agents in her own right.
 
@@ -207,7 +207,7 @@ The Iron Veil was not a uniform body. **Sharn patrols** were largely former City
 ![Esther Crona at Crona's Wall.png](/images/uploads/esther-crona-at-crona-s-wall-muxkgf89.webp)
 *Esther at Crona's Wall*
 
-Much of Esther's time as Lord Commander was spent directing the war against the Uruk-Hoth Republic. Along the Empire's western frontier, she oversaw the construction and maintenance of [Crona's Wall](/places/cronas-wall/), a massive, mythal-like magical barrier raised across the frontier to hold back and push against the Uruk-Hoth advance. The Wall was sustained with [Red Khyber](/items/red-khyber/) extracted from the Mournlands by [Project E.D.E.N.](/organizations/project-e-d-e-n/) units, tying Esther's military campaign directly to the secret program she had created after Eden's death.
+Much of Esther's time as Lord Commander was spent directing the war against the [Uruk-Hoth Republic](/organizations/the-uruk-hoth/). Along the Empire's western frontier, she oversaw the construction and maintenance of [Crona's Wall](/places/cronas-wall/), a massive, mythal-like magical barrier raised across the frontier to hold back and push against the Uruk-Hoth advance. The Wall was sustained with [Red Khyber](/items/red-khyber/) extracted from the [Mournlands](/places/the-mournland/) by [Project E.D.E.N.](/organizations/project-e-d-e-n/) units, tying Esther's military campaign directly to the secret program she had created after Eden's death.
 
 **Frontliners** were the heavily trained soldiers stationed at [Crona's Wall](/places/cronas-wall/). They were real war soldiers — stronger, better trained and often capable of casting spells. Esther could bring them into the city when something demanded serious military force.
 
@@ -219,7 +219,7 @@ When Esther died, every Iron Veil pact collapsed at once. Soldiers across the Em
 
 The military structure Esther had built was therefore also a structure that could not survive her. She had not merely commanded the [Iron Veil](/organizations/the-iron-veil/). She had made herself its magical foundation.
 
-Esther also outlawed all Warforged in [Sharn](/places/sharn/). Most fled toward Gorgonhorn or the Mournlands. The Iron Veil seized the factories, replaced Warforged labor with soldiers and pushed the already weakened Cogborn out of their jobs, neighborhoods and homes.
+Esther also outlawed all Warforged in [Sharn](/places/sharn/). Most fled toward [Gorgonhorn](/places/gorgonhorn/) or the Mournlands. The Iron Veil seized the factories, replaced Warforged labor with soldiers and pushed the already weakened Cogborn out of their jobs, neighborhoods and homes.
 
 That policy helped create the conditions from which [R.U.S.T.](/organizations/r-u-s-t/) emerged.
 
@@ -239,7 +239,7 @@ Her philosophy was simple:
 
 Their bond survived long after the Unforeseen ended. Even as Esther rose to Lord Commander and Uriel became Empress, Uriel remained one of the most important people in Esther's life.
 
-Years earlier, while Esther and the others were still working together as the [Unforeseen](/organizations/the-unforeseen/), Uriel was killed by a mind flayer in the sewers beneath [Sharn](https://davidjette.github.io/lexicon/places/sharn/). Esther refused to leave her dead. In a panic, she carried Uriel's body to an area just outside the city where they believed help might be found. There she encountered [Fema Nolan](https://davidjette.github.io/lexicon/people/zero-one-fema-nolan/), who was known to them only as a healer. Esther begged her to help, and Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
+Years earlier, while Esther and the others were still working together as the [Unforeseen](/organizations/the-unforeseen/), Uriel was killed by a mind flayer in the sewers beneath [Sharn](/places/sharn/). Esther refused to leave her dead. In a panic, she carried Uriel's body to an area just outside the city where they believed help might be found. There she encountered [Fema Nolan](/people/zero-one-fema-nolan/), who was known to them only as a healer. Esther begged her to help, and Fema performed the resurrection ritual that brought Uriel back to life and embedded a diamond at the base of her skull.
 
 At the time, Esther and the others did not know Fema was connected to the [Silver Flame](/organizations/the-silver-flame/), [Fulcrum](/organizations/fulcrum/), or the rebellion. They believed they had simply found a healer willing to save Uriel.
 
@@ -252,7 +252,7 @@ Uriel eventually married Emperor Kaius III. Esther was hurt by the marriage, but
 
 When Esther and Richard had their son [Calcifer](/people/calcifer/), Esther named Uriel his godmother.
 
-Uriel herself delivered Calcifer on the balcony of the [Veil Building](https://davidjette.github.io/lexicon/places/the-veil-building/). Years later, an ArcEye recording of the birth was recovered by [Grady Marsh](https://davidjette.github.io/lexicon/people/grady-marsh/), a retired ArcEye surveillance wizard. It showed Esther heavily pregnant, in severe pain and losing blood as she drifted in and out of consciousness.
+Uriel herself delivered Calcifer on the balcony of the [Veil Building](/places/the-veil-building/). Years later, an ArcEye recording of the birth was recovered by [Grady Marsh](/people/grady-marsh/), a retired ArcEye surveillance wizard. It showed Esther heavily pregnant, in severe pain and losing blood as she drifted in and out of consciousness.
 
 After Calcifer was born, Uriel raised her hand over him. A sickly green light appeared, his crying stopped, and dark, vein-like markings spread across his cheek. Esther heard the silence and screamed for Uriel to help. Uriel withdrew her hand, and Calcifer gasped and began crying again.
 
@@ -273,7 +273,7 @@ It was her last act of vengeance against the woman she had once loved.
 
 By the time Esther had become Lord Commander, her attention was no longer focused solely on military affairs. Her private life had grown alongside her political power: she married [Richard Blaze](/people/richard-blaze/), had a son, and eventually learned that she had three biological half-sisters.
 
-Nine years before the present, a woman named Greenish Huges contacted Esther on behalf of [John C. LeBeefe](/people/john-c-lebeefe/) and asked her to come to his manor in [Newham](/places/newham/). Esther traveled there with [Richard Blaze](/people/richard-blaze/) but was asked to enter the palace alone. Inside she found three tiefling women she did not recognize: **[Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/)**.
+Nine years before the present, a woman named [Greenish Hughes](/people/greenish-hughes/) contacted Esther on behalf of [John C. LeBeefe](/people/john-c-lebeefe/) and asked her to come to his manor in [Newham](/places/newham/). Esther traveled there with [Richard Blaze](/people/richard-blaze/) but was asked to enter the palace alone. Inside she found three tiefling women she did not recognize: **[Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/)**.
 
 LeBeefe had learned that his harvested sperm had produced four daughters with different mothers and had called all four of them to his home. [Sister Nora](/people/sister-nora/) of the local Black Dove hospital was brought in to confirm their blood relationship.
 
@@ -284,13 +284,13 @@ The four women were established as **half-sisters**. They share the same biologi
 
 Esther was the eldest, around thirty-one during the Sharn events. Faith was only slightly younger, around thirty. Blair was around twenty-eight. Eden was the youngest, around eighteen when she died.
 
-After the meeting, the half-sisters traveled together back to Sharn. Sister Nora was later transferred from Newham to Sharn and became the head cleric of the city's Black Dove hospital, Sanctum of the Last Mercy.
+After the meeting, the half-sisters traveled together back to Sharn. Sister Nora was later transferred from Newham to Sharn and became the head cleric of the city's Black Dove hospital, [Sanctum of the Last Mercy](/places/sanctum-of-the-last-mercy/).
 
 Faith Zeir was raised in a noble High Elf household in Valenar and was already married to [Malrik Zeir](/people/malrik-zeir/) when Esther met her. She later became Mother Prophet of the [Children of Ember](/organizations/the-children-of-ember/).
 
-Blair was already involved with thieves' guilds and piracy before meeting her half-sisters. Esther later invited her to Sharn, where Blair established herself in the Lower City and eventually became Queen B of the Underhive.
+Blair was already involved with thieves' guilds and piracy before meeting her half-sisters. Esther later invited her to Sharn, where Blair established herself in the Lower City and eventually became Queen B of the [Underhive](/organizations/the-underhive/).
 
-Eden was never sold. She lived with her mother until her mother's death, after which Greenish Huges found her and arranged a home for her in Newham. In Sharn she became an Imperial researcher.
+Eden was never sold. She lived with her mother until her mother's death, after which Greenish Hughes found her and arranged a home for her in Newham. In Sharn she became an Imperial researcher.
 
 Esther was not merely connected to three women who later opposed the Empire. She had personally met her three half-sisters, brought them into her city and watched each of them become entangled with the world she controlled.
 
@@ -300,7 +300,7 @@ Eden was the youngest of Esther's three half-sisters and, unlike the others, gen
 
 She was bright, idealistic and loyal. She was recruited into an Imperial research division in part because she was Esther's sister and therefore assumed to be loyal and discreet.
 
-Her assignment concerned the Mournlands, Warforged migration, the resurgence of [Locke Pierce](/people/locke-pierce/) and the resistance group known as [the Hundreds](/organizations/the-hundreds/). Eden discovered that a Hundreds cell was operating inside Sharn and began investigating them in the [Lower City](https://davidjette.github.io/lexicon/places/the-lower-city/), following stolen shipments, anti-Imperial graffiti and reports of a Warforged preacher in the Cogs.
+Her assignment concerned the Mournlands, Warforged migration, the resurgence of [Locke Pierce](/people/locke-pierce/) and the resistance group known as [the Hundreds](/organizations/the-hundreds/). Eden discovered that a Hundreds cell was operating inside Sharn and began investigating them in the [Lower City](/places/the-lower-city/), following stolen shipments, anti-Imperial graffiti and reports of a Warforged preacher in the Cogs.
 
 While investigating the Hundreds in the Lower City, Eden was critically injured. Esther found her in terrible condition and carried her to the Black Dove hospital.
 
@@ -325,11 +325,11 @@ Project E.D.E.N. began with Eden. Esther's desperate attempt to bring her half-s
 
 ![Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves..png](/images/uploads/project-e-d-e-n-founding-circle-esther-c-muyksbw2.webp)*Project E.D.E.N. founding circle - Esther Crona, Dr. Joanne Menka, Sister Nora, Malrik Zeir, Hallorn d'Lyrandar, Supreme Admiral Vex d'Lyrandar and BioTec's private owner, Dr. Edwin Graves.*
 
-Each controlled a different part of the project. Esther held overall authority and drove the programme forward after Eden's failed resurrection. Sister Nora and the [Black Doves](/organizations/the-black-doves/) provided the necromantic rites. Menka led the scientific research and experimentation. Malrik supplied the [Umbra](/items/umbra/), Hallorn transported it, and Vex oversaw Imperial deployment and military operations. Graves provided [BioTec](/organizations/biotec/)'s facilities, personnel, technology and [Cogborn](https://davidjette.github.io/lexicon/species/the-cogborn/) corpses for the assembly and augmentation of the E.D.E.N. units.
+Each controlled a different part of the project. Esther held overall authority and drove the programme forward after Eden's failed resurrection. Sister Nora and the [Black Doves](/organizations/the-black-doves/) provided the necromantic rites. Menka led the scientific research and experimentation. Malrik supplied the [Umbra](/items/umbra/), Hallorn transported it, and Vex oversaw Imperial deployment and military operations. Graves provided [BioTec](/organizations/biotec/)'s facilities, personnel, technology and [Cogborn](/species/the-cogborn/) corpses for the assembly and augmentation of the E.D.E.N. units.
 
 The resulting programme combined undead bodies, Warforged components, Black Dove rites, BioTec augmentation and Imperial military resources, eventually producing units that were deployed into the Mournlands.
 
-At [POSÉ](https://davidjette.github.io/lexicon/places/pose/), Faith begged Esther to bring Eden home.
+At [POSÉ](/places/pose/), Faith begged Esther to bring Eden home.
 
 > **Faith:** "Esther, bring her home. It's eating at her. She should not suffer any longer. Bring her home. The project is ready."
 >
@@ -398,7 +398,7 @@ She could be affectionate and ruthless within the same hour.
 
 A large [Cogborn](/species/the-cogborn/) protest had gathered down the street and on a lower level below the balcony. The protesters were demanding better conditions in the Lower City and answers about missing Cogborn. From the balcony, Esther and the others had a clear view of the growing unrest.
 
-[Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) reported on the Emperor and [Project E.D.E.N.](/organizations/project-e-d-e-n/). [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) reported on shipments. General [Stockton Thar](/people/general-stockton-thar/) warned her about the western front. [Dr. Joanne Menka](/people/dr-joanne-menka/) reported that [BioTec](/organizations/biotec/) had been breached and that [Martin Kross](https://davidjette.github.io/lexicon/people/martin-kross/) was missing.
+[Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) reported on the Emperor and [Project E.D.E.N.](/organizations/project-e-d-e-n/). [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/) reported on shipments. General [Stockton Thar](/people/general-stockton-thar/) warned her about the western front. [Dr. Joanne Menka](/people/dr-joanne-menka/) reported that [BioTec](/organizations/biotec/) had been breached and that [Martin Kross](/people/martin-kross/) was missing.
 
 Esther treated each problem as a matter of logistics.
 
@@ -406,7 +406,7 @@ When Menka reported the breach, Esther said:
 
 > "Clean the mess. Contain the story. And find Kross."
 
-When Vex reported that E.D.E.N. had retrieved enough from the [Glass Plateau](https://davidjette.github.io/lexicon/places/the-mournland/) to continue testing, Esther's attention immediately turned to the supply problem.
+When Vex reported that E.D.E.N. had retrieved enough from the [Glass Plateau](/places/the-mournland/) to continue testing, Esther's attention immediately turned to the supply problem.
 
 When Faith pleaded with Esther to bring Eden home, Esther refused to release her.
 
@@ -428,7 +428,7 @@ Esther ordered [Renn Tal](/people/renn-tal/), an archivist at the Sharn Library,
 ![Esther and Renn Tal - Sharn Library.png](/images/uploads/esther-and-renn-tal-sharn-library-muxxcef8.webp)
 *Esther and Renn Tal - Sharn Library*
 
-That warning was triggered when [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) came to the library seeking the same information. Renn became interested in their questions and helped them, but another librarian alerted the Iron Veil. The three escaped the library and later met Renn again in the [Lower City](https://davidjette.github.io/lexicon/places/the-lower-city/).
+That warning was triggered when [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) came to the library seeking the same information. Renn became interested in their questions and helped them, but another librarian alerted the Iron Veil. The three escaped the library and later met Renn again in the [Lower City](/places/the-lower-city/).
 
 Esther came to the library before Renn left and spoke with her about what she had learned. When Renn departed, Esther began tracking her. She enlisted General [Stockton Thar](/people/general-stockton-thar/) and his Dragonmark of Finding to locate Renn in the Lower City. The trail led Esther to a Cogborn factory, where she had a massive drill brought in and used it to bore down beneath the building.
 
