@@ -42,6 +42,8 @@ sources:
   - sources/site/mission-board.txt
   - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
   - worldanvil/CANON.md
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: henry-heinrick-person
@@ -76,9 +78,11 @@ The Heinrick family stands as one of Sharn's most carefully curated public faces
 
 Henry Heinrick ran the Empire's diplomatic service. On the roster of [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/) he is *Minister Henry Heighrick — Human Nobleman: Chief diplomat and head of the ministry of diplomacy*, one of thirteen government heads who met in the tower in Korth called the Imperial Assembly. He held that seat under [Emperor Kaius III](/people/emperor-caius-iii/) alongside Varyn Crona, and he was still holding it on the day Varyn died. His peers on the Council were the Pope of the Sovereign Host, the General of the Imperial army, the Supreme Justice of Karrnath, the Minister of Media and Propaganda, and Varyn Crona himself.
 
+After [the Unforeseen](/organizations/the-unforeseen/) met the Imperial Council, Esther Crona spent a month in the Eldeen Reaches working with Minister Henry Heinrick to finalize the alliance between the Empire and the Children of Winter under Dark Queen Ivanka Riefenstahl.
+
 ## The purge
 
-When Varyn was murdered in a cave outside Fairhaven and the official story blamed rebels, rebel field analysis reached the opposite conclusion: the Council had done it. Esther Crona, apparently with the Emperor's blessing, hunted down and executed every member of that Council and, in several cases, their immediate families. Henry Heinrick alone walked out of it, and was installed as Mayor of Sharn. Rebel intelligence recorded that survival as politically significant: *"His continued survival is considered politically significant and remains under review."*
+When Varyn was murdered in a cave outside Fairhaven and the official story blamed rebels, rebel field analysis reached the opposite conclusion: the Council had done it. Esther Crona, apparently with the Emperor's blessing, hunted down and executed every member of that Council and, in several cases, their immediate families. Henry Heinrick alone walked out of it, and was installed as Mayor of Sharn. Esther killed every member of the Council except him. He begged for his life and insisted that he had nothing to do with Varyn Crona's death. She kept him alive as a controlled political figure and as one of the few people left who had known Varyn and the old [Crimson Sun](/organizations/the-crimson-sun/), and she later installed him as Mayor of Sharn. Rebel intelligence recorded that survival as politically significant: *"His continued survival is considered politically significant and remains under review."*
 
 ## Public and private
 
