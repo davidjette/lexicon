@@ -161,6 +161,9 @@ Soon after their marriage, Esther became pregnant with their son, [Calcifer](/pe
 
 Esther later told Richard that through pain and blood loss she remembered something strange happening immediately after Calcifer was born. She thought she had seen Uriel holding a hand over the newborn while his crying stopped and dark markings formed across his face. Because Esther herself was uncertain whether the memory had been distorted by pain, Richard had no proof that anything had actually happened.
 
+![Richard and Calcifer.png](/images/uploads/richard-and-calcifer-mv06cti4.webp)
+*Richard and Calcifer*
+
 Calcifer grew up believing the dark lines along his face were simply a birthmark. Richard tried to keep his son away from the secret war surrounding his parents, never using Calcifer as rebel cover despite operating Fulcrum intelligence from inside the same household.
 
 ---
