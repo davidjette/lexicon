@@ -16,7 +16,7 @@ tags:
   - Esther Crona
   - Great Balls of Blaze
 image:
-  src: /images/uploads/richard-blaze-mu0mt7su.webp
+  src: /images/uploads/richard-blaze-celebrity-chef-and-restaur-muzygh1p.webp
   alt: Richard Blaze
 type: person
 kind: people
