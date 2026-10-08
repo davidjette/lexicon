@@ -40,6 +40,8 @@ sources:
   - sources/wa/uriel-qualanthri-person.txt
   - worldanvil/images/rebel-factions/06.jpg
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: zero-one-28fema-nolan29-person
@@ -78,7 +80,7 @@ Born and raised in Thrane, Fema Nolan was once a respected Paladin of the Silver
 
 ## Public and private
 
-To the farms of Zilspar she is the woman who comes back. To the wider rebellion she is a myth: her rare appearances, unwavering resolve and mythic reputation make her one of the most enigmatic and revered figures in the resistance, and she is known to vanish for long stretches on missions of her own. Years ago, in the sewers beneath Sharn, [Uriel Qualanthri](/people/uriel-qualanthri/) was killed by a mind flayer. [Esther Crona](/people/esther-crona/) carried the body out to a rebel base beyond the walls, and Fema Nolan resurrected her — and embedded a diamond in her skull. The Empress of the Empire the rebellion is fighting is alive because Fulcrum's leader brought her back.
+To the farms of Zilspar she is the woman who comes back. To the wider rebellion she is a myth: her rare appearances, unwavering resolve and mythic reputation make her one of the most enigmatic and revered figures in the resistance, and she is known to vanish for long stretches on missions of her own. Years ago, in the sewers beneath Sharn, [Uriel Qualanthri](/people/uriel-qualanthri/) was killed by a mind flayer. [Esther Crona](/people/esther-crona/) carried the body out to a rebel base beyond the walls, and Fema Nolan resurrected her — and embedded a diamond in her skull. When Esther carried the body to her, [the Unforeseen](/organizations/the-unforeseen/) knew Fema Nolan only as a healer. They did not know she was connected to the [Silver Flame](/organizations/the-silver-flame/), Fulcrum or the rebellion. Esther begged her to help. The Empress of the Empire the rebellion is fighting is alive because Fulcrum's leader brought her back. Years later Esther demanded that the [Black Doves](/organizations/the-black-doves/) reproduce the same rite on [Eden](/people/eden/).
 
 She admitted it herself, to the rebellion, in the Fulcrum room at Zilspar Farm 02, in the same session in which the Arcane Eye recording caught that same diamond glowing at the base of Uriel's skull while she stood over a newborn.
 
@@ -144,4 +146,3 @@ She believes purpose and not hatred should shape a survivor's path, and says so 
 **Hobbies & Pets:** Unknown. She farms.
 
 ![Fulcrum - Founders Digma Beeve, John Stamos, Fema Nolan, Richard Blaze.png](/images/uploads/fulcrum-founders-digma-beeve-john-stamos-mu4w93wr.webp)
-
