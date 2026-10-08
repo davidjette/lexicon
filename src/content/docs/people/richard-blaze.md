@@ -236,6 +236,9 @@ On the morning they were supposed to leave, Esther returned from the Forge. Rich
 
 Esther repeatedly said she wished she could remain with them or travel to the lake house herself, but the situation at [Crona's Wall](/places/cronas-wall/) was escalating. She kissed Richard and Calcifer goodbye and left.
 
+![Esther, Richard and Calcifer - Sharn Penthouse.png](/images/uploads/esther-richard-and-calcifer-sharn-pentho-mv02oxv0.webp)
+*Esther, Richard and Calcifer - last mourning together*
+
 Richard then returned to the farm long enough to tell Jessica and the trio that the departure was still going ahead. Jessica confirmed that once Richard and Calcifer were out of Sharn, they could finally move openly against Faith, Malrik and the [Children of Ember](/organizations/the-children-of-ember/) without risking retaliation against Calcifer.
 
 It was supposed to be an ordinary family departure.
