@@ -186,6 +186,9 @@ He told them about slavery in Newham, Digma, Stamos and the train. More importan
 
 > "I've seen her whisper to it. I've seen it change her. That sword is a chain around her neck. A ghost she can't escape."
 
+![Richards' Confession - Gemma, Eric, Jessica, Digma, Richard and Dario - Zilspar Farms.png](/images/uploads/richards-confession-gemma-eric-jessica-d-mv059au1.webp)
+*Richard's confession - Zilspar Farms*
+
 Richard also told them about Calcifer's birth and the possibility that someone else had witnessed it. The investigation that followed would focus on two questions: what had happened to Calcifer, and what exactly was binding Esther to Varyn's sword?
 
 For Richard, bringing the trio into these secrets marked a change. Until then he had mostly survived by watching, listening and quietly passing information onward. Now he was actively setting events in motion that could expose his marriage, destroy his cover and eventually force him to watch the woman he loved die.
