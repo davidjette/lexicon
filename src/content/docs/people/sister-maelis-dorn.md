@@ -39,6 +39,8 @@ sources:
 - sources/wa/the-black-doves-organization.txt
 - sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
 - "Oral Histories: The Inevitables, 2026-08-09"
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: sister-maelis-dorn-person
@@ -96,6 +98,10 @@ Three years dead, the Korranberg Foundry gave up her name twice. A door at the e
 Both seals were placed *after* the bell rang. Dorn walked into a foundry full of murdered dwarves, closed two doors on what was inside them, and walked back out.
 
 The shrine door, too, was sealed with a Black Dove prayer-cloth signed by Sister Maelis Dorn. Behind it Marsk kept two risen ogres, and the bones of hundreds lay heaped at the altar. <small>(Oral Histories: The Inevitables, 2026-08-09)</small>
+
+## The rite beneath the Ivory Lazaret
+
+In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) a resurrection rite was performed on [Esther Crona](/people/esther-crona/) beneath the [Ivory Lazaret](/places/the-ivory-lazaret/). Dorn ordered the rite completed even while the [Inevitables](/organizations/the-inevitables/) attacked.
 
 ## Secret
 
