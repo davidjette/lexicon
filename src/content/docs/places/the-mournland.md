@@ -36,6 +36,8 @@ sources:
   - sources/site/pose-mission-notes.txt
   - C:/dev/sharn-campaign/biotec.md
   - C:/dev/sharn-campaign/npcs.md
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: the-mournland-location
@@ -57,6 +59,8 @@ The Mournland is the dead kingdom of Cyre, a region of central Khorvaire held by
 The **Glass Plateau** is the part of the Mournland that matters strategically, and it belongs to Locke Pierce and the Hundreds. Their stronghold is **Mt. Silicon**, a fortified Warforged hold carved into a mountainside, with a vast control chamber full of screens and of the Warforged Locke calls his children.
 
 The plateau is also what BioTec and Project E.D.E.N. were mining for: E.D.E.N. retrieved materials from the Glass Plateau for testing, and the Hundreds kept their distance from those operations — "not without incident."
+
+Project E.D.E.N. units extract [Red Khyber](/items/red-khyber/) from the Mournlands. The Red Khyber sustains [Crona's Wall](/places/cronas-wall/), the barrier [Esther Crona](/people/esther-crona/) raised against the [Uruk-Hoth Republic](/organizations/the-uruk-hoth/).
 
 ## The Ruby Nova
 
