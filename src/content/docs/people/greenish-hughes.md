@@ -34,6 +34,8 @@ fields:
 sources:
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - 'Oral Histories: The Inevitables, 2025-08-30'
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-27'
 ---
 
@@ -42,6 +44,10 @@ published: '2026-09-27'
 *Also known as:* Greenesh Hughes · Comptroller Hughes
 
 **Greenish Hughes** was the Imperial comptroller assigned to oversee the transportation hub at [Leef](/places/leef/) and the town around it, and a half-illithid in the service of Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/). She commanded a cohort of 480 soldiers and lived inside the hub's main building, but she had no real authority there: she was under the control of a team of Inquisition thugs. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+## LeBeefe's daughters
+
+Nine years before the present, Greenish Hughes contacted [Esther Crona](/people/esther-crona/) on behalf of John C. LeBeefe and asked her to come to his manor in [Newham](/places/newham/). There Esther met her three half-sisters. After the death of [Eden](/people/eden/)'s mother, Greenish Hughes found Eden and arranged a home for her in Newham.
 
 ## Her files
 
