@@ -51,7 +51,7 @@ Thirteen Imperial government heads meeting in a tower in Korth called the Imperi
 ## THE MEMBERS
 
 - [Varyn Crona](/people/varyn-crona/) — *Dead.* High Elf Paladin. Previous head of [the Crimson Sun](/organizations/the-crimson-sun/); once head Paladin for Kaius I.
-- **Hayman Maw** <small>(also written Haymen)</small> — Human Sorcerer. Current head of the Crimson Sun.
+- **[Hayman Maw](/people/hayman-maw/)** <small>(also written Haymen)</small> — Human Sorcerer. Current head of the Crimson Sun.
 - **Dunkin Sawbrass** — Human Cleric. Pope of [the Sovereign Host](/organizations/the-sovereign-host/).
 - **Garth Brooks** — Human Cleric. Bishop of the Sovereign Host, and secret leader of [the Blood of Vol](/organizations/blood-of-vol/) under the name Chris Gaines.
 - [Lord Gregory Goldenhew](/people/lord-gregory-goldenhew/) — Human Nobleman. Head of the Imperial trade federation.

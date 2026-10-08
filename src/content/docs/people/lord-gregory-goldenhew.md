@@ -59,7 +59,7 @@ No source describes him physically. What every source describes instead is his t
 
 **Competence and circle.** Goldenhew commanded logistics for the Empire in the war, and became a businessman after it. His circle is the Imperial Assembly — Minister [Henry Heinrick](/people/henry-heinrick/), Lord Albert Spear — and the Dragonmarked houses whose output he directs, chiefly House Orien under [Kwanti d'Orien](/people/kwanti-d-orien/). No heirloom of his is recorded.
 
-**The suspicion.** Top secret information available only to the Imperial Assembly was leaked to rebel sources — information the Crimson Sun had deliberately falsified, concerning the Interoperability Summit at Sharn. Three Assembly members were attending that summit, and Goldenhew was one of them. **Hayman Maw** sent four of the Empire's most effective agents to establish which of the three was leaking, and to render, interrogate and neutralise them before the summit closed. Goldenhew has never been publicly cleared.
+**The suspicion.** Top secret information available only to the Imperial Assembly was leaked to rebel sources — information the Crimson Sun had deliberately falsified, concerning the Interoperability Summit at Sharn. Three Assembly members were attending that summit, and Goldenhew was one of them. **[Hayman Maw](/people/hayman-maw/)** sent four of the Empire's most effective agents to establish which of the three was leaking, and to render, interrogate and neutralise them before the summit closed. Goldenhew has never been publicly cleared.
 
 **Beliefs.** What Goldenhew believes is not recorded.
 

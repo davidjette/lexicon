@@ -47,7 +47,7 @@ The Imperial Council / Imperial Assembly are the 13 Imperial government heads an
 The Council of 13 meet in a tower in Korth called the Imperial Assembly.
 
 - [Varyn Crona](/people/varyn-crona/) — **\*Dead\*** High Elf Paladin: Previous head of [the Crimson Sun](/organizations/the-crimson-sun/), was once the head Paladin for Kaius I.
-- **Hayman Maw** — Human Sorcerer: Current head of the Crimson Sun
+- **[Hayman Maw](/people/hayman-maw/)** — Human Sorcerer: Current head of the Crimson Sun
 - **Dunkin Sawbrass** — Human Cleric: Pope of the Sovereign Host
 - **Garth Brooks** — Human Cleric: Bishop of the Sovereign Host (Secret leader of [the Blood of Vol](/organizations/blood-of-vol/) under the name Chris Gaines?)
 - [Lord Gregory Goldenhew](/people/lord-gregory-goldenhew/) — Human Nobleman: Head of the Imperial trade federation

@@ -67,7 +67,7 @@ The city grew fast. Merchant caravans, train cars of construction equipment and 
 
 ## The Interoperability Summit
 
-Spear was one of three Assembly members named by Hayman Maw when the Crimson Sun sent the Unforeseen to the Interoperability Summit in Sharn to find a mole. <small>([City of Knives](/history/city-of-knives/))</small>
+Spear was one of three Assembly members named by [Hayman Maw](/people/hayman-maw/) when the Crimson Sun sent the Unforeseen to the Interoperability Summit in Sharn to find a mole. <small>([City of Knives](/history/city-of-knives/))</small>
 
 > "The assembly members attending that Summit are Lord Gregory Goldenhew, Lord Albert Spear, and Minister Henry Heighrick."
 

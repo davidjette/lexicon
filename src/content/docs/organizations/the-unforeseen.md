@@ -62,7 +62,7 @@ The Unforeseen are also held responsible for the death of [John Stamos](/people/
 
 ## HAYMAN MAW'S TERMS TO LOCKE PIERCE
 
-Hayman Maw's terms to Locke Pierce after the Rekkenmark, as the campaign record has them, were that he could continue his work at Rekkenmark East under Esther Crona's supervision on two conditions: notify Maw the instant the records cracked, and mention absolutely nothing to Esther if anything about [Varyn Crona](/people/varyn-crona/) turned up.
+[Hayman Maw](/people/hayman-maw/)'s terms to Locke Pierce after the Rekkenmark, as the campaign record has them, were that he could continue his work at Rekkenmark East under Esther Crona's supervision on two conditions: notify Maw the instant the records cracked, and mention absolutely nothing to Esther if anything about [Varyn Crona](/people/varyn-crona/) turned up.
 
 The Empire built the alliance and then compartmented it. Esther Crona's master had been killed by the Council she served, and the man in the room who could prove it had been ordered to keep his mouth shut.
 

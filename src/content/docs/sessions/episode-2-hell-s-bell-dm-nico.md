@@ -42,7 +42,7 @@ wa:
 
 ## Summary
 
-Per [Crimson Sun](/organizations/the-crimson-sun/) leader and [Imperial Assembly](/organizations/the-imperial-council-imperial-assembly/) council member Haymen Maw, Esther was to travel with [Uriel Qualanthri](/people/uriel-qualanthri/) and LaBeefe to the old mining camp of Greenbluff. An incident took place in the mine taking the lives of a number of Empire owned slaves. Survivors of the incident reported to have gone "mad" but they have described a sound deep within the mines that shook the walls so violently it caused a cave-in. It was believed that the incident may relate to an ancient relic known to have last been seen in this area.
+Per [Crimson Sun](/organizations/the-crimson-sun/) leader and [Imperial Assembly](/organizations/the-imperial-council-imperial-assembly/) council member [Haymen Maw](/people/hayman-maw/), Esther was to travel with [Uriel Qualanthri](/people/uriel-qualanthri/) and LaBeefe to the old mining camp of Greenbluff. An incident took place in the mine taking the lives of a number of Empire owned slaves. Survivors of the incident reported to have gone "mad" but they have described a sound deep within the mines that shook the walls so violently it caused a cave-in. It was believed that the incident may relate to an ancient relic known to have last been seen in this area.
 
 Once there we met with an Ancient Relic Specialist from the Rekkenmark named [Locke Pierce](/people/locke-pierce/) who is tasked with retrieving the artifact, the [Fantanya (Hells) Nyel (Bell)](/items/the-hell-s-bell-fantanya-nyel/).
 

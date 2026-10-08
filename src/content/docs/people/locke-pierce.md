@@ -112,7 +112,7 @@ He now leads The Hundreds: the Warforged nation of the Mournlands, run out of a 
 
 In the basement of the Rekkenmark, in a standoff with [Esther Crona](/people/esther-crona/) and [Uriel](/people/uriel-qualanthri/), Locke realised he knew who had killed Esther’s master — and could not decrypt it without a key held by an Assembly member or higher. Then he realised the larger thing: with every personal encryption key he collected, he would unlock more and more of the Empire’s secrets, secrets no one else has access to. He took the file on the [Blood of Vol](/organizations/blood-of-vol/) apart in downtime because it sat at a lower tier than the Imperial secrets, and what came out of it was the cult, Project Godseed, the Emperor’s complicity, and Gabrielle Duin’s personal letters. That was the low-security material.
 
-Hayman Maw allowed him to keep working at Rekkenmark East under Esther Crona’s supervision on one condition: notify Maw the instant the records cracked, and say absolutely nothing to Esther if anything about [Varyn Crona](/people/varyn-crona/) turned up.
+[Hayman Maw](/people/hayman-maw/) allowed him to keep working at Rekkenmark East under Esther Crona’s supervision on one condition: notify Maw the instant the records cracked, and say absolutely nothing to Esther if anything about [Varyn Crona](/people/varyn-crona/) turned up.
 
 <small>Locke uncovered info about his past, not shared with the group.</small>
 

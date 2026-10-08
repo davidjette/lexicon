@@ -46,7 +46,7 @@ gallery:
 
 *Also known as:* *separately and unresolvedly, the name of a dragon.*
 
-The Crimson Sun is the Empire's secret service, seated at Korth — a limited, elite order of Masters and apprentices, mostly Knights, Paladins or Sorcerers, working as spies and rebel hunters, whose Master sits on the Imperial Council by right. It was led by [Varyn Crona](/people/varyn-crona/), sworn protector to three Emperors under the title Eternal Guardian, until his assassination; Hayman Maw holds the Master's chair after him, and the order's most famous High Inquisitor, [Esther Crona](/people/esther-crona/), is three years dead in Sharn. The same three words separately name a dragon, who fathered a child on Erandis Vol, and the connection between the two usages is unresolved.
+The Crimson Sun is the Empire's secret service, seated at Korth — a limited, elite order of Masters and apprentices, mostly Knights, Paladins or Sorcerers, working as spies and rebel hunters, whose Master sits on the Imperial Council by right. It was led by [Varyn Crona](/people/varyn-crona/), sworn protector to three Emperors under the title Eternal Guardian, until his assassination; [Hayman Maw](/people/hayman-maw/) holds the Master's chair after him, and the order's most famous High Inquisitor, [Esther Crona](/people/esther-crona/), is three years dead in Sharn. The same three words separately name a dragon, who fathered a child on Erandis Vol, and the connection between the two usages is unresolved.
 
 ## WHERE THE FILE CAME FROM
 

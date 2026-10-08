@@ -101,7 +101,7 @@ She believes a city that is still trading is a city that has not yet lost. She b
 **Contacts & Relations:**
 
 - **Torralyn d'Sivis** — fellow elder of the banned house, head of the Notaries Guild, and the other gnome the Empire cannot quite reach. Alive.
-- **The Crimson Sun** — has had her marked for some time and has not been able to act. The order's leadership passed from Varyn Crona to Hayman Maw during that time.
+- **The Crimson Sun** — has had her marked for some time and has not been able to act. The order's leadership passed from Varyn Crona to [Hayman Maw](/people/hayman-maw/) during that time.
 - **The Emperor** — has decided, so far, that she is worth more alive than her secrets are worth suppressed.
 - **The landowners, businesses and Imperial forces of Sharn** — all of them use her as a broker, and all of them are her cover.
 - **The Rebel Alliance** — she is a likely leader of it. No source names the cell or the chain of command.
