@@ -56,6 +56,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-09-11'
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person
@@ -156,6 +158,8 @@ He promised them a little present, inserted directly behind the eye, that would 
 
 ## His daughters
 
+His harvested sperm produced four daughters by four different mothers: [Esther Crona](/people/esther-crona/), [Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/). Nine years before the present he had [Greenish Hughes](/people/greenish-hughes/) call all four to his manor in [Newham](/places/newham/), where [Sister Nora](/people/sister-nora/) of the local Black Dove hospital confirmed their blood relation.
+
 Sister Nora of the Black Doves named them under questioning: [Blair](/people/blair/) , [Eden](/people/eden/) and [Faith](/people/faith/) are all his, and all half-sisters to [Esther Crona](/people/esther-crona/).
 
 Esther is his daughter too. His tiefling daughters are part mind flayer, and in Sharn they served as Esther's deadly agents. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
@@ -229,4 +233,3 @@ The Clamshell Casino. Nothing kept.
 
 
 ![John C. LeBeefe - True Form.png](/images/uploads/john-c-lebeefe-true-form-mu65gwvi.webp)
-
