@@ -38,6 +38,8 @@ sources:
 - worldanvil/sources/site/mission-board.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: dr-joanne-menka-person
@@ -75,7 +77,7 @@ Under her leadership, BioTec has advanced the Empire's capabilities in [chip enh
 
 To the public, Dr. Menka represents the face of BioTec's innovation, a scientist whose intellect and rigor have secured her place among the Empire's most respected minds. Her legacy is defined not by warmth or charisma, but by the authority of her work and the lasting impact of her discoveries in service to the Empire.
 
-What that work is: Project E.D.E.N., BioTec's secret hybridization program, overseen by Dr. Joanne Menka, dedicated to creating undead-warforged supersoldiers by fusing humanoid bodies with warforged cybernetics. She oversees it. She maintains the units.
+What that work is: Project E.D.E.N., BioTec's secret hybridization program, overseen by Dr. Joanne Menka, dedicated to creating undead-warforged supersoldiers by fusing humanoid bodies with warforged cybernetics. She oversees it. She maintains the units. She was one of the founding circle of Project E.D.E.N., with Esther Crona, Sister Nora, [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), [Malrik Zeir](/people/malrik-zeir/), [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) and Dr. Edwin Graves, and led its scientific research and experimentation.
 
 ## Competence and Circle
 
@@ -103,6 +105,8 @@ No account of her life before BioTec has reached rebel hands. She enters the rec
 
 In Nico's notes Menka was formerly a colleague of Fema Nolan, and she was one of the few people present when Esther Crona brought her half-sister [Eden](/people/eden/) to the Black Dove Hospital four years before the Sharn arc: Esther, Sister Nora, Menka and two Black Dove clerics were the only ones there, and the only ones who know exactly what happened to Eden. <small>(Nico's DM notes, Episode 2)</small>
 
+She monitored the decay during the rite performed on Eden.
+
 ## The Breach
 
 The night the Ghost Chip was stolen, three hybrid units were released in a corridor by a panicking scientist and the intruders barely escaped. Menka was furious about it at the POSÉ opening the following evening — Sister Nora tried to calm her with the line that "the souls lost last night will be added to the eternal nightfall," and Menka ignored her entirely. Then she found the Lord Commander:
@@ -114,6 +118,8 @@ The night the Ghost Chip was stolen, three hybrid units were released in a corri
 > **Menka:** "Yes, my Lady."
 
 <small>She lost a senior scientist and led with the technician's name.</small>
+
+At POSÉ she reported the BioTec breach and Martin Kross's disappearance to Esther, who answered: "Clean the mess. Contain the story. And find Kross."
 
 ## Posé, in Nico's notes
 
