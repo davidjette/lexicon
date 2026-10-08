@@ -52,6 +52,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-07-13"
 - "Oral Histories: The Inevitables, 2026-08-22"
 - "Oral Histories: The Inevitables, 2026-08-23"
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: emperor-caius-iii-person
@@ -133,6 +135,8 @@ Armhair's reconstruction replaces the dynasty with one continuous occupant. A dr
 Dave: "Crona summoned all that power to craft the Crimson Sun and summon the Mourning all to protect and coronate Caius III". <small>(Oral Histories: The Inevitables, 2026-07-08)</small> The elves have had designs on Eberron since they first came to it, and were defeated the last time, with House Vol. "Caius is the new house of vol and he and the Elves have made an empire, but the elves were ready to betray him, because they've been at it for a long time and have plans measured in centuries." <small>(Oral Histories: The Inevitables, 2026-07-13)</small> Dave: "What's clear is Kaius was clearly a key leader of this effort, and he had a whole host of evlish houses working to make him emperor" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-08-22)</small> The Council "turned on Varyn Crona and the long term plan". <small>(Oral Histories: The Inevitables, 2026-08-23)</small> Whether Kaius knew of and directed the Council's murder of Crona is not known. <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
 In the throne room at Korth, Kaius was to tell [Esther Crona](/people/esther-crona/) that Varyn Crona had been a loyal warrior, charge her to avenge his death, and hint that she might one day take Varyn's place. <small>(Nico's DM notes, Episode 9)</small>
+
+In his throne room Kaius reminded Esther Crona of Varyn's loyalty and gave her leave to hunt down the members of the [Council of 13](/organizations/the-council-of-13/) responsible for Varyn's death. He charged her with avenging Varyn and told her that she might one day take Varyn's place.
 
 After Esther killed the Council and the Emperor took power, "he was also subdued by Uriel and made into a broodstallion". <small>(Oral Histories: The Inevitables, 2026-08-22)</small> Dave: "I think the Unforeseen got the better of him" / "after the Giants War" / "no one saw them coming". <small>(Oral Histories: The Inevitables, 2026-07-13)</small>
 
