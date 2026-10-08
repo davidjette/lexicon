@@ -145,6 +145,10 @@ Richard may have believed for a long time that nothing more would ever come of h
 
 A few months after [Uriel Qualanthri](/people/uriel-qualanthri/) married [Emperor Kaius III](/people/emperor-caius-iii/), Richard and Esther married in a small private ceremony at their lake house outside [Korth](/places/korth/). Uriel attended, as did [John C. LeBeefe](/people/john-c-lebeefe/); the wedding was one of the last known occasions on which LeBeefe was seen publicly before withdrawing from ordinary Imperial life.
 
+
+![Esther and Richards Wedding - With Ureil and LeBeefe - Lake House.png](/images/uploads/esther-and-richards-wedding-with-ureil-a-mv0228ck.webp)
+*Esther and Richards Wedding - With Ureil and LeBeefe - Lake House*
+
 After the marriage, Richard and Esther relocated to [Sharn](/places/sharn/). Esther rose further through the Imperial hierarchy and created the [Iron Veil](/organizations/the-iron-veil/), eventually becoming Lord Commander of the Imperial Military. Richard continued expanding his restaurant business, becoming one of the most recognizable chefs in Khorvaire while quietly maintaining the Fulcrum network beneath that public success.
 
 Their marriage was not simply political cover. Richard and Esther were affectionate, comfortable with one another and genuinely proud of the life they had built. Esther never discovered that her husband was a founder of Fulcrum, even while Richard continued passing intelligence from within her household to the rebellion.
