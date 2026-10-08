@@ -33,6 +33,8 @@ sources:
 - sources/site/mission-board.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/key-figures.txt
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-children-of-ember-organization
@@ -60,7 +62,7 @@ gallery:
 
 **Cult · The Vault Underground, Upper City Sharn · Leadership destroyed**
 
-The Children of Ember were a secretive cult of masked cultists based in the private Zeir residence attached to [the Vault Underground](/places/the-vault-underground/) in Upper City Sharn, led by [Faith Zeir](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/). They abducted civilians, drugged them, and used them as "blood cattle" for Malrik's monstrous feeding rituals, and their doctrine centred on "Ember" — [Calcifer](/people/calcifer/), the son of [Esther Crona](/people/esther-crona/) and [Richard Blaze](/people/richard-blaze/), whom they believed bore a divine mark. They were unknown to every major faction until the trio's infiltration exposed their sanctum, freed captives and took key documents. Every named leader of the cult died within an hour of each other in the assault that followed, and the surviving masked faithful have not been heard from since.
+The Children of Ember were a secretive cult of masked cultists based in the private Zeir residence attached to [the Vault Underground](/places/the-vault-underground/) in Upper City Sharn, led by [Faith Zeir](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/). They abducted civilians, drugged them, and used them as "blood cattle" for Malrik's monstrous feeding rituals, and their doctrine centred on "Ember" — [Calcifer](/people/calcifer/), the son of [Esther Crona](/people/esther-crona/) and [Richard Blaze](/people/richard-blaze/), whom they believed bore a divine mark. At the grand opening of [POSÉ](/places/pose/), Faith and Malrik's Children of Ember deliberately provoked the Cogborn protest into violence and ordered the shot that killed [Candice Kurt](/people/candice-kurt/). They were unknown to every major faction until the trio's infiltration exposed their sanctum, freed captives and took key documents. Every named leader of the cult died within an hour of each other in the assault that followed, and the surviving masked faithful have not been heard from since.
 
 <small>Rebel mission board, posted between the Vault Below raid and the Vault Underground assault. Risk was rated Extreme: if recognized, the trio would be targeted for abduction or elimination. Standing order until Jessica made contact: avoid all contact.</small>
 
@@ -83,6 +85,8 @@ The Vault Underground operates publicly as a normal Upper-City club with regular
 The Children of Ember are a small, silent group of masked cultists who follow Faith's orders and participate in ritual activity. They believe in and worship "Ember" — Calcifer, whom they consider a prophesied figure: the son of Esther Crona and Richard Blaze, whom they believe bears a divine mark.
 
 > "They believe in and worship Ember — Calcifer, whom they consider a prophesied figure."
+
+Esther did not know the cult existed or that it had plans for Calcifer.
 
 The recruiters, however, are not cultists. They are wealthy men from across Khorvaire who traffic young people to Malrik, trade captives, and treat the Zeir residence as a private den when visiting.
 
