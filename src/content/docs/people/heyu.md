@@ -66,6 +66,7 @@ sources:
   - "Oral Histories: The Inevitables, 2026-04-26"
   - sources/sessions/dead-mans-hand-2026-09-26-summary.md
   - sources/dave/2026-09-28-dead-mans-hand-skullport.md
+  - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
 ---
 
@@ -117,7 +118,7 @@ The Factol is [Brother Montegue](/people/brother-montegue/), Factol of the Facel
 >
 > <small>Brother Montegue (DM notes)</small>
 
-His gift for Heyu is a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box made to store the Deck of Many Things, which hides its contents from magic. <small>(DM notes)</small>
+His gift for Heyu is a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box which hides its contents from magic. It was not designed for the Deck of Many Things, but it has the right size and features to hold it, and it is probably one of the original cubes, passed on by the Factol of the Sororia for that purpose. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> <small>(DM notes)</small>
 
 ## Waterdeep
 

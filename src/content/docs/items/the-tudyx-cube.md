@@ -34,7 +34,7 @@ fields:
   type: Puzzle box
   rarity: Once produced in quantity in Cormanthor
   creator: Dae, the Infanta of Puzzles; produced by Queen Alen Tudyx
-  status: One was carried by Kara and opened in the deep past; one is held by Heyu
+  status: One was carried by Kara and opened in the deep past; one, probably an original, is held by Heyu
 sources:
 - sources/dave/2026-10-08-tudyx-cube-spine.md
 - sources/dave/2026-09-14-dead-mans-hand-breakout.md
@@ -56,11 +56,11 @@ published: '2026-09-14'
 
 *Also known as:* the Tudix Cube
 
-The **Tudyx Cube** is a puzzle box of a design invented in the first age of the [Infanta](/lore/the-infanta/) by Dae, the Infanta of Puzzles, and produced in quantity by Dae's adoptive mother, Queen [Alen Tudyx](/people/alen-tudyx/) of Cormanthor. The boxes became popular in Cormanthor and took the name of her house. One of them, a silver-filigreed box that [Kara](/people/kara/) took from the quarters of [Wainwright St. Cloud](/people/wainwright-st-cloud/) aboard the [Arielle](/items/the-arielle/), carried a perfect moonstone through about 65 million years and gave the party the Perfect Dark stone that lets [the Anachron](/items/the-anachron/) travel in time. Another, meant to hold [the Deck of Many Things](/items/the-deck-of-many-things/), was given to [Heyu](/people/heyu/) in [Dead Man's Hand](/lore/dead-mans-hand/). <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
+The **Tudyx Cube** is a puzzle box of a design invented in the first age of the [Infanta](/lore/the-infanta/) by Dae, the Infanta of Puzzles, and produced in quantity by Dae's adoptive mother, Queen [Alen Tudyx](/people/alen-tudyx/) of Cormanthor. The boxes became popular in Cormanthor and took the name of her house. One of them, a silver-filigreed box that [Kara](/people/kara/) took from the quarters of [Wainwright St. Cloud](/people/wainwright-st-cloud/) aboard the [Arielle](/items/the-arielle/), carried a perfect moonstone through about 65 million years and gave the party the Perfect Dark stone that lets [the Anachron](/items/the-anachron/) travel in time. Another, probably one of the originals, was given to [Heyu](/people/heyu/) in [Dead Man's Hand](/lore/dead-mans-hand/). <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Description
 
-The cube hides its contents from magic. In the DM's notes for Dead Man's Hand it is drawn as a cube within a cube, with an arrow to Brother Montegue's magic word, "STONE". <small>(DM notes)</small> The one aboard the Arielle was a fine silver-filigreed box that could not be opened, and nothing the party tried could discover what was inside it. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
+What is inside a Tudyx Cube cannot be reached from the outside by any means. Its complex puzzle and its materials generate a demiplane, and the only way into that demiplane is to solve the puzzle. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> The cube hides its contents from magic. In the DM's notes for Dead Man's Hand it is drawn as a cube within a cube, with an arrow to Brother Montegue's magic word, "STONE". <small>(DM notes)</small> The one aboard the Arielle was a fine silver-filigreed box that could not be opened, and nothing the party tried could discover what was inside it. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Origin
 
@@ -92,6 +92,6 @@ The Anachron needs a Perfect Dark moonstone to travel in time, and this was the 
 
 ## Heyu's cube
 
-In Dead Man's Hand, [Brother Montegue](/people/brother-montegue/), Factol of the Faceless, gave a Tudyx Cube to Heyu at [Our Lady of Mysteries](/places/our-lady-of-mysteries/) in [Sigil](/places/sigil/). This one is intended to store the Deck of Many Things. He told her: "You bear the mark of the Mother of Mysteries and her sisters. You were meant to bear it, and to hold the Cards. Find them, for her; return this piece of her holy Memory." With the charge he gave her the cube. <small>(DM notes; Dave, sources/dave/2026-09-14-dead-mans-hand-breakout.md)</small>
+In Dead Man's Hand, [Brother Montegue](/people/brother-montegue/), Factol of the Faceless, gave a Tudyx Cube to Heyu at [Our Lady of Mysteries](/places/our-lady-of-mysteries/) in [Sigil](/places/sigil/). It was not designed for the Deck of Many Things, but a Tudyx Cube has the right size and features to hold it. Heyu's cube is probably one of the originals, passed on by the Factol of [the Sororia](/organizations/the-sororia/) for that purpose. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> He told her: "You bear the mark of the Mother of Mysteries and her sisters. You were meant to bear it, and to hold the Cards. Find them, for her; return this piece of her holy Memory." With the charge he gave her the cube. <small>(DM notes; Dave, sources/dave/2026-09-14-dead-mans-hand-breakout.md)</small>
 
 **Related:** [Alen Tudyx](/people/alen-tudyx/) · [Tylerjinex](/people/tylerjinex/) · [The Penteract](/places/the-penteract/) · [The Arielle](/items/the-arielle/) · [The Anachron](/items/the-anachron/) · [The Deck of Many Things](/items/the-deck-of-many-things/) · [Moonstone](/lore/moonstone/) · [The Sororia](/organizations/the-sororia/) · [Fatemarks](/lore/fatemarks/)

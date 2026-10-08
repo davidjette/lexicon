@@ -82,7 +82,7 @@ House Tudyx is one of the five elven houses descended from [the Banefae](/organi
 
 Alen and Peter Glans adopted Dae, the Infanta of Puzzles, in the first age of the Infanta and raised them. Peter had bought a puzzle box in his past and showed it to Dae, who then invented a more difficult and more surprising one. The Queen had Dae's box produced in quantity. It became a popular item in Cormanthor and was known as a Tudyx cube, after the name of her house. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
-Dave: "Yes, its a Tudyx Cube, a puzzle box which is intended to store the deck of many things, the same kind of item which Tylerjynex and Alen Tudyx discovered and began producing with the help of the Infanta of Puzzles, one of which was used to store a Perfect Moonstone, which later was used to power the Anachron". <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-breakout.md)</small> See [the Anachron](/items/the-anachron/).
+One of the cubes was used to store a Perfect Moonstone, which later powered the Anachron. <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-breakout.md)</small> See [the Anachron](/items/the-anachron/).
 
 ## Her death
 

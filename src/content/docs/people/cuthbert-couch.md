@@ -39,6 +39,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 - Desktop/D&D/Temple Holdings LLC/Character Sheets/CS CUTHBERT.pdf
 - worldanvil/sources/infantaverse/Notes__Thomas Stamp Backstory.txt
 - Desktop/D&D/Temple Holdings LLC/1 - Hope in Exile/Hope in Exile - Part IV.docx
@@ -104,6 +105,8 @@ At Grenphal, at Gren's drunkest, Couch produced his gems — all fake — and Gr
 > An army of men and women in rags emerges from the trees and starts setting fire to everything… You and Sadia attempt an escape out the window and across the roof, but there are already people up there, and they knock you both out.
 
 <small>— Thomas Stamp's backstory</small>
+
+At Caer Westphal he and [Kara](/people/kara/) posed as wealthy shareholders of the Company and secured a meeting with St. Cloud before his ship sailed. They were found out, and the chase that followed ended with the party taking [the Arielle](/items/the-arielle/). <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small>
 
 ## Public and private
 

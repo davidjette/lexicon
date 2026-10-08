@@ -37,6 +37,7 @@ sources:
   - CANON.md 5ad
   - CANON.md 5ai (Oral Histories)
   - "Oral Histories: The Inevitables, 2025-11-09"
+  - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
 ---
 
@@ -72,7 +73,7 @@ Heyu was welcomed to an altar bearing a fractal mosaic and a silver candle. Afte
 
 <small>(Brother Montegue, DM notes)</small>
 
-He gives Heyu a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box meant to store the Deck of Many Things, which hides its contents from magic. It is drawn as a cube within a cube. <small>(DM notes)</small>
+He gives Heyu a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box which hides its contents from magic. It was not designed for the Deck of Many Things, but it has the right size and features to hold it. Heyu's cube is probably one of the originals, passed on by the Factol of the Sororia for that purpose. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> It is drawn as a cube within a cube. <small>(DM notes)</small>
 
 **Contacts & Relations:**
 - [Heyu](/people/heyu/): brought before him at Our Lady of Mysteries.

@@ -33,6 +33,7 @@ sources:
 - CANON.md 5ab
 - CANON.md 5ac
 - sources/dave/2026-09-14-heyu-and-feng.md
+- sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
 ---
 
@@ -104,6 +105,6 @@ In Motherstone Hall, on Level 2 of [Undermountain](/places/undermountain/), wher
 
 ## Keeping the cards
 
-A [Tudyx Cube](/items/the-tudyx-cube/) is a puzzle box intended to store the Deck of Many Things. Brother Montegue of the Sororia gave one to [Heyu](/people/heyu/). <small>(Dave; DM notes)</small>
+A [Tudyx Cube](/items/the-tudyx-cube/) is a puzzle box with the right size and features to store the Deck of Many Things, though it was not designed for it. What is inside a Tudyx Cube cannot be reached from the outside by any means. Its complex puzzle and its materials generate a demiplane, and the only way into that demiplane is to solve the puzzle. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> Brother Montegue of the Sororia gave one to [Heyu](/people/heyu/). <small>(Dave; DM notes)</small>
 
 **Related:** [Fatemarks](/lore/fatemarks/) · [Shemeska](/people/shemeska/) · [Jeremiah](/people/jeremiah/) · [Dead Man's Hand](/lore/dead-mans-hand/)
