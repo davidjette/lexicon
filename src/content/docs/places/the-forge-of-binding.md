@@ -33,6 +33,8 @@ sources:
   - sources/site/sharn-episode-summaries.txt
   - sources/site/rebel-factions.txt
   - 'Oral Histories: The Inevitables, 2026-03-29'
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - 'Dave, note of 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: the-forge-of-binding-location
@@ -83,6 +85,8 @@ His form shattered into red-black light, hanging in the air like blood splatter,
 ## The drill
 
 Moments later the ceiling came in. A massive drill — driven down from the great factory in [the Cogs](/places/the-cogs/), where Esther had gone in with General Stockton Thar and a company of frontline Iron Veil — broke through and crashed to the floor, and Esther dropped down onto it and strode toward the extinguished Forge. [Blair](/people/blair/) burst out of a hidden tunnel and pulled the party into an escape passage that came out in the Underhive vault.
+
+The drill broke through into the Forge just as the party fled, at the moment Varyn's Echo was destroyed. At that same moment the red drained from [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/) and it crystallized. Esther could no longer hear or feel Varyn through it.
 
 Esther told Richard Blaze at sunrise the next day that she had been searching for something deep beneath the city, had finally found it, and that once she did it was like a veil had been lifted. Then she left for [Crona's Wall](/places/cronas-wall/).
 
