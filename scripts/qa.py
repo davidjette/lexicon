@@ -289,6 +289,7 @@ KNOWN_GOOD = {
     ('the-bright-dawn-crimson-sun-unbound', 'preview(9).txt'),
     ('varyn-crona', 'preview(9).txt'),
     ('gemma-corso', 'preview.txt'),
+    ('esther-crona', 'preview(1).txt'),
 }
 
 

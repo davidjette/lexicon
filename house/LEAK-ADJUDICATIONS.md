@@ -74,3 +74,12 @@ carries every adjudication above.
   (`sources/dave/2026-09-14-eberron-open-questions.md`). The article paraphrases it as a second account and cites
   Nico's DM notes.
 - **Scope:** this clears only the Gemma paragraph for `gemma-corso`. The rest of `preview.txt` stays DM-only.
+
+## CLEARED 2026-10-07 - `esther-crona` / Sister Nora's transfer to Sharn
+
+- **Flagged shingles:** "newham to sharn and became the head cleric of the", from the sentence saying Sister Nora was
+  transferred from Newham to Sharn and became head cleric of the Sanctum of the Last Mercy.
+- **Verdict: PUBLISH, by the author.** The text exists only in `dmnotes/preview(1).txt`, which is Nico's own Sharn DM
+  document. Nico wrote the sentence into the article herself on 2026-10-07, and her edits carry Dave's authority
+  (Dave, 2026-09-13).
+- **Scope:** this clears only that sentence for `esther-crona`. The rest of `preview(1).txt` stays DM-only.
