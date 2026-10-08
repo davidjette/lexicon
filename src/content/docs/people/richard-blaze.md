@@ -275,6 +275,9 @@ Esther looked first at Richard.
 >
 > "And why are you with my killers?"
 
+![Sharn Ep 18 — The Fall of Esther Crona - Richard Blaze, Calcifer and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-ric-mv031z0z.webp)
+*Richard, Calcifer and Esther confrontation*
+
 For the first time, Esther understood that her husband knew the people she believed had come to kill her. The secret Richard had preserved since the Talenta Plains Express was finally collapsing in front of her.
 
 Richard did not deny what he had done.
