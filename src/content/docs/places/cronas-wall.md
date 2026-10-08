@@ -35,6 +35,8 @@ sources:
   - sources/site/korth-episode-summaries.txt
   - C:/dev/sharn-campaign/npcs.md
   - "JL's DM notes: The Unforeseen Strike Back DM Notes"
+  - Esther Crona, as revised by Nico, 2026-10-07
+  - Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: crona26230393Bs-wall-location
@@ -55,11 +57,13 @@ gallery:
 
 *Also known as:* The Wall
 
-Crona's Wall was a massive barrier of force, mythal-like in construction, raised across the Empire's western frontier to hold and push back the **Uruk-Hoth Republic**. It was maintained continuously by high-level Iron Veil wizards and casters stationed out of **Fort Crona** and along the Wall itself, and it was named for the Lord Commander whose western campaign it made possible. It collapsed in the three years after the fall of Sharn, opening the Eldeen Reaches to the Orc forces it had held back.
+Crona's Wall was a massive barrier of force, mythal-like in construction, raised across the Empire's western frontier to hold and push back the **Uruk-Hoth Republic**. It was maintained continuously by high-level Iron Veil wizards and casters stationed out of **Fort Crona** and along the Wall itself, and it was named for the Lord Commander whose western campaign it made possible. [Esther Crona](/people/esther-crona/) oversaw its construction and maintenance as Lord Commander. The Wall was sustained with [Red Khyber](/items/red-khyber/) extracted from the [Mournlands](/places/the-mournland/) by [Project E.D.E.N.](/organizations/project-e-d-e-n/) units. It collapsed in the three years after the fall of Sharn, opening the Eldeen Reaches to the Orc forces it had held back.
 
 ## Command
 
 The Wall's lynchpin was **General Stockton Thar**, an Eldeen Reaches native and Dark Druid who commanded the Iron Veil's ground forces on the western front. Thar combined brutality, druidic rites and military doctrine, and is thought to bear the rare **Mark of Finding**.
+
+The soldiers stationed on the Wall were the [Iron Veil](/organizations/the-iron-veil/)'s Frontliners. They were heavily trained war soldiers, and many could cast spells. Esther could bring them into Sharn when something demanded serious military force.
 
 ## What it cost
 
