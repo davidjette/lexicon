@@ -43,6 +43,8 @@ sources:
 - worldanvil/sources/site/home.txt
 - "Oral Histories: The Inevitables, 2026-04-04"
 - sources/documents/2026-09-14-nico-sharn-hopper.md
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: dr-edwin-graves-person
@@ -86,7 +88,7 @@ Circuit City is the largest building on Gear Street, in the busiest commercial a
 
 Publicly: the owner of a chip parlour. A doctor, a ratepayer, a landlord, a man who nodded to people in Gear Street Market.
 
-Privately: behind this façade, Graves lived a second life. He was the secret owner of BioTec, controlling the corporation through shell companies and inherited assets, including the estate of Cob Cornwell. From this position he directed the body-supply pipeline for Project EDEN, using Circuit City as the entry point to a hidden laboratory behind the shop. The Cogborn whispered of a killer they called the Cog Collector; none knew the culprit was the quiet man who walked past them each day in Gear Street Market.
+Privately: behind this façade, Graves lived a second life. He was the secret owner of BioTec, controlling the corporation through shell companies and inherited assets, including the estate of Cob Cornwell. From this position he directed the body-supply pipeline for Project EDEN, using Circuit City as the entry point to a hidden laboratory behind the shop. He was one of the founding circle of Project E.D.E.N., with [Esther Crona](/people/esther-crona/), [Sister Nora](/people/sister-nora/), [Dr. Joanne Menka](/people/dr-joanne-menka/), [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), [Malrik Zeir](/people/malrik-zeir/) and [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/). As BioTec's private owner he provided its facilities, personnel, technology and Cogborn corpses for the assembly and augmentation of the E.D.E.N. units. The Cogborn whispered of a killer they called the Cog Collector; none knew the culprit was the quiet man who walked past them each day in Gear Street Market.
 
 ## The Secret
 
