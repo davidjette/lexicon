@@ -32,6 +32,8 @@ sources:
 - sources/site/ebt-7.txt
 - sources/site/mission-board.txt
 - worldanvil/CANON.md
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-iron-veil-organization
@@ -70,6 +72,18 @@ Their headquarters is a towering monolith in the Upper City, a brutalist arcane-
 
 Iron Veil soldiers stationed in Sharn represent the elite enforcement arm of Esther Crona's command; disciplined, heavily trained, and unmistakable in their presence. Clad in dark, angular armor marked with the crimson Iron Veil insignia, they operate as a hybrid of military police and covert security, maintaining order in key districts and safeguarding Veil-controlled infrastructure such as the Skyports and transit hubs. Their ranks in Sharn are known for precision, restraint, and an almost ritualistic loyalty, making them both respected and quietly feared throughout the city's towering streets. They are often seen patrolling the city with **Iron Veil Patrol Beast**.
 
+## THE PACT
+
+When Esther Crona took command she dissolved the Sharn City Watch and replaced it with the Iron Veil. The pact was a military contract enforced by Imperial law and magic. It was not religious, infernal or demonic. Soldiers signed in ink and blood and underwent a brief ritual that anchored the pact through a Veil Mark.
+
+The pact granted standardized warlock abilities and reinforced discipline and loyalty. Over time it could erode individuality, emotional range and the ability to question orders.
+
+A soldier who broke the pact lost its magic and became an oathbreaker hunted by the Empire.
+
+### Patrols and Frontliners
+
+Sharn patrols were largely former City Watch. Frontliners were the heavily trained soldiers stationed at [Crona's Wall](/places/cronas-wall/). Esther Crona could bring them into the city.
+
 ## THE ARCANE EYE SECURITY NETWORK
 
 **Implementation:** roughly ten years ago. **Operational control:** the Iron Veil, Sharn Division. **Head of Security:** [Hillary Heinrick](/people/hillary-heinrick/).
@@ -93,6 +107,8 @@ Once a ranger patrolling the farmlands between Sharn and Zilspar in Breeland, Iz
 A peaceful protest in the Upper City erupted into a deadly riot when an explosion tore through the crowd. The Iron Veil's retaliation was swift and merciless. R.U.S.T. lost twenty-one members; the Cogborn community lost forty-three civilians — workers, elders, parents and children. Esther Crona's public executions that followed sent shockwaves through the Cogs, and the Iron Veil used the chaos as justification to flood the district with soldiers. Raids, searches and forced removals intensified overnight.
 
 The Veil seized the factories, replaced Cogborn labour with trained soldiers and tightened its grip on the undercity until the Cogborn were trapped beneath their own city with their exits sealed. <small>Evacuating them through the Underhive is what put the Inevitables in the same room as Blair, and eventually in the same room as Esther.</small>
+
+Esther Crona also outlawed all Warforged in Sharn. The Iron Veil seized the factories and replaced Warforged labor with soldiers.
 
 ## THE WESTERN COMMAND
 
