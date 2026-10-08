@@ -171,6 +171,9 @@ Richard continued building his restaurant empire throughout his marriage. His bu
 
 The restaurants served two purposes without either one being false. Richard genuinely loved cooking and hospitality, and his businesses made him wealthy and famous. At the same time, kitchens, deliveries, suppliers and restaurant accounts gave Fulcrum an enormous legitimate network through which people and resources could move. Richard's greatest cover was that he actually was the man everyone believed him to be; he simply had another life underneath it.
 
+![Sharn Ep 2 — POSÉ -Esther, Richard and Calcifer - Upper City Sharn 2.png](/images/uploads/sharn-ep-2-pose-esther-richard-and-calci-mv02dd2r.webp)
+*Esther, Richard and Calcifer at the POSÉ grand opening*
+
 At the grand opening of [POSÉ](/places/pose/), Richard appeared publicly with Esther and Calcifer as an affectionate family. Calcifer ran through the kitchen "helping" his father, Richard greeted Esther with a kiss, and Esther watched their son playing and told him, "He's happy. He loves the kitchen." Hours later, violence surrounding the Cogborn protest would begin pulling those separate worlds together.
 
 ---
