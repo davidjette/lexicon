@@ -77,7 +77,7 @@ gallery:
 
 <small>Also known as: the ghost founder · Fulcrum's hidden architect</small>
 
-**Richard Blaze** is a male tiefling chef and restaurateur, forty-five years old, one of Khorvaire's most celebrated cooks and the concealed fourth founder of [Fulcrum](/organizations/fulcrum/). Born in the [Demon Wastes], he was captured as a child, dragged in chains to [Newham](/places/newham/) and sold into kitchen labor. Cooking became his means of survival, then his freedom, and eventually his path to wealth and fame.
+**Richard Blaze** is a male tiefling chef and restaurateur, forty-five years old, one of Khorvaire's most celebrated cooks and the concealed fourth founder of [Fulcrum](/organizations/fulcrum/). Born in the Demon Wastes, he was captured as a child, dragged in chains to [Newham](/places/newham/) and sold into kitchen labor. Cooking became his means of survival, then his freedom, and eventually his path to wealth and fame.
 
 In Newham he met [Digma Beeve](/people/digma-beeve/), a halfling furniture dealer who was the first person to treat him as a man rather than property. Digma whispered of rebellion, and Richard listened. His restaurants eventually became more than kitchens. They became lifelines carrying money, supplies and intelligence through the Empire hidden in plain sight.
 
@@ -99,21 +99,13 @@ In truth, Richard survived the fall of [Sharn](/places/sharn/) and disappeared w
 
 ## Origin
 
-Richard was born in the [Demon Wastes], a child taken during an Imperial raid and transported in chains to [Newham](/places/newham/).
+Richard was born in the Demon Wastes, a child taken during an Imperial raid and transported in chains to [Newham](/places/newham/).
 
-He was sold into kitchen labor.
-
-He learned to cook because he had to.
-
-He became indispensable because he was good.
-
-Eventually his culinary skill bought him his freedom.
+He was sold into kitchen labor. He learned to cook because he had to. He became indispensable because he was good. Eventually his culinary skill bought him his freedom.
 
 From there he built a restaurant empire across Khorvaire, accumulating wealth, fame and influence until Richard Blaze became a household name.
 
-But wealth never erased where he came from.
-
-Richard never forgot the chains.
+But wealth never erased where he came from. Richard never forgot the chains.
 
 He never forgot who had put them on him.
 
@@ -153,13 +145,7 @@ The fourth founder was Richard Blaze.
 
 His name was deliberately kept out of the records.
 
-Richard's restaurants became Fulcrum's arteries.
-
-Money flowed through them.
-
-Supplies moved through them.
-
-Messages were concealed inside menus and supply chains.
+Richard's restaurants became Fulcrum's arteries. Money flowed through them. Supplies moved through them. Messages were concealed inside menus and supply chains.
 
 People could travel through his business network without appearing to travel for the rebellion at all.
 
@@ -205,25 +191,13 @@ The train was also carrying the [Fantanya Nyel](/items/the-hell-bell-fantanya-ny
 
 The Imperial team securing the train was [the Unforeseen](/organizations/the-unforeseen/): [Esther Crona](/people/esther-crona/), [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/).
 
-The train became a battlefield.
+The train became a battlefield. Lady Glow escaped. Stamos did not.
 
-Lady Glow escaped.
-
-Stamos did not.
-
-Richard watched his friend die.
-
-He did not reveal himself.
-
-He maintained his cover while [John C. LeBeefe](/people/john-c-lebeefe/) killed Stamos.
+Richard watched his friend die. He did not reveal himself. He maintained his cover while [John C. LeBeefe](/people/john-c-lebeefe/) killed Stamos.
 
 The Empire announced that Lady Glow had been responsible for the death of the beloved actor during a rebel terrorist attack.
 
-A statue was later raised to Stamos in Korth.
-
-Richard knew the story was a lie.
-
-He said nothing.
+A statue was later raised to Stamos in Korth. Richard knew the story was a lie. He said nothing.
 
 The same journey introduced him to Esther Crona.
 
@@ -243,9 +217,7 @@ Richard later described him as the heart of the original Fulcrum cell.
 
 His death remained one of the great sources of Richard's guilt.
 
-Richard could have broken cover.
-
-He did not.
+Richard could have broken cover. He did not.
 
 He chose the rebellion's survival over saving his friend.
 
@@ -257,9 +229,7 @@ He has never claimed that it was the right choice.
 
 Richard met [Esther Crona](/people/esther-crona/) on the same lightning-rail journey in which [John Stamos](/people/john-stamos/) was killed.
 
-They met as enemies.
-
-Years later, they fell in love.
+They fell in love.
 
 They married.
 
@@ -289,19 +259,11 @@ Publicly Richard was the Empire's favourite chef: wealthy, charming, successful,
 
 Privately he was [Fulcrum's](/organizations/fulcrum/) hidden financier, smuggler and logistical architect.
 
-His restaurants gave him legitimate reasons to travel throughout Khorvaire.
-
-His wealth funded the rebellion.
-
-His supply networks moved resources.
+His restaurants gave him legitimate reasons to travel throughout Khorvaire. His wealth funded the rebellion. His supply networks moved resources.
 
 His access to [Esther Crona](/people/esther-crona/) gave him access to military information that he quietly passed to Fulcrum.
 
-Esther believed he shared her loyalty to the Empire.
-
-She never discovered the full truth.
-
-Richard maintained both lives in the same household for years.
+Esther believed he shared her loyalty to the Empire. She never discovered the full truth. Richard maintained both lives in the same household for years.
 
 ---
 
