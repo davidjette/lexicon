@@ -38,6 +38,7 @@ sources:
   - C:/dev/sharn-campaign/factions.md
   - C:/dev/sharn-campaign/session-2026-08-28-summary.md
   - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+  - 'Esther Crona, as revised by Nico, 2026-10-07'
 published: '2026-09-10'
 wa:
   slug: zilspar-location
