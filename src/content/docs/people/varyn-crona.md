@@ -28,7 +28,7 @@ fields:
   children: None recorded
   residence: Crona Manor, Korth (willed to Esther Crona)
   gender: Male
-  age: Roughly 56 human years at death
+  age: 563 Years
   eyes: Unknown
   hair: Unknown
   skin: Unknown
