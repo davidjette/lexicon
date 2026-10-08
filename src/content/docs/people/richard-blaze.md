@@ -112,6 +112,10 @@ Only Digma, Fema and Stamos originally knew the truth about Richard. [Jessica Gr
 
 Richard's life changed during the attempted Fulcrum operation aboard the Talenta Plains Express. He was travelling from [Newham](/places/newham/) toward [Korth](/places/korth/) while Fulcrum agents aboard the same train attempted to seize the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), an artifact being transported under Imperial protection. Among the Imperial operatives defending it were [Esther Crona](/people/esther-crona/), [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/) of [the Unforeseen](/organizations/the-unforeseen/).
 
+
+![Episode 3 (a,b,c) - Massacre on the Talenta Plains Express - Richard Blaze and Esther Crona's first meeting.png](/images/uploads/episode-3-a-b-c-massacre-on-the-talenta-muzz5a9q.webp)
+*Richard and Esther first meeting*
+
 When the operation collapsed, Richard did not reveal himself. He remained in character as an uninvolved restaurateur even while Fulcrum members around him were exposed. He watched his friend and fellow founder [John Stamos](/people/john-stamos/) die and did nothing that would compromise his cover. The choice remained one of the great sources of guilt in Richard's life, but it also left him completely unsuspected.
 
 That same day he met Esther. She had no idea Richard was connected to the rebels on the train, and his refusal to expose himself allowed him to appear trustworthy in her eyes. What began as an accidental meeting soon became useful to Fulcrum: Richard had found himself close to an exceptionally powerful Imperial operative.
