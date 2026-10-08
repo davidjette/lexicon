@@ -73,723 +73,345 @@ gallery:
     caption: Richard Blaze, a horned man with a trim beard in a long dark coat and red scarf, gestures with an open hand.
 ---
 
-**Male Tiefling · Chef and Restaurateur · Hidden Founder of [Fulcrum](/organizations/fulcrum/) · Alive · Location Unknown**
+**Male Tiefling · Celebrity Chef and Restaurateur · Bard / Sorcerer (Draconic Bloodline — Red Dragon / Fire) · Hidden Founder of [Fulcrum](/organizations/fulcrum/) · Officially Deceased · Alive, Location Unknown**
 
-<small>Also known as: the ghost founder · Fulcrum's hidden architect</small>
+<small>Also known as: Richard · Chef Blaze · Fulcrum</small>
 
-**Richard Blaze** is a male tiefling chef and restaurateur, forty-five years old, one of Khorvaire's most celebrated cooks and the concealed fourth founder of [Fulcrum](/organizations/fulcrum/). Born in the Demon Wastes, he was captured as a child, dragged in chains to [Newham](/places/newham/) and sold into kitchen labor. Cooking became his means of survival, then his freedom, and eventually his path to wealth and fame.
+**Richard Blaze** is a male tiefling chef, restaurateur, Bard and Draconic Bloodline Sorcerer, one of the hidden founders of [Fulcrum](/organizations/fulcrum/), husband of [Esther Crona](/people/esther-crona/) and father of [Calcifer](/people/calcifer/). Born in the Demon Wastes and brought to [Newham](/places/newham/) as a slave, Richard learned to cook in captivity and eventually turned that skill into freedom, wealth and one of the most successful restaurant businesses in Khorvaire.
 
-In Newham he met [Digma Beeve](/people/digma-beeve/), a halfling furniture dealer who was the first person to treat him as a man rather than property. Digma whispered of rebellion, and Richard listened. His restaurants eventually became more than kitchens. They became lifelines carrying money, supplies and intelligence through the Empire hidden in plain sight.
+Behind the celebrity image, Richard spent decades supporting the rebellion. His restaurants and supply networks moved money, supplies and intelligence for [Fulcrum](/organizations/fulcrum/) while his public reputation allowed him to move through Imperial society without suspicion. His greatest and most dangerous source of information eventually became his own wife. Richard genuinely loved Esther, even as he secretly passed what he learned from her to the resistance.
 
-Richard built a life around two identities.
+For years he believed those two lives could remain separate. That changed when [Grady Marsh](/people/grady-marsh/)'s memory revealed what had happened to Calcifer at birth, investigations into [Varyn Crona](/people/varyn-crona/) and the [Forge of Binding](/places/the-forge-of-binding/) deepened, and the [Children of Ember](/organizations/the-children-of-ember/) emerged with plans centered on Richard's son.
 
-To the public, he was a beloved celebrity chef.
-
-In secret, he was Fulcrum.
-
-He was also the husband of [Esther Crona](/people/esther-crona/), former Lord Commander of the Imperial Military, and the father of their son [Calcifer](/people/calcifer/).
-
-For years, he lived inside the household of the woman he secretly worked to oppose.
-
-He is now officially dead.
-
-In truth, Richard survived the fall of [Sharn](/places/sharn/) and disappeared with Calcifer.
+Richard is officially dead. The public believes he and Calcifer were killed during the Children of Ember attack that interrupted their departure from [Sharn](/places/sharn/). In reality, father and son survived and eventually disappeared under a cover story constructed by [Digma Beeve](/people/digma-beeve/). Their current location is unknown.
 
 ---
 
-## Origin
+## Early Life
 
-Richard was born in the Demon Wastes, a child taken during an Imperial raid and transported in chains to [Newham](/places/newham/).
+Richard was born in the **Demon Wastes** and taken as a child during an Imperial raid. He was transported in chains to [Newham](/places/newham/) and sold into kitchen labor, growing up as property rather than as a free person. Cooking began as work forced upon him, but he developed an extraordinary talent for it. In his own telling, food became his weapon: he cooked his way into freedom, then into money, reputation and eventually fame.
 
-He was sold into kitchen labor. He learned to cook because he had to. He became indispensable because he was good. Eventually his culinary skill bought him his freedom.
-
-From there he built a restaurant empire across Khorvaire, accumulating wealth, fame and influence until Richard Blaze became a household name.
-
-But wealth never erased where he came from. Richard never forgot the chains.
-
-He never forgot who had put them on him.
-
----
-
-## Digma
-
-In his youth in [Newham](/places/newham/), Richard met [Digma Beeve](/people/digma-beeve/).
-
-Digma was the first person to treat Richard as a man rather than a slave.
-
-He became Richard's first friend.
-
-He also became the first person to whisper to him about rebellion.
-
-Richard listened.
-
-Their friendship became the beginning of [Fulcrum](/organizations/fulcrum/).
-
-Together they later met [Fema Nolan](/people/zero-one-fema-nolan/) and [John Stamos](/people/john-stamos/), and the four eventually founded the original Fulcrum cell.
-
-Digma provided cover and contacts.
-
-Richard built the infrastructure.
-
-Their partnership became the foundation of the rebellion.
+It was during his years in Newham that Richard met [Digma Beeve](/people/digma-beeve/), a halfling furniture trader who became the first person Richard remembered treating him as a man rather than as property. Digma quietly spoke to him about resistance to the Empire, and Richard listened. Their friendship became the beginning of something much larger than either man's business.
 
 ---
 
 ## Fulcrum
 
-[The Fulcrum](/organizations/fulcrum/) became one of the oldest rebel networks in existence, centered among the Breland farmsteads outside [Sharn](/places/sharn/) and around Zilspar.
+Richard and [Digma Beeve](/people/digma-beeve/) eventually joined with [Fema Nolan](/people/zero-one-fema-nolan/) and the entertainer [John Stamos](/people/john-stamos/) to form the original [Fulcrum](/organizations/fulcrum/) cell. Richard's original codename was itself **Fulcrum**, a name that later became the identity of the wider movement. Of the four founders, Richard's role was deliberately concealed; his name was kept out of the organization's records so that his growing public career could remain intact.
 
-Its recorded founders are [Digma Beeve](/people/digma-beeve/), [Fema Nolan](/people/zero-one-fema-nolan/) and [John Stamos](/people/john-stamos/).
+Digma provided routes, contacts and cover, while Richard built much of the infrastructure. His restaurants became lifelines through which money, medicine, weapons, food, messages and eventually intelligence could move without looking like rebel activity. Richard's success as a restaurateur was real, not merely a disguise, but the legitimate business and the hidden resistance network grew alongside one another.
 
-The fourth founder was Richard Blaze.
-
-His name was deliberately kept out of the records.
-
-Richard's restaurants became Fulcrum's arteries. Money flowed through them. Supplies moved through them. Messages were concealed inside menus and supply chains.
-
-People could travel through his business network without appearing to travel for the rebellion at all.
-
-Richard's great talent was making revolutionary infrastructure look like ordinary commerce.
-
-His restaurants remained legitimate businesses while quietly serving a cause that the Empire would have destroyed had it known the truth.
+Only Digma, Fema and Stamos originally knew the truth about Richard. [Jessica Grimpledink](/people/jessica-grimpledink/) was later brought into the secret when [the Nest](/organizations/the-nest/) began working closely with Fulcrum. Even many rebels who benefited from Richard's money and information had no idea who was behind it.
 
 ---
 
-## The Ghost Founder
+## The Talenta Plains Express
 
-Long before [Fulcrum](/organizations/fulcrum/) became the name of the rebellion, Richard used **Fulcrum** as his own codename.
+Richard's life changed during the attempted Fulcrum operation aboard the Talenta Plains Express. He was travelling from [Newham](/places/newham/) toward [Korth](/places/korth/) while Fulcrum agents aboard the same train attempted to seize the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), an artifact being transported under Imperial protection. Among the Imperial operatives defending it were [Esther Crona](/people/esther-crona/), [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/) of [the Unforeseen](/organizations/the-unforeseen/).
 
-> "I'm Richard Blaze… but long before the rebellion had a name, I had a codename."
->
-> "Fulcrum."
+When the operation collapsed, Richard did not reveal himself. He remained in character as an uninvolved restaurateur even while Fulcrum members around him were exposed. He watched his friend and fellow founder [John Stamos](/people/john-stamos/) die and did nothing that would compromise his cover. The choice remained one of the great sources of guilt in Richard's life, but it also left him completely unsuspected.
 
-He described himself as Fulcrum before it became a movement, before it became a banner of rebellion and hope.
+That same day he met Esther. She had no idea Richard was connected to the rebels on the train, and his refusal to expose himself allowed him to appear trustworthy in her eyes. What began as an accidental meeting soon became useful to Fulcrum: Richard had found himself close to an exceptionally powerful Imperial operative.
 
-His name never entered the public history of the organization.
-
-Only [Digma Beeve](/people/digma-beeve/), [Zero-One](/people/zero-one-fema-nolan/) and [John Stamos](/people/john-stamos/) originally knew the truth.
-
-Years later, [Jessica Grimpledink](/people/jessica-grimpledink/) was brought into the secret when [the Nest](/organizations/the-nest/) began working with Fulcrum.
-
-Eventually the truth was disclosed to [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) at Zilspar Farm 02.
-
-Richard believed he was more useful unseen.
-
-For most of his life, he was right.
+It did not remain merely useful for long.
 
 ---
 
-## The Lightning Rail
+## Esther Crona
 
-Richard's first known appearance came aboard a lightning-rail train travelling from [Newham](/places/newham/) to [Korth](/places/korth/).
+Richard and [Esther Crona](/people/esther-crona/) continued seeing one another during the years of [the Unforeseen](/organizations/the-unforeseen/). At first Richard understood the value of the relationship very clearly. Esther had access to Imperial operations, military information and people Richard could never have reached on his own, and his closeness to her allowed intelligence to pass quietly back to [Fulcrum](/organizations/fulcrum/).
 
-He was travelling in another car to oversee the opening of his newest restaurant, *Great Balls of Blaze*.
+Over time, however, Richard genuinely fell in love with her. Their meetings became courtship rather than simply access, and Esther appears to have trusted him more completely than almost anyone else in her life. Richard continued passing useful information to the rebellion, but he was no longer pretending to care about the woman giving it to him. For years he lived with both truths at once: Esther was one of the Empire's most dangerous agents, and she was also the woman he loved.
 
-The train was also carrying the [Fantanya Nyel](/items/the-hell-bell-fantanya-nyel/), an Imperial artifact being transported after its recovery from Greenbluff.
-
-[John Stamos](/people/john-stamos/) and other Fulcrum operatives were aboard as part of an attempt to take the artifact.
-
-The Imperial team securing the train was [the Unforeseen](/organizations/the-unforeseen/): [Esther Crona](/people/esther-crona/), [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/).
-
-The train became a battlefield. Lady Glow escaped. Stamos did not.
-
-Richard watched his friend die. He did not reveal himself. He maintained his cover while [John C. LeBeefe](/people/john-c-lebeefe/) killed Stamos.
-
-The Empire announced that Lady Glow had been responsible for the death of the beloved actor during a rebel terrorist attack.
-
-A statue was later raised to Stamos in Korth. Richard knew the story was a lie. He said nothing.
-
-The same journey introduced him to Esther Crona.
-
-She was an Imperial operative.
-
-One day she would become his wife.
+Richard may have believed for a long time that nothing more would ever come of his double life. He could remain a restaurateur, stay close to Esther, pass what information he could to Fulcrum and keep those worlds from ever fully colliding. That belief survived their courtship, their marriage and much of their son's childhood. It would not survive Sharn.
 
 ---
 
-## John Stamos
+## Marriage
 
-Stamos was not simply another rebel to Richard.
+A few months after [Uriel Qualanthri](/people/uriel-qualanthri/) married [Emperor Kaius III](/people/emperor-caius-iii/), Richard and Esther married in a small private ceremony at their lake house outside [Korth](/places/korth/). Uriel attended, as did [John C. LeBeefe](/people/john-c-lebeefe/); the wedding was one of the last known occasions on which LeBeefe was seen publicly before withdrawing from ordinary Imperial life.
 
-He was one of the four people who knew Richard's secret from the beginning.
+After the marriage, Richard and Esther relocated to [Sharn](/places/sharn/). Esther rose further through the Imperial hierarchy and created the [Iron Veil](/organizations/the-iron-veil/), eventually becoming Lord Commander of the Imperial Military. Richard continued expanding his restaurant business, becoming one of the most recognizable chefs in Khorvaire while quietly maintaining the Fulcrum network beneath that public success.
 
-Richard later described him as the heart of the original Fulcrum cell.
-
-His death remained one of the great sources of Richard's guilt.
-
-Richard could have broken cover. He did not.
-
-He chose the rebellion's survival over saving his friend.
-
-He has never claimed that it was the right choice.
-
----
-
-## Esther
-
-Richard met [Esther Crona](/people/esther-crona/) on the same lightning-rail journey in which [John Stamos](/people/john-stamos/) was killed.
-
-They fell in love.
-
-They married.
-
-They had [Calcifer](/people/calcifer/) together.
-
-Their relationship was genuine.
-
-Esther trusted Richard completely.
-
-She was affectionate with him in private, proud of his success and comfortable enough around him to let the rigid discipline of the Lord Commander disappear.
-
-Richard's deception was real.
-
-So was his love.
-
-He betrayed Esther every day.
-
-He also loved her every day.
-
-That contradiction became the central conflict of his life.
-
----
-
-## Public and Private
-
-Publicly Richard was the Empire's favourite chef: wealthy, charming, successful, apolitical and harmless.
-
-Privately he was [Fulcrum's](/organizations/fulcrum/) hidden financier, smuggler and logistical architect.
-
-His restaurants gave him legitimate reasons to travel throughout Khorvaire. His wealth funded the rebellion. His supply networks moved resources.
-
-His access to [Esther Crona](/people/esther-crona/) gave him access to military information that he quietly passed to Fulcrum.
-
-Esther believed he shared her loyalty to the Empire. She never discovered the full truth. Richard maintained both lives in the same household for years.
-
----
-
-## Great Balls of Blaze
-
-In [Korth](/places/korth/), Richard operated *Great Balls of Blaze*, an all-night restaurant that became an occasional meeting place for [the Unforeseen](/organizations/the-unforeseen/).
-
-After Radd Orgasm attempted to kill [Locke Pierce](/people/locke-pierce/), the Unforeseen went there for a meal after midnight.
-
-The restaurant's host was a half-elf and its server was a half-orc named Mantooth.
-
-To the public, it was simply another Richard Blaze establishment.
-
-To Richard, every kitchen was another possible artery of Fulcrum.
+Their marriage was not simply political cover. Richard and Esther were affectionate, comfortable with one another and genuinely proud of the life they had built. Esther never discovered that her husband was a founder of Fulcrum, even while Richard continued passing intelligence from within her household to the rebellion.
 
 ---
 
 ## Calcifer
 
-Richard and Esther's son, [Calcifer](/people/calcifer/), became the center of Richard's private life.
+Soon after their marriage, Esther became pregnant with their son, [Calcifer](/people/calcifer/). Richard was away in [Korth](/places/korth/) when Esther went unexpectedly into labor in the penthouse atop the [Veil Building](/places/the-veil-building/). [Uriel Qualanthri](/people/uriel-qualanthri/), whom Esther had named Calcifer's godmother, was present and delivered the child herself.
 
-Richard never used his son as rebel cover.
+Esther later told Richard that through pain and blood loss she remembered something strange happening immediately after Calcifer was born. She thought she had seen Uriel holding a hand over the newborn while his crying stopped and dark markings formed across his face. Because Esther herself was uncertain whether the memory had been distorted by pain, Richard had no proof that anything had actually happened.
 
-He wanted Calcifer to have a normal childhood, far from the war, the Empire and the secrets surrounding his parents.
-
-He also became increasingly frightened by what had happened at Calcifer's birth.
-
-Richard was in Korth when Calcifer was born in the family's penthouse in [Sharn](/places/sharn/).
-
-[Uriel Qualanthri](/people/uriel-qualanthri/) delivered the child.
-
-Esther later told Richard that she had seen Uriel place a hand over the newborn while a sickly green light appeared. Calcifer briefly stopped breathing, and dark vein-like markings appeared across his face.
-
-Then he cried again.
-
-Esther believed she may have been delirious from pain and blood loss.
-
-Richard did not dismiss the possibility that she had seen something real.
-
-He believed there might be evidence that could establish what happened.
+Calcifer grew up believing the dark lines along his face were simply a birthmark. Richard tried to keep his son away from the secret war surrounding his parents, never using Calcifer as rebel cover despite operating Fulcrum intelligence from inside the same household.
 
 ---
 
-## Uriel and Calcifer
+## Chef and Restaurateur
 
-[Uriel Qualanthri](/people/uriel-qualanthri/) was not simply Calcifer's godmother.
+Richard continued building his restaurant empire throughout his marriage. His businesses included establishments in [Korth](/places/korth/), [Newham](/places/newham/) and [Sharn](/places/sharn/), ranging from fine dining to fast food and all-night eateries. *Great Balls of Blaze* in Korth was already operating during the years of the Unforeseen, while [POSÉ](/places/pose/) became one of his most prestigious Sharn restaurants.
 
-She was also one of Esther's closest former companions and one of the people Richard had spent years living beside through his marriage.
+The restaurants served two purposes without either one being false. Richard genuinely loved cooking and hospitality, and his businesses made him wealthy and famous. At the same time, kitchens, deliveries, suppliers and restaurant accounts gave Fulcrum an enormous legitimate network through which people and resources could move. Richard's greatest cover was that he actually was the man everyone believed him to be; he simply had another life underneath it.
 
-According to Esther's account, Uriel delivered Calcifer and appeared to place a hand over the newborn while green magic spread across his face and his breathing stopped.
-
-Richard was not present.
-
-Everything he knew about that moment came from Esther.
-
-He believed her enough to investigate.
-
-But he did not have proof.
-
-That changed with [Grady Marsh](/people/grady-marsh/).
+At the grand opening of [POSÉ](/places/pose/), Richard appeared publicly with Esther and Calcifer as an affectionate family. Calcifer ran through the kitchen "helping" his father, Richard greeted Esther with a kiss, and Esther watched their son playing and told him, "He's happy. He loves the kitchen." Hours later, violence surrounding the Cogborn protest would begin pulling those separate worlds together.
 
 ---
 
-## Grady Marsh
+## The Confession
 
-[Grady Marsh](/people/grady-marsh/) was a retired [ArcEye](/items/the-arcane-eye-network/) surveillance wizard who had once patrolled the Upper City.
+Richard finally revealed himself to [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) at Zilspar Farm 02. [Zero-One](/people/zero-one-fema-nolan/), [Digma Beeve](/people/digma-beeve/) and [Jessica Grimpledink](/people/jessica-grimpledink/) were present when Richard lowered his hood and told the trio that he was not merely Fulcrum's financier but one of its original founders.
 
-Eight years earlier, he had wandered off his assigned route and looked into the Lord Commander's penthouse.
+He told them about slavery in Newham, Digma, Stamos and the train. More importantly, he explained why he had called them there. Richard had become increasingly concerned by Esther's relationship with [Varyn Crona](/people/varyn-crona/)'s [sword](/items/the-bright-dawn-crimson-sun-unbound/). He had watched her whisper to it when she thought she was alone, watched her emotions change around it and become convinced that whatever remained of Varyn was still influencing her.
 
-He saw Calcifer's birth.
+> "I've seen her whisper to it. I've seen it change her. That sword is a chain around her neck. A ghost she can't escape."
 
-He did not legally file the surveillance report.
+Richard also told them about Calcifer's birth and the possibility that someone else had witnessed it. The investigation that followed would focus on two questions: what had happened to Calcifer, and what exactly was binding Esther to Varyn's sword?
 
-No official record of the event therefore existed in the Imperial archive.
-
-Years later, Grady began telling the story while drinking at the Gremlin Lantern Sake Bar in the Lower City.
-
-A [Nest](/organizations/the-nest/) informant overheard him.
-
-[Jessica Grimpledink](/people/jessica-grimpledink/) took the rumor directly to Richard.
-
-Richard understood immediately what it meant.
-
-If Grady had really witnessed Calcifer's birth, then there might finally be evidence of what had happened that night.
-
-The Inevitables eventually found Grady and rescued him from [the Vault Underground](/places/the-vault-underground/).
-
-He was brought to Zilspar Farm 02, where the rebellion recovered an [ArcEye](/items/the-arcane-eye-network/) Crystallizer.
-
-The memory was successfully extracted.
-
-Richard was in the room when it was played.
-
-For the first time, the story Esther had told him was no longer only a memory.
-
-It was recorded.
+For Richard, bringing the trio into these secrets marked a change. Until then he had mostly survived by watching, listening and quietly passing information onward. Now he was actively setting events in motion that could expose his marriage, destroy his cover and eventually force him to watch the woman he loved die.
 
 ---
 
-## The ArcEye Memory
+## Grady Marsh and the ArcEye Memory
 
-The recovered memory showed Esther in severe pain during Calcifer's birth.
+The lead on Calcifer's birth came from [Grady Marsh](/people/grady-marsh/), a retired ArcEye surveillance wizard who had drunkenly claimed that he once wandered off his assigned patrol route and witnessed the Lord Commander's son being born. A Nest informant heard the story, and [Jessica Grimpledink](/people/jessica-grimpledink/) took it directly to Richard.
 
-It showed [Uriel Qualanthri](/people/uriel-qualanthri/) examining the newborn.
+Grady had never officially filed what he saw, meaning no Imperial archive contained the event. The memory existed only inside his head. [Faith Zeir](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) learned of the same rumor and seized Grady for their own reasons, but the trio eventually rescued him and brought him to Zilspar Farm. There, an ArcEye Crystallizer successfully extracted the memory.
 
-It showed Uriel raising her hand over Calcifer's face.
+Richard teleported to the farm to watch it with Jessica, Zero-One and the trio. The recording showed Uriel delivering Calcifer, then raising a hand over the newborn as sickly green magic appeared. Calcifer's breathing stopped and dark vein-like markings spread across his face. At Esther's scream Uriel withdrew her hand, and the child gasped and began crying again.
 
-A sickly green glow appeared.
+Richard's reaction was immediate:
 
-The baby's breathing faltered and stopped.
+> "She tried to kill my son!"
 
-Dark, vein-like markings spread across his cheek.
-
-Esther screamed.
-
-Uriel withdrew her hand.
-
-Calcifer gasped and began crying again.
-
-As Uriel turned away, the recording also captured a glowing diamond embedded at the base of her skull.
-
-Richard saw the memory himself.
-
-So did [Jessica Grimpledink](/people/jessica-grimpledink/), [Zero-One](/people/zero-one-fema-nolan/), [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/).
-
-Three copies were made.
-
-For Richard, there was no longer any need to ask whether Esther had imagined everything.
-
-Something had happened.
-
-Exactly what Uriel intended remained another question.
+For the first time, what Esther had half-remembered was no longer an uncertain story. Richard had seen it himself.
 
 ---
 
-## The Sword
+## The Sword and the Forge
 
-Richard feared [Varyn Crona](/people/varyn-crona/)'s sword.
+Richard wanted Esther to see the ArcEye memory immediately, but [Jessica Grimpledink](/people/jessica-grimpledink/) stopped him. If he showed Esther the recording, he would also have to explain where it had come from, who had helped him obtain it and why he had hidden his ties to the rebellion from her. More importantly, Jessica believed Esther was still being influenced by Varyn's sword.
 
-He had seen Esther whisper to it.
+The trio therefore continued toward the [Forge of Binding](/places/the-forge-of-binding/) while Richard prepared to remove Calcifer from the city. He believed that if the sword's hold could be broken first, Esther might finally be able to confront the truth about Uriel without Varyn's influence shaping her response.
 
-He had seen her emotions change when she called it to her.
-
-He believed that Varyn's presence remained within the blade and that the sword was manipulating Esther.
-
-> "I've seen her whisper to it. I've seen it change. That sword is a chain around her neck. A ghost she can't escape."
-
-Richard believed Esther could still be saved.
-
-But he also believed that if she was ever to be free from Varyn, Uriel and the Empire, the sword would have to be cleansed or broken.
+When Esther later returned home from the Forge, Richard immediately noticed a difference. She seemed calm, slightly lost and almost as though she had just awakened from a long sleep. She told him she had been searching for something for years and had finally found it beneath Sharn; when she did, it felt as though a veil had been lifted. Richard described her as the most content he had seen her in years.
 
 ---
 
-## POSÉ
+## The Children of Ember
 
-[POSÉ](/places/pose/) was Richard's restaurant in [Sharn](/places/sharn/).
+Richard learned of the [Children of Ember](/organizations/the-children-of-ember/) only as the trio's investigations uncovered the hidden activities of [Faith Zeir](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/). This was not a threat he had been managing for years. The revelation was new, and it transformed the danger surrounding Calcifer almost immediately.
 
-Its grand opening placed Richard and Esther together in public as husband and wife while much of the Imperial leadership gathered around them.
+The cult believed Calcifer was **Ember**, a prophesied heir to the Imperial throne. They interpreted the mark on his face as a divine sign and built part of their doctrine around Richard's own red-draconic sorcerous bloodline. To them, Richard carried the ancient blood of the Red Dragon, while Esther carried the legacy of Varyn Crona; they believed those lines had been perfected in their son. The cult did not understand the true origin of Calcifer's mark and believed Grady's memory would validate their prophecy rather than destroy it.
 
-[Calcifer](/people/calcifer/) spent the evening running through the kitchen and helping his father.
-
-When Esther arrived, Richard greeted her with a deep kiss.
-
-She watched Calcifer playing and told Richard:
-
-> "He's happy. He loves the kitchen."
-
-The moment was one of the clearest glimpses of their private family life.
-
-It lasted only a little while.
+Once Richard understood that Faith and Malrik's movement centered on his son, he decided Calcifer had to leave Sharn. Jessica agreed. The plan was to get Richard and Calcifer safely out of the city before the Nest and Fulcrum moved directly against the Children of Ember.
 
 ---
 
-## The POSÉ Incident
+## The Last Morning
 
-A large [Cogborn](/species/the-cogborn/) protest gathered below the restaurant.
+Richard's departure was already arranged. He would leave [Sharn](/places/sharn/) for the family's lake house with Calcifer, their nanny [Whole Foods](/people/whole-foods/) and two of Esther's Honor Guards aboard a private shuttle. He teleported between the farm and one of his restaurant pantries while making the final preparations.
 
-Unknown to Richard and Esther, [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) deliberately provoked the violence through the [Children of Ember](/organizations/the-children-of-ember/).
+On the morning they were supposed to leave, Esther returned from the Forge. Richard found her standing on their balcony at sunrise, quiet and staring over the city. She spent the morning with Calcifer while Richard cooked breakfast. Mother and son played and laughed together, and the three ate as a family.
 
-[Candice Kurt] was killed.
+Esther repeatedly said she wished she could remain with them or travel to the lake house herself, but the situation at [Crona's Wall](/places/cronas-wall/) was escalating. She kissed Richard and Calcifer goodbye and left.
 
-Esther seized Calcifer and teleported him away.
+Richard then returned to the farm long enough to tell Jessica and the trio that the departure was still going ahead. Jessica confirmed that once Richard and Calcifer were out of Sharn, they could finally move openly against Faith, Malrik and the [Children of Ember](/organizations/the-children-of-ember/) without risking retaliation against Calcifer.
 
-Later that night, Esther appeared atop the *Black Veil*, her Imperial warship, and executed captured Cogborn prisoners before the entire city.
+It was supposed to be an ordinary family departure.
 
-For Richard, the incident was another warning that his wife's public power and his private family life were becoming impossible to keep separate.
+It never happened that way.
 
 ---
 
-## The Confession at Zilspar Farm 02
+## The Attack and Kidnapping
 
-The morning after an [Iron Veil](/organizations/the-iron-veil/) patrol was quietly eliminated in the farmyard, [Zero-One](/people/zero-one-fema-nolan/) waited in a sealed room at Zilspar Farm 02.
+As Richard, Calcifer and their household attempted to leave Sharn for the lake house, the [Children of Ember](/organizations/the-children-of-ember/) moved against them. The attack destroyed Richard's plan to quietly remove his son from the conflict. Richard and Calcifer were taken, drawing the trio directly into the confrontation with Faith and Malrik.
 
-[Digma Beeve](/people/digma-beeve/), [Jessica Grimpledink](/people/jessica-grimpledink/) and Richard arrived through a hidden teleportation circle.
+The trio's rescue operation eventually reached the Zeir residence and the [Vault Underground](/places/the-vault-underground/), where the extent of the cult's activities became clear. [Malrik Zeir](/people/malrik-zeir/) was killed, and [Faith Zeir](/people/faith/) attempted to flee with Calcifer.
 
-Richard lowered his hood.
+[Esther Crona](/people/esther-crona/) arrived during the chaos. Seeing Calcifer in danger, she drove her sword through her own half-sister Faith and took her son back. When Dario shouted that he knew what Uriel had done to Calcifer, Esther also took [Gemma Corso](/people/gemma-corso/) and returned to the penthouse.
 
-The famous chef stood before [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) and finally revealed the truth.
+Richard watched her leave and understood where she was going.
 
-He told them that his name was Richard Blaze.
-
-He told them that his codename had once been Fulcrum.
-
-He told them that he was one of the four founders.
-
-He told them about Digma.
-
-He told them about Zero-One.
-
-He told them about John Stamos.
-
-He told them that he had watched Stamos die while maintaining his cover.
-
-He told them that his restaurants had become lifelines for the rebellion.
-
-And he told them that his wife was the Lord Commander of the Imperial Military.
-
-> "I betray her every day.
+> "She took him home."
 >
-> And yet… I love her.
->
-> And I love our son, Calcifer."
+> "We need to go. She'll be waiting and I'm done hiding."
 
----
-
-## The Mission
-
-Richard's confession sent the group toward the mysteries that had become personal to him.
-
-The first was [Grady Marsh](/people/grady-marsh/) and the [ArcEye](/items/the-arcane-eye-network/) memory surrounding Calcifer's birth.
-
-The second was the origin of [Varyn Crona](/people/varyn-crona/)'s sword and the [Forge of Binding](/places/the-forge-of-binding/).
-
-The third was Esther herself.
-
-Richard believed that if the truth about Calcifer and the sword could be uncovered, Esther might still be saved.
-
-Eric and Dario remained unconvinced.
-
-Richard did not force them to agree.
-
-He warned them instead:
-
-Facing Esther while the sword remained bound to her would be suicide.
-
----
-
-## After the Forge of Binding
-
-After the night at the [Forge of Binding](/places/the-forge-of-binding/), Esther returned home at sunrise.
-
-Richard found her standing on their balcony, staring over the city.
-
-She was quiet.
-
-Almost calm.
-
-Almost lost.
-
-She told him she had been searching for something for a very long time and that, deep beneath the city, she had finally found it.
-
-Richard noticed something different about her.
-
-She seemed almost relieved.
-
-It was the most content he had seen her in years.
-
-So Richard cooked breakfast.
-
-Esther spent the morning playing with Calcifer.
-
-They laughed.
-
-They ate together.
-
-She said she wished she could stay longer.
-
-She said she wished she could come with them to the lake house.
-
-But things at [Crona's Wall](/places/cronas-wall/) were escalating.
-
-She kissed her husband and son.
-
-Then she left.
-
-Neither knew it would be their last ordinary family morning.
+For a man who had spent most of his adult life surviving through concealment, it was a decisive moment. Richard finally chose to walk openly into the consequences of everything he had hidden.
 
 ---
 
 ## The Balcony
 
-When [Calcifer](/people/calcifer/) was eventually taken into danger, Richard did not remain hidden.
+Richard went with [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) to the [Veil Building](/places/the-veil-building/). When he reached the penthouse and saw Calcifer, he immediately ran toward him. Calcifer ran into his father's arms.
 
-He went to the penthouse.
-
-He fought through the [Iron Veil](/organizations/the-iron-veil/) and entered the balcony where Esther was waiting.
-
-The moment he saw Calcifer, Richard ran to his son.
-
-Calcifer ran into his father's arms.
-
-Esther looked at Richard.
-
-Not at the rebels.
-
-Not at the city.
-
-At him.
+Esther looked first at Richard.
 
 > "Who are you, Richard?"
 >
 > "And why are you with my killers?"
 
-Richard tried to explain.
+For the first time, Esther understood that her husband knew the people she believed had come to kill her. The secret Richard had preserved since the Talenta Plains Express was finally collapsing in front of her.
+
+Richard did not deny what he had done.
+
+He told her why he had come:
 
 > "I'm here because I love you. We have something to show you."
 
-Esther saw the betrayal before she could hear the explanation.
-
-The secret life Richard had spent years hiding was finally standing in front of her.
+The ArcEye memory was then broadcast across [Sharn](/places/sharn/), forcing Esther to witness again what had happened to Calcifer on the night of his birth.
 
 ---
 
-## Richard's Final Choice
+## Protecting Calcifer
 
-When the confrontation became violent, Richard refused to fight Esther.
+When the confrontation became violent, Richard refused to attack Esther. He pulled Calcifer away from the fighting and used **Darkness** to prevent his son from watching his mother die. While protecting Calcifer, Richard continued secretly assisting [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/).
 
-He grabbed Calcifer.
+Richard is both a **Bard** and a **Draconic Bloodline Sorcerer**, his innate sorcery tied to a red-dragon lineage and fire. He rarely displays his magic openly, favoring subtle spellcasting that allows him to influence events without drawing attention. During the battle he used that talent to heal the trio and provide Bardic Inspiration while remaining focused on Calcifer and refusing to strike his wife.
 
-He pulled him behind cover.
-
-He did everything he could to keep his son from seeing the fighting.
-
-When Esther's mind finally broke beneath the weight of Uriel, Varyn, betrayal and everything she had learned, Richard still would not turn on her.
-
-His plea was simple:
+Even then, he begged the others not to kill Esther.
 
 > "Don't kill her. Please — don't kill her."
 
-He could betray her politically.
+He had finally chosen to oppose what Esther had become, but he had never stopped loving her.
 
-He could expose her secrets.
+---
 
-He could fight the Empire.
+## Esther's Death
 
-But he could not bring himself to kill the woman he loved.
+The confrontation on the balcony ended with [Esther Crona](/people/esther-crona/) mortally wounded. After the truth about Calcifer was exposed, she killed Mayor [Henry Heinrick](/people/henry-heinrick/), revealed the nature of her undead Honor Guard and fought the people she believed had come to destroy her family.
+
+Bleeding out, Esther used her final strength to sever every [Iron Veil](/organizations/the-iron-veil/) pact in Sharn.
+
+> "Your pact is void."
+
+She then issued one final order:
+
+> "... Kill Empress Uriel Qualanthri..."
+
+With the last of her power, Esther seized the *Black Veil*, her Imperial warship, and hurled it into the statue of [Uriel Qualanthri](/people/uriel-qualanthri/) above the Skyport. She then fell from the balcony of the [Veil Building](/places/the-veil-building/).
+
+For Richard, Esther's death was the end of both lives he had spent years trying to preserve. The woman he had once approached as a source of intelligence had become his wife, the mother of his child and the person he had hoped might somehow escape the Empire with them.
+
+She never did.
 
 ---
 
 ## The Vanishing
 
-Richard's original plan had been much simpler.
+In the aftermath of [the fall of Sharn](/history/the-fall-of-sharn/), Richard had only one priority left: [Calcifer](/people/calcifer/).
 
-He had already arranged for the family to leave [Sharn](/places/sharn/) for their lake house.
-
-The plan was to depart in a private shuttle with Calcifer, his nanny [Whole Foods](/people/whole-foods/) and two Honor Guards.
-
-Everything had been prepared.
-
-Richard had even returned to the city by teleporting into the pantry of one of his restaurants.
-
-Then everything collapsed.
-
-After the confrontation at the penthouse, [Digma Beeve](/people/digma-beeve/) reached Richard first.
-
-Richard was exhausted.
-
-Calcifer was terrified.
-
-Digma told them they had to leave immediately.
+[Digma Beeve](/people/digma-beeve/) reached Richard and Calcifer before the broader rebel leadership arrived. He embraced his old friend, spoke with him privately and told the trio what was going to happen: Richard and Calcifer would teleport immediately to the hidden Fulcrum safehouse at Zilspar Farm before anyone else knew they were there.
 
 Richard twisted the ring on his finger.
 
-A flash of blue light swallowed Richard and Calcifer.
+A flash of blue light swallowed father and son.
 
-They teleported to the hidden safehouse at Zilspar Farm before anyone else arrived.
+They were gone.
 
-Richard and his son were alive.
+Digma then created the story that would keep them alive: [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) had ambushed Richard's private airship during the kidnapping, killing Richard, Calcifer and two of Esther's Honor Guards. With the Children of Ember's leadership dead, there was nobody left to contradict the story.
 
-But the world was about to believe otherwise.
+[Jessica Grimpledink](/people/jessica-grimpledink/) and [Zero-One](/people/zero-one-fema-nolan/) were later told that Richard and Calcifer were safe at the farm. Almost everyone else was allowed to believe they were dead.
 
----
+Richard Blaze disappeared behind the same kind of cover that had protected him his entire adult life.
 
-## The Death of Richard Blaze
-
-Digma understood immediately what had to happen.
-
-Richard wanted to remain anonymous.
-
-The Empire could not know that he had escaped.
-
-So Digma created the story that Richard and Calcifer had died when their private airship was attacked by [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) of the [Children of Ember](/organizations/the-children-of-ember/).
-
-The story held.
-
-[Jessica Grimpledink](/people/jessica-grimpledink/) and [Zero-One](/people/zero-one-fema-nolan/) were told that Richard and Calcifer were safe at the farm.
-
-Others were not.
-
-Richard Blaze, one of the hidden founders of [Fulcrum](/organizations/fulcrum/), disappeared behind his own death.
-
-His greatest disguise became his grave.
+This time, however, the cover was his own death.
 
 ---
 
-## The Fall of Fulcrum
+## Right Now
 
-Three years later, [Fulcrum](/organizations/fulcrum/) was being dismantled across the continent as though the Empire had obtained a list of every name.
+Richard Blaze is officially dead. The Empire and the general public believe he and [Calcifer](/people/calcifer/) were killed during the [Children of Ember](/organizations/the-children-of-ember/) attack connected to their attempted departure from Sharn.
 
-Executions continued for days.
+In reality, Richard and Calcifer survived and were teleported to Zilspar Farm. The farm was later destroyed during the dismantling of [Fulcrum](/organizations/fulcrum/), but neither Richard nor Calcifer was identified among the dead or captured.
 
-[Zero-One](/people/zero-one-fema-nolan/) was taken alive by [Project E.D.E.N.](/organizations/project-e-d-e-n/).
-
-[Izaak](/people/izaak/) disappeared.
-
-Zilspar Farm was burned with people boarded up inside.
-
-The safehouse that had once concealed Richard and Calcifer no longer existed.
-
-There was no obvious trace of either of them.
-
----
-
-## Right now
-
-Richard Blaze is officially dead.
-
-The public believes he and [Calcifer](/people/calcifer/) were killed when their private airship was attacked by the [Children of Ember](/organizations/the-children-of-ember/).
-
-The truth is that they escaped before anyone else reached the penthouse and teleported to Zilspar Farm.
-
-[Digma Beeve](/people/digma-beeve/) later confirmed the truth to [Jessica Grimpledink](/people/jessica-grimpledink/) and [Zero-One](/people/zero-one-fema-nolan/).
-
-Zilspar Farm was later destroyed.
-
-Digma believed Richard and Calcifer would probably move away and disappear somewhere around [Leef](/places/leef/), but this was never confirmed.
-
-Their present location is unknown.
+[Digma Beeve](/people/digma-beeve/) believed Richard would probably take Calcifer somewhere around [Leef](/places/leef/) and disappear completely, but this was never confirmed.
 
 Richard remains alive.
 
-His public identity is dead.
+His current location is unknown.
+
+---
+
+## Magic and Abilities
+
+**Bard** — Richard's bardic magic is rooted in charisma, encouragement and his ability to influence the people around him. He used Bardic Inspiration during the final confrontation with Esther while protecting Calcifer.
+
+**Sorcerer — Draconic Bloodline (Red Dragon / Fire)** — Richard carries an innate red-draconic magical bloodline associated with fire. The [Children of Ember](/organizations/the-children-of-ember/) incorporated this ancestry into their doctrine surrounding Calcifer.
+
+**Subtle Sorcery** — Richard specializes in magic that does not draw attention to itself. He can heal, inspire and manipulate a battlefield without presenting himself as an obvious spellcaster, an ability particularly suited to a man who spent decades surviving through concealment.
+
+**Culinary Mastery** — Richard is one of Khorvaire's most celebrated chefs and built a successful restaurant empire from the skill that first allowed him to escape slavery.
+
+**Logistics and Espionage** — Richard helped build the infrastructure of [Fulcrum](/organizations/fulcrum/), using legitimate restaurant suppliers, kitchens and business routes to move money, information, people and supplies.
 
 ---
 
 ## Organizations / Groups
 
-- Hidden fourth founder of [Fulcrum](/organizations/fulcrum/)
-- Former ally of [the Unforeseen](/organizations/the-unforeseen/) in the older record
-- Husband of [Esther Crona](/people/esther-crona/)
-- Major financial supporter of [the Nest](/organizations/the-nest/)
-- Secret source of Imperial intelligence for the rebellion
+- Hidden founder of [Fulcrum](/organizations/fulcrum/)
+- Secret financial and intelligence supporter of [the Nest](/organizations/the-nest/)
+- Husband of former Lord Commander [Esther Crona](/people/esther-crona/)
+- Former covert source of intelligence from inside the Imperial household
 
 ## Holdings
 
-- Restaurants throughout Khorvaire
-- *Eat My Blaze* in Korth
-- *Great Balls of Blaze* in Korth
-- *God Save the Blaze* in Newham
-- *Eat My Blaze Too* in Sharn
-- *Richard's Tip* in Sharn
-- *Scorching Blaze* in the Ziggurat
-- [POSÉ](/places/pose/) in Sharn
-- Penthouse quarters in [the Veil Building](/places/the-veil-building/)
-- Lake house outside Sharn
+- *Great Balls of Blaze* — Korth
+- *Eat My Blaze* — Korth
+- *God Save the Blaze* — Newham
+- *Eat My Blaze Too* — Sharn
+- *Richard's Tip* — Sharn
+- *Scorching Blaze* — the Ziggurat, Sharn
+- [POSÉ](/places/pose/) — Sharn
+- Former penthouse residence atop the [Veil Building](/places/the-veil-building/)
+- Family lake house outside [Korth](/places/korth/)
 - Private airship, officially destroyed
-- Former access to Fulcrum's Zilspar safehouse network
 
 ## Items
 
-- A copy of the [ArcEye](/items/the-arcane-eye-network/) memory concerning Calcifer's birth
-- Esther's wedding gift, later established to contain both black and red Khyber
-- Ring used to trigger his emergency teleportation
+- Teleportation ring used to escape Sharn with Calcifer
+- Access to one of the recovered [ArcEye](/items/the-arcane-eye-network/) memories concerning Calcifer's birth
 
-## Skills
-
-**Culinary Mastery:** Richard is a legendary chef whose food is known throughout Khorvaire.
-
-**Smuggling & Logistics:** He built a continent-spanning network capable of moving money, supplies, messages and people without appearing to serve the rebellion.
-
-**Social Influence:** His fame gives him access to nobles, merchants, entertainers, Imperial officials and criminals who would never knowingly meet a rebel operative.
-
-**Subtle Sorcery:** Richard possesses a concealed magical talent that allows him to cast without obvious gesture or spoken incantation. During the confrontation at his penthouse he used it to heal, bolster and inspire the people fighting beside him.
+---
 
 ## Personality Characteristics
 
-**Core Traits:** Warm · charismatic · disarming · empathetic · strategic · calculating · emotionally compartmentalized
+**Motivation:** Protect [Calcifer](/people/calcifer/), preserve the people he loves, and oppose the kind of system that once treated him as property.
 
-**Motivation:** To protect [Calcifer](/people/calcifer/), honor [John Stamos](/people/john-stamos/)'s memory, support [Fulcrum](/organizations/fulcrum/) from the shadows, and prevent others from suffering the captivity and dehumanization he suffered.
+**Core Traits:** Warm · charismatic · patient · observant · emotionally intelligent · secretive · strategic · adaptable
 
-**Strengths:** Master communicator · unshakeable loyalty · strategic thinker · cultural bridge-builder · patient · adaptable
+**Likes:** Cooking · [Calcifer](/people/calcifer/) · [Esther Crona](/people/esther-crona/) · [Digma Beeve](/people/digma-beeve/) · restaurants full of people · music · hospitality · being underestimated
 
-**Flaws:** Guilt over Stamos's death · conflict avoidance · emotional compartmentalization · tendency to hide behind charm when confrontation becomes unavoidable
+**Dislikes:** Slavery · cruelty · fanaticism · threats against children · needless suffering · [Varyn Crona](/people/varyn-crona/)'s influence over Esther
 
-**Likes:** [Digma Beeve](/people/digma-beeve/) · [Esther Crona](/people/esther-crona/) · [Calcifer](/people/calcifer/) · a full dining room · menus with hidden meanings · Zilspar produce · fast food done properly · being underestimated
+**Vices & Personality Flaws:** Richard survives by compartmentalizing. He can maintain secrets for years, postpone impossible choices and convince himself that incompatible lives can continue indefinitely. His refusal to break cover on the Talenta Plains Express preserved Fulcrum but forced him to watch [John Stamos](/people/john-stamos/) die. Years later he again delayed confronting the collision between his marriage and the rebellion until his son's safety made delay impossible.
 
-**Dislikes:** The Empire that enslaved him · slavers · being called apolitical · [Varyn Crona](/people/varyn-crona/)'s sword · threats to his son · anyone who insists Esther cannot be saved
-
-**Vices & Personality flaws:** Richard survived for years by compartmentalizing everything. He hides pain behind charm, avoids confrontation until there is no escape, and carries the guilt of knowing that maintaining his cover cost [John Stamos](/people/john-stamos/) his life.
+---
 
 ## Social — Contacts & Relations
 
-- **[Esther Crona](/people/esther-crona/)** — wife, former Lord Commander and the woman at the center of Richard's greatest conflict. Deceased.
-- **[Calcifer](/people/calcifer/)** — son, aged eight. Officially dead. Actually alive.
-- **[Digma Beeve](/people/digma-beeve/)** — first friend, co-founder of [Fulcrum](/organizations/fulcrum/) and the first person to treat Richard as a man rather than property. Alive.
-- **[Zero-One](/people/zero-one-fema-nolan/)** — co-founder and leader of Fulcrum. Taken alive by [Project E.D.E.N.](/organizations/project-e-d-e-n/).
-- **[John Stamos](/people/john-stamos/)** — co-founder of Fulcrum and the heart of the original cell. Richard watched him die aboard the lightning rail. Deceased.
-- **[Jessica Grimpledink](/people/jessica-grimpledink/)** — brought into Richard's secret and entrusted with the Sharn end of the rebellion. Alive.
-- **[Gemma Corso](/people/gemma-corso/)** — received Richard's confession and later watched the recovered ArcEye memory with him at Zilspar Farm 02.
-- **[Eric the Cleric](/people/eric-the-cleric/)** — received Richard's confession and fought beside him at the penthouse.
-- **[Sir Dario Argentino](/people/sir-dario-argentino/)** — received Richard's confession and fought beside him at the penthouse.
-- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — former member of [the Unforeseen](/organizations/the-unforeseen/), Calcifer's godmother and the person Richard believed had harmed his son.
-- **[Varyn Crona](/people/varyn-crona/)** — Esther's former master; Richard believed Varyn's soul remained bound to the sword controlling her.
-- **[John C. LeBeefe](/people/john-c-lebeefe/)** — member of the Unforeseen who killed John Stamos while Richard was on the same train.
-- **[Grady Marsh](/people/grady-marsh/)** — retired ArcEye wizard who witnessed Calcifer's birth and whose recovered memory became the evidence Richard had been seeking.
-- **[Whole Foods](/people/whole-foods/)** — Calcifer's nanny. Deceased.
-- **Lady Glow** — fellow rebel present during the lightning-rail incident. Escaped the train while Richard remained undercover.
+- **[Esther Crona](/people/esther-crona/)** — wife. Richard first approached her while undercover, genuinely fell in love with her, married her and spent years trying to reconcile that love with his allegiance to Fulcrum. Died during the fall of Sharn; her corpse was later reanimated, though Richard's knowledge of that event is unknown.
+- **[Calcifer](/people/calcifer/)** — son and Richard's highest priority. Alive, officially believed dead.
+- **[Digma Beeve](/people/digma-beeve/)** — oldest friend and fellow founder of Fulcrum; the first person Richard remembered treating him as a man rather than property. Alive.
+- **[Zero-One](/people/zero-one-fema-nolan/)** — Fema Nolan, fellow founder of Fulcrum and one of the original keepers of Richard's secret.
+- **[John Stamos](/people/john-stamos/)** — fellow founder and friend. Richard watched him die aboard the Talenta Plains Express rather than expose himself. Deceased.
+- **[Jessica Grimpledink](/people/jessica-grimpledink/)** — Nest leader brought into Richard's secret and one of his closest rebel collaborators in Sharn. Alive.
+- **[Gemma Corso](/people/gemma-corso/)** — one of the three people to whom Richard revealed his identity and asked for help investigating Esther and Calcifer.
+- **[Eric the Cleric](/people/eric-the-cleric/)** — received Richard's confession and later fought beside him during the confrontation with Esther.
+- **[Sir Dario Argentino](/people/sir-dario-argentino/)** — received Richard's confession and confronted Esther with the truth about Calcifer.
+- **[Grady Marsh](/people/grady-marsh/)** — retired ArcEye wizard whose unfiled memory revealed what happened at Calcifer's birth.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — Calcifer's godmother, Esther's former companion and the woman Richard came to believe had tried to kill his newborn son.
+- **[Varyn Crona](/people/varyn-crona/)** — Esther's former master; Richard believed Varyn's continued presence through the [Crimson Sun](/items/the-bright-dawn-crimson-sun-unbound/) was keeping Esther trapped.
+- **[Whole Foods](/people/whole-foods/)** — Calcifer's nanny and part of the original plan to leave Sharn for the lake house. Deceased.
 
 ## Hobbies & Pets
 
-Cooking, professionally and constantly.
+Cooking, music, entertaining and spending time with Calcifer.
 
 No pets recorded.
 
 ## Related
 
-[**Fulcrum**](/organizations/fulcrum/) · [**Digma Beeve**](/people/digma-beeve/) · [**Zero-One**](/people/zero-one-fema-nolan/) · [**John Stamos**](/people/john-stamos/) · [**Esther Crona**](/people/esther-crona/) · [**Calcifer**](/people/calcifer/) · [**Jessica Grimpledink**](/people/jessica-grimpledink/) · [**Gemma Corso**](/people/gemma-corso/) · [**Eric the Cleric**](/people/eric-the-cleric/) · [**Sir Dario Argentino**](/people/sir-dario-argentino/) · [**Uriel Qualanthri**](/people/uriel-qualanthri/) · [**Varyn Crona**](/people/varyn-crona/) · [**Grady Marsh**](/people/grady-marsh/)
+[**Fulcrum**](/organizations/fulcrum/) · [**Esther Crona**](/people/esther-crona/) · [**Calcifer**](/people/calcifer/) · [**Digma Beeve**](/people/digma-beeve/) · [**Zero-One**](/people/zero-one-fema-nolan/) · [**John Stamos**](/people/john-stamos/) · [**Jessica Grimpledink**](/people/jessica-grimpledink/) · [**Grady Marsh**](/people/grady-marsh/) · [**Varyn Crona**](/people/varyn-crona/) · [**Uriel Qualanthri**](/people/uriel-qualanthri/) · [**Children of Ember**](/organizations/the-children-of-ember/) · [**the Fall of Sharn**](/history/the-fall-of-sharn/)
 
 ![The Crono-Blaze Family - Esther Crona, Calcifer and Richard Blaze.png](/images/uploads/the-crono-blaze-family-esther-crona-calc-mu0xvfr4.webp)
