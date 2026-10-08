@@ -70,6 +70,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-07-15'
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
+  - Esther Crona, as revised by Nico, 2026-10-07
+  - Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
@@ -185,6 +187,10 @@ At the [Grand Lodge](/places/the-grand-lodge/) Gemma cast *seeming* over all thr
 
 At the Counting House, Director [Aurel Kesk](/people/aurel-kesk/)'s men dragged Wardress [Ilma Vitt](/people/ilma-vitt/) into his office, and when Deirdre followed they were beating her. Deirdre demanded her as a witness and Kesk let her go. Behind the stables Gemma recast *seeming* and made the party [Black Doves](/organizations/the-black-doves/): herself as the novice she had been in Korth, Eric as an old nun and Dario as a winged aasimar sister. She rolled a natural twenty on performance, and the guards hurried them up the Stairs of Her Mercy. Just inside the doors of the nave of Nos Matre stands a great fountain of pale blue water, and Gemma knew it as the fountain from her vision with Kitsune, where it ran with blood. <small>(Korth Ep 15)</small>
 
+## Orientation Day
+
+In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) the risen [Esther Crona](/people/esther-crona/) recognized the sword Gemma carries as her own, called it the Crimson Sun and declared Gemma unworthy to hold it. Gemma refused to surrender it. Both called for the sword at once, and it hung between them before Gemma reclaimed it.
+
 ## Habits
 
 In Sharn, by Nico's account, "Gemma is willing to donate her money to the cogborn". <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
@@ -217,7 +223,7 @@ Gemma is aboard a river boat to the Summer Palace wearing a dead woman's face an
 
 **Items:**
 
-- **Bright Dawn** — her sword. Formerly red Khyber, now crystalline. Dario has looked at it twice and said he thought it might curse her the way Varyn Crona's sword cursed Esther.
+- **Bright Dawn** — her sword. Formerly red Khyber, now crystalline. Dario has looked at it twice and said he thought it might curse her the way Varyn Crona's sword cursed Esther. In Korth Ep 16 the risen Esther Crona recognized it as her own and called it the Crimson Sun.
 - **Fey-crafted armour** — enhanced by Kitsune and relined in velvet; carries charges that summon Lalo Kitsune, a fey fox.
 - **The pewter heart-box** — velvet-lined, given by her patron, sized for a heart. Empty.
 - **King Corn's horn** — coiled brass, King Corn's smith-mark on it, recovered from under a secret panel beneath the rug in his study. She can play the fanfare of dawn on it.
