@@ -42,6 +42,8 @@ sources:
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/wa/esther-crona-person.txt
 - "Oral Histories: The Inevitables, 2026-01-02"
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: 10b44e2f-0a89-4154-9774-c896451aafca
@@ -118,9 +120,15 @@ Iron Veil airships put her into the Glass Plateau and she works: killing Hundred
 
 ## Origin
 
-She was a young Tiefling woman in the Lower City, of no rank and no protection, in the years after the Lord Commander outlawed the Warforged of Sharn. She found something she was not meant to find — a hidden cell in the Lower City, and the Warforged living in it. She ran. He followed. She went off the Grand Aqueduct's upper walkway and was impaled on the machinery beneath. That was the end of Eden's first life, nearly four years before anyone stole a Ghost Chip out of BioTec.
+Eden was never sold. She lived with her mother until her mother's death, after which [Greenish Hughes](/people/greenish-hughes/) found her and arranged a home for her in [Newham](/places/newham/).
+
+In Sharn she became an Imperial researcher, recruited in part because she was Esther's sister. Her assignment covered [the Mournlands](/places/the-mournland/), Warforged migration, the resurgence of [Locke Pierce](/people/locke-pierce/) and [the Hundreds](/organizations/the-hundreds/). She was investigating a Hundreds cell in the [Lower City](/places/the-lower-city/) when she was critically injured.
+
+She was a young Tiefling woman in the Lower City, of no rank and no protection, in the years after the Lord Commander outlawed the Warforged of Sharn. She found something she was not meant to find — a hidden cell in the Lower City, and the Warforged living in it. She ran. He followed. She went off the Grand Aqueduct's upper walkway and was impaled on the machinery beneath. That was the end of Eden's first life, nearly four years before anyone stole a Ghost Chip out of BioTec. She was about eighteen when she died.
 
 Her body went to her sister. Esther Crona, who has never once in her life accepted a loss she was not prepared to accept, took it to Sister Nora of the Black Doves and asked for a miracle. What she got was a failed ritual and an [Umbra](/items/umbra/) infusion, and what came off that table was the prototype of an Imperial weapons programme. Everything [Project E.D.E.N.](/organizations/project-e-d-e-n/) later became — the corpse pipeline out of the Cogs, the [BioTec](/organizations/biotec/) grafts, the Black Dove rites, the mask bolted over every later unit's failing face — is engineering reverse-derived from one desperate night and one incomplete result.
+
+The modified rite embedded a Khyber-cut diamond in her sternum in place of her destroyed heart.
 
 ## Right Now
 
