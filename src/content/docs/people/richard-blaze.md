@@ -91,6 +91,9 @@ Richard is officially dead. The public believes he and Calcifer were killed duri
 
 Richard was born in the **Demon Wastes** and taken as a child during an Imperial raid. He was transported in chains to [Newham](/places/newham/) and sold into kitchen labor, growing up as property rather than as a free person. Cooking began as work forced upon him, but he developed an extraordinary talent for it. In his own telling, food became his weapon: he cooked his way into freedom, then into money, reputation and eventually fame.
 
+![Young Richard Blaze working as a slave in Newham.png](/images/uploads/young-richard-blaze-working-as-a-slave-i-muzzvdnd.webp)
+*Young Richard working as a slave in Newham*
+
 It was during his years in Newham that Richard met [Digma Beeve](/people/digma-beeve/), a halfling furniture trader who became the first person Richard remembered treating him as a man rather than as property. Digma quietly spoke to him about resistance to the Empire, and Richard listened. Their friendship became the beginning of something much larger than either man's business.
 
 ---
