@@ -73,7 +73,7 @@ gallery:
     caption: Richard Blaze, a horned man with a trim beard in a long dark coat and red scarf, gestures with an open hand.
 ---
 
-**Male Tiefling · Chef and Restaurateur · Hidden Founder of [Fulcrum](/organizations/fulcrum/) · Alive · Missing**
+**Male Tiefling · Chef and Restaurateur · Hidden Founder of [Fulcrum](/organizations/fulcrum/) · Alive · Location Unknown**
 
 <small>Also known as: the ghost founder · Fulcrum's hidden architect</small>
 
@@ -199,7 +199,7 @@ Richard's first known appearance came aboard a lightning-rail train travelling f
 
 He was travelling in another car to oversee the opening of his newest restaurant, *Great Balls of Blaze*.
 
-The train was also carrying the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), an Imperial artifact being transported after its recovery from Greenbluff.
+The train was also carrying the [Fantanya Nyel](/items/the-hell-bell-fantanya-nyel/), an Imperial artifact being transported after its recovery from Greenbluff.
 
 [John Stamos](/people/john-stamos/) and other Fulcrum operatives were aboard as part of an attempt to take the artifact.
 
@@ -207,7 +207,7 @@ The Imperial team securing the train was [the Unforeseen](/organizations/the-unf
 
 The train became a battlefield.
 
-[Lady Glow] escaped.
+Lady Glow escaped.
 
 Stamos did not.
 
@@ -339,29 +339,101 @@ Then he cried again.
 
 Esther believed she may have been delirious from pain and blood loss.
 
-Richard did not.
+Richard did not dismiss the possibility that she had seen something real.
 
-He believed someone else had witnessed what happened.
+He believed there might be evidence that could establish what happened.
 
 ---
 
-## Uriel and the ArcEye
+## Uriel and Calcifer
 
-Richard became convinced that the truth of Calcifer's birth might still exist in the records of the [ArcEye network](/items/the-arcane-eye-network/).
+[Uriel Qualanthri](/people/uriel-qualanthri/) was not simply Calcifer's godmother.
 
-He learned of [Grady Marsh](/people/grady-marsh/), a retired ArcEye surveillance wizard who had supposedly been watching the upper districts around the time of Calcifer's birth.
+She was also one of Esther's closest former companions and one of the people Richard had spent years living beside through his marriage.
 
-If Grady had witnessed the birth, Richard believed the memory might still be recoverable.
+According to Esther's account, Uriel delivered Calcifer and appeared to place a hand over the newborn while green magic spread across his face and his breathing stopped.
 
-His hope was simple.
+Richard was not present.
 
-He wanted [Esther Crona](/people/esther-crona/) to see the truth with her own eyes.
+Everything he knew about that moment came from Esther.
 
-He believed that if she understood what had happened to their son, she might turn against [Uriel Qualanthri](/people/uriel-qualanthri/) and perhaps even against the Empire itself.
+He believed her enough to investigate.
 
-Richard did not know what Uriel had intended.
+But he did not have proof.
 
-He believed there was something to uncover.
+That changed with [Grady Marsh](/people/grady-marsh/).
+
+---
+
+## Grady Marsh
+
+[Grady Marsh](/people/grady-marsh/) was a retired [ArcEye](/items/the-arcane-eye-network/) surveillance wizard who had once patrolled the Upper City.
+
+Eight years earlier, he had wandered off his assigned route and looked into the Lord Commander's penthouse.
+
+He saw Calcifer's birth.
+
+He did not legally file the surveillance report.
+
+No official record of the event therefore existed in the Imperial archive.
+
+Years later, Grady began telling the story while drinking at the Gremlin Lantern Sake Bar in the Lower City.
+
+A [Nest](/organizations/the-nest/) informant overheard him.
+
+[Jessica Grimpledink](/people/jessica-grimpledink/) took the rumor directly to Richard.
+
+Richard understood immediately what it meant.
+
+If Grady had really witnessed Calcifer's birth, then there might finally be evidence of what had happened that night.
+
+The Inevitables eventually found Grady and rescued him from [the Vault Underground](/places/the-vault-underground/).
+
+He was brought to Zilspar Farm 02, where the rebellion recovered an [ArcEye](/items/the-arcane-eye-network/) Crystallizer.
+
+The memory was successfully extracted.
+
+Richard was in the room when it was played.
+
+For the first time, the story Esther had told him was no longer only a memory.
+
+It was recorded.
+
+---
+
+## The ArcEye Memory
+
+The recovered memory showed Esther in severe pain during Calcifer's birth.
+
+It showed [Uriel Qualanthri](/people/uriel-qualanthri/) examining the newborn.
+
+It showed Uriel raising her hand over Calcifer's face.
+
+A sickly green glow appeared.
+
+The baby's breathing faltered and stopped.
+
+Dark, vein-like markings spread across his cheek.
+
+Esther screamed.
+
+Uriel withdrew her hand.
+
+Calcifer gasped and began crying again.
+
+As Uriel turned away, the recording also captured a glowing diamond embedded at the base of her skull.
+
+Richard saw the memory himself.
+
+So did [Jessica Grimpledink](/people/jessica-grimpledink/), [Zero-One](/people/zero-one-fema-nolan/), [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/).
+
+Three copies were made.
+
+For Richard, there was no longer any need to ask whether Esther had imagined everything.
+
+Something had happened.
+
+Exactly what Uriel intended remained another question.
 
 ---
 
@@ -457,7 +529,7 @@ And he told them that his wife was the Lord Commander of the Imperial Military.
 
 ## The Mission
 
-Richard's confession sent the group toward three major mysteries.
+Richard's confession sent the group toward the mysteries that had become personal to him.
 
 The first was [Grady Marsh](/people/grady-marsh/) and the [ArcEye](/items/the-arcane-eye-network/) memory surrounding Calcifer's birth.
 
@@ -511,7 +583,7 @@ She said she wished she could come with them to the lake house.
 
 But things at [Crona's Wall](/places/cronas-wall/) were escalating.
 
-She kissed her husband and son goodbye.
+She kissed her husband and son.
 
 Then she left.
 
@@ -667,7 +739,7 @@ Zilspar Farm was later destroyed.
 
 Digma believed Richard and Calcifer would probably move away and disappear somewhere around [Leef](/places/leef/), but this was never confirmed.
 
-Their present whereabouts remain unknown.
+Their present location is unknown.
 
 Richard remains alive.
 
@@ -738,13 +810,13 @@ His public identity is dead.
 - **[Zero-One](/people/zero-one-fema-nolan/)** — co-founder and leader of Fulcrum. Taken alive by [Project E.D.E.N.](/organizations/project-e-d-e-n/).
 - **[John Stamos](/people/john-stamos/)** — co-founder of Fulcrum and the heart of the original cell. Richard watched him die aboard the lightning rail. Deceased.
 - **[Jessica Grimpledink](/people/jessica-grimpledink/)** — brought into Richard's secret and entrusted with the Sharn end of the rebellion. Alive.
-- **[Gemma Corso](/people/gemma-corso/)** — received Richard's confession at Zilspar Farm 02.
+- **[Gemma Corso](/people/gemma-corso/)** — received Richard's confession and later watched the recovered ArcEye memory with him at Zilspar Farm 02.
 - **[Eric the Cleric](/people/eric-the-cleric/)** — received Richard's confession and fought beside him at the penthouse.
 - **[Sir Dario Argentino](/people/sir-dario-argentino/)** — received Richard's confession and fought beside him at the penthouse.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — former member of [the Unforeseen](/organizations/the-unforeseen/), Calcifer's godmother and the person Richard believed had harmed his son.
 - **[Varyn Crona](/people/varyn-crona/)** — Esther's former master; Richard believed Varyn's soul remained bound to the sword controlling her.
-- **[John C. LeBeefe](/people/john-c-lebeefe/)** — member of the Unforeseen who killed John Stamos without knowing Richard was present.
-- **[Grady Marsh](/people/grady-marsh/)** — retired ArcEye wizard whose memory Richard believed could reveal the truth about Calcifer's birth.
+- **[John C. LeBeefe](/people/john-c-lebeefe/)** — member of the Unforeseen who killed John Stamos while Richard was on the same train.
+- **[Grady Marsh](/people/grady-marsh/)** — retired ArcEye wizard who witnessed Calcifer's birth and whose recovered memory became the evidence Richard had been seeking.
 - **[Whole Foods](/people/whole-foods/)** — Calcifer's nanny. Deceased.
 - **Lady Glow** — fellow rebel present during the lightning-rail incident. Escaped the train while Richard remained undercover.
 
