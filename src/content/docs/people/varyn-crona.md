@@ -2,19 +2,19 @@
 title: Varyn Crona
 description: High Elf paladin, head of the Crimson Sun, Eternal Guardian to three Emperors, and the soul Esther Crona carried in her sword.
 tags:
-- Varyn Crona
-- Vayrn Crona
-- Varyn
-- Crona
-- Eternal Guardian
-- Crimson Sun
-- Imperial Council
-- Council of 13
-- Forge of Binding
-- Esther Crona
-- Aerenal
-- High Elf
-- Veryn Crona
+  - Varyn Crona
+  - Vayrn Crona
+  - Varyn
+  - Crona
+  - Eternal Guardian
+  - Crimson Sun
+  - Imperial Council
+  - Council of 13
+  - Forge of Binding
+  - Esther Crona
+  - Aerenal
+  - High Elf
+  - Veryn Crona
 image:
   src: /images/uploads/vayrn-crona-eternal-guardian-mu0n5ghk.webp
 type: person
@@ -35,50 +35,50 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/wa/varyn-crona-person.txt
-- sources/wa/esther-crona-person.txt
-- sources/wa/the-crimson-sun-organization.txt
-- sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
-- sources/site/esther-crona.txt
-- sources/site/sharn-episode-summaries.txt
-- sources/site/mission-board.txt
-- worldanvil/CANON.md
-- sources/documents/2026-09-14-nico-evil-campaign-3.md
-- "Oral Histories: The Inevitables, 2026-07-08"
-- "Oral Histories: The Inevitables, 2026-08-22"
-- "Oral Histories: The Inevitables, 2026-08-23"
-- "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
+  - sources/wa/varyn-crona-person.txt
+  - sources/wa/esther-crona-person.txt
+  - sources/wa/the-crimson-sun-organization.txt
+  - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
+  - sources/site/esther-crona.txt
+  - sources/site/sharn-episode-summaries.txt
+  - sources/site/mission-board.txt
+  - worldanvil/CANON.md
+  - sources/documents/2026-09-14-nico-evil-campaign-3.md
+  - 'Oral Histories: The Inevitables, 2026-07-08'
+  - 'Oral Histories: The Inevitables, 2026-08-22'
+  - 'Oral Histories: The Inevitables, 2026-08-23'
+  - 'JL''s DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank'
 published: '2026-09-10'
 wa:
   slug: varyn-crona-person
   uuid: db8f13ba-3093-47fe-bff2-d08896f04461
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
 gallery:
-- src: /images/gallery/2025-09-12-01.webp
-  alt: 'Parchment: the fortune of John C. LeBeefe'
-  caption: A parchment handout stating that John C. LeBeefe made his fortune as a slave trader in the Demon Wastes, let fiends harvest his seed, and fathered four tiefling daughters, the eldest adopted by Imperial Counselor Veryn Crona as his protege.
-- src: /images/gallery/2026-02-19-09.webp
-  alt: Varyn Crona and E'noch at the forge
-  caption: Varyn Crona and the red-hooded priest E'noch Qualanthri forge a blade on an anvil in a chamber of fire and red energy.
-- src: /images/gallery/2026-02-20-03.webp
-  alt: Archivist's Addendum by Renn Tal
-  caption: 'A prop document titled "Archivist''s Addendum, Recorded by Archivist Renn Tal, 1047 YK": notes on the Forge of Binding and the Eternal Guardian rite, studied by directive of Lord Commander Esther Crona, ending "I am getting close. I know too much."'
-- src: /images/gallery/2026-04-30-01.webp
-  alt: 'Scroll: The Call of the Severed'
-  caption: 'A hand holds a scroll titled "The Call of the Severed" before a great forge: "By blood unbound and soul laid bare, Varyn Crona, hear the Call of the Severed... return now to your place of binding." It is the Rite of Recall read at the Forge of Binding.'
-- src: /images/gallery/2026-02-17-16.webp
-  alt: Esther Crona and Varyn Crona embrace
-  caption: Esther Crona in a black gown embraces a white-haired, bearded elf in a black shirt on a candlelit staircase.
-- src: /images/album/esther-crona-age-18-and-vayrn-crona-inside-crimson-sun-hall-korth.webp
-  alt: 'Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth'
-  caption: 'Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth'
+  - src: /images/gallery/2025-09-12-01.webp
+    alt: 'Parchment: the fortune of John C. LeBeefe'
+    caption: A parchment handout stating that John C. LeBeefe made his fortune as a slave trader in the Demon Wastes, let fiends harvest his seed, and fathered four tiefling daughters, the eldest adopted by Imperial Counselor Veryn Crona as his protege.
+  - src: /images/gallery/2026-02-19-09.webp
+    alt: Varyn Crona and E'noch at the forge
+    caption: Varyn Crona and the red-hooded priest E'noch Qualanthri forge a blade on an anvil in a chamber of fire and red energy.
+  - src: /images/gallery/2026-02-20-03.webp
+    alt: Archivist's Addendum by Renn Tal
+    caption: 'A prop document titled "Archivist''s Addendum, Recorded by Archivist Renn Tal, 1047 YK": notes on the Forge of Binding and the Eternal Guardian rite, studied by directive of Lord Commander Esther Crona, ending "I am getting close. I know too much."'
+  - src: /images/gallery/2026-04-30-01.webp
+    alt: 'Scroll: The Call of the Severed'
+    caption: 'A hand holds a scroll titled "The Call of the Severed" before a great forge: "By blood unbound and soul laid bare, Varyn Crona, hear the Call of the Severed... return now to your place of binding." It is the Rite of Recall read at the Forge of Binding.'
+  - src: /images/gallery/2026-02-17-16.webp
+    alt: Esther Crona and Varyn Crona embrace
+    caption: Esther Crona in a black gown embraces a white-haired, bearded elf in a black shirt on a candlelit staircase.
+  - src: /images/album/esther-crona-age-18-and-vayrn-crona-inside-crimson-sun-hall-korth.webp
+    alt: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
+    caption: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
 ---
 
 **High Elf · Paladin · The Crimson Sun / The Imperial Council · Dead**
 
 *Also known as:* Vayrn Crona · General Varyn Crona · the Eternal Guardian · Master (to Esther)
 
-**Varyn Crona** was a High Elf paladin of Aerenal, leader of [The Crimson Sun](/organizations/the-crimson-sun/), one of the thirteen of [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/), and the **Eternal Guardian** — the Emperor's sworn protector, appointed from birth and serving Kaius I, Kaius II and Kaius III, shaping Imperial military doctrine across those reigns. From his manor in Korth he bought a five-year-old slave, [Esther Crona](/people/esther-crona/), taught her to read, write and harness her natural powers, took her as his apprentice at twelve and later as his lover, and hunted rebel cells with her. A masked assailant killed him in a cave system outside Fairhaven in Aundair, at around fifty-six human years old; rebel field analysis attributes the assassination to members of [the Council of 13](/organizations/the-council-of-13/) rather than to rebels. His manor passed to Esther, and his soul is bound in his red-and-black longsword, which she wielded as her Hexblade until her death.
+**Varyn Crona** was a High Elf paladin of Aerenal, leader of [The Crimson Sun](/organizations/the-crimson-sun/), one of the thirteen of [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/), and the **Eternal Guardian** — the Emperor's sworn protector, appointed from birth and serving Kaius I, Kaius II and Kaius III, shaping Imperial military doctrine across those reigns. From his manor in Korth he bought a five-year-old slave, [Esther Crona](/people/esther-crona/), taught her to read, write and harness her natural powers, took her as his apprentice at twelve and later as his lover, and hunted rebel cells with her. A masked assailant killed him in a cave system outside Fairhaven in Aundair, at around 563 years old; rebel field analysis attributes the assassination to members of [the Council of 13](/organizations/the-council-of-13/) rather than to rebels. His manor passed to Esther, and his soul is bound in his red-and-black longsword, which she wielded as her Hexblade until her death.
 
 ## Physical description
 
