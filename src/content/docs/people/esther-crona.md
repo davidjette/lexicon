@@ -381,7 +381,7 @@ Esther never suspected that Richard was working against the Empire. She believed
 
 Their final meeting made that hidden contradiction impossible to ignore.
 
-When Richard later confronted Esther on the balcony of the [Veil Building](/places/the-veil-building/), he did not attack her first. He tried to reason with his wife while Calcifer ran into his arms. Esther accused him of bringing her killers into her home, and the marriage that had once contained moments of genuine warmth became part of the battle itself.
+When Richard later confronted Esther on the balcony of the [Veil Building](/places/the-veil-building/). He tried to reason with his wife while Calcifer ran into his arms. Esther accused him of bringing her killers into her home, and the marriage that had once contained moments of genuine warmth became part of the battle itself.
 
 ![Sharn Ep 18 — The Fall of Esther Crona - Richard Blaze, Calcifer and Esther Crona - Sharn Upper City.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-ric-muxu044x.webp)
 *Esther, Richard and Calcifer*
