@@ -39,6 +39,8 @@ sources:
   - sources/site/sharn-episode-summaries.txt
   - sources/site/mission-board.txt
   - sources/site/ebt-7.txt
+  - Esther Crona, as revised by Nico, 2026-10-07
+  - Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-lower-city-location
@@ -78,11 +80,19 @@ Several distinct neighborhoods make up the Lower City, each shaped by the indust
 
 Below the streets run the sewers, the runoff passages off the aqueduct, and the abandoned sub-transit tunnels. Gangs hold stretches of it — the **Drain Snakes** fortified the northern sewer network and blocked all safe movement until they were cleared out. Further down, past a flooded chamber full of crocodiles and a reinforced door, is [the Underhive](/organizations/the-underhive/).
 
+## The Hundreds cell
+
+[Eden](/people/eden/), an Imperial researcher and the youngest half-sister of [Esther Crona](/people/esther-crona/), discovered that a cell of [the Hundreds](/organizations/the-hundreds/) was operating inside Sharn and investigated it in the Lower City. She followed stolen shipments, anti-Imperial graffiti and reports of a Warforged preacher in the Cogs. She was critically injured during the investigation.
+
 ## The occupation and the exodus
 
 After the riot at [POSÉ](/places/pose/) the Iron Veil used the violence as justification to accelerate its occupation of the Cogs. Checkpoints divided upper from lower. Cogborn families were driven underground into a collapsing tunnel pocket called the Pit and cut off from their own neighborhood.
 
 The way out was down: through the Underhive, along [the Spine](/places/the-spine/), and out under the mountain to [Gorgonhorn](/places/gorgonhorn/). The majority of the Cogborn left Sharn that way. Iron Veil presence in the Lower City later fell back to pre-[Esther](/people/esther-crona/) levels: patrols present, but predictable and spread thin.
+
+## The tracking of Renn Tal
+
+After fleeing [the Sharn Library](/places/the-sharn-library/), [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) met [Renn Tal](/people/renn-tal/) again in the Lower City. Esther had General [Stockton Thar](/people/general-stockton-thar/) track Renn to the Lower City by his Dragonmark of Finding.
 
 ## Present day
 
