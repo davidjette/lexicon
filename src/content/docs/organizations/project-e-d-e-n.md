@@ -38,6 +38,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-04-04"
 - "Oral Histories: The Inevitables, 2026-06-25"
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- "Esther Crona, as revised by Nico, 2026-10-07"
+- "Dave, note of 2026-10-07"
 published: '2026-09-10'
 wa:
   slug: project-eden-organization
@@ -121,6 +123,14 @@ Nora also gave up the beginning of it. Eden — Esther's youngest half-sister �
 > — Sister Nora on EDN-00
 
 The masks exist because the reproductions decay in ways the original did not.
+
+## THE FOUNDING CIRCLE
+
+The programme's founding circle was [Esther Crona](/people/esther-crona/), [Sister Nora](/people/sister-nora/), Dr. [Joanne Menka](/people/dr-joanne-menka/), [Hallorn d'Lyrandar](/people/hallorn-d-lyrandar/), [Malrik Zeir](/people/malrik-zeir/), [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) and [BioTec](/organizations/biotec/)'s private owner, Dr. [Edwin Graves](/people/dr-edwin-graves/).
+
+Esther held overall authority. Sister Nora and the [Black Doves](/organizations/the-black-doves/) provided the necromantic rites. Menka led the research. Malrik supplied the [Umbra](/items/umbra/) and Hallorn transported it. Vex oversaw Imperial deployment and military operations. Graves provided BioTec's facilities, personnel, technology and [Cogborn](/species/the-cogborn/) corpses.
+
+Esther held [Eden](/people/eden/) back as leverage to make [Faith](/people/faith/) and Malrik increase the Umbra supply.
 
 ## FIELD ACCOUNT — PREACHER, R.U.S.T.
 
