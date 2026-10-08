@@ -28,6 +28,9 @@ sources:
 - worldanvil/CANON.md
 - sources/documents/2026-09-14-nico-evil-campaign-dm-2.md
 - "Oral Histories: The Inevitables, 2026-06-25"
+- Esther Crona, as revised by Nico, 2026-10-07
+- "JL's DM notes: The Unforeseen Strike Back DM Notes"
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: the-council-of-13-organization
@@ -59,7 +62,7 @@ Thirteen Imperial government heads meeting in a tower in Korth called the Imperi
 - **Admiral Johan Frigg** — Human Rogue (Swashbuckler). In charge of the navy and aerial command.
 - **Lord Albert Spear** — Human Nobleman. Head of city planning and development; he granted New Ham an Imperial Charter to grow from a town into a city.
 - **Judge Artumus Reinhold** — Human Bard, former opera singer. Supreme Justice of Karrnath, and Gabrielle Duin's secret lover.
-- **Minister [Henry Heinrick](/people/henry-heinrick/)** <small>(also written Heighrick)</small> — Human Nobleman. Chief Diplomat and head of the Ministry of Diplomacy; he travelled with Esther Crona to the Eldeen Reaches to finalise the alliance treaty with the Children of Winter.
+- **Minister [Henry Heinrick](/people/henry-heinrick/)** <small>(also written Heighrick)</small> — Human Nobleman. Chief Diplomat and head of the Ministry of Diplomacy; he travelled with [Esther Crona](/people/esther-crona/) to the Eldeen Reaches to finalise the alliance treaty with the Children of Winter.
 - **Minister Josef Conaway** — Human Bard, former actor and playwright. Minister of Media and Propaganda.
 - **Chancellor Magnolia Steel** <small>(also written Steele)</small> — Human Wizard. Chancellor of the Rekkenmark Academy; with Garth Brooks she brought Esther the Emperor's charge to retrieve the ancient tablets.
 - **Fanta Rhodes** — Cloaked figure, race unknown; Warlock. Hand of Kaius III.
@@ -72,6 +75,8 @@ Months before the Emperor charged Esther with the tablets, Uriel Qualanthri and 
 
 Field analysis indicates that Varyn's death was *not* the result of rebel activity, despite official Imperial claims. Multiple intelligence fragments point to members of the Council of 13 as the likely architects of his assassination. Following this discovery, [Esther](/people/esther-crona/), seemingly acting with the Emperor's approval, systematically eliminated all council members, **including some of their immediate family members**. The sole survivor is [Henry Heinrick](/people/henry-heinrick/), former Chief Diplomat and head of the Ministry of Diplomacy, now serving as Mayor of Sharn. His continued survival is considered politically significant and remains under review.
 
+Esther killed every member of the Council and their immediate families except Henry Heinrick.
+
 <small>Open question, filed and never answered: what does the lone survivor from the Council of 13 know about the previous head of the Crimson Sun and head of the council? Nobody got to ask him.</small>
 
 ## REBEL OBSERVATION FILE — THE HONOR GUARD
@@ -79,6 +84,10 @@ Field analysis indicates that Varyn's death was *not* the result of rebel activi
 The Lord Commander is routinely accompanied by a four-member masked and fully armored honor guard; **their identities, ranks, and origins remain completely unknown.** One of the four is always near [Calcifer Blaze](/people/calcifer/), age eight, who is rarely observed outside Imperial compounds and is monitored by dedicated personnel at all times.
 
 <small>The rebellion watched these four for years and never got a face. The observation note above was still filed as an open item on the day the answer arrived.</small>
+
+[Uriel Qualanthri](/people/uriel-qualanthri/)'s wedding gift to Esther was the undead bodies of the Council, which became Esther's Death Knights and later her masked Honor Guard. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+
+Esther revealed the Honor Guard as the Council's dead at [the fall of Sharn](/history/the-fall-of-sharn/).
 
 ## THE BALCONY, BROADCAST LIVE
 
