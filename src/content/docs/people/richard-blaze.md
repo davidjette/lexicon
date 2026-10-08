@@ -294,6 +294,9 @@ The ArcEye memory was then broadcast across [Sharn](/places/sharn/), forcing Est
 
 When the confrontation became violent, Richard refused to attack Esther. He pulled Calcifer away from the fighting and used **Darkness** to prevent his son from watching his mother die. While protecting Calcifer, Richard continued secretly assisting [Gemma](/people/gemma-corso/), [Eric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/).
 
+![Sharn Ep 18 — The Fall of Esther Crona - Calcifer with his Father Richard Blaze - Sharn Upper CIty Penthouse.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-cal-mv03pahe.webp)
+*Richard and Calcifer*
+
 Richard is both a **Bard** and a **Draconic Bloodline Sorcerer**, his innate sorcery tied to a red-dragon lineage and fire. He rarely displays his magic openly, favoring subtle spellcasting that allows him to influence events without drawing attention. During the battle he used that talent to heal the trio and provide Bardic Inspiration while remaining focused on Calcifer and refusing to strike his wife.
 
 Even then, he begged the others not to kill Esther.
