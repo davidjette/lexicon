@@ -46,6 +46,8 @@ sources:
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 - "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
+- Esther Crona, as revised by Nico, 2026-10-07
+- Dave, note of 2026-10-07
 published: '2026-09-10'
 wa:
   slug: richard-blaze-person
@@ -129,6 +131,10 @@ In Nico's notes for the sessions that followed, Richard is one of the original m
 The morning after an Iron Veil patrol was quietly eliminated in the farmyard, four people came through the hidden teleportation circle into a sealed safe-house room: Zero-One, Jessica Grimpledink, Digma Beeve and Richard Blaze. There he finally delivered his long-buried confession — the truth about Esther, the sword, and the forces shaping the Empire.
 
 Eric and Dario remained deeply wary, unconvinced that saving Esther was possible or wise. Richard didn't argue. He warned them that facing her while her sword remained bound would be suicide, and that was all. The confession set the party's whole course: find [Grady Marsh](/people/grady-marsh/), recover the Arcane Eye footage that may prove what Esther claims happened at Calcifer's birth, and uncover the origin of Varyn Crona's sword, the weapon Esther still wields.
+
+## After the Forge of Binding
+
+After the night at the [Forge of Binding](/places/the-forge-of-binding/), [Esther Crona](/people/esther-crona/) came home at sunrise, quiet and almost lost. She told Richard she had been looking for something for a very long time and had finally found it deep beneath the city. Richard said it was the most content he had seen her in years. She spent the early morning playing with [Calcifer](/people/calcifer/) while Richard cooked breakfast. She said she wished she could stay or come to their lake house, and she left for [Crona's Wall](/places/cronas-wall/).
 
 ## The Balcony
 
