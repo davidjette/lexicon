@@ -76,6 +76,10 @@ published: '2026-09-10'
 wa:
   slug: the-anachron-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/gallery/the-anachron-detail.webp
+  alt: "The pyramid of the Chronicle"
+  caption: "A pyramid floating point-down over a ringed platform among towering machinery, a detail of a table illustration of the machine in its form as the Chronicle."
 ---
 
 **Infernal Machine · elemental drive and moonstone housing · one entity under three names · extant**

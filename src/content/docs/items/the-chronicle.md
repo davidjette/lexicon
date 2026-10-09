@@ -52,6 +52,10 @@ published: '2026-09-10'
 wa:
   slug: the-chronicle-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/gallery/the-anachron-detail.webp
+  alt: "The Chronicle"
+  caption: "A pyramid floating point-down over a ringed platform among towering machinery, a detail of a table illustration."
 ---
 
 **Living archive · Under hardened magma northeast of Enkidu, Netherese era · Sealed, corrupted, contested**

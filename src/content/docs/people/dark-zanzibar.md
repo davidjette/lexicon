@@ -57,6 +57,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-10-25"
 - "Oral Histories: The Inevitables, 2025-11-09"
 published: '2026-09-14'
+image:
+  src: /images/gallery/dark-zanzibar-detail.webp
+  alt: "Dark Zanzibar"
+  caption: "Dark Zanzibar, white-haired and scarred in black armour, chin on his fist before a window of stars, a detail of the picture of him with Stonecypher."
 ---
 
 **Species unknown · Zanzibar of another loop · Temple Holdings LLC · Player character (JL) · Erased**

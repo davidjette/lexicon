@@ -63,6 +63,10 @@ gallery:
 - src: /images/chat/2024-05-07-736452645317285.webp
   alt: "Elf woman at a beholder hearing"
   caption: "A retro poster reading \"Join Astral Command\" shows a blonde elf woman in yellow and green before a panel with a placard marked \"Beholder\"."
+image:
+  src: /images/gallery/beholder-detail.webp
+  alt: "A many-eyed beholder"
+  caption: "A grey, many-eyed, fanged creature with eyestalks, a detail of a pulp painting posted at the table."
 ---
 
 **Species · The Astral Sea · Enemies of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Largely wiped out**

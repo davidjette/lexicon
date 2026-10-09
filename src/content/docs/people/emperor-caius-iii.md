@@ -61,6 +61,10 @@ gallery:
 - src: /images/gallery/2026-08-10-03.webp
   alt: Gemma's dream of the fountain
   caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
+image:
+  src: /images/gallery/emperor-caius-iii-detail.webp
+  alt: "Emperor Caius III in the dream"
+  caption: "An emaciated old man in rags carries a swaddled infant before a fountain, a detail of the dream image."
 ---
 
 **Species disputed · Emperor of the Pax Imperium · House of Kaius · Comatose**
