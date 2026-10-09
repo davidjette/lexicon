@@ -44,6 +44,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-09-22"
 - "Oral Histories: The Inevitables, 2026-03-07"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-blackfish-encounter.webp
+  alt: "The Blackfish Encounter"
+  caption: "AI image of a burning sailing ship with drowned figures climbing ropes up its side while people on deck cut the ropes."
 ---
 
 **Battle · Saltmarsh, Oerth · The party against Jeremiah and the drowned dead · Jeremiah slain and risen**

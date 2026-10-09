@@ -41,6 +41,10 @@ published: '2026-09-10'
 wa:
   slug: star-quendi-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/star-quendi.webp
+  alt: "Star Quendi's echo at Bask Falls Barrow"
+  caption: "AI image of a glowing spectral elven noblewoman, her face hidden in light, offering a sword to a kneeling figure inside a barrow tomb."
 ---
 
 **Elf-noble, rank of Star · House Gallidann · Guardian of the first Infanta · Ascended — dwells in Arboria**

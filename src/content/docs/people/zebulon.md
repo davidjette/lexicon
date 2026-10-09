@@ -37,6 +37,10 @@ published: '2026-09-10'
 wa:
   slug: zebulon-the-meek-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/zebulon.webp
+  alt: "Zebulon the Meek"
+  caption: "AI image of an old orc archivist, seen from behind, holding salvaged notes before a volcanic vent among the ruins of an ivory fortress."
 ---
 
 **Orc · Archivist and prophet of Istus · The last of the keepers of the Chronicle · Alive as of Arc VI**

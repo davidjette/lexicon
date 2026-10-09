@@ -33,6 +33,10 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-02-15"
 - "Oral Histories: Temporal Holdings, 2019-02-22"
 published: '2026-09-14'
+image:
+  src: /images/generated/krapsmere.webp
+  alt: "Lord Krapsmere"
+  caption: "AI image of a commander, seen from behind, giving orders to gathered soldiers in a castle hall at night."
 ---
 
 **Lord of Cormyr · Commander of [the Purple Dragons](/organizations/the-purple-dragons/) · [Suzail](/places/suzail/)**

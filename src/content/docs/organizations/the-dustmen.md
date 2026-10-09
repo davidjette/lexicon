@@ -29,6 +29,10 @@ fields:
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2997, IMG_3003, IMG_3005, IMG_3007, IMG_3021)
 published: '2026-09-14'
+image:
+  src: /images/generated/the-dustmen.webp
+  alt: "The Dustmen at work in the Mortuary"
+  caption: "AI image of hooded attendants receiving shrouded bodies at the foot of a long chute in a mortuary hall while a bookkeeper works at a ledger."
 ---
 
 **Faction · [Sigil](/places/sigil/) · Keepers of [the Mortuary](/places/the-mortuary/)**

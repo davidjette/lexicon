@@ -34,6 +34,10 @@ published: '2026-09-10'
 wa:
   slug: the-deeptempura-clan-ethnicity
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/the-deeptempura-clan.webp
+  alt: "Smiths of the Deeptempura clan at the forge"
+  caption: "AI image of deep-dwarf smiths hammering glowing ore into paper-thin layers in a forge hall inside a mountain, with a great bell behind them."
 ---
 
 **Duergar (deep dwarves) - forge-clan of the Korramont - all but extinct**

@@ -33,6 +33,10 @@ published: '2026-09-10'
 wa:
   slug: ysmir-st-cloud-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/ysmir-st-cloud.webp
+  alt: "Ysmir St. Cloud, captain of the Evening Star"
+  caption: "AI image of a ship's captain seen from behind on deck at night, sighting the stars with a silver sextant."
 ---
 
 **Human · Captain of the *Evening Star* · Slaver · The youngest of the three brothers · Dead (Arc I)**

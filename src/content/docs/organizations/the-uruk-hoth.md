@@ -39,6 +39,10 @@ sources:
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
 published: '2026-09-14'
+image:
+  src: /images/gallery/2026-05-12-04.webp
+  alt: "The Uruk-Hoth"
+  caption: "A close view of the western half of the Khorvaire map with a red boundary line, showing the Uruk-Hoth Republic, the Eldeen Reaches, Aundair, Breland and a dotted red line marking Crona's Wall."
 ---
 
 **Orc nation · Western Khorvaire · At war with the Empire · Active**

@@ -35,6 +35,10 @@ published: '2026-09-10'
 wa:
   slug: marcy-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/marcy.webp
+  alt: "Marcy, a mountain dwarf bard"
+  caption: "AI image of a dwarf bard in leather armour, seen from behind, playing bagpipes with a rapier at the belt and a bundle of costumes at their feet."
 ---
 
 **Mountain Dwarf · Bard, Level 3 · Unaffiliated · Chaotic Good · Status unknown**

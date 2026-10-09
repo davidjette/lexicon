@@ -44,6 +44,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3078, IMG_3080, IMG_3081, IMG_3082, IMG_3083, IMG_3084, IMG_3090, IMG_3093)
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 published: '2026-09-14'
+image:
+  src: /images/generated/bud-holhertz.webp
+  alt: "Bud Holhertz"
+  caption: "AI image of a sneering rogue with black hair and a scraggly mustache, holding a crossbow in the rain outside an inn at night."
 ---
 
 **Species unknown · Rogue · Leader of the Holhertz Expedition · Alive**

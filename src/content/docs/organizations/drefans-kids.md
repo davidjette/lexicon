@@ -30,6 +30,10 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-05-25"
 - "Oral Histories: Temporal Holdings, 2019-11-11"
 published: '2026-09-14'
+image:
+  src: /images/generated/drefans-kids.webp
+  alt: "Drefan's Kids crewing the Arielle"
+  caption: "AI image of a band of children working the deck of an airship in flight, seen from behind."
 ---
 
 **Freed children · Crew of the Arielle · Temple Holdings LLC, Arcs III and IV · Status unknown**

@@ -31,6 +31,10 @@ wa:
   slug: episode-8-28a26amp3Bb29-E2809Cpirate-joseph-robertsE2809D-dm3A-lamont-report
   uuid: 771141fe-cf74-40c6-8cd7-34d62b325110
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+image:
+  src: /images/generated/episode-8-aandb-pirate-joseph-roberts-dm-lamont.webp
+  alt: "The party marooned by Pirate Joseph Roberts"
+  caption: "AI image of four figures stranded on a small island, watching a fleet of giant ships sail away."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 8 (a&b) · DM: LaMont · Report filed 12 Sep 2020**

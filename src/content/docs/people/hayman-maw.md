@@ -38,6 +38,10 @@ sources:
 - Esther Crona and Varyn Crona, as revised by Nico, 2026-10-07
 - canon/CANON.md 5am
 published: '2026-10-07'
+image:
+  src: /images/generated/hayman-maw.webp
+  alt: "Hayman Maw"
+  caption: "AI image of a man, seen from behind, briefing four seated agents in a hotel room with a silent figure beside him."
 ---
 
 **Human · Sorcerer · Master of [the Crimson Sun](/organizations/the-crimson-sun/) · Member of the [Council of 13](/organizations/the-council-of-13/) · Killed in the purge of the Council**

@@ -83,6 +83,10 @@ published: '2026-09-10'
 wa:
   slug: motherstone-location
   category: c3f639a3-eec5-4058-a4cc-d3e5b1d76287
+image:
+  src: /images/generated/motherstone.webp
+  alt: "Motherstone, the Crystal City"
+  caption: "AI image of a city of giant blue crystals and dwelling-oaks inside a mountain crater, with a great bronze ring and orb hanging above the tallest crystal."
 ---
 
 **Motherstone** — the Crystal City, the lost city of the Faceless Guardian — was once the capital of the world. It is a city grown around the largest [moonstone](/lore/moonstone/) deposit on the plane, sunk inside Snowy Mountain on the island of [Snowdown](/places/snowdown/), and it was erased — not ruined, not sacked, but *forgotten* — in a single afternoon.

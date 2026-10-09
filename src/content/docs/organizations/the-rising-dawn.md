@@ -41,6 +41,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-08-19"
 - "Oral Histories: The Inevitables, 2022-10-07"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-rising-dawn.webp
+  alt: "Recruits of the Rising Dawn"
+  caption: "AI image of three kobold recruits advancing cautiously through a stone dungeon corridor."
 ---
 
 **Order · Oerth · Foes of the sahuagin and the Scarlet Brotherhood**

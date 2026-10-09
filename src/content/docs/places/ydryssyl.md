@@ -33,6 +33,10 @@ published: '2026-09-10'
 wa:
   slug: ydryssyl-location
   category: c499f530-57b8-4d6a-9fac-efcaf39f42f0
+image:
+  src: /images/generated/ydryssyl.webp
+  alt: "Ydryssyl, the world-tree"
+  caption: "AI image of a world-sized tree in space, its branches arching among the stars, with a crystalline moon in orbit and tiny dragons in flight."
 ---
 
 **World-tree · The true nature of Toril · Dead**

@@ -30,6 +30,10 @@ sources:
 - "JL's DM notes: Starfall Notes - The Company - Holly Berrias Session"
 - "Oral Histories: The Inevitables, 2022-12-31"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/kamino.webp
+  alt: "Kamino"
+  caption: "AI image of towers rising from an endless ocean, with small craft landing at a central hub."
 ---
 
 **Planet · Cloning corporation · *[Light of Xaryxis](/history/light-of-xaryxis/)* · Active**

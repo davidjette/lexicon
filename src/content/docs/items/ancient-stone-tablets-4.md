@@ -38,6 +38,10 @@ wa:
   slug: ancient-stone-tablets-28429-item
   uuid: 088dca08-11a0-4231-ab19-18fc14f36259
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/generated/ancient-stone-tablets-4.webp
+  alt: "The four Ancient Stone Tablets"
+  caption: "AI image of four weathered stone slabs carved with undecipherable markings, one of them broken in two."
 ---
 
 **Unique Artifact · Rare · Four known · Two Imperial, two rebel · Undeciphered**

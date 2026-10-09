@@ -172,6 +172,10 @@ gallery:
   - src: /images/cards/zanzibar.webp
     alt: 'Ally card: Zanzibar, King of Punis'
     caption: Ally card, Arc VIII
+image:
+  src: /images/cards/wainwright-st-cloud.webp
+  alt: "Ally card: Wainwright St. Cloud"
+  caption: "Ally card, Arc VIII"
 ---
 
 **Game artefact · 41 cards · Made October 2023 for the final session of End of the Infanta**

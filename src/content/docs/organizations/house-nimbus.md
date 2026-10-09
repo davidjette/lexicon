@@ -40,6 +40,9 @@ published: '2026-09-10'
 wa:
   slug: house-nimbus-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/maps/20-the-house-of-nimbus.webp
+  alt: "Map: The House of Nimbus"
 ---
 
 **Clan · Formerly human servants of House Carls · The only people who could crack the Penteract**

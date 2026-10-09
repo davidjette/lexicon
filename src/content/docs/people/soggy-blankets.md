@@ -37,6 +37,10 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 - "Oral Histories: The Inevitables, 2026-06-20"
 published: '2026-09-14'
+image:
+  src: /images/generated/soggy-blankets.webp
+  alt: "Soggy Blankets"
+  caption: "AI image of a hooded old man with a long beard and a slight smile, lying in wet blankets with a chain around his neck."
 ---
 
 **Old man · Halaster Blackcloak in disguise · Prisoner of the bandit camp · [Undermountain](/places/undermountain/), Level 1 · Walked away**

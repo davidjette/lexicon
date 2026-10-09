@@ -37,6 +37,10 @@ published: '2026-09-10'
 wa:
   slug: the-sharn-broadcast-override-article
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+image:
+  src: /images/generated/the-sharn-broadcast-override.webp
+  alt: "The Sharn Broadcast Override"
+  caption: "AI image of a figure on a tower balcony at night holding a relay device while crystal screens light up across the city below."
 ---
 
 **Information operation · Sharn, city-wide ArcEye network · Sharn Ep 18**

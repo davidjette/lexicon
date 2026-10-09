@@ -48,6 +48,10 @@ gallery:
   - src: /images/album/korth-ep-16-orientation-day-maelis-dorn.webp
     alt: 'Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day'
     caption: 'Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day'
+image:
+  src: /images/album/korth-ep-16-orientation-day-maelis-dorn.webp
+  alt: "Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day"
+  caption: "Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day"
 ---
 
 **Aereni High Elf · Cleric-Inquisitor of the Black Doves · The Empire · Alive, whereabouts unknown**

@@ -45,6 +45,10 @@ wa:
   slug: warforged-species
   uuid: 8865e444-3255-481d-b422-ca6d8a9b2651
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
+image:
+  src: /images/gallery/2026-06-27-02.webp
+  alt: "The gate of Mt. Silicon"
+  caption: "A giant warforged stands guard beside a fortified gate cut into a grey cliff at the end of a stone causeway, in a misty dead landscape."
 ---
 
 **Species · Constructed people of the Last War · Outlawed in Sharn · A nation-in-arms in the Mournland**

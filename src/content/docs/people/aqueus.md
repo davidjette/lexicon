@@ -48,6 +48,10 @@ sources:
 - "Oral Histories: The Inevitables, 2021-09-25"
 - "Oral Histories: The Inevitables, 2026-03-07"
 published: '2026-09-14'
+image:
+  src: /images/generated/aqueus.webp
+  alt: "Aqueus, the Drowned Seraph"
+  caption: "AI image of a figure pinned by a sword to a faintly glowing tomb on the sea floor, with divers descending toward it."
 ---
 
 **Seraph · Seraph of Poseidon · High priest · Protector of Saltmarsh · Dead, desecrated**

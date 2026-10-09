@@ -74,6 +74,10 @@ published: '2026-09-10'
 wa:
   slug: elistrae-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/cards/ella-infanta-of-the-moon.webp
+  alt: "Ally card: Ella, Infanta of the Moon"
+  caption: "Ally card, Arc VIII"
 ---
 
 **Goddess incarnate (the Infanta) · Chaos, beauty, moonlight, the hunt · House Gallidann / the Lusmundii · Living, enthroned at Motherstone**

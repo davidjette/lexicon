@@ -29,6 +29,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-15"
 - 'JL''s DM notes: Starfall Notes - Barrias'' Nightmare session'
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/tillamook.webp
+  alt: "Tillamook"
+  caption: "AI image of a frightened young dwarf soldier with a sparse beard, clutching a gun on a desolate battlefield."
 ---
 
 **Dwarf · Private, Astral Command; prophet of the Beholder great mother · Status unknown**

@@ -29,6 +29,10 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/rebel-factions.txt
 published: '2026-09-14'
+image:
+  src: /images/generated/the-dhakaani-empire.webp
+  alt: "A Dhakaani chamber beneath Sharn"
+  caption: "AI image of three small figures entering a webbed ancient stone hall guarded by a stone golem and giant spiders."
 ---
 
 **Goblinoid empire · Western Khorvaire · c. 16,000 to 5,000 years ago · Fallen**

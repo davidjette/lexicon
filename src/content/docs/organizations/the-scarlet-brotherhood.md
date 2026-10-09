@@ -49,6 +49,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-09-16"
 - "Oral Histories: The Inevitables, 2022-10-07"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-scarlet-brotherhood.webp
+  alt: "The Scarlet Brotherhood"
+  caption: "AI image of hooded assassins closing in on a small band of adventurers in a torchlit tomb."
 ---
 
 **Secret society of assassins · Saltmarsh, Oerth · Enemies of Neptune's Rejects · Every named member killed**

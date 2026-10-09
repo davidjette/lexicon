@@ -35,6 +35,10 @@ sources:
 - "Oral Histories: The Inevitables, 2023-08-04"
 - "Oral Histories: The Inevitables, 2023-08-11"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/the-chingwas-wish.webp
+  alt: "The Chingwa's wish filling the Zanzibar's arcane laboratory"
+  caption: "AI image of a ship's arcane laboratory filling with gold and mushrooms while a small creature in a glass terrarium presses its hands to the glass."
 ---
 
 **Magical accident and away mission · *[Light of Xaryxis](/history/light-of-xaryxis/)* · 2023 · DM: JL**

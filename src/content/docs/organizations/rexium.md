@@ -32,6 +32,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3085, IMG_3086, IMG_3087, IMG_3088, IMG_3089, IMG_3090, IMG_3093, IMG_3099)
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 published: '2026-09-14'
+image:
+  src: /images/generated/rexium.webp
+  alt: "A Rexium sales meeting"
+  caption: "AI image of a small crowd wearing golden pyramid charms facing a speaker on a stage in a converted barn."
 ---
 
 **Sales guild · [Waterdeep](/places/waterdeep/) · Leader [Rex Bedsheets](/people/rex-bedsheets/) · Active**

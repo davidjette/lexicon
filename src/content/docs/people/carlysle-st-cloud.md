@@ -54,6 +54,10 @@ published: '2026-09-10'
 wa:
   slug: carlysle-st-cloud-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/carlysle-st-cloud.webp
+  alt: "The buried heart of Carlysle St. Cloud"
+  caption: "AI image of a heart of amber and bronze lying in turned earth beside a small tunnel burrowed into the ground."
 ---
 
 **Human · Commander, Imperial garrison · Sword Coast Trading Company · Dead, then obliviated**

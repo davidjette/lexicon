@@ -43,6 +43,10 @@ wa:
   slug: lady-glow-person
   uuid: 6ee73199-4b8d-4c41-bef2-a37fec936ec1
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+image:
+  src: /images/generated/lady-glow.webp
+  alt: "Lady Glow"
+  caption: "AI image of a hooded woman in chains standing on a stone platform in a great marble throne room."
 ---
 
 **Singer and entertainer · Rebel agent · Level Unknown · Dead, and standing**

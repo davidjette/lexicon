@@ -28,6 +28,10 @@ wa:
   slug: episode-7-E2809CvacationE2809D-dm3A-dave-report
   uuid: dc62a8be-bc77-4487-a3c1-b66e3ac76928
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+image:
+  src: /images/generated/episode-7-vacation-dm-dave.webp
+  alt: "The rebel base in the Dragon Watch Isles burning"
+  caption: "AI image of an island base burning at night while a small boat laden with treasure pulls away across the water."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 7 · DM: Dave · Report filed 12 Sep 2020**

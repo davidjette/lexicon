@@ -41,6 +41,10 @@ wa:
   slug: billy-tremblepike-person
   uuid: ccf84509-2241-4644-a39a-22584999b52c
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/billy-tremblepike.webp
+  alt: "Billy Tremblepike"
+  caption: "AI image of an official seen from behind in a theatre box, watching an orchestra play below."
 ---
 
 **Transportation Secretary of the metro Karnathi state · Lifelong bureaucrat · Level Unknown · Alive at last record**

@@ -34,6 +34,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-01-07"
 - "Oral Histories: The Inevitables, 2022-03-13"
 published: '2026-09-14'
+image:
+  src: /images/generated/ring-of-shooting-stars.webp
+  alt: "The Ring of Shooting Stars"
+  caption: "AI image of a signet ring lying alone on a plain ground, its face turned away."
 ---
 
 **Item · Ring · Signet of the Princess of Clouds · House Weathervein**

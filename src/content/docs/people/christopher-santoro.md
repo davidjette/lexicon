@@ -40,6 +40,10 @@ wa:
   slug: christopher-santoro-person
   uuid: da5133cd-bf0e-4e82-a39f-012f12d68184
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/christopher-santoro.webp
+  alt: "Christopher Santoro"
+  caption: "AI image of a casino floor manager seen from behind, watching over the gaming tables with a stack of gold coins at his hand."
 ---
 
 **Species unrecorded · Pit Boss and floor manager, the Clamshell Casino · Newham · Level Unknown · Alive at last record**

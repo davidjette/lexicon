@@ -32,6 +32,10 @@ sources:
 - CANON.md 5aa
 - CANON.md 5ab
 published: '2026-09-14'
+image:
+  src: /images/generated/the-high-courts-of-sigil.webp
+  alt: "The High Courts of Sigil"
+  caption: "AI image of a great hall of law courts, with judges hearing cases before a crowd of small figures."
 ---
 
 <small>For the capital court of Korth, see [The High Court](/places/the-high-court/).</small>

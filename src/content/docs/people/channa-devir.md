@@ -40,6 +40,10 @@ wa:
   slug: channa-devir-person
   uuid: 5ead4e6b-e84a-4693-b334-bd5dbbb5e650
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/channa-devir.webp
+  alt: "Channa Devir convening a compromise"
+  caption: "AI image of a small elderly gnome seen from behind at the head of a long table, presiding over two opposing parties and a written agreement."
 ---
 
 **Gnome · Wizard · House Sivis (banned) · Speakers Guild · Likely leader of the Rebel Alliance · Level Unknown · Alive**

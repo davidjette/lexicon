@@ -90,6 +90,10 @@ gallery:
 - src: /images/gallery/2025-08-22-07.webp
   alt: BattleBeast
   caption: Portrait of a massive white-maned lion-man in black and red armour plates, fists bound in red wraps, roaring.
+image:
+  src: /images/generated/dead-mans-hand.webp
+  alt: "The company of Dead Man's Hand waking in the Mortuary"
+  caption: "AI image of tattooed strangers waking on the slabs of a great mortuary hall beneath a long chute."
 ---
 
 > 500 years ago, the universe faced a Crisis. A conspiracy of devils and men deposed the Queen of Death and syphoned mortal souls away from their destinies and toward their selfish ends.

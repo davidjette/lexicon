@@ -36,6 +36,10 @@ gallery:
 - src: /images/gallery/2026-09-07-07.webp
   alt: The Advocate and her bodyguard at the Ministry
   caption: The dark-haired Advocate and the skull-masked samurai stand at a great iron-bound door flanked by red-robed guards and a uniformed officer.
+image:
+  src: /images/gallery/2026-09-07-03.webp
+  alt: "The condemned before the High Court"
+  caption: "In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them."
 ---
 
 **Type:** Government, Judiciary · **Seat:** northeast of the Great Plaza, Korth · **Status:** Active

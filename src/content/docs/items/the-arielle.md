@@ -61,6 +61,10 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - sources/dave/2026-10-08-tudyx-cube-spine.md
+image:
+  src: /images/generated/the-arielle.webp
+  alt: "The Arielle"
+  caption: "AI image of a mastless wooden airship in flight, with an arching pillar over its deck, a ring of fire, a forecastle cannon and a glass dome beneath the hull."
 ---
 
 **Elemental airship · Gargantuan vehicle · Formerly the Company flagship *Excelsior* · Taken by Temple Holdings LLC · Crashed in the deep past**

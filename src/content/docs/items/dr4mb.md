@@ -27,6 +27,10 @@ sources:
 - "sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md"
 - sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
 - sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
+image:
+  src: /images/generated/dr4mb.webp
+  alt: "DR4MB beneath the Rekkenmark"
+  caption: "AI image of a great glass vat of yellow liquid cabled to a bank of room-sized machines in an underground laboratory."
 ---
 
 **Cyrean divination engine · The Rekkenmark · Campaign 1, [Episode 10](/sessions/episode-10-aandb-the-rekkenmark-dm-jbyrd/)**

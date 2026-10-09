@@ -35,6 +35,10 @@ sources:
 - CANON.md 5w
 - CANON.md 5ac
 published: '2026-09-14'
+image:
+  src: /images/generated/fortunes-wheel.webp
+  alt: "The casino floor of Fortune's Wheel"
+  caption: "AI image of a crowded casino floor with gambling tables, a troupe of clowns performing and an acrobat overhead."
 ---
 
 **Casino · The Lady's Ward, [Sigil](/places/sigil/) · Owned by Shemeska · Standing**

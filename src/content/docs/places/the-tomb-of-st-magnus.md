@@ -37,6 +37,10 @@ fields:
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3009, IMG_3020, IMG_3081, IMG_3082, IMG_3084)
 published: '2026-09-14'
+image:
+  src: /images/generated/the-tomb-of-st-magnus.webp
+  alt: "The Tomb of St. Magnus"
+  caption: "AI image of a small party climbing toward a hidden tomb entrance in the cliffs of a rocky sea island."
 ---
 
 **Tomb · A hidden entrance on a Moonshae isle · Holds the BALANCE card · Heavily guarded**

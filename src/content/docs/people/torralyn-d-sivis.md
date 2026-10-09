@@ -40,6 +40,10 @@ wa:
   slug: torralyn-d-sivis-person
   uuid: 660b30e7-7a6c-4e03-b4e6-8351639b8ec9
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/torralyn-d-sivis.webp
+  alt: "Torralyn d'Sivis at the Notaries Guild"
+  caption: "AI image of an old gnome seen from behind, sealing a contract at a desk in a hall of clerks and documents."
 ---
 
 **Gnome · Arcanist and warrior · House Sivis (banned) · Notaries Guild · Level Unknown · Alive**

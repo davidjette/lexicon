@@ -44,6 +44,10 @@ sources:
 - "Oral Histories: The Inevitables, 2026-02-28"
 - "Oral Histories: The Inevitables, 2026-03-03"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-fort-maximillien-breakout.webp
+  alt: "The Fort Maximillien Breakout"
+  caption: "AI image of three fugitives leaping into a trash-strewn pit toward a glowing portal while a fourth hesitates at the edge."
 ---
 
 **Jailbreak and assault · [Fort Maximillien](/places/fort-maximillien/), [Waterdeep](/places/waterdeep/) · The night after the Grub + Grog · Three escaped, three hanged**

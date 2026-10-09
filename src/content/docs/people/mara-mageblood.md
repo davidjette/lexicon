@@ -44,6 +44,10 @@ published: '2026-09-10'
 wa:
   slug: mara-mageblood-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/mara-mageblood.webp
+  alt: "Mara Mageblood"
+  caption: "AI image of an elf seen from behind, writing in a journal at a small camp among enormous pipes, a wedding dress folded beside her."
 ---
 
 **Elf · Scholar-explorer · unaffiliated · Dead, lost beneath Snowy Mountain**

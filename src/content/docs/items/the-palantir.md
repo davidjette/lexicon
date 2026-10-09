@@ -54,6 +54,10 @@ published: '2026-09-10'
 wa:
   slug: the-palantir-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/generated/the-palantir.webp
+  alt: "The Palantir"
+  caption: "AI image of a scrying stone with a faint distant scene visible in its depths."
 ---
 
 **Item · Scrying stone · One of a kind · Present at several points in its own history**

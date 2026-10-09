@@ -35,6 +35,10 @@ sources:
 - Desktop/D&D/Starfall TNG/sydiot_97396464.pdf
 - "Oral Histories: The Inevitables, 2024-05-03"
 - "Oral Histories: The Inevitables, 2024-06-01"
+image:
+  src: /images/generated/osr3g.webp
+  alt: "OSR3G, the grey cloaks"
+  caption: "AI image of hooded figures in grey cloaks standing guard outside a sealed cell that holds a one-eyed floating prisoner."
 ---
 
 **Secret intelligence corps · [Astral Command](/organizations/astral-command/) · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Active**

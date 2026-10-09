@@ -35,6 +35,10 @@ published: '2026-09-10'
 wa:
   slug: illanna-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/illanna.webp
+  alt: "Illanna prosecuting at Roland's trial"
+  caption: "AI image of an elven guard captain, seen from behind, arguing a case before three seated judges while an accused man stands by."
 ---
 
 **Elf · Head of the queen's guard · Prosecutor at Roland's trial · Alive**

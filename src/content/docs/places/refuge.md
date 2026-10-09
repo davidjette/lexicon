@@ -35,6 +35,9 @@ published: '2026-09-10'
 wa:
   slug: refuge-settlement
   category: c499f530-57b8-4d6a-9fac-efcaf39f42f0
+image:
+  src: /images/maps/60-refuge.webp
+  alt: "Map: Refuge"
 ---
 
 **Settlement · Site of the Mammon Machine's portal · Held in a repeating hour**

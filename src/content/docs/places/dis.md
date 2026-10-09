@@ -48,6 +48,10 @@ published: '2026-09-10'
 wa:
   slug: the-city-of-dis-settlement
   category: c499f530-57b8-4d6a-9fac-efcaf39f42f0
+image:
+  src: /images/generated/dis.webp
+  alt: "The City of Dis"
+  caption: "AI image of a dark city at the bottom of a vast rift in a shadowy land, with lines of pale souls walking down toward it."
 ---
 
 **Planar city · At the pit of a great rift in the Shadowfell · Where the dead are judged**

@@ -38,6 +38,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-02-25"
 - "Oral Histories: The Inevitables, 2022-07-10"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-sea-ghost.webp
+  alt: "The Sea Ghost"
+  caption: "AI image of a sailing ship under sail, with two harpoon ballistas and a small catapult mounted on its deck."
 ---
 
 **Vehicle · Sailing ship · Neptune's Rejects · Captain Gabriella Hellwood**

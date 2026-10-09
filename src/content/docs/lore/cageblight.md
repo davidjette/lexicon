@@ -29,6 +29,10 @@ fields:
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2998, IMG_3002, IMG_3003, IMG_3004, IMG_3007, IMG_3011, IMG_3018, IMG_3020, IMG_3033, IMG_3038, IMG_3042, IMG_3043, IMG_3045, IMG_3046, IMG_3047, IMG_3048)
 published: '2026-09-14'
+image:
+  src: /images/generated/cageblight.webp
+  alt: "Cageblight in the Hive Ward"
+  caption: "AI image of a slum street where grey-skinned plague sufferers cough among remedy hawkers and an overworked cleric."
 ---
 
 **Disease · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Cured**

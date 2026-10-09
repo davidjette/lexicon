@@ -56,6 +56,10 @@ sources:
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 - sources/dave/2026-09-14-temple-holdings-open-questions.md
 - sources/dave/2026-10-08-drefanmetra-the-waning-one.md
+image:
+  src: /images/generated/valen.webp
+  alt: "Valen"
+  caption: "AI image of a shadowed figure lying in a glass vessel in a chamber where four grandfather clocks surround a strange device."
 ---
 
 > Wainwright St. Cloud is a man, crude and comically short sighted. He was wise enough to bring the Anachron to me, so that I may assume his quest and rightly witness the final moments at her side. I will be the last, and I alone will see the truth.

@@ -29,6 +29,10 @@ sources:
   - "JL's DM notes: Slatmarsh: 1st session with Scrunt, Dolores and Gabriella"
   - sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
   - "Oral Histories: The Inevitables, 2021-10-01"
+image:
+  src: /images/generated/ratcatcher.webp
+  alt: "Ratcatcher"
+  caption: "AI image of a small island with a dwarven mining outpost, apes on its beach and a ship approaching."
 ---
 
 **Island · Dwarven silver mine · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/)**

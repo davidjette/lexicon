@@ -41,6 +41,10 @@ published: '2026-09-10'
 wa:
   slug: the-lightning-rail-ambush-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+image:
+  src: /images/generated/the-lightning-rail-ambush.webp
+  alt: "The lightning rail ambush"
+  caption: "AI image of a train crackling with lightning as it crosses open plains, with an airship alongside and small figures fighting on the carriages."
 ---
 
 **Rebel operation, failed · The Talenta Plains Express, between Newham and Korth · Campaign 1**

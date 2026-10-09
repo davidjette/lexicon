@@ -44,6 +44,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-11-09"
 - "Oral Histories: The Inevitables, 2024-11-10"
 - "The Starsong Awakens site (JL Byrd): Red Eye Manifesto"
+image:
+  src: /images/generated/the-children-of-the-red-eye.webp
+  alt: "The Children of the Red Eye"
+  caption: "AI image of robots and constructs gathered in secret around one who reads aloud from a small red book."
 ---
 
 **Robot resistance · Devotees of the Red Eye · *The Starsong Awakens* · Active**

@@ -35,6 +35,10 @@ published: '2026-09-10'
 wa:
   slug: crab-rangoon-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/crab-rangoon.webp
+  alt: "Crab Rangoon"
+  caption: "AI image of a deep dwarf, seen from behind at a campfire in a great underground hall, telling his account to a group of travelers."
 ---
 
 **Duergar (deep dwarf) · kin of the Teryaki camp · The Teryaki clan · Alive**

@@ -43,6 +43,10 @@ sources:
 - "Oral Histories: Battle of River Lis, 2019-10-21"
 - "Oral Histories: The Inevitables, 2025-05-31"
 published: '2026-09-14'
+image:
+  src: /images/generated/roseanne-danzig.webp
+  alt: "Roseanne Danzig, princess of Cormyr"
+  caption: "AI image of a veiled princess seen from behind, standing before a seated king in a candlelit castle chamber."
 ---
 
 **Princess of Cormyr · Heir of King Glenn Danzig · Wife of Zanzibar**

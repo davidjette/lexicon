@@ -53,6 +53,10 @@ sources:
   - "Oral Histories: The Inevitables, 2025-11-10"
   - "Oral Histories: The Inevitables, 2025-12-06"
 published: '2026-09-14'
+image:
+  src: /images/generated/nicollo.webp
+  alt: "Nicollo"
+  caption: "AI image of a polished humanoid robot in dirty, torn Renaissance clothing with ruffled sleeves and faded brocade, standing perfectly still."
 ---
 
 **Robot · Protocol droid · Tutor of princes · Betrayed the party at Fort Maximillien · Last seen in the fort**

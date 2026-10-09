@@ -43,6 +43,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3096, IMG_3099)
 - Desktop/D&D/Dead Mans Hand/images/Character-List-and-Guidelines-v2.txt
 published: '2026-09-14'
+image:
+  src: /images/generated/sir-merriam-wordsworker.webp
+  alt: "Sir Merriam Wordsworker"
+  caption: "AI image of a blond, bearded knight in armor questioning a prisoner across a desk that holds a rapier, a quill and a deck of cards."
 ---
 
 **Species unknown · Paladin, Purple Dragon Knight · [Purple Dragons](/organizations/the-purple-dragons/) · Alive**

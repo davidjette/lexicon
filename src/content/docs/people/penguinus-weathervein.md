@@ -42,6 +42,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-09-16"
 - "Oral Histories: The Inevitables, 2022-09-23"
 published: '2026-09-14'
+image:
+  src: /images/generated/penguinus-weathervein.webp
+  alt: "Penguinus \"Keraptis\" Weathervein"
+  caption: "AI image of an alchemist's skeleton lying in a stone tomb among glassware, a brass weight, a journal and old receipts."
 ---
 
 **Weathervein · Alchemist · Keraptis of White Plume Mountain · Dead**

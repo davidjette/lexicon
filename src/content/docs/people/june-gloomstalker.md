@@ -43,6 +43,10 @@ wa:
   slug: june-gloomstalker-person
   uuid: 5648f113-b685-47c7-b82d-c052eb36a952
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/june-gloomstalker.webp
+  alt: "June Gloomstalker, envoy of the Eldeen Confederacy"
+  caption: "AI image of a hooded woman seen from behind, carrying a sealed document case toward the doors of a great hall."
 ---
 
 **Human · Druidess · Envoy of the Eldeen Confederacy · Level Unknown · Alive at last record**

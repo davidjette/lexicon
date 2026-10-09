@@ -38,6 +38,10 @@ published: '2026-09-10'
 wa:
   slug: the-crown-of-seven-stars-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/generated/the-crown-of-seven-stars.webp
+  alt: "The Crown of Seven Stars"
+  caption: "AI image of an ancient crown of infernal ore resting alone on a plain ground."
 ---
 
 **Regalia · Ancient infernal work in a rare infernal ore · Cursed · Seven pledges to an unnameable devil · Given to Master Armhair to carry to the Korramont**

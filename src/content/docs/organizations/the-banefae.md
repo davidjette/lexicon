@@ -51,6 +51,10 @@ sources:
 - sources/dave/2026-10-08-tudyx-cube-spine.md
 - sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-14'
+image:
+  src: /images/generated/the-banefae.webp
+  alt: "The Banefae"
+  caption: "AI image of five fae hunters in furs and precious metals pursuing unicorns across the surface of a moon."
 ---
 
 > My sister and I came to Sigil with the sage, after the Second Fall. We took the Banefaes home while they were feeding our people into oblivion. By the time they returned, the cities were ours. We cast them into Despondos where all of them perished.

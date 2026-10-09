@@ -35,6 +35,10 @@ published: '2026-09-10'
 wa:
   slug: gorgonhorn-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+image:
+  src: /images/generated/gorgonhorn.webp
+  alt: "Gorgonhorn"
+  caption: "AI image of refugees leaving a mountain tunnel at night and walking through a pass toward a distant stronghold on the edge of a wasteland."
 ---
 
 **Settlement · western border of the Mournlands · Warforged stronghold · Standing**

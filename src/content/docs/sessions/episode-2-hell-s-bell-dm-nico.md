@@ -32,6 +32,10 @@ wa:
   slug: episode-2-E2809ChellE28099s-bellE2809D-dm3A-nico-report
   uuid: a468e39f-47ff-4b18-8690-113471b4f291
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+image:
+  src: /images/generated/episode-2-hell-s-bell-dm-nico.webp
+  alt: "The buried room at Greenbluff"
+  caption: "AI image of four figures with lanterns breaking into a buried chamber in a mine where a great bell stands."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 2 · DM: Nico · Report filed 11 Sep 2020**

@@ -35,6 +35,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/sessions/audio1987111329.transcript.txt
 - sources/dave/2026-09-28-dead-mans-hand-skullport.md
 published: '2026-09-28'
+image:
+  src: /images/generated/skullport.webp
+  alt: "Skullport and Skull Island"
+  caption: "AI image of an underground port town on three levels, joined by a stone bridge to an island fortress circled by burning skulls."
 ---
 
 **Underground port city · Beneath [Waterdeep](/places/waterdeep/), on the river Sargauth · Held by the Xanathar Guild · The party's rendezvous**

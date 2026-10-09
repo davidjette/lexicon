@@ -51,6 +51,10 @@ sources:
 - "Oral Histories: The Inevitables, 2021-08-15"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
+image:
+  src: /images/generated/myth-drannor.webp
+  alt: "Myth Drannor"
+  caption: "AI image of an elven city among great forest trees, cloaked in mist beneath a shimmering dome of magic."
 ---
 
 **Elven city · The forest of Cormanthor · Seat of the elves of Cormanthyr**

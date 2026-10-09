@@ -26,6 +26,10 @@ sources:
 - "Oral Histories: The Inevitables, 2023-05-19"
 - "Oral Histories: The Inevitables, 2024-03-09"
 - "Oral Histories: The Inevitables, 2024-06-01"
+image:
+  src: /images/generated/the-ssj-stonecypher.webp
+  alt: "The SSJ Stonecypher"
+  caption: "AI image of a dark, derelict starship adrift in space with a small figure in an armored spacesuit approaching it."
 ---
 
 **Starship · Derelict in Doomspace · Crew turned undead**

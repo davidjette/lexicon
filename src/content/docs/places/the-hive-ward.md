@@ -38,6 +38,10 @@ sources:
 - CANON.md 5w
 - CANON.md 5ac
 published: '2026-09-14'
+image:
+  src: /images/generated/the-hive-ward.webp
+  alt: "The Hive Ward"
+  caption: "AI image of honeycomb tenements joined by wooden bridges above a square where ragged crowds gather around carts."
 ---
 
 **Ward · [Sigil](/places/sigil/) · Gang territory · Standing**

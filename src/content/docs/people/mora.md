@@ -38,6 +38,10 @@ sources:
 - "Oral Histories: Battle of River Lis, 2019-12-17"
 - "Oral Histories: The Inevitables, 2025-10-31"
 published: '2026-09-14'
+image:
+  src: /images/generated/mora.webp
+  alt: "Mora at the head of the Moradinate"
+  caption: "AI image of giant armored dreadnoughts fording a river ahead of scorched land, with a lone figure in silhouette on the foremost one."
 ---
 
 **Infanta · At the head of the Moradinate, an army of orcs and dwarves · Opponent at the Battle of the River Lis · Fate unknown**

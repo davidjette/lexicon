@@ -31,6 +31,10 @@ gallery:
 - src: /images/gallery/2026-02-15-02.webp
   alt: Interoperability Summit relationship chart
   caption: A relationship chart titled "Central Khorvaire Transit Interoperability Summit", with portrait tokens for its chairs Heighrick, Spear and d'Orien, deputy chairs Goldenhew, Devir, d'Sivis and d'Lyrandar, and the delegations of Cornwell, Hornblast, Sominyard, Tremblepike, LeBeefe, Gloomstalker and Olba.
+image:
+  src: /images/generated/city-of-knives-pt-ii.webp
+  alt: "The Grand Theatre in City of Knives, Pt II"
+  caption: "AI image of a conductor on a theatre stage as his orchestra turns into demonic apparitions and the audience in evening dress recoils."
 ---
 
 **Report · Campaign 1, The Unforeseen · The Grand Theatre, Sharn · Report date 15 Oct 2020**

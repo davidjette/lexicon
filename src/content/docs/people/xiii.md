@@ -46,6 +46,10 @@ sources:
 - "Oral Histories: Temporal Holdings, 2020-03-20"
 - "Oral Histories: The Inevitables, 2021-10-23"
 published: '2026-09-14'
+image:
+  src: /images/generated/xiii.webp
+  alt: "XIII at the dragonchess board"
+  caption: "AI image of a towering mechanical being with a blank mask face playing a board game against a much smaller figure seen from behind."
 ---
 
 **Warforged · Survivor of House Nimbus · Played by LaMont · In the deep past**

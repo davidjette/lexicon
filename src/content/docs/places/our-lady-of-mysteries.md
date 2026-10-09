@@ -33,6 +33,10 @@ sources:
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 - "Oral Histories: The Inevitables, 2025-10-10"
 published: '2026-09-14'
+image:
+  src: /images/generated/our-lady-of-mysteries.webp
+  alt: "Our Lady of Mysteries"
+  caption: "AI image of a towering cathedral interior of geometric art, with masked nuns and an altar bearing a fractal mosaic and a silver candle."
 ---
 
 **Cathedral · The Lady's Ward, [Sigil](/places/sigil/) · [The Sororia](/organizations/the-sororia/)**

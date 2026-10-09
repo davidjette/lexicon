@@ -35,6 +35,10 @@ sources:
 - sources/dave/2026-09-14-heyu-and-feng.md
 - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
+image:
+  src: /images/generated/the-deck-of-many-things.webp
+  alt: "The Deck of Many Things"
+  caption: "AI image of a deck of ornate playing cards, the top card showing a crumbling sword and crown."
 ---
 
 **Artifact · A deck of magic playing cards · Scattered among many owners · Sought by Shemeska and by the party**

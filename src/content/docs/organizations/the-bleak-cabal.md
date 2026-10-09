@@ -28,6 +28,10 @@ fields:
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3004, IMG_3006, IMG_3018, IMG_3020, IMG_3033, IMG_3038, IMG_3046, IMG_3048)
 published: '2026-09-14'
+image:
+  src: /images/generated/the-bleak-cabal.webp
+  alt: "The Bleak Cabal at the Gatehouse"
+  caption: "AI image of healers tending rows of the sick in a hospital hall inside a great gatehouse."
 ---
 
 **Faction · [Sigil](/places/sigil/) · Hospital and welfare · Faction ally of the party**

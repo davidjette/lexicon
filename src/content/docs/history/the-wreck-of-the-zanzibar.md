@@ -52,8 +52,8 @@ sources:
 - "Oral Histories: The Inevitables, 2025-05-23"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
-gallery:
-- src: /images/gallery/2025-06-14-01.webp
+image:
+  src: /images/gallery/2025-06-14-01.webp
   alt: "Starship bridge before a black hole"
   caption: "An elf woman stands on a damaged starship bridge facing a black hole as a ship passes and debris burns."
 ---

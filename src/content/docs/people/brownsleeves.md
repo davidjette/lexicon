@@ -44,6 +44,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-12-25"
 - "Oral Histories: The Inevitables, 2023-01-15"
 published: '2026-09-14'
+image:
+  src: /images/generated/brownsleeves.webp
+  alt: "Brownsleeves, the Short King of the Moon"
+  caption: "AI image of a halfling in a wooden crown, seen from behind, teaching a circle of forest folk in a clearing."
 ---
 
 > This is the group chat for the epic D&D quest which started on the Evening Star and the tragic death of Brownsleeves.

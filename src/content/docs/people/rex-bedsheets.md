@@ -40,6 +40,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3085, IMG_3086, IMG_3088, IMG_3089, IMG_3090, IMG_3093, IMG_3096, IMG_3099)
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 published: '2026-09-14'
+image:
+  src: /images/generated/rex-bedsheets.webp
+  alt: "Rex Bedsheets"
+  caption: "AI image of a man seen from behind addressing a small entranced audience in a converted barn, each of them wearing a golden pyramid charm."
 ---
 
 **Medium humanoid · Warlock · Founder of [Rexium](/organizations/rexium/) · Holder of the THRONE card · Alive**

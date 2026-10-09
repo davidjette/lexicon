@@ -29,6 +29,10 @@ published: '2026-09-10'
 wa:
   slug: the-altar-of-the-guardian-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
+image:
+  src: /images/generated/the-altar-of-the-guardian.webp
+  alt: "The Altar of the Guardian"
+  caption: "AI image of a stone tomb monument beside an army barracks inside a city's walls, with soldiers crossing a broad bridge toward it."
 ---
 
 **Landmark · Southwest [Korth](/places/korth/), beside the barracks · Tomb of [Varyn Crona](/people/varyn-crona/) · Former seat of [the Crimson Sun](/organizations/the-crimson-sun/)**

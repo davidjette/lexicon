@@ -43,6 +43,10 @@ sources:
 - "Oral Histories: The Inevitables, 2026-03-07"
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3058, IMG_3063)
 published: '2026-09-14'
+image:
+  src: /images/generated/hafgufa.webp
+  alt: "Hafgufa"
+  caption: "AI image of an immense maw opening in the deep sea beneath the small hull of a sailing ship."
 ---
 
 **Warlock patron · The Fathomless · The deepest ocean in the Abyss · Patron of Gabriella Hellwood**

@@ -42,6 +42,10 @@ sources:
   - "Oral Histories: The Inevitables, 2022-04-23"
   - "Oral Histories: The Inevitables, 2022-06-30"
   - "Oral Histories: The Inevitables, 2022-07-01"
+image:
+  src: /images/generated/alexander-solmor.webp
+  alt: "Alexander Solmor, the Duke of Dreadwood"
+  caption: "AI image of a nobleman, seen from behind with an elven woman at his side, addressing a crowd in a harbor town."
 ---
 
 **Duke of Dreadwood · Councillor of Saltmarsh · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Dead**

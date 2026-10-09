@@ -29,6 +29,10 @@ wa:
   slug: episode-6-28a26amp3Bb29-E2809C6-months-later-2F-the-tabletE2809D-dm3A-nico-report
   uuid: c38bddd4-0f00-47e0-a589-e961fd54c59e
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+image:
+  src: /images/generated/episode-6-aandb-6-months-later-the-tablet-dm-nico.webp
+  alt: "The fight beneath Newham in Episode 6"
+  caption: "AI image of four adventurers, seen from behind, facing an old, sick silver dragon and mechanical lizards in an underground stone chamber."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 6 (a&b) · DM: Nico · Report filed 11 Sep 2020**

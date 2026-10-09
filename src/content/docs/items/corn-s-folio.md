@@ -40,6 +40,10 @@ published: '2026-09-10'
 wa:
   slug: corn26230393Bs-folio-document
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/generated/corn-s-folio.webp
+  alt: "Corn's folio"
+  caption: "AI image of an open lead-bound book whose pages are covered with drawings of bells, a hammer, horns and waveforms."
 ---
 
 **Document · Lead-bound · Deeptempura clan shorthand · A Tome of Understanding · In the hands of the Inevitables · Partially translated**

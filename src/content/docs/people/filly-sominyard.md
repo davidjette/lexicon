@@ -41,6 +41,10 @@ wa:
   slug: filly-sominyard-person
   uuid: f444caee-6b27-4d5d-9b1b-11240731622f
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/filly-sominyard.webp
+  alt: "Filly Sominyard"
+  caption: "AI image of a noble seen from behind in the audience of a grand theater, watching an orchestra and its conductor on a lit stage."
 ---
 
 **Aundairian noble · Member of the Royal Economic Commission · Fascist · Level Unknown · Alive at last record**

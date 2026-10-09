@@ -47,6 +47,10 @@ published: '2026-09-10'
 wa:
   slug: fulori-splitheel-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/fulori-splitheel.webp
+  alt: "Fulori Splitheel"
+  caption: "AI image of a dark-haired, blue-eyed halfling crouched at the edge of a wood, watching a farmstead in the distance."
 ---
 
 **Lightfoot Halfling · Rogue · Temple Holdings LLC · Chaotic Good · Alive**

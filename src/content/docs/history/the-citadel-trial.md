@@ -31,6 +31,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-12-09"
 - "Oral Histories: The Inevitables, 2022-12-10"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/the-citadel-trial.webp
+  alt: "The Citadel trial"
+  caption: "AI image of four small figures at a card table on an asteroid, beside an ancient tower and the fallen head of a colossal statue."
 ---
 
 **Trial · *[Light of Xaryxis](/history/light-of-xaryxis/)* · 9 December 2022 · DM: JL**

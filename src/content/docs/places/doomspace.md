@@ -33,6 +33,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-11-05"
 - "Oral Histories: The Inevitables, 2023-05-19"
 - "Oral Histories: The Inevitables, 2024-03-09"
+image:
+  src: /images/generated/doomspace.webp
+  alt: "Doomspace and the Eye of Doom"
+  caption: "AI image of a spiraling vortex in place of a sun, seen across a field of asteroid-sized crystal shards with a small ship passing between them."
 ---
 
 **Star system · *Light of Xaryxis* · Crystal sphere shattered**

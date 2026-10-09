@@ -56,6 +56,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-05-11"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+image:
+  src: /images/generated/the-shrike-pilgrimage.webp
+  alt: "The Shrike pilgrimage crossing the sea of grass"
+  caption: "AI image of a sailed, wheeled vessel carrying a few travelers across an endless sea of grass."
 ---
 
 **Pilgrimage · Necis 1 · December 2023 to May 2024**

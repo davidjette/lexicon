@@ -43,11 +43,11 @@ sources:
 - CANON.md 5ac
 - sources/dave/2026-09-14-heyu-and-feng.md
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
-gallery:
-- src: /images/gallery/dmh-tiffany-house-evening-gathering.webp
-  alt: An evening gathering at Tiffany House
-  caption: The evening gathering at Tiffany House, guests with goblets at candlelit tables under a chandelier strung through the trees, the balconied house lit behind them.
 published: '2026-09-14'
+image:
+  src: /images/gallery/dmh-tiffany-house-evening-gathering.webp
+  alt: "An evening gathering at Tiffany House"
+  caption: "The evening gathering at Tiffany House, guests with goblets at candlelit tables under a chandelier strung through the trees, the balconied house lit behind them."
 ---
 
 **Staged robbery · [Tiffany House](/places/tiffany-house/), [Waterdeep](/places/waterdeep/) · The day of the incident at the Grub + Grog**

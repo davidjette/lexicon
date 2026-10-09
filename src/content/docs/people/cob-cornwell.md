@@ -51,6 +51,10 @@ gallery:
 - src: /images/gallery/2026-03-24-02.webp
   alt: Letter from Dr. Joanne Menka to Edwin
   caption: 'A typed transcript of a letter to Edwin signed Dr. Joanne Menka: Cob Cornwell''s death has been categorized as accidental and his assets transferred, and Red Khyber output from the Mournlands is exceeding projections with shipments en route to Fort Crona.'
+image:
+  src: /images/generated/cob-cornwell.webp
+  alt: "Cob Cornwell"
+  caption: "AI image of a silhouetted industrialist, seen from behind, overlooking a large oil extraction works with a rail line beyond."
 ---
 
 **Species unrecorded · Brelish oilman and industrialist · Richest man in Khorvaire · Level Unknown · Dead — killed, his fortune left to BioTec; a message later came in his name**

@@ -41,6 +41,10 @@ sources:
 - sources/dave/2026-09-14-oral-histories-cast.md
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3058, IMG_3059)
 published: '2026-09-14'
+image:
+  src: /images/generated/dunwater.webp
+  alt: "Dunwater"
+  caption: "AI image of a small party led by a kobold walking peacefully into a stronghold crowded with lizardfolk."
 ---
 
 **Place · Lizardfolk stronghold · Oerth · Ruled by Queen Okathent**

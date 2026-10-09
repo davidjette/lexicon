@@ -36,6 +36,10 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-08-11"
 - "Oral Histories: The Inevitables, 2025-10-25"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-amulet-of-kai-ryssdall.webp
+  alt: "The Amulet of Kai Ryssdall"
+  caption: "AI image of an amulet set with a very large emerald."
 ---
 
 **Amulet · The largest emerald in the world · A gem big enough to cast *Greater Gate* · Sought by Wainwright St. Cloud and the Von Lampes**

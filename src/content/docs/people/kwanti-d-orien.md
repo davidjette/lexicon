@@ -45,6 +45,10 @@ wa:
   slug: kwanti-d-orien-person
   uuid: 26bb7e2d-302f-43bb-b85f-06fc367c995e
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/kwanti-d-orien.webp
+  alt: "Kwanti d'Orien"
+  caption: "AI image of a man seen from behind on a high platform, looking out over a vast network of rail lines and engines."
 ---
 
 **Human · Leader of House Orien · Dragonmarked house of transportation · Level Unknown · Dead, found impaled in lower Sharn**

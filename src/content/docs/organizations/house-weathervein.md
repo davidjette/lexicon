@@ -57,6 +57,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-09-21"
 - "Oral Histories: The Inevitables, 2026-03-07"
 published: '2026-09-14'
+image:
+  src: /images/generated/house-weathervein.webp
+  alt: "House Weathervein"
+  caption: "AI image of an ancient tomb chamber with a fresco of storm angels over the sea and a ghostly woman above a stone casket."
 ---
 
 **Dynasty · Feudal house and trading cartel · The Azure Sea coast, Oerth · Fallen**

@@ -24,6 +24,10 @@ sources:
 - "JL's DM notes: Starfall Notes - The Trouble with Wishes"
 - "JL's DM notes: Starfall Notes - The Company - Holly Berrias Session"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/macflecknoe.webp
+  alt: "MacFlecknoe"
+  caption: "AI image of a hooded figure, seen from behind in shadow, writing at a desk beside ten heavy law volumes and a few slim books of poetry."
 ---
 
 **Species unknown · Legal scholar and poet · [The Cube](/places/the-cube/) · Status unknown**

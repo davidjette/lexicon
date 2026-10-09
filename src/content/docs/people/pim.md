@@ -56,6 +56,10 @@ sources:
 - "Oral Histories: The Inevitables, 2021-12-04"
 - "Oral Histories: Battle of River Lis, 2019-10-21"
 - CANON.md 5ae (Oral Histories), C1
+image:
+  src: /images/generated/pim.webp
+  alt: "Pim studying an eldritch machine"
+  caption: "AI image of a scholar, seen from behind, recording the markings on an ancient machine by lamplight."
 ---
 
 **Player character (Patrick) · Contractor to Temple Holdings LLC · Scholar of the Infernal Machines · Remained in the deep past**

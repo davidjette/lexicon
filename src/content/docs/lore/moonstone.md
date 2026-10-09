@@ -56,6 +56,10 @@ published: '2026-09-10'
 wa:
   slug: moonstone-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+image:
+  src: /images/generated/moonstone.webp
+  alt: "A shard of moonstone"
+  caption: "AI image of a single glowing shard of crystalline rock with a few broken fragments beside it."
 ---
 
 **Moonstone** is a mineral: shards of the fallen moon that store and magnify magic, and that every faction in the Moonshae is willing to kill to control. It fell to the world in the **Starfall** — the astronomical event that "gave the moon it's divot and caused the majority of the plane's moonstone to fall from the sky" <small>(sic)</small> — and the Company's intelligence placed "a huge deposit" in the Moonshae Isles, much of whose islands were made by the same event; the Great Stones lie beneath [Motherstone](/places/motherstone/).

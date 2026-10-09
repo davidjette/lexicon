@@ -46,6 +46,10 @@ sources:
 - "Oral Histories: The Inevitables, 2021-12-04"
 - "Oral Histories: The Inevitables, 2022-01-15"
 published: '2026-09-14'
+image:
+  src: /images/generated/atlantis.webp
+  alt: "Atlantis"
+  caption: "AI image of an undersea city with small swimming figures and a vast egg-shaped mass looming in the water beyond."
 ---
 
 **City · Under the sea, near the Egg · Seat of the Atlas kings · In two eras: ancient, and ruined**

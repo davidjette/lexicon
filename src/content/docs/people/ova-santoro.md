@@ -42,6 +42,10 @@ wa:
   slug: ova-santoro-person
   uuid: 9018d912-fa11-4bd0-bfb4-7f264e87a58c
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/ova-santoro.webp
+  alt: "Ova Santoro"
+  caption: "AI image of a young woman in shadow, seen from behind in her apartment, as four armed rescuers appear in the doorway."
 ---
 
 **Human · Newham · Level Unknown · Dead, and raised**

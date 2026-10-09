@@ -50,6 +50,10 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-09"
 - "Oral Histories: The Inevitables, 2021-10-23"
 published: '2026-09-14'
+image:
+  src: /images/generated/maximillien.webp
+  alt: "Maximillien"
+  caption: "AI image of a bearded courtier in plain dark clothing reading documents at a court of more richly dressed nobles."
 ---
 
 <small>For the Purple Dragon garrison in Waterdeep, see [Fort Maximillien](/places/fort-maximillien/).</small>

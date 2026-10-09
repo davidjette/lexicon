@@ -51,6 +51,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-10-25"
 - "Oral Histories: The Inevitables, 2025-12-06"
 published: '2026-09-14'
+image:
+  src: /images/gallery/dmh-tiffany-house-evening-gathering.webp
+  alt: "An evening gathering at Tiffany House"
+  caption: "The evening gathering at Tiffany House, guests with goblets at candlelit tables under a chandelier strung through the trees, the balconied house lit behind them."
 ---
 
 **Urban mansion · [Waterdeep](/places/waterdeep/) · Heir: Darius Klaxon, then Maverick · Standing**

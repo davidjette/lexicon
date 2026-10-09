@@ -30,6 +30,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-12-31"
 - "Oral Histories: The Inevitables, 2024-06-11"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/the-kamino-hostage-crisis.webp
+  alt: "The Radiant Visage seize the Life Day party"
+  caption: "AI image of armed elven knights stepping out of an elevator into a party, their scarred leader firing a blaster into the air."
 ---
 
 **Hostage-taking · *[Light of Xaryxis](/history/light-of-xaryxis/)* · 30 December 2022 · DM: JL**

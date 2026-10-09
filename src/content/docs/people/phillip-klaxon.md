@@ -42,6 +42,10 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - CANON.md 5ac
 published: '2026-09-14'
+image:
+  src: /images/generated/phillip-klaxon.webp
+  alt: "Phillip Klaxon"
+  caption: "AI image of a middle-aged nobleman fuming in a room of a fortress."
 ---
 
 **Minor noble · [Waterdeep](/places/waterdeep/) · Father of [Darius Klaxon](/people/darius-klaxon/)**

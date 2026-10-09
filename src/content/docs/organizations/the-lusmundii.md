@@ -37,6 +37,10 @@ published: '2026-09-10'
 wa:
   slug: the-lusmundii-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/generated/the-lusmundii.webp
+  alt: "The Lusmundii"
+  caption: "AI image of elven and human druids chanting in a circle beneath a great tree while a small child plays among them."
 ---
 
 The **Lusmundii** — the name means **Light of the World** — are the druidic cult formed around the birth of the reborn [Infanta](/lore/the-infanta/). They are elves and humans together, which on [Snowdown](/places/snowdown/) is itself a political act. They are led by the elven chief **Untari**, they were charged in the barrow at Bask Falls with protecting the Infanta and bringing her to the **Gildergreen**, and the community they became bought an old temple in the walled town of Harloch under the name **Temple Holdings, LLC**.

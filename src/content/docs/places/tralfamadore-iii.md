@@ -32,6 +32,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-10-18"
 - "Oral Histories: The Inevitables, 2022-10-19"
 - "Oral Histories: The Inevitables, 2022-10-22"
+image:
+  src: /images/generated/tralfamadore-iii.webp
+  alt: "Northspire on Tralfamadore III"
+  caption: "AI image of a small old-fashioned seaside village with a galleon resting in the water at its docks."
 ---
 
 **Planet · Trafalmadorespace · *Light of Xaryxis* · Unsettled**

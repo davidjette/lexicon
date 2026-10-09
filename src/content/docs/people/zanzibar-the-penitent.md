@@ -39,6 +39,10 @@ published: '2026-09-10'
 wa:
   slug: zanzibar-the-penitent-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/zanzibar-the-penitent.webp
+  alt: "Zanzibar the Penitent"
+  caption: "AI image of an elderly ruler seen from behind, sitting alone on a glass throne in a vast empty hall."
 ---
 
 **Species unknown · Emperor of Faerûn · House Zanzibar, [Cormyrean Empire](/organizations/the-cormyrean-empire/) · Dead**

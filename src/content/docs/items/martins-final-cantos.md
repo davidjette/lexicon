@@ -30,6 +30,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-19"
 - "Oral Histories: The Inevitables, 2024-04-20"
 - "Oral Histories: The Inevitables, 2024-04-27"
+image:
+  src: /images/generated/martins-final-cantos.webp
+  alt: "Martin's Final Cantos"
+  caption: "AI image of a woman, seen from behind, striking at a vast leviathan in a forest to protect a prince beside her."
 ---
 
 **Poem · Three books · By Martin · Shrike pilgrimage, Light of Xaryxis**

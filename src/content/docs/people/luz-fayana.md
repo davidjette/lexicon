@@ -42,6 +42,10 @@ sources:
 - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
 - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
+image:
+  src: /images/album/korth-ep-16-orientation-day-lus-fayina.webp
+  alt: "Director Lus Fayina - Korth Ep 16, Orientation Day"
+  caption: "Director Lus Fayina - Korth Ep 16, Orientation Day"
 ---
 
 **Elf · The Black Doves · The Grey Doves · Alive when last recorded**

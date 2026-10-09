@@ -28,15 +28,16 @@ sources:
 - sources/site/korth-episode-summaries.txt
 published: '2026-09-14'
 gallery:
-- src: /images/gallery/2026-06-27-04.webp
-  alt: A portal in the Mournland
-  caption: A ring of white light glows inside a twisted black stone arch standing in a flat, dead green-grey waste beneath jagged spires.
 - src: /images/gallery/2026-06-27-09.webp
   alt: The Mournland portal under siege
   caption: A Hundreds airship flies over a dead grey plain where a horde of undead surrounds a glowing portal in a twisted black arch.
 - src: /images/gallery/2026-06-27-05.webp
   alt: A winged paladin above the Cyrean portal
   caption: A winged armoured paladin with a flaming sword dives over a glowing portal in a twisted black arch as the undead reach up from the mud below.
+image:
+  src: /images/gallery/2026-06-27-04.webp
+  alt: "A portal in the Mournland"
+  caption: "A ring of white light glows inside a twisted black stone arch standing in a flat, dead green-grey waste beneath jagged spires."
 ---
 
 **Portals · [the Mournland](/places/the-mournland/), the dead kingdom of Cyre · Military objectives · Contested**

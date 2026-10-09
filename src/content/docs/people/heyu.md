@@ -68,6 +68,10 @@ sources:
   - sources/dave/2026-09-28-dead-mans-hand-skullport.md
   - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
+image:
+  src: /images/generated/heyu.webp
+  alt: "Heyu"
+  caption: "AI image of a small, cloaked crow-folk wizard investigating an alley with a glowing moonstone floating at her hand."
 ---
 
 **Kenku · Investigator wizard · Follower of Cypher · Private detective · Alive**

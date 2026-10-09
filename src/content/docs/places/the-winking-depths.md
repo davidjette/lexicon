@@ -40,6 +40,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-11-09"
 - "Oral Histories: The Inevitables, 2026-06-20"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-winking-depths.webp
+  alt: "The Winking Depths below the Deep Crystal"
+  caption: "AI image of tiny figures clinging to tree roots that hang from the bottom of a giant crystal over a dark underground abyss."
 ---
 
 **Underground region · Below the Deep Crystal of Motherstone, toward the Egg · Mind flayers, aboleth and Drow · An arc the party teleported out of**

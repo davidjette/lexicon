@@ -31,6 +31,10 @@ sources:
 - "Oral Histories: The Inevitables, 2021-11-11"
 - "Oral Histories: The Inevitables, 2021-11-13"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-stinking-albatross.webp
+  alt: "The Stinking Albatross"
+  caption: "AI image of a war galley at anchor, armed with two harpoon ballistas and a small catapult, with a small crew on deck."
 ---
 
 **Ship · Galley · Captured by Neptune's Rejects · Ghosts of Twatmarsh**

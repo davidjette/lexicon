@@ -38,9 +38,10 @@ gallery:
 - src: /images/gallery/2026-06-10-04.webp
   alt: Winged dragonborn paladin in battle
   caption: A winged dragonborn paladin with a flaming sword clashes with a pale armoured warrior on a burning battlefield strewn with broken constructs.
-- src: /images/gallery/2026-06-27-11.webp
-  alt: Paladins hold the portal
-  caption: A winged paladin with a flaming sword and a line of armoured knights hold a glowing portal against a horde of rotting undead.
+image:
+  src: /images/gallery/2026-06-27-11.webp
+  alt: "Paladins hold the portal"
+  caption: "A winged paladin with a flaming sword and a line of armoured knights hold a glowing portal against a horde of rotting undead."
 ---
 
 **Crusade · The Thrane front · In the field**

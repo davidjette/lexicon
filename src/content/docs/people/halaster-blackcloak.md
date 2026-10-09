@@ -49,6 +49,10 @@ sources:
 - src/content/docs/places/motherstone.md
 - src/content/docs/items/o-3255.md
 published: '2026-09-14'
+image:
+  src: /images/generated/halaster-blackcloak.webp
+  alt: "Halaster Blackcloak"
+  caption: "AI image of a shadowed mage seen from behind, walking through an underground hall filled with reassembled ancient architecture, tombs and statues."
 ---
 
 **The Mad Mage · [Undermountain](/places/undermountain/) · Disguised as [Soggy Blankets](/people/soggy-blankets/) · Alive**

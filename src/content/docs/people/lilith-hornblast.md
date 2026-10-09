@@ -41,6 +41,10 @@ wa:
   slug: lilith-hornblast-person
   uuid: 0c4ff9cd-207d-4c87-9b26-e0ee2a1a3c40
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/lilith-hornblast.webp
+  alt: "Lilith Hornblast"
+  caption: "AI image of a warforged seen from behind, addressing a nearly empty parliamentary chamber."
 ---
 
 **Warforged · 'Leader in exile' of the East Brelish Parliament · Imperial-aligned · Level Unknown · Alive at last record**

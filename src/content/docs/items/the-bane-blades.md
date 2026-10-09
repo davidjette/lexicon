@@ -71,6 +71,10 @@ published: '2026-09-10'
 wa:
   slug: the-bane-blades-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+image:
+  src: /images/generated/the-bane-blades.webp
+  alt: "The Bane Blades"
+  caption: "AI image of five moonstone blades laid side by side, one a longsword and one a dark bladed shield."
 ---
 
 **Artefacts · Five shards of Perfect moonstone · One to each Banefae house**

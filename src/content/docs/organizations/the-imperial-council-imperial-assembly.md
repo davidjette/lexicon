@@ -32,6 +32,10 @@ wa:
   slug: the-imperial-council-2F-imperial-assembly---organization
   uuid: e4b3bd78-3fcf-4274-a149-a077c79ef1c3
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/generated/the-imperial-council-imperial-assembly.webp
+  alt: "The Imperial Council / Imperial Assembly"
+  caption: "AI image of thirteen silhouetted figures seated at a council table in a tower chamber above a city."
 ---
 
 **Type:** Government, Leadership · **Seat:** the Imperial Assembly tower, Korth · **Membership:** thirteen

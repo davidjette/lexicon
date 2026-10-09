@@ -29,6 +29,9 @@ published: '2026-09-10'
 wa:
   slug: the-ministry-of-records-2F-hall-of-records-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/uploads/the-hall-of-records-landmark-the-ministr-mu6hfdql.webp
+  alt: "The Ministry of Records / Hall of Records"
 ---
 
 **Type:** Government, Archive · **Seat:** north across the Great Plaza, Korth · **Status:** Active, and hollowed out

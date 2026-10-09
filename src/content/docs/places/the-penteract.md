@@ -48,6 +48,9 @@ published: '2026-09-10'
 wa:
   slug: the-penteract-landmark
   category: c499f530-57b8-4d6a-9fac-efcaf39f42f0
+image:
+  src: /images/maps/41-the-penteract-overview.webp
+  alt: "Map: The Penteract — Overview"
 ---
 
 **Five-dimensional labyrinth · Built around the fragment at the Heart of Dis · Passable only by the dead**

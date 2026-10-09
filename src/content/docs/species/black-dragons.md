@@ -30,6 +30,10 @@ published: '2026-09-10'
 wa:
   slug: black-dragons-species
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
+image:
+  src: /images/generated/black-dragons.webp
+  alt: "A black dragon, Valtrex, at the black lake"
+  caption: "AI image of a black dragon with a bell collared around its neck flying over a flooded cavern lake, with a harpoon rig on the far platform."
 ---
 
 **Species · Khyber and the deep places · No specimen recorded in over four hundred and thirty years**

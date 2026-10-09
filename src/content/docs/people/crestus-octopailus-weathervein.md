@@ -39,6 +39,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-09-22"
 - sources/dave/2026-09-14-oral-histories-cast.md
 published: '2026-09-14'
+image:
+  src: /images/generated/crestus-octopailus-weathervein.webp
+  alt: "Count Crestus Octopailus Weathervein"
+  caption: "AI image of a cloaked nobleman, seen from behind, laying a sword on a stone sarcophagus in a tomb beneath a temple."
 ---
 
 **Weathervein lord · Count · Prince of the sea and master of the coves · Bound inside Blackrazor**

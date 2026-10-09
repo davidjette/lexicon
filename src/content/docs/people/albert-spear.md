@@ -41,6 +41,10 @@ sources:
 - sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
 - "Oral Histories: The Inevitables, 2026-02-15"
 published: '2026-09-14'
+image:
+  src: /images/generated/albert-spear.webp
+  alt: "Albert Spear"
+  caption: "AI image of a nobleman seen from behind, overlooking a town under construction with rail cars, airships and a new lake."
 ---
 
 **Human · Nobleman · Head of city planning and development, the Imperial Council · Dead**

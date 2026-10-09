@@ -25,6 +25,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-06-01"
 - Desktop/D&D/Starfall TNG/sydiot_85410398.pdf
+image:
+  src: /images/generated/razomel.webp
+  alt: "Razomel rising from his bottle"
+  caption: "AI image of a huge genie formed of many ghostly figures rising from a small bottle before a lone onlooker and a crashed spacecraft."
 ---
 
 **Genie · Patron of Irina Malikovsky and Carlos Vega · Light of Xaryxis · Free**

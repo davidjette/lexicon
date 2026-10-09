@@ -52,6 +52,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-04-21"
 - "Oral Histories: The Inevitables, 2025-10-31"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-sororia.webp
+  alt: "The Sororia"
+  caption: "AI image of masked nuns and acolytes in a towering cathedral of abstract geometric patterns, with a silver candle burning on a mosaic altar."
 ---
 
 **Priestly sisterhood · Devotees of Cypher · [Sigil](/places/sigil/) · Keepers of [the Lexicon](/items/the-lexicon/)**

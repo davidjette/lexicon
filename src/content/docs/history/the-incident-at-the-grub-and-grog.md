@@ -47,6 +47,10 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5ac
 published: '2026-09-14'
+image:
+  src: /images/generated/the-incident-at-the-grub-and-grog.webp
+  alt: "The Incident at the Grub + Grog"
+  caption: "AI image of a burning carriage bolting down a rainy city street at night with a figure clinging to its roof and mounted knights in pursuit."
 ---
 
 **Ambush, brawl and arrest · The [Grub + Grog](/places/the-grub-and-grog/), Sea Ward, [Waterdeep](/places/waterdeep/) · The night of the Tiffany House Heist · Dead Man's Hand**

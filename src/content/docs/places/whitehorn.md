@@ -37,6 +37,10 @@ sources:
 - "Oral Histories: Temporal Holdings, 2018-11-08"
 - "Oral Histories: Temporal Holdings, 2018-11-11"
 published: '2026-09-14'
+image:
+  src: /images/generated/whitehorn.webp
+  alt: "Whitehorn"
+  caption: "AI image of a winter trading camp of stalls and tents on a grass plain, with a small temple and a longhouse at the end of the road."
 ---
 
 **Trading post · The Ride · Arc III, The Age of the Infanta**

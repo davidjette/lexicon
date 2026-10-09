@@ -52,6 +52,10 @@ wa:
   slug: gabriel-duin-person
   uuid: 2f12d976-9b44-4a62-93bb-5bd9a4aeb487
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
+image:
+  src: /images/generated/gabriel-duin.webp
+  alt: "Gabrielle Duin, hooded, in the throne room"
+  caption: "AI image of a tall figure in black hooded robes descending the stairs of a vast gold and red throne hall."
 ---
 
 **High Elf · Star Prelate of the Black Doves / Imperial covert agent · The Black Doves · Blood of Vol · the Crimson Sun · Level Unknown · Missing (presumed alive)**

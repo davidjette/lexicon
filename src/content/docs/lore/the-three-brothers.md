@@ -47,6 +47,10 @@ published: '2026-09-10'
 wa:
   slug: the-three-brothers-myth
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+image:
+  src: /images/generated/the-three-brothers.webp
+  alt: "The Three Brothers"
+  caption: "AI image of three merchant brothers around a bonfire of burning books, one reaching for a single black book that did not burn."
 ---
 
 **Fairy tale · Told across Faerûn · True**

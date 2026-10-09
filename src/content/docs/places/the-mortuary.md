@@ -34,6 +34,10 @@ sources:
 - CANON.md 5w
 - CANON.md 5ac
 published: '2026-09-14'
+image:
+  src: /images/generated/the-mortuary.webp
+  alt: "The Mortuary"
+  caption: "AI image of a sombre building in a run-down city ward, with a hooded corpse collector pushing an empty cart away from a chute in its wall."
 ---
 
 **Faction headquarters · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Dustmen · Standing**

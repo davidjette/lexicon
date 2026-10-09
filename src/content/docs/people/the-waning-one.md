@@ -62,6 +62,10 @@ sources:
 - "Oral Histories: The Inevitables, 2025-10-31"
 - sources/dave/2026-10-08-drefanmetra-the-waning-one.md
 published: '2026-09-14'
+image:
+  src: /images/generated/the-waning-one.webp
+  alt: "The Waning One"
+  caption: "AI image of a man seen from behind in a night forest, wearing a stag's head over his own and holding a gleaming bow beneath a waning moon."
 ---
 
 > The Waning-One loved many girls, but only 1 he wed.

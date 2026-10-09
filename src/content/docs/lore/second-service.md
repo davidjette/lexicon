@@ -29,6 +29,10 @@ published: '2026-09-10'
 wa:
   slug: second-service-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+image:
+  src: /images/generated/second-service.webp
+  alt: "Second service"
+  caption: "AI image of very old people walking willingly into a large public hall while officers wait outside with troop transports."
 ---
 
 **Concept · Karrnathi social and legal institution · Administered at [the Hall of Submission](/places/the-hall-of-submission/), [Korth](/places/korth/)**

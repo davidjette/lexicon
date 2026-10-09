@@ -26,6 +26,10 @@ wa:
   slug: throne-room3A--details-26-dialogue-from-the-throne-room-scene-article
   uuid: 12b390b3-0c12-428c-912a-fae459ebf763
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+image:
+  src: /images/generated/throne-room-details-and-dialogue-from-the-throne-room-scene.webp
+  alt: "The throne room scene before Emperor Kaius III"
+  caption: "AI image of four figures standing in a hall of gold and red before a veiled, red-eyed man on a golden throne, as a hooded figure descends the stairs toward them."
 ---
 
 **Appendix to [Episode 9 "The Dig Site / Throne Room" DM: Nico](/sessions/episode-9-the-dig-site-throne-room-dm-nico/) · Campaign 1 · DM: Nico**

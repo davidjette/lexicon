@@ -45,9 +45,6 @@ gallery:
 - src: /images/gallery/2026-06-15-04.webp
   alt: Vex d'Lyrandar rises at the Thronehold Summit
   caption: Admiral Vex d'Lyrandar rises into the air wrapped in lightning above the Summit hall while Eric the Cleric stands at a lectern and red-robed guards and sisters watch.
-- src: /images/gallery/2026-06-21-04.webp
-  alt: Warships bombard Thronehold
-  caption: Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea.
 - src: /images/gallery/2026-06-21-05.webp
   alt: Vex d'Lyrandar in the storm
   caption: Vex d'Lyrandar hovers wreathed in lightning over smoking ruins as a masked figure in a long coat stands facing him.
@@ -57,6 +54,10 @@ gallery:
 - src: /images/gallery/2026-06-21-02.webp
   alt: Escape from the burning Summit hall
   caption: Eric the Cleric gallops on a palomino as Lorian and a woman run beside him, fleeing an explosion through a crowded hall at Thronehold.
+image:
+  src: /images/gallery/2026-06-21-04.webp
+  alt: "Warships bombard Thronehold"
+  caption: "Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea."
 ---
 
 **Peace summit, destroyed · Thronehold · Korth Ep 1–2 · Three years after the fall of Sharn**

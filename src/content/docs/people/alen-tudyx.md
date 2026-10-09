@@ -53,6 +53,10 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-23"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
+image:
+  src: /images/generated/alen-tudyx.webp
+  alt: "Alen Tudyx"
+  caption: "AI image of an elven queen seen from behind, a copper-hued crystal sword at her side, watching a child work a small puzzle box."
 ---
 
 > the queen of the elves\

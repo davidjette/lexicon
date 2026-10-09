@@ -43,6 +43,10 @@ wa:
   slug: lord-gregory-goldenhew-person
   uuid: 154627f7-579b-498d-8af1-fbfa75c6a775
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/lord-gregory-goldenhew.webp
+  alt: "Lord Gregory Goldenhew"
+  caption: "AI image of a man seen from behind at a tall window, looking out over rail lines, foundries and warehouses."
 ---
 
 **Human · General Secretary of the Imperial Trade Federation · Member of the Imperial Assembly · Level Unknown · Dead by the Sharn arc**

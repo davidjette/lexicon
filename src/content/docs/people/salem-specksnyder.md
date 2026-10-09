@@ -35,6 +35,10 @@ fields:
 sources:
   - "JL's DM notes: Slatmarsh: Greyhawk sessions"
   - sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md
+image:
+  src: /images/generated/salem-specksnyder.webp
+  alt: "Salem Specksnyder"
+  caption: "AI image of a tall man in black, seen from behind, following a woman and her two goblin escorts down a city street."
 ---
 
 **Warlock · The city of Greyhawk · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Status unknown**

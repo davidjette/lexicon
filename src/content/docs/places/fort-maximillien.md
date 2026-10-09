@@ -39,6 +39,10 @@ published: '2026-09-10'
 wa:
   slug: fort-maximillien-location
   category: c3f639a3-eec5-4058-a4cc-d3e5b1d76287
+image:
+  src: /images/generated/fort-maximillien.webp
+  alt: "Fort Maximillien"
+  caption: "AI image of an island fortress in a small lake within a city, with guards at its gatehouse and knights on high battlements."
 ---
 
 **Fort Maximillien** is a fortified garrison on an island in a small deep lake inside occupied [Waterdeep](/places/waterdeep/), the headquarters of the Western Vanguard occupying force and of the [Purple Dragons](/organizations/the-purple-dragons/) in the city, commanded by [General Peterbilt Varkus](/people/peterbilt-varkus/), Marshall of the Western Vanguard and Imperial Governor of the city. It stands on the ruins of the tavern where the final battle against **Asmodeus** was fought at the close of the [Infanta Crisis](/lore/the-infanta-crisis/), a site consecrated and then fortified. After [the Incident at the Grub + Grog](/history/the-incident-at-the-grub-and-grog/), Lenore, BattleBeast, Maverick and Shadowhigh were held there. On the night of [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/) the party broke in while BattleBeast broke out, and [Colonel Angus](/people/colonel-angus/) and Sir Loin were killed and later revived. Lenore, BattleBeast and Heyu escaped down the fort's trash pit; the rest of the party were captured, except Rodriel. At dawn Maverick, Shadowhigh and Barold Bonds were hanged on the parade ground and thrown down the pit, which is the Yawning Portal into [Undermountain](/places/undermountain/), where [Tripp Sandhill](/people/tripp-sandhill/) raised them.

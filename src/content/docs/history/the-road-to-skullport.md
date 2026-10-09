@@ -44,6 +44,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3105, IMG_3107, IMG_3108)
 - CANON.md 5ab
 published: '2026-09-28'
+image:
+  src: /images/generated/the-road-to-skullport.webp
+  alt: "The ruined town on the road to Skullport"
+  caption: "AI image of a small party with a single light crossing a web-hung, ruined underground town as giant spiders close in."
 ---
 
 **Dungeon crossing · Level 3 of [Undermountain](/places/undermountain/) to [Skullport](/places/skullport/) · After the STAR card · Reached Skullport**

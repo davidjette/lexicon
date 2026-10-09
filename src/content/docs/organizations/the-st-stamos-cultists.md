@@ -31,6 +31,10 @@ sources:
 - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
 - "JL's DM notes: The Unforeseen Strike Back DM Notes"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-st-stamos-cultists.webp
+  alt: "The St. Stamos cultists"
+  caption: "AI image of a smoking theater after an explosion, with a crowd in the street and cloaked figures slipping away down an alley."
 ---
 
 **Radical rebel group · Newham · Status unknown**

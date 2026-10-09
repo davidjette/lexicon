@@ -53,6 +53,10 @@ sources:
 - sources/sessions/dead-mans-hand-2026-09-26-summary.md
 - sources/dave/2026-09-28-dead-mans-hand-skullport.md
 published: '2026-09-14'
+image:
+  src: /images/generated/undermountain.webp
+  alt: "Undermountain"
+  caption: "AI image of a ruined underground town of roofless stone buildings beside a river in a cavern, hung with webs where giant spiders nest."
 ---
 
 **Dungeon · Far below [Waterdeep](/places/waterdeep/) · Halaster Blackcloak's collection · Levels 1 to 3**

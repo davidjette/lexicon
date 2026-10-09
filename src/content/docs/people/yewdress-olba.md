@@ -40,6 +40,10 @@ wa:
   slug: yewdress-olba-person
   uuid: 836ba65a-a1e1-450e-af9a-059763e225ef
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/yewdress-olba.webp
+  alt: "Yewdress Olba overseeing the Valenar rail system"
+  caption: "AI image of an elven knight and commander, seen from behind, watching labourers lay a railway line."
 ---
 
 **Valenar elf · Knight and commander · Director of the Valenar rail system · Level Unknown · Alive at last record**

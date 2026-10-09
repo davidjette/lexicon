@@ -53,6 +53,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-06-11"
 - "Oral Histories: The Inevitables, 2022-07-03"
 published: '2026-09-14'
+image:
+  src: /images/generated/netheril.webp
+  alt: "Netheril, the empire of flying cities"
+  caption: "AI image of several cities floating among the clouds high above the land."
 ---
 
 **Human empire · Faerûn, in Antiquity · Capital: Zeal · Obliviated**

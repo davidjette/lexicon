@@ -49,6 +49,10 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+image:
+  src: /images/generated/una.webp
+  alt: "Una"
+  caption: "AI image of a young girl seen from behind, huddled against a man in a small sailing boat piloted by a halfling."
 ---
 
 > I sometimes dream of heaven, like I’ve been there before. But in the dream the angels are fighting each other. And the devil is laughing.

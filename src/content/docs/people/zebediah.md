@@ -52,6 +52,10 @@ sources:
 - "Oral Histories: The Inevitables, 2023-01-15"
 - "Oral Histories: The Inevitables, 2025-11-09"
 published: '2026-09-14'
+image:
+  src: /images/generated/zebediah.webp
+  alt: "Zebediah in the vault"
+  caption: "AI image of a man seen from behind stepping carefully across a patterned vault floor toward a great emerald amulet and a sword set in stone."
 ---
 
 **Player character (JL) · Twin of [Zanzibar](/people/zanzibar/) · Of [Punis](/places/punis/) · Disinherited · Raised**

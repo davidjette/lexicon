@@ -47,6 +47,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-06"
 - 'JL''s DM notes: Starfall Notes - Barrias'' Nightmare session'
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/negroni-prime.webp
+  alt: "Negroni Prime"
+  caption: "AI image of a mile-wide black stone memorial on a ruined plain, with a small city under a shimmering bubble beyond it."
 ---
 
 **Outpost planet · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · *Light of Xaryxis* · Status unknown**

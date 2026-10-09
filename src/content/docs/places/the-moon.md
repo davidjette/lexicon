@@ -63,6 +63,10 @@ sources:
 - "Oral Histories: The Inevitables, 2024-07-01"
 - "Oral Histories: The Inevitables, 2024-08-16"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-moon.webp
+  alt: "The Moon before the Starfall"
+  caption: "AI image of a night forest with glowing pools and softly shining ground, where a stag drinks while small hunters watch from the trees."
 ---
 
 **Moon of Toril · A living fae world in the deep past · Struck by the Egg at the Starfall · Selune in the Starfall era**

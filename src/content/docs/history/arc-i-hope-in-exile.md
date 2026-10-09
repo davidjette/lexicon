@@ -52,6 +52,10 @@ published: '2026-09-10'
 wa:
   slug: arc-i-E28094-hope-in-exile-plot
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+image:
+  src: /images/generated/arc-i-hope-in-exile.webp
+  alt: "The wreck of the Evening Star"
+  caption: "AI image of a great four-masted sailing ship sinking while two crowded lifeboats pull away."
 ---
 
 **Campaign Arc · Temple Holdings LLC, Arc I · The Moonshae Isles, off the Sword Coast · Complete**

@@ -36,6 +36,10 @@ sources:
 - sources/site/home.txt
 - sources/dave/2026-09-14-nico-docs-questions.md
 published: '2026-09-14'
+image:
+  src: /images/generated/the-sharn-news-network.webp
+  alt: "Tim Raisins reading the news for the Sharn News Network"
+  caption: "AI image of a young half-elf news anchor at a desk in a red-lit studio, seen on a glowing crystal screen watched by figures in a dim room."
 ---
 
 **News broadcaster · Sharn · Imperial media · Anchor: Tim Raisins**

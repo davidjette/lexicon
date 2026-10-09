@@ -38,6 +38,10 @@ published: '2026-09-10'
 wa:
   slug: hetta-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+image:
+  src: /images/generated/hetta.webp
+  alt: "Hetta at the Thirteenth Casting"
+  caption: "AI image of a deep dwarf scout with mould across his face, standing on a smoky ledge with a hand raised toward a great bell."
 ---
 
 **Duergar (deep dwarf) · Scout of the Teryaki · The Teryaki clan · Dead**

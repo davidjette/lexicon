@@ -46,6 +46,10 @@ sources:
 - "Oral Histories: The Inevitables, 2022-01-07"
 - "Oral Histories: The Inevitables, 2022-01-08"
 published: '2026-09-14'
+image:
+  src: /images/generated/aubreck-drallion.webp
+  alt: "Aubreck Drallion"
+  caption: "AI image of a gray-haired nobleman with a short ponytail and a neat mustache, in outdated finery before a run-down mansion."
 ---
 
 **Human noble · Merchant prince · Saltmarsh, Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/)**

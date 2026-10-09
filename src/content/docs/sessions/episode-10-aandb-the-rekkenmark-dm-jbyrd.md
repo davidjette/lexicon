@@ -40,6 +40,10 @@ wa:
   slug: episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report
   uuid: 7187f975-42ae-46f2-a1c4-f271670ddc62
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+image:
+  src: /images/generated/episode-10-aandb-the-rekkenmark-dm-jbyrd.webp
+  alt: "The standoff beneath the Rekkenmark"
+  caption: "AI image of small silhouetted figures facing off in an underground laboratory of machines around a great glass vat of yellow liquid."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 10 (a&b) · DM: JByrd · Report filed 12 Sep 2020**

@@ -40,6 +40,10 @@ published: '2026-09-10'
 wa:
   slug: colonel-angus-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/colonel-angus.webp
+  alt: "Colonel Angus"
+  caption: "AI image of a barrel-chested, close-cropped officer with a greatsword on his back in a fort's command room at night."
 ---
 
 **Species unknown · Colonel · [Purple Dragons](/organizations/the-purple-dragons/) · Fort Maximillien · Alive**

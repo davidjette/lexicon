@@ -53,6 +53,10 @@ sources:
 - "The Starsong Awakens site (JL Byrd): New ships"
 - "JL's DM notes: Starfall Awakens Notes"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+image:
+  src: /images/generated/brownsleeve-city.webp
+  alt: "Brownsleeve City"
+  caption: "AI image of a sunny beachside resort city with a skyscraper over the sea and flying cars overhead."
 ---
 
 **Beachside resort community · Selune, the moon of Toril · *The Starsong Awakens* · Status unknown**

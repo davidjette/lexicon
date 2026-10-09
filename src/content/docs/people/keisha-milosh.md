@@ -41,6 +41,10 @@ sources:
 - CANON.md 5ac
 - "Oral Histories: The Inevitables, 2022-08-15"
 published: '2026-09-14'
+image:
+  src: /images/generated/keisha-milosh.webp
+  alt: "Keisha Milosh"
+  caption: "AI image of a deckhand seen from behind, hauling a rope on the deck of a sailing ship at sea."
 ---
 
 **Deckhand of the Blackfish · Wanted pirate · Daughter of Feng Milosh**

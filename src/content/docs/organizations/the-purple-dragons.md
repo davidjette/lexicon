@@ -45,6 +45,10 @@ published: '2026-09-10'
 wa:
   slug: the-purple-dragons-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/generated/the-purple-dragons.webp
+  alt: "The Purple Dragons"
+  caption: "AI image of a disciplined column of cavalry in violet-plumed helms riding with mages across desert dunes."
 ---
 
 The **Purple Dragons** are the army of the [Cormyrean Empire](/organizations/the-cormyrean-empire/), paired in the field with the **War Wizards**. Five hundred years ago they were the household troops of the King of Cormyr, drilling in their capital and picking off trade caravans during his war on the Dalelands and Sembia. Their western frontier formation today is the **Western Vanguard**, commanded by [Marshall Varkus](/people/peterbilt-varkus/), whose urban detachment garrisons [Fort Maximillien](/places/fort-maximillien/) in the city it occupies.

@@ -36,6 +36,10 @@ published: '2026-09-10'
 wa:
   slug: the-houses-of-mercy-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/generated/the-houses-of-mercy.webp
+  alt: "The Houses of Mercy"
+  caption: "AI image of three novice nuns washing a great dark bell with white cloths at dawn in a cathedral crossing."
 ---
 
 **Continent-wide medical network · Former Sovereign Host foundations · Active in every major city in Khorvaire**

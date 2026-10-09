@@ -30,6 +30,10 @@ wa:
   slug: episode-3-28a2Cb2Cc29-E2809Cmassacre-on-the-talenta-plains-expressE2809D-dm3A-dave-report
   uuid: a2cf8b7a-0e64-4a82-8406-a8baa4813fba
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+image:
+  src: /images/generated/episode-3-a-b-c-massacre-on-the-talenta-plains-express-dm-dave.webp
+  alt: "The battle on the Talenta Plains Express"
+  caption: "AI image of a train crossing open plains while soldiers, passengers and rebels fight inside its carriages."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 3 (a,b,c) · DM: Dave · Report filed 11 Sep 2020**

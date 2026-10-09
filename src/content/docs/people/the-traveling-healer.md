@@ -40,6 +40,10 @@ published: '2026-09-10'
 wa:
   slug: the-traveling-healer-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/the-traveling-healer.webp
+  alt: "The traveling healer"
+  caption: "AI image of an armoured dragonborn woman seen from behind, walking into a forest with a shield, a shortbow, a mace and a traveler's pack."
 ---
 
 **Dragonborn · Cleric of the Life Domain, Level 6 · Temple Holdings LLC · Chaotic Good · Alive**

@@ -38,6 +38,10 @@ gallery:
 - src: /images/gallery/2026-05-21-02.webp
   alt: Honor Guard stat block
   caption: 'A game stat block titled "Honor Guard", a Medium undead with a greatsword, necrotic beam and the trait "Bound to Esther": if Esther Crona dies, its Red Khyber crystal explodes.'
+image:
+  src: /images/generated/the-council-of-13.webp
+  alt: "The Council of 13"
+  caption: "AI image of four masked, fully armored honor guards walking through an imperial hall, one keeping close to a small boy."
 ---
 
 **Type:** Government, Leadership · **Membership:** thirteen · **Status:** Dead, and still on duty

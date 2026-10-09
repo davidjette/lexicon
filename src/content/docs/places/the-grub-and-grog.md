@@ -35,6 +35,10 @@ sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3078, IMG_3080, IMG_3087, IMG_3090, IMG_3092)
 - sources/dave/2026-09-14-dead-mans-hand-names.md
 published: '2026-09-14'
+image:
+  src: /images/generated/the-grub-and-grog.webp
+  alt: "The Grub + Grog"
+  caption: "AI image of a three-story stone-and-timber inn on a rainy night, lit on every floor but the dark top one, with a crow weathervane on the roof."
 ---
 
 **Inn and tavern · Sea Ward, [Waterdeep](/places/waterdeep/) · Proprietor Ard Farkle · Allied with the Harpers · Standing**

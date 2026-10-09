@@ -34,6 +34,10 @@ fields:
 sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3010, IMG_3012, IMG_3014, IMG_3017, IMG_3019, IMG_3027, IMG_3034, IMG_3065)
 published: '2026-09-14'
+image:
+  src: /images/generated/prez.webp
+  alt: "Prez"
+  caption: "AI image of a hooded tomcat thief, seen from behind, climbing to a second-story window in a slum."
 ---
 
 **Tomcat · Rogue · [Sharegrave](/people/sharegrave/)'s gang · [Sigil](/places/sigil/) · Alive**

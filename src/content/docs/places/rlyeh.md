@@ -45,6 +45,10 @@ published: '2026-09-10'
 wa:
   slug: r-lyeh-settlement
   category: c499f530-57b8-4d6a-9fac-efcaf39f42f0
+image:
+  src: /images/generated/rlyeh.webp
+  alt: "The sunken city of R'lyeh"
+  caption: "AI image of a sunken city of impossible angles on the dark ocean floor, built around an enormous dormant vessel."
 ---
 
 **Sunken city · Ancient Aboleth capital · Built around the dormant Zoth and his ship**

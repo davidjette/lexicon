@@ -29,6 +29,10 @@ fields:
 sources:
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3004, IMG_3007, IMG_3010, IMG_3012, IMG_3013, IMG_3014, IMG_3015, IMG_3016, IMG_3017, IMG_3018, IMG_3019, IMG_3022, IMG_3033)
 published: '2026-09-14'
+image:
+  src: /images/generated/the-catwalk.webp
+  alt: "The Catwalk"
+  caption: "AI image of a ramshackle walkway of planks, ropes and scaffolding strung between two tall slum buildings, with cat-folk keeping watch along it."
 ---
 
 **Thieves' guild headquarters · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Sharegrave's gang · Standing**
