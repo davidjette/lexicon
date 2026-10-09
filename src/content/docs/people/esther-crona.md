@@ -463,9 +463,15 @@ Esther may have heard fragments of what the Echo said, but she could not have kn
 
 For years, Esther had been searching for an explanation for Varyn, the sword and the binding that had kept his presence with her. Whatever she found beneath Sharn appears to have brought that torment to an end. Richard Blaze later described how she returned home at sunrise, quiet and almost lost, as though she had just awakened from a long sleep. She told him that she had been looking for something for a very long time and that, deep beneath the city, she had finally found it. Richard said it was the most content he had seen her in years.
 
+![Esther and Richard - Morning after the Forge of Binding.png](/images/uploads/esther-and-richard-morning-after-the-for-mv0qm10m.webp)
+*Esther and Richard - Morning after the Forge of Binding*
+
 She spent the early morning with [Calcifer](/people/calcifer/), playing and laughing with him while Richard cooked breakfast. She told Richard she wished she could stay with them or come to their lake house, but that events at [Crona's Wall](/places/cronas-wall/) were escalating. She kissed her husband and son goodbye and left.
 
 For most of Esther's life, the sword had been a voice telling her to continue. After the Forge, that voice was gone.
+
+![Esther, Richard and Calcifer - Sharn Penthouse.png](/images/uploads/esther-richard-and-calcifer-sharn-pentho-mv0qn1o8.webp)
+*Esther, Richard and Calcifer*
 
 What Esther believed she had finally found beneath Sharn — and what exactly was lost when Varyn's Echo disappeared — remains one of the central mysteries surrounding her. <small>(Oral Histories: The Inevitables, 2026-05-08)</small>
 
