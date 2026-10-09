@@ -176,6 +176,9 @@ Years later, [Locke Pierce](/people/locke-pierce/) studied the same destructive 
 
 When [Esther Crona](/people/esther-crona/) was five years old, Varyn purchased her as a slave for his manor in Korth. Rather than leaving her to work as a servant, he taught her to read and write, recognized her unusual natural powers and instructed her in how to control them. When Esther was twelve, he made her his apprentice in the Crimson Sun, beginning her rise through its ranks from Apprentice to Inquisitor and eventually High Inquisitor. She worked directly under Varyn as a spy, investigator and rebel hunter, becoming one of the Empire's most capable agents.
 
+![Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth.png](/images/uploads/esther-crona-age-18-and-vayrn-crona-insi-mv0ianbl.webp)
+*Esther Crona Age 18 and Vayrn Crona - Inside Crimson Sun Hall - Korth*
+
 Varyn was more than Esther's commanding officer. He raised her, educated her and shaped her understanding of loyalty and authority before eventually becoming her lover. Esther regarded him as mentor, adoptive father, master and the person who had given her a place in the world. Varyn, in turn, regarded Esther as his legacy and successor. Their relationship would define her life long after he was gone, influencing her rise within the Empire, her response to his assassination and her eventual transformation of the institutions he had once commanded.
 
 ## The Assassination
