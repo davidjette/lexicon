@@ -135,14 +135,21 @@ The Rite of Recall did not undo the Mourning or erase the sword's history. It br
 
 ## White Khyber — Siberys: Bright Dawn
 
-After the Rite of Recall, the weapon's material state was no longer the Red Khyber associated with the Mourning. The blade had become crystalline **White Khyber — Siberys**, also called moonstone in the taxonomy delivered by Sir Dario Argentino. Its transformation marked the end of the sword's original binding and the beginning of a new chapter. The distinctions between these materials, and the lore surrounding their origins, are detailed in the [Khyber Taxonomy](https://davidjette.github.io/lexicon/items/khyber-taxonomy/).
+After the Rite of Recall, the weapon's material state was no longer the [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) associated with the Mourning. The blade had become crystalline **White Khyber — Siberys**, also known as moonstone in the taxonomy delivered by Sir Dario Argentino. Its transformation marked the end of the sword's original binding and the beginning of a new chapter. The distinctions between these materials, and the lore surrounding their origins, are detailed in the [Khyber Taxonomy](https://davidjette.github.io/lexicon/items/khyber-taxonomy/).
 
-After Esther's final confrontation at the [Veil Building](/places/the-veil-building/), she fell from the penthouse balcony and dropped the sword. Gemma recovered it and claimed the transformed weapon as her own pact blade, renaming it **Bright Dawn**. Its full name, **Bright Dawn (Crimson Sun Unbound)**, records both sides of its identity: Bright Dawn is the name Gemma gave the crystalline weapon after its binding was broken, while Crimson Sun Unbound preserves the sword's original name and acknowledges the history that made the transformation possible.
+After Esther's final confrontation at the [Veil Building](/places/the-veil-building/), she fell from the penthouse balcony and dropped the sword. **[Gemma Corso](/people/gemma-corso/) recovered the transformed weapon and claimed it as her own pact blade, renaming it Bright Dawn.** Its full name, **Bright Dawn (Crimson Sun Unbound)**, preserves both sides of its identity: Bright Dawn is the name Gemma gave the crystalline weapon after its binding was broken, while Crimson Sun Unbound acknowledges the sword's original name and the history that made its transformation possible.
 
 ![The Bright Dawn (Crimson Sun Unbound) - Sword.png](/images/uploads/the-bright-dawn-crimson-sun-unbound-swor-mv1a932l.webp)
+
 *The Bright Dawn (Crimson Sun Unbound) - Sword*
 
-The name does not mean the sword's past has been erased. It was forged from Black Khyber, transformed into [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) through the Mourning, and changed into White Khyber through the Rite of Recall. Its history remains part of the weapon, even though Varyn's Echo no longer inhabits it.
+**Bright Dawn is now Gemma's pact blade.** She wields the crystalline longsword as her own weapon, distinct from the Hexblade Esther once carried and the supernatural bond Varyn's Echo maintained. The Rite of Recall severed that old connection, but the sword's power and history remain. In Gemma's hands, it has taken on a new identity—not as Varyn's Crimson Sun or Esther's Hexblade, but as Bright Dawn, the Crimson Sun Unbound.
+
+![Gemma Corso with The Bright Dawn (Crimson Sun Unbound).png](/images/uploads/gemma-corso-with-the-bright-dawn-crimson-mv1ao48g.webp)
+*The Bright Dawn (Crimson Sun Unbound)*
+
+The name does not mean the sword's past has been erased. It was forged from [Black Khyber — Shavat](https://davidjette.github.io/lexicon/items/khyber-taxonomy/), transformed into [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) through the Mourning, and changed into White Khyber through the Rite of Recall. Varyn's Echo no longer inhabits it, and its original binding is gone. **The weapon's legacy remains, but Gemma is the one who wields it now.**
+
 
 ## The Risen Esther
 
