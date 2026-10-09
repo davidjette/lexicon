@@ -16,7 +16,7 @@ tags:
   - High Elf
   - Veryn Crona
 image:
-  src: /images/uploads/vayrn-crona-eternal-guardian-mu0n5ghk.webp
+  src: /images/uploads/vayrn-crona-standing-on-the-the-glass-pl-mv0jax1p.webp
 type: person
 kind: people
 icon: fa-sun
