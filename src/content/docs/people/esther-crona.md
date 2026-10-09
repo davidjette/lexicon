@@ -133,6 +133,9 @@ Varyn was more than Esther's commanding officer. He was her adoptive father, tea
 ![Esther Crona at 18 with Varyn Crona in Korth, Varyn Manor.png](/images/uploads/esther-crona-at-18-with-vayrn-crona-in-k-muxqay3c.webp)
 *Esther and Varyn in Crona Manor - Korth*
 
+![Esther and Vayrn Crona - Crona Manor, Korth.png](/images/uploads/esther-and-vayrn-crona-crona-manor-korth-mv0myexb.webp)
+*Esther and Vayrn Crona - Crona Manor, Korth*
+
 After Varyn's death, Esther continued her work for the Empire alongside [Uriel Qualanthri](/people/uriel-qualanthri/), [John C. LeBeefe](/people/john-c-lebeefe/) and [Locke Pierce](/people/locke-pierce/). Varyn was already dead. Esther continued carrying his sword while struggling with his death, helping recover the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/), fighting rebels aboard the [Talenta Plains Express](/history/the-lightning-rail-ambush/), investigating Imperial secrets and carrying out missions in which secrecy, interrogation and violence were treated as necessary tools of the state.
 
 Esther was nineteen and already a High Inquisitor when she became one of the founders of [The Unforeseen](/organizations/the-unforeseen/). By then she was no longer simply Varyn's young apprentice. She had become one of the Empire's most capable and trusted agents in her own right.
