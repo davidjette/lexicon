@@ -263,6 +263,9 @@ It never happened that way.
 
 As Richard, Calcifer and their household attempted to leave Sharn for the lake house, the [Children of Ember](/organizations/the-children-of-ember/) moved against them. The attack destroyed Richard's plan to quietly remove his son from the conflict. Richard and Calcifer were taken, drawing the trio directly into the confrontation with Faith and Malrik.
 
+![Richard and Calcifer (bagged) captured by The Children of Ember cultist..png](/images/uploads/richard-and-calcifer-bagged-captured-by-mv08pxih.webp)
+*Richard and Calcifer (bagged) captured by The Children of Ember cultist*
+
 The trio's rescue operation eventually reached the Zeir residence and the [Vault Underground](/places/the-vault-underground/), where the extent of the cult's activities became clear. [Malrik Zeir](/people/malrik-zeir/) was killed, and [Faith Zeir](/people/faith/) attempted to flee with Calcifer.
 
 [Esther Crona](/people/esther-crona/) arrived during the chaos. Seeing Calcifer in danger, she drove her sword through her own half-sister Faith and took her son back. When Dario shouted that he knew what Uriel had done to Calcifer, Esther also took [Gemma Corso](/people/gemma-corso/) and returned to the penthouse.
