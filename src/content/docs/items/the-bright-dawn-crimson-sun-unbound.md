@@ -21,7 +21,7 @@ tags:
   - Rite of Recall
   - Priest E'noch Qualanthri
 image:
-  src: /images/uploads/bright-dawn-crimson-sun-unbound-mu0zsg0d.webp
+  src: /images/uploads/the-crimson-sun-sword-the-bright-dawn-cr-mv1a02oh.webp
 type: item
 kind: items
 icon: fa-sword
