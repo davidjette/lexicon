@@ -41,6 +41,7 @@ sources:
   - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
   - CANON.md 5w
   - CANON.md 5ac
+  - sources/sessions/dead-mans-hand-illustration-briefs.md
 published: '2026-09-14'
 image:
   src: /images/gallery/dmh-shemeska.webp
@@ -96,3 +97,7 @@ The drivers of that crew, the Grille brothers, were taken hostage by the party. 
 
 > "Please dont tell her I told you. But it was in fortune's wheel. Shemeska was the client, she wanted some kind of CARD\
 > — Bonefish Grille <small>(DM notes)</small>
+
+## The prize fight
+
+Shemeska is an arcanaloth. When the party came back to Fortune's Wheel she received them in fine furs, feathers and velour, gave them a stern warning about the Deck of Many Things, and paid them to fight that night in her arena as prize fighters, which they did, and won. <small>(Illustration briefs)</small> See [Ep 13 — Fortune's Wheel](/sessions/dead-mans-hand-ep-13-fortunes-wheel/).

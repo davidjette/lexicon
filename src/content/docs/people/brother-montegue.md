@@ -38,11 +38,16 @@ sources:
   - CANON.md 5ai (Oral Histories)
   - "Oral Histories: The Inevitables, 2025-11-09"
   - sources/dave/2026-10-08-tudyx-cube-spine.md
+  - sources/sessions/dead-mans-hand-illustration-briefs.md
 published: '2026-09-14'
 image:
   src: /images/generated/brother-montegue.webp
   alt: "Brother Montegue"
   caption: "AI image of a young orc priest offering a cube-shaped puzzle box in a cathedral of geometric patterns, with masked nuns behind him."
+gallery:
+- src: /images/gallery/dmh-heyu-and-feng.webp
+  alt: "The Factol at tea with Heyu"
+  caption: "The Factol sits at tea with Heyu, the puzzle box between them."
 ---
 
 **Orcish priest · Factol of the Faceless · [The Sororia](/organizations/the-sororia/) · [Our Lady of Mysteries](/places/our-lady-of-mysteries/), [Sigil](/places/sigil/) · Alive**
@@ -82,3 +87,7 @@ He gives Heyu a [Tudyx Cube](/items/the-tudyx-cube/), a puzzle box which hides i
 **Contacts & Relations:**
 - [Heyu](/people/heyu/): brought before him at Our Lady of Mysteries.
 - [The Sororia](/organizations/the-sororia/): the order he leads.
+
+## Tea with Heyu
+
+When Heyu prayed at Our Lady of Mysteries and had a vision of Battlebeast turned to stone in terror, six of the Sororia brought her deeper into the cathedral to the Factol. He was dressed and styled as a samurai elder. He sat with her over tea, asked her about the Deck of Many Things, gave her a puzzle box to hold the Deck, and charged her with collecting all the cards in the name of Cypher. <small>(Illustration briefs)</small> See [Ep 14 — Our Lady of Mysteries](/sessions/dead-mans-hand-ep-14-our-lady-of-mysteries/).

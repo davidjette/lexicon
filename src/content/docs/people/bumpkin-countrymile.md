@@ -34,6 +34,7 @@ fields:
   weight: Unknown
 sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2985, IMG_3009, IMG_3071)
+  - sources/sessions/dead-mans-hand-illustration-briefs.md
 published: '2026-09-14'
 image:
   src: /images/gallery/dmh-bumpkin-countrymile.webp
@@ -48,6 +49,10 @@ Bumpkin Countrymile is a human staying at [Fortune's Wheel](/places/fortunes-whe
 ## Description
 
 Bumpkin is a "Human Simp" and a "Sad Sack". <small>(DM notes)</small>
+
+## In the VIP lounge
+
+The party found Bumpkin at the bar of the VIP lounge at Fortune's Wheel: a farmer who struck it rich with an ore discovery and was whisked into a society he did not understand, conned out of his fortune and now in debt to the casino. He was dejected, in expensive clothes that did not suit him, with two bright pink drinks in front of him. Mach V questioned him. <small>(Illustration briefs)</small> See [Ep 13 — Fortune's Wheel](/sessions/dead-mans-hand-ep-13-fortunes-wheel/).
 
 ## The moonstone fortune
 

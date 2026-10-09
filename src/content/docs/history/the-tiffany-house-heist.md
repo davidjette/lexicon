@@ -43,6 +43,7 @@ sources:
 - CANON.md 5ac
 - sources/dave/2026-09-14-heyu-and-feng.md
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
+- sources/sessions/dead-mans-hand-illustration-briefs.md
 published: '2026-09-14'
 image:
   src: /images/gallery/dmh-tiffany-house-evening-gathering.webp
@@ -117,6 +118,14 @@ Jeremiah knows Griddy. The party know her as **Garidriel**, and the two of them 
 
 ![Jeremiah and Griddy Champagne, both winged, fight across Beef Wellington's bedroom](/images/gallery/dmh-tiffany-house-angels.webp)
 *Jeremiah and Griddy Champagne, both winged, fight across Beef Wellington's bedroom.*
+
+## The night, scene by scene
+
+The robbery was worked with a gnomish retroglockenspielifier, a box-shaped brass and steel instrument unveiled on the courtyard stage by two bards, whose music struck the guards and guests unconscious. The dark-haired woman bard was the thieves' leader. The catering staff threw off their aprons and robbed the sleeping guests into tablecloth sacks. Battlebeast, Rodriel and Heyu shook the music off; Maverick went down and hit his head on a table. <small>(Illustration briefs)</small>
+
+In the house Jeremiah drew a glowing white-grey sword and Griddy an ebony mace and a rope of entanglement, and she bound him in the rope as he lunged for the false deck. Still bound, he headbutted Darius, who had grabbed the cards, and knocked him out. Jeremiah's blow left Lenore nearly dead. Shadowhigh shot the legs out from under the two getaway drivers at the kitchen door. Mach V strapped the corpulent noble to the bed and made him draw the first card of the false deck, a true card of RUIN. In the courtyard Rodriel smote a waiter while Battlebeast lay unconscious. When the nobles woke, Phillip Klaxon congratulated Mach V and General Varkus put a hand on Darius's shoulder. <small>(Illustration briefs)</small>
+
+The two sessions are told in full at [Ep 14](/sessions/dead-mans-hand-ep-14-our-lady-of-mysteries/) and [Ep 15](/sessions/dead-mans-hand-ep-15-the-tiffany-house-heist/).
 
 ## The card
 

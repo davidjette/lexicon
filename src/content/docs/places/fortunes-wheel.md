@@ -34,6 +34,7 @@ sources:
 - sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md
 - CANON.md 5w
 - CANON.md 5ac
+- sources/sessions/dead-mans-hand-illustration-briefs.md
 published: '2026-09-14'
 image:
   src: /images/generated/fortunes-wheel.webp
@@ -78,3 +79,7 @@ Bumpkin Countrymile was invited to stay at Fortune's Wheel and is losing his fam
 - **The casino floor:** the gambling tables.
 - **The back halls:** the route by which the Mouse Trappers' visitors are brought in.
 - **The Suite:** where visitors are taken after the casino floor.
+
+## The arena
+
+Fortune's Wheel has its own arena, a huge, magically lit indoor amphitheater. Its patrons bet golden razorleafs at games and sentient slot machines, and a yugoloth bouncer and a pit fiend in a fine suit and suspenders oversee the service. The party fought there in a mock battle across a channel of real water, against kobolds on flaming two-headed bulls, three riflemen, three imps and two minotaurs roped together at the waist. The show was sponsored by Mousetrappers, the exterminators, and Battlebeast read their advertisement holding up a white mouse. <small>(Illustration briefs)</small> See [Ep 13 — Fortune's Wheel](/sessions/dead-mans-hand-ep-13-fortunes-wheel/).

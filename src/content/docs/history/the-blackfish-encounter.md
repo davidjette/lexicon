@@ -43,6 +43,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-08-17"
 - "Oral Histories: The Inevitables, 2025-09-22"
 - "Oral Histories: The Inevitables, 2026-03-07"
+- sources/sessions/dead-mans-hand-illustration-briefs.md
 published: '2026-09-14'
 image:
   src: /images/generated/the-blackfish-encounter.webp
@@ -138,3 +139,7 @@ To get the Blackfish back to shore any skill will serve: ten successes are neede
 ## Afterwards
 
 The party's second real rest and downtime followed. Jeremiah now knows them all, knows that [Heyu](/people/heyu/) and [Rodriel](/people/rodriel/) are with them, and knows they have the cards; he means to attack them on the planes. <small>(DM notes)</small>
+
+## The session afterwards
+
+Below decks Battlebeast, Rodriel and Shadowhigh held a door against the breach while Lenore and Johnny mended it into the hull. Shadowhigh went back for Jeremiah's corpse and found only the bloody javelin that had slain him; he was hidden in the shadow behind her with his mace. The party sailed the ruined Blackfish into harbor, where the town guard waited to impound it and cheered them in. <small>(Illustration briefs)</small> The session is told at [Ep 12 — The Blackfish](/sessions/dead-mans-hand-ep-12-the-blackfish/).

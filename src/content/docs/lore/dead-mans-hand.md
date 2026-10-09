@@ -70,6 +70,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-02-03"
 - "Oral Histories: The Inevitables, 2026-03-03"
 - sources/sessions/dead-mans-hand-2026-09-26-summary.md
+- sources/sessions/dead-mans-hand-illustration-briefs.md
 published: '2026-09-10'
 wa:
   slug: dead-man26230393Bs-hand-article
@@ -161,6 +162,17 @@ That night came [the Incident at the Grub + Grog](/history/the-incident-at-the-g
 In [the Fort Maximillien Breakout](/history/the-fort-maximillien-breakout/), Lenore, BattleBeast and Heyu escaped down the fort's trash pit. Nicollo betrayed the rest, and Maverick, Shadowhigh and Barold were hanged at dawn. The trash pit was the Yawning Portal: in [Undermountain](/places/undermountain/) [Tripp Sandhill](/people/tripp-sandhill/) raised the fallen. The party cleared the first level, met the old man [Soggy Blankets](/people/soggy-blankets/), recovered the Company's mission file for [O-3255](/items/o-3255/), and descended to the Arcane Chambers, where [Halaster Blackcloak](/people/halaster-blackcloak/) keeps a hall of Motherstone relics and the tomb of Daenan Gallidan, empty but for the **STAR** card.
 
 On [the Road to Skullport](/history/the-road-to-skullport/) they crossed the third level, through a dwarven tomb and a ruined town held by the drow of House Wendy's, freed two goblins who came with them, and reached [Skullport](/places/skullport/), the Xanathar Guild's city, to deliver O-3255 at the Flagon and the Dragon.
+
+## Sessions
+
+Session articles, numbered by estimate from the order of the story:
+
+- [Ep 12 — The Blackfish](/sessions/dead-mans-hand-ep-12-the-blackfish/)
+- [Ep 13 — Fortune's Wheel](/sessions/dead-mans-hand-ep-13-fortunes-wheel/)
+- [Ep 14 — Our Lady of Mysteries](/sessions/dead-mans-hand-ep-14-our-lady-of-mysteries/)
+- [Ep 15 — The Tiffany House Heist](/sessions/dead-mans-hand-ep-15-the-tiffany-house-heist/)
+- [Ep 16 — The Grub + Grog](/sessions/dead-mans-hand-ep-16-the-grub-and-grog/)
+- [Ep 17 — Fort Maximillien](/sessions/dead-mans-hand-ep-17-fort-maximillien/)
 
 ## The deck
 

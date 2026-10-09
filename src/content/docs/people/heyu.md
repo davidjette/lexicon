@@ -76,7 +76,7 @@ image:
 gallery:
 - src: /images/gallery/dmh-heyu-and-feng.webp
   alt: "Heyu at tea"
-  caption: "Heyu sits at tea across a low table from a man in robes, a small puzzle box between them."
+  caption: "Heyu sits at tea with Brother Montegue, the Factol of the Sororia, the puzzle box between them."
 ---
 
 **Kenku · Investigator wizard · Follower of Cypher · Private detective · Alive**
