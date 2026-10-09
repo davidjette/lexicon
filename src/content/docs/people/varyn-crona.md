@@ -171,13 +171,12 @@ When [Esther Crona](/people/esther-crona/) was five years old, Varyn purchased h
 
 Varyn was more than Esther's commanding officer. He raised her, educated her and shaped her understanding of loyalty and authority before eventually becoming her lover. Esther regarded him as mentor, adoptive father, master and the person who had given her a place in the world. Varyn, in turn, regarded Esther as his legacy and successor. Their relationship would define her life long after he was gone, influencing her rise within the Empire, her response to his assassination and her eventual transformation of the institutions he had once commanded.
 
-![Varyn's death - Esther and Varyn in Fairhaven](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
-
-*Varyn's death - Esther and Varyn in Fairhaven*
-
 ## The Assassination
 
 Near the end of his life, Varyn and Esther spent two years investigating what they believed was a rebel stronghold in Aundair. They thought they had tracked a rebel leader to a cave system outside Fairhaven, but a masked assailant attacked them inside the caves and killed Varyn. Esther survived, and the Empire attributed his death to rebel activity, holding a state funeral in his honor. She carried Varyn's body back to Korth herself and initially believed the official account.
+
+![Varyn's death - Esther and Varyn in Fairhaven](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
+*Varyn's death - Esther and Varyn in Fairhaven*
 
 Years later, evidence surfaced indicating that members of the [Council of 13](/organizations/the-council-of-13/) had orchestrated the assassination. The discovery transformed Varyn's death from a presumed rebel attack into a betrayal by the government he had served for centuries. Why the Council wanted him dead remains unresolved, as does the question of how much [Kaius III](/people/emperor-caius-iii/) knew about the plot.
 
