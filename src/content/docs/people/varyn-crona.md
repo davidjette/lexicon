@@ -232,6 +232,9 @@ The Echo then shattered into red-black light, and the Forge of Binding went dark
 
 Varyn's relationship with **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** is one of the oldest mysteries surrounding him. E'noch selected Varyn, performed the Eternal Guardian rites with him and used forbidden Vol magic at the Forge of Binding. Varyn knowingly entered the pact, but the ultimate purpose of their arrangement remains unknown. E'noch later disappeared, leaving no surviving explanation of his identity or intentions.
 
+![Priest E'noch Qualanthri.png](/images/uploads/priest-e-noch-qualanthri-mv0n7aza.webp)
+*Priest E'noch Qualanthri*
+
 Centuries later, Varyn's Echo called E'noch **"my brother."** The word may be literal, referring to blood kinship, or it may describe another form of relationship entirely. E'noch also carried the surname Qualanthri, shared by [Uriel Qualanthri](/people/uriel-qualanthri/), whose history leads into House Vol, the Mark of Death and the larger mystery surrounding Kaius III. No surviving record explains the relationship between E'noch, Varyn and the Qualanthri family, or why E'noch selected Varyn for the role he would play.
 
 ## The Forge of Binding
