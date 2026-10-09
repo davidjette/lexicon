@@ -92,7 +92,8 @@ Varyn's legacy is inseparable from [Esther Crona](/people/esther-crona/), whom h
 
 Very little is known about Varyn's early life. He was a High Elf of Aerenal who eventually came to Khorvaire, but no surviving record explains his family, education or the circumstances that brought him to the Empire. The surviving history begins with the birth of Prince [Kaius](/people/emperor-caius-iii/) in 843 YK, when King Jarot ir'Wynarn's son became the focus of a strange rite arranged by a priest known as **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)**.
 
-E'noch was said to serve the [Sovereign Host](/organizations/the-sovereign-host/), but the prayers he spoke during the ceremony were unfamiliar to those present. His strange conduct earned him the name *the Stranger* at court. After beginning the rite, E'noch departed and later returned from Aerenal with Varyn, declaring him the chosen guardian of the newborn prince. Why E'noch selected Varyn, and what he recognized in the elf, remain unknown.
+E'noch was said to serve the [Sovereign Host](/organizations/the-sovereign-host/), but the prayers he spoke during the ceremony were unfamiliar to those present. His strange conduct earned him the name *the Stranger* at court. After beginning the rite, E'noch departed and later returned from Aerenal with Varyn, declaring him the chosen guardian, the [Eternal Guardian](/people/varyn-crona/), of the newborn prince. Why E'noch selected Varyn, and what he recognized in the elf, remain unknown.
+
 
 ## The Eternal Guardian
 
