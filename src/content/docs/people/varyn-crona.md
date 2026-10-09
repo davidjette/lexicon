@@ -198,14 +198,14 @@ Years later, evidence surfaced indicating that members of the [Council of 13](/o
 
 Varyn's death did not end his influence. Esther inherited the Crimson Sun and its sword, continuing to carry the weapon while believing that Varyn's soul remained within it, speaking to her, guiding her and training her through the blade. During her investigations with [the Unforeseen](/organizations/the-unforeseen/), she eventually learned that members of the Council of 13 had been responsible for his death.
 
-![Esther with the Crimson Sun after Vayrns' death - Crona Manor, Korth.png](/images/uploads/esther-with-the-crimson-sun-after-vayrns-mv0k6anx.webp)
-*Esther with the Crimson Sun after Vayrns' death - Crona Manor, Korth*
-
 In the throne room of Korth, Kaius III reminded Esther of Varyn's loyalty and gave her permission to hunt down those responsible. Esther acted on that permission, ultimately destroying the Council of 13, dissolving the Crimson Sun and creating the [Iron Veil](/organizations/the-iron-veil/). Four members of the old Council were later raised as Esther's masked Honor Guard. The government that had helped destroy Varyn was ultimately dismantled by the woman he had trained, while the institution he had commanded was replaced by one of her own making.
 
 ## The Sword
 
 After Varyn's death, Esther carried the Crimson Sun as her own weapon. Because of the ritual at the Forge of Binding, Varyn's blood and soul had been anchored to the blade, and Esther came to believe that his presence remained within it. She heard him, spoke to him and believed he continued to train her. The bond became the foundation of her Hexblade powers and one of the strongest influences on the rest of her life.
+
+![Esther Crona and the sword the Crimson Sun - Korth and Sharn.png](/images/uploads/esther-crona-and-the-sword-the-crimson-s-mv0lcq3f.webp)
+*Esther Crona and the sword the Crimson Sun - Korth and Sharn*
 
 The sword was not merely an heirloom or a reminder of her former master. It was the vessel of a binding Varyn had knowingly entered into, preserving a connection that endured long after his death. For years, he was both dead and present through the weapon. That connection eventually ended when Varyn's Echo was destroyed at the Forge of Binding, leaving the sword changed and his voice silent.
 
