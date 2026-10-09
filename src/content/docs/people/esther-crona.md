@@ -367,6 +367,9 @@ Esther first met [Richard Blaze](/people/richard-blaze/) aboard the lightning ra
 
 Their early relationship developed while Esther was still grieving Varyn. In Korth, while she waited for another assignment in Varyn's manor, her nights included frequent encounters with Richard even as she continued to dream about Varyn's murder and hear his voice through [Varyn's sword](/items/the-bright-dawn-crimson-sun-unbound/). <small>(Nico's DM notes, Episode 6)</small>
 
+![Esther and Richard in Crona Manor - Korth.png](/images/uploads/esther-and-richard-in-crona-manor-korth-mv0oglvj.webp)
+*Esther and Richard in Crona Manor - Korth*
+
 Their courtship eventually led to marriage. A few months after [Uriel Qualanthri](/people/uriel-qualanthri/) married [Emperor Kaius III](/people/emperor-caius-iii/), Esther and Richard married in a small, private ceremony at their lake house outside [Korth](/places/korth/). Uriel and [John C. LeBeefe](/people/john-c-lebeefe/) were among those present. It was one of the last times LeBeefe was seen in public. After the wedding, Esther and Richard relocated to [Sharn](/places/sharn/), where she would establish the [Iron Veil](/organizations/the-iron-veil/) and rise to become Lord Commander. Richard continued building his restaurant empire, keeping his connection to [Fulcrum](/organizations/fulcrum/) hidden from his wife.
 
 ![Esther and Richards Lakehouse Wedding - With Ureil and LeBeefe - Lake House.png](/images/uploads/esther-and-richards-wedding-with-ureil-a-mv05627s.webp)
