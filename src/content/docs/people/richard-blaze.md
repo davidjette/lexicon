@@ -141,7 +141,7 @@ Richard may have believed for a long time that nothing more would ever come of h
 
 ## Marriage
 
-A few months after [Uriel Qualanthri](/people/uriel-qualanthri/) married [Emperor Kaius III](/people/emperor-caius-iii/), Richard and Esther married in a small private ceremony at their lake house outside [Korth](/places/korth/). Uriel attended, as did [John C. LeBeefe](/people/john-c-lebeefe/); the wedding was one of the last known occasions on which LeBeefe was seen publicly before withdrawing from ordinary Imperial life.
+A few months after [Uriel Qualanthri](/people/uriel-qualanthri/) married [Emperor Kaius III](/people/emperor-caius-iii/), Richard and Esther married in a small private ceremony at their lake house outside [Korth](/places/korth/). Uriel attended, as did [John C. LeBeefe](/people/john-c-lebeefe/); the wedding was one of the last known occasions on which LeBeefe was seen publicly before withdrawing into his Black Palace in Newham.
 
 
 ![Esther and Richards Wedding - With Ureil and LeBeefe - Lake House.png](/images/uploads/esther-and-richards-wedding-with-ureil-a-mv0228ck.webp)
