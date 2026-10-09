@@ -53,6 +53,10 @@ wa:
   slug: silverbane-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
   note: 'Merged: person-template body (from SILVERBANE.pdf statblock) + item-template framing from the Infantaverse wiki. Sentient sword; filed as person because it has a character sheet and speaks.'
+image:
+  src: /images/generated/silverbane.webp
+  alt: "Silverbane"
+  caption: "AI image of a pale glowing sword with runes along the blade and a goddess engraved on the forte, under a full moon."
 ---
 
 **Intelligent bastard sword (moonblade) · Level 15 · Neutral Good · House Gallidann · Awake, and borne by Drefan**

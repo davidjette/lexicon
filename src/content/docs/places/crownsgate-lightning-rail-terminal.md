@@ -30,6 +30,10 @@ published: '2026-09-10'
 wa:
   slug: crownsgate-lightning-rail-terminal-landmark
   category: 0c0da159-b605-4821-ab38-05de380408c4
+image:
+  src: /images/generated/crownsgate-lightning-rail-terminal.webp
+  alt: "The Crownsgate Lightning Rail Terminal"
+  caption: "AI image of a rail coach hovering over glowing stones beside a crowded concourse, with soldiers on patrol and a city of towers behind."
 ---
 
 **Rail terminal · Directly outside Sharn's city gates · Operational, under Imperial patrol**

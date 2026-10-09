@@ -50,6 +50,10 @@ sources:
 - "Oral Histories: Temporal Holdings, 2020-05-04"
 - "Oral Histories: The Inevitables, 2021-12-03"
 published: '2026-09-14'
+image:
+  src: /images/generated/the-tudyx-cube.webp
+  alt: "A Tudyx Cube"
+  caption: "AI image of a silver filigree puzzle box with a smaller cube inside it, on a wooden table."
 ---
 
 **Item · Puzzle box · Invented by Dae, the Infanta of Puzzles · Named for House Tudyx of Cormanthor**
