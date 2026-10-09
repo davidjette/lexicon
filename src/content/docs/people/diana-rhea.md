@@ -33,6 +33,10 @@ fields:
 sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3006, IMG_3020, IMG_3033, IMG_3038, IMG_3046, IMG_3048)
 published: '2026-09-14'
+image:
+  src: /images/generated/diana-rhea.webp
+  alt: "Diana Rhea at work in the Gatehouse"
+  caption: "AI image of a hooded healer, seen from behind, pressing a poultice to a grey-skinned patient's arm in a lantern-lit ward of cots."
 ---
 
 **Cleric of [Brightmantle](/people/brightmantle/) · Knowledge domain · Healer of the [Bleak Cabal](/organizations/the-bleak-cabal/) · The Gatehouse, [Sigil](/places/sigil/) · Alive**
