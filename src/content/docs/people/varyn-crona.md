@@ -144,7 +144,7 @@ Varyn was not merely a dutiful servant of the imperial state. He spoke openly to
 
 Varyn was particularly secretive about the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/), the Assembly itself and Kaius III. He openly disliked [Hayman Maw](/people/hayman-maw/), but rarely explained what he knew about the other members of the [Council of 13](/organizations/the-council-of-13/). Later evidence connects him to a long-term plan involving the Crimson Sun, Kaius III and the forces surrounding [the Mourning](/history/the-mourning/).
 
-Dave's later account describes the Council of 13 as turning against Varyn and his plan before [the Unforeseen](/organizations/the-unforeseen/) unknowingly set parts of it back into motion. The precise nature of the plan, the reasons for the Council's opposition and the extent of Kaius III's involvement remain uncertain. It is also unknown whether Varyn and Kaius ultimately wanted the same outcome. Varyn's ambitions are clear, but the full design behind them has yet to be reconstructed.
+Later revelations connected the [Council of 13](/organizations/the-council-of-13/) to a larger conspiracy against Varyn and his long-term plan. The Council eventually turned against him, but the reasons for their opposition remain unclear. In the years that followed, [the Unforeseen](/organizations/the-unforeseen/) unknowingly set parts of that plan back into motion. The precise nature of Varyn's design, the extent of [Kaius III's](/people/emperor-caius-iii/) involvement, and whether the two ultimately sought the same outcome remain uncertain. Varyn's ambitions are clear, but the full design behind them has yet to be reconstructed.
 
 ## The Last War: The Official Account
 
