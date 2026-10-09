@@ -182,6 +182,9 @@ When [Esther Crona](/people/esther-crona/) was five years old, Varyn purchased h
 
 Varyn was more than Esther's commanding officer. He raised her, educated her and shaped her understanding of loyalty and authority before eventually becoming her lover. Esther regarded him as mentor, adoptive father, master and the person who had given her a place in the world. Varyn, in turn, regarded Esther as his legacy and successor. Their relationship would define her life long after he was gone, influencing her rise within the Empire, her response to his assassination and her eventual transformation of the institutions he had once commanded.
 
+![Esther and Vayrn Crona - Crona Manor, Korth.png](/images/uploads/esther-and-vayrn-crona-crona-manor-korth-mv0k5cmw.webp)
+*Esther and Vayrn Crona - Crona Manor, Korth*
+
 ## The Assassination
 
 Near the end of his life, Varyn and Esther spent two years investigating what they believed was a rebel stronghold in Aundair. They thought they had tracked a rebel leader to a cave system outside Fairhaven, but a masked assailant attacked them inside the caves and killed Varyn. Esther survived, and the Empire attributed his death to rebel activity, holding a state funeral in his honor. She carried Varyn's body back to Korth herself and initially believed the official account.
@@ -194,6 +197,9 @@ Years later, evidence surfaced indicating that members of the [Council of 13](/o
 ## After Varyn
 
 Varyn's death did not end his influence. Esther inherited the Crimson Sun and its sword, continuing to carry the weapon while believing that Varyn's soul remained within it, speaking to her, guiding her and training her through the blade. During her investigations with [the Unforeseen](/organizations/the-unforeseen/), she eventually learned that members of the Council of 13 had been responsible for his death.
+
+![Esther with the Crimson Sun after Vayrns' death - Crona Manor, Korth.png](/images/uploads/esther-with-the-crimson-sun-after-vayrns-mv0k6anx.webp)
+*Esther with the Crimson Sun after Vayrns' death - Crona Manor, Korth*
 
 In the throne room of Korth, Kaius III reminded Esther of Varyn's loyalty and gave her permission to hunt down those responsible. Esther acted on that permission, ultimately destroying the Council of 13, dissolving the Crimson Sun and creating the [Iron Veil](/organizations/the-iron-veil/). Four members of the old Council were later raised as Esther's masked Honor Guard. The government that had helped destroy Varyn was ultimately dismantled by the woman he had trained, while the institution he had commanded was replaced by one of her own making.
 
