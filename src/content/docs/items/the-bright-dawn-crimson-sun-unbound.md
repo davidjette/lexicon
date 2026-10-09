@@ -76,6 +76,9 @@ The sword's story began at the [Forge of Binding](/places/the-forge-of-binding/)
 
 Varyn shaped the blade from **[Black Khyber — Shavat](https://davidjette.github.io/lexicon/items/khyber-taxonomy/)**, a mythic planar ore associated with [Shavarath](https://davidjette.github.io/lexicon/items/khyber-taxonomy/), the plane of eternal battle. In the Forge's crimson light, he bound eight elemental forces into the weapon: **fire, frost, lightning, radiance, shadow, acid, thunder and force**. He christened the finished blade the **Crimson Sun**, intending it to be worthy of the oath he had accepted and the eternal guardianship of Kaius.
 
+![Vayrn Crona - Eternal Guardian and Enoch at the Forge of Binding.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-a-mv1a2pi6.webp)
+*The Crimson Sun being forged at the Forge of Binding*
+
 The elemental enchantments were only one part of the ritual. E'noch layered forbidden [Vol](/organizations/house-vol/) magic over the binding, using a form of magic later identified as capable of calling, binding and unbinding souls. This additional rite anchored Varyn's blood and soul to the sword, creating a connection that endured beyond his death. Varyn understood the pact and entered it willingly; what remains uncertain is the full purpose of E'noch's additional magic and the ultimate design behind it.
 
 The Crimson Sun was therefore both a weapon and the anchor of a supernatural bond. Its original material was Black Khyber, its name reflected the power invested in it, and its purpose was inseparable from Varyn's role as the Eternal Guardian.
@@ -84,9 +87,15 @@ The Crimson Sun was therefore both a weapon and the anchor of a supernatural bon
 
 The defining catastrophe in the sword's history occurred at the end of [the Last War](/history/the-last-war/). Varyn used the Crimson Sun to pull the bleeding sun down from the heavens and bring its power to the battlefield below. The impact created the Glass Plateau and destroyed Cyre, leaving the poisoned wasteland now known as the [Mournlands](/places/the-mournland/). Varyn was responsible for the event that became known as [the Mourning](/history/the-mourning/), although the public was never told the truth.
 
+![Vayrn Crona calling down the bleeding sun, creating the Mourning.png](/images/uploads/vayrn-crona-calling-down-the-bleeding-su-mv1a40kg.webp)
+*Vayrn Crona calling down the bleeding sun, creating the Mourning and turns it Khyber red*
+
 The act transformed the sword itself. Its Black Khyber blade became **[Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/)**, a material created through the catastrophe. The weapon was no longer simply a Black Khyber sword enchanted with elemental power; its substance had changed as a consequence of the power unleashed through it. The sword became a physical remnant of the same event that had devastated Cyre.
 
 Red Khyber later became an Imperial resource. [Project E.D.E.N.](/organizations/project-e-d-e-n/) units were sent into the Mournlands to mine it, and the material was transported through [BioTec](/organizations/biotec/). The disaster that destroyed Cyre thus left behind a substance the Empire would continue to exploit. More information about the material and its known properties can be found in the [Red Khyber entry](https://davidjette.github.io/lexicon/items/red-khyber/) and the broader [Khyber Taxonomy](https://davidjette.github.io/lexicon/items/khyber-taxonomy/).
+
+![The Crimson Sun - Sword.png](/images/uploads/the-crimson-sun-sword-mv1acrux.webp)
+*The Crimson Sun*
 
 The Crimson Sun carried this transformation into its next chapter. When Esther inherited it, the sword was a black-and-red weapon, marked by the Mourning and still bound to the Echo of Varyn Crona.
 
@@ -96,11 +105,17 @@ After Varyn was killed near Fairhaven, [Esther Crona](/people/esther-crona/) inh
 
 Varyn had purchased Esther as a child, educated her, trained her within the [Crimson Sun](/organizations/the-crimson-sun/) and shaped her into his successor. To Esther, the voice within the sword was not merely a remnant of a dead commander; it was the presence of the person who had defined her understanding of loyalty, power and belonging. For years, she wielded the Crimson Sun as both her own weapon and the vessel of Varyn's lingering presence.
 
+![Esther Crona and the sword the Crimson Sun - Korth and Sharn.png](/images/uploads/esther-crona-and-the-sword-the-crimson-s-mv1a5iws.webp)
+*Esther Crona and the sword the Crimson Sun - Korth and Sharn*
+
 The Echo's presence did not change the sword's material history. It remained the weapon Varyn had forged from Black Khyber and transformed into [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) through the Mourning, now carrying the lingering presence of the man responsible.
 
 ## The Rite of Recall: The Crimson Sun Unbound
 
 Centuries after the sword's creation, [Renn Tal](/people/renn-tal/) reconstructed enough of the surviving records concerning Varyn, E'noch and the [Forge of Binding](/places/the-forge-of-binding/) to help uncover the ritual's history. [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) entered the Forge with Renn. Eric performed the **Rite of Recall**, causing Varyn's Echo to manifest.
+
+![Sharn Ep 15 — The Forge of Binding - Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona 3.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-mv1a6o1g.webp)
+*Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona*
 
 The Echo spoke fragments of a larger mystery, including the words:
 
@@ -113,6 +128,9 @@ The Echo then shattered into red-black light, and the Forge went dark. Its destr
 
 The weapon was now unbound. Varyn's Echo was gone, and the connection that had sustained Esther's Hexblade bond through his presence was severed. Esther arrived at the Forge moments after the Echo shattered. She did not witness its manifestation or destruction, but discovered that the presence she had heard through the sword was gone.
 
+![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun 3.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-mv1a7vqj.webp)
+*Esther Crona inside the Forge of Binding holding the unbound Crimson Sun*
+
 The Rite of Recall did not undo the Mourning or erase the sword's history. It broke the spiritual binding and changed the weapon once more, leaving behind the crystalline form that would become Bright Dawn. The exact process by which the ritual transformed [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) into the crystalline material identified as White Khyber — Siberys remains unexplained.
 
 ## White Khyber — Siberys: Bright Dawn
@@ -121,11 +139,17 @@ After the Rite of Recall, the weapon's material state was no longer the Red Khyb
 
 After Esther's final confrontation at the [Veil Building](/places/the-veil-building/), she fell from the penthouse balcony and dropped the sword. Gemma recovered it and claimed the transformed weapon as her own pact blade, renaming it **Bright Dawn**. Its full name, **Bright Dawn (Crimson Sun Unbound)**, records both sides of its identity: Bright Dawn is the name Gemma gave the crystalline weapon after its binding was broken, while Crimson Sun Unbound preserves the sword's original name and acknowledges the history that made the transformation possible.
 
+![The Bright Dawn (Crimson Sun Unbound) - Sword.png](/images/uploads/the-bright-dawn-crimson-sun-unbound-swor-mv1a932l.webp)
+*The Bright Dawn (Crimson Sun Unbound) - Sword*
+
 The name does not mean the sword's past has been erased. It was forged from Black Khyber, transformed into [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) through the Mourning, and changed into White Khyber through the Rite of Recall. Its history remains part of the weapon, even though Varyn's Echo no longer inhabits it.
 
 ## The Risen Esther
 
 In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/), the risen [Esther Crona](/people/esther-crona/) recognized the weapon Gemma carried. Esther called it the **Crimson Sun**, claiming it as the sword she had once wielded and declaring Gemma unworthy to hold it.
+
+![Korth Ep 16 — Orientation Day - Gemma disguised as Black Doves - Under The Ivory Lazaret - Operating theater - Zero-One, Risen Esther Crona.png](/images/uploads/korth-ep-16-orientation-day-gemma-disgui-mv1aa2w7.webp)
+*Gemma disguised as Black Doves and risen Esther reaching for the Briht Dawn*
 
 Both women called for the weapon at the same time. It hung between them before Gemma reclaimed it. Esther's recognition did not restore the former binding or return the sword to its old material state. She recognized the weapon through its history and her own claim to it, while Gemma possessed it in its transformed crystalline form. The encounter exposed the conflict between Esther's claim to the Crimson Sun's legacy and Gemma's right to wield Bright Dawn.
 
@@ -148,6 +172,8 @@ The identification of the final crystal as White Khyber — Siberys follows the 
 Bright Dawn is a **very rare longsword requiring attunement**. It grants a **+2 bonus to attack and damage rolls** and deals an additional **1d4 radiant damage** on a hit.
 
 While holding the weapon, Gemma can use a bonus action to make it glow, shedding **bright light in a 40-foot radius** and **dim light for an additional 40 feet**.
+
+![Bright Dawn.png](/images/uploads/bright-dawn-mv1abx8d.webp)
 
 ### Solar Trip — 3 Charges
 
