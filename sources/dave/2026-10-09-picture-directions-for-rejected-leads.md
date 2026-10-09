@@ -16,3 +16,11 @@ Blackrazor is pictured in D&D art, find an image we can credit and put there - S
 - Before the time bubble was raised, Refuge was a western mining town, and the Infanta of Time approached it with St. Cloud at her side.
 - The Egg appears in the background of the Temple Holdings party portrait.
 - Brightmantle's sigil is the one from D&D lore.
+
+## Follow-ups, same day (verbatim)
+
+> von lampes is good but his hand is backwards
+
+> in Infanta of Time image, use the 'modern' st cloud who is akin to Sean Connery's character from League of Ex Gentl
+
+- The St. Cloud who came to Refuge with the Infanta of Time is the 'modern' St. Cloud, who is akin to Sean Connery's character in *The League of Extraordinary Gentlemen*.
