@@ -67,6 +67,10 @@ published: '2026-09-10'
 wa:
   slug: brightmantle-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/gallery/brightmantle-symbol.webp
+  alt: "The symbol of Dugmaren Brightmantle"
+  caption: "The open book, symbol of Dugmaren Brightmantle, drawn by Corey Macourek for Faiths and Pantheons (2002), page 117. © Wizards of the Coast."
 ---
 
 **Dwarf · God of Discovery and Invention · the second Infanta · the dwarven king who built Motherstone · Dead (Arc VII)**

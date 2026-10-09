@@ -48,6 +48,10 @@ sources:
 - "Oral Histories: The Inevitables, 2026-03-07"
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3058)
 published: '2026-09-14'
+image:
+  src: /images/gallery/blackrazor-tales-from-the-yawning-portal.webp
+  alt: "Blackrazor"
+  caption: "Blackrazor, as illustrated by Claudio Pozas in Tales from the Yawning Portal (2017), page 107. © Wizards of the Coast."
 ---
 
 **Item · Greatsword · Sentient artifact of the Weathervein treasure · Crestus bound within · Guarded near Saltmarsh**

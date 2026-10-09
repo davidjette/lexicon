@@ -47,6 +47,10 @@ published: '2026-09-10'
 wa:
   slug: the-cormyrean-empire-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+image:
+  src: /images/gallery/dmh-imperial-city-and-keep.webp
+  alt: "An imperial city under its keep"
+  caption: "A walled city of red roofs climbing to a great keep above its harbor, from the War of the Five Zanzibars primer."
 ---
 
 **The Cormyrean Empire** is the empire of Faerûn, founded five hundred years ago by [Zanzibar the Elder](/people/zanzibar/) on the defeat of **Asmodeus** and the end of the [Infanta Crisis](/lore/the-infanta-crisis/). It reaches from its capital in the heartland to [Waterdeep](/places/waterdeep/) in the far west, which it holds under military governorship, and is defended by the [Purple Dragons](/organizations/the-purple-dragons/) and the **War Wizards**. Its patron deity **Zarus** blessed the Zanzibar bloodline to rule forever, and every emperor since has claimed descent from holy blood. It is held today by [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), one month on the [Glass Throne](/items/the-glass-throne/) after the death of his father [Zanzibar the Penitent](/people/zanzibar-the-penitent/), and four factions have risen against him. It stands at the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), the war and revolution in which [Dead Man's Hand](/lore/dead-mans-hand/) is set.

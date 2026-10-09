@@ -31,6 +31,10 @@ published: '2026-09-10'
 wa:
   slug: the-infanta-of-time-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/generated/the-infanta-of-time.webp
+  alt: "The Infanta of Time and St. Cloud approach Refuge"
+  caption: "AI image of a girl and a bald old man in grey and yellow robes walking down a dusty road into a frontier mining town."
 ---
 
 **Infanta · Incarnation of Istus · Incarnated at Refuge to guard the Mammon Machine · Freed by the party · Succeeded by Chronocypher**

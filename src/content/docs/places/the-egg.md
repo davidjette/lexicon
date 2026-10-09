@@ -61,6 +61,10 @@ published: '2026-09-10'
 wa:
   slug: the-egg-location
   category: c499f530-57b8-4d6a-9fac-efcaf39f42f0
+image:
+  src: /images/gallery/the-egg-party-portrait-detail.webp
+  alt: "The Egg behind the ice mountains"
+  caption: "The Egg filling the sky behind the ice mountains, a detail of the background of the Temple Holdings party portrait."
 ---
 
 **The Egg** is the womb-prison in which the fetal god [Leviathan](/lore/the-leviathan/) lies folded. It is also the **Black Omen**, the **God Egg**, and — falling toward the world as a pristine black sphere — the **Evening Star**. It is reached only through **the Crack**, a wound beneath [Motherstone](/places/motherstone/).

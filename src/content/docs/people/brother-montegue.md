@@ -39,6 +39,10 @@ sources:
   - "Oral Histories: The Inevitables, 2025-11-09"
   - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-14'
+image:
+  src: /images/generated/brother-montegue.webp
+  alt: "Brother Montegue"
+  caption: "AI image of a young orc priest offering a cube-shaped puzzle box in a cathedral of geometric patterns, with masked nuns behind him."
 ---
 
 **Orcish priest · Factol of the Faceless · [The Sororia](/organizations/the-sororia/) · [Our Lady of Mysteries](/places/our-lady-of-mysteries/), [Sigil](/places/sigil/) · Alive**

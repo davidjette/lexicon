@@ -43,9 +43,9 @@ sources:
 - sources/dave/2026-09-28-dead-mans-hand-skullport.md
 published: '2026-09-14'
 image:
-  src: /images/generated/tripp-sandhill.webp
+  src: /images/gallery/dmh-tripp-sandhill.webp
   alt: "Tripp Sandhill"
-  caption: "AI image of a hooded adventurer writing in a black ledger with a golden lancet beside a fallen figure in a dungeon."
+  caption: "Tripp Sandhill in a blue vest with an identity badge, holding an open spellbook in a hall of desks and glowing screens."
 ---
 
 **Species unknown · Player character (Patrick) · Adventurer · Pact with Mammon · Fatemarked (STAR) · [Skullport](/places/skullport/) · Alive**
