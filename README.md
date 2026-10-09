@@ -1,4 +1,4 @@
-﻿# The Lexicon
+# The Lexicon
 
 The record of a long-running D&D continuity, published at **https://davidjette.github.io/lexicon/**.
 
