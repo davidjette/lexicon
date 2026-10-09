@@ -80,11 +80,17 @@ The entrance to the Forge lay behind a boarded-up sewer door near the Underhive 
 
 The descent began in a rat-infested entryway, followed by a flooded chamber occupied by infected Cogborn and a young aboleth. Beyond it, an alien-looking corridor crawled with more infected creatures. Deeper inside, a membrane-like door could be opened only by certain hands, leading to a chamber where a mind flayer and its thralls waited. Past these chambers stood a massive puzzle door whose inscription had to be deciphered before the party could proceed.
 
+![Sharn Ep 15 — The Forge of Binding - Dario, Eric, Renn and Gemma at the Forge of Binding door.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-mv1l178u.webp)
+*Dario, Eric, Renn and Gemma at the Forge of Binding door*
+
 The route was more than a passage through forgotten ruins. Its barriers, inhabitants and inscriptions guarded a place whose workings had remained hidden beneath the city, despite the lasting consequences of the ritual performed there.
 
 ## The Rite of Recall
 
 Inside the Forge, Renn Tal explained how the site had been used and helped the party understand the ritual that bound Varyn to his sword. Eric the Cleric performed the **Rite of Recall**, while Sir Dario Argentino bound elemental cold into his weapon. The rite called forth **Varyn's Echo**, a manifestation of the Eternal Guardian that repeated fragments of his final moments rather than engaging the party with deliberate intent.
+
+![Sharn Ep 15 — The Forge of Binding - Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-mv1l3oy7.webp)
+*Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona*
 
 Among the Echo's final words were fragments that suggested a far larger design:
 
@@ -95,9 +101,19 @@ Among the Echo's final words were fragments that suggested a far larger design:
 
 The Echo's reference to E'noch as *my brother* raised further questions about the relationship between the two men, the nature of their pact and the purpose of the bloodline mentioned in the fragment. Whether the word was literal or symbolic remains unknown. The Echo offered no further explanation.
 
+![Sharn Ep 15 — The Forge of Binding - Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona shatering.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-mv1l2nm6.webp)
+*Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona shatering*
+
 Its form then shattered into red-black light, hanging in the air like blood splatter before fading. At that moment, **the Forge went dark**. The binding that had preserved Varyn's presence within his sword was broken, and the ancient ritual site was extinguished.
 
 The consequences were immediately visible in the weapon. The red drained from the Crimson Sun, and its material crystallized into White Khyber — Siberys. The blade was no longer the Red Khyber weapon associated with the Mourning, and Varyn's Echo could no longer be heard or felt through it. The sword's history continued, but its supernatural connection to the Eternal Guardian had ended.
+
+![Sharn Ep 15 — The Forge of Binding - Dario's part of the Rite of Recall.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-s-mv1l6l1k.webp)
+*Dario's part of the Rite of Recall*
+
+![Sharn Ep 15 — The Forge of Binding - Eric's part of the Rite of Recall.png](/images/uploads/sharn-ep-15-the-forge-of-binding-eric-s-mv1l7s7v.webp)
+*Eric's part of the Rite of Recall*
+
 
 ## The Drill
 
@@ -105,9 +121,10 @@ The party had little time to consider what the Rite of Recall had accomplished. 
 
 The drill crashed into the Forge, and Esther dropped onto it before striding toward the extinguished ritual site. [Blair](/people/blair/) burst out of a hidden tunnel and pulled the party into an escape passage that led back to the Underhive vault. The drill broke through as the party fled, bringing Esther into the chamber just as the Forge's power had been extinguished.
 
+![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-mu3earr0.webp)
+
 Esther arrived too late to witness Varyn's Echo being destroyed. She found the ritual site dark and the sword transformed. The presence she had relied upon for years—the voice she believed was Varyn, guiding and training her through the blade—was gone. Whatever she had sought beneath Sharn, the result was not the reunion or confirmation she may have expected.
 
-![Sharn Ep 15 — The Forge of Binding - Esther Crona ontop a Drill inside the Forge of Binding holding the unbound Crimson Sun.png](/images/uploads/sharn-ep-15-the-forge-of-binding-esther-mu3earr0.webp)
 
 *Esther Crona arrives at the Forge of Binding atop the drill, holding the unbound Crimson Sun.*
 
