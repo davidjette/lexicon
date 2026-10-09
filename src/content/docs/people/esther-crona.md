@@ -339,7 +339,7 @@ Esther was using Eden as leverage to force the Umbra supply to increase.
 
 She knew Faith and Malrik were supplying the project, but she did not know the true nature of the [Children of Ember](/organizations/the-children-of-ember/). She was unaware that her sister and brother-in-law were leaders of a hidden cult with its own plans for Calcifer. To Esther, they were still family, and their connection to E.D.E.N. was a matter of supply and loyalty to the Empire.
 
-## Public and private
+## Public and Private Life
 
 The years in which Esther built the Imperial military were also the years in which she built her family. To the city she was Lord Commander; at home she was Richard's wife and Calcifer's mother.
 
