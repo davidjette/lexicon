@@ -80,11 +80,11 @@ gallery:
 
 ---
 
-**Varyn Crona** was an Aereni High Elf paladin who served the [Kaius](/people/emperor-caius-iii/) dynasty for centuries as the **[Eternal Guardian](/people/varyn-crona/)**, Master of [the Crimson Sun](/organizations/the-crimson-sun/) and one of the thirteen heads of the Empire. He was chosen by the mysterious priest [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) at the birth of Prince Kaius and bound through a ritual completed in the ancient [Forge of Binding](/places/the-forge-of-binding/) beneath [Sharn](/places/sharn/).
+**Varyn Crona** was an Aereni High Elf paladin who served the [Kaius](/people/emperor-caius-iii/) dynasty for centuries as the **Eternal Guardian**, Master of [the Crimson Sun](/organizations/the-crimson-sun/) and one of the thirteen heads of the Empire. He was chosen by the mysterious priest [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) at the birth of Prince Kaius and willingly entered a ritual that bound his blood and soul to the weapon that would become the Crimson Sun.
 
 At **563 years old**, Varyn was one of the oldest and most influential figures in Khorvaire when he was assassinated outside Fairhaven.
 
-He purchased five-year-old [Esther Crona](/people/esther-crona/), raised and educated her, taught her to harness her natural powers and made her his apprentice at twelve. They became partners in the field and, years later, lovers. Varyn's death shaped the rest of [Esther's](/people/esther-crona/) life, while the secrets surrounding his service, his bloodline, [the Crimson Sun](/organizations/the-crimson-sun/) and the [Eternal Guardian](/people/varyn-crona/) binding have continued to unfold long after his death.
+He purchased five-year-old [Esther Crona](/people/esther-crona/), raised and educated her, taught her to harness her natural powers and made her his apprentice at twelve. They became partners in the field and, years later, lovers. Varyn's death shaped the rest of [Esther's](/people/esther-crona/) life, while the secrets surrounding his service, his bloodline, [the Crimson Sun](/organizations/the-crimson-sun/) and the Eternal Guardian pact have continued to unfold long after his death.
 
 ---
 
@@ -112,35 +112,25 @@ The first part of the rite was performed in Korth. [E'noch Qualanthri](/people/p
 
 E'noch took Varyn to [Sharn](/places/sharn/).
 
-Deep beneath the city, in the ancient ruins of the [Dhakaani Empire](/history/the-dhakaani-empire/), they reached the [Forge of Binding](/places/the-forge-of-binding/). There, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) oversaw the completion of the ritual that made Varyn the **[Eternal Guardian](/people/varyn-crona/)** of Prince [Kaius](/people/emperor-caius-iii/).
+Deep beneath the city, in the ancient ruins of the [Dhakaani Empire](/history/the-dhakaani-empire/), they reached the [Forge of Binding](/places/the-forge-of-binding/). There, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) oversaw the completion of the ritual that made Varyn the **Eternal Guardian** of Prince [Kaius](/people/emperor-caius-iii/).
 
-The [Forge of Binding](/places/the-forge-of-binding/) itself was much older than the Empire. The [Dhakaani](/history/the-dhakaani-empire/) had built it to bind elemental forces into steel, shaping weapons that reflected the identity of the warrior who created them.
+The [Forge of Binding](/places/the-forge-of-binding/) was much older than the Empire. The [Dhakaani](/history/the-dhakaani-empire/) had built it to bind elemental forces into steel, shaping weapons that reflected the identity of the warrior who created them.
 
 Varyn used the forge for that original purpose.
 
 Then [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) layered another ritual over it.
 
-Later research by [Renn Tal](/people/renn-tal/) identified that second rite as forbidden **Vol** magic — an [Erandis Vol](/people/erandis-vol/) rite capable of calling, binding and unbinding souls. At the moment the elemental forces were fused into Varyn's blade, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) anchored Varyn's blood and soul to the weapon.
+Later research by [Renn Tal](/people/renn-tal/) identified that second rite as forbidden **Vol** magic, associated with [House Vol](/organizations/house-vol/) and capable of calling, binding and unbinding souls. At the moment the elemental forces were fused into Varyn's blade, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) anchored Varyn's blood and soul to the weapon.
 
-The [Eternal Guardian](/people/varyn-crona/) was therefore more than a title or ceremonial appointment.
+**Varyn understood what he was entering into.** He knew the pact involved his blood, his soul and his binding to the Crimson Sun. He entered the arrangement knowingly and willingly, aware that the ritual would permanently change his relationship with the weapon and the duty he had accepted. The mystery is not whether Varyn understood or consented, but what he hoped to accomplish through the pact, what E'noch ultimately intended and whether the consequences unfolded exactly as Varyn expected.
 
-Something real had been done to Varyn.
+The Eternal Guardian was therefore more than a title or ceremonial appointment. Something real had been done to Varyn, and he had chosen to become part of it.
 
 The binding connected him to Prince [Kaius](/people/emperor-caius-iii/), and Varyn remained his sworn protector through the reigns of **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)**.
 
-The Empire remembered the result as unbroken loyalty across three reigns.
+The Empire remembered the result as unbroken loyalty across three reigns. The deeper purpose of the arrangement remains uncertain.
 
-The deeper nature of the ritual is much less certain.
-
-What exactly Varyn agreed to.
-
-What [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) intended.
-
-Why [Vol](/organizations/house-vol/) rites were required.
-
-And whether the [Eternal Guardian](/people/varyn-crona/) binding was deeper than the Empire ever admitted.
-
-None of these questions has been fully answered.
+Why Varyn agreed to E'noch's larger plan, what he hoped the pact would achieve, why [Vol](/organizations/house-vol/) magic was required and how the binding related to Varyn's bloodline are questions that remain unanswered.
 
 ---
 
@@ -161,9 +151,7 @@ The ancient [Dhakaani Empire](/history/the-dhakaani-empire/) mechanism bound eig
 
 The resulting blade was extraordinarily powerful.
 
-But [E'noch Qualanthri](/people/priest-e-noch-qualanthri/)'s second ritual changed its nature.
-
-The Crimson Sun became both Varyn's weapon and the vessel in which his soul would remain after death.
+But [E'noch Qualanthri](/people/priest-e-noch-qualanthri/)'s second ritual changed its nature. The Crimson Sun became both Varyn's weapon and the vessel in which his soul would remain after death.
 
 Varyn later became Master of [the Crimson Sun](/organizations/the-crimson-sun/), the Empire's elite secret service based in Korth. Its limited ranks of Apprentices, Inquisitors, High Inquisitors and Masters were used as spies, rebel hunters and agents trusted with missions too sensitive for ordinary Imperial forces.
 
@@ -174,6 +162,8 @@ Varyn therefore stood at the center of Imperial power: the Emperor's sworn prote
 Under his command, [the Crimson Sun](/organizations/the-crimson-sun/) became one of Karrnath's most feared and capable institutions.
 
 After Varyn's death, [Hayman Maw](/people/hayman-maw/) inherited the Master's chair and its [Council](/organizations/the-imperial-council-imperial-assembly/) seat.
+
+The name *Crimson Sun* appears elsewhere in the surviving evidence, including in connection with a mysterious dragon. Whether the organization, the weapon and the dragon share a deeper origin or purpose remains unresolved.
 
 ---
 
@@ -189,13 +179,11 @@ The death of [Kaius I](/people/emperor-caius-iii/) is surrounded by unusual inco
 
 None of those explanations has been conclusively established.
 
-What is certain is that Varyn served all three reigns.
+What is certain is that Varyn served all three reigns. He was appointed the **Eternal Guardian** at the cradle of [Kaius](/people/emperor-caius-iii/) and remained so for centuries.
 
-He was appointed the **[Eternal Guardian](/people/varyn-crona/)** at the cradle of [Kaius](/people/emperor-caius-iii/) and remained so for centuries.
+Varyn was also remarkably secretive about [Kaius III](/people/emperor-caius-iii/). Even [Esther Crona](/people/esther-crona/), who spent much of her life at Varyn's side, never learned everything he knew about the Emperor.
 
-Varyn was also remarkably secretive about [Kaius III](/people/emperor-caius-iii/).
-
-Even [Esther Crona](/people/esther-crona/), who spent much of her life at Varyn's side, never learned everything he knew about the Emperor.
+Whether Varyn's loyalty to the Kaius dynasty reflected devotion to the Empire, the terms of his pact, his own ambitions or a larger plan remains unclear.
 
 ---
 
@@ -205,11 +193,11 @@ Varyn's [Crimson Sun](/organizations/the-crimson-sun/) was more than a military 
 
 During his long tenure, the organization became involved in covert projects intended to shape the Empire itself. One of those projects became known as **Project Godseed**, through which the Crimson Sun created the movement that would later become [the Blood of Vol](/organizations/blood-of-vol/).
 
-The project was intended to cultivate radical support among disaffected workers in the merchant class and city guard forces. Its original handler, codenamed **Godseed**, was [Gabrielle Duin](/people/gabriel-duin/).
+The project was intended to cultivate radical support among disaffected workers in the merchant class and city guard forces. Its original handler, codenamed Godseed, was **[Gabrielle Duin](/people/gabriel-duin/)**.
 
 The project eventually grew beyond Imperial control.
 
-Whether Varyn personally designed Godseed, how much he knew about [Gabrielle Duin](/people/gabriel-duin/) or the true purpose of [the Blood of Vol](/organizations/blood-of-vol/), and whether he understood the larger history behind the project are not recorded.
+Whether Varyn personally designed Godseed, how much he knew about Gabrielle Duin's work or the true purpose of [the Blood of Vol](/organizations/blood-of-vol/), and whether he understood the larger history behind the project are not recorded.
 
 The [Crimson Sun](/organizations/the-crimson-sun/) was also connected to older powers and bloodlines that predated the Empire.
 
@@ -237,61 +225,55 @@ Later evidence connects Varyn to a larger **long-term plan** involving [the Crim
 
 Dave's later account describes the [Council of 13](/organizations/the-council-of-13/) as turning against Varyn and that plan before [the Unforeseen](/organizations/the-unforeseen/) unknowingly set parts of it back into motion.
 
-How much of the plan belonged to Varyn personally remains unknown.
+How much of the plan belonged to Varyn personally remains unknown. So does the question of whether Varyn and [Kaius III](/people/emperor-caius-iii/) ultimately wanted the same thing.
 
-So does the question of whether Varyn and [Kaius III](/people/emperor-caius-iii/) ultimately wanted the same thing.
+Varyn's words to Esther suggest that his ambitions extended far beyond his position in Karrnath. What he intended to do with the power he sought—and how the pact, the Crimson Sun and the fate of Cyre fit together—remains one of the central mysteries of his life.
 
 ---
 
-## The Last War
+## The Last War: The Official Account
 
 During [the Last War](/history/the-last-war/), Varyn became one of the Empire's most important military leaders.
 
 Under his command, [the Crimson Sun](/organizations/the-crimson-sun/) served as the blade of the Crown and shield of the Wynarn line. Varyn's discipline and counsel shaped Karrnath's military doctrine across generations.
 
-At the end of [the Last War](/history/the-last-war/), Imperial history places Varyn beside [Kaius III](/people/emperor-caius-iii/) on the final battlefield in Cyre, carrying the Crimson Sun.
+The public account of the war's end places [Kaius III](/people/emperor-caius-iii/) and Varyn together on the final battlefield in Cyre, with Varyn carrying the Crimson Sun.
 
-The public account says [Kaius III](/people/emperor-caius-iii/) revealed a bleeding sun above the battlefield and commanded his **[Eternal Guardian](/people/varyn-crona/)** to lower the Crimson Sun toward the armies below.
+According to the official story, **Kaius III revealed a bleeding sun above the battlefield and commanded his Eternal Guardian to lower the Crimson Sun toward the armies below.**
 
 A brilliant radiance swept across Cyre.
 
-Only the [Warforged](/lore/warforged/) remained standing.
+When the light passed, only the Warforged remained standing.
 
-For generations, the event was presented as the miraculous act that ended [the Last War](/history/the-last-war/).
+The Empire presented the event as a decisive act that ended [the Last War](/history/the-last-war/). It named the event **the Rejuvenation**, made Kaius III its public face and framed the catastrophe as the extraordinary conclusion to the conflict.
 
-The truth was far darker.
+This became the account preserved for the public. It did not reveal Varyn's actual role in unleashing the power that destroyed Cyre.
 
 ---
 
-## The Mourning
+## The Truth: The Mourning
 
-At the end of [the Last War](/history/the-last-war/), **Varyn used the Crimson Sun to pull the bleeding sun down from the heavens and bring its power to the battlefield below.**
+The truth was far darker than the Empire's official account.
 
-The impact created the enormous **Glass Plateau** at the center of Cyre.
+**Varyn used the Crimson Sun to pull a bleeding sun down from the heavens and bring its power to the battlefield below.** The act unleashed the force that became [the Mourning](/history/the-mourning/).
 
-The catastrophe then spread outward across the kingdom.
+The impact created the enormous **Glass Plateau** at the center of Cyre. The catastrophe spread outward, destroying the kingdom and transforming the surrounding territory into the poisoned wasteland now known as the [Mournlands](/places/the-mournland/).
 
-Cyre was destroyed.
+Cyre was gone. The Glass Plateau remained at the center of the devastation, surrounded by the ruined landscape left by the Mourning.
 
-The Glass Plateau remained at the center of the devastation.
+Varyn was responsible for bringing that power down.
 
-The surrounding kingdom became the poisoned wasteland now known as [the Mournlands](/places/the-mournland/).
+The Empire never publicly acknowledged his responsibility. Instead, it preserved the account in which [Kaius III](/people/emperor-caius-iii/) was the central figure, calling the event the Rejuvenation and presenting it as the act that finally ended the war. The public account and the actual cause of the Mourning were therefore fundamentally different stories.
 
-Varyn had created [the Mourning](/history/the-mourning/).
+The catastrophe also created the [Red Khyber](/items/red-khyber/) now found within the Glass Plateau. That material later became an important Imperial resource. [Project E.D.E.N.](/organizations/project-e-d-e-n/) units were sent into the [Mournlands](/places/the-mournland/) to mine it, and the material was shipped through [BioTec](/organizations/biotec/).
 
-The event also created the [Red Khyber](/items/red-khyber/) now found within the Glass Plateau.
-
-That material later became an important Imperial resource. [Project E.D.E.N.](/organizations/project-e-d-e-n/) units were sent into the [Mournlands](/places/the-mournland/) to mine it, and the material was shipped through [BioTec](/organizations/biotec/).
-
-The public was never told that Varyn was responsible.
-
-The Empire instead made [Kaius III](/people/emperor-caius-iii/) the face of the event, naming it **the Rejuvenation** and presenting the destruction of Cyre as the act that finally ended the war.
+The destruction of Cyre thus became both a national catastrophe and a source of power that the Empire continued to exploit.
 
 Years later, [Locke Pierce](/people/locke-pierce/) studied the same destructive power and created the **Ruby Nova**, a controlled recreation of the catastrophe.
 
-Varyn's act at Cyre therefore did not end with [the Mourning](/history/the-mourning/).
+Varyn's act at Cyre did not end with the Mourning. Its consequences continued through the mining of Red Khyber, the work of Project E.D.E.N. and the Empire's attempts to understand and reproduce the force that had destroyed an entire kingdom.
 
-Its consequences became one of the Empire's continuing sources of power.
+**What remains unresolved is why Varyn brought the bleeding sun down.** His Echo's words—*"we'll bleed the sun, eternal night"* and *"our bloodline shall reign"*—suggest that the event was connected to a larger purpose. They do not establish whether the destruction of Cyre was the intended outcome, a consequence of the plan or something that unfolded differently than Varyn expected.
 
 ---
 
@@ -301,25 +283,20 @@ When [Esther Crona](/people/esther-crona/) was five years old, Varyn purchased h
 
 He did not leave her there as a servant.
 
-He taught [Esther](/people/esther-crona/) to read and write.
+He taught Esther to read and write. He recognized her unusual natural powers and taught her how to control them.
 
-He recognized her unusual natural powers and taught her how to control them.
-
-When [Esther](/people/esther-crona/) was twelve, Varyn made her his apprentice in [the Crimson Sun](/organizations/the-crimson-sun/).
+When Esther was twelve, Varyn made her his apprentice in [the Crimson Sun](/organizations/the-crimson-sun/).
 
 She rose from Apprentice to Inquisitor and eventually High Inquisitor, working directly under Varyn as a spy, investigator and rebel hunter.
 
-Varyn was more than [Esther](/people/esther-crona/)'s commanding officer.
+Varyn was more than Esther's commanding officer. He was the man who raised her, taught her, shaped her understanding of loyalty and authority and eventually became her lover.
 
-He was the man who raised her, taught her, shaped her understanding of loyalty and authority and eventually became her lover.
+Esther regarded him as mentor, adoptive father, master and the person who had given her a place in the world. Varyn regarded Esther as his legacy and successor.
 
-[Esther](/people/esther-crona/) regarded him as mentor, adoptive father, master and the person who had given her a place in the world.
-
-Varyn regarded [Esther](/people/esther-crona/) as his legacy and successor.
-
-Their relationship would define [Esther's](/people/esther-crona/) life long after Varyn was gone.
+Their relationship would define Esther's life long after Varyn was gone.
 
 ![Varyn's death - Esther and Varyn in Fairhaven](/images/uploads/vary-s-death-esther-and-varyn-in-fairhav-muxrve4o.webp)
+
 *Varyn's death - Esther and Varyn in Fairhaven*
 
 ---
@@ -334,9 +311,9 @@ Inside the caves, a masked assailant attacked them.
 
 Varyn was killed.
 
-[Esther](/people/esther-crona/) survived.
+Esther survived.
 
-The Empire attributed his death to rebel activity and held a state funeral in his honor. [Esther](/people/esther-crona/) carried Varyn's body back to Korth herself.
+The Empire attributed his death to rebel activity and held a state funeral in his honor. Esther carried Varyn's body back to Korth herself.
 
 She believed the official story.
 
@@ -354,19 +331,17 @@ So does the question of how much [Kaius III](/people/emperor-caius-iii/) knew.
 
 Varyn's death did not end his influence.
 
-[Esther Crona](/people/esther-crona/) inherited [the Crimson Sun](/organizations/the-crimson-sun/) and the Crimson Sun itself.
+[Esther Crona](/people/esther-crona/) inherited [the Crimson Sun](/organizations/the-crimson-sun/) and the Crimson Sun itself. She continued carrying his sword and came to believe that his soul remained within it, speaking to her, guiding her and training her through the blade.
 
-She continued carrying his sword and came to believe that his soul remained within it, speaking to her, guiding her and training her through the blade.
+During the investigations of [the Unforeseen](/organizations/the-unforeseen/), Esther eventually learned that members of the [Council of 13](/organizations/the-council-of-13/) had been responsible for Varyn's death.
 
-During the investigations of [the Unforeseen](/organizations/the-unforeseen/), [Esther](/people/esther-crona/) eventually learned that members of the [Council of 13](/organizations/the-council-of-13/) had been responsible for Varyn's death.
+In the throne room of Korth, [Kaius III](/people/emperor-caius-iii/) reminded Esther of Varyn's loyalty and gave her permission to hunt down those responsible.
 
-In the throne room of Korth, [Kaius III](/people/emperor-caius-iii/) reminded [Esther](/people/esther-crona/) of Varyn's loyalty and gave her permission to hunt down those responsible.
-
-[Esther](/people/esther-crona/) did.
+Esther did.
 
 She eventually destroyed the [Council of 13](/organizations/the-council-of-13/), dissolved [the Crimson Sun](/organizations/the-crimson-sun/) and created the [Iron Veil](/organizations/the-iron-veil/).
 
-Four members of the old [Council of 13](/organizations/the-council-of-13/) were later raised as [Esther's](/people/esther-crona/) masked Honor Guard.
+Four members of the old Council of 13 were later raised as Esther's masked Honor Guard.
 
 The government that had helped destroy Varyn was ultimately dismantled by the woman he had trained.
 
@@ -374,11 +349,9 @@ The government that had helped destroy Varyn was ultimately dismantled by the wo
 
 ## The Sword
 
-After Varyn's death, [Esther Crona](/people/esther-crona/) carried the Crimson Sun as her own weapon.
+After Varyn's death, Esther carried the Crimson Sun as her own weapon.
 
-Because of the ritual at the [Forge of Binding](/places/the-forge-of-binding/), Varyn's blood and soul had been anchored to the blade.
-
-[Esther](/people/esther-crona/) believed his presence remained within it.
+Because of the ritual at the [Forge of Binding](/places/the-forge-of-binding/), Varyn's blood and soul had been anchored to the blade. Esther believed his presence remained within it.
 
 She heard him.
 
@@ -386,13 +359,13 @@ She spoke to him.
 
 She believed he continued to train her.
 
-The bond became the foundation of her Hexblade powers and one of the strongest influences on the rest of [Esther's](/people/esther-crona/) life.
+The bond became the foundation of her Hexblade powers and one of the strongest influences on the rest of Esther's life.
 
-For years, Varyn was therefore both dead and present.
+For years, Varyn was therefore both dead and present. His body was gone, but his voice was not.
 
-His body was gone.
+The sword was not merely an heirloom or a reminder of her former master. It was the vessel of a binding Varyn had knowingly entered into, and it preserved a connection that continued long after his death.
 
-His voice was not.
+That connection eventually ended at the Forge of Binding.
 
 ---
 
@@ -400,7 +373,7 @@ His voice was not.
 
 Eventually, [Renn Tal](/people/renn-tal/) reconstructed enough of the surviving history surrounding Varyn, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) and the [Forge of Binding](/places/the-forge-of-binding/) for the chamber to be found again.
 
-[Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Dario](/people/sir-dario-argentino/) entered the [Forge of Binding](/places/the-forge-of-binding/) with [Renn Tal](/people/renn-tal/).
+[Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) entered the Forge of Binding with Renn Tal.
 
 Eric performed the Rite of Recall.
 
@@ -417,11 +390,11 @@ Its final words were:
 
 The Echo shattered into red-black light.
 
-The [Forge of Binding](/places/the-forge-of-binding/) went dark.
+The Forge of Binding went dark.
 
-Those words are the closest surviving thing to a direct statement from Varyn after his death.
+Those words are the closest surviving thing to a direct statement from Varyn after his death. They are also among the most important unresolved clues in the story.
 
-They are also among the most important unresolved clues in the story.
+The references to blood, a reigning bloodline and the bleeding sun suggest that the pact was connected to something larger than Varyn's duty to the Kaius dynasty. The words do not, however, reveal the full purpose of the plan or establish precisely what Varyn intended to accomplish.
 
 ---
 
@@ -429,27 +402,23 @@ They are also among the most important unresolved clues in the story.
 
 Varyn's relationship with **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** is one of the oldest mysteries surrounding him.
 
-[E'noch Qualanthri](/people/priest-e-noch-qualanthri/) chose Varyn.
+E'noch chose Varyn.
 
-[E'noch](/people/priest-e-noch-qualanthri/) performed the [Eternal Guardian](/people/varyn-crona/) rites with him.
+E'noch performed the Eternal Guardian rites with him.
 
-[E'noch](/people/priest-e-noch-qualanthri/) used forbidden [Vol](/organizations/house-vol/) magic in the [Forge of Binding](/places/the-forge-of-binding/).
+E'noch used forbidden [Vol](/organizations/house-vol/) magic in the [Forge of Binding](/places/the-forge-of-binding/).
 
-[E'noch](/people/priest-e-noch-qualanthri/) then disappeared.
+Varyn knowingly and willingly participated in the pact that bound his blood and soul to the Crimson Sun, but the ultimate purpose of the arrangement remains unknown.
 
-Centuries later, when Varyn's Echo returned, it named [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) **"my brother."**
+E'noch then disappeared.
 
-The word may be literal.
+Centuries later, when Varyn's Echo returned, it named E'noch **"my brother."**
 
-It may refer to blood.
+The word may be literal. It may refer to blood, another form of kinship or something entirely different.
 
-It may describe another form of kinship.
+E'noch also carried the surname **Qualanthri**, shared by [Uriel Qualanthri](/people/uriel-qualanthri/), whose history leads directly into [House Vol](/organizations/house-vol/), the Mark of Death and the larger mystery surrounding [Kaius III](/people/emperor-caius-iii/).
 
-It may mean something entirely different.
-
-[E'noch Qualanthri](/people/priest-e-noch-qualanthri/) also carried the surname **Qualanthri**, shared by [Uriel Qualanthri](/people/uriel-qualanthri/), whose history leads directly into [House Vol](/organizations/house-vol/), the Mark of Death and the larger mystery surrounding [Kaius III](/people/emperor-caius-iii/).
-
-No surviving record explains the relationship.
+No surviving record explains the relationship between E'noch, Varyn and the Qualanthri family, or why E'noch selected Varyn for the role he would play.
 
 ---
 
@@ -457,25 +426,21 @@ No surviving record explains the relationship.
 
 The [Forge of Binding](/places/the-forge-of-binding/) stands at both ends of Varyn's story.
 
-It was where [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) first helped establish the [Eternal Guardian](/people/varyn-crona/) binding.
+It was where [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) helped establish the Eternal Guardian pact.
 
 It was where Varyn forged the Crimson Sun.
 
-It was where his blood and soul were anchored to the weapon.
+It was where his blood and soul were anchored to the weapon, in a ritual he knowingly accepted.
 
 And, centuries later, it was where Varyn's Echo was recalled and destroyed.
 
 The same place that helped define Varyn's existence ultimately became the place where his remaining Echo disappeared.
 
-[Esther Crona](/people/esther-crona/) reached the [Forge of Binding](/places/the-forge-of-binding/) only moments after the Echo had shattered.
-
-She did not witness its summoning.
-
-She entered the chamber after the event, as the Forge went dark.
+[Esther Crona](/people/esther-crona/) reached the Forge of Binding only moments after the Echo had shattered. She did not witness its summoning. She entered the chamber after the event, as the Forge went dark.
 
 At that same moment, the red in the Crimson Sun drained away and crystallized.
 
-[Esther](/people/esther-crona/) could no longer hear or feel Varyn through the sword.
+Esther could no longer hear or feel Varyn through the sword.
 
 Whatever connection had remained between them was gone.
 
@@ -493,9 +458,7 @@ The [Council of 13](/organizations/the-council-of-13/) that appears to have arra
 
 But the consequences of Varyn's life remain everywhere.
 
-The Glass Plateau at the center of the [Mournlands](/places/the-mournland/) still yields the [Red Khyber](/items/red-khyber/) created by [the Mourning](/history/the-mourning/).
-
-[Project E.D.E.N.](/organizations/project-e-d-e-n/) still mines it.
+The Glass Plateau at the center of the [Mournlands](/places/the-mournland/) still yields the [Red Khyber](/items/red-khyber/) created by [the Mourning](/history/the-mourning/). [Project E.D.E.N.](/organizations/project-e-d-e-n/) still mines it.
 
 The [Iron Veil](/organizations/the-iron-veil/) was built from the ashes of the institution Varyn once commanded.
 
@@ -505,17 +468,19 @@ The sword itself is now carried by [Gemma Corso](/people/gemma-corso/).
 
 Varyn's voice, however, is silent.
 
+The weapon that preserved his blood and soul for centuries no longer carries the Echo that Esther believed was guiding her. What remains of the pact's original purpose, and whether any part of Varyn's larger plan survives him, is unknown.
+
 ---
 
 ## The Unanswered Questions
 
 Why did [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) choose Varyn?
 
-What was [E'noch Qualanthri](/people/priest-e-noch-qualanthri/)?
+What was E'noch, and what was his true relationship with Varyn?
 
-Why did [E'noch](/people/priest-e-noch-qualanthri/) use [Vol](/organizations/house-vol/) magic?
+Why did E'noch use [Vol](/organizations/house-vol/) magic?
 
-What exactly did the [Eternal Guardian](/people/varyn-crona/) binding do to Varyn?
+What did Varyn hope to accomplish by knowingly entering the Eternal Guardian pact?
 
 Why was Varyn selected to serve [Kaius](/people/emperor-caius-iii/)?
 
@@ -523,23 +488,21 @@ What did Varyn know about the true nature of [Kaius III](/people/emperor-caius-i
 
 What was the long-term plan that the [Council of 13](/organizations/the-council-of-13/) turned against?
 
-Why did the [Council of 13](/organizations/the-council-of-13/) decide Varyn had to die?
+Why did the Council decide Varyn had to die, and how much did Kaius III know?
 
-How much did [Kaius III](/people/emperor-caius-iii/) know?
-
-What exactly was the relationship between Varyn and [E'noch Qualanthri](/people/priest-e-noch-qualanthri/)?
-
-Was "brother" literal?
+What exactly was the relationship between Varyn and E'noch Qualanthri? Was "brother" literal?
 
 What did Varyn mean by **"our bloodline"**?
 
 What did he mean by **"bleed the sun"**?
 
+Why did Varyn bring the bleeding sun down over Cyre? Was the destruction of the kingdom the intended outcome or a consequence of a larger plan?
+
 What is the relationship between [the Crimson Sun](/organizations/the-crimson-sun/), the [Crimson Sun sword](/items/the-bright-dawn-crimson-sun-unbound/) and the dragon called the Crimson Sun?
 
 What is Varyn's connection, if any, to [House Vol](/organizations/house-vol/), [Uriel Qualanthri](/people/uriel-qualanthri/) and the older Aereni bloodlines?
 
-And what, if anything, did Varyn know about the forces that eventually produced [the Mourning](/history/the-mourning/) and the [Mournlands](/places/the-mournland/)?
+And what, if anything, did Varyn expect to happen after the power of the bleeding sun was unleashed?
 
 Some of these questions may already have answers.
 
@@ -565,7 +528,7 @@ They simply have not reached the record yet.
 
 **Motivation**
 
-Varyn sought power, influence and a future in which he and [Esther Crona](/people/esther-crona/) would rule beyond the limits imposed by the Empire. His ultimate purpose remains uncertain.
+Varyn sought power, influence and a future in which he and [Esther Crona](/people/esther-crona/) would rule beyond the limits imposed by the Empire. He knowingly entered the pact that bound his blood and soul to the Crimson Sun, but his ultimate purpose remains uncertain.
 
 **Likes**
 
@@ -591,6 +554,8 @@ Varyn sought power, influence and a future in which he and [Esther Crona](/peopl
 
 Varyn was secretive, controlling and ambitious. He raised a child he had purchased as a slave, shaped her into his apprentice and eventually took her as his lover. He believed strongly in hierarchy, loyalty and the right of the powerful to decide the future.
 
+His willingness to enter a pact involving his own blood and soul suggests a man prepared to commit himself completely to a purpose, even when the full consequences of that purpose remain unclear to those around him.
+
 ---
 
 ## Social
@@ -598,12 +563,13 @@ Varyn was secretive, controlling and ambitious. He raised a child he had purchas
 **Contacts & Relations**
 
 - **[Esther Crona](/people/esther-crona/)** — purchased as a five-year-old slave, then raised, educated, apprenticed and eventually taken as his lover. His chosen successor and wielder of the [Crimson Sun](/items/the-bright-dawn-crimson-sun-unbound/). Dead — later reanimated.
-- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — the mysterious priest who chose Varyn, performed the [Eternal Guardian](/people/varyn-crona/) rites and was called "my brother" by Varyn's Echo. Status unknown.
-- **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)** — three reigns, one [Eternal Guardian](/people/varyn-crona/), sworn from the Emperor's birth.
+- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — the mysterious priest who chose Varyn and performed the Eternal Guardian rites with him. Varyn knowingly entered the pact. His Echo later called E'noch "my brother." Status unknown.
+- **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)** — three reigns, one Eternal Guardian, sworn from the Emperor's birth.
 - **[Hayman Maw](/people/hayman-maw/)** — fellow member of the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/), openly disliked by Varyn, and his successor as Master of [the Crimson Sun](/organizations/the-crimson-sun/).
-- **[Renn Tal](/people/renn-tal/)** — archivist who uncovered the surviving records concerning Varyn, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) and the [Forge of Binding](/places/the-forge-of-binding/). Alive.
+- **[Renn Tal](/people/renn-tal/)** — archivist who uncovered the surviving records concerning Varyn, E'noch Qualanthri and the [Forge of Binding](/places/the-forge-of-binding/). Alive.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder of [the Unforeseen](/organizations/the-unforeseen/) and another bearer of the Qualanthri name connected to [House Vol](/organizations/house-vol/).
-- **[Locke Pierce](/people/locke-pierce/)** — later studied and reproduced the destructive power once unleashed through the [Crimson Sun](/organizations/the-crimson-sun/).
+- **[Locke Pierce](/people/locke-pierce/)** — later studied and reproduced the destructive power once unleashed through the Crimson Sun.
+- **[Gabrielle Duin](/people/gabriel-duin/)** — original handler of Project Godseed, the covert project that helped create the movement later known as the [Blood of Vol](/organizations/blood-of-vol/).
 - **[The Council of 13](/organizations/the-council-of-13/)** — Varyn's fellow rulers and, according to later evidence, the people responsible for arranging his assassination.
 
 **Hobbies & Pets** — Unknown.
