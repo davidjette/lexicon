@@ -22,7 +22,8 @@
     "editor:remove": "node worker/contributors.mjs remove",
     "editor:list": "node worker/contributors.mjs list",
     "test:editor": "node scripts/test-editor-roundtrip.mjs",
-    "images": "node scripts/import_images.mjs"
+    "images": "node scripts/import_images.mjs",
+    "image": "python scripts/gen_image.py"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.3",

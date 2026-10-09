@@ -49,6 +49,19 @@ Articles take `image: {src, alt, caption}` (shown in the infobox) and `gallery:`
 `public/images/`: `cards/` (ally cards), `site/` (campaign site), `maps/` (60 maps, each with a page
 under `/maps/`), `uploads/` (browser editor, which shrinks uploads to WebP at most 1600px wide). `npm run images` re-imports from the source folders.
 
+New images are generated with OpenAI in two steps (`scripts/gen_image.py`), so someone looks at the
+picture before it reaches the site:
+
+```
+npm run image -- gen people/arana "Arana at the rail of an airship"      # candidates in drafts/images/ (gitignored)
+npm run image -- place drafts/images/arana-<time>-1.png --alt "..." --caption "AI image of ..."
+```
+
+`place` writes `public/images/generated/<slug>.webp` and adds it to the article, as the lead image when
+there is none and otherwise to the gallery. `house/image-style.txt` holds the house style appended to
+every prompt. The key is `OPENAI_IMAGE_GEN_API_KEY` in `.env`. Placements are logged to the private
+`canon/image-log.md`.
+
 ## Front page
 
 Article of the day (the same for everyone each day; 600+ words, not a session, not sealed), section

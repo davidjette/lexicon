@@ -19,6 +19,9 @@ pnpm-debug.log*
 .env
 .env.production
 
+# generated image candidates awaiting review (scripts/gen_image.py)
+drafts/
+
 # OS / editor cruft
 .DS_Store
 Thumbs.db
