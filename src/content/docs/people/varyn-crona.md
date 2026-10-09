@@ -99,14 +99,15 @@ E'noch was said to serve the [Sovereign Host](/organizations/the-sovereign-host/
 The first part of the rite took place in Korth. E'noch told the court that the ritual had begun but needed to be sealed somewhere possessing "ancient fire," leading him to take Varyn to [Sharn](/places/sharn/). Deep beneath the city, within the ancient ruins of the [Dhakaani Empire](/history/the-dhakaani-empire/), they reached the [Forge of Binding](/places/the-forge-of-binding/), where the ritual was completed and Varyn became the Eternal Guardian of Prince Kaius.
 
 
-![Vayrn Crona - Eternal Guardian and Enoch performing the Eternal Guardian Ritual with newborn Kaius I.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-p-mv0g0eo5.webp)
+![Arcane Cradle Ritual in the Castle Chapel.png](/images/uploads/arcane-cradle-ritual-in-the-castle-chape-mv0h7ory.webp)
 *Vayrn Crona - Eternal Guardian and Enoch performing the Eternal Guardian Ritual with newborn Kaius I*
 
 The Forge was much older than the Empire. The Dhakaani had constructed it to bind elemental forces into steel, creating weapons that reflected the identity of the warrior who forged them. Varyn used the ancient mechanism for its intended purpose, but E'noch layered a second ritual over the elemental forging. Later research by [Renn Tal](/people/renn-tal/) identified this additional rite as forbidden **Vol magic**, associated with [House Vol](/organizations/house-vol/) and capable of calling, binding and unbinding souls. As the elemental forces were fused into Varyn's blade, E'noch anchored Varyn's blood and soul to the weapon.
 
 Varyn understood what he was entering into. He knowingly and willingly accepted the pact, including the binding of his blood and soul to the Crimson Sun. His participation was deliberate, not the result of deception or ignorance about the nature of the arrangement. What remains uncertain is what he hoped to accomplish through the pact, what E'noch ultimately intended and whether the consequences unfolded exactly as Varyn expected.
 
-![Vayrn Crona - Eternal Guardian and Enoch at the Forge of Binding.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-a-mv0g20ow.webp)
+
+![Darkforge Ritual_ Sword of Embers.png](/images/uploads/darkforge-ritual-sword-of-embers-mv0h837p.webp)
 *Vayrn Crona - Eternal Guardian and Enoch at the Forge of Binding*
 
 The result was more than a ceremonial title or an ordinary oath of service. Varyn became bound to a duty that would endure across centuries, protecting the Kaius dynasty through the reigns of **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)**. The Empire remembered his service as an extraordinary example of loyalty, but the deeper purpose of the binding remains unresolved. Why Varyn agreed to E'noch's larger plan, why Vol magic was required and how the pact related to Varyn's bloodline are among the central mysteries of his life.
@@ -157,9 +158,15 @@ The Empire presented the event as a decisive act that ended the Last War. It nam
 
 The truth was far darker than the Empire's official account. **Varyn used the Crimson Sun to pull a bleeding sun down from the heavens and bring its power to the battlefield below.** His act unleashed the force that became [the Mourning](/history/the-mourning/), destroying Cyre and transforming the kingdom into the poisoned wasteland now known as the [Mournlands](/places/the-mournland/).
 
+![Vayrn Crona calling down the bleeding sun, creating the Mourning.png](/images/uploads/vayrn-crona-calling-down-the-bleeding-su-mv0h4o6g.webp)
+*Vayrn Crona calling down the bleeding sun, creating the Mourning*
+
 The impact created the enormous **Glass Plateau** at the center of Cyre. The devastation spread outward across the kingdom, leaving the Plateau at the heart of the catastrophe and a ruined landscape around it. Varyn was responsible for bringing the bleeding sun down, but the precise purpose behind his act remains unknown. His later Echo would speak of bleeding the sun, eternal night and a bloodline destined to reign, suggesting a connection to a larger plan without explaining whether the destruction of Cyre was the intended outcome or a consequence of something else.
 
 The Empire never publicly acknowledged Varyn's responsibility. Instead, it preserved the account in which Kaius III was the central figure, calling the event the Rejuvenation and presenting it as the act that finally ended the war. The official story and the actual cause of the Mourning were fundamentally different.
+
+![Vayrn Crona and the Crimson Sun - The Mourning.png](/images/uploads/vayrn-crona-and-the-crimson-sun-the-mour-mv0h5ubw.webp)
+*Varyn on the Glass Plateau*
 
 The catastrophe also created the [Red Khyber](/items/red-khyber/) now found within the Glass Plateau. That material later became an important imperial resource: [Project E.D.E.N.](/organizations/project-e-d-e-n/) units were sent into the Mournlands to mine it, and the material was shipped through [BioTec](/organizations/biotec/). The destruction of Cyre thus became both a national catastrophe and a source of power the Empire continued to exploit.
 
@@ -214,6 +221,9 @@ Centuries later, Varyn's Echo called E'noch **"my brother."** The word may be li
 ## The Forge of Binding
 
 The [Forge of Binding](/places/the-forge-of-binding/) stands at both ends of Varyn's story. It was where E'noch helped establish the Eternal Guardian pact, where Varyn forged the Crimson Sun and where his blood and soul were anchored to the weapon. Centuries later, it was also where Varyn's Echo was recalled and destroyed. The same place that helped define Varyn's existence ultimately became the place where his remaining Echo disappeared.
+
+![Infernal Throne_ Chains and Bluefire.png](/images/uploads/infernal-throne-chains-and-bluefire-mv0h94p2.webp)
+*Gemma, Eric and Dario facing Vayrn Crona's Echo - The Forge of Binding*
 
 Esther reached the Forge only moments after the Echo had shattered. She did not witness its summoning; she entered the chamber after the event, as the Forge went dark. At the same moment, the red in the Crimson Sun drained away and crystallized. Esther could no longer hear or feel Varyn through the sword, and whatever connection had remained between them was gone.
 
@@ -294,5 +304,3 @@ Varyn was secretive, controlling and ambitious. He raised a child he had purchas
 - **[The Council of 13](/organizations/the-council-of-13/)** — Varyn's fellow rulers and, according to later evidence, the people responsible for arranging his assassination.
 
 **Hobbies & Pets:** Unknown.
-
-![Varyn Crona - Eternal Guardian and Enoch 2.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-2-mu0vzg1y.webp)
