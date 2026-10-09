@@ -1,21 +1,25 @@
 ---
 title: Emperor Kaius III
 description: Comatose for ten years, still signing death warrants. One scholar says he is an ancestral dragon; a dead necromancer says he is a vampire.
+tags:
+  - Emperor Kaius III
+  - Kaius III
+  - Kaius III
+  - Kaius
+  - Kaius
+  - The Emperor
+  - Viagra
+  - Master Armhair
+  - Throne of Bones
+  - Korth
+  - Pax Imperium
+  - House of Kaius
+image:
+  src: /images/gallery/emperor-caius-iii-detail.webp
+  alt: Emperor Caius III in the dream
+  caption: An emaciated old man in rags carries a swaddled infant before a fountain, a detail of the dream image.
 type: person
 kind: people
-tags:
-- Emperor Kaius III
-- Kaius III
-- Kaius III
-- Kaius
-- Kaius
-- The Emperor
-- Viagra
-- Master Armhair
-- Throne of Bones
-- Korth
-- Pax Imperium
-- House of Kaius
 icon: fa-crown
 fields:
   rpgAlignment: Unknown
@@ -32,39 +36,35 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
-- sources/site/korth-episode-summaries.txt
-- sources/site/pose-mission-notes.txt
-- sources/site/esther-crona.txt
-- sources/wa/blood-of-vol-organization.txt
-- sources/wa/uriel-qualanthri-person.txt
-- sources/wa/the-crimson-sun-organization.txt
-- sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
-- korth.md
-- npcs-korth.md
-- session-2026-09-04-summary.md
-- worldanvil/CANON.md
-- sources/documents/2026-09-14-nico-evil-campaign-3.md
-- "Oral Histories: The Inevitables, 2025-06-07"
-- "Oral Histories: The Inevitables, 2025-10-19"
-- "Oral Histories: The Inevitables, 2026-06-06"
-- "Oral Histories: The Inevitables, 2026-06-19"
-- "Oral Histories: The Inevitables, 2026-07-08"
-- "Oral Histories: The Inevitables, 2026-07-13"
-- "Oral Histories: The Inevitables, 2026-08-22"
-- "Oral Histories: The Inevitables, 2026-08-23"
-- Esther Crona, as revised by Nico, 2026-10-07
+  - sources/site/korth-episode-summaries.txt
+  - sources/site/pose-mission-notes.txt
+  - sources/site/esther-crona.txt
+  - sources/wa/blood-of-vol-organization.txt
+  - sources/wa/uriel-qualanthri-person.txt
+  - sources/wa/the-crimson-sun-organization.txt
+  - sources/wa/the-imperial-council-2F-imperial-assembly---organization.txt
+  - korth.md
+  - npcs-korth.md
+  - session-2026-09-04-summary.md
+  - worldanvil/CANON.md
+  - sources/documents/2026-09-14-nico-evil-campaign-3.md
+  - 'Oral Histories: The Inevitables, 2025-06-07'
+  - 'Oral Histories: The Inevitables, 2025-10-19'
+  - 'Oral Histories: The Inevitables, 2026-06-06'
+  - 'Oral Histories: The Inevitables, 2026-06-19'
+  - 'Oral Histories: The Inevitables, 2026-07-08'
+  - 'Oral Histories: The Inevitables, 2026-07-13'
+  - 'Oral Histories: The Inevitables, 2026-08-22'
+  - 'Oral Histories: The Inevitables, 2026-08-23'
+  - Esther Crona, as revised by Nico, 2026-10-07
 published: '2026-09-10'
 wa:
   slug: emperor-caius-iii-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
 gallery:
-- src: /images/gallery/2026-08-10-03.webp
-  alt: Gemma's dream of the fountain
-  caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
-image:
-  src: /images/gallery/emperor-caius-iii-detail.webp
-  alt: "Emperor Caius III in the dream"
-  caption: "An emaciated old man in rags carries a swaddled infant before a fountain, a detail of the dream image."
+  - src: /images/gallery/2026-08-10-03.webp
+    alt: Gemma's dream of the fountain
+    caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
 ---
 
 **Species disputed · Emperor of the Pax Imperium · House of Kaius · Comatose**
@@ -159,6 +159,9 @@ Gemma Corso's warlock pact is not hers. Her adoptive father, Jane Corso, agreed 
 ## Right now
 
 He is comatose at the Ivory Lazaret upriver of Korth, ten years into an illness the Empire will not name, while his throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. The Empress is at the Ivory Lazaret with him, waiting for a son. Ten bells remain, at least one of them a Master casting in the tower attached to his own palace. And a warlock with an empty pewter box has just been handed sanctioned Imperial paperwork to walk up to his household and take an inventory.
+
+![Emperor Kaius III with Sisters of the Blood - Ivory Lazaret.png](/images/uploads/emperor-kaius-iii-with-sisters-of-the-bl-mv1bx6ud.webp)
+*Emperor Kaius III with Sisters of the Blood - Ivory Lazaret*
 
 **Organizations / Groups:** The House of Kaius · [The Imperial Council / Imperial Assembly](/organizations/the-imperial-council-imperial-assembly/) (thirteen heads of government under him) · object of worship of [the Blood of Vol](/organizations/blood-of-vol/).
 
