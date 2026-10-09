@@ -217,7 +217,7 @@ And the pact had one final vulnerability: Esther herself.
 
 
 ![Esther Crona and her Iron Veil - Shaarn.png](/images/uploads/esther-crona-and-her-iron-veil-shaarn-mv0baigx.webp)
-*Esther Crona and her Iron Veil *
+*Esther Crona and her Iron Veil*
 
 When Esther died, every Iron Veil pact collapsed at once. Soldiers across the Empire felt the magical severing. Some panicked. Some deserted. Some remained loyal to the Empire. Some felt liberated.
 
