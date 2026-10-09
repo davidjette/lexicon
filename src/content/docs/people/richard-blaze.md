@@ -24,17 +24,12 @@ icon: fa-utensils
 fields:
   rpgAlignment: Unknown
   ggmtitle: Chef and Restaurateur; hidden founder of Fulcrum; spouse of the Lord Commander
-  dobDisplay: 45 years ago
-  birthplace: The Demon Waste; enslaved into kitchen labour in New Ham. Imperial files say born a slave in New Ham; NicoPico's original record says Korth
-  children: Calcifer Blaze, age 8
+  dobDisplay: 45-48 years ago
+  birthplace: The Demon Waste; enslaved into kitchen labour in New Ham.
+  children: Calcifer Blaze, age 8-11 years
   residence: Officially deceased; last placed at Zilspar Farm 02
   gender: Male
-  age: '45'
-  eyes: Unknown
-  hair: Unknown
-  skin: Unknown
-  height: Unknown
-  weight: Unknown
+  age: 45-48 years
 sources:
   - sources/wa/richard-blaze-person.txt
   - sources/site/rebel-factions.txt
