@@ -370,6 +370,8 @@ In reality, Richard and Calcifer survived and were teleported to Zilspar Farm. T
 
 [Digma Beeve](/people/digma-beeve/) believed Richard would probably take Calcifer somewhere around [Leef](/places/leef/) and disappear completely, but this was never confirmed.
 
+At the time of *The Fall of Sharn*, the people who knew that Richard and Calcifer had survived and secretly left the city were [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/), [Sir Dario Argentino](/people/sir-dario-argentino/), [Zero-One](/people/zero-one-fema-nolan/), [Jessica Grimpledink](/people/jessica-grimpledink/), [Digma Beeve](/people/digma-beeve/), and [Lorian](/people/lorian/), who was present in the Zeir apartment when Richard and Calcifer were found and was brought into the confidence of their survival.
+
 Richard remains alive.
 
 His current location is unknown.
