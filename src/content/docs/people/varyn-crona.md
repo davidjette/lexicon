@@ -165,7 +165,8 @@ The impact created the enormous **Glass Plateau** at the center of Cyre. The dev
 
 The Empire never publicly acknowledged Varyn's responsibility. Instead, it preserved the account in which Kaius III was the central figure, calling the event the Rejuvenation and presenting it as the act that finally ended the war. The official story and the actual cause of the Mourning were fundamentally different.
 
-![Vayrn Crona and the Crimson Sun - The Mourning.png](/images/uploads/vayrn-crona-and-the-crimson-sun-the-mour-mv0h5ubw.webp)
+
+![Vayrn Crona standing on the the Glass Plateau after the creation of the Mourning 2.png](/images/uploads/vayrn-crona-standing-on-the-the-glass-pl-mv0jdzst.webp)
 *Varyn on the Glass Plateau*
 
 The catastrophe also created the [Red Khyber](/items/red-khyber/) now found within the Glass Plateau. That material later became an important imperial resource: [Project E.D.E.N.](/organizations/project-e-d-e-n/) units were sent into the Mournlands to mine it, and the material was shipped through [BioTec](/organizations/biotec/). The destruction of Cyre thus became both a national catastrophe and a source of power the Empire continued to exploit.
