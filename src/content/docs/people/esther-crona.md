@@ -15,7 +15,7 @@ tags:
   - Lord Commander
   - Iron Veil
 image:
-  src: /images/uploads/the-lord-comander-esther-crona-mu0isuhy.webp
+  src: /images/uploads/esther-crona-and-the-sword-the-crimson-s-mv0msw4g.webp
 type: person
 kind: people
 icon: fa-sun
@@ -173,6 +173,9 @@ Esther was therefore no longer simply an Imperial hunter. She was being trusted 
 
 Back in Korth she spent months waiting for another assignment in Varyn's manor. She painted, practiced new magic, drank heavily and continued to hear Varyn's voice through [his sword](/items/the-bright-dawn-crimson-sun-unbound/).
 
+![Esther with the Crimson Sun after Vayrns' death - Crona Manor, Korth.png](/images/uploads/esther-with-the-crimson-sun-after-vayrns-mv0mtx69.webp)
+*Esther with the Crimson Sun after Vayrns' death - Crona Manor, Korth*
+
 During the Unforeseen's investigations, Esther finally learned what had happened to Varyn. Evidence connected members of the Council of 13 to his assassination, transforming his death from a personal tragedy into a betrayal by the very government he had served.
 
 In the throne room of [Emperor Kaius III](/people/emperor-caius-iii/), Esther was reminded of Varyn's loyalty and given permission to hunt down the members of the [Council of 13](/organizations/the-council-of-13/) responsible for his death. Kaius charged her with avenging Varyn and told her that she might one day take his place.
@@ -191,6 +194,9 @@ In the years following the Unforeseen, Esther acted on what she had learned abou
 Esther then dismantled the Crimson Sun itself. With the old order destroyed, she rose through the Imperial hierarchy and became Grand Inquisitor and Lord Commander of the Imperial Military.
 
 From the [Veil Building](/places/the-veil-building/) she controlled Sharn's military, covert operations, internal security and surveillance. Esther wanted a military force that answered directly to her rather than to the institutions she had learned to distrust.
+
+![Esther Crona and the sword the Crimson Sun - Sharn.png](/images/uploads/esther-crona-and-the-sword-the-crimson-s-mv0mwg71.webp)
+*Esther Crona and the sword the Crimson Sun - Sharn Veil Building*
 
 Her defining creation was the [Iron Veil](/organizations/the-iron-veil/), whose soldiers entered magical pacts directly with Esther.
 
