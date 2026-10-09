@@ -19,7 +19,20 @@ drafts/image-queue.json (gitignored); nothing here touches an article.
   python scripts/image_queue.py show [--verdict generate]
       Prints the verdicts for review. Edit drafts/image-queue.json to change one.
 
-Generate from a reviewed entry with scripts/gen_image.py gen <kind/slug> "<prompt>" --size <size>.
+  python scripts/image_queue.py generate --limit 20
+      Makes one draft for each `generate` verdict that has none yet (drafts/images, gitignored), four
+      requests at a time. --redo kind/slug ... makes those again.
+
+  python scripts/image_queue.py sheet
+      Writes drafts/image-review.html: every draft and every existing-image choice on one page. Tick
+      the ones to reject; the page builds the `skip` command to run.
+
+  python scripts/image_queue.py skip kind/slug ...        (--undo to take it back)
+
+  python scripts/image_queue.py apply [--only existing|generate] [--dry-run]
+      Sets the lead image on every article not skipped: the chosen existing image (moved out of the
+      article's own gallery when that is where it was), or the generated draft. Crop verdicts are left
+      for a person. Then run the usual checks and commit.
 """
 import argparse
 import glob
@@ -29,6 +42,9 @@ import re
 import shutil
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import gen_image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, 'src', 'content', 'docs')
@@ -73,13 +89,36 @@ def unquote(s):
     return s.strip('"\'')
 
 
-def front_images(fm):
-    """(src, alt + caption) for the lead image and gallery in one article's front matter."""
+def front_entries(fm):
+    """(src, alt, caption) for the lead image and gallery in one article's front matter."""
     out = []
     for m in re.finditer(r'src:\s*(\S+)((?:\n\s+(?:alt|caption):[^\n]*)*)', fm):
-        text = ' - '.join(unquote(x) for x in re.findall(r'(?:alt|caption):\s*([^\n]*)', m.group(2)))
-        out.append((m.group(1), text))
+        got = {k: unquote(v) for k, v in re.findall(r'(alt|caption):\s*([^\n]*)', m.group(2))}
+        out.append((m.group(1), got.get('alt', ''), got.get('caption', '')))
     return out
+
+
+def front_images(fm):
+    """(src, alt + caption) for the same."""
+    return [(src, ' - '.join(x for x in (alt, caption) if x)) for src, alt, caption in front_entries(fm)]
+
+
+def describe(src, e, arts):
+    """Alt text and caption for an image already on the site, when it becomes an article's lead."""
+    for slug in [e['article']] + sorted(arts):
+        for s, alt, caption in front_entries(arts[slug][0]):
+            if s == src and (alt or caption):
+                return alt or e['title'], caption
+    for g in json.load(open(os.path.join(DATA, 'gallery-chat.json'), encoding='utf-8')):
+        if g['src'] == src:
+            return g.get('title') or e['title'], g.get('description', '')
+    for g in json.load(open(os.path.join(DATA, 'gallery.json'), encoding='utf-8')):
+        if g['src'] == src:
+            return e['title'], g.get('caption', '')
+    for g in json.load(open(os.path.join(DATA, 'maps.json'), encoding='utf-8')):
+        if g['src'] == src:
+            return 'Map: ' + g.get('title', e['title']), ''
+    return e['title'], ''
 
 
 def names(fm, body):
@@ -180,7 +219,7 @@ def scan(a):
         e['size'] = SIZES.get(e['article'].split('/')[0], LANDSCAPE)
         e['gallery'] = [{'src': s, 'text': t[:240]} for s, t in front_images(fm)]
         e['existing'] = candidates(e['article'], fm, body, index)
-        for k in REVIEWED:
+        for k in REVIEWED + ('draft', 'skip', 'error'):
             if k in old.get(e['article'], {}):
                 e[k] = old[e['article']][k]
     save(picked)
@@ -259,7 +298,8 @@ def review(a):
                 print(f'  {e["article"]}: no usable answer')
                 continue
             for k in REVIEWED:
-                e.pop(k, None) if k != 'size' else None
+                if k != 'size':
+                    e.pop(k, None)
             e.update({k: o[k] for k in ('verdict', 'use', 'reason', 'prompt', 'alt', 'caption') if o.get(k)})
             e['cost_usd'] = round(cost / len(group), 4)
             if o.get('size') in ('1024x1024', '1536x1024', '1024x1536'):
@@ -290,9 +330,144 @@ def show(a):
     tally(queue)
 
 
+def generate(a):
+    queue = load()
+    redo = set(a.redo or [])
+    for e in queue:
+        if e['article'] in redo:
+            for k in ('draft', 'skip', 'error'):
+                e.pop(k, None)
+    have = lambda e: e.get('draft') and os.path.exists(os.path.join(ROOT, e['draft']))
+    todo = [e for e in queue if e.get('verdict') == 'generate' and not e.get('skip') and not e.get('placed') and not have(e)]
+    todo = [e for e in todo if e['article'] in redo] if redo else todo[:a.limit]
+    used = made = 0
+
+    def one(e):
+        return gen_image.generate(e['article'], e['prompt'], e['size'])
+
+    with ThreadPoolExecutor(max_workers=a.workers) as pool:
+        jobs = {pool.submit(one, e): e for e in todo}
+        for i, job in enumerate(as_completed(jobs), 1):
+            e = jobs[job]
+            try:
+                paths, usage = job.result()
+            except Exception as err:  # noqa: BLE001
+                e['error'] = str(err)[:300]
+                print(f'[{i}/{len(todo)}] {e["article"]}: failed, {e["error"][:160]}')
+            else:
+                e.pop('error', None)
+                e['draft'] = os.path.relpath(paths[0], ROOT).replace(os.sep, '/')
+                used += usage.get('total_tokens', 0)
+                made += 1
+                print(f'[{i}/{len(todo)}] {e["article"]}: {e["draft"]}')
+            save(queue)
+    left = sum(1 for e in queue if e.get('verdict') == 'generate' and not e.get('skip') and not e.get('placed') and not have(e))
+    print(f'\n{made} generated, {used:,} OpenAI tokens; {left} still to generate. Next: image_queue.py sheet')
+
+
+def sheet(a):
+    """One local page showing every picture waiting to be applied, to look at before `apply`."""
+    queue = load()
+    esc = lambda s: (s or '').replace('&', '&amp;').replace('<', '&lt;').replace('"', '&quot;')
+    cards = {'generate': [], 'existing': [], 'crop': []}
+    for e in queue:
+        if e.get('placed') or e.get('verdict') not in cards:
+            continue
+        if e['verdict'] == 'generate':
+            if not (e.get('draft') and os.path.exists(os.path.join(ROOT, e['draft']))):
+                continue
+            img, note = e['draft'].replace('drafts/', '', 1), e['caption']
+        else:
+            img, note = '../public' + e['use'], e['reason']
+        cards[e['verdict']].append(
+            f'<figure class="{"skip" if e.get("skip") else ""}"><a href="{esc(img)}" target="_blank"><img loading="lazy" src="{esc(img)}"></a>'
+            f'<figcaption><label><input type="checkbox" value="{esc(e["article"])}"{" checked" if e.get("skip") else ""}> reject</label> '
+            f'<b>{esc(e["title"])}</b><br><code>{esc(e["article"])}</code><br>{esc(note)}</figcaption></figure>')
+    heads = {'generate': 'Generated', 'existing': 'Existing image to use as the lead', 'crop': 'Crop needed (apply leaves these alone)'}
+    html = ('<!doctype html><meta charset="utf-8"><title>Lexicon image review</title><style>'
+            'body{font:14px system-ui;margin:16px;background:#1b1b1f;color:#ddd}h2{margin-top:28px}'
+            '.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}'
+            'figure{margin:0;background:#26262c;padding:8px;border-radius:6px}img{width:100%;height:260px;object-fit:contain;background:#111}'
+            'figure.skip,figure:has(input:checked){opacity:.35}code{color:#9ab}textarea{width:100%;height:70px}'
+            '#bar{position:sticky;top:0;background:#1b1b1f;padding:8px 0;z-index:2}</style>'
+            '<div id="bar">Tick what you reject, then run this in the Lexicon folder (nothing is applied until '
+            '<code>image_queue.py apply</code>):<textarea id="out" readonly></textarea></div>')
+    for k in ('generate', 'existing', 'crop'):
+        if cards[k]:
+            html += f'<h2>{heads[k]} ({len(cards[k])})</h2><div class="g">' + ''.join(cards[k]) + '</div>'
+    html += ('<script>const o=document.getElementById("out");function u(){const s=[...document.querySelectorAll("input:checked")]'
+             '.map(i=>i.value);o.value=s.length?"python scripts/image_queue.py skip "+s.join(" "):"(nothing rejected)"}'
+             'document.addEventListener("change",u);u()</script>')
+    out = os.path.join(ROOT, 'drafts', 'image-review.html')
+    open(out, 'w', encoding='utf-8', newline='\n').write(html)
+    print(f'{os.path.relpath(out, ROOT)}: ' + ', '.join(f'{len(v)} {k}' for k, v in cards.items()))
+
+
+def skip(a):
+    queue = load()
+    known = {e['article']: e for e in queue}
+    for slug in a.articles:
+        if slug not in known:
+            print('not in the queue:', slug)
+        elif a.undo:
+            known[slug].pop('skip', None)
+        else:
+            known[slug]['skip'] = True
+    save(queue)
+    print(f'{sum(1 for e in queue if e.get("skip"))} articles marked to skip')
+
+
+def apply(a):
+    queue, arts = load(), articles()
+    todo = [e for e in queue if not e.get('skip') and not e.get('placed') and e['article'] in arts
+            and (not a.only or e.get('verdict') == a.only)]
+    done = 0
+    for e in todo:
+        if done >= a.limit:
+            break
+        if re.search(r'^image:', arts[e['article']][0], re.M):
+            continue  # someone gave it a lead image since the scan
+        if e.get('verdict') == 'existing':
+            alt, caption = describe(e['use'], e, arts)
+            if not a.dry_run:
+                where = gen_image.add_image(e['article'], e['use'], alt, caption or None)
+                gen_image.log(e['article'], where, e['use'], '- existing image, chosen by the image review')
+            print(f"{e['article']}: lead <- {e['use']}  alt={alt!r}")
+        elif e.get('verdict') == 'generate' and e.get('draft') and os.path.exists(os.path.join(ROOT, e['draft'])):
+            if not a.dry_run:
+                _, src, _ = gen_image.place_draft(os.path.join(ROOT, e['draft']), e['alt'], e['caption'])
+                e['placed_src'] = src
+            print(f"{e['article']}: lead <- generated {e['draft']}")
+        else:
+            continue
+        done += 1
+        if not a.dry_run:
+            e['placed'] = True
+            save(queue)
+    crops = [e['article'] for e in queue if e.get('verdict') == 'crop' and not e.get('placed') and not e.get('skip')]
+    print(f"\n{done} {'would be ' if a.dry_run else ''}applied. {len(crops)} crop verdicts are left for a person: " + ', '.join(crops))
+    if done and not a.dry_run:
+        print('Now: npm run qa, npm run build, npm run links, then commit.')
+
+
 if __name__ == '__main__':
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest='cmd', required=True)
+    ge = sub.add_parser('generate')
+    ge.add_argument('--limit', type=int, default=10)
+    ge.add_argument('--workers', type=int, default=4, help='requests in flight at once')
+    ge.add_argument('--redo', nargs='+', metavar='kind/slug', help='generate these again, replacing their drafts')
+    ge.set_defaults(run=generate)
+    sub.add_parser('sheet').set_defaults(run=sheet)
+    sk = sub.add_parser('skip')
+    sk.add_argument('articles', nargs='+')
+    sk.add_argument('--undo', action='store_true')
+    sk.set_defaults(run=skip)
+    ap = sub.add_parser('apply')
+    ap.add_argument('--limit', type=int, default=1000)
+    ap.add_argument('--only', choices=('existing', 'generate'))
+    ap.add_argument('--dry-run', action='store_true')
+    ap.set_defaults(run=apply)
     s = sub.add_parser('scan')
     s.add_argument('--min-words', type=int, default=300)
     s.add_argument('--min-links', type=int, default=5)

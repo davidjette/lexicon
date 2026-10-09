@@ -66,7 +66,10 @@ every prompt. The key is `OPENAI_IMAGE_GEN_API_KEY` in `.env`. Placements are lo
 sizes the job, matches each article against the captions and file names of images already on the site,
 and writes `drafts/image-queue.json` (gitignored). `review --limit 20` has Claude give each a verdict
 under `house/image-brief.md`: use an existing image, crop one, generate one (with a prompt, alt text
-and caption) or none. `show` prints the verdicts.
+and caption) or none. `show` prints the verdicts. `generate --limit 20` makes a draft for each generate
+verdict, `sheet` writes `drafts/image-review.html` to look them over (with the existing-image choices),
+`skip kind/slug ...` rejects some, and `apply` sets the lead image on the rest. Crop verdicts are left
+for a person.
 
 ## Front page
 
