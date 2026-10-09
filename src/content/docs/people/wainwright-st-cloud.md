@@ -1,42 +1,46 @@
 ---
 title: Wainwright St. Cloud
 description: 'The mastermind of the Sword Coast Trading Company: merchant, manipulator, and the vessel who raced to wake the Leviathan. He died in the Egg for Kara.'
+tags:
+  - Wainwright St. Cloud
+  - WSC
+  - St. Cloud
+  - Alphalpha Beginnigin
+  - the Old Man
+  - the Traveler
+  - Sword Coast Trading Company
+  - Dox
+  - the Team
+  - Sigil
+  - Old Man's House
+  - Mammon Machine
+  - Leviathan
+  - Infantaverse
+  - Warlock
+  - Great Old One
+  - Jacob Southampton
+  - Ysmir St. Cloud
+  - Carlysle St. Cloud
+  - Anachron
+  - Arcaneum
+  - Celion
+  - Valen
+  - Starfall
+  - Second Battle of Motherstone
+  - Lexicon
+  - Motherstone
+  - Infanta of the Moon
+  - Grey Sage
+  - Karametra
+  - Kay
+  - Zeal
+  - Roland's Cube
+image:
+  src: /images/cards/wainwright-st-cloud.webp
+  alt: 'Ally card: Wainwright St. Cloud'
+  caption: Ally card, Arc VIII
 type: person
 kind: people
-tags:
-- Wainwright St. Cloud
-- WSC
-- St. Cloud
-- Alphalpha Beginnigin
-- the Old Man
-- the Traveler
-- Sword Coast Trading Company
-- Dox
-- the Team
-- Sigil
-- Old Man's House
-- Mammon Machine
-- Leviathan
-- Infantaverse
-- Warlock
-- Great Old One
-- Jacob Southampton
-- Ysmir St. Cloud
-- Carlysle St. Cloud
-- Anachron
-- Arcaneum
-- Celion
-- Valen
-- Starfall
-- Second Battle of Motherstone
-- Lexicon
-- Motherstone
-- Infanta of the Moon
-- Grey Sage
-- Karametra
-- Kay
-- Zeal
-- Roland's Cube
 icon: fa-user-secret
 fields:
   rpgAlignment: Lawful Evil (sheet)
@@ -54,61 +58,57 @@ fields:
   height: 6' 1"
   weight: 170 lb
 sources:
-- Desktop/infantaverse-wiki/src/content/docs/characters/wainwright-st-cloud.mdx
-- Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/Interlude.docx
-- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - SCTC Archives.docx
-- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/Over the intercom.docx
-- Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
-- Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part VI.docx
-- Desktop/D&D/Character Sheets/CS WAINWRIGHT.pdf
-- Desktop/D&D/NPCs/CS St Cloud (true).pdf
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
-- sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
-- sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part VI.txt
-- CANON.md (5c)
-- CANON.md 5x (the DM's account, 2026-09-10)
-- sources/dave/2026-09-13-dead-mans-hand-company.md
-- CANON.md 5ab
-- sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
-- sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
-- sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
-- sources/dave/2026-09-14-ages-rulings-a1-a30.md
-- "Oral Histories: Temporal Holdings, 2019-01-28"
-- "Oral Histories: Temporal Holdings, 2019-05-05"
-- "Oral Histories: Temporal Holdings, 2019-05-25"
-- "Oral Histories: Temporal Holdings, 2019-05-28"
-- "Oral Histories: Temporal Holdings, 2019-08-23"
-- "Oral Histories: Temporal Holdings, 2020-01-13"
-- "Oral Histories: Temporal Holdings, 2020-02-17"
-- "Oral Histories: Temporal Holdings, 2020-05-03"
-- "Oral Histories: Temporal Holdings, 2020-05-04"
-- "Oral Histories: Temporal Holdings, 2020-06-28"
-- "Oral Histories: Temporal Holdings, 2020-07-11"
-- "Oral Histories: Temporal Holdings, 2020-08-08"
-- "Oral Histories: Temporal Holdings, 2021-10-30"
-- "Oral Histories: Temporal Holdings, 2022-04-10"
-- "Oral Histories: Temporal Holdings, 2022-07-17"
-- "Oral Histories: Temporal Holdings, 2023-10-12"
-- "Oral Histories: The Inevitables, 2021-10-21"
-- "Oral Histories: The Inevitables, 2021-12-03"
-- "Oral Histories: The Inevitables, 2022-02-09"
-- "Oral Histories: The Inevitables, 2022-07-03"
-- "Oral Histories: The Inevitables, 2024-05-29"
-- sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
-- sources/dave/2026-10-08-tudyx-cube-spine.md
+  - Desktop/infantaverse-wiki/src/content/docs/characters/wainwright-st-cloud.mdx
+  - Desktop/D&D/Temple Holdings LLC/3 - Age of the Infanta/Interlude.docx
+  - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - SCTC Archives.docx
+  - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/Over the intercom.docx
+  - Desktop/D&D/Temple Holdings LLC/4 - The Infernal Machines/The Infernal Machines - Part V.docx
+  - Desktop/D&D/Temple Holdings LLC/5 - Starfall/Starfall - Part VI.docx
+  - Desktop/D&D/Character Sheets/CS WAINWRIGHT.pdf
+  - Desktop/D&D/NPCs/CS St Cloud (true).pdf
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part VI.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__VIII Handouts.txt
+  - sources/infantaverse/Temple Holdings LLC__3 - Age of the Infanta__The Age of Infanta - Part IX - X - XI - Arcaneum.txt
+  - sources/infantaverse/Temple Holdings LLC__5 - Starfall__Starfall - Part VI.txt
+  - CANON.md (5c)
+  - CANON.md 5x (the DM's account, 2026-09-10)
+  - sources/dave/2026-09-13-dead-mans-hand-company.md
+  - CANON.md 5ab
+  - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
+  - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
+  - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
+  - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+  - 'Oral Histories: Temporal Holdings, 2019-01-28'
+  - 'Oral Histories: Temporal Holdings, 2019-05-05'
+  - 'Oral Histories: Temporal Holdings, 2019-05-25'
+  - 'Oral Histories: Temporal Holdings, 2019-05-28'
+  - 'Oral Histories: Temporal Holdings, 2019-08-23'
+  - 'Oral Histories: Temporal Holdings, 2020-01-13'
+  - 'Oral Histories: Temporal Holdings, 2020-02-17'
+  - 'Oral Histories: Temporal Holdings, 2020-05-03'
+  - 'Oral Histories: Temporal Holdings, 2020-05-04'
+  - 'Oral Histories: Temporal Holdings, 2020-06-28'
+  - 'Oral Histories: Temporal Holdings, 2020-07-11'
+  - 'Oral Histories: Temporal Holdings, 2020-08-08'
+  - 'Oral Histories: Temporal Holdings, 2021-10-30'
+  - 'Oral Histories: Temporal Holdings, 2022-04-10'
+  - 'Oral Histories: Temporal Holdings, 2022-07-17'
+  - 'Oral Histories: Temporal Holdings, 2023-10-12'
+  - 'Oral Histories: The Inevitables, 2021-10-21'
+  - 'Oral Histories: The Inevitables, 2021-12-03'
+  - 'Oral Histories: The Inevitables, 2022-02-09'
+  - 'Oral Histories: The Inevitables, 2022-07-03'
+  - 'Oral Histories: The Inevitables, 2024-05-29'
+  - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
+  - sources/dave/2026-10-08-tudyx-cube-spine.md
 published: '2026-09-10'
 wa:
   slug: wainwright-st-cloud-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
-image:
-  src: /images/cards/wainwright-st-cloud.webp
-  alt: 'Ally card: Wainwright St. Cloud'
-  caption: Ally card, Arc VIII
 gallery:
-- src: /images/portraits/wainwright-st-cloud.webp
-  alt: 'Wainwright St. Cloud, bald with a tuft of white hair and a monocle, in a grey and gold coat, holding a glowing blue crystal ball'
-  caption: 'Wainwright St. Cloud in the Temple Holdings party portrait'
+  - src: /images/portraits/wainwright-st-cloud.webp
+    alt: Wainwright St. Cloud, bald with a tuft of white hair and a monocle, in a grey and gold coat, holding a glowing blue crystal ball
+    caption: Wainwright St. Cloud in the Temple Holdings party portrait
 ---
 
 **Human · Warlock 17 / Rogue 3 (sheet) · Lawful Evil · Chairman of the Sword Coast Trading Company · High Counselor to the Emperor · Died in the Egg**
@@ -165,7 +165,7 @@ Publicly he is a merchant-statesman who advises an Emperor and, in Waterdeep, el
 
 ## What he is
 
-<small>Recovered from the Oblivia.</small> In his oldest memo, claiming the estate of a dead man named **Alphalpha Beginnigin**, and complaining of House Nimbus's reluctance to hand over Beginnigin's machines, he writes: *"We have clear legal right to any items they are storing on behalf of Beginnigin. We can sign his name for godsake! We ARE. HIM."* The **Lady of Pain**, ruler of Sigil, confirms it — "Alphalpha Beginnigin and Wainwright St. Cloud are one in the same, surely you know that. He destroyed me and let Asmodeus take the land of the dead. He's doing the same thing here." <small>(Sic on "one in the same." Arc IV, The Infernal Machines, Part V.)</small> He is an immortal who has lived through fall after fall, and who, the dead insist, caused both the First and the Second. Now he will trigger the Third.
+<small>Recovered from the Oblivia.</small> In his oldest memo, claiming the estate of a dead man named **Alphalpha Beginnigin**, and complaining of House Nimbus's reluctance to hand over Beginnigin's machines, he writes: *"We have clear legal right to any items they are storing on behalf of Beginnigin. We can sign his name for godsake! We ARE. HIM."* The **Raven Queen**, as Marcus, Infanta of Death, confirms it when speaking to her sister the Lady of Pain — "Alphalpha Beginnigin and Wainwright St. Cloud are one in the same, surely you know that. He destroyed me and let Asmodeus take the land of the dead. He's doing the same thing here." <small>(Sic on "one in the same." Arc IV, The Infernal Machines, Part V.)</small> He is an immortal who has lived through fall after fall, and who, the dead insist, caused both the First and the Second. Now he will trigger the Third.
 
 ## Beliefs
 
