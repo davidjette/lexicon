@@ -1,5 +1,5 @@
 ---
-title: Faith
+title: Faith Zeir
 description: Faith Zeir, owner of the Vault and Mother Prophet of the Children of Ember, who built a congregation out of her husband's victims.
 tags:
   - Faith
@@ -44,7 +44,7 @@ sources:
   - sources/documents/2026-09-14-nico-sharn-captive-lorian.md
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
   - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
-  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - Esther Crona, as revised by Nico, 2026-10-07
 published: '2026-09-10'
 wa:
   slug: 599e2e63-905e-4c33-af94-06dce29f717b
