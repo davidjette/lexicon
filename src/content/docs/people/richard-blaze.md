@@ -348,6 +348,9 @@ A flash of blue light swallowed father and son.
 
 They were gone.
 
+![Sharn Ep 18 — The Fall of Esther Crona - Richard, Calcifer and Digma.png](/images/uploads/sharn-ep-18-the-fall-of-esther-crona-ric-mv079bjh.webp)
+*Richard, Calcifer and Digma*
+
 Digma then created the story that would keep them alive: [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) had ambushed Richard's private airship during the kidnapping, killing Richard, Calcifer and two of Esther's Honor Guards. With the Children of Ember's leadership dead, there was nobody left to contradict the story.
 
 [Jessica Grimpledink](/people/jessica-grimpledink/) and [Zero-One](/people/zero-one-fema-nolan/) were later told that Richard and Calcifer were safe at the farm. Almost everyone else was allowed to believe they were dead.
