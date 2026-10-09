@@ -54,6 +54,7 @@ sources:
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - "Oral Histories: The Inevitables, 2025-10-31"
 - 'JL''s DM notes: Starfall Awakens Notes'
+- sources/documents/2026-10-09-war-of-the-five-zanzibars-primer.md
 published: '2026-09-10'
 wa:
   slug: general-peterbilt-varkus-person
@@ -63,6 +64,10 @@ image:
   alt: "General Peterbilt Varkus"
   caption: "Portrait of General Varkus, bald and grey-bearded in engraved plate armour, one hand on a violet-plumed helm, from the War of the Five Zanzibars primer."
 ---
+
+> The war is not in the field, or on the sea, cannot be overseen from the sky or from the battlements. The war is witnessed from the mind, fought in the heart, and buried in the hand of every man and woman who chooses life over death.
+
+<small>— Peterbilt Ponderosa Varkas, *Violets on the Dune*</small>
 
 **Species unknown · General, Marshall of the Western Vanguard, Imperial Governor of Waterdeep · [Purple Dragons](/organizations/the-purple-dragons/) · Alive**
 
@@ -90,13 +95,15 @@ Varkus is courting Waterdeep's old-money elite and ancient trades. Before he can
 
 ## Competence and circle
 
-Born in Sembia as the third son of a minor lord, Varkus joined the occupying Cormyrean forces as squire to Sir Horis Jannassar, a Purple Dragon Knight with roots in Waterdeep and Calamshan. He rose through the Imperial Vanguard to command The Violets. Zanzibar the Penitent named him Marshall of the Western Vanguard and gave him the governorship. His immediate subordinate at the fort is [Colonel Angus](/people/colonel-angus/).
+Born in Sembia as the third son of a minor lord, Varkus joined the occupying Cormyrean forces as squire to Sir Horis Jannassar, a Purple Dragon Knight with roots in Waterdeep and Calamshan. He was steeped in the multi-racial and multi-cultural military tradition of the Imperial Vanguard. As a squire and then a young knight he fought in a half dozen wars and countless battles against the Orcs of the Anauroch, the undead hordes of Thayan radicals, giants, Drow, beasts and occasional demons. His commanders came to value his valor and strategy highly, and he rose quickly through the ranks of knights to captain a crack troop of cavalry and attached War Wizards who called themselves The Violets. The novel made him a folk hero and a paragon of Cormyrean might and valor, and five years after the invasion of the Anauroch Zanzibar the Penitent named him Marshall of the Western Vanguard and gave him the governorship of Waterdeep, its harbor and the surrounding lands. <small>(War of the Five Zanzibars primer)</small> His immediate subordinate at the fort is [Colonel Angus](/people/colonel-angus/).
 
 ## Beliefs
 
-The March of the Free West declares loyalty to the people of the Empire and its most exalted institutions.
+The March of the Free West declares loyalty to the people of the Empire and its most exalted institutions. In his Proclamation, issued from Fort Maximillien, he swore to restore the honor of the Crown by opposing the Emperor who had forsaken it. <small>(War of the Five Zanzibars primer)</small>
 
 ## The March of the Free West
+
+The March answered the early decrees of William the Melancholy, which dismantled the Western and Eastern commands in favor of direct Imperial control, replaced seasoned officers with sycophants and pacifists, wound down long-planned campaigns and stripped war heroes of their spoils and honors. Varkus refused to obey, and his refusal had great support from the rank, file and brass of the Purple Dragon Knights and from many of the War Wizard command abroad. The people in the lands his forces occupy violently oppose the March. <small>(War of the Five Zanzibars primer)</small>
 
 When the party reached Waterdeep, Varkus had not yet officially proclaimed his rebellion; in Dave's words he was "still a disgruntled occupying general watching the fool boy emperor throw it all away". <small>(Oral Histories: The Inevitables, 2025-10-31)</small>
 

@@ -41,6 +41,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-11-22"
 - "Oral Histories: Battle of River Lis, 2019-10-21"
 - "Oral Histories: Battle of River Lis, 2019-12-19"
+- sources/documents/2026-10-09-war-of-the-five-zanzibars-primer.md
 published: '2026-09-10'
 wa:
   slug: the-purple-dragons-organization
@@ -78,6 +79,8 @@ The world remembers that at the end of [the Infanta Crisis](/lore/the-infanta-cr
 ## THE STANDING ORDER
 
 They fight paired with the **War Wizards**. The **Western Vanguard** is "half crusaders, half occupying force — renowned for its discipline and merciless efficiency," and [Marshall Varkus](/people/peterbilt-varkus/) commands it.
+
+The Vanguard is made up of elite warriors from every part of the continent, and it enforces the laws and sovereignty of the Zanzibar from Calam in the south to Neverwinter in the north. Its twin force, the **Eastern Sentinel**, occupies Sembia and established the borders with the necromancer-ruled lands of Thay. <small>(War of the Five Zanzibars primer)</small>
 
 Their banner is heavily charged: <small>the Purple Dragon of Cormyr rampant, armed in dexter foreclaw three arrows argent and sinister foreclaw three lightning bolts of the same; in dexter chief a sun in splendour crowned and charged with an escutcheon; in base a river fimbriated azure, the whole upon a field with sea to sinister and mountains proper with forests vert in dexter chief and base.</small>
 

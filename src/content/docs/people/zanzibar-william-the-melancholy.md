@@ -75,6 +75,8 @@ The cover of the War of the Five Zanzibars primer shows him crowned, bearded and
 
 He is the son of [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and, through him, heir to the claim that **Zarus** blessed the line of **Zanzibar the Elder** to rule forever. His birth-name was **Zarusson**. Before his death the Penitent "gave over nearly all political and military control of the Empire to his armies, his rivals, and his laconic son."
 
+As Prince of Punis he "attempted to keep the city in a nearly four-year long festival in order to cheer him up. It did not work," but it brought on a renaissance of art and culture in the Dalelands. On the throne his early decrees dismantled the Western and Eastern commands in favor of direct Imperial control, replaced seasoned officers with sycophants and pacifists, wound down long-planned campaigns and stripped war heroes of their spoils and honors. <small>(War of the Five Zanzibars primer)</small>
+
 ## Public and private
 
 Publicly he is the Emperor of Faerûn, sovereign of an empire five centuries old, and the man to whom tribute is owed. The Unmasked Lord ap Dyksterhaus refused to travel to the capital and pay tribute to him at all. In occupied [Waterdeep](/places/waterdeep/) a barker calls for independence from the Zanzibar, the title every Emperor has borne since [Zanzibar](/people/zanzibar/) himself, and General Varkus has delivered an incendiary speech against the Zanzibar at [Tiffany House](/places/tiffany-house/). <small>(DM notes)</small>
