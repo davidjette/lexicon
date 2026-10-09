@@ -40,7 +40,7 @@ wa:
 image:
   src: /images/generated/the-consecration-rite.webp
   alt: "The consecration rite"
-  caption: "AI image of thirteen cloaked women standing in a ring around a great black bell resting on the ground."
+  caption: "Lexical rendering of thirteen cloaked women standing in a ring around a great black bell resting on the ground."
 ---
 
 **Ritual · Black Dove liturgy · Thirteen officiants, thirteen planes, one sacrifice · Performed on delivery, by the Sisters alone**

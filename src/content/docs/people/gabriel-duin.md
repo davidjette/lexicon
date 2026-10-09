@@ -55,7 +55,7 @@ wa:
 image:
   src: /images/generated/gabriel-duin.webp
   alt: "Gabrielle Duin, hooded, in the throne room"
-  caption: "AI image of a tall figure in black hooded robes descending the stairs of a vast gold and red throne hall."
+  caption: "Lexical rendering of a tall figure in black hooded robes descending the stairs of a vast gold and red throne hall."
 ---
 
 **High Elf · Star Prelate of the Black Doves / Imperial covert agent · The Black Doves · Blood of Vol · the Crimson Sun · Level Unknown · Missing (presumed alive)**

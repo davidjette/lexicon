@@ -64,7 +64,7 @@ wa:
 image:
   src: /images/generated/shadowhigh.webp
   alt: "Shadowhigh with her small dragon"
-  caption: "AI image of a cowgirl ranger in a leather duster and wide-brim hat, her face in shadow, with a small dragon on her shoulder."
+  caption: "Lexical rendering of a cowgirl ranger in a leather duster and wide-brim hat, her face in shadow, with a small dragon on her shoulder."
 ---
 
 **Species unknown · Cowgirl ranger · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**

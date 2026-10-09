@@ -32,7 +32,7 @@ sources:
 image:
   src: /images/generated/ratcatcher.webp
   alt: "Ratcatcher"
-  caption: "AI image of a small island with a dwarven mining outpost, apes on its beach and a ship approaching."
+  caption: "Lexical rendering of a small island with a dwarven mining outpost, apes on its beach and a ship approaching."
 ---
 
 **Island · Dwarven silver mine · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/)**

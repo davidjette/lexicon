@@ -49,7 +49,7 @@ wa:
 image:
   src: /images/generated/house-gallidann.webp
   alt: "House Gallidann"
-  caption: "AI image of elven warriors with drawn swords standing guard in a ring around a small child in a city of crystal."
+  caption: "Lexical rendering of elven warriors with drawn swords standing guard in a ring around a small child in a city of crystal."
 ---
 
 **House Gallidann** is the elven noble house bound to the [Infanta](/lore/the-infanta/) and to the wilds of the Moonshae. It was founded by **Eldamir**, who came north out of the Feywild and protected the first Infanta, Elistrada, in Antiquity <small>(Dave, sources/dave/2026-09-14-eldamir-elistrada-ella.md)</small>; it received the crystal city from the goddess and founded [Motherstone](/places/motherstone/), raised the first Infanta **Elistrada**, and swore to protect the Infanta forever. Its members bear the sentient **moonblades**. Eldamir and Calix fought beside [Stone](/people/stone-infanta-of-discovery/) and Elistrada in the war that obliviated the Netherese, which followed the founding of the city. After the Forgetting the house blamed the dwarves, made war on the remaining dwarven armies and carried out a genocide against them; Eldamir then discovered the plot of her brother **Calix**, and the two were cast out of the forgotten city and slew each other. The house is led today by **Ilana**.

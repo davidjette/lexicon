@@ -38,7 +38,7 @@ wa:
 image:
   src: /images/generated/crab-rangoon.webp
   alt: "Crab Rangoon"
-  caption: "AI image of a deep dwarf, seen from behind at a campfire in a great underground hall, telling his account to a group of travelers."
+  caption: "Lexical rendering of a deep dwarf, seen from behind at a campfire in a great underground hall, telling his account to a group of travelers."
 ---
 
 **Duergar (deep dwarf) · kin of the Teryaki camp · The Teryaki clan · Alive**

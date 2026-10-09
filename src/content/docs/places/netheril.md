@@ -56,7 +56,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/netheril.webp
   alt: "Netheril, the empire of flying cities"
-  caption: "AI image of several cities floating among the clouds high above the land."
+  caption: "Lexical rendering of several cities floating among the clouds high above the land."
 ---
 
 **Human empire · Faerûn, in Antiquity · Capital: Zeal · Obliviated**

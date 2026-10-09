@@ -43,7 +43,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/rex-bedsheets.webp
   alt: "Rex Bedsheets"
-  caption: "AI image of a man seen from behind addressing a small entranced audience in a converted barn, each of them wearing a golden pyramid charm."
+  caption: "Lexical rendering of a man seen from behind addressing a small entranced audience in a converted barn, each of them wearing a golden pyramid charm."
 ---
 
 **Medium humanoid · Warlock · Founder of [Rexium](/organizations/rexium/) · Holder of the THRONE card · Alive**

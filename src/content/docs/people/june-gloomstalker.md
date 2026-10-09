@@ -46,7 +46,7 @@ wa:
 image:
   src: /images/generated/june-gloomstalker.webp
   alt: "June Gloomstalker, envoy of the Eldeen Confederacy"
-  caption: "AI image of a hooded woman seen from behind, carrying a sealed document case toward the doors of a great hall."
+  caption: "Lexical rendering of a hooded woman seen from behind, carrying a sealed document case toward the doors of a great hall."
 ---
 
 **Human · Druidess · Envoy of the Eldeen Confederacy · Level Unknown · Alive at last record**

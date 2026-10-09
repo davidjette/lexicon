@@ -56,7 +56,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/undermountain.webp
   alt: "Undermountain"
-  caption: "AI image of a ruined underground town of roofless stone buildings beside a river in a cavern, hung with webs where giant spiders nest."
+  caption: "Lexical rendering of a ruined underground town of roofless stone buildings beside a river in a cavern, hung with webs where giant spiders nest."
 ---
 
 **Dungeon · Far below [Waterdeep](/places/waterdeep/) · Halaster Blackcloak's collection · Levels 1 to 3**

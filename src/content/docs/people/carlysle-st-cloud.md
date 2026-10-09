@@ -57,7 +57,7 @@ wa:
 image:
   src: /images/generated/carlysle-st-cloud.webp
   alt: "The buried heart of Carlysle St. Cloud"
-  caption: "AI image of a heart of amber and bronze lying in turned earth beside a small tunnel burrowed into the ground."
+  caption: "Lexical rendering of a heart of amber and bronze lying in turned earth beside a small tunnel burrowed into the ground."
 ---
 
 **Human · Commander, Imperial garrison · Sword Coast Trading Company · Dead, then obliviated**

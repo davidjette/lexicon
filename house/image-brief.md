@@ -44,7 +44,7 @@ and watercolor), so describe the subject and say nothing about style.
 - The prompt is three to five sentences.
 
 Also write `alt` (a few words naming the subject, using the article's own name for it), `caption` (one
-sentence beginning "AI image of", describing plainly what the picture shows, without proper nouns the
+sentence beginning "Lexical rendering of", describing plainly what the picture shows, without proper nouns the
 picture cannot show) and `size` (`1024x1536` for an upright subject, `1536x1024` for a wide scene,
 `1024x1024` for an object).
 

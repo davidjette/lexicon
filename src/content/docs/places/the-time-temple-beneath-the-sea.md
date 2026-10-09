@@ -38,7 +38,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-time-temple-beneath-the-sea.webp
   alt: "The Time Temple Beneath the Sea"
-  caption: "AI image of a lone temple on the ocean floor, with a small robed figure casting a spell at its entrance and others sheltering inside."
+  caption: "Lexical rendering of a lone temple on the ocean floor, with a small robed figure casting a spell at its entrance and others sheltering inside."
 ---
 
 **Temple and permanent time vault · The bottom of the ocean, in the deep past · Kept by Schmagnus · Shelters the Moon's evacuees**

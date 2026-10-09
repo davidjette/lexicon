@@ -44,7 +44,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/albert-spear.webp
   alt: "Albert Spear"
-  caption: "AI image of a nobleman seen from behind, overlooking a town under construction with rail cars, airships and a new lake."
+  caption: "Lexical rendering of a nobleman seen from behind, overlooking a town under construction with rail cars, airships and a new lake."
 ---
 
 **Human · Nobleman · Head of city planning and development, the Imperial Council · Dead**

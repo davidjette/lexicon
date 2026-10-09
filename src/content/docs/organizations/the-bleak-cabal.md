@@ -31,7 +31,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-bleak-cabal.webp
   alt: "The Bleak Cabal at the Gatehouse"
-  caption: "AI image of healers tending rows of the sick in a hospital hall inside a great gatehouse."
+  caption: "Lexical rendering of healers tending rows of the sick in a hospital hall inside a great gatehouse."
 ---
 
 **Faction · [Sigil](/places/sigil/) · Hospital and welfare · Faction ally of the party**

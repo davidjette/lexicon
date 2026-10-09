@@ -64,7 +64,7 @@ sources:
 image:
   src: /images/generated/the-arielle.webp
   alt: "The Arielle"
-  caption: "AI image of a mastless wooden airship in flight, with an arching pillar over its deck, a ring of fire, a forecastle cannon and a glass dome beneath the hull."
+  caption: "Lexical rendering of a mastless wooden airship in flight, with an arching pillar over its deck, a ring of fire, a forecastle cannon and a glass dome beneath the hull."
 ---
 
 **Elemental airship · Gargantuan vehicle · Formerly the Company flagship *Excelsior* · Taken by Temple Holdings LLC · Crashed in the deep past**

@@ -49,7 +49,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/atlantis.webp
   alt: "Atlantis"
-  caption: "AI image of an undersea city with small swimming figures and a vast egg-shaped mass looming in the water beyond."
+  caption: "Lexical rendering of an undersea city with small swimming figures and a vast egg-shaped mass looming in the water beyond."
 ---
 
 **City · Under the sea, near the Egg · Seat of the Atlas kings · In two eras: ancient, and ruined**

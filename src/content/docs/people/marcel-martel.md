@@ -18,7 +18,7 @@ tags:
 image:
   src: /images/uploads/marcel-martel-onboard-the-terrasque-the-mu38hzlz.webp
   alt: Marcel Martel
-  caption: AI-generated portrait of a white-haired high elf holding an ornate sword aboard a starship.
+  caption: Lexical rendering, a portrait of a white-haired high elf holding an ornate sword aboard a starship.
 type: person
 kind: people
 fields:
@@ -41,16 +41,16 @@ sources:
 gallery:
   - src: /images/chat/2024-11-07-946582527292335.webp
     alt: Marcel Martel playing the violin
-    caption: AI-generated image of a white-haired elf playing a violin beside a red-haired elf woman with dark body markings.
+    caption: Lexical rendering of a white-haired elf playing a violin beside a red-haired elf woman with dark body markings.
   - src: /images/chat/2024-11-07-908021254627617.webp
     alt: Marcel Martel with a violin
-    caption: AI-generated image of a long-haired pale elf holding a violin in a candlelit hall.
+    caption: Lexical rendering of a long-haired pale elf holding a violin in a candlelit hall.
   - src: /images/chat/2024-11-07-856001230078575.webp
     alt: Marcel Martel and a cyborg elf
-    caption: AI-generated image of a white-haired elf in a suit beside a red-haired elf woman with a metal arm, on a balcony.
+    caption: Lexical rendering of a white-haired elf in a suit beside a red-haired elf woman with a metal arm, on a balcony.
   - src: /images/chat/2024-11-07-1477304602934416.webp
     alt: Marcel Martel fighting police
-    caption: AI-generated image of a white-haired elf in a long black coat raising a sword against police officers in a city street.
+    caption: Lexical rendering of a white-haired elf in a long black coat raising a sword against police officers in a city street.
   - src: /images/chat/2024-11-08-9546101088753119.webp
     alt: White-haired elf miniature
     caption: Hero Forge render of a white-haired elf in a dark buttoned coat holding a curved black blade.

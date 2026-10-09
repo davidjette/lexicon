@@ -47,7 +47,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/bud-holhertz.webp
   alt: "Bud Holhertz"
-  caption: "AI image of a sneering rogue with black hair and a scraggly mustache, holding a crossbow in the rain outside an inn at night."
+  caption: "Lexical rendering of a sneering rogue with black hair and a scraggly mustache, holding a crossbow in the rain outside an inn at night."
 ---
 
 **Species unknown · Rogue · Leader of the Holhertz Expedition · Alive**

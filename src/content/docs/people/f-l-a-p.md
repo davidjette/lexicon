@@ -38,16 +38,16 @@ gallery:
     caption: HeroForge miniatures of the armoured dwarf Barrias, a bugbear security chief with a rotary gun, the kneeling Hyperion Titara and the seated robot F.L.A.P.
   - src: /images/chat/2022-10-20-690748958724785.webp
     alt: F.L.A.P. concept, painted robot head
-    caption: An AI illustration of a white and red robot head with a single lens eye and headphones.
+    caption: Lexical rendering of a white and red robot head with a single lens eye and headphones.
   - src: /images/chat/2022-10-20-5539330462851294.webp
     alt: F.L.A.P. concept, rusted robot
-    caption: An AI image of a squat rusted orange robot with round eyes and a green display.
+    caption: Lexical rendering of a squat rusted orange robot with round eyes and a green display.
   - src: /images/chat/2022-10-20-491888819541870.webp
     alt: F.L.A.P. concept, visored robot
-    caption: An AI image of a battered metal robot head with a goggle visor against an orange wall.
+    caption: Lexical rendering of a battered metal robot head with a goggle visor against an orange wall.
   - src: /images/chat/2022-10-20-503521025000502.webp
     alt: F.L.A.P. concept, robot in a corridor
-    caption: An AI painting of a red-helmeted robot standing in a dim corridor lit by a yellow lamp.
+    caption: Lexical rendering, a painting of a red-helmeted robot standing in a dim corridor lit by a yellow lamp.
   - src: /images/documents/ssj-zanzibar-crew-roster.webp
     alt: Crew roster of the S.S.J. Zanzibar
     caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'

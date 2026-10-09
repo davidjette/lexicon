@@ -36,7 +36,7 @@ sources:
 image:
   src: /images/generated/doomspace.webp
   alt: "Doomspace and the Eye of Doom"
-  caption: "AI image of a spiraling vortex in place of a sun, seen across a field of asteroid-sized crystal shards with a small ship passing between them."
+  caption: "Lexical rendering of a spiraling vortex in place of a sun, seen across a field of asteroid-sized crystal shards with a small ship passing between them."
 ---
 
 **Star system · *Light of Xaryxis* · Crystal sphere shattered**

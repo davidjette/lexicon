@@ -33,7 +33,7 @@ sources:
 image:
   src: /images/generated/martins-final-cantos.webp
   alt: "Martin's Final Cantos"
-  caption: "AI image of a woman, seen from behind, striking at a vast leviathan in a forest to protect a prince beside her."
+  caption: "Lexical rendering of a woman, seen from behind, striking at a vast leviathan in a forest to protect a prince beside her."
 ---
 
 **Poem · Three books · By Martin · Shrike pilgrimage, Light of Xaryxis**

@@ -28,7 +28,7 @@ sources:
 image:
   src: /images/generated/razomel.webp
   alt: "Razomel rising from his bottle"
-  caption: "AI image of a huge genie formed of many ghostly figures rising from a small bottle before a lone onlooker and a crashed spacecraft."
+  caption: "Lexical rendering of a huge genie formed of many ghostly figures rising from a small bottle before a lone onlooker and a crashed spacecraft."
 ---
 
 **Genie · Patron of Irina Malikovsky and Carlos Vega · Light of Xaryxis · Free**

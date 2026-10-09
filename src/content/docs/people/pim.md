@@ -59,7 +59,7 @@ sources:
 image:
   src: /images/generated/pim.webp
   alt: "Pim studying an eldritch machine"
-  caption: "AI image of a scholar, seen from behind, recording the markings on an ancient machine by lamplight."
+  caption: "Lexical rendering of a scholar, seen from behind, recording the markings on an ancient machine by lamplight."
 ---
 
 **Player character (Patrick) · Contractor to Temple Holdings LLC · Scholar of the Infernal Machines · Remained in the deep past**

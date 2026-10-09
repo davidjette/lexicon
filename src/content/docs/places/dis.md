@@ -51,7 +51,7 @@ wa:
 image:
   src: /images/generated/dis.webp
   alt: "The City of Dis"
-  caption: "AI image of a dark city at the bottom of a vast rift in a shadowy land, with lines of pale souls walking down toward it."
+  caption: "Lexical rendering of a dark city at the bottom of a vast rift in a shadowy land, with lines of pale souls walking down toward it."
 ---
 
 **Planar city · At the pit of a great rift in the Shadowfell · Where the dead are judged**

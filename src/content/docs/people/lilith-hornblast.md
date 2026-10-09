@@ -44,7 +44,7 @@ wa:
 image:
   src: /images/generated/lilith-hornblast.webp
   alt: "Lilith Hornblast"
-  caption: "AI image of a warforged seen from behind, addressing a nearly empty parliamentary chamber."
+  caption: "Lexical rendering of a warforged seen from behind, addressing a nearly empty parliamentary chamber."
 ---
 
 **Warforged · 'Leader in exile' of the East Brelish Parliament · Imperial-aligned · Level Unknown · Alive at last record**

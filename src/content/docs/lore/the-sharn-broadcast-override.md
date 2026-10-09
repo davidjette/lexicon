@@ -40,7 +40,7 @@ wa:
 image:
   src: /images/generated/the-sharn-broadcast-override.webp
   alt: "The Sharn Broadcast Override"
-  caption: "AI image of a figure on a tower balcony at night holding a relay device while crystal screens light up across the city below."
+  caption: "Lexical rendering of a figure on a tower balcony at night holding a relay device while crystal screens light up across the city below."
 ---
 
 **Information operation · Sharn, city-wide ArcEye network · Sharn Ep 18**

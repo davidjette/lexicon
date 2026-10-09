@@ -51,7 +51,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/dragon-mountain.webp
   alt: "Dragon Mountain"
-  caption: "AI image of a great mountain rising from jungle, circled by hundreds of dragons, with an icy peak and a platinum temple on its slope."
+  caption: "Lexical rendering of a great mountain rising from jungle, circled by hundreds of dragons, with an icy peak and a platinum temple on its slope."
 ---
 
 **Mountain · The deep past · Seat of Tiamat · Site of the platinum temple**

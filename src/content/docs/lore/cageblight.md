@@ -32,7 +32,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/cageblight.webp
   alt: "Cageblight in the Hive Ward"
-  caption: "AI image of a slum street where grey-skinned plague sufferers cough among remedy hawkers and an overworked cleric."
+  caption: "Lexical rendering of a slum street where grey-skinned plague sufferers cough among remedy hawkers and an overworked cleric."
 ---
 
 **Disease · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Cured**

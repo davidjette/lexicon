@@ -34,7 +34,7 @@ wa:
 image:
   src: /images/generated/episode-8-aandb-pirate-joseph-roberts-dm-lamont.webp
   alt: "The party marooned by Pirate Joseph Roberts"
-  caption: "AI image of four figures stranded on a small island, watching a fleet of giant ships sail away."
+  caption: "Lexical rendering of four figures stranded on a small island, watching a fleet of giant ships sail away."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 8 (a&b) · DM: LaMont · Report filed 12 Sep 2020**

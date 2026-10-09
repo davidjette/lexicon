@@ -51,7 +51,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/despondos.webp
   alt: "Despondos, the maze dimension"
-  caption: "AI image of a vast labyrinth in a realm of shadow, with a procession of the souls of the dead walking through it."
+  caption: "Lexical rendering of a vast labyrinth in a realm of shadow, with a procession of the souls of the dead walking through it."
 ---
 
 **Maze dimension · The Shadowfell · Holds the City of Dis and the Penteract**

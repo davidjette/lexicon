@@ -42,7 +42,7 @@ wa:
 image:
   src: /images/generated/black-box.webp
   alt: "The two Black Boxes"
-  caption: "AI image of two small black mechanical cubes engraved with angular marks, one glowing faintly green and one damaged."
+  caption: "Lexical rendering of two small black mechanical cubes engraved with angular marks, one glowing faintly green and one damaged."
 ---
 
 **Mechanical · Necromantic focus · Potentially Unique · Two known · Both in the hands of Uriel Qualanthri**

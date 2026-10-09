@@ -42,7 +42,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/crestus-octopailus-weathervein.webp
   alt: "Count Crestus Octopailus Weathervein"
-  caption: "AI image of a cloaked nobleman, seen from behind, laying a sword on a stone sarcophagus in a tomb beneath a temple."
+  caption: "Lexical rendering of a cloaked nobleman, seen from behind, laying a sword on a stone sarcophagus in a tomb beneath a temple."
 ---
 
 **Weathervein lord · Count · Prince of the sea and master of the coves · Bound inside Blackrazor**

@@ -45,7 +45,7 @@ wa:
 image:
   src: /images/generated/ova-santoro.webp
   alt: "Ova Santoro"
-  caption: "AI image of a young woman in shadow, seen from behind in her apartment, as four armed rescuers appear in the doorway."
+  caption: "Lexical rendering of a young woman in shadow, seen from behind in her apartment, as four armed rescuers appear in the doorway."
 ---
 
 **Human · Newham · Level Unknown · Dead, and raised**

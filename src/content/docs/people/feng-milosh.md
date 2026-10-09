@@ -43,7 +43,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/feng-milosh.webp
   alt: "Feng Milosh"
-  caption: "AI image of a half-orc pirate, seen from behind, winning a single card at a game below decks."
+  caption: "Lexical rendering of a half-orc pirate, seen from behind, winning a single card at a game below decks."
 ---
 
 **Half-orc · Pirate of the [Blackfish](/history/the-blackfish-encounter/) · Holder of the FATES card · Murdered by [Jeremiah](/people/jeremiah/) · Dead**

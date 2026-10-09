@@ -39,7 +39,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/papa-diaz.webp
   alt: "Papa Diaz"
-  caption: "AI image of a burn-scarred priest seen from behind on a night shore, arms raised against dim figures rising from the sea."
+  caption: "Lexical rendering of a burn-scarred priest seen from behind on a night shore, arms raised against dim figures rising from the sea."
 ---
 
 **Priest · Brother · Saltmarsh**

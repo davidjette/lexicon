@@ -84,12 +84,12 @@ gallery:
     caption: Front and back views of a HeroForge miniature of Caprica, a woman with long dark blue hair in a black and purple uniform.
   - src: /images/chat/2022-10-20-617939336566338.webp
     alt: Caprica in command uniform
-    caption: AI-generated painting of a dark-haired astral elf woman with glowing facial markings and a gold insignia badge, against a starfield.
+    caption: Lexical rendering, a painting of a dark-haired astral elf woman with glowing facial markings and a gold insignia badge, against a starfield.
   - src: /images/chat/2022-10-20-831176091240609.webp
     alt: Caprica in astral form
-    caption: AI-generated painting of an elf woman with closed eyes and starlit skin holding a glowing blue orb.
+    caption: Lexical rendering, a painting of an elf woman with closed eyes and starlit skin holding a glowing blue orb.
   - src: /images/chat/2023-05-19-256147600332230.webp
-    alt: Caprica in AI portrait
+    alt: Caprica in lexical rendering
     caption: A painted portrait of a black-haired elf woman in a dark purple uniform holding a glowing orb, with a second orb and a ring of starlight behind her.
   - src: /images/chat/2022-05-01-742660036724756.webp
     alt: Caprica in starry form
@@ -101,11 +101,11 @@ gallery:
     alt: Caprica in starry form holding an orb
     caption: Caprica's miniature in her starry form, head tilted back, holding a violet orb.
   - src: /images/chat/2022-10-20-900989104618168.webp
-    alt: AI portrait of Caprica
-    caption: An AI painting of a pointed-eared woman with violet hair and green eyes against a starfield.
+    alt: Lexical rendering, a portrait of Caprica
+    caption: Lexical rendering, a painting of a pointed-eared woman with violet hair and green eyes against a starfield.
   - src: /images/chat/2022-10-20-419629636913935.webp
     alt: Caprica in her modified uniform
-    caption: AI painting of Caprica, an astral elf with short violet hair, in an open violet uniform, ringed by blue light against a starfield.
+    caption: Lexical rendering, a painting of Caprica, an astral elf with short violet hair, in an open violet uniform, ringed by blue light against a starfield.
   - src: /images/documents/ssj-zanzibar-crew-roster.webp
     alt: Crew roster of the S.S.J. Zanzibar
     caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'

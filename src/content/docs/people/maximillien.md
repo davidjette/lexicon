@@ -53,7 +53,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/maximillien.webp
   alt: "Maximillien"
-  caption: "AI image of a bearded courtier in plain dark clothing reading documents at a court of more richly dressed nobles."
+  caption: "Lexical rendering of a bearded courtier in plain dark clothing reading documents at a court of more richly dressed nobles."
 ---
 
 <small>For the Purple Dragon garrison in Waterdeep, see [Fort Maximillien](/places/fort-maximillien/).</small>

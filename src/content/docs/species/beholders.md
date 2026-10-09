@@ -41,7 +41,7 @@ sources:
 gallery:
 - src: /images/chat/2024-04-20-1173214100701452.webp
   alt: "Sandy and a beholder"
-  caption: "AI pulp-style painting of a blonde woman in a white uniform with a raygun, hiding behind a rock from a many-toothed beholder."
+  caption: "Lexical rendering, a pulp-style painting of a blonde woman in a white uniform with a raygun, hiding behind a rock from a many-toothed beholder."
 - src: /images/chat/2024-04-20-1623324135152206.webp
   alt: "Astral Command poster with beholder"
   caption: "Retro poster reading \"Join Astral Command\", showing a woman in white shaking hands with a green officer under a giant floating eye."
@@ -56,7 +56,7 @@ gallery:
   caption: "A retro poster reading \"Starweaver says Join Astral Command\" shows a blonde woman in a blue uniform in a hall beneath a giant beholder."
 - src: /images/chat/2024-04-20-886329843261236.webp
   alt: "Sandy fleeing a beholder"
-  caption: "AI pulp-style painting of a blonde woman in a white uniform and a man in a gold uniform, both armed, fleeing a many-eyed beholder."
+  caption: "Lexical rendering, a pulp-style painting of a blonde woman in a white uniform and a man in a gold uniform, both armed, fleeing a many-eyed beholder."
 - src: /images/chat/2024-05-07-1212000486632222.webp
   alt: "Beholder over an assembly poster"
   caption: "A retro poster reading \"Join Astral Command\" shows a woman in a white gown beside a huge beholder floating above an assembly."

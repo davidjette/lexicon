@@ -57,7 +57,7 @@ sources:
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 gallery:
   - src: /images/chat/2023-05-26-956668448741629.webp
-    alt: Buttsack in AI portrait
+    alt: Buttsack in lexical rendering
     caption: A painted portrait of a bear-like humanoid in a green and yellow tunic holding a knife.
   - src: /images/chat/2024-07-12-507101031668050.webp
     alt: Buttsack monk miniature
@@ -67,13 +67,13 @@ gallery:
     caption: A HeroForge miniature of a lion-like humanoid in a brown and olive uniform holding a curved blade.
   - src: /images/chat/2022-10-20-495800955894703.webp
     alt: Buttsack option as a miniature
-    caption: AI-generated image of a furred, ape-faced figure in armour holding a pistol, styled as a painted miniature.
+    caption: Lexical rendering of a furred, ape-faced figure in armour holding a pistol, styled as a painted miniature.
   - src: /images/chat/2022-10-20-511601944190103.webp
     alt: Buttsack option in comic style
-    caption: AI-generated comic illustration of a grey-furred creature in a black and yellow uniform.
+    caption: Lexical rendering, a comic illustration of a grey-furred creature in a black and yellow uniform.
   - src: /images/chat/2022-10-20-907143730267496.webp
     alt: Buttsack option as a sketch
-    caption: AI-generated greyscale drawing of a furred creature with pointed ears in armour.
+    caption: Lexical rendering, a greyscale drawing of a furred creature with pointed ears in armour.
   - src: /images/chat/2024-07-12-1145558900284603.webp
     alt: Buttsack as a monk
     caption: A cartoon of a grey-furred, bearded creature in brown monk's robes before a round golden window.

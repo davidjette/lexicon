@@ -44,7 +44,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-rising-dawn.webp
   alt: "Recruits of the Rising Dawn"
-  caption: "AI image of three kobold recruits advancing cautiously through a stone dungeon corridor."
+  caption: "Lexical rendering of three kobold recruits advancing cautiously through a stone dungeon corridor."
 ---
 
 **Order · Oerth · Foes of the sahuagin and the Scarlet Brotherhood**

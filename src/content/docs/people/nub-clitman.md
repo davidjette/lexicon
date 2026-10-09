@@ -35,7 +35,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/nub-clitman.webp
   alt: "Nub Clitman runs in on the party's ship"
-  caption: "AI image of a figure seen from behind bursting into a ship's cabin where the crew look up from their work, a clock on the wall showing nine."
+  caption: "Lexical rendering of a figure seen from behind bursting into a ship's cabin where the crew look up from their work, a clock on the wall showing nine."
 ---
 
 **Person · [Arc IV, The Infernal Machines](/history/arc-iv-the-infernal-machines/) · Dead**

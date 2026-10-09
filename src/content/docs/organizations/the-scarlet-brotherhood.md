@@ -52,7 +52,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-scarlet-brotherhood.webp
   alt: "The Scarlet Brotherhood"
-  caption: "AI image of hooded assassins closing in on a small band of adventurers in a torchlit tomb."
+  caption: "Lexical rendering of hooded assassins closing in on a small band of adventurers in a torchlit tomb."
 ---
 
 **Secret society of assassins · Saltmarsh, Oerth · Enemies of Neptune's Rejects · Every named member killed**

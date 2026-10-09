@@ -35,7 +35,7 @@ sources:
 image:
   src: /images/generated/tralfamadore-iii.webp
   alt: "Northspire on Tralfamadore III"
-  caption: "AI image of a small old-fashioned seaside village with a galleon resting in the water at its docks."
+  caption: "Lexical rendering of a small old-fashioned seaside village with a galleon resting in the water at its docks."
 ---
 
 **Planet · Trafalmadorespace · *Light of Xaryxis* · Unsettled**

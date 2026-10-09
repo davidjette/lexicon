@@ -40,7 +40,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/zeal.webp
   alt: "Zeal, the flying capital of Netheril"
-  caption: "AI image of a flying city crowded with armies, rising above the clouds toward the edge of space."
+  caption: "Lexical rendering of a flying city crowded with armies, rising above the clouds toward the edge of space."
 ---
 
 **Flying city · Capital of Netheril · St. Cloud's base in the Time of Troubles**

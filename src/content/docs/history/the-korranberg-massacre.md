@@ -42,7 +42,7 @@ wa:
 image:
   src: /images/generated/the-korranberg-massacre.webp
   alt: "The chalk drawing at the Korranberg Foundry"
-  caption: "AI image of a child's chalk drawing of a bell and dwarves covering their ears, on the wall of an abandoned underground cistern."
+  caption: "Lexical rendering of a child's chalk drawing of a bell and dwarves covering their ears, on the wall of an abandoned underground cistern."
 ---
 
 **Genocide · The Korranberg Foundry, beneath the Korramont · Three years ago, the same year Sharn fell**

@@ -37,7 +37,7 @@ wa:
 image:
   src: /images/generated/the-deeptempura-clan.webp
   alt: "Smiths of the Deeptempura clan at the forge"
-  caption: "AI image of deep-dwarf smiths hammering glowing ore into paper-thin layers in a forge hall inside a mountain, with a great bell behind them."
+  caption: "Lexical rendering of deep-dwarf smiths hammering glowing ore into paper-thin layers in a forge hall inside a mountain, with a great bell behind them."
 ---
 
 **Duergar (deep dwarves) - forge-clan of the Korramont - all but extinct**

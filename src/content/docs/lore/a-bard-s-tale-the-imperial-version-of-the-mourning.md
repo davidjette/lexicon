@@ -38,7 +38,7 @@ wa:
 image:
   src: /images/generated/a-bard-s-tale-the-imperial-version-of-the-mourning.webp
   alt: "A Bard's Tale: the Imperial version of the Mourning"
-  caption: "AI image of the scene the pageant tells: a figure on a mountaintop beside a great eagle, flanked by thirteen, raising a greatsword as the clouds part on a crimson sun above a battle."
+  caption: "Lexical rendering of the scene the pageant tells: a figure on a mountaintop beside a great eagle, flanked by thirteen, raising a greatsword as the clouds part on a crimson sun above a battle."
 ---
 
 **Imperial pageant piece · Performed across Khorvaire · Attributed to Hamilton Connor and his acting troupe**

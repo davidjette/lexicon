@@ -46,7 +46,7 @@ wa:
 image:
   src: /images/generated/lady-glow.webp
   alt: "Lady Glow"
-  caption: "AI image of a hooded woman in chains standing on a stone platform in a great marble throne room."
+  caption: "Lexical rendering of a hooded woman in chains standing on a stone platform in a great marble throne room."
 ---
 
 **Singer and entertainer · Rebel agent · Level Unknown · Dead, and standing**

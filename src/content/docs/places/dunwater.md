@@ -44,7 +44,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/dunwater.webp
   alt: "Dunwater"
-  caption: "AI image of a small party led by a kobold walking peacefully into a stronghold crowded with lizardfolk."
+  caption: "Lexical rendering of a small party led by a kobold walking peacefully into a stronghold crowded with lizardfolk."
 ---
 
 **Place · Lizardfolk stronghold · Oerth · Ruled by Queen Okathent**

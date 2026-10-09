@@ -50,7 +50,7 @@ wa:
 image:
   src: /images/generated/the-three-brothers.webp
   alt: "The Three Brothers"
-  caption: "AI image of three merchant brothers around a bonfire of burning books, one reaching for a single black book that did not burn."
+  caption: "Lexical rendering of three merchant brothers around a bonfire of burning books, one reaching for a single black book that did not burn."
 ---
 
 **Fairy tale · Told across Faerûn · True**

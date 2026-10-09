@@ -51,7 +51,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/morgana-la-fay.webp
   alt: "Morgana La Fay at the Solstice rite"
-  caption: "AI image of a hooded woman seen from behind, one of five cloaked figures standing in a ring around a great oak beside a brook on a winter night."
+  caption: "Lexical rendering of a hooded woman seen from behind, one of five cloaked figures standing in a ring around a great oak beside a brook on a winter night."
 ---
 
 **Half sister of Arthur Els · Mother of Mordred · Time of Troubles · Reformed**

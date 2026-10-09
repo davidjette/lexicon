@@ -71,7 +71,7 @@ wa:
 image:
   src: /images/generated/arc-viii-end-of-the-infanta.webp
   alt: "The last battle of Arc VIII, End of the Infanta"
-  caption: "AI image of a small airship flying toward a colossal winged and tentacled god inside a dark, warped cavern."
+  caption: "Lexical rendering of a small airship flying toward a colossal winged and tentacled god inside a dark, warped cavern."
 ---
 
 **Campaign Arc (finale) · Temple Holdings LLC, Arc VIII · Inside the Egg, where all Times converge · Complete**

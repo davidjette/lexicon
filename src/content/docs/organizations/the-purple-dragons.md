@@ -49,7 +49,7 @@ wa:
 image:
   src: /images/generated/the-purple-dragons.webp
   alt: "The Purple Dragons"
-  caption: "AI image of a disciplined column of cavalry in violet-plumed helms riding with mages across desert dunes."
+  caption: "Lexical rendering of a disciplined column of cavalry in violet-plumed helms riding with mages across desert dunes."
 gallery:
 - src: /images/gallery/dmh-western-vanguard-heraldry.webp
   alt: "The banner of the Western Vanguard"

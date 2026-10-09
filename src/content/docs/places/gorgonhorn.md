@@ -38,7 +38,7 @@ wa:
 image:
   src: /images/generated/gorgonhorn.webp
   alt: "Gorgonhorn"
-  caption: "AI image of refugees leaving a mountain tunnel at night and walking through a pass toward a distant stronghold on the edge of a wasteland."
+  caption: "Lexical rendering of refugees leaving a mountain tunnel at night and walking through a pass toward a distant stronghold on the edge of a wasteland."
 ---
 
 **Settlement · western border of the Mournlands · Warforged stronghold · Standing**

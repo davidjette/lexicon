@@ -72,7 +72,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/heyu.webp
   alt: "Heyu"
-  caption: "AI image of a small, cloaked crow-folk wizard investigating an alley with a glowing moonstone floating at her hand."
+  caption: "Lexical rendering of a small, cloaked crow-folk wizard investigating an alley with a glowing moonstone floating at her hand."
 gallery:
 - src: /images/gallery/dmh-heyu-and-feng.webp
   alt: "Heyu at tea"

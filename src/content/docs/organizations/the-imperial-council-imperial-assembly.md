@@ -35,7 +35,7 @@ wa:
 image:
   src: /images/generated/the-imperial-council-imperial-assembly.webp
   alt: "The Imperial Council / Imperial Assembly"
-  caption: "AI image of thirteen silhouetted figures seated at a council table in a tower chamber above a city."
+  caption: "Lexical rendering of thirteen silhouetted figures seated at a council table in a tower chamber above a city."
 ---
 
 **Type:** Government, Leadership · **Seat:** the Imperial Assembly tower, Korth · **Membership:** thirteen

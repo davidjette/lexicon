@@ -43,7 +43,7 @@ wa:
 image:
   src: /images/generated/yewdress-olba.webp
   alt: "Yewdress Olba overseeing the Valenar rail system"
-  caption: "AI image of an elven knight and commander, seen from behind, watching labourers lay a railway line."
+  caption: "Lexical rendering of an elven knight and commander, seen from behind, watching labourers lay a railway line."
 ---
 
 **Valenar elf · Knight and commander · Director of the Valenar rail system · Level Unknown · Alive at last record**

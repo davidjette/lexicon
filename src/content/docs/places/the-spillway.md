@@ -50,7 +50,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-spillway.webp
   alt: "The Spillway"
-  caption: "AI image of a sewer chamber where black tendrils spread from a dark portal in a floor drain while small figures watch from the entrance."
+  caption: "Lexical rendering of a sewer chamber where black tendrils spread from a dark portal in a floor drain while small figures watch from the entrance."
 ---
 
 **Dungeon · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Rotten William's hideout · Plague portal closed**

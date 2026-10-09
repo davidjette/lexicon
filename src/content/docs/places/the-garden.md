@@ -34,7 +34,7 @@ sources:
 image:
   src: /images/generated/the-garden.webp
   alt: "The Garden"
-  caption: "AI image of a vast enclosed facility full of green growth on a frozen world, with small silver-eyed figures walking before it."
+  caption: "Lexical rendering of a vast enclosed facility full of green growth on a frozen world, with small silver-eyed figures walking before it."
 ---
 
 **Breeding and cloning facility · Lathander VII, Clusterspace · [The Company](/organizations/nimbus-corp/) · Active**

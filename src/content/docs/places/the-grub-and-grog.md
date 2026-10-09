@@ -38,7 +38,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-grub-and-grog.webp
   alt: "The Grub + Grog"
-  caption: "AI image of a three-story stone-and-timber inn on a rainy night, lit on every floor but the dark top one, with a crow weathervane on the roof."
+  caption: "Lexical rendering of a three-story stone-and-timber inn on a rainy night, lit on every floor but the dark top one, with a crow weathervane on the roof."
 ---
 
 **Inn and tavern · Sea Ward, [Waterdeep](/places/waterdeep/) · Proprietor Ard Farkle · Allied with the Harpers · Standing**

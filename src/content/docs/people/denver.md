@@ -45,7 +45,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/denver.webp
   alt: "Denver, a red faerie dragon"
-  caption: "AI image of a tiny red faerie dragon hovering in the trees and watching a distant camp below."
+  caption: "Lexical rendering of a tiny red faerie dragon hovering in the trees and watching a distant camp below."
 ---
 
 **Red faerie dragon · Animal companion of Yoshi · Champion of the Evening Star · Status unknown**

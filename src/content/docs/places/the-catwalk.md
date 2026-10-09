@@ -32,7 +32,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-catwalk.webp
   alt: "The Catwalk"
-  caption: "AI image of a ramshackle walkway of planks, ropes and scaffolding strung between two tall slum buildings, with cat-folk keeping watch along it."
+  caption: "Lexical rendering of a ramshackle walkway of planks, ropes and scaffolding strung between two tall slum buildings, with cat-folk keeping watch along it."
 ---
 
 **Thieves' guild headquarters · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Sharegrave's gang · Standing**

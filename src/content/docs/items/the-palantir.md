@@ -57,7 +57,7 @@ wa:
 image:
   src: /images/generated/the-palantir.webp
   alt: "The Palantir"
-  caption: "AI image of a scrying stone with a faint distant scene visible in its depths."
+  caption: "Lexical rendering of a scrying stone with a faint distant scene visible in its depths."
 ---
 
 **Item · Scrying stone · One of a kind · Present at several points in its own history**

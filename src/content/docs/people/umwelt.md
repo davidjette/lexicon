@@ -42,25 +42,25 @@ gallery:
     caption: Hero Forge render of an antlered robot with a staff and a scaled cloak, standing on a grassy base.
   - src: /images/chat/2024-11-08-897888795779843.webp
     alt: '"We till your land" Weld poster'
-    caption: AI-generated propaganda poster of an antlered warforged with an axe above wheat fields, captioned "We till your land".
+    caption: Lexical rendering, a propaganda poster of an antlered warforged with an axe above wheat fields, captioned "We till your land".
   - src: /images/chat/2024-11-08-1491592068218460.webp
     alt: '"We make your bread" Weld poster'
-    caption: AI-generated propaganda poster of an antlered robot holding a hammer, captioned "We make your bread".
+    caption: Lexical rendering, a propaganda poster of an antlered robot holding a hammer, captioned "We make your bread".
   - src: /images/chat/2024-11-08-1269904067510702.webp
     alt: '"We raise your beasts" Weld poster'
-    caption: AI-generated propaganda poster of an antlered robot with a scythe among sheep, captioned "We raise your beasts".
+    caption: Lexical rendering, a propaganda poster of an antlered robot with a scythe among sheep, captioned "We raise your beasts".
   - src: /images/chat/2024-11-08-1264451574872805.webp
     alt: '"We will not submit" Weld poster'
-    caption: AI-generated propaganda poster of an antlered robot with a hammer leading a crowd of robots, captioned "We will not submit".
+    caption: Lexical rendering, a propaganda poster of an antlered robot with a hammer leading a crowd of robots, captioned "We will not submit".
   - src: /images/chat/2024-11-08-1032592105289481.webp
     alt: '"We build your starships" Weld poster'
-    caption: AI-generated propaganda poster of an antlered robot welding at a bench beneath starships, captioned "We build your starships".
+    caption: Lexical rendering, a propaganda poster of an antlered robot welding at a bench beneath starships, captioned "We build your starships".
   - src: /images/chat/2024-11-08-1735564290613658.webp
     alt: '"We shovel your shit" Weld poster'
-    caption: AI-generated propaganda poster of an antlered robot with a shovel in an industrial room, captioned "We shovel your shit".
+    caption: Lexical rendering, a propaganda poster of an antlered robot with a shovel in an industrial room, captioned "We shovel your shit".
   - src: /images/chat/2024-11-10-796847185868014.webp
     alt: '"We shovel your shit" Weld poster, wide'
-    caption: Wide AI-generated propaganda poster of an antlered robot with a shovel, captioned "We shovel your shit" and "Warforged android revolutionary".
+    caption: Wide lexical rendering, a propaganda poster of an antlered robot with a shovel, captioned "We shovel your shit" and "Warforged android revolutionary".
 ---
 
 **Warforged · Barbarian 5 (Path of the Wild Heart) · Crew, Istus Cruiser · Children of the Red Eye · Status unknown**

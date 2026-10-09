@@ -34,7 +34,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-grindhouse.webp
   alt: "The Grindhouse"
-  caption: "AI image of a smoky factory fighting pit with steel gears in its walls and a great cage hanging over the arena floor."
+  caption: "Lexical rendering of a smoky factory fighting pit with steel gears in its walls and a great cage hanging over the arena floor."
 ---
 
 **Fighting arena · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Operated by Scam Likely · Standing**

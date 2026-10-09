@@ -38,7 +38,7 @@ published: '2026-09-28'
 image:
   src: /images/generated/skullport.webp
   alt: "Skullport and Skull Island"
-  caption: "AI image of an underground port town on three levels, joined by a stone bridge to an island fortress circled by burning skulls."
+  caption: "Lexical rendering of an underground port town on three levels, joined by a stone bridge to an island fortress circled by burning skulls."
 ---
 
 **Underground port city · Beneath [Waterdeep](/places/waterdeep/), on the river Sargauth · Held by the Xanathar Guild · The party's rendezvous**

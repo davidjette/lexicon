@@ -46,7 +46,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/sir-merriam-wordsworker.webp
   alt: "Sir Merriam Wordsworker"
-  caption: "AI image of a blond, bearded knight in armor questioning a prisoner across a desk that holds a rapier, a quill and a deck of cards."
+  caption: "Lexical rendering of a blond, bearded knight in armor questioning a prisoner across a desk that holds a rapier, a quill and a deck of cards."
 ---
 
 **Species unknown · Paladin, Purple Dragon Knight · [Purple Dragons](/organizations/the-purple-dragons/) · Alive**

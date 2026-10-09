@@ -47,7 +47,7 @@ sources:
 image:
   src: /images/generated/the-children-of-the-red-eye.webp
   alt: "The Children of the Red Eye"
-  caption: "AI image of robots and constructs gathered in secret around one who reads aloud from a small red book."
+  caption: "Lexical rendering of robots and constructs gathered in secret around one who reads aloud from a small red book."
 ---
 
 **Robot resistance · Devotees of the Red Eye · *The Starsong Awakens* · Active**

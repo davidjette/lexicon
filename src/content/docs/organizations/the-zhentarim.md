@@ -42,7 +42,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-zhentarim.webp
   alt: "The Zhentarim holding court in a saloon"
-  caption: "AI image of mercenaries and thieves in a saloon, with a woman seen from behind taking payment at a corner table."
+  caption: "Lexical rendering of mercenaries and thieves in a saloon, with a woman seen from behind taking payment at a corner table."
 ---
 
 **Black market network · Founded by Manshoon · Allies of Temple Holdings LLC · Active in the Dead Man's Hand era**

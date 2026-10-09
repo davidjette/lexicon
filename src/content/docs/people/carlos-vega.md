@@ -21,8 +21,8 @@ tags:
   - the Chingwa
 image:
   src: /images/uploads/carlos-vega-onboard-the-ssj-zanzibar-lig-mu390z64.webp
-  alt: AI portrait of Carlos Vega
-  caption: An AI painting of a man with long dark hair and a moustache in gold-trimmed armour.
+  alt: Lexical rendering, a portrait of Carlos Vega
+  caption: Lexical rendering, a painting of a man with long dark hair and a moustache in gold-trimmed armour.
 type: person
 kind: people
 icon: fa-wine-bottle
@@ -80,7 +80,7 @@ gallery:
     caption: A 3D miniature render of a man with swept-back hair in a black and navy cadet uniform holding a purple crystal dagger.
   - src: /images/chat/2024-04-20-2076791709362668.webp
     alt: Carlos as an eldritch fire djinn
-    caption: AI painting of a shirtless man with tentacles on his shoulders, seated and holding a lamp with a tall flame.
+    caption: Lexical rendering, a painting of a shirtless man with tentacles on his shoulders, seated and holding a lamp with a tall flame.
   - src: /images/chat/2024-04-20-958874712564034.webp
     alt: Carlos the djinn on his throne
     caption: Illustration of a moustached man in red seated on a purple armchair between two bowls of flame.
@@ -91,11 +91,11 @@ gallery:
     alt: Nico's crew line-up
     caption: HeroForge miniatures of the stowaway with twin daggers, Se7en with a tankard, and Caprica in her normal and starry forms.
   - src: /images/chat/2022-10-20-484506666957140.webp
-    alt: AI portrait of Carlos Vega with a horn
-    caption: An AI painting of a moustached man with blue eyes and a single curved horn.
+    alt: Lexical rendering, a portrait of Carlos Vega with a horn
+    caption: Lexical rendering, a painting of a moustached man with blue eyes and a single curved horn.
   - src: /images/chat/2022-10-20-3245955278977492.webp
-    alt: AI portrait of Carlos Vega in a scarf
-    caption: An AI painting of a bearded man with dark hair, a brown scarf and a gold harness.
+    alt: Lexical rendering, a portrait of Carlos Vega in a scarf
+    caption: Lexical rendering, a painting of a bearded man with dark hair, a brown scarf and a gold harness.
   - src: /images/documents/ssj-zanzibar-crew-roster.webp
     alt: Crew roster of the S.S.J. Zanzibar
     caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'

@@ -49,7 +49,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/xiii.webp
   alt: "XIII at the dragonchess board"
-  caption: "AI image of a towering mechanical being with a blank mask face playing a board game against a much smaller figure seen from behind."
+  caption: "Lexical rendering of a towering mechanical being with a blank mask face playing a board game against a much smaller figure seen from behind."
 ---
 
 **Warforged · Survivor of House Nimbus · Played by LaMont · In the deep past**

@@ -70,7 +70,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/punis.webp
   alt: "Punis"
-  caption: "AI image of a town in the hills with a crumbling ancient temple and a large ten-sided building standing just outside it."
+  caption: "Lexical rendering of a town in the hills with a crumbling ancient temple and a large ten-sided building standing just outside it."
 ---
 
 **Principality · Beside the Kingdom of Cormyr · Seat of King Zanzibar · Drowned in the Starfall era**

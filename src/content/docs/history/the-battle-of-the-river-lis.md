@@ -51,7 +51,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-battle-of-the-river-lis.webp
   alt: "The Battle of the River Lis"
-  caption: "AI image of enormous armored war machines fording a river toward an army of soldiers, wizards and angels on the forested bank."
+  caption: "Lexical rendering of enormous armored war machines fording a river toward an army of soldiers, wizards and angels on the forested bank."
 ---
 
 **Mass battle · The River Lis, eastern border of Cormanthor · Temple Holdings LLC, between Arc IV and Arc V**

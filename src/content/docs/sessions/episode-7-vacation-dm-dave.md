@@ -31,7 +31,7 @@ wa:
 image:
   src: /images/generated/episode-7-vacation-dm-dave.webp
   alt: "The rebel base in the Dragon Watch Isles burning"
-  caption: "AI image of an island base burning at night while a small boat laden with treasure pulls away across the water."
+  caption: "Lexical rendering of an island base burning at night while a small boat laden with treasure pulls away across the water."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 7 · DM: Dave · Report filed 12 Sep 2020**

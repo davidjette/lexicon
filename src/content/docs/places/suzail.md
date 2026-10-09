@@ -44,7 +44,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/suzail.webp
   alt: "Suzail, the City of Song"
-  caption: "AI image of an old port city hung with festival lights and garlands in winter, a palace at its centre and warships crowding its docks."
+  caption: "Lexical rendering of an old port city hung with festival lights and garlands in winter, a palace at its centre and warships crowding its docks."
 ---
 
 **City · Capital of the Kingdom of Cormyr · Seat of the Purple Dragons · Later the imperial capital of the Cormyrean Empire**

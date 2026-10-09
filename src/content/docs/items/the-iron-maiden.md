@@ -33,7 +33,7 @@ wa:
 image:
   src: /images/generated/the-iron-maiden.webp
   alt: "The Iron Maiden on the High Court balcony"
-  caption: "AI image of a tall closed iron execution cabinet standing on a balcony above a panel of judges in a courtroom."
+  caption: "Lexical rendering of a tall closed iron execution cabinet standing on a balcony above a panel of judges in a courtroom."
 ---
 
 **Item · Instrument of capital punishment · Installed on the balcony of [the High Court](/places/the-high-court/), Ministry of Law, [Korth](/places/korth/)**

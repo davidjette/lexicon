@@ -39,7 +39,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-diamond-ritual.webp
   alt: "The diamond left by the Diamond Ritual"
-  caption: "AI image of a woman seen from behind with a glowing diamond embedded at the base of her skull."
+  caption: "Lexical rendering of a woman seen from behind with a glowing diamond embedded at the base of her skull."
 ---
 
 **Resurrection rite · Performed on Uriel Qualanthri and on Eden · Sharn**

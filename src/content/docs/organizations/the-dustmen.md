@@ -32,7 +32,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-dustmen.webp
   alt: "The Dustmen at work in the Mortuary"
-  caption: "AI image of hooded attendants receiving shrouded bodies at the foot of a long chute in a mortuary hall while a bookkeeper works at a ledger."
+  caption: "Lexical rendering of hooded attendants receiving shrouded bodies at the foot of a long chute in a mortuary hall while a bookkeeper works at a ledger."
 ---
 
 **Faction · [Sigil](/places/sigil/) · Keepers of [the Mortuary](/places/the-mortuary/)**

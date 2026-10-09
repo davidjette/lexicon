@@ -40,7 +40,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/pharod.webp
   alt: "Pharod in Ragpicker Square"
-  caption: "AI image of a man seen from behind watching hunched, rag-clad figures crowd around carts in a slum square."
+  caption: "Lexical rendering of a man seen from behind watching hunched, rag-clad figures crowd around carts in a slum square."
 ---
 
 **Collector · Master of the corpse-pickers · Ragpicker Square, [Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Alive**

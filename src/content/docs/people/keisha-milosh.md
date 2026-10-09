@@ -44,7 +44,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/keisha-milosh.webp
   alt: "Keisha Milosh"
-  caption: "AI image of a deckhand seen from behind, hauling a rope on the deck of a sailing ship at sea."
+  caption: "Lexical rendering of a deckhand seen from behind, hauling a rope on the deck of a sailing ship at sea."
 ---
 
 **Deckhand of the Blackfish · Wanted pirate · Daughter of Feng Milosh**

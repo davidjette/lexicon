@@ -48,7 +48,7 @@ wa:
 image:
   src: /images/generated/rlyeh.webp
   alt: "The sunken city of R'lyeh"
-  caption: "AI image of a sunken city of impossible angles on the dark ocean floor, built around an enormous dormant vessel."
+  caption: "Lexical rendering of a sunken city of impossible angles on the dark ocean floor, built around an enormous dormant vessel."
 ---
 
 **Sunken city · Ancient Aboleth capital · Built around the dormant Zoth and his ship**

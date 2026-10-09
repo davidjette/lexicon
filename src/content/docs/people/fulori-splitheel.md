@@ -50,7 +50,7 @@ wa:
 image:
   src: /images/generated/fulori-splitheel.webp
   alt: "Fulori Splitheel"
-  caption: "AI image of a dark-haired, blue-eyed halfling crouched at the edge of a wood, watching a farmstead in the distance."
+  caption: "Lexical rendering of a dark-haired, blue-eyed halfling crouched at the edge of a wood, watching a farmstead in the distance."
 ---
 
 **Lightfoot Halfling · Rogue · Temple Holdings LLC · Chaotic Good · Alive**

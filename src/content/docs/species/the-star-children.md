@@ -35,7 +35,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-star-children.webp
   alt: "The city of the star children"
-  caption: "AI image of a sunken city of faintly glowing green stone with impossible angles and indistinct forms in its shadows."
+  caption: "Lexical rendering of a sunken city of faintly glowing green stone with impossible angles and indistinct forms in its shadows."
 ---
 
 **Spawn of Cthulhu · Builders of Ry'leh in Revan's vision · Depicted throughout the city**

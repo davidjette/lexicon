@@ -43,7 +43,7 @@ wa:
 image:
   src: /images/generated/christopher-santoro.webp
   alt: "Christopher Santoro"
-  caption: "AI image of a casino floor manager seen from behind, watching over the gaming tables with a stack of gold coins at his hand."
+  caption: "Lexical rendering of a casino floor manager seen from behind, watching over the gaming tables with a stack of gold coins at his hand."
 ---
 
 **Species unrecorded · Pit Boss and floor manager, the Clamshell Casino · Newham · Level Unknown · Alive at last record**

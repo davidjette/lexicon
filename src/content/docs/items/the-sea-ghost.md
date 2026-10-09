@@ -41,7 +41,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-sea-ghost.webp
   alt: "The Sea Ghost"
-  caption: "AI image of a sailing ship under sail, with two harpoon ballistas and a small catapult mounted on its deck."
+  caption: "Lexical rendering of a sailing ship under sail, with two harpoon ballistas and a small catapult mounted on its deck."
 ---
 
 **Vehicle · Sailing ship · Neptune's Rejects · Captain Gabriella Hellwood**

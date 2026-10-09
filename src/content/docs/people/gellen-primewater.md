@@ -49,7 +49,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/gellen-primewater.webp
   alt: "Gellen Primewater"
-  caption: "AI image of a smuggler, seen from behind, making a deal at a table in a dim harbour bar."
+  caption: "Lexical rendering of a smuggler, seen from behind, making a deal at a table in a dim harbour bar."
 ---
 
 **Smuggler · Saltmarsh, Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Father-in-law of Gabriella Hellwood**

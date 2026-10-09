@@ -45,7 +45,7 @@ wa:
 image:
   src: /images/generated/the-fall-of-newham.webp
   alt: "The fall of Newham"
-  caption: "AI image of a lakeside city collapsing under an otherworldly explosion while a column of refugees flees along a road."
+  caption: "Lexical rendering of a lakeside city collapsing under an otherworldly explosion while a column of refugees flees along a road."
 ---
 
 **Urban rising and arcane catastrophe · Newham City · Before the Sharn arc**

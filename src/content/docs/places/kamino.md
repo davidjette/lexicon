@@ -33,7 +33,7 @@ sources:
 image:
   src: /images/generated/kamino.webp
   alt: "Kamino"
-  caption: "AI image of towers rising from an endless ocean, with small craft landing at a central hub."
+  caption: "Lexical rendering of towers rising from an endless ocean, with small craft landing at a central hub."
 ---
 
 **Planet · Cloning corporation · *[Light of Xaryxis](/history/light-of-xaryxis/)* · Active**

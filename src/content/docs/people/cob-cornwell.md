@@ -54,7 +54,7 @@ gallery:
 image:
   src: /images/generated/cob-cornwell.webp
   alt: "Cob Cornwell"
-  caption: "AI image of a silhouetted industrialist, seen from behind, overlooking a large oil extraction works with a rail line beyond."
+  caption: "Lexical rendering of a silhouetted industrialist, seen from behind, overlooking a large oil extraction works with a rail line beyond."
 ---
 
 **Species unrecorded · Brelish oilman and industrialist · Richest man in Khorvaire · Level Unknown · Dead — killed, his fortune left to BioTec; a message later came in his name**

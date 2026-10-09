@@ -35,7 +35,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/rexium.webp
   alt: "A Rexium sales meeting"
-  caption: "AI image of a small crowd wearing golden pyramid charms facing a speaker on a stage in a converted barn."
+  caption: "Lexical rendering of a small crowd wearing golden pyramid charms facing a speaker on a stage in a converted barn."
 ---
 
 **Sales guild · [Waterdeep](/places/waterdeep/) · Leader [Rex Bedsheets](/people/rex-bedsheets/) · Active**

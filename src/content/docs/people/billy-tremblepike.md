@@ -44,7 +44,7 @@ wa:
 image:
   src: /images/generated/billy-tremblepike.webp
   alt: "Billy Tremblepike"
-  caption: "AI image of an official seen from behind in a theatre box, watching an orchestra play below."
+  caption: "Lexical rendering of an official seen from behind in a theatre box, watching an orchestra play below."
 ---
 
 **Transportation Secretary of the metro Karnathi state · Lifelong bureaucrat · Level Unknown · Alive at last record**

@@ -42,7 +42,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/vivica-amphibiana-weathervein.webp
   alt: "The ghost of Vivica Amphibiana Weathervein"
-  caption: "AI image of the ghost of a weeping girl hovering over a stone casket in a dark tomb, watched by a figure in shadow."
+  caption: "Lexical rendering of the ghost of a weeping girl hovering over a stone casket in a dark tomb, watched by a figure in shadow."
 ---
 
 **Ghost · Daughter of Count Crestus Weathervein · Princess of Clouds · House Weathervein · The Weathervein Tomb, Saltmarsh**

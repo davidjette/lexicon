@@ -34,7 +34,7 @@ gallery:
 image:
   src: /images/generated/city-of-knives-pt-ii.webp
   alt: "The Grand Theatre in City of Knives, Pt II"
-  caption: "AI image of a conductor on a theatre stage as his orchestra turns into demonic apparitions and the audience in evening dress recoils."
+  caption: "Lexical rendering of a conductor on a theatre stage as his orchestra turns into demonic apparitions and the audience in evening dress recoils."
 ---
 
 **Report · Campaign 1, The Unforeseen · The Grand Theatre, Sharn · Report date 15 Oct 2020**

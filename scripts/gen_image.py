@@ -6,13 +6,13 @@ picture before it reaches the site.
       Options: -n 3 (several candidates), --size 1536x1024 | 1024x1536 | 1024x1024, --model, --no-style.
 
   python scripts/gen_image.py place drafts/images/arana-<time>-1.png --alt "Arana aboard an airship" \
-      --caption "AI image of a woman at the rail of an airship above a city of towers."
+      --caption "Lexical rendering of a woman at the rail of an airship above a city of towers."
       Writes public/images/generated/arana.webp (at most 1600px wide) and adds it to the article: as the
       lead image when the article has none, otherwise to its gallery (--gallery forces the gallery).
 
 The house style in house/image-style.txt is appended to every prompt. The key is OPENAI_IMAGE_GEN_API_KEY
 in .env (Dave's personal OpenAI organization). Each placement is logged to the private canon/image-log.md.
-Captions follow the chat-photo convention and begin "AI image of ...".
+Captions follow the chat-photo convention and begin "Lexical rendering of ...".
 
 scripts/image_queue.py uses the functions here to work through many articles at once.
 """
@@ -160,7 +160,7 @@ if __name__ == '__main__':
     pl = sub.add_parser('place')
     pl.add_argument('draft', help='a .png from drafts/images')
     pl.add_argument('--alt', required=True)
-    pl.add_argument('--caption', required=True, help='begin with "AI image of ..."')
+    pl.add_argument('--caption', required=True, help='begin with "Lexical rendering of ..."')
     pl.add_argument('--gallery', action='store_true', help='add to the gallery even when the article has no lead image')
     pl.add_argument('--name', help='file name without extension; defaults to the article slug')
     pl.set_defaults(run=place)

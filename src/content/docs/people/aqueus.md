@@ -51,7 +51,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/aqueus.webp
   alt: "Aqueus, the Drowned Seraph"
-  caption: "AI image of a figure pinned by a sword to a faintly glowing tomb on the sea floor, with divers descending toward it."
+  caption: "Lexical rendering of a figure pinned by a sword to a faintly glowing tomb on the sea floor, with divers descending toward it."
 ---
 
 **Seraph · Seraph of Poseidon · High priest · Protector of Saltmarsh · Dead, desecrated**

@@ -51,7 +51,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-von-lampes.webp
   alt: "The Von Lampe twins"
-  caption: "AI image of blond twins in finery lounging on a velvet couch, touching wine glasses with bored, sneering faces."
+  caption: "Lexical rendering of blond twins in finery lounging on a velvet couch, touching wine glasses with bored, sneering faces."
 ---
 
 **Noble family · [Waterdeep](/places/waterdeep/) · Owners of [Tiffany House](/places/tiffany-house/) · Pactbound to [Asmodeus](/people/asmodeus/) · Voided**

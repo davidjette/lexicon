@@ -32,7 +32,7 @@ sources:
 image:
   src: /images/generated/tillamook.webp
   alt: "Tillamook"
-  caption: "AI image of a frightened young dwarf soldier with a sparse beard, clutching a gun on a desolate battlefield."
+  caption: "Lexical rendering of a frightened young dwarf soldier with a sparse beard, clutching a gun on a desolate battlefield."
 ---
 
 **Dwarf · Private, Astral Command; prophet of the Beholder great mother · Status unknown**

@@ -48,7 +48,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-suzail-coup.webp
   alt: "The Suzail Coup"
-  caption: "AI image of a snail on the floor of a smoke-filled throne room, watched by a group of adventurers."
+  caption: "Lexical rendering of a snail on the floor of a smoke-filled throne room, watched by a group of adventurers."
 ---
 
 **Coup d'état · Castle Danzig, [Suzail](/places/suzail/) · Candlenights Eve, Age of the Infanta**

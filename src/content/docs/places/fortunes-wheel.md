@@ -39,7 +39,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/fortunes-wheel.webp
   alt: "The casino floor of Fortune's Wheel"
-  caption: "AI image of a crowded casino floor with gambling tables, a troupe of clowns performing and an acrobat overhead."
+  caption: "Lexical rendering of a crowded casino floor with gambling tables, a troupe of clowns performing and an acrobat overhead."
 gallery:
 - src: /images/gallery/dmh-fortunes-wheel-floor.webp
   alt: "The floor of Fortune's Wheel"

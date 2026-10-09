@@ -47,7 +47,7 @@ wa:
 image:
   src: /images/generated/mara-mageblood.webp
   alt: "Mara Mageblood"
-  caption: "AI image of an elf seen from behind, writing in a journal at a small camp among enormous pipes, a wedding dress folded beside her."
+  caption: "Lexical rendering of an elf seen from behind, writing in a journal at a small camp among enormous pipes, a wedding dress folded beside her."
 ---
 
 **Elf · Scholar-explorer · unaffiliated · Dead, lost beneath Snowy Mountain**

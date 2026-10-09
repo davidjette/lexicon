@@ -33,7 +33,7 @@ wa:
 image:
   src: /images/generated/crownsgate-lightning-rail-terminal.webp
   alt: "The Crownsgate Lightning Rail Terminal"
-  caption: "AI image of a rail coach hovering over glowing stones beside a crowded concourse, with soldiers on patrol and a city of towers behind."
+  caption: "Lexical rendering of a rail coach hovering over glowing stones beside a crowded concourse, with soldiers on patrol and a city of towers behind."
 ---
 
 **Rail terminal · Directly outside Sharn's city gates · Operational, under Imperial patrol**

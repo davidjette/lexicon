@@ -55,7 +55,7 @@ gallery:
     caption: A green-skinned githzerai in a tech suit kneels in prayer on a surfboard riding a wave near a city beach.
   - src: /images/chat/2024-11-15-3734074270149838.webp
     alt: Kol Hanaka as a cyber ninja
-    caption: AI-generated image of a black robot ninja with green eyes drawing a katana in a rainy alley.
+    caption: Lexical rendering of a black robot ninja with green eyes drawing a katana in a rainy alley.
   - src: /images/chat/2024-11-22-1304599774318991.webp
     alt: Kol Hanaka miniature
     caption: Miniature render of a kneeling black robot ninja with a katana and a staff on its back.

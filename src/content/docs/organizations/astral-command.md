@@ -71,7 +71,7 @@ gallery:
   caption: "A questionnaire answer telling how Astral Command recovered Dr. Glup from the windshield of the SSJ Holden Tudix and made him a medical officer."
 - src: /images/chat/2022-10-30-5817489191649252.webp
   alt: "The crew, group portrait"
-  caption: "AI-generated group illustration of eight armoured and robed spacefarers against a purple starfield, with a ship above them."
+  caption: "Lexical rendering, a group illustration of eight armoured and robed spacefarers against a purple starfield, with a ship above them."
 - src: /images/chat/2022-11-13-849323466512279.webp
   alt: "SSJ Zanzibar organisation chart"
   caption: "Organisation chart of the SSJ Zanzibar's officers under Captain James X. Smallberries, colour-coded by Astral Command corps, with a list of ranks."

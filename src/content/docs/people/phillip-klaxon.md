@@ -45,7 +45,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/phillip-klaxon.webp
   alt: "Phillip Klaxon"
-  caption: "AI image of a middle-aged nobleman fuming in a room of a fortress."
+  caption: "Lexical rendering of a middle-aged nobleman fuming in a room of a fortress."
 ---
 
 **Minor noble · [Waterdeep](/places/waterdeep/) · Father of [Darius Klaxon](/people/darius-klaxon/)**

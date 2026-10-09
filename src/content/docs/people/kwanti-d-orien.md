@@ -48,7 +48,7 @@ wa:
 image:
   src: /images/generated/kwanti-d-orien.webp
   alt: "Kwanti d'Orien"
-  caption: "AI image of a man seen from behind on a high platform, looking out over a vast network of rail lines and engines."
+  caption: "Lexical rendering of a man seen from behind on a high platform, looking out over a vast network of rail lines and engines."
 ---
 
 **Human · Leader of House Orien · Dragonmarked house of transportation · Level Unknown · Dead, found impaled in lower Sharn**

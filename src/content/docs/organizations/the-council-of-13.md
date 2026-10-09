@@ -41,7 +41,7 @@ gallery:
 image:
   src: /images/generated/the-council-of-13.webp
   alt: "The Council of 13"
-  caption: "AI image of four masked, fully armored honor guards walking through an imperial hall, one keeping close to a small boy."
+  caption: "Lexical rendering of four masked, fully armored honor guards walking through an imperial hall, one keeping close to a small boy."
 ---
 
 **Type:** Government, Leadership · **Membership:** thirteen · **Status:** Dead, and still on duty

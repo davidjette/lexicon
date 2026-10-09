@@ -38,7 +38,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/rodriel.webp
   alt: "Rodriel"
-  caption: "AI image of a knight in sea-stained armor and a tattered cloak, seen from behind with a weathered longsword."
+  caption: "Lexical rendering of a knight in sea-stained armor and a tattered cloak, seen from behind with a weathered longsword."
 ---
 
 **Paladin of Neptune · Former ruffian · Knight errant · Alive**

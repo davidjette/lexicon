@@ -48,7 +48,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/the-soul-syphon.webp
   alt: "The Soul Syphon"
-  caption: "AI image of a room-sized machine: a giant block with a downward-pointing focal point suspended above an empty, bed-like stone slab."
+  caption: "Lexical rendering of a room-sized machine: a giant block with a downward-pointing focal point suspended above an empty, bed-like stone slab."
 ---
 
 **Infernal Machine · Traps and transfers souls · Many exist · Destroyed at the end of the Infanta**

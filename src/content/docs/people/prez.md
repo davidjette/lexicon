@@ -37,7 +37,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/prez.webp
   alt: "Prez"
-  caption: "AI image of a hooded tomcat thief, seen from behind, climbing to a second-story window in a slum."
+  caption: "Lexical rendering of a hooded tomcat thief, seen from behind, climbing to a second-story window in a slum."
 ---
 
 **Tomcat · Rogue · [Sharegrave](/people/sharegrave/)'s gang · [Sigil](/places/sigil/) · Alive**

@@ -43,7 +43,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/brother-montegue.webp
   alt: "Brother Montegue"
-  caption: "AI image of a young orc priest offering a cube-shaped puzzle box in a cathedral of geometric patterns, with masked nuns behind him."
+  caption: "Lexical rendering of a young orc priest offering a cube-shaped puzzle box in a cathedral of geometric patterns, with masked nuns behind him."
 gallery:
 - src: /images/gallery/dmh-heyu-and-feng.webp
   alt: "The Factol at tea with Heyu"

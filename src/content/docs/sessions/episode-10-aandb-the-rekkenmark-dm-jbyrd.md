@@ -43,7 +43,7 @@ wa:
 image:
   src: /images/generated/episode-10-aandb-the-rekkenmark-dm-jbyrd.webp
   alt: "The standoff beneath the Rekkenmark"
-  caption: "AI image of small silhouetted figures facing off in an underground laboratory of machines around a great glass vat of yellow liquid."
+  caption: "Lexical rendering of small silhouetted figures facing off in an underground laboratory of machines around a great glass vat of yellow liquid."
 ---
 
 **The Unforeseen · Campaign 1 · Episode 10 (a&b) · DM: JByrd · Report filed 12 Sep 2020**

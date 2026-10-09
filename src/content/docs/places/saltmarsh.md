@@ -81,7 +81,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/saltmarsh.webp
   alt: "Saltmarsh"
-  caption: "AI image of a seaside town with ships in its harbor and a sea god's temple with a fountain in its courtyard."
+  caption: "Lexical rendering of a seaside town with ships in its harbor and a sea god's temple with a fountain in its courtyard."
 ---
 
 **Place · Seaside town · Oerth · Temple of Neptune desecrated**

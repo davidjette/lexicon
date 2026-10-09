@@ -34,7 +34,7 @@ sources:
 image:
   src: /images/generated/hardby.webp
   alt: "Hardby"
-  caption: "AI image of a wary frontier town on a sea coast, with a sailing ship at the quay and small groups of nervous townsfolk in the street."
+  caption: "Lexical rendering of a wary frontier town on a sea coast, with a sailing ship at the quay and small groups of nervous townsfolk in the street."
 ---
 
 **Frontier town · Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/)**

@@ -43,7 +43,7 @@ wa:
 image:
   src: /images/generated/torralyn-d-sivis.webp
   alt: "Torralyn d'Sivis at the Notaries Guild"
-  caption: "AI image of an old gnome seen from behind, sealing a contract at a desk in a hall of clerks and documents."
+  caption: "Lexical rendering of an old gnome seen from behind, sealing a contract at a desk in a hall of clerks and documents."
 ---
 
 **Gnome · Arcanist and warrior · House Sivis (banned) · Notaries Guild · Level Unknown · Alive**

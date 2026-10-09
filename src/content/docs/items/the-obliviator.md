@@ -77,7 +77,7 @@ wa:
 image:
   src: /images/generated/the-obliviator.webp
   alt: "The containment sphere of the Obliviator"
-  caption: "AI image of four figures at a brass railing near the top of a vast metal sphere, looking down into a swirling void as a small object falls toward it."
+  caption: "Lexical rendering of four figures at a brass railing near the top of a vast metal sphere, looking down into a swirling void as a small object falls toward it."
 ---
 
 The **Obliviator** is the motionless orb suspended in the great bronze ring above [Motherstone](/places/motherstone/) — one of the **[Infernal Machines](/lore/the-infernal-machines/)**, "much older than human civilization," and the source of every absence the world calls [Oblivia](/lore/the-oblivia/). The Infernal Machines are parts of Zoth's craft and of [R'lyeh](/places/rlyeh/), scattered over deep time, and their origin is told in many competing ways.

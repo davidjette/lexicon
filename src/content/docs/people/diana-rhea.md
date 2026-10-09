@@ -36,7 +36,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/diana-rhea.webp
   alt: "Diana Rhea at work in the Gatehouse"
-  caption: "AI image of a hooded healer, seen from behind, pressing a poultice to a grey-skinned patient's arm in a lantern-lit ward of cots."
+  caption: "Lexical rendering of a hooded healer, seen from behind, pressing a poultice to a grey-skinned patient's arm in a lantern-lit ward of cots."
 ---
 
 **Cleric of [Brightmantle](/people/brightmantle/) · Knowledge domain · Healer of the [Bleak Cabal](/organizations/the-bleak-cabal/) · The Gatehouse, [Sigil](/places/sigil/) · Alive**

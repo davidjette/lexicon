@@ -57,7 +57,7 @@ wa:
 image:
   src: /images/generated/the-leviathan.webp
   alt: "The Leviathan"
-  caption: "AI image of a colossal winged and tentacled being asleep, folded inside a cracked shell deep underground."
+  caption: "Lexical rendering of a colossal winged and tentacled being asleep, folded inside a cracked shell deep underground."
 ---
 
 **Colossal aberration (Great Old One) · Cthulhu · Mammon · In his long slumber, folded within [the Egg](/places/the-egg/)**

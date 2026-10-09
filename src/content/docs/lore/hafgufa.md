@@ -46,7 +46,7 @@ published: '2026-09-14'
 image:
   src: /images/generated/hafgufa.webp
   alt: "Hafgufa"
-  caption: "AI image of an immense maw opening in the deep sea beneath the small hull of a sailing ship."
+  caption: "Lexical rendering of an immense maw opening in the deep sea beneath the small hull of a sailing ship."
 ---
 
 **Warlock patron · The Fathomless · The deepest ocean in the Abyss · Patron of Gabriella Hellwood**

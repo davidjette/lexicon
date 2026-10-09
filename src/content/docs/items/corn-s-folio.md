@@ -43,7 +43,7 @@ wa:
 image:
   src: /images/generated/corn-s-folio.webp
   alt: "Corn's folio"
-  caption: "AI image of an open lead-bound book whose pages are covered with drawings of bells, a hammer, horns and waveforms."
+  caption: "Lexical rendering of an open lead-bound book whose pages are covered with drawings of bells, a hammer, horns and waveforms."
 ---
 
 **Document · Lead-bound · Deeptempura clan shorthand · A Tome of Understanding · In the hands of the Inevitables · Partially translated**

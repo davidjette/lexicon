@@ -32,7 +32,7 @@ wa:
 image:
   src: /images/generated/the-altar-of-the-guardian.webp
   alt: "The Altar of the Guardian"
-  caption: "AI image of a stone tomb monument beside an army barracks inside a city's walls, with soldiers crossing a broad bridge toward it."
+  caption: "Lexical rendering of a stone tomb monument beside an army barracks inside a city's walls, with soldiers crossing a broad bridge toward it."
 ---
 
 **Landmark · Southwest [Korth](/places/korth/), beside the barracks · Tomb of [Varyn Crona](/people/varyn-crona/) · Former seat of [the Crimson Sun](/organizations/the-crimson-sun/)**
