@@ -221,10 +221,10 @@ Richard wanted Esther to see the ArcEye memory immediately, but [Jessica Grimple
 
 The trio therefore continued toward the [Forge of Binding](/places/the-forge-of-binding/) while Richard prepared to remove Calcifer from the city. He believed that if the sword's hold could be broken first, Esther might finally be able to confront the truth about Uriel without Varyn's influence shaping her response.
 
+When Esther later returned home from the Forge, Richard immediately noticed a difference. She seemed calm, slightly lost and almost as though she had just awakened from a long sleep. She told him she had been searching for something for years and had finally found it beneath Sharn; when she did, it felt as though a veil had been lifted. Richard described her as the most content he had seen her in years.
+
 ![Esther and Richard - Morning after the Forge of Binding.png](/images/uploads/esther-and-richard-morning-after-the-for-mv0q7sdw.webp)
 *Esther and Richard, the Morning after the Forge of Binding*
-
-When Esther later returned home from the Forge, Richard immediately noticed a difference. She seemed calm, slightly lost and almost as though she had just awakened from a long sleep. She told him she had been searching for something for years and had finally found it beneath Sharn; when she did, it felt as though a veil had been lifted. Richard described her as the most content he had seen her in years.
 
 ---
 
