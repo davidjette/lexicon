@@ -62,6 +62,11 @@ there is none and otherwise to the gallery. `house/image-style.txt` holds the ho
 every prompt. The key is `OPENAI_IMAGE_GEN_API_KEY` in `.env`. Placements are logged to the private
 `canon/image-log.md`.
 
+`scripts/image_queue.py` finds the articles that have no lead image and prepares prompts for them:
+`npm run image:queue -- scan` sizes the job and writes `drafts/image-queue.json` (gitignored),
+`prompts --limit 20` has Claude write a prompt, alt text and caption for each under
+`house/image-brief.md`, and `show` prints them for review.
+
 ## Front page
 
 Article of the day (the same for everyone each day; 600+ words, not a session, not sealed), section
