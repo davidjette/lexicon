@@ -219,7 +219,11 @@ def ask_claude(text):
     if data.get('is_error'):
         raise RuntimeError(str(data.get('result'))[:300])
     m = re.search(r'\{.*\}', data.get('result') or '', re.S)
-    return json.loads(m.group(0)), data.get('total_cost_usd') or 0, data.get('usage') or {}
+    try:
+        out = json.loads(m.group(0))
+    except ValueError:  # a trailing comma before a closing brace is the usual slip
+        out = json.loads(re.sub(r',(\s*[}\]])', r'\1', m.group(0)))
+    return out, data.get('total_cost_usd') or 0, data.get('usage') or {}
 
 
 def review(a):
