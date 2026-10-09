@@ -146,7 +146,7 @@ Varyn was not merely a dutiful servant of the imperial state. He spoke openly to
 Varyn was particularly secretive about the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/), the Assembly itself and Kaius III. He openly disliked [Hayman Maw](/people/hayman-maw/), but rarely explained what he knew about the other members of the [Council of 13](/organizations/the-council-of-13/). Later evidence connects him to a long-term plan involving the Crimson Sun, Kaius III and the forces surrounding [the Mourning](/history/the-mourning/).
 
 ![Esther at 18 and Vayrn Crona outside Great Imperial Palace and the Throne of Bones - Imperial City of Korth -  Seat of the Emperor’s power.png](/images/uploads/esther-at-18-and-vayrn-crona-outside-gre-mv0oahdm.webp)
-*Esther at 18 and Vayrn Crona outside Great Imperial Palace and the Throne of Bones - Imperial City of Korth -  Seat of the Emperor’s power*
+*Esther at 18 and Vayrn Crona outside Great Imperial Palace and the Throne of Bones - Imperial City of Korth*
 
 Later revelations connected the [Council of 13](/organizations/the-council-of-13/) to a larger conspiracy against Varyn and his long-term plan. The Council eventually turned against him, but the reasons for their opposition remain unclear. In the years that followed, [the Unforeseen](/organizations/the-unforeseen/) unknowingly set parts of that plan back into motion. The precise nature of Varyn's design, the extent of [Kaius III's](/people/emperor-caius-iii/) involvement, and whether the two ultimately sought the same outcome remain uncertain. Varyn's ambitions are clear, but the full design behind them has yet to be reconstructed.
 
