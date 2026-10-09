@@ -98,15 +98,22 @@ E'noch was said to serve the [Sovereign Host](/organizations/the-sovereign-host/
 
 The first part of the rite took place in Korth. E'noch told the court that the ritual had begun but needed to be sealed somewhere possessing "ancient fire," leading him to take Varyn to [Sharn](/places/sharn/). Deep beneath the city, within the ancient ruins of the [Dhakaani Empire](/history/the-dhakaani-empire/), they reached the [Forge of Binding](/places/the-forge-of-binding/), where the ritual was completed and Varyn became the Eternal Guardian of Prince Kaius.
 
+
+![Vayrn Crona - Eternal Guardian and Enoch performing the Eternal Guardian Ritual with newborn Kaius I.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-p-mv0g0eo5.webp)
+*Vayrn Crona - Eternal Guardian and Enoch performing the Eternal Guardian Ritual with newborn Kaius I*
+
 The Forge was much older than the Empire. The Dhakaani had constructed it to bind elemental forces into steel, creating weapons that reflected the identity of the warrior who forged them. Varyn used the ancient mechanism for its intended purpose, but E'noch layered a second ritual over the elemental forging. Later research by [Renn Tal](/people/renn-tal/) identified this additional rite as forbidden **Vol magic**, associated with [House Vol](/organizations/house-vol/) and capable of calling, binding and unbinding souls. As the elemental forces were fused into Varyn's blade, E'noch anchored Varyn's blood and soul to the weapon.
 
 Varyn understood what he was entering into. He knowingly and willingly accepted the pact, including the binding of his blood and soul to the Crimson Sun. His participation was deliberate, not the result of deception or ignorance about the nature of the arrangement. What remains uncertain is what he hoped to accomplish through the pact, what E'noch ultimately intended and whether the consequences unfolded exactly as Varyn expected.
+
+![Vayrn Crona - Eternal Guardian and Enoch at the Forge of Binding.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-a-mv0g20ow.webp)
+*Vayrn Crona - Eternal Guardian and Enoch at the Forge of Binding*
 
 The result was more than a ceremonial title or an ordinary oath of service. Varyn became bound to a duty that would endure across centuries, protecting the Kaius dynasty through the reigns of **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)**. The Empire remembered his service as an extraordinary example of loyalty, but the deeper purpose of the binding remains unresolved. Why Varyn agreed to E'noch's larger plan, why Vol magic was required and how the pact related to Varyn's bloodline are among the central mysteries of his life.
 
 ## The Crimson Sun
 
-At the [Forge of Binding](/places/the-forge-of-binding/), Varyn forged the blade that would become the defining weapon of his life: **the Crimson Sun**. The ancient Dhakaani mechanism bound eight elemental forces into the weapon: fire, frost, lightning, radiance, shadow, acid, thunder and force. E'noch's additional ritual transformed the blade into both Varyn's weapon and the vessel in which his soul would remain after death.
+At the [Forge of Binding](/places/the-forge-of-binding/), Varyn forged the blade that would become the defining weapon of his life: [the Crimson Sun](https://davidjette.github.io/lexicon/items/the-bright-dawn-crimson-sun-unbound/). The ancient Dhakaani mechanism bound eight elemental forces into the weapon: fire, frost, lightning, radiance, shadow, acid, thunder and force. E'noch's additional ritual transformed the blade into both Varyn's weapon and the vessel in which his soul would remain after death.
 
 Varyn eventually became Master of [the Crimson Sun](/organizations/the-crimson-sun/), the Empire's elite secret service based in Korth. Its ranks—Apprentices, Inquisitors, High Inquisitors and Masters—served as spies, rebel hunters and covert agents entrusted with missions too sensitive for ordinary Imperial forces. The position of Master also carried a seat on [the Imperial Council](/organizations/the-imperial-council-imperial-assembly/) by right, placing Varyn among the thirteen heads of government. He was simultaneously the Emperor's sworn protector, commander of the secret service and a powerful political figure.
 
