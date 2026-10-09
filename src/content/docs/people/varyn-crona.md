@@ -80,7 +80,7 @@ gallery:
 
 ---
 
-**Varyn Crona** was an Aereni High Elf paladin who served the [Kaius](/people/emperor-caius-iii/) dynasty for centuries as the **Eternal Guardian**, Master of [the Crimson Sun](/organizations/the-crimson-sun/) and one of the thirteen heads of the Empire. Chosen by the mysterious priest E'noch Qualanthri at the birth of Prince Kaius, Varyn knowingly and willingly entered a pact that bound his blood and soul to the weapon that would become the Crimson Sun.
+**Varyn Crona** was an Aereni High Elf paladin who served the [Kaius](/people/emperor-caius-iii/) dynasty for centuries as the **Eternal Guardian**, Master of [the Crimson Sun](/organizations/the-crimson-sun/) and one of the thirteen heads of the Empire. Chosen by the mysterious priest [E'noch Qualanthri](https://davidjette.github.io/lexicon/people/priest-e-noch-qualanthri/) at the birth of Prince Kaius, Varyn knowingly and willingly entered a pact that bound his blood and soul to the weapon that would become [the Crimson Sun](https://davidjette.github.io/lexicon/items/the-bright-dawn-crimson-sun-unbound/).
 
 At **563 years old**, Varyn was one of the oldest and most influential figures in Khorvaire when he was assassinated outside Fairhaven. He had served three emperors, commanded an elite imperial secret service and participated in a long-term plan whose full purpose remains uncertain.
 
