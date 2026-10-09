@@ -206,6 +206,9 @@ The sword was not merely an heirloom or a reminder of her former master. It was 
 
 Eventually, [Renn Tal](/people/renn-tal/) reconstructed enough of the surviving history surrounding Varyn, E'noch Qualanthri and the Forge of Binding for the chamber to be found again. [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) entered the Forge with Renn, where Eric performed the Rite of Recall and caused Varyn's **Echo** to manifest.
 
+![Infernal Throne_ Chains and Bluefire.png](/images/uploads/infernal-throne-chains-and-bluefire-mv0h94p2.webp)
+*Gemma, Eric and Dario facing Vayrn Crona's Echo - The Forge of Binding*
+
 The Echo did not behave like an ordinary ghost. Rather than engaging with those present, it repeated fragments of Varyn's final moments. Its final words were:
 
 > **"...we'll bleed the sun, eternal night.  
@@ -214,6 +217,9 @@ The Echo did not behave like an ordinary ghost. Rather than engaging with those 
 > E'noch... Qualanthri... my brother..."**
 
 The Echo then shattered into red-black light, and the Forge of Binding went dark. These words are the closest surviving thing to a direct statement from Varyn after his death and among the most important clues to his larger plan. The references to blood, a reigning bloodline and the bleeding sun suggest that the pact was connected to something beyond his duty to the Kaius dynasty, but they do not reveal the full purpose of the arrangement or establish precisely what Varyn intended to accomplish.
+
+![Sharn Ep 15 — The Forge of Binding - Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona shatering.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-mv0iw360.webp)
+*Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona shatering*
 
 ## E'noch Qualanthri
 
@@ -224,9 +230,6 @@ Centuries later, Varyn's Echo called E'noch **"my brother."** The word may be li
 ## The Forge of Binding
 
 The [Forge of Binding](/places/the-forge-of-binding/) stands at both ends of Varyn's story. It was where E'noch helped establish the Eternal Guardian pact, where Varyn forged the Crimson Sun and where his blood and soul were anchored to the weapon. Centuries later, it was also where Varyn's Echo was recalled and destroyed. The same place that helped define Varyn's existence ultimately became the place where his remaining Echo disappeared.
-
-![Infernal Throne_ Chains and Bluefire.png](/images/uploads/infernal-throne-chains-and-bluefire-mv0h94p2.webp)
-*Gemma, Eric and Dario facing Vayrn Crona's Echo - The Forge of Binding*
 
 Esther reached the Forge only moments after the Echo had shattered. She did not witness its summoning; she entered the chamber after the event, as the Forge went dark. At the same moment, the red in the Crimson Sun drained away and crystallized. Esther could no longer hear or feel Varyn through the sword, and whatever connection had remained between them was gone.
 
