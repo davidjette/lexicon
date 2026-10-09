@@ -135,6 +135,9 @@ It did not remain merely useful for long.
 
 Richard and [Esther Crona](/people/esther-crona/) continued seeing one another during the years of [the Unforeseen](/organizations/the-unforeseen/). At first Richard understood the value of the relationship very clearly. Esther had access to Imperial operations, military information and people Richard could never have reached on his own, and his closeness to her allowed intelligence to pass quietly back to [Fulcrum](/organizations/fulcrum/).
 
+![Esther and Richard in Crona Manor - Korth.png](/images/uploads/esther-and-richard-in-crona-manor-korth-mv07oa6v.webp)
+*Esther and Richard in Crona Manor - Korth*
+
 Over time, however, Richard genuinely fell in love with her. Their meetings became courtship rather than simply access, and Esther appears to have trusted him more completely than almost anyone else in her life. Richard continued passing useful information to the rebellion, but he was no longer pretending to care about the woman giving it to him. For years he lived with both truths at once: Esther was one of the Empire's most dangerous agents, and she was also the woman he loved.
 
 Richard may have believed for a long time that nothing more would ever come of his double life. He could remain a restaurateur, stay close to Esther, pass what information he could to Fulcrum and keep those worlds from ever fully colliding. That belief survived their courtship, their marriage and much of their son's childhood. It would not survive Sharn.
