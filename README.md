@@ -1,4 +1,4 @@
-# The Lexicon
+﻿# The Lexicon
 
 The record of a long-running D&D continuity, published at **https://davidjette.github.io/lexicon/**.
 
@@ -62,10 +62,11 @@ there is none and otherwise to the gallery. `house/image-style.txt` holds the ho
 every prompt. The key is `OPENAI_IMAGE_GEN_API_KEY` in `.env`. Placements are logged to the private
 `canon/image-log.md`.
 
-`scripts/image_queue.py` finds the articles that have no lead image and prepares prompts for them:
-`npm run image:queue -- scan` sizes the job and writes `drafts/image-queue.json` (gitignored),
-`prompts --limit 20` has Claude write a prompt, alt text and caption for each under
-`house/image-brief.md`, and `show` prints them for review.
+`scripts/image_queue.py` reviews the articles that have no lead image. `npm run image:queue -- scan`
+sizes the job, matches each article against the captions and file names of images already on the site,
+and writes `drafts/image-queue.json` (gitignored). `review --limit 20` has Claude give each a verdict
+under `house/image-brief.md`: use an existing image, crop one, generate one (with a prompt, alt text
+and caption) or none. `show` prints the verdicts.
 
 ## Front page
 
