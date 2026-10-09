@@ -356,6 +356,8 @@ Digma then created the story that would keep them alive: [Faith](/people/faith/)
 
 [Jessica Grimpledink](/people/jessica-grimpledink/) and [Zero-One](/people/zero-one-fema-nolan/) were later told that Richard and Calcifer were safe at the farm. Almost everyone else was allowed to believe they were dead.
 
+At the time of *The Fall of Sharn*, the people who knew that Richard and Calcifer had survived and secretly left the city were [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/), [Sir Dario Argentino](/people/sir-dario-argentino/), [Zero-One](/people/zero-one-fema-nolan/), [Jessica Grimpledink](/people/jessica-grimpledink/), [Digma Beeve](/people/digma-beeve/), and [Lorian](/people/lorian/), who was present in the Zeir apartment when Richard and Calcifer were found and was brought into the confidence of their survival.
+
 Richard Blaze disappeared behind the same kind of cover that had protected him his entire adult life.
 
 This time, however, the cover was his own death.
@@ -369,8 +371,6 @@ Richard Blaze is officially dead. The Empire and the general public believe he a
 In reality, Richard and Calcifer survived and were teleported to Zilspar Farm. The farm was later destroyed during the dismantling of [Fulcrum](/organizations/fulcrum/), but neither Richard nor Calcifer was identified among the dead or captured.
 
 [Digma Beeve](/people/digma-beeve/) believed Richard would probably take Calcifer somewhere around [Leef](/places/leef/) and disappear completely, but this was never confirmed.
-
-At the time of *The Fall of Sharn*, the people who knew that Richard and Calcifer had survived and secretly left the city were [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/), [Sir Dario Argentino](/people/sir-dario-argentino/), [Zero-One](/people/zero-one-fema-nolan/), [Jessica Grimpledink](/people/jessica-grimpledink/), [Digma Beeve](/people/digma-beeve/), and [Lorian](/people/lorian/), who was present in the Zeir apartment when Richard and Calcifer were found and was brought into the confidence of their survival.
 
 Richard remains alive.
 
