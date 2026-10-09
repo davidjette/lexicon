@@ -35,6 +35,10 @@ fields:
 sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2985, IMG_3009, IMG_3071)
 published: '2026-09-14'
+image:
+  src: /images/gallery/dmh-bumpkin-countrymile.webp
+  alt: "Bumpkin Countrymile at the bar of Fortune's Wheel"
+  caption: "Bumpkin Countrymile slumps over his drink at the bar of Fortune's Wheel, between Nicollo and Maverick."
 ---
 
 **Human · Gambler · Guest at [Fortune's Wheel](/places/fortunes-wheel/), [Sigil](/places/sigil/)**

@@ -67,11 +67,16 @@ sources:
   - sources/sessions/dead-mans-hand-2026-09-26-summary.md
   - sources/dave/2026-09-28-dead-mans-hand-skullport.md
   - sources/dave/2026-10-08-tudyx-cube-spine.md
+  - Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-14'
 image:
   src: /images/generated/heyu.webp
   alt: "Heyu"
   caption: "AI image of a small, cloaked crow-folk wizard investigating an alley with a glowing moonstone floating at her hand."
+gallery:
+- src: /images/gallery/dmh-heyu-and-feng.webp
+  alt: "Heyu at tea"
+  caption: "Heyu sits at tea across a low table from a man in robes, a small puzzle box between them."
 ---
 
 **Kenku · Investigator wizard · Follower of Cypher · Private detective · Alive**
@@ -149,6 +154,25 @@ On [the Road to Skullport](/history/the-road-to-skullport/) she led the party ac
 ## The fatemark
 
 The cards of Heyu's [fatemark](/lore/fatemarks/), drawn from [the Deck of Many Things](/items/the-deck-of-many-things/), are Balance, Well, Tomb, Tower, Tree, Euryale, Celestial, Star, Temple, Ship and Fates. <small>(DM notes)</small>
+
+![Heyu's fate hand](/images/gallery/dmh-fate-hand-heyu.webp)
+*Heyu's fate hand, as laid out for the table.*
+
+The reading sets one card in each place of the spread: a home, a friend, a secret, a gift, a nemesis, a door, three trials, a guardian and a fate. <small>(Fate hands; tarot readings)</small>
+
+| Position | Card |
+|---|---|
+| Home | Balance |
+| Friend | Well |
+| Secret | Tree |
+| Gift | Tower |
+| Nemesis | Tomb |
+| Door | Euryale |
+| Trial 1 | Celestial (reversed) |
+| Trial 2 | Star (reversed) |
+| Trial 3 | Temple (reversed) |
+| Guardian | Ship |
+| Fate | Fates |
 
 **Magic:** Heyu can cast *summon beast* and *summon fey* without a spell slot once per long rest. <small>(JL, Oral Histories: The Inevitables, 2026-03-08)</small> The spells need a gilded trinket: "you gotta find a gilded trinket or mark one by melting some gold", and "You can melt gold in a very hot campfire". Of *Leomund's tiny hut*: "Leomunds very good for Undermountain". <small>(Dave, Oral Histories: The Inevitables, 2026-03-08)</small>
 

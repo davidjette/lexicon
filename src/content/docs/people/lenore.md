@@ -77,6 +77,7 @@ sources:
   - "Oral Histories: The Inevitables, 2026-02-28"
   - "Oral Histories: The Inevitables, 2026-03-08"
   - sources/sessions/dead-mans-hand-2026-09-26-summary.md
+  - Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-10'
 wa:
   slug: lenore-person
@@ -171,6 +172,29 @@ In the dark beneath the fort she fitted on the slinky black leather armour Heyu 
 The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character, and with him the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
 On [the Road to Skullport](/history/the-road-to-skullport/) Johnny clotheslined a fleeing drow of House Wendy's, and Lenore found the pressure plates of a trapped dwarven hall and walked the party around them. Asked when she was last paid, she said the Company pays her by direct deposit. <small>(session summary)</small>
+
+## The fatemark
+
+The cards of Lenore's [fatemark](/lore/fatemarks/) are drawn from [the Deck of Many Things](/items/the-deck-of-many-things/).
+
+![Lenore's fate hand](/images/gallery/dmh-fate-hand-lenore.webp)
+*Lenore's fate hand, as laid out for the table.*
+
+The reading sets one card in each place of the spread: a home, a friend, a secret, a gift, a nemesis, a door, three trials, a guardian and a fate. <small>(Fate hands; tarot readings)</small>
+
+| Position | Card |
+|---|---|
+| Home | Construct (reversed) |
+| Friend | Puzzle (Idiot) |
+| Secret | Flames (reversed) |
+| Gift | Comet |
+| Nemesis | Throne (reversed) |
+| Door | Moon |
+| Trial 1 | Key |
+| Trial 2 | Rogue (reversed) |
+| Trial 3 | Maze (reversed) |
+| Guardian | Knight |
+| Fate | Balance (reversed) |
 
 ## Right now
 

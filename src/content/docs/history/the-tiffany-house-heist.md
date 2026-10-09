@@ -77,9 +77,27 @@ On approach the party saw mounted knights in violet plumed helmets. Inside, they
 
 They also came away with three things: Darius does not want this; Phillip is using Varkus; and "Tiffany House's owners have been doomed to Hell." <small>(DM notes, session record)</small>
 
+![Heyu and Nicollo watch the gates of Tiffany House](/images/gallery/dmh-tiffany-house-gates.webp)
+*Heyu and Nicollo watch the gates of Tiffany House.*
+
+![General Varkus speaks against the Zanzibar](/images/gallery/dmh-tiffany-house-varkus-speech.webp)
+*General Varkus speaks against the Zanzibar.*
+
+![Phillip Klaxon tells Nicollo his plan, with Darius behind them](/images/gallery/dmh-tiffany-house-klaxon-plan.webp)
+*Phillip Klaxon tells Nicollo his plan, with Darius behind them.*
+
+![The party watch from under the bed](/images/gallery/dmh-tiffany-house-under-the-bed.webp)
+*The party watch from under the bed.*
+
 ## Jeremiah
 
 Then Jeremiah surprised them. <small>(DM notes, session record)</small> The party know him as the handsome man with the glowing sword who killed all of them but Heyu, and [Feng Milosh](/people/feng-milosh/), hired by [Shemeska](/people/shemeska/) to hunt them down and find the cards. In Dave's account, "Jeremiah and some goon had staged a heist disguised as waiters to steal the card as well."
+
+![The crew rob the sleeping guests](/images/gallery/dmh-tiffany-house-waiters.webp)
+*The crew rob the sleeping guests.*
+
+![The music machine plays over the sleeping guests, with Heyu crouched behind it](/images/gallery/dmh-tiffany-house-music-machine.webp)
+*The music machine plays over the sleeping guests, with Heyu crouched behind it.*
 
 Jeremiah knows Griddy. The party know her as **Garidriel**, and the two of them are fallen angels at different stages of their fall from grace. <small>(DM notes)</small> What they said to each other:
 
@@ -97,9 +115,15 @@ Jeremiah knows Griddy. The party know her as **Garidriel**, and the two of them 
 
 "Griddy and Jeremiah fought and the party resisted him." <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md)</small>
 
+![Jeremiah and Griddy Champagne, both winged, fight across Beef Wellington's bedroom](/images/gallery/dmh-tiffany-house-angels.webp)
+*Jeremiah and Griddy Champagne, both winged, fight across Beef Wellington's bedroom.*
+
 ## The card
 
 The party stole RUIN. Nicollo "convinced Klaxxon and Griddy that he was on their side but that Jeremiah had taken the card." <small>(Dave, 2026-09-14; sic on Klaxxon)</small>
+
+![Maverick goes for the cards while Jeremiah is bound](/images/gallery/dmh-tiffany-house-the-card.webp)
+*Maverick goes for the cards while Jeremiah is bound.*
 
 Afterwards Darius agreed to his place in Waterdeep and Wellington was ruined, with four days left until the Lords' meeting. Phillip Klaxon was happy, but scared to have lost the card. Griddy was suspicious, but demanded that they steal the card back from Jeremiah. <small>(DM notes, session record)</small>
 

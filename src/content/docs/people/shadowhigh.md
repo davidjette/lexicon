@@ -56,6 +56,7 @@ sources:
 - CANON.md 5af
 - "Oral Histories: The Inevitables, 2024-05-26"
 - "Oral Histories: The Inevitables, 2026-02-03"
+- Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-10'
 wa:
   slug: shadowhigh-person
@@ -109,6 +110,29 @@ At dawn the next day she, Maverick and Barold were led blindfolded, gagged and b
 ## Raised in Undermountain
 
 The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character; he resurrected Shadowhigh, Maverick and Barold, and the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
+
+## The fatemark
+
+The cards of Shadowhigh's [fatemark](/lore/fatemarks/) are drawn from [the Deck of Many Things](/items/the-deck-of-many-things/).
+
+![Shadowhigh's fate hand](/images/gallery/dmh-fate-hand-shadowhigh.webp)
+*Shadowhigh's fate hand, as laid out for the table.*
+
+The reading sets one card in each place of the spread: a home, a friend, a secret, a gift, a nemesis, a door, three trials, a guardian and a fate. <small>(Fate hands; tarot readings)</small>
+
+| Position | Card |
+|---|---|
+| Home | Dragon (reversed) |
+| Friend | Gem |
+| Secret | Elemental |
+| Gift | Plant |
+| Nemesis | Staff (reversed) |
+| Door | Talons (reversed) |
+| Trial 1 | Corpse (reversed) |
+| Trial 2 | Euryale |
+| Trial 3 | Cavern (reversed) |
+| Guardian | Path (reversed) |
+| Fate | Fates |
 
 ## Right now
 

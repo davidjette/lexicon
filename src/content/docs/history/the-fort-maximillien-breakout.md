@@ -58,7 +58,25 @@ image:
 
 Nicollo shook off the hypnotizing effect of [Rex Bedsheets](/people/rex-bedsheets/)' THRONE fate card to find a bloody dagger in his hand and Lenore dying in the mud before him, stabbed deeply in the torso. He disengaged from the Purple Dragon knights and fled into the rainy night. The guards found Lenore nearly dead; one, with a holy symbol on his tabard, laid on hands, and two others carried her away on a stretcher.
 
+![Nicollo comes to with the bloody dagger in his hand and Lenore in the mud before him](/images/gallery/dmh-fort-max-nicollo-dagger.webp)
+*Nicollo comes to with the bloody dagger in his hand and Lenore in the mud before him.*
+
+![A Purple Dragon lays hands on Lenore while others bring a stretcher](/images/gallery/dmh-fort-max-laying-on-hands.webp)
+*A Purple Dragon lays hands on Lenore while others bring a stretcher.*
+
 BattleBeast lay facedown in a carriage track, his white fur brown with mud and blood. Knights lashed his arms and legs and wrestled him into a huge cage on a flatbed carriage built for horses or large beasts. Maverick, on his knees with crossbows and halberds pointed at him, was lifted respectfully to his feet, bound in light shackles as a gentleman and given a dry seat in a passenger carriage. Shadowhigh threw down her guns and tried to explain herself; a War Wizard stunned her, and she was dragged in chains to a waiting carriage. Heyu stayed hidden among the traumatized crowd in the Grub + Grog's barn until Nicollo, disguised as a regular citizen in a rubber "human" mask, coaxed her up to the tavern room where they had left the Grille Boys. The boys were nowhere to be seen.
+
+![Knights bind BattleBeast in the mud](/images/gallery/dmh-fort-max-battlebeast-bound.webp)
+*Knights bind BattleBeast in the mud.*
+
+![Maverick on his knees with crossbows trained on him](/images/gallery/dmh-fort-max-maverick-surrenders.webp)
+*Maverick on his knees with crossbows trained on him.*
+
+![Shadowhigh, stunned by a War Wizard, is dragged to a carriage](/images/gallery/dmh-fort-max-shadowhigh-dragged.webp)
+*Shadowhigh, stunned by a War Wizard, is dragged to a carriage.*
+
+![Nicollo in his rubber 'human' mask, with Heyu](/images/gallery/dmh-fort-max-rubber-mask.webp)
+*Nicollo in his rubber "human" mask, with Heyu.*
 
 Four were taken in custody by the Purple Dragons to Fort Maximillien: BattleBeast to an animal holding pen, Maverick upstairs, Lenore to the infirmary, and Shadowhigh, who faced the death penalty, to a cell. Nicollo and Heyu were outside. <small>(DM notes, IMG_3093)</small>
 
@@ -66,43 +84,124 @@ Four were taken in custody by the Purple Dragons to Fort Maximillien: BattleBeas
 
 The carriages rode through the posh neighborhood toward the small deep lake in which Fort Maximillien stands on a fortified island, the headquarters of the Western Vanguard occupying force.
 
+![The cage wagon rolls toward Fort Maximillien on its island in the lake](/images/gallery/dmh-fort-max-the-fort.webp)
+*The cage wagon rolls toward Fort Maximillien on its island in the lake.*
+
 > Their commander General Varkus rules the Sword Coast as governor from its battlements, and it is garrisoned by elite knights and War Wizards. Tonight, like most this last few months, the fort is undermanned, with large detachments in the field levying grain and suppressing dockworker riots.
 
 <small>(DM notes, IMG_3094)</small>
 
 In the stables, lit by torches glowing a magical yellow, the guards prodded BattleBeast into a metal-barred animal cage on the back wall, where a wounded owlbear slept chained to an anchor by its leg, chained him in the opposite corner, and laughed at his fear of the beast. Shadowhigh was chained to the wall of a dark, barren cell in the dungeon. In a nearby cell **Barold Bonds** was chained and condemned for a totally unrelated crime, with the beginning of a lewd and blasphemous tattoo on his back.
 
+![BattleBeast's cage is brought into the stables, where the owlbear lies chained](/images/gallery/dmh-fort-max-stables.webp)
+*BattleBeast's cage is brought into the stables, where the owlbear lies chained.*
+
+![Shadowhigh and Barold Bonds in neighbouring cells](/images/gallery/dmh-fort-max-cells.webp)
+*Shadowhigh and Barold Bonds in neighbouring cells.*
+
 ## The interrogation
 
 The paladin **[Sir Merriam Wordsworker](/people/sir-merriam-wordsworker/)** took custody of Maverick on the parade ground and led him up the tower stair to the upper bastion. Maverick sat in a plush armchair across a well-appointed desk from Merriam, while two War Wizards stood behind Merriam reading his mind. <small>(The War Wizards Gallant Sheridan Choice and Dame Synna Mantos, DM notes, IMG_3096.)</small> Merriam questioned him about the incident at the Grub + Grog, his journey to Waterdeep, his connection with the condemned Shadowhigh, and why he had been spotted at [Tiffany House](/places/tiffany-house/) earlier that day. On the desk lay his rapier, his quill, and a loosely wrapped deck of cards with the card of **RUIN** peeking out. Maverick convinced Merriam of his innocence, and convinced him further to investigate Rex Bedsheets and his pyramid scheme. <small>(Also DM notes, IMG_3099.)</small>
 
+![Sir Merriam Wordsworker questions Maverick with two War Wizards behind him](/images/gallery/dmh-fort-max-interrogation.webp)
+*Sir Merriam Wordsworker questions Maverick with two War Wizards behind him.*
+
+![The rapier, the quill and the loosely wrapped deck on the desk, RUIN showing](/images/gallery/dmh-fort-max-ruin-on-the-desk.webp)
+*The rapier, the quill and the loosely wrapped deck on the desk, RUIN showing.*
+
 Then Varkus opened the door behind him, followed by **[Phillip Klaxon](/people/phillip-klaxon/)**, a middle-aged Black man and minor noble who seemed furious, and **[Griddy Champagne](/people/griddy-champagne/)**, in reserved but smoldering black leather armor and a duster, her head covered with a demure scarf, livid but restrained. Varkus demanded to know the true reason for the attack, and whether they were working with his enemies. Maverick explained himself well, and Klaxon fumed that he was conspiring against them.
+
+![Phillip Klaxon rages at Maverick while Varkus and Griddy Champagne look on](/images/gallery/dmh-fort-max-varkus-klaxon-griddy.webp)
+*Phillip Klaxon rages at Maverick while Varkus and Griddy Champagne look on.*
 
 ## The breakout
 
 **In the kitchen.** Nicollo and the invisible Heyu approached the gatehouse in the rain, and Nicollo slipped past the guard to the stable barn. Behind it he pulled down a signed execution order, and the two found their way through the fort's kitchen door, past the busy cook, to hide between shelves. There Nicollo began forging the signature on the order: GENERAL PETERBILT VARKUS, HIGH COMMANDER, WESTERN VANGUARD.
 
+![Nicollo pulls the execution order from the stable wall in the rain](/images/gallery/dmh-fort-max-execution-order.webp)
+*Nicollo pulls the execution order from the stable wall in the rain.*
+
+![Nicollo forges the General's signature](/images/gallery/dmh-fort-max-forgery.webp)
+*Nicollo forges the General's signature.*
+
 **In the stables.** BattleBeast had begun a pantomime parlay with the groggy owlbear, which bore no love for its captors. The guards taunted him, all but one, who remarked on his sophisticated language and obvious combat prowess, and they mentioned that the owlbear and BattleBeast were both to be culled at dawn, along with the other executions. His first attempt to tear off his bindings failed and the guards laughed. His second succeeded. The owlbear ripped its own chains out of the wall, and together they lifted the huge cage door off its hinges onto a panicking guardsman and killed two guards. The owlbear charged through the back wall of the stable and turned toward the parade ground and a gathering legion of soldiers.
+
+![BattleBeast's pantomime parlay with the owlbear](/images/gallery/dmh-fort-max-owlbear-parlay.webp)
+*BattleBeast's pantomime parlay with the owlbear.*
+
+![BattleBeast tears off his bindings](/images/gallery/dmh-fort-max-bindings-break.webp)
+*BattleBeast tears off his bindings.*
+
+![BattleBeast and the owlbear carry the cage door off its hinges](/images/gallery/dmh-fort-max-cage-door.webp)
+*BattleBeast and the owlbear carry the cage door off its hinges.*
+
+![The owlbear goes through the back wall of the stable](/images/gallery/dmh-fort-max-owlbear-wall.webp)
+*The owlbear goes through the back wall of the stable.*
 
 **In the command center.** Nicollo ran past the startled chef and a guard, who barred the kitchen door, to a command center, where he found **Sir Loin**, a handsome white-clad knight with long black hair, a pencil mustachio and a thin, ornately adorned longsword, and **Colonel Angus**, a large bull of a man with close-cropped hair, an oversized barrel chest and arms, and a greatsword on his back. He shoved forged orders into Angus's face and demanded to see Varkus. Angus pushed him aside, told him to sit down, and sent troops to investigate. Sir Loin rushed to the kitchen, where BattleBeast was savaging the chef and the kitchen guard, and the two clashed in the doorway. Sir Loin fell, but not before wounding BattleBeast.
 
+![The chef and a guard bar the kitchen door as Nicollo runs for the command center](/images/gallery/dmh-fort-max-kitchen.webp)
+*The chef and a guard bar the kitchen door as Nicollo runs for the command center.*
+
+![Nicollo shoves the forged order in Colonel Angus's face while Sir Loin turns to the noise](/images/gallery/dmh-fort-max-forged-orders.webp)
+*Nicollo shoves the forged order in Colonel Angus's face while Sir Loin turns to the noise.*
+
+![Sir Loin and BattleBeast clash in the kitchen doorway](/images/gallery/dmh-fort-max-sir-loin.webp)
+*Sir Loin and BattleBeast clash in the kitchen doorway.*
+
 **Upstairs.** Varkus sent Merriam and the War Wizards to investigate the racket, and Maverick sheepishly grinned, knowing his friends were about to ruin his plans. Heyu, rushing up a tower stair to find her friends, met an unsuspecting guard and blasted him with a frosty ray, shattering him into ice.
+
+![Varkus sends Merriam and the War Wizards out; Maverick stays in his chair](/images/gallery/dmh-fort-max-varkus-orders.webp)
+*Varkus sends Merriam and the War Wizards out; Maverick stays in his chair.*
+
+![Heyu's frost ray shatters the guard on the tower stair](/images/gallery/dmh-fort-max-frost-ray.webp)
+*Heyu's frost ray shatters the guard on the tower stair.*
 
 **In the infirmary.** Lenore woke nude under a white sheet, her wounds staunched and her health returned, handcuffed to a gurney in a locked ward beside an inert biomechanical sarcophagus with arcane markings. The medic told her to lie still. She picked her locks and, in an open hospital gown, waited beside the door; when the nurse came back with a jar of acid she splashed it into his face and fried him with a shocking grasp. <small>(Nurse McBone, DM notes, IMG_3097.)</small> Sneaking on, she found a door leading outside to a huge pit in the ground, with no bottom in sight and its edges littered with trash.
 
+![Lenore in the infirmary beside the inert sarcophagus](/images/gallery/dmh-fort-max-infirmary.webp)
+*Lenore in the infirmary beside the inert sarcophagus.*
+
+![Lenore picks her handcuffs](/images/gallery/dmh-fort-max-lenore-picks-locks.webp)
+*Lenore picks her handcuffs.*
+
+![Lenore waits beside the ward door with the jar of acid](/images/gallery/dmh-fort-max-lenore-acid.webp)
+*Lenore waits beside the ward door with the jar of acid.*
+
+![Lenore finds the pit behind the fort](/images/gallery/dmh-fort-max-trash-hole.webp)
+*Lenore finds the pit behind the fort.*
+
 **The hall.** Lenore ran into Nicollo and Heyu fleeing the other way, and ran back to find BattleBeast fighting Angus and a crowd of guards. The owlbear broke in behind them and tore the soldiers apart, and BattleBeast and the owlbear brought Angus down, both grievously wounded. Lenore teleported BattleBeast out of the fight into the hallway, and the four fled to the trash pit.
+
+![Lenore comes back to find BattleBeast fighting Colonel Angus and the guards](/images/gallery/dmh-fort-max-angus-fight.webp)
+*Lenore comes back to find BattleBeast fighting Colonel Angus and the guards.*
+
+![The owlbear breaks into the hall](/images/gallery/dmh-fort-max-owlbear-breaks-in.webp)
+*The owlbear breaks into the hall.*
+
+![Lenore teleports BattleBeast out of the fight](/images/gallery/dmh-fort-max-teleport.webp)
+*Lenore teleports BattleBeast out of the fight.*
 
 ## Down the hole
 
 At the pit Lenore used a spell to open a portal, horizontal and far below the ground inside it, and Heyu, BattleBeast and Lenore, in only a hospital gown, jumped in. Nicollo stood on the edge, pondered, then turned back and gave himself up to the guards.
 
+![Nicollo watches the others fall toward the portal, and stays](/images/gallery/dmh-fort-max-nicollo-at-the-edge.webp)
+*Nicollo watches the others fall toward the portal, and stays.*
+
 The party were captured, except Heyu, Lenore, BattleBeast and Rodriel. <small>(Dave, sources/dave/2026-09-14-fort-maximillien-as-played.md)</small>
 
 They landed on the hard smooth stone of an underground dungeon, in pitch black, in a room with only two exits and old rusty shields lining the walls, covered in obscene graffiti. Lenore had opened the portal "in the Trash Hole leading to Undermountain." <small>(DM notes, IMG_3095)</small>
 
+![BattleBeast, Lenore and Heyu in the dark room of rusty shields](/images/gallery/dmh-fort-max-undermountain-room.webp)
+*BattleBeast, Lenore and Heyu in the dark room of rusty shields.*
+
 ## Nicollo's betrayal
 
 Upstairs Varkus took a guard's report and gave Maverick a condemning look. Then Nicollo was brought in. Maverick smiled; Nicollo did not. Nicollo said that he had been betrayed by the group, that he had never meant to steal the RUIN card, that he was in the service of Klaxon as he had said, and that the moment he found out Lenore had the card he had killed her and tried to take it. Griddy picked the RUIN card up off the desk and slipped it into her bra. Maverick protested, and Varkus set down the sentence: hanging, at dawn.
+
+![Nicollo is brought before Varkus, Klaxon, Maverick and Griddy](/images/gallery/dmh-fort-max-betrayal.webp)
+*Nicollo is brought before Varkus, Klaxon, Maverick and Griddy.*
 
 At [Tiffany House](/history/the-tiffany-house-heist/) Nicollo had convinced Klaxon and Griddy that he was on their side and that [Jeremiah](/people/jeremiah/) had taken the card. At the fort he betrayed the party, admitting that Lenore had stolen it. <small>(Dave, sources/dave/2026-09-14-dead-mans-hand-secrets-and-zanzibar.md)</small>
 
@@ -110,15 +209,36 @@ At [Tiffany House](/history/the-tiffany-house-heist/) Nicollo had convinced Klax
 
 Shadowhigh snapped her fingers and summoned a small dragon, which found a pile of partly incinerated bones and a singed spellbook with its pages fallen out. It brought her a page, then the rest of the book, and she could not make heads or tails of it; she went on trying to pick her handcuffs with a shard of bone. Maverick was thrown stunned into a cell nearby, and when the stun wore off the two traded stories, and regrets. Barold, trying to rage and break his bindings, had let loose an inexplicable magic that filled his cell with moss, flowers and beautiful mushrooms, and he was miserable.
 
+![Shadowhigh's dragon brings her a page of the singed spellbook](/images/gallery/dmh-fort-max-shadowhigh-dragon.webp)
+*Shadowhigh's dragon brings her a page of the singed spellbook.*
+
+![Maverick in his cell](/images/gallery/dmh-fort-max-maverick-cell.webp)
+*Maverick in his cell.*
+
+![Barold Bonds, miserable in a cell full of moss, flowers and mushrooms](/images/gallery/dmh-fort-max-barold-garden.webp)
+*Barold Bonds, miserable in a cell full of moss, flowers and mushrooms.*
+
 ## The gallows
 
 At dawn Barold, Maverick and Shadowhigh were led blindfolded, gagged and tightly bound to the gallows on the parade ground, before the Purple Dragon garrison and the War Wizard detachment, with General Varkus in his violet-plumed helmet and cloak atop a white steed. Sir Loin and Colonel Angus, both grievously wounded, had been revived, and attended with angry faces.
 
+![Barold, Maverick and Shadowhigh are led to the gallows](/images/gallery/dmh-fort-max-to-the-gallows.webp)
+*Barold, Maverick and Shadowhigh are led to the gallows.*
+
 Just before the end Shadowhigh's dragon flew in and tried to burn the ropes, and was cut down by a crossbow bolt. Maverick misty-stepped away from the gallows and Barold broke free of his bindings, and all three were stunned and torn to shreds by blasts of magic from wanded wizards on the battlements.
+
+![Shadowhigh's dragon is hit by a crossbow bolt as it burns at the rope](/images/gallery/dmh-fort-max-dragon-shot.webp)
+*Shadowhigh's dragon is hit by a crossbow bolt as it burns at the rope.*
+
+![The wizards on the battlements open fire on the gallows](/images/gallery/dmh-fort-max-gallows.webp)
+*The wizards on the battlements open fire on the gallows.*
 
 ## Undermountain
 
 In the hole, the living crouched under a translucent sheltering dome that Heyu raised from her wand. Lenore was fitting on some slinky black leather armor Heyu had saved from a previous defeated foe, a decidedly dominatrix look with her nerdy glasses and black bob haircut. Three bodies fell onto the dome: Shadowhigh, Maverick and Barold. The party were together again, and only half of them were alive.
+
+![Under Heyu's dome, Lenore, BattleBeast and Heyu look up at the three bodies](/images/gallery/dmh-fort-max-dome.webp)
+*Under Heyu's dome, Lenore, BattleBeast and Heyu look up at the three bodies.*
 
 The trash hole "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party had landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." <small>(DM notes, IMG_3100)</small> Tripp brought many of them back to life, and the party helped him get revenge for the death of his own party. <small>(DM notes, IMG_3105)</small>
 

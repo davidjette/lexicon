@@ -45,6 +45,7 @@ sources:
   - sources/dave/2026-09-14-heyu-and-feng.md
   - sources/dave/2026-09-14-inevitables-rulings-batch.md
   - sources/sessions/dead-mans-hand-2026-09-26-summary.md
+  - Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-14'
 ---
 
@@ -85,5 +86,23 @@ On [the Road to Skullport](/history/the-road-to-skullport/) his wild magic fille
 ## The fatemark
 
 The cards of Barold's [fatemark](/lore/fatemarks/), drawn from [the Deck of Many Things](/items/the-deck-of-many-things/), are Ruin, Lance, Fey, Prisoner, Elemental, Plant, Rogue, Tower, Staff and Flames. <small>(DM notes)</small>
+
+![Barold's fate hand](/images/gallery/dmh-fate-hand-barold-bonds.webp)
+*Barold's fate hand, as laid out for the table.*
+
+The reading sets one card in each place of the spread: a home, a friend, a secret, a gift, a nemesis, a door, three trials, a guardian and a fate. <small>(Fate hands; tarot readings)</small>
+
+| Position | Card |
+|---|---|
+| Home | Ruin (reversed) |
+| Friend | Lance (reversed) |
+| Gift | Prisoner (reversed) |
+| Nemesis | Fey |
+| Door | Elemental |
+| Trial 1 | Tower (reversed) |
+| Trial 2 | Rogue |
+| Trial 3 | Plant (reversed) |
+| Guardian | Staff (reversed) |
+| Fate | Flames |
 
 Among the visions of the Vision Table at [Our Lady of Mysteries](/places/our-lady-of-mysteries/) is "BAROLD DRINKS TO DEATH". <small>(DM notes)</small>

@@ -49,21 +49,27 @@ sources:
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md
 - 'JL''s DM notes: Starfall Awakens Notes'
+- sources/dave/2026-10-09-dmh-pictures-wotfz-and-sad-king-billy.md
+- sources/documents/2026-10-09-war-of-the-five-zanzibars-primer.md
 published: '2026-09-10'
 wa:
   slug: zanzibar-william-the-melancholy-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/gallery/dmh-zanzibar-william-the-melancholy.webp
+  alt: "Zanzibar William the Melancholy"
+  caption: "The crowned and downcast emperor in a fur-collared robe, from the cover of the War of the Five Zanzibars primer."
 ---
 
 **Species unknown · Emperor of Faerûn · House Zanzibar, [Cormyrean Empire](/organizations/the-cormyrean-empire/) · Alive**
 
 **Also known as:** Prince William Wenly Zarusson (his name before the throne) · the Melancholy Emperor · the lame duck emperor <small>(ap Dyksterhaus' phrase)</small>
 
-Zanzibar William the Melancholy is the Emperor of Faerûn, of House Zanzibar, and one month into his reign on the [Glass Throne](/items/the-glass-throne/) of the Cormyrean Empire. Born Prince William Wenly Zarusson, he is the son of [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and heir through him to the claim that **Zarus** blessed the line of [Zanzibar the Elder](/people/zanzibar/) to rule forever; his father "gave over nearly all political and military control of the Empire to his armies, his rivals, and his laconic son." Four factions have risen against him — **Zellmo** and the Zarus Cult, his cousin **Princess Zythara** the Witch Queen of Myth Drannor, [General Varkus](/people/peterbilt-varkus/) and the March of the Free West, and **Modle Negen** of the Negende Zonen — and the Unmasked Lord ap Dyksterhaus refused to travel to the capital and pay tribute to him at all. His first month on the throne is the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), in which [Dead Man's Hand](/lore/dead-mans-hand/) is set; he and the four leaders risen against him are the five Zanzibars. Nothing of his person is described in any surviving source, and no word of his own is recorded.
+Zanzibar William the Melancholy is the Emperor of Faerûn, of House Zanzibar, and one month into his reign on the [Glass Throne](/items/the-glass-throne/) of the Cormyrean Empire. Born Prince William Wenly Zarusson, he is the son of [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and heir through him to the claim that **Zarus** blessed the line of [Zanzibar the Elder](/people/zanzibar/) to rule forever; his father "gave over nearly all political and military control of the Empire to his armies, his rivals, and his laconic son." Four factions have risen against him — **Zellmo** and the Zarus Cult, his cousin **Princess Zythara** the Witch Queen of Myth Drannor, [General Varkus](/people/peterbilt-varkus/) and the March of the Free West, and **Modle Negen** of the Negende Zonen — and the Unmasked Lord ap Dyksterhaus refused to travel to the capital and pay tribute to him at all. His first month on the throne is the beginning of [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/), in which [Dead Man's Hand](/lore/dead-mans-hand/) is set; he and the four leaders risen against him are the five Zanzibars. He is the same man as Sad King Billy of [Starfall](/lore/starfall-the-next-generation/), the founder of Lightfoot, the colony on [Necis](/places/necis/). <small>(sources/dave/2026-10-09-dmh-pictures-wotfz-and-sad-king-billy.md)</small>
 
 ## Physical description
 
-**Unknown.** No description of his person, his age, his colouring or his bearing is recorded. He is described only by temperament and by tenure: laconic, melancholy, and one month on the [Glass Throne](/items/the-glass-throne/).
+The cover of the War of the Five Zanzibars primer shows him crowned, bearded and dark-haired, his eyes cast down, in a fur-collared robe with a chain of medallions. On Necis he was a man in a brown cloak with a long, drawn face. <small>(JL's DM notes: Starfall Awakens Notes)</small> In temperament he is laconic and melancholy.
 
 ## The inheritance
 
@@ -90,3 +96,5 @@ His reign opens the [War of the Five Zanzibars](/history/the-war-of-the-five-zan
 When the crew of *[The Starsong Awakens](/history/the-starsong-awakens/)* reached Punis through [the Sphinx Tomb](/places/the-sphinx-tomb/), Prince William, "the Silver Pretender", led a faction of aristocrats, bards, poets and artists, whose partisans filled a tavern called the Buttress of Windsor. The prince kept himself in seclusion, prone to bouts of melancholy, and wanted only one thing: to get off the planet and find a new world. During the assault on Fort Zanzibar, Sad King Billy prepared his vessel to escape. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 Among [the Time Tombs](/places/the-time-tombs/) of [Necis](/places/necis/), [Marcel Martel](/people/marcel-martel/) and [Weld](/people/umwelt/) met a man in a brown cloak with a long, drawn face, beside a great tree, who called himself William. He warned them to leave or be trapped there forever as he was: "This is a place of death. Men come. Men die. Over and again." He had come from a far star torn apart by war and factionalism, dreaming of a new start, and found that even at the ends of the universe one cannot escape the cycle of death and destruction. He was Sad King Billy. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+He was the founder of [Lightfoot](/places/lightfoot-city/), the colony on Necis. The character mirrors Sad King Billy of *Hyperion*. <small>(sources/dave/2026-10-09-dmh-pictures-wotfz-and-sad-king-billy.md)</small>

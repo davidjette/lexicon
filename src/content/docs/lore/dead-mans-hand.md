@@ -90,6 +90,9 @@ gallery:
 - src: /images/gallery/2025-08-22-07.webp
   alt: BattleBeast
   caption: Portrait of a massive white-maned lion-man in black and red armour plates, fists bound in red wraps, roaring.
+- src: /images/gallery/dmh-the-usual-suspects.webp
+  alt: "The company in a line-up"
+  caption: "The company of Dead Man's Hand stood against a height chart: Shadowhigh, Heyu, Battlebeast, Nicollo, Maverick, Lenore, Barold Bonds and Rodriel."
 image:
   src: /images/generated/dead-mans-hand.webp
   alt: "The company of Dead Man's Hand waking in the Mortuary"

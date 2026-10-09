@@ -52,6 +52,7 @@ sources:
   - "Oral Histories: The Inevitables, 2025-11-09"
   - "Oral Histories: The Inevitables, 2025-11-10"
   - "Oral Histories: The Inevitables, 2025-12-06"
+  - Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-14'
 image:
   src: /images/generated/nicollo.webp
@@ -110,5 +111,24 @@ At dawn Maverick, Shadowhigh and Barold were hanged. Their bodies fell into [Und
 ## The fatemark
 
 The cards of Nicollo's [fatemark](/lore/fatemarks/), drawn from [the Deck of Many Things](/items/the-deck-of-many-things/), are Rogue, Stairway, Expert, Humanoid, Throne, Fool, Flames, Euryale, Puzzle, Staff and Ruin. <small>(DM notes)</small>
+
+![Nicollo's fate hand](/images/gallery/dmh-fate-hand-nicollo.webp)
+*Nicollo's fate hand, as laid out for the table.*
+
+The reading sets one card in each place of the spread: a home, a friend, a secret, a gift, a nemesis, a door, three trials, a guardian and a fate. <small>(Fate hands; tarot readings)</small>
+
+| Position | Card |
+|---|---|
+| Home | Rogue (reversed) |
+| Friend | Stairway |
+| Secret | Throne |
+| Gift | Humanoid |
+| Nemesis | Expert (reversed) |
+| Door | Fool |
+| Trial 1 | Flames (reversed) |
+| Trial 2 | Euryale |
+| Trial 3 | Staff (reversed) |
+| Guardian | Puzzle |
+| Fate | Ruin |
 
 Among the visions of the Vision Table at [Our Lady of Mysteries](/places/our-lady-of-mysteries/) is "NICOLO CUTS MAN'S THROAT". <small>(DM notes)</small>

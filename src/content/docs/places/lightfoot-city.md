@@ -35,6 +35,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-01-12"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- sources/dave/2026-10-09-dmh-pictures-wotfz-and-sad-king-billy.md
 ---
 
 **City · [Necis](/places/necis/) · *Light of Xaryxis* · Struck from orbit**
@@ -42,6 +43,8 @@ sources:
 *Also known as:* Lightfoot
 
 **Lightfoot City** is a city of the sea of grass region on the planet [Necis](/places/necis/). During [the Shrike pilgrimage](/history/the-shrike-pilgrimage/) of *[Light of Xaryxis](/history/light-of-xaryxis/)*, while [Captain Jim Smallberries](/people/captain-jim-smallberries/), [Caprica](/people/caprica/) and [Hyperion Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) crossed the sea of grass, Lightfoot was hit by an orbital strike. Necis itself was later reduced to destroyed remnants. <small>(sources/dave/2026-09-14-starfall-necis.md)</small>
+
+Its founder was [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), Sad King Billy, and Lightfoot was his colony on Necis. <small>(sources/dave/2026-10-09-dmh-pictures-wotfz-and-sad-king-billy.md)</small>
 
 ## Geography
 

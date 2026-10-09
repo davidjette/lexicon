@@ -39,6 +39,10 @@ image:
   src: /images/generated/fortunes-wheel.webp
   alt: "The casino floor of Fortune's Wheel"
   caption: "AI image of a crowded casino floor with gambling tables, a troupe of clowns performing and an acrobat overhead."
+gallery:
+- src: /images/gallery/dmh-fortunes-wheel-floor.webp
+  alt: "The floor of Fortune's Wheel"
+  caption: "Maverick, Nicollo and Heyu cross the gaming floor of Fortune's Wheel under the eye of a horned devil in shirtsleeves."
 ---
 
 **Casino · The Lady's Ward, [Sigil](/places/sigil/) · Owned by Shemeska · Standing**

@@ -35,6 +35,10 @@ sources:
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2977, IMG_2998, IMG_3003, IMG_3004, IMG_3007, IMG_3010, IMG_3012, IMG_3017, IMG_3018, IMG_3019, IMG_3021, IMG_3027, IMG_3031, IMG_3033, IMG_3042, IMG_3043, IMG_3046, IMG_3047, IMG_3048)
   - canon/dmh-notebook/NAMES.md
 published: '2026-09-14'
+image:
+  src: /images/gallery/dmh-rotten-william.webp
+  alt: "Rotten William in his hideout"
+  caption: "Rotten William, his head bandaged, sits among his thugs in a brick sewer vault with a wand laid on the chest before him."
 ---
 
 **Master rogue · Extortionist and enforcer · [Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Dead**

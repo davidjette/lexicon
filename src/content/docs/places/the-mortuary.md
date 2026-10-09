@@ -38,6 +38,10 @@ image:
   src: /images/generated/the-mortuary.webp
   alt: "The Mortuary"
   caption: "AI image of a sombre building in a run-down city ward, with a hooded corpse collector pushing an empty cart away from a chute in its wall."
+gallery:
+- src: /images/gallery/dmh-heyu-in-the-mortuary.webp
+  alt: "Heyu among the Dustmen"
+  caption: "Heyu bows over a candlelit desk in the Mortuary, ringed by hooded Dustmen."
 ---
 
 **Faction headquarters · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Dustmen · Standing**

@@ -40,6 +40,10 @@ sources:
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
   - "Oral Histories: The Inevitables, 2025-10-25"
 published: '2026-09-14'
+image:
+  src: /images/gallery/dmh-darius-klaxon.webp
+  alt: "Darius Klaxon at chess with Nicollo"
+  caption: "Darius Klaxon broods over a chessboard by candlelight as Nicollo makes a move."
 ---
 
 **Heir to [Tiffany House](/places/tiffany-house/) · [Waterdeep](/places/waterdeep/) · Son of [Phillip Klaxon](/people/phillip-klaxon/)**

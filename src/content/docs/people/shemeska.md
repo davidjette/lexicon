@@ -42,6 +42,10 @@ sources:
   - CANON.md 5w
   - CANON.md 5ac
 published: '2026-09-14'
+image:
+  src: /images/gallery/dmh-shemeska.webp
+  alt: "Shemeska receives Maverick"
+  caption: "Shemeska, fox-headed in a feathered headdress, reclines in her suite while Maverick speaks and the rest of the party wait behind him."
 ---
 
 **Demon · Casino owner · [Fortune's Wheel](/places/fortunes-wheel/), Lady's Ward, [Sigil](/places/sigil/)**

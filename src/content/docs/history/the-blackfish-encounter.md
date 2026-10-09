@@ -68,6 +68,9 @@ The party saved **Rake Ashley** from the water in Saltmarsh, and she was to ferr
 
 <small>(DM notes)</small>
 
+![Nicollo rises through the dark water above the drowned dead](/images/gallery/dmh-blackfish-ascent.webp)
+*Nicollo rises through the dark water above the drowned dead.*
+
 Six ropes hang down the ship's side, and they can be cut from the top. The drowned dead can climb the ship's sides. <small>(DM notes)</small>
 
 ## On the deck
@@ -75,6 +78,12 @@ Six ropes hang down the ship's side, and they can be cut from the top. The drown
 On the deck are Jeremiah, two barbed devils and the drowned dead, and four of the ship's crew, who will flee. Fire spreads across the deck. The ship's treasure is four barrels of gunpowder with a fuse, under lock. <small>(DM notes)</small>
 
 The party slew Jeremiah. He was shot in the head and pierced through the throat. The Blackfish was left burnt, with a hole in it. <small>(DM notes)</small>
+
+![A spear flies at Jeremiah on the deck of the Blackfish in the storm](/images/gallery/dmh-blackfish-jeremiah.webp)
+*A spear flies at Jeremiah on the deck of the Blackfish in the storm.*
+
+![Shadowhigh fires across the burning deck](/images/gallery/dmh-blackfish-shadowhigh.webp)
+*Shadowhigh fires across the burning deck.*
 
 Dave's account the day after, which calls the ropes "ladders" and the barbed devils "Demons": "you guys cut the ladders in time - means zombies too 2 turns to climb and had a chance to fall, you guys split up to shut down the Demons and you one shotted handsome man". <small>(sic; Oral Histories: The Inevitables, 2025-08-17)</small> Asked by Nico whether they were the same demons that were with Jeremiah when he killed [Lenore](/people/lenore/), Dave answered: "he has bigger ones then," / "had". <small>(Oral Histories: The Inevitables, 2025-08-17)</small>
 
@@ -87,6 +96,9 @@ He rose with a damaged head; with his throat pierced and his voice gone; and cas
 ## The sinking ship
 
 The Blackfish was sinking and taking on water. Only three of the crew were aboard, the first mate, the gunner and the deckhand, and the captain was locked in her quarters, where no one was to see her. <small>(DM notes)</small>
+
+![The party brace the timbers against the water coming in](/images/gallery/dmh-blackfish-sinking.webp)
+*The party brace the timbers against the water coming in.*
 
 The priest [Papa Diaz](/people/papa-diaz/) refuses to take a rope to climb up, and points at the ocean, exclaiming "All of you! Brothers! We must hurl ourselves into the waves, to recover the corpse of Aqueus, a drowned seraph," and ends: "DIVE!" <small>(Papa Diaz, DM notes)</small>
 
@@ -103,6 +115,9 @@ The **Dunwater Horror**:
 > A huge squid-like creature with a massive sphincter of a mouth with gleaming white teeth and an eerily supple pink mouth. It's enormous arms seem to move slowly while it glides at enormous speeds, whipping around to consume its prey in an instant.
 
 <small>(sic; DM notes)</small>
+
+![The Dunwater Horror in the depths](/images/gallery/dmh-blackfish-dunwater-horror.webp)
+*The Dunwater Horror in the depths.*
 
 Ladybeard below the waves is the Dunwater Horror: the squid-like creature clashing with Dagon is Gabriella Hellwood in the form her pact with [Hafgufa](/lore/hafgufa/) gave her. Dave: "Hellwood’s fate as the Dunwater Horror, tricked by Jeremiah into taking the blame for the Temple of Neptune, and then trapping him so she could removed the desecration of Dolores’s underwater tomb". <small>(sic; Oral Histories: The Inevitables, 2026-03-07)</small> Dave also calls her "the Horror of Dunwater" <small>(Dave)</small> and, after her story ended, a "dying demikraken near Saltmarsh". <small>(Oral Histories: The Inevitables, 2025-09-22)</small> The name comes from [Dunwater](/places/dunwater/), the lizardfolk stronghold of [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/), where Hellwood's party had sought the trust of Queen Okathent. <small>(Oral Histories: The Inevitables, 2021-10-10)</small>
 

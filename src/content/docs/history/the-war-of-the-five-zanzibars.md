@@ -58,6 +58,10 @@ image:
   src: /images/chat/2024-10-26-1786087512129249.webp
   alt: "The Five Zanzibars"
   caption: "TaleSpire capture of five character miniatures, including a crowned king and a sword-bearing warrior, on a red-lit floor."
+gallery:
+- src: /images/gallery/dmh-zythara-witch-queen.webp
+  alt: "Zythara, Witch Queen of Myth Drannor"
+  caption: "Zythara, Witch Queen of Myth Drannor, as imagined by court painter Warner B. Forecumming, from the War of the Five Zanzibars primer."
 ---
 
 **War and revolution · Faerûn · The Cormyrean Empire against the risings · A critical collapse of the continent**

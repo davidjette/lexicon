@@ -58,6 +58,10 @@ published: '2026-09-10'
 wa:
   slug: general-peterbilt-varkus-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+image:
+  src: /images/gallery/dmh-general-varkus.webp
+  alt: "General Peterbilt Varkus"
+  caption: "Portrait of General Varkus, bald and grey-bearded in engraved plate armour, one hand on a violet-plumed helm, from the War of the Five Zanzibars primer."
 ---
 
 **Species unknown · General, Marshall of the Western Vanguard, Imperial Governor of Waterdeep · [Purple Dragons](/organizations/the-purple-dragons/) · Alive**

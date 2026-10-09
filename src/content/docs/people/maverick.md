@@ -76,6 +76,7 @@ sources:
   - "Oral Histories: The Inevitables, 2025-09-21"
   - sources/sessions/dead-mans-hand-2026-09-26-summary.md
   - sources/dave/2026-09-28-dead-mans-hand-skullport.md
+  - Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-10'
 wa:
   slug: maverick-person
@@ -161,6 +162,29 @@ The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Porta
 ## The road to Skullport
 
 On [the Road to Skullport](/history/the-road-to-skullport/) Maverick pressed to split the party in the spider-haunted ruins of Level 3, and opened the latrine door on a drow of House Wendy's. He talked two freed goblins, Waddle and Snood, into coming along with a promise that they could sit under their own fig trees. At the water's edge below [Skullport](/places/skullport/) the party fed a hungry kuo-toa, and it brought Maverick a **cloak of the manta ray**, which lets its wearer breathe underwater and swim fast. Wearing it he swam out to scout a way across, was attacked by merrows, trapped one in an illusion of an electrified cage, and came up with another's harpoon in his leg. After the session he was given the **golden castanets** from the goblins of Worg's Eye Outpost: while he holds them his spell attacks and spell save DC are improved, and once a day playing them restores a use of Bardic Inspiration. <small>(session summary; DM notes, IMG_3107)</small>
+
+## The fatemark
+
+The cards of Maverick's [fatemark](/lore/fatemarks/) are drawn from [the Deck of Many Things](/items/the-deck-of-many-things/).
+
+![Maverick's fate hand](/images/gallery/dmh-fate-hand-maverick.webp)
+*Maverick's fate hand, as laid out for the table.*
+
+The reading sets one card in each place of the spread: a home, a friend, a secret, a gift, a nemesis, a door, three trials, a guardian and a fate. <small>(Fate hands; tarot readings)</small>
+
+| Position | Card |
+|---|---|
+| Home | Rogue (reversed) |
+| Friend | Knight (reversed) |
+| Secret | Fool |
+| Gift | Puzzle |
+| Nemesis | Throne (reversed) |
+| Door | Jester |
+| Trial 1 | Void (reversed) |
+| Trial 2 | Sage (reversed) |
+| Trial 3 | Star (reversed) |
+| Guardian | Fates |
+| Fate | Ruin (reversed) |
 
 ## Right now
 

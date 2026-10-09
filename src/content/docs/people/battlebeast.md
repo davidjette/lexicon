@@ -71,6 +71,7 @@ sources:
   - sources/dave/2026-09-14-oral-histories-cast.md
   - "Oral Histories: The Inevitables, 2024-12-20"
   - sources/sessions/dead-mans-hand-2026-09-26-summary.md
+  - Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-10'
 wa:
   slug: battlebeast-person
@@ -146,6 +147,29 @@ In the pitch black beneath the fort he sheltered with Lenore and Heyu under Heyu
 The giant trash hole beneath Fort Maximillien "happened to be the 'Yawning Portal' of Undermountain Fame." Half of the party landed in it dead, and they were "lucky to meet **Tripp Sandhill** who raised their fallen (for a hefty prize)." [Tripp Sandhill](/people/tripp-sandhill/) is Patrick's new player character, and with him the party began their Undermountain adventure. In return for the raising, the party helped Tripp take revenge for the death of his own adventuring party.
 
 On [the Road to Skullport](/history/the-road-to-skullport/) BattleBeast led the party through the dark of Level 3 under Heyu's *foresight*, tore apart giant spiders, and punched a drow of House Wendy's to death. When a dozen hobgoblins came to stop the party, he told their captain that the entrails of their enemies were strewn through everything to the north and that the captain could smell it on his claws, and the captain let them pass. Below [Skullport](/places/skullport/) he swam after Maverick, holding his breath, killed a merrow and leapt back onto the dock. <small>(session summary)</small>
+
+## The fatemark
+
+The cards of Battlebeast's [fatemark](/lore/fatemarks/) are drawn from [the Deck of Many Things](/items/the-deck-of-many-things/).
+
+![Battlebeast's fate hand](/images/gallery/dmh-fate-hand-battlebeast.webp)
+*Battlebeast's fate hand, as laid out for the table.*
+
+The reading sets one card in each place of the spread: a home, a friend, a secret, a gift, a nemesis, a door, three trials, a guardian and a fate. <small>(Fate hands; tarot readings)</small>
+
+| Position | Card |
+|---|---|
+| Home | Beast (reversed) |
+| Friend | Priest |
+| Secret | Statue |
+| Gift | Tomb (reversed) |
+| Nemesis | Monstrosity |
+| Door | Talons |
+| Trial 1 | Campfire (reversed) |
+| Trial 2 | Staff (reversed) |
+| Trial 3 | Fey |
+| Guardian | Tavern |
+| Fate | Euryale |
 
 ## Right now
 

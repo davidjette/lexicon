@@ -61,11 +61,29 @@ The Incident at the Grub + Grog was a night of violence at Ard Farkle's inn in t
 
 The party came from Tiffany House with two hostages and a very large cast-iron contraption of chimes, hammers and gears, the machine whose hypnotic music had been used to pull off the heist. They drove through rain-soaked streets full of Purple Dragon patrols responding to the heist. Ard Farkle's inn takes up a small block of the Sea Ward surrounded by unusually wide streets, lit by lantern and firelight on every floor but the dark top one, under a weathervane of a behatted crow. Seeing mounted knights at the other three corners of the square, the party pulled smartly into the carriage house, where a goblin stable hand in a wide hat waved them zealously in. Battlebeast pulled the horses and carriage into place where hay awaited them, and Lenore paid the goblin five gold, to his great joy.
 
+![The party's carriage comes into the square of the Grub + Grog in the rain, mounted knights at the corners](/images/gallery/dmh-grub-grog-arrival.webp)
+*The party's carriage comes into the square of the Grub + Grog in the rain, mounted knights at the corners.*
+
+![Lenore pays the goblin stable hand in the carriage house while Johnny stands by](/images/gallery/dmh-grub-grog-goblin.webp)
+*Lenore pays the goblin stable hand in the carriage house while Johnny stands by.*
+
 Lenore stayed behind with her steel defender Johnny to study the machine. Battlebeast bounded up the rooftops to the top of the inn to look around. He saw another carriage, smaller but much nicer than theirs, with an attendant unloading cardboard boxes, and dozens of knights riding the neighbourhood, and he heard whispering in the room just below him: a halfling and an orc talking about some tragedy in the farmlands. The orc was maimed and dying. In the carriage, Shadowhigh and Maverick played good cop and bad cop with the hostages until both agreed to climb into a bag of holding, despite the limited air; one was terrified, the other bargaining.
+
+![Lenore and Johnny study the cast-iron music machine](/images/gallery/dmh-grub-grog-machine.webp)
+*Lenore and Johnny study the cast-iron music machine.*
+
+![Battlebeast on the wet rooftops, watching an attendant unload boxes from the smaller carriage](/images/gallery/dmh-grub-grog-rooftop.webp)
+*Battlebeast on the wet rooftops, watching an attendant unload boxes from the smaller carriage.*
+
+![Shadowhigh and Maverick work on the Grille brothers in the carriage](/images/gallery/dmh-grub-grog-hostages.webp)
+*Shadowhigh and Maverick work on the Grille brothers in the carriage.*
 
 ## The Crow's Nest and the Grille brothers
 
 The party brought the hostages into the inn and took a room. Nicollo crept up the stairs toward the third floor, the Harper safe house called the Crow's Nest, and saw a lithe blonde elf ranger slip in and sit with the dying orc Tenderbottom in their final moments. The elf swore that the people would know what had happened in the farmlands. Nicollo chose not to push his luck and went back to the room. What the party overheard from the Harpers concerned atrocities in the farmlands and the Dyksterhaus resistance. <small>(DM notes)</small> Tenderbottom, a Harper spy, had been maimed by [Varkus](/people/peterbilt-varkus/)'s troops. <small>(DM notes)</small>
+
+![The elf ranger sits with the dying orc Tenderbottom in the Crow's Nest](/images/gallery/dmh-grub-grog-tenderbottom.webp)
+*The elf ranger sits with the dying orc Tenderbottom in the Crow's Nest.*
 
 In the room the party interrogated the two Grille brothers: Bonefish, the nervous one, and Big Macaroni, the resolute one, who bargained. Macaroni was gagged, and Nicollo intimidated the brothers into giving up their bosses, proving that Jeremiah was in league with Shemeska. Nicollo then freed them and paid them to join the party, which they agreed to, and asked them to call him "The Prince".
 
@@ -73,9 +91,24 @@ In the room the party interrogated the two Grille brothers: Bonefish, the nervou
 
 Maverick introduced himself at the bar to the proprietor, the kenku Ard Farkle, and got a white token with his drink; Ard explained that he might win the door prize, a Gleaming Steel Arm Piece, a magic accessory Maverick wanted. A commoner, Megan Moron, approached him wearing a pyramid pendant with an eye at its centre. She called it a Charm of the All Seeing and tried to sell him one. When he agreed, she explained that his was actually free: he would sell seven more, keep all the profit, and she would take a small cut, and so he would grow rich through the power of the downline. Maverick agreed, knowing it for a pyramid scheme, because he suspected there was money to be made or appropriated. <small>(Session narrative)</small> He talked many people in the bar into buying from Megan, which gained her three more followers and qualified both of them to attend the sales meeting next door. Megan was a member of Rexium, a sales organization and self-betterment group. She gave him a pamphlet showing Rex Bedsheets on a throne, and in Rex's pocket was the THRONE card from the Deck of Many Things, one of the cards the party were questing to gather.
 
+![Ard Farkle shows Maverick the door prize and hands him a white token](/images/gallery/dmh-grub-grog-ard-farkle.webp)
+*Ard Farkle shows Maverick the door prize and hands him a white token.*
+
+![Megan Moron, wearing the pyramid pendant, makes her pitch to Maverick](/images/gallery/dmh-grub-grog-megan-moron.webp)
+*Megan Moron, wearing the pyramid pendant, makes her pitch to Maverick.*
+
+![The Rexium pamphlet: Rex Bedsheets on a throne](/images/gallery/dmh-grub-grog-pamphlet.webp)
+*The Rexium pamphlet: Rex Bedsheets on a throne.*
+
 ## Lenore in the yard
 
 Lenore walked with Johnny from the carriage house toward the inn door to meet the party. An armored thug who seemed to recognize her stopped her, and she was shot from behind with a crossbow, poisoned, paralyzed and dying. The thug bashed Johnny to bits, but not before Johnny raised an alarm. The rogue who had shot her, a man with a scraggly mustache, black hair and bad teeth, came close to her face as she lay dying and sneered at her, taking her for someone named "Lexi" who had wronged him and his gang. He took her gold and left her dying. Maverick ran out, revived her and stopped the bleeding. The inn was put on alert, and Ard Farkle tended to her wounds.
+
+![Lenore is shot from behind in the yard as the armored thug closes on Johnny](/images/gallery/dmh-grub-grog-lenore-shot.webp)
+*Lenore is shot from behind in the yard as the armored thug closes on Johnny.*
+
+![The rogue sneers over Lenore as she lies dying in the rain](/images/gallery/dmh-grub-grog-holhertz.webp)
+*The rogue sneers over Lenore as she lies dying in the rain.*
 
 The rogue was Bud Holhertz. <small>(DM notes)</small> "Lexi" was the Company seeker who had hired Holhertz's crew to raid [the Tomb of St. Magnus](/places/the-tomb-of-st-magnus/) and left them to their fate there. <small>(DM notes)</small>
 
@@ -83,17 +116,47 @@ The rogue was Bud Holhertz. <small>(DM notes)</small> "Lexi" was the Company see
 
 Shadowhigh, Battlebeast and [Heyu](/people/heyu/) saw a trail of blood leading from one of the inn's rooms. Inside they found a bloodied dagger and an open letter under the seal of the Arcaneum, the mysterious and powerful mages' guild. The letter said only: "WE KNOW".
 
+![Heyu, Shadowhigh and Battlebeast find the bloodied dagger and the letter: 'WE KNOW'](/images/gallery/dmh-grub-grog-we-know.webp)
+*Heyu, Shadowhigh and Battlebeast find the bloodied dagger and the letter: "WE KNOW".*
+
 ## The sales meeting
 
 The party attended the Rexium sales meeting in the inn's converted barn event room. It was sparsely attended, about ten people in all. The man on the small stage was the footman they had seen unloading boxes from the carriage earlier. His sales pitch was "obviously hokum, but the people eat it up." <small>(Session narrative)</small> He introduced Rex Bedsheets. Rex came out, quickly cast a charm over the audience through the golden metal charms they all wore, and took a small chest of gold.
 
+![The party sit at the back of the Rexium sales meeting in the barn](/images/gallery/dmh-grub-grog-sales-meeting.webp)
+*The party sit at the back of the Rexium sales meeting in the barn.*
+
+![Rex Bedsheets holds up the chest of gold before his charmed followers](/images/gallery/dmh-grub-grog-rex.webp)
+*Rex Bedsheets holds up the chest of gold before his charmed followers.*
+
 The party attacked. Rex cast *dominate person* on Maverick, forcing him and all the charm-wearers, commoners mostly, to attack Heyu. Rex ran for his carriage and started to drive away. Battlebeast leapt on him and attacked him viciously, Rex terrified, but a magical shield of ice interposed, froze, then exploded in fire and knocked Battlebeast to the ground, grievously wounded. Nicollo jumped onto the carriage and set it alight with oil. The footman jumped up after him, and the two fought on the roof with both of them in the fire. Rex drove away with Lenore running alongside. Maverick broke free of the domination, but not before he had stabbed Heyu. He ran to stop Rex and cast a hypnotic pattern, which stunned Rex's horses, the footman, who dropped out of his fight with Nicollo, and Lenore, just as she was about to shoot Rex through the carriage window. Rex was unaffected. He shot rays of magic into his horses to wake them, and they bolted off down the road with the carriage in flames and Nicollo holding on.
+
+![Battlebeast leaps at Rex Bedsheets as he runs with the chest](/images/gallery/dmh-grub-grog-battlebeast-leaps.webp)
+*Battlebeast leaps at Rex Bedsheets as he runs with the chest.*
+
+![The shield of ice bursts in Battlebeast's face](/images/gallery/dmh-grub-grog-ice-shield.webp)
+*The shield of ice bursts in Battlebeast's face.*
+
+![Nicollo and the footman fight on the roof of the burning carriage while Lenore takes aim](/images/gallery/dmh-grub-grog-burning-carriage.webp)
+*Nicollo and the footman fight on the roof of the burning carriage while Lenore takes aim.*
 
 ## The chase and the arrests
 
 Shadowhigh ran in and began shooting the dominated peasants, which shocked a set of nearby guards, who ran to arrest her. Maverick took the silver charm from the neck of the dead Megan Moron, reasoning that it might be a way into Rex's lair. More guards converged on Maverick and Lenore and bound them. Battlebeast escaped in the party's own cart and chased Rex's carriage.
 
+![Shadowhigh fires into the dominated crowd in the barn as Purple Dragons run in](/images/gallery/dmh-grub-grog-shadowhigh.webp)
+*Shadowhigh fires into the dominated crowd in the barn as Purple Dragons run in.*
+
 Nicollo killed Rex's horse. The carriage toppled and nearly killed them both, and the two fought in the flaming wreckage until Rex drew the THRONE card from his pocket and dominated Nicollo's mind, sending him running back to attack Lenore. As Battlebeast barrelled down on him, Rex shot a blast into Battlebeast's horses and toppled that cart too. Mounted knights and guards beset Battlebeast, and he surrendered. As the party were led away, Rex shouted that they were murderers and thieves. Still dominated, Nicollo stabbed Lenore before he came to; then he saw what he had done and fled into the night streets.
+
+![In the burning wreck Rex Bedsheets holds the THRONE card up to Nicollo](/images/gallery/dmh-grub-grog-throne-card.webp)
+*In the burning wreck Rex Bedsheets holds the THRONE card up to Nicollo.*
+
+![Battlebeast surrenders to the Purple Dragons while Rex points him out](/images/gallery/dmh-grub-grog-surrender.webp)
+*Battlebeast surrenders to the Purple Dragons while Rex points him out.*
+
+![Nicollo, still dominated, stabs Lenore](/images/gallery/dmh-grub-grog-nicollo-stabs-lenore.webp)
+*Nicollo, still dominated, stabs Lenore.*
 
 ## Aftermath
 
