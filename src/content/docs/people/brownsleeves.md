@@ -67,8 +67,8 @@ campaigns:
 
 The *Evening Star* was the flagship privateer of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), under Captain [Ysmir St. Cloud](/people/ysmir-st-cloud/), and the chronicle opens aboard her. See [Arc I — Hope in Exile](/history/arc-i-hope-in-exile/). Brownsleeves was JL's character for the first session. As the ship went down he was in the hold, trying to free more of the caged slaves kept there, and he died in the wreck. <small>(Dave, sources/dave/2026-10-09-campaigns.md)</small>
 
-![Brownsleeves picks the lock of a crate in the flooding hold of the Evening Star](/images/generated/brownsleeves-evening-star.webp)
-*Lexical rendering of Brownsleeves picking the lock of a crate that holds an elf family in the flooding hold of the Evening Star, lit by a fleck of the mother's light, as the door opens.*
+![Brownsleeves picks the lock of a cage in the flooding hold of the Evening Star](/images/generated/brownsleeves-evening-star.webp)
+*Lexical rendering of Brownsleeves picking the lock of a cage that holds an elf family in the flooding hold of the Evening Star, lit by a fleck of the mother's light, as the door opens.*
 
 Ysmir St. Cloud's body "went down with Brownsleeves" on the *Evening Star*. <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
 

@@ -45,6 +45,14 @@ make adjustments to brownsleeves based on my note. he does not appear in the gro
 
 ---
 
+the new brownsleeve pic is fantastic except theres a big whole the family could crawl through, can you generate without that obvious issue?
+
+---
+
+and he should have brownsleeves...
+
+---
+
 ## What this establishes
 
 - The Lexicon has a Campaigns section: a tile on the front page and one page per campaign, each with a banner and a campaign index.
@@ -61,3 +69,4 @@ make adjustments to brownsleeves based on my note. he does not appear in the gro
 - Brownsleeves was JL's character for the first session of Ages of the Infanta. He died in the shipwreck, trying to free more caged slaves from the hold as the ship went down. The Brownsleeves on the moon, the Short King, is a different loop of the same character, possibly a Metra loop.
 - The Twatmarsh and Starfall player-character lists stand as shown.
 - Brownsleeves is not in the party's group portrait. His picture shows him at level 1, picking the lock of a crate that holds an elf family in the flooded hold, lit by a fleck of light the mother has cast, as the door opens.
+- In his picture Brownsleeves wears brown sleeves, and the family is shut in with no gap to climb through.
