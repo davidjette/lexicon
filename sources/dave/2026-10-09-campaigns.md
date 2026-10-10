@@ -57,6 +57,14 @@ this looks great but I foget he's a halfling bruce willis. keep everything else 
 
 ---
 
+brownsleeves should not be smiling, his mood before was right, and make it even more dire with the water level pelase.
+
+---
+
+and make the elves more wood elfy and less anime white purity
+
+---
+
 ## What this establishes
 
 - The Lexicon has a Campaigns section: a tile on the front page and one page per campaign, each with a banner and a campaign index.
@@ -75,3 +83,4 @@ this looks great but I foget he's a halfling bruce willis. keep everything else 
 - Brownsleeves is not in the party's group portrait. His picture shows him at level 1, picking the lock of a crate that holds an elf family in the flooded hold, lit by a fleck of light the mother has cast, as the door opens.
 - In his picture Brownsleeves wears brown sleeves, and the family is shut in with no gap to climb through.
 - Brownsleeves looks like a halfling Bruce Willis: bald, stubbled and smirking.
+- In his picture Brownsleeves is grim and does not smile, the water is nearly over his head, and the caged family are wood elves.
