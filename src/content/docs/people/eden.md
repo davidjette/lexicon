@@ -43,6 +43,7 @@ sources:
 - worldanvil/sources/wa/esther-crona-person.txt
 - "Oral Histories: The Inevitables, 2026-01-02"
 - Esther Crona, as revised by Nico, 2026-10-07
+- sources/sessions/korth-2026-10-09-summary.md
 published: '2026-09-10'
 wa:
   slug: 10b44e2f-0a89-4154-9774-c896451aafca
@@ -131,9 +132,15 @@ Her body went to her sister. Esther Crona, who has never once in her life accept
 
 The modified rite embedded a Khyber-cut diamond in her sternum in place of her destroyed heart.
 
+## The peak at King's Forest
+
+[Korth Ep 17](/sessions/korth-ep-17-the-red-bird/). Eden came to the valley of the Summer Palace with twenty Eden units, which she said were all that she could bring back. She had an appointment with [General Stockton Thar](/people/general-stockton-thar/) on a peak in the King's Forest at dawn, made by a note in strange handwriting signed **E**. Thar was killed on the peak that night, and [Gemma Corso](/people/gemma-corso/) kept the appointment wearing his face.
+
+Eden's soldiers climbed onto the peak first, with weapons built into their bodies and small oculus scanners. She dropped out of the sky, landed softly and brought her head up with a jerk. She spoke in a mechanical voice with a sweeter, synthetic voice laid over it. *"There are twenty Eden units in the valley below. It's all that I could bring back. Like I said, you could be destroyed, or you could see the truth."* Asked what the truth was, she said, *"The Empress must die."* She said that Thar had told her the Emperor would agree with them, and called him a fool. *"If you get in my way, I will destroy everything you love. They have my sister."* Told that her sister was risen, she said, *"We will rule the Empire together. You will retreat to your forests. If you are here tomorrow, you will die."* Of [Locke Pierce](/people/locke-pierce/) she said, *"I could survive his onslaught. Can you?"* She laughed, flat and repeated, and went down the mountain after her soldiers. <small>(Korth Ep 17)</small>
+
 ## Right Now
 
-She is over the Mournlands, or in them. Eden units came across the farms at Zilspar and laid them flat, and carried off Zero-One. Faith Zeir is dead and can no longer ask for her. Esther Crona is dead and can no longer refuse. Nobody living holds the authority to bring her home, and nobody has told her that.
+She is in the valley of the Summer Palace with twenty Eden units, and she means the Empress to die. <small>(Korth Ep 17)</small> Before that she was over the Mournlands, or in them. Eden units came across the farms at Zilspar and laid them flat, and carried off Zero-One. Faith Zeir is dead and can no longer ask for her. Esther Crona is dead and can no longer refuse. Nobody living holds the authority to bring her home, and nobody has told her that.
 
 **Organizations / Groups:** Project E.D.E.N. (prototype unit, EDN-00) · the Iron Veil, by deployment · the Crona–LeBeefe line, by blood
 
@@ -167,7 +174,7 @@ The addendum's pre-BioTec incident report, filed by [Sister Nora](/people/sister
 
 ## Personality Characteristics
 
-**Motivation** — Unknown. She has issued no demand and stated no aim; every action attributed to her is an order carried out.
+**Motivation** — For years she issued no demand and stated no aim, and every action attributed to her was an order carried out. On the peak at King's Forest she said that the Empress must die, and that she and her sister would rule the Empire together. <small>(Korth Ep 17)</small>
 
 **Likes & Dislikes** — Not recorded. She died young and poor, and the Empire kept nothing about the woman that was not useful about the weapon.
 

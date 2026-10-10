@@ -36,6 +36,7 @@ sources:
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - sources/dave/2026-09-26-korth-ep15-rulings.md
   - Dave, note of 2026-09-26
+  - sources/sessions/korth-2026-10-09-summary.md
 published: '2026-09-10'
 wa:
   slug: the-grand-lodge-location
@@ -74,6 +75,8 @@ The members hunt at night and sleep by day, and their talk of hares and crossbow
 
 On the grand stair two men passed a purse between them, and a coin that fell from it was minted in the [Uruk-Hoth Republic](/organizations/the-uruk-hoth/). Sealed hazardous-materials containers paid for at [the Imperial Counting House](/places/the-imperial-counting-house/) go by carriage to the Lodge and around the back of the house. The Lodge will not take pilgrims at any price. <small>(Korth Ep 15)</small>
 
+On the Saturday night of [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/) the hunters gathered under a full moon. The newest Fieldmaster's portrait on the grand stair has no name under it and shows a lean woman in her forties. Rotunda Goose held court in the ballroom with Lord Aldric and Lady Sabine Varenne and said that everyone there was planning for what comes next. She told the Star Advocate that this was the night the Lodge brings people through the library. Most of the King's Forest lies north of the river and is closed to hunting, and the Lodge holds a grandfathered licence under which only its members may hunt there. In the Hunters' Salon, reached through the boardroom, the quartermaster Cousin Felcher took a handful of platinum bars from a demon in hunting dress. The hunter Fora Dollar, a member sponsored by a lord whose life he saved, hired himself to the Advocate there to hunt a great red bird. <small>(Korth Ep 17)</small>
+
 **Places of Interest:**
 
 - **The guest records:** names, dates and arrivals; the object of the entire assignment.
@@ -81,3 +84,6 @@ On the grand stair two men passed a purse between them, and a coin that fell fro
 - **The grand stair:** hung with portraits of the Fieldmasters, Cob Cornwell's among them.
 - **The Fieldmaster's Suite:** a guest suite looked after by the servant Bimples.
 - **The gaming room:** upstairs, where members play random walk.
+- **The ballroom:** a long hall carpeted in deep red, with a bar along one wall and a fireplace.
+- **The Hunters' Salon:** east of the ballroom through the boardroom, where the serious hunters drink.
+- **The library:** where people are brought through on Saturday nights.

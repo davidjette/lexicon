@@ -45,6 +45,7 @@ sources:
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - sources/dave/2026-09-26-korth-ep15-rulings.md
   - Dave, note of 2026-09-26
+  - sources/sessions/korth-2026-10-09-summary.md
 published: '2026-09-10'
 wa:
   slug: general-stockton-thar-person
@@ -69,7 +70,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Status unconfirmed**
+**Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Dead**
 
 *Also known as:* General Stockton Thar · Stockton
 
@@ -146,15 +147,23 @@ Kesk answered that he counted money, had not been up the stairs or to the palace
 
 Thar then forced his way through the petitioners to the foot of the Stairs of Her Mercy, the crowd following in his wake. Two sisters bowed, welcomed him and told him his name was on the list. When the crowd began pleading its own cases, he said *"Enough!"* and a supernatural silence fell over the plaza. A high sister came down the stairs in procession, a very tall woman in black wearing a red mask, followed by sisters in red, and even his druids stood aside for her. She told him the Emperor was very ill but had agreed to meet him in his garden the next day. Thar replied, *"Excellent. Thank you, Sister, by his grace and her mercy."* He spoke a few words in a language the party did not know, became a huge red bird, and flew with his two druids, now smaller brown and grey birds, first to the Counting House roof and then north across the river. <small>(Korth Ep 15)</small>
 
+## The red bird
+
+[Korth Ep 17](/sessions/korth-ep-17-the-red-bird/). Thar spent the night before his audience on a peak above a waterfall in the King's Forest, north of the river from the Summer Palace, in a fireless camp of three tents under an Imperial pennant. Dark druids of the Eldeen kept the camp and the river landing below it, and two hired drow, the twins Vyx and Velith, kept the shelf under the peak with their spiders. He carried a demand in his own hand that the airships protecting [the Ivory Lazaret](/places/the-ivory-lazaret/) be released to the front to save Aundair from the orcs, and a note with that night's date that read *Dawn. The peak at King's Forest*, signed **E**.
+
+[Gemma Corso](/people/gemma-corso/) and [Eric the Cleric](/people/eric-the-cleric/) climbed to the camp before dawn with Fora Dollar, a hunter of [the Grand Lodge](/places/the-grand-lodge/) who wanted the bird's tail feathers. Thar fought them as the red bird. He carried Dollar out over the valley and tore at Eric with talons and beak, until one of Dollar's grounding arrows bound his wings and brought him down, and further arrows returned him to his own shape. He said, *"Who are you? What are you doing? Who ordered this? You idiots. You're fighting for an empire that's going to crumble. Do you even know what's happened to the Emperor?"* He dropped a wall of fire from his staff and tried to get away, and Gemma and Eric cut him down. Gemma cut off his head. <small>(Korth Ep 17)</small>
+
+The **E** of the note was [Eden](/people/eden/). She came to the peak at dawn with her soldiers and spoke to Gemma, who was wearing Thar's face. Eden and Thar had an understanding that the Empress must die, and Thar had told her that the Emperor would agree with them. <small>(Korth Ep 17)</small>
+
 ## Right now
 
-The Wall is down and the Uruk-Hoth Republic is in the Eldeen Reaches. The Hundreds and the Silver Flame are fighting E.D.E.N. constructs across the continent and food shortages are worsening in Sharn. Nobody has reported seeing General Stockton Thar since, and nobody has reported that he is dead.
+Thar is dead. Gemma and Eric hold his body, his red robes and headpiece and his dragon-headed staff, and his audience with the Emperor in the garden falls at noon on the day he died. The Wall is down and the Uruk-Hoth Republic is in the Eldeen Reaches.
 
 **Organizations / Groups:** [The Iron Veil](/organizations/the-iron-veil/) — commander of ground forces · the Imperial western command · the Dark Druids of the Eldeen Reaches.
 
 **Holdings:** **Fort Crona** and the garrison of Iron Veil casters along **Crona's Wall** — the mythal-like force barrier holding back the Uruk-Hoth Republic, collapsed at Korth Ep 1.
 
-**Items:** None recorded.
+**Items:** The dragon-headed staff, a staff of black wood topped with a red enamelled dragon's head, part of the old regalia of the Crimson Sun. It calls lightning and raises a wall of fire, and only a druid can attune to it. <small>(Korth Ep 17)</small>
 
 **The Mark of Finding (attributed):** a rare dragonmark granting uncanny ability to locate people and objects. Paired with a wall of force and a regiment of high-level wizards, it is the reason the Empire's western enemies could never disperse and hide.
 

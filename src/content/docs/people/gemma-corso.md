@@ -71,6 +71,7 @@ sources:
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
   - Esther Crona, as revised by Nico, 2026-10-07
+  - sources/sessions/korth-2026-10-09-summary.md
 published: '2026-09-10'
 wa:
   slug: 2e22eb84-1887-4637-96c2-2f7f29412dbc
@@ -193,13 +194,19 @@ At the Counting House, Director [Aurel Kesk](/people/aurel-kesk/)'s men dragged 
 
 In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) the risen [Esther Crona](/people/esther-crona/) recognized the sword Gemma carries as her own, called it the Crimson Sun and declared Gemma unworthy to hold it. Gemma refused to surrender it. Both called for the sword at once, and it hung between them before Gemma reclaimed it.
 
+## The Red Bird
+
+In [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/) Gemma hired the hunter Fora Dollar at the Grand Lodge for 500 gold down and went with him and Eric into the King's Forest by night to find the huge red bird that [General Stockton Thar](/people/general-stockton-thar/) had become. At the river landing she burned two wolves and broke a dark druid's spell. On the shelf under the peak, with Eric poisoned and asleep, she cut off the head of the drow Vyx and blasted his twin Velith into the river. On the peak she blasted Thar's druids off the cliff one after another. When Thar was back in his own shape she raised her sword and asked him, *"Do you recognize this?"* She cut off his head.
+
+A note on Thar's body set a meeting on the peak at dawn, signed **E**. Gemma cast *seeming*, put on his headpiece, took up his dragon-headed staff and met [Eden](/people/eden/) as Thar, in his ruined voice. Eden told her the Empress must die, and went away believing she had spoken to the General. Gemma's sword then carried her and Eric back to the river bank. <small>(Korth Ep 17)</small>
+
 ## Habits
 
 In Sharn, by Nico's account, "Gemma is willing to donate her money to the cogborn". <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
 
 Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never raise it. She refused to eat the Mournland pomegranate and took one for study instead. She taught the fanfare of dawn to strangers in a saki bar the night before flying to Zilspar, and they told her the new sad song was going around and everything was getting morose.
 
-She was once married to [Joseph Roberts](/people/pirate-joseph-roberts/), the Dread Pirate, who is now [Blair](/people/blair/)'s husband. The Empire's own file on the Grand Lodge carries his likeness, and it is in her satchel on the boat.
+[Joseph Roberts](/people/pirate-joseph-roberts/), the Dread Pirate and [Blair](/people/blair/)'s husband, once proposed to her, and she refused him. <small>(Korth Ep 17)</small> The Empire's own file on the Grand Lodge carries his likeness, and it is in her satchel on the boat.
 
 > "This is how we send a message back where I'm from."
 

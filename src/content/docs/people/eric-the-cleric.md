@@ -68,6 +68,7 @@ sources:
 - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
 - 'JL''s DM notes: Eric''s secret Khraal mission (dossier)'
 - sources/dave/2026-09-27-leef-jl-notes-rulings.md
+- sources/sessions/korth-2026-10-09-summary.md
 published: '2026-09-10'
 wa:
   slug: 8d2fe097-8974-47cc-a067-7b61b36f178b
@@ -181,6 +182,10 @@ Climbing the Stairs of Her Mercy disguised as an old Black Dove nun, Eric was as
 > "We're not looking for a nest of monsters. We're looking for a foundry."
 
 <small>— Eric, overruling the wet crawl on the Grand Stair into the Glitterhame.</small>
+
+## The Red Bird
+
+In [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/) Eric cast *divination* at the Grand Lodge and asked how to find the Dread Pirate [Joseph Roberts](/people/pirate-joseph-roberts/). Matt Matheny sent an angel with big boobs and a big girly wig, who sang him the answer as a country song to an electric guitar. That night he went into the King's Forest with Gemma and the hunter Fora Dollar. A drow's poisoned bolt put him to sleep for the whole fight under the peak, and a spider had begun to wind him in silk before Dollar cut him out. On the peak he stood in the middle of [General Stockton Thar](/people/general-stockton-thar/)'s camp with his *spirit guardians* burning while the red bird took him in its talons and tore at him with its beak, and he held the spell until the bird was brought down. When Dollar protested that they had assassinated an officer, Eric said, *"Welcome to the rebellion, Master Dollar."* At dawn he stood beside Gemma in the shape of a tiefling druid of Thar's staff while she spoke to [Eden](/people/eden/). <small>(Korth Ep 17)</small>
 
 ## Right now
 
