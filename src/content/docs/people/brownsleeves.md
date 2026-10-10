@@ -1,6 +1,6 @@
 ---
 title: Brownsleeves
-description: The halfling who died on the Evening Star, and the Brownsleeves of another loop, Short King of the Moon, who joined the party and died fighting Cthulhu.
+description: The halfling who died freeing caged slaves as the Evening Star sank, and the Brownsleeves of another loop, Short King of the Moon, who died fighting Cthulhu.
 type: person
 kind: people
 tags:
@@ -34,6 +34,7 @@ sources:
 - CANON.md 5ae (Oral Histories)
 - sources/dave/2026-09-14-temple-holdings-rulings-c11-c36.md
 - sources/dave/2026-09-14-temple-holdings-open-questions.md
+- sources/dave/2026-10-09-campaigns.md
 - "Oral Histories: Temporal Holdings, 2018-07-06"
 - "Oral Histories: Temporal Holdings, 2019-04-05"
 - "Oral Histories: Temporal Holdings, 2019-07-08"
@@ -60,11 +61,16 @@ campaigns:
 
 *Also known as:* Francois Jean Pedro Brownsleeves · the Short King · Brownsleevesmetra
 
-**Brownsleeves** is a halfling passenger of the *Evening Star* and JL's character at the opening of the [Ages of the Infanta](/lore/temple-holdings-llc/), who died when the ship went down. A Brownsleeves from another loop of time came to the Moon in the deep past, ruled part of it as the Short King and taught its people science, and met the party there in [Arc V](/history/arc-v-starfall/). When the party came back to the deep past a second time, the Short King had been seduced by Drefanmetra, [the Waning One](/people/the-waning-one/), and had become his warlock. He joined the party, JL played him in the finale, and he died in the final round of the fight against Cthulhu. The Starfall era has a resort on Selune, the moon of Toril, called [Brownsleeve City](/places/brownsleeve-city/).
+**Brownsleeves** is a halfling passenger of the *Evening Star* and JL's character in the first session of the [Ages of the Infanta](/lore/temple-holdings-llc/). He died in the hold as the ship went down, trying to free more of the caged slaves kept there. A Brownsleeves from another loop of time came to the Moon in the deep past, ruled part of it as the Short King and taught its people science, and met the party there in [Arc V](/history/arc-v-starfall/). When the party came back to the deep past a second time, the Short King had been seduced by Drefanmetra, [the Waning One](/people/the-waning-one/), and had become his warlock. He joined the party, JL played him in the finale, and he died in the final round of the fight against Cthulhu. The Starfall era has a resort on Selune, the moon of Toril, called [Brownsleeve City](/places/brownsleeve-city/).
 
 ## The Evening Star
 
-The *Evening Star* was the flagship privateer of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), under Captain [Ysmir St. Cloud](/people/ysmir-st-cloud/), and the chronicle opens aboard her. See [Arc I — Hope in Exile](/history/arc-i-hope-in-exile/). Brownsleeves died in her wreck, and Ysmir St. Cloud's body "went down with Brownsleeves" on the *Evening Star*. <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
+The *Evening Star* was the flagship privateer of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/), under Captain [Ysmir St. Cloud](/people/ysmir-st-cloud/), and the chronicle opens aboard her. See [Arc I — Hope in Exile](/history/arc-i-hope-in-exile/). Brownsleeves was JL's character for the first session. As the ship went down he was in the hold, trying to free more of the caged slaves kept there, and he died in the wreck. <small>(Dave, sources/dave/2026-10-09-campaigns.md)</small>
+
+![Brownsleeves picks the lock of a crate in the flooding hold of the Evening Star](/images/generated/brownsleeves-evening-star.webp)
+*Lexical rendering of Brownsleeves picking the lock of a crate that holds an elf family in the flooding hold of the Evening Star, lit by a fleck of the mother's light, as the door opens.*
+
+Ysmir St. Cloud's body "went down with Brownsleeves" on the *Evening Star*. <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
 
 After the ship and her captain disappeared, the Company's Special Projects department blamed a group of people previously unknown to the Company: [Roland Deschain](/people/roland-deschain/), [Brother Magnus](/people/brother-magnus/), [Drefan](/people/drefan/) Gallidan, [Yoshi](/people/yoshi/), [Kara](/people/kara/) and Brownsleeves. The Company's archive lists him as:
 

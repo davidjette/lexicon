@@ -41,6 +41,10 @@ push all of this to the live site please
 
 ---
 
+make adjustments to brownsleeves based on my note. he does not appear in the group photo, so generate an image of a level 1 halfling hobbit picking the lock of a crate holding an elf family in the hold of a ship full of water, lit by a tiny fleck of light from the mother's casting, just as the door is opened
+
+---
+
 ## What this establishes
 
 - The Lexicon has a Campaigns section: a tile on the front page and one page per campaign, each with a banner and a campaign index.
@@ -56,3 +60,4 @@ push all of this to the live site please
 - Tripp Sandhill is a player character of Dead Man's Hand, with the eight already listed.
 - Brownsleeves was JL's character for the first session of Ages of the Infanta. He died in the shipwreck, trying to free more caged slaves from the hold as the ship went down. The Brownsleeves on the moon, the Short King, is a different loop of the same character, possibly a Metra loop.
 - The Twatmarsh and Starfall player-character lists stand as shown.
+- Brownsleeves is not in the party's group portrait. His picture shows him at level 1, picking the lock of a crate that holds an elf family in the flooded hold, lit by a fleck of light the mother has cast, as the door opens.
