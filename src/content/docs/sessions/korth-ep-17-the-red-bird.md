@@ -22,6 +22,8 @@ tags:
   - Pork Broccoli
   - Matt Matheny
   - dragon-headed staff
+image:
+  src: /images/uploads/korth-ep-17-the-red-bird-gemma-and-eric-mv3208f6.webp
 sidebar:
   order: 317
 type: report
