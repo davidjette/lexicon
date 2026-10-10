@@ -73,6 +73,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-10-07'
   - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
   - sources/dave/2026-10-08-tudyx-cube-spine.md
+  - sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 redacted:
   names:
     - Stonecypher
@@ -111,9 +112,13 @@ She briefly served as a general in his army at [the Battle of the River Lis](/hi
 
 She rode with Zanzibar on the small sailing boat that carried [Una](/people/una/) from her resurrection.
 
+The prequel saga opened when the temple of Punis collapsed on a royal wedding. [Maximillien](/people/maximillien/) accepted Stonecypher's help, as a fixer, to get Zanzibar out of the town unnoticed. She had been secretly hired by Celion to follow Zanzibar and, when he found the Zarus Infanta, to kill it, and she was given a cursed ring of Wish. That ring is the object she used to make the Wish that sealed the lips of time and obliviated herself, Cthulhu and the quest. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+
 ## The Baldur's Gate train
 
 At Baldur's Gate, Stonecypher used the Vault Wand on the railway gate, and the out-of-control steam engine careened into the void instead of into the station. The train that appears at the end, the Lost Train of [Arc VIII](/history/arc-viii-end-of-the-infanta/), is that same train, gone into the Vault Wand's non-room.
+
+She boarded the new lightning rail train from Suzail to Baldur's Gate with Zanzibar and Max. The conductor had used the vault wand to steal the train's treasures, the Infanta [Una](/people/una/) among them, and the party stole the wand. After the crash the three and Una crossed the sea to Motherstone, which had just been liberated from the Company. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
 ## Warlock of the Raven Queen
 

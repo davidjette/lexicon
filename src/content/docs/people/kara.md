@@ -94,6 +94,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-12-03"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
 - sources/dave/2026-10-09-kara-narrative.md
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 published: '2026-09-10'
 wa:
   slug: kara-person
@@ -156,7 +157,7 @@ Kara went on to many adventures, and she came aboard the *Evening Star* looking 
 
 ## Fortuno's island
 
-The shipwreck landed the survivors on the island of the wizard Fortuno. Kara saved Fortuno's daughter, and she ended the rampage of the wizard's air elemental, Arielle, by trapping it in a moonstone, cleverly reversing a spell that summons a lesser elemental. On the island she found the stone phallus that became a major arcane focus for her. She inherited all of Fortuno's items, books and scrolls, added them to her wares, and frequently forgot she had them. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
+The shipwreck landed the survivors on the island of the wizard Fortuno. Kara saved Fortuno's daughter, Andira, when the party first discovered her; Andira died afterwards. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small> Kara ended the rampage of the wizard's air elemental, Arielle, by trapping it in a moonstone, cleverly reversing a spell that summons a lesser elemental. On the island she found the stone phallus that became a major arcane focus for her. She inherited all of Fortuno's items, books and scrolls, added them to her wares, and frequently forgot she had them. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## Snowdown and Motherstone
 

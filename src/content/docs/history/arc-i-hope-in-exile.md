@@ -48,6 +48,8 @@ sources:
 - "Oral Histories: Temporal Holdings, 2017-09-07"
 - "Oral Histories: Temporal Holdings, 2017-10-02"
 - "Oral Histories: Temporal Holdings, 2017-10-18"
+- sources/dave/2026-10-09-kara-narrative.md
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 published: '2026-09-10'
 wa:
   slug: arc-i-E28094-hope-in-exile-plot
@@ -96,6 +98,8 @@ Daenan "will awaken if either his sword, crown or potion are removed."
 
 Three plots run at once — break out the prisoner, uncover the Navigator's secret, and join (or stop) the mutiny — and all three converge below decks. The arc's first chapter ends in catastrophe.
 
+[Kara](/people/kara/) attempted to seduce Captain St. Cloud to help the party bring him down, and later fought in the mutiny, which was a mutiny of the dwarves. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
+
 ## Part II — The Greater Storm
 
 Ysmir St. Cloud is dead and the *Evening Star* is lost with most aboard her — her riches, her crew and her unliving cargo sinking into the Sea of Swords. The only survivors crowd two lifeboats kept afloat by a passenger's magic: a handful of sailors, freed slaves, the party, and the infant.
@@ -103,6 +107,8 @@ Ysmir St. Cloud is dead and the *Evening Star* is lost with most aboard her — 
 Driven off course, they make landfall on a small, fey-touched island and step straight into an old tragedy in miniature. The island belongs, by inheritance, to the green hag **Sycorax**, long ago slain and bound within a lightning-struck tree; her deformed son **Calamer**; and the air-spirit **Leira** — son and spirit alike enslaved by the exiled wizard **Fortuno**, deposed Duke of Gorha, who rules from a tower with his daughter **Andira** and hunts the **moonstone heart** buried beneath the island. The island's cast — the drowned-and-bound sorceress, the enslaved air-spirit, the monstrous son, the magician-duke deposed by his family and his sheltered daughter — follows Shakespeare's *Tempest*.
 
 By the chapter's end Fortuno and Andira are dead, his tower torn apart by tempest winds, and Sycorax is freed. In gratitude — or in payment — she opens a **Moongate**, a shimmering white bridge arcing over the sea, and sends the survivors on to the next island.
+
+Andira was saved by [Kara](/people/kara/) when the party first discovered her, and died afterwards. On the island Kara found a stone phallus that became a major arcane focus for her, and she inherited Fortuno's items, books and scrolls. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small> <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
 The party killed Calamer, whose name Dave spells Calamar. <small>(Oral Histories: Temporal Holdings, 2017-09-07)</small> Dave's summary of the session was that the party "killed everyone in the Tempest, something Shakespeare wasn't brave enough to do." <small>(Oral Histories: Temporal Holdings, 2017-07-23)</small>
 

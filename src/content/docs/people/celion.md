@@ -42,6 +42,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2021-08-11"
 - "Oral Histories: The Inevitables, 2021-10-01"
 - "Oral Histories: The Inevitables, 2025-10-31"
+- sources/dave/2026-10-09-kara-narrative.md
 published: '2026-09-10'
 wa:
   slug: celion-the-great-person
@@ -79,11 +80,15 @@ In 2019 Dave referred back to that game when the party settled with Celion after
 
 About a year after the one-shot, Dave introduced Celion into the main plot loop as [Kara](/people/kara/)'s ex-boyfriend.
 
+Kara was a sorcerer admitted to the Arcaneum, a school of wizards, and she hid her sorcery from everyone there. Celion was the one person she could not hide it from. He took an interest in her and the two became a couple. When she left after a short education in wizardry, he stayed and became a favourite of the Archmage. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
+
 ## How the party encountered him
 
 He reaches Kara first in a dream at the Shadowhigh Inn, lying "on a bed of canvas bags of grain and goose down, dressed in white linen, his shirt open and his arm, chest, neck and stomach all tattoos with intricate magic runes and lettering." He asks her to meet him in Paenis, in their corner booth. When she goes, there is a mirror hanging over the booth, and "a closer look shows Celion sitting in the mirror as if he were sitting in the booth." He takes out a [Palantir](/items/the-palantir/). <small>(Arc III, Parts IX–XI, "Arcaneum.")</small>
 
 He apologises for their history in the same breath as he warns her: "I should never have said anything to the Headmaster about your dragon heritage. I was a teacher's pet and a suck up and a bastard and I'm sorry."
+
+In the dream he was putting on his bathrobe, his body covered from neck to navel to wrist in arcane symbols, tattoos and muscle. Kara told him she thought he was dead, since the party had just killed him. He answered that he was not dead, and told her to go to the Shadowhigh Inn and look for him in silver. In the mirror he told her that his clone, Valen's and her own were in the highest plane of the Arcaneum, in the tenth circle, and described how to enter the school and find him. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## What he was speaking from
 
@@ -98,6 +103,8 @@ In the plot in which the party killed him, Celion was brought back as a clone. V
 > Drefan casts Dream on him while he is reforming, deforming his body and making him tank-bound in that loop forever.
 
 <small>— Dave (sources/dave/2026-09-14-temple-holdings-open-questions.md)</small>
+
+Drefan cast the spell to read Celion's mind and find out whether he was lying, and saw through his eyes. Celion emerged as a broken creature in a green ooze, with a pronounced and deformed wiener bone. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## In the tanks on the tenth level
 

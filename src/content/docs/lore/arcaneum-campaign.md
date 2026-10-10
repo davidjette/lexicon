@@ -36,6 +36,7 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-04-01"
 - "Oral Histories: The Inevitables, 2020-07-26"
 - "Oral Histories: The Inevitables, 2021-10-23"
+- sources/dave/2026-10-09-kara-narrative.md
 published: '2026-09-10'
 wa:
   slug: arcaneum-article
@@ -66,6 +67,14 @@ The physical school is a large ten-sided building just outside Punis. Inside is 
 The last room held "just clocks! measuring the flow of time in different areas of the room", and the fight there was a strictly timed exercise against a prismatic wall, a lich-type wizard, a black dragon and three other mages. Had the party failed, the archmages would have turned on a time machine. After Valen was beaten, [Celion](/people/celion/) inherited the school, which Dave called "cia/hogwarts". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
 
 Celion helped the party from inside the Arcaneum, tank-bound in the tanks on the 10th level of the college, where Valen, also in a tank until the final battle, had the Anachron and Kara's clone. In another loop, in Dave's one-shot the original Punis game, Zanzibar the Younger, a Kara, Akira the Red and Maximillien the Younger broke into the Arcaneum and found the tomb of "Celion the Great". <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> See [Celion](/people/celion/).
+
+## The original Punis game
+
+The original Punis game was the first game of Dungeons & Dragons that Nico, JL, Jenny and Dave played together, and it ran for one session. Dave set it in the kingdom of [Punis](/places/punis/). JL played Zanzibar the Younger, the bard son of the powerful king of Punis, Zanzibar the Elder, who was disappointed in him. The prince's best friend was Maximillien the Younger, a powerful paladin whose father had been the confidant of Zanzibar the Elder. Nico played Akira the Red, a pirate and adventurer, and Jenny played [Kara](/people/kara/), a fairly mysterious sorceress and wizard who liked to collect and sell magical items.
+
+The four met in a tavern, where they also met Gordon Lightfoot, a bard popular around Cormyr and a Harper. Wizards attacked them there, and the party found that they had been sent from the Arcaneum, the college of the [War Wizards](/organizations/war-wizards/) just outside town. The Arcaneum was feuding with Zanzibar the Elder over its surveillance of him. The king meant to shut the school down and take a good deal of its power, and it seemed the Arcaneum might try to kidnap his errant prince to bargain with.
+
+The four went to the Arcaneum to see what was going on, and found a ritual in progress in the middle of the night. They skipped the dungeon, climbed straight up a sheer wall, and came out hidden in the ritual room itself. They foiled the ritual and set the building on fire, and the War Wizards fled. Then they raided the tomb of Celion the Great and stole his wiener bone, which that Kara carried with her from then on. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## Maps
 

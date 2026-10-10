@@ -49,6 +49,8 @@ sources:
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+- sources/dave/2026-10-09-kara-narrative.md
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 image:
   src: /images/generated/una.webp
   alt: "Una"
@@ -95,6 +97,8 @@ Stonecypher used the Vault Wand on the railway gate at Baldur's Gate, and the ou
 
 In the War Wizards' intelligence file on Wainwright St. Cloud: "We now believe St. Cloud is directly culpable for more than the theft of Una, the infanta of War, and other high profile terrorist attacks throughout Faerun." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> See [Wainwright St. Cloud](/people/wainwright-st-cloud/).
 
+[Maximillien](/people/maximillien/) had discovered that the new lightning rail train from Suzail to Baldur's Gate was carrying cargo important to the War Wizards, and he and Zanzibar boarded it. The party found that the cargo was Una. The conductor had used the vault wand to steal the train's treasures, Una among them, and the party stole the wand. After the crash they took her across the sea to [Motherstone](/places/motherstone/), which had just been liberated from the Company. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+
 ## Resurrection and Motherstone
 
 Zanzibar and Stonecypher "drift on a small sailing boat piloted by a halfling named Josa, their eyes on the young girl wearing bloody clothes who is vomiting off the side of the boat. The light of resurrection has mostly worn off, and the child is suffering from the common effects of being brought back to life after three days. She whimpers and snuggles up closer to Zanzibar." Of Stonecypher she asked, "Why do we have to bring her?" Of her capture she remembered: "It was morning and some purple knights showed up with two wizards. They took me with them. I don’t remember what happened after." And she asked Zanzibar, "What did you save me from?" <small>(Arc III Part VII, Suzail.)</small>
@@ -102,6 +106,8 @@ Zanzibar and Stonecypher "drift on a small sailing boat piloted by a halfling na
 JL, who played Zanzibar, later wrote: "Zanzibar has known Una longer than he’s known any of the rest of the party (besides Stoney). He carried her dead body into Motherstone and fought an army of robot sharks to bring her back to life." <small>(Oral Histories: Temporal Holdings, 2019-06-07)</small>
 
 At the Deepgate the girl was given to Untari to be tested and educated. <small>(Arc III Part VII, Suzail.)</small> Untari called Zanzibar to the learning garden: "Una is in distress. She harmed another child. Something must be done." Una, alone and crying in another chamber: "I don’t belong here. I miss my family. I want to go home." <small>(Arc III Part VII, Suzail.)</small> While the party was away at the Arcaneum, Stonecypher prayed to [Marcus](/people/marcus/), "who let her know that Una May have harmed some children in Motherstone and is displaying signs of extreme mental distress". <small>(Oral Histories: Temporal Holdings, 2019-02-19)</small> Stonecypher's player, Nico, the same day: "Una is pretty picky about who she speaks with. We think she will only interact with humans." "She likes Zanzibar though." <small>(Oral Histories: Temporal Holdings, 2019-02-19)</small>
+
+At Motherstone, as the Infanta of War, she caused problems among the people. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## Missing
 

@@ -49,6 +49,8 @@ sources:
 - "Oral Histories: Temporal Holdings, 2022-09-29"
 - "Oral Histories: The Inevitables, 2021-10-09"
 - "Oral Histories: The Inevitables, 2021-10-23"
+- sources/dave/2026-10-09-kara-narrative.md
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 published: '2026-09-14'
 image:
   src: /images/generated/maximillien.webp
@@ -85,6 +87,18 @@ His character sheet gives his history:
 The sheet names his ally as "Zanzibar the Younger, Heir of Punis and Paenis", and his organization as "House of Zanzibar - Steward".
 
 "Zanzibar the Elder" is a relative title for the elder Zanzibar at any given time. On Max's sheet it means the father of his prince, the king of Punis. The title later stuck to [Zanzibar](/people/zanzibar/) himself, and later Zanzibars took new epithets. <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small> See [House Zanzibar](/organizations/house-zanzibar/).
+
+## The treason trial
+
+Max is Zanzibar's best friend. He accompanied Zanzibar through all of the party's downtime, and sometimes in the campaign itself. After the temple of Punis collapsed on the royal wedding, Max hired a rogue, the fixer [Stonecypher](/people/stonecypher/), to help Zanzibar leave the town unnoticed, and travelled with the two of them on the lightning rail train from Suzail to Baldur's Gate, having discovered that it carried cargo important to the [War Wizards](/organizations/war-wizards/). After the crash he crossed the sea with them and [Una](/people/una/) to [Motherstone](/places/motherstone/).
+
+People loyal to the War Wizards and a rival house had the Maximilliens tried for treason, after they were shown to have helped Max hire the rogue. At Motherstone Max received word that his father and many of his brothers had been hanged for treason and for the deception and assassination of the younger Zanzibar. They were not cleared until Zanzibar returned during [the Suzail Coup](/history/the-suzail-coup/) and laid the blame on the War Wizards. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+
+The hanging is the subject of the song [The Last March of the Maximilliens](/lore/the-last-march-of-the-maximilliens/), which became the unofficial anthem of [the Cormyrean Empire](/organizations/the-cormyrean-empire/). <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+
+## The original Punis game
+
+In the original Punis game, set in another loop, Maximillien the Younger was a powerful paladin and the best friend of Zanzibar the Younger, and his father had been the confidant of Zanzibar the Elder. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small> See [Arcaneum](/lore/arcaneum-campaign/).
 
 ## Waterdeep
 

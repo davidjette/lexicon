@@ -66,6 +66,7 @@ sources:
 - "Oral Histories: The Inevitables, 2021-10-23"
 - "Oral Histories: The Inevitables, 2022-10-10"
 - "Oral Histories: The Inevitables, 2025-02-14"
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 published: '2026-09-14'
 image:
   src: /images/generated/punis.webp
@@ -97,6 +98,8 @@ Valen "betrayed the Cormanthryians against the men of the Dale and in exchange w
 The *Evening Star* sailed from Punis; its old officer Commodore Beekins had been aboard "since it left Punis" and meant to ride it all the way back. <small>(Arc I, Hope in Exile Part I)</small>
 
 The high priest of Punis sent Zanzibar, its crown prince, to [Motherstone](/places/motherstone/) to ask [Brother Magnus](/people/brother-magnus/) about his vision. "This town’s ancient temple is crumbling". <small>(Arc III, Interlude)</small> While Zanzibar was in [Suzail](/places/suzail/), news came that his father had died: "The king finally succumbed to his injuries last night in the presence of his wife, your brothers, and a priest of Zarus", with his brother Seppy to be crowned the day after the funeral. <small>(Arc III Part VII)</small> The party had chosen Punis as their next destination, "the Principality of Punis and Paenis to recapture @Zanzibar’s birthright". <small>(Oral Histories: Temporal Holdings, 2019-01-01)</small>
+
+The crumbling temple fell at the wedding of one of Zanzibar's cousins. Held aloft by Zarusian priestly magic, it collapsed on the royal family and the guests, put King Zanzibar in a coma and killed many of his kin, the bride and groom among them. Many suspected that Zarus had been born as an Infanta somewhere in the world. The War Wizards wanted that Infanta, and Zanzibar pledged to find it on his own. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small> See [Zanzibar](/people/zanzibar/).
 
 In [the Suzail Coup](/history/the-suzail-coup/), Roseanne of Cormyr agreed to marry Zanzibar "to unite the thrones of Suzail and Punis under a single family". <small>(Arc III Part VIII)</small> Dave: "Zanzibar marrying her would combine the thrones of Cormyr and Punis in the next generation". <small>(Oral Histories: Temporal Holdings, 2019-01-24)</small>
 

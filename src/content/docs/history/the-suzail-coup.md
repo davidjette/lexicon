@@ -44,6 +44,8 @@ sources:
 - "Oral Histories: Temporal Holdings, 2019-01-27"
 - "Oral Histories: Temporal Holdings, 2019-01-28"
 - "Oral Histories: Temporal Holdings, 2019-10-18"
+- sources/dave/2026-10-09-kara-narrative.md
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 published: '2026-09-14'
 image:
   src: /images/generated/the-suzail-coup.webp
@@ -64,6 +66,8 @@ The **Suzail Coup** was the seizure of Castle Danzig in [Suzail](/places/suzail/
 The party reached Suzail during Candlenights. King Glenn Danzig believed Zanzibar dead, "perishing in his mission to find an infanta for Cormyr to call their own", and with the Obus Infanta awake and the elves and orcs threatening he had turned to the War Wizards for counsel. They urged him to invade the Dalelands and "take the center in order to stand a chance against Waterdeep". The Citadel held plans for a frontal assault on [Myth Drannor](/places/myth-drannor/), and the War Wizards wanted [Una](/people/una/) back "to conduct a world war". The Duchess of Marsember, in the castle entertaining the royal children for the holidays, distrusted the War Wizards and wanted to avoid open war with the elves. <small>(Arc III Part VII)</small>
 
 Dave tied the crisis to the first choice the party made in the Age of the Infanta: "Our first game we decided whether to openly engage with the nations or keep Motherstone a secret. This is the outcome of having a secret team of superheroes trying to affect the affairs of man on the DL!" <small>(Oral Histories: Temporal Holdings, 2019-01-16)</small> Patrick, who played [Pim](/people/pim/), credited "Pim's Criminal Contacts" with getting the party "right into the castle". <small>(Oral Histories: Temporal Holdings, 2019-10-18)</small>
+
+The party teleported to Suzail with the gate ring, meaning to warn the king that the War Wizards were using the Infanta against his interests. Nature magic was alive and well in the city and a temple of nature was thriving, from which they concluded that the Infanta of Nature was nearby. At a music festival in the centre of the city Gordon Lightfoot was performing. They chased a Harper representative through the streets and found people who told them how to enter the castle in secret. Inside, the Duchess of Marsember, who was friendly with Zanzibar, wished them well and did not report them. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## The night in Castle Danzig
 
@@ -119,5 +123,7 @@ Zanzibar died in the fighting. Dave: "I'm obsessed with zanzibar dying, seeing t
 The party was left to "come to terms with the elves of Myth Drannor" and to decide whether to storm the Arcaneum. <small>(Oral Histories: Temporal Holdings, 2019-01-27)</small> They did, and after his exile at the hands of the Arcaneum Zanzibar returned to [Punis](/places/punis/) and was crowned King of Punis. The Duchess of Marsember was killed, and Zanzibar gave Marsember to [Revan Darkcember](/people/revan-darkcember/) as his hold, and it became Darkcember. <small>(Dave, sources/dave/2026-09-14-temple-holdings-c30-coronation.md)</small>
 
 When King Glenn Danzig was turned back from a snail, he saw why Zanzibar had held the coup, appreciated his "rooting out the evil of Valen and his tainting by the Leviathan", and offered Roseanne's hand in marriage anyway. Zanzibar married Princess Roseanne after the Battle of the River Lis. Later the king fell ill, and Zanzibar was crowned king of Cormyr after the wedding. <small>(Dave, sources/dave/2026-09-14-zanzibar-punis-and-roseanne.md)</small>
+
+Before the king, Zanzibar said he would accept any judgment, and that his true desire was to marry Roseanne and unite the houses of Zanzibar and Danzig. The king sided with him, agreed to the marriage and declared the War Wizards an enemy faction. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small> Zanzibar laid the blame for his disappearance on the War Wizards, which cleared the family of [Maximillien](/people/maximillien/), who had been hanged for treason in his absence. He then marched on the Arcaneum with the Purple Dragon Knights of Cormyr and the forces of Punis together. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
 **Related:** [Suzail](/places/suzail/) · [Arc III — Age of the Infanta](/history/arc-iii-age-of-the-infanta/) · [War Wizards](/organizations/war-wizards/) · [The Purple Dragons](/organizations/the-purple-dragons/) · [Zanzibar](/people/zanzibar/) · [Kara](/people/kara/) · [The Battle of the River Lis](/history/the-battle-of-the-river-lis/)

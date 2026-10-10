@@ -29,6 +29,7 @@ sources:
 - CANON.md 5e
 - "Oral Histories: Temporal Holdings, 2019-01-28"
 - "Oral Histories: Temporal Holdings, 2019-04-05"
+- sources/dave/2026-10-09-kara-narrative.md
 published: '2026-09-10'
 wa:
   slug: ysmir-st-cloud-person
@@ -52,6 +53,8 @@ campaigns:
 He captained the *Evening Star* and held a celebrated thirty-year record of safe passage. The record was worked, not earned: he was a slaver, and the ship's luck came from an enslaved dark-elf Navigator "kept compliant by enchanted rum, prized for his star-magic" and for the sextant, which "reveals the direction of any known object, place or person. The path it suggests will always avoid all storms and pirates." <small>(Arc I, [Hope in Exile](/history/arc-i-hope-in-exile/), Part I. The article on the arc calls him "a darkly greedy man" whose safe passage "hides a darker trade.")</small>
 
 Below the cargo, in Deep Storage, he was carrying forty starving wood-elf slaves and the sarcophagus of Daenan Gallidann — with **Silverbane** inside it. <small>([Drefan](/people/drefan/), a Gallidan, recovers his house's Bane blade from the hold of the slave ship carrying his ancestor's body.)</small>
+
+[Kara](/people/kara/) attempted to seduce him to help the party bring him down. She took the Quicksilver Sextant from him and kept it for the entire campaign. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## Death
 

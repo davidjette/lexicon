@@ -100,6 +100,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-01-21"
 - "Oral Histories: The Inevitables, 2025-11-09"
 - sources/documents/2026-09-14-temple-holdings-party-portrait-brief.md
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 published: '2026-09-10'
 wa:
   slug: zanzibar-person
@@ -141,6 +142,14 @@ No character sheet for Zanzibar is archived. He is crown prince of Punis, son of
 ## Punis, and the fear that sent him
 
 Across Faerûn the holy magic of priests is waning and nobody wants to discuss it: ancient structures held aloft by divine magic are starting to crumble, the most powerful spells are failing, the undead are on the rise, and with the birth of the Elistrae infanta some clergy are privately calling it a second **Time of Troubles**. That is the fear that draws new champions to Motherstone, sent "from all around Faerun to ask Brother Magnus about his vision and the loss of divine magic from the world." Zanzibar's own commission: *"Zanzibar has been dispatched at the request of the high priest from Punis. This town's ancient temple is crumbling, and the priest heard tales of a new prophet of Brightmantle who claims to hold the key to avoid a Second Troubles. But Cormyr is a close ally of the Empire, though independent. Zanzibar must decide his loyalties."*
+
+## The wedding and the train
+
+The prequel saga of Zanzibar and [Stonecypher](/people/stonecypher/) opened at the wedding of one of Zanzibar's cousins. The ancient temple, held aloft by Zarusian priestly magic, collapsed on the royal family and the guests. It put King Zanzibar in a coma and killed many of his kin, the bride and groom among them. Many suspected that Zarus had left his heaven like the other gods and been born as an Infanta somewhere in the world. The [War Wizards](/organizations/war-wizards/) wanted this Infanta as they wanted the others. Zanzibar pledged to find it on his own, for his kingdom and for the good of Punis and Suzail.
+
+His best friend [Maximillien](/people/maximillien/) arranged for him to leave the town unnoticed. Max accepted the help of a fixer, the rogue Stonecypher. Zanzibar, Max and Stonecypher boarded a new lightning rail train from Suzail to Baldur's Gate, which Max had discovered was carrying cargo important to the War Wizards. The cargo was the Infanta [Una](/people/una/). The conductor had used the vault wand to steal the train's treasures, Una among them, and the party stole the wand. Before the out-of-control engine crashed, they turned the gates of the Baldur's Gate station into a portal to a void, which swallowed the train in nothingness. That void is present in the final moments of Cypher and [Dark Zanzibar](/people/dark-zanzibar/). After the crash the three and Una made their way across the sea to [Motherstone](/places/motherstone/), which had just been liberated from the Company.
+
+At Motherstone Max received word that his father and many of his brothers had been hanged for treason and for the deception and assassination of the younger Zanzibar. They were not cleared until Zanzibar returned during [the Suzail Coup](/history/the-suzail-coup/), where he laid the blame on the War Wizards. He then marched on the Arcaneum with the Purple Dragon Knights of Cormyr and the forces of Punis together. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
 ## Public and private
 

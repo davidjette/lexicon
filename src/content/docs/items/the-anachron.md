@@ -72,6 +72,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2024-12-06"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
+- sources/dave/2026-10-09-kara-narrative.md
 published: '2026-09-10'
 wa:
   slug: the-anachron-item
@@ -137,6 +138,8 @@ It is a **part of Zoth's ship**. The vessel of **Zoth-Ommog** — the Star Child
 ## How it reached the Arcaneum
 
 [Wainwright St. Cloud](/people/wainwright-st-cloud/) delivered the inert device himself. The Arcaneum's own record: "St. Cloud delivered to us a device we soon learned was the Anachron," which "was inert and St. Cloud would not tell us where he found" it, "except that it was not around here." He took an Amulet in exchange. <small>(Sic throughout; Arc III, Part VIII Handouts.)</small> The instance he delivered was the Netherese one, which had been hidden in the Penteract until he stole it and gave it to Valen. It is the party's own Anachron at an earlier point of its loop, before they take it to the past. <small>(Oral Histories: Temporal Holdings, 2021-12-10)</small>
+
+The amulet he took was an amulet of proof against detection. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 The mage **Celion**, speaking to [Kara](/people/kara/) from a clone suspended in liquid inside Archmage Valen's sanctum, gave the reason it was a gift:
 
