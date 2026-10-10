@@ -231,10 +231,15 @@ def check_frontmatter(a):
     for key in ('title', 'description', 'type', 'icon', 'published'):
         if key in d and d[key] is not None and not isinstance(d[key], str):
             bad(key, d[key])
-    for key in ('tags', 'sources'):
+    for key in ('tags', 'sources', 'campaigns'):
         for i, v in enumerate(d.get(key) or []):
             if not isinstance(v, str):
                 bad(f'{key}[{i}]', v)
+    # The site ignores a campaign id it does not know, so a misspelt one drops the article silently.
+    known = campaign_ids()
+    for v in d.get('campaigns') or []:
+        if isinstance(v, str) and v not in known:
+            out.append(('unknown-campaign', f'{v!r} is not in src/data/campaigns.json'))
     for k, v in (d.get('fields') or {}).items():
         if not isinstance(v, str):
             bad(f'fields.{k}', v)
@@ -273,7 +278,17 @@ def known_targets():
     if os.path.exists(maps):
         import json
         known.update('maps/' + m['id'] for m in json.load(open(maps, encoding='utf-8')))
+    known.add('campaigns')
+    known.update('campaigns/' + c for c in campaign_ids())
     return known
+
+
+def campaign_ids():
+    import json
+    path = os.path.join(ROOT, 'src', 'data', 'campaigns.json')
+    if not os.path.exists(path):
+        return set()
+    return {c['id'] for c in json.load(open(path, encoding='utf-8'))}
 
 
 # ------------------------------------------------------------------ leaks (qa_leaks.py)

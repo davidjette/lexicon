@@ -1,6 +1,7 @@
 // Data for the front page, computed at build time.
 import { execFileSync } from 'node:child_process';
 import { getArticles, href, KINDS, mentionsSealed, sortArticles, type Doc, type Kind } from './articles';
+import { CAMPAIGNS, CAMPAIGNS_BANNER } from './campaigns';
 
 export const MIN_WORDS = 600; // an article of the day must be at least this long
 const LEAD_CHARS = 420;
@@ -78,13 +79,22 @@ const TILE_ART: Record<Kind, string> = {
 
 export async function kindTiles() {
 	const all = await getArticles();
-	return (Object.keys(KINDS) as Kind[]).map((kind) => ({
+	const tiles: { kind: string; label: string; count: number; url: string; image: string }[] = (Object.keys(KINDS) as Kind[]).map((kind) => ({
 		kind,
 		label: KINDS[kind],
 		count: all.filter((e) => e.data.kind === kind).length,
 		url: withBase(`/${kind}/`),
 		image: withBase(TILE_ART[kind]),
 	}));
+	// Campaigns is a section but not a kind: it sits after Sessions and counts campaigns, not articles.
+	tiles.splice(tiles.findIndex((t) => t.kind === 'sessions') + 1, 0, {
+		kind: 'campaigns',
+		label: 'Campaigns',
+		count: CAMPAIGNS.length,
+		url: withBase('/campaigns/'),
+		image: withBase(CAMPAIGNS_BANNER),
+	});
+	return tiles;
 }
 
 export async function latestSessions(n = 4) {

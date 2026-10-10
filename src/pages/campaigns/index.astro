@@ -1,0 +1,241 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { CAMPAIGNS, CAMPAIGNS_BANNER, withBase } from '../../lib/campaigns';
+import { getArticles, blurb } from '../../lib/articles';
+
+const SUBTITLE = 'Explore the worlds, stories, and adventures from our campaigns.';
+const all = await getArticles();
+// A card's text is the campaign's summary, or failing that its overview article's one-line description.
+const cards = CAMPAIGNS.map((c) => {
+	const overview = all.find((e) => e.id === c.overview);
+	return { ...c, url: withBase(`/campaigns/${c.id}/`), text: c.summary || (overview ? blurb(overview) : c.tagline) };
+});
+---
+
+<StarlightPage frontmatter={{ title: 'Campaigns', description: SUBTITLE, template: 'splash', tableOfContents: false, prev: false, next: false }}>
+	<div class="cpx not-content">
+		<header class="cpx-hero">
+			<img src={withBase(CAMPAIGNS_BANNER)} alt="" />
+			<div class="cpx-hero-text">
+				<p class="cpx-kicker">The Lexicon</p>
+				<span class="cpx-rule" aria-hidden="true"><i></i></span>
+				<p class="cpx-title" aria-hidden="true">Campaigns</p>
+				<p class="cpx-sub">{SUBTITLE}</p>
+			</div>
+		</header>
+		<nav class="cpx-crumbs" aria-label="Breadcrumb">
+			<a href={withBase('/')}>Home</a>
+			<span aria-hidden="true">›</span>
+			<span aria-current="page">Campaigns</span>
+		</nav>
+		<ul class="cpx-cards">
+			{
+				cards.map((c) => (
+					<li class="cpx-card">
+						<a class="cpx-card-img" href={c.url} tabindex="-1" aria-hidden="true">
+							{c.banner && <img src={withBase(c.banner)} alt="" loading="lazy" style={`object-position: ${c.bannerPosition}`} />}
+						</a>
+						<div class="cpx-card-body">
+							<h2>
+								<a href={c.url}>{c.title}</a>
+							</h2>
+							<p>{c.text}</p>
+							<span class="cpx-rule cpx-rule--small" aria-hidden="true">
+								<i />
+							</span>
+							<a class="cpx-card-more" href={c.url}>
+								View Campaign →
+							</a>
+						</div>
+					</li>
+				))
+			}
+		</ul>
+	</div>
+</StarlightPage>
+
+<style is:global>
+	/* This page runs edge to edge: the banner carries the title, and the cards fill the width. */
+	html:not([data-has-sidebar]):root {
+		--sl-content-width: 104rem;
+		overflow-x: clip;
+	}
+	main > .content-panel:first-child {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		overflow: hidden;
+		clip-path: inset(50%);
+		padding: 0;
+	}
+	main > .content-panel + .content-panel {
+		border-top: 0;
+		padding-top: 0;
+	}
+</style>
+
+<style>
+	.cpx-hero {
+		position: relative;
+		width: 100vw;
+		margin-inline: calc(50% - 50vw);
+		height: clamp(11rem, 18vw, 15rem);
+		overflow: hidden;
+		background: #14110d;
+		border-bottom: 1px solid #5a4a2a;
+	}
+	.cpx-hero img {
+		position: absolute;
+		inset: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		display: block;
+	}
+	.cpx-hero-text {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 0.45rem;
+		text-align: center;
+		padding: 1rem;
+		color: #f3e7cf;
+		background: radial-gradient(ellipse at center, rgba(10, 8, 5, 0.72) 0%, rgba(10, 8, 5, 0.35) 55%, rgba(10, 8, 5, 0.15) 100%);
+	}
+	.cpx-hero-text p {
+		margin: 0;
+	}
+	.cpx-kicker {
+		font-family: 'Cinzel', var(--sl-font);
+		font-size: var(--sl-text-base);
+		letter-spacing: 0.3em;
+		text-transform: uppercase;
+	}
+	.cpx-title {
+		font-family: 'Cinzel', var(--sl-font);
+		font-weight: 700;
+		font-variant: small-caps;
+		font-size: clamp(2rem, 4.6vw, 3rem);
+		line-height: 1.1;
+		color: #f6e9c4;
+	}
+	.cpx-sub {
+		font-size: var(--sl-text-xl);
+	}
+	/* a fine gold rule with a diamond at its centre */
+	.cpx-rule {
+		width: min(21rem, 70%);
+		display: flex;
+		align-items: center;
+		gap: 0.35rem;
+	}
+	.cpx-rule::before,
+	.cpx-rule::after {
+		content: '';
+		flex: 1;
+		height: 1px;
+		background: linear-gradient(90deg, rgba(217, 181, 106, 0), #d9b56a);
+	}
+	.cpx-rule::after {
+		background: linear-gradient(90deg, #d9b56a, rgba(217, 181, 106, 0));
+	}
+	.cpx-rule i {
+		width: 0.45rem;
+		height: 0.45rem;
+		border: 1px solid #d9b56a;
+		transform: rotate(45deg);
+	}
+	.cpx-rule--small {
+		width: 8.5rem;
+		margin: auto auto 0;
+	}
+	.cpx-rule--small::before,
+	.cpx-rule--small::after {
+		background: var(--gold, #8a6d2f);
+	}
+	.cpx-rule--small i {
+		border-color: var(--sl-color-text-accent);
+	}
+	.cpx-crumbs {
+		width: 100vw;
+		margin-inline: calc(50% - 50vw);
+		padding: 0.9rem 2.2rem;
+		border-bottom: 1px solid var(--sl-color-hairline-shade);
+		display: flex;
+		gap: 0.8rem;
+		font-size: var(--sl-text-base);
+	}
+	.cpx-crumbs a {
+		color: var(--sl-color-text-accent);
+	}
+	.cpx-cards {
+		list-style: none;
+		padding: 0;
+		margin: 1rem 0 2rem;
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+		gap: 1.4rem;
+	}
+	.cpx-card {
+		display: flex;
+		flex-direction: column;
+		border: 1px solid var(--gold, #8a6d2f);
+		border-radius: 6px;
+		overflow: hidden;
+		background: linear-gradient(180deg, var(--parchment-2, #e7dcc2), var(--parchment, #efe6d2));
+	}
+	:global(:root[data-theme='dark']) .cpx-card {
+		background: #1f1a13;
+	}
+	.cpx-card-img {
+		display: block;
+		aspect-ratio: 6 / 5;
+		background: #14110d;
+		border-bottom: 1px solid var(--gold, #8a6d2f);
+		overflow: hidden;
+	}
+	.cpx-card-img img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		display: block;
+		transition: transform 300ms ease;
+	}
+	.cpx-card:hover .cpx-card-img img {
+		transform: scale(1.03);
+	}
+	.cpx-card-body {
+		flex: 1;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1rem;
+		padding: 1.3rem 1.4rem 1.2rem;
+		text-align: center;
+	}
+	.cpx-card-body h2 {
+		margin: 0;
+		border: 0;
+		padding: 0;
+		font-family: 'Cinzel', var(--sl-font);
+		font-variant: small-caps;
+		font-size: var(--sl-text-h3);
+		line-height: 1.15;
+	}
+	.cpx-card-body h2 a {
+		color: var(--sl-color-white);
+		text-decoration: none;
+	}
+	.cpx-card-body p {
+		margin: 0;
+		line-height: 1.45;
+	}
+	.cpx-card-more {
+		color: var(--sl-color-text-accent);
+		font-size: var(--sl-text-lg);
+		text-underline-offset: 0.2em;
+	}
+</style>

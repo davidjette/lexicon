@@ -80,6 +80,7 @@ export default defineConfig({
 			// Search (Pagefind) is built in for production builds.
 			sidebar: [
 				{ label: 'Home', link: '/' },
+				{ label: 'Campaigns', link: '/campaigns/' },
 				...KINDS.map(([directory, label]) => ({ label, collapsed: true, items: [{ autogenerate: { directory } }] })),
 				{ label: 'Maps', link: '/maps/' },
 				{ label: 'Gallery', link: '/gallery/' },

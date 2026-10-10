@@ -11,6 +11,8 @@ const lexicon = z.object({
 	/** Normalized kind, which is also the content folder. */
 	kind: z.enum(['people', 'places', 'organizations', 'history', 'sessions', 'items', 'lore', 'species']).optional(),
 	tags: z.array(z.string()).default([]),
+	/** Campaigns the article belongs to, by id from src/data/campaigns.json. */
+	campaigns: z.array(z.string()).default([]),
 	/** Font Awesome icon name carried over from World Anvil. */
 	icon: z.string().optional(),
 	/** World Anvil template fields, kept as a flat map (172 distinct keys across types). */

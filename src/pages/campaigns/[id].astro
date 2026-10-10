@@ -1,0 +1,42 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import CampaignHero from '../../components/CampaignHero.astro';
+import CampaignIndex from '../../components/CampaignIndex.astro';
+import { CAMPAIGNS, grouped, withBase, type Campaign } from '../../lib/campaigns';
+import { getArticles, href } from '../../lib/articles';
+import { lead } from '../../lib/home';
+
+export function getStaticPaths() {
+	return CAMPAIGNS.map((campaign) => ({ params: { id: campaign.id }, props: { campaign } }));
+}
+
+const { campaign } = Astro.props as { campaign: Campaign };
+const groups = await grouped(campaign);
+const overview = (await getArticles()).find((e) => e.id === campaign.overview && !e.data.redacted);
+const overviewLead = overview ? lead(overview.body ?? '') : '';
+// Starlight's own "Overview" entry covers the banner and lead; the index is the one section below it.
+const headings = [{ depth: 2, slug: 'campaign-index', text: `${campaign.title} Campaign Index` }];
+---
+
+<StarlightPage frontmatter={{ title: campaign.title, description: campaign.tagline || `${campaign.title}: the campaign and its articles.`, prev: false, next: false }} headings={headings}>
+	<CampaignHero title={campaign.title} tagline={campaign.tagline} banner={campaign.banner} position={campaign.bannerPosition} />
+	{
+		overview && (
+			<>
+				{overviewLead && <p>{overviewLead}</p>}
+				<p>
+					<a href={href(overview)}>Read the full article: {overview.data.title} →</a>
+				</p>
+			</>
+		)
+	}
+	<CampaignIndex title={campaign.title} groups={groups} />
+	<p><a href={withBase('/campaigns/')}>All campaigns</a></p>
+</StarlightPage>
+
+<style is:global>
+	/* The banner and index run wider than an article's reading column. */
+	:root {
+		--sl-content-width: 63rem;
+	}
+</style>

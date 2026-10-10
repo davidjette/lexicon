@@ -20,7 +20,7 @@ push to `main` redeploys through GitHub Pages (`.github/workflows/deploy.yml`).
 ## Editing
 
 Edit the markdown directly, in any editor. Front matter carries `title`, `description` (one sentence,
-under 160 characters), `tags`, `fields` and `sources`. Internal links are `[Name](/<kind>/<slug>/)`.
+under 160 characters), `tags`, `fields`, `sources` and `campaigns` (campaign ids from `src/data/campaigns.json`; an article may list several). Internal links are `[Name](/<kind>/<slug>/)`.
 
 After a clone, turn on the hook that refuses to commit a note to Claude:
 

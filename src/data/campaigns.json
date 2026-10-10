@@ -1,0 +1,148 @@
+[
+	{
+		"id": "ages-of-the-infanta",
+		"title": "Ages of the Infanta",
+		"tagline": "A band of strangers guard a reborn goddess from a shipwreck to the heart of a waking god.",
+		"summary": "The founding chronicle of the Infantaverse in eight arcs: a band of strangers are shipwrecked with a reborn goddess, discover forgotten realms, and travel through time to foil an unborn cosmic horror.",
+		"banner": "/images/generated/campaign-ages-of-the-infanta.webp",
+		"bannerPosition": "center",
+		"overview": "lore/temple-holdings-llc",
+		"featured": {
+			"people": [
+				"people/kara",
+				"people/roland-deschain",
+				"people/drefan",
+				"people/brother-magnus",
+				"people/brownsleeves",
+				"people/cuthbert-couch",
+				"people/zanzibar",
+				"people/stonecypher",
+				"people/revan-darkcember",
+				"people/pim",
+				"people/xiii",
+				"people/fulori-splitheel"
+			],
+			"places": [],
+			"organizations": [],
+			"history": [],
+			"sessions": [],
+			"lore": []
+		}
+	},
+	{
+		"id": "ghosts-of-twatmarsh",
+		"title": "Ghosts of Twatmarsh",
+		"tagline": "A second party rises to rule Saltmarsh's temple and navy.",
+		"summary": "The heir to an ancient bloodline arrives in Saltmarsh after a gruesome public murder, joins with a pirate and her Kobold first mate to battle an order of assassins and seize control of the tides.",
+		"banner": "/images/generated/campaign-ghosts-of-twatmarsh.webp",
+		"bannerPosition": "center",
+		"overview": "lore/ghosts-of-twatmarsh",
+		"featured": {
+			"people": [
+				"people/gabriella-hellwood",
+				"people/scrunt-pissfoot",
+				"people/dolores-weathervein"
+			],
+			"places": [],
+			"organizations": [],
+			"history": [],
+			"sessions": [],
+			"lore": []
+		}
+	},
+	{
+		"id": "dead-mans-hand",
+		"title": "Dead Man's Hand",
+		"tagline": "Strangers murdered by the same man wake in Sigil's Mortuary and race for the Deck.",
+		"summary": "Five hundred years after the Ages of the Infanta, strangers murdered by the same man wake in Sigil's mortuary tattooed with fatemarks, and begin an interplanar race for the Deck of Many Things.",
+		"banner": "/images/generated/campaign-dead-mans-hand.webp",
+		"bannerPosition": "center",
+		"overview": "lore/dead-mans-hand",
+		"featured": {
+			"people": [
+				"people/heyu",
+				"people/lenore",
+				"people/shadowhigh",
+				"people/maverick",
+				"people/battlebeast",
+				"people/nicollo",
+				"people/barold-bonds",
+				"people/rodriel",
+				"people/tripp-sandhill"
+			],
+			"places": [],
+			"organizations": [],
+			"history": [],
+			"sessions": [],
+			"lore": []
+		}
+	},
+	{
+		"id": "unforeseen",
+		"title": "Unforeseen",
+		"tagline": "Four Imperial operatives swear in a ruined village to grow in power together.",
+		"summary": "Four Imperial operatives swore to grow in power together. But can they manage to murder, steal, lie, desecrate, and fornicate their way to power before they kill each other?",
+		"banner": "/images/generated/campaign-unforeseen.webp",
+		"bannerPosition": "center",
+		"overview": "organizations/the-unforeseen",
+		"featured": {
+			"people": [
+				"people/esther-crona",
+				"people/uriel-qualanthri",
+				"people/locke-pierce",
+				"people/john-c-lebeefe"
+			],
+			"places": [],
+			"organizations": [],
+			"history": [],
+			"sessions": [],
+			"lore": []
+		}
+	},
+	{
+		"id": "the-unforeseen-strike-back",
+		"title": "The Unforeseen Strike Back",
+		"tagline": "Three people topple Sharn, free a dragon and break the Empire's great bells.",
+		"summary": "In the rail outpost of Leef, three unlikely rebels stumble into a burgeoning revolution against an Empire shaped by the Unforeseen.",
+		"banner": "/images/generated/campaign-the-unforeseen-strike-back.webp",
+		"bannerPosition": "center",
+		"overview": "organizations/the-inevitables",
+		"featured": {
+			"people": [
+				"people/gemma-corso",
+				"people/sir-dario-argentino",
+				"people/eric-the-cleric"
+			],
+			"places": [],
+			"organizations": [],
+			"history": [],
+			"sessions": [],
+			"lore": []
+		}
+	},
+	{
+		"id": "starfall-tng",
+		"title": "Starfall: TNG",
+		"tagline": "The SSJ Zanzibar, five thousand years after the Ages.",
+		"summary": "Five thousand years after the Ages, the SSJ Zanzibar's continuing mission, to explore strange new planes, led by Captain Jim Smallberries and his intrepid crew of aliens, elves, robots, and insects.",
+		"banner": "/images/generated/campaign-starfall-tng.webp",
+		"bannerPosition": "center",
+		"overview": "lore/starfall-the-next-generation",
+		"featured": {
+			"people": [
+				"people/captain-jim-smallberries",
+				"people/caprica",
+				"people/barrias-ruby-eye",
+				"people/buttsack",
+				"people/carlos-vega",
+				"people/hyperion-tidzan-dassiya",
+				"people/se7en"
+			],
+			"places": [],
+			"organizations": [],
+			"history": [],
+			"sessions": [],
+			"lore": []
+		}
+	}
+]
