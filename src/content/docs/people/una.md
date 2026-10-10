@@ -97,7 +97,7 @@ Stonecypher used the Vault Wand on the railway gate at Baldur's Gate, and the ou
 
 In the War Wizards' intelligence file on Wainwright St. Cloud: "We now believe St. Cloud is directly culpable for more than the theft of Una, the infanta of War, and other high profile terrorist attacks throughout Faerun." <small>(Oral Histories: Temporal Holdings, 2019-01-28)</small> See [Wainwright St. Cloud](/people/wainwright-st-cloud/).
 
-[Maximillien](/people/maximillien/) had discovered that the new lightning rail train from Suzail to Baldur's Gate was carrying cargo important to the War Wizards, and he and Zanzibar boarded it. The party found that the cargo was Una. The conductor had used the vault wand to steal the train's treasures, Una among them, and the party stole the wand. After the crash they took her across the sea to [Motherstone](/places/motherstone/), which had just been liberated from the Company. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+[Maximillien](/people/maximillien/) had discovered that the new lightning rail train from Suzail to Baldur's Gate was carrying cargo important to the War Wizards, and he and Zanzibar boarded it. The party found that the cargo was Una, whom the Company's thieves were sending on to Waterdeep, where St. Cloud was based. Zanzibar stole her from the Company. The conductor had used the vault wand to steal the train's treasures, and the party stole the wand. After the crash they took her across the sea to [Motherstone](/places/motherstone/), which had just been liberated from the Company. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
 ## Resurrection and Motherstone
 

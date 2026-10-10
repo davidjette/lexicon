@@ -81,8 +81,6 @@ His character sheet gives his history:
 > Maximilian was raised as a Punisian court scribe, taught by the elder sages of the Arcaneum to read multiple languages, proficiency with many skills, and knowledge of history, biology, arcana, religion, and the arts of courtliness. He is the consummate secretary, diplomat and courtier and is very happy with his life of duty and purpose as a Steward of House Zanzibar.
 >
 > Maximilian proved himself as a military mind by leading an artillery deployment at an outpost on the Sembian border. After repelling an attempted raid on the camp while outnumbered, Maximilian instituted a tariff system that would improve security and raise considerable funds along the frontier. He was knighted by Zanzibar the Elder and fast-tracked into service as a steward and representative of the crown.
->
-> Maximilian's parents and two sisters are millers in the land of Paenis, they are happy and proud of their accomplished son.
 
 The sheet names his ally as "Zanzibar the Younger, Heir of Punis and Paenis", and his organization as "House of Zanzibar - Steward".
 

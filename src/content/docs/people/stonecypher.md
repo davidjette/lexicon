@@ -118,7 +118,7 @@ The prequel saga opened when the temple of Punis collapsed on a royal wedding. [
 
 At Baldur's Gate, Stonecypher used the Vault Wand on the railway gate, and the out-of-control steam engine careened into the void instead of into the station. The train that appears at the end, the Lost Train of [Arc VIII](/history/arc-viii-end-of-the-infanta/), is that same train, gone into the Vault Wand's non-room.
 
-She boarded the new lightning rail train from Suzail to Baldur's Gate with Zanzibar and Max. The conductor had used the vault wand to steal the train's treasures, the Infanta [Una](/people/una/) among them, and the party stole the wand. After the crash the three and Una crossed the sea to Motherstone, which had just been liberated from the Company. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+She boarded the new lightning rail train from Suzail to Baldur's Gate with Zanzibar and Max. The Infanta [Una](/people/una/) was aboard. Thieves employed by the Company had stolen her from the War Wizards, and she was on the train to be taken ultimately to Waterdeep, where St. Cloud was based. Zanzibar stole her from the Company. The conductor had used the vault wand to steal the train's treasures, and the party stole the wand. After the crash the three and Una crossed the sea to Motherstone, which had just been liberated from the Company. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
 ## Warlock of the Raven Queen
 

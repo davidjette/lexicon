@@ -40,3 +40,23 @@ create an article called "The Last March of the Maximilleans" with the right spe
 - "The Last March of the Maximilliens" is a song inspired by the hanging of the Maximilliens and their
   stalwart face at the gallows. It becomes a heroic theme for the Empire and its unofficial anthem.
 - The song is the one at https://www.youtube.com/watch?v=9vUtM9iySqg.
+
+## Follow-up 2
+
+Dave, in chat, the same day, verbatim. He was answering four points where this account and the older
+record disagreed: Maximillien's family (his character sheet says his parents and two sisters are millers),
+when the king died, where the mirror hangs at the Shadowhigh Inn, and who stole Una.
+
+---
+
+1. my canon here is correct, forget the s sheet 2. youre right he died later and the news made zanzibar king 3. its the corner booth. do not forget to include 'You'll see me in silver." 4. you are right, sorry.  thieves employed by the company stole her from the war wizards and she was on the train to be taken ultimately to Waterdeep where St cloud was based.  zanzibar stole her from the Company. Adjust that.
+
+---
+
+- Maximillien's father and brothers were hanged, as above. The character sheet's line about his parents
+  and two sisters being millers is set aside.
+- King Zanzibar died later, of the coma, and the news of his death made Zanzibar king.
+- The mirror at the Shadowhigh Inn hangs over the corner booth. Celion says, "You'll see me in silver."
+- Thieves employed by the Company stole Una from the War Wizards. She was on the train to be taken
+  ultimately to Waterdeep, where St. Cloud was based. Zanzibar stole her from the Company. The conductor
+  did not steal her.

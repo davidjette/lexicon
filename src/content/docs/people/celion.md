@@ -88,7 +88,7 @@ He reaches Kara first in a dream at the Shadowhigh Inn, lying "on a bed of canva
 
 He apologises for their history in the same breath as he warns her: "I should never have said anything to the Headmaster about your dragon heritage. I was a teacher's pet and a suck up and a bastard and I'm sorry."
 
-In the dream he was putting on his bathrobe, his body covered from neck to navel to wrist in arcane symbols, tattoos and muscle. Kara told him she thought he was dead, since the party had just killed him. He answered that he was not dead, and told her to go to the Shadowhigh Inn and look for him in silver. In the mirror he told her that his clone, Valen's and her own were in the highest plane of the Arcaneum, in the tenth circle, and described how to enter the school and find him. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
+In the dream he was putting on his bathrobe, his body covered from neck to navel to wrist in arcane symbols, tattoos and muscle. Kara told him she thought he was dead, since the party had just killed him. He answered that he was not dead, and told her to go to the Shadowhigh Inn. "You'll see me in silver." In the mirror he told her that his clone, Valen's and her own were in the highest plane of the Arcaneum, in the tenth circle, and described how to enter the school and find him. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## What he was speaking from
 
