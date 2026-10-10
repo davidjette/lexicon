@@ -53,6 +53,10 @@ and he should have brownsleeves...
 
 ---
 
+this looks great but I foget he's a halfling bruce willis. keep everything else the same.
+
+---
+
 ## What this establishes
 
 - The Lexicon has a Campaigns section: a tile on the front page and one page per campaign, each with a banner and a campaign index.
@@ -70,3 +74,4 @@ and he should have brownsleeves...
 - The Twatmarsh and Starfall player-character lists stand as shown.
 - Brownsleeves is not in the party's group portrait. His picture shows him at level 1, picking the lock of a crate that holds an elf family in the flooded hold, lit by a fleck of light the mother has cast, as the door opens.
 - In his picture Brownsleeves wears brown sleeves, and the family is shut in with no gap to climb through.
+- Brownsleeves looks like a halfling Bruce Willis: bald, stubbled and smirking.
