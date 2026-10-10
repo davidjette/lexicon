@@ -90,9 +90,11 @@ King Glenn Danzig of Cormyr, turned into a snail and turned back, appreciated Za
 
 "Zanzibar the Elder" is a relative title: it means the elder Zanzibar at any given time. In the Age of the Infanta it named the king of Punis, the father of the player character Zanzibar, and [Maximillien](/people/maximillien/)'s character sheet records that he "was knighted by Zanzibar the Elder". The title later stuck to the player character, and the Zanzibars after him took new epithets, such as the Penitent and the Melancholy. Dave: "zanzibar the elder refers to the elder zanzibar at any given time, until it sticks on the PC and future zanzibars call themselves by new epithets". <small>(Dave, sources/dave/2026-09-14-temple-holdings-open-questions.md)</small>
 
-At the wedding of one of the prince's cousins, the ancient temple of Punis, held aloft by Zarusian priestly magic, collapsed on the royal family and the guests. It put King Zanzibar in a coma and killed many of his kin, the bride and groom among them. Many suspected that Zarus had left his heaven like the other gods and been born as an Infanta somewhere in the world. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+At the wedding of one of the prince's cousins, the ancient temple of Punis, held aloft by Zarusian priestly magic, collapsed on the royal family and the guests. It put the king, Zanzibar's father, in a coma and killed many of his kin, the bride and groom among them. Many suspected that Zarus had left his heaven like the other gods and been born as an Infanta somewhere in the world. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
-In the original Punis game, set in another loop, Zanzibar the Elder was feuding with the Arcaneum over its surveillance of him and meant to shut the school down and take a good deal of its power. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
+Zanzibar the player character is Zanzibar the Elder. His father, the king hurt in the collapse, is an older Zanzibar who has no epithet of his own. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+
+Zanzibar the Younger and Maximillien the Younger were played briefly in the original Punis game, which is a different loop. In that game Zanzibar the Elder was king of Punis, was feuding with the Arcaneum over its surveillance of him, and meant to shut the school down and take a good deal of its power. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
 
 ## The first Emperor
 

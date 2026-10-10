@@ -60,3 +60,23 @@ when the king died, where the mirror hangs at the Shadowhigh Inn, and who stole 
 - Thieves employed by the Company stole Una from the War Wizards. She was on the train to be taken
   ultimately to Waterdeep, where St. Cloud was based. Zanzibar stole her from the Company. The conductor
   did not steal her.
+
+## Follow-up 3
+
+Dave, in chat, the same day, verbatim.
+
+---
+
+the amulet was Wainwright St Cloud's, who is the main St Cloud I ever talk about. Not ysmir's. Wainwright is the architect and he gave the anachron to the college.
+
+---
+
+dont confuse Zanzibar the Elder/Younger and MAximmillian the Elder/Younger.  We briefly played the Younger ones in a quest which we determined was a different loop.  Zanzibar the PC IS Zanzibar the Elder yes, but his father is an even older Zanzibar without his own monicer yet.
+
+---
+
+- Wainwright St. Cloud, not Ysmir, gave the Anachron to the Arcaneum and took the amulet of proof against
+  detection in exchange. Wainwright is the St. Cloud Dave means unless he says otherwise.
+- Zanzibar the player character is Zanzibar the Elder. His father is an older Zanzibar with no epithet of
+  his own yet.
+- Zanzibar the Younger and Maximillien the Younger were played briefly in a quest that is a different loop.

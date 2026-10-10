@@ -28,7 +28,7 @@ campaigns:
 
 ## The hanging
 
-After the temple of Punis collapsed on a royal wedding, Maximillien helped Zanzibar leave the town unnoticed. People loyal to the [War Wizards](/organizations/war-wizards/) and a rival house had the Maximilliens tried for treason, after they were shown to have helped him. Maximillien's father and many of his brothers were hanged for treason and for the deception and assassination of the younger Zanzibar. They were not cleared until Zanzibar returned during [the Suzail Coup](/history/the-suzail-coup/) and laid the blame on the War Wizards. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
+After the temple of Punis collapsed on a royal wedding, Maximillien helped Zanzibar leave the town unnoticed. People loyal to the [War Wizards](/organizations/war-wizards/) and a rival house had the Maximilliens tried for treason, after they were shown to have helped him. Maximillien's father and many of his brothers were hanged for treason and for the deception and assassination of the crown prince Zanzibar. They were not cleared until Zanzibar returned during [the Suzail Coup](/history/the-suzail-coup/) and laid the blame on the War Wizards. <small>(Dave, sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md)</small>
 
 ## The song
 

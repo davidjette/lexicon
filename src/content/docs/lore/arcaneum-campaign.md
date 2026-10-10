@@ -37,6 +37,7 @@ sources:
 - "Oral Histories: The Inevitables, 2020-07-26"
 - "Oral Histories: The Inevitables, 2021-10-23"
 - sources/dave/2026-10-09-kara-narrative.md
+- sources/dave/2026-10-09-zanzibar-prequel-and-the-maximilliens.md
 published: '2026-09-10'
 wa:
   slug: arcaneum-article
@@ -70,7 +71,7 @@ Celion helped the party from inside the Arcaneum, tank-bound in the tanks on the
 
 ## The original Punis game
 
-The original Punis game was the first game of Dungeons & Dragons that Nico, JL, Jenny and Dave played together, and it ran for one session. Dave set it in the kingdom of [Punis](/places/punis/). JL played Zanzibar the Younger, the bard son of the powerful king of Punis, Zanzibar the Elder, who was disappointed in him. The prince's best friend was Maximillien the Younger, a powerful paladin whose father had been the confidant of Zanzibar the Elder. Nico played Akira the Red, a pirate and adventurer, and Jenny played [Kara](/people/kara/), a fairly mysterious sorceress and wizard who liked to collect and sell magical items.
+The original Punis game was the first game of Dungeons & Dragons that Nico, JL, Jenny and Dave played together, and it ran for one session. Dave set it in the kingdom of [Punis](/places/punis/). JL played Zanzibar the Younger, the bard son of the powerful king of Punis, Zanzibar the Elder, who was disappointed in him. The prince's best friend was Maximillien the Younger, a powerful paladin whose father, Maximillien the Elder, had been the confidant of Zanzibar the Elder. Zanzibar the Elder is the Zanzibar of the Ages of the Infanta, and the two Younger men belong to a different loop. Nico played Akira the Red, a pirate and adventurer, and Jenny played [Kara](/people/kara/), a fairly mysterious sorceress and wizard who liked to collect and sell magical items.
 
 The four met in a tavern, where they also met Gordon Lightfoot, a bard popular around Cormyr and a Harper. Wizards attacked them there, and the party found that they had been sent from the Arcaneum, the college of the [War Wizards](/organizations/war-wizards/) just outside town. The Arcaneum was feuding with Zanzibar the Elder over its surveillance of him. The king meant to shut the school down and take a good deal of its power, and it seemed the Arcaneum might try to kidnap his errant prince to bargain with.
 
