@@ -126,9 +126,13 @@ At the end of one session of [Hope in Exile](/history/arc-i-hope-in-exile/), Eli
 
 ## The Council of Forgetting
 
-<small>Recovered from the Oblivia.</small> With her capital reclaimed she convenes a Council — Kara, Magnus, Drefan, Roland, Yoshi, and the survivors of Motherstone — to decide the city's place in the new world. There are two paths: tune the [Obliviator](/items/the-obliviator/) to hide Motherstone and Snowdown from the rest of the world and operate from the shadows, or open the city and fulfil the destiny of the Lexicon by gathering the next generation of Infanta together to preserve divine power in the Material Plane. House Gallidann, radicalised by its long alliance with the Forsworn and Calix, strains toward forgetting. The Lexicon argues to stay open — but will do as she asks.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The Council of Forgetting" reason="Recovered from the Oblivia"}
+With her capital reclaimed she convenes a Council — Kara, Magnus, Drefan, Roland, Yoshi, and the survivors of Motherstone — to decide the city's place in the new world. There are two paths: tune the [Obliviator](/items/the-obliviator/) to hide Motherstone and Snowdown from the rest of the world and operate from the shadows, or open the city and fulfil the destiny of the Lexicon by gathering the next generation of Infanta together to preserve divine power in the Material Plane. House Gallidann, radicalised by its long alliance with the Forsworn and Calix, strains toward forgetting. The Lexicon argues to stay open — but will do as she asks.
 
 After the fall of the Arcaneum, Dave wrote that "Ella considers herself monarch of Motherstone". <small>(Oral Histories: Temporal Holdings, 2019-04-01)</small>
+:::
 
 ## Brightmantle and the broken Lexicon
 
@@ -148,7 +152,11 @@ In Arc VII, when the party returns to Motherstone, "Brightmantle is dead. Elistr
 
 ## What she is beneath the goddess
 
-<small>Recovered from the Oblivia.</small> At the end of time, the goddess **June** gives the floor under everything: the gods of this realm are the split soul of the Star Child, whose name was **Zoth-Ommog**, who left their father somewhere deep in the dark and fled him across all of time. Elistrae is also a fragment of divided memory, hiding from a blind devourer in the one place he cannot look — a self that happens *in Time*.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What she is beneath the goddess" reason="Recovered from the Oblivia"}
+At the end of time, the goddess **June** gives the floor under everything: the gods of this realm are the split soul of the Star Child, whose name was **Zoth-Ommog**, who left their father somewhere deep in the dark and fled him across all of time. Elistrae is also a fragment of divided memory, hiding from a blind devourer in the one place he cannot look — a self that happens *in Time*.
+:::
 
 ## Drefan
 

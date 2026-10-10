@@ -96,6 +96,7 @@ So too the **Sun Elves** (Copperbane), the **Drow** (Onyxbane), the **High Elves
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="Tylerjynex's pledge" reason="Recovered from the Oblivia"}
 > You traveled back in time countless times, you saved me and my entire race as a child with Time-Bending magic, saved the planet by moving the moon into the path of the Evening Star, left me with the greatest gift I'd ever received (the Tudix Cube), hunted the Traveler across the epochs, sacrificed yourself in multiple lifetimes, tracked me down to reignite my desire to destroy the greatest evil, solved my greatest dungeon, defeated my mortal enemies, and you are the mother of my Egg. I am with you to the end.
 
 The copper dragon [Tylerjynex](/people/tylerjinex/) — Peter Glans, husband of the dead elf-queen Alen Tudix — and [Kara](/people/kara/) have made an egg of their own, and he stays behind to guard it so she can fulfil her mission.
@@ -103,6 +104,7 @@ The copper dragon [Tylerjynex](/people/tylerjinex/) — Peter Glans, husband of 
 During the ceremony, Lex and Magnus touch the body before it is entombed; Magnus sees a vision of Brightmantle and receives his goodbye and final blessing. No attempt to raise him succeeds, but Brightmantle leaves enough of himself in his final act, channelled through Magnus, that the dwarf recovers his full power and can empower the faithful of Brightmantle within a mile radius. <small>(Arc VII, Leviathan I, "The Throne of Tears.")</small>
 
 The Lex who touches the body is the [Lexicon](/items/the-lexicon/) Brightmantle built to run the heart of Motherstone, infused with his own personality and intelligence, and since the Second Battle of Motherstone housed in the [Anachron](/items/the-anachron/).
+:::
 
 ## The plan to stop the end of the world
 
@@ -110,13 +112,17 @@ The Lex who touches the body is the [Lexicon](/items/the-lexicon/) Brightmantle 
 
 ### The Weave, the Nether, and the Apotheosis of Man
 
-<small>Recovered from the Oblivia.</small> The prisoner, a demi-arcanist named **Civis**, explains how Netheril really works:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The Weave, the Nether, and the Apotheosis of Man" reason="Recovered from the Oblivia"}
+The prisoner, a demi-arcanist named **Civis**, explains how Netheril really works:
 
 > The Weave is like a quilt, or a giant web, that all of us are a part of whether we like it or not. Everything flows away from it at every point in space, this is what causes time… The strongest of these arcanists become what you call gods… But the Mammon Machine lets us strum the Weave like a guitar, because unlike the Weave, the Nether sucks that energy in, causing Flux and Paradox.
 
 The Empire's every wonder — its mythallar, its flying cities, its conquest of death — is powered by **Flux**: the magic of the dead, funnelled out of the natural cycle and into the **Nether** through a network of leylines emanating from the [Obliviator](/items/the-obliviator/) and the [Mammon Machine](/items/the-mammon-machine/). Now the Netherese queens prepare the **Apotheosis of Man** — to bring the Mammon Machine to the **Black Omen**, the God Egg, and "create a New Star… a moon of Pure Magic, of unlimited energy, and divine beauty."
 
 Lex read the same plan as annihilation: channel the souls of the dead into the heart of the Egg, and **Cthulhu remerges with the remnants of Zoth, and Time and Consciousness itself give way to total oblivion inside the mind and Will of Cthulhu.** Calix, who hears the Call of Cthulhu in his visions, confirms the trap: the god deceived the queens through St. Cloud, "warped their understanding so that they would bring all the magic of their world to bear against their own existence." Civis only shrugs: *"It's foolish to think you can change nature… eventually we are forgotten and added to the great blackness where all things reset."*
+:::
 
 ## Toward Zeal
 

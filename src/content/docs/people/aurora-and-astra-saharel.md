@@ -59,14 +59,19 @@ campaigns:
 
 ## What they did before the chronicle
 
+:::redacted{label="What they did before the chronicle" reason="Recovered from the Oblivia"}
 Their own account: they came to Sigil with the sage — [Wainwright St. Cloud](/people/wainwright-st-cloud/) — after the Second Fall, took the Banefae's home while the Banefae "were feeding our people into oblivion," held the cities by the time the Banefae returned, and cast them into Despondos, "where all of them perished." The longer version adds the sage's own fate: "The sage had lied to us for a century, so we threw him in as well and gave his house to the poor. He caused both the First and Second Fall. Now he will trigger the Third."
+:::
 
 ## Their part in the Netherese era
 
+:::redacted{label="Their part in the Netherese era" reason="Recovered from the Oblivia"}
 The queens of Netheril are the authority that destroyed the orcish archivists. [Zebulon the Meek](/people/zebulon/): "after the queens of Netheril demanded that we open our archives to their archmages, our people were divided on how to answer… Our leaders took sides against themselves, so that when the Netherese attacked we were already defeated." <small>(Arc VI Part IX.)</small> The archive they were demanding was [the Chronicle](/items/the-chronicle/), and they never reached it.
+:::
 
 ## At the Egg
 
+:::redacted{label="At the Egg" reason="Recovered from the Oblivia"}
 The sisters were at the Egg twice. They came once as Marcus and the Lady of Pain from the present, and once as the Saharel twins, young women of Netheril, from Antiquity in the second loop. The party went back in time and recruited allies for the Egg; some of those allies were allies, and some enemies, in their own timeline's future.
 
 **White — Cast Spell:** "Cast any spell of 5th level or lower with a casting time of less than 1 minute."
@@ -74,10 +79,13 @@ The sisters were at the Egg twice. They came once as Marcus and the Lady of Pain
 **Black — Reality Sunder:** "Deal 50d10 force damage to all creatures you choose in a 120 foot radius. STR Save 25, on success, cr. is healed 30d10 instead."
 
 <small>The largest damage figure printed on any card in the set. The sisters also each have their own separate card.</small>
+:::
 
 ## Status
 
+:::redacted{label="Status" reason="Recovered from the Oblivia"}
 Not recorded. Both sisters arrive at the final battle together, having killed Asmodeus and "returned Death to its natural rule."
+:::
 
 **Related:** [Marcus](/people/marcus/) · [The Lady of Pain](/people/the-lady-of-pain/) · [Sigil](/places/sigil/) · [Zebulon](/people/zebulon/) · [The Chronicle](/items/the-chronicle/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/)
 

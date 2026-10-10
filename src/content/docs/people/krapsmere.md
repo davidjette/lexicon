@@ -71,6 +71,10 @@ While the party prepared at Cormanthyr, the elves were still coming to terms wit
 
 ## The Egg
 
-<small>Recovered from the Oblivia.</small> At the Crack in the side of the Egg the allied host entered group by group: "One by one, the columns of Purple Dragons led by Lord Krapsmere and each protected by a Warmage in a bubble of brilliant magic, tredge into the acid meat of the egg and into the darkness." <small>(Sic. Arc VIII, notes for a final encounter.)</small> See [Arc VIII, End of the Infanta](/history/arc-viii-end-of-the-infanta/).
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The Egg" reason="Recovered from the Oblivia"}
+At the Crack in the side of the Egg the allied host entered group by group: "One by one, the columns of Purple Dragons led by Lord Krapsmere and each protected by a Warmage in a bubble of brilliant magic, tredge into the acid meat of the egg and into the darkness." <small>(Sic. Arc VIII, notes for a final encounter.)</small> See [Arc VIII, End of the Infanta](/history/arc-viii-end-of-the-infanta/).
+:::
 
 **Related:** [The Purple Dragons](/organizations/the-purple-dragons/) · [The Suzail Coup](/history/the-suzail-coup/) · [War Wizards](/organizations/war-wizards/) · [Suzail](/places/suzail/) · [Myth Drannor](/places/myth-drannor/) · [Arc III, Age of the Infanta](/history/arc-iii-age-of-the-infanta/)

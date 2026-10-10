@@ -192,6 +192,7 @@ After his exile at the hands of the Arcaneum, [Zanzibar](/people/zanzibar/) retu
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="Carlysle, the Palantir, and the Lexicon" reason="Recovered from the Oblivia"}
 At the first Battle of Motherstone Roland had shot Carlysle in the face. <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
 
 The party was away in Cormyr when the mechanical heart of [Carlysle St. Cloud](/people/carlysle-st-cloud/) — buried months earlier — dug itself out of its grave, drilled down to the Seat of the Lexicon at the underground focal point of [Motherstone](/places/motherstone/)'s largest crystal, and took a body from the automaton Centurions stored nearby, along with the [Palantir](/items/the-palantir/) held there. Its aim was to corrupt and destroy the Lexicon and so lower the city's defences, since the Lexicon powered and managed the great Mythal.
@@ -199,6 +200,7 @@ The party was away in Cormyr when the mechanical heart of [Carlysle St. Cloud](/
 The party fought the robot. **Roland then touched the Palantir, and [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled him through it.** Because he had helped work on the Lexicon with Magnus, he was able to **scram the entire Lexicon program**, and he let the Company into Motherstone. Wainwright jumped his ships into the city's airspace and the **Second Battle of Motherstone** began. Dave's later summary of the sequence: "Roland touched the Palantir and then St Cloud mind controlled him and he destroyed Lex and let the Company into Motherstone and was put on trial for it because you obliviated Carlysle". <small>(Oral Histories: Temporal Holdings, 2021-10-30)</small>
 
 The party and Motherstone won the battle: "they destroyed two of the ships and stopped the invasion, the last ship jumped back to Sigil with Couch on board, they captured Carlysle in Rolands cube and then threw him and the Palantir into the Obliviator." <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
+:::
 
 ## The Obliviator
 
@@ -236,11 +238,15 @@ Lex had already been built into the party's airship, the [Arielle](/items/the-ar
 
 ## Elistrae's dream-raids
 
-<small>Recovered from the Oblivia.</small> With the Lexicon dark and her worshippers cut off, Elistrae invades the heroes' dreams in [Arc IV](/history/arc-iv-the-infernal-machines/), raiding their memories: "She seems obsessed with mining your memory for what broke the city, how St. Cloud accomplished this, and how it could be reversed. Every night, she tries to force you to remember the maddening echoes of what happened when the Lexicon died." <small>(Arc IV Part II.)</small>
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Elistrae's dream-raids" reason="Recovered from the Oblivia"}
+With the Lexicon dark and her worshippers cut off, Elistrae invades the heroes' dreams in [Arc IV](/history/arc-iv-the-infernal-machines/), raiding their memories: "She seems obsessed with mining your memory for what broke the city, how St. Cloud accomplished this, and how it could be reversed. Every night, she tries to force you to remember the maddening echoes of what happened when the Lexicon died." <small>(Arc IV Part II.)</small>
 
 Roland suffers worst of the party: he is the one who shut the Lexicon down, and the reason for it has been obliviated. She also forces him repeatedly through the moment in his father's gunshop, the box St. Cloud could not open, and the murder he cannot recall.
 
 In those dreams he saw "visions of himself on a precipice above a rift." <small>(Oral Histories: Temporal Holdings, 2019-08-22)</small>
+:::
 
 ## Sigil
 

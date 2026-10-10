@@ -135,7 +135,10 @@ It was [Flex Gimble](/people/flex-gimble/) who led the party to the Seat of the 
 
 ### What Motherstone truly was — the Lexicon and the Obliviator
 
-<small>Recovered from the Oblivia.</small> Motherstone was built around the **Lexicon**: a mind grown inside the heart of the world's largest **perfect moonstone**, a crystal able to "stand in for the mind itself." It managed the city's power, water, weather, architecture and defences, drawing knowledge from agents wearing **diadems** in the field and through the **Gate Ring** — a stable abyssal vortex the mage [Calix](/people/calix/) opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward itself. Motherstone became the hub of the universe, a living library of all knowledge.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What Motherstone truly was — the Lexicon and the Obliviator" reason="Recovered from the Oblivia"}
+Motherstone was built around the **Lexicon**: a mind grown inside the heart of the world's largest **perfect moonstone**, a crystal able to "stand in for the mind itself." It managed the city's power, water, weather, architecture and defences, drawing knowledge from agents wearing **diadems** in the field and through the **Gate Ring** — a stable abyssal vortex the mage [Calix](/people/calix/) opened to make the city a *data vacuum*, pulling the echoes of all information in creation toward itself. Motherstone became the hub of the universe, a living library of all knowledge.
 
 The Lexicon was built by [Brightmantle](/people/brightmantle/), the dwarven second Infanta, to run the heart of Motherstone using the Obliviator and the great crystals in the mountain, and it carries his personality and intelligence. It did not stay in the mountain. In Arc III Lex was built into the party's airship, the [Arielle](/items/the-arielle/), whose drive is the [Anachron](/items/the-anachron/). <small>(Oral Histories: Temporal Holdings, 2019-05-05)</small> [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled [Roland](/people/roland-deschain/) through [the Palantir](/items/the-palantir/), and Roland destroyed the Lexicon and let the Company into Motherstone. About three rounds into the Second Battle of Motherstone Lex transferred himself to the ship, and the Motherstone Lexicon died. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small> <small>(The full record of the machine under all three of its names is at [The Anachron](/items/the-anachron/).)</small>
 
@@ -150,6 +153,7 @@ The Lexicon is broken because a single date is missing from its records: the day
 > My apologies brave heroes, but I have a job to do. The secrets we have learned here will change the world, and I — FLEX GIMBLE — will be their inventor. The Sword Coast Trading Company can have their Moonstones, but I will harness this knowledge and construct a new age of machines beyond all their understanding. Goodbye, fools!
 
 Flex struck just as the party cured the Lexicon. His shrink ray made them tiny, and a flood spell pushed them hundreds of feet down to the bottom of the crystal, which opened over the **Winking Depths**. They caught hold of the roots of the **Eldergreen** and climbed into the deep fey realm of the **Underglow** — the world of the worms and beetles. <small>(The opening lies toward [the Egg](/places/the-egg/); the party did not know it.)</small>
+:::
 
 ## Part IV — The Underglow
 
@@ -175,13 +179,17 @@ Meanwhile, in the drowning Drembles, [Yoshi](/people/yoshi/) follows a hooded Dr
 
 ### The Dragon of Motherstone — and where Yoshi came from
 
-<small>Recovered from the Oblivia.</small> Motherstone was not some terra nova when the Infantas came. It was the roost of a great being: *"Some would say a living god. But you and I would be more precise to call him — father."* The dragon was [Tylerjynex](/people/tylerjinex/), the great copper dragon of the Snowy Mountain. Seeing goodness in the Infanta, he pledged his fealty and conceived **seven eggs** to be her honour guard, raised by the white furnace of the Underforge. The traitor Calix beguiled Tylerjynex and banished him to a dark abyss; the hatchlings were slain in their sleep — by the agents of [House Gallidann](/organizations/house-gallidann/), who "could not stand to see anyone but elves at the side of the Infanta." The priest hatched three centuries ago and tried to hatch the others himself. Two eggs were stolen, discarded into a seam in the rock, and against all odds survived — and one of them was Yoshi. The elder gives him the honour-guard's weapon: a blade that draws its power "from the arcane magics of the Earth itself" and burns with radiant light.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The Dragon of Motherstone — and where Yoshi came from" reason="Recovered from the Oblivia"}
+Motherstone was not some terra nova when the Infantas came. It was the roost of a great being: *"Some would say a living god. But you and I would be more precise to call him — father."* The dragon was [Tylerjynex](/people/tylerjinex/), the great copper dragon of the Snowy Mountain. Seeing goodness in the Infanta, he pledged his fealty and conceived **seven eggs** to be her honour guard, raised by the white furnace of the Underforge. The traitor Calix beguiled Tylerjynex and banished him to a dark abyss; the hatchlings were slain in their sleep — by the agents of [House Gallidann](/organizations/house-gallidann/), who "could not stand to see anyone but elves at the side of the Infanta." The priest hatched three centuries ago and tried to hatch the others himself. Two eggs were stolen, discarded into a seam in the rock, and against all odds survived — and one of them was Yoshi. The elder gives him the honour-guard's weapon: a blade that draws its power "from the arcane magics of the Earth itself" and burns with radiant light.
 
 Above them, the Company makes good on Fhastine's warning: a mining blast tears open the **Deepgate**, and Mundi and Drek must fight side by side to hold the breach.
 
 In the **Arcaneum**, the city's college of wizards, the heroes find a **Planetarium** whose thrones reveal the cosmology the Motherstone scholars knew — eleven planes arranged like the planets, from the **Sun** (Chaos, "the source of all magic") through the **Moon** ("a reflection of the Prime material against the Astral Plane… the Earth and Moon are twins, a body and its shadow") to the **Cosmos** (the Astral Void). Selecting the last symbol shows them something worse: "a dark orbit that intersects directly with Faerûn, a black streak that touches down in the sea off the coast of Snowdown."
 
 By the end of this part the Company had breached the gates, the grandmaster's throne was missing, and Yoshi had met his long-lost brother, who gave him a lightsaber. <small>(Oral Histories: Temporal Holdings, 2018-06-03)</small> A spirit naga, bound in a staff until Drefan touched it, was loose in the Arcaneum; the entire marine force of the Sword Coast Trading Company was outside; and the Obliviator was about to explode. <small>(Oral Histories: Temporal Holdings, 2018-06-04)</small>
+:::
 
 ## Part VI — The Seal of Time
 
@@ -193,13 +201,20 @@ The party came back to the city knowing what had to be done: find Calix's phylac
 
 ### Stone — the secret in the vault
 
-<small>Recovered from the Oblivia.</small> What the party uncovered there was the cause of the Forgetting. Calix planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal. Before he could, [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta who had built the Lexicon with Calix, could not bear that [Elistrada](/people/elistrae/) — his wife and love — would think he had turned on her. He threw himself into the [Obliviator](/items/the-obliviator/), so that she would forget he had ever existed.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Stone — the secret in the vault" reason="Recovered from the Oblivia"}
+What the party uncovered there was the cause of the Forgetting. Calix planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal. Before he could, [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta who had built the Lexicon with Calix, could not bear that [Elistrada](/people/elistrae/) — his wife and love — would think he had turned on her. He threw himself into the [Obliviator](/items/the-obliviator/), so that she would forget he had ever existed.
 
 That act made everything about Motherstone, not just its location, cursed and obliviated knowledge. It drove Calix and the Gallidan elves insane: they slew the dwarves, and then Calix and Eldamir slew each other on the beach, though Calix, immortal, survived. It turned Elistrada into a mysteriously depressed and always-weeping queen. And it put the Lexicon into a fatal error — **Ayror** — in which it attacked everything while trying to learn the identity of its master, and of itself. By curing the Lexicon and uncovering the secret, the party freed the memory of Stone.
+:::
 
 ### Calix the Betrayer — the buried throne and the thing he fears
 
-<small>Recovered from the Oblivia.</small> After Stone and Elistrada invited the Infanta of the world to live in peace in Motherstone, Calix betrayed them: at the peace-treaty meeting he murdered dozens of Infanta, a massacre that "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> **The Forgetting** followed from that betrayal. The nursery rhymes tell Calix's crime as a seduction. He buried his own terminal-throne to replace the Lexicon with himself — to dissolve his mind entirely into the crystal and become one with the Motherstones, using the Lexicon and the Obliviator to gather all the knowledge of the world. He did it to outlast the one thing he is afraid of: the [Leviathan](/lore/the-leviathan/). His remnant says it plainly, in the words of the ancient drama:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Calix the Betrayer — the buried throne and the thing he fears" reason="Recovered from the Oblivia"}
+After Stone and Elistrada invited the Infanta of the world to live in peace in Motherstone, Calix betrayed them: at the peace-treaty meeting he murdered dozens of Infanta, a massacre that "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> **The Forgetting** followed from that betrayal. The nursery rhymes tell Calix's crime as a seduction. He buried his own terminal-throne to replace the Lexicon with himself — to dissolve his mind entirely into the crystal and become one with the Motherstones, using the Lexicon and the Obliviator to gather all the knowledge of the world. He did it to outlast the one thing he is afraid of: the [Leviathan](/lore/the-leviathan/). His remnant says it plainly, in the words of the ancient drama:
 
 > My sin is the Forgetting.\
 > Time is the only recompense.\
@@ -228,6 +243,7 @@ The whole arc is foretold, in code, in the lullaby Mara's mother could never sin
 A scholar's note in the journal corrects the other great misconception, too. The Infanta was no deathless child:
 
 > Stories always frame the Infanta as an eternal child, but she was quite the opposite. She was a human girl who lived and died at a ripe old age. How old was she when Calix betrayed her? This is not recorded.
+:::
 
 ## Part VII — Coronation
 

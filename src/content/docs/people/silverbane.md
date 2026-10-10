@@ -96,7 +96,10 @@ Silverbane seeks the advancement of elvenkind and elven ideals. **Courage, loyal
 
 ## The confession
 
-<small>Recovered from the Oblivia.</small> Silverbane remembers the slaying of [Calix](/people/calix/), because it did it itself. Eldamir and Calix stood on the beach as boats landed all around them; Calix tried to blind Eldamir with fire and poison, and Eldamir ran into battle with her eyes closed, following Silverbane's lead into her brother's heart. They both fell dead on that spot — but Calix had buried part of his soul elsewhere.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The confession" reason="Recovered from the Oblivia"}
+Silverbane remembers the slaying of [Calix](/people/calix/), because it did it itself. Eldamir and Calix stood on the beach as boats landed all around them; Calix tried to blind Eldamir with fire and poison, and Eldamir ran into battle with her eyes closed, following Silverbane's lead into her brother's heart. They both fell dead on that spot — but Calix had buried part of his soul elsewhere.
 
 It remembers killing a great many more than Calix. In Eldamir's hands it slew hosts of dwarves, orcs, dragonkin and men. After the Betrayal the elves of Snowdown poured out their wrath on every other race in the Moonshae, and Silverbane was at the front. Pressed, it cannot remember the nature of the Betrayal at all — only that the Infanta's heart was broken and Eldamir thirsted for revenge against her brother.
 
@@ -105,16 +108,21 @@ The worst of it comes at the blood seal beneath Motherstone, which glows when th
 > After the Forgetting of Motherstone, Eldamir blamed the dwarves and pledged to rid them from the Moonshae Isles and the world… When they were gone, they led a genocide, capturing entire populations and leading them still alive into their tombs.
 
 And then, because the seal demands it, **Silverbane must take the blood of a dwarf to open it** — the sword that led the genocide, asked for one more dwarf.
+:::
 
 ## Memory across the Oblivia
 
-<small>Recovered from the Oblivia.</small> Reunited with its siblings Onyxbane, Ironbane and Glassbane in the rewritten past of the Time of Troubles, away from the [Oblivia](/lore/the-oblivia/) that erased that age, the blades find that their memories and intellects are sharper in each other's presence, and that being in that age makes them more powerful than ever. Silverbane finally recovers the founding:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Memory across the Oblivia" reason="Recovered from the Oblivia"}
+Reunited with its siblings Onyxbane, Ironbane and Glassbane in the rewritten past of the Time of Troubles, away from the [Oblivia](/lore/the-oblivia/) that erased that age, the blades find that their memories and intellects are sharper in each other's presence, and that being in that age makes them more powerful than ever. Silverbane finally recovers the founding:
 
 > I remember these times much better now. You have to forgive me, but much of this age was erased from history, which for you is written record but for me, is empty spaces spoiling my persistent memory. But now that I've seen myself as I was in this time — with Eldamir — I remember what it was like. Elistrae came to us in the body of a human girl, and the elders did not know what to do, at first. They tried to exorcise her, summon her out of the child, but it was no use. The elvish god had fused to a mortal soul in order to be born and spread her grace.
 
 The recovered memory also carries Elistrae's forbidden love for an avatar of a dwarven god, and Eldamir and Calix "moments away from drowning their entire landing camp in the Sea of Swords" before the goddess stayed their hand and gave them [Motherstone](/places/motherstone/).
 
 The blades also meet an older, corrupted version of it riding with the Masked Prophet toward the destruction of dwarves and men. Silverbane's response is immediate — *"NOT me, to be clear…"* — and Ebonbane agrees: "That's right. This Silver was haggard, much older and totally jaded."
+:::
 
 ## How it is treated
 

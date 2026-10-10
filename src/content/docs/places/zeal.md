@@ -53,26 +53,35 @@ campaigns:
 
 ## St. Cloud's base
 
+:::redacted{label="St. Cloud's base" reason="Recovered from the Oblivia"}
 The party learned in the Time of Troubles "where St Cloud spends the Time of Troubles (Zeal)". <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small> They did not go there for a long time. Dave: "You could have confronted the twins right after defeating the Waning One" / "Or gone to Zeal right when you got to this epoch". <small>(Oral Histories: The Inevitables, 2022-06-11)</small> The twins are the queens of Netheril, [Astra and Aurora Saharel](/people/aurora-and-astra-saharel/).
+:::
 
 ## The avatara
 
+:::redacted{label="The avatara" reason="Recovered from the Oblivia"}
 Ioulaum's Notes on Epic Spells close their list of epic spells with an Orcish symbol:
 
 > अवतार: (Invocation/Evocation, Enchantment/Charm, Alteration) – Orcish, Unknown, pronounced ‘avatara’ - IF YOU SEE THIS SYMBOL BRING WHATEVER IT IS ON TO ZEAL IMMEDIATELY VIA SECURE TELEPORTATION
 
 <small>— Arc VI, Notes on Epic Spells.</small>
+:::
 
 ## The center of all power
 
+:::redacted{label="The center of all power" reason="Recovered from the Oblivia"}
 Civis, a Netherese demi-arcanist captured by the party, described the Flux that ran the empire: "Flux is what cycles magical energies through the Weave and makes Zeal the center of all power in the world." The magic of the dead, funnelled into the Nether, "can power every mythallar and magic object in the Empire." <small>(Arc VII, Leviathan I.)</small> See [the Mammon Machine](/items/the-mammon-machine/).
+:::
 
 ## The jubilee
 
+:::redacted{label="The jubilee" reason="Recovered from the Oblivia"}
 At the war council after [Brightmantle](/people/brightmantle/)'s funeral, "Reports are that the Netherese capital city of ZEAL has begun preparations for a tremendous celebration, some kind of culmination of faith and a magical jubilee." <small>(Arc VII, Leviathan I.)</small> The queens were preparing the **Apotheosis of Man**, to "bring the power of the Mammon Machine toward the Black Omen, the God Egg, and create a New Star." <small>(Arc VII, Leviathan I.)</small> See [Arc VII — Leviathan](/history/arc-vii-leviathan/).
+:::
 
 ## Into orbit
 
+:::redacted{label="Into orbit" reason="Recovered from the Oblivia"}
 At the climax of the arc Dave put a question to the party: "The Mammon Machine connects the airship to the Penteract, your army is in the Penteract, your friends are too, if you separate it from the airship, how will you deliver them into the Egg?" <small>(Oral Histories: The Inevitables, 2022-07-03)</small> The party reached Netheril only at the end of the arc, "leaving it a short stint". <small>(Oral Histories: Temporal Holdings, 2022-07-06)</small>
 
 > To fill everyone in: the Time of Troubles comes to a climax as the city of Zeal rises into orbit to meet the Egg, carrying the Obliviator and the Armies of Faerun. The Grey Sage / Wainwright St Cloud is captured alive (!) and Roland’s Cube is in hand, though broken. In one day, Zeal will enter the Egg and the confrontation with the Leviathan will begin.
@@ -82,11 +91,14 @@ At the climax of the arc Dave put a question to the party: "The Mammon Machine c
 <small>— Dave, sic on "what do with". (Oral Histories: Temporal Holdings, 2022-07-17)</small>
 
 [Roland](/people/roland-deschain/) was still inside [Roland's Cube](/items/rolands-cube/) when it was recovered.
+:::
 
 ## At the Egg
 
+:::redacted{label="At the Egg" reason="Recovered from the Oblivia"}
 At the final battle the party attacked the Egg from three epochs at once. In Antiquity the Egg flew above the Sea of Swords, raised there by the Netherese and the Grey Sage, and the party flew Netheril's own Obliviator into it. <small>([The Ally Cards](/lore/the-ally-cards/).)</small> The plan for the fight against Cthulhu reads: "Run Cthulhu and try to kill everyone. Frequently target ZEAL and the STARSHIP as needed, especially with Mind Blast." <small>(End of the Infanta, notes for a final encounter.)</small> See [Arc VIII — End of the Infanta](/history/arc-viii-end-of-the-infanta/).
 
 Cypher's Wish at the end of the battle erased Cthulhu and the Obliviator from memory, and with them the war at the Egg. See [the Oblivia](/lore/the-oblivia/).
+:::
 
 **Related:** [Netheril](/places/netheril/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [The Egg](/places/the-egg/) · [The Obliviator](/items/the-obliviator/) · [Roland's Cube](/items/rolands-cube/) · [Aurora & Astra Saharel](/people/aurora-and-astra-saharel/) · [Arc VI — Time of Troubles](/history/arc-vi-time-of-troubles/)

@@ -222,7 +222,11 @@ Immediately after the Ages of the Infanta, Zanzibar, crowned king of Cormyr and 
 
 As **Zanzibar the Elder**, First Emperor of Faerûn, he founded the Empire following the defeat of [Asmodeus](/people/asmodeus/) and the end of [the Infanta Crisis](/lore/the-infanta-crisis/). The world remembers that troops on the surface led by Zanzibar and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, killing [Wainwright St. Cloud](/people/wainwright-st-cloud/) and ending the Infanta Crisis.
 
-<small>Recovered from the Oblivia.</small> Una, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed her, but not before the summoning, and a portal was used for him to step down toward [the Egg](/places/the-egg/). The party defeated Asmodeus at the threshold of the portal from a Waterdeep tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out. The Egg and the final battle were obliviated, and that battle is forgotten.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Emperor of Faerun" reason="Recovered from the Oblivia"}
+Una, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed her, but not before the summoning, and a portal was used for him to step down toward [the Egg](/places/the-egg/). The party defeated Asmodeus at the threshold of the portal from a Waterdeep tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out. The Egg and the final battle were obliviated, and that battle is forgotten.
+:::
 
  The state patron deity **Zarus** blessed his bloodline to rule forever, and every emperor since has claimed descent from holy blood. His successors rule from [the Glass Throne](/items/the-glass-throne/); among them were [Zanzibar the Penitent](/people/zanzibar-the-penitent/) and his son [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), in whose first month on the throne, with four factions risen against him, [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) was beginning. Rival empires claiming to be the true Zanzibar came later. Of the Lexicon's rule, Dave: "the previous line of Zanzibars resisted that for 500 years because Zanny wasn’t about to let Revan take over his part of the universe". <small>(Oral Histories: The Inevitables, 2025-11-09)</small>
 

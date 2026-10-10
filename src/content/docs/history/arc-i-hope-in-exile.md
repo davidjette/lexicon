@@ -88,7 +88,10 @@ The player characters board as passengers, stowaways or prisoners. The decks tee
 
 ### What lay in the deep hold
 
-<small>Recovered from the Oblivia.</small> Below the cargo, in Deep Storage, St. Cloud smuggled **forty starving wood-elf slaves** and the sarcophagus of **Daenan Gallidann** — "the well-preserved corpse of a centuries-dead elven prince who worshipped Elistraee the Dark Maiden." **Silverbane was in that sarcophagus.** [Drefan](/people/drefan/) is a Gallidan, and he takes his house's shard of Perfect moonstone out of it. <small>(See [The Bane Blades](/items/the-bane-blades/).)</small> Daenan is a *baelnorn*, an elven lich; the record says the baelnorn "willingly turned themselves undead in order to stay on Earth and fight against the tide of man," guarding his family's forest lands until an earthquake sealed him in his tomb. Interred with him are three relics that echo through the whole chronicle:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What lay in the deep hold" reason="Recovered from the Oblivia"}
+Below the cargo, in Deep Storage, St. Cloud smuggled **forty starving wood-elf slaves** and the sarcophagus of **Daenan Gallidann** — "the well-preserved corpse of a centuries-dead elven prince who worshipped Elistraee the Dark Maiden." **Silverbane was in that sarcophagus.** [Drefan](/people/drefan/) is a Gallidan, and he takes his house's shard of Perfect moonstone out of it. <small>(See [The Bane Blades](/items/the-bane-blades/).)</small> Daenan is a *baelnorn*, an elven lich; the record says the baelnorn "willingly turned themselves undead in order to stay on Earth and fight against the tide of man," guarding his family's forest lands until an earthquake sealed him in his tomb. Interred with him are three relics that echo through the whole chronicle:
 
 - **Feybane**, a dormant Moonblade of the House of Gallidann — +1 bastard sword, +3 against spriggans, fey and lycanthropes, attunable only by those of chaotic faith who worship Elistraee;
 - the **Moonstone Crown**, "a circlet that once per day can emit a blinding light";
@@ -99,6 +102,7 @@ Daenan "will awaken if either his sword, crown or potion are removed."
 Three plots run at once — break out the prisoner, uncover the Navigator's secret, and join (or stop) the mutiny — and all three converge below decks. The arc's first chapter ends in catastrophe.
 
 [Kara](/people/kara/) attempted to seduce Captain St. Cloud to help the party bring him down, and later fought in the mutiny, which was a mutiny of the dwarves. <small>(Dave, sources/dave/2026-10-09-kara-narrative.md)</small>
+:::
 
 ## Part II — The Greater Storm
 
@@ -124,7 +128,10 @@ Victory is soured at once. Returning to camp, the party finds the Infanta gone, 
 
 ### What the barrow remembers — the first Infanta
 
-<small>Recovered from the Oblivia.</small> The Hall of Stories records the deep history of the Infantas. In the age the elves call **the Heavenfall** — the Time of Troubles — a great cosmic mist descended and cut the gods off from the world:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What the barrow remembers — the first Infanta" reason="Recovered from the Oblivia"}
+The Hall of Stories records the deep history of the Infantas. In the age the elves call **the Heavenfall** — the Time of Troubles — a great cosmic mist descended and cut the gods off from the world:
 
 > Although a mystery at the time, it is now known that the mist was conjured by Sylvanus, the highest god of elves, to conceal his plans to invade the Underdark and bring his daughter Lolth to heel. His plan failed.
 
@@ -137,6 +144,7 @@ The rite is broken — the returned hag Sycorax and the spectral cat-fiend **Gre
 > Who are you, champions? Who are you, champions of Elistrae and the Moonshae Isles? Tell me your names so I may sing songs of you among the gildergreens in throne forests of Arboria… But she mustn't be raised as a god. She must be a child, living beneath the Gildergreen.
 
 In the rescue the party attacked the Forsworn base with fire and won it outright, killed two mid-level villains, and drew "the direct attention of an evil fae goddess". They also killed Greymalkin, whom Dave spells Grimalkin. Dave: "he'd been following you since the shipwreck." <small>(Oral Histories: Temporal Holdings, 2017-09-06)</small>
+:::
 
 ## Part V — Harloch
 
@@ -160,11 +168,15 @@ After the shelter at Leftfork, the party returned the Infanta to safety at the G
 
 ### What was buried under the mountain
 
-<small>Recovered from the Oblivia.</small> Climbing the borehole for what feels like a mile, the explorers break through a blasted steel casing into something impossible — "a huge, metal tunnel… at least five stories high and perfectly round," a turbine hall, and at last a **Power Station**:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What was buried under the mountain" reason="Recovered from the Oblivia"}
+Climbing the borehole for what feels like a mile, the explorers break through a blasted steel casing into something impossible — "a huge, metal tunnel… at least five stories high and perfectly round," a turbine hall, and at last a **Power Station**:
 
 > Ascending from the hatch, you step up into a building so huge and ancient, but somehow far more advanced than any you have seen before. Blue light flows up through tiny visible conduits in the stone, humming from the turbines below. The light flows into man-sized pedestals throughout the room. On some of these pedestals, pale blue moonstones rest and glow in the energy.
 
 Guarded by clockwork spiders, guardians and a centurion, this buried engine — and the hunt for the Motherstone the dead elf died seeking — carries directly into [Arc II — Motherstone](/history/arc-ii-motherstone/).
+:::
 
 ## Sessions
 

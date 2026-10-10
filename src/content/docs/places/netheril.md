@@ -71,6 +71,7 @@ campaigns:
 
 ## Rise
 
+:::redacted{label="Rise" reason="Recovered from the Oblivia"}
 The Grey Sage "gains the trust and counsel of two sorceror twins who rule a small kingdom inland. He introduces them to the Leviathan, and promises them they will rule Toril until the end of days, after which the three of them will merge with Cthulu and create a new universe — if they help him locate and use the Eldritch Machines. They find the Soul Syphon and use it to capture and drain the power of the god of death." <small>(Sic on "sorceror" and "Cthulu". [The Infanta Timeline](/lore/the-infanta-timeline/).)</small>
 
 The god of death was Thanatos. First by draining him, then by activating the Mammon Machine, the Netherese increased the Leviathan's power along with their own. Death was broken, souls were harvested by Netheril to make a utopia, and the gods bore themselves on Earth as the [Infanta](/lore/the-infanta/): the first Time of Troubles. <small>([The Infanta Timeline](/lore/the-infanta-timeline/).)</small>
@@ -78,13 +79,17 @@ The god of death was Thanatos. First by draining him, then by activating the Mam
 [Celion](/people/celion/) told the party the story at the Arcaneum: "The Netherese were a race of men, superior to the rest of their kind, they mastered magic at such a level as to eliminate all want, to float cities on the cloud, and to postpone indefinitely the spectre of Death itself. The gods were powerless to stop them, and they waned in power, until the boldest of them returned to Earth to put an end to it." <small>(Arc III, Parts IX–XI, the Arcaneum.)</small>
 
 Nimue of Avalon, one of the five [Banefae](/organizations/the-banefae/), saw the rise of the Netherese and searched for a human king "who could engender a rival to Netheril". <small>(Arc VI, Time of Troubles Part I.)</small> See [Nimue and the Elves of Avalon](/organizations/nimue-and-the-elves-of-avalon/).
+:::
 
 ## The Nether
 
+:::redacted{label="The Nether" reason="Recovered from the Oblivia"}
 The Netherese called the Leviathan the Nether, and Netheril was named for the thing it worshipped. A Netherese civilian, **Civis**, described it to the party after his capture: "the Mammon Machine let’s us strum the Weave like a guitar, because unlike the Weave, the Nether sucks that energy in, causing Flux and Paradox." <small>(Sic on "let’s". Arc VII, Leviathan I.)</small> The party "heard the call of the Nether for the first time" in the Time of Troubles. <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small>
+:::
 
 ## How it worked
 
+:::redacted{label="How it worked" reason="Recovered from the Oblivia"}
 Civis, a demi-arcanist, described the empire's power. Its cities, protection, transportation and water ran on mythallar, devices drawing on "a network of ley lines emanating from the Obliviator and the Mammon Machine". The magic of the dead was released into the Nether:
 
 > The natural magics in sentient beings upon their death move through natural conduits within a parallel dimension, a near space we cannot sea but is in fact quite close. As those energies build up they age the world. But if we release them, funnel them into the Nether, as we do, the Flux created can power every mythallar and magic object in the Empire. It can even power vehicles which can travel into the stars and out of our crystal Sphere.
@@ -96,17 +101,21 @@ Dave to the table, after the party reached Netheril at the end of the arc: "Turn
 Netheril also held epic magic. "The epic magic you guys talked about for terraforming the moon or making an island is real, the Netherese have it." <small>(Oral Histories: The Inevitables, 2021-12-04)</small> Ioulaum's Notes on Epic Spells list the spells "necessary for enclavement", and order anything bearing the Orcish symbol for *avatara* brought "ON TO ZEAL IMMEDIATELY VIA SECURE TELEPORTATION". <small>(Arc VI, Notes on Epic Spells.)</small>
 
 Dave on the empire: "Netheril is the culmination of everything, even more than the Starfall and Zoth, it all comes to a head in Netheril, the highest expression of magical civilization and hubris and really a perfect society in nearly every way." <small>(Oral Histories: The Inevitables, 2021-10-23)</small> On its leaders: "the apocalypse is caused by a civilization level project of unfathomable hubris and greed, so the individuals responsible are not cackling villains, they’re experts and sages and explorers". <small>(Oral Histories: The Inevitables, 2022-03-19)</small>
+:::
 
 ## War on the orcs
 
+:::redacted{label="War on the orcs" reason="Recovered from the Oblivia"}
 "You know St. Cloud came or lived into this era as the Grey Sage, taught the Netherese about Levathan, and led them into a prolonged war against the Orcs." <small>(Sic on "Levathan". Oral Histories: The Inevitables, 2021-10-21)</small>
 
 The queens demanded that the orcish archivists open their archives to their archmages. [Zebulon the Meek](/people/zebulon/): "Our leaders took sides against themselves, so that when the Netherese attacked we were already defeated." The policy was that "Those that withheld the engines of their progress from their control were to be obliviated." <small>(Arc VI, Time of Troubles Part IX.)</small>
 
 "The Netherese won, took the Obliviator and other critical Eldritch artifacts and put every member of the Orcish urban population and intelligentsia into a memory Holocaust, Fed men women and children into the obliviator (probably used widespread forced teleportation but hard to know)." They could not reach [the Chronicle](/items/the-chronicle/) itself, "which kept itself safe until you came to unlock it." <small>(Oral Histories: The Inevitables, 2021-10-21)</small> Dave added that "It’s likely that Brightmantle and the Banefae who invade Netheril in your era’s past got this idea from the Netherese themselves, who in a way got it from the Cypherene Orcs". <small>(Same day.)</small>
+:::
 
 ## Obliviation in the first loop
 
+:::redacted{label="Obliviation in the first loop" reason="Recovered from the Oblivia"}
 In the first loop Stone, who is [Brightmantle](/people/brightmantle/), and [Elistrada](/people/elistrae/), with [Calix](/people/calix/) and Eldamir and with the help of the masses, slaughtered the Netherese and obliviated their entire race and culture, to end the Infanta crisis and to purge the worship of the Nether for ever. "Brightmantle and Calix didn’t Obliviate the leaders of the Netherese, they obliviated the culture itself." <small>(Oral Histories: The Inevitables, 2022-03-19)</small> Motherstone was founded before that war, and Stone and Elistrada returned to it with the Obliviator: "Brightmantle takes the Obliviator from Netheril to add it to Motherstone". <small>(Oral Histories: The Inevitables, 2020-07-26)</small> Afterwards the people forgot what the war had been for, and mainly blamed the Infanta themselves.
 
 The master timeline gives the same war as the **Allied Gods of Motherstone** attacking Netheril, crashing the Black Omen and all the mountains, and feeding the Netherese into the Obliviator. The Banefae joined the war against Netheril, and the Queens banished them to Despondos. <small>([The Infanta Timeline](/lore/the-infanta-timeline/).)</small>
@@ -114,9 +123,11 @@ The master timeline gives the same war as the **Allied Gods of Motherstone** att
 The Banefae's own campaign, led by [Drefanmetra](/people/the-waning-one/), failed, "But Drefanmetras efforts still lead to the fall of Netheril and Brightmantles victory, and St Cloud has to wait another 1000 years to try again…" <small>(Sic. Oral Histories: The Inevitables, 2021-08-21)</small> In that loop Brightmantle "collapsed the city and sent the mammon machine into the desert, it trapped the Queens and Grey Sage in Despondos for centuries." <small>(Oral Histories: The Inevitables, 2022-07-03)</small> The Sword Coast Trading Company's archives place the Mammon Machine, "likely present during the calamity that destroyed the Netherese", in the Anauroch desert, perhaps several miles deep. <small>(Arc IV, SCTC Archives.)</small> The Bane blades told the party that the defeat of the Netherese sends the Egg crashing back into the ocean, destroying Atlantis. <small>(Oral Histories: The Inevitables, 2021-10-21)</small>
 
 Netheril was "Erased from time as a precaution to protect all of reality", and "Even after it’s destroyed it’s leaders survive for thousands of years as the ruler of the underworld and the hub of interplanetary travel." <small>(Sic on "it’s". Oral Histories: The Inevitables, 2021-10-23)</small> The queens became the Raven Queen and the Lady of Pain. See [Marcus](/people/marcus/) and [the Lady of Pain](/people/the-lady-of-pain/).
+:::
 
 ## The party and Netheril
 
+:::redacted{label="The party and Netheril" reason="Recovered from the Oblivia"}
 In the [Time of Troubles](/history/arc-vi-time-of-troubles/) the party learned that St. Cloud spent that era in Zeal. <small>(Oral Histories: Temporal Holdings, 2020-08-08)</small> At the Chronicle the party "astrally projected and charmed four stages of Netheril to permit you to pass". <small>(Oral Histories: Temporal Holdings, 2020-12-19)</small> "The only time you went to “Netheril” was at their outpost at the Chronicle, where they were pretty friendly and helpful if I remember correctly," Dave said later. "Across at the old mans house is one way into Netheril so to speak, through the heart of their power", and Pim's map, left in the cave, "showed all their flying enclaves". <small>(Oral Histories: The Inevitables, 2021-10-23)</small>
 
 Before the party fought the Banefae, Dave warned them what was at stake: "You are about to fight the banefae and possibly prevent that invasion, so you all might open the door to the Netherese having no foe to interrupt them in whatever they are doing, and the world where their civilization is not also obliviated is very different indeed." <small>(Oral Histories: The Inevitables, 2021-10-21)</small> Afterwards "Calix and Atlas have returned to their Infanta to lead attacks on Netherese cities and the Egg itself." <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small>
@@ -134,5 +145,6 @@ The party went to Netheril at the end. "It’s probably best that you guys waite
 - **The outpost at the Chronicle** — Netherese researchers and guards at a volcanic outcropping northeast of Enkidu. See [the Chronicle](/items/the-chronicle/).
 - **The underwater facility** — where lifting engines were fastened to the Egg.
 - **The Old Man's House** — "one way into Netheril".
+:::
 
 **Related:** [Zeal](/places/zeal/) · [Aurora & Astra Saharel](/people/aurora-and-astra-saharel/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [The Mammon Machine](/items/the-mammon-machine/) · [Despondos](/places/despondos/) · [Cypheric Orcs](/organizations/cypheric-orcs/) · [The Banefae](/organizations/the-banefae/) · [The Oblivia](/lore/the-oblivia/)

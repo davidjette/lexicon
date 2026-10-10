@@ -72,6 +72,7 @@ campaigns:
 
 ## The commander
 
+:::redacted{label="The commander" reason="Recovered from the Oblivia"}
 Carlysle commands "a top garrison somewhere in the north," his whereabouts held as Imperial business. Roland's own intelligence on him, taken after Ysmir's death:
 
 > Ysmir St. Cloud is finally dead. But he is only the first on the list. His brother, Carlysle St. Cloud, still breathes. He commands a top garrison somewhere in the north, but his whereabouts are Imperial business, and would likely be kept quiet, since the Empire seems to be in some shady dealings with the Trading Company.
@@ -87,15 +88,19 @@ It did. At Harloch the Jarl introduces "Commander Carlysle St. Cloud as the gues
 > I do not wish to sound bleak. We have secured a great victory and at least another season of peace. But we must prepare for war, and those of you on the frontier must know that the Imperial Navy cannot protect you from what is coming next.
 
 <small>Arc I, Hope in Exile, Part V. A man attempts to stab him as he finishes; Carlysle notices in time and murders him, and four Forsworn throw off their robes and set on the Jarl.</small>
+:::
 
 ## Death
 
+:::redacted{label="Death" reason="Recovered from the Oblivia"}
 The party faces him at Motherstone "in a mechanical spider and a Company force including mechanical spiders," in the battle where the released prisoners and the assembled armies of the Underglow, the Mundi, the Drek and the [Lexicon](/items/the-lexicon/) fight the Company. <small>(Arc II, Motherstone Part VII.)</small> He is killed and buried in a mass grave. The heart is buried with the body.
 
 Dave later identified him as "Carlysle who Roland shot in the face at the Battle of Motherstone". <small>(Oral Histories: Temporal Holdings, 2019-04-05)</small>
+:::
 
 ## The buried heart
 
+:::redacted{label="The buried heart" reason="Recovered from the Oblivia"}
 Months later the grave is excavated:
 
 > The mass grave where Carlysle St. Cloud was buried has been excavated. Pim's gruesome efforts found a tiny hole, about the size of a human heart, burrowed down and down and down.
@@ -109,17 +114,21 @@ The tunnel leads into a branch of the Underglow and on to the area where dormant
 <small>Arc III Part XII. Sic on "to runaway." Wainwright's stone and the one under Motherstone are the same [Palantir](/items/the-palantir/) at two points in its own history, which is how Wainwright could direct the heart to it.</small>
 
 In robot form he takes Una deeper into the collapsed dungeon, where direct access to the Lexicon can be had.
+:::
 
 ## The attack on the Lexicon
 
+:::redacted{label="The attack on the Lexicon" reason="Recovered from the Oblivia"}
 In the downtime after the Arcaneum the party's investigations included "Carlysle St Clouds heart". <small>(Oral Histories: Temporal Holdings, 2019-05-02)</small>
 
 The party was away in Cormyr when the heart moved. Carlysle drilled down to the deepest part of [Motherstone](/places/motherstone/), to the **Seat of the Lexicon** at the underground focal point of the city's largest crystal, and appropriated a mechanical body from the **automaton Centurions** long stored nearby. His aim was to corrupt and destroy the Lexicon and so lower the city's defences — the Lexicon powered and managed the great **Mythal**.
 
 The party fought the robot. Then **Roland touched the Palantir, and [Wainwright](/people/wainwright-st-cloud/) mind-controlled him through it**. Roland was an accomplished artificer who had helped build the Lexicon with [Magnus](/people/brother-magnus/), and under that control he scrammed the entire Lexicon program and let the Company into Motherstone. Wainwright jumped his ships into the city's airspace, and the **Second Battle of Motherstone** followed. Dave's summary: "st clouds brother had a mechanical heart which you buried near mother’s time and it came to life and stole a robot and the Palantir and thwn you fought it and then Roland touched the Palantir and then St Cloud mind controlled him and he destroyed Lex and let the Company into Motherstone". <small>(Oral Histories: Temporal Holdings, 2021-10-30. Sic on "thwn".)</small>
+:::
 
 ## The end of the wish
 
+:::redacted{label="The end of the wish" reason="Recovered from the Oblivia"}
 The party destroyed two of the Company's ships and stopped the invasion. They **captured Carlysle in [Roland's Cube](/items/rolands-cube/)**, and Roland used the Palantir to contact Wainwright and take credit for an act that both of them would forget. Then Carlysle and the Palantir were thrown together into the [Obliviator](/items/the-obliviator/): "they captured Carlysle in Rolands cube and then threw him and the Palantir into the Obliviator." <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small>
 
 > I’m about to obliviate the heart of your brother, you’ll never even know he existed.
@@ -129,9 +138,12 @@ The party destroyed two of the Company's ships and stopped the invasion. They **
 The golem is still where the party fought it. Nobody knows how it got there or remembers fighting it, but it is physical evidence of the events leading up to what Motherstone took for Roland's treason. It still has a ripped-open welding that most golems lack and a hole in its head. <small>(Oral Histories: Temporal Holdings, 2019-05-28)</small>
 
 [Magnus](/people/brother-magnus/) attempted to document the act before the obliviation took hold. Much of what he wrote is impossible to understand.
+:::
 
 ## Status
 
+:::redacted{label="Status" reason="Recovered from the Oblivia"}
 Obliviated, with the Palantir. The body died at Motherstone; the heart went into the Obliviator. There is no grave, no record and no memory of him in the world. Motherstone remembers only that Roland betrayed it and "opened the portal for St Cloud", and for that Roland was put on trial. <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> When the party later heard the story of the Three Brothers again, it gave them a name for what they had lost without restoring it: "The Obliviator still clouds everything around Carlysle and it still has erased the Palantir, but now you can put a name to it and Roland can reason and appreciate that he got his revenge". <small>(Oral Histories: Temporal Holdings, 2019-10-14)</small> See [Roland Deschain](/people/roland-deschain/) for the trial.
+:::
 
 **Related:** [The Three Brothers](/lore/the-three-brothers/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [Roland Deschain](/people/roland-deschain/) · [The Lexicon](/items/the-lexicon/) · [The Obliviator](/items/the-obliviator/) · [The Oblivia](/lore/the-oblivia/) · [Motherstone](/places/motherstone/)

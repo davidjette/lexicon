@@ -148,13 +148,17 @@ After Camelot the elves were allied with Avalon, and Brightmantle and his crew p
 
 ### The making of Merlin, and the corruption of Queen Maab
 
-<small>Recovered from the Oblivia.</small> In Avalon, learning the **Charm of Making** to unbind Merlin, Kara uncovers the fae history behind Arc I's dark goddess. Merlin himself was engineered: the elves of the Summer Court, "desperate to break their curse of infertility and isolation from their divine aspect of the moon," bargained with **[Asmodeus](/people/asmodeus/)** to sire a child who "could look backward into time" — a wizard with "one foot in the land of dreams."
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The making of Merlin, and the corruption of Queen Maab" reason="Recovered from the Oblivia"}
+In Avalon, learning the **Charm of Making** to unbind Merlin, Kara uncovers the fae history behind Arc I's dark goddess. Merlin himself was engineered: the elves of the Summer Court, "desperate to break their curse of infertility and isolation from their divine aspect of the moon," bargained with **[Asmodeus](/people/asmodeus/)** to sire a child who "could look backward into time" — a wizard with "one foot in the land of dreams."
 
 And **Queen Maab** — the Queen of Air and Darkness, [Calix's](/people/calix/) dark ally — was made by a stone:
 
 > Legend has it that in the time before history began, dwarven miners had unearthed a ten-faceted black gemstone of dark beauty… The gem, which is whispered to have been cut from the very center of the most perfect shard of the Moon ever found, slowly corrupted the princess, eating away her physical body and destroying her soul.
 
 The stone is black, and cut from the Moon. The Company's own researchers would later hypothesise a Phase-V moonstone — which they called **Perfect Dark** — as the only thing that could let the Anachron warp time. The party had already made one. In the deep past, after Roland shot St. Cloud, they took his [Tudyx Cube](/items/the-tudyx-cube/), found it empty, placed a perfect moonstone inside and closed the lid. Then they opened the sealed box they had stolen from St. Cloud's quarters on the [Arielle](/items/the-arielle/), and a Perfect Dark moonstone came out, after a presumed 65 million years inside it. <small>(Oral Histories: The Inevitables, 2021-12-03)</small> Whether Maab's gem is that stone is not recorded.
+:::
 
 ## The blades remember
 
@@ -164,11 +168,13 @@ The **moonblades** — [Silverbane](/people/silverbane/), Onyxbane, Ironbane, Gl
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="What Silverbane finally remembered" reason="Recovered from the Oblivia"}
 > I remember these times much better now… much of this age was erased from history, which for you is written record but for me, is empty spaces spoiling my persistent memory. But now that I've seen myself as I was in this time — with Eldamir — I remember what it was like. Elistrae came to us in the body of a human girl, and the elders did not know what to do… The elvish god had fused to a mortal soul in order to be born and spread her grace. They had no choice in the matter.\
 > \
 > And when she fell in love with another human, but this one an avatar of a Dwarven god, a genuine blasphemy. Eldamir and Calix were moments away from drowning their entire landing camp in the Sea of Swords, but Elistrae commanded them to stand down. And then she gave them the Motherstone, and there was no going back.
 
 The blades' testimony names the founding families — **Gallidan, Nimue, Atlas, Carls and Tudix** — who raised **Starfall Tower** at Izar Erori; **Peter Glans**, the philandering king who is also the copper dragon [Tylerjynex](/people/tylerjinex/), hiding the sword **Copperbane** in a block of stone just outside the [Penteract](/places/the-penteract/) (the five-dimensional ward at the heart of the City of [Dis](/places/dis/), "½ of Zoth's vessel", inside **[Despondos](/places/despondos/)**, the maze dimension in the Shadowfell that Tylerjynex also made <small>(Oral Histories: The Inevitables, 2021-08-21; 2023-12-02)</small>); and, behind it all, a **Masked Prophet** — a strange elf, undead perhaps, and extraordinarily old — who claims to have saved the elves off the Moon before the cataclysm, and who now whispers a plan to "end the rule of Gods and mankind in one fell swoop, send their souls into Oblivion… and restore the Moon." Onyxbane names the shape of that horror precisely: a Silverbane rode with him, but not *this* one — "This Silver was haggard, much older and totally jaded."
+:::
 
 ## The Chronicle, and the war to come
 

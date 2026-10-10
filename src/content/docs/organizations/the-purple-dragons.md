@@ -77,7 +77,11 @@ Before [the Battle of the River Lis](/history/the-battle-of-the-river-lis/) Dave
 
 The world remembers that at the end of [the Infanta Crisis](/lore/the-infanta-crisis/) troops on the surface led by [Zanzibar](/people/zanzibar/) and the Purple Dragons chiefly defeated **Asmodeus** in [Waterdeep](/places/waterdeep/) and sent him back, killing [Wainwright St. Cloud](/people/wainwright-st-cloud/) and ending the crisis.
 
-<small>Recovered from the Oblivia.</small> The archdevil was defeated by the party at the threshold of the portal from a Waterdeep tavern to the crack in [the Egg](/places/the-egg/), which they were defending to keep Una and any other Infanta out. The Egg and the final battle were obliviated, and that battle is forgotten. The Purple Dragons under Lord Krapsmere were among the host that entered the Egg.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="ASMODEUS" reason="Recovered from the Oblivia"}
+The archdevil was defeated by the party at the threshold of the portal from a Waterdeep tavern to the crack in [the Egg](/places/the-egg/), which they were defending to keep Una and any other Infanta out. The Egg and the final battle were obliviated, and that battle is forgotten. The Purple Dragons under Lord Krapsmere were among the host that entered the Egg.
+:::
 
 ## THE STANDING ORDER
 

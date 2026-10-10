@@ -75,7 +75,11 @@ An Oblivia is detected by the shape of what is left rather than by anything reme
 
 ## The last Obliviation
 
-The finale's Obliviation did not remove only the god. It removed the Infantaverse quest itself from memory, and with it the premise and existence of time travel using the [Anachron](/items/the-anachron/). The [Lexicon](/items/the-lexicon/), housed in the Anachron since the Second Battle of Motherstone, lost knowledge of its own latent power over time in the same act and did not recover it for millennia. <small>Recovered from the Oblivia. See [The Anachron](/items/the-anachron/).</small>
+:::redacted{label="The last Obliviation" reason="Recovered from the Oblivia"}
+The finale's Obliviation did not remove only the god. It removed the Infantaverse quest itself from memory, and with it the premise and existence of time travel using the [Anachron](/items/the-anachron/). The [Lexicon](/items/the-lexicon/), housed in the Anachron since the Second Battle of Motherstone, lost knowledge of its own latent power over time in the same act and did not recover it for millennia.
+:::
+
+<small>Recovered from the Oblivia. See [The Anachron](/items/the-anachron/).</small>
 
 ## Netheril's Obliviation of the orcish artificers
 
@@ -83,7 +87,11 @@ Oblivia was also used as an instrument of conquest. The Netherese destroyed the 
 
 ## The End of the Infanta
 
-The chronicle ends with the End of the Infanta: the heroes touch the waking god with an Obliviator, and the Wish that unwrites him unwrites them too — "they themselves will be forgotten in all but the vaguest terms. A symbol, image, relic or myth may stay behind." <small>Recovered from the Oblivia.</small>
+:::redacted{label="The End of the Infanta" reason="Recovered from the Oblivia"}
+The chronicle ends with the End of the Infanta: the heroes touch the waking god with an Obliviator, and the Wish that unwrites him unwrites them too — "they themselves will be forgotten in all but the vaguest terms. A symbol, image, relic or myth may stay behind."
+:::
+
+<small>Recovered from the Oblivia.</small>
 
 ## O-3255
 

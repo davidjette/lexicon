@@ -112,7 +112,10 @@ The heroes then heard the story of [the Three Brothers](/lore/the-three-brothers
 
 ### What the Company learned — the Infernal Machines
 
-<small>Recovered from the Oblivia.</small> The Company's own archives lay it bare. The Infernal Machines are "much older than human civilization, possibly millions of years old," built by "beings who traveled the border between the Deep Realms of the Astral Sea and the Elemental Plane of Water." The Company spent a generation reverse-engineering them:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What the Company learned — the Infernal Machines" reason="Recovered from the Oblivia"}
+The Company's own archives lay it bare. The Infernal Machines are "much older than human civilization, possibly millions of years old," built by "beings who traveled the border between the Deep Realms of the Astral Sea and the Elemental Plane of Water." The Company spent a generation reverse-engineering them:
 
 - **The Obliviator** — the engine of forgetting, never controlled, only *read*: the Company learned to ride its leylines "to transmit magic energy and information across great distances and even between the planes," and built that power into every consumer device they sell.
 - **The Lexicon** — overridden via a stolen Palantir and routed to an administrative key shaped to match Netherese designs, so it might one day be bridged to the Mammon Machine and "broadcast… into the minds of every sentient being within a few hundred feet of a compatible Company product."
@@ -121,6 +124,7 @@ The heroes then heard the story of [the Three Brothers](/lore/the-three-brothers
 - **The Anachron** — an elemental drive that warps space into temporary portals, the heart of the Company's airships — and, the legends claim, *time itself*, though that would need "a perfect moonstone so far beyond its half life that it was twice as old as the oldest moonstone on Faerûn." The researchers called that hypothetical Phase V **Perfect Dark**. See [The Anachron](/items/the-anachron/).
 
 The Company's account is one of many tellings of where the machines came from, all clouded by obliviation and the fog of history. The Infernal Machines are parts of Zoth's craft and of [R'lyeh](/places/rlyeh/), scattered over deep time. Some know them as Netherese; after the Netherese were obliviated the machines had new owners, and so on. Only St. Cloud had anything like the full picture, and the heroes had it briefly.
+:::
 
 ### Lex and the drive
 
@@ -140,11 +144,15 @@ On the raid, Kara, Drefan and Couch killed the doomkin before he could cast any 
 
 ### Who Wainwright St. Cloud really is
 
-<small>Recovered from the Oblivia.</small> The man calling himself Wainwright St. Cloud is far older than the Company. His own earliest memo claims an inheritance from a dead man named **Alphalpha Beginnigin** — "Prior to his tragic death, we secured power of attorney over his estate" — and then, of House Nimbus's reluctance to surrender Beginnigin's machines:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Who Wainwright St. Cloud really is" reason="Recovered from the Oblivia"}
+The man calling himself Wainwright St. Cloud is far older than the Company. His own earliest memo claims an inheritance from a dead man named **Alphalpha Beginnigin** — "Prior to his tragic death, we secured power of attorney over his estate" — and then, of House Nimbus's reluctance to surrender Beginnigin's machines:
 
 > We have clear legal right to any items they are storing on behalf of Beginnigin. We can sign his name for godsake! We ARE. HIM.
 
 It is literally true. The **Lady of Pain**, ruler of Sigil — and, it emerges, the sister of the death-god [Marcus](/people/marcus/) — confirms it: *"Alphalpha Beginnigin and Wainwright St. Cloud are one (and) the same… He destroyed me and let Asmodeus take the land of the dead. He's doing the same thing here."* St. Cloud is an immortal who has lived through fall after fall, and who, the dead insist, "caused both the First and Second Fall. Now he will trigger the Third."
+:::
 
 ## What he means to wake
 

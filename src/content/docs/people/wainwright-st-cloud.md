@@ -168,7 +168,11 @@ Publicly he is a merchant-statesman who advises an Emperor and, in Waterdeep, el
 
 ## What he is
 
-<small>Recovered from the Oblivia.</small> In his oldest memo, claiming the estate of a dead man named **Alphalpha Beginnigin**, and complaining of House Nimbus's reluctance to hand over Beginnigin's machines, he writes: *"We have clear legal right to any items they are storing on behalf of Beginnigin. We can sign his name for godsake! We ARE. HIM."* The **Raven Queen**, as Marcus, Infanta of Death, confirms it when speaking to her sister the Lady of Pain — "Alphalpha Beginnigin and Wainwright St. Cloud are one in the same, surely you know that. He destroyed me and let Asmodeus take the land of the dead. He's doing the same thing here." <small>(Sic on "one in the same." Arc IV, The Infernal Machines, Part V.)</small> He is an immortal who has lived through fall after fall, and who, the dead insist, caused both the First and the Second. Now he will trigger the Third.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What he is" reason="Recovered from the Oblivia"}
+In his oldest memo, claiming the estate of a dead man named **Alphalpha Beginnigin**, and complaining of House Nimbus's reluctance to hand over Beginnigin's machines, he writes: *"We have clear legal right to any items they are storing on behalf of Beginnigin. We can sign his name for godsake! We ARE. HIM."* The **Raven Queen**, as Marcus, Infanta of Death, confirms it when speaking to her sister the Lady of Pain — "Alphalpha Beginnigin and Wainwright St. Cloud are one in the same, surely you know that. He destroyed me and let Asmodeus take the land of the dead. He's doing the same thing here." <small>(Sic on "one in the same." Arc IV, The Infernal Machines, Part V.)</small> He is an immortal who has lived through fall after fall, and who, the dead insist, caused both the First and the Second. Now he will trigger the Third.
+:::
 
 ## Beliefs
 
@@ -252,11 +256,19 @@ At the climax of the Time of Troubles the city of **Zeal** rose into orbit to me
 
 ## Death in the Egg
 
-<small>Recovered from the Oblivia.</small> [Kara](/people/kara/) meant to turn him, and his ally card was made in case she succeeded. <small>(Oral Histories: Temporal Holdings, 2023-10-12)</small> She did. In the final battle she freed him from the crystal and used his black action, and St. Cloud died in [the Egg](/places/the-egg/) for Kara. See [The Ally Cards](/lore/the-ally-cards/).
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Death in the Egg" reason="Recovered from the Oblivia"}
+[Kara](/people/kara/) meant to turn him, and his ally card was made in case she succeeded. <small>(Oral Histories: Temporal Holdings, 2023-10-12)</small> She did. In the final battle she freed him from the crystal and used his black action, and St. Cloud died in [the Egg](/places/the-egg/) for Kara. See [The Ally Cards](/lore/the-ally-cards/).
+:::
 
 ## The end of the Infanta Crisis
 
-<small>Recovered from the Oblivia.</small> All the Infanta are drawn to [the Egg](/places/the-egg/) to merge with Cthulhu and bring about the end, as St. Cloud designed. At the end of the crisis the party defended the portal from a tavern in [Waterdeep](/places/waterdeep/) to the crack in the Egg, to keep [Una](/people/una/) and any other Infanta out, and defeated **[Asmodeus](/people/asmodeus/)** at its threshold.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The end of the Infanta Crisis" reason="Recovered from the Oblivia"}
+All the Infanta are drawn to [the Egg](/places/the-egg/) to merge with Cthulhu and bring about the end, as St. Cloud designed. At the end of the crisis the party defended the portal from a tavern in [Waterdeep](/places/waterdeep/) to the crack in the Egg, to keep [Una](/people/una/) and any other Infanta out, and defeated **[Asmodeus](/people/asmodeus/)** at its threshold.
+:::
 
 The Egg and the final battle were obliviated. The world remembers that troops on the surface led by [Zanzibar](/people/zanzibar/) and the [Purple Dragons](/organizations/the-purple-dragons/) chiefly defeated the archdevil and sent him back, and that St. Cloud was killed then, at the end of [the Infanta Crisis](/lore/the-infanta-crisis/).
 

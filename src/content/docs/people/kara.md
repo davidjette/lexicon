@@ -209,7 +209,11 @@ The clone in the sanctum stayed live: if Kara dies, "her soul goes into it". Aft
 
 ## The portrait in the Old Man's House
 
-<small>Recovered from the Oblivia.</small> In St. Cloud's hidden lair in [Arc IV](/history/arc-iv-the-infernal-machines/), a great portrait overlooks a studio of half-built machines: *a sorceress in flight, the moon exploding into blue shards above her, her face Kara's — but her eyes green.* The walls around it are hung with the faces of heroes through the ages, "many have the same eyes and faces of you yourself… over and over again, in slightly different versions which tip perilously into the uncanny valley." The immortal has been painting the same recurring souls through loop after loop of a bent timeline. Kara is one of them. The green-eyed sorceress of the great portrait is [Karametra](/people/karametra/), Kara from another loop: the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The portrait in the Old Man's House" reason="Recovered from the Oblivia"}
+In St. Cloud's hidden lair in [Arc IV](/history/arc-iv-the-infernal-machines/), a great portrait overlooks a studio of half-built machines: *a sorceress in flight, the moon exploding into blue shards above her, her face Kara's — but her eyes green.* The walls around it are hung with the faces of heroes through the ages, "many have the same eyes and faces of you yourself… over and over again, in slightly different versions which tip perilously into the uncanny valley." The immortal has been painting the same recurring souls through loop after loop of a bent timeline. Kara is one of them. The green-eyed sorceress of the great portrait is [Karametra](/people/karametra/), Kara from another loop: the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past.
+:::
 
 ## Portents, clones and the King of the Wyrms
 
@@ -229,15 +233,23 @@ Kara cast a different Wish on arriving in Antiquity, in the session of 3 Decembe
 
 ## The Egg
 
-<small>Recovered from the Oblivia.</small> Kara and Tylerjynex have made an egg of their own. At the muster he gives the pledge that ends *"and you are the mother of my Egg. I am with you to the end,"* and then stays behind to guard it so she can carry the final mission into the other Egg — the god's — where all Times converge.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The Egg" reason="Recovered from the Oblivia"}
+Kara and Tylerjynex have made an egg of their own. At the muster he gives the pledge that ends *"and you are the mother of my Egg. I am with you to the end,"* and then stays behind to guard it so she can carry the final mission into the other Egg — the god's — where all Times converge.
 
 > You traveled back in time countless times, you saved me and my entire race as a child with Time-Bending magic, saved the planet by moving the moon into the path of the Evening Star… and you are the mother of my Egg.
 
 <small>— Tylerjynex, at Brightmantle's funeral</small>
+:::
 
 ## St. Cloud in the final battle
 
-<small>Recovered from the Oblivia.</small> Kara meant to turn [Wainwright St. Cloud](/people/wainwright-st-cloud/) to the party's side, and his ally card was made in case she succeeded. <small>(Oral Histories: Temporal Holdings, 2023-10-12)</small> She did. In the final battle she freed St. Cloud from the crystal and used his black action, and St. Cloud died in the Egg for Kara. See [The Ally Cards](/lore/the-ally-cards/).
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="St. Cloud in the final battle" reason="Recovered from the Oblivia"}
+Kara meant to turn [Wainwright St. Cloud](/people/wainwright-st-cloud/) to the party's side, and his ally card was made in case she succeeded. <small>(Oral Histories: Temporal Holdings, 2023-10-12)</small> She did. In the final battle she freed St. Cloud from the crystal and used his black action, and St. Cloud died in the Egg for Kara. See [The Ally Cards](/lore/the-ally-cards/).
+:::
 
 ## Right now
 

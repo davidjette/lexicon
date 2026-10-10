@@ -117,7 +117,10 @@ Here they meet **Ewe**, a nude faerie shapeshifter who copies the face of everyo
 
 ### The Traveler and Kay
 
-<small>Recovered from the Oblivia.</small> Ewe leads them to a Hermit in a far shack — "a man chopping wood… a single gun, no powers (cut off from Leviathan)." He is **the Traveler**, and he came back through time to *summon* the Leviathan and live forever on Sigil — to stop the heroes of his own age from stopping his earlier self from sabotaging R'lyeh. His wife **Kay** is [Karametra](/people/karametra/), the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past. In their own loop the two were partners: she seduced [Celion](/people/celion/) to infiltrate the Arcaneum and steal the Anachron to come back in time, and once here both had a change of heart. <small>(Oral Histories: The Inevitables, 2023-01-15)</small> Kay changed his heart, and then his mind, and he abandoned the quest. But it is happening anyway, which means somewhere up the loop he changed it back.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The Traveler and Kay" reason="Recovered from the Oblivia"}
+Ewe leads them to a Hermit in a far shack — "a man chopping wood… a single gun, no powers (cut off from Leviathan)." He is **the Traveler**, and he came back through time to *summon* the Leviathan and live forever on Sigil — to stop the heroes of his own age from stopping his earlier self from sabotaging R'lyeh. His wife **Kay** is [Karametra](/people/karametra/), the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past. In their own loop the two were partners: she seduced [Celion](/people/celion/) to infiltrate the Arcaneum and steal the Anachron to come back in time, and once here both had a change of heart. <small>(Oral Histories: The Inevitables, 2023-01-15)</small> Kay changed his heart, and then his mind, and he abandoned the quest. But it is happening anyway, which means somewhere up the loop he changed it back.
 
 When Kay discovered this, she left to find **Tiamat**, to move the Moon into the path of the falling Egg and spare the Earth — for if she fails, the World Tree "won't just die, it will be obliterated and everything will be gone." She had seen the Egg coming, the true Evening Star, and knew that someday St. Cloud would go back on his promise; he had, and had come back to call for it. The Traveler, too frightened to face Cthulhu, stays behind. He is "a few loops back" from the party — the same recurring soul, at a different turn of the wheel. He is the one the Lady of Pain named: the Traveler the heroes are destined to destroy.
 
@@ -128,6 +131,7 @@ St. Cloud had been teasing Roland, and his last words were "You can’t just sho
 > She left me for a choice I had not yet made
 
 <small>— the dead St. Cloud. (Oral Histories: Temporal Holdings, 2020-05-04)</small>
+:::
 
 ## R'lyeh and Dragon Mountain
 
@@ -155,6 +159,7 @@ One of them — **Chronocypher**, split from the rest — is carried instead to 
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="What June revealed — that Time is the Obliviator" reason="Recovered from the Oblivia"}
 > The gods of this realm are the split soul of the Star Child, whose name was Zoth-Ommog. We left our father somewhere deep in the dark, and fled him across all of time. He consumes all worlds in his pursuit of us. Once the evening sky was bright with stars, but he swallowed nearly every one…\
 > \
 > My father, Cthulhu, who you call Mammon, or Leviathan, is blind. He remembers all but can see none. He moves by omniscience but he cannot see inside this delicate place we had achieved.\
@@ -172,6 +177,7 @@ June showed Chronocypher three beams of cool blue light, "three places where tim
 > Our souls are one, in time, but for now, we are ourselves. That is why we hurt each other. That is why we die. But this is how it's meant to be… You must repair the weave. You must unite the world. You must win. You will Win.
 
 June is the [Infanta of Time](/people/the-infanta-of-time/) who held the repeating hour at [Refuge](/places/refuge/). When the party returned to the "present", Chronocypher replaced her there and lived through that arc again as the child June. At the last moment, instead of dying, she was blown free of Refuge and rescued by the party, who appeared to have just left for the past and came back at level 20 or higher from the back half of the campaign.
+:::
 
 ## Into Arc VI
 

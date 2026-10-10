@@ -124,9 +124,13 @@ In the history the party did not change, "in the “present” era Asmodeus come
 
 ## At the threshold of the Egg
 
-<small>Recovered from the Oblivia.</small> Una, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed Una, but not before the summoning, and a portal was used for him to step down toward the Egg. The party defeated him at the threshold of the portal from the tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out. <small>(Dave, sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md)</small>
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="At the threshold of the Egg" reason="Recovered from the Oblivia"}
+Una, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed Una, but not before the summoning, and a portal was used for him to step down toward the Egg. The party defeated him at the threshold of the portal from the tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out. <small>(Dave, sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md)</small>
 
 At the Crack in the Egg, "A massive greater gate begins to open wide, and from inside you see the gleam of a massive gem glowing green and sparkling red as it rends a hole from here to the Shadowfell. You see the horns of Asmoedeus, then his snout, and the top of his hammer and his fist, but then no more. The head and swordarm of the Prince of Darkness plops out into the blood drenches floor of the Rift". Then the Lady of Pain rises, carrying the severed head, with Marcus on her shoulder: "We have completed our task, and returned Death to its natural rule." <small>(Sic. End of the Infanta, notes for a final encounter.)</small> See [Arc VIII](/history/arc-viii-end-of-the-infanta/).
+:::
 
 ## What the world remembers
 

@@ -119,6 +119,7 @@ The Lost Train and the Baldur's Gate train are the same train. At Baldur's Gate 
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="The game on the Lost Train" reason="Recovered from the Oblivia"}
 > Would you like to play a game? It's a board game, with rules not unlike chess, but there's an important extra element, where you tell a story about what happens to your chosen piece… we pretend that we are just a single piece, with only one point of view. So that on our turn, we consider only what this piece can see and do, ignoring that we are the player and a wider game is being played… Of course, as only a single piece, it's impossible to win the game. Your best hope is to still be there at checkmate, and not to be sacrificed along the way.
 
 It hands over a black book "full of important wisdom," and when it senses an Infanta or a caster of **Wish**, it drops the mask entirely:
@@ -126,6 +127,7 @@ It hands over a black book "full of important wisdom," and when it senses an Inf
 > You. I am your father. You are my child. We are meant to be one again, to make the next progeny of my Godhood. I am unfertilized. You are the seed.
 
 Refuse it, and "now you die, but not before suffering an eternity in pain."
+:::
 
 ## Cthulhu, the Leviathan
 
@@ -135,7 +137,10 @@ In the Egg [Kara](/people/kara/) freed [Wainwright St. Cloud](/people/wainwright
 
 ### The End of the Infanta — the Wish that becomes the Oblivia
 
-<small>Recovered from the Oblivia.</small> The heroes must beat Cthulhu's Head to nothing and then **touch it with an Obliviator**. The instant they do, a countdown begins:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The End of the Infanta — the Wish that becomes the Oblivia" reason="Recovered from the Oblivia"}
+The heroes must beat Cthulhu's Head to nothing and then **touch it with an Obliviator**. The instant they do, a countdown begins:
 
 > The moment Cthulhu makes contact with the Obliviator, a shockwave of nearly unavoidable negation magic will erupt from Cthulhu in 6 seconds.
 
@@ -144,6 +149,7 @@ In those six seconds, a final **Wish** decides what the world keeps. Cast it, an
 This is the **End of the Infanta**: the discharge of the Obliviator against the god, the Wish that unwrites Cthulhu, the war, the Age of reborn gods — and the heroes who ended it. Cthulhu was brought to 0 HP and then erased. In Dave's later account, "Cypher killed Cthulhu". <small>(Oral Histories: The Inevitables, 2023-12-02)</small>
 
 Among what is removed from memory is the [Lexicon](/items/the-lexicon/)'s knowledge of itself. Cypher's Obliviation of the Infantaverse quest in this finale takes with it the premise of time travel via the [Anachron](/items/the-anachron/), and Lex's own latent power over time, which he does not recover for millennia. <small>(The Lexicon "forgets for millennia due to the Obliviation of the Infantaverse quest from memory by Cypher in the finale with Cthulhu/along with the premise and existence of time travel using the Anachron." The encounter notes give the mechanism — the Obliviator's shockwave and the Wish — and do not name Cypher.)</small>
+:::
 
 ## Denouement
 

@@ -122,13 +122,20 @@ He is kin to [Drefan](/people/drefan/) Gallidan. Dave: "young calix looks relate
 
 ## Motherstone and the Lexicon
 
-<small>Recovered from the Oblivia.</small> Motherstone was built around the [Lexicon](/items/the-lexicon/), a mind grown inside the world's largest perfect moonstone. Calix built the Lexicon together with [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, from Netherese magic and technology. "Motherstone was designed by Brightmantle and Calix to distrbute the infanta's power". <small>(Sic. Oral Histories: Temporal Holdings, 2019-04-01)</small> Calix opened the **Gate Ring**, a stable abyssal vortex, to make the city a data vacuum pulling the echoes of all information in creation toward itself.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="Motherstone and the Lexicon" reason="Recovered from the Oblivia"}
+Motherstone was built around the [Lexicon](/items/the-lexicon/), a mind grown inside the world's largest perfect moonstone. Calix built the Lexicon together with [Stone](/people/stone-infanta-of-discovery/), the Brightmantle Infanta, from Netherese magic and technology. "Motherstone was designed by Brightmantle and Calix to distrbute the infanta's power". <small>(Sic. Oral Histories: Temporal Holdings, 2019-04-01)</small> Calix opened the **Gate Ring**, a stable abyssal vortex, to make the city a data vacuum pulling the echoes of all information in creation toward itself.
 
 After Stone and Elistrada founded Motherstone, Calix fought beside them and beside his sister Eldamir in the war that obliviated the Netherese. Of the Netherese, Dave says Brightmantle and Calix "obliviated the culture itself". <small>(Oral Histories: The Inevitables, 2022-03-19)</small>
+:::
 
 ## The Betrayal and the Forgetting
 
-<small>Recovered from the Oblivia.</small> After the war with the Netherese, Stone and Elistrada invited the Infanta of the world to come and live in peace in Motherstone. Calix betrayed them: at the peace-treaty meeting he murdered dozens of Infanta, a massacre that "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> He planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The Betrayal and the Forgetting" reason="Recovered from the Oblivia"}
+After the war with the Netherese, Stone and Elistrada invited the Infanta of the world to come and live in peace in Motherstone. Calix betrayed them: at the peace-treaty meeting he murdered dozens of Infanta, a massacre that "led to the collapse of the world which has never fully recovered." <small>(Oral Histories: Temporal Holdings, 2018-06-26)</small> He planned to obliviate Motherstone and frame Brightmantle and the dwarvish people for his betrayal.
 
 He buried his own terminal-throne in order to **replace the Lexicon with himself**: to dissolve his mind entirely into the crystal and become one with the Motherstones, using "the Lexicon and the Obliviator to accumulate all the knowledge in the world in time to protect himself from the devouring maw of the [Leviathan](/lore/the-leviathan/)." The override that locked every other terminal out of a hard reset was placed "on the Fifth of Leaffall, 49," by one user: Calix. Full account at [The Lexicon](/items/the-lexicon/). He also altered his vault and throne so that time passed slower inside and faster outside: the world would forget him quickly, and time would spin off into the future while his consciousness stayed unaware of the doom Toril faced from the Leviathan, which terrified him more than anything. The chamber was never used.
 
@@ -142,6 +149,7 @@ His remnant, in his phylactery beneath Motherstone, speaks in the words of the a
 > I will live forever.
 
 He has forgotten *himself* along with everything else. Mara Mageblood, having read a cursed Orcish tome a second time, wrote: "It haunts him even now. He knows he has forgotten. He seeks but knows not what." Off its last page she read *"a buried throne for a living god, for even he fears the Leviathan."* <small>(Oral Histories: Temporal Holdings, 2020-09-26)</small>
+:::
 
 ## The lullaby
 
@@ -163,11 +171,15 @@ By the [Age of the Infanta](/history/arc-iii-age-of-the-infanta/) Calix is dead,
 
 ## The remnant and the war against Netheril
 
-<small>Recovered from the Oblivia.</small> In the rewritten past he walks as the Masked Prophet, guiding the elves toward ruin with a plan to end the rule of gods and men in one stroke and restore the Moon.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The remnant and the war against Netheril" reason="Recovered from the Oblivia"}
+In the rewritten past he walks as the Masked Prophet, guiding the elves toward ruin with a plan to end the rule of gods and men in one stroke and restore the Moon.
 
 In the Time of Troubles, Calix and Eldamir told the party to contact them when they located [Myth Drannor](/places/myth-drannor/). <small>(Oral Histories: The Inevitables, 2021-08-15)</small> [Brightmantle](/people/brightmantle/) did not yet know of Calix's betrayal, because Magnus was keeping it secret. <small>(Oral Histories: The Inevitables, 2021-08-15)</small> In Antiquity Calix refused to go along with [Valen](/people/valen/) and [the Waning One](/people/the-waning-one/), as Atlas III did. <small>(Oral Histories: The Inevitables, 2021-10-09)</small> After the battle at the peak of Sigil, Calix and Atlas "returned to their Infanta to lead attacks on Netherese cities and the Egg itself". <small>(Oral Histories: Temporal Holdings, 2021-10-23)</small> "Calix also has a Palantir btw, Zanzibar looked into it". <small>(Dave. Oral Histories: Temporal Holdings, 2021-10-23)</small> See [The Palantir](/items/the-palantir/). In December 2021 the party yelled at Calix "for getting the job done". <small>(Oral Histories: Temporal Holdings, 2021-12-04)</small>
 
 He sits on the Council of Forgetting, and in Arc VII the party's allies gather "with Calix and Lex's help to plan that final invasion of Netheril"; when the commanders assemble it is "Lex and Calix" who "hold a briefing to deliver all the final pieces." Calix hears the **Call of Cthulhu** himself, and turns. It is Calix who exposes how [Wainwright St. Cloud](/people/wainwright-st-cloud/) deceived the Netherese queens into serving the Leviathan, warping their understanding so they would bring all the magic of their world to bear against their own existence. [Elistrae](/people/elistrae/), Eldamir, Calix and the Moon Elves pledge together at Brightmantle's funeral, and the moon elves who ride out at the end ride with Elistrae, Eldamir and Calix. <small>(Arc VII, Leviathan I.)</small>
+:::
 
 ## At the Egg
 

@@ -109,7 +109,10 @@ The Interlude opens by restating how Arc II closed. Calix seats the Infanta on t
 
 ### The choice put to the Council
 
-<small>Recovered from the Oblivia.</small> The Infanta convenes a Council — Kara, Magnus, Drefan, Roland, Yoshi, and the survivors of Motherstone (Ilana, Untari, Crookshanks, Chad, Bridgett, and the Lexicon) — to decide the city's place in the new world. There are two paths:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="The choice put to the Council" reason="Recovered from the Oblivia"}
+The Infanta convenes a Council — Kara, Magnus, Drefan, Roland, Yoshi, and the survivors of Motherstone (Ilana, Untari, Crookshanks, Chad, Bridgett, and the Lexicon) — to decide the city's place in the new world. There are two paths:
 
 > 1\) tune the Obliviator to hide Motherstone and the island of Snowdown from the rest of the world, forgetting them from the world, providing them a way to operate from the shadows, or\
 > 2\) they can open the city and seek to fulfill the destiny of the Lexicon by gathering the next generation of Infanta together to preserve divine power in the Material Plane.
@@ -117,6 +120,7 @@ The Interlude opens by restating how Arc II closed. Calix seats the Infanta on t
 The elves of [House Gallidann](/organizations/house-gallidann/), radicalised by their long alliance with the Forsworn and Calix, strain toward forgetting — "some say the Feywild will return to protect the elves from new evils." The Lexicon argues to stay open, but will do as the Infanta asks.
 
 The Council chose to keep Motherstone a secret. <small>(Oral Histories: Temporal Holdings, 2019-01-16)</small>
+:::
 
 ## The world remade
 
@@ -168,11 +172,15 @@ But the true prize is hidden elsewhere — in the **Observatory** atop Mount Wat
 
 ### What St. Cloud sought in the stars
 
-<small>Recovered from the Oblivia.</small> Within the Observatory lies the genuine Infanta of Order — a small boy who speaks no human tongue but communes with animals, kept prisoner and set to an impossible task:
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What St. Cloud sought in the stars" reason="Recovered from the Oblivia"}
+Within the Observatory lies the genuine Infanta of Order — a small boy who speaks no human tongue but communes with animals, kept prisoner and set to an impossible task:
 
 > Lying asleep in a nest of parchment and star charts is a young boy. All around him, scrawled in neat, repeating patterns, are drawings of the stars… A Nature or Arcana check will reveal that his work consists of charting them backward in time… millions of years.
 
 St. Cloud forced the god of Order's perfect mind to compute the night sky as it stood **millions of years in the past**, to find one precise star-formation — and the moment he had the answer, he took it and vanished. The word that unlocks the room is the name of the thing he is racing toward: the [Leviathan](/lore/the-leviathan/).
+:::
 
 ## Cormyr, and the children of the gods
 

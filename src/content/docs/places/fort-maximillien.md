@@ -53,7 +53,11 @@ campaigns:
 
 The fort stands on the ruins of the tavern where the final battle against Asmodeus was fought, at the close of the Infanta Crisis, which ended with the founding of the [Cormyrean Empire](/organizations/the-cormyrean-empire/). The site was consecrated, then fortified, then forgotten by everyone except the soldiers garrisoned inside it.
 
-<small>Recovered from the Oblivia.</small> **Una**, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed Una, but not before she had summoned him, and a portal was used for him to step down toward [the Egg](/places/the-egg/). The party defeated Asmodeus at the threshold of the portal from the tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out, because all the Infanta are drawn to the Egg to merge with Cthulhu and bring about the end, as [Wainwright St. Cloud](/people/wainwright-st-cloud/) designed.
+<small>Recovered from the Oblivia.</small>
+
+:::redacted{label="What it was built on" reason="Recovered from the Oblivia"}
+**Una**, who had invaded [Undermountain](/places/undermountain/) with the Spiderbros, summoned Asmodeus to Waterdeep. The party killed Una, but not before she had summoned him, and a portal was used for him to step down toward [the Egg](/places/the-egg/). The party defeated Asmodeus at the threshold of the portal from the tavern to the crack in the Egg, which they were defending to keep Una and any other Infanta out, because all the Infanta are drawn to the Egg to merge with Cthulhu and bring about the end, as [Wainwright St. Cloud](/people/wainwright-st-cloud/) designed.
+:::
 
 The Egg and the final battle were obliviated, and the battle at the tavern's portal was forgotten with them. The world remembers that troops on the surface led by [Zanzibar](/people/zanzibar/) and the Purple Dragons chiefly defeated the archdevil and sent him back, killing St. Cloud and ending the Infanta Crisis.
 

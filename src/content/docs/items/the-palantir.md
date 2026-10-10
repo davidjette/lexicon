@@ -90,9 +90,11 @@ After the mech left, "the Palantir and the robot it was stuck inside are missing
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="The Second Battle of Motherstone" reason="Recovered from the Oblivia"}
 When the party fought Carlysle's robot body, [Roland Deschain](/people/roland-deschain/) touched the Palantir, and [Wainwright St. Cloud](/people/wainwright-st-cloud/) mind-controlled him through it. Under that control Roland destroyed the [Lexicon](/items/the-lexicon/) and let the Company into Motherstone. Dave: "Roland touched the Palantir and then St Cloud mind controlled him and he destroyed Lex and let the Company into Motherstone". <small>(Oral Histories: Temporal Holdings, 2021-10-30)</small>
 
 After the battle the party captured Carlysle in [Roland's Cube](/items/rolands-cube/). Roland used the Palantir to contact Wainwright and take credit for an act that both of them would forget, and then Carlysle and the Palantir were thrown together into the [Obliviator](/items/the-obliviator/). The stone went in so that its part would be forgotten: "No the Palantir went in so everyone forgets that happened". <small>(Oral Histories: Temporal Holdings, 2019-05-25)</small> Nobody in Motherstone remembered Carlysle or the Palantir, and the city believed that Roland had betrayed it. Months later, "The Obliviator still clouds everything around Carlysle and it still has erased the Palantir". <small>(Oral Histories: Temporal Holdings, 2019-10-14)</small>
+:::
 
 ## The Time of Troubles
 

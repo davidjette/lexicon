@@ -86,6 +86,7 @@ campaigns:
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="Why she exists" reason="Recovered from the Oblivia"}
 Marcus is not an accident of reincarnation. Marcus is **where the Raven Queen was imprisoned**.
 
 The Raven Queen held the Seat of Death and Judgment at the Heart of the [City of Dis](/places/dis/), as a neutral arbiter between the gods and the devils, controlling the flow of souls onward to the outer realms. **Asmodeus and St. Cloud conspired to trap her soul in a mortal** — and the mortal is Marcus. With the Seat vacant, Asmodeus hoarded the dead, the gods began to starve, and they descended into mortal children to stay near their followers. **That is the Infanta crisis, and Marcus is its cause and its cure.**
@@ -93,6 +94,7 @@ The Raven Queen held the Seat of Death and Judgment at the Heart of the [City of
 The Soul Syphon once lay, with the Mammon Machine, at the heart of [the Penteract](/places/the-penteract/). Its power drew souls through the maze and into the syphon, "where Thanatos (and later the Raven Queen) divided them into their heavens and hells". <small>(Oral Histories: The Inevitables, 2023-12-02)</small> In the Arcaneum campaign JL asked whether St. Cloud had used one of the infernal machines "underground beneath Anorak Mts" to "suck the Goddess of Death’s soul out of the heavens and into the body of a human"; Dave answered, "Yes that’s one". <small>(Oral Histories: Temporal Holdings, 2019-03-03)</small>
 
 It also reframes the tomb in the Ride below. The Horseking and his Gravedigger were torturing a princess once a year to wake a god that somebody else had already put in a box, in a different child.
+:::
 
 ## Who she is
 

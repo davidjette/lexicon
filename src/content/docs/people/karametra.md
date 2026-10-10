@@ -73,6 +73,7 @@ Kara(metra) is a human sorcerer and [Kara](/people/kara/) from another loop of t
 
 ## St. Cloud's wife
 
+:::redacted{label="St. Cloud's wife" reason="Recovered from the Oblivia"}
 In her reality she and St. Cloud were partners. Dave: "she seduces Celion to infiltrate the Arcaneum and steal the Anachron to come back in time, but once here they have a change of heart". <small>(Oral Histories: The Inevitables, 2023-01-15)</small> See [Celion](/people/celion/) and [the Anachron](/items/the-anachron/). In the deep past the party found St. Cloud "living in peace, after marrying Karametra and giving up his quest". <small>(Oral Histories: The Inevitables, 2021-12-03)</small> She is Kay, the wife of the St. Cloud known as the Traveler; she changed his heart, and then his mind.
 
 When she saw the Egg coming, the true Evening Star, she knew that someday St. Cloud would go back on his promise, and she left him. He did go back on it, and came back to call for the Egg. After his death he said of her: "She left me for a choice I had not yet made", and "She went to Tiamat to move the moon". <small>(Oral Histories: Temporal Holdings, 2020-05-04)</small> Others had gone to [Dragon Mountain](/places/dragon-mountain/) "to somehow move the moon in its way and crack the egg before it reaches the earth", and "St. Cloud's Kara" went to Dragon Mountain as well. <small>(Oral Histories: Temporal Holdings, 2020-05-03, 2020-05-11)</small>
@@ -80,9 +81,11 @@ When she saw the Egg coming, the true Evening Star, she knew that someday St. Cl
 [Roland Deschain](/people/roland-deschain/) shot him, and the party took his [Tudyx Cube](/items/the-tudyx-cube/). It was empty. They placed a perfect moonstone inside it and closed the lid. Then they took the Tudyx Cube they had stolen from St. Cloud's quarters on the *Arielle*, which they had never been able to open. It was the same box, later in its own history. <small>(Dave, sources/dave/2026-10-08-tudyx-cube-spine.md)</small> Now it opened, and a Perfect Dark moonstone came out, having been inside for a presumed 65 million years.
 
 She is the red-robed, green-eyed woman in the painting St. Cloud was working on when he left for the past: a sorceress in flight, with Kara's face and green eyes.
+:::
 
 ## What she did
 
+:::redacted{label="What she did" reason="Recovered from the Oblivia"}
 She is the **"abolethi courtesan"** the dragons speak of. She seduced **Bahamut** and had the dragons build a literal **platinum temple** as a spell component for a casting of **Move Planet**, to put the moon into the path of Cthulhu's egg.
 
 The dragons noticed. A chromatic elder dragon's line about their own errand names hers: "They are here to do the same as the Abolethi courtesan, to convince her gloriousness to destroy the Moon." <small>(Naga to Nefarion, on the [Chromatic Elder Dragons](/organizations/chromatic-elder-dragons/) card.)</small>
@@ -94,22 +97,29 @@ The party came to help her when they returned to the deep past a second time, fu
 That casting is what makes the first of the three epochs reachable. The party attacks the Egg in the deep past *in orbit of Toril, after the Egg struck the moon*, and the moon was in its path because Karametra put it there.
 
 In the loop in which she was St. Cloud's wife she was not in the party, and Drefanmetra was. He loved the ancient moon and vowed to stop it being moved. He failed, went forward in time, and became [the Waning One](/people/the-waning-one/), who united the Banefae in Antiquity to find a way back and stop her. <small>(Dave, sources/dave/2026-10-08-drefanmetra-the-waning-one.md)</small>
+:::
 
 ## What St. Cloud did about her
 
+:::redacted{label="What St. Cloud did about her" reason="Recovered from the Oblivia"}
 He hid Obi in an observatory atop Mount Waterdeep and forced him to chart the sky back millennia, to find the exact date Cthulhu's course crossed the Moon's orbit — **specifically in order to prevent Karametra from moving the moon**.
+:::
 
 ## At the Egg
 
+:::redacted{label="At the Egg" reason="Recovered from the Oblivia"}
 **White — Dragon Mama:** "You breathe 5d8 damage of fire, cold, lightning, acid or poison (your choice) in a 30 ft. cone, no save."
 
 **Black — Charm of Making:** "Cast the Wish spell."
 
 <small>Her card is the only one whose black action is **Wish** — the same spell Cypher casts at the head of Cthulhu to end the crisis and erase it from memory.</small>
+:::
 
 ## Status
 
+:::redacted{label="Status" reason="Recovered from the Oblivia"}
 Not recorded. Her card art is credited to Jenny Byrd, the only card in the set with a named artist.
+:::
 
 **Related:** [Kara](/people/kara/) · [Wainwright St. Cloud](/people/wainwright-st-cloud/) · [The Egg](/places/the-egg/) · [Chromatic Elder Dragons](/organizations/chromatic-elder-dragons/) · [Moonstone](/lore/moonstone/)
 

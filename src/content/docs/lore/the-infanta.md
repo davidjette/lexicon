@@ -82,6 +82,7 @@ The journal also records:
 
 <small>Recovered from the Oblivia.</small>
 
+:::redacted{label="Why there are Infanta at all" reason="Recovered from the Oblivia"}
 Mortal souls are fragments of **Zoth**, and in death they travel toward a fragment of the [Mammon Machine](/items/the-mammon-machine/) trapped at the Heart of the [City of Dis](/places/dis/), seeking to recombine into Zoth at his Seat. That locus produced a kingdom of death and a **Seat for a God of Death or Judgment**, whose office is to control the flow of apostolic souls onward to the outer realms. It has been fought over for all time. In the present of the chronicle it was held by the **Raven Queen**, as a neutral arbiter between the gods and the devils.
 
 **Asmodeus and [Wainwright St. Cloud](/people/wainwright-st-cloud/) conspired to trap the Raven Queen's soul in a mortal — [Marcus](/people/marcus/).** With the arbiter gone from the Seat, souls could no longer reach the outer realms, and Asmodeus hoarded them. The gods, starved of the souls that sustain them, had to **descend into the world to be near their followers or risk extinction and irrelevance**.
@@ -91,6 +92,7 @@ A god descends by being born into a dying mortal child, and that child is an Inf
 Marcus names the remedy: "restore my place at the heart of death, and end this Time of Troubles." At the final battle the sisters killed Asmodeus, "returning Death to its natural rule" and restoring the Seat, and this was forgotten with the rest of the war. See [the Oblivia](/lore/the-oblivia/).
 
 The first was **Elistrada** — the goddess **Elistrae**, "an innocent god, who found her way into the child through the prayers of her mother, who begged for her unborn child to survive and flourish."
+:::
 
 ## The race for the god-children
 
