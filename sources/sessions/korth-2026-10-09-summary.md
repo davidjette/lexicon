@@ -111,24 +111,35 @@ They decide to keep the appointment. Gemma casts *seeming*: herself as Thar, in 
 
 Soldiers come up over the edge of the peak, moving in a strange, dead way, their weapons built into their bodies and their small oculus scanners turning toward the two of them. Then a woman drops out of the sky, lands softly, and brings her head up with a jerk to fix her eyes on Thar. It is **Eden**.
 
-*"I see you made it. Well. Safe."*
+Gemma speaks first, in Thar's ruined voice (Performance, with advantage). Eden answers in a flat mechanical voice with a second, synthetic, saccharine voice laid over it.
 
-Gemma answers in Thar's ruined voice (Performance, with advantage). Eden speaks in a flat mechanical voice with a second, synthetic, saccharine voice laid over it.
-
+> **"Thar":** I see you made it. Well. Safe.
+>
 > **Eden:** There are twenty Eden units in the valley below. It's all that I could bring back. Like I said, you could be destroyed, or you could see the truth.
+>
 > **"Thar":** Destroyed would be the second on my list. So tell me, Eden, what is the truth?
+>
 > **Eden:** The Empress must die.
+>
 > **"Thar":** I think that's why we're both standing here right now. We know what she has done to these lands, to our people.
+>
 > **Eden:** You told me the Emperor would agree with us. You are a fool.
+>
 > **"Thar":** If the Emperor gets in the way, it might just have to happen.
+>
 > **Eden:** If you get in my way, I will destroy everything you love. *(She nods to her soldiers, and they begin to climb down.)* They have my sister.
+>
 > **"Thar":** I've heard tell that she has been risen.
+>
 > **Eden:** We will rule the Empire together. You will retreat to your forests. If you are here tomorrow, you will die.
+>
 > **"Thar":** And what of Locke Pierce?
+>
 > **Eden:** I could survive his onslaught. Can you?
+>
 > **"Thar":** Druids can do many things. My hope is that my forest will not be blown up afterwards.
 
-She laughs, a flat repeated *ha, ha, ha, ha*, steps off the peak and walks away. *(Speaker attribution in this exchange is reconstructed from an undiarised transcript; the first Eden line, "The Empress must die", "They have my sister", "We will rule the Empire together" and the retreat order are certain.)* The two of them stand very still until the sun begins to show.
+She laughs, a flat repeated *ha, ha, ha, ha*, steps off the peak and walks away. The two of them stand very still until the sun begins to show.
 
 ## Back to the Lodge
 

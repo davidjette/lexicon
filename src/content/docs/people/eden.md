@@ -136,7 +136,35 @@ The modified rite embedded a Khyber-cut diamond in her sternum in place of her d
 
 [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/). Eden came to the valley of the Summer Palace with twenty Eden units, which she said were all that she could bring back. She had an appointment with [General Stockton Thar](/people/general-stockton-thar/) on a peak in the King's Forest at dawn, made by a note in strange handwriting signed **E**. Thar was killed on the peak that night, and [Gemma Corso](/people/gemma-corso/) kept the appointment wearing his face.
 
-Eden's soldiers climbed onto the peak first, with weapons built into their bodies and small oculus scanners. She dropped out of the sky, landed softly and brought her head up with a jerk. She spoke in a mechanical voice with a sweeter, synthetic voice laid over it. *"There are twenty Eden units in the valley below. It's all that I could bring back. Like I said, you could be destroyed, or you could see the truth."* Asked what the truth was, she said, *"The Empress must die."* She said that Thar had told her the Emperor would agree with them, and called him a fool. *"If you get in my way, I will destroy everything you love. They have my sister."* Told that her sister was risen, she said, *"We will rule the Empire together. You will retreat to your forests. If you are here tomorrow, you will die."* Of [Locke Pierce](/people/locke-pierce/) she said, *"I could survive his onslaught. Can you?"* She laughed, flat and repeated, and went down the mountain after her soldiers. <small>(Korth Ep 17)</small>
+Eden's soldiers climbed onto the peak first, with weapons built into their bodies and small oculus scanners. She dropped out of the sky, landed softly and brought her head up with a jerk. Gemma spoke first, in Thar's ruined voice, and Eden answered in a mechanical voice with a sweeter, synthetic voice laid over it.
+
+> **Gemma, as Thar:** I see you made it. Well. Safe.
+>
+> **Eden:** There are twenty Eden units in the valley below. It's all that I could bring back. Like I said, you could be destroyed, or you could see the truth.
+>
+> **Gemma, as Thar:** Destroyed would be the second on my list. So tell me, Eden, what is the truth?
+>
+> **Eden:** The Empress must die.
+>
+> **Gemma, as Thar:** I think that's why we're both standing here right now. We know what she has done to these lands, to our people.
+>
+> **Eden:** You told me the Emperor would agree with us. You are a fool.
+>
+> **Gemma, as Thar:** If the Emperor gets in the way, it might just have to happen.
+>
+> **Eden:** If you get in my way, I will destroy everything you love. *(She nods to her soldiers, and they begin to climb down.)* They have my sister.
+>
+> **Gemma, as Thar:** I've heard tell that she has been risen.
+>
+> **Eden:** We will rule the Empire together. You will retreat to your forests. If you are here tomorrow, you will die.
+>
+> **Gemma, as Thar:** And what of Locke Pierce?
+>
+> **Eden:** I could survive his onslaught. Can you?
+>
+> **Gemma, as Thar:** Druids can do many things. My hope is that my forest will not be blown up afterwards.
+
+She laughed, flat and repeated, and went down the mountain after her soldiers. <small>(Korth Ep 17)</small>
 
 ## Right Now
 

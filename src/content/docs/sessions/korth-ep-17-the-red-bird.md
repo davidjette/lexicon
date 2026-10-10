@@ -91,7 +91,35 @@ Thar asked them, *"Who are you? What are you doing? Who ordered this? You idiots
 
 Dollar said, *"What have you got me into? You just assassinated some military officer. This will be the end of my career."* Eric welcomed him to the rebellion. *"Rebellion, no. You think you know what's best for everyone? Collapsing the Empire, fighting all this time, destroying everything?"* Gemma cut off Thar's head. On him they found his red robes and headpiece, his dragon-headed staff, 1,200 gold in Imperial scrip, a demand in his own hand that the airships protecting the Lazaret be released to the front to save Aundair from the orcs, and a note in strange handwriting with that night's date: *Dawn. The peak at King's Forest.* It was signed **E**. Dollar took the rest of his fee and the tail feathers, gave them a share of the drow's silver and a vial of drow poison, and left. *"Good luck to you, whoever you are."* A burst of gunfire sounded in the valley, in the direction he had gone.
 
-It was nearly dawn, and they stayed to keep the appointment. Gemma cast *seeming* and became Thar, with Eric as a tiefling druid of his staff. Soldiers climbed onto the peak, moving in a strange, dead way, with weapons built into their bodies and small oculus scanners that turned toward the two of them. A woman dropped out of the sky, landed softly and fixed her eyes on Thar. She was Eden, and she spoke in a mechanical voice with a sweeter, synthetic voice laid over it. *"There are twenty Eden units in the valley below. It's all that I could bring back. Like I said, you could be destroyed, or you could see the truth."* Gemma, in Thar's ruined voice, asked what the truth was. *"The Empress must die."* Eden said that Thar had told her the Emperor would agree with them, and called him a fool. *"If you get in my way, I will destroy everything you love. They have my sister."* Gemma said she had heard that the sister was risen. *"We will rule the Empire together. You will retreat to your forests. If you are here tomorrow, you will die."* Asked about [Locke Pierce](/people/locke-pierce/), she said, *"I could survive his onslaught. Can you?"* She laughed, flat and repeated, and climbed down after her soldiers.
+It was nearly dawn, and they stayed to keep the appointment. Gemma cast *seeming* and became Thar, with Eric as a tiefling druid of his staff. Soldiers climbed onto the peak, moving in a strange, dead way, with weapons built into their bodies and small oculus scanners that turned toward the two of them. A woman dropped out of the sky, landed softly and fixed her eyes on Thar. She was Eden. Gemma spoke first, in Thar's ruined voice, and Eden answered in a mechanical voice with a sweeter, synthetic voice laid over it.
+
+> **Gemma, as Thar:** I see you made it. Well. Safe.
+>
+> **Eden:** There are twenty Eden units in the valley below. It's all that I could bring back. Like I said, you could be destroyed, or you could see the truth.
+>
+> **Gemma, as Thar:** Destroyed would be the second on my list. So tell me, Eden, what is the truth?
+>
+> **Eden:** The Empress must die.
+>
+> **Gemma, as Thar:** I think that's why we're both standing here right now. We know what she has done to these lands, to our people.
+>
+> **Eden:** You told me the Emperor would agree with us. You are a fool.
+>
+> **Gemma, as Thar:** If the Emperor gets in the way, it might just have to happen.
+>
+> **Eden:** If you get in my way, I will destroy everything you love. *(She nods to her soldiers, and they begin to climb down.)* They have my sister.
+>
+> **Gemma, as Thar:** I've heard tell that she has been risen.
+>
+> **Eden:** We will rule the Empire together. You will retreat to your forests. If you are here tomorrow, you will die.
+>
+> **Gemma, as Thar:** And what of Locke Pierce?
+>
+> **Eden:** I could survive his onslaught. Can you?
+>
+> **Gemma, as Thar:** Druids can do many things. My hope is that my forest will not be blown up afterwards.
+
+Eden laughed, flat and repeated, and climbed down after her soldiers.
 
 Gemma's sword took them to the bank where Dollar's boat lay. They rowed back as Deirdre and Graham. Outside the Lodge, **Pork Broccoli** told them his family lives nowhere near the valley and that his people are from the Uruk Republic, where there has been fighting. Bimples took 500 gold for another night and asked whether they had caught their game. *"It did not go as expected,"* Deirdre said. *"Many mysteries out in those woods."*
 
