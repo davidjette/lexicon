@@ -61,6 +61,8 @@ image:
   src: /images/portraits/temple-holdings-party-portrait.webp
   alt: 'The Temple Holdings party on a rocky shore beneath ice mountains and a broken moon: St. Cloud apart on the left, then Stoth, Arana, Yoshi, Couch, Drefan, Eloise, Kara, Revan, Magnus, Zanzibar and Roland'
   caption: 'The party portrait of Temple Holdings, commissioned by the players. Left to right: Wainwright St. Cloud, Stoth, Arana, Yoshi, Couch, Drefan, Eloise, Kara, Revan, Brother Magnus, Zanzibar and Roland. The broken moon hangs in the sky.'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > In this era of crumbling empires, chaos lurks just past the reach of firelight, and bides its time before it reconquers everything. Can the civilized races push back the Wild, or should they even try?

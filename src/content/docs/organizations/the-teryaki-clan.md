@@ -36,6 +36,8 @@ image:
   src: /images/gallery/2026-07-29-01.webp
   alt: "General Tso's search party"
   caption: "In a dim corridor the trio meet a robed duergar and a duergar riding a giant spider. General Tso's search party, one of them mounted on a giant spider, is clearing the sealed rooms."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Duergar (deep dwarves) - the mourning-party of the Deeptempura - fourteen bedrolls in the mountain**

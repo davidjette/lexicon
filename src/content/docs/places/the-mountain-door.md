@@ -43,6 +43,8 @@ gallery:
   - src: /images/gallery/2026-07-19-04.webp
     alt: Wall of fire at the rope bridge
     caption: A roaring wall of fire runs along a rope bridge as orcs charge through the smoke toward it. Eric's wall of fire seals the doorway and burns the bridge away.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Fortified gate complex - the surface entrance to the Korramont**

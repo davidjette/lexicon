@@ -42,6 +42,8 @@ image:
   src: /images/cards/settlers-of-the-dale.webp
   alt: 'Ally card: Settlers of the Dale'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human commoners · Suzara's City and Camp Vengeance · Allies from Arc VI**

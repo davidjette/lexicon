@@ -44,6 +44,8 @@ gallery:
 - src: /images/gallery/dmh-fortunes-wheel-floor.webp
   alt: "The floor of Fortune's Wheel"
   caption: "Maverick, Nicollo and Heyu cross the gaming floor of Fortune's Wheel under the eye of a horned devil in shirtsleeves."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Casino · The Lady's Ward, [Sigil](/places/sigil/) · Owned by Shemeska · Standing**

@@ -103,6 +103,8 @@ gallery:
 - src: /images/minis/brother-magnus-2.webp
   alt: 'Brother Magnus''s unpainted miniature in monk''s robes'
   caption: 'Brother Magnus''s unpainted miniature in monk''s robes (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Hill Dwarf · Cleric of Brightmantle · Temple Holdings LLC · Level 5 · Alive**

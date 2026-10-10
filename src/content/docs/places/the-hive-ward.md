@@ -42,6 +42,8 @@ image:
   src: /images/generated/the-hive-ward.webp
   alt: "The Hive Ward"
   caption: "Lexical rendering of honeycomb tenements joined by wooden bridges above a square where ragged crowds gather around carts."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Ward · [Sigil](/places/sigil/) · Gang territory · Standing**

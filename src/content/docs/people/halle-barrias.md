@@ -34,6 +34,8 @@ sources:
   - 'JL''s DM notes: Starfall Notes - The Company - Holly Berrias Session'
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **Species unknown · Employee of the Company · Sister of Barrias Ruby-Eye · Status unknown**

@@ -50,6 +50,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-27"
 - "Oral Histories: The Inevitables, 2024-12-22"
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Ancient magical devices · Parts of Zoth's craft · Studied by the Company's Special Projects · Origins erased from memory**

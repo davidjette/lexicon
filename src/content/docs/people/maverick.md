@@ -85,6 +85,8 @@ gallery:
   - src: /images/gallery/2025-08-22-12.webp
     alt: Maverick with a glowing wand
     caption: Maverick, a dark-skinned elf with swept white hair in a black suit and open white shirt, holds up a glowing wand in an arched window.
+campaigns:
+  - dead-mans-hand
 ---
 
 **Astral elf of drow descent · Bard · Prince · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/) · Hanged at dawn, raised in Undermountain · Alive**

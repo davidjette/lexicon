@@ -44,6 +44,8 @@ published: '2026-09-10'
 wa:
   slug: the-infanta-crisis-article
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+campaigns:
+  - ages-of-the-infanta
 ---
 
 The **Infanta Crisis** was the war over the [Infanta](/lore/the-infanta/), gods reborn into mortal children. There were two Infanta Crises, the first and the second, and each lasted on the order of a hundred years. The crisis ended with the defeat of **Asmodeus** in [Waterdeep](/places/waterdeep/), remembered as the work of troops led by [Zanzibar](/people/zanzibar/) and the [Purple Dragons](/organizations/the-purple-dragons/), and with the founding of the [Cormyrean Empire](/organizations/the-cormyrean-empire/) by Zanzibar, as Zanzibar the Elder, first Emperor of Faerûn. The Empire was founded five hundred years before [Dead Man's Hand](/lore/dead-mans-hand/).

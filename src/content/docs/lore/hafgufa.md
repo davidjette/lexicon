@@ -47,6 +47,9 @@ image:
   src: /images/generated/hafgufa.webp
   alt: "Hafgufa"
   caption: "Lexical rendering of an immense maw opening in the deep sea beneath the small hull of a sailing ship."
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Warlock patron · The Fathomless · The deepest ocean in the Abyss · Patron of Gabriella Hellwood**

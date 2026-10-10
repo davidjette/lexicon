@@ -61,6 +61,8 @@ gallery:
 - src: /images/gallery/2026-09-03-05.webp
   alt: Gemma warns Jessica
   caption: Gemma Corso points and leans over Jessica Grimpledink beside a desk, airships drifting past the tall window behind them. Gemma's attempt to warn Jessica about Eric backfires.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Gnome · Artificer · Leader of the Nest · Alive**

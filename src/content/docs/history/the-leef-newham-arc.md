@@ -81,6 +81,8 @@ sources:
 - "sources/dave/2026-09-27-jl-notes.md"
 - "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
 published: '2026-09-14'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Campaign arc · *Unforeseen Strikes Back* · DM: JL · Played 11 July to 12 December 2025**

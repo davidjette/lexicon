@@ -42,6 +42,8 @@ image:
   src: /images/generated/dab-sweet.webp
   alt: "Dab Sweet riding point on the caravan"
   caption: "Lexical rendering of a lone rider seen from behind, leading a caravan of carts drawn by giant toads across open country."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Trail boss · Frontier caravan · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Status unknown**

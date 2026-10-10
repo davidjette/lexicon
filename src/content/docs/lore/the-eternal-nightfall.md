@@ -46,6 +46,8 @@ gallery:
 - src: /images/gallery/2026-07-12-17.webp
   alt: 'Dossier: The Fatanya Nyel'
   caption: 'A prop document from the Mt. Silicon Archive: Intelligence Dossier HB-CHORUS-13, "The Fatanya Nyel - Hell''s Bells - Instruments of the Eternal Nightfall", from the Office of the Progenitor, with a threat table and an assessment of the threat. It is part of the sealed intelligence dossier on the Hell''s Bells that Locke Pierce gives the trio.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Planned event · Continent-wide · HAS NOT HAPPENED**

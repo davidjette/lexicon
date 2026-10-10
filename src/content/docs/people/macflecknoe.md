@@ -28,6 +28,8 @@ image:
   src: /images/generated/macflecknoe.webp
   alt: "MacFlecknoe"
   caption: "Lexical rendering of a hooded figure, seen from behind in shadow, writing at a desk beside ten heavy law volumes and a few slim books of poetry."
+campaigns:
+  - starfall-tng
 ---
 
 **Species unknown · Legal scholar and poet · [The Cube](/places/the-cube/) · Status unknown**

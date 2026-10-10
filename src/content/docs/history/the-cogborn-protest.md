@@ -46,6 +46,8 @@ gallery:
   - src: /images/gallery/2026-01-23-05.webp
     alt: Cogborn protesters with signs
     caption: Soot-stained Cogborn families carry signs reading "Cogborn Rights are Sharnian Rights", "Find the Cog Collector", "Where Are Our People?" and "We Are the Base".
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Protest, bombing and massacre · Upper City, Sharn · Sharn Ep 2, and the nights before it**

@@ -59,6 +59,8 @@ gallery:
   - src: /images/chat/2024-11-22-1304599774318991.webp
     alt: Kol Hanaka miniature
     caption: Miniature render of a kneeling black robot ninja with a katana and a staff on its back.
+campaigns:
+  - starfall-tng
 ---
 
 **Githzerai · Monk 6 (Way of the Kensei) · Agent, Bureau of Compliance · Rebuilt as a robot**

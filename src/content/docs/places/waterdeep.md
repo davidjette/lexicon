@@ -58,6 +58,9 @@ image:
   src: /images/generated/waterdeep.webp
   alt: "Waterdeep"
   caption: "Lexical rendering of a great walled port city with a mountain observatory, a castle above the harbor and soldiers on its walls."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Waterdeep** is the largest city in the West, on the Sword Coast. It has been the capital of the Old Empire, the capital of the Lord's Alliance, the seat of the boy Imperator Jacob Southampton, proclaimed an Infanta, and — five hundred years later — an occupied provincial governorship of the [Cormyrean Empire](/organizations/the-cormyrean-empire/).

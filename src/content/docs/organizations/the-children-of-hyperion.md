@@ -43,6 +43,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-11-09"
 - "Oral Histories: The Inevitables, 2024-12-13"
 - "The Starsong Awakens site (JL Byrd): New magic items"
+campaigns:
+  - starfall-tng
 ---
 
 **Interstellar temple · Faith of Hyperion · Starfall era · Active**

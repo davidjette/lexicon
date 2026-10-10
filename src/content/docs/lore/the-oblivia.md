@@ -47,6 +47,10 @@ published: '2026-09-10'
 wa:
   slug: the-oblivia-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 The **Oblivia** — the **Forgetting** — is the erasure of knowledge from *memory itself*, "from the minds of everyone who ever lived." What it touches leaves records "scarce and often cursed," and traces such as a lullaby a mother sings "as if it called to her from some forgotten recess of her mind."

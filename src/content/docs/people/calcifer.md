@@ -66,6 +66,8 @@ gallery:
 - src: /images/gallery/2025-09-01-01.webp
   alt: The Crona-Blaze family in the street
   caption: Esther Crona and Richard Blaze stand on a cobbled old-town street with a small horned boy between them.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Child · son of the Lord Commander · officially deceased, in fact alive**

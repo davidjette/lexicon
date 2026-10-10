@@ -43,6 +43,8 @@ image:
   src: /images/cards/teo-infanta-of-nature.webp
   alt: 'Ally card: Teo, Infanta of Nature'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Infanta of Nature · Ally at the Egg · Fate not recorded**

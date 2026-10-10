@@ -45,6 +45,8 @@ image:
   src: /images/generated/filly-sominyard.webp
   alt: "Filly Sominyard"
   caption: "Lexical rendering of a noble seen from behind in the audience of a grand theater, watching an orchestra and its conductor on a lit stage."
+campaigns:
+  - unforeseen
 ---
 
 **Aundairian noble · Member of the Royal Economic Commission · Fascist · Level Unknown · Alive at last record**

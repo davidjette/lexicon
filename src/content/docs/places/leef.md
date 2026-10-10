@@ -55,6 +55,8 @@ gallery:
   - src: /images/album/leef-lightning-rail-and-air-ship-terminal.webp
     alt: 'Leef Lightning Rail and Air-Ship Terminal'
     caption: 'Leef Lightning Rail and Air-Ship Terminal'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Town · eastern Khorvaire · Refounded as the Republic of Talenta · Standing**

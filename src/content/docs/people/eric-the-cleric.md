@@ -95,6 +95,9 @@ gallery:
 - src: /images/gallery/2026-03-01-05.webp
   alt: Eric the Cleric, portrait
   caption: A head-and-shoulders portrait of Eric the Cleric in glasses, a studded dark jerkin and a cloak, on a street in Sharn.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Cleric · Chancellor of Sharn · The Inevitables · Level 12 · Alive**

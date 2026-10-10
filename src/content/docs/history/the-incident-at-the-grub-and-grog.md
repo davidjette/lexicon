@@ -51,6 +51,9 @@ image:
   src: /images/generated/the-incident-at-the-grub-and-grog.webp
   alt: "The Incident at the Grub + Grog"
   caption: "Lexical rendering of a burning carriage bolting down a rainy city street at night with a figure clinging to its roof and mounted knights in pursuit."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Ambush, brawl and arrest · The [Grub + Grog](/places/the-grub-and-grog/), Sea Ward, [Waterdeep](/places/waterdeep/) · The night of the Tiffany House Heist · Dead Man's Hand**

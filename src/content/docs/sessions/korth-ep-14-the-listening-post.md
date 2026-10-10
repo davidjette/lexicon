@@ -40,6 +40,8 @@ gallery:
   - src: /images/album/gemma-corso-and-kitsune-2.webp
     alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
     caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 14 · DM: Dave**

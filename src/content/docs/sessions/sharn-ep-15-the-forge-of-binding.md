@@ -28,6 +28,8 @@ published: '2026-09-10'
 wa:
   slug: sharn-ep-15-E28094-the-forge-of-binding-report
   category: fca4a689-d08c-444f-a746-15dc90f52408
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 15 · DM: Nichole**

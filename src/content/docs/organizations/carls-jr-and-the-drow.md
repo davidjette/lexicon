@@ -41,6 +41,8 @@ image:
   src: /images/cards/carls-jr-and-the-drow.webp
   alt: 'Ally card: Carls Jr and the Drow'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Drow nobles · Bearers of Onyxbane · Allies from Arc VII**

@@ -89,6 +89,8 @@ image:
   src: /images/chat/2022-10-18-863230371753728.webp
   alt: "The SSJ Zanzibar in violet light"
   caption: "The Zanzibar's TaleSpire build lit in purple against a red and violet sky, its engine beams streaming behind."
+campaigns:
+  - starfall-tng
 ---
 
 **Sovereign Spelljammer · Astral Command · Flagship of five hundred years before · Critically damaged**

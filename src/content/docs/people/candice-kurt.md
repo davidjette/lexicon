@@ -38,6 +38,8 @@ gallery:
 - src: /images/gallery/2025-12-16-02.webp
   alt: Candice Kurt
   caption: Portrait of news anchor Candice Kurt in an orange draped jumpsuit, holding a goblet, with a floating ArcEye behind her.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Celebrity news anchor and political commentator · Host of Serving Sharn Nightly · Imperial media · Deceased**

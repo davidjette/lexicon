@@ -39,6 +39,8 @@ image:
   src: /images/site/the-ghost-chip-1.webp
   alt: Ghost Chip
   caption: Ghost Chip
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Implant enhancement module · BioTec prototype · Anti-surveillance countermeasure · Project lead: Dr. Joanne Menka · Prototype stolen, Sharn Ep 1**

@@ -57,6 +57,8 @@ gallery:
 - src: /images/gallery/2026-09-07-01.webp
   alt: Bantide Moro, the condemned
   caption: A barefoot blonde woman with a long braid, in a torn sackcloth dress, stands chained in a stone cell. Bantide Moro is condemned before the High Court of Korth.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Head nurse and rebellion surgeon · Fulcrum · Alive — officially a suicide in custody**

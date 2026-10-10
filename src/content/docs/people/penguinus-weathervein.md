@@ -46,6 +46,8 @@ image:
   src: /images/generated/penguinus-weathervein.webp
   alt: "Penguinus \"Keraptis\" Weathervein"
   caption: "Lexical rendering of an alchemist's skeleton lying in a stone tomb among glassware, a brass weight, a journal and old receipts."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Weathervein · Alchemist · Keraptis of White Plume Mountain · Dead**

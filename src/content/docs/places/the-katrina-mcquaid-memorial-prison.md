@@ -36,6 +36,8 @@ image:
   src: /images/starsong/mcquaid-memorial-prison.webp
   alt: "The prison complex in Shadowspace"
   caption: "The Capt. Katrina McQuaid Memorial Prison & Humane Detention Center, from the Company dossier"
+campaigns:
+  - starfall-tng
 ---
 
 **Prison complex · Shadowspace · *The Starsong Awakens* · Active, at maximum capacity**

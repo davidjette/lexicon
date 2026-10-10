@@ -50,6 +50,9 @@ image:
   src: /images/cards/war-wizards.webp
   alt: 'Ally card: War Wizards'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 > Fourteen dead. The girl who did it, they said she was a sorcerer and the War Wizards came and scooped her up. Thats what they do, no punishment, just give them a wand and say fight for the King! It's wrong if you ask me.

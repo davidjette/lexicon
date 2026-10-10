@@ -28,6 +28,8 @@ sources:
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
   - 'Oral Histories: The Inevitables, 2025-08-30'
 published: '2026-09-27'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Temple · Leef · Abandoned; a Black Dove listening station · Desecrated**

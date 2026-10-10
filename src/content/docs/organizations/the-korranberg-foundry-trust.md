@@ -38,6 +38,8 @@ image:
   src: /images/gallery/2026-07-12-20.webp
   alt: "Korranberg Foundry Trust schedule of works"
   caption: "A prop document: a Chancellery of Sharn Office of Seizures evidence tag clipped to the second leaf of the Korranberg Foundry Trust''s private schedule of works, listing thirteen great castings commissioned, eleven delivered and two in the yard. It is the partially burned foundry schedule recovered from the Lower City church."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **LEAKED INTELLIGENCE DOSSIER - compiled from four seized documents and one interview**

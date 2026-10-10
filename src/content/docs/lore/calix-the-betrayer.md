@@ -28,6 +28,8 @@ sources:
 - Desktop/D&D/Temple Holdings LLC/8 - End of the Infanta/Ally Cards/Ella, Infanta of the Moon (2).png
 - ALLY_CARDS.md (card transcription)
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Calix the Betrayer** is a Cormyrean lullaby about [Calix](/people/calix/), the elf-lich whose betrayal at [Motherstone](/places/motherstone/) brought on the Forgetting, [the Oblivia](/lore/the-oblivia/) that erased the city from the memory of the world. It ends with his name and a warning never to sing the song again. [Mara Mageblood](/people/mara-mageblood/)'s mother sang it to her, and Mara copied all twelve lines into her journal, which [Kara](/people/kara/) recovered beneath Snowy Mountain a century later and the party carried into [Arc II](/history/arc-ii-motherstone/). Its lines appear again as flavour text on two [Ally Cards](/lore/the-ally-cards/) made for the final session of [Arc VIII](/history/arc-viii-end-of-the-infanta/): Calix's card, which calls it a Cormyrean lullaby, and Ella's, which calls its opening a Forsworn lullaby.

@@ -33,6 +33,8 @@ image:
   src: /images/starsong/sovereign-supreme.webp
   alt: "Timothee Buckets"
   caption: "The Sovereign Supreme, from the Company dossier"
+campaigns:
+  - starfall-tng
 ---
 
 **Species unknown · Sovereign Supreme · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Alive**

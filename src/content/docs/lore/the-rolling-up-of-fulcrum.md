@@ -36,6 +36,8 @@ published: '2026-09-10'
 wa:
   slug: the-rolling-up-of-fulcrum-article
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Counter-insurgency sweep · Continent-wide · Ongoing, beginning after Izaak vanished**

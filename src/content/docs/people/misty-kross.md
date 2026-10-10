@@ -49,6 +49,8 @@ gallery:
 - src: /images/gallery/2026-02-20-05.webp
   alt: Kriss and Misty Kross
   caption: Kriss Kross, in a skull T-shirt and black jacket, stands beside red-haired Misty Kross, who holds a colourful patchwork jacket.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Cogborn · Engineer · RUST inner circle · Alive**

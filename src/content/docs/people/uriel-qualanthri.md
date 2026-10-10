@@ -85,6 +85,9 @@ gallery:
   - src: /images/minis/uriel-qualanthri-white-death.webp
     alt: 'The White Death: Uriel, crowned and in tattered white, walks a battlefield with a flaming scythe at the head of an undead army'
     caption: The White Death
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Female High Elf · Cleric of the Grave (in disguise as a Cleric of Light) · [The Black Doves](/organizations/the-black-doves/) and [The Unforeseen](/organizations/the-unforeseen/) · Holy Empress of the Pax Imperium · **Alive****

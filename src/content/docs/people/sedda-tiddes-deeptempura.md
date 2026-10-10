@@ -47,6 +47,8 @@ gallery:
 - src: /images/gallery/2026-08-10-09.webp
   alt: Meeting Sedda at the bottom of the shaft
   caption: In a dark cavern of black water, Sir Dario Argentino, Gemma Corso and Eric the Cleric in a white wig and red coat face a pale, decayed dwarf woman. At the bottom of the ladder the trio find Sedda Tiddes Deeptempura, three years dead.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Duergar (deep dwarf) · Princess and heir of the Deeptempura · Undead, then laid to rest · Dead**

@@ -61,6 +61,9 @@ gallery:
   - src: /images/album/gemma-eric-and-dario-listen-to-a-guard-play-a-haunting-tune-black-castle-city-of.webp
     alt: 'Gemma, Eric and Dario listen to a guard play a haunting tune - Black Castle - City of Newham'
     caption: 'Gemma, Eric and Dario listen to a guard play a haunting tune - Black Castle - City of Newham'
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **City · eastern Khorvaire · The gateway to the East · DESTROYED**

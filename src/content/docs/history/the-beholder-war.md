@@ -46,6 +46,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-16"
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-06-02"
+campaigns:
+  - starfall-tng
 ---
 
 **War · [Negroni Prime](/places/negroni-prime/) · Jim Smallberries's first assignment**

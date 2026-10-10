@@ -38,6 +38,8 @@ published: '2026-09-10'
 wa:
   slug: the-mror-holds-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Region and dwarven nation · eastern Khorvaire · Allied to the Republic of Talenta · Standing**

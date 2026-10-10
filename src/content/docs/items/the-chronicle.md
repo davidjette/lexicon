@@ -56,6 +56,8 @@ image:
   src: /images/gallery/the-anachron-detail.webp
   alt: "The Chronicle"
   caption: "A pyramid floating point-down over a ringed platform among towering machinery, a detail of a table illustration."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Living archive · Under hardened magma northeast of Enkidu, Netherese era · Sealed, corrupted, contested**

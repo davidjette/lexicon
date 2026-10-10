@@ -55,6 +55,8 @@ image:
   src: /images/generated/the-banefae.webp
   alt: "The Banefae"
   caption: "Lexical rendering of five fae hunters in furs and precious metals pursuing unicorns across the surface of a moon."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > My sister and I came to Sigil with the sage, after the Second Fall. We took the Banefaes home while they were feeding our people into oblivion. By the time they returned, the cities were ours. We cast them into Despondos where all of them perished.

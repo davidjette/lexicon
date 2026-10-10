@@ -49,6 +49,8 @@ gallery:
   - src: /images/gallery/2025-12-30-04.webp
     alt: Digma Beeve in a leather coat
     caption: Digma Beeve, a bald, smiling halfling in a brown leather coat, holds a small book against a stone wall.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Halfling · Furniture trader · Founder of Fulcrum · Comptroller of the Republic of Talenta · Alive**

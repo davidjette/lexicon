@@ -34,6 +34,8 @@ image:
   src: /images/starsong/esper.webp
   alt: "An Esper"
   caption: "An Esper, from The Starsong Awakens site"
+campaigns:
+  - starfall-tng
 ---
 
 **Race · *The Starsong Awakens* · Psychic · Silver-eyed**

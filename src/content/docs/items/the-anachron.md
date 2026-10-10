@@ -80,6 +80,9 @@ image:
   src: /images/gallery/the-anachron-detail.webp
   alt: "The pyramid of the Chronicle"
   caption: "A pyramid floating point-down over a ringed platform among towering machinery, a detail of a table illustration of the machine in its form as the Chronicle."
+campaigns:
+  - ages-of-the-infanta
+  - starfall-tng
 ---
 
 **Infernal Machine · elemental drive and moonstone housing · one entity under three names · extant**

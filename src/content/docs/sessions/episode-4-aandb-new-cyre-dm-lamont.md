@@ -34,6 +34,8 @@ image:
   src: /images/gallery/2026-02-15-01.webp
   alt: "Episode 4 \"New Cyre\" summary screenshot"
   caption: "A screenshot of a written summary headed \"Episode 4 (a&b) ''New Cyre'' DM: LaMont\": the party goes to New Cyre to learn whether Father White is a rebel, finds the drug Embrace, and the mission fails."
+campaigns:
+  - unforeseen
 ---
 
 **The Unforeseen · Campaign 1 · Episode 4 (a&b) · DM: LaMont · Report filed 11 Sep 2020**

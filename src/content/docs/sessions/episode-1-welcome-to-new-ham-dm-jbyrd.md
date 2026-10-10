@@ -28,6 +28,8 @@ wa:
   slug: episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report
   uuid: ca1f683c-5802-47df-a979-64c28f23fff4
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+campaigns:
+  - unforeseen
 ---
 
 **The Unforeseen · Campaign 1 · Episode 1 · DM: JByrd · Report filed 11 Sep 2020**

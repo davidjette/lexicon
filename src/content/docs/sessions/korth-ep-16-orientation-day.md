@@ -35,6 +35,8 @@ sources:
   - C:/dev/sharn-campaign/session-2026-10-02-lazaret.transcript.txt
   - sources/dave/2026-10-06-lazaret-flame-tomb-inscription-uriel-diamond.md
 published: '2026-10-03'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 16 · DM: Dave**

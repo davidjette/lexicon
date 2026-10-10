@@ -58,6 +58,8 @@ gallery:
 - src: /images/gallery/2026-03-02-18.webp
   alt: Esther Crona on her balcony
   caption: Esther Crona, red bat wings spread and a glowing red sword in hand, snarls as she advances along a balcony above Sharn.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Citywide rising · Sharn · Sharn Ep 18 · Three years before the Korth arc**

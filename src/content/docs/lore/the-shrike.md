@@ -43,6 +43,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-04-05'
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj
+campaigns:
+  - starfall-tng
 ---
 
 **Creature · Necis · Light of Xaryxis and The Starsong Awakens · Status unknown**

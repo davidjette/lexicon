@@ -50,6 +50,8 @@ image:
   src: /images/generated/xiii.webp
   alt: "XIII at the dragonchess board"
   caption: "Lexical rendering of a towering mechanical being with a blank mask face playing a board game against a much smaller figure seen from behind."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Warforged · Survivor of House Nimbus · Played by LaMont · In the deep past**

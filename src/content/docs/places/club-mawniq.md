@@ -30,6 +30,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-09-27'
   - 'Oral Histories: The Inevitables, 2025-11-08'
 published: '2026-09-27'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Night club · Newham, later Leef · Relocated**

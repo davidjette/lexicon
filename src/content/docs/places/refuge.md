@@ -38,6 +38,8 @@ wa:
 image:
   src: /images/maps/60-refuge.webp
   alt: "Map: Refuge"
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Settlement · Site of the Mammon Machine's portal · Held in a repeating hour**

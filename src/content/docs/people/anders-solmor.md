@@ -61,6 +61,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2022-07-14'
   - 'Oral Histories: The Inevitables, 2022-09-16'
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Saltmarsh, Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Ally of [Neptune's Rejects](/organizations/neptunes-rejects/) · Alive**

@@ -34,6 +34,9 @@ published: '2026-09-10'
 wa:
   slug: the-undying-court-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Deathless elvish council · Aerenal · Ancient, and holding to a judgement it made thousands of years ago**

@@ -103,6 +103,9 @@ sources:
 - "Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)"
 - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_3049, IMG_3050, IMG_3051)
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Campaign · *Ghosts of Saltmarsh* module · Saltmarsh, Oerth · DMs Dave, JL and Nico · August 2021 to October 2022 · Concluded**

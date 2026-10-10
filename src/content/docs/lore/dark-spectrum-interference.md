@@ -26,6 +26,8 @@ fields:
 sources:
 - "Oral Histories: The Inevitables, 2022-10-18"
 - "Oral Histories: The Inevitables, 2023-01-23"
+campaigns:
+  - starfall-tng
 ---
 
 **Subspace interference · Starfall · Unresolved during Light of Xaryxis**

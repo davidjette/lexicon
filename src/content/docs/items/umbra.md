@@ -39,6 +39,8 @@ gallery:
 - src: /images/gallery/2026-05-13-02.webp
   alt: Recruiter stat block
   caption: A creature stat block for the "Recruiter", a Medium humanoid with Umbra syringes, Umbra-drugged effects and an Umbra powder burst.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Material · Grown and supplied by Malrik Zeir · Transported across Khorvaire by Hallorn d'Lyrandar · Consumed by Project E.D.E.N. and by the Children of Ember · Sharn supply severed**

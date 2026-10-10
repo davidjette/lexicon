@@ -45,6 +45,8 @@ gallery:
 - src: /images/gallery/2026-07-12-01.webp
   alt: The disguised trio in Deirdre Moro's apartment
   caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Elf · Paralegal to Star Advocate [Deirdre Moro](/people/deirdre-moro/) · Ministry of Law, Korth · Dead — killed by the Inevitables**

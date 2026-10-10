@@ -41,6 +41,8 @@ published: '2026-09-10'
 wa:
   slug: the-sharn-library-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Library and archive · [GoldSky Neighborhood](/places/goldsky-neighborhood/), [Upper City](/places/the-upper-city/) · Restricted ArcEye archive · Standing**

@@ -31,6 +31,8 @@ image:
   src: /images/generated/dr4mb.webp
   alt: "DR4MB beneath the Rekkenmark"
   caption: "Lexical rendering of a great glass vat of yellow liquid cabled to a bank of room-sized machines in an underground laboratory."
+campaigns:
+  - unforeseen
 ---
 
 **Cyrean divination engine · The Rekkenmark · Campaign 1, [Episode 10](/sessions/episode-10-aandb-the-rekkenmark-dm-jbyrd/)**

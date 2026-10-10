@@ -39,6 +39,8 @@ image:
   src: /images/gallery/dmh-rotten-william.webp
   alt: "Rotten William in his hideout"
   caption: "Rotten William, his head bandaged, sits among his thugs in a brick sewer vault with a wand laid on the chest before him."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Master rogue · Extortionist and enforcer · [Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Dead**

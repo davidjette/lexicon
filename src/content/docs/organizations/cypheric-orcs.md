@@ -49,6 +49,8 @@ image:
   src: /images/cards/cypheric-orcs.webp
   alt: 'Ally card: Cypheric Orcs'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Orcish archivists · Keepers of the Chronicle · Sworn to Istus, Lady Cypher**

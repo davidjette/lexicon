@@ -49,6 +49,8 @@ gallery:
 - src: /images/gallery/2026-03-31-02.webp
   alt: Locke Pierce meets Preacher
   caption: Locke Pierce, in his gas mask and fur-collared coat, faces the skull-faced Preacher in the R.U.S.T. control room as Eric the Cleric, Sir Dario Argentino and Gemma Corso look on.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Warforged · Founder of RUST · The last Warforged in Sharn, in hiding · Alive**

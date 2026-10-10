@@ -40,6 +40,8 @@ gallery:
 - src: /images/gallery/2026-07-20-11.webp
   alt: Gemma finds the Thirteenth Casting
   caption: A cloaked figure looks across a lava-lit forge hall at a great black bell hanging above a rail track, with more bells along the walls.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Forge floor - the Korranberg Foundry, inside the Korramont**

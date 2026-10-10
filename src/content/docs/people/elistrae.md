@@ -78,6 +78,8 @@ image:
   src: /images/cards/ella-infanta-of-the-moon.webp
   alt: "Ally card: Ella, Infanta of the Moon"
   caption: "Ally card, Arc VIII"
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Goddess incarnate (the Infanta) · Chaos, beauty, moonlight, the hunt · House Gallidann / the Lusmundii · Living, enthroned at Motherstone**

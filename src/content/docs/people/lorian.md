@@ -60,6 +60,9 @@ gallery:
 - src: /images/gallery/2026-05-17-11.webp
   alt: Sir Dario and Lorian clasp hands
   caption: Sir Dario Argentino, in black armour and cloak, clasps hands with Lorian in his tan coat in a dim room lit by candles and blue lights.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Paladin of the Silver Flame, Oath of Vengeance · The Nest · The Inevitables · Level 5 · Alive**

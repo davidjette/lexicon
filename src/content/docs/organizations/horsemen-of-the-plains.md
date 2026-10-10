@@ -31,6 +31,8 @@ image:
   src: /images/cards/horsemen-of-the-plains.webp
   alt: 'Ally card: Horsemen of the Plains'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > You saved our people from the God of Murder. We are with you till the end.

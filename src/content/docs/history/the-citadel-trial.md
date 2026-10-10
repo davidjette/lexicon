@@ -35,6 +35,8 @@ image:
   src: /images/generated/the-citadel-trial.webp
   alt: "The Citadel trial"
   caption: "Lexical rendering of four small figures at a card table on an asteroid, beside an ancient tower and the fallen head of a colossal statue."
+campaigns:
+  - starfall-tng
 ---
 
 **Trial · *[Light of Xaryxis](/history/light-of-xaryxis/)* · 9 December 2022 · DM: JL**

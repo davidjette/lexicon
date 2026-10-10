@@ -42,6 +42,8 @@ gallery:
 - src: /images/gallery/2026-05-10-01.webp
   alt: Most-viewed ArcEye feed in Sharn
   caption: 'An ArcEye view over Sharn''s Upper City at night: neon-lit towers and a tall statue with outstretched arms under a stormy sky.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Portable arcano-analog message relay · House Orien · Lightning Rail Sub-Transit System · Discontinued · Recovered by the Inevitables, Sharn Ep 16**

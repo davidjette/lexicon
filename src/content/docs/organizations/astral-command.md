@@ -94,6 +94,8 @@ image:
   src: /images/chat/2024-04-20-436173435570386.webp
   alt: "Join Astral Command poster"
   caption: "Retro recruitment poster reading \"Join Astral Command\", showing a green-skinned elf woman in a yoga pose holding a glowing orb."
+campaigns:
+  - starfall-tng
 ---
 
 **Space fleet · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Starfall era · Active**

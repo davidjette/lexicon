@@ -36,6 +36,8 @@ published: '2026-09-10'
 wa:
   slug: the-astra-bar-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Bar · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · After-work drinking establishment · Standing**

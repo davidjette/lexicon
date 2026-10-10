@@ -36,6 +36,8 @@ sources:
 - "Oral Histories: The Inevitables, 2021-12-03"
 - "Oral Histories: The Inevitables, 2021-12-04"
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Document · A clue in the Chronicle · Three tiers of epic spells · Two versions, 2021 and 2022**

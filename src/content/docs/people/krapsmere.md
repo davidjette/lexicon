@@ -37,6 +37,8 @@ image:
   src: /images/generated/krapsmere.webp
   alt: "Lord Krapsmere"
   caption: "Lexical rendering of a commander, seen from behind, giving orders to gathered soldiers in a castle hall at night."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Lord of Cormyr · Commander of [the Purple Dragons](/organizations/the-purple-dragons/) · [Suzail](/places/suzail/)**

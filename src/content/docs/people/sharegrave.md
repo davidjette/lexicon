@@ -36,6 +36,8 @@ sources:
   - canon/dmh-notebook/NAMES.md
   - sources/dave/2026-09-14-dead-mans-hand-names.md
 published: '2026-09-14'
+campaigns:
+  - dead-mans-hand
 ---
 
 **Crime boss · Leader of the thieves' guild on the Catwalk · [Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Alive**

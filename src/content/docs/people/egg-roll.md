@@ -46,6 +46,8 @@ image:
   src: /images/gallery/2026-08-26-02.webp
   alt: "Egg Roll runs through the fire"
   caption: "A bearded man in a red coat reaches out as a small figure runs along mine rails into an arch of fire. Egg Roll runs through Eric's wall of fire toward the bell."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Duergar (deep dwarf) · Child of the Teryaki camp · The Teryaki clan · Alive, disfigured**

@@ -66,6 +66,8 @@ gallery:
 - src: /images/starsong/ragnar-xii.webp
   alt: "Ragnar XII"
   caption: "Ragnar XII in the Abbathor System, from the Company dossier"
+campaigns:
+  - starfall-tng
 ---
 
 **Interplanar polity · Seat: [Sigil](/places/sigil/) · Ruled by [the Lexicon](/items/the-lexicon/) · Starfall era · Active**

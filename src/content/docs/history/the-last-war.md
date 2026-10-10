@@ -42,6 +42,8 @@ published: '2026-09-10'
 wa:
   slug: the-last-war-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Continental war of succession · Khorvaire · A hundred years, ended twenty-one years before the Imperial pageant was written**

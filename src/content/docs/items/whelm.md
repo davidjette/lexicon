@@ -31,6 +31,8 @@ sources:
 - "Oral Histories: The Inevitables, 2022-09-16"
 - "Oral Histories: The Inevitables, 2022-09-17"
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Item · Sentient weapon · Artifact of the Weathervein treasure · A Weathervein bound without consent**

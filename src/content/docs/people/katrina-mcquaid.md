@@ -67,6 +67,8 @@ gallery:
   - src: /images/chat/2024-05-03-1010365460647603.webp
     alt: Tabby cat-folk in a hooded coat
     caption: A grey tabby cat-folk wearing a high-collared grey hooded coat looks out of a window.
+campaigns:
+  - starfall-tng
 ---
 
 **Tabaxi · Ranger 5 / Fighter 3 / Rogue 3 · Captain, Astral Command · Dead**

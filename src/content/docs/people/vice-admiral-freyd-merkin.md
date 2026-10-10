@@ -54,6 +54,8 @@ gallery:
 - src: /images/gallery/2026-09-07-04.webp
   alt: The Advocate and Vice Admiral Merkin in court
   caption: The dark-haired Advocate speaks with an officer in an olive uniform and cap while the condemned kneels between red-robed guards before the court.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Vice Admiral · Assistant Barrister General · The Ministry of Law, Korth · Alive, hostile**

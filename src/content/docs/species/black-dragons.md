@@ -34,6 +34,9 @@ image:
   src: /images/generated/black-dragons.webp
   alt: "A black dragon, Valtrex, at the black lake"
   caption: "Lexical rendering of a black dragon with a bell collared around its neck flying over a flooded cavern lake, with a harpoon rig on the far platform."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Species · Khyber and the deep places · No specimen recorded in over four hundred and thirty years**

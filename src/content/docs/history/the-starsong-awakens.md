@@ -128,6 +128,8 @@ gallery:
   - src: /images/chat/2025-02-28-1342113986929254.webp
     alt: Terminator robot background
     caption: Handout card for the Terminator robot background showing a red-crested armoured robot beside its traits, including +1 AC and psychic immunity.
+campaigns:
+  - starfall-tng
 ---
 
 **Campaign arc · [Starfall: TNG](/lore/starfall-the-next-generation/) · DM JL · 2024–2025 · Fifteen years after *Light of Xaryxis***

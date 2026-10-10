@@ -33,6 +33,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-01-06"
 - "Oral Histories: The Inevitables, 2024-01-26"
 - "Oral Histories: The Inevitables, 2024-04-06"
+campaigns:
+  - starfall-tng
 ---
 
 **Shipboard AI attack · SSJ Zanzibar, Astral Sea · December 2023**

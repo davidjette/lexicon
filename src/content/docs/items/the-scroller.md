@@ -40,6 +40,8 @@ sources:
 - Desktop/D&D/Starfall TNG/sydiot_85807344.pdf
 - Desktop/D&D/Starfall TNG/sydiot_85076692.pdf
 - "The Starsong Awakens site (JL Byrd): New magic items"
+campaigns:
+  - starfall-tng
 ---
 
 **Standard-issue device · Astral Command · Charged scroll-preparer · Communicator and tricorder**

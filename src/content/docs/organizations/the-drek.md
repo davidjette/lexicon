@@ -41,6 +41,8 @@ image:
   src: /images/generated/the-drek.webp
   alt: "The Drembles, home of the Drek"
   caption: "Lexical rendering of a slum built down the wall of an ancient mine, with rising water at the bottom."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 The Drek are the people of the depths of Motherstone, the carvers of the tunnels and pits beneath the ancient crystal mine, who live in the **Drembles**, a vast slum lining the mine wall. Two accounts of them survive, and they are exact mirror images of each other: the [Mundi](/organizations/the-mundi/) hold that the ancestors of the Drek betrayed the city by inviting the spider god **Ayror** into it, and the Drek hold that the Mundi turned on them and slaughtered them by the thousands, and that Ayror cursed them all afterwards. They attacked the party on its arrival at Motherstone, and later spoke with it.

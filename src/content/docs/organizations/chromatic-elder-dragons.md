@@ -40,6 +40,8 @@ image:
   src: /images/cards/chromatic-elder-dragons.webp
   alt: 'Ally card: Chromatic Elder Dragons'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > They are here to do the same as the Abolethi courtesan, to convince her gloriousness to destroy the Moon.

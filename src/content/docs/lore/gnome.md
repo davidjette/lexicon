@@ -45,6 +45,9 @@ wa:
   slug: gnome-species
   uuid: bbcc2429-10b5-43f2-9ee8-33fc078776d1
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Species · Zilargo and Sharn · House Sivis, banned · Long-lived**

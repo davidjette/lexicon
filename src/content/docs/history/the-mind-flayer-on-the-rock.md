@@ -48,6 +48,8 @@ image:
   src: /images/chat/2022-11-16-513660690802266.webp
   alt: "Smallberries facing tentacles"
   caption: "Lexical rendering, a painting of a blond man, seen from behind, facing a huge tentacled creature."
+campaigns:
+  - starfall-tng
 ---
 
 **Mind flayer infestation · *Light of Xaryxis* · November 2022**

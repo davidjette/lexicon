@@ -109,6 +109,9 @@ gallery:
   - src: /images/chat/2022-08-14-5359469007466533.webp
     alt: Gabriella Hellwood with a grey beard, red cape and black greatsword, tentacles at her feet
     caption: 'Gabriella grows out her beard: Dave''s miniature from White Plume Mountain'
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Human · Fighter, Fathomless warlock · Captain of the Sea Ghost, later of the Blackfish · The Dunwater Horror, dying**

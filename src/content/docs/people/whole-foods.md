@@ -41,6 +41,8 @@ published: '2026-09-10'
 wa:
   slug: whole-foods-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Nanny to the Lord Commander's son · The Veil Building penthouse · Deceased**

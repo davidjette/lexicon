@@ -40,6 +40,8 @@ image:
   src: /images/starsong/red-eye-manifesto-cover.webp
   alt: "The Way It Is, by Red Eye"
   caption: "The cover of The Way It Is, by Red Eye"
+campaigns:
+  - starfall-tng
 ---
 
 **Political tract · Two chapters · By Red Eye · *The Starsong Awakens***

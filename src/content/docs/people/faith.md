@@ -66,6 +66,8 @@ gallery:
   - src: /images/gallery/2026-02-17-13.webp
     alt: Faith figurine
     caption: A figurine-style render of a dark-skinned horned woman with a tail, in a red off-shoulder gown with a belted bodice.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Mother Prophet · The Vault · Children of Ember · Deceased**

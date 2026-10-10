@@ -49,6 +49,8 @@ gallery:
 - src: /images/gallery/2026-03-01-10.webp
   alt: Eric shakes hands with Kriss Kross
   caption: Eric the Cleric shakes hands with Kriss Kross, who wears a skull T-shirt and black jacket.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Logistics and security · RUST inner circle · Alive**

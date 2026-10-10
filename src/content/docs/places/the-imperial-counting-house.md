@@ -28,6 +28,8 @@ sources:
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-lodge.transcript.txt
 published: '2026-09-26'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Imperial treasury office · Plaza of the Martyrs, below the Ivory Lazaret · Department of the Exchequer · Standing**

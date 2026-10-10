@@ -50,6 +50,9 @@ image:
   src: /images/gallery/2026-06-27-02.webp
   alt: "The gate of Mt. Silicon"
   caption: "A giant warforged stands guard beside a fortified gate cut into a grey cliff at the end of a stone causeway, in a misty dead landscape."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Warforged nation · The Mournlands and the Glass Plateau · Active, influence growing**

@@ -40,6 +40,8 @@ image:
   src: /images/generated/implants-and-chip-enhancement.webp
   alt: "Implants and chip enhancement"
   caption: "Lexical rendering of an implant clinic working openly among market stalls and eateries, a technician fitting a chip to a seated worker."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Arcane-cybernetic augmentation · Commercial, medical and Imperial · Ubiquitous in Sharn · Primary manufacturer: BioTec**

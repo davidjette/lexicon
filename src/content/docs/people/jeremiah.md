@@ -51,6 +51,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-10-05'
   - 'Oral Histories: The Inevitables, 2025-12-06'
 published: '2026-09-14'
+campaigns:
+  - dead-mans-hand
 ---
 
 **Fallen angel · Hired killer of [Shemeska](/people/shemeska/) · Alive**

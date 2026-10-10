@@ -67,6 +67,10 @@ wa:
 image:
   src: /images/maps/42-sigil.webp
   alt: "Map: Sigil"
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **Sigil**, the **City of Doors**, is "the most central city on the most central point of all of existence" — a city of spires "perched atop an impossibly tall formation," ruled by the **Lady of Pain**. It is also, less famously, the corporate headquarters of the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/). As the outer planes collapsed it filled with refugee angels and demons and became a deportation apparatus; it was here that the heroes broke the Company's interplanar empire and the Lady of Pain burned the Old Man's House; and five hundred years later [Dead Man's Hand](/lore/dead-mans-hand/) opens in the city's Mortuary.

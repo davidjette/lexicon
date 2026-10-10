@@ -35,6 +35,8 @@ published: '2026-09-10'
 wa:
   slug: fulcrum-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Rebel network · Breland farmsteads and Zilspar · Dismantled, remnant active**

@@ -31,6 +31,8 @@ published: '2026-09-10'
 wa:
   slug: kin-and-patron-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Concept · Karrnathi legal doctrine · The only substitute for a defence in an Imperial court**

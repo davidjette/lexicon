@@ -50,6 +50,8 @@ gallery:
   - src: /images/gallery/2026-07-19-03.webp
     alt: The fox mask at Braga Kul's cell
     caption: The fox-masked woman stands at iron bars in a torchlit corridor, facing a captive orc inside the cell. Masked, Gemma Corso questions the prisoner Braga Kul.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Orc · War-Chief of the Uruk-Hoth recon regiment · Uruk-Hoth · Dead**

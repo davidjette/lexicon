@@ -45,6 +45,8 @@ gallery:
   - src: /images/gallery/2026-04-04-02.webp
     alt: The abomination in Circuit City's backroom
     caption: Eric the Cleric, Gemma Corso and Sir Dario Argentino fight a hulking flesh abomination among the tanks and machinery of Edwin Graves's hidden laboratory behind Circuit City.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Shop · [Gear Street Markets](/places/gear-street-markets/), [Lower City](/places/the-lower-city/) · Chip-implant parlour · ABANDONED**

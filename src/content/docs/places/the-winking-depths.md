@@ -44,6 +44,8 @@ image:
   src: /images/generated/the-winking-depths.webp
   alt: "The Winking Depths below the Deep Crystal"
   caption: "Lexical rendering of tiny figures clinging to tree roots that hang from the bottom of a giant crystal over a dark underground abyss."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Underground region · Below the Deep Crystal of Motherstone, toward the Egg · Mind flayers, aboleth and Drow · An arc the party teleported out of**

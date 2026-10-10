@@ -26,6 +26,8 @@ image:
   src: /images/cards/the-bota-people.webp
   alt: 'Ally card: Bota People'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > To the Bota, Vanderoos' writings were scripture. In a way, they were right.

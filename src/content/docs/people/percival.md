@@ -56,6 +56,8 @@ image:
   src: /images/generated/percival.webp
   alt: "Percival"
   caption: "Lexical rendering of a young squire in half plate, seen from behind, riding a rhinoceros and holding a warhammer in both hands."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > St Percival is the St. Peter of the this world.

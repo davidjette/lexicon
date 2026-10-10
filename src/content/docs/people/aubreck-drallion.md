@@ -50,6 +50,8 @@ image:
   src: /images/generated/aubreck-drallion.webp
   alt: "Aubreck Drallion"
   caption: "Lexical rendering of a gray-haired nobleman with a short ponytail and a neat mustache, in outdated finery before a run-down mansion."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Human noble · Merchant prince · Saltmarsh, Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/)**

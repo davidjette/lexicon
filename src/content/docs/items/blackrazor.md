@@ -52,6 +52,9 @@ image:
   src: /images/gallery/blackrazor-tales-from-the-yawning-portal.webp
   alt: "Blackrazor"
   caption: "Blackrazor, as illustrated by Claudio Pozas in Tales from the Yawning Portal (2017), page 107. © Wizards of the Coast."
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Item · Greatsword · Sentient artifact of the Weathervein treasure · Crestus bound within · Guarded near Saltmarsh**

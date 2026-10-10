@@ -39,6 +39,8 @@ image:
   src: /images/cards/stone-infanta-of-discovery.webp
   alt: 'Ally card: Stone, Infanta of Discovery'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Infanta of Discovery · the Brightmantle Infanta · Built the Lexicon with Calix · Ally at the Egg**

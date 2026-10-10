@@ -48,6 +48,8 @@ gallery:
 - src: /images/gallery/2026-03-16-10.webp
   alt: Martin Kross behind bars
   caption: Martin Kross, in his BioTec lab coat, grips the bars of a cell as Sir Dario Argentino, Eric the Cleric and Gemma Corso question him in the Underhive, where Blair holds him prisoner.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Junior enhancement-technician, BioTec · Fugitive · Alive, departed Sharn**

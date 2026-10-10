@@ -60,6 +60,8 @@ image:
   src: /images/generated/valen.webp
   alt: "Valen"
   caption: "Lexical rendering of a shadowed figure lying in a glass vessel in a chamber where four grandfather clocks surround a strange device."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Wainwright St. Cloud is a man, crude and comically short sighted. He was wise enough to bring the Anachron to me, so that I may assume his quest and rightly witness the final moments at her side. I will be the last, and I alone will see the truth.

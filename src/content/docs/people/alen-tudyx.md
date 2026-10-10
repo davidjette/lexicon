@@ -57,6 +57,8 @@ image:
   src: /images/generated/alen-tudyx.webp
   alt: "Alen Tudyx"
   caption: "Lexical rendering of an elven queen seen from behind, a copper-hued crystal sword at her side, watching a child work a small puzzle box."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > the queen of the elves\

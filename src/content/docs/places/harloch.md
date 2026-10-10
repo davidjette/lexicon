@@ -39,6 +39,8 @@ sources:
 - "Oral Histories: The Inevitables, 2021-09-06"
 - "Oral Histories: The Inevitables, 2022-10-09"
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Walled town · [Snowdown](/places/snowdown/) · Founded by Gregor Har · Ruled by a Jarl**

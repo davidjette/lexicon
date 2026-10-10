@@ -58,6 +58,8 @@ image:
   src: /images/generated/carlysle-st-cloud.webp
   alt: "The buried heart of Carlysle St. Cloud"
   caption: "Lexical rendering of a heart of amber and bronze lying in turned earth beside a small tunnel burrowed into the ground."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human · Commander, Imperial garrison · Sword Coast Trading Company · Dead, then obliviated**

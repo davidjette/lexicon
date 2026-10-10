@@ -43,6 +43,8 @@ image:
   src: /images/album/the-summer-palace.webp
   alt: 'The Summer Palace - Korth Episode: The Listening Post'
   caption: 'The Summer Palace - Korth Episode: The Listening Post'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Imperial retreat · upriver from Korth · Grounds of the Ivory Lazaret · Standing**

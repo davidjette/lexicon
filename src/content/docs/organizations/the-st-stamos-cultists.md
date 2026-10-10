@@ -35,6 +35,8 @@ image:
   src: /images/generated/the-st-stamos-cultists.webp
   alt: "The St. Stamos cultists"
   caption: "Lexical rendering of a smoking theater after an explosion, with a crowd in the street and cloaked figures slipping away down an alley."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Radical rebel group · Newham · Status unknown**

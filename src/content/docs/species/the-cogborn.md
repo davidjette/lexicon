@@ -54,6 +54,8 @@ gallery:
 - src: /images/gallery/2026-03-30-02.webp
   alt: Supplies for the Cogborn
   caption: Sir Dario Argentino, Gemma Corso and Eric the Cleric hand out bundles of supplies to a crowd of ragged Cogborn in the R.U.S.T. control room, beside a barrel of glowing blue crystals.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The industrial underclass of Sharn's Lower City · Homeland: The Cogs · Displaced · Evacuated to Gorgonhorn**

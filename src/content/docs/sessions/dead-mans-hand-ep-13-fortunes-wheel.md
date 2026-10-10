@@ -28,6 +28,8 @@ sources:
   - Desktop/D&D/Dead Mans Hand/chatgpt-export/dead-mans-hand-pics-chats.md
   - sources/dave/2026-10-09-dead-mans-hand-session-articles.md
 published: '2026-10-09'
+campaigns:
+  - dead-mans-hand
 ---
 **Session of [Dead Man's Hand](/lore/dead-mans-hand/) · [Sigil](/places/sigil/) · Played about early October 2025 · Episode number estimated**
 

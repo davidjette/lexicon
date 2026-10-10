@@ -42,6 +42,8 @@ gallery:
 - src: /images/gallery/2026-09-03-03.webp
   alt: Esther's wedding gift
   caption: A spiked black crystalline object with a glowing red heart floats in a dark room framed by gold pillars.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Material · Mined from the Glass Plateau, the Mournlands · Extracted by Project E.D.E.N. units · Shipped through BioTec · Purpose unknown**

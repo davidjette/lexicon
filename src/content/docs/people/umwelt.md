@@ -61,6 +61,8 @@ gallery:
   - src: /images/chat/2024-11-10-796847185868014.webp
     alt: '"We shovel your shit" Weld poster, wide'
     caption: Wide lexical rendering, a propaganda poster of an antlered robot with a shovel, captioned "We shovel your shit" and "Warforged android revolutionary".
+campaigns:
+  - starfall-tng
 ---
 
 **Warforged · Barbarian 5 (Path of the Wild Heart) · Crew, Istus Cruiser · Children of the Red Eye · Status unknown**

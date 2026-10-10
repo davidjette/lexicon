@@ -54,6 +54,9 @@ gallery:
 - src: /images/gallery/dmh-western-vanguard-heraldry.webp
   alt: "The banner of the Western Vanguard"
   caption: "The banner of the Western Vanguard: the Purple Dragon of Cormyr rampant holding three arrows and a lightning bolt, under a crowned sun, above a sea."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 The **Purple Dragons** are the army of the [Cormyrean Empire](/organizations/the-cormyrean-empire/), paired in the field with the **War Wizards**. Five hundred years ago they were the household troops of the King of Cormyr, drilling in their capital and picking off trade caravans during his war on the Dalelands and Sembia. Their western frontier formation today is the **Western Vanguard**, commanded by [Marshall Varkus](/people/peterbilt-varkus/), whose urban detachment garrisons [Fort Maximillien](/places/fort-maximillien/) in the city it occupies.

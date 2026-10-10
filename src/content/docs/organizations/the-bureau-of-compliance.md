@@ -52,6 +52,8 @@ gallery:
 - src: /images/chat/2024-06-25-808916051220179.webp
   alt: "Spoon as a comic cover"
   caption: "A comic-cover illustration of a bald elf woman in a blue and yellow bodysuit wielding a baton and a sword."
+campaigns:
+  - starfall-tng
 ---
 
 **Law-enforcement agency · Hunts illegal artificial intelligence · *The Starsong Awakens* · Active**

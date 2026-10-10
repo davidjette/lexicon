@@ -63,6 +63,9 @@ gallery:
 - src: /images/gallery/dmh-zythara-witch-queen.webp
   alt: "Zythara, Witch Queen of Myth Drannor"
   caption: "Zythara, Witch Queen of Myth Drannor, as imagined by court painter Warner B. Forecumming, from the War of the Five Zanzibars primer."
+campaigns:
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **War and revolution · Faerûn · The Cormyrean Empire against the risings · A critical collapse of the continent**

@@ -55,6 +55,8 @@ gallery:
   - src: /images/site/zero-of-sharn-2.webp
     alt: Zero
     caption: Zero
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Human · Cleric of the Silver Flame · The Nest · Alive**

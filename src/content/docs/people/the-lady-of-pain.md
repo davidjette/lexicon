@@ -54,6 +54,8 @@ image:
   src: /images/cards/the-lady-of-pain.webp
   alt: 'Ally card: Lady of Pain'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Deschain & Son is a solemn, dusty and empty place in the morning as it was when you went to sleep, after Drefan was transported or erased or vaporized by the Lady of Pain.

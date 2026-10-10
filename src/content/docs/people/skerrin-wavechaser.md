@@ -62,6 +62,8 @@ image:
   src: /images/generated/skerrin-wavechaser.webp
   alt: "Skerrin Wavechaser"
   caption: "Lexical rendering of a man in servant's clothes, seen from behind, beckoning travellers toward the entrance of a tomb beneath a temple at night."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Saltmarsh, Oerth · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Enemy of [Neptune's Rejects](/organizations/neptunes-rejects/) · Dead**

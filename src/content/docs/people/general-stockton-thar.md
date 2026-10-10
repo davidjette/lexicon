@@ -65,6 +65,8 @@ gallery:
   - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-general-stockton-thar-and-dark-druid-in-bird.webp
     alt: 'General Stockton Thar and dark druid in bird form The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
     caption: 'General Stockton Thar and dark druid in bird form The Stairs of her Mercy - Korth Episode: The Stairs of Her Mercy'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Dark Druid · Imperial General, The Iron Veil · Western Front · Status unconfirmed**

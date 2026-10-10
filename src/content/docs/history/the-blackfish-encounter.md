@@ -49,6 +49,9 @@ image:
   src: /images/generated/the-blackfish-encounter.webp
   alt: "The Blackfish Encounter"
   caption: "Lexical rendering of a burning sailing ship with drowned figures climbing ropes up its side while people on deck cut the ropes."
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Battle · Saltmarsh, Oerth · The party against Jeremiah and the drowned dead · Jeremiah slain and risen**

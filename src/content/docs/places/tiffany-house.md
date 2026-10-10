@@ -55,6 +55,9 @@ image:
   src: /images/gallery/dmh-tiffany-house-evening-gathering.webp
   alt: "An evening gathering at Tiffany House"
   caption: "The evening gathering at Tiffany House, guests with goblets at candlelit tables under a chandelier strung through the trees, the balconied house lit behind them."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Urban mansion · [Waterdeep](/places/waterdeep/) · Heir: Darius Klaxon, then Maverick · Standing**

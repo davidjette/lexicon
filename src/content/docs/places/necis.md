@@ -48,6 +48,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-02-28'
   - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
   - 'JL''s DM notes: Starfall Awakens Notes'
+campaigns:
+  - starfall-tng
 ---
 
 **Planet · Erased from the Lexicon · Site of the Time Tombs · Destroyed**

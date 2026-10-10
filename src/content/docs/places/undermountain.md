@@ -57,6 +57,9 @@ image:
   src: /images/generated/undermountain.webp
   alt: "Undermountain"
   caption: "Lexical rendering of a ruined underground town of roofless stone buildings beside a river in a cavern, hung with webs where giant spiders nest."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Dungeon · Far below [Waterdeep](/places/waterdeep/) · Halaster Blackcloak's collection · Levels 1 to 3**

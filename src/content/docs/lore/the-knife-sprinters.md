@@ -19,6 +19,8 @@ sources:
 - "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
 - "sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md"
 - sources/wa/episode-10-28a26b29-E2809Cthe-rekkenmarkE2809D-dm3A-jbyrd-report.txt
+campaigns:
+  - unforeseen
 ---
 
 **Warforged hunter-killers of Cyre · Controlled by [DR4MB](/items/dr4mb/)**

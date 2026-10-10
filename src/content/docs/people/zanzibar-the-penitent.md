@@ -43,6 +43,10 @@ image:
   src: /images/generated/zanzibar-the-penitent.webp
   alt: "Zanzibar the Penitent"
   caption: "Lexical rendering of an elderly ruler seen from behind, sitting alone on a glass throne in a vast empty hall."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **Species unknown · Emperor of Faerûn · House Zanzibar, [Cormyrean Empire](/organizations/the-cormyrean-empire/) · Dead**

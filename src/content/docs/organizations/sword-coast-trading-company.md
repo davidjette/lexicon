@@ -62,6 +62,9 @@ image:
   src: /images/generated/sword-coast-trading-company.webp
   alt: "Sword Coast Trading Company"
   caption: "Lexical rendering of a merchant company's hall staffed entirely by identical figures dressed alike, seen from behind."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 The **Sword Coast Trading Company** is an imperial charter house that dates back to the remnants of the Old Empire which used to rule both the North and South from [Waterdeep](/places/waterdeep/). Under **Wainwright St. Cloud** it grew from a Baldur's Gate shipping concern into an interplanar power, built its fortune on the [moonstone](/lore/moonstone/) of [Motherstone](/places/motherstone/) and on the secrets of the **Infernal Machines**, mass-produced the **Warforged** and the **Arcane Core**, and had St. Cloud named Chancellor of Waterdeep. It is run by **Dox**, a changeling collective whose members each wear the face of the chairman. After two Battles of Motherstone and the destruction of its hub in [Sigil](/places/sigil/) it is crippled and scattered.

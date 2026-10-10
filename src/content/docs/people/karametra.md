@@ -55,6 +55,8 @@ image:
   src: /images/cards/karametra.webp
   alt: 'Ally card: Kara(metra)'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > We knew the moment we saw (the Egg) that sometime in the future I would break my promise and call him here. So she left me, to try and move the Moon.

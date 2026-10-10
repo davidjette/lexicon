@@ -48,6 +48,8 @@ gallery:
   - src: /images/gallery/2026-03-29-07.webp
     alt: Berenstain
     caption: 'A hooded bear-man in a dark cloak and layered necklaces, on a plain white background: Blair''s husband Berenstain.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Bear-man · Husband of Queen B · Underhive seat on the Council of Sharn · Alive**

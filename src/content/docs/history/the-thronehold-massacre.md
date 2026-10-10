@@ -58,6 +58,8 @@ image:
   src: /images/gallery/2026-06-21-04.webp
   alt: "Warships bombard Thronehold"
   caption: "Airships fire on the Summit grounds at Thronehold, leaving a great hall roofless and burning under black smoke beside the sea."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Peace summit, destroyed · Thronehold · Korth Ep 1–2 · Three years after the fall of Sharn**

@@ -94,6 +94,9 @@ gallery:
 - src: /images/gallery/2026-04-30-02.webp
   alt: 'Scroll: Forge, hear me'
   caption: 'A dragonborn''s gauntleted hand holds a scroll before the forge: "Forge, hear me. By steel, by breath, by will... I bind the frost of my ancestry into this blade. Let it carry the warrior I am." It is Sir Dario Argentino binding elemental cold into his weapon.'
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 12 · Alive**

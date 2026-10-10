@@ -55,6 +55,8 @@ image:
   src: /images/generated/myth-drannor.webp
   alt: "Myth Drannor"
   caption: "Lexical rendering of an elven city among great forest trees, cloaked in mist beneath a shimmering dome of magic."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Elven city · The forest of Cormanthor · Seat of the elves of Cormanthyr**

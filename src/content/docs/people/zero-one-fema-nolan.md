@@ -49,6 +49,8 @@ gallery:
   - src: /images/album/korth-ep-16-orientation-day-the-rite.webp
     alt: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'
     caption: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Human · Paladin of the Silver Flame · Leader of Fulcrum · Taken alive**

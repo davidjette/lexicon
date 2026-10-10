@@ -51,6 +51,8 @@ image:
   src: /images/generated/negroni-prime.webp
   alt: "Negroni Prime"
   caption: "Lexical rendering of a mile-wide black stone memorial on a ruined plain, with a small city under a shimmering bubble beyond it."
+campaigns:
+  - starfall-tng
 ---
 
 **Outpost planet · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · *Light of Xaryxis* · Status unknown**

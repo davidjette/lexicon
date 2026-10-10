@@ -56,6 +56,9 @@ sources:
   - sources/dave/2026-09-14-oral-histories-cast.md
   - sources/dave/2026-09-14-twatmarsh-open-questions.md
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Temple · Saltmarsh, Oerth · Neptune · Desecrated, its relic stolen**

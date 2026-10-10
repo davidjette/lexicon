@@ -54,6 +54,8 @@ gallery:
 - src: /images/gallery/2026-03-24-02.webp
   alt: Letter from Dr. Joanne Menka to Edwin
   caption: 'A typed transcript of a letter to Edwin signed Dr. Joanne Menka: Cob Cornwell''s death has been categorized as accidental and his assets transferred, and Red Khyber output from the Mournlands is exceeding projections with shipments en route to Fort Crona.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Head Hybrid Specialist, BioTec · Full Imperial clearance · Executed after the Sharn rising · Lead scientist, Project E.D.E.N.**

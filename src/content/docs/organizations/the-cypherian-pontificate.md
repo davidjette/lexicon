@@ -42,6 +42,8 @@ gallery:
 - src: /images/chat/2023-11-29-1380474202889992.webp
   alt: "Worshippers of Cypher"
   caption: "Lexical rendering of robed worshippers with raised hands before a glowing geometric symbol in a pillared temple."
+campaigns:
+  - starfall-tng
 ---
 
 **Religious institution · Faith of Cypher · Seat: [Sigil](/places/sigil/) · Starfall era · Active**

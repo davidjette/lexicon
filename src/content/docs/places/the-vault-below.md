@@ -52,6 +52,8 @@ gallery:
   - src: /images/gallery/2026-01-26-07.webp
     alt: Vault Below gambling games
     caption: 'The Vault Below public-floor gambling games card: Crystal Dice, Vault Spin and Royal Ember, with dice mechanics and betting limits.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Nightclub and gaming house · [Lantern District](/places/lantern-district/), [Lower City](/places/the-lower-city/) · Children of Ember sanctum · Cleared**

@@ -38,6 +38,8 @@ gallery:
   - src: /images/gallery/2026-02-10-05.webp
     alt: Hallorn's letter on the Velvet Table Society
     caption: A letter to Malrik signed Hallorn d'Lyrandar gossiping that Henry Heinrick has been invited to fill an opening in the Velvet Table Society after Cob Cornwell's death.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Society · The Vault Underground, Upper City Sharn · Unresolved**

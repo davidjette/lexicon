@@ -86,6 +86,8 @@ gallery:
   - src: /images/gallery/2025-08-22-05.webp
     alt: Lenore Bishop lighting a fuse
     caption: Lenore Bishop, in headphones and a leather vest, blows on a candle beside an open chest packed with dynamite, aboard a ship at night.
+campaigns:
+  - dead-mans-hand
 ---
 
 **Construct (presents as human) · Artificer, planar philosopher · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**

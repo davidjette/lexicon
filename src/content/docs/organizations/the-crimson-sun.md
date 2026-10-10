@@ -41,6 +41,9 @@ image:
   src: /images/gallery/2026-02-19-01.webp
   alt: "Varyn Crona, the Eternal Guardian"
   caption: "Varyn Crona, a white-haired elf in black armour marked with a red sun, strides across a reflecting wasteland with a flaming sword beneath a black sun."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Type:** Government, Secret Service · **Status:** Dissolved · **Seat:** Korth

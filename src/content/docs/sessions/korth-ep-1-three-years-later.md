@@ -31,6 +31,8 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-1-E28094-three-years-later-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 1 · DM: Dave**

@@ -43,6 +43,9 @@ wa:
   slug: human-species
   uuid: aa1c9e47-28ab-40ea-a3ef-d5e8d90dab5a
   category: 450c19a7-f793-40ef-a852-b4b2142a33ac
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Species · The Empire's constituency · The Blood of Vol's membership · Neither of those things by consent**

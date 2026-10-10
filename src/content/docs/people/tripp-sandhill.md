@@ -46,6 +46,8 @@ image:
   src: /images/gallery/dmh-tripp-sandhill.webp
   alt: "Tripp Sandhill"
   caption: "Tripp Sandhill in a blue vest with an identity badge, holding an open spellbook in a hall of desks and glowing screens."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Species unknown · Player character (Patrick) · Adventurer · Pact with Mammon · Fatemarked (STAR) · [Skullport](/places/skullport/) · Alive**

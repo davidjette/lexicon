@@ -44,6 +44,8 @@ image:
   src: /images/cards/khelben-arunsun.webp
   alt: 'Ally card: Khelben Arunsun (Blackstaff)'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human wizard · Blackstaff of Waterdeep · Missing; ally at the Egg**

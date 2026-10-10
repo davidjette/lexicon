@@ -50,6 +50,8 @@ gallery:
   - src: /images/gallery/2025-12-05-02.webp
     alt: Casters raising the barrier
     caption: A robed figure raises fire on a platform before ranks of Iron Veil troops and banners as a blue arc of force stretches across a stormy sky past a fortress.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Fortification · the western front, Eldeen Reaches · Arcane force barrier · COLLAPSED**

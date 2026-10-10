@@ -32,6 +32,8 @@ gallery:
   - src: /images/gallery/2026-02-22-01.webp
     alt: Sister Nora bleeding in her cell
     caption: Sister Nora, in a Black Dove habit, bleeds from the nose and cries out with raised hands in a chained stone cell.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 7 · DM: Nichole**

@@ -36,6 +36,8 @@ sources:
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
 - sources/dave/2026-10-09-dmh-pictures-wotfz-and-sad-king-billy.md
+campaigns:
+  - starfall-tng
 ---
 
 **City · [Necis](/places/necis/) · *Light of Xaryxis* · Struck from orbit**

@@ -78,6 +78,8 @@ gallery:
 - src: /images/minis/cuthbert-couch-1.webp
   alt: 'Couch''s miniature: unpainted render, caped, walking'
   caption: 'Couch''s miniature: unpainted render, caped, walking (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human · Bard (College of Lore), Level 4 · Temple Holdings LLC · Chaotic Neutral · Alive**

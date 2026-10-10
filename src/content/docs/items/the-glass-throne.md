@@ -36,6 +36,9 @@ published: '2026-09-10'
 wa:
   slug: the-glass-throne-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+campaigns:
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 The **Glass Throne** is the imperial seat of the [Cormyrean Empire](/organizations/the-cormyrean-empire/), the chair from which the Emperor of Faerûn rules. Its authority rests on the claim that **Zarus** blessed the Zanzibar bloodline to rule forever and that every emperor since [Zanzibar the Elder](/people/zanzibar/) descends from holy blood. It is held at present by [Zanzibar William the Melancholy](/people/zanzibar-william-the-melancholy/), who has occupied it for one month. The Throne's origin, material, dimensions, maker and the rite of accession are not described in any surviving source.

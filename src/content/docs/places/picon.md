@@ -37,6 +37,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-01-25'
   - 'Oral Histories: The Inevitables, 2025-02-28'
   - 'The Starsong Awakens site (JL Byrd): New magic items'
+campaigns:
+  - starfall-tng
 ---
 
 **Moon · The Feywild · Home of [Caprica](/people/caprica/)'s family · Blighted by the song**

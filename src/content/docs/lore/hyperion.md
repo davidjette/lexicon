@@ -37,6 +37,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-05-31"
 - Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
 - sources/dave/2026-09-14-starfall-necis.md
+campaigns:
+  - starfall-tng
 ---
 
 **Extraplanar entity · Lawful good · The Children of Hyperion · Starfall**

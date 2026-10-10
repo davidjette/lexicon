@@ -55,6 +55,8 @@ gallery:
   - src: /images/gallery/2026-05-15-01.webp
     alt: 3rd Level VIP One Pass
     caption: 'A red-and-gold club pass with a coiled dragon: "VIP - 3rd Level VIP One Pass", including access to the 3rd club level, a private booth, one free drink and a table dancer of your choice.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Nightclub and private residence · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · The Zeir residence · Destroyed as an operation**

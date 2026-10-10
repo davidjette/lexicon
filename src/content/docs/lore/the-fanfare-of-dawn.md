@@ -39,6 +39,8 @@ image:
   src: /images/generated/the-fanfare-of-dawn.webp
   alt: "The fanfare of dawn played at the hospital in Sharn"
   caption: "Lexical rendering of a dwarf seen from behind playing a horn to a gathering of clergy of many faiths in a hospital hall."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Musical work · Twenty-four bars and a short eight-bar bridge · Very dwarven in style · Composed by King Corn Deeptempura · Now being taught across a continent**

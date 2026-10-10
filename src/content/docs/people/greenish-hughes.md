@@ -36,6 +36,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-08-30'
   - 'Esther Crona, as revised by Nico, 2026-10-07'
 published: '2026-09-27'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Half-illithid · Imperial comptroller · In LeBeefe's service · Unknown**

@@ -36,6 +36,8 @@ sources:
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-27'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Half-elf · Colonel, retired · The rebels of Leef · Dead**

@@ -70,6 +70,9 @@ published: '2026-09-10'
 wa:
   slug: arc-ii-E28094-motherstone-plot
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Campaign Arc · Temple Holdings LLC, Arc II · The crystal city beneath Snowy Mountain, Snowdown · Complete**

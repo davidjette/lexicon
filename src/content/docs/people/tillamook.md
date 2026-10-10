@@ -33,6 +33,8 @@ image:
   src: /images/generated/tillamook.webp
   alt: "Tillamook"
   caption: "Lexical rendering of a frightened young dwarf soldier with a sparse beard, clutching a gun on a desolate battlefield."
+campaigns:
+  - starfall-tng
 ---
 
 **Dwarf · Private, Astral Command; prophet of the Beholder great mother · Status unknown**

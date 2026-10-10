@@ -95,6 +95,9 @@ gallery:
   - src: /images/album/esther-crona-age-18-and-vayrn-crona-inside-crimson-sun-hall-korth.webp
     alt: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
     caption: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · Former Lord Commander of the Imperial Military · Dead — reanimated as an undead soldier ([Korth Ep 16](/sessions/korth-ep-16-orientation-day/))**

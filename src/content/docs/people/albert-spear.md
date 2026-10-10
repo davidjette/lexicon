@@ -45,6 +45,9 @@ image:
   src: /images/generated/albert-spear.webp
   alt: "Albert Spear"
   caption: "Lexical rendering of a nobleman seen from behind, overlooking a town under construction with rail cars, airships and a new lake."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Human · Nobleman · Head of city planning and development, the Imperial Council · Dead**

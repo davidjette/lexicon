@@ -32,6 +32,8 @@ published: '2026-09-10'
 wa:
   slug: the-litany-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Liturgical recitation · The Black Doves · Spoken under seal of initiation at the veiling of a novice**

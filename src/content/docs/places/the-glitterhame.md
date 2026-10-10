@@ -41,6 +41,8 @@ gallery:
 - src: /images/gallery/2026-08-10-04.webp
   alt: The Glitterhame
   caption: An empty view of a cavern filled with glowing orange fungus, pale crystals and a stone stair.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Cavern - the ore seam at the heart of the Korramont**

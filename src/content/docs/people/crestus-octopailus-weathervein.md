@@ -43,6 +43,8 @@ image:
   src: /images/generated/crestus-octopailus-weathervein.webp
   alt: "Count Crestus Octopailus Weathervein"
   caption: "Lexical rendering of a cloaked nobleman, seen from behind, laying a sword on a stone sarcophagus in a tomb beneath a temple."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Weathervein lord · Count · Prince of the sea and master of the coves · Bound inside Blackrazor**

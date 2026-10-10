@@ -55,6 +55,8 @@ gallery:
 - src: /images/chat/2024-05-07-736452645317285.webp
   alt: "Elf woman at a beholder hearing"
   caption: "A retro poster reading \"Join Astral Command\" shows a blonde elf woman in yellow and green before a panel with a placard marked \"Beholder\"."
+campaigns:
+  - starfall-tng
 ---
 
 **Species unknown · Admiral, Astral Command · Head of the Order of Scribes · Status unknown**

@@ -70,6 +70,8 @@ published: '2026-09-10'
 wa:
   slug: arc-iv-E28094-the-infernal-machines-plot
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Campaign Arc · Temple Holdings LLC, Arc IV · Sigil, the City of Doors · Complete**

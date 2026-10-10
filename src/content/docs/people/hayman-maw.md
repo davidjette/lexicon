@@ -42,6 +42,8 @@ image:
   src: /images/generated/hayman-maw.webp
   alt: "Hayman Maw"
   caption: "Lexical rendering of a man, seen from behind, briefing four seated agents in a hotel room with a silent figure beside him."
+campaigns:
+  - unforeseen
 ---
 
 **Human · Sorcerer · Master of [the Crimson Sun](/organizations/the-crimson-sun/) · Member of the [Council of 13](/organizations/the-council-of-13/) · Killed in the purge of the Council**

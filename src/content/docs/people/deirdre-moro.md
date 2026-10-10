@@ -65,6 +65,8 @@ gallery:
 - src: /images/gallery/2026-07-12-21.webp
   alt: Gemma Corso as Deirdre Moro, armed
   caption: The dark-haired elf woman wears a fitted bronze breastplate and a long red cloak, holding a glowing silver sword in a candlelit hall. It is Gemma Corso in her Deirdre Moro disguise.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Star Advocate, Ministry of Law · The Empire · Dead — killed by the Inevitables**

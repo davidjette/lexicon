@@ -37,6 +37,9 @@ image:
   src: /images/generated/ydryssyl.webp
   alt: "Ydryssyl, the world-tree"
   caption: "Lexical rendering of a world-sized tree in space, its branches arching among the stars, with a crystalline moon in orbit and tiny dragons in flight."
+campaigns:
+  - ages-of-the-infanta
+  - starfall-tng
 ---
 
 **World-tree · The true nature of Toril · Dead**

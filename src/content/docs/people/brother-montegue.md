@@ -48,6 +48,8 @@ gallery:
 - src: /images/gallery/dmh-heyu-and-feng.webp
   alt: "The Factol at tea with Heyu"
   caption: "The Factol sits at tea with Heyu, the puzzle box between them."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Orcish priest · Factol of the Faceless · [The Sororia](/organizations/the-sororia/) · [Our Lady of Mysteries](/places/our-lady-of-mysteries/), [Sigil](/places/sigil/) · Alive**

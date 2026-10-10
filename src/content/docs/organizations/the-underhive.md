@@ -47,6 +47,8 @@ gallery:
   - src: /images/gallery/2026-03-16-05.webp
     alt: Crocodiles and rats in the flooded sewer
     caption: Gemma Corso, Eric the Cleric, Sir Dario Argentino, Snodgrass, Doppler Klink and Renn Tal fight giant crocodiles in a flooded sewer beneath Sharn on the way to the Underhive.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Subterranean settlement and sovereign territory · beneath the Lower City, Sharn · Autonomous**

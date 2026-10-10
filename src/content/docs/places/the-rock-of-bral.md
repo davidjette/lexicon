@@ -56,6 +56,9 @@ image:
   src: /images/starsong/the-rock-of-bral.webp
   alt: "A ship in the harbour of Bral"
   caption: "The Rock of Bral, from The Starsong Awakens site"
+campaigns:
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **Asteroid trade city · Edge of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · *Light of Xaryxis*, *The Starsong Awakens* · Standing**

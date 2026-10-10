@@ -52,6 +52,8 @@ gallery:
 - src: /images/gallery/2026-09-03-08.webp
   alt: Dario breaks the crated bell
   caption: An armoured dragonborn swings a warhammer into the bell in its crate, the metal buckling and shattering under the blow.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Warhammer · Black Khyber (Shavat) · Royal arm of the Deeptempura · Older than the bells · Believed unique · Carried by Sir Dario Argentino**

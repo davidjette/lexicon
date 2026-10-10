@@ -38,6 +38,8 @@ image:
   src: /images/cards/steve-merlin.webp
   alt: 'Ally card: Steve Merlin'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Nimue asked her lover, the wizard Merlin, to watch over Uther and his line to ensure that Ironbane was wielded to destroy the Netherese.

@@ -38,6 +38,8 @@ image:
   src: /images/generated/prez.webp
   alt: "Prez"
   caption: "Lexical rendering of a hooded tomcat thief, seen from behind, climbing to a second-story window in a slum."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Tomcat · Rogue · [Sharegrave](/people/sharegrave/)'s gang · [Sigil](/places/sigil/) · Alive**

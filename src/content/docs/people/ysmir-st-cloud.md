@@ -37,6 +37,8 @@ image:
   src: /images/generated/ysmir-st-cloud.webp
   alt: "Ysmir St. Cloud, captain of the Evening Star"
   caption: "Lexical rendering of a ship's captain seen from behind on deck at night, sighting the stars with a silver sextant."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human · Captain of the *Evening Star* · Slaver · The youngest of the three brothers · Dead (Arc I)**

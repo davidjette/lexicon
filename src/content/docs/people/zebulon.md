@@ -41,6 +41,8 @@ image:
   src: /images/generated/zebulon.webp
   alt: "Zebulon the Meek"
   caption: "Lexical rendering of an old orc archivist, seen from behind, holding salvaged notes before a volcanic vent among the ruins of an ivory fortress."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Orc · Archivist and prophet of Istus · The last of the keepers of the Chronicle · Alive as of Arc VI**

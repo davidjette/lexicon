@@ -38,6 +38,8 @@ image:
   src: /images/gallery/2026-07-20-04.webp
   alt: "The dead outrider in the pocket cave"
   caption: "The trio stand over a dead grey-skinned dwarf in a cave, with scattered coins and a wax-sealed crest rubbing on the ground before them. The dead mourner, later named Sesame Tofu, carries a family crest rubbing from House Moo Goo Gai Pan."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Duergar (deep dwarf) · Outrider of the mourning-party · The Teryaki clan · Dead**

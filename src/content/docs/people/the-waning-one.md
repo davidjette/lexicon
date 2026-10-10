@@ -66,6 +66,8 @@ image:
   src: /images/generated/the-waning-one.webp
   alt: "The Waning One"
   caption: "Lexical rendering of a man seen from behind in a night forest, wearing a stag's head over his own and holding a gleaming bow beneath a waning moon."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > The Waning-One loved many girls, but only 1 he wed.

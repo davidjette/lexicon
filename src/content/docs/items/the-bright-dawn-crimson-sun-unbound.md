@@ -60,6 +60,8 @@ gallery:
   - src: /images/album/bright-dawn.webp
     alt: Bright Dawn
     caption: Bright Dawn
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 # The Crimson Sun (Sword) / The Bright Dawn (Crimson Sun Unbound)

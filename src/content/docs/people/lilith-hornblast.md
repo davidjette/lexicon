@@ -45,6 +45,9 @@ image:
   src: /images/generated/lilith-hornblast.webp
   alt: "Lilith Hornblast"
   caption: "Lexical rendering of a warforged seen from behind, addressing a nearly empty parliamentary chamber."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Warforged · 'Leader in exile' of the East Brelish Parliament · Imperial-aligned · Level Unknown · Alive at last record**

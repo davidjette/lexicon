@@ -34,6 +34,8 @@ published: '2026-09-10'
 wa:
   slug: the-mark-of-death-and-the-dragonmarks-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Heritable arcane brands · The dragonmarked houses of Khorvaire · One mark extinct, and two women wearing it**

@@ -34,6 +34,8 @@ image:
   src: /images/generated/the-kamino-hostage-crisis.webp
   alt: "The Radiant Visage seize the Life Day party"
   caption: "Lexical rendering of armed elven knights stepping out of an elevator into a party, their scarred leader firing a blaster into the air."
+campaigns:
+  - starfall-tng
 ---
 
 **Hostage-taking · *[Light of Xaryxis](/history/light-of-xaryxis/)* · 30 December 2022 · DM: JL**

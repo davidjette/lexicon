@@ -41,6 +41,8 @@ image:
   src: /images/cards/aurora-and-astra-saharel.webp
   alt: 'Ally card: Aurora & Astra Saharel'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > My sister and I came to Sigil with the sage, after the Second Fall. We took the Banefaes home while they were feeding our people into oblivion. By the time they returned, the cities were ours. We cast them into Despondos where all of them perished.

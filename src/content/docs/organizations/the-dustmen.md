@@ -33,6 +33,8 @@ image:
   src: /images/generated/the-dustmen.webp
   alt: "The Dustmen at work in the Mortuary"
   caption: "Lexical rendering of hooded attendants receiving shrouded bodies at the foot of a long chute in a mortuary hall while a bookkeeper works at a ledger."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Faction · [Sigil](/places/sigil/) · Keepers of [the Mortuary](/places/the-mortuary/)**

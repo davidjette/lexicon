@@ -128,6 +128,8 @@ gallery:
 - src: /images/minis/roland-deschain-3.webp
   alt: 'Roland''s miniature firing two revolvers'
   caption: 'Roland''s miniature firing two revolvers (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human · Ranger (gunslinger) and artificer · Temple Holdings LLC / Knights of the Order · Alive**

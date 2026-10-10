@@ -53,6 +53,8 @@ image:
   src: /images/generated/halaster-blackcloak.webp
   alt: "Halaster Blackcloak"
   caption: "Lexical rendering of a shadowed mage seen from behind, walking through an underground hall filled with reassembled ancient architecture, tombs and statues."
+campaigns:
+  - dead-mans-hand
 ---
 
 **The Mad Mage · [Undermountain](/places/undermountain/) · Disguised as [Soggy Blankets](/people/soggy-blankets/) · Alive**

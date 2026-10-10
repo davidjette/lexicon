@@ -62,6 +62,8 @@ published: '2026-09-10'
 wa:
   slug: the-infanta-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - ages-of-the-infanta
 ---
 
 The **Infanta** are gods reborn into mortal children, and the phenomenon that names the age called the Time of Troubles. When the gods were shut out from the world, "some gods incarnated themselves in mortal forms," and "these god-children, each and every one a human, inverted the world with their immense and terrifying sorcery and slavish followings." The gods were shut out because Asmodeus and [Wainwright St. Cloud](/people/wainwright-st-cloud/) trapped the Raven Queen's soul in the mortal [Marcus](/people/marcus/), vacating the Seat of Judgment at the [City of Dis](/places/dis/) so that souls could no longer pass to the outer realms. The first Infanta was **Elistrada**, the goddess **Elistrae**. The first and second Infanta Crises each lasted on the order of a hundred years. The crisis ended with Asmodeus defeated at a tavern in [Waterdeep](/places/waterdeep/), and the [Cormyrean Empire](/organizations/the-cormyrean-empire/) was founded on the claim of holy blood.

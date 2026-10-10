@@ -35,6 +35,8 @@ gallery:
 - src: /images/gallery/2026-02-15-02.webp
   alt: Interoperability Summit relationship chart
   caption: A relationship chart titled "Central Khorvaire Transit Interoperability Summit", with portrait tokens for its chairs Heighrick, Spear and d'Orien, deputy chairs Goldenhew, Devir, d'Sivis and d'Lyrandar, and the delegations of Cornwell, Hornblast, Sominyard, Tremblepike, LeBeefe, Gloomstalker and Olba.
+campaigns:
+  - unforeseen
 ---
 
 **Plot · Campaign 1, The Unforeseen · Sharn, the Interoperability Summit · Crimson Sun operation, four nights and three days**

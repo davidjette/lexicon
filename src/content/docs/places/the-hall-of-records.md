@@ -39,6 +39,8 @@ gallery:
   - src: /images/gallery/2026-09-07-05.webp
     alt: Master Armhair in the Hall of Records
     caption: Among bookshelves and gothic windows, the disguised Gemma and Eric stand with an elderly man in blue and white robes reading a scroll. Gemma approaches the loremaster Master Armhair in the Hall of Records.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Landmark · The Ministry of Records · North side of [Korth](/places/korth/), across [the Great Plaza](/places/the-great-plaza/) · Access restricted**

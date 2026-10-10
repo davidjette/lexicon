@@ -47,6 +47,8 @@ image:
   src: /images/generated/sir-merriam-wordsworker.webp
   alt: "Sir Merriam Wordsworker"
   caption: "Lexical rendering of a blond, bearded knight in armor questioning a prisoner across a desk that holds a rapier, a quill and a deck of cards."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Species unknown · Paladin, Purple Dragon Knight · [Purple Dragons](/organizations/the-purple-dragons/) · Alive**

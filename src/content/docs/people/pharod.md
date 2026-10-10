@@ -41,6 +41,8 @@ image:
   src: /images/generated/pharod.webp
   alt: "Pharod in Ragpicker Square"
   caption: "Lexical rendering of a man seen from behind watching hunched, rag-clad figures crowd around carts in a slum square."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Collector · Master of the corpse-pickers · Ragpicker Square, [Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Alive**

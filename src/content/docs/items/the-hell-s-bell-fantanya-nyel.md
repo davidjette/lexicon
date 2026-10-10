@@ -66,6 +66,9 @@ gallery:
 - src: /images/gallery/2026-06-15-11.webp
   alt: A golden bell in a crate
   caption: A huge ornate golden bell with a dragon-shaped crown sits in straw inside an open wooden crate.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Unique Artifact · Necromantic resonance instrument · Ancient elvish fabrication · In Imperial keeping · Whereabouts withheld from every schedule**

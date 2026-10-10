@@ -41,6 +41,8 @@ image:
   src: /images/generated/soggy-blankets.webp
   alt: "Soggy Blankets"
   caption: "Lexical rendering of a hooded old man with a long beard and a slight smile, lying in wet blankets with a chain around his neck."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Old man · Halaster Blackcloak in disguise · Prisoner of the bandit camp · [Undermountain](/places/undermountain/), Level 1 · Walked away**

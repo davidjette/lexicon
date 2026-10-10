@@ -34,6 +34,8 @@ published: '2026-09-10'
 wa:
   slug: the-grand-aqueduct-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Waterway · [Lower City](/places/the-lower-city/), central spine · Boundary, landmark and back road · Standing**

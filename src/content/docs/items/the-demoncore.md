@@ -28,6 +28,8 @@ fields:
 sources:
 - "Oral Histories: The Inevitables, 2024-03-09"
 - "Oral Histories: The Inevitables, 2024-03-16"
+campaigns:
+  - starfall-tng
 ---
 
 **Weapons system · Astral Command · Secret program · Used once in the Beholder War**

@@ -40,6 +40,8 @@ image:
   src: /images/generated/papa-diaz.webp
   alt: "Papa Diaz"
   caption: "Lexical rendering of a burn-scarred priest seen from behind on a night shore, arms raised against dim figures rising from the sea."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Priest · Brother · Saltmarsh**

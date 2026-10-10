@@ -37,6 +37,8 @@ gallery:
   - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-dario-eric-and-gemma-in-disguise-records-roo.webp
     alt: 'Dario, Eric and Gemma in disguise - records room - Imperial Counting House with Ilma Vitt - Korth Episode: The Stairs of'
     caption: 'Dario, Eric and Gemma in disguise - records room - Imperial Counting House with Ilma Vitt - Korth Episode: The Stairs of Her Mercy'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Dwarf · Wardress and keeper of records · The Imperial Counting House · Level Unknown · Alive, beaten, at the pilgrim camp**

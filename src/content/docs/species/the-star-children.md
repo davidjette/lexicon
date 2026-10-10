@@ -36,6 +36,8 @@ image:
   src: /images/generated/the-star-children.webp
   alt: "The city of the star children"
   caption: "Lexical rendering of a sunken city of faintly glowing green stone with impossible angles and indistinct forms in its shadows."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Spawn of Cthulhu · Builders of Ry'leh in Revan's vision · Depicted throughout the city**

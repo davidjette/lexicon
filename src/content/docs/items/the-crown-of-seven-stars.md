@@ -42,6 +42,9 @@ image:
   src: /images/generated/the-crown-of-seven-stars.webp
   alt: "The Crown of Seven Stars"
   caption: "Lexical rendering of an ancient crown of infernal ore resting alone on a plain ground."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Regalia · Ancient infernal work in a rare infernal ore · Cursed · Seven pledges to an unnameable devil · Given to Master Armhair to carry to the Korramont**

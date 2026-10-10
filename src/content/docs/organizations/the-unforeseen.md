@@ -44,6 +44,8 @@ wa:
   slug: the-unforeseen-organization
   uuid: 7e618787-550b-46ec-9e4d-9b1b1796470d
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+campaigns:
+  - unforeseen
 ---
 
 **Type:** Secret, Brotherhood · **Founded:** Arden Crest, Episode 9 · **Status:** Never dissolved. Two founders dead, two at war with each other.

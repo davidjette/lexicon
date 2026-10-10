@@ -49,6 +49,8 @@ gallery:
 - src: /images/gallery/2026-03-02-05.webp
   alt: DJ Rust and his band
   caption: DJ Rust, shirtless with a gold chain, sings at a microphone in front of a band of costumed performers.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Born Cogborn · Performer and Lower City courier · RUST · Alive**

@@ -25,6 +25,8 @@ image:
   src: /images/cards/tami-infanta-of-luck.webp
   alt: 'Ally card: Tami, Infanta of Luck'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > This card carries no flavour text.

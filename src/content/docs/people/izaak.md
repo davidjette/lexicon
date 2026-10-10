@@ -58,6 +58,8 @@ gallery:
   - src: /images/album/extracting-izaak.webp
     alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
     caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Ranger and Artificer · Fulcrum liaison to the Nest · Rescued; in Sharn with the Nest**

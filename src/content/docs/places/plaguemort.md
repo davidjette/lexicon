@@ -41,6 +41,8 @@ sources:
 - src/content/docs/people/feng-milosh.md
 - src/content/docs/places/our-lady-of-mysteries.md
 published: '2026-09-14'
+campaigns:
+  - dead-mans-hand
 ---
 
 **Town · The Outlands · Home of [Heyu](/people/heyu/)**

@@ -64,6 +64,8 @@ gallery:
   - src: /images/gallery/2026-01-06-06.webp
     alt: POSÉ menu
     caption: A plain printed POSÉ Restaurant & Grill menu listing small bites, signature cocktails and hookah elemental blends.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Restaurant · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Richard Blaze's newest venue · Standing**

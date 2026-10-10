@@ -76,6 +76,8 @@ published: '2026-09-10'
 wa:
   slug: battlebeast-person
   category: dd0f7bbb-03c0-4db4-a503-98b6482cdba9
+campaigns:
+  - dead-mans-hand
 ---
 
 **Lion-man · Gladiator monk · Prisoner of the [Purple Dragons](/organizations/the-purple-dragons/), escaped · Alive**

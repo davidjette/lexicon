@@ -33,6 +33,8 @@ image:
   src: /images/generated/second-service.webp
   alt: "Second service"
   caption: "Lexical rendering of very old people walking willingly into a large public hall while officers wait outside with troop transports."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Concept · Karrnathi social and legal institution · Administered at [the Hall of Submission](/places/the-hall-of-submission/), [Korth](/places/korth/)**

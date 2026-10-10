@@ -37,6 +37,8 @@ wa:
 image:
   src: /images/site/skyport-1.webp
   alt: Skyport
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Airship port · Sharn, upper and lower districts · Operational**

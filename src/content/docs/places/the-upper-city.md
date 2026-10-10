@@ -42,6 +42,8 @@ gallery:
   - src: /images/gallery/2026-05-10-04.webp
     alt: Restricted Upper-City terrace feed
     caption: An ArcEye view of an Upper City terrace at night, with a bronze-leafed tree, benches and a tower whose sign reads VEIL.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **District · [Sharn](/places/sharn/) · Governmental, corporate and elite quarter · Standing**

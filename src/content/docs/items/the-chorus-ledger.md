@@ -42,6 +42,9 @@ image:
   src: /images/generated/the-chorus-ledger.webp
   alt: "The Chorus Ledger"
   caption: "Lexical rendering of a closed grey leather book sealed with a dove in white wax and chained to a courier-case."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Document · Grey leather · Dove seal in white wax · Chained to a courier-case · Carried by Sister-Inquisitor Maelis Dorn · Seen closed, never open**

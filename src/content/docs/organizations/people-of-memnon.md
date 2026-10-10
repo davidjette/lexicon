@@ -33,6 +33,8 @@ image:
   src: /images/cards/people-of-memnon.webp
   alt: 'Ally card: People of Memnon'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human commoners · The city of Memnon · Allies from Arc VI**

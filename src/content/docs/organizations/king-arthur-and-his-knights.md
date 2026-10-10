@@ -30,6 +30,8 @@ image:
   src: /images/cards/king-arthur-and-his-knights.webp
   alt: 'Ally card: King Arthur and his Knights'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human paladins · The Knights of the Round Table · Allies from Arc VI**

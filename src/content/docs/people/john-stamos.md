@@ -46,6 +46,8 @@ wa:
   slug: john-stamos-person
   uuid: 69cc5f22-9601-44a3-984f-0f02c75398f4
   category: e17ea579-a469-4a08-90db-a8a85bc33534
+campaigns:
+  - unforeseen
 ---
 
 **Actor and entertainer · Founding member of Fulcrum · Level Unknown · Deceased**

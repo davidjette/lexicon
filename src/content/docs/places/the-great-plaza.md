@@ -33,6 +33,9 @@ published: '2026-09-10'
 wa:
   slug: the-great-plaza-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Landmark · Ceremonial heart of [Korth](/places/korth/) · Owned outright by the Empire**

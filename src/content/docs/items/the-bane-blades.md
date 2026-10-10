@@ -75,6 +75,8 @@ image:
   src: /images/generated/the-bane-blades.webp
   alt: "The Bane Blades"
   caption: "Lexical rendering of five moonstone blades laid side by side, one a longsword and one a dark bladed shield."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Artefacts · Five shards of Perfect moonstone · One to each Banefae house**

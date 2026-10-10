@@ -38,6 +38,8 @@ image:
   src: /images/gallery/2026-06-27-04.webp
   alt: "A portal in the Mournland"
   caption: "A ring of white light glows inside a twisted black stone arch standing in a flat, dead green-grey waste beneath jagged spires."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Portals · [the Mournland](/places/the-mournland/), the dead kingdom of Cyre · Military objectives · Contested**

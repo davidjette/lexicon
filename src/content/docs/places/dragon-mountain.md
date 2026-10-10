@@ -52,6 +52,9 @@ image:
   src: /images/generated/dragon-mountain.webp
   alt: "Dragon Mountain"
   caption: "Lexical rendering of a great mountain rising from jungle, circled by hundreds of dragons, with an icy peak and a platinum temple on its slope."
+campaigns:
+  - ages-of-the-infanta
+  - starfall-tng
 ---
 
 **Mountain · The deep past · Seat of Tiamat · Site of the platinum temple**

@@ -47,6 +47,8 @@ image:
   src: /images/gallery/dmh-shemeska.webp
   alt: "Shemeska receives Maverick"
   caption: "Shemeska, fox-headed in a feathered headdress, reclines in her suite while Maverick speaks and the rest of the party wait behind him."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Demon · Casino owner · [Fortune's Wheel](/places/fortunes-wheel/), Lady's Ward, [Sigil](/places/sigil/)**

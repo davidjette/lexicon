@@ -92,6 +92,8 @@ gallery:
   - src: /images/chat/2024-07-12-996943745034809.webp
     alt: Se7en miniature
     caption: A HeroForge miniature of a copper-plated construct with glowing goggles, a shield and a flaming cannon pack.
+campaigns:
+  - starfall-tng
 ---
 
 **Autognome · Artificer 15 (Artillerist) · Brewer · [SSJ Zanzibar](/items/the-ssj-zanzibar/) · Status unknown**

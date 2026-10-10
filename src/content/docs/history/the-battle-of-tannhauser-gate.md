@@ -46,6 +46,8 @@ sources:
 - "sources/dave/2026-09-14-starfall-necis.md"
 - "CANON.md 5ai (Oral Histories)"
 - "CANON.md 5aj"
+campaigns:
+  - starfall-tng
 ---
 
 **Battle · [Starfall: TNG](/lore/starfall-the-next-generation/) · Fifteen years before *The Starsong Awakens* · Location unknown**

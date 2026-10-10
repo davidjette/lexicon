@@ -39,6 +39,8 @@ image:
   src: /images/cards/holden-tudyx.webp
   alt: 'Ally card: Holden Tudyx'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Elf wizard · Headmaster of Abjuration, Grand-Magus of the Arcaneum · Died at the Arcaneum; ally at the Egg as undead**

@@ -30,6 +30,8 @@ published: '2026-09-10'
 wa:
   slug: the-imperial-blackguards-and-mercenary-act-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Concept · Imperial statute · Weapon and bodyguard licensing within the walls of [Korth](/places/korth/)**

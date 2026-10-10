@@ -37,6 +37,8 @@ published: '2026-09-10'
 wa:
   slug: new-mourning-location
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Region · eastern Khorvaire, west of Leef · Corrupted wasteland · Uninhabitable**

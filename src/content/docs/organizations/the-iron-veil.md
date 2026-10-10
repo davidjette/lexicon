@@ -53,6 +53,8 @@ gallery:
 - src: /images/gallery/2026-02-26-12.webp
   alt: Iron Veil soldier and Veil Hound
   caption: An Iron Veil soldier in red horned armour crouches with a sword and shield beside a gaunt, red-scarred patrol hound.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Type:** Military, Secret Police · **Seat:** the Veil Building, Upper City, Sharn · **Status:** Dissolved; remnant active

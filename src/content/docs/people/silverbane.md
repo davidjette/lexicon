@@ -57,6 +57,8 @@ image:
   src: /images/generated/silverbane.webp
   alt: "Silverbane"
   caption: "Lexical rendering of a pale glowing sword with runes along the blade and a goddess engraved on the forte, under a full moon."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Intelligent bastard sword (moonblade) · Level 15 · Neutral Good · House Gallidann · Awake, and borne by Drefan**

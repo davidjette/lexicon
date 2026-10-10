@@ -23,6 +23,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-03"
 - "Oral Histories: The Inevitables, 2024-12-22"
+campaigns:
+  - starfall-tng
 ---
 
 **Species unknown · Vessel of a Cypher Infanta · Starfall · Status unknown**

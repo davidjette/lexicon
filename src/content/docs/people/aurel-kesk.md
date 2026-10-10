@@ -34,6 +34,8 @@ sources:
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-lodge.transcript.txt
 published: '2026-09-26'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Director · The Imperial Counting House · Level Unknown · Alive**

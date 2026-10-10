@@ -58,6 +58,8 @@ image:
   src: /images/generated/nicollo.webp
   alt: "Nicollo"
   caption: "Lexical rendering of a polished humanoid robot in dirty, torn Renaissance clothing with ruffled sleeves and faded brocade, standing perfectly still."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Robot · Protocol droid · Tutor of princes · Betrayed the party at Fort Maximillien · Last seen in the fort**

@@ -41,6 +41,8 @@ image:
   src: /images/generated/whitehorn.webp
   alt: "Whitehorn"
   caption: "Lexical rendering of a winter trading camp of stalls and tents on a grass plain, with a small temple and a longhouse at the end of the road."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Trading post · The Ride · Arc III, The Age of the Infanta**

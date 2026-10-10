@@ -67,6 +67,8 @@ gallery:
 - src: /images/gallery/2026-04-04-06.webp
   alt: Snodgrass and Renn Tal face Edwin Graves
   caption: Snodgrass raises his weapon with Renn Tal behind him as Dr. Edwin Graves, holding a syringe, confronts them in the laboratory.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Doctor, shopkeeper, corporate owner · BioTec (secret proprietor) / Circuit City · Dead**

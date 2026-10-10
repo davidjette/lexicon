@@ -35,6 +35,8 @@ image:
   src: /images/cards/jeggings.webp
   alt: 'Ally card: Jeggings'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > It was a rescue mission, and as far as Jeggings knows, it was mostly a failure. They brought a few broken soldiers and a child with them back to Waterdeep. And quite a few slow, low cruises through hot winds over the Aunuroch Desert, as if St. Cloud was looking for something.

@@ -26,6 +26,8 @@ sources:
 - "JL's DM notes: Starfall Notes - The Trouble with Wishes"
 - "JL's DM notes: Starfall Notes - The Company - Holly Berrias Session"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **Creature · Fey · *[Light of Xaryxis](/history/light-of-xaryxis/)***

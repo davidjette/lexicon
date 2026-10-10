@@ -20,6 +20,8 @@ sources:
 - sources/dave/2026-09-14-ages-rulings-a1-a30.md
 - CANON.md, Oral Histories batch 4
 published: '2026-09-14'
+campaigns:
+  - starfall-tng
 ---
 
 **Zanzibar** is a name borne by several people, a dynasty, a war and a starship. It may refer to:

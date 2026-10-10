@@ -72,6 +72,9 @@ gallery:
   - src: /images/album/esther-crona-age-18-and-vayrn-crona-inside-crimson-sun-hall-korth.webp
     alt: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
     caption: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **High Elf · Paladin · [The Crimson Sun](/organizations/the-crimson-sun/) / [The Imperial Council](/organizations/the-imperial-council-imperial-assembly/) · Dead — Echo destroyed at the [Forge of Binding](/places/the-forge-of-binding/)**

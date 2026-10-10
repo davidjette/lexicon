@@ -56,6 +56,8 @@ image:
   src: /images/generated/arc-i-hope-in-exile.webp
   alt: "The wreck of the Evening Star"
   caption: "Lexical rendering of a great four-masted sailing ship sinking while two crowded lifeboats pull away."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Campaign Arc · Temple Holdings LLC, Arc I · The Moonshae Isles, off the Sword Coast · Complete**

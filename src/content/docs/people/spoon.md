@@ -32,6 +32,8 @@ gallery:
   - src: /images/chat/2024-07-10-3591562701094446.webp
     alt: New Spoon miniature
     caption: A 3D render of a bald, dark-skinned elf woman in a blue and yellow suit with armoured boots, holding a baton.
+campaigns:
+  - starfall-tng
 ---
 
 **Species unknown · Barbarian 6 (Zealot) · Deputy, Bureau of Compliance · Status unknown**

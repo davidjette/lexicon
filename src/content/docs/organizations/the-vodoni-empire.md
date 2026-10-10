@@ -37,6 +37,8 @@ image:
   src: /images/starsong/vodoni-empire.webp
   alt: "A Vodoni warrior"
   caption: "The Vodoni Empire, from the Company dossier"
+campaigns:
+  - starfall-tng
 ---
 
 **Empire · Vodonispace · Rival of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Active**

@@ -46,6 +46,8 @@ image:
   src: /images/album/korth-ep-16-orientation-day-lus-fayina.webp
   alt: "Director Lus Fayina - Korth Ep 16, Orientation Day"
   caption: "Director Lus Fayina - Korth Ep 16, Orientation Day"
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Elf · The Black Doves · The Grey Doves · Alive when last recorded**

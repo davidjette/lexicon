@@ -68,6 +68,8 @@ image:
   src: /images/cards/marcus.webp
   alt: 'Ally card: Marcus, Infanta of Death'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Find proof Alphalpha Beginnigain and Wainwright St. Cloud are somehow the same person, then bring me to Sigil to prove it to my sister. She will help us find and destroy St. Cloud, restore my place at the heart of death, and end this Time of Troubles.

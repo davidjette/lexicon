@@ -32,6 +32,8 @@ sources:
 - "JL's DM notes: Starfall Awakens Notes"
 - "Oral Histories: The Inevitables, 2022-12-10"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **God · Trickster · Court of Ao · Alive**

@@ -29,6 +29,8 @@ wa:
   slug: episode-5-E2809Cthe-eldeen-reachesE2809D-dm3A-jbyrd-report
   uuid: ab7b814c-934a-47c4-916d-49d499079165
   category: df775f64-5cdf-4c80-9945-79701419f7fc
+campaigns:
+  - unforeseen
 ---
 
 **The Unforeseen · Campaign 1 · Episode 5 · DM: JByrd · Report filed 11 Sep 2020**

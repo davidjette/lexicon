@@ -55,6 +55,8 @@ gallery:
 - src: /images/gallery/2026-01-16-10.webp
   alt: 'Breakers Pit fight tiers and rewards: Tier 2'
   caption: A Breakers Pit "Fight Tiers & Rewards" sheet listing the Tier 2 fee, the Pit Adrenaline Shot, a Feather Fall token chip and Tier 2 magic items.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Arena · beneath [the Ziggurat](/places/the-ziggurat/), [Lower City](/places/the-lower-city/) · Underground fighting ring · Standing**

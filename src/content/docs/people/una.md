@@ -53,6 +53,8 @@ image:
   src: /images/generated/una.webp
   alt: "Una"
   caption: "Lexical rendering of a young girl seen from behind, huddled against a man in a small sailing boat piloted by a halfling."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > I sometimes dream of heaven, like I’ve been there before. But in the dream the angels are fighting each other. And the devil is laughing.

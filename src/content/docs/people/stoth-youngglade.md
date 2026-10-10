@@ -57,6 +57,9 @@ image:
   src: /images/portraits/stoth-youngglade.webp
   alt: 'Stoth in a green hood and leather armour, drawing a longbow'
   caption: 'Stoth in the Temple Holdings party portrait'
+campaigns:
+  - ages-of-the-infanta
+  - starfall-tng
 ---
 
 **Human · Rogue (Thief), Level 6 · Temple Holdings LLC, on terms · Chaotic Neutral · Returned from the deep past**

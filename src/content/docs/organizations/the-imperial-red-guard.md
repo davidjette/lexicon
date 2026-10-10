@@ -43,6 +43,8 @@ image:
   src: /images/gallery/imperial-red-guard-detail.webp
   alt: "A Red Guard at the Ministry door"
   caption: "A guard in a red hood and robes stands with a spear beside the Ministry door, a detail of a scene image."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Type:** Military, Honour Guard, Undead · **Seat:** Korth and the Imperial court · **Status:** Active

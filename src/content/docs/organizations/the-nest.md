@@ -45,6 +45,8 @@ gallery:
 - src: /images/gallery/2026-05-17-09.webp
   alt: Briefing at the map table in The Nest
   caption: Jessica Grimpledink stands on the edge of a map table with Sir Dario Argentino, Eric the Cleric, Gemma Corso and Lorian gathered round in a rain-soaked rebel command centre. It is the Nest briefing before the strike on the Vault Underground.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Rebel cell · Upper City, Sharn · Active**

@@ -47,6 +47,9 @@ image:
   src: /images/generated/june-gloomstalker.webp
   alt: "June Gloomstalker, envoy of the Eldeen Confederacy"
   caption: "Lexical rendering of a hooded woman seen from behind, carrying a sealed document case toward the doors of a great hall."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Human · Druidess · Envoy of the Eldeen Confederacy · Level Unknown · Alive at last record**

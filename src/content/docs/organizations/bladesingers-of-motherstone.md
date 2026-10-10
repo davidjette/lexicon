@@ -31,6 +31,8 @@ image:
   src: /images/cards/bladesingers-of-motherstone.webp
   alt: 'Ally card: Bladesingers of Motherstone'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Together they formed a Cult of the Infanta, they call themselves Lusmundii (Light of the World).

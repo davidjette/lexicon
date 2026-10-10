@@ -45,6 +45,9 @@ gallery:
   - src: /images/gallery/2026-09-07-06.webp
     alt: The midnight meeting with Armhair and Jelton Ahn
     caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Leonin · Scholar and historian · Self-appointed protector of [Master Armhair](/people/master-armhair/) · Alive, leaving Korth**

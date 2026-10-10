@@ -50,6 +50,8 @@ gallery:
 - src: /images/gallery/2026-02-26-16.webp
   alt: Project E.D.E.N. hybrids
   caption: Undead-warforged hybrids with red eyes and glowing blades stand beneath a neon BioTec sign.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Privately owned Imperial research contractor · Arcane-cybernetic augmentation and experimental implants · Upper Central District, Sharn · Publicly a medical research institute**

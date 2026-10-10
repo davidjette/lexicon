@@ -37,6 +37,8 @@ wa:
   slug: the-clamshell-casino-landmark
   uuid: 7a3ec9a8-1c35-4426-b4b0-0ac8c79f0bb6
   category: f80c9190-be4c-4471-bd22-2e9cced68451
+campaigns:
+  - unforeseen
 ---
 
 **Casino · [Newham](/places/newham/) · Built during the Imperial Charter boom · Lost with the city**

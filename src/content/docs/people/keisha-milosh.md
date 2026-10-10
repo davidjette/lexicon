@@ -45,6 +45,8 @@ image:
   src: /images/generated/keisha-milosh.webp
   alt: "Keisha Milosh"
   caption: "Lexical rendering of a deckhand seen from behind, hauling a rope on the deck of a sailing ship at sea."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Deckhand of the Blackfish · Wanted pirate · Daughter of Feng Milosh**

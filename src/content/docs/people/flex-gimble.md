@@ -48,6 +48,8 @@ image:
   src: /images/cards/flex-gimble.webp
   alt: 'Ally card: Flex Gimble'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Rock gnome · Artificer · Betrayed the party, then returned as an ally at the Egg**

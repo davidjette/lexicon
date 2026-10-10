@@ -45,6 +45,8 @@ image:
   src: /images/cards/atlas-and-the-sea-elves.webp
   alt: 'Ally card: Atlas and the Sea Elves'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > You saved us from the mindflayers and defeated the Waning One. You are the true bearers of Glassbane. We are with you to the end.

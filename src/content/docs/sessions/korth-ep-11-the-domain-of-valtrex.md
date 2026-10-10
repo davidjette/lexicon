@@ -28,6 +28,8 @@ published: '2026-09-10'
 wa:
   slug: korth-ep-11-E28094-the-domain-of-valtrex-report
   category: 67732d85-7c3d-47ea-927c-ed620e6a3988
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 11 · DM: Dave**

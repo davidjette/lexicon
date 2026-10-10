@@ -52,6 +52,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2022-07-10'
   - 'Oral Histories: The Inevitables, attachment 1654377024765671 (2021-11-13)'
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 > Yes now our band is tight - a holy woman who’s actually a grave robber, and her paladin and pet who are actually a pirate and a dragonrat

@@ -29,6 +29,8 @@ image:
   src: /images/cards/lunar-unicorns.webp
   alt: 'Ally card: Lunar Unicorns'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > And in the distance, a group of hunters, covered in silvery blood, consuming their grim quarry. The Banefae are hunting unicorns.

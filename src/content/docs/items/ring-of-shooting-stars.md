@@ -38,6 +38,8 @@ image:
   src: /images/generated/ring-of-shooting-stars.webp
   alt: "The Ring of Shooting Stars"
   caption: "Lexical rendering of a signet ring lying alone on a plain ground, its face turned away."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Item · Ring · Signet of the Princess of Clouds · House Weathervein**

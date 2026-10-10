@@ -37,6 +37,8 @@ image:
   src: /images/generated/our-lady-of-mysteries.webp
   alt: "Our Lady of Mysteries"
   caption: "Lexical rendering of a towering cathedral interior of geometric art, with masked nuns and an altar bearing a fractal mosaic and a silver candle."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Cathedral · The Lady's Ward, [Sigil](/places/sigil/) · [The Sororia](/organizations/the-sororia/)**

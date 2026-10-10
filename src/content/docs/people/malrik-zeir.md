@@ -65,6 +65,8 @@ gallery:
 - src: /images/gallery/2026-03-17-02.webp
   alt: 'The MZ note: deliver out-of-towners'
   caption: 'A hand holds a torn note in a sewer tunnel: "For special clients only. Deliver young, attractive out-of-towners to the marked tunnel. Keep them bound and hooded. No injuries. Payment on delivery. - MZ" It is the note recovered from the Drain Snakes suggesting Malrik Zeir paid them for captives.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Valenar high elf · Vampire · "Father" of the Children of Ember · Body destroyed; mist escaped**

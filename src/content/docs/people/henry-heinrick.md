@@ -61,6 +61,9 @@ gallery:
   - src: /images/gallery/2026-06-02-01.webp
     alt: Esther Crona kills Henry Heinrick
     caption: Esther Crona stretches out a hand and Henry Heinrick clutches his throat, choking, while Sir Dario Argentino, Eric the Cleric, Gemma Corso and Richard Blaze look on in the penthouse.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Human · Nobleman / Chief Diplomat · Council of 13 · Mayor of Sharn · Dead**

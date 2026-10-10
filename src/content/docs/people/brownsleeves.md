@@ -48,6 +48,8 @@ image:
   src: /images/generated/brownsleeves.webp
   alt: "Brownsleeves, the Short King of the Moon"
   caption: "Lexical rendering of a halfling in a wooden crown, seen from behind, teaching a circle of forest folk in a clearing."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > This is the group chat for the epic D&D quest which started on the Evening Star and the tragic death of Brownsleeves.

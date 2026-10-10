@@ -40,6 +40,8 @@ image:
   src: /images/cards/lunar-fae.webp
   alt: 'Ally card: Lunar Fae'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > You see the quizzical eyes of more fae, sitting in pools with their twins and triplets, staring back in wonder at your fantastic attire and forms. At the end of the slope, gorgeous onsen bath house built in the style of the halflings of Blesstown.

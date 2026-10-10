@@ -45,6 +45,8 @@ image:
   src: /images/generated/the-rising-dawn.webp
   alt: "Recruits of the Rising Dawn"
   caption: "Lexical rendering of three kobold recruits advancing cautiously through a stone dungeon corridor."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Order · Oerth · Foes of the sahuagin and the Scarlet Brotherhood**

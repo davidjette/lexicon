@@ -32,6 +32,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
   - 'The Starsong Awakens site (JL Byrd): The Rock of Bral'
+campaigns:
+  - starfall-tng
 ---
 
 **Mind flayer nautiloid · Stolen from [the Rock of Bral](/places/the-rock-of-bral/) · *The Starsong Awakens***

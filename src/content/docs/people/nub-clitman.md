@@ -36,6 +36,9 @@ image:
   src: /images/generated/nub-clitman.webp
   alt: "Nub Clitman runs in on the party's ship"
   caption: "Lexical rendering of a figure seen from behind bursting into a ship's cabin where the crew look up from their work, a clock on the wall showing nine."
+campaigns:
+  - ages-of-the-infanta
+  - starfall-tng
 ---
 
 **Person · [Arc IV, The Infernal Machines](/history/arc-iv-the-infernal-machines/) · Dead**

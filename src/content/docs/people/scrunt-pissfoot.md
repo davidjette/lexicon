@@ -78,6 +78,8 @@ gallery:
   - src: /images/chat/2021-11-11-475905887081701.webp
     alt: Pencil sketch of Scrunt saying "I'm not even sposed ta be here"
     caption: JL's sketch of Scrunt
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 > Scrunt is going to create some problems for the party until he forms bonds with you and learns your expectations. He’s got a chip on his shoulder and thrives in chaos.

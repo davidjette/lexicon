@@ -36,6 +36,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-09-05'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-27'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Dwarf · Shaman · The swamp dwarves · Unknown**

@@ -39,6 +39,8 @@ published: '2026-09-10'
 wa:
   slug: booti26230393Bslave-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Drone · Door-warden and escort of the Underhive · Alive**

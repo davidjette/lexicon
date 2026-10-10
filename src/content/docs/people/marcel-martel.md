@@ -54,6 +54,8 @@ gallery:
   - src: /images/chat/2024-11-08-9546101088753119.webp
     alt: White-haired elf miniature
     caption: Hero Forge render of a white-haired elf in a dark buttoned coat holding a curved black blade.
+campaigns:
+  - starfall-tng
 ---
 
 **High elf · Rogue (Arcane Trickster) · Crew, Istus Cruiser · Children of the Red Eye · Status unknown**

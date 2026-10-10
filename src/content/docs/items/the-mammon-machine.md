@@ -59,6 +59,9 @@ published: '2026-09-10'
 wa:
   slug: the-mammon-machine-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+campaigns:
+  - ages-of-the-infanta
+  - starfall-tng
 ---
 
 The **Mammon Machine** — **Zoth's Vessel** — is "the greatest treasure of (doomed Netheril)": an energy collection and amplification device with which the Netherese "claimed to have slain the god of death and captured his essence in the machine's heart." One of the **[Infernal Machines](/lore/the-infernal-machines/)**, kin to the [Lexicon](/items/the-lexicon/) and the [Obliviator](/items/the-obliviator/). It is half of the vessel of Zoth-Ommog, salvaged from the ocean floor beneath [R'lyeh](/places/rlyeh/) and carried forward in time by [Wainwright St. Cloud](/people/wainwright-st-cloud/); the Netherese powered their empire from it, and in the last loop [Brightmantle](/people/brightmantle/)'s collapse sent it into the desert. It now lies several miles deep in the Anauroch Desert, where St. Cloud hunts it for the [Sword Coast Trading Company](/organizations/sword-coast-trading-company/).

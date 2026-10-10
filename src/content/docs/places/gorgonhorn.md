@@ -39,6 +39,8 @@ image:
   src: /images/generated/gorgonhorn.webp
   alt: "Gorgonhorn"
   caption: "Lexical rendering of refugees leaving a mountain tunnel at night and walking through a pass toward a distant stronghold on the edge of a wasteland."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Settlement · western border of the Mournlands · Warforged stronghold · Standing**

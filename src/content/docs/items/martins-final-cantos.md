@@ -34,6 +34,8 @@ image:
   src: /images/generated/martins-final-cantos.webp
   alt: "Martin's Final Cantos"
   caption: "Lexical rendering of a woman, seen from behind, striking at a vast leviathan in a forest to protect a prince beside her."
+campaigns:
+  - starfall-tng
 ---
 
 **Poem · Three books · By Martin · Shrike pilgrimage, Light of Xaryxis**

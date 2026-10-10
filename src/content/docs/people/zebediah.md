@@ -56,6 +56,8 @@ image:
   src: /images/generated/zebediah.webp
   alt: "Zebediah in the vault"
   caption: "Lexical rendering of a man seen from behind stepping carefully across a patterned vault floor toward a great emerald amulet and a sword set in stone."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Player character (JL) · Twin of [Zanzibar](/people/zanzibar/) · Of [Punis](/places/punis/) · Disinherited · Raised**

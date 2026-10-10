@@ -49,6 +49,8 @@ image:
   src: /images/generated/the-suzail-coup.webp
   alt: "The Suzail Coup"
   caption: "Lexical rendering of a snail on the floor of a smoke-filled throne room, watched by a group of adventurers."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Coup d'état · Castle Danzig, [Suzail](/places/suzail/) · Candlenights Eve, Age of the Infanta**

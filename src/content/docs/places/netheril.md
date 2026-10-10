@@ -57,6 +57,8 @@ image:
   src: /images/generated/netheril.webp
   alt: "Netheril, the empire of flying cities"
   caption: "Lexical rendering of several cities floating among the clouds high above the land."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human empire · Faerûn, in Antiquity · Capital: Zeal · Obliviated**

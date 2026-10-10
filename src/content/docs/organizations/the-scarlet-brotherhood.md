@@ -53,6 +53,8 @@ image:
   src: /images/generated/the-scarlet-brotherhood.webp
   alt: "The Scarlet Brotherhood"
   caption: "Lexical rendering of hooded assassins closing in on a small band of adventurers in a torchlit tomb."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Secret society of assassins · Saltmarsh, Oerth · Enemies of Neptune's Rejects · Every named member killed**

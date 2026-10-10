@@ -45,6 +45,8 @@ gallery:
   - src: /images/gallery/2026-04-04-14.webp
     alt: Snodgrass and a cat at the market
     caption: Snodgrass in his feathered red cap looks down at an orange cat on a rain-slick street under a neon MARKET sign.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **District · [Lower City](/places/the-lower-city/), south · Commercial artery · Standing**

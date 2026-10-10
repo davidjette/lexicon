@@ -30,6 +30,8 @@ image:
   src: /images/generated/the-ssj-stonecypher.webp
   alt: "The SSJ Stonecypher"
   caption: "Lexical rendering of a dark, derelict starship adrift in space with a small figure in an armored spacesuit approaching it."
+campaigns:
+  - starfall-tng
 ---
 
 **Starship · Derelict in Doomspace · Crew turned undead**

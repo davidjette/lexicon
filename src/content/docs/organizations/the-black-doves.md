@@ -77,6 +77,9 @@ gallery:
   - src: /images/album/black-dove-white.webp
     alt: Black Dove - White
     caption: Black Dove - White
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Humanitarian medical order · Aerenal / Korvarian · Active, and the largest single instrument of Imperial policy on the continent**

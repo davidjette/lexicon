@@ -39,6 +39,8 @@ image:
   src: /images/generated/salem-specksnyder.webp
   alt: "Salem Specksnyder"
   caption: "Lexical rendering of a tall man in black, seen from behind, following a woman and her two goblin escorts down a city street."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Warlock · The city of Greyhawk · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Status unknown**

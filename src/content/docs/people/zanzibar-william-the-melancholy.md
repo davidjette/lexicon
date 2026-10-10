@@ -59,6 +59,8 @@ image:
   src: /images/gallery/dmh-zanzibar-william-the-melancholy.webp
   alt: "Zanzibar William the Melancholy"
   caption: "The crowned and downcast emperor in a fur-collared robe, from the cover of the War of the Five Zanzibars primer."
+campaigns:
+  - starfall-tng
 ---
 
 **Species unknown · Emperor of Faerûn · House Zanzibar, [Cormyrean Empire](/organizations/the-cormyrean-empire/) · Alive**

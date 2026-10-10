@@ -24,6 +24,9 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-21"
 - "Oral Histories: The Inevitables, 2026-08-22"
 published: '2026-09-14'
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Militant order · Khorvaire · Allied with the Blood of Vol · Active**

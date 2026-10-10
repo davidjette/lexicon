@@ -38,6 +38,8 @@ gallery:
 - src: /images/gallery/2026-07-20-03.webp
   alt: Before the reliefs of the Grand Stair
   caption: Three figures, one armoured and two cloaked, stand before the carved dragon reliefs at the head of the stair down into the mountain.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Stairway and relief gallery - the descent into the Korramont**

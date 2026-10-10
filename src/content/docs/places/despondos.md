@@ -52,6 +52,8 @@ image:
   src: /images/generated/despondos.webp
   alt: "Despondos, the maze dimension"
   caption: "Lexical rendering of a vast labyrinth in a realm of shadow, with a procession of the souls of the dead walking through it."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Maze dimension · The Shadowfell · Holds the City of Dis and the Penteract**

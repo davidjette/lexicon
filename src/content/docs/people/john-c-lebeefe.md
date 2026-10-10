@@ -75,6 +75,9 @@ gallery:
   - src: /images/album/gemma-eric-and-dario-pretend-to-autit-lebeefe-s-records-black-castle-city-of-new.webp
     alt: 'Gemma, Eric and Dario pretend to audit LeBeefe''s records - Black Castle - City of Newham'
     caption: 'Gemma, Eric and Dario pretend to audit LeBeefe''s records - Black Castle - City of Newham'
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Human · Aberrant Mind Sorcerer · [The Unforeseen](/organizations/the-unforeseen/) and the Imperial Ministry · Magister of New Ham, Mayor of [Newham](/places/newham/), Grand Duke of the Eastern Provinces · Dead — killed at Newham, and still audible**

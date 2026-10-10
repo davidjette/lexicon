@@ -51,6 +51,8 @@ image:
   src: /images/generated/dox-prime.webp
   alt: "Dox Prime guarding the portal nexus"
   caption: "Lexical rendering of an armoured figure wreathed in lightning, seen from behind, guarding a room of glowing portals beneath a shadowed portrait."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > And yet, you lost before you even started.

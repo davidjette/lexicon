@@ -42,6 +42,8 @@ image:
   src: /images/gallery/2026-06-27-11.webp
   alt: "Paladins hold the portal"
   caption: "A winged paladin with a flaming sword and a line of armoured knights hold a glowing portal against a horde of rotting undead."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Crusade · The Thrane front · In the field**

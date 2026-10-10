@@ -57,6 +57,8 @@ gallery:
 - src: /images/gallery/2026-05-13-03.webp
   alt: Children of Ember stat block
   caption: 'A creature stat block for a "Children of Ember" cultist: a Medium humanoid spellcaster with fire bolt, burning hands and hold person.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Cult · The Vault Underground, Upper City Sharn · Leadership destroyed**

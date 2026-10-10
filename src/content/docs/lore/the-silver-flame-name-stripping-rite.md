@@ -30,6 +30,8 @@ published: '2026-09-10'
 wa:
   slug: the-silver-flame-name-stripping-rite-article
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Religious rite · The Silver Flame · Ancient and nearly forgotten**

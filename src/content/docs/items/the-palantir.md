@@ -58,6 +58,8 @@ image:
   src: /images/generated/the-palantir.webp
   alt: "The Palantir"
   caption: "Lexical rendering of a scrying stone with a faint distant scene visible in its depths."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Item · Scrying stone · One of a kind · Present at several points in its own history**

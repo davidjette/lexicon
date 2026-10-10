@@ -57,6 +57,8 @@ image:
   src: /images/gallery/dmh-griddy-champagne.webp
   alt: "Griddy Champagne takes the RUIN card"
   caption: "Griddy Champagne, in black leather and a scarf, slips the RUIN card into her bodice at Fort Maximillien while Varkus, Maverick and Phillip Klaxon argue behind her."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Fallen angel · Devil in human form · Housecarl at [Tiffany House](/places/tiffany-house/) · [Waterdeep](/places/waterdeep/)**

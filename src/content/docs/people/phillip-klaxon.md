@@ -46,6 +46,8 @@ image:
   src: /images/generated/phillip-klaxon.webp
   alt: "Phillip Klaxon"
   caption: "Lexical rendering of a middle-aged nobleman fuming in a room of a fortress."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Minor noble · [Waterdeep](/places/waterdeep/) · Father of [Darius Klaxon](/people/darius-klaxon/)**

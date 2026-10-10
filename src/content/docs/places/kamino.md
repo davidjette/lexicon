@@ -34,6 +34,8 @@ image:
   src: /images/generated/kamino.webp
   alt: "Kamino"
   caption: "Lexical rendering of towers rising from an endless ocean, with small craft landing at a central hub."
+campaigns:
+  - starfall-tng
 ---
 
 **Planet · Cloning corporation · *[Light of Xaryxis](/history/light-of-xaryxis/)* · Active**

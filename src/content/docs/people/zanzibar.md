@@ -118,6 +118,8 @@ gallery:
 - src: /images/minis/zanzibar-2.webp
   alt: 'Zanzibar''s miniature from behind, with his purple cape'
   caption: 'Zanzibar''s miniature from behind, with his purple cape (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human · Crown Prince of Punis · Temple Holdings LLC / the royal house of Punis · Alive**

@@ -40,6 +40,8 @@ image:
   src: /images/generated/the-amulet-of-kai-ryssdall.webp
   alt: "The Amulet of Kai Ryssdall"
   caption: "Lexical rendering of an amulet set with a very large emerald."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Amulet · The largest emerald in the world · A gem big enough to cast *Greater Gate* · Sought by Wainwright St. Cloud and the Von Lampes**

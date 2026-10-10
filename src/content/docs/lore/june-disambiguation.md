@@ -16,6 +16,8 @@ sources:
 - sources/dave/2026-09-13-fates-june-saharel.md
 - sources/dave/2026-09-14-temple-holdings-rulings-c1-c10.md
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **June** is a name borne by an Infanta, by the child Chronocypher became in her place, and by an Eldeen envoy. It may refer to:

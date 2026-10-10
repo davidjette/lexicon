@@ -40,6 +40,8 @@ published: '2026-09-10'
 wa:
   slug: the-council-of-sharn-article
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Provisional government, trials and executions · The Veil Building penthouse, Sharn · Sharn Ep 19**

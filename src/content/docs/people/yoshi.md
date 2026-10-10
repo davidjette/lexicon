@@ -74,6 +74,8 @@ gallery:
 - src: /images/minis/yoshi-3.webp
   alt: 'Yoshi''s miniature leaping with his mace'
   caption: 'Yoshi''s miniature leaping with his mace (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Copper Dragonborn · Fighter (Eldritch Knight) · Temple Holdings LLC · Level 5 (later 15) · Alive**

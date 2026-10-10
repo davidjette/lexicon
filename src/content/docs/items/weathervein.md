@@ -56,6 +56,9 @@ sources:
   - 'Oral Histories: The Inevitables, 2022-09-16'
   - 'Oral Histories: The Inevitables, 2025-09-21'
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Item · Blade · Holy relic of the Temple of Neptune · Stolen**

@@ -32,6 +32,8 @@ image:
   src: /images/generated/the-bleak-cabal.webp
   alt: "The Bleak Cabal at the Gatehouse"
   caption: "Lexical rendering of healers tending rows of the sick in a hospital hall inside a great gatehouse."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Faction · [Sigil](/places/sigil/) · Hospital and welfare · Faction ally of the party**

@@ -45,6 +45,8 @@ gallery:
 - src: /images/gallery/2026-02-26-08.webp
   alt: The BioTec entrance
   caption: A glowing white BioTec sign above a sealed blue door, with striped security barriers on the pavement in front.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Corporate infiltration · BioTec Sharn facility, Upper Central District · Sharn Ep 1**

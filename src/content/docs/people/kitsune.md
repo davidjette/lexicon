@@ -63,6 +63,8 @@ gallery:
   - src: /images/gallery/2026-08-10-03.webp
     alt: Gemma's dream of the fountain
     caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Archfey · Warlock patron of Gemma Corso · Active**

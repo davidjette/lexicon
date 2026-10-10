@@ -26,6 +26,8 @@ sources:
 - "JL's DM notes: Starfall Notes - Barrias' Nightmare session"
 - "Oral Histories: The Inevitables, 2023-04-22"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **Hippo-Gith · Captain, [Astral Command](/organizations/astral-command/) · Veteran of Negroni Prime · Alive**

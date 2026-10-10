@@ -34,6 +34,8 @@ sources:
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
   - 'Oral Histories: The Inevitables, 2025-05-17'
+campaigns:
+  - starfall-tng
 ---
 
 **Autognome · The Red Eye · The Starsong Awakens · Status unknown**

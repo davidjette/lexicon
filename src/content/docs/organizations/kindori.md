@@ -26,6 +26,8 @@ image:
   src: /images/cards/kindori.webp
   alt: 'Ally card: Kindori actual'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > This card carries no flavour text.

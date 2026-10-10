@@ -42,6 +42,8 @@ gallery:
 - src: /images/gallery/2026-02-26-03.webp
   alt: The Veil Building
   caption: A rendered view of the Veil Building, a dark monolith bearing a red emblem and the word VEIL, towering over the Upper City.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Tower · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Iron Veil headquarters · Now the seat of Sharn's provisional government**

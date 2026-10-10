@@ -42,6 +42,8 @@ image:
   src: /images/generated/mora.webp
   alt: "Mora at the head of the Moradinate"
   caption: "Lexical rendering of giant armored dreadnoughts fording a river ahead of scorched land, with a lone figure in silhouette on the foremost one."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Infanta · At the head of the Moradinate, an army of orcs and dwarves · Opponent at the Battle of the River Lis · Fate unknown**

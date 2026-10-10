@@ -33,6 +33,8 @@ image:
   src: /images/generated/the-dhakaani-empire.webp
   alt: "A Dhakaani chamber beneath Sharn"
   caption: "Lexical rendering of three small figures entering a webbed ancient stone hall guarded by a stone golem and giant spiders."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Goblinoid empire · Western Khorvaire · c. 16,000 to 5,000 years ago · Fallen**

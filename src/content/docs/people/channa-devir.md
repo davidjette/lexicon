@@ -44,6 +44,8 @@ image:
   src: /images/generated/channa-devir.webp
   alt: "Channa Devir convening a compromise"
   caption: "Lexical rendering of a small elderly gnome seen from behind at the head of a long table, presiding over two opposing parties and a written agreement."
+campaigns:
+  - unforeseen
 ---
 
 **Gnome · Wizard · House Sivis (banned) · Speakers Guild · Likely leader of the Rebel Alliance · Level Unknown · Alive**

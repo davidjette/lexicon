@@ -38,6 +38,8 @@ image:
   src: /images/generated/the-mundi.webp
   alt: "The Mundi"
   caption: "Lexical rendering of white elves dwelling inside great oaks grown around crystals, with carved balconies, a spiral stair of branches, a beam of soft light and a king on an oaken throne."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 The **Mundi** — the moon people — are the white moon-elves of [Motherstone](/places/motherstone/), who dwell inside the city's great oaks and call themselves the protectors of its crystal gardens. They have lived there for many centuries under a king, **Chad**, watcher of the stones and destroyer of [Drek](/organizations/the-drek/), holding a protective diadem against a prophecy. They cannot name who built the city, who carved its stones, or who made its guardians.

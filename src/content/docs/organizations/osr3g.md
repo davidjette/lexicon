@@ -39,6 +39,8 @@ image:
   src: /images/generated/osr3g.webp
   alt: "OSR3G, the grey cloaks"
   caption: "Lexical rendering of hooded figures in grey cloaks standing guard outside a sealed cell that holds a one-eyed floating prisoner."
+campaigns:
+  - starfall-tng
 ---
 
 **Secret intelligence corps · [Astral Command](/organizations/astral-command/) · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Active**

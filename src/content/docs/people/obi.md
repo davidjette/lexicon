@@ -57,6 +57,8 @@ gallery:
   - src: /images/cards/obi.webp
     alt: 'Ally card: Obi, Infanta of Order'
     caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Vera is led into the Observatory where Obi is slumped over a desk covered in star charts. She sets a package of clothes and food and drawing supplies next to him, sits down and starts to rub his face. St. Cloud enters and she frowns at him. "Obi is not safe with these people."

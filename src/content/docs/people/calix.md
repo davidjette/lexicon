@@ -88,6 +88,8 @@ image:
   src: /images/cards/calix.webp
   alt: 'Ally card: Calix'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Elf wizard · Lich (*baelnorn*) · Archmage · House Gallidann, then Queen Maab · Betrayer of Motherstone · Later advisor to the Infanta · Ally at the Egg**

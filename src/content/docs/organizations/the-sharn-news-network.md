@@ -40,6 +40,8 @@ image:
   src: /images/generated/the-sharn-news-network.webp
   alt: "Tim Raisins reading the news for the Sharn News Network"
   caption: "Lexical rendering of a young half-elf news anchor at a desk in a red-lit studio, seen on a glowing crystal screen watched by figures in a dim room."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **News broadcaster · Sharn · Imperial media · Anchor: Tim Raisins**

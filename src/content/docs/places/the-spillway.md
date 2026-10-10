@@ -51,6 +51,8 @@ image:
   src: /images/generated/the-spillway.webp
   alt: "The Spillway"
   caption: "Lexical rendering of a sewer chamber where black tendrils spread from a dark portal in a floor drain while small figures watch from the entrance."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Dungeon · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Rotten William's hideout · Plague portal closed**

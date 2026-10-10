@@ -54,6 +54,8 @@ gallery:
   - src: /images/gallery/2026-05-02-01.webp
     alt: The party before the Forge of Binding
     caption: Sir Dario Argentino, Eric the Cleric and Gemma Corso stand before the Forge of Binding as a red, burning figure rises from its fire between braziers of blue flame.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 # The Forge of Binding

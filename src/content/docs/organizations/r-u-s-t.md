@@ -56,6 +56,8 @@ gallery:
 - src: /images/gallery/2026-03-27-01.webp
   alt: R.U.S.T. communication necklace
   caption: 'A silver pendant on a chain: a crosshair medallion ringed with binary digits and four points. It is the R.U.S.T. communication necklace Locke Pierce gives the trio.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Survival network · The Cogs and the undercity, Sharn · Active**

@@ -43,6 +43,8 @@ gallery:
 - src: /images/documents/rolands-cube-key.webp
   alt: An ornate silver key set with bronze gears and a clear stone
   caption: The Key, from the item document. The Cube cannot be deactivated without it.
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Wonderous Object · Polarized moonstone · Built by Roland Deschain with the Deepmaker of Motherstone · Three charges · Totally unique**

@@ -50,6 +50,8 @@ gallery:
 - src: /images/gallery/2026-03-23-05.webp
   alt: Clearing the Drain Snakes' lair
   caption: Eric the Cleric and Gemma Corso brawl with bald gang members on the wooden platform while Sir Dario Argentino duels a cloaked fighter and a man in a feathered red hat faces the giant worm, with a captive chained behind them.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Gang · the northern sewers and the Sub-line District undercity, Sharn · Destroyed**

@@ -39,6 +39,8 @@ image:
   src: /images/starsong/terrasque.webp
   alt: "A Terrasque-class ship"
   caption: "A Terrasque-class ship, from the New ships page of The Starsong Awakens site"
+campaigns:
+  - starfall-tng
 ---
 
 **Ship · The Starsong Awakens · Armed with the Eye of Ao Cannon**

@@ -56,6 +56,9 @@ image:
   src: /images/generated/the-sororia.webp
   alt: "The Sororia"
   caption: "Lexical rendering of masked nuns and acolytes in a towering cathedral of abstract geometric patterns, with a silver candle burning on a mosaic altar."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Priestly sisterhood · Devotees of Cypher · [Sigil](/places/sigil/) · Keepers of [the Lexicon](/items/the-lexicon/)**

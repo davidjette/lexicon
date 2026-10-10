@@ -47,6 +47,8 @@ image:
   src: /images/gallery/2026-09-03-03.webp
   alt: "Esther's wedding gift"
   caption: "A spiked black crystalline object with a glowing red heart floats in a dark room framed by gold pillars."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Material classification · Three named varieties · Delivered as lore by Sir Dario Argentino · Contested at the margins**

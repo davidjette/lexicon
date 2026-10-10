@@ -36,6 +36,8 @@ image:
   src: /images/generated/tralfamadore-iii.webp
   alt: "Northspire on Tralfamadore III"
   caption: "Lexical rendering of a small old-fashioned seaside village with a galleon resting in the water at its docks."
+campaigns:
+  - starfall-tng
 ---
 
 **Planet · Trafalmadorespace · *Light of Xaryxis* · Unsettled**

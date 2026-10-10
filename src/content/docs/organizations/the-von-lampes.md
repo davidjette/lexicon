@@ -52,6 +52,8 @@ image:
   src: /images/generated/the-von-lampes.webp
   alt: "The Von Lampe twins"
   caption: "Lexical rendering of blond twins in finery lounging on a velvet couch, touching wine glasses with bored, sneering faces."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Noble family · [Waterdeep](/places/waterdeep/) · Owners of [Tiffany House](/places/tiffany-house/) · Pactbound to [Asmodeus](/people/asmodeus/) · Voided**

@@ -54,6 +54,8 @@ image:
   src: /images/generated/maximillien.webp
   alt: "Maximillien"
   caption: "Lexical rendering of a bearded courtier in plain dark clothing reading documents at a court of more richly dressed nobles."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 <small>For the Purple Dragon garrison in Waterdeep, see [Fort Maximillien](/places/fort-maximillien/).</small>

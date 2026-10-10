@@ -44,6 +44,8 @@ image:
   src: /images/gallery/dmh-darius-klaxon.webp
   alt: "Darius Klaxon at chess with Nicollo"
   caption: "Darius Klaxon broods over a chessboard by candlelight as Nicollo makes a move."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Heir to [Tiffany House](/places/tiffany-house/) · [Waterdeep](/places/waterdeep/) · Son of [Phillip Klaxon](/people/phillip-klaxon/)**

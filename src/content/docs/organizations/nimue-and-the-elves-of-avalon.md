@@ -35,6 +35,8 @@ image:
   src: /images/cards/nimue-and-the-elves-of-avalon.webp
   alt: 'Ally card: Nimue and the Elves of Avalon'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Seeing the rise of the Netherese and with forewarning of the coming of the Infanta, Nimue searched for a human king who could engender a rival to Netheril and create a culture of peace and justice.

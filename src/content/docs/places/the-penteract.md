@@ -51,6 +51,8 @@ wa:
 image:
   src: /images/maps/41-the-penteract-overview.webp
   alt: "Map: The Penteract — Overview"
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Five-dimensional labyrinth · Built around the fragment at the Heart of Dis · Passable only by the dead**

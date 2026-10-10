@@ -47,6 +47,8 @@ gallery:
 - src: /images/gallery/2026-02-26-15.webp
   alt: The Heinrick family
   caption: Henry Heinrick in braces and tie, Hillary Heinrick in a long red dress, and their daughter Chelsea in a blue dress pose for a family portrait.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Child · The Heinrick household, Sharn · Fate unrecorded**

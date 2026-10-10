@@ -46,6 +46,8 @@ image:
   src: /images/gallery/2026-09-02-01.webp
   alt: "The battle at Zilspar Farm"
   caption: "On a burning, corpse-strewn field, a bearded man in a red coat with a shield, a dragonborn swinging a warhammer and a woman with a blade fight grey armoured undead soldiers."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Massacre and arson · Zilspar Farm 02, the Breland farmsteads outside Sharn · Korth Ep 12**

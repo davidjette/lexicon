@@ -31,6 +31,8 @@ sources:
 - CANON.md 5ac
 - sources/dave/2026-09-14-heyu-and-feng.md
 published: '2026-09-14'
+campaigns:
+  - dead-mans-hand
 ---
 
 **Tattoos · Marks of Istus · Borne by the party of Dead Man's Hand**

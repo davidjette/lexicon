@@ -36,6 +36,9 @@ published: '2026-09-10'
 wa:
   slug: arcane-harmonics-technology
   category: 9f2b29d9-f2bc-4f7c-b939-488cb059fa7f
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Discipline · Elvish in origin · Dwarven in mastery · A weapon of the war against the dragons · Named by Bofric of the Teryaki**

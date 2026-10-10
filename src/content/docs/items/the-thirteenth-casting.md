@@ -59,6 +59,8 @@ gallery:
 - src: /images/gallery/2026-08-27-01.webp
   alt: Dario breaks the Thirteenth Casting
   caption: In a smoke-filled hall a dragonborn swings a great warhammer toward a bell on a platform while two figures reel with their hands over their ears and the dead rise. Dario breaks the Thirteenth Casting with Knell.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Unique Artifact · Great casting the thirteenth · Korranberg Foundry Trust · Rung twice · DESTROYED**

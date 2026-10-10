@@ -61,6 +61,8 @@ image:
   src: /images/generated/house-weathervein.webp
   alt: "House Weathervein"
   caption: "Lexical rendering of an ancient tomb chamber with a fresco of storm angels over the sea and a ghostly woman above a stone casket."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Dynasty · Feudal house and trading cartel · The Azure Sea coast, Oerth · Fallen**

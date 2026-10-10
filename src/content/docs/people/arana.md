@@ -40,6 +40,8 @@ image:
   src: /images/portraits/arana.webp
   alt: 'Arana, a fair-skinned elf with long silver hair and green eyes, a crescent moonstone at her throat, in a long dark coat with a longbow and quiver on her back'
   caption: 'Arana in the Temple Holdings party portrait'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Elf · Priestess of Avalon · Temple Holdings LLC · Player character (Kathy)**

@@ -67,6 +67,8 @@ gallery:
 - src: /images/gallery/2025-10-12-02.webp
   alt: Blue-skinned horned woman in a laboratory
   caption: A blue-skinned, white-haired horned woman in dark armour with a mechanical arm holds a knife in a bright laboratory full of specimen tanks.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Tiefling · Undead-Warforged Hybrid, Prototype Unit EDN-00 · Project E.D.E.N./Iron Veil · Deployed · Dead, and walking**

@@ -64,6 +64,8 @@ gallery:
 - src: /images/gallery/2026-03-23-06.webp
   alt: Renn Tal and Doppler Klink fight sewer rats
   caption: Renn Tal, in her red waistcoat, and the grey-haired Doppler Klink, with his mechanical leg, send a crackle of purple magic into a pack of rats in a sewer tunnel.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Cogborn · Tinkerer · Last War veteran · Alive, departed Sharn**

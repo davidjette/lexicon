@@ -47,6 +47,8 @@ sources:
   - sources/sessions/dead-mans-hand-2026-09-26-summary.md
   - Desktop/D&D/Dead Mans Hand/tarot readings.xlsx
 published: '2026-09-14'
+campaigns:
+  - dead-mans-hand
 ---
 
 **Tiefling (reincarnated) · Barbarian · Hanged at Fort Maximillien, raised in Undermountain · Alive**

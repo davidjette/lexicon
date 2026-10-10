@@ -50,6 +50,9 @@ gallery:
 - src: /images/gallery/2026-09-07-06.webp
   alt: The midnight meeting with Armhair and Jelton Ahn
   caption: On a rain-wet plaza at night, the disguised trio meet an old man in blue robes and a lion-headed scholar in brown. Armhair returns at midnight with the Leonin scholar Jelton Ahn.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Half-elf · Loremaster of the Hall of Records · Adviser to the Imperial court on dragon lore · Alive, departing for the Korramont**

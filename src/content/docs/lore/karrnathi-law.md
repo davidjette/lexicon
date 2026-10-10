@@ -35,6 +35,8 @@ image:
   src: /images/gallery/2026-09-07-03.webp
   alt: "The condemned before the High Court"
   caption: "In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Concept · Jurisprudence of the Kingdom of Karrnath · Administered from the Ministry of Law, [Korth](/places/korth/)**

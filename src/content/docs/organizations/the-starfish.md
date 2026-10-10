@@ -22,6 +22,8 @@ fields:
   status: Unknown
 sources:
   - "JL's DM notes: Slatmarsh: Greyhawk sessions"
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Youth gang · [Saltmarsh](/places/saltmarsh/) · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/)**

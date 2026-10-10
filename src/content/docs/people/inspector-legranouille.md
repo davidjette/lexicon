@@ -47,6 +47,8 @@ gallery:
   - src: /images/album/dario-and-inspector-legranouille-city-of-newham.webp
     alt: 'Dario and Inspector LeGranouille - City of Newham'
     caption: 'Dario and Inspector LeGranouille - City of Newham'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Disguise of John C. LeBeefe · Inspector · Travelled with the trio · Dead, as LeBeefe**

@@ -49,6 +49,8 @@ published: '2026-09-10'
 wa:
   slug: the-liberation-of-leef-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Insurrection · Leef, eastern Khorvaire · Before the Sharn arc**

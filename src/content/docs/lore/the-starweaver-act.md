@@ -51,6 +51,8 @@ sources:
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): Home"
 - "The Starsong Awakens site (JL Byrd): Red Eye Manifesto"
+campaigns:
+  - starfall-tng
 ---
 
 **Law · The Sovereignty of Realms · In force in The Starsong Awakens**

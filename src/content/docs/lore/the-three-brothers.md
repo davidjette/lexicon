@@ -51,6 +51,8 @@ image:
   src: /images/generated/the-three-brothers.webp
   alt: "The Three Brothers"
   caption: "Lexical rendering of three merchant brothers around a bonfire of burning books, one reaching for a single black book that did not burn."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Fairy tale · Told across Faerûn · True**

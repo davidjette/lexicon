@@ -118,6 +118,8 @@ published: '2026-09-10'
 wa:
   slug: starfall3A-the-next-generation-article
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+campaigns:
+  - starfall-tng
 ---
 
 **Spelljammer campaign · About five thousand years after the Ages of the Infanta · Two arcs, 2022–2025 · Canon**

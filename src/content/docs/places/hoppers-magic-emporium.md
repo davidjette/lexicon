@@ -38,6 +38,8 @@ gallery:
   - src: /images/gallery/2026-05-09-03.webp
     alt: At Hopper's Magic Emporium
     caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino at the counter of a cluttered magic shop, where a frog-like shopkeeper holds up a scroll among potions and curios.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Shop · [Sub-line District](/places/sub-line-district/), [Lower City](/places/the-lower-city/) · Magic shop · Standing and expanding**

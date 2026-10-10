@@ -67,6 +67,9 @@ gallery:
 - src: /images/gallery/2026-05-09-08.webp
   alt: Blair interrogates an Iron Veil prisoner
   caption: 'A horned woman in a long coat stands over a kneeling prisoner in red armour in a vault of treasure chests, watched by Gemma Corso, Eric the Cleric and Sir Dario Argentino: Blair questioning the captured Iron Veil soldier.'
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Female Tiefling · Queen of the Underhive · Sovereign of the undercity, Sharn · Alive**

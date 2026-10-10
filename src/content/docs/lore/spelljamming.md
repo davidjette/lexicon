@@ -67,6 +67,8 @@ image:
   src: /images/starsong/gnat.webp
   alt: "The Gnat"
   caption: "The Company's Gnat, from the New ships page of The Starsong Awakens site"
+campaigns:
+  - starfall-tng
 ---
 
 **Magic of space travel · Helms and jam drives · Starfall**

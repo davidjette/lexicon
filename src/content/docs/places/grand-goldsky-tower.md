@@ -39,6 +39,8 @@ gallery:
   - src: /images/gallery/2026-05-10-01.webp
     alt: Most-viewed ArcEye feed in Sharn
     caption: 'An ArcEye view over Sharn''s Upper City at night: neon-lit towers and a tall statue with outstretched arms under a stormy sky.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Tower · [GoldSky Neighborhood](/places/goldsky-neighborhood/), [Upper City](/places/the-upper-city/) · The largest tower in Sharn · Standing**

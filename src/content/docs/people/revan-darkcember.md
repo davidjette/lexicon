@@ -83,6 +83,9 @@ gallery:
 - src: /images/minis/revan-darkcember-1.webp
   alt: 'Revan''s miniature: render with a spear over his shoulder'
   caption: 'Revan''s miniature: render with a spear over his shoulder (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Masked Lord of Waterdeep as "the Panther" · Thane of Punis · Called "The Tempest" in the Company's files · Sable's brother · Vanished from view**

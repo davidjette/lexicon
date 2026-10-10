@@ -34,6 +34,8 @@ image:
   src: /images/generated/episode-3-a-b-c-massacre-on-the-talenta-plains-express-dm-dave.webp
   alt: "The battle on the Talenta Plains Express"
   caption: "Lexical rendering of a train crossing open plains while soldiers, passengers and rebels fight inside its carriages."
+campaigns:
+  - unforeseen
 ---
 
 **The Unforeseen · Campaign 1 · Episode 3 (a,b,c) · DM: Dave · Report filed 11 Sep 2020**

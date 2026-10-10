@@ -37,6 +37,9 @@ sources:
 - "Oral Histories: The Inevitables, 2026-02-14"
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 published: '2026-09-14'
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Drug · Circulated in New Cyre and Newham · Studied at the University of Newham · In Imperial use**

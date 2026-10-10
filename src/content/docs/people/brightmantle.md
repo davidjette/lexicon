@@ -71,6 +71,8 @@ image:
   src: /images/gallery/brightmantle-symbol-2e.webp
   alt: "The symbol of Dugmaren Brightmantle"
   caption: "The open book, symbol of Dugmaren Brightmantle, drawn by Ned Dameron for Demihuman Deities (1998), page 57. © Wizards of the Coast."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Dwarf · God of Discovery and Invention · the second Infanta · the dwarven king who built Motherstone · Dead (Arc VII)**

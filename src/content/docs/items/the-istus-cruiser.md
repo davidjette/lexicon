@@ -41,6 +41,8 @@ image:
   src: /images/starsong/ssj-vanguard.webp
   alt: "The SSJ Vanguard"
   caption: "The SSJ Vanguard, an Istus-class clipper, from the Company dossier"
+campaigns:
+  - starfall-tng
 ---
 
 **Cruiser · The Starsong Awakens · Stolen · Crewed by devotees of the Red Eye**

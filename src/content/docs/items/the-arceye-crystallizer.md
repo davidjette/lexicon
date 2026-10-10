@@ -33,6 +33,8 @@ published: '2026-09-10'
 wa:
   slug: the-arceye-crystallizer-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Memory extraction and archival device · BioTec manufacture · Standard equipment of ArcEye Surveillance · One lens recovered from Circuit City, Sharn Ep 13**

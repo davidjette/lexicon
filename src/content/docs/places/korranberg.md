@@ -32,6 +32,8 @@ published: '2026-09-10'
 wa:
   slug: korranberg-location
   category: c7f60fd8-ed17-4a1c-87a2-3da801df6645
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **One-road mining town - foothills of the King's Forest, beneath the Korramont**

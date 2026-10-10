@@ -30,6 +30,8 @@ sources:
   - sources/sessions/dead-mans-hand-illustration-briefs.md
   - sources/dave/2026-10-09-dead-mans-hand-session-articles.md
 published: '2026-10-09'
+campaigns:
+  - dead-mans-hand
 ---
 **Session of [Dead Man's Hand](/lore/dead-mans-hand/) · [Fort Maximillien](/places/fort-maximillien/), [Waterdeep](/places/waterdeep/) · Played about 21 March 2026 · Episode number estimated**
 

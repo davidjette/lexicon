@@ -36,6 +36,8 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - sources/dave/2026-09-14-inevitables-rulings-batch.md
 published: '2026-09-14'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Elvish noble houses · Aerenal and Khorvaire · Remnants of House Vol · Active**

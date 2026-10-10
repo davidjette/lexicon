@@ -42,6 +42,8 @@ gallery:
 - src: /images/gallery/dmh-heyu-in-the-mortuary.webp
   alt: "Heyu among the Dustmen"
   caption: "Heyu bows over a candlelit desk in the Mortuary, ringed by hooded Dustmen."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Faction headquarters · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Dustmen · Standing**

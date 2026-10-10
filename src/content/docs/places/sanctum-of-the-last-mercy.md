@@ -44,6 +44,8 @@ gallery:
   - src: /images/gallery/2026-09-03-07.webp
     alt: Before the crated bell
     caption: Gemma Corso, Eric the Cleric and Sir Dario Argentino, warhammer in hand, stand before the great bell in its straw-packed crate. The first bell sits crated in the unfinished tower above the hospital.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Hospital · [GoldSky Neighborhood](/places/goldsky-neighborhood/), [Upper City](/places/the-upper-city/) · Black Dove foundation · SEIZED**

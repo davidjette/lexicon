@@ -95,6 +95,9 @@ gallery:
   - src: /images/chat/2022-07-12-1494504800985753.webp
     alt: Dolores Weathervein as a mermaid with a trident and a blue crystal
     caption: 'Sea form Dolores: Nico''s miniature'
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Aasimar · Cleric, sorcerer and hexblade of Weathervein · Priestess of Neptune · Neptune's Rejects · Dead**

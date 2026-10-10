@@ -52,6 +52,8 @@ gallery:
   - src: /images/chat/2024-05-03-1099651471068892.webp
     alt: Robed simian sorcerer
     caption: A monkey in dark robes and a tall hood casts magic in front of a swirling galaxy among floating wreckage.
+campaigns:
+  - starfall-tng
 ---
 
 **Monkey · Necromancer · Science department, Astral Command · Dead**

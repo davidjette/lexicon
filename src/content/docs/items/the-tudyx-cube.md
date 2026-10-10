@@ -54,6 +54,9 @@ image:
   src: /images/generated/the-tudyx-cube.webp
   alt: "A Tudyx Cube"
   caption: "Lexical rendering of a silver filigree puzzle box with a smaller cube inside it, on a wooden table."
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 **Item · Puzzle box · Invented by Dae, the Infanta of Puzzles · Named for House Tudyx of Cormanthor**

@@ -62,6 +62,8 @@ image:
   src: /images/chat/2024-10-26-1786087512129249.webp
   alt: "The Five Zanzibars"
   caption: "TaleSpire capture of five character miniatures, including a crowned king and a sword-bearing warrior, on a red-lit floor."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Royal house of Punis, then imperial dynasty of Faerûn · The Glass Throne, Suzail · Contested in the War of the Five Zanzibars**

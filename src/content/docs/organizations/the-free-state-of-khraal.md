@@ -33,6 +33,8 @@ image:
   src: /images/gallery/free-state-of-khraal-map-detail.webp
   alt: "The Free State of Khraal on the map of Khorvaire"
   caption: "The Free State of Khraal on the south coast between Darguun-Zilargo and Valenar, a detail of the map of Khorvaire."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Nation · the Khraalish peninsula, Darguun-Zilargo · Free and independent; member of the rebel alliance**

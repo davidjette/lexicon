@@ -58,6 +58,8 @@ gallery:
 - src: /images/album/sister-nora-and-biotec-dr-working-on-project-eden-alt.webp
   alt: 'Sister Nora and BioTec Dr. working on Project EDEN (alternate render)'
   caption: 'Sister Nora and BioTec Dr. working on Project EDEN (alternate render)'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Cleric of the Black Doves · Sanctum of the Last Mercy, Sharn · The Empire · DEAD — tried and executed, Sharn Ep 19**

@@ -38,6 +38,8 @@ gallery:
 - src: /images/album/the-hall-of-submission.webp
   alt: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
   caption: 'The Outside of the Hall of Submission in the Imperial capital of Korth - Korth Episode: The Listening Post'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Landmark · South side of [Korth](/places/korth/) · Open to the public**

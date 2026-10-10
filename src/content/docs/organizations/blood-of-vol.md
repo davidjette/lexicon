@@ -35,6 +35,8 @@ wa:
   slug: blood-of-vol-organization
   uuid: 9e0ac70d-41c1-43b2-9944-ab1ca52bae98
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Religious cult · Human, merchant-class and city-guard base · Active, and not what its own members think it is**

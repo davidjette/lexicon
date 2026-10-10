@@ -55,6 +55,8 @@ image:
   src: /images/generated/cob-cornwell.webp
   alt: "Cob Cornwell"
   caption: "Lexical rendering of a silhouetted industrialist, seen from behind, overlooking a large oil extraction works with a rail line beyond."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Brelish oilman and industrialist · Richest man in Khorvaire · Level Unknown · Dead — killed, his fortune left to BioTec; a message later came in his name**

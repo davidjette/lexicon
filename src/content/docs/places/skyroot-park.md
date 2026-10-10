@@ -41,6 +41,8 @@ gallery:
 - src: /images/gallery/2026-02-26-01.webp
   alt: Skyroot Park
   caption: 'A rendered view of Skyroot Park: suspended gardens and trees among the towers of Sharn''s Upper City, with a statue on a far spire.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Park · [Upper City](/places/the-upper-city/), [Sharn](/places/sharn/) · Suspended parkland · Standing**

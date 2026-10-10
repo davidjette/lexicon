@@ -44,6 +44,8 @@ published: '2026-09-10'
 wa:
   slug: the-cogs-location
   category: 0c0da159-b605-4821-ab38-05de380408c4
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **District · [Lower City](/places/the-lower-city/), southwest · Industrial slum · Largely evacuated · Standing**

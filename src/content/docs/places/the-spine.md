@@ -42,6 +42,8 @@ gallery:
   - src: /images/gallery/2026-03-30-03.webp
     alt: Dario leads the Cogborn through the tunnels
     caption: Sir Dario Argentino rides his black panther at the head of a long column of Cogborn families through a lamplit tunnel.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Tunnel · beneath [Sharn](/places/sharn/), within [the Underhive](/organizations/the-underhive/) · Evacuation route · Open**

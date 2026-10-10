@@ -77,6 +77,8 @@ gallery:
 - src: /images/gallery/dmh-heyu-and-feng.webp
   alt: "Heyu at tea"
   caption: "Heyu sits at tea with Brother Montegue, the Factol of the Sororia, the puzzle box between them."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Kenku · Investigator wizard · Follower of Cypher · Private detective · Alive**

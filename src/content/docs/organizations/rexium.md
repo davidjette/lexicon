@@ -36,6 +36,8 @@ image:
   src: /images/generated/rexium.webp
   alt: "A Rexium sales meeting"
   caption: "Lexical rendering of a small crowd wearing golden pyramid charms facing a speaker on a stage in a converted barn."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Sales guild · [Waterdeep](/places/waterdeep/) · Leader [Rex Bedsheets](/people/rex-bedsheets/) · Active**

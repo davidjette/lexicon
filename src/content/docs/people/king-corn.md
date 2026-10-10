@@ -47,6 +47,8 @@ published: '2026-09-10'
 wa:
   slug: king-corn-of-the-deeptempura-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Duergar (deep dwarf) · King of the Deeptempura · House Deeptempura · Dead**

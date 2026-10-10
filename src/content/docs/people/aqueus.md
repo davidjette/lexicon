@@ -52,6 +52,9 @@ image:
   src: /images/generated/aqueus.webp
   alt: "Aqueus, the Drowned Seraph"
   caption: "Lexical rendering of a figure pinned by a sword to a faintly glowing tomb on the sea floor, with divers descending toward it."
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Seraph · Seraph of Poseidon · High priest · Protector of Saltmarsh · Dead, desecrated**

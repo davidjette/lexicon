@@ -104,6 +104,8 @@ gallery:
 - src: /images/minis/kara-3.webp
   alt: 'Kara''s miniature: render with staff and the mouse on her hand'
   caption: 'Kara''s miniature: render with staff and the mouse on her hand (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Human · Sorcerer 16 / Wizard 2 · Temple Holdings LLC · Level 18 · Alive**

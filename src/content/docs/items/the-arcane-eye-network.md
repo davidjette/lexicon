@@ -49,6 +49,8 @@ gallery:
 - src: /images/gallery/2026-05-10-05.webp
   alt: Dual-view ArcEye feed
   caption: A wide ArcEye view of a lit pagoda-like tower and glass-roofed terraces above the dark city.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Imperial surveillance infrastructure · Implemented \~10 years ago · Operational control: the Iron Veil, Sharn Division · Head of Security: Hillary Heinrick · Active throughout the Sharn arc**

@@ -39,6 +39,8 @@ sources:
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 - "JL's DM notes: Starfall Awakens Notes"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **Information network · Astral Command · Starfall**

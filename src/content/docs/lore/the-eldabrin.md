@@ -40,6 +40,8 @@ sources:
 - "Oral Histories: The Inevitables, 2022-09-23"
 - "Oral Histories: The Inevitables, 2022-09-24"
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Antagonist · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · The temple of the Eldabrin**

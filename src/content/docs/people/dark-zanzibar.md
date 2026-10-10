@@ -61,6 +61,8 @@ image:
   src: /images/gallery/dark-zanzibar-detail.webp
   alt: "Dark Zanzibar"
   caption: "Dark Zanzibar, white-haired and scarred in black armour, chin on his fist before a window of stars, a detail of the picture of him with Stonecypher."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Species unknown · Zanzibar of another loop · Temple Holdings LLC · Player character (JL) · Erased**

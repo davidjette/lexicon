@@ -41,6 +41,8 @@ gallery:
   - src: /images/gallery/2026-03-17-01.webp
     alt: An airship over the Ziggurat
     caption: 'A long black airship hovers over the stepped Ziggurat at the heart of the Lower City while crowds fill the plaza below and crystallizer screens glow on the towers: Esther Crona''s airship, the Black Veil, above the Ziggurat as broadcast at the end of the episode.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Commercial complex · [City Center](/places/city-center/), [Lower City](/places/the-lower-city/) · Markets and arena · Standing**

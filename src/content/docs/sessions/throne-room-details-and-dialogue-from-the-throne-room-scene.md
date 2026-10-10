@@ -30,6 +30,8 @@ image:
   src: /images/generated/throne-room-details-and-dialogue-from-the-throne-room-scene.webp
   alt: "The throne room scene before Emperor Kaius III"
   caption: "Lexical rendering of four figures standing in a hall of gold and red before a veiled, red-eyed man on a golden throne, as a hooded figure descends the stairs toward them."
+campaigns:
+  - unforeseen
 ---
 
 **Appendix to [Episode 9 "The Dig Site / Throne Room" DM: Nico](/sessions/episode-9-the-dig-site-throne-room-dm-nico/) · Campaign 1 · DM: Nico**

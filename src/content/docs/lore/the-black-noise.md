@@ -41,6 +41,9 @@ image:
   src: /images/gallery/2026-07-12-19.webp
   alt: "Dossier: The Black Noise"
   caption: "A prop document page from the Mt. Silicon Archive, HB-CHORUS-13 leaf two, headed \"Sec. 03 The Black Noise\", with boxed notes titled \"Silence does not stop it\", \"The living unravel\" and \"The dead wake\"."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Arcane phenomenon · Polyphase emission · Continental range · Penetrates rock to hundreds of feet · Not stopped by silence**

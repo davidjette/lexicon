@@ -47,6 +47,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **Tomb · *The Starsong Awakens* · Location unknown**

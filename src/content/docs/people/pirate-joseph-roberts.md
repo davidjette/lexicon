@@ -46,6 +46,9 @@ wa:
   slug: pirate-joseph-roberts-person
   uuid: 7a01d03f-2062-45cf-8642-42cdd60cadcf
   category: 25384e32-6c51-426d-8263-5535b8295114
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Pirate · Fleet commander · The Collector · Alive, and wanted**

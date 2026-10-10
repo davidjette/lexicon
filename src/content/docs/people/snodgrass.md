@@ -62,6 +62,8 @@ gallery:
 - src: /images/gallery/2026-03-29-06.webp
   alt: Snodgrass and the Cogborn
   caption: Snodgrass, grinning under his red cap, dangles a rat for a small boy while a grey-haired man and a red-bearded man look on in a brick tunnel.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Goliath · Ranger · Tunnel scout and Cogborn protector · Alive**

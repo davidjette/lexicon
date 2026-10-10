@@ -58,6 +58,8 @@ gallery:
   - src: /images/gallery/2025-08-26-01.webp
     alt: The Unforeseen Strike Back poster
     caption: 'A pulp-style poster titled The Unforeseen Strike Back: a red-haired horned woman, a bespectacled cleric holding books and a dragonborn with a flaming sword, with a spiked bald brute looming behind them over a sea of tentacles.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Adventuring company · Founded in Leef · Active · Level 12**

@@ -55,6 +55,9 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2025-11-09"
 published: '2026-09-14'
+campaigns:
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **Chronology · From the deep past to the Starfall era · Dale Reckoning, table years and intervals**

@@ -37,6 +37,9 @@ wa:
   slug: temple-of-the-closed-circle-landmark
   uuid: aa0f32cf-03de-4824-804c-816da03434ac
   category: 0c0da159-b605-4821-ab38-05de380408c4
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Dungeon · beneath [Sharn](/places/sharn/) · Xoriat portal site · Cleared, portal incomplete**

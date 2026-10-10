@@ -66,6 +66,8 @@ gallery:
 - src: /images/gallery/2026-01-06-05.webp
   alt: 'BioTec file: Subject Zero, Eden'
   caption: 'A restricted BioTec addendum titled "Foundational Incidents & Prototype History", describing Subject Zero: Eden (EDN-00) and a pre-BioTec incident report.'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Classified Imperial military initiative · Hybridisation programme · Operated by BioTec under Dr. Joanne Menka · Deployed into the Mournlands · Active**

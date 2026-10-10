@@ -51,6 +51,8 @@ gallery:
   - src: /images/gallery/2026-02-25-02.webp
     alt: Map of Sharn's Lower City
     caption: A district map titled "Sharn Lower City", showing the Lantern District, City Center and the Ziggurat, the Sub-Line District, the Grand Aqueduct, the Small Waterway, the Cogs, Gear St. Markets and Lowline Ward.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **District · [Sharn](/places/sharn/) · Working city · Six neighbourhoods and an aqueduct · Standing**

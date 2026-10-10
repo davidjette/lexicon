@@ -47,6 +47,8 @@ image:
   src: /images/generated/roseanne-danzig.webp
   alt: "Roseanne Danzig, princess of Cormyr"
   caption: "Lexical rendering of a veiled princess seen from behind, standing before a seated king in a candlelit castle chamber."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Princess of Cormyr · Heir of King Glenn Danzig · Wife of Zanzibar**

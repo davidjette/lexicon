@@ -62,6 +62,8 @@ gallery:
   - src: /images/chat/2024-07-27-1012598783658653.webp
     alt: Paytra at the beach
     caption: An illustration of a horned tiefling woman with teal hair and sunglasses reading a book on a beach.
+campaigns:
+  - starfall-tng
 ---
 
 **Tiefling · Fighter 5 (Battle Master) / Warlock 3 (Archfey) · Agent, Bureau of Compliance · Rebuilt as a robot**

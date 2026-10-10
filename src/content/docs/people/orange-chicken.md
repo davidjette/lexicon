@@ -39,6 +39,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-12-14'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-27'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Dwarf · Princess of the swamp tribes · The Mror Holds · Alive**

@@ -61,6 +61,8 @@ gallery:
 - src: /images/gallery/2026-05-17-01.webp
   alt: Hallorn, Lorian and Eric fight in the club
   caption: Lorian charges across a dark lounge with a glowing fist while Eric the Cleric follows with a shield and Hallorn d'Lyrandar waits in a leather coat. The confrontation comes from the fight inside the Vault Underground.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Khoravar · Engineer / Pilot · House Lyrandar · Imperial Head of Transportation · Dead**

@@ -36,6 +36,8 @@ image:
   src: /images/generated/episode-2-hell-s-bell-dm-nico.webp
   alt: "The buried room at Greenbluff"
   caption: "Lexical rendering of four figures with lanterns breaking into a buried chamber in a mine where a great bell stands."
+campaigns:
+  - unforeseen
 ---
 
 **The Unforeseen · Campaign 1 · Episode 2 · DM: Nico · Report filed 11 Sep 2020**

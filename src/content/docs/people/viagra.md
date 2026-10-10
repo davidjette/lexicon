@@ -38,6 +38,9 @@ published: '2026-09-10'
 wa:
   slug: viagra-person
   category: 25384e32-6c51-426d-8263-5535b8295114
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Dragon · The most powerful known · Vanished from the record before the elves came to Khorvaire · Status disputed**

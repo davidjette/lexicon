@@ -39,6 +39,8 @@ image:
   src: /images/generated/rodriel.webp
   alt: "Rodriel"
   caption: "Lexical rendering of a knight in sea-stained armor and a tattered cloak, seen from behind with a weathered longsword."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Paladin of Neptune · Former ruffian · Knight errant · Alive**

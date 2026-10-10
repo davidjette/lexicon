@@ -44,6 +44,8 @@ image:
   src: /images/generated/colonel-angus.webp
   alt: "Colonel Angus"
   caption: "Lexical rendering of a barrel-chested, close-cropped officer with a greatsword on his back in a fort's command room at night."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Species unknown · Colonel · [Purple Dragons](/organizations/the-purple-dragons/) · Fort Maximillien · Alive**

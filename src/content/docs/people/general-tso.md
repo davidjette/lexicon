@@ -47,6 +47,8 @@ gallery:
 - src: /images/gallery/2026-07-29-02.webp
   alt: General Tso speaks with the dead
   caption: A kneeling horned duergar casts green light over a wrapped corpse among bones, watched by Eric the Cleric in a white wig and red coat and Gemma Corso. General Tso casts speak with dead on Scallion Pancake.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Duergar (deep dwarf) · General of the Teryaki · The Teryaki clan · Alive**

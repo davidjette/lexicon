@@ -64,6 +64,8 @@ sources:
   - sources/dave/2026-09-14-five-zanzibars-and-asmodeus.md
   - sources/dave/2026-09-14-inevitables-rulings-authority-factol-tiffany.md
   - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Asmodeus is a fallen celestial, in this world, he would not have fallen yet or even be distinguishable from the greater fabric of divine creation that fills the world right now

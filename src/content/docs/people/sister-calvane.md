@@ -51,6 +51,8 @@ gallery:
 - src: /images/gallery/2026-07-29-04.webp
   alt: The undead Sister Calvane
   caption: A ghostly green undead woman in tattered robes attacks as Eric the Cleric, Gemma Corso with a sword and Sir Dario Argentino with a flaming blade close in. Deeper in the suite, the undead thrall of the real Sister Calvane attacks.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Cleric of the Black Doves · The Korranberg Foundry · The Empire · DEAD — twice, three years apart, in the same suite**

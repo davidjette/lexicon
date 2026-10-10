@@ -87,6 +87,8 @@ gallery:
   - src: /images/minis/stonecypher-2.webp
     alt: Eloise's miniature from behind
     caption: Eloise's miniature from behind (reference for the party portrait)
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Changeling · Rogue / Warlock · Temple Holdings LLC · Player character (Nico) · Obliviated**

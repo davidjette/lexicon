@@ -42,6 +42,8 @@ image:
   src: /images/generated/the-sea-ghost.webp
   alt: "The Sea Ghost"
   caption: "Lexical rendering of a sailing ship under sail, with two harpoon ballistas and a small catapult mounted on its deck."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Vehicle · Sailing ship · Neptune's Rejects · Captain Gabriella Hellwood**

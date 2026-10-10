@@ -39,6 +39,8 @@ image:
   src: /images/generated/marcy.webp
   alt: "Marcy, a mountain dwarf bard"
   caption: "Lexical rendering of a dwarf bard in leather armour, seen from behind, playing bagpipes with a rapier at the belt and a bundle of costumes at their feet."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Mountain Dwarf · Bard, Level 3 · Unaffiliated · Chaotic Good · Status unknown**

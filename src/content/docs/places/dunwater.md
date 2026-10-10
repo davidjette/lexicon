@@ -45,6 +45,8 @@ image:
   src: /images/generated/dunwater.webp
   alt: "Dunwater"
   caption: "Lexical rendering of a small party led by a kobold walking peacefully into a stronghold crowded with lizardfolk."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Place · Lizardfolk stronghold · Oerth · Ruled by Queen Okathent**

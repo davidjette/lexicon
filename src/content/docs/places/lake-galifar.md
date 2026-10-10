@@ -37,6 +37,8 @@ gallery:
   - src: /images/gallery/2026-05-12-03.webp
     alt: Map of Khorvaire with Crona's Wall
     caption: A map of Khorvaire marked with a red boundary line, showing the Uruk-Hoth Republic, Crona's Wall, Frozen Lake Galifar, the Mournland, the Grand Duchy of Newham, the New Mourning and the Free State of Khraal.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Lake · western Khorvaire · Frozen solid · Standing**

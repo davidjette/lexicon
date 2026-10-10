@@ -56,6 +56,8 @@ gallery:
 - src: /images/gallery/2026-06-27-01.webp
   alt: Charging Vex on the warship deck
   caption: Eric the Cleric, Lorian and Gemma Corso run across the deck of the Hundreds' warship toward Vex d'Lyrandar, who hangs in the air crackling with lightning.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Khoravar · Fleetmaster Admiral · House Lyrandar / Imperial Navy and Aerial Command · Dead**

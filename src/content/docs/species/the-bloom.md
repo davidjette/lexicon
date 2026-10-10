@@ -46,6 +46,8 @@ gallery:
 - src: /images/gallery/2026-07-20-06.webp
   alt: Descending into the Glitterhame
   caption: Three figures descend a stone stair into a vast cavern filled with glowing orange fungus and pale crystals.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Fungal colony / bound personality - the Glitterhame - Active**

@@ -53,6 +53,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2022-07-10'
   - 'Oral Histories: The Inevitables, 2025-07-18'
 published: '2026-09-14'
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Celestial warlock · Level 5 · Ally of [Neptune's Rejects](/organizations/neptunes-rejects/) · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/)**

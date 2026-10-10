@@ -52,6 +52,8 @@ sources:
 - sources/dave/2026-09-14-starfall-necis.md
 - "JL's DM notes: Starfall Awakens Notes"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **Storyline · [Brownsleeve City](/places/brownsleeve-city/), Selune · Played 11 July to 1 November 2024**

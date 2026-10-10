@@ -40,6 +40,10 @@ published: '2026-09-10'
 wa:
   slug: the-infantaverse-article
   category: 63bb982d-30a7-42e1-a7fd-c0d9b917d734
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **Setting · A shared world spanning four canon campaigns · Forgotten Realms / Faerûn and beyond**

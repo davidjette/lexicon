@@ -56,6 +56,8 @@ image:
   src: /images/gallery/2025-06-14-01.webp
   alt: "Starship bridge before a black hole"
   caption: "An elf woman stands on a damaged starship bridge facing a black hole as a ship passes and debris burns."
+campaigns:
+  - starfall-tng
 ---
 
 **Battle and finale · [Necis](/places/necis/) · Played 31 May 2024**

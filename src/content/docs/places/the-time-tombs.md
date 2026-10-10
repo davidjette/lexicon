@@ -53,6 +53,8 @@ gallery:
   - src: /images/chat/2024-04-20-1196891171296427.webp
     alt: Carved wall in the Time Tombs
     caption: Lexical rendering of a stone relief of a beaked, winged figure with two red eyes and a third eye on its brow.
+campaigns:
+  - starfall-tng
 ---
 
 **Tomb complex · Valley of the Time Tombs, Necis · Goal of the Shrike pilgrimage · Destroyed with Necis**

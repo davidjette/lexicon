@@ -36,6 +36,8 @@ gallery:
   - src: /images/gallery/2026-07-20-08.webp
     alt: Returning the belt to Madame Tso
     caption: In a pillared hall of carved dragons and waiting dwarves, Eric the Cleric in a white wig and red coat hands an object to a white-haired duergar woman, with Gemma Corso and Sir Dario Argentino beside him. Madame Tso Teryaki names the party grave robbers and takes back her husband's Belt of Dwarvenkind.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Throne hall - the seat of the Deeptempura, beneath the Korramont**

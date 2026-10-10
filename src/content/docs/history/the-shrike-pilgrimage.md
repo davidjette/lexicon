@@ -60,6 +60,8 @@ image:
   src: /images/generated/the-shrike-pilgrimage.webp
   alt: "The Shrike pilgrimage crossing the sea of grass"
   caption: "Lexical rendering of a sailed, wheeled vessel carrying a few travelers across an endless sea of grass."
+campaigns:
+  - starfall-tng
 ---
 
 **Pilgrimage · Necis 1 · December 2023 to May 2024**

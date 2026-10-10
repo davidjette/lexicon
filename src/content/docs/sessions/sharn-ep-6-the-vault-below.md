@@ -33,6 +33,8 @@ gallery:
   - src: /images/site/sharn-ep-6-the-vault-below-2.webp
     alt: 'Episode 6: The Vault Below'
     caption: 'Episode 6: The Vault Below'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 6 · DM: Nichole**

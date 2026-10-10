@@ -40,6 +40,8 @@ image:
   src: /images/generated/queen-pu-pu-platter-deeptempura.webp
   alt: "The sarcophagus of Queen Pu-Pu Platter Deeptempura"
   caption: "Lexical rendering of a closed royal stone sarcophagus at the heart of an underground burial gallery lit by flames and glowing crystal."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Duergar (deep dwarf) · Queen of the Deeptempura · House Deeptempura · Dead**

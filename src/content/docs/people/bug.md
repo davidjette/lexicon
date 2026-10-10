@@ -41,6 +41,8 @@ image:
   src: /images/generated/bug.webp
   alt: "Bug, the infant Hieronymus Greenblatt"
   caption: "Lexical rendering of a swaddled infant in a farmhouse room with household objects floating overhead, some of them turned to gold."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Infant · Son of the Dragon of the Dark Sea · [Ghosts of Twatmarsh](/lore/ghosts-of-twatmarsh/) · Status unknown**

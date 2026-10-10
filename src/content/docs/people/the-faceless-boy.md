@@ -24,6 +24,8 @@ fields:
 sources:
 - "Oral Histories: Temporal Holdings, 2018-07-01"
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **God · Four thousand years old · Prophet: [Brother Magnus](/people/brother-magnus/)**

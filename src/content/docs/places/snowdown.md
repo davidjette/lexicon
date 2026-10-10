@@ -48,6 +48,8 @@ wa:
 image:
   src: /images/maps/14-snowdown.webp
   alt: "Map: Snowdown"
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Snowdown** — anciently **Wain Gallidan** — is the elves' own home island in the Moonshae Isles, off the Sword Coast. It is the seat of the Cult of Elistrae, the [Lusmundii](/organizations/the-lusmundii/); the seat of [House Gallidann](/organizations/house-gallidann/); the place where the first [Infanta](/lore/the-infanta/) was born; and the island whose Snowy Mountain hides the buried city of [Motherstone](/places/motherstone/). Three of those four facts were known to its inhabitants. The fourth was not known to anyone.

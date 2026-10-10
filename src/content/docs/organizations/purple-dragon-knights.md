@@ -30,6 +30,8 @@ image:
   src: /images/cards/purple-dragon-knights.webp
   alt: 'Ally card: Purple Dragon Knights'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > The war was declared with much pomp more than four months ago, and the people of Sembia and the Dales girded their loins, only to be left waiting.

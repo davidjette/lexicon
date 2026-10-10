@@ -63,6 +63,9 @@ image:
   src: /images/gallery/dmh-general-varkus.webp
   alt: "General Peterbilt Varkus"
   caption: "Portrait of General Varkus, bald and grey-bearded in engraved plate armour, one hand on a violet-plumed helm, from the War of the Five Zanzibars primer."
+campaigns:
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 > The war is not in the field, or on the sea, cannot be overseen from the sky or from the battlements. The war is witnessed from the mind, fought in the heart, and buried in the hand of every man and woman who chooses life over death.

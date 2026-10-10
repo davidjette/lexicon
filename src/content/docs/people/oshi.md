@@ -59,6 +59,8 @@ gallery:
   - src: /images/chat/2021-09-18-211980987660376.webp
     alt: Oshi, a blue-skinned sea elf with a green bow
     caption: Nico's first miniature of Oshi
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Sea elf · Ranger · Boatswain of the Sea Ghost · [Neptune's Rejects](/organizations/neptunes-rejects/) · Dead**

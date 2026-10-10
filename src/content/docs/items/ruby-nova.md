@@ -32,6 +32,8 @@ gallery:
 - src: /images/gallery/2026-06-27-03.webp
   alt: Watching the Ruby Nova
   caption: Eric the Cleric, Gemma Corso, Lorian and an armoured companion, masked against the air, watch a vast red dome of energy rise from the horizon of a dead plain.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Weaponised recreation of the Mourning · Locke Pierce's countermeasure · Used once**

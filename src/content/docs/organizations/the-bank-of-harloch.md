@@ -34,6 +34,8 @@ sources:
 - "Oral Histories: Temporal Holdings, 2023-10-16"
 - "Oral Histories: The Inevitables, 2022-10-09"
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Bank and trust · Half-owned by [Temple Holdings LLC](/lore/temple-holdings-llc/) · Charter houses in many major cities · Persists into the far future**

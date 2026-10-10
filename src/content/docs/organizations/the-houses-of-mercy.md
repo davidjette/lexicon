@@ -40,6 +40,8 @@ image:
   src: /images/generated/the-houses-of-mercy.webp
   alt: "The Houses of Mercy"
   caption: "Lexical rendering of three novice nuns washing a great dark bell with white cloths at dawn in a cathedral crossing."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Continent-wide medical network · Former Sovereign Host foundations · Active in every major city in Khorvaire**

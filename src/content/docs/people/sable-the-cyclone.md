@@ -37,6 +37,8 @@ image:
   src: /images/cards/sable-the-cyclone.webp
   alt: 'Ally card: Sable, the Cyclone'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Half-elf monk · The Nimbus Clan · Revan's sister · Undead by the final battle**

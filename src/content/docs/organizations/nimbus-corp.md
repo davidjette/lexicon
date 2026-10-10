@@ -44,6 +44,10 @@ sources:
   - Desktop/D&D/Dead Mans Hand/images/11 1/Complete-Narrative.txt
   - Desktop/D&D/Dead Mans Hand/DM notes through 09 26/ (IMG_2978, IMG_2979, IMG_2991, IMG_3002, IMG_3009, IMG_3018, IMG_3042, IMG_3064, IMG_3066, IMG_3067, IMG_3069, IMG_3079, IMG_3081, IMG_3083, IMG_3102, IMG_3103, IMG_3104, IMG_3105)
 published: '2026-09-14'
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **Corporation · "The Company" · Successor to the St. Cloud Trading Company · Headed by Revan Darkcember until his disappearance · Active**

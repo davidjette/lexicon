@@ -66,6 +66,9 @@ gallery:
   - src: /images/gallery/2026-01-23-01.webp
     alt: Richard Blaze, full length
     caption: Richard Blaze, a horned man with a trim beard in a long dark coat and red scarf, gestures with an open hand.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Male Tiefling · Celebrity Chef and Restaurateur · Bard / Sorcerer (Draconic Bloodline — Red Dragon / Fire) · Hidden Founder of [Fulcrum](/organizations/fulcrum/) · Officially Deceased · Alive, Location Unknown**

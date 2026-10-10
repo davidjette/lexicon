@@ -33,6 +33,8 @@ image:
   src: /images/generated/the-catwalk.webp
   alt: "The Catwalk"
   caption: "Lexical rendering of a ramshackle walkway of planks, ropes and scaffolding strung between two tall slum buildings, with cat-folk keeping watch along it."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Thieves' guild headquarters · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Sharegrave's gang · Standing**

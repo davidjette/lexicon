@@ -41,6 +41,9 @@ published: '2026-09-10'
 wa:
   slug: the-mourning-militaryConflict
   category: bebfd002-8a5e-4653-908d-e7b9f4391467
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Arcane catastrophe · The kingdom of Cyre, now the Mournlands · Twenty-one years before the Imperial pageant**

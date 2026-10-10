@@ -98,6 +98,8 @@ image:
   src: /images/generated/dead-mans-hand.webp
   alt: "The company of Dead Man's Hand waking in the Mortuary"
   caption: "Lexical rendering of tattooed strangers waking on the slabs of a great mortuary hall beneath a long chute."
+campaigns:
+  - dead-mans-hand
 ---
 
 > 500 years ago, the universe faced a Crisis. A conspiracy of devils and men deposed the Queen of Death and syphoned mortal souls away from their destinies and toward their selfish ends.

@@ -47,6 +47,8 @@ image:
   src: /images/generated/lord-gregory-goldenhew.webp
   alt: "Lord Gregory Goldenhew"
   caption: "Lexical rendering of a man seen from behind at a tall window, looking out over rail lines, foundries and warehouses."
+campaigns:
+  - unforeseen
 ---
 
 **Human · General Secretary of the Imperial Trade Federation · Member of the Imperial Assembly · Level Unknown · Dead by the Sharn arc**

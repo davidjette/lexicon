@@ -82,6 +82,9 @@ image:
   src: /images/generated/saltmarsh.webp
   alt: "Saltmarsh"
   caption: "Lexical rendering of a seaside town with ships in its harbor and a sea god's temple with a fountain in its courtyard."
+campaigns:
+  - ghosts-of-twatmarsh
+  - dead-mans-hand
 ---
 
 **Place · Seaside town · Oerth · Temple of Neptune desecrated**

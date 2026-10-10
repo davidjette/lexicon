@@ -67,6 +67,9 @@ image:
   src: /images/generated/the-moon.webp
   alt: "The Moon before the Starfall"
   caption: "Lexical rendering of a night forest with glowing pools and softly shining ground, where a stag drinks while small hunters watch from the trees."
+campaigns:
+  - ages-of-the-infanta
+  - starfall-tng
 ---
 
 **Moon of Toril · A living fae world in the deep past · Struck by the Egg at the Starfall · Selune in the Starfall era**

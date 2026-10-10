@@ -40,6 +40,9 @@ image:
   src: /images/gallery/2026-09-07-03.webp
   alt: "The condemned before the High Court"
   caption: "In a black and gold courtroom, the Star Advocate faces a kneeling woman in sackcloth between two red-robed guards, judges seated in tiers around them."
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Type:** Government, Judiciary · **Seat:** northeast of the Great Plaza, Korth · **Status:** Active

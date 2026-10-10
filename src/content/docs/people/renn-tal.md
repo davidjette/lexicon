@@ -67,6 +67,8 @@ gallery:
 - src: /images/gallery/2026-03-29-10.webp
   alt: Renn Tal, Eric and Gemma by a hearth
   caption: Renn Tal, arms folded, Eric the Cleric and Gemma Corso talk in front of a blazing hearth in a tavern with hanging lanterns.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Archivist · Old Histories Wing, Sharn Library · Trusted by R.U.S.T. · Alive**

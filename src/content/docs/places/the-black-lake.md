@@ -37,6 +37,8 @@ gallery:
   - src: /images/gallery/2026-08-26-01.webp
     alt: Eric rides Valtrex over the black lake
     caption: A horned black dragon crouches over a glowing green acid lake while a man in a red coat rides its back with a mace raised. Eric teleports onto Valtrex's back and shatters his collar.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Subterranean lake and dragon lair - the bottom of the Korramont**

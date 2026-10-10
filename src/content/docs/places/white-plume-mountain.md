@@ -46,6 +46,8 @@ image:
   src: /images/generated/white-plume-mountain.webp
   alt: "White Plume Mountain"
   caption: "Lexical rendering of a lone mountain with a white plume rising from its peak, seen across forest and farmland with a small party approaching."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Dungeon · Oerth · Hold of Keraptis · The Weathervein treasure · Completed**

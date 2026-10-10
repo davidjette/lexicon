@@ -104,6 +104,9 @@ gallery:
   - src: /images/gallery/2025-12-19-04.webp
     alt: 3D figure of Gemma Corso
     caption: A rendered 3D figure of a red-haired tiefling woman with curling horns, a braid, a long red scarf and a tail, holding a short sword.
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**

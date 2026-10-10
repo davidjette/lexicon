@@ -124,6 +124,8 @@ gallery:
 - src: /images/album/sharn-theater-upper-city-sharn.webp
   alt: 'Sharn Theater - Upper City Sharn'
   caption: 'Sharn Theater - Upper City Sharn'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **City · Breland · Vertical metropolis · Formerly Imperial, now self-governing · Standing**

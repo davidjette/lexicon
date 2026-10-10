@@ -41,6 +41,8 @@ image:
   src: /images/generated/the-tomb-of-st-magnus.webp
   alt: "The Tomb of St. Magnus"
   caption: "Lexical rendering of a small party climbing toward a hidden tomb entrance in the cliffs of a rocky sea island."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Tomb · A hidden entrance on a Moonshae isle · Holds the BALANCE card · Heavily guarded**

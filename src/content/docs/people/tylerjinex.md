@@ -62,6 +62,8 @@ image:
   src: /images/generated/tylerjinex.webp
   alt: "Tylerjynex, the great copper dragon"
   caption: "Lexical rendering of a great copper dragon resting on a ledge of a snowy mountain above the clouds."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > You traveled back in time countless times, you saved me and my entire race as a child with Time Bending magic, saved the planet by moving the moon into the path of the Evening Star, left me with the greatest gift I'd ever received (the Tudix Cube), hunted the Traveler across the epochs, sacrificed yourself in multiple lifetimes, tracked me down to reignite my desire to destroy the greatest evil, solved my greatest dungeon, defeated my mortal enemies, and you are the mother of my Egg. I am with you to the end.

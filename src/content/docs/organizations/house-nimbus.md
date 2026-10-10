@@ -43,6 +43,8 @@ wa:
 image:
   src: /images/maps/20-the-house-of-nimbus.webp
   alt: "Map: The House of Nimbus"
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Clan · Formerly human servants of House Carls · The only people who could crack the Penteract**

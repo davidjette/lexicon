@@ -58,6 +58,8 @@ gallery:
   - src: /images/gallery/2025-06-14-01.webp
     alt: Singer of stars on the bridge
     caption: An elf woman stands on a damaged starship bridge facing a black hole as a ship passes and debris burns.
+campaigns:
+  - starfall-tng
 ---
 
 **Call from the stars · Starfall · Source unknown**

@@ -29,6 +29,8 @@ image:
   src: /images/cards/people-of-amn.webp
   alt: 'Ally card: People of Amn'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > Admiral, prepare to disembark. General, prepare your troops for a grand march at dawn. I will lead our forces to the ships on my way to conquer Amn.

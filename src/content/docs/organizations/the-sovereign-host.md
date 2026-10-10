@@ -37,6 +37,8 @@ published: '2026-09-10'
 wa:
   slug: the-sovereign-host-organization
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Established faith · Continent-wide · Dispossessed; its buildings still standing under another order's flag**

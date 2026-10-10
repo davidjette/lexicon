@@ -48,6 +48,8 @@ image:
   src: /images/generated/malenti.webp
   alt: "Malenti"
   caption: "Lexical rendering of a tall, thin, blue-skinned sea elf woman with a longbow and shortsword, standing in the shallows before a harbour town."
+campaigns:
+  - ghosts-of-twatmarsh
 ---
 
 **Sahuagin princess, in the guise of a sea elf · Spellcaster · Ghosts of Twatmarsh · Status unknown**

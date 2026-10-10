@@ -36,6 +36,8 @@ gallery:
   - src: /images/album/korth-ep-15-the-stairs-of-her-mercy-the-ivory-lazaret-uriel-s-object-2.webp
     alt: 'The Ivory Lazaret - Uriel''s Object 2 - Korth Episode: The Stairs of Her Mercy'
     caption: 'The Ivory Lazaret - Uriel''s Object 2 - Korth Episode: The Stairs of Her Mercy'
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 15 · DM: Dave**

@@ -39,6 +39,8 @@ image:
   src: /images/generated/the-deck-of-many-things.webp
   alt: "The Deck of Many Things"
   caption: "Lexical rendering of a deck of ornate playing cards, the top card showing a crumbling sword and crown."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Artifact · A deck of magic playing cards · Scattered among many owners · Sought by Shemeska and by the party**

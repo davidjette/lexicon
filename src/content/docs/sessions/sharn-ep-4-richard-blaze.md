@@ -32,6 +32,8 @@ gallery:
   - src: /images/site/sharn-ep-5-welcome-to-the-neighborhood-1.webp
     alt: The trio and the apartment ghosts
     caption: Eric, Gemma and Dario stand in a dim room between two pale, spectral figures reaching toward them.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **The Unforeseen Strikes Back · Sharn arc · Episode 4 · DM: Nichole**

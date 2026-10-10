@@ -101,6 +101,8 @@ gallery:
 - src: /images/minis/drefan-2.webp
   alt: 'Drefan in green, with a glowing silver bow, on a grassy base'
   caption: 'Drefan in green, with a glowing silver bow, on a grassy base (reference for the party portrait)'
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Wood Elf · Druid · Temple Holdings LLC / House Gallidann / the Lusmundii · Level 5 (sheet) · Alive**

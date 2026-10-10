@@ -51,6 +51,8 @@ image:
   src: /images/cards/celion.webp
   alt: 'Ally card: Celion the Great'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
 ---
 
 > I want to meet you. This way is so limiting in what I can tell you. Meet me in Paenis, where this all began. Sit in our corner booth. Ill be there at dawn. Youll see me, Ill be in silver.

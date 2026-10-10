@@ -49,6 +49,8 @@ gallery:
 - src: /images/gallery/2026-02-19-03.webp
   alt: Varyn Crona and a hooded priest over a crib
   caption: Varyn Crona and a red-hooded priest bearing the same red sun draw crackling red energy over an ornate crib in a candlelit stone chamber.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unrecorded · Priest · The Forge of Binding, beneath Sharn · Status unknown — last named by a dying echo**

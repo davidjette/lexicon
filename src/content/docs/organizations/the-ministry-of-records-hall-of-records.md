@@ -32,6 +32,9 @@ wa:
 image:
   src: /images/uploads/the-hall-of-records-landmark-the-ministr-mu6hfdql.webp
   alt: "The Ministry of Records / Hall of Records"
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Type:** Government, Archive · **Seat:** north across the Great Plaza, Korth · **Status:** Active, and hollowed out

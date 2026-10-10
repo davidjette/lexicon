@@ -43,6 +43,8 @@ image:
   src: /images/generated/the-republic-of-talenta.webp
   alt: "Leef, seat of the Republic of Talenta"
   caption: "Lexical rendering of a dusty desert outpost with townsfolk and dwarves gathered at an old rail depot and an airship yard beyond."
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Nation · eastern Khorvaire, formerly the outpost of Leef · Sovereign, allied**

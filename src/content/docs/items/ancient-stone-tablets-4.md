@@ -42,6 +42,8 @@ image:
   src: /images/generated/ancient-stone-tablets-4.webp
   alt: "The four Ancient Stone Tablets"
   caption: "Lexical rendering of four weathered stone slabs carved with undecipherable markings, one of them broken in two."
+campaigns:
+  - unforeseen
 ---
 
 **Unique Artifact · Rare · Four known · Two Imperial, two rebel · Undeciphered**

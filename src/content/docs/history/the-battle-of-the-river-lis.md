@@ -52,6 +52,8 @@ image:
   src: /images/generated/the-battle-of-the-river-lis.webp
   alt: "The Battle of the River Lis"
   caption: "Lexical rendering of enormous armored war machines fording a river toward an army of soldiers, wizards and angels on the forested bank."
+campaigns:
+  - ages-of-the-infanta
 ---
 
 **Mass battle · The River Lis, eastern border of Cormanthor · Temple Holdings LLC, between Arc IV and Arc V**

@@ -35,6 +35,8 @@ sources:
   - 'JL''s DM notes: Starfall Awakens Notes'
   - Desktop/D&D/Starfall TNG/sydiot_73039889.pdf
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+campaigns:
+  - starfall-tng
 ---
 
 **Deep-space station · Independent state · *Light of Xaryxis*, *The Starsong Awakens***

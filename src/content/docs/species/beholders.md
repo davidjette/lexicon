@@ -67,6 +67,8 @@ image:
   src: /images/gallery/beholder-detail.webp
   alt: "A many-eyed beholder"
   caption: "A grey, many-eyed, fanged creature with eyestalks, a detail of a pulp painting posted at the table."
+campaigns:
+  - starfall-tng
 ---
 
 **Species · The Astral Sea · Enemies of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Largely wiped out**

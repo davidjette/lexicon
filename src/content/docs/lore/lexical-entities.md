@@ -56,6 +56,9 @@ sources:
 - src/content/docs/organizations/nimbus-corp.md
 - src/content/docs/lore/the-starweaver-act.md
 published: '2026-09-14'
+campaigns:
+  - dead-mans-hand
+  - starfall-tng
 ---
 
 **Artificial minds · Warforged, "Gen 2 synths" · ELEs, "Gen 3" · [Dead Man's Hand](/lore/dead-mans-hand/) to [Starfall](/lore/starfall-the-next-generation/)**

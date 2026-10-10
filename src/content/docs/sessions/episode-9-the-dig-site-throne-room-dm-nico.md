@@ -32,6 +32,8 @@ image:
   src: /images/generated/episode-9-the-dig-site-throne-room-dm-nico.webp
   alt: "The throne room of Kaius III"
   caption: "Lexical rendering of four travellers standing in a gold and red hall before a masked, red-eyed ruler on a golden throne and a hooded figure descending the stairs."
+campaigns:
+  - unforeseen
 ---
 
 **The Unforeseen · Campaign 1 · Episode 9 · DM: Nico · Report filed 12 Sep 2020**

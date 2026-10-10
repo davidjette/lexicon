@@ -82,6 +82,9 @@ gallery:
   - src: /images/album/locke-pierce-the-unforeseen-og.webp
     alt: 'Locke Pierce - The Unforeseen - OG'
     caption: 'Locke Pierce - The Unforeseen - OG'
+campaigns:
+  - unforeseen
+  - the-unforeseen-strike-back
 ---
 
 **Warforged · Artificer / Armorer · [The Unforeseen](/organizations/the-unforeseen/), then The Hundreds · Ancient Relic Specialist, Director of the Rekkenmark Newham Annex, leader of the Warforged nation of the Mournlands · **Alive****

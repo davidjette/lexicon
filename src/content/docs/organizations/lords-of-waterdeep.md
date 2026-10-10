@@ -42,6 +42,9 @@ image:
   src: /images/cards/lords-of-waterdeep.webp
   alt: 'Ally card: Lords of Waterdeep'
   caption: Ally card, Arc VIII
+campaigns:
+  - ages-of-the-infanta
+  - dead-mans-hand
 ---
 
 > The Lords of Waterdeep are not ruled by a boy, God or not, we have our laws. And laws apply to all, including the Gods. — Masked Lord / You dont know how right you are. — WSC

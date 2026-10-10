@@ -46,6 +46,8 @@ gallery:
 - src: /images/gallery/2026-08-10-07.webp
   alt: Overseer Velen Marsk and his ogres
   caption: In a shrine hall two huge undead ogres flank a smaller figure while the trio face them, one with a flaming sword. Overseer Velen Marsk and his risen ogres are still on shift in the sealed Black Dove shrine.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Species unknown · Overseer of the Korranberg Foundry · Imperial administration / Korranberg Foundry Trust · Dead, and destroyed**

@@ -47,6 +47,8 @@ gallery:
   - src: /images/gallery/2026-04-27-05.webp
     alt: Donna at the farm door
     caption: Donna, the red-haired Silver Flame cleric in pale robes, holds a clipboard beside a grey-bearded man with a basket of fresh vegetables at the door of a farm greenhouse.
+campaigns:
+  - the-unforeseen-strike-back
 ---
 
 **Farming settlement · Breland, outside Sharn · Fulcrum stronghold · DESTROYED**

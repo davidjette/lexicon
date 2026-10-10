@@ -35,6 +35,8 @@ image:
   src: /images/generated/the-grindhouse.webp
   alt: "The Grindhouse"
   caption: "Lexical rendering of a smoky factory fighting pit with steel gears in its walls and a great cage hanging over the arena floor."
+campaigns:
+  - dead-mans-hand
 ---
 
 **Fighting arena · [The Hive Ward](/places/the-hive-ward/), [Sigil](/places/sigil/) · Operated by Scam Likely · Standing**
