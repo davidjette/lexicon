@@ -279,7 +279,7 @@ Her capabilities are not proof that the resurrection succeeded completely. The p
 * [The Lower City](/places/the-lower-city/) — The area of Sharn where Eden investigated the Hundreds cell and was attacked.
 * [The Sanctum of the Last Mercy](/places/sanctum-of-the-last-mercy/) — The Black Dove hospital where Esther demanded Eden's resurrection.
 * [POSÉ](/places/pose/) — The location where Faith pleaded with Esther to bring Eden home.
-* [Zilspar Farm 02](/places/zilspar-farm-02/) — The site where Sister Nora's testimony about Eden was recorded.
+* [Zilspar Farm 02](/places/zilspar/) — The site where Sister Nora's testimony about Eden was recorded.
 * [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) — A dangerous material whose extraction Eden helped secure.
 * [Umbra](/items/umbra/) — The substance associated with Eden's resurrection and the supply demands surrounding the programme.
 

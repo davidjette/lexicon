@@ -5633,8 +5633,24 @@ export const HEROES = [
    "mending": 0,
    "ray of frost": 0,
    "shocking grasp": 0,
-   "scorching ray": 2
+   "scorching ray": 2,
+   "shield": 1,
+   "thunderwave": 1,
+   "shatter": 2,
+   "fireball": 3,
+   "wind wall": 3,
+   "ice storm": 4,
+   "wall of fire": 4
   },
+  "bonus": [
+   {
+    "name": "Eldritch Cannon: Force Ballista",
+    "toHit": 11,
+    "dmg": "3d8",
+    "type": "force",
+    "count": 2
+   }
+  ],
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,

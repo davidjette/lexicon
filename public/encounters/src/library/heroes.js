@@ -92,6 +92,11 @@ export function buildHero(h) {
     actions.martialArts = { ...actions.melee, name: 'Martial Arts (bonus strike)', cost: 'bonus', n: 1 };
     bonusPlan.push('martialArts');
   }
+  // bonus-action attacks from class features on the sheet, such as an Artillerist's cannons
+  (h.bonus || []).forEach((a, i) => {
+    actions[`feature${i}`] = { ...mk({ ...a, spell: true }), name: `${a.name}${a.count > 1 ? ` x${a.count}` : ''}`, cost: 'bonus', noRangePenalty: true };
+    bonusPlan.push(`feature${i}`);
+  });
   if (h.fighter >= 2) {
     actions.surge = {
       kind: 'special', name: 'Action Surge', cost: 'bonus', uses: 1, noTarget: true,
