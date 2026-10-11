@@ -104,6 +104,11 @@ export function tryPlan(E, c, entry, slot) {
   if (!E.usable(c, e.use, { cost })) return null;
   if (e.if && !e.if(E, c)) return null;
   if (e.chance !== undefined && !E.rng.chance(e.chance)) return null;
+  // do not keep throwing fire at something that cannot burn
+  if ((act.kind === 'attack' || act.kind === 'save') && Array.isArray(act.dmg) && act.dmg.length) {
+    const live = E.enemiesOf(c).filter((t) => !t.down);
+    if (live.length && live.every((t) => act.dmg.every(([, type]) => E.resistMult(t, type) === 0))) return null;
+  }
   let opt = typeof e.opt === 'function' ? e.opt(E, c) : e.opt;
   if (act.kind === 'multi' && opt === undefined) {
     // if nothing is in reach, use the first option that opens with a ranged attack

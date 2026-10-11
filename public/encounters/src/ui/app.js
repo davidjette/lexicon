@@ -43,6 +43,7 @@ let enc = null;
 let autoTimer = null;
 let logCount = 0;
 let worker = null;
+let libraryLoaded = false; // the wider library, loaded after the page
 let dmFound = null; // what findPack() returned
 let dmTexts = null; // the unlocked pack, kept to hand to the batch worker
 
@@ -548,7 +549,7 @@ function runBatch() {
     if (e.data.done) { window.lastBatch = e.data.done; renderBatch(e.data.done); $('batchBtn').disabled = false; }
   };
   worker.onerror = (e) => { $('batchOut').replaceChildren(h('p', { class: 'blurb' }, `The batch could not start: ${e.message}`)); $('batchBtn').disabled = false; };
-  worker.postMessage({ state: payload, n, seed0: state.seed, dmTexts });
+  worker.postMessage({ state: payload, n, seed0: state.seed, dmTexts, library: libraryLoaded });
 }
 
 // ------------------------------------------------------------------ DM ONLY
@@ -636,6 +637,8 @@ function init() {
   loadPreset(state.presetId);
   renderAll(true);
   findPack().then((found) => { dmFound = found; renderDm(); });
+  // the wider library: characters, villains and SRD monsters
+  import('../library/index.js').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 

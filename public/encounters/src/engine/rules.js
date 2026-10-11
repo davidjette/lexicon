@@ -240,6 +240,7 @@ export class Engine {
   resistMult(c, type) {
     const t = c.tpl;
     if ((t.immune || []).includes(type)) return 0;
+    for (const f of c.fx) if (f.immune && f.immune.includes(type)) return 0;
     let m = 1;
     const resist = t.resist || [];
     let has = resist.includes(type) || (resist.includes('all-but-force-radiant') && type !== 'force' && type !== 'radiant');

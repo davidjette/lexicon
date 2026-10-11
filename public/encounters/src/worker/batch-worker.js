@@ -6,10 +6,11 @@ import { tally } from '../engine/stats.js';
 import { installTexts } from '../dm-loader.js';
 
 self.onmessage = async (e) => {
-  const { state, n, seed0, dmTexts } = e.data;
+  const { state, n, seed0, dmTexts, library } = e.data;
   const runs = [];
   try {
     if (dmTexts) await installTexts(dmTexts);
+    if (library) await import('../library/index.js');
     for (let i = 0; i < n; i++) {
       runs.push(new Encounter(setupFromState(state, seed0 + i, true)).start().runToEnd());
       if (i % 20 === 0) self.postMessage({ progress: i / n });
