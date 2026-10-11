@@ -89,7 +89,7 @@ export function rowsFromPreset(presetId, sw) {
 }
 
 export function newRow(side, ref, name) {
-  if (PARTY[ref]) return { uid: nextId(), side: 'pc', kind: 'pc', ref, name: PARTY[ref]().name, pos: DEFAULT_PARTY.find((p) => p.id === ref).pos, near: ref === 'eric' ? 'dario' : null, dials: {}, over: {}, spent: 'fresh' };
+  if (PARTY[ref]) return { uid: nextId(), side, kind: 'pc', ref, name: side === 'pc' ? PARTY[ref]().name : `${PARTY[ref]().name} (opposition)`, pos: DEFAULT_PARTY.find((p) => p.id === ref).pos, near: ref === 'eric' ? 'dario' : null, dials: {}, over: {}, spent: 'fresh' };
   return { uid: nextId(), side, kind: 'lib', ref, name: name || ALL[ref].name, pos: ALL[ref].pos || 'front', over: {} };
 }
 

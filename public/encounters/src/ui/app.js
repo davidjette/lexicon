@@ -148,33 +148,48 @@ function portrait(tpl, name) {
 
 const subline = (tpl) => tpl.sub || [tpl.cr !== undefined ? `CR ${tpl.cr}` : null, tpl.type].filter(Boolean).join(' · ');
 
+const adderQuery = {}; // what is typed in each side's search box
+
 function renderAdder(side) {
   const box = $(side === 'pc' ? 'pcAdder' : 'monAdder');
   box.replaceChildren();
   if (enc) return;
   const sel = h('select', {});
-  if (side === 'pc') {
-    const missing = Object.keys(PARTY).filter((id) => !state.rows.some((r) => r.kind === 'pc' && r.ref === id));
-    if (missing.length) sel.append(h('optgroup', { label: 'The Inevitables' }, missing.map((id) => h('option', { value: id }, PARTY[id]().name))));
+  const groups = [];
+  const missing = Object.keys(PARTY).filter((id) => !state.rows.some((r) => r.kind === 'pc' && r.ref === id && r.side === side));
+  if (missing.length) groups.push(['The Inevitables', missing.map((id) => [id, PARTY[id]().name])]);
+  const lib = [...LIBRARY].sort((a, b) => (side === 'pc' ? (b.ally ? 1 : 0) - (a.ally ? 1 : 0) : (a.ally ? 1 : 0) - (b.ally ? 1 : 0)));
+  for (const g of lib) {
+    groups.push([g.dm ? `DM ONLY · ${g.group}` : g.group,
+      g.ids.filter((id) => ALL[id]).map((id) => [id, `${ALL[id].name}${ALL[id].cr !== undefined ? ` (CR ${ALL[id].cr})` : ''}`])]);
   }
-  const groups = [...LIBRARY].sort((a, b) => (side === 'pc' ? (b.ally ? 1 : 0) - (a.ally ? 1 : 0) : (a.ally ? 1 : 0) - (b.ally ? 1 : 0)));
-  for (const g of groups) {
-    sel.append(h('optgroup', { label: g.dm ? `DM ONLY · ${g.group}` : g.group },
-      g.ids.filter((id) => ALL[id]).map((id) => h('option', { value: id }, `${ALL[id].name}${ALL[id].cr !== undefined ? ` (CR ${ALL[id].cr})` : ''}`))));
-  }
+  const fill = () => {
+    const q = (adderQuery[side] || '').trim().toLowerCase();
+    sel.replaceChildren();
+    for (const [label, list] of groups) {
+      const hits = q ? list.filter(([, text]) => text.toLowerCase().includes(q)) : list;
+      if (hits.length) sel.append(h('optgroup', { label }, hits.map(([id, text]) => h('option', { value: id }, text))));
+    }
+  };
+  const search = h('input', { type: 'search', class: 'search', placeholder: 'Search by name', value: adderQuery[side] || '',
+    oninput: (e) => { adderQuery[side] = e.target.value; fill(); },
+    onkeydown: (e) => { if (e.key === 'Enter' && sel.value) add.click(); } });
+  fill();
   const n = h('input', { type: 'number', min: 1, max: 30, value: 1, title: 'How many' });
   const add = h('button', { class: 'btn small', onclick: () => {
     const id = sel.value;
+    if (!id) return;
     const count = PARTY[id] ? 1 : Math.max(1, Math.min(30, +n.value || 1));
     const have = state.rows.filter((r) => r.ref === id && r.side === side).length;
     for (let i = 0; i < count; i++) {
       const total = have + count;
       state.rows.push(newRow(side, id, PARTY[id] ? undefined : total > 1 ? `${ALL[id].name} ${have + i + 1}` : ALL[id].name));
     }
+    adderQuery[side] = '';
     renderAll();
   } }, 'Add');
   const custom = h('button', { class: 'btn small ghost', onclick: () => { $('customForm').elements.side.value = side; $('customDlg').showModal(); } }, 'Custom');
-  box.append(sel, n, add, custom);
+  box.append(search, sel, n, add, custom);
 }
 
 function editCard(r) {
@@ -192,7 +207,7 @@ function editCard(r) {
     const levels = r.level12 ? [12] : [13, 14, 15];
     line.append(h('label', { class: 'check' }, 'Level',
       h('select', { onchange: (e) => { r.level = +e.target.value; renderAll(); } }, levels.map((l) => h('option', { value: l, selected: (r.level || levels[0]) === l }, l)))));
-    if (r.ref !== 'dario' && state.rows.some((x) => x.kind === 'pc' && x.ref === 'dario')) {
+    if (r.ref !== 'dario' && state.rows.some((x) => x.kind === 'pc' && x.ref === 'dario' && x.side === r.side)) {
       line.append(h('label', { class: 'check', title: "Inside Dario's Aura of Protection, and in melee where he is" },
         h('input', { type: 'checkbox', checked: r.near === 'dario', onchange: (e) => { r.near = e.target.checked ? 'dario' : null; } }), 'Stays beside Dario'));
     }
