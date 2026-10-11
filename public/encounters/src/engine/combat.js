@@ -60,13 +60,22 @@ export class Encounter extends Engine {
 
   // ---------- initiative ----------
   rollInit(c) {
+    // minions of one kind act together, on one roll
+    const squad = c.tpl.minion ? `${c.side}:${c.tpl.id}` : null;
+    this.squads = this.squads || {};
+    if (squad && this.squads[squad]) {
+      const e = this.squads[squad];
+      return { id: c.id, init: e.init, dex: e.dex, tie: e.tie - 0.000001 * this.list.length };
+    }
     const adv = c.tpl.initAdv || this.scenario.initAdv === c.side;
     const dis = this.scenario.initDis === c.side;
     const r = d20(this.rng, adv && !dis ? 'adv' : dis && !adv ? 'dis' : 'normal');
     const bonus = c.tpl.init !== undefined ? c.tpl.init : this.abil(c, 'dex');
     const init = r.nat + bonus;
     this.log('init', `${c.name} initiative: ${r.text}${signed(bonus)} = ${init}.`, c);
-    return { id: c.id, init, dex: this.abil(c, 'dex'), tie: this.rng.next() };
+    const entry = { id: c.id, init, dex: this.abil(c, 'dex'), tie: this.rng.next() };
+    if (squad) this.squads[squad] = entry;
+    return entry;
   }
 
   sortEntries() {

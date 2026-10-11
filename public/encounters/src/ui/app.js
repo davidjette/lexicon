@@ -29,7 +29,7 @@ function h(tag, attrs, ...kids) {
 }
 
 const state = {
-  presetId: 'replaySummit',
+  presetId: 'blank',
   sw: {},
   rows: [],
   rules: { ...DEFAULT_RULES },
@@ -188,6 +188,9 @@ function editCard(r) {
       h('select', { onchange: (e) => { r.pos = e.target.value; } }, ['front', 'mid', 'back'].map((p) => h('option', { value: p, selected: r.pos === p }, p)))),
   );
   if (r.kind === 'pc') {
+    const levels = r.level12 ? [12] : [13, 14, 15];
+    line.append(h('label', { class: 'check' }, 'Level',
+      h('select', { onchange: (e) => { r.level = +e.target.value; renderAll(); } }, levels.map((l) => h('option', { value: l, selected: (r.level || levels[0]) === l }, l)))));
     if (r.ref !== 'dario' && state.rows.some((x) => x.kind === 'pc' && x.ref === 'dario')) {
       line.append(h('label', { class: 'check', title: "Inside Dario's Aura of Protection, and in melee where he is" },
         h('input', { type: 'checkbox', checked: r.near === 'dario', onchange: (e) => { r.near = e.target.checked ? 'dario' : null; } }), 'Stays beside Dario'));
@@ -253,9 +256,9 @@ function editCard(r) {
 }
 
 const PC_RES = {
-  gemma: (c) => `Pact slots ${c.pact.n}/2 · Misty Step ${5 - (c.used.misty || 0)}/5 · superiority ${4 - (c.used.sup || 0)}/4 · luck ${5 - (c.used.luck || 0)}/5 · Action Surge ${c.used.surge ? 0 : 1}`,
+  gemma: (c) => `Pact slots ${c.pact.n}/${c.tpl.pact.n} · Misty Step ${5 - (c.used.misty || 0)}/5 · superiority ${4 - (c.used.sup || 0)}/4 · luck ${5 - (c.used.luck || 0)}/5 · Action Surge ${c.used.surge ? 0 : 1}`,
   eric: (c) => `Slots ${slotText(c)} · Warding Flare ${5 - (c.used.flare || 0)}/5 · Channel Divinity ${3 - (c.used.radiance || 0)}/3`,
-  dario: (c) => `Slots ${slotText(c)} · Lay on Hands ${c.memo.loh ?? 65} · Channel Divinity ${3 - (c.used.sacred || 0)}/3`,
+  dario: (c) => `Slots ${slotText(c)} · Lay on Hands ${c.memo.loh ?? 5 * (c.tpl.level || 13)} · Channel Divinity ${3 - (c.used.sacred || 0)}/3`,
 };
 const slotText = (c) => (c.slots ? Object.entries(c.slots).map(([l, n]) => `${l}:${n}`).join(' ') : '');
 

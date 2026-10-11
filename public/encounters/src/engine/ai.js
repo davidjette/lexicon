@@ -25,6 +25,8 @@ export function pickTarget(E, c, act, o = {}) {
   // never the creature that has charmed you; not a creature marked as out of the fight for now
   const charmedBy = c.fx.filter((f) => f.cond === 'charmed').map((f) => f.srcId);
   foes = foes.filter((t) => !charmedBy.includes(t.id) && !t.memo.working && !t.tpl.untouchable);
+  // a creature the party has agreed not to strike
+  if (c.side === 'pc' && E.flags.spare) foes = foes.filter((t) => !E.hasTag(t, E.flags.spare));
   if (!foes.length) return null;
   let pool = foes;
   const melee = act && isMeleeAction(E, c, act, o.opt);

@@ -23,7 +23,8 @@ const potion = (name, dice, n) => ({ kind: 'heal', name, dice, self: true, cost:
 // Gemma Corso  (Tiefling, Warlock 9 Archfey / Fighter 4 Battle Master)   played by Nichole
 // ======================================================================================
 export function makeGemma(o = {}) {
-  const L12 = !!o.level12;
+  const L = o.level || (o.level12 ? 12 : 13);
+  const L12 = L === 12;
   const dc = L12 ? 17 : 18;
   const dials = { style: 'mixed', surgeFreely: false, rebukeWithSlots: true, ...(o.dials || {}) };
   const swordDmg = [['1d10+7', 'slashing'], ['1d4', 'radiant']];
@@ -31,11 +32,11 @@ export function makeGemma(o = {}) {
 
   const tpl = {
     id: 'gemma', name: 'Gemma Corso', side: 'pc', pc: true, type: 'humanoid', pos: 'back', smart: true, warlock: true,
-    img: 'gemma.webp', sub: 'Tiefling Warlock 9 / Fighter 4',
-    ac: 19, hp: L12 ? 90 : 98, init: 4,
+    img: 'gemma.webp', sub: `Tiefling Warlock ${L >= 15 ? 11 : L >= 14 ? 10 : 9} / Fighter ${L12 ? 3 : 4}`, level: L,
+    ac: 19, hp: L12 ? 90 : 98 + 7 * (L - 13), init: 4,
     abil: A(10, 18, 14, 12, 14, 20), saves: { str: 1, dex: 5, con: 3, int: 2, wis: 8, cha: 11 },
-    resist: ['fire'], concBreaker: !L12,
-    pact: { n: 2, level: 5 },
+    resist: ['fire'], concBreaker: !L12, condImmune: L >= 14 ? ['charmed'] : [],
+    pact: { n: L >= 15 ? 3 : 2, level: 5 },
     dials,
     dialInfo: {
       style: ['mixed', 'ranged', 'melee'],
@@ -89,6 +90,19 @@ export function makeGemma(o = {}) {
         when: (E, me, ctx) => ctx.crit && (me.used.luck || 0) < 5,
         run(E, me, ctx) { me.used.luck = (me.used.luck || 0) + 1; ctx.reroll = 'Lucky'; },
       },
+      ...(L >= 14 ? [{
+        // Beguiling Defenses (Warlock 10): halve a hit, and the attacker saves or takes what she takes. Once a long rest.
+        id: 'beguiling', name: 'Beguiling Defenses', trigger: 'preDamage', uses: 1,
+        when: (E, me, ctx) => ctx.total >= 22 && !E.has(me, 'pactVoid') && ctx.src && E.active(ctx.src),
+        run(E, me, ctx) {
+          ctx.mult = 0.5;
+          ctx.note = 'Beguiling Defenses halves it';
+          const taken = Math.floor(ctx.total / 2);
+          E.log('act', `${me.name} uses Beguiling Defenses on ${ctx.src.name} (DC ${dc} WIS).`, me);
+          const r = E.save(ctx.src, 'wis', dc, { serious: true, expected: taken });
+          if (!r.success) E.damage(ctx.src, [{ amt: taken, type: 'psychic' }], me, { rollText: `${taken} psychic` });
+        },
+      }] : []),
       {
         id: 'parry', name: 'Parry', trigger: 'preDamage',
         when: (E, me, ctx) => ctx.o.melee && ctx.total >= 16 && (me.used.sup || 0) < 4,
@@ -175,7 +189,7 @@ export function makeGemma(o = {}) {
           out.dmg.push(['1d6', type, 'Lifedrinker']);
           // and she may spend a Hit Point Die to heal: 9d8 from warlock levels, then 4d10 from fighter
           const spentDice = c.used.hitDice || 0;
-          if (frac(c) < 0.6 && spentDice < 13) {
+          if (frac(c) < 0.6 && spentDice < L) {
             c.used.hitDice = spentDice + 1;
             const r = rollDice(E.rng, spentDice < 9 ? '1d8+2' : '1d10+2');
             E.log('act', `${c.name} spends a Hit Point Die on Lifedrinker: ${r.text} = ${r.total}.`, c);
@@ -261,7 +275,8 @@ export function makeGemma(o = {}) {
 // Chancellor Eric  (Human, Cleric 13, Light Domain)   played by Jeff
 // ======================================================================================
 export function makeEric(o = {}) {
-  const L12 = !!o.level12;
+  const L = o.level || (o.level12 ? 12 : 13);
+  const L12 = L === 12;
   const dc = L12 ? 17 : 18;
   // The sheet gives spell attack +11 and the dagger +8 with Dexterity. At the table True Strike
   // is called at +12 ("six plus twelve, eighteen to hit", 10/9), so +12 is used here.
@@ -271,11 +286,11 @@ export function makeEric(o = {}) {
 
   const tpl = {
     id: 'eric', name: 'Chancellor Eric', side: 'pc', pc: true, type: 'humanoid', pos: 'mid', smart: true,
-    img: 'eric.webp', sub: 'Human Cleric 13, Light Domain',
-    ac: 20, hp: L12 ? 111 : 120, init: 3,
+    img: 'eric.webp', sub: `Human Cleric ${L}, Light Domain`, level: L,
+    ac: 20, hp: L12 ? 111 : 120 + 9 * (L - 13), init: 3,
     abil: A(7, 16, 18, 11, 20, 9), saves: { str: -2, dex: 3, con: 4, int: 0, wis: 10, cha: 4 },
     resist: ['poison', 'psychic'], concAdv: true,
-    slots: L12 ? { 1: 4, 2: 3, 3: 3, 4: 3, 5: 2, 6: 1 } : { 1: 4, 2: 3, 3: 3, 4: 3, 5: 2, 6: 1, 7: 1 },
+    slots: L12 ? { 1: 4, 2: 3, 3: 3, 4: 3, 5: 2, 6: 1 } : L >= 15 ? { 1: 4, 2: 3, 3: 3, 4: 3, 5: 2, 6: 1, 7: 1, 8: 1 } : { 1: 4, 2: 3, 3: 3, 4: 3, 5: 2, 6: 1, 7: 1 },
     dials,
     dialInfo: {
       guardiansLevel: [3, 4, 5, 6, 7],
@@ -289,7 +304,7 @@ export function makeEric(o = {}) {
       trueStrike: melee('True Strike (Dragontooth Dagger)', tsHit, tsDmg),
       trueStrikeThrown: ranged('True Strike (thrown dagger)', tsHit, tsDmg, { hidden: true }),
       harm: harm(dc, { slot: 6 }),
-      radiance: save('Radiance of the Dawn', 'con', dc, [[L12 ? '2d10+12' : '2d10+13', 'radiant']], { half: true, uses: 3, area: { type: 'all' } }),
+      radiance: save('Radiance of the Dawn', 'con', dc, [[`2d10+${L}`, 'radiant']], { half: true, uses: 3, area: { type: 'all' } }),
       fireball: {
         kind: 'special', name: 'Fireball', slot: 3, spell: true,
         aiTarget: () => null,
@@ -361,7 +376,7 @@ export function makeEric(o = {}) {
         // Divine Strike: once on each of his own turns
         if (E.current !== c || c.turn.divineStrike || !ctx.act.name.startsWith('True Strike')) return null;
         c.turn.divineStrike = true;
-        return { dmg: [['1d8', 'radiant', 'Divine Strike']] };
+        return { dmg: [[L >= 14 ? '2d8' : '1d8', 'radiant', 'Divine Strike']] };
       },
     },
     brain(E, c) {
@@ -386,11 +401,11 @@ export function makeEric(o = {}) {
         const near = foes.filter((t) => E.canReach(c, t));
         if (inAura || near.length) {
           const closeTo = inAura ? null : E.rng.weighted(near, (t) => 1 + t.engaged.size);
-          return { act: 'guardians', level: d.useTopSlot ? 7 : d.guardiansLevel, engage: closeTo ? closeTo.id : null };
+          return { act: 'guardians', level: d.useTopSlot ? (L >= 15 ? 8 : 7) : d.guardiansLevel, engage: closeTo ? closeTo.id : null };
         }
       }
       if (E.usable(c, 'radiance') && foes.length >= 3) return { act: 'radiance' };
-      if (boss && boss.hp > 60 && E.usable(c, 'harm') && (c.slots[6] > 0 || (d.useTopSlot && c.slots[7] > 0))) return { act: 'harm', level: 6, targets: [boss.id] };
+      if (boss && boss.hp > 60 && E.usable(c, 'harm') && (c.slots[6] > 0 || (d.useTopSlot && (c.slots[7] > 0 || c.slots[8] > 0)))) return { act: 'harm', level: 6, targets: [boss.id] };
       // A fleeing or standing-off cluster with no friend in it: upcast Fireball
       if (E.usable(c, 'fireball')) {
         const loose = foes.filter((t) => ![...t.engaged].some((id) => E.get(id) && E.get(id).side === c.side));
@@ -411,7 +426,8 @@ export function makeEric(o = {}) {
 // Sir Dario Argentino  (Dragonborn, Paladin 13, Oath of Devotion)   played by Dave
 // ======================================================================================
 export function makeDario(o = {}) {
-  const L12 = !!o.level12;
+  const L = o.level || (o.level12 ? 12 : 13);
+  const L12 = L === 12;
   const dc = L12 ? 15 : 17;
   const aura = L12 ? 3 : 4;
   const dials = { weapon: 'palefire', smite: 'finish+boss', hasteRound: 2, cloak: false, grip: 'shield', auraOfLife: false, lostEye: false, ...(o.dials || {}) };
@@ -425,13 +441,13 @@ export function makeDario(o = {}) {
 
   const tpl = {
     id: 'dario', name: 'Sir Dario Argentino', side: 'pc', pc: true, type: 'humanoid', pos: 'front', smart: true,
-    img: 'dario.webp', sub: 'Dragonborn Paladin 13, Oath of Devotion',
-    ac: dials.grip === 'two-handed' ? 18 : 20, hp: L12 ? 88 : 95, init: 0, initAdv: true,
+    img: 'dario.webp', sub: `Dragonborn Paladin ${L}, Oath of Devotion`, level: L,
+    ac: dials.grip === 'two-handed' ? 18 : 20, hp: L12 ? 88 : 95 + 7 * (L - 13), init: 0, initAdv: true,
     abil: A(20, 10, 13, 8, 10, 18),
     // the sheet's save numbers already include his own Aura of Protection
     saves: L12 ? { str: 8, dex: 3, con: 4, int: 2, wis: 7, cha: 11 } : { str: 9, dex: 4, con: 5, int: 3, wis: 9, cha: 13 },
     resist: ['cold'], condImmune: ['charmed', 'frightened'], auraSave: aura, auraCourage: true,
-    slots: { 1: 4, 2: 3, 3: 3, 4: 1 },
+    slots: { 1: 4, 2: 3, 3: 3, 4: L >= 15 ? 2 : 1 },
     dials,
     dialInfo: {
       weapon: ['palefire', 'knell'],
@@ -468,12 +484,19 @@ export function makeDario(o = {}) {
           c.turn.hasteAction = true;
         },
       },
+      flight: {
+        kind: 'special', name: 'Draconic Flight', cost: 'bonus', uses: 1, noTarget: true,
+        run(E, c) {
+          E.addFx(c, { id: 'flight', name: 'Draconic Flight', flying: true }, c);
+          E.log('act', `${c.name} spreads his wings: Draconic Flight.`, c);
+        },
+      },
       layOnHands: {
         kind: 'special', name: 'Lay on Hands', cost: 'bonus', ally: true,
-        when: (E, c) => (c.memo.loh ?? 65) > 0,
+        when: (E, c) => (c.memo.loh ?? 5 * L) > 0,
         run(E, c, act, choice) {
           const t = E.get(choice.targets[0]) || c;
-          const pool = c.memo.loh ?? 65;
+          const pool = c.memo.loh ?? 5 * L;
           const want = t.down ? 20 : Math.min(40, t.maxHp - t.hp);
           const amt = Math.min(pool, want);
           c.memo.loh = pool - amt;
@@ -550,6 +573,8 @@ export function makeDario(o = {}) {
         if (frac(c) < 0.35) return { act: 'layOnHands', targets: [c.id] };
       }
       if (!foes.length) return null;
+      // an enemy in the air that nobody on the ground can reach: he takes wing
+      if (c.turn.bonus && !E.flies(c) && E.usable(c, 'flight') && foes.some((t) => E.flies(t) && !E.has(t, 'grounded'))) return { act: 'flight' };
       if (c.turn.action) {
         if (d.hasteRound && E.round >= d.hasteRound && !c.conc && E.usable(c, 'haste')) return { act: 'haste' };
         const t = E.ai.pickTarget(E, c, E.action(c, 'strike'), { weight: (x) => (x.tpl.boss && E.flags.focusBoss ? 2 : 1) });

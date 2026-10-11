@@ -139,6 +139,15 @@ register({
   creatures: X,
   presets: [
   {
+    id: 'blank',
+    name: 'New encounter',
+    where: 'Your own fight',
+    blurb: 'The party is loaded. Add creatures to either side from the lists below, or build a custom one, then roll initiative.',
+    monsters: [],
+    switches: [],
+    scenario: () => ({ flags: {} }),
+  },
+  {
     id: 'replaySummit',
     name: 'The summit: Thar and the Red Bird',
     where: 'The peak above the falls',

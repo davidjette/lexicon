@@ -381,10 +381,14 @@ export class Engine {
   }
 
   // ---------- attacks ----------
+  flies(c) {
+    return !!c.tpl.flying || c.fx.some((f) => f.flying);
+  }
+
   canReach(att, tgt) {
     if (isEngaged(att, tgt)) return true;
     if (this.immobile(att) || att.turn.stopped) return false;
-    if (tgt.tpl.flying && !att.tpl.flying && !this.has(tgt, 'grounded')) return false;
+    if (this.flies(tgt) && !this.flies(att) && !this.has(tgt, 'grounded')) return false;
     return hasRoom(this, tgt);
   }
 
@@ -731,7 +735,7 @@ export class Engine {
   }
 
   tempHp(c, amt, label) {
-    if (!this.alive(c)) return;
+    if (!this.alive(c) || c.tpl.minion) return;
     if (amt > c.tempHp) {
       c.tempHp = amt;
       this.log('heal', `${c.name} has ${amt} temporary HP${label ? ` (${label})` : ''}.`, c);
@@ -860,6 +864,8 @@ export class Engine {
       const serious = !!(act.onFail && act.onFail.length);
       const r = this.save(t, act.save, dc, { spell: act.spell, serious, expected, tags: act.tags, dis: act.disFor && act.disFor(this, t) });
       const ctx = {};
+      // a minion that saves against an area takes nothing
+      if (rolled && r.success && t.tpl.minion) continue;
       if (rolled) {
         if (!r.success || act.half) {
           const dealt = this.damage(t, rolled.map((x) => ({ amt: x.amt, type: x.type })), src, { half: r.success, act, mult, area });

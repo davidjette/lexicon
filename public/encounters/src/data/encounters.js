@@ -29,7 +29,7 @@ export function presetRoster(preset, sw = switchDefaults(preset), partyOpts = {}
   const rows = [];
   const partyIds = preset.party || ['gemma', 'eric', 'dario'];
   for (const p of DEFAULT_PARTY.filter((x) => partyIds.includes(x.id))) {
-    const tpl = makePc(p.id, { level12: preset.level12, dials: (partyOpts[p.id] || {}).dials });
+    const tpl = makePc(p.id, { level: preset.level12 ? 12 : preset.level || 13, dials: { ...((preset.dials || {})[p.id] || {}), ...((partyOpts[p.id] || {}).dials || {}) } });
     const spent = preset.spent && preset.spent[p.id];
     rows.push({ side: 'pc', tpl: spent ? { ...tpl, spent } : tpl, name: tpl.name, near: partyIds.includes(p.near) ? p.near : null, pos: p.pos });
   }

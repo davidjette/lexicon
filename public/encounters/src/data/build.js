@@ -40,7 +40,7 @@ export function customTemplate(c) {
 }
 
 export function baseTemplate(row) {
-  if (row.kind === 'pc') return PARTY[row.ref]({ dials: row.dials, level12: row.level12 });
+  if (row.kind === 'pc') return PARTY[row.ref]({ dials: row.dials, level: row.level12 ? 12 : row.level || 13 });
   if (row.kind === 'custom') return customTemplate(row.custom);
   const t = ALL[row.ref];
   if (!t) throw new Error(`unknown creature ${row.ref}`);
@@ -82,8 +82,8 @@ export function rowsFromPreset(presetId, sw) {
   for (const p of DEFAULT_PARTY.filter((x) => partyIds.includes(x.id))) {
     rows.push({
       uid: nextId(), side: 'pc', kind: 'pc', ref: p.id, name: PARTY[p.id]().name, pos: p.pos,
-      near: p.near && partyIds.includes(p.near) ? p.near : null, dials: {}, over: {}, spent: 'fresh',
-      level12: !!preset.level12, spentData: preset.spent ? preset.spent[p.id] : undefined,
+      near: p.near && partyIds.includes(p.near) ? p.near : null, dials: { ...((preset.dials || {})[p.id] || {}) }, over: {}, spent: 'fresh',
+      level12: !!preset.level12, level: preset.level12 ? 12 : preset.level || 13, spentData: preset.spent ? preset.spent[p.id] : undefined,
     });
   }
   const add = (list, side) => {
