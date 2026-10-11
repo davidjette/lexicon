@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Encounter Tester · The Lexicon</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Spectral+SC:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/theme.css">
+</head>
+<body>
+  <header class="hero">
+    <img src="assets/banner.webp" alt="">
+    <div class="hero-scrim"></div>
+    <div class="hero-text">
+      <div class="kicker"><a href="../">The Lexicon</a> · Encounters</div>
+      <h1>Encounter Tester</h1>
+      <div class="hero-rule"><span></span></div>
+      <p>Put a party and its enemies on the field. Every die is rolled and logged, one fight or a thousand.</p>
+    </div>
+    <button id="themeBtn" class="btn small ghost" title="Switch between the midnight and parchment themes">Parchment</button>
+  </header>
+
+  <main>
+    <section class="dm-bar" id="dmBar" hidden>
+      <div class="dm-stamp">DM ONLY</div>
+      <div class="dm-body" id="dmBody"></div>
+    </section>
+
+    <section class="card" id="setup">
+      <div class="card-title">The fight</div>
+      <div class="card-body">
+        <div class="setup-row">
+          <label class="field grow">
+            <span>Encounter</span>
+            <select id="presetSel"></select>
+          </label>
+          <label class="field">
+            <span>Seed</span>
+            <input id="seedInput" type="number" min="1" step="1">
+          </label>
+          <button id="newSeedBtn" class="btn small" title="Pick a new random seed">New seed</button>
+        </div>
+        <p class="where"><span id="presetDm" class="dm-tag" hidden>DM ONLY</span> <span id="presetWhere"></span></p>
+        <p id="presetBlurb" class="blurb"></p>
+        <div id="switches" class="switches"></div>
+        <details id="rulesBox">
+          <summary>Table rules and preparations</summary>
+          <div id="rules" class="rules-grid"></div>
+        </details>
+      </div>
+    </section>
+
+    <div class="cols">
+      <section class="side" id="pcSide">
+        <h2>The party</h2>
+        <div class="adder" id="pcAdder"></div>
+        <div class="cards" id="pcCards"></div>
+      </section>
+
+      <section class="center">
+        <div class="card">
+          <div class="card-title" id="roundTitle">Not started</div>
+          <div class="card-body">
+            <div class="controls">
+              <button id="startBtn" class="btn primary">Roll initiative</button>
+              <button id="stepBtn" class="btn" title="Resolve one action">Step</button>
+              <button id="turnBtn" class="btn" title="Run to the end of this creature's turn">Step turn</button>
+              <button id="roundBtn" class="btn" title="Run to the end of this round">Step round</button>
+              <button id="autoBtn" class="btn" title="Keep stepping on a timer">Auto</button>
+              <button id="endBtn" class="btn" title="Run to the end at once">To the end</button>
+              <button id="resetBtn" class="btn ghost">Reset</button>
+              <label class="speed">Speed <input id="speed" type="range" min="1" max="10" value="6"></label>
+            </div>
+            <div id="order" class="order"></div>
+            <div id="pending" class="pending"></div>
+            <div id="result" class="result"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Log</div>
+          <div class="card-body">
+            <div class="log-tools">
+              <label class="field">
+                <span>Show</span>
+                <select id="logFilter"><option value="">Everyone</option></select>
+              </label>
+              <label class="check"><input type="checkbox" id="logCompact"> Outcomes only</label>
+              <span class="grow"></span>
+              <button id="exportTxt" class="btn small">Export .txt</button>
+              <button id="exportMd" class="btn small">Export .md</button>
+            </div>
+            <div id="log" class="log"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="side" id="monSide">
+        <h2>The opposition</h2>
+        <div class="adder" id="monAdder"></div>
+        <div class="cards" id="monCards"></div>
+      </section>
+    </div>
+
+    <section class="card" id="batch">
+      <div class="card-title">Survivability: the same fight many times</div>
+      <div class="card-body">
+        <div class="setup-row">
+          <label class="field">
+            <span>Runs</span>
+            <input id="batchN" type="number" min="10" max="20000" step="10" value="1000">
+          </label>
+          <button id="batchBtn" class="btn primary">Run the batch</button>
+          <div class="progress grow"><div id="batchBar"></div></div>
+        </div>
+        <p class="blurb">One fight is one sample. A batch runs the roster above, with the switches and rules as set, from a different seed each time and reports how often the party is still standing.</p>
+        <div id="batchOut"></div>
+      </div>
+    </section>
+
+    <footer>
+      D&amp;D 5e (2024) as the table plays it. No map: creatures are in melee with named enemies or at range. Characters from their sheets of 10 October 2026; tactics from the sessions of 2 and 9 October.
+    </footer>
+  </main>
+
+  <dialog id="customDlg">
+    <form method="dialog" id="customForm">
+      <h3>Custom creature</h3>
+      <div class="grid2">
+        <label class="field"><span>Name</span><input name="name" required value="Custom creature"></label>
+        <label class="field"><span>Side</span><select name="side"><option value="monster">Opposition</option><option value="pc">Party</option></select></label>
+        <label class="field"><span>AC</span><input name="ac" type="number" value="16"></label>
+        <label class="field"><span>HP</span><input name="hp" type="number" value="100"></label>
+        <label class="field"><span>Initiative bonus</span><input name="init" type="number" value="2"></label>
+        <label class="field"><span>All saves</span><input name="save" type="number" value="4"></label>
+        <label class="field"><span>Attack name</span><input name="aname" value="Strike"></label>
+        <label class="field"><span>Attacks per turn</span><input name="an" type="number" value="2" min="1"></label>
+        <label class="field"><span>To hit</span><input name="ahit" type="number" value="8"></label>
+        <label class="field"><span>Damage</span><input name="admg" value="2d8+4"></label>
+        <label class="field"><span>Damage type</span><input name="atype" value="slashing"></label>
+        <label class="check"><input type="checkbox" name="aranged"> Ranged</label>
+      </div>
+      <div class="dlg-buttons">
+        <button value="cancel" class="btn ghost" formnovalidate>Cancel</button>
+        <button value="ok" class="btn primary">Add</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script type="module" src="src/ui/app.js"></script>
+</body>
+</html>
