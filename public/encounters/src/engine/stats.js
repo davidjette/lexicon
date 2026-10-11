@@ -52,6 +52,7 @@ export function tally(runs) {
     defeat: pct(results.defeat || 0, n),
     withdrew: pct(results.withdrew || 0, n),
     timeout: pct(results.timeout || 0, n),
+    dragon: pct(results.dragon || 0, n),
     anyDeath: pct(runs.filter((r) => core(r).some((p) => p.dead)).length, n),
     anyDrop: pct(runs.filter((r) => core(r).some((p) => p.downs > 0 || p.dead)).length, n),
     allDead: pct(runs.filter((r) => core(r).every((p) => p.dead)).length, n),
@@ -68,7 +69,7 @@ export function tally(runs) {
 
 export function formatTally(t) {
   const lines = [];
-  lines.push(`${t.n} runs: party holds the field ${t.win}% (kills everything ${t.victory}%, boss driven off ${t.escaped}%), party down ${t.defeat}%${t.withdrew ? `, withdrew ${t.withdrew}%` : ''}${t.timeout ? `, no result ${t.timeout}%` : ''}`);
+  lines.push(`${t.n} runs: party holds the field ${t.win}% (kills everything ${t.victory}%, boss driven off ${t.escaped}%), party down ${t.defeat}%${t.withdrew ? `, withdrew ${t.withdrew}%` : ''}${t.timeout ? `, no result ${t.timeout}%` : ''}${t.dragon ? `, the dragon wakes ${t.dragon}%` : ''}`);
   lines.push(`rounds: mean ${t.rounds.mean}, median ${t.rounds.median}, range ${t.rounds.min}-${t.rounds.max}`);
   lines.push(`at least one PC dropped ${t.anyDrop}%, at least one PC dead ${t.anyDeath}%, all dead ${t.allDead}%`);
   for (const p of t.pcs) lines.push(`  ${p.name.padEnd(28)} dropped ${String(p.dropped).padStart(5)}%  died ${String(p.died).padStart(5)}%  took ${String(p.meanTaken).padStart(4)}  dealt ${String(p.meanDealt).padStart(4)}  HP left ${String(p.meanHpLeft).padStart(3)}  slots left ${p.meanSlotsLeft}`);

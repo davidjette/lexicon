@@ -198,7 +198,7 @@ function editCard(r) {
     if (!r.spentData) {
       line.append(h('label', { class: 'check' }, 'Resources',
         h('select', { onchange: (e) => { r.spent = e.target.value; } },
-          [['fresh', 'Fresh from a long rest'], ['half', 'After a hard fight']].map(([v, t]) => h('option', { value: v, selected: r.spent === v }, t)))));
+          [['fresh', 'Fresh from a long rest'], ['half', 'Worn: 70% HP, half their resources']].map(([v, t]) => h('option', { value: v, selected: r.spent === v }, t)))));
     } else line.append(h('span', { class: 'tag' }, 'resources as at the table'));
   }
   const tools = h('div', { class: 'tools' });
@@ -378,7 +378,7 @@ function renderCenter() {
   const res = $('result');
   res.textContent = '';
   if (enc && enc.over) {
-    const text = { victory: 'The party wins.', defeat: 'The party is down.', escaped: `${enc.flags.escaped} escapes; the party holds the field.`, timeout: 'No result.', withdrew: 'The party breaks off.' }[enc.result];
+    const text = { victory: 'The party wins.', defeat: 'The party is down.', escaped: `${enc.flags.escaped} escapes; the party holds the field.`, timeout: 'No result.', withdrew: 'The party breaks off.', dragon: 'The dragon is awake.' }[enc.result];
     res.textContent = `${text} Seed ${enc.seed}.`;
   }
 
@@ -507,12 +507,13 @@ function renderBatch(t) {
   out.append(h('p', { class: 'headline' }, `The party is still standing at the end of ${Math.round((t.win + t.withdrew) * 10) / 10}% of ${t.n} fights.`));
   out.append(h('div', { class: 'outcome' },
     seg('o-victory', 'Wins outright', t.victory), seg('o-escaped', 'Boss driven off', t.escaped), seg('o-withdrew', 'Party withdraws', t.withdrew),
-    seg('o-timeout', 'No result', t.timeout), seg('o-defeat', 'Party down', t.defeat)));
+    seg('o-timeout', 'No result', t.timeout), seg('o-timeout', 'The dragon wakes', t.dragon), seg('o-defeat', 'Party down', t.defeat)));
   out.append(h('div', { class: 'legend' },
     h('span', {}, h('i', { class: 'o-victory' }), `Wins outright ${t.victory}%`),
     h('span', {}, h('i', { class: 'o-escaped' }), `Boss driven off ${t.escaped}%`),
     t.withdrew ? h('span', {}, h('i', { class: 'o-withdrew' }), `Party withdraws ${t.withdrew}%`) : null,
     t.timeout ? h('span', {}, h('i', { class: 'o-timeout' }), `No result ${t.timeout}%`) : null,
+    t.dragon ? h('span', {}, h('i', { class: 'o-timeout' }), `The dragon wakes ${t.dragon}%`) : null,
     h('span', {}, h('i', { class: 'o-defeat' }), `Every character down ${t.defeat}%`)));
   out.append(h('p', { class: 'blurb' }, `At least one character dropped to 0 in ${t.anyDrop}% of fights and at least one died in ${t.anyDeath}%. Fights ran ${t.rounds.median} rounds at the median (${t.rounds.min} to ${t.rounds.max}).`));
 

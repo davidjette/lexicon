@@ -159,7 +159,9 @@ def('honorGuard', {
   basic: 'greatsword', oa: 'greatsword',
 });
 
-// The image is cut off at the bottom of her Spellcasting entry, so no spells are run.
+// The image is cut off at the bottom of her Spellcasting entry. Her spells here are inferred from her
+// being a high-level warlock (Dave, 2026-10-11): four 5th-level pact slots, save DC 18, spent on
+// Synaptic Static, Hold Monster, Banishment and Counterspell. Misty Step is already on the block.
 const smite = (E, c, ctx) => {
   if (ctx.act.name !== 'Crimson Sun' || E.current !== c || c.turn.smote) return null;
   const tiers = [['smite3', 1, '4d8'], ['smite2', 2, '3d8'], ['smite1', 3, '2d8']];
@@ -205,9 +207,17 @@ def('lordCommanderEsther', {
       when: (E, c) => (c.memo.loh ?? 40) > 0 && c.hp < c.maxHp * 0.5,
       run(E, c) { const amt = c.memo.loh ?? 40; c.memo.loh = 0; E.log('act', `${c.name} lays on hands.`, c); E.heal(c, amt, c, 'Lay on Hands'); },
     },
+    synapticStatic: save('Synaptic Static', 'int', 18, [['8d6', 'psychic']], { half: true, spell: true, uses: 4, usesKey: 'pact', area: { type: 'near', max: 4, spread: 0.3 } }),
+    holdMonster: hold('Hold Monster', 18, { uses: 4, usesKey: 'pact' }),
+    banishment: save('Banishment', 'cha', 18, null, { spell: true, conc: true, uses: 4, usesKey: 'pact', onFail: [{ fx: 'cond', cond: 'banished', name: 'Banishment', conc: true }] }),
     shockwave: save('Shockwave Burst', 'str', 18, [['2d8', 'force']], { half: true, onFail: [{ fx: 'push', label: 'Shockwave Burst' }], area: { type: 'engaged' } }),
   },
-  plan: ['thunderStep', { use: 'throw', chance: 0.35 }, 'multi'],
+  plan: [
+    { use: 'synapticStatic', if: (E, c) => E.round <= 2 && E.enemiesOf(c).filter((t) => !t.down).length >= 2, chance: 0.7 },
+    { use: 'holdMonster', if: (E, c) => !c.conc, chance: 0.25 },
+    { use: 'banishment', if: (E, c) => !c.conc && E.enemiesOf(c).filter((t) => !t.down).length >= 2, chance: 0.2 },
+    'thunderStep', { use: 'throw', chance: 0.35 }, 'multi',
+  ],
   bonusPlan: ['layOnHands'],
   legs: [
     { act: 'beam', cost: 1, w: 3 },
@@ -221,6 +231,16 @@ def('lordCommanderEsther', {
       id: 'vengeance', name: 'Aura of Vengeance', trigger: 'turnStart', who: 'enemy', free: true,
       when: (E, me, ctx) => !ctx.subject.down && ctx.subject.engaged.has(me.id),
       run(E, me, ctx) { ctx.subject.turn.disFirst = 'Aura of Vengeance'; },
+    },
+    {
+      id: 'counterspell', name: 'Counterspell', trigger: 'spellCast', who: 'enemy', spell: true,
+      when: (E, me, ctx) => (me.used.pact || 0) < 4 && ctx.level >= 3,
+      run(E, me, ctx) {
+        me.used.pact = (me.used.pact || 0) + 1;
+        E.log('act', `${me.name} casts Counterspell at ${ctx.caster.name}'s ${ctx.act.name} (DC 18 CON).`, me);
+        const r = E.save(ctx.caster, 'con', 18, { spell: true, lr: false });
+        if (!r.success) ctx.countered = true;
+      },
     },
     { ...parry(4) },
     {

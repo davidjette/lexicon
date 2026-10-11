@@ -84,6 +84,7 @@ export class Engine {
       if (c.slots) for (const [k, v] of Object.entries(tpl.spent.slots || {})) c.slots[k] = Math.max(0, c.slots[k] - v);
       if (c.pact && tpl.spent.pact) c.pact.n = Math.max(0, c.pact.n - tpl.spent.pact);
       Object.assign(c.memo, tpl.spent.memo || {});
+      if (tpl.spent.hpFrac) c.hp = Math.max(1, Math.floor(c.maxHp * tpl.spent.hpFrac));
     }
     this.list.push(c);
     this.byId.set(id, c);

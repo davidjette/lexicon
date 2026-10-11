@@ -595,6 +595,17 @@ export function makeDario(o = {}) {
   return extend(tpl);
 }
 
+// Where a character stands after a hard fight with no rest: 70% of their hit points and about
+// half of what they can spend.
+export const SPENT = {
+  fresh: {},
+  half: {
+    gemma: { hpFrac: 0.7, used: { misty: 2, sup: 2, luck: 2 }, pact: 1 },
+    eric: { hpFrac: 0.7, slots: { 1: 2, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1 }, used: { flare: 2, shieldFree: 1, radiance: 1 } },
+    dario: { hpFrac: 0.7, slots: { 1: 2, 2: 1, 3: 1, 4: 1 }, used: { sacred: 1, smiteFree: 1 }, memo: { loh: 35 } },
+  },
+};
+
 export const PARTY = {
   gemma: makeGemma,
   eric: makeEric,

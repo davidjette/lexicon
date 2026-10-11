@@ -354,6 +354,7 @@ export class Encounter extends Engine {
       escaped: `${this.flags.escaped} escapes; the party holds the field.`,
       timeout: `No result after ${this.rules.maxRounds} rounds.`,
       withdrew: `The party breaks off at the end of round ${this.round}.`,
+      dragon: 'The dragon is awake. Whoever is still in the palace should not be.',
     }[result];
     this.log('end', text);
   }

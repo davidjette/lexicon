@@ -5,7 +5,7 @@ import { makeApi } from './data/api.js';
 import { packs } from './data/registry.js';
 import { decryptPack } from './pack-crypto.js';
 
-const FILES = ['monsters.js', 'extras.js', 'encounters.js'];
+const FILES = ['monsters.js', 'extras.js', 'revised.js', 'finale.js', 'encounters.js'];
 
 // Run the pack's files (plain JavaScript text, no imports of their own) against the registry.
 export async function installTexts(texts) {

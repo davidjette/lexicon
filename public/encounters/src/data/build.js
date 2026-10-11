@@ -3,21 +3,13 @@
 
 import { DEFAULT_PARTY, switchDefaults } from './encounters.js';
 import { ALL, PRESETS } from './registry.js';
-import { PARTY } from './pcs.js';
+import { PARTY, SPENT } from './pcs.js';
+
+export { SPENT };
 import { melee, ranged, multi } from './lib.js';
 
 let uid = 0;
 const nextId = () => `r${++uid}`;
-
-// Resources already used before the fight.
-export const SPENT = {
-  fresh: {},
-  half: {
-    gemma: { used: { misty: 2, sup: 2, luck: 2 }, pact: 1 },
-    eric: { slots: { 1: 2, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1 }, used: { flare: 2, shieldFree: 1, radiance: 1 } },
-    dario: { slots: { 1: 2, 2: 1, 3: 1, 4: 1 }, used: { sacred: 1, smiteFree: 1 }, memo: { loh: 35 } },
-  },
-};
 
 export function customTemplate(c) {
   const actions = {};
