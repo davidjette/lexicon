@@ -75,6 +75,12 @@ wa:
   uuid: 6f75a33c-5725-431e-9af8-a920ee57ecfe
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+- src: /images/album/korth-ep-17-the-red-bird-eric-and-the-wolves.webp
+  alt: 'Eric among the wolves - Korth Ep 17, The Red Bird'
+  caption: 'Eric among the wolves - Korth Ep 17, The Red Bird'
+- src: /images/album/korth-ep-17-the-red-bird-the-peak.webp
+  alt: 'Eric stands in his spirit guardians between the tiefling druid and the red bird - Korth Ep 17, The Red Bird'
+  caption: 'Eric stands in his spirit guardians between the tiefling druid and the red bird - Korth Ep 17, The Red Bird'
 - src: /images/album/extracting-izaak.webp
   alt: Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr.
   caption: 'Gemma Corso, Chancellor of Sharn Eric the Cleric and Sir Dario Argentino extracting rebel prisoner, agent Izaak from Dr. Ilsa Brandt, A death trooper, and a black-coated torturer - The Korth Listening Station torture and extraction room - Korth Episode: The Listening Post'

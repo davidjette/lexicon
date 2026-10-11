@@ -75,25 +75,85 @@ Gemma meant to look for [Joseph Roberts](/people/pirate-joseph-roberts/) while s
 
 Gemma and Roberts were never married. He took her to his home in the Lhazaar Principalities for a week or two and proposed when he brought her back, and she refused him. The two read the last line of the song as Roberts hiding from Deirdre Moro, a Korth official staying at a lodge where officials never stay, who could be expected to ask for the books. Eric judged that the Lodge would show a strange face out, so they kept the faces of Deirdre and Graham, put on the hunting outfits [Kitsune](/people/kitsune/) had left them, and went downstairs. Bimples told them the full moon had all the hunters about.
 
-On the grand stair the newest Fieldmaster's portrait has no name under it. It shows a lean woman in her forties. A footman confirmed that the Advocate had leave to use the ballroom, the salon and the general members' rooms. In the ballroom **Rotunda Goose**, who lost a hand and an ear at Thronehold, was holding court by the fire: *"Full price. Full price, after what I gave them."* She said there was no safe passage out of the Empire any more, and that all her money could not buy one. She presented **Lord Aldric and Lady Sabine Varenne**, Karrnathi lords, and said of Deirdre's ambitions, *"Not that any of that matters these days, but it'll matter in the aftermath. We're all planning for what comes next."* Deirdre said she would like to visit the library, and Goose told her this was the night they bring people through it. A drunk clerk told Graham he had signed for the same forty field guns three times this year and never seen one. A widow asked after **Colonel Aubrecht Seyle**, who had danced at the Lodge a week before. The staff said he had checked out, but his trunk was still upstairs. The Varennes said that most of the King's Forest lies north of the river and is closed to hunting, that the Lodge holds a grandfathered licence under which only its members may hunt there, and that the serious hunters were in the Hunters' Salon.
+On the grand stair the newest Fieldmaster's portrait has no name under it. It shows a lean woman in her forties. A footman confirmed that the Advocate had leave to use the ballroom, the salon and the general members' rooms. In the ballroom [Rotunda Goose](/people/rotunda-goose/), who lost a hand and an ear at Thronehold, was holding court by the fire: *"Full price. Full price, after what I gave them."* She said there was no safe passage out of the Empire any more, and that all her money could not buy one. She presented **Lord Aldric and Lady Sabine Varenne**, Karrnathi lords, and said of Deirdre's ambitions, *"Not that any of that matters these days, but it'll matter in the aftermath. We're all planning for what comes next."* Deirdre said she would like to visit the library, and Goose told her this was the night they bring people through it. A drunk clerk told Graham he had signed for the same forty field guns three times this year and never seen one. A widow asked after **Colonel Aubrecht Seyle**, who had danced at the Lodge a week before. The staff said he had checked out, but his trunk was still upstairs. The Varennes said that most of the King's Forest lies north of the river and is closed to hunting, that the Lodge holds a grandfathered licence under which only its members may hunt there, and that the serious hunters were in the Hunters' Salon.
 
-In the salon **Cousin Felcher**, a quartermaster, took a handful of platinum bars from a demon in hunting dress and went on talking: the upper river was fully open, people said they had seen orcs, and one of his boys had seen Imperial troops in black armour in the King's Forest. When he saw the Advocate he said, *"You make me nervous,"* and left. A man got up from the couch and said, *"I've seen the red bird."* He was sixty, lean and grey-bearded, in waxed leather the colour of bark, with an ash longbow taller than himself and a coil of black rope over one shoulder, and he gave his name as **Fora Dollar**. He had seen the bird fly across the river that morning and knew where it roosted. He said the King's Forest holds elves and druids, his own people and worse. His price was 500 gold before and 1,000 after, less 500 if he could keep the tail feathers. Gemma paid him.
+![Gemma and Eric as Deirdre Moro and Graham Cracker, dressed for the hunt](/images/album/korth-ep-17-the-red-bird-deirdre-and-graham.webp)
+*Gemma and Eric as Deirdre Moro and Graham Cracker, dressed for the hunt.*
+
+![Deirdre Moro and Graham Cracker with Rotunda Goose in the ballroom](/images/album/korth-ep-17-the-red-bird-rotunda-goose.webp)
+*Deirdre Moro and Graham Cracker with Rotunda Goose in the ballroom.*
+
+In the salon **Cousin Felcher**, a quartermaster, took a handful of platinum bars from a demon in hunting dress and went on talking: the upper river was fully open, people said they had seen orcs, and one of his boys had seen Imperial troops in black armour in the King's Forest. When he saw the Advocate he said, *"You make me nervous,"* and left. A man got up from the couch and said, *"I've seen the red bird."* He was sixty, lean and grey-bearded, in waxed leather the colour of bark, with an ash longbow taller than himself and a coil of black rope over one shoulder, and he gave his name as [Fora Dollar](/people/fora-dollar/). He had seen the bird fly across the river that morning and knew where it roosted. He said the King's Forest holds elves and druids, his own people and worse. His price was 500 gold before and 1,000 after, less 500 if he could keep the tail feathers. Gemma paid him.
+
+![Fora Dollar in the Hunters' Salon of the Grand Lodge](/images/album/korth-ep-17-the-red-bird-fora-dollar.webp)
+*Fora Dollar in the Hunters' Salon of the Grand Lodge.*
+
+![Deirdre and Graham meet Fora Dollar in the Hunters' Salon](/images/album/korth-ep-17-the-red-bird-the-hunters-salon.webp)
+*Deirdre and Graham meet Fora Dollar in the Hunters' Salon.*
 
 Dollar rowed them across the river, drew a sign in mud on each of their arms that glowed green and let them pass without trace, and led them north through the forest. At an inlet a pack of wolves and a dark druid were waiting. The druid was an elf in furs and small skulls, who bound Eric and Dollar in vines and then fought as a giant snake. Gemma burned two wolves and broke his spell, Eric cut the snake open, and Dollar and Eric killed the elf, who died saying, *"You'll never know the mysteries of the Eldeen."* Dollar said, *"Dark druids. If they're protecting this bird, we're in for some trouble."*
 
+![Wolves come out of the rocks at the inlet as Gemma throws fire and Dollar draws his bow](/images/album/korth-ep-17-the-red-bird-the-inlet.webp)
+*Wolves come out of the rocks at the inlet as Gemma throws fire and Dollar draws his bow.*
+
+![The dark druid of the Eldeen and his wolves at the inlet](/images/album/korth-ep-17-the-red-bird-the-dark-druid.webp)
+*The dark druid of the Eldeen and his wolves at the inlet.*
+
+![Gemma among the wolves](/images/album/korth-ep-17-the-red-bird-gemma-and-the-wolves.webp)
+*Gemma among the wolves.*
+
+![Eric among the wolves](/images/album/korth-ep-17-the-red-bird-eric-and-the-wolves.webp)
+*Eric among the wolves.*
+
+![The dark druid calls up vines at the inlet](/images/album/korth-ep-17-the-red-bird-the-vines.webp)
+*The dark druid calls up vines at the inlet.*
+
+![The druid, as a giant snake, coils around Gemma while Eric cuts at it](/images/album/korth-ep-17-the-red-bird-the-snake.webp)
+*The druid, as a giant snake, coils around Gemma while Eric cuts at it.*
+
 He took them up the south side of the falls. On the climb he said that his people were cast out of Valenar for their human blood, call themselves the **Corvari**, and live as a band in these woods. He had saved a lord's life, and the lord sponsored him into the Lodge. In a clearing an owlbear ran down an elk a few yards from where they hid, and a second, larger owlbear came out of a cave in front of them. They stayed hidden while the first carried the elk past them to its family. Above the falls they crossed the stream with Eric walking on the water and towing Gemma by his ankle.
 
-On the far bank giant spiders came out of the trees at the call of two drow, the twins **Vyx and Velith**. Velith's poisoned bolt put Eric to sleep for the whole fight, and a spider began to wind him in silk. Vyx told Gemma, *"Been waiting to feed a smug elf like you to my babies for years. The Empire is over."* She cut off his head. Velith drove both her swords into Dollar's chest, and Gemma blasted her into the river. Dollar cut Eric free and gave each of them a potion that closed their wounds and lifted the poison. *"The bird's probably under the protection of these Eldeen druids. We should turn back."* A huge red bird passed over the peak above them. Dollar showed them his grounding arrows, which trail weighted cords that bind a bird's wings.
+![Gemma, Eric and Dollar hide on the slope beside the owlbears' cave](/images/album/korth-ep-17-the-red-bird-the-owlbears.webp)
+*Gemma, Eric and Dollar hide on the slope beside the owlbears' cave.*
+
+On the far bank giant spiders came out of the trees at the call of two drow, the twins [Vyx and Velith](/people/vyx-and-velith/). Velith's poisoned bolt put Eric to sleep for the whole fight, and a spider began to wind him in silk. Vyx told Gemma, *"Been waiting to feed a smug elf like you to my babies for years. The Empire is over."* She cut off his head. Velith drove both her swords into Dollar's chest, and Gemma blasted her into the river. Dollar cut Eric free and gave each of them a potion that closed their wounds and lifted the poison. *"The bird's probably under the protection of these Eldeen druids. We should turn back."* A huge red bird passed over the peak above them. Dollar showed them his grounding arrows, which trail weighted cords that bind a bird's wings.
+
+![The drow twins Vyx and Velith among their spiders](/images/album/korth-ep-17-the-red-bird-vyx-and-velith.webp)
+*The drow twins Vyx and Velith among their spiders.*
+
+![Gemma fights the drow twins while Eric lies wound in silk](/images/album/korth-ep-17-the-red-bird-the-web-shelf.webp)
+*Gemma fights the drow twins while Eric lies wound in silk.*
 
 At the top of the gorge was a fireless camp of three tents, one flying an Imperial pennant, and druids muttering in Druidic. Gemma opened the fight. The red bird came round the mountain, seized Dollar and carried him out over the valley, and he tore loose and dropped into the trees. Eric called up his *spirit guardians* and stood in the middle of the camp while Gemma blasted the druids off the cliff one after another, one of them in the shape of a ram. The bird fell on Eric with talons and beak. Dollar's grounding arrow brought it out of the air with its legs bound to its wings, and when his next arrows struck it the bird became General Stockton Thar.
+
+![The tiefling druid of General Thar's staff, in the camp on the peak](/images/album/korth-ep-17-the-red-bird-the-tiefling-druid.webp)
+*The tiefling druid of General Thar's staff, in the camp on the peak.*
+
+![Gemma blasts a druid off the cliff](/images/album/korth-ep-17-the-red-bird-off-the-cliff.webp)
+*Gemma blasts a druid off the cliff.*
+
+![Eric stands in his spirit guardians between the tiefling druid and the red bird](/images/album/korth-ep-17-the-red-bird-the-peak.webp)
+*Eric stands in his spirit guardians between the tiefling druid and the red bird.*
+
+![The red bird comes down on Gemma and Eric in the camp](/images/album/korth-ep-17-the-red-bird-the-red-bird.webp)
+*The red bird comes down on Gemma and Eric in the camp.*
 
 *"I came to hunt a bird, not a man,"* Dollar said. *"I'm no murderer."*
 
 Thar asked them, *"Who are you? What are you doing? Who ordered this? You idiots. You're fighting for an empire that's going to crumble. Do you even know what's happened to the Emperor?"* Gemma raised her sword and asked whether he recognised it. He dropped a wall of fire on them from his staff and tried to get away, and Gemma and Eric cut him down. His last druid shouted *"General!"* and died in the guardians.
 
+![General Stockton Thar, back in his own shape, turns on Gemma and Eric](/images/album/korth-ep-17-the-red-bird-thar.webp)
+*General Stockton Thar, back in his own shape, turns on Gemma and Eric.*
+
 Dollar said, *"What have you got me into? You just assassinated some military officer. This will be the end of my career."* Eric welcomed him to the rebellion. *"Rebellion, no. You think you know what's best for everyone? Collapsing the Empire, fighting all this time, destroying everything?"* Gemma cut off Thar's head. On him they found his red robes and headpiece, his dragon-headed staff, 1,200 gold in Imperial scrip, a demand in his own hand that the airships protecting the Lazaret be released to the front to save Aundair from the orcs, and a note in strange handwriting with that night's date: *Dawn. The peak at King's Forest.* It was signed **E**. Dollar took the rest of his fee and the tail feathers, gave them a share of the drow's silver and a vial of drow poison, and left. *"Good luck to you, whoever you are."* A burst of gunfire sounded in the valley, in the direction he had gone.
 
 It was nearly dawn, and they stayed to keep the appointment. Gemma cast *seeming* and became Thar, with Eric as a tiefling druid of his staff. Soldiers climbed onto the peak, moving in a strange, dead way, with weapons built into their bodies and small oculus scanners that turned toward the two of them. A woman dropped out of the sky, landed softly and fixed her eyes on Thar. She was Eden. Gemma spoke first, in Thar's ruined voice, and Eden answered in a mechanical voice with a sweeter, synthetic voice laid over it.
+
+![Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak](/images/album/korth-ep-17-the-red-bird-eden.webp)
+*Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak.*
+
+![Eden faces the two she takes for General Thar and his druid](/images/album/korth-ep-17-the-red-bird-eden-2.webp)
+*Eden faces the two she takes for General Thar and his druid.*
 
 > **Gemma, as Thar:** I see you made it. Well. Safe.
 >
@@ -137,7 +197,7 @@ Gemma's sword took them to the bank where Dollar's boat lay. They rowed back as 
 
 ## Cast
 
-[Gemma Corso](/people/gemma-corso/) · [Eric the Cleric](/people/eric-the-cleric/) · Fora Dollar · [General Stockton Thar](/people/general-stockton-thar/) · [Eden](/people/eden/) · Vyx and Velith · the dark druids of the Eldeen · Rotunda Goose · Lord Aldric and Lady Sabine Varenne · Cousin Felcher · Brillo Myers · Bimples · Pork Broccoli
+[Gemma Corso](/people/gemma-corso/) · [Eric the Cleric](/people/eric-the-cleric/) · [Fora Dollar](/people/fora-dollar/) · [General Stockton Thar](/people/general-stockton-thar/) · [Eden](/people/eden/) · [Vyx and Velith](/people/vyx-and-velith/) · the dark druids of the Eldeen · [Rotunda Goose](/people/rotunda-goose/) · Lord Aldric and Lady Sabine Varenne · Cousin Felcher · Brillo Myers · Bimples · Pork Broccoli
 
 ## Consequences
 

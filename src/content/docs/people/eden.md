@@ -50,6 +50,12 @@ wa:
   uuid: 8d8717a5-f23e-4f57-90b3-73c4f0a18387
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
+  - src: /images/album/korth-ep-17-the-red-bird-eden.webp
+    alt: 'Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak - Korth Ep 17, The Red Bird'
+    caption: 'Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak - Korth Ep 17, The Red Bird'
+  - src: /images/album/korth-ep-17-the-red-bird-eden-2.webp
+    alt: 'Eden faces the two she takes for General Thar and his druid - Korth Ep 17, The Red Bird'
+    caption: 'Eden faces the two she takes for General Thar and his druid - Korth Ep 17, The Red Bird'
   - src: /images/gallery/2026-01-06-05.webp
     alt: 'BioTec file: Subject Zero, Eden'
     caption: 'A restricted BioTec addendum titled "Foundational Incidents & Prototype History", describing Subject Zero: Eden (EDN-00) and a pre-BioTec incident report.'

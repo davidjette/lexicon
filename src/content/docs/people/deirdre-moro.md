@@ -47,6 +47,9 @@ wa:
   slug: deirdre-moro-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
+- src: /images/album/korth-ep-17-the-red-bird-deirdre-and-graham.webp
+  alt: 'Gemma and Eric as Deirdre Moro and Graham Cracker, dressed for the hunt - Korth Ep 17, The Red Bird'
+  caption: 'Gemma and Eric as Deirdre Moro and Graham Cracker, dressed for the hunt - Korth Ep 17, The Red Bird'
 - src: /images/album/gemma-as-deirdre-moro-with-juan-valdez.webp
   alt: Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth -
   caption: 'Gemma Corso (Disguised as Deirdre Moro) and coffee shop owner Juan Valdez on the streets of the Imperial capital Korth - Korth Episode: The Listening Post'

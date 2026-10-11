@@ -78,6 +78,15 @@ wa:
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+  - src: /images/album/korth-ep-17-the-red-bird-gemma-and-the-wolves.webp
+    alt: 'Gemma among the wolves - Korth Ep 17, The Red Bird'
+    caption: 'Gemma among the wolves - Korth Ep 17, The Red Bird'
+  - src: /images/album/korth-ep-17-the-red-bird-off-the-cliff.webp
+    alt: 'Gemma blasts a druid off the cliff - Korth Ep 17, The Red Bird'
+    caption: 'Gemma blasts a druid off the cliff - Korth Ep 17, The Red Bird'
+  - src: /images/album/korth-ep-17-the-red-bird-the-red-bird.webp
+    alt: 'The red bird comes down on Gemma and Eric in the camp - Korth Ep 17, The Red Bird'
+    caption: 'The red bird comes down on Gemma and Eric in the camp - Korth Ep 17, The Red Bird'
   - src: /images/album/gemma-corso-and-kitsune-1.webp
     alt: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening P'
     caption: 'Gemma Corso and her Archfey Patron Kitsune - Dream sequence on board a river boat barge - Korth Episode: The Listening Post'

@@ -41,6 +41,13 @@ published: '2026-09-10'
 wa:
   slug: the-grand-lodge-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
+gallery:
+  - src: /images/album/korth-ep-17-the-red-bird-the-hunters-salon.webp
+    alt: 'Deirdre and Graham meet Fora Dollar in the Hunters'' Salon - Korth Ep 17, The Red Bird'
+    caption: 'Deirdre and Graham meet Fora Dollar in the Hunters'' Salon - Korth Ep 17, The Red Bird'
+  - src: /images/album/korth-ep-17-the-red-bird-rotunda-goose.webp
+    alt: 'Deirdre Moro and Graham Cracker with Rotunda Goose in the ballroom - Korth Ep 17, The Red Bird'
+    caption: 'Deirdre Moro and Graham Cracker with Rotunda Goose in the ballroom - Korth Ep 17, The Red Bird'
 campaigns:
   - the-unforeseen-strike-back
 ---

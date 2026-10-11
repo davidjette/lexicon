@@ -51,6 +51,15 @@ wa:
   slug: general-stockton-thar-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
 gallery:
+  - src: /images/album/korth-ep-17-the-red-bird-thar.webp
+    alt: 'General Stockton Thar, back in his own shape, turns on Gemma and Eric - Korth Ep 17, The Red Bird'
+    caption: 'General Stockton Thar, back in his own shape, turns on Gemma and Eric - Korth Ep 17, The Red Bird'
+  - src: /images/album/korth-ep-17-the-red-bird-the-red-bird.webp
+    alt: 'The red bird comes down on Gemma and Eric in the camp - Korth Ep 17, The Red Bird'
+    caption: 'The red bird comes down on Gemma and Eric in the camp - Korth Ep 17, The Red Bird'
+  - src: /images/album/korth-ep-17-the-red-bird-the-peak.webp
+    alt: 'Eric stands in his spirit guardians between the tiefling druid and the red bird - Korth Ep 17, The Red Bird'
+    caption: 'Eric stands in his spirit guardians between the tiefling druid and the red bird - Korth Ep 17, The Red Bird'
   - src: /images/album/stockton-thar-and-rotunda-goose.webp
     alt: General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for t
     caption: 'General Stockton Thar and Rotunda Goose - Aboard a busy river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'

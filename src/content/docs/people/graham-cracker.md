@@ -42,6 +42,9 @@ wa:
   slug: graham-cracker-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
+- src: /images/album/korth-ep-17-the-red-bird-deirdre-and-graham.webp
+  alt: 'Gemma and Eric as Deirdre Moro and Graham Cracker, dressed for the hunt - Korth Ep 17, The Red Bird'
+  caption: 'Gemma and Eric as Deirdre Moro and Graham Cracker, dressed for the hunt - Korth Ep 17, The Red Bird'
 - src: /images/gallery/2026-07-12-01.webp
   alt: The disguised trio in Deirdre Moro's apartment
   caption: In a stone-walled apartment, a long-haired elf holding a book, a dark-haired elf woman in a red gown and an armoured knight stand talking. The trio wear the stolen faces of Deirdre Moro, Graham Cracker and their bodyguard in Korth.
