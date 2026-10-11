@@ -33,6 +33,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Scimitar",
@@ -97,6 +98,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Scimitar",
@@ -166,6 +168,7 @@ export const SRD = [
   "packTactics": true,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Mace",
@@ -231,6 +234,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Spear",
@@ -278,6 +282,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Longsword",
@@ -363,6 +368,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greatsword",
@@ -432,6 +438,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Spear",
@@ -509,6 +516,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Shortsword",
@@ -582,6 +590,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Shortsword",
@@ -647,6 +656,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Scimitar",
@@ -657,6 +667,508 @@ export const SRD = [
      [
       "1d6+1",
       "slashing"
+     ]
+    ],
+    "riders": []
+   }
+  ],
+  "multi": null,
+  "legs": []
+ },
+ {
+  "id": "srd-cult-fanatic",
+  "name": "Cult Fanatic",
+  "group": "People",
+  "cr": 2,
+  "type": "humanoid",
+  "size": "medium",
+  "ac": 13,
+  "hp": 22,
+  "abil": {
+   "str": 11,
+   "dex": 14,
+   "con": 12,
+   "int": 10,
+   "wis": 13,
+   "cha": 14
+  },
+  "saves": {},
+  "resist": [],
+  "immune": [],
+  "vuln": [],
+  "condImmune": [],
+  "flying": false,
+  "lr": 0,
+  "regen": 0,
+  "magicAdv": false,
+  "packTactics": false,
+  "undeadFortitude": false,
+  "spellcaster": false,
+  "casting": {
+   "level": 4,
+   "dc": 11,
+   "toHit": 3,
+   "mod": 1,
+   "slots": {
+    "1": 4,
+    "2": 3
+   },
+   "spells": [
+    {
+     "name": "light",
+     "level": 0
+    },
+    {
+     "name": "sacred flame",
+     "level": 0
+    },
+    {
+     "name": "thaumaturgy",
+     "level": 0
+    },
+    {
+     "name": "command",
+     "level": 1
+    },
+    {
+     "name": "inflict wounds",
+     "level": 1
+    },
+    {
+     "name": "shield of faith",
+     "level": 1
+    },
+    {
+     "name": "hold person",
+     "level": 2
+    },
+    {
+     "name": "spiritual weapon",
+     "level": 2
+    }
+   ]
+  },
+  "actions": [
+   {
+    "name": "Dagger",
+    "kind": "attack",
+    "toHit": 4,
+    "melee": true,
+    "dmg": [
+     [
+      "1d4+2",
+      "piercing"
+     ]
+    ],
+    "riders": []
+   }
+  ],
+  "multi": [
+   {
+    "name": "Dagger",
+    "count": 2
+   }
+  ],
+  "legs": []
+ },
+ {
+  "id": "srd-priest",
+  "name": "Priest",
+  "group": "People",
+  "cr": 2,
+  "type": "humanoid",
+  "size": "medium",
+  "ac": 13,
+  "hp": 27,
+  "abil": {
+   "str": 10,
+   "dex": 10,
+   "con": 12,
+   "int": 13,
+   "wis": 16,
+   "cha": 13
+  },
+  "saves": {},
+  "resist": [],
+  "immune": [],
+  "vuln": [],
+  "condImmune": [],
+  "flying": false,
+  "lr": 0,
+  "regen": 0,
+  "magicAdv": false,
+  "packTactics": false,
+  "undeadFortitude": false,
+  "spellcaster": false,
+  "casting": {
+   "level": 5,
+   "dc": 13,
+   "toHit": 5,
+   "mod": 3,
+   "slots": {
+    "1": 4,
+    "2": 3,
+    "3": 2
+   },
+   "spells": [
+    {
+     "name": "light",
+     "level": 0
+    },
+    {
+     "name": "sacred flame",
+     "level": 0
+    },
+    {
+     "name": "thaumaturgy",
+     "level": 0
+    },
+    {
+     "name": "cure wounds",
+     "level": 1
+    },
+    {
+     "name": "guiding bolt",
+     "level": 1
+    },
+    {
+     "name": "sanctuary",
+     "level": 1
+    },
+    {
+     "name": "lesser restoration",
+     "level": 2
+    },
+    {
+     "name": "spiritual weapon",
+     "level": 2
+    },
+    {
+     "name": "dispel magic",
+     "level": 3
+    },
+    {
+     "name": "spirit guardians",
+     "level": 3
+    }
+   ]
+  },
+  "actions": [
+   {
+    "name": "Mace",
+    "kind": "attack",
+    "toHit": 2,
+    "melee": true,
+    "dmg": [
+     [
+      "1d6",
+      "bludgeoning"
+     ]
+    ],
+    "riders": []
+   }
+  ],
+  "multi": null,
+  "legs": []
+ },
+ {
+  "id": "srd-mage",
+  "name": "Mage",
+  "group": "People",
+  "cr": 6,
+  "type": "humanoid",
+  "size": "medium",
+  "ac": 12,
+  "hp": 40,
+  "abil": {
+   "str": 9,
+   "dex": 14,
+   "con": 11,
+   "int": 17,
+   "wis": 12,
+   "cha": 11
+  },
+  "saves": {
+   "int": 6,
+   "wis": 4
+  },
+  "resist": [],
+  "immune": [],
+  "vuln": [],
+  "condImmune": [],
+  "flying": false,
+  "lr": 0,
+  "regen": 0,
+  "magicAdv": false,
+  "packTactics": false,
+  "undeadFortitude": false,
+  "spellcaster": false,
+  "casting": {
+   "level": 9,
+   "dc": 14,
+   "toHit": 6,
+   "mod": 3,
+   "slots": {
+    "1": 4,
+    "2": 3,
+    "3": 3,
+    "4": 3,
+    "5": 1
+   },
+   "spells": [
+    {
+     "name": "fire bolt",
+     "level": 0
+    },
+    {
+     "name": "light",
+     "level": 0
+    },
+    {
+     "name": "mage hand",
+     "level": 0
+    },
+    {
+     "name": "prestidigitation",
+     "level": 0
+    },
+    {
+     "name": "detect magic",
+     "level": 1
+    },
+    {
+     "name": "mage armor",
+     "level": 1
+    },
+    {
+     "name": "magic missile",
+     "level": 1
+    },
+    {
+     "name": "shield",
+     "level": 1
+    },
+    {
+     "name": "misty step",
+     "level": 2
+    },
+    {
+     "name": "suggestion",
+     "level": 2
+    },
+    {
+     "name": "counterspell",
+     "level": 3
+    },
+    {
+     "name": "fireball",
+     "level": 3
+    },
+    {
+     "name": "fly",
+     "level": 3
+    },
+    {
+     "name": "greater invisibility",
+     "level": 4
+    },
+    {
+     "name": "ice storm",
+     "level": 4
+    },
+    {
+     "name": "cone of cold",
+     "level": 5
+    }
+   ]
+  },
+  "actions": [
+   {
+    "name": "Dagger",
+    "kind": "attack",
+    "toHit": 5,
+    "melee": true,
+    "dmg": [
+     [
+      "1d4+2",
+      "piercing"
+     ]
+    ],
+    "riders": []
+   }
+  ],
+  "multi": null,
+  "legs": []
+ },
+ {
+  "id": "srd-archmage",
+  "name": "Archmage",
+  "group": "People",
+  "cr": 12,
+  "type": "humanoid",
+  "size": "medium",
+  "ac": 12,
+  "hp": 99,
+  "abil": {
+   "str": 10,
+   "dex": 14,
+   "con": 12,
+   "int": 20,
+   "wis": 15,
+   "cha": 16
+  },
+  "saves": {
+   "int": 9,
+   "wis": 6
+  },
+  "resist": [],
+  "immune": [],
+  "vuln": [],
+  "condImmune": [],
+  "flying": false,
+  "lr": 0,
+  "regen": 0,
+  "magicAdv": true,
+  "packTactics": false,
+  "undeadFortitude": false,
+  "spellcaster": false,
+  "casting": {
+   "level": 18,
+   "dc": 17,
+   "toHit": 9,
+   "mod": 5,
+   "slots": {
+    "1": 4,
+    "2": 3,
+    "3": 3,
+    "4": 3,
+    "5": 3,
+    "6": 1,
+    "7": 1,
+    "8": 1,
+    "9": 1
+   },
+   "spells": [
+    {
+     "name": "disguise self",
+     "level": 1
+    },
+    {
+     "name": "invisibility",
+     "level": 2
+    },
+    {
+     "name": "fire bolt",
+     "level": 0
+    },
+    {
+     "name": "light",
+     "level": 0
+    },
+    {
+     "name": "mage hand",
+     "level": 0
+    },
+    {
+     "name": "prestidigitation",
+     "level": 0
+    },
+    {
+     "name": "shocking grasp",
+     "level": 0
+    },
+    {
+     "name": "detect magic",
+     "level": 1
+    },
+    {
+     "name": "identify",
+     "level": 1
+    },
+    {
+     "name": "mage armor",
+     "level": 1
+    },
+    {
+     "name": "magic missile",
+     "level": 1
+    },
+    {
+     "name": "detect thoughts",
+     "level": 2
+    },
+    {
+     "name": "mirror image",
+     "level": 2
+    },
+    {
+     "name": "misty step",
+     "level": 2
+    },
+    {
+     "name": "counterspell",
+     "level": 3
+    },
+    {
+     "name": "fly",
+     "level": 3
+    },
+    {
+     "name": "lightning bolt",
+     "level": 3
+    },
+    {
+     "name": "banishment",
+     "level": 4
+    },
+    {
+     "name": "fire shield",
+     "level": 4
+    },
+    {
+     "name": "stoneskin",
+     "level": 4
+    },
+    {
+     "name": "cone of cold",
+     "level": 5
+    },
+    {
+     "name": "scrying",
+     "level": 5
+    },
+    {
+     "name": "wall of force",
+     "level": 5
+    },
+    {
+     "name": "globe of invulnerability",
+     "level": 6
+    },
+    {
+     "name": "teleport",
+     "level": 7
+    },
+    {
+     "name": "mind blank",
+     "level": 8
+    },
+    {
+     "name": "time stop",
+     "level": 9
+    }
+   ]
+  },
+  "actions": [
+   {
+    "name": "Dagger",
+    "kind": "attack",
+    "toHit": 6,
+    "melee": true,
+    "dmg": [
+     [
+      "1d4+2",
+      "piercing"
      ]
     ],
     "riders": []
@@ -694,6 +1206,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Scimitar",
@@ -754,6 +1267,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Longsword",
@@ -814,6 +1328,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Morningstar",
@@ -874,6 +1389,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greataxe",
@@ -934,6 +1450,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greatclub",
@@ -994,6 +1511,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -1063,6 +1581,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greatclub",
@@ -1134,6 +1653,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greataxe",
@@ -1205,6 +1725,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greatsword",
@@ -1274,6 +1795,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greatclub",
@@ -1353,6 +1875,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Shortsword",
@@ -1419,6 +1942,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": true,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Slam",
@@ -1472,6 +1996,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -1547,6 +2072,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -1633,6 +2159,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Life Drain",
@@ -1687,6 +2214,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Life Drain",
@@ -1783,6 +2311,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Life Drain",
@@ -1849,6 +2378,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Withering Touch",
@@ -1932,6 +2462,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Rotting Fist",
@@ -2008,6 +2539,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2083,6 +2615,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Unarmed Strike",
@@ -2182,6 +2715,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Shock",
@@ -2199,6 +2733,425 @@ export const SRD = [
   ],
   "multi": null,
   "legs": []
+ },
+ {
+  "id": "srd-mummy-lord",
+  "name": "Mummy Lord",
+  "group": "Undead",
+  "cr": 15,
+  "type": "undead",
+  "size": "medium",
+  "ac": 17,
+  "hp": 97,
+  "abil": {
+   "str": 18,
+   "dex": 10,
+   "con": 17,
+   "int": 11,
+   "wis": 18,
+   "cha": 16
+  },
+  "saves": {
+   "con": 8,
+   "int": 5,
+   "wis": 9,
+   "cha": 8
+  },
+  "resist": [],
+  "immune": [
+   "necrotic",
+   "poison"
+  ],
+  "vuln": [
+   "fire"
+  ],
+  "condImmune": [
+   "charmed",
+   "exhaustion",
+   "frightened",
+   "paralysed",
+   "poisoned"
+  ],
+  "flying": false,
+  "lr": 0,
+  "regen": 0,
+  "magicAdv": true,
+  "packTactics": false,
+  "undeadFortitude": false,
+  "spellcaster": false,
+  "casting": {
+   "level": 10,
+   "dc": 17,
+   "toHit": 9,
+   "mod": 4,
+   "slots": {
+    "1": 4,
+    "2": 3,
+    "3": 3,
+    "4": 3,
+    "5": 2,
+    "6": 1
+   },
+   "spells": [
+    {
+     "name": "sacred flame",
+     "level": 0
+    },
+    {
+     "name": "thaumaturgy",
+     "level": 0
+    },
+    {
+     "name": "command",
+     "level": 1
+    },
+    {
+     "name": "guiding bolt",
+     "level": 1
+    },
+    {
+     "name": "shield of faith",
+     "level": 1
+    },
+    {
+     "name": "hold person",
+     "level": 2
+    },
+    {
+     "name": "silence",
+     "level": 2
+    },
+    {
+     "name": "spiritual weapon",
+     "level": 2
+    },
+    {
+     "name": "animate dead",
+     "level": 3
+    },
+    {
+     "name": "dispel magic",
+     "level": 3
+    },
+    {
+     "name": "divination",
+     "level": 4
+    },
+    {
+     "name": "guardian of faith",
+     "level": 4
+    },
+    {
+     "name": "contagion",
+     "level": 5
+    },
+    {
+     "name": "insect plague",
+     "level": 5
+    },
+    {
+     "name": "harm",
+     "level": 6
+    }
+   ]
+  },
+  "actions": [
+   {
+    "name": "Rotting Fist",
+    "kind": "attack",
+    "toHit": 9,
+    "melee": true,
+    "dmg": [
+     [
+      "3d6+4",
+      "bludgeoning"
+     ],
+     [
+      "6d6",
+      "necrotic"
+     ]
+    ],
+    "riders": []
+   },
+   {
+    "name": "Dreadful Glare",
+    "kind": "save",
+    "save": "wis",
+    "dc": 16,
+    "dmg": [],
+    "half": false,
+    "area": true,
+    "cond": "frightened",
+    "repeat": false
+   },
+   {
+    "name": "Blasphemous Word",
+    "kind": "save",
+    "save": "con",
+    "dc": 16,
+    "dmg": [],
+    "half": false,
+    "area": true,
+    "cond": "stunned",
+    "repeat": false,
+    "legOnly": true
+   }
+  ],
+  "multi": [
+   {
+    "name": "Dreadful Glare",
+    "count": 1
+   },
+   {
+    "name": "Rotting Fist",
+    "count": 1
+   }
+  ],
+  "legs": [
+   {
+    "name": "Rotting Fist",
+    "cost": 1
+   },
+   {
+    "name": "Blasphemous Word",
+    "cost": 2
+   }
+  ]
+ },
+ {
+  "id": "srd-lich",
+  "name": "Lich",
+  "group": "Undead",
+  "cr": 21,
+  "type": "undead",
+  "size": "medium",
+  "ac": 17,
+  "hp": 135,
+  "abil": {
+   "str": 11,
+   "dex": 16,
+   "con": 16,
+   "int": 20,
+   "wis": 14,
+   "cha": 16
+  },
+  "saves": {
+   "con": 10,
+   "int": 12,
+   "wis": 9
+  },
+  "resist": [
+   "cold",
+   "lightning",
+   "necrotic"
+  ],
+  "immune": [
+   "poison"
+  ],
+  "vuln": [],
+  "condImmune": [
+   "charmed",
+   "exhaustion",
+   "frightened",
+   "paralysed",
+   "poisoned"
+  ],
+  "flying": false,
+  "lr": 3,
+  "regen": 0,
+  "magicAdv": false,
+  "packTactics": false,
+  "undeadFortitude": false,
+  "spellcaster": false,
+  "casting": {
+   "level": 18,
+   "dc": 20,
+   "toHit": 12,
+   "mod": 5,
+   "slots": {
+    "1": 4,
+    "2": 3,
+    "3": 3,
+    "4": 3,
+    "5": 3,
+    "6": 1,
+    "7": 1,
+    "8": 1,
+    "9": 1
+   },
+   "spells": [
+    {
+     "name": "mage hand",
+     "level": 0
+    },
+    {
+     "name": "prestidigitation",
+     "level": 0
+    },
+    {
+     "name": "ray of frost",
+     "level": 0
+    },
+    {
+     "name": "detect magic",
+     "level": 1
+    },
+    {
+     "name": "magic missile",
+     "level": 1
+    },
+    {
+     "name": "shield",
+     "level": 1
+    },
+    {
+     "name": "thunderwave",
+     "level": 1
+    },
+    {
+     "name": "acid arrow",
+     "level": 2
+    },
+    {
+     "name": "detect thoughts",
+     "level": 2
+    },
+    {
+     "name": "invisibility",
+     "level": 2
+    },
+    {
+     "name": "mirror image",
+     "level": 2
+    },
+    {
+     "name": "animate dead",
+     "level": 3
+    },
+    {
+     "name": "counterspell",
+     "level": 3
+    },
+    {
+     "name": "dispel magic",
+     "level": 3
+    },
+    {
+     "name": "fireball",
+     "level": 3
+    },
+    {
+     "name": "blight",
+     "level": 4
+    },
+    {
+     "name": "dimension door",
+     "level": 4
+    },
+    {
+     "name": "cloudkill",
+     "level": 5
+    },
+    {
+     "name": "scrying",
+     "level": 5
+    },
+    {
+     "name": "disintegrate",
+     "level": 6
+    },
+    {
+     "name": "globe of invulnerability",
+     "level": 6
+    },
+    {
+     "name": "finger of death",
+     "level": 7
+    },
+    {
+     "name": "plane shift",
+     "level": 7
+    },
+    {
+     "name": "dominate monster",
+     "level": 8
+    },
+    {
+     "name": "power word stun",
+     "level": 8
+    },
+    {
+     "name": "power word kill",
+     "level": 9
+    }
+   ]
+  },
+  "actions": [
+   {
+    "name": "Paralyzing Touch",
+    "kind": "attack",
+    "toHit": 12,
+    "melee": true,
+    "dmg": [
+     [
+      "3d6",
+      "cold"
+     ]
+    ],
+    "riders": [
+     {
+      "save": "con",
+      "dc": 18,
+      "cond": "paralysed",
+      "repeat": true
+     }
+    ]
+   },
+   {
+    "name": "Frightening Gaze",
+    "kind": "save",
+    "save": "wis",
+    "dc": 18,
+    "dmg": [],
+    "half": false,
+    "area": true,
+    "cond": "frightened",
+    "repeat": true,
+    "legOnly": true
+   },
+   {
+    "name": "Disrupt Life",
+    "kind": "save",
+    "save": "con",
+    "dc": 18,
+    "dmg": [
+     [
+      "6d6",
+      "necrotic"
+     ]
+    ],
+    "half": false,
+    "area": true,
+    "cond": null,
+    "repeat": false,
+    "legOnly": true
+   }
+  ],
+  "multi": null,
+  "legs": [
+   {
+    "name": "Paralyzing Touch",
+    "cost": 2
+   },
+   {
+    "name": "Frightening Gaze",
+    "cost": 2
+   },
+   {
+    "name": "Disrupt Life",
+    "cost": 3
+   }
+  ]
  },
  {
   "id": "srd-wolf",
@@ -2229,6 +3182,7 @@ export const SRD = [
   "packTactics": true,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2283,6 +3237,7 @@ export const SRD = [
   "packTactics": true,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2337,6 +3292,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2384,6 +3340,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Beak",
@@ -2453,6 +3410,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2504,6 +3462,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2586,6 +3545,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Greataxe",
@@ -2646,6 +3606,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2715,6 +3676,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2818,6 +3780,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2870,6 +3833,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -2956,6 +3920,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Pseudopod",
@@ -3027,6 +3992,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Pseudopod",
@@ -3100,6 +4066,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Pseudopod",
@@ -3158,6 +4125,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Sting",
@@ -3207,6 +4175,7 @@ export const SRD = [
   "packTactics": true,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -3286,6 +4255,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Beard",
@@ -3374,6 +4344,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Longsword",
@@ -3466,6 +4437,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Beak",
@@ -3572,6 +4544,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Longsword",
@@ -3663,6 +4636,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Slam",
@@ -3725,6 +4699,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Slam",
@@ -3789,6 +4764,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Touch",
@@ -3854,6 +4830,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Slam",
@@ -3933,6 +4910,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Slam",
@@ -3996,6 +4974,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Slam",
@@ -4085,6 +5064,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -4182,6 +5162,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -4279,6 +5260,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -4430,6 +5412,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",
@@ -4581,6 +5564,7 @@ export const SRD = [
   "packTactics": false,
   "undeadFortitude": false,
   "spellcaster": false,
+  "casting": null,
   "actions": [
    {
     "name": "Bite",

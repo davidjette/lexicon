@@ -1,10 +1,11 @@
 // Simple versions of the player characters from the D&D Beyond exports (heroes-data.js, generated).
-// "Simple" means: the sheet's own numbers, its best weapon routine, its best cantrip, its attack
-// spells and a few well-known damage and healing spells, run by the plain plan-following tactics.
-// No hand-written tactics, no subclass features beyond the handful named below.
+// "Simple" means: the sheet's own numbers, its best weapon routine, its cantrips, and every spell on
+// its list that the spell book (data/spells.js) can run, cast from the character's own spell slots.
+// No hand-written tactics, no metamagic, no item powers, no subclass features beyond those below.
 
 import { HEROES } from './heroes-data.js';
-import { melee, ranged, save, multi, healing, emanation } from '../data/lib.js';
+import { melee, ranged, save, multi } from '../data/lib.js';
+import { cast, reaction, knows, castBest, castHeal, castControl, castBuff } from '../data/spells.js';
 import { avgDice } from '../engine/dice.js';
 import { register } from '../data/registry.js';
 
@@ -48,25 +49,37 @@ export function buildHero(h) {
   }
   routines.sort((x, y) => y[1] - x[1]);
 
+  const atWill = routines[0] ? routines[0][1] : 0;
+  const caster = !!(h.slots || h.pact);
+  const topSlot = h.slots ? Math.max(...Object.keys(h.slots).map(Number)) : h.pact ? h.pact.level : 0;
+  // spells that stay up and act again each round are not run as one-off attacks
+  const SUSTAINED = ['crown of stars', 'spiritual weapon', 'shadow blade', 'flame blade', 'flaming sphere', "bigby's hand", 'storm sphere', 'vampiric touch'];
   const plan = [];
-  // well-known spells from the sheet's list
-  h.big.forEach((b, i) => {
-    const id = `big${i}`;
-    const title = b.name.replace(/\b\w/g, (ch) => ch.toUpperCase());
-    if (b.area === 'aura') {
-      actions[id] = emanation(title, { save: b.save, dc: h.dc, dmg: [[b.dmg, b.type]], on: ['enemyEnd', 'casterTurn'], uses: b.uses });
-      plan.push({ use: id, if: (E, c) => !c.conc && [...c.engaged].some((x) => E.present(E.get(x))) });
-    } else {
-      actions[id] = save(title, b.save, h.dc, [[b.dmg, b.type]], { half: true, spell: true, uses: b.uses, area: b.area ? { type: 'near', max: 5, spread: 0.3 } : undefined });
-      plan.push(b.area ? { use: id, if: (E, c) => foes(E, c).length >= 2 } : { use: id, chance: 0.6 });
-    }
-  });
-  // attack spells with a level: two castings each
-  h.attacks.filter((a) => a.spell && a.slot > 0).forEach((a, i) => {
-    const id = `spell${i}`;
-    actions[id] = mk(a, { uses: 2 });
-    if (worth(a) > (routines[0] ? routines[0][1] : 0)) plan.push({ use: id });
-  });
+  // every spell on the sheet that the book knows
+  const ids = [];
+  const notRun = [];
+  const reactions = [];
+  for (const [name, lvl] of Object.entries(h.spells)) {
+    if (!lvl) continue;
+    const onSheet = h.attacks.some((x) => x.spell && x.slot > 0 && x.name.toLowerCase() === name) && !SUSTAINED.includes(name);
+    if (lvl > topSlot) { notRun.push(name); continue; }
+    if (!knows(name)) { if (!onSheet) notRun.push(name); continue; }
+    const r = reaction(name, { dc: h.dc });
+    if (r) { reactions.push(r); continue; }
+    const id = `sp_${name.replace(/[^a-z0-9]+/g, '_')}`;
+    actions[id] = cast(name, { dc: h.dc, toHit: h.spellHit, mod: h.spellMod, charLevel: h.level });
+    ids.push(id);
+  }
+  plan.push(castHeal(ids), castControl(ids), castBuff(ids), castBest(ids, atWill));
+  // attack spells written on the sheet that the book does not know (house spells), at the sheet's numbers
+  if (caster) {
+    h.attacks.filter((a) => a.spell && a.slot > 0 && a.slot <= topSlot && !knows(a.name) && !SUSTAINED.includes(a.name.toLowerCase())).forEach((a, i) => {
+      const id = `spell${i}`;
+      actions[id] = mk(a, { slot: a.slot });
+      ids.push(id);
+      if (worth(a) > atWill) plan.push({ use: id });
+    });
+  }
   // in melee, a character with a real weapon uses it, and does not shoot at disadvantage
   const meleeWorth = (routines.find((r) => r[0] === 'meleeRoutine') || [0, 0])[1];
   if (meleeWorth && routines[0][0] !== 'meleeRoutine' && meleeWorth >= 0.6 * routines[0][1]) {
@@ -74,13 +87,7 @@ export function buildHero(h) {
   }
   for (const [id] of routines) plan.push(id);
 
-  const bonusPlan = [];
-  h.heals.forEach((x, i) => {
-    const id = `heal${i}`;
-    actions[id] = healing(x.name.replace(/\b\w/g, (ch) => ch.toUpperCase()), x.dice, { cost: x.cost === 'bonus' ? 'bonus' : 'action', uses: x.uses, below: 0.4, spell: true });
-    if (x.cost === 'bonus') bonusPlan.push(id);
-    else plan.unshift({ use: id, if: (E, c) => E.alliesOf(c, true).some((a) => a.down || a.hp < a.maxHp * 0.3) });
-  });
+  const bonusPlan = [castHeal(ids)];
   if (h.monk && actions.melee) {
     actions.martialArts = { ...actions.melee, name: 'Martial Arts (bonus strike)', cost: 'bonus', n: 1 };
     bonusPlan.push('martialArts');
@@ -99,9 +106,10 @@ export function buildHero(h) {
   const frontline = routines[0] && routines[0][0] === 'meleeRoutine';
   return {
     id: h.id, name: h.campaign === 'The Unforeseen' ? `${h.name} (Original, level ${h.level})` : h.name, side: 'pc', pc: true, hero: true, type: 'humanoid', smart: true, pos: frontline ? 'front' : 'back',
-    sub: `${h.classLine} · ${h.campaign}`, level: h.level,
+    sub: `${h.classLine} · ${h.campaign}${ids.length + reactions.length ? ` · ${ids.length + reactions.length} spells run${notRun.length ? `, ${notRun.length} not` : ''}` : ''}`, level: h.level,
+    slots: h.slots || undefined, pact: h.pact || undefined, spellsNotRun: notRun,
     ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist,
-    actions, plan, bonusPlan,
+    actions, plan, bonusPlan, reactions: reactions.length ? reactions : undefined,
     hooks: {
       onFightStart(E, c) {
         if (h.barbarian) E.addFx(c, { id: 'rage', name: 'Rage', resist: ['bludgeoning', 'piercing', 'slashing'], extraDmg: [[h.barbarian >= 9 ? '3' : '2', 'slashing']], extraMeleeOnly: true }, c);

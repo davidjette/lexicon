@@ -94,8 +94,13 @@ function targetsFor(E, c, id, entry) {
   }
 }
 
-// Try one plan entry: a string id or { use, if, chance, opt, target, min, cost }.
+// Try one plan entry: a string id, { use, if, chance, opt, target, min, cost }, or a function.
 export function tryPlan(E, c, entry, slot) {
+  // an entry may be a function that makes its own choice (the spell book's castBest and friends)
+  if (typeof entry === 'function') {
+    const ch = entry(E, c, slot || 'action');
+    return ch && E.usable(c, ch.act, ch) ? ch : null;
+  }
   const e = typeof entry === 'string' ? { use: entry } : entry;
   const act = E.action(c, e.use);
   if (!act) return null;

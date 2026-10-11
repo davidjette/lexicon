@@ -29,6 +29,17 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 2,
+   "6": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Elven Longsword",
@@ -115,30 +126,31 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "flame strike",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "fire",
-    "area": true,
-    "uses": 1
-   }
-  ],
-  "heals": [
-   {
-    "name": "mass healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 1
-   },
-   {
-    "name": "mass cure wounds",
-    "dice": "5d8+5",
-    "cost": "action",
-    "uses": 1
-   }
-  ],
+  "spells": {
+   "blade barrier": 6,
+   "word of recall": 6,
+   "commune": 5,
+   "flame strike": 5,
+   "hallow": 5,
+   "mass cure wounds": 5,
+   "scrying": 5,
+   "control water": 4,
+   "stone shape": 4,
+   "mass healing word": 3,
+   "protection from energy": 3,
+   "sending": 3,
+   "water walk": 3,
+   "misty step": 2,
+   "spiritual weapon": 2,
+   "protection from evil and good": 1,
+   "shield of faith": 1,
+   "druidcraft": 0,
+   "guidance": 0,
+   "mending": 0,
+   "sacred flame": 0,
+   "toll the dead": 0,
+   "word of radiance": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -175,6 +187,20 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 19,
+  "spellHit": 11,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 3,
+   "6": 2,
+   "7": 2,
+   "8": 1,
+   "9": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Axe of the Woods",
@@ -191,44 +217,31 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "flame strike",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "fire",
-    "area": true,
-    "uses": 1
-   },
-   {
-    "name": "spirit guardians",
-    "save": "wis",
-    "dmg": "3d8",
-    "type": "radiant",
-    "area": "aura",
-    "uses": 1
-   }
-  ],
-  "heals": [
-   {
-    "name": "heal",
-    "dice": "70",
-    "cost": "action",
-    "uses": 1
-   },
-   {
-    "name": "mass healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 1
-   },
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   }
-  ],
+  "spells": {
+   "gate": 9,
+   "mass heal": 9,
+   "control weather": 8,
+   "plane shift": 7,
+   "temple of the gods": 7,
+   "find the path": 6,
+   "heal": 6,
+   "heroes' feast": 6,
+   "true seeing": 6,
+   "commune with nature": 5,
+   "flame strike": 5,
+   "banishment": 4,
+   "control water": 4,
+   "freedom of movement": 4,
+   "mass healing word": 3,
+   "spirit guardians": 3,
+   "calm emotions": 2,
+   "hold person": 2,
+   "prayer of healing": 2,
+   "healing word": 1,
+   "guidance": 0,
+   "sacred flame": 0,
+   "spare the dying": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -265,6 +278,13 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 19,
+  "spellHit": 13,
+  "spellMod": 5,
+  "slots": null,
+  "pact": {
+   "n": 3,
+   "level": 5
+  },
   "attacks": [
    {
     "name": "Dagger",
@@ -337,17 +357,27 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "moonbeam",
-    "save": "con",
-    "dmg": "2d10",
-    "type": "radiant",
-    "area": false,
-    "uses": 2
-   }
-  ],
-  "heals": [],
+  "spells": {
+   "dominate monster": 8,
+   "crown of stars": 7,
+   "conjure fey": 6,
+   "dream": 5,
+   "far step": 5,
+   "seeming": 5,
+   "dimension door": 4,
+   "greater invisibility": 4,
+   "animate dead": 3,
+   "thunder step": 3,
+   "invisibility": 2,
+   "mirror image": 2,
+   "misty step": 2,
+   "moonbeam": 2,
+   "hex": 1,
+   "booming blade": 0,
+   "eldritch blast": 0,
+   "green-flame blade": 0,
+   "mage hand": 0
+  },
   "rogue": 5,
   "barbarian": 0,
   "fighter": 0,
@@ -384,6 +414,16 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 19,
+  "spellHit": 11,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Bazooka Joe",
@@ -414,24 +454,29 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "fireball",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "fire",
-    "area": true,
-    "uses": 2
-   }
-  ],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "summon celestial": 5,
+   "death ward": 4,
+   "find greater steed": 4,
+   "staggering smite": 4,
+   "aura of vitality": 3,
+   "blinding smite": 3,
+   "counterspell": 3,
+   "fireball": 3,
+   "fly": 3,
+   "revivify": 3,
+   "spirit shroud": 3,
+   "find steed": 2,
+   "absorb elements": 1,
+   "compelled duel": 1,
+   "cure wounds": 1,
+   "expeditious retreat": 1,
+   "jump": 1,
+   "searing smite": 1,
+   "shield of faith": 1,
+   "thunderous smite": 1,
+   "wrathful smite": 1
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -466,6 +511,20 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 20,
+  "spellHit": 14,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 3,
+   "6": 2,
+   "7": 2,
+   "8": 1,
+   "9": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Silverbane",
@@ -524,52 +583,40 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "sunburst",
-    "save": "con",
-    "dmg": "12d6",
-    "type": "radiant",
-    "area": true,
-    "uses": 1
-   },
-   {
-    "name": "moonbeam",
-    "save": "con",
-    "dmg": "2d10",
-    "type": "radiant",
-    "area": false,
-    "uses": 2
-   },
-   {
-    "name": "call lightning",
-    "save": "dex",
-    "dmg": "3d10",
-    "type": "lightning",
-    "area": false,
-    "uses": 2
-   }
-  ],
-  "heals": [
-   {
-    "name": "heal",
-    "dice": "70",
-    "cost": "action",
-    "uses": 1
-   },
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   },
-   {
-    "name": "mass cure wounds",
-    "dice": "5d8+5",
-    "cost": "action",
-    "uses": 1
-   }
-  ],
+  "spells": {
+   "shapechange": 9,
+   "storm of vengeance": 9,
+   "animal shapes": 8,
+   "antipathy/sympathy": 8,
+   "dominate monster": 8,
+   "sunburst": 8,
+   "plane shift": 7,
+   "reverse gravity": 7,
+   "bones of the earth": 6,
+   "heal": 6,
+   "sunbeam": 6,
+   "greater restoration": 5,
+   "maelstrom": 5,
+   "mass cure wounds": 5,
+   "grasping vine": 4,
+   "polymorph": 4,
+   "stone shape": 4,
+   "call lightning": 3,
+   "dispel magic": 3,
+   "meld into stone": 3,
+   "alter self": 2,
+   "healing spirit": 2,
+   "lesser restoration": 2,
+   "moonbeam": 2,
+   "absorb elements": 1,
+   "charm person": 1,
+   "faerie fire": 1,
+   "healing word": 1,
+   "produce flame": 0,
+   "shape water": 0,
+   "thorn whip": 0,
+   "thunderclap": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -604,6 +651,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 20,
+  "spellHit": 15,
+  "spellMod": 5,
+  "slots": null,
+  "pact": {
+   "n": 4,
+   "level": 5
+  },
   "attacks": [
    {
     "name": "Dagger",
@@ -676,8 +730,43 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "foresight": 9,
+   "wish": 9,
+   "feeblemind": 8,
+   "crown of stars": 7,
+   "teleport": 7,
+   "scatter": 6,
+   "far step": 5,
+   "passwall": 5,
+   "raise dead": 5,
+   "scrying": 5,
+   "wall of light": 5,
+   "banishment": 4,
+   "dimension door": 4,
+   "sickening radiance": 4,
+   "blink": 3,
+   "counterspell": 3,
+   "dispel magic": 3,
+   "haste": 3,
+   "intellect fortress": 3,
+   "slow": 3,
+   "speak with dead": 3,
+   "thunder step": 3,
+   "detect thoughts": 2,
+   "invisibility": 2,
+   "mirror image": 2,
+   "misty step": 2,
+   "suggestion": 2,
+   "detect magic": 1,
+   "disguise self": 1,
+   "find familiar": 1,
+   "hex": 1,
+   "eldritch blast": 0,
+   "mage hand": 0,
+   "mind sliver": 0,
+   "prestidigitation": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -712,6 +801,20 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 19,
+  "spellHit": 13,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 3,
+   "6": 2,
+   "7": 2,
+   "8": 1,
+   "9": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Copperbane",
@@ -826,66 +929,60 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "lightning bolt",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "lightning",
-    "area": true,
-    "uses": 2
-   },
-   {
-    "name": "chain lightning",
-    "save": "dex",
-    "dmg": "10d8",
-    "type": "lightning",
-    "area": true,
-    "uses": 1
-   },
-   {
-    "name": "thunderwave",
-    "save": "con",
-    "dmg": "2d8",
-    "type": "thunder",
-    "area": true,
-    "uses": 2
-   },
-   {
-    "name": "burning hands",
-    "save": "dex",
-    "dmg": "3d6",
-    "type": "fire",
-    "area": true,
-    "uses": 2
-   }
-  ],
-  "heals": [
-   {
-    "name": "mass healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 1
-   },
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   },
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   },
-   {
-    "name": "mass cure wounds",
-    "dice": "5d8+5",
-    "cost": "action",
-    "uses": 1
-   }
-  ],
+  "spells": {
+   "wish": 9,
+   "teleport": 7,
+   "chain lightning": 6,
+   "mass suggestion": 6,
+   "greater restoration": 5,
+   "mass cure wounds": 5,
+   "raise dead": 5,
+   "seeming": 5,
+   "telekinesis": 5,
+   "conjure minor elementals": 4,
+   "animate dead": 3,
+   "counterspell": 3,
+   "haste": 3,
+   "lightning bolt": 3,
+   "mass healing word": 3,
+   "revivify": 3,
+   "alter self": 2,
+   "kara's golden shower": 2,
+   "lesser restoration": 2,
+   "misty step": 2,
+   "alarm": 1,
+   "burning hands": 1,
+   "charm person": 1,
+   "chromatic orb": 1,
+   "comprehend languages": 1,
+   "cure wounds": 1,
+   "detect magic": 1,
+   "disguise self": 1,
+   "expeditious retreat": 1,
+   "feather fall": 1,
+   "find familiar": 1,
+   "healing word": 1,
+   "identify": 1,
+   "jump": 1,
+   "magic missile": 1,
+   "protection from evil and good": 1,
+   "shield": 1,
+   "silent image": 1,
+   "sleep": 1,
+   "tenser's floating disk": 1,
+   "thunderwave": 1,
+   "unseen servant": 1,
+   "acid splash": 0,
+   "fire bolt": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "mage hand": 0,
+   "mending": 0,
+   "message": 0,
+   "minor illusion": 0,
+   "shocking grasp": 0,
+   "thunderclap": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -920,6 +1017,15 @@ export const HEROES = [
   "resist": [],
   "perAction": 4,
   "dc": 19,
+  "spellHit": 11,
+  "spellMod": 4,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "The Darkcember Spear",
@@ -978,17 +1084,26 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "steel wind strike",
-    "save": "dex",
-    "dmg": "6d10",
-    "type": "force",
-    "area": true,
-    "uses": 1
-   }
-  ],
-  "heals": [],
+  "spells": {
+   "steel wind strike": 5,
+   "greater invisibility": 4,
+   "storm sphere": 4,
+   "counterspell": 3,
+   "fly": 3,
+   "haste": 3,
+   "phantom steed": 3,
+   "spirit shroud": 3,
+   "alter self": 2,
+   "blur": 2,
+   "hold person": 2,
+   "invisibility": 2,
+   "mirror image": 2,
+   "absorb elements": 1,
+   "shield": 1,
+   "blade ward": 0,
+   "booming blade": 0,
+   "minor illusion": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 20,
@@ -1023,6 +1138,10 @@ export const HEROES = [
   "resist": [],
   "perAction": 3,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Unarmed Strike",
@@ -1039,8 +1158,7 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 0,
   "barbarian": 0,
   "fighter": 14,
@@ -1075,6 +1193,20 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 19,
+  "spellHit": 11,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 3,
+   "6": 1,
+   "7": 1,
+   "8": 1,
+   "9": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Longbow",
@@ -1147,21 +1279,36 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   },
-   {
-    "name": "mass cure wounds",
-    "dice": "5d8+5",
-    "cost": "action",
-    "uses": 1
-   }
-  ],
+  "spells": {
+   "psychic scream": 9,
+   "feeblemind": 8,
+   "crown of stars": 7,
+   "power word pain": 7,
+   "eyebite": 6,
+   "guards and wards": 6,
+   "mass cure wounds": 5,
+   "planar binding": 5,
+   "seeming": 5,
+   "dimension door": 4,
+   "greater invisibility": 4,
+   "polymorph": 4,
+   "stoneskin": 4,
+   "fear": 3,
+   "major image": 3,
+   "sending": 3,
+   "detect thoughts": 2,
+   "invisibility": 2,
+   "mirror image": 2,
+   "misty step": 2,
+   "suggestion": 2,
+   "dissonant whispers": 1,
+   "healing word": 1,
+   "speak with animals": 1,
+   "blade ward": 0,
+   "friends": 0,
+   "true strike": 0,
+   "vicious mockery": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -1196,6 +1343,10 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Dagger",
@@ -1254,8 +1405,7 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 16,
   "barbarian": 0,
   "fighter": 0,
@@ -1292,6 +1442,13 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 15,
+  "spellHit": 7,
+  "spellMod": 4,
+  "slots": {
+   "1": 4,
+   "2": 3
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Fire Bolt",
@@ -1322,8 +1479,12 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "absorb elements": 1,
+   "feather fall": 1,
+   "fire bolt": 0,
+   "scorching ray": 2
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -1360,6 +1521,10 @@ export const HEROES = [
   ],
   "perAction": 3,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Double Lightsaber",
@@ -1446,8 +1611,7 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 0,
   "barbarian": 0,
   "fighter": 12,
@@ -1484,6 +1648,10 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Boomerang",
@@ -1584,8 +1752,11 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "ray of enfeeblement": 2,
+   "false life": 1,
+   "chill touch": 0
+  },
   "rogue": 0,
   "barbarian": 5,
   "fighter": 0,
@@ -1620,6 +1791,10 @@ export const HEROES = [
   "resist": [],
   "perAction": 2,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Crossbow, Hand, +1",
@@ -1678,8 +1853,7 @@ export const HEROES = [
     "martialArts": true
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -1714,6 +1888,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 14,
+  "spellHit": 6,
+  "spellMod": 4,
+  "slots": {
+   "1": 4,
+   "2": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Dagger",
@@ -1786,8 +1967,17 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "charm person": 1,
+   "chromatic orb": 1,
+   "feather fall": 1,
+   "mage armor": 1,
+   "magic missile": 1,
+   "shield": 1,
+   "fire bolt": 0,
+   "ray of frost": 0,
+   "shocking grasp": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -1822,6 +2012,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 2,
   "dc": 15,
+  "spellHit": 7,
+  "spellMod": 4,
+  "slots": {
+   "1": 4,
+   "2": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Crossbow, Light",
@@ -1880,15 +2077,18 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+4",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "enlarge/reduce": 2,
+   "invisibility": 2,
+   "lesser restoration": 2,
+   "spider climb": 2,
+   "vortex warp": 2,
+   "cure wounds": 1,
+   "detect magic": 1,
+   "guidance": 0,
+   "mending": 0,
+   "shocking grasp": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -1923,6 +2123,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 14,
+  "spellHit": 6,
+  "spellMod": 3,
+  "slots": {
+   "1": 4,
+   "2": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Guiding Bolt",
@@ -1953,15 +2160,21 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "healing word",
-    "dice": "2d4+3",
-    "cost": "bonus",
-    "uses": 3
-   }
-  ],
+  "spells": {
+   "heat metal": 2,
+   "kinetic jaunt": 2,
+   "lesser restoration": 2,
+   "locate object": 2,
+   "mind spike": 2,
+   "rope trick": 2,
+   "vortex warp": 2,
+   "detect magic": 1,
+   "faerie fire": 1,
+   "guiding bolt": 1,
+   "healing word": 1,
+   "guidance": 0,
+   "mending": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -1996,6 +2209,14 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Scorching Ray",
@@ -2040,21 +2261,24 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   },
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "hypnotic pattern": 3,
+   "heat metal": 2,
+   "phantasmal force": 2,
+   "scorching ray": 2,
+   "bane": 1,
+   "cure wounds": 1,
+   "dissonant whispers": 1,
+   "healing word": 1,
+   "shield": 1,
+   "silvery barbs": 1,
+   "mage hand": 0,
+   "mind sliver": 0,
+   "minor illusion": 0,
+   "sacred flame": 0,
+   "shocking grasp": 0,
+   "vicious mockery": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -2091,6 +2315,10 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Armblade (Shortsword)",
@@ -2149,8 +2377,7 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 6,
   "barbarian": 0,
   "fighter": 0,
@@ -2187,6 +2414,13 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 13,
+  "spellHit": 5,
+  "spellMod": 2,
+  "slots": {
+   "1": 4,
+   "2": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Crossbow, Hand",
@@ -2231,15 +2465,15 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+2",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "beast sense": 2,
+   "cure wounds": 1,
+   "entangle": 1,
+   "hail of thorns": 1,
+   "speak with animals": 1,
+   "mage hand": 0,
+   "thaumaturgy": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -2274,6 +2508,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 16,
+  "spellHit": 8,
+  "spellMod": 5,
+  "slots": null,
+  "pact": {
+   "n": 2,
+   "level": 3
+  },
   "attacks": [
    {
     "name": "Dagger",
@@ -2346,15 +2587,33 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "greater restoration": 5,
+   "raise dead": 5,
+   "death ward": 4,
+   "daylight": 3,
+   "remove curse": 3,
+   "revivify": 3,
+   "aid": 2,
+   "lesser restoration": 2,
+   "prayer of healing": 2,
+   "protection from poison": 2,
+   "comprehend languages": 1,
+   "cure wounds": 1,
+   "expeditious retreat": 1,
+   "goodberry": 1,
+   "guiding bolt": 1,
+   "unseen servant": 1,
+   "blade ward": 0,
+   "eldritch blast": 0,
+   "light": 0,
+   "mage hand": 0,
+   "mind sliver": 0,
+   "sacred flame": 0,
+   "spare the dying": 0,
+   "true strike": 0,
+   "vicious mockery": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -2389,6 +2648,10 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Dagger",
@@ -2447,8 +2710,7 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 3,
   "barbarian": 0,
   "fighter": 0,
@@ -2485,6 +2747,13 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 15,
+  "spellHit": 7,
+  "spellMod": 4,
+  "slots": null,
+  "pact": {
+   "n": 2,
+   "level": 4
+  },
   "attacks": [
    {
     "name": "Quarterstaff",
@@ -2529,8 +2798,37 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "counterspell": 3,
+   "dispel magic": 3,
+   "fly": 3,
+   "gaseous form": 3,
+   "leomund's tiny hut": 3,
+   "meld into stone": 3,
+   "phantom steed": 3,
+   "summon fey": 3,
+   "thunder step": 3,
+   "tiny hut": 3,
+   "water breathing": 3,
+   "augury": 2,
+   "darkness": 2,
+   "gentle repose": 2,
+   "ceremony": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "hex": 1,
+   "identify": 1,
+   "illusory script": 1,
+   "purify food and drink": 1,
+   "eldritch blast": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "prestidigitation": 0,
+   "sacred flame": 0,
+   "shape water": 0,
+   "spare the dying": 0,
+   "thunderclap": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -2567,6 +2865,10 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Longbow, +2",
@@ -2611,8 +2913,7 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 2,
   "barbarian": 0,
   "fighter": 6,
@@ -2647,6 +2948,16 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 14,
+  "spellHit": 6,
+  "spellMod": 2,
+  "slots": {
+   "1": 6,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Quarterstaff",
@@ -2775,38 +3086,42 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "lightning bolt",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "lightning",
-    "area": true,
-    "uses": 2
-   },
-   {
-    "name": "spirit guardians",
-    "save": "wis",
-    "dmg": "3d8",
-    "type": "radiant",
-    "area": "aura",
-    "uses": 1
-   }
-  ],
-  "heals": [
-   {
-    "name": "healing word",
-    "dice": "2d4+2",
-    "cost": "bonus",
-    "uses": 3
-   },
-   {
-    "name": "cure wounds",
-    "dice": "2d8+2",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "dominate beast": 4,
+   "gaseous form": 3,
+   "lightning bolt": 3,
+   "revivify": 3,
+   "spirit guardians": 3,
+   "thunder step": 3,
+   "gust of wind": 2,
+   "lesser restoration": 2,
+   "levitate": 2,
+   "locate object": 2,
+   "misty step": 2,
+   "armor of agathys": 1,
+   "bless": 1,
+   "cure wounds": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "disguise self": 1,
+   "faerie fire": 1,
+   "healing word": 1,
+   "hex": 1,
+   "inflict wounds": 1,
+   "unseen servant": 1,
+   "dancing lights": 0,
+   "eldritch blast": 0,
+   "frostbite": 0,
+   "green-flame blade": 0,
+   "guidance": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "ray of frost": 0,
+   "sacred flame": 0,
+   "shape water": 0,
+   "shocking grasp": 0,
+   "thaumaturgy": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -2843,6 +3158,13 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 14,
+  "spellHit": 6,
+  "spellMod": 2,
+  "slots": null,
+  "pact": {
+   "n": 2,
+   "level": 2
+  },
   "attacks": [
    {
     "name": "Blackrazor",
@@ -2957,25 +3279,31 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "fireball",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "fire",
-    "area": true,
-    "uses": 2
-   },
-   {
-    "name": "lightning bolt",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "lightning",
-    "area": true,
-    "uses": 2
-   }
-  ],
-  "heals": [],
+  "spells": {
+   "conjure elemental": 5,
+   "dominate beast": 4,
+   "daylight": 3,
+   "fireball": 3,
+   "haste": 3,
+   "lightning bolt": 3,
+   "slow": 3,
+   "stinking cloud": 3,
+   "darkness": 2,
+   "detect thoughts": 2,
+   "enlarge/reduce": 2,
+   "gust of wind": 2,
+   "invisibility": 2,
+   "mirror image": 2,
+   "scorching ray": 2,
+   "detect magic": 1,
+   "disguise self": 1,
+   "expeditious retreat": 1,
+   "faerie fire": 1,
+   "hellish rebuke": 1,
+   "create bonfire": 0,
+   "light": 0,
+   "lightning lure": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 8,
@@ -3012,6 +3340,12 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 12,
+  "spellHit": 4,
+  "spellMod": 2,
+  "slots": {
+   "1": 3
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Dagger",
@@ -3084,15 +3418,16 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+2",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "gust of wind": 2,
+   "cure wounds": 1,
+   "faerie fire": 1,
+   "fog cloud": 1,
+   "hunter's mark": 1,
+   "speak with animals": 1,
+   "zephyr strike": 1,
+   "mage hand": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -3127,6 +3462,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 13,
+  "spellHit": 5,
+  "spellMod": 1,
+  "slots": {
+   "1": 4,
+   "2": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Crossbow, Light",
@@ -3255,8 +3597,17 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "invisibility": 2,
+   "misty step": 2,
+   "scorching ray": 2,
+   "find familiar": 1,
+   "shield": 1,
+   "silvery barbs": 1,
+   "booming blade": 0,
+   "mage hand": 0,
+   "message": 0
+  },
   "rogue": 7,
   "barbarian": 0,
   "fighter": 4,
@@ -3293,6 +3644,15 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 18,
+  "spellHit": 10,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Monkey Wrench",
@@ -3351,8 +3711,28 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "otiluke's resilient sphere": 4,
+   "summon construct": 4,
+   "ashardalon's stride": 3,
+   "dispel magic": 3,
+   "haste": 3,
+   "revivify": 3,
+   "air bubble": 2,
+   "arcane lock": 2,
+   "enlarge/reduce": 2,
+   "levitate": 2,
+   "vortex warp": 2,
+   "alarm": 1,
+   "catapult": 1,
+   "disguise self": 1,
+   "mage armor": 1,
+   "magic missile": 1,
+   "fire bolt": 0,
+   "mending": 0,
+   "shocking grasp": 0,
+   "spare the dying": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -3387,6 +3767,10 @@ export const HEROES = [
   "resist": [],
   "perAction": 2,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Glaive",
@@ -3459,8 +3843,7 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {},
   "rogue": 0,
   "barbarian": 8,
   "fighter": 0,
@@ -3495,6 +3878,17 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 2,
+   "6": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Longbow",
@@ -3581,68 +3975,48 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "cone of cold",
-    "save": "con",
-    "dmg": "8d8",
-    "type": "cold",
-    "area": true,
-    "uses": 1
-   },
-   {
-    "name": "ice storm",
-    "save": "dex",
-    "dmg": "6d8",
-    "type": "cold",
-    "area": true,
-    "uses": 1
-   },
-   {
-    "name": "moonbeam",
-    "save": "con",
-    "dmg": "2d10",
-    "type": "radiant",
-    "area": false,
-    "uses": 2
-   },
-   {
-    "name": "thunderwave",
-    "save": "con",
-    "dmg": "2d8",
-    "type": "thunder",
-    "area": true,
-    "uses": 2
-   },
-   {
-    "name": "call lightning",
-    "save": "dex",
-    "dmg": "3d10",
-    "type": "lightning",
-    "area": false,
-    "uses": 2
-   }
-  ],
-  "heals": [
-   {
-    "name": "heal",
-    "dice": "70",
-    "cost": "action",
-    "uses": 1
-   },
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   },
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "heal": 6,
+   "word of recall": 6,
+   "cone of cold": 5,
+   "conjure elemental": 5,
+   "ice storm": 4,
+   "polymorph": 4,
+   "call lightning": 3,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "tongues": 3,
+   "enhance ability": 2,
+   "find traps": 2,
+   "flame blade": 2,
+   "healing spirit": 2,
+   "moonbeam": 2,
+   "see invisibility": 2,
+   "summon beast": 2,
+   "wither and bloom": 2,
+   "alarm": 1,
+   "comprehend languages": 1,
+   "cure wounds": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "faerie fire": 1,
+   "guiding bolt": 1,
+   "healing word": 1,
+   "identify": 1,
+   "inflict wounds": 1,
+   "speak with animals": 1,
+   "thunderwave": 1,
+   "create bonfire": 0,
+   "dancing lights": 0,
+   "druidcraft": 0,
+   "guidance": 0,
+   "light": 0,
+   "mold earth": 0,
+   "sacred flame": 0,
+   "spare the dying": 0,
+   "thorn whip": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -3677,6 +4051,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 2,
   "dc": 16,
+  "spellHit": 8,
+  "spellMod": 4,
+  "slots": {
+   "1": 4,
+   "2": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Crossbow, Light",
@@ -3777,15 +4158,16 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+4",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "air bubble": 2,
+   "beast sense": 2,
+   "misty step": 2,
+   "summon beast": 2,
+   "cure wounds": 1,
+   "goodberry": 1,
+   "protection from evil and good": 1,
+   "speak with animals": 1
+  },
   "rogue": 3,
   "barbarian": 0,
   "fighter": 3,
@@ -3820,6 +4202,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 15,
+  "spellHit": 7,
+  "spellMod": 3,
+  "slots": {
+   "1": 5,
+   "2": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Crossbow, Light",
@@ -3948,25 +4337,40 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "ice storm",
-    "save": "dex",
-    "dmg": "6d8",
-    "type": "cold",
-    "area": true,
-    "uses": 1
-   },
-   {
-    "name": "thunderwave",
-    "save": "con",
-    "dmg": "2d8",
-    "type": "thunder",
-    "area": true,
-    "uses": 2
-   }
-  ],
-  "heals": [],
+  "spells": {
+   "word of recall": 6,
+   "ice storm": 4,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "sleet storm": 3,
+   "tongues": 3,
+   "find traps": 2,
+   "misty step": 2,
+   "see invisibility": 2,
+   "alarm": 1,
+   "chromatic orb": 1,
+   "comprehend languages": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "feather fall": 1,
+   "find familiar": 1,
+   "hellish rebuke": 1,
+   "hex": 1,
+   "identify": 1,
+   "magic missile": 1,
+   "shield": 1,
+   "silvery barbs": 1,
+   "thunderwave": 1,
+   "booming blade": 0,
+   "eldritch blast": 0,
+   "green-flame blade": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "mage hand": 0,
+   "minor illusion": 0,
+   "ray of frost": 0
+  },
   "rogue": 5,
   "barbarian": 0,
   "fighter": 0,
@@ -4001,6 +4405,12 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 12,
+  "spellHit": 4,
+  "spellMod": 2,
+  "slots": {
+   "1": 3
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Dagger",
@@ -4045,8 +4455,30 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "word of recall": 6,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "tongues": 3,
+   "find traps": 2,
+   "see invisibility": 2,
+   "alarm": 1,
+   "chromatic orb": 1,
+   "comprehend languages": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "feather fall": 1,
+   "grease": 1,
+   "identify": 1,
+   "mage armor": 1,
+   "magic missile": 1,
+   "shield": 1,
+   "light": 0,
+   "mage hand": 0,
+   "mending": 0,
+   "true strike": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 1,
@@ -4081,6 +4513,12 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 12,
+  "spellHit": 4,
+  "spellMod": 2,
+  "slots": {
+   "1": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Shocking Grasp",
@@ -4111,8 +4549,18 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "alarm": 1,
+   "comprehend languages": 1,
+   "magic missile": 1,
+   "protection from evil and good": 1,
+   "sleep": 1,
+   "frostbite": 0,
+   "mage hand": 0,
+   "mending": 0,
+   "message": 0,
+   "shocking grasp": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4147,6 +4595,10 @@ export const HEROES = [
   "resist": [],
   "perAction": 2,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Unarmed Strike",
@@ -4163,15 +4615,12 @@ export const HEROES = [
     "martialArts": true
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "bless": 1,
+   "cure wounds": 1,
+   "detect magic": 1,
+   "spare the dying": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4208,6 +4657,12 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 13,
+  "spellHit": 5,
+  "spellMod": 3,
+  "slots": {
+   "1": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Armblade (Dagger)",
@@ -4280,8 +4735,11 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "grease": 1,
+   "ray of frost": 0,
+   "shocking grasp": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4316,6 +4774,12 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 13,
+  "spellHit": 5,
+  "spellMod": 3,
+  "slots": {
+   "1": 3
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Big Stick",
@@ -4402,21 +4866,30 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+3",
-    "cost": "action",
-    "uses": 2
-   },
-   {
-    "name": "mass cure wounds",
-    "dice": "5d8+3",
-    "cost": "action",
-    "uses": 1
-   }
-  ],
+  "spells": {
+   "word of recall": 6,
+   "mass cure wounds": 5,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "tongues": 3,
+   "find traps": 2,
+   "lesser restoration": 2,
+   "see invisibility": 2,
+   "alarm": 1,
+   "animal friendship": 1,
+   "comprehend languages": 1,
+   "cure wounds": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "disguise self": 1,
+   "goodberry": 1,
+   "identify": 1,
+   "speak with animals": 1,
+   "druidcraft": 0,
+   "light": 0,
+   "primal savagery": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4453,6 +4926,16 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Guiding Bolt",
@@ -4497,32 +4980,49 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "hunger of hadar",
-    "save": "dex",
-    "dmg": "4d6",
-    "type": "cold",
-    "area": true,
-    "uses": 1
-   },
-   {
-    "name": "spirit guardians",
-    "save": "wis",
-    "dmg": "3d8",
-    "type": "radiant",
-    "area": "aura",
-    "uses": 1
-   }
-  ],
-  "heals": [
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   }
-  ],
+  "spells": {
+   "word of recall": 6,
+   "dispel magic": 3,
+   "hunger of hadar": 3,
+   "leomund's tiny hut": 3,
+   "revivify": 3,
+   "sending": 3,
+   "spirit guardians": 3,
+   "tongues": 3,
+   "calm emotions": 2,
+   "detect thoughts": 2,
+   "enhance ability": 2,
+   "find traps": 2,
+   "lesser restoration": 2,
+   "see invisibility": 2,
+   "spiritual weapon": 2,
+   "suggestion": 2,
+   "tasha's mind whip": 2,
+   "alarm": 1,
+   "arms of hadar": 1,
+   "bless": 1,
+   "charm person": 1,
+   "comprehend languages": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "dissonant whispers": 1,
+   "guiding bolt": 1,
+   "healing word": 1,
+   "identify": 1,
+   "inflict wounds": 1,
+   "shield": 1,
+   "sleep": 1,
+   "friends": 0,
+   "guidance": 0,
+   "light": 0,
+   "mage hand": 0,
+   "message": 0,
+   "mind sliver": 0,
+   "minor illusion": 0,
+   "spare the dying": 0,
+   "thaumaturgy": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4557,6 +5057,17 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 2,
+   "6": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Dagger",
@@ -4601,15 +5112,36 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   }
-  ],
+  "spells": {
+   "word of recall": 6,
+   "dimension door": 4,
+   "counterspell": 3,
+   "enemies abound": 3,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "slow": 3,
+   "tongues": 3,
+   "calm emotions": 2,
+   "find traps": 2,
+   "invisibility": 2,
+   "mirror image": 2,
+   "see invisibility": 2,
+   "suggestion": 2,
+   "alarm": 1,
+   "command": 1,
+   "comprehend languages": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "dissonant whispers": 1,
+   "healing word": 1,
+   "identify": 1,
+   "silvery barbs": 1,
+   "light": 0,
+   "message": 0,
+   "thunderclap": 0,
+   "vicious mockery": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4644,6 +5176,10 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Dart",
@@ -4716,8 +5252,9 @@ export const HEROES = [
     "martialArts": true
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "faerie fire": 1
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4754,6 +5291,10 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Boltcaster",
@@ -4826,8 +5367,10 @@ export const HEROES = [
     "martialArts": true
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "detect thoughts": 2,
+   "shield": 1
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -4864,6 +5407,13 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 15,
+  "spellHit": 7,
+  "spellMod": 4,
+  "slots": null,
+  "pact": {
+   "n": 2,
+   "level": 2
+  },
   "attacks": [
    {
     "name": "Scimitar, +1",
@@ -4922,8 +5472,18 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "calm emotions": 2,
+   "darkness": 2,
+   "misty step": 2,
+   "phantasmal force": 2,
+   "faerie fire": 1,
+   "hellish rebuke": 1,
+   "hex": 1,
+   "sleep": 1,
+   "eldritch blast": 0,
+   "lightning lure": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 5,
@@ -4960,6 +5520,15 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 18,
+  "spellHit": 11,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Shocking Grasp",
@@ -5046,15 +5615,26 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "otiluke's resilient sphere": 4,
+   "dispel magic": 3,
+   "haste": 3,
+   "revivify": 3,
+   "air bubble": 2,
+   "heat metal": 2,
+   "invisibility": 2,
+   "vortex warp": 2,
+   "chaos bolt": 1,
+   "cure wounds": 1,
+   "detect magic": 1,
+   "disguise self": 1,
+   "fire bolt": 0,
+   "guidance": 0,
+   "mending": 0,
+   "ray of frost": 0,
+   "shocking grasp": 0,
+   "scorching ray": 2
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -5091,6 +5671,10 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 0,
+  "spellHit": 0,
+  "spellMod": 0,
+  "slots": null,
+  "pact": null,
   "attacks": [
    {
     "name": "Armblade (Sickle)",
@@ -5163,8 +5747,10 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "beast sense": 2,
+   "speak with animals": 1
+  },
   "rogue": 0,
   "barbarian": 5,
   "fighter": 0,
@@ -5199,6 +5785,13 @@ export const HEROES = [
   "resist": [],
   "perAction": 1,
   "dc": 16,
+  "spellHit": 8,
+  "spellMod": 4,
+  "slots": {
+   "1": 3,
+   "4": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Greater Silver Sword",
@@ -5271,8 +5864,18 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [],
-  "heals": [],
+  "spells": {
+   "darkness": 2,
+   "see invisibility": 2,
+   "bane": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "divine smite": 1,
+   "hellish rebuke": 1,
+   "hunter's mark": 1,
+   "fire bolt": 0,
+   "thaumaturgy": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -5309,6 +5912,14 @@ export const HEROES = [
   ],
   "perAction": 2,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Pistol",
@@ -5367,24 +5978,24 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "lightning bolt",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "lightning",
-    "area": true,
-    "uses": 2
-   }
-  ],
-  "heals": [
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   }
-  ],
+  "spells": {
+   "dispel magic": 3,
+   "lightning bolt": 3,
+   "revivify": 3,
+   "blur": 2,
+   "heat metal": 2,
+   "web": 2,
+   "absorb elements": 1,
+   "cure wounds": 1,
+   "detect magic": 1,
+   "expeditious retreat": 1,
+   "feather fall": 1,
+   "grease": 1,
+   "magic missile": 1,
+   "fire bolt": 0,
+   "guidance": 0,
+   "prestidigitation": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -5421,6 +6032,16 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 16,
+  "spellHit": 8,
+  "spellMod": 4,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Crossbow, Light",
@@ -5479,25 +6100,27 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "shatter",
-    "save": "con",
-    "dmg": "3d8",
-    "type": "thunder",
-    "area": true,
-    "uses": 2
-   },
-   {
-    "name": "hunger of hadar",
-    "save": "dex",
-    "dmg": "4d6",
-    "type": "cold",
-    "area": true,
-    "uses": 1
-   }
-  ],
-  "heals": [],
+  "spells": {
+   "modify memory": 5,
+   "rary's telepathic bond": 5,
+   "compulsion": 4,
+   "evard's black tentacles": 4,
+   "hunger of hadar": 3,
+   "sending": 3,
+   "calm emotions": 2,
+   "detect thoughts": 2,
+   "mind spike": 2,
+   "shatter": 2,
+   "arms of hadar": 1,
+   "charm person": 1,
+   "dissonant whispers": 1,
+   "id insinuation (archived)": 1,
+   "friends": 0,
+   "light": 0,
+   "mage hand": 0,
+   "mind sliver (archived)": 0,
+   "minor illusion": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -5534,6 +6157,16 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 2
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Dagger",
@@ -5578,25 +6211,32 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "fireball",
-    "save": "dex",
-    "dmg": "8d6",
-    "type": "fire",
-    "area": true,
-    "uses": 2
-   },
-   {
-    "name": "burning hands",
-    "save": "dex",
-    "dmg": "3d6",
-    "type": "fire",
-    "area": true,
-    "uses": 2
-   }
-  ],
-  "heals": [],
+  "spells": {
+   "immolation": 5,
+   "wall of fire": 4,
+   "fireball": 3,
+   "fly": 3,
+   "gaseous form": 3,
+   "aganazzar's scorcher": 2,
+   "darkness": 2,
+   "dragon's breath": 2,
+   "pyrotechnics": 2,
+   "scorching ray": 2,
+   "burning hands": 1,
+   "disguise self": 1,
+   "dissonant whispers": 1,
+   "hellish rebuke": 1,
+   "sleep": 1,
+   "tasha's hideous laughter": 1,
+   "control flames": 0,
+   "create bonfire": 0,
+   "fire bolt": 0,
+   "green-flame blade": 0,
+   "message": 0,
+   "prestidigitation": 0,
+   "thaumaturgy": 0,
+   "vicious mockery": 0
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -5633,6 +6273,17 @@ export const HEROES = [
   ],
   "perAction": 1,
   "dc": 17,
+  "spellHit": 9,
+  "spellMod": 5,
+  "slots": {
+   "1": 4,
+   "2": 3,
+   "3": 3,
+   "4": 3,
+   "5": 2,
+   "6": 1
+  },
+  "pact": null,
   "attacks": [
    {
     "name": "Elven Longsword",
@@ -5719,48 +6370,34 @@ export const HEROES = [
     "martialArts": false
    }
   ],
-  "big": [
-   {
-    "name": "harm",
-    "save": "con",
-    "dmg": "14d6",
-    "type": "necrotic",
-    "area": false,
-    "uses": 1
-   }
-  ],
-  "heals": [
-   {
-    "name": "heal",
-    "dice": "70",
-    "cost": "action",
-    "uses": 1
-   },
-   {
-    "name": "mass healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 1
-   },
-   {
-    "name": "healing word",
-    "dice": "2d4+5",
-    "cost": "bonus",
-    "uses": 3
-   },
-   {
-    "name": "cure wounds",
-    "dice": "2d8+5",
-    "cost": "action",
-    "uses": 2
-   },
-   {
-    "name": "mass cure wounds",
-    "dice": "5d8+5",
-    "cost": "action",
-    "uses": 1
-   }
-  ],
+  "spells": {
+   "blade barrier": 6,
+   "harm": 6,
+   "heal": 6,
+   "conjure elemental": 5,
+   "dispel evil and good": 5,
+   "greater restoration": 5,
+   "holy weapon": 5,
+   "mass cure wounds": 5,
+   "summon celestial": 5,
+   "animate dead": 3,
+   "mass healing word": 3,
+   "speak with dead": 3,
+   "aid": 2,
+   "lesser restoration": 2,
+   "spiritual weapon": 2,
+   "cure wounds": 1,
+   "healing word": 1,
+   "inflict wounds": 1,
+   "dancing lights": 0,
+   "light": 0,
+   "sacred flame": 0,
+   "spare the dying": 0,
+   "thaumaturgy": 0,
+   "toll the dead": 0,
+   "word of radiance": 0,
+   "vampiric touch": 3
+  },
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
