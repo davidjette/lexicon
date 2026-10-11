@@ -170,7 +170,17 @@ export function makeGemma(o = {}) {
         const voided = E.has(c, 'pactVoid');
         if (!voided && !c.turn.lifedrinker && E.current === c) {
           c.turn.lifedrinker = true;
-          out.dmg.push(['1d6', 'necrotic', 'Lifedrinker']);
+          // her choice of necrotic, psychic or radiant: whichever the target resists least
+          const type = ['radiant', 'psychic', 'necrotic'].sort((a, b) => E.resistMult(ctx.tgt, b) - E.resistMult(ctx.tgt, a))[0];
+          out.dmg.push(['1d6', type, 'Lifedrinker']);
+          // and she may spend a Hit Point Die to heal: 9d8 from warlock levels, then 4d10 from fighter
+          const spentDice = c.used.hitDice || 0;
+          if (frac(c) < 0.6 && spentDice < 13) {
+            c.used.hitDice = spentDice + 1;
+            const r = rollDice(E.rng, spentDice < 9 ? '1d8+2' : '1d10+2');
+            E.log('act', `${c.name} spends a Hit Point Die on Lifedrinker: ${r.text} = ${r.total}.`, c);
+            E.heal(c, r.total, c, 'Lifedrinker');
+          }
         }
         if (c.turn.riposte) out.dmg.push(['1d8', 'slashing', 'Riposte']);
         else if (E.current === c && !c.turn.tripped && (c.used.sup || 0) < 4 && !E.has(ctx.tgt, 'prone') && !['huge', 'gargantuan'].includes(ctx.tgt.tpl.size) && !E.condImmune(ctx.tgt, 'prone')) {

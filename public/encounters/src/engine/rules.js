@@ -523,7 +523,8 @@ export class Engine {
     if (act.vs) {
       for (const v of act.vs) if (v.when(this, tgt)) add(v.dice, v.type, v.label);
     }
-    const dealt = this.rollAndDamage(att, tgt, parts, { crit: ctx.crit, act, attack: true, melee });
+    this.lastRolled = [];
+    const dealt = parts.length ? this.rollAndDamage(att, tgt, parts, { crit: ctx.crit, act, attack: true, melee }) : 0;
     ctx.dealt = dealt;
     ctx.necrotic = this.lastRolled.filter((p) => p.type === 'necrotic').reduce((s, p) => s + Math.floor(p.amt * this.resistMult(tgt, 'necrotic')), 0);
     if (this.alive(tgt) && this.alive(att)) {
@@ -642,7 +643,7 @@ export class Engine {
     const ctx = { tgt: c, subject: c, src, saved: false };
     this.react('dropping', ctx);
     if (ctx.saved) return;
-    const special = this.hook(c, 'onZero', { src, overflow });
+    const special = this.hook(c, 'onZero', { src, overflow, crit, types });
     if (special === 'handled') return;
     this.breakConc(c);
     const saves = c.side === 'pc' ? c.tpl.deathSaves !== false : this.rules.bossDeathSaves && c.tpl.boss && c.tpl.type !== 'undead' && c.tpl.type !== 'construct';
