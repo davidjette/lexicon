@@ -1,11 +1,12 @@
 // Simple versions of the player characters from the D&D Beyond exports (heroes-data.js, generated).
 // "Simple" means: the sheet's own numbers, its best weapon routine, its cantrips, and every spell on
 // its list that the spell book (data/spells.js) can run, cast from the character's own spell slots.
-// No hand-written tactics, no metamagic, no item powers, no subclass features beyond those below.
+// Sorcerers spend their sorcery points on the Metamagic their sheet names. No hand-written tactics, no
+// item powers, no subclass features beyond those below.
 
 import { HEROES } from './heroes-data.js';
 import { melee, ranged, save, multi } from '../data/lib.js';
-import { cast, reaction, knows, castBest, castHeal, castControl, castBuff } from '../data/spells.js';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js';
 import { avgDice } from '../engine/dice.js';
 import { register } from '../data/registry.js';
 
@@ -42,7 +43,8 @@ export function buildHero(h) {
     routines.push(['cantrip', worth(cantrip)]);
   }
   // a second cantrip of another damage type, for targets the first cannot hurt
-  const other = cantrip && best(h.attacks.filter((a) => a.spell && a.slot === 0 && a.type !== cantrip.type));
+  const others = cantrip ? h.attacks.filter((a) => a.spell && a.slot === 0 && a.type !== cantrip.type) : [];
+  const other = best(others.filter((a) => !a.melee)) || best(others);
   if (other) {
     actions.cantrip2 = mk(other);
     routines.push(['cantrip2', worth(other) * 0.99]);
@@ -52,8 +54,8 @@ export function buildHero(h) {
   const atWill = routines[0] ? routines[0][1] : 0;
   const caster = !!(h.slots || h.pact);
   const topSlot = h.slots ? Math.max(...Object.keys(h.slots).map(Number)) : h.pact ? h.pact.level : 0;
-  // spells that stay up and act again each round are not run as one-off attacks
-  const SUSTAINED = ['crown of stars', 'spiritual weapon', 'shadow blade', 'flame blade', 'flaming sphere', "bigby's hand", 'storm sphere', 'vampiric touch'];
+  // weapon-shaped and zone spells the book does not run; they are not cast as one-off attacks either
+  const SUSTAINED = ['shadow blade', 'flame blade', 'storm sphere'];
   const plan = [];
   // every spell on the sheet that the book knows
   const ids = [];
@@ -67,10 +69,14 @@ export function buildHero(h) {
     const r = reaction(name, { dc: h.dc });
     if (r) { reactions.push(r); continue; }
     const id = `sp_${name.replace(/[^a-z0-9]+/g, '_')}`;
-    actions[id] = cast(name, { dc: h.dc, toHit: h.spellHit, mod: h.spellMod, charLevel: h.level });
+    const o = { dc: h.dc, toHit: h.spellHit, mod: h.spellMod, charLevel: h.level };
+    actions[id] = cast(name, o);
     ids.push(id);
+    // a spell that stays up strikes again through a second action
+    const more = again(name, o);
+    if (more) { actions[`${id}_again`] = more; ids.push(`${id}_again`); }
   }
-  plan.push(castHeal(ids), castControl(ids), castBuff(ids), castBest(ids, atWill));
+  plan.push(castHeal(ids), castEscape(ids), castControl(ids), castBuff(ids), castAgain(ids, atWill), castBest(ids, atWill));
   // attack spells written on the sheet that the book does not know (house spells), at the sheet's numbers
   if (caster) {
     h.attacks.filter((a) => a.spell && a.slot > 0 && a.slot <= topSlot && !knows(a.name) && !SUSTAINED.includes(a.name.toLowerCase())).forEach((a, i) => {
@@ -87,7 +93,7 @@ export function buildHero(h) {
   }
   for (const [id] of routines) plan.push(id);
 
-  const bonusPlan = [castHeal(ids)];
+  const bonusPlan = [castHeal(ids), castEscape(ids), actionFirst(castHeal(ids), castEscape(ids), castControl(ids), castBuff(ids)), castAgain(ids), castQuickened(ids, atWill), castBest(ids, 0)];
   if (h.monk && actions.melee) {
     actions.martialArts = { ...actions.melee, name: 'Martial Arts (bonus strike)', cost: 'bonus', n: 1 };
     bonusPlan.push('martialArts');
@@ -112,7 +118,8 @@ export function buildHero(h) {
   return {
     id: h.id, name: h.campaign === 'The Unforeseen' ? `${h.name} (Original, level ${h.level})` : h.name, side: 'pc', pc: true, hero: true, type: 'humanoid', smart: true, pos: frontline ? 'front' : 'back',
     sub: `${h.classLine} · ${h.campaign}${ids.length + reactions.length ? ` · ${ids.length + reactions.length} spells run${notRun.length ? `, ${notRun.length} not` : ''}` : ''}`, level: h.level,
-    slots: h.slots || undefined, pact: h.pact || undefined, spellsNotRun: notRun,
+    slots: h.slots || undefined, pact: h.pact || undefined, spellsNotRun: notRun, sorcery: h.sorcery, meta: h.meta,
+    hasteWith: routines[0] && routines[0][0] === 'rangedRoutine' ? 'ranged' : bestMelee ? 'melee' : undefined,
     ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist,
     actions, plan, bonusPlan, reactions: reactions.length ? reactions : undefined,
     hooks: {

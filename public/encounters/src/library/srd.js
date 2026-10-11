@@ -10,7 +10,7 @@
 
 import { SRD } from './srd-data.js';
 import { melee, ranged, save, multi } from '../data/lib.js';
-import { cast, reaction, knows, castBest, castHeal, castControl, castBuff } from '../data/spells.js';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain } from '../data/spells.js';
 import { avgDice } from '../engine/dice.js';
 import { register } from '../data/registry.js';
 
@@ -63,6 +63,7 @@ export function buildSrd(m) {
   ];
   // the spell list, cast from the monster's own slots
   const reactions = [];
+  const bonusPlan = [];
   let spellNote = m.spellcaster ? ' · spells not run' : '';
   if (m.casting) {
     const k = m.casting;
@@ -78,13 +79,19 @@ export function buildSrd(m) {
       if (!sp.level) {
         const v = avgDice(act.dmg[0][0]) * (act.n || 1);
         if (!cantrip || v > cantrip.v) cantrip = { id, act, v };
-      } else { actions[id] = act; sids.push(id); }
+      } else {
+        actions[id] = act;
+        sids.push(id);
+        const more = again(sp.name, o);
+        if (more) { actions[`${id}_again`] = more; sids.push(`${id}_again`); }
+      }
     }
     if (cantrip) actions[cantrip.id] = cantrip.act;
     const weapon = first && actions[first].dmg ? avgDice(actions[first].dmg[0][0]) * (seq.length > 1 ? seq.length : 1) : 0;
     const atWill = 0.65 * Math.max(weapon, cantrip ? cantrip.v : 0);
     // spells first, then the cantrip if it beats the weapon, then the block's own actions
-    plan.unshift(castHeal(sids), castControl(sids), castBuff(sids), castBest(sids, atWill), ...(cantrip && cantrip.v > weapon ? [cantrip.id] : []));
+    bonusPlan.push(castAgain(sids), castBest(sids, 0));
+    plan.unshift(castHeal(sids), castControl(sids), castBuff(sids), castAgain(sids, atWill), castBest(sids, atWill), ...(cantrip && cantrip.v > weapon ? [cantrip.id] : []));
     spellNote = ` · ${sids.length + reactions.length + (cantrip ? 1 : 0)} of ${k.spells.length} spells run`;
   }
   const legs = (m.legs || []).map((l) => ({ act: ids[key(l.name)], cost: l.cost, w: l.cost === 1 ? 3 : 2 })).filter((l) => l.act && actions[l.act]);
@@ -98,7 +105,7 @@ export function buildSrd(m) {
     flying: m.flying || undefined, lr: m.lr || 0, leg: legs.length ? 3 : 0, legs,
     regen: m.regen || undefined, magicAdv: m.magicAdv || undefined, undeadFortitude: m.undeadFortitude || undefined,
     packTactics: m.packTactics ? m.id : undefined, boss: m.cr >= 10 && legs.length > 0,
-    actions, plan, basic: first, oa: firstMelee, reactions: reactions.length ? reactions : undefined,
+    actions, plan, bonusPlan: bonusPlan.length ? bonusPlan : undefined, basic: first, oa: firstMelee, reactions: reactions.length ? reactions : undefined,
   };
 }
 

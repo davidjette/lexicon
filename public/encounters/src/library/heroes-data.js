@@ -983,6 +983,13 @@ export const HEROES = [
    "shocking grasp": 0,
    "thunderclap": 0
   },
+  "sorcery": 18,
+  "meta": [
+   "quickened",
+   "twinned",
+   "empowered",
+   "heightened"
+  ],
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -3122,6 +3129,12 @@ export const HEROES = [
    "shocking grasp": 0,
    "thaumaturgy": 0
   },
+  "sorcery": 8,
+  "meta": [
+   "quickened",
+   "twinned",
+   "empowered"
+  ],
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -5023,6 +5036,11 @@ export const HEROES = [
    "spare the dying": 0,
    "thaumaturgy": 0
   },
+  "sorcery": 5,
+  "meta": [
+   "quickened",
+   "subtle"
+  ],
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -6137,6 +6155,11 @@ export const HEROES = [
    "mind sliver (archived)": 0,
    "minor illusion": 0
   },
+  "sorcery": 9,
+  "meta": [
+   "quickened",
+   "twinned"
+  ],
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,
@@ -6253,6 +6276,10 @@ export const HEROES = [
    "thaumaturgy": 0,
    "vicious mockery": 0
   },
+  "sorcery": 9,
+  "meta": [
+   "empowered"
+  ],
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,

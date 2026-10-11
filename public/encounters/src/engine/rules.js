@@ -364,7 +364,7 @@ export class Engine {
       if (!list || !this.active(me) || this.incapacitated(me)) continue;
       for (const r of list) {
         if (r.trigger !== trigger) continue;
-        if (!r.free && (!me.reaction || this.has(me, 'noReactions'))) continue;
+        if (!r.free && (!me.reaction || this.has(me, 'noReactions') || this.has(me, 'slowed'))) continue;
         const who = r.who || 'self';
         if (who === 'self' && me !== subject) continue;
         if (who === 'ally' && (me === subject || !subject || me.side !== subject.side)) continue;
@@ -777,6 +777,7 @@ export class Engine {
             if (!f.ends) f.ends = { who: src.id, when: 'end', turns: 10 };
           }
           if (x.escape) f.escape = x.escape;
+          if (x.more) Object.assign(f, x.more);
           this.addFx(tgt, f, src);
           break;
         }
@@ -1008,7 +1009,8 @@ export class Engine {
   run(c, act, choice) {
     switch (act.kind) {
       case 'attack': {
-        const n = act.n || 1;
+        // one attack only for Haste's extra action, and for a slowed creature
+        const n = choice.one || this.has(c, 'slowed') ? 1 : act.n || 1;
         for (let i = 0; i < n; i++) {
           if (!this.active(c)) break;
           const t = this.target(c, act, choice, i);
@@ -1033,6 +1035,7 @@ export class Engine {
       case 'multi': {
         let opt = act.options[choice.opt || 0] || act.options[0];
         opt = opt.filter((sid) => this.action(c, sid));
+        if (this.has(c, 'slowed')) opt = opt.slice(0, 1);
         let k = 0;
         for (const sid of opt) {
           if (!this.active(c)) break;
@@ -1081,7 +1084,7 @@ export class Engine {
     if (teleport || c.turn.noOA) return;
     for (const e of foes) {
       if (!this.active(c)) break;
-      if (!e.reaction || this.incapacitated(e) || this.has(e, 'noReactions')) continue;
+      if (!e.reaction || this.incapacitated(e) || this.has(e, 'noReactions') || this.has(e, 'slowed')) continue;
       const oa = this.hook(e, 'opportunity', { tgt: c });
       const id = oa || e.tpl.oa;
       const act = id && this.action(e, id);

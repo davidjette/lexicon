@@ -298,6 +298,7 @@ function liveCard(c) {
   const key = c.tpl.id;
   if (PC_RES[key]) res.push(PC_RES[key](c));
   else if (c.slots) res.push(`Slots ${slotText(c)}`);
+  if (c.tpl.sorcery) res.push(`Sorcery points ${c.memo.sp ?? c.tpl.sorcery}/${c.tpl.sorcery}`);
   if (c.leg) res.push(`Legendary actions ${c.legLeft}/${c.leg}`);
   if (c.tpl.lr) res.push(`Legendary Resistance ${c.lr}/${c.tpl.lr}`);
   const now = enc && enc.current === c && !enc.over;

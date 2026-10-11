@@ -152,13 +152,25 @@ function genericNext(E, c) {
   return null;
 }
 
+// Haste: one more weapon attack, after everything else the turn holds
+function hasteAttack(E, c) {
+  if (c.turn.hasted || !E.any(c, 'hasteAttack')) return null;
+  c.turn.hasted = true;
+  const id = c.tpl.hasteWith || c.tpl.basic;
+  const act = id && E.action(c, id);
+  if (!act || act.kind !== 'attack' || act.spell) return null;
+  const targets = targetsFor(E, c, id, {});
+  if (!targets) return null;
+  E.log('info', `${c.name} attacks once more (Haste).`, c);
+  return { act: id, targets, free: true, one: true };
+}
+
 export const AI = {
   pickTarget,
   tryPlan,
 
   next(E, c) {
-    if (c.tpl.brain) return c.tpl.brain(E, c);
-    return genericNext(E, c);
+    return (c.tpl.brain ? c.tpl.brain(E, c) : genericNext(E, c)) || hasteAttack(E, c);
   },
 
   legendary(E, L, after) {
