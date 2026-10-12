@@ -333,6 +333,9 @@ Esther interpreted Eden's survival as a miracle and as proof that the Warforged 
 
 The result became **EDN-00**, the prototype of [Project E.D.E.N.](/organizations/project-e-d-e-n/).
 
+![Eden - The Blue Devil 3 - The Mournlands.png](/images/uploads/eden-the-blue-devil-3-the-mournlands-mv4uzkoy.webp)
+*Eden "The Blue Devil" - The Mournlands*
+
 ## Project E.D.E.N.
 
 As Lord Commander, Esther had the authority and resources to turn Eden's failed resurrection into something much larger.
