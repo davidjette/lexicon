@@ -9,7 +9,7 @@
 
 import { SRD_SPELLS } from './spells-data.js';
 import { melee, ranged, save, emanation, rollDice, areaTargets } from './lib.js';
-import { avgDice, parseDice } from '../engine/dice.js';
+import { avgDice, parseDice, maxDice } from '../engine/dice.js';
 
 const up = (n, die, level, per = 1, flat = '') => {
   const out = {};
@@ -174,12 +174,15 @@ export function cast(key, o = {}) {
       kind: 'special', name: s.name, spell: true, ...slotted, ...cost, ally: !mass, noTarget: mass, book: { role: 'heal', mass, base: avgDice(diceAt(s.heal, s.level, mod)) },
       run(E, c, act, choice) {
         const lvl = levelOf(choice);
-        const r = rollDice(E.rng, diceAt(s.heal, lvl, mod));
+        const t0 = c.tpl;
+        let r = t0.healMax ? { total: maxDice(diceAt(s.heal, lvl, mod)), text: 'the most the dice can show' } : rollDice(E.rng, diceAt(s.heal, lvl, mod));
+        if (t0.healAdd) r = { total: r.total + t0.healAdd(lvl), text: `${r.text} +${t0.healAdd(lvl)}` };
         const pool = mass
           ? E.alliesOf(c, true).filter((a) => a.hp < a.maxHp && !E.has(a, 'noHeal')).sort((a, b) => a.hp - b.hp).slice(0, 6)
           : [E.get((choice.targets || [])[0]) || c];
         E.log('act', `${c.name} casts ${s.name} (level ${lvl}): ${r.text} = ${r.total}${mass ? ' each' : ` on ${pool[0].name}`}.`, c);
         for (const a of pool) E.heal(a, r.total, c, s.name);
+        if (t0.healerSelf && pool.some((a) => a !== c) && c.hp < c.maxHp) E.heal(c, t0.healerSelf(lvl), c, 'Blessed Healer');
       },
     };
   }
@@ -200,7 +203,7 @@ export function cast(key, o = {}) {
         const t = E.get((choice.targets || [])[0]) || pick(E, c);
         if (!t || t.hp > cap) { E.log('info', `${c.name}: ${s.name} has no target weak enough.`, c); return; }
         E.log('act', `${c.name} speaks ${s.name} at ${t.name} (${t.hp} HP).`, c);
-        if (s.word === 'kill') E.damage(t, [{ amt: t.hp + (t.temp || 0), type: 'psychic' }], c, { rollText: s.name });
+        if (s.word === 'kill') E.damage(t, [{ amt: t.hp + (t.tempHp || 0), type: 'psychic' }], c, { rollText: s.name });
         else E.addFx(t, { cond: 'stunned', name: s.name, saveEnds: { ability: 'con', dc, spell: true } }, c);
       },
     };
@@ -284,7 +287,7 @@ export function cast(key, o = {}) {
   // damage, by attack roll or saving throw, scaled by the slot
   const hit = s.auto ? 1 : s.atk ? 0.65 : s.half ? 0.75 : 0.55;
   const book = {
-    role: 'damage', at: o.uses ? o.at || s.level : 0, type: s.type, area: s.area || 0, atk: !!s.atk || !!s.auto, half: !!s.half,
+    role: 'damage', at: o.uses ? o.at || s.level : 0, type: s.type, save: s.atk || s.auto ? null : s.save, area: s.area || 0, atk: !!s.atk || !!s.auto, half: !!s.half,
     dice: (lvl) => diceAt(s.dmg, lvl, mod), rays: s.rays, sustain: s.sustain, setup: !!s.setup,
     single: !s.area && !s.rays && !s.sustain, rolled: !s.atk && !s.auto,
   };
@@ -296,18 +299,20 @@ export function cast(key, o = {}) {
   const strike = (E, c, first, lvl, choice = {}) => {
     let t = first;
     const name = lvl > s.level ? `${s.name} (level ${lvl})` : s.name;
-    const dice = book.dice(lvl);
+    // one damage roll of the casting may carry a bonus (Elemental Affinity, Arcane Firearm)
+    const plus = (c.tpl.spellPlus || []).filter((p) => !p.type || p.type === s.type).map((p) => `+${p.dice}`).join('');
+    const dice = book.dice(lvl) + plus;
     const n = s.rays ? s.rays(lvl) : 1;
     if (s.auto) {
       const r = rollDice(E.rng, Array(n).fill(dice).join('+'));
       E.log('act', `${c.name}: ${name} at ${t.name}${s.rays ? `, ${n} darts` : ''}.`, c);
       E.damage(t, [{ amt: r.total, type: s.type }], c, { rollText: `${r.text} ${s.type}` });
     } else if (s.atk) {
-      const a = { name, toHit, melee: s.atk === 'melee', dmg: [[dice, s.type]], spell: true, weapon: false, noRangePenalty: !!s.sustain };
+      const a = { name, toHit, melee: s.atk === 'melee', dmg: [[dice, s.type]], plain: [[book.dice(lvl), s.type]], spell: true, weapon: false, noRangePenalty: !!s.sustain };
       for (let i = 0; i < n && E.active(c); i++) {
         if (t.down || !E.present(t)) t = pick(E, c);
         if (!t) break;
-        E.attack(c, t, a, {});
+        E.attack(c, t, i === 0 ? a : { ...a, dmg: a.plain }, {});
       }
     } else {
       const targets = s.area ? areaTargets(E, c, t, { max: s.area, spread: s.area >= 6 ? 0.3 : 0.15 }) : [t];
@@ -434,7 +439,9 @@ function bestDamage(E, c, ids, slot, atWill, allowTop = false) {
       else if (a.book.sustain) v *= 3;
       let twin = null;
       if (a.book.single && n >= 2 && !kill && hasMeta(c, 'twinned') && sorceryPoints(c) >= Math.max(1, lvl)) { twin = META.twinned(lvl); v *= 1.9; }
-      if (!best || v > best.v + 0.01) best = { id, l, v, a, twin, kill, live };
+      const big = live.slice().sort((x, y) => y.hp - x.hp)[0];
+      const edge = a.book.save ? -E.saveBonus(big, a.book.save) : 0;
+      if (!best || v > best.v + 0.01 || (Math.abs(v - best.v) <= 0.01 && edge > best.edge)) best = { id, l, v, a, twin, kill, live, edge };
     }
   }
   return best;

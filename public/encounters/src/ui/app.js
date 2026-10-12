@@ -146,6 +146,11 @@ function portrait(tpl, name) {
   return img;
 }
 
+// hover text for a library character: what the feature book runs, and what it does not yet
+const featureNote = (f) => [
+  f.run.length ? `Run: ${f.run.join(', ')}.` : '',
+  f.unknown.length ? `Not yet run: ${f.unknown.join(', ')}.` : '',
+].filter(Boolean).join('\n');
 const subline = (tpl) => tpl.sub || [tpl.cr !== undefined ? `CR ${tpl.cr}` : null, tpl.type].filter(Boolean).join(' · ');
 
 const adderQuery = {}; // what is typed in each side's search box
@@ -266,7 +271,7 @@ function editCard(r) {
     portrait(base, r.name),
     h('div', {},
       h('div', { class: 'name' }, r.name, base.dm ? h('span', { class: 'dm-tag', style: 'margin-left:.4rem' }, 'DM ONLY') : null),
-      h('div', { class: 'sub' }, subline(base)),
+      h('div', base.features ? { class: 'sub', title: featureNote(base.features) } : { class: 'sub' }, subline(base)),
       line),
     det);
 }

@@ -1,7 +1,7 @@
 // Resolution rules: attacks, saves, damage, healing, conditions, concentration, dropping and dying.
 // No browser code in here; the same file runs in the page, in the batch worker and under node.
 
-import { makeRng, rollDice, d20, mod, signed, avgDice } from './dice.js';
+import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js';
 import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, areaTargets } from './zones.js';
 
 export const DEFAULT_RULES = {
@@ -293,7 +293,7 @@ export class Engine {
       if (singers >= 3) { adv++; why.push('the choir'); }
     }
     const mode = adv && !dis ? 'adv' : dis && !adv ? 'dis' : 'normal';
-    let r = d20(this.rng, mode);
+    let r = o.fixed !== undefined ? { nat: o.fixed, text: `${o.fixedBy || 'fixed'}[${o.fixed}]` } : d20(this.rng, mode);
     let bonus = this.saveBonus(c, ability);
     let extra = '';
     for (const f of c.fx) {
@@ -316,6 +316,17 @@ export class Engine {
         total = Math.max(total, t2);
       }
     }
+    // a die someone gave this creature, spent when it can turn the failure
+    if (!success) {
+      const add = this.boost(c, dc - total);
+      if (add) { total += add.total; success = total >= dc; text += `, fails; ${add.text}`; }
+    }
+    // a friend steps in
+    if (!success) {
+      const sctx = { tgt: c, subject: c, ability, dc, total, add: 0, note: null, o };
+      this.react('saveFailed', sctx);
+      if (sctx.add) { total += sctx.add; success = total >= dc; text += `, fails; ${sctx.note || 'helped'} +${sctx.add} = ${total}`; }
+    }
     let forced = null;
     if (!success) {
       forced = this.hook(c, 'forceSave', { ability, dc, o });
@@ -333,6 +344,15 @@ export class Engine {
     if (why.length) text += ` [${why.join(', ')}]`;
     this.log('save', text + '.', c);
     return { success, total, nat: r.nat };
+  }
+
+  // Spend a held bonus die (fx.boostDie) when its best roll could close the gap.
+  boost(c, gap) {
+    const f = c.fx.find((x) => x.boostDie && maxDice(x.boostDie) >= gap);
+    if (!f || gap <= 0) return null;
+    const r = rollDice(this.rng, f.boostDie);
+    c.fx = c.fx.filter((x) => x !== f);
+    return { total: r.total, text: `${f.name} ${r.text} = +${r.total}` };
   }
 
   worthResisting(c, o) {
@@ -468,7 +488,7 @@ export class Engine {
         extra += ` +${f.name} ${x.total}`;
       }
     }
-    let critMin = act.critMin || 20;
+    let critMin = Math.min(act.critMin || 20, att.tpl.critMin || 20, hk.critMin || 20);
     if (att.tpl.crossedBlades && melee) {
       const mates = this.alliesOf(att).filter((x) => x.tpl.crossedBlades && isEngaged(x, tgt) && this.active(x)).length;
       if (mates >= 1) critMin = Math.min(critMin, 19);
@@ -499,6 +519,24 @@ export class Engine {
         }
       }
       if (ctx.noCrit) ctx.crit = false;
+      ctx.hit = ctx.crit || (ctx.nat !== 1 && ctx.total >= this.acOf(tgt) + ctx.acBonus);
+    }
+    if (!ctx.hit) {
+      const gap = this.acOf(tgt) + ctx.acBonus - ctx.total;
+      // the attacker's own features: { add, label } or { reroll: label }
+      const fix = this.hook(att, 'fixMiss', { ...ctx, gap, critMin }) || {};
+      if (fix.reroll) {
+        const r2 = d20(this.rng, 'normal');
+        extra += ` (${fix.reroll}: ${r2.nat})`;
+        if (r2.nat > ctx.nat) { ctx.nat = r2.nat; ctx.total = r2.nat + bonus; ctx.crit = r2.nat >= critMin; roll = { nat: r2.nat, first: r2.nat, text: `${roll.text}→[${r2.nat}]` }; }
+      } else if (fix.add) {
+        ctx.total += fix.add;
+        bonus += fix.add;
+        extra += ` +${fix.label} ${fix.add}`;
+      } else if (ctx.nat !== 1) {
+        const add = this.boost(att, gap);
+        if (add) { ctx.total += add.total; bonus += add.total; extra += ` +${add.text}`; }
+      }
       ctx.hit = ctx.crit || (ctx.nat !== 1 && ctx.total >= this.acOf(tgt) + ctx.acBonus);
     }
     const auto = melee && (this.has(tgt, 'paralysed') || this.has(tgt, 'unconscious'));
@@ -582,6 +620,7 @@ export class Engine {
     }
     const pre = { tgt, subject: tgt, src, total, parts, o, mult: 1, note: null };
     if (o.attack && total > 0) this.react('preDamage', pre);
+    else if (total > 0 && src) this.react('preHarm', pre);
     if (pre.mult !== 1) {
       total = Math.floor(total * pre.mult);
       if (pre.note) notes.push(pre.note);
@@ -865,13 +904,18 @@ export class Engine {
       if (!this.present(t)) continue;
       if (act.notUndead && (t.tpl.type === 'undead' || t.tpl.type === 'construct')) continue;
       const serious = !!(act.onFail && act.onFail.length);
-      const r = this.save(t, act.save, dc, { spell: act.spell, serious, expected, tags: act.tags, dis: act.disFor && act.disFor(this, t) });
+      // the caster may have a die set aside for this target's save
+      const told = this.hook(src, 'foretell', { tgt: t, act, dc, expected, serious, first: t === targets[0] });
+      const r = this.save(t, act.save, dc, { spell: act.spell, serious, expected, tags: act.tags, dis: act.disFor && act.disFor(this, t), ...(told ? { fixed: told.die, fixedBy: told.label } : {}) });
       const ctx = {};
       // a minion that saves against an area takes nothing
       if (rolled && r.success && t.tpl.minion) continue;
+      // Evasion: nothing on a made Dexterity save for half, and half on a failed one
+      const evades = rolled && act.save === 'dex' && act.half && t.tpl.evasion && !this.incapacitated(t);
+      if (evades && r.success) { this.log('info', `${t.name} takes nothing (Evasion).`, t); continue; }
       if (rolled) {
         if (!r.success || act.half) {
-          const dealt = this.damage(t, rolled.map((x) => ({ amt: x.amt, type: x.type })), src, { half: r.success, act, mult, area });
+          const dealt = this.damage(t, rolled.map((x) => ({ amt: x.amt, type: x.type })), src, { half: r.success || evades, act, mult, area });
           ctx.dealt = dealt;
           ctx.necrotic = rolled.filter((x) => x.type === 'necrotic').reduce((s, x) => s + x.amt, 0);
           if (r.success) ctx.necrotic = Math.floor(ctx.necrotic / 2);

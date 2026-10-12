@@ -2,6 +2,74 @@
 
 export const HEROES = [
  {
+  "classes": {
+   "cleric": 11
+  },
+  "subclasses": {
+   "cleric": "nature domain"
+  },
+  "features": {
+   "acolyte of nature": {},
+   "bonus proficiency": {},
+   "channel divinity: charm animals and plants": {
+    "act": "action"
+   },
+   "dampen elements": {
+    "act": "reaction"
+   },
+   "divine strike": {},
+   "spellcasting": {},
+   "divine domain": {},
+   "channel divinity": {
+    "act": "special",
+    "uses": 2,
+    "reset": "short"
+   },
+   "destroy undead": {
+    "act": "special"
+   },
+   "divine intervention": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long",
+    "dice": "1d100"
+   },
+   "darkvision": {},
+   "keen senses": {},
+   "fey ancestry": {},
+   "trance": {},
+   "elf weapon training": {},
+   "fey step": {},
+   "channel divinity: turn undead": {
+    "act": "action"
+   },
+   "harness divine power": {
+    "act": "bonus",
+    "uses": 2,
+    "reset": "long"
+   },
+   "blessed strikes": {
+    "act": "special",
+    "dice": "1d8"
+   }
+  },
+  "feats": [],
+  "options": [],
+  "items": [
+   {
+    "name": "ring of mind shielding",
+    "attuned": true,
+    "kind": "ring"
+   },
+   {
+    "name": "elven longsword",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-arana-mageblood",
   "name": "Arana Mageblood",
   "classLine": "Eladrin (Variant) Cleric 11 (Nature Domain)",
@@ -52,6 +120,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -66,6 +138,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -80,6 +156,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -122,34 +202,35 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "blade barrier": 6,
-   "word of recall": 6,
-   "commune": 5,
-   "flame strike": 5,
-   "hallow": 5,
-   "mass cure wounds": 5,
-   "scrying": 5,
-   "control water": 4,
-   "stone shape": 4,
-   "mass healing word": 3,
-   "protection from energy": 3,
-   "sending": 3,
-   "water walk": 3,
-   "misty step": 2,
-   "spiritual weapon": 2,
-   "protection from evil and good": 1,
-   "shield of faith": 1,
    "druidcraft": 0,
    "guidance": 0,
    "mending": 0,
    "sacred flame": 0,
    "toll the dead": 0,
-   "word of radiance": 0
+   "word of radiance": 0,
+   "protection from evil and good": 1,
+   "shield of faith": 1,
+   "misty step": 2,
+   "spiritual weapon": 2,
+   "mass healing word": 3,
+   "protection from energy": 3,
+   "sending": 3,
+   "water walk": 3,
+   "control water": 4,
+   "stone shape": 4,
+   "commune": 5,
+   "flame strike": 5,
+   "hallow": 5,
+   "mass cure wounds": 5,
+   "scrying": 5,
+   "blade barrier": 6,
+   "word of recall": 6
   },
   "rogue": 0,
   "barbarian": 0,
@@ -158,6 +239,91 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "cleric": 20
+  },
+  "subclasses": {
+   "cleric": "life domain"
+  },
+  "features": {
+   "bonus proficiency": {},
+   "disciple of life": {},
+   "channel divinity: preserve life": {
+    "act": "action"
+   },
+   "blessed healer": {
+    "act": "none"
+   },
+   "divine strike": {},
+   "supreme healing": {},
+   "spellcasting": {},
+   "divine domain": {},
+   "channel divinity": {
+    "act": "special",
+    "uses": 3,
+    "reset": "short"
+   },
+   "destroy undead": {
+    "act": "special"
+   },
+   "divine intervention": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long",
+    "dice": "1d100"
+   },
+   "darkvision": {},
+   "dwarven resilience": {},
+   "dwarven combat training": {},
+   "tool proficiency": {},
+   "stonecunning": {},
+   "dwarven toughness": {},
+   "channel divinity: turn undead": {
+    "act": "action"
+   },
+   "harness divine power": {
+    "act": "bonus",
+    "uses": 3,
+    "reset": "long"
+   },
+   "blessed strikes": {
+    "act": "special",
+    "dice": "1d8"
+   }
+  },
+  "feats": [
+   "keen mind",
+   "squat nimbleness"
+  ],
+  "options": [],
+  "items": [
+   {
+    "name": "winged boots",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "armor of the woods",
+    "attuned": true,
+    "charges": 1,
+    "homebrew": true,
+    "kind": "armor"
+   },
+   {
+    "name": "helm of the woods",
+    "attuned": true,
+    "charges": 1,
+    "homebrew": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "axe of the woods",
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 6,
   "id": "hero-brother-magnus",
   "name": "Brother Magnus",
   "classLine": "Hill Dwarf Cleric 20 (Life Domain)",
@@ -213,34 +379,38 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "gate": 9,
-   "mass heal": 9,
-   "control weather": 8,
-   "plane shift": 7,
-   "temple of the gods": 7,
+   "guidance": 0,
+   "sacred flame": 0,
+   "spare the dying": 0,
+   "healing word": 1,
+   "calm emotions": 2,
+   "hold person": 2,
+   "prayer of healing": 2,
+   "mass healing word": 3,
+   "spirit guardians": 3,
+   "banishment": 4,
+   "control water": 4,
+   "freedom of movement": 4,
+   "commune with nature": 5,
+   "flame strike": 5,
    "find the path": 6,
    "heal": 6,
    "heroes' feast": 6,
    "true seeing": 6,
-   "commune with nature": 5,
-   "flame strike": 5,
-   "banishment": 4,
-   "control water": 4,
-   "freedom of movement": 4,
-   "mass healing word": 3,
-   "spirit guardians": 3,
-   "calm emotions": 2,
-   "hold person": 2,
-   "prayer of healing": 2,
-   "healing word": 1,
-   "guidance": 0,
-   "sacred flame": 0,
-   "spare the dying": 0
+   "plane shift": 7,
+   "temple of the gods": 7,
+   "control weather": 8,
+   "gate": 9,
+   "mass heal": 9
   },
   "rogue": 0,
   "barbarian": 0,
@@ -249,6 +419,104 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "rogue": 5,
+   "warlock": 14
+  },
+  "subclasses": {
+   "rogue": "swashbuckler",
+   "warlock": "the archfey"
+  },
+  "features": {
+   "fancy footwork": {},
+   "rakish audacity": {},
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "3d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "roguish archetype": {},
+   "uncanny dodge": {
+    "act": "reaction"
+   },
+   "expanded spell list": {},
+   "fey presence": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short"
+   },
+   "misty escape": {
+    "act": "reaction",
+    "uses": 1,
+    "reset": "short"
+   },
+   "beguiling defenses": {
+    "act": "reaction"
+   },
+   "dark delirium": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short"
+   },
+   "otherworldly patron": {},
+   "pact magic": {},
+   "eldritch invocations": {},
+   "pact boon": {},
+   "mystic arcanum (6th level)": {},
+   "mystic arcanum (7th level)": {},
+   "lucky": {},
+   "brave": {},
+   "halfling nimbleness": {},
+   "naturally stealthy": {},
+   "steady aim": {
+    "act": "bonus"
+   },
+   "create pact weapon": {
+    "act": "action"
+   },
+   "eldritch smite": {
+    "act": "special",
+    "dice": "1d8"
+   },
+   "one with shadows": {
+    "act": "action"
+   }
+  },
+  "feats": [
+   "tough"
+  ],
+  "options": [
+   "pact of the blade",
+   "eldritch smite",
+   "eldritch mind",
+   "one with shadows",
+   "lifedrinker",
+   "thirsting blade",
+   "undying servitude"
+  ],
+  "items": [
+   {
+    "name": "armor of lightning resistance, padded",
+    "attuned": true,
+    "kind": "armor"
+   },
+   {
+    "name": "pewterthorn",
+    "attuned": true,
+    "charges": 4,
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "condImmune": [
+   "charmed"
+  ],
+  "prof": 6,
   "id": "hero-bruce-brownsleeves",
   "name": "Bruce Brownsleeves",
   "classLine": "Lightfoot Halfling Rogue 5 (Swashbuckler) / Warlock 14 (The Archfey)",
@@ -297,6 +565,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -311,6 +584,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "2d6",
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -325,6 +602,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -358,25 +638,25 @@ export const HEROES = [
    }
   ],
   "spells": {
-   "dominate monster": 8,
-   "crown of stars": 7,
-   "conjure fey": 6,
-   "dream": 5,
-   "far step": 5,
-   "seeming": 5,
-   "dimension door": 4,
-   "greater invisibility": 4,
-   "animate dead": 3,
-   "thunder step": 3,
+   "booming blade": 0,
+   "eldritch blast": 0,
+   "green-flame blade": 0,
+   "mage hand": 0,
+   "hex": 1,
    "invisibility": 2,
    "mirror image": 2,
    "misty step": 2,
    "moonbeam": 2,
-   "hex": 1,
-   "booming blade": 0,
-   "eldritch blast": 0,
-   "green-flame blade": 0,
-   "mage hand": 0
+   "animate dead": 3,
+   "thunder step": 3,
+   "dimension door": 4,
+   "greater invisibility": 4,
+   "dream": 5,
+   "far step": 5,
+   "seeming": 5,
+   "conjure fey": 6,
+   "crown of stars": 7,
+   "dominate monster": 8
   },
   "rogue": 5,
   "barbarian": 0,
@@ -385,6 +665,115 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "paladin": 20
+  },
+  "subclasses": {
+   "paladin": "oath of vengeance"
+  },
+  "features": {
+   "channel divinity": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short"
+   },
+   "relentless avenger": {
+    "act": "special"
+   },
+   "soul of vengeance": {
+    "act": "reaction"
+   },
+   "avenging angel": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "oath spells": {},
+   "divine sense": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "lay on hands": {},
+   "fighting style": {},
+   "spellcasting": {},
+   "divine smite": {
+    "act": "special"
+   },
+   "divine health": {},
+   "sacred oath": {},
+   "extra attack": {
+    "act": "action"
+   },
+   "aura of protection": {},
+   "aura of courage": {},
+   "improved divine smite": {
+    "act": "special",
+    "dice": "1d8"
+   },
+   "cleansing touch": {
+    "act": "action",
+    "reset": "long"
+   },
+   "aura improvements": {},
+   "lay on hands pool": {
+    "act": "action",
+    "uses": 100,
+    "reset": "long"
+   },
+   "channel divinity: abjure enemy": {
+    "act": "action"
+   },
+   "channel divinity: vow of enmity": {
+    "act": "bonus"
+   },
+   "harness divine power": {
+    "act": "bonus",
+    "uses": 3,
+    "reset": "long"
+   },
+   "inspiring leader": {
+    "act": "none"
+   }
+  },
+  "feats": [
+   "inspiring leader"
+  ],
+  "options": [
+   "defense"
+  ],
+  "items": [
+   {
+    "name": "belt of dwarvenkind",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "zanzibar ring 2",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "ring"
+   },
+   {
+    "name": "ring of counterspells",
+    "homebrew": true,
+    "kind": "ring"
+   },
+   {
+    "name": "bazooka joe",
+    "charges": 3,
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing (superior)": 1,
+   "potion of healing": 2
+  },
+  "condImmune": [
+   "frightened"
+  ],
+  "prof": 6,
   "id": "hero-dark-zanzibar",
   "name": "Dark Zanzibar",
   "classLine": "Human Paladin 20 (Oath of Vengeance)",
@@ -436,6 +825,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -450,23 +842,12 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "summon celestial": 5,
-   "death ward": 4,
-   "find greater steed": 4,
-   "staggering smite": 4,
-   "aura of vitality": 3,
-   "blinding smite": 3,
-   "counterspell": 3,
-   "fireball": 3,
-   "fly": 3,
-   "revivify": 3,
-   "spirit shroud": 3,
-   "find steed": 2,
    "absorb elements": 1,
    "compelled duel": 1,
    "cure wounds": 1,
@@ -475,7 +856,19 @@ export const HEROES = [
    "searing smite": 1,
    "shield of faith": 1,
    "thunderous smite": 1,
-   "wrathful smite": 1
+   "wrathful smite": 1,
+   "find steed": 2,
+   "aura of vitality": 3,
+   "blinding smite": 3,
+   "counterspell": 3,
+   "fireball": 3,
+   "fly": 3,
+   "revivify": 3,
+   "spirit shroud": 3,
+   "death ward": 4,
+   "find greater steed": 4,
+   "staggering smite": 4,
+   "summon celestial": 5
   },
   "rogue": 0,
   "barbarian": 0,
@@ -484,6 +877,84 @@ export const HEROES = [
   "paladin": 20
  },
  {
+  "classes": {
+   "druid": 20
+  },
+  "subclasses": {
+   "druid": "circle of the moon"
+  },
+  "features": {
+   "combat wild shape": {
+    "act": "bonus"
+   },
+   "circle forms": {},
+   "primal strike": {},
+   "elemental wild shape": {},
+   "thousand forms": {},
+   "druidic": {},
+   "spellcasting": {},
+   "wild shape": {
+    "act": "action"
+   },
+   "wild shape improvement": {},
+   "druid circle": {},
+   "timeless body": {},
+   "beast spells": {},
+   "archdruid": {},
+   "darkvision": {},
+   "keen senses": {},
+   "fey ancestry": {},
+   "trance": {},
+   "elf weapon training": {},
+   "fleet of foot": {},
+   "mask of the wild": {
+    "act": "special"
+   },
+   "wild companion": {
+    "act": "action"
+   },
+   "lucky": {
+    "act": "none",
+    "uses": 3,
+    "reset": "long"
+   }
+  },
+  "feats": [
+   "lucky",
+   "mobile",
+   "lvl 22 prof bonus",
+   "lvl 22 mastery"
+  ],
+  "options": [],
+  "items": [
+   {
+    "name": "boots of speed",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "antlers of true shape",
+    "charges": 1,
+    "homebrew": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "garden armor of the toadstool",
+    "attuned": true,
+    "charges": 1,
+    "homebrew": true,
+    "kind": "armor"
+   },
+   {
+    "name": "silverbane",
+    "attuned": true,
+    "charges": 4,
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 6,
   "id": "hero-drefaen-gallidan",
   "name": "Drefaen Gallidan",
   "classLine": "Wood Elf Druid 20 (Circle of the Moon)",
@@ -537,6 +1008,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "2d6",
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -579,43 +1055,44 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "shapechange": 9,
-   "storm of vengeance": 9,
-   "animal shapes": 8,
-   "antipathy/sympathy": 8,
-   "dominate monster": 8,
-   "sunburst": 8,
-   "plane shift": 7,
-   "reverse gravity": 7,
-   "bones of the earth": 6,
-   "heal": 6,
-   "sunbeam": 6,
-   "greater restoration": 5,
-   "maelstrom": 5,
-   "mass cure wounds": 5,
-   "grasping vine": 4,
-   "polymorph": 4,
-   "stone shape": 4,
-   "call lightning": 3,
-   "dispel magic": 3,
-   "meld into stone": 3,
-   "alter self": 2,
-   "healing spirit": 2,
-   "lesser restoration": 2,
-   "moonbeam": 2,
+   "produce flame": 0,
+   "shape water": 0,
+   "thorn whip": 0,
+   "thunderclap": 0,
    "absorb elements": 1,
    "charm person": 1,
    "faerie fire": 1,
    "healing word": 1,
-   "produce flame": 0,
-   "shape water": 0,
-   "thorn whip": 0,
-   "thunderclap": 0
+   "alter self": 2,
+   "healing spirit": 2,
+   "lesser restoration": 2,
+   "moonbeam": 2,
+   "call lightning": 3,
+   "dispel magic": 3,
+   "meld into stone": 3,
+   "grasping vine": 4,
+   "polymorph": 4,
+   "stone shape": 4,
+   "greater restoration": 5,
+   "maelstrom": 5,
+   "mass cure wounds": 5,
+   "bones of the earth": 6,
+   "heal": 6,
+   "sunbeam": 6,
+   "plane shift": 7,
+   "reverse gravity": 7,
+   "animal shapes": 8,
+   "antipathy/sympathy": 8,
+   "dominate monster": 8,
+   "sunburst": 8,
+   "shapechange": 9,
+   "storm of vengeance": 9
   },
   "rogue": 0,
   "barbarian": 0,
@@ -624,6 +1101,105 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "warlock": 20
+  },
+  "subclasses": {
+   "warlock": "chrono walker (w/pact of the chain)"
+  },
+  "features": {
+   "expanded spell list": {},
+   "time shift": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short"
+   },
+   "evasion step": {
+    "act": "reaction",
+    "uses": 1,
+    "reset": "short"
+   },
+   "split time, shared mind": {
+    "act": "special"
+   },
+   "chronostride": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "metamorphosis": {},
+   "pact of the chain features: bombyx mori": {},
+   "otherworldly patron": {},
+   "pact magic": {},
+   "eldritch invocations": {},
+   "pact boon": {},
+   "mystic arcanum (6th level)": {},
+   "eldritch master": {
+    "act": "none",
+    "uses": 1,
+    "reset": "long"
+   },
+   "mystic arcanum (7th level)": {},
+   "mystic arcanum (8th level)": {},
+   "mystic arcanum (9th level)": {},
+   "skills": {}
+  },
+  "feats": [
+   "alert",
+   "tough"
+  ],
+  "options": [
+   "agonizing blast",
+   "repelling blast",
+   "devil's sight",
+   "pact of the chain",
+   "eldritch sight",
+   "eldritch spear",
+   "mask of many faces",
+   "whispers of the grave",
+   "shroud of shadow"
+  ],
+  "items": [
+   {
+    "name": "bag of holding",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "cape of the mountebank",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "ioun stone of mastery",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "studded leather, +2",
+    "kind": "armor"
+   },
+   {
+    "name": "wand of the war mage, +2",
+    "attuned": true,
+    "kind": "wand"
+   },
+   {
+    "name": "voyager staff",
+    "attuned": true,
+    "charges": 10,
+    "kind": "staff"
+   },
+   {
+    "name": "ring of counterspells",
+    "homebrew": true,
+    "kind": "ring"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 4,
+   "potion of healing (superior)": 6
+  },
+  "prof": 6,
   "id": "hero-eloise",
   "name": "Eloise",
   "classLine": "Variant Human Warlock 20 (CHRONO WALKER (w/Pact of the Chain))",
@@ -648,7 +1224,9 @@ export const HEROES = [
    "wis": 10,
    "cha": 12
   },
-  "resist": [],
+  "resist": [
+   "necrotic"
+  ],
   "perAction": 1,
   "dc": 20,
   "spellHit": 15,
@@ -670,6 +1248,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -684,6 +1267,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -731,20 +1317,19 @@ export const HEROES = [
    }
   ],
   "spells": {
-   "foresight": 9,
-   "wish": 9,
-   "feeblemind": 8,
-   "crown of stars": 7,
-   "teleport": 7,
-   "scatter": 6,
-   "far step": 5,
-   "passwall": 5,
-   "raise dead": 5,
-   "scrying": 5,
-   "wall of light": 5,
-   "banishment": 4,
-   "dimension door": 4,
-   "sickening radiance": 4,
+   "eldritch blast": 0,
+   "mage hand": 0,
+   "mind sliver": 0,
+   "prestidigitation": 0,
+   "detect magic": 1,
+   "disguise self": 1,
+   "find familiar": 1,
+   "hex": 1,
+   "detect thoughts": 2,
+   "invisibility": 2,
+   "mirror image": 2,
+   "misty step": 2,
+   "suggestion": 2,
    "blink": 3,
    "counterspell": 3,
    "dispel magic": 3,
@@ -753,19 +1338,20 @@ export const HEROES = [
    "slow": 3,
    "speak with dead": 3,
    "thunder step": 3,
-   "detect thoughts": 2,
-   "invisibility": 2,
-   "mirror image": 2,
-   "misty step": 2,
-   "suggestion": 2,
-   "detect magic": 1,
-   "disguise self": 1,
-   "find familiar": 1,
-   "hex": 1,
-   "eldritch blast": 0,
-   "mage hand": 0,
-   "mind sliver": 0,
-   "prestidigitation": 0
+   "banishment": 4,
+   "dimension door": 4,
+   "sickening radiance": 4,
+   "far step": 5,
+   "passwall": 5,
+   "raise dead": 5,
+   "scrying": 5,
+   "wall of light": 5,
+   "scatter": 6,
+   "crown of stars": 7,
+   "teleport": 7,
+   "feeblemind": 8,
+   "foresight": 9,
+   "wish": 9
   },
   "rogue": 0,
   "barbarian": 0,
@@ -774,6 +1360,112 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "sorcerer": 18,
+   "wizard": 2
+  },
+  "subclasses": {
+   "sorcerer": "draconic bloodline",
+   "wizard": "school of divination"
+  },
+  "features": {
+   "dragon ancestor": {},
+   "draconic resilience": {},
+   "elemental affinity (acid)": {},
+   "dragon wings": {
+    "act": "bonus"
+   },
+   "draconic presence": {
+    "act": "action"
+   },
+   "8: ability score improvement": {},
+   "12: ability score improvement": {},
+   "16: ability score improvement": {},
+   "spellcasting": {},
+   "sorcerous origin": {},
+   "font of magic": {},
+   "metamagic": {},
+   "divination savant": {},
+   "portent": {
+    "act": "special",
+    "uses": 2,
+    "reset": "long"
+   },
+   "arcane recovery": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long"
+   },
+   "arcane tradition": {},
+   "sorcery points": {
+    "act": "action",
+    "uses": 18,
+    "reset": "long"
+   },
+   "convert sorcery points": {
+    "act": "bonus"
+   },
+   "magical guidance": {
+    "act": "special"
+   },
+   "quickened spell": {
+    "act": "special"
+   },
+   "elemental affinity": {
+    "act": "special"
+   },
+   "twinned spell": {
+    "act": "special"
+   },
+   "heightened spell": {
+    "act": "special"
+   },
+   "empowered spell": {
+    "act": "special"
+   },
+   "lucky": {
+    "act": "none",
+    "uses": 3,
+    "reset": "long"
+   }
+  },
+  "feats": [
+   "lucky"
+  ],
+  "options": [
+   "twinned spell",
+   "quickened spell",
+   "heightened spell",
+   "empowered spell",
+   "copper dragon"
+  ],
+  "items": [
+   {
+    "name": "portable hole",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "cloak of resistance",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "unicorn horn",
+    "attuned": true,
+    "charges": 14,
+    "homebrew": true,
+    "kind": "wand"
+   },
+   {
+    "name": "copperbane",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 6,
   "id": "hero-kara",
   "name": "Kara",
   "classLine": "Human Sorcerer 18 (Draconic Bloodline) / Wizard 2 (School of Divination)",
@@ -827,6 +1519,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "2d6",
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -841,6 +1537,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -855,6 +1554,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -930,26 +1634,16 @@ export const HEROES = [
    }
   ],
   "spells": {
-   "wish": 9,
-   "teleport": 7,
-   "chain lightning": 6,
-   "mass suggestion": 6,
-   "greater restoration": 5,
-   "mass cure wounds": 5,
-   "raise dead": 5,
-   "seeming": 5,
-   "telekinesis": 5,
-   "conjure minor elementals": 4,
-   "animate dead": 3,
-   "counterspell": 3,
-   "haste": 3,
-   "lightning bolt": 3,
-   "mass healing word": 3,
-   "revivify": 3,
-   "alter self": 2,
-   "kara's golden shower": 2,
-   "lesser restoration": 2,
-   "misty step": 2,
+   "acid splash": 0,
+   "fire bolt": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "mage hand": 0,
+   "mending": 0,
+   "message": 0,
+   "minor illusion": 0,
+   "shocking grasp": 0,
+   "thunderclap": 0,
    "alarm": 1,
    "burning hands": 1,
    "charm person": 1,
@@ -972,16 +1666,26 @@ export const HEROES = [
    "tenser's floating disk": 1,
    "thunderwave": 1,
    "unseen servant": 1,
-   "acid splash": 0,
-   "fire bolt": 0,
-   "light": 0,
-   "lightning lure": 0,
-   "mage hand": 0,
-   "mending": 0,
-   "message": 0,
-   "minor illusion": 0,
-   "shocking grasp": 0,
-   "thunderclap": 0
+   "alter self": 2,
+   "kara's golden shower": 2,
+   "lesser restoration": 2,
+   "misty step": 2,
+   "animate dead": 3,
+   "counterspell": 3,
+   "haste": 3,
+   "lightning bolt": 3,
+   "mass healing word": 3,
+   "revivify": 3,
+   "conjure minor elementals": 4,
+   "greater restoration": 5,
+   "mass cure wounds": 5,
+   "raise dead": 5,
+   "seeming": 5,
+   "telekinesis": 5,
+   "chain lightning": 6,
+   "mass suggestion": 6,
+   "teleport": 7,
+   "wish": 9
   },
   "sorcery": 18,
   "meta": [
@@ -997,6 +1701,119 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "fighter": 20
+  },
+  "subclasses": {
+   "fighter": "eldritch knight"
+  },
+  "features": {
+   "spellcasting": {},
+   "weapon bond": {
+    "act": "special"
+   },
+   "war magic": {
+    "act": "special"
+   },
+   "eldritch strike": {},
+   "arcane charge": {
+    "act": "special"
+   },
+   "improved war magic": {
+    "act": "special"
+   },
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "action surge": {
+    "act": "special",
+    "uses": 2,
+    "reset": "short"
+   },
+   "martial archetype": {},
+   "extra attack": {
+    "act": "special"
+   },
+   "indomitable": {
+    "act": "special",
+    "uses": 3,
+    "reset": "long"
+   },
+   "darkvision": {},
+   "fey ancestry": {},
+   "skill versatility": {},
+   "defensive duelist": {
+    "act": "reaction"
+   },
+   "mage slayer attack": {
+    "act": "reaction"
+   },
+   "war caster": {
+    "act": "reaction"
+   },
+   "shield master shove": {
+    "act": "bonus"
+   },
+   "shield master evasion": {
+    "act": "reaction"
+   }
+  },
+  "feats": [
+   "defensive duelist",
+   "mage slayer",
+   "shield master",
+   "war caster",
+   "prodigy",
+   "elven accuracy",
+   "lvl 22 mastery"
+  ],
+  "options": [
+   "dueling"
+  ],
+  "items": [
+   {
+    "name": "leather, +3",
+    "kind": "armor"
+   },
+   {
+    "name": "ring of counterspells",
+    "homebrew": true,
+    "kind": "ring"
+   },
+   {
+    "name": "the darkcember spear",
+    "homebrew": true,
+    "kind": "weapon"
+   },
+   {
+    "name": "onyxbane",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "armor"
+   },
+   {
+    "name": "ring of reaction",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "ring"
+   },
+   {
+    "name": "lvl 22 mastery stone",
+    "homebrew": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "blood fury tattoo",
+    "attuned": true,
+    "charges": 10,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {},
+  "prof": 6,
   "id": "hero-revan-nimbus-darkcember",
   "name": "Revan Nimbus-Darkcember",
   "classLine": "Half-Elf Fighter 20 (Eldritch Knight)",
@@ -1045,6 +1862,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1087,29 +1908,30 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "steel wind strike": 5,
-   "greater invisibility": 4,
-   "storm sphere": 4,
-   "counterspell": 3,
-   "fly": 3,
-   "haste": 3,
-   "phantom steed": 3,
-   "spirit shroud": 3,
+   "blade ward": 0,
+   "booming blade": 0,
+   "minor illusion": 0,
+   "absorb elements": 1,
+   "shield": 1,
    "alter self": 2,
    "blur": 2,
    "hold person": 2,
    "invisibility": 2,
    "mirror image": 2,
-   "absorb elements": 1,
-   "shield": 1,
-   "blade ward": 0,
-   "booming blade": 0,
-   "minor illusion": 0
+   "counterspell": 3,
+   "fly": 3,
+   "haste": 3,
+   "phantom steed": 3,
+   "spirit shroud": 3,
+   "greater invisibility": 4,
+   "storm sphere": 4,
+   "steel wind strike": 5
   },
   "rogue": 0,
   "barbarian": 0,
@@ -1118,6 +1940,39 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "fighter": 14
+  },
+  "subclasses": {},
+  "features": {
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "action surge": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "martial archetype": {},
+   "extra attack": {
+    "act": "special"
+   },
+   "indomitable": {
+    "act": "special",
+    "uses": 2,
+    "reset": "long"
+   }
+  },
+  "feats": [],
+  "options": [
+   "archery"
+  ],
+  "items": [],
+  "potions": {},
+  "prof": 5,
   "id": "hero-roland-deschain",
   "name": "Roland Deschain",
   "classLine": "Human Fighter 14",
@@ -1161,6 +2016,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
@@ -1173,6 +2029,56 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "bard": 18
+  },
+  "subclasses": {
+   "bard": "college of lore"
+  },
+  "features": {
+   "bonus proficiencies": {},
+   "cutting words": {
+    "act": "reaction"
+   },
+   "additional magical secrets": {},
+   "peerless skill": {
+    "act": "special"
+   },
+   "spellcasting": {},
+   "bardic inspiration": {
+    "act": "bonus",
+    "reset": "short"
+   },
+   "jack of all trades": {},
+   "song of rest": {},
+   "bard college": {},
+   "expertise": {},
+   "font of inspiration": {},
+   "countercharm": {
+    "act": "action"
+   },
+   "magical secrets": {},
+   "magical inspiration": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "tough"
+  ],
+  "options": [],
+  "items": [
+   {
+    "name": "cloak of displacement",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "studded leather, +3",
+    "kind": "armor"
+   }
+  ],
+  "potions": {},
+  "prof": 6,
   "id": "hero-sir-cuthbert-velvet-couch",
   "name": "Sir Cuthbert Velvet Couch",
   "classLine": "Human Bard 18 (College of Lore)",
@@ -1226,6 +2132,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1240,6 +2150,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -1254,6 +2165,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -1282,39 +2194,40 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "psychic scream": 9,
-   "feeblemind": 8,
-   "crown of stars": 7,
-   "power word pain": 7,
-   "eyebite": 6,
-   "guards and wards": 6,
-   "mass cure wounds": 5,
-   "planar binding": 5,
-   "seeming": 5,
-   "dimension door": 4,
-   "greater invisibility": 4,
-   "polymorph": 4,
-   "stoneskin": 4,
-   "fear": 3,
-   "major image": 3,
-   "sending": 3,
+   "blade ward": 0,
+   "friends": 0,
+   "true strike": 0,
+   "vicious mockery": 0,
+   "dissonant whispers": 1,
+   "healing word": 1,
+   "speak with animals": 1,
    "detect thoughts": 2,
    "invisibility": 2,
    "mirror image": 2,
    "misty step": 2,
    "suggestion": 2,
-   "dissonant whispers": 1,
-   "healing word": 1,
-   "speak with animals": 1,
-   "blade ward": 0,
-   "friends": 0,
-   "true strike": 0,
-   "vicious mockery": 0
+   "fear": 3,
+   "major image": 3,
+   "sending": 3,
+   "dimension door": 4,
+   "greater invisibility": 4,
+   "polymorph": 4,
+   "stoneskin": 4,
+   "mass cure wounds": 5,
+   "planar binding": 5,
+   "seeming": 5,
+   "eyebite": 6,
+   "guards and wards": 6,
+   "crown of stars": 7,
+   "power word pain": 7,
+   "feeblemind": 8,
+   "psychic scream": 9
   },
   "rogue": 0,
   "barbarian": 0,
@@ -1323,6 +2236,52 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "rogue": 16
+  },
+  "subclasses": {
+   "rogue": "thief"
+  },
+  "features": {
+   "fast hands": {
+    "act": "bonus"
+   },
+   "second-story work": {},
+   "supreme sneak": {},
+   "use magic device": {},
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "8d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "roguish archetype": {},
+   "uncanny dodge": {
+    "act": "reaction"
+   },
+   "evasion": {},
+   "reliable talent": {
+    "act": "special"
+   },
+   "blindsense": {},
+   "slippery mind": {},
+   "steady aim": {
+    "act": "bonus"
+   }
+  },
+  "feats": [],
+  "options": [],
+  "items": [
+   {
+    "name": "shortbow, +1",
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 5,
   "id": "hero-stoth-youngglade",
   "name": "Stoth Youngglade",
   "classLine": "Human Rogue 16 (Thief)",
@@ -1366,6 +2325,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1380,6 +2344,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1394,6 +2361,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1408,6 +2378,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
@@ -1420,6 +2391,85 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "artificer": 7
+  },
+  "subclasses": {
+   "artificer": "artillerist"
+  },
+  "features": {
+   "tool proficiency": {},
+   "artillerist spells": {},
+   "eldritch cannon": {},
+   "arcane firearm": {
+    "act": "special"
+   },
+   "magical tinkering": {
+    "act": "action"
+   },
+   "spellcasting": {},
+   "infuse item": {
+    "act": "action",
+    "uses": 3
+   },
+   "artificer infusions": {},
+   "artificer specialist": {},
+   "the right tool for the job": {
+    "act": "none"
+   },
+   "tool expertise": {
+    "act": "special"
+   },
+   "flash of genius": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "alignment": {},
+   "constructed resilience": {},
+   "sentry's rest": {},
+   "integrated protection": {},
+   "specialized design": {},
+   "create eldritch cannon": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "eldritch cannon: flamethrower": {
+    "act": "bonus",
+    "uses": 35,
+    "dice": "2d8"
+   },
+   "eldritch cannon: force ballista": {
+    "act": "bonus",
+    "uses": 35,
+    "dice": "2d8"
+   },
+   "eldritch cannon: protector": {
+    "act": "bonus",
+    "uses": 35
+   },
+   "warding flare": {
+    "act": "reaction"
+   }
+  },
+  "feats": [
+   "solar powered"
+  ],
+  "options": [],
+  "items": [
+   {
+    "name": "shield",
+    "attuned": true,
+    "kind": "armor"
+   },
+   {
+    "name": "wand",
+    "attuned": true,
+    "kind": "other gear"
+   }
+  ],
+  "potions": {},
+  "prof": 3,
   "id": "hero-x-iii",
   "name": "X-III",
   "classLine": "Warforged Artificer 7 (Artillerist)",
@@ -1487,9 +2537,9 @@ export const HEROES = [
    }
   ],
   "spells": {
+   "fire bolt": 0,
    "absorb elements": 1,
    "feather fall": 1,
-   "fire bolt": 0,
    "scorching ray": 2
   },
   "rogue": 0,
@@ -1499,6 +2549,74 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "fighter": 12
+  },
+  "subclasses": {
+   "fighter": "champion"
+  },
+  "features": {
+   "improved critical": {},
+   "remarkable athlete": {},
+   "additional fighting style": {},
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "action surge": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "martial archetype": {},
+   "extra attack": {
+    "act": "special"
+   },
+   "indomitable": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long"
+   },
+   "draconic ancestry": {},
+   "breath weapon": {},
+   "damage resistance": {},
+   "breath weapon (gold)": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short",
+    "dice": "4d6"
+   }
+  },
+  "feats": [],
+  "options": [
+   "gold dragon",
+   "gold dragon",
+   "gold dragon",
+   "great weapon fighting",
+   "two-weapon fighting"
+  ],
+  "items": [
+   {
+    "name": "ring of swimming",
+    "kind": "ring"
+   },
+   {
+    "name": "sun blade",
+    "attuned": true,
+    "kind": "weapon"
+   },
+   {
+    "name": "sun blade",
+    "attuned": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 2
+  },
+  "prof": 4,
   "id": "hero-yoshi",
   "name": "Yoshi",
   "classLine": "Dragonborn Fighter 12 (Champion)",
@@ -1544,6 +2662,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "1d8",
+    "props": [
+     "finesse",
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1558,6 +2681,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1572,6 +2698,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1586,6 +2716,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1600,6 +2734,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "1d8",
+    "props": [
+     "finesse",
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1614,6 +2753,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
@@ -1626,6 +2766,56 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "barbarian": 5
+  },
+  "subclasses": {
+   "barbarian": "path of wild magic"
+  },
+  "features": {
+   "magic awareness": {
+    "act": "action",
+    "reset": "long"
+   },
+   "wild surge": {
+    "act": "special",
+    "dice": "1d8"
+   },
+   "rage": {
+    "act": "bonus",
+    "uses": 3,
+    "reset": "long"
+   },
+   "unarmored defense": {},
+   "reckless attack": {},
+   "danger sense": {},
+   "primal path": {},
+   "extra attack": {},
+   "fast movement": {},
+   "darkvision": {},
+   "otherworldly presence": {},
+   "fiendish legacy": {},
+   "fiendish legacy spells": {}
+  },
+  "feats": [],
+  "options": [
+   "increase two scores (+2 / +1)",
+   "cthonic legacy",
+   "wisdom",
+   "wisdom"
+  ],
+  "items": [
+   {
+    "name": "greataxe, +1",
+    "kind": "weapon"
+   },
+   {
+    "name": "vicious longsword",
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 3,
   "id": "hero-barold-the-ram-bonds",
   "name": "Barold \"The Ram\" Bonds",
   "classLine": "Tiefling Barbarian 5 (Path of Wild Magic)",
@@ -1671,6 +2861,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -1685,6 +2876,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1699,6 +2894,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1713,6 +2912,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1727,6 +2929,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "2d6",
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1755,14 +2961,16 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "ray of enfeeblement": 2,
+   "chill touch": 0,
+   "thaumaturgy": 0,
    "false life": 1,
-   "chill touch": 0
+   "ray of enfeeblement": 2
   },
   "rogue": 0,
   "barbarian": 5,
@@ -1771,6 +2979,113 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "monk": 6
+  },
+  "subclasses": {
+   "monk": "warrior of the open hand"
+  },
+  "features": {
+   "open hand technique": {},
+   "wholeness of body": {
+    "act": "bonus",
+    "reset": "long",
+    "dice": "1d8"
+   },
+   "core monk traits": {},
+   "martial arts": {},
+   "unarmored defense": {},
+   "monk's focus": {},
+   "unarmored movement": {},
+   "uncanny metabolism": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long",
+    "dice": "1d8 + 6"
+   },
+   "deflect attacks": {},
+   "monk subclass": {},
+   "slow fall": {
+    "act": "reaction"
+   },
+   "extra attack": {},
+   "stunning strike": {
+    "act": "action"
+   },
+   "empowered strikes": {
+    "act": "special"
+   },
+   "cat's claws": {
+    "act": "action",
+    "dice": "1d6"
+   },
+   "cat's talent": {},
+   "darkvision": {},
+   "feline agility": {
+    "act": "special",
+    "uses": 1
+   },
+   "unarmed strike": {
+    "act": "bonus"
+   },
+   "focus points": {
+    "act": "special",
+    "uses": 6,
+    "reset": "short"
+   },
+   "flurry of blows": {
+    "act": "bonus"
+   },
+   "patient defense": {
+    "act": "bonus"
+   },
+   "step of the wind": {
+    "act": "bonus"
+   },
+   "deflect attack": {
+    "act": "reaction",
+    "dice": "1d10 + 6"
+   },
+   "deflect attack: redirect attack": {
+    "act": "reaction",
+    "dice": "2d8"
+   },
+   "flurry of blows: addle": {
+    "act": "bonus"
+   },
+   "flurry of blows: push": {
+    "act": "bonus"
+   },
+   "flurry of blows: topple": {
+    "act": "bonus"
+   }
+  },
+  "feats": [
+   "ability score improvement"
+  ],
+  "options": [
+   "increase two scores (+2 / +1)"
+  ],
+  "items": [
+   {
+    "name": "gauntlets of ogre power",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "crossbow, hand, +1",
+    "kind": "weapon"
+   },
+   {
+    "name": "dart, +1",
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 1,
+   "potion of healing": 1
+  },
+  "prof": 3,
   "id": "hero-battle-beast",
   "name": "Battle Beast",
   "classLine": "Tabaxi Monk 6 (Warrior of the Open Hand)",
@@ -1814,6 +3129,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1828,6 +3146,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1842,6 +3164,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": true
    },
@@ -1856,6 +3179,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": true
    }
@@ -1868,6 +3192,44 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "wizard": 3
+  },
+  "subclasses": {
+   "wizard": "order of scribes"
+  },
+  "features": {
+   "wizardly quill": {
+    "act": "bonus"
+   },
+   "awakened spellbook": {},
+   "spellcasting": {},
+   "arcane recovery": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long"
+   },
+   "arcane tradition": {},
+   "expert forgery": {},
+   "kenku training": {},
+   "mimicry": {},
+   "awakened spellbook: replace damage": {
+    "act": "special"
+   },
+   "awakened spellbook: ritual spells": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long"
+   },
+   "cantrip formulas": {
+    "act": "special"
+   }
+  },
+  "feats": [],
+  "options": [],
+  "items": [],
+  "potions": {},
+  "prof": 2,
   "id": "hero-heyu",
   "name": "Heyu",
   "classLine": "Kenku Wizard 3 (Order of Scribes)",
@@ -1914,6 +3276,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -1975,15 +3342,15 @@ export const HEROES = [
    }
   ],
   "spells": {
+   "fire bolt": 0,
+   "ray of frost": 0,
+   "shocking grasp": 0,
    "charm person": 1,
    "chromatic orb": 1,
    "feather fall": 1,
    "mage armor": 1,
    "magic missile": 1,
-   "shield": 1,
-   "fire bolt": 0,
-   "ray of frost": 0,
-   "shocking grasp": 0
+   "shield": 1
   },
   "rogue": 0,
   "barbarian": 0,
@@ -1992,6 +3359,79 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "artificer": 6
+  },
+  "subclasses": {
+   "artificer": "battle smith"
+  },
+  "features": {
+   "tool proficiency": {},
+   "battle smith spells": {},
+   "battle ready": {},
+   "steel defender": {
+    "act": "action",
+    "uses": 32
+   },
+   "extra attack": {
+    "act": "special"
+   },
+   "magical tinkering": {
+    "act": "action"
+   },
+   "spellcasting": {},
+   "infuse item": {
+    "act": "action",
+    "uses": 3
+   },
+   "artificer infusions": {},
+   "artificer specialist": {},
+   "the right tool for the job": {
+    "act": "none"
+   },
+   "tool expertise": {
+    "act": "special"
+   },
+   "skills": {},
+   "gunner": {
+    "act": "none"
+   },
+   "planar wanderer: portal cracker": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long",
+    "dice": "3d8"
+   },
+   "planar wanderer: portal sense": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   }
+  },
+  "feats": [
+   "gunner",
+   "planar wanderer",
+   "scion of the outer planes (lawful outer plane)"
+  ],
+  "options": [
+   "fire",
+   "intelligence"
+  ],
+  "items": [
+   {
+    "name": "goggles of night",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "gloves of thievery",
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {
+   "potion of healing (superior)": 3,
+   "potion of healing": 1
+  },
+  "prof": 3,
   "id": "hero-lenore-bishop",
   "name": "Lenore Bishop",
   "classLine": "Variant Human Artificer 6 (Battle Smith)",
@@ -2016,7 +3456,10 @@ export const HEROES = [
    "wis": 1,
    "cha": 0
   },
-  "resist": [],
+  "resist": [
+   "force",
+   "fire"
+  ],
   "perAction": 2,
   "dc": 15,
   "spellHit": 7,
@@ -2038,6 +3481,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2052,6 +3498,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2080,21 +3529,22 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
+   "guidance": 0,
+   "mending": 0,
+   "shocking grasp": 0,
+   "cure wounds": 1,
+   "detect magic": 1,
    "enlarge/reduce": 2,
    "invisibility": 2,
    "lesser restoration": 2,
    "spider climb": 2,
-   "vortex warp": 2,
-   "cure wounds": 1,
-   "detect magic": 1,
-   "guidance": 0,
-   "mending": 0,
-   "shocking grasp": 0
+   "vortex warp": 2
   },
   "rogue": 0,
   "barbarian": 0,
@@ -2103,6 +3553,85 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "artificer": 5
+  },
+  "subclasses": {
+   "artificer": "cartographer"
+  },
+  "features": {
+   "tools of the trade": {},
+   "cartographer spells": {},
+   "adventurer's atlas": {},
+   "mapping magic": {},
+   "guided precision": {},
+   "spellcasting": {},
+   "tinker's magic": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "artificer subclass": {},
+   "replicate magic item": {},
+   "magic item plans": {},
+   "core artificer traits": {},
+   "construct resilience": {},
+   "integrated protection": {},
+   "sentry's rest": {},
+   "specialized design": {},
+   "tireless": {},
+   "initiate a circle spell": {
+    "act": "action"
+   },
+   "circle spell: augment": {
+    "act": "special"
+   },
+   "circle spell: distribute": {
+    "act": "special"
+   },
+   "circle spell: expand": {
+    "act": "special"
+   },
+   "circle spell: prolong": {
+    "act": "special"
+   },
+   "circle spell: safeguard": {
+    "act": "special"
+   },
+   "circle spell: supplant": {
+    "act": "special"
+   },
+   "awareness": {
+    "act": "special",
+    "dice": "1d4"
+   },
+   "portal jump": {
+    "act": "special"
+   },
+   "create magical maps": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long"
+   }
+  },
+  "feats": [
+   "scion of the outer planes (lawful outer plane)",
+   "speedy",
+   "dark bargain"
+  ],
+  "options": [
+   "increase two scores (+2 / +1)",
+   "goggles of night",
+   "shotgun, +1",
+   "scribe's pen",
+   "shiftweave",
+   "intelligence"
+  ],
+  "items": [],
+  "potions": {
+   "potion of healing": 2
+  },
+  "prof": 3,
   "id": "hero-lexi-abbott",
   "name": "Lexi Abbott",
   "classLine": "Warforged Artificer 5 (Cartographer)",
@@ -2127,7 +3656,10 @@ export const HEROES = [
    "wis": 1,
    "cha": 1
   },
-  "resist": [],
+  "resist": [
+   "poison",
+   "force"
+  ],
   "perAction": 1,
   "dc": 14,
   "spellHit": 6,
@@ -2163,24 +3695,25 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
+   "guidance": 0,
+   "mending": 0,
+   "detect magic": 1,
+   "faerie fire": 1,
+   "guiding bolt": 1,
+   "healing word": 1,
    "heat metal": 2,
    "kinetic jaunt": 2,
    "lesser restoration": 2,
    "locate object": 2,
    "mind spike": 2,
    "rope trick": 2,
-   "vortex warp": 2,
-   "detect magic": 1,
-   "faerie fire": 1,
-   "guiding bolt": 1,
-   "healing word": 1,
-   "guidance": 0,
-   "mending": 0
+   "vortex warp": 2
   },
   "rogue": 0,
   "barbarian": 0,
@@ -2189,6 +3722,72 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "bard": 5
+  },
+  "subclasses": {
+   "bard": "college of eloquence"
+  },
+  "features": {
+   "silver tongue": {},
+   "unsettling words": {
+    "act": "bonus"
+   },
+   "spellcasting": {},
+   "bardic inspiration": {
+    "act": "bonus",
+    "reset": "short"
+   },
+   "jack of all trades": {},
+   "song of rest": {},
+   "bard college": {},
+   "expertise": {},
+   "font of inspiration": {},
+   "astral fire": {},
+   "darkvision": {},
+   "fey ancestry": {},
+   "keen senses": {},
+   "starlight step": {
+    "act": "bonus",
+    "reset": "long"
+   },
+   "astral trance": {},
+   "magical inspiration": {
+    "act": "special"
+   },
+   "reactive spell": {
+    "act": "reaction"
+   }
+  },
+  "feats": [
+   "magic initiate (wizard)",
+   "war caster"
+  ],
+  "options": [
+   "increase two scores (+2 / +1)",
+   "charisma",
+   "charisma"
+  ],
+  "items": [
+   {
+    "name": "circlet of blasting",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "rhythm-maker's drum, +1",
+    "attuned": true,
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "cloak of the manta ray",
+    "attuned": true,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {},
+  "prof": 3,
   "id": "hero-maverick-asswell-dela-nubenoir",
   "name": "Maverick \"Asswell\" DeLa NubeNoir",
   "classLine": "Astral Elf Bard 5 (College of Eloquence)",
@@ -2264,27 +3863,28 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "hypnotic pattern": 3,
-   "heat metal": 2,
-   "phantasmal force": 2,
-   "scorching ray": 2,
+   "mage hand": 0,
+   "mind sliver": 0,
+   "minor illusion": 0,
+   "sacred flame": 0,
+   "shocking grasp": 0,
+   "vicious mockery": 0,
    "bane": 1,
    "cure wounds": 1,
    "dissonant whispers": 1,
    "healing word": 1,
    "shield": 1,
    "silvery barbs": 1,
-   "mage hand": 0,
-   "mind sliver": 0,
-   "minor illusion": 0,
-   "sacred flame": 0,
-   "shocking grasp": 0,
-   "vicious mockery": 0
+   "heat metal": 2,
+   "phantasmal force": 2,
+   "scorching ray": 2,
+   "hypnotic pattern": 3
   },
   "rogue": 0,
   "barbarian": 0,
@@ -2293,6 +3893,62 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "rogue": 6
+  },
+  "subclasses": {
+   "rogue": "mastermind"
+  },
+  "features": {
+   "master of intrigue": {},
+   "master of tactics": {
+    "act": "bonus"
+   },
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "3d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "roguish archetype": {},
+   "uncanny dodge": {
+    "act": "reaction"
+   },
+   "armored casing": {},
+   "built for success": {
+    "act": "special",
+    "reset": "long",
+    "dice": "1d4"
+   },
+   "healing machine": {
+    "act": "none"
+   },
+   "mechanical nature": {},
+   "sentry's rest": {},
+   "specialized design": {},
+   "steady aim": {
+    "act": "bonus"
+   }
+  },
+  "feats": [],
+  "options": [
+   "increase two scores (+2 / +1)"
+  ],
+  "items": [
+   {
+    "name": "armblade (shortsword)",
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 2,
+   "potion of healing (superior)": 4,
+   "potion of healing": 4
+  },
+  "prof": 3,
   "id": "hero-n-i-c-c-o-l-o-mach-v",
   "name": "N.I.C.C.O.L.O Mach V",
   "classLine": "Autognome Rogue 6 (Mastermind)",
@@ -2338,6 +3994,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2352,6 +4012,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2366,6 +4031,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2380,6 +4048,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    }
@@ -2392,6 +4063,70 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "ranger": 6
+  },
+  "subclasses": {
+   "ranger": "drakewarden"
+  },
+  "features": {
+   "draconic gift": {},
+   "drake companion": {
+    "act": "action",
+    "uses": 35
+   },
+   "favored enemy": {},
+   "natural explorer": {},
+   "fighting style": {},
+   "spellcasting": {},
+   "ranger archetype": {},
+   "primeval awareness": {},
+   "extra attack": {},
+   "skills": {},
+   "drake companion: summon": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "drake companion: command": {
+    "act": "bonus"
+   },
+   "favored foe": {
+    "act": "special",
+    "reset": "long",
+    "dice": "1d6"
+   },
+   "crossbow expert attack": {
+    "act": "bonus"
+   },
+   "gift of the chromatic dragon: chromatic infusion": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "long",
+    "dice": "1d4"
+   },
+   "gift of the chromatic dragon: reactive resistance": {
+    "act": "reaction",
+    "reset": "long"
+   }
+  },
+  "feats": [
+   "crossbow expert",
+   "gift of the chromatic dragon",
+   "scion of the outer planes (the outlands)"
+  ],
+  "options": [
+   "canny (1st level)",
+   "dragons",
+   "archery",
+   "drake companion (fire)",
+   "roving (6th level)",
+   "desert",
+   "wisdom"
+  ],
+  "items": [],
+  "potions": {},
+  "prof": 3,
   "id": "hero-shadowhigh",
   "name": "Shadowhigh",
   "classLine": "Variant Human Ranger 6 (Drakewarden)",
@@ -2440,6 +4175,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2454,6 +4192,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2468,18 +4209,19 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "beast sense": 2,
+   "mage hand": 0,
+   "thaumaturgy": 0,
    "cure wounds": 1,
    "entangle": 1,
    "hail of thorns": 1,
    "speak with animals": 1,
-   "mage hand": 0,
-   "thaumaturgy": 0
+   "beast sense": 2
   },
   "rogue": 0,
   "barbarian": 0,
@@ -2488,6 +4230,82 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "warlock": 5
+  },
+  "subclasses": {
+   "warlock": "celestial patron"
+  },
+  "features": {
+   "celestial spells": {},
+   "healing light": {},
+   "core warlock traits": {},
+   "eldritch invocations": {},
+   "pact magic": {},
+   "magical cunning": {
+    "act": "none",
+    "uses": 1,
+    "reset": "long"
+   },
+   "warlock subclass": {},
+   "eldritch invocation options": {},
+   "darkvision": {},
+   "fey ancestry": {},
+   "high elf descent": {},
+   "healing light: expend healing": {
+    "act": "bonus",
+    "uses": 6,
+    "reset": "long",
+    "dice": "1d6"
+   },
+   "initiate a circle spell": {
+    "act": "action"
+   },
+   "circle spell: augment": {
+    "act": "special"
+   },
+   "circle spell: distribute": {
+    "act": "special"
+   },
+   "circle spell: expand": {
+    "act": "special"
+   },
+   "circle spell: prolong": {
+    "act": "special"
+   },
+   "circle spell: safeguard": {
+    "act": "special"
+   },
+   "circle spell: supplant": {
+    "act": "special"
+   },
+   "luck points": {
+    "act": "special",
+    "reset": "long"
+   }
+  },
+  "feats": [
+   "ability score improvement",
+   "lucky",
+   "dark bargain",
+   "fate card: the star"
+  ],
+  "options": [
+   "cantrip",
+   "eldritch mind",
+   "lessons of the first ones",
+   "pact of the tome"
+  ],
+  "items": [
+   {
+    "name": "golden lancet",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "wand"
+   }
+  ],
+  "potions": {},
+  "prof": 3,
   "id": "hero-tripp-sandhill",
   "name": "Tripp Sandhill",
   "classLine": "High Half-Elf Warlock 5 (Celestial Patron)",
@@ -2534,6 +4352,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2548,6 +4371,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2590,27 +4418,12 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "greater restoration": 5,
-   "raise dead": 5,
-   "death ward": 4,
-   "daylight": 3,
-   "remove curse": 3,
-   "revivify": 3,
-   "aid": 2,
-   "lesser restoration": 2,
-   "prayer of healing": 2,
-   "protection from poison": 2,
-   "comprehend languages": 1,
-   "cure wounds": 1,
-   "expeditious retreat": 1,
-   "goodberry": 1,
-   "guiding bolt": 1,
-   "unseen servant": 1,
    "blade ward": 0,
    "eldritch blast": 0,
    "light": 0,
@@ -2619,7 +4432,23 @@ export const HEROES = [
    "sacred flame": 0,
    "spare the dying": 0,
    "true strike": 0,
-   "vicious mockery": 0
+   "vicious mockery": 0,
+   "comprehend languages": 1,
+   "cure wounds": 1,
+   "expeditious retreat": 1,
+   "goodberry": 1,
+   "guiding bolt": 1,
+   "unseen servant": 1,
+   "aid": 2,
+   "lesser restoration": 2,
+   "prayer of healing": 2,
+   "protection from poison": 2,
+   "daylight": 3,
+   "remove curse": 3,
+   "revivify": 3,
+   "death ward": 4,
+   "greater restoration": 5,
+   "raise dead": 5
   },
   "rogue": 0,
   "barbarian": 0,
@@ -2628,6 +4457,54 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "rogue": 3
+  },
+  "subclasses": {
+   "rogue": "swashbuckler"
+  },
+  "features": {
+   "fancy footwork": {},
+   "rakish audacity": {},
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "2d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "roguish archetype": {},
+   "darkvision": {},
+   "celestial resistance": {},
+   "healing hands": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "light bearer": {},
+   "necrotic shroud": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "steady aim": {
+    "act": "bonus"
+   }
+  },
+  "feats": [
+   "dual wielder"
+  ],
+  "options": [],
+  "items": [
+   {
+    "name": "mariner's studded leather",
+    "kind": "armor"
+   }
+  ],
+  "potions": {},
+  "prof": 2,
   "id": "hero-anders-salmor",
   "name": "Anders Salmor",
   "classLine": "Fallen Aasimar Rogue 3 (Swashbuckler)",
@@ -2652,7 +4529,10 @@ export const HEROES = [
    "wis": 0,
    "cha": 2
   },
-  "resist": [],
+  "resist": [
+   "necrotic",
+   "radiant"
+  ],
   "perAction": 1,
   "dc": 0,
   "spellHit": 0,
@@ -2671,6 +4551,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2685,6 +4570,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2699,6 +4587,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2713,11 +4605,14 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
-  "spells": {},
+  "spells": {
+   "light": 0
+  },
   "rogue": 3,
   "barbarian": 0,
   "fighter": 0,
@@ -2725,6 +4620,44 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "warlock": 7
+  },
+  "subclasses": {
+   "warlock": "the celestial"
+  },
+  "features": {
+   "expanded spell list": {},
+   "bonus cantrips": {},
+   "healing light": {
+    "act": "bonus",
+    "uses": 8,
+    "reset": "long"
+   },
+   "radiant soul": {
+    "act": "none"
+   },
+   "otherworldly patron": {},
+   "pact magic": {},
+   "eldritch invocations": {},
+   "pact boon": {},
+   "skills": {}
+  },
+  "feats": [
+   "elemental adept (lightning)"
+  ],
+  "options": [
+   "eyes of the rune keeper",
+   "aspect of the moon",
+   "pact of the tome",
+   "book of ancient secrets",
+   "gift of the depths"
+  ],
+  "items": [],
+  "potions": {
+   "potion of healing (superior)": 1
+  },
+  "prof": 3,
   "id": "hero-brother-francesco-meatbaldi",
   "name": "Brother Francesco Meatbaldi",
   "classLine": "Variant Human Warlock 7 (The Celestial)",
@@ -2773,6 +4706,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2806,6 +4742,24 @@ export const HEROES = [
    }
   ],
   "spells": {
+   "eldritch blast": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "prestidigitation": 0,
+   "sacred flame": 0,
+   "shape water": 0,
+   "spare the dying": 0,
+   "thunderclap": 0,
+   "ceremony": 1,
+   "detect magic": 1,
+   "detect poison and disease": 1,
+   "hex": 1,
+   "identify": 1,
+   "illusory script": 1,
+   "purify food and drink": 1,
+   "augury": 2,
+   "darkness": 2,
+   "gentle repose": 2,
    "counterspell": 3,
    "dispel magic": 3,
    "fly": 3,
@@ -2816,25 +4770,7 @@ export const HEROES = [
    "summon fey": 3,
    "thunder step": 3,
    "tiny hut": 3,
-   "water breathing": 3,
-   "augury": 2,
-   "darkness": 2,
-   "gentle repose": 2,
-   "ceremony": 1,
-   "detect magic": 1,
-   "detect poison and disease": 1,
-   "hex": 1,
-   "identify": 1,
-   "illusory script": 1,
-   "purify food and drink": 1,
-   "eldritch blast": 0,
-   "light": 0,
-   "lightning lure": 0,
-   "prestidigitation": 0,
-   "sacred flame": 0,
-   "shape water": 0,
-   "spare the dying": 0,
-   "thunderclap": 0
+   "water breathing": 3
   },
   "rogue": 0,
   "barbarian": 0,
@@ -2843,6 +4779,88 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "rogue": 2,
+   "fighter": 6
+  },
+  "subclasses": {
+   "fighter": "arcane archer"
+  },
+  "features": {
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "1d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "arcane archer lore": {},
+   "arcane shot": {
+    "act": "special",
+    "uses": 2,
+    "reset": "short"
+   },
+   "arcane shot options": {},
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "action surge": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "martial archetype": {},
+   "extra attack": {
+    "act": "special"
+   },
+   "darkvision": {},
+   "grovel, cower, and beg": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short"
+   },
+   "pack tactics": {},
+   "sunlight sensitivity": {},
+   "bursting arrow": {
+    "act": "special",
+    "dice": "2d6"
+   },
+   "grasping arrow": {
+    "act": "special",
+    "dice": "2d6"
+   }
+  },
+  "feats": [
+   "alert",
+   "sharpshooter"
+  ],
+  "options": [
+   "archery",
+   "bursting arrow",
+   "grasping arrow"
+  ],
+  "items": [
+   {
+    "name": "dimensional shackles",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "armor of fire resistance, studded leather",
+    "attuned": true,
+    "kind": "armor"
+   },
+   {
+    "name": "longbow, +2",
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 3,
   "id": "hero-bullseye",
   "name": "Bullseye",
   "classLine": "Kobold Rogue 2 / Fighter 6 (Arcane Archer)",
@@ -2888,6 +4906,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2902,6 +4924,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2916,11 +4942,14 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
-  "spells": {},
+  "spells": {
+   "druidcraft": 0
+  },
   "rogue": 2,
   "barbarian": 0,
   "fighter": 6,
@@ -2928,6 +4957,167 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "cleric": 1,
+   "sorcerer": 8,
+   "warlock": 2
+  },
+  "subclasses": {
+   "cleric": "tempest domain",
+   "sorcerer": "divine soul",
+   "warlock": "the hexblade"
+  },
+  "features": {
+   "bonus proficiencies": {},
+   "wrath of the storm": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "spellcasting": {},
+   "divine domain": {},
+   "divine magic": {},
+   "favored by the gods": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "empowered healing": {
+    "act": "special"
+   },
+   "8: ability score improvement": {},
+   "sorcerous origin": {},
+   "font of magic": {},
+   "metamagic": {},
+   "expanded spell list": {},
+   "hexblade's curse": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "hex warrior": {
+    "act": "special"
+   },
+   "otherworldly patron": {},
+   "pact magic": {},
+   "eldritch invocations": {},
+   "darkvision": {},
+   "celestial resistance": {},
+   "healing hands": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "light bearer": {},
+   "radiant soul": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "sorcery points": {
+    "act": "action",
+    "uses": 8,
+    "reset": "long"
+   },
+   "convert sorcery points": {
+    "act": "bonus"
+   },
+   "magical guidance": {
+    "act": "special"
+   },
+   "quickened spell": {
+    "act": "special"
+   },
+   "empowered spell": {
+    "act": "special"
+   },
+   "war caster": {
+    "act": "reaction"
+   },
+   "sorcery points (metamagic adept)": {
+    "act": "special",
+    "uses": 2,
+    "reset": "long"
+   },
+   "twinned spell": {
+    "act": "special"
+   },
+   "distant spell": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "war caster",
+   "eldritch adept",
+   "metamagic adept"
+  ],
+  "options": [
+   "quickened spell",
+   "empowered spell",
+   "agonizing blast",
+   "mask of many faces",
+   "good",
+   "twinned spell",
+   "distant spell"
+  ],
+  "items": [
+   {
+    "name": "boots of elvenkind",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "cloak of the manta ray",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "ring of shooting stars",
+    "attuned": true,
+    "charges": 6,
+    "kind": "ring"
+   },
+   {
+    "name": "wind fan",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "mithral half plate",
+    "kind": "armor"
+   },
+   {
+    "name": "nolzur's marvelous pigments",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "sentinel shield",
+    "kind": "armor"
+   },
+   {
+    "name": "wave",
+    "charges": 3,
+    "kind": "weapon"
+   },
+   {
+    "name": "teeth of dahlver-nar",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "bloodwell vial, +1",
+    "attuned": true,
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "weathervein",
+    "charges": 3,
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing": 2
+  },
+  "prof": 4,
   "id": "hero-dolores-weathervein",
   "name": "Dolores Weathervein",
   "classLine": "Protector Aasimar Cleric 1 (Tempest Domain) / Sorcerer 8 (Divine Soul) / Warlock 2 (The Hexblade)",
@@ -2952,7 +5142,10 @@ export const HEROES = [
    "wis": 6,
    "cha": 9
   },
-  "resist": [],
+  "resist": [
+   "necrotic",
+   "radiant"
+  ],
   "perAction": 1,
   "dc": 14,
   "spellHit": 6,
@@ -2977,6 +5170,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -2991,6 +5187,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3005,6 +5205,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3019,6 +5222,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3089,33 +5295,12 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "dominate beast": 4,
-   "gaseous form": 3,
-   "lightning bolt": 3,
-   "revivify": 3,
-   "spirit guardians": 3,
-   "thunder step": 3,
-   "gust of wind": 2,
-   "lesser restoration": 2,
-   "levitate": 2,
-   "locate object": 2,
-   "misty step": 2,
-   "armor of agathys": 1,
-   "bless": 1,
-   "cure wounds": 1,
-   "detect evil and good": 1,
-   "detect magic": 1,
-   "disguise self": 1,
-   "faerie fire": 1,
-   "healing word": 1,
-   "hex": 1,
-   "inflict wounds": 1,
-   "unseen servant": 1,
    "dancing lights": 0,
    "eldritch blast": 0,
    "frostbite": 0,
@@ -3127,7 +5312,29 @@ export const HEROES = [
    "sacred flame": 0,
    "shape water": 0,
    "shocking grasp": 0,
-   "thaumaturgy": 0
+   "thaumaturgy": 0,
+   "armor of agathys": 1,
+   "bless": 1,
+   "cure wounds": 1,
+   "detect evil and good": 1,
+   "detect magic": 1,
+   "disguise self": 1,
+   "faerie fire": 1,
+   "healing word": 1,
+   "hex": 1,
+   "inflict wounds": 1,
+   "unseen servant": 1,
+   "gust of wind": 2,
+   "lesser restoration": 2,
+   "levitate": 2,
+   "locate object": 2,
+   "misty step": 2,
+   "gaseous form": 3,
+   "lightning bolt": 3,
+   "revivify": 3,
+   "spirit guardians": 3,
+   "thunder step": 3,
+   "dominate beast": 4
   },
   "sorcery": 8,
   "meta": [
@@ -3142,6 +5349,173 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "fighter": 8,
+   "warlock": 3
+  },
+  "subclasses": {
+   "fighter": "battle master",
+   "warlock": "the fathomless"
+  },
+  "features": {
+   "combat superiority": {},
+   "student of war": {},
+   "know your enemy": {
+    "act": "none"
+   },
+   "maneuvers": {},
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "action surge": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "martial archetype": {},
+   "extra attack": {
+    "act": "special"
+   },
+   "expanded spell list": {},
+   "tentacle of the deeps": {},
+   "gift of the sea": {},
+   "otherworldly patron": {},
+   "pact magic": {},
+   "eldritch invocations": {},
+   "pact boon": {},
+   "skills": {},
+   "superiority dice": {
+    "act": "action",
+    "uses": 5,
+    "reset": "short"
+   },
+   "tentacle of the deeps: summon": {
+    "act": "bonus",
+    "reset": "long"
+   },
+   "tentacle of the deeps: move": {
+    "act": "bonus"
+   },
+   "tentacle of the deeps: attack": {
+    "act": "bonus",
+    "dice": "1d8"
+   },
+   "riposte": {
+    "act": "reaction"
+   },
+   "menacing attack": {
+    "act": "special"
+   },
+   "disarming attack": {
+    "act": "special"
+   },
+   "pushing attack": {
+    "act": "special"
+   },
+   "brace": {
+    "act": "reaction"
+   },
+   "create pact weapon": {
+    "act": "action"
+   },
+   "crossbow expert attack": {
+    "act": "bonus"
+   },
+   "martial adept": {
+    "act": "none",
+    "uses": 1,
+    "reset": "short"
+   },
+   "trip attack": {
+    "act": "special"
+   },
+   "precision attack": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "crossbow expert",
+   "martial adept",
+   "sharpshooter"
+  ],
+  "options": [
+   "riposte",
+   "menacing attack",
+   "disarming attack",
+   "archery",
+   "pushing attack",
+   "brace",
+   "devil's sight",
+   "pact of the blade",
+   "mask of many faces",
+   "trip attack",
+   "precision attack"
+  ],
+  "items": [
+   {
+    "name": "bag of holding",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "belt of dwarvenkind",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "dust of dryness",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "figurine of wondrous power (silver raven)",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "flame tongue longsword",
+    "attuned": true,
+    "kind": "weapon"
+   },
+   {
+    "name": "crossbow, heavy, +1",
+    "kind": "weapon"
+   },
+   {
+    "name": "longsword, +1",
+    "kind": "weapon"
+   },
+   {
+    "name": "mithral plate",
+    "kind": "armor"
+   },
+   {
+    "name": "driftglobe",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "blackrazor",
+    "attuned": true,
+    "charges": 1,
+    "kind": "weapon"
+   },
+   {
+    "name": "commodore's spyglass",
+    "charges": 1,
+    "homebrew": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "bowl of commanding water elementals",
+    "charges": 1,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {
+   "potion of healing (superior)": 1
+  },
+  "prof": 4,
   "id": "hero-gabriella-hellwood",
   "name": "Gabriella Hellwood",
   "classLine": "Variant Human Fighter 8 (Battle Master) / Warlock 3 (The Fathomless)",
@@ -3190,6 +5564,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3204,6 +5582,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3218,6 +5599,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3232,6 +5617,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3246,6 +5634,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -3260,6 +5649,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "2d6",
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3274,6 +5667,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -3288,19 +5682,20 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "conjure elemental": 5,
-   "dominate beast": 4,
-   "daylight": 3,
-   "fireball": 3,
-   "haste": 3,
-   "lightning bolt": 3,
-   "slow": 3,
-   "stinking cloud": 3,
+   "create bonfire": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "detect magic": 1,
+   "disguise self": 1,
+   "expeditious retreat": 1,
+   "faerie fire": 1,
+   "hellish rebuke": 1,
    "darkness": 2,
    "detect thoughts": 2,
    "enlarge/reduce": 2,
@@ -3308,14 +5703,14 @@ export const HEROES = [
    "invisibility": 2,
    "mirror image": 2,
    "scorching ray": 2,
-   "detect magic": 1,
-   "disguise self": 1,
-   "expeditious retreat": 1,
-   "faerie fire": 1,
-   "hellish rebuke": 1,
-   "create bonfire": 0,
-   "light": 0,
-   "lightning lure": 0
+   "daylight": 3,
+   "fireball": 3,
+   "haste": 3,
+   "lightning bolt": 3,
+   "slow": 3,
+   "stinking cloud": 3,
+   "dominate beast": 4,
+   "conjure elemental": 5
   },
   "rogue": 0,
   "barbarian": 0,
@@ -3324,6 +5719,49 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "ranger": 3
+  },
+  "subclasses": {
+   "ranger": "swarmkeeper"
+  },
+  "features": {
+   "gathered swarm": {
+    "act": "special",
+    "dice": "1d6"
+   },
+   "swarmkeeper magic": {},
+   "favored enemy": {},
+   "natural explorer": {},
+   "fighting style": {},
+   "spellcasting": {},
+   "ranger archetype": {},
+   "primeval awareness": {
+    "act": "action"
+   },
+   "amphibious": {},
+   "control air and water": {
+    "act": "none"
+   },
+   "emissary of the sea": {},
+   "guardians of the depths": {},
+   "darkvision": {},
+   "favored foe": {
+    "act": "special",
+    "reset": "long",
+    "dice": "1d4"
+   }
+  },
+  "feats": [],
+  "options": [
+   "canny (1st level)",
+   "humanoids",
+   "coast",
+   "dueling"
+  ],
+  "items": [],
+  "potions": {},
+  "prof": 2,
   "id": "hero-oshi-oceanus",
   "name": "Oshi (Oceanus)",
   "classLine": "Triton Ranger 3 (Swarmkeeper)",
@@ -3371,6 +5809,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3385,6 +5828,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3399,6 +5845,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3413,6 +5863,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -3427,19 +5878,20 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "gust of wind": 2,
+   "mage hand": 0,
    "cure wounds": 1,
    "faerie fire": 1,
    "fog cloud": 1,
    "hunter's mark": 1,
    "speak with animals": 1,
    "zephyr strike": 1,
-   "mage hand": 0
+   "gust of wind": 2
   },
   "rogue": 0,
   "barbarian": 0,
@@ -3448,6 +5900,118 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "rogue": 7,
+   "fighter": 4
+  },
+  "subclasses": {
+   "rogue": "arcane trickster",
+   "fighter": "battle master"
+  },
+  "features": {
+   "spellcasting": {},
+   "mage hand legerdemain": {},
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "4d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "roguish archetype": {},
+   "uncanny dodge": {
+    "act": "reaction"
+   },
+   "evasion": {},
+   "combat superiority": {},
+   "student of war": {},
+   "maneuvers": {},
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "action surge": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "martial archetype": {},
+   "darkvision": {},
+   "grovel, cower, and beg": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short"
+   },
+   "pack tactics": {},
+   "sunlight sensitivity": {},
+   "superiority dice": {
+    "act": "action",
+    "uses": 4,
+    "reset": "short"
+   },
+   "steady aim": {
+    "act": "bonus"
+   },
+   "precision attack": {
+    "act": "special"
+   },
+   "parry": {
+    "act": "reaction"
+   },
+   "goading attack": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "skill expert"
+  ],
+  "options": [
+   "archery",
+   "goading attack",
+   "precision attack",
+   "parry"
+  ],
+  "items": [
+   {
+    "name": "boots of elvenkind",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "circlet of blasting",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "cloak of protection",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "eyes of minute seeing",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "ring of water walking",
+    "kind": "ring"
+   },
+   {
+    "name": "knave's eye patch",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "eldritch staff",
+    "attuned": true,
+    "charges": 10,
+    "kind": "staff"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-scrunt-pissfoot",
   "name": "Scrunt Pissfoot",
   "classLine": "Kobold Rogue 7 (Arcane Trickster) / Fighter 4 (Battle Master)",
@@ -3494,6 +6058,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3508,6 +6075,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3522,6 +6094,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3536,6 +6113,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "1d8",
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3550,6 +6131,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3564,6 +6149,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3578,6 +6166,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3606,20 +6198,21 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "invisibility": 2,
-   "misty step": 2,
-   "scorching ray": 2,
+   "booming blade": 0,
+   "mage hand": 0,
+   "message": 0,
    "find familiar": 1,
    "shield": 1,
    "silvery barbs": 1,
-   "booming blade": 0,
-   "mage hand": 0,
-   "message": 0
+   "invisibility": 2,
+   "misty step": 2,
+   "scorching ray": 2
   },
   "rogue": 7,
   "barbarian": 0,
@@ -3628,6 +6221,136 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "artificer": 16
+  },
+  "subclasses": {
+   "artificer": "armorer"
+  },
+  "features": {
+   "tools of the trade": {},
+   "armorer spells": {},
+   "arcane armor": {},
+   "armor model": {},
+   "extra attack": {},
+   "armor modifications": {},
+   "perfected armor": {},
+   "magical tinkering": {
+    "act": "action"
+   },
+   "spellcasting": {},
+   "infuse item": {
+    "act": "action",
+    "uses": 5
+   },
+   "artificer infusions": {},
+   "artificer specialist": {},
+   "the right tool for the job": {
+    "act": "none"
+   },
+   "tool expertise": {
+    "act": "special"
+   },
+   "flash of genius": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "magic item adept": {},
+   "spell-storing item": {
+    "act": "special",
+    "uses": 2,
+    "reset": "long"
+   },
+   "magic item savant": {},
+   "darkvision": {},
+   "dwarven resilience": {},
+   "dwarven combat training": {},
+   "tool proficiency": {},
+   "stonecunning": {},
+   "warder's intuition": {},
+   "wards and seals": {},
+   "spells of the mark": {},
+   "arcane armor - create armor": {
+    "act": "action"
+   },
+   "guardian armor: thunder gauntlets": {
+    "act": "action",
+    "dice": "1d8"
+   },
+   "guardian armor: defensive field": {
+    "act": "bonus",
+    "reset": "long"
+   },
+   "guardian armor: thunder gauntlets (str)": {
+    "act": "action",
+    "dice": "1d8"
+   },
+   "perfected armor: guardian": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "speedy recovery": {
+    "act": "bonus"
+   },
+   "sonic beam (spell-storing item)": {
+    "act": "special",
+    "uses": 10,
+    "reset": "long"
+   }
+  },
+  "feats": [
+   "durable"
+  ],
+  "options": [
+   "guardian",
+   "perfected armor - guardian"
+  ],
+  "items": [
+   {
+    "name": "belt of hill giant strength",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "wand of magic missiles",
+    "charges": 7,
+    "kind": "wand"
+   },
+   {
+    "name": "winged boots",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "rod of security",
+    "charges": 1,
+    "kind": "rod"
+   },
+   {
+    "name": "hide",
+    "attuned": true,
+    "kind": "armor"
+   },
+   {
+    "name": "plate",
+    "attuned": true,
+    "kind": "armor"
+   },
+   {
+    "name": "wand",
+    "attuned": true,
+    "kind": "other gear"
+   },
+   {
+    "name": "alchemy jug",
+    "charges": 1,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 2
+  },
+  "prof": 5,
   "id": "hero-barrias-ruby-eye",
   "name": "Barrias Ruby-Eye",
   "classLine": "Mark of Warding Dwarf Artificer 16 (Armorer)",
@@ -3678,6 +6401,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3720,31 +6446,32 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "otiluke's resilient sphere": 4,
-   "summon construct": 4,
-   "ashardalon's stride": 3,
-   "dispel magic": 3,
-   "haste": 3,
-   "revivify": 3,
-   "air bubble": 2,
-   "arcane lock": 2,
-   "enlarge/reduce": 2,
-   "levitate": 2,
-   "vortex warp": 2,
+   "fire bolt": 0,
+   "mending": 0,
+   "shocking grasp": 0,
+   "spare the dying": 0,
    "alarm": 1,
    "catapult": 1,
    "disguise self": 1,
    "mage armor": 1,
    "magic missile": 1,
-   "fire bolt": 0,
-   "mending": 0,
-   "shocking grasp": 0,
-   "spare the dying": 0
+   "air bubble": 2,
+   "arcane lock": 2,
+   "enlarge/reduce": 2,
+   "levitate": 2,
+   "vortex warp": 2,
+   "ashardalon's stride": 3,
+   "dispel magic": 3,
+   "haste": 3,
+   "revivify": 3,
+   "otiluke's resilient sphere": 4,
+   "summon construct": 4
   },
   "rogue": 0,
   "barbarian": 0,
@@ -3753,6 +6480,46 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "barbarian": 8
+  },
+  "subclasses": {
+   "barbarian": "path of the ancestral guardian"
+  },
+  "features": {
+   "ancestral protectors": {},
+   "spirit shield": {
+    "act": "reaction"
+   },
+   "rage": {
+    "act": "bonus",
+    "uses": 4,
+    "reset": "long"
+   },
+   "unarmored defense": {},
+   "reckless attack": {},
+   "danger sense": {},
+   "primal path": {},
+   "extra attack": {},
+   "fast movement": {},
+   "feral instinct": {},
+   "darkvision": {},
+   "long-limbed": {},
+   "powerful build": {},
+   "sneaky": {},
+   "surprise attack": {
+    "act": "none",
+    "uses": 1
+   },
+   "instinctive pounce": {
+    "act": "special"
+   }
+  },
+  "feats": [],
+  "options": [],
+  "items": [],
+  "potions": {},
+  "prof": 3,
   "id": "hero-buttsack",
   "name": "Buttsack",
   "classLine": "Bugbear Barbarian 8 (Path of the Ancestral Guardian)",
@@ -3796,6 +6563,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3810,6 +6581,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3824,6 +6599,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3838,6 +6617,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3852,6 +6634,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
@@ -3864,6 +6647,83 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "druid": 12
+  },
+  "subclasses": {
+   "druid": "circle of stars"
+  },
+  "features": {
+   "star map": {},
+   "starry form": {
+    "act": "bonus"
+   },
+   "cosmic omen": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "twinkling constellations": {
+    "act": "special"
+   },
+   "druidic": {},
+   "spellcasting": {},
+   "wild shape": {
+    "act": "action",
+    "uses": 2,
+    "reset": "short"
+   },
+   "wild shape improvement": {},
+   "druid circle": {},
+   "astral fire": {},
+   "darkvision": {},
+   "fey ancestry": {},
+   "keen senses": {},
+   "starlight step": {
+    "act": "bonus",
+    "reset": "long"
+   },
+   "astral trance": {},
+   "wild companion": {
+    "act": "action"
+   },
+   "starry form: archer": {
+    "act": "bonus",
+    "dice": "2d8"
+   },
+   "starry form: chalice": {
+    "act": "special",
+    "dice": "2d8"
+   },
+   "starry form: dragon": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "magic initiate (cleric)",
+   "eldritch adept"
+  ],
+  "options": [
+   "increase three scores (+1 / +1 / +1)",
+   "wisdom",
+   "beast speech"
+  ],
+  "items": [
+   {
+    "name": "elven chain",
+    "kind": "armor"
+   },
+   {
+    "name": "scroller",
+    "attuned": true,
+    "charges": 6,
+    "homebrew": true,
+    "kind": "rod"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 1
+  },
+  "prof": 4,
   "id": "hero-caprica",
   "name": "Caprica",
   "classLine": "Astral Elf Druid 12 (Circle of Stars)",
@@ -3914,6 +6774,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3928,6 +6792,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -3989,24 +6857,15 @@ export const HEROES = [
    }
   ],
   "spells": {
-   "heal": 6,
-   "word of recall": 6,
-   "cone of cold": 5,
-   "conjure elemental": 5,
-   "ice storm": 4,
-   "polymorph": 4,
-   "call lightning": 3,
-   "leomund's tiny hut": 3,
-   "sending": 3,
-   "tongues": 3,
-   "enhance ability": 2,
-   "find traps": 2,
-   "flame blade": 2,
-   "healing spirit": 2,
-   "moonbeam": 2,
-   "see invisibility": 2,
-   "summon beast": 2,
-   "wither and bloom": 2,
+   "create bonfire": 0,
+   "dancing lights": 0,
+   "druidcraft": 0,
+   "guidance": 0,
+   "light": 0,
+   "mold earth": 0,
+   "sacred flame": 0,
+   "spare the dying": 0,
+   "thorn whip": 0,
    "alarm": 1,
    "comprehend languages": 1,
    "cure wounds": 1,
@@ -4020,15 +6879,24 @@ export const HEROES = [
    "inflict wounds": 1,
    "speak with animals": 1,
    "thunderwave": 1,
-   "create bonfire": 0,
-   "dancing lights": 0,
-   "druidcraft": 0,
-   "guidance": 0,
-   "light": 0,
-   "mold earth": 0,
-   "sacred flame": 0,
-   "spare the dying": 0,
-   "thorn whip": 0
+   "enhance ability": 2,
+   "find traps": 2,
+   "flame blade": 2,
+   "healing spirit": 2,
+   "moonbeam": 2,
+   "see invisibility": 2,
+   "summon beast": 2,
+   "wither and bloom": 2,
+   "call lightning": 3,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "tongues": 3,
+   "ice storm": 4,
+   "polymorph": 4,
+   "cone of cold": 5,
+   "conjure elemental": 5,
+   "heal": 6,
+   "word of recall": 6
   },
   "rogue": 0,
   "barbarian": 0,
@@ -4037,6 +6905,112 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "ranger": 5,
+   "rogue": 3,
+   "fighter": 3
+  },
+  "subclasses": {
+   "ranger": "horizon walker",
+   "rogue": "swashbuckler",
+   "fighter": "battle master"
+  },
+  "features": {
+   "horizon walker magic": {},
+   "detect portal": {
+    "act": "action",
+    "uses": 1,
+    "reset": "short"
+   },
+   "planar warrior": {
+    "act": "bonus"
+   },
+   "favored enemy": {},
+   "natural explorer": {},
+   "fighting style": {},
+   "spellcasting": {},
+   "ranger archetype": {},
+   "primeval awareness": {},
+   "extra attack": {},
+   "fancy footwork": {},
+   "rakish audacity": {},
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "2d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "roguish archetype": {},
+   "combat superiority": {},
+   "student of war": {},
+   "maneuvers": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "action surge": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "martial archetype": {},
+   "darkvision": {},
+   "feline agility": {
+    "act": "special",
+    "uses": 1
+   },
+   "cat's claws": {},
+   "cat's talent": {},
+   "claws": {
+    "act": "action",
+    "dice": "1d4"
+   },
+   "superiority dice": {
+    "act": "action",
+    "uses": 4,
+    "reset": "short"
+   },
+   "favored foe": {
+    "act": "special",
+    "reset": "long",
+    "dice": "1d4"
+   },
+   "parry": {
+    "act": "reaction"
+   },
+   "riposte": {
+    "act": "reaction"
+   },
+   "trip attack": {
+    "act": "special"
+   }
+  },
+  "feats": [],
+  "options": [
+   "canny (1st level)",
+   "dueling",
+   "defense",
+   "parry",
+   "trip attack",
+   "riposte"
+  ],
+  "items": [
+   {
+    "name": "rapier, +1",
+    "kind": "weapon"
+   },
+   {
+    "name": "barrier tattoo (rare)",
+    "attuned": true,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-captain-catrina-mcquade",
   "name": "Captain Catrina McQuade",
   "classLine": "Tabaxi Ranger 5 (Horizon Walker) / Rogue 3 (Swashbuckler) / Fighter 3 (Battle Master)",
@@ -4083,6 +7057,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4097,6 +7074,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -4111,6 +7089,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4125,6 +7106,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4139,6 +7124,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4153,6 +7142,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -4167,19 +7157,20 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "air bubble": 2,
-   "beast sense": 2,
-   "misty step": 2,
-   "summon beast": 2,
    "cure wounds": 1,
    "goodberry": 1,
    "protection from evil and good": 1,
-   "speak with animals": 1
+   "speak with animals": 1,
+   "air bubble": 2,
+   "beast sense": 2,
+   "misty step": 2,
+   "summon beast": 2
   },
   "rogue": 3,
   "barbarian": 0,
@@ -4188,6 +7179,133 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "rogue": 5,
+   "wizard": 3,
+   "warlock": 1
+  },
+  "subclasses": {
+   "rogue": "soulknife",
+   "wizard": "bladesinging",
+   "warlock": "the genie"
+  },
+  "features": {
+   "psionic power": {},
+   "psychic blades": {},
+   "expertise": {},
+   "sneak attack": {
+    "act": "special",
+    "dice": "3d6"
+   },
+   "thieves' cant": {},
+   "cunning action": {
+    "act": "bonus"
+   },
+   "roguish archetype": {},
+   "uncanny dodge": {
+    "act": "reaction"
+   },
+   "training in war and song": {},
+   "bladesong": {
+    "act": "bonus",
+    "reset": "long"
+   },
+   "spellcasting": {},
+   "arcane recovery": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long"
+   },
+   "arcane tradition": {},
+   "expanded spell list": {},
+   "genie's vessel": {},
+   "genie kind": {},
+   "otherworldly patron": {},
+   "pact magic": {},
+   "skills": {},
+   "psionic power: psionic energy": {
+    "act": "special",
+    "uses": 8,
+    "reset": "long"
+   },
+   "psionic power: psi-bolstered knack": {
+    "act": "special"
+   },
+   "psionic power: psychic whispers": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "psionic power: recovery": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "psychic blades: attack (dex)": {
+    "act": "action",
+    "dice": "1d6"
+   },
+   "psychic blades: attack (str)": {
+    "act": "action",
+    "dice": "1d6"
+   },
+   "psychic blades: bonus attack (dex)": {
+    "act": "bonus",
+    "dice": "1d4"
+   },
+   "psychic blades: bonus attack (str)": {
+    "act": "bonus",
+    "dice": "1d4"
+   },
+   "steady aim": {
+    "act": "bonus"
+   },
+   "genie's vessel: bottled respite": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "cantrip formulas": {
+    "act": "special"
+   },
+   "telekinetic - shove": {
+    "act": "bonus"
+   }
+  },
+  "feats": [
+   "fighting initiate",
+   "telekinetic (charisma)"
+  ],
+  "options": [
+   "efreeti",
+   "genie's wrath (efreeti)",
+   "two-weapon fighting"
+  ],
+  "items": [
+   {
+    "name": "goggles of night",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "wand of winter",
+    "attuned": true,
+    "charges": 7,
+    "kind": "wand"
+   },
+   {
+    "name": "arcane grimoire, +1",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "cloak of the void",
+    "attuned": true,
+    "homebrew": true,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-carlos-vega",
   "name": "Carlos Vega",
   "classLine": "Variant Human Rogue 5 (Soulknife) / Wizard 3 (Bladesinging) / Warlock 1 (The Genie)",
@@ -4234,6 +7352,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4248,6 +7369,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4262,6 +7388,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4276,6 +7406,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4318,6 +7452,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -4332,6 +7467,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -4346,20 +7482,20 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "word of recall": 6,
-   "ice storm": 4,
-   "leomund's tiny hut": 3,
-   "sending": 3,
-   "sleet storm": 3,
-   "tongues": 3,
-   "find traps": 2,
-   "misty step": 2,
-   "see invisibility": 2,
+   "booming blade": 0,
+   "eldritch blast": 0,
+   "green-flame blade": 0,
+   "light": 0,
+   "lightning lure": 0,
+   "mage hand": 0,
+   "minor illusion": 0,
+   "ray of frost": 0,
    "alarm": 1,
    "chromatic orb": 1,
    "comprehend languages": 1,
@@ -4375,14 +7511,15 @@ export const HEROES = [
    "shield": 1,
    "silvery barbs": 1,
    "thunderwave": 1,
-   "booming blade": 0,
-   "eldritch blast": 0,
-   "green-flame blade": 0,
-   "light": 0,
-   "lightning lure": 0,
-   "mage hand": 0,
-   "minor illusion": 0,
-   "ray of frost": 0
+   "find traps": 2,
+   "misty step": 2,
+   "see invisibility": 2,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "sleet storm": 3,
+   "tongues": 3,
+   "ice storm": 4,
+   "word of recall": 6
   },
   "rogue": 5,
   "barbarian": 0,
@@ -4391,6 +7528,64 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "fighter": 1,
+   "wizard": 2
+  },
+  "subclasses": {
+   "wizard": "bladesinging"
+  },
+  "features": {
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "training in war and song": {},
+   "bladesong": {
+    "act": "bonus",
+    "reset": "long"
+   },
+   "spellcasting": {},
+   "arcane recovery": {
+    "act": "special",
+    "uses": 1,
+    "reset": "long"
+   },
+   "arcane tradition": {},
+   "chameleon carapace": {},
+   "darkvision": {},
+   "secondary arms": {},
+   "sleepless": {},
+   "thri-kreen telepathy": {},
+   "chameleon carapace (change color)": {
+    "act": "action"
+   },
+   "fighting style: thrown weapon fighting": {
+    "act": "special"
+   }
+  },
+  "feats": [],
+  "options": [
+   "increase two scores (+2 / +1)",
+   "thrown weapon fighting"
+  ],
+  "items": [
+   {
+    "name": "cast-off armor, half plate",
+    "kind": "armor"
+   },
+   {
+    "name": "scroller",
+    "attuned": true,
+    "charges": 6,
+    "homebrew": true,
+    "kind": "rod"
+   }
+  ],
+  "potions": {},
+  "prof": 2,
   "id": "hero-chad-kreen-mantis",
   "name": "Chad \"Kreen\" Mantis",
   "classLine": "Thri-kreen Fighter 1 / Wizard 2 (Bladesinging)",
@@ -4436,6 +7631,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4450,6 +7650,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4464,17 +7668,16 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "word of recall": 6,
-   "leomund's tiny hut": 3,
-   "sending": 3,
-   "tongues": 3,
-   "find traps": 2,
-   "see invisibility": 2,
+   "light": 0,
+   "mage hand": 0,
+   "mending": 0,
+   "true strike": 0,
    "alarm": 1,
    "chromatic orb": 1,
    "comprehend languages": 1,
@@ -4487,10 +7690,12 @@ export const HEROES = [
    "mage armor": 1,
    "magic missile": 1,
    "shield": 1,
-   "light": 0,
-   "mage hand": 0,
-   "mending": 0,
-   "true strike": 0
+   "find traps": 2,
+   "see invisibility": 2,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "tongues": 3,
+   "word of recall": 6
   },
   "rogue": 0,
   "barbarian": 0,
@@ -4499,6 +7704,31 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "sorcerer": 1
+  },
+  "subclasses": {
+   "sorcerer": "clockwork soul"
+  },
+  "features": {
+   "clockwork magic": {},
+   "restore balance": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "spellcasting": {},
+   "sorcerous origin": {},
+   "darkvision": {},
+   "gnome cunning": {},
+   "gifted scribe": {},
+   "scribe's insight": {},
+   "spells of the mark": {}
+  },
+  "feats": [],
+  "options": [],
+  "items": [],
+  "potions": {},
+  "prof": 2,
   "id": "hero-dorlin-horcusporcus",
   "name": "Dorlin Horcusporcus",
   "classLine": "Mark of Scribing Gnome Sorcerer 1 (Clockwork Soul)",
@@ -4558,21 +7788,22 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "alarm": 1,
-   "comprehend languages": 1,
-   "magic missile": 1,
-   "protection from evil and good": 1,
-   "sleep": 1,
    "frostbite": 0,
    "mage hand": 0,
    "mending": 0,
    "message": 0,
-   "shocking grasp": 0
+   "shocking grasp": 0,
+   "alarm": 1,
+   "comprehend languages": 1,
+   "magic missile": 1,
+   "protection from evil and good": 1,
+   "sleep": 1
   },
   "rogue": 0,
   "barbarian": 0,
@@ -4581,6 +7812,108 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "monk": 10
+  },
+  "subclasses": {
+   "monk": "way of mercy"
+  },
+  "features": {
+   "implements of mercy": {},
+   "hand of healing": {
+    "act": "action"
+   },
+   "hand of harm": {
+    "act": "special",
+    "dice": "1d6"
+   },
+   "physician's touch": {
+    "act": "special"
+   },
+   "unarmored defense": {},
+   "martial arts": {},
+   "ki": {},
+   "unarmored movement": {},
+   "monastic tradition": {},
+   "deflect missiles": {
+    "act": "reaction",
+    "dice": "1d10 + 10"
+   },
+   "slow fall": {
+    "act": "reaction"
+   },
+   "extra attack": {},
+   "stunning strike": {
+    "act": "special"
+   },
+   "ki-empowered strikes": {},
+   "evasion": {},
+   "stillness of mind": {
+    "act": "action"
+   },
+   "purity of body": {},
+   "unarmored movement improvement": {},
+   "amorphous": {},
+   "darkvision": {},
+   "hold breath": {
+    "act": "special"
+   },
+   "natural resilience": {},
+   "shape self": {},
+   "shape self (reshape body)": {
+    "act": "action"
+   },
+   "shape self (pseudopod)": {
+    "act": "bonus"
+   },
+   "unarmed strike": {
+    "act": "bonus"
+   },
+   "unarmed strike (dex.)": {
+    "act": "bonus"
+   },
+   "quickened healing": {
+    "act": "action"
+   },
+   "focused aim": {
+    "act": "special"
+   },
+   "ki points": {
+    "act": "special",
+    "uses": 10,
+    "reset": "short"
+   },
+   "deflect missiles attack": {
+    "act": "reaction"
+   },
+   "flurry of blows": {
+    "act": "bonus"
+   },
+   "patient defense": {
+    "act": "bonus"
+   },
+   "step of the wind": {
+    "act": "bonus"
+   },
+   "ki-fueled attack": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "magic initiate (cleric)"
+  ],
+  "options": [
+   "increase two scores (+2 / +1)"
+  ],
+  "items": [],
+  "potions": {
+   "potion of healing (superior)": 1,
+   "potion of healing": 3
+  },
+  "immune": [
+   "poison"
+  ],
+  "prof": 4,
   "id": "hero-dr-glup",
   "name": "Dr. Glup",
   "classLine": "Plasmoid Monk 10 (Way of Mercy)",
@@ -4605,7 +7938,9 @@ export const HEROES = [
    "wis": 4,
    "cha": -1
   },
-  "resist": [],
+  "resist": [
+   "acid"
+  ],
   "perAction": 2,
   "dc": 0,
   "spellHit": 0,
@@ -4624,15 +7959,17 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": true
    }
   ],
   "spells": {
+   "mending": 0,
+   "spare the dying": 0,
    "bless": 1,
    "cure wounds": 1,
-   "detect magic": 1,
-   "spare the dying": 0
+   "detect magic": 1
   },
   "rogue": 0,
   "barbarian": 0,
@@ -4641,6 +7978,41 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "artificer": 1
+  },
+  "subclasses": {},
+  "features": {
+   "magical tinkering": {
+    "act": "action"
+   },
+   "spellcasting": {},
+   "armored casing": {},
+   "built for success": {
+    "act": "special",
+    "reset": "long",
+    "dice": "1d4"
+   },
+   "healing machine": {
+    "act": "none"
+   },
+   "mechanical nature": {},
+   "sentry's rest": {},
+   "specialized design": {}
+  },
+  "feats": [],
+  "options": [
+   "increase two scores (+2 / +1)"
+  ],
+  "items": [
+   {
+    "name": "armblade (dagger)",
+    "attuned": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 2,
   "id": "hero-f-l-a-p",
   "name": "F.L.A.P.",
   "classLine": "Autognome Artificer 1",
@@ -4688,6 +8060,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4702,6 +8079,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4744,14 +8124,15 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "grease": 1,
    "ray of frost": 0,
-   "shocking grasp": 0
+   "shocking grasp": 0,
+   "grease": 1
   },
   "rogue": 0,
   "barbarian": 0,
@@ -4760,6 +8141,51 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "ranger": 4
+  },
+  "subclasses": {
+   "ranger": "beast master"
+  },
+  "features": {
+   "ranger's companion": {},
+   "favored enemy": {},
+   "natural explorer": {},
+   "fighting style": {},
+   "spellcasting": {},
+   "ranger archetype": {},
+   "primeval awareness": {},
+   "firbolg magic": {},
+   "hidden step": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "short"
+   },
+   "powerful build": {},
+   "speech of beast and leaf": {},
+   "primal companion: take action": {
+    "act": "bonus",
+    "uses": 25
+   }
+  },
+  "feats": [],
+  "options": [
+   "canny (1st level)",
+   "beasts",
+   "forest",
+   "beast of the land",
+   "druidic warrior"
+  ],
+  "items": [
+   {
+    "name": "staff of healing",
+    "attuned": true,
+    "charges": 10,
+    "kind": "staff"
+   }
+  ],
+  "potions": {},
+  "prof": 2,
   "id": "hero-forbes",
   "name": "Forbes",
   "classLine": "Firbolg Ranger 4 (Beast Master)",
@@ -4805,6 +8231,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4819,6 +8248,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4833,6 +8265,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4847,6 +8283,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -4875,19 +8314,15 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "word of recall": 6,
-   "mass cure wounds": 5,
-   "leomund's tiny hut": 3,
-   "sending": 3,
-   "tongues": 3,
-   "find traps": 2,
-   "lesser restoration": 2,
-   "see invisibility": 2,
+   "druidcraft": 0,
+   "light": 0,
+   "primal savagery": 0,
    "alarm": 1,
    "animal friendship": 1,
    "comprehend languages": 1,
@@ -4899,9 +8334,14 @@ export const HEROES = [
    "goodberry": 1,
    "identify": 1,
    "speak with animals": 1,
-   "druidcraft": 0,
-   "light": 0,
-   "primal savagery": 0
+   "find traps": 2,
+   "lesser restoration": 2,
+   "see invisibility": 2,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "tongues": 3,
+   "mass cure wounds": 5,
+   "word of recall": 6
   },
   "rogue": 0,
   "barbarian": 0,
@@ -4910,6 +8350,91 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "sorcerer": 5,
+   "cleric": 5
+  },
+  "subclasses": {
+   "sorcerer": "aberrant mind",
+   "cleric": "peace domain"
+  },
+  "features": {
+   "psionic spells": {},
+   "telepathic speech": {
+    "act": "bonus"
+   },
+   "spellcasting": {},
+   "sorcerous origin": {},
+   "font of magic": {},
+   "metamagic": {},
+   "domain spells": {},
+   "implement of peace": {},
+   "emboldening bond": {
+    "act": "action",
+    "reset": "long"
+   },
+   "channel divinity: balm of peace": {
+    "act": "action"
+   },
+   "divine domain": {},
+   "channel divinity": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "destroy undead": {
+    "act": "special"
+   },
+   "alignment": {},
+   "dual mind": {},
+   "mental discipline": {},
+   "mind link": {},
+   "severed from dreams": {},
+   "mind link response": {
+    "act": "action"
+   },
+   "sorcery points": {
+    "act": "action",
+    "uses": 5,
+    "reset": "long"
+   },
+   "convert sorcery points": {
+    "act": "bonus"
+   },
+   "harness divine power": {
+    "act": "bonus",
+    "uses": 1,
+    "reset": "long"
+   },
+   "magical guidance": {
+    "act": "special"
+   },
+   "subtle spell": {
+    "act": "special"
+   },
+   "quickened spell": {
+    "act": "special"
+   },
+   "channel divinity: turn undead": {
+    "act": "action"
+   }
+  },
+  "feats": [
+   "linguist"
+  ],
+  "options": [
+   "subtle spell",
+   "quickened spell"
+  ],
+  "items": [
+   {
+    "name": "cloak of displacement",
+    "attuned": true,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-hyperion-tidzan-dassiya-sandy",
   "name": "Hyperion Tidzan-Dassiya (Sandy)",
   "classLine": "Kalashtar Sorcerer 5 (Aberrant Mind) / Cleric 5 (Peace Domain)",
@@ -4994,23 +8519,15 @@ export const HEROES = [
    }
   ],
   "spells": {
-   "word of recall": 6,
-   "dispel magic": 3,
-   "hunger of hadar": 3,
-   "leomund's tiny hut": 3,
-   "revivify": 3,
-   "sending": 3,
-   "spirit guardians": 3,
-   "tongues": 3,
-   "calm emotions": 2,
-   "detect thoughts": 2,
-   "enhance ability": 2,
-   "find traps": 2,
-   "lesser restoration": 2,
-   "see invisibility": 2,
-   "spiritual weapon": 2,
-   "suggestion": 2,
-   "tasha's mind whip": 2,
+   "friends": 0,
+   "guidance": 0,
+   "light": 0,
+   "mage hand": 0,
+   "message": 0,
+   "mind sliver": 0,
+   "minor illusion": 0,
+   "spare the dying": 0,
+   "thaumaturgy": 0,
    "alarm": 1,
    "arms of hadar": 1,
    "bless": 1,
@@ -5026,15 +8543,23 @@ export const HEROES = [
    "inflict wounds": 1,
    "shield": 1,
    "sleep": 1,
-   "friends": 0,
-   "guidance": 0,
-   "light": 0,
-   "mage hand": 0,
-   "message": 0,
-   "mind sliver": 0,
-   "minor illusion": 0,
-   "spare the dying": 0,
-   "thaumaturgy": 0
+   "calm emotions": 2,
+   "detect thoughts": 2,
+   "enhance ability": 2,
+   "find traps": 2,
+   "lesser restoration": 2,
+   "see invisibility": 2,
+   "spiritual weapon": 2,
+   "suggestion": 2,
+   "tasha's mind whip": 2,
+   "dispel magic": 3,
+   "hunger of hadar": 3,
+   "leomund's tiny hut": 3,
+   "revivify": 3,
+   "sending": 3,
+   "spirit guardians": 3,
+   "tongues": 3,
+   "word of recall": 6
   },
   "sorcery": 5,
   "meta": [
@@ -5048,6 +8573,64 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "bard": 11
+  },
+  "subclasses": {
+   "bard": "college of eloquence"
+  },
+  "features": {
+   "silver tongue": {},
+   "unsettling words": {
+    "act": "bonus"
+   },
+   "unfailing inspiration": {},
+   "universal speech": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "spellcasting": {},
+   "bardic inspiration": {
+    "act": "bonus",
+    "reset": "short"
+   },
+   "jack of all trades": {},
+   "song of rest": {},
+   "bard college": {},
+   "expertise": {},
+   "font of inspiration": {},
+   "countercharm": {
+    "act": "action"
+   },
+   "magical secrets": {},
+   "magical inspiration": {
+    "act": "special"
+   }
+  },
+  "feats": [],
+  "options": [],
+  "items": [
+   {
+    "name": "ioun stone of reserve",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "barrier tattoo (rare)",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "scroller",
+    "attuned": true,
+    "charges": 6,
+    "homebrew": true,
+    "kind": "rod"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-james-x-smallberries-jim",
   "name": "James X Smallberries (Jim)",
   "classLine": "Human Bard 11 (College of Eloquence)",
@@ -5098,6 +8681,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5112,6 +8700,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5126,25 +8717,16 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "word of recall": 6,
-   "dimension door": 4,
-   "counterspell": 3,
-   "enemies abound": 3,
-   "leomund's tiny hut": 3,
-   "sending": 3,
-   "slow": 3,
-   "tongues": 3,
-   "calm emotions": 2,
-   "find traps": 2,
-   "invisibility": 2,
-   "mirror image": 2,
-   "see invisibility": 2,
-   "suggestion": 2,
+   "light": 0,
+   "message": 0,
+   "thunderclap": 0,
+   "vicious mockery": 0,
    "alarm": 1,
    "command": 1,
    "comprehend languages": 1,
@@ -5155,10 +8737,20 @@ export const HEROES = [
    "healing word": 1,
    "identify": 1,
    "silvery barbs": 1,
-   "light": 0,
-   "message": 0,
-   "thunderclap": 0,
-   "vicious mockery": 0
+   "calm emotions": 2,
+   "find traps": 2,
+   "invisibility": 2,
+   "mirror image": 2,
+   "see invisibility": 2,
+   "suggestion": 2,
+   "counterspell": 3,
+   "enemies abound": 3,
+   "leomund's tiny hut": 3,
+   "sending": 3,
+   "slow": 3,
+   "tongues": 3,
+   "dimension door": 4,
+   "word of recall": 6
   },
   "rogue": 0,
   "barbarian": 0,
@@ -5167,6 +8759,71 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "monk": 3
+  },
+  "subclasses": {
+   "monk": "way of the astral self"
+  },
+  "features": {
+   "arms of the astral self": {
+    "act": "action",
+    "dice": "1d4"
+   },
+   "unarmored defense": {},
+   "martial arts": {},
+   "ki": {},
+   "unarmored movement": {},
+   "monastic tradition": {},
+   "deflect missiles": {
+    "act": "reaction",
+    "dice": "1d10 + 3"
+   },
+   "fairy magic": {},
+   "flight": {},
+   "unarmed strike": {
+    "act": "bonus"
+   },
+   "unarmed strike (dex.)": {
+    "act": "bonus"
+   },
+   "ki points": {
+    "act": "special",
+    "uses": 3,
+    "reset": "short"
+   },
+   "flurry of blows": {
+    "act": "bonus"
+   },
+   "patient defense": {
+    "act": "bonus"
+   },
+   "step of the wind": {
+    "act": "bonus"
+   },
+   "deflect missiles attack": {
+    "act": "reaction"
+   },
+   "ki-fueled attack": {
+    "act": "special"
+   },
+   "arms of the astral self: summon": {
+    "act": "bonus",
+    "dice": "2d4"
+   },
+   "arms of the astral self (wis.)": {
+    "act": "action",
+    "dice": "1d4"
+   }
+  },
+  "feats": [],
+  "options": [
+   "wisdom",
+   "increase two scores (+2 / +1)"
+  ],
+  "items": [],
+  "potions": {},
+  "prof": 2,
   "id": "hero-kili",
   "name": "Kili",
   "classLine": "Fairy Monk 3 (Way of the Astral Self)",
@@ -5210,6 +8867,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5224,6 +8885,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5238,6 +8902,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": true
    },
@@ -5252,6 +8917,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": true
    },
@@ -5266,11 +8932,13 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": true
    }
   ],
   "spells": {
+   "druidcraft": 0,
    "faerie fire": 1
   },
   "rogue": 0,
@@ -5280,6 +8948,97 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "monk": 6
+  },
+  "subclasses": {
+   "monk": "way of the kensei"
+  },
+  "features": {
+   "path of the kensei": {},
+   "one with the blade": {},
+   "kensei weapon": {},
+   "unarmored defense": {},
+   "martial arts": {},
+   "ki": {},
+   "unarmored movement": {},
+   "monastic tradition": {},
+   "deflect missiles": {
+    "act": "reaction",
+    "dice": "1d10 + 6"
+   },
+   "slow fall": {
+    "act": "reaction"
+   },
+   "extra attack": {},
+   "stunning strike": {
+    "act": "special"
+   },
+   "ki-empowered strikes": {},
+   "githzerai psionics": {},
+   "mental discipline": {},
+   "psychic resilience": {},
+   "unarmed strike": {
+    "act": "bonus"
+   },
+   "unarmed strike (dex.)": {
+    "act": "bonus"
+   },
+   "ki points": {
+    "act": "special",
+    "uses": 6,
+    "reset": "short"
+   },
+   "flurry of blows": {
+    "act": "bonus"
+   },
+   "patient defense": {
+    "act": "bonus"
+   },
+   "step of the wind": {
+    "act": "bonus"
+   },
+   "deflect missiles attack": {
+    "act": "reaction"
+   },
+   "agile parry": {
+    "act": "action"
+   },
+   "kensei's shot": {
+    "act": "bonus"
+   },
+   "magic kensei weapons": {
+    "act": "special"
+   },
+   "deft strike": {
+    "act": "special"
+   },
+   "ki-fueled attack": {
+    "act": "special"
+   },
+   "quickened healing": {
+    "act": "action"
+   },
+   "focused aim": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "observant"
+  ],
+  "options": [
+   "increase two scores (+2 / +1)",
+   "wisdom"
+  ],
+  "items": [
+   {
+    "name": "club of compliance",
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 3,
   "id": "hero-kol-hanaka",
   "name": "Kol Hanaka",
   "classLine": "Githzerai Monk 6 (Way of the Kensei)",
@@ -5325,6 +9084,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": true
    },
@@ -5339,6 +9102,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "2d6",
+    "props": [
+     "light"
+    ],
     "conc": false,
     "martialArts": true
    },
@@ -5353,6 +9120,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5367,6 +9138,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": true
    },
@@ -5381,13 +9155,15 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": true
    }
   ],
   "spells": {
-   "detect thoughts": 2,
-   "shield": 1
+   "mage hand": 0,
+   "shield": 1,
+   "detect thoughts": 2
   },
   "rogue": 0,
   "barbarian": 0,
@@ -5396,6 +9172,167 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "fighter": 5,
+   "warlock": 3
+  },
+  "subclasses": {
+   "fighter": "battle master",
+   "warlock": "archfey patron"
+  },
+  "features": {
+   "combat superiority": {},
+   "student of war": {},
+   "maneuver options": {},
+   "core fighter traits": {},
+   "fighting style": {},
+   "second wind": {
+    "act": "bonus",
+    "uses": 3,
+    "reset": "long",
+    "dice": "1d10 + 5"
+   },
+   "weapon mastery": {},
+   "action surge": {
+    "act": "special",
+    "uses": 1,
+    "reset": "short"
+   },
+   "tactical mind": {
+    "act": "special",
+    "dice": "1d10"
+   },
+   "fighter subclass": {},
+   "extra attack": {},
+   "tactical shift": {},
+   "4: weapon mastery": {},
+   "archfey spells": {},
+   "steps of the fey": {},
+   "core warlock traits": {},
+   "eldritch invocations": {},
+   "pact magic": {},
+   "magical cunning": {
+    "act": "none",
+    "uses": 1,
+    "reset": "long"
+   },
+   "warlock subclass": {},
+   "eldritch invocation options": {},
+   "darkvision": {},
+   "hellish resistance": {},
+   "alignment": {},
+   "variant tiefling": {},
+   "second wind: tactical shift": {
+    "act": "bonus"
+   },
+   "superiority dice": {
+    "act": "action",
+    "uses": 4,
+    "reset": "short",
+    "dice": "1d8"
+   },
+   "misty step: refreshing step": {
+    "act": "bonus",
+    "dice": "1d10"
+   },
+   "misty step: taunting step": {
+    "act": "bonus"
+   },
+   "initiate a circle spell": {
+    "act": "action"
+   },
+   "circle spell: augment": {
+    "act": "special"
+   },
+   "circle spell: distribute": {
+    "act": "special"
+   },
+   "circle spell: expand": {
+    "act": "special"
+   },
+   "circle spell: prolong": {
+    "act": "special"
+   },
+   "circle spell: safeguard": {
+    "act": "special"
+   },
+   "circle spell: supplant": {
+    "act": "special"
+   },
+   "disarming attack (dex.)": {
+    "act": "action",
+    "dice": "1d8"
+   },
+   "disarming attack (str.)": {
+    "act": "action",
+    "dice": "1d8"
+   },
+   "riposte": {
+    "act": "reaction",
+    "dice": "1d8"
+   },
+   "trip attack (str.)": {
+    "act": "action",
+    "dice": "1d8"
+   },
+   "trip attack (dex.)": {
+    "act": "action",
+    "dice": "1d8"
+   },
+   "luck points": {
+    "act": "special",
+    "reset": "long"
+   },
+   "sap (longsword)": {
+    "act": "action"
+   },
+   "vex (shortsword)": {
+    "act": "action"
+   },
+   "nick (scimitar)": {
+    "act": "action"
+   },
+   "vex (rapier)": {
+    "act": "action"
+   }
+  },
+  "feats": [
+   "weapon mastery",
+   "4: weapon mastery",
+   "lucky",
+   "speedy",
+   "two-weapon fighting",
+   "wayfarer ability score improvements"
+  ],
+  "options": [
+   "winged",
+   "disarming attack",
+   "riposte",
+   "trip attack",
+   "repelling blast",
+   "devil's sight",
+   "agonizing blast (eldritch blast)",
+   "longsword (sap)",
+   "shortsword (vex)",
+   "scimitar (nick)",
+   "rapier (vex)",
+   "increase two scores (+2 / +1)"
+  ],
+  "items": [
+   {
+    "name": "scimitar, +1",
+    "kind": "weapon"
+   },
+   {
+    "name": "shortsword, +1",
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 2,
+   "potion of healing (superior)": 1
+  },
+  "prof": 3,
   "id": "hero-paytra-2024",
   "name": "Paytra 2024",
   "classLine": "Variant Feral Tiefling Fighter 5 (Battle Master) / Warlock 3 (Archfey Patron)",
@@ -5444,6 +9381,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5458,6 +9399,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5486,21 +9431,22 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "calm emotions": 2,
-   "darkness": 2,
-   "misty step": 2,
-   "phantasmal force": 2,
+   "eldritch blast": 0,
+   "lightning lure": 0,
    "faerie fire": 1,
    "hellish rebuke": 1,
    "hex": 1,
    "sleep": 1,
-   "eldritch blast": 0,
-   "lightning lure": 0
+   "calm emotions": 2,
+   "darkness": 2,
+   "misty step": 2,
+   "phantasmal force": 2
   },
   "rogue": 0,
   "barbarian": 0,
@@ -5509,6 +9455,131 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "artificer": 15
+  },
+  "subclasses": {
+   "artificer": "artillerist"
+  },
+  "features": {
+   "tool proficiency": {},
+   "artillerist spells": {},
+   "eldritch cannon": {},
+   "arcane firearm": {
+    "act": "special"
+   },
+   "explosive cannon": {},
+   "fortified position": {},
+   "magical tinkering": {
+    "act": "action"
+   },
+   "spellcasting": {},
+   "infuse item": {
+    "act": "action",
+    "uses": 5
+   },
+   "artificer infusions": {},
+   "artificer specialist": {},
+   "the right tool for the job": {
+    "act": "none"
+   },
+   "tool expertise": {
+    "act": "special"
+   },
+   "flash of genius": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "magic item adept": {},
+   "spell-storing item": {
+    "act": "special",
+    "uses": 10,
+    "reset": "long"
+   },
+   "magic item savant": {},
+   "armored casing": {},
+   "built for success": {
+    "act": "special",
+    "reset": "long",
+    "dice": "1d4"
+   },
+   "healing machine": {
+    "act": "none"
+   },
+   "mechanical nature": {},
+   "sentry's rest": {},
+   "specialized design": {},
+   "create eldritch cannon": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long"
+   },
+   "eldritch cannon: flamethrower": {
+    "act": "bonus",
+    "uses": 75,
+    "dice": "3d8"
+   },
+   "eldritch cannon: force ballista": {
+    "act": "bonus",
+    "uses": 75,
+    "dice": "3d8"
+   },
+   "eldritch cannon: protector": {
+    "act": "bonus",
+    "uses": 75
+   },
+   "detonate eldritch cannon": {
+    "act": "action",
+    "dice": "3d8"
+   }
+  },
+  "feats": [
+   "magic initiate (wizard)"
+  ],
+  "options": [
+   "increase three scores (+1 / +1 / +1)"
+  ],
+  "items": [
+   {
+    "name": "cloak of protection",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "universal solvent",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "wand of the war mage, +1",
+    "attuned": true,
+    "kind": "wand"
+   },
+   {
+    "name": "winged boots",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "alchemy jug",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "shield",
+    "attuned": true,
+    "kind": "armor"
+   },
+   {
+    "name": "rod",
+    "attuned": true,
+    "kind": "other gear"
+   }
+  ],
+  "potions": {
+   "potion of healing": 1
+  },
+  "prof": 5,
   "id": "hero-se7en",
   "name": "Se7en",
   "classLine": "Autognome Artificer 15 (Artillerist)",
@@ -5629,28 +9700,29 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "otiluke's resilient sphere": 4,
-   "dispel magic": 3,
-   "haste": 3,
-   "revivify": 3,
-   "air bubble": 2,
-   "heat metal": 2,
-   "invisibility": 2,
-   "vortex warp": 2,
-   "chaos bolt": 1,
-   "cure wounds": 1,
-   "detect magic": 1,
-   "disguise self": 1,
    "fire bolt": 0,
    "guidance": 0,
    "mending": 0,
    "ray of frost": 0,
    "shocking grasp": 0,
+   "chaos bolt": 1,
+   "cure wounds": 1,
+   "detect magic": 1,
+   "disguise self": 1,
+   "air bubble": 2,
+   "heat metal": 2,
+   "invisibility": 2,
+   "vortex warp": 2,
+   "dispel magic": 3,
+   "haste": 3,
+   "revivify": 3,
+   "otiluke's resilient sphere": 4,
    "scorching ray": 2,
    "shield": 1,
    "thunderwave": 1,
@@ -5676,6 +9748,84 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "barbarian": 5
+  },
+  "subclasses": {
+   "barbarian": "path of the wild heart"
+  },
+  "features": {
+   "animal speaker": {},
+   "rage of the wilds": {},
+   "rage": {},
+   "unarmored defense": {},
+   "weapon mastery": {},
+   "danger sense": {},
+   "reckless attack": {},
+   "barbarian subclass": {},
+   "primal knowledge": {},
+   "extra attack": {},
+   "fast movement": {},
+   "core barbarian traits": {},
+   "4: weapon mastery": {},
+   "alignment": {},
+   "constructed resilience": {},
+   "sentry's rest": {},
+   "integrated protection": {},
+   "specialized design": {},
+   "rage (enter)": {
+    "act": "bonus",
+    "uses": 3,
+    "reset": "long"
+   },
+   "speedy recovery": {
+    "act": "bonus"
+   },
+   "topple (maul)": {
+    "act": "action"
+   },
+   "nick (sickle)": {
+    "act": "action"
+   },
+   "slow (javelin)": {
+    "act": "action"
+   }
+  },
+  "feats": [
+   "weapon mastery",
+   "4: weapon mastery",
+   "durable",
+   "farmer ability score improvements",
+   "tough"
+  ],
+  "options": [
+   "maul (topple)",
+   "sickle (nick)",
+   "javelin (slow)",
+   "increase two scores (+2 / +1)"
+  ],
+  "items": [
+   {
+    "name": "armblade (sickle)",
+    "attuned": true,
+    "kind": "weapon"
+   },
+   {
+    "name": "living gloves, smith's tools",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "enspelled quarterstaff",
+    "attuned": true,
+    "charges": 6,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing": 1
+  },
+  "prof": 3,
   "id": "hero-umwelt-weld",
   "name": "Umwelt (Weld)",
   "classLine": "Warforged Barbarian 5 (Path of the Wild Heart)",
@@ -5721,6 +9871,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "light"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5735,6 +9888,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5749,6 +9905,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5763,6 +9922,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5777,13 +9940,14 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "beast sense": 2,
-   "speak with animals": 1
+   "speak with animals": 1,
+   "beast sense": 2
   },
   "rogue": 0,
   "barbarian": 5,
@@ -5792,6 +9956,167 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "paladin": 4,
+   "warlock": 8
+  },
+  "subclasses": {
+   "paladin": "oath of vengeance"
+  },
+  "features": {
+   "oath of vengeance spells": {},
+   "vow of enmity": {
+    "act": "action"
+   },
+   "core paladin traits": {},
+   "lay on hands": {},
+   "spellcasting": {},
+   "weapon mastery": {},
+   "fighting style": {},
+   "paladin's smite": {},
+   "channel divinity": {
+    "act": "action",
+    "uses": 2,
+    "reset": "long"
+   },
+   "paladin subclass": {},
+   "core warlock traits": {},
+   "eldritch invocations": {},
+   "pact magic": {},
+   "magical cunning": {
+    "act": "none",
+    "uses": 1,
+    "reset": "long"
+   },
+   "warlock subclass": {},
+   "8: ability score improvement": {},
+   "eldritch invocation options": {},
+   "darkvision": {},
+   "otherworldly presence": {},
+   "fiendish legacy": {},
+   "fiendish legacy spells": {},
+   "lay on hands: healing pool": {
+    "act": "bonus",
+    "uses": 20,
+    "reset": "long"
+   },
+   "lay on hands: heal": {
+    "act": "bonus"
+   },
+   "lay on hands: purify poison": {
+    "act": "bonus"
+   },
+   "channel divinity: divine sense": {
+    "act": "bonus"
+   },
+   "initiate a circle spell": {
+    "act": "action"
+   },
+   "circle spell: augment": {
+    "act": "special"
+   },
+   "circle spell: distribute": {
+    "act": "special"
+   },
+   "circle spell: expand": {
+    "act": "special"
+   },
+   "circle spell: prolong": {
+    "act": "special"
+   },
+   "circle spell: safeguard": {
+    "act": "special"
+   },
+   "circle spell: supplant": {
+    "act": "special"
+   },
+   "pact of the blade: conjure": {
+    "act": "bonus"
+   },
+   "pact of the blade: bond": {
+    "act": "bonus"
+   },
+   "war caster": {
+    "act": "reaction"
+   },
+   "deductive intuition": {
+    "act": "special",
+    "dice": "1d4"
+   },
+   "sap (longsword)": {
+    "act": "action"
+   },
+   "graze (greatsword)": {
+    "act": "action"
+   }
+  },
+  "feats": [
+   "war caster",
+   "defense",
+   "tough",
+   "weapon mastery",
+   "dark bargain",
+   "house medani heir ability score increase",
+   "mark of detection"
+  ],
+  "options": [
+   "charisma",
+   "infernal legacy",
+   "charisma",
+   "fighting style feat",
+   "agonizing blast (eldritch blast)",
+   "pact of the blade",
+   "longsword (sap)",
+   "greatsword (graze)",
+   "charisma",
+   "mark of detection (charisma)"
+  ],
+  "items": [
+   {
+    "name": "gauntlets of ogre power",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "rod of rulership",
+    "attuned": true,
+    "charges": 1,
+    "kind": "rod"
+   },
+   {
+    "name": "sun blade",
+    "kind": "weapon"
+   },
+   {
+    "name": "nolzur's marvelous pigments",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "sentinel shield",
+    "kind": "armor"
+   },
+   {
+    "name": "greater silver sword",
+    "attuned": true,
+    "kind": "weapon"
+   },
+   {
+    "name": "cleansing stone",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "feather token (feather fall)",
+    "charges": 1,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {
+   "potion of healing": 3
+  },
+  "condImmune": [
+   "charmed"
+  ],
+  "prof": 4,
   "id": "hero-esther-crona",
   "name": "Esther Crona",
   "classLine": "Tiefling Paladin 4 (Oath of Vengeance) / Warlock 8",
@@ -5816,7 +10141,10 @@ export const HEROES = [
    "wis": 6,
    "cha": 8
   },
-  "resist": [],
+  "resist": [
+   "fire",
+   "psychic"
+  ],
   "perAction": 1,
   "dc": 16,
   "spellHit": 8,
@@ -5838,6 +10166,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5852,6 +10184,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5866,6 +10201,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "rider": "1d8",
+    "props": [
+     "finesse",
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -5894,21 +10234,22 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "darkness": 2,
-   "see invisibility": 2,
+   "fire bolt": 0,
+   "thaumaturgy": 0,
    "bane": 1,
    "detect magic": 1,
    "detect poison and disease": 1,
    "divine smite": 1,
    "hellish rebuke": 1,
    "hunter's mark": 1,
-   "fire bolt": 0,
-   "thaumaturgy": 0
+   "darkness": 2,
+   "see invisibility": 2
   },
   "rogue": 0,
   "barbarian": 0,
@@ -5917,6 +10258,122 @@ export const HEROES = [
   "paladin": 4
  },
  {
+  "classes": {
+   "artificer": 11
+  },
+  "subclasses": {
+   "artificer": "armorer (archived)"
+  },
+  "features": {
+   "tools of the trade": {},
+   "armorer spells": {},
+   "extra attack": {
+    "act": "special"
+   },
+   "armor modifications": {},
+   "armor model": {},
+   "power armor": {},
+   "magical tinkering": {
+    "act": "action"
+   },
+   "spellcasting": {},
+   "infuse item": {
+    "act": "action",
+    "uses": 4
+   },
+   "artificer infusions": {},
+   "artificer specialist": {},
+   "the right tool for the job": {
+    "act": "none"
+   },
+   "tool expertise": {
+    "act": "special"
+   },
+   "flash of genius": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "magic item adept": {},
+   "spell-storing item": {
+    "act": "special",
+    "uses": 10,
+    "reset": "long"
+   },
+   "alignment": {},
+   "constructed resilience": {},
+   "sentry's rest": {},
+   "integrated protection": {},
+   "specialized design": {},
+   "power armor - create armor": {
+    "act": "action"
+   },
+   "thunder gauntlets": {
+    "act": "action",
+    "dice": "1d8"
+   },
+   "defensive field": {
+    "act": "bonus"
+   }
+  },
+  "feats": [
+   "sharpshooter",
+   "arcanist"
+  ],
+  "options": [
+   "guardian"
+  ],
+  "items": [
+   {
+    "name": "manual of bodily health",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "manual of bodily health",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "wand of lightning bolts",
+    "attuned": true,
+    "charges": 7,
+    "kind": "wand"
+   },
+   {
+    "name": "wand of magic missiles",
+    "charges": 7,
+    "kind": "wand"
+   },
+   {
+    "name": "winged boots",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "gloves of thievery",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "docent",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "imperial hard drive",
+    "homebrew": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "pistol",
+    "attuned": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {
+   "potion of healing (greater)": 1,
+   "potion of healing": 1
+  },
+  "prof": 4,
   "id": "hero-locke-pierce",
   "name": "Locke Pierce",
   "classLine": "Warforged Artificer 11 (Armorer (archived))",
@@ -5966,6 +10423,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -5994,6 +10452,7 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    },
@@ -6008,17 +10467,15 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "dispel magic": 3,
-   "lightning bolt": 3,
-   "revivify": 3,
-   "blur": 2,
-   "heat metal": 2,
-   "web": 2,
+   "fire bolt": 0,
+   "guidance": 0,
+   "prestidigitation": 0,
    "absorb elements": 1,
    "cure wounds": 1,
    "detect magic": 1,
@@ -6026,9 +10483,12 @@ export const HEROES = [
    "feather fall": 1,
    "grease": 1,
    "magic missile": 1,
-   "fire bolt": 0,
-   "guidance": 0,
-   "prestidigitation": 0
+   "blur": 2,
+   "heat metal": 2,
+   "web": 2,
+   "dispel magic": 3,
+   "lightning bolt": 3,
+   "revivify": 3
   },
   "rogue": 0,
   "barbarian": 0,
@@ -6037,6 +10497,66 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "sorcerer": 9
+  },
+  "subclasses": {
+   "sorcerer": "aberrant mind (archived)"
+  },
+  "features": {
+   "invasive thoughts": {
+    "act": "bonus"
+   },
+   "psionic spells": {},
+   "warped being": {},
+   "psionic sorcery": {
+    "act": "special"
+   },
+   "psychic defenses": {},
+   "8: ability score improvement": {},
+   "spellcasting": {},
+   "sorcerous origin": {},
+   "font of magic": {},
+   "metamagic": {},
+   "sorcery points": {
+    "act": "action",
+    "uses": 9,
+    "reset": "long"
+   },
+   "convert sorcery points": {
+    "act": "bonus"
+   },
+   "magical guidance": {
+    "act": "special"
+   },
+   "quickened spell": {
+    "act": "special"
+   },
+   "twinned spell": {
+    "act": "special"
+   }
+  },
+  "feats": [
+   "actor"
+  ],
+  "options": [
+   "quickened spell",
+   "twinned spell"
+  ],
+  "items": [
+   {
+    "name": "tentacle rod",
+    "attuned": true,
+    "kind": "rod"
+   },
+   {
+    "name": "hat of vermin",
+    "charges": 3,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-lord-john-c-lebeouf",
   "name": "Lord John C. LeBeouf",
   "classLine": "Human Sorcerer 9 (Aberrant Mind (archived))",
@@ -6088,6 +10608,9 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -6102,6 +10625,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -6116,6 +10644,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -6130,30 +10663,31 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [],
     "conc": false,
     "martialArts": false
    }
   ],
   "spells": {
-   "modify memory": 5,
-   "rary's telepathic bond": 5,
-   "compulsion": 4,
-   "evard's black tentacles": 4,
-   "hunger of hadar": 3,
-   "sending": 3,
-   "calm emotions": 2,
-   "detect thoughts": 2,
-   "mind spike": 2,
-   "shatter": 2,
-   "arms of hadar": 1,
-   "charm person": 1,
-   "dissonant whispers": 1,
-   "id insinuation (archived)": 1,
    "friends": 0,
    "light": 0,
    "mage hand": 0,
    "mind sliver (archived)": 0,
-   "minor illusion": 0
+   "minor illusion": 0,
+   "arms of hadar": 1,
+   "charm person": 1,
+   "dissonant whispers": 1,
+   "id insinuation (archived)": 1,
+   "calm emotions": 2,
+   "detect thoughts": 2,
+   "mind spike": 2,
+   "shatter": 2,
+   "hunger of hadar": 3,
+   "sending": 3,
+   "compulsion": 4,
+   "evard's black tentacles": 4,
+   "modify memory": 5,
+   "rary's telepathic bond": 5
   },
   "sorcery": 9,
   "meta": [
@@ -6167,6 +10701,68 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "sorcerer": 9,
+   "bard": 1
+  },
+  "subclasses": {
+   "sorcerer": "draconic bloodline"
+  },
+  "features": {
+   "dragon ancestor": {},
+   "draconic resilience": {},
+   "elemental affinity (fire)": {},
+   "spellcasting": {},
+   "sorcerous origin": {},
+   "font of magic": {},
+   "metamagic": {},
+   "bardic inspiration": {
+    "act": "bonus",
+    "reset": "long"
+   },
+   "darkvision": {},
+   "hellish resistance": {},
+   "infernal legacy": {},
+   "sorcery points": {
+    "act": "action",
+    "uses": 9,
+    "reset": "long"
+   },
+   "convert sorcery points": {
+    "act": "bonus"
+   },
+   "elemental affinity": {
+    "act": "special"
+   },
+   "magical guidance": {
+    "act": "special"
+   },
+   "careful spell": {
+    "act": "special"
+   },
+   "empowered spell": {
+    "act": "special"
+   }
+  },
+  "feats": [],
+  "options": [
+   "careful spell",
+   "empowered spell",
+   "red dragon"
+  ],
+  "items": [
+   {
+    "name": "mariner's studded leather",
+    "kind": "armor"
+   },
+   {
+    "name": "heward's handy spice pouch",
+    "charges": 10,
+    "kind": "wondrous item"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-richard-blaze",
   "name": "Richard Blaze",
   "classLine": "Tiefling Sorcerer 9 (Draconic Bloodline) / Bard 1",
@@ -6218,6 +10814,11 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "light",
+     "thrown"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -6251,22 +10852,6 @@ export const HEROES = [
    }
   ],
   "spells": {
-   "immolation": 5,
-   "wall of fire": 4,
-   "fireball": 3,
-   "fly": 3,
-   "gaseous form": 3,
-   "aganazzar's scorcher": 2,
-   "darkness": 2,
-   "dragon's breath": 2,
-   "pyrotechnics": 2,
-   "scorching ray": 2,
-   "burning hands": 1,
-   "disguise self": 1,
-   "dissonant whispers": 1,
-   "hellish rebuke": 1,
-   "sleep": 1,
-   "tasha's hideous laughter": 1,
    "control flames": 0,
    "create bonfire": 0,
    "fire bolt": 0,
@@ -6274,7 +10859,23 @@ export const HEROES = [
    "message": 0,
    "prestidigitation": 0,
    "thaumaturgy": 0,
-   "vicious mockery": 0
+   "vicious mockery": 0,
+   "burning hands": 1,
+   "disguise self": 1,
+   "dissonant whispers": 1,
+   "hellish rebuke": 1,
+   "sleep": 1,
+   "tasha's hideous laughter": 1,
+   "aganazzar's scorcher": 2,
+   "darkness": 2,
+   "dragon's breath": 2,
+   "pyrotechnics": 2,
+   "scorching ray": 2,
+   "fireball": 3,
+   "fly": 3,
+   "gaseous form": 3,
+   "wall of fire": 4,
+   "immolation": 5
   },
   "sorcery": 9,
   "meta": [
@@ -6287,6 +10888,120 @@ export const HEROES = [
   "paladin": 0
  },
  {
+  "classes": {
+   "cleric": 12
+  },
+  "subclasses": {
+   "cleric": "grave domain"
+  },
+  "features": {
+   "domain spells": {},
+   "circle of mortality": {
+    "act": "special"
+   },
+   "eyes of the grave": {
+    "act": "action",
+    "reset": "long"
+   },
+   "channel divinity: path to the grave": {
+    "act": "action"
+   },
+   "sentinel at death's door": {
+    "act": "reaction",
+    "reset": "long"
+   },
+   "potent spellcasting": {},
+   "spellcasting": {},
+   "divine domain": {},
+   "channel divinity": {
+    "act": "special",
+    "uses": 2,
+    "reset": "short"
+   },
+   "destroy undead": {
+    "act": "special"
+   },
+   "divine intervention": {
+    "act": "action",
+    "uses": 1,
+    "reset": "long",
+    "dice": "1d100"
+   },
+   "darkvision": {},
+   "keen senses": {},
+   "fey ancestry": {},
+   "trance": {},
+   "seeker of souls": {},
+   "mortal coil": {},
+   "physician's intuition": {},
+   "elf weapon training": {},
+   "channel divinity: turn undead": {
+    "act": "action"
+   },
+   "harness divine power": {
+    "act": "bonus",
+    "uses": 2,
+    "reset": "long"
+   },
+   "blessed strikes": {
+    "act": "special",
+    "dice": "1d8"
+   },
+   "war caster": {
+    "act": "reaction"
+   }
+  },
+  "feats": [
+   "war caster",
+   "elven accuracy",
+   "greater dragonmark of death",
+   "extra cantrip"
+  ],
+  "options": [
+   "wisdom"
+  ],
+  "items": [
+   {
+    "name": "amulet of health",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "brazier of commanding fire elementals",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "cloak of protection",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "headband of intellect",
+    "attuned": true,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "longbow, +2",
+    "kind": "weapon"
+   },
+   {
+    "name": "gloves of thievery",
+    "kind": "wondrous item"
+   },
+   {
+    "name": "feather token (feather fall)",
+    "charges": 1,
+    "kind": "wondrous item"
+   },
+   {
+    "name": "elven longsword",
+    "homebrew": true,
+    "kind": "weapon"
+   }
+  ],
+  "potions": {},
+  "prof": 4,
   "id": "hero-uriel-qualanthri",
   "name": "Uriel Qualanthri",
   "classLine": "Mark of Death Elf Cleric 12 (Grave Domain)",
@@ -6339,6 +11054,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "finesse",
+     "versatile"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -6353,6 +11072,10 @@ export const HEROES = [
     "spell": false,
     "slot": 0,
     "count": 1,
+    "props": [
+     "two-handed",
+     "heavy"
+    ],
     "conc": false,
     "martialArts": false
    },
@@ -6414,24 +11137,6 @@ export const HEROES = [
    }
   ],
   "spells": {
-   "blade barrier": 6,
-   "harm": 6,
-   "heal": 6,
-   "conjure elemental": 5,
-   "dispel evil and good": 5,
-   "greater restoration": 5,
-   "holy weapon": 5,
-   "mass cure wounds": 5,
-   "summon celestial": 5,
-   "animate dead": 3,
-   "mass healing word": 3,
-   "speak with dead": 3,
-   "aid": 2,
-   "lesser restoration": 2,
-   "spiritual weapon": 2,
-   "cure wounds": 1,
-   "healing word": 1,
-   "inflict wounds": 1,
    "dancing lights": 0,
    "light": 0,
    "sacred flame": 0,
@@ -6439,6 +11144,24 @@ export const HEROES = [
    "thaumaturgy": 0,
    "toll the dead": 0,
    "word of radiance": 0,
+   "cure wounds": 1,
+   "healing word": 1,
+   "inflict wounds": 1,
+   "aid": 2,
+   "lesser restoration": 2,
+   "spiritual weapon": 2,
+   "animate dead": 3,
+   "mass healing word": 3,
+   "speak with dead": 3,
+   "conjure elemental": 5,
+   "dispel evil and good": 5,
+   "greater restoration": 5,
+   "holy weapon": 5,
+   "mass cure wounds": 5,
+   "summon celestial": 5,
+   "blade barrier": 6,
+   "harm": 6,
+   "heal": 6,
    "vampiric touch": 3
   },
   "rogue": 0,

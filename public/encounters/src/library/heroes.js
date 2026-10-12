@@ -1,14 +1,15 @@
 // Simple versions of the player characters from the D&D Beyond exports (heroes-data.js, generated).
 // "Simple" means: the sheet's own numbers, its best weapon routine, its cantrips, and every spell on
 // its list that the spell book (data/spells.js) can run, cast from the character's own spell slots.
-// Sorcerers spend their sorcery points on the Metamagic their sheet names. No hand-written tactics, no
-// item powers, no subclass features beyond those below.
+// Sorcerers spend their sorcery points on the Metamagic their sheet names. Class features, feats and
+// chosen options come from the feature book (data/features.js). No hand-written tactics.
 
 import { HEROES } from './heroes-data.js';
 import { melee, ranged, save, multi } from '../data/lib.js';
 import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js';
 import { avgDice } from '../engine/dice.js';
 import { register } from '../data/registry.js';
+import { featureParts, applyParts } from '../data/features.js';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -64,12 +65,14 @@ export function buildHero(h) {
   for (const [name, lvl] of Object.entries(h.spells)) {
     if (!lvl) continue;
     const onSheet = h.attacks.some((x) => x.spell && x.slot > 0 && x.name.toLowerCase() === name) && !SUSTAINED.includes(name);
-    if (lvl > topSlot) { notRun.push(name); continue; }
+    const wl = (h.classes || {}).warlock || 0;
+    const arcanum = lvl > topSlot && lvl >= 6 && lvl <= (wl >= 17 ? 9 : wl >= 15 ? 8 : wl >= 13 ? 7 : wl >= 11 ? 6 : 0);
+    if (lvl > topSlot && !arcanum) { notRun.push(name); continue; }
     if (!knows(name)) { if (!onSheet) notRun.push(name); continue; }
     const r = reaction(name, { dc: h.dc });
     if (r) { reactions.push(r); continue; }
     const id = `sp_${name.replace(/[^a-z0-9]+/g, '_')}`;
-    const o = { dc: h.dc, toHit: h.spellHit, mod: h.spellMod, charLevel: h.level };
+    const o = { dc: h.dc, toHit: h.spellHit, mod: h.spellMod, charLevel: h.level, ...(arcanum ? { uses: 1, at: lvl } : {}) };
     actions[id] = cast(name, o);
     ids.push(id);
     // a spell that stays up strikes again through a second action
@@ -103,46 +106,23 @@ export function buildHero(h) {
     actions[`feature${i}`] = { ...mk({ ...a, spell: true }), name: `${a.name}${a.count > 1 ? ` x${a.count}` : ''}`, cost: 'bonus', noRangePenalty: true };
     bonusPlan.push(`feature${i}`);
   });
-  if (h.fighter >= 2) {
-    actions.surge = {
-      kind: 'special', name: 'Action Surge', cost: 'bonus', uses: 1, noTarget: true,
-      when: (E, c) => !c.turn.action && foes(E, c).length > 0,
-      run(E, c) { c.turn.action = true; E.log('act', `${c.name} uses Action Surge.`, c); },
-    };
-    bonusPlan.push('surge');
-  }
-
-  const sneak = h.rogue ? `${Math.ceil(h.rogue / 2)}d6` : null;
-  const smites = h.paladin >= 2 ? Math.min(5, 1 + Math.ceil(h.paladin / 4)) : 0;
   const frontline = routines[0] && routines[0][0] === 'meleeRoutine';
-  return {
+  const tpl = {
     id: h.id, name: h.campaign === 'The Unforeseen' ? `${h.name} (Original, level ${h.level})` : h.name, side: 'pc', pc: true, hero: true, type: 'humanoid', smart: true, pos: frontline ? 'front' : 'back',
-    sub: `${h.classLine} · ${h.campaign}${ids.length + reactions.length ? ` · ${ids.length + reactions.length} spells run${notRun.length ? `, ${notRun.length} not` : ''}` : ''}`, level: h.level,
+    level: h.level,
     slots: h.slots || undefined, pact: h.pact || undefined, spellsNotRun: notRun, sorcery: h.sorcery, meta: h.meta,
     hasteWith: routines[0] && routines[0][0] === 'rangedRoutine' ? 'ranged' : bestMelee ? 'melee' : undefined,
-    ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist,
-    actions, plan, bonusPlan, reactions: reactions.length ? reactions : undefined,
-    hooks: {
-      onFightStart(E, c) {
-        if (h.barbarian) E.addFx(c, { id: 'rage', name: 'Rage', resist: ['bludgeoning', 'piercing', 'slashing'], extraDmg: [[h.barbarian >= 9 ? '3' : '2', 'slashing']], extraMeleeOnly: true }, c);
-      },
-      onHit(E, c, ctx) {
-        if (E.current !== c || ctx.act.spell) return null;
-        const out = { dmg: [] };
-        if (sneak && !c.turn.sneak && (ctx.mode === 'adv' || [...ctx.tgt.engaged].some((id) => id !== c.id && E.get(id) && E.get(id).side === c.side))) {
-          c.turn.sneak = true;
-          out.dmg.push([sneak, ctx.act.dmg[0][1], 'Sneak Attack']);
-        }
-        if (smites && ctx.melee && !c.turn.smote && (c.used.smite || 0) < smites) {
-          c.turn.smote = true;
-          c.used.smite = (c.used.smite || 0) + 1;
-          out.dmg.push(['2d8', 'radiant', 'Divine Smite']);
-        }
-        return out.dmg.length ? out : null;
-      },
-    },
+    ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist, immune: h.immune, condImmune: h.condImmune,
+    actions, plan, bonusPlan, reactions: reactions.length ? reactions : undefined, hooks: {},
     basic: bestMelee ? 'melee' : bestRanged ? 'ranged' : 'cantrip', basicN: h.perAction, oa: bestMelee ? 'melee' : undefined,
   };
+  const book = featureParts(h, tpl, { frontline, atWill, weaponFirst: !!routines[0] && /Routine$/.test(routines[0][0]) });
+  applyParts(tpl, book.parts);
+  if (!tpl.reactions || !tpl.reactions.length) tpl.reactions = undefined;
+  tpl.features = { run: book.run, numbers: book.numbers, outside: book.outside, unknown: book.unknown };
+  const spellCount = ids.length + (reactions.length || 0);
+  tpl.sub = `${h.classLine} \u00b7 ${h.campaign}${spellCount ? ` \u00b7 ${spellCount} spells run${notRun.length ? `, ${notRun.length} not` : ''}` : ''}${book.run.length ? ` \u00b7 ${book.run.length} features run${book.unknown.length ? `, ${book.unknown.length} not yet` : ''}` : ''}`;
+  return tpl;
 }
 
 const creatures = {};

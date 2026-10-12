@@ -54,7 +54,7 @@ def('stCloud', {
     blastLeg: ranged('Eldritch Blast', 14, [['1d10+8', 'force']], { n: 4, spell: true, weapon: false, hidden: true }),
     restore: {
       kind: 'special', name: 'Restore the Field', noTarget: true, hidden: true,
-      when: (E, c) => (c.temp || 0) < 20,
+      when: (E, c) => (c.tempHp || 0) < 20,
       run(E, c) { E.log('act', `${c.name} restores the field.`, c); E.tempHp(c, 18, 'ambient field (5d6)'); },
     },
     pwk: {
@@ -64,7 +64,7 @@ def('stCloud', {
         const t = foes(E, c).filter((x) => x.hp <= 100).sort((a, b) => b.hp - a.hp)[0];
         if (!t) return;
         E.log('act', `${c.name} speaks Power Word Kill at ${t.name} (${t.hp} HP).`, c);
-        E.damage(t, [{ amt: t.hp + (t.temp || 0), type: 'psychic' }], c, { rollText: 'Power Word Kill' });
+        E.damage(t, [{ amt: t.hp + (t.tempHp || 0), type: 'psychic' }], c, { rollText: 'Power Word Kill' });
       },
     },
     field: {
@@ -113,8 +113,8 @@ def('calix', {
         E.log('act', `${c.name} casts Time Stop and takes two turns alone.`, c);
         for (const id of ['cone', 'lightning']) {
           if (!E.usable(c, id, { free: true })) continue;
-          const ch = E.ai.options(E, c, 'action').find((o) => o.id === id);
-          if (ch) E.perform(c, { ...ch, free: true });
+          const t = E.ai.pickTarget(E, c, E.action(c, id));
+          if (t) E.perform(c, { act: id, targets: [t.id], free: true });
         }
       },
     },
@@ -183,7 +183,7 @@ def('valen', {
         const t = foes(E, c).filter((x) => x.hp <= 100).sort((a, b) => b.hp - a.hp)[0];
         if (!t) return;
         E.log('act', `${c.name} speaks Power Word Kill at ${t.name} (${t.hp} HP).`, c);
-        E.damage(t, [{ amt: t.hp + (t.temp || 0), type: 'psychic' }], c, { rollText: 'Power Word Kill' });
+        E.damage(t, [{ amt: t.hp + (t.tempHp || 0), type: 'psychic' }], c, { rollText: 'Power Word Kill' });
       },
     },
     rayLeg: ranged('Scorching Ray', 14, [['2d6', 'fire']], { n: 3, spell: true, weapon: false, hidden: true }),
@@ -315,8 +315,8 @@ def('gorrelachGunt', {
       run(E, c) {
         if (E.round === 1) { E.log('act', `${c.name}: the Nose coughs and chokes, charging. The Maw is active.`, c); return; }
         const id = rear(E, c) ? 'flood' : E.round % 2 === 0 ? 'cough' : 'vomit';
-        const ch = E.ai.options(E, c, 'lair').find((o) => o.id === id) || E.ai.options(E, c, 'action').find((o) => o.id === id);
-        if (ch) E.perform(c, { ...ch, free: true });
+        const t = E.ai.pickTarget(E, c, E.action(c, id));
+        if (t) E.perform(c, { act: id, targets: [t.id], free: true });
         if (!rear(E, c)) E.log('act', `${c.name}: ${E.round % 2 === 0 ? 'the Nose is active and the Maw retches, charging' : 'the Maw is active and the Nose chokes, charging'}.`, c);
       },
     },

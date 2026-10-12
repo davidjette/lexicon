@@ -129,6 +129,11 @@ export function tryPlan(E, c, entry, slot) {
 
 function genericNext(E, c) {
   const t = c.tpl;
+  // things that cost neither the action nor the bonus action (Action Surge)
+  for (const p of t.freePlan || []) {
+    const ch = tryPlan(E, c, p, 'free');
+    if (ch) return ch;
+  }
   if (c.turn.bonus) {
     for (const p of t.bonusPlan || []) {
       const ch = tryPlan(E, c, p, 'bonus');
