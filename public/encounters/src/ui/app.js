@@ -147,9 +147,12 @@ function portrait(tpl, name) {
 }
 
 // hover text for a library character: what the feature book runs, and what it does not yet
-const featureNote = (f) => [
+const featureNote = (f, kit = { run: [], skipped: [] }) => [
   f.run.length ? `Run: ${f.run.join(', ')}.` : '',
+  (f.skipped || []).length ? `Left out: ${f.skipped.join('; ')}.` : '',
   f.unknown.length ? `Not yet run: ${f.unknown.join(', ')}.` : '',
+  kit.run.length ? `Items run: ${kit.run.join(', ')}.` : '',
+  kit.skipped.length ? `Items left out: ${kit.skipped.join('; ')}.` : '',
 ].filter(Boolean).join('\n');
 const subline = (tpl) => tpl.sub || [tpl.cr !== undefined ? `CR ${tpl.cr}` : null, tpl.type].filter(Boolean).join(' · ');
 
@@ -271,7 +274,7 @@ function editCard(r) {
     portrait(base, r.name),
     h('div', {},
       h('div', { class: 'name' }, r.name, base.dm ? h('span', { class: 'dm-tag', style: 'margin-left:.4rem' }, 'DM ONLY') : null),
-      h('div', base.features ? { class: 'sub', title: featureNote(base.features) } : { class: 'sub' }, subline(base)),
+      h('div', base.features ? { class: 'sub', title: featureNote(base.features, base.items) } : { class: 'sub' }, subline(base)),
       line),
     det);
 }

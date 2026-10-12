@@ -6,9 +6,10 @@
 // combatant (c.used, c.memo) and per-turn flags on c.turn.
 
 import { avgDice, rollDice } from '../engine/dice.js';
-import { slotLevels, sorceryPoints } from './spells.js';
+import { slotLevels, sorceryPoints, cast, SPELLS } from './spells.js';
 import { melee as meleeAttack } from './lib.js';
 import { isEngaged } from '../engine/zones.js';
+import { steelDefender, drake, primalBeast, cannon, formFrom, shape, unshape } from './companions.js';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const friends = (E, c) => E.alliesOf(c).filter((a) => E.active(a));
@@ -525,6 +526,10 @@ function mastery(x) {
     const m = o.match(/^(.+) \((sap|vex|topple|nick|graze|slow|push|cleave)\)$/);
     if (m) props[m[1]] = m[2];
   }
+  for (const o of Object.keys(x.h.features || {})) {
+    const m = o.match(/^(sap|vex|topple|nick|graze|slow|push|cleave) \((.+)\)$/);
+    if (m) props[m[2]] = m[1];
+  }
   const of = (act) => { const n = String(act.name).toLowerCase(); const k = Object.keys(props).find((w) => n.includes(w)); return k ? props[k] : null; };
   if (!Object.keys(props).length) return null;
   const dc = 8 + x.prof + Math.max(x.mod('str'), x.mod('dex'));
@@ -951,6 +956,600 @@ function potions(x) {
 }
 
 // ---------------------------------------------------------------------------------------------
+// More subclass, species and feat features
+// ---------------------------------------------------------------------------------------------
+const oncePerTurn = (flag, test, dmg) => ({
+  hooks: {
+    onHit(E, c, ctx) {
+      if (E.current !== c || c.turn[flag] || !test(E, c, ctx)) return null;
+      c.turn[flag] = true;
+      return { dmg: [dmg(E, c, ctx)] };
+    },
+  },
+});
+const anyAttack = () => true;
+const weaponOnly = (E, c, ctx) => weaponHit(ctx);
+
+// Ranger
+const favoredFoe = (x) => {
+  const L = x.lvl('ranger');
+  const die = L >= 14 ? '1d8' : L >= 6 ? '1d6' : '1d4';
+  const n = x.uses('favored foe', x.prof);
+  return {
+    hooks: {
+      onHit(E, c, ctx) {
+        if (E.current !== c || c.turn.foe || !weaponHit(ctx)) return null;
+        if (c.memo.foe !== ctx.tgt.id || !c.conc || c.conc.name !== 'Favored Foe') {
+          if (c.conc || used(c, 'favoredFoe') >= n) return null;
+          spendUse(c, 'favoredFoe');
+          E.concentrate(c, 'Favored Foe');
+          c.memo.foe = ctx.tgt.id;
+        }
+        c.turn.foe = true;
+        return { dmg: [[die, ctx.act.dmg[0][1], 'Favored Foe']] };
+      },
+    },
+  };
+};
+const planarWarrior = (x) => ({
+  actions: {
+    planar: {
+      kind: 'special', name: 'Planar Warrior', cost: 'bonus', noTarget: true,
+      when: (E, c) => c.turn.action && foes(E, c).length > 0,
+      run(E, c) { c.turn.planar = true; },
+    },
+  },
+  bonus: ['planar'],
+  hooks: {
+    onHit(E, c, ctx) {
+      if (!c.turn.planar || !weaponHit(ctx)) return null;
+      c.turn.planar = false;
+      return { dmg: [[x.lvl('ranger') >= 11 ? '2d8' : '1d8', 'force', 'Planar Warrior']] };
+    },
+  },
+});
+const gatheredSwarm = () => oncePerTurn('swarm', weaponOnly, () => ['1d6', 'piercing', 'Gathered Swarm']);
+
+// Artificer 11: a 1st or 2nd level spell kept in an item, cast without slots
+const spellStoring = (x) => {
+  const o = { dc: x.h.dc, toHit: x.h.spellHit, mod: x.h.spellMod, charLevel: x.h.level };
+  let best = null;
+  for (const [name, lvl] of Object.entries(x.h.spells || {})) {
+    if (lvl < 1 || lvl > 2 || !SPELLS[name]) continue;
+    const a = cast(name, { ...o, uses: Math.max(2, 2 * x.mod('int')), at: lvl });
+    if (!a || !a.book || a.book.role !== 'damage' || a.book.sustain) continue;
+    const v = a.book.value(lvl, 2);
+    if (!best || v > best.v) best = { a, v };
+  }
+  if (!best || best.v <= x.atWill) return null;
+  // kept for when the slots of 3rd level and up are gone
+  const own = best.a.when;
+  return { actions: { stored: { ...best.a, name: `${best.a.name} (Spell-Storing Item)`, when: (E, c) => slotLevels(c, 3).length === 0 && (!own || own(E, c)) } }, plan: ['stored'] };
+};
+
+// Bladesinging
+const bladesong = (x) => {
+  const n = Math.max(1, x.mod('int'));
+  return {
+    actions: {
+      bladesong: {
+        kind: 'special', name: 'Bladesong', cost: 'bonus', noTarget: true, uses: x.uses('bladesong', x.prof),
+        when: (E, c) => !E.fxOf(c, 'bladesong') && foes(E, c).length > 0,
+        run(E, c) { E.log('act', `${c.name} begins the Bladesong (+${n} AC).`, c); E.addFx(c, { id: 'bladesong', name: 'Bladesong', ac: n, endsWhenDown: true }, c); },
+      },
+    },
+    bonusFirst: ['bladesong'],
+  };
+};
+
+// Monk
+const focusedAim = (x) => ({
+  hooks: {
+    fixMiss(E, c, ctx) {
+      const cost = Math.ceil(ctx.gap / 2);
+      if (ctx.act.spell || ctx.nat === 1 || cost > 3 || kiOf(x) - used(c, 'ki') < cost) return null;
+      c.used.ki = used(c, 'ki') + cost;
+      return { add: cost * 2, label: `Focused Aim (${cost} ki)` };
+    },
+  },
+});
+const martialDie = (x) => { const L = x.lvl('monk'); return x.y2024 ? (L >= 17 ? 12 : L >= 11 ? 10 : L >= 5 ? 8 : 6) : (L >= 17 ? 10 : L >= 11 ? 8 : L >= 5 ? 6 : 4); };
+const deftStrike = (x) => ({
+  hooks: {
+    onHit(E, c, ctx) {
+      if (E.current !== c || c.turn.deft || !weaponHit(ctx) || kiOf(x) - used(c, 'ki') < 2) return null;
+      c.turn.deft = true;
+      spendUse(c, 'ki');
+      return { dmg: [[`1d${martialDie(x)}`, ctx.act.dmg[0][1], 'Deft Strike']] };
+    },
+  },
+});
+const handOfHarm = (x) => ({
+  hooks: {
+    onHit(E, c, ctx) {
+      if (E.current !== c || c.turn.harm || !ctx.melee || !weaponHit(ctx) || kiOf(x) - used(c, 'ki') < 1) return null;
+      c.turn.harm = true;
+      spendUse(c, 'ki');
+      const out = { dmg: [[`1d${martialDie(x)}+${Math.max(0, x.mod('wis'))}`, 'necrotic', 'Hand of Harm']], fx: [] };
+      if (x.lvl('monk') >= 6 && !E.condImmune(ctx.tgt, 'poisoned')) out.fx.push({ fx: 'cond', cond: 'poisoned', name: "Physician's Touch", dur: { who: 'src', when: 'end', turns: 1 } });
+      return out;
+    },
+  },
+});
+const handOfHealing = (x) => ({
+  actions: {
+    handOfHealing: {
+      kind: 'heal', name: 'Hand of Healing (in place of a Flurry blow)', dice: `1d${martialDie(x)}+${Math.max(0, x.mod('wis'))}`, self: true, cost: 'bonus', uses: kiOf(x), usesKey: 'ki',
+      when: (E, c) => c.hp < c.maxHp * 0.4,
+    },
+  },
+  bonusFirst: ['handOfHealing'],
+});
+const openHand = (x) => {
+  const dc = kiDc(x);
+  return {
+    hooks: {
+      onHit(E, c, ctx) {
+        if (ctx.act.name !== 'Flurry of Blows' || c.turn.openHand || E.has(ctx.tgt, 'prone') || E.condImmune(ctx.tgt, 'prone')) return null;
+        c.turn.openHand = true;
+        return { fx: [{ fx: 'save', ability: 'dex', dc, onFail: [{ fx: 'prone' }], serious: false }] };
+      },
+    },
+  };
+};
+const wholeness = (x) => ({
+  actions: { wholeness: { kind: 'heal', name: 'Wholeness of Body', dice: `1d${martialDie(x)}+${Math.max(0, x.mod('wis'))}`, self: true, cost: 'bonus', uses: x.uses('wholeness of body', Math.max(1, x.mod('wis'))) } },
+  bonusFirst: ['wholeness'],
+});
+
+// Kobold
+const grovel = (x) => ({
+  actions: {
+    grovel: {
+      kind: 'special', name: 'Grovel, Cower, and Beg', uses: x.uses('grovel, cower, and beg', 1), noTarget: true,
+      when: (E, c) => E.round <= 2 && friends(E, c).length >= 2 && foes(E, c).length > 0,
+      run(E, c) {
+        E.log('act', `${c.name} grovels, cowers and begs. Friends have advantage against enemies close by.`, c);
+        const near = foes(E, c).filter((t) => t.engaged.size > 0 || isEngaged(c, t));
+        for (const t of near.length ? near : foes(E, c).slice(0, 2)) E.addFx(t, { id: 'grovel', name: 'Grovel, Cower, and Beg', advAgainst: true, ends: { who: c.id, when: 'end', turns: 1 } }, c);
+      },
+    },
+  },
+  plan: ['grovel'],
+});
+const packTactics = () => ({
+  hooks: { attackMods(E, c, ctx) { return [...ctx.tgt.engaged].some((id) => id !== c.id && E.get(id) && E.get(id).side === c.side && E.active(E.get(id))) ? { adv: 'Pack Tactics' } : null; } },
+});
+
+// Aasimar
+const healingHands = (x) => {
+  const pick = (E, c) => E.alliesOf(c).find((a) => a.down && !E.has(a, 'noHeal')) || null;
+  return {
+    actions: {
+      healingHands: {
+        kind: 'special', name: 'Healing Hands', ally: true, uses: 1, aiTarget: pick, when: (E, c) => !!pick(E, c),
+        run(E, c, act, choice) { const t = E.get((choice.targets || [])[0]) || pick(E, c); if (t) { E.log('act', `${c.name} lays Healing Hands on ${t.name}.`, c); E.heal(t, x.h.level, c, 'Healing Hands'); } },
+      },
+    },
+    plan: ['healingHands'],
+  };
+};
+// Radiant Soul and Necrotic Shroud: an action for a minute of extra damage once a turn. Taken in the
+// first round, and only once the extra damage is worth the action.
+const revelation = (id, name, type, fear) => (x) => {
+  if (id === 'radiantSoul' && (x.f('radiant soul') || {}).act !== 'action') {
+    // the Celestial warlock's feature of the same name: Charisma on one radiant or fire damage roll
+    const n = String(Math.max(1, x.mod('cha')));
+    return { flags: { spellPlus: [...(x.tpl.spellPlus || []), { type: 'radiant', dice: n }, { type: 'fire', dice: n }] } };
+  }
+  // the extra damage rides on attack rolls, so it is for those who fight with weapons
+  if (!x.weaponFirst) return null;
+  const L = x.h.level;
+  return {
+    actions: {
+      [id]: {
+        kind: 'special', name, uses: 1, noTarget: true,
+        when: (E, c) => L >= 5 && E.round <= 1 && !E.fxOf(c, id) && foes(E, c).reduce((n, t) => n + t.hp, 0) >= 12 * L,
+        run(E, c) {
+          E.log('act', `${c.name} reveals a celestial nature: ${name}.`, c);
+          E.addFx(c, { id, name, endsWhenDown: true }, c);
+          if (fear) E.saveEffect(c, { name, save: 'cha', dc: 8 + x.prof + x.mod('cha'), dmg: null, onFail: [{ fx: 'cond', cond: 'frightened', name, dur: { who: 'src', when: 'end', turns: 1 } }] }, [...c.engaged].map((i) => E.get(i)).filter((t) => E.active(t)));
+        },
+      },
+    },
+    plan: [id],
+    hooks: {
+      onHit(E, c, ctx) {
+        if (E.current !== c || c.turn.revealed || !E.fxOf(c, id)) return null;
+        c.turn.revealed = true;
+        return { dmg: [[String(L), type, name]] };
+      },
+    },
+  };
+};
+
+// Celestial warlock: a pool of d6 to heal with as a bonus action
+const healingLight = (x) => {
+  const pool = 1 + x.lvl('warlock');
+  const most = Math.max(1, x.mod('cha'));
+  const left = (c) => pool - used(c, 'healingLight');
+  const pick = (E, c) => {
+    if (left(c) <= 0) return null;
+    const all = E.alliesOf(c, true).filter((a) => !E.has(a, 'noHeal'));
+    return all.find((a) => a.down) || all.filter((a) => a.hp < a.maxHp * 0.4).sort((a, b) => a.hp / a.maxHp - b.hp / b.maxHp)[0] || null;
+  };
+  return {
+    actions: {
+      healingLight: {
+        kind: 'special', name: 'Healing Light', cost: 'bonus', ally: true, aiTarget: pick, when: (E, c) => !!pick(E, c),
+        run(E, c, act, choice) {
+          const t = E.get((choice.targets || [])[0]) || c;
+          const n = Math.min(left(c), t.down ? 1 : most);
+          c.used.healingLight = used(c, 'healingLight') + n;
+          const r = rollDice(E.rng, `${n}d6`);
+          E.log('act', `${c.name}: Healing Light on ${t === c ? 'themself' : t.name}, ${r.text} = ${r.total} (${left(c)} dice left).`, c);
+          E.heal(t, r.total, c, 'Healing Light');
+        },
+      },
+    },
+    bonusFirst: ['healingLight'],
+  };
+};
+
+// College of Eloquence: a Bardic Inspiration die taken off the strongest enemy's saves until the bard's next turn
+const unsettlingWords = (x) => {
+  const L = x.lvl('bard');
+  const avg = Math.round(((L >= 15 ? 12 : L >= 10 ? 10 : L >= 5 ? 8 : 6) + 1) / 2);
+  const n = x.uses('bardic inspiration', Math.max(1, x.mod('cha')));
+  const pick = (E, c) => foes(E, c).filter((t) => !E.fxOf(t, 'unsettled')).sort((a, b) => b.hp - a.hp)[0] || null;
+  return {
+    actions: {
+      unsettle: {
+        kind: 'special', name: 'Unsettling Words', cost: 'bonus', aiTarget: pick,
+        when: (E, c) => c.turn.action && used(c, 'inspire') < n - 1 && E.round <= 3 && !!pick(E, c),
+        run(E, c, act, choice) {
+          const t = E.get((choice.targets || [])[0]) || pick(E, c);
+          if (!t) return;
+          spendUse(c, 'inspire');
+          E.log('act', `${c.name} unsettles ${t.name}: ${avg} off its next saving throw.`, c);
+          E.addFx(t, { id: 'unsettled', name: 'Unsettling Words', saveBonus: -avg, ends: { who: c.id, when: 'start', turns: 1 } }, c);
+        },
+      },
+    },
+    bonus: ['unsettle'],
+  };
+};
+
+// Ancestral Guardian
+const markedBy = (name) => ({ fx: 'effect', effect: { id: 'inquisitorsMark', name }, dur: untilMyNextTurn });
+const ancestralProtectors = () => ({
+  hooks: {
+    onHit(E, c, ctx) {
+      if (E.current !== c || c.turn.ancestors || !E.fxOf(c, 'rage') || !weaponHit(ctx)) return null;
+      c.turn.ancestors = true;
+      return { fx: [markedBy('Ancestral Protectors')] };
+    },
+  },
+});
+const spiritShield = (x) => {
+  const dice = `${x.lvl('barbarian') >= 14 ? 4 : x.lvl('barbarian') >= 10 ? 3 : 2}d6`;
+  return {
+    reactions: [{
+      id: 'spiritShield', name: 'Spirit Shield', trigger: 'preDamage', who: 'ally',
+      when: (E, me, ctx) => !!E.fxOf(me, 'rage') && ctx.total >= 8,
+      run(E, me, ctx) { const r = rollDice(E.rng, dice); ctx.mult = Math.max(0, ctx.total - r.total) / ctx.total; ctx.note = `${me.name}'s Spirit Shield takes off ${Math.min(r.total, ctx.total)}`; },
+    }],
+  };
+};
+const surpriseAttack = () => ({
+  hooks: {
+    onHit(E, c, ctx) {
+      if (E.round !== 1 || c.memo.surprised || ctx.tgt.memo.acted) return null;
+      c.memo.surprised = true;
+      return { dmg: [['2d6', ctx.act.dmg[0][1], 'Surprise Attack']] };
+    },
+  },
+});
+// Wild Heart (2024), the bear: while raging, resistance to everything but force, necrotic, psychic and radiant
+const rageOfTheWilds = () => ({
+  hooks: {
+    onTurnStart(E, c) {
+      if (E.fxOf(c, 'rage') && !E.fxOf(c, 'bear')) E.addFx(c, { id: 'bear', name: 'Rage of the Wilds (bear)', resist: ['acid', 'cold', 'fire', 'lightning', 'poison', 'thunder'], endsWhenDown: true }, c);
+    },
+  },
+});
+
+// Arcane Archer: two special arrows between rests
+const arcaneShot = (x) => {
+  const n = x.uses('arcane shot', 2);
+  const dice = x.lvl('fighter') >= 18 ? '4d6' : '2d6';
+  return {
+    hooks: {
+      onHit(E, c, ctx) {
+        if (E.current !== c || c.turn.shot || ctx.melee || !weaponHit(ctx) || used(c, 'arcaneShot') >= n) return null;
+        c.turn.shot = true;
+        spendUse(c, 'arcaneShot');
+        return { dmg: [[dice, 'force', 'Bursting Arrow']] };
+      },
+    },
+  };
+};
+
+// Peace Domain: a d4 once a turn for the bonded, on a roll that would otherwise fail
+const emboldeningBond = (x) => ({
+  onStart(E, c) {
+    const bonded = E.alliesOf(c, true).filter((a) => !a.summonedBy).sort((a, b) => (b.tpl.level || 0) - (a.tpl.level || 0)).slice(0, x.prof);
+    if (bonded.length < 2) return;
+    E.log('info', `${c.name}'s Emboldening Bond joins ${bonded.map((a) => a.name).join(', ')}.`, c);
+    for (const a of bonded) E.addFx(a, { id: 'bond', name: 'Emboldening Bond', boostDie: '1d4', perTurn: true }, c);
+  },
+});
+
+// Grave Domain
+const circleOfMortality = () => ({ flags: { healMaxDown: true } });
+const pathToTheGrave = (x) => {
+  const pick = (E, c) => foes(E, c).filter((t) => t.hp >= 80 && !E.fxOf(t, 'curse')).sort((a, b) => b.hp - a.hp)[0] || null;
+  return {
+    actions: {
+      pathToTheGrave: {
+        kind: 'special', name: 'Channel Divinity: Path to the Grave', aiTarget: pick,
+        when: (E, c) => E.round <= 3 && channelLeft(x, c) > 0 && friends(E, c).length > 0 && !!pick(E, c),
+        run(E, c, act, choice) {
+          const t = E.get((choice.targets || [])[0]) || pick(E, c);
+          if (!t) return;
+          spendUse(c, 'channel');
+          E.log('act', `${c.name} marks ${t.name} for the grave.`, c);
+          E.applyFx(c, t, [{ fx: 'curse' }]);
+        },
+      },
+    },
+    plan: ['pathToTheGrave'],
+  };
+};
+const sentinelAtDeathsDoor = (x) => ({
+  reactions: [{
+    id: 'sentinel', name: "Sentinel at Death's Door", trigger: 'attacked', who: 'allyOrSelf', uses: x.uses("sentinel at death's door", Math.max(1, x.mod('wis'))),
+    when: (E, me, ctx) => ctx.crit,
+    run(E, me, ctx) { ctx.noCrit = true; E.log('info', `${me.name} turns the critical hit into a normal hit (Sentinel at Death's Door).`, me); },
+  }],
+});
+
+// Soulknife
+const psychicBlades = (x) => {
+  const line = x.h.attacks.find((a) => /^Psychic Blades: Attack \(DEX\)/.test(a.name)) || x.h.attacks.find((a) => /^Psychic Blades/.test(a.name));
+  if (!line) return null;
+  const flat = (line.dmg.match(/[+-]\d+$/) || [''])[0];
+  return {
+    actions: { psychicBonus: { kind: 'attack', name: 'Psychic Blades (bonus attack)', toHit: line.toHit, melee: false, noRangePenalty: true, dmg: [[`1d4${flat}`, 'psychic']], cost: 'bonus' } },
+    bonus: ['psychicBonus'],
+  };
+};
+const geniesWrath = (x) => oncePerTurn('genie', anyAttack, () => [String(x.prof), 'fire', "Genie's Wrath"]);
+
+// Gift of the Chromatic Dragon
+const chromatic = (x) => ({
+  actions: {
+    chromatic: {
+      kind: 'special', name: 'Chromatic Infusion', cost: 'bonus', noTarget: true, uses: 1,
+      when: (E, c) => foes(E, c).length > 0,
+      run(E, c) { E.log('act', `${c.name} infuses a weapon with dragon fire.`, c); E.addFx(c, { id: 'chromatic', name: 'Chromatic Infusion', extraDmg: [['1d4', 'fire']] }, c); },
+    },
+  },
+  bonusFirst: ['chromatic'],
+  reactions: ['preDamage', 'preHarm'].map((trigger) => ({
+    id: 'reactiveResistance', name: 'Reactive Resistance', trigger, uses: x.prof,
+    when: (E, me, ctx) => ctx.total >= 10 && ctx.parts.some((p) => ['acid', 'cold', 'fire', 'lightning', 'poison'].includes(p.type)),
+    run(E, me, ctx) { ctx.mult = 0.5; ctx.note = 'Reactive Resistance halves it'; },
+  })),
+});
+
+// Hexblade
+const hexbladesCurse = (x) => {
+  const pick = (E, c) => foes(E, c).sort((a, b) => b.hp - a.hp)[0] || null;
+  return {
+    actions: {
+      hexCurse: {
+        kind: 'special', name: "Hexblade's Curse", cost: 'bonus', noTarget: true, uses: x.uses("hexblade's curse", 1),
+        when: (E, c) => !!pick(E, c),
+        run(E, c) { const t = pick(E, c); c.memo.hexed = t.id; E.log('act', `${c.name} lays the Hexblade's Curse on ${t.name}.`, c); },
+      },
+    },
+    [x.weaponFirst ? 'bonusFirst' : 'bonus']: ['hexCurse'],
+    hooks: {
+      attackMods(E, c, ctx) { return ctx.tgt.id === c.memo.hexed ? { critMin: 19 } : null; },
+      onHit(E, c, ctx) { return ctx.tgt.id === c.memo.hexed ? { dmg: [[String(x.prof), ctx.act.dmg[0][1], "Hexblade's Curse"]] } : null; },
+    },
+  };
+};
+// Divine Soul: 2d4 on a failed save or a missed attack, once between rests
+const favoredByTheGods = () => ({
+  hooks: {
+    fixMiss(E, c, ctx) {
+      if (c.used.favored || ctx.gap > 6 || ctx.nat === 1) return null;
+      c.used.favored = 1;
+      return { add: rollDice(E.rng, '2d4').total, label: 'Favored by the Gods' };
+    },
+    forceSave(E, c, ctx) {
+      if (c.used.favored || ctx.o.conc || ctx.total === undefined || ctx.dc - ctx.total > 6) return null;
+      c.used.favored = 1;
+      const r = rollDice(E.rng, '2d4');
+      return ctx.total + r.total >= ctx.dc ? `Favored by the Gods +${r.total}: the save holds` : null;
+    },
+  },
+});
+const wrathOfTheStorm = (x) => ({
+  reactions: [{
+    id: 'wrath', name: 'Wrath of the Storm', trigger: 'hitBy', uses: x.uses('wrath of the storm', Math.max(1, x.mod('wis'))),
+    when: (E, me, ctx) => ctx.melee && E.active(ctx.att),
+    run(E, me, ctx) { E.saveEffect(me, { name: 'Wrath of the Storm', save: 'dex', dc: x.h.dc, dmg: [['2d8', 'lightning']], half: true }, [ctx.att]); },
+  }],
+});
+
+// Mastermind: the Help action as a bonus action, for the friend who hits hardest
+const masterOfTactics = () => {
+  const pick = (E, c) => friends(E, c).filter((a) => !E.fxOf(a, 'helped') && !a.summonedBy && a.tpl.basic).sort((a, b) => E.expected(b, E.action(b, b.tpl.basic)) - E.expected(a, E.action(a, a.tpl.basic)))[0] || null;
+  return {
+    actions: {
+      help: {
+        kind: 'special', name: 'Master of Tactics (Help)', cost: 'bonus', ally: true, aiTarget: pick, when: (E, c) => !!pick(E, c),
+        run(E, c, act, choice) {
+          const t = E.get((choice.targets || [])[0]) || pick(E, c);
+          if (!t) return;
+          E.log('act', `${c.name} helps ${t.name}: advantage on the next attack.`, c);
+          E.addFx(t, { id: 'helped', name: 'Help', advAtk: true, endsOnAttack: true, ends: { who: c.id, when: 'start', turns: 1 } }, c);
+        },
+      },
+    },
+    bonus: ['help'],
+  };
+};
+
+// Clockwork Soul: cancel an enemy's advantage on an attack
+const restoreBalance = (x) => ({
+  reactions: [{
+    id: 'restoreBalance', name: 'Restore Balance', trigger: 'attacked', who: 'allyOrSelf', uses: x.uses('restore balance', x.prof),
+    when: (E, me, ctx) => ctx.mode === 'adv',
+    run(E, me, ctx) { ctx.reroll = 'Restore Balance'; },
+  }],
+});
+
+// Circle of Stars: the omen is weal or woe for the day, by the roll of a die
+const cosmicOmen = (x) => {
+  const n = x.uses('cosmic omen', x.prof);
+  const left = (c) => n - used(c, 'omen');
+  return {
+    onStart(E, c) { c.memo.omen = E.rng.int(2) === 1 ? 'weal' : 'woe'; },
+    reactions: [
+      { id: 'omenWeal', name: 'Cosmic Omen (weal)', trigger: 'saveFailed', who: 'allyOrSelf',
+        when: (E, me, ctx) => me.memo.omen === 'weal' && left(me) > 0 && ctx.dc - ctx.total <= 6 && !ctx.add,
+        run(E, me, ctx) { spendUse(me, 'omen'); ctx.add = rollDice(E.rng, '1d6').total; ctx.note = `${me.name}'s Cosmic Omen`; } },
+      { id: 'omenWoe', name: 'Cosmic Omen (woe)', trigger: 'attacked', who: 'allyOrSelf',
+        when: (E, me, ctx) => me.memo.omen === 'woe' && left(me) > 0 && !ctx.crit && ctx.total - 6 < E.acOf(ctx.tgt) + ctx.acBonus,
+        run(E, me, ctx) { spendUse(me, 'omen'); const r = rollDice(E.rng, '1d6'); ctx.acBonus += r.total; E.log('info', `${me.name}'s Cosmic Omen takes ${r.total} off the attack roll.`, me); } },
+    ],
+  };
+};
+
+// Armorer, Guardian model
+const armorer = (x) => {
+  const L = x.lvl('artificer');
+  return {
+    actions: {
+      defensiveField: {
+        kind: 'special', name: 'Defensive Field', cost: 'bonus', noTarget: true, uses: x.uses('defensive field', x.uses('guardian armor: defensive field', x.prof)),
+        when: (E, c) => c.tempHp <= 0 && foes(E, c).length > 0,
+        run(E, c) { E.tempHp(c, L, 'Defensive Field'); },
+      },
+    },
+    bonusFirst: ['defensiveField'],
+    hooks: { onHit(E, c, ctx) { return /Thunder Gauntlets/i.test(ctx.act.name) ? { fx: [markedBy('Thunder Gauntlets')] } : null; } },
+  };
+};
+
+// Archfey (2024): Misty Step with the Refreshing Step rider, when a little cover helps
+const stepsOfTheFey = (x) => ({
+  actions: {
+    feySteps: {
+      kind: 'special', name: 'Steps of the Fey (Refreshing Step)', cost: 'bonus', noTarget: true, uses: x.uses('steps of the fey', Math.max(1, x.mod('cha'))),
+      when: (E, c) => c.tempHp <= 0 && c.hp < c.maxHp * 0.7 && foes(E, c).length > 0,
+      run(E, c) { const r = rollDice(E.rng, '1d10'); E.log('act', `${c.name} steps through the mist (Refreshing Step).`, c); E.tempHp(c, r.total, 'Refreshing Step'); },
+    },
+  },
+  bonus: ['feySteps'],
+});
+const hiddenStep = (x) => ({
+  actions: {
+    hiddenStep: {
+      kind: 'special', name: 'Hidden Step', cost: 'bonus', noTarget: true, uses: x.uses('hidden step', x.prof),
+      when: (E, c) => c.turn.action && foes(E, c).length > 0,
+      run(E, c) { E.log('act', `${c.name} vanishes (Hidden Step).`, c); E.addFx(c, { cond: 'invisible', name: 'Hidden Step', endsOnAttack: true, ends: { who: c.id, when: 'start', turns: 1 } }, c); },
+    },
+  },
+  bonus: ['hiddenStep'],
+});
+const gunner = (x) => { if (x.tpl.actions.ranged) x.tpl.actions.ranged.noRangePenalty = true; return {}; };
+
+// ---------------------------------------------------------------------------------------------
+// Companions and Wild Shape (the creatures themselves are in companions.js)
+// ---------------------------------------------------------------------------------------------
+const bringAlong = (make) => (x) => ({
+  onStart(E, c) {
+    for (const tpl of [].concat(make(x.h, x))) {
+      const pet = E.spawn(tpl, { side: c.side, name: tpl.name, after: c });
+      pet.summonedBy = c.id;
+      E.log('info', `${tpl.name} is at ${c.name}'s side.`, c);
+    }
+  },
+});
+
+// Artillerist: the cannons are already standing. Firing them takes the maker's bonus action each round.
+const eldritchCannons = (x) => {
+  const two = x.lvl('artificer') >= 15;
+  const part = bringAlong((h, y) => (two ? [cannon(h, y, 'ballista', 1), cannon(h, y, 'second', 2)] : [cannon(h, y, 'ballista', 1)]))(x);
+  const start = part.onStart;
+  return {
+    onStart(E, c) {
+      start(E, c);
+      // with friends to shield, the second cannon is a Protector
+      if (two && friends(E, c).filter((a) => !a.tpl.companion).length >= 2) {
+        const second = E.side(c.side).find((p) => p.summonedBy === c.id && /Cannon 2/.test(p.name));
+        if (second) { second.memo.protector = true; second.name = second.name.replace('Force Ballista', 'Protector'); }
+      }
+    },
+    actions: {
+      fireCannons: {
+        kind: 'special', name: two ? 'Eldritch Cannons (fire)' : 'Eldritch Cannon (fire)', cost: 'bonus', noTarget: true,
+        when: (E, c) => foes(E, c).length > 0 && E.side(c.side).some((p) => p.summonedBy === c.id && p.tpl.companion && E.active(p)),
+        run(E, c) { c.memo.cannons = E.round; },
+      },
+    },
+    bonusFirst: ['fireCannons'],
+  };
+};
+
+// Fathomless: the tentacle strikes as a bonus action
+const tentacle = (x) => ({
+  actions: { tentacle: meleeAttack('Tentacle of the Deeps', x.h.spellHit || 2 + x.prof + x.mod('cha'), [[x.lvl('warlock') >= 10 ? '2d8' : '1d8', 'cold']], { cost: 'bonus', spell: true, weapon: false, melee: false, noRangePenalty: true }) },
+  bonus: ['tentacle'],
+});
+
+// Circle of the Moon: an elemental's body as a bonus action. From 18th level the druid casts as usual in it.
+const wildShape = (x) => {
+  const L = x.lvl('druid');
+  if (!(x.h.subclasses || {}).druid || !/moon/.test(x.h.subclasses.druid)) return null;
+  const ref = L >= 10 ? 'srd-earth-elemental' : L >= 6 ? 'srd-giant-spider' : 'srd-dire-wolf';
+  const casts = L >= 18;
+  const uses = L >= 20 ? undefined : x.uses('wild shape', 2);
+  const ready = (E, c) => {
+    if (!c.tpl.forms) { const f = formFrom(c.tpl, ref, x.h.abil); if (!f) return false; c.tpl.forms = { beast: f }; }
+    return true;
+  };
+  return {
+    actions: {
+      wildShape: {
+        kind: 'special', name: 'Wild Shape', cost: 'bonus', noTarget: true, uses,
+        when: (E, c) => !c.form && foes(E, c).length > 0 && ready(E, c) && (casts || !c.conc || c.hp < c.maxHp * 0.5),
+        run(E, c) { shape(E, c, 'beast'); },
+      },
+    },
+    bonusFirst: ['wildShape'],
+    late: [{ use: 'formStrike', if: (E, c) => !!c.form }],
+    hooks: { onZero: (E, c, ctx) => unshape(E, c, ctx) },
+  };
+};
+
+// Circle of Stars: the Archer's bolt, a bonus action every turn while the form is up
+const starryForm = (x) => ({
+  actions: {
+    starryArcher: {
+      kind: 'attack', name: 'Starry Form (Archer)', toHit: x.h.spellHit, melee: false, noRangePenalty: true, spell: true, weapon: false, cost: 'bonus',
+      dmg: [[`${x.lvl('druid') >= 10 ? 2 : 1}d8+${Math.max(0, x.mod('wis'))}`, 'radiant']],
+    },
+  },
+  bonus: ['starryArcher'],
+});
+
+// ---------------------------------------------------------------------------------------------
 // The book. Several sheet names may lead to one entry; an entry is applied once.
 // ---------------------------------------------------------------------------------------------
 const BOOK = {
@@ -1019,6 +1618,74 @@ const BOOK = {
   'breath weapon': breathWeapon, 'breath weapon (gold)': breathWeapon,
   'great weapon fighting': greatWeapon,
   'two-weapon fighting': offHand, 'dual wielder': offHand,
+  'favored foe': favoredFoe, 'planar warrior': planarWarrior, 'gathered swarm': gatheredSwarm,
+  'spell-storing item': spellStoring, 'sonic beam (spell-storing item)': spellStoring,
+  bladesong,
+  'focused aim': focusedAim, 'deft strike': deftStrike, 'hand of harm': handOfHarm, "physician's touch": handOfHarm, 'hand of healing': handOfHealing,
+  'open hand technique': openHand, 'flurry of blows: topple': openHand, 'flurry of blows: addle': openHand, 'flurry of blows: push': openHand,
+  'wholeness of body': wholeness,
+  'grovel, cower, and beg': grovel, 'pack tactics': packTactics,
+  'healing hands': healingHands,
+  'radiant soul': revelation('radiantSoul', 'Radiant Soul', 'radiant', false), 'necrotic shroud': revelation('necroticShroud', 'Necrotic Shroud', 'necrotic', true),
+  'healing light': healingLight, 'healing light: expend healing': healingLight,
+  'unsettling words': unsettlingWords,
+  'ancestral protectors': ancestralProtectors, 'spirit shield': spiritShield, 'surprise attack': surpriseAttack, 'rage of the wilds': rageOfTheWilds,
+  'arcane shot': arcaneShot, 'bursting arrow': arcaneShot, 'grasping arrow': arcaneShot,
+  'emboldening bond': emboldeningBond,
+  'circle of mortality': circleOfMortality, 'channel divinity: path to the grave': pathToTheGrave, "sentinel at death's door": sentinelAtDeathsDoor,
+  'psychic blades': psychicBlades, 'psychic blades: attack (dex)': psychicBlades, 'psychic blades: attack (str)': psychicBlades,
+  'psychic blades: bonus attack (dex)': psychicBlades, 'psychic blades: bonus attack (str)': psychicBlades,
+  "genie's wrath (efreeti)": geniesWrath, "genie's wrath": geniesWrath,
+  'gift of the chromatic dragon': chromatic, 'gift of the chromatic dragon: chromatic infusion': chromatic, 'gift of the chromatic dragon: reactive resistance': chromatic,
+  "hexblade's curse": hexbladesCurse, 'favored by the gods': favoredByTheGods, 'wrath of the storm': wrathOfTheStorm,
+  'master of tactics': masterOfTactics,
+  'restore balance': restoreBalance,
+  'cosmic omen': cosmicOmen,
+  guardian: armorer, 'thunder gauntlets': armorer, 'defensive field': armorer, 'guardian armor: defensive field': armorer,
+  'guardian armor: thunder gauntlets': armorer, 'guardian armor: thunder gauntlets (str)': armorer,
+  'steps of the fey': stepsOfTheFey, 'misty step: refreshing step': stepsOfTheFey, 'misty step: taunting step': stepsOfTheFey,
+  'hidden step': hiddenStep,
+  gunner,
+  'crossbow expert attack': crossbowExpert,
+  // companions and forms
+  'steel defender': bringAlong(steelDefender),
+  'drake companion': bringAlong(drake), 'drake companion (fire)': bringAlong(drake), 'drake companion: command': bringAlong(drake), 'drake companion: summon': bringAlong(drake),
+  "ranger's companion": bringAlong(primalBeast), 'beast of the land': bringAlong(primalBeast), 'primal companion: take action': bringAlong(primalBeast),
+  'eldritch cannon': eldritchCannons, 'create eldritch cannon': eldritchCannons, 'eldritch cannon: force ballista': eldritchCannons,
+  'eldritch cannon: protector': eldritchCannons, 'eldritch cannon: flamethrower': eldritchCannons, 'explosive cannon': eldritchCannons,
+  'tentacle of the deeps': tentacle, 'tentacle of the deeps: attack': tentacle, 'tentacle of the deeps: move': tentacle, 'tentacle of the deeps: summon': tentacle,
+  'wild shape': wildShape, 'combat wild shape': wildShape, 'circle forms': wildShape, 'elemental wild shape': wildShape, archdruid: wildShape,
+  'starry form': starryForm, 'starry form: archer': starryForm, 'starry form: chalice': starryForm, 'starry form: dragon': starryForm, 'twinkling constellations': starryForm,
+  'deflect missiles attack': deflect, 'deflect attack: redirect attack': deflect,
+};
+
+// Has an effect in a fight, and is left out on purpose. The reason is shown with the name.
+const SKIPPED = {
+  'dragon wings': 'flight is not run: a flying character could not be reached by anything on the ground',
+  'split time, shared mind': 'the engine holds one concentration spell for each caster',
+  'time shift': 'changes places with a friend, which the three ranks do not show',
+  'channel divinity: abjure enemy': 'the Channel Divinity always goes to Vow of Enmity',
+  'channel divinity: balm of peace': 'the Channel Divinity is kept for other uses',
+  'careful spell': 'spells do not catch friends in this simulator',
+  'distant spell': 'range is not measured',
+  'agile parry': 'gives up weapon damage for armour class, which the character would rarely choose',
+  "kensei's shot": 'the bonus action goes to Flurry of Blows',
+  'quickened healing': 'a weak use of ki in a fight',
+  'empowered healing': 'a small gain on healing dice',
+  'psionic sorcery': 'casting psionic spells from sorcery points is not run',
+  'psychic defenses': 'advantage against charm and fright is not run',
+  'wild surge': 'the Wild Magic table is not run',
+  'elemental adept (lightning)': 'ignoring resistance is not run',
+  'reactive spell': 'a spell in place of an opportunity attack is not run',
+  'perfected armor': 'the pull of the Guardian armour is not run', 'perfected armor - guardian': 'the pull of the Guardian armour is not run', 'perfected armor: guardian': 'the pull of the Guardian armour is not run',
+  'telekinetic - shove': 'a five-foot shove does not change a rank', 'telekinetic (charisma)': 'a five-foot shove does not change a rank',
+  'sunlight sensitivity': 'the light is not tracked',
+  'instinctive pounce': 'movement is not measured',
+  'psionic power: psionic energy': 'the dice are spent outside a fight', 'psionic power: recovery': 'the dice are spent outside a fight',
+  'pact of the chain features: bombyx mori': 'the moth does not fight; it holds a second concentration spell, which is not run',
+  'detonate eldritch cannon': 'the cannons are kept firing',
+  'fortified position': 'cover from the cannons is not run',
+  'second wind: tactical shift': 'movement is not measured', 'tactical shift': 'movement is not measured',
 };
 
 // Already inside the sheet's own numbers (armour class, attack bonus, damage, hit points, initiative,
@@ -1027,7 +1694,7 @@ const IN_NUMBERS = [
   'extra attack', 'fighting style', 'archery', 'dueling', 'defense', 'unarmored defense', 'martial arts', 'tough', 'alert',
   'spellcasting', 'pact magic', 'font of magic', 'metamagic', 'sorcery points', 'quickened spell', 'twinned spell', 'empowered spell',
   'heightened spell', 'subtle spell', 'metamagic adept', 'sorcery points (metamagic adept)', 'ki', 'ki points', 'focus points', "monk's focus",
-  'ki-empowered strikes', 'empowered strikes', 'unarmed strike', 'unarmed strike (dex.)', 'draconic resilience', 'agonizing blast',
+  'ki-empowered strikes', 'ki-fueled attack', 'psychic resilience', 'fighting style: thrown weapon fighting', 'arms of the astral self', 'arms of the astral self (wis.)', 'arms of the astral self: summon', 'empowered strikes', 'unarmed strike', 'unarmed strike (dex.)', 'draconic resilience', 'agonizing blast',
   'agonizing blast (eldritch blast)', 'eldritch invocations', 'channel divinity', 'destroy undead', 'lay on hands pool', 'lay on hands: heal',
   'lay on hands: healing pool', 'potent spellcasting', 'expertise', 'jack of all trades',
   'dexterous attacks', 'thrown weapon fighting', 'fighting style feat', 
@@ -1074,7 +1741,8 @@ const OUTSIDE = [
   /mask of the wild|naturally stealthy|psychic whispers|psi-bolstered knack|scribe's insight|severed from dreams|skill versatility|sneaky|speech of beast/,
   /star map|thri-kreen telepathy|tireless|variant tiefling|wards and seals|warped being|unfailing inspiration|tactical mind|metamorphosis|mortal coil/,
   /lay on hands: purify poison|remarkable athlete|eldritch master|^flight$|slow \(javelin\)|shotgun, \+1|thousand forms|beast spells|^psionic power$|^brace$/,
-  /channel divinity: (charm animals|abjure enemy)|fancy footwork|magical inspiration|time shift|chronostride|dragon wings|primal strike|slippery mind/,
+  /channel divinity: charm animals|fancy footwork|magical inspiration|chronostride|primal strike|slippery mind|otherworldly presence|seeker of souls/,
+  /invasive thoughts|eyes of the grave|one with the blade|^claws$|power armor - create armor|arcane armor - create armor/,
   /^\d+: ability|draconic flight \(passive\)|blessed strikes?: |evocation savant/,
 ];
 
@@ -1089,28 +1757,31 @@ export function featureParts(h, tpl, base = {}) {
     uses: (n, d) => ((h.features || {})[n] || {}).uses || d,
     has: (n) => names.includes(n),
   };
-  const parts = []; const run = []; const numbers = []; const outside = []; const unknown = [];
+  const parts = []; const run = []; const numbers = []; const outside = []; const unknown = []; const skipped = [];
   const done = new Set();
+  const nulled = new Set();
   for (const n of names) {
     const entry = BOOK[n];
     if (entry) {
-      if (done.has(entry)) { run.push(n); continue; }
+      if (done.has(entry)) { (nulled.has(entry) ? outside : run).push(n); continue; }
       done.add(entry);
       const part = entry(x);
-      if (part) { parts.push(part); run.push(n); } else outside.push(n);
-    } else if (IN_NUMBERS.includes(n)) numbers.push(n);
+      if (part) { parts.push(part); run.push(n); } else { outside.push(n); nulled.add(entry); }
+    } else if (SKIPPED[n]) skipped.push(n);
+    else if (/^(sap|vex|topple|nick|graze) \(.+\)$/.test(n)) run.push(n);
+    else if (IN_NUMBERS.includes(n)) numbers.push(n);
     else if (/ spells$| magic$/.test(n) && !/^(spell|wild|fairy)|war magic/.test(n)) numbers.push(n);
     else if (OUTSIDE.some((re) => re.test(n)) || /\((sap|vex|topple|nick|graze|slow|push|cleave)\)$/.test(n)) outside.push(n);
     else unknown.push(n);
   }
   // options written "longsword (sap)" belong to Weapon Mastery even when the feature line is missing
-  if (!done.has(mastery) && (h.options || []).some((o) => /\((sap|vex|topple|nick|graze)\)$/.test(o))) {
+  if (!done.has(mastery) && names.some((o) => /\((sap|vex|topple|nick|graze)\)$|^(sap|vex|topple|nick|graze) \(/.test(o))) {
     const part = mastery(x);
     if (part) parts.push(part);
   }
   const drink = potions(x);
   if (drink) parts.push(drink);
-  return { parts, run, numbers, outside, unknown };
+  return { parts, run, numbers, outside, unknown, skipped, why: SKIPPED, x };
 }
 
 // ---------------------------------------------------------------------------------------------
@@ -1148,7 +1819,7 @@ export function applyParts(tpl, parts) {
   const hooks = {};
   const note = (name, fn) => { if (fn) (hooks[name] = hooks[name] || []).push(fn); };
   for (const [k, fn] of Object.entries(tpl.hooks || {})) note(k, fn);
-  const front = []; const bonusFirst = []; const bonus = []; const free = [];
+  const front = []; const bonusFirst = []; const bonus = []; const free = []; const late = [];
   for (const p of parts) {
     Object.assign(tpl.actions, p.actions || {});
     Object.assign(tpl, p.flags || {});
@@ -1156,11 +1827,17 @@ export function applyParts(tpl, parts) {
     bonusFirst.push(...(p.bonusFirst || []));
     bonus.push(...(p.bonus || []));
     free.push(...(p.free || []));
+    late.push(...(p.late || []));
     if (p.reactions) tpl.reactions = [...(tpl.reactions || []), ...p.reactions];
     for (const [k, fn] of Object.entries(p.hooks || {})) note(k, fn);
     note('onFightStart', p.onStart);
   }
   tpl.plan = [...front, ...(tpl.plan || [])];
+  if (late.length) {
+    const routine = (e) => ['meleeRoutine', 'rangedRoutine', 'cantrip', 'cantrip2'].includes(typeof e === 'string' ? e : e && e.use);
+    const at = tpl.plan.findIndex(routine);
+    tpl.plan.splice(at < 0 ? tpl.plan.length : at, 0, ...late);
+  }
   tpl.bonusPlan = [...bonusFirst, ...(tpl.bonusPlan || []), ...bonus];
   if (free.length) tpl.freePlan = [...(tpl.freePlan || []), ...free];
   tpl.hooks = Object.fromEntries(Object.entries(hooks).map(([k, fns]) => [k, compose(k, fns)]));

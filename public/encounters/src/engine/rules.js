@@ -329,7 +329,7 @@ export class Engine {
     }
     let forced = null;
     if (!success) {
-      forced = this.hook(c, 'forceSave', { ability, dc, o });
+      forced = this.hook(c, 'forceSave', { ability, dc, total, o });
       if (forced) success = true;
     }
     if (forced) {
@@ -348,10 +348,10 @@ export class Engine {
 
   // Spend a held bonus die (fx.boostDie) when its best roll could close the gap.
   boost(c, gap) {
-    const f = c.fx.find((x) => x.boostDie && maxDice(x.boostDie) >= gap);
+    const f = c.fx.find((x) => x.boostDie && maxDice(x.boostDie) >= gap && !(x.perTurn && x.lastTurn === this.turnCount));
     if (!f || gap <= 0) return null;
     const r = rollDice(this.rng, f.boostDie);
-    c.fx = c.fx.filter((x) => x !== f);
+    if (f.perTurn) f.lastTurn = this.turnCount; else c.fx = c.fx.filter((x) => x !== f);
     return { total: r.total, text: `${f.name} ${r.text} = +${r.total}` };
   }
 
@@ -667,7 +667,8 @@ export class Engine {
     return total;
   }
 
-  dropped(c, src, { overflow, crit, types, through }) {
+  dropped(c, src, { overflow: over, crit, types, through }) {
+    let overflow = over;
     c.hp = 0;
     // Death Ward and the like
     if (c.tpl.deathWard && !c.used.deathWard) {
@@ -688,8 +689,10 @@ export class Engine {
     const ctx = { tgt: c, subject: c, src, saved: false };
     this.react('dropping', ctx);
     if (ctx.saved) return;
-    const special = this.hook(c, 'onZero', { src, overflow, crit, types });
+    const zero = { src, overflow, crit, types };
+    const special = this.hook(c, 'onZero', zero);
     if (special === 'handled') return;
+    overflow = zero.overflow;
     this.breakConc(c);
     const saves = c.side === 'pc' ? c.tpl.deathSaves !== false : this.rules.bossDeathSaves && c.tpl.boss && c.tpl.type !== 'undead' && c.tpl.type !== 'construct';
     if (saves && overflow < c.maxHp) {

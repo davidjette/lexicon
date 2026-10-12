@@ -9732,15 +9732,6 @@ export const HEROES = [
    "ice storm": 4,
    "wall of fire": 4
   },
-  "bonus": [
-   {
-    "name": "Eldritch Cannon: Force Ballista",
-    "toHit": 11,
-    "dmg": "3d8",
-    "type": "force",
-    "count": 2
-   }
-  ],
   "rogue": 0,
   "barbarian": 0,
   "fighter": 0,

@@ -10,6 +10,7 @@ import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff
 import { avgDice } from '../engine/dice.js';
 import { register } from '../data/registry.js';
 import { featureParts, applyParts } from '../data/features.js';
+import { itemParts } from '../data/items.js';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -117,11 +118,13 @@ export function buildHero(h) {
     basic: bestMelee ? 'melee' : bestRanged ? 'ranged' : 'cantrip', basicN: h.perAction, oa: bestMelee ? 'melee' : undefined,
   };
   const book = featureParts(h, tpl, { frontline, atWill, weaponFirst: !!routines[0] && /Routine$/.test(routines[0][0]) });
-  applyParts(tpl, book.parts);
+  const kit = itemParts(book.x);
+  applyParts(tpl, [...book.parts, ...kit.parts]);
   if (!tpl.reactions || !tpl.reactions.length) tpl.reactions = undefined;
-  tpl.features = { run: book.run, numbers: book.numbers, outside: book.outside, unknown: book.unknown };
+  tpl.items = { run: kit.run, numbers: kit.numbers, outside: kit.outside, skipped: kit.skipped };
+  tpl.features = { run: book.run, numbers: book.numbers, outside: book.outside, unknown: book.unknown, skipped: book.skipped.map((n) => `${n} (${book.why[n]})`) };
   const spellCount = ids.length + (reactions.length || 0);
-  tpl.sub = `${h.classLine} \u00b7 ${h.campaign}${spellCount ? ` \u00b7 ${spellCount} spells run${notRun.length ? `, ${notRun.length} not` : ''}` : ''}${book.run.length ? ` \u00b7 ${book.run.length} features run${book.unknown.length ? `, ${book.unknown.length} not yet` : ''}` : ''}`;
+  tpl.sub = `${h.classLine} \u00b7 ${h.campaign}${spellCount ? ` \u00b7 ${spellCount} spells run${notRun.length ? `, ${notRun.length} not` : ''}` : ''}${book.run.length ? ` \u00b7 ${book.run.length} features run${book.unknown.length + book.skipped.length ? `, ${book.unknown.length + book.skipped.length} not` : ''}` : ''}${kit.run.length + kit.skipped.length ? ` \u00b7 ${kit.run.length} items run${kit.skipped.length ? `, ${kit.skipped.length} not` : ''}` : ''}`;
   return tpl;
 }
 

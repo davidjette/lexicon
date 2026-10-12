@@ -175,7 +175,8 @@ export function cast(key, o = {}) {
       run(E, c, act, choice) {
         const lvl = levelOf(choice);
         const t0 = c.tpl;
-        let r = t0.healMax ? { total: maxDice(diceAt(s.heal, lvl, mod)), text: 'the most the dice can show' } : rollDice(E.rng, diceAt(s.heal, lvl, mod));
+        const atZero = !mass && t0.healMaxDown && (E.get((choice.targets || [])[0]) || c).hp <= 0;
+        let r = t0.healMax || atZero ? { total: maxDice(diceAt(s.heal, lvl, mod)), text: 'the most the dice can show' } : rollDice(E.rng, diceAt(s.heal, lvl, mod));
         if (t0.healAdd) r = { total: r.total + t0.healAdd(lvl), text: `${r.text} +${t0.healAdd(lvl)}` };
         const pool = mass
           ? E.alliesOf(c, true).filter((a) => a.hp < a.maxHp && !E.has(a, 'noHeal')).sort((a, b) => a.hp - b.hp).slice(0, 6)
