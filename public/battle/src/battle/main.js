@@ -202,7 +202,6 @@ async function tryDm() {
 
 async function init() {
   await stage.ready;
-  stage.setBackground();
   await document.fonts.ready;
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
