@@ -1,6 +1,7 @@
 // Sound for the battle screen. Effects are short CC0 clips in assets/sfx (credits there), keyed
-// by cue so a clip can be swapped in one place. Music is optional: it plays only when the local
-// music/ folder holds a manifest.json, and that folder is neither committed nor published.
+// by cue so a clip can be swapped in one place. Music is optional: it plays only when a music/
+// folder beside the page holds a manifest.json. That folder is not committed here; the battle demo
+// (tools/publish_battle.mjs) carries its rendered tracks.
 
 // cue -> clips; one is picked at random each time
 const SFX = {

@@ -127,6 +127,8 @@ async function newFight() {
   shown = 0;
   audio.cue = null;
   playMusic(stage, enc.list.some((c) => c.side === 'monster' && (c.tpl.boss || c.tpl.leg)) ? 'boss' : 'battle');
+  const fightPreset = PRESETS.find((p) => p.id === (stateFor($('preset').value) || {}).presetId);
+  await stage.setBackground(fightPreset && fightPreset.bg);
   await stage.arrange(enc.list);
   await playNew();
   busy = false;
@@ -180,6 +182,7 @@ async function tryDm() {
 
 async function init() {
   await stage.ready;
+  stage.setBackground();
   await document.fonts.ready;
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them

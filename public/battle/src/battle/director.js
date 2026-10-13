@@ -27,6 +27,14 @@ export class Director {
       const e = events[i];
       const d = e.data;
       this.onEvent(e);
+      if (e.kind === 'turn') this.said = null;
+      // what the actor is doing, by name, once per run of the same action
+      if (e.acted && this.unit(e.acted.who) && this.said !== `${e.acted.who}:${e.acted.name}`) {
+        this.said = `${e.acted.who}:${e.acted.name}`;
+        this.unit(e.acted.who).callout(e.acted.name);
+        this.auras(E);
+        await st.wait(160);
+      }
       switch (e.kind) {
         case 'round':
           await this.settle();
@@ -57,10 +65,17 @@ export class Director {
         case 'act': {
           const u = d && this.unit(d.who);
           if (u && d.kind !== 'attack') {
+            const caught = (d.targets || []).map((id) => this.unit(id)).filter(Boolean);
+            // an aura biting someone inside it is the ring's doing, not a new casting
+            if (u.aura && u.auraName === d.act) {
+              u.pulseAura();
+              break;
+            }
             await this.settle(u);
             sfx(st, 'cast');
             await u.pose('magic');
             if (!u.fallen) u.pose('idle');
+            if (d.kind === 'save' && caught.length > 1) st.area(caught, this.colorAhead(events, i));
           }
           break;
         }
@@ -124,6 +139,28 @@ export class Director {
     await this.sync(E);
   }
 
+  // The colour of the first typed damage that follows event i, before the next action starts.
+  colorAhead(events, i) {
+    for (let j = i + 1; j < events.length && events[j].kind !== 'act' && events[j].kind !== 'turn'; j++) {
+      const types = events[j].kind === 'dmg' && events[j].data ? events[j].data.types : [];
+      const t = types.find((x) => TYPE_COLOR[x]);
+      if (t) return TYPE_COLOR[t];
+    }
+    return 0xffffff;
+  }
+
+  // A lasting emanation shows as a ring under its caster for as long as it is up.
+  auras(E) {
+    for (const c of E.list) {
+      const u = this.unit(c.id);
+      if (!u) continue;
+      const f = !c.dead && !c.down && !c.fled ? c.fx.find((x) => x.aura) : null;
+      const type = f && Array.isArray(f.aura.dmg) && f.aura.dmg[0] ? f.aura.dmg[0][1] : null;
+      u.auraName = f ? f.name : null;
+      u.setAura(f ? TYPE_COLOR[type] || 0xe8dfc8 : null);
+    }
+  }
+
   damage(d, big) {
     const u = this.unit(d.tgt);
     if (!u) return;
@@ -180,6 +217,7 @@ export class Director {
       u.setHp(c.hp, c.maxHp, c.tempHp);
       u.setFallen(c.dead || c.down || c.hp <= 0, c.dead);
     }
+    this.auras(E);
     const cur = E.pending && E.pending.actor;
     st.markTurn(cur ? this.unit(cur.id) : null);
   }

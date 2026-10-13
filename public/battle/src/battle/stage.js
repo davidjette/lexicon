@@ -9,10 +9,14 @@ import { TokenBattler } from './token.js';
 import { preloadSfx, sfx } from './audio.js';
 
 export const W = 1200;
-export const H = 600;
+export const H = 675;
 const COLS = { pc: { back: 110, mid: 270, front: 430 }, monster: { front: 770, mid: 930, back: 1090 } };
-const TOP = 262;
-const BOTTOM = 540;
+// where feet may stand. A background is a 16:9 picture whose ground starts about 60% of the way
+// down, so the lines of battlers sit on it.
+const TOP = 412;
+const BOTTOM = 612;
+// A fight names its own picture with `bg: 'file.webp'` on the preset (in assets/backgrounds/).
+export const DEFAULT_BG = 'forest-clearing.webp';
 
 export const TYPE_COLOR = {
   fire: 0xff8a3c, cold: 0x9fd8ff, lightning: 0xffe45c, thunder: 0x7fe0d0, acid: 0xb6e04a, poison: 0x7ac74f,
@@ -116,6 +120,36 @@ export class Unit {
     s.tweens.add({ targets: t, y: t.y - 46, alpha: 0, duration: 1000, ease: 'Quad.easeOut', onComplete: () => t.destroy() });
   }
 
+  // The name of what this combatant is doing, shown over its head for a moment.
+  callout(text) {
+    const s = this.scene;
+    if (this.call) this.call.destroy();
+    const t = s.add.text(this.node.x, this.node.y - this.b.height - 30, text, { fontFamily: 'Cinzel, serif', fontSize: 19, color: '#f3e7c4', backgroundColor: 'rgba(18, 15, 24, 0.86)', padding: { x: 10, y: 5 }, stroke: '#000', strokeThickness: 2 }).setOrigin(0.5).setDepth(5200);
+    t.x = Math.max(t.width / 2 + 6, Math.min(W - t.width / 2 - 6, t.x));
+    t.y = Math.max(t.height / 2 + 4, t.y);
+    this.call = t;
+    s.tweens.chain({ targets: t, tweens: [{ scale: { from: 0.8, to: 1 }, duration: 110 }, { alpha: 1, duration: 1250 }, { alpha: 0, duration: 300 }], onComplete: () => { t.destroy(); if (this.call === t) this.call = null; } });
+  }
+
+  // A lasting emanation (Spirit Guardians and the like): a ring on the ground that follows its
+  // caster. null takes it away.
+  setAura(color) {
+    if (color === (this.auraColor ?? null)) return;
+    this.auraColor = color;
+    if (this.aura) { this.aura.destroy(); this.aura = null; }
+    if (color === null) return;
+    const k = Math.abs(this.node.scaleX) || 1;
+    const ring = this.scene.add.ellipse(0, 0, 270 / k, 92 / k, color, 0.16).setStrokeStyle(3 / k, color, 0.85);
+    this.node.addAt(ring, 0);
+    this.scene.tweens.add({ targets: ring, alpha: 0.45, duration: 900, yoyo: true, repeat: -1, ease: 'Sine.easeInOut' });
+    this.aura = ring;
+  }
+
+  pulseAura() {
+    if (!this.aura) return;
+    this.scene.tweens.add({ targets: this.aura, scale: 1.25, duration: 160, yoyo: true });
+  }
+
   flash(color = 0xffffff) {
     const s = this.scene;
     const g = s.add.circle(this.node.x, this.node.y - this.b.mid, 26, color, 0.85).setDepth(4000);
@@ -181,7 +215,7 @@ export class Stage extends Phaser.Scene {
     this.add.rectangle(W / 2, TOP - 56, W, 2, 0x34303f);
     for (const [side, cols] of Object.entries(COLS)) {
       for (const [line, x] of Object.entries(cols)) {
-        this.add.text(x, H - 16, line.toUpperCase(), { fontFamily: 'Spectral SC, serif', fontSize: 13, color: side === 'pc' ? '#5f7fa8' : '#a8684f' }).setOrigin(0.5);
+        this.add.text(x, H - 14, line.toUpperCase(), { fontFamily: 'Spectral SC, serif', fontSize: 13, color: side === 'pc' ? '#9db8dc' : '#dc9a80', stroke: '#000', strokeThickness: 3 }).setOrigin(0.5).setDepth(2);
       }
     }
     this.banner = this.add.text(W / 2, 46, '', { fontFamily: 'Cinzel, serif', fontSize: 30, color: '#e8dfc8', stroke: '#000', strokeThickness: 6 }).setOrigin(0.5).setDepth(6000).setAlpha(0);
@@ -195,6 +229,27 @@ export class Stage extends Phaser.Scene {
       if (hit.length) this.picking.take(hit[0].id);
     });
     this.markReady();
+  }
+
+  // Puts a picture behind the fight. A missing file leaves the plain field.
+  setBackground(file) {
+    const name = file || DEFAULT_BG;
+    const key = `bg:${name}`;
+    const show = () => {
+      if (!this.textures.exists(key)) return;
+      if (!this.bg) {
+        this.bg = this.add.image(W / 2, H / 2, key).setDepth(1);
+        // a light veil so battlers and their labels stand out from the picture
+        this.add.rectangle(W / 2, H / 2, W, H, 0x0c0a12, 0.18).setDepth(1);
+      }
+      this.bg.setTexture(key).setDisplaySize(W, H);
+    };
+    if (this.textures.exists(key)) return Promise.resolve(show());
+    return new Promise((resolve) => {
+      this.load.image(key, `assets/backgrounds/${name}`);
+      this.load.once('complete', () => { show(); resolve(); });
+      this.load.start();
+    });
   }
 
   // Marks the units the player may click as a target; null clears the marks.
@@ -264,7 +319,7 @@ export class Stage extends Phaser.Scene {
   }
 
   clear() {
-    for (const u of this.units.values()) for (const o of [u.node, u.label, u.barBack, u.bar, u.hpText]) o.destroy();
+    for (const u of this.units.values()) for (const o of [u.node, u.label, u.barBack, u.bar, u.hpText, u.call]) if (o) o.destroy();
     this.units.clear();
     this.pick(null);
     this.turnMark.setVisible(false);
@@ -278,6 +333,17 @@ export class Stage extends Phaser.Scene {
   markTurn(u) {
     if (!u) return this.turnMark.setVisible(false);
     this.turnMark.setPosition(u.home.x, u.home.y - u.b.height - 14).setVisible(true);
+  }
+
+  // An area effect landing: one patch of colour over everyone it catches.
+  area(units, color = 0xffffff) {
+    if (!units.length) return;
+    const x0 = Math.min(...units.map((u) => u.node.x - u.half)) - 14;
+    const x1 = Math.max(...units.map((u) => u.node.x + u.half)) + 14;
+    const y0 = Math.min(...units.map((u) => u.node.y - u.b.height)) - 10;
+    const y1 = Math.max(...units.map((u) => u.node.y)) + 22;
+    const g = this.add.ellipse((x0 + x1) / 2, (y0 + y1) / 2, (x1 - x0) * 1.15, (y1 - y0) * 1.15, color, 0.3).setStrokeStyle(3, color, 0.9).setDepth(3900).setScale(0.6);
+    this.tweens.chain({ targets: g, tweens: [{ scale: 1, duration: 170, ease: 'Quad.easeOut' }, { alpha: 0, duration: 620 }], onComplete: () => g.destroy() });
   }
 
   bolt(from, to, color = 0xffffff) {

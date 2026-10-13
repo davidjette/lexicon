@@ -131,6 +131,11 @@ export class Engine {
     if (this.quiet) return;
     const e = { n: this.events.length, round: this.round, kind, actor: actor ? actor.id : null, text };
     if (data) e.data = data;
+    // the first thing an action logs carries who acted and what it was called
+    if (this.acted) {
+      if (kind !== 'turn' && kind !== 'round') e.acted = this.acted;
+      this.acted = null;
+    }
     this.events.push(e);
   }
 
@@ -1056,6 +1061,7 @@ export class Engine {
   }
 
   run(c, act, choice) {
+    if (act.kind !== 'multi') this.acted = { who: c.id, name: act.name };
     switch (act.kind) {
       case 'attack': {
         // one attack only for Haste's extra action, and for a slowed creature
