@@ -476,7 +476,10 @@ export class Engine {
     engage(att, tgt);
     this.log('move', `${att.name} closes with ${tgt.name}.`, att, { who: att.id, to: tgt.id });
     // with the ranks rule, walking into an emanation on your own turn means meeting it at once
-    if (this.rules.ranks && this.current === att) this.auraEnter(att);
+    if (this.rules.ranks && this.current === att) {
+      this.auraEnter(att);
+      this.auraCarry(att, tgt);
+    }
     this.react('entersReach', { subject: att, mover: att, tgt: att, into: tgt });
     return this.active(att) && isEngaged(att, tgt);
   }
@@ -1007,6 +1010,17 @@ export class Engine {
       if (caster.side === c.side || !this.active(caster)) continue;
       for (const f of caster.fx) {
         if (f.aura && this.active(c) && enemiesInAura(this, caster).includes(c)) this.auraHit(caster, f, c);
+      }
+    }
+  }
+
+  // A caster who steps into a rank to strike brings their emanation with them: everyone on the
+  // other side in that rank meets it then, once a turn as always.
+  auraCarry(caster, tgt) {
+    for (const f of caster.fx) {
+      if (!f.aura) continue;
+      for (const e of this.enemiesOf(caster)) {
+        if (this.active(caster) && this.present(e) && e.pos === tgt.pos) this.auraHit(caster, f, e);
       }
     }
   }
