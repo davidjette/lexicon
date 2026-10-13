@@ -30,13 +30,15 @@
     .hud-row { display: flex; flex-wrap: wrap; gap: 8px; }
     #stage canvas { cursor: default; }
     #stage-wrap { position: relative; }
-    #select { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: safe center; gap: 14px; padding: 20px; background: rgba(15, 13, 19, 0.9); border-radius: 6px; overflow-y: auto; }
+    #select { position: absolute; top: 0; bottom: 0; left: 50%; width: 24%; min-width: 240px; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; justify-content: safe center; gap: 12px; padding: 14px; background: rgba(15, 13, 19, 0.88); overflow-y: auto; }
     #select[hidden] { display: none; }
-    #select h1 { font-family: 'Cinzel', serif; font-size: 34px; margin: 0; color: #e8dfc8; }
+    #select h1 { font-family: 'Cinzel', serif; font-size: 26px; margin: 0; color: #e8dfc8; text-align: center; }
+    #select-list .btn.chosen { border-color: #e8c66a; color: #e8c66a; }
+    #fight { font-size: 22px; padding: 10px 34px; }
     .select-mode { display: flex; gap: 8px; }
     #select-list { display: flex; flex-direction: column; gap: 8px; width: min(560px, 100%); }
-    #select-list .btn { text-align: left; font-size: 17px; padding: 10px 14px; }
-    .select-note { font-size: 14px; opacity: 0.7; margin: 0; }
+    #select-list .btn { text-align: left; font-size: 15px; padding: 8px 12px; }
+    .select-note { font-size: 13px; opacity: 0.7; margin: 0; text-align: center; }
     .credit { font-size: 12px; opacity: 0.6; margin-top: 8px; }
   </style>
 </head>
@@ -66,6 +68,7 @@
           <button id="pick-play" class="btn small">Play the party</button>
           <button id="pick-watch" class="btn small ghost">Watch</button>
         </div>
+        <button id="fight" class="btn primary">Fight!</button>
         <div id="select-list"></div>
         <p class="select-note">More fights: set one up on the <a href="../encounters/">builder page</a> and press Battle screen.</p>
       </div>

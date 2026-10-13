@@ -312,7 +312,7 @@ export function makeEric(o = {}) {
           const t = E.get(choice.targets[0]);
           if (!t) return;
           const lvl = choice.level || 3;
-          E.saveEffect(c, { name: `Fireball (level ${lvl})`, save: 'dex', dc, dmg: [[`${5 + lvl}d6`, 'fire']], half: true, spell: true, isArea: true }, areaTargets(E, c, t, { max: 6, spread: 0.2 }));
+          E.saveEffect(c, { name: `Fireball (level ${lvl})`, save: 'dex', dc, dmg: [[`${5 + lvl}d6`, 'fire']], half: true, spell: true, isArea: true }, areaTargets(E, c, t, { max: 6, spread: 0.2, size: 6 }));
         },
       },
       bless: { kind: 'buff', name: 'Bless', slot: 1, spell: true, conc: true, effect: { id: 'bless', name: 'Bless', atkDice: '1d4', saveDice: '1d4' } },

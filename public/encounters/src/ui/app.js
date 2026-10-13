@@ -77,6 +77,7 @@ const RULES_UI = [
   { key: 'bossDeathSaves', label: 'Named living bosses make death saves at 0', check: true },
   { key: 'attackDowned', label: 'Monsters keep attacking a character at 0', check: true },
   { key: 'parryHalves', label: "Gemma's Parry halves the hit (as run); off = d8+4", check: true },
+  { key: 'ranks', label: "Area spells hit every enemy in the target's rank; big ones hit two ranks", check: true },
   { key: 'healFromZeroProne', label: 'Healed from 0 means up but prone', check: true },
   { key: 'maxRounds', label: 'Stop after this many rounds', number: true, input: true },
 ];
@@ -488,6 +489,17 @@ function start() {
   return true;
 }
 
+// Hands the fight as set up here to the battle screen, in a new tab.
+function toBattle() {
+  if (!state.rows.some((r) => r.side === 'pc') || !state.rows.some((r) => r.side === 'monster')) {
+    $('result').textContent = 'Both sides need at least one combatant.';
+    return;
+  }
+  localStorage.setItem('battle-fight', JSON.stringify({ presetId: state.presetId, sw: state.sw, rows: state.rows, rules: state.rules, flags: state.flags, prebuffs: state.prebuffs, seed: state.seed }));
+  // the published builder sends the fight to the battle page beside it (<html data-battle="../battle/">)
+  window.open(`${document.documentElement.dataset.battle || 'battle.html'}?from=builder`, '_blank');
+}
+
 function step() {
   if (!enc) return start();
   if (!enc.over) enc.step();
@@ -642,6 +654,7 @@ function init() {
   $('autoBtn').onclick = toggleAuto;
   $('endBtn').onclick = () => { if (!enc && !start()) return; stopAuto(); enc.runToEnd(); renderAll(); };
   $('resetBtn').onclick = () => { resetFight(); renderAll(true); };
+  $('battleBtn').onclick = toBattle;
   $('logFilter').onchange = (e) => { state.logFilter = e.target.value; renderLog(true); };
   $('logCompact').onchange = (e) => { state.logCompact = e.target.checked; renderLog(true); };
   $('exportTxt').onclick = () => exportLog(false);

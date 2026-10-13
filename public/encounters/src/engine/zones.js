@@ -72,15 +72,34 @@ export function alliesInAura(E, c) {
   return cluster(E, c).filter((x) => E.present(x));
 }
 
+const RANKS = ['front', 'mid', 'back'];
+const rankOf = (c) => (RANKS.includes(c.pos) ? c.pos : 'front');
+
+// With the table rule `ranks` on: an area aimed at a creature catches every enemy in that
+// creature's rank, with no cap. A big area (a spell-book size of 6, or a spread of half or more)
+// also catches the neighbouring rank, the fuller one where there are two.
+function rankTargets(foes, primary, { spread, size }) {
+  const mine = rankOf(primary);
+  const caught = [mine];
+  if (size >= 6 || spread >= 0.5) {
+    const count = (r) => foes.filter((f) => rankOf(f) === r).length;
+    const beside = mine === 'mid' ? (count('back') > count('front') ? 'back' : 'front') : 'mid';
+    caught.push(beside);
+  }
+  return [primary, ...foes.filter((f) => f !== primary && caught.includes(rankOf(f)))];
+}
+
 // Targets of an area effect aimed at `primary`. `spread` is the chance that a creature on the
 // same side who is not standing with the primary is caught anyway (big cones and bursts).
-export function areaTargets(E, caster, primary, { max = 99, spread = 0, type = 'near' } = {}) {
+// `size` is the spell book's size for the area, where it has one.
+export function areaTargets(E, caster, primary, { max = 99, spread = 0, type = 'near', size = 0 } = {}) {
   const foes = E.enemiesOf(caster).filter((x) => E.present(x));
   if (type === 'all') return foes.slice(0, max);
   if (type === 'engaged') {
     return foes.filter((x) => caster.engaged.has(x.id)).slice(0, max);
   }
   if (!primary) return [];
+  if (E.rules.ranks) return rankTargets(foes, primary, { spread, size });
   const group = new Set(cluster(E, primary).map((x) => x.id));
   const out = [primary];
   for (const f of foes) {

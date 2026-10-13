@@ -214,7 +214,7 @@ export function cast(key, o = {}) {
     const fits = (E, t) => !E.has(t, s.cond) && !E.condImmune(t, s.cond) && (!s.only || t.tpl.type === s.only);
     const base = save(s.name, s.save, dc, null, {
       spell: true, conc: s.conc,
-      area: s.area ? { type: 'near', max: s.area, spread: 0.3 } : undefined,
+      area: s.area ? { type: 'near', max: s.area, spread: 0.3, size: s.area } : undefined,
       only: fits,
       onFail: [{ fx: 'cond', cond: s.cond, name: s.name, conc: s.conc, endsOnDamage: s.endsOnDamage, more: s.more, saveEnds: s.repeat ? { ability: s.save, dc, spell: true } : undefined }],
     });
@@ -316,7 +316,7 @@ export function cast(key, o = {}) {
         E.attack(c, t, i === 0 ? a : { ...a, dmg: a.plain }, {});
       }
     } else {
-      const targets = s.area ? areaTargets(E, c, t, { max: s.area, spread: s.area >= 6 ? 0.3 : 0.15 }) : [t];
+      const targets = s.area ? areaTargets(E, c, t, { max: s.area, spread: s.area >= 6 ? 0.3 : 0.15, size: s.area }) : [t];
       const rolled = used(choice, 'empowered') ? empoweredRoll(E, c, dice) : dice;
       const eff = { name, save: s.save, dc, dmg: [[rolled, s.type]], half: s.half, spell: true, isArea: !!s.area };
       if (used(choice, 'heightened')) eff.disFor = (E2, x) => x === t;

@@ -8,6 +8,8 @@ import { AI } from './ai.js';
 
 export class Encounter extends Engine {
   // setup: { pcs: [{ tpl, name, near, pos }], monsters: [...], rules, seed, scenario }
+  // setup.control: { side: 'pc' } hands that side's turns to a player (the battle screen). Absent, every
+  // turn is scripted.
   // scenario: { waves: [{ round, spawn: [[tpl, n]], side, label, every }], initAdv: 'pc' | 'monster', flags, endOnFlee }
   constructor(setup) {
     super({ rules: setup.rules, seed: setup.seed });
@@ -17,6 +19,7 @@ export class Encounter extends Engine {
     this.waves = (this.scenario.waves || []).map((w) => ({ ...w }));
     this.corpses = this.scenario.corpses || 0;
     this.quiet = !!setup.quiet;
+    this.control = setup.control || null;
     for (const p of setup.pcs || []) this.add(p.tpl, { side: 'pc', name: p.name, near: p.near, pos: p.pos });
     for (const m of setup.monsters || []) this.add(m.tpl, { side: 'monster', name: m.name, near: m.near, pos: m.pos });
     // "near" was given as a template id or name; resolve it to a combatant
@@ -207,7 +210,19 @@ export class Encounter extends Engine {
         const skip = this.hook(c, 'skipTurn', {});
         if (skip) this.log('info', `${c.name} ${skip}`, c);
         else if (this.has(c, 'dominated')) this.dominatedTurn(c);
-        else {
+        else if (this.playerRuns(c)) {
+          // the player picks each action; the turn ends on a pass or when nothing is left to do
+          for (let n = 0; n < 12; n++) {
+            if (!this.active(c) || this.incapacitated(c) || this.over) break;
+            if (this.ai.options(this, c, 'turn', { full: true }).every((o) => o.pass || o.withdraw)) break;
+            const d = { actor: c, kind: 'turn', choice: null, human: true };
+            yield d;
+            if (this.over || !this.active(c)) break;
+            if (!d.choice || d.choice.pass) break;
+            this.execute(c, d.choice);
+            this.checkEnd();
+          }
+        } else {
           for (let n = 0; n < 12; n++) {
             if (!this.active(c) || this.incapacitated(c) || this.over) break;
             const choice = this.ai.next(this, c);
@@ -236,6 +251,11 @@ export class Encounter extends Engine {
     this.tickFx(c, 'end');
     if (this.alive(c)) this.hook(c, 'onTurnEnd', {});
     this.checkEnd();
+  }
+
+  // Summoned creatures and companions stay scripted.
+  playerRuns(c) {
+    return !!this.control && this.control.side === c.side && !c.summonedBy;
   }
 
   // A dominated creature spends its turn attacking a friend with its basic attack.

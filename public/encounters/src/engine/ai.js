@@ -209,8 +209,9 @@ export const AI = {
     return pool.length ? E.rng.pick(pool) : null;
   },
 
-  // Everything the actor could legally do right now, for the override menu.
-  options(E, c, kind) {
+  // Everything the actor could legally do right now, for the override menu. `full` is for a player
+  // running the turn: it adds free actions, the slot levels a spell can be cast at, and pulling back.
+  options(E, c, kind, { full = false } = {}) {
     const out = [];
     const foes = E.enemiesOf(c).map((t) => ({ id: t.id, name: t.name }));
     const friends = E.alliesOf(c, true).map((t) => ({ id: t.id, name: t.name }));
@@ -218,6 +219,10 @@ export const AI = {
       const pool = act.ally || act.kind === 'heal' || act.kind === 'buff' ? friends : foes;
       const none = act.self || (act.area && (act.area.type === 'engaged' || act.area.type === 'all')) || act.noTarget;
       const base = { act: id, name: act.name, cost: extra.cost || act.cost || 'action', targets: none ? [] : pool, ...extra };
+      if (full && act.slot && c.slots && !act.pact) {
+        const levels = Object.keys(c.slots).map(Number).filter((l) => l >= act.slot && c.slots[l] > 0);
+        if (levels.length > 1) base.levels = levels;
+      }
       if (act.kind === 'multi' && act.options.length > 1) {
         act.options.forEach((o, i) => out.push({ ...base, opt: i, name: `${act.name}: ${o.map((s) => (E.action(c, s) || {}).name).join(' + ')}` }));
       } else out.push(base);
@@ -232,11 +237,12 @@ export const AI = {
     } else {
       for (const [id, act] of Object.entries(E.actions(c))) {
         const cost = act.cost || 'action';
-        if (cost !== 'action' && cost !== 'bonus') continue;
+        if (cost !== 'action' && cost !== 'bonus' && !(full && cost === 'free')) continue;
         if (act.hidden) continue;
         if (E.usable(c, id)) push(id, act);
       }
     }
+    if (full && kind === 'turn' && c.engaged.size) out.push({ withdraw: true, name: 'Pull back', cost: 'move', targets: [] });
     out.push({ pass: true, name: kind === 'turn' ? 'End turn' : 'Pass', targets: [] });
     return out;
   },

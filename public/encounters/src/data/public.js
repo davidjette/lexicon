@@ -17,7 +17,7 @@ const tharLegs = { lr: 2, leg: 3 };
 
 def('foraDollar', {
   name: 'Master Hunter Fora Dollar', cr: 8, type: 'humanoid', side: 'pc', pos: 'back', smart: true,
-  ac: 16, hp: 112, speed: 35, abil: A(14, 20, 16, 12, 16, 10), saves: { str: 6, dex: 9 }, img: 'ranger.webp',
+  ac: 16, hp: 112, speed: 35, abil: A(14, 20, 16, 12, 16, 10), saves: { str: 6, dex: 9 }, img: 'ranger.webp', battler: 'james',
   actions: {
     bow: ranged('Longbow', 9, [['1d8+5', 'piercing']], { vs: [{ when: (E, t) => !!t.memo.quarry, dice: '1d8', type: 'piercing', label: 'Quarry' }] }),
     sword: melee('Shortsword', 9, [['1d6+5', 'piercing']]),
@@ -60,7 +60,7 @@ def('foraDollar', {
 
 def('thar', {
   name: 'General Stockton Thar', cr: 12, type: 'humanoid', smart: true, boss: true, pos: 'mid', ...tharLegs,
-  ac: 17, hp: 110, abil: A(12, 14, 14, 14, 21, 16), saves: { con: 6, int: 6, wis: 9 }, resist: ['fire'], img: 'thar.webp',
+  ac: 17, hp: 110, abil: A(12, 14, 14, 14, 21, 16), saves: { con: 6, int: 6, wis: 9 }, resist: ['fire'], img: 'thar.webp', battler: 'general',
   actions: {
     staff: melee('Dragon Staff', 9, [['1d8+5', 'bludgeoning'], ['3d6', 'fire']]),
     hand: save('Strangling Hand', 'con', 17, [['4d10', 'bludgeoning']], { half: true, onFail: [cond('quiet', { name: 'Strangling Hand', dur: { who: 'src', when: 'end', turns: 1 } })] }),
@@ -78,7 +78,7 @@ def('thar', {
 
 def('redBird', {
   name: 'The Red Bird (Thar)', type: 'beast', smart: true, boss: true, flying: true, size: 'huge', ...tharLegs,
-  ac: 16, hp: 136, abil: A(24, 16, 14, 14, 21, 16), saves: { con: 6, int: 6, wis: 9 }, resist: ['fire'], img: 'red-bird.webp',
+  ac: 16, hp: 136, abil: A(24, 16, 14, 14, 21, 16), saves: { con: 6, int: 6, wis: 9 }, resist: ['fire'], img: 'red-bird.webp', battler: 'firebird',
   actions: {
     beak: melee('Beak', 11, [['2d8+7', 'piercing']]),
     talons: melee('Talons', 11, [['2d6+7', 'slashing']], { onHit: [{ fx: 'grapple', dc: 18 }] }),
@@ -117,7 +117,7 @@ def('redBird', {
 
 def('darkDruid', {
   name: 'Dark Druid', cr: 4, type: 'humanoid', pos: 'mid',
-  ac: 14, hp: 78, abil: A(10, 14, 14, 12, 18, 11), img: 'dark-druid.webp',
+  ac: 14, hp: 78, abil: A(10, 14, 14, 12, 18, 11), img: 'dark-druid.webp', battler: 'witch',
   actions: {
     lash: melee('Thorn Lash', 7, [['2d10', 'piercing']]),
     flame: ranged('Produce Flame', 7, [['3d8', 'fire']]),

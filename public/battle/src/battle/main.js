@@ -56,7 +56,7 @@ function stateFor(presetId) {
 function fillPresets() {
   const sel = $('preset');
   const keep = sel.value || (params.get('from') === 'builder' ? BUILDER : params.get('preset')) || 'replaySummit';
-  const sent = DEMO ? null : builderFight();
+  const sent = builderFight();
   const count = (side) => sent.rows.filter((r) => r.side === side).length;
   sel.replaceChildren(
     ...(sent ? [new Option(`From the builder: ${count('pc')} against ${count('monster')}`, BUILDER)] : []),
@@ -76,28 +76,42 @@ async function playNew() {
   }
 }
 
-// The selection screen: every fight on offer, over the stage, with the theme playing.
+// The staging screen: the fights on offer down the middle, and the two sides of the chosen one
+// standing on the plain field. Nothing is rolled until Fight! is pressed.
 async function showSelect() {
   fightNo += 1;
   setPlaying(false);
   hud.cancel();
   while (busy) await stage.wait(50);
+  const mine = fightNo;
   enc = null;
-  stage.clear();
-  $('caption').textContent = '';
+  $('log').replaceChildren();
   fillPresets();
   const play = $('mode').value === 'play';
   $('pick-play').classList.toggle('ghost', !play);
   $('pick-watch').classList.toggle('ghost', play);
   $('select-list').replaceChildren(...[...$('preset').options].map((o) => {
     const b = document.createElement('button');
-    b.className = 'btn';
+    b.className = o.value === $('preset').value ? 'btn chosen' : 'btn ghost';
     b.textContent = o.text;
-    b.onclick = () => { $('preset').value = o.value; newFight(); };
+    b.onclick = () => { $('preset').value = o.value; showSelect(); };
     return b;
   }));
   $('select').hidden = false;
   playMusic(stage, 'menu');
+  // line both sides up as they will start
+  stage.clear();
+  stage.hideBackground();
+  $('caption').textContent = '';
+  let ok = true;
+  try {
+    const staged = new Encounter(setupFromState(stateFor($('preset').value), 1));
+    if (mine === fightNo) await stage.arrange(staged.list);
+  } catch {
+    ok = false;
+    $('caption').textContent = 'This fight could not be set up. If it uses DM creatures, unlock the DM pack on the builder page first.';
+  }
+  $('fight').disabled = !ok;
 }
 
 async function newFight() {
@@ -173,7 +187,8 @@ async function run() {
 
 async function tryDm() {
   try {
-    const found = await findPack();
+    // the public copy has no pack of its own; a fight sent from the builder may still need the builder's
+    const found = (await findPack()) || (DEMO ? await findPack('../encounters/') : null);
     if (!found) return;
     const pass = found.kind === 'local' ? null : localStorage.getItem('encounters-dm-pass');
     if (found.kind !== 'local' && !pass) return;
@@ -188,12 +203,8 @@ async function init() {
   await document.fonts.ready;
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
-  if (DEMO) {
-    for (const id of ['preset', 'bg']) $(id).parentElement.style.display = 'none';
-  } else {
-    await import('../library/index.js').catch(() => {});
-    await tryDm();
-  }
+  await import('../library/index.js').catch(() => {});
+  await tryDm();
   fillPresets();
   // a link that names its fight wins over whatever the list fell back to while it was filling
   const asked = params.get('from') === 'builder' ? BUILDER : params.get('preset');
@@ -211,7 +222,8 @@ async function init() {
   // the music slider only shows where there is music to play
   if (!(await loadMusic())) $('music').parentElement.style.display = 'none';
   $('new').onclick = newFight;
-  $('preset').onchange = newFight;
+  $('preset').onchange = () => ($('select').hidden ? newFight() : showSelect());
+  $('fight').onclick = newFight;
   $('mode').value = params.get('mode') || 'play';
   $('mode').onchange = newFight;
   $('step').onclick = () => { setPlaying(false); advance(); };

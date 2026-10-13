@@ -247,9 +247,10 @@ export class Stage extends Phaser.Scene {
       if (!this.bg) {
         this.bg = this.add.image(W / 2, H / 2, key).setDepth(1);
         // a light veil so battlers and their labels stand out from the picture
-        this.add.rectangle(W / 2, H / 2, W, H, 0x0c0a12, 0.18).setDepth(1);
+        this.veil = this.add.rectangle(W / 2, H / 2, W, H, 0x0c0a12, 0.18).setDepth(1);
       }
-      this.bg.setTexture(key).setDisplaySize(W, H);
+      this.bg.setTexture(key).setDisplaySize(W, H).setVisible(true);
+      this.veil.setVisible(true);
     };
     if (this.textures.exists(key)) return Promise.resolve(show());
     return new Promise((resolve) => {
@@ -257,6 +258,11 @@ export class Stage extends Phaser.Scene {
       this.load.once('complete', () => resolve(show()));
       this.load.start();
     });
+  }
+
+  // The plain field, as on the staging screen before a fight begins.
+  hideBackground() {
+    if (this.bg) for (const o of [this.bg, this.veil]) o.setVisible(false);
   }
 
   // Marks the units the player may click as a target; null clears the marks.

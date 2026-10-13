@@ -14,19 +14,19 @@ export const DEFAULT_RULES = {
   parryHalves: true,
   legendaryUse: 1, // chance a legendary creature takes each legendary action it could (a DM who forgets some: 0.5)
   legendaryHeavy: true, // legendary actions may be full spells and recharge abilities, where a block allows it
+  ranks: false, // an area hits every enemy in the target's rank (front, mid, back); a large area hits two ranks
   maxRounds: 30,
 };
 
 const INCAP = ['paralysed', 'stunned', 'unconscious', 'incapacitated', 'banished', 'petrified'];
 const IMMOBILE = ['grappled', 'restrained', 'paralysed', 'stunned', 'unconscious', 'speed0', 'banished'];
 
-let uidCounter = 0;
-
 export class Engine {
   constructor({ rules = {}, seed = 1 } = {}) {
     this.rules = { ...DEFAULT_RULES, ...rules };
     this.rng = makeRng(seed);
     this.seed = seed;
+    this.uid = 0;
     this.list = [];
     this.byId = new Map();
     this.entries = [];
@@ -43,7 +43,7 @@ export class Engine {
 
   // ---------- roster ----------
   add(tpl, { side, name, near = null, pos, summonedBy = null } = {}) {
-    const id = `c${++uidCounter}`;
+    const id = `c${++this.uid}`;
     const c = {
       id,
       tpl,
@@ -127,9 +127,17 @@ export class Engine {
   }
 
   // ---------- log ----------
-  log(kind, text, actor) {
+  // `data` is the same fact as `text` in fields, for a screen that draws the fight.
+  log(kind, text, actor, data) {
     if (this.quiet) return;
-    this.events.push({ n: this.events.length, round: this.round, kind, actor: actor ? actor.id : null, text });
+    const e = { n: this.events.length, round: this.round, kind, actor: actor ? actor.id : null, text };
+    if (data) e.data = data;
+    // the first thing an action logs carries who acted and what it was called
+    if (this.acted) {
+      if (kind !== 'turn' && kind !== 'round') e.acted = this.acted;
+      this.acted = null;
+    }
+    this.events.push(e);
   }
 
   // ---------- effects and conditions ----------
@@ -171,7 +179,7 @@ export class Engine {
     if (e.ends) e.ends = { ...e.ends };
     c.fx.push(e);
     if (fx.cond) {
-      this.log('cond', `${c.name} is ${fx.cond}${fx.name && fx.name !== fx.cond ? ` (${fx.name})` : ''}.`, c);
+      this.log('cond', `${c.name} is ${fx.cond}${fx.name && fx.name !== fx.cond ? ` (${fx.name})` : ''}.`, c, { tgt: c.id, cond: fx.cond, on: true });
       if (['paralysed', 'stunned', 'unconscious', 'incapacitated', 'banished', 'petrified'].includes(fx.cond)) this.breakConc(c);
       if (fx.cond === 'banished') breakAll(this, c);
     }
@@ -182,7 +190,7 @@ export class Engine {
     const gone = c.fx.filter(pred);
     if (!gone.length) return;
     c.fx = c.fx.filter((f) => !pred(f));
-    if (say) for (const g of gone) if (g.cond || g.announce) this.log('cond', `${c.name} is no longer ${g.cond || g.name}.`, c);
+    if (say) for (const g of gone) if (g.cond || g.announce) this.log('cond', `${c.name} is no longer ${g.cond || g.name}.`, c, { tgt: c.id, cond: g.cond || g.name, on: false });
   }
 
   // Tick durations anchored on `who`'s turn.
@@ -194,7 +202,7 @@ export class Engine {
         if (f.ends && f.ends.who === who.id && f.ends.when === when) {
           f.ends.turns -= 1;
           if (f.ends.turns <= 0) {
-            if (f.cond || f.announce) this.log('cond', `${c.name} is no longer ${f.cond || f.name}.`, c);
+            if (f.cond || f.announce) this.log('cond', `${c.name} is no longer ${f.cond || f.name}.`, c, { tgt: c.id, cond: f.cond || f.name, on: false });
             continue;
           }
         }
@@ -342,7 +350,7 @@ export class Engine {
       text += success ? ', succeeds' : ', fails';
     }
     if (why.length) text += ` [${why.join(', ')}]`;
-    this.log('save', text + '.', c);
+    this.log('save', text + '.', c, { who: c.id, ability, dc, success });
     return { success, total, nat: r.nat };
   }
 
@@ -418,7 +426,7 @@ export class Engine {
     if (isEngaged(att, tgt)) return true;
     if (!this.canReach(att, tgt)) return false;
     engage(att, tgt);
-    this.log('move', `${att.name} closes with ${tgt.name}.`, att);
+    this.log('move', `${att.name} closes with ${tgt.name}.`, att, { who: att.id, to: tgt.id });
     this.react('entersReach', { subject: att, mover: att, tgt: att, into: tgt });
     return this.active(att) && isEngaged(att, tgt);
   }
@@ -431,7 +439,7 @@ export class Engine {
     this.react('targeted', rd);
     if (rd.newTarget && this.present(rd.newTarget)) tgt = rd.newTarget;
     if (melee && !this.closeWith(att, tgt)) {
-      this.log('miss', `${att.name} cannot reach ${tgt.name} for ${act.name}.`, att);
+      this.log('miss', `${att.name} cannot reach ${tgt.name} for ${act.name}.`, att, { att: att.id, tgt: tgt.id, act: act.name, melee, hit: false, reach: false });
       return { hit: false, void: true };
     }
     if (!this.active(att)) return { hit: false, void: true };
@@ -544,12 +552,12 @@ export class Engine {
     const ac = this.acOf(tgt) + ctx.acBonus;
     const head = `${att.name}: ${act.name} at ${tgt.name}, ${roll.text}${signed(bonus)}${extra} = ${ctx.total} vs AC ${ac}`;
     if (!ctx.hit) {
-      this.log('miss', `${head}, ${ctx.nat === 1 ? 'natural 1, ' : ''}miss.${why.length ? ` [${why.join(', ')}]` : ''}`, att);
+      this.log('miss', `${head}, ${ctx.nat === 1 ? 'natural 1, ' : ''}miss.${why.length ? ` [${why.join(', ')}]` : ''}`, att, { att: att.id, tgt: tgt.id, act: act.name, melee, hit: false, nat: ctx.nat });
       this.hook(att, 'onMiss', ctx);
       this.react('missed', ctx);
       return { hit: false, ctx };
     }
-    this.log(ctx.crit ? 'crit' : 'hit', `${head}, ${ctx.crit ? 'CRITICAL HIT' : 'hit'}.${why.length ? ` [${why.join(', ')}]` : ''}`, att);
+    this.log(ctx.crit ? 'crit' : 'hit', `${head}, ${ctx.crit ? 'CRITICAL HIT' : 'hit'}.${why.length ? ` [${why.join(', ')}]` : ''}`, att, { att: att.id, tgt: tgt.id, act: act.name, melee, hit: true, crit: !!ctx.crit, nat: ctx.nat });
 
     // damage
     const parts = [];
@@ -638,7 +646,7 @@ export class Engine {
     if (src) src.stats.dealt += through;
     if (types.includes('radiant')) tgt.turn.radiantHit = true;
     const tail = `${absorbed ? ` (${absorbed} off temp HP)` : ''}${notes.length ? ` [${notes.join(', ')}]` : ''}`;
-    this.log('dmg', `  ${o.rollText ? o.rollText + ' → ' : ''}${tgt.name} takes ${total} ${types.join('/')}${tail}. HP ${Math.max(0, tgt.hp)}/${tgt.maxHp}.`, src || tgt);
+    this.log('dmg', `  ${o.rollText ? o.rollText + ' → ' : ''}${tgt.name} takes ${total} ${types.join('/')}${tail}. HP ${Math.max(0, tgt.hp)}/${tgt.maxHp}.`, src || tgt, { src: src ? src.id : null, tgt: tgt.id, amount: total, types, hp: Math.max(0, tgt.hp), maxHp: tgt.maxHp, tempHp: tgt.tempHp });
     if (total > 0) this.removeFx(tgt, (f) => f.endsOnDamage);
     this.hook(tgt, 'onDamaged', { src, total, types, o });
     if (tgt.down && before <= 0) {
@@ -703,7 +711,7 @@ export class Engine {
       c.fx = c.fx.filter((f) => !f.endsWhenDown);
       this.addFx(c, { cond: 'unconscious', id: 'dying' }, null);
       if (!this.has(c, 'prone')) c.fx.push({ id: 'prone', cond: 'prone', srcId: null });
-      this.log('down', `${c.name} drops to 0 HP and is dying.`, c);
+      this.log('down', `${c.name} drops to 0 HP and is dying.`, c, { tgt: c.id, down: true });
       this.react('dropped', { tgt: c, subject: c, src });
       return;
     }
@@ -720,7 +728,7 @@ export class Engine {
     breakAll(this, c);
     c.fx = [];
     this.corpses += c.tpl.noCorpse ? 0 : 1;
-    this.log('death', `${c.name} is ${c.tpl.type === 'undead' || c.tpl.type === 'construct' ? 'destroyed' : 'dead'}${why ? ` (${why})` : ''}.`, c);
+    this.log('death', `${c.name} is ${c.tpl.type === 'undead' || c.tpl.type === 'construct' ? 'destroyed' : 'dead'}${why ? ` (${why})` : ''}.`, c, { tgt: c.id });
     this.hook(c, 'onDeath', { src, wasEngaged });
     this.react('died', { tgt: c, subject: c, src });
     // effects this creature was sustaining without concentration
@@ -739,7 +747,7 @@ export class Engine {
     if (!c.down || c.stable || c.dead) return;
     const r = d20(this.rng, 'normal');
     if (r.nat === 20) {
-      this.log('down', `${c.name} death save: ${r.text}, natural 20. Back up at 1 HP.`, c);
+      this.log('down', `${c.name} death save: ${r.text}, natural 20. Back up at 1 HP.`, c, { tgt: c.id, down: false });
       this.revive(c, 1);
       return;
     }
@@ -774,7 +782,7 @@ export class Engine {
     else c.hp = Math.min(c.maxHp, c.hp + amt);
     const got = c.hp - was;
     if (src) src.stats.healed += got;
-    this.log('heal', `${c.name} regains ${got} HP from ${label}${was <= 0 ? ' and is back up, prone' : ''}. HP ${c.hp}/${c.maxHp}.`, src || c);
+    this.log('heal', `${c.name} regains ${got} HP from ${label}${was <= 0 ? ' and is back up, prone' : ''}. HP ${c.hp}/${c.maxHp}.`, src || c, { src: src ? src.id : null, tgt: c.id, amount: got, hp: c.hp, maxHp: c.maxHp });
     return got;
   }
 
@@ -880,7 +888,7 @@ export class Engine {
       // a grapple does not survive being thrown clear
       this.removeFx(tgt, (f) => f.cond === 'grappled', false);
       for (const o of this.list) this.removeFx(o, (f) => f.cond === 'grappled' && f.srcId === tgt.id);
-      this.log('move', `${tgt.name} is pushed out of melee${label ? ` (${label})` : ''}.`, src);
+      this.log('move', `${tgt.name} is pushed out of melee${label ? ` (${label})` : ''}.`, src, { who: tgt.id, away: true });
     }
     tgt.turn.pushed = true;
   }
@@ -898,9 +906,9 @@ export class Engine {
         const r = rollDice(this.rng, dice, { average: avg });
         return { amt: r.total, type, text: `${r.text} ${type}` };
       });
-      this.log('act', `${src.name}: ${act.name} (DC ${dc} ${act.save.toUpperCase()}), ${rolled.map((r) => r.text).join('; ')} = ${rolled.reduce((s, r) => s + r.amt, 0)}.`, src);
+      this.log('act', `${src.name}: ${act.name} (DC ${dc} ${act.save.toUpperCase()}), ${rolled.map((r) => r.text).join('; ')} = ${rolled.reduce((s, r) => s + r.amt, 0)}.`, src, { who: src.id, act: act.name, kind: 'save', targets: targets.map((t) => t.id) });
     } else {
-      this.log('act', `${src.name}: ${act.name} (DC ${dc} ${act.save.toUpperCase()}).`, src);
+      this.log('act', `${src.name}: ${act.name} (DC ${dc} ${act.save.toUpperCase()}).`, src, { who: src.id, act: act.name, kind: 'save', targets: targets.map((t) => t.id) });
     }
     const expected = rolled ? rolled.reduce((s, r) => s + r.amt, 0) : 0;
     for (const t of targets) {
@@ -1054,6 +1062,7 @@ export class Engine {
   }
 
   run(c, act, choice) {
+    if (act.kind !== 'multi') this.acted = { who: c.id, name: act.name };
     switch (act.kind) {
       case 'attack': {
         // one attack only for Haste's extra action, and for a slowed creature
@@ -1100,13 +1109,13 @@ export class Engine {
       case 'heal': {
         const t = act.self ? c : this.target(c, { ...act, ally: true }, choice) || c;
         const r = rollDice(this.rng, act.dice);
-        this.log('act', `${c.name}: ${act.name} on ${t.name}, ${r.text} = ${r.total}.`, c);
+        this.log('act', `${c.name}: ${act.name} on ${t.name}, ${r.text} = ${r.total}.`, c, { who: c.id, act: act.name, kind: 'heal', targets: [t.id] });
         this.heal(t, r.total, c, act.name);
         break;
       }
       case 'buff': {
         const targets = act.self ? [c] : (choice.targets || []).map((id) => this.get(id)).filter((t) => t && this.alive(t));
-        this.log('act', `${c.name}: ${act.name}${act.self ? '' : ` on ${targets.map((t) => t.name).join(', ')}`}.`, c);
+        this.log('act', `${c.name}: ${act.name}${act.self ? '' : ` on ${targets.map((t) => t.name).join(', ')}`}.`, c, { who: c.id, act: act.name, kind: 'buff', targets: targets.map((t) => t.id) });
         if (act.conc) this.concentrate(c, act.name);
         for (const t of targets) {
           this.addFx(t, { ...act.effect, name: act.effect.name || act.name, conc: act.conc ? c.id : undefined, ends: this.resolveDur(act.dur, c, t) }, c);
@@ -1127,7 +1136,7 @@ export class Engine {
     const foes = [...c.engaged].map((id) => this.get(id)).filter((e) => this.active(e));
     breakAll(this, c);
     this.removeFx(c, (f) => f.cond === 'grappled' && teleport);
-    this.log('move', `${c.name} ${label}.`, c);
+    this.log('move', `${c.name} ${label}.`, c, { who: c.id, away: true });
     if (teleport || c.turn.noOA) return;
     for (const e of foes) {
       if (!this.active(c)) break;
