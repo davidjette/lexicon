@@ -3,6 +3,7 @@ export const BACKGROUNDS = [
   ['bell-foundry.webp', 'Bell foundry'],
   ['control-room.webp', 'Control room'],
   ['desert-airship.webp', 'Desert airship'],
+  ['engine-room.webp', 'Engine room'],
   ['falcons-garage.webp', 'Falcons garage'],
   ['forest-clearing.webp', 'Forest clearing'],
   ['glitterhame.webp', 'Glitterhame'],
