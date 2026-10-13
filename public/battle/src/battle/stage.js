@@ -217,7 +217,8 @@ export class Unit {
 
   // Conditions on the unit: it lies down while prone, and takes the colour of the worst one.
   setStatus(conds) {
-    const prone = conds.includes('prone');
+    // a flyer brought down sits on the ground the same way
+    const prone = conds.includes('prone') || conds.includes('grounded');
     const hit = STATUS_ORDER.find((k) => conds.includes(k));
     const color = hit ? STATUS_COLOR[hit] : null;
     if (color !== (this.statusColor ?? null)) {
