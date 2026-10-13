@@ -26,7 +26,7 @@ export function buildHero(h) {
   const cantrip = best(h.attacks.filter((a) => a.spell && a.slot === 0));
   const routines = [];
   const mk = (a, extra = {}) => (a.toHit !== null && a.toHit !== undefined
-    ? (a.melee ? melee : ranged)(a.name, a.toHit, [[a.dmg, a.type]], { n: a.count > 1 ? a.count : undefined, spell: a.spell || undefined, weapon: a.spell ? false : undefined, ...extra })
+    ? (a.melee ? melee : ranged)(a.name, a.toHit, [[a.dmg, a.type], ...(a.extra || [])], { n: a.count > 1 ? a.count : undefined, spell: a.spell || undefined, weapon: a.spell ? false : undefined, ...extra })
     : save(a.name, a.save, a.dc, [[a.dmg, a.type]], { spell: true, ...extra }));
 
   if (bestMelee) {

@@ -6,7 +6,7 @@
 // cautious one is taken, and the note beside the entry says so.
 
 import { rollDice } from '../engine/dice.js';
-import { isEngaged } from '../engine/zones.js';
+import { isEngaged, areaTargets } from '../engine/zones.js';
 import { cast } from './spells.js';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
@@ -318,6 +318,32 @@ const eldritchStaff = (x, item) => {
   };
 };
 
+// Roland's Cube (Rules\ROLAND'S CUBE.pdf), Arcane Demolitions only: thrown, then set off, as one
+// action. Three charges for the fight. A Half Blast spends one (5d8 + 5d6), a Full Blast two
+// (5d8 + 10d6), Dexterity save for half, a 20-foot sphere. The text gives no save DC; 8 + proficiency
+// + Intelligence is used. Fire is chosen for the damage. The Suicide Blast, the Reliquary spells and
+// the Key are left out.
+const rolandsCube = (x) => {
+  const dc = 8 + x.prof + x.mod('int');
+  const area = { type: 'near', max: 99, spread: 0.5, size: 6 };
+  return {
+    actions: {
+      cubeHalf: { kind: 'save', name: "Roland's Cube: Half Blast (1 charge)", save: 'dex', dc, dmg: [['5d8', 'fire'], ['5d6', 'fire']], half: true, uses: 3, usesKey: 'cube', area },
+      cubeFull: {
+        kind: 'special', name: "Roland's Cube: Full Blast (2 charges)", uses: 2, usesKey: 'cube',
+        run(E, c, act, choice) {
+          spendUse(c, 'cube');
+          const t = E.get((choice.targets || [])[0]) || E.ai.pickTarget(E, c, null);
+          if (!t) return;
+          E.saveEffect(c, { name: "Roland's Cube (Full Blast)", save: 'dex', dc, dmg: [['5d8', 'fire'], ['10d6', 'fire']], half: true, isArea: true }, areaTargets(E, c, t, area));
+        },
+      },
+    },
+    // the script throws it when there is a crowd to catch
+    plan: [{ use: 'cubeHalf', if: (E, c) => foes(E, c).length >= 3 }],
+  };
+};
+
 // ---------------------------------------------------------------------------------------------
 const BOOK = {
   'flame tongue longsword': rider('2d6', 'fire', { hint: /flame tongue/i }),
@@ -337,6 +363,7 @@ const BOOK = {
   'staff of healing': staffOfHealing,
   'tentacle rod': tentacleRod,
   copperbane,
+  "roland's cube": rolandsCube,
   silverbane: moonStrike(true),
   pewterthorn: moonStrike(false),
   onyxbane,
