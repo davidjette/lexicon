@@ -14,6 +14,7 @@ export const DEFAULT_RULES = {
   parryHalves: true,
   legendaryUse: 1, // chance a legendary creature takes each legendary action it could (a DM who forgets some: 0.5)
   legendaryHeavy: true, // legendary actions may be full spells and recharge abilities, where a block allows it
+  ranks: false, // an area hits every enemy in the target's rank (front, mid, back); a large area hits two ranks
   maxRounds: 30,
 };
 

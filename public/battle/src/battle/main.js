@@ -113,7 +113,9 @@ async function newFight() {
   $('caption').textContent = '';
   const seed = Math.max(1, +$('seed').value || 1);
   try {
-    const setup = setupFromState(stateFor($('preset').value), seed);
+    const state = stateFor($('preset').value);
+    if ($('ranks').checked) state.rules = { ...state.rules, ranks: true };
+    const setup = setupFromState(state, seed);
     if ($('mode').value === 'play') setup.control = { side: 'pc' };
     enc = new Encounter(setup).start();
   } catch {
@@ -216,6 +218,8 @@ async function init() {
   $('play').onclick = run;
   $('reseed').onclick = () => { $('seed').value = 1 + Math.floor(Math.random() * 99999); newFight(); };
   $('menu').onclick = showSelect;
+  $('ranks').checked = localStorage.getItem('battle-ranks') === '1';
+  $('ranks').onchange = () => { localStorage.setItem('battle-ranks', $('ranks').checked ? '1' : '0'); if (enc) newFight(); };
   $('bg').append(...BACKGROUNDS.map(([file, name]) => new Option(name, file)));
   $('bg').onchange = () => stage.setBackground($('bg').value || undefined);
   for (const m of ['play', 'watch']) $(`pick-${m}`).onclick = () => { $('mode').onchange = null; $('mode').value = m; $('mode').onchange = newFight; showSelect(); };
