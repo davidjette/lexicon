@@ -2,7 +2,7 @@
 // No browser code in here; the same file runs in the page, in the batch worker and under node.
 
 import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js';
-import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, areaTargets } from './zones.js';
+import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, inAllyAura, areaTargets } from './zones.js';
 
 export const DEFAULT_RULES = {
   critRule: 'maxPlusRoll', // table rule: maximum dice plus the dice again. 'double' is the book.
@@ -156,7 +156,7 @@ export class Engine {
     // Aura of Courage / Aura of Devotion from a conscious paladin standing with this creature
     if (cond === 'frightened' || cond === 'charmed' || cond === 'dominated') {
       for (const p of this.side(c.side)) {
-        if (p.tpl.auraCourage && this.active(p) && !this.incapacitated(p) && (p === c || cluster(this, p).includes(c))) return true;
+        if (p.tpl.auraCourage && this.active(p) && !this.incapacitated(p) && inAllyAura(this, p, c)) return true;
       }
     }
     return false;
@@ -268,7 +268,7 @@ export class Engine {
     for (const p of this.side(c.side)) {
       if (!p.tpl.auraSave || !this.active(p) || this.incapacitated(p)) continue;
       if (p === c) continue; // a paladin's own bonus is already on the sheet
-      if (cluster(this, p).includes(c)) aura = Math.max(aura, p.tpl.auraSave);
+      if (inAllyAura(this, p, c)) aura = Math.max(aura, p.tpl.auraSave);
     }
     if (c.tpl.auraSave && c.tpl.auraSelfIncluded === false && this.active(c)) aura = Math.max(aura, c.tpl.auraSave);
     return b + aura + this.sum(c, 'saveBonus');
@@ -475,6 +475,8 @@ export class Engine {
     if (this.rules.movement && !this.roams(att)) while (att.pos !== 'front' && this.shift(att, -1));
     engage(att, tgt);
     this.log('move', `${att.name} closes with ${tgt.name}.`, att, { who: att.id, to: tgt.id });
+    // with the ranks rule, walking into an emanation on your own turn means meeting it at once
+    if (this.rules.ranks && this.current === att) this.auraEnter(att);
     this.react('entersReach', { subject: att, mover: att, tgt: att, into: tgt });
     return this.active(att) && isEngaged(att, tgt);
   }
@@ -994,6 +996,17 @@ export class Engine {
         if (!f.aura || !f.aura.on.includes(when)) continue;
         if (!enemiesInAura(this, caster).includes(c)) continue;
         this.auraHit(caster, f, c);
+      }
+    }
+  }
+
+  // A creature that has just come into reach of an enemy: any emanation it is now inside bites,
+  // once a turn as always.
+  auraEnter(c) {
+    for (const caster of this.list) {
+      if (caster.side === c.side || !this.active(caster)) continue;
+      for (const f of caster.fx) {
+        if (f.aura && this.active(c) && enemiesInAura(this, caster).includes(c)) this.auraHit(caster, f, c);
       }
     }
   }

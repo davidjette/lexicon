@@ -57,6 +57,9 @@ export function cluster(E, c) {
 // Enemies inside an emanation centred on c (Spirit Guardians and the like): anything in melee
 // with c or with an ally standing in c's cluster.
 export function enemiesInAura(E, c) {
+  // with the ranks rule: whoever is in melee with the caster, and, while the caster stands in the
+  // front rank, everyone in the other side's front rank
+  if (E.rules.ranks) return E.enemiesOf(c).filter((e) => E.present(e) && (c.engaged.has(e.id) || (c.pos === 'front' && e.pos === 'front')));
   const out = new Set();
   for (const ally of cluster(E, c)) {
     for (const id of ally.engaged) {
@@ -69,7 +72,14 @@ export function enemiesInAura(E, c) {
 
 // Allies inside a short aura centred on c (Aura of Protection): c and its cluster.
 export function alliesInAura(E, c) {
-  return cluster(E, c).filter((x) => E.present(x));
+  return E.side(c.side).filter((x) => E.present(x) && inAllyAura(E, c, x));
+}
+
+// Whether `x` stands inside a short aura centred on its ally `c` (Aura of Protection, Aura of
+// Courage). With the ranks rule that is the bearer's own rank; otherwise those standing with them.
+export function inAllyAura(E, c, x) {
+  if (x === c) return true;
+  return E.rules.ranks ? x.pos === c.pos : cluster(E, c).includes(x);
 }
 
 const RANKS = ['front', 'mid', 'back'];
