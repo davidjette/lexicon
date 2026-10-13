@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en" data-theme="dark" data-demo="replaySummit">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The summit: Thar and the Red Bird · Battle · The Lexicon</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Spectral+SC:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/theme.css">
+  <style>
+    .battle { max-width: 1200px; margin: 0 auto; padding: 12px; }
+    .battle-bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; margin-bottom: 10px; }
+    .battle-bar .grow { flex: 1; min-width: 220px; }
+    #stage canvas { display: block; width: 100%; height: auto; border-radius: 6px; }
+    #caption { min-height: 2.6em; padding: 8px 12px; font-size: 17px; }
+    #log { max-height: 220px; overflow-y: auto; padding: 8px 12px; font-size: 14px; line-height: 1.45; opacity: 0.85; }
+    #log .k-round { margin-top: 6px; font-family: 'Spectral SC', serif; }
+    #log .k-turn { margin-top: 4px; font-weight: 500; }
+    #log .k-dmg { padding-left: 1em; }
+    #hud { padding: 10px 12px; margin-bottom: 8px; }
+    .hud-head { display: flex; flex-wrap: wrap; gap: 14px; align-items: baseline; margin-bottom: 8px; }
+    .hud-head strong { font-family: 'Cinzel', serif; font-size: 18px; }
+    .hud-head .pip { opacity: 0.35; text-decoration: line-through; }
+    .hud-head .pip.on { opacity: 1; text-decoration: none; color: #e8c66a; }
+    .hud-slots { font-size: 14px; opacity: 0.8; }
+    .hud-cols { display: flex; flex-wrap: wrap; gap: 18px; }
+    .hud-col { display: flex; flex-direction: column; gap: 6px; align-items: stretch; min-width: 150px; }
+    .hud-title { font-family: 'Spectral SC', serif; font-size: 13px; opacity: 0.7; }
+    .hud-row { display: flex; flex-wrap: wrap; gap: 8px; }
+    #stage canvas { cursor: default; }
+    #stage-wrap { position: relative; }
+    #select { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: safe center; gap: 14px; padding: 20px; background: rgba(15, 13, 19, 0.9); border-radius: 6px; overflow-y: auto; }
+    #select[hidden] { display: none; }
+    #select h1 { font-family: 'Cinzel', serif; font-size: 34px; margin: 0; color: #e8dfc8; }
+    .select-mode { display: flex; gap: 8px; }
+    #select-list { display: flex; flex-direction: column; gap: 8px; width: min(560px, 100%); }
+    #select-list .btn { text-align: left; font-size: 17px; padding: 10px 14px; }
+    .select-note { font-size: 14px; opacity: 0.7; margin: 0; }
+    .credit { font-size: 12px; opacity: 0.6; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <main class="battle">
+    <div class="battle-bar">
+      <div class="kicker"><a href="../">The Lexicon</a> · <a href="../encounters/">Encounter Builder</a> · Battle</div>
+      <label class="field grow">Fight <select id="preset"></select></label>
+      <label class="field">You <select id="mode"><option value="play">Play the party</option><option value="watch">Watch</option></select></label>
+      <label class="field">Seed <input id="seed" type="number" min="1" style="width: 7em"></label>
+      <button id="reseed" class="btn small ghost">New seed</button>
+      <button id="menu" class="btn small ghost">Fights</button>
+      <button id="new" class="btn small">Restart</button>
+      <button id="step" class="btn small">Step</button>
+      <button id="play" class="btn small">Play</button>
+      <label class="field">Speed <select id="speed"><option value="0.5">Half</option><option value="1">Normal</option><option value="2">Double</option><option value="4">Fast</option></select></label>
+      <label class="field">Effects <input id="sfx" type="range" min="0" max="1" step="0.05" style="width: 6em"></label>
+      <label class="field">Music <input id="music" type="range" min="0" max="1" step="0.05" style="width: 6em"></label>
+    </div>
+    <div id="stage-wrap">
+      <div id="stage"></div>
+      <div id="select" hidden>
+        <h1>Choose a fight</h1>
+        <div class="select-mode">
+          <button id="pick-play" class="btn small">Play the party</button>
+          <button id="pick-watch" class="btn small ghost">Watch</button>
+        </div>
+        <div id="select-list"></div>
+        <p class="select-note">More fights: set one up on the <a href="./">builder page</a> and press Battle screen.</p>
+      </div>
+    </div>
+    <div id="hud" class="card" hidden></div>
+    <div id="caption" class="card"></div>
+    <div id="log" class="card"></div>
+    <p class="credit">Battler sprites by Holder (Holder's Animated Battlers), <a href="https://holder-anibat.itch.io/">holder-anibat.itch.io</a>. Sound effects by Kenney and rubberduck (CC0).</p>
+  </main>
+  <script type="module" src="src/battle/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+Battler sprite sheets in this folder are by Holder (Holder's Animated Battlers).
+
+  https://holder-anibat.itch.io/
+  https://animatedbattlers.wordpress.com/
+
+Used under Holder's terms of use (https://animatedbattlers.wordpress.com/terms-of-use/):
+free to use in any engine, commercial and non-commercial, credit required, not for NFT use,
+not to be repackaged or sold.
+
+Packs used: Holder Legend of Free Heroes, Free Enemies.

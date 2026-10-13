@@ -1,0 +1,186 @@
+// Turns a run of engine events into what happens on the stage. The engine has already resolved
+// everything by the time an event exists; the director only decides how and when to show it.
+import { TYPE_COLOR } from './stage.js';
+import { sfx } from './audio.js';
+
+const PAUSE = { round: 0, init: 0, turn: 120, info: 420, act: 380, save: 260, cond: 220, heal: 320, move: 0, down: 350, death: 400, end: 0 };
+
+export class Director {
+  constructor(stage, { onEvent } = {}) {
+    this.stage = stage;
+    this.onEvent = onEvent || (() => {});
+  }
+
+  unit(id) {
+    return this.stage.units.get(id);
+  }
+
+  // Sends everyone who stepped out back to their place, except `keep`.
+  async settle(keep) {
+    const out = [...this.stage.units.values()].filter((u) => u.away && u !== keep);
+    await Promise.all(out.map((u) => u.goHome()));
+  }
+
+  async play(events, E) {
+    const st = this.stage;
+    for (let i = 0; i < events.length; i++) {
+      const e = events[i];
+      const d = e.data;
+      this.onEvent(e);
+      switch (e.kind) {
+        case 'round':
+          await this.settle();
+          if (/^Round/.test(e.text)) {
+            sfx(st, 'round');
+            await st.showBanner(e.text, 500);
+          }
+          break;
+        case 'turn':
+          await this.settle();
+          st.markTurn(this.unit(e.actor));
+          sfx(st, 'turn');
+          break;
+        case 'hit':
+        case 'crit':
+        case 'miss': {
+          if (!d || d.reach === false) break;
+          // the damage lines that belong to this blow follow it directly
+          const dmg = [];
+          while (events[i + 1] && events[i + 1].kind === 'dmg' && events[i + 1].data && events[i + 1].data.tgt === d.tgt) dmg.push(events[++i]);
+          await this.strike(d, dmg);
+          break;
+        }
+        case 'dmg':
+          if (d) this.damage(d, false);
+          await st.wait(300);
+          break;
+        case 'act': {
+          const u = d && this.unit(d.who);
+          if (u && d.kind !== 'attack') {
+            await this.settle(u);
+            sfx(st, 'cast');
+            await u.pose('magic');
+            if (!u.fallen) u.pose('idle');
+          }
+          break;
+        }
+        case 'save': {
+          const u = d && this.unit(d.who);
+          if (u) u.popup(d.success ? 'Saved' : 'Failed', d.success ? '#b9d6a8' : '#e0a090', 17);
+          break;
+        }
+        case 'heal': {
+          const u = d && this.unit(d.tgt);
+          if (u) {
+            u.setHp(d.hp, d.maxHp);
+            u.flash(0x8fe0a0);
+            sfx(st, 'heal');
+            u.popup(`+${d.amount}`, '#8fe0a0');
+            if (d.hp > 0) u.setFallen(false);
+          }
+          break;
+        }
+        case 'cond': {
+          const u = d && this.unit(d.tgt);
+          if (u && d.on) {
+            u.popup(d.cond, '#d9c7f0', 16);
+            sfx(st, 'cond');
+          }
+          break;
+        }
+        case 'move': {
+          const u = d && this.unit(d.who);
+          if (!u) break;
+          if (d.to && this.unit(d.to)) {
+            await this.settle(u);
+            await u.closeOn(this.unit(d.to));
+          } else if (d.away) await u.goHome();
+          break;
+        }
+        case 'down': {
+          const u = d && this.unit(d.tgt);
+          if (u) {
+            u.setFallen(d.down);
+            if (d.down) sfx(st, 'down');
+          }
+          break;
+        }
+        case 'death': {
+          const u = d && this.unit(d.tgt);
+          if (u) {
+            u.setFallen(true, true);
+            sfx(st, u.side === 'pc' ? 'down' : 'death');
+          }
+          break;
+        }
+        case 'end':
+          await this.settle();
+          break;
+        default:
+          break;
+      }
+      await st.wait(PAUSE[e.kind] ?? 200);
+    }
+    await this.sync(E);
+  }
+
+  damage(d, big) {
+    const u = this.unit(d.tgt);
+    if (!u) return;
+    u.setHp(d.hp, d.maxHp, d.tempHp);
+    u.hurt(d.amount, d.types, big);
+    if (d.types.includes('fire')) sfx(this.stage, 'fire');
+    if (big || d.amount >= d.maxHp * 0.25) this.stage.cameras.main.shake(140, 0.007);
+  }
+
+  async strike(d, dmg) {
+    const st = this.stage;
+    const att = this.unit(d.att);
+    const tgt = this.unit(d.tgt);
+    if (!att || !tgt) {
+      for (const x of dmg) this.damage(x.data, d.crit);
+      return;
+    }
+    await this.settle(att);
+    if (d.melee) await att.closeOn(tgt);
+    sfx(st, d.melee ? 'swing' : 'shoot');
+    let landed;
+    const done = new Promise((r) => (landed = r));
+    const land = async () => {
+      if (!d.melee) {
+        const type = dmg.length ? dmg[0].data.types.find((t) => TYPE_COLOR[t]) : null;
+        await st.bolt(att, tgt, TYPE_COLOR[type] || 0xffffff);
+      }
+      if (d.hit) {
+        sfx(st, d.crit ? 'crit' : d.melee ? (att.isSheet ? 'slash' : 'hit') : 'thud');
+        if (d.crit) tgt.popup('Critical', '#ffd27a', 18);
+        for (const x of dmg) this.damage(x.data, d.crit);
+        if (!dmg.length) tgt.flash();
+      } else {
+        tgt.popup('Miss', '#b9b2a3', 20);
+        sfx(st, 'miss');
+        st.tweens.add({ targets: tgt.node, x: tgt.node.x - 14 * tgt.dir, duration: 80, yoyo: true });
+      }
+      landed();
+    };
+    await att.pose('attack', { onImpact: land });
+    await done;
+    if (!att.fallen) att.pose('idle');
+  }
+
+  // After the events are shown, make the stage agree with the engine: bars, the fallen, arrivals
+  // and departures. This also covers anything a text-only event changed.
+  async sync(E) {
+    const st = this.stage;
+    await st.arrange(E.list);
+    for (const c of E.list) {
+      const u = this.unit(c.id);
+      if (!u) continue;
+      if (c.fled && !u.gone) { u.leave(); continue; }
+      u.setHp(c.hp, c.maxHp, c.tempHp);
+      u.setFallen(c.dead || c.down || c.hp <= 0, c.dead);
+    }
+    const cur = E.pending && E.pending.actor;
+    st.markTurn(cur ? this.unit(cur.id) : null);
+  }
+}

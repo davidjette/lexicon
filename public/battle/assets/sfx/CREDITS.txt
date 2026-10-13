@@ -1,0 +1,8 @@
+Sound effects in this folder are public domain (Creative Commons Zero, CC0).
+
+  Kenney (kenney.nl): RPG Audio, Impact Sounds, Interface Sounds
+    swing, hit, crit, miss, shoot, thud, heal, cond, down, step, turn, round, click, select, back, error
+  rubberduck (opengameart.org/content/80-cc0-rpg-sfx): 80 CC0 RPG SFX
+    slash, cast, fire, death, hurt, roar
+
+No credit is required for CC0 work; it is given here anyway.
