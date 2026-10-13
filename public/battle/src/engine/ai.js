@@ -1,7 +1,7 @@
 // Tactics. A creature with a `brain` function (the three PCs) decides for itself; everything else
 // walks its `plan` list in order and falls back to its multiattack.
 
-import { isEngaged } from './zones.js?v=mv6dxdby';
+import { isEngaged } from './zones.js?v=mv735kia';
 
 const POS_WEIGHT = { front: 3, mid: 2, back: 1 };
 

@@ -84,5 +84,14 @@
   ],
   "bg:ossuary": [
     "magus.ogg"
+  ],
+  "bg:ritual-chamber": [
+    "magus-s-lair.ogg"
+  ],
+  "bg:vampire-bedroom": [
+    "at-the-bottom-of-the-night.ogg"
+  ],
+  "bg:empty-crypt": [
+    "sealed-door.ogg"
   ]
 }
