@@ -83,7 +83,7 @@ export class Hud {
     sfx(this.stage, 'select');
     if (o.withdraw) return this.answer({ withdraw: true });
     if (o.shift) return this.answer({ shift: o.shift });
-    const choice = { act: o.act, opt: o.opt, cost: o.cost, free: o.free, targets: [] };
+    const choice = { act: o.act, opt: o.opt, cost: o.cost, free: o.free, targets: [], ...(o.choice || {}) };
     if (o.levels) return this.showLevels(E, c, o, choice);
     this.showTargets(E, c, o, choice);
   }

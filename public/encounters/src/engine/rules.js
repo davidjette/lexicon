@@ -1087,6 +1087,8 @@ export class Engine {
     if (!act) return;
     if (!this.usable(c, id, choice)) return;
     const level = this.pay(c, act, id, choice);
+    if (act.takes) c.turn[act.takes] = false;
+    if (choice.hasted) c.turn.hasted = true;
     if (act.slot && !choice.quietCast) {
       const ctx = { subject: c, tgt: c, caster: c, act, level, countered: false };
       this.react('spellCast', ctx);

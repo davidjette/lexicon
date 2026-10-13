@@ -460,7 +460,7 @@ export function makeDario(o = {}) {
     },
     actions: {
       strike: strike(2),
-      strike1: { ...strike(1), name: `${w.name} (Haste)`, cost: 'free', hidden: true },
+      strike1: { ...strike(1), name: `${w.name} (Haste)`, cost: 'free', hidden: true, takes: 'hasteAction' },
       sacred: {
         kind: 'special', name: 'Sacred Weapon', cost: 'free', uses: 3, noTarget: true,
         run(E, c) {

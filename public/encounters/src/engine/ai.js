@@ -240,9 +240,17 @@ export const AI = {
       for (const [id, act] of Object.entries(E.actions(c))) {
         const cost = act.cost || 'action';
         if (cost !== 'action' && cost !== 'bonus' && !(full && cost === 'free')) continue;
-        if (act.hidden) continue;
+        // a hidden action is one the script reaches for itself; a player sees it only while the
+        // turn holds the thing it spends (Haste's extra attack)
+        if (act.hidden && !(full && act.takes && c.turn[act.takes])) continue;
         if (E.usable(c, id)) push(id, act);
       }
+    }
+    // Haste from the spell book: one more weapon attack this turn
+    if (full && kind === 'turn' && !c.turn.hasted && E.any(c, 'hasteAttack')) {
+      const id = c.tpl.hasteWith || c.tpl.basic;
+      const act = id && E.action(c, id);
+      if (act && act.kind === 'attack' && !act.spell) out.push({ act: id, name: `${act.name} (Haste: one attack)`, cost: 'free', targets: inReach(act, 0), choice: { free: true, one: true, hasted: true } });
     }
     if (full && kind === 'turn' && c.engaged.size) out.push({ withdraw: true, name: 'Pull back', cost: 'move', targets: [] });
     if (full && kind === 'turn' && E.rules.movement) {

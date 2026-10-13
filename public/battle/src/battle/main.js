@@ -234,7 +234,8 @@ async function init() {
   $('reseed').onclick = () => { $('seed').value = 1 + Math.floor(Math.random() * 99999); newFight(); };
   $('menu').onclick = showSelect;
   for (const rule of ['ranks', 'movement']) {
-    $(rule).checked = localStorage.getItem(`battle-${rule}`) === '1';
+    // on unless the player has turned it off here before
+    $(rule).checked = localStorage.getItem(`battle-${rule}`) !== '0';
     $(rule).onchange = () => { localStorage.setItem(`battle-${rule}`, $(rule).checked ? '1' : '0'); if (enc) newFight(); };
   }
   $('bg').append(...BACKGROUNDS.map(([file, name]) => new Option(name, file)));
