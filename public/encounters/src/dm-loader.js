@@ -1,9 +1,9 @@
 // Finds and installs the DM pack. On the published site the pack is one encrypted file; in the
 // working copy on the DM's own machine the three source files are read as they are.
 
-import { makeApi } from './data/api.js';
-import { packs } from './data/registry.js';
-import { decryptPack } from './pack-crypto.js';
+import { makeApi } from './data/api.js?v=mv6a2vqv';
+import { packs } from './data/registry.js?v=mv6a2vqv';
+import { decryptPack } from './pack-crypto.js?v=mv6a2vqv';
 
 const FILES = ['monsters.js', 'extras.js', 'revised.js', 'finale.js', 'encounters.js'];
 

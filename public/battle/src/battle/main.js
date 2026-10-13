@@ -1,16 +1,16 @@
 // The battle screen: the same engine and the same fights as the encounter builder, played out
 // on a stage. This file owns the page controls and the step loop.
-import { Encounter } from '../engine/combat.js';
-import { DEFAULT_RULES } from '../engine/rules.js';
-import { switchDefaults } from '../data/encounters.js';
-import { PRESETS } from '../data/registry.js';
-import { rowsFromPreset, setupFromState } from '../data/build.js';
-import { findPack, unlock, installTexts } from '../dm-loader.js';
-import { makeGame, BACKGROUNDS } from './stage.js';
-import { Director } from './director.js';
-import { Hud } from './hud.js';
-import { renderParty } from './party.js';
-import { audio, setVolume, loadMusic, playMusic } from './audio.js';
+import { Encounter } from '../engine/combat.js?v=mv6a2ucp';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mv6a2ucp';
+import { switchDefaults } from '../data/encounters.js?v=mv6a2ucp';
+import { PRESETS } from '../data/registry.js?v=mv6a2ucp';
+import { rowsFromPreset, setupFromState } from '../data/build.js?v=mv6a2ucp';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv6a2ucp';
+import { makeGame, BACKGROUNDS } from './stage.js?v=mv6a2ucp';
+import { Director } from './director.js?v=mv6a2ucp';
+import { Hud } from './hud.js?v=mv6a2ucp';
+import { renderParty } from './party.js?v=mv6a2ucp';
+import { audio, setVolume, loadMusic, playMusic } from './audio.js?v=mv6a2ucp';
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -208,7 +208,7 @@ async function init() {
   await document.fonts.ready;
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
-  await import('../library/index.js').catch(() => {});
+  await import('../library/index.js?v=mv6a2ucp').catch(() => {});
   await tryDm();
   fillPresets();
   // a link that names its fight wins over whatever the list fell back to while it was filling
