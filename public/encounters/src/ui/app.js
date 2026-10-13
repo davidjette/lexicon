@@ -167,11 +167,11 @@ function renderAdder(side) {
   const sel = h('select', {});
   const groups = [];
   const missing = Object.keys(PARTY).filter((id) => !state.rows.some((r) => r.kind === 'pc' && r.ref === id && r.side === side));
-  if (missing.length) groups.push(['The Inevitables', missing.map((id) => [id, PARTY[id]().name])]);
+  if (missing.length) groups.push(['The Inevitables', missing.map((id) => [id, `${PARTY[id]().name} · level ${PARTY[id]().level}`])]);
   const lib = [...LIBRARY].sort((a, b) => (side === 'pc' ? (b.ally ? 1 : 0) - (a.ally ? 1 : 0) : (a.ally ? 1 : 0) - (b.ally ? 1 : 0)));
   for (const g of lib) {
     groups.push([g.dm ? `DM ONLY · ${g.group}` : g.group,
-      g.ids.filter((id) => ALL[id]).map((id) => [id, `${ALL[id].name}${ALL[id].cr !== undefined ? ` (CR ${ALL[id].cr})` : ''}`])]);
+      g.ids.filter((id) => ALL[id]).map((id) => [id, `${ALL[id].name}${ALL[id].cr !== undefined ? ` (CR ${ALL[id].cr})` : ''}${ALL[id].level && !/level/i.test(ALL[id].name) ? ` · level ${ALL[id].level}` : ''}`])]);
   }
   const fill = () => {
     const q = (adderQuery[side] || '').trim().toLowerCase();

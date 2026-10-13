@@ -11,6 +11,7 @@ import { avgDice } from '../engine/dice.js';
 import { register } from '../data/registry.js';
 import { featureParts, applyParts } from '../data/features.js';
 import { itemParts } from '../data/items.js';
+import { withUpdates } from './sheet-updates.js';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -96,6 +97,13 @@ export function buildHero(h) {
     plan.push({ use: 'meleeRoutine', if: (E, c) => [...c.engaged].some((x) => E.active(E.get(x))) });
   }
   for (const [id] of routines) plan.push(id);
+  // the other weapons on the sheet: not what the script reaches for, but there for a player
+  armed.filter((a) => a !== bestMelee && a !== bestRanged).forEach((a, i) => {
+    actions[`other${i}`] = mk(a);
+    actions[`other${i}Routine`] = multi(Array(h.perAction).fill(`other${i}`));
+    actions[`other${i}Routine`].name = `${a.name}${h.perAction > 1 ? ` x${h.perAction}` : ''}`;
+    actions[`other${i}`].hidden = h.perAction > 1;
+  });
 
   const bonusPlan = [castHeal(ids), castEscape(ids), actionFirst(castHeal(ids), castEscape(ids), castControl(ids), castBuff(ids)), castAgain(ids), castQuickened(ids, atWill), castBest(ids, 0)];
   if (h.monk && actions.melee) {
@@ -110,7 +118,7 @@ export function buildHero(h) {
   const frontline = routines[0] && routines[0][0] === 'meleeRoutine';
   const tpl = {
     id: h.id, name: h.campaign === 'The Unforeseen' ? `${h.name} (Original, level ${h.level})` : h.name, side: 'pc', pc: true, hero: true, type: 'humanoid', smart: true, pos: frontline ? 'front' : 'back',
-    level: h.level,
+    level: h.level, sheet: h.sheet,
     slots: h.slots || undefined, pact: h.pact || undefined, spellsNotRun: notRun, sorcery: h.sorcery, meta: h.meta,
     hasteWith: routines[0] && routines[0][0] === 'rangedRoutine' ? 'ranged' : bestMelee ? 'melee' : undefined,
     ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist, immune: h.immune, condImmune: h.condImmune,
@@ -130,7 +138,8 @@ export function buildHero(h) {
 
 const creatures = {};
 const groups = {};
-for (const h of HEROES) {
+for (const raw of HEROES) {
+  const h = withUpdates(raw);
   const t = buildHero(h);
   creatures[t.id] = t;
   (groups[h.campaign] = groups[h.campaign] || []).push(t.id);

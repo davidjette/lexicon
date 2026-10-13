@@ -1259,6 +1259,82 @@ const rageOfTheWilds = () => ({
   },
 });
 
+// Gunslinger (Matthew Mercer's Martial Archetype, v1.2). Grit points pay for one "shot" on a firearm
+// attack, named before the roll; grit comes back on a natural 20 and on a killing blow. Table
+// rulings: misfire and reload are not tracked, and the Arms trick shot is left out.
+// A player readies the shot; the script spends grit by a simple order: Deadeye when the shot would
+// be at disadvantage, Violent Shot when one more die would finish the target, a leg shot at a
+// standing enemy that fights hand to hand.
+const gunslinger = (x) => {
+  const L = x.lvl('fighter');
+  const n = Math.max(1, x.mod('wis'));
+  const dc = 8 + x.prof + x.mod('dex');
+  const left = (c) => n - used(c, 'grit');
+  const firearm = (act) => !!act && !act.melee && !act.spell && act.weapon !== false && act.kind === 'attack';
+  const die = (act) => `1d${(/d(\d+)/.exec(act.dmg[0][0]) || [0, 6])[1]}`;
+  const SHOTS = { deadeye: 'Deadeye Shot', violent: 'Violent Shot', head: 'Trick Shot (head)', legs: 'Trick Shot (legs)', torso: 'Trick Shot (torso)' };
+  const regain = (E, c, why) => {
+    if (used(c, 'grit') <= 0) return;
+    c.used.grit -= 1;
+    E.log('info', `${c.name} regains a grit point (${why}).`, c);
+  };
+  const hampered = (E, c) => ['prone', 'restrained', 'blinded', 'poisoned', 'frightened'].some((k) => E.has(c, k)) || engagedNow(E, c);
+  const pick = (E, c, t, act) => {
+    if (hampered(E, c)) return 'deadeye';
+    const avg = act.dmg.reduce((s, [d]) => s + avgDice(d), 0);
+    if (L >= 7 && t.hp > avg && t.hp <= avg + avgDice(die(act))) return 'violent';
+    const basic = E.action(t, t.tpl.basic);
+    if (L >= 10 && !c.turn.tricked && basic && basic.melee && !E.has(t, 'prone') && !E.condImmune(t, 'prone') && !['huge', 'gargantuan'].includes(t.tpl.size)) return 'legs';
+    return null;
+  };
+  const actions = {};
+  for (const [key, name] of Object.entries(SHOTS)) {
+    if ((key === 'violent' && L < 7) || (['head', 'legs', 'torso'].includes(key) && L < 10)) continue;
+    actions[`shot_${key}`] = {
+      kind: 'special', cost: 'free', noTarget: true, name: `${name} on the next shot (1 grit)`,
+      offer: (E, c) => left(c) > 0 && !c.turn.shot,
+      run(E, c) {
+        c.turn.shot = key;
+        E.log('info', `${c.name} lines up a ${name} (grit ${left(c)} of ${n}).`, c);
+      },
+    };
+  }
+  return {
+    actions,
+    flags: L >= 7 ? { init: (x.tpl.init || 0) + x.prof } : {},
+    hooks: {
+      // the shot is named, and the grit spent, before the roll
+      attackMods(E, c, ctx) {
+        c.turn.shotLive = null;
+        if (!firearm(ctx.act) || left(c) <= 0) return null;
+        const mine = !!(E.playerRuns && E.playerRuns(c));
+        const shot = mine ? c.turn.shot : E.current === c ? pick(E, c, ctx.tgt, ctx.act) : null;
+        if (!shot) return null;
+        c.turn.shot = null;
+        spendUse(c, 'grit');
+        c.turn.shotLive = shot;
+        if (!mine) E.log('info', `${c.name} spends grit on a ${SHOTS[shot]} (${left(c)} of ${n} left).`, c);
+        if (['head', 'legs', 'torso'].includes(shot)) c.turn.tricked = true;
+        return shot === 'deadeye' ? { adv: 'Deadeye Shot' } : null;
+      },
+      onMiss(E, c) { c.turn.shotLive = null; },
+      onHit(E, c, ctx) {
+        const shot = c.turn.shotLive;
+        c.turn.shotLive = null;
+        if (firearm(ctx.act) && ctx.crit && ctx.nat === 20) regain(E, c, 'a critical hit');
+        if (!shot || shot === 'deadeye') return null;
+        if (shot === 'violent') return { dmg: [[die(ctx.act), ctx.act.dmg[0][1], 'Violent Shot']] };
+        if (shot === 'legs') return { fx: [{ fx: 'save', ability: 'str', dc, onFail: [{ fx: 'prone' }] }] };
+        if (shot === 'head') return { fx: [{ fx: 'save', ability: 'con', dc, onFail: [{ fx: 'effect', effect: { id: 'trickHead', name: 'Trick Shot (head)', disAtk: true, announce: true }, dur: { who: 'tgt', when: 'end', turns: 1 } }] }] };
+        return { fx: [{ fx: 'push', label: 'Trick Shot (torso)' }] };
+      },
+      afterHit(E, c, ctx) {
+        if (firearm(ctx.act) && ctx.tgt.hp <= 0 && !ctx.tgt.tpl.pc) regain(E, c, 'a killing blow');
+      },
+    },
+  };
+};
+
 // Arcane Archer: two special arrows between rests
 const arcaneShot = (x) => {
   const n = x.uses('arcane shot', 2);
@@ -1631,6 +1707,7 @@ const BOOK = {
   'unsettling words': unsettlingWords,
   'ancestral protectors': ancestralProtectors, 'spirit shield': spiritShield, 'surprise attack': surpriseAttack, 'rage of the wilds': rageOfTheWilds,
   'arcane shot': arcaneShot, 'bursting arrow': arcaneShot, 'grasping arrow': arcaneShot,
+  grit: gunslinger, 'deadeye shot': gunslinger, quickdraw: gunslinger, 'violent shot': gunslinger, 'trick shot': gunslinger,
   'emboldening bond': emboldeningBond,
   'circle of mortality': circleOfMortality, 'channel divinity: path to the grave': pathToTheGrave, "sentinel at death's door": sentinelAtDeathsDoor,
   'psychic blades': psychicBlades, 'psychic blades: attack (dex)': psychicBlades, 'psychic blades: attack (str)': psychicBlades,

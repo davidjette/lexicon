@@ -32,7 +32,7 @@ function card(E, c) {
   const pact = c.pact && c.pact.n > 0 ? `pact ${c.pact.level}:${c.pact.n}` : '';
   const res = [slots, pact].filter(Boolean).join('  ');
   const now = E.current === c && !E.over;
-  const head = el('div', 'party-head', el('span', 'party-name', c.name), el('span', 'party-hp', `${Math.max(0, c.hp)}/${c.maxHp}${c.tempHp ? ` +${c.tempHp}` : ''} · AC ${E.acOf(c)}`));
+  const head = el('div', 'party-head', el('span', 'party-name', c.name, c.tpl.level && !/level/i.test(c.name) ? el('span', 'party-level', ` · level ${c.tpl.level}`) : null), el('span', 'party-hp', `${Math.max(0, c.hp)}/${c.maxHp}${c.tempHp ? ` +${c.tempHp}` : ''} · AC ${E.acOf(c)}`));
   const slotLine = res ? el('div', 'party-res', `Slots ${res}`) : null;
   if (slotLine) slotLine.title = 'Spell slots left, as level:count';
   return el('div', `party-card${now ? ' now' : ''}${c.dead || c.fled ? ' out' : ''}`, head, bar, tags, slotLine);
