@@ -7,6 +7,7 @@ export const BACKGROUNDS = [
   ['forest-clearing.webp', 'Forest clearing'],
   ['glitterhame.webp', 'Glitterhame'],
   ['imperial-garden.webp', 'Imperial garden'],
+  ['labeefe.webp', 'Labeefe'],
   ['lazaret.webp', 'Lazaret'],
   ['mountain-peak.webp', 'Mountain peak'],
   ['mournlands.webp', 'Mournlands'],
