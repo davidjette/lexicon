@@ -161,6 +161,8 @@ export class Director {
     for (const c of E.list) {
       const u = this.unit(c.id);
       if (!u) continue;
+      // a druid in another shape is drawn as that shape
+      u.setForm(c.form && c.tpl.forms && c.tpl.forms[c.form] ? c.tpl.forms[c.form] : null);
       const f = !c.dead && !c.down && !c.fled ? c.fx.find((x) => x.aura) : null;
       const type = f && Array.isArray(f.aura.dmg) && f.aura.dmg[0] ? f.aura.dmg[0][1] : null;
       u.auraName = f ? f.name : null;

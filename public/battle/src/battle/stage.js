@@ -41,16 +41,8 @@ export class Unit {
     this.id = c.id;
     this.side = c.side;
     this.name = c.name;
-    const sheet = sheetFor(c.tpl);
-    const big = sizeFactor(c.tpl);
-    this.b = sheet
-      ? new SheetBattler(scene, sheet, x, y, c.side, 2 * big * sheetScale(sheet))
-      : new TokenBattler(scene, { img: c.tpl.img, name: c.name }, x, y, c.side, Math.round(76 * big));
-    this.isSheet = !!sheet;
-    // half the width it takes up on the field, for clicks and for standing beside it
-    this.half = Math.round(52 * big);
-    this.node = this.b.node;
-    this.dir = this.b.dir;
+    this.ownLook = c.tpl;
+    this.body(c.tpl, x, y);
     this.home = { x, y };
     this.away = false;
     this.fallen = false;
@@ -60,6 +52,40 @@ export class Unit {
     this.hpText = scene.add.text(x, y + 34, '', { fontFamily: 'EB Garamond, serif', fontSize: 13, color: '#b9b2a3' }).setOrigin(0.5, 0);
     this.setHp(c.hp, c.maxHp, c.tempHp);
     this.place();
+  }
+
+  // Builds the battler for a look: a creature's own template, or the form it has taken.
+  body(look, x, y) {
+    const sheet = sheetFor(look);
+    const big = sizeFactor(look);
+    this.b = sheet
+      ? new SheetBattler(this.scene, sheet, x, y, this.side, 2 * big * sheetScale(sheet))
+      : new TokenBattler(this.scene, { img: look.img, name: look.name || this.name }, x, y, this.side, Math.round(76 * big));
+    this.isSheet = !!sheet;
+    // half the width it takes up on the field, for clicks and for standing beside it
+    this.half = Math.round(52 * big);
+    this.node = this.b.node;
+    this.dir = this.b.dir;
+    if (this.home) this.b.home = this.home;
+  }
+
+  // Wild Shape and the like: the unit is redrawn as the form it has taken; null is its own body.
+  setForm(form) {
+    const name = form ? form.name : null;
+    if (name === (this.formName ?? null)) return;
+    this.formName = name;
+    const { x, y } = this.node;
+    const alpha = this.node.alpha;
+    this.node.destroy();
+    this.aura = null;
+    this.auraColor = undefined;
+    this.statusColor = undefined;
+    this.body(form ? { name: form.name, type: form.type, size: form.size } : this.ownLook, x, y);
+    this.node.setAlpha(alpha);
+    this.place();
+    this.rest();
+    this.flash(0xb8f0a0);
+    sfx(this.scene, 'cast');
   }
 
   // keeps the things drawn lower on the field in front

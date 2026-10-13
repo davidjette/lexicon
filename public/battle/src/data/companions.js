@@ -80,7 +80,7 @@ export function cannon(h, x, kind, n) {
 export function formFrom(tpl, ref, own) {
   const m = ALL[ref];
   if (!m) return null;
-  return { name: m.name, hp: m.hp, ac: m.ac, abil: { ...own, str: m.abil.str, dex: m.abil.dex, con: m.abil.con }, actions: { formStrike: m.actions.multi || Object.values(m.actions)[0], ...m.actions } };
+  return { name: m.name, type: m.type, size: m.size, hp: m.hp, ac: m.ac, abil: { ...own, str: m.abil.str, dex: m.abil.dex, con: m.abil.con }, actions: { formStrike: m.actions.multi || Object.values(m.actions)[0], ...m.actions } };
 }
 
 export function shape(E, c, key) {
