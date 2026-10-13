@@ -1,7 +1,7 @@
 // Builders for creature data. They keep the stat-block transcriptions short and readable.
 
-import { rollDice } from '../engine/dice.js?v=mv6a2vqv';
-import { enemiesInAura, areaTargets } from '../engine/zones.js?v=mv6a2vqv';
+import { rollDice } from '../engine/dice.js?v=mv6bd7z3';
+import { enemiesInAura, areaTargets } from '../engine/zones.js?v=mv6bd7z3';
 
 // Melee attack. dmg is [[dice, type], ...]
 export const melee = (name, toHit, dmg, o = {}) => ({ kind: 'attack', name, toHit, melee: true, dmg, ...o });

@@ -1,21 +1,21 @@
 // The battle screen: the same engine and the same fights as the encounter builder, played out
 // on a stage. This file owns the page controls and the step loop.
-import { Encounter } from '../engine/combat.js?v=mv6a2ucp';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mv6a2ucp';
-import { switchDefaults } from '../data/encounters.js?v=mv6a2ucp';
-import { PRESETS } from '../data/registry.js?v=mv6a2ucp';
-import { rowsFromPreset, setupFromState } from '../data/build.js?v=mv6a2ucp';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv6a2ucp';
-import { makeGame, BACKGROUNDS } from './stage.js?v=mv6a2ucp';
-import { Director } from './director.js?v=mv6a2ucp';
-import { Hud } from './hud.js?v=mv6a2ucp';
-import { renderParty } from './party.js?v=mv6a2ucp';
-import { audio, setVolume, loadMusic, playMusic } from './audio.js?v=mv6a2ucp';
+import { Encounter } from '../engine/combat.js?v=mv6bd64u';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mv6bd64u';
+import { switchDefaults } from '../data/encounters.js?v=mv6bd64u';
+import { PRESETS } from '../data/registry.js?v=mv6bd64u';
+import { rowsFromPreset, setupFromState } from '../data/build.js?v=mv6bd64u';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv6bd64u';
+import { makeGame, BACKGROUNDS } from './stage.js?v=mv6bd64u';
+import { Director } from './director.js?v=mv6bd64u';
+import { Hud } from './hud.js?v=mv6bd64u';
+import { renderParty } from './party.js?v=mv6bd64u';
+import { audio, setVolume, loadMusic, playMusic } from './audio.js?v=mv6bd64u';
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
-// A demo copy of the page (<html data-demo="presetId">) offers that one fight and nothing else.
-const DEMO = document.documentElement.dataset.demo || null;
+// A demo copy of the page (<html data-demo="id,id,...">) offers those fights and nothing else.
+const DEMO = (document.documentElement.dataset.demo || '').split(',').filter(Boolean);
 
 const { game, stage } = makeGame('stage');
 const director = new Director(stage, { onEvent: showEvent });
@@ -61,7 +61,7 @@ function fillPresets() {
   const count = (side) => sent.rows.filter((r) => r.side === side).length;
   sel.replaceChildren(
     ...(sent ? [new Option(`From the builder: ${count('pc')} against ${count('monster')}`, BUILDER)] : []),
-    ...PRESETS.filter((p) => (DEMO ? p.id === DEMO : p.id !== 'blank')).map((p) => new Option(`${p.dm ? 'DM · ' : ''}${p.name || p.id}`, p.id)));
+    ...PRESETS.filter((p) => (DEMO.length ? DEMO.includes(p.id) : p.id !== 'blank')).map((p) => new Option(`${p.dm ? 'DM · ' : ''}${p.name || p.id}`, p.id)));
   if ([...sel.options].some((o) => o.value === keep)) sel.value = keep;
 }
 
@@ -150,7 +150,9 @@ async function newFight() {
   audio.cue = null;
   playMusic(stage, enc.list.some((c) => c.side === 'monster' && (c.tpl.boss || c.tpl.leg)) ? 'boss' : 'battle');
   const fightPreset = PRESETS.find((p) => p.id === (stateFor($('preset').value) || {}).presetId);
-  await stage.setBackground($('bg').value || (fightPreset && fightPreset.bg));
+  // a fight sent from the builder has no place of its own: it gets a background picked by its seed
+  const anywhere = $('preset').value === BUILDER && BACKGROUNDS.length ? BACKGROUNDS[(+$('seed').value || 0) % BACKGROUNDS.length][0] : undefined;
+  await stage.setBackground($('bg').value || (fightPreset && fightPreset.bg) || anywhere);
   await stage.arrange(enc.list);
   await playNew();
   busy = false;
@@ -194,7 +196,7 @@ async function run() {
 async function tryDm() {
   try {
     // the public copy has no pack of its own; a fight sent from the builder may still need the builder's
-    const found = (await findPack()) || (DEMO ? await findPack('../encounters/') : null);
+    const found = (await findPack()) || (DEMO.length ? await findPack('../encounters/') : null);
     if (!found) return;
     const pass = found.kind === 'local' ? null : localStorage.getItem('encounters-dm-pass');
     if (found.kind !== 'local' && !pass) return;
@@ -208,7 +210,7 @@ async function init() {
   await document.fonts.ready;
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
-  await import('../library/index.js?v=mv6a2ucp').catch(() => {});
+  await import('../library/index.js?v=mv6bd64u').catch(() => {});
   await tryDm();
   fillPresets();
   // a link that names its fight wins over whatever the list fell back to while it was filling

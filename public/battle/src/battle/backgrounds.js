@@ -12,5 +12,6 @@ export const BACKGROUNDS = [
   ['mountain-peak.webp', 'Mountain peak'],
   ['mournlands.webp', 'Mournlands'],
   ['sharn-balcony.webp', 'Sharn balcony'],
+  ['starship-bridge.webp', 'Starship bridge'],
   ['throne-room.webp', 'Throne room'],
 ];
