@@ -29,6 +29,13 @@ export const TYPE_COLOR = {
   fire: 0xff8a3c, cold: 0x9fd8ff, lightning: 0xffe45c, thunder: 0x7fe0d0, acid: 0xb6e04a, poison: 0x7ac74f,
   necrotic: 0xa070d8, radiant: 0xffe9a0, psychic: 0xff8ad0, force: 0xc49bff,
 };
+// The tint a condition gives its victim. Where several apply, the first in this list shows.
+export const STATUS_COLOR = {
+  petrified: 0x9a9aa4, paralysed: 0xf0e070, stunned: 0xf0e070, unconscious: 0x9a9aa4, incapacitated: 0xf0e070,
+  dominated: 0xf49ad0, charmed: 0xf49ad0, restrained: 0xe0a050, grappled: 0xe0a050, speed0: 0xe0a050, grounded: 0xe0a050,
+  frightened: 0xb890f0, poisoned: 0x8fe070, blinded: 0x8088a0, slowed: 0x8ab8f0,
+};
+const STATUS_ORDER = Object.keys(STATUS_COLOR);
 // how far a type's sparks drift up (negative) or down as they fly
 const TYPE_DRIFT = { fire: -46, radiant: -46, necrotic: -24, cold: 40, acid: 46, poison: 46 };
 const hex = (n) => `#${n.toString(16).padStart(6, '0')}`;
@@ -74,8 +81,15 @@ export class Unit {
     this.barBack.setPosition(x, y + 28);
     this.bar.setPosition(x - 36, y + 28);
     this.hpText.setPosition(x, y + 34);
-    if (!this.away) this.node.setPosition(x, y);
-    this.place();
+    if (this.away) return this.place();
+    // a change of rank is walked; small shuffles within a column just happen
+    if (Math.abs(this.node.x - x) > 40 && !this.fallen) {
+      this.b.pose('advance');
+      this.scene.tweens.add({ targets: this.node, x, y, duration: 300, ease: 'Quad.easeOut', onComplete: () => { this.place(); this.rest(); } });
+    } else {
+      this.node.setPosition(x, y);
+      this.place();
+    }
   }
 
   setHp(hp, maxHp, tempHp = 0) {
@@ -107,7 +121,7 @@ export class Unit {
     if (Math.abs(this.node.x - x) < 4 && Math.abs(this.node.y - y) < 4) return;
     this.away = true;
     await this.move(x, y);
-    this.b.pose(this.fallen ? 'dead' : 'idle');
+    this.rest();
   }
 
   async goHome() {
@@ -116,7 +130,7 @@ export class Unit {
     this.b.pose('escape');
     await new Promise((r) => this.scene.tweens.add({ targets: this.node, x: this.home.x, y: this.home.y, duration: 220, ease: 'Quad.easeOut', onComplete: r }));
     this.place();
-    this.b.pose(this.fallen ? 'dead' : 'idle');
+    this.rest();
   }
 
   popup(text, color = '#ffffff', size = 26) {
@@ -183,19 +197,38 @@ export class Unit {
     this.flash(col);
     if (type) this.sparks(type, col, big ? 14 : 8);
     this.popup(String(amount), hex(col), big ? 36 : 28);
-    if (!this.fallen) this.b.pose('damage').then(() => { if (!this.fallen) this.b.pose('idle'); });
+    if (!this.fallen && !this.prone) this.b.pose('damage').then(() => this.rest());
+  }
+
+  // The pose a unit holds when nothing is happening: lying down when fallen or prone, the ailing
+  // pose under a condition, otherwise standing ready.
+  rest() {
+    this.b.pose(this.fallen || this.prone ? 'dead' : this.ailing ? 'abnormal' : 'idle');
   }
 
   setFallen(down, dead = false) {
-    if (down && !this.fallen) {
-      this.fallen = true;
-      this.b.pose('dead');
-    } else if (!down && this.fallen) {
-      this.fallen = false;
-      this.b.pose('idle');
+    if (down !== this.fallen) {
+      this.fallen = down;
+      this.rest();
     }
     this.node.setAlpha(dead ? 0.4 : 1);
     this.label.setAlpha(dead ? 0.4 : 1);
+  }
+
+  // Conditions on the unit: it lies down while prone, and takes the colour of the worst one.
+  setStatus(conds) {
+    const prone = conds.includes('prone');
+    const hit = STATUS_ORDER.find((k) => conds.includes(k));
+    const color = hit ? STATUS_COLOR[hit] : null;
+    if (color !== (this.statusColor ?? null)) {
+      this.statusColor = color;
+      this.b.tint(color);
+    }
+    if (prone !== !!this.prone || !!hit !== !!this.ailing) {
+      this.prone = prone;
+      this.ailing = !!hit;
+      if (!this.away) this.rest();
+    }
   }
 
   leave() {

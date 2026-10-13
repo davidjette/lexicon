@@ -25,6 +25,12 @@ export class TokenBattler {
     this.mid = this.height / 2;
   }
 
+  tint(color) {
+    if (!this.face.setTint) return;
+    if (color === null) this.face.clearTint();
+    else this.face.setTint(color);
+  }
+
   tween(cfg) {
     return new Promise((resolve) => this.scene.tweens.add({ targets: this.node, ...cfg, onComplete: resolve }));
   }
@@ -43,7 +49,7 @@ export class TokenBattler {
     if (name === 'dead') {
       return this.tween({ angle: -80 * this.dir, duration: 300 });
     }
-    if (name === 'idle') {
+    if (name === 'idle' || name === 'abnormal') {
       n.setAlpha(1);
       n.setAngle(0);
     }

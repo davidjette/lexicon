@@ -82,6 +82,7 @@ export class Hud {
   chose(E, c, o) {
     sfx(this.stage, 'select');
     if (o.withdraw) return this.answer({ withdraw: true });
+    if (o.shift) return this.answer({ shift: o.shift });
     const choice = { act: o.act, opt: o.opt, cost: o.cost, free: o.free, targets: [] };
     if (o.levels) return this.showLevels(E, c, o, choice);
     this.showTargets(E, c, o, choice);
@@ -94,6 +95,7 @@ export class Hud {
   }
 
   showTargets(E, c, o, choice) {
+    const far = new Set(o.targets.filter((t) => t.far).map((t) => t.id));
     const live = o.targets.map((t) => E.get(t.id)).filter((t) => t && E.present(t) && (t.side === c.side || !t.dead));
     if (!o.targets.length) return this.answer(choice);
     if (!live.length) return this.showActions(E, c);
@@ -101,7 +103,9 @@ export class Hud {
     const back = el('button', { class: 'btn small ghost', onclick: () => { sfx(this.stage, 'back'); this.showActions(E, c); } }, 'Back');
     const label = (t) => (t.side === c.side ? `${t.name} (${t.hp}/${t.maxHp})` : `${t.name}${t.down ? ' (down)' : ''}`);
     this.root.replaceChildren(this.head(E, c, `${o.name}: choose a target, here or on the field`),
-      el('div', { class: 'hud-row' }, ...live.map((t) => el('button', { class: 'btn small', onclick: () => take(t.id) }, label(t))), back));
-    this.stage.pick(live.map((t) => t.id), take);
+      el('div', { class: 'hud-row' }, ...live.map((t) => (far.has(t.id)
+        ? el('button', { class: 'btn small ghost', disabled: '', title: 'Out of reach: get to your front rank, and the enemy rank in front of this one must fall first' }, `${label(t)} (out of reach)`)
+        : el('button', { class: 'btn small', onclick: () => take(t.id) }, label(t)))), back));
+    this.stage.pick(live.filter((t) => !far.has(t.id)).map((t) => t.id), take);
   }
 }

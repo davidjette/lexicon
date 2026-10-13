@@ -9,6 +9,7 @@ import { findPack, unlock, installTexts } from '../dm-loader.js';
 import { makeGame, BACKGROUNDS } from './stage.js';
 import { Director } from './director.js';
 import { Hud } from './hud.js';
+import { renderParty } from './party.js';
 import { audio, setVolume, loadMusic, playMusic } from './audio.js';
 
 const $ = (id) => document.getElementById(id);
@@ -69,6 +70,7 @@ async function playNew() {
   const events = enc.events.slice(shown);
   shown = enc.events.length;
   await director.play(events, enc);
+  if (mine === fightNo) renderParty($('party'), enc);
   if (mine === fightNo && enc.over) {
     setPlaying(false);
     playMusic(stage, enc.result === 'victory' ? 'victory' : 'defeat', { loop: false });
@@ -85,6 +87,7 @@ async function showSelect() {
   while (busy) await stage.wait(50);
   const mine = fightNo;
   enc = null;
+  renderParty($('party'), null);
   $('log').replaceChildren();
   fillPresets();
   const play = $('mode').value === 'play';
@@ -128,7 +131,7 @@ async function newFight() {
   const seed = Math.max(1, +$('seed').value || 1);
   try {
     const state = stateFor($('preset').value);
-    if ($('ranks').checked) state.rules = { ...state.rules, ranks: true };
+    for (const rule of ['ranks', 'movement']) if ($(rule).checked) state.rules = { ...state.rules, [rule]: true };
     const setup = setupFromState(state, seed);
     if ($('mode').value === 'play') setup.control = { side: 'pc' };
     enc = new Encounter(setup).start();
@@ -230,8 +233,10 @@ async function init() {
   $('play').onclick = run;
   $('reseed').onclick = () => { $('seed').value = 1 + Math.floor(Math.random() * 99999); newFight(); };
   $('menu').onclick = showSelect;
-  $('ranks').checked = localStorage.getItem('battle-ranks') === '1';
-  $('ranks').onchange = () => { localStorage.setItem('battle-ranks', $('ranks').checked ? '1' : '0'); if (enc) newFight(); };
+  for (const rule of ['ranks', 'movement']) {
+    $(rule).checked = localStorage.getItem(`battle-${rule}`) === '1';
+    $(rule).onchange = () => { localStorage.setItem(`battle-${rule}`, $(rule).checked ? '1' : '0'); if (enc) newFight(); };
+  }
   $('bg').append(...BACKGROUNDS.map(([file, name]) => new Option(name, file)));
   $('bg').onchange = () => stage.setBackground($('bg').value || undefined);
   for (const m of ['play', 'watch']) $(`pick-${m}`).onclick = () => { $('mode').onchange = null; $('mode').value = m; $('mode').onchange = newFight; showSelect(); };

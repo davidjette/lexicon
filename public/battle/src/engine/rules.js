@@ -14,10 +14,12 @@ export const DEFAULT_RULES = {
   parryHalves: true,
   legendaryUse: 1, // chance a legendary creature takes each legendary action it could (a DM who forgets some: 0.5)
   legendaryHeavy: true, // legendary actions may be full spells and recharge abilities, where a block allows it
+  movement: false, // ranks matter: one step between front, mid and back a turn, and melee only reaches the foremost rank
   ranks: false, // an area hits every enemy in the target's rank (front, mid, back); a large area hits two ranks
   maxRounds: 30,
 };
 
+const RANKS = ['front', 'mid', 'back'];
 const INCAP = ['paralysed', 'stunned', 'unconscious', 'incapacitated', 'banished', 'petrified'];
 const IMMOBILE = ['grappled', 'restrained', 'paralysed', 'stunned', 'unconscious', 'speed0', 'banished'];
 
@@ -419,12 +421,58 @@ export class Engine {
     if (isEngaged(att, tgt)) return true;
     if (this.immobile(att) || att.turn.stopped) return false;
     if (this.flies(tgt) && !this.flies(att) && !this.has(tgt, 'grounded')) return false;
+    if (this.rules.movement && !this.roams(att)) {
+      // on foot: the attacker has to get to its own front rank, and only the other side's
+      // foremost standing rank can be reached
+      if (RANKS.indexOf(att.pos) > (att.turn.move || 0)) return false;
+      if (tgt.pos !== this.foremost(tgt.side)) return false;
+    }
     return hasRoom(this, tgt);
+  }
+
+  // ---------- ranks and movement (table rule `movement`) ----------
+  // A flyer that has not been grounded, or anyone who has teleported this turn, goes where it likes.
+  roams(c) {
+    return (this.flies(c) && !this.has(c, 'grounded')) || !!c.turn.teleported;
+  }
+
+  // The rank of a side that melee can get at: its front while anyone stands there, then mid, then back.
+  foremost(side) {
+    const up = this.side(side).filter((x) => this.present(x) && !x.down);
+    // a creature in the air holds no line: those on the ground decide, unless nobody is
+    const ground = up.filter((x) => !this.flies(x) || this.has(x, 'grounded'));
+    const wall = ground.length ? ground : up;
+    return RANKS.find((r) => wall.some((x) => x.pos === r)) || 'front';
+  }
+
+  // Whether c may change rank by `dir` (-1 toward the enemy, 1 away) right now, and what it costs:
+  // 'free' for a flyer or after a teleport, 'move' from this turn's movement, 'dash' with the action.
+  shiftCost(c, dir) {
+    if (!this.rules.movement || this.immobile(c) || c.turn.stopped) return null;
+    const to = RANKS[RANKS.indexOf(c.pos) + dir];
+    if (!to) return null;
+    if (this.roams(c)) return 'free';
+    if ((c.turn.move || 0) > 0) return 'move';
+    return c.turn.action ? 'dash' : null;
+  }
+
+  // Moves c one rank. Stepping away from enemies in melee leaves them, and they may strike.
+  shift(c, dir) {
+    const cost = this.shiftCost(c, dir);
+    if (!cost) return false;
+    if (cost === 'move') c.turn.move -= 1;
+    if (cost === 'dash') c.turn.action = false;
+    if (dir > 0 && c.engaged.size) this.withdraw(c, { label: 'breaks away' });
+    if (!this.active(c)) return false;
+    c.pos = RANKS[RANKS.indexOf(c.pos) + dir];
+    this.log('move', `${c.name} ${dir < 0 ? 'moves up' : 'falls back'} to the ${c.pos} rank${cost === 'dash' ? ' (Dash)' : ''}.`, c, { who: c.id, rank: c.pos });
+    return true;
   }
 
   closeWith(att, tgt) {
     if (isEngaged(att, tgt)) return true;
     if (!this.canReach(att, tgt)) return false;
+    if (this.rules.movement && !this.roams(att)) while (att.pos !== 'front' && this.shift(att, -1));
     engage(att, tgt);
     this.log('move', `${att.name} closes with ${tgt.name}.`, att, { who: att.id, to: tgt.id });
     this.react('entersReach', { subject: att, mover: att, tgt: att, into: tgt });
@@ -1132,12 +1180,13 @@ export class Engine {
 
   // ---------- leaving melee ----------
   withdraw(c, { teleport = false, label = 'pulls back' } = {}) {
+    if (teleport) c.turn.teleported = true;
     if (!c.engaged.size) return;
     const foes = [...c.engaged].map((id) => this.get(id)).filter((e) => this.active(e));
     breakAll(this, c);
     this.removeFx(c, (f) => f.cond === 'grappled' && teleport);
     this.log('move', `${c.name} ${label}.`, c, { who: c.id, away: true });
-    if (teleport || c.turn.noOA) return;
+    if (teleport || c.turn.noOA || c.tpl.noOA) return;
     for (const e of foes) {
       if (!this.active(c)) break;
       if (!e.reaction || this.incapacitated(e) || this.has(e, 'noReactions') || this.has(e, 'slowed')) continue;

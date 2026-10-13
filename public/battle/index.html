@@ -39,6 +39,13 @@
     #select-list { display: flex; flex-direction: column; gap: 8px; width: min(560px, 100%); }
     #select-list .btn { text-align: left; font-size: 15px; padding: 8px 12px; }
     .select-note { font-size: 13px; opacity: 0.7; margin: 0; text-align: center; }
+    .party { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
+    .party-card { flex: 1 1 200px; max-width: 320px; padding: 6px 10px; border: 1px solid var(--hair); border-radius: 6px; background: var(--card, rgba(30, 26, 20, 0.6)); }
+    .party-card.now { border-color: #e8c66a; }
+    .party-card.out { opacity: 0.5; }
+    .party-name { font-family: 'Cinzel', serif; font-size: 15px; }
+    .party-hp, .party-res { font-size: 13px; opacity: 0.85; }
+    .party .tag { font-size: 12px; }
     .credit { font-size: 12px; opacity: 0.6; margin-top: 8px; }
   </style>
 </head>
@@ -49,6 +56,7 @@
       <label class="field grow">Fight <select id="preset"></select></label>
       <label class="field">You <select id="mode"><option value="play">Play the party</option><option value="watch">Watch</option></select></label>
       <label class="field">Background <select id="bg"><option value="">The fight's own</option></select></label>
+      <label class="field" title="Ranks matter: each turn a combatant may step one rank forward or back (two with a Dash). Melee reaches only the enemy's foremost rank, from your own front rank. Flyers and teleports go anywhere.">Movement <input id="movement" type="checkbox"></label>
       <label class="field" title="Area spells hit every enemy in the target's rank (front, mid or back); big ones hit two ranks">Ranks <input id="ranks" type="checkbox"></label>
       <label class="field">Seed <input id="seed" type="number" min="1" style="width: 7em"></label>
       <button id="reseed" class="btn small ghost">New seed</button>
@@ -73,6 +81,7 @@
         <p class="select-note">More fights: set one up on the <a href="../encounters/">builder page</a> and press Battle screen.</p>
       </div>
     </div>
+    <div id="party" class="party"></div>
     <div id="hud" class="card" hidden></div>
     <div id="caption" class="card"></div>
     <div id="log" class="card"></div>

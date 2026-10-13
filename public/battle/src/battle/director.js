@@ -74,7 +74,7 @@ export class Director {
             await this.settle(u);
             sfx(st, 'cast');
             await u.pose('magic');
-            if (!u.fallen) u.pose('idle');
+            u.rest();
             if (d.kind === 'save' && caught.length > 1) st.area(caught, this.colorAhead(events, i));
           }
           break;
@@ -101,12 +101,19 @@ export class Director {
             u.popup(d.cond, '#d9c7f0', 16);
             sfx(st, 'cond');
           }
+          this.auras(E);
           break;
         }
         case 'move': {
           const u = d && this.unit(d.who);
           if (!u) break;
-          if (d.to && this.unit(d.to)) {
+          if (d.rank) {
+            // a step between ranks: everyone takes their new places
+            await this.settle();
+            sfx(st, 'step');
+            await st.arrange(E.list);
+            await st.wait(320);
+          } else if (d.to && this.unit(d.to)) {
             await this.settle(u);
             await u.closeOn(this.unit(d.to));
           } else if (d.away) await u.goHome();
@@ -158,6 +165,7 @@ export class Director {
       const type = f && Array.isArray(f.aura.dmg) && f.aura.dmg[0] ? f.aura.dmg[0][1] : null;
       u.auraName = f ? f.name : null;
       u.setAura(f ? TYPE_COLOR[type] || 0xe8dfc8 : null);
+      u.setStatus(c.dead || c.fled ? [] : c.fx.filter((x) => x.cond).map((x) => x.cond));
     }
   }
 
@@ -202,7 +210,7 @@ export class Director {
     };
     await att.pose('attack', { onImpact: land });
     await done;
-    if (!att.fallen) att.pose('idle');
+    att.rest();
   }
 
   // After the events are shown, make the stage agree with the engine: bars, the fallen, arrivals

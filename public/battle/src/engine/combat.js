@@ -153,6 +153,7 @@ export class Encounter extends Engine {
     c.stats.turns += 1;
     const radiant = c.turn.radiantHit;
     c.turn = { action: true, bonus: true, second, first: !c.memo.acted };
+    if (this.rules.movement) c.turn.move = 1;
     c.reaction = true;
     if (c.leg && !second) c.legLeft = c.leg;
     this.log('turn', `${c.name}'s turn${second ? ' (second)' : ''}. HP ${c.hp}/${c.maxHp}${c.tempHp ? ` +${c.tempHp} temp` : ''}.`, c);
@@ -202,7 +203,9 @@ export class Encounter extends Engine {
       }
       if (this.has(c, 'prone') && !this.immobile(c)) {
         this.removeFx(c, (f) => f.cond === 'prone', false);
-        this.log('move', `${c.name} stands up.`, c);
+        // with ranks in play, getting up is the whole of the turn's movement
+        if (this.rules.movement) c.turn.move = 0;
+        this.log('move', `${c.name} stands up${this.rules.movement ? ' (all of this turn\'s movement)' : ''}.`, c);
       }
       if (this.incapacitated(c)) {
         this.log('info', `${c.name} cannot act.`, c);
@@ -214,7 +217,7 @@ export class Encounter extends Engine {
           // the player picks each action; the turn ends on a pass or when nothing is left to do
           for (let n = 0; n < 12; n++) {
             if (!this.active(c) || this.incapacitated(c) || this.over) break;
-            if (this.ai.options(this, c, 'turn', { full: true }).every((o) => o.pass || o.withdraw)) break;
+            if (this.ai.options(this, c, 'turn', { full: true }).every((o) => o.pass || o.withdraw || o.shift)) break;
             const d = { actor: c, kind: 'turn', choice: null, human: true };
             yield d;
             if (this.over || !this.active(c)) break;
@@ -223,6 +226,7 @@ export class Encounter extends Engine {
             this.checkEnd();
           }
         } else {
+          if (this.rules.movement) this.scriptedRetreat(c);
           for (let n = 0; n < 12; n++) {
             if (!this.active(c) || this.incapacitated(c) || this.over) break;
             const choice = this.ai.next(this, c);
@@ -233,6 +237,7 @@ export class Encounter extends Engine {
             this.execute(c, d.choice);
             this.checkEnd();
           }
+          if (this.rules.movement && !this.over) this.scriptedAdvance(c);
         }
       }
       c.memo.acted = true;
@@ -251,6 +256,32 @@ export class Encounter extends Engine {
     this.tickFx(c, 'end');
     if (this.alive(c)) this.hook(c, 'onTurnEnd', {});
     this.checkEnd();
+  }
+
+  // Scripted movement, before acting: a creature that fights at range, or is badly hurt, gets out
+  // of melee by falling back a rank, but only when someone on its side still stands in front of it
+  // afterwards (otherwise the enemy simply follows).
+  fightsAtRange(c) {
+    const basic = this.action(c, c.tpl.basic);
+    return !!basic && !basic.melee;
+  }
+
+  scriptedRetreat(c) {
+    if (!this.active(c) || this.incapacitated(c) || c.pos === 'back' || this.roams(c)) return;
+    if (!this.fightsAtRange(c)) return;
+    const pressed = [...c.engaged].some((id) => this.active(this.get(id)));
+    if (!pressed && c.hp > c.maxHp * 0.3) return;
+    const mine = ['front', 'mid', 'back'].indexOf(c.pos);
+    const cover = this.side(c.side).some((x) => x !== c && this.present(x) && !x.down && ['front', 'mid', 'back'].indexOf(x.pos) <= mine);
+    if (cover && this.shiftCost(c, 1) === 'move') this.shift(c, 1);
+  }
+
+  // After acting: a creature that fights hand to hand and found nothing to do walks toward the
+  // enemy, with a Dash if its action is still unspent.
+  scriptedAdvance(c) {
+    if (!this.active(c) || this.incapacitated(c) || c.pos === 'front' || this.roams(c)) return;
+    if (this.fightsAtRange(c) || !c.turn.action) return;
+    while (c.pos !== 'front' && this.shift(c, -1));
   }
 
   // Summoned creatures and companions stay scripted.
@@ -276,6 +307,10 @@ export class Encounter extends Engine {
     if (!choice || choice.pass) {
       c.turn.action = false;
       c.turn.bonus = false;
+      return;
+    }
+    if (choice.shift) {
+      this.shift(c, choice.shift);
       return;
     }
     if (choice.withdraw) this.withdraw(c, choice.withdraw === true ? {} : choice.withdraw);

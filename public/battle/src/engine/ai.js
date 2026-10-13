@@ -214,9 +214,11 @@ export const AI = {
   options(E, c, kind, { full = false } = {}) {
     const out = [];
     const foes = E.enemiesOf(c).map((t) => ({ id: t.id, name: t.name }));
+    // with ranks in play, an enemy a melee attack cannot get to is listed but marked out of reach
+    const inReach = (act, opt) => (full && E.rules.movement && isMeleeAction(E, c, act, opt) ? foes.map((t) => ({ ...t, far: !E.canReach(c, E.get(t.id)) })) : foes);
     const friends = E.alliesOf(c, true).map((t) => ({ id: t.id, name: t.name }));
     const push = (id, act, extra = {}) => {
-      const pool = act.ally || act.kind === 'heal' || act.kind === 'buff' ? friends : foes;
+      const pool = act.ally || act.kind === 'heal' || act.kind === 'buff' ? friends : inReach(act, 0);
       const none = act.self || (act.area && (act.area.type === 'engaged' || act.area.type === 'all')) || act.noTarget;
       const base = { act: id, name: act.name, cost: extra.cost || act.cost || 'action', targets: none ? [] : pool, ...extra };
       if (full && act.slot && c.slots && !act.pact) {
@@ -243,6 +245,12 @@ export const AI = {
       }
     }
     if (full && kind === 'turn' && c.engaged.size) out.push({ withdraw: true, name: 'Pull back', cost: 'move', targets: [] });
+    if (full && kind === 'turn' && E.rules.movement) {
+      for (const [dir, word] of [[-1, 'Move forward'], [1, 'Move back']]) {
+        const cost = E.shiftCost(c, dir);
+        if (cost) out.push({ shift: dir, name: cost === 'dash' ? `${word} (Dash, uses the action)` : word, cost: 'move', targets: [] });
+      }
+    }
     out.push({ pass: true, name: kind === 'turn' ? 'End turn' : 'Pass', targets: [] });
     return out;
   },

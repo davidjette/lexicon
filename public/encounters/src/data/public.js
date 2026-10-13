@@ -26,9 +26,17 @@ def('foraDollar', {
       kind: 'special', name: 'Quarry', cost: 'bonus',
       aiTarget: (E, c) => (E.enemiesOf(c).some((t) => t.memo.quarry && !t.down) ? null : E.enemiesOf(c).filter((t) => !t.down).sort((a, b) => b.maxHp - a.maxHp)[0] || null),
       run(E, c, act, choice) {
-        for (const t of E.list) t.memo.quarry = false;
+        // a concentration spell: the mark lasts until he moves it or loses concentration
+        for (const o of E.list) {
+          o.memo.quarry = false;
+          o.fx = o.fx.filter((f) => !(f.id === 'quarry' && f.srcId === c.id));
+        }
         const t = E.get(choice.targets[0]);
-        if (t) { t.memo.quarry = true; E.log('act', `${c.name} marks ${t.name} as his quarry.`, c); }
+        if (!t) return;
+        if (!c.conc || c.conc.name !== 'Quarry') E.concentrate(c, 'Quarry');
+        t.memo.quarry = true;
+        E.addFx(t, { id: 'quarry', name: 'Quarry', conc: c.id, onEnd: (E2, o) => { o.memo.quarry = false; } }, c);
+        E.log('act', `${c.name} marks ${t.name} as his quarry.`, c);
       },
     },
     grounding: ranged('Grounding Arrow', 9, [['1d8+5', 'piercing']], {
@@ -77,7 +85,7 @@ def('thar', {
 });
 
 def('redBird', {
-  name: 'The Red Bird (Thar)', type: 'beast', smart: true, boss: true, flying: true, size: 'huge', ...tharLegs,
+  name: 'The Red Bird (Thar)', type: 'beast', smart: true, boss: true, flying: true, noOA: true, size: 'huge', ...tharLegs,
   ac: 16, hp: 136, abil: A(24, 16, 14, 14, 21, 16), saves: { con: 6, int: 6, wis: 9 }, resist: ['fire'], img: 'red-bird.webp', battler: 'firebird',
   actions: {
     beak: melee('Beak', 11, [['2d8+7', 'piercing']]),

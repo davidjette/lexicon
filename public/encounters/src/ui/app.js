@@ -77,6 +77,7 @@ const RULES_UI = [
   { key: 'bossDeathSaves', label: 'Named living bosses make death saves at 0', check: true },
   { key: 'attackDowned', label: 'Monsters keep attacking a character at 0', check: true },
   { key: 'parryHalves', label: "Gemma's Parry halves the hit (as run); off = d8+4", check: true },
+  { key: 'movement', label: 'Ranks matter: one step between front, mid and back a turn; melee reaches only the foremost rank', check: true },
   { key: 'ranks', label: "Area spells hit every enemy in the target's rank; big ones hit two ranks", check: true },
   { key: 'healFromZeroProne', label: 'Healed from 0 means up but prone', check: true },
   { key: 'maxRounds', label: 'Stop after this many rounds', number: true, input: true },

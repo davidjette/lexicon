@@ -94,6 +94,14 @@ export class SheetBattler {
     this.pose('idle');
   }
 
+  // Colours every layer (a condition's tint); null clears it.
+  tint(color) {
+    for (const sp of this.parts) {
+      if (color === null) sp.clearTint();
+      else sp.setTint(color);
+    }
+  }
+
   // Plays a pose on every layer. Resolves when a one-shot pose ends (at once for a loop).
   // onImpact fires on the pose's impact frame, where the blow lands.
   pose(name, { onImpact } = {}) {
