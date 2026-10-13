@@ -18,12 +18,7 @@ const BOTTOM = 612;
 // A fight names its own picture with `bg: 'file.webp'` on the preset (in assets/backgrounds/).
 export const DEFAULT_BG = 'forest-clearing.webp';
 // the pictures on offer in the page's Background list
-export const BACKGROUNDS = [
-  ['forest-clearing.webp', 'Forest clearing'],
-  ['imperial-garden.webp', 'Imperial garden'],
-  ['lazaret.webp', 'The Lazaret'],
-  ['sharn-balcony.webp', 'Sharn balcony'],
-];
+export { BACKGROUNDS } from './backgrounds.js';
 
 export const TYPE_COLOR = {
   fire: 0xff8a3c, cold: 0x9fd8ff, lightning: 0xffe45c, thunder: 0x7fe0d0, acid: 0xb6e04a, poison: 0x7ac74f,
