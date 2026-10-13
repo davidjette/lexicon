@@ -51,11 +51,11 @@ wa:
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
   - src: /images/album/korth-ep-17-the-red-bird-eden.webp
-    alt: 'Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak - Korth Ep 17, The Red Bird'
-    caption: 'Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak - Korth Ep 17, The Red Bird'
+    alt: Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak - Korth Ep 17, The Red Bird
+    caption: Gemma as Thar and Eric as the tiefling druid meet Eden and two of her units on the peak - Korth Ep 17, The Red Bird
   - src: /images/album/korth-ep-17-the-red-bird-eden-2.webp
-    alt: 'Eden faces the two she takes for General Thar and his druid - Korth Ep 17, The Red Bird'
-    caption: 'Eden faces the two she takes for General Thar and his druid - Korth Ep 17, The Red Bird'
+    alt: Eden faces the two she takes for General Thar and his druid - Korth Ep 17, The Red Bird
+    caption: Eden faces the two she takes for General Thar and his druid - Korth Ep 17, The Red Bird
   - src: /images/gallery/2026-01-06-05.webp
     alt: 'BioTec file: Subject Zero, Eden'
     caption: 'A restricted BioTec addendum titled "Foundational Incidents & Prototype History", describing Subject Zero: Eden (EDN-00) and a pre-BioTec incident report.'
@@ -107,6 +107,9 @@ Eden was the youngest of four half-sisters, all daughters of [John C. LeBeefe](/
 
 Eden spent her early life with her mother in the Demon Waste. After her mother died, she was found by [Greenish Hughes](/people/greenish-hughes/), who arranged for her to have a home in Newham through LeBeefe. She was not sold into slavery, and her early life was distinct from the experiences of some of her sisters.
 
+![LeBeefe's Daughters - Esther, Faith, Eden and Blair. First time meeting.png](/images/uploads/lebeefe-s-daughters-esther-faith-eden-an-mv65jtry.webp)
+*LeBeefe's Daughters - Esther, Faith, Eden and Blair*
+
 Eventually, Eden met her sisters, and the women travelled together to Sharn. Their lives soon diverged. Esther became an influential figure within the Empire, Faith's life became entangled with Malrik Zeir and the Children of Ember, and Blair made her way through the thieves' guilds and piracy before establishing herself in the Lower City and becoming Queen B of the Underhive.
 
 Eden took a different path. She remained idealistic and embraced the Empire's promise of order and progress. Her intelligence and loyalty eventually led her into Imperial research, where her family connections helped open doors that might otherwise have remained closed.
@@ -116,6 +119,9 @@ Eden took a different path. She remained idealistic and embraced the Empire's pr
 Eden was recruited as an Imperial researcher in part because she was Esther's sister. Her superiors considered her a promising scientist whose family ties made her likely to be loyal, discreet, and useful to the state.
 
 Her work brought her into contact with the consequences of the Last War and the continuing instability of the Mournlands. She was assigned to study the region, monitor Warforged migration, and investigate the resurgence of [Locke Pierce](/people/locke-pierce/) and the movement known as [the Hundreds](/organizations/the-hundreds/). Her work included examining the dangers of the Mournlands and the military implications of the forces gathering there.
+
+![Eden in Sharn - Young.png](/images/uploads/eden-in-sharn-young-mv65iobt.webp)
+*Eden in Sharn*
 
 Eden's investigation eventually led her to a Hundreds cell operating in Sharn. Graffiti bearing the words **“THE HUNDREDS REMEMBER,”** stolen shipments, and rumours of a Warforged preacher spreading Locke Pierce's message through the Cogs pointed toward a hidden workshop beneath the Lower City. The location served as a place where Warforged could receive repairs and where opposition to the Empire could organize beyond the reach of ordinary authorities.
 
