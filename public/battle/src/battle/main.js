@@ -6,7 +6,7 @@ import { switchDefaults } from '../data/encounters.js';
 import { PRESETS } from '../data/registry.js';
 import { rowsFromPreset, setupFromState } from '../data/build.js';
 import { findPack, unlock, installTexts } from '../dm-loader.js';
-import { makeGame } from './stage.js';
+import { makeGame, BACKGROUNDS } from './stage.js';
 import { Director } from './director.js';
 import { Hud } from './hud.js';
 import { audio, setVolume, loadMusic, playMusic } from './audio.js';
@@ -128,7 +128,7 @@ async function newFight() {
   audio.cue = null;
   playMusic(stage, enc.list.some((c) => c.side === 'monster' && (c.tpl.boss || c.tpl.leg)) ? 'boss' : 'battle');
   const fightPreset = PRESETS.find((p) => p.id === (stateFor($('preset').value) || {}).presetId);
-  await stage.setBackground(fightPreset && fightPreset.bg);
+  await stage.setBackground($('bg').value || (fightPreset && fightPreset.bg));
   await stage.arrange(enc.list);
   await playNew();
   busy = false;
@@ -187,12 +187,15 @@ async function init() {
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
   if (DEMO) {
-    $('preset').parentElement.style.display = 'none';
+    for (const id of ['preset', 'bg']) $(id).parentElement.style.display = 'none';
   } else {
     await import('../library/index.js').catch(() => {});
     await tryDm();
   }
   fillPresets();
+  // a link that names its fight wins over whatever the list fell back to while it was filling
+  const asked = params.get('from') === 'builder' ? BUILDER : params.get('preset');
+  if (asked && [...$('preset').options].some((o) => o.value === asked)) $('preset').value = asked;
   const sent = params.get('from') === 'builder' && builderFight();
   $('seed').value = params.get('seed') || (sent && sent.seed) || 1 + Math.floor(Math.random() * 99999);
   const speed = +params.get('speed') || 1;
@@ -213,6 +216,8 @@ async function init() {
   $('play').onclick = run;
   $('reseed').onclick = () => { $('seed').value = 1 + Math.floor(Math.random() * 99999); newFight(); };
   $('menu').onclick = showSelect;
+  $('bg').append(...BACKGROUNDS.map(([file, name]) => new Option(name, file)));
+  $('bg').onchange = () => stage.setBackground($('bg').value || undefined);
   for (const m of ['play', 'watch']) $(`pick-${m}`).onclick = () => { $('mode').onchange = null; $('mode').value = m; $('mode').onchange = newFight; showSelect(); };
   // a link that names its fight goes straight in; otherwise the page opens on the selection screen
   if (params.get('auto') || params.get('preset') || params.get('from') || params.get('seed')) {

@@ -17,6 +17,13 @@ const TOP = 412;
 const BOTTOM = 612;
 // A fight names its own picture with `bg: 'file.webp'` on the preset (in assets/backgrounds/).
 export const DEFAULT_BG = 'forest-clearing.webp';
+// the pictures on offer in the page's Background list
+export const BACKGROUNDS = [
+  ['forest-clearing.webp', 'Forest clearing'],
+  ['imperial-garden.webp', 'Imperial garden'],
+  ['lazaret.webp', 'The Lazaret'],
+  ['sharn-balcony.webp', 'Sharn balcony'],
+];
 
 export const TYPE_COLOR = {
   fire: 0xff8a3c, cold: 0x9fd8ff, lightning: 0xffe45c, thunder: 0x7fe0d0, acid: 0xb6e04a, poison: 0x7ac74f,
@@ -231,12 +238,12 @@ export class Stage extends Phaser.Scene {
     this.markReady();
   }
 
-  // Puts a picture behind the fight. A missing file leaves the plain field.
+  // Puts a picture behind the fight. A file that is not there falls back to the default picture.
   setBackground(file) {
     const name = file || DEFAULT_BG;
     const key = `bg:${name}`;
     const show = () => {
-      if (!this.textures.exists(key)) return;
+      if (!this.textures.exists(key)) return name === DEFAULT_BG ? undefined : this.setBackground(DEFAULT_BG);
       if (!this.bg) {
         this.bg = this.add.image(W / 2, H / 2, key).setDepth(1);
         // a light veil so battlers and their labels stand out from the picture
@@ -247,7 +254,7 @@ export class Stage extends Phaser.Scene {
     if (this.textures.exists(key)) return Promise.resolve(show());
     return new Promise((resolve) => {
       this.load.image(key, `assets/backgrounds/${name}`);
-      this.load.once('complete', () => { show(); resolve(); });
+      this.load.once('complete', () => resolve(show()));
       this.load.start();
     });
   }
