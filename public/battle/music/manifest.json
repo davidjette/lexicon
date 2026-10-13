@@ -15,5 +15,74 @@
   ],
   "defeat": [
     "game-over.ogg"
+  ],
+  "bg:control-room": [
+    "lab-16.ogg"
+  ],
+  "bg:bell-foundry": [
+    "factory.ogg"
+  ],
+  "bg:engine-room": [
+    "robo-s-theme.ogg"
+  ],
+  "bg:hangar-bay": [
+    "bike-chase.ogg"
+  ],
+  "bg:falcons-garage": [
+    "johnny.ogg"
+  ],
+  "bg:starship-dock": [
+    "epoch-2.ogg"
+  ],
+  "bg:starship-bridge": [
+    "black-omen.ogg"
+  ],
+  "bg:cyber-church": [
+    "arris-dome.ogg"
+  ],
+  "bg:mournlands": [
+    "apocalypse.ogg"
+  ],
+  "bg:imperial-garden": [
+    "zeal.ogg"
+  ],
+  "bg:island-palace": [
+    "zeal-palace-v2-0.ogg"
+  ],
+  "bg:sharn-balcony": [
+    "schala-s-theme.ogg"
+  ],
+  "bg:lazaret": [
+    "cathedral-1.ogg"
+  ],
+  "bg:throne-room": [
+    "guardia-castle.ogg"
+  ],
+  "bg:forest-clearing": [
+    "guardia-forest.ogg"
+  ],
+  "bg:mountain-peak": [
+    "middle-ages-world-map.ogg"
+  ],
+  "bg:glitterhame": [
+    "underground-sewer.ogg"
+  ],
+  "bg:labeefe": [
+    "the-trial.ogg"
+  ],
+  "bg:burning-temple": [
+    "tyrano-lair.ogg"
+  ],
+  "bg:desert-airship": [
+    "jurassic-rhythm.ogg"
+  ],
+  "bg:valley-of-time": [
+    "end-of-time.ogg"
+  ],
+  "bg:poop-deck": [
+    "ocean-palace.ogg"
+  ],
+  "bg:ossuary": [
+    "magus.ogg"
   ]
 }

@@ -1,7 +1,7 @@
 // Turns a run of engine events into what happens on the stage. The engine has already resolved
 // everything by the time an event exists; the director only decides how and when to show it.
-import { TYPE_COLOR } from './stage.js?v=mv6bdxd1';
-import { sfx } from './audio.js?v=mv6bdxd1';
+import { TYPE_COLOR } from './stage.js?v=mv6cowru';
+import { sfx } from './audio.js?v=mv6cowru';
 
 const PAUSE = { round: 0, init: 0, turn: 120, info: 420, act: 380, save: 260, cond: 220, heal: 320, move: 0, down: 350, death: 400, end: 0 };
 

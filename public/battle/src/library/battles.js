@@ -1,7 +1,7 @@
 // Set-piece fights for the battle page, put together from the library (Dave, 2026-10-12). Each is
 // marked demo: true, which is what puts it on the public battle page beside the summit fight.
 
-import { register, ALL } from '../data/registry.js?v=mv6bdxd1';
+import { register, ALL } from '../data/registry.js?v=mv6cowru';
 
 // Zanzibar before his fall. No sheet of his own is in the library, so he fights from Dark
 // Zanzibar's sheet under his own name and sprite.
@@ -57,6 +57,28 @@ register({
       allies: [['hero-james-x-smallberries-jim', 1], ['hero-caprica', 1]],
       monsters: [['hero-captain-catrina-mcquade', 1]],
       bg: 'starship-bridge.webp',
+    },
+    {
+      ...plain,
+      id: 'battleSaltmarsh',
+      name: 'The Battle of Saltmarsh',
+      where: 'The burning temple',
+      blurb: 'Scrunt Pissfoot, Gabriella Hellwood and Dolores Weathervein against a bandit captain, his veterans and the cult that hired them.',
+      party: [],
+      allies: [['hero-scrunt-pissfoot', 1], ['hero-gabriella-hellwood', 1], ['hero-dolores-weathervein', 1]],
+      monsters: [['srd-bandit-captain', 1], ['srd-veteran', 2], ['srd-cult-fanatic', 2], ['srd-cultist', 3]],
+      bg: 'burning-temple.webp',
+    },
+    {
+      ...plain,
+      id: 'battleEngineRoom',
+      name: 'The Engine Room Battle',
+      where: 'The engine room',
+      blurb: "Barrias, Buttsack, Se7en and Sandy against four will-o'-wisps and an air elemental.",
+      party: [],
+      allies: [['hero-barrias-ruby-eye', 1], ['hero-buttsack', 1], ['hero-se7en', 1], ['hero-hyperion-tidzan-dassiya-sandy', 1]],
+      monsters: [['srd-will-o-wisp', 4], ['srd-air-elemental', 1]],
+      bg: 'engine-room.webp',
     },
   ],
 });

@@ -1,16 +1,16 @@
 // The battle screen: the same engine and the same fights as the encounter builder, played out
 // on a stage. This file owns the page controls and the step loop.
-import { Encounter } from '../engine/combat.js?v=mv6bdxd1';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mv6bdxd1';
-import { switchDefaults } from '../data/encounters.js?v=mv6bdxd1';
-import { PRESETS } from '../data/registry.js?v=mv6bdxd1';
-import { rowsFromPreset, setupFromState } from '../data/build.js?v=mv6bdxd1';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv6bdxd1';
-import { makeGame, BACKGROUNDS } from './stage.js?v=mv6bdxd1';
-import { Director } from './director.js?v=mv6bdxd1';
-import { Hud } from './hud.js?v=mv6bdxd1';
-import { renderParty } from './party.js?v=mv6bdxd1';
-import { audio, setVolume, loadMusic, playMusic } from './audio.js?v=mv6bdxd1';
+import { Encounter } from '../engine/combat.js?v=mv6cowru';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mv6cowru';
+import { switchDefaults } from '../data/encounters.js?v=mv6cowru';
+import { PRESETS } from '../data/registry.js?v=mv6cowru';
+import { rowsFromPreset, setupFromState } from '../data/build.js?v=mv6cowru';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv6cowru';
+import { makeGame, BACKGROUNDS } from './stage.js?v=mv6cowru';
+import { Director } from './director.js?v=mv6cowru';
+import { Hud } from './hud.js?v=mv6cowru';
+import { renderParty } from './party.js?v=mv6cowru';
+import { audio, setVolume, loadMusic, playMusic } from './audio.js?v=mv6cowru';
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -120,6 +120,14 @@ async function showSelect() {
   $('fight').disabled = !ok;
 }
 
+// The music for a fight: the track that belongs to the place if it has one (music/cues.json,
+// "bg:<file name>"), otherwise the boss or battle theme.
+function fightCue(place) {
+  const own = place && `bg:${place.replace('.webp', '')}`;
+  if (own && audio.manifest && (audio.manifest[own] || []).length) return own;
+  return enc && enc.list.some((c) => c.side === 'monster' && (c.tpl.boss || c.tpl.leg)) ? 'boss' : 'battle';
+}
+
 async function newFight() {
   $('select').hidden = true;
   fightNo += 1;
@@ -147,12 +155,13 @@ async function newFight() {
   }
   window.enc = enc;
   shown = 0;
-  audio.cue = null;
-  playMusic(stage, enc.list.some((c) => c.side === 'monster' && (c.tpl.boss || c.tpl.leg)) ? 'boss' : 'battle');
   const fightPreset = PRESETS.find((p) => p.id === (stateFor($('preset').value) || {}).presetId);
   // a fight sent from the builder has no place of its own: it gets a background picked by its seed
   const anywhere = $('preset').value === BUILDER && BACKGROUNDS.length ? BACKGROUNDS[(+$('seed').value || 0) % BACKGROUNDS.length][0] : undefined;
-  await stage.setBackground($('bg').value || (fightPreset && fightPreset.bg) || anywhere);
+  const place = $('bg').value || (fightPreset && fightPreset.bg) || anywhere;
+  audio.cue = null;
+  playMusic(stage, fightCue(place));
+  await stage.setBackground(place);
   await stage.arrange(enc.list);
   await playNew();
   busy = false;
@@ -210,7 +219,7 @@ async function init() {
   await document.fonts.ready;
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
-  await import('../library/index.js?v=mv6bdxd1').catch(() => {});
+  await import('../library/index.js?v=mv6cowru').catch(() => {});
   await tryDm();
   fillPresets();
   // a link that names its fight wins over whatever the list fell back to while it was filling
@@ -243,7 +252,10 @@ async function init() {
     $(rule).onchange = () => { localStorage.setItem(`battle-${rule}`, $(rule).checked ? '1' : '0'); if (enc) newFight(); };
   }
   $('bg').append(...BACKGROUNDS.map(([file, name]) => new Option(name, file)));
-  $('bg').onchange = () => stage.setBackground($('bg').value || undefined);
+  $('bg').onchange = () => {
+    stage.setBackground($('bg').value || undefined);
+    if (enc && !enc.result && $('bg').value) playMusic(stage, fightCue($('bg').value));
+  };
   for (const m of ['play', 'watch']) $(`pick-${m}`).onclick = () => { $('mode').onchange = null; $('mode').value = m; $('mode').onchange = newFight; showSelect(); };
   // a link that names its fight goes straight in; otherwise the page opens on the selection screen
   if (params.get('auto') || params.get('preset') || params.get('from') || params.get('seed')) {
