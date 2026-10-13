@@ -8,3 +8,8 @@ free to use in any engine, commercial and non-commercial, credit required, not f
 not to be repackaged or sold.
 
 Packs used: Holder Legend of Free Heroes, Free Enemies.
+
+Edited sheets: esther-1a and its sword layers are edits of Holder's XP002 actor and rapier
+(pack: Holder Legend of XP), recoloured with horns and a tail added. Built by tools/sprite_kit.py
+from sprites/recipes/esther.json. Holder's terms allow edits of the free resources to be shown
+with credit and not sold.

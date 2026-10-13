@@ -27,19 +27,15 @@ function card(E, c) {
     seen.add(label);
     tags.append(el('span', `tag ${f.cond ? 'bad' : 'good'}`, label));
   }
-  const res = [];
-  if (c.turn && E.current === c && !E.over) res.push(`${c.turn.action ? 'Action' : 'no action'} · ${c.turn.bonus ? 'Bonus' : 'no bonus'}${E.rules.movement ? ` · ${c.turn.move > 0 ? 'Move' : 'no move'}` : ''}`);
+  // spell slots as one short line, highest level last; the full reading is in the tooltip
   const slots = slotText(c);
-  if (slots) res.push(`Slots ${slots}`);
-  if (c.pact && c.pact.n > 0) res.push(`Pact ${c.pact.level}:${c.pact.n}`);
-  if (E.rules.movement) res.push(`Rank: ${c.pos}`);
+  const pact = c.pact && c.pact.n > 0 ? `pact ${c.pact.level}:${c.pact.n}` : '';
+  const res = [slots, pact].filter(Boolean).join('  ');
   const now = E.current === c && !E.over;
-  return el('div', `party-card${now ? ' now' : ''}${c.dead || c.fled ? ' out' : ''}`,
-    el('div', 'party-name', c.name),
-    el('div', 'party-hp', `HP ${Math.max(0, c.hp)}/${c.maxHp}${c.tempHp ? ` +${c.tempHp} temp` : ''} · AC ${E.acOf(c)}`),
-    bar,
-    tags,
-    res.length ? el('div', 'party-res', res.join(' · ')) : null);
+  const head = el('div', 'party-head', el('span', 'party-name', c.name), el('span', 'party-hp', `${Math.max(0, c.hp)}/${c.maxHp}${c.tempHp ? ` +${c.tempHp}` : ''} · AC ${E.acOf(c)}`));
+  const slotLine = res ? el('div', 'party-res', `Slots ${res}`) : null;
+  if (slotLine) slotLine.title = 'Spell slots left, as level:count';
+  return el('div', `party-card${now ? ' now' : ''}${c.dead || c.fled ? ' out' : ''}`, head, bar, tags, slotLine);
 }
 
 export function renderParty(root, E) {

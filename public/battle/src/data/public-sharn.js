@@ -183,7 +183,7 @@ const smite = (E, c, ctx) => {
 const throwAct = (dc, o = {}) => save('Telekinetic Throw', 'str', dc, [['4d8', 'bludgeoning']], { onFail: [{ fx: 'push', label: 'thrown' }, prone], ...o });
 
 def('lordCommanderEsther', {
-  name: 'Lord Commander Esther Crona', cr: 16, type: 'humanoid', tags: ['lordCommander'], smart: true, boss: true, init: 4,
+  name: 'Lord Commander Esther Crona', battler: 'esther', cr: 16, type: 'humanoid', tags: ['lordCommander'], smart: true, boss: true, init: 4,
   ac: 22, hp: 320, abil: A(18, 16, 16, 12, 14, 20), saves: { str: 17, dex: 15, con: 17, int: 1, wis: 15, cha: 20 },
   resist: ['fire', 'psychic'], condImmune: ['charmed', 'frightened'], lr: 3, leg: 3, auraSave: 4,
   actions: {

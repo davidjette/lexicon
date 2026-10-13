@@ -43,9 +43,13 @@
     .party-card { flex: 1 1 200px; max-width: 320px; padding: 6px 10px; border: 1px solid var(--hair); border-radius: 6px; background: var(--card, rgba(30, 26, 20, 0.6)); }
     .party-card.now { border-color: #e8c66a; }
     .party-card.out { opacity: 0.5; }
-    .party-name { font-family: 'Cinzel', serif; font-size: 15px; }
-    .party-hp, .party-res { font-size: 13px; opacity: 0.85; }
-    .party .tag { font-size: 12px; }
+    .party-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+    .party-name { font-family: 'Cinzel', serif; font-size: 15px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .party-hp { font-size: 13px; opacity: 0.85; white-space: nowrap; }
+    .party-res { font-size: 11px; opacity: 0.55; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .party .tags { min-height: 22px; margin-top: 4px; gap: 4px; }
+    .party .tag { font-size: 13px; padding: 1px 7px; }
+    .party .tag.conc { font-weight: 600; }
     .credit { font-size: 12px; opacity: 0.6; margin-top: 8px; }
   </style>
 </head>

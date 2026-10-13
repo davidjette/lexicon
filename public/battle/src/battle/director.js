@@ -54,7 +54,10 @@ export class Director {
           if (!d || d.reach === false) break;
           // the damage lines that belong to this blow follow it directly
           const dmg = [];
-          while (events[i + 1] && events[i + 1].kind === 'dmg' && events[i + 1].data && events[i + 1].data.tgt === d.tgt) dmg.push(events[++i]);
+          while (events[i + 1] && events[i + 1].kind === 'dmg' && events[i + 1].data && events[i + 1].data.tgt === d.tgt) {
+            dmg.push(events[++i]);
+            this.onEvent(events[i]);
+          }
           await this.strike(d, dmg);
           break;
         }

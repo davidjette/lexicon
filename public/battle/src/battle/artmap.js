@@ -29,6 +29,8 @@ export const SHEETS = {
   witch: hero('sally', 'wand', '2c', '1c'),
   // the bat in its red colours, drawn large; it flies, so its body is well above its feet
   firebird: foe('bat', { scale: 1.7, tall: 72, mid: 58 }, '1g'),
+  // characters with a sheet of their own, built by tools/sprite_kit.py from sprites/recipes/
+  esther: hero('esther', 'sword'),
   // the one sheet with wider frames
   asimole: foe('asimole', { cellW: 192, footX: 96, scale: 0.45 }),
 };
@@ -44,6 +46,10 @@ const BY_CLASS = [
   [/wizard|sorcerer|warlock|bard/i, 'sally'],
   [/monk/i, 'kai'],
   [/druid/i, 'james'],
+];
+// characters with a sheet of their own are matched on their name before their class line
+const BY_HERO = [
+  [/^esther crona/i, 'esther'],
 ];
 const BY_NAME = [
   [/zombie|ghoul|ghast|wight|mummy|skeleton|infected/i, 'zombie'],
@@ -77,7 +83,10 @@ function byClass(line) {
 
 export function sheetFor(tpl) {
   if (tpl.battler !== undefined) return SHEETS[tpl.battler] ? tpl.battler : null;
-  if (tpl.pc || tpl.hero) return byClass(`${tpl.sub || ''}`);
+  if (tpl.pc || tpl.hero) {
+    const own = BY_HERO.find(([re]) => re.test(tpl.name || ''));
+    return own ? own[1] : byClass(`${tpl.sub || ''}`);
+  }
   if (tpl.img) return null;
   for (const [re, id] of BY_NAME) if (re.test(tpl.name || '')) return id;
   if (BY_TYPE[tpl.type]) return BY_TYPE[tpl.type];
