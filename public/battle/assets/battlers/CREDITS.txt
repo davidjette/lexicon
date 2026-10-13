@@ -9,13 +9,11 @@ not to be repackaged or sold.
 
 Packs used: Holder Legend of Free Heroes, Free Enemies.
 
-Edited sheets: every sheet below is an edit of Holder's art, recoloured and in places given added
-pieces (horns, tail, crown, scythe blade). Built by tools/sprite_kit.py from sprites/recipes/.
-Holder's terms allow edits of the free resources to be shown with credit and not sold.
-  esther-*            XP002 and its rapier (Holder Legend of XP)
-  gemma-*             XP001 and its 1H sword (Holder Legend of XP)
-  lebeefe-*           XP027 (Holder Legend of XP)
-  uriel-*, dove-1*    Sally 1A and her wand (Holder Legend of Free Heroes)
-  dove-2a*, locke-*   Ulric 1A and his 1H axe (Holder Legend of Free Heroes)
-  eric-*              Kai 1A (Holder Legend of Free Heroes)
-  dario-*             Graham 1A and the 2H Sword Level 4A (Holder Legend of Free Heroes)
+Edited sheets: every sheet built by tools/sprite_kit.py from sprites/recipes/ is an edit of
+Holder's art: recoloured, in places reshaped (made stout or short), and in places given added
+pieces (horns, tail, wings, crown, hat, antlers, scythe blade). Each recipe names its base. Holder's
+terms allow edits of the free resources to be shown with credit and not sold.
+Bases used, by pack:
+  Holder Legend of Free Heroes: Sally, Ulric, Graham, James, Kai, their weapons and weapon sets
+  Holder Legend of XP: actors XP001, XP002, XP005, XP024, XP027 and their weapons; enemies XP051, XP052
+  Free Enemies: Creeps (edited); Asimole, Bat, Lantern, Barrel, Defencer (unedited colour versions)

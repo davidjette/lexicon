@@ -40,7 +40,7 @@ const counterspell = (dc, uses, free = false) => ({
 const ENERGY = ['lightning', 'fire', 'cold', 'force', 'radiant', 'necrotic', 'acid', 'poison'];
 const others = (open) => [...ENERGY.filter((t) => t !== open), 'psychic', 'thunder'];
 def('stCloud', {
-  name: 'Wainwright St. Cloud', cr: 20, type: 'humanoid', smart: true, boss: true, pos: 'back', init: 4,
+  name: 'Wainwright St. Cloud', battler: 'stcloud', cr: 20, type: 'humanoid', smart: true, boss: true, pos: 'back', init: 4,
   sub: 'Warlock 17 / Rogue 3 · Starfall',
   ac: 16, hp: 280, abil: A(10, 18, 16, 14, 14, 26), saves: { wis: 8, cha: 14 }, leg: 3,
   actions: {
@@ -97,7 +97,7 @@ def('stCloud', {
 // Calix, the baelnorn
 // ---------------------------------------------------------------------------------------
 def('calix', {
-  name: 'Calix', cr: 12, type: 'undead', smart: true, pos: 'back', init: 2,
+  name: 'Calix', battler: 'calix', cr: 12, type: 'undead', smart: true, pos: 'back', init: 2,
   sub: 'Baelnorn lich, 18th-level caster · Hope in Exile',
   ac: 15, hp: 99, abil: A(10, 14, 12, 20, 15, 16), saves: { int: 9, wis: 6 }, magicAdv: true,
   actions: {
@@ -134,7 +134,7 @@ def('calix', {
 // Panahedradom, Ancient Drake of the Entropic Doom
 // ---------------------------------------------------------------------------------------
 def('panahedradom', {
-  name: 'Panahedradom', cr: 21, type: 'dragon', size: 'gargantuan', boss: true,
+  name: 'Panahedradom', battler: 'drakeDoom', cr: 21, type: 'dragon', size: 'gargantuan', boss: true,
   sub: 'Ancient Drake of the Entropic Doom · the Arcaneum',
   ac: 22, hp: 560, abil: A(27, 14, 25, 16, 15, 19), saves: { dex: 9, con: 14, wis: 9, cha: 11 },
   immune: ['acid'], lr: 3, leg: 3,
@@ -159,7 +159,7 @@ def('panahedradom', {
 // Archmage Valen
 // ---------------------------------------------------------------------------------------
 def('valen', {
-  name: 'Archmage Valen', cr: 18, type: 'humanoid', smart: true, boss: true, pos: 'back', init: 6,
+  name: 'Archmage Valen', battler: 'valen', cr: 18, type: 'humanoid', smart: true, boss: true, pos: 'back', init: 6,
   sub: 'Wizard 18 · the Arcaneum',
   ac: 15, hp: 245, abil: A(8, 15, 18, 20, 12, 10), saves: { int: 11, wis: 7 },
   resist: ['lightning', 'slashing', 'bludgeoning', 'piercing'], lr: 3, leg: 3,
@@ -221,7 +221,7 @@ def('valen', {
 // Celion the Great
 // ---------------------------------------------------------------------------------------
 def('celion', {
-  name: 'Celion the Great', cr: 13, type: 'humanoid', smart: true, pos: 'back', init: 6,
+  name: 'Celion the Great', battler: 'celion', cr: 13, type: 'humanoid', smart: true, pos: 'back', init: 6,
   sub: 'Wizard 16 / Paladin 1 · Ages of the Infanta',
   ac: 16, hp: 140, abil: A(14, 14, 16, 20, 12, 13), saves: { int: 11, wis: 7 }, resist: ['fire'],
   actions: {
