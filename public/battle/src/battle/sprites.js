@@ -26,7 +26,7 @@ const HOLDER = {
     magic: { row: 7, fps: 5, impact: 2 },
     advance: { row: 8, loop: true, fps: 8 },
     escape: { row: 9, loop: true, fps: 8 },
-    victory: { row: 10, fps: 5 },
+    victory: { row: 10, loop: true, fps: 5 },
     enter: { row: 11, fps: 5 },
     dead: { row: 12, loop: true, fps: 5 },
   },

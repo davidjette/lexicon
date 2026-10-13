@@ -16,7 +16,7 @@ const COLS = { pc: { back: 110, mid: 270, front: 430 }, monster: { front: 770, m
 const TOP = 412;
 const BOTTOM = 612;
 // A fight names its own picture with `bg: 'file.webp'` on the preset (in assets/backgrounds/).
-export const DEFAULT_BG = 'forest-clearing.webp';
+export const DEFAULT_BG = 'mountain-peak.webp';
 // the pictures on offer in the page's Background list
 export { BACKGROUNDS } from './backgrounds.js';
 
@@ -208,6 +208,12 @@ export class Unit {
     }
     this.node.setAlpha(dead ? 0.4 : 1);
     this.label.setAlpha(dead ? 0.4 : 1);
+  }
+
+  // The winners' pose when the fight is over. The fallen and the held do not join in.
+  cheer() {
+    if (this.fallen || this.prone || this.gone) return;
+    this.b.pose('victory');
   }
 
   // Conditions on the unit: it lies down while prone, and takes the colour of the worst one.

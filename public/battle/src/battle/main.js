@@ -74,6 +74,9 @@ async function playNew() {
   if (mine === fightNo && enc.over) {
     setPlaying(false);
     playMusic(stage, enc.result === 'victory' ? 'victory' : 'defeat', { loop: false });
+    // whoever holds the field celebrates
+    const winners = enc.result === 'victory' ? 'pc' : enc.result === 'defeat' ? 'monster' : null;
+    for (const u of stage.units.values()) if (u.side === winners) u.cheer();
     await stage.showBanner(RESULT[enc.result] || enc.result, 1600);
   }
 }

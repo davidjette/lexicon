@@ -46,6 +46,10 @@ export class TokenBattler {
     if (name === 'damage') {
       return this.tween({ x: n.x - 8 * this.dir, duration: 45, yoyo: true, repeat: 2 });
     }
+    if (name === 'victory') {
+      this.scene.tweens.add({ targets: n, y: n.y - 16, duration: 220, yoyo: true, repeat: 5, ease: 'Quad.easeOut' });
+      return Promise.resolve();
+    }
     if (name === 'dead') {
       return this.tween({ angle: -80 * this.dir, duration: 300 });
     }
