@@ -184,7 +184,7 @@ async function init() {
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
   if (DEMO) {
-    for (const n of [$('preset').parentElement, $('menu')]) n.style.display = 'none';
+    $('preset').parentElement.style.display = 'none';
   } else {
     await import('../library/index.js').catch(() => {});
     await tryDm();
@@ -212,7 +212,7 @@ async function init() {
   $('menu').onclick = showSelect;
   for (const m of ['play', 'watch']) $(`pick-${m}`).onclick = () => { $('mode').onchange = null; $('mode').value = m; $('mode').onchange = newFight; showSelect(); };
   // a link that names its fight goes straight in; otherwise the page opens on the selection screen
-  if (DEMO || params.get('auto') || params.get('preset') || params.get('from') || params.get('seed')) {
+  if (params.get('auto') || params.get('preset') || params.get('from') || params.get('seed')) {
     await newFight();
     if (params.get('auto')) run();
   } else await showSelect();

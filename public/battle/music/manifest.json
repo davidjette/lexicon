@@ -1,0 +1,19 @@
+{
+  "menu": [
+    "a-premonition-chrono-trigger-3.ogg"
+  ],
+  "battle": [
+    "battle.ogg"
+  ],
+  "boss": [
+    "boss-battle-1.ogg",
+    "boss-battle-2.ogg"
+  ],
+  "victory": [
+    "lucca-fanfare-1.ogg",
+    "fanfare-2.ogg"
+  ],
+  "defeat": [
+    "game-over.ogg"
+  ]
+}
