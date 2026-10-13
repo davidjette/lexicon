@@ -31,6 +31,19 @@ export const SHEETS = {
   firebird: foe('bat', { scale: 1.7, tall: 72, mid: 58 }, '1g'),
   // characters with a sheet of their own, built by tools/sprite_kit.py from sprites/recipes/
   esther: hero('esther', 'sword'),
+  uriel: hero('uriel', 'staff'),
+  urielB: hero('uriel', 'staff', '1b'),
+  urielC: hero('uriel', 'staff', '1c'),
+  urielD: hero('uriel', 'staff', '1d'),
+  dove: hero('dove', 'staff'),
+  doveWhite: hero('dove', 'staff', '1b'),
+  doveRed: hero('dove', 'staff', '1c'),
+  doveKnight: hero('dove', 'axe', '2a'),
+  locke: hero('locke'),
+  lebeefe: hero('lebeefe'),
+  gemma: hero('gemma', 'sword'),
+  eric: hero('eric'),
+  dario: hero('dario', 'sword'),
   // the one sheet with wider frames
   asimole: foe('asimole', { cellW: 192, footX: 96, scale: 0.45 }),
 };
@@ -49,7 +62,13 @@ const BY_CLASS = [
 ];
 // characters with a sheet of their own are matched on their name before their class line
 const BY_HERO = [
+  [/^gemma corso/i, 'gemma'],
+  [/^chancellor eric/i, 'eric'],
+  [/dario argentino/i, 'dario'],
   [/^esther crona/i, 'esther'],
+  [/^uriel qualanthri/i, 'uriel'],
+  [/^locke pierce/i, 'locke'],
+  [/lebeouf|lebeefe/i, 'lebeefe'],
 ];
 const BY_NAME = [
   [/zombie|ghoul|ghast|wight|mummy|skeleton|infected/i, 'zombie'],
