@@ -59,7 +59,7 @@ def('childOfEmber', {
 // Faith's spell slots are tracked as shared uses per level: four 1st, three 2nd, two 3rd.
 const prophet = [['1d6', 'fire']]; // The Mother Prophet: +1d6 whenever she deals fire damage
 def('faithZeir', {
-  name: 'Faith Zeir', cr: 5, type: 'humanoid', smart: true, pos: 'back', init: 3,
+  name: 'Faith Zeir', battler: 'faith', cr: 5, type: 'humanoid', smart: true, pos: 'back', init: 3,
   ac: 15, hp: 63, abil: A(8, 14, 12, 12, 14, 18), saves: { str: -1, dex: 2, con: 1, int: 1, wis: 5, cha: 7 },
   resist: ['fire', 'psychic'], condImmune: ['charmed'],
   actions: {
@@ -316,7 +316,7 @@ def('recruiter', {
 // Shatter the Glass (he leaves). His beast form has legendary actions on the block but no changed
 // statistics, so only the legendary options change when he unmasks.
 def('malrikZeir', {
-  name: 'Malrik Zeir', cr: 13, type: 'undead', tags: ['vampire'], smart: true, boss: true, init: 14, eyeless: true,
+  name: 'Malrik Zeir', battler: 'malrik', cr: 13, type: 'undead', tags: ['vampire'], smart: true, boss: true, init: 14, eyeless: true,
   ac: 18, hp: 168, speed: 40, abil: A(20, 18, 18, 19, 16, 21), saves: { str: 10, dex: 9, con: 4, int: 4, wis: 8, cha: 10 },
   immune: ['cold', 'necrotic'], condImmune: ['charmed', 'exhaustion'], lr: 3, leg: 3,
   actions: {
@@ -391,7 +391,7 @@ def('cogbornInfected', {
 });
 
 def('edenHybridUnit', {
-  name: 'E.D.E.N. Hybrid Unit', cr: 6, type: 'undead', tags: ['edenUnit'],
+  name: 'E.D.E.N. Hybrid Unit', battler: 'husk', cr: 6, type: 'undead', tags: ['edenUnit'],
   ac: 18, hp: 45, speed: 40, abil: A(20, 14, 16, 3, 10, 5), saves: { str: 15, dex: 7, con: 12, int: -5, wis: 3, cha: -3 },
   resist: ['necrotic', 'lightning'], condImmune: ['charmed', 'exhaustion', 'frightened', 'paralysed', 'poisoned'],
   actions: {
@@ -435,7 +435,7 @@ def('edenHybridUnit', {
 // ---------------------------------------------------------------------------------------
 // Not run: Gust of Wind, Cunning Action, Storm Step, Disarming Attack and Precision Attack.
 def('hallorn', {
-  name: "Hallorn d'Lyrandar", cr: 5, type: 'humanoid', smart: true, init: 8,
+  name: "Hallorn d'Lyrandar", battler: 'hallorn', cr: 5, type: 'humanoid', smart: true, init: 8,
   ac: 16, hp: 72, speed: 35, abil: A(12, 18, 14, 12, 12, 18), saves: { dex: 7, cha: 7 }, resist: ['lightning'],
   actions: {
     rapier: melee("Rapier (Tempest's Kiss)", 7, [['1d8+5', 'piercing']]),

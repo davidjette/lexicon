@@ -44,6 +44,15 @@ export const SHEETS = {
   gemma: hero('gemma', 'sword'),
   eric: hero('eric'),
   dario: hero('dario', 'sword'),
+  guardian: hero('guardian', 'sword'),
+  faith: hero('faith'),
+  malrik: hero('malrik'),
+  hallorn: hero('hallorn'),
+  eden: hero('eden', 'blade'),
+  priest: foe('priest'),
+  husk: foe('husk'),
+  doveElder: hero('dove', 'staff', '1d'),
+  risen: hero('risen'),
   // the one sheet with wider frames
   asimole: foe('asimole', { cellW: 192, footX: 96, scale: 0.45 }),
 };
