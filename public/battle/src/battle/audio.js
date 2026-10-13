@@ -26,6 +26,7 @@ const SFX = {
   click: ['click1'],
   select: ['select1'],
   back: ['back1'],
+  endturn: ['endturn1'],
   error: ['error1'],
 };
 const QUIET = { step: 0.5, turn: 0.35, cond: 0.5, hurt: 0.6, swing: 0.7 };

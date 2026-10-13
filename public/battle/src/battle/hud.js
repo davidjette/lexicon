@@ -73,7 +73,7 @@ export class Hud {
         ...mine.map((o) => el('button', { class: 'btn small', onclick: () => this.chose(E, c, o) }, o.name)));
     });
     const end = el('div', { class: 'hud-col' }, el('div', { class: 'hud-title' }, 'Turn'),
-      el('button', { class: 'btn small ghost', onclick: () => { sfx(this.stage, 'back'); this.answer({ pass: true }); } }, 'End turn'));
+      el('button', { class: 'btn small ghost', onclick: () => { sfx(this.stage, 'endturn'); this.answer({ pass: true }); } }, 'End turn'));
     this.root.replaceChildren(this.head(E, c), el('div', { class: 'hud-cols' }, ...cols, end));
     this.root.hidden = false;
     this.stage.pick(null);
