@@ -7,9 +7,9 @@
 // Sorcerers spend sorcery points on the Metamagic named on their sheet: the choice carries a `meta`
 // list, and the points are paid when the spell runs.
 
-import { SRD_SPELLS } from './spells-data.js?v=mv6cowru';
-import { melee, ranged, save, emanation, rollDice, areaTargets } from './lib.js?v=mv6cowru';
-import { avgDice, parseDice, maxDice } from '../engine/dice.js?v=mv6cowru';
+import { SRD_SPELLS } from './spells-data.js?v=mv6d5nb2';
+import { melee, ranged, save, emanation, rollDice, areaTargets } from './lib.js?v=mv6d5nb2';
+import { avgDice, parseDice, maxDice } from '../engine/dice.js?v=mv6d5nb2';
 
 const up = (n, die, level, per = 1, flat = '') => {
   const out = {};
@@ -55,6 +55,10 @@ const EXTRA = {
   'spiritual weapon': { name: 'Spiritual Weapon', level: 2, cost: 'bonus', atk: 'melee', type: 'force', dmg: { 2: '1d8+MOD', 4: '2d8+MOD', 6: '3d8+MOD', 8: '4d8+MOD' }, sustain: 'bonus' },
   "bigby's hand": { name: "Bigby's Hand", level: 5, atk: 'melee', type: 'force', dmg: up(4, 8, 5, 2), sustain: 'bonus', conc: true },
   'arcane hand': { name: 'Arcane Hand', level: 5, atk: 'melee', type: 'force', dmg: up(4, 8, 5, 2), sustain: 'bonus', conc: true },
+  // a wall: those in it save or burn and are blinded; on later turns the caster fires beams from it, six in all.
+  // (Damage for ending a turn inside the wall is not run: there are no standing zones away from the caster.)
+  'wall of light': { name: 'Wall of Light', level: 5, save: 'con', half: true, type: 'radiant', dmg: up(4, 8, 5), area: 3, sustain: 'action', conc: true, charges: 6,
+    rider: { cond: 'blinded', repeat: true }, later: { atk: 'ranged' } },
   'crown of stars': { name: 'Crown of Stars', level: 7, atk: 'ranged', type: 'radiant', dmg: { 7: '4d12' }, sustain: 'bonus', setup: true, charges: 7 },
   // conditions
   'hold person': { name: 'Hold Person', level: 2, save: 'wis', cond: 'paralysed', repeat: true, conc: true, only: 'humanoid' },
@@ -297,28 +301,31 @@ export function cast(key, o = {}) {
   const ok = (E, t) => hurts(E, t, s.type) && (!s.metal || ['humanoid', 'construct'].includes(t.tpl.type));
   book.ok = ok;
   const pick = (E, c) => E.ai.pickTarget(E, c, { melee: s.atk === 'melee' }, { filter: (t) => ok(E, t) });
-  const strike = (E, c, first, lvl, choice = {}) => {
+  // m is the mechanic of this strike: the spell's own, or its `later` form on the turns after casting
+  const strike = (E, c, first, lvl, choice = {}, m = s) => {
     let t = first;
     const name = lvl > s.level ? `${s.name} (level ${lvl})` : s.name;
     // one damage roll of the casting may carry a bonus (Elemental Affinity, Arcane Firearm)
     const plus = (c.tpl.spellPlus || []).filter((p) => !p.type || p.type === s.type).map((p) => `+${p.dice}`).join('');
     const dice = book.dice(lvl) + plus;
     const n = s.rays ? s.rays(lvl) : 1;
-    if (s.auto) {
+    if (m.auto) {
       const r = rollDice(E.rng, Array(n).fill(dice).join('+'));
       E.log('act', `${c.name}: ${name} at ${t.name}${s.rays ? `, ${n} darts` : ''}.`, c);
       E.damage(t, [{ amt: r.total, type: s.type }], c, { rollText: `${r.text} ${s.type}` });
-    } else if (s.atk) {
-      const a = { name, toHit, melee: s.atk === 'melee', dmg: [[dice, s.type]], plain: [[book.dice(lvl), s.type]], spell: true, weapon: false, noRangePenalty: !!s.sustain };
+    } else if (m.atk) {
+      const a = { name, toHit, melee: m.atk === 'melee', dmg: [[dice, s.type]], plain: [[book.dice(lvl), s.type]], spell: true, weapon: false, noRangePenalty: !!s.sustain };
       for (let i = 0; i < n && E.active(c); i++) {
         if (t.down || !E.present(t)) t = pick(E, c);
         if (!t) break;
         E.attack(c, t, i === 0 ? a : { ...a, dmg: a.plain }, {});
       }
     } else {
-      const targets = s.area ? areaTargets(E, c, t, { max: s.area, spread: s.area >= 6 ? 0.3 : 0.15, size: s.area }) : [t];
+      const targets = m.area ? areaTargets(E, c, t, { max: m.area, spread: m.area >= 6 ? 0.3 : 0.15, size: m.area }) : [t];
       const rolled = used(choice, 'empowered') ? empoweredRoll(E, c, dice) : dice;
-      const eff = { name, save: s.save, dc, dmg: [[rolled, s.type]], half: s.half, spell: true, isArea: !!s.area };
+      const eff = { name, save: m.save, dc, dmg: [[rolled, s.type]], half: m.half, spell: true, isArea: !!m.area };
+      // rider: a condition on those who fail the save, beside the damage (Wall of Light blinds)
+      if (m.rider) eff.onFail = [{ fx: 'cond', cond: m.rider.cond, name: s.name, saveEnds: m.rider.repeat ? { ability: m.save, dc, spell: true } : undefined }];
       if (used(choice, 'heightened')) eff.disFor = (E2, x) => x === t;
       E.saveEffect(c, eff, targets);
     }
@@ -355,7 +362,7 @@ export function cast(key, o = {}) {
         if (!t || t.down || !E.present(t)) t = pick(E, c);
         if (!st || !t) return;
         st.left -= 1;
-        strike(E, c, t, st.lvl);
+        strike(E, c, t, st.lvl, {}, s.later ? { ...s, auto: false, atk: undefined, save: undefined, half: false, area: 0, rider: null, ...s.later } : s);
       },
     },
   };

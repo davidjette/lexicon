@@ -4,14 +4,14 @@
 // Sorcerers spend their sorcery points on the Metamagic their sheet names. Class features, feats and
 // chosen options come from the feature book (data/features.js). No hand-written tactics.
 
-import { HEROES } from './heroes-data.js?v=mv6cowru';
-import { melee, ranged, save, multi } from '../data/lib.js?v=mv6cowru';
-import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mv6cowru';
-import { avgDice } from '../engine/dice.js?v=mv6cowru';
-import { register } from '../data/registry.js?v=mv6cowru';
-import { featureParts, applyParts } from '../data/features.js?v=mv6cowru';
-import { itemParts } from '../data/items.js?v=mv6cowru';
-import { withUpdates } from './sheet-updates.js?v=mv6cowru';
+import { HEROES } from './heroes-data.js?v=mv6d5nb2';
+import { melee, ranged, save, multi } from '../data/lib.js?v=mv6d5nb2';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mv6d5nb2';
+import { avgDice } from '../engine/dice.js?v=mv6d5nb2';
+import { register } from '../data/registry.js?v=mv6d5nb2';
+import { featureParts, applyParts } from '../data/features.js?v=mv6d5nb2';
+import { itemParts } from '../data/items.js?v=mv6d5nb2';
+import { withUpdates } from './sheet-updates.js?v=mv6d5nb2';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -84,7 +84,8 @@ export function buildHero(h) {
   plan.push(castHeal(ids), castEscape(ids), castControl(ids), castBuff(ids), castAgain(ids, atWill), castBest(ids, atWill));
   // attack spells written on the sheet that the book does not know (house spells), at the sheet's numbers
   if (caster) {
-    h.attacks.filter((a) => a.spell && a.slot > 0 && a.slot <= topSlot && !knows(a.name) && !SUSTAINED.includes(a.name.toLowerCase())).forEach((a, i) => {
+    // a concentration spell is a wall, a zone or a lasting effect, never a one-off attack: those wait for a book entry
+    h.attacks.filter((a) => a.spell && a.slot > 0 && a.slot <= topSlot && !a.conc && !knows(a.name) && !SUSTAINED.includes(a.name.toLowerCase())).forEach((a, i) => {
       const id = `spell${i}`;
       actions[id] = mk(a, { slot: a.slot });
       ids.push(id);
