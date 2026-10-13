@@ -243,6 +243,8 @@ export const AI = {
         // a hidden action is one the script reaches for itself; a player sees it only while the
         // turn holds the thing it spends (Haste's extra attack)
         if (act.hidden && !(full && act.takes && c.turn[act.takes])) continue;
+        // an action a player arms or toggles says itself when it is on offer; scripts never list it
+        if (act.offer && !(full && act.offer(E, c))) continue;
         // a player is not offered a buff on themself that is already running
         if (full && act.noTarget && c.fx.some((f) => f.name === act.name && f.srcId === c.id)) continue;
         if (E.usable(c, id)) push(id, act);

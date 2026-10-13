@@ -264,10 +264,18 @@ export class Stage extends Phaser.Scene {
     this.turnMark = this.add.triangle(0, 0, -9, -8, 9, -8, 0, 6, 0xe8c66a).setDepth(5500).setVisible(false);
     this.tweens.add({ targets: this.turnMark, scaleY: 0.6, duration: 450, yoyo: true, repeat: -1 });
     this.pickRings = [];
-    this.input.on('pointerdown', (p) => {
+    // A click on a battler picks it as the target. The canvas is drawn at whatever size the page
+    // gives it, so the click is read from the page and scaled to the field's own coordinates.
+    this.game.canvas.addEventListener('pointerdown', (ev) => {
       if (!this.picking) return;
-      const hit = this.picking.ids.map((id) => this.units.get(id)).filter((u) => u && Math.abs(p.worldX - u.node.x) < u.half && p.worldY < u.node.y + 40 && p.worldY > u.node.y - u.b.height - 10);
-      hit.sort((a, b) => Math.abs(p.worldX - a.node.x) + Math.abs(p.worldY - (a.node.y - a.b.mid)) - Math.abs(p.worldX - b.node.x) - Math.abs(p.worldY - (b.node.y - b.b.mid)));
+      const box = this.game.canvas.getBoundingClientRect();
+      const x = ((ev.clientX - box.left) * W) / box.width;
+      const y = ((ev.clientY - box.top) * H) / box.height;
+      // the body where the sprite is drawn (a flyer's is well above its feet), plus its name and bar
+      const over = (u) => Math.abs(x - u.node.x) < u.half + 8 && y < u.node.y + 46 && y > u.node.y - u.b.height - 12;
+      const hit = this.picking.ids.map((id) => this.units.get(id)).filter((u) => u && over(u));
+      const far = (u) => Math.abs(x - u.node.x) + Math.abs(y - (u.node.y - u.b.mid));
+      hit.sort((a, b) => far(a) - far(b));
       if (hit.length) this.picking.take(hit[0].id);
     });
     this.markReady();
@@ -304,7 +312,8 @@ export class Stage extends Phaser.Scene {
   pick(ids, take) {
     for (const r of this.pickRings) r.destroy();
     this.pickRings = [];
-    this.picking = ids ? { ids, take } : null;
+    this.picking = ids && ids.length ? { ids, take } : null;
+    this.game.canvas.style.cursor = this.picking ? 'pointer' : 'default';
     for (const id of ids || []) {
       const u = this.units.get(id);
       if (!u) continue;

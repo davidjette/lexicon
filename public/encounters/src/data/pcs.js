@@ -5,6 +5,18 @@ import { melee, ranged, save, emanation, hasAura, harm } from './lib.js';
 import { rollDice } from '../engine/dice.js';
 import { engage, hasRoom, enemiesInAura, areaTargets } from '../engine/zones.js';
 import { PC_EXT } from './registry.js';
+import { cast } from './spells.js';
+
+// Spells on a character's sheet that the spell book knows how to run. The scripts above never
+// reach for them (each character's brain names what it uses); they are there for a player running
+// the character, and for the builder's override menu.
+function sheetSpells(tpl, names, o) {
+  for (const name of names) {
+    const act = cast(name, o);
+    if (act) tpl.actions[`sp_${name.replace(/[^a-z0-9]+/g, '_')}`] = act;
+  }
+  return tpl;
+}
 
 const A = (str, dex, con, int, wis, cha) => ({ str, dex, con, int, wis, cha });
 const extend = (tpl) => PC_EXT.reduce((t, f) => f(t), tpl);
@@ -268,6 +280,8 @@ export function makeGemma(o = {}) {
     },
     basic: 'swordPlain', basicN: 2, oa: 'swordPlain',
   };
+  // sheet, SPELLS tab (5TH filter view): the ones the book runs
+  sheetSpells(tpl, ['dimension door', 'greater invisibility'], { dc, toHit: dc - 8, mod: 5, charLevel: L });
   return extend(tpl);
 }
 
@@ -419,6 +433,8 @@ export function makeEric(o = {}) {
     },
     basic: 'trueStrike', oa: 'trueStrike',
   };
+  // sheet, SPELLS tab 6c and 6d: the ones the book runs
+  sheetSpells(tpl, ['fire bolt', 'guiding bolt', 'burning hands', 'scorching ray', 'cure wounds'], { dc, toHit: dc - 7, mod: 5, charLevel: L });
   return extend(tpl);
 }
 
@@ -461,6 +477,17 @@ export function makeDario(o = {}) {
     actions: {
       strike: strike(2),
       strike1: { ...strike(1), name: `${w.name} (Haste)`, cost: 'free', hidden: true, takes: 'hasteAction' },
+      // the player's smite: readied before the swing, spent (slot and bonus action) when a melee hit lands
+      ...Object.fromEntries([1, 2, 3, 4, 'blind'].map((lvl) => [`smite_${lvl}`, {
+        kind: 'special', cost: 'free', noTarget: true,
+        name: lvl === 'blind' ? 'Blinding Smite on the next hit (3rd-level slot)' : `Divine Smite on the next hit (level ${lvl})`,
+        offer: (E, c) => c.turn.bonus && !c.turn.slotSpell && !c.turn.smiteArmed
+          && (lvl === 'blind' ? c.slots[3] > 0 : c.slots[lvl] > 0 || (lvl === 1 && !c.used.smiteFree)),
+        run(E, c) {
+          c.turn.smiteArmed = lvl;
+          E.log('info', `${c.name} readies ${lvl === 'blind' ? 'Blinding Smite' : `Divine Smite (level ${lvl})`} for his next hit.`, c);
+        },
+      }])),
       sacred: {
         kind: 'special', name: 'Sacred Weapon', cost: 'free', uses: 3, noTarget: true,
         run(E, c) {
@@ -538,15 +565,23 @@ export function makeDario(o = {}) {
         const free = !c.used.smiteFree;
         if (!top && !free) return null;
         let level = 0;
-        if (ctx.crit) level = top || 1;
+        // a player says before the blow whether the next hit is a smite, and at what level
+        const mine = !!(E.playerRuns && E.playerRuns(c));
+        const armed = c.turn.smiteArmed;
+        if (mine) {
+          if (!armed) return null;
+          c.turn.smiteArmed = null;
+          if (armed !== 'blind' && (c.slots[armed] > 0 || (armed === 1 && free))) level = armed;
+        } else if (ctx.crit) level = top || 1;
         else if (t.hp > weaponAvg && t.hp <= weaponAvg + smiteAvg(top || 1)) {
           level = [1, 2, 3, 4].find((l) => (c.slots[l] > 0 || (l === 1 && free)) && weaponAvg + smiteAvg(l) >= t.hp) || 0;
         } else if (mode === 'always' || (mode === 'finish+boss' && t.tpl.boss && t.hp > weaponAvg)) {
           level = [2, 1, 3, 4].find((l) => c.slots[l] > 0) || (free ? 1 : 0);
         }
-        if (!level) return null;
+        const blind = mine ? armed === 'blind' && c.slots[3] > 0 : level >= 2 && t.tpl.boss && !c.memo.blinding && c.slots[3] > 0 && !ctx.crit && !E.has(t, 'blinded') && !t.tpl.eyeless;
+        if (!level && !blind) return null;
         // Blinding Smite once on a boss that can be blinded
-        if (level >= 2 && t.tpl.boss && !c.memo.blinding && c.slots[3] > 0 && !ctx.crit && !E.has(t, 'blinded') && !t.tpl.eyeless) {
+        if (blind) {
           c.memo.blinding = true;
           c.slots[3] -= 1;
           c.turn.bonus = false;
@@ -592,6 +627,8 @@ export function makeDario(o = {}) {
     },
     basic: 'strike', oa: 'strike1',
   };
+  // sheet, SPELLS tab: the ones the book runs
+  sheetSpells(tpl, ['bless', 'cure wounds', 'banishment'], { dc, toHit: dc - 8, mod: 4, charLevel: L });
   return extend(tpl);
 }
 
