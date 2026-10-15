@@ -115,6 +115,9 @@ LeBeefe sold Empire-owned slaves to private investors in the Demon Wastes for ro
 
 The Empire sent [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/), a Crimson Sun Inquisitor, and [Uriel Qualanthri](https://davidjette.github.io/lexicon/people/uriel-qualanthri/), a Black Dove, to investigate the missing shipment, assess LeBeefe's loyalty, and identify the alleged rebels.
 
+![Episode 1 - Welcome to New Ham - JohnC. LeBeefe, Esther Crona and Uriel Qualanthri first meeting - old thieves’ den at Oldham.png](/images/uploads/episode-1-welcome-to-new-ham-johnc-lebee-mv8ymaui.webp)
+*JohnC. LeBeefe, Esther Crona and Uriel Qualanthri first meeting - old thieves’ den at Oldham*
+
 In the old thieves' den at Oldham, they encountered members of [the Black Doves](https://davidjette.github.io/lexicon/organizations/the-black-doves/) under Adulfphus Mudge, who had been sent by Gabrielle Duin to investigate the same supposed disease. The encounter ended in violence. LeBeefe, Esther, and Uriel agreed on a cover story and took the black box associated with the investigation.
 
 Rather than expose LeBeefe, the two Imperial agents accepted a share of his operation. The arrangement gave all three something they wanted, and it established the pattern that would define their relationship: mutual advantage, carefully managed secrets, and very little trust.
