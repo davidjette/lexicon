@@ -100,6 +100,9 @@ He could manipulate how others perceived him, reduce himself to miniature, and p
 
 LeBeefe's own article, written in his own hand, described him in three words: sexual, sensual, multi-orgasmic.
 
+![Sexual, sensual, multi-orgasmic - John C. LeBeefe.png](/images/uploads/sexual-sensual-multi-orgasmic-john-c-leb-mv92dh1e.webp)
+*Sexual, sensual, multi-orgasmic - John C. LeBeefe*
+
 ## Origin and Rise of Newham
 
 LeBeefe was born on a farm in Breland and had little interest in hard work. He became a con artist, actor, lothario, and eventually a slaver, building his wealth by exploiting opportunities others overlooked—or were too honest to pursue.
