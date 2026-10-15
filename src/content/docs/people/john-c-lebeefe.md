@@ -128,6 +128,9 @@ LeBeefe became Mayor and was eventually elevated to Grand Duke of the Eastern Pr
 
 The currency of the Grand Duchy became known as **LeBeefes**.
 
+![John C. LeBeefe holding gold LeBeefes.png](/images/uploads/john-c-lebeefe-holding-gold-lebeefes-mv8zpciy.webp)
+*John C. LeBeefe holding gold LeBeefes*
+
 LeBeefe's administration was not known for its diligence. Every Imperial mayor in Khorvaire was expected to attend the annual Council of Mayors at Thronehold. LeBeefe attended for the brothels and was volunteered onto a rail-gauge committee for his trouble.
 
 He was also involved in the Empire's transportation politics. At a transportation summit, Kwanti d'Orien pushed for his House's standards and centrality in the Empire's infrastructure. LeBeefe persuaded the delegates to centralize that power instead of relying on the houses, earning Kwanti's lasting hostility.
