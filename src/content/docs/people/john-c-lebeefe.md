@@ -86,7 +86,7 @@ campaigns:
 
 **Also known as:** LaBeefe · LeBeef · LaBeef · Magister LeBeefe · Mayor LeBeefe · Grand Duke John C. LeBeefe · Inspector LeGranouille (a disguise)
 
-John C. LeBeefe was a con artist, actor, lothario, slaver, sorcerer, and Imperial statesman whose rise transformed a frontier village into a major city—and whose death destroyed it. Born on a farm in Breland, he made his fortune through deception before becoming the magistrate of New Ham, where he secretly sold Empire-owned slaves into the Demon Wastes. When Imperial agents [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) and [Uriel Qualanthri](/people/uriel-qualanthri/) arrived to investigate, he bought their cooperation instead of facing justice. Together with [Locke Pierce](/people/locke-pierce/), the three became founding members of the Unforeseen.
+John C. LeBeefe was a con artist, actor, lothario, slaver, sorcerer, and Imperial statesman whose rise transformed a frontier village into a major city—and whose death destroyed it. Born on a farm in Breland, he made his fortune through deception before becoming the magistrate of New Ham, where he operated a slave-trading business moving people both into and out of the Demon Wastes. When Imperial agents [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) and [Uriel Qualanthri](/people/uriel-qualanthri/) arrived to investigate a missing Imperial shipment, he bought their cooperation instead of facing justice. Together with [Locke Pierce](/people/locke-pierce/), the three became founding members of the Unforeseen.
 
 An encounter with a mind flayer in the Demon Wastes corrupted LeBeefe and left him slowly transforming into something otherworldly. His influence continued to grow alongside his power. New Ham became Newham, he rose from mayor to Grand Duke of the Eastern Provinces, and the Empire expanded eastward under his authority. Eventually, a rebellion united against him. LeBeefe was killed during the assault on Newham, but his death unleashed an otherworldly catastrophe that poisoned the surrounding land and created the New Mourning.
 
@@ -98,11 +98,11 @@ His body died. His voice did not disappear with it.
 
 ## Origin: A Man Who Avoided Hard Work
 
-LeBeefe was born on a farm in Breland. He had little interest in honest labour and instead made his way as a con artist, an actor, and a lothario. Eventually, he became a slaver, discovering that the greatest profits came not from working for money but from manipulating the people who possessed it.
+LeBeefe was born on a farm in Breland. He had little interest in honest labour and instead made his way as a con artist, an actor, and a lothario. Eventually, he became a slaver, discovering that the greatest profits came not from working for money but from controlling the movement of people and exploiting those who possessed the power to buy and sell them.
 
-His path led him to New Ham, a small village on the eastern frontier. There, he held the magistracy and oversaw the village's slave pens. He was entrusted with shipments of Empire-owned slaves, which he secretly sold to private investors in the Demon Wastes for roughly three times what the Empire had paid.
+His path led him to New Ham, a small village on the eastern frontier. There, he held the magistracy and oversaw the village's slave pens. From this position, he operated a trafficking business that moved slaves both into and out of the Demon Wastes, exploiting the routes and markets connecting the region to the Empire.
 
-When one shipment disappeared, LeBeefe concealed the crime behind an invented disease. He claimed that the slaves had died from an outbreak and that their bodies had been burned to prevent further infection. He then blamed the supposed disease on a rebel cell, turning his own fraud into an excuse for Imperial retaliation.
+One of his schemes involved selling Empire-owned slaves to private investors in the Demon Wastes for roughly three times what the Empire had paid. When an Imperial shipment disappeared, LeBeefe concealed the crime behind an invented disease. He claimed that the slaves had died from an outbreak and that their bodies had been burned to prevent further infection. He then blamed the supposed disease on a rebel cell, turning his own fraud into an excuse for Imperial retaliation.
 
 It was an effective scheme until the Empire sent investigators.
 
@@ -142,7 +142,7 @@ His public image was that of a successful frontier administrator: a man who had 
 
 LeBeefe was also associated with the expansion of transportation infrastructure in the north and around Newham, extending into Leef. During the Interoperability Summit, he was remembered as a figure who could persuade others to accept a consolidation of power that served his own political interests.
 
-As mayor, however, he left the management of his slave-trading operation to his Overseer, Tibedeax. He preferred gambling, development deals, and the social advantages of office to the hard work of administration. His political authority gave him a much larger arena in which to practise the same habits that had made him wealthy as a criminal.
+As mayor, he left the management of his slave-trading network to his Overseer, Tibedeax. The business continued to move people both into and out of the Demon Wastes while LeBeefe devoted more of his attention to gambling, development deals, and the social advantages of office. His political authority gave him a much larger arena in which to practise the same habits that had made him wealthy as a criminal.
 
 At his swearing-in as mayor, he received a **red velvet sash** enchanted to grant its wearer one lucky roll every twenty-four hours. He took to wearing it. The item suited him: even his ceremonial clothing came with a way to bend chance in his favour.
 
@@ -176,7 +176,7 @@ Who Krespo was working for, and whether the attack targeted the Assembly, the su
 
 LeBeefe's interest in the ancient powers beneath Sharn eventually brought the Unforeseen to the **Temple of the Closed Circle**, a foul, ancient temple buried deep below the city. Its surviving entrance was concealed behind a wardrobe in a flower shop.
 
-The temple contained an incomplete portal to **Xoriat**, the Far Realm. The gate required several additional tablets to open wide enough for Xoriat to invade Sharn. The temple itself had been maintained by priests who were once enslaved by the mind flayer elder brains that ruled Sharn and Eberron. The Cult of the Closed Circle rediscovered the site and helped bring a powerful Ulitharid, known only as **the Brain**, through the portal.
+The temple contained an incomplete portal to **Xoriat**, the Far Realm. The gate required several additional tablets to open wide enough for Xoriat to invade Sharn. The temple had been maintained by priests who were once enslaved by the mind flayer elder brains that ruled Sharn and Eberron. The Cult of the Closed Circle rediscovered the site and helped bring a powerful Ulitharid, known only as **the Brain**, through the portal.
 
 The Brain intended to consume enough brains to establish a mind flayer colony in Sharn and eventually rule the city. An Oblex and Star Spawn Manglers had also been brought through the portal to terrorize and control the cultists.
 
@@ -264,7 +264,7 @@ The man who had sold Imperial slaves, built a private empire, and threatened to 
 
 ## His Daughters
 
-LeBeefe's legacy was not limited to the territories he ruled or the disaster that followed his death. He fathered four daughters with four different mothers: Esther Crona, [Faith](https://davidjette.github.io/lexicon/people/faith/), [Blair](https://davidjette.github.io/lexicon/people/blair/), and [Eden](/people/eden/).
+LeBeefe's legacy was not limited to the territories he ruled or the disaster that followed his death. He fathered four daughters with four different mothers: [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/), [Faith](https://davidjette.github.io/lexicon/people/faith/), [Blair](https://davidjette.github.io/lexicon/people/blair/), and [Eden](/people/eden/).
 
 The surviving records describe the daughters as half-sisters. One account states that their biological relationship was confirmed by [Sister Nora](https://davidjette.github.io/lexicon/people/sister-nora/) of the local Black Dove hospital after LeBeefe arranged for [Greenish Hughes](/people/greenish-hughes/) to bring them to his manor in Newham, approximately nine years before the present record.
 
@@ -377,7 +377,7 @@ Gambling at the Clamshell Casino, singing, and collecting opportunities to enric
 
 ## Holdings and Territories
 
-* **New Ham:** The original frontier village where LeBeefe served as magistrate and operated his slave-trading scheme.
+* **New Ham:** The original frontier village where LeBeefe served as magistrate and operated his slave-trading network, moving people both into and out of the Demon Wastes.
 * **Newham:** The city he helped build and ruled as mayor. It was destroyed in the catastrophe that created the New Mourning.
 * **Castle LeBeefe / the Black Fortress:** His seat of power, a black tower in the middle of a lake.
 * **Leef:** The eastern outpost where he established an airship yard and stationed Imperial forces. It later became the capital of the Republic of Talenta.
@@ -395,7 +395,7 @@ Gambling at the Clamshell Casino, singing, and collecting opportunities to enric
 * **[Blair](https://davidjette.github.io/lexicon/people/blair/)** — His daughter, known as Queen B of the Underhive. She met him, saw through his illusions, and kept her distance. Alive.
 * **[Eden](/people/eden/)** — His daughter, an Imperial researcher whose resurrection made her the prototype of Project E.D.E.N.
 * **[Joseph Roberts](/people/pirate-joseph-roberts/)** — The Dread Pirate who stripped and marooned him, and later married his daughter. Alive.
-* **Digma Beeve** — Furniture trader and organizer of Newham's resistance. His efforts helped unite the cells that killed LeBeefe. Later acting Comptroller of the Republic of Talenta. Alive.
+* **[Digma Beeve](/people/digma-beeve/)** — Furniture trader and organizer of Newham's resistance. His efforts helped unite the cells that killed LeBeefe. Later acting Comptroller of the Republic of Talenta. Alive.
 * **Taby PC** — Leader of the Booty Salad gang in New Cyre, who made a deal with LeBeefe to move Embrace through New Ham.
 * **[Eric the Cleric](/people/eric-the-cleric/)** — One of the operatives who helped bring down LeBeefe. He later encountered the LeBeefe Eye and continues to hear a voice associated with him, including instructions to ring a bell.
 * **[Gemma Corso](/people/gemma-corso/)** — One of the operatives who helped bring down LeBeefe during the Newham rebellion.
