@@ -56,7 +56,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-09-11'
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
-  - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - Esther Crona, as revised by Nico, 2026-10-07
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person
@@ -67,124 +67,272 @@ gallery:
     alt: 'Parchment: the fortune of John C. LeBeefe'
     caption: A parchment handout stating that John C. LeBeefe made his fortune as a slave trader in the Demon Wastes, let fiends harvest his seed, and fathered four tiefling daughters, the eldest adopted by Imperial Counselor Veryn Crona as his protege.
   - src: /images/album/gemma-eric-and-dario-speak-with-john-c-lebeefe-in-throneroom-black-castle-city-o.webp
-    alt: 'Gemma, Eric and Dario speak with John C. LeBeefe in Throneroom - Black Castle - City of Newham'
-    caption: 'Gemma, Eric and Dario speak with John C. LeBeefe in Throneroom - Black Castle - City of Newham'
+    alt: Gemma, Eric and Dario speak with John C. LeBeefe in Throneroom - Black Castle - City of Newham
+    caption: Gemma, Eric and Dario speak with John C. LeBeefe in Throneroom - Black Castle - City of Newham
   - src: /images/album/gemma-eric-and-dario-meet-john-c-lebeefe-for-the-firrst-time-black-castle-city-o.webp
-    alt: 'Gemma, Eric and Dario meet John C. LeBeefe for the first time - Black Castle - City of Newham'
-    caption: 'Gemma, Eric and Dario meet John C. LeBeefe for the first time - Black Castle - City of Newham'
+    alt: Gemma, Eric and Dario meet John C. LeBeefe for the first time - Black Castle - City of Newham
+    caption: Gemma, Eric and Dario meet John C. LeBeefe for the first time - Black Castle - City of Newham
   - src: /images/album/gemma-eric-and-dario-pretend-to-autit-lebeefe-s-records-black-castle-city-of-new.webp
-    alt: 'Gemma, Eric and Dario pretend to audit LeBeefe''s records - Black Castle - City of Newham'
-    caption: 'Gemma, Eric and Dario pretend to audit LeBeefe''s records - Black Castle - City of Newham'
+    alt: Gemma, Eric and Dario pretend to audit LeBeefe's records - Black Castle - City of Newham
+    caption: Gemma, Eric and Dario pretend to audit LeBeefe's records - Black Castle - City of Newham
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
 ---
 
-**Human · Aberrant Mind Sorcerer · [The Unforeseen](/organizations/the-unforeseen/) and the Imperial Ministry · Magister of New Ham, Mayor of [Newham](/places/newham/), Grand Duke of the Eastern Provinces · Dead — killed at Newham, and still audible**
+# John C. LeBeefe
+
+**Human · Aberrant Mind Sorcerer · [The Unforeseen](/organizations/the-unforeseen/) and the Imperial Ministry · Magister of New Ham · Mayor of [Newham](/places/newham/) · Grand Duke of the Eastern Provinces · Dead — killed at Newham, and still audible**
 
 **Also known as:** LaBeefe · LeBeef · LaBeef · Magister LeBeefe · Mayor LeBeefe · Grand Duke John C. LeBeefe · Inspector LeGranouille (a disguise)
 
-**Grand Duke John C. LeBeefe** was a human Aberrant Mind sorcerer, Magister of New Ham, Mayor of [Newham](/places/newham/), Grand Duke of the Eastern Provinces and a founding member of [The Unforeseen](/organizations/the-unforeseen/). Born on a farm in Breland, he made his way as a con artist, an actor, a lothario and then a slaver, was attacked by a mind flayer in the Demon Wastes that corrupted his mind, and held the magistracy of the village of New Ham while selling Empire-owned slaves into the Demon Wastes. The Imperial agents sent to investigate the missing shipment, [Esther Crona](/people/esther-crona/) and [Uriel Qualanthri](/people/uriel-qualanthri/), took a cut instead, and the three of them founded the Unforeseen with [Locke Pierce](/people/locke-pierce/). Under him New Ham became the city of Newham and he was raised to Mayor and then Grand Duke, pushing the Empire east from the outpost of Leef. A decade later three operatives who had liberated Leef united Newham's resistance cells with Digma Beeve's help and killed him; the rising destroyed the city in an otherworldly explosion that made the New Mourning. His voice and his songs have gone on turning up in places he never went.
+John C. LeBeefe was a con artist, actor, lothario, slaver, sorcerer, and Imperial statesman whose rise transformed a frontier village into a major city—and whose death destroyed it. Born on a farm in Breland, he made his fortune through deception before becoming the magistrate of New Ham, where he secretly sold Empire-owned slaves into the Demon Wastes. When Imperial agents [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) and [Uriel Qualanthri](/people/uriel-qualanthri/) arrived to investigate, he bought their cooperation instead of facing justice. Together with [Locke Pierce](/people/locke-pierce/), the three became founding members of the Unforeseen.
 
----
+An encounter with a mind flayer in the Demon Wastes corrupted LeBeefe and left him slowly transforming into something otherworldly. His influence continued to grow alongside his power. New Ham became Newham, he rose from mayor to Grand Duke of the Eastern Provinces, and the Empire expanded eastward under his authority. Eventually, a rebellion united against him. LeBeefe was killed during the assault on Newham, but his death unleashed an otherworldly catastrophe that poisoned the surrounding land and created the New Mourning.
 
-## Description
+His body died. His voice did not disappear with it.
 
-No likeness of LeBeefe in his last years is known to have survived the fall of the city he built, and the Empire has not published one. What the record holds instead: a human male out of Breland, born on a farm, who was attacked by a mind flayer in the Demon Wastes and has been slowly transforming into something otherworldly ever since. He can reduce himself to miniature and fought his way out of a rebel base at that size. He sings. He leaves eyes behind him — one of them sat on the mantelpiece of [Esther Crona](/people/esther-crona/)’s penthouse in Sharn, and it pulled at Eric the Cleric when he found it. His own article, in his own hand, describes him in three words: sexual, sensual, multi-orgasmic.
+![John C. LeBeefe - True Form.png](/images/uploads/john-c-lebeefe-true-form-mu65gwvi.webp)
 
-## New Ham, and what he made of it
+*John C. LeBeefe in his true form.*
 
-New Ham was a small village on the eastern line with slave pens and a magistracy, and LeBeefe held the magistracy. Under him it became Newham: a bustling city with a lightning rail hotel, [The Clamshell Casino](/places/the-clamshell-casino/), a university hospital, a Rekkenmark annex and a month-long Imperial festival. He was made Mayor of it, then Grand Duke of the Eastern Provinces, and he pushed the Empire further east from the desert outpost of Leef — raising an airship yard there, and stationing illithid city guards and the Iron Veil to hold it. Every Imperial mayor in Khorvaire attends the annual Council of Mayors at Thronehold; LeBeefe attended for the brothels and was volunteered onto a rail-gauge committee for his trouble.
+## Origin: A Man Who Avoided Hard Work
 
-As Mayor he left his slave trade duties in the hands of his Overseer Tibedeax and found himself entangled in the world of gambling and development deals. He was seen around town with [Ova Santoro](/people/ova-santoro/), the 23-year-old daughter of the Casino pit boss Christopher Santoro, and was proficient with gaming dice only while Ova was with him. At his swearing-in as Mayor he was given a **red velvet sash**, a magic item that gives its wearer one lucky roll every 24 hours, and he took to wearing it. <small>(Episode 6 "6 Months Later / The Tablet")</small>
+LeBeefe was born on a farm in Breland. He had little interest in honest labour and instead made his way as a con artist, an actor, and a lothario. Eventually, he became a slaver, discovering that the greatest profits came not from working for money but from manipulating the people who possessed it.
 
-At the transportation summit, by Dave's account, [Kwanti d'Orien](/people/kwanti-d-orien/) pushed for his own standards and centrality in the Empire's infrastructure, and "LaBeefe convinced everyone to centralize that power instead of relying on the houses", for which Kwanti would hate him. <small>(Oral Histories: The Inevitables, 2025-08-31)</small> Nico recalled him as "head of like northen transpertation", "expanding in the north and around Newham and beyond into leef". <small>(Oral Histories: The Inevitables, 2026-09-11)</small>
+His path led him to New Ham, a small village on the eastern frontier. There, he held the magistracy and oversaw the village's slave pens. He was entrusted with shipments of Empire-owned slaves, which he secretly sold to private investors in the Demon Wastes for roughly three times what the Empire had paid.
 
-## Public and private
+When one shipment disappeared, LeBeefe concealed the crime behind an invented disease. He claimed that the slaves had died from an outbreak and that their bodies had been burned to prevent further infection. He then blamed the supposed disease on a rebel cell, turning his own fraud into an excuse for Imperial retaliation.
 
-Publicly he was the Empire’s success story on the frontier — the administrator who turned a slum into a metropolis, a delegate to the Interoperability Summit, a Grand Duke with a casino habit and a girlfriend and an open door.
+It was an effective scheme until the Empire sent investigators.
 
-Privately he was, in his own summary, a man who always avoided hard work. He sold Empire-owned slaves to private investors in the Demon Wastes at triple what the Empire paid, then reported the missing shipment as an unknown disease that had killed them all and burned the bodies as a precaution — and then blamed the invented disease on a rebel cell so that somebody else would go and die about it. He bought the silence of the two Imperial agents sent to investigate him — Esther and Uriel — by cutting them into the trade.
+## The Founding of the Unforeseen
 
-## Circle
+Crimson Sun Inquisitor Esther Crona and Black Dove Uriel Qualanthri arrived in New Ham to investigate the missing shipment, assess LeBeefe's loyalty, examine the alleged outbreak, and identify the rebels he had accused.
 
-LeBeefe kept company he could use. Ova Santoro was his girlfriend in Newham, and [Uriel Qualanthri](/people/uriel-qualanthri/) killed her between episodes. Taby PC of the gang Booty Salad cut him in on moving Embrace through New Ham. The [Dread Pirate Joseph Roberts](/people/pirate-joseph-roberts/) stripped him and left him on an island, and later married his daughter. Digma Beeve, a furniture trader whose routes doubled as rebel supply lines, was the man who eventually stitched the anti-LeBeefe cells of Newham into one force. No heirloom is recorded from his family and no family is recorded at all beyond the farm. What he passes on instead is the Eye.
+Their investigation led them to an old thieves' den in Oldham, where they encountered Black Doves operating under Adulfphus Mudge. The Doves had been sent by Gabrielle Duin to investigate the same nonexistent disease.
 
-## The thing in his head
+Rather than expose LeBeefe, Esther and Uriel joined him. The three killed the Doves, agreed on a shared account of what had happened, took the black box, and entered into business together.
 
-The mind flayer in the Demon Wastes corrupted his mind and did not kill him, and what he became is not documented anywhere the Empire will admit. He showed [Uriel](/people/uriel-qualanthri/) and [Esther](/people/esther-crona/) a vision of the end times in his first episode. He dreamed that he was somehow connected to the four ancient tablets. And for a stretch of his career an invisible creature was attached to him, quietly draining memory and intelligence out of everyone around him, until [Gabrielle Duin](/people/gabriel-duin/) revealed it with a flick of the hand and killed it in front of him.
+The arrangement established a pattern that would define LeBeefe's career: when confronted with danger, he preferred to make the person investigating him a partner. His talent was not simply lying. It was recognizing what someone wanted badly enough to make the truth negotiable.
 
-The shadow attached itself to him on the island where the Dread Pirate Joseph Roberts stranded the Unforeseen. He left the island feeling he had gained some power there, and also weighed down, tired and slow. In the throne room at Korth, Gabrielle Duin cast faerie fire to reveal the shadow creature attached to him; it tried to flee, and at a flick of her hand it screamed in pain as it withered and died of necromantic damage. <small>(Episode 9 "The Dig Site / Throne Room")</small>
+LeBeefe, Esther, Uriel, and Locke Pierce eventually became the founding members of the Unforeseen. Their alliance placed him alongside people whose ambitions and abilities extended far beyond the provincial criminal enterprise where he had begun.
 
-He believes the end of the world is coming, because he has seen it and made other people watch. He believes he is connected to the tablets that foretell it. He believes his goals are to get rich, gain power, and — at this point, mostly — to kill Uriel.
+But his partnership with Esther and Uriel was never simply political. His own account of his goals remained brutally simple: get rich, gain power, and, eventually, kill Uriel.
 
-## On the job
+## The Corruption of the Mind
 
-LeBeefe governs at a distance and profits at the centre. He does not appear where the fighting is unless there is a cut in it. He talks first, and his talking is his weapon — he is a con artist, an actor and a lothario before he is anything else, and he was all three before he was a slaver. When the Empire gave him rank he used it exactly as he had used the magistracy, only with an airship yard and a garrison of illithids attached.
+At some point during his activities in the Demon Wastes, LeBeefe was attacked by a mind flayer. The encounter corrupted his mind without killing him. From then on, he began a slow transformation into something otherworldly.
 
-## Origin
+The full nature of that transformation was never established. LeBeefe demonstrated powers that did not resemble ordinary spellcasting, and his condition became increasingly difficult to separate from the strange visions and phenomena surrounding him.
 
-LeBeefe was born on a farm in Breland and always avoided hard work. He made his way as a con artist, an actor, a lothario, and then finally a slaver. Then he got rich and powerful but unfortunately was attacked by a mind flayer in the demon wastes that corrupted his mind. Now he is slowly transforming into something otherworldly and has visions of the end of the world. His goals are to get rich, gain power, and at this point probably mostly to kill Uriel.
+Early in his history with the Unforeseen, he showed Esther and Uriel a vision of the end times. He also dreamed that he was connected to four ancient tablets, suggesting that he believed himself to have a role in events far larger than his political ambitions.
 
-He first crosses the record as the delinquent link in an Imperial slave shipment. Crimson Sun Inquisitor Esther Crona and Black Dove Uriel Qualanthri were sent to New Ham to investigate the missing delivery, assess his loyalty, judge the alleged outbreak and find the rebel agents he had blamed for it. In the old thieves’ den at Oldham they found [Black Doves](/organizations/the-black-doves/) under Adulfphus Mudge, sent by Gabrielle Duin to investigate the same non-existent disease. The three of them killed the Doves, agreed on a story, took the black box, and went into business together.
+His abilities manifested as psychic pressure, visions passed to other people, strange dream-connections, and a voice that could reach places where he was not physically present. The mind flayer encounter may have been the beginning of these abilities, but the surviving record does not fully explain what he became or how much of his power came from the corruption.
 
-## From founder to antagonist
+LeBeefe believed the end of the world was coming because he had seen it—and had made other people see it, too.
 
-Four Imperial operatives agreed in the undead-overrun village of Arden Crest to work together and named their group. LeBeefe fell first of the four. A decade later, three fresh operatives who had just liberated Leef were pointed west by Thadric “The Colonel” Rourke at the architect of Newham’s oppression: a Grand Duke, a former member of the Unforeseen, a sorcerer of unknown powers. They found Digma Beeve, they united the cells, and they killed him.
+## From Magistrate to Mayor
 
-**Organization / Groups:** Previous Magistrate of the village of New Ham. Current Mayor of the city of Newham. Founding member of [The Unforeseen](/organizations/the-unforeseen/). Later Grand Duke of the Eastern Provinces and delegate of the Eastern Provinces to the Interoperability Summit at Sharn.
+LeBeefe's political fortunes rose with New Ham itself. Under his administration, the village became Newham, a bustling frontier city with a lightning rail hotel, [the Clamshell Casino](/places/the-clamshell-casino/), a university hospital, a Rekkenmark annex, and a month-long Imperial festival.
 
-**Holdings:** The magistracy and slave pens of New Ham. Newham City entire — now the New Mourning, toxic and uninhabitable. The Black Palace. The airship yard at Leef, which is now the capital of the Republic of Talenta and no longer his.
+He was promoted from magistrate to mayor, then elevated to Grand Duke of the Eastern Provinces. The city became a symbol of Imperial expansion, and LeBeefe became one of the people responsible for pushing the Empire farther east.
 
-**Items:** The LeBeefe Eye — at least one of which sat for years on the fireplace mantel of Esther Crona’s penthouse in Sharn, where Eric the Cleric found it, felt it pull at him, and refused to pick it up. Condition: intact, and watching. The red velvet sash of his swearing-in as Mayor, which gives one lucky roll per 24 hours. <small>(Episode 6 "6 Months Later / The Tablet")</small> The Tentacle Rod, a rare magic weapon ending in three rubbery tentacles that each strike at a creature within 15 feet; a creature hit by all three can be slowed and hampered for a minute. <small>(Episode 9 "The Dig Site / Throne Room")</small>
+His public image was that of a successful frontier administrator: a man who had turned a struggling settlement into a prosperous city, brought Imperial institutions to the border, and helped extend the Empire's reach. He attended the annual Council of Mayors at Thronehold and participated in Imperial infrastructure discussions, including a transportation summit where he advocated centralizing authority rather than leaving it in the hands of the houses. According to the surviving account, this position earned him the hostility of [Kwanti d'Orien](/people/kwanti-d-orien/).
 
-**Aberrant Mind:** Gabrielle Duin, who was in a position to know, called it "an interesting power" and told him to harness it in the Empire's service. It shows in the record as psychic pressure rather than as spellwork: visions handed to other people, a dream-line to the tablets, a voice that carries where he is not, and a residue that lets someone who spent time near him take only half damage from psychic attacks after his death.
+LeBeefe was also associated with the expansion of transportation infrastructure in the north and around Newham, extending into Leef. During the Interoperability Summit, he was remembered as a figure who could persuade others to accept a consolidation of power that served his own political interests.
 
-## Grand Duke, and after
+As mayor, however, he left the management of his slave-trading operation to his Overseer, Tibedeax. He preferred gambling, development deals, and the social advantages of office to the hard work of administration. His political authority gave him a much larger arena in which to practise the same habits that had made him wealthy as a criminal.
 
-LeBeefe was made Grand Duke and carried the Empire eastward from the outpost of Leef, raising an airship yard, illithid city guards and the Iron Veil there. The three operatives who would become the Inevitables liberated Leef, then confronted him in Newham City with Digma Beeve's help. The rising cost the city itself: a massive otherworldly explosion collapsed Newham and corrupted the region into New Mourning , toxic and uninhabitable. The survivors fled east and founded the Republic of Talenta .
+At his swearing-in as mayor, he received a **red velvet sash** enchanted to grant its wearer one lucky roll every twenty-four hours. He took to wearing it. The item suited him: even his ceremonial clothing came with a way to bend chance in his favour.
 
-During the fighting in Leef the Inevitables found, in JL's words, that "LeBeefe is attempting to build a mind flayer army. He’s attempting to take the Dwarflands. And he’s doing it with Esther’s troops!" The currency of the Grand Duchy of Newham was "LeBeefes". <small>(Oral Histories: The Inevitables, 2025-08-30)</small> During the Newham fighting he travelled with the trio disguised as [Inspector LeGranouille](/people/inspector-legranouille/), an inspector in his own service who appeared to turn against him and join them after their heist; the turn was a ruse. <small>(Dave, sources/dave/2026-09-14-legranouille-is-lebeefe.md)</small> He was killed in the assault on him in Newham. <small>(Oral Histories: The Inevitables, 2025-12-05)</small>
+## The Private Life of a Public Man
+
+LeBeefe's public success concealed a life built around appetite and convenience. In his own description, he was *sexual, sensual, multi-orgasmic*. He was a gambler, a habitual manipulator, and a man who rarely turned down an opportunity to profit from someone else's desires.
+
+In Newham, he was romantically involved with [Ova Santoro](/people/ova-santoro/), the twenty-three-year-old daughter of Christopher Santoro, the Clamshell Casino's pit boss. LeBeefe was known to be unusually proficient with gaming dice when Ova was with him. Uriel later killed Ova, adding a personal grievance to the rivalry between the two former partners.
+
+LeBeefe also became involved in the movement of Embrace through New Ham, making a deal with Taby PC of the gang Booty Salad. His relationships were rarely separate from his business interests. Lovers, political allies, criminal associates, and rivals all occupied the same world of leverage and exchange.
+
+Even his public duties were shaped by self-interest. He attended the compulsory Council of Mayors at Thronehold for the brothels, only to find himself volunteered onto a rail-gauge committee. For a man who avoided hard work, committee service was a punishment of its own.
+
+## City of Knives: The Grand Theatre
+
+During the events recorded in [City of Knives, Pt II](https://davidjette.github.io/lexicon/lore/city-of-knives-pt-ii/), the Unforeseen attended a symphony at the Grand Theatre in Sharn. The gathering was part of a Crimson Sun operation to identify a mole on the Imperial Assembly who was leaking information to the rebellion.
+
+The three suspects were Minister [Henry Heinrick](https://davidjette.github.io/lexicon/people/henry-heinrick/), Lord [Gregory Goldenhew](https://davidjette.github.io/lexicon/people/lord-gregory-goldenhew/), and Lord Albert Spear. Esther and Uriel attended in disguise, hoping to observe the suspects in the same room.
+
+The evening became a massacre when the conductor, Krespo, turned against the audience. The orchestra transformed into dozens of demonic apparitions that attacked the theatre-goers, slaughtering much of the audience. The party and several others fought Krespo, who ultimately destroyed himself in a final act of mass murder.
+
+Amid the chaos, LeBeefe opened the wrong door and discovered Minister Heinrick, the Empire's Chief Diplomat, having sex with a girl. Heinrick did not explain or bargain. He reached into LeBeefe's mind and erased the memory of what he had seen.
+
+The party escaped the theatre with Heinrick, Goldenhew, Billy Tremblepike, and Filly Sominyard. Esther then revealed her identity as a High Inquisitor of the Crimson Sun to Heinrick, who immediately teleported away.
+
+The incident is characteristic of LeBeefe's life at court: even in the middle of a political operation and a deadly public attack, he found himself entangled in someone else's secret—and learned how easily another powerful mind could take control of what he remembered.
+
+Who Krespo was working for, and whether the attack targeted the Assembly, the summit, or the mole hunt itself, was never established in the report.
+
+## The Temple of the Closed Circle
+
+LeBeefe's interest in the ancient powers beneath Sharn eventually brought the Unforeseen to the **Temple of the Closed Circle**, a foul, ancient temple buried deep below the city. Its surviving entrance was concealed behind a wardrobe in a flower shop.
+
+The temple contained an incomplete portal to **Xoriat**, the Far Realm. The gate required several additional tablets to open wide enough for Xoriat to invade Sharn. The temple itself had been maintained by priests who were once enslaved by the mind flayer elder brains that ruled Sharn and Eberron. The Cult of the Closed Circle rediscovered the site and helped bring a powerful Ulitharid, known only as **the Brain**, through the portal.
+
+The Brain intended to consume enough brains to establish a mind flayer colony in Sharn and eventually rule the city. An Oblex and Star Spawn Manglers had also been brought through the portal to terrorize and control the cultists.
+
+The temple's existence became known to Imperial Assembly member and Chief Imperial Architect Albert Spear through an Allip—a spirit burdened by a great secret and compelled to reveal it to mortals before passing on. The encounter led Spear to propose an alternative energy source for Sharn's transportation network, hoping that it might avert further war with the rebellion and a possible apocalypse. In desperation, he attempted to defect to Zhilargo and shared information about the portal with the rebellion.
+
+LeBeefe was also drawn to the temple. The Unforeseen reached it at the same time as Spear and the rebel group known as Fulcrum. The confrontation ended with Spear and the members of Fulcrum killed, and the mind flayers occupying the temple destroyed. The tablets, however, were not recovered after the battle. Their whereabouts remained uncertain, leaving open the possibility that another faction might find them before the Unforeseen could return.
+
+The encounter also marked a turning point for Uriel. The Ulitharid killed her and consumed her brain. She was subsequently resurrected by Fema Nolan, later known as [Zero-One](/people/zero-one-fema-nolan/). The glowing diamond embedded at the base of Uriel's skull, later detected by the ArcEye on the night Calcifer was born, was a lasting consequence of that resurrection.
+
+The destruction of the temple's occupants did not end the mind flayer presence beneath Sharn. Years later, another mind flayer remained in the Dhakaani depths near the approach to [the Forge of Binding](/places/the-forge-of-binding/), surrounded by a chamber of infected Cogborn thralls.
+
+For LeBeefe, the Temple of the Closed Circle connected several recurring elements of his life: the ancient tablets he believed were tied to the end times, the mind flayers that had transformed him, and the hidden forces beneath Sharn. The surviving records do not establish whether he understood the full purpose of the portal or how much he knew about the tablets' ultimate significance.
+
+## The Shadow That Followed Him
+
+Not every consequence of LeBeefe's encounter with the Demon Wastes came from within his own mind.
+
+After the Dread Pirate [Joseph Roberts](/people/pirate-joseph-roberts/) captured and stripped the Unforeseen, he marooned them on an island. LeBeefe eventually left the island believing he had gained some power, but he was also tired, slowed, and weighed down by an unexplained presence.
+
+For a period afterward, an invisible creature remained attached to him, quietly draining memory and intelligence from those around him. The nature of the creature was not initially apparent, and LeBeefe did not seem to understand what was happening.
+
+In the throne room at Korth, [Gabrielle Duin](/people/gabriel-duin/) cast *faerie fire* and revealed the shadow attached to him. The creature attempted to flee. With a flick of her hand, Gabrielle caused it to scream in pain as it withered and died from necromantic damage.
+
+Gabrielle recognized LeBeefe's abilities as unusual and encouraged him to harness them in the Empire's service, but she warned him about the thing that had been following him.
+
+> Mayor John C. LaBeef, you have an interesting power… harness it to continue in aiding the empire. Perhaps you’ll find yourself with even more power and influence in the empire… but not with that thing following you…
+
+— Gabrielle Duin, in the throne room at Korth
+
+The episode left two mysteries intertwined: the power LeBeefe believed he had acquired, and the presence that had been feeding on those around him. The shadow creature was destroyed, but the record does not establish whether it was responsible for his wider transformation or merely one part of it.
+
+## The Expansion into Leef
+
+As Grand Duke, LeBeefe extended Imperial authority beyond Newham toward the desert outpost of Leef. He established an airship yard, stationed illithid city guards, and deployed the Iron Veil to hold the territory.
+
+Leef became an important military and logistical centre under his rule. His ambitions extended beyond ordinary territorial administration: during the fighting there, rebel intelligence reported that he was attempting to build a mind flayer army and take the Dwarflands, using Esther's troops to support his expansion.
+
+His dominion was marked by the same combination of Imperial infrastructure and private ambition that had characterized his rise in Newham. Transportation networks, military garrisons, and political appointments served not only the Empire's interests but LeBeefe's own growing power.
+
+The currency of the Grand Duchy of Newham was even known as **LeBeefes**.
+
+LeBeefe's position made him a symbol of the Empire's eastern expansion, but it also made him the target of the resistance gathering against him. The very infrastructure that strengthened his rule connected the places where his opponents could organize, move supplies, and eventually bring their forces together.
 
 ## The Black Fortress
 
-In Leef, where he was the Grand Duke Dominus Imperium, the talk in every tavern ended the same way: "Gods-damned LeBeefe, curse his soul." His seat in Newham City was Castle LeBeefe, a black tower in the middle of a lake that the rebels called the Black Fortress. The rebels of Newham held him to be the most powerful sorcerer on the continent, and his fortress to be alive with dark magic. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+LeBeefe's seat of power in Newham was Castle LeBeefe, a black tower rising from the middle of a lake. To the rebels, it was the **Black Fortress**, a place believed to be alive with dark magic.
 
-Eric's mark let the trio pass in and out of the fortress freely, and LeBeefe welcomed them to inspect his books; the ink bled off every page. He greeted them as a young human, intangible, a trick of the mind. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+In Leef, LeBeefe was known as the Grand Duke Dominus Imperium. In Newham, his reputation was more direct. The rebels believed him to be among the most powerful sorcerers on the continent, and the resentment toward his rule could be heard in the taverns:
 
-> "You thought it would be that easy? You simpering nitwits. My name is LeBeefe. I cannot be killed."
+*“Gods-damned LeBeefe, curse his soul.”*
 
-<small>— John C. LeBeefe, in the Black Fortress.</small>
+When the operatives who would become the Inevitables entered his fortress, Eric's mark allowed them to pass through it freely. LeBeefe welcomed them to inspect his books, but the ink bled off every page. He greeted them in the form of a young human, appearing intangible—as though the figure before them were a trick of the mind rather than a body.
 
-He promised them a little present, inserted directly behind the eye, that would make them his slaves. When he died, his arcane eye exploded and poisoned the land with illithid magic. Rekkenmark scientists sent to the flaming wreckage of Newham found the ground would not be habitable for a hundred years, and the contaminated territory, named the New Mourning, spread over 12,000 square miles from Karrnath to Q'barra, cutting Leef and the dwarflands off from the rest of the Empire. The native plants and animals began to mutate. Some said a rebel attack had caused the catastrophe, and others that the gods had taken their retribution for his malice and avarice. An eight-foot bust of solid gold, honouring Grand Duke LeBeefe as heroic protector of the Empire, was set up outside the Hall of Justice in Karrnath. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
+He was entirely confident that they could not hurt him.
 
-## His daughters
+> You thought it would be that easy? You simpering nitwits. My name is LeBeefe. I cannot be killed.
 
-His harvested sperm produced four daughters by four different mothers: [Esther Crona](/people/esther-crona/), [Faith](/people/faith/), [Blair](/people/blair/) and [Eden](/people/eden/). Nine years before the present he had [Greenish Hughes](/people/greenish-hughes/) call all four to his manor in [Newham](/places/newham/), where [Sister Nora](/people/sister-nora/) of the local Black Dove hospital confirmed their blood relation.
+— John C. LeBeefe, in the Black Fortress
 
-Sister Nora of the Black Doves named them under questioning: [Blair](/people/blair/) , [Eden](/people/eden/) and [Faith](/people/faith/) are all his, and all half-sisters to [Esther Crona](/people/esther-crona/).
+LeBeefe promised his visitors a gift: something inserted directly behind the eye that would make them his slaves. The threat reflected the same fusion of psychic power and domination that had marked his rise. He did not merely want to defeat his opponents; he wanted to own them.
 
-Esther is his daughter too. His tiefling daughters are part mind flayer, and in Sharn they served as Esther's deadly agents. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> <small>(sources/dave/2026-09-27-leef-jl-notes-rulings.md)</small>
+But his confidence would prove misplaced.
 
-<small>Rebel intelligence out of Sharn puts it differently — three Tiefling daughters with Esther the eldest of them. Blair, who reached out to him herself and spent time with him before his death, recognised both his intelligence and the danger under the charm, saw through his illusions, and kept a careful distance from him until he died. Faith led the Children of Ember and was killed on a rooftop in Sharn.</small>
+## The Fall of Newham
 
-Of Esther's son [Calcifer](/people/calcifer/), Dave said "He’s the kwisatz haderach" / "Cause his grandpa is labeefe". <small>(Oral Histories: The Inevitables, 2025-08-30)</small>
+A decade after the Unforeseen's founding, three operatives who had liberated Leef were directed toward the architect of Newham's oppression. Thadric “The Colonel” Rourke pointed them toward the Grand Duke, while [Digma Beeve](/people/digma-beeve/) helped unite the city's scattered resistance cells into a single force.
 
-## What still listens
+The three operatives were [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/), and [Dario](/people/dario/). Digma was a furniture trader whose routes doubled as rebel supply lines. He became central to the effort to coordinate opposition to LeBeefe, bringing together groups that had previously acted separately.
 
-LeBeefe's voice and his songs turn up in places he has never been. Eric heard both at the Forge of Binding beneath Sharn, along with a tune he knew from the Black Palace. A LeBeefe Eye sat on the mantel of Esther Crona's penthouse. And in the deep workings beneath the Mror Holds the party found a dead Imperial courier carrying a note in LeBeefe's hand: "observe the deep workings and report what listens back."
+The resistance confronted LeBeefe in Newham. During the fighting, he travelled with the trio disguised as [Inspector LeGranouille](/people/inspector-legranouille/), an inspector in his own service who appeared to turn against him and join the operatives after their heist. The apparent defection was a ruse: LeGranouille was LeBeefe himself.
 
-The courier’s satchel was found half-consumed by a fungal bloom that had grown out of a shattered terrarium in his own kit, and the bloom had one thing to say: *Ring it here. When HE is born, it will be too late.* The voice that has been pushing Eric to ring bells ever since is LeBeefe’s. It pushed Sedda Deeptempura the same way, and she rang. In a dream in the Glitterhame, Eric found the same voice bent over a small duergar boy — and the boy has not been seen since.
+The disguise gave him another opportunity to manipulate the people attempting to overthrow him, but it could not save his rule. The rebels ultimately killed him during the assault on Newham.
 
-> Mayor John C. LaBeef, you have an interesting power… harness it to continue in aiding the empire. Perhaps you’ll find yourself with even more power and influence in the empire… but not with that thing following you…\
-> — Gabrielle Duin, in the throne room at Korth
+His death was not the end of the disaster.
 
-> Good idea to ring that bell.\
-> — John C. LeBeefe, in a dream, three years after his death
+As LeBeefe died, his arcane eye exploded, releasing illithid magic into the surrounding land. Newham collapsed in a massive otherworldly explosion, and the region became toxic and uninhabitable. Rekkenmark scientists sent to examine the burning wreckage concluded that the ground would remain uninhabitable for a hundred years.
+
+The contaminated territory became known as the **New Mourning**. It spread across roughly 12,000 square miles, from Karrnath toward Q'barra, cutting Leef and the Dwarflands off from the rest of the Empire. Native plants and animals began to mutate. Survivors fled east and established the Republic of Talenta.
+
+The cause of the catastrophe became a matter of competing accounts. Some blamed the rebel attack; others believed the gods had exacted retribution for LeBeefe's malice and avarice. The surviving evidence connected the explosion to his death and his arcane eye, but the full nature of the magic involved remained unclear.
+
+The Empire's public response was as strange as the disaster itself. An eight-foot bust of solid gold, honouring LeBeefe as a heroic protector of the Empire, was erected outside the Hall of Justice in Karrnath.
+
+The man who had sold Imperial slaves, built a private empire, and threatened to enslave his enemies was memorialized as a hero.
+
+## His Daughters
+
+LeBeefe's legacy was not limited to the territories he ruled or the disaster that followed his death. He fathered four daughters with four different mothers: Esther Crona, [Faith](https://davidjette.github.io/lexicon/people/faith/), [Blair](https://davidjette.github.io/lexicon/people/blair/), and [Eden](/people/eden/).
+
+The surviving records describe the daughters as half-sisters. One account states that their biological relationship was confirmed by [Sister Nora](https://davidjette.github.io/lexicon/people/sister-nora/) of the local Black Dove hospital after LeBeefe arranged for [Greenish Hughes](/people/greenish-hughes/) to bring them to his manor in Newham, approximately nine years before the present record.
+
+The precise circumstances of their conception and upbringing remain unusual. One account describes LeBeefe's sperm as having been harvested and used to produce the four daughters. Other records emphasize that they had different mothers and were brought together later in life. The surviving notes also associate his tiefling daughters with mind flayer ancestry, though they do not fully explain the nature or extent of that inheritance.
+
+The sisters took very different paths.
+
+* **Esther Crona** became a powerful Imperial figure and was among the founders of the Unforeseen. She never openly acknowledged her relationship to LeBeefe in the rebel records recovered after his death.
+* **Faith** became the Mother Prophet of the Children of Ember. She was later killed on a rooftop in Sharn.
+* **Blair** became Queen B of the Underhive. She reached out to LeBeefe herself and spent time with him before his death. She recognized his intelligence and the danger beneath his charm, saw through his illusions, and maintained a careful distance.
+* **Eden** became an Imperial researcher before her death and resurrection made her the prototype of Project E.D.E.N.
+
+Some records describe the sisters differently, including a rebel intelligence account that refers to three tiefling daughters and identifies Esther as the eldest. The surviving evidence establishes the family relationships but does not resolve every discrepancy in how the sisters' origins were recorded.
+
+LeBeefe's relationship to his descendants also extended into the next generation. When discussing Esther's son [Calcifer](/people/calcifer/), one account described him as the *kwisatz haderach*, adding, “Cause his grandpa is labeefe.”
+
+Whatever his daughters inherited from him—biologically, magically, or otherwise—LeBeefe's influence did not end with his own death.
+
+## The LeBeefe Eye
+
+One of the most persistent remnants of LeBeefe is the **LeBeefe Eye**, an arcane object associated with his transformation and death.
+
+At least one such eye sat for years on the fireplace mantel of Esther Crona's penthouse in Sharn. When Eric the Cleric encountered it, he felt it pulling at him and refused to pick it up. The eye was intact and appeared to be watching.
+
+The eye is connected in the records to LeBeefe's powers and to the catastrophe that followed his death. During the destruction of Newham, his arcane eye exploded and released the illithid magic that contaminated the land. The precise relationship between the object found in Esther's penthouse and the eye involved in the New Mourning is not fully established.
+
+Other items associated with LeBeefe include:
+
+* **Red Velvet Sash:** Given to him at his swearing-in as mayor of Newham. It grants its wearer one lucky roll every twenty-four hours.
+* **Tentacle Rod:** A rare magic weapon ending in three rubbery tentacles. Each can strike a creature within fifteen feet; a creature hit by all three can be slowed and hampered for a minute.
+
+The items are useful records of LeBeefe's life, but the Eye is different. It is associated with the possibility that something of him persisted beyond the destruction of his body.
+
+## What Still Listens
+
+After LeBeefe's death, his voice and songs began appearing in places he had never visited.
+
+Eric heard LeBeefe's voice at the Forge of Binding beneath Sharn, along with a tune he recognized from the Black Palace. The voice did not seem confined to a physical object or a place associated with the Grand Duke. It appeared to reach across distances and circumstances that should have made communication impossible.
+
+During an expedition into the deep workings beneath the Mror Holds, the party discovered a dead Imperial courier carrying a note written in LeBeefe's hand:
+
+> Observe the deep workings and report what listens back.
+
+The courier's satchel had been partly consumed by a fungal bloom that had grown from a shattered terrarium in his kit. The bloom carried a message of its own:
+
+*Ring it here. When HE is born, it will be too late.*
+
+The voice that had been urging Eric to ring bells was LeBeefe's. It had also pushed Sedda Deeptempura toward ringing a bell, and she had done so. In a dream in the Glitterhame, Eric encountered the same voice bent over a small duergar boy. The boy has not been seen since.
+
+The appearances suggest that LeBeefe's influence continues through dreams, voices, and objects connected to him. They do not establish whether his consciousness survived intact, whether his power left behind an echo, or whether something else is using his voice.
+
+One message attributed to him was particularly direct:
+
+> Good idea to ring that bell.
+
+— John C. LeBeefe, in a dream, three years after his death
 
 ## Right Now
 
-LeBeefe is dead, his city is a poison, and he has not stopped talking. His voice is inside the Chancellor of Sharn, telling him to ring a bell that would raise the dead of Khorvaire, and the Chancellor has been hiding how loud it has got. Somebody is still working LeBeefe’s errand in the deep places. Nobody knows on whose behalf.
+LeBeefe is dead. Newham is a poisoned wasteland, the Grand Duchy has fallen, and the Black Fortress is no longer the seat of his power. Yet his voice continues to reach the living.
+
+His voice has been heard by Eric and is reportedly inside the Chancellor of Sharn, telling him to ring a bell that would raise the dead of Khorvaire. The Chancellor has concealed how loud the voice has become. Somewhere in the deep places, someone—or something—continues to carry out an errand associated with LeBeefe.
+
+Nobody knows on whose behalf.
+
+The last confirmed state of his body is death at Newham. The state of his consciousness remains unknown. His words, songs, eyes, and instructions continue to appear in places where he has no apparent reason to be.
+
+LeBeefe once insisted that he could not be killed. The rebellion proved that his body could die. It has not yet proved that everything bearing his name died with it.
 
 ## Personality Characteristics
 
@@ -192,46 +340,78 @@ LeBeefe is dead, his city is a poison, and he has not stopped talking. His voice
 
 Get rich, gain power, and kill Uriel Qualanthri.
 
-**Likes & Dislikes**
+**Likes**
 
-**Likes:**
+* Money he did not work for
+* Gambling at the Clamshell Casino
+* The brothels of Thronehold
+* Ova Santoro
+* Embrace as a commodity
+* Singing
+* Turning investigators into business partners
 
-- Money he did not work for
-- Gambling at the Clamshell Casino
-- The brothels of Thronehold
-- Ova Santoro
-- Embrace, as a commodity
-- Singing
-- Cutting an investigator in rather than fighting one
+**Dislikes**
 
-**Dislikes:**
+* Hard work
+* Uriel Qualanthri
+* Compulsory committee meetings
+* Being stripped of his equipment by pirates
 
-- Hard work
-- Uriel Qualanthri
-- Committee meetings, of which he attended the compulsory one
-- Being stripped of his gear by pirates
+**Vices and Personality Flaws**
 
-**Vices & Personality flaws**
+LeBeefe was a con artist, an actor, a lothario, and a slaver. He avoided hard work, pursued pleasure, and treated nearly every relationship as a potential transaction. He preferred manipulation to confrontation and profit to principle.
 
-Sexual, sensual, mutli-orgasmic. Also a con artist, an actor, a lothario and a slaver, in that order.
+His charm was genuine enough to make him effective, but it was never a reliable sign of goodwill. He could make a person feel chosen while quietly calculating what they were worth to him.
 
-**Hobbies & Pets**
+**Hobbies and Possessions**
 
-The Clamshell Casino. Nothing kept.
+Gambling at the Clamshell Casino, singing, and collecting opportunities to enrich himself. No enduring family heirloom is recorded from his early life; the objects most closely associated with his legacy are the LeBeefe Eye, his red velvet sash, and the Tentacle Rod.
+
+## Organizations and Allegiances
+
+* [The Unforeseen](/organizations/the-unforeseen/) — Founding member, alongside Esther Crona, Uriel Qualanthri, and Locke Pierce.
+* [The Iron Veil](/organizations/the-iron-veil/) — Imperial military force stationed in the eastern territories during his rule.
+* The Imperial Ministry — LeBeefe held Imperial political authority as Magister, Mayor, and Grand Duke.
+* The Grand Duchy of Newham — The territory he ruled before his death and the catastrophe that destroyed its capital.
+* The Cult of the Closed Circle — The cult that revived the ancient temple beneath Sharn and helped bring a Ulitharid through the portal to Xoriat.
+
+## Holdings and Territories
+
+* **New Ham:** The original frontier village where LeBeefe served as magistrate and operated his slave-trading scheme.
+* **Newham:** The city he helped build and ruled as mayor. It was destroyed in the catastrophe that created the New Mourning.
+* **Castle LeBeefe / the Black Fortress:** His seat of power, a black tower in the middle of a lake.
+* **Leef:** The eastern outpost where he established an airship yard and stationed Imperial forces. It later became the capital of the Republic of Talenta.
+* **The New Mourning:** The toxic, uninhabitable region created by the destruction of Newham. It remains the most enduring consequence of his death.
 
 ## Social
 
-**Contacts & Relations**
+**Contacts and Relations**
 
-- **[Esther Crona](/people/esther-crona/)** — fellow founder of the Unforeseen, and by rebel reckoning his eldest daughter. She never acknowledged it in any record the rebellion recovered. Dead.
-- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder; his partner in the New Ham slave arrangement, the murderer of his girlfriend, and the person he most wanted dead. Alive, and Empress.
-- **[Locke Pierce](/people/locke-pierce/)** — fellow founder. LeBeefe ran when Locke set the Rekkenmark to self-destruct. Alive.
-- **[Ova Santoro](/people/ova-santoro/)** — his girlfriend in Newham. Killed by Uriel between episodes.
-- **[Blair, "Queen B"](/people/blair/)** — his daughter, sovereign of the Sharn Underhive. She reached out, met him, saw through him, and kept her distance. Alive.
-- **[Captain Joseph Roberts](/people/pirate-joseph-roberts/)** — the Dread Pirate who robbed and marooned him, and who later became his son-in-law. Alive.
-- **Digma Beeve** — the Newham furniture trader who assembled the resistance that killed him. Now acting Comptroller of the Republic of Talenta. Alive.
-- **Taby PC** — leader of the gang Booty Salad in New Cyre; cut a deal to move Embrace through New Ham.
-- **[Eric the Cleric](/people/eric-the-cleric/)** — spent time around him and carries the residue: half damage from psychic attacks, a tune from the Black Palace, and a voice that will not stop asking him to ring a bell.
+* **[Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/)** — Fellow founder of the Unforeseen and his daughter. She did not openly acknowledge the relationship in the rebel records recovered after his death. Dead.
+* **[Uriel Qualanthri](/people/uriel-qualanthri/)** — Fellow founder, partner in the New Ham slave arrangement, killer of Ova Santoro, and the person LeBeefe most wanted dead. Alive, and Empress.
+* **[Locke Pierce](/people/locke-pierce/)** — Fellow founder. LeBeefe fled when Locke set the Rekkenmark to self-destruct. Alive.
+* **[Ova Santoro](/people/ova-santoro/)** — His girlfriend in Newham. Killed by Uriel between episodes.
+* **[Faith](https://davidjette.github.io/lexicon/people/faith/)** — His daughter, later leader of the Children of Ember. Killed in Sharn.
+* **[Blair](https://davidjette.github.io/lexicon/people/blair/)** — His daughter, known as Queen B of the Underhive. She met him, saw through his illusions, and kept her distance. Alive.
+* **[Eden](/people/eden/)** — His daughter, an Imperial researcher whose resurrection made her the prototype of Project E.D.E.N.
+* **[Joseph Roberts](/people/pirate-joseph-roberts/)** — The Dread Pirate who stripped and marooned him, and later married his daughter. Alive.
+* **Digma Beeve** — Furniture trader and organizer of Newham's resistance. His efforts helped unite the cells that killed LeBeefe. Later acting Comptroller of the Republic of Talenta. Alive.
+* **Taby PC** — Leader of the Booty Salad gang in New Cyre, who made a deal with LeBeefe to move Embrace through New Ham.
+* **[Eric the Cleric](/people/eric-the-cleric/)** — One of the operatives who helped bring down LeBeefe. He later encountered the LeBeefe Eye and continues to hear a voice associated with him, including instructions to ring a bell.
+* **[Gemma Corso](/people/gemma-corso/)** — One of the operatives who helped bring down LeBeefe during the Newham rebellion.
+* **[Dario](/people/dario/)** — One of the operatives who helped bring down LeBeefe during the Newham rebellion.
+* **[Henry Heinrick](https://davidjette.github.io/lexicon/people/henry-heinrick/)** — Chief Diplomat of the Empire. During the Grand Theatre massacre, he erased LeBeefe's memory of discovering him with a girl.
+* **[Fema Nolan / Zero-One](/people/zero-one-fema-nolan/)** — The woman who resurrected Uriel after the Ulitharid killed her and consumed her brain.
+* **Albert Spear** — Chief Imperial Architect, whose investigation into the Xoriat portal led him to the Temple of the Closed Circle. Killed during the confrontation there.
 
+## Signature Capability: Aberrant Mind
 
-![John C. LeBeefe - True Form.png](/images/uploads/john-c-lebeefe-true-form-mu65gwvi.webp)
+LeBeefe's sorcery manifested less as conventional spellwork than as psychic influence and strange phenomena. His documented abilities and effects include:
+
+* **Visions:** He showed Esther and Uriel a vision of the end times and believed himself connected to four ancient tablets.
+* **Psychic influence:** His voice and presence could affect people beyond ordinary physical proximity.
+* **Illusions and altered appearances:** In the Black Fortress, he appeared as a young human and intangible figure; he also travelled disguised as Inspector LeGranouille.
+* **The LeBeefe Eye:** An arcane remnant associated with his power and the destruction of Newham.
+* **Posthumous influence:** His voice, songs, dreams, and instructions have continued to appear after his death. The mechanism remains unknown.
+
+Gabrielle Duin described his power as interesting and urged him to use it in the Empire's service. She also warned him about the shadow creature that had attached itself to him. Whether his abilities, the creature, the mind flayer corruption, and his posthumous appearances share a single cause remains unresolved.
