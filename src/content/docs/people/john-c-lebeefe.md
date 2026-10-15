@@ -166,19 +166,16 @@ LeBeefe believed the end of the world was coming because he had seen it and made
 
 **Approximately nine years before [the Fall of Newham](https://davidjette.github.io/lexicon/history/the-fall-of-newham/)**, [Richard Blaze](https://davidjette.github.io/lexicon/people/richard-blaze/) and [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) married in a small, private ceremony at their lake house outside [Korth](https://davidjette.github.io/lexicon/places/korth/). [Uriel Qualanthri](https://davidjette.github.io/lexicon/people/uriel-qualanthri/) and LeBeefe attended.
 
-![Esther and Richards Wedding - With Ureil and LeBeefe - Lake House.png](/images/uploads/esther-and-richards-wedding-with-ureil-a-mv8z5tfz.webp)
-
-*Esther and Richards Wedding - With Ureil and LeBeefe - Lake House*
-
 The wedding was LeBeefe's **last known public appearance outside his castle**. Afterward, he withdrew from public life and remained within the Black Palace in Newham, leaving few reliable accounts of his activities during the final years of his rule.
+
+![Esther and Richards Wedding - With Ureil and LeBeefe - Lake House.png](/images/uploads/esther-and-richards-wedding-with-ureil-a-mv8z5tfz.webp)
+*Esther and Richards Wedding - With Ureil and LeBeefe - Lake House*
 
 Soon afterward, [Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) contacted Esther on LeBeefe's behalf, inviting her to his manor in [Newham](https://davidjette.github.io/lexicon/places/newham/). Esther travelled there with Richard but entered the palace alone.
 
 Inside, she met three tiefling women: [Faith](https://davidjette.github.io/lexicon/people/faith/), [Blair](https://davidjette.github.io/lexicon/people/blair/), and [Eden](https://davidjette.github.io/lexicon/people/eden/). LeBeefe explained that he had used harvested sperm to father four daughters by four different mothers. Esther, Faith, Blair, and Eden shared the same biological father and were half-sisters.
 
 [Sister Nora](https://davidjette.github.io/lexicon/people/sister-nora/), a cleric from the Black Dove hospital, performed a ritual that confirmed their blood relationship.
-
-![LeBeefe's Daughters — Esther, Faith, Eden and Blair. First time meeting](/images/uploads/lebeefe-s-daughters-esther-faith-eden-an-muxqhpm6.webp)
 
 This gathering was the last known time Esther, Faith, Blair, Eden, and Sister Nora saw LeBeefe. Sister Nora would later be transferred to Sharn, where she became head cleric of the [Sanctum of the Last Mercy](https://davidjette.github.io/lexicon/places/sanctum-of-the-last-mercy/).
 
@@ -192,6 +189,8 @@ LeBeefe's four known daughters were:
 * **[Faith](https://davidjette.github.io/lexicon/people/faith/)** — a leader of the Children of Ember. She was killed on a rooftop in Sharn.
 * **[Blair](https://davidjette.github.io/lexicon/people/blair/)** — also known as Queen B, sovereign of the Sharn Underhive. She reached out to LeBeefe herself and spent time with him before his death. She recognized both his intelligence and the danger beneath his charm, saw through his illusions, and kept a careful distance from him.
 * **[Eden](https://davidjette.github.io/lexicon/people/eden/)** — one of the three daughters who met Esther at LeBeefe's manor.
+
+![LeBeefe's Daughters — Esther, Faith, Eden and Blair. First time meeting](/images/uploads/lebeefe-s-daughters-esther-faith-eden-an-muxqhpm6.webp)
 
 The daughters' origins and nature have been described differently in different accounts. Some records identify the three younger daughters as tieflings and suggest that they were partly mind flayer, serving as Esther's deadly agents in Sharn. Rebel intelligence instead emphasizes that Esther was the eldest and identifies all four women as LeBeefe's daughters.
 
