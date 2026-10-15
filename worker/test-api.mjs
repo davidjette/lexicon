@@ -82,5 +82,24 @@ check('uploads an image', r.status === 200 && /^\/images\/uploads\/test-pixel-[a
 r = await call('POST', '/api/image', { filename: '../evil.svg', data: png });
 check('refuses a bad image name or type', r.status === 400, JSON.stringify(r));
 
-console.log(failed ? `${failed} check(s) failed` : 'editor API behaves');
+// Bestiary inbox (writes to INBOX_BRANCH in .dev.vars, a throwaway branch of the private inbox repo)
+const pdf = Buffer.from('%PDF-1.4\n% inbox test\n').toString('base64');
+r = await call('POST', '/api/inbox', { kind: 'monster', name: 'Test Goblin', campaign: 'Tests', visibility: 'dm', notes: 'AC 15, HP 7', files: [{ filename: 'Goblin Sheet.PDF', data: pdf }, { filename: 'goblin sheet.pdf', data: pdf }] });
+check('submits to the inbox', r.status === 200 && /^submissions\/\d{4}-\d\d-\d\d-test-goblin-/.test(r.data.submission?.folder) && r.data.submission.files.join() === 'goblin-sheet.pdf,goblin-sheet-2.pdf' && !('notes' in r.data.submission), JSON.stringify(r));
+r = await call('GET', '/api/inbox');
+check('lists the submission as queued, without its notes', r.status === 200 && r.data.submissions[0]?.name === 'Test Goblin' && r.data.submissions[0].state === 'queued' && r.data.submissions[0].hasNotes === true, JSON.stringify(r).slice(0, 300));
+r = await call('GET', '/api/inbox', null, false);
+check('listing the inbox without signing in is refused', r.status === 401, JSON.stringify(r));
+for (const [name, sub] of [
+	['an inbox file of the wrong type is refused', { kind: 'monster', name: 'X', files: [{ filename: 'x.exe', data: pdf }] }],
+	['an inbox submission with no kind is refused', { name: 'X', notes: 'x' }],
+	['an empty inbox submission is refused', { kind: 'character', name: 'X' }],
+	['a non-Lexicon link is refused', { kind: 'character', name: 'X', link: 'https://example.com/x' }],
+	['six inbox files are refused', { kind: 'character', name: 'X', files: Array(6).fill({ filename: 'a.txt', data: pdf }) }],
+]) {
+	r = await call('POST', '/api/inbox', sub);
+	check(name, r.status === 400, JSON.stringify(r));
+}
+
+console.log(failed ?`${failed} check(s) failed` : 'editor API behaves');
 process.exit(failed ? 1 : 0);

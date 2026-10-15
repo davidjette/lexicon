@@ -5,14 +5,17 @@
 // GitHub Pages rebuilds the site from that commit. Git is the version history: the history and
 // restore endpoints read it back.
 //
-// Secrets (wrangler secret put): GITHUB_TOKEN, SESSION_SECRET, PASSWORD_PEPPER, CONTRIBUTORS
-// Vars (wrangler.toml): REPO, BRANCH, ALLOWED_ORIGINS, SITE_URL
+// Secrets (wrangler secret put): GITHUB_TOKEN, SESSION_SECRET, PASSWORD_PEPPER, CONTRIBUTORS, INBOX_TOKEN
+// Vars (wrangler.toml): REPO, BRANCH, ALLOWED_ORIGINS, SITE_URL, INBOX_REPO (INBOX_BRANCH optional, default main)
 import yaml from 'js-yaml';
 
 const DOCS = /^src\/content\/docs\/(people|places|organizations|history|sessions|items|lore|species)\/[a-z0-9][a-z0-9-]*\.md$/;
 const UPLOAD_DIR = 'public/images/uploads';
 const MAX_ARTICLE = 400_000;
 const MAX_IMAGE = 3_000_000;
+const MAX_INBOX_FILE = 10_000_000;
+const MAX_INBOX_FILES = 5;
+const MAX_INBOX_TOTAL = 25_000_000;
 const SESSION_DAYS = 30;
 // Raw HTML a contributor may use in an article. Everything else is refused, so nobody can put a script on the site.
 const ALLOWED_TAGS = new Set(['small', 'br', 'strong', 'em', 'b', 'i', 'sup', 'sub', 'u', 's']);
@@ -53,6 +56,8 @@ async function route(request, env) {
 	if (p === '/api/history' && request.method === 'GET') return history(env, url.searchParams.get('path'));
 	if (p === '/api/restore' && request.method === 'POST') return restore(request, env, who);
 	if (p === '/api/image' && request.method === 'POST') return uploadImage(request, env, who);
+	if (p === '/api/inbox' && request.method === 'POST') return submitInbox(request, env, who);
+	if (p === '/api/inbox' && request.method === 'GET') return listInbox(env);
 	throw new HttpError(404, 'Not found.');
 }
 
@@ -140,6 +145,111 @@ async function uploadImage(request, env, who) {
 	return json({ ok: true, src: '/' + path.replace(/^public\//, '') });
 }
 
+// ------------------------------------------------------------------ bestiary inbox
+// Character sheets and stat blocks for the Encounter Builder go to a PRIVATE repo (INBOX_REPO), never
+// to the public site repo, because DM-only stat blocks arrive in the clear. Each submission is one
+// commit: its files, a submission.json, and the updated index.json the builder page lists from.
+// Dave's Claude processes the inbox locally and writes each entry's state back into index.json.
+async function submitInbox(request, env, who) {
+	const b = await body(request);
+	const kind = b.kind === 'monster' ? 'monster' : b.kind === 'character' ? 'character' : null;
+	if (!kind) throw new HttpError(400, 'Choose Character or Monster.');
+	const name = clean(b.name, 80);
+	if (!name) throw new HttpError(400, 'Give the character or monster a name.');
+	const link = clean(b.link, 300);
+	if (link && !/^https:\/\/davidjette\.github\.io\/lexicon\//.test(link)) throw new HttpError(400, 'Links must be Lexicon pages (https://davidjette.github.io/lexicon/...).');
+	const files = Array.isArray(b.files) ? b.files : [];
+	if (!files.length && !link && !clean(b.notes, 20000)) throw new HttpError(400, 'Add a sheet, a stat block, text or a Lexicon link.');
+	if (files.length > MAX_INBOX_FILES) throw new HttpError(400, `Send at most ${MAX_INBOX_FILES} files at a time.`);
+	let total = 0;
+	const names = new Set();
+	const blobs = files.map((f) => {
+		const m = String(f?.filename || '').toLowerCase().replace(/[^a-z0-9.]+/g, '-').replace(/^-+/, '').match(/^(.{1,60}?)\.(pdf|png|jpe?g|webp|txt|md)$/);
+		if (!m) throw new HttpError(400, `${f?.filename || 'A file'}: only PDF, PNG, JPG, WebP, text and Markdown files are accepted.`);
+		const bytes = Math.floor((String(f.data || '').length * 3) / 4);
+		if (!f.data || bytes > MAX_INBOX_FILE) throw new HttpError(400, `${f.filename}: files must be under 10 MB.`);
+		total += bytes;
+		let fname = `${m[1]}.${m[2]}`;
+		for (let i = 2; names.has(fname); i++) fname = `${m[1]}-${i}.${m[2]}`;
+		names.add(fname);
+		return { fname, data: f.data };
+	});
+	if (total > MAX_INBOX_TOTAL) throw new HttpError(400, 'All files together must be under 25 MB.');
+
+	const date = new Date().toISOString();
+	const folder = `submissions/${date.slice(0, 10)}-${slug(name).slice(0, 40)}-${Date.now().toString(36)}`;
+	const entry = {
+		folder,
+		who,
+		kind,
+		name,
+		campaign: clean(b.campaign, 60),
+		visibility: b.visibility === 'dm' ? 'dm' : 'public',
+		notes: clean(b.notes, 20000),
+		link,
+		files: blobs.map((x) => x.fname),
+		date,
+		state: 'queued',
+	};
+	const tree = [];
+	for (const x of blobs) tree.push({ path: `${folder}/${x.fname}`, mode: '100644', type: 'blob', sha: (await inboxOk(await inbox(env, '/git/blobs', { method: 'POST', body: JSON.stringify({ content: x.data, encoding: 'base64' }) }))).sha });
+	const { notes, ...listed } = entry;
+	tree.push({ path: `${folder}/submission.json`, mode: '100644', type: 'blob', content: JSON.stringify(entry, null, 2) + '\n' });
+
+	// The index is read and rewritten in the same commit; if someone else committed meanwhile, start over.
+	for (let attempt = 0; attempt < 3; attempt++) {
+		const head = await inboxOk(await inbox(env, `/git/ref/heads/${inboxBranch(env)}`));
+		const parent = head.object.sha;
+		const index = await readIndex(env, parent);
+		index.submissions.unshift({ ...listed, hasNotes: !!notes });
+		const commit = await inboxOk(await inbox(env, '/git/commits', {
+			method: 'POST',
+			body: JSON.stringify({
+				message: `Submit ${kind} ${name} (by ${who})`,
+				tree: (await inboxOk(await inbox(env, '/git/trees', { method: 'POST', body: JSON.stringify({ base_tree: (await inboxOk(await inbox(env, `/git/commits/${parent}`))).tree.sha, tree: [...tree, { path: 'index.json', mode: '100644', type: 'blob', content: JSON.stringify(index, null, 2) + '\n' }] }) }))).sha,
+				parents: [parent],
+				author: { name: who, email: `${slug(who)}@contributors.lexicon`, date },
+			}),
+		}));
+		const r = await inbox(env, `/git/refs/heads/${inboxBranch(env)}`, { method: 'PATCH', body: JSON.stringify({ sha: commit.sha }) });
+		if (r.ok) return json({ ok: true, submission: { ...listed, hasNotes: !!notes } });
+		if (r.status !== 422 && r.status !== 409) await inboxOk(r);
+	}
+	throw new HttpError(409, 'The inbox was busy. Please send it again.');
+}
+
+async function listInbox(env) {
+	const head = await inboxOk(await inbox(env, `/git/ref/heads/${inboxBranch(env)}`));
+	return json(await readIndex(env, head.object.sha));
+}
+
+async function readIndex(env, ref) {
+	const r = await inbox(env, `/contents/index.json?ref=${ref}`);
+	if (r.status === 404) return { submissions: [] };
+	const index = JSON.parse(decodeBase64Utf8((await inboxOk(r)).content));
+	return { submissions: Array.isArray(index.submissions) ? index.submissions : [] };
+}
+
+function inbox(env, path, init = {}) {
+	return gh(env, path, init, env.INBOX_REPO, env.INBOX_TOKEN);
+}
+
+async function inboxOk(r) {
+	if (r.status === 401 || r.status === 403 || r.status === 404) {
+		console.error('Inbox', r.status, await r.text());
+		throw new HttpError(502, 'The inbox is not reachable. Tell Dave (inbox token or repo).');
+	}
+	return ok(r);
+}
+
+function inboxBranch(env) {
+	return env.INBOX_BRANCH || 'main';
+}
+
+function clean(s, max) {
+	return String(s ?? '').trim().slice(0, max);
+}
+
 function checkArticlePath(path) {
 	if (!DOCS.test(String(path || ''))) throw new HttpError(400, 'Articles live at src/content/docs/<kind>/<slug>.md.');
 }
@@ -196,11 +306,11 @@ async function putContent(env, path, base64, sha, message, who) {
 	return ok(r);
 }
 
-function gh(env, path, init = {}) {
-	return fetch(`https://api.github.com/repos/${env.REPO}${path}`, {
+function gh(env, path, init = {}, repo = env.REPO, token = env.GITHUB_TOKEN) {
+	return fetch(`https://api.github.com/repos/${repo}${path}`, {
 		...init,
 		headers: {
-			Authorization: `Bearer ${env.GITHUB_TOKEN}`,
+			Authorization: `Bearer ${token}`,
 			Accept: 'application/vnd.github+json',
 			'User-Agent': 'lexicon-editor',
 			'X-GitHub-Api-Version': '2022-11-28',

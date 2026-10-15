@@ -47,8 +47,17 @@ Claude (the repo is public); raw HTML other than `<small>`, `<br>`, `<strong>`, 
 event-handler attributes and `javascript:` links; a save made from a copy someone else has changed
 since (it asks the contributor to reload); images that are not png/jpg/webp/gif or are over 3 MB.
 
+## Bestiary inbox
+
+`POST /api/inbox` takes a character sheet or stat block from the Encounter Builder's "Add to library"
+form and commits it, as one commit, to the PRIVATE repo `davidjette/lexicon-inbox` (`INBOX_REPO`, secret
+`INBOX_TOKEN`), never to this public repo. `GET /api/inbox` returns its `index.json` (notes left out).
+Up to 5 files (pdf, png, jpg, webp, txt, md), 10 MB each, 25 MB together; links must be Lexicon pages.
+Dave's Claude processes the inbox from `C:\dev\lazaret-sim` and writes each entry's state back.
+
 ## Testing
 
-`node worker/test-api.mjs` runs 22 checks against `wrangler dev` (`node worker/wr.mjs dev --local`),
-using a `worker/.dev.vars` that points `BRANCH` at a throwaway branch. Delete the branch and the
+`node worker/test-api.mjs` runs 30 checks against `wrangler dev` (`node worker/wr.mjs dev --local`),
+using a `worker/.dev.vars` that points `BRANCH` at a throwaway branch
+(and `INBOX_BRANCH` at a throwaway branch of the inbox repo). Delete the branch and the
 `.dev.vars` afterwards.
