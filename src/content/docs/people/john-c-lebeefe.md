@@ -106,6 +106,9 @@ LeBeefe was born on a farm in Breland and had little interest in hard work. He m
 
 At some point, while in the Demon Wastes, he encountered a mind flayer. The encounter corrupted his mind and began a transformation whose ultimate nature remains unknown. He survived, but he emerged with disturbing psychic abilities and visions of the end of the world.
 
+![John C. LeBeefe - Young Slaver.png](/images/uploads/john-c-lebeefe-young-slaver-mv8x35nd.webp)
+*John C. LeBeefe - Young Slaver*
+
 He first appears in the record as the magistrate of New Ham, a small village on the eastern line with slave pens and an Imperial administrative post. The position gave him a respectable public office from which to continue his private business.
 
 LeBeefe sold Empire-owned slaves to private investors in the Demon Wastes for roughly three times what the Empire had paid. When an Imperial shipment disappeared, he claimed an unknown disease had killed the slaves. He burned the bodies as a precaution and blamed the supposed outbreak on a rebel cell, ensuring that the authorities would pursue a fabricated enemy rather than discover his own involvement.
