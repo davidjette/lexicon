@@ -223,7 +223,8 @@ He promised the trio a little present, inserted directly behind the eye, that wo
 ![John C. LeBeefe - True Form.png](/images/uploads/john-c-lebeefe-true-form-mv8z9lgp.webp)
 *John C. LeBeefe - True Form*
 
-![Leef Ep 18 — The Death of LeBeefe - Gemma, Dario and Eric face off against LeBeefe in his true form - Throne Room - Newham.png](/images/uploads/leef-ep-18-the-death-of-lebeefe-gemma-da-mv8z8han.webp)
+![Leef Ep 18 — The Death of LeBeefe - Gemma, Dario and Eric face off against LeBeefe in his true form - Throne Room - Newham 2.png](/images/uploads/leef-ep-18-the-death-of-lebeefe-gemma-da-mv9w8gj7.webp)
+
 *Dario and Eric face off against LeBeefe in his true form - Throne Room - Newham*
 
 His death unleashed the power contained in his arcane eye. The eye exploded, poisoning the land with illithid magic and causing an otherworldly catastrophe that collapsed Newham.
