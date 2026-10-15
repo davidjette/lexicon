@@ -119,9 +119,7 @@ When an Imperial shipment disappeared, LeBeefe fabricated a disease outbreak, bu
 ![Episode 1 - Welcome to New Ham - JohnC. LeBeefe, Esther Crona and Uriel Qualanthri first meeting - old thieves’ den at Oldham.png](/images/uploads/episode-1-welcome-to-new-ham-johnc-lebee-mv8ymaui.webp)
 *John C. LeBeefe, Esther Crona and Uriel Qualanthri first meeting - old thieves’ den at Oldham*
 
-As LeBeefe's influence grew, New Ham became Newham, a bustling city with a lightning-rail hotel, the [Clamshell Casino](https://davidjette.github.io/lexicon/places/the-clamshell-casino/), a university hospital, a Rekkenmark annex, and an airship yard. He rose from Mayor to Grand Duke of the Eastern Provinces, pushing the Empire's reach eastward from [Leef](https://davidjette.github.io/lexicon/places/leef/). The [Iron Veil](https://davidjette.github.io/lexicon/organizations/the-iron-veil/) and illithid city guards helped secure his expanding territory.
-
-The currency of the Grand Duchy became known as **LeBeefes**.
+As LeBeefe's influence grew, New Ham became Newham, a bustling city with a lightning-rail hotel, the [Clamshell Casino](https://davidjette.github.io/lexicon/places/the-clamshell-casino/), a university hospital, a Rekkenmark annex, and an airship yard. The currency of his growing domain became known as **LeBeefes**.
 
 ![John C. LeBeefe holding gold LeBeefes.png](/images/uploads/john-c-lebeefe-holding-gold-lebeefes-mv8zpciy.webp)
 *John C. LeBeefe holding gold LeBeefes*
@@ -183,16 +181,18 @@ LeBeefe's four daughters shared a father but had little else in common before th
 
 ## The Black Palace
 
-After the gathering at his manor, LeBeefe remained hidden inside the **Black Palace** in Newham. His seat of power was Castle LeBeefe, a black tower in the middle of a lake that the rebels called the Black Fortress.
+Around the time of Esther and Richard's wedding and the reunion with his daughters, LeBeefe's ambitions extended beyond Newham. He rose from mayor to **Grand Duke of the Eastern Provinces**, pushing the Empire's reach eastward from [Leef](https://davidjette.github.io/lexicon/places/leef/). The [Iron Veil](https://davidjette.github.io/lexicon/organizations/the-iron-veil/) and illithid city guards helped secure his expanding territory.
 
-In Leef, where he held the title of Grand Duke Dominus Imperium, tavern conversations reportedly ended with the same curse: “Gods-damned LeBeefe, curse his soul.”
-
-The rebels of Newham considered him one of the most powerful sorcerers on the continent and believed his fortress was alive with dark magic. His soldiers and city guards were under parasite control, making his authority extend beyond ordinary military command.
+Despite this growing authority, LeBeefe increasingly withdrew from public life. After his last known public appearance outside the castle, he remained hidden within the [Black Palace](https://davidjette.github.io/lexicon/places/newham/), also known as Castle LeBeefe—a black tower in the middle of a lake that the rebels called the Black Fortress.
 
 ![LeBeef's Black Castle - City of Newham.png](/images/uploads/lebeef-s-black-castle-city-of-newham-mv8z6sui.webp)
 *LeBeef's Black Castle - City of Newham*
 
-During the years he remained hidden, Greenish Hughes was the only known person to maintain an ongoing relationship with him. The Empire's public accounts continued to present LeBeefe as a heroic protector, but resistance intelligence described a ruler attempting to build a mind flayer army and seize the Dwarflands with the help of Esther's troops.
+In Leef, where he held the title of Grand Duke Dominus Imperium, tavern conversations reportedly ended with the same curse: “Gods-damned LeBeefe, curse his soul.”
+
+The rebels of Newham considered him one of the most powerful sorcerers on the continent and believed his fortress was alive with dark magic. His soldiers and city guards were under parasite control, extending his authority beyond ordinary military command.
+
+During the years he remained hidden, [Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) was the only known person to maintain an ongoing relationship with him. The Empire's public accounts continued to present LeBeefe as a heroic protector, but resistance intelligence described a ruler attempting to build a mind flayer army and seize the Dwarflands with the help of Esther's troops.
 
 The precise extent of LeBeefe's transformation during these years is unknown. His body was changing into something otherworldly, and he could manipulate how others perceived him. In the Black Fortress, he appeared to the resistance as a young human, intangible and seemingly a trick of the mind. He welcomed the intruders to inspect his books, but the ink bled off every page.
 
