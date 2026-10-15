@@ -84,7 +84,7 @@ campaigns:
 
 **Human · Aberrant Mind Sorcerer · [The Unforeseen](/organizations/the-unforeseen/) and the Imperial Ministry · Magister of New Ham · Mayor of [Newham](/places/newham/) · Grand Duke of the Eastern Provinces · Dead — killed at Newham, and still audible**
 
-**Also known as:** LaBeefe · LeBeef · LaBeef · Magister LeBeefe · Mayor LeBeefe · Grand Duke John C. LeBeefe · Inspector LeGranouille (a disguise)
+**Also known as:** LaBeefe · LeBeef · LaBeef · Magister LeBeefe · Mayor LeBeefe · Grand Duke John C. LeBeefe · [Inspector LeGranouille](/people/inspector-legranouille/) (a disguise)
 
 John C. LeBeefe was a con artist, actor, lothario, slaver, sorcerer, and Imperial statesman whose rise transformed a frontier village into a major city—and whose death destroyed it. Born on a farm in Breland, he made his fortune through deception before becoming the magistrate of New Ham, where he operated a slave-trading business moving people both into and out of the Demon Wastes. When Imperial agents [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) and [Uriel Qualanthri](/people/uriel-qualanthri/) arrived to investigate a missing Imperial shipment, he bought their cooperation instead of facing justice. Together with [Locke Pierce](/people/locke-pierce/), the three became founding members of the Unforeseen.
 
@@ -108,15 +108,15 @@ It was an effective scheme until the Empire sent investigators.
 
 ## The Founding of the Unforeseen
 
-Crimson Sun Inquisitor Esther Crona and Black Dove Uriel Qualanthri arrived in New Ham to investigate the missing shipment, assess LeBeefe's loyalty, examine the alleged outbreak, and identify the rebels he had accused.
+Crimson Sun Inquisitor [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) and Black Dove [Uriel Qualanthri](/people/uriel-qualanthri/) arrived in New Ham to investigate the missing shipment, assess LeBeefe's loyalty, examine the alleged outbreak, and identify the rebels he had accused.
 
-Their investigation led them to an old thieves' den in Oldham, where they encountered Black Doves operating under Adulfphus Mudge. The Doves had been sent by Gabrielle Duin to investigate the same nonexistent disease.
+Their investigation led them to an old thieves' den in Oldham, where they encountered the [Black Doves](/organizations/the-black-doves/) operating under Adulfphus Mudge. The Doves had been sent by [Gabrielle Duin](/people/gabriel-duin/) to investigate the same nonexistent disease.
 
 Rather than expose LeBeefe, Esther and Uriel joined him. The three killed the Doves, agreed on a shared account of what had happened, took the black box, and entered into business together.
 
 The arrangement established a pattern that would define LeBeefe's career: when confronted with danger, he preferred to make the person investigating him a partner. His talent was not simply lying. It was recognizing what someone wanted badly enough to make the truth negotiable.
 
-LeBeefe, Esther, Uriel, and Locke Pierce eventually became the founding members of the Unforeseen. Their alliance placed him alongside people whose ambitions and abilities extended far beyond the provincial criminal enterprise where he had begun.
+LeBeefe, Esther, Uriel, and [Locke Pierce](/people/locke-pierce/) eventually became the founding members of the Unforeseen. Their alliance placed him alongside people whose ambitions and abilities extended far beyond the provincial criminal enterprise where he had begun.
 
 But his partnership with Esther and Uriel was never simply political. His own account of his goals remained brutally simple: get rich, gain power, and, eventually, kill Uriel.
 
@@ -166,7 +166,7 @@ The evening became a massacre when the conductor, Krespo, turned against the aud
 
 Amid the chaos, LeBeefe opened the wrong door and discovered Minister Heinrick, the Empire's Chief Diplomat, having sex with a girl. Heinrick did not explain or bargain. He reached into LeBeefe's mind and erased the memory of what he had seen.
 
-The party escaped the theatre with Heinrick, Goldenhew, Billy Tremblepike, and Filly Sominyard. Esther then revealed her identity as a High Inquisitor of the Crimson Sun to Heinrick, who immediately teleported away.
+The party escaped the theatre with Heinrick, Goldenhew, [Billy Tremblepike](/people/billy-tremblepike/), and [Filly Sominyard](/people/filly-sominyard/). Esther then revealed her identity as a High Inquisitor of the Crimson Sun to Heinrick, who immediately teleported away.
 
 The incident is characteristic of LeBeefe's life at court: even in the middle of a political operation and a deadly public attack, he found himself entangled in someone else's secret—and learned how easily another powerful mind could take control of what he remembered.
 
@@ -184,7 +184,7 @@ The temple's existence became known to Imperial Assembly member and Chief Imperi
 
 LeBeefe was also drawn to the temple. The Unforeseen reached it at the same time as Spear and the rebel group known as Fulcrum. The confrontation ended with Spear and the members of Fulcrum killed, and the mind flayers occupying the temple destroyed. The tablets, however, were not recovered after the battle. Their whereabouts remained uncertain, leaving open the possibility that another faction might find them before the Unforeseen could return.
 
-The encounter also marked a turning point for Uriel. The Ulitharid killed her and consumed her brain. She was subsequently resurrected by Fema Nolan, later known as [Zero-One](/people/zero-one-fema-nolan/). The glowing diamond embedded at the base of Uriel's skull, later detected by the ArcEye on the night Calcifer was born, was a lasting consequence of that resurrection.
+The encounter also marked a turning point for Uriel. The Ulitharid killed her and consumed her brain. She was subsequently resurrected by [Fema Nolan, later known as Zero-One](/people/zero-one-fema-nolan/). The glowing diamond embedded at the base of Uriel's skull, later detected by the ArcEye on the night [Calcifer](/people/calcifer/) was born, was a lasting consequence of that resurrection.
 
 The destruction of the temple's occupants did not end the mind flayer presence beneath Sharn. Years later, another mind flayer remained in the Dhakaani depths near the approach to [the Forge of Binding](/places/the-forge-of-binding/), surrounded by a chamber of infected Cogborn thralls.
 
@@ -210,7 +210,7 @@ The episode left two mysteries intertwined: the power LeBeefe believed he had ac
 
 ## The Expansion into Leef
 
-As Grand Duke, LeBeefe extended Imperial authority beyond Newham toward the desert outpost of Leef. He established an airship yard, stationed illithid city guards, and deployed the Iron Veil to hold the territory.
+As Grand Duke, LeBeefe extended Imperial authority beyond Newham toward the desert outpost of Leef. He established an airship yard, stationed illithid city guards, and deployed the [Iron Veil](/organizations/the-iron-veil/) to hold the territory.
 
 Leef became an important military and logistical centre under his rule. His ambitions extended beyond ordinary territorial administration: during the fighting there, rebel intelligence reported that he was attempting to build a mind flayer army and take the Dwarflands, using Esther's troops to support his expansion.
 
@@ -246,7 +246,7 @@ A decade after the Unforeseen's founding, three operatives who had liberated Lee
 
 The three operatives were [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/), and [Dario](/people/dario/). Digma was a furniture trader whose routes doubled as rebel supply lines. He became central to the effort to coordinate opposition to LeBeefe, bringing together groups that had previously acted separately.
 
-The resistance confronted LeBeefe in Newham. During the fighting, he travelled with the trio disguised as [Inspector LeGranouille](/people/inspector-legranouille/), an inspector in his own service who appeared to turn against him and join the operatives after their heist. The apparent defection was a ruse: LeGranouille was LeBeefe himself.
+The resistance confronted LeBeefe in Newham. During the fighting, he travelled with the trio disguised as Inspector LeGranouille, an inspector in his own service who appeared to turn against him and join the operatives after their heist. The apparent defection was a ruse: LeGranouille was LeBeefe himself.
 
 The disguise gave him another opportunity to manipulate the people attempting to overthrow him, but it could not save his rule. The rebels ultimately killed him during the assault on Newham.
 
@@ -287,7 +287,7 @@ Whatever his daughters inherited from him—biologically, magically, or otherwis
 
 One of the most persistent remnants of LeBeefe is the **LeBeefe Eye**, an arcane object associated with his transformation and death.
 
-At least one such eye sat for years on the fireplace mantel of Esther Crona's penthouse in Sharn. When Eric the Cleric encountered it, he felt it pulling at him and refused to pick it up. The eye was intact and appeared to be watching.
+At least one such eye sat for years on the fireplace mantel of Esther Crona's penthouse in Sharn. When [Eric the Cleric](/people/eric-the-cleric/) encountered it, he felt it pulling at him and refused to pick it up. The eye was intact and appeared to be watching.
 
 The eye is connected in the records to LeBeefe's powers and to the catastrophe that followed his death. During the destruction of Newham, his arcane eye exploded and released the illithid magic that contaminated the land. The precise relationship between the object found in Esther's penthouse and the eye involved in the New Mourning is not fully established.
 
@@ -302,7 +302,7 @@ The items are useful records of LeBeefe's life, but the Eye is different. It is 
 
 After LeBeefe's death, his voice and songs began appearing in places he had never visited.
 
-Eric heard LeBeefe's voice at the Forge of Binding beneath Sharn, along with a tune he recognized from the Black Palace. The voice did not seem confined to a physical object or a place associated with the Grand Duke. It appeared to reach across distances and circumstances that should have made communication impossible.
+[Eric the Cleric](/people/eric-the-cleric/) heard LeBeefe's voice at the Forge of Binding beneath Sharn, along with a tune he recognized from the Black Palace. The voice did not seem confined to a physical object or a place associated with the Grand Duke. It appeared to reach across distances and circumstances that should have made communication impossible.
 
 During an expedition into the deep workings beneath the Mror Holds, the party discovered a dead Imperial courier carrying a note written in LeBeefe's hand:
 
@@ -312,7 +312,7 @@ The courier's satchel had been partly consumed by a fungal bloom that had grown 
 
 *Ring it here. When HE is born, it will be too late.*
 
-The voice that had been urging Eric to ring bells was LeBeefe's. It had also pushed Sedda Deeptempura toward ringing a bell, and she had done so. In a dream in the Glitterhame, Eric encountered the same voice bent over a small duergar boy. The boy has not been seen since.
+The voice that had been urging Eric to ring bells was LeBeefe's. It had also pushed [Sedda Deeptempura](/people/sedda-deeptempura/) toward ringing a bell, and she had done so. In a dream in the Glitterhame, Eric encountered the same voice bent over a small duergar boy. The boy has not been seen since.
 
 The appearances suggest that LeBeefe's influence continues through dreams, voices, and objects connected to him. They do not establish whether his consciousness survived intact, whether his power left behind an echo, or whether something else is using his voice.
 
@@ -353,7 +353,7 @@ Get rich, gain power, and kill Uriel Qualanthri.
 **Dislikes**
 
 * Hard work
-* Uriel Qualanthri
+* [Uriel Qualanthri](/people/uriel-qualanthri/)
 * Compulsory committee meetings
 * Being stripped of his equipment by pirates
 
