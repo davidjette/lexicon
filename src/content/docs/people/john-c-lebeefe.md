@@ -194,6 +194,9 @@ The rebels of Newham considered him one of the most powerful sorcerers on the co
 
 During the years he remained hidden, [Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) was the only known person to maintain an ongoing relationship with him. The Empire's public accounts continued to present LeBeefe as a heroic protector, but resistance intelligence described a ruler attempting to build a mind flayer army and seize the Dwarflands with the help of Esther's troops.
 
+![Greenish Hughes and John C LeBeefe - Newham.png](/images/uploads/greenish-hughes-and-john-c-lebeefe-newha-mv9w4abn.webp)
+*Greenish Hughes and John C LeBeefe - Newham*
+
 The precise extent of LeBeefe's transformation during these years is unknown. His body was changing into something otherworldly, and he could manipulate how others perceived him. In the Black Fortress, he appeared to the resistance as a young human, intangible and seemingly a trick of the mind. He welcomed the intruders to inspect his books, but the ink bled off every page.
 
 ## The Fall of Newham
