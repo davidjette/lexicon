@@ -104,10 +104,10 @@ LeBeefe's own article, written in his own hand, described him in three words: se
 
 LeBeefe was born on a farm in Breland and had little interest in hard work. He became a con artist, actor, lothario, and eventually a slaver, building his wealth by exploiting opportunities others overlooked—or were too honest to pursue.
 
+During his time in the Demon Wastes, LeBeefe encountered a mind flayer. The encounter corrupted his mind and began a transformation whose ultimate nature remains unknown. He survived with disturbing psychic abilities and visions of the end of the world.
+
 ![John C. LeBeefe - Young Slaver.png](/images/uploads/john-c-lebeefe-young-slaver-mv8x35nd.webp)
 *John C. LeBeefe - Young Slaver*
-
-During his time in the Demon Wastes, LeBeefe encountered a mind flayer. The encounter corrupted his mind and began a transformation whose ultimate nature remains unknown. He survived with disturbing psychic abilities and visions of the end of the world.
 
 LeBeefe eventually became the magistrate of New Ham, a small eastern settlement with slave pens and an Imperial administrative post. He used the position to conceal his private slave-trading operation, selling Empire-owned slaves to investors in the Demon Wastes for roughly three times what the Empire had paid.
 
