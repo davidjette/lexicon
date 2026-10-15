@@ -1,5 +1,5 @@
 ---
-title: Grand Duke John C. LeBeefe
+title: John C. LeBeefe
 description: Slaver, Magister, Mayor, Grand Duke. Founder of the Unforeseen, killed at Newham - and still whispering to the people who killed him.
 tags:
   - Inspector LeGranouille
