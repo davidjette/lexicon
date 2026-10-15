@@ -1,16 +1,16 @@
 // The battle screen: the same engine and the same fights as the encounter builder, played out
 // on a stage. This file owns the page controls and the step loop.
-import { Encounter } from '../engine/combat.js?v=mv735kia';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mv735kia';
-import { switchDefaults } from '../data/encounters.js?v=mv735kia';
-import { PRESETS } from '../data/registry.js?v=mv735kia';
-import { rowsFromPreset, setupFromState } from '../data/build.js?v=mv735kia';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv735kia';
-import { makeGame, BACKGROUNDS } from './stage.js?v=mv735kia';
-import { Director } from './director.js?v=mv735kia';
-import { Hud } from './hud.js?v=mv735kia';
-import { renderParty } from './party.js?v=mv735kia';
-import { audio, setVolume, loadMusic, playMusic } from './audio.js?v=mv735kia';
+import { Encounter } from '../engine/combat.js?v=mv9nlp8f';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mv9nlp8f';
+import { switchDefaults } from '../data/encounters.js?v=mv9nlp8f';
+import { PRESETS } from '../data/registry.js?v=mv9nlp8f';
+import { rowsFromPreset, setupFromState } from '../data/build.js?v=mv9nlp8f';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv9nlp8f';
+import { makeGame, BACKGROUNDS } from './stage.js?v=mv9nlp8f';
+import { Director } from './director.js?v=mv9nlp8f';
+import { Hud } from './hud.js?v=mv9nlp8f';
+import { renderParty } from './party.js?v=mv9nlp8f';
+import { audio, setVolume, loadMusic, playMusic } from './audio.js?v=mv9nlp8f';
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -219,7 +219,7 @@ async function init() {
   await document.fonts.ready;
   fillPresets();
   // the wider library and the DM pack have to be in before a builder fight can name them
-  await import('../library/index.js?v=mv735kia').catch(() => {});
+  await import('../library/index.js?v=mv9nlp8f').catch(() => {});
   await tryDm();
   fillPresets();
   // a link that names its fight wins over whatever the list fell back to while it was filling

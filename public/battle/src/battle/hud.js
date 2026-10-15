@@ -1,8 +1,8 @@
 // The player's menu. On a party member's turn it lists what the engine says that character can
 // do (AI.options), then asks for a slot level and a target where the action needs one. The
 // answer is a choice object the engine's step mode already understands.
-import { AI } from '../engine/ai.js?v=mv735kia';
-import { sfx } from './audio.js?v=mv735kia';
+import { AI } from '../engine/ai.js?v=mv9nlp8f';
+import { sfx } from './audio.js?v=mv9nlp8f';
 
 const el = (tag, attrs = {}, ...kids) => {
   const n = document.createElement(tag);
@@ -85,13 +85,22 @@ export class Hud {
     if (o.shift) return this.answer({ shift: o.shift });
     const choice = { act: o.act, opt: o.opt, cost: o.cost, free: o.free, targets: [], ...(o.choice || {}) };
     if (o.levels) return this.showLevels(E, c, o, choice);
-    this.showTargets(E, c, o, choice);
+    this.showTypes(E, c, o, choice);
+  }
+
+  // A spell whose caster picks the damage type (Chromatic Orb) asks for it before the target.
+  showTypes(E, c, o, choice) {
+    const act = o.act && E.action(c, o.act);
+    if (!act || !act.types) return this.showTargets(E, c, o, choice);
+    const back = el('button', { class: 'btn small ghost', onclick: () => { sfx(this.stage, 'back'); this.showActions(E, c); } }, 'Back');
+    this.root.replaceChildren(this.head(E, c, `${o.name}: which damage type?`),
+      el('div', { class: 'hud-row' }, ...act.types.map((t) => el('button', { class: 'btn small', onclick: () => { sfx(this.stage, 'select'); this.showTargets(E, c, o, { ...choice, type: t }); } }, t[0].toUpperCase() + t.slice(1))), back));
   }
 
   showLevels(E, c, o, choice) {
     const back = el('button', { class: 'btn small ghost', onclick: () => { sfx(this.stage, 'back'); this.showActions(E, c); } }, 'Back');
     this.root.replaceChildren(this.head(E, c, `${o.name}: which slot?`),
-      el('div', { class: 'hud-row' }, ...o.levels.map((l) => el('button', { class: 'btn small', onclick: () => { sfx(this.stage, 'select'); this.showTargets(E, c, o, { ...choice, level: l }); } }, `Level ${l} (${c.slots[l]} left)`)), back));
+      el('div', { class: 'hud-row' }, ...o.levels.map((l) => el('button', { class: 'btn small', onclick: () => { sfx(this.stage, 'select'); this.showTypes(E, c, o, { ...choice, level: l }); } }, `Level ${l} (${c.slots[l]} left)`)), back));
   }
 
   showTargets(E, c, o, choice) {

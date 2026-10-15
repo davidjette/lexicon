@@ -7,9 +7,9 @@
 // Sorcerers spend sorcery points on the Metamagic named on their sheet: the choice carries a `meta`
 // list, and the points are paid when the spell runs.
 
-import { SRD_SPELLS } from './spells-data.js?v=mv6d5oxw';
-import { melee, ranged, save, emanation, rollDice, areaTargets } from './lib.js?v=mv6d5oxw';
-import { avgDice, parseDice, maxDice } from '../engine/dice.js?v=mv6d5oxw';
+import { SRD_SPELLS } from './spells-data.js?v=mv9nlcei';
+import { melee, ranged, save, emanation, rollDice, areaTargets } from './lib.js?v=mv9nlcei';
+import { avgDice, parseDice, maxDice } from '../engine/dice.js?v=mv9nlcei';
 
 const up = (n, die, level, per = 1, flat = '') => {
   const out = {};
@@ -19,7 +19,8 @@ const up = (n, die, level, per = 1, flat = '') => {
 
 // Spells the generated table lacks or gets wrong, and common spells from outside the SRD (numbers only).
 const EXTRA = {
-  'chromatic orb': { name: 'Chromatic Orb', level: 1, atk: 'ranged', type: 'acid', dmg: up(3, 8, 1) },
+  // `types`: the caster picks one when casting; left alone, it is the one the target takes worst
+  'chromatic orb': { name: 'Chromatic Orb', level: 1, atk: 'ranged', type: 'acid', types: ['acid', 'cold', 'fire', 'lightning', 'poison', 'thunder'], dmg: up(3, 8, 1) },
   'witch bolt': { name: 'Witch Bolt', level: 1, atk: 'ranged', type: 'lightning', dmg: up(1, 12, 1) },
   'chaos bolt': { name: 'Chaos Bolt', level: 1, atk: 'ranged', type: 'force', dmg: up(2, 8, 1, 0, '+1d6') },
   'dissonant whispers': { name: 'Dissonant Whispers', level: 1, save: 'wis', half: true, type: 'psychic', dmg: up(3, 6, 1) },
@@ -58,7 +59,7 @@ const EXTRA = {
   // a wall: those in it save or burn and are blinded; on later turns the caster fires beams from it, six in all.
   // (Damage for ending a turn inside the wall is not run: there are no standing zones away from the caster.)
   'wall of light': { name: 'Wall of Light', level: 5, save: 'con', half: true, type: 'radiant', dmg: up(4, 8, 5), area: 3, sustain: 'action', conc: true, charges: 6,
-    rider: { cond: 'blinded', repeat: true }, later: { atk: 'ranged' } },
+    rider: { cond: 'blinded', repeat: true }, later: { atk: 'ranged', label: 'beam' } },
   'crown of stars': { name: 'Crown of Stars', level: 7, atk: 'ranged', type: 'radiant', dmg: { 7: '4d12' }, sustain: 'bonus', setup: true, charges: 7 },
   // conditions
   'hold person': { name: 'Hold Person', level: 2, save: 'wis', cond: 'paralysed', repeat: true, conc: true, only: 'humanoid' },
@@ -298,23 +299,26 @@ export function cast(key, o = {}) {
   };
   book.avg = (lvl, n = 1) => avgDice(book.dice(lvl)) * (s.rays ? s.rays(lvl) : 1) * (1 + 0.7 * (Math.min(n, s.area || 1) - 1));
   book.value = (lvl, n = 1) => book.avg(lvl, n) * hit;
-  const ok = (E, t) => hurts(E, t, s.type) && (!s.metal || ['humanoid', 'construct'].includes(t.tpl.type));
+  const ok = (E, t) => (s.types || [s.type]).some((x) => hurts(E, t, x)) && (!s.metal || ['humanoid', 'construct'].includes(t.tpl.type));
   book.ok = ok;
   const pick = (E, c) => E.ai.pickTarget(E, c, { melee: s.atk === 'melee' }, { filter: (t) => ok(E, t) });
   // m is the mechanic of this strike: the spell's own, or its `later` form on the turns after casting
   const strike = (E, c, first, lvl, choice = {}, m = s) => {
     let t = first;
     const name = lvl > s.level ? `${s.name} (level ${lvl})` : s.name;
+    // the damage type: fixed, or the caster's pick from `types`, or failing that the worst for the target
+    const type = !s.types ? s.type : s.types.includes(choice.type) ? choice.type
+      : s.types.reduce((best, x) => (E.resistMult(t, x) > E.resistMult(t, best) ? x : best), s.type);
     // one damage roll of the casting may carry a bonus (Elemental Affinity, Arcane Firearm)
-    const plus = (c.tpl.spellPlus || []).filter((p) => !p.type || p.type === s.type).map((p) => `+${p.dice}`).join('');
+    const plus = (c.tpl.spellPlus || []).filter((p) => !p.type || p.type === type).map((p) => `+${p.dice}`).join('');
     const dice = book.dice(lvl) + plus;
     const n = s.rays ? s.rays(lvl) : 1;
     if (m.auto) {
       const r = rollDice(E.rng, Array(n).fill(dice).join('+'));
       E.log('act', `${c.name}: ${name} at ${t.name}${s.rays ? `, ${n} darts` : ''}.`, c);
-      E.damage(t, [{ amt: r.total, type: s.type }], c, { rollText: `${r.text} ${s.type}` });
+      E.damage(t, [{ amt: r.total, type }], c, { rollText: `${r.text} ${type}` });
     } else if (m.atk) {
-      const a = { name, toHit, melee: m.atk === 'melee', dmg: [[dice, s.type]], plain: [[book.dice(lvl), s.type]], spell: true, weapon: false, noRangePenalty: !!s.sustain };
+      const a = { name, toHit, melee: m.atk === 'melee', dmg: [[dice, type]], plain: [[book.dice(lvl), type]], spell: true, weapon: false, noRangePenalty: !!s.sustain };
       for (let i = 0; i < n && E.active(c); i++) {
         if (t.down || !E.present(t)) t = pick(E, c);
         if (!t) break;
@@ -323,7 +327,7 @@ export function cast(key, o = {}) {
     } else {
       const targets = m.area ? areaTargets(E, c, t, { max: m.area, spread: m.area >= 6 ? 0.3 : 0.15, size: m.area }) : [t];
       const rolled = used(choice, 'empowered') ? empoweredRoll(E, c, dice) : dice;
-      const eff = { name, save: m.save, dc, dmg: [[rolled, s.type]], half: m.half, spell: true, isArea: !!m.area };
+      const eff = { name, save: m.save, dc, dmg: [[rolled, type]], half: m.half, spell: true, isArea: !!m.area };
       // rider: a condition on those who fail the save, beside the damage (Wall of Light blinds)
       if (m.rider) eff.onFail = [{ fx: 'cond', cond: m.rider.cond, name: s.name, saveEnds: m.rider.repeat ? { ability: m.save, dc, spell: true } : undefined }];
       if (used(choice, 'heightened')) eff.disFor = (E2, x) => x === t;
@@ -331,7 +335,7 @@ export function cast(key, o = {}) {
     }
   };
   const act = {
-    kind: 'special', name: s.name, spell: true, ...slotted, ...cost, book,
+    kind: 'special', name: s.name, spell: true, ...slotted, ...cost, book, types: s.types,
     aiTarget: (E, c) => (liveFoes(E, c).some((t) => ok(E, t)) ? pick(E, c) : null),
     run(E, c, self, choice) {
       payMeta(E, c, choice);
@@ -353,7 +357,7 @@ export function cast(key, o = {}) {
   return {
     ...act, conc: s.conc, selfManaged: true, when: (E, c) => !standing(c, s),
     again: {
-      kind: 'special', name: `${s.name} (strikes again)`, spell: true, cost: s.sustain, book: { role: 'again', value: (c) => book.value(standing(c, s).lvl) },
+      kind: 'special', name: `${s.name} (${(s.later && s.later.label) || 'strikes again'})`, spell: true, cost: s.sustain, book: { role: 'again', value: (c) => book.value(standing(c, s).lvl) },
       when: (E, c) => !!standing(c, s) && liveFoes(E, c).some((t) => ok(E, t)),
       aiTarget: pick,
       run(E, c, self, choice) {

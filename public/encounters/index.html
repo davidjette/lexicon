@@ -151,6 +151,47 @@
     </form>
   </dialog>
 
-  <script type="module" src="src/ui/app.js?v=mv6d5oxw"></script>
+  <dialog id="inboxDlg" class="inbox">
+    <h3>Add to the library</h3>
+    <p class="blurb">Send a character sheet or a stat block (PDF, picture or text) or a Lexicon link. Claude reads it overnight, or sooner if Dave runs it, and the character or monster appears in the pickers here and on the battle screen.</p>
+    <form id="inboxLogin" hidden>
+      <p class="blurb">Sign in with your Lexicon editor name and password.</p>
+      <div class="grid2">
+        <label class="field"><span>Name</span><input name="name" autocomplete="username" required></label>
+        <label class="field"><span>Password</span><input name="password" type="password" autocomplete="current-password" required></label>
+      </div>
+      <div class="dlg-buttons">
+        <button type="button" class="btn ghost" data-close>Close</button>
+        <button class="btn primary">Sign in</button>
+      </div>
+    </form>
+    <form id="inboxForm" hidden>
+      <div class="grid2">
+        <label class="field"><span>What it is</span><select name="kind"><option value="character">Character</option><option value="monster">Monster or NPC</option></select></label>
+        <label class="field"><span>Who can see it</span><select name="visibility"><option value="public">Everyone</option><option value="dm">DM only</option></select></label>
+        <label class="field"><span>Name</span><input name="name" required maxlength="80"></label>
+        <label class="field"><span>Campaign</span><input name="campaign" maxlength="60" placeholder="e.g. Sharn"></label>
+      </div>
+      <label class="field"><span>Lexicon link (optional)</span><input name="link" type="url" placeholder="https://davidjette.github.io/lexicon/..."></label>
+      <label class="field"><span>Notes, or paste the stat block here</span><textarea name="notes" rows="4" maxlength="20000"></textarea></label>
+      <div id="inboxDrop" class="drop" tabindex="0">
+        <input id="inboxFiles" type="file" multiple accept=".pdf,.png,.jpg,.jpeg,.webp,.txt,.md" hidden>
+        Drop sheets here or <u>choose files</u><br><small>PDF, PNG, JPG, WebP, text. Up to 5 files.</small>
+      </div>
+      <ul id="inboxPicked" class="picked"></ul>
+      <p id="inboxMsg" class="inbox-msg"></p>
+      <div class="dlg-buttons">
+        <span class="grow muted" id="inboxWho"></span>
+        <button type="button" class="btn ghost" data-close>Close</button>
+        <button class="btn primary" id="inboxSend">Send</button>
+      </div>
+    </form>
+    <div id="inboxListBox" hidden>
+      <div class="label">Submissions</div>
+      <ul id="inboxList" class="inbox-list"></ul>
+    </div>
+  </dialog>
+
+  <script type="module" src="src/ui/app.js?v=mv9nlcei"></script>
 </body>
 </html>

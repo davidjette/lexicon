@@ -1,13 +1,14 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mv6d5oxw';
-import { AI } from '../engine/ai.js?v=mv6d5oxw';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mv6d5oxw';
-import { switchDefaults } from '../data/encounters.js?v=mv6d5oxw';
-import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mv6d5oxw';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv6d5oxw';
-import { PARTY } from '../data/pcs.js?v=mv6d5oxw';
-import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mv6d5oxw';
+import { Encounter } from '../engine/combat.js?v=mv9nlcei';
+import { AI } from '../engine/ai.js?v=mv9nlcei';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mv9nlcei';
+import { switchDefaults } from '../data/encounters.js?v=mv9nlcei';
+import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mv9nlcei';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mv9nlcei';
+import { PARTY } from '../data/pcs.js?v=mv9nlcei';
+import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mv9nlcei';
+import { openInbox, setupInbox } from './inbox.js?v=mv9nlcei';
 
 const $ = (id) => document.getElementById(id);
 
@@ -199,7 +200,8 @@ function renderAdder(side) {
     renderAll();
   } }, 'Add');
   const custom = h('button', { class: 'btn small ghost', onclick: () => { $('customForm').elements.side.value = side; $('customDlg').showModal(); } }, 'Custom');
-  box.append(search, sel, n, add, custom);
+  const toLibrary = h('button', { class: 'btn small ghost', title: 'Send a character sheet or stat block to be added to the library', onclick: () => openInbox(side === 'pc' ? 'character' : 'monster') }, 'Add to library');
+  box.append(search, sel, n, add, custom, toLibrary);
 }
 
 function editCard(r) {
@@ -672,11 +674,12 @@ function init() {
     renderAll();
   });
 
+  setupInbox();
   loadPreset(state.presetId);
   renderAll(true);
   findPack().then((found) => { dmFound = found; renderDm(); });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mv6d5oxw').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mv9nlcei').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 

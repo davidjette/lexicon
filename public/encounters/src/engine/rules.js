@@ -1,8 +1,8 @@
 // Resolution rules: attacks, saves, damage, healing, conditions, concentration, dropping and dying.
 // No browser code in here; the same file runs in the page, in the batch worker and under node.
 
-import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js?v=mv6d5oxw';
-import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, inAllyAura, areaTargets } from './zones.js?v=mv6d5oxw';
+import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js?v=mv9nlcei';
+import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, inAllyAura, areaTargets } from './zones.js?v=mv9nlcei';
 
 export const DEFAULT_RULES = {
   critRule: 'maxPlusRoll', // table rule: maximum dice plus the dice again. 'double' is the book.
@@ -139,7 +139,18 @@ export class Engine {
       if (kind !== 'turn' && kind !== 'round') e.acted = this.acted;
       this.acted = null;
     }
+    if (this.cues && this.cues.length) {
+      e.cues = this.cues;
+      this.cues = [];
+    }
     this.events.push(e);
+  }
+
+  // Something done out of turn that the battle screen should name: a reaction, an opportunity
+  // attack, a legendary or lair action. It rides on the next event logged and changes nothing.
+  cue(c, name, o = {}) {
+    if (this.quiet) return;
+    (this.cues = this.cues || []).push({ who: c.id, name, ...o });
   }
 
   // ---------- effects and conditions ----------
@@ -352,7 +363,7 @@ export class Engine {
       text += success ? ', succeeds' : ', fails';
     }
     if (why.length) text += ` [${why.join(', ')}]`;
-    this.log('save', text + '.', c, { who: c.id, ability, dc, success });
+    this.log('save', text + '.', c, { who: c.id, ability, dc, success, lr: !forced && /Legendary Resistance/.test(text) });
     return { success, total, nat: r.nat };
   }
 
@@ -406,6 +417,11 @@ export class Engine {
         if (r.when && !r.when(this, me, ctx)) continue;
         if (!r.free) me.reaction = false;
         if (r.uses) me.used[r.id] = (me.used[r.id] || 0) + 1;
+        // an aura that bites at the start of each turn is not called out every time
+        if (trigger !== 'turnStart') {
+          const other = ctx.caster || ctx.att || ctx.src || ctx.mover;
+          this.cue(me, r.name, { kind: 'reaction', spell: !!r.spell, at: other && other !== me ? other.id : null });
+        }
         r.run(this, me, ctx);
         if (ctx.stop) return;
       }
@@ -1120,7 +1136,7 @@ export class Engine {
       const ctx = { subject: c, tgt: c, caster: c, act, level, countered: false };
       this.react('spellCast', ctx);
       if (ctx.countered) {
-        this.log('info', `${c.name}'s ${act.name} is countered.`, c);
+        this.log('info', `${c.name}'s ${act.name} is countered.`, c, { countered: c.id });
         return;
       }
     }
@@ -1224,6 +1240,7 @@ export class Engine {
       const act = id && this.action(e, id);
       if (!act || !act.melee && !oa) continue;
       e.reaction = false;
+      this.cue(e, 'Opportunity Attack', { kind: 'reaction', at: c.id });
       this.log('act', `${e.name} takes an opportunity attack.`, e);
       engage(e, c);
       this.attack(e, c, act, {});

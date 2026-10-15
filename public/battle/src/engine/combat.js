@@ -1,10 +1,10 @@
 // The fight itself: initiative, rounds, turns, legendary and lair actions, reinforcements, and the
 // stepper the interface drives. The flow is a generator that pauses at every decision.
 
-import { Engine } from './rules.js?v=mv735kia';
-import { d20, rollDice, signed } from './dice.js?v=mv735kia';
-import { breakAll } from './zones.js?v=mv735kia';
-import { AI } from './ai.js?v=mv735kia';
+import { Engine } from './rules.js?v=mv9nlp8f';
+import { d20, rollDice, signed } from './dice.js?v=mv9nlp8f';
+import { breakAll } from './zones.js?v=mv9nlp8f';
+import { AI } from './ai.js?v=mv9nlp8f';
 
 export class Encounter extends Engine {
   // setup: { pcs: [{ tpl, name, near, pos }], monsters: [...], rules, seed, scenario }
@@ -342,6 +342,7 @@ export class Encounter extends Engine {
       const d = { actor: L, kind: 'legendary', choice };
       yield d;
       if (this.over || !this.active(L) || !d.choice || d.choice.pass) continue;
+      this.cue(L, 'Legendary Action', { kind: 'legendary' });
       this.log('act', `${L.name} takes a legendary action (${L.legLeft} left before this).`, L);
       const saved = L.turn;
       L.turn = { ...saved, action: true, bonus: true, legendary: true };
@@ -359,6 +360,7 @@ export class Encounter extends Engine {
       const d = { actor: c, kind: 'lair', choice };
       yield d;
       if (this.over || !d.choice || d.choice.pass) continue;
+      this.cue(c, 'Lair Action', { kind: 'lair' });
       this.log('act', `Lair action (initiative 20): ${c.name}.`, c);
       const saved = c.turn;
       c.turn = { action: true, bonus: true };

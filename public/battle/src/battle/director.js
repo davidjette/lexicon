@@ -1,8 +1,10 @@
 // Turns a run of engine events into what happens on the stage. The engine has already resolved
 // everything by the time an event exists; the director only decides how and when to show it.
-import { TYPE_COLOR } from './stage.js?v=mv735kia';
-import { sfx } from './audio.js?v=mv735kia';
+import { TYPE_COLOR } from './stage.js?v=mv9nlp8f';
+import { sfx } from './audio.js?v=mv9nlp8f';
 
+// Out-of-turn things are called out in their own colours: reactions blue, legendary gold, lair violet.
+const CUE_COLOR = { reaction: '#bfe0ff', legendary: '#ffd27a', lair: '#d9b8ff' };
 const PAUSE = { round: 0, init: 0, turn: 120, info: 420, act: 380, save: 260, cond: 220, heal: 320, move: 0, down: 350, death: 400, end: 0 };
 
 export class Director {
@@ -28,10 +30,14 @@ export class Director {
       const d = e.data;
       this.onEvent(e);
       if (e.kind === 'turn') this.said = null;
+      // reactions, legendary and lair actions: named over whoever took them, before what they do
+      for (const c of e.cues || []) await this.cue(c);
       // what the actor is doing, by name, once per run of the same action
       if (e.acted && this.unit(e.acted.who) && this.said !== `${e.acted.who}:${e.acted.name}`) {
         this.said = `${e.acted.who}:${e.acted.name}`;
-        this.unit(e.acted.who).callout(e.acted.name);
+        const lead = this.lead && this.lead.who === e.acted.who ? this.lead : null;
+        this.lead = null;
+        this.unit(e.acted.who).callout(lead ? `${lead.label}: ${e.acted.name}` : e.acted.name, lead ? CUE_COLOR[lead.kind] : undefined);
         this.auras(E);
         await st.wait(160);
       }
@@ -57,6 +63,8 @@ export class Director {
           while (events[i + 1] && events[i + 1].kind === 'dmg' && events[i + 1].data && events[i + 1].data.tgt === d.tgt) {
             dmg.push(events[++i]);
             this.onEvent(events[i]);
+            // a parry or a dodge against this blow is named before it lands
+            for (const c of events[i].cues || []) await this.cue(c);
           }
           await this.strike(d, dmg);
           break;
@@ -84,7 +92,23 @@ export class Director {
         }
         case 'save': {
           const u = d && this.unit(d.who);
-          if (u) u.popup(d.success ? 'Saved' : 'Failed', d.success ? '#b9d6a8' : '#e0a090', 17);
+          if (u && d.lr) {
+            u.popup('Legendary Resistance', CUE_COLOR.legendary, 18);
+            u.flash(0xffd27a);
+            sfx(st, 'roar');
+          } else if (u) u.popup(d.success ? 'Saved' : 'Failed', d.success ? '#b9d6a8' : '#e0a090', 17);
+          break;
+        }
+        case 'info': {
+          // a spell that was countered goes out in its caster's hands
+          const u = d && d.countered && this.unit(d.countered);
+          if (u) {
+            u.popup('Countered', CUE_COLOR.reaction, 22);
+            u.sparks('force', 0xb48cff, 10);
+            sfx(st, 'miss');
+            if (!u.fallen) u.pose('damage').then(() => u.rest());
+            await st.wait(260);
+          }
           break;
         }
         case 'heal': {
@@ -147,6 +171,47 @@ export class Director {
       await st.wait(PAUSE[e.kind] ?? 200);
     }
     await this.sync(E);
+  }
+
+  async cue(c) {
+    const st = this.stage;
+    const u = this.unit(c.who);
+    if (!u) return;
+    // what a reaction does is not named a second time under the same name
+    this.said = c.kind === 'reaction' ? `${c.who}:${c.name}` : null;
+    if (c.kind === 'legendary' || c.kind === 'lair') {
+      // the action that follows is called out under this heading
+      this.lead = { who: c.who, kind: c.kind, label: c.kind === 'lair' ? 'Lair' : 'Legendary' };
+      u.callout(c.name, CUE_COLOR[c.kind]);
+      u.flash(c.kind === 'lair' ? 0xc89bff : 0xffd27a);
+      sfx(st, 'roar');
+      await st.wait(380);
+      return;
+    }
+    const other = c.at && this.unit(c.at);
+    u.callout(c.name, CUE_COLOR.reaction);
+    u.flash(0x9fd0ff);
+    if (/counterspell/i.test(c.name) && other) {
+      // the counter flies at the caster; the save and the outcome follow as their own events
+      sfx(st, 'cast');
+      u.pose('magic').then(() => u.rest());
+      await st.wait(220);
+      await st.bolt(u, other, 0xb48cff);
+      other.flash(0xb48cff);
+      await st.wait(200);
+      return;
+    }
+    sfx(st, c.spell ? 'cast' : 'cond');
+    // a spell is cast; anything else is a braced stance held for a moment
+    if (u.fallen) await st.wait(380);
+    else if (c.spell) {
+      u.pose('magic').then(() => u.rest());
+      await st.wait(380);
+    } else {
+      u.pose('guard');
+      await st.wait(380);
+      u.rest();
+    }
   }
 
   // The colour of the first typed damage that follows event i, before the next action starts.
