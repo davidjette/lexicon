@@ -163,16 +163,16 @@ Duin recognized his unusual abilities and encouraged him to harness them in the 
 LeBeefe believed the end of the world was coming because he had seen it and made other people witness it. He also believed he was connected to the tablets that foretold it. His ambitions were simpler: to get rich, gain power, and—above all—kill Uriel.
 
 ## Last Public Appearance
-Following the events at Rekkenmark, LeBeefe travelled to Sharn with the Unforeseen, where they became involved in [City of Knives](https://davidjette.github.io/lexicon/history/city-of-knives/) and [City of Knives, Part II](https://davidjette.github.io/lexicon/lore/city-of-knives-pt-ii/), followed by the events at the [Temple of the Closed Circle](https://davidjette.github.io/lexicon/places/temple-of-the-closed-circle/).
 
-Roughly a year and a half to two years after these events, [Richard Blaze](https://davidjette.github.io/lexicon/people/richard-blaze/) and [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) married in a small, private ceremony at their lake house outside [Korth](https://davidjette.github.io/lexicon/places/korth/). [Uriel Qualanthri](https://davidjette.github.io/lexicon/people/uriel-qualanthri/) and LeBeefe attended.
+**Approximately nine years before [the Fall of Newham](https://davidjette.github.io/lexicon/history/the-fall-of-newham/)**, [Richard Blaze](https://davidjette.github.io/lexicon/people/richard-blaze/) and [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) married in a small, private ceremony at their lake house outside [Korth](https://davidjette.github.io/lexicon/places/korth/). [Uriel Qualanthri](https://davidjette.github.io/lexicon/people/uriel-qualanthri/) and LeBeefe attended.
 
 ![Esther and Richards Wedding - With Ureil and LeBeefe - Lake House.png](/images/uploads/esther-and-richards-wedding-with-ureil-a-mv8z5tfz.webp)
+
 *Esther and Richards Wedding - With Ureil and LeBeefe - Lake House*
 
-The wedding was LeBeefe's **last known public appearance outside his castle**. By the later chronology, it took place approximately eight or nine years before his death, though the exact dates have not been established.
+The wedding was LeBeefe's **last known public appearance outside his castle**. Afterward, he withdrew from public life and remained within the Black Palace in Newham, leaving few reliable accounts of his activities during the final years of his rule.
 
-Soon afterward, Esther received correspondence from [Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) stating that LeBeefe wished to meet her at his manor in [Newham](https://davidjette.github.io/lexicon/places/newham/). Esther travelled there with Richard but entered the palace alone.
+Soon afterward, [Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) contacted Esther on LeBeefe's behalf, inviting her to his manor in [Newham](https://davidjette.github.io/lexicon/places/newham/). Esther travelled there with Richard but entered the palace alone.
 
 Inside, she met three tiefling women: [Faith](https://davidjette.github.io/lexicon/people/faith/), [Blair](https://davidjette.github.io/lexicon/people/blair/), and [Eden](https://davidjette.github.io/lexicon/people/eden/). LeBeefe explained that he had used harvested sperm to father four daughters by four different mothers. Esther, Faith, Blair, and Eden shared the same biological father and were half-sisters.
 
@@ -182,7 +182,7 @@ Inside, she met three tiefling women: [Faith](https://davidjette.github.io/lexic
 
 This gathering was the last known time Esther, Faith, Blair, Eden, and Sister Nora saw LeBeefe. Sister Nora would later be transferred to Sharn, where she became head cleric of the [Sanctum of the Last Mercy](https://davidjette.github.io/lexicon/places/sanctum-of-the-last-mercy/).
 
-Greenish Hughes continued serving LeBeefe after the meeting.
+[Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) continued serving LeBeefe throughout his isolation.
 
 ## His Daughters
 
