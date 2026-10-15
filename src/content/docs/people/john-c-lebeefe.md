@@ -163,23 +163,18 @@ Duin recognized his unusual abilities and encouraged him to harness them in the 
 LeBeefe believed the end of the world was coming because he had seen it and made other people witness it. He also believed he was connected to the tablets that foretold it. His ambitions were simpler: to get rich, gain power, and—above all—kill Uriel.
 
 ## Last Public Appearance
+Following the events at Rekkenmark, LeBeefe travelled to Sharn with the Unforeseen, where they became involved in [City of Knives](https://davidjette.github.io/lexicon/history/city-of-knives/) and [City of Knives, Part II](https://davidjette.github.io/lexicon/lore/city-of-knives-pt-ii/), followed by the events at the [Temple of the Closed Circle](https://davidjette.github.io/lexicon/places/temple-of-the-closed-circle/).
 
-The Unforeseen's adventures eventually took them from Rekkenmark to Sharn. At Rekkenmark, LeBeefe fled when Locke Pierce set the location to self-destruct, marking the end of the original sequence of the group's campaign.
-
-In Sharn, the Unforeseen became involved in the events known as [City of Knives](https://davidjette.github.io/lexicon/history/city-of-knives/) and [City of Knives, Part II](https://davidjette.github.io/lexicon/lore/city-of-knives-pt-ii/), followed by the Temple of Closed Circle. The latter brought them into contact with an ulitharid known as **the Brain**, which killed Uriel and consumed her brain. Fema Nolan, who would later become Zero-One, resurrected Uriel. A diamond was embedded at the base of Uriel's skull, and an ArcEye detected it on the night [Calcifer](https://davidjette.github.io/lexicon/people/calcifer/) was born.
-
-These events did not eliminate the mind flayers. Their presence persisted in the Dhakaani depths near the Forge of Binding, accompanied by infected Cogborn thralls.
-
-Roughly a year or two after the events in Sharn, [Richard Blaze](https://davidjette.github.io/lexicon/people/richard-blaze/) and Esther Crona married in a small, private ceremony at their lake house outside [Korth](https://davidjette.github.io/lexicon/places/korth/). Uriel and LeBeefe attended.
+Roughly a year and a half to two years after these events, [Richard Blaze](https://davidjette.github.io/lexicon/people/richard-blaze/) and [Esther Crona](https://davidjette.github.io/lexicon/people/esther-crona/) married in a small, private ceremony at their lake house outside [Korth](https://davidjette.github.io/lexicon/places/korth/). [Uriel Qualanthri](https://davidjette.github.io/lexicon/people/uriel-qualanthri/) and LeBeefe attended.
 
 ![Esther and Richards Wedding - With Ureil and LeBeefe - Lake House.png](/images/uploads/esther-and-richards-wedding-with-ureil-a-mv8z5tfz.webp)
 *Esther and Richards Wedding - With Ureil and LeBeefe - Lake House*
 
-The wedding was LeBeefe's **last known public appearance**. By the later chronology, it took place perhaps eight or nine years before his death, though the exact dates have not been established.
+The wedding was LeBeefe's **last known public appearance outside his castle**. By the later chronology, it took place approximately eight or nine years before his death, though the exact dates have not been established.
 
-Soon afterward, before Calcifer was born, Esther received correspondence from [Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) stating that LeBeefe wished to meet her at his manor in Newham. Esther travelled there with Richard but entered the palace alone.
+Soon afterward, Esther received correspondence from [Greenish Hughes](https://davidjette.github.io/lexicon/people/greenish-hughes/) stating that LeBeefe wished to meet her at his manor in [Newham](https://davidjette.github.io/lexicon/places/newham/). Esther travelled there with Richard but entered the palace alone.
 
-Inside, she met three tiefling women: Faith, Blair, and Eden. LeBeefe explained that he had used harvested sperm to father four daughters by four different mothers. Esther, Faith, Blair, and Eden shared the same biological father and were half-sisters.
+Inside, she met three tiefling women: [Faith](https://davidjette.github.io/lexicon/people/faith/), [Blair](https://davidjette.github.io/lexicon/people/blair/), and [Eden](https://davidjette.github.io/lexicon/people/eden/). LeBeefe explained that he had used harvested sperm to father four daughters by four different mothers. Esther, Faith, Blair, and Eden shared the same biological father and were half-sisters.
 
 [Sister Nora](https://davidjette.github.io/lexicon/people/sister-nora/), a cleric from the Black Dove hospital, performed a ritual that confirmed their blood relationship.
 
