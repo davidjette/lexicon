@@ -202,6 +202,7 @@ export const ADDED_HEROES = [
   // Ian McTarley: his PDF sheet (Dave, 2026-10-16), a Necromancer and an archlich. Paralyzing Touch is from his
   // Fight Club GM export (the PDF lists only the quarterstaff).
   {
+    img: 'ian.webp',
     id: 'hero-ian-mctarley', name: 'Ian McTarley', campaign: 'Shrouded City', classLine: 'Half-Elf (Lich) Wizard 20 (School of Necromancy)', level: 20,
     classes: { wizard: 20 }, subclasses: { wizard: 'school of necromancy' }, prof: 6,
     abil: { str: 10, dex: 10, con: 12, int: 22, wis: 17, cha: 16 },

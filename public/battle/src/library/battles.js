@@ -1,7 +1,7 @@
 // Set-piece fights for the battle page, put together from the library (Dave, 2026-10-12). Each is
 // marked demo: true, which is what puts it on the public battle page beside the summit fight.
 
-import { register, ALL } from '../data/registry.js?v=mvac1sv3';
+import { register, ALL } from '../data/registry.js?v=mvacy1e5';
 
 // Zanzibar before his fall. No sheet of his own is in the library, so he fights from Dark
 // Zanzibar's sheet under his own name and sprite.
@@ -79,6 +79,19 @@ register({
       allies: [['hero-barrias-ruby-eye', 1], ['hero-buttsack', 1], ['hero-se7en', 1], ['hero-hyperion-tidzan-dassiya-sandy', 1]],
       monsters: [['srd-will-o-wisp', 4], ['srd-air-elemental', 1]],
       bg: 'engine-room.webp',
+    },
+    {
+      // Dave, 2026-10-16: the Shrouded City characters against Vecna, in the ossuary, to the Magus theme
+      // (the ossuary's own cue in music/cues.json).
+      ...plain,
+      id: 'battleShroudedCity',
+      name: 'The Battle of Shrouded City',
+      where: 'The ossuary beneath the Shrouded City',
+      blurb: 'Mortymer, Lucky, Rinn Silverhawk, Roscoe Rumblebottom and Ian McTarley against Vecna the Archlich.',
+      party: [],
+      allies: [['hero-mortymer', 1], ['hero-lucky', 1], ['hero-rinn-silverhawk', 1], ['hero-roscoe-rumblebottom', 1], ['hero-ian-mctarley', 1]],
+      monsters: [['vecna', 1]],
+      bg: 'ossuary.webp',
     },
   ],
 });

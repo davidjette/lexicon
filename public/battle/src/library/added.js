@@ -3,9 +3,9 @@
 // form as npcs.js. Every entry carries `campaign`, which names its picker group ("Added: <campaign>"),
 // and `sheet: { source: 'inbox/<submission folder>', date }`. DM-only blocks go in src/dm/added.js.
 
-import { melee, ranged, save, multi, cond, prone, saveOr, hold, summon, emanation, healing, parry } from '../data/lib.js?v=mvac1sv3';
-import { register } from '../data/registry.js?v=mvac1sv3';
-import { breakAll } from '../engine/zones.js?v=mvac1sv3';
+import { melee, ranged, save, multi, cond, prone, saveOr, hold, summon, emanation, healing, parry } from '../data/lib.js?v=mvacy1e5';
+import { register } from '../data/registry.js?v=mvacy1e5';
+import { breakAll } from '../engine/zones.js?v=mvacy1e5';
 
 const N = {};
 const def = (id, t) => { N[id] = { id, side: 'monster', pos: 'front', ...t }; return N[id]; };
@@ -27,7 +27,7 @@ const vecnaGate = (E, me) => {
 };
 const vecnaSpend = (E, me) => { me.memo.rx.n++; me.memo.rx.turn = E.current ? E.current.id : null; };
 def('vecna', {
-  name: 'Vecna the Archlich', campaign: 'Villains', cr: 26, type: 'undead', size: 'medium', smart: true, boss: true, pos: 'mid', init: 3,
+  name: 'Vecna the Archlich', campaign: 'Villains', cr: 26, type: 'undead', size: 'medium', smart: true, boss: true, pos: 'mid', init: 3, battler: 'vecna',
   sub: 'Undead wizard, CR 26',
   ac: 18, hp: 272, abil: A(14, 16, 18, 22, 24, 16), saves: { con: 12, int: 14, wis: 15 },
   resist: ['cold', 'lightning', 'necrotic'], immune: ['poison'],
