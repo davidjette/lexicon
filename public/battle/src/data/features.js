@@ -5,11 +5,11 @@
 // Templates are shared between fights, so nothing here keeps state in a closure: counters live on the
 // combatant (c.used, c.memo) and per-turn flags on c.turn.
 
-import { avgDice, rollDice } from '../engine/dice.js?v=mvadc21h';
-import { slotLevels, sorceryPoints, cast, SPELLS } from './spells.js?v=mvadc21h';
-import { melee as meleeAttack } from './lib.js?v=mvadc21h';
-import { isEngaged } from '../engine/zones.js?v=mvadc21h';
-import { steelDefender, drake, primalBeast, cannon, formFrom, shape, unshape } from './companions.js?v=mvadc21h';
+import { avgDice, rollDice } from '../engine/dice.js?v=mvadgbdp';
+import { slotLevels, sorceryPoints, cast, SPELLS } from './spells.js?v=mvadgbdp';
+import { melee as meleeAttack } from './lib.js?v=mvadgbdp';
+import { isEngaged } from '../engine/zones.js?v=mvadgbdp';
+import { steelDefender, drake, primalBeast, cannon, formFrom, shape, unshape } from './companions.js?v=mvadgbdp';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const friends = (E, c) => E.alliesOf(c).filter((a) => E.active(a));
@@ -1543,6 +1543,53 @@ const hiddenStep = (x) => ({
   },
   bonus: ['hiddenStep'],
 });
+// Way of Shadow (Roscoe Rumblebottom). The fight has no light levels, so the shadows these need are taken
+// to be there (Dave, 2026-10-16: hiding and striking from shadow is central to how Roscoe fights).
+// Shadow Step: teleport to a foe through the shadows, with advantage on the next melee attack.
+const shadowStep = () => ({
+  actions: {
+    shadowStep: {
+      kind: 'special', name: 'Shadow Step', cost: 'bonus', noTarget: true,
+      // used when nothing else would give a Sneak Attack: not in reach of a foe, or no friend beside any foe in reach
+      when: (E, c) => c.turn.action && !c.turn.advNext && foes(E, c).length > 0 && !E.has(c, 'invisible') && (() => {
+        const near = [...c.engaged].map((id) => E.get(id)).filter((t) => t && E.active(t));
+        return !near.length || !near.some((t) => [...t.engaged].some((id) => id !== c.id && E.get(id) && E.get(id).side === c.side && E.active(E.get(id))));
+      })(),
+      run(E, c) {
+        E.withdraw(c, { teleport: true, label: 'melts into the shadows' });
+        c.turn.teleported = true;
+        c.turn.advNext = 'Shadow Step';
+        E.log('act', `${c.name} steps out of the shadows (Shadow Step).`, c);
+      },
+    },
+  },
+  bonusFirst: ['shadowStep'],
+});
+// Cloak of Shadows: an action to vanish, unseen until he attacks; the next blow comes from hiding.
+const cloakOfShadows = () => ({
+  actions: {
+    cloakOfShadows: {
+      kind: 'special', name: 'Cloak of Shadows', noTarget: true,
+      when: (E, c) => !E.has(c, 'invisible') && c.hp < c.maxHp * 0.5 && foes(E, c).length > 0,
+      run(E, c) {
+        E.log('act', `${c.name} wraps himself in shadow and vanishes (Cloak of Shadows).`, c);
+        E.addFx(c, { cond: 'invisible', name: 'Cloak of Shadows', endsOnAttack: true }, c);
+      },
+    },
+  },
+  plan: ['cloakOfShadows'],
+});
+// Assassinate: advantage on the first turn against foes still waiting for theirs (taken as the whole first turn).
+const assassinate = () => ({
+  hooks: {
+    onTurnStart(E, c) {
+      if (E.round !== 1 || c.memo.assassinate) return null;
+      c.memo.assassinate = true;
+      E.addFx(c, { id: 'assassinate', name: 'Assassinate', advAtk: true, ends: { who: c.id, when: 'end', turns: 1 } }, c);
+      return null;
+    },
+  },
+});
 const gunner = (x) => { if (x.tpl.actions.ranged) x.tpl.actions.ranged.noRangePenalty = true; return {}; };
 
 // ---------------------------------------------------------------------------------------------
@@ -1722,6 +1769,9 @@ const BOOK = {
   'guardian armor: thunder gauntlets': armorer, 'guardian armor: thunder gauntlets (str)': armorer,
   'steps of the fey': stepsOfTheFey, 'misty step: refreshing step': stepsOfTheFey, 'misty step: taunting step': stepsOfTheFey,
   'hidden step': hiddenStep,
+  'shadow step': shadowStep,
+  'cloak of shadows': cloakOfShadows,
+  assassinate,
   gunner,
   'crossbow expert attack': crossbowExpert,
   // companions and forms

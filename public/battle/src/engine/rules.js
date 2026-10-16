@@ -1,8 +1,8 @@
 // Resolution rules: attacks, saves, damage, healing, conditions, concentration, dropping and dying.
 // No browser code in here; the same file runs in the page, in the batch worker and under node.
 
-import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js?v=mvadc21h';
-import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, inAllyAura, areaTargets } from './zones.js?v=mvadc21h';
+import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js?v=mvadgbdp';
+import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, inAllyAura, areaTargets } from './zones.js?v=mvadgbdp';
 
 export const DEFAULT_RULES = {
   critRule: 'maxPlusRoll', // table rule: maximum dice plus the dice again. 'double' is the book.

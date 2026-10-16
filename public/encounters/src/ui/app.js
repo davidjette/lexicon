@@ -1,14 +1,14 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mvad16ga';
-import { AI } from '../engine/ai.js?v=mvad16ga';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mvad16ga';
-import { switchDefaults } from '../data/encounters.js?v=mvad16ga';
-import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mvad16ga';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mvad16ga';
-import { PARTY } from '../data/pcs.js?v=mvad16ga';
-import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mvad16ga';
-import { openInbox, setupInbox } from './inbox.js?v=mvad16ga';
+import { Encounter } from '../engine/combat.js?v=mvadgcsz';
+import { AI } from '../engine/ai.js?v=mvadgcsz';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mvadgcsz';
+import { switchDefaults } from '../data/encounters.js?v=mvadgcsz';
+import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mvadgcsz';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mvadgcsz';
+import { PARTY } from '../data/pcs.js?v=mvadgcsz';
+import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mvadgcsz';
+import { openInbox, setupInbox } from './inbox.js?v=mvadgcsz';
 
 const $ = (id) => document.getElementById(id);
 
@@ -679,7 +679,7 @@ function init() {
   renderAll(true);
   findPack().then((found) => { dmFound = found; renderDm(); });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mvad16ga').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mvadgcsz').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 
