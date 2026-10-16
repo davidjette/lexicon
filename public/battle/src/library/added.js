@@ -3,9 +3,9 @@
 // form as npcs.js. Every entry carries `campaign`, which names its picker group ("Added: <campaign>"),
 // and `sheet: { source: 'inbox/<submission folder>', date }`. DM-only blocks go in src/dm/added.js.
 
-import { melee, ranged, save, multi, cond, prone, saveOr, hold, summon, emanation, healing, parry } from '../data/lib.js?v=mvab4kcp';
-import { register } from '../data/registry.js?v=mvab4kcp';
-import { breakAll } from '../engine/zones.js?v=mvab4kcp';
+import { melee, ranged, save, multi, cond, prone, saveOr, hold, summon, emanation, healing, parry } from '../data/lib.js?v=mvac1sv3';
+import { register } from '../data/registry.js?v=mvac1sv3';
+import { breakAll } from '../engine/zones.js?v=mvac1sv3';
 
 const N = {};
 const def = (id, t) => { N[id] = { id, side: 'monster', pos: 'front', ...t }; return N[id]; };

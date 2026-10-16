@@ -4,15 +4,15 @@
 // Sorcerers spend their sorcery points on the Metamagic their sheet names. Class features, feats and
 // chosen options come from the feature book (data/features.js). No hand-written tactics.
 
-import { HEROES } from './heroes-data.js?v=mvab4kcp';
-import { ADDED_HEROES } from './added-heroes.js?v=mvab4kcp';
-import { melee, ranged, save, multi } from '../data/lib.js?v=mvab4kcp';
-import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mvab4kcp';
-import { avgDice } from '../engine/dice.js?v=mvab4kcp';
-import { register } from '../data/registry.js?v=mvab4kcp';
-import { featureParts, applyParts } from '../data/features.js?v=mvab4kcp';
-import { itemParts } from '../data/items.js?v=mvab4kcp';
-import { withUpdates } from './sheet-updates.js?v=mvab4kcp';
+import { HEROES } from './heroes-data.js?v=mvac1sv3';
+import { ADDED_HEROES } from './added-heroes.js?v=mvac1sv3';
+import { melee, ranged, save, multi } from '../data/lib.js?v=mvac1sv3';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mvac1sv3';
+import { avgDice } from '../engine/dice.js?v=mvac1sv3';
+import { register } from '../data/registry.js?v=mvac1sv3';
+import { featureParts, applyParts } from '../data/features.js?v=mvac1sv3';
+import { itemParts } from '../data/items.js?v=mvac1sv3';
+import { withUpdates } from './sheet-updates.js?v=mvac1sv3';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -127,7 +127,7 @@ export function buildHero(h) {
   const frontline = routines[0] && routines[0][0] === 'meleeRoutine';
   const tpl = {
     id: h.id, name: h.campaign === 'The Unforeseen' ? `${h.name} (Original, level ${h.level})` : h.name, side: 'pc', pc: true, hero: true, type: 'humanoid', smart: true, pos: frontline ? 'front' : 'back',
-    level: h.level, sheet: h.sheet,
+    level: h.level, sheet: h.sheet, img: h.img,
     slots: h.slots || undefined, pact: h.pact || undefined, spellsNotRun: notRun, sorcery: h.sorcery, meta: h.meta,
     hasteWith: routines[0] && routines[0][0] === 'rangedRoutine' ? 'ranged' : bestMelee ? 'melee' : undefined,
     ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist, immune: h.immune, condImmune: h.condImmune, lr: h.lr,

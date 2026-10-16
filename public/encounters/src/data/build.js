@@ -1,12 +1,12 @@
 // Turns the roster the interface edits (plain data, so it can cross to the batch worker) into
 // the templates and setup the engine runs.
 
-import { DEFAULT_PARTY, switchDefaults } from './encounters.js?v=mvab4lod';
-import { ALL, PRESETS } from './registry.js?v=mvab4lod';
-import { PARTY, SPENT } from './pcs.js?v=mvab4lod';
+import { DEFAULT_PARTY, switchDefaults } from './encounters.js?v=mvac1ufw';
+import { ALL, PRESETS } from './registry.js?v=mvac1ufw';
+import { PARTY, SPENT } from './pcs.js?v=mvac1ufw';
 
 export { SPENT };
-import { melee, ranged, multi } from './lib.js?v=mvab4lod';
+import { melee, ranged, multi } from './lib.js?v=mvac1ufw';
 
 let uid = 0;
 const nextId = () => `r${++uid}`;

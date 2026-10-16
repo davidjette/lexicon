@@ -1,11 +1,11 @@
 // The Inevitables at level 13. Numbers come from their D&D Beyond sheets of 2026-10-10. How each one fights comes from the 10/2 and 10/9 session transcripts.
 // Where the two disagree the source is named in a comment and listed in README.md.
 
-import { melee, ranged, save, emanation, hasAura, harm } from './lib.js?v=mvab4lod';
-import { rollDice } from '../engine/dice.js?v=mvab4lod';
-import { engage, hasRoom, enemiesInAura, areaTargets } from '../engine/zones.js?v=mvab4lod';
-import { PC_EXT } from './registry.js?v=mvab4lod';
-import { cast } from './spells.js?v=mvab4lod';
+import { melee, ranged, save, emanation, hasAura, harm } from './lib.js?v=mvac1ufw';
+import { rollDice } from '../engine/dice.js?v=mvac1ufw';
+import { engage, hasRoom, enemiesInAura, areaTargets } from '../engine/zones.js?v=mvac1ufw';
+import { PC_EXT } from './registry.js?v=mvac1ufw';
+import { cast } from './spells.js?v=mvac1ufw';
 
 // Spells on a character's sheet that the spell book knows how to run. The scripts above never
 // reach for them (each character's brain names what it uses); they are there for a player running

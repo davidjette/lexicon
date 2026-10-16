@@ -42,6 +42,7 @@ export const ADDED_HEROES = [
 
   // Mortymer 3.0: PDF sheet. The Blade of Drowning Echoes has no damage type on the sheet (slashing assumed).
   {
+    img: 'mortymer.webp',
     id: 'hero-mortymer', name: 'Mortymer', campaign: 'Shrouded City', classLine: 'Human Sorcerer 18 (Sea Sorcery) / Rogue 2', level: 20,
     classes: { sorcerer: 18, rogue: 2 }, subclasses: { sorcerer: 'sea sorcery' }, prof: 6,
     abil: { str: 10, dex: 17, con: 14, int: 12, wis: 12, cha: 20 },
@@ -87,6 +88,7 @@ export const ADDED_HEROES = [
 
   // Lucky (Drombo Underhill): D&D Beyond character 155793509, PDF of 2026-10-15.
   {
+    img: 'lucky.webp',
     id: 'hero-lucky', name: 'Lucky', campaign: 'Shrouded City', classLine: 'Halfling Bard 18 (College of Eloquence) / Wizard 2 (School of Divination)', level: 20,
     classes: { bard: 18, wizard: 2 }, subclasses: { bard: 'college of eloquence', wizard: 'school of divination' }, prof: 6,
     abil: { str: 8, dex: 14, con: 16, int: 10, wis: 10, cha: 20 },

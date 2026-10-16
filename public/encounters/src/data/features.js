@@ -5,11 +5,11 @@
 // Templates are shared between fights, so nothing here keeps state in a closure: counters live on the
 // combatant (c.used, c.memo) and per-turn flags on c.turn.
 
-import { avgDice, rollDice } from '../engine/dice.js?v=mvab4lod';
-import { slotLevels, sorceryPoints, cast, SPELLS } from './spells.js?v=mvab4lod';
-import { melee as meleeAttack } from './lib.js?v=mvab4lod';
-import { isEngaged } from '../engine/zones.js?v=mvab4lod';
-import { steelDefender, drake, primalBeast, cannon, formFrom, shape, unshape } from './companions.js?v=mvab4lod';
+import { avgDice, rollDice } from '../engine/dice.js?v=mvac1ufw';
+import { slotLevels, sorceryPoints, cast, SPELLS } from './spells.js?v=mvac1ufw';
+import { melee as meleeAttack } from './lib.js?v=mvac1ufw';
+import { isEngaged } from '../engine/zones.js?v=mvac1ufw';
+import { steelDefender, drake, primalBeast, cannon, formFrom, shape, unshape } from './companions.js?v=mvac1ufw';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const friends = (E, c) => E.alliesOf(c).filter((a) => E.active(a));
