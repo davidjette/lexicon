@@ -1,8 +1,8 @@
 // Sprite sheets for the battle screen. A sheet is a grid with one pose per row; a pose table
 // says which row, whether it loops, and how fast it plays. Art credits: assets/battlers/CREDITS.txt.
 
-import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvad14p5';
-import { SHEETS } from './artmap.js?v=mvad14p5';
+import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvadc21h';
+import { SHEETS } from './artmap.js?v=mvadc21h';
 
 // Holder's Animated Battlers: 4 frames per pose in 160 px cells, 14 rows. The last row is the
 // artist's credit panel, not a pose. Sprites are drawn facing left. A sheet with wider frames
@@ -35,6 +35,8 @@ const HOLDER = {
 export const LAYOUTS = { holder: HOLDER };
 
 const DIR = 'assets/battlers/';
+// the publish stamp this file was loaded with (?v=...), added to image URLs so a browser never mixes old and new art
+const V = new URL(import.meta.url).search;
 
 export function preloadAllSheets(scene) {
   for (const id of Object.keys(SHEETS)) preloadSheet(scene, id);
@@ -45,7 +47,7 @@ export function preloadSheet(scene, id) {
   const L = LAYOUTS[s.layout];
   for (const file of s.layers) {
     if (!scene.textures.exists(file)) {
-      scene.load.spritesheet(file, `${DIR}${file}.png`, { frameWidth: s.cellW || L.cellW, frameHeight: L.cellH });
+      scene.load.spritesheet(file, `${DIR}${file}.png${V}`, { frameWidth: s.cellW || L.cellW, frameHeight: L.cellH });
     }
   }
 }

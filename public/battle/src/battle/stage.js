@@ -2,11 +2,13 @@
 // the right) and one Unit per combatant. A Unit is a battler plus its name, hit point bar and the
 // small effects every battler shares. The engine has no coordinates; the columns come from each
 // combatant's side and line.
-import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvad14p5';
-import { preloadAllSheets, SheetBattler } from './sprites.js?v=mvad14p5';
-import { sheetFor, sizeFactor, sheetScale } from './artmap.js?v=mvad14p5';
-import { TokenBattler } from './token.js?v=mvad14p5';
-import { preloadSfx, sfx } from './audio.js?v=mvad14p5';
+import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvadc21h';
+import { preloadAllSheets, SheetBattler } from './sprites.js?v=mvadc21h';
+import { sheetFor, sizeFactor, sheetScale } from './artmap.js?v=mvadc21h';
+import { TokenBattler } from './token.js?v=mvadc21h';
+import { preloadSfx, sfx } from './audio.js?v=mvadc21h';
+// the publish stamp this file was loaded with (?v=...), added to image URLs so a browser never mixes old and new art
+const V = new URL(import.meta.url).search;
 
 export const W = 1200;
 export const H = 675;
@@ -18,7 +20,7 @@ const BOTTOM = 612;
 // A fight names its own picture with `bg: 'file.webp'` on the preset (in assets/backgrounds/).
 export const DEFAULT_BG = 'mountain-peak.webp';
 // the pictures on offer in the page's Background list
-export { BACKGROUNDS } from './backgrounds.js?v=mvad14p5';
+export { BACKGROUNDS } from './backgrounds.js?v=mvadc21h';
 
 export const TYPE_COLOR = {
   fire: 0xff8a3c, cold: 0x9fd8ff, lightning: 0xffe45c, thunder: 0x7fe0d0, acid: 0xb6e04a, poison: 0x7ac74f,
@@ -323,7 +325,7 @@ export class Stage extends Phaser.Scene {
     };
     if (this.textures.exists(key)) return Promise.resolve(show());
     return new Promise((resolve) => {
-      this.load.image(key, `assets/backgrounds/${name}`);
+      this.load.image(key, `assets/backgrounds/${name}${V}`);
       this.load.once('complete', () => resolve(show()));
       this.load.start();
     });
@@ -363,7 +365,7 @@ export class Stage extends Phaser.Scene {
     const need = [...new Set(list.map((c) => (sheetFor(c.tpl) ? null : c.tpl.img)).filter((img) => img && !this.textures.exists(img)))];
     if (!need.length) return Promise.resolve();
     return new Promise((resolve) => {
-      for (const img of need) this.load.image(img, `assets/${img}`);
+      for (const img of need) this.load.image(img, `assets/${img}${V}`);
       this.load.once('complete', resolve);
       this.load.start();
     });

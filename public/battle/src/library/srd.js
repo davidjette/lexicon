@@ -8,11 +8,11 @@
 // SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at
 // https://creativecommons.org/licenses/by/4.0/legalcode.
 
-import { SRD } from './srd-data.js?v=mvad14p5';
-import { melee, ranged, save, multi } from '../data/lib.js?v=mvad14p5';
-import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain } from '../data/spells.js?v=mvad14p5';
-import { avgDice } from '../engine/dice.js?v=mvad14p5';
-import { register } from '../data/registry.js?v=mvad14p5';
+import { SRD } from './srd-data.js?v=mvadc21h';
+import { melee, ranged, save, multi } from '../data/lib.js?v=mvadc21h';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain } from '../data/spells.js?v=mvadc21h';
+import { avgDice } from '../engine/dice.js?v=mvadc21h';
+import { register } from '../data/registry.js?v=mvadc21h';
 
 export const SRD_ATTRIBUTION = 'Monster statistics marked SRD are from the System Reference Document 5.1 by Wizards of the Coast LLC, used under the Creative Commons Attribution 4.0 International License.';
 

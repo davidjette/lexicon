@@ -1,8 +1,11 @@
 // A battler with no sprite sheet: a framed portrait, or a monogram when there is no portrait.
 // It answers the same pose() calls as a sheet battler, with slides, shakes and flashes.
 
+// the publish stamp this file was loaded with (?v=...), added to image URLs so a browser never mixes old and new art
+const V = new URL(import.meta.url).search;
+
 export function preloadPortrait(scene, img) {
-  if (img && !scene.textures.exists(img)) scene.load.image(img, `assets/${img}`);
+  if (img && !scene.textures.exists(img)) scene.load.image(img, `assets/${img}${V}`);
 }
 
 export class TokenBattler {
