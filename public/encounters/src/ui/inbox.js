@@ -79,7 +79,7 @@ function renderPicked() {
 
 function addFiles(list) {
   for (const f of list) {
-    if (!/\.(pdf|png|jpe?g|webp|txt|md)$/i.test(f.name)) { message(`${f.name}: only PDF, PNG, JPG, WebP, text and Markdown files.`, 'error'); continue; }
+    if (!/\.(pdf|png|jpe?g|webp|txt|md|xml)$/i.test(f.name)) { message(`${f.name}: only PDF, PNG, JPG, WebP, text, Markdown and Fight Club XML files.`, 'error'); continue; }
     if (picked.length >= MAX_FILES) { message(`At most ${MAX_FILES} files.`, 'error'); break; }
     picked.push(f);
   }

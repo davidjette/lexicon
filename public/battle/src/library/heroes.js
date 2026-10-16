@@ -4,15 +4,15 @@
 // Sorcerers spend their sorcery points on the Metamagic their sheet names. Class features, feats and
 // chosen options come from the feature book (data/features.js). No hand-written tactics.
 
-import { HEROES } from './heroes-data.js?v=mv9oo28y';
-import { ADDED_HEROES } from './added-heroes.js?v=mv9oo28y';
-import { melee, ranged, save, multi } from '../data/lib.js?v=mv9oo28y';
-import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mv9oo28y';
-import { avgDice } from '../engine/dice.js?v=mv9oo28y';
-import { register } from '../data/registry.js?v=mv9oo28y';
-import { featureParts, applyParts } from '../data/features.js?v=mv9oo28y';
-import { itemParts } from '../data/items.js?v=mv9oo28y';
-import { withUpdates } from './sheet-updates.js?v=mv9oo28y';
+import { HEROES } from './heroes-data.js?v=mva9wfpj';
+import { ADDED_HEROES } from './added-heroes.js?v=mva9wfpj';
+import { melee, ranged, save, multi } from '../data/lib.js?v=mva9wfpj';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mva9wfpj';
+import { avgDice } from '../engine/dice.js?v=mva9wfpj';
+import { register } from '../data/registry.js?v=mva9wfpj';
+import { featureParts, applyParts } from '../data/features.js?v=mva9wfpj';
+import { itemParts } from '../data/items.js?v=mva9wfpj';
+import { withUpdates } from './sheet-updates.js?v=mva9wfpj';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -27,7 +27,7 @@ export function buildHero(h) {
   const cantrip = best(h.attacks.filter((a) => a.spell && a.slot === 0));
   const routines = [];
   const mk = (a, extra = {}) => (a.toHit !== null && a.toHit !== undefined
-    ? (a.melee ? melee : ranged)(a.name, a.toHit, [[a.dmg, a.type], ...(a.extra || [])], { n: a.count > 1 ? a.count : undefined, spell: a.spell || undefined, weapon: a.spell ? false : undefined, ...extra })
+    ? (a.melee ? melee : ranged)(a.name, a.toHit, [[a.dmg, a.type], ...(a.extra || [])], { n: a.count > 1 ? a.count : undefined, spell: a.spell || undefined, weapon: a.spell ? false : undefined, onHit: a.onHit, ...extra })
     : save(a.name, a.save, a.dc, [[a.dmg, a.type]], { spell: true, ...extra }));
 
   if (bestMelee) {

@@ -164,8 +164,8 @@ async function submitInbox(request, env, who) {
 	let total = 0;
 	const names = new Set();
 	const blobs = files.map((f) => {
-		const m = String(f?.filename || '').toLowerCase().replace(/[^a-z0-9.]+/g, '-').replace(/^-+/, '').match(/^(.{1,60}?)\.(pdf|png|jpe?g|webp|txt|md)$/);
-		if (!m) throw new HttpError(400, `${f?.filename || 'A file'}: only PDF, PNG, JPG, WebP, text and Markdown files are accepted.`);
+		const m = String(f?.filename || '').toLowerCase().replace(/[^a-z0-9.]+/g, '-').replace(/^-+/, '').match(/^(.{1,60}?)\.(pdf|png|jpe?g|webp|txt|md|xml)$/);
+		if (!m) throw new HttpError(400, `${f?.filename || 'A file'}: only PDF, PNG, JPG, WebP, text, Markdown and Fight Club XML files are accepted.`);
 		const bytes = Math.floor((String(f.data || '').length * 3) / 4);
 		if (!f.data || bytes > MAX_INBOX_FILE) throw new HttpError(400, `${f.filename}: files must be under 10 MB.`);
 		total += bytes;
