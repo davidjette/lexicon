@@ -5,9 +5,9 @@
 // Homebrew items are read from the text on the sheet. Where a text is open to more than one reading the
 // cautious one is taken, and the note beside the entry says so.
 
-import { rollDice } from '../engine/dice.js?v=mvaacwpz';
-import { isEngaged, areaTargets } from '../engine/zones.js?v=mvaacwpz';
-import { cast } from './spells.js?v=mvaacwpz';
+import { rollDice } from '../engine/dice.js?v=mvaaioll';
+import { isEngaged, areaTargets } from '../engine/zones.js?v=mvaaioll';
+import { cast } from './spells.js?v=mvaaioll';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const friends = (E, c) => E.alliesOf(c).filter((a) => E.active(a));

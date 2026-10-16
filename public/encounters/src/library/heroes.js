@@ -4,15 +4,15 @@
 // Sorcerers spend their sorcery points on the Metamagic their sheet names. Class features, feats and
 // chosen options come from the feature book (data/features.js). No hand-written tactics.
 
-import { HEROES } from './heroes-data.js?v=mvaacwpz';
-import { ADDED_HEROES } from './added-heroes.js?v=mvaacwpz';
-import { melee, ranged, save, multi } from '../data/lib.js?v=mvaacwpz';
-import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mvaacwpz';
-import { avgDice } from '../engine/dice.js?v=mvaacwpz';
-import { register } from '../data/registry.js?v=mvaacwpz';
-import { featureParts, applyParts } from '../data/features.js?v=mvaacwpz';
-import { itemParts } from '../data/items.js?v=mvaacwpz';
-import { withUpdates } from './sheet-updates.js?v=mvaacwpz';
+import { HEROES } from './heroes-data.js?v=mvaaioll';
+import { ADDED_HEROES } from './added-heroes.js?v=mvaaioll';
+import { melee, ranged, save, multi } from '../data/lib.js?v=mvaaioll';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mvaaioll';
+import { avgDice } from '../engine/dice.js?v=mvaaioll';
+import { register } from '../data/registry.js?v=mvaaioll';
+import { featureParts, applyParts } from '../data/features.js?v=mvaaioll';
+import { itemParts } from '../data/items.js?v=mvaaioll';
+import { withUpdates } from './sheet-updates.js?v=mvaaioll';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -130,7 +130,7 @@ export function buildHero(h) {
     level: h.level, sheet: h.sheet,
     slots: h.slots || undefined, pact: h.pact || undefined, spellsNotRun: notRun, sorcery: h.sorcery, meta: h.meta,
     hasteWith: routines[0] && routines[0][0] === 'rangedRoutine' ? 'ranged' : bestMelee ? 'melee' : undefined,
-    ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist, immune: h.immune, condImmune: h.condImmune,
+    ac: h.ac, hp: h.hp, init: h.init, abil: h.abil, saves: h.saves, resist: h.resist, immune: h.immune, condImmune: h.condImmune, lr: h.lr,
     actions, plan, bonusPlan, reactions: reactions.length ? reactions : undefined, hooks: {},
     basic: bestMelee ? 'melee' : bestRanged ? 'ranged' : 'cantrip', basicN: h.perAction, oa: bestMelee ? 'melee' : undefined,
   };
