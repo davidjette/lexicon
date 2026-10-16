@@ -1,7 +1,7 @@
 // Turns a run of engine events into what happens on the stage. The engine has already resolved
 // everything by the time an event exists; the director only decides how and when to show it.
-import { TYPE_COLOR } from './stage.js?v=mvaain72';
-import { sfx } from './audio.js?v=mvaain72';
+import { TYPE_COLOR } from './stage.js?v=mvab2y30';
+import { sfx } from './audio.js?v=mvab2y30';
 
 // Out-of-turn things are called out in their own colours: reactions blue, legendary gold, lair violet.
 const CUE_COLOR = { reaction: '#bfe0ff', legendary: '#ffd27a', lair: '#d9b8ff' };

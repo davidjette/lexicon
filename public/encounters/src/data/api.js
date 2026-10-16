@@ -1,10 +1,10 @@
 // What a DM pack file is handed. Pack files have no imports of their own, so that they can be
 // shipped encrypted and loaded from memory once unlocked.
 
-import * as lib from './lib.js?v=mvaaioll';
-import * as zones from '../engine/zones.js?v=mvaaioll';
-import { rollDice } from '../engine/dice.js?v=mvaaioll';
-import { ALL, register } from './registry.js?v=mvaaioll';
+import * as lib from './lib.js?v=mvab2zf1';
+import * as zones from '../engine/zones.js?v=mvab2zf1';
+import { rollDice } from '../engine/dice.js?v=mvab2zf1';
+import { ALL, register } from './registry.js?v=mvab2zf1';
 
 export function makeApi() {
   return { ...lib, ...zones, rollDice, ALL, M: {}, X: {}, register: (pack) => register(pack, { dm: true }) };

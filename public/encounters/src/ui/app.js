@@ -1,14 +1,14 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mvaaioll';
-import { AI } from '../engine/ai.js?v=mvaaioll';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mvaaioll';
-import { switchDefaults } from '../data/encounters.js?v=mvaaioll';
-import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mvaaioll';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mvaaioll';
-import { PARTY } from '../data/pcs.js?v=mvaaioll';
-import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mvaaioll';
-import { openInbox, setupInbox } from './inbox.js?v=mvaaioll';
+import { Encounter } from '../engine/combat.js?v=mvab2zf1';
+import { AI } from '../engine/ai.js?v=mvab2zf1';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mvab2zf1';
+import { switchDefaults } from '../data/encounters.js?v=mvab2zf1';
+import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mvab2zf1';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mvab2zf1';
+import { PARTY } from '../data/pcs.js?v=mvab2zf1';
+import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mvab2zf1';
+import { openInbox, setupInbox } from './inbox.js?v=mvab2zf1';
 
 const $ = (id) => document.getElementById(id);
 
@@ -679,7 +679,7 @@ function init() {
   renderAll(true);
   findPack().then((found) => { dmFound = found; renderDm(); });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mvaaioll').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mvab2zf1').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 
