@@ -96,11 +96,11 @@ export const SHEETS = {
   se7en: hero('se7en'),
   umwelt: own('graham-1a-axe', 'umwelt-1a', 'graham-1a-axe-above'),
   kreen: hero('kreen'),
-  // Shrouded City: the halflings are pressed short and drawn a little smaller; Rinn's crossbow became a drawn longbow
+  // Shrouded City: the halflings are pressed short and drawn a little smaller; Rinn carries a drawn longbow (no pack has a bow)
   mortymer: hero('mortymer', 'sword'),
   lucky: { ...hero('lucky', 'rapier'), scale: 0.9 },
   roscoe: { ...hero('roscoe', 'dagger'), scale: 0.9 },
-  rinn: own('rinn-1a', 'rinn-1a-bow'),
+  rinn: hero('rinn', 'bow'),
   ian: hero('ian', 'staff'),
   // Vecna the Archlich, named by his template (battler: 'vecna'), drawn larger than a person
   vecna: { ...hero('vecna', 'dagger'), scale: 1.25 },

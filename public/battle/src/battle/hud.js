@@ -1,8 +1,8 @@
 // The player's menu. On a party member's turn it lists what the engine says that character can
 // do (AI.options), then asks for a slot level and a target where the action needs one. The
 // answer is a choice object the engine's step mode already understands.
-import { AI } from '../engine/ai.js?v=mvacy1e5';
-import { sfx } from './audio.js?v=mvacy1e5';
+import { AI } from '../engine/ai.js?v=mvad14p5';
+import { sfx } from './audio.js?v=mvad14p5';
 
 const el = (tag, attrs = {}, ...kids) => {
   const n = document.createElement(tag);

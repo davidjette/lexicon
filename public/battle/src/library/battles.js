@@ -1,7 +1,7 @@
 // Set-piece fights for the battle page, put together from the library (Dave, 2026-10-12). Each is
 // marked demo: true, which is what puts it on the public battle page beside the summit fight.
 
-import { register, ALL } from '../data/registry.js?v=mvacy1e5';
+import { register, ALL } from '../data/registry.js?v=mvad14p5';
 
 // Zanzibar before his fall. No sheet of his own is in the library, so he fights from Dark
 // Zanzibar's sheet under his own name and sprite.

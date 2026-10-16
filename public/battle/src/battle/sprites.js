@@ -1,8 +1,8 @@
 // Sprite sheets for the battle screen. A sheet is a grid with one pose per row; a pose table
 // says which row, whether it loops, and how fast it plays. Art credits: assets/battlers/CREDITS.txt.
 
-import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvacy1e5';
-import { SHEETS } from './artmap.js?v=mvacy1e5';
+import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvad14p5';
+import { SHEETS } from './artmap.js?v=mvad14p5';
 
 // Holder's Animated Battlers: 4 frames per pose in 160 px cells, 14 rows. The last row is the
 // artist's credit panel, not a pose. Sprites are drawn facing left. A sheet with wider frames

@@ -2,11 +2,11 @@
 // the right) and one Unit per combatant. A Unit is a battler plus its name, hit point bar and the
 // small effects every battler shares. The engine has no coordinates; the columns come from each
 // combatant's side and line.
-import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvacy1e5';
-import { preloadAllSheets, SheetBattler } from './sprites.js?v=mvacy1e5';
-import { sheetFor, sizeFactor, sheetScale } from './artmap.js?v=mvacy1e5';
-import { TokenBattler } from './token.js?v=mvacy1e5';
-import { preloadSfx, sfx } from './audio.js?v=mvacy1e5';
+import * as Phaser from '../../vendor/phaser.esm.min.js?v=mvad14p5';
+import { preloadAllSheets, SheetBattler } from './sprites.js?v=mvad14p5';
+import { sheetFor, sizeFactor, sheetScale } from './artmap.js?v=mvad14p5';
+import { TokenBattler } from './token.js?v=mvad14p5';
+import { preloadSfx, sfx } from './audio.js?v=mvad14p5';
 
 export const W = 1200;
 export const H = 675;
@@ -18,7 +18,7 @@ const BOTTOM = 612;
 // A fight names its own picture with `bg: 'file.webp'` on the preset (in assets/backgrounds/).
 export const DEFAULT_BG = 'mountain-peak.webp';
 // the pictures on offer in the page's Background list
-export { BACKGROUNDS } from './backgrounds.js?v=mvacy1e5';
+export { BACKGROUNDS } from './backgrounds.js?v=mvad14p5';
 
 export const TYPE_COLOR = {
   fire: 0xff8a3c, cold: 0x9fd8ff, lightning: 0xffe45c, thunder: 0x7fe0d0, acid: 0xb6e04a, poison: 0x7ac74f,
