@@ -2,10 +2,10 @@
 // 2026-10-10 (copies in sources/public-blocks/). Where an image is cut off or a line cannot be run
 // as written, the block says so in a comment and README.md lists it.
 
-import { melee, ranged, save, multi, cond, prone, hold, healing, parry } from './lib.js?v=mvab2y30';
-import { rollDice } from '../engine/dice.js?v=mvab2y30';
-import { breakAll } from '../engine/zones.js?v=mvab2y30';
-import { register } from './registry.js?v=mvab2y30';
+import { melee, ranged, save, multi, cond, prone, hold, healing, parry } from './lib.js?v=mvab4kcp';
+import { rollDice } from '../engine/dice.js?v=mvab4kcp';
+import { breakAll } from '../engine/zones.js?v=mvab4kcp';
+import { register } from './registry.js?v=mvab4kcp';
 
 const S = {};
 const def = (id, t) => {

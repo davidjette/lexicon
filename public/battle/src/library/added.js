@@ -3,9 +3,9 @@
 // form as npcs.js. Every entry carries `campaign`, which names its picker group ("Added: <campaign>"),
 // and `sheet: { source: 'inbox/<submission folder>', date }`. DM-only blocks go in src/dm/added.js.
 
-import { melee, ranged, save, multi, cond, prone, saveOr, hold, summon, emanation, healing, parry } from '../data/lib.js?v=mvab2y30';
-import { register } from '../data/registry.js?v=mvab2y30';
-import { breakAll } from '../engine/zones.js?v=mvab2y30';
+import { melee, ranged, save, multi, cond, prone, saveOr, hold, summon, emanation, healing, parry } from '../data/lib.js?v=mvab4kcp';
+import { register } from '../data/registry.js?v=mvab4kcp';
+import { breakAll } from '../engine/zones.js?v=mvab4kcp';
 
 const N = {};
 const def = (id, t) => { N[id] = { id, side: 'monster', pos: 'front', ...t }; return N[id]; };
@@ -95,20 +95,6 @@ def('vecna', {
     },
   ],
   basic: 'afterthought', oa: 'afterthought',
-});
-
-// Test Mire Lurker (CR 3), a nightly-job test from the inbox form; to be removed after the test.
-def('testMireLurker', {
-  name: 'Test Mire Lurker', campaign: 'Inbox Tests', cr: 3, type: 'monstrosity', size: 'large',
-  sub: 'Large monstrosity, CR 3',
-  sheet: { source: 'inbox/2026-10-16-test-mire-lurker-mvaayura', date: '2026-10-15' },
-  ac: 14, hp: 68, abil: A(17, 12, 16, 3, 12, 5),
-  actions: {
-    bite: melee('Bite', 5, [['2d8+3', 'piercing']]),
-    tail: melee('Tail', 5, [['2d6+3', 'bludgeoning']], { onHit: [saveOr('str', 13, [prone])] }),
-    multiattack: multi(['bite', 'tail']),
-  },
-  basic: 'multiattack', oa: 'bite',
 });
 
 // ---- entries above this line ----
