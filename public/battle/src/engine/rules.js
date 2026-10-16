@@ -1,8 +1,8 @@
 // Resolution rules: attacks, saves, damage, healing, conditions, concentration, dropping and dying.
 // No browser code in here; the same file runs in the page, in the batch worker and under node.
 
-import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js?v=mva9wfpj';
-import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, inAllyAura, areaTargets } from './zones.js?v=mva9wfpj';
+import { makeRng, rollDice, d20, mod, signed, avgDice, maxDice } from './dice.js?v=mvaacv5t';
+import { engage, breakAll, isEngaged, hasRoom, cluster, enemiesInAura, inAllyAura, areaTargets } from './zones.js?v=mvaacv5t';
 
 export const DEFAULT_RULES = {
   critRule: 'maxPlusRoll', // table rule: maximum dice plus the dice again. 'double' is the book.
@@ -644,6 +644,8 @@ export class Engine {
     if (act.vs) {
       for (const v of act.vs) if (v.when(this, tgt)) add(v.dice, v.type, v.label);
     }
+    // extra damage on a natural 20, such as a Sword of Sharpness
+    if (act.on20 && ctx.nat === 20) for (const [dice, type, label] of act.on20) add(dice, type, label);
     this.lastRolled = [];
     const dealt = parts.length ? this.rollAndDamage(att, tgt, parts, { crit: ctx.crit, act, attack: true, melee }) : 0;
     ctx.dealt = dealt;

@@ -7,8 +7,8 @@
 //   Gorrelach & Gunt       Spillway Depths (Homebrewery), with the Maggot Spawn
 // Each runs the attacks and the main damage spells of its source. Utility magic is left out.
 
-import { melee, ranged, save, multi, cond, prone, hold } from '../data/lib.js?v=mva9wh65';
-import { register } from '../data/registry.js?v=mva9wh65';
+import { melee, ranged, save, multi, cond, prone, hold } from '../data/lib.js?v=mvaacwpz';
+import { register } from '../data/registry.js?v=mvaacwpz';
 
 const N = {};
 const def = (id, t) => { N[id] = { id, side: 'monster', pos: 'front', ...t }; return N[id]; };

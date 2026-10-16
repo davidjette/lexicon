@@ -64,6 +64,10 @@ export const ADDED_HEROES = [
     },
     dc: 19, spellHit: 11, spellMod: 5, slots: { 1: 4, 2: 3, 3: 3, 4: 3, 5: 3, 6: 1, 7: 1, 8: 1, 9: 1 }, pact: null,
     sorcery: 18, meta: ['quickened', 'twinned', 'heightened', 'careful'],
+    // Heart of Winter (he carries 8): Dave, 2026-10-16, "unleashes a massive power"; approximated as a burst of cold at
+    // his spell DC, twice a fight, that leaves those who fail frozen in place until the end of their next turn.
+    powers: [{ name: 'Heart of Winter', save: 'con', dc: 19, dmg: [['10d10', 'cold']], half: true, uses: 2,
+      area: { type: 'near', max: 6, spread: 0.5 }, onFail: [{ fx: 'cond', cond: 'speed0', name: 'Heart of Winter', dur: { who: 'tgt', when: 'end', turns: 1 } }] }],
     features: {
       spellcasting: {}, 'sorcerous origin': {}, 'font of magic': {}, metamagic: {},
       'sorcery points': { act: 'action', uses: 18, reset: 'long' }, 'convert sorcery points': { act: 'bonus' },
@@ -74,7 +78,7 @@ export const ADDED_HEROES = [
     },
     feats: [], options: ['quickened spell', 'twinned spell', 'heightened spell', 'careful spell'],
     items: [
-      { name: 'blade of drowning echoes', kind: 'weapon' }, { name: 'cloak of the manta ray', kind: 'wondrous item' },
+      { name: 'blade of drowning echoes', kind: 'weapon' }, { name: 'heart of winter', kind: 'wondrous item' }, { name: 'cloak of the manta ray', kind: 'wondrous item' },
       { name: 'ring of protection', kind: 'ring', attuned: true }, { name: 'leather', kind: 'armor' },
     ],
     potions: { 'potion of healing (superior)': 1 }, rogue: 2, barbarian: 0, fighter: 0, monk: 0, paladin: 0,
@@ -134,11 +138,11 @@ export const ADDED_HEROES = [
     abil: { str: 10, dex: 20, con: 15, int: 13, wis: 17, cha: 8 },
     ac: 22, init: 5, hp: 161,
     saves: { str: 9, dex: 14, con: 11, int: 1, wis: 3, cha: -1 },
-    resist: [], perAction: 2,
+    resist: [], perAction: 2, archer: true,
     attacks: [
       { name: "Dragon's Wrath (longbow)", toHit: 13, save: null, dc: null, dmg: '1d8+7', type: 'piercing', melee: false, spell: false, slot: 0, count: 1, props: ['two-handed', 'heavy'], conc: false, martialArts: false },
       { name: 'Longsword, +1', toHit: 12, save: null, dc: null, dmg: '1d8+6', type: 'slashing', melee: true, spell: false, slot: 0, count: 1, props: ['versatile'], conc: false, martialArts: false },
-      { name: 'Longsword of Sharpness', toHit: 11, save: null, dc: null, dmg: '1d8+5', type: 'slashing', melee: true, spell: false, slot: 0, count: 1, props: ['versatile'], conc: false, martialArts: false },
+      { name: 'Longsword of Sharpness', toHit: 11, save: null, dc: null, dmg: '1d8+5', type: 'slashing', on20: [['4d6', 'slashing', 'Sharpness']], melee: true, spell: false, slot: 0, count: 1, props: ['versatile'], conc: false, martialArts: false },
       { name: 'Shortsword', toHit: 11, save: null, dc: null, dmg: '1d6+5', type: 'piercing', melee: true, spell: false, slot: 0, count: 1, props: ['finesse', 'light'], conc: false, martialArts: false },
       { name: 'Dagger', toHit: 11, save: null, dc: null, dmg: '1d4+5', type: 'piercing', melee: true, spell: false, slot: 0, count: 1, props: ['finesse', 'light', 'thrown'], conc: false, martialArts: false },
       { name: 'Longbow', toHit: 11, save: null, dc: null, dmg: '1d8+5', type: 'piercing', melee: false, spell: false, slot: 0, count: 1, props: ['two-handed', 'heavy'], conc: false, martialArts: false },

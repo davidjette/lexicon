@@ -4,15 +4,15 @@
 // Sorcerers spend their sorcery points on the Metamagic their sheet names. Class features, feats and
 // chosen options come from the feature book (data/features.js). No hand-written tactics.
 
-import { HEROES } from './heroes-data.js?v=mva9wfpj';
-import { ADDED_HEROES } from './added-heroes.js?v=mva9wfpj';
-import { melee, ranged, save, multi } from '../data/lib.js?v=mva9wfpj';
-import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mva9wfpj';
-import { avgDice } from '../engine/dice.js?v=mva9wfpj';
-import { register } from '../data/registry.js?v=mva9wfpj';
-import { featureParts, applyParts } from '../data/features.js?v=mva9wfpj';
-import { itemParts } from '../data/items.js?v=mva9wfpj';
-import { withUpdates } from './sheet-updates.js?v=mva9wfpj';
+import { HEROES } from './heroes-data.js?v=mvaacv5t';
+import { ADDED_HEROES } from './added-heroes.js?v=mvaacv5t';
+import { melee, ranged, save, multi } from '../data/lib.js?v=mvaacv5t';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mvaacv5t';
+import { avgDice } from '../engine/dice.js?v=mvaacv5t';
+import { register } from '../data/registry.js?v=mvaacv5t';
+import { featureParts, applyParts } from '../data/features.js?v=mvaacv5t';
+import { itemParts } from '../data/items.js?v=mvaacv5t';
+import { withUpdates } from './sheet-updates.js?v=mvaacv5t';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
@@ -27,7 +27,7 @@ export function buildHero(h) {
   const cantrip = best(h.attacks.filter((a) => a.spell && a.slot === 0));
   const routines = [];
   const mk = (a, extra = {}) => (a.toHit !== null && a.toHit !== undefined
-    ? (a.melee ? melee : ranged)(a.name, a.toHit, [[a.dmg, a.type], ...(a.extra || [])], { n: a.count > 1 ? a.count : undefined, spell: a.spell || undefined, weapon: a.spell ? false : undefined, onHit: a.onHit, ...extra })
+    ? (a.melee ? melee : ranged)(a.name, a.toHit, [[a.dmg, a.type], ...(a.extra || [])], { n: a.count > 1 ? a.count : undefined, spell: a.spell || undefined, weapon: a.spell ? false : undefined, onHit: a.onHit, on20: a.on20, ...extra })
     : save(a.name, a.save, a.dc, [[a.dmg, a.type]], { spell: true, ...extra }));
 
   if (bestMelee) {
@@ -93,9 +93,16 @@ export function buildHero(h) {
       if (worth(a) > atWill) plan.push({ use: id });
     });
   }
+  // powers from items or boons on the sheet (Mortymer's Heart of Winter): an area save at the sheet's numbers, a few uses a fight
+  (h.powers || []).forEach((p, i) => {
+    const id = `power${i}`;
+    actions[id] = save(p.name, p.save, p.dc, p.dmg, { half: p.half, area: p.area, uses: p.uses, onFail: p.onFail });
+    plan.splice(2, 0, { use: id });
+  });
   // in melee, a character with a real weapon uses it, and does not shoot at disadvantage
   const meleeWorth = (routines.find((r) => r[0] === 'meleeRoutine') || [0, 0])[1];
-  if (meleeWorth && routines[0][0] !== 'meleeRoutine' && meleeWorth >= 0.6 * routines[0][1]) {
+  // (an archer, such as Rinn Silverhawk, keeps shooting: `archer: true` on the record)
+  if (meleeWorth && !h.archer && routines[0][0] !== 'meleeRoutine' && meleeWorth >= 0.6 * routines[0][1]) {
     plan.push({ use: 'meleeRoutine', if: (E, c) => [...c.engaged].some((x) => E.active(E.get(x))) });
   }
   for (const [id] of routines) plan.push(id);
