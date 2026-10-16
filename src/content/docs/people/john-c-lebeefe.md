@@ -245,34 +245,74 @@ The currency, titles, and institutions he had created survived in records and st
 
 ## What Still Listens
 
-LeBeefe's death did not end the appearances of his voice. His songs and speech have continued to surface in distant places, including locations he never visited.
+LeBeefe's death did not end his influence. During the battle in Newham, as the resistance fought him in his true form, LeBeefe attempted to extract Eric the Cleric's brain. Whatever happened between them during that encounter may have left something behind in Eric. In the years following LeBeefe's death, Eric would experience visions, hear a familiar song, and encounter signs that his connection to the dead sorcerer had not ended with the fall of Newham.
 
-A **LeBeefe Eye** sat on the mantelpiece of Esther Crona's penthouse in Sharn. When Eric the Cleric found it, he felt it pulling at him but refused to pick it up. The eye remained intact and seemed to be watching.
+### The First Signs Beneath Sharn
 
-![Korth Ep 12 — The Price of Bread - Jessica Grimpledink with the Eye of Corruption, with Gemma, Eric and Dario.png](/images/uploads/korth-ep-12-the-price-of-bread-jessica-g-mv8zf728.webp)
-*Jessica Grimpledink with the Eye of Corruption, with Gemma, Eric and Dario*
+Approximately a year after LeBeefe's death, Eric, [Gemma Corso](https://davidjette.github.io/lexicon/people/gemma-corso/), and [Sir Dario Argentino](https://davidjette.github.io/lexicon/people/sir-dario-argentino/) explored the ancient Dhakaani tunnels beneath Sharn, near the [Temple of the Closed Circle](https://davidjette.github.io/lexicon/places/temple-of-the-closed-circle/). LeBeefe himself had visited these depths years earlier and encountered things hidden beneath the city.
 
-Eric later heard LeBeefe's voice and songs at the Forge of Binding beneath Sharn, including a tune he recognized from the Black Palace. Someone who had spent time near LeBeefe also appeared to retain a residue that reduced psychic damage by half.
+![Sharn Ep 14 — The Memory in the Sky - Eric and a vison of LeBeefe's eye of Corruption.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-mvbgntgi.webp)
+*Eric and a vison of LeBeefe's eye of Corruption*
+
+On the approach to the [Forge of Binding](https://davidjette.github.io/lexicon/places/the-forge-of-binding/), the group encountered a mind flayer and its infected Cogborn thralls. Eric discovered that he could open a strange, membrane-like door leading into the next chamber. When he stepped through, he experienced flashes of LeBeefe and heard the faint echo of a familiar song he had first heard inside LeBeefe's castle in Newham. His companions perceived none of it. Eric alone saw and heard these things.
+
+The encounter revealed several unexplained changes in Eric. He could open illithid doors, and he appeared to have gained resistance to psychic damage. Whether these changes resulted directly from LeBeefe's attempt to consume his brain, from the encounter beneath Sharn, or from something else remained unknown.
+
+![Sharn Ep 14 — The Memory in the Sky - Eric and vision of John C. LeBeefe.png](/images/uploads/sharn-ep-14-the-memory-in-the-sky-eric-a-mvbgoz24.webp)
+*Eric and vision of John C. LeBeefe*
+
+### The Eye in Esther's Penthouse
+
+During **Sharn Ep 18 — The Fall of Esther Crona**, Eric first entered Esther's penthouse and noticed a smaller version of the enormous LeBeefe Eye that had once hung over his palace in Newham. It sat on the mantelpiece of Esther's fireplace.
+
+The eye seemed to want Eric to pick it up. He refused.
+
+Esther revealed that the object had been a wedding gift from her father, John C. LeBeefe, and that he had appeared to her in dreams, showing her things and warning her of what was to come. She spoke to the three visitors; Eric, Gemma and Dario:
+
+> “I've been expecting you three.I dreamed of my father's death. He showed me the faces of the ones who took his life. Your faces.He told me you would come for me next.”
+
+The eye connected LeBeefe's lingering presence to Esther's own dreams and to the people responsible for his death. Its apparent desire to be handled by Eric suggested a particular interest in him, though its purpose remained unclear.
+
+### Three Years of Silence
+
+After Esther's death, Eric lived in her penthouse for three years, with the LeBeefe Eye still resting on the mantelpiece. During that time, he continued to experience things he never told anyone about: the voice, the visions, and the sense that something connected to LeBeefe remained near him.
+
+Eric kept these experiences private. No one around him knew the extent of what he was hearing or seeing.
+
+### The Bells and the Deep Workings
 
 In the deep workings beneath the Mror Holds, the party found a dead Imperial courier carrying a note in LeBeefe's hand:
 
 > “Observe the deep workings and report what listens back.”
 
-The courier's satchel had been partly consumed by a fungal bloom that grew from a shattered terrarium in his kit. The bloom delivered a warning:
+The courier's satchel had been partly consumed by a fungal bloom growing from a shattered terrarium in his kit. The bloom delivered a warning:
 
 *Ring it here. When HE is born, it will be too late.*
+
+![Korth Ep 11 — The Domain of Valtrex - Dario, Gemma restrainging Eric from Ringing the Bell.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-dario-mv8zdwcl.webp)
+*Dario and Gemma restraining Eric from ringing the bell*
+
+### The Voice in Glitterhame
+
+By this point, Eric had begun hearing LeBeefe's voice again. In Glitterhame, he experienced a dream in which the familiar presence bent over a small duergar boy. The voice urged him to ring a bell. The boy was never seen again.
+
+The command became increasingly difficult to distinguish from a warning, an instruction, or an attempt to manipulate Eric. LeBeefe's voice was no longer merely a memory of the dead sorcerer. It was actively directing Eric toward something.
 
 ![Korth Ep 9 — The Death Warrant and the Ringer - Eric's dream of Egg Role speaking with the Voice in Glitterhame.png](/images/uploads/korth-ep-9-the-death-warrant-and-the-rin-mv8zbu9v.webp)
 *Eric's dream of Egg Role speaking with the Voice in Glitterhame*
 
-LeBeefe's voice has since urged Eric to ring bells. It also pushed Sedda Deeptempura to ring one, and she did. In a dream in the Glitterhame, Eric encountered the same voice bent over a small duergar boy. The boy has not been seen since.
+The voice continued urging Eric to ring bells. It also persuaded [Sedda Deeptempura](https://davidjette.github.io/lexicon/people/sedda-deeptempura/) to ring one, and she did. Eric himself was eventually driven toward ringing a bell, and Gemma and Dario had to restrain him.
 
-The voice has also appeared to the Chancellor of Sharn, urging him to ring a bell that would raise the dead of Khorvaire. In a dream three years after LeBeefe's death, Eric heard him say:
+The voice also appeared to the Chancellor of Sharn, urging him to ring a bell that would raise the dead of Khorvaire. In a dream three years after LeBeefe's death, Eric heard it say:
 
 > “Good idea to ring that bell.”
 
-![Korth Ep 11 — The Domain of Valtrex - Dario, Gemma restrainging Eric from Ringing the Bell.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-dario-mv8zdwcl.webp)
-*Dario and Gemma restraining Eric from ringing the bell*
+### The Eye Is Taken for Study
+
+When the group returned to Sharn during **Korth Ep 12 — The Price of Bread**, Gemma told Jessica about Eric's experiences, her concerns about the LeBeefe Eye on Esther's mantel, and its possible connection to the voice. Jessica took the eye for study. Her examination suggested it was composed of both **black Khyber—Shavarath** and red Khyber, raising the possibility that it had been created as a weapon.
+
+![Korth Ep 12 — The Price of Bread - Jessica Grimpledink with the Eye of Corruption, with Gemma, Eric and Dario.png](/images/uploads/korth-ep-12-the-price-of-bread-jessica-g-mv8zf728.webp)
+*Jessica Grimpledink with the Eye of Corruption, with Gemma, Eric and Dario*
 
 Whether LeBeefe survived in some form, left behind an echo of his consciousness, or is being imitated by something in the deep workings remains unresolved. His voice is real enough to influence events, but its source is unknown.
 
