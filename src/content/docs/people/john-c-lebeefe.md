@@ -289,19 +289,19 @@ The courier's satchel had been partly consumed by a fungal bloom growing from a 
 
 *Ring it here. When HE is born, it will be too late.*
 
-![Korth Ep 11 — The Domain of Valtrex - Dario, Gemma restrainging Eric from Ringing the Bell.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-dario-mv8zdwcl.webp)
-*Dario and Gemma restraining Eric from ringing the bell*
-
 ### The Voice in Glitterhame
 
-By this point, Eric had begun hearing LeBeefe's voice again. In Glitterhame, he experienced a dream in which the familiar presence bent over a small duergar boy. The voice urged him to ring a bell. The boy was never seen again.
+By this point, Eric had begun hearing LeBeefe's voice again. In Glitterhame, he experienced a dream in which the familiar presence bent over a small duergar boy. The voice urged him to ring a bell. 
 
 The command became increasingly difficult to distinguish from a warning, an instruction, or an attempt to manipulate Eric. LeBeefe's voice was no longer merely a memory of the dead sorcerer. It was actively directing Eric toward something.
 
 ![Korth Ep 9 — The Death Warrant and the Ringer - Eric's dream of Egg Role speaking with the Voice in Glitterhame.png](/images/uploads/korth-ep-9-the-death-warrant-and-the-rin-mv8zbu9v.webp)
 *Eric's dream of Egg Role speaking with the Voice in Glitterhame*
 
-The voice continued urging Eric to ring bells. It also persuaded [Sedda Deeptempura](https://davidjette.github.io/lexicon/people/sedda-deeptempura/) to ring one, and she did. Eric himself was eventually driven toward ringing a bell, and Gemma and Dario had to restrain him.
+The voice continued urging Eric to ring bells. It also at one time persuaded [Sedda Deeptempura](https://davidjette.github.io/lexicon/people/sedda-deeptempura/) to ring one, and she did. Eric himself was eventually driven toward ringing a bell, and Gemma and Dario had to restrain him.
+
+![Korth Ep 11 — The Domain of Valtrex - Dario, Gemma restrainging Eric from Ringing the Bell.png](/images/uploads/korth-ep-11-the-domain-of-valtrex-dario-mv8zdwcl.webp)
+*Dario and Gemma restraining Eric from ringing the bell*
 
 The voice also appeared to the Chancellor of Sharn, urging him to ring a bell that would raise the dead of Khorvaire. In a dream three years after LeBeefe's death, Eric heard it say:
 
