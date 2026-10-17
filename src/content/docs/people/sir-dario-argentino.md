@@ -73,6 +73,9 @@ image:
   src: /images/site/sir-dario-argentino-1.webp
   alt: Sir Dario Argentino
 gallery:
+- src: /images/album/korth-ep-18-the-pilgrims-camp-dario-speaks.webp
+  alt: 'Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One - Korth Ep 18, The Pilgrims Camp'
+  caption: 'Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One - Korth Ep 18, The Pilgrims Camp'
 - src: /images/album/the-party-watching-stockton-thar.webp
   alt: Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguise
   caption: 'Gemma Corso (Disguised as Deirdre Moro), Eric the Cleric (Disguised as Graham Cracker) and Sir Dario Argentino (Disguised as guard Sky Rizzy) They are watching General Stockton Thar and Rotunda Goose in conversation - Aboard a river boat barge from the Imperial capital Korth and bound for the Summer Palace - Korth Episode: The Listening Post'

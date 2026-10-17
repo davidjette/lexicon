@@ -78,6 +78,12 @@ wa:
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-roberts-and-gemma.webp
+    alt: 'Joseph Roberts kisses Gemma goodbye as his men carry the Lodge''s chests out, with Eric by the table - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Joseph Roberts kisses Gemma goodbye as his men carry the Lodge''s chests out, with Eric by the table - Korth Ep 18, The Pilgrims Camp'
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-kitsune.webp
+    alt: 'Gemma and Kitsune on Sunday morning at the Grand Lodge, with Eric in the bath - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Gemma and Kitsune on Sunday morning at the Grand Lodge, with Eric in the bath - Korth Ep 18, The Pilgrims Camp'
   - src: /images/album/korth-ep-17-the-red-bird-gemma-and-the-wolves.webp
     alt: 'Gemma among the wolves - Korth Ep 17, The Red Bird'
     caption: 'Gemma among the wolves - Korth Ep 17, The Red Bird'

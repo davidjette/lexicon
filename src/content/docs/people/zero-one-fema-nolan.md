@@ -46,6 +46,12 @@ wa:
   slug: zero-one-28fema-nolan29-person
   category: e17ea579-a469-4a08-90db-a8a85bc33534
 gallery:
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-zero-one.webp
+    alt: 'Gemma holds Zero-One''s hand at the pilgrim camp while Dario dresses her wounds and Eric looks on - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Gemma holds Zero-One''s hand at the pilgrim camp while Dario dresses her wounds and Eric looks on - Korth Ep 18, The Pilgrims Camp'
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-dario-speaks.webp
+    alt: 'Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One - Korth Ep 18, The Pilgrims Camp'
   - src: /images/album/korth-ep-16-orientation-day-the-rite.webp
     alt: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'
     caption: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'

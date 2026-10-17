@@ -22,6 +22,8 @@ tags:
   - Pork Broccoli
   - Bimples
   - circle of power
+image:
+  src: /images/album/korth-ep-18-the-pilgrims-camp-dario-speaks.webp
 sidebar:
   order: 318
 type: report
@@ -56,7 +58,13 @@ At the Lodge, **Bimples** told Deirdre the library was for members only, but tha
 
 Gemma changed her look under the *seeming* with her mask of many faces, shrinking Deirdre's ears and making her hair long, black and curly. The two of them walked in hunting clothes past members singing an old song and into a very old library, where the great volumes of members and classes were the Lodge's own records. Gemma found the tracks of a sliding bookcase, and Eric knocked on it. A book was drawn into the shelf, and an eye looked out from where it had been. *"I'm here to return your book."* She held up the seal, and the shelf slid aside onto a door.
 
+![Deirdre and Graham at the sliding bookcase in the Grand Lodge's library, with Joseph Roberts behind it](/images/album/korth-ep-18-the-pilgrims-camp-the-bookcase.webp)
+*Deirdre and Graham at the sliding bookcase in the Grand Lodge's library, with Joseph Roberts behind it.*
+
 Three swashbucklers drew on them. *"We don't know who you killed or arrested to get that. But we think you should return it and leave this members-only area, Advocate Moro."* They brought the two in, offered to negotiate for the release of whoever she had taken the book from, told her that her presence had drawn a lot of attention, and blindfolded them with black silk strips from the card table.
+
+![Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers](/images/album/korth-ep-18-the-pilgrims-camp-blindfolded.webp)
+*Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers.*
 
 A woman's heels approached. *"I noticed you went out with Master Hunter Fora. Where is he?"* Dollar had been a member for eighty years. Gemma told her that he had helped them hunt a giant bird that turned into [General Thar](/people/general-stockton-thar/), that he had left, and that there had been gunfire where he went. The room laughed. The woman was **the Fieldmaster**, and the club was hers. *"It's because death is coming. Do you understand what's happening here?"* Neither side would name the person they were talking about. After a Persuasion of 13, Gemma dropped the *seeming* on both of them. *"Do you morons not know who we are? We're fucking rebels."*
 
@@ -74,9 +82,15 @@ He told the Fieldmaster to take up their buyer that morning, because he was sell
 
 A psychic he trusts had warned him off the valley. He would leave a good ship and good men behind, and she could call them through her stone. He warned her about the messages. The polyhedron floating over the cathedral is a new device, smaller ones went up outside some powerful headquarters before it, and since then messages have gone missing or arrived changed and people have been arrested and followed. The Lazaret is also sealed with *private sanctum*. His men carried gold, jewels and papers out through a back door. Gemma told him that one day he would hear the Emperor and his wife had been assassinated, and that it would be them. He kissed her and left with a book, and the Fieldmaster followed with a volume of ledgers. *"Who's trying to buy this place?" "Maybe I'll tell you someday."* They left the cat behind, and Gemma opened a window for it.
 
+![Joseph Roberts kisses Gemma goodbye as his men carry the Lodge's chests out, with Eric by the table](/images/album/korth-ep-18-the-pilgrims-camp-roberts-and-gemma.webp)
+*Joseph Roberts kisses Gemma goodbye as his men carry the Lodge's chests out, with Eric by the table.*
+
 ### Sunday morning
 
 They woke at about eleven on a rainy Sunday. In the bathroom mirror Gemma called Kitsune and asked whether, if she brought him the child and later had one of her own, what passed from her father to her would pass on again. *"I solemnly swear that if you bring me the child unharmed, I will consider your obligation complete. You may keep everything I've given to you, and I will go on my way."* He did not answer when she asked what would happen if she died. Of Dario he said: *"He has found help. You should go to him. But be careful. Don't be followed."*
+
+![Gemma and Kitsune on Sunday morning at the Grand Lodge, with Eric in the bath](/images/album/korth-ep-18-the-pilgrims-camp-kitsune.webp)
+*Gemma and Kitsune on Sunday morning at the Grand Lodge, with Eric in the bath.*
 
 Eric cast *divination* to Matt Matheny and asked how to kill the Emperor. He worked a numerical sequence through in Elvish and Draconic, and the Elvish came out as:
 
@@ -94,9 +108,15 @@ The camp held sixty or eighty pilgrims of many faiths, with no Doves among them,
 
 Dario stood on a stump and asked for everyone who could carry a sword or play a harp or a horn. *"It is a dark day. The sky is gray. And it will be a long night. But that means all the brighter dawn."* He pointed at Gemma's sword, [the Bright Dawn](/items/the-bright-dawn-crimson-sun-unbound/). The musicians crowded round Gemma, who played them the fanfare perfectly, and the Matt Matheny followers and the Plaza Band pledged their help.
 
+![Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One](/images/album/korth-ep-18-the-pilgrims-camp-dario-speaks.webp)
+*Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One.*
+
 ### Zero-One
 
 Zero-One woke and asked first after [Izaak](/people/izaak/), who was alive in Sharn with [Bantide](/people/bantide-moro/), and wept for Zilspar. Then she asked where [Richard](/people/richard-blaze/) was. The attack on [Zilspar Farm](/history/the-destruction-of-zilspar-farm/) had tripped none of the alarms, which only someone who knew how to switch them off could have managed: *"I looked up and every building was full of Eden units just shooting. It was carnage."* Only Dario, Gemma, [Jessica](/people/jessica-grimpledink/), Richard, Eric and [Lorian](/people/lorian/) had known where the boy was.
+
+![Gemma holds Zero-One's hand at the pilgrim camp while Dario dresses her wounds and Eric looks on](/images/album/korth-ep-18-the-pilgrims-camp-zero-one.webp)
+*Gemma holds Zero-One's hand at the pilgrim camp while Dario dresses her wounds and Eric looks on.*
 
 She believed that was why she had been made to raise [Esther](/people/esther-crona/). Uriel thinks Esther knows where [Calcifer](/people/calcifer/) is, and nobody could get closer to him than his mother, but Esther could not have done it with her own heart, so they had Zero-One take it out. Of Uriel she said: *"Uriel's brain was missing when I first met her all those years ago, and I replaced it with a gem, which had raised her from the dead by the light of the Flame. Why this was the will of the Flame I will never understand. And I shudder to think that I'm the one that gave her the mind that led to everything we see."* The sisters dominated her through Esther's rite and spared her hands because they needed them. She removed the heart and could not finish, and the heart is still somewhere. It felt to her like practice for someone else.
 

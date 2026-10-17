@@ -42,6 +42,12 @@ wa:
   slug: the-grand-lodge-location
   category: 3f47a039-e9f9-46c8-817e-edbc3b10a455
 gallery:
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-the-bookcase.webp
+    alt: 'Deirdre and Graham at the sliding bookcase in the Grand Lodge''s library, with Joseph Roberts behind it - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Deirdre and Graham at the sliding bookcase in the Grand Lodge''s library, with Joseph Roberts behind it - Korth Ep 18, The Pilgrims Camp'
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-blindfolded.webp
+    alt: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'
   - src: /images/album/korth-ep-17-the-red-bird-the-hunters-salon.webp
     alt: 'Deirdre and Graham meet Fora Dollar in the Hunters'' Salon - Korth Ep 17, The Red Bird'
     caption: 'Deirdre and Graham meet Fora Dollar in the Hunters'' Salon - Korth Ep 17, The Red Bird'

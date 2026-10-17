@@ -48,6 +48,9 @@ sources:
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
 published: '2026-09-14'
 gallery:
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-kitsune.webp
+    alt: 'Gemma and Kitsune on Sunday morning at the Grand Lodge, with Eric in the bath - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Gemma and Kitsune on Sunday morning at the Grand Lodge, with Eric in the bath - Korth Ep 18, The Pilgrims Camp'
   - src: /images/album/korth-ep-16-orientation-day-kitsune-in-the-bath.webp
     alt: 'Kitsune joins Gemma in the bath at the Grand Lodge - Korth Ep 16, Orientation Day'
     caption: 'Kitsune joins Gemma in the bath at the Grand Lodge - Korth Ep 16, Orientation Day'

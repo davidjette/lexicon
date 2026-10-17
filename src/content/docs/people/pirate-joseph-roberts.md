@@ -50,6 +50,16 @@ wa:
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
+gallery:
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-roberts-and-gemma.webp
+    alt: 'Joseph Roberts kisses Gemma goodbye as his men carry the Lodge''s chests out, with Eric by the table - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Joseph Roberts kisses Gemma goodbye as his men carry the Lodge''s chests out, with Eric by the table - Korth Ep 18, The Pilgrims Camp'
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-blindfolded.webp
+    alt: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'
+  - src: /images/album/korth-ep-18-the-pilgrims-camp-the-bookcase.webp
+    alt: 'Deirdre and Graham at the sliding bookcase in the Grand Lodge''s library, with Joseph Roberts behind it - Korth Ep 18, The Pilgrims Camp'
+    caption: 'Deirdre and Graham at the sliding bookcase in the Grand Lodge''s library, with Joseph Roberts behind it - Korth Ep 18, The Pilgrims Camp'
 ---
 
 **Pirate · Fleet commander · The Collector · Alive, and wanted**

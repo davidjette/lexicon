@@ -75,6 +75,9 @@ wa:
   uuid: 6f75a33c-5725-431e-9af8-a920ee57ecfe
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+- src: /images/album/korth-ep-18-the-pilgrims-camp-blindfolded.webp
+  alt: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'
+  caption: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'
 - src: /images/album/korth-ep-17-the-red-bird-eric-and-the-wolves.webp
   alt: 'Eric among the wolves - Korth Ep 17, The Red Bird'
   caption: 'Eric among the wolves - Korth Ep 17, The Red Bird'
