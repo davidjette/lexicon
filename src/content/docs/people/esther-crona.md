@@ -578,6 +578,8 @@ And she is back because **it wants her back**.
 ![Korth Ep 16 — Orientation Day - Gemma disguised as Black Doves - Under The Ivory Lazaret - Operating theater - Zero-One, Risen Esther Crona.png](/images/uploads/korth-ep-16-orientation-day-gemma-disgui-muyofgkj.webp)
 *Gemma disguised as a Black Dove in battle with a risen Esther Crona*
 
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One told the party that the rite that raised Esther removed her heart, and that the heart is somewhere in the hospital. She believes Uriel wants Esther to find her son Calcifer, because nobody could get closer to him than his mother, and that Esther could not have been used for it with her own heart. <small>(Korth Ep 18)</small>
+
 ## Organizations / Groups:
 
 [The Crimson Sun](/organizations/the-crimson-sun/) · [The Unforeseen](/organizations/the-unforeseen/) · [The Iron Veil](/organizations/the-iron-veil/) · [Project E.D.E.N.](/organizations/project-e-d-e-n/)

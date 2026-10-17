@@ -195,6 +195,10 @@ He has destroyed the **Thirteenth Casting**, every small casting in the Bladewor
 
 At the Counting House, wearing Gemma's *seeming* as the bodyguard Sky Rizzy, he followed a load of sealed hazardous-materials containers outside after a man in a swashbuckler's coat paid for them; they went by carriage straight to the [Grand Lodge](/places/the-grand-lodge/) and around the back. Later that day, disguised as a winged aasimar Black Dove sister, he climbed the Stairs of Her Mercy with Gemma and Eric. At the fountain at the feet of Uriel's statue he spat into the water in front of the pilgrims. The pilgrims gasped, Gemma turned on him, and he said he was glad he had not pissed in it. <small>([Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/))</small>
 
+## The Pilgrims Camp
+
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Dario was found at the pilgrim camp, happier than his friends had seen him in a while. After his *dimension door* out of the slab room he and Zero-One had come out on a peak, and he hid her in the bushes and found followers of Matt Matheny who took them in. He spent the night drinking with the camp, then stood on a stump and asked for everyone who could carry a sword or play a harp or a horn: *"It is a dark day. The sky is gray. And it will be a long night. But that means all the brighter dawn."* He said that if he sees Eden he will destroy her and every one like her. <small>(Korth Ep 18)</small>
+
 ## Right now
 
 Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth was permitted to log, riding to the one place the Empress is known to be. The Grand Lodge records are due Monday. Ten bells remain, at least one of them a Master, and the ninth great casting hangs in a tower attached to the Imperial Palace he is sailing away from.

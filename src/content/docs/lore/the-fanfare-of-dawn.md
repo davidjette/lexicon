@@ -73,6 +73,8 @@ Bofric identified the underlying art as [arcane harmonics](/items/arcane-harmoni
 
 At the hospital in Sharn, [Zero of Sharn](/people/zero-of-sharn/) convened a meeting with a representative from every faith on the continent. Bofric played the fanfare. The clergy took it up and began teaching it congregation by congregation, and named the instrument **the Horn of Mourning**. Adamantine in the listeners' pockets hummed along with it.
 
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Gemma wrote the fanfare out for [Joseph Roberts](/people/pirate-joseph-roberts/) to play if a bell rings, and at the pilgrim camp below Nos Matre she played it for the Plaza Band, the musicians of the Plaza of the Martyrs, who learned it from her. <small>(Korth Ep 18)</small>
+
 **Known players:** Bofric · [Gemma Corso](/people/gemma-corso/), who took proficiency in Performance and in the horn specifically to be the second · and, increasingly, whoever the clergy of Sharn have got to so far.
 
 **Outstanding:** the party's own stated intention to teach the fanfare, and the horn's construction, to someone who will remain behind when they go into the Empire. That has not been done.

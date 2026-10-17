@@ -6,7 +6,7 @@ tags:
   - Gemma
   - Corso
   - Foxtale
-  - Foxtail
+  - Foxtale
   - Deirdre Moro
   - Deedra Mora
   - The Inevitables
@@ -121,7 +121,7 @@ campaigns:
 
 **Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**
 
-*Also known as:* **Foxtale** (NEST codename; filed once as *Foxtail* in a recovered BioTec document) · **Deirdre Moro**, also written *Deedra Mora* (Korth cover, taken off a corpse) · **Hermione Granger** (on the books of the Zilspar Farm-Table Co-op) · **June Lockheart** (Newham cover) · **Dawn** (rebel code name at Leef) · one of the **Heroes of Leef**
+*Also known as:* **Foxtale** (NEST codename; filed once as *Foxtale* in a recovered BioTec document) · **Deirdre Moro**, also written *Deedra Mora* (Korth cover, taken off a corpse) · **Hermione Granger** (on the books of the Zilspar Farm-Table Co-op) · **June Lockheart** (Newham cover) · **Dawn** (rebel code name at Leef) · one of the **Heroes of Leef**
 
 Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Corso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She is now in Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it.
 
@@ -208,6 +208,10 @@ In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) the risen [Esther Crona
 In [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/) Gemma hired the hunter Fora Dollar at the Grand Lodge for 500 gold down and went with him and Eric into the King's Forest by night to find the huge red bird that [General Stockton Thar](/people/general-stockton-thar/) had become. At the river landing she burned two wolves and broke a dark druid's spell. On the shelf under the peak, with Eric poisoned and asleep, she cut off the head of the drow Vyx and blasted his twin Velith into the river. On the peak she blasted Thar's druids off the cliff one after another. When Thar was back in his own shape she raised her sword and asked him, *"Do you recognize this?"* She cut off his head.
 
 A note on Thar's body set a meeting on the peak at dawn, signed **E**. Gemma cast *seeming*, put on his headpiece, took up his dragon-headed staff and met [Eden](/people/eden/) as Thar, in his ruined voice. Eden told her the Empress must die, and went away believing she had spoken to the General. Gemma's sword then carried her and Eric back to the river bank. <small>(Korth Ep 17)</small>
+
+## The Pilgrims Camp
+
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Gemma found Joseph Roberts behind the Grand Lodge's library, dropped her disguise for him, and accepted his proposal: *"I will gladly marry you, and you can give me an island, as long as I have freedom. If I make it through this."* She wrote out the fanfare of dawn for him. The next morning she called Kitsune in a mirror, and he swore that if she brings him the child unharmed her obligation is complete and she keeps everything he gave her. At the pilgrim camp she found Dario and Zero-One, taught the Plaza Band the fanfare, and was given Zero-One's pewter pendant, which holds one casting of *circle of power*. Eric told the camp she was Foxtale. <small>(Korth Ep 18)</small>
 
 ## Habits
 

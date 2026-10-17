@@ -125,6 +125,10 @@ Gemma told him that what she does is for some semblance of normalcy in the world
 
 **Items:** **the heart-box**, velvet-lined pewter, given to Gemma to carry the Emperor's heart; empty.
 
+## The oath
+
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Gemma called Kitsune in a mirror at the Grand Lodge and asked whether what passed from her father to her would pass to a child of her own. He raised his hand: *"I solemnly swear that if you bring me the child unharmed, I will consider your obligation complete. You may keep everything I've given to you, and I will go on my way."* He did not answer when she asked what would happen if she died. Of Dario he said, *"He has found help. You should go to him. But be careful. Don't be followed."* <small>(Korth Ep 18)</small>
+
 ## Social
 
 **Contacts & Relations**

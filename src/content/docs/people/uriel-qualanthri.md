@@ -250,6 +250,10 @@ The Stairs of Her Mercy rise in white arcs out of the Plaza of the Martyrs towar
 
 At the Grand Lodge a gambler calling himself Joey Monica said the Empress comes down her stairs every couple of months, and last did so nine or ten months ago; his companion said she is over two hundred years old. Pilgrims in the plaza said the Empress heals in person but touches only five or six people, and nobody can predict which. <small>([Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/))</small>
 
+## The gem
+
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One said that when she first raised Uriel, Uriel's brain was missing, and that she put a gem in its place *"which had raised her from the dead by the light of the Flame."* She believes she gave Uriel the mind behind everything since. Uriel can raise the dead and has done it everywhere, but in Zero-One's account there are levels of lifelike animation that still escape her. The pilgrims in the valley were saying that the Empress might soon have her baby. <small>(Korth Ep 18)</small>
+
 ## Right Now
 
 Uriel does not leave the Emperor’s side. She waits on a son, and every daughter is a failure she has to be patient about. Her undead guards turned on Supreme Admiral Vex d’Lyrandar at the Thronehold Summit on her order, which is how the last chance at peace died. And a Ministry of Law warrant is currently carrying three people with her name on their orders straight onto her grounds.

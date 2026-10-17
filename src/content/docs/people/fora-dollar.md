@@ -70,4 +70,6 @@ When Thar was dead he said, *"What have you got me into? You just assassinated s
 
 Dollar knows that two guests of the Lodge killed an Imperial general. A burst of gunfire sounded in the valley in the direction he had gone, and what became of him is not recorded. <small>(Korth Ep 17)</small>
 
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) the Grand Lodge's Fieldmaster asked Deirdre Moro where Master Hunter Fora was, and said he had been a member for eighty years. He did not return to the Lodge. Gemma and Eric kept his elvish canoe. <small>(Korth Ep 18)</small>
+
 **Related:** [The Grand Lodge](/places/the-grand-lodge/) · [General Stockton Thar](/people/general-stockton-thar/) · [Vyx and Velith](/people/vyx-and-velith/) · [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/)

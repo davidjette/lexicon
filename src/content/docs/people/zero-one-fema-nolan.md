@@ -111,6 +111,8 @@ After Esther Crona fell, Zero-One and her Silver Flame paladins took over the Bl
 
 Zilspar Farm has been burned to the ground with people boarded up inside, and Zero-One has been taken alive by Eden units. Fulcrum is being dismantled across the continent as though the Empire had obtained a list of every name, and the executions ran for days. [Jessica Grimpledink](/people/jessica-grimpledink/)'s standing instruction is that if they cannot save her, they must not let her be taken.
 
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) she was found at the pilgrim camp among the followers of Matt Matheny, wounded, bandaged and asleep, after Dario carried her out of the slab room. When she woke she asked after Izaak and then after Richard. She told the party that the attack on Zilspar tripped none of the farm's alarms, that she had been made to raise Esther because Uriel wants Esther to find Calcifer, and that she took Esther's heart out in the rite and does not know where it went. Of Uriel: *"Uriel's brain was missing when I first met her all those years ago, and I replaced it with a gem, which had raised her from the dead by the light of the Flame."* She needs days of rest, and has promised to summon all the Flame left in her if the party confronts the White Death. She gave Gemma her pewter pendant of *circle of power*. <small>(Korth Ep 18)</small>
+
 ## Beliefs
 
 She believes purpose and not hatred should shape a survivor's path, and says so to every broken person brought to her farm. She believes the Silver Flame is a discipline rather than a comfort. She believes that what she did in that sewer was right, and has never asked anyone to agree with her.

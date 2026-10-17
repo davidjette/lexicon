@@ -82,6 +82,10 @@ Eric told [Gemma](/people/gemma-corso/) he had handed Pierce the keys, that he k
 
 Whether Pierce knew about Zilspar and gave it away to the Empire, or someone else betrayed Fulcrum, is unresolved. Jessica had already asked Gemma privately whether Eric — hearing a voice he had hidden from everyone — was how the Empire found the farm. See [the rolling-up of Fulcrum](/lore/the-rolling-up-of-fulcrum/).
 
+## ZERO-ONE'S ACCOUNT
+
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One said that whoever attacked the farm did it without tripping any of the alarms or sensors, which could only be done by someone who already knew how to switch them off. *"I looked up and every building was full of Eden units just shooting. It was carnage."* She was taken alive. <small>(Korth Ep 18)</small>
+
 ## WHAT IT COST SHARN
 
 With the farm gone and no fuel in the city, [Renn Tal](/people/renn-tal/) put Sharn a month from severe food shortages; the Hundreds calculated forty-seven days from famine.

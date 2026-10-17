@@ -57,6 +57,10 @@ The key was eight letters, what you do when you really love someone. Reading ove
 
 Director [Aurel Kesk](/people/aurel-kesk/) returned with troopers holding Vitt and accused the Advocate of ordering her out of her own office without a warrant. Eric judged that she was under duress. Kesk's men dragged her into his office and beat her until Deirdre demanded her as a witness. Vitt told the party they had to get out at once, and went to the pilgrim camp, where she sleeps most nights, to meet them there. <small>(Korth Ep 15)</small>
 
+## The pilgrim camp
+
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Ilma was at the pilgrim camp with a small company of Matt Matheny's followers who had taken in Dario and the wounded Zero-One. She confronted Deirdre Moro: *"I gave you everything you needed. You didn't do anything about the corruption."* She asked whether Kesk had sent her, and learned from Eric that Deirdre and Graham were covers. Her followers pledged to help the party. <small>(Korth Ep 18)</small>
+
 ## Appearances
 
 - [Korth Ep 15 — The Stairs of Her Mercy](/sessions/korth-ep-15-the-stairs-of-her-mercy/)

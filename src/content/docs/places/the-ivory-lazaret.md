@@ -79,6 +79,8 @@ Fulcrum's best intelligence on the place came from a muleteer working the high r
 
 Ten [bells](/items/the-hell-s-bell-fantanya-nyel/) remain to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace. Fulcrum is being dismantled across the continent. A Star Advocate of the Ministry of Law has been handed written authority to travel to the Summer Palace, the Ivory Lazaret and the surrounding grounds, seize the guest records of [the Grand Lodge](/places/the-grand-lodge/) and arrest any saboteurs or suspected pirates found there. The deadline is Monday. The boat leaves at nightfall.
 
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Gemma that the polyhedron over the cathedral is a new device. Smaller ones went up outside some powerful headquarters before it, and since this one appeared, messages in the valley have gone missing or arrived changed, and people have been arrested and followed. The Lazaret itself is sealed with *private sanctum*. <small>(Korth Ep 18)</small>
+
 ## The Stairs of Her Mercy
 
 In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/) the party was set down in the Plaza of the Martyrs, whose stones are carved with tens of thousands of names. The plaza is a market for everything from holy water and blankets to building stone and furniture, and the [Imperial Counting House](/places/the-imperial-counting-house/) stands on it. <small>(Korth Ep 15)</small>
