@@ -80,12 +80,11 @@ They woke at about eleven on a rainy Sunday. In the bathroom mirror Gemma called
 
 Eric cast *divination* to Matt Matheny and asked how to kill the Emperor. He worked a numerical sequence through in Elvish and Draconic, and the Elvish came out as:
 
-> Of course, the answer is so simple.\
 > I am the crimson star that shines in the night.\
 > Do not stand at my grave and weep.\
 > I am not there. I did not die.
 
-He knew the words from the Tomb of Kaius I. [John C. LeBeefe](/people/john-c-lebeefe/) had told him the Emperor was a vampire, and the two of them talked it through: [Malrik Zeir](/people/malrik-zeir/)'s mist going to his coffin, and the dragon blood taken from [Valtrex](/species/valtrex/). *"They don't call him Kaius the Undying for nothing."* Their working theory was that killing the Emperor would send his mist to his resting place, where he would have to be killed again.
+"Of course, the answer is so simple!" He knew the words from the Tomb of Kaius I. [John C. LeBeefe](/people/john-c-lebeefe/) had told him the Emperor was a vampire, and the two of them talked it through: [Malrik Zeir](/people/malrik-zeir/)'s mist going to his coffin, and the dragon blood taken from [Valtrex](/species/valtrex/). *"They don't call him Kaius the Undying for nothing."* Their working theory was that killing the Emperor would send his mist to his resting place, where he would have to be killed again.
 
 ### The pilgrim camp
 
