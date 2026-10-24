@@ -2,7 +2,7 @@
    Retheme Starlight's design tokens toward a parchment/ink "archive" look,
    plus the signature wiki components: Infobox, Oblivia toggle, Gallery. */
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Spectral+SC:wght@500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Spectral+SC:wght@500;600&family=Tangerine:wght@400;700&display=swap');
 
 :root {
 	--ink: #1b1610;
@@ -248,4 +248,70 @@ details.oblivia .oblivia__body > :first-child {
 	text-align: center;
 	font-size: 0.9em;
 	opacity: 0.85;
+}
+
+/* ---- Elvish letters: an old necromancer's hand, refined and economical ---- */
+.elf-letters {
+	margin: 2rem 0;
+	display: grid;
+	gap: 1.4rem;
+}
+.elf-letter {
+	position: relative;
+	margin: 0;
+	padding: 1.6rem 2.2rem 1.4rem 2.6rem;
+	background:
+		radial-gradient(ellipse at 15% 10%, rgba(122, 31, 31, 0.06), transparent 55%),
+		radial-gradient(ellipse at 85% 90%, rgba(60, 40, 15, 0.12), transparent 60%),
+		linear-gradient(175deg, #f3ead3 0%, #e9dcbc 100%);
+	color: #2b1d14;
+	border: 1px solid #cbb78f;
+	border-left: 3px double #8a6d2f;
+	box-shadow: 0 1px 0 #fff8 inset, 0 6px 14px -8px rgba(40, 25, 10, 0.45);
+	font-family: 'Tangerine', 'EB Garamond', cursive;
+	font-weight: 700;
+	font-size: 1.75rem;
+	line-height: 1.12;
+	letter-spacing: 0.01em;
+	transform: rotate(-0.25deg);
+}
+.elf-letter:nth-child(even) { transform: rotate(0.3deg); }
+.elf-letter p { margin: 0 0 0.5em; }
+.elf-letter p:last-child { margin-bottom: 0; }
+.elf-letter::before {
+	content: attr(data-leaf);
+	position: absolute;
+	top: 0.55rem;
+	right: 0.9rem;
+	font-family: 'Spectral SC', serif;
+	font-weight: 500;
+	font-size: 0.72rem;
+	letter-spacing: 0.18em;
+	color: #8a6d2f;
+}
+.elf-letter p:first-child::first-letter {
+	font-size: 2.6em;
+	line-height: 0.8;
+	color: #6a1818;
+	padding-right: 0.04em;
+}
+.elf-letter-note {
+	font-style: italic;
+	font-size: 0.9rem;
+	color: var(--sl-color-gray-3);
+	margin-top: -0.6rem;
+}
+:root[data-theme='dark'] .elf-letter {
+	background:
+		radial-gradient(ellipse at 15% 10%, rgba(192, 138, 62, 0.08), transparent 55%),
+		linear-gradient(175deg, #2a2219 0%, #1f1912 100%);
+	color: #e9dcc0;
+	border-color: #4a3b26;
+	border-left-color: #c08a3e;
+	box-shadow: 0 6px 16px -8px rgba(0, 0, 0, 0.8);
+}
+:root[data-theme='dark'] .elf-letter p:first-child::first-letter { color: #d9b56a; }
+@media (max-width: 40rem) {
+	.elf-letter { padding: 1.3rem 1.2rem 1.1rem 1.4rem; font-size: 1.55rem; transform: none; }
+	.elf-letter:nth-child(even) { transform: none; }
 }
