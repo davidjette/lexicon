@@ -73,7 +73,7 @@ The session opened at noon on Sunday in the pilgrim camp, in rain, with the Laza
 >
 > **Gemma:** If I survive this, I can't imagine anyone will remember or know who I am.
 >
-> **Dario:** They'll remember a thousand years. You've played a part in every part of this rebellion. Your deeds are legendary. How could that be?
+> **Dario:** They'll remember you a thousand years. You've played a part in every part of this rebellion. Your deeds are legendary. How could that be?
 >
 > *He puts his hand on her chest.*
 >
@@ -87,7 +87,7 @@ They talked over the plan, hunkered down in Zero-One's tent away from the crowd.
 
 > **Gemma:** I mean, Eric here...
 >
-> **Dario:** What is our plan? Can we go pregnant bitch now, before she breathes another disgusting void into this world?
+> **Dario:** What is our plan? Can we go kill the pregnant bitch now, before she breathes another disgusting void into this world?
 >
 > **Gemma:** If, let's say, we get in there and we come face to face with Uriel. And let's say we get in there and we come face to face with her and we get the chance to jump her. I don't know how easy this will be. She could have a failsafe that as soon as she's attacked or as soon as her child's born, the bell rings. So if we're not near the bell, how do we break the bell?
 >
