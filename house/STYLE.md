@@ -28,6 +28,10 @@
 > `:redacted[text]{label="…" reason="…" source="…"}` inline, `:::redacted{…}` … `:::` for a
 > passage, or `redacted: {label, reason, source}` in front matter for a whole article.
 >
+> **In-world letters** quoted verbatim are set as handwritten leaves, never as raw HTML (the browser
+> editor refuses HTML): wrap them in `::::letters` … `::::` and give each leaf
+> `:::letter{leaf="I"}` … `:::`. The text inside is the letter exactly as written.
+>
 > **Player-safe, and not-yet-revealed.** CANON is a DM register. Anything it marks as not yet
 > revealed in-world, and anything from the DM-only files in §6.2, never goes on the site.
 >

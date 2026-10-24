@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import remarkRedacted from './src/plugins/remark-redacted.mjs';
+import remarkLetters from './src/plugins/remark-letters.mjs';
 import remarkStripComments from './src/plugins/remark-strip-comments.mjs';
 import remarkSealedRefs from './src/plugins/remark-sealed-refs.mjs';
 
@@ -62,7 +63,7 @@ export default defineConfig({
 		'/people/calix-the-betrayer/': BASE + '/people/calix/',
 	},
 	markdown: {
-		remarkPlugins: [remarkStripComments, remarkRedacted, remarkSealedRefs],
+		remarkPlugins: [remarkStripComments, remarkRedacted, remarkLetters, remarkSealedRefs],
 		rehypePlugins: [rehypeBaseLinks],
 	},
 	integrations: [

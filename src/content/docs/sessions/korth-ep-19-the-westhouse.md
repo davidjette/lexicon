@@ -203,13 +203,27 @@ Behind the leather cover of a book was a bundle of letters in a very old high El
 
 The letters read:
 
-<div class="elf-letters">
-<blockquote class="elf-letter" data-leaf="LEAF I"><p>Crona and I offered the king of Galifar a cure for his ailing heir. We told the king some of what would follow, including that his son would become very powerful and effectively immortal. We did not tell him that his child would be replaced, killed, and turned into a vessel for the dragon.</p></blockquote>
-<blockquote class="elf-letter" data-leaf="LEAF II"><p>The child has woken with the full consciousness of itself as the dragon.</p></blockquote>
-<blockquote class="elf-letter" data-leaf="LEAF III"><p>To commit itself to a human body, the Crimson Sun will invest its power in a binding ritual with a terrific sword carried by Crona. This will invest a large piece of His Majesty's power. While it is weak, I am worried this will compound Crona's power and influence.</p></blockquote>
-<blockquote class="elf-letter" data-leaf="LEAF IV"><p>I have stayed in the background. In my own time, I have undergone the rite of Cain to expend my life and experiment with true blood magic. I know you will not like this decision, but it is the right one. I have killed my sire, and I am immortal. I do not enslave others freely, but I have experimented with my blood. And I have developed a new form of it, which can be taken by mortals and expend their life more quickly, speeding them toward undeath and in control.</p></blockquote>
-<blockquote class="elf-letter" data-leaf="LEAF V"><p>The Dragon Emperor understands that his transformation is not going to happen, and that he might live and die as Kaius, a little longer lived than most mortals. He has asked Crona and I for a solution. I have put one forward. He knows the risks. He would be my thrall, unless I feed him in turn. He has made the terms very clear. Crona will bind me and hold his sword at my throat, until His Majesty rises, comes and drinks of me. I will be true to my word. But even as a true vampire, he will be obsessed with my blood.</p></blockquote>
-</div>
+::::letters
+:::letter{leaf="I"}
+Crona and I offered the king of Galifar a cure for his ailing heir. We told the king some of what would follow, including that his son would become very powerful and effectively immortal. We did not tell him that his child would be replaced, killed, and turned into a vessel for the dragon.
+:::
+
+:::letter{leaf="II"}
+The child has woken with the full consciousness of itself as the dragon.
+:::
+
+:::letter{leaf="III"}
+To commit itself to a human body, the Crimson Sun will invest its power in a binding ritual with a terrific sword carried by Crona. This will invest a large piece of His Majesty's power. While it is weak, I am worried this will compound Crona's power and influence.
+:::
+
+:::letter{leaf="IV"}
+I have stayed in the background. In my own time, I have undergone the rite of Cain to expend my life and experiment with true blood magic. I know you will not like this decision, but it is the right one. I have killed my sire, and I am immortal. I do not enslave others freely, but I have experimented with my blood. And I have developed a new form of it, which can be taken by mortals and expend their life more quickly, speeding them toward undeath and in control.
+:::
+
+:::letter{leaf="V"}
+The Dragon Emperor understands that his transformation is not going to happen, and that he might live and die as Kaius, a little longer lived than most mortals. He has asked Crona and I for a solution. I have put one forward. He knows the risks. He would be my thrall, unless I feed him in turn. He has made the terms very clear. Crona will bind me and hold his sword at my throat, until His Majesty rises, comes and drinks of me. I will be true to my word. But even as a true vampire, he will be obsessed with my blood.
+:::
+::::
 
 Gemma guessed the writer was [Gabrielle Duin](/people/gabriel-duin/). Eric said it could as easily be E'noch. The party planned to go to the residence next as elven sisters with Saturnia, since the Empress admits only family and the undead who serve her. At the end of the night they learned that drinking from the fountains gives a long rest. Eric: *"What's it gonna do? Turn me into a talking octopus?"*
 
