@@ -73,6 +73,15 @@ image:
   src: /images/site/sir-dario-argentino-1.webp
   alt: Sir Dario Argentino
 gallery:
+- src: /images/album/korth-ep-19-the-westhouse-at-the-triumphal-gate.webp
+  alt: 'General Thar with Majorbo and Veg at the Triumphal Gate of the Imperial Gardens - Korth Ep 19, The Westhouse'
+  caption: 'General Thar with Majorbo and Veg at the Triumphal Gate of the Imperial Gardens - Korth Ep 19, The Westhouse'
+- src: /images/album/korth-ep-19-the-westhouse-rum-tum.webp
+  alt: 'Dario and Eric ride Rum Tum through the classroom against the Sorrowful Sisters and a Mary Christmas - Korth Ep 19, The Westhouse'
+  caption: 'Dario and Eric ride Rum Tum through the classroom against the Sorrowful Sisters and a Mary Christmas - Korth Ep 19, The Westhouse'
+- src: /images/album/korth-ep-19-the-westhouse-eric-brings-dario-back.webp
+  alt: 'Eric brings Dario back among the archive shelves as a Sorrowful Sister reaches for them - Korth Ep 19, The Westhouse'
+  caption: 'Eric brings Dario back among the archive shelves as a Sorrowful Sister reaches for them - Korth Ep 19, The Westhouse'
 - src: /images/album/korth-ep-18-the-pilgrims-camp-dario-speaks.webp
   alt: 'Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One - Korth Ep 18, The Pilgrims Camp'
   caption: 'Dario rallies the pilgrim camp below Nos Matre while Gemma and Eric sit with Zero-One - Korth Ep 18, The Pilgrims Camp'

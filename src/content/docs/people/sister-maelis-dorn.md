@@ -45,6 +45,12 @@ wa:
   slug: sister-maelis-dorn-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
+  - src: /images/album/korth-ep-19-the-westhouse-dorns-office.webp
+    alt: 'General Thar, Majorbo and Veg in Maelis Dorn''s office, with Lus Fayina at the door - Korth Ep 19, The Westhouse'
+    caption: 'General Thar, Majorbo and Veg in Maelis Dorn''s office, with Lus Fayina at the door - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-the-fight-in-the-office.webp
+    alt: 'Gemma, out of her seeming, goes for Maelis Dorn in her office as Eric and Dario close in - Korth Ep 19, The Westhouse'
+    caption: 'Gemma, out of her seeming, goes for Maelis Dorn in her office as Eric and Dario close in - Korth Ep 19, The Westhouse'
   - src: /images/album/korth-ep-16-orientation-day-maelis-dorn.webp
     alt: 'Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day'
     caption: 'Sister-Inquisitor Maelis Dorn - Korth Ep 16, Orientation Day'

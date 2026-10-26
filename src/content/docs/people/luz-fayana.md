@@ -48,6 +48,10 @@ image:
   caption: "Director Lus Fayina - Korth Ep 16, Orientation Day"
 campaigns:
   - the-unforeseen-strike-back
+gallery:
+  - src: /images/album/korth-ep-19-the-westhouse-in-the-gardens.webp
+    alt: 'Lus Fayina and Sister Mary Christmas meet General Thar and his druids in the Imperial Gardens - Korth Ep 19, The Westhouse'
+    caption: 'Lus Fayina and Sister Mary Christmas meet General Thar and his druids in the Imperial Gardens - Korth Ep 19, The Westhouse'
 ---
 
 **Elf · The Black Doves · The Grey Doves · Alive when last recorded**

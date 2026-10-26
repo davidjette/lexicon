@@ -75,6 +75,15 @@ wa:
   uuid: 6f75a33c-5725-431e-9af8-a920ee57ecfe
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+- src: /images/album/korth-ep-19-the-westhouse-eric-and-the-bowl.webp
+  alt: 'Eric, out of his seeming, holds Ilma Vitt''s bowl among the counting-house staff at the pilgrim camp - Korth Ep 19, The Westhouse'
+  caption: 'Eric, out of his seeming, holds Ilma Vitt''s bowl among the counting-house staff at the pilgrim camp - Korth Ep 19, The Westhouse'
+- src: /images/album/korth-ep-19-the-westhouse-rum-tum.webp
+  alt: 'Dario and Eric ride Rum Tum through the classroom against the Sorrowful Sisters and a Mary Christmas - Korth Ep 19, The Westhouse'
+  caption: 'Dario and Eric ride Rum Tum through the classroom against the Sorrowful Sisters and a Mary Christmas - Korth Ep 19, The Westhouse'
+- src: /images/album/korth-ep-19-the-westhouse-eric-brings-dario-back.webp
+  alt: 'Eric brings Dario back among the archive shelves as a Sorrowful Sister reaches for them - Korth Ep 19, The Westhouse'
+  caption: 'Eric brings Dario back among the archive shelves as a Sorrowful Sister reaches for them - Korth Ep 19, The Westhouse'
 - src: /images/album/korth-ep-18-the-pilgrims-camp-blindfolded.webp
   alt: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'
   caption: 'Deirdre and Graham, blindfolded, with Joseph Roberts and his swashbucklers - Korth Ep 18, The Pilgrims Camp'

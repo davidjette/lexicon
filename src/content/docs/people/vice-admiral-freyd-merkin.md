@@ -48,6 +48,9 @@ wa:
   slug: vice-admiral-freyd-merkin-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
 gallery:
+- src: /images/album/korth-ep-19-the-westhouse-gemma-and-merkin.webp
+  alt: 'Gemma puts her blade to Vice Admiral Freyd Merkin''s throat in the archive, with his attaché behind her - Korth Ep 19, The Westhouse'
+  caption: 'Gemma puts her blade to Vice Admiral Freyd Merkin''s throat in the archive, with his attaché behind her - Korth Ep 19, The Westhouse'
 - src: /images/album/vice-admiral-freyd-merkin.webp
   alt: Vice Admiral Freyd Merkin
   caption: Vice Admiral Freyd Merkin

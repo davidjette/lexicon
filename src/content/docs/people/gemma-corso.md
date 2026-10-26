@@ -78,6 +78,18 @@ wa:
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+  - src: /images/album/korth-ep-19-the-westhouse-the-statue-of-uriel.webp
+    alt: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
+    caption: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-the-fight-in-the-office.webp
+    alt: 'Gemma, out of her seeming, goes for Maelis Dorn in her office as Eric and Dario close in - Korth Ep 19, The Westhouse'
+    caption: 'Gemma, out of her seeming, goes for Maelis Dorn in her office as Eric and Dario close in - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-saturnia-begs.webp
+    alt: 'Saturnia begs Gemma for her life - Korth Ep 19, The Westhouse'
+    caption: 'Saturnia begs Gemma for her life - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-gemma-and-merkin.webp
+    alt: 'Gemma puts her blade to Vice Admiral Freyd Merkin''s throat in the archive, with his attaché behind her - Korth Ep 19, The Westhouse'
+    caption: 'Gemma puts her blade to Vice Admiral Freyd Merkin''s throat in the archive, with his attaché behind her - Korth Ep 19, The Westhouse'
   - src: /images/album/korth-ep-18-the-pilgrims-camp-roberts-and-gemma.webp
     alt: 'Joseph Roberts kisses Gemma goodbye as his men carry the Lodge''s chests out, with Eric by the table - Korth Ep 18, The Pilgrims Camp'
     caption: 'Joseph Roberts kisses Gemma goodbye as his men carry the Lodge''s chests out, with Eric by the table - Korth Ep 18, The Pilgrims Camp'

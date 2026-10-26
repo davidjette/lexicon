@@ -51,6 +51,15 @@ wa:
   slug: general-stockton-thar-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
 gallery:
+  - src: /images/album/korth-ep-19-the-westhouse-the-statue-of-uriel.webp
+    alt: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
+    caption: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-at-the-triumphal-gate.webp
+    alt: 'General Thar with Majorbo and Veg at the Triumphal Gate of the Imperial Gardens - Korth Ep 19, The Westhouse'
+    caption: 'General Thar with Majorbo and Veg at the Triumphal Gate of the Imperial Gardens - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-dorns-office.webp
+    alt: 'General Thar, Majorbo and Veg in Maelis Dorn''s office, with Lus Fayina at the door - Korth Ep 19, The Westhouse'
+    caption: 'General Thar, Majorbo and Veg in Maelis Dorn''s office, with Lus Fayina at the door - Korth Ep 19, The Westhouse'
   - src: /images/album/korth-ep-17-the-red-bird-thar.webp
     alt: 'General Stockton Thar, back in his own shape, turns on Gemma and Eric - Korth Ep 17, The Red Bird'
     caption: 'General Stockton Thar, back in his own shape, turns on Gemma and Eric - Korth Ep 17, The Red Bird'

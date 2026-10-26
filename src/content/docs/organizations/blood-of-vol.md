@@ -37,6 +37,13 @@ wa:
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
 campaigns:
   - the-unforeseen-strike-back
+gallery:
+  - src: /images/album/korth-ep-19-the-westhouse-saturnia.webp
+    alt: 'Saturnia in the new red robes of a Sister of the Blood - Korth Ep 19, The Westhouse'
+    caption: 'Saturnia in the new red robes of a Sister of the Blood - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-saturnia-begs.webp
+    alt: 'Saturnia begs Gemma for her life - Korth Ep 19, The Westhouse'
+    caption: 'Saturnia begs Gemma for her life - Korth Ep 19, The Westhouse'
 ---
 
 **Religious cult · Human, merchant-class and city-guard base · Active, and not what its own members think it is**

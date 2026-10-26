@@ -73,6 +73,9 @@ wa:
   uuid: 6f27454e-bbde-4a0f-b156-b568213e0dda
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
 gallery:
+  - src: /images/album/korth-ep-19-the-westhouse-the-statue-of-uriel.webp
+    alt: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
+    caption: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
   - src: /images/gallery/2026-04-05-02.webp
     alt: 'Calcifer''s birth: Uriel holds the newborn'
     caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'

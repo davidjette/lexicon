@@ -50,6 +50,15 @@ wa:
   uuid: 1b38d4b7-7cc1-4560-9b4f-4ae943c63a5b
   category: c3bfcc8c-402e-46c2-ad24-51e1075d834a
 gallery:
+  - src: /images/album/korth-ep-19-the-westhouse-in-the-gardens.webp
+    alt: 'Lus Fayina and Sister Mary Christmas meet General Thar and his druids in the Imperial Gardens - Korth Ep 19, The Westhouse'
+    caption: 'Lus Fayina and Sister Mary Christmas meet General Thar and his druids in the Imperial Gardens - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-mary-christmas.webp
+    alt: 'Sister Mary Christmas raises her scythes over a fallen Dove as Saturnia kneels and Gemma stands above them on the desk - Korth Ep 19, The Westhouse'
+    caption: 'Sister Mary Christmas raises her scythes over a fallen Dove as Saturnia kneels and Gemma stands above them on the desk - Korth Ep 19, The Westhouse'
+  - src: /images/album/korth-ep-19-the-westhouse-a-sorrowful-sister.webp
+    alt: 'A Sorrowful Sister in the corridors of the Westhouse - Korth Ep 19, The Westhouse'
+    caption: 'A Sorrowful Sister in the corridors of the Westhouse - Korth Ep 19, The Westhouse'
   - src: /images/album/korth-ep-16-orientation-day-battle-sister.webp
     alt: A battle sister of the Black Doves - Korth Ep 16, Orientation Day
     caption: A battle sister of the Black Doves - Korth Ep 16, Orientation Day
