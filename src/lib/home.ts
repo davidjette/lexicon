@@ -97,12 +97,25 @@ export async function kindTiles() {
 	return tiles;
 }
 
+const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+
+/** When a session was played: the `played` field ("About 21 March 2026") if it has one, else its publish date. */
+function playedTime(e: Doc): number {
+	const played = String((e.data.fields as Record<string, unknown> | undefined)?.played ?? '').toLowerCase();
+	const m = played.match(/(?:(\d{1,2})\s+)?(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{4})/);
+	if (m) return Date.UTC(Number(m[3]), MONTHS.indexOf(m[2]), Number(m[1] ?? 1));
+	const published = Date.parse(String(e.data.published ?? ''));
+	return Number.isNaN(published) ? 0 : published;
+}
+
 export async function latestSessions(n = 4) {
-	// numbered episodes only (the importer gives them a sidebar order), in play order
-	const sessions = sortArticles((await getArticles('sessions')).filter((e) => typeof e.data.sidebar?.order === 'number'));
+	// numbered episodes only (the importer gives them a sidebar order), most recently played first.
+	// Sidebar order is per campaign, so it cannot rank across campaigns on its own.
+	const sessions = (await getArticles('sessions'))
+		.filter((e) => typeof e.data.sidebar?.order === 'number')
+		.sort((a, b) => playedTime(b) - playedTime(a) || (b.data.sidebar!.order as number) - (a.data.sidebar!.order as number));
 	return sessions
-		.slice(-n)
-		.reverse()
+		.slice(0, n)
 		.map((e) => ({ title: e.data.title, url: href(e), lead: clip(lead(e.body ?? ''), 180) }));
 }
 
