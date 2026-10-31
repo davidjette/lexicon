@@ -75,7 +75,7 @@ The Korranberg Foundry Trust's private schedule of works confirms what the finge
 - **thirteen** — the great castings. Eleven delivered and two in the yard when the leaf was written; the Thirteenth was broken with Knell under the Korramont and two more in Sharn; ten bells remain, at least one of them a Master in Korth.
 - **the dead will rise** — the Black Noise raises the dead where they lie, through rock, at continental distance.
 - **to serve the living** — *"ready to serve the will of a sufficiently powerful necromancer keyed in to the chorus. There is exactly one necromancer alive with the reach the network is tuned for."*
-- **and the dragon** — unresolved. Every candidate in the archive is a different answer: [Viagra](/people/viagra/), the great dragon of Master Armhair's heresy; the Crimson Sun, who fathered [Erandis Vol](/people/erandis-vol/)'s child; Valtrex, bled for three years; or a child not yet born.
+- **and the dragon** — unresolved. [Viagra](/people/viagra/), the great dragon of Master Armhair's heresy, and the Crimson Sun, who fathered the line of [Erandis Vol](/people/erandis-vol/), are one dragon, by the word of Aurorix. The other candidates in the archive are Valtrex, bled for three years, and a child not yet born.
 - **will be reborn** — the network is not set to a calendar.
 
 ## THE INEVITABLES' READING

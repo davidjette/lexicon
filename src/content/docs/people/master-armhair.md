@@ -79,7 +79,7 @@ His method is contemporaneous accounts and courtiers' journals since scrubbed fr
 
 ## The thesis
 
-A great dragon called Viagra — the most powerful known, said to have toyed with the forces that govern reality — vanished from the scrolls long before the elves came to Khorvaire, and Armhair has traced it well past that vanishing. He believes it came to **King Jarret Ilwenarn** of Karrnath with a bargain the king accepted; that the sick child of the Queen's Lullaby, **Prince Kaius**, died and was replaced; and that **Emperor Kaius III is that dragon**, and is the same being as Kaius I. He names it a blasphemy of the highest order and invites his listeners to have him executed for it.
+A great dragon called Viagra — the most powerful known, said to have toyed with the forces that govern reality — vanished from the scrolls long before the elves came to Khorvaire, and Armhair has traced it well past that vanishing. He believes it came to **King Jarret Ilwenarn** of Karrnath with a bargain the king accepted; that the sick child of the Queen's Lullaby, **Prince Kaius**, died and was replaced; and that **Emperor Kaius III is that dragon**, and is the same being as Kaius I. He names it a blasphemy of the highest order and invites his listeners to have him executed for it. The party has since had it confirmed: the unsent letters in the Westhouse describe the killing of the child, and the gold dragon Aurorix gave them the name Viagra. <small>(Korth Ep 19, Korth Ep 20)</small>
 
 > "This is a blasphemy of the highest order, of course, and you could have me executed."
 

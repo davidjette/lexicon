@@ -1,6 +1,6 @@
 ---
 title: Viagra
-description: The most powerful dragon ever recorded, erased from every archive in Korth, and named by one heretic loremaster as the man on the throne.
+description: True name of the dragon called the Crimson Sun, erased from every archive in Korth, and the being on the Imperial throne, now held in torpor.
 type: person
 kind: people
 tags:
@@ -16,14 +16,18 @@ tags:
 - Kaius III
 - Kaius III
 - Jarret Ilwenarn
+- Crimson Sun
+- Dragon Emperor
+- Aurorix
+- E'noch Qualanthri
 icon: fa-dragon
 fields:
   rpgAlignment: Unknown — no record
-  ggmtitle: None recorded; identified by Master Armhair's thesis with Kaius I, Kaius II and Caius III
+  ggmtitle: The Crimson Sun; reigning as Kaius I, Kaius II and Kaius III
   dobDisplay: Unknown — before the elves came to Khorvaire
   birthplace: Unknown
-  children: Unknown; a dragon family tree traced to the progenitors survives in the Armhair manuscript
-  residence: Disputed — the Imperial Palace at Korth, if the thesis holds
+  children: The line of Erandis Vol, by Minara Vol; the daughters of Empress Uriel Qualanthri
+  residence: In torpor at the residence on the Summer Palace grounds
   gender: Unknown
   age: Unknown — older than the elvish presence on the continent
   eyes: Unknown
@@ -34,6 +38,10 @@ fields:
 sources:
 - sources/site/korth-episode-summaries.txt
 - worldanvil/CANON.md
+- sources/sessions/korth-2026-10-23-summary.md
+- sources/sessions/korth-2026-10-30-summary.md
+- sources/dave/2026-10-31-enoch-crona-release.md
+- CANON.md 5ar
 published: '2026-09-10'
 wa:
   slug: viagra-person
@@ -43,15 +51,15 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Dragon · The most powerful known · Vanished from the record before the elves came to Khorvaire · Status disputed**
+**Dragon · The most powerful known · The Crimson Sun · Reigning as Kaius I, Kaius II and Kaius III · Held in torpor**
 
-**Also known as:** None recorded — Master Armhair's thesis identifies him with Kaius I, Kaius II and Kaius III
+**Also known as:** the Crimson Sun · the Dragon Emperor · [Emperor Kaius](/people/emperor-caius-iii/), in his three reigns
 
-**Viagra** is a dragon, described in the only surviving account as the most powerful known, who vanished from the record long before the elves came to Khorvaire. Every named dragon record has been removed from the Hall of Records at Korth, and Viagra was removed earlier and more thoroughly than any of them. Master Armhair, an elderly half-elf loremaster of the Hall, reconstructed the name from contemporaneous accounts and courtiers' journals that had themselves been scrubbed, and holds that the dragon came to King Jarret Ilwenarn with a bargain, that the sick child Prince Kaius died and was replaced, and that **Kaius III is that dragon, and is the same being as Kaius I**. Armhair's manuscript was confiscated; he hid a copy in the Hall under a false index, gave a stranger the number, and expected to be executed for it. A competing account, from the lingering voice of [John C. LeBeefe](/people/john-c-lebeefe/), holds instead that Emperor Kaius is a vampire descended from the Crimson Sun, fed dragon blood to strengthen his bloodline.
+**Viagra** is a dragon, described in the only surviving account as the most powerful known, who vanished from the record long before the elves came to Khorvaire. Every named dragon record has been removed from the Hall of Records at Korth, and Viagra was removed earlier and more thoroughly than any of them. Master Armhair, an elderly half-elf loremaster of the Hall, reconstructed the name from contemporaneous accounts and courtiers' journals that had themselves been scrubbed, and holds that the dragon came to King Jarret Ilwenarn with a bargain, that the sick child Prince Kaius died and was replaced, and that **Kaius III is that dragon, and is the same being as Kaius I**. Armhair's manuscript was confiscated; he hid a copy in the Hall under a false index, gave a stranger the number, and expected to be executed for it. The gold dragon Aurorix confirmed the name to the party in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/). Viagra is the dragon the houses of Vol call the Crimson Sun, father of the line of [Erandis Vol](/people/erandis-vol/), and the lingering voice of [John C. LeBeefe](/people/john-c-lebeefe/) had the other half of it: [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) made the Emperor a vampire, and he is held in torpor on a potion of dragon blood.
 
 ## Physical description
 
-No description of him survives. If the Armhair thesis is correct, the only body Viagra currently wears is that of the comatose Emperor, who has not sat the Throne of Bones in ten years.
+No description of his dragon form survives. The body he wears is that of the Emperor, who has not sat the Throne of Bones in ten years.
 
 ## The archive that erased him
 
@@ -67,13 +75,13 @@ At midnight in Deirdre Moro's borrowed apartment, with a Leonin scholar named Je
 
 His recovered manuscript carries three further things: a dragon family tree traced back to the progenitors; an identification of Valtrex's father; and a thread connecting the [Mark of Death](/lore/the-mark-of-death-and-the-dragonmarks/), [Erandis Vol](/people/erandis-vol/)'s birth, and the same dragon.
 
-## The competing account
+## The second account, and the third
 
-The party carries a second version of the Emperor's nature and has not reconciled it with the first. On the way out of the Korramont, [John C. LeBeefe](/people/john-c-lebeefe/)'s lingering voice told [Eric](/people/eric-the-cleric/) that **Emperor Kaius is a vampire descended from the Crimson Sun**, kept alive as a vessel and fed dragon blood to strengthen his bloodline.
+The party carried a second version of the Emperor's nature for a long time. On the way out of the Korramont, [John C. LeBeefe](/people/john-c-lebeefe/)'s lingering voice told [Eric](/people/eric-the-cleric/) that **Emperor Kaius is a vampire descended from the Crimson Sun**, kept alive as a vessel and fed dragon blood to strengthen his bloodline. Armhair was a heretic scholar who had staked his life on his reading, and LeBeefe was dead, was never honest while living, and spoke through a fungal bloom that has spent years trying to get someone to ring a bell.
 
-Both are claims made by interested parties. Armhair is a heretic scholar who has staked his life on his reading. LeBeefe is dead, was never honest while living, and speaks now through a fungal bloom that has spent years trying to get someone to ring a bell. **Neither account is established as fact.** In both, the man on the throne is not a man, and dragon blood is what keeps him going.
+They were both right. In the Westhouse, Saturnia said the Emperor is the dragon her people call the Crimson Sun. In the Imperial Archive the party found E'noch Qualanthri's unsent letters, which give the false cure, the killing of the child, the sword, and the turning (see [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/)). Under the Lazaret the gold dragon Aurorix, his kin and his old enemy, gave them the name: *"They have done the world a favor by entrapping that member of my kin. His true name is Viagra."*
 
-<small>"The Crimson Sun" names the dragon that fathered Erandis Vol's child, and it names the Empire's secret service. The vampire account descends the Emperor from the first; the sigil of the second is carved in marble in his own throne room.</small>
+<small>"The Crimson Sun" names this dragon, and it names the Empire's secret service; the sigil of the second is carved in marble in his own throne room. It also named the sword his power was invested in, now the Bright Dawn.</small>
 
 ## Beliefs
 
@@ -85,19 +93,19 @@ Total absence from the written world, maintained for longer than the elves have 
 
 ## Origin
 
-His origin is not recorded. Armhair places him before the elves came to Khorvaire — older than the entire elvish presence on the continent, and old enough that whatever he was doing in that period left no trace an archivist could reach. He is described only in the superlative: *a great dragon, the most powerful known*. The next fixed point is the bargain at the court of King Jarret Ilwenarn and the death of the child Prince Kaius. Between the two there is nothing at all, and the Empire has spent an unknown number of centuries making sure of it.
+His origin is not recorded. Armhair places him before the elves came to Khorvaire — older than the entire elvish presence on the continent, and old enough that whatever he was doing in that period left no trace an archivist could reach. He is described only in the superlative: *a great dragon, the most powerful known*. Saturnia's people tell the middle of it: as the Crimson Sun he mated with Minara Vol, their child was Erandis Vol, and the dragons of Argonnessen and the elves of Aerenal exterminated the House of Vol and all but destroyed him protecting her. His essence, reduced to a tiny fraction in an artifact, was kept for millennia by the houses of Dwyn, Crona and Qualanthri. The next fixed point is the bargain at the court of King Jarret Ilwenarn and the death of the child Prince Kaius, and the Empire has spent an unknown number of centuries cleaning the record of all of it.
 
 ## The Bleeding of Valtrex
 
-Whichever account is true, the Empire has spent three years drawing dragon blood off a living black dragon on a rig built to harpoon, restrain and drain him, and shipping it out by lightning rail. Armhair, who had no idea the rig existed, volunteered that dragon blood is an alchemical reagent of extraordinary power. Valtrex, who had no idea what Armhair had written, testified that Uriel used his stolen blood to sire her heirs.
+The Empire spent three years drawing dragon blood off a living black dragon on a rig built to harpoon, restrain and drain him, and shipping it out by lightning rail. Armhair, who had no idea the rig existed, volunteered that dragon blood is an alchemical reagent of extraordinary power. Valtrex, who had no idea what Armhair had written, testified that Uriel used his stolen blood to sire her heirs. Below the Lazaret's hospital the same work went on with the gold dragon Aurorix, whose blood was mixed with that of mortals into the potion that sustains the Emperor.
 
 ## Right now
 
-Master Armhair set out for the Korramont to find Valtrex and finish his book, expecting to die. The Inevitables gave him the Crown of Seven Stars to bargain with and did not tell him it was cursed. His manuscript is the only complete account of Viagra in existence.
+He lies in torpor at the residence on the Summer Palace grounds, sustained on the blood potion while his essence is stolen, and the Empress is in labour with his fourteenth child. E'noch Qualanthri, who put him in that body, is destroyed. Master Armhair set out for the Korramont to find Valtrex and finish his book, expecting to die. The Inevitables gave him the Crown of Seven Stars to bargain with and did not tell him it was cursed. His manuscript is the only complete account of Viagra in existence.
 
 ## Personality Characteristics
 
-**Motivation** — Unknown. Inferred, at most, from a bargain struck with a dying king's household.
+**Motivation** — To survive his own end and take his full form again as an ancient dragon, which the mortal body never allowed.
 
 **Likes & Dislikes** — Not recorded.
 
@@ -112,8 +120,11 @@ Master Armhair set out for the Korramont to find Valtrex and finish his book, ex
 **Contacts & Relations**
 
 - **King Jarret Ilwenarn** — came to him with a bargain, per Armhair. Long dead.
-- **Prince Kaius** — the sick child who died and was replaced, per Armhair.
-- **Emperor Kaius III** — the same being, per Armhair; a vampire fed on dragon blood, per LeBeefe. Comatose these ten years, and has not sat the Throne of Bones in that time.
+- **Prince Kaius** — the sick child who was killed and replaced.
+- **[Emperor Kaius III](/people/emperor-caius-iii/)** — the same being. Made a vampire by E'noch; held in torpor these ten years, and has not sat the Throne of Bones in that time.
+- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** and **[Varyn Crona](/people/varyn-crona/)** — put his essence in the child. Varyn's sword took a large piece of his power, and E'noch's blood is the one he craves. Both destroyed.
+- **Aurorix** — a gold dragon who fought him long ago, and gave his name to the party.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress, who bears his children.
 - **Erandis Vol** — connected to her birth and to the Mark of Death by a thread in the recovered manuscript.
 - **Valtrex** — a black dragon descended from the First, whose father Armhair's manuscript identifies.
 - **Master Armhair** — his only biographer, en route to the Korramont with a cursed crown.

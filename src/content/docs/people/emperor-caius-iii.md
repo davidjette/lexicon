@@ -1,6 +1,6 @@
 ---
 title: Emperor Kaius III
-description: Comatose for ten years, still signing death warrants. One scholar says he is an ancestral dragon; a dead necromancer says he is a vampire.
+description: The dragon Viagra in the body of a murdered prince, made a vampire on E'noch Qualanthri's blood, and held in torpor behind a false coma.
 tags:
   - Emperor Kaius III
   - Kaius III
@@ -14,6 +14,10 @@ tags:
   - Korth
   - Pax Imperium
   - House of Kaius
+  - Crimson Sun
+  - Dragon Emperor
+  - E'noch Qualanthri
+  - Aurorix
 image:
   src: /images/gallery/emperor-caius-iii-detail.webp
   alt: Emperor Caius III in the dream
@@ -25,11 +29,11 @@ fields:
   rpgAlignment: Unknown
   ggmtitle: Emperor of the Pax Imperium; Kaius III of Karrnath; the Third of his Name
   dobDisplay: Unknown - the official date is disputed by Master Armhair's manuscript
-  birthplace: Unknown - Armhair holds that the prince born to King Jarret Ilwenarn died and was replaced
+  birthplace: Karrnath; the prince born to the King of Galifar was killed in infancy and made the vessel of the dragon
   children: Fourteen daughters by Empress Uriel Qualanthri, many sets of twins, all under twelve. No son.
-  residence: The Great Imperial Palace, Korth - he has not sat the Throne of Bones in ten years; his comatose body lies at the Ivory Lazaret on the Summer Palace grounds upriver
+  residence: The Great Imperial Palace, Korth - he has not sat the Throne of Bones in ten years; his body lies in torpor in the hospice at the residence on the Summer Palace grounds upriver, beside the Ivory Lazaret
   gender: Male
-  age: Unknown. Officially a man in one lifetime; per Armhair, one continuous being across Kaius I, II and III.
+  age: Unknown. Officially a man in one lifetime; one continuous being across Kaius I, II and III, and far older as the dragon.
   eyes: Unknown
   hair: Unknown
   skin: Unknown - seen only in Gemma Corso's omen, as an emaciated old man bearing the Emperor's face
@@ -57,6 +61,10 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-08-22'
   - 'Oral Histories: The Inevitables, 2026-08-23'
   - Esther Crona, as revised by Nico, 2026-10-07
+  - sources/sessions/korth-2026-10-23-summary.md
+  - sources/sessions/korth-2026-10-30-summary.md
+  - sources/dave/2026-10-31-enoch-crona-release.md
+  - CANON.md 5ar
 published: '2026-09-10'
 wa:
   slug: emperor-caius-iii-person
@@ -70,11 +78,11 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Species disputed · Emperor of the Pax Imperium · House of Kaius · Comatose**
+**Dragon in a mortal body, and a true vampire · Emperor of the Pax Imperium · House of Kaius · Held in torpor**
 
-*Also known as:* Kaius III · Kaius III (as the death warrants are signed) · the Emperor · *and, if Master Armhair is right,* Kaius II, Kaius I, Prince Kaius, and a dragon named **Viagra**.
+*Also known as:* Kaius III (as the death warrants are signed) · Kaius II · Kaius I · Prince Kaius · the Emperor · the Dragon Emperor · the Crimson Sun · **[Viagra](/people/viagra/)**, his true name.
 
-**Emperor Kaius III** is the Emperor of the Pax Imperium and head of the House of Kaius, seated at the Great Imperial Palace in Korth. He has not sat on the Throne of Bones in ten years: he lies comatose upriver at the Ivory Lazaret, on the Summer Palace grounds, while his Empress [Uriel Qualanthri](/people/uriel-qualanthri/) bears his daughters and rules the [Black Doves](/organizations/the-black-doves/), the E.D.E.N. undead and the bells in his name, his Lord Commander murdered his entire [Council of 13](/organizations/the-council-of-13/) with his apparent blessing, and death warrants continue to issue over his signature. Two accounts of what he is are held by the Inevitables and neither has been confirmed: the loremaster Master Armhair holds that he is an ancient dragon named Viagra who replaced the dying Prince Kaius and has since reigned as Kaius I, Kaius II and Kaius III; the dead necromancer John C. LeBeefe told [Eric](/people/eric-the-cleric/) that he is a vampire descended from the Crimson Sun, kept as a vessel and fed dragon blood.
+**Emperor Kaius III** is the Emperor of the Pax Imperium and head of the House of Kaius, seated at the Great Imperial Palace in Korth. He is the dragon [Viagra](/people/viagra/), called the Crimson Sun, in a mortal body: the ailing son of the King of Galifar was killed in infancy and made the vessel of the dragon's essence by [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) and [Varyn Crona](/people/varyn-crona/), and he has reigned as Kaius I, Kaius II and Kaius III. When the dragon's transformation failed, E'noch made him a true vampire on E'noch's own blood. He has not sat on the Throne of Bones in ten years. The Empire says he lies comatose upriver at the Ivory Lazaret, on the Summer Palace grounds. The coma is a lie: he is held in torpor and sustained on a potion of dragon and mortal blood, while his essence is stolen and his Empress [Uriel Qualanthri](/people/uriel-qualanthri/) bears his daughters and rules the [Black Doves](/organizations/the-black-doves/), the E.D.E.N. undead and the bells in his name, his Lord Commander murdered his entire [Council of 13](/organizations/the-council-of-13/) with his apparent blessing, and death warrants continue to issue over his signature. The Inevitables carried two accounts of what he is for most of the war, Master Armhair's dragon and John C. LeBeefe's vampire, and in the Westhouse and under the Lazaret they learned that both were true.
 
 ## Physical description
 
@@ -88,7 +96,9 @@ The Great Imperial Palace stands at the southern end of the Great Plaza in Korth
 
 Publicly the Emperor was first given out to be in treatment for "a very serious illness needing special care 24/7", which he came down with after the High Council "was exposed as traitors and executed and hunted down". <small>(Oral Histories: The Inevitables, 2025-06-07)</small> Later the Empire said only that he is present. At the opening of POSÉ, [Supreme Admiral Vex d'Lyrandar](/people/supreme-admiral-vex-d-lyrandar/) asked [Esther Crona](/people/esther-crona/) directly whether the Emperor was well enough to attend the Summit, and got the whole of Imperial policy on the subject in two sentences — including a pronoun nobody in the room remarked on.
 
-Privately the Empire is a machine running on a signature. The man in the palace is comatose. His Empress bears his children — fourteen daughters, many sets of twins, all under twelve years old — and rules the [Black Doves](/organizations/the-black-doves/), the **E.D.E.N.** undead and the bells in his name. His Lord Commander murdered his entire [Council of 13](/organizations/the-council-of-13/) with his apparent blessing. His courts condemn on the doctrine that submission to the court *is* submission to him. Nothing in Karrnath needs him awake.
+Privately the Empire is a machine running on a signature. The man at the Lazaret is held in torpor. His Empress bears his children — fourteen daughters, many sets of twins, all under twelve years old — and rules the [Black Doves](/organizations/the-black-doves/), the **E.D.E.N.** undead and the bells in his name. His Lord Commander murdered his entire [Council of 13](/organizations/the-council-of-13/) with his apparent blessing. His courts condemn on the doctrine that submission to the court *is* submission to him. Nothing in Karrnath needs him awake.
+
+The coma itself is the Empire's lie. The Sisters of the Blood are taught to wash him and his blood anoints those admitted to the residence, a hunting lodge now turned mostly into a hospice. The Black Doves told General Thar he was in surgery, with measures meant "to prolong and enhance his life and lucidness". The gold dragon Aurorix, held for years below the hospital and bled for the potion, heard the truth of it from the people doing it. <small>(Korth Ep 19, Korth Ep 20)</small>
 
 Uriel moved him out of Korth, "away from factions who had other aims". <small>(Oral Histories: The Inevitables, 2025-10-19)</small> Supreme Admiral Vex d'Lyrandar took his orders from the Emperor, "so he somehow doesn't know/doesn't believe that the emperor is fully comatose". <small>(Oral Histories: The Inevitables, 2026-06-19)</small> Of the Thronehold Summit: "The Emperor, who through his spokes people, has been very skeptical of it as well, calling the Rebels in Sharn and Talenta traitors and deathbound but leaving room for terms with the larger forces approaching his capital. Rumors are that the Emperor is considering a personal appearance at the Summit." <small>(Oral Histories: The Inevitables, 2026-06-06)</small>
 
@@ -102,7 +112,7 @@ An Imperial report on [the Blood of Vol](/organizations/blood-of-vol/) describes
 
 ## TWO ACCOUNTS OF HIS NATURE
 
-The Inevitables hold two independent explanations of what the Emperor actually is. They came from different continents' worth of research, and they do not agree. Neither has been confirmed.
+The Inevitables held two independent explanations of what the Emperor actually is. They came from different continents' worth of research, and for a long time they seemed not to agree. Both proved true.
 
 ### THE ACCOUNT OF MASTER ARMHAIR — THE DRAGON VIAGRA
 
@@ -110,7 +120,7 @@ Delivered at midnight in the lower plaza of Korth by an elderly half-elf loremas
 
 A great dragon called **Viagra**, the most powerful known and said to have toyed with the forces that govern reality, vanished from the record long before the elves came to Khorvaire. Armhair traced evidence of it well past that disappearance. He believes it came to **King Jarret Ilwenarn** of Karrnath with a bargain the king accepted; that the sick child **Prince Kaius** died and was replaced; and that **Kaius III is that dragon, and is the same being as Kaius I**. His method was contemporaneous accounts and courtiers' journals since scrubbed from the archives — including unusual inconsistencies in the funeral accounts of Kaius I. His manuscript further runs a thread through the **Mark of Death**, the birth of **Erandis Vol**, and this same dragon.
 
-**He named his own weakest point.** Armhair was candid that the Emperor's reported illness does not fit his hypothesis. A dragon of that magnitude has no business lying comatose for ten years.
+**He named his own weakest point.** Armhair was candid that the Emperor's reported illness does not fit his hypothesis. A dragon of that magnitude has no business lying comatose for ten years. It was the right objection: the coma is a lie.
 
 ### THE ACCOUNT OF JOHN C. LEBEEFE — THE VAMPIRE VESSEL
 
@@ -124,6 +134,16 @@ This account accounts for the coma, the rail shipments, the three-year bleeding 
 
 Both run through the Crimson Sun and both run through Vol. Valtrex testified that Erandis Vol bore a child by a dragon called the Crimson Sun; Armhair's manuscript ties the Mark of Death and Vol's birth to the dragon he believes sits the throne; LeBeefe's version makes the Emperor a descendant of the Crimson Sun by blood. Set against the Litany's promise that *"the dragon will be reborn,"* the Inevitables concluded that Uriel is trying to bear a son by a dragon — which is why she keeps bearing daughters, why the Emperor is kept comatose but alive, and why Valtrex was bled for three years. <small>Valtrex does not know Viagra exists. He believes Uriel's heirs are his.</small>
 
+### WHAT SETTLED THEM
+
+Saturnia, a neophyte Sister of the Blood and E'noch's granddaughter, told the party in the Westhouse: *"The Emperor is not a man. He is the dragon, whom we call the Crimson Sun."* In the Imperial Archive they found E'noch's unsent letters, which set out the whole design from the side of the people who carried it out. Set down on [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/), they record the false cure offered to the King of Galifar; the child killed and made a vessel; the dragon waking in the infant with the full consciousness of itself; a large piece of its power invested in the sword Varyn Crona carried, so that it could commit itself to a human body; and the turning, when the Dragon Emperor understood that he might live and die as Kaius and asked Crona and E'noch for a solution. Crona held his sword at E'noch's throat until the Emperor rose and drank. *"But even as a true vampire, he will be obsessed with my blood."*
+
+Under the Lazaret, in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/), the gold dragon Aurorix gave them the rest:
+
+> They sustain the Emperor. But his coma, it is a lie. They have the Emperor, who is no mortal, in torpor. E'noch turned him into a vampire to make him immortal, and his dragon blood was inflamed by this. But vampires have weaknesses, weaknesses that E'noch and his spawn have exploited. So they sustain him in this vile blood potion, but they steal his essence. If the Crimson Sun were to dawn again, it would mean the end of all things. They have done the world a favor by entrapping that member of my kin. His true name is Viagra.
+
+Armhair had the replacement and the name. LeBeefe had the vampire, the vessel and the dragon blood. Aurorix had fought the Crimson Sun *"the first time it tried to breed with this vile lot"*, and he holds that the Empress's children must die for the same reason: *"A half-dragon, half-elf with the Mark of Death would mean the end of all things."*
+
 ## Beliefs
 
 <small>From the Imperial record.</small> He believes his blood is divine and that he is father to all of Eberron. He believes his enemies are best undone by rumour placed in the right ears, and has leaked to a conspiracy cult to have terrorist acts committed on his behalf. He believes — or the courts that stand in for him do — that every subject is guilty of something, and that a corpse still owes the state a second service.
@@ -136,7 +156,7 @@ He signs. In a sealed Black Dove shrine under the Korramont, in the satchel of a
 
 The official history is dynastic and unremarkable: Kaius I, Kaius II, Kaius III, a line of Karrnathi kings become Emperors of the Pax Imperium, served across all three reigns by the same High Elf paladin under a title granted at the cradle. Priest **E'noch Qualanthri** performed a Sacred Rite over the newborn Kaius. The House of Kaius bought the Korramont roughly ten or eleven years ago — the mountain under which a black dragon was chained, collared and bled.
 
-Armhair's reconstruction replaces the dynasty with one continuous occupant. A dragon approached King Jarret Ilwenarn with a bargain; the sick prince of the Queen's Lullaby died and was replaced; the thing that took his place became Kaius I, then Kaius II, then Kaius III. Every record naming a specific dragon has since been removed from the Hall of Records by order, and Armhair's original manuscript was confiscated because his work led to questions the Empire did not want asked. <small>He hid a copy under a false index and gave the party the number. He then left for the Korramont to find Valtrex and finish the book, expecting to die doing it.</small>
+Armhair's reconstruction, since borne out, replaces the dynasty with one continuous occupant. A dragon approached King Jarret Ilwenarn with a bargain; the sick prince of the Queen's Lullaby died and was replaced; the thing that took his place became Kaius I, then Kaius II, then Kaius III. E'noch's letters say the bargain was his and Crona's, and that the king was never told his child would die. Every record naming a specific dragon has since been removed from the Hall of Records by order, and Armhair's original manuscript was confiscated because his work led to questions the Empire did not want asked. <small>He hid a copy under a false index and gave the party the number. He then left for the Korramont to find Valtrex and finish the book, expecting to die doing it.</small>
 
 Dave: "Crona summoned all that power to craft the Crimson Sun and summon the Mourning all to protect and coronate Caius III". <small>(Oral Histories: The Inevitables, 2026-07-08)</small> The elves have had designs on Eberron since they first came to it, and were defeated the last time, with House Vol. "Caius is the new house of vol and he and the Elves have made an empire, but the elves were ready to betray him, because they've been at it for a long time and have plans measured in centuries." <small>(Oral Histories: The Inevitables, 2026-07-13)</small> Dave: "What's clear is Kaius was clearly a key leader of this effort, and he had a whole host of evlish houses working to make him emperor" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-08-22)</small> The Council "turned on Varyn Crona and the long term plan". <small>(Oral Histories: The Inevitables, 2026-08-23)</small> Whether Kaius knew of and directed the Council's murder of Crona is not known. <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
@@ -161,7 +181,7 @@ Gemma Corso's warlock pact is not hers. Her adoptive father, Jane Corso, agreed 
 
 ## Right now
 
-He is comatose at the Ivory Lazaret upriver of Korth, ten years into an illness the Empire will not name, while his throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. The Empress is at the Ivory Lazaret with him, waiting for a son. Ten bells remain, at least one of them a Master casting in the tower attached to his own palace. And a warlock with an empty pewter box has just been handed sanctioned Imperial paperwork to walk up to his household and take an inventory.
+He is held in torpor at the residence on the Summer Palace grounds, ten years into an illness the Empire invented, while his throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. The Empress is in labour, at three centimetres at last report. E'noch, who made him and whose blood he craves, is destroyed. Aurorix has told the party what he is, and a warlock with an empty pewter box is a few hundred feet from his door with a Sister of the Blood who can anoint her. Ten bells remain, at least one of them a Master casting in the tower attached to his own palace.
 
 ![Emperor Kaius III with Sisters of the Blood - Ivory Lazaret.png](/images/uploads/emperor-kaius-iii-with-sisters-of-the-bl-mv1bx6ud.webp)
 *Emperor Kaius III with Sisters of the Blood - Ivory Lazaret*
@@ -176,7 +196,7 @@ He is comatose at the Ivory Lazaret upriver of Korth, ten years into an illness 
 
 ## Personality Characteristics
 
-**Motivation** — Unknown. Every stated motive in the record was stated on his behalf by somebody else.
+**Motivation** — To become what he was: E'noch's letters record the Dragon Emperor understanding that his transformation would not come, and asking for a solution. Every other stated motive in the record was stated on his behalf by somebody else.
 
 **Likes & Dislikes**
 
@@ -203,11 +223,14 @@ He is comatose at the Ivory Lazaret upriver of Korth, ten years into an illness 
 **Contacts & Relations**
 
 - [Uriel Qualanthri](/people/uriel-qualanthri/) — Empress; mother of fourteen daughters by him, all under twelve; currently at the Ivory Lazaret waiting for a son.
-- [Varyn Crona](/people/varyn-crona/) — Eternal Guardian, sworn from his cradle, head Paladin to three reigns. Dead.
+- [Varyn Crona](/people/varyn-crona/) — Eternal Guardian, sworn from his cradle, head Paladin to three reigns, and bearer of the sword that took a great part of his power. Dead.
+- [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) — made him a vessel and then a vampire; his blood is the one he craves. Destroyed.
 - [Gabrielle Duin](/people/gabriel-duin/) — consort, in hiding in the Imperial Palace; leads the Blood of Vol.
 - **Fanta Rhodes** — the Hand of Kaius III. Cloaked, race unrecorded, seat on the Council.
-- [Esther Crona](/people/esther-crona/) — Lord Commander; killed his entire Council with his apparent approval. Dead, Sharn Ep 18.
+- [Esther Crona](/people/esther-crona/) — Lord Commander; killed his entire Council with his apparent approval. Killed in Sharn Ep 18; alive again on a table under the hospital.
 - **Master Armhair** — the loremaster who says he is a dragon. Departed for the Korramont expecting to die.
 - **Valtrex** — the black dragon his Empire chained and bled for three years, and who believes the Empress's children are his own.
+- **Aurorix** — the gold dragon bled for his potion, who fought him long ago and named him to the party.
+- **Saturnia** — a neophyte Sister of the Blood, taught to wash him.
 
 **Hobbies & Pets** — Unknown. <small>The Empire keeps a black dragon in a collar under a mountain it bought.</small>

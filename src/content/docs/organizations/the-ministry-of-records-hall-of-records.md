@@ -67,7 +67,7 @@ On the third level of the Hall of Records sits a clerk — a non-binary dwarf �
 
 Master Armhair's original manuscript was confiscated, because his work led to questions the Empire did not want asked. He hid a copy in the Hall under a false index, catalogued as a treatise on the mating habits of creatures of the Underdark, and gave the Inevitables the number so that it would be preserved. He then left for the **Korramont** to find Valtrex and finish his book, expecting to die doing it.
 
-Retrieved, the manuscript contains a family tree of Eberron's dragons traced to the progenitors, an identification of Valtrex's father, and an extended thread connecting the **Mark of Death**, the birth of **Erandis Vol**, and the dragon Armhair believes is currently occupying the Imperial throne. Its central claim — that [Kaius III](/people/emperor-caius-iii/) is the ancestral dragon **Viagra**, and the same being as Kaius I — is set out on the Emperor's own article as one of two competing accounts. He named it a blasphemy of the highest order and invited the party to have him executed for it.
+Retrieved, the manuscript contains a family tree of Eberron's dragons traced to the progenitors, an identification of Valtrex's father, and an extended thread connecting the **Mark of Death**, the birth of **Erandis Vol**, and the dragon Armhair believes is currently occupying the Imperial throne. Its central claim — that [Kaius III](/people/emperor-caius-iii/) is the ancestral dragon **Viagra**, and the same being as Kaius I — is set out on the Emperor's own article, and has since been borne out. He named it a blasphemy of the highest order and invited the party to have him executed for it.
 
 ## THE BUNKER
 
