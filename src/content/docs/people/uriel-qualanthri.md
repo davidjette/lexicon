@@ -120,7 +120,7 @@ As a conscripted combat medic for the Pax Imperium, Uri is an angel of death on 
 
 Uriel came to Eberron against the wishes of her parents, who are elders in Aerenal and did notthink the high elves should get involved in the Great War. Uriel wanted to kill and use magic and got to do plenty of that. At some point, Uriel developed the Mark of Death. Haven’t filled in that detail yet of how or when. Either way, it means Uriel descends from the House of Vol, which was eradicated by humans, giants and “good” elves thousands of years ago. It’s leader, Erandis Vol, was the Queen of Death, a half dragon half elf that ruled over undeath. She’s Uriel’s ancestor. Uriel wants to be like her mother and fuck Kaius and give birth to the next Dragon/Elf demigod. She believes Kaius is a dragon in disguise, and may also be her relative from the same line. She believes the Vol bloodline is superior and should rule all of Eberron as an undead wonderland.
 
-Uriel is older than Kaius I, and was a neophyte when [Priest E'noch Qualanthri](/people/priest-e-noch-qualanthri/) and [Varyn Crona](/people/varyn-crona/) hatched their plan. <small>(Dave, sources/dave/2026-09-14-eberron-open-questions.md)</small> The age of 140 in her entry dates from the founding of the Unforeseen.
+Uriel is older than Kaius I, and was a neophyte when her grandfather, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/), and [Varyn Crona](/people/varyn-crona/) hatched their plan with [Viagra](/people/viagra/). <small>(Dave, sources/dave/2026-09-14-eberron-open-questions.md)</small> The age of 140 in her entry dates from the founding of the Unforeseen.
 
 In the short term, Uriel is working on death sex magic to be ready for the opportunity to carry the child of an evil undead dragon. She aims to expose and command the Black Doves and turn them into her own personal army of Necromantic warrior priests, on behalf of her future husband Kaius. <small>(That entry was written at the founding of the Unforeseen.)</small>
 
@@ -314,7 +314,9 @@ A rash, perverted psychopath under an austere uniform. She has a shallow underst
 
 **Contacts & Relations**
 
-- **Emperor Kaius III** — her husband, her patient and her prisoner. She put him in the coma herself. Comatose; father of her fourteen daughters; reported by Locke Pierce’s dossier and by LeBeefe’s lingering voice to be a vampire descended from the Crimson Sun, kept alive as a vessel and fed dragon blood.
+- **Emperor Kaius III** — her husband, her patient and her prisoner. She put him in the coma herself. Held in torpor behind a false coma; father of her fourteen daughters; the dragon Viagra in a body her grandfather made a vampire, sustained on a potion of dragon blood, as Locke Pierce’s dossier and LeBeefe’s lingering voice reported in part.
+- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — her grandfather, and the author of the plan she was raised to carry out. He held that she had failed in her mission and told his other grandchildren they were next in line. Destroyed under her hospital in Korth Ep 20.
+- **Saturnia** and **Lady Ophelia Qualanthri** — her cousins. Ophelia told the party she hated her and would be Empress next; she is destroyed. Saturnia is with the party.
 - **[Esther Crona](/people/esther-crona/)** — fellow founder of the Unforeseen, godmother to Esther’s son, and the woman who carried Uriel’s corpse out of the Sharn sewers. Dead. Her last command was Uriel’s death.
 - **[Gabrielle Duin](/people/gabriel-duin/)** — her commander in the Black Doves, the Emperor’s consort before her, and the woman she killed for the bedside. Officially missing; blame placed on Lady Glow.
 - **[Locke Pierce](/people/locke-pierce/)** — fellow founder, now her declared enemy, holding a weaponised recreation of the Mourning he has promised to use on the world if she rings first. Alive, and in the skies over Sharn.

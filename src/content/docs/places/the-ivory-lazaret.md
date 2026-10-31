@@ -1,6 +1,6 @@
 ---
 title: The Ivory Lazaret
-description: The white hospital in the mountains upriver of Korth where Uriel Qualanthri keeps the comatose Emperor; the Inevitables' destination.
+description: The white hospital in the mountains upriver of Korth, seat of the Holy Empress, with a vampires' lair and a buried sept of bones beneath it.
 tags:
   - The Ivory Lazaret
   - Ivory Lazarette
@@ -24,12 +24,12 @@ fields:
   location: The mountains upriver of Korth, on the Qarth road; Gemma's lead places it northeast of Qarth
   parentLocation: The Summer Palace grounds
   owner: Holy Empress Uriel Qualanthri
-  purpose: Houses the comatose Emperor; seat of the Holy Empress
+  purpose: Given out as the Emperor's convalescence; seat of the Holy Empress
   founding_date: Unknown
   architecture: Unknown; no member of the party has been inside
   contents: Unknown
   defenses: Unknown; Sister escorts work the road to it
-  inhabitants: The comatose Emperor, the Holy Empress and her Black Dove sisters; Lady Glow is rumoured to sing at the bedside
+  inhabitants: The Emperor, held in torpor, the Holy Empress and her Black Dove sisters; Lady Glow is rumoured to sing at the bedside
   sensory: Unknown
 sources:
   - sources/site/korth-episode-summaries.txt
@@ -61,7 +61,7 @@ The Ivory Lazaret is the white hospital in the mountains where the Holy Empress 
 
 ## The Emperor
 
-The Emperor lies comatose; Admiral Vex d'Lyrandar's fury at Thronehold was fed by the knowledge of it. Uriel, a cleric of Light from Aerenal and one of the [Black Doves](/organizations/the-black-doves/), has borne him fourteen daughters, many sets of twins, all under twelve years old — and the Inevitables' reading of the bell dossiers is that she is waiting for a specific event, possibly the birth of a male heir, before the bells are rung. Fulcrum's cover letter to the Chancellor adds one rumour about the bedside: that [Lady Glow](/people/lady-glow/), killed by Uriel and "stood back up as a music box", sings there, the sweetest voice in the world.
+The Emperor is given out as comatose, and Admiral Vex d'Lyrandar's fury at Thronehold was fed by the belief. The coma is a lie: he is held in torpor and sustained on a potion of blood. <small>(Korth Ep 20)</small> Uriel, a cleric of Light from Aerenal and one of the [Black Doves](/organizations/the-black-doves/), has borne him fourteen daughters, many sets of twins, all under twelve years old — and the Inevitables' reading of the bell dossiers is that she is waiting for a specific event, possibly the birth of a male heir, before the bells are rung. Fulcrum's cover letter to the Chancellor adds one rumour about the bedside: that [Lady Glow](/people/lady-glow/), killed by Uriel and "stood back up as a music box", sings there, the sweetest voice in the world.
 
 <small>Gemma's lead, from her time undercover in Korth, places the Lazarette in defensible mountains northeast of Qarth. No member of the party has yet been inside, and its interior is not described.</small>
 
@@ -114,6 +114,14 @@ The Tomb of Kaius I stands in the forecourt of Nos Matre, before the western nav
 
 ![The Tomb of Kaius I](/images/album/korth-ep-16-orientation-day-the-tomb-of-kaius-i.webp)
 *The Tomb of Kaius I.*
+
+## Under the hill
+
+A button under a dragon skull in the hospital's morgue opens a wall on stairs to a gate far older than the hospital. Behind it was the lair of [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) and his household, destroyed in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/): a dining hall, cells, a room of coffins standing in soil, a fountain under a shaft that runs up beneath the Tomb of Kaius I, and the pool of blood where the gold dragon Aurorix was bled for the Emperor's potion.
+
+A paved tunnel from the lair runs out against the Sept of Bones, an ancient stone structure buried in the soil, with dull chanting inside it and green light behind iron bars clogged with skulls. It lies almost directly under the Polygon. Aurorix told the party what it is:
+
+> A very, very long time ago, long before most of your kind ever came to this place, a people inhabited this forest. They worshipped an ancient god. It was a god of death, yes, but also a god of renewal, of recycling, of taking from what was lost what could still be gained. They built a sept here before there was a hill. A great sept of bones stood on this peninsula. Over the years it was buried, more and more bodies, buried in ceremonial graves all around this holy site, until people forgot that the temple was even here. They built another one on top of it. People think that one's ancient. But these fools, if they've dug up that place, are meddling in magics which they can never control or understand.
 
 **Places of Interest:**
 

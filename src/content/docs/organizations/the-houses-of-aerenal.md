@@ -76,7 +76,7 @@ Uriel later took the Black Doves from her. Dave: "the Black Doves which were a t
 
 [Uriel Qualanthri](/people/uriel-qualanthri/) is a high elf war cleric of Aerenal. Her parents are elders in Aerenal, and her longsword belonged to her grandmother, who lives among [the Undying Court](/organizations/the-undying-court/). She came to Eberron against her parents' wishes. She bears the Mark of Death, which marks her as a descendant of House Vol, and she is now Holy Empress.
 
-[E'noch Qualanthri](/people/priest-e-noch-qualanthri/) is the priest who performed the Eternal Guardian ritual with Varyn Crona at the [Forge of Binding](/places/the-forge-of-binding/) beneath Sharn, drawing on forbidden Vol rites. At the Forge, Varyn's echo named him in its last words, in Common after Aereni Elvish: "E’noch… Qualanthri… my brother…" <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
+[E'noch Qualanthri](/people/priest-e-noch-qualanthri/), the grandfather of Uriel and of Saturnia, was the wizard and necromancer who performed the Eternal Guardian ritual with Varyn Crona at the [Forge of Binding](/places/the-forge-of-binding/) beneath Sharn, drawing on forbidden Vol rites. At the Forge, Varyn's echo named him in its last words, in Common after Aereni Elvish: "E’noch… Qualanthri… my brother…" <small>(Oral Histories: The Inevitables, 2026-08-22)</small> The two were brothers in the plan and distant relatives through the House of Vol. E'noch was a vampire, and the party destroyed him under the [Ivory Lazaret](/places/the-ivory-lazaret/) in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/).
 
 ## House Crona
 
