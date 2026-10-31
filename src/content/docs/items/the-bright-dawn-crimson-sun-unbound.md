@@ -81,7 +81,7 @@ Varyn shaped the blade from **[Black Khyber — Shavat](https://davidjette.githu
 ![Vayrn Crona - Eternal Guardian and Enoch at the Forge of Binding.png](/images/uploads/vayrn-crona-eternal-guardian-and-enoch-a-mv1a2pi6.webp)
 *The Crimson Sun being forged at the Forge of Binding*
 
-The elemental enchantments were only one part of the ritual. E'noch layered forbidden [Vol](/organizations/house-vol/) magic over the binding, using a form of magic later identified as capable of calling, binding and unbinding souls. This additional rite anchored Varyn's blood and soul to the sword, creating a connection that endured beyond his death. Varyn understood the pact and entered it willingly; what remains uncertain is the full purpose of E'noch's additional magic and the ultimate design behind it.
+The elemental enchantments were only one part of the ritual. E'noch layered forbidden [Vol](/organizations/house-vol/) magic over the binding, using a form of magic later identified as capable of calling, binding and unbinding souls. This additional rite anchored Varyn's blood and soul to the sword, creating a connection that endured beyond his death. Varyn understood the pact and entered it willingly. E'noch's unsent letters give the purpose: to commit itself to a human body, the dragon called the Crimson Sun invested a large piece of its power in the binding, in the sword Varyn carried.
 
 The Crimson Sun was therefore both a weapon and the anchor of a supernatural bond. Its original material was Black Khyber, its name reflected the power invested in it, and its purpose was inseparable from Varyn's role as the Eternal Guardian.
 

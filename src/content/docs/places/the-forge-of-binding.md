@@ -70,7 +70,7 @@ The Forge was also the site of the **Rite of Recall**, the counter-rite that des
 
 The Forge's purpose is described in the Eternal Guardian writings: it can bind **oaths, spirits, weapons and command structures**. Its power reaches beyond ordinary enchantment, allowing a ritual to establish a connection between a person, a weapon and the forces that govern life and death. The full extent of the Forge's capabilities remains unknown, but the rites performed there left consequences that survived for years beyond their creation.
 
-Varyn and E'noch descended through the Dhakaani ruins beneath Sharn to perform the Eternal Guardian ritual. Varyn knowingly and willingly entered the pact, binding his blood and soul to the sword he forged from Black Khyber. E'noch layered forbidden Vol magic into the rite, introducing a form of magic later identified by [Renn Tal](/people/renn-tal/) as capable of calling, binding and unbinding souls. The precise purpose of E'noch's additional work, and the ultimate design behind the ritual, remain unresolved.
+Varyn and E'noch descended through the Dhakaani ruins beneath Sharn to perform the Eternal Guardian ritual. Varyn knowingly and willingly entered the pact, binding his blood and soul to the sword he forged from Black Khyber. E'noch layered forbidden Vol magic into the rite, introducing a form of magic later identified by [Renn Tal](/people/renn-tal/) as capable of calling, binding and unbinding souls. E'noch's unsent letters, found in the Westhouse, give the purpose: to commit itself to a human body, the dragon called the Crimson Sun invested a large piece of its power in the binding, in the sword Varyn carried.
 
 The Forge's significance was not understood when the party first encountered evidence of its workings. A stone golem fought in an ancient chamber along the Cogborn's route out of Sharn, along with an Ioun Stone recovered from that encounter, bore runes matching the writings Renn had been studying in her books. Those markings connected the ancient site and its guardians to the same body of knowledge that would eventually lead the party to the Forge.
 
@@ -101,7 +101,7 @@ Among the Echo's final words were fragments that suggested a far larger design:
 > As the blood is the power, and the blood flows through me, the power is mine.
 > E'noch... Qualanthri... my brother..."
 
-The Echo's reference to E'noch as *my brother* raised further questions about the relationship between the two men, the nature of their pact and the purpose of the bloodline mentioned in the fragment. Whether the word was literal or symbolic remains unknown. The Echo offered no further explanation.
+The Echo's reference to E'noch as *my brother* raised further questions about the relationship between the two men, the nature of their pact and the purpose of the bloodline mentioned in the fragment. The two were brothers in the plan and distant relatives through the House of Vol. The Echo offered no further explanation.
 
 ![Sharn Ep 15 — The Forge of Binding - Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona shatering.png](/images/uploads/sharn-ep-15-the-forge-of-binding-dario-e-mv1l2nm6.webp)
 *Dario, Eric and Gemma at the forge of Binding with the Echo of Vayrn Crona shatering*
@@ -136,7 +136,7 @@ At sunrise the following day, Esther spoke with [Richard Blaze](/people/richard-
 
 Her words offered little explanation of what she had sought or what she believed she had accomplished. The Forge's power was gone, Varyn's Echo had been destroyed, and the weapon's transformation had severed the connection through which Esther had heard him. Whether the lifting of the veil referred to the loss of that connection, the revelation of something she had been pursuing, or another realization remains uncertain.
 
-The Forge's destruction did not resolve the mysteries surrounding Varyn and E'noch. The meaning of the Echo's final words, the purpose of the Eternal Guardian ritual and the larger design behind the binding remain unanswered.
+The Forge's destruction did not explain what it had been used for. The larger design behind the binding came out later, in the Westhouse and under the Ivory Lazaret; see [E'noch Qualanthri](/people/priest-e-noch-qualanthri/).
 
 ## Right Now
 
@@ -144,4 +144,4 @@ The Forge's destruction did not resolve the mysteries surrounding Varyn and E'no
 
 The weapon survived. Once the Crimson Sun, forged from Black Khyber and transformed into Red Khyber through the Mourning, it crystallized into White Khyber — Siberys when the binding was broken. [Gemma Corso](/people/gemma-corso/) now wields it as her pact blade under its new name, [Bright Dawn (Crimson Sun Unbound)](/items/the-bright-dawn-crimson-sun-unbound/).
 
-The Forge's power is gone, but its legacy remains in the sword, in Esther's lost connection to Varyn, and in the unanswered questions surrounding E'noch Qualanthri and the ritual they performed beneath Sharn.
+The Forge's power is gone, but its legacy remains in the sword and in Esther's lost connection to Varyn. E'noch Qualanthri was destroyed with that sword in Korth Ep 20.

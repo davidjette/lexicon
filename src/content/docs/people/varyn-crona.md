@@ -48,6 +48,10 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-08-22'
   - 'Oral Histories: The Inevitables, 2026-08-23'
   - 'JL''s DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank'
+  - sources/sessions/korth-2026-10-23-summary.md
+  - sources/sessions/korth-2026-10-30-summary.md
+  - sources/dave/2026-10-31-enoch-crona-release.md
+  - CANON.md 5ar
 published: '2026-09-10'
 wa:
   slug: varyn-crona-person
@@ -95,7 +99,7 @@ Varyn's legacy is inseparable from [Esther Crona](/people/esther-crona/), whom h
 
 Very little is known about Varyn's early life. He was a High Elf of Aerenal who eventually came to Khorvaire, but no surviving record explains his family, education or the circumstances that brought him to the Empire. The surviving history begins with the birth of Prince [Kaius](/people/emperor-caius-iii/) in 843 YK, when King Jarot ir'Wynarn's son became the focus of a strange rite arranged by a priest known as **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)**.
 
-E'noch was said to serve the [Sovereign Host](/organizations/the-sovereign-host/), but the prayers he spoke during the ceremony were unfamiliar to those present. His strange conduct earned him the name *the Stranger* at court. After beginning the rite, E'noch departed and later returned from Aerenal with Varyn, declaring him the chosen guardian, the [Eternal Guardian](/people/varyn-crona/), of the newborn prince. Why E'noch selected Varyn, and what he recognized in the elf, remain unknown.
+E'noch was said to serve the [Sovereign Host](/organizations/the-sovereign-host/), but the prayers he spoke during the ceremony were unfamiliar to those present. His strange conduct earned him the name *the Stranger* at court. After beginning the rite, E'noch departed and later returned from Aerenal with Varyn, declaring him the chosen guardian, the [Eternal Guardian](/people/varyn-crona/), of the newborn prince. The two were distant relatives through the [House of Vol](/organizations/house-vol/).
 
 
 ## The Eternal Guardian
@@ -114,7 +118,7 @@ Varyn understood what he was entering into. He knowingly and willingly accepted 
 ![Darkforge Ritual_ Sword of Embers.png](/images/uploads/darkforge-ritual-sword-of-embers-mv0h837p.webp)
 *Vayrn Crona - Eternal Guardian and Enoch at the Forge of Binding*
 
-The result was more than a ceremonial title or an ordinary oath of service. Varyn became bound to a duty that would endure across centuries, protecting the Kaius dynasty through the reigns of **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)**. The Empire remembered his service as an extraordinary example of loyalty, but the deeper purpose of the binding remains unresolved. Why Varyn agreed to E'noch's larger plan, why Vol magic was required and how the pact related to Varyn's bloodline are among the central mysteries of his life.
+The result was more than a ceremonial title or an ordinary oath of service. Varyn became bound to a duty that would endure across centuries, protecting the Kaius dynasty through the reigns of **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)**. The Empire remembered his service as an extraordinary example of loyalty. The deeper purpose of the binding came out long after his death, in E'noch's unsent letters.
 
 ## The Crimson Sun
 
@@ -124,7 +128,7 @@ Varyn eventually became Master of [the Crimson Sun](/organizations/the-crimson-s
 
 Under Varyn's command, the Crimson Sun became one of Karrnath's most feared and capable institutions. After his death, [Hayman Maw](/people/hayman-maw/) inherited the Master's position and its Council seat.
 
-The name *Crimson Sun* appears elsewhere in the surviving evidence, including in connection with a mysterious dragon. Whether the organization, the weapon and the dragon share a deeper origin or purpose has never been established. Their shared name may be significant, but the available evidence does not explain the relationship.
+The sword and the secret service both carry the name of the dragon they were made to serve. The Crimson Sun is the dragon [Viagra](/people/viagra/), whose essence E'noch and Varyn placed in the infant Kaius, and a large piece of that dragon's power went into Varyn's sword.
 
 ## Three Emperors
 
@@ -140,7 +144,7 @@ Varyn's Crimson Sun was more than a military order. During his long tenure, the 
 
 The movement cultivated through the project would later become [the Blood of Vol](/organizations/blood-of-vol/), eventually growing beyond Imperial control. The surviving record does not establish whether Varyn personally designed Godseed, how much he knew about Gabrielle Duin's work or how well he understood the movement's eventual development.
 
-Other evidence connects the Crimson Sun to older powers and bloodlines that predated the Empire. [House Vol](/organizations/house-vol/), the Qualanthri family, the Blood of Vol and a dragon called the Crimson Sun all appear in the mysteries surrounding Varyn and his organization. How these connections fit together remains unknown, but they suggest that the Crimson Sun's history reached beyond its public role as an imperial secret service.
+Other evidence connects the Crimson Sun to older powers and bloodlines that predated the Empire. [House Vol](/organizations/house-vol/), the Qualanthri family, the Blood of Vol and a dragon called the Crimson Sun all appear in the mysteries surrounding Varyn and his organization. E'noch's letters show how they fit together: the Crimson Sun's history reached well beyond its public role as an imperial secret service.
 
 ## The Long Plan
 
@@ -151,7 +155,15 @@ Varyn was particularly secretive about the [Imperial Council](/organizations/the
 ![Esther at 18 and Vayrn Crona outside Great Imperial Palace and the Throne of Bones - Imperial City of Korth -  Seat of the Emperor’s power.png](/images/uploads/esther-at-18-and-vayrn-crona-outside-gre-mv0oahdm.webp)
 *Esther at 18 and Vayrn Crona outside Great Imperial Palace and the Throne of Bones - Imperial City of Korth*
 
-Later revelations connected the [Council of 13](/organizations/the-council-of-13/) to a larger conspiracy against Varyn and his long-term plan. The Council eventually turned against him, but the reasons for their opposition remain unclear. In the years that followed, [the Unforeseen](/organizations/the-unforeseen/) unknowingly set parts of that plan back into motion. The precise nature of Varyn's design, the extent of [Kaius III's](/people/emperor-caius-iii/) involvement, and whether the two ultimately sought the same outcome remain uncertain. Varyn's ambitions are clear, but the full design behind them has yet to be reconstructed.
+Later revelations connected the [Council of 13](/organizations/the-council-of-13/) to a larger conspiracy against Varyn and his long-term plan. The Council eventually turned against him, but the reasons for their opposition remain unclear. In the years that followed, [the Unforeseen](/organizations/the-unforeseen/) unknowingly set parts of that plan back into motion. Whether Varyn and [Kaius III](/people/emperor-caius-iii/) ultimately sought the same outcome remains uncertain.
+
+## The Letters
+
+In [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/) the party found E'noch's unsent letters in the Imperial Archive of the Westhouse, and they set out what Varyn had been part of. The houses of Crona, Qualanthri and Duin had kept the essence of the dragon called the Crimson Sun for millennia. E'noch and Varyn offered the King of Galifar a cure for his ailing heir, and told him his son would become very powerful and effectively immortal. They did not tell him the child would be killed and made a vessel for the dragon.
+
+To commit itself to a human body, the dragon invested a large piece of its power in the binding ritual with the sword Varyn carried. E'noch wrote that he was worried it would compound Crona's power and influence, and it did: Varyn became the Emperor's closest friend and adviser and something near an extension of the Emperor himself. When the Dragon Emperor understood that his transformation was not going to happen, he asked the two of them for a solution, and E'noch proposed to make him a vampire. The Emperor's terms were that Varyn would bind E'noch and hold the sword at his throat until the Emperor rose and drank. Varyn held it. E'noch kept his word.
+
+The two of them also devised what led to [the Mourning](/history/the-mourning/). After the [Council of 13](/organizations/the-council-of-13/) turned on them and Varyn was killed, E'noch carried on from under the [Ivory Lazaret](/places/the-ivory-lazaret/), breeding his own line with the Crimson Sun, until [Gemma Corso](/people/gemma-corso/) destroyed him with the sword they had made.
 
 ## The Last War: The Official Account
 
@@ -237,12 +249,12 @@ The Echo then shattered into red-black light, and the Forge of Binding went dark
 
 ## E'noch Qualanthri
 
-Varyn's relationship with **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** is one of the oldest mysteries surrounding him. E'noch selected Varyn, performed the Eternal Guardian rites with him and used forbidden Vol magic at the Forge of Binding. Varyn knowingly entered the pact, but the ultimate purpose of their arrangement remains unknown. E'noch later disappeared, leaving no surviving explanation of his identity or intentions.
+Varyn's relationship with **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** is one of the oldest mysteries surrounding him. E'noch selected Varyn, performed the Eternal Guardian rites with him and used forbidden Vol magic at the Forge of Binding. Varyn knowingly entered the pact. E'noch stayed in the background for centuries afterward, a high elf wizard and necromancer who made himself a vampire, and kept to a hidden lair.
 
 ![Priest E'noch Qualanthri.png](/images/uploads/priest-e-noch-qualanthri-mv0n7aza.webp)
 *Priest E'noch Qualanthri*
 
-Centuries later, Varyn's Echo called E'noch **"my brother."** The word may be literal, referring to blood kinship, or it may describe another form of relationship entirely. E'noch also carried the surname Qualanthri, shared by [Uriel Qualanthri](/people/uriel-qualanthri/), whose history leads into House Vol, the Mark of Death and the larger mystery surrounding Kaius III. No surviving record explains the relationship between E'noch, Varyn and the Qualanthri family, or why E'noch selected Varyn for the role he would play.
+Centuries later, Varyn's Echo called E'noch **"my brother."** They were brothers in the plan and distant relatives through the House of Vol, by way of the cadet houses of Crona and Qualanthri. E'noch was the grandfather of [Uriel Qualanthri](/people/uriel-qualanthri/). Their alliance was not an easy one: E'noch's letters worry at Crona's growing power, and the Emperor trusted Varyn's sword at E'noch's throat before he would drink.
 
 ## The Forge of Binding
 
@@ -258,11 +270,11 @@ Esther died carrying his sword and was later reanimated at the [Ivory Lazaret](/
 
 ## The Unanswered Questions
 
-Varyn's history leaves several major mysteries unresolved. Why did [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) choose him, what was E'noch's true identity, and why did he use Vol magic? Varyn willingly entered the Eternal Guardian pact, but what did he hope to accomplish through it, and how did he expect it to serve the larger plan? What did Varyn know about Kaius III, and did the two of them ultimately share the same ambitions?
+Varyn's history still leaves several mysteries unresolved. He willingly entered the Eternal Guardian pact, but what did he hope to accomplish through it, for himself and for Esther? Did he and Kaius III ultimately share the same ambitions?
 
-The purpose of the long-term plan remains uncertain, as do the reasons the [Council of 13](/organizations/the-council-of-13/) turned against Varyn and the extent of Kaius III's knowledge of the assassination. The Echo's use of the word "brother" raises questions about Varyn's relationship with E'noch, while its references to "our bloodline" and "bleed the sun" point toward a connection between the pact, Varyn's ancestry and the destruction of Cyre.
+The reasons the [Council of 13](/organizations/the-council-of-13/) turned against Varyn remain uncertain, as does the extent of Kaius III's knowledge of the assassination. The Echo's references to "our bloodline" and "bleed the sun" point toward a connection between the pact, Varyn's ancestry and the destruction of Cyre.
 
-The relationship between the Crimson Sun organization, the [Crimson Sun sword](/items/the-bright-dawn-crimson-sun-unbound/) and the dragon called the Crimson Sun also remains unexplained. So does Varyn's connection, if any, to House Vol, Uriel Qualanthri and the older Aereni bloodlines. Most importantly, the full purpose behind Varyn bringing the bleeding sun down over Cyre has not been established. The act caused the Mourning, but whether the destruction of the kingdom was his intended outcome or a consequence of a larger design remains unknown.
+Most importantly, the full purpose behind Varyn bringing the bleeding sun down over Cyre has not been established. The act caused the Mourning, but whether the destruction of the kingdom was his intended outcome or a consequence of a larger design remains unknown.
 
 Some of these questions may already have answers. They simply have not reached the record yet.
 
@@ -317,7 +329,7 @@ Varyn was secretive, controlling and ambitious. He raised a child he had purchas
 **Contacts & Relations**
 
 - **[Esther Crona](/people/esther-crona/)** — purchased as a five-year-old slave, then raised, educated, apprenticed and eventually taken as his lover. His chosen successor and wielder of the [Crimson Sun](/items/the-bright-dawn-crimson-sun-unbound/). Dead — later reanimated.
-- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — the mysterious priest who chose Varyn and performed the Eternal Guardian rites with him. Varyn knowingly entered the pact, and his Echo later called E'noch "my brother." Status unknown.
+- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — the mysterious priest who chose Varyn and performed the Eternal Guardian rites with him; his brother in the plan and a distant relative through the House of Vol. Varyn knowingly entered the pact, and his Echo later called E'noch "my brother." Destroyed by Gemma Corso.
 - **[Kaius I](/people/emperor-caius-iii/), [Kaius II](/people/emperor-caius-iii/) and [Kaius III](/people/emperor-caius-iii/)** — three reigns, one Eternal Guardian, sworn from the Emperor's birth.
 - **[Hayman Maw](/people/hayman-maw/)** — fellow member of the [Imperial Council](/organizations/the-imperial-council-imperial-assembly/), openly disliked by Varyn, and his successor as Master of [the Crimson Sun](/organizations/the-crimson-sun/).
 - **[Renn Tal](/people/renn-tal/)** — archivist who uncovered surviving records concerning Varyn, E'noch Qualanthri and the [Forge of Binding](/places/the-forge-of-binding/). Alive.
