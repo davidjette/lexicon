@@ -104,6 +104,8 @@ The Echo shattered into red-black light and hung in the air like blood splatter,
 
 E'noch Qualanthri has never been located, dated, or shown to be dead. The Forge of Binding is dark and in Esther Crona's hands as of that night; Esther is dead; Renn Tal survived, is in Sharn, and still believes the Eternal Guardian binding can be undone by a priest and a forge-worker. The party now travels with a runesmith.
 
+On 30 October 2026, in [Korth Ep 20 — The Dinner Party](/sessions/korth-ep-20-the-dinner-party/), the party found E'noch in a lair behind the morgue of the Lazaret's hospital. Beaten in two forms, he went to mist, and Gemma Corso destroyed him in his coffin with the Bright Dawn.
+
 ## Personality Characteristics
 
 **Motivation** — Unknown. No statement by him is recorded.
