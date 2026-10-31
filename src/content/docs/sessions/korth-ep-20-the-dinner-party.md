@@ -14,6 +14,8 @@ tags:
   - Mark of Death
   - Calcifer
   - Ada Lovelace
+  - Viagra
+  - Sept of Bones
 sidebar:
   order: 320
 type: report
@@ -22,6 +24,7 @@ icon: fa-scroll
 fields: {}
 sources:
   - sources/sessions/korth-2026-10-30-summary.md
+  - sources/dave/2026-10-31-enoch-crona-release.md
   - C:/dev/sharn-campaign/session-2026-10-30-summary.md
   - C:/dev/sharn-campaign/session-2026-10-30-dinner-party.transcript.txt
 published: '2026-10-31'
@@ -42,7 +45,7 @@ campaigns:
 
 In the archive, with the fire climbing the wall of the next room, Saturnia told them what her house had dreamed of: *"to all go back to this distant past where our kind mated with a dragon. And even though I thought it was a fantasy, it seems my grandfather has made it come true."* She had never met him. In Aerenal the undying court are Bael-Norn, undead in harmony with nature, and she called vampires a perversion of the same magic: *"It's why they were banned from Aerenal and fled to Khorvaire, for their work with the undead and magic of the blood, and for fornicating with dragons."*
 
-> **Saturnia:** I've been brought here to be a broodmare for this line.
+> **Saturnia:** I've been brought here to be a broodmare for this line. My cousin, she sits in the throne now, but I think if my grandfather had his way, she would step aside or die. She has failed in her mission.
 >
 > **Gemma:** So you just want to fuck a dragon, a hot dragon.
 >
@@ -128,17 +131,25 @@ Gemma's blast knocked the skull from her hands, and she turned invisible and was
 
 ### Aurorix
 
-The dragon's name is Aurorix, and he had been there for years. When Gemma mentioned [Valtrex](/species/valtrex/) he snorted fire and burned off her eyebrows: *"Shudder to think that my blood were mixed with his. He is a villain of the highest order."*
+The dragon's name is Aurorix, and he had been there for years, bled so that his blood could be mixed with that of mortals into a concoction that sustains the Emperor. When Gemma mentioned [Valtrex](/species/valtrex/) he snorted fire and burned off her eyebrows: *"Shudder to think that my blood were mixed with his. He is a villain of the highest order."*
 
 > **Aurorix:** I have foreseen you and this rescue. It will not end well. For me, that is for certain. But I am here. I will help you.
+>
+> **Aurorix:** They sustain the Emperor. But his coma, it is a lie. They have the Emperor, who is no mortal, in torpor. E'noch turned him into a vampire to make him immortal, and his dragon blood was inflamed by this. But vampires have weaknesses, weaknesses that E'noch and his spawn have exploited. So they sustain him in this vile blood potion, but they steal his essence. If the Crimson Sun were to dawn again, it would mean the end of all things. They have done the world a favor by entrapping that member of my kin. His true name is Viagra.
+>
+> **Gemma:** That tracks.
 
-He told them that a half-dragon, half-elf with the Mark of Death would mean the end of all things, and that the old Volite houses keep the mark secret while all their scions bear it. *"The Empress is just one among many. That one there, you should destroy as well."* He meant Saturnia, standing with her neck held closed and looking very like a young Uriel, where the fight had torn her robe to show a black mark running up from her midriff. Gemma refused. Aurorix knew the Bright Dawn by sight, and said it was Providence. He took a humanoid shape and walked ahead of them. *"Follow me."*
+He told them that a half-dragon, half-elf with the Mark of Death would mean the end of all things, and that the old Volite houses keep the mark secret while all their scions bear it. *"The Empress is just one among many. That one there, you should destroy as well."* He meant Saturnia, standing with her neck held closed and looking very like a young Uriel, where the fight had torn her robe to show a black mark running up from her midriff. Gemma refused. Aurorix knew the Bright Dawn by sight. He had fought the Crimson Sun the first time it tried to breed with these people, and he said it was Providence. E'noch, he told them, talked of nothing but the plot to breed with the Dragon Emperor, and brought his grandchildren in here to tell them they were next in line once his granddaughter died or failed for the final time. *"We have to finish destroying the Qualanthris. And the Dwyns. And the Cronas."* He took a humanoid shape and walked ahead of them. *"Follow me."*
 
 ### The coffins
 
 In the room of coffins Dario showed them how it was done. He opened one and dropped his sword through the heart of the sleeper, who struggled, boiled and went to dust. Gemma opened another and found E'noch with his arms crossed on his chest, very well preserved. She spoke, and drove the Bright Dawn in. Black smoke filled the room, a red light in his eyes flashed white, and he was gone to ash. Eric put his dagger through Trillo Dwyn, and Dario destroyed Ophelia and the rest. Afterward, Aurorix went and burned the spawn in their cells.
 
-At the mouth of the tunnel the dragon stopped. *"Something terrible is down there,"* he said. Gemma drew the Polygon in the dirt and asked what it was. *"It's a rhombus."* He kept walking. *"I believe our death lies in that direction."*
+At the mouth of the tunnel the dragon stopped.
+
+> **Aurorix:** Something terrible is down there. My God. It's still there then. A very, very long time ago, long before most of your kind ever came to this place, a people inhabited this forest. They worshipped an ancient god. It was a god of death, yes, but also a god of renewal, of recycling, of taking from what was lost what could still be gained. They built a sept here before there was a hill. A great sept of bones stood on this peninsula. Over the years it was buried, more and more bodies, buried in ceremonial graves all around this holy site, until people forgot that the temple was even here. They built another one on top of it. People think that one's ancient. But these fools, if they've dug up that place, are meddling in magics which they can never control or understand.
+
+Gemma drew the Polygon in the dirt and asked what it was. *"It's a rhombus."* He kept walking. *"I believe our death lies in that direction."*
 
 ### Back through the hospital
 
@@ -164,7 +175,11 @@ Esther's voice came through the mask, muffled and mechanical. On the way out Eri
 - E'noch was expecting Gemma Corso by name.
 - A gold dragon named Aurorix was held in a pool of blood there for years.
 - Aurorix says the Volite houses keep the Mark of Death secret, and that all their scions bear it. Saturnia does.
-- An ancient structure stuffed with bones lies buried under the hill.
+- The Sept of Bones, the temple of an ancient god of death and renewal, lies buried under the hill, almost directly below the Polygon.
+- The shaft over the vampires' fountain runs up beneath the Tomb of Kaius I.
+- Aurorix says the Emperor's coma is a lie: E'noch made him a vampire, and he is held in torpor on a potion of dragon blood while his essence is stolen.
+- Aurorix says the Emperor's true name is Viagra.
+- Saturnia says E'noch would have had Uriel step aside or die for failing in her mission.
 - Battle sisters stand under orders to ring the bell the instant an enemy reaches Nos Matre.
 - A force with cannon has landed on the beaches near the pilgrims' camp.
 
