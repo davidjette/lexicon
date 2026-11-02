@@ -89,7 +89,7 @@ Dario kicked the door in on a table of well-dressed elvish vampires eating morta
 
 Radiant light did terrible things to them. One, thrown down by Gemma, turned into a bat and flew off up a shaft over a white alabaster fountain, its walls set with skulls. The rooms beyond held coffins standing in soil and five starving spawn in cells. Gemma and Eric took off their stolen faces. *"Saturnia, I'd like you to meet the real us."* Looking over the old Aerenal gold on the table, Eric said: *"I said melt it and distribute it to the people."*
 
-Down a paved tunnel the tiling ran out against an ancient stone structure buried in soil, with dull chanting inside it and green light behind iron bars clogged with skulls. Eric heard a voice in his head: *"That insane bitch. Look what she's been doing. Even I wasn't this irresponsible. She's going to destroy everything."* Gemma forced a lever and a landslide of bones fell out. Then, behind them, Saturnia screamed.
+Down a paved tunnel the tiling ran out against an ancient stone structure buried in soil, with dull chanting inside it and green light behind iron bars clogged with skulls. Eric heard a voice in his head: *"That insane bitch. Look what she's been doing. Even I wasn't this irresponsible. She's going to destroy everything."* Eric forced a lever and a landslide of bones fell out. Then, behind them, Saturnia screamed.
 
 ### E'noch
 
