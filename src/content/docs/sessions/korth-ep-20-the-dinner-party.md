@@ -16,6 +16,9 @@ tags:
   - Ada Lovelace
   - Viagra
   - Sept of Bones
+image:
+  src: /images/album/korth-ep-20-the-dinner-party-the-last-fight.webp
+  alt: 'Eric, Gemma and Dario on Rum Tum against the master vampire'
 sidebar:
   order: 320
 type: report
@@ -59,6 +62,9 @@ Gemma cast *seeming*: herself as [Maelis Dorn](/people/sister-maelis-dorn/), Eri
 
 Dario, realising he had never heard Mary Christmas speak, only pointed down the stairs and glared. Asked after the Empress, a sister answered: *"She's at three centimeters, Sister."* All three drank from the fountain in the hall, and it refreshed them as a night's sleep would. Gemma tried to scry on [Uriel](/people/uriel-qualanthri/) with a dead fortune teller's crystal ball and saw only fog.
 
+![In the faces of Dorn, Mary Christmas and Lus Fayina, the party drinks at the Westhouse fountain with Saturnia](/images/album/korth-ep-20-the-dinner-party-the-fountain.webp)
+*In the faces of Dorn, Mary Christmas and Lus Fayina, the party drinks at the Westhouse fountain with Saturnia.*
+
 ### The hospital
 
 The main stair took them down to the concourse, where people stepped aside for Dorn with *"By her mercy."* A battle sister reported cannon fire near the pilgrims' camp, from a force that had landed on the beaches. Gemma told her to send the strongest toward it.
@@ -73,31 +79,67 @@ A nun asked Lus Fayina if she should go back to work. Eric: *"You should put you
 
 In a room of Sorrowful Sisters, [Esther Crona](/people/esther-crona/) lay strapped to a table with her chest open and a glowing red teardrop ruby wired in where her heart should be, her limbs and wings rebuilt with machinery, and a new mask on her face. *"Esther is not dead,"* Dario said. *"That's not a corpse."*
 
+![Esther Crona on the table among the Sorrowful Sisters, with the ruby in her chest](/images/album/korth-ep-20-the-dinner-party-esther-and-the-sisters.webp)
+*Esther Crona on the table among the Sorrowful Sisters, with the ruby in her chest.*
+
 Beyond her was the morgue, with a crematorium, a dragon skull and a button in the floor. Gemma thought Saturnia should be the one to step on it.
 
 > **Saturnia:** So I'm to meet my grandfather after all these decades. He wants to drink all of my blood and turn me into his slave, or preserve me as a virgin for my cousin's child to mate with, so that future emperor half-dragons can be Qualanthris.
 
 Three vampire spawn burst out of the coffins and one bit Saturnia to the floor. When they were dead the wall slid away and stairs rose to a gate much older than the hospital.
 
+![A vampire spawn seizes Saturnia as Dario fights another on the stairs](/images/album/korth-ep-20-the-dinner-party-the-spawn-and-saturnia.webp)
+*A vampire spawn seizes Saturnia as Dario fights another on the stairs.*
+
 ### The feast
 
 Dario kicked the door in on a table of well-dressed elvish vampires eating mortals from bowls of blood.
 
+![The party comes down the stairs on the feast, with Dario on Rum Tum](/images/album/korth-ep-20-the-dinner-party-the-door.webp)
+*The party comes down the stairs on the feast, with Dario on Rum Tum.*
+
 > **Vampire:** I didn't realize we had guests for dinner.
+
+![The vampires at table, with a mortal laid out among the dishes](/images/album/korth-ep-20-the-dinner-party-the-feast.webp)
+*The vampires at table, with a mortal laid out among the dishes.*
 
 > **Vampire:** Who are you to enter our lair, Director Inquisitor? You know this place is off-limits to you and your inferior blood. And what is this thing that you have tramping in here with feces on its paws?
 
+![Dario riding Rum Tum](/images/album/korth-ep-20-the-dinner-party-dario-and-rum-tum.webp)
+*Dario riding Rum Tum.*
+
 Radiant light did terrible things to them. One, thrown down by Gemma, turned into a bat and flew off up a shaft over a white alabaster fountain, its walls set with skulls. The rooms beyond held coffins standing in soil and five starving spawn in cells. Gemma and Eric took off their stolen faces. *"Saturnia, I'd like you to meet the real us."* Looking over the old Aerenal gold on the table, Eric said: *"I said melt it and distribute it to the people."*
 
+![Gemma and Eric fight the vampires across the feast](/images/album/korth-ep-20-the-dinner-party-the-fight-at-table.webp)
+*Gemma and Eric fight the vampires across the feast.*
+
 Down a paved tunnel the tiling ran out against an ancient stone structure buried in soil, with dull chanting inside it and green light behind iron bars clogged with skulls. Eric heard a voice in his head: *"That insane bitch. Look what she's been doing. Even I wasn't this irresponsible. She's going to destroy everything."* Eric forced a lever and a landslide of bones fell out. Then, behind them, Saturnia screamed.
+
+![Eric forces the lever at the bars clogged with skulls, with Gemma behind him](/images/album/korth-ep-20-the-dinner-party-the-lever.webp)
+*Eric forces the lever at the bars clogged with skulls, with Gemma behind him.*
 
 ### E'noch
 
 Behind the double doors a wall of blood-soaked rock ended in a round pool of blood, with a gold dragon half sunk in it. Saturnia lay on a table. Three vampires stood there: Lady Ophelia, who looked like the Empress, holding a skull; Lord Lieutenant Trillo Dwyn, in black armour; and a slight robed figure who turned his back on them.
 
+![The gold dragon half sunk in the pool of blood](/images/album/korth-ep-20-the-dinner-party-the-pool.webp)
+*The gold dragon half sunk in the pool of blood.*
+
+![Lady Ophelia, E'noch Qualanthri and Trillo Dwyn before the pool](/images/album/korth-ep-20-the-dinner-party-three-vampires.webp)
+*Lady Ophelia, E'noch Qualanthri and Trillo Dwyn before the pool.*
+
 > **E'noch:** Lady Ophelia, please make sure our guest is unharmed. Trillo, please destroy the dragonborn. Please save the woman for me.
 
+![Lady Ophelia with her skull](/images/album/korth-ep-20-the-dinner-party-lady-ophelia.webp)
+*Lady Ophelia with her skull.*
+
+![Eric and Gemma, with Dario on Rum Tum, face Ophelia, E'noch and Trillo](/images/album/korth-ep-20-the-dinner-party-the-party-faces-enoch.webp)
+*Eric and Gemma, with Dario on Rum Tum, face Ophelia, E'noch and Trillo.*
+
 He blighted Gemma when she shot at him: *"Do you think my granddaughter learned about disease on her own? We're all doctors in this family."* He covered the room in a *circle of death* and laid his hand on her, and she collapsed with her life going out of her. Eric's *cure wounds* got her up. Saturnia's throat was cut over a ritual ewer, and Ophelia bent down to drink.
+
+![Lady Ophelia turns her magic on Saturnia at the table](/images/album/korth-ep-20-the-dinner-party-ophelia-and-saturnia.webp)
+*Lady Ophelia turns her magic on Saturnia at the table.*
 
 E'noch raised his arms and spawn came out of the iron maidens along the wall. Eric clanged his dagger on his shield.
 
@@ -109,13 +151,37 @@ The turning burned the spawn and sent Ophelia clawing at the walls to get away. 
 
 She knew his *finger of death* would beat her father's amulet, and as she clutched it she heard his voice: *"You can't give up. I'm sorry I did this to you. But you gotta survive."* She lived, with her blood floating across the room and sinking into E'noch's skin. Eric called down Ada Lovelace, his celestial. Dario's smite blinded Trillo, and Gemma stabbed him in the back of the neck as he crawled for the stairs. He went to mist.
 
+![E'noch draws the blood out of the fallen Gemma](/images/album/korth-ep-20-the-dinner-party-enoch-and-gemma.webp)
+*E'noch draws the blood out of the fallen Gemma.*
+
+![Eric and his celestial Ada Lovelace attack E'noch](/images/album/korth-ep-20-the-dinner-party-eric-and-ada-lovelace.webp)
+*Eric and his celestial Ada Lovelace attack E'noch.*
+
+![Dario on Rum Tum over the blinded Trillo Dwyn](/images/album/korth-ep-20-the-dinner-party-dario-and-trillo.webp)
+*Dario on Rum Tum over the blinded Trillo Dwyn.*
+
+![Lord Lieutenant Trillo Dwyn, blinded, crawling for the stairs](/images/album/korth-ep-20-the-dinner-party-trillo-dwyn.webp)
+*Lord Lieutenant Trillo Dwyn, blinded, crawling for the stairs.*
+
 > **E'noch:** This is ridiculous! We've been planning this for centuries!
 
 Dario flew to the pool, put his hand on the dragon and said: *"By the light of the Silver Flame, awaken!"* It rose up out of the blood, and Dario came back and put Palefire through E'noch's body.
 
+![Dario lays his hand on the dragon and wakes him](/images/album/korth-ep-20-the-dinner-party-dario-wakes-aurorix.webp)
+*Dario lays his hand on the dragon and wakes him.*
+
+![Aurorix rises out of the pool of blood](/images/album/korth-ep-20-the-dinner-party-aurorix-rises.webp)
+*Aurorix rises out of the pool of blood.*
+
+![Sir Dario Argentino with Palefire](/images/album/korth-ep-20-the-dinner-party-dario-and-palefire.webp)
+*Sir Dario Argentino with Palefire.*
+
 ### The master vampire
 
 The blood on the floor boiled up into a long-eared, bat-winged creature with skin nearly ebony.
+
+![E'noch Qualanthri as the master vampire](/images/album/korth-ep-20-the-dinner-party-the-master-vampire.webp)
+*E'noch Qualanthri as the master vampire.*
 
 > **E'noch:** I have worked across the centuries, arranged dynasties, destroyed entire kingdoms. I have wrought hell on this continent. Only for you to come and defile my moment of glory. You will be but drops in the pond of blood in which I bathe my anus.
 >
@@ -123,7 +189,13 @@ The blood on the floor boiled up into a long-eared, bat-winged creature with ski
 >
 > **E'noch:** You are a failure. Your race is nothing. We are your superiors. We are your masters.
 
+![Eric, Gemma and Dario on Rum Tum against the master vampire](/images/album/korth-ep-20-the-dinner-party-the-last-fight.webp)
+*Eric, Gemma and Dario on Rum Tum against the master vampire.*
+
 Dario blinded him. His shriek shook the room. The dragon crashed into him and breathed fire in his face, and Saturnia got up, holding her throat, and went for her cousin with a dagger. The [Bright Dawn](/items/the-bright-dawn-crimson-sun-unbound/) burst his leg open down to the old bones. Eric drove his dagger upward and unseamed him from below, and he fell apart and went to mist.
+
+![Aurorix breathes fire in E'noch's face](/images/album/korth-ep-20-the-dinner-party-aurorix-breathes-fire.webp)
+*Aurorix breathes fire in E'noch's face.*
 
 > **Ophelia:** No, stop! Stop! I hate my cousin too! If you hit me, I'll kill her! I'll kill her and I'll become Empress and I'll do whatever you want! I'm the next one in line.
 
@@ -141,9 +213,18 @@ The dragon's name is Aurorix, and he had been there for years, bled so that his 
 
 He told them that a half-dragon, half-elf with the Mark of Death would mean the end of all things, and that the old Volite houses keep the mark secret while all their scions bear it. *"The Empress is just one among many. That one there, you should destroy as well."* He meant Saturnia, standing with her neck held closed and looking very like a young Uriel, where the fight had torn her robe to show a black mark running up from her midriff. Gemma refused. Aurorix knew the Bright Dawn by sight. He had fought the Crimson Sun the first time it tried to breed with these people, and he said it was Providence. E'noch, he told them, talked of nothing but the plot to breed with the Dragon Emperor, and brought his grandchildren in here to tell them they were next in line once his granddaughter died or failed for the final time. *"We have to finish destroying the Qualanthris. And the Dwyns. And the Cronas."* He took a humanoid shape and walked ahead of them. *"Follow me."*
 
+![Aurorix in his human shape, a yellow-haired young man](/images/album/korth-ep-20-the-dinner-party-aurorix-as-a-young-man.webp)
+*Aurorix in his human shape, a yellow-haired young man.*
+
+![Aurorix, in human shape, talks with the party beside the pool](/images/album/korth-ep-20-the-dinner-party-aurorix-and-the-party.webp)
+*Aurorix, in human shape, talks with the party beside the pool.*
+
 ### The coffins
 
 In the room of coffins Dario showed them how it was done. He opened one and dropped his sword through the heart of the sleeper, who struggled, boiled and went to dust. Gemma opened another and found E'noch with his arms crossed on his chest, very well preserved. She spoke, and drove the Bright Dawn in. Black smoke filled the room, a red light in his eyes flashed white, and he was gone to ash. Eric put his dagger through Trillo Dwyn, and Dario destroyed Ophelia and the rest. Afterward, Aurorix went and burned the spawn in their cells.
+
+![Gemma drives the Bright Dawn into E'noch in his coffin as Dario opens another](/images/album/korth-ep-20-the-dinner-party-the-bright-dawn.webp)
+*Gemma drives the Bright Dawn into E'noch in his coffin as Dario opens another.*
 
 At the mouth of the tunnel the dragon stopped.
 
@@ -159,6 +240,9 @@ Going back, Gemma stopped at Esther's table.
 
 The undead sister nodded.
 
+![Gemma, in the face of Maelis Dorn, bends over Esther Crona](/images/album/korth-ep-20-the-dinner-party-gemma-and-esther.webp)
+*Gemma, in the face of Maelis Dorn, bends over Esther Crona.*
+
 > **Gemma:** Your old general betrayed us. And he is working with your sister, Eden.
 >
 > **Esther:** Where is Calcifer?
@@ -166,6 +250,9 @@ The undead sister nodded.
 > **Gemma:** Alive.
 
 Esther's voice came through the mask, muffled and mechanical. On the way out Eric saw a mummified heart in a jar. They marched back along the concourse as a church bell began to ring the alarm, and came to the Westhouse fountain with sisters running to their posts.
+
+![Aurorix passing as a green-robed sister](/images/album/korth-ep-20-the-dinner-party-aurorix-as-a-sister.webp)
+*Aurorix passing as a green-robed sister.*
 
 ## Revelations
 

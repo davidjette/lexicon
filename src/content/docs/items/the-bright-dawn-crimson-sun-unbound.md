@@ -51,6 +51,9 @@ wa:
   slug: bright-dawn-item
   category: a6799932-d0b9-4f2e-b78a-0138654bd1ac
 gallery:
+  - src: /images/album/korth-ep-20-the-dinner-party-the-bright-dawn.webp
+    alt: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'
+    caption: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'
   - src: /images/gallery/2026-02-19-09.webp
     alt: Varyn Crona and E'noch at the forge
     caption: Varyn Crona and the red-hooded priest E'noch Qualanthri forge a blade on an anvil in a chamber of fire and red energy.

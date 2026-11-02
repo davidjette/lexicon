@@ -62,6 +62,12 @@ wa:
   uuid: bda32680-b078-40ff-a3b4-df5ef7d47d65
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
 gallery:
+  - src: /images/album/korth-ep-20-the-dinner-party-esther-and-the-sisters.webp
+    alt: 'Esther Crona on the table among the Sorrowful Sisters, with the ruby in her chest - Korth Ep 20, The Dinner Party'
+    caption: 'Esther Crona on the table among the Sorrowful Sisters, with the ruby in her chest - Korth Ep 20, The Dinner Party'
+  - src: /images/album/korth-ep-20-the-dinner-party-gemma-and-esther.webp
+    alt: 'Gemma, in the face of Maelis Dorn, bends over Esther Crona - Korth Ep 20, The Dinner Party'
+    caption: 'Gemma, in the face of Maelis Dorn, bends over Esther Crona - Korth Ep 20, The Dinner Party'
   - src: /images/album/korth-ep-16-orientation-day-the-sword.webp
     alt: Gemma and Esther both call the sword, and it hangs between them - Korth Ep 16, Orientation Day
     caption: Gemma and Esther both call the sword, and it hangs between them - Korth Ep 16, Orientation Day

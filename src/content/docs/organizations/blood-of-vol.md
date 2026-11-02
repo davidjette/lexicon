@@ -38,6 +38,12 @@ wa:
 campaigns:
   - the-unforeseen-strike-back
 gallery:
+  - src: /images/album/korth-ep-20-the-dinner-party-the-feast.webp
+    alt: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'
+    caption: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'
+  - src: /images/album/korth-ep-20-the-dinner-party-three-vampires.webp
+    alt: 'Lady Ophelia, E''noch Qualanthri and Trillo Dwyn before the pool - Korth Ep 20, The Dinner Party'
+    caption: 'Lady Ophelia, E''noch Qualanthri and Trillo Dwyn before the pool - Korth Ep 20, The Dinner Party'
   - src: /images/album/korth-ep-19-the-westhouse-saturnia.webp
     alt: 'Saturnia in the new red robes of a Sister of the Blood - Korth Ep 19, The Westhouse'
     caption: 'Saturnia in the new red robes of a Sister of the Blood - Korth Ep 19, The Westhouse'

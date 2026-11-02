@@ -73,6 +73,21 @@ image:
   src: /images/site/sir-dario-argentino-1.webp
   alt: Sir Dario Argentino
 gallery:
+- src: /images/album/korth-ep-20-the-dinner-party-dario-wakes-aurorix.webp
+  alt: 'Dario lays his hand on the dragon and wakes him - Korth Ep 20, The Dinner Party'
+  caption: 'Dario lays his hand on the dragon and wakes him - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-dario-and-palefire.webp
+  alt: 'Sir Dario Argentino with Palefire - Korth Ep 20, The Dinner Party'
+  caption: 'Sir Dario Argentino with Palefire - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-dario-and-rum-tum.webp
+  alt: 'Dario riding Rum Tum - Korth Ep 20, The Dinner Party'
+  caption: 'Dario riding Rum Tum - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-dario-and-trillo.webp
+  alt: 'Dario on Rum Tum over the blinded Trillo Dwyn - Korth Ep 20, The Dinner Party'
+  caption: 'Dario on Rum Tum over the blinded Trillo Dwyn - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-the-last-fight.webp
+  alt: 'Eric, Gemma and Dario on Rum Tum against the master vampire - Korth Ep 20, The Dinner Party'
+  caption: 'Eric, Gemma and Dario on Rum Tum against the master vampire - Korth Ep 20, The Dinner Party'
 - src: /images/album/korth-ep-19-the-westhouse-at-the-triumphal-gate.webp
   alt: 'General Thar with Majorbo and Veg at the Triumphal Gate of the Imperial Gardens - Korth Ep 19, The Westhouse'
   caption: 'General Thar with Majorbo and Veg at the Triumphal Gate of the Imperial Gardens - Korth Ep 19, The Westhouse'

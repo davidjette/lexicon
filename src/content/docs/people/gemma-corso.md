@@ -78,6 +78,18 @@ wa:
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+  - src: /images/album/korth-ep-20-the-dinner-party-the-bright-dawn.webp
+    alt: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'
+    caption: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'
+  - src: /images/album/korth-ep-20-the-dinner-party-the-fight-at-table.webp
+    alt: 'Gemma and Eric fight the vampires across the feast - Korth Ep 20, The Dinner Party'
+    caption: 'Gemma and Eric fight the vampires across the feast - Korth Ep 20, The Dinner Party'
+  - src: /images/album/korth-ep-20-the-dinner-party-enoch-and-gemma.webp
+    alt: 'E''noch draws the blood out of the fallen Gemma - Korth Ep 20, The Dinner Party'
+    caption: 'E''noch draws the blood out of the fallen Gemma - Korth Ep 20, The Dinner Party'
+  - src: /images/album/korth-ep-20-the-dinner-party-the-last-fight.webp
+    alt: 'Eric, Gemma and Dario on Rum Tum against the master vampire - Korth Ep 20, The Dinner Party'
+    caption: 'Eric, Gemma and Dario on Rum Tum against the master vampire - Korth Ep 20, The Dinner Party'
   - src: /images/album/korth-ep-19-the-westhouse-the-statue-of-uriel.webp
     alt: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
     caption: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'

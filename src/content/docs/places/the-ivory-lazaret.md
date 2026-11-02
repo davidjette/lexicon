@@ -51,6 +51,13 @@ wa:
   category: f80c9190-be4c-4471-bd22-2e9cced68451
 campaigns:
   - the-unforeseen-strike-back
+gallery:
+  - src: /images/album/korth-ep-20-the-dinner-party-the-feast.webp
+    alt: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'
+    caption: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'
+  - src: /images/album/korth-ep-20-the-dinner-party-the-pool.webp
+    alt: 'The gold dragon half sunk in the pool of blood - Korth Ep 20, The Dinner Party'
+    caption: 'The gold dragon half sunk in the pool of blood - Korth Ep 20, The Dinner Party'
 ---
 
 **Hospital and cloister · the mountains upriver of Korth, on the Qarth road · Seat of the Holy Empress · Standing**

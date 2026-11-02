@@ -59,6 +59,21 @@ wa:
   slug: priest-e26230393Bnoch-qualanthri-person
   category: 25384e32-6c51-426d-8263-5535b8295114
 gallery:
+- src: /images/album/korth-ep-20-the-dinner-party-the-bright-dawn.webp
+  alt: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'
+  caption: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-the-master-vampire.webp
+  alt: 'E''noch Qualanthri as the master vampire - Korth Ep 20, The Dinner Party'
+  caption: 'E''noch Qualanthri as the master vampire - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-aurorix-breathes-fire.webp
+  alt: 'Aurorix breathes fire in E''noch''s face - Korth Ep 20, The Dinner Party'
+  caption: 'Aurorix breathes fire in E''noch''s face - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-three-vampires.webp
+  alt: 'Lady Ophelia, E''noch Qualanthri and Trillo Dwyn before the pool - Korth Ep 20, The Dinner Party'
+  caption: 'Lady Ophelia, E''noch Qualanthri and Trillo Dwyn before the pool - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-eric-and-ada-lovelace.webp
+  alt: 'Eric and his celestial Ada Lovelace attack E''noch - Korth Ep 20, The Dinner Party'
+  caption: 'Eric and his celestial Ada Lovelace attack E''noch - Korth Ep 20, The Dinner Party'
 - src: /images/gallery/2026-02-19-09.webp
   alt: Varyn Crona and E'noch at the forge
   caption: Varyn Crona and the red-hooded priest E'noch Qualanthri forge a blade on an anvil in a chamber of fire and red energy.

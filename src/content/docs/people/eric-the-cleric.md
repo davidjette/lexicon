@@ -75,6 +75,15 @@ wa:
   uuid: 6f75a33c-5725-431e-9af8-a920ee57ecfe
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+- src: /images/album/korth-ep-20-the-dinner-party-eric-and-ada-lovelace.webp
+  alt: 'Eric and his celestial Ada Lovelace attack E''noch - Korth Ep 20, The Dinner Party'
+  caption: 'Eric and his celestial Ada Lovelace attack E''noch - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-the-lever.webp
+  alt: 'Eric forces the lever at the bars clogged with skulls, with Gemma behind him - Korth Ep 20, The Dinner Party'
+  caption: 'Eric forces the lever at the bars clogged with skulls, with Gemma behind him - Korth Ep 20, The Dinner Party'
+- src: /images/album/korth-ep-20-the-dinner-party-the-last-fight.webp
+  alt: 'Eric, Gemma and Dario on Rum Tum against the master vampire - Korth Ep 20, The Dinner Party'
+  caption: 'Eric, Gemma and Dario on Rum Tum against the master vampire - Korth Ep 20, The Dinner Party'
 - src: /images/album/korth-ep-19-the-westhouse-eric-and-the-bowl.webp
   alt: 'Eric, out of his seeming, holds Ilma Vitt''s bowl among the counting-house staff at the pilgrim camp - Korth Ep 19, The Westhouse'
   caption: 'Eric, out of his seeming, holds Ilma Vitt''s bowl among the counting-house staff at the pilgrim camp - Korth Ep 19, The Westhouse'
