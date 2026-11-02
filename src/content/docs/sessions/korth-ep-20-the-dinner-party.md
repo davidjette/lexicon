@@ -18,7 +18,7 @@ tags:
   - Sept of Bones
 image:
   src: /images/album/korth-ep-20-the-dinner-party-the-last-fight.webp
-  alt: 'Eric, Gemma and Dario on Rum Tum against the master vampire'
+  alt: Eric, Gemma and Dario on Rum Tum against the master vampire
 sidebar:
   order: 320
 type: report
@@ -105,9 +105,6 @@ Dario kicked the door in on a table of well-dressed elvish vampires eating morta
 
 > **Vampire:** Who are you to enter our lair, Director Inquisitor? You know this place is off-limits to you and your inferior blood. And what is this thing that you have tramping in here with feces on its paws?
 
-![Dario riding Rum Tum](/images/album/korth-ep-20-the-dinner-party-dario-and-rum-tum.webp)
-*Dario riding Rum Tum.*
-
 Radiant light did terrible things to them. One, thrown down by Gemma, turned into a bat and flew off up a shaft over a white alabaster fountain, its walls set with skulls. The rooms beyond held coffins standing in soil and five starving spawn in cells. Gemma and Eric took off their stolen faces. *"Saturnia, I'd like you to meet the real us."* Looking over the old Aerenal gold on the table, Eric said: *"I said melt it and distribute it to the people."*
 
 ![Gemma and Eric fight the vampires across the feast](/images/album/korth-ep-20-the-dinner-party-the-fight-at-table.webp)
@@ -172,9 +169,6 @@ Dario flew to the pool, put his hand on the dragon and said: *"By the light of t
 
 ![Aurorix rises out of the pool of blood](/images/album/korth-ep-20-the-dinner-party-aurorix-rises.webp)
 *Aurorix rises out of the pool of blood.*
-
-![Sir Dario Argentino with Palefire](/images/album/korth-ep-20-the-dinner-party-dario-and-palefire.webp)
-*Sir Dario Argentino with Palefire.*
 
 ### The master vampire
 
