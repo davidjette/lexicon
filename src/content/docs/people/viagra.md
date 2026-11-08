@@ -103,6 +103,8 @@ The Empire spent three years drawing dragon blood off a living black dragon on a
 
 He lies in torpor at the residence on the Summer Palace grounds, sustained on the blood potion while his essence is stolen, and the Empress is in labour with his fourteenth child. E'noch Qualanthri, who put him in that body, is destroyed. Master Armhair set out for the Korramont to find Valtrex and finish his book, expecting to die. The Inevitables gave him the Crown of Seven Stars to bargain with and did not tell him it was cursed. His manuscript is the only complete account of Viagra in existence.
 
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) Aurorix said that Viagra made Vol, that Viagra is perhaps the most powerful dragon to survive creation, and that killing it the first time cost a nation of giants and nearly all the elves and dragons. *"A body like this could never contain the full power of one of my kind. But whatever is being birthed, it will not be limited by that form."* The body of Kaius III burned on its bed that afternoon with the stake still in it. What that did to Viagra is not known. <small>(Korth Ep 21)</small>
+
 ## Personality Characteristics
 
 **Motivation** — To survive his own end and take his full form again as an ancient dragon, which the mortal body never allowed.

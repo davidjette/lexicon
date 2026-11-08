@@ -1,0 +1,9 @@
+# Episode 20: The Summer Palace
+
+*Played 2026-11-06 (Zoom, about six and a quarter hours). In the Lexicon's numbering this is Korth Ep 21. Gemma and Eric played; Dario was run at the table.*
+
+Saturnia anoints the party with the dragon's blood salve and leads them across the Emperor's gardens in the rain. Under the statue of Lathander they find Archbishop Pom Pilot of Arawai freshly murdered, with barefoot bloody footprints leading away; he rises as a revenant wight when Gemma takes his amulet of health. Three bone knights see through the party's disguises at the plaza and die, and a fourth falls in the girls' sunken garden.
+
+In the daughters' hall the Empress's girls see through the disguises and fight with dragon breath. Dario kills Purell and Muriel, and all the daughters but Drakiel and the baby Ysabel die. Gemma kills none of them. Dario would execute Drakiel, Eric will not sanction it, and Saturnia takes the two girls across the river for Aerenal. Kitsune lets Gemma off ("it's not the one that I want"), and Pom Pilot's ghost binds the amulet to her.
+
+Past a throne room of Sisters of the Blood and a war map twelve years out of date, they find Emperor Kaius III staked through the heart on his bed and fed blood by tube, and the Empress in labour beside him. Eric names himself Chancellor of Sharn, and his fireball sets the Emperor's bed alight. Dario kills Sister Marshall and Gemma stabs Uriel through the belly. Uriel says "Fine. Then if it's time, then it's time. He's coming. The night begins," vanishes, and the bell rings. Eric takes a mace of disruption; the dead sisters rise and are destroyed. The horn brings Dario out of the bell's madness, and the party flies on Aurorix, now a gold dragon, toward the ringing bell, racing Uriel there while tens of thousands of dead dig out of the burial ground.

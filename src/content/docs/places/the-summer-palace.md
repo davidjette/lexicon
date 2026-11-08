@@ -67,6 +67,8 @@ The Emperor's body lies here. Uriel moved him out of Korth, "away from factions 
 
 The Empress and her high sisterhood tend the ailing Emperor here and carry his commands. In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), [General Stockton Thar](/people/general-stockton-thar/) demanded to deliver his report to the Emperor in person. At the foot of the Stairs of Her Mercy a high sister, a very tall woman in black wearing a red mask at the head of a procession of sisters in red, told him the Emperor was very ill but had agreed to meet him in his garden on the morrow. <small>(Korth Ep 15)</small>
 
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party reached the residence across the gardens. It is a palace built as a hunting lodge and later made partly into a hospital. It has a front hall with trophies, a great round fireplace and a war table, a ballroom and throne room, the daughters' hall in one wing with a sunken garden for the girls, and the Emperor's bedchamber upstairs. Bone knights guard its doors, and the doors have no handle or lock; a Sister of the Blood's holy symbol opens them. The residence has its own ward against teleportation. When the party left it, it was burning. <small>(Korth Ep 21)</small>
+
 ## Present day
 
 Vice Admiral **Freyd Merkin** handed exactly that assignment to a woman wearing a dead advocate's face: travel to the Summer Palace, the Ivory Lazaret and the surrounding grounds; secure all records of the Grand Lodge; arrest any saboteurs or suspected pirates. The deadline was Monday. It was Friday morning. Failure to return carries a bounty on her head.

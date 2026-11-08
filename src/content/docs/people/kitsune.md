@@ -132,6 +132,10 @@ Gemma told him that what she does is for some semblance of normalcy in the world
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Gemma called Kitsune in a mirror at the Grand Lodge and asked whether what passed from her father to her would pass to a child of her own. He raised his hand: *"I solemnly swear that if you bring me the child unharmed, I will consider your obligation complete. You may keep everything I've given to you, and I will go on my way."* He did not answer when she asked what would happen if she died. Of Dario he said, *"He has found help. You should go to him. But be careful. Don't be followed."* <small>(Korth Ep 18)</small>
 
+## The daughters' hall
+
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/), after the fight in the daughters' hall, Kitsune lay on one of the girls' beds. *"That baby would have been pretty good. And if you get it for me, I won't be mad, but it's not the one that I want. You know which one I want."* He let Gemma off for then, promised to speak for her with the god whose amulet she had taken, and vanished. <small>(Korth Ep 21)</small>
+
 ## Social
 
 **Contacts & Relations**
