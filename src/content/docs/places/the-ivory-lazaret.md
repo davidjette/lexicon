@@ -52,6 +52,9 @@ wa:
 campaigns:
   - the-unforeseen-strike-back
 gallery:
+  - src: /images/album/korth-ep-21-the-summer-palace-uriel-at-the-bell.webp
+    alt: 'Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace'
+    caption: 'Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace'
   - src: /images/album/korth-ep-20-the-dinner-party-the-feast.webp
     alt: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'
     caption: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'

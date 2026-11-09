@@ -73,6 +73,15 @@ image:
   src: /images/site/sir-dario-argentino-1.webp
   alt: Sir Dario Argentino
 gallery:
+- src: /images/album/korth-ep-21-the-summer-palace-dario-and-uriel.webp
+  alt: 'Dario faces Uriel as the Emperor''s bed burns - Korth Ep 21, The Summer Palace'
+  caption: 'Dario faces Uriel as the Emperor''s bed burns - Korth Ep 21, The Summer Palace'
+- src: /images/album/korth-ep-21-the-summer-palace-a-daughter-screams.webp
+  alt: 'A daughter shrieks at Dario over her dead sisters - Korth Ep 21, The Summer Palace'
+  caption: 'A daughter shrieks at Dario over her dead sisters - Korth Ep 21, The Summer Palace'
+- src: /images/album/korth-ep-21-the-summer-palace-the-cursed-knights.webp
+  alt: 'Mary Christmas, Dorn and Lus Fayina fight a Cursed Knight, with Saturnia behind them - Korth Ep 21, The Summer Palace'
+  caption: 'Mary Christmas, Dorn and Lus Fayina fight a Cursed Knight, with Saturnia behind them - Korth Ep 21, The Summer Palace'
 - src: /images/album/korth-ep-20-the-dinner-party-dario-wakes-aurorix.webp
   alt: 'Dario lays his hand on the dragon and wakes him - Korth Ep 20, The Dinner Party'
   caption: 'Dario lays his hand on the dragon and wakes him - Korth Ep 20, The Dinner Party'

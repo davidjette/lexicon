@@ -75,6 +75,15 @@ wa:
   uuid: 6f75a33c-5725-431e-9af8-a920ee57ecfe
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+- src: /images/album/korth-ep-21-the-summer-palace-the-mace.webp
+  alt: 'Eric raises the mace of disruption among the dead sisters - Korth Ep 21, The Summer Palace'
+  caption: 'Eric raises the mace of disruption among the dead sisters - Korth Ep 21, The Summer Palace'
+- src: /images/album/korth-ep-21-the-summer-palace-the-gallery.webp
+  alt: 'Eric faces the sisters before the mace on its pedestal - Korth Ep 21, The Summer Palace'
+  caption: 'Eric faces the sisters before the mace on its pedestal - Korth Ep 21, The Summer Palace'
+- src: /images/album/korth-ep-21-the-summer-palace-ada-lovelace.webp
+  alt: 'Ada Lovelace, Eric''s celestial, sweeps among the sisters - Korth Ep 21, The Summer Palace'
+  caption: 'Ada Lovelace, Eric''s celestial, sweeps among the sisters - Korth Ep 21, The Summer Palace'
 - src: /images/album/korth-ep-20-the-dinner-party-eric-and-ada-lovelace.webp
   alt: 'Eric and his celestial Ada Lovelace attack E''noch - Korth Ep 20, The Dinner Party'
   caption: 'Eric and his celestial Ada Lovelace attack E''noch - Korth Ep 20, The Dinner Party'

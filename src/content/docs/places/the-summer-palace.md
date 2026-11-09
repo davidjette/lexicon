@@ -45,6 +45,16 @@ image:
   caption: 'The Summer Palace - Korth Episode: The Listening Post'
 campaigns:
   - the-unforeseen-strike-back
+gallery:
+  - src: /images/album/korth-ep-21-the-summer-palace-the-white-knight.webp
+    alt: 'The white-cloaked knight who watched the party cross the gardens - Korth Ep 21, The Summer Palace'
+    caption: 'The white-cloaked knight who watched the party cross the gardens - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-the-daughters.webp
+    alt: 'The Empress''s daughters in their hall - Korth Ep 21, The Summer Palace'
+    caption: 'The Empress''s daughters in their hall - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-the-emperors-bed.webp
+    alt: 'Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace'
+    caption: 'Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace'
 ---
 
 **Imperial retreat · upriver from Korth · Grounds of the Ivory Lazaret · Standing**

@@ -70,6 +70,12 @@ wa:
   slug: emperor-caius-iii-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
 gallery:
+  - src: /images/album/korth-ep-21-the-summer-palace-the-emperors-bed.webp
+    alt: 'Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace'
+    caption: 'Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-the-birthing-room.webp
+    alt: 'The Emperor on his bed and Uriel in labour beside him - Korth Ep 21, The Summer Palace'
+    caption: 'The Emperor on his bed and Uriel in labour beside him - Korth Ep 21, The Summer Palace'
   - src: /images/gallery/2026-08-10-03.webp
     alt: Gemma's dream of the fountain
     caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.

@@ -78,6 +78,18 @@ wa:
   uuid: 3b35188d-cbc5-458d-9576-282c6bc24835
   category: 094bd59a-b3dd-4fcc-935e-654a8b84742b
 gallery:
+  - src: /images/album/korth-ep-21-the-summer-palace-the-archbishops-body.webp
+    alt: 'Gemma, in the face of Maelis Dorn, kneels by the murdered archbishop as Mary Christmas and Lus Fayina look on - Korth Ep 21, The Summer Palace'
+    caption: 'Gemma, in the face of Maelis Dorn, kneels by the murdered archbishop as Mary Christmas and Lus Fayina look on - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-the-nursing-sister.webp
+    alt: 'Gemma stabs the nursing sister as she clutches the baby - Korth Ep 21, The Summer Palace'
+    caption: 'Gemma stabs the nursing sister as she clutches the baby - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-kitsune.webp
+    alt: 'Kitsune reclines on a four-poster bed and talks with Gemma - Korth Ep 21, The Summer Palace'
+    caption: 'Kitsune reclines on a four-poster bed and talks with Gemma - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-the-throne-room.webp
+    alt: 'Eric holds off the sisters'' magic as Gemma cuts one down - Korth Ep 21, The Summer Palace'
+    caption: 'Eric holds off the sisters'' magic as Gemma cuts one down - Korth Ep 21, The Summer Palace'
   - src: /images/album/korth-ep-20-the-dinner-party-the-bright-dawn.webp
     alt: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'
     caption: 'Gemma drives the Bright Dawn into E''noch in his coffin as Dario opens another - Korth Ep 20, The Dinner Party'

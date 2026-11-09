@@ -73,6 +73,15 @@ wa:
   uuid: 6f27454e-bbde-4a0f-b156-b568213e0dda
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
 gallery:
+  - src: /images/album/korth-ep-21-the-summer-palace-uriel-at-the-bell.webp
+    alt: 'Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace'
+    caption: 'Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-uriel-in-labour.webp
+    alt: 'Uriel in labour, held down by her sisters - Korth Ep 21, The Summer Palace'
+    caption: 'Uriel in labour, held down by her sisters - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-aurorix-and-uriel.webp
+    alt: 'Aurorix breathes fire on Uriel as her magic strikes Dario down - Korth Ep 21, The Summer Palace'
+    caption: 'Aurorix breathes fire on Uriel as her magic strikes Dario down - Korth Ep 21, The Summer Palace'
   - src: /images/album/korth-ep-19-the-westhouse-the-statue-of-uriel.webp
     alt: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
     caption: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'

@@ -38,6 +38,12 @@ wa:
 campaigns:
   - the-unforeseen-strike-back
 gallery:
+  - src: /images/album/korth-ep-21-the-summer-palace-sisters-of-the-blood.webp
+    alt: 'Sisters of the Blood in the throne room - Korth Ep 21, The Summer Palace'
+    caption: 'Sisters of the Blood in the throne room - Korth Ep 21, The Summer Palace'
+  - src: /images/album/korth-ep-21-the-summer-palace-the-three-sisters.webp
+    alt: 'Dario on Rum Tum, Eric and Aurorix fight the Sisters of the Blood in the daughters'' hall - Korth Ep 21, The Summer Palace'
+    caption: 'Dario on Rum Tum, Eric and Aurorix fight the Sisters of the Blood in the daughters'' hall - Korth Ep 21, The Summer Palace'
   - src: /images/album/korth-ep-20-the-dinner-party-the-feast.webp
     alt: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'
     caption: 'The vampires at table, with a mortal laid out among the dishes - Korth Ep 20, The Dinner Party'
