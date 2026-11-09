@@ -1,6 +1,6 @@
 ---
 title: The Emerald Claw
-description: The order of Vol loyalists that, with the Blood of Vol, has made a vehicle of the Black Doves under Empress Uriel, and that the Crimson Sun closely resembles.
+description: The order of Vol loyalists that made the Black Doves its vehicle under Empress Uriel. In this campaign it is the Crimson Sun, the dragon Viagra.
 type: organization
 kind: organizations
 tags:
@@ -50,5 +50,9 @@ He added: "So she can’t purge them all". <small>(Oral Histories: The Inevitabl
 Nico: "The Crimson Sun is basically The Order of the Emerald Claw". Dave: "Exactly". <small>(Oral Histories: The Inevitables, 2026-08-21)</small>
 
 The next day, after calling the elvish houses Duin, Qualanthri and Crona all striving remnants of [House Vol](/organizations/house-vol/), Dave wrote: "Emerald Claw > Crimson Sun". <small>(Oral Histories: The Inevitables, 2026-08-22)</small> See [the Houses of Aerenal](/organizations/the-houses-of-aerenal/).
+
+## The dragon
+
+In this campaign the Emerald Claw is the Crimson Sun: the dragon [Viagra](/people/viagra/), who with Minara Vol fathered Erandis Vol, and whose essence was put into the infant who became [Emperor Kaius](/people/emperor-caius-iii/). The goal of the conspiracy of the elvish houses was never only to raise the dragon. It was to mate it with the House of Vol again. In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) Aurorix told the party that Vol was an abomination created by Viagra.
 
 **Related:** [the Blood of Vol](/organizations/blood-of-vol/) · [House Vol](/organizations/house-vol/) · [the Black Doves](/organizations/the-black-doves/) · [the Crimson Sun](/organizations/the-crimson-sun/) · [the Houses of Aerenal](/organizations/the-houses-of-aerenal/).

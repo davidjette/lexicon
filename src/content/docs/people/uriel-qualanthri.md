@@ -263,6 +263,8 @@ Uriel does not leave the Emperor’s side. She waits on a son, and every daughte
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party found her in labour beside the Emperor's bed, insisting the child was not ready and demanding Esther. She murdered Archbishop Pom Pilot of Arawai in the Emperor's garden that afternoon. Eric's fireball set the Emperor's bed alight, and Gemma drove the Bright Dawn into her belly. *"Fine. Then if it's time, then it's time. He's coming. The night begins."* She vanished in a flash of white light, and the bell began to ring. When last seen she was flying for the bell in white robes with her scythe Mourning Dove, joined to the Polygon by a line of purple light, as the dead dug themselves out of the burial ground below. Her daughters are dead except Drakiel and Ysabel, and her head sister, Sister Marshall, was killed beside her. <small>(Korth Ep 21)</small>
 
+Her power comes from the millions of dead buried under the Lazaret's hill. The Polygon is fed by them and stores their power for her, and it is her projection and mind stone, through which she can speak and be seen anywhere in the valley. Like E'noch and Saturnia, she carries the Qualanthri blood, which gives her some hold on the Emperor.
+
 ---
 
 **Organizations / Groups:** Uriel is currently a member of the humanitarian medical organisation [The Black Doves](/organizations/the-black-doves/) and is a founding member of [The Unforeseen](/organizations/the-unforeseen/). She has since purged the Dove leadership by witch hunt and inducted the loyal remainder into a fertility cult.

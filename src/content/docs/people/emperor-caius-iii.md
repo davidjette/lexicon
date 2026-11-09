@@ -185,6 +185,10 @@ He is held in torpor at the residence on the Summer Palace grounds, ten years in
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party found him in his bedchamber in the residence, white-bearded and embalmed-looking, his chest held open with forceps and tension lines around a gold-tipped stake of petrified wood through his heart. A sister fed him blood by tube, and a tube ran from him to the Empress in labour on the next bed. Eric's fireball set the bed alight, Aurorix breathed on it, and his sisters could not put the fire out. When the party left he was black char on the burning bed with the stake still in him and his crown melting into the bedclothes. Something beneath the palace roared as he burned. <small>(Korth Ep 21)</small>
 
+**The rod.** The coma was a lie, and even the highest sisters believed it. Uriel staked him with a magical rod, the gold-tipped stake the party saw. It held him in torpor and left her able to breed with him, and she performed rites of sex and blood over him to conceive the heir. The rod's torpor spilled over the whole palace and its grounds: any living creature that entered fell asleep and did not wake until it was carried out, unless it was undead, of his blood or the Qualanthri blood, or anointed with the dragon's blood each Sister of the Blood puts on her brow at dawn. Pulling the rod would have ended that sleep and freed him, and freeing him would have been a mistake. He would have sat up and fed on the Empress's servants around his bed, and most likely killed whoever freed him. The ghost of [Varyn Crona](/people/varyn-crona/), bound to him in death, is hidden in the palace to stand over him if he is threatened.
+
+**Qualanthri blood** is a weakness of his. Anyone who carries it has some hold on him; Uriel, E'noch and Saturnia all carry it.
+
 ![Emperor Kaius III with Sisters of the Blood - Ivory Lazaret.png](/images/uploads/emperor-kaius-iii-with-sisters-of-the-bl-mv1bx6ud.webp)
 *Emperor Kaius III with Sisters of the Blood - Ivory Lazaret*
 
