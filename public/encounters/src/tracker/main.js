@@ -1,14 +1,14 @@
 // The battle tracker page: a table-side initiative tracker for the DM. The page itself is an
 // empty shell; every fight and stat block it shows comes out of the DM pack once unlocked.
 
-import '../data/encounters.js?v=mwfs3ebf';
-import { ALL, TRACKERS } from '../data/registry.js?v=mwfs3ebf';
-import { PARTY } from '../data/pcs.js?v=mwfs3ebf';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfs3ebf';
+import '../data/encounters.js?v=mwg113e4';
+import { ALL, TRACKERS } from '../data/registry.js?v=mwg113e4';
+import { PARTY } from '../data/pcs.js?v=mwg113e4';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwg113e4';
 import {
   ABILS, CONDITIONS, DAMAGE_TYPES, signed, rollExpr, rollD20, newState, cardOf, addCombatants, customCard, say, order, get,
-  rollInitiative, next, legendaryReady, roundEndItems, damage, heal, addCond, resolveCard,
-} from './core.js?v=mwfs3ebf';
+  rollInitiative, next, legendaryReady, roundEndItems, damage, heal, addCond, resolveCard, carryOver, applyCarry,
+} from './core.js?v=mwg113e4';
 
 const KEY = 'tracker-state-v1';
 const app = document.getElementById('app');
@@ -43,9 +43,23 @@ function act(fn) {
   render();
 }
 
-function startFight(id) {
+// `from`: the fight being left, when the DM moves on to another one. Its party walks in as it stands.
+function startFight(id, from) {
   const sc = TRACKERS.find((t) => t.id === id) || null;
+  const carry = from && sc && from.scenario !== id && from.list.some((c) => c.pc) ? carryOver(from, TRACKERS.find((t) => t.id === from.scenario) || null) : null;
   S = newState(sc);
+  if (sc && carry) {
+    S.carry = carry;
+    for (const t of sc.toggles || []) if (t.partyResist && carry.flags[t.key] !== undefined) S.flags[t.key] = carry.flags[t.key];
+    for (const p of sc.party || []) addCombatants(S, sc, `pc:${p}`, 1, 'pc');
+    const kept = S.list.filter((c) => !c.lair && applyCarry(S, sc, c)).map((c) => c.name);
+    S.rev = sc.rev || 0;
+    S.log = [];
+    if (kept.length) say(S, 'info', `Carried over from the last fight: ${kept.join(', ')}. The party keeps its hit points; anyone else keeps what they had already spent. Change anything that is wrong on its card.`);
+    undo = [];
+    save();
+    return;
+  }
   if (sc) {
     for (const p of sc.party || []) {
       const [c] = addCombatants(S, sc, `pc:${p}`, 1, 'pc');
@@ -83,7 +97,8 @@ function rollAction(c, a, ev, { alt = false } = {}) {
   } else if (a.heal) {
     const r = rollExpr(a.heal);
     say(S, 'roll', '', { kind: 'plain', who, label: a.name, detail: r.text, total: r.total });
-    if (/herself|himself|itself|self/i.test(a.name)) heal(S, c, r.total, a.name);
+    if (a.self || /herself|himself|itself|self/i.test(a.name)) heal(S, c, r.total, a.name);
+    if (a.hurts) for (const t of S.list.filter((x) => x.ref === a.hurts.ref && !x.dead)) damage(S, scenario(), t, [{ amt: a.hurts.amt, type: '' }], 1, a.name);
   } else if (dmg) {
     const parts = rollParts(dmg, false);
     const e = say(S, 'roll', '', { kind: 'dmg', src: c.id, who, label: a.name, parts, total: sum(parts) });
@@ -131,7 +146,7 @@ function condChips(c, withX) {
 
 function row(c, k, isCur) {
   const cls = ['row', c.side, isCur ? 'cur' : '', c.dead ? 'dead' : '', S.sel === c.id ? 'sel' : '', c.lair ? 'lair' : ''].join(' ');
-  const init = `<input class="init" data-i="init" data-id="${c.id}" data-fk="init:${c.id}" value="${c.init ?? ''}" inputmode="numeric" title="Initiative" ${c.lair ? 'disabled' : ''}>`;
+  const init = `<input class="init" data-i="init" data-id="${c.id}" data-fk="init:${c.id}" value="${c.init ?? ''}" inputmode="numeric" title="Initiative" ${c.lair || c.noTurn ? 'disabled' : ''}>`;
   if (c.lair) return `<div class="${cls}" data-a="sel" data-id="${c.id}">${init}<div class="who"><div class="nm">${esc(c.name)}</div><div class="sub">Lair action</div></div></div>`;
   const pips = k.leg ? `<span class="pips" title="Legendary actions left">${'&#9670;'.repeat(Math.max(0, c.legLeft))}${'&#9671;'.repeat(Math.max(0, k.leg - c.legLeft))}</span>` : '';
   return `<div class="${cls}" data-a="sel" data-id="${c.id}">
@@ -153,7 +168,7 @@ function orderPanel() {
     <h2>${setup ? 'Initiative' : `Round ${S.round}`}</h2>
     ${setup ? `<p class="hint">Type each player's roll in the box beside their name. Everything left blank is rolled when the fight begins.</p>
       <div class="bar"><button class="btn small" data-a="rollinit">Roll for the others now</button></div>` : ''}
-    <div class="rows">${rows}${rest ? `<div class="sep">No initiative yet</div>${rest}` : ''}</div>
+    <div class="rows">${rows}${rest ? `<div class="sep">${setup ? 'No initiative yet' : 'Not in the order'}</div>${rest}` : ''}</div>
   </section>`;
 }
 
@@ -181,6 +196,7 @@ function lairSheet(c) {
   const L = scenario() && scenario().lair;
   if (!L) return '';
   let body = `<p>${esc(L.text)}</p>`;
+  if (L.add) body += `<div class="bar"><button class="btn primary" data-a="lairadd">${esc(L.addLabel || 'Add them')}</button></div>`;
   if (L.save) {
     const sv = L.save;
     const targets = S.list.filter((t) => !t.lair && !t.dead && t.side === sv.side && !(sv.skipTypes || []).includes(card(t).type));
@@ -371,6 +387,7 @@ function applyAmt(id, sign) {
 const clicks = {
   next: () => act(() => next(S, scenario())),
   undo: () => { if (!undo.length) return; S = JSON.parse(undo.pop()); save(); render(); },
+  lairadd: () => act(() => { for (const [ref, n, side] of scenario().lair.add) addCombatants(S, scenario(), ref, n, side); }),
   reset: () => { if (!resetArmed) { resetArmed = true; render(); setTimeout(() => { resetArmed = false; render(); }, 4000); return; } resetArmed = false; const keep = JSON.stringify(S); startFight(S.scenario); undo = [keep]; render(); },
   theme: () => { const root = document.documentElement; const t = root.dataset.theme === 'dark' ? 'light' : 'dark'; root.dataset.theme = t; localStorage.setItem('lazaret-theme', t); },
   sel: (el) => { S.sel = el.dataset.id; save(); render(); },
@@ -402,7 +419,7 @@ const clicks = {
   }),
   die: (el, ev) => act(() => { const n = +el.dataset.n; if (n === 20) { const r = rollD20(modeOf(ev)); say(S, 'roll', '', { kind: 'plain', who: 'DM', label: 'd20', detail: d20Text(r), total: r.nat }); } else { const r = rollExpr(`1d${n}`); say(S, 'roll', '', { kind: 'plain', who: 'DM', label: `d${n}`, detail: r.text, total: r.total }); } }),
   expr: () => { const v = (document.getElementById('expr').value || '').trim(); if (!/\d/.test(v)) return; act(() => { const r = rollExpr(v); const e = say(S, 'roll', '', { kind: 'dmg', who: 'DM', label: v, parts: [{ amt: r.total, type: '', text: r.text }], total: r.total }); S.pick = null; void e; }); },
-  bench: (el) => act(() => { const b = scenario().bench[+el.dataset.n]; const made = addCombatants(S, scenario(), b.ref, b.n || 1, el.dataset.s); if (made[0]) S.sel = made[0].id; S.benchOpen = true; }),
+  bench: (el) => act(() => { const b = scenario().bench[+el.dataset.n]; const made = addCombatants(S, scenario(), b.ref, b.n || 1, el.dataset.s); if (made[0]) S.sel = made[0].id; for (const m of made) if (applyCarry(S, scenario(), m)) say(S, 'info', `${m.name} comes in as the last fight left them: ${m.hp} of ${m.maxHp}.`); S.benchOpen = true; }),
   lib: (el) => { const name = document.getElementById('libName').value.trim(); const n = Math.max(1, +document.getElementById('libN').value || 1); const tpl = Object.values(ALL).find((t) => t.name === name) || Object.values(ALL).find((t) => t.name.toLowerCase().startsWith(name.toLowerCase())); if (!name || !tpl) return; act(() => { addCombatants(S, scenario(), tpl.id, n, el.dataset.s); S.benchOpen = true; }); },
   custom: (el) => { const v = (id) => document.getElementById(id).value.trim(); if (!v('cuName')) return; const k = customCard({ name: v('cuName'), ac: v('cuAc'), hp: v('cuHp'), init: v('cuInit'), hit: v('cuHit'), dmg: v('cuDmg'), side: el.dataset.s }); act(() => { addCombatants(S, scenario(), k.id, 1, el.dataset.s, k); S.benchOpen = true; }); },
   wave: (el) => act(() => { const it = scenario().roundEnd[+el.dataset.n]; for (const [ref, n, side] of it.add) addCombatants(S, scenario(), ref, n, side); if (it.key) S.done[it.key] = true; }),
@@ -432,11 +449,11 @@ const changes = {
   notes: (el) => { get(S, el.dataset.id).notes = el.value; save(); },
   addcond: (el) => { let name = el.value; if (!name) return; if (name === '__custom') { name = (window.prompt('Condition') || '').trim(); if (!name) { el.value = ''; return; } } act(() => addCond(get(S, el.dataset.id), { name })); },
   addres: (el) => { const v = el.value; if (!v) return; act(() => { const c = get(S, el.dataset.id); c.resist = [...new Set([...(c.resist || []), v])]; say(S, 'info', `${c.name} now resists ${v}.`); }); },
-  scenario: (el) => { const keep = JSON.stringify(S); startFight(el.value || null); undo = [keep]; render(); },
+  scenario: (el) => { const keep = JSON.stringify(S); startFight(el.value || null, S); undo = [keep]; render(); },
   flag: (el) => act(() => {
     const k = el.dataset.k; S.flags[k] = el.checked;
     const t = (scenario().toggles || []).find((x) => x.key === k);
-    if (t && !el.checked && t.off) { say(S, 'alert', t.off.text); for (const c of S.list.filter((x) => x.ref === t.off.to && !x.dead)) damage(S, scenario(), c, t.off.dmg.map(([amt, type]) => ({ amt: +amt, type }))); }
+    if (t && !el.checked && t.off) { say(S, 'alert', t.off.text); if (t.off.to) for (const c of S.list.filter((x) => x.ref === t.off.to && !x.dead)) damage(S, scenario(), c, t.off.dmg.map(([amt, type]) => ({ amt: +amt, type }))); }
   }),
 };
 

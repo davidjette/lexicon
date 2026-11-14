@@ -2,8 +2,8 @@
 // order, turn flow with its stop points, damage and conditions. No page code here, so the
 // same file runs under node for tests.
 
-import { ALL } from '../data/registry.js?v=mwfs3ebf';
-import { PARTY } from '../data/pcs.js?v=mwfs3ebf';
+import { ALL } from '../data/registry.js?v=mwg113e4';
+import { PARTY } from '../data/pcs.js?v=mwg113e4';
 
 export const ABILS = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
 export const mod = (score) => Math.floor(((score ?? 10) - 10) / 2);
@@ -156,6 +156,7 @@ export function addCombatants(s, scenario, ref, n, side, card) {
       lrLeft: k.lr || 0, legLeft: k.leg || 0, uses: {}, spent: {}, fired: {}, notes: '', dead: false,
     };
     if (card) c.card = card;
+    if (k.object) c.noTurn = true; // a thing on the field (a cord, a door): it can be hit but takes no turns
     if (count) { c.count = count; c.hp = count; c.maxHp = count; }
     if (k.deathWard) c.ward = true;
     for (const a of k.actions) if (a.uses) c.uses[a.key] = a.uses;
@@ -179,12 +180,44 @@ export function addCombatants(s, scenario, ref, n, side, card) {
     }
   }
   // Once the fight is running, newcomers roll at once, one roll for the batch.
-  if (s.phase !== 'setup' && made.length) {
+  if (s.phase !== 'setup' && made.length && !k.object) {
     const r = rollD20();
     for (const c of made) c.init = r.nat + (k.init || 0);
     say(s, 'info', `${made.map((c) => c.name).join(', ')} ${made.length > 1 || made[0].count ? 'join' : 'joins'} the fight. Initiative ${r.nat}${signed(k.init || 0)} = ${made[0].init}.`);
   }
   return made;
+}
+
+// One fight following another (Nos Matre, then the Sept): what each creature brings with it.
+// The party's side keeps its hit points; a card with a carryKey also keeps what it has spent.
+const carryId = (k, c) => k.carryKey || k.from || c.ref;
+export function carryOver(prev, prevScenario) {
+  const out = { who: {}, flags: { ...(prev.flags || {}) } };
+  for (const c of prev.list || []) {
+    if (c.lair || c.count !== undefined || c.noTurn) continue;
+    const k = cardOf(prev, prevScenario, c);
+    if (!k) continue;
+    const id = carryId(k, c);
+    if (out.who[id]) continue;
+    out.who[id] = { side: c.side, hp: c.hp, maxHp: c.maxHp, temp: c.temp || 0, resist: c.resist || [], notes: c.notes || '', uses: { ...(c.uses || {}) }, lrLeft: c.lrLeft };
+  }
+  return out;
+}
+export function applyCarry(s, scenario, c) {
+  const k = cardOf(s, scenario, c);
+  const was = s.carry && k && s.carry.who[carryId(k, c)];
+  if (!was || c.count !== undefined) return false;
+  if (c.side === 'pc' && was.side === 'pc') {
+    c.hp = was.hp; c.maxHp = was.maxHp; c.temp = was.temp; c.notes = was.notes;
+    if (was.resist.length) c.resist = [...was.resist];
+    if (c.hp <= 0 && !c.pc) c.dead = true;
+  }
+  if (k.carryKey) {
+    for (const key of Object.keys(c.uses)) if (was.uses[key] !== undefined) c.uses[key] = Math.min(c.uses[key], was.uses[key]);
+    if (typeof was.lrLeft === 'number') c.lrLeft = Math.min(c.lrLeft, was.lrLeft);
+  }
+  delete s.carry.who[carryId(k, c)];
+  return true;
 }
 
 export function say(s, t, text, extra) {
@@ -207,7 +240,7 @@ export const get = (s, id) => s.list.find((c) => c.id === id);
 export function rollInitiative(s, scenario, { all = false } = {}) {
   const byRef = {};
   for (const c of s.list) {
-    if (c.lair || (c.init !== null && c.init !== '' && !all)) continue;
+    if (c.lair || c.noTurn || (c.init !== null && c.init !== '' && !all)) continue;
     if (c.pc && !all && s.phase === 'setup' && c.init === null && c.holdForPlayer) continue;
     const k = cardOf(s, scenario, c);
     const key = c.pc ? c.id : `${c.ref}|${c.side}`;
@@ -260,6 +293,8 @@ export function startTurn(s, scenario, c) {
   for (const p of k.turnStart || []) {
     if (p.flag && !s.flags[p.flag]) continue;
     if (p.notFlag && s.flags[p.notFlag]) continue;
+    if (p.rounds && !p.rounds.includes(s.round)) continue;
+    if (p.dmg) { if (c.hp > 0) damage(s, scenario, c, [{ amt: p.dmg, type: p.type || '' }], 1, p.text); continue; }
     if (p.heal) { if (c.hp > 0 && c.hp < c.maxHp) heal(s, c, p.heal, p.text); continue; }
     c.prompts.push(p);
   }
@@ -286,6 +321,7 @@ export function roundEndItems(s, scenario) {
   if (!scenario) return [];
   return (scenario.roundEnd || []).filter((it) => {
     if (it.flag && !s.flags[it.flag]) return false;
+    if (it.notFlag && s.flags[it.notFlag]) return false;
     if (it.key && s.done[it.key]) return false;
     if (it.rounds && !it.rounds.includes(s.round)) return false;
     if (it.from && s.round < it.from) return false;
@@ -354,7 +390,7 @@ export function damage(s, scenario, c, parts, mult = 1, why = '') {
   }
   say(s, 'hp', `${c.name} takes ${amt}${tail}: ${before} to ${c.hp} of ${c.maxHp}.`);
   (k.thresholds || []).forEach((th, i) => {
-    if (!c.fired[i] && before > th.at && c.hp <= th.at) { c.fired[i] = true; say(s, 'alert', `${c.name}: ${th.text}`); }
+    if (!c.fired[i] && before > th.at && c.hp <= th.at) { c.fired[i] = true; if (th.clear) s.flags[th.clear] = false; say(s, 'alert', `${c.name}: ${th.text}`); }
   });
   if (c.conc && rest > 0 && c.hp > 0) {
     const dc = Math.max(10, Math.floor(amt / 2));
