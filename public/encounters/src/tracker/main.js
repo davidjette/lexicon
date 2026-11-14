@@ -1,14 +1,14 @@
 // The battle tracker page: a table-side initiative tracker for the DM. The page itself is an
 // empty shell; every fight and stat block it shows comes out of the DM pack once unlocked.
 
-import '../data/encounters.js?v=mwfqr70b';
-import { ALL, TRACKERS } from '../data/registry.js?v=mwfqr70b';
-import { PARTY } from '../data/pcs.js?v=mwfqr70b';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfqr70b';
+import '../data/encounters.js?v=mwfr2swb';
+import { ALL, TRACKERS } from '../data/registry.js?v=mwfr2swb';
+import { PARTY } from '../data/pcs.js?v=mwfr2swb';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfr2swb';
 import {
   ABILS, CONDITIONS, signed, rollExpr, rollD20, newState, cardOf, addCombatants, customCard, say, order, get,
   rollInitiative, next, legendaryReady, roundEndItems, damage, heal, addCond, resolveCard,
-} from './core.js?v=mwfqr70b';
+} from './core.js?v=mwfr2swb';
 
 const KEY = 'tracker-state-v1';
 const app = document.getElementById('app');
@@ -25,7 +25,12 @@ function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch { 
 function load() {
   try {
     const got = JSON.parse(localStorage.getItem(KEY) || 'null');
-    if (got && got.v === 1 && (!got.scenario || TRACKERS.some((t) => t.id === got.scenario))) return got;
+    if (got && got.v === 1 && (!got.scenario || TRACKERS.some((t) => t.id === got.scenario))) {
+      // a fight not yet begun is set up again when its starting numbers have been changed
+      const sc = TRACKERS.find((t) => t.id === got.scenario);
+      if (sc && got.phase === 'setup' && (got.rev || 0) !== (sc.rev || 0)) return null;
+      return got;
+    }
   } catch { /* start fresh */ }
   return null;
 }
@@ -41,7 +46,14 @@ function act(fn) {
 function startFight(id) {
   const sc = TRACKERS.find((t) => t.id === id) || null;
   S = newState(sc);
-  if (sc) for (const p of sc.party || []) addCombatants(S, sc, `pc:${p}`, 1, 'pc');
+  if (sc) {
+    for (const p of sc.party || []) {
+      const [c] = addCombatants(S, sc, `pc:${p}`, 1, 'pc');
+      const at = (sc.partyHp || {})[p]; // [now, max] as the table stands
+      if (c && at) { c.hp = at[0]; c.maxHp = at[1]; }
+    }
+    S.rev = sc.rev || 0;
+  }
   S.log = [];
   undo = [];
   save();

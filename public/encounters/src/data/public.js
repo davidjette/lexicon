@@ -2,9 +2,9 @@
 // Sources: the campaign's own blocks for General Thar, the Red Bird, the Dark Druid and Fora Dollar,
 // as run on 2026-10-09.
 
-import { melee, ranged, save, multi, cond, prone, order, hold, healing } from './lib.js?v=mwfqr70b';
-import { breakAll } from '../engine/zones.js?v=mwfqr70b';
-import { ALL, register } from './registry.js?v=mwfqr70b';
+import { melee, ranged, save, multi, cond, prone, order, hold, healing } from './lib.js?v=mwfr2swb';
+import { breakAll } from '../engine/zones.js?v=mwfr2swb';
+import { ALL, register } from './registry.js?v=mwfr2swb';
 
 const X = {};
 const def = (id, t) => {

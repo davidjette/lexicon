@@ -1,14 +1,14 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mwfqr70b';
-import { AI } from '../engine/ai.js?v=mwfqr70b';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mwfqr70b';
-import { switchDefaults } from '../data/encounters.js?v=mwfqr70b';
-import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mwfqr70b';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfqr70b';
-import { PARTY } from '../data/pcs.js?v=mwfqr70b';
-import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwfqr70b';
-import { openInbox, setupInbox } from './inbox.js?v=mwfqr70b';
+import { Encounter } from '../engine/combat.js?v=mwfr2swb';
+import { AI } from '../engine/ai.js?v=mwfr2swb';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mwfr2swb';
+import { switchDefaults } from '../data/encounters.js?v=mwfr2swb';
+import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mwfr2swb';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfr2swb';
+import { PARTY } from '../data/pcs.js?v=mwfr2swb';
+import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwfr2swb';
+import { openInbox, setupInbox } from './inbox.js?v=mwfr2swb';
 
 const $ = (id) => document.getElementById(id);
 
@@ -680,7 +680,7 @@ function init() {
   renderAll(true);
   findPack().then((found) => { dmFound = found; renderDm(); });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mwfqr70b').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mwfr2swb').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 
