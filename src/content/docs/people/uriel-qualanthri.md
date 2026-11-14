@@ -1,6 +1,6 @@
 ---
 title: Uriel Qualanthri
-description: Founder of the Unforeseen, Black Dove combat medic, and now Holy Empress of the Pax Imperium a.k.a the White Death
+description: Founder of the Unforeseen, Black Dove combat medic, and Holy Empress of the Pax Imperium, the White Death, destroyed in the Sept of Bones.
 tags:
   - Uriel Qualanthri
   - Uriel
@@ -103,7 +103,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Female High Elf · Cleric of the Grave (in disguise as a Cleric of Light) · [The Black Doves](/organizations/the-black-doves/) and [The Unforeseen](/organizations/the-unforeseen/) · Holy Empress of the Pax Imperium · **Alive****
+**Female High Elf · Cleric of the Grave (in disguise as a Cleric of Light) · [The Black Doves](/organizations/the-black-doves/) and [The Unforeseen](/organizations/the-unforeseen/) · Holy Empress of the Pax Imperium · Dead ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
 **Also known as:** Uri · the Holy Empress · the White Death · the white queen · the Dragon Mother · Empress Uriel Qualanthri · the Penitent Empress Uriel I
 
@@ -269,11 +269,11 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One said that wh
 
 ## Right Now
 
-Uriel does not leave the Emperor’s side. She waits on a son, and every daughter is a failure she has to be patient about. Her undead guards turned on Supreme Admiral Vex d’Lyrandar at the Thronehold Summit on her order, which is how the last chance at peace died. And a Ministry of Law warrant is currently carrying three people with her name on their orders straight onto her grounds.
+Until the last day Uriel did not leave the Emperor's side. She waited on a son, and every daughter was a failure she had to be patient about. Her undead guards turned on Supreme Admiral Vex d'Lyrandar at the Thronehold Summit on her order, which is how the last chance at peace died. A Ministry of Law warrant then carried three people with her name on their orders straight onto her grounds.
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party found her in labour beside the Emperor's bed, insisting the child was not ready and demanding Esther. She murdered Archbishop Pom Pilot of Arawai in the Emperor's garden that afternoon. Eric's fireball set the Emperor's bed alight, and Gemma drove the Bright Dawn into her belly. *"Fine. Then if it's time, then it's time. He's coming. The night begins."* She vanished in a flash of white light, and the bell began to ring. When last seen she was flying for the bell in white robes with her scythe Mourning Dove, joined to the Polygon by a line of purple light, as the dead dug themselves out of the burial ground below. Her daughters are dead except Drakiel and Ysabel, and her head sister, Sister Marshall, was killed beside her. <small>(Korth Ep 21)</small>
 
-Her power comes from the millions of dead buried under the Lazaret's hill. The Polygon is fed by them and stores their power for her, and it is her projection and mind stone, through which she can speak and be seen anywhere in the valley. Like E'noch and Saturnia, she carries the Qualanthri blood, which gives her some hold on the Emperor.
+Her power came from the millions of dead buried under the Lazaret's hill. [The Polygon](/items/the-polygon/) was fed by them and stored their power for her, and it was her projection and mind stone, through which she could speak and be seen anywhere in the valley. Like E'noch and Saturnia, she carried the Qualanthri blood, which gave her some hold on the Emperor.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) she rang the Original over Nos Matre and raised the dead of the hill. Dario broke the bell with Knell, and she fought the party in the air, grown to more than a woman's size, with a contraction taking her every few moments. In the forecourt she held the dead and Eden through the Polygon after the bell was gone: *"The dead are under my control, with or without the bell."* Gemma brought her to the ground and Dario took off her head. Her remains sank through the paving.
 
@@ -283,9 +283,9 @@ She went on in the Sept of Bones under the hill, half spirit, her head apart fro
 
 ---
 
-**Organizations / Groups:** Uriel is currently a member of the humanitarian medical organisation [The Black Doves](/organizations/the-black-doves/) and is a founding member of [The Unforeseen](/organizations/the-unforeseen/). She has since purged the Dove leadership by witch hunt and inducted the loyal remainder into a fertility cult.
+**Organizations / Groups:** Uriel was a member of the humanitarian medical organisation [The Black Doves](/organizations/the-black-doves/) and a founding member of [The Unforeseen](/organizations/the-unforeseen/). She purged the Dove leadership by witch hunt and inducted the loyal remainder into a fertility cult.
 
-**Holdings:** The Ivory Lazaret, the hospital-retreat and cloister built around the Emperor’s incapacitated flesh, and the Summer Palace grounds upriver of Korth. The old thieves’ den in New Ham that she seized and turned into a hospital, which grew into the university department she still heads. The frontier hospital in the Talenta Plains, raised after the Last War in answer to a pestilence she was herself spreading. A massive statue of her above the Skyport in Sharn — destroyed by [Esther Crona](/people/esther-crona/)’s airship on the last night of the rising, and the first of many pulled down by the crowds.
+**Holdings:** The Ivory Lazaret, the hospital-retreat and cloister built around the Emperor’s incapacitated flesh, and the Summer Palace grounds upriver of Korth, both destroyed with the valley on the day she died. The old thieves’ den in New Ham that she seized and turned into a hospital, which grew into the university department she headed until her death. The frontier hospital in the Talenta Plains, raised after the Last War in answer to a pestilence she was herself spreading. A massive statue of her above the Skyport in Sharn — destroyed by [Esther Crona](/people/esther-crona/)’s airship on the last night of the rising, and the first of many pulled down by the crowds.
 
 **Items:** Uriel has two necromantic "black boxes" one that allows her to create undead, found in New Ham. The second, found in a mechanical undead Knight in an uncovered tomb outside Adren Crest. This one was damaged during battle. See [Black Box](/items/black-box/). From the journey to Arden Crest she took a **Heart of Commanding Dust Devil**, the heart of an ancient mummy that summons a dust devil when its command word is spoken, once between dawns, and a jar of **Restorative Ointment** holding ten doses, each of which restores 2d8 + 2 hit points, ends poisoning and cures any disease. <small>(Nico's DM notes, Episode 9)</small>
 

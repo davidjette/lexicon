@@ -94,6 +94,6 @@ The party gave him the Crown of Seven Stars to carry down as a gift to the drago
 
 ## Where it is now
 
-In the hands of an old scholar bound for a black dragon to have an argument about a book — carrying an object that tells a nameless devil exactly where it is at every moment. The Inevitables no longer hold it. Nobody has attuned to it. Nobody has counted what the seven pledges were, or whether any of them are still owed.
+It went up the Korramont in the hands of an old scholar bound for a black dragon to have an argument about a book, an object that tells a nameless devil exactly where it is at every moment. The Inevitables no longer hold it. Nobody has counted what the seven pledges were, or whether any of them are still owed.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Madame Tso was seen wearing it on Valtrex's back over the Ivory Lazaret, with Jelton Ahn beside her. All three flew for the Korramont.

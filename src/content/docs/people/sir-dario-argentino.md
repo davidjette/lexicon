@@ -238,7 +238,7 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Dario was found at th
 
 ## Right now
 
-Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth was permitted to log, riding to the one place the Empress is known to be. The Grand Lodge records are due Monday. Ten bells remain, at least one of them a Master, and the ninth great casting hangs in a tower attached to the Imperial Palace he is sailing away from.
+Dario is aboard Joseph Roberts's airship *Revenge*, flying out toward the Lhazaar seas with Knell and Palefire. The Empress he charged with mundicide is dead, and the Original is broken. At last count ten bells remained, at least one of them a Master, and the ninth great casting hangs in a tower attached to the Imperial Palace in Korth.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario flew Rum Tum to the belfry of Nos Matre and broke the Original with Knell. The tower fell under him. He opened the Empress from neck to navel in the air, and when Gemma brought her down in the forecourt he took off her head: *"For a while, the world was dark. You sucked the hope from the world. And now, after the long night, comes a brighter dawn."* He went for the Polygon with Knell and was mobbed by the dead. He came down into the Sept of Bones close to death, carrying the greatberry that the people above had saved for Eric and the news that the Polygon was going to blow. Gemma carried him out by *dimension door*, and Joseph Roberts took them off the cathedral roof. On the deck of the *Revenge*, with the valley burning behind them, he slid down against the wall and wept.
 
@@ -257,7 +257,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario flew 
 - **Horseshoes of Speed** — brought back from his downtime mission to the Mror Holds.
 - **Quicksilver** — his first sword of real quality, made in secret before the Leef / Newham arc; the rest of his starting kit he made from scrap.
 - **A masked helm** — made as part of his paladin gear so that he could fight anonymously, rigged for his breath weapon.
-- **A handaxe**, a wand of magic missile built at cost by Doppler Klink, and a Feather Token won in a fighting pit.
+- **A handaxe**, a wand of magic missile built at cost by Doppler Klink, and a Feather Token won in a fighting pit, used over Nos Matre.
 - **His personal prayer book** — GIVEN AWAY. Surrendered through the bars of an Imperial jail to a starving prisoner who asked for a holy symbol of the Silver Flame. She used it as the beacon that let the party track her body down the corpse chute.
 - **The Crown of Seven Stars** — GIVEN AWAY. Ancient work in a rare infernal ore, seven pledges to a devil whose name cannot be spoken, borrowed from Valtrex alongside the hammer. Handed to Master Armhair to carry back down the mountain as a gift, with the instruction never to wear it.
 

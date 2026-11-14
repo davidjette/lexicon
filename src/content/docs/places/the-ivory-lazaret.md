@@ -1,6 +1,6 @@
 ---
 title: The Ivory Lazaret
-description: The white hospital in the mountains upriver of Korth, seat of the Holy Empress, with a vampires' lair and a buried sept of bones beneath it.
+description: The white hospital upriver of Korth, seat of the Holy Empress, with a vampires' lair and a sept of bones beneath it. Destroyed in Korth Ep 22.
 tags:
   - The Ivory Lazaret
   - Ivory Lazarette
@@ -64,11 +64,11 @@ gallery:
     caption: 'The gold dragon half sunk in the pool of blood - Korth Ep 20, The Dinner Party'
 ---
 
-**Hospital and cloister · the mountains upriver of Korth, on the Qarth road · Seat of the Holy Empress · Standing**
+**Hospital and cloister · the mountains upriver of Korth, on the Qarth road · Seat of the Holy Empress · Destroyed ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
 *Also known as:* The Ivory Lazarette · the white hospital in the mountains
 
-The Ivory Lazaret is the white hospital in the mountains where the Holy Empress [Uriel Qualanthri](/people/uriel-qualanthri/) keeps the Emperor. It stands with the [Summer Palace](/places/the-summer-palace/) upriver of [Korth](/places/korth/), in defensible mountains northeast of Qarth, and it is the place the Inevitables have been moving toward since [Esther Crona](/people/esther-crona/)'s last command was to kill the Empress.
+The Ivory Lazaret was the white hospital in the mountains where the Holy Empress [Uriel Qualanthri](/people/uriel-qualanthri/) kept the Emperor. It stood with the [Summer Palace](/places/the-summer-palace/) upriver of [Korth](/places/korth/), in defensible mountains northeast of Qarth, and it was the place the Inevitables had been moving toward since [Esther Crona](/people/esther-crona/)'s last command was to kill the Empress.
 
 ## The Emperor
 
@@ -88,7 +88,7 @@ Fulcrum's best intelligence on the place came from a muleteer working the high r
 
 ## Right now
 
-Ten [bells](/items/the-hell-s-bell-fantanya-nyel/) remain to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace. Fulcrum is being dismantled across the continent. A Star Advocate of the Ministry of Law has been handed written authority to travel to the Summer Palace, the Ivory Lazaret and the surrounding grounds, seize the guest records of [the Grand Lodge](/places/the-grand-lodge/) and arrest any saboteurs or suspected pirates found there. The deadline is Monday. The boat leaves at nightfall.
+The Ivory Lazaret no longer stands. At last count ten [bells](/items/the-hell-s-bell-fantanya-nyel/) remained to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace, and it is not yet known what became of them when the Original rang.
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Gemma that the polyhedron over the cathedral is a new device. Smaller ones went up outside some powerful headquarters before it, and since this one appeared, messages in the valley have gone missing or arrived changed, and people have been arrested and followed. The Lazaret itself is sealed with *private sanctum*. <small>(Korth Ep 18)</small>
 

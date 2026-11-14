@@ -52,7 +52,7 @@ campaigns:
 
 ### The flight to the bell
 
-The party came at the bell on the back of the gold dragon Aurorix, all of them hurt, with the potions against necrotic harm still in their blood and one greatberry between them, which they kept back.
+The party came at the bell on the back of the gold dragon [Aurorix](/species/aurorix/), all of them hurt, with the potions against necrotic harm still in their blood and one greatberry between them, which they kept back.
 
 The rain turned to a downpour and the sky went as dark as dusk. A chorus of women's voices came from every direction, in time and in tune with the bell. With each toll the hillside pulsed. Every few feet the turf turned itself over, and the dead climbed out and faced the temple. The temple stood against a black and purple glow, and in that glow was the small figure of Uriel at the bell, her white scythe gone black, her belly lit orange.
 
@@ -62,7 +62,7 @@ Gemma took out the pewter pendant [Zero-One](/people/zero-one-fema-nolan/) had g
 
 White light spread around the four of them. A single soprano sang the theme of the Silver Flame through the chorus, and inside the light the bell could hardly be heard. The plaza below filled with Black Doves.
 
-Cresting the nave, they saw where the purple light came from. The Polygon floated in the courtyard with four Sorrowful Sisters looking up at it, lightning running through their bodies into it. It caught Eric's eye, and he heard the Empress in his head: *"Go, you disgusting pig! What are you doing here?"* A Choir of Novices on the ground began to toll at the dragon on her orders. Dario drank a potion and lit Palefire. Eric healed Aurorix and himself.
+Cresting the nave, they saw where the purple light came from. [The Polygon](/items/the-polygon/) floated in the courtyard with four Sorrowful Sisters looking up at it, lightning running through their bodies into it. It caught Eric's eye, and he heard the Empress in his head: *"Go, you disgusting pig! What are you doing here?"* A Choir of Novices on the ground began to toll at the dragon on her orders. Dario drank a potion and lit Palefire. Eric healed Aurorix and himself.
 
 Uriel saw them coming and knew them for the people who had killed her daughters and her husband. She smiled.
 
@@ -178,7 +178,7 @@ On the roof Dario ran into the dead dragon and took its breath. Eden came round 
 
 ### Two dragons
 
-Eric remembered the scroll [Hopper](/people/hopper/) had made for him in Sharn, keyed to a true name: an hour of service, and then freedom. He read it. [Valtrex](/species/valtrex/) came with a putrid cry and a smell of sulphur. Under Eric the gold dragon's scales went stiff.
+Eric remembered the *summon dragon* [Hopper](/people/hopper/) had stored in a ring for him in Sharn, keyed to a true name: an hour of service, and then freedom. He let it go. [Valtrex](/species/valtrex/) came with a putrid cry and a smell of sulphur. Under Eric the gold dragon's scales went stiff.
 
 > **Aurorix:** No. You have summoned my mortal enemy. You fool. Get off of me.
 >
@@ -196,7 +196,7 @@ Dario flew at the Polygon and was mobbed. Gemma hesitated at the edge: no dragon
 
 ### The Sept of Bones
 
-They stood in the dark at the foot of an ancient stone stair, under the terrazzo of the ritual garden. It was a catacomb, with funerary urns and sarcophagi of many ages mortared into the walls. On the right was a row of coffins no more than ten or thirteen years old. On the left was one newer than all of them, its seal broken and its lid pulled back. The Bright Dawn, a pale blue by habit, turned pink and red for a moment and felt angry in Gemma's hand. Ahead stood two huge doors. Gemma could not move them and broke them in with her adamantine mace.
+They had come down into the crypt of the [Sept of Bones](/places/the-sept-of-bones/). They stood in the dark at the foot of an ancient stone stair, under the terrazzo of the ritual garden. It was a catacomb, with funerary urns and sarcophagi of many ages mortared into the walls. On the right was a row of coffins no more than ten or thirteen years old. On the left was one newer than all of them, its seal broken and its lid pulled back. The Bright Dawn, a pale blue by habit, turned pink and red for a moment and felt angry in Gemma's hand. Ahead stood two huge doors. Gemma could not move them and broke them in with her adamantine mace.
 
 Beyond was a steep-walled sept with altars, pedestals for sacrifice, and stairs rising to the four quarters. Every flat surface lay five to ten feet deep in skulls, bones and pieces of bone, gathered over centuries. Undying flames burned white and green. The power of all that death rose in a faint purple light toward the ceiling, toward the Polygon.
 
@@ -218,7 +218,7 @@ Uriel was singing the lullaby the sisters sang in the last ward. She looked up.
 
 In Gemma's head, a whisper from the fox: *"You swore it to me."*
 
-Gemma took out the little box Kitsune had given her for the child, which was never going to hold it. The fight began on the stair. The Empress was half spirit and hard to strike. The floor of bones kept giving up guards, great things built of bone with glaives in their hands. Eric turned them, and they threw themselves off the stair into the heaps. The Heir of Vol opened its mouth inside its sac and belched black fire, which melted two of its mother's own guards and fell just short of the party. It could not move by itself. Uriel towed it behind her on the cord.
+Gemma took out the little box Kitsune had given her for the child, which was never going to hold it. The fight began on the stair. The Empress was half spirit and hard to strike. The floor of bones kept giving up guards, great things built of bone with glaives in their hands. Eric turned them, and they threw themselves off the stair into the heaps. [The Heir of Vol](/people/the-heir-of-vol/) opened its mouth inside its sac and belched black fire, which melted two of its mother's own guards and fell just short of the party. It could not move by itself. Uriel towed it behind her on the cord.
 
 > **Uriel:** My baby must feed.
 
@@ -349,8 +349,8 @@ It was the third time he had come for them. Far off above the cloud a small blac
 
 ## Cast
 
-[Gemma Corso](/people/gemma-corso/) · [Eric the Cleric](/people/eric-the-cleric/) · [Sir Dario Argentino](/people/sir-dario-argentino/) · Rum Tum · Aurorix · [Uriel](/people/uriel-qualanthri/) · the Heir of Vol · [Esther Crona](/people/esther-crona/) · [Eden](/people/eden/) · [Valtrex](/species/valtrex/) · Lalo Kitsune · [Kitsune](/people/kitsune/) (a whisper) · [Zero-One](/people/zero-one-fema-nolan/) · [Ilma Vitt](/people/ilma-vitt/) · Matt Matheny's followers · the Plaza Band · [Joseph Roberts](/people/pirate-joseph-roberts/) · [Jelton Ahn](/people/jelton-ahn/) · [Madame Tso](/people/madame-tso-teryaki/)
+[Gemma Corso](/people/gemma-corso/) · [Eric the Cleric](/people/eric-the-cleric/) · [Sir Dario Argentino](/people/sir-dario-argentino/) · Rum Tum · [Aurorix](/species/aurorix/) · [Uriel](/people/uriel-qualanthri/) · [the Heir of Vol](/people/the-heir-of-vol/) · [Esther Crona](/people/esther-crona/) · [Eden](/people/eden/) · [Valtrex](/species/valtrex/) · Lalo Kitsune · [Kitsune](/people/kitsune/) (a whisper) · [Zero-One](/people/zero-one-fema-nolan/) · [Ilma Vitt](/people/ilma-vitt/) · Matt Matheny's followers · the Plaza Band · [Joseph Roberts](/people/pirate-joseph-roberts/) · [Jelton Ahn](/people/jelton-ahn/) · [Madame Tso](/people/madame-tso-teryaki/)
 
 ## Consequences
 
-Uriel, Esther Crona and Aurorix are dead. The Original and the Polygon are destroyed, and the Ivory Lazaret, Nos Matre and the valley around them have burned, with the Heir of Vol in the middle of the fire. Gemma, Eric and Dario are alive aboard the *Revenge* with Zero-One, Ilma Vitt and what is left of Matheny's people. Valtrex is free and has gone toward the Korramont with Jelton Ahn and Madame Tso. Nobody aboard knows what became of Eden, of the Plaza Band, or of the other bells, or how Sharn and Leaf have fared. Zero-One's pendant, Gemma's wand, Hopper's scroll and the greatberry are spent.
+Uriel, Esther Crona and Aurorix are dead. The Original and the Polygon are destroyed, and the Ivory Lazaret, Nos Matre and the valley around them have burned, with the Heir of Vol in the middle of the fire. Gemma, Eric and Dario are alive aboard the *Revenge* with Zero-One, Ilma Vitt and what is left of Matheny's people. Valtrex is free and has gone toward the Korramont with Jelton Ahn and Madame Tso. Nobody aboard knows what became of Eden, of the Plaza Band, or of the other bells, or how Sharn and Leaf have fared. Zero-One's pendant, Gemma's wand, Hopper's stored spell and the greatberry are spent.

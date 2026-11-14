@@ -274,7 +274,7 @@ Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never ra
 
 ## Right now
 
-Gemma is aboard a river boat to the Summer Palace wearing a dead woman's face and carrying that woman's warrant. The Grand Lodge records are due in Merkin's hands by Monday and it is already Friday. In a locked apartment behind her, a woman the Empire has recorded as a suicide is sleeping off starvation. Ten bells remain.
+Gemma is aboard Joseph Roberts's airship *Revenge*, flying out toward the Lhazaar seas beside the man she has agreed to marry. The Empress is destroyed, and the child her patron wanted was last seen in the fire that took the valley. At last count ten bells remained.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Gemma called up the *circle of power* in Zero-One's pendant and held it through the fight over Nos Matre. She emptied her wand of *magic missile* into the Empress's belly, which burned the wand out, and felt her patron's anger as her own power dipped. She told Uriel that Esther's last words had been to kill her. In the forecourt she brought the Empress to the ground for Dario's sword. In the Sept of Bones the circle failed, and she summoned Lalo Kitsune, who cut the cord between Uriel and the Heir of Vol and then decided he did not want the child after all. The Bright Dawn only made the Heir stronger. She called Joseph Roberts by sending stone, carried Dario out, and was lifted off the cathedral roof by the *Revenge*. *"Your humour is what made me want to marry you."*
 
@@ -297,7 +297,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Gemma calle
 - **Deirdre Moro's credentials and face** — Ministry of Law, Star Advocate, clearance to the Ivory Lazaret. Condition: intact, and now overdue at the Grand Lodge.
 - **Boots of speed**, bought from "the wizard in Newham", and **gauntlets of ogre power**, from her bastion — both lent to Lorian. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
 - **A potted plum plant** — sent by her greenhouse bastion, grown from Locke Pierce's seeds. Three pink plums of *lesser restoration* every seven days; kept alive with *plant growth*.
-- A wand of magic missile built at cost by Doppler Klink · fifty flasks of lamp oil · one last dose of a potion of lesser polymorph (mouse only), taken off an orc scout · a bone scroll-case.
+- A wand of magic missile built at cost by Doppler Klink, burned out over Nos Matre · fifty flasks of lamp oil · one last dose of a potion of lesser polymorph (mouse only), taken off an orc scout · a bone scroll-case.
 
 **Wearing the Dead:** Gemma's signature working is a discipline — she studies a target until she can hold their voice under an Insight check, kills them, and then goes on being them. She has done it to a Black Dove novice's grief, to Star Advocate Deirdre Moro and her paralegal, and — for one morning in a Boldrei temple in Sharn's lower city — to Chancellor Eric himself, wearing his face and his voice to promise a frightened crowd that nothing would be harmed. Dario then brought the tower down through the floor. She now has proficiency in Performance and in the horn, which gives her advantage on the performance of an impersonation.
 

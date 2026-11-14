@@ -70,7 +70,7 @@ Fema Nolan is one of the founding members of the rebel group known as Fulcrum. B
 
 After the tragic death of her companion and Fulcrum founder John Stamos, she undertook an ancient and nearly forgotten Silver Flame rite that strips away one's name and past, emerging as Zero-One, the first woman in centuries to undergo the transformation. Today, Zero-One serves as the current leader of Fulcrum, operating primarily out of the rebel stronghold in Zilspar alongside her eldest son, Izaak, and a cell of loyal guards. Though she maintains a presence in Zilspar, Zero-One is known to vanish for long stretches on missions of her own, traveling across Khorvaire with a select group of personal knights. Her rare appearances, unwavering resolve, and mythic reputation make her one of the most enigmatic and revered figures in the rebellion.
 
-**Status:** Alive. <small>Her page predates Zilspar; the Korth record has her taken alive by Eden units.</small>
+**Status:** Alive. Aboard the airship *Revenge* ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/)).
 
 ## Physical description
 
@@ -116,7 +116,7 @@ After Esther Crona fell, Zero-One and her Silver Flame paladins took over the Bl
 
 ## Right now
 
-Zilspar Farm has been burned to the ground with people boarded up inside, and Zero-One has been taken alive by Eden units. Fulcrum is being dismantled across the continent as though the Empire had obtained a list of every name, and the executions ran for days. [Jessica Grimpledink](/people/jessica-grimpledink/)'s standing instruction is that if they cannot save her, they must not let her be taken.
+Zilspar Farm was burned to the ground with people boarded up inside, and Zero-One was taken alive by Eden units and carried to the Ivory Lazaret. Fulcrum was dismantled across the continent as though the Empire had obtained a list of every name, and the executions ran for days. [Jessica Grimpledink](/people/jessica-grimpledink/)'s standing instruction was that if they could not save her, they must not let her be taken.
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) she was found at the pilgrim camp among the followers of Matt Matheny, wounded, bandaged and asleep, after Dario carried her out of the slab room. When she woke she asked after Izaak and then after Richard. She told the party that the attack on Zilspar tripped none of the farm's alarms, that she had been made to raise Esther because Uriel wants Esther to find Calcifer, and that she took Esther's heart out in the rite and does not know where it went. Of Uriel: *"Uriel's brain was missing when I first met her all those years ago, and I replaced it with a gem, which had raised her from the dead by the light of the Flame."* She needs days of rest, and has promised to summon all the Flame left in her if the party confronts the White Death. She gave Gemma her pewter pendant of *circle of power*. <small>(Korth Ep 18)</small>
 

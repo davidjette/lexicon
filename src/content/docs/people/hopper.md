@@ -86,13 +86,13 @@ At the fall of Esther Crona, Eric held a Bigby's hand from a scroll he had got f
 
 Hopper supplies the free city's rebellion out of a shop in the Sub-line District.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric the Cleric read the scroll of *summon dragon* Hopper had made for him, and it brought Valtrex himself to the Ivory Lazaret. Gemma spent every charge of her wand of *magic missile* at once and burned it out.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric the Cleric used the *summon dragon* Hopper had stored in a ring for him, and it brought Valtrex himself to the Ivory Lazaret. Gemma spent every charge of her wand of *magic missile* at once and burned it out.
 
 **Organizations / Groups:** none. A trade partner of the Nest and the Inevitables.
 
 **Holdings:** Hopper's Magic Emporium, Sub-line District, Lower City.
 
-**Items:** home-security crystals · ritual incense · bulk supplies and magic items sold into the rebellion · one casting of Summon Dragon, placed into a Ring of Spell Storing · a scroll of Bigby's hand, which Eric used on [Esther Crona](/people/esther-crona/)'s balcony. <small>(Nico's DM notes, Episode 19)</small>
+**Items:** home-security crystals · ritual incense · bulk supplies and magic items sold into the rebellion · one casting of Summon Dragon, placed into a Ring of Spell Storing and used by Eric at the Ivory Lazaret · a scroll of Bigby's hand, which Eric used on [Esther Crona](/people/esther-crona/)'s balcony. <small>(Nico's DM notes, Episode 19)</small>
 
 **Personality Characteristics**
 
@@ -109,7 +109,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric the Cl
 - **The Inevitables** — customers, then landlords, then trade partners. Alive.
 - **Edwin Graves** — his previous landlord, secretly the Cog Collector. Deceased.
 - **Candy Crush** — the lawyer representing the previous deed holder. Alive.
-- **Eric the Cleric** — buys incense; carries Hopper's dragon in a ring. Alive.
+- **Eric the Cleric** — buys incense; carried Hopper's dragon in a ring until he used it. Alive.
 
 **Hobbies & Pets:** Unknown.
 

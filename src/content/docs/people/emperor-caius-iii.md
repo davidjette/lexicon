@@ -188,7 +188,7 @@ Gemma Corso's warlock pact is not hers. Her adoptive father, Jane Corso, agreed 
 
 ## Right now
 
-He is held in torpor at the residence on the Summer Palace grounds, ten years into an illness the Empire invented, while his throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. The Empress is in labour, at three centimetres at last report. E'noch, who made him and whose blood he craves, is destroyed. Aurorix has told the party what he is, and a warlock with an empty pewter box is a few hundred feet from his door with a Sister of the Blood who can anoint her. Ten bells remain, at least one of them a Master casting in the tower attached to his own palace.
+He was held in torpor at the residence on the Summer Palace grounds, ten years into an illness the Empire invented, until his body burned on its bed. The valley around it has since been destroyed. His throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. E'noch, who made him and whose blood he craved, is destroyed, and so is the Empress. At last count ten bells remained, at least one of them a Master casting in the tower attached to his own palace.
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party found him in his bedchamber in the residence, white-bearded and embalmed-looking, his chest held open with forceps and tension lines around a gold-tipped stake of petrified wood through his heart. A sister fed him blood by tube, and a tube ran from him to the Empress in labour on the next bed. Eric's fireball set the bed alight, Aurorix breathed on it, and his sisters could not put the fire out. When the party left he was black char on the burning bed with the stake still in him and his crown melting into the bedclothes. Something beneath the palace roared as he burned. <small>(Korth Ep 21)</small>
 
@@ -203,7 +203,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) his heir wa
 
 **Organizations / Groups:** The House of Kaius · [The Imperial Council / Imperial Assembly](/organizations/the-imperial-council-imperial-assembly/) (thirteen heads of government under him) · object of worship of [the Blood of Vol](/organizations/blood-of-vol/).
 
-**Holdings:** The Great Imperial Palace and the Throne of Bones, Korth · the Summer Palace and the Ivory Lazaret upriver · the Korramont, purchased roughly a decade ago · the Pax Imperium.
+**Holdings:** The Great Imperial Palace and the Throne of Bones, Korth · the Summer Palace and the Ivory Lazaret upriver, both now destroyed · the Korramont, purchased roughly a decade ago · the Pax Imperium.
 
 **Items:** Death warrants bearing his signature, in circulation and being executed three years after he last woke. One is in the party's possession.
 

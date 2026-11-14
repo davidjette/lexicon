@@ -22,7 +22,7 @@ fields:
   headquarters: None surviving
   leader: Erandis Vol, the Queen of Death, in hiding since the calamity
   founding: Ancient; eradicated thousands of years ago by humans, giants and elves
-  status: Officially extinct; two living claimants bear the Mark
+  status: Officially extinct; Uriel Qualanthri, its chief claimant, is dead
   allies: The Black Doves under Uriel, the Blood of Vol, the fled elvish houses
   enemies: The Undying Court, the dragons, the alliance that purged the line
 sources:
@@ -76,9 +76,9 @@ The theory carries one hard consequence: the [bells](/organizations/the-houses-o
 
 ## SURVIVING CLAIMANTS
 
-- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — branded with the Dragonmark of Death, a twisting and growing draconic mark between her navel and her loins. She descends from the House and is an eager follower of Erandis Vol. She believes the Vol bloodline is superior and should rule all of Eberron as an undead wonderland.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — branded with the Dragonmark of Death, a twisting and growing draconic mark between her navel and her loins. She descended from the House and was an eager follower of Erandis Vol. She believed the Vol bloodline was superior and should rule all of Eberron as an undead wonderland. Destroyed in the Sept of Bones.
 - **Gabrielle (Gabriel) Duin** — claims direct descendance from the House of Vol and bears the Dragonmark of Death. Handler of the [Blood of Vol](/organizations/blood-of-vol/), commander of the [Black Doves](/organizations/the-black-doves/) by murder, consort to the Emperor.
-- **Fourteen daughters** — Uriel's children by Emperor Kaius, many sets of twins, all under twelve years old. Not one of them a son.
+- **Fourteen daughters** — Uriel's children by Emperor Kaius, many sets of twins, all under twelve years old, and not one of them a son. All but Drakiel and Ysabel were killed in the Summer Palace.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Uriel Qualanthri bore the Heir of Vol in the Sept of Bones under the Ivory Lazaret, a half-dragon child of her line and the Crimson Sun. She and Esther Crona both died there. The Heir was last seen breaking out of the hill as the valley was destroyed.
 

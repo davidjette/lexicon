@@ -178,9 +178,9 @@ Back in Sharn, Dario destroyed two more in a single morning. The first sat crate
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Uriel rang the Original from the belfry of Nos Matre. Its tolls raised the dead of the hill, deafened Eric the Cleric and brought down the dragon Aurorix. Dario struck it with Knell. A split ran to its crown, it peeled open into layers, collapsed into a rainbow of metal drawn to a single point, and burst, bringing down the tower. No more dead rose after that. What became of the other bells is not yet known.
 
-**Ten bells remain**, at least one of them a Master in Korth — **great casting the ninth**, hanging in a Black Dove tower attached to the Imperial Palace itself. The Original was returned from the Korranberg yard to Her Radiance's keeping under Sister-Inquisitor escort, destination withheld, and the House's factor has written that the reference *will not travel again before the appointed night.*
+**Ten bells remain**, at least one of them a Master in Korth — **great casting the ninth**, hanging in a Black Dove tower attached to the Imperial Palace itself. The Original was returned from the Korranberg yard to Her Radiance's keeping under Sister-Inquisitor escort, destination withheld, and the House's factor wrote that the reference *will not travel again before the appointed night.* It hung in the belfry of Nos Matre until Dario broke it.
 
-Uriel can still set the bells ringing all over Khorvaire. Dave: "stopping that will take intense coordination across the entire rebellion, to deploy the Horns and hopefully get to the Master bell before it can start the Eternal Nightfall". <small>(Oral Histories: The Inevitables, 2026-08-22)</small> See [the Eternal Nightfall](/lore/the-eternal-nightfall/).
+While she lived, Uriel could set the bells ringing all over Khorvaire. Dave: "stopping that will take intense coordination across the entire rebellion, to deploy the Horns and hopefully get to the Master bell before it can start the Eternal Nightfall". <small>(Oral Histories: The Inevitables, 2026-08-22)</small> See [the Eternal Nightfall](/lore/the-eternal-nightfall/).
 
 > Stop Uriel before she rings the bells. If you fail, I will end this world before she can, and only my kind will survive it.
 
@@ -188,4 +188,4 @@ Uriel can still set the bells ringing all over Khorvaire. Dave: "stopping that w
 
 **Held by the Inevitables:** Knell, the horn, the folio, and one dwarf who reads Corn's shorthand and can play the fanfare.
 
-**Held by the Empire:** the Original, the ten remaining bells, three hundred and forty-one parish castings on the Trust's last count, and the woman who intends to ring them.
+**Held by the Empire:** the ten remaining bells and three hundred and forty-one parish castings on the Trust's last count. The Original is destroyed, and so is the woman who meant to ring them.

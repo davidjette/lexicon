@@ -230,9 +230,9 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Eric knocked on the s
 
 ## Right now
 
-Eric is on a river boat to the Summer Palace wearing a dead paralegal's face, with the Emperor's own death warrant in his bag and a voice in his head that will not stop lecturing him. The Grand Lodge records are due Monday. Ten bells remain, and the ninth great casting hangs in a Black Dove tower attached to the Imperial Palace he just walked away from.
+Eric is aboard Joseph Roberts's airship *Revenge*, flying out toward the Lhazaar seas, with the Emperor's own death warrant still in his bag. The Empress is destroyed and the Emperor burned. At last count ten bells remained, and the ninth great casting hangs in a Black Dove tower attached to the Imperial Palace in Korth.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric carried Gemma to the belfry by *dimension door*, was deafened by the bell, and jumped from the falling tower onto the Empress in mid-air. She threw him more than a hundred feet to the ground. In the rubble he turned the risen dead, and the working proved the Navier–Stokes conjecture. He called Aurorix back from death with a diamond, then read the scroll Hopper had made him and summoned Valtrex, who was Aurorix's mortal enemy. He took Gemma down into the Sept of Bones, ate the greatberry when he had nothing left, and after Kitsune's fox cut the cord he destroyed Uriel with the mace of disruption. Roberts's corsairs pulled him aboard the *Revenge* with Zero-One, Ilma Vitt and Matt Matheny's survivors.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric carried Gemma to the belfry by *dimension door*, was deafened by the bell, and jumped from the falling tower onto the Empress in mid-air. She threw him more than a hundred feet to the ground. In the rubble he turned the risen dead, and the working proved the Navier–Stokes conjecture. He called Aurorix back from death with a diamond, then used the *summon dragon* Hopper had stored in a ring for him and called Valtrex, who was Aurorix's mortal enemy. He took Gemma down into the Sept of Bones, ate the greatberry when he had nothing left, and after Kitsune's fox cut the cord he destroyed Uriel with the mace of disruption. Roberts's corsairs pulled him aboard the *Revenge* with Zero-One, Ilma Vitt and Matt Matheny's survivors.
 
 ---
 
@@ -248,11 +248,12 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric carrie
 
 - **The Emperor's death warrant** — a writ of warrant signed KAIUS III ordering the execution of King Corn Deeptempura, Sedda Deeptempura, Sister Calvane and every dwarf in the Korranberg foundry, ending with Overseer Velen Marsk, who countersigned to receive it. Most names crossed out. Recovered from Marsk's satchel; Eric is keeping it, in his words, for the trials that follow.
 - **The Belt of Dwarvenkind** — robbed from a sepulcher, confiscated, then returned to him as a gift by Madame Tso Teryaki. Attuned.
-- **A Ring of Spell Storing** loaded with *Summon Dragon* by Hopper, on the understanding that a true name calls that dragon for one hour and then frees it. It is meant for Valtrex.
+- **A Ring of Spell Storing** loaded with *Summon Dragon* by Hopper, on the understanding that a true name calls that dragon for one hour and then frees it. It was meant for Valtrex, and Eric used it at the Ivory Lazaret. Spent.
 - **A scroll of Greater Silence** from Renn Tal, given on the theory that amplified by enough casters it could disrupt the bells' resonance. He accepted it knowing he would have to grow into it.
 - **A tarot deck** — used for augury. The five-card spread before the descent read Tower, Moon, Devil, Hanged Man, Judgement, and the spell answered weal and woe.
 - **An adamantine mace** — the weapon that broke the collar off a black dragon's neck · a wand of magic missile built at cost by Doppler Klink · an amulet of proof against detection and location, unattuned, taken off Edwin Graves.
 - **A Repulsion Shield** — brought back from Khraal.
+- **A mace of disruption** — the trophy of a ruined Imperial knight, taken from its pedestal in the Emperor's residence; the weapon that destroyed Uriel.
 - **A charm of *healing word*** — from the fane to Matt Matheny in Leef.
 - **Graham Cracker's face and papers** — an elf paralegal of the Ministry of Law. Bantide Moro remembers the original well enough to have remarked, mid-jailbreak, "I thought you were gay, Graham."
 

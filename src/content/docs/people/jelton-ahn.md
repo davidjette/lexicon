@@ -99,7 +99,7 @@ Unknown. He is Leonin, he studies history seriously enough to date infernal meta
 
 ## Right now
 
-He is arranging forged passports and getting his wife out to Kabara. Armhair is leaving for the Korramont expecting to die, and Jelton insisted on coming.
+He arranged forged passports to get his wife out to Kabara, and when Armhair left for the Korramont expecting to die, Jelton insisted on coming.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) he was seen over the Ivory Lazaret riding Valtrex with Madame Tso, and afterwards flying with them for the Korramont.
 

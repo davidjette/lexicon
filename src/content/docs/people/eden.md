@@ -227,11 +227,11 @@ After the exchange, Eden laughed in a flat, repetitive manner and descended the 
 
 ## Right Now
 
-Eden's last confirmed appearance was in the valley and on the peak in the King's Forest, where she arrived with twenty E.D.E.N. units and declared that the Empress must die. Her current whereabouts are unknown.
+Before the battle at Nos Matre, Eden's last confirmed appearance was in the valley and on the peak in the King's Forest, where she arrived with twenty E.D.E.N. units and declared that the Empress must die.
 
 Three years after the fall of Sharn, E.D.E.N. units remained active in the field. During the destruction of Zilspar Farm 02, [Zero-One](/people/zero-one-fema-nolan/) was captured alive by E.D.E.N. units. The wider programme continued to operate even after the deaths of Faith, Malrik Zeir, and Esther Crona. Sister Nora and Dr. Joanne Menka were later executed after the Sharn rising, taking with them much of the direct testimony surrounding Eden's resurrection.
 
-Eden's stated intention to rule the Empire with her sister remains unresolved. It is unknown which sister she meant, what she believed had happened to that person, or whether her plan was her own. The Blue Devil is still a weapon created by the Empire, but her words at King's Forest suggest that she may no longer be acting in accordance with the purposes for which she was made.
+Eden's stated intention to rule the Empire with her sister was never carried out. At Nos Matre she demanded her sister from Uriel, and Gemma answered her with Esther's name. The Blue Devil was a weapon created by the Empire, and her words at King's Forest showed that she was no longer acting in accordance with the purposes for which she was made.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) her units came up the walkway of Nos Matre firing at the temple and at the Polygon while the dead closed around them. She shouted across the forecourt at Uriel: *"Give me my sister!"* Uriel answered that the dead belonged to her, and Eden's eyes turned purple. The Polygon carried the Empress's will, and Eden was under it from then on. She shot Gemma off the back of the dragon Aurorix, leapt twenty feet into the air to cut at Eric, and called Gemma a liar when told that Esther was below. She was still in the forecourt when the party went underground. The valley was destroyed soon afterwards, and nobody aboard the *Revenge* saw what became of her.
 

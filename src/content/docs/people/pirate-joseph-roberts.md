@@ -125,7 +125,7 @@ The Grand Lodge file names him plainly: the Dread Pirate, Blair's husband, Gemma
 
 ## Right now
 
-Roberts is a named target of the Imperial Ministry of Law. The Grand Lodge assignment handed to Gemma in her cover identity as the Star Advocate Deirdre Moro was to travel to the Summer Palace and the Ivory Lazaret, seize all guest records, and arrest any saboteurs or suspected pirates — with his likeness in the file. The Empire is hunting him at the exact place the Inevitables are already going.
+Roberts was a named target of the Imperial Ministry of Law. The Grand Lodge assignment handed to Gemma in her cover identity as the Star Advocate Deirdre Moro was to travel to the Summer Palace and the Ivory Lazaret, seize all guest records, and arrest any saboteurs or suspected pirates — with his likeness in the file. The Empire was hunting him at the exact place the Inevitables were already going.
 
 In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), over breakfast in the [Grand Lodge](/places/the-grand-lodge/), Gemma told the others that she had messaged him from the Lodge door the night they arrived, short and sweet, and that he had answered. She made the case for him from memory: he had spared them on the train, given them a sending stone, and moved people from Newham to Leaf without asking anything but a mural. The party decided to mingle and find out where he is, and has not yet found him. On the Lodge's grand stair two men passed a purse between them and a coin fell; it was minted in [the Uruk-Hoth Republic](/organizations/the-uruk-hoth/), and Gemma remembered General Thar telling Esther at Posay that the Lhazaar Principalities were helping the Uruk-Hoth. Later that day a load of sealed hazardous-materials containers, paid for in platinum at [the Imperial Counting House](/places/the-imperial-counting-house/), went by carriage straight to the Lodge and around the back. <small>(Korth Ep 15)</small>
 
@@ -151,7 +151,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Gemma calle
 
 - **Blair** — wife, Queen of the Underhive. Standing alliance; his fleet answers hers. Alive.
 - **Locke Pierce** — knows him personally, by his own account. Locke denies remembering. Alive.
-- **Gemma Corso** — former fling; now holds a warrant for his arrest under a false name. Alive.
+- **Gemma Corso** — former fling, now betrothed to him; she once held a warrant for his arrest under a false name. Alive.
 - **The Unforeseen** — robbed all four, marooned them, then hired them. Esther, LeBeefe and Locke's fates all recorded elsewhere.
 - **The Inevitables** — met in Newham; his introduction opened Blair's door to them. Alive.
 

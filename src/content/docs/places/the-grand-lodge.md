@@ -1,6 +1,6 @@
 ---
 title: The Grand Lodge
-description: A former guild hall on the Summer Palace grounds where non-Imperial dignitaries gather, and whose guest records the Ministry of Law wants seized.
+description: A former guild hall on the Summer Palace grounds where non-Imperial dignitaries gathered. Sold by Joseph Roberts and destroyed with the valley.
 tags:
   - The Grand Lodge
   - Summer Palace
@@ -59,9 +59,9 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Guild hall · the Summer Palace grounds, near the Ivory Lazaret · Gathering place for non-Imperial dignitaries · Standing**
+**Guild hall · the Summer Palace grounds, near the Ivory Lazaret · Gathering place for non-Imperial dignitaries · Destroyed ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
-The Grand Lodge is a former guild hall on the grounds of [the Summer Palace](/places/the-summer-palace/), distinctly Masonic in flavour, now serving as a gathering place for non-Imperial dignitaries and passers-through: people who need to influence the Imperial seat without directly serving the Emperor. The Ministry of Law has ordered its records seized on the suspicion that Lhazaar pirates come and go from it, and that order is the Inevitables' authorised route onto the Summer Palace grounds.
+The Grand Lodge was a former guild hall on the grounds of [the Summer Palace](/places/the-summer-palace/), distinctly Masonic in flavour, which served as a gathering place for non-Imperial dignitaries and passers-through: people who need to influence the Imperial seat without directly serving the Emperor. The Ministry of Law ordered its records seized on the suspicion that Lhazaar pirates come and go from it, and that order is the Inevitables' authorised route onto the Summer Palace grounds.
 
 ## The assignment
 

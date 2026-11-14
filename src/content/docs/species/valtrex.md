@@ -125,11 +125,11 @@ He speaks Draconic and resents being addressed in anything else - *"You dare spe
 
 ## Right now
 
-Valtrex is free, sane, hostile and above ground. The party's last sight of him was from the treeline: a black dragon circling the peak of the Korramont on torn wings, declaring the domain of **Valtrex the Putrid**. Scholars in the Hall of Records at Korth are already discussing a black dragon over the mountain, four centuries after the last one was recorded. Master Armhair has gone up there with a cursed crown as a gift, expecting to die. *"Do not return. This is now my domain."*
+Valtrex is free, sane, hostile and above ground. After the party freed him he circled the peak of the Korramont on torn wings and declared it the domain of **Valtrex the Putrid**: *"Do not return. This is now my domain."* Scholars in the Hall of Records at Korth were soon discussing a black dragon over the mountain, four centuries after the last one was recorded, and Master Armhair went up there with a cursed crown as a gift, expecting to die.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric the Cleric read the scroll of *summon dragon* that Hopper had keyed to Valtrex's true name, and Valtrex came to the Ivory Lazaret. The gold dragon Aurorix was there, his mortal enemy. *"So she got you too. But thankfully, she's brought me straight to you, so I can rip out your throat like I should have done six thousand years ago."* He killed Aurorix, and afterwards turned on the dead in the forecourt. He was carrying two riders, Jelton Ahn and Madame Tso, who wore the Crown of Seven Stars. He was last seen above the clouds flying for the Korramont with both of them. The scroll's terms leave him free.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric the Cleric used the *summon dragon* that Hopper had stored in a ring for him, keyed to Valtrex's true name, and Valtrex came to the Ivory Lazaret. The gold dragon Aurorix was there, his mortal enemy. *"So she got you too. But thankfully, she's brought me straight to you, so I can rip out your throat like I should have done six thousand years ago."* He killed Aurorix, and afterwards turned on the dead in the forecourt. He was carrying two riders, Jelton Ahn and Madame Tso, who wore the Crown of Seven Stars. He was last seen above the clouds flying for the Korramont with both of them. The spell's terms leave him free.
 
-**Organizations / Groups:** None. Party to the broken Deeptempura treaty; a potential ally against the Ivory Lazaret and an evil black dragon, both of which are true at once.
+**Organizations / Groups:** None. Party to the broken Deeptempura treaty; an ally of a kind against the Ivory Lazaret, and an evil black dragon, both of which are true at once.
 
 **Holdings:** The [black lake](/places/the-black-lake/) and its hoard; [the Korramont](/places/the-korramont/) entire, by declaration.
 

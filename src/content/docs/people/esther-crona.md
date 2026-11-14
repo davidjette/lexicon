@@ -107,7 +107,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · Former Lord Commander of the Imperial Military · Dead — reanimated as an undead soldier ([Korth Ep 16](/sessions/korth-ep-16-orientation-day/))**
+**Female Tiefling · Vengeance Paladin / Hexblade Warlock · [The Crimson Sun](/organizations/the-crimson-sun/) and [The Unforeseen](/organizations/the-unforeseen/) · Former Lord Commander of the Imperial Military · Dead — raised under the Ivory Lazaret ([Korth Ep 16](/sessions/korth-ep-16-orientation-day/)), killed in the Sept of Bones ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
 **Also known as:** High Inquisitor · Grand Inquisitor · Lord Commander · Lord Commander of Sharn · Queen of Whispers
 
@@ -548,7 +548,7 @@ Then her corpse was found beneath the [Ivory Lazaret](/places/the-ivory-lazaret/
 
 ## Right Now
 
-Esther Crona is still dead.
+Esther Crona is dead. She died in the fall of Sharn, was raised under the Ivory Lazaret three years later, and died again in the [Sept of Bones](/places/the-sept-of-bones/).
 
 In **[Korth Ep 16](/sessions/korth-ep-16-orientation-day/)**, [Zero-One](/people/zero-one-fema-nolan/) was forced to perform a resurrection rite on Esther deep beneath the [Ivory Lazaret](/places/the-ivory-lazaret/). [Sister Maelis Dorn](/people/sister-maelis-dorn/) ordered the ritual completed even while the Inevitables attacked.
 

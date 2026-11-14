@@ -1,6 +1,6 @@
 ---
 title: The Summer Palace
-description: The Empire's retreat upriver of Korth, holding the Ivory Lazaret and the Grand Lodge, reached by a passenger boat that sails twice a day.
+description: The Empire's retreat upriver of Korth, which held the Ivory Lazaret and the Grand Lodge. Destroyed with its valley in Korth Ep 22.
 type: landmark
 kind: places
 tags:
@@ -58,9 +58,9 @@ gallery:
     caption: 'Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace'
 ---
 
-**Imperial retreat · upriver from Korth · Grounds of the Ivory Lazaret · Standing**
+**Imperial retreat · upriver from Korth · Grounds of the Ivory Lazaret · Destroyed ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
-The Summer Palace is the Empire's retreat upriver of [Korth](/places/korth/), and the address on the travel papers of anyone permitted to approach [the Holy Empress](/people/uriel-qualanthri/). It is where the court actually sits, because the Empress is there and the Emperor's body is there with her.
+The Summer Palace was the Empire's retreat upriver of [Korth](/places/korth/), and the address on the travel papers of anyone permitted to approach [the Holy Empress](/people/uriel-qualanthri/). It was where the court actually sat, because the Empress was there and the Emperor's body was there with her.
 
 ## Getting there
 
@@ -86,7 +86,7 @@ The palace needs few guards because of the Emperor's sleep. The rod that held hi
 
 Vice Admiral **Freyd Merkin** handed exactly that assignment to a woman wearing a dead advocate's face: travel to the Summer Palace, the Ivory Lazaret and the surrounding grounds; secure all records of the Grand Lodge; arrest any saboteurs or suspected pirates. The deadline was Monday. It was Friday morning. Failure to return carries a bounty on her head.
 
-The boat sails tonight.
+The boat sailed that night.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the valley was destroyed by a weapon dropped from a ship of the Hundreds. From above the clouds the party saw that its buildings were gone.
 
