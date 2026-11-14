@@ -33,6 +33,7 @@ fields:
   creationDate: Unknown; buried by a Celestial Queen centuries ago
   destructionDate: Extant. The Thirteenth Casting was destroyed by Knell; ten bells remain.
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
 - handouts/hells-bells-dossier.md
 - handouts/fulcrum-bell-file.md
@@ -174,6 +175,8 @@ The party had already barely resisted an urge to ring the bell themselves, cause
 ## Ten bells remain
 
 Back in Sharn, Dario destroyed two more in a single morning. The first sat crated and packed with straw in the unfinished tower above the Black Dove hospital, muffled by people too frightened to touch it; he cleared the packing himself and swung with *“may our children forgive us.”* The second hung in a small temple of Boldrei in the lower city, where the strike brought the whole tower down through the floor into the building below and turned a pacified crowd against him. Research in the same week established three things: the method for making more horns, that **breaking a bell sends no word of itself back to Uriel**, and that Knell is very likely unique.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Uriel rang the Original from the belfry of Nos Matre. Its tolls raised the dead of the hill, deafened Eric the Cleric and brought down the dragon Aurorix. Dario struck it with Knell. A split ran to its crown, it peeled open into layers, collapsed into a rainbow of metal drawn to a single point, and burst, bringing down the tower. No more dead rose after that. What became of the other bells is not yet known.
 
 **Ten bells remain**, at least one of them a Master in Korth — **great casting the ninth**, hanging in a Black Dove tower attached to the Imperial Palace itself. The Original was returned from the Korranberg yard to Her Radiance's keeping under Sister-Inquisitor escort, destination withheld, and the House's factor has written that the reference *will not travel again before the appointed night.*
 

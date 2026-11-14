@@ -32,6 +32,7 @@ fields:
   inhabitants: The Emperor, held in torpor, the Holy Empress and her Black Dove sisters; Lady Glow is rumoured to sing at the bedside
   sensory: Unknown
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - sources/site/korth-episode-summaries.txt
   - C:/dev/sharn-campaign/handouts/fulcrum-bell-file.md
   - C:/dev/sharn-campaign/session-2026-09-04-summary.md
@@ -90,6 +91,8 @@ Fulcrum's best intelligence on the place came from a muleteer working the high r
 Ten [bells](/items/the-hell-s-bell-fantanya-nyel/) remain to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace. Fulcrum is being dismantled across the continent. A Star Advocate of the Ministry of Law has been handed written authority to travel to the Summer Palace, the Ivory Lazaret and the surrounding grounds, seize the guest records of [the Grand Lodge](/places/the-grand-lodge/) and arrest any saboteurs or suspected pirates found there. The deadline is Monday. The boat leaves at nightfall.
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Gemma that the polyhedron over the cathedral is a new device. Smaller ones went up outside some powerful headquarters before it, and since this one appeared, messages in the valley have gone missing or arrived changed, and people have been arrested and followed. The Lazaret itself is sealed with *private sanctum*. <small>(Korth Ep 18)</small>
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Ivory Lazaret was destroyed. The Empress rang the Original from the belfry of Nos Matre, and the dead of the hill climbed out of the ground. Dario broke the bell with Knell and the tower fell. The Polygon in the forecourt carried Uriel's will over the dead, opened to show a perfect darkness inside, and was struck while the party fought below in the Sept of Bones. Uriel was destroyed there. The Heir of Vol, cut from her, grew until it broke the surface under the building. A ship of the Hundreds dropped a glowing red gem into the storm over the valley. When the fire cleared, the Lazaret, Nos Matre and the buildings of the valley were gone.
 
 ## The Stairs of Her Mercy
 

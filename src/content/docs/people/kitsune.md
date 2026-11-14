@@ -36,6 +36,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - 'Oral Histories: The Inevitables, 2026-07-06'
   - 'Oral Histories: The Inevitables, 2026-07-07'
   - 'Oral Histories: The Inevitables, 2026-07-15'
@@ -138,6 +139,10 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Gemma called Kitsune 
 ## The daughters' hall
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/), after the fight in the daughters' hall, Kitsune lay on one of the girls' beds. *"That baby would have been pretty good. And if you get it for me, I won't be mad, but it's not the one that I want. You know which one I want."* He let Gemma off for then, promised to speak for her with the god whose amulet she had taken, and vanished. <small>(Korth Ep 21)</small>
+
+## The cord
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Kitsune whispered to Gemma at the door of the Sept of Bones: *"You swore it to me."* She had the box he had given her for the child, and the child was already the size of a house. Late in the fight she summoned Lalo Kitsune, the fox in his small form, who arrived in his reddest shape. He took hold of the cord that joined Uriel to the Heir of Vol and cut it. *"It's over, Uriel. A promise is a promise. The child is mine now."* Uriel's magic left her. Then the Heir, free of its mother, began to grow, and to heal harder from every wound. *"I think I changed my mind."* He gave Gemma leave to kill it. She could not. Lalo was still in the Sept when she left it.
 
 ## Social
 

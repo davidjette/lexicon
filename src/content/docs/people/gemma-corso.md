@@ -38,6 +38,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - Nico's Sharn DM notes (character ideas)
   - worldanvil/sources/site/rebel-factions.txt
   - worldanvil/sources/site/sharn-episode-summaries.txt
@@ -274,6 +275,8 @@ Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never ra
 ## Right now
 
 Gemma is aboard a river boat to the Summer Palace wearing a dead woman's face and carrying that woman's warrant. The Grand Lodge records are due in Merkin's hands by Monday and it is already Friday. In a locked apartment behind her, a woman the Empire has recorded as a suicide is sleeping off starvation. Ten bells remain.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Gemma called up the *circle of power* in Zero-One's pendant and held it through the fight over Nos Matre. She emptied her wand of *magic missile* into the Empress's belly, which burned the wand out, and felt her patron's anger as her own power dipped. She told Uriel that Esther's last words had been to kill her. In the forecourt she brought the Empress to the ground for Dario's sword. In the Sept of Bones the circle failed, and she summoned Lalo Kitsune, who cut the cord between Uriel and the Heir of Vol and then decided he did not want the child after all. The Bright Dawn only made the Heir stronger. She called Joseph Roberts by sending stone, carried Dario out, and was lifted off the cathedral roof by the *Revenge*. *"Your humour is what made me want to marry you."*
 
 ---
 

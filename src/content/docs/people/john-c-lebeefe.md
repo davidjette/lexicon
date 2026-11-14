@@ -35,6 +35,7 @@ fields:
   height: Unknown - he can also be miniature
   weight: Unknown
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - sources/dave/2026-09-14-legranouille-is-lebeefe.md
   - sources/wa/john-c-lebeefe-person.txt
   - sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
@@ -317,6 +318,10 @@ When the group returned to Sharn during **Korth Ep 12 — The Price of Bread**, 
 Whether LeBeefe survived in some form, left behind an echo of his consciousness, or is being imitated by something in the deep workings remains unresolved. His voice is real enough to influence events, but its source is unknown.
 
 ---
+
+### The Polygon
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), in the Sept of Bones, Esther Crona demanded of Uriel what would happen if the Polygon over Nos Matre were destroyed. Uriel laughed. *"Ask LeBeefe. I stole it from him."* The Polygon had been storing the power of the dead for her and carrying her will. Once it was struck it could not be controlled, and the valley was destroyed shortly afterwards.
 
 ## Personality Characteristics
 

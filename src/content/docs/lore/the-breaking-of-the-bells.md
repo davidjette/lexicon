@@ -32,6 +32,7 @@ fields:
   remaining: Ten, at least one a Master casting in Korth - the ninth great casting, in a Black Dove tower attached to the Imperial Palace
   known: Breaking a bell does not notify Uriel; the horn can be reproduced; Knell is likely unique
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - worldanvil/sources/site/korth-episode-summaries.txt
 - handouts/hells-bells-dossier.md
 - current-state.md
@@ -88,5 +89,9 @@ The second hung in a small temple of Boldrei in the lower city. Gemma masked her
 At the hospital, [Zero of Sharn](/people/zero-of-sharn/) convened a representative of every faith on the continent. Bofric played the fanfare of the Dawn, and the clergy took up teaching what they named the **Horn of Mourning**, congregation by congregation. Dario told them he had broken three bells and would break every one, and that the woman who rings them must be cut down along with everyone who helped her.
 
 > may our children forgive us
+
+## THE ORIGINAL
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Original was rung at Nos Matre and Dario broke it with Knell. The bell split to its crown, peeled open, fell in on a single point and burst, and the belfry came down. The dead stopped rising. The dead already raised stayed under Uriel's control through the Polygon until it too was struck.
 
 **Destroyed:** the Thirteenth Casting; every cast bell in the Korranberg Bladeworks; the hospital bell, Sharn; the Boldrei temple bell, Sharn · **Remaining:** ten, at least one of them a Master casting in Korth — the ninth great casting, hanging in a Black Dove tower attached to the Imperial Palace

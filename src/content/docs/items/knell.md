@@ -31,6 +31,7 @@ fields:
   discovery: Recovered from King Corn's crowned corpse atop Valtrex's hoard on the island in the black lake beneath the Korramont, traded for a Ring of Lesser Wish
   sideEffects: Violent recoil. The sound of a Master breaking deafens everyone nearby for hours.
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - worldanvil/sources/site/korth-episode-summaries.txt
 - session-2026-08-21-recap.md
 - session-2026-08-07-recap.md
@@ -115,3 +116,5 @@ The rebellion can mask the Noise anywhere it can put a horn-player, and it can *
 ## Right now
 
 Dario carries it, has weapon mastery with warhammers, and is one-eyed with a revivification diamond in the socket. In Korth he had every weapon he owns logged with a forged registration under the alias **Sky Rizzy** — *every weapon except Knell*. It is not on any Imperial list. By his own count, given to a room holding a representative of every faith on the continent, he has broken three bells and will break every one. **Ten remain**, at least one a Master hanging in a Black Dove tower attached to the Imperial Palace itself.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario broke the Original with it, in the belfry of Nos Matre, and then took it against the Polygon.

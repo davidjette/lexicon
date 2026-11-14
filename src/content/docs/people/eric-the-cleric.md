@@ -38,6 +38,7 @@ fields:
   height: Unknown
   weight: Unknown - physically feeble; Strength 7
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
@@ -230,6 +231,8 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Eric knocked on the s
 ## Right now
 
 Eric is on a river boat to the Summer Palace wearing a dead paralegal's face, with the Emperor's own death warrant in his bag and a voice in his head that will not stop lecturing him. The Grand Lodge records are due Monday. Ten bells remain, and the ninth great casting hangs in a Black Dove tower attached to the Imperial Palace he just walked away from.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric carried Gemma to the belfry by *dimension door*, was deafened by the bell, and jumped from the falling tower onto the Empress in mid-air. She threw him more than a hundred feet to the ground. In the rubble he turned the risen dead, and the working proved the Navier–Stokes conjecture. He called Aurorix back from death with a diamond, then read the scroll Hopper had made him and summoned Valtrex, who was Aurorix's mortal enemy. He took Gemma down into the Sept of Bones, ate the greatberry when he had nothing left, and after Kitsune's fox cut the cord he destroyed Uriel with the mace of disruption. Roberts's corsairs pulled him aboard the *Revenge* with Zero-One, Ilma Vitt and Matt Matheny's survivors.
 
 ---
 

@@ -29,6 +29,7 @@ fields:
   defenses: Imperial oversight of the grounds; the Ministry has ordered arrests of saboteurs and suspected pirates on site
   history: Subject of a Ministry of Law seizure order issued by Vice Admiral Freyd Merkin, on suspicion of dealings with Lhazaar pirates
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - C:/dev/sharn-campaign/deirdre-moro-cases.md
   - sources/site/korth-episode-summaries.txt
   - sources/site/pose-mission-notes.txt
@@ -102,3 +103,7 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) the Lodge would not a
 - **The ballroom:** a long hall carpeted in deep red, with a bar along one wall and a fireplace.
 - **The Hunters' Salon:** east of the ballroom through the boardroom, where the serious hunters drink.
 - **The library:** where people are brought through on Saturday nights.
+
+## The end of the Lodge
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the valley of the Summer Palace was destroyed by a weapon dropped from a ship of the Hundreds. Joseph Roberts had sold the Lodge before then. He would not name the buyer, and said only that he knew how to time these things and that the buyer had wanted it for a teardown.

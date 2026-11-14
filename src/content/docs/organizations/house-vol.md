@@ -26,6 +26,7 @@ fields:
   allies: The Black Doves under Uriel, the Blood of Vol, the fled elvish houses
   enemies: The Undying Court, the dragons, the alliance that purged the line
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - sources/wa/uriel-qualanthri-person.txt
 - sources/wa/blood-of-vol-organization.txt
 - sources/site/korth-episode-summaries.txt
@@ -78,6 +79,8 @@ The theory carries one hard consequence: the [bells](/organizations/the-houses-o
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — branded with the Dragonmark of Death, a twisting and growing draconic mark between her navel and her loins. She descends from the House and is an eager follower of Erandis Vol. She believes the Vol bloodline is superior and should rule all of Eberron as an undead wonderland.
 - **Gabrielle (Gabriel) Duin** — claims direct descendance from the House of Vol and bears the Dragonmark of Death. Handler of the [Blood of Vol](/organizations/blood-of-vol/), commander of the [Black Doves](/organizations/the-black-doves/) by murder, consort to the Emperor.
 - **Fourteen daughters** — Uriel's children by Emperor Kaius, many sets of twins, all under twelve years old. Not one of them a son.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Uriel Qualanthri bore the Heir of Vol in the Sept of Bones under the Ivory Lazaret, a half-dragon child of her line and the Crimson Sun. She and Esther Crona both died there. The Heir was last seen breaking out of the hill as the valley was destroyed.
 
 **Holdings:** none. The house holds no land, no seat and no title; what survives of it is the mark on two women's bodies and the consecration rite of the bells.
 

@@ -35,6 +35,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - sources/site/korth-episode-summaries.txt
   - C:/dev/sharn-campaign/session-2026-07-15-recap.md
   - C:/dev/sharn-campaign/session-2026-08-21-recap.md
@@ -125,6 +126,8 @@ He speaks Draconic and resents being addressed in anything else - *"You dare spe
 ## Right now
 
 Valtrex is free, sane, hostile and above ground. The party's last sight of him was from the treeline: a black dragon circling the peak of the Korramont on torn wings, declaring the domain of **Valtrex the Putrid**. Scholars in the Hall of Records at Korth are already discussing a black dragon over the mountain, four centuries after the last one was recorded. Master Armhair has gone up there with a cursed crown as a gift, expecting to die. *"Do not return. This is now my domain."*
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric the Cleric read the scroll of *summon dragon* that Hopper had keyed to Valtrex's true name, and Valtrex came to the Ivory Lazaret. The gold dragon Aurorix was there, his mortal enemy. *"So she got you too. But thankfully, she's brought me straight to you, so I can rip out your throat like I should have done six thousand years ago."* He killed Aurorix, and afterwards turned on the dead in the forecourt. He was carrying two riders, Jelton Ahn and Madame Tso, who wore the Crown of Seven Stars. He was last seen above the clouds flying for the Korramont with both of them. The scroll's terms leave him free.
 
 **Organizations / Groups:** None. Party to the broken Deeptempura treaty; a potential ally against the Ivory Lazaret and an evil black dragon, both of which are true at once.
 

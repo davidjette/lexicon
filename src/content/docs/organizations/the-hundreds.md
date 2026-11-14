@@ -25,6 +25,7 @@ fields:
   status: Active; influence growing; intent unknown
   allies: R.U.S.T., the Council of Sharn (conditionally)
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - sources/site/rebel-factions.txt
 - sources/site/mission-board.txt
 - sources/site/sharn-episode-summaries.txt
@@ -108,6 +109,10 @@ The Hundreds gave freely and then presented an invoice. Locke Pierce himself tel
 Then Zilspar Farm burned. Days later three Warforged arrived under Himmie Joffa offering to feed a city calculated at forty-seven days from famine, in exchange for military and logistical access to Sharn's airspace. Eric granted it, told Gemma he had handed Locke Pierce the keys, and said he knew it was a trick. By morning a capital ship had settled out of the fog over Sharn to hand out fruit in orderly lines.
 
 **The open question:** did Pierce learn of Zilspar and give it to the Empire to buy the sky over Sharn? Or did someone else betray [Fulcrum](/organizations/fulcrum/)? The Hundreds' own dossier confirms there were no survivors at the farm. Intent: still unknown.
+
+## THE VALLEY OF THE LAZARET
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) large vessels of the Hundreds came over the Ivory Lazaret from the south as the Heir of Vol broke the surface. One of them dropped a glowing red gem into the storm. The blast destroyed the Lazaret, Nos Matre and the valley, and overturned Joseph Roberts's airship above the clouds.
 
 **Known members:** Locke Pierce, leader · Captain Edday · Himmie Joffa.
 

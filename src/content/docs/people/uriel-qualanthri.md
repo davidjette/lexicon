@@ -34,6 +34,7 @@ fields:
   height: Unknown - strikingly tall
   weight: Unknown - tall and lithe
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - sources/dave/2026-09-14-eberron-open-questions.md
   - sources/wa/uriel-qualanthri-person.txt
   - sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
@@ -273,6 +274,12 @@ Uriel does not leave the Emperor’s side. She waits on a son, and every daughte
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party found her in labour beside the Emperor's bed, insisting the child was not ready and demanding Esther. She murdered Archbishop Pom Pilot of Arawai in the Emperor's garden that afternoon. Eric's fireball set the Emperor's bed alight, and Gemma drove the Bright Dawn into her belly. *"Fine. Then if it's time, then it's time. He's coming. The night begins."* She vanished in a flash of white light, and the bell began to ring. When last seen she was flying for the bell in white robes with her scythe Mourning Dove, joined to the Polygon by a line of purple light, as the dead dug themselves out of the burial ground below. Her daughters are dead except Drakiel and Ysabel, and her head sister, Sister Marshall, was killed beside her. <small>(Korth Ep 21)</small>
 
 Her power comes from the millions of dead buried under the Lazaret's hill. The Polygon is fed by them and stores their power for her, and it is her projection and mind stone, through which she can speak and be seen anywhere in the valley. Like E'noch and Saturnia, she carries the Qualanthri blood, which gives her some hold on the Emperor.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) she rang the Original over Nos Matre and raised the dead of the hill. Dario broke the bell with Knell, and she fought the party in the air, grown to more than a woman's size, with a contraction taking her every few moments. In the forecourt she held the dead and Eden through the Polygon after the bell was gone: *"The dead are under my control, with or without the bell."* Gemma brought her to the ground and Dario took off her head. Her remains sank through the paving.
+
+She went on in the Sept of Bones under the hill, half spirit, her head apart from her body, joined by a cord to the child she had borne, the Heir of Vol. She had kept him in too long, meaning to have his destiny for herself, and before the end she said that her grandfather had been right and that she was a vessel. Esther Crona came down to kill her. Uriel stunned her, bled her and fed her to the child. Kitsune's fox cut the cord, and her magic left her at once. *"It's not fair. I deserve to be queen. I deserve to be happy. You took that from me."* Eric the Cleric destroyed her with a mace of disruption. The diamond was still in her skull.
+
+**Status:** Dead. Destroyed in the Sept of Bones.
 
 ---
 

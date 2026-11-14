@@ -34,6 +34,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - C:/dev/sharn-campaign/session-2026-07-17-recap.md
 - C:/dev/sharn-campaign/session-2026-08-07-recap.md
 - C:/dev/sharn-campaign/session-2026-08-21-recap.md
@@ -101,6 +102,8 @@ Told that [Valtrex](/species/valtrex/) was enslaved with a bell chained round hi
 > So he'll renew our pact.
 
 Argued at, and asked to bless the mountain as a tomb and leave, she answered *"Why would we leave? We've just now recovered it,"* and *"We must renew our pact with the one who gave this to us."* The kin are still in her hall. Only [Bofric](/people/bofric/) left.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) she was seen over the Ivory Lazaret on Valtrex's back with Jelton Ahn, wearing the Crown of Seven Stars, and afterwards flying with them for the Korramont.
 
 **Organizations / Groups:** Matriarch of the Teryaki clan; mistress of the hospitality of Rak'tafur.
 

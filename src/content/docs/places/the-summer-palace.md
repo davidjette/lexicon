@@ -26,6 +26,7 @@ fields:
   inhabitants: The Holy Empress and her household; visiting non-Imperial dignitaries at the Lodge
   history: Named in Deirdre Moro's Ministry portfolio as a standing clearance; the destination of the Grand Lodge assignment
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - C:/dev/sharn-campaign/korth.md
 - C:/dev/sharn-campaign/deirdre-moro-cases.md
 - sources/site/korth-episode-summaries.txt
@@ -86,6 +87,8 @@ The palace needs few guards because of the Emperor's sleep. The rod that held hi
 Vice Admiral **Freyd Merkin** handed exactly that assignment to a woman wearing a dead advocate's face: travel to the Summer Palace, the Ivory Lazaret and the surrounding grounds; secure all records of the Grand Lodge; arrest any saboteurs or suspected pirates. The deadline was Monday. It was Friday morning. Failure to return carries a bounty on her head.
 
 The boat sails tonight.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the valley was destroyed by a weapon dropped from a ship of the Hundreds. From above the clouds the party saw that its buildings were gone.
 
 **Places of Interest:**
 

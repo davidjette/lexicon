@@ -36,6 +36,7 @@ fields:
   height: Unknown
   weight: Unknown - Strength 20 unaided
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
@@ -238,6 +239,8 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Dario was found at th
 ## Right now
 
 Dario is on a river boat to the Summer Palace with a warhammer no clerk in Korth was permitted to log, riding to the one place the Empress is known to be. The Grand Lodge records are due Monday. Ten bells remain, at least one of them a Master, and the ninth great casting hangs in a tower attached to the Imperial Palace he is sailing away from.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario flew Rum Tum to the belfry of Nos Matre and broke the Original with Knell. The tower fell under him. He opened the Empress from neck to navel in the air, and when Gemma brought her down in the forecourt he took off her head: *"For a while, the world was dark. You sucked the hope from the world. And now, after the long night, comes a brighter dawn."* He went for the Polygon with Knell and was mobbed by the dead. He came down into the Sept of Bones close to death, carrying the greatberry that the people above had saved for Eric and the news that the Polygon was going to blow. Gemma carried him out by *dimension door*, and Joseph Roberts took them off the cathedral roof. On the deck of the *Revenge*, with the valley burning behind them, he slid down against the wall and wept.
 
 **Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · Squire Templar of the Silver Flame, Covenant of the Flame · clan Dawnmantle of Q'barra · the Heroes of Leef · kin by marriage to the swamp-dwarf tribes of the Mror Holds and, through them, to the Deeptempura line.
 

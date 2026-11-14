@@ -34,6 +34,7 @@ fields:
   height: 6'2"
   weight: '180'
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - sources/wa/esther-crona-person.txt
   - sources/wa/varyn-crona-person.txt
   - sources/wa/the-crimson-sun-organization.txt
@@ -586,13 +587,15 @@ And she is back because **it wants her back**.
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One told the party that the rite that raised Esther removed her heart, and that the heart is somewhere in the hospital. She believes Uriel wants Esther to find her son Calcifer, because nobody could get closer to him than his mother, and that Esther could not have been used for it with her own heart. <small>(Korth Ep 18)</small>
 
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Esther came down into the Sept of Bones on her wings, armed, while Uriel was fighting Gemma and Eric on the stair. Uriel was afraid of her and left the party to meet her. Esther wounded her badly. Uriel told her that she should have kept her oath to the Crimson Sun, that the two of them were to have been mothers of the same godchild, and asked her to help raise it. Esther seized her and demanded to know what would happen if the Polygon were destroyed. *"Ask LeBeefe. I stole it from him."* Then Uriel stunned her with an Elvish curse, carried her over the pit, opened her back with the scythe Mourning Dove, and fed her to the Heir of Vol, which swallowed her whole. *"You foolish little girl. When I met you, I was over two hundred years old. It is easy to love a child. But now I have a true child."*
+
 ## Organizations / Groups:
 
 [The Crimson Sun](/organizations/the-crimson-sun/) · [The Unforeseen](/organizations/the-unforeseen/) · [The Iron Veil](/organizations/the-iron-veil/) · [Project E.D.E.N.](/organizations/project-e-d-e-n/)
 
 **Former Holdings:** Crona Manor in Korth · the penthouse atop the [Veil Building](/places/the-veil-building/) · **the *Black Veil*, her Imperial warship** · Fort Crona · [Crona's Wall](/places/cronas-wall/)
 
-**Current Status:** Dead — reanimated as an undead soldier; at large
+**Current Status:** Dead — resurrected under the Ivory Lazaret, then killed by Uriel and fed to the Heir of Vol in the Sept of Bones
 
 ## Personality Characteristics
 

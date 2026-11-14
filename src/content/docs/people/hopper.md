@@ -34,6 +34,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+- sources/sessions/korth-2026-11-13-summary.md
 - sources/site/home.txt
 - sources/site/sharn-episode-summaries.txt
 - sources/site/korth-episode-summaries.txt
@@ -84,6 +85,8 @@ At the fall of Esther Crona, Eric held a Bigby's hand from a scroll he had got f
 ## Right now
 
 Hopper supplies the free city's rebellion out of a shop in the Sub-line District.
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric the Cleric read the scroll of *summon dragon* Hopper had made for him, and it brought Valtrex himself to the Ivory Lazaret. Gemma spent every charge of her wand of *magic missile* at once and burned it out.
 
 **Organizations / Groups:** none. A trade partner of the Nest and the Inevitables.
 

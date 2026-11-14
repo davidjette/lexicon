@@ -34,6 +34,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - worldanvil/sources/site/mission-board.txt
   - worldanvil/sources/site/biotec.txt
   - worldanvil/sources/site/pose-mission-notes.txt
@@ -232,6 +233,8 @@ Three years after the fall of Sharn, E.D.E.N. units remained active in the field
 
 Eden's stated intention to rule the Empire with her sister remains unresolved. It is unknown which sister she meant, what she believed had happened to that person, or whether her plan was her own. The Blue Devil is still a weapon created by the Empire, but her words at King's Forest suggest that she may no longer be acting in accordance with the purposes for which she was made.
 
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) her units came up the walkway of Nos Matre firing at the temple and at the Polygon while the dead closed around them. She shouted across the forecourt at Uriel: *"Give me my sister!"* Uriel answered that the dead belonged to her, and Eden's eyes turned purple. The Polygon carried the Empress's will, and Eden was under it from then on. She shot Gemma off the back of the dragon Aurorix, leapt twenty feet into the air to cut at Eric, and called Gemma a liar when told that Esther was below. She was still in the forecourt when the party went underground. The valley was destroyed soon afterwards, and nobody aboard the *Revenge* saw what became of her.
+
 ## What Sister Nora Knew
 
 Sister Nora's account is one of the few direct testimonies about Eden's resurrection and its limits. During questioning under a Zone of Truth at Zilspar Farm 02, Nora described Eden as more alive than the hybrids created after her, but fundamentally incomplete.
@@ -295,6 +298,6 @@ Her capabilities are not proof that the resurrection succeeded completely. The p
 * **Programme:** Project E.D.E.N.
 * **Known epithet:** The Blue Devil
 * **Former occupation:** Imperial researcher
-* **Current status:** Deployed; whereabouts unknown
+* **Current status:** Last seen under the Polygon's control in the forecourt of Nos Matre, shortly before the valley was destroyed; fate unknown
 * **Last confirmed appearance:** King's Forest, Korth
 * **Condition of soul and identity:** Unknown

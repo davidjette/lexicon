@@ -30,6 +30,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/sessions/korth-2026-11-13-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-lodge.transcript.txt
 published: '2026-09-26'
@@ -60,6 +61,10 @@ Director [Aurel Kesk](/people/aurel-kesk/) returned with troopers holding Vitt a
 ## The pilgrim camp
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Ilma was at the pilgrim camp with a small company of Matt Matheny's followers who had taken in Dario and the wounded Zero-One. She confronted Deirdre Moro: *"I gave you everything you needed. You didn't do anything about the corruption."* She asked whether Kesk had sent her, and learned from Eric that Deirdre and Graham were covers. Her followers pledged to help the party. <small>(Korth Ep 18)</small>
+
+## The Revenge
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the pilgrim camp burned, and Ilma came up the hill to Nos Matre with Matt Matheny's followers. She was taken aboard Joseph Roberts's airship *Revenge* from the courtyard, with Eric and Zero-One, before the valley was destroyed.
 
 ## Appearances
 
