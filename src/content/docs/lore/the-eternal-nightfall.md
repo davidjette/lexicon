@@ -19,7 +19,7 @@ tags:
 icon: fa-moon
 fields:
   significance: 'The stated purpose of the entire bell network: a coordinated continental necromantic rising'
-  dateOfSetting: Not yet. Assessed to wait on the birth of a male heir to Uriel Qualanthri and Emperor Caius III.
+  dateOfSetting: The day the Heir of Vol was born. Uriel rang the Original at Nos Matre, and it was broken within minutes.
   relatedOrganizations: The Black Doves; the Empire; the House of Caius; the Korranberg Foundry Trust
   relatedItems: The Fatanya Nyel; the Chorus Ledger; Knell; the Horn of Mourning
   relatedLocations: The Houses of Mercy; Korth; the Ivory Lazaret northeast of Qarth
@@ -38,6 +38,9 @@ sources:
 - "Oral Histories: The Inevitables, 2026-07-06"
 - "Oral Histories: The Inevitables, 2026-08-12"
 - "Oral Histories: The Inevitables, 2026-08-22"
+- sources/sessions/korth-2026-11-13-summary.md
+- sources/dave/2026-11-14-end-of-campaign-release.md
+- C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: the-eternal-nightfall-myth
@@ -50,9 +53,9 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Planned event · Continent-wide · HAS NOT HAPPENED**
+**Planned event · Continent-wide · Begun at Nos Matre and broken there ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
-**The Eternal Nightfall** is a planned coordinated necromantic rising across the whole continent, to be rung in with a chorus of [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) hung in the Houses of Mercy. It is the doctrine of Holy Empress [Uriel Qualanthri](/people/uriel-qualanthri/) and the [Black Dove](/organizations/the-black-doves/) sisterhood, and it is named in the sisterhood's own liturgy. It has not happened: the bells are hung, the network is built and the doctrine is recorded, and the Empress is waiting for one condition to be met, which the Inevitables read as the birth of a male heir.
+**The Eternal Nightfall** is a planned coordinated necromantic rising across the whole continent, to be rung in with a chorus of [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) hung in the Houses of Mercy. It is the doctrine of Holy Empress [Uriel Qualanthri](/people/uriel-qualanthri/) and the [Black Dove](/organizations/the-black-doves/) sisterhood, and it is named in the sisterhood's own liturgy. The bells were hung, the network was built and the doctrine was recorded, and the Empress waited on one condition, the birth of a male heir. When the child came she rang the Original at Nos Matre, and the Inevitables broke the bell within minutes and destroyed her the same day.
 
 ## THE DOCTRINE
 
@@ -106,4 +109,12 @@ And behind all of it, the Ruby Nova. If the Inevitables fail, Locke Pierce ends 
 
 As the trio prepared to go to Korth, Dave set the stakes as "eternal nightfall vs the final morning". <small>(Oral Histories: The Inevitables, 2026-07-06)</small> Once they were in the country under cover, he added that "the world is on the brink of nuclear war and apocalyptic zombie takeover". <small>(Oral Histories: The Inevitables, 2026-08-12)</small> After the Korranberg dungeon, the threat remained that Uriel could set the bells ringing all over Khorvaire, and Dave: "stopping that will take intense coordination across the entire rebellion, to deploy the Horns and hopefully get to the Master bell before it can start the Eternal Nightfall". <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
-**Status:** planned, not executed · **Author:** Holy Empress Uriel Qualanthri · **Instrument:** the chorus of the Fantanya Nyel · **Trigger:** believed to be the birth of a male heir
+## THE NIGHT BEGINS
+
+The condition was the birth of the son. In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the Inevitables reached the Emperor's chamber while Uriel lay in labour beside him, insisting that the child was not ready. Her daughters had been told that their brother would bring the Eternal Nightfall, and that they would not be needed once he did. The Emperor was destroyed by fire in his bed, the child in her womb became his heir, and she left for the bell: *"Fine. Then if it's time, then it's time. He's coming. The night begins."*
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) she rang the Original from the belfry of Nos Matre. The Original was the mother bell, and every other bell in the chorus was copied from it. Its ringing did what Pierce had predicted. Every corpse for a mile around stood up and came to her, tens of thousands of them out of the burial ground of the hill. The living who heard it were driven mad, and the crowd on the hill ran or tore at itself. Every undead thing that could hear it came under her control, whoever had made it and whomever it had served, and that included [Eden](/people/eden/) and her units. The fanfare of dawn, played on the horn, cancelled the bell wherever it sounded and freed the living and the undead who stood inside the music, but it did not lay the risen dead back down.
+
+Sir Dario Argentino broke the Original with Knell within minutes of the first toll, and the dead stopped rising. Uriel held those already risen through [the Polygon](/items/the-polygon/) until it too was struck. She was destroyed in the [Sept of Bones](/places/the-sept-of-bones/) the same day, and the son she had meant to make the eighth Sovereign was last seen in the fire of the [Ruby Nova](/items/ruby-nova/) that destroyed the valley.
+
+**Status:** begun at Nos Matre and broken there · **Author:** Holy Empress Uriel Qualanthri, destroyed · **Instrument:** the chorus of the Fantanya Nyel · **Trigger:** the birth of the Heir of Vol

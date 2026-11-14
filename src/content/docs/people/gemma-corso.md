@@ -1,6 +1,6 @@
 ---
 title: Gemma Corso
-description: Archfey warlock, NEST agent FOXTALE, and the Inevitable who located two more of the Fantanya Nyel while wearing a dead advocate's face.
+description: Archfey warlock, Nest agent FOXTALE and bearer of Bright Dawn, who brought the Empress Uriel down at Nos Matre and is betrothed to Joseph Roberts.
 tags:
   - Gemma Corso
   - Gemma
@@ -25,11 +25,11 @@ kind: people
 icon: fa-mask
 fields:
   rpgAlignment: Unknown - no source records an alignment
-  ggmtitle: Agent FOXTALE of The Nest; one of the Heroes of Leef; Star Advocate of the Ministry of Law (fraudulently, as Deirdre Moro)
+  ggmtitle: Agent FOXTALE of The Nest; one of the Heroes of Leef; betrothed of Joseph Roberts; formerly Star Advocate of the Ministry of Law (fraudulently, as Deirdre Moro)
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Sharn, Lower City; currently the late Deirdre Moro's apartment in central Korth
+  residence: Sharn, Lower City; aboard the airship Revenge at the end of the Korth arc
   gender: Female
   age: Unknown
   eyes: Unknown
@@ -39,6 +39,10 @@ fields:
   weight: Unknown
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-06-summary.md
+  - sources/sessions/korth-2026-10-30-summary.md
+  - sources/sessions/korth-2026-10-23-summary.md
+  - sources/sessions/korth-2026-10-02-summary.md
   - Nico's Sharn DM notes (character ideas)
   - worldanvil/sources/site/rebel-factions.txt
   - worldanvil/sources/site/sharn-episode-summaries.txt
@@ -162,21 +166,21 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 12 · Alive**
+**Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 15 · Alive**
 
 *Also known as:* **Foxtale** (NEST codename; filed once as *Foxtale* in a recovered BioTec document) · **Deirdre Moro**, also written *Deedra Mora* (Korth cover, taken off a corpse) · **Hermione Granger** (on the books of the Zilspar Farm-Table Co-op) · **June Lockheart** (Newham cover) · **Dawn** (rebel code name at Leef) · one of the **Heroes of Leef**
 
-Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Corso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She is now in Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it.
+Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Corso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She went into Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it. At Nos Matre, above [the Ivory Lazaret](/places/the-ivory-lazaret/), she brought the Empress [Uriel Qualanthri](/people/uriel-qualanthri/) to the ground for Dario's sword, and in [the Sept of Bones](/places/the-sept-of-bones/) her patron's fox cut the cord that sustained Uriel. She left the valley aboard the airship *Revenge* with [Joseph Roberts](/people/pirate-joseph-roberts/), whom she has agreed to marry.
 
-A tiefling in fey-crafted armour — the plates reworked by her patron after a dream-audience, the interior now lined in velvet to match the pewter heart-box she was given in the same dream. She goes armed with **Bright Dawn**, a sword that was once red Khyber and is now clear crystal. More often than not she is wearing a face that is not hers: a high-elf acolyte's for eleven days in Korth, a dead Star Advocate's for the last several weeks. Her hair is red <small>(the Sharn News Network broadcast that named "a red-haired tiefling" among the three suspects)</small>. Height, horns and tail are **Unknown**; no source describes them.
+A tiefling in fey-crafted armour — the plates reworked by her patron after a dream-audience, the interior now lined in velvet to match the pewter heart-box she was given in the same dream. She goes armed with **Bright Dawn**, a sword that was once red Khyber and is now clear crystal. Through the Korth arc she was more often than not wearing a face that was not hers: a high-elf acolyte's for eleven days in Korth, a dead Star Advocate's for several weeks, and then General Thar's and Sister Maelis Dorn's. She dropped the last of them in the Summer Palace and finished the arc as herself. Since then she has worn an *amulet of health*. Her hair is red <small>(the Sharn News Network broadcast that named "a red-haired tiefling" among the three suspects)</small>. Height, horns and tail are **Unknown**; no source describes them.
 
 **The Nest** is the clandestine stronghold of Sharn's rebellion, hidden beneath Skyroot Park in the Upper City. Under the park's lawns lies abandoned lightning rail Station 5, part of the Sub-Transit network dismantled nine years ago after catastrophic failures; the rebels seized the forgotten infrastructure and rebuilt the station and its tunnels into a base. Jessica Grimpledink, an artificer of Morgrave University who was on duty at Station 5 the night it detonated, is its de facto leader, designed most of its defences, and maintains its arcane systems. From the Nest the cell coordinates intelligence, plans strikes, and keeps covert lines open to Fulcrum in the Breeland farmsteads and to the Republic of Talenta in the east. Gemma has been a field asset of the Nest for three years.
 
-**In public** Gemma is whoever the assignment requires and nobody remembers her afterwards. In Korth she is Star Advocate Deirdre Moro of the Ministry of Law, a woman feared for winning, whose credentials open nearly any Imperial facility and whose delivery of a capital indictment drew admiring looks from eight judges of the High Court. Before that she was a lay penitent of the Host seeking work in the mercy-kitchens of a Black Dove cloister, grief rehearsed and correct. On the Zilspar co-op's payroll she is a farm hand called Hermione Granger. **In private** she is the party member who does the arithmetic nobody else wants to see written down. She killed Deirdre Moro, Deirdre's paralegal, a tarot-reading woman, a dog and a guard in one evening to secure a safehouse and a set of papers, and she has never once argued that this was anything other than what it was. She keeps her patron's terms secret from her own friends. She has told Eric to his face that she will kill him in his sleep if he goes near another bell.
+**In public** Gemma is whoever the assignment requires and nobody remembers her afterwards. In Korth she was Star Advocate Deirdre Moro of the Ministry of Law, a woman feared for winning, whose credentials opened nearly any Imperial facility and whose delivery of a capital indictment drew admiring looks from eight judges of the High Court. Before that she was a lay penitent of the Host seeking work in the mercy-kitchens of a Black Dove cloister, grief rehearsed and correct. On the Zilspar co-op's payroll she is a farm hand called Hermione Granger. **In private** she is the party member who does the arithmetic nobody else wants to see written down. She killed Deirdre Moro, Deirdre's paralegal, a tarot-reading woman, a dog and a guard in one evening to secure a safehouse and a set of papers, and she has never once argued that this was anything other than what it was. She keeps her patron's terms secret from her own friends. She has told Eric to his face that she will kill him in his sleep if he goes near another bell.
 
 Gemma is a spy first, a duellist second and a bureaucrat third — she has taken three levels of Fighter as a Battlemaster and now fights with Riposte, Parry and Trip Attack alongside eldritch blast and misty step. She works with [Zero of Sharn](/people/zero-of-sharn/), Jessica Grimpledink, Izaak, and the Fulcrum leadership at Zilspar. Her heirloom is a debt: her adoptive father, Jane Corso, is dead, and his pact passed to her when he died.
 
-**The secret:** the pact was never hers. Jane Corso bargained with the archfey Kitsune for freedom and power and promised in exchange to deliver **the heart of Emperor Kaius III**. On his death the debt transferred to Gemma, along with a velvet-lined pewter box built to carry a heart in. Kitsune told her this himself in a fey-dream on the road to Korth. She has told no one — not Eric, not Dario, not the Nest.
+**The secret:** the pact was never hers. Jane Corso bargained with the archfey Kitsune for freedom and power and promised in exchange to deliver **the heart of Emperor Kaius III**. On his death the debt transferred to Gemma, along with a velvet-lined pewter box built to carry a heart in. Kitsune told her this himself in a fey-dream on the road to Korth. She kept it from Eric, Dario and the Nest through most of the Korth arc. What Kitsune wanted proved to be the child the Empress carried, [the Heir of Vol](/people/the-heir-of-vol/). Gemma told Eric so in the Sept of Bones, and the obligation ended there when the fox saw the child grow and changed his mind.
 
 Kitsune later told her, in Dave's words, to "think less literally about what is the heart of the emperor". <small>(Oral Histories: The Inevitables, 2026-07-15)</small>
 
@@ -220,7 +224,7 @@ Her exploits in those three years earned her "a legendary status among the wider
 
 She came out of it with a friendship. **Sister Maelis Dorn**, Sister-Inquisitor of the house, led a veiling on Gemma's ninth day and recited the forbidden litany in front of the choir of witnesses — *come the night / the bells will toll / thirteen / the dead will rise / to serve the living / and the dragon / will be reborn*. The novices treat it as poetry. Dorn counts the thirteen off on her fingers. Gemma's own written assessment closes on the sentence that the Nest has been acting on ever since: the bell is not waiting patiently, the bell is rehearsing.
 
-Dorn's whereabouts are unknown. Her seal was on the shrine door in the Korranberg Foundry, sealed after the bell rang, and her writ named the room. She is still Gemma's friend, and she is still Uriel's will when Uriel does not choose to appear.
+Dorn's seal was on the shrine door in the Korranberg Foundry, sealed after the bell rang, and her writ named the room. She was Uriel's will when Uriel did not choose to appear. Gemma met her again in the slab room under Nos Matre and killed her in the Westhouse in [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/).
 
 ## Above Thronehold and below the Korramont
 
@@ -244,7 +248,11 @@ At the Counting House, Director [Aurel Kesk](/people/aurel-kesk/)'s men dragged 
 
 ## Orientation Day
 
-In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) the risen [Esther Crona](/people/esther-crona/) recognized the sword Gemma carries as her own, called it the Crimson Sun and declared Gemma unworthy to hold it. Gemma refused to surrender it. Both called for the sword at once, and it hung between them before Gemma reclaimed it.
+In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) Gemma joined a novices' tour of the Ivory Lazaret as **Sister Apollonia**, "Apple", the name she had used as a novice in the Korth house. When the sisters asked the elves which ship had brought their families from Aerenal, she gave the same answer as the novice Saturnia, the *Lightbringer*, and Saturnia took her for kin. Under the hospital she found an underground concourse leading south toward the Westhouse, and with Dario she found [Donna](/people/donna/) on the transformation floor. She talked an armoured sister away from the slab-room door and took Dario through its window by *dimension door*.
+
+Inside, [Zero-One](/people/zero-one-fema-nolan/) was raising [Esther Crona](/people/esther-crona/), and [Sister Maelis Dorn](/people/sister-maelis-dorn/) stepped in: *"I didn't think I'd ever see you again, Apollonia. You were always a terrible sister, and now you're proving me right."* Gemma answered, *"I came back to get my report card."* The risen Esther wrenched the sword from Gemma's hand and threw her down the stairs, where a sorrowful sister drank from her until Eric's healing brought her back. Kitsune appeared over her and told her not to let Esther have the sword. Both women called for it at once, and it hung in the air between them before Gemma won it and sent it away. Esther said, *"You are unworthy to hold the Crimson Sun,"* and Gemma answered, *"It's not even called that anymore."*
+
+That night at the Grand Lodge, Kitsune joined her in the bath. She asked what would happen if Uriel were stopped and the child died, and he grew angry: *"You're going to do what I asked you to do. Don't harm that child."* <small>(Korth Ep 16)</small>
 
 ## The Red Bird
 
@@ -256,13 +264,55 @@ A note on Thar's body set a meeting on the peak at dawn, signed **E**. Gemma cas
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Gemma found Joseph Roberts behind the Grand Lodge's library, dropped her disguise for him, and accepted his proposal: *"I will gladly marry you, and you can give me an island, as long as I have freedom. If I make it through this."* She wrote out the fanfare of dawn for him. The next morning she called Kitsune in a mirror, and he swore that if she brings him the child unharmed her obligation is complete and she keeps everything he gave her. At the pilgrim camp she found Dario and Zero-One, taught the Plaza Band the fanfare, and was given Zero-One's pewter pendant, which holds one casting of *circle of power*. Eric told the camp she was Foxtale. <small>(Korth Ep 18)</small>
 
+## The Westhouse
+
+In [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/), at the camp, Gemma asked Dario whether he should carry the Bright Dawn, because he had named it and it could be a symbol of hope. *"I'm not one to wield a symbol of hope, I don't think,"* she said. *"If I survive this, I can't imagine anyone will remember or know who I am."* Dario refused the sword and told her that she was the one who would carry it.
+
+She climbed the Stairs of Her Mercy in the shape of [General Stockton Thar](/people/general-stockton-thar/), with Eric and Dario as his druids, and insisted on the General's noon audience with the Emperor. On the high landing she saw that the statue of Uriel was not fixed to a plinth and stood on a scuffed, patterned platform. In the Imperial Gardens the sisters turned the audience away and lodged the General in the Westhouse, where Maelis Dorn summoned him to her office. Dorn's *dispel magic* stripped the *seeming*, and Gemma stood revealed as herself. She called the Bright Dawn, pinned her old teacher against a bookcase and stabbed her: *"I was such a good student."* Dorn died there.
+
+Saturnia, now a Sister of the Blood, begged for her life, and Gemma frightened the truth out of her: that her grandfather was E'noch, and that the Emperor was the dragon called the Crimson Sun. In the Imperial Archive Gemma cut down a man at the end of the shelves and only then recognised him as Vice Admiral [Freyd Merkin](/people/vice-admiral-freyd-merkin/), the officer who had sent her to the Lazaret as Deirdre Moro and who had forced Deirdre to prosecute her own sister. He did not know her face. *"Your Star Advocate failed her mission, sir,"* she said, and killed him.
+
+Behind a book's cover in the archive she found a bundle of unsent letters in a very old Elvish and read them. They told how the essence of the Crimson Sun had been placed in the infant who became Kaius I, and how the writer had made the Emperor a vampire on his own blood. She guessed the writer was Gabrielle Dwyn. By the end of the night she doubted that there was a child at all: *"I don't know what my fox friend is expecting if there's no child."* <small>(Korth Ep 19)</small>
+
+## The Dinner Party
+
+In [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/) Gemma took Dorn's keys, her adamantine seal and her small iron bell, and cast *seeming* again: herself as Maelis Dorn, Eric as Lus Fayina and Dario as Sister Mary Christmas. As Dorn she told the sisters that General Thar was a traitor who had flown out of a window as a bird. She tried to scry on Uriel with a dead fortune teller's crystal ball and saw only fog. She offered Saturnia a future: *"Maybe if you help us, you can come out the other end and be the new face for Black Doves. What it truly means to be a Black Dove."* When battle sisters were ordered to the belfry she told them, *"The bell needs to be timed perfectly. Three centimeters is way too soon."*
+
+Beneath the hospital she fought the vampires at their dinner table, and in the tunnel beyond she forced the lever on the iron bars of [the Sept of Bones](/places/the-sept-of-bones/), which were clogged with skulls. Before the pool of blood, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) blighted her and drained her to the floor, and Eric brought her back. E'noch found her again when she was invisible across the room: *"So you've uncovered our entire vampire conspiracy. Congratulations. But we've known you were coming, Gemma Corso."* As his spell struck her she heard her father's voice: *"You can't give up. I'm sorry I did this to you. But you gotta survive."* She stabbed the blinded Trillo Dwyn in the back of the neck, and drove the Bright Dawn into E'noch's second form.
+
+The gold dragon [Aurorix](/species/aurorix/) knew her sword. He had fought the Crimson Sun the first time it tried to breed with the Volite houses, and he called her young sprite. He told her that Saturnia bore the Mark of Death and should be destroyed, and Gemma refused. In the room of coffins she opened E'noch's and said, *"Your eternal nightfall will be interrupted by the Bright Dawn."* E'noch Qualanthri was destroyed.
+
+On the way back through the slab room she stopped beside Esther Crona, who lay strapped to the table, and told her that her old general had betrayed them and was working with her sister [Eden](/people/eden/). Esther asked, *"Where is Calcifer?"* Gemma said, *"Alive."* <small>(Korth Ep 20)</small>
+
+## The Summer Palace
+
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) Gemma drew potions of resistance from *Tasha's bubbling cauldron* for the party before they crossed the Emperor's Gardens. Under a cherry tree lay the murdered Archbishop Pom Pilot of Arawai, clutching an *amulet of health*. When she lifted it he rose as a wight and struck her before Dario cut him down. She killed a bone knight with the Bright Dawn at the palace stair.
+
+In the hall of the Empress's daughters she told the girls, *"We're the new babysitters. Your mother needs help."* When the disguise failed she broke her own *seeming* and fought as herself. She killed the nursing sister, and killed none of the children. Afterwards she picked up the baby Ysabel and gave her to the eleven-year-old Drakiel, and Saturnia took both girls away across the river.
+
+Kitsune appeared on one of the four-poster beds. He told her that the baby would have been pretty good but was *"not the one that I want. You know which one I want,"* and said he would put in a good word for her with Arawai. Then the ghost of Pom Pilot stepped in front of her: *"I knew it would be my end, but Arawai gave me a vision that my fate would help someone like you."* He laid his hand on her chest and faded, and she was attuned to the amulet at once.
+
+In the Emperor's chamber Uriel filled the room with magical darkness. Gemma could see through it. She drove Uriel back with *eldritch blast*, came up behind her and put the sword through her back into her belly twice, and Uriel took both blows on herself to spare the child. After Uriel vanished, Gemma pulled Eric to the mace on its pedestal and was caught by the spike trap that guarded it. Her sword could not carry the party out of the palace. Aurorix offered to fly them all away from the valley, and she said, *"We need to finish what we started here."* Outside the palace she played the fanfare of dawn on King Corn's horn, and it brought Dario out of the bell's madness. <small>(Korth Ep 21)</small>
+
+## Nos Matre and the Sept of Bones
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), on Aurorix's back above the ringing bell, Gemma took out Zero-One's pendant: *"Dawn, Silver Flame, Dawn, I need your help."* The *circle of power* went up around all of them, and she held it through the fight over Nos Matre. She kissed Eric on the cheek for luck (*"Good luck, short pants"*) and he carried her to the belfry. Uriel said, *"You have Esther's sword. Why don't you give it to me?"* When Dario broke the Original the roof of the tower fell on her, and she escaped onto Rum Tum behind him.
+
+She emptied her wand of *magic missile* into the Empress's belly, which burned the wand out, and felt her patron's anger as her own power dipped. Uriel demanded the sword again, and Gemma said: *"Do you know what the last thing Esther said before we killed her? She said to kill you."* In the forecourt she dropped from Rum Tum, appeared behind Uriel in the air and brought her to the ground, astride her head, for Dario's sword. When the dead closed in and Dario said it was the end, she answered, *"We're not done yet,"* and carried him back to Eric by *dimension door*. She told Eden that her sister Esther was below, and Eden answered, *"Liar."*
+
+Under the cathedral she broke in the doors of the Sept of Bones with an adamantine mace. Uriel was there with [the Heir of Vol](/people/the-heir-of-vol/) on a cord, and Gemma told Eric at last what her patron wanted: *"Remember my fox friend? I don't talk about him much to you, but he wants that kid. He wants me to not kill it."* In her head Kitsune said, *"You swore it to me."* Uriel's scythe broke her hold on the circle, and its light went out. Esther Crona came to the Sept to kill Uriel and was fed to the Heir.
+
+Gemma summoned Lalo Kitsune over Uriel's head and called Joseph Roberts by sending stone. The fox cut the cord: *"It's over, Uriel. A promise is a promise. The child is mine now."* Uriel's power left her, and Eric destroyed her. The Heir grew, and the fox said, *"I think I changed my mind."* Gemma said, *"Oh, now you don't want this fucking thing?"* With his leave she cut into the Heir twice with the Bright Dawn, and it grew back thicker and stronger each time. She jumped down to Dario, took his hand, and carried him to the roof of the cathedral by *dimension door*. Lalo was left behind in the Sept.
+
+Roberts came in low over the roof in the *Revenge*. *"You know, if you're going to be one of my wives, I'm going to make you work,"* he said, and she answered, *"Your humour is what made me want to marry you."* She made him go back for Eric, Zero-One, Ilma Vitt and Matt Matheny's people. On deck she asked him whether he had sold the Grand Lodge to Locke Pierce, and he would not say. <small>(Korth Ep 22)</small>
+
 ## Habits
 
 In Sharn, by Nico's account, "Gemma is willing to donate her money to the cogborn". <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
 
 Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never raise it. She refused to eat the Mournland pomegranate and took one for study instead. She taught the fanfare of dawn to strangers in a saki bar the night before flying to Zilspar, and they told her the new sad song was going around and everything was getting morose.
 
-[Joseph Roberts](/people/pirate-joseph-roberts/), the Dread Pirate and [Blair](/people/blair/)'s husband, once proposed to her, and she refused him. <small>(Korth Ep 17)</small> The Empire's own file on the Grand Lodge carries his likeness, and it is in her satchel on the boat.
+[Joseph Roberts](/people/pirate-joseph-roberts/), the Dread Pirate and [Blair](/people/blair/)'s husband, once proposed to her, and she refused him. <small>(Korth Ep 17)</small> She accepted him behind the library of the Grand Lodge in Korth Ep 18. The Empire's own file on the Grand Lodge carried his likeness.
 
 > "This is how we send a message back where I'm from."
 
@@ -274,30 +324,32 @@ Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never ra
 
 ## Right now
 
-Gemma is aboard Joseph Roberts's airship *Revenge*, flying out toward the Lhazaar seas beside the man she has agreed to marry. The Empress is destroyed, and the child her patron wanted was last seen in the fire that took the valley. At last count ten bells remained.
-
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Gemma called up the *circle of power* in Zero-One's pendant and held it through the fight over Nos Matre. She emptied her wand of *magic missile* into the Empress's belly, which burned the wand out, and felt her patron's anger as her own power dipped. She told Uriel that Esther's last words had been to kill her. In the forecourt she brought the Empress to the ground for Dario's sword. In the Sept of Bones the circle failed, and she summoned Lalo Kitsune, who cut the cord between Uriel and the Heir of Vol and then decided he did not want the child after all. The Bright Dawn only made the Heir stronger. She called Joseph Roberts by sending stone, carried Dario out, and was lifted off the cathedral roof by the *Revenge*. *"Your humour is what made me want to marry you."*
+Gemma is aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas beside the man she has agreed to marry. Dario, Eric, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp are aboard with her. The Empress is destroyed. [The Polygon](/items/the-polygon/), the Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge are gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/), and as far as anyone aboard could see the Heir of Vol went with them. Her promise to Kitsune ended when the fox changed his mind. At last count ten bells remained, and neither Sharn nor Leef has been heard from.
 
 ---
 
 **Alias:** Foxtale & Hermione Granger (Vilspar Farm-Table Co-op Employee)
 
-**Status:** Alive.
+**Status:** Alive, aboard the airship *Revenge* at the end of the Korth arc. Betrothed to Joseph Roberts.
 
-**Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · The Nest, as Agent FOXTALE · the Heroes of Leef · the Ministry of Law of the Pax Imperium, fraudulently, as Star Advocate Deirdre Moro · bound by pact to the archfey Kitsune.
+**Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · The Nest, as Agent FOXTALE · the Heroes of Leef · formerly the Ministry of Law of the Pax Imperium, fraudulently, as Star Advocate Deirdre Moro · warlock of the archfey Kitsune, whose claim on her for the Emperor's heart ended in the Sept of Bones.
 
-**Holdings:** the Lower City apartment in Sharn near Kross Roads Corner Store, taken off two ghosts and kept as a base · the late Deirdre Moro's apartment in central Korth, a safehouse purchased with four murders · Zilspar Farm 02, which she calls the closest thing to a home she ever had, now burned to the ground with its people boarded inside.
+**Holdings:** the Lower City apartment in Sharn near Kross Roads Corner Store, taken off two ghosts and kept as a base · the late Deirdre Moro's apartment in central Korth, a safehouse purchased with four murders, where Bantide Moro was hidden at last report · Zilspar Farm 02, which she calls the closest thing to a home she ever had, now burned to the ground with its people boarded inside · the promise of an island from Joseph Roberts, named in the terms on which she accepted him.
 
 **Items:**
 
-- **Bright Dawn** — her sword. Formerly red Khyber, now crystalline. Dario has looked at it twice and said he thought it might curse her the way Varyn Crona's sword cursed Esther. In Korth Ep 16 the risen Esther Crona recognized it as her own and called it the Crimson Sun.
+- **[Bright Dawn](/items/the-bright-dawn-crimson-sun-unbound/)** — her sword. Formerly red Khyber, now crystalline. It was Esther Crona's sword, the Crimson Sun, and Dario named it the Bright Dawn. Dario has looked at it twice and said he thought it might curse her the way Varyn Crona's sword cursed Esther. In Korth Ep 16 the risen Esther recognized it as her own, and Uriel demanded it twice over Nos Matre. It destroyed E'noch Qualanthri in his coffin. It could not harm the Heir of Vol, which grew stronger where the blade cut it.
+- **An *amulet of health*** — taken from the hand of the murdered Archbishop Pom Pilot of Arawai in the Emperor's Gardens, and attuned at once by his ghost.
 - **Fey-crafted armour** — enhanced by Kitsune and relined in velvet; carries charges that summon Lalo Kitsune, a fey fox.
-- **The pewter heart-box** — velvet-lined, given by her patron, sized for a heart. Empty.
-- **King Corn's horn** — coiled brass, King Corn's smith-mark on it, recovered from under a secret panel beneath the rug in his study. She can play the fanfare of dawn on it.
-- **Deirdre Moro's credentials and face** — Ministry of Law, Star Advocate, clearance to the Ivory Lazaret. Condition: intact, and now overdue at the Grand Lodge.
+- **The pewter heart-box** — velvet-lined, given by her patron, sized for a heart. Empty. She took it out in the Sept of Bones, and the Heir of Vol would not have fitted into it.
+- **King Corn's horn** — coiled brass, King Corn's smith-mark on it, recovered from under a secret panel beneath the rug in his study. She can play the fanfare of dawn on it, and did so outside the Summer Palace to bring Dario out of the bell's madness.
+- **A sending stone** — left to her by Joseph Roberts, and used from the Sept of Bones to call the *Revenge*.
+- **Maelis Dorn's keys, adamantine Black Dove seal and small iron bell** — taken from Dorn's body in the Westhouse · a dead fortune teller's crystal ball.
+- **Zero-One's pewter pendant** — SPENT. It held one casting of *circle of power*, used over Nos Matre.
+- **Deirdre Moro's credentials and face** — NO LONGER WORN. Ministry of Law, Star Advocate, clearance to the Ivory Lazaret. Her later faces were Sister Apollonia, General Thar and Maelis Dorn, and she dropped the last disguise in the Summer Palace.
 - **Boots of speed**, bought from "the wizard in Newham", and **gauntlets of ogre power**, from her bastion — both lent to Lorian. <small>(Oral Histories: The Inevitables, 2026-06-19)</small>
 - **A potted plum plant** — sent by her greenhouse bastion, grown from Locke Pierce's seeds. Three pink plums of *lesser restoration* every seven days; kept alive with *plant growth*.
-- A wand of magic missile built at cost by Doppler Klink, burned out over Nos Matre · fifty flasks of lamp oil · one last dose of a potion of lesser polymorph (mouse only), taken off an orc scout · a bone scroll-case.
+- A wand of magic missile built at cost by Doppler Klink, burned out over Nos Matre · a feather fall token, used when the bell brought Aurorix down · fifty flasks of lamp oil · one last dose of a potion of lesser polymorph (mouse only), taken off an orc scout · a bone scroll-case.
 
 **Wearing the Dead:** Gemma's signature working is a discipline — she studies a target until she can hold their voice under an Insight check, kills them, and then goes on being them. She has done it to a Black Dove novice's grief, to Star Advocate Deirdre Moro and her paralegal, and — for one morning in a Boldrei temple in Sharn's lower city — to Chancellor Eric himself, wearing his face and his voice to promise a frightened crowd that nothing would be harmed. Dario then brought the tower down through the floor. She now has proficiency in Performance and in the horn, which gives her advantage on the performance of an impersonation.
 
@@ -305,7 +357,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Gemma calle
 
 **Motivation**
 
-To reach Uriel Qualanthri before the bells can be rung.
+Through the Korth arc, to reach Uriel Qualanthri before the bells could be rung. With Uriel destroyed, what she has asked for is her freedom, which was her condition for accepting Joseph Roberts.
 
 **Likes & Dislikes**
 
@@ -338,17 +390,25 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 
 **Contacts & Relations**
 
-- **Kitsune** — her archfey patron, seen in dreams reclining on a chaise in a white toga. Holds the debt her father contracted. Counsel is sparing and he is under standing warning that he has to lie. Active.
+- **[Kitsune](/people/kitsune/)** — her archfey patron, seen in dreams reclining on a chaise in a white toga. He held the debt her father contracted, and wanted the child of the Empress unharmed. In the Sept of Bones his fox cut the child free of Uriel, and then he changed his mind about it, which ended her obligation. Counsel is sparing and he is under standing warning that he has to lie.
 - **Jane Corso** (also written Croso, and Jeyne Korso) — her adoptive father, a Last War soldier, who held the pact with Kitsune before her and raised her at his junkyard in Newham. Killed during the fighting in Leef and Newham; the pact passed to her.
-- **Sir Dario Argentino** and **Eric the Cleric** — met in Leef, and everything since. Alive; both aboard the boat.
-- **Sister Maelis Dorn** — Sister-Inquisitor of the Korth Black Dove house, befriended under cover, gave her the litany. Whereabouts unknown; she sealed the Korranberg shrine.
-- **Bantide Moro** — the Nightingale, sister of the woman whose face Gemma wears. Alive, hidden in the Korth apartment, officially recorded as a suicide in custody.
-- **Jessica Grimpledink** — leader of the Nest. Asked Gemma quietly whether Eric was how the Empire learned about Zilspar Farm. Alive.
-- **Joseph Roberts**, the Dread Pirate — in the year after the fall of Newham, Roberts purposed to Gemma while they spent time together in his island palace in The Lhazaar Principalities, asking her to be "one of his wives"; he calls Blair his first wife. His likeness is in the Grand Lodge file she has been ordered to act on.
-- **Zero-One (Fema Nolan)** — Fulcrum's leader. Taken alive by E.D.E.N. units at Zilspar; not recovered.
+- **Sir Dario Argentino** and **Eric the Cleric** — met in Leef, and everything since. Alive; both aboard the *Revenge*.
+- **[Joseph Roberts](/people/pirate-joseph-roberts/)**, the Dread Pirate — in the year after the fall of Newham, Roberts purposed to Gemma while they spent time together in his island palace in The Lhazaar Principalities, asking her to be "one of his wives"; he calls Blair his first wife. She accepted him at the Grand Lodge in Korth Ep 18, and he took her off the roof of Nos Matre in the *Revenge*. Alive; her betrothed.
+- **[Sister Maelis Dorn](/people/sister-maelis-dorn/)** — Sister-Inquisitor of the Korth Black Dove house, befriended under cover, gave her the litany. She sealed the Korranberg shrine. Gemma killed her in the Westhouse. Dead.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress. Gemma brought her down in the forecourt of Nos Matre, and Eric destroyed her in the Sept of Bones. Dead.
+- **[Esther Crona](/people/esther-crona/)** — killed by the Inevitables at Sharn, whose sword Gemma carries. Raised in the Ivory Lazaret, she came to the Sept of Bones to kill Uriel and was fed to the Heir of Vol. Dead.
+- **[General Stockton Thar](/people/general-stockton-thar/)** — beheaded by Gemma on the peak in the King's Forest; she wore his shape to the Westhouse. Dead.
+- **[Vice Admiral Freyd Merkin](/people/vice-admiral-freyd-merkin/)** — Deirdre Moro's handler. Killed by Gemma in the Imperial Archive. Dead.
+- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — Uriel's grandfather, a vampire, who knew her name. Destroyed in his coffin by the Bright Dawn.
+- **[Aurorix](/species/aurorix/)** — the gold dragon who knew her sword and carried the party to the bell. Killed by Valtrex over Nos Matre. Dead.
+- **Saturnia** — the Sister of the Blood who guided them into the Summer Palace, and whom Gemma refused to kill when Aurorix asked it. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
+- **[Eden](/people/eden/)** — Esther's sister, who met Gemma on the peak believing she was Thar. She was under the Polygon's control in the forecourt of Nos Matre and was not seen to die.
+- **[Zero-One (Fema Nolan)](/people/zero-one-fema-nolan/)** — Fulcrum's leader. Taken alive by E.D.E.N. units at Zilspar and rescued from the slab room under Nos Matre. She gave Gemma her pendant. Alive; aboard the *Revenge*.
+- **Bantide Moro** — the Nightingale, sister of the woman whose face Gemma wore. Hidden in the Korth apartment at last report, officially recorded as a suicide in custody.
+- **Jessica Grimpledink** — leader of the Nest. Asked Gemma quietly whether Eric was how the Empire learned about Zilspar Farm. Alive at last report.
 
 **Hobbies & Pets**
 
-Lalo Kitsune, a summoned fey fox drawn out of the charges in her armour, who drops cubes of darkness where they are needed. Performance and the horn, learned recently, for professional reasons.
+Lalo Kitsune, a summoned fey fox drawn out of the charges in her armour, who drops cubes of darkness where they are needed. He cut the cord between Uriel and the Heir of Vol, and was left in the Sept of Bones when Gemma carried Dario out. Performance and the horn, learned recently, for professional reasons.
 
 ![Gemma Corso - Sharn.png](/images/uploads/gemma-corso-sharn-mu4wqc69.webp)

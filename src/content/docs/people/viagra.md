@@ -1,6 +1,6 @@
 ---
 title: Viagra
-description: True name of the dragon called the Crimson Sun, erased from every archive in Korth, and the being on the Imperial throne, now held in torpor.
+description: True name of the dragon called the Crimson Sun, erased from every archive in Korth, who reigned as Emperor Kaius and was destroyed with that body.
 type: person
 kind: people
 tags:
@@ -27,7 +27,7 @@ fields:
   dobDisplay: Unknown — before the elves came to Khorvaire
   birthplace: Unknown
   children: The line of Erandis Vol, by Minara Vol; the daughters of Empress Uriel Qualanthri
-  residence: In torpor at the residence on the Summer Palace grounds
+  residence: The residence on the Summer Palace grounds, in torpor, until the body was burned there
   gender: Unknown
   age: Unknown — older than the elvish presence on the continent
   eyes: Unknown
@@ -43,6 +43,8 @@ sources:
 - sources/sessions/korth-2026-10-30-summary.md
 - sources/dave/2026-10-31-enoch-crona-release.md
 - CANON.md 5ar
+- sources/dave/2026-11-14-end-of-campaign-release.md
+- C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: viagra-person
@@ -52,11 +54,11 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Dragon · The most powerful known · The Crimson Sun · Reigning as Kaius I, Kaius II and Kaius III · Held in torpor**
+**Dragon · The most powerful known · The Crimson Sun · Reigned as Kaius I, Kaius II and Kaius III · Destroyed ([Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/))**
 
 **Also known as:** the Crimson Sun · the Dragon Emperor · [Emperor Kaius](/people/emperor-caius-iii/), in his three reigns
 
-**Viagra** is a dragon, described in the only surviving account as the most powerful known, who vanished from the record long before the elves came to Khorvaire. Every named dragon record has been removed from the Hall of Records at Korth, and Viagra was removed earlier and more thoroughly than any of them. Master Armhair, an elderly half-elf loremaster of the Hall, reconstructed the name from contemporaneous accounts and courtiers' journals that had themselves been scrubbed, and holds that the dragon came to King Jarret Ilwenarn with a bargain, that the sick child Prince Kaius died and was replaced, and that **Kaius III is that dragon, and is the same being as Kaius I**. Armhair's manuscript was confiscated; he hid a copy in the Hall under a false index, gave a stranger the number, and expected to be executed for it. The gold dragon Aurorix confirmed the name to the party in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/). Viagra is the dragon the houses of Vol call the Crimson Sun, father of the line of [Erandis Vol](/people/erandis-vol/), and the lingering voice of [John C. LeBeefe](/people/john-c-lebeefe/) had the other half of it: [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) made the Emperor a vampire, and he is held in torpor on a potion of dragon blood.
+**Viagra** is a dragon, described in the only surviving account as the most powerful known, who vanished from the record long before the elves came to Khorvaire. Every named dragon record has been removed from the Hall of Records at Korth, and Viagra was removed earlier and more thoroughly than any of them. Master Armhair, an elderly half-elf loremaster of the Hall, reconstructed the name from contemporaneous accounts and courtiers' journals that had themselves been scrubbed, and holds that the dragon came to King Jarret Ilwenarn with a bargain, that the sick child Prince Kaius died and was replaced, and that **Kaius III is that dragon, and is the same being as Kaius I**. Armhair's manuscript was confiscated; he hid a copy in the Hall under a false index, gave a stranger the number, and expected to be executed for it. The gold dragon Aurorix confirmed the name to the party in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/). Viagra is the dragon the houses of Vol call the Crimson Sun, father of the line of [Erandis Vol](/people/erandis-vol/), and the lingering voice of [John C. LeBeefe](/people/john-c-lebeefe/) had the other half of it: [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) made the Emperor a vampire, and he was held in torpor on a potion of dragon blood until the body was burned in [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/), which destroyed him.
 
 ## Physical description
 
@@ -102,9 +104,11 @@ The Empire spent three years drawing dragon blood off a living black dragon on a
 
 ## Right now
 
-He lies in torpor at the residence on the Summer Palace grounds, sustained on the blood potion while his essence is stolen, and the Empress is in labour with his fourteenth child. E'noch Qualanthri, who put him in that body, is destroyed. Master Armhair set out for the Korramont to find Valtrex and finish his book, expecting to die. The Inevitables gave him the Crown of Seven Stars to bargain with and did not tell him it was cursed. His manuscript is the only complete account of Viagra in existence.
+Viagra is destroyed. He lay in torpor at the residence on the Summer Palace grounds, staked through the heart and sustained on the blood potion while his essence was stolen, until the Emperor's body was burned. E'noch Qualanthri, who put him in that body, was destroyed before him. Master Armhair set out for the Korramont to find Valtrex and finish his book, expecting to die. The Inevitables gave him the Crown of Seven Stars to bargain with and did not tell him it was cursed. His manuscript is the only complete account of Viagra in existence.
 
-In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) Aurorix said that Viagra made Vol, that Viagra is perhaps the most powerful dragon to survive creation, and that killing it the first time cost a nation of giants and nearly all the elves and dragons. *"A body like this could never contain the full power of one of my kind. But whatever is being birthed, it will not be limited by that form."* The body of Kaius III burned on its bed that afternoon with the stake still in it. What that did to Viagra is not known. <small>(Korth Ep 21)</small>
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) Aurorix said that Viagra made Vol, that Viagra is perhaps the most powerful dragon to survive creation, and that killing it the first time cost a nation of giants and nearly all the elves and dragons. *"A body like this could never contain the full power of one of my kind. But whatever is being birthed, it will not be limited by that form."* The body of Kaius III burned on its bed that afternoon with the stake still in it. <small>(Korth Ep 21)</small>
+
+The fire destroyed him. Made a vampire, he could be ended as a vampire is. Staked, he could not turn to mist, and he had no resting place to return to, so the burning of the body was final, and the essence of the dragon in it was destroyed with it. Had the stake been drawn, he would have fed on those around his bed and then risen in his own shape, a great red dragon, for a day. A large piece of his power had been invested long before in the sword Varyn Crona carried, now the [Bright Dawn](/items/the-bright-dawn-crimson-sun-unbound/), and his son was unborn in the Empress when he burned.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the child Uriel had conceived by him was born in the Sept of Bones: the Heir of Vol, a half-dragon that breathed black fire. Uriel told Esther Crona that she had broken her oath to the Crimson Sun and that the two of them were to have been mothers of the same godchild. Cut from its mother, the Heir could not be killed with weapons. It was breaking out of the hill when the valley was destroyed.
 
@@ -126,7 +130,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the child U
 
 - **King Jarret Ilwenarn** — came to him with a bargain, per Armhair. Long dead.
 - **Prince Kaius** — the sick child who was killed and replaced.
-- **[Emperor Kaius III](/people/emperor-caius-iii/)** — the same being. Made a vampire by E'noch; held in torpor these ten years, and has not sat the Throne of Bones in that time.
+- **[Emperor Kaius III](/people/emperor-caius-iii/)** — the same being. Made a vampire by E'noch, held in torpor for ten years, and destroyed by fire in his bed.
 - **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** and **[Varyn Crona](/people/varyn-crona/)** — put his essence in the child. Varyn's sword took a large piece of his power, and E'noch's blood is the one he craves. Both destroyed.
 - **Aurorix** — a gold dragon who fought him long ago, and gave his name to the party.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress, who bears his children.

@@ -46,6 +46,8 @@ sources:
   - sources/dave/2026-09-26-korth-ep15-rulings.md
   - Dave, note of 2026-09-26
   - sources/dave/2026-10-06-lazaret-flame-tomb-inscription-uriel-diamond.md
+  - sources/dave/2026-11-14-end-of-campaign-release.md
+  - C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: the-ivory-lazaret-location
@@ -74,7 +76,7 @@ The Ivory Lazaret was the white hospital in the mountains where the Holy Empress
 
 The Emperor is given out as comatose, and Admiral Vex d'Lyrandar's fury at Thronehold was fed by the belief. The coma is a lie: he is held in torpor and sustained on a potion of blood. <small>(Korth Ep 20)</small> Uriel, a cleric of Light from Aerenal and one of the [Black Doves](/organizations/the-black-doves/), has borne him fourteen daughters, many sets of twins, all under twelve years old — and the Inevitables' reading of the bell dossiers is that she is waiting for a specific event, possibly the birth of a male heir, before the bells are rung. Fulcrum's cover letter to the Chancellor adds one rumour about the bedside: that [Lady Glow](/people/lady-glow/), killed by Uriel and "stood back up as a music box", sings there, the sweetest voice in the world.
 
-<small>Gemma's lead, from her time undercover in Korth, places the Lazarette in defensible mountains northeast of Qarth. No member of the party has yet been inside, and its interior is not described.</small>
+<small>Gemma's lead, from her time undercover in Korth, places the Lazarette in defensible mountains northeast of Qarth.</small>
 
 ## The Emperor's convalescence
 
@@ -92,7 +94,7 @@ The Ivory Lazaret no longer stands. At last count ten [bells](/items/the-hell-s-
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Gemma that the polyhedron over the cathedral is a new device. Smaller ones went up outside some powerful headquarters before it, and since this one appeared, messages in the valley have gone missing or arrived changed, and people have been arrested and followed. The Lazaret itself is sealed with *private sanctum*. <small>(Korth Ep 18)</small>
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Ivory Lazaret was destroyed. The Empress rang the Original from the belfry of Nos Matre, and the dead of the hill climbed out of the ground. Dario broke the bell with Knell and the tower fell. The Polygon in the forecourt carried Uriel's will over the dead, opened to show a perfect darkness inside, and was struck while the party fought below in the Sept of Bones. Uriel was destroyed there. The Heir of Vol, cut from her, grew until it broke the surface under the building. A ship of the Hundreds dropped a glowing red gem into the storm over the valley. When the fire cleared, the Lazaret, Nos Matre and the buildings of the valley were gone.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Ivory Lazaret was destroyed. The Empress rang the Original from the belfry of Nos Matre, and the dead of the hill climbed out of the ground. Dario broke the bell with Knell and the tower fell. The Polygon in the forecourt carried Uriel's will over the dead, opened to show a perfect darkness inside, and was struck while the party fought below in the Sept of Bones. Uriel was destroyed there. The Heir of Vol, cut from her, grew until it broke the surface under the building. A ship of the Hundreds dropped a glowing red gem into the storm over the valley. It was a [Ruby Nova](/items/ruby-nova/), Locke Pierce's weapon. When the fire cleared, the Lazaret, Nos Matre and the buildings of the valley were gone.
 
 ## The Stairs of Her Mercy
 
@@ -107,6 +109,8 @@ At the top of the stairs is the forecourt of Nos Matre. A floating object hangs 
 ## The eternal flame
 
 An eternal flame burns at the back of the altar. The guide who leads novices through Nos Matre calls it out as "part of the original structure built on this hill more than two millennia ago, demonstrating the deep history of this site". <small>(Korth Ep 16)</small>
+
+The flame stood on the tip of a dark spired tower that ran down into the hill. Under a paving slab beside it, cut steps and a ladder led down to the Council's crypt and the Sept of Bones, the older structure the guide was speaking of without knowing it.
 
 ![The eternal flame on its iron stand](/images/album/korth-ep-16-orientation-day-the-eternal-flame.webp)
 *The eternal flame.*
@@ -128,7 +132,13 @@ The Tomb of Kaius I stands in the forecourt of Nos Matre, before the western nav
 ![The Tomb of Kaius I](/images/album/korth-ep-16-orientation-day-the-tomb-of-kaius-i.webp)
 *The Tomb of Kaius I.*
 
+The first three lines are Elvish and the second three are Draconic, and they say the same thing: *I am the crimson star that shines in the night. Do not stand at my grave and weep. I am not there; I did not die.*
+
+The tomb was a stone effigy on a draped bier, far more weathered than anything near it, and there was no body in it. Kaius I was the same being as Kaius III, and he never rested there or anywhere else. Under the bier a shaft with an iron ladder went down into the lair of [E'noch Qualanthri](/people/priest-e-noch-qualanthri/), where it came out over the fountain. When Eric asked by divination how the Emperor could be killed, the answer he was given was this inscription.
+
 ## Under the hill
+
+The hospital worked. The Fountain of Mercy healed real wounds in front of the crowd, and the sisters in green were real healers. The same order took the strongest, the most beautiful and the most gifted of the Empire's dead and dying down under the hill and turned them into soldiers loyal to the Empress. The pilgrims saw only the first of these.
 
 A button under a dragon skull in the hospital's morgue opens a wall on stairs to a gate far older than the hospital. Behind it was the lair of [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) and his household, destroyed in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/): a dining hall, cells, a room of coffins standing in soil, a fountain under a shaft that runs up beneath the Tomb of Kaius I, and the pool of blood where the gold dragon Aurorix was bled for the Emperor's potion.
 
@@ -138,7 +148,7 @@ A paved tunnel from the lair runs out against the Sept of Bones, an ancient ston
 
 ## The dead and the ways down
 
-The millions of dead buried under the hill are the source of Uriel's power. The Polygon in the forecourt of Nos Matre is fed by them and stores their power for her, and it is also her projection and mind stone: while it stands she can speak and be seen anywhere in the valley. It listens as well. Smaller ones were raised outside a few powerful headquarters before it, and since it went up, magical messages sent into or out of the valley (*sending*, sending stones, animal messengers) go missing or arrive changed, and their senders are followed and arrested. When the bell rang in [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/), tens of thousands of the dead began to dig themselves out of the burial ground, and Uriel flew for the bell joined to the Polygon by a line of purple light.
+The millions of dead buried under the hill are the source of Uriel's power. The Polygon in the forecourt of Nos Matre is fed by them and stores their power for her, and it is also her projection and mind stone: while it stands she can speak and be seen anywhere in the valley, and it restores her when she is hurt. It listens as well. Smaller ones were raised outside a few powerful headquarters before it, and since it went up, magical messages sent into or out of the valley (*sending*, sending stones, animal messengers) go missing or arrive changed, and their senders are followed and arrested. When the bell rang in [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/), tens of thousands of the dead began to dig themselves out of the burial ground, and Uriel flew for the bell joined to the Polygon by a line of purple light.
 
 The Sept has more than one way in. Under a paving slab beside the eternal flame, cut steps and a ladder go down to the Council's crypt, the entrance to the Sept. A hidden stair in the grotto behind the Summer Palace goes 200 feet down under the hill to the same crypt, and a tunnel runs on from the crypt to the vampires' lair. There is another way in under the statue of Uriel at the top of the Stairs of Her Mercy, where the statue animates, and the shaft from the Tomb of Kaius I runs down into the lair.
 

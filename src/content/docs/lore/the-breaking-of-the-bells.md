@@ -37,6 +37,8 @@ sources:
 - handouts/hells-bells-dossier.md
 - current-state.md
 - worldanvil/CANON.md
+- sources/dave/2026-11-14-end-of-campaign-release.md
+- C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: the-breaking-of-the-bells-article
@@ -91,6 +93,8 @@ At the hospital, [Zero of Sharn](/people/zero-of-sharn/) convened a representati
 > may our children forgive us
 
 ## THE ORIGINAL
+
+The Original was the mother bell, and every other bell in the chorus was copied from it. When it rang, every corpse within a mile stood up and came to the Empress, the living who heard it were driven mad, and every undead thing in earshot fell under her control, whoever had made it. Only Knell could break it. The fanfare of dawn cancelled it wherever the horn was played: inside the music the living kept their minds and the undead were their own again, though the dead the bell had already raised kept coming.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Original was rung at Nos Matre and Dario broke it with Knell. The bell split to its crown, peeled open, fell in on a single point and burst, and the belfry came down. The dead stopped rising. The dead already raised stayed under Uriel's control through the Polygon until it too was struck.
 

@@ -32,6 +32,9 @@ sources:
 - sources/site/korth-episode-summaries.txt
 - handouts/hells-bells-dossier.md
 - handouts/foxtale-debrief.md
+- sources/dave/2026-11-14-end-of-campaign-release.md
+- C:/dev/sharn-campaign/ivory-lazaret-dm.md
+- C:/dev/sharn-campaign/lazaret-expansion-2026-10-06-notes.md
 published: '2026-09-10'
 wa:
   slug: house-vol-organization
@@ -56,7 +59,7 @@ House Vol was an aberrant elvish house, eradicated by humans, giants and "good" 
 
 Freed of the collar the Empire had locked around his neck, and no longer insane, the [black dragon](/species/black-dragons/) Valtrex gave the Inevitables three statements about the house in a single sitting. First: **the elvish houses that fled after the purge of House Vol remain obsessed with Vol's bloodline** — the purge did not end the project, it exported it. Second: **Erandis Vol bore a child by a dragon called the Crimson Sun.** Third: Uriel has used his own stolen blood, drawn off him for three years on an Imperial rig and shipped out by rail, to sire her heirs — which, as he put it, makes him their father.
 
-<small>"The Crimson Sun" in the dragon's mouth names a dragon. The same phrase names the Empire's secret service, whose head was [Varyn Crona](/people/varyn-crona/). Both usages are live and the connection between them is unresolved.</small>
+<small>"The Crimson Sun" in the dragon's mouth names a dragon. The same phrase names the Empire's secret service, whose head was [Varyn Crona](/people/varyn-crona/). The two are connected. The dragon is [Viagra](/people/viagra/), who reigned as Emperor Kaius, and the secret service and the sword its master carried were both named for him. It was Minara Vol who mated with the dragon, and Erandis was their child.</small>
 
 ## THE ARMHAIR MANUSCRIPT — HALL OF RECORDS, KORTH
 
@@ -72,7 +75,11 @@ This section is the working theory of [Gemma Corso](/people/gemma-corso/), [Eric
 - Therefore Uriel is attempting to repeat the thing Erandis did: to bear a dragon-sired son.
 - Which accounts for the fourteen daughters, and for three years of bleeding Valtrex on a rig built to harpoon, restrain and drain him.
 
-The theory carries one hard consequence: the [bells](/organizations/the-houses-of-mercy/) are waiting on a birth, and Locke Pierce's countermeasure is aimed at the same event from the other side. It also leaves one thing unresolved. Valtrex believes the heirs are his, and the Litany promises a dragon reborn, and those two statements are only the same statement if Valtrex's blood was ever the point. Nothing recovered says it was.
+The theory carries one hard consequence: the [bells](/organizations/the-houses-of-mercy/) are waiting on a birth, and Locke Pierce's countermeasure is aimed at the same event from the other side. It also left one thing unresolved at the time. Valtrex believed the heirs were his, and the Litany promises a dragon reborn, and those two statements are only the same statement if Valtrex's blood was ever the point.
+
+## WHAT THE BREEDING WAS
+
+Valtrex's blood was only a means. The dragon of the Litany was the Emperor himself, who was Viagra, the Crimson Sun. Uriel bred with him directly while he lay staked in torpor. The blood of other dragons went into the work: the Emperor was fed on it, and each daughter breathed the fire, acid, lightning or cold of the dragon whose blood she was made with, Valtrex's for the older girls and the gold dragon Aurorix's for the youngest. The design belonged to E'noch Qualanthri, who meant to breed his own line with the Crimson Sun a second time and get a half-dragon with the Mark of Death who was also heir to the Empire. The houses of Qualanthri, Crona and Duin all descend from Vol and all carry the mark, which is rare even among them and kept a close secret. Many of their marked members joined the Black Doves, which was an honest order until Gabrielle Duin and Uriel Qualanthri came to dominate it.
 
 ## SURVIVING CLAIMANTS
 

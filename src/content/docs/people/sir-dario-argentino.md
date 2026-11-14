@@ -1,6 +1,6 @@
 ---
 title: Sir Dario Argentino
-description: Squire Templar of an outlawed faith, blacksmith, and the only hand in Khorvaire that has ever made a Hell's Bell stop ringing.
+description: Squire Templar of an outlawed faith and blacksmith, who broke the Original bell with Knell and beheaded the Empress Uriel at Nos Matre.
 type: person
 kind: people
 tags:
@@ -37,6 +37,10 @@ fields:
   weight: Unknown - Strength 20 unaided
 sources:
 - sources/sessions/korth-2026-11-13-summary.md
+- sources/sessions/korth-2026-11-06-summary.md
+- sources/sessions/korth-2026-10-30-summary.md
+- sources/sessions/korth-2026-10-23-summary.md
+- sources/sessions/korth-2026-10-02-summary.md
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
@@ -136,13 +140,13 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 12 · Alive**
+**Dragonborn · Paladin, Squire Templar of the Silver Flame · The Inevitables · Level 15 · Alive**
 
-*Also known as:* **Flintscale** (his name as a journeyman smith) · **Sir Beef Taco** (first Korth cover) · **Sky Rizzy** (his registered Korth papers, forged in the Hall of Records with a wand-drawn portrait and an official seal) · **Greyscale** · **Ronaldo Weasley** (on the books of the Zilspar Farm-Table Co-op) · **Mortimer Bunk** (Newham cover) · one of the **Heroes of Leef** · **of clan Dawnmantle**
+*Also known as:* **Flintscale** (his name as a journeyman smith) · **Sir Beef Taco** (first Korth cover) · **Sky Rizzy** (his registered Korth papers, forged in the Hall of Records with a wand-drawn portrait and an official seal) · **Sister Mr. Rogers** (as a Black Dove novice at the Ivory Lazaret) · **Greyscale** · **Ronaldo Weasley** (on the books of the Zilspar Farm-Table Co-op) · **Mortimer Bunk** (Newham cover) · one of the **Heroes of Leef** · **of clan Dawnmantle**
 
 Sir Dario Argentino is a dragonborn paladin, Squire Templar of the Silver Flame, a blacksmith, a member of **the Inevitables**, and the only person recorded to have destroyed a **Fantanya Nyel**. He was born and raised in a jungle near Q'barra and took the oath of the Silver Flame — a religion outlawed by the Empire — because it is his family's trade, as all the strong ones of clan Dawnmantle do. He met [Gemma Corso](/people/gemma-corso/) and [Eric the Cleric](/people/eric-the-cleric/) in the rail-town of Leef, where they were named the Heroes of Leef; went west to Newham and killed Grand Duke John C. LeBeefe; fought through the rising at Sharn, and afterwards spent three years on the Thrane front leading cavalry against undead E.D.E.N. units.
 
-Beneath the [Korramont](/places/the-korramont/) the orc war-chief **Braga Kul** killed him; Eric brought him back with a diamond, which sits in the eye socket he lost. On the hoard of the black dragon [Valtrex](/species/valtrex/) he lifted King Corn's warhammer out of the crowned corpse's arms, and with the hammer the kin named **Knell** he has destroyed the Thirteenth Casting, every small casting in the Bladeworks, the crated bell in the unfinished tower above the Black Dove hospital and one in a temple of Boldrei in Sharn's lower city. He is now on a river boat to the Summer Palace.
+Beneath the [Korramont](/places/the-korramont/) the orc war-chief **Braga Kul** killed him; Eric brought him back with a diamond, which sits in the eye socket he lost. On the hoard of the black dragon [Valtrex](/species/valtrex/) he lifted King Corn's warhammer out of the crowned corpse's arms, and with the hammer the kin named **Knell** he has destroyed the Thirteenth Casting, every small casting in the Bladeworks, the crated bell in the unfinished tower above the Black Dove hospital and one in a temple of Boldrei in Sharn's lower city. At Nos Matre, above [the Ivory Lazaret](/places/the-ivory-lazaret/), he broke the Original and took off the head of the Empress [Uriel Qualanthri](/people/uriel-qualanthri/). He left the valley aboard [Joseph Roberts](/people/pirate-joseph-roberts/)'s airship *Revenge*.
 
 ## Physical description
 
@@ -222,7 +226,7 @@ The kin named it **Knell**. Bofric the runesmith had already told them that the 
 
 Dario is the only person recorded to have destroyed a Fantanya Nyel, and he has done it repeatedly. A bell struck with Knell does not ring: the crack runs across it, the metal loses its symmetry and folds in on itself in a lopsided cyclone, dropping so hot it can light straw. The recoil throws him backwards; breaking a Master casting deafened him and the dwarf standing next to him for hours.
 
-He has destroyed the **Thirteenth Casting**, every small casting in the Bladeworks, the crated bell in the unfinished tower above the Black Dove hospital, and one in a small temple of Boldrei in Sharn's lower city. That last strike brought the whole tower down through the floor into the building below, buried him, and turned against the party the crowd Gemma had just pacified.
+He has destroyed the **Thirteenth Casting**, every small casting in the Bladeworks, the crated bell in the unfinished tower above the Black Dove hospital, and one in a small temple of Boldrei in Sharn's lower city. That last strike brought the whole tower down through the floor into the building below, buried him, and turned against the party the crowd Gemma had just pacified. The last bell he broke was the Original, in the belfry of Nos Matre, in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/).
 
 > "may our children forgive us"
 
@@ -232,34 +236,73 @@ He has destroyed the **Thirteenth Casting**, every small casting in the Bladewor
 
 At the Counting House, wearing Gemma's *seeming* as the bodyguard Sky Rizzy, he followed a load of sealed hazardous-materials containers outside after a man in a swashbuckler's coat paid for them; they went by carriage straight to the [Grand Lodge](/places/the-grand-lodge/) and around the back. Later that day, disguised as a winged aasimar Black Dove sister, he climbed the Stairs of Her Mercy with Gemma and Eric. At the fountain at the feet of Uriel's statue he spat into the water in front of the pilgrims. The pilgrims gasped, Gemma turned on him, and he said he was glad he had not pissed in it. <small>([Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/))</small>
 
+## Orientation Day
+
+In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) Dario joined a novices' tour of the Ivory Lazaret in the black habit of a Black Dove, under the name Sister Mr. Rogers. When three novices came over to size up the strangers he wanted to kill them on the spot, and was talked out of it. On the bottom floor of the hospital under Nos Matre he and Gemma found [Donna](/people/donna/), the Silver Flame cleric from Zilspar, on the transformation floor, fitted with attachments and a new jaw.
+
+In the slab room [Zero-One](/people/zero-one-fema-nolan/) knelt in irons, forced to raise [Esther Crona](/people/esther-crona/). Dario lit Pale Fire and took two heads in two blows: *"By the power of the Flame, heathens will perish."* He blinded a battle sister with a smite. When Esther had risen he lifted Zero-One from the floor. She opened her eyes and said, *"Dario, I knew the Flame would warm my skin again,"* and he took her out by *dimension door*. <small>(Korth Ep 16)</small>
+
 ## The Pilgrims Camp
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Dario was found at the pilgrim camp, happier than his friends had seen him in a while. After his *dimension door* out of the slab room he and Zero-One had come out on a peak, and he hid her in the bushes and found followers of Matt Matheny who took them in. He spent the night drinking with the camp, then stood on a stump and asked for everyone who could carry a sword or play a harp or a horn: *"It is a dark day. The sky is gray. And it will be a long night. But that means all the brighter dawn."* He said that if he sees Eden he will destroy her and every one like her. <small>(Korth Ep 18)</small>
 
+## The Westhouse
+
+In [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/), at the camp, Gemma asked Dario whether he should carry the Bright Dawn, because he had named it and it could be a symbol of hope. He refused. *"Rebellions are built on hope,"* he said, and when she doubted that anyone would remember her he put his hand on her chest: *"Gemma, you must have faith in yourself. We are the heroes who will deliver this land. You are the one who will carry the Bright Dawn across the horizon."* Of his own weapons he said: *"I have made my oath. Pale Fire is a symbol of my oath. I carry Knell, the weapon of my wife's people, to bring down upon them. I have but two arms, Gemma."*
+
+He climbed the Stairs of Her Mercy as Veg, one of the druids of [General Stockton Thar](/people/general-stockton-thar/), beside Gemma in Thar's shape. At the Tomb of Kaius I he wanted to climb the tower and break the bell at once, and agreed to wait. In the Westhouse, in the office of [Sister Maelis Dorn](/people/sister-maelis-dorn/), he drew Pale Fire, shouted *"Death to the Black Doves,"* walked onto the table and struck her. He cut the throat of the first Sister Mary Christmas and took off her head with the next stroke. He called Rum Tum, hauled Eric up behind him, and rode the flying panther through the classroom with Eric's *spirit guardians* around them. He destroyed the second Mary Christmas from Rum Tum's back and cut down two white knights after Eric had turned them.
+
+When Saturnia, a Sister of the Blood, begged for her life and agreed to help them, he told her, *"The rebellion is inevitable."* He threw a ball of phlogiston into a room of cowering students. In the Imperial Archive a hooded sister struck him unconscious off Rum Tum, and Eric brought him back. Afterwards he stripped the bodies of Dorn, Lus Fayina and one Mary Christmas and put them in his bag of holding. <small>(Korth Ep 19)</small>
+
+## The Dinner Party
+
+In [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/) Saturnia described the Empress's children, and Dario said: *"Every one of them is a potential Uriel. They all die."* He walked out of the Westhouse under Gemma's *seeming* as Mary Christmas. He had never heard her speak, so he pointed down the stairs and glared, and the guards went. In the slab room he saw that the body on the table was living: *"Esther is not dead. That's not a corpse. She's alive over there."*
+
+Beyond the morgue he kicked in the door on four vampires at dinner. His smites turned vampires to dust, and he tore one off Gemma's back. In the chamber beyond, [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) ordered Lord Lieutenant Trillo Dwyn to destroy the dragonborn. Dario wounded Trillo and blinded him with a smite. Then he flew to the pool of blood where a gold dragon lay half-sunk and laid hands on it: *"Noble dragon, if you can hear me, join the fight. By the light of the Silver Flame, awaken!"* The dragon was [Aurorix](/species/aurorix/), and it woke. Dario put Pale Fire through E'noch, and when E'noch rose again as a bat-winged master vampire he answered it: *"I will purge the earth of you and your entire bloodline. You're a blasphemy on this world. And I'm only sorry that my ancient ancestors couldn't finish the job."*
+
+In the room of coffins he showed the others how the vampires were to be finished, dropping his sword through the heart of the first. He destroyed Lady Ophelia Qualanthri and two more in their coffins. <small>(Korth Ep 20)</small>
+
+## The Summer Palace
+
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) Dario argued against going back to free Esther Crona, because she could join [Eden](/people/eden/) against them. In the Emperor's Gardens he cut down Archbishop Pom Pilot, who had been murdered and had risen as a wight. He killed two of the bone knights at the palace stair.
+
+In the hall of the Empress's daughters he shouted *"Death to the Witch Queen!"* and cut Purell in half with his first stroke. He beheaded Muriel, the eldest. When the fight ended, Saturnia stood between him and the eleven-year-old Drakiel, who had wept in a corner throughout. He drew Pale Fire and said: *"By the name of the Silver Flame, I charge you with treason against all that is holy and name you an abomination."* And: *"There cannot be any legitimate heirs to the Emperor. We've come too far for half measures."* He looked to Eric, as Chancellor, for a verdict, and Eric could not sanction it. Dario sheathed his sword and walked away: *"This is a mistake."*
+
+In the Emperor's chamber he rode up to the Empress in labour and pointed Pale Fire at her: *"Empress Uriel, I charge you with mundicide, genocide, perversion of all things holy, and I sentence you to death."* She called him a lizard and an imitation. He killed Sister Marshall, the head of the Sisterhood of the Blood, and stood on the delivery table over the burning Emperor: *"In the name of the people of Eberron, I will end this empire and free the land."* When Uriel vanished and the bell began to ring, he fell from Rum Tum clutching his head, maddened by it, and Aurorix dragged him out. Gemma played the fanfare of dawn on King Corn's horn and he came out of the madness. He put Pale Fire away, took out Knell, and rode Aurorix toward the bell with the others. <small>(Korth Ep 21)</small>
+
+## Nos Matre and the Sept of Bones
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the bell brought Aurorix down out of the sky. Dario laid hands on the dragon (*"Wake up, my friend! There's work to do!"*), and Rum Tum leapt under him. He flew past the Empress to the belfry of Nos Matre and broke the Original with Knell. The tower fell under him. He wheeled Rum Tum around on Uriel: *"In the name of every hero, of every soul, I strike thee!"* The stroke opened her from the neck to the navel.
+
+In the forecourt, beside [the Polygon](/items/the-polygon/), Gemma brought the Empress to the ground and Dario floated down over her with his wings spread: *"For a while, the world was dark. You sucked the hope from the world. And now, after the long night, comes a brighter dawn."* He said, *"It is over,"* and took off her head. Her head and body melted and sank into the earth, and every dead thing in the yard turned on him. He told Gemma: *"It seems this is where we end, little fox. I am proud that it is with you and that we have accomplished our great quest."* She answered that they were not done yet, and carried him back to Eric by *dimension door*.
+
+He put Pale Fire away, took out Knell, and went for the Polygon. He was mobbed by the dead and badly hurt. He came down into [the Sept of Bones](/places/the-sept-of-bones/) close to death, threw Eric the greatberry that the people above had saved for him, and gave the news: *"That thing up there? It's going to blow."* Breaking it had weakened the hordes, he said. He told the others to run and leave Uriel to him. When Eric destroyed her with the mace of disruption, Dario said, *"Hey man, nice shot."* He killed two of the bone guards as [the Heir of Vol](/people/the-heir-of-vol/) grew, and offered to stay and cover the others, which they refused. Gemma carried him out by *dimension door* to the cathedral roof, and Joseph Roberts pulled them aboard the *Revenge*. On deck, after the valley had burned, he slid down against the wall and wept. <small>(Korth Ep 22)</small>
+
 ## Right now
 
-Dario is aboard Joseph Roberts's airship *Revenge*, flying out toward the Lhazaar seas with Knell and Palefire. The Empress he charged with mundicide is dead, and the Original is broken. At last count ten bells remained, at least one of them a Master, and the ninth great casting hangs in a tower attached to the Imperial Palace in Korth.
-
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario flew Rum Tum to the belfry of Nos Matre and broke the Original with Knell. The tower fell under him. He opened the Empress from neck to navel in the air, and when Gemma brought her down in the forecourt he took off her head: *"For a while, the world was dark. You sucked the hope from the world. And now, after the long night, comes a brighter dawn."* He went for the Polygon with Knell and was mobbed by the dead. He came down into the Sept of Bones close to death, carrying the greatberry that the people above had saved for Eric and the news that the Polygon was going to blow. Gemma carried him out by *dimension door*, and Joseph Roberts took them off the cathedral roof. On the deck of the *Revenge*, with the valley burning behind them, he slid down against the wall and wept.
+Dario is aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas with Knell and Pale Fire. Gemma and Eric are aboard with him, with Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp. The Empress he charged with mundicide is destroyed and the Original is broken. The Polygon, the Ivory Lazaret, Nos Matre and the Summer Palace are gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). Rum Tum was not seen after the fight, and his fate is not known. At last count ten bells remained, at least one of them a Master, and the ninth great casting hangs in a tower attached to the Imperial Palace in Korth. What became of those bells, and of Sharn and Leef, has not been heard.
 
 **Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · Squire Templar of the Silver Flame, Covenant of the Flame · clan Dawnmantle of Q'barra · the Heroes of Leef · kin by marriage to the swamp-dwarf tribes of the Mror Holds and, through them, to the Deeptempura line.
 
-**Holdings:** No fixed residence — he has been on campaign or underground for three years. Through Princess Orange Chicken he holds standing in the Mror Holds and at the court of King Six-Foot-Six-Inch-Long.
+**Holdings:** No fixed residence — he has been on campaign or underground for three years, and at the end of the Korth arc he is a passenger aboard the *Revenge*. Through Princess Orange Chicken he holds standing in the Mror Holds and at the court of King Six-Foot-Six-Inch-Long.
 
 **Items:**
 
-- **Knell** — King Corn's personal black-Khyber warhammer, older than the bells themselves, taken out of a crowned corpse's arms on the hoard of a black dragon. Traded for a Ring of Lesser Wish. Not logged on any Imperial weapon registration.
-- **Pale Fire** — his sword, carried through the Sharn rising and the Korramont; elemental cold was bound into a weapon of his at the Forge of Binding.
+- **Knell** — King Corn's personal black-Khyber warhammer, older than the bells themselves, taken out of a crowned corpse's arms on the hoard of a black dragon. Traded for a Ring of Lesser Wish. Not logged on any Imperial weapon registration. It broke the Original in the belfry of Nos Matre.
+- **Pale Fire** — his sword, carried through the Sharn rising and the Korramont; elemental cold was bound into a weapon of his at the Forge of Binding. It is the sword that took off the head of the Empress Uriel.
 - **Esther Crona's armour** — commissioned for the Lord Commander of Sharn, found in the Crona penthouse, fits him with uncanny precision. He chose it as the foundation of his Korth disguise.
+- **A bag of holding** — after the Westhouse it held the stripped bodies of Maelis Dorn, Lus Fayina and one Sister Mary Christmas.
 - **A tower shield and a sentinel shield** — he swaps to the tower shield specifically for breath weapons.
 - **Smith's tools** — with which he named Shavat on sight.
 - **Longsword of Vengeance** — a +1 longsword possessed by an aspect of Tira Miron, taken from the Imperial stockyard at Leef.
 - **Horseshoes of Speed** — brought back from his downtime mission to the Mror Holds.
 - **Quicksilver** — his first sword of real quality, made in secret before the Leef / Newham arc; the rest of his starting kit he made from scrap.
 - **A masked helm** — made as part of his paladin gear so that he could fight anonymously, rigged for his breath weapon.
-- **A handaxe**, a wand of magic missile built at cost by Doppler Klink, and a Feather Token won in a fighting pit, used over Nos Matre.
+- **A handaxe**, a wand of magic missile built at cost by Doppler Klink, and a Feather Token won in a fighting pit, used over Nos Matre. His healing potions were drunk in the same fight.
+- **The greatberry** — SPENT. He carried it through the fight over Nos Matre and threw it to Eric in the Sept of Bones.
+- **His Korth disguises** — NO LONGER WORN. Sky Rizzy, the winged Black Dove sister, the druid Veg and Sister Mary Christmas were all Gemma's *seeming*, and the party dropped every disguise in the Summer Palace.
 - **His personal prayer book** — GIVEN AWAY. Surrendered through the bars of an Imperial jail to a starving prisoner who asked for a holy symbol of the Silver Flame. She used it as the beacon that let the party track her body down the corpse chute.
-- **The Crown of Seven Stars** — GIVEN AWAY. Ancient work in a rare infernal ore, seven pledges to a devil whose name cannot be spoken, borrowed from Valtrex alongside the hammer. Handed to Master Armhair to carry back down the mountain as a gift, with the instruction never to wear it.
+- **The Crown of Seven Stars** — GIVEN AWAY. Ancient work in a rare infernal ore, seven pledges to a devil whose name cannot be spoken, borrowed from Valtrex alongside the hammer. Handed to Master Armhair to carry back down the mountain as a gift, with the instruction never to wear it. It was last seen on the head of Madame Tso Teryaki, riding Valtrex over Nos Matre.
 
 **Alias:** Greyscale & Ronaldo Weasley (Vilspar Farm-Table Co-op Employee)
 
@@ -267,22 +310,32 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario flew 
 
 **Children:** Red Dragon Shrimp (RDS)
 
-**Status:** Alive.
+**Status:** Alive, aboard the airship *Revenge* at the end of the Korth arc.
 
 ## Social
 
 **Contacts & Relations**
 
 - **[Yellameet](/people/yellameet/)** — the dwarven swamp shaman whose conditions made the marriage; grandfather of his wife.
-- **Princess Orange Chicken** — his wife, a young dwarven leader of the Mror Holds swamp tribes and one of the defenders of Leef. Alive. Their child is Red Dragon Shrimp.
-- **Gemma Corso** and **Eric the Cleric** — met in Leef. Alive; both aboard the boat.
-- **Valtrex** — the black dragon he negotiated with in Draconic and who pulled him out of the acid with his own claw. Alive, free, and now claiming the Korramont as his domain, having ordered the Inevitables never to return.
-- **Madame Tso Teryaki** and **General Tso** — the Teryaki matriarch and her brother. He consecrated their princess with the General. Both refused to evacuate. Alive, in the mountain, with the dragon.
-- **Bofric** — the clan runesmith who translated King Corn's folio and plays the fanfare of dawn. The only dwarf who left with them. Alive, in Sharn.
-- **Zero of Sharn** and **Zero-One** — the Silver Flame's hands in Sharn and at Zilspar. Zero alive; Zero-One taken alive by E.D.E.N. units and not recovered.
-- **Bantide Moro** — the prisoner who asked him for a holy symbol. She has his prayer book. Alive, hidden, officially recorded as a suicide.
-- **Noot Gunray** — the farm hand's boy, sole survivor of Zilspar, whom Dario refused to let anyone question. Alive; the party intends to hand him to someone who can raise him.
+- **Princess Orange Chicken** — his wife, a young dwarven leader of the Mror Holds swamp tribes and one of the defenders of Leef. Alive at last report; Leef has not been heard from since the Lazaret. Their child is Red Dragon Shrimp.
+- **Gemma Corso** and **Eric the Cleric** — met in Leef. Alive; both aboard the *Revenge*.
+- **Zero of Sharn** and **[Zero-One](/people/zero-one-fema-nolan/)** — the Silver Flame's hands in Sharn and at Zilspar. Zero alive at last report. Zero-One was taken by E.D.E.N. units at Zilspar and held in the Ivory Lazaret; Dario carried her out of the slab room in Korth Ep 16. Alive; aboard the *Revenge*.
+- **[Joseph Roberts](/people/pirate-joseph-roberts/)** — the Dread Pirate, who took him off the roof of Nos Matre. Alive; master of the *Revenge*.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress. He charged her with mundicide in the Summer Palace and took off her head in the forecourt of Nos Matre; Eric destroyed what was left of her in the Sept of Bones. Dead.
+- **[Esther Crona](/people/esther-crona/)** — killed by the Inevitables at Sharn and raised in the Ivory Lazaret. She came to the Sept of Bones to kill Uriel and was fed to the Heir of Vol. Dead.
+- **[Aurorix](/species/aurorix/)** — the gold dragon he woke in the pool of blood beneath the hospital and rode to the bell. Revivified once by Eric, then killed by Valtrex over Nos Matre. Dead.
+- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)**, **Lady Ophelia Qualanthri** and **Trillo Dwyn** — the vampires beneath the hospital. Destroyed in their coffins in Korth Ep 20.
+- **[Sister Maelis Dorn](/people/sister-maelis-dorn/)**, **Lus Fayina**, both **Sisters Mary Christmas** and **Sister Marshall** — the leadership of the Black Doves. Dead.
+- **Emperor Kaius III** — burned on his bed in the Summer Palace with the stake still in his heart.
+- **[Eden](/people/eden/)** — Esther's sister, whom he swore to destroy. She was under the Polygon's control in the forecourt of Nos Matre and was not seen to die.
+- **Saturnia** — the Sister of the Blood who guided them into the Summer Palace and stood between him and Drakiel. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
+- **[Donna](/people/donna/)** — the Silver Flame cleric from Zilspar, last seen on the transformation floor under Nos Matre. Her fate is not known.
+- **[Valtrex](/species/valtrex/)** — the black dragon he negotiated with in Draconic and who pulled him out of the acid with his own claw. Eric summoned him to Nos Matre, where he killed Aurorix and then turned on the undead. Alive and free, and last seen flying for the Korramont.
+- **[Madame Tso Teryaki](/people/madame-tso-teryaki/)** and **[General Tso](/people/general-tso/)** — the Teryaki matriarch and her brother. He consecrated their princess with the General. Both refused to evacuate the mountain. Madame Tso was last seen riding Valtrex away from Nos Matre with the scholar Jelton Ahn, wearing the Crown of Seven Stars.
+- **Bofric** — the clan runesmith who translated King Corn's folio and plays the fanfare of dawn. The only dwarf who left with them. In Sharn at last report.
+- **Bantide Moro** — the prisoner who asked him for a holy symbol. She has his prayer book. Hidden in Korth at last report, officially recorded as a suicide.
+- **Noot Gunray** — the farm hand's boy, sole survivor of Zilspar, whom Dario refused to let anyone question. Alive at last report.
 
 **Hobbies & Pets**
 
-Smithing. His *find steed* in Leef and Newham was a large cat, **Rum Tum Tugger**. A mount was killed under him on Esther Crona's balcony on the last night of the Sharn rising; no replacement is recorded.
+Smithing. His *find steed* is a large flying cat, **Rum Tum Tugger**, first called in Leef and Newham. A mount was killed under him on Esther Crona's balcony on the last night of the Sharn rising. He called Rum Tum again in the Westhouse and rode him through the Dinner Party, the Summer Palace and the fight over Nos Matre, where Gemma was left in the saddle when Dario dived on the Empress. Rum Tum was not seen afterwards.

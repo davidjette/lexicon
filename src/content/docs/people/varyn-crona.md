@@ -52,6 +52,7 @@ sources:
   - sources/sessions/korth-2026-10-30-summary.md
   - sources/dave/2026-10-31-enoch-crona-release.md
   - CANON.md 5ar
+  - sources/dave/2026-11-14-end-of-campaign-release.md
 published: '2026-09-10'
 wa:
   slug: varyn-crona-person
@@ -266,7 +267,7 @@ Esther reached the Forge only moments after the Echo had shattered. She did not 
 
 Varyn Crona is dead, his Echo is gone, and the Crimson Sun organization was dissolved by Esther. The Council of 13 that appears to have arranged his assassination no longer exists, but the consequences of his life remain. The Glass Plateau at the center of the Mournlands still yields Red Khyber created by the Mourning, and Project E.D.E.N. continues to mine the material. The Iron Veil was built from the ashes of the institution Varyn once commanded.
 
-Esther died carrying his sword and was later reanimated at the [Ivory Lazaret](/places/the-ivory-lazaret/). The sword itself is now carried by [Gemma Corso](/people/gemma-corso/), but Varyn's voice is silent. The weapon that preserved his blood and soul for centuries no longer carries the Echo Esther believed was guiding her. What remains of the pact's original purpose, and whether any part of Varyn's larger plan survived him, is unknown.
+Esther died carrying his sword, was resurrected three years later under the [Ivory Lazaret](/places/the-ivory-lazaret/), and died again in the Sept of Bones. The sword itself is now carried by [Gemma Corso](/people/gemma-corso/), but Varyn's voice is silent. The weapon that preserved his blood and soul for centuries no longer carries the Echo Esther believed was guiding her. What remains of the pact's original purpose, and whether any part of Varyn's larger plan survived him, is unknown.
 
 ## The Unanswered Questions
 

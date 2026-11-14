@@ -57,6 +57,8 @@ sources:
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
+  - sources/dave/2026-11-14-end-of-campaign-release.md
+  - C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: esther-crona-person
@@ -556,7 +558,7 @@ The process appears to have been based on the same general principle used to res
 
 Esther's corpse had been rebuilt with grafted muscle and skin. Her skeleton was reinforced with bronze and black Khyber, and a skull-faced mask had been bolted to her horns.
 
-She rose bloody and winged. But she did not rise alive. Whatever emerged from the ritual appears to be an undead soldier wearing Esther Crona's body.
+She rose bloody and winged, and to those who saw her she appeared to be an undead soldier wearing Esther Crona's body. She was alive. The rite was a resurrection, the same one Zero-One had used years before to raise Uriel, and it made Esther a living woman again with her heart taken out of her.
 
 ![Korth Ep 16 — Orientation Day - Esther Crona - Risen Undead 1.png](/images/uploads/korth-ep-16-orientation-day-esther-crona-muxm1ek5.webp)
 *Esther Risen*
@@ -586,6 +588,8 @@ And she is back because **it wants her back**.
 *Gemma disguised as a Black Dove in battle with a risen Esther Crona*
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One told the party that the rite that raised Esther removed her heart, and that the heart is somewhere in the hospital. She believes Uriel wants Esther to find her son Calcifer, because nobody could get closer to him than his mother, and that Esther could not have been used for it with her own heart. <small>(Korth Ep 18)</small>
+
+For the three years between her death and the rite, her body lay in an open casket in the crypt under the Lazaret, beside the twelve coffins of the Council members she had hunted down. Once she was raised, the sisters held her in the hospital under the hill and tortured her to make her submit to the Empress. Without the sword Gemma carried she had no power of her own. Her heart was kept in a sealed jar on a shelf of preserved organs in the surgery. The party saw it there in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/) and left it.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Esther came down into the Sept of Bones on her wings, armed, while Uriel was fighting Gemma and Eric on the stair. Uriel was afraid of her and left the party to meet her. Esther wounded her badly. Uriel told her that she should have kept her oath to the Crimson Sun, that the two of them were to have been mothers of the same godchild, and asked her to help raise it. Esther seized her and demanded to know what would happen if the Polygon were destroyed. *"Ask LeBeefe. I stole it from him."* Then Uriel stunned her with an Elvish curse, carried her over the pit, opened her back with the scythe Mourning Dove, and fed her to the Heir of Vol, which swallowed her whole. *"You foolish little girl. When I met you, I was over two hundred years old. It is easy to love a child. But now I have a true child."*
 

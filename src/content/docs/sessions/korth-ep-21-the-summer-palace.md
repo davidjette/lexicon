@@ -35,6 +35,7 @@ sources:
   - sources/sessions/korth-2026-11-06-summary.md
   - C:/dev/sharn-campaign/session-2026-11-06-summary.md
   - C:/dev/sharn-campaign/session-2026-11-06-summer-palace.transcript.txt
+  - sources/dave/2026-11-14-end-of-campaign-release.md
 published: '2026-11-08'
 campaigns:
   - the-unforeseen-strike-back
@@ -374,4 +375,4 @@ The Empress came toward it from the other side, closer, flying in white robes wi
 
 ## Consequences
 
-Archbishop Pom Pilot, Sister Marshall, the Sisters of the Blood in the residence, five bone knights and all the Empress's daughters but Drakiel and Ysabel are dead. Saturnia has gone with the two girls for Aerenal. The Emperor's body has burned on his bed with the rod still in it, and nobody yet knows what that has done to Viagra. Gemma wears Pom Pilot's *amulet of health*, and Eric carries a *mace of disruption*. Gemma's sword cannot carry them out again today. The bell is ringing, the dead are rising, and the party is flying on Aurorix to stop it, racing the Empress there.
+Archbishop Pom Pilot, Sister Marshall, the Sisters of the Blood in the residence, five bone knights and all the Empress's daughters but Drakiel and Ysabel are dead. Saturnia has gone with the two girls for Aerenal. The Emperor's body has burned on his bed with the rod still in it. Staked, he could not escape as mist, and the fire destroyed him and the essence of Viagra that he carried. The child in the Empress's womb is now his heir. Gemma wears Pom Pilot's *amulet of health*, and Eric carries a *mace of disruption*. Gemma's sword cannot carry them out again today. The bell is ringing, the dead are rising, and the party is flying on Aurorix to stop it, racing the Empress there.

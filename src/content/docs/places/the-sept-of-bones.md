@@ -24,6 +24,8 @@ fields:
   history: Built before there was a hill, buried under centuries of graves, and built over by Nos Matre
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/dave/2026-11-14-end-of-campaign-release.md
+  - C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
@@ -31,7 +33,7 @@ campaigns:
 
 **Buried temple · Under the Ivory Lazaret · Older than the hill · Destroyed with the valley ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
-**The Sept of Bones** was an ancient temple buried under the hill of the [Ivory Lazaret](/places/the-ivory-lazaret/), almost directly below [the Polygon](/items/the-polygon/). The millions of dead laid around it over the centuries were the source of [Uriel Qualanthri](/people/uriel-qualanthri/)'s power. She made her last stand there in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), and [the Heir of Vol](/people/the-heir-of-vol/) was born there.
+**The Sept of Bones** was an ancient temple buried under the hill of the [Ivory Lazaret](/places/the-ivory-lazaret/), almost directly below [the Polygon](/items/the-polygon/). It was older than the hospital, the cathedral and the Empire, and the dead of two thousand years lay around it. Those millions of dead were the source of [Uriel Qualanthri](/people/uriel-qualanthri/)'s power. She made her last stand there in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), and [the Heir of Vol](/people/the-heir-of-vol/) was born there.
 
 ## What Aurorix said
 
@@ -47,7 +49,7 @@ Gemma and Eric used none of them. They went straight down through the earth by *
 
 ## The crypt
 
-The crypt is the entrance to the Sept. It lies at the foot of an ancient stone stair under the terrazzo of the ritual garden, a vault of funerary urns with sarcophagi of many ages mortared into its walls. Twelve black coffins no more than thirteen years old hold the members of the [Council of 13](/organizations/the-council-of-13/) whom [Esther Crona](/people/esther-crona/) hunted down. One more casket stands open and empty. It was Esther's. In the crypt Gemma's sword, the [Bright Dawn](/items/the-bright-dawn-crimson-sun-unbound/), turned red for a moment and felt angry in her hand.
+The crypt is the entrance to the Sept. It lies at the foot of an ancient stone stair under the terrazzo of the ritual garden, a vault of funerary urns with sarcophagi of many ages mortared into its walls. Twelve black coffins no more than thirteen years old hold the members of the [Council of 13](/organizations/the-council-of-13/) whom [Esther Crona](/people/esther-crona/) hunted down. There are twelve because [Henry Heinrick](/people/henry-heinrick/) survived the purge and his body was never recovered. One more casket stands open and empty. It was Esther's. She lay in it for years, until Zero-One was captured and Esther was taken up to the slab to be raised. In the crypt Gemma's sword, the [Bright Dawn](/items/the-bright-dawn-crimson-sun-unbound/), turned red for a moment and felt angry in her hand.
 
 The roof of the crypt opens to the sky on a mechanism. It ground open during the fight and let in daylight and rain.
 
@@ -61,10 +63,10 @@ The floor of bones gave up guards for Uriel as long as she held it, great things
 
 ## The last stand
 
-Uriel came here when her body sank through the paving of the forecourt above. She fought Gemma and Eric on the stair, half spirit, joined by a cord to her son. Esther Crona came down to kill her and was fed to the child over the pit. Dario came down with the news that the Polygon was going to blow. Kitsune's fox cut the cord, and Eric the Cleric destroyed the Empress on the stair.
+Uriel came here when her body sank through the paving of the forecourt above. The beheading had not ended her. The labour drew her down to the dead, she lost the child on the way, and in the Sept he took life. Every bone in the place was within her reach. She fought Gemma and Eric on the stair, half spirit, joined by a cord to her son. Esther Crona came down to kill her and was fed to the child over the pit. Dario came down with the news that the Polygon was going to blow. Kitsune's fox cut the cord, and Eric the Cleric destroyed the Empress on the stair.
 
 When the Heir was cut free he drank the power that had held the bones up, and the army in the Sept fell down. He broke out through the hill above.
 
 ## Right now
 
-The valley above the Sept was destroyed by the weapon the Hundreds dropped on it. What is left under the ground is not known.
+The valley above the Sept was destroyed by the [Ruby Nova](/items/ruby-nova/) that the Hundreds dropped on it. Nobody has been back to see what is left under the ground.

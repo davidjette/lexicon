@@ -1,6 +1,6 @@
 ---
 title: The Ruby Nova
-description: Locke Pierce’s weaponised recreation of the Mourning, used once over the northern Mournlands.
+description: Locke Pierce’s weaponised recreation of the Mourning, used over the northern Mournlands and again on the Ivory Lazaret.
 tags:
 - Ruby Nova
 - Locke Pierce
@@ -24,6 +24,9 @@ sources:
 - sources/site/sharn-episode-summaries.txt
 - sources/site/key-figures.txt
 - "Oral Histories: The Inevitables, 2026-06-27"
+- sources/sessions/korth-2026-11-13-summary.md
+- sources/dave/2026-11-14-end-of-campaign-release.md
+- C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: the-ruby-nova-item
@@ -36,9 +39,9 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Weaponised recreation of the Mourning · Locke Pierce's countermeasure · Used once**
+**Weaponised recreation of the Mourning · Locke Pierce's countermeasure · Used twice**
 
-The Ruby Nova is a weapon of Locke Pierce's, a deliberate recreation of the Mourning built as his countermeasure to the bells of Uriel Qualanthri. It has been used once, over the northern Mournlands, from the control chamber at Mt. Silicon, and the free states named the weapon "The Last Mourning."
+The Ruby Nova is a weapon of Locke Pierce's, a deliberate recreation of the Mourning built as his countermeasure to the bells of Uriel Qualanthri. It has been used twice: over the northern Mournlands, from the control chamber at Mt. Silicon, and on the valley of the Ivory Lazaret in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/). After the first use the free states named the weapon "The Last Mourning."
 
 ## The Mournlands detonation
 
@@ -50,6 +53,10 @@ Over the northern Mournlands, with Silver Flame paladins holding a Cyrean portal
 
 The Hundreds are a warforged resistance army. They have reproduced the Mourning and demonstrated it on the field where the Silver Flame had just been fighting, and that stands as the hardest entry in the rebellion's file on them. By the time the Hundreds were handing out food in Sharn in exchange for its airspace, Eric had worked the sequence out and did not like where it ended: any one of those hulls could carry a bomb like Ruby Nova.
 
-**Status:** one confirmed use. The number remaining is **Unknown**.
+## The Ivory Lazaret
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) large vessels of the Hundreds closed on the valley of the [Ivory Lazaret](/places/the-ivory-lazaret/) from the south while [the Heir of Vol](/people/the-heir-of-vol/), cut free of his mother, broke out of the hill. Nothing the Inevitables carried could kill the Heir, who grew with every wound. One of the ships dropped a glowing red gem into the storm over the valley. It was a Ruby Nova. Joseph Roberts, carrying the party away on the airship *Revenge*, shouted at them not to look at it. There was a flash of red, then a blinding white light, then heat and wind, and a dome of red fire rose out of the Lazaret and became a mushroom cloud. When the air cleared, the Lazaret, Nos Matre, the Summer Palace, the Grand Lodge and the Heir were gone.
+
+**Status:** two confirmed uses. The number remaining is **Unknown**.
 
 **Holdings:** demonstrated from Mt. Silicon, the fortified warforged stronghold of the Hundreds.

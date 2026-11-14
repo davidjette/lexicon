@@ -36,6 +36,8 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-12"
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
+- sources/dave/2026-11-14-end-of-campaign-release.md
+- C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: the-summer-palace-location
@@ -80,6 +82,8 @@ The Empress and her high sisterhood tend the ailing Emperor here and carry his c
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party reached the residence across the gardens. It is a palace built as a hunting lodge and later made partly into a hospital. It has a front hall with trophies, a great round fireplace and a war table, a ballroom and throne room, the daughters' hall in one wing with a sunken garden for the girls, and the Emperor's bedchamber upstairs. Bone knights guard its doors, and the doors have no handle or lock; a Sister of the Blood's holy symbol opens them. The residence has its own ward against teleportation. When the party left it, it was burning. <small>(Korth Ep 21)</small>
 
+The Emperor was destroyed in that fire. He burned on his bed with the rod still through his heart, which left him no way to escape as mist and no resting place to return to.
+
 The palace needs few guards because of the Emperor's sleep. The rod that held him in torpor spilled the same sleep over the palace and its grounds, from the east gate of the gardens to the river, and any living creature that entered fell asleep and stayed asleep until it was carried out. The undead, anyone of the Emperor's or the Qualanthri blood, and anyone anointed were spared. Each dawn every Sister of the Blood marks her brow with thinned dragon blood from her vials, and Saturnia anointed the party the same way. About thirty Sisters of the Blood lived there under Sister Marshall, with the Emperor, the Empress and her daughters, and nobody else. A hidden stair in the grotto behind the palace goes down under the hill to the Council's crypt and the Sept of Bones (see [the Ivory Lazaret](/places/the-ivory-lazaret/)).
 
 ## Present day
@@ -88,7 +92,7 @@ Vice Admiral **Freyd Merkin** handed exactly that assignment to a woman wearing 
 
 The boat sailed that night.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the valley was destroyed by a weapon dropped from a ship of the Hundreds. From above the clouds the party saw that its buildings were gone.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the valley was destroyed by a [Ruby Nova](/items/ruby-nova/) dropped from a ship of the Hundreds. From above the clouds the party saw that its buildings were gone.
 
 **Places of Interest:**
 

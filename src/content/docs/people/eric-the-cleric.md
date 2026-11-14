@@ -1,6 +1,6 @@
 ---
 title: Eric the Cleric
-description: An Imperial auditor who became Chancellor of a free Sharn, and who has been hearing a dead man's voice since the Glitterhame.
+description: An Imperial auditor who became Chancellor of a free Sharn and destroyed the Empress Uriel in the Sept of Bones with a mace of disruption.
 tags:
 - Eric the Cleric
 - Eric
@@ -29,7 +29,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: None recorded
-  residence: The penthouse of the Veil Building, Sharn; currently the late Deirdre Moro's apartment in central Korth
+  residence: The penthouse of the Veil Building, Sharn; aboard the airship Revenge at the end of the Korth arc
   gender: Male
   age: Unknown
   eyes: Unknown
@@ -39,6 +39,10 @@ fields:
   weight: Unknown - physically feeble; Strength 7
 sources:
 - sources/sessions/korth-2026-11-13-summary.md
+- sources/sessions/korth-2026-11-06-summary.md
+- sources/sessions/korth-2026-10-30-summary.md
+- sources/sessions/korth-2026-10-23-summary.md
+- sources/sessions/korth-2026-10-02-summary.md
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
@@ -138,17 +142,17 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Cleric · Chancellor of Sharn · The Inevitables · Level 12 · Alive**
+**Cleric · Chancellor of Sharn · The Inevitables · Level 15 · Alive**
 
 *Also known as:* **Graham Cracker** (Korth cover, taken off a corpse) · **The Nerd** · **Harry Potter** (on the books of the Zilspar Farm-Table Co-op) · **Eric Passagemarked** (his official style, after his mark) · one of the **Heroes of Leef** · <small>styled "Chancellor of Char" in one internal note — the live record says Sharn</small>
 
-Eric the Cleric is a cleric of a Karrnathi order of mathematics and order, a former auditor of the Pax Imperium, and Chancellor of the free city of Sharn. He was an orphan forced to learn mathematics and to worship it, served the Empire as an auditor, and lived three years in a bunker beneath the Hall of Records in Korth. In the desert rail-town of Leef he fell in with [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/); the three liberated the town and were named the Heroes of Leef, then went west to Newham and killed Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, they fought the war that broke the Empire's hold on the city, and its Council seated Eric as Chancellor in [Esther Crona](/people/esther-crona/)'s former penthouse. Since the Glitterhame beneath the Korramont he has been hearing the voice of LeBeefe, which nobody else can hear.
+Eric the Cleric is a cleric of a Karrnathi order of mathematics and order, a former auditor of the Pax Imperium, and Chancellor of the free city of Sharn. He was an orphan forced to learn mathematics and to worship it, served the Empire as an auditor, and lived three years in a bunker beneath the Hall of Records in Korth. In the desert rail-town of Leef he fell in with [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/); the three liberated the town and were named the Heroes of Leef, then went west to Newham and killed Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, they fought the war that broke the Empire's hold on the city, and its Council seated Eric as Chancellor in [Esther Crona](/people/esther-crona/)'s former penthouse. Since the Glitterhame beneath the Korramont he has been hearing the voice of LeBeefe, which nobody else can hear. At [the Ivory Lazaret](/places/the-ivory-lazaret/) he burned Emperor Kaius III on his bed, and in [the Sept of Bones](/places/the-sept-of-bones/) he destroyed the Empress [Uriel Qualanthri](/people/uriel-qualanthri/) with a mace of disruption. He left the valley aboard [Joseph Roberts](/people/pirate-joseph-roberts/)'s airship *Revenge*.
 
 He wears metal armour that rings when he brushes a wall, which has woken at least one colony of stirges. On the back of his hand he carries a **dragonmark of Passage** that flares with lightning when he uses it and gave away his identity to a dying admiral. Since attuning a Belt of Dwarvenkind he has been growing a dwarven beard he did not previously have, along with darkvision and a resistance to poison. He is physically feeble — Strength 7, an unarmed strike that does nothing — and carries a tarot deck for divination. Height, colouring and eyes: **Unknown**. By JL's account Eric tried on shorts for the first time out on the coast, and they "might be part of his new look". <small>(Oral Histories: The Inevitables, 2025-12-14)</small>
 
 **His clerical order** is one of mathematics and order, which is less strange in Karrnath than it sounds. In a country whose state religion is bookkeeping applied to the dead — where the very old walk willingly into the Hall of Submission to begin their second service, where a death sentence specifies both the duration of pain and the length of service owed afterward in undeath, and where sentences are scaled by race against expected lifespan — a priesthood of arithmetic is a civil institution as much as a faith. It made Eric an Imperial auditor. It also made him the only person in the rebellion who could read an Imperial ledger and know which line was the lie, and the only one who looked at a dead dwarf king's bell-forging folio and recognised harmonic frequencies and Fourier transforms on sight. Its god is Matt Matheny. <small>(Dave, 2026-09-26)</small>
 
-**In public** Eric is Chancellor of Sharn, seated by the Council in Esther Crona's former penthouse in the Veil Building, and he speaks well: at Thronehold he stood in front of the Empire's own cameras and called for the Empire to be outlawed, with Sanctuary up. In Korth he is Graham Cracker, a paralegal, a younger elf, an orphan, a Korthian old-town boy — a man whose whole function is to carry the preliminary material. **In private** he is a self-described mediocre accountant who spent three years in a bunker beneath the Hall of Records, whose own file in the Imperial Navy's hands says exactly that, and who is currently hearing a voice that no one else can hear. He concealed the whispers from his own party for four sessions of hard travel. He argued in the open for ringing the Thirteenth Bell and then denied having raised it at all. Twice he had to be physically restrained from ringing a bell himself. He is aware of all of this and has offered to be tied up.
+**In public** Eric is Chancellor of Sharn, seated by the Council in Esther Crona's former penthouse in the Veil Building, and he speaks well: at Thronehold he stood in front of the Empire's own cameras and called for the Empire to be outlawed, with Sanctuary up. In Korth he was Graham Cracker, a paralegal, a younger elf, an orphan, a Korthian old-town boy — a man whose whole function is to carry the preliminary material. He dropped that face at the pilgrim camp below Nos Matre and fought the rest of the Korth arc as himself. **In private** he is a self-described mediocre accountant who spent three years in a bunker beneath the Hall of Records, whose own file in the Imperial Navy's hands says exactly that, and who is currently hearing a voice that no one else can hear. He concealed the whispers from his own party for four sessions of hard travel. He argued in the open for ringing the Thirteenth Bell and then denied having raised it at all. Twice he had to be physically restrained from ringing a bell himself. He is aware of all of this and has offered to be tied up.
 
 Eric is the party's opener of things that will not open — a membrane-like door in the Dhakaani tunnels beneath Sharn, the Rite of Recall at the Forge of Binding that called up Varyn Crona's echo, an Iron Door that answered "shave and a haircut" by saying their names back. He works with Renn Tal, Jessica Grimpledink, Digma Beeve and the Council of Sharn. His heirloom is not his: the **Belt of Dwarvenkind** he wears was robbed from a sealed sepulcher, identified at weapons' point as the property of Madame Tso Teryaki's late husband, taken back — and then given to him freely, by her, after Dario carried her king's daughter home.
 
@@ -220,6 +224,12 @@ Climbing the Stairs of Her Mercy disguised as an old Black Dove nun, Eric was as
 
 <small>— Eric, overruling the wet crawl on the Grand Stair into the Glitterhame.</small>
 
+## Orientation Day
+
+In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) Eric joined a novices' tour of the Ivory Lazaret as a Black Dove, under the name Sister Euphrasia. At the fountain in the vestibule of Nos Matre his *detect magic* found a tremendous weight of necromancy in the water, and the party did not drink. He remembered the building, ten or twelve years before, as an interfaith temple open to everyone. In the tower room he searched the shelves and found [Umbra](/items/umbra/) in ampules, packed in Black Dove healing kits.
+
+On the bottom floor of the hospital he looked through the window of a locked door and saw [Zero-One](/people/zero-one-fema-nolan/), beaten, performing a ritual over the opened body of [Esther Crona](/people/esther-crona/). Inside, he climbed onto the observation gallery, shouted *"Down with the Empire!"*, cast *spirit guardians*, and told the sisters he was Eric, the Chancellor of Sharn. He put a dagger in the thigh of [Sister Maelis Dorn](/people/sister-maelis-dorn/). His *remove curse* did nothing to stop the rite, and Dorn boiled his blood with *harm*. When Esther threw Gemma down the stairs, his *mass healing word* brought her back. He took Gemma by the shoulders, told Esther, *"Did you know it was Richard who betrayed you to your death? It was Richard,"* and carried them both out by *dimension door*. <small>(Korth Ep 16)</small>
+
 ## The Red Bird
 
 In [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/) Eric cast *divination* at the Grand Lodge and asked how to find the Dread Pirate [Joseph Roberts](/people/pirate-joseph-roberts/). Matt Matheny sent an angel with big boobs and a big girly wig, who sang him the answer as a country song to an electric guitar. That night he went into the King's Forest with Gemma and the hunter Fora Dollar. A drow's poisoned bolt put him to sleep for the whole fight under the peak, and a spider had begun to wind him in silk before Dollar cut him out. On the peak he stood in the middle of [General Stockton Thar](/people/general-stockton-thar/)'s camp with his *spirit guardians* burning while the red bird took him in its talons and tore at him with its beak, and he held the spell until the bird was brought down. When Dollar protested that they had assassinated an officer, Eric said, *"Welcome to the rebellion, Master Dollar."* At dawn he stood beside Gemma in the shape of a tiefling druid of Thar's staff while she spoke to [Eden](/people/eden/). <small>(Korth Ep 17)</small>
@@ -228,17 +238,51 @@ In [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/) Eric cast *divination* at 
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Eric knocked on the sliding bookcase in the Grand Lodge's library that led to Joseph Roberts. Roberts greeted him as Chancellor and asked whether he still felt in charge of his city, and Eric told him that as Sharn goes, so goes the continent, and that Locke Pierce is in charge. The next morning he cast *divination* to Matt Matheny and asked how to kill the Emperor. The answer came as a numerical sequence that he worked out in Elvish and Draconic, and it gave the words on the Tomb of Kaius I: *"I am the crimson star that shines in the night. Do not stand at my grave and weep. I am not there. I did not die."* At the pilgrim camp he told the followers of Matt Matheny that Deirdre and Graham were covers, and that Roberts had committed crimes against math. <small>(Korth Ep 18)</small>
 
+## The Westhouse
+
+In [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/) Eric broke Gemma's *seeming* and stepped out of Zero-One's tent as himself, in his red outfit, and the counting-house staff who had fled to the camp knew him at once. One of them gave him a homemade study aid, and with it he read the whole of King Corn's folio in a minute. [Ilma Vitt](/people/ilma-vitt/), still sore that he had not prosecuted the fraud, told him: *"There never was an empire. There was only us, the people. And we're taking it back."* She gave him a bowl of glass, gold and jewelled mosaic, and he cast *heroes' feast* in it for the party, Matt Matheny's followers and the leaders of the Plaza Band. When the bowl was empty Vitt smashed it on the ground.
+
+He climbed the Stairs of Her Mercy as Majorbo, a red, horned druid of [General Stockton Thar](/people/general-stockton-thar/)'s staff. At [the Polygon](/items/the-polygon/) he heard a voice in his head: *"She steals everything from me!"* At the Tomb of Kaius I he found a hole one inch wide drilled through one of the letters of the inscription, as old as the stone, and worked out that it lets a vampire's mist into the tomb, which is where the Emperor returns if he is destroyed.
+
+In Dorn's office in the Westhouse he opened the fight on Director Lus Fayina with the words *"Remember me?"* She touched his face and said, *"Eric, you're such a good boy. How could you do this to mommy?"* When Sister Mary Christmas called six risen guards out of the ground he raised his holy symbol: *"But you forgot one thing. A negative times a negative is a positive."* The turning burned all six to nothing. He caught Lus Fayina in the next room and held her until she died in the light of his *spirit guardians*. He rode behind Dario on Rum Tum through the classroom, and brought Dario back when a hooded sister struck him down in the Imperial Archive.
+
+He persuaded Saturnia, a Sister of the Blood, to come with them: *"No matter what happens, the Emperor and the Empress will be dead. If not by dawn, then by the next one."* In the archive he and Saturnia found the records of the treatment of the future Kaius I by the elvish shaman E'noch. When Gemma guessed that the unsigned letters hidden there were Gabrielle Dwyn's, Eric said the writer could as easily be E'noch. Of the Black Doves' fountains he said, *"What's it gonna do? Turn me into a talking octopus?"* <small>(Korth Ep 19)</small>
+
+## The Dinner Party
+
+In [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/) Eric left the Westhouse under *seeming* as Lus Fayina and drank from its fountain with the others. When a battle sister sent her company to the belfry, he said, *"Don't be so hasty with that bell, by the way."* A nun in the hospital asked Lus Fayina whether to resume her duties, and he told her: *"You should put your head between your knees and kiss your ass goodbye. The place is burning down."*
+
+In the vampires' dining hall beneath the hospital he destroyed thralls one after another, and of the old Aerenal glass and bronze on the table he said to melt it and distribute it to the people. In the tunnel beyond, outside the Sept of Bones, he felt dread and heard a voice in his head: *"Yes. That insane bitch. Look what she's been doing. Even I wasn't this irresponsible. She's going to destroy everything."*
+
+Before the pool of blood, Lady Ophelia Qualanthri charmed him. When [E'noch Qualanthri](/people/priest-e-noch-qualanthri/) drained Gemma to the floor, Eric's *cure wounds* brought her back. E'noch called six spawn out of the iron maidens, and Eric clanged his dagger on his shield: *"By the power of Matt Matheny, I command you to go fuck yourself!"* The turning burned the spawn and sent Ophelia running. He called his celestial, Ada Lovelace. When E'noch rose as a master vampire, it was Eric's stroke from below that broke him apart and sent him to mist. He fed a healing potion to the gold dragon [Aurorix](/species/aurorix/), and in the room of coffins he destroyed Lord Lieutenant Trillo Dwyn with his dagger. On the way back through the slab room he noticed a mummified heart in a jar, which nobody took. <small>(Korth Ep 20)</small>
+
+## The Summer Palace
+
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) Eric examined the body of Archbishop Pom Pilot in the Emperor's Gardens. He found bloody footprints leading north, barefoot, long and slender, and identified the amulet in the dead man's hand as an *amulet of health*. In the sunken garden he blew a bone knight apart with *fire bolt*. In the daughters' hall his *astral flood* blinded the Sisters of the Blood. When Dario asked him, as Chancellor, for a verdict on the eleven-year-old Drakiel, Eric could not sanction her death.
+
+In the Emperor's chamber the Empress asked who had sent them. *"The people of the continent have sent us to relieve you of your duty, Empress,"* Eric said, and when she asked who he was: *"My name is Eric. I'm the Chancellor of Sharn. Duly elected by the people to bring your regime to an end."* He resisted her command to kneel. His *fireball* caught Uriel, a sister and the Emperor, and the Emperor's bed went up in a column of flame with Kaius III on it. His *spirit guardians* ground against hers in the dark. Ada Lovelace was destroyed in the fight. He tried to stab Uriel, and she blocked it with her scythe.
+
+After Uriel vanished, Gemma pulled him to a mace standing on a pedestal in white-blue flame. When he took it, a spirit showed him a long-dead knight of the Empire who had been ruined and his family killed, and whose most prized possession had been brought there as a trophy. It pledged itself to Eric: a mace of disruption. He destroyed one of the risen Sisters of the Blood with it, and his guardians burned the others. He left the burning palace on Aurorix's back. <small>(Korth Ep 21)</small>
+
+## Nos Matre and the Sept of Bones
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Polygon caught Eric's eye as they flew over the cathedral, and he heard Uriel in his head: *"Go, you disgusting pig! What are you doing here?"* He carried Gemma to the belfry by *dimension door* and was deafened by the bell at arm's length. When the Original broke and the tower began to fall, he asked Gemma whether he should do something incredibly stupid, and jumped from the tower onto the Empress in mid-air. She threw him more than a hundred feet into the rubble. He stood up among the risen dead and turned them, and the working proved the Navier–Stokes conjecture.
+
+His *spare the dying* did nothing for Aurorix, who was dead, so he called him back with *revivify* and a diamond. Aurorix said: *"You've saved me, Priest of Maths, and you have saved us all."* Then Eric used the *summon dragon* that Hopper had stored in a ring for him and called [Valtrex](/species/valtrex/). Aurorix told him, *"You have summoned my mortal enemy. You fool. Get off of me,"* and the two dragons fought each other.
+
+Eric said he was quite keen on fighting undead and would go below without Gemma if he had to, and took them both down into the Sept of Bones by *dimension door*. When Gemma told him that her patron wanted the child, he answered: *"Tell him to come and get it. We don't want it."* She called his god a figment of his imagination, and he said, *"Math is real."* He turned the bone guards on the stair until he had nothing left. When Esther Crona came to the Sept, he raised his wand of *magic missile* and said, *"Hey, Esther, do you remember this?"* Dario brought him the greatberry, and he ate it and was whole. Uriel told him, *"The only god is death. There is no number greater than zero,"* and her spell failed against him. His *fireball* burned the cord between Uriel and [the Heir of Vol](/people/the-heir-of-vol/) almost through. After Kitsune's fox cut it, Uriel flew at him with her scythe, and he struck her with the mace of disruption. Uriel was destroyed.
+
+His *sunbeam* only hardened the Heir. He said the Polygon was going to explode and might do what they could not, and he left the Sept by *dimension door*. Roberts's corsairs pulled him aboard the *Revenge* with Zero-One, Ilma Vitt and Matt Matheny's survivors. <small>(Korth Ep 22)</small>
+
 ## Right now
 
-Eric is aboard Joseph Roberts's airship *Revenge*, flying out toward the Lhazaar seas, with the Emperor's own death warrant still in his bag. The Empress is destroyed and the Emperor burned. At last count ten bells remained, and the ninth great casting hangs in a Black Dove tower attached to the Imperial Palace in Korth.
-
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric carried Gemma to the belfry by *dimension door*, was deafened by the bell, and jumped from the falling tower onto the Empress in mid-air. She threw him more than a hundred feet to the ground. In the rubble he turned the risen dead, and the working proved the Navier–Stokes conjecture. He called Aurorix back from death with a diamond, then used the *summon dragon* Hopper had stored in a ring for him and called Valtrex, who was Aurorix's mortal enemy. He took Gemma down into the Sept of Bones, ate the greatberry when he had nothing left, and after Kitsune's fox cut the cord he destroyed Uriel with the mace of disruption. Roberts's corsairs pulled him aboard the *Revenge* with Zero-One, Ilma Vitt and Matt Matheny's survivors.
+Eric is aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in his bag. Gemma, Dario, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp are aboard with him. The Empress is destroyed. The Emperor's body was burned to char with the stake still in it. The Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge are gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). At last count ten bells remained, and the ninth great casting hangs in a Black Dove tower attached to the Imperial Palace in Korth. Sharn has not been heard from.
 
 ---
 
 **Alias:** The Nerd & Harry Potter (Vilspar Farm-Table Co-op Employee)
 
-**Status:** Alive.
+**Status:** Alive, aboard the airship *Revenge* at the end of the Korth arc.
 
 **Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · Chancellor of the free city of Sharn, seated by its Council · The Nest · the Heroes of Leef · Comptroller of the Republic of Talenta, with Digma Beeve acting · formerly an auditor of the Pax Imperium.
 
@@ -251,11 +295,12 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Eric carrie
 - **A Ring of Spell Storing** loaded with *Summon Dragon* by Hopper, on the understanding that a true name calls that dragon for one hour and then frees it. It was meant for Valtrex, and Eric used it at the Ivory Lazaret. Spent.
 - **A scroll of Greater Silence** from Renn Tal, given on the theory that amplified by enough casters it could disrupt the bells' resonance. He accepted it knowing he would have to grow into it.
 - **A tarot deck** — used for augury. The five-card spread before the descent read Tower, Moon, Devil, Hanged Man, Judgement, and the spell answered weal and woe.
-- **An adamantine mace** — the weapon that broke the collar off a black dragon's neck · a wand of magic missile built at cost by Doppler Klink · an amulet of proof against detection and location, unattuned, taken off Edwin Graves.
+- **An adamantine mace** — the weapon that broke the collar off a black dragon's neck · a wand of magic missile built at cost by Doppler Klink, with six of its charges fired into Uriel in the Sept of Bones · an amulet of proof against detection and location, unattuned, taken off Edwin Graves.
 - **A Repulsion Shield** — brought back from Khraal.
 - **A mace of disruption** — the trophy of a ruined Imperial knight, taken from its pedestal in the Emperor's residence; the weapon that destroyed Uriel.
 - **A charm of *healing word*** — from the fane to Matt Matheny in Leef.
-- **Graham Cracker's face and papers** — an elf paralegal of the Ministry of Law. Bantide Moro remembers the original well enough to have remarked, mid-jailbreak, "I thought you were gay, Graham."
+- **Graham Cracker's face and papers** — NO LONGER WORN. An elf paralegal of the Ministry of Law. Bantide Moro remembers the original well enough to have remarked, mid-jailbreak, "I thought you were gay, Graham." Eric dropped the face at the pilgrim camp in Korth Ep 19, and his later covers as the druid Majorbo and as Lus Fayina ended in the Summer Palace.
+- **Spent at the Ivory Lazaret** — the greatberry, eaten in the Sept of Bones · the diamond that revivified Aurorix · his superior healing potions · the counting-house study aid, drunk to read King Corn's folio · Ilma Vitt's mosaic bowl, used for *heroes' feast* and smashed.
 
 **The Passage Mark:** Eric's dragonmark is his escape hatch and his tell. It is the Mark of Passage, a mark tied to no noble house and recognised internationally as a mysterious symbol of authority associated with passage; it was first recorded as a mark of House Orien. Eric is an orphan raised by Imperial monks and has no family name, so officially he would be called Eric Passagemarked. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small> It lets him cast phantom steed, which JL described as "Mostly an overland travel spell… but… it does have a speed of 100 ft per round." <small>(Oral Histories: The Inevitables, 2025-08-31; 2025-12-14)</small> It broke him out of a grell's tentacles thirty feet above the floor of the Glitterhame after the thing had paralyzed him and begun trying to open him. And at Thronehold it flared with lightning in front of Supreme Admiral Vex d'Lyrandar, who looked at it and said *"Now I see. Now I see what she's done."* and died without explaining what he meant.
 
@@ -297,19 +342,32 @@ He conceals, and then denies concealing, and remembers every word of it perfectl
 
 **Contacts & Relations**
 
-- **Gemma Corso** — met in Leef; the person most likely to stop him, by force, and she has said so plainly. Alive; aboard the boat.
-- **Sir Dario Argentino** — met in Leef; Eric revivified him with a diamond at the Mountain Door at the cost of one of his eyes. Alive; aboard the boat.
-- **John C. LeBeefe** — Grand Duke of Newham, killed by Eric and the others. Dead, and still talking to him.
-- **Renn Tal** — archivist of the Old Histories Wing; gave him the Greater Silence scroll and then took the Eye of Corruption for the city. Alive.
-- **Locke Pierce** — leader of the Hundreds; feeds Sharn and holds its sky. Alive, and the Chancellor's largest open account.
-- **Jessica Grimpledink** — Nest leader; has asked, privately, whether Eric is how the Empire found Zilspar Farm. Alive.
-- **Madame Tso Teryaki** — matriarch of the Teryaki kin; named him a grave robber, then gave him her late husband's belt. Alive, and staying in the mountain with the dragon.
-- **Bantide Moro**, the Nightingale — the prisoner he told the truth to. Alive, hidden, officially dead.
-- **Digma Beeve** — acting Comptroller of the Republic of Talenta in Eric's stead. Alive.
+- **Gemma Corso** — met in Leef; the person most likely to stop him, by force, and she has said so plainly. Alive; aboard the *Revenge*.
+- **Sir Dario Argentino** — met in Leef; Eric revivified him with a diamond at the Mountain Door at the cost of one of his eyes. Alive; aboard the *Revenge*.
+- **[Ilma Vitt](/people/ilma-vitt/)** — the Wardress of the Counting House who trained him. She fled to the pilgrim camp and gave him the bowl for the feast. Alive; aboard the *Revenge*.
+- **[Zero-One](/people/zero-one-fema-nolan/)** — leader of the Silver Flame, who held a protective spell over Matt Matheny's followers on the hill at Nos Matre. Alive; aboard the *Revenge*.
+- **[Joseph Roberts](/people/pirate-joseph-roberts/)** — the Dread Pirate, whose corsairs pulled him over the rail. Alive; master of the *Revenge*.
+- **John C. LeBeefe** — Grand Duke of Newham, killed by Eric and the others. Dead, and still talking to him. Uriel said in the Sept of Bones that she had stolen the Polygon from him.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress. Eric told her to her face that he had come to end her regime, and destroyed her with the mace of disruption. Dead.
+- **Emperor Kaius III** — burned on his bed in the Summer Palace by Eric's *fireball*, with the stake still in his heart.
+- **Lus Fayina** — a director of the Black Doves, whom he knew from an earlier meeting. She died in his *spirit guardians* in the Westhouse. Dead.
+- **[Sister Maelis Dorn](/people/sister-maelis-dorn/)** — Sister-Inquisitor, who boiled his blood in the slab room. Killed by Gemma in the Westhouse. Dead.
+- **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** and **Trillo Dwyn** — vampires beneath the hospital. Eric's stroke sent E'noch to mist, and his dagger destroyed Trillo Dwyn in his coffin. Destroyed.
+- **[Esther Crona](/people/esther-crona/)** — raised in the Ivory Lazaret; Eric told her that Richard Blaze had betrayed her. She was fed to the Heir of Vol in the Sept of Bones. Dead.
+- **[Aurorix](/species/aurorix/)** — the gold dragon who called him Priest of Maths. Eric revivified him over Nos Matre and then summoned his mortal enemy; Valtrex killed him. Dead.
+- **[Valtrex](/species/valtrex/)** — the black dragon freed beneath the Korramont, summoned to Nos Matre by true name for an hour's service and then freed. Alive, and last seen flying for the Korramont.
+- **Saturnia** — the Sister of the Blood he persuaded to change sides. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
+- **Corvan Bleek** — the sub-auditor from his Exchequer intake, among the counting-house staff at the pilgrim camp. His fate after the fight is not recorded.
+- **Renn Tal** — archivist of the Old Histories Wing; gave him the Greater Silence scroll and then took the Eye of Corruption for the city. Alive at last report.
+- **[Locke Pierce](/people/locke-pierce/)** — leader of the Hundreds; feeds Sharn and holds its sky. Alive, and the Chancellor's largest open account. A vessel of the Hundreds dropped the weapon that destroyed the valley of the Ivory Lazaret.
+- **Jessica Grimpledink** — Nest leader; has asked, privately, whether Eric is how the Empire found Zilspar Farm. Alive at last report.
+- **[Madame Tso Teryaki](/people/madame-tso-teryaki/)** — matriarch of the Teryaki kin; named him a grave robber, then gave him her late husband's belt. Alive, and last seen riding Valtrex away from Nos Matre, wearing the Crown of Seven Stars.
+- **Bantide Moro**, the Nightingale — the prisoner he told the truth to. Hidden in Korth at last report, officially dead.
+- **Digma Beeve** — acting Comptroller of the Republic of Talenta in Eric's stead. Alive at last report.
 - **Fronque** — his hobgoblin girlfriend, met on the Khraal mission. Status unrecorded.
 
 **Hobbies & Pets**
 
-No pets recorded. He reads tarot, does other people's arithmetic unasked, and keeps a death warrant he has no jurisdiction to prosecute.
+No pets recorded. His summoned celestial, **Ada Lovelace**, who speaks only Celestial, fought beside him beneath the hospital and in the Summer Palace, and was destroyed in the Emperor's chamber. He reads tarot, does other people's arithmetic unasked, and keeps a death warrant he has no jurisdiction to prosecute.
 
 ![Chancelor Eric Beard.png](/images/uploads/chancelor-eric-beard-mu0wdvdb.webp)

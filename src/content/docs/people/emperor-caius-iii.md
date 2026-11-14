@@ -1,6 +1,6 @@
 ---
 title: Emperor Kaius III
-description: The dragon Viagra in the body of a murdered prince, made a vampire on E'noch Qualanthri's blood, and held in torpor behind a false coma.
+description: The dragon Viagra in the body of a murdered prince, made a vampire on E'noch Qualanthri's blood, held in torpor behind a false coma, and destroyed by fire.
 tags:
   - Emperor Kaius III
   - Kaius III
@@ -66,6 +66,8 @@ sources:
   - sources/sessions/korth-2026-10-30-summary.md
   - sources/dave/2026-10-31-enoch-crona-release.md
   - CANON.md 5ar
+  - sources/dave/2026-11-14-end-of-campaign-release.md
+  - C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: emperor-caius-iii-person
@@ -85,7 +87,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Dragon in a mortal body, and a true vampire · Emperor of the Pax Imperium · House of Kaius · Held in torpor**
+**Dragon in a mortal body, and a true vampire · Emperor of the Pax Imperium · House of Kaius · Destroyed ([Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/))**
 
 *Also known as:* Kaius III (as the death warrants are signed) · Kaius II · Kaius I · Prince Kaius · the Emperor · the Dragon Emperor · the Crimson Sun · **[Viagra](/people/viagra/)**, his true name.
 
@@ -188,11 +190,13 @@ Gemma Corso's warlock pact is not hers. Her adoptive father, Jane Corso, agreed 
 
 ## Right now
 
-He was held in torpor at the residence on the Summer Palace grounds, ten years into an illness the Empire invented, until his body burned on its bed. The valley around it has since been destroyed. His throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. E'noch, who made him and whose blood he craved, is destroyed, and so is the Empress. At last count ten bells remained, at least one of them a Master casting in the tower attached to his own palace.
+He is destroyed. He was held in torpor at the residence on the Summer Palace grounds, ten years into an illness the Empire invented, until his body burned on its bed. The valley around it has since been destroyed. His throne stands empty in the Great Imperial Palace on the far side of a throne room floor carved with the sigil of the Crimson Sun. E'noch, who made him and whose blood he craved, is destroyed, and so is the Empress. At last count ten bells remained, at least one of them a Master casting in the tower attached to his own palace.
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party found him in his bedchamber in the residence, white-bearded and embalmed-looking, his chest held open with forceps and tension lines around a gold-tipped stake of petrified wood through his heart. A sister fed him blood by tube, and a tube ran from him to the Empress in labour on the next bed. Eric's fireball set the bed alight, Aurorix breathed on it, and his sisters could not put the fire out. When the party left he was black char on the burning bed with the stake still in him and his crown melting into the bedclothes. Something beneath the palace roared as he burned. <small>(Korth Ep 21)</small>
 
-**The rod.** The coma was a lie, and even the highest sisters believed it. Uriel staked him with a magical rod, the gold-tipped stake the party saw. It held him in torpor and left her able to breed with him, and she performed rites of sex and blood over him to conceive the heir. The rod's torpor spilled over the whole palace and its grounds: any living creature that entered fell asleep and did not wake until it was carried out, unless it was undead, of his blood or the Qualanthri blood, or anointed with the dragon's blood each Sister of the Blood puts on her brow at dawn. Pulling the rod would have ended that sleep and freed him, and freeing him would have been a mistake. He would have sat up and fed on the Empress's servants around his bed, and most likely killed whoever freed him. The ghost of [Varyn Crona](/people/varyn-crona/), bound to him in death, is hidden in the palace to stand over him if he is threatened.
+The fire destroyed him. A vampire with a stake through his heart cannot turn to mist, and the Emperor had no resting place to go to: the Tomb of Kaius I at Nos Matre never held him, and its inscription says as much. With the rod in him, burning his body ended him for good, and the essence of the dragon that he carried went with him. His death did not stop the Empress. The child in her womb was already his heir. *"You think killing my husband is going to stop me?"*
+
+**The rod.** The coma was a lie, and even the highest sisters believed it. Uriel staked him with a magical rod, the gold-tipped stake the party saw. It held him in torpor and left her able to breed with him, and she performed rites of sex and blood over him to conceive the heir. The rod's torpor spilled over the whole palace and its grounds: any living creature that entered fell asleep and did not wake until it was carried out, unless it was undead, of his blood or the Qualanthri blood, or anointed with the dragon's blood each Sister of the Blood puts on her brow at dawn. Pulling the rod would have ended that sleep and freed him, and freeing him would have been a mistake. He would have sat up and fed on the Empress's servants around his bed, and most likely killed whoever freed him. Fed enough, he would have taken his own shape as the Crimson Sun, a great red dragon, for a day. He was fed dragon blood through a line in his arm, and a second line carried his blood to the Empress. The ghost of [Varyn Crona](/people/varyn-crona/), bound to him in death, is hidden in the palace to stand over him if he is threatened.
 
 **Qualanthri blood** is a weakness of his. Anyone who carries it has some hold on him; Uriel, E'noch and Saturnia all carry it.
 

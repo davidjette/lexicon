@@ -22,6 +22,8 @@ fields:
   sideEffects: Altered or swallowed magical messages; sickness and voices in those who passed it; destroyed the valley when it was broken
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/dave/2026-11-14-end-of-campaign-release.md
+  - C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
@@ -31,11 +33,11 @@ campaigns:
 
 *Also known as:* the polyhedron · the shape
 
-**The Polygon** was a large polyhedron that floated over the forecourt of Nos Matre at the [Ivory Lazaret](/places/the-ivory-lazaret/). It was fed by the millions of dead buried under the hill and stored their power for [Uriel Qualanthri](/people/uriel-qualanthri/). It was also her projection and mind stone: while it stood she could speak and be seen anywhere in the valley, and it listened as well.
+**The Polygon** was a large polyhedron that floated over the forecourt of Nos Matre at the [Ivory Lazaret](/places/the-ivory-lazaret/). It was fed by the millions of dead buried under the hill and stored their power for [Uriel Qualanthri](/people/uriel-qualanthri/). It was also her projection and mind stone: while it stood she could speak and be seen anywhere in the valley, and it listened as well. It restored her when she was hurt, for as long as it stood. It was a work of the same kind as those of [John C. LeBeefe](/people/john-c-lebeefe/), from whom she stole it.
 
 ## What the party saw of it
 
-In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/) the party climbed the Stairs of Her Mercy and found it floating over four motionless sisters. Gemma felt sick near it and Eric felt hate. Magic showed it to hold an immense store of power, and they took it for Uriel's focus. In [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/) a voice cried out in Eric's head as they passed: *"She steals everything from me!"*
+In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/) the party climbed the Stairs of Her Mercy and found it floating over four motionless sisters. Gemma felt sick near it and Eric felt hate. Magic showed it to hold an immense store of power, and they took it for Uriel's focus. It was enchantment and necromancy bound together by abjuration, with a further working to hold it in the air, and it could cast spells of its own. The sisters who stood under it were its watchers and did nothing unless it was touched. In [Korth Ep 16](/sessions/korth-ep-16-orientation-day/) the guide who led the novices through Nos Matre called it a great blessing of the Mother's mercy, whose collected power let the order project its healing light across the world. In [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/) a voice cried out in Eric's head as they passed: *"She steals everything from me!"*
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Gemma that it was a new device. Smaller ones had gone up outside some powerful headquarters before it. Since it appeared, magical messages into and out of the valley had gone missing or arrived changed, and the people who sent them had been followed and arrested.
 
@@ -60,4 +62,4 @@ The Inevitables had seen what one of [LeBeefe](/people/john-c-lebeefe/)'s works 
 
 ## Right now
 
-Dario came down into the Sept with the news that it was going to blow. After Uriel was destroyed it threw off pulses that knocked people flat, and the Heir of Vol fed on it as he broke out of the hill. It was at the centre of the valley when a ship of the Hundreds dropped its weapon there. Nothing of the forecourt remains.
+Dario came down into the Sept with the news that it was going to blow. After Uriel was destroyed it threw off pulses that knocked people flat, and the Heir of Vol fed on it as he broke out of the hill. It was at the centre of the valley when a ship of the Hundreds dropped a [Ruby Nova](/items/ruby-nova/) there. Nothing of the forecourt remains.

@@ -55,6 +55,8 @@ sources:
 - sources/dave/2026-10-31-enoch-crona-release.md
 - CANON.md 5al
 - CANON.md 5ar
+- sources/dave/2026-11-14-end-of-campaign-release.md
+- C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
 wa:
   slug: priest-e26230393Bnoch-qualanthri-person
@@ -164,6 +166,8 @@ Varyn held the sword at his throat through the night, and E'noch kept his word a
 E'noch gathered the most capable pure-blooded elves of his house and of the other houses of Vol into the Sisters of the Blood, caretakers of the Emperor and his wife and future brides of the Dragon Emperor and his heir. Their final initiation is to meet him. Saturnia, who was cast out of Aerenal when he sent for her, knew what that meant: *"He wants to drink all of my blood and turn me into his slave, or preserve me as a virgin for my cousin's child to mate with, so that future emperor half-dragons can be Qualanthris."*
 
 Uriel, his granddaughter, was the star of that design, and she has spent a decade bearing the Emperor daughters when the plan requires a son. He had others ready. Saturnia again: *"I've been brought here to be a broodmare for this line. My cousin, she sits in the throne now, but I think if my grandfather had his way, she would step aside or die. She has failed in her mission."* Aurorix watched him bring his grandchildren into the blood pool chamber, do unspeakable things to them, and tell them they were next in line once his granddaughter died or failed for the final time.
+
+The daughters were only part of his quarrel with her. Uriel had taken up his plan eagerly and then gone beyond it. She meant to supplant her own son, take his power for herself, and live joined to the unborn child for ever as an undead mother, which is why she carried him long past his time. E'noch wanted the heir born and bred from, and this angered him. Nothing could have turned him against his own plan, and he was prepared to abandon Uriel if he could win without her. He had a whole stable of brides ready for the dragon. When she lay in labour beside the Emperor and called for Esther Crona, it was E'noch's order that kept Esther from her.
 
 ## The blood
 
