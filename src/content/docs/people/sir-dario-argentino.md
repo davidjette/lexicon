@@ -36,6 +36,7 @@ fields:
   height: Unknown
   weight: Unknown - Strength 20 unaided
 sources:
+- sources/dave/2026-11-14-korth-ep-22-on-the-surface.md
 - sources/sessions/korth-2026-11-13-summary.md
 - sources/sessions/korth-2026-11-06-summary.md
 - sources/sessions/korth-2026-10-30-summary.md
@@ -276,7 +277,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the bell br
 
 In the forecourt, beside [the Polygon](/items/the-polygon/), Gemma brought the Empress to the ground and Dario floated down over her with his wings spread: *"For a while, the world was dark. You sucked the hope from the world. And now, after the long night, comes a brighter dawn."* He said, *"It is over,"* and took off her head. Her head and body melted and sank into the earth, and every dead thing in the yard turned on him. He told Gemma: *"It seems this is where we end, little fox. I am proud that it is with you and that we have accomplished our great quest."* She answered that they were not done yet, and carried him back to Eric by *dimension door*.
 
-He put Pale Fire away, took out Knell, and went for the Polygon. He was mobbed by the dead and badly hurt. He came down into [the Sept of Bones](/places/the-sept-of-bones/) close to death, threw Eric the greatberry that the people above had saved for him, and gave the news: *"That thing up there? It's going to blow."* Breaking it had weakened the hordes, he said. He told the others to run and leave Uriel to him. When Eric destroyed her with the mace of disruption, Dario said, *"Hey man, nice shot."* He killed two of the bone guards as [the Heir of Vol](/people/the-heir-of-vol/) grew, and offered to stay and cover the others, which they refused. Gemma carried him out by *dimension door* to the cathedral roof, and Joseph Roberts pulled them aboard the *Revenge*. On deck, after the valley had burned, he slid down against the wall and wept. <small>(Korth Ep 22)</small>
+He put Pale Fire away, took out Knell, and went for the Polygon. He did not reach it. When Gemma and Eric went underground he stayed on the surface, saw Matt Matheny's people and Fema Nolan on the hillside with the dead closing on them, and flew to defend them instead. Valtrex came to their aid and dissolved the field of zombies in acid. From there Dario saw Eden go down into the hospital to free Esther Crona, and saw Esther fly for the crypt. He and Matheny's people rushed after her and opened the crypt from above. He was mobbed by the dead and badly hurt. He came down into [the Sept of Bones](/places/the-sept-of-bones/) close to death, threw Eric the greatberry that the people above had saved for him, and gave the news: *"That thing up there? It's going to blow."* Breaking it had weakened the hordes, he said. He told the others to run and leave Uriel to him. When Eric destroyed her with the mace of disruption, Dario said, *"Hey man, nice shot."* He killed two of the bone guards as [the Heir of Vol](/people/the-heir-of-vol/) grew, and offered to stay and cover the others, which they refused. Gemma carried him out by *dimension door* to the cathedral roof, and Joseph Roberts pulled them aboard the *Revenge*. On deck, after the valley had burned, he slid down against the wall and wept. <small>(Korth Ep 22)</small>
 
 ## Right now
 

@@ -33,6 +33,7 @@ kind: sessions
 icon: fa-scroll
 fields: {}
 sources:
+  - sources/dave/2026-11-14-korth-ep-22-on-the-surface.md
   - sources/sessions/korth-2026-11-13-summary.md
   - C:/dev/sharn-campaign/session-2026-11-13-summary.md
   - C:/dev/sharn-campaign/session-2026-11-13-nos-matre.transcript.txt
@@ -334,13 +335,21 @@ Eden stopped and thought for a moment.
 
 > **Eden:** Liar.
 
-Her arm blades whipped around Eric, and he barely dodged. On the roof Dario dashed for the Polygon into range of everything in the yard and was severely hurt. At the edge Gemma hesitated.
+Her arm blades whipped around Eric, and he barely dodged. On the roof Dario dashed toward the Polygon into range of everything in the yard and was severely hurt. At the edge Gemma hesitated.
 
 > **Gemma:** What are you and I gonna do down there? We don't have any dragons. We don't have Dario. Just you and me. Down there. With bones. Undead. A swarm of undead.
 >
 > **Eric:** I'm quite keen on fighting undead.
 
 Eden cut him as he broke away, and he took them both down through the earth.
+
+### On the surface
+
+Dario stayed above. He did not rush the Polygon. From the roof he could see Matt Matheny's people and Fema Nolan on the hillside with the dead closing on them, and he turned and flew to defend them. Valtrex, done with Aurorix, flew to their aid as well and dissolved the field of zombies in acid.
+
+From there they saw Eden go down into the hospital. She was going to free her sister. Esther Crona came up out of it on her wings and flew for the crypt.
+
+Dario and Matheny's people rushed after her to reach Eric and Gemma. It was they who opened the crypt from above, and it was their daylight and rain that Eric saw pour in.
 
 ### The crypt
 
@@ -464,7 +473,7 @@ Esther was stunned.
 >
 > *The creature will also reach its hands into this wound in Esther's back. She's full of incisions and things like that. It reaches out and starts to remove some larger organs. And eat them. Sloppily.*
 
-At the door a gigantic bone monster rushed Eric, and another broke the door down. Behind them the ceiling of the crypt began to open.
+At the door a gigantic bone monster rushed Eric, and another broke the door down. Behind them the ceiling of the crypt began to open. Dario and Matheny's people had reached it from above.
 
 > *Daylight pours into the room as the ceiling above this chamber opens, letting sunlight pour in, and rain, from above.*
 
@@ -682,6 +691,7 @@ Dario slumped against the wall and wept.
 - Kitsune wanted the child. His fox cut the cord and claimed it, telling Uriel that a promise is a promise. When he saw what it was, he changed his mind.
 - Aurorix and Valtrex were mortal enemies of six thousand years' standing. Valtrex killed him.
 - The crypt above the Sept holds a row of coffins ten to thirteen years old and one newer, opened. Its roof opens to the sky.
+- While Gemma and Eric were below, Dario left the Polygon to defend Matheny's people and Fema Nolan, and Valtrex cleared the dead around them with acid. Eden went down into the hospital and freed Esther, who flew to the crypt. Dario and Matheny's people opened the crypt from above.
 - A ship of the Hundreds dropped the gem that destroyed the valley.
 - Roberts sold the [Grand Lodge](/places/the-grand-lodge/) before the end. He would not name the buyer.
 

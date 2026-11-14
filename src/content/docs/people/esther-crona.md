@@ -34,6 +34,7 @@ fields:
   height: 6'2"
   weight: '180'
 sources:
+  - sources/dave/2026-11-14-korth-ep-22-on-the-surface.md
   - sources/sessions/korth-2026-11-13-summary.md
   - sources/wa/esther-crona-person.txt
   - sources/wa/varyn-crona-person.txt
@@ -591,7 +592,7 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One told the par
 
 For the three years between her death and the rite, her body lay in an open casket in the crypt under the Lazaret, beside the twelve coffins of the Council members she had hunted down. Once she was raised, the sisters held her in the hospital under the hill and tortured her to make her submit to the Empress. Without the sword Gemma carried she had no power of her own. Her heart was kept in a sealed jar on a shelf of preserved organs in the surgery. The party saw it there in [Korth Ep 20](/sessions/korth-ep-20-the-dinner-party/) and left it.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Esther came down into the Sept of Bones on her wings, armed, while Uriel was fighting Gemma and Eric on the stair. Uriel was afraid of her and left the party to meet her. Esther wounded her badly. Uriel told her that she should have kept her oath to the Crimson Sun, that the two of them were to have been mothers of the same godchild, and asked her to help raise it. Esther seized her and demanded to know what would happen if the Polygon were destroyed. *"Ask LeBeefe. I stole it from him."* Then Uriel stunned her with an Elvish curse, carried her over the pit, opened her back with the scythe Mourning Dove, and fed her to the Heir of Vol, which swallowed her whole. *"You foolish little girl. When I met you, I was over two hundred years old. It is easy to love a child. But now I have a true child."*
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) her sister [Eden](/people/eden/) went down into the hospital during the battle at Nos Matre and freed her. Esther flew to the crypt and came down into the Sept of Bones on her wings, armed, while Uriel was fighting Gemma and Eric on the stair. Uriel was afraid of her and left the party to meet her. Esther wounded her badly. Uriel told her that she should have kept her oath to the Crimson Sun, that the two of them were to have been mothers of the same godchild, and asked her to help raise it. Esther seized her and demanded to know what would happen if the Polygon were destroyed. *"Ask LeBeefe. I stole it from him."* Then Uriel stunned her with an Elvish curse, carried her over the pit, opened her back with the scythe Mourning Dove, and fed her to the Heir of Vol, which swallowed her whole. *"You foolish little girl. When I met you, I was over two hundred years old. It is easy to love a child. But now I have a true child."*
 
 ## Organizations / Groups:
 

@@ -34,6 +34,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/dave/2026-11-14-korth-ep-22-on-the-surface.md
   - sources/sessions/korth-2026-11-13-summary.md
   - worldanvil/sources/site/mission-board.txt
   - worldanvil/sources/site/biotec.txt
@@ -233,7 +234,7 @@ Three years after the fall of Sharn, E.D.E.N. units remained active in the field
 
 Eden's stated intention to rule the Empire with her sister was never carried out. At Nos Matre she demanded her sister from Uriel, and Gemma answered her with Esther's name. The Blue Devil was a weapon created by the Empire, and her words at King's Forest showed that she was no longer acting in accordance with the purposes for which she was made.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) her units came up the walkway of Nos Matre firing at the temple and at the Polygon while the dead closed around them. She shouted across the forecourt at Uriel: *"Give me my sister!"* Uriel answered that the dead belonged to her, and Eden's eyes turned purple. The Polygon carried the Empress's will, and Eden was under it from then on. She shot Gemma off the back of the dragon Aurorix, leapt twenty feet into the air to cut at Eric, and called Gemma a liar when told that Esther was below. She was still in the forecourt when the party went underground. The valley was destroyed soon afterwards, and nobody aboard the *Revenge* saw what became of her.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) her units came up the walkway of Nos Matre firing at the temple and at the Polygon while the dead closed around them. She shouted across the forecourt at Uriel: *"Give me my sister!"* Uriel answered that the dead belonged to her, and Eden's eyes turned purple. The Polygon carried the Empress's will, and Eden was under it from then on. She shot Gemma off the back of the dragon Aurorix, leapt twenty feet into the air to cut at Eric, and called Gemma a liar when told that Esther was below. She was still in the forecourt when Gemma and Eric went underground. Afterwards Dario and Matt Matheny's people saw her go down into the hospital, where she freed her sister Esther Crona from the slab room. The valley was destroyed soon afterwards, and nobody aboard the *Revenge* saw what became of her.
 
 ## What Sister Nora Knew
 
