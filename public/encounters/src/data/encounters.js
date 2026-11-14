@@ -1,9 +1,9 @@
 // Building a fight from a preset. The presets themselves are registered by the packs.
 
-import './public.js?v=mvadgcsz';
-import './public-sharn.js?v=mvadgcsz';
-import { ALL, PRESETS } from './registry.js?v=mvadgcsz';
-import { PARTY, SPENT } from './pcs.js?v=mvadgcsz';
+import './public.js?v=mwfqr70b';
+import './public-sharn.js?v=mwfqr70b';
+import { ALL, PRESETS } from './registry.js?v=mwfqr70b';
+import { PARTY, SPENT } from './pcs.js?v=mwfqr70b';
 
 export { ALL, PRESETS };
 

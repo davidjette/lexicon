@@ -1,14 +1,14 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mvadgcsz';
-import { AI } from '../engine/ai.js?v=mvadgcsz';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mvadgcsz';
-import { switchDefaults } from '../data/encounters.js?v=mvadgcsz';
-import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mvadgcsz';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mvadgcsz';
-import { PARTY } from '../data/pcs.js?v=mvadgcsz';
-import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mvadgcsz';
-import { openInbox, setupInbox } from './inbox.js?v=mvadgcsz';
+import { Encounter } from '../engine/combat.js?v=mwfqr70b';
+import { AI } from '../engine/ai.js?v=mwfqr70b';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mwfqr70b';
+import { switchDefaults } from '../data/encounters.js?v=mwfqr70b';
+import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mwfqr70b';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfqr70b';
+import { PARTY } from '../data/pcs.js?v=mwfqr70b';
+import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwfqr70b';
+import { openInbox, setupInbox } from './inbox.js?v=mwfqr70b';
 
 const $ = (id) => document.getElementById(id);
 
@@ -602,6 +602,7 @@ function renderDm(error) {
   if (packs.dm) {
     body.append(
       h('p', {}, h('strong', {}, 'DM content is unlocked. '), 'Unreleased stat blocks and encounters are in the lists, each marked DM ONLY. Do not share this screen with players.'),
+      h('a', { class: 'btn small primary', href: 'tracker.html' }, 'Battle tracker'),
       h('button', { class: 'btn small', onclick: () => location.reload() }, 'Lock again'));
     return;
   }
@@ -679,7 +680,7 @@ function init() {
   renderAll(true);
   findPack().then((found) => { dmFound = found; renderDm(); });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mvadgcsz').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mwfqr70b').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 
