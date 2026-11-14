@@ -52,6 +52,12 @@ gallery:
   - src: /images/gallery/2026-08-26-01.webp
     alt: Eric rides Valtrex over the black lake
     caption: A horned black dragon crouches over a glowing green acid lake while a man in a red coat rides its back with a mace raised. Eric teleports onto Valtrex's back and shatters his collar.
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-two-dragons.webp
+    alt: "Aurorix and Valtrex lock jaws over Nos Matre"
+    caption: "Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
+    alt: "Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid"
+    caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

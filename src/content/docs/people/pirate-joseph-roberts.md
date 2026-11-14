@@ -61,6 +61,9 @@ gallery:
   - src: /images/album/korth-ep-18-the-pilgrims-camp-the-bookcase.webp
     alt: 'Deirdre and Graham at the sliding bookcase in the Grand Lodge''s library, with Joseph Roberts behind it - Korth Ep 18, The Pilgrims Camp'
     caption: 'Deirdre and Graham at the sliding bookcase in the Grand Lodge''s library, with Joseph Roberts behind it - Korth Ep 18, The Pilgrims Camp'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp
+    alt: "Joseph Roberts brings the Revenge in over the cathedral roof"
+    caption: "Lexical rendering: Joseph Roberts brings the Revenge in over the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Pirate · Fleet commander · The Collector · Alive, and wanted**

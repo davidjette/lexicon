@@ -29,6 +29,14 @@ sources:
 published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
+image:
+  src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-crypt.webp
+  alt: "Gemma and Eric in the crypt before the doors of the Sept"
+  caption: "Lexical rendering: Gemma and Eric in the crypt before the doors of the Sept - Korth Ep 22, The Reckoning of the Mother"
+gallery:
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp
+  alt: "Uriel and the Heir of Vol in the Sept of Bones"
+  caption: "Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Buried temple · Under the Ivory Lazaret · Older than the hill · Destroyed with the valley ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**

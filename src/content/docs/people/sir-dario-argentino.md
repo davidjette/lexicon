@@ -136,6 +136,18 @@ gallery:
 - src: /images/gallery/2026-04-30-02.webp
   alt: 'Scroll: Forge, hear me'
   caption: 'A dragonborn''s gauntleted hand holds a scroll before the forge: "Forge, hear me. By steel, by breath, by will... I bind the frost of my ancestry into this blade. Let it carry the warrior I am." It is Sir Dario Argentino binding elemental cold into his weapon.'
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-knell.webp
+  alt: "Dario breaks the Original with Knell"
+  caption: "Lexical rendering: Dario breaks the Original with Knell - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-palefire.webp
+  alt: "Palefire lights the sky as Dario strikes the Empress"
+  caption: "Lexical rendering: Palefire lights the sky as Dario strikes the Empress - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
+  alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
+  caption: "Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
+  alt: "Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid"
+  caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

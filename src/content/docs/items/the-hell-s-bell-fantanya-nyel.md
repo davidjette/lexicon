@@ -67,6 +67,9 @@ gallery:
 - src: /images/gallery/2026-06-15-11.webp
   alt: A golden bell in a crate
   caption: A huge ornate golden bell with a dragon-shaped crown sits in straw inside an open wooden crate.
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-knell.webp
+  alt: "Dario breaks the Original with Knell"
+  caption: "Lexical rendering: Dario breaks the Original with Knell - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

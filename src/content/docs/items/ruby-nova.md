@@ -35,6 +35,9 @@ gallery:
 - src: /images/gallery/2026-06-27-03.webp
   alt: Watching the Ruby Nova
   caption: Eric the Cleric, Gemma Corso, Lorian and an armoured companion, masked against the air, watch a vast red dome of energy rise from the horizon of a dead plain.
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
+  alt: "The valley of the Ivory Lazaret burns behind the Revenge"
+  caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

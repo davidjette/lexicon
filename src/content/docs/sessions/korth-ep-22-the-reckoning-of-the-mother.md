@@ -40,6 +40,77 @@ sources:
 published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
+gallery:
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-hill.webp
+  alt: "The dead rise out of the heather-covered hill as Uriel rings the bell"
+  caption: "Lexical rendering: The dead rise out of the heather-covered hill as Uriel rings the bell - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-circle.webp
+  alt: "Gemma calls up the circle of power on the back of Aurorix"
+  caption: "Lexical rendering: Gemma calls up the circle of power on the back of Aurorix - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-polygon.webp
+  alt: "The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it"
+  caption: "Lexical rendering: The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-her-fury.webp
+  alt: "Uriel in the air over Nos Matre, her guardians around her"
+  caption: "Lexical rendering: Uriel in the air over Nos Matre, her guardians around her - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-belfry.webp
+  alt: "Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them"
+  caption: "Lexical rendering: Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-knell.webp
+  alt: "Dario breaks the Original with Knell"
+  caption: "Lexical rendering: Dario breaks the Original with Knell - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-leap.webp
+  alt: "Eric leaps from the tower and clings to the Empress"
+  caption: "Lexical rendering: Eric leaps from the tower and clings to the Empress - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-palefire.webp
+  alt: "Palefire lights the sky as Dario strikes the Empress"
+  caption: "Lexical rendering: Palefire lights the sky as Dario strikes the Empress - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-navier-stokes.webp
+  alt: "Eric turns the risen dead and proves the Navier-Stokes hypothesis"
+  caption: "Lexical rendering: Eric turns the risen dead and proves the Navier-Stokes hypothesis - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-forecourt.webp
+  alt: "The dead in the forecourt turn to look at Gemma as the Polygon opens"
+  caption: "Lexical rendering: The dead in the forecourt turn to look at Gemma as the Polygon opens - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-two-dragons.webp
+  alt: "Aurorix and Valtrex lock jaws over Nos Matre"
+  caption: "Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
+  alt: "Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid"
+  caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp
+  alt: "Eden frees her sister Esther in the hospital under the Lazaret"
+  caption: "Lexical rendering: Eden frees her sister Esther in the hospital under the Lazaret - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-crypt.webp
+  alt: "Gemma and Eric in the crypt before the doors of the Sept"
+  caption: "Lexical rendering: Gemma and Eric in the crypt before the doors of the Sept - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp
+  alt: "Uriel and the Heir of Vol in the Sept of Bones"
+  caption: "Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-black-fire.webp
+  alt: "The Heir of Vol breathes black fire"
+  caption: "Lexical rendering: The Heir of Vol breathes black fire - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-esther-arrives.webp
+  alt: "Esther Crona steps into the Sept of Bones"
+  caption: "Lexical rendering: Esther Crona steps into the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-feeding.webp
+  alt: "Uriel holds Esther over the Heir of Vol"
+  caption: "Lexical rendering: Uriel holds Esther over the Heir of Vol - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-cord.webp
+  alt: "Lalo Kitsune cuts the cord"
+  caption: "Lexical rendering: Lalo Kitsune cuts the cord - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
+  alt: "Eric destroys the Empress with the mace of disruption"
+  caption: "Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp
+  alt: "Joseph Roberts brings the Revenge in over the cathedral roof"
+  caption: "Lexical rendering: Joseph Roberts brings the Revenge in over the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
+  alt: "The valley of the Ivory Lazaret burns behind the Revenge"
+  caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
+image:
+  src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
+  alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
+  caption: "Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 22 · DM: Dave**
@@ -63,6 +134,9 @@ The session opened where the last one stopped: the party in the air on the back 
 >
 > *The temple itself is beginning to be backlit by a black and purple glow, because you're on this side of the temple. And in its shadow, its sort of corona from this purple light, you see the tiny figure of Uriel, holding her once white but now black scythe, and the glow of her orange tummy visible from a distance as she arms up toward the bell itself. You can't quite hear anything she's saying or doing, but you do hear this ethereal chorus.*
 
+![The dead rise out of the heather-covered hill as Uriel rings the bell](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-hill.webp)
+*The dead rise out of the heather-covered hill as Uriel rings the bell.*
+
 Aurorix called out that he could see many things flying nearby.
 
 ### The circle
@@ -73,11 +147,17 @@ Gemma was afraid of losing her concentration to the bell and did it anyway. She 
 
 > *You hold it up, and as the darkness around Uriel thickens, your hand holding the amulet ripped off your neck glows with white light, like the Battle of Pelennor Fields. A single voice comes through the chorus, a high soprano singing the Silver Flame theme, and white light surrounds you and Dario and Eric and Aurorix. It drowns out the sound of the bell.*
 
+![Gemma calls up the circle of power on the back of Aurorix](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-circle.webp)
+*Gemma calls up the circle of power on the back of Aurorix.*
+
 Dario was exultant. The *circle of power* held around the four of them from then on: inside it the bell and the Empress's spells mostly broke on them, and what they resisted did them no harm at all. On the side of the temple they could see, the plaza was beginning to fill with Black Doves. The bell rang again, and all four shook it off.
 
 Aurorix dashed for the tower, rising over the southern plaza.
 
 > *As you start to crest over the very top of the central nave, you see the source of this purple and ultraviolet light is the Polygon that floats in the courtyard. Four sorrowful sisters look up at it, bolts of electricity seemingly frying their bodies as they channel the energy into it.*
+
+![The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-polygon.webp)
+*The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it.*
 
 [The Polygon](/items/the-polygon/) caught Eric's eye. He heard the Empress's voice in his head, *"Go, you disgusting pig! What are you doing here?"*, and laughter deep in his mind, and was otherwise untouched. On her orders a Choir of Novices on the ground began to toll at the dragon. Dario quickened himself, drank a potion and lit Palefire. Eric patted the dragon, tugged his scruff, and healed him and then himself.
 
@@ -90,6 +170,9 @@ She pointed a finger at Aurorix.
 Aurorix answered in a guttural Draconic. There was a peal of thunder.
 
 > *Uriel puts a hand up and her crown glows white. And a cloud of white sisterly figures surround her.*
+
+![Uriel in the air over Nos Matre, her guardians around her](/images/album/korth-ep-22-the-reckoning-of-the-mother-her-fury.webp)
+*Uriel in the air over Nos Matre, her guardians around her.*
 
 Then she flew up right beside them.
 
@@ -116,6 +199,9 @@ Eric took hold of Gemma and stuck out his cheek for a kiss for good luck.
 He took them both by *dimension door* up to the bell, leaving Aurorix in the courtyard.
 
 > *You guys appear right near Dario, precariously crammed into a fairly small space at the top of this extremely high tower. There does not seem to be a staircase that leads up here or down. And you look out across the countryside, and there is Uriel, furious, her womb radiant, looking like it's going to explode in draconic fury at any moment.*
+
+![Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-belfry.webp)
+*Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them.*
 
 From up there Gemma could see west.
 
@@ -149,6 +235,9 @@ Then Dario flew up to the bell, pulled out Knell, and brought it crashing down.
 >
 > *The force is tremendous and it collapses the tower. The tower around you begins to buckle, and the roof of the tower, because the beams around you give way, the roof above you suddenly is in free fall and is coming at you.*
 
+![Dario breaks the Original with Knell](/images/album/korth-ep-22-the-reckoning-of-the-mother-knell.webp)
+*Dario breaks the Original with Knell.*
+
 [The Original](/items/the-hell-s-bell-fantanya-nyel/) was destroyed. The roof fell on Gemma and half fell on the other two. She used the moment of the blow to step through the air onto Rum Tum's back, and slumped over it behind Dario.
 
 > *The bell is gone. And as a result, the feeling of darkness actually begins to subside. It's still raining heavily. Also, the prism is going nuts now. There was obviously some connection between the bell and the prism, which has now been broken, and it seems like now the prism is just going wild. There's arcs of purple lightning shooting, just randomly cutting through the countryside and through the clouds.*
@@ -172,6 +261,9 @@ His Mark of Passage glowed, and he jumped off the tower.
 > *You reach out and you bury your face in her pregnant breasts, clutching behind her waist. She looks down at you with her humongous face. Her golden eyes. You swear that you can see straight through her eyes to a glowing diamond behind them.*
 
 > **Uriel:** You want to meet my son? I keep him warm. I am the mother of all. Come to me.
+
+![Eric leaps from the tower and clings to the Empress](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-leap.webp)
+*Eric leaps from the tower and clings to the Empress.*
 
 He could not hear a word of it. *All you can hear is the hum of her voice. And her heartbeat, you can feel it, as she puts her arms around you.* Eric never really knew his parents.
 
@@ -201,6 +293,9 @@ Eric, deaf, wanted to know why she was so angry all of a sudden. Dario turned Ru
 
 > *His blade, Palefire, explodes in white light, lighting up the entire sky. I mean, it's almost like a nuclear bomb. All of you guys are flashed for a second, and you see that he's cut a deep wound across her neck, down through her navel, and a glowing red blood seems to be seeping out of her wound.*
 
+![Palefire lights the sky as Dario strikes the Empress](/images/album/korth-ep-22-the-reckoning-of-the-mother-palefire.webp)
+*Palefire lights the sky as Dario strikes the Empress.*
+
 Two more hasted strokes gashed the wound open. Eric healed himself and held on, and the Empress grabbed him and threw him into midair. He fell a hundred and ten feet into the rubble of the tower and lived, with his guardians still turning around him. *The entire courtyard is difficult terrain, because the destroyed tower is now completely littered across the ground. It's rubble, it's stone, it's metal, it's burning embers from the fire that was inside of it.*
 
 A contraction took her. She began to arc out of the sky, and at the last moment hovered ten feet off the ground toward the doorway of the temple and dashed inside. They heard her booming voice: *"How dare you!"*
@@ -223,6 +318,9 @@ In the rubble on the other side, the dead bore down on Eric holding ancient weap
 
 > *Almost all of them are instantly incinerated by the power of maths. Here's what happens. A funnel of arcane fluid surrounds you, but as the fluid compresses into a tighter and tighter cone, the interior particles of the funnel spin faster and faster. Theoretically, there is a point at which this funnel would get small enough that the acceleration of the particles in the center of the funnel would reach an infinite value. This is the Navier-Stokes hypothesis. And you in this moment have proven the Navier-Stokes hypothesis. The undead recoil at this mathematical truth, largely destroyed all around you.*
 
+![Eric turns the risen dead and proves the Navier-Stokes hypothesis](/images/album/korth-ep-22-the-reckoning-of-the-mother-navier-stokes.webp)
+*Eric turns the risen dead and proves the Navier-Stokes hypothesis.*
+
 Uriel came out into the plaza.
 
 > *You see her holding, as she comes out, her womb bleeding and open, holding two parishioners, random civilians, who she throws to the ground to clump up and then immediately stand up as zombies. The Polygon is humming in front of her. It seems to respond to her getting closer.*
@@ -236,6 +334,9 @@ A mechanical voice yelled across the courtyard.
 > **Uriel:** The dead are under my control, with or without the bell. You belong to me.
 
 > *All the dead sort of turn at once in a very creepy way. They look right up at you, Gemma, from the ground. Suddenly everyone on the ground is looking right into your eyes. Somehow even the mass of skulls and arms and legs. The eyes that are there are looking at you. You look across the field, squint, and you see even Eden is looking right in your eyes.*
+
+![The dead in the forecourt turn to look at Gemma as the Polygon opens](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-forecourt.webp)
+*The dead in the forecourt turn to look at Gemma as the Polygon opens.*
 
 Eden pointed her troops at Gemma, and their shots fell short. Then the Polygon opened.
 
@@ -264,6 +365,9 @@ He looked over at Gemma as he said the last of it. The Empress put the scythe up
 > *He turns around with one quick swing and he lops off Uriel's head. It flies across the parquet toward this object, which suddenly glows bright. You glance over at this head that almost comically tumbles and rolls toward the shape. Where it stops, you see it seemingly turn into like a melted bonbon and just absorb into the earth. You look back toward her body. You see something similar happening, but slower, just because of how much more mass there is. All around Dario, who's floating just above it, her body seems to seep and soak into the ground.*
 >
 > *And a rumbling happens below the earth, like an earthquake, something shifting and moving. All of the creatures in the yard look right at Dario with immense malice, including Eden. The object now sputters and chokes. Its lightning now frizzled and frayed and seemingly striking everything in every distance and every direction.*
+
+![Dario over the fallen Empress: after the long night comes a brighter dawn](/images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp)
+*Dario over the fallen Empress: after the long night comes a brighter dawn.*
 
 On the far side of the building Eric felt the rumbling and did not know what caused it. He knelt by Aurorix, who looked as though he had been stabbed and drained of blood, and tried to spare him. It was too late for that. His guardians burned the last of the novices, one of them coiled around the dragon's tail.
 
@@ -321,6 +425,9 @@ He shook Eric off.
 
 [Valtrex](/species/valtrex/) came down and locked jaws with Aurorix at once. The two dragons of this story were mortal enemies and would help nobody while both were on the field.
 
+![Aurorix and Valtrex lock jaws over Nos Matre](/images/album/korth-ep-22-the-reckoning-of-the-mother-two-dragons.webp)
+*Aurorix and Valtrex lock jaws over Nos Matre.*
+
 ### The way down
 
 Gemma, in a ditch, said they might have just awoken some old dragon business and that neither would help them now. They worked out where the Sept must be. Their tour as novices had pointed out pieces of the structure that was here long before Nos Matre: the eternal flame near the master altar, the old gothic stonework poking through the ground, the original statue at the top of the Stairs of Mercy, the Tomb of Kaius. They chose a spot and ran for it.
@@ -347,7 +454,13 @@ Eden cut him as he broke away, and he took them both down through the earth.
 
 Dario stayed above. He did not rush the Polygon. From the roof he could see Matt Matheny's people and Fema Nolan on the hillside with the dead closing on them, and he turned and flew to defend them. Valtrex, done with Aurorix, flew to their aid as well and dissolved the field of zombies in acid.
 
+![Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid](/images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp)
+*Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid.*
+
 From there they saw Eden go down into the hospital. She was going to free her sister. Esther Crona came up out of it on her wings and flew for the crypt.
+
+![Eden frees her sister Esther in the hospital under the Lazaret](/images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp)
+*Eden frees her sister Esther in the hospital under the Lazaret.*
 
 Dario and Matheny's people rushed after her to reach Eric and Gemma. It was they who opened the crypt from above, and it was their daylight and rain that Eric saw pour in.
 
@@ -358,6 +471,9 @@ Dario and Matheny's people rushed after her to reach Eric and Gemma. It was they
 It was quiet all of a sudden. Eric took Gemma's hand, because he was a bit scared.
 
 > *Your sword, which is normally a light blue, upon entry to this space, and especially in seeing these coffins, it gives a pinkish-reddish hue for just a moment and feels a little angry.*
+
+![Gemma and Eric in the crypt before the doors of the Sept](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-crypt.webp)
+*Gemma and Eric in the crypt before the doors of the Sept.*
 
 Gemma leaned into the doors and could not move them. She took out her adamantine mace and smashed them open.
 
@@ -393,6 +509,9 @@ They said their goodbyes in case.
 
 > *At the foot of the stairs, in the dark, something enormous and red is curled among the heap of skulls. It is ribbed and spined, wet, folded on itself like an unborn thing. A humanoid dragon the size of a house that has only just been born. A woman in white floats above it. A cord runs from her into it. Uriel is giving birth. Her shift is black with blood. Her belly is slack and torn. The cord runs from under her shift into the dark, to the thing at the foot of the stair. She is singing the lullaby the sisters sang in the last ward.*
 
+![Uriel and the Heir of Vol in the Sept of Bones](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp)
+*Uriel and the Heir of Vol in the Sept of Bones.*
+
 She looked up at them.
 
 > **Uriel:** He's sleeping. He's perfect, isn't he? He has his father's teeth. You followed me all the way down here to see him. I suppose that makes you family.
@@ -402,6 +521,9 @@ In Gemma's head there was a subtle voice, just a whisper. *"You swore it to me,"
 Gemma reached into her clutch and took out the box. The whole bone floor was hard going. The Empress was partly incorporeal, and Gemma's first blasts went through nothing. Guards came out of the bones in front of them, and Eric turned them. Then the child acted.
 
 > *The puny alien creature opens its mouth inside of its cocoon, and suddenly a belch of volcanic power and flame erupts forward and soaks both of these creatures in black fire, reducing them to melted bone and landing just short of both of you.*
+
+![The Heir of Vol breathes black fire](/images/album/korth-ep-22-the-reckoning-of-the-mother-black-fire.webp)
+*The Heir of Vol breathes black fire.*
 
 It could not move by itself. Its mother towed it with her on the cord. Gemma blasted her away from her son and she came back. More of the big bone monsters climbed out of the heaps every few moments. *This is some advanced necromancy.* What had seemed a gigantic chamber turned into a fight in a doorway, which suited two people who could not fly.
 
@@ -430,6 +552,9 @@ The breath of the grave came after it. The Heir of Vol squealed. *It's still an 
 > *You guys are leaning against the stairs. Your circle of power is out. Bleeding all over the place. Uriel is gearing up to cast something, and her Heir of Vol is gearing up to blow fire all over you. But you hear a flap of wings and footsteps behind you.*
 >
 > *Stepping to the top of the stairs, ladies and gentlemen, Esther Crona steps into the room. She's holding some weapon. She steps right to the threshold, her wings unfurled. Uriel meets eyes with her, and a look of fear goes across her skeletal face. And Uriel more or less ignores you, and she flies into action.*
+
+![Esther Crona steps into the Sept of Bones](/images/album/korth-ep-22-the-reckoning-of-the-mother-esther-arrives.webp)
+*Esther Crona steps into the Sept of Bones.*
 
 [Esther Crona](/people/esther-crona/) made a series of attacks against her and severely wounded her.
 
@@ -485,6 +610,9 @@ Eric smacked the monster in front of him with the mace, and it exploded with hol
 
 > *Across, in this flying space over the bones, you see Uriel holding Esther's nearly lifeless body over her unholy womb-child, who eats of every bit of the Esther that Uriel tears off. She turns back to you, her skeletal face dripping with blood. You realize that this creature represents the end of all things. All life. All good. The creature in the cocoon reaches up, grabs Esther by both feet, opens its mouth impossibly wide around Esther's lower extremities, and in six or seven big gulps has consumed it, and grows visibly.*
 
+![Uriel holds Esther over the Heir of Vol](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-feeding.webp)
+*Uriel holds Esther over the Heir of Vol.*
+
 Esther Crona was dead. Uriel had fed her to her son.
 
 ### The cord
@@ -529,6 +657,9 @@ The Heir spewed fire over all three of them and its own guards, and the Empress'
 
 > **Uriel:** What have you done? What have you done? He isn't mine anymore. He isn't anyone's.
 
+![Lalo Kitsune cuts the cord](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-cord.webp)
+*Lalo Kitsune cuts the cord.*
+
 The fox stabbed her in the leg.
 
 > *She puts her hand onto her chest and says a familiar phrase. "Incantus!" But nothing happens. She looks horrified at her hand as it starts to melt away. The wound that Lalo's just put in her, she touches it, wipes the blood, but it doesn't heal the wound, and she looks scared. She's been a pretty reliable spellcaster for her whole life, and it seems like her magic is gone.*
@@ -554,6 +685,9 @@ She pointed at Eric, flew down, and attacked him with Mourning Dove.
 Eric hit her with the mace of disruption.
 
 > *All the black bile of her evil rains down, until she's just an empty husk with a pool of ichor, all of her malice drained down at her feet. And then her husk just falls to the ground. You're surrounded by an orbit of perfect ellipses showing all the paths of the moons around Eberron in exact calculus detail. And the Heir grows larger still.*
+
+![Eric destroys the Empress with the mace of disruption](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp)
+*Eric destroys the Empress with the mace of disruption.*
 
 Dario slapped him on the back.
 
@@ -611,6 +745,9 @@ Large, highly sophisticated vessels of [the Hundreds](/organizations/the-hundred
 >
 > **Gemma:** You know, your humor is what made me want to marry you.
 
+![Joseph Roberts brings the Revenge in over the cathedral roof](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp)
+*Joseph Roberts brings the Revenge in over the cathedral roof.*
+
 Eric shouted at Valtrex to get out of there. Valtrex roared. Only then did they notice his riders: the Leonin scholar [Jelton Ahn](/people/jelton-ahn/) and [Madame Tso](/people/madame-tso-teryaki/), she wearing the [Crown of Seven Stars](/items/the-crown-of-seven-stars/). The gift of the crown had worked, after a fashion. After Valtrex killed Aurorix, he had started helping to kill the undead.
 
 Roberts reached out and helped Gemma on board, and Dario hopped on after her.
@@ -652,6 +789,9 @@ The boat pulled into the courtyard. *"Get on before that dragon kills us!"* The 
 > **Roberts:** Go, go, go!
 
 > *And you climb up higher and higher and out into the tall columns of clouds that dot the sky all the way to the horizon and out toward the Lhazaar seas.*
+
+![The valley of the Ivory Lazaret burns behind the Revenge](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp)
+*The valley of the Ivory Lazaret burns behind the Revenge.*
 
 ### On deck
 

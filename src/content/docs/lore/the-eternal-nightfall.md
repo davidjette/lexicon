@@ -51,6 +51,10 @@ gallery:
   caption: 'A prop document from the Mt. Silicon Archive: Intelligence Dossier HB-CHORUS-13, "The Fatanya Nyel - Hell''s Bells - Instruments of the Eternal Nightfall", from the Office of the Progenitor, with a threat table and an assessment of the threat. It is part of the sealed intelligence dossier on the Hell''s Bells that Locke Pierce gives the trio.'
 campaigns:
   - the-unforeseen-strike-back
+image:
+  src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-hill.webp
+  alt: "The dead rise out of the heather-covered hill as Uriel rings the bell"
+  caption: "Lexical rendering: The dead rise out of the heather-covered hill as Uriel rings the bell - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Planned event · Continent-wide · Begun at Nos Matre and broken there ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**

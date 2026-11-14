@@ -137,6 +137,18 @@ gallery:
 - src: /images/gallery/2026-03-01-05.webp
   alt: Eric the Cleric, portrait
   caption: A head-and-shoulders portrait of Eric the Cleric in glasses, a studded dark jerkin and a cloak, on a street in Sharn.
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-belfry.webp
+  alt: "Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them"
+  caption: "Lexical rendering: Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-leap.webp
+  alt: "Eric leaps from the tower and clings to the Empress"
+  caption: "Lexical rendering: Eric leaps from the tower and clings to the Empress - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-navier-stokes.webp
+  alt: "Eric turns the risen dead and proves the Navier-Stokes hypothesis"
+  caption: "Lexical rendering: Eric turns the risen dead and proves the Navier-Stokes hypothesis - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
+  alt: "Eric destroys the Empress with the mace of disruption"
+  caption: "Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

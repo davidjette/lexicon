@@ -101,6 +101,21 @@ gallery:
   - src: /images/minis/uriel-qualanthri-white-death.webp
     alt: 'The White Death: Uriel, crowned and in tattered white, walks a battlefield with a flaming scythe at the head of an undead army'
     caption: The White Death
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-her-fury.webp
+    alt: "Uriel in the air over Nos Matre, her guardians around her"
+    caption: "Lexical rendering: Uriel in the air over Nos Matre, her guardians around her - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-leap.webp
+    alt: "Eric leaps from the tower and clings to the Empress"
+    caption: "Lexical rendering: Eric leaps from the tower and clings to the Empress - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
+    alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
+    caption: "Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp
+    alt: "Uriel and the Heir of Vol in the Sept of Bones"
+    caption: "Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
+    alt: "Eric destroys the Empress with the mace of disruption"
+    caption: "Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

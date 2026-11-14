@@ -64,6 +64,12 @@ gallery:
   - src: /images/album/korth-ep-20-the-dinner-party-the-pool.webp
     alt: 'The gold dragon half sunk in the pool of blood - Korth Ep 20, The Dinner Party'
     caption: 'The gold dragon half sunk in the pool of blood - Korth Ep 20, The Dinner Party'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-hill.webp
+    alt: "The dead rise out of the heather-covered hill as Uriel rings the bell"
+    caption: "Lexical rendering: The dead rise out of the heather-covered hill as Uriel rings the bell - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
+    alt: "The valley of the Ivory Lazaret burns behind the Revenge"
+    caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Hospital and cloister · the mountains upriver of Korth, on the Qarth road · Seat of the Holy Empress · Destroyed ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**

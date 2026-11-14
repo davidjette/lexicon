@@ -76,6 +76,12 @@ gallery:
   - src: /images/gallery/2025-10-12-02.webp
     alt: Blue-skinned horned woman in a laboratory
     caption: A blue-skinned, white-haired horned woman in dark armour with a mechanical arm holds a knife in a bright laboratory full of specimen tanks.
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-forecourt.webp
+    alt: "The dead in the forecourt turn to look at Gemma as the Polygon opens"
+    caption: "Lexical rendering: The dead in the forecourt turn to look at Gemma as the Polygon opens - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp
+    alt: "Eden frees her sister Esther in the hospital under the Lazaret"
+    caption: "Lexical rendering: Eden frees her sister Esther in the hospital under the Lazaret - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

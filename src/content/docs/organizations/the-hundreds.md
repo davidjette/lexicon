@@ -47,6 +47,9 @@ gallery:
 - src: /images/gallery/2026-06-28-05.webp
   alt: The Hundreds' control chamber
   caption: Warforged move through a dim control chamber of consoles facing a large screen that shows a portal in a dead land.
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
+  alt: "The valley of the Ivory Lazaret burns behind the Revenge"
+  caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
 image:
   src: /images/gallery/2026-06-27-02.webp
   alt: "The gate of Mt. Silicon"

@@ -53,6 +53,9 @@ gallery:
 - src: /images/gallery/2026-09-03-08.webp
   alt: Dario breaks the crated bell
   caption: An armoured dragonborn swings a warhammer into the bell in its crate, the metal buckling and shattering under the blow.
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-knell.webp
+  alt: "Dario breaks the Original with Knell"
+  caption: "Lexical rendering: Dario breaks the Original with Knell - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

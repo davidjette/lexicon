@@ -161,6 +161,15 @@ gallery:
   - src: /images/gallery/2025-12-19-04.webp
     alt: 3D figure of Gemma Corso
     caption: A rendered 3D figure of a red-haired tiefling woman with curling horns, a braid, a long red scarf and a tail, holding a short sword.
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-circle.webp
+    alt: "Gemma calls up the circle of power on the back of Aurorix"
+    caption: "Lexical rendering: Gemma calls up the circle of power on the back of Aurorix - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
+    alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
+    caption: "Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp
+    alt: "Joseph Roberts brings the Revenge in over the cathedral roof"
+    caption: "Lexical rendering: Joseph Roberts brings the Revenge in over the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

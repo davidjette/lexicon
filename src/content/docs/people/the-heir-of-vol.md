@@ -30,6 +30,20 @@ sources:
 published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
+image:
+  src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp
+  alt: "Uriel and the Heir of Vol in the Sept of Bones"
+  caption: "Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
+gallery:
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-black-fire.webp
+  alt: "The Heir of Vol breathes black fire"
+  caption: "Lexical rendering: The Heir of Vol breathes black fire - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-feeding.webp
+  alt: "Uriel holds Esther over the Heir of Vol"
+  caption: "Lexical rendering: Uriel holds Esther over the Heir of Vol - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-cord.webp
+  alt: "Lalo Kitsune cuts the cord"
+  caption: "Lexical rendering: Lalo Kitsune cuts the cord - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Half-dragon · Son of Uriel Qualanthri and the Crimson Sun · Born in the Sept of Bones · Last seen in the fire that destroyed the Ivory Lazaret ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**

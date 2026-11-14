@@ -56,6 +56,12 @@ gallery:
   - src: /images/album/korth-ep-16-orientation-day-the-rite.webp
     alt: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'
     caption: 'Zero-One performs the rite over Esther Crona as the party appears - Korth Ep 16, Orientation Day'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-circle.webp
+    alt: "Gemma calls up the circle of power on the back of Aurorix"
+    caption: "Lexical rendering: Gemma calls up the circle of power on the back of Aurorix - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
+    alt: "Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid"
+    caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

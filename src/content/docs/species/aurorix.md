@@ -35,6 +35,9 @@ gallery:
     alt: "Aurorix in his human shape, a yellow-haired young man"
   - src: /images/album/korth-ep-21-the-summer-palace-riding-aurorix.webp
     alt: "Gemma, Dario and Eric climb onto Aurorix in his true shape"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-two-dragons.webp
+    alt: "Aurorix and Valtrex lock jaws over Nos Matre"
+    caption: "Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

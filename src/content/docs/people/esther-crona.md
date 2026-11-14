@@ -105,6 +105,15 @@ gallery:
   - src: /images/album/esther-crona-age-18-and-vayrn-crona-inside-crimson-sun-hall-korth.webp
     alt: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
     caption: Esther Crona Age 18 and Varyn Crona - Inside Crimson Sun Hall - Korth
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp
+    alt: "Eden frees her sister Esther in the hospital under the Lazaret"
+    caption: "Lexical rendering: Eden frees her sister Esther in the hospital under the Lazaret - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-esther-arrives.webp
+    alt: "Esther Crona steps into the Sept of Bones"
+    caption: "Lexical rendering: Esther Crona steps into the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-feeding.webp
+    alt: "Uriel holds Esther over the Heir of Vol"
+    caption: "Lexical rendering: Uriel holds Esther over the Heir of Vol - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
