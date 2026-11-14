@@ -1,14 +1,14 @@
 // The battle tracker page: a table-side initiative tracker for the DM. The page itself is an
 // empty shell; every fight and stat block it shows comes out of the DM pack once unlocked.
 
-import '../data/encounters.js?v=mwfr3s47';
-import { ALL, TRACKERS } from '../data/registry.js?v=mwfr3s47';
-import { PARTY } from '../data/pcs.js?v=mwfr3s47';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfr3s47';
+import '../data/encounters.js?v=mwfs3ebf';
+import { ALL, TRACKERS } from '../data/registry.js?v=mwfs3ebf';
+import { PARTY } from '../data/pcs.js?v=mwfs3ebf';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwfs3ebf';
 import {
-  ABILS, CONDITIONS, signed, rollExpr, rollD20, newState, cardOf, addCombatants, customCard, say, order, get,
+  ABILS, CONDITIONS, DAMAGE_TYPES, signed, rollExpr, rollD20, newState, cardOf, addCombatants, customCard, say, order, get,
   rollInitiative, next, legendaryReady, roundEndItems, damage, heal, addCond, resolveCard,
-} from './core.js?v=mwfr3s47';
+} from './core.js?v=mwfs3ebf';
 
 const KEY = 'tracker-state-v1';
 const app = document.getElementById('app');
@@ -222,6 +222,8 @@ function sheetPanel() {
       ${defs ? `<p class="defs">${esc(defs)}.</p>` : ''}
       <div class="condbar">${condChips(c, true)}
         <select data-i="addcond" data-id="${c.id}"><option value="">+ condition</option>${CONDITIONS.map((n) => `<option>${n}</option>`).join('')}<option value="__custom">Other...</option></select>
+        <select data-i="addres" data-id="${c.id}"><option value="">+ resistance</option>${DAMAGE_TYPES.map((n) => `<option>${n}</option>`).join('')}</select>
+        ${(c.resist || []).map((r, i) => `<span class="cond used">resists ${esc(r)}<button data-a="unres" data-id="${c.id}" data-i="${i}" title="Remove">x</button></span>`).join('')}
         <button class="btn small ${c.conc ? 'on' : ''}" data-a="conc" data-id="${c.id}">Concentration</button>
         <button class="btn small ${c.reacted ? 'on' : ''}" data-a="react" data-id="${c.id}">Reaction used</button>
       </div>
@@ -325,7 +327,7 @@ function render() {
   const fk = document.activeElement && document.activeElement.dataset ? document.activeElement.dataset.fk : null;
   const logScroll = (document.querySelector('.log') || {}).scrollTop || 0;
   const sc = scenario();
-  const toggles = sc ? (sc.toggles || []).map((t) => `<label class="check"><input type="checkbox" data-i="flag" data-k="${t.key}" ${S.flags[t.key] ? 'checked' : ''}> ${esc(t.label)}</label>`).join('') : '';
+  const toggles = sc ? (sc.toggles || []).map((t) => `<label class="check"><input type="checkbox" data-i="flag" data-k="${t.key}" ${(S.flags[t.key] ?? !!t.on) ? 'checked' : ''}> ${esc(t.label)}</label>`).join('') : '';
   app.innerHTML = `
     <header class="tbar">
       <div class="ttl"><a href="./">Encounters</a> &middot; <b>Battle tracker</b> <span class="dm-tag">DM ONLY</span></div>
@@ -384,6 +386,7 @@ const clicks = {
   recharge: (el) => act(() => { const c = get(S, el.dataset.id); if (c.spent[el.dataset.k]) delete c.spent[el.dataset.k]; else c.spent[el.dataset.k] = true; }),
   conc: (el) => act(() => { const c = get(S, el.dataset.id); c.conc = !c.conc; }),
   react: (el) => act(() => { const c = get(S, el.dataset.id); c.reacted = !c.reacted; }),
+  unres: (el) => act(() => { get(S, el.dataset.id).resist.splice(+el.dataset.i, 1); }),
   uncond: (el) => act(() => { get(S, el.dataset.id).conds.splice(+el.dataset.i, 1); }),
   side: (el) => act(() => { const c = get(S, el.dataset.id); c.side = c.side === 'pc' ? 'foe' : 'pc'; say(S, 'info', `${c.name} now fights for ${c.side === 'pc' ? 'the party' : 'the opposition'}.`); }),
   down: (el) => act(() => { const c = get(S, el.dataset.id); c.dead = !c.dead; }),
@@ -428,6 +431,7 @@ const changes = {
   temp: (el) => act(() => { get(S, el.dataset.id).temp = Math.max(0, +el.value || 0); }),
   notes: (el) => { get(S, el.dataset.id).notes = el.value; save(); },
   addcond: (el) => { let name = el.value; if (!name) return; if (name === '__custom') { name = (window.prompt('Condition') || '').trim(); if (!name) { el.value = ''; return; } } act(() => addCond(get(S, el.dataset.id), { name })); },
+  addres: (el) => { const v = el.value; if (!v) return; act(() => { const c = get(S, el.dataset.id); c.resist = [...new Set([...(c.resist || []), v])]; say(S, 'info', `${c.name} now resists ${v}.`); }); },
   scenario: (el) => { const keep = JSON.stringify(S); startFight(el.value || null); undo = [keep]; render(); },
   flag: (el) => act(() => {
     const k = el.dataset.k; S.flags[k] = el.checked;

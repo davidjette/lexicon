@@ -1,10 +1,10 @@
 // The fight itself: initiative, rounds, turns, legendary and lair actions, reinforcements, and the
 // stepper the interface drives. The flow is a generator that pauses at every decision.
 
-import { Engine } from './rules.js?v=mwfr3s47';
-import { d20, rollDice, signed } from './dice.js?v=mwfr3s47';
-import { breakAll } from './zones.js?v=mwfr3s47';
-import { AI } from './ai.js?v=mwfr3s47';
+import { Engine } from './rules.js?v=mwfs3ebf';
+import { d20, rollDice, signed } from './dice.js?v=mwfs3ebf';
+import { breakAll } from './zones.js?v=mwfs3ebf';
+import { AI } from './ai.js?v=mwfs3ebf';
 
 export class Encounter extends Engine {
   // setup: { pcs: [{ tpl, name, near, pos }], monsters: [...], rules, seed, scenario }

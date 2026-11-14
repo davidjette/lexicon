@@ -2,8 +2,8 @@
 // order, turn flow with its stop points, damage and conditions. No page code here, so the
 // same file runs under node for tests.
 
-import { ALL } from '../data/registry.js?v=mwfr3s47';
-import { PARTY } from '../data/pcs.js?v=mwfr3s47';
+import { ALL } from '../data/registry.js?v=mwfs3ebf';
+import { PARTY } from '../data/pcs.js?v=mwfs3ebf';
 
 export const ABILS = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
 export const mod = (score) => Math.floor(((score ?? 10) - 10) / 2);
@@ -131,7 +131,18 @@ export function newState(scenario) {
   return s;
 }
 
-export const cardOf = (s, scenario, c) => c.card || resolveCard(c.ref, scenario, s.level);
+// The card as it stands right now: the block, plus anything temporary. A creature can be given
+// extra resistances of its own (c.resist), and a fight can name a switch that gives the whole
+// party some (a toggle with partyResist), such as potions drunk before the fight.
+export function cardOf(s, scenario, c) {
+  const k = c.card || resolveCard(c.ref, scenario, s.level);
+  if (!k) return k;
+  const extra = [...(c.resist || [])];
+  if (c.pc && scenario) {
+    for (const t of scenario.toggles || []) if (t.partyResist && (s.flags[t.key] ?? !!t.on)) extra.push(...t.partyResist);
+  }
+  return extra.length ? { ...k, resist: [...new Set([...k.resist, ...extra])] } : k;
+}
 
 export function addCombatants(s, scenario, ref, n, side, card) {
   const k = card || resolveCard(ref, scenario, s.level);
@@ -376,4 +387,5 @@ export function addCond(c, cond) {
   c.conds.push(JSON.parse(JSON.stringify(cond)));
 }
 
+export const DAMAGE_TYPES = ['acid', 'bludgeoning', 'cold', 'fire', 'force', 'lightning', 'necrotic', 'piercing', 'poison', 'psychic', 'radiant', 'slashing', 'thunder'];
 export const CONDITIONS = ['Blinded', 'Charmed', 'Deafened', 'Frightened', 'Grappled', 'Incapacitated', 'Invisible', 'Paralyzed', 'Petrified', 'Poisoned', 'Prone', 'Restrained', 'Stunned', 'Unconscious', 'Exhaustion', 'Blessed', 'Hasted', 'Slowed', 'Dodging', 'Hidden', 'Flying'];
