@@ -1,14 +1,14 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mwg113e4';
-import { AI } from '../engine/ai.js?v=mwg113e4';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mwg113e4';
-import { switchDefaults } from '../data/encounters.js?v=mwg113e4';
-import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mwg113e4';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwg113e4';
-import { PARTY } from '../data/pcs.js?v=mwg113e4';
-import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwg113e4';
-import { openInbox, setupInbox } from './inbox.js?v=mwg113e4';
+import { Encounter } from '../engine/combat.js?v=mwgourid';
+import { AI } from '../engine/ai.js?v=mwgourid';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mwgourid';
+import { switchDefaults } from '../data/encounters.js?v=mwgourid';
+import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mwgourid';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwgourid';
+import { PARTY } from '../data/pcs.js?v=mwgourid';
+import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwgourid';
+import { openInbox, setupInbox } from './inbox.js?v=mwgourid';
 
 const $ = (id) => document.getElementById(id);
 
@@ -46,6 +46,7 @@ let logCount = 0;
 let worker = null;
 let libraryLoaded = false; // the wider library, loaded after the page
 let dmFound = null; // what findPack() returned
+let openSite = false; // the DM files are published in the clear: everything is open to everyone, with no gate and no labels
 let dmTexts = null; // the unlocked pack, kept to hand to the batch worker
 
 const preset = () => PRESETS.find((p) => p.id === state.presetId);
@@ -89,11 +90,11 @@ function renderSetup() {
   if (sel.dataset.count !== String(PRESETS.length)) {
     sel.dataset.count = String(PRESETS.length);
     sel.replaceChildren();
-    const groups = [['Encounters', PRESETS.filter((p) => !p.dm)], ['DM ONLY', PRESETS.filter((p) => p.dm)]];
+    const groups = [['Encounters', PRESETS.filter((p) => !p.dm)], [openSite ? 'The Lazaret and the finale' : 'DM ONLY', PRESETS.filter((p) => p.dm)]];
     for (const [label, list] of groups) {
       if (!list.length) continue;
       const og = h('optgroup', { label });
-      for (const p of list) og.append(h('option', { value: p.id }, p.dm ? `DM ONLY · ${p.name}` : p.name));
+      for (const p of list) og.append(h('option', { value: p.id }, p.dm && !openSite ? `DM ONLY · ${p.name}` : p.name));
       sel.append(og);
     }
     if (!sel.dataset.wired) {
@@ -171,7 +172,7 @@ function renderAdder(side) {
   if (missing.length) groups.push(['The Inevitables', missing.map((id) => [id, `${PARTY[id]().name} · level ${PARTY[id]().level}`])]);
   const lib = [...LIBRARY].sort((a, b) => (side === 'pc' ? (b.ally ? 1 : 0) - (a.ally ? 1 : 0) : (a.ally ? 1 : 0) - (b.ally ? 1 : 0)));
   for (const g of lib) {
-    groups.push([g.dm ? `DM ONLY · ${g.group}` : g.group,
+    groups.push([g.dm && !openSite ? `DM ONLY · ${g.group}` : g.group,
       g.ids.filter((id) => ALL[id]).map((id) => [id, `${ALL[id].name}${ALL[id].cr !== undefined ? ` (CR ${ALL[id].cr})` : ''}${ALL[id].level && !/level/i.test(ALL[id].name) ? ` · level ${ALL[id].level}` : ''}`])]);
   }
   const fill = () => {
@@ -277,7 +278,7 @@ function editCard(r) {
   return h('div', { class: `unit ${base.dm ? 'dm' : ''}` },
     portrait(base, r.name),
     h('div', {},
-      h('div', { class: 'name' }, r.name, base.dm ? h('span', { class: 'dm-tag', style: 'margin-left:.4rem' }, 'DM ONLY') : null),
+      h('div', { class: 'name' }, r.name, base.dm && !openSite ? h('span', { class: 'dm-tag', style: 'margin-left:.4rem' }, 'DM ONLY') : null),
       h('div', base.features ? { class: 'sub', title: featureNote(base.features, base.items) } : { class: 'sub' }, subline(base)),
       line),
     det);
@@ -598,7 +599,15 @@ function renderDm(error) {
   if (!dmFound) { bar.hidden = true; return; }
   bar.hidden = false;
   body.replaceChildren();
-  document.body.classList.toggle('dm-on', packs.dm);
+  document.body.classList.toggle('dm-on', packs.dm && !openSite);
+  if (packs.dm && openSite) {
+    const stampEl = bar.querySelector('.dm-stamp');
+    if (stampEl) stampEl.hidden = true;
+    body.append(
+      h('p', {}, h('strong', {}, 'Everything is open. '), 'The campaign is over, and every stat block and encounter from it is in the lists, the Lazaret and the finale included.'),
+      h('a', { class: 'btn small primary', href: 'tracker.html' }, 'Battle tracker'));
+    return;
+  }
   if (packs.dm) {
     body.append(
       h('p', {}, h('strong', {}, 'DM content is unlocked. '), 'Unreleased stat blocks and encounters are in the lists, each marked DM ONLY. Do not share this screen with players.'),
@@ -678,9 +687,21 @@ function init() {
   setupInbox();
   loadPreset(state.presetId);
   renderAll(true);
-  findPack().then((found) => { dmFound = found; renderDm(); });
+  findPack().then(async (found) => {
+    dmFound = found;
+    if (found && found.kind === 'local') {
+      // published in the clear: load it for everyone, without asking
+      try {
+        dmTexts = await unlock(found, '');
+        await installTexts(dmTexts);
+        openSite = true;
+        renderAll();
+      } catch { dmTexts = null; }
+    }
+    renderDm();
+  });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mwg113e4').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mwgourid').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 

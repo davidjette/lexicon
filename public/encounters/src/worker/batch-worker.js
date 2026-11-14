@@ -1,16 +1,16 @@
 // Runs the same fight many times off the main thread.
 
-import { Encounter } from '../engine/combat.js?v=mwg113e4';
-import { setupFromState } from '../data/build.js?v=mwg113e4';
-import { tally } from '../engine/stats.js?v=mwg113e4';
-import { installTexts } from '../dm-loader.js?v=mwg113e4';
+import { Encounter } from '../engine/combat.js?v=mwgourid';
+import { setupFromState } from '../data/build.js?v=mwgourid';
+import { tally } from '../engine/stats.js?v=mwgourid';
+import { installTexts } from '../dm-loader.js?v=mwgourid';
 
 self.onmessage = async (e) => {
   const { state, n, seed0, dmTexts, library } = e.data;
   const runs = [];
   try {
     if (dmTexts) await installTexts(dmTexts);
-    if (library) await import('../library/index.js?v=mwg113e4');
+    if (library) await import('../library/index.js?v=mwgourid');
     for (let i = 0; i < n; i++) {
       runs.push(new Encounter(setupFromState(state, seed0 + i, true)).start().runToEnd());
       if (i % 20 === 0) self.postMessage({ progress: i / n });

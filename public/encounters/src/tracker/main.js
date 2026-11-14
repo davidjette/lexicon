@@ -1,14 +1,14 @@
 // The battle tracker page: a table-side initiative tracker for the DM. The page itself is an
 // empty shell; every fight and stat block it shows comes out of the DM pack once unlocked.
 
-import '../data/encounters.js?v=mwg113e4';
-import { ALL, TRACKERS } from '../data/registry.js?v=mwg113e4';
-import { PARTY } from '../data/pcs.js?v=mwg113e4';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwg113e4';
+import '../data/encounters.js?v=mwgourid';
+import { ALL, TRACKERS } from '../data/registry.js?v=mwgourid';
+import { PARTY } from '../data/pcs.js?v=mwgourid';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwgourid';
 import {
   ABILS, CONDITIONS, DAMAGE_TYPES, signed, rollExpr, rollD20, newState, cardOf, addCombatants, customCard, say, order, get,
   rollInitiative, next, legendaryReady, roundEndItems, damage, heal, addCond, resolveCard, carryOver, applyCarry,
-} from './core.js?v=mwg113e4';
+} from './core.js?v=mwgourid';
 
 const KEY = 'tracker-state-v1';
 const app = document.getElementById('app');
@@ -346,7 +346,7 @@ function render() {
   const toggles = sc ? (sc.toggles || []).map((t) => `<label class="check"><input type="checkbox" data-i="flag" data-k="${t.key}" ${(S.flags[t.key] ?? !!t.on) ? 'checked' : ''}> ${esc(t.label)}</label>`).join('') : '';
   app.innerHTML = `
     <header class="tbar">
-      <div class="ttl"><a href="./">Encounters</a> &middot; <b>Battle tracker</b> <span class="dm-tag">DM ONLY</span></div>
+      <div class="ttl"><a href="./">Encounters</a> &middot; <b>Battle tracker</b></div>
       <label class="field"><select data-i="scenario"><option value="">An empty table</option>${TRACKERS.map((t) => `<option value="${t.id}" ${S.scenario === t.id ? 'selected' : ''}>${esc(t.name)}</option>`).join('')}</select></label>
       <span class="grow"></span>
       <button class="btn small" data-a="undo" ${undo.length ? '' : 'disabled'} title="Ctrl+Z">Undo</button>
