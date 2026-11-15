@@ -78,17 +78,17 @@ wa:
   category: 0db7a764-9191-404a-a1a8-6ec90523b6dc
 gallery:
   - src: /images/album/korth-ep-21-the-summer-palace-uriel-at-the-bell.webp
-    alt: 'Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace'
-    caption: 'Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace'
+    alt: Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace
+    caption: Uriel flies to the bell with Mourning Dove, her belly burning red - Korth Ep 21, The Summer Palace
   - src: /images/album/korth-ep-21-the-summer-palace-uriel-in-labour.webp
-    alt: 'Uriel in labour, held down by her sisters - Korth Ep 21, The Summer Palace'
-    caption: 'Uriel in labour, held down by her sisters - Korth Ep 21, The Summer Palace'
+    alt: Uriel in labour, held down by her sisters - Korth Ep 21, The Summer Palace
+    caption: Uriel in labour, held down by her sisters - Korth Ep 21, The Summer Palace
   - src: /images/album/korth-ep-21-the-summer-palace-aurorix-and-uriel.webp
-    alt: 'Aurorix breathes fire on Uriel as her magic strikes Dario down - Korth Ep 21, The Summer Palace'
-    caption: 'Aurorix breathes fire on Uriel as her magic strikes Dario down - Korth Ep 21, The Summer Palace'
+    alt: Aurorix breathes fire on Uriel as her magic strikes Dario down - Korth Ep 21, The Summer Palace
+    caption: Aurorix breathes fire on Uriel as her magic strikes Dario down - Korth Ep 21, The Summer Palace
   - src: /images/album/korth-ep-19-the-westhouse-the-statue-of-uriel.webp
-    alt: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
-    caption: 'General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse'
+    alt: General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse
+    caption: General Thar and his druids Majorbo and Veg before the statue of Uriel at the top of the Stairs of Her Mercy - Korth Ep 19, The Westhouse
   - src: /images/gallery/2026-04-05-02.webp
     alt: 'Calcifer''s birth: Uriel holds the newborn'
     caption: 'Uriel Qualanthri, in white robes, cradles the newborn Calcifer while Esther Crona lies exhausted on a balcony couch above Sharn: the memory pulled from Grady Marsh.'
@@ -102,20 +102,20 @@ gallery:
     alt: 'The White Death: Uriel, crowned and in tattered white, walks a battlefield with a flaming scythe at the head of an undead army'
     caption: The White Death
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-her-fury.webp
-    alt: "Uriel in the air over Nos Matre, her guardians around her"
-    caption: "Lexical rendering: Uriel in the air over Nos Matre, her guardians around her - Korth Ep 22, The Reckoning of the Mother"
+    alt: Uriel in the air over Nos Matre, her guardians around her
+    caption: 'Lexical rendering: Uriel in the air over Nos Matre, her guardians around her - Korth Ep 22, The Reckoning of the Mother'
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-leap.webp
-    alt: "Eric leaps from the tower and clings to the Empress"
-    caption: "Lexical rendering: Eric leaps from the tower and clings to the Empress - Korth Ep 22, The Reckoning of the Mother"
+    alt: Eric leaps from the tower and clings to the Empress
+    caption: 'Lexical rendering: Eric leaps from the tower and clings to the Empress - Korth Ep 22, The Reckoning of the Mother'
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
-    alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
-    caption: "Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother"
+    alt: 'Dario over the fallen Empress: after the long night comes a brighter dawn'
+    caption: 'Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother'
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp
-    alt: "Uriel and the Heir of Vol in the Sept of Bones"
-    caption: "Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
+    alt: Uriel and the Heir of Vol in the Sept of Bones
+    caption: 'Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother'
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
-    alt: "Eric destroys the Empress with the mace of disruption"
-    caption: "Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother"
+    alt: Eric destroys the Empress with the mace of disruption
+    caption: 'Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother'
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
@@ -127,7 +127,7 @@ campaigns:
 
 ---
 
-Holy Empress **Uriel Qualanthri** was a high elf cleric from Aerenal, a combat medic of the [Black Doves](/organizations/the-black-doves/), and a founding member of [The Unforeseen](/organizations/the-unforeseen/). For ten years she ruled the Pax Imperium in the name of [Emperor Kaius III](/people/emperor-caius-iii/). She bore the Dragonmark of Death, which marked her as a descendant of the House of Vol, and she passed as a cleric of Light while she served the grave. To the Empire she was the Holy Empress. To the rebellion she was the White Death. She was one of the four founders of the Unforeseen in the first campaign and the last enemy of the second.
+Holy Empress **Uriel Qualanthri** was a high elf cleric from Aerenal, a combat medic of the [Black Doves](/organizations/the-black-doves/), and a founding member of [The Unforeseen](/organizations/the-unforeseen/). For ten years she ruled the Pax Imperium in the name of [Emperor Kaius III](/people/emperor-caius-iii/). She bore the Dragonmark of Death, which marked her as a descendant of the House of Vol, and she passed as a cleric of Light while she served to further her evil ends. To the Empire she was the Holy Empress, to the rebellion she was the White Death. She was one of the four founders of the Unforeseen the last enemy of the Inevitables.
 
 She came to Khorvaire against the wishes of her parents and served the Empire as a conscripted medic in the Last War. She founded a hospital at New Ham that grew into the university department she headed for the rest of her life, U.N.D.E.A.D. She was killed by a mind flayer under Sharn and raised by [Fema Nolan](/people/zero-one-fema-nolan/), who set a diamond in her skull in place of her brain. She killed her commander, [Gabrielle Duin](/people/gabriel-duin/), took Duin's place beside the Emperor, married him, and held him in torpor with a rod through his heart. At the [Ivory Lazaret](/places/the-ivory-lazaret/) she turned the Black Doves into a convent of her own, bore the Emperor fourteen daughters, and carried a son, the [Heir of Vol](/people/the-heir-of-vol/), far past his time. She meant to ring the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) and raise the dead of Khorvaire.
 
