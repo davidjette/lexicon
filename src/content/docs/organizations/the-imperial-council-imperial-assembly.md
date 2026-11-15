@@ -84,7 +84,7 @@ Esther's own account of her master's table talk records what Varyn said of the C
 
 ## THE ASSEMBLY TOWER
 
-The tower stands in Korth and the Council of 13 meet in it. <small>The Inevitables have operated inside the Imperial capital using Ministry of Law credentials with standing to investigate nearly any Imperial facility, and have not yet crossed its threshold. Whether anybody still convenes there is not recorded. The Great Imperial Palace to the south is likewise still staffed by bureaucrats and nobles dealing with intermediaries of the court, ten years after the Emperor last sat the Throne of Bones.</small>
+The tower stood in Korth and the Council of 13 met in it. <small>The Inevitables operated inside the Imperial capital using Ministry of Law credentials with standing to investigate nearly any Imperial facility, and never crossed its threshold. Whether anybody still convened there is not recorded. The Great Imperial Palace to the south was likewise still staffed by bureaucrats and nobles dealing with intermediaries of the court, ten years after the Emperor last sat the Throne of Bones.</small>
 
 **Successor bodies:** [The Council of 13](/organizations/the-council-of-13/), raised as an undead honour guard. In Sharn, the **Council of Sharn**, convened in Esther's own penthouse the day after she died, with [Eric](/people/eric-the-cleric/) appointed Chancellor and seats claimed by Leef, NEST, the Silver Flame, R.U.S.T., the Hundreds and the Underhive.
 

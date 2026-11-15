@@ -66,7 +66,7 @@ If Locke lies successfully, or simply never mentions it, the team is commended f
 What Khorvaire was told afterwards, item by item:
 
 - **Magnolia Steele** steps down from the Imperial Assembly and as Chancellor of the Rekkenmark. No replacement is named for either position.
-- **Gabrielle Duin is missing**, and blame for her assassination is placed on [Lady Glow](/people/lady-glow/). Glow was morbidly injured during her arrest and has been sentenced to live out the remainder of her life in medical confinement at Newham Hospital. <small>(Rebel-side accounts of what became of Lady Glow do not match this.)</small>
+- **Gabrielle Duin is missing**, and blame for her assassination is placed on [Lady Glow](/people/lady-glow/). Glow was morbidly injured during her arrest and has been sentenced to live out the remainder of her life in medical confinement at Newham Hospital. <small>(Rebel-side accounts of what became of Lady Glow do not match this. Duin was in hiding in the Imperial Palace, and Uriel Qualanthri later killed her.)</small>
 - At least a dozen other [Black Dove](/organizations/the-black-doves/) commanders and associates are found killed or reported missing over the following weeks. Some are believed to have fled to join the Rebellion.
 - The Empire publicly acknowledges armed rebels inside the Mournlands, and dismisses them as minor local warlords disputing paltry resources, beyond the worry of any Imperial citizen.
 - A **no-go zone** is declared over a substantial portion of the Dragon Isles after continued out-of-control piracy. The Empire has not enforced its will in those waters, and the Valenar elves are furious at the collapse in trade.

@@ -1,6 +1,6 @@
 ---
 title: Blood of Vol
-description: A cult of Kaius-worshippers who believe they share the Emperor's divine blood, built as a Crimson Sun propaganda project and still run by its handler.
+description: A cult of Kaius-worshippers who believe they share the Emperor's divine blood, built as a Crimson Sun propaganda project and run by Gabrielle Duin.
 type: organization
 kind: organizations
 tags:
@@ -58,9 +58,9 @@ gallery:
     caption: 'Saturnia begs Gemma for her life - Korth Ep 19, The Westhouse'
 ---
 
-**Religious cult · Human, merchant-class and city-guard base · Active, and not what its own members think it is**
+**Religious cult · Human, merchant-class and city-guard base · Active at last report, and not what its own members thought it was**
 
-The Blood of Vol is a religious cult of humans who believe they share an ancestral kinship with the Emperor and regard that kinship as next to divine. It was devised by the [Crimson Sun](/organizations/the-crimson-sun/) as a covert project to breed radical support among disaffected workers in the merchant class and city guard forces, and was run by an agent codenamed Godseed until it grew too large to control. That agent, Gabrielle Duin, still leads it. [Locke Pierce](/people/locke-pierce/) decoded the Imperial encryption codes and cracked the Blood of Vol files, which were held at a lower encryption level than the Imperial secrets.
+The Blood of Vol was a religious cult of humans who believed they shared an ancestral kinship with the Emperor and regarded that kinship as next to divine. It was devised by the [Crimson Sun](/organizations/the-crimson-sun/) as a covert project to breed radical support among disaffected workers in the merchant class and city guard forces, and was run by an agent codenamed Godseed until it grew too large to control. That agent, Gabrielle Duin, led it until Uriel Qualanthri killed her. [Locke Pierce](/people/locke-pierce/) decoded the Imperial encryption codes and cracked the Blood of Vol files, which were held at a lower encryption level than the Imperial secrets.
 
 ## IMPERIAL REPORT - BLOOD OF VOL
 
@@ -76,7 +76,7 @@ The Blood of Vol was originally devised by the [Crimson Sun](/organizations/the-
 
 ## PERSONAL LETTERS OF GABRIELLE DUIN
 
-Duin is that covert agent who leads the Blood of Vol and its cult of Kaius-worshipers. She claims direct descendance from the [House of Vol](/organizations/house-vol/) and bears the [Dragonmark of Death](/lore/the-mark-of-death-and-the-dragonmarks/). After killing the former Star Prelate of the [Black Doves](/organizations/the-black-doves/) on the fields at Cyre (and blaming it on the undead) she took command of the Doves and immediately subjugated them to Imperial will, all while feigning rebel sympathy and building a strong conduit of control to them. She is now in hiding in the Imperial Palace where remains consort to the Emperor.
+Duin was that covert agent who led the Blood of Vol and its cult of Kaius-worshipers. She claimed direct descendance from the [House of Vol](/organizations/house-vol/) and bore the [Dragonmark of Death](/lore/the-mark-of-death-and-the-dragonmarks/). After killing the former Star Prelate of the [Black Doves](/organizations/the-black-doves/) on the fields at Cyre (and blaming it on the undead) she took command of the Doves and immediately subjugated them to Imperial will, all while feigning rebel sympathy and building a strong conduit of control to them. At the time of the letters she was in hiding in the Imperial Palace, where she remained consort to the Emperor. [Uriel Qualanthri](/people/uriel-qualanthri/) later killed her and took her place.
 
 <small>The letters are signed **Gabrielle**. Imperial Council rosters and the Black Doves' own registry both record the same person as **Gabriel Duin**. Which spelling is the forgery is not established.</small>
 
@@ -98,7 +98,7 @@ Freed of his collar, the [black dragon](/species/black-dragons/) Valtrex gave ev
 
 Master Armhair, an elderly half-elf loremaster, hid a copy of his life's heresy in the Hall under a false index and gave the number to strangers, inviting them to have him executed for it. His claim: a great dragon called [Viagra](/people/viagra/), the most powerful known, vanished from the record long before the elves came to Khorvaire; it came to King Jarret Ilwenarn with a bargain; the sick child Prince Kaius died and was replaced; and Kaius III is that dragon, the same being as Kaius I. His evidence is contemporaneous accounts and courtiers' journals scrubbed from the archives. The manuscript also carries a dragon family tree traced to the progenitors and a thread connecting the Mark of Death, Erandis Vol's birth, and the same dragon.
 
-A competing account exists and is not reconciled with this one. [John C. LeBeefe](/people/john-c-lebeefe/)'s lingering voice told [Eric](/people/eric-the-cleric/) that the Emperor is a vampire descended from the Crimson Sun, kept alive as a vessel and fed dragon blood to strengthen his bloodline. Both are claims. Neither is established.
+A second account came from [John C. LeBeefe](/people/john-c-lebeefe/)'s lingering voice, which told [Eric](/people/eric-the-cleric/) that the Emperor was a vampire descended from the Crimson Sun, kept alive as a vessel and fed dragon blood to strengthen his bloodline. The last sessions bore out both. The gold dragon [Aurorix](/species/aurorix/) named the Emperor as Viagra, the Crimson Sun, and the party found him in [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) as a vampire staked in torpor and fed on dragon blood.
 
 > "The cult is not entirely wrong." — Imperial internal memo, decrypted by Locke Pierce
 

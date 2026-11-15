@@ -56,7 +56,7 @@ campaigns:
 
 **John Stamos** was a beloved Breeland actor and entertainer whose charm and talent made him famous across Khorvaire, and one of the founding members of the rebel group known as **Fulcrum**. Born in the small town of Zilspar outside Sharn, he rose from local stages to national acclaim and became a symbol of Breland's spirit and humour; his Fulcrum connection was unknown to the public, and he used his fame and mobility to quietly support resistance efforts. He was killed on an Imperial lightning rail when a Fulcrum crew boarded it to steal a Hell's Bell, dying at the hands of [John C. LeBeefe](/people/john-c-lebeefe/) of [The Unforeseen](/organizations/the-unforeseen/), who took his eyes and has them still.
 
-The Empire publicly blamed the attack on "rebel terrorists" and named the singer [Lady Glow](/people/lady-glow/) as responsible for his death, then erected a statue of Stamos in the Imperial capital Korth to honour him as a fallen national icon, never revealing the truth of the hero he really was. It still stands there today. No source describes his face.
+The Empire publicly blamed the attack on "rebel terrorists" and named the singer [Lady Glow](/people/lady-glow/) as responsible for his death, then erected a statue of Stamos in the Imperial capital Korth to honour him as a fallen national icon, never revealing the truth of the hero he really was. It was still standing at the time of the second campaign. No source describes his face.
 
 **Status:** Deceased.
 
@@ -82,7 +82,7 @@ Zilspar, a small Breland town outside Sharn, and local stages. From there nation
 
 ## The statue
 
-**The Imperial media reported that famous singer Lady Glow was a rebel and terrorist and was responsible for the attack on the Lightningrail and blamed for the death of beloved actor John Stamos.** **A statue commemorating his life and talent was erected in the Imperial capital Korth.** It still stands there today.
+**The Imperial media reported that famous singer Lady Glow was a rebel and terrorist and was responsible for the attack on the Lightningrail and blamed for the death of beloved actor John Stamos.** **A statue commemorating his life and talent was erected in the Imperial capital Korth.** It was still standing at the time of the second campaign.
 
 The Empire knew Stamos was a rebel. It killed him, blamed a second rebel for his murder, and then built him a monument as a martyr to rebel terrorism. One operation buried two founders of the resistance and produced a piece of public sculpture arguing against them.
 

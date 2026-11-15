@@ -47,7 +47,7 @@ campaigns:
   - unforeseen
 ---
 
-**Mechanical · Necromantic focus · Potentially Unique · Two known · Both in the hands of Uriel Qualanthri**
+**Mechanical · Necromantic focus · Potentially Unique · Two known · Both held by Uriel Qualanthri until her death**
 
 A Black Box is a small mechanical cube, five inches on a side, marked with an ancient Dwarven script that has yet to be interpreted. Two are known, both recovered by [Uriel Qualanthri](/people/uriel-qualanthri/) during Campaign 1: the first from an old thieves' den in [New Ham](/places/newham/), the second from the chest cavity of a mechanical undead knight in a tomb outside Adren Crest. Both remain in her possession. It is unknown whether there are more.
 
@@ -67,6 +67,6 @@ The purpose the boxes were made for is unknown. What the two have in common is *
 
 No connection between the boxes and the bell-work has been established. The [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) is tempered by [a dwarven method](/items/arcane-harmonics/) likewise derived from infernal sources, and the boxes carry dwarven script; that is a resemblance and nothing more. The script remains untranslated.
 
-## Where they are now
+## Fate
 
-Both are with Uriel, who is caretaker Empress and has spent the intervening years financing [a continental necromantic network](/lore/the-black-noise/). Neither box has since been reported seen, sold, destroyed or superseded. Box 2 was damaged in the fight that produced it and has not been reported repaired.
+Both stayed with Uriel, who became Empress and spent the following years financing [a continental necromantic network](/lore/the-black-noise/). Neither box was reported seen, sold, destroyed or superseded after the first campaign, and Box 2, damaged in the fight that produced it, was never reported repaired. Uriel was destroyed in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) and her valley burned the same day. What became of the boxes is not recorded.

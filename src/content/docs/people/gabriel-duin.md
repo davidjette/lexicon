@@ -1,6 +1,6 @@
 ---
 title: Gabrielle Duin
-description: Star Prelate of the Black Doves, seven-year Imperial mole, founder-handler of the Blood of Vol, and consort to the Emperor.
+description: Star Prelate of the Black Doves, Imperial mole, handler of the Blood of Vol and consort to the Emperor, killed and supplanted by Uriel Qualanthri.
 type: person
 kind: people
 tags:
@@ -27,7 +27,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown - no record survives earlier than the fields at Cyre
   children: Unknown
-  residence: In hiding in the Imperial Palace, Korth
+  residence: The Imperial Palace, Korth, in hiding, until her death
   gender: Female
   age: Unknown
   eyes: Unknown
@@ -60,39 +60,39 @@ campaigns:
   - unforeseen
 ---
 
-**High Elf · Star Prelate of the Black Doves / Imperial covert agent · The Black Doves · Blood of Vol · the Crimson Sun · Level Unknown · Missing (presumed alive)**
+**High Elf · Star Prelate of the Black Doves / Imperial covert agent · The Black Doves · Blood of Vol · the Crimson Sun · Level Unknown · Dead (killed by Uriel Qualanthri)**
 
 *Also known as:* **Gabriel Duin** · **Gabriel Dwin** · **Gabriel Duine** · **Star Prelate of the Black Doves**
 
-Gabrielle Duin is a High Elf, the Star Prelate and leader of [The Black Doves](/organizations/the-black-doves/) — a humanitarian non-governmental organisation of healers — and consort to the Emperor. She killed the former Star Prelate on the fields at Cyre, blamed the killing on the undead, took command of the order and subjugated it to Imperial will while feigning rebel sympathy. Under the covert codename **Godseed** she supplied the [Blood of Vol](/organizations/blood-of-vol/) with its founding resources and served as its handler, and she spent seven years undercover inside a rebel cell for the Emperor until [The Unforeseen](/organizations/the-unforeseen/) burned her work on an island in the Dragon Watch Isles. She claims direct descendance from the House of Vol and bears the Dragonmark of Death across her pelvis and stomach. She is now missing: the public reporting blames [Lady Glow](/people/lady-glow/) for her assassination, and the decrypted files place her in hiding in the Imperial Palace at Korth.
+Gabrielle Duin was a High Elf, the Star Prelate and leader of [The Black Doves](/organizations/the-black-doves/) — a humanitarian non-governmental organisation of healers — and consort to the Emperor. She killed the former Star Prelate on the fields at Cyre, blamed the killing on the undead, took command of the order and subjugated it to Imperial will while feigning rebel sympathy. Under the covert codename **Godseed** she supplied the [Blood of Vol](/organizations/blood-of-vol/) with its founding resources and served as its handler, and she spent seven years undercover inside a rebel cell for the Emperor until [The Unforeseen](/organizations/the-unforeseen/) burned her work on an island in the Dragon Watch Isles. She claimed direct descendance from the House of Vol and bore the Dragonmark of Death across her pelvis and stomach. After the [City of Knives](/history/city-of-knives/) the Empire reported her missing and blamed [Lady Glow](/people/lady-glow/) for her assassination, while the decrypted files placed her in hiding in the Imperial Palace at Korth. [Uriel Qualanthri](/people/uriel-qualanthri/), whom she had trained, killed her and took her place beside the Emperor.
 
 ## Physical description
 
-Under the hood she is a column of black robes, and her voice carries around a room as if many voices were speaking at once. Out of it she is, by the account of the four Imperial agents who saw her unhooded in the throne room at Korth, the most beautiful woman any of them had ever seen: nude, unhurried, with long flowing white hair. **She bears a large dragon mark on her pelvis and stomach claiming to be a descendant of the Blood of Vol.**
+Under the hood she was a column of black robes, and her voice carried around a room as if many voices were speaking at once. Out of it she was, by the account of the four Imperial agents who saw her unhooded in the throne room at Korth, the most beautiful woman any of them had ever seen: nude, unhurried, with long flowing white hair. **She bears a large dragon mark on her pelvis and stomach claiming to be a descendant of the Blood of Vol.**
 
 ## The Order
 
-The Black Doves are a Korvarian humanitarian medical order of clerics, battle medics and healers, best known for their projects in conflict zones and their work with endemic diseases. They claim to be a neutral party and they are not: under Duin they work closely with the Empire, and she has built a strong conduit of control to them. Duin did not inherit that conduit; she built it.
+The Black Doves were a Korvarian humanitarian medical order of clerics, battle medics and healers, best known for their projects in conflict zones and their work with endemic diseases. They claimed to be a neutral party and were nothing of the kind: under Duin they worked closely with the Empire, and she built a strong conduit of control to them herself. After her death Uriel purged the order's leadership and turned most of it into her convent at the [Ivory Lazaret](/places/the-ivory-lazaret/).
 
 ## Public and private
 
-**In public** Duin is the Star Prelate of a humanitarian order that the public believes to be neutral. **In private** she has been an Imperial officer the entire time. **In secret, Gabrielle Duin has been working for the past 7 years undercover for the Emperor to get in and close with a rebel cell.** She fed that cell information. She gained its trust. The information she fed it got Imperial agents and Imperial soldiers killed. **She was discovered by the group The Unforeseen.** Their digging burned her work on an island in the Dragon Watch Isles and ended seven years of infiltration.
+**In public** Duin was the Star Prelate of a humanitarian order that the public believed to be neutral. **In private** she was an Imperial officer the entire time. The record from the first campaign reads: **In secret, Gabrielle Duin has been working for the past 7 years undercover for the Emperor to get in and close with a rebel cell.** She fed that cell information. She gained its trust. The information she fed it got Imperial agents and Imperial soldiers killed. **She was discovered by the group The Unforeseen.** Their digging burned her work on an island in the Dragon Watch Isles and ended seven years of infiltration.
 
 ## The secret
 
-She claims direct descendance from the House of Vol and bears the Dragonmark of Death. She was the covert agent codenamed **Godseed**, embedded inside a civilian organisation, who supplied the Blood of Vol with its founding resources and its first nuggets of information and served as its handler until it grew too large to control. She did not rise to the Star Prelacy: she killed the former Star Prelate of the Black Doves on the fields at Cyre, blamed it on the undead, took command, and subjugated the order to Imperial will while feigning rebel sympathy throughout.
+She claimed direct descendance from the House of Vol and bore the Dragonmark of Death. She was the covert agent codenamed **Godseed**, embedded inside a civilian organisation, who supplied the Blood of Vol with its founding resources and its first nuggets of information and served as its handler until it grew too large to control. She did not rise to the Star Prelacy: she killed the former Star Prelate of the Black Doves on the fields at Cyre, blamed it on the undead, took command, and subjugated the order to Imperial will while feigning rebel sympathy throughout.
 
 ## Competence and circle
 
-Duin's associates are the Emperor himself, [Uriel Qualanthri](/people/uriel-qualanthri/) — whom she trained, and says so — and the command tier of the [Crimson Sun](/organizations/the-crimson-sun/) who ran Project Godseed. She kills with a flick of the hand and necrotic damage, and did so in front of the Emperor without breaking sentence. Her one recorded heirloom is the mark itself, and the House it came from is ash.
+Duin's associates were the Emperor himself, [Uriel Qualanthri](/people/uriel-qualanthri/), whom she trained and said so, and the command tier of the [Crimson Sun](/organizations/the-crimson-sun/) who ran Project Godseed. She killed with a flick of the hand and necrotic damage, and did so in front of the Emperor without breaking sentence. Her one recorded heirloom was the mark itself, and the House it came from was ash.
 
 ## Conduct in role
 
-Duin opens with an accounting of everything the other party has accomplished, so that they understand she has been reading their file, then tells them what it cost her. She gives orders in the shape of gifts. She removes small obstacles physically and immediately — a shadow creature clinging to a mayor, burned off where it stood — and she is recorded disposing of a rival prelate on a battlefield and blaming the undead.
+Duin opened with an accounting of everything the other party had accomplished, so that they understood she had been reading their file, then told them what it cost her. She gave orders in the shape of gifts. She removed small obstacles physically and immediately, such as the shadow creature clinging to a mayor that she burned off where it stood, and she is recorded disposing of a rival prelate on a battlefield and blaming the undead.
 
 ## Origin
 
-Where Gabrielle Duin was born, when, and to whom are not recorded. Her documented history begins at Cyre, on the fields, with a dead Star Prelate and a story about the undead that nobody in the order questioned. From there she took the Black Doves, and from the Black Doves she took a seat close enough to the Throne of Bones to be called consort. Seven years before the Unforeseen found her she went into a rebel cell and stayed there, running an entire humanitarian order and an entire terror cult from under cover. Everything earlier than Cyre is **Unknown**.
+Where Gabrielle Duin was born, when, and to whom are not recorded. Her documented history began at Cyre, on the fields, with a dead Star Prelate and a story about the undead that nobody in the order questioned. From there she took the Black Doves, and from the Black Doves she took a seat close enough to the Throne of Bones to be called consort. Seven years before the Unforeseen found her she went into a rebel cell and stayed there, running an entire humanitarian order and an entire terror cult from under cover. Everything earlier than Cyre is **Unknown**.
 
 ## The Throne Room
 
@@ -114,11 +114,15 @@ In JL's recap of the throne room she is "Gabrielle Dwuine", the leader of "the p
 
 ## The Blood of Vol
 
-Locke Pierce broke the Imperial encryption in his down time and found the Blood of Vol files sitting at a lower clearance than the Imperial secrets around them. Among them were Duin's personal letters. They name her as the covert agent who leads the cult of Kaius-worshippers, and they name the cult's origin: **Project Godseed**, devised by the Crimson Sun to breed radical support among disaffected workers in the merchant class and the city guard who were susceptible to propaganda that they were better than Warforged, goblins, gnomes, halflings, orcs and dwarves. She was its handler until it outgrew her. She has not stopped it. The cult worships the Emperor's blood as divine and his fatherhood over all of Eberron as literal.
+Locke Pierce broke the Imperial encryption in his down time and found the Blood of Vol files sitting at a lower clearance than the Imperial secrets around them. Among them were Duin's personal letters. They name her as the covert agent who leads the cult of Kaius-worshippers, and they name the cult's origin: **Project Godseed**, devised by the Crimson Sun to breed radical support among disaffected workers in the merchant class and the city guard who were susceptible to propaganda that they were better than Warforged, goblins, gnomes, halflings, orcs and dwarves. She was its handler until it outgrew her, and she did not stop it. The cult worshipped the Emperor's blood as divine and his fatherhood over all of Eberron as literal.
 
 ## Fate
 
-Duin was missing when the campaign ended. The public reporting blamed Lady Glow for her assassination. The decrypted files said otherwise: she was in hiding in the Imperial Palace, where she remained consort to the Emperor. At least a dozen other Black Dove commanders and associates were found killed or reported missing in the weeks that followed, and some were believed to have fled to join the Rebellion.
+Duin was missing when the first campaign ended. The public reporting blamed Lady Glow for her assassination. The files Locke Pierce decrypted said otherwise: she was in hiding in the Imperial Palace, where she remained consort to the Emperor. At least a dozen other Black Dove commanders and associates were found killed or reported missing in the weeks that followed, and some were believed to have fled to join the Rebellion.
+
+She was dead by the time of the second campaign. Uriel Qualanthri discovered that Duin was the Emperor's secret consort and meant to marry the Dragon Emperor and bear his child herself. Uriel proved the superior necromancer and the superior concubine, killed her, and took her place at the Emperor's bedside. After killing Duin, Uriel led a purge of the Black Doves and turned most of the order into her convent. <small>(Oral Histories: The Inevitables, 2025-08-30)</small> Officially Duin stayed missing, and the blame stayed on Lady Glow.
+
+Uriel married the Emperor, held him in torpor, and ruled in his name for ten years. The Emperor was destroyed in [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) and Uriel in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/).
 
 ### Personality Characteristics
 
@@ -144,11 +148,11 @@ Duin was missing when the campaign ended. The public reporting blamed Lady Glow 
 
 **Contacts & Relations:**
 
-- **Emperor Kaius III** — she is his consort and, by the cult's account and his own private agreement with it, a believer in his divine blood. In hiding with him at the Palace.
-- **Uriel Qualanthri** — Duin trained her, holds her mark in contempt, and gifted her Lady Glow.
-- **The Unforeseen** — burned her cover on the island, then were commended for it. Alive, and by the end ruling.
-- **The former Star Prelate of the Black Doves** — killed by Duin on the fields at Cyre. Dead; the order still believes it was the undead.
-- **The Blood of Vol** — her creation, her handler-network, and the one thing she has lost control of.
+- **[Emperor Kaius III](/people/emperor-caius-iii/)** — she was his consort and, by the cult's account and his own private agreement with it, a believer in his divine blood. Uriel took her place beside him.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — Duin trained her, held her mark in contempt, and gifted her Lady Glow. Uriel killed her.
+- **The Unforeseen** — burned her cover on the island, then were commended for it. By the end of the first campaign they were ruling. Three of the four were dead by the end of the second.
+- **The former Star Prelate of the Black Doves** — killed by Duin on the fields at Cyre. The order believed it was the undead.
+- **The Blood of Vol** — her creation, her handler-network, and the one thing she lost control of.
 - **John C. LeBeefe** — she killed the shadow attached to him and told him to harness his power for the Empire. Later Grand Duke of Newham; later dead.
 
 **Hobbies & Pets:** Unknown.
@@ -157,7 +161,7 @@ Duin was missing when the campaign ended. The public reporting blamed Lady Glow 
 
 **Organizations / Groups:** The Black Doves, as Star Prelate and leader · the Blood of Vol, as founder-handler under the codename Godseed · the Crimson Sun, as the covert asset of Project Godseed · the Imperial Palace at Korth, as consort to the Emperor.
 
-**Holdings:** the Black Doves' projects in conflict zones, as the order's leader · the Imperial Palace at Korth, where she is in hiding · the rebel base in the Dragon Watch Isles where her work was burned.
+**Holdings:** the Black Doves' projects in conflict zones, as the order's leader · the Imperial Palace at Korth, where she hid · the rebel base in the Dragon Watch Isles where her work was burned.
 
 **Items:** the Dragonmark of Death, worn openly across pelvis and stomach, condition permanent. No other possession of hers is recorded.
 

@@ -113,7 +113,7 @@ Uriel moved him out of Korth, "away from factions who had other aims". <small>(O
 
 ## Competence and circle
 
-[Varyn Crona](/people/varyn-crona/) was appointed his sworn protector from birth under the title **Eternal Guardian**, and served as head Paladin to Kaius I, Kaius II and Kaius III — an appointment made at a cradle and honoured across three reigns. **Fanta Rhodes**, a cloaked figure of unrecorded race, sits on the Imperial Council as the **Hand of Kaius III**. [Gabrielle Duin](/people/gabriel-duin/), the covert agent who leads the Blood of Vol, is in hiding in the Imperial Palace where she remains consort to the Emperor. [Uriel Qualanthri](/people/uriel-qualanthri/) performed necromantic sex magic in front of Gabrielle Duin and Emperor Kaius III, raising a ghoul from the corpse of the rebel singer [Lady Glow](/people/lady-glow/). Whatever the Emperor is, that was staged for him.
+[Varyn Crona](/people/varyn-crona/) was appointed his sworn protector from birth under the title **Eternal Guardian**, and served as head Paladin to Kaius I, Kaius II and Kaius III — an appointment made at a cradle and honoured across three reigns. **Fanta Rhodes**, a cloaked figure of unrecorded race, sits on the Imperial Council as the **Hand of Kaius III**. [Gabrielle Duin](/people/gabriel-duin/), the covert agent who led the Blood of Vol, went into hiding in the Imperial Palace as his consort, until Uriel killed her and took her place. [Uriel Qualanthri](/people/uriel-qualanthri/) performed necromantic sex magic in front of Gabrielle Duin and Emperor Kaius III, raising a ghoul from the corpse of the rebel singer [Lady Glow](/people/lady-glow/). Whatever the Emperor is, that was staged for him.
 
 ## The cult that worships him
 

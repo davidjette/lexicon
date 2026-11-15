@@ -89,7 +89,7 @@ Three accounts of what became of her disagree.
 | **The throne room record** | Uriel killed her in front of the Emperor and raised her as a ghoul on the spot. |
 | **Fulcrum's own file on the bells**, written a decade or more later | "Uriel Qualanthri killed Lady Glow and stood her back up as a music box. It sings at the Emperor's bedside, they say. The sweetest voice in the world." |
 
-The two rebel-side accounts agree with each other. The Imperial account confines her to Newham Hospital on a charge for the assassination of a woman who was not assassinated, and Duin is missing rather than dead.
+The two rebel-side accounts agree with each other. The Imperial account confined her to Newham Hospital for the assassination of Gabrielle Duin. Duin was in hiding in the Imperial Palace at the time, and it was Uriel who later killed her.
 
 ## Fate
 
@@ -118,9 +118,9 @@ Lady Glow was made a ghoul. By the rebellion's account she was kept at the Emper
 **Contacts & Relations:**
 
 - **John Stamos** — fellow entertainer, fellow rebel, on the same train. Killed by LeBeefe; his death was pinned on her. Dead.
-- **Gabriel Duin** — escaped the Dragon Watch Isles at her side, then handed her over in chains as a gift. Missing.
+- **Gabriel Duin** — escaped the Dragon Watch Isles at her side, then handed her over in chains as a gift. Later killed by Uriel.
 - **Uriel Qualanthri** — killed her and raised her. Later Empress.
-- **The Unforeseen** — fought her on the train, hunted her to the Isles, and watched her die. All four survived the campaign.
+- **The Unforeseen** — fought her on the train, hunted her to the Isles, and watched her die. All four survived the first campaign.
 - **Fulcrum** — remembers her in its bell file.
 
 **Hobbies & Pets:** Unknown.

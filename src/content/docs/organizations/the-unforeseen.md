@@ -48,7 +48,7 @@ campaigns:
   - unforeseen
 ---
 
-**Type:** Secret, Brotherhood · **Founded:** Arden Crest, Episode 9 · **Status:** Never dissolved. Two founders dead, two at war with each other.
+**Type:** Secret, Brotherhood · **Founded:** Arden Crest, Episode 9 · **Status:** Never dissolved. Three founders dead; Locke Pierce survives.
 
 ---
 
@@ -92,21 +92,21 @@ By the time the rebellion assembled that file, one founder was the Lord Commande
 
 The alliance did not hold. Within a generation the four founders had become rivals for the same Empire, and by the time of the Sharn rising they stood on three different sides of it.
 
-Uriel Qualanthri rose highest. Married to Emperor Kaius III and ruling in his stead while he lies ill, she is now the Holy Empress — "the White Death."
+Uriel Qualanthri rose highest. She married Emperor Kaius III and ruled in his stead for ten years as the Holy Empress, "the White Death." She was destroyed in the Sept of Bones under the Ivory Lazaret in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/).
 
 John C. LeBeefe was made Grand Duke and carried the Empire east, until the rising at [Newham](/places/newham/) destroyed the city outright. The blast corrupted the region into New Mourning, and the survivors founded the Republic of Talenta in his despite.
 
-Esther Crona became Lord Commander and Grand Inquisitor of Sharn. She died there at the end of the rising. Her last broadcast voided the Iron Veil's pact across the whole city, and her final command was to kill Empress Uriel Qualanthri.
+Esther Crona became Lord Commander and Grand Inquisitor of Sharn. She died there at the end of the rising. Her last broadcast voided the Iron Veil's pact across the whole city, and her final command was to kill Empress Uriel Qualanthri. She was raised under the Ivory Lazaret three years later and died again in the Sept of Bones, trying to carry out that command herself.
 
-Locke Pierce turned. He now leads The Hundreds, and brought them to Sharn to fight alongside the rebellion in the assault on the Veil Building.
+Locke Pierce turned. He led The Hundreds, and brought them to Sharn to fight alongside the rebellion in the assault on the Veil Building. A ship of his Hundreds dropped the Ruby Nova that burned Uriel's valley. He is the only founder who outlived the second campaign.
 
 ## The party that became the villains
 
-The Unforeseen were the player characters of the first campaign. They recovered the bell, held the train, built the city, met the Emperor, and swore in a ruined village to grow in power together. Ten in-world years later the same four are the antagonists of the second: [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/), [Sir Dario Argentino](/people/sir-dario-argentino/) and [Lorian](/people/lorian/) — the Falcon Crew at onboarding, and now the Inevitables — have spent their entire careers taking them apart one at a time.
+The Unforeseen were the player characters of the first campaign. They recovered the bell, held the train, built the city, met the Emperor, and swore in a ruined village to grow in power together. Ten in-world years later the same four were the antagonists of the second: [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/), [Sir Dario Argentino](/people/sir-dario-argentino/) and [Lorian](/people/lorian/) — the Falcon Crew at onboarding, and later the Inevitables — spent their entire careers taking them apart one at a time.
 
 <small>**Dating:** the [Greenbluff recovery](/history/the-greenbluff-incident/) was the first and second sessions of this campaign, about ten years before the Inevitables; the written records put it at "twenty years" (Fulcrum's bell file), "thirteen years" (Sharn Ep 19) and "over a decade" (the rebel-factions page). In the master chronology the Eberron campaigns — The Unforeseen, Sharn and Korth — sit after the Infantaverse and Dead Man's Hand era and before Starfall: The Next Generation.</small>
 
-LeBeefe went first, at Newham, and the explosion poisoned a province. Esther went second, on her own balcony in Sharn, and took the Iron Veil's pact down with her. Locke did not have to be beaten because Locke turned, and turning made him more dangerous rather than less: he holds the Ruby Nova, and he has told the people who beat two of his co-founders that if they fail against the third he will end the world before she can. Uriel is what is left. Ten bells remain, and the Inevitables are on the river to the Ivory Lazaret.
+LeBeefe went first, at Newham, and the explosion poisoned a province. Esther went second, on her own balcony in Sharn, and took the Iron Veil's pact down with her. Locke did not have to be beaten because Locke turned, and turning made him more dangerous: he held the Ruby Nova, and he told the people who beat two of his co-founders that if they failed against the third he would end the world before she could. Uriel went last, in the Sept of Bones under her own hospital, and Esther died a second time beside her. Locke's Ruby Nova fell on the valley afterwards.
 
 ## The new order
 
@@ -118,9 +118,9 @@ In the world the four made, "there are rival god cults to the imperial one that 
 
 **Known Allies:** [Richard Blaze](/people/richard-blaze/)
 
-| Founder | Then | Now | Status |
+| Founder | Then | Later | Fate |
 |---|---|---|---|
-| [Esther Crona](/people/esther-crona/) | High Inquisitor of the Crimson Sun, age 19 | Lord Commander of the Imperial Military, Director of the Iron Veil | Dead — Sharn Ep 18, aged 31 |
-| [Uriel Qualanthri](/people/uriel-qualanthri/) | Black Dove combat medic, conscript of the Pax Imperium | Holy Empress; "the White Death" | Alive — at the Ivory Lazaret |
-| [John C. LeBeefe](/people/john-c-lebeefe/) | Magister of New Ham; slaver | Grand Duke, who carried the Empire east | Dead at Newham — and still audible |
-| [Locke Pierce](/people/locke-pierce/) | Ancient Relic Specialist of the Rekkenmark | Leader of The Hundreds, the Warforged nation of the Mournlands | Alive — holding the Ruby Nova |
+| [Esther Crona](/people/esther-crona/) | High Inquisitor of the Crimson Sun, age 19 | Lord Commander of the Imperial Military, Director of the Iron Veil | Dead — Sharn Ep 18, aged 31; raised, and dead again in Korth Ep 22 |
+| [Uriel Qualanthri](/people/uriel-qualanthri/) | Black Dove combat medic, conscript of the Pax Imperium | Holy Empress; "the White Death" | Dead — destroyed in the Sept of Bones, Korth Ep 22 |
+| [John C. LeBeefe](/people/john-c-lebeefe/) | Magister of New Ham; slaver | Grand Duke, who carried the Empire east | Dead at Newham; his voice was heard afterwards |
+| [Locke Pierce](/people/locke-pierce/) | Ancient Relic Specialist of the Rekkenmark | Leader of The Hundreds, the Warforged nation of the Mournlands | Alive at the end of the campaign |
