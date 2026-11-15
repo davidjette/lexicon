@@ -83,3 +83,13 @@ carries every adjudication above.
   document. Nico wrote the sentence into the article herself on 2026-10-07, and her edits carry Dave's authority
   (Dave, 2026-09-13).
 - **Scope:** this clears only that sentence for `esther-crona`. The rest of `preview(1).txt` stays DM-only.
+
+## CLEARED 2026-11-15 - `uriel-qualanthri` / her parents and the Great War
+
+- **Flagged shingles:** "aerenal and did not think the high elves should get", from the sentence saying Uriel's
+  parents were elders in Aerenal who did not think the high elves should get involved in the Great War.
+- **Verdict: PUBLISH, already public.** The sentence comes from Uriel's public World Anvil character entry
+  (`sources/wa/uriel-qualanthri-person.txt`), where it is misspelled "did notthink". It had been on the Lexicon page
+  with that misspelling, which hid it from the check. Correcting the spelling on 2026-11-15 made it match the copy
+  of the same sentence in `dmnotes/preview.txt`.
+- **Scope:** this clears only that sentence for `uriel-qualanthri`.
