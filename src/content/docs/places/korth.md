@@ -124,9 +124,11 @@ Three years into a losing war, Korth is, in Dave's words, "a city under martial 
 
 After the peace talks at [Thronehold](/places/thronehold/) collapsed, Dave judged that "an official delegation may be off the table" for Sharn, and the trio went in under cover. <small>(Oral Histories: The Inevitables, 2026-07-06)</small> Disguises are needed in Korth and at [the Summer Palace](/places/the-summer-palace/). <small>(Oral Histories: The Inevitables, 2026-08-12)</small>
 
-## Right now
+## Aftermath
 
-Three operatives of the Inevitables are living in a dead advocate's apartment on the lower plaza under her name and her paralegal's. A woman officially recorded as a suicide in custody is hiding with them. A Master bell hangs in the palace cloister, a month runs on the clock before the state must re-try Bantide Moro with better evidence, and a boat leaves twice a day for the Empress.
+During the Korth arc three operatives of the Inevitables lived in a dead advocate's apartment on the lower plaza under her name and her paralegal's. A woman officially recorded as a suicide in custody hid with them. A Master bell hung in the palace cloister, a month ran on the clock before the state had to re-try Bantide Moro with better evidence, and a boat left twice a day for the Empress.
+
+The city was standing when the campaign ended. The valley of the Ivory Lazaret was destroyed in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), and at last count ten bells remained.
 
 **Places of Interest:**
 

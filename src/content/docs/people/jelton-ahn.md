@@ -97,7 +97,7 @@ Honourable to a fault, in a city where that is a survivable trait only if you ar
 
 Unknown. He is Leonin, he studies history seriously enough to date infernal metalwork by eye, and he identifies the Crown's makers as his own people — *us* — which places his line somewhere in the mountain's past. How he came to Korth and how he met Armhair are not recorded.
 
-## Right now
+## Fate
 
 He arranged forged passports to get his wife out to Kabara, and when Armhair left for the Korramont expecting to die, Jelton insisted on coming.
 

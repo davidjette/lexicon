@@ -55,7 +55,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Half-elf · Loremaster of the Hall of Records · Adviser to the Imperial court on dragon lore · Alive, departing for the Korramont**
+**Half-elf · Loremaster of the Hall of Records · Adviser to the Imperial court on dragon lore · Last seen departing for the Korramont**
 
 *Also known as:* Armhair
 
@@ -113,9 +113,11 @@ Retrieved from the index he gave them, it contained a family tree of Eberron's d
 
 An orphan of old-town Korth who became a loremaster of its greatest archive and rose to advise the court of an Empire on the subject of dragons. Somewhere in the middle of that career he assembled a genealogy that reached back to the progenitors, and the questions it raised were the wrong questions. The Empire took the manuscript. It did not take him, and it did not stop him, and the years since have gone into rebuilding the work from courtiers' journals in a building where the relevant shelves have been emptied.
 
-## Right now
+## Fate
 
-He is leaving for the Korramont to find Valtrex and finish his book, and he fully expects to die doing it. *"This is my only chance to finish my book, then who cares?"* He carries the **Crown of Seven Stars** as a gift to the dragon from the three who freed him, with instructions to bargain rather than fight, a warning about the fungal infestation, and the route to the black lake. He was told never to wear it. He was not told the rest.
+He left for the Korramont to find Valtrex and finish his book, and he fully expected to die doing it. *"This is my only chance to finish my book, then who cares?"* He carried the **Crown of Seven Stars** as a gift to the dragon from the three who freed him, with instructions to bargain rather than fight, a warning about the fungal infestation, and the route to the black lake. He was told never to wear it. He was not told the rest.
+
+He does not appear again. In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the crown was on the head of Madame Tso, who rode Valtrex over the Ivory Lazaret with Jelton Ahn.
 
 **Organizations / Groups:** The Hall of Records, Korth (loremaster) · adviser to the Imperial court on dragon lore
 

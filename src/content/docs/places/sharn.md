@@ -198,9 +198,9 @@ A provisional government formed within a day. Leef, NEST, the Silver Flame, R.U.
 
 [Eric the Cleric](/people/eric-the-cleric/) was appointed **Chancellor of Sharn** and took residence in Esther's former penthouse, which is now the seat of the administration. Warforged offered troops and engineers to restore the Cogs. Underhive drones joined a new Department of Infrastructure while keeping their subterranean autonomy.
 
-## Right now
+## Aftermath
 
-Three years on, the free city is hungry. The destruction of [Zilspar Farm](/places/zilspar/) left Sharn a month from severe food shortages, and it was already out of fuel; Nest engineers now bleed the **Eye of Corruption**'s rising output off as furnace fire, and Renn Tal has declared the Eye the property of Sharn. Three warforged under Himmie Joffa offered to feed a city they calculated was forty-seven days from famine; the price was military and logistical access to Sharn's airspace for the airships of the Hundreds. The Chancellor granted it, knowing it was a trick, and hopes only to survive Korth in time to take it back. A capital ship now settles out of the fog to hand out fruit in orderly lines — Locke Pierce has taken the skies of Sharn.
+Three years after the rising, the free city was hungry. The destruction of [Zilspar Farm](/places/zilspar/) left Sharn a month from severe food shortages, and it was already out of fuel; Nest engineers bled the **Eye of Corruption**'s rising output off as furnace fire, and Renn Tal declared the Eye the property of Sharn. Three warforged under Himmie Joffa offered to feed a city they calculated was forty-seven days from famine; the price was military and logistical access to Sharn's airspace for the airships of the Hundreds. The Chancellor granted it, knowing it was a trick, and hoped only to survive Korth in time to take it back. A capital ship then settled out of the fog each morning to hand out fruit in orderly lines, and Locke Pierce had taken the skies of Sharn. The city had not been heard from when the campaign ended.
 
 **Places of Interest:**
 

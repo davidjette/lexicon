@@ -135,9 +135,9 @@ Nico planned three to six Lower City locals inside, pale, unwashed, dehydrated, 
 
 A search of the building could turn up BioTec serial numbers, shipping crates addressed to Circuit City, maintenance logs signed "E.G.", a hidden panel with a memory crystal slot, a locked back room with a small elevator shaft, now sealed, a hidden camera system, a ledger of coin intake running absurdly high, and a Vega Oracle 2.0 machine. His personal property lawyer, [Candy Crush](/people/candy-crush/), had the job of collecting the coin intake and resetting the machines. <small>(Nico's DM notes, Hopper)</small>
 
-## Right Now
+## Fate
 
-He is dead, and the six Cogborn found alive in his cages were handed to the RUST Runners. What survives him is a paper trail: bank records, property deeds, 800 gold, and an [ArcEye Crystallizer Lens](/items/the-arceye-crystallizer/) that turned out to be the key to the whole rising.
+The six Cogborn found alive in his cages were handed to the RUST Runners after his death. What survived him was a paper trail: bank records, property deeds, 800 gold, and an [ArcEye Crystallizer Lens](/items/the-arceye-crystallizer/) that turned out to be the key to the whole rising.
 
 > "Bodies gone missing!" — "Name every face!"\
 > — Cogborn protest chant, POSÉ opening

@@ -60,7 +60,7 @@ She is the ordinary end of an extraordinary family. Her ex-husband Martin works 
 
 **Beliefs:** Unknown. No source records them.
 
-**Right now:** Martin has left Sharn for Gorgonhorn with the Cogborn exodus. Kriss and Misty are still up the street, expecting a child. Karin is still behind her counter.
+Martin left Sharn for Gorgonhorn with the Cogborn exodus. At last report Kriss and Misty were still up the street, expecting a child, and Karin was still behind her counter.
 
 ---
 

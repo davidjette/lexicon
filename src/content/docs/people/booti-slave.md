@@ -57,9 +57,9 @@ When the party's business in the Underhive was done, Booti'slave showed them a f
 
 > At the door they were met by Booti'slave, an Underhive Drone who escorted them through the sprawling subterranean settlement and into its bustling tavern.
 
-## Right now
+## Fate
 
-Booti'slave is a Drone of an autonomous state whose people staff the free city's Department of Infrastructure, and is still on the door.
+At last report Booti'slave was a Drone of an autonomous state whose people staffed the free city's Department of Infrastructure, and was still on the door.
 
 **Organizations / Groups:** the Drones of the Underhive.
 

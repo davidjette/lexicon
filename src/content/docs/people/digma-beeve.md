@@ -77,7 +77,7 @@ In practice he is the rebellion's fixer and its bookkeeper at once. A year befor
 
 Digma Beeve came out of the City of Newham with a trade and a war behind him, and turned both into a resistance. For over twenty years he ran furniture and rebellion along the same roads. He watched Newham fall — the city he came from, destroyed in the otherworldly explosion that made the New Mourning — and he went east with the survivors. Townsfolk, Newham refugees and swamp-dwarf tribes forged the Republic of Talenta out of that evacuation, and Digma now serves as its acting Comptroller while Eric is stationed in Sharn.
 
-**Right now:** Digma is Comptroller of a nation and the eastern rebellion's line to the Mror Holds — it was he who relayed Princess Orange Chicken's letter about the lost Deeptempura forge-clan and the Teryaki mourning-party, which the party connected to the foundry at Korranberg. He is also the author of the lie that keeps Richard Blaze and [Calcifer](/people/calcifer/) alive.
+After the rising Digma was Comptroller of a nation and the eastern rebellion's line to the Mror Holds — it was he who relayed Princess Orange Chicken's letter about the lost Deeptempura forge-clan and the Teryaki mourning-party, which the party connected to the foundry at Korranberg. He was also the author of the lie that kept Richard Blaze and [Calcifer](/people/calcifer/) alive.
 
 **Organizations / Groups:** founding member of Fulcrum; acting Comptroller of [the Republic of Talenta](/organizations/the-republic-of-talenta/); veteran of the Last War.
 

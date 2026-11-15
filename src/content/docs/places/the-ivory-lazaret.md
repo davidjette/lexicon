@@ -94,11 +94,11 @@ The Lazaret takes in patients seeking care, which offers a potential way in: it 
 
 Fulcrum's best intelligence on the place came from a muleteer working the high road out of Qarth: wool-wrapped freight going up the mountain, always at night, always under Sister escort, and the escort papers stamped with a wax seal shaped like a dove — the same seal carried by the young Inquisitor who preaches in Korth. Whatever lives at the top of that road, the dove seal goes home to it.
 
-## Right now
+## Aftermath
 
-The Ivory Lazaret no longer stands. At last count ten [bells](/items/the-hell-s-bell-fantanya-nyel/) remained to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace, and it is not yet known what became of them when the Original rang.
+The Ivory Lazaret no longer stands. At last count ten [bells](/items/the-hell-s-bell-fantanya-nyel/) remained to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace, and what became of them when the Original rang was never learned.
 
-In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Gemma that the polyhedron over the cathedral is a new device. Smaller ones went up outside some powerful headquarters before it, and since this one appeared, messages in the valley have gone missing or arrived changed, and people have been arrested and followed. The Lazaret itself is sealed with *private sanctum*. <small>(Korth Ep 18)</small>
+In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Gemma that the polyhedron over the cathedral was a new device. Smaller ones had gone up outside some powerful headquarters before it, and since this one appeared, messages in the valley had gone missing or arrived changed, and people had been arrested and followed. The Lazaret itself was sealed with *private sanctum*. <small>(Korth Ep 18)</small>
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Ivory Lazaret was destroyed. The Empress rang the Original from the belfry of Nos Matre, and the dead of the hill climbed out of the ground. Dario broke the bell with Knell and the tower fell. The Polygon in the forecourt carried Uriel's will over the dead, opened to show a perfect darkness inside, and was struck while the party fought below in the Sept of Bones. Uriel was destroyed there. The Heir of Vol, cut from her, grew until it broke the surface under the building. A ship of the Hundreds dropped a glowing red gem into the storm over the valley. It was a [Ruby Nova](/items/ruby-nova/), Locke Pierce's weapon. When the fire cleared, the Lazaret, Nos Matre and the buildings of the valley were gone.
 

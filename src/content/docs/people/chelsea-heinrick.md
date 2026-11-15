@@ -89,9 +89,9 @@ Chelsea Heinrick was eight years old, and between Sharn Ep 18 and Sharn Ep 19 bo
 > \
 > — the whole of the rebel file on her, written before either of her parents died
 
-## Right now
+## Fate
 
-Her fate is not recorded. Chelsea Heinrick does not appear in the account of the Council of Sharn, in the trials, in the Silver Flame's citywide cremation directive, or anywhere in the three years of the Korth arc. Her father's death and her mother's execution are both documented; the disposition of an eight-year-old in the Veil Building on the night the rebellion took it is not. <small>Her only recorded friend was smuggled out of Sharn under a fabricated story about an airship, and is being raised somewhere else under a name the Council agreed on.</small>
+Her fate is not recorded. Chelsea Heinrick does not appear in the account of the Council of Sharn, in the trials, in the Silver Flame's citywide cremation directive, or anywhere in the three years of the Korth arc. Her father's death and her mother's execution are both documented; the disposition of an eight-year-old in the Veil Building on the night the rebellion took it is not. <small>Her only recorded friend was smuggled out of Sharn under a fabricated story about an airship, and was raised somewhere else under a name the Council agreed on.</small>
 
 **Organizations / Groups:** None. The Heinrick household only.
 

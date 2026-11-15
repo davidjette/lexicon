@@ -137,9 +137,9 @@ Lorian touched Eric's shoulder, told him he had his back, and cast *Protection f
 
 He stayed at Mt. Silicon to recover while Locke Pierce took Eric and Gemma up to the bridge. He came back to Sharn with them, and when the trio decided to go under cover into Korth he remained in Sharn — reluctantly, the record says — to assist Jessica and coordinate rebel intelligence. He has not been with the party since. He was level 5 when they left and they have reached 12 without him. What he has been doing since, and whether anyone has told him what happened at Zilspar, is not recorded.
 
-## Right now
+## Fate
 
-Lorian is in Sharn working rebel intelligence with Jessica Grimpledink. A capital ship of the Hundreds hangs over the upper city handing out fruit in orderly lines. Ten bells remain. The party's deadline at the Grand Lodge is Monday.
+Lorian stayed in Sharn when the party went to Korth. At last report he was working rebel intelligence with Jessica Grimpledink, under a capital ship of the Hundreds that hung over the upper city handing out fruit in orderly lines.
 
 ---
 

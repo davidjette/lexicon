@@ -71,13 +71,13 @@ In front of outsiders he is his sister's instrument and keeps discipline accordi
 
 Away from the politics he is the clan member most willing to work alongside the strangers. When [Sir Dario Argentino](/people/sir-dario-argentino/) laid [Sedda Tiddes Deeptempura](/people/sedda-tiddes-deeptempura/) on the shrine altar and began a Silver Flame prayer in Dwarvish, it was General Tso who crossed the floor and finished the rite with him. They consecrated her together as princess and heir.
 
-## Right now
+## Fate
 
-Warned that [Valtrex](/species/valtrex/) is free above the peak and means to enslave or eat his people, the General refused to move them, and it was his word that cancelled out the argument to evacuate:
+Warned that [Valtrex](/species/valtrex/) was free above the peak and meant to enslave or eat his people, the General refused to move them, and it was his word that cancelled out the argument to evacuate:
 
 > We cannot leave. This is the purpose of our clan. We have given so much.
 
-He is in the [Great Hall of Rak'tafur](/places/the-great-hall-of-rak-tafur/) with the rest of the kin, a burned child, and a plan to renew a pact with a dragon who has already stated his terms.
+When the party left he was in the [Great Hall of Rak'tafur](/places/the-great-hall-of-rak-tafur/) with the rest of the kin, a burned child, and a plan to renew a pact with a dragon who had already stated his terms.
 
 **Organizations / Groups:** The Teryaki clan; the mourning-party out of the Mror Holds.
 

@@ -103,9 +103,9 @@ An Iron Veil patrol of four soldiers and a Veil Hound came down on the farm in t
 
 In Nico's notes, after [Esther Crona](/people/esther-crona/) fell and Zero-One's paladins took over the Black Dove Hospital, Donna was at the hospital tending the injured alongside other Silver Flame clerics and Fulcrum healers. At the first meeting of the Council of Sharn she sat with the Silver Flame delegation, beside Zero-One and [Zero of Sharn](/people/zero-of-sharn/). <small>(Nico's DM notes, Episode 19)</small>
 
-## Right now
+## Fate
 
-Zilspar Farm has been burned to the ground with people boarded up inside, and the incendiaries were brought in after the fighting was over. Zero-One has been taken alive. There is no sign of Donna among the days-old dead in the tower field, and none of her anywhere else.
+Zilspar Farm was burned to the ground with people boarded up inside, and the incendiaries were brought in after the fighting was over. Zero-One was taken alive. There was no sign of Donna among the days-old dead in the tower field, and none of her anywhere else. Her fate is not recorded.
 
 **Personality Characteristics**
 

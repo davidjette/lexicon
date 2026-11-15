@@ -57,7 +57,7 @@ Imperial observation files list her by function only: Calcifer Blaze, age eight,
 
 The penthouse sits above the government offices, the Arcane Eye control rooms and a high-security prison, and is staffed by people vetted by the Iron Veil and watched by the same surveillance network that watched the rest of Sharn. She raised the most closely monitored child in the Empire, day to day.
 
-**Right now:** Whole Foods is dead. She was alive and freed on the ritual-room floor; how and when she died is not recorded.
+Whole Foods died some time after the rising. She was alive and freed on the ritual-room floor; how and when she died is not recorded.
 
 **Organizations / Groups:** the Crona-Blaze household staff.
 

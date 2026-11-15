@@ -101,6 +101,6 @@ The party's own theory, and it is a theory: the foundry was seeded deliberately,
 
 > You are his little window. Our Lord looks out of you and does not know it.
 
-## Right now
+## Fate
 
-The bloom is undisturbed and undiminished. Nothing has been done to it. The bell it wanted rung is a ribbon of scrap on the [Bladeworks](/places/the-bladeworks/) floor and its two best recruits are dead, but the cavern is still full of it, the Teryaki camp is still one level above it, and there are ten more bells in the world.
+The bloom was left undisturbed and undiminished. Nothing was done to it. The bell it wanted rung was a ribbon of scrap on the [Bladeworks](/places/the-bladeworks/) floor and its two best recruits were dead, but the cavern was still full of it, the Teryaki camp was still one level above it, and there were ten more bells in the world.

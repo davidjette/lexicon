@@ -86,6 +86,6 @@ The horn stopped being a relic the week the party got back to Sharn. Research es
 
 <small>The party's own first answer to "who plays it" was [Richard Blaze](/people/richard-blaze/) — the most famous bard alive, and believed dead. [Eric](/people/eric-the-cleric/)'s charisma was judged wrong for it.</small>
 
-## Right now
+## Fate
 
-The original is in Korth with the Inevitables, alongside [Knell](/items/knell/) and the folio, while they work an Imperial cover toward the Summer Palace and the Ivory Lazaret. An outstanding item on their own list is to teach the fanfare and the horn's construction to someone who will remain behind — because if the chorus starts while all three of them are inside the Empire, the horns are what the continent has.
+The original went to Korth with the Inevitables, alongside [Knell](/items/knell/) and the folio, while they worked an Imperial cover toward the Summer Palace and the Ivory Lazaret. An item on their own list was to teach the fanfare and the horn's construction to someone who would remain behind, because if the chorus started while all three of them were inside the Empire, the horns were what the continent had. Gemma played the fanfare of dawn on it outside the Summer Palace to bring Dario out of the bell's madness.

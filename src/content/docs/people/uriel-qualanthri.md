@@ -291,7 +291,7 @@ At the Grand Lodge a gambler calling himself Joey Monica said the Empress comes 
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One said that when she first raised Uriel, Uriel's brain was missing, and that she put a gem in its place *"which had raised her from the dead by the light of the Flame."* She believes she gave Uriel the mind behind everything since. Uriel can raise the dead and has done it everywhere, but in Zero-One's account there are levels of lifelike animation that still escape her. The pilgrims in the valley were saying that the Empress might soon have her baby. <small>(Korth Ep 18)</small>
 
-## Right Now
+## Fate
 
 Until the last day Uriel did not leave the Emperor's side. She waited on a son, and every daughter was a failure she had to be patient about. Her undead guards turned on Supreme Admiral Vex d'Lyrandar at the Thronehold Summit on her order, which is how the last chance at peace died. A Ministry of Law warrant then carried three people with her name on their orders straight onto her grounds.
 

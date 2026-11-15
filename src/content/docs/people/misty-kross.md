@@ -81,7 +81,7 @@ She repairs the mechanisms, maintains the hidden rail-line entrance, keeps the s
 
 Misty was a Cogborn child whose family was displaced by the earliest Imperial crackdowns on the district, and she was taken in by a Warforged who had refused an exile decree and gone underground. She was raised in the tunnels, learned machinery from a machine, and came up as one of the very few people in Sharn who could keep pre-Imperial infrastructure running. When BioTec agents came asking after Martin Kross, she and Kriss said nothing useful. When the Iron Veil began flooding the Cogs, their shop became the first refuge for families fleeing raids.
 
-**Right now:** the Cogborn are out of Sharn and R.U.S.T. holds a seat in the new city — Warforged citizenship, the arrest of the Iron Veil engineers, and a Department of Infrastructure, all carried at the first Council of Sharn. The shop is still standing, and the tunnel beneath it still runs down into the dark.
+The Cogborn left Sharn and R.U.S.T. took a seat in the new city — Warforged citizenship, the arrest of the Iron Veil engineers, and a Department of Infrastructure, all carried at the first Council of Sharn. At last report the shop was still standing, and the tunnel beneath it still ran down into the dark.
 
 **Organizations / Groups:** R.U.S.T. inner circle; the Kross family of the Lower City.
 

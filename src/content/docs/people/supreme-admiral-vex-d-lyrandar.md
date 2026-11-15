@@ -118,9 +118,9 @@ Korth Ep 3. On the open deck of a fleeing airship racing south toward the Mournl
 
 The admiral fell dead and his storm vanished, just as the ship crossed into the northern tip of the Mournlands. Hours later, Locke Pierce detonated the Ruby Nova; the blast pushed past the Mournland border and obliterated the remnants of Vex's airships still hovering near it.
 
-## Right now
+## Fate
 
-He is dead on an airship deck somewhere over the water north of Cyre, killed by a rebel in a stolen face, and his fleets are scattered or slagged. The ArcEye footage that carried his kill order across Khorvaire is the same footage that shows the Empire's own honour guard turning on him.
+He died on an airship deck somewhere over the water north of Cyre, killed by a rebel in a stolen face, and his fleets were scattered or slagged. The ArcEye footage that carried his kill order across Khorvaire was the same footage that showed the Empire's own honour guard turning on him.
 
 ## Personality Characteristics
 

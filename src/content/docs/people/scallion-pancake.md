@@ -64,8 +64,8 @@ From his testimony, and from the documents recovered in the rooms cleared alongs
 
 The party afterwards recovered the Speaker, the improvised hammer and the horn beneath the study floor, each of which the account had pointed them to.
 
-## Right now
+## Fate
 
-Recovered by his clan for burial rites, in a mountain now claimed by a dragon. No record says whether the rite was completed.
+His clan recovered him for burial rites, in a mountain since claimed by a dragon. No record says whether the rite was completed.
 
 **Organizations / Groups:** The Deeptempura clan; the foundry workforce, as the Trust's property.

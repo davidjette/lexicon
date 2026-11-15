@@ -68,8 +68,8 @@ The toll took everybody. All three of the party failed, and so did he. Every kin
 
 Hetta never recovered from it. Still confused, in the smoke, he slipped off the ledge and fell to his death while the room was being saved around him.
 
-## Right now
+## Fate
 
-Dead, fallen from the ledge in the Bladeworks, the room where he did the last damage. The bell he struck was broken minutes later. The clan sent one man to find one child, and lost both to the same fungus.
+He died falling from the ledge in the Bladeworks, the room where he did the last damage. The bell he struck was broken minutes later. The clan sent one man to find one child, and lost both to the same fungus.
 
 **Organizations / Groups:** The Teryaki clan; General Tso's scouts.

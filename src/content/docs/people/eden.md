@@ -232,7 +232,7 @@ Her statement also raised questions about how much of the original Eden remained
 
 After the exchange, Eden laughed in a flat, repetitive manner and descended the mountain to rejoin her soldiers. The units withdrew from the peak, leaving the threat hanging over the forest.
 
-## Right Now
+## Fate
 
 Before the battle at Nos Matre, Eden's last confirmed appearance was in the valley and on the peak in the King's Forest, where she arrived with twenty E.D.E.N. units and declared that the Empress must die.
 

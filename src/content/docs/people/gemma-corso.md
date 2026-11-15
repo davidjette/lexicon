@@ -331,9 +331,9 @@ Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never ra
 
 <small>— Agent FOXTALE, NEST field debrief K-KORTH, closing paragraph.</small>
 
-## Right now
+## Fate
 
-Gemma is aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas beside the man she has agreed to marry. Dario, Eric, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp are aboard with her. The Empress is destroyed. [The Polygon](/items/the-polygon/), the Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge are gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/), and as far as anyone aboard could see the Heir of Vol went with them. Her promise to Kitsune ended when the fox changed his mind. At last count ten bells remained, and neither Sharn nor Leef has been heard from.
+At the end of the campaign Gemma was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas beside the man she had agreed to marry. Dario, Eric, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp were aboard with her. The Empress was destroyed. [The Polygon](/items/the-polygon/), the Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/), and as far as anyone aboard could see the Heir of Vol went with them. Her promise to Kitsune had ended when the fox changed his mind. At last count ten bells remained, and neither Sharn nor Leef had been heard from.
 
 ---
 

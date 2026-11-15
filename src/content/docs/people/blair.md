@@ -120,9 +120,9 @@ Her full demands, in Nico's notes, were autonomy for the Underhive with no Silve
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/people/pirate-joseph-roberts/) told Eric the Cleric that his wife still speaks very ill of him and of what was done at the council, although it was Dario who arrested her. <small>(Korth Ep 18)</small>
 
-## Right now
+## Fate
 
-Today, Blair rules the Underhive. Her husbands form her inner circle, each contributing to the Underhive's infrastructure and security. Her Drones are her loyal followers. She avoids Imperial entanglements and the volatile agendas of her siblings, focusing instead on the safety and autonomy of her domain. She rules an autonomous nation beneath a city that once tried to arrest her, and her Drones staff its new Department of Infrastructure while keeping their subterranean autonomy. Sharn is out of fuel and weeks from severe food shortages, and the Underhive controls the tunnels every one of those problems has to move through. She has not said what she intends to charge.
+After the fall of Sharn, Blair ruled the Underhive. Her husbands formed her inner circle, each contributing to the Underhive's infrastructure and security. Her Drones were her loyal followers. She avoided Imperial entanglements and the volatile agendas of her siblings, focusing instead on the safety and autonomy of her domain. She ruled an autonomous nation beneath a city that had once tried to arrest her, and her Drones staffed its new Department of Infrastructure while keeping their subterranean autonomy. At last report Sharn was out of fuel and weeks from severe food shortages, and the Underhive controlled the tunnels every one of those problems had to move through. She had not said what she intended to charge.
 
 > "To the city above, she is a shadow; to those below, she is the closest thing to order they have."
 

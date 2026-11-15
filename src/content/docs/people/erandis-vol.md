@@ -89,9 +89,9 @@ The two readings run opposite ways. If Erandis commissioned it, the chorus is he
 
 Erandis Vol has not been seen, heard, quoted or located in thousands of years. She remains in hiding since the calamity that destroyed her house; where she is, whether she is still capable of acting, and whether the people acting in her name have ever received an instruction from her are not recorded.
 
-## Right now
+## Fate
 
-She has not surfaced. The Empress bears her mark, the Doves invoke her as the great mother at every consecration, a dragon has testified about her child, and ten bells are still hanging. Whether she is a participant, a patron, or a corpse being spoken for is not established.
+She never surfaced during the campaign. The Empress bore her mark, the Doves invoked her as the great mother at every consecration, and a dragon testified about her child. Whether she was a participant, a patron, or a corpse being spoken for was never established.
 
 ## Personality Characteristics
 

@@ -110,9 +110,9 @@ The bodies had been turning up around Gear Street Market, the east side of the a
 
 > "Snodgrass hunts sewer gators and tunnel beasts to feed Cogborn families."
 
-## Right now
+## Fate
 
-The Cogborn are out. Snodgrass eventually left Sharn with the rescued survivors of Circuit City, heading for Gorgonhorn — and returned: three years later he was among the surviving R.U.S.T. names the Inevitables called on when [Esther Crona](/people/esther-crona/) took a child and a hostage to the Veil Building, and he was in the sky over the city with the rest of them.
+The Cogborn got out. Snodgrass eventually left Sharn with the rescued survivors of Circuit City, heading for Gorgonhorn — and returned: three years later he was among the surviving R.U.S.T. names the Inevitables called on when [Esther Crona](/people/esther-crona/) took a child and a hostage to the Veil Building, and he was in the sky over the city with the rest of them.
 
 ## Beliefs
 

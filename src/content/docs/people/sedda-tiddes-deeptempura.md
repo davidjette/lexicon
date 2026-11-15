@@ -124,9 +124,9 @@ Dario carried her remains three hundred feet up the chain ladder and through the
 
 It repaired everything. [Madame Tso Teryaki](/people/madame-tso-teryaki/) returned the Belt of Dwarvenkind she had confiscated from grave robbers and blessed the party's claim to the folio, the horn, and all they had carried out.
 
-## Right now
+## Fate
 
-Sedda is at rest in the shrine, second on a death warrant signed KAIUS III. Her father is still on the hoard. The voice that talked her into it is still talking, and it is talking to Eric now.
+Sedda was laid to rest in the shrine, second on a death warrant signed KAIUS III. Her father was left on the hoard. The voice that talked her into it went on talking, and by then it was talking to Eric.
 
 ---
 

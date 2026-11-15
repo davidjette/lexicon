@@ -81,9 +81,9 @@ Renn Tal came down out of the Sharn Library asking Cogborn elders about Dhakaani
 
 After the fall of [Circuit City](/places/circuit-city/), with the public still unaware of what BioTec had been doing, the party looked for a way to expose it. DJ Rust had been rapping with an anti-fascist message and was still in the Lower City, where many people feel for the Cogborn and oppose the Iron Veil but do not say or do anything about it. Nico: "DJ rust can ge the message out" <small>(sic)</small>. <small>(Oral Histories: The Inevitables, 2026-04-04)</small>
 
-## Right now
+## Fate
 
-The Cogborn are out of Sharn and the district he grew up in is being rebuilt by a Department of Infrastructure that did not exist a year ago. He is one of the surviving R.U.S.T. names the rebellion still calls on.
+The Cogborn left Sharn, and the district he grew up in was being rebuilt by a Department of Infrastructure that had not existed a year earlier. He was one of the surviving R.U.S.T. names the rebellion still called on.
 
 **Organizations / Groups:** R.U.S.T., as courier and cultural anchor; the Lower City performance circuit.
 

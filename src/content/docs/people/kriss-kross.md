@@ -79,9 +79,9 @@ When Martin Kross ran from BioTec he came to Kriss, said he intended to hide in 
 
 Kriss is the son of Karin and Martin Kross, raised in the Sub-line District among the corner stores and repurposed rail concourses, and he married into a network rather than joining one. He and Misty converted the pawn shop into something that could hide an evacuation route in plain sight. The week that broke the pattern was the week his father vanished, BioTec came asking, and three foreigners with new faces started asking questions on his street.
 
-## Right now
+## Fate
 
-The Cogborn are out and R.U.S.T. sits on the Council of Sharn. Martin Kross left the city for Gorgonhorn during the exodus. The shop is still open, the tunnel beneath it still runs, and Kriss is about to become a father.
+The Cogborn got out and R.U.S.T. sat on the Council of Sharn. Martin Kross left the city for Gorgonhorn during the exodus. At last report the shop was still open, the tunnel beneath it still ran, and Kriss was about to become a father.
 
 **Organizations / Groups:** R.U.S.T. inner circle; the Kross family of the Lower City.
 

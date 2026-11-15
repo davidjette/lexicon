@@ -95,7 +95,7 @@ The work divided four ways: recruiters brought the victims; Faith performed the 
 
 Before Sharn, Malrik Zeir was a Valenar high elf, half-brother to an Aundairian scion of House Lyrandar, and his vampirism was not publicly known until the night he died. He married into [John C. LeBeefe](/people/john-c-lebeefe/)'s scattered family, acquired a nightclub, a residence beneath it and a wife who could manufacture worshippers, and lived as a fixture of Upper City society. Eliminating him, the Nest's briefing noted, would sever the Umbra supply, close the cult and end the trafficking at once.
 
-**Right now:** Dario Argentino killed him outright on the rooftop pool deck in a devastating series of blows. His body was destroyed. His vampire mist escaped into his coffin. Nobody has produced the coffin.
+Dario Argentino killed him outright on the rooftop pool deck in a devastating series of blows. His body was destroyed. His vampire mist escaped into his coffin. Nobody ever produced the coffin.
 
 **Organizations / Groups:** "Father" of [the Children of Ember](/organizations/the-children-of-ember/); the Zeir household; Umbra supplier to Project E.D.E.N.
 

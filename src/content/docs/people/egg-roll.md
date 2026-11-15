@@ -82,9 +82,9 @@ Eric spent a diamond and a spell slot on *revivify*. The boy came back burned to
 
 Eric gave the account out loud, deliberately, so that the whole camp heard it: that the boy's own map led them to him, that something in the Glitterhame made him want to ring the bell, that [Sedda](/people/sedda-tiddes-deeptempura/) had described the same thing, that he ran through a wall of fire before they could stop him and died, and that a cleric brought him back. Madame Tso put a hand on his mother's shoulder, turned to Eric, said thank you, and led them away.
 
-## Right now
+## Fate
 
-Egg Roll is alive, blind and disfigured, in a camp of dwarves inside a mountain claimed by a black dragon who has said out loud that he intends to enslave them. His map left the mountain with the party.
+When the party left the mountain Egg Roll was alive, blind and disfigured, in a camp of dwarves inside a mountain claimed by a black dragon who had said out loud that he intended to enslave them. His map left the mountain with the party.
 
 **Organizations / Groups:** The [Teryaki](/organizations/the-teryaki-clan/) camp.
 

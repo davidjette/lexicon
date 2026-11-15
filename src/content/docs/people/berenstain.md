@@ -74,9 +74,9 @@ At the first meeting of the Council of Sharn the Underhive requested autonomy, l
 
 In Nico's notes for the council, Berenstain sits with the Underhive delegation beside Blair and Joseph Roberts, and is described as Cogborn, having grown up in the Cogs. Blair asked for the permanent Underhive seat to be filled by Berenstain because she did not want the seat herself. <small>(Nico's DM notes, Episode 19)</small>
 
-## Right now
+## Fate
 
-Berenstain sits on the Council of Sharn as the Underhive's permanent representative, in a city whose Department of Infrastructure is largely staffed by his wife's Drones, three years after the government he sits in tried to arrest her.
+At last report Berenstain sat on the Council of Sharn as the Underhive's permanent representative, in a city whose Department of Infrastructure was largely staffed by his wife's Drones, three years after the government he sat in had tried to arrest her.
 
 **Personality Characteristics**
 

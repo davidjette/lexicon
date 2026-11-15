@@ -131,9 +131,9 @@ Asked how she could be destroyed, the dead king gave the dragon an instruction t
 
 Because the party had helped his ghost, Corn gave them his blessing when he was raised. Freeing Valtrex had turned the dragon from hostile to indifferent; persuasion, the trade and "the endorsement of Corns ghost" <small>(sic)</small> then let him part with the hammer. <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
-## Right now
+## Fate
 
-King Corn's remains are still on the island in the black lake, under a dragon who considers the crown and the hammer his own property and has forbidden anyone to return. The kin's errand is half-finished - his daughter was brought home and consecrated; the king was not, and the clan was never even told where he lies. His key is broken. His answer is loose in the world, in a brass horn, a lead-bound folio, and the head of one runesmith.
+King Corn's remains were left on the island in the black lake, under a dragon who considered the crown and the hammer his own property and had forbidden anyone to return. The kin's errand was half-finished - his daughter was brought home and consecrated; the king was not, and the clan was never even told where he lay. His key was broken. His answer went out into the world in a brass horn, a lead-bound folio, and the head of one runesmith.
 
 **Organizations / Groups:** King of the Deeptempura clan; signatory to the infernal pact of the Glitterhame; party to the Vuldrach treaty.
 

@@ -98,7 +98,7 @@ He fought crocodiles in a flooded sewer, waited out the Drain Snakes' lair in an
 
 When the Cogborn community was finally guided through the Spine, down the Underhive river, past the dead stone golem and out to the mountain tunnel, Doppler made the difficult decision to leave Sharn and travel with his people. He had lived in the Cogs his entire life. He had a shop, a street and a name on it. He closed it.
 
-**Right now:** Doppler left Sharn with the Cogborn moving through the Spine toward the mountain tunnel and Gorgonhorn. He did not stay gone: three years later he is among the surviving R.U.S.T. names the Inevitables call on, he built each of the party a wand of magic missile at cost, and he then got to work making Horns.
+Doppler left Sharn with the Cogborn moving through the Spine toward the mountain tunnel and Gorgonhorn. He did not stay gone: three years later he was among the surviving R.U.S.T. names the Inevitables called on, he built each of the party a wand of magic missile at cost, and he then got to work making Horns.
 
 ## Beliefs
 

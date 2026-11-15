@@ -70,7 +70,7 @@ She believes a city that is still trading is a city that has not yet lost. She b
 
 **Origin.** **Unknown.** Four hundred years of life are recorded as a number and not as a biography. Her birthplace in Zilargo, the date she took the Sivis mark, her part in the Last War, how she came to Sharn, and how she left the house's territory without being arrested for it are not recorded.
 
-**Right now** Channa Devir is Secretary of the Speakers Guild in a city that has thrown off the Iron Veil, and she is a likely leader of the Rebel Alliance in a rebellion that has just won its first city and now has to govern one. The Emperor still has not moved against her.
+After the rising Channa Devir was Secretary of the Speakers Guild in a city that had thrown off the Iron Veil, and a likely leader of the Rebel Alliance in a rebellion that had just won its first city and had to govern one. The Emperor never moved against her.
 
 ---
 

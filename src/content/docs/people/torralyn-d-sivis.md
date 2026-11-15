@@ -72,7 +72,7 @@ He believes a contract witnessed and sealed is more durable than an army, which 
 
 **Origin.** **Unknown.** His age is recorded as three hundred years. His birth, his training as an arcanist, his elevation among the elders of House Sivis, and how he came to be in Sharn when the Empire arrived at its walls are not recorded. The war record begins and ends with the North Warrens and a nom-de-guerre.
 
-**Right now** Torralyn d'Sivis heads the Notaries Guild in a Sharn that has just thrown the Iron Veil out of its streets. Every contract, debt and title in the liberated city runs through his agents.
+After the rising Torralyn d'Sivis headed the Notaries Guild in a Sharn that had just thrown the Iron Veil out of its streets. Every contract, debt and title in the liberated city ran through his agents.
 
 ---
 

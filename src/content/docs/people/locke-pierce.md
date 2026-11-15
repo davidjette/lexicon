@@ -178,9 +178,9 @@ Locke and his team called it **Ruby Nova**, a callsign for the bomb. By Dave's a
 
 Pierce has not moved on Karrnath, by Dave's account, because "as soon as Uriel knows the game is over, she may ring the bells". <small>(Oral Histories: The Inevitables, 2026-08-11)</small>
 
-## Right Now
+## Fate
 
-Locke Pierce has taken the skies of Sharn. A capital ship settles out of the fog each morning and hands out fruit in orderly lines to a city his dossier says is forty-seven days from famine, and the access that lets it do so was granted by a Chancellor who knew what he was granting. Somebody gave Zilspar Farm away to the Empire. The Inevitables have not decided whether it was him.
+By the end of the campaign Locke Pierce had taken the skies of Sharn. A capital ship settled out of the fog each morning and handed out fruit in orderly lines to a city his dossier said was forty-seven days from famine, and the access that let it do so was granted by a Chancellor who knew what he was granting. Somebody gave Zilspar Farm away to the Empire, and the Inevitables never decided whether it was him. In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) a ship of his Hundreds dropped a [Ruby Nova](/items/ruby-nova/) on the valley of the Ivory Lazaret.
 
 ## Beliefs
 

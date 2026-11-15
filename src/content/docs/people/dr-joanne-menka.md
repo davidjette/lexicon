@@ -130,9 +130,9 @@ In the notes for the next session Menka would have told Sister Nora at once that
 
 Nico's notes also name Menka, with Sister Nora and Esther Crona, as one of only three people who knew who the Cog Collector was: [Dr. Ed Graves](/people/dr-edwin-graves/), a former BioTec scientist who left the company when Project EDEN was created to collect Cogborn corpses for it. <small>(Nico's DM notes, Episode 2)</small>
 
-## Right Now
+## Fate
 
-She is dead. When Sharn rose, Nest and Fulcrum operatives took the Veil Building and rounded up high-ranking officials; Menka was taken with Hillary Heinrick. Trials began immediately, and Sister Nora, Hillary Heinrick and Dr. Joanne Menka were found guilty and executed alongside other high-level Iron Veil officials. The Empire's own Key Figures listing still carries her as active; she was tried and executed after the rising.
+When Sharn rose, Nest and Fulcrum operatives took the Veil Building and rounded up high-ranking officials; Menka was taken with Hillary Heinrick. Trials began immediately, and Sister Nora, Hillary Heinrick and Dr. Joanne Menka were found guilty and executed alongside other high-level Iron Veil officials. The Empire's own Key Figures listing still carried her as active after her execution.
 
 ---
 

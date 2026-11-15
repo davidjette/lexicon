@@ -75,6 +75,6 @@ Uriel came here when her body sank through the paving of the forecourt above. Th
 
 When the Heir was cut free he drank the power that had held the bones up, and the army in the Sept fell down. He broke out through the hill above.
 
-## Right now
+## Aftermath
 
-The valley above the Sept was destroyed by the [Ruby Nova](/items/ruby-nova/) that the Hundreds dropped on it. Nobody has been back to see what is left under the ground.
+The valley above the Sept was destroyed by the [Ruby Nova](/items/ruby-nova/) that the Hundreds dropped on it. Nobody went back to see what was left under the ground.

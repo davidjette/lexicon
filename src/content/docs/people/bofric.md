@@ -76,9 +76,9 @@ When the party told the [Teryaki](/organizations/the-teryaki-clan/) the mountain
 
 He also refused to touch the Crown of Seven Stars, and said plainly that if it were given to him he would carry it straight to the General, and that his people would probably use it - which is precisely why it stayed in [Gemma Corso's](/people/gemma-corso/) bag.
 
-## Right now
+## Fate
 
-Bofric is in Sharn, deaf, working through the rest of the folio. He has already helped establish the method for building more of Corn's horns, and confirmed that the wedding gift of the late Lord Commander of Sharn is made of both black and red Khyber. At a meeting convened at the hospital by [Zero of Sharn](/people/zero-of-sharn/), with a representative of every faith on the continent present, Bofric played the fanfare of the Dawn and the clergy took it up - teaching what they have named the **Horn of Mourning** congregation by congregation, across Khorvaire.
+At last report Bofric was in Sharn, deaf, working through the rest of the folio. He had helped establish the method for building more of Corn's horns, and confirmed that the wedding gift of the late Lord Commander of Sharn was made of both black and red Khyber. At a meeting convened at the hospital by [Zero of Sharn](/people/zero-of-sharn/), with a representative of every faith on the continent present, Bofric played the fanfare of the Dawn and the clergy took it up - teaching what they named the **Horn of Mourning** congregation by congregation, across Khorvaire.
 
 **Organizations / Groups:** The Teryaki clan; travelling with the Inevitables.
 

@@ -68,6 +68,6 @@ While the party fought in the Sept, the Polygon was struck. The purple light sto
 
 The Inevitables had seen what one of [LeBeefe](/people/john-c-lebeefe/)'s works did at Leef.
 
-## Right now
+## Fate
 
 Dario came down into the Sept with the news that it was going to blow. After Uriel was destroyed it threw off pulses that knocked people flat, and the Heir of Vol fed on it as he broke out of the hill. It was at the centre of the valley when a ship of the Hundreds dropped a [Ruby Nova](/items/ruby-nova/) there. Nothing of the forecourt remains.

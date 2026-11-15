@@ -54,9 +54,9 @@ After the Inevitables cleared the sealed Black Dove shrine - [Velen Marsk](/peop
 
 The camp was opening one haunted room a day at the time, and the party had cleared the level in an afternoon.
 
-## Right now
+## Fate
 
-Still in the camp at Rak'tafur. He is among the kin who stayed when the party warned the clan that [Valtrex](/species/valtrex/) had claimed the mountain and urged them to evacuate.
+Wonton stayed in the camp at Rak'tafur. He was among the kin who stayed when the party warned the clan that [Valtrex](/species/valtrex/) had claimed the mountain and urged them to evacuate.
 
 **Organizations / Groups:** The Teryaki clan; General Tso's clearing parties.
 

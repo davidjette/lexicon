@@ -137,9 +137,9 @@ In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), while the part
 
 <small>(Korth Ep 15)</small>
 
-## Right now
+## Fate
 
-Jessica runs rebel intelligence for a free city that is out of fuel and weeks from famine. She holds Fulcrum's bell file and a burned foundry schedule, she has taken an Air Bubble mask apart out of professional curiosity, and she has become fixated on [Esther Crona](/people/esther-crona/)'s wedding gift after establishing with the dwarf Bofric that it is both black and red Khyber. She has also begun to wonder, privately, who told the Empire where Zilspar Farm was.
+At last report Jessica ran rebel intelligence for a free city that was out of fuel and weeks from famine. She held Fulcrum's bell file and a burned foundry schedule, she had taken an Air Bubble mask apart out of professional curiosity, and she had become fixated on [Esther Crona](/people/esther-crona/)'s wedding gift after establishing with the dwarf Bofric that it was both black and red Khyber. She had also begun to wonder, privately, who told the Empire where Zilspar Farm was. Sharn had not been heard from when the campaign ended.
 
 **Organizations / Groups:** leader of the Nest; senior Fulcrum asset in Sharn; convener of the first Council of Sharn.
 

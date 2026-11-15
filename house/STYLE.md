@@ -96,7 +96,7 @@ judgement across three hundred articles that nobody asked for.
 ### What is allowed, and how
 
 **Facts, plainly.** What happened, when, where, who was present, what was recovered, what was said.
-Present tense for current state, past tense for events.
+Present tense for current state, past tense for events. In a finished campaign the closing state is past tense too.
 
 **Qualitative material — only with attribution.** If the sources support a belief, a motive or a
 character trait, it must carry its source in the sentence or in an adjacent `[small]`:
@@ -226,7 +226,13 @@ PORTRAIT               [img:<id>|none]   (omit if no image id is known)
 6  BELIEFS                exactly 3 sentences, each opening "She believes…" / "He believes…"
 7  CONDUCT IN ROLE        70–90w. Behaviour on the job; how they hide.
 8  ORIGIN                 150–200w. Past tense.
-9  RIGHT NOW              40–60w. PRESENT TENSE. Current project. Ends on a live hook.
+9  FATE / RIGHT NOW       40–60w. For a campaign still being played: "Right now", present
+                          tense, current project. For a finished campaign: "Fate" (people,
+                          creatures, items) or "Aftermath" (places, organizations), past
+                          tense, how the subject stood when the campaign ended. Write "at
+                          last report" where the ending was not seen. The Sharn / Korth
+                          campaign (The Unforeseen Strike Back) ended with Korth Ep 22 and
+                          takes the past-tense form.
 10 Organizations / Groups:   bold-labelled inline field
 11 Holdings:                 places owned, founded, or haunted
 12 Items:                    one line each — what it is, where found, condition

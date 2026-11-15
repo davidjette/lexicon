@@ -286,9 +286,9 @@ Eric said he was quite keen on fighting undead and would go below without Gemma 
 
 His *sunbeam* only hardened the Heir. He said the Polygon was going to explode and might do what they could not, and he left the Sept by *dimension door*. Roberts's corsairs pulled him aboard the *Revenge* with Zero-One, Ilma Vitt and Matt Matheny's survivors. <small>(Korth Ep 22)</small>
 
-## Right now
+## Fate
 
-Eric is aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in his bag. Gemma, Dario, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp are aboard with him. The Empress is destroyed. The Emperor's body was burned to char with the stake still in it. The Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge are gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). At last count ten bells remained, and the ninth great casting hangs in a Black Dove tower attached to the Imperial Palace in Korth. Sharn has not been heard from.
+At the end of the campaign Eric was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in his bag. Gemma, Dario, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp were aboard with him. The Empress was destroyed. The Emperor's body had been burned to char with the stake still in it. The Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). At last count ten bells remained, and the ninth great casting hung in a Black Dove tower attached to the Imperial Palace in Korth. Sharn had not been heard from.
 
 ---
 

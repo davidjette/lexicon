@@ -60,9 +60,9 @@ The gallery was robbed anyway. Two living wreaths held six dwarven ceremonial be
 
 The Belt of Dwarvenkind was surrendered, confiscated, and much later returned. The five jewelled belts were never given back.
 
-## Right now
+## Fate
 
-Sealed, undisturbed, and on consecrated ground in a mountain that now belongs to a black dragon.
+She was left sealed, undisturbed, and on consecrated ground in a mountain that had come to belong to a black dragon.
 
 **Organizations / Groups:** House Deeptempura, by birth or marriage; the record does not say which.
 

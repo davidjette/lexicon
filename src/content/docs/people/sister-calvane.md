@@ -105,9 +105,9 @@ Deeper in the suite, in the bedroom, was the real Sister Calvane: undead, almost
 
 <small>King Corn spent his last days perfecting a melody for a handheld horn built to answer the casting; the demon in the sealed room heard it through three years of rock.</small>
 
-## Right now
+## Fate
 
-Both Calvanes are dead and her library is in the Inevitables' hands. Her name stands on a death warrant signed by the Emperor, in a room whose drains are caked with three-year-old blood, one line above the Overseer who was ordered to kill her and then kill himself.
+Both Calvanes died, and her library passed into the Inevitables' hands. Her name stood on a death warrant signed by the Emperor, in a room whose drains were caked with three-year-old blood, one line above the Overseer who was ordered to kill her and then kill himself.
 
 ## Personality Characteristics
 

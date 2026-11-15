@@ -138,10 +138,10 @@ Her words offered little explanation of what she had sought or what she believed
 
 The Forge's destruction did not explain what it had been used for. The larger design behind the binding came out later, in the Westhouse and under the Ivory Lazaret; see [E'noch Qualanthri](/people/priest-e-noch-qualanthri/).
 
-## Right Now
+## Aftermath
 
 **The Forge of Binding is extinguished.** The Rite of Recall destroyed Varyn's Echo and severed the supernatural binding that connected him to the sword. The drill's arrival followed moments later, and Esther reached the chamber after the ritual's conclusion. The site no longer functions as it did when Varyn and E'noch performed the Eternal Guardian ritual.
 
-The weapon survived. Once the Crimson Sun, forged from Black Khyber and transformed into Red Khyber through the Mourning, it crystallized into White Khyber — Siberys when the binding was broken. [Gemma Corso](/people/gemma-corso/) now wields it as her pact blade under its new name, [Bright Dawn (Crimson Sun Unbound)](/items/the-bright-dawn-crimson-sun-unbound/).
+The weapon survived. Once the Crimson Sun, forged from Black Khyber and transformed into Red Khyber through the Mourning, it crystallized into White Khyber — Siberys when the binding was broken. [Gemma Corso](/people/gemma-corso/) afterwards wielded it as her pact blade under its new name, [Bright Dawn (Crimson Sun Unbound)](/items/the-bright-dawn-crimson-sun-unbound/).
 
-The Forge's power is gone, but its legacy remains in the sword and in Esther's lost connection to Varyn. E'noch Qualanthri was destroyed with that sword in Korth Ep 20.
+The Forge's power was gone, but its legacy remained in the sword and in Esther's lost connection to Varyn. E'noch Qualanthri was destroyed with that sword in Korth Ep 20.

@@ -112,9 +112,9 @@ Sharn Ep 19. With the Lord Commander dead, the Mayor dead and the Iron Veil's pa
 
 <small>She was executed at the end of the Sharn arc, three years before the Korth arc opens.</small>
 
-## Right now
+## Fate
 
-She is dead, executed by a provisional government sitting in the penthouse above her old office. Her husband had been killed by the Lord Commander shortly before. Her network survived her: the ArcEyes still drift, the Crystallizer archive under the Sharn Library still holds a decade of restricted footage, and it is the rebellion's now. Her eight-year-old daughter appears in no record after the trials.
+She was executed by a provisional government sitting in the penthouse above her old office. Her husband had been killed by the Lord Commander shortly before. Her network survived her: the ArcEyes still drifted, the Crystallizer archive under the Sharn Library still held a decade of restricted footage, and it passed to the rebellion. Her eight-year-old daughter appears in no record after the trials.
 
 **Organizations / Groups:** [The Iron Veil](/organizations/the-iron-veil/), Sharn Division — Head of Arcane Eye Security · the Heinrick household.
 

@@ -208,10 +208,10 @@ Bright Dawn possesses the **Sap** weapon mastery property. When Gemma hits a cre
 * **The Veil Building** — Esther drops the sword as she falls from the penthouse balcony. Gemma recovers it and renames it Bright Dawn.
 * **Korth Ep 16** — The risen Esther recognizes the weapon as the Crimson Sun, challenges Gemma's right to wield it and calls for it alongside her. Gemma reclaims it.
 
-## Right Now
+## Fate
 
-[Gemma Corso](/people/gemma-corso/) carries **Bright Dawn (Crimson Sun Unbound)** as her pact blade. The weapon remains a very rare, +2 longsword requiring attunement. It deals an additional 1d4 radiant damage on a hit, can shed light, and possesses Solar Trip, Solar Step and the Sap mastery property.
+[Gemma Corso](/people/gemma-corso/) carried **Bright Dawn (Crimson Sun Unbound)** as her pact blade to the end of the campaign. The weapon is a very rare, +2 longsword requiring attunement. It deals an additional 1d4 radiant damage on a hit, can shed light, and possesses Solar Trip, Solar Step and the Sap mastery property.
 
-Its current form is crystalline [White Khyber — Siberys](https://davidjette.github.io/lexicon/items/khyber-taxonomy/), also known as moonstone. The Echo of Varyn Crona is gone, and the binding that made the Crimson Sun a vessel for him has been severed. The weapon's history runs from Black Khyber to [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) to White Khyber: from the oath forged at the Forge of Binding, through the catastrophe of the Mourning, to the destruction of Varyn's Echo and the sword's unbinding.
+Its final form is crystalline [White Khyber — Siberys](https://davidjette.github.io/lexicon/items/khyber-taxonomy/), also known as moonstone. The Echo of Varyn Crona was gone, and the binding that made the Crimson Sun a vessel for him had been severed. The weapon's history runs from Black Khyber to [Red Khyber](https://davidjette.github.io/lexicon/items/red-khyber/) to White Khyber: from the oath forged at the Forge of Binding, through the catastrophe of the Mourning, to the destruction of Varyn's Echo and the sword's unbinding.
 
-**The Crimson Sun** is the weapon Varyn forged and used. **Bright Dawn** is the unbound weapon Gemma carries now.
+**The Crimson Sun** is the weapon Varyn forged and used. **Bright Dawn** is the unbound weapon Gemma carried afterwards.

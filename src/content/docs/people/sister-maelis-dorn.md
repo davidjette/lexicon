@@ -62,7 +62,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Aereni High Elf · Cleric-Inquisitor of the Black Doves · The Empire · Alive, whereabouts unknown**
+**Aereni High Elf · Cleric-Inquisitor of the Black Doves · The Empire · Dead**
 
 **Also known as:** Sister-Inquisitor Maelis Dorn · Maylas Dorne · *the young one, the Inquisitor* · *M. D.* on foundry escort papers.
 
@@ -122,9 +122,9 @@ She is the only person on the continent who can be placed at both ends of the ma
 
 She keeps a circuit: Korth, then east and south by private coach under escort, gone between nineteen and twenty-six days, then Korth again. She inspects, she consecrates, she seals, and she writes it down. At Thronehold she never drew a weapon. Everyone in Korth knows where Sister Maelis preaches; none of them knows where she goes for the other three weeks.
 
-## Right now
+## Fate
 
-Dorn is alive and her whereabouts are unknown. Her circuit's far end is the hospital in the mountains northeast of Qarth, and the Chorus Ledger goes up that road with her. She still believes Gemma Corso is a grieving girl with a gift for the work. The Inevitables are travelling to the Summer Palace and the Ivory Lazaret on a Ministry of Law warrant, and the ninth great casting hangs in a Black Dove tower attached to the Imperial Palace itself.
+Dorn was killed in [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/). She had believed until then that Gemma Corso was a grieving girl with a gift for the work. In Dorn's office in the Westhouse Gemma tripped her twice, pinned her against a bookcase and stabbed her. The rest of the Black Dove leadership in the Westhouse died there too: Lus Fayina and both Mary Christmases. Gemma took her keys, her adamantine seal and her small iron bell, and wore her face into the Summer Palace.
 
 ## Personality Characteristics
 

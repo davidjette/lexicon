@@ -74,6 +74,6 @@ He told them that Uriel could not be dead, and that she must be in the Sept of B
 
 The two dragons went for each other's throats and took no more part in the battle. Valtrex killed him.
 
-## Right now
+## Fate
 
-Aurorix is dead. His body was in the valley when it was destroyed.
+Aurorix died at Nos Matre. His body was in the valley when it was destroyed.

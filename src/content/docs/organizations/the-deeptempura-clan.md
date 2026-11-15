@@ -76,8 +76,8 @@ Deeptempura names are dish-names. [King Corn](/people/king-corn/), [Queen Pu-Pu 
 
 The whole interior of the Korramont: the [Mountain Door](/places/the-mountain-door/), the [Grand Stair](/places/the-grand-stair/), the sepulcher gallery, the Glitterhame, the [Great Hall of Rak'tafur](/places/the-great-hall-of-rak-tafur/), the [Korranberg Foundry](/places/the-korranberg-foundry/) and the [Bladeworks](/places/the-bladeworks/).
 
-## Right now
+## Aftermath
 
-The clan is functionally extinct in the Korramont. Its cousins the Teryaki came home from the Mror Holds to consecrate the dead and reclaim the hold, and are camped in the throne room under a dragon who has announced he intends to enslave them. Its king lies unburied on that dragon's hoard. Its heir has been consecrated. Its secrets are in a lead-bound folio in Sharn, and in the head of the one runesmith who agreed to leave.
+By the end of the campaign the clan was functionally extinct in the Korramont. Its cousins the Teryaki had come home from the Mror Holds to consecrate the dead and reclaim the hold, and were camped in the throne room under a dragon who had announced that he intended to enslave them. Its king lay unburied on that dragon's hoard. Its heir had been consecrated. Its secrets survived in a lead-bound folio and in the head of the one runesmith who agreed to leave.
 
 > I will not let go of the secrets of the dwarves so that you can replicate her horrors. You robbed from my dead. You do not have the right. - Madame Tso Teryaki

@@ -370,17 +370,15 @@ This time, however, the cover was his own death.
 
 ---
 
-## Right Now
+## Fate
 
-Richard Blaze is officially dead. The Empire and the general public believe he and [Calcifer](/people/calcifer/) were killed during the [Children of Ember](/organizations/the-children-of-ember/) attack connected to their attempted departure from Sharn.
+Richard Blaze was officially dead. The Empire and the general public believed he and [Calcifer](/people/calcifer/) were killed during the [Children of Ember](/organizations/the-children-of-ember/) attack connected to their attempted departure from Sharn.
 
 In reality, Richard and Calcifer survived and were teleported to Zilspar Farm. The farm was later destroyed during the dismantling of [Fulcrum](/organizations/fulcrum/), but neither Richard nor Calcifer was identified among the dead or captured.
 
 [Digma Beeve](/people/digma-beeve/) believed Richard would probably take Calcifer somewhere around [Leef](/places/leef/) and disappear completely, but this was never confirmed.
 
-Richard remains alive.
-
-His current location is unknown.
+Richard was alive at the end of the campaign, and his location was unknown.
 
 ---
 

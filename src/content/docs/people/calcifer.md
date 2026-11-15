@@ -112,7 +112,7 @@ In Nico's notes for that morning, Digma Beeve pulls Calcifer's father into a tig
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One told the party that Uriel wants the risen Esther to find him. Three years ago [Digma Beeve](/people/digma-beeve/) was to take him to Zilspar Farm, and there was talk of moving him to Leef or the Talenta Plains. Only Dario, Gemma, Jessica, Richard, Eric and Lorian knew where he was. <small>(Korth Ep 18)</small>
 
-**Right now:** Calcifer Blaze is officially dead — killed, the story goes, when [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) ambushed his father's private airship during the kidnapping. [Digma Beeve](/people/digma-beeve/) built the lie in the hour after the rising and it has held. Father and son were teleported out to Zilspar Farm before anyone else reached the penthouse. Zilspar Farm no longer exists.
+Calcifer Blaze was officially dead — killed, the story went, when [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) ambushed his father's private airship during the kidnapping. [Digma Beeve](/people/digma-beeve/) built the lie in the hour after the rising and it held. Father and son were teleported out to Zilspar Farm before anyone else reached the penthouse. Zilspar Farm was later destroyed, and neither of them was identified among the dead or the captured.
 
 ---
 

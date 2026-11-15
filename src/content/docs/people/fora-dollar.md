@@ -66,9 +66,9 @@ At the camp on the peak the red bird seized him and carried him out over the val
 
 When Thar was dead he said, *"What have you got me into? You just assassinated some military officer. This will be the end of my career."* Eric welcomed him to the rebellion, and he answered, *"Rebellion, no. You think you know what's best for everyone? Collapsing the Empire, fighting all this time, destroying everything?"* He took the rest of his fee and the tail feathers, gave them a share of the drow's silver and a vial of drow poison, and left down the slope. *"Good luck to you, whoever you are."* <small>(Korth Ep 17)</small>
 
-## Right now
+## Fate
 
-Dollar knows that two guests of the Lodge killed an Imperial general. A burst of gunfire sounded in the valley in the direction he had gone, and what became of him is not recorded. <small>(Korth Ep 17)</small>
+Dollar knew that two guests of the Lodge had killed an Imperial general. A burst of gunfire sounded in the valley in the direction he had gone, and what became of him is not recorded. <small>(Korth Ep 17)</small>
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) the Grand Lodge's Fieldmaster asked Deirdre Moro where Master Hunter Fora was, and said he had been a member for eighty years. He did not return to the Lodge. Gemma and Eric kept his elvish canoe. <small>(Korth Ep 18)</small>
 

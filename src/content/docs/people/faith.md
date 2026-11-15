@@ -94,7 +94,7 @@ Faith was born to a Grand Duke who did not raise her, one of four daughters scat
 
 Nine years before the present, [Greenish Hughes](/people/greenish-hughes/) summoned the four half-sisters to LeBeefe's manor in [Newham](/places/newham/), where Faith first met Esther. Faith was already married to Malrik Zeir. She was about thirty at the Sharn events.
 
-**Right now:** Faith Zeir is dead. Her sister killed her, on a rooftop pool deck, with a single thrust through the chest, in front of the child her congregation had spent years calling divine. What remains of the Children of Ember has not been heard from, and the Underhive has asked the Council of Sharn for legal ownership of the Vault Below.
+Faith Zeir died on a rooftop pool deck. Her sister killed her with a single thrust through the chest, in front of the child her congregation had spent years calling divine. What remained of the Children of Ember was not heard from again, and the Underhive asked the Council of Sharn for legal ownership of the Vault Below.
 
 **Organizations / Groups:** The Mother Prophet of the Children of Ember; owner and operator of the Vault Underground and the Vault Below; connected by marriage to House Lyrandar; a supply node of Project E.D.E.N.
 

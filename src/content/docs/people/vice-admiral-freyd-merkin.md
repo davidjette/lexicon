@@ -61,7 +61,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Species unrecorded · Vice Admiral · Assistant Barrister General · The Ministry of Law, Korth · Alive, hostile**
+**Species unrecorded · Vice Admiral · Assistant Barrister General · The Ministry of Law, Korth · Dead**
 
 *Also known as:* Vice Admiral Merkin · Assistant Barrister General Freyd Merkin
 
@@ -119,9 +119,9 @@ The deadline was Monday. It was Friday morning. Failure to return carried a boun
 
 In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), Director [Aurel Kesk](/people/aurel-kesk/) of [the Imperial Counting House](/places/the-imperial-counting-house/) demanded to know why the Advocate had ordered his wardress out of her own office without a warrant. The party produced a *hold person* scroll as a warrant signed by the Magister, Deirdre sold it, and Kesk said, *"I can't believe that Merkin, of all people, would pull this."* He then told the Advocate that Freyd could forget the favour Kesk was going to do him. <small>(Korth Ep 15)</small>
 
-## Right now
+## Fate
 
-Merkin is alive, in Korth, expecting a report on the Grand Lodge by Monday from an advocate he does not trust, on behalf of betters he will not name. The condemned he was owed is officially a suicide and is currently hidden in his own star prosecutor's apartment. Somewhere above him, Fulcrum is being dismantled across the continent as though the Empire had obtained a list of every name.
+Merkin was killed in [Korth Ep 19](/sessions/korth-ep-19-the-westhouse/). Gemma Corso put her blade to his throat in the Imperial Archive, and his body was hidden in the party's bags with those of the Black Dove leadership. Until then he had been in Korth expecting a report on the Grand Lodge from an advocate he did not trust, on behalf of betters he would not name. The condemned he was owed was officially a suicide, and was hidden in his own star prosecutor's apartment. Above him, Fulcrum was being dismantled across the continent as though the Empire had obtained a list of every name.
 
 **Organizations / Groups:** [The Ministry of Law](/organizations/the-ministry-of-law/), Korth · the Imperial officer corps (Vice Admiral) · Assistant Barrister General of the Ministry of Law.
 

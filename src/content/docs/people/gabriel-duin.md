@@ -116,9 +116,9 @@ In JL's recap of the throne room she is "Gabrielle Dwuine", the leader of "the p
 
 Locke Pierce broke the Imperial encryption in his down time and found the Blood of Vol files sitting at a lower clearance than the Imperial secrets around them. Among them were Duin's personal letters. They name her as the covert agent who leads the cult of Kaius-worshippers, and they name the cult's origin: **Project Godseed**, devised by the Crimson Sun to breed radical support among disaffected workers in the merchant class and the city guard who were susceptible to propaganda that they were better than Warforged, goblins, gnomes, halflings, orcs and dwarves. She was its handler until it outgrew her. She has not stopped it. The cult worships the Emperor's blood as divine and his fatherhood over all of Eberron as literal.
 
-## Right now
+## Fate
 
-Duin is missing. The public reporting blames Lady Glow for her assassination. The decrypted files say otherwise: she is in hiding in the Imperial Palace, where she remains consort to the Emperor. At least a dozen other Black Dove commanders and associates were found killed or reported missing in the weeks that followed, and some are believed to have fled to join the Rebellion.
+Duin was missing when the campaign ended. The public reporting blamed Lady Glow for her assassination. The decrypted files said otherwise: she was in hiding in the Imperial Palace, where she remained consort to the Emperor. At least a dozen other Black Dove commanders and associates were found killed or reported missing in the weeks that followed, and some were believed to have fled to join the Rebellion.
 
 ### Personality Characteristics
 

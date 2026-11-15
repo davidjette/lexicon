@@ -77,7 +77,7 @@ No source describes him physically. What every source describes instead is his t
 
 Goldenhew was in the audience at the Grand Theatre in Sharn on the night the conductor Krespo turned the orchestra into demonic apparitions and slaughtered much of the house. He got out alive, and he got out with the four Imperial agents who were there to investigate him: **the party escaped with Heighrick, Goldenhew, Tremblepike and Sominyard.** He owed [The Unforeseen](/organizations/the-unforeseen/) his life, and the Unforeseen were under orders to neutralise him if the evidence pointed his way. See [City of Knives, Pt II](/lore/city-of-knives-pt-ii/).
 
-**Right now** Lord Gregory Goldenhew is dead. He held supreme power over Imperial industrial policy in Campaign 1, appears in no episode of the Sharn or Korth arcs, and had died by the time of the Sharn arc, as had Lord Albert Spear, Cob Cornwell, John C. LeBeefe and Kwanti d'Orien. <small>(Oral Histories: The Inevitables, 2026-02-15)</small>
+Lord Gregory Goldenhew held supreme power over Imperial industrial policy in Campaign 1, appears in no episode of the Sharn or Korth arcs, and had died by the time of the Sharn arc, as had Lord Albert Spear, Cob Cornwell, John C. LeBeefe and Kwanti d'Orien. <small>(Oral Histories: The Inevitables, 2026-02-15)</small>
 
 ---
 

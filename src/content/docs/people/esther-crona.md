@@ -558,9 +558,9 @@ For three years Esther was considered dead. Her final order remained the standin
 
 Then her corpse was found beneath the [Ivory Lazaret](/places/the-ivory-lazaret/).
 
-## Right Now
+## Fate
 
-Esther Crona is dead. She died in the fall of Sharn, was raised under the Ivory Lazaret three years later, and died again in the [Sept of Bones](/places/the-sept-of-bones/).
+Esther Crona died in the fall of Sharn, was raised under the Ivory Lazaret three years later, and died again in the [Sept of Bones](/places/the-sept-of-bones/).
 
 In **[Korth Ep 16](/sessions/korth-ep-16-orientation-day/)**, [Zero-One](/people/zero-one-fema-nolan/) was forced to perform a resurrection rite on Esther deep beneath the [Ivory Lazaret](/places/the-ivory-lazaret/). [Sister Maelis Dorn](/people/sister-maelis-dorn/) ordered the ritual completed even while the Inevitables attacked.
 

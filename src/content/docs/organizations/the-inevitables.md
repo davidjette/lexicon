@@ -106,7 +106,7 @@ Gemma spends months becoming someone before they arrive; Eric reads the ledgers;
 
 **Levels:** 6 at Sharn Ep 1 · 7 after Sharn Ep 6 <small>(Oral Histories: The Inevitables, 2026-02-14)</small> · 8 after Sharn Ep 12, at 33,480 XP <small>(Oral Histories: The Inevitables, 2026-03-31)</small> · 11 after Korth Ep 9 <small>(Oral Histories: The Inevitables, 2026-08-12)</small> · just short of 12 after Korth Ep 11 <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
-**Right now** they are on a river boat to the Summer Palace wearing dead people's faces, carrying the Emperor's own death warrant, with the Grand Lodge records due Monday and a bounty waiting if they are late.
+At the end of the campaign Gemma, Dario and Eric were aboard Joseph Roberts's airship *Revenge*, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in Eric's bag. The Empress and the Emperor were destroyed, and the valley of the Ivory Lazaret was gone.
 
 > Kill Empress Uriel Qualanthri.
 

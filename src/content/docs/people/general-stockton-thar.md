@@ -173,9 +173,9 @@ Thar then forced his way through the petitioners to the foot of the Stairs of He
 
 The **E** of the note was [Eden](/people/eden/). She came to the peak at dawn with her soldiers and spoke to Gemma, who was wearing Thar's face. Eden and Thar had an understanding that the Empress must die, and Thar had told her that the Emperor would agree with them. <small>(Korth Ep 17)</small>
 
-## Right now
+## Fate
 
-Thar is dead. Gemma and Eric hold his body, his red robes and headpiece and his dragon-headed staff, and his audience with the Emperor in the garden falls at noon on the day he died. The Wall is down and the Uruk-Hoth Republic is in the Eldeen Reaches.
+Thar died on the peak in the King's Forest, beheaded by [Gemma Corso](/people/gemma-corso/). Gemma and Eric kept his body, his red robes and headpiece and his dragon-headed staff, and his audience with the Emperor in the garden fell at noon on the day he died. Gemma later wore his shape to the Westhouse. The Wall was down and the Uruk-Hoth Republic was in the Eldeen Reaches.
 
 **Organizations / Groups:** [The Iron Veil](/organizations/the-iron-veil/) — commander of ground forces · the Imperial western command · the Dark Druids of the Eldeen Reaches.
 

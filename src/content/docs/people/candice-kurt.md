@@ -62,9 +62,9 @@ Sharn Ep 2. Candice was killed during the opening of Richard Blaze's restaurant 
 
 [The Inevitables](/organizations/the-inevitables/) were in the room, serving. They did not fire the shot and have never established who did. In the confusion they turned invisible, abducted [Sister Nora](/people/sister-nora/) of the Black Doves, and escaped through a hidden elevator route revealed by [Izaak](/people/izaak/).
 
-## Right now
+## Fate
 
-The official account of her death has never been revised, and the shooter has never been identified.
+The official account of her death was never revised, and the shooter was never identified.
 
 **Status:** Deceased.
 

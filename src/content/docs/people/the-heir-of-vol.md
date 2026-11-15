@@ -96,6 +96,6 @@ Nothing the party had could kill him. Once he was cut from his mother, every wou
 
 The party fled. The Heir pushed up through the hill under the [Ivory Lazaret](/places/the-ivory-lazaret/), enormous, feeding on the power of [the Polygon](/items/the-polygon/). A ship of [the Hundreds](/organizations/the-hundreds/) dropped a glowing red gem into the storm over the valley. It was a [Ruby Nova](/items/ruby-nova/), the weapon Locke Pierce had built against the Empress and her bells, and it was his answer to the Heir.
 
-## Right now
+## Fate
 
-When the fire cleared, the Lazaret and the Heir were gone. Nobody has seen him since.
+When the fire cleared, the Lazaret and the Heir were gone. He was not seen again.

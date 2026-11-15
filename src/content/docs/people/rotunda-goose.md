@@ -60,8 +60,8 @@ She was aboard the river barge from Korth to the Summer Palace, where she was se
 
 [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/). On the Saturday night she was holding court by the fire in the Lodge's ballroom, wounded and not dressed for the hunt. She said there was no safe passage out of the Empire any more, and that all her money could not buy one. She greeted the Advocate Deirdre Moro, who was [Gemma Corso](/people/gemma-corso/) in disguise, and presented Lord Aldric and Lady Sabine Varenne, Karrnathi lords. Of the Advocate's ambitions she said, *"Not that any of that matters these days, but it'll matter in the aftermath. We're all planning for what comes next."* When Deirdre said she would like to visit the library, Goose told her this was the night they bring people through it. <small>(Korth Ep 17)</small>
 
-## Right now
+## Fate
 
-She is at the Grand Lodge and has not found her passage out. <small>(Korth Ep 17)</small>
+When last seen she was at the Grand Lodge and had not found her passage out. <small>(Korth Ep 17)</small> She does not appear again. The Lodge was destroyed with the rest of the valley in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/).
 
 **Related:** [The Grand Lodge](/places/the-grand-lodge/) · [The Thronehold Massacre](/history/the-thronehold-massacre/) · [General Stockton Thar](/people/general-stockton-thar/) · [Korth Ep 17](/sessions/korth-ep-17-the-red-bird/)

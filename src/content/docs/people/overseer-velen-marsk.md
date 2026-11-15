@@ -84,9 +84,9 @@ The shrine had been sealed from the outside by a muslin sheet of protective scri
 
 His satchel also held a bone tube with silver caps containing scrolls of *web* and *spider climb*, which is now [Gemma Corso's](/people/gemma-corso/) scroll case.
 
-## Right now
+## Fate
 
-Marsk is destroyed. The warrant he carried bears the Emperor's signature on the extermination of a named people, on Imperial paper, in the hand of the man who executed it, and [Chancellor Eric](/people/eric-the-cleric/) is keeping it for the trials that follow.
+Marsk was destroyed. The warrant he carried bore the Emperor's signature on the extermination of a named people, on Imperial paper, in the hand of the man who executed it. [Chancellor Eric](/people/eric-the-cleric/) kept it for the trials that were to follow, and it was still in his bag aboard the *Revenge*.
 
 **Organizations / Groups:** The Korranberg Foundry Trust; the Imperial administration; a working relationship with the Black Doves that ended with his name on their warrant.
 

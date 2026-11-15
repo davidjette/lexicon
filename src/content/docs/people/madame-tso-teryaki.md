@@ -95,13 +95,13 @@ She granted one cold night of hospitality on the strength of a returned mourning
 
 It was Madame Tso and her brother who set the terms that sent the party to the bottom of the mountain: bring back the remains of Sedda and of [King Corn](/people/king-corn/), and the kin will give them anything - hospitality, the knowledge of the bells, and access to Corn's folio, the complete record of the forging of Shavat. Half of that errand was completed. The king is still on the hoard, and the clan has never been told where he lies.
 
-## Right now
+## Fate
 
 Told that [Valtrex](/species/valtrex/) was enslaved with a bell chained round his neck and drained of blood for three years, exactly as her own people were enslaved to cast the bells, she answered:
 
 > So he'll renew our pact.
 
-Argued at, and asked to bless the mountain as a tomb and leave, she answered *"Why would we leave? We've just now recovered it,"* and *"We must renew our pact with the one who gave this to us."* The kin are still in her hall. Only [Bofric](/people/bofric/) left.
+Argued at, and asked to bless the mountain as a tomb and leave, she answered *"Why would we leave? We've just now recovered it,"* and *"We must renew our pact with the one who gave this to us."* The kin stayed in her hall. Only [Bofric](/people/bofric/) left.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) she was seen over the Ivory Lazaret on Valtrex's back with Jelton Ahn, wearing the Crown of Seven Stars, and afterwards flying with them for the Korramont.
 

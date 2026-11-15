@@ -114,9 +114,9 @@ The last surviving member of the Thirteen was killed by the woman who killed the
 > \
 > — Rebel intelligence assessment, Crona–Blaze family file
 
-## Right now
+## Fate
 
-Henry Heinrick is dead and the office he held is gone with him. Within a day of his death the first Council of Sharn convened in the same penthouse, Eric was appointed Chancellor, and Sharn stopped having a mayor at all. His wife was taken into custody at the Veil Building and executed after trial. His daughter is eight years old and appears in no subsequent record.
+The office Henry Heinrick held ended with him. Within a day of his death the first Council of Sharn convened in the same penthouse, Eric was appointed Chancellor, and Sharn stopped having a mayor at all. His wife was taken into custody at the Veil Building and executed after trial. His daughter was eight years old and appears in no subsequent record.
 
 ## Personality Characteristics
 

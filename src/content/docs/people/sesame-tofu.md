@@ -54,9 +54,9 @@ Nobody in the Inevitables knew who he was. What they had was a dead body, a brai
 
 The clan named him, thanked them for it, and gave them his bed.
 
-## Right now
+## Fate
 
-No record says his body was moved from the pocket cave. His braid went home. His bunk in the camp has been slept in once, by an armed stranger in an Imperial disguise, with the clan's permission.
+No record says his body was moved from the pocket cave. His braid went home. His bunk in the camp was slept in once afterwards, by an armed stranger in an Imperial disguise, with the clan's permission.
 
 **Organizations / Groups:** The Teryaki mourning-party; House Moo Goo Gai Pan, by the crest he carried.
 

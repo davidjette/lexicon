@@ -116,8 +116,8 @@ Research in Sharn established three findings that govern the whole campaign agai
 
 The rebellion can mask the Noise anywhere it can put a horn-player, and it can *end* a bell only where it can put one specific hammer in one specific pair of hands.
 
-## Right now
+## Fate
 
-Dario carries it, has weapon mastery with warhammers, and is one-eyed with a revivification diamond in the socket. In Korth he had every weapon he owns logged with a forged registration under the alias **Sky Rizzy** — *every weapon except Knell*. It is not on any Imperial list. By his own count, given to a room holding a representative of every faith on the continent, he had broken three bells and would break every one. He has since broken the Original. **Ten remain**, at least one a Master hanging in a Black Dove tower attached to the Imperial Palace itself.
+Dario carried Knell to the end of the campaign. He had weapon mastery with warhammers, and by then he was one-eyed with a revivification diamond in the socket. In Korth he had every weapon he owned logged with a forged registration under the alias **Sky Rizzy**, *every weapon except Knell*. It was on no Imperial list. By his own count, given to a room holding a representative of every faith on the continent, he had broken three bells and would break every one.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario broke the Original with it, in the belfry of Nos Matre, and then took it against the Polygon.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario broke the Original with it, in the belfry of Nos Matre, and then took it against the Polygon. He had it with him aboard the *Revenge*. At last count **ten bells remained**, at least one a Master hanging in a Black Dove tower attached to the Imperial Palace itself.

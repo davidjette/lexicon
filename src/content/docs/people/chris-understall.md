@@ -59,9 +59,9 @@ The tunnel was opened in a single night by Berenstain, Snodgrass and Doppler Kli
 
 > That night, Berenstain, Snodgrass, and Doppler worked together to clear the collapsed tunnel, opening a path to the Cogborn and reuniting with the Cogborn elder Chris Understall.
 
-## Right now
+## Fate
 
-The Cogborn are on the road to Gorgonhorn, and back in Sharn a Department of Infrastructure exists to restore the Cogs they left.
+The Cogborn took the road to Gorgonhorn, and back in Sharn a Department of Infrastructure was set up to restore the Cogs they left.
 
 **Organizations / Groups:** the Cogborn community of the Cogs; evacuated by R.U.S.T.
 

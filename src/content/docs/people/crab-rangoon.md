@@ -53,10 +53,10 @@ Fresh from finding the Thirteenth Casting in the [Bladeworks](/places/the-bladew
 
 His account established that the dragon of the stair reliefs was still alive under the mountain, that the clan's own treasure was down there with him, and that the Teryaki had already lost people trying to reach it. The party's work at the [black lake](/places/the-black-lake/) followed from it.
 
-## Right now
+## Fate
 
-Still in the camp. The kin refused to evacuate when the party warned them that Valtrex was free and coming for them, and only [Bofric](/people/bofric/) left. Crab Rangoon is among the kin who stayed.
+Crab Rangoon was among the kin who stayed in the camp. The kin refused to evacuate when the party warned them that Valtrex was free and coming for them, and only [Bofric](/people/bofric/) left.
 
-His trade, family and age are not recorded. The clan is small enough that everyone in it does several jobs.
+His trade, family and age are not recorded. The clan was small enough that everyone in it did several jobs.
 
 **Organizations / Groups:** The Teryaki clan.

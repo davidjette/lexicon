@@ -85,9 +85,9 @@ The lens came out of Circuit City with the rest of Edwin Graves's stock. Zero-On
 
 > He recalled the night eight years ago when he "didn't legally file a surveillance report."
 
-## Right now
+## Fate
 
-Grady Marsh was last recorded safe at Zilspar Farm 02. Zilspar Farm has since been destroyed by Eden units; Zero-One was taken alive and Izaak is presumed dead. No report the Inevitables hold names Grady Marsh among the dead or the taken.
+Grady Marsh was last recorded safe at Zilspar Farm 02. Zilspar Farm was later destroyed by Eden units; Zero-One was taken alive, and Izaak was presumed dead until he was reported alive in Sharn. No report the Inevitables held named Grady Marsh among the dead or the taken.
 
 **Organizations / Groups:** formerly the Arcane Eye Security Network, Sharn Division, under the Iron Veil. Latterly a protected witness of Fulcrum.
 

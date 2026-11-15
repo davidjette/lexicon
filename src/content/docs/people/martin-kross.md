@@ -74,7 +74,7 @@ Under questioning he cooperated fully and at once. Held in Blair's private quart
 
 He lives alone in Astra Level Apartment 01, divorced with three children, and presents as a low-risk, easily influenced source with no awareness of the broader implications of the information he provided. He drinks at the same Upper City bar after every shift, and that routine is the whole reason a rebellion could reach BioTec at all. He lost his job, his home and his city in a single night over a theft he had no part in, spent time underground as a criminal queen's guest, was traded out as a clause in a treaty about tunnels, and then walked out of Sharn entirely.
 
-**Right now:** Martin Kross has been found. Status: alive; location Gorgonhorn, the RUST / Hundreds settlement and stronghold on the border with the Mournlands. Martin Kross left the city of Sharn to Gorgonhorn during the Cogborn exodus. <small>The mission board records him as departing "with his son Martin," which is plainly a slip — his son is Kriss, and Kriss remained in Sharn. The record has not been corrected.</small>
+Martin Kross was found alive at Gorgonhorn, the RUST / Hundreds settlement and stronghold on the border with the Mournlands. He had left the city of Sharn for Gorgonhorn during the Cogborn exodus. <small>The mission board records him as departing "with his son Martin," which is plainly a slip — his son is Kriss, and Kriss remained in Sharn. The record was never corrected.</small>
 
 **Organizations / Groups:** BioTec, enchantments department (absent without leave); the Kross family of the Lower City; latterly attached to the Cogborn exodus.
 

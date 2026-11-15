@@ -86,9 +86,9 @@ Sufficiently competent to be trusted with a Star Advocate's preliminary material
 
 > "I thought you were gay, Graham."
 
-## Right now
+## Fate
 
-Dead. [Gemma Corso](/people/gemma-corso/) killed him alongside Deirdre Moro in Deirdre's own apartment, disposed of both bodies in a Bag of Holding, and burned them at the bottom of the bridge with the orc dead. His face is currently prosecuting cases and visiting forgers in Korth.
+[Gemma Corso](/people/gemma-corso/) killed him alongside Deirdre Moro in Deirdre's own apartment, disposed of both bodies in a Bag of Holding, and burned them at the bottom of the bridge with the orc dead. Afterwards Eric the Cleric wore his face, prosecuting cases and visiting forgers in Korth.
 
 ## Personality Characteristics
 

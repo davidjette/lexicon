@@ -113,9 +113,9 @@ Jessica Grimpledink has said that if they cannot save Zero-One, they must not le
 
 <small>— the Sharn rebellion's own file on its cleric in the Nest.</small>
 
-## Right now
+## Fate
 
-Zero is in Sharn, teaching a song. The clergy she convened have named it the Horn of Mourning and are spreading it congregation by congregation, because a horn played well drowns a bell out. Her mother is a prisoner of the Empire. Her brother is missing. Ten bells remain, and the three operatives she onboarded are on a boat in Karrnath with a Monday deadline.
+At last report Zero was in Sharn, teaching a song. The clergy she convened had named it the Horn of Mourning and were spreading it congregation by congregation, because a horn played well drowns a bell out. Her mother, Zero-One, was taken prisoner by the Empire and was later rescued from under Nos Matre; she ended the campaign aboard the *Revenge*. Her brother Izaak, long missing, was reported alive in Sharn. At last count ten bells remained.
 
 ---
 

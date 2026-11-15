@@ -212,9 +212,9 @@ The dragon crashed into him and breathed fire in his face, the Bright Dawn burst
 
 Black smoke filled the room, a red light in his eyes flashed white, and he went to ash.
 
-## Right now
+## Fate
 
-E'noch Qualanthri is destroyed, along with Lady Ophelia, Trillo Dwyn and his household. The Forge of Binding is dark. When he fell, Uriel, his granddaughter, was in labour above the lair, and [Aurorix](/species/aurorix/) was free and meant to finish the work: *"We have to finish destroying the Qualanthris. And the Dwyns. And the Cronas."*
+E'noch Qualanthri was destroyed, along with Lady Ophelia, Trillo Dwyn and his household. The Forge of Binding was dark. When he fell, Uriel, his granddaughter, was in labour above the lair, and [Aurorix](/species/aurorix/) was free and meant to finish the work: *"We have to finish destroying the Qualanthris. And the Dwyns. And the Cronas."*
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the heir he had planned for was born in the Sept of Bones. Uriel had held the child in past its time. Before she was destroyed she said: *"My grandfather was right. I am a vessel."*
 

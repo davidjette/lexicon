@@ -81,7 +81,7 @@ Generations of Cogborn workers and Warforged labourers built the city's industri
 
 In Nico's notes for the first meeting of the Council of Sharn, Preacher sat in the unified Hundreds and R.U.S.T. bloc with [Snodgrass](/people/snodgrass/), [Doppler](/people/doppler-klink/) and [Locke Pierce](/people/locke-pierce/). Warforged citizenship and legal personhood was Preacher's demand, backed by Locke, and the bloc also asked for a memorial for the Cogborn victims, especially those lost in the POSÉ riot. <small>(Nico's DM notes, Episode 19)</small>
 
-**Right now:** the Cogborn walked out of Sharn through [the Underhive](/organizations/the-underhive/) and the Spine, and Preacher led them in song at the mountain tunnel while Locke Pierce teleported in to meet him. R.U.S.T. holds a seat in the new Sharn: Warforged citizenship, the arrest of the Iron Veil engineers, and a Department of Infrastructure, all carried at the first Council. Warforged troops and engineers are stabilising the city and restoring the Cogs he was raised in.
+The Cogborn walked out of Sharn through [the Underhive](/organizations/the-underhive/) and the Spine, and Preacher led them in song at the mountain tunnel while Locke Pierce teleported in to meet him. R.U.S.T. took a seat in the new Sharn: Warforged citizenship, the arrest of the Iron Veil engineers, and a Department of Infrastructure, all carried at the first Council. Warforged troops and engineers set about stabilising the city and restoring the Cogs he was raised in.
 
 **Organizations / Groups:** founder and leader of R.U.S.T.; partner of the Hundreds at Gorgonhorn; seated faction of the Council of Sharn.
 

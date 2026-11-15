@@ -108,6 +108,6 @@ The Trust also burned its own dockets nightly on a brazier kept at the gate for 
 - **It makes the fanfare teachable.** Notes on the last page, arrangement in the sheet music, translation by Bofric, and the clergy of Sharn carrying it congregation by congregation.
 - **It does not make a second Knell.** Research concluded the hammer is likely unique. The folio names the wound and cannot make the blade.
 
-## Right now
+## Fate
 
-The folio is in Korth with the party, under Imperial cover, alongside Knell and the horn. Bofric is out of the mountain — the only person known to read Corn's shorthand. Roughly one section of the book has been translated. The rest of it is still, functionally, the Empire's manufacturing secret sitting in a rebel's bag.
+The folio went to Korth with the party, under Imperial cover, alongside Knell and the horn. Bofric, the only person known to read Corn's shorthand, had left the mountain. Roughly one section of the book had been translated when the campaign ended. The rest of it was still, functionally, the Empire's manufacturing secret sitting in a rebel's bag.

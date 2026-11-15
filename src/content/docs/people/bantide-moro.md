@@ -127,9 +127,9 @@ She believes she is guilty of having failed the Emperor, whatever else she is or
 
 She keeps a **forgery kit** and knows how to use it. She recognises rebel cant on sight and knows better than to answer it in front of guards. Her circle is Izaak, whom she will not hear a word against, and the ghost of a sister she wrote to for twenty years. She now carries [Sir Dario Argentino's](/people/sir-dario-argentino/) personal prayer book of the Silver Flame — the only thing she asked anyone for, surrendered through the bars of her cell, and the only possession she owns that the Empire did not issue her.
 
-## Right now
+## Fate
 
-She is invisible, disguised, and hiding in her dead sister's apartment on the lower plaza of [Korth](/places/korth/), days away from full strength and too wanted to be seen. Officially she committed suicide in custody. The state has one month to reassemble a case against a condemned it believes is dead, and the only people who know otherwise have taken a boat to the Ivory Lazaret.
+When the Inevitables took the boat to the Ivory Lazaret, Bantide was invisible, disguised, and hiding in her dead sister's apartment on the lower plaza of [Korth](/places/korth/), days away from full strength and too wanted to be seen. Officially she had committed suicide in custody. The state had one month to reassemble a case against a condemned it believed was dead. In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) she was reported alive in Sharn with Izaak.
 
 **Organizations / Groups:** Fulcrum (medical support, twenty years) · the Church of the Silver Flame (head nurse, civilian hospital) · the Imperial medical records service (cover post, Anduin theatre)
 

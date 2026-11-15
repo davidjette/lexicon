@@ -140,9 +140,9 @@ As the questions went on she might first suspect the trio of working with the Co
 
 When Sharn rose, [Silver Flame](/organizations/the-silver-flame/) paladins under Zero-One seized the Black Dove Hospital and rounded up the clergy, and inside they found a large golden bell crated in an unfinished tower — a replica of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). Trials began immediately. Sister Nora was found guilty and executed alongside Hillary Heinrick and Dr. Joanne Menka and other high-level Iron Veil officials, and the Flame's cremation directive was enacted across the city. The live Key Figures register still lists her as active; she was executed in Sharn Ep 19.
 
-## Right now
+## Fate
 
-She is ash, by her enemies' own ordinance. What she said in that cellar is still the spine of the case against the Black Doves: the rites are the order's own work, the doctrine has a name, and the Empress's reach has at least one edge to it.
+She was burned to ash, by her enemies' own ordinance. What she said in that cellar remained the spine of the case against the Black Doves: the rites were the order's own work, the doctrine had a name, and the Empress's reach had at least one edge to it.
 
 ---
 

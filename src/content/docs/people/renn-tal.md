@@ -119,7 +119,7 @@ Behind the puzzle door she opened, the long-lost Forge stood intact. Eric perfor
 
 > "She knows the Forge of Binding is real, because her research has led her closer to it than any Imperial historian has dared to go."
 
-## Right now
+## Fate
 
 With the farm gone and the city out of fuel and a month from severe food shortages, Renn Tal stood beside the Eye of Corruption while Eric bled its rising output off as fire for Sharn's furnaces — and then declared the Eye the property of Sharn and informed the Nest engineers that they now worked for her. [Jessica Grimpledink](/people/jessica-grimpledink/) was cut out of her own operation in the process. Renn also briefed the Chancellor on the famine and handed him a spell scroll.
 

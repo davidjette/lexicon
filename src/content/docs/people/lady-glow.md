@@ -91,9 +91,9 @@ Three accounts of what became of her disagree.
 
 The two rebel-side accounts agree with each other. The Imperial account confines her to Newham Hospital on a charge for the assassination of a woman who was not assassinated, and Duin is missing rather than dead.
 
-## Right now
+## Fate
 
-Lady Glow is a ghoul. She is, by the rebellion's account, kept at the Emperor's bedside and made to sing. Officially she is a patient at Newham Hospital serving a life sentence. She has never been produced.
+Lady Glow was made a ghoul. By the rebellion's account she was kept at the Emperor's bedside and made to sing. Officially she was a patient at Newham Hospital serving a life sentence. She was never produced.
 
 ---
 

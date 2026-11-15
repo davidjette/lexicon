@@ -60,11 +60,13 @@ First contact came at weapons' point: the party arrived in Imperial disguise, we
 
 It was repaired in stages: grave-jewels left untouched on an altar body and reported rather than pocketed; the foundry level cleared in an afternoon; the truth of a dead boy told out loud in front of the whole camp rather than managed; and finally the princess and heir carried three hundred feet up a chain ladder and through the middle of the camp to be consecrated. Madame Tso returned the belt herself and blessed the party's claim to the folio and the horn.
 
-## Right now
+## Aftermath
 
-Warned to their faces that [Valtrex](/species/valtrex/) is free, has claimed the mountain, and intends to enslave or consume them, the Teryaki refused to evacuate - twice, from both siblings, and once against a direct argument that the mountain should be blessed as a tomb and abandoned. Only Bofric left. The rest remain in a throne room under a dragon, planning to renew a pact with him.
+Warned to their faces that [Valtrex](/species/valtrex/) was free, had claimed the mountain, and intended to enslave or consume them, the Teryaki refused to evacuate - twice, from both siblings, and once against a direct argument that the mountain should be blessed as a tomb and abandoned. Only Bofric left. The rest stayed in a throne room under a dragon, planning to renew a pact with him.
 
 > So he'll renew our pact. - Madame Tso Teryaki, told that the dragon had been enslaved and bled exactly as her own people were
+
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Madame Tso was seen over the Ivory Lazaret on Valtrex's back, wearing the Crown of Seven Stars, and afterwards flying with him for the Korramont.
 
 **Notable members:** [Madame Tso Teryaki](/people/madame-tso-teryaki/), matriarch; [General Tso](/people/general-tso/), her brother; [Bofric](/people/bofric/), the runesmith; [Crab Rangoon](/people/crab-rangoon/); [Wonton](/people/wonton/), who rides a giant spider; [Hetta](/people/hetta/), the scout; [Egg Roll](/people/egg-roll/), a boy who drew the best map anyone in the mountain has; [Sesame Tofu](/people/sesame-tofu/), dead on the way in; and the scouts Fried Tofu and Moo Goo Gai Pan, who died in the acid at the bottom.
 

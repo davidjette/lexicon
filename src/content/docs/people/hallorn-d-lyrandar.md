@@ -134,9 +134,9 @@ Three years later, at the Summit at Thronehold, **Sister Maelis Dorn** of [the B
 
 Unknown. No source records what Hallorn believed.
 
-## Right now
+## Fate
 
-Hallorn is three years dead and his father is dead behind him, killed on an airship deck over the water. House Lyrandar's two-man bridge between fleet and infrastructure is gone entirely, and the Empire's skies are being carved up by Locke Pierce's Hundreds. The Head of Transportation's chair has no recorded occupant.
+By the end of the campaign Hallorn was three years dead and his father was dead behind him, killed on an airship deck over the water. House Lyrandar's two-man bridge between fleet and infrastructure was gone entirely, and the Empire's skies were being carved up by Locke Pierce's Hundreds. The Head of Transportation's chair had no recorded occupant.
 
 **Organizations / Groups:** House Lyrandar · the Imperial Ministry of Transportation · contractor to the Iron Veil · patron of the upper-city Vault.
 
