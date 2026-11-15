@@ -2,8 +2,8 @@
 // order, turn flow with its stop points, damage and conditions. No page code here, so the
 // same file runs under node for tests.
 
-import { ALL } from '../data/registry.js?v=mwgourid';
-import { PARTY } from '../data/pcs.js?v=mwgourid';
+import { ALL } from '../data/registry.js?v=mwigx9m1';
+import { PARTY } from '../data/pcs.js?v=mwigx9m1';
 
 export const ABILS = ['str', 'dex', 'con', 'int', 'wis', 'cha'];
 export const mod = (score) => Math.floor(((score ?? 10) - 10) / 2);

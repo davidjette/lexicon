@@ -3,9 +3,9 @@
 // owner's level and numbers. A companion stands on its owner's side, makes no death saves, and does not by
 // itself keep the party "standing" (it has no `pc` flag).
 
-import { melee, ranged, multi } from './lib.js?v=mwgourid';
-import { ALL } from './registry.js?v=mwgourid';
-import { cluster } from '../engine/zones.js?v=mwgourid';
+import { melee, ranged, multi } from './lib.js?v=mwigx9m1';
+import { ALL } from './registry.js?v=mwigx9m1';
+import { cluster } from '../engine/zones.js?v=mwigx9m1';
 
 const A = (str, dex, con, int, wis, cha) => ({ str, dex, con, int, wis, cha });
 const base = (o) => ({ side: 'pc', deathSaves: false, companion: true, smart: false, pos: 'front', ...o });

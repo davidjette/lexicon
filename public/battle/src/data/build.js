@@ -1,12 +1,12 @@
 // Turns the roster the interface edits (plain data, so it can cross to the batch worker) into
 // the templates and setup the engine runs.
 
-import { DEFAULT_PARTY, switchDefaults } from './encounters.js?v=mvadgbdp';
-import { ALL, PRESETS } from './registry.js?v=mvadgbdp';
-import { PARTY, SPENT } from './pcs.js?v=mvadgbdp';
+import { DEFAULT_PARTY, switchDefaults } from './encounters.js?v=mwigxbbl';
+import { ALL, PRESETS } from './registry.js?v=mwigxbbl';
+import { PARTY, SPENT } from './pcs.js?v=mwigxbbl';
 
 export { SPENT };
-import { melee, ranged, multi } from './lib.js?v=mvadgbdp';
+import { melee, ranged, multi } from './lib.js?v=mwigxbbl';
 
 let uid = 0;
 const nextId = () => `r${++uid}`;
@@ -65,19 +65,20 @@ export function templateFor(row) {
   return tpl;
 }
 
+// The Inevitables as roster rows, in their usual places. A preset can set their level, dials and spent resources.
+export function partyRows(partyIds = ['gemma', 'eric', 'dario'], preset = {}) {
+  return DEFAULT_PARTY.filter((x) => partyIds.includes(x.id)).map((p) => ({
+    uid: nextId(), side: 'pc', kind: 'pc', ref: p.id, name: PARTY[p.id]().name, pos: p.pos,
+    near: p.near && partyIds.includes(p.near) ? p.near : null, dials: { ...((preset.dials || {})[p.id] || {}) }, over: {}, spent: 'fresh',
+    level12: !!preset.level12, level: preset.level12 ? 12 : preset.level || 13, spentData: preset.spent ? preset.spent[p.id] : undefined,
+  }));
+}
+
 export function rowsFromPreset(presetId, sw) {
   const preset = PRESETS.find((p) => p.id === presetId);
   const s = { ...switchDefaults(preset), ...(sw || {}) };
   const extra = preset.extra ? preset.extra(s) : {};
-  const rows = [];
-  const partyIds = preset.party || ['gemma', 'eric', 'dario'];
-  for (const p of DEFAULT_PARTY.filter((x) => partyIds.includes(x.id))) {
-    rows.push({
-      uid: nextId(), side: 'pc', kind: 'pc', ref: p.id, name: PARTY[p.id]().name, pos: p.pos,
-      near: p.near && partyIds.includes(p.near) ? p.near : null, dials: { ...((preset.dials || {})[p.id] || {}) }, over: {}, spent: 'fresh',
-      level12: !!preset.level12, level: preset.level12 ? 12 : preset.level || 13, spentData: preset.spent ? preset.spent[p.id] : undefined,
-    });
-  }
+  const rows = partyRows(preset.party || ['gemma', 'eric', 'dario'], preset);
   const add = (list, side) => {
     for (const [id, n] of list || []) {
       for (let i = 0; i < n; i++) rows.push({ uid: nextId(), side, kind: 'lib', ref: id, name: n > 1 ? `${ALL[id].name} ${i + 1}` : ALL[id].name, pos: ALL[id].pos || 'front', over: {} });

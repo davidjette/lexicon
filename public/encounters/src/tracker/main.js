@@ -1,14 +1,14 @@
 // The battle tracker page: a table-side initiative tracker for the DM. The page itself is an
 // empty shell; every fight and stat block it shows comes out of the DM pack once unlocked.
 
-import '../data/encounters.js?v=mwgourid';
-import { ALL, TRACKERS } from '../data/registry.js?v=mwgourid';
-import { PARTY } from '../data/pcs.js?v=mwgourid';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwgourid';
+import '../data/encounters.js?v=mwigx9m1';
+import { ALL, TRACKERS } from '../data/registry.js?v=mwigx9m1';
+import { PARTY } from '../data/pcs.js?v=mwigx9m1';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwigx9m1';
 import {
   ABILS, CONDITIONS, DAMAGE_TYPES, signed, rollExpr, rollD20, newState, cardOf, addCombatants, customCard, say, order, get,
   rollInitiative, next, legendaryReady, roundEndItems, damage, heal, addCond, resolveCard, carryOver, applyCarry,
-} from './core.js?v=mwgourid';
+} from './core.js?v=mwigx9m1';
 
 const KEY = 'tracker-state-v1';
 const app = document.getElementById('app');

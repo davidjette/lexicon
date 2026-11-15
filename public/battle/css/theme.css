@@ -201,6 +201,8 @@ details > summary { cursor: pointer; font-family: var(--font-caps); letter-spaci
 .adder select { flex: 1 1 8rem; }
 .adder input { width: 3.2rem; }
 .adder input.search { flex: 1 1 100%; width: auto; }
+.adder .quick { flex: 1 1 100%; display: flex; flex-wrap: wrap; gap: .25rem; align-items: center; margin-bottom: .2rem; }
+.adder .quick .label { flex: 1 1 100%; }
 .cards { display: flex; flex-direction: column; gap: .5rem; }
 .unit {
   display: grid; grid-template-columns: 56px 1fr; gap: .55rem;

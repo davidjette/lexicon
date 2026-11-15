@@ -4,6 +4,8 @@
 export const ALL = {};
 export const PRESETS = [];
 export const LIBRARY = []; // { group, ids, dm }
+export const TRACKERS = []; // fights set up for the battle tracker page
+export const QUICK = []; // one-click villain groups added by a pack: { name, list: [[id, n]] }
 export const PC_EXT = []; // functions (tpl) => tpl, applied to each character when it is built
 export const packs = { dm: false };
 
@@ -18,6 +20,10 @@ export function register(pack, { dm = false } = {}) {
   for (const g of pack.library || []) {
     if (!LIBRARY.some((x) => x.group === g.group)) LIBRARY.push({ ...g, dm });
   }
+  for (const t of pack.trackers || []) {
+    if (!TRACKERS.some((x) => x.id === t.id)) TRACKERS.push(t);
+  }
+  for (const q of pack.quick || []) if (!QUICK.some((x) => x.name === q.name)) QUICK.push(q);
   for (const f of pack.pcExt || []) PC_EXT.push(f);
   if (dm) packs.dm = true;
 }

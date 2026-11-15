@@ -817,6 +817,16 @@ M.guardMinion.hooks = {
 
 api.register({
   creatures: R,
+  quick: [
+    { name: 'Dorn and Mary Christmas', list: [['dornR', 1], ['maryR', 1], ['whiteGuardR', 4]] },
+    { name: 'Sisters of the Blood', list: [['redSister', 4], ['redMinion', 5]] },
+    { name: 'The Daughters of Vol', list: [['muriel', 1], ['drakiel', 1], ['purell', 1], ['enwe', 1], ['fenwe', 1], ['chanel', 1], ['azriel', 1], ['duracell', 1], ['seraphiel', 1], ['littleDaughter', 4]] },
+    { name: "E'noch and his court", list: [['enochR2', 1], ['opheliaR', 1], ['trilloR', 1], ['spawnMinion', 6]] },
+    { name: 'The Emperor and Varyn', list: [['emperorWaking', 1], ['varyn', 1]] },
+    { name: 'Uriel, Holy Empress', list: [['urielBed', 1], ['marshallR', 1], ['redSister', 4]] },
+    { name: 'Uriel at Nos Matre', list: [['urielReckoning', 1], ['whiteSister', 1], ['choirNovices', 2]] },
+    { name: 'Uriel and the Heir', list: [['urielSept', 1], ['heir', 1]] },
+  ],
   library: [
     { group: 'The Lazaret, revised (proposal)', ids: ['urielBed', 'urielReckoning', 'urielSept', 'heir', 'emperorFeeding', 'dornR', 'maryR', 'marshallR', 'redSister', 'whiteSister', 'sorrowfulR', 'choirNovices', 'novice', 'redMinion', 'cursedSoldier', 'tallGuardR', 'whiteGuardR', 'guardMinion', 'muriel', 'drakiel', 'purell', 'enwe', 'fenwe', 'chanel', 'azriel', 'duracell', 'seraphiel', 'littleDaughter', 'enochR', 'enochR2', 'enochMaster', 'edenZ', 'edenUnitZ', 'opheliaR', 'trilloR', 'spawnMinion'] },
     { group: 'Allies (drafts)', ids: ['zeroOneR', 'defectors', 'swashbuckler', 'lusFayina', 'aurorix', 'valtrex', 'plazaBand', 'edenZAlly', 'edenUnitZAlly'], ally: true },

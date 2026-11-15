@@ -7,9 +7,9 @@
 // Sorcerers spend sorcery points on the Metamagic named on their sheet: the choice carries a `meta`
 // list, and the points are paid when the spell runs.
 
-import { SRD_SPELLS } from './spells-data.js?v=mvadgbdp';
-import { melee, ranged, save, emanation, rollDice, areaTargets } from './lib.js?v=mvadgbdp';
-import { avgDice, parseDice, maxDice } from '../engine/dice.js?v=mvadgbdp';
+import { SRD_SPELLS } from './spells-data.js?v=mwigxbbl';
+import { melee, ranged, save, emanation, rollDice, areaTargets } from './lib.js?v=mwigxbbl';
+import { avgDice, parseDice, maxDice } from '../engine/dice.js?v=mwigxbbl';
 
 const up = (n, die, level, per = 1, flat = '') => {
   const out = {};

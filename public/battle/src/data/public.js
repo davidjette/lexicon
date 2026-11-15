@@ -2,9 +2,9 @@
 // Sources: the campaign's own blocks for General Thar, the Red Bird, the Dark Druid and Fora Dollar,
 // as run on 2026-10-09.
 
-import { melee, ranged, save, multi, cond, prone, order, hold, healing } from './lib.js?v=mvadgbdp';
-import { breakAll } from '../engine/zones.js?v=mvadgbdp';
-import { ALL, register } from './registry.js?v=mvadgbdp';
+import { melee, ranged, save, multi, cond, prone, order, hold, healing } from './lib.js?v=mwigxbbl';
+import { breakAll } from '../engine/zones.js?v=mwigxbbl';
+import { ALL, register } from './registry.js?v=mwigxbbl';
 
 const X = {};
 const def = (id, t) => {
@@ -150,7 +150,8 @@ register({
     id: 'blank',
     name: 'New encounter',
     where: 'Your own fight',
-    blurb: 'The party is loaded. Add creatures to either side from the lists below, or build a custom one, then roll initiative.',
+    blurb: 'An empty field. Add a party on the left and its enemies on the right, one at a time or a whole group at once, then roll initiative.',
+    party: [],
     monsters: [],
     switches: [],
     scenario: () => ({ flags: {} }),

@@ -1,14 +1,15 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mwgourid';
-import { AI } from '../engine/ai.js?v=mwgourid';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mwgourid';
-import { switchDefaults } from '../data/encounters.js?v=mwgourid';
-import { PRESETS, ALL, LIBRARY, packs } from '../data/registry.js?v=mwgourid';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwgourid';
-import { PARTY } from '../data/pcs.js?v=mwgourid';
-import { rowsFromPreset, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwgourid';
-import { openInbox, setupInbox } from './inbox.js?v=mwgourid';
+import { Encounter } from '../engine/combat.js?v=mwigx9m1';
+import { AI } from '../engine/ai.js?v=mwigx9m1';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mwigx9m1';
+import { switchDefaults } from '../data/encounters.js?v=mwigx9m1';
+import { PRESETS, ALL, LIBRARY, QUICK, packs } from '../data/registry.js?v=mwigx9m1';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwigx9m1';
+import { PARTY } from '../data/pcs.js?v=mwigx9m1';
+import { rowsFromPreset, partyRows, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwigx9m1';
+import { PARTIES, PARTY_OF_CAMPAIGN, FOES } from '../data/quick.js?v=mwigx9m1';
+import { openInbox, setupInbox } from './inbox.js?v=mwigx9m1';
 
 const $ = (id) => document.getElementById(id);
 
@@ -168,12 +169,29 @@ function renderAdder(side) {
   if (enc) return;
   const sel = h('select', {});
   const groups = [];
-  const missing = Object.keys(PARTY).filter((id) => !state.rows.some((r) => r.kind === 'pc' && r.ref === id && r.side === side));
-  if (missing.length) groups.push(['The Inevitables', missing.map((id) => [id, `${PARTY[id]().name} · level ${PARTY[id]().level}`])]);
+  const label = (id) => (PARTY[id] ? `${PARTY[id]().name} · level ${PARTY[id]().level}`
+    : `${ALL[id].name}${ALL[id].cr !== undefined ? ` (CR ${ALL[id].cr})` : ''}${ALL[id].level && !/level/i.test(ALL[id].name) ? ` · level ${ALL[id].level}` : ''}`);
+  const known = (id) => !!(PARTY[id] || ALL[id]);
+  const fielded = (id) => PARTY[id] && state.rows.some((r) => r.kind === 'pc' && r.ref === id && r.side === side);
   const lib = [...LIBRARY].sort((a, b) => (side === 'pc' ? (b.ally ? 1 : 0) - (a.ally ? 1 : 0) : (a.ally ? 1 : 0) - (b.ally ? 1 : 0)));
-  for (const g of lib) {
-    groups.push([g.dm && !openSite ? `DM ONLY · ${g.group}` : g.group,
-      g.ids.filter((id) => ALL[id]).map((id) => [id, `${ALL[id].name}${ALL[id].cr !== undefined ? ` (CR ${ALL[id].cr})` : ''}${ALL[id].level && !/level/i.test(ALL[id].name) ? ` · level ${ALL[id].level}` : ''}`])]);
+  if (side === 'pc') {
+    // the party side lists characters by party: its members first, then the rest of that campaign's characters
+    const placed = new Set();
+    for (const p of PARTIES) {
+      const ids = p.ids.filter(known);
+      for (const g of lib) if (PARTY_OF_CAMPAIGN[g.group] === p.name) ids.push(...g.ids.filter((id) => ALL[id] && !ids.includes(id)));
+      ids.forEach((id) => placed.add(id));
+      const open = ids.filter((id) => !fielded(id));
+      if (open.length) groups.push([p.name, open.map((id) => [id, label(id)])]);
+    }
+    for (const g of lib) {
+      if (PARTY_OF_CAMPAIGN[g.group]) continue;
+      groups.push([g.dm && !openSite ? `DM ONLY · ${g.group}` : g.group, g.ids.filter((id) => ALL[id] && !placed.has(id)).map((id) => [id, label(id)])]);
+    }
+  } else {
+    for (const g of lib) groups.push([g.dm && !openSite ? `DM ONLY · ${g.group}` : g.group, g.ids.filter((id) => ALL[id]).map((id) => [id, label(id)])]);
+    const missing = Object.keys(PARTY).filter((id) => !fielded(id));
+    if (missing.length) groups.push(['The Inevitables', missing.map((id) => [id, label(id)])]);
   }
   const fill = () => {
     const q = (adderQuery[side] || '').trim().toLowerCase();
@@ -202,7 +220,37 @@ function renderAdder(side) {
   } }, 'Add');
   const custom = h('button', { class: 'btn small ghost', onclick: () => { $('customForm').elements.side.value = side; $('customDlg').showModal(); } }, 'Custom');
   const toLibrary = h('button', { class: 'btn small ghost', title: 'Send a character sheet or stat block to be added to the library', onclick: () => openInbox(side === 'pc' ? 'character' : 'monster') }, 'Add to library');
-  box.append(search, sel, n, add, custom, toLibrary);
+  box.append(quickRow(side), search, sel, n, add, custom, toLibrary);
+}
+
+// Puts a whole group on one side: a party's members who are not there yet, or a villain with their following.
+function addGroup(side, list) {
+  const here = state.rows.filter((r) => r.kind === 'pc' && r.side === side).map((r) => r.ref);
+  const want = list.map(([id]) => id).filter((id) => PARTY[id] && !here.includes(id));
+  // the Inevitables come in their usual places, Eric beside Dario when both are there
+  if (side === 'pc') state.rows.push(...partyRows([...here, ...want]).filter((r) => want.includes(r.ref)));
+  else for (const id of want) state.rows.push(newRow(side, id));
+  for (const [id, n] of list) {
+    if (PARTY[id] || !ALL[id]) continue;
+    const have = state.rows.filter((r) => r.ref === id && r.side === side).length;
+    if (side === 'pc' && have) continue; // a character joins once
+    for (let i = 0; i < n; i++) state.rows.push(newRow(side, id, have + n > 1 ? `${ALL[id].name} ${have + i + 1}` : ALL[id].name));
+  }
+  renderAll();
+}
+
+function quickRow(side) {
+  const sets = side === 'pc' ? PARTIES.map((p) => ({ name: p.name, note: p.note, list: p.ids.map((id) => [id, 1]) })) : [...FOES, ...QUICK];
+  const row = h('div', { class: 'quick' }, h('span', { class: 'label' }, side === 'pc' ? 'Add a party' : 'Add a villain'));
+  for (const s of sets) {
+    const list = s.list.filter(([id]) => PARTY[id] || ALL[id]);
+    if (list.length !== s.list.length && !(side === 'pc' && list.length)) continue; // not loaded yet
+    const who = list.map(([id, n]) => `${n > 1 ? `${n} × ` : ''}${PARTY[id] ? PARTY[id]().name : ALL[id].name}`).join(', ');
+    row.append(h('button', { class: 'btn small', title: `${s.note ? `${s.note}: ` : ''}${who}`, onclick: () => addGroup(side, list) }, s.name));
+  }
+  const mine = state.rows.filter((r) => r.side === side);
+  if (mine.length) row.append(h('button', { class: 'btn small ghost', title: 'Take everyone off this side', onclick: () => { state.rows = state.rows.filter((r) => r.side !== side); renderAll(); } }, 'Clear'));
+  return row;
 }
 
 function editCard(r) {
@@ -335,7 +383,7 @@ function renderSides() {
       box.replaceChildren(...live.map(liveCard), ...gone.map(liveCard));
     } else {
       box.replaceChildren(...state.rows.filter((r) => r.side === side).map(editCard));
-      if (!box.children.length) box.append(h('p', { class: 'blurb' }, 'Nobody here yet. Add from the list above.'));
+      if (!box.children.length) box.append(h('p', { class: 'blurb' }, side === 'pc' ? 'Nobody here yet. Add a party above, or pick characters from the list.' : 'Nobody here yet. Add a villain above, or pick creatures from the list.'));
     }
   }
 }
@@ -701,7 +749,7 @@ function init() {
     renderDm();
   });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mwgourid').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mwigx9m1').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 

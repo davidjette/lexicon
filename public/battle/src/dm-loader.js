@@ -1,11 +1,11 @@
 // Finds and installs the DM pack. On the published site the pack is one encrypted file; in the
 // working copy on the DM's own machine the three source files are read as they are.
 
-import { makeApi } from './data/api.js?v=mvadgbdp';
-import { packs } from './data/registry.js?v=mvadgbdp';
-import { decryptPack } from './pack-crypto.js?v=mvadgbdp';
+import { makeApi } from './data/api.js?v=mwigxbbl';
+import { packs } from './data/registry.js?v=mwigxbbl';
+import { decryptPack } from './pack-crypto.js?v=mwigxbbl';
 
-const FILES = ['monsters.js', 'extras.js', 'revised.js', 'finale.js', 'encounters.js', 'added.js'];
+const FILES = ['monsters.js', 'extras.js', 'revised.js', 'finale.js', 'encounters.js', 'added.js', 'tracker.js'];
 
 // Run the pack's files (plain JavaScript text, no imports of their own) against the registry.
 export async function installTexts(texts) {
