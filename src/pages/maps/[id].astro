@@ -8,14 +8,15 @@ export function getStaticPaths() {
 
 const { map } = Astro.props as { map: MapEntry };
 const linked = await articlesLinking(map);
+const description = (map as { description?: string }).description;
 ---
 
-<StarlightPage frontmatter={{ title: map.title, description: `Map: ${map.title}.`, tableOfContents: false }}>
+<StarlightPage frontmatter={{ title: map.title, description: description ?? `Map: ${map.title}.`, tableOfContents: false }}>
 	<figure class="map-full">
 		<a href={withBase(map.src)}>
 			<img src={withBase(map.src)} alt={map.title} width={map.width} height={map.height} decoding="async" />
 		</a>
-		<figcaption>Select the map to open it at full size.</figcaption>
+		<figcaption>{description && <span class="map-desc">{description}</span>}Select the map to open it at full size.</figcaption>
 	</figure>
 	{
 		linked.length > 0 && (
@@ -40,6 +41,12 @@ const linked = await articlesLinking(map);
 		height: auto;
 		border: 1px solid var(--gold, #8a6d2f);
 		border-radius: 4px;
+	}
+	.map-full .map-desc {
+		display: block;
+		font-size: var(--sl-text-base);
+		color: var(--sl-color-white);
+		margin-bottom: 0.3rem;
 	}
 	.map-full figcaption {
 		font-size: var(--sl-text-xs);

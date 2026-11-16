@@ -9,7 +9,7 @@ import { MAPS, withBase } from '../../lib/maps';
 		{
 			MAPS.map((m) => (
 				<li>
-					<a href={withBase(`/maps/${m.id}/`)}>
+					<a href={withBase(`/maps/${m.id}/`)} title={(m as { description?: string }).description}>
 						<img src={withBase(m.thumb)} alt="" loading="lazy" decoding="async" width="520" height={m.width ? Math.round((520 * m.height) / m.width) : undefined} />
 						<span>{m.title}</span>
 					</a>
