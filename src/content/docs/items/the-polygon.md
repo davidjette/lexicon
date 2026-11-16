@@ -35,6 +35,9 @@ gallery:
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-forecourt.webp
   alt: "The dead in the forecourt turn to look at Gemma as the Polygon opens"
   caption: "Lexical rendering: The dead in the forecourt turn to look at Gemma as the Polygon opens - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-on-the-walk.webp
+  alt: "Eden and her units come up the walk to the Polygon"
+  caption: "Lexical rendering: Eden and her units come up the walk to the Polygon - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Arcane device · Floating over the forecourt of Nos Matre · Held by Uriel Qualanthri · Stolen from John C. LeBeefe · Destroyed ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**

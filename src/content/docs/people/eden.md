@@ -82,6 +82,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp
     alt: "Eden frees her sister Esther in the hospital under the Lazaret"
     caption: "Lexical rendering: Eden frees her sister Esther in the hospital under the Lazaret - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-on-the-walk.webp
+    alt: "Eden and her units come up the walk to the Polygon"
+    caption: "Lexical rendering: Eden and her units come up the walk to the Polygon - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

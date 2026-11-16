@@ -116,6 +116,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
     alt: Eric destroys the Empress with the mace of disruption
     caption: 'Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-closing-in.webp
+    alt: "Uriel closes on the belfry"
+    caption: "Lexical rendering: Uriel closes on the belfry - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

@@ -64,6 +64,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp
     alt: "Joseph Roberts brings the Revenge in over the cathedral roof"
     caption: "Lexical rendering: Joseph Roberts brings the Revenge in over the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge-at-the-roof.webp
+    alt: "The Revenge at the cathedral roof as the Heir rises"
+    caption: "Lexical rendering: The Revenge at the cathedral roof as the Heir rises - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Pirate · Fleet commander · The Collector · Alive, and wanted**

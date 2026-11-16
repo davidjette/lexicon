@@ -170,6 +170,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp
     alt: "Joseph Roberts brings the Revenge in over the cathedral roof"
     caption: "Lexical rendering: Joseph Roberts brings the Revenge in over the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-window.webp
+    alt: "Gemma in the arch of the belfry as the guardians come"
+    caption: "Lexical rendering: Gemma in the arch of the belfry as the guardians come - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

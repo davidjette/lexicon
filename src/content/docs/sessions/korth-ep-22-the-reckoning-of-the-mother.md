@@ -75,8 +75,8 @@ gallery:
   alt: "Aurorix and Valtrex lock jaws over Nos Matre"
   caption: "Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother"
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
-  alt: "Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid"
-  caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
+  alt: "Dario defends Matt Matheny's people and Fema Nolan"
+  caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan - Korth Ep 22, The Reckoning of the Mother"
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp
   alt: "Eden frees her sister Esther in the hospital under the Lazaret"
   caption: "Lexical rendering: Eden frees her sister Esther in the hospital under the Lazaret - Korth Ep 22, The Reckoning of the Mother"
@@ -107,6 +107,30 @@ gallery:
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
   alt: "The valley of the Ivory Lazaret burns behind the Revenge"
   caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-closing-in.webp
+  alt: "Uriel closes on the belfry"
+  caption: "Lexical rendering: Uriel closes on the belfry - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-window.webp
+  alt: "Gemma in the arch of the belfry as the guardians come"
+  caption: "Lexical rendering: Gemma in the arch of the belfry as the guardians come - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-on-the-walk.webp
+  alt: "Eden and her units come up the walk to the Polygon"
+  caption: "Lexical rendering: Eden and her units come up the walk to the Polygon - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-novices.webp
+  alt: "Eric kneels by Aurorix among the dead novices"
+  caption: "Lexical rendering: Eric kneels by Aurorix among the dead novices - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-zombie-dragon.webp
+  alt: "Dario meets the zombie dragon on the cathedral roof"
+  caption: "Lexical rendering: Dario meets the zombie dragon on the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-valtrex-acid.webp
+  alt: "Valtrex dissolves the dead in acid"
+  caption: "Lexical rendering: Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge-at-the-roof.webp
+  alt: "The Revenge at the cathedral roof as the Heir rises"
+  caption: "Lexical rendering: The Revenge at the cathedral roof as the Heir rises - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-heir.webp
+  alt: "The Heir of Vol, grown colossal, rises beside Nos Matre"
+  caption: "Lexical rendering: The Heir of Vol, grown colossal, rises beside Nos Matre - Korth Ep 22, The Reckoning of the Mother"
 image:
   src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
   alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
@@ -211,9 +235,15 @@ The Empress closed the distance and moved right up into their faces.
 
 > *She is huge. Something about her current necromantic power has simply expanded. Her bone structure, everything is much more severe.*
 
+![Uriel closes on the belfry](/images/album/korth-ep-22-the-reckoning-of-the-mother-closing-in.webp)
+*Uriel closes on the belfry.*
+
 Her guardians washed over them. *When you're in this zone, the choir of sister voices is extreme.* She drew Mourning Dove and cut Gemma and Eric with one swing.
 
 > *The novices below begin to descend upon Aurorix. They take out these long ceremonial knives and just start stabbing him over and over again, ripping out golden scales and spilling blood all across the marble terrazzo below you.*
+
+![Gemma in the arch of the belfry as the guardians come](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-window.webp)
+*Gemma in the arch of the belfry as the guardians come.*
 
 More risen guards came up out of the soil. *You then hear the sound of eldritch blasts echoing from across Nos Matre. You see the characteristic muzzle flashes of Eberronian firearms coming up the Stairs of Her Mercy.*
 
@@ -314,6 +344,9 @@ Gemma blasted the dead off Eric from the saddle. Dario shouted *"Rum Tum, ho!"* 
 
 The troops of [Eden](/people/eden/) were there too, a little out in the open, which was unusual for them, firing up at the Polygon while the undead hordes collapsed around them.
 
+![Eden and her units come up the walk to the Polygon](/images/album/korth-ep-22-the-reckoning-of-the-mother-eden-on-the-walk.webp)
+*Eden and her units come up the walk to the Polygon.*
+
 In the rubble on the other side, the dead bore down on Eric holding ancient weapons, like Gauls, like Hittite warriors, every era of the Iron Age, as ghouls and skeletons. He stood up, revealed his holy symbol, his shield, and turned them.
 
 > *Almost all of them are instantly incinerated by the power of maths. Here's what happens. A funnel of arcane fluid surrounds you, but as the fluid compresses into a tighter and tighter cone, the interior particles of the funnel spin faster and faster. Theoretically, there is a point at which this funnel would get small enough that the acceleration of the particles in the center of the funnel would reach an infinite value. This is the Navier-Stokes hypothesis. And you in this moment have proven the Navier-Stokes hypothesis. The undead recoil at this mathematical truth, largely destroyed all around you.*
@@ -371,6 +404,9 @@ He looked over at Gemma as he said the last of it. The Empress put the scythe up
 
 On the far side of the building Eric felt the rumbling and did not know what caused it. He knelt by Aurorix, who looked as though he had been stabbed and drained of blood, and tried to spare him. It was too late for that. His guardians burned the last of the novices, one of them coiled around the dragon's tail.
 
+![Eric kneels by Aurorix among the dead novices](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-novices.webp)
+*Eric kneels by Aurorix among the dead novices.*
+
 The followers of Matheny rose up the hill and crested the position behind the Tomb of Kaius. They began to cast at the shape, *trying to understand its unholy geometry. "We must disprove this conjecture!"* With them was Fema Nolan, holding a beacon of hope over them.
 
 Zombies ran at Dario and Gemma. A zombie dragon took to the skies. A beholder zombie's rays went wide. A swarm of zombie parts shambled quickly in their direction, a huge ogre zombie lumbered behind it, and the massive clots came on surprisingly fast for their size and shape. Even Dario, who cannot be frightened, looked very scared.
@@ -406,6 +442,9 @@ Eric took a diamond and called Aurorix back from death.
 From across the roof came the horrific screech of the undead dragon and the chanting of Matheny's people, reciting their axioms. Gemma climbed onto Aurorix and fed him a potion, and he healed himself. On the roof Dario ran smack into the zombie dragon, hurt it badly, and took its breath of hellfire. Eden came through the cathedral doors, pushing past the dead in the doorway, purple-eyed and obsessed.
 
 > **Eden:** Where is my sister?
+
+![Dario meets the zombie dragon on the cathedral roof](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-zombie-dragon.webp)
+*Dario meets the zombie dragon on the cathedral roof.*
 
 She shot Gemma off the dragon's back and over the edge into the bushes below. Aurorix flew at the crowd and blew fire down on all of them. Eden walked out of it, leapt twenty feet straight up, and swung her blade at Eric on the dragon's back.
 
@@ -454,8 +493,11 @@ Eden cut him as he broke away, and he took them both down through the earth.
 
 Dario stayed above. He did not rush the Polygon. From the roof he could see Matt Matheny's people and Fema Nolan on the hillside with the dead closing on them, and he turned and flew to defend them. Valtrex, done with Aurorix, flew to their aid as well and dissolved the field of zombies in acid.
 
-![Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid](/images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp)
-*Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid.*
+![Dario defends Matt Matheny's people and Fema Nolan](/images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp)
+*Dario defends Matt Matheny's people and Fema Nolan.*
+
+![Valtrex dissolves the dead in acid](/images/album/korth-ep-22-the-reckoning-of-the-mother-valtrex-acid.webp)
+*Valtrex dissolves the dead in acid.*
 
 From there they saw Eden go down into the hospital. She was going to free her sister. Esther Crona came up out of it on her wings and flew for the crypt.
 
@@ -748,6 +790,9 @@ Large, highly sophisticated vessels of [the Hundreds](/organizations/the-hundred
 ![Joseph Roberts brings the Revenge in over the cathedral roof](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp)
 *Joseph Roberts brings the Revenge in over the cathedral roof.*
 
+![The Revenge at the cathedral roof as the Heir rises](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge-at-the-roof.webp)
+*The Revenge at the cathedral roof as the Heir rises.*
+
 Eric shouted at Valtrex to get out of there. Valtrex roared. Only then did they notice his riders: the Leonin scholar [Jelton Ahn](/people/jelton-ahn/) and [Madame Tso](/people/madame-tso-teryaki/), she wearing the [Crown of Seven Stars](/items/the-crown-of-seven-stars/). The gift of the crown had worked, after a fashion. After Valtrex killed Aurorix, he had started helping to kill the undead.
 
 Roberts reached out and helped Gemma on board, and Dario hopped on after her.
@@ -769,6 +814,9 @@ Roberts reached out and helped Gemma on board, and Dario hopped on after her.
 > **Gemma:** They're pretty cool. One of them wears shorts. You met him.
 
 > *The creature, the Heir of Vol, pushes up out of the ground. The building itself begins to buckle as this ever-growing mass of flesh begins to breach the soil and the rock. It grows to an enormous size, and it seems to be feeding directly off of the chaotic power coming from the Polygon.*
+
+![The Heir of Vol, grown colossal, rises beside Nos Matre](/images/album/korth-ep-22-the-reckoning-of-the-mother-the-heir.webp)
+*The Heir of Vol, grown colossal, rises beside Nos Matre.*
 
 The boat pulled into the courtyard. *"Get on before that dragon kills us!"* The corsairs reached down and helped the Matheny people aboard, and [Ilma Vitt](/people/ilma-vitt/), and Fema Nolan, and Eric.
 

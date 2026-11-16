@@ -38,6 +38,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-two-dragons.webp
     alt: "Aurorix and Valtrex lock jaws over Nos Matre"
     caption: "Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-novices.webp
+    alt: "Eric kneels by Aurorix among the dead novices"
+    caption: "Lexical rendering: Eric kneels by Aurorix among the dead novices - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

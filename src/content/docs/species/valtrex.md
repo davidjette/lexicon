@@ -56,8 +56,11 @@ gallery:
     alt: "Aurorix and Valtrex lock jaws over Nos Matre"
     caption: "Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother"
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
-    alt: "Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid"
-    caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
+    alt: "Dario defends Matt Matheny's people and Fema Nolan"
+    caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-valtrex-acid.webp
+    alt: "Valtrex dissolves the dead in acid"
+    caption: "Lexical rendering: Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
 ---

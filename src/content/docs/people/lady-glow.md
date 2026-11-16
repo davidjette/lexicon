@@ -44,9 +44,13 @@ wa:
   uuid: 6ee73199-4b8d-4c41-bef2-a37fec936ec1
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
 image:
-  src: /images/generated/lady-glow.webp
-  alt: "Lady Glow"
-  caption: "Lexical rendering of a hooded woman in chains standing on a stone platform in a great marble throne room."
+  src: /images/generated/lady-glow-2.webp
+  alt: "Lady Glow on stage"
+  caption: "Lexical rendering of Lady Glow on stage in Korth: the singer stands small at the stage edge beneath a vast illusion of herself, with threads of violet light rising from its wrists."
+gallery:
+  - src: /images/generated/lady-glow.webp
+    alt: "Lady Glow in chains in the throne room at Korth"
+    caption: "Lexical rendering of a hooded woman in chains standing on a stone platform in a great marble throne room."
 campaigns:
   - unforeseen
 ---

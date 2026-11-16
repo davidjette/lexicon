@@ -44,6 +44,9 @@ gallery:
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-cord.webp
   alt: "Lalo Kitsune cuts the cord"
   caption: "Lexical rendering: Lalo Kitsune cuts the cord - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-heir.webp
+  alt: "The Heir of Vol, grown colossal, rises beside Nos Matre"
+  caption: "Lexical rendering: The Heir of Vol, grown colossal, rises beside Nos Matre - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Half-dragon · Son of Uriel Qualanthri and the Crimson Sun · Born in the Sept of Bones · Last seen in the fire that destroyed the Ivory Lazaret ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**

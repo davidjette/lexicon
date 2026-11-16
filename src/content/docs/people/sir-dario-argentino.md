@@ -146,8 +146,11 @@ gallery:
   alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
   caption: "Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother"
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
-  alt: "Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid"
-  caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan while Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
+  alt: "Dario defends Matt Matheny's people and Fema Nolan"
+  caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-zombie-dragon.webp
+  alt: "Dario meets the zombie dragon on the cathedral roof"
+  caption: "Lexical rendering: Dario meets the zombie dragon on the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
