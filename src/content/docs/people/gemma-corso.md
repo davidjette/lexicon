@@ -173,6 +173,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-window.webp
     alt: "Gemma in the arch of the belfry as the guardians come"
     caption: "Lexical rendering: Gemma in the arch of the belfry as the guardians come - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-deck.webp
+    alt: "On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns"
+    caption: "Lexical rendering: On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

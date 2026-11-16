@@ -135,6 +135,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-heir.webp
     alt: The Heir of Vol, grown colossal, rises beside Nos Matre
     caption: 'Lexical rendering: The Heir of Vol, grown colossal, rises beside Nos Matre - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-deck.webp
+    alt: 'On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns'
+    caption: 'Lexical rendering: On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns - Korth Ep 22, The Reckoning of the Mother'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 22 · DM: Dave**
@@ -864,6 +867,9 @@ He told Eric that he looked good and that he liked the mustache. Eric thanked hi
 Valtrex lived to fight another infection. Somebody wondered how LeBeefe was feeling, wherever he was. Uriel had eaten one of his children.
 
 Dario slumped against the wall and wept.
+
+![On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns](/images/album/korth-ep-22-the-reckoning-of-the-mother-on-deck.webp)
+*On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns.*
 
 ## Revelations
 

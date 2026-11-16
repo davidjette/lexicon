@@ -67,6 +67,9 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge-at-the-roof.webp
     alt: "The Revenge at the cathedral roof as the Heir rises"
     caption: "Lexical rendering: The Revenge at the cathedral roof as the Heir rises - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-deck.webp
+    alt: "On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns"
+    caption: "Lexical rendering: On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns - Korth Ep 22, The Reckoning of the Mother"
 ---
 
 **Pirate · Fleet commander · The Collector · Alive, and wanted**
