@@ -1,15 +1,15 @@
 // The page: roster editing, the stepper, the log and the batch panel.
 
-import { Encounter } from '../engine/combat.js?v=mwigx9m1';
-import { AI } from '../engine/ai.js?v=mwigx9m1';
-import { DEFAULT_RULES } from '../engine/rules.js?v=mwigx9m1';
-import { switchDefaults } from '../data/encounters.js?v=mwigx9m1';
-import { PRESETS, ALL, LIBRARY, QUICK, packs } from '../data/registry.js?v=mwigx9m1';
-import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwigx9m1';
-import { PARTY } from '../data/pcs.js?v=mwigx9m1';
-import { rowsFromPreset, partyRows, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwigx9m1';
-import { PARTIES, PARTY_OF_CAMPAIGN, FOES } from '../data/quick.js?v=mwigx9m1';
-import { openInbox, setupInbox } from './inbox.js?v=mwigx9m1';
+import { Encounter } from '../engine/combat.js?v=mwjk6oid';
+import { AI } from '../engine/ai.js?v=mwjk6oid';
+import { DEFAULT_RULES } from '../engine/rules.js?v=mwjk6oid';
+import { switchDefaults } from '../data/encounters.js?v=mwjk6oid';
+import { PRESETS, ALL, LIBRARY, QUICK, packs } from '../data/registry.js?v=mwjk6oid';
+import { findPack, unlock, installTexts } from '../dm-loader.js?v=mwjk6oid';
+import { PARTY } from '../data/pcs.js?v=mwjk6oid';
+import { rowsFromPreset, partyRows, newRow, customRow, templateFor, baseTemplate, setupFromState } from '../data/build.js?v=mwjk6oid';
+import { PARTIES, PARTY_OF_CAMPAIGN, FOES } from '../data/quick.js?v=mwjk6oid';
+import { openInbox, setupInbox } from './inbox.js?v=mwjk6oid';
 
 const $ = (id) => document.getElementById(id);
 
@@ -649,10 +649,8 @@ function renderDm(error) {
   body.replaceChildren();
   document.body.classList.toggle('dm-on', packs.dm && !openSite);
   if (packs.dm && openSite) {
-    const stampEl = bar.querySelector('.dm-stamp');
-    if (stampEl) stampEl.hidden = true;
     body.append(
-      h('p', {}, h('strong', {}, 'Everything is open. '), 'The campaign is over, and every stat block and encounter from it is in the lists, the Lazaret and the finale included.'),
+      h('p', {}, 'No DM content is locked right now. When there is, it opens here with the DM passphrase.'),
       h('a', { class: 'btn small primary', href: 'tracker.html' }, 'Battle tracker'));
     return;
   }
@@ -749,7 +747,7 @@ function init() {
     renderDm();
   });
   // the wider library: characters, villains and SRD monsters
-  import('../library/index.js?v=mwigx9m1').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
+  import('../library/index.js?v=mwjk6oid').then(() => { libraryLoaded = true; renderAll(); }).catch(() => {});
   window.sim = { state, start, step, runBatch, get enc() { return enc; } };
 }
 

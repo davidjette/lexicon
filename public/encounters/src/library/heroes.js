@@ -4,15 +4,15 @@
 // Sorcerers spend their sorcery points on the Metamagic their sheet names. Class features, feats and
 // chosen options come from the feature book (data/features.js). No hand-written tactics.
 
-import { HEROES } from './heroes-data.js?v=mwigx9m1';
-import { ADDED_HEROES } from './added-heroes.js?v=mwigx9m1';
-import { melee, ranged, save, multi } from '../data/lib.js?v=mwigx9m1';
-import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mwigx9m1';
-import { avgDice } from '../engine/dice.js?v=mwigx9m1';
-import { register } from '../data/registry.js?v=mwigx9m1';
-import { featureParts, applyParts } from '../data/features.js?v=mwigx9m1';
-import { itemParts } from '../data/items.js?v=mwigx9m1';
-import { withUpdates } from './sheet-updates.js?v=mwigx9m1';
+import { HEROES } from './heroes-data.js?v=mwjk6oid';
+import { ADDED_HEROES } from './added-heroes.js?v=mwjk6oid';
+import { melee, ranged, save, multi } from '../data/lib.js?v=mwjk6oid';
+import { cast, again, reaction, knows, castBest, castHeal, castControl, castBuff, castAgain, castEscape, castQuickened, actionFirst } from '../data/spells.js?v=mwjk6oid';
+import { avgDice } from '../engine/dice.js?v=mwjk6oid';
+import { register } from '../data/registry.js?v=mwjk6oid';
+import { featureParts, applyParts } from '../data/features.js?v=mwjk6oid';
+import { itemParts } from '../data/items.js?v=mwjk6oid';
+import { withUpdates } from './sheet-updates.js?v=mwjk6oid';
 
 const foes = (E, c) => E.enemiesOf(c).filter((t) => !t.down);
 const worth = (a) => (a.toHit !== null && a.toHit !== undefined ? 0.65 : 0.6) * avgDice(a.dmg) * (a.count || 1);
