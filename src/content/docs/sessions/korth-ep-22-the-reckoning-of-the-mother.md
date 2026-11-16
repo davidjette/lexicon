@@ -26,6 +26,10 @@ tags:
   - Knell
   - Mourning Dove
   - Mace of Disruption
+image:
+  src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
+  alt: 'Dario over the fallen Empress: after the long night comes a brighter dawn'
+  caption: 'Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother'
 sidebar:
   order: 322
 type: report
@@ -41,100 +45,96 @@ published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
 gallery:
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-hill.webp
-  alt: "The dead rise out of the heather-covered hill as Uriel rings the bell"
-  caption: "Lexical rendering: The dead rise out of the heather-covered hill as Uriel rings the bell - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-circle.webp
-  alt: "Gemma calls up the circle of power on the back of Aurorix"
-  caption: "Lexical rendering: Gemma calls up the circle of power on the back of Aurorix - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-polygon.webp
-  alt: "The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it"
-  caption: "Lexical rendering: The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-her-fury.webp
-  alt: "Uriel in the air over Nos Matre, her guardians around her"
-  caption: "Lexical rendering: Uriel in the air over Nos Matre, her guardians around her - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-belfry.webp
-  alt: "Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them"
-  caption: "Lexical rendering: Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-knell.webp
-  alt: "Dario breaks the Original with Knell"
-  caption: "Lexical rendering: Dario breaks the Original with Knell - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-leap.webp
-  alt: "Eric leaps from the tower and clings to the Empress"
-  caption: "Lexical rendering: Eric leaps from the tower and clings to the Empress - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-palefire.webp
-  alt: "Palefire lights the sky as Dario strikes the Empress"
-  caption: "Lexical rendering: Palefire lights the sky as Dario strikes the Empress - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-navier-stokes.webp
-  alt: "Eric turns the risen dead and proves the Navier-Stokes hypothesis"
-  caption: "Lexical rendering: Eric turns the risen dead and proves the Navier-Stokes hypothesis - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-forecourt.webp
-  alt: "The dead in the forecourt turn to look at Gemma as the Polygon opens"
-  caption: "Lexical rendering: The dead in the forecourt turn to look at Gemma as the Polygon opens - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-two-dragons.webp
-  alt: "Aurorix and Valtrex lock jaws over Nos Matre"
-  caption: "Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
-  alt: "Dario defends Matt Matheny's people and Fema Nolan"
-  caption: "Lexical rendering: Dario defends Matt Matheny's people and Fema Nolan - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp
-  alt: "Eden frees her sister Esther in the hospital under the Lazaret"
-  caption: "Lexical rendering: Eden frees her sister Esther in the hospital under the Lazaret - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-crypt.webp
-  alt: "Gemma and Eric in the crypt before the doors of the Sept"
-  caption: "Lexical rendering: Gemma and Eric in the crypt before the doors of the Sept - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp
-  alt: "Uriel and the Heir of Vol in the Sept of Bones"
-  caption: "Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-black-fire.webp
-  alt: "The Heir of Vol breathes black fire"
-  caption: "Lexical rendering: The Heir of Vol breathes black fire - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-esther-arrives.webp
-  alt: "Esther Crona steps into the Sept of Bones"
-  caption: "Lexical rendering: Esther Crona steps into the Sept of Bones - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-feeding.webp
-  alt: "Uriel holds Esther over the Heir of Vol"
-  caption: "Lexical rendering: Uriel holds Esther over the Heir of Vol - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-cord.webp
-  alt: "Lalo Kitsune cuts the cord"
-  caption: "Lexical rendering: Lalo Kitsune cuts the cord - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
-  alt: "Eric destroys the Empress with the mace of disruption"
-  caption: "Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp
-  alt: "Joseph Roberts brings the Revenge in over the cathedral roof"
-  caption: "Lexical rendering: Joseph Roberts brings the Revenge in over the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
-  alt: "The valley of the Ivory Lazaret burns behind the Revenge"
-  caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-closing-in.webp
-  alt: "Uriel closes on the belfry"
-  caption: "Lexical rendering: Uriel closes on the belfry - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-window.webp
-  alt: "Gemma in the arch of the belfry as the guardians come"
-  caption: "Lexical rendering: Gemma in the arch of the belfry as the guardians come - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-on-the-walk.webp
-  alt: "Eden and her units come up the walk to the Polygon"
-  caption: "Lexical rendering: Eden and her units come up the walk to the Polygon - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-novices.webp
-  alt: "Eric kneels by Aurorix among the dead novices"
-  caption: "Lexical rendering: Eric kneels by Aurorix among the dead novices - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-zombie-dragon.webp
-  alt: "Dario meets the zombie dragon on the cathedral roof"
-  caption: "Lexical rendering: Dario meets the zombie dragon on the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-valtrex-acid.webp
-  alt: "Valtrex dissolves the dead in acid"
-  caption: "Lexical rendering: Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge-at-the-roof.webp
-  alt: "The Revenge at the cathedral roof as the Heir rises"
-  caption: "Lexical rendering: The Revenge at the cathedral roof as the Heir rises - Korth Ep 22, The Reckoning of the Mother"
-- src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-heir.webp
-  alt: "The Heir of Vol, grown colossal, rises beside Nos Matre"
-  caption: "Lexical rendering: The Heir of Vol, grown colossal, rises beside Nos Matre - Korth Ep 22, The Reckoning of the Mother"
-image:
-  src: /images/album/korth-ep-22-the-reckoning-of-the-mother-a-brighter-dawn.webp
-  alt: "Dario over the fallen Empress: after the long night comes a brighter dawn"
-  caption: "Lexical rendering: Dario over the fallen Empress: after the long night comes a brighter dawn - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-hill.webp
+    alt: The dead rise out of the heather-covered hill as Uriel rings the bell
+    caption: 'Lexical rendering: The dead rise out of the heather-covered hill as Uriel rings the bell - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-circle.webp
+    alt: Gemma calls up the circle of power on the back of Aurorix
+    caption: 'Lexical rendering: Gemma calls up the circle of power on the back of Aurorix - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-polygon.webp
+    alt: The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it
+    caption: 'Lexical rendering: The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-her-fury.webp
+    alt: Uriel in the air over Nos Matre, her guardians around her
+    caption: 'Lexical rendering: Uriel in the air over Nos Matre, her guardians around her - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-belfry.webp
+    alt: Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them
+    caption: 'Lexical rendering: Gemma, Eric and Dario at the top of the bell tower with Uriel closing on them - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-knell.webp
+    alt: Dario breaks the Original with Knell
+    caption: 'Lexical rendering: Dario breaks the Original with Knell - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-leap.webp
+    alt: Eric leaps from the tower and clings to the Empress
+    caption: 'Lexical rendering: Eric leaps from the tower and clings to the Empress - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-palefire.webp
+    alt: Palefire lights the sky as Dario strikes the Empress
+    caption: 'Lexical rendering: Palefire lights the sky as Dario strikes the Empress - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-navier-stokes.webp
+    alt: Eric turns the risen dead and proves the Navier-Stokes hypothesis
+    caption: 'Lexical rendering: Eric turns the risen dead and proves the Navier-Stokes hypothesis - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-forecourt.webp
+    alt: The dead in the forecourt turn to look at Gemma as the Polygon opens
+    caption: 'Lexical rendering: The dead in the forecourt turn to look at Gemma as the Polygon opens - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-two-dragons.webp
+    alt: Aurorix and Valtrex lock jaws over Nos Matre
+    caption: 'Lexical rendering: Aurorix and Valtrex lock jaws over Nos Matre - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-the-surface.webp
+    alt: Dario defends Matt Matheny's people and Fema Nolan
+    caption: 'Lexical rendering: Dario defends Matt Matheny''s people and Fema Nolan - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-and-esther.webp
+    alt: Eden frees her sister Esther in the hospital under the Lazaret
+    caption: 'Lexical rendering: Eden frees her sister Esther in the hospital under the Lazaret - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-crypt.webp
+    alt: Gemma and Eric in the crypt before the doors of the Sept
+    caption: 'Lexical rendering: Gemma and Eric in the crypt before the doors of the Sept - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-sept.webp
+    alt: Uriel and the Heir of Vol in the Sept of Bones
+    caption: 'Lexical rendering: Uriel and the Heir of Vol in the Sept of Bones - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-black-fire.webp
+    alt: The Heir of Vol breathes black fire
+    caption: 'Lexical rendering: The Heir of Vol breathes black fire - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-esther-arrives.webp
+    alt: Esther Crona steps into the Sept of Bones
+    caption: 'Lexical rendering: Esther Crona steps into the Sept of Bones - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-feeding.webp
+    alt: Uriel holds Esther over the Heir of Vol
+    caption: 'Lexical rendering: Uriel holds Esther over the Heir of Vol - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-cord.webp
+    alt: Lalo Kitsune cuts the cord
+    caption: 'Lexical rendering: Lalo Kitsune cuts the cord - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
+    alt: Eric destroys the Empress with the mace of disruption
+    caption: 'Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge.webp
+    alt: Joseph Roberts brings the Revenge in over the cathedral roof
+    caption: 'Lexical rendering: Joseph Roberts brings the Revenge in over the cathedral roof - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
+    alt: The valley of the Ivory Lazaret burns behind the Revenge
+    caption: 'Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-closing-in.webp
+    alt: Uriel closes on the belfry
+    caption: 'Lexical rendering: Uriel closes on the belfry - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-window.webp
+    alt: Gemma in the arch of the belfry as the guardians come
+    caption: 'Lexical rendering: Gemma in the arch of the belfry as the guardians come - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-eden-on-the-walk.webp
+    alt: Eden and her units come up the walk to the Polygon
+    caption: 'Lexical rendering: Eden and her units come up the walk to the Polygon - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-novices.webp
+    alt: Eric kneels by Aurorix among the dead novices
+    caption: 'Lexical rendering: Eric kneels by Aurorix among the dead novices - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-zombie-dragon.webp
+    alt: Dario meets the zombie dragon on the cathedral roof
+    caption: 'Lexical rendering: Dario meets the zombie dragon on the cathedral roof - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-valtrex-acid.webp
+    alt: Valtrex dissolves the dead in acid
+    caption: 'Lexical rendering: Valtrex dissolves the dead in acid - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-revenge-at-the-roof.webp
+    alt: The Revenge at the cathedral roof as the Heir rises
+    caption: 'Lexical rendering: The Revenge at the cathedral roof as the Heir rises - Korth Ep 22, The Reckoning of the Mother'
+  - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-heir.webp
+    alt: The Heir of Vol, grown colossal, rises beside Nos Matre
+    caption: 'Lexical rendering: The Heir of Vol, grown colossal, rises beside Nos Matre - Korth Ep 22, The Reckoning of the Mother'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 22 · DM: Dave**
@@ -604,7 +604,7 @@ The breath of the grave came after it. The Heir of Vol squealed. *It's still an 
 
 She drew strength out of her own child to mend herself. *They are tearing at each other, grabbing their hair. Esther's trying to put the sword right into Uriel's heart.* Gemma blasted the Empress back thirty feet and got behind the wall.
 
-> **Uriel:** They should have made you understand how foolish it was for you to try to have a baby yourself. They should have convinced you. You should have stayed with your oath to the Crimson Sun, his progeny. You were to be mothers together. Mothers of the same godchild. Why would you betray me? Now look upon it. We can raise it, the two of us. We can make it perfect. It can kill all our enemies. Join me. Join me.
+> **Uriel:** They should have made you understand how foolish it was for you to try to have a baby yourself. They should have convinced you. You should have stayed with your oath to the Crimson Sun, his progeny. We were to be mothers together! Mothers of the same godchild! Why would you betray me? Now look upon it. We can raise it, the two of us. We can make it perfect. It can kill all our enemies. Join me. Join me.
 
 Eric took out his wand.
 
