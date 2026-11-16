@@ -19,9 +19,9 @@ tags:
   - E'noch Qualanthri
   - Aurorix
 image:
-  src: /images/gallery/emperor-caius-iii-detail.webp
-  alt: Emperor Caius III in the dream
-  caption: An emaciated old man in rags carries a swaddled infant before a fountain, a detail of the dream image.
+  src: /images/generated/emperor-caius-iii-throne.webp
+  alt: "Emperor Kaius III on his throne at Korth, seen from behind the Unforeseen"
+  caption: "Lexical rendering of a veiled, red-eyed emperor on a golden throne with a white-haired woman in black at his side, seen from behind four silhouetted figures, as a chained woman lies prostrate on a stone platform raised from a sun carved in the floor."
 type: person
 kind: people
 icon: fa-crown
@@ -72,16 +72,6 @@ published: '2026-09-10'
 wa:
   slug: emperor-caius-iii-person
   category: 93cef6ce-0e33-4e25-91a8-92b95c5d0afb
-gallery:
-  - src: /images/album/korth-ep-21-the-summer-palace-the-emperors-bed.webp
-    alt: 'Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace'
-    caption: 'Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace'
-  - src: /images/album/korth-ep-21-the-summer-palace-the-birthing-room.webp
-    alt: 'The Emperor on his bed and Uriel in labour beside him - Korth Ep 21, The Summer Palace'
-    caption: 'The Emperor on his bed and Uriel in labour beside him - Korth Ep 21, The Summer Palace'
-  - src: /images/gallery/2026-08-10-03.webp
-    alt: Gemma's dream of the fountain
-    caption: In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
@@ -96,6 +86,9 @@ campaigns:
 ## Physical description
 
 No description of him has been recorded in ten years. The nearest thing to a description in the party's possession is a dream: [Gemma](/people/gemma-corso/)'s omen in the Korranberg dark, in which an emaciated old man bearing the Emperor's face stumbled into a marble foyer carrying an infant, blood pouring from his chest, and collapsed into a gold-lined fountain until the water ran red across the floor toward her feet. His face is on coins and statuary across a continent. What wears it has not been observed in ten years.
+
+![An emaciated old man in rags carries a swaddled infant before a fountain, a detail of the dream image.](/images/gallery/emperor-caius-iii-detail.webp)
+*An emaciated old man in rags carries a swaddled infant before a fountain, a detail of the dream image.*
 
 ## The Throne of Bones
 
@@ -173,11 +166,17 @@ In the throne room at Korth, Kaius was to tell [Esther Crona](/people/esther-cro
 
 In his throne room Kaius reminded Esther Crona of Varyn's loyalty and gave her leave to hunt down the members of the [Council of 13](/organizations/the-council-of-13/) responsible for Varyn's death. He charged her with avenging Varyn and told her that she might one day take Varyn's place.
 
+![Lexical rendering of four travellers standing in a gold and red hall before a masked, red-eyed ruler on a golden throne and a hooded figure descending the stairs.](/images/generated/episode-9-the-dig-site-throne-room-dm-nico.webp)
+*Lexical rendering of four travellers standing in a gold and red hall before a masked, red-eyed ruler on a golden throne and a hooded figure descending the stairs.*
+
 After Esther killed the Council and the Emperor took power, "he was also subdued by Uriel and made into a broodstallion". <small>(Oral Histories: The Inevitables, 2026-08-22)</small> Dave: "I think the Unforeseen got the better of him" / "after the Giants War" / "no one saw them coming". <small>(Oral Histories: The Inevitables, 2026-07-13)</small>
 
 ## The heart in the box
 
 Gemma Corso's warlock pact is not hers. Her adoptive father, Jane Corso, agreed to bring the archfey **Kitsune** *the heart of Emperor Kaius* in exchange for freedom and power. When Jane died, the pact passed to Gemma. Kitsune gave her a velvet-lined pewter heart-box for the task, and when she came out of the fey-dream her armour had been re-lined in the same velvet. She has told no one. <small>She is currently travelling to the Summer Palace on Imperial credentials.</small>
+
+![In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.](/images/gallery/2026-08-10-03.webp)
+*In a sunlit marble foyer with a golden fountain, a red-haired woman in a white gown watches a fox-headed figure in a white toga on a chaise and an emaciated old man carrying an infant. Gemma dreams of Kitsune and a bleeding old man resembling the Emperor, holding an infant.*
 
 > "Is the Emperor well enough to attend the Summit?"\
 > "They will be… present. That's all that matters."\
@@ -194,9 +193,15 @@ He was destroyed in [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/). He 
 
 In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party found him in his bedchamber in the residence, white-bearded and embalmed-looking, his chest held open with forceps and tension lines around a gold-tipped stake of petrified wood through his heart. A sister fed him blood by tube, and a tube ran from him to the Empress in labour on the next bed. Eric's fireball set the bed alight, Aurorix breathed on it, and his sisters could not put the fire out. When the party left he was black char on the burning bed with the stake still in him and his crown melting into the bedclothes. Something beneath the palace roared as he burned. <small>(Korth Ep 21)</small>
 
+![Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace](/images/album/korth-ep-21-the-summer-palace-the-emperors-bed.webp)
+*Sisters of the Blood tend Kaius III, with the rod glowing in his chest - Korth Ep 21, The Summer Palace*
+
 The fire destroyed him. A vampire with a stake through his heart cannot turn to mist, and the Emperor had no resting place to go to: the Tomb of Kaius I at Nos Matre never held him, and its inscription said as much. With the rod in him, burning his body ended him for good, and the essence of the dragon that he carried went with him. His death did not stop the Empress. The child in her womb was already his heir. *"You think killing my husband is going to stop me?"*
 
 **The rod.** The coma was a lie, and even the highest sisters believed it. Uriel staked him with a magical rod, the gold-tipped stake the party saw. It held him in torpor and left her able to breed with him, and she performed rites of sex and blood over him to conceive the heir. The rod's torpor spilled over the whole palace and its grounds: any living creature that entered fell asleep and did not wake until it was carried out, unless it was undead, of his blood or the Qualanthri blood, or anointed with the dragon's blood each Sister of the Blood puts on her brow at dawn. Pulling the rod would have ended that sleep and freed him, and freeing him would have been a mistake. He would have sat up and fed on the Empress's servants around his bed, and most likely killed whoever freed him. Fed enough, he would have taken his own shape as the Crimson Sun, a great red dragon, for a day. He was fed dragon blood through a line in his arm, and a second line carried his blood to the Empress. The ghost of [Varyn Crona](/people/varyn-crona/), bound to him in death, was hidden in the palace to stand over him if he was threatened.
+
+![The Emperor on his bed and Uriel in labour beside him - Korth Ep 21, The Summer Palace](/images/album/korth-ep-21-the-summer-palace-the-birthing-room.webp)
+*The Emperor on his bed and Uriel in labour beside him - Korth Ep 21, The Summer Palace*
 
 **Qualanthri blood** was a weakness of his. Anyone who carried it had some hold on him; Uriel, E'noch and Saturnia all carried it.
 
