@@ -368,7 +368,7 @@ He conceals, and then denies concealing, and remembers every word of it perfectl
 - **[Esther Crona](/people/esther-crona/)** — raised in the Ivory Lazaret; Eric told her that Richard Blaze had betrayed her. She was fed to the Heir of Vol in the Sept of Bones. Dead.
 - **[Aurorix](/species/aurorix/)** — the gold dragon who called him Priest of Maths. Eric revivified him over Nos Matre and then summoned his mortal enemy; Valtrex killed him. Dead.
 - **[Valtrex](/species/valtrex/)** — the black dragon freed beneath the Korramont, summoned to Nos Matre by true name for an hour's service and then freed. Alive, and last seen flying for the Korramont.
-- **Saturnia** — the Sister of the Blood he persuaded to change sides. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
+- **[Saturnia](/people/saturnia/)** — the Sister of the Blood he persuaded to change sides. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
 - **Corvan Bleek** — the sub-auditor from his Exchequer intake, among the counting-house staff at the pilgrim camp. His fate after the fight is not recorded.
 - **Renn Tal** — archivist of the Old Histories Wing; gave him the Greater Silence scroll and then took the Eye of Corruption for the city. Alive at last report.
 - **[Locke Pierce](/people/locke-pierce/)** — leader of the Hundreds; feeds Sharn and holds its sky. Alive, and the Chancellor's largest open account. A vessel of the Hundreds dropped the weapon that destroyed the valley of the Ivory Lazaret.

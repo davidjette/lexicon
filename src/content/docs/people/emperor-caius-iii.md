@@ -255,6 +255,6 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) his heir wa
 - **Master Armhair** — the loremaster who says he is a dragon. Departed for the Korramont expecting to die.
 - **Valtrex** — the black dragon his Empire chained and bled for three years, and who believes the Empress's children are his own.
 - **Aurorix** — the gold dragon bled for his potion, who fought him long ago and named him to the party.
-- **Saturnia** — a neophyte Sister of the Blood, taught to wash him.
+- **[Saturnia](/people/saturnia/)** — a neophyte Sister of the Blood, taught to wash him.
 
 **Hobbies & Pets** — Unknown. <small>The Empire keeps a black dragon in a collar under a mountain it bought.</small>

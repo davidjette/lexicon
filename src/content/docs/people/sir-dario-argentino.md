@@ -344,7 +344,7 @@ At the end of the campaign Dario was aboard Joseph Roberts's airship *Revenge*, 
 - **[Sister Maelis Dorn](/people/sister-maelis-dorn/)**, **Lus Fayina**, both **Sisters Mary Christmas** and **Sister Marshall** — the leadership of the Black Doves. Dead.
 - **Emperor Kaius III** — burned on his bed in the Summer Palace with the stake still in his heart.
 - **[Eden](/people/eden/)** — Esther's sister, whom he swore to destroy. She was under the Polygon's control in the forecourt of Nos Matre and was not seen to die.
-- **Saturnia** — the Sister of the Blood who guided them into the Summer Palace and stood between him and Drakiel. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
+- **[Saturnia](/people/saturnia/)** — the Sister of the Blood who guided them into the Summer Palace and stood between him and Drakiel. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
 - **[Donna](/people/donna/)** — the Silver Flame cleric from Zilspar, last seen on the transformation floor under Nos Matre. Her fate is not known.
 - **[Valtrex](/species/valtrex/)** — the black dragon he negotiated with in Draconic and who pulled him out of the acid with his own claw. Eric summoned him to Nos Matre, where he killed Aurorix and then turned on the undead. Alive and free, and last seen flying for the Korramont.
 - **[Madame Tso Teryaki](/people/madame-tso-teryaki/)** and **[General Tso](/people/general-tso/)** — the Teryaki matriarch and her brother. He consecrated their princess with the General. Both refused to evacuate the mountain. Madame Tso was last seen riding Valtrex away from Nos Matre with the scholar Jelton Ahn, wearing the Crown of Seven Stars.

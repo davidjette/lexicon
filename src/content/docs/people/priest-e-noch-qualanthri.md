@@ -235,7 +235,7 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the heir he
 - **[Varyn Crona](/people/varyn-crona/)** — his brother in the plan and a distant relative through the House of Vol; bound by him as the Eternal Guardian. Assassinated; his Echo destroyed at the Forge.
 - **[Emperor Kaius](/people/emperor-caius-iii/)** — the vessel he made and the vampire he turned, who craves his blood.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — his granddaughter, the Empress.
-- **Saturnia** — his granddaughter, a neophyte Sister of the Blood, who helped the party destroy him.
+- **[Saturnia](/people/saturnia/)** — his granddaughter, a neophyte Sister of the Blood, who helped the party destroy him.
 - **Lady Ophelia Qualanthri** and **Lord Lieutenant Trillo Dwyn** — his household. Destroyed with him.
 - **Aurorix** — the gold dragon he kept in the blood pool for years.
 - **[Renn Tal](/people/renn-tal/)** — the archivist who reconstructed what he did at the Forge.

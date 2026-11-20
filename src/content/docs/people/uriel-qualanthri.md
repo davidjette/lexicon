@@ -69,6 +69,7 @@ sources:
   - sources/dave/2026-10-05-uriel-white-death-image.md
   - sources/dave/2026-10-06-lazaret-flame-tomb-inscription-uriel-diamond.md
   - sources/dave/2026-11-14-end-of-campaign-release.md
+  - sources/dave/2026-11-19-saturnia-and-uriel-relationships.md
   - C:/dev/sharn-campaign/ivory-lazaret-dm.md
   - C:/dev/sharn-campaign/lazaret-expansion-2026-10-06-notes.md
 published: '2026-09-10'
@@ -280,7 +281,7 @@ Dave: "she has had many miscarriages from failed attempts but has the emperor co
 
 The dragon half of them was harvested. For three years the Empire kept the black dragon [Valtrex](/species/valtrex/) collared and bled beneath the Korramont and shipped the blood out by rail, and Valtrex, once freed, stated plainly that Uriel had used his stolen blood to sire her heirs. By his account he was their father. The gold dragon [Aurorix](/species/aurorix/), bled for years under the Lazaret, called the youngest girls his brood, because they had been made from his blood.
 
-In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party came through the daughters' hall in the Summer Palace. All the girls died there except Drakiel, who was eleven, and the baby Ysabel. Their cousin Saturnia took the two of them across the river, bound for Aerenal.
+In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/) the party came through the daughters' hall in the Summer Palace. All the girls died there except Drakiel, who was eleven, and the baby Ysabel. Their cousin [Saturnia](/people/saturnia/) took the two of them across the river, bound for Aerenal.
 
 ## The Scion
 
@@ -411,12 +412,12 @@ A rash, perverted psychopath under an austere uniform. She had a shallow underst
 - **[Emperor Kaius III](/people/emperor-caius-iii/)** — her husband, her patient and her prisoner, and the father of her children. He was the dragon Viagra in a body her grandfather had made a vampire. She held him in torpor behind a false coma for ten years. Destroyed by fire in Korth Ep 21.
 - **[The Heir of Vol](/people/the-heir-of-vol/)** — her son, carried past his time and born in the Sept of Bones on the day she died. Destroyed with the valley.
 - **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — her grandfather, and the author of the plan she was raised to carry out. Destroyed under her hospital in Korth Ep 20.
-- **Saturnia** and **Lady Ophelia Qualanthri** — her cousins. Ophelia told the party she hated her and would be Empress next, and was destroyed. Saturnia guided the party into the Summer Palace and left for Aerenal with Uriel's two surviving daughters.
+- **[Saturnia](/people/saturnia/)** and **Lady Ophelia Qualanthri** — her cousins. Ophelia told the party she hated her and would be Empress next, and was destroyed. Saturnia guided the party into the Summer Palace and left for Aerenal with Uriel's two surviving daughters.
 - **Drakiel** and **Ysabel** — her surviving daughters, last seen crossing the river with Saturnia.
-- **[Esther Crona](/people/esther-crona/)** — fellow founder of the Unforeseen, who carried Uriel’s corpse out from under Sharn and whose son Uriel delivered. Her dying command was Uriel’s death. Raised under the Lazaret, she came to the Sept of Bones to kill Uriel and died there.
+- **[Esther Crona](/people/esther-crona/)** — fellow founder of the Unforeseen, who carried Uriel’s corpse out from under Sharn and whose son Uriel delivered. The two were likely secretly in love for the whole of their friendship. After they took power over the Emperor and the armed forces, they conspired together to rule the Empire. That trust broke when Esther married and bore a male child, which made Uriel jealous. Esther’s dying command was Uriel’s death. Raised under the Lazaret, she came to the Sept of Bones to kill Uriel. They were united in the end, when Uriel fed Esther’s resurrected body to her godchild, the Heir of Vol.
 - **[Gabrielle Duin](/people/gabriel-duin/)** — her commander in the Black Doves, the Emperor’s consort before her, and the woman she killed for the bedside. Officially missing, with the blame placed on Lady Glow.
 - **[Locke Pierce](/people/locke-pierce/)** — fellow founder, then her declared enemy, who promised to use a recreation of the Mourning on the world if she rang first. A ship of his Hundreds burned her valley.
-- **[John C. LeBeefe](/people/john-c-lebeefe/)** — fellow founder. Died at Newham, though his voice was heard afterwards.
+- **[John C. LeBeefe](/people/john-c-lebeefe/)** — fellow founder, who hated her. He was partly responsible for her losing her brain to the mind flayer under Sharn. In the late Imperial years the two worked against each other and sabotaged one another’s efforts. Died at Newham, though his voice was heard afterwards.
 - **[Sister Nora](/people/sister-nora/)** — Black Dove of the Sanctum of the Last Mercy in Sharn, and widely and correctly believed to be Uriel’s eyes in that city. Executed after the Sharn rising.
 - **[Sister-Inquisitor Maelis Dorn](/people/sister-maelis-dorn/)** — Black Dove of the Light out of the Lazaret, and the only expression of Uriel’s will at the Thronehold Summit. Killed by Gemma in the Westhouse in Korth Ep 19.
 - **Sister Marshall** — her head sister. Killed beside her in the Summer Palace in Korth Ep 21.

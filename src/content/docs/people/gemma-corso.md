@@ -416,7 +416,7 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 - **[Vice Admiral Freyd Merkin](/people/vice-admiral-freyd-merkin/)** — Deirdre Moro's handler. Killed by Gemma in the Imperial Archive. Dead.
 - **[E'noch Qualanthri](/people/priest-e-noch-qualanthri/)** — Uriel's grandfather, a vampire, who knew her name. Destroyed in his coffin by the Bright Dawn.
 - **[Aurorix](/species/aurorix/)** — the gold dragon who knew her sword and carried the party to the bell. Killed by Valtrex over Nos Matre. Dead.
-- **Saturnia** — the Sister of the Blood who guided them into the Summer Palace, and whom Gemma refused to kill when Aurorix asked it. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
+- **[Saturnia](/people/saturnia/)** — the Sister of the Blood who guided them into the Summer Palace, and whom Gemma refused to kill when Aurorix asked it. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
 - **[Eden](/people/eden/)** — Esther's sister, who met Gemma on the peak believing she was Thar. She was under the Polygon's control in the forecourt of Nos Matre and was not seen to die.
 - **[Zero-One (Fema Nolan)](/people/zero-one-fema-nolan/)** — Fulcrum's leader. Taken alive by E.D.E.N. units at Zilspar and rescued from the slab room under Nos Matre. She gave Gemma her pendant. Alive; aboard the *Revenge*.
 - **Bantide Moro** — the Nightingale, sister of the woman whose face Gemma wore. Hidden in the Korth apartment at last report, officially recorded as a suicide in custody.
