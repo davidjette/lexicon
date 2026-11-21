@@ -1,9 +1,9 @@
 ---
-title: Korth Ep 23 — The Father of the Hundreds
+title: Korth Ep 23 — First Contact
 description: Locke Pierce and Andromeda Starweaver offer Eberron to the Sovereignty, Eric refuses, Gemma takes the Revenge, and a new rebellion begins in Sharn.
 tags:
   - Korth Ep 23
-  - The Father of the Hundreds
+  - First Contact
   - Locke Pierce
   - Andromeda Starweaver
   - The Sovereignty of Realms
@@ -28,6 +28,10 @@ tags:
   - Corvan Bleek
   - The Nest
   - Knell
+image:
+  src: /images/album/korth-ep-23-the-father-of-the-hundreds-mt-silicon.webp
+  alt: Locke Pierce receives the three under Mt. Silicon
+  caption: 'Lexical rendering: Locke Pierce receives the three under Mt. Silicon - Korth Ep 23, The Father of the Hundreds'
 sidebar:
   order: 323
 type: report
@@ -43,48 +47,44 @@ campaigns:
   - the-unforeseen-strike-back
   - starfall-tng
 gallery:
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-chase.webp
-  alt: "Two spelljammers of the Hundreds run down the Revenge"
-  caption: "Lexical rendering: Two spelljammers of the Hundreds run down the Revenge - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-necklace.webp
-  alt: "Gemma answers Locke Pierce's summons"
-  caption: "Lexical rendering: Gemma answers Locke Pierce's summons - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-andromeda.webp
-  alt: "Andromeda Starweaver, emissary of the Sovereignty of Realms"
-  caption: "Lexical rendering: Andromeda Starweaver, emissary of the Sovereignty of Realms - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-hyperion.webp
-  alt: "The Kalashtar girl shows Eric the Hyperion"
-  caption: "Lexical rendering: The Kalashtar girl shows Eric the Hyperion - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-zilspar.webp
-  alt: "Pierce answers for Zilspar"
-  caption: "Lexical rendering: Pierce answers for Zilspar - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-oath.webp
-  alt: "Dario holds his oath complete"
-  caption: "Lexical rendering: Dario holds his oath complete - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-moonstone.webp
-  alt: "Andromeda gives Eric a piece of Toril's moon"
-  caption: "Lexical rendering: Andromeda gives Eric a piece of Toril's moon - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-situation-room.webp
-  alt: "Eric refuses the Sovereign Council"
-  caption: "Lexical rendering: Eric refuses the Sovereign Council - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-kitsune.webp
-  alt: "Kitsune releases Gemma from her pact"
-  caption: "Lexical rendering: Kitsune releases Gemma from her pact - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-island.webp
-  alt: "The Revenge at Roberts's island"
-  caption: "Lexical rendering: The Revenge at Roberts's island - Korth Ep 23, The Father of the Hundreds"
-- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-captain.webp
-  alt: "Roberts introduces Vanessa Redwing and offers Gemma the Revenge"
-  caption: "Lexical rendering: Roberts introduces Vanessa Redwing and offers Gemma the Revenge - Korth Ep 23, The Father of the Hundreds"
-image:
-  src: /images/album/korth-ep-23-the-father-of-the-hundreds-mt-silicon.webp
-  alt: "Locke Pierce receives the three under Mt. Silicon"
-  caption: "Lexical rendering: Locke Pierce receives the three under Mt. Silicon - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-chase.webp
+    alt: Two spelljammers of the Hundreds run down the Revenge
+    caption: 'Lexical rendering: Two spelljammers of the Hundreds run down the Revenge - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-necklace.webp
+    alt: Gemma answers Locke Pierce's summons
+    caption: 'Lexical rendering: Gemma answers Locke Pierce''s summons - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-andromeda.webp
+    alt: Andromeda Starweaver, emissary of the Sovereignty of Realms
+    caption: 'Lexical rendering: Andromeda Starweaver, emissary of the Sovereignty of Realms - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-hyperion.webp
+    alt: The Kalashtar girl shows Eric the Hyperion
+    caption: 'Lexical rendering: The Kalashtar girl shows Eric the Hyperion - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-zilspar.webp
+    alt: Pierce answers for Zilspar
+    caption: 'Lexical rendering: Pierce answers for Zilspar - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-oath.webp
+    alt: Dario holds his oath complete
+    caption: 'Lexical rendering: Dario holds his oath complete - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-moonstone.webp
+    alt: Andromeda gives Eric a piece of Toril's moon
+    caption: 'Lexical rendering: Andromeda gives Eric a piece of Toril''s moon - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-situation-room.webp
+    alt: Eric refuses the Sovereign Council
+    caption: 'Lexical rendering: Eric refuses the Sovereign Council - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-kitsune.webp
+    alt: Kitsune releases Gemma from her pact
+    caption: 'Lexical rendering: Kitsune releases Gemma from her pact - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-island.webp
+    alt: The Revenge at Roberts's island
+    caption: 'Lexical rendering: The Revenge at Roberts''s island - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-captain.webp
+    alt: Roberts introduces Vanessa Redwing and offers Gemma the Revenge
+    caption: 'Lexical rendering: Roberts introduces Vanessa Redwing and offers Gemma the Revenge - Korth Ep 23, The Father of the Hundreds'
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 23 · DM: Dave**
 
-**Korth Ep 23 — The Father of the Hundreds** is the twenty-third and closing session of the Korth arc of *The Unforeseen Strikes Back* and the epilogue of the campaign, run by Dave, played on 20 November 2026. It followed straight on from [Korth Ep 22 — The Reckoning of the Mother](/sessions/korth-ep-22-the-reckoning-of-the-mother/). [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) were summoned under [Mt. Silicon](/places/mt-silicon/) by [Locke Pierce](/people/locke-pierce/), who introduced them to [Andromeda Starweaver](/people/andromeda-starweaver/), an emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). Eric refused a seat on its council and swore to kill Pierce. About a day later the three were on three different paths: Eric underground in [Sharn](/places/sharn/), Dario at his side, and Gemma in command of the *Revenge*.
+**Korth Ep 23 — First Contact** is the twenty-third and closing session of the Korth arc of *The Unforeseen Strikes Back* and the epilogue of the campaign, run by Dave, played on 20 November 2026. It followed straight on from [Korth Ep 22 — The Reckoning of the Mother](/sessions/korth-ep-22-the-reckoning-of-the-mother/). [Gemma Corso](/people/gemma-corso/), [Eric the Cleric](/people/eric-the-cleric/) and [Sir Dario Argentino](/people/sir-dario-argentino/) were summoned under [Mt. Silicon](/places/mt-silicon/) by [Locke Pierce](/people/locke-pierce/), who introduced them to [Andromeda Starweaver](/people/andromeda-starweaver/), an emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). Eric refused a seat on its council and swore to kill Pierce. About a day later the three were on three different paths: Eric underground in [Sharn](/places/sharn/), Dario at his side, and Gemma in command of the *Revenge*.
 
 The passages set in italics are the narration as it was spoken at the table.
 
