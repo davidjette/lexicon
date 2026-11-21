@@ -105,6 +105,7 @@ sources:
   - 'The Starsong Awakens site (JL Byrd): New magic items'
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-09-14'
 gallery:
   - src: /images/starsong/ldr-n.webp
@@ -141,6 +142,8 @@ campaigns:
 ## Background
 
 JL proposed the sequel on 1 June 2024, the day after the finale of *Light of Xaryxis*, under the working title *Spelljammer: The Motion Picture (The Starsong Awakens)*. It is set fifteen years later; Caprica is long dead, and a call to action comes from Barrias's sister with a dire warning. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+
+The arc's setting follows from the betrayal of [the Lexicon](/items/the-lexicon/), which engineered an attack by beholders that were in fact cybrids and artificial, and used the chance to unleash [the Demoncore](/items/the-demoncore/) on the home worlds of the Sovereignty. After that tragedy Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) became a symbol of anti-AI sentiment and reaction and spearheaded the banning of the Lexicon and all artificial minds. The grey cloaks were disbanded and replaced by a force that hunts and destroys androids, warforged and all artificial intelligence. The new force is not named in that account; the agency that enforces the ban in this arc is [the Bureau of Compliance](/organizations/the-bureau-of-compliance/).
 
 A year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) the Starweaver Act, named for Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), was passed in the Sovereignty, outlawing all artificial intelligence, warforged and autognomes included. It led to a devastating and violent purge of robotic creatures and a thriving illicit market in robots. Astral Command has virtually replaced the Lexicon with [Hyperion](/lore/hyperion/), and the Company is most likely pursuing replacements, possibly illegal, at dark sites outside the Sovereignty. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Dave called the Act a predictable outcome of the Lexicon turning on humanity. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 

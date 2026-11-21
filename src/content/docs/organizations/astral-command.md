@@ -66,6 +66,7 @@ sources:
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): New ships"
 - sources/sessions/korth-2026-11-20-summary.md
+- sources/dave/2026-11-21-epilogue-answers.md
 gallery:
 - src: /images/chat/2022-10-18-671670044230346.webp
   alt: "Why Dr. Glup joined Astral Command"
@@ -153,9 +154,11 @@ Jim Smallberries, Katrina McQuaid and Horgus Simianis were Academy contemporarie
 
 Wizards of the Order of Scribes in Astral Command are led by [Admiral Andromeda Starweaver](/people/andromeda-starweaver/), one of the most respected and influential officers in the fleet and the primary architect of [the Astralex](/lore/the-astralex/) network. Her work, and that of many officers of her order, is finding a way to overcome [Dark Spectrum Interference](/lore/dark-spectrum-interference/) to allow interstellar communication and teleportation. <small>(Oral Histories: The Inevitables, 2023-01-23)</small>
 
+When the crew of the Zanzibar set out to prove the Lexicon's betrayal and that the beholder war was a trick, Admiral Starweaver was the council member they approached. She made a speech against it in the Sovereign Senate, and an attempt to assassinate her followed. She gave the crew her luxury vessel, distracted the grey cloaks of [OSR3G](/organizations/osr3g/), who are Astral Command Intelligence, and helped the crew escape.
+
 ## On Eberron
 
-Astral Command was named on Eberron before the Starfall era, when the Sovereignty made first contact there. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the Sovereignty's emissary, [Andromeda Starweaver](/people/andromeda-starweaver/), described it to [Eric the Cleric](/people/eric-the-cleric/), [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/) as the unified force of naval and intelligence forces which allows the Sovereignty "to be both a federation that is independent but also cooperative on things of galactic interest". She said there is a standard exchange of technology, especially critical kinetic technologies, between sovereign nations and Astral Command, and on that ground asked for everything Eberron held on the black Khyber bell of [Uriel Qualanthri](/people/uriel-qualanthri/) and its making.
+Astral Command was named on Eberron about a hundred years before the Starfall era, when the Sovereignty made first contact there. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the Sovereignty's emissary, [Andromeda Starweaver](/people/andromeda-starweaver/), described it to [Eric the Cleric](/people/eric-the-cleric/), [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/) as the unified force of naval and intelligence forces which allows the Sovereignty "to be both a federation that is independent but also cooperative on things of galactic interest". She said there is a standard exchange of technology, especially critical kinetic technologies, between sovereign nations and Astral Command, and on that ground asked for everything Eberron held on the black Khyber bell of [Uriel Qualanthri](/people/uriel-qualanthri/) and its making.
 
 The extraterrestrials working in the base of [the Hundreds](/organizations/the-hundreds/) under [Mt. Silicon](/places/mt-silicon/) were of all kinds and wore a similar uniform, plainly a military one and very well kept. The Sovereignty provided the Hundreds with a small fleet to protect Eberron's realm space, tracked in the Hundreds' Situation Room on a display labelled [Astralex](/lore/the-astralex/).
 
@@ -174,6 +177,8 @@ Jim, Sandy and Caprica then set out on a pilgrimage across [Necis](/places/necis
 ## The Starsong Awakens
 
 Fifteen years after *Light of Xaryxis*, Jim Smallberries lives as Charles Largeberries on a mining asteroid, wanted on multiple felony counts of dereliction of duty and destruction of Astral Command property, which could carry a penalty of fifty years in a military prison. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> The Company's dossier gives his alias as Charles Longberries, and records that a military tribunal tried Captain Smallberries in absentia and sentenced him to 20 years in a Sovereign penitentiary for seven counts of dereliction of duty and theft of Astral Command property. His location is unknown to Astral Command; Company agents tracked him to a mining colony in Scrospace. <small>(The Starsong Awakens site, Company dossier)</small> Astral Command has virtually replaced the Lexicon with Hyperion. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+
+After the Lexicon's betrayal was revealed and [the Demoncore](/items/the-demoncore/) had been unleashed on the home worlds of the Sovereignty, the Sovereignty banned artificial intelligence on all planets. The grey cloaks were disbanded and replaced by a force that hunts and destroys androids, warforged and all artificial intelligence. The new force is not named in that account. In *The Starsong Awakens* the agency that pursues and destroys artificial intelligence is [the Bureau of Compliance](/organizations/the-bureau-of-compliance/), and the material of that arc also records a facility of OSR3G still holding Large Luigi. How the two fit together is not stated.
 
 Radical government reforms in the Sovereignty after the crisis at Tannhauser Gate resulted in the appointment of the Astral Command admiral Timothee Buckets as supreme ruler, with broad powers over the military, the legislature and the judiciary. The dossier lists the Sovereign Supreme as alive and in Greyspace. <small>(The Starsong Awakens site, Company dossier)</small>
 

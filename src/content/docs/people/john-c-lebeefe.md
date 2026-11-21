@@ -59,6 +59,7 @@ sources:
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
   - Esther Crona, as revised by Nico, 2026-10-07
   - sources/sessions/korth-2026-11-20-summary.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person
@@ -322,7 +323,7 @@ Whether LeBeefe survived in some form, left behind an echo of his consciousness,
 
 ### The Polygon
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), in the Sept of Bones, Esther Crona demanded of Uriel what would happen if the Polygon over Nos Matre were destroyed. Uriel laughed. *"Ask LeBeefe. I stole it from him."* The Polygon had been storing the power of the dead for her and carrying her will. Once it was struck it could not be controlled, and the valley was destroyed shortly afterwards.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), in the Sept of Bones, Esther Crona demanded of Uriel what would happen if the Polygon over Nos Matre were destroyed. Uriel laughed. *"Ask LeBeefe. I stole it from him."* What she stole was either his plans for the device or the object itself, and which of the two is not settled. The Polygon had been storing the power of the dead for her and carrying her will. Once it was struck it could not be controlled, and the valley was destroyed shortly afterwards.
 
 ### The same device
 

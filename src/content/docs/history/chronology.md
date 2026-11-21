@@ -55,6 +55,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2025-11-09"
 - sources/sessions/korth-2026-11-20-summary.md
+- sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-09-14'
 campaigns:
   - dead-mans-hand
@@ -87,7 +88,7 @@ In order, the eras are the deep past; Antiquity and the rise of Netheril; the fi
 
 8. **Dead Man's Hand, five hundred years after the Ages.** Dead Man's Hand opens with "500 years ago, the universe faced a Crisis." <small>(Dead Man's Hand, opening)</small> In [Sigil](/places/sigil/), [the Sororia](/organizations/the-sororia/) date the Ordo Trium to the aftermath of the Infanta Crisis, "500 years ago". <small>(DM notes)</small> In between, [Revan Darkcember](/people/revan-darkcember/) headed [Nimbus Corp](/organizations/nimbus-corp/) "until his disappearance about 200 years after the events of the campaign". <small>(Dave, sources/dave/2026-09-13-dead-mans-hand-company.md)</small> Of the emperors before the war, Dave said: "the previous line of Zanzibars resisted that for 500 years because Zanny wasn’t about to let Revan take over his part of the universe". <small>(Oral Histories: The Inevitables, 2025-11-09)</small> The campaign takes place at the beginning of the War of the Five Zanzibars, which broke out five hundred years after the founding of the Empire. <small>(Dave, sources/dave/2026-09-14-zanzibar-and-the-war.md)</small>
 
-9. **The Eberron campaigns.** The Eberron campaigns fall after Dead Man's Hand and before Starfall. <small>(See [The Infantaverse](/lore/the-infantaverse/).)</small> Within Eberron:
+9. **The Eberron campaigns.** The Eberron campaigns fall after Dead Man's Hand and before Starfall. About a hundred years lie between them and Starfall. <small>(See [The Infantaverse](/lore/the-infantaverse/).)</small> Within Eberron:
    - [The Greenbluff incident](/history/the-greenbluff-incident/), at the opening of [The Unforeseen](/organizations/the-unforeseen/), about ten years before the Inevitables and thirteen years before the fall of Sharn. <small>(Nico's DM notes, Episode 19)</small>
    - The [Leef](/places/leef/) and [Newham](/places/newham/) arc, where [the Inevitables](/organizations/the-inevitables/) formed.
    - A year between Leef and Sharn.
@@ -138,6 +139,7 @@ The same count gives "like 1860 - 1870" for the ten years in the vault <small>(O
 | Leef to Sharn | One year |
 | The Sharn arc | Weeks |
 | Sharn to Thronehold and Korth | Three years |
+| The Eberron campaigns to Starfall | About a hundred years |
 | The Ages to the spacefaring Realmspace | About 2,000 years |
 | The Ages to Starfall | About 5,000 years |
 | *Light of Xaryxis* to *The Starsong Awakens* | Fifteen years |

@@ -28,6 +28,7 @@ fields:
 sources:
   - sources/site/korth-episode-summaries.txt
   - sources/sessions/korth-2026-11-20-summary.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-11-21'
 campaigns:
   - the-unforeseen-strike-back
@@ -51,6 +52,6 @@ Among the people held at Mt. Silicon were Kalashtar orphans from Breland. After 
 
 ## The Sovereignty
 
-In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the stone Pierce had given Gemma brought the Inevitables into the base under Mt. Silicon. Pierce stood in front of them alone and without guards while the room worked around him. On the big board were red circles over the Lazaret valley and, very close to it, over Korth, and many tracked objects leaving Sharn. Andromeda Starweaver stood behind him. Extraterrestrials of many kinds worked among the Hundreds in a common, well-kept military uniform.
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the stone Pierce had given Gemma brought the Inevitables into the base under Mt. Silicon. Pierce stood in front of them alone and without guards while the room worked around him. On the big board were red circles over the Lazaret valley and, very close to it, over Korth, and many tracked objects leaving Sharn. Both places had been destroyed by the Ruby Nova. Andromeda Starweaver stood behind him. Extraterrestrials of many kinds worked among the Hundreds in a common, well-kept military uniform.
 
 The party was given an hour in the residences the base keeps for humanoids. The lanterns in the corridor then changed colour to lead them past charging stations and a shooting range to the Situation Room, where the big screen was labelled in Gnomish "[Astralex](/lore/the-astralex/)" with a version number and showed the space between Eberron and one of its moons. There Pierce named Eric as his nominee to the Sovereign Council. Eric refused, and told Pierce that he would kill him for [Zilspar](/history/the-destruction-of-zilspar-farm/). Around the room the warforged stood up and their batteries began to charge. Pierce let the three leave by the stone.

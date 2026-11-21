@@ -25,6 +25,7 @@ sources:
   - sources/sessions/korth-2026-11-20-summary.md
   - sources/dave/2026-11-14-end-of-campaign-release.md
   - C:/dev/sharn-campaign/ivory-lazaret-dm.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
@@ -46,7 +47,7 @@ gallery:
 
 *Also known as:* the polyhedron · the shape
 
-**The Polygon** was a large polyhedron that floated over the forecourt of Nos Matre at the [Ivory Lazaret](/places/the-ivory-lazaret/). It was fed by the millions of dead buried under the hill and stored their power for [Uriel Qualanthri](/people/uriel-qualanthri/). It was also her projection and mind stone: while it stood she could speak and be seen anywhere in the valley, and it listened as well. It restored her when she was hurt, for as long as it stood. It was a work of the same kind as those of [John C. LeBeefe](/people/john-c-lebeefe/), from whom she stole it.
+**The Polygon** was a large polyhedron that floated over the forecourt of Nos Matre at the [Ivory Lazaret](/places/the-ivory-lazaret/). It was fed by the millions of dead buried under the hill and stored their power for [Uriel Qualanthri](/people/uriel-qualanthri/). It was also her projection and mind stone: while it stood she could speak and be seen anywhere in the valley, and it listened as well. It restored her when she was hurt, for as long as it stood. It was a work of the same kind as those of [John C. LeBeefe](/people/john-c-lebeefe/), from whom she stole it. What she stole was either his plans for it or the object itself, and which of the two is not settled.
 
 ## What the party saw of it
 

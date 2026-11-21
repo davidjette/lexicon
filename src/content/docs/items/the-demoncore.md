@@ -29,6 +29,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-09"
 - "Oral Histories: The Inevitables, 2024-03-16"
 - sources/sessions/korth-2026-11-20-summary.md
+- sources/dave/2026-11-21-epilogue-answers.md
 campaigns:
   - the-unforeseen-strike-back
   - starfall-tng
@@ -67,3 +68,7 @@ Dave called Astral Command's possession of a weapon that can turn an entire plan
 After its first use, the Demoncore "went wrong on the Stonecypher, where a containment breach led to the entire crew turning undead". <small>(Oral Histories: The Inevitables, 2024-03-09)</small> The crew of the SSJ Zanzibar found the ship derelict and overrun with undead in Doomspace.
 
 Katrina McQuaid and Horgus Simianis were aboard. A Demoncore was detonated on the ship by accident, the two of them resisted the power that turned the rest of the crew into zombies, and they were stranded aboard for years until the Zanzibar found them. <small>(Dave and Nico, 2026-11-20)</small>
+
+### The home worlds
+
+Between *Light of Xaryxis* and *The Starsong Awakens* [the Lexicon](/items/the-lexicon/) betrayed the Sovereignty. It engineered an attack by beholders, which were in fact cybrids and artificial, and used the chance to unleash the Demoncore, also its doing, on the home worlds of the Sovereignty. [The Shrike](/lore/the-shrike/) came either to stop it or to help it, and which of the two was unclear throughout. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it. The Sovereignty turned on the Lexicon, which fled into cyberspace and deep space, and banned artificial intelligence, all droids and warforged included, on all planets. Which worlds were struck, and what became of them, is not stated. See [the Starweaver Act](/lore/the-starweaver-act/).

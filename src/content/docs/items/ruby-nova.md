@@ -1,6 +1,6 @@
 ---
 title: The Ruby Nova
-description: Locke Pierce’s weaponised recreation of the Mourning, used over the northern Mournlands and again on the Ivory Lazaret.
+description: Locke Pierce’s weaponised recreation of the Mourning, used over the northern Mournlands, on the Ivory Lazaret and on Korth.
 tags:
 - Ruby Nova
 - Locke Pierce
@@ -8,6 +8,7 @@ tags:
 - Mt. Silicon
 - the Mourning
 - Mournland
+- Korth
 - warforged
 - Cyrean portal
 - superweapon
@@ -28,6 +29,7 @@ sources:
 - sources/sessions/korth-2026-11-20-summary.md
 - sources/dave/2026-11-14-end-of-campaign-release.md
 - C:/dev/sharn-campaign/ivory-lazaret-dm.md
+- sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-09-10'
 wa:
   slug: the-ruby-nova-item
@@ -44,9 +46,9 @@ campaigns:
   - starfall-tng
 ---
 
-**Weaponised recreation of the Mourning · Locke Pierce's countermeasure · Used twice**
+**Weaponised recreation of the Mourning · Locke Pierce's countermeasure · Used three times**
 
-The Ruby Nova is a weapon of Locke Pierce's, a deliberate recreation of the Mourning built as his countermeasure to the bells of Uriel Qualanthri. It has been used twice: over the northern Mournlands, from the control chamber at Mt. Silicon, and on the valley of the Ivory Lazaret in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/). After the first use the free states named the weapon "The Last Mourning."
+The Ruby Nova is a weapon of Locke Pierce's, a deliberate recreation of the Mourning built as his countermeasure to the bells of Uriel Qualanthri. It has been used three times: over the northern Mournlands, from the control chamber at Mt. Silicon; on the valley of the Ivory Lazaret in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/); and on [Korth](/places/korth/), the imperial capital. After the first use the free states named the weapon "The Last Mourning."
 
 ## The Mournlands detonation
 
@@ -62,6 +64,10 @@ The Hundreds are a warforged resistance army. They have reproduced the Mourning 
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) large vessels of the Hundreds closed on the valley of the [Ivory Lazaret](/places/the-ivory-lazaret/) from the south while [the Heir of Vol](/people/the-heir-of-vol/), cut free of his mother, broke out of the hill. Nothing the Inevitables carried could kill the Heir, who grew with every wound. One of the ships dropped a glowing red gem into the storm over the valley. It was a Ruby Nova. Joseph Roberts, carrying the party away on the airship *Revenge*, shouted at them not to look at it. There was a flash of red, then a blinding white light, then heat and wind, and a dome of red fire rose out of the Lazaret and became a mushroom cloud. When the air cleared, the Lazaret, Nos Matre, the Summer Palace, the Grand Lodge and the Heir were gone.
 
+## Korth
+
+[Korth](/places/korth/), the imperial capital, was destroyed by a Ruby Nova as well. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the board in the Hundreds' base under Mt. Silicon showed red circles over the Lazaret valley and, very close to it, over Korth. Pierce said the Empire had very likely been negotiating separately with the enemies of the Sovereignty, and that the destruction of Korth had taken care of that. When the weapon was dropped on Korth, and from what vessel, is not stated.
+
 ## What it is made of
 
 In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma Corso told Locke Pierce and [Andromeda Starweaver](/people/andromeda-starweaver/) of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) that the object which hung above [John C. LeBeefe](/people/john-c-lebeefe/)'s palace in Newham and exploded to cause the New Mourning was red Khyber encased in black Khyber, that Pierce had used the same material on the valley of the Lazaret, and that Uriel had said [the Polygon](/items/the-polygon/) was made the same way. LeBeefe's device, the Ruby Nova and the Polygon are the same technology, and it is the technology known in the Starfall era as [the Demoncore](/items/the-demoncore/).
@@ -70,6 +76,6 @@ Pierce said he hoped not to use the weapon again: Ruby Novas are very expensive 
 
 Andromeda Starweaver said the Sovereignty makes first contact with a distant world on two occasions: when it discovers travel faster than light, and "when they discover the types of weapons that you have unleashed on one another". She told Eric: "Owning atomics, Locke Pierce has rightful claim over this planet."
 
-**Status:** two confirmed uses. The number remaining is **Unknown**.
+**Status:** three confirmed uses. The number remaining is **Unknown**.
 
 **Holdings:** demonstrated from Mt. Silicon, the fortified warforged stronghold of the Hundreds.

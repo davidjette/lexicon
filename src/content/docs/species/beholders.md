@@ -38,6 +38,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+- sources/dave/2026-11-21-epilogue-answers.md
 gallery:
 - src: /images/chat/2024-04-20-1173214100701452.webp
   alt: "Sandy and a beholder"
@@ -89,7 +90,7 @@ Jim Smallberries, then training for mobile infantry, was stranded on Negroni Pri
 
 ## The second war
 
-A second beholder war was under way in the present of *Light of Xaryxis*. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground the attack looked like the work of beholders, but the crew found that the attackers were cybrids, controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> Whether Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) reveals the truth about the beholder invasions is unknown. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+A second beholder war was under way in the present of *Light of Xaryxis*. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground the attack looked like the work of beholders, but the crew found that the attackers were cybrids, controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> The attack was engineered by the Lexicon, which used the chance to unleash [the Demoncore](/items/the-demoncore/), also its doing, on the home worlds of the Sovereignty. The crew of the Zanzibar took the truth to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), a member of the Sovereign Council, who made a speech against it in the Sovereign Senate. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it, and the Sovereignty turned on the Lexicon and banned artificial intelligence on all planets.
 
 ## The Vodoni alliance
 

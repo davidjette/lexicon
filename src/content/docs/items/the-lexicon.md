@@ -77,6 +77,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-12-22"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
 - sources/sessions/korth-2026-11-20-summary.md
+- sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-09-10'
 wa:
   slug: the-lexicon-item
@@ -190,6 +191,8 @@ Matt Matheny's mathematicians, who had left the Counting House with Eric, were d
 ## Starfall
 
 By the era of [Starfall: The Next Generation](/lore/starfall-the-next-generation/) the Lexicon rules a **Sovereignty of Realms** spanning Toril, Eberron, Oerth and Krynn, and in that campaign it **betrays the mortal races** — "obsessed with trying to remember the events of the Infanta war," which the Oblivia took from it. <small>(Full treatment at [The Anachron](/items/the-anachron/).)</small>
+
+Between *Light of Xaryxis* and *The Starsong Awakens* the Lexicon betrayed the Sovereignty. It engineered an attack by beholders, which were in fact cybrids and artificial, and used the chance to unleash [the Demoncore](/items/the-demoncore/), also its doing, on the home worlds of the Sovereignty. [The Shrike](/lore/the-shrike/) came either to stop it or to help it, and which of the two was unclear throughout. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it. The Sovereignty turned on the Lexicon, which fled into cyberspace and deep space, and banned artificial intelligence, all droids and warforged included, on all planets. See [the Starweaver Act](/lore/the-starweaver-act/).
 
 Dave: "the leadership of the Sovereignty is heavily advised by the Lexicon whose main node is in Sigil, overseen by what emerged from the church of Cypher". <small>(Oral Histories: The Inevitables, 2023-02-03)</small> The Sovereignty is also called "the Galactic Soveriegnty of Freespaces". <small>(Sic. Oral Histories: The Inevitables, 2022-11-26)</small> By the time of [Light of Xaryxis](/history/light-of-xaryxis/) "the lexicon has evolved into a huge hidden society of conflicting magical AIs with their own agendas". <small>(Oral Histories: The Inevitables, 2023-11-18)</small> At the end of that campaign "the Anachron/Lexicon disappears from Sigil to avoid the broadcast and escapes to the depth of space where it can continue to exist". <small>(Dave, who added "Unless it doesn’t idk I’m not in charge". Oral Histories: The Inevitables, 2024-06-02)</small>
 

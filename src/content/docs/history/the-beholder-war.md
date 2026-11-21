@@ -46,6 +46,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-16"
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-06-02"
+- sources/dave/2026-11-21-epilogue-answers.md
 campaigns:
   - starfall-tng
 ---
@@ -90,4 +91,4 @@ Tillamook, whom Jim believed had died at Negroni Prime, survived, and later beca
 
 ## Second Beholder War
 
-In the present of *Light of Xaryxis* a second war was under way, publicly another beholder invasion. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground its attacks looked like the work of beholders, but the party learned that the attackers were cybrids controlled by [Lexicon](/items/the-lexicon/) entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> After the end of *Light of Xaryxis* it was unknown whether Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) would reveal the truth about the beholder invasions. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+In the present of *Light of Xaryxis* a second war was under way, publicly another beholder invasion. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground its attacks looked like the work of beholders, but the party learned that the attackers were cybrids controlled by [Lexicon](/items/the-lexicon/) entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> The attack was engineered by the Lexicon, which used the chance to unleash [the Demoncore](/items/the-demoncore/), also its doing, on the home worlds of the Sovereignty. The crew of the Zanzibar took the truth to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), a member of the Sovereign Council, who made a speech against it in the Sovereign Senate. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it, and the Sovereignty turned on the Lexicon and banned artificial intelligence on all planets.

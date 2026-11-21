@@ -40,6 +40,7 @@ sources:
 - "JL's DM notes: Starfall Awakens Notes"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
 - sources/sessions/korth-2026-11-20-summary.md
+- sources/dave/2026-11-21-epilogue-answers.md
 campaigns:
   - the-unforeseen-strike-back
   - starfall-tng
@@ -61,7 +62,7 @@ Admiral Andromeda Starweaver, head of the Order of Scribes, is the primary archi
 
 ## On Eberron
 
-The name was seen on Eberron before the Starfall era. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the big screen in the Situation Room of [the Hundreds](/organizations/the-hundreds/), under [Mt. Silicon](/places/mt-silicon/), was labelled in Gnomish "Astralex", followed by a version number. It showed a map of the space between Eberron and one of its moons, with arcs, a slowly moving circle and labelled callsigns. [Locke Pierce](/people/locke-pierce/) explained it to [Eric the Cleric](/people/eric-the-cleric/): [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) had provided a small fleet to protect Eberron's realm space, the Hundreds had learned to fly the ships, and the thing that really operated them was [the Lexicon](/items/the-lexicon/).
+The name was seen on Eberron about a hundred years before the Starfall era. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the big screen in the Situation Room of [the Hundreds](/organizations/the-hundreds/), under [Mt. Silicon](/places/mt-silicon/), was labelled in Gnomish "Astralex", followed by a version number. It showed a map of the space between Eberron and one of its moons, with arcs, a slowly moving circle and labelled callsigns. [Locke Pierce](/people/locke-pierce/) explained it to [Eric the Cleric](/people/eric-the-cleric/): [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) had provided a small fleet to protect Eberron's realm space, the Hundreds had learned to fly the ships, and the thing that really operated them was [the Lexicon](/items/the-lexicon/).
 
 ## Aboard the Zanzibar
 

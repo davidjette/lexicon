@@ -41,6 +41,7 @@ sources:
 - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
 - worldanvil/CANON.md
 - sources/sessions/korth-2026-11-20-summary.md
+- sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-09-10'
 wa:
   slug: warforged-species
@@ -91,6 +92,8 @@ When Sharn rose, the Hundreds came. They filled the sky alongside the Nest, Leef
 
 In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the Hundreds flew two huge old spelljammers after the *Revenge*, and under [Mt. Silicon](/places/mt-silicon/) personnel of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) worked alongside them. The Sovereignty's emissary, [Andromeda Starweaver](/people/andromeda-starweaver/), said that when its ships reached Eberron they met the Hundreds, and that it had agreed with Locke Pierce, "the father of the Hundreds", that Eberron would become a sovereign realm. The Sovereignty gave the Hundreds a small fleet for the space between Eberron and its moon, operated by [the Lexicon](/items/the-lexicon/). At last report the Hundreds held nearly all military power in Sharn and its airspace, and the warforged were well represented in the Cogs.
 
+About a hundred years later, in the Starfall era, the Sovereignty banned artificial intelligence on all its planets after the betrayal of the Lexicon, all droids and warforged included. See [the Starweaver Act](/lore/the-starweaver-act/).
+
 ## A spontaneous intelligence
 
 In the same episode the scholars among Matt Matheny's followers, told of the Lexicon, said that many of them had theorized in their own studies that such a device was possible and that the warforged themselves were a kind of spontaneous artificial intelligence. Others among them saw a threat in it: that mortals who cede their mathematics to such devices will lose the ability and become subservient to them.
@@ -117,6 +120,6 @@ The Empire has studied its own creations. After the incident at the Rekkenmark, 
 
 **Holdings:** **Mt. Silicon**, the fortified stronghold of the Hundreds in the Glass Plateau · **Gorgonhorn**, the Cogborn-Warforged settlement on the western border of the Mournland · the Cogs beneath Sharn, formerly · the sub-transit tunnels of the undercity, as RUST.
 
-**Items:** **RUST communication necklaces**, given by Locke Pierce to the Inevitables after the Cogborn evacuation · **air-bubble breathing devices** for the Mournland mist, inscribed in ancient gnomish *Interplanetary Association of Lexical Engineers* · **the Ruby Nova**, a weaponised recreation of the Mourning, demonstrated once.
+**Items:** **RUST communication necklaces**, given by Locke Pierce to the Inevitables after the Cogborn evacuation · **air-bubble breathing devices** for the Mournland mist, inscribed in ancient gnomish *Interplanetary Association of Lexical Engineers* · **the Ruby Nova**, a weaponised recreation of the Mourning, demonstrated over the Mournlands and used on the valley of the Ivory Lazaret and on Korth.
 
 > "Stop Uriel before she rings the bells. If you fail, I will end this world before she can, and only my kind will survive it." — Locke Pierce, at Mt. Silicon

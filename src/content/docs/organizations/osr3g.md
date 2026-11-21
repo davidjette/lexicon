@@ -35,6 +35,7 @@ sources:
 - Desktop/D&D/Starfall TNG/sydiot_97396464.pdf
 - "Oral Histories: The Inevitables, 2024-05-03"
 - "Oral Histories: The Inevitables, 2024-06-01"
+- sources/dave/2026-11-21-epilogue-answers.md
 image:
   src: /images/generated/osr3g.webp
   alt: "OSR3G, the grey cloaks"
@@ -64,3 +65,9 @@ In November 2023 the crew of the SSJ Zanzibar learned that parts of [the Lexicon
 Fifteen years after *Light of Xaryxis*, Large Luigi, known only as prisoner LL849, has spent those years in a high-security OSRIIIG facility awaiting trial for treason and crimes against the Sovereignty. The Sovereignty officially disavows all knowledge of his whereabouts. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 
 The notes of [Umwelt](/people/umwelt/), a devotee of the Red Eye, include the words "necis" and "secured by OSRIIG". <small>(character sheet)</small>
+
+## Disbanding
+
+The grey cloaks are Astral Command Intelligence. When the crew of the SSJ Zanzibar brought the truth of the Lexicon's betrayal to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), she gave them her vessel, distracted the grey cloaks and helped the crew escape.
+
+After [the Demoncore](/items/the-demoncore/) was unleashed on the home worlds of the Sovereignty, the grey cloaks were disbanded and replaced by a force that hunts and destroys androids, warforged and all artificial intelligence. The new force is not named in that account, and when the disbanding took place is not stated. In *The Starsong Awakens* the agency that pursues and destroys artificial intelligence is [the Bureau of Compliance](/organizations/the-bureau-of-compliance/). The material of that arc also has Large Luigi held in an OSRIIIG facility fifteen years after *Light of Xaryxis*, as described above. How the two accounts fit together is not stated.

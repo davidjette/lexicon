@@ -39,6 +39,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-07-06'
   - 'Oral Histories: The Inevitables, 2026-08-12'
   - sources/sessions/korth-2026-11-20-summary.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 published: '2026-09-10'
 wa:
   slug: korth-location
@@ -131,7 +132,7 @@ During the Korth arc three operatives of the Inevitables lived in a dead advocat
 
 The valley of the Ivory Lazaret was destroyed in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), and at last count ten bells remained.
 
-Korth was destroyed with it. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the board in the Hundreds' base under [Mt. Silicon](/places/mt-silicon/) showed red circles over the Lazaret valley and, very close to it, over Korth. Locke Pierce said the Empire had very likely been aware of extraterrestrials and had been negotiating separately with the enemies of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), and that the destruction of Korth had taken care of that. He called the loss of its libraries unfortunate: they were very valuable, and the Hundreds had worked hard to try to reach them. [Renn Tal](/people/renn-tal/), the new Chancellor of Sharn, spoke on the broadcast of "what has happened in Korth and the Lazaret" and of thousands dead.
+Korth was destroyed with it, by a [Ruby Nova](/items/ruby-nova/). In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the board in the Hundreds' base under [Mt. Silicon](/places/mt-silicon/) showed red circles over the Lazaret valley and, very close to it, over Korth. Locke Pierce said the Empire had very likely been aware of extraterrestrials and had been negotiating separately with the enemies of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), and that the destruction of Korth had taken care of that. He called the loss of its libraries unfortunate: they were very valuable, and the Hundreds had worked hard to try to reach them. [Renn Tal](/people/renn-tal/), the new Chancellor of Sharn, spoke on the broadcast of "what has happened in Korth and the Lazaret" and of thousands dead.
 
 **Places of Interest:**
 
