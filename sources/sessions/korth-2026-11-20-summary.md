@@ -1,6 +1,6 @@
 # Episode 22: The Father of the Hundreds
 
-*Played 2026-11-20 (Zoom, about five hours of recording). Transcripts: `session-2026-11-20-epilogue.transcript.txt` and `-timestamped.txt`. In the Lexicon's numbering this is Korth Ep 23. Gemma (Nico) and Eric (Jeff) played; Dave ran Dario and every NPC. Voiceprint attribution was not run for this session: the transcript has no speaker labels, and quoted lines are attributed by context only. Where the speaker is not clear the line is paraphrased. Off-topic table talk is left out.*
+*Played 2026-11-20 (Zoom, about five hours of recording). Transcripts: `session-2026-11-20-epilogue.transcript.txt` and `-timestamped.txt`. In the Lexicon's numbering this is Korth Ep 23. Gemma (Nico) and Eric (Jeff) played; Dave ran Dario and every NPC. Voiceprint attribution was run on 2026-11-21 and the speakers checked against `session-2026-11-20-epilogue.transcript-speakers.txt`; five passages the voiceprints could not settle are attributed by context.*
 
 This is the epilogue of "The Unforeseen Strike Back". It opens minutes after the last session ended, with the *Revenge* above the storm, and it ends about a day later with the three characters on three different paths.
 
@@ -62,11 +62,11 @@ Sharn full of zombies under Uriel's control, he says, would have been a necessar
 
 > **Locke Pierce:** I think that in this room, we're going to decide the future of Eberron.
 
-Asked whether that means more experiments with the Ruby Nova, he says he hopes not: they are very expensive to make and very harmful to the environment. He wants to seize the moment before someone slips into the power vacuum and installs themselves as emperor.
+Asked whether that means more experiments with the Ruby Nova, he says he hopes not: they are very expensive to make and very harmful to the environment. Eric says it is essential to seize the moment before someone else slips into the power vacuum and installs themselves as emperor.
 
-> **Locke Pierce:** The empire is dead. We must keep it that way.
+> **Eric:** The empire is dead. We must keep it that way.
 
-The question of living heirs comes up. The party answers that there are none they know of and that they took care of all of Uriel's daughters. Eric rolls Deception without *guidance* and gets 17. The result was not announced. Pierce's side says it is aware of at least one serious contender for the throne, and then that it thinks that world is gone.
+Pierce asks whether there are any living heirs to the throne. Eric answers that there are none they know of and that they took care of all of Uriel's daughters. Eric rolls Deception without *guidance* and gets 17. The result was not announced. Pierce's side says it is aware of at least one serious contender for the throne, and then that it thinks that world is gone.
 
 ## Andromeda Starweaver
 
@@ -100,7 +100,9 @@ Eric feels as if he has lived a second life. He sees what she has learned of the
 
 Pierce's condition is that Eric and his friends from the Counting House work with him for a time.
 
-> **Locke Pierce:** There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever. It must be understood. It's a thing of divine creation.
+> **Locke Pierce:** There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever.
+>
+> **Eric:** It must be understood. It's a thing of divine creation.
 
 Andromeda says that request is his. She calls it reasonable and a common fear of obsolescence, and adds that the Lexicon has already calculated their next move and folded it into its superposition of likely outcomes. Her own request is different. She leans in close.
 
@@ -206,9 +208,11 @@ The people at the terminals look up. Andromeda starts to speak and Pierce cuts a
 
 He nods at Gemma's stone, which now shows a go button.
 
-> **Locke Pierce:** You're free to leave. Chancellor, what you've done for Eberron will live in legend forever. And I won't be forgetting what you've done either.
+> **Locke Pierce:** You're free to leave. Chancellor, what you've done for Eberron will live in legend forever.
+>
+> **Eric:** And I won't be forgetting what you've done either.
 
-Around the room warforged are standing up and their batteries are starting to charge. Dave offered initiative. Gemma pushes the button.
+Around the room warforged are standing up and their batteries are starting to charge. Dave offered initiative. Eric pushes the button.
 
 ## Back aboard the *Revenge*
 
@@ -271,7 +275,7 @@ Roberts gives her the crash course. He took over by trading disguises with his p
 - command of the guild: a commodore's fleet under his flag, ships, hideouts, contacts, small pools of money and lines of credit, and the island;
 - his network of portals. The one in the library of the Lodge, which he sold, was how goods and fleeing Imperials got out of the Lazaret, where teleporting was impossible. There are others across the continent.
 
-Her first mate and bosun is **Stanley Green Jeans**, named at the table, who keeps the ship in order while she is away. Asked what the Roberts who met the Unforeseen looked like, he blows his nose in a magical handkerchief and becomes a man she has never seen, and does the voice: an arrogant man who loved to drive the knife in when he had people cornered.
+Her first mate and bosun is **Stanley Green Jeans**, named at the table, who keeps the ship in order while she is away. Asked what the Roberts who met the Unforeseen looked like, Roberts blows his nose in a magical handkerchief and becomes a man she has never seen, and does the voice: an arrogant man who loved to drive the knife in when he had people cornered.
 
 The stone from Pierce broke and partly dissolved after it brought them back. Gemma sets another sending stone to Green Jeans. Roberts advises keeping the *Revenge* far from anything the Hundreds care about for a while.
 

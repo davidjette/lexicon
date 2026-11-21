@@ -174,11 +174,11 @@ A Sharn full of the dead under [Uriel](/people/uriel-qualanthri/)'s control, he 
 
 > **Locke Pierce:** I think that in this room, we're going to decide the future of Eberron.
 
-Asked whether that meant more experiments with the Ruby Nova, he said he hoped there would be none: the weapons were very expensive to make and very harmful to the environment. He wanted to seize the moment before someone slipped into the vacuum of power and installed themselves as emperor.
+Asked whether that meant more experiments with the Ruby Nova, he said he hoped there would be none: the weapons were very expensive to make and very harmful to the environment. Eric said it was essential to seize the moment before someone else slipped into the vacuum of power and installed themselves as emperor.
 
-> **Locke Pierce:** The empire is dead. We must keep it that way.
+> **Eric:** The empire is dead. We must keep it that way.
 
-The question of living heirs came up. The party answered that there were none they knew of and that they had taken care of all of Uriel's daughters. Pierce's side said it was aware of at least one serious contender for the throne, and then that it thought that world was gone.
+Pierce asked whether there were any living heirs to the throne. Eric answered that there were none they knew of and that they had taken care of all of Uriel's daughters. Pierce's side said it was aware of at least one serious contender for the throne, and then that it thought that world was gone.
 
 ### Andromeda Starweaver
 
@@ -222,7 +222,9 @@ He also saw her own life. She had been a girl in Breland, adopted, diagnosed wit
 
 Pierce's condition was that Eric and his friends from the Counting House work with him for a time.
 
-> **Locke Pierce:** There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever. It must be understood. It's a thing of divine creation.
+> **Locke Pierce:** There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever.
+>
+> **Eric:** It must be understood. It's a thing of divine creation.
 
 Andromeda said that request was his. She called it reasonable and a common fear of obsolescence, and told them they would soon find that the Lexicon had already calculated their next move and folded it into its superposition of likely outcomes. Her own request was different, and she leaned in close to make it.
 
@@ -354,9 +356,11 @@ The people at the terminals looked up. Andromeda started to speak, and Pierce cu
 
 He nodded at Gemma's stone, which now showed a button marked go.
 
-> **Locke Pierce:** You're free to leave. Chancellor, what you've done for Eberron will live in legend forever. And I won't be forgetting what you've done either.
+> **Locke Pierce:** You're free to leave. Chancellor, what you've done for Eberron will live in legend forever.
+>
+> **Eric:** And I won't be forgetting what you've done either.
 
-Around the room warforged were standing up, and their batteries could be heard starting to charge. Gemma pushed the button.
+Around the room warforged were standing up, and their batteries could be heard starting to charge. Eric pushed the button.
 
 ### Back aboard the Revenge
 
@@ -433,7 +437,7 @@ Roberts gave her the crash course. He had taken over by trading disguises with h
 
 Gemma received the *Revenge*. She received the ledger of the Grand Lodge, with all his dealings, including the orc coin from sales of salvage and war material. Obtaining it had been her mission as Deirdre Moro, and that mission was now complete. She received command of the guild: a commodore's fleet under his flag, ships, hideouts, contacts, small pools of money and lines of credit, and the island. And she received his network of portals. The one in the library of the Lodge was how goods and fleeing Imperials had left the Lazaret, where teleporting was impossible. There are others across the continent.
 
-Her first mate and bosun was Stanley Green Jeans, who keeps the ship in order while its captain is away. Asked what the Roberts who met [the Unforeseen](/organizations/the-unforeseen/) looked like, he blew his nose in a magical handkerchief and became a man she had never seen, and did the voice of an arrogant man who loved to drive the knife in when he had people cornered.
+Her first mate and bosun was Stanley Green Jeans, who keeps the ship in order while its captain is away. Asked what the Roberts who met [the Unforeseen](/organizations/the-unforeseen/) looked like, Roberts blew his nose in a magical handkerchief and became a man she had never seen, and did the voice of an arrogant man who loved to drive the knife in when he had people cornered.
 
 The stone from Pierce had broken and partly dissolved after it brought them back. Gemma set another sending stone to Green Jeans. Roberts advised her to keep the *Revenge* far from anything the Hundreds cared about for a while.
 

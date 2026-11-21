@@ -205,15 +205,15 @@ The stone brought Gemma, Eric and Dario into the Hundreds' base under [Mt. Silic
 
 > I gotta congratulate you. Very good work. You slew the bitch, and as a result, likely staved off that thing's development long enough for us to get a good shot. And because the bells started going off, everyone understands why we had to do it. That's good for us. I was worried about that. I'm also glad that you were smart enough to destroy the bells in Sharn.
 
-He said that Sharn full of zombies under Uriel's control would have been a necessary target, that he hoped not to use the Ruby Nova again because the weapons are very expensive to make and very harmful to the environment, and that he meant to act before someone installed themselves as emperor: "The empire is dead. We must keep it that way." He said: "I think that in this room, we're going to decide the future of Eberron."
+He said that Sharn full of zombies under Uriel's control would have been a necessary target, and that he hoped not to use the Ruby Nova again because the weapons are very expensive to make and very harmful to the environment. Eric said the moment had to be seized before someone installed themselves as emperor: "The empire is dead. We must keep it that way." Pierce said: "I think that in this room, we're going to decide the future of Eberron."
 
 **The Sovereignty.** With him was [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), whose people worked inside the base alongside the Hundreds. Her diviners had seen the Mourning from across the stars, and when their ships reached Eberron they met the Hundreds. She called Pierce "the father of the Hundreds" and said the two had already agreed that Eberron would become a sovereign realm, abide by the laws of the Sovereignty and live under its protection. She told Eric: "Owning atomics, Locke Pierce has rightful claim over this planet." She said he had pledged to submit to the Sovereignty's laws and to grant Sharn and its region autonomy. Pierce said the Empire had very likely been aware of extraterrestrials and had been negotiating separately with the Sovereignty's enemies, and that the destruction of Korth had taken care of that, though its libraries were valuable and the Hundreds had worked hard to reach them. He said the fruit the Hundreds fed to Sharn was a species Andromeda had brought, from a world pelted by meteors and whole planetoids of red Khyber, where the plants survive such explosions.
 
 **The Lexicon.** Pierce's own condition was that Eric and his friends from the Counting House work with him for a time on [the Lexicon](/items/the-lexicon/), the oracle that advises the Sovereignty:
 
-> There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever. It must be understood. It's a thing of divine creation.
+> There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever.
 
-His offer was that Eric submit Sharn to governance by the Sovereignty in interplanetary affairs, turn over everything he had on the bell to Pierce and Andromeda, and join him in a secret project to implement the Lexicon on the Hundreds' own equipment. Gemma could go free wherever she liked so long as she caused no problems. To Dario he said: "Dario, uh, listen. I don't have much for you, except you look really cool."
+Eric answered: "It must be understood. It's a thing of divine creation." Pierce's offer was that Eric submit Sharn to governance by the Sovereignty in interplanetary affairs, turn over everything he had on the bell to Pierce and Andromeda, and join him in a secret project to implement the Lexicon on the Hundreds' own equipment. Gemma could go free wherever she liked so long as she caused no problems. To Dario he said: "Dario, uh, listen. I don't have much for you, except you look really cool."
 
 **Zilspar.** Gemma asked him outright whether he knew anything about the attack on Zilspar Farm. He answered: "The fog of war is real, but it's also a convenience. It's a convenience for the survivors who must live in the world that remains. What happened at Zilspar must be seen through the fog of war." Gemma judged that he was lying about knowing nothing. Pressed by Eric, he answered at length:
 
@@ -231,9 +231,9 @@ He called Fulcrum a great asset for as long as it lived, and went on:
 
 Eric refused: "I don't think I wish to be a part of your new murderous empire. I think I wish to leave this place. And the next time I see you, Locke Pierce, I will kill you for Zilspar." Pierce answered, "Understood," and let them go:
 
-> You're free to leave. Chancellor, what you've done for Eberron will live in legend forever. And I won't be forgetting what you've done either.
+> You're free to leave. Chancellor, what you've done for Eberron will live in legend forever.
 
-Afterwards [Renn Tal](/people/renn-tal/), as the new Chancellor of Sharn, announced Eric's death on the broadcast and welcomed Pierce and Andromeda Starweaver. Pierce nodded and stepped back for Andromeda to speak.
+Eric replied: "And I won't be forgetting what you've done either." Afterwards [Renn Tal](/people/renn-tal/), as the new Chancellor of Sharn, announced Eric's death on the broadcast and welcomed Pierce and Andromeda Starweaver. Pierce nodded and stepped back for Andromeda to speak.
 
 ## Fate
 

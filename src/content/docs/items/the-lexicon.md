@@ -178,9 +178,9 @@ On Eberron, before the Starfall era, [Eric the Cleric](/people/eric-the-cleric/)
 
 Under [Mt. Silicon](/places/mt-silicon/), Eric was shown [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) through [Hyperion](/lore/hyperion/): a network of worlds led by a sovereign council, "all advised by a great oracle that they refer to as the Lexicon." Pierce asked for Eric and the mathematicians of the Counting House:
 
-> There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever. It must be understood. It's a thing of divine creation.
+> There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever.
 
-He proposed a secret project to implement the Lexicon on the Hundreds' own equipment. [Andromeda Starweaver](/people/andromeda-starweaver/), the Sovereignty's emissary, called his concern a common fear of obsolescence and told the party that the Lexicon "has already calculated your next move" and incorporated it "into its superposition of likely outcomes." Of her home on Toril she said:
+Eric answered: "It must be understood. It's a thing of divine creation." Pierce proposed a secret project to implement the Lexicon on the Hundreds' own equipment. [Andromeda Starweaver](/people/andromeda-starweaver/), the Sovereignty's emissary, called his concern a common fear of obsolescence and told the party that the Lexicon "has already calculated your next move" and incorporated it "into its superposition of likely outcomes." Of her home on Toril she said:
 
 > We live under the certainty provided by the Lexicon. It is not our ruler. It is a prediction of the future, perhaps a record of the past, and it has a mind, but it is helpful and it is our friend. I think that you would like to get to know it.
 
