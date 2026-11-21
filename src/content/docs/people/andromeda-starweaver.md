@@ -70,6 +70,12 @@ gallery:
 - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-moonstone.webp
   alt: "Andromeda gives Eric a piece of Toril's moon"
   caption: "Lexical rendering: Andromeda gives Eric a piece of Toril's moon - Korth Ep 23, The Father of the Hundreds"
+- src: /images/album/andromeda-starweaver-on-eberron-portrait.webp
+  alt: "Andromeda Starweaver on Eberron"
+  caption: "Lexical rendering: Andromeda Starweaver as the emissary of the Sovereignty of Realms on Eberron, in a white coat lined in blue with a brass pauldron, her hands on a lantern staff."
+- src: /images/album/andromeda-starweaver-on-eberron-model-sheet.webp
+  alt: "Andromeda Starweaver model sheet"
+  caption: "Lexical rendering: a model sheet of Andromeda Starweaver as she appeared on Eberron, seen from the front, in three-quarter view, from the side and from the back."
 campaigns:
   - the-unforeseen-strike-back
   - starfall-tng
@@ -84,6 +90,9 @@ campaigns:
 ## On Eberron
 
 Andromeda Starweaver came to Eberron as the emissary of the Sovereignty of Realms, in the time of [the Inevitables](/organizations/the-inevitables/) and before the Starfall era. She comes from Toril and sits on the Sovereign Council. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), on the day the [Ivory Lazaret](/places/the-ivory-lazaret/) was destroyed, she stood behind Locke Pierce in the base of [the Hundreds](/organizations/the-hundreds/) under Mt. Silicon when he received [Eric the Cleric](/people/eric-the-cleric/), [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/).
+
+![Andromeda Starweaver on Eberron](/images/album/andromeda-starweaver-on-eberron-portrait.webp)
+*Andromeda Starweaver as the emissary of the Sovereignty of Realms on Eberron, in a white coat lined in blue with a brass pauldron, her hands on a lantern staff.*
 
 ### Appearance
 
