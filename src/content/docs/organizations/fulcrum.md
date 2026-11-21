@@ -31,6 +31,7 @@ sources:
   - sources/site/sharn-episode-summaries.txt
   - sources/site/korth-episode-summaries.txt
   - worldanvil/CANON.md
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: fulcrum-organization
@@ -75,8 +76,12 @@ Three years after Sharn, in a dead advocate's apartment in Korth, a woman record
 
 Zilspar Farm was burned with people boarded up inside. Eight Eden units were still standing in the tower field when the Inevitables landed. There was no sign of Zero-One, Izaak, [Donna](/people/donna/) or Grady Marsh.
 
+## LOCKE PIERCE'S ADMISSION
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Locke Pierce](/people/locke-pierce/) told the Inevitables, under [Mt. Silicon](/places/mt-silicon/), that Fulcrum had been a great asset for as long as it lived. He said that after he saw their broadcast from Thronehold he could not allow such a destabilizing force to continue, and that "tipping off the Empire to the location of a handful of Fulcrum agents to close out a long chapter of mutual spying and general lawlessness is a natural end of such things." Zero-One, Izaak and Bantide Moro were alive at the end of the campaign, in the Nest at Sharn with Eric the Cleric. See [the rolling-up of Fulcrum](/lore/the-rolling-up-of-fulcrum/).
+
 > "I've seen her whisper to it. I've seen it change her. That sword is a chain around her neck. A ghost she can't escape." — Richard Blaze, on Esther Crona and Varyn's sword
 
-**Known members:** Zero-One (Fema Nolan), leader · Digma Beeve, founder, now Comptroller of [the Republic of Talenta](/organizations/the-republic-of-talenta/) · Richard Blaze, hidden founder · John Stamos, founder, deceased · [Izaak](/people/izaak/), missing · Donna, cleric of Zilspar Farm 02 · Bantide Moro, the Nightingale, the rebellion's surgeon, who worked for Izaak for twenty years.
+**Known members:** Zero-One (Fema Nolan), leader · Digma Beeve, founder, now Comptroller of [the Republic of Talenta](/organizations/the-republic-of-talenta/) · Richard Blaze, hidden founder · John Stamos, founder, deceased · [Izaak](/people/izaak/), alive at the end of the campaign · Donna, cleric of Zilspar Farm 02 · Bantide Moro, the Nightingale, the rebellion's surgeon, who worked for Izaak for twenty years.
 
 **Holdings:** Zilspar Farm 02 and the Zilspar farmsteads (destroyed); the Vilspar Farm-Table Co-operative delivery cover; a teleportation circle and a Private Sanctum cell beneath the farm.

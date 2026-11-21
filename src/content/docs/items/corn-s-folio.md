@@ -36,6 +36,7 @@ sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
 - handouts/caius-foundry-manifest.md
 - current-state.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: corn26230393Bs-folio-document
@@ -111,3 +112,5 @@ The Trust also burned its own dockets nightly on a brazier kept at the gate for 
 ## Fate
 
 The folio went to Korth with the party, under Imperial cover, alongside Knell and the horn. Bofric, the only person known to read Corn's shorthand, had left the mountain. Roughly one section of the book had been translated when the campaign ended. The rest of it was still, functionally, the Empire's manufacturing secret sitting in a rebel's bag.
+
+Eric drank a counting-house study aid at the Ivory Lazaret to read the folio, and remembered it. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), under [Mt. Silicon](/places/mt-silicon/), [Andromeda Starweaver](/people/andromeda-starweaver/) of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) told the Inevitables that any material they had on the black Khyber bell and its creation would be of tremendous value to the Sovereignty, and Locke Pierce made the surrender of it a condition of his offer to Eric. Neither knew of the folio or of the notes from Deeptempura. Eric refused the offer and proposed destroying every document about the bells in Sharn. The folio's knowledge went with him into hiding at the Nest. <small>(Korth Ep 23)</small>

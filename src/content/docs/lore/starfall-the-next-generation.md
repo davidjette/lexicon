@@ -114,6 +114,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-04-04'
   - 'Oral Histories: The Inevitables, 2025-05-23'
   - 'The Starsong Awakens site (JL Byrd): Home'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: starfall3A-the-next-generation-article
@@ -149,6 +150,8 @@ In November 2022 Dave described the setting as joining all of the group's campai
 ### The Sovereignty of Realms
 
 By the Starfall era the Lexicon rules a **Sovereignty of Realms** spanning four worlds: **Toril**, **Eberron**, **Oerth** and **Krynn**. The approach to it is visible from the Eberron side of the timeline, where Eberron is on the verge of first contact with an interplanar civilisation from Toril "largely led by the Lexicon and its many allies and instruments." By Starfall that contact has happened.
+
+First contact came at the end of the Eberron campaign The Unforeseen Strike Back, in [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/). The Sovereignty's diviners had seen Eberron's star glow red in [the Mourning](/history/the-mourning/) and sent ships, which met [the Hundreds](/organizations/the-hundreds/). Its emissary was [Andromeda Starweaver](/people/andromeda-starweaver/), the admiral of the Starfall era, who agreed with [Locke Pierce](/people/locke-pierce/) under [Mt. Silicon](/places/mt-silicon/) that Eberron would become a sovereign realm. [Astral Command](/organizations/astral-command/), [the Astralex](/lore/the-astralex/), the Lexicon and [Hyperion](/lore/hyperion/), the shared consciousness of Eberron's Kalashtar, were all named there. The weapons of that Eberron war, the red Khyber cased in black Khyber of the [Ruby Nova](/items/ruby-nova/) and [the Polygon](/items/the-polygon/), are the technology that Starfall knows as [the Demoncore](/items/the-demoncore/). Eberron later joined the Sovereignty.
 
 Starfall refers to [the War of the Five Zanzibars](/history/the-war-of-the-five-zanzibars/) as a critical collapse of the continent of Faerûn, before a dark time preceding the ascendance of the Sovereignty.
 

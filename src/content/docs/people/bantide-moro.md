@@ -25,7 +25,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Hiding in Deirdre Moro's apartment, lower plaza, Korth
+  residence: The Nest, Sharn; formerly hiding in Deirdre Moro's apartment, lower plaza, Korth
   gender: Female
   age: Unknown
   eyes: Unknown
@@ -40,6 +40,7 @@ sources:
 - C:/dev/sharn-campaign/session-2026-09-04-summary.md
 - C:/dev/sharn-campaign/session-2026-09-04-korth.transcript-timestamped.txt
 - C:/dev/sharn-campaign/korth.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: bantide-moro-person
@@ -129,7 +130,7 @@ She keeps a **forgery kit** and knows how to use it. She recognises rebel cant o
 
 ## Fate
 
-When the Inevitables took the boat to the Ivory Lazaret, Bantide was invisible, disguised, and hiding in her dead sister's apartment on the lower plaza of [Korth](/places/korth/), days away from full strength and too wanted to be seen. Officially she had committed suicide in custody. The state had one month to reassemble a case against a condemned it believed was dead. In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) she was reported alive in Sharn with Izaak.
+When the Inevitables took the boat to the Ivory Lazaret, Bantide was invisible, disguised, and hiding in her dead sister's apartment on the lower plaza of [Korth](/places/korth/), days away from full strength and too wanted to be seen. Officially she had committed suicide in custody. The state had one month to reassemble a case against a condemned it believed was dead. In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) she was reported alive in Sharn with Izaak. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) she was at the Nest with Jessica Grimpledink, Izaak and Lorian when Eric, Dario and Zero-One returned to Sharn.
 
 **Organizations / Groups:** Fulcrum (medical support, twenty years) · the Church of the Silver Flame (head nurse, civilian hospital) · the Imperial medical records service (cover post, Anduin theatre)
 

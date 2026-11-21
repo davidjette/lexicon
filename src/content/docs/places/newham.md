@@ -46,6 +46,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-12-05'
   - "JL's DM notes: The Unforeseen Strike Back DM Notes"
   - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: newham-settlement
@@ -94,7 +95,7 @@ The trio took a home base in the city. When people in Newham think of "the rebel
 
 Newham's rebellion was many movements, most of them feuding. Deuce Loosely's cutpurses ran the thieves' guild beneath the Clamshell Casino; the Grey Doves, Black Doves ready to betray Uriel, followed [Luz Fayana](/people/luz-fayana/); the Diggers were labourers held in debt peonage by LeBeefe, with a radical liberation creed, kept under lock and guard at his dig site; ex-Blood of Vol vampires kept [Club Mawniq](/places/club-mawniq/); there were one or two Inquisition turncoats and Silver Flame faithful in deep cover; Locke Pierce's warforged were building something they called a spelljammer out of stolen gnomish technology; and there were the St. Stamos cultists. [Digma Beeve](/people/digma-beeve/) was Rourke's man in the city. Paulina Gunter-Gooch, lodging at the Imperial Marquis Hotel, brought in the orcs of the Uruk Republic, who wanted the imprisoned warforged's technology and sent six soldiers for the assault on LeBeefe's fortress in exchange for it, and the St. Stamos cultists agreed to stage a massive distraction for the trio's break-in at the city prison. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
-The assault succeeded and LeBeefe was killed. <small>(Oral Histories: The Inevitables, 2025-12-05)</small> The victory came at a catastrophic cost: a massive otherworldly explosion collapsed the city into ruin, and a vast region around Newham became corrupted, toxic and uninhabitable — [the New Mourning](/places/new-mourning/).
+The assault succeeded and LeBeefe was killed. <small>(Oral Histories: The Inevitables, 2025-12-05)</small> The victory came at a catastrophic cost: a massive otherworldly explosion collapsed the city into ruin, and a vast region around Newham became corrupted, toxic and uninhabitable — [the New Mourning](/places/new-mourning/). In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma Corso described the object that hung in the sky above LeBeefe's palace and exploded as red Khyber encased in black Khyber, the same material as Locke Pierce's [Ruby Nova](/items/ruby-nova/).
 
 The survivors fled east, evacuating en masse to Leef. There the townsfolk, the Newham refugees and the swamp-dwarf tribes of [the Mror Holds](/places/the-mror-holds/) forged a new nation: **the Republic of Talenta**, which stands between the wasteland to the west and the Mror Holds to the east, and which remains one of the few places in Khorvaire largely beyond the reach of the Empire.
 

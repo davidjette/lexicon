@@ -65,6 +65,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): New ships"
+- sources/sessions/korth-2026-11-20-summary.md
 gallery:
 - src: /images/chat/2022-10-18-671670044230346.webp
   alt: "Why Dr. Glup joined Astral Command"
@@ -90,11 +91,15 @@ gallery:
 - src: /images/documents/ssj-zanzibar-crew-roster.webp
   alt: Crew roster of the S.S.J. Zanzibar
   caption: 'The Astral Command crew roster of the S.S.J. Zanzibar, issued during Light of Xaryxis (January 2023). Under Sovereign Officer Captain James X. Smallberries sit five divisions: Invention (First Artificer 1st Sgt. Barrias Red-Eye), Peace (Vox Sovereign Lt. Cmdr. Hyperion "Sandy" Tidzan-Dassiya), Magic (First Arcanist and Spelljammer Lt. Caprica), Life (First Apothecar Dr. Glup) and Valour (Sergeant-at-Arms 2nd Sgt. Butsac), with Red Squadron under Lt. Cmdr. Chad "Kreen" Mantis. Cadet Carlos Vega, Large Luigi and Princess Xedalli, Rightful Empress of Xaryxia, are listed among the civilians and guests.'
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-andromeda.webp
+  alt: "Andromeda Starweaver, emissary of the Sovereignty of Realms"
+  caption: "Lexical rendering: Andromeda Starweaver, emissary of the Sovereignty of Realms - Korth Ep 23, The Father of the Hundreds"
 image:
   src: /images/chat/2024-04-20-436173435570386.webp
   alt: "Join Astral Command poster"
   caption: "Retro recruitment poster reading \"Join Astral Command\", showing a green-skinned elf woman in a yoga pose holding a glowing orb."
 campaigns:
+  - the-unforeseen-strike-back
   - starfall-tng
 ---
 
@@ -147,6 +152,12 @@ Jim Smallberries, Katrina McQuaid and Horgus Simianis were Academy contemporarie
 ## Order of Scribes
 
 Wizards of the Order of Scribes in Astral Command are led by [Admiral Andromeda Starweaver](/people/andromeda-starweaver/), one of the most respected and influential officers in the fleet and the primary architect of [the Astralex](/lore/the-astralex/) network. Her work, and that of many officers of her order, is finding a way to overcome [Dark Spectrum Interference](/lore/dark-spectrum-interference/) to allow interstellar communication and teleportation. <small>(Oral Histories: The Inevitables, 2023-01-23)</small>
+
+## On Eberron
+
+Astral Command was named on Eberron before the Starfall era, when the Sovereignty made first contact there. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the Sovereignty's emissary, [Andromeda Starweaver](/people/andromeda-starweaver/), described it to [Eric the Cleric](/people/eric-the-cleric/), [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/) as the unified force of naval and intelligence forces which allows the Sovereignty "to be both a federation that is independent but also cooperative on things of galactic interest". She said there is a standard exchange of technology, especially critical kinetic technologies, between sovereign nations and Astral Command, and on that ground asked for everything Eberron held on the black Khyber bell of [Uriel Qualanthri](/people/uriel-qualanthri/) and its making.
+
+The extraterrestrials working in the base of [the Hundreds](/organizations/the-hundreds/) under [Mt. Silicon](/places/mt-silicon/) were of all kinds and wore a similar uniform, plainly a military one and very well kept. The Sovereignty provided the Hundreds with a small fleet to protect Eberron's realm space, tracked in the Hundreds' Situation Room on a display labelled [Astralex](/lore/the-astralex/).
 
 ## The Beholder War
 

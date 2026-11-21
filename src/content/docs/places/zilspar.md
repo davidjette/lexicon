@@ -39,6 +39,7 @@ sources:
   - C:/dev/sharn-campaign/session-2026-08-28-summary.md
   - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
   - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: zilspar-location
@@ -47,6 +48,9 @@ gallery:
   - src: /images/gallery/2026-04-27-05.webp
     alt: Donna at the farm door
     caption: Donna, the red-haired Silver Flame cleric in pale robes, holds a clipboard beside a grey-bearded man with a basket of fresh vegetables at the door of a farm greenhouse.
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-zilspar.webp
+    alt: "Pierce answers for Zilspar"
+    caption: "Lexical rendering: Pierce answers for Zilspar - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - the-unforeseen-strike-back
 ---
@@ -86,6 +90,8 @@ No sign was ever found of Zero-One, Izaak, Donna or Grady Marsh.
 ## Present day
 
 Zilspar's destruction is the reason Sharn is a month from famine, and the reason the Chancellor handed Locke Pierce the keys to the city's airspace in exchange for bread. The Hundreds' own dossier confirms no survivors.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Zero-One confirmed that it was Eden who took her from the farm, that the attackers killed everyone and destroyed everything, and that she woke in the hospital with no memory of how she got there. Under [Mt. Silicon](/places/mt-silicon/) [Locke Pierce](/people/locke-pierce/) said that he had tipped off the Empire to the location of a handful of Fulcrum agents. Eric the Cleric told him: "the next time I see you, Locke Pierce, I will kill you for Zilspar." See [the destruction of Zilspar Farm](/history/the-destruction-of-zilspar-farm/).
 
 **Places of Interest:**
 

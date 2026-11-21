@@ -30,6 +30,7 @@ fields:
   history: Subject of a Ministry of Law seizure order issued by Vice Admiral Freyd Merkin, on suspicion of dealings with Lhazaar pirates
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - C:/dev/sharn-campaign/deirdre-moro-cases.md
   - sources/site/korth-episode-summaries.txt
   - sources/site/pose-mission-notes.txt
@@ -55,6 +56,9 @@ gallery:
   - src: /images/album/korth-ep-17-the-red-bird-rotunda-goose.webp
     alt: 'Deirdre Moro and Graham Cracker with Rotunda Goose in the ballroom - Korth Ep 17, The Red Bird'
     caption: 'Deirdre Moro and Graham Cracker with Rotunda Goose in the ballroom - Korth Ep 17, The Red Bird'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-captain.webp
+    alt: "Roberts introduces Vanessa Redwing and offers Gemma the Revenge"
+    caption: "Lexical rendering: Roberts introduces Vanessa Redwing and offers Gemma the Revenge - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - the-unforeseen-strike-back
 ---
@@ -107,3 +111,5 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) the Lodge would not a
 ## The end of the Lodge
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the valley of the Summer Palace was destroyed by a weapon dropped from a ship of the Hundreds. Joseph Roberts had sold the Lodge before then. He would not name the buyer, and said only that he knew how to time these things and that the buyer had wanted it for a teardown.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Roberts introduced the Lodge's last Fieldmaster by name on his hideaway island: **Vanessa Redwing**, Master Huntress, a half-elf, and his wife. He told Gemma that the portal in the Lodge's library was the way goods and fleeing Imperials had left the valley of the Lazaret, where teleporting was impossible, and that it was one of a network across the continent. He gave Gemma the ledger of the Grand Lodge, with all his dealings in it, including the orc coin from sales of salvage and war material. He left with Redwing and most of the money from the sale, and again would not say who had bought the Lodge. <small>(Korth Ep 23)</small>

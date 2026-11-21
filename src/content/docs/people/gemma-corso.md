@@ -1,6 +1,6 @@
 ---
 title: Gemma Corso
-description: Archfey warlock, Nest agent FOXTALE and bearer of Bright Dawn, who brought the Empress Uriel down at Nos Matre and is betrothed to Joseph Roberts.
+description: Archfey warlock, Nest agent FOXTALE and bearer of Bright Dawn, who brought the Empress Uriel down at Nos Matre and became the Dread Pirate Roberts.
 tags:
   - Gemma Corso
   - Gemma
@@ -25,11 +25,11 @@ kind: people
 icon: fa-mask
 fields:
   rpgAlignment: Unknown - no source records an alignment
-  ggmtitle: Agent FOXTALE of The Nest; one of the Heroes of Leef; betrothed of Joseph Roberts; formerly Star Advocate of the Ministry of Law (fraudulently, as Deirdre Moro)
+  ggmtitle: Agent FOXTALE of The Nest; one of the Heroes of Leef; the Dread Pirate Roberts (Josephine Roberts), captain of the Revenge; formerly Star Advocate of the Ministry of Law (fraudulently, as Deirdre Moro)
   dobDisplay: Unknown
   birthplace: Unknown
   children: Unknown
-  residence: Sharn, Lower City; aboard the airship Revenge at the end of the Korth arc
+  residence: Aboard the airship Revenge, and a hideaway island in the Lhazaar seas; formerly Sharn, Lower City
   gender: Female
   age: Unknown
   eyes: Unknown
@@ -38,6 +38,7 @@ fields:
   height: Unknown
   weight: Unknown
 sources:
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/sessions/korth-2026-11-13-summary.md
   - sources/sessions/korth-2026-11-06-summary.md
   - sources/sessions/korth-2026-10-30-summary.md
@@ -176,16 +177,25 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-deck.webp
     alt: "On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns"
     caption: "Lexical rendering: On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-necklace.webp
+    alt: "Gemma answers Locke Pierce's summons"
+    caption: "Lexical rendering: Gemma answers Locke Pierce's summons - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-kitsune.webp
+    alt: "Kitsune releases Gemma from her pact"
+    caption: "Lexical rendering: Kitsune releases Gemma from her pact - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-captain.webp
+    alt: "Roberts introduces Vanessa Redwing and offers Gemma the Revenge"
+    caption: "Lexical rendering: Roberts introduces Vanessa Redwing and offers Gemma the Revenge - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
 ---
 
-**Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 15 · Alive**
+**Tiefling · Archfey Warlock / Battlemaster Fighter · The Inevitables · Level 16 · Alive**
 
 *Also known as:* **Foxtale** (NEST codename; filed once as *Foxtale* in a recovered BioTec document) · **Deirdre Moro**, also written *Deedra Mora* (Korth cover, taken off a corpse) · **Hermione Granger** (on the books of the Zilspar Farm-Table Co-op) · **June Lockheart** (Newham cover) · **Dawn** (rebel code name at Leef) · one of the **Heroes of Leef**
 
-Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Corso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She went into Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it. At Nos Matre, above [the Ivory Lazaret](/places/the-ivory-lazaret/), she brought the Empress [Uriel Qualanthri](/people/uriel-qualanthri/) to the ground for Dario's sword, and in [the Sept of Bones](/places/the-sept-of-bones/) her patron's fox cut the cord that sustained Uriel. She left the valley aboard the airship *Revenge* with [Joseph Roberts](/people/pirate-joseph-roberts/), whom she has agreed to marry.
+Gemma Corso is a tiefling warlock of the archfey Kitsune, a Battlemaster fighter, a field agent of the Nest under the codename **Foxtale**, and a member of the Inevitables. Her adoptive father Jane Corso held the pact with Kitsune before her and it passed to her when he died. In the desert rail-town of Leef she met [Sir Dario Argentino](/people/sir-dario-argentino/) and [Eric the Cleric](/people/eric-the-cleric/); the three broke Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/)'s hold on the east, were named the Heroes of Leef, and killed him at Newham as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, she became a Nest field asset, fought through the rising, and in the three years after it located two more of the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/). She went into Korth wearing the face of the Star Advocate Deirdre Moro, whom she killed for it. At Nos Matre, above [the Ivory Lazaret](/places/the-ivory-lazaret/), she brought the Empress [Uriel Qualanthri](/people/uriel-qualanthri/) to the ground for Dario's sword, and in [the Sept of Bones](/places/the-sept-of-bones/) her patron's fox cut the cord that sustained Uriel. She left the valley aboard the airship *Revenge* with [Joseph Roberts](/people/pirate-joseph-roberts/), whom she had agreed to marry. A day later, after Locke Pierce and the emissary of the Sovereignty of Realms had made their offer under Mt. Silicon, her patron declared her pact complete, and Roberts retired and gave her the *Revenge*, his guild and his name. She is the Dread Pirate Roberts, known as Josephine Roberts.
 
 A tiefling in fey-crafted armour — the plates reworked by her patron after a dream-audience, the interior now lined in velvet to match the pewter heart-box she was given in the same dream. She goes armed with **Bright Dawn**, a sword that was once red Khyber and is now clear crystal. Through the Korth arc she was more often than not wearing a face that was not hers: a high-elf acolyte's for eleven days in Korth, a dead Star Advocate's for several weeks, and then General Thar's and Sister Maelis Dorn's. She dropped the last of them in the Summer Palace and finished the arc as herself. Since then she has worn an *amulet of health*. Her hair is red <small>(the Sharn News Network broadcast that named "a red-haired tiefling" among the three suspects)</small>. Height, horns and tail are **Unknown**; no source describes them.
 
@@ -321,6 +331,24 @@ Gemma summoned Lalo Kitsune over Uriel's head and called Joseph Roberts by sendi
 
 Roberts came in low over the roof in the *Revenge*. *"You know, if you're going to be one of my wives, I'm going to make you work,"* he said, and she answered, *"Your humour is what made me want to marry you."* She made him go back for Eric, Zero-One, Ilma Vitt and Matt Matheny's people. On deck she asked him whether he had sold the Grand Lodge to Locke Pierce, and he would not say. <small>(Korth Ep 22)</small>
 
+## The Father of the Hundreds
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) two huge spelljammers of [the Hundreds](/organizations/the-hundreds/) came up through the clouds behind the *Revenge*. Gemma told Roberts what had destroyed the valley: [Locke Pierce](/people/locke-pierce/) had bombed it with a [Ruby Nova](/items/ruby-nova/). She sent a message through the necklace Pierce had made for her, in the binary code Eric had broken years before: *"0-1-0-0-1-1-0-0, 0-1-0-0-0-1-0-1, 0-1-0-1-1-0-0-0."* The ships dropped back, and Pierce answered on the stone:
+
+> "Foxtale, congratulations. You stopped something awful. You probably don't know. They're playing the song in every city. And they're bringing down the bells. I want to talk to you. Give word. I'll send for you."
+
+She sent to [Jessica Grimpledink](/people/jessica-grimpledink/) in Sharn, *"Require update in Sharn, Foxtale, alive. What of Pierce?"*, and checked the reply for a thieves' cant duress signal. There was none. Roberts offered sanctuary in the Lhazaar Principalities. She told him she could not stop yet: *"When I am done with this situation, my hope is to go lay on the beach somewhere with you."* She pressed the stone, and the three were carried to the Hundreds' base under [Mt. Silicon](/places/mt-silicon/).
+
+There Pierce congratulated them and introduced [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), who asked for everything the party held on the black Khyber bell and how it was made. Gemma answered with a story: an object of black Khyber with red Khyber inside it had hung above LeBeefe's palace in Newham until it exploded and caused the New Mourning, Pierce had used the same material on the valley that day, and Uriel had said the thing in her courtyard was made the same way and came from LeBeefe. Andromeda told her the Sovereignty knew she was part of an extended spy network. Gemma asked Pierce outright whether he had known anything about the attack on Zilspar Farm, and judged that he was lying when he said it must be seen through the fog of war. She laid out her theory to his face: that the farm had been sold out so that the Hundreds would have a reason to bring food to Sharn and enter its airspace. Pierce admitted tipping off the Empire to the location of Fulcrum agents. His offer to her was that she could go free wherever she liked so long as she caused no problems.
+
+Later Andromeda came to the three alone and told Gemma: *"We witnessed your broadcast from Thronehold. What you did was brave. I admire you. I think that you will be a great leader for this planet."* Gemma asked whether she had ever met Uriel. Andromeda had not known the Empress's name. When Eric refused Pierce and threatened his life in the Situation Room, Gemma pressed the stone and took them back to the *Revenge*. The stone broke and partly dissolved afterwards.
+
+Aboard the ship she called her patron. [Kitsune](/people/kitsune/) told her the pact was complete, that she had fulfilled her end and he his: *"From now on, we're just good friends."* He released everything that had been kept from her, and told her she could now have children, which she could not before.
+
+At dawn Roberts brought the *Revenge* down on a hideaway island in an empty sea, introduced his wife Vanessa Redwing, the Fieldmaster of the Grand Lodge, told Gemma his real name was Trevor Alan Blake, and asked her to take his place as captain. In the spa with Eric and Dario she argued against open war with Pierce: she had spent three years undercover, and held that nobody could study the Lexicon better than Eric and that fighting it openly would make that impossible. Eric answered that he had already told Pierce his plan, and that they would always be friends whatever she decided. She accepted Roberts's offer. She received the *Revenge*, the ledger of the Grand Lodge with all of Roberts's dealings, which completed the mission she had taken on as Deirdre Moro, command of the guild and its commodore's fleet, the island, and his network of portals. Her first mate and bosun is Stanley Green Jeans, and she set a new sending stone to him.
+
+She teleported Eric, Dario and the others to the circle at [the Nest](/organizations/the-nest/) in Sharn, and went to [Blair](/people/blair/), who threw things on learning who the new Roberts was and then agreed to acquire whatever was on the list Gemma would send. At Gemma's asking Blair had already started the rumour that the Dread Pirate was always Josephine Roberts. Gemma told her that Uriel had raised Esther's body at the Lazaret, that she had seen Eden too, and that both were gone. <small>(Korth Ep 23)</small>
+
 ## Habits
 
 In Sharn, by Nico's account, "Gemma is willing to donate her money to the cogborn". <small>(Oral Histories: The Inevitables, 2026-03-31)</small>
@@ -339,17 +367,19 @@ Gemma burns every corpse she leaves behind so that Uriel Qualanthri can never ra
 
 ## Fate
 
-At the end of the campaign Gemma was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas beside the man she had agreed to marry. Dario, Eric, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp were aboard with her. The Empress was destroyed. [The Polygon](/items/the-polygon/), the Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/), and as far as anyone aboard could see the Heir of Vol went with them. Her promise to Kitsune had ended when the fox changed his mind. At last count ten bells remained, and neither Sharn nor Leef had been heard from.
+After the destruction of the valley Gemma was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas beside the man she had agreed to marry. Dario, Eric, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp were aboard with her. The Empress was destroyed. [The Polygon](/items/the-polygon/), the Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/), and as far as anyone aboard could see the Heir of Vol went with them. Her promise to Kitsune had ended when the fox changed his mind. At last count ten bells remained, and neither Sharn nor Leef had been heard from.
+
+A day later she was the Dread Pirate Roberts, to be known as Josephine Roberts, with the *Revenge*, the guild, the ledger of the Grand Lodge and the island. Her pact with Kitsune was complete and they had parted as friends. Trevor Alan Blake, the former Roberts, and Vanessa Redwing had left for parts unknown. She meant to work her own angle from inside the new identity, looking for contacts and technology, wanted to fit her ship for the sky beyond the sky, and was supplying Eric's underground at the Nest through Blair. The bells had been brought down in every city.
 
 ---
 
 **Alias:** Foxtale & Hermione Granger (Vilspar Farm-Table Co-op Employee)
 
-**Status:** Alive, aboard the airship *Revenge* at the end of the Korth arc. Betrothed to Joseph Roberts.
+**Status:** Alive. The Dread Pirate Roberts, known as Josephine Roberts, and captain of the airship *Revenge*.
 
-**Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · The Nest, as Agent FOXTALE · the Heroes of Leef · formerly the Ministry of Law of the Pax Imperium, fraudulently, as Star Advocate Deirdre Moro · warlock of the archfey Kitsune, whose claim on her for the Emperor's heart ended in the Sept of Bones.
+**Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · The Nest, as Agent FOXTALE · the Heroes of Leef · formerly the Ministry of Law of the Pax Imperium, fraudulently, as Star Advocate Deirdre Moro · warlock of the archfey Kitsune, whose claim on her for the Emperor's heart ended in the Sept of Bones, and who declared the pact complete in Korth Ep 23 · the guild of the Dread Pirate Roberts, as its captain.
 
-**Holdings:** the Lower City apartment in Sharn near Kross Roads Corner Store, taken off two ghosts and kept as a base · the late Deirdre Moro's apartment in central Korth, a safehouse purchased with four murders, where Bantide Moro was hidden at last report · Zilspar Farm 02, which she calls the closest thing to a home she ever had, now burned to the ground with its people boarded inside · the promise of an island from Joseph Roberts, named in the terms on which she accepted him.
+**Holdings:** the Lower City apartment in Sharn near Kross Roads Corner Store, taken off two ghosts and kept as a base · the late Deirdre Moro's apartment in central Korth, a safehouse purchased with four murders, where Bantide Moro was hidden at last report · Zilspar Farm 02, which she calls the closest thing to a home she ever had, now burned to the ground with its people boarded inside · the promise of an island from Joseph Roberts, named in the terms on which she accepted him · from Korth Ep 23, the airship *Revenge*, the guild of the Dread Pirate Roberts with its commodore's fleet, hideouts, contacts, small pools of money and lines of credit, the hideaway island, and Roberts's network of portals across the continent.
 
 **Items:**
 
@@ -359,6 +389,9 @@ At the end of the campaign Gemma was aboard Joseph Roberts's airship *Revenge*, 
 - **The pewter heart-box** — velvet-lined, given by her patron, sized for a heart. Empty. She took it out in the Sept of Bones, and the Heir of Vol would not have fitted into it.
 - **King Corn's horn** — coiled brass, King Corn's smith-mark on it, recovered from under a secret panel beneath the rug in his study. She can play the fanfare of dawn on it, and did so outside the Summer Palace to bring Dario out of the bell's madness.
 - **A sending stone** — left to her by Joseph Roberts, and used from the Sept of Bones to call the *Revenge*.
+- **The ledger of the Grand Lodge** — given to her by Roberts in Korth Ep 23, with all his dealings in it, including the orc coin from sales of salvage and war material.
+- **A sending stone set to Stanley Green Jeans**, her first mate and bosun.
+- **Locke Pierce's necklace and stone** — the stone carried the party to Mt. Silicon and back, then broke and partly dissolved.
 - **Maelis Dorn's keys, adamantine Black Dove seal and small iron bell** — taken from Dorn's body in the Westhouse · a dead fortune teller's crystal ball.
 - **Zero-One's pewter pendant** — SPENT. It held one casting of *circle of power*, used over Nos Matre.
 - **Deirdre Moro's credentials and face** — NO LONGER WORN. Ministry of Law, Star Advocate, clearance to the Ivory Lazaret. Her later faces were Sister Apollonia, General Thar and Maelis Dorn, and she dropped the last disguise in the Summer Palace.
@@ -372,7 +405,7 @@ At the end of the campaign Gemma was aboard Joseph Roberts's airship *Revenge*, 
 
 **Motivation**
 
-Through the Korth arc, to reach Uriel Qualanthri before the bells could be rung. With Uriel destroyed, what she has asked for is her freedom, which was her condition for accepting Joseph Roberts.
+Through the Korth arc, to reach Uriel Qualanthri before the bells could be rung. With Uriel destroyed, what she has asked for is her freedom, which was her condition for accepting Joseph Roberts. In Korth Ep 23 she told Roberts that her hope was to lie on a beach with him once the business with Pierce was done.
 
 **Likes & Dislikes**
 
@@ -405,10 +438,10 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 
 **Contacts & Relations**
 
-- **[Kitsune](/people/kitsune/)** — her archfey patron, seen in dreams reclining on a chaise in a white toga. He held the debt her father contracted, and wanted the child of the Empress unharmed. In the Sept of Bones his fox cut the child free of Uriel, and then he changed his mind about it, which ended her obligation. Counsel is sparing and he is under standing warning that he has to lie.
+- **[Kitsune](/people/kitsune/)** — her archfey patron, seen in dreams reclining on a chaise in a white toga. He held the debt her father contracted, and wanted the child of the Empress unharmed. In the Sept of Bones his fox cut the child free of Uriel, and then he changed his mind about it, which ended her obligation. In Korth Ep 23 he told her the pact was complete and that they were now just good friends. Counsel is sparing and he is under standing warning that he has to lie.
 - **Jane Corso** (also written Croso, and Jeyne Korso) — her adoptive father, a Last War soldier, who held the pact with Kitsune before her and raised her at his junkyard in Newham. Killed during the fighting in Leef and Newham; the pact passed to her.
-- **Sir Dario Argentino** and **Eric the Cleric** — met in Leef, and everything since. Alive; both aboard the *Revenge*.
-- **[Joseph Roberts](/people/pirate-joseph-roberts/)**, the Dread Pirate — in the year after the fall of Newham, Roberts purposed to Gemma while they spent time together in his island palace in The Lhazaar Principalities, asking her to be "one of his wives"; he calls Blair his first wife. She accepted him at the Grand Lodge in Korth Ep 18, and he took her off the roof of Nos Matre in the *Revenge*. Alive; her betrothed.
+- **Sir Dario Argentino** and **Eric the Cleric** — met in Leef, and everything since. Alive; both at the Nest in Sharn, where Eric is in hiding and Dario guards him.
+- **[Joseph Roberts](/people/pirate-joseph-roberts/)**, the Dread Pirate — in the year after the fall of Newham, Roberts purposed to Gemma while they spent time together in his island palace in The Lhazaar Principalities, asking her to be "one of his wives"; he calls Blair his first wife. She accepted him at the Grand Lodge in Korth Ep 18, and he took her off the roof of Nos Matre in the *Revenge*. In Korth Ep 23 he gave his real name as Trevor Alan Blake, handed her the ship and the name, and left with his wife Vanessa Redwing. Alive; retired.
 - **[Sister Maelis Dorn](/people/sister-maelis-dorn/)** — Sister-Inquisitor of the Korth Black Dove house, befriended under cover, gave her the litany. She sealed the Korranberg shrine. Gemma killed her in the Westhouse. Dead.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress. Gemma brought her down in the forecourt of Nos Matre, and Eric destroyed her in the Sept of Bones. Dead.
 - **[Esther Crona](/people/esther-crona/)** — killed by the Inevitables at Sharn, whose sword Gemma carries. Raised in the Ivory Lazaret, she came to the Sept of Bones to kill Uriel and was fed to the Heir of Vol. Dead.
@@ -418,9 +451,11 @@ She kills people for their faces, and the coldest thing any of the Inevitables h
 - **[Aurorix](/species/aurorix/)** — the gold dragon who knew her sword and carried the party to the bell. Killed by Valtrex over Nos Matre. Dead.
 - **[Saturnia](/people/saturnia/)** — the Sister of the Blood who guided them into the Summer Palace, and whom Gemma refused to kill when Aurorix asked it. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
 - **[Eden](/people/eden/)** — Esther's sister, who met Gemma on the peak believing she was Thar. She was under the Polygon's control in the forecourt of Nos Matre and was not seen to die.
-- **[Zero-One (Fema Nolan)](/people/zero-one-fema-nolan/)** — Fulcrum's leader. Taken alive by E.D.E.N. units at Zilspar and rescued from the slab room under Nos Matre. She gave Gemma her pendant. Alive; aboard the *Revenge*.
+- **[Zero-One (Fema Nolan)](/people/zero-one-fema-nolan/)** — Fulcrum's leader. Taken alive by E.D.E.N. units at Zilspar and rescued from the slab room under Nos Matre. She gave Gemma her pendant. Alive; returned to Sharn with Eric and Dario.
 - **Bantide Moro** — the Nightingale, sister of the woman whose face Gemma wore. Hidden in the Korth apartment at last report, officially recorded as a suicide in custody.
-- **Jessica Grimpledink** — leader of the Nest. Asked Gemma quietly whether Eric was how the Empire learned about Zilspar Farm. Alive at last report.
+- **Jessica Grimpledink** — leader of the Nest. Asked Gemma quietly whether Eric was how the Empire learned about Zilspar Farm. Alive; at the Nest, where she holds a miniature of LeBeefe's device.
+- **[Blair](/people/blair/)** — Queen of the Underhive. Supplies the Nest from the list Gemma sends, and started the rumour of Josephine Roberts. Alive.
+- **[Andromeda Starweaver](/people/andromeda-starweaver/)** — emissary of the Sovereignty of Realms, who praised her Thronehold broadcast. Alive.
 
 **Hobbies & Pets**
 

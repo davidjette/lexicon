@@ -28,6 +28,7 @@ sources:
 - worldanvil/sources/site/pose-mission-notes.txt
 - worldanvil/sources/site/sharn-episode-summaries.txt
 - worldanvil/sources/site/korth-episode-summaries.txt
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: red-khyber-material
@@ -77,5 +78,13 @@ The Empire's use for Red Khyber is not recorded. Sir [Dario Argentino](/people/s
 Red Khyber is not the only coloured Khyber on record. In Korth, Sir [Dario Argentino](/people/sir-dario-argentino/) identified the black ore walls beneath the Korramont as **Shavat**, or Black Khyber — a mythic planar ore formed where Shavarath touches the mortal world. Later, Jessica Grimpledink and Bofric determined that Esther Crona's wedding gift was made of **both black and red Khyber**, and she has since become fixated on it as a prototype weapon.
 
 Whether the wedding gift and the Glass Plateau shipments belong to the same programme has not been established.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma Corso said that the object which hung above LeBeefe's palace in Newham and caused the New Mourning was red Khyber encased in black Khyber, that Locke Pierce's [Ruby Nova](/items/ruby-nova/) was the same material, and that Uriel had said [the Polygon](/items/the-polygon/) was made the same way. The combination is the technology known in the Starfall era as [the Demoncore](/items/the-demoncore/).
+
+## Beyond Eberron
+
+Red Khyber is found on other worlds. In the same episode Locke Pierce said the fruit the Hundreds fed to Sharn was a species brought by [Andromeda Starweaver](/people/andromeda-starweaver/) of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/):
+
+> It's from a world where such explosions are natural. It's pelted by meteors made of red Khyber, entire planetoids.
 
 **Related:** [Project E.D.E.N.](/organizations/project-e-d-e-n/) · [Eden](/people/eden/) · [BioTec](/organizations/biotec/) · [Umbra](/items/umbra/)

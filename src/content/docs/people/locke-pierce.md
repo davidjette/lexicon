@@ -18,6 +18,9 @@ tags:
   - Lick Price
   - Knife Sprinters
   - DR4MB
+  - father of the Hundreds
+  - Sovereignty of Realms
+  - Andromeda Starweaver
 image:
   src: /images/site/locke-pierce-1.webp
   alt: Locke Pierce
@@ -26,7 +29,7 @@ kind: people
 icon: fa-robot
 fields:
   rpgAlignment: Unknown - no record states one, and his own conduct argues both ways
-  ggmtitle: Ancient Relic Specialist of the Rekkenmark; Director of the Rekkenmark Academy, Newham Annex; leader of The Hundreds
+  ggmtitle: Ancient Relic Specialist of the Rekkenmark; Director of the Rekkenmark Academy, Newham Annex; leader of The Hundreds; leader of Eberron under the Sovereignty of Realms
   dobDisplay: Unknown
   birthplace: Unknown. Joseph Roberts knows him from a past he does not remember.
   children: Unknown - he calls the Hundreds his children
@@ -58,6 +61,7 @@ sources:
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
   - "JL's DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank"
   - "sources/dave/2026-09-29-rekkenmark-twatmarsh-jl-notes.md"
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: locke-pierce-person
@@ -82,16 +86,28 @@ gallery:
   - src: /images/album/locke-pierce-the-unforeseen-og.webp
     alt: 'Locke Pierce - The Unforeseen - OG'
     caption: 'Locke Pierce - The Unforeseen - OG'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-necklace.webp
+    alt: "Gemma answers Locke Pierce's summons"
+    caption: "Lexical rendering: Gemma answers Locke Pierce's summons - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-mt-silicon.webp
+    alt: "Locke Pierce receives the three under Mt. Silicon"
+    caption: "Lexical rendering: Locke Pierce receives the three under Mt. Silicon - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-zilspar.webp
+    alt: "Pierce answers for Zilspar"
+    caption: "Lexical rendering: Pierce answers for Zilspar - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-situation-room.webp
+    alt: "Eric refuses the Sovereign Council"
+    caption: "Lexical rendering: Eric refuses the Sovereign Council - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
 ---
 
-**Warforged · Artificer / Armorer · [The Unforeseen](/organizations/the-unforeseen/), then The Hundreds · Ancient Relic Specialist, Director of the Rekkenmark Newham Annex, leader of the Warforged nation of the Mournlands · **Alive****
+**Warforged · Artificer / Armorer · [The Unforeseen](/organizations/the-unforeseen/), then The Hundreds · Ancient Relic Specialist, Director of the Rekkenmark Newham Annex, leader of the Warforged nation of the Mournlands, and of Eberron under the Sovereignty of Realms at last report · **Alive****
 
 **Also known as:** Locke Peirce · Lock Pierce · Director Pierce · the Director
 
-**Locke Pierce** is a Warforged artificer, a founding member of [The Unforeseen](/organizations/the-unforeseen/), and the leader of The Hundreds, the Warforged nation of the Mournlands. He entered the record as the Rekkenmark’s Ancient Relic Specialist, sent to Greenbluff to retrieve the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) and then to carry it to the Empire aboard the Talenta Plains Express, and took a semi-permanent post as Director of the Rekkenmark Academy, Newham Annex. After an assassination attempt sent the four founders back into the Rekkenmark he found that Doctor Amber was DR4MB — three-hundred-year-old Cyrean tech built to eliminate and decommission warforged — downloaded it, and set the academy to self-destruct. Of the four founders he is the one who turned: he now rules from a stronghold at Mt. Silicon with an airship fleet, shelters a blended Cogborn–Warforged society at Gorgonhorn on the Mournland border, and holds the Ruby Nova, a controlled recreation of the Mourning that he detonated once on a live battlefield and has promised to use on the world if [Uriel Qualanthri](/people/uriel-qualanthri/) rings the Hell’s Bells.
+**Locke Pierce** is a Warforged artificer, a founding member of [The Unforeseen](/organizations/the-unforeseen/), and the leader of The Hundreds, the Warforged nation of the Mournlands. He entered the record as the Rekkenmark’s Ancient Relic Specialist, sent to Greenbluff to retrieve the [Fantanya Nyel](/items/the-hell-s-bell-fantanya-nyel/) and then to carry it to the Empire aboard the Talenta Plains Express, and took a semi-permanent post as Director of the Rekkenmark Academy, Newham Annex. After an assassination attempt sent the four founders back into the Rekkenmark he found that Doctor Amber was DR4MB — three-hundred-year-old Cyrean tech built to eliminate and decommission warforged — downloaded it, and set the academy to self-destruct. Of the four founders he is the one who turned: he now rules from a stronghold at Mt. Silicon with an airship fleet, shelters a blended Cogborn–Warforged society at Gorgonhorn on the Mournland border, and holds the Ruby Nova, a controlled recreation of the Mourning that he detonated once on a live battlefield and has promised to use on the world if [Uriel Qualanthri](/people/uriel-qualanthri/) rings the Hell’s Bells. He used a second Ruby Nova on the valley of the Ivory Lazaret, and in [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) he stood under [Mt. Silicon](/places/mt-silicon/) beside [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), having agreed with her that Eberron would become a sovereign realm with himself as its leader.
 
 ## Description
 
@@ -178,9 +194,49 @@ Locke and his team called it **Ruby Nova**, a callsign for the bomb. By Dave's a
 
 Pierce has not moved on Karrnath, by Dave's account, because "as soon as Uriel knows the game is over, she may ring the bells". <small>(Oral Histories: The Inevitables, 2026-08-11)</small>
 
+## The father of the Hundreds
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), minutes after the Ruby Nova fell on the Lazaret, two huge old spelljammers crewed by the Hundreds broke the clouds behind the *Revenge* and fired a warning shot across her bow. Gemma sent Pierce a message through his necklace in the binary code Eric had once broken, and the ships dropped back. His answer came on the stone:
+
+> Foxtale, congratulations. You stopped something awful. You probably don't know. They're playing the song in every city. And they're bringing down the bells. I want to talk to you. Give word. I'll send for you.
+
+The stone brought Gemma, Eric and Dario into the Hundreds' base under [Mt. Silicon](/places/mt-silicon/), where Pierce stood waiting without guards. On the board behind him were red circles over the Lazaret valley and over Korth.
+
+> I gotta congratulate you. Very good work. You slew the bitch, and as a result, likely staved off that thing's development long enough for us to get a good shot. And because the bells started going off, everyone understands why we had to do it. That's good for us. I was worried about that. I'm also glad that you were smart enough to destroy the bells in Sharn.
+
+He said that Sharn full of zombies under Uriel's control would have been a necessary target, that he hoped not to use the Ruby Nova again because the weapons are very expensive to make and very harmful to the environment, and that he meant to act before someone installed themselves as emperor: "The empire is dead. We must keep it that way." He said: "I think that in this room, we're going to decide the future of Eberron."
+
+**The Sovereignty.** With him was [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), whose people worked inside the base alongside the Hundreds. Her diviners had seen the Mourning from across the stars, and when their ships reached Eberron they met the Hundreds. She called Pierce "the father of the Hundreds" and said the two had already agreed that Eberron would become a sovereign realm, abide by the laws of the Sovereignty and live under its protection. She told Eric: "Owning atomics, Locke Pierce has rightful claim over this planet." She said he had pledged to submit to the Sovereignty's laws and to grant Sharn and its region autonomy. Pierce said the Empire had very likely been aware of extraterrestrials and had been negotiating separately with the Sovereignty's enemies, and that the destruction of Korth had taken care of that, though its libraries were valuable and the Hundreds had worked hard to reach them. He said the fruit the Hundreds fed to Sharn was a species Andromeda had brought, from a world pelted by meteors and whole planetoids of red Khyber, where the plants survive such explosions.
+
+**The Lexicon.** Pierce's own condition was that Eric and his friends from the Counting House work with him for a time on [the Lexicon](/items/the-lexicon/), the oracle that advises the Sovereignty:
+
+> There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever. It must be understood. It's a thing of divine creation.
+
+His offer was that Eric submit Sharn to governance by the Sovereignty in interplanetary affairs, turn over everything he had on the bell to Pierce and Andromeda, and join him in a secret project to implement the Lexicon on the Hundreds' own equipment. Gemma could go free wherever she liked so long as she caused no problems. To Dario he said: "Dario, uh, listen. I don't have much for you, except you look really cool."
+
+**Zilspar.** Gemma asked him outright whether he knew anything about the attack on Zilspar Farm. He answered: "The fog of war is real, but it's also a convenience. It's a convenience for the survivors who must live in the world that remains. What happened at Zilspar must be seen through the fog of war." Gemma judged that he was lying about knowing nothing. Pressed by Eric, he answered at length:
+
+> There was little reason to think that you were able to do any of the things that you did. You came out of the desert and LeBeefe was stupid enough to play with you, to toy with you, and he paid for it. But he was a genius and he knew how to get the things that were really of value. He was friends with some truly bad people and things. And they gave him a lot of secrets. So as much as you take credit for those things, just remember who you killed and stole it from. And remember that a very long time ago, four people divided this world. And we have jurisdiction. I had no idea that Uriel would do what she did.
+
+He called Fulcrum a great asset for as long as it lived, and went on:
+
+> But when I saw you on that broadcast from Thronehold, I realized that you did not respect that decision made so long ago as to who would choose the destiny of this planet. And forgive me if I assumed that you would fail in your quest, but nonetheless I could not allow for there to be such a destabilizing force in the world that continued. So I'm sorry for what happened to your friends. It's not what I would have chosen. Tipping off the Empire to the location of a handful of Fulcrum agents to close out a long chapter of mutual spying and general lawlessness is a natural end of such things. And if you know what's good for you, you'll take your secrets and get far away from here. It's the last I'll ever speak about it, Chancellor.
+
+> We all did things we're ashamed of in war, and we all get blamed for things that aren't our fault. But hopefully you understand your position, and you can go down like fools, or you can join the new century.
+
+**The Situation Room.** After an hour he showed Eric a screen labelled "Astralex", a map of the space between Eberron and one of its moons. The Sovereignty had given the Hundreds a small fleet to protect Eberron's realm space, everything from the clouds to the moon. His people had learned to fly the ships, somewhat. The thing that really operated them was the Lexicon, and the fleet answered to the Sovereignty. See [the Astralex](/lore/the-astralex/).
+
+> We will choose representatives to sit on this Sovereign Council. You will be my nominee to represent Eberron.
+
+Eric refused: "I don't think I wish to be a part of your new murderous empire. I think I wish to leave this place. And the next time I see you, Locke Pierce, I will kill you for Zilspar." Pierce answered, "Understood," and let them go:
+
+> You're free to leave. Chancellor, what you've done for Eberron will live in legend forever. And I won't be forgetting what you've done either.
+
+Afterwards [Renn Tal](/people/renn-tal/), as the new Chancellor of Sharn, announced Eric's death on the broadcast and welcomed Pierce and Andromeda Starweaver. Pierce nodded and stepped back for Andromeda to speak.
+
 ## Fate
 
-By the end of the campaign Locke Pierce had taken the skies of Sharn. A capital ship settled out of the fog each morning and handed out fruit in orderly lines to a city his dossier said was forty-seven days from famine, and the access that let it do so was granted by a Chancellor who knew what he was granting. Somebody gave Zilspar Farm away to the Empire, and the Inevitables never decided whether it was him. In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) a ship of his Hundreds dropped a [Ruby Nova](/items/ruby-nova/) on the valley of the Ivory Lazaret.
+By the end of the campaign Locke Pierce had taken the skies of Sharn. A capital ship settled out of the fog each morning and handed out fruit in orderly lines to a city his dossier said was forty-seven days from famine, and the access that let it do so was granted by a Chancellor who knew what he was granting. Somebody gave Zilspar Farm away to the Empire, and in [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) he said that he had tipped off the Empire to the location of a handful of Fulcrum agents. In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) a ship of his Hundreds dropped a [Ruby Nova](/items/ruby-nova/) on the valley of the Ivory Lazaret. At last report he led Eberron as its claimant under [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), with a Sovereignty fleet in orbit operated by the Lexicon and his Hundreds holding the airspace and nearly all military power in Sharn. Eric the Cleric, publicly declared dead, had told him to his face that he would kill him. Eberron later joined the Sovereignty.
 
 ## Beliefs
 
@@ -188,7 +244,7 @@ He believes the Hell’s Bells are real, that [Uriel Qualanthri](/people/uriel-q
 
 **Organization / Groups:** Ancient Relic Specialist and Director of Rekkenmark, Newham Anex. Founding member of [The Unforeseen](/organizations/the-unforeseen/). Now leader of The Hundreds, the Warforged nation of the Mournlands.
 
-**Holdings:** Mt. Silicon, the fortified Warforged stronghold cut into the mountainside. Gorgonhorn, the Cogborn–Warforged settlement on the Mournland border. The Rekkenmark Academy, Newham Annex — buried with Newham. And, as of this week, the airspace over Sharn.
+**Holdings:** Mt. Silicon, the fortified Warforged stronghold cut into the mountainside. Gorgonhorn, the Cogborn–Warforged settlement on the Mournland border. The Rekkenmark Academy, Newham Annex — buried with Newham. And the airspace over Sharn. A small fleet for Eberron's realm space, given by the Sovereignty of Realms.
 
 **Items:** The Ruby Nova, a weaponised catastrophe — a controlled recreation of the Mourning — held at Mt. Silicon and demonstrated once, on a live battlefield, from a distance. The DR4MB download, contents undisclosed. A sealed intelligence dossier on the Hell’s Bells. Air Bubble breathing devices inscribed in ancient gnomish, *Interplanetary Association of Lexical Engineers*. Cyrean Red Pomegranates, a fruit believed extinct since the Mourning, grown in the Mournlands and handed out freely. Cartographer's tools, and brown leather gloves that let the wearer cast *mold earth*. <small>(Episode 6 "6 Months Later / The Tablet")</small> The **Pistol of Lightning**, an ornate platinum pistol with seven charges that casts *lightning bolt*, and the **Gloves of Thievery**, invisible while worn, which sharpen sleight of hand and lock-picking. <small>(Episode 9 "The Dig Site / Throne Room")</small>
 
@@ -225,11 +281,12 @@ He has decided that the correct answer to an apocalypse is a smaller apocalypse 
 **Contacts & Relations**
 
 - **[Esther Crona](/people/esther-crona/)** — fellow founder, and the officer assigned to supervise him at Rekkenmark East. Hayman Maw ordered him to keep Varyn Crona's file from her. Dead; his Hundreds helped storm her building.
-- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder, research partner on Marble's autoanimata and necrocryptography, and the person he has built the Ruby Nova to pre-empt. Alive, and Empress.
+- **[Uriel Qualanthri](/people/uriel-qualanthri/)** — fellow founder, research partner on Marble's autoanimata and necrocryptography, and the person he built the Ruby Nova to pre-empt. Destroyed.
 - **[John C. LeBeefe](/people/john-c-lebeefe/)** — fellow founder; ran when Locke set the Rekkenmark to blow. Dead at Newham.
 - **Captain Edday** — Warforged airship captain of the Hundreds; modified the Inevitables' communicators to reach him directly for extraction. Alive.
 - **Preacher** — founder of R.U.S.T. beneath Sharn, whose entire plan is to reach Locke's Hundreds at Gorgonhorn. Alive.
 - **Himmie Joffa** — leads the Hundreds' delegation feeding Sharn, and negotiated the airspace. Alive.
+- **[Andromeda Starweaver](/people/andromeda-starweaver/)**: emissary of the Sovereignty of Realms, with whom he agreed Eberron's entry into the Sovereignty.
 - **Tessa Moongrove** — his secretary at the Rekkenmark Academy, Newham Annex.
 - **[Captain Joseph Roberts](/people/pirate-joseph-roberts/)** — collects secrets; has background on Locke and seems to know him personally from a past Locke does not remember. Alive.
 

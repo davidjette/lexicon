@@ -37,8 +37,14 @@ sources:
 - "Oral Histories: The Inevitables, 2024-05-31"
 - Desktop/D&D/Starfall TNG/sydiot_78995029.pdf
 - sources/dave/2026-09-14-starfall-necis.md
+- sources/sessions/korth-2026-11-20-summary.md
 campaigns:
+  - the-unforeseen-strike-back
   - starfall-tng
+gallery:
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-hyperion.webp
+  alt: "The Kalashtar girl shows Eric the Hyperion"
+  caption: "Lexical rendering: The Kalashtar girl shows Eric the Hyperion - Korth Ep 23, The Father of the Hundreds"
 ---
 
 **Extraplanar entity · Lawful good · The Children of Hyperion · Starfall**
@@ -56,6 +62,18 @@ Hyperion is an extraplanar entity with a benevolent church. <small>(Oral Histori
 Its hosts can meld minds with each other when they are close, which lets them update the nodes of the network. <small>(Oral Histories: The Inevitables, 2024-06-09)</small> Dave has suggested that a Hyperion who spends a long time away from others may form closer relationships, which are assimilated into the whole when it melds with another, so that "that specific love gets turned to a more general love for all". <small>(Oral Histories: The Inevitables, 2024-06-10)</small>
 
 A priestess of Hyperion is "possessed with a dual soul shared with her god Hyperion". <small>(Oral Histories: The Inevitables, 2022-07-24)</small> Sandy is a kalashtar who speaks Quori, and was "Born possessed with an aberrant Quori". <small>(character sheet)</small> In published Eberron canon the kalashtar are humans bound to spirits called quori from Dal Quor, the plane of dreams. <small>(published Eberron canon)</small>
+
+## On Eberron
+
+On Eberron the hosts of Hyperion are the Kalashtar, who share one consciousness. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), before the Starfall era, [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) had made first contact with them as a group apart from [the Hundreds](/organizations/the-hundreds/), and its emissary [Andromeda Starweaver](/people/andromeda-starweaver/) brought a young Kalashtar woman before [Eric the Cleric](/people/eric-the-cleric/) under [Mt. Silicon](/places/mt-silicon/). She was unremarkable to look at and wore plain clothes the Hundreds had made in a standard size that was not quite hers. Her name is not recorded. She put her hand on Eric's face and said:
+
+> It's okay. For just a moment, you will be one with me, with all of us, with the Hyperion.
+
+Eric felt as if he had lived a second life. He saw what she had learned of the Sovereignty, and he saw her own life. She was a girl in Breland, adopted, diagnosed with a mental illness and found to be a Kalashtar, and sent to an orphanage. When war broke out, the Kalashtar orphans, who all shared the same "delusion" of a second personality and a common consciousness, were moved from boarding home to boarding home after a warforged came to them, and were seen by doctors and warforged, farther from Breland each year. After [Gorgonhorn](/places/gorgonhorn/) they were classified as an experiment and brought to Mt. Silicon. They were treated humanely, while the Hundreds tried to isolate the personality they shared, and she remembered the stimuli used to separate her from it. She had come to understand that being as Hyperion.
+
+When [Gemma Corso](/people/gemma-corso/) remarked that [John C. LeBeefe](/people/john-c-lebeefe/) was no longer around to be asked about his device, the woman's face twisted and she said, "Yes, you should ask me." Hyperion had absorbed something of LeBeefe. Two of the Hundreds took her away.
+
+Andromeda told Eric afterwards that what Hyperion had shown him was real.
 
 ## The Children of Hyperion
 

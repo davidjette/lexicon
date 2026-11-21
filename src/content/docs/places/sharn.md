@@ -27,7 +27,7 @@ fields:
   founding_date: Unknown; the site held Dhakaani workings and mind flayer elder brains long before the modern city
   population: Unknown
   demonym: Sharnian
-  government: Provisional Council of Sharn under Chancellor Eric the Cleric; formerly Imperial rule through the Iron Veil
+  government: Council of Sharn under Chancellor Renn Tal, with the Hundreds holding military power and the airspace; before her, Chancellor Eric the Cleric; formerly Imperial rule through the Iron Veil
   districts: The Upper City (Veil Building, Skyport, GoldSky Neighborhood, the Bazaar); the Lower City (Lantern District, City Center, Sub-line District, The Cogs, Gear Street Markets, Lowline Ward); the undercity and the Underhive
   infrastructure: Skyports, Airbus sky lanes, Zephyr Pods, the Grand Aqueduct, the decommissioned Lightning Rail Sub-Transit, the Arcane Eye Security Network
   defenses: Formerly the Iron Veil and its Veil Hounds; now Warforged engineers, R.U.S.T. and Council levies
@@ -37,8 +37,9 @@ fields:
   architecture: Towers upon towers, catwalks, skylifts, and levels built on the roofs of older levels
   location: Breland, southwestern Khorvaire
   owner: Itself, since the fall of the Iron Veil
-  ruler: Chancellor Eric the Cleric
+  ruler: Chancellor Renn Tal
 sources:
+- sources/sessions/korth-2026-11-20-summary.md
 - sources/site/home.txt
 - sources/site/ebt-7.txt
 - sources/site/sharn-episode-summaries.txt
@@ -128,7 +129,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**City · Breland · Vertical metropolis · Formerly Imperial, now self-governing · Standing**
+**City · Breland · Vertical metropolis · Formerly Imperial; governed by its Council under Chancellor Renn Tal, with the Hundreds holding its airspace · Standing**
 
 *Also known as:* the City of Towers <small>(published Eberron canon)</small>
 
@@ -200,7 +201,13 @@ A provisional government formed within a day. Leef, NEST, the Silver Flame, R.U.
 
 ## Aftermath
 
-Three years after the rising, the free city was hungry. The destruction of [Zilspar Farm](/places/zilspar/) left Sharn a month from severe food shortages, and it was already out of fuel; Nest engineers bled the **Eye of Corruption**'s rising output off as furnace fire, and Renn Tal declared the Eye the property of Sharn. Three warforged under Himmie Joffa offered to feed a city they calculated was forty-seven days from famine; the price was military and logistical access to Sharn's airspace for the airships of the Hundreds. The Chancellor granted it, knowing it was a trick, and hoped only to survive Korth in time to take it back. A capital ship then settled out of the fog each morning to hand out fruit in orderly lines, and Locke Pierce had taken the skies of Sharn. The city had not been heard from when the campaign ended.
+Three years after the rising, the free city was hungry. The destruction of [Zilspar Farm](/places/zilspar/) left Sharn a month from severe food shortages, and it was already out of fuel; Nest engineers bled the **Eye of Corruption**'s rising output off as furnace fire, and Renn Tal declared the Eye the property of Sharn. Three warforged under Himmie Joffa offered to feed a city they calculated was forty-seven days from famine; the price was military and logistical access to Sharn's airspace for the airships of the Hundreds. The Chancellor granted it, knowing it was a trick, and hoped only to survive Korth in time to take it back. A capital ship then settled out of the fog each morning to hand out fruit in orderly lines, and Locke Pierce had taken the skies of Sharn.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), after the Original rang at the Ivory Lazaret, Jessica Grimpledink reported from Sharn by *sending*: "It's a miracle. Our agents spread the word. The people spread it further. We've taken them down. The doves have fled. Hundreds have mobilized in Sharn. Ships are moving." Locke Pierce said he was glad the bells in Sharn had been destroyed, because a Sharn full of the dead under Uriel's control would have been a necessary target for the Ruby Nova. Under [Mt. Silicon](/places/mt-silicon/) he and [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), asked Eric to submit Sharn to governance by the Sovereignty in interplanetary affairs, and Andromeda said Pierce had pledged to grant the city and its region autonomy. Eric refused.
+
+A day later [Renn Tal](/people/renn-tal/) appeared on the broadcast as the new Chancellor of Sharn. She mourned "the death of our Chancellor, Eric the Cleric", announced "the unity of all species of Eberron into a single sovereign realm", and welcomed Locke Pierce and Andromeda Starweaver. Eric was alive and in hiding in the Nest, and the Inevitables agreed to keep his survival a secret.
+
+At last report the Hundreds held nearly all military power in the city and its airspace. They had liberalized business and let the houses return to their residences. Renn Tal ran the bureaucracy on the course Eric had left it on, the council set up after the rising was largely intact, and the warforged were well represented in the Cogs. [Blair](/people/blair/) held the ziggurat and the cleared underground.
 
 **Places of Interest:**
 

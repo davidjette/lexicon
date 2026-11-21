@@ -35,6 +35,7 @@ sources:
 - session-2026-09-04-summary.md
 - "Oral Histories: The Inevitables, 2026-08-15"
 - "Oral Histories: The Inevitables, 2026-08-20"
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: khyber-taxonomy-material
@@ -82,11 +83,15 @@ Red Khyber is the Empire's industrial obsession. BioTec's E.D.E.N. units, hybrid
 
 **The live question.** Jessica Grimpledink, working with Bofric, determined that [Esther Crona](/people/esther-crona/)'s wedding gift is **black Khyber and red Khyber together**. She stopped seeing a cursed heirloom and started seeing a prototype weapon, and is now fixated on it. Nobody has said what an alloy of the two does. Nobody knows.
 
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma Corso said that the object which hung over LeBeefe's palace in Newham and caused the New Mourning was red Khyber encased in black Khyber, that Locke Pierce's [Ruby Nova](/items/ruby-nova/) was the same material, and that Uriel had said [the Polygon](/items/the-polygon/) was made the same way. The combination is the technology known in the Starfall era as [the Demoncore](/items/the-demoncore/). Pierce said in the same meeting that red Khyber is found beyond Eberron: the fruit the Hundreds fed to Sharn came from a world "pelted by meteors made of red Khyber, entire planetoids". [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), asked for everything the Inevitables had on the black Khyber bell and how it was made.
+
 ## WHITE KHYBER — SIBERYS
 
 The rocks that fall from the sky: the shed scales of **Siberys**, the shards of the moon, white Khyber.
 
 Dario corrects this one himself, immediately, to **moonstone** — *"because people are imprecise when talking about metallurgy."*
+
+White Siberys is the same mineral as [moonstone](/lore/moonstone/).
 
 ## A note on the progenitors
 

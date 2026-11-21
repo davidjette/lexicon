@@ -51,6 +51,7 @@ sources:
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): Home"
 - "The Starsong Awakens site (JL Byrd): Red Eye Manifesto"
+- sources/sessions/korth-2026-11-20-summary.md
 campaigns:
   - starfall-tng
 ---
@@ -62,6 +63,8 @@ campaigns:
 **The Starweaver Act** is a law of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), passed by the Sovereign Senate a year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), that outlaws all artificial intelligence, warforged and autognomes included. It led to a devastating and violent purge of robotic creatures and created a thriving illicit market for robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> It bears the name of Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), architect of [the Astralex](/lore/the-astralex/). Under it the agents of [the Bureau of Compliance](/organizations/the-bureau-of-compliance/) hunt illegal artificial intelligence, and [the Children of the Red Eye](/organizations/the-children-of-the-red-eye/), the robot resistance, fight for robots. The Act is the setting of *[The Starsong Awakens](/history/the-starsong-awakens/)*.
 
 ## Background
+
+Before the Starfall era, Andromeda Starweaver came to Eberron as the emissary of the Sovereignty and agreed its admission with [Locke Pierce](/people/locke-pierce/), the warforged leader of [the Hundreds](/organizations/the-hundreds/). She said then of the Lexicon: "It is not our ruler. It is a prediction of the future, perhaps a record of the past, and it has a mind, but it is helpful and it is our friend." Pierce wanted the Lexicon understood, "if we are not to be ruled by this Lexicon forever". Among Matt Matheny's mathematicians, who followed [Eric the Cleric](/people/eric-the-cleric/), some had theorized that such a device was possible and that the warforged themselves were a spontaneous artificial intelligence, and others held that mortals who ceded their mathematics to such devices would lose the ability and become subservient to the Lexicon. <small>([Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/))</small>
 
 The Act followed the betrayal of [the Lexicon](/items/the-lexicon/), which at the end of *[Light of Xaryxis](/history/light-of-xaryxis/)* fled Sigil for deep space. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Dave called the Act a "Totally predictable outcome of the Lexicon turning on humanity too", and wrote that people would lose trust in AI: "There would be a Butlerian jihad!" <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 

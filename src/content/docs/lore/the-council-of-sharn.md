@@ -36,6 +36,7 @@ sources:
   - worldanvil/sources/site/rebel-factions.txt
   - worldanvil/CANON.md
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-council-of-sharn-article
@@ -104,7 +105,10 @@ By nightfall a provisional government existed. [Eric](/people/eric-the-cleric/) 
 
 > Sharn was free but rebuilding had only begun.
 
-**Established:** the Council of Sharn, provisional government · **Chancellor:** Eric the Cleric · **Executed:** Sister Nora, Hillary Heinrick, Joanne Menka and senior Iron Veil officials · **Unresolved:** the theft of Esther Crona's body
+## AFTERMATH
+
+Three years later, in [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), [Renn Tal](/people/renn-tal/) announced on the broadcast that Chancellor Eric the Cleric had died in what happened at Korth and the Lazaret, and spoke as the new Chancellor of Sharn, welcoming [Locke Pierce](/people/locke-pierce/) and [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). Eric was alive and in hiding. At last report Renn Tal ran the bureaucracy on the course Eric had left it on, the council was largely intact, and the Hundreds held nearly all military power in the city and its airspace.
+**Established:** the Council of Sharn, provisional government · **Chancellor:** Eric the Cleric, then Renn Tal · **Executed:** Sister Nora, Hillary Heinrick, Joanne Menka and senior Iron Veil officials · **Unresolved:** the theft of Esther Crona's body
 
 <small>The Chancellor's seat is given as Chancellor of Sharn throughout the episode record; one campaign note calls the same office Chancellor of Char. The variant is unresolved.</small>
 

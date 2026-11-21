@@ -42,6 +42,7 @@ sources:
   - sources/sessions/korth-2026-10-30-summary.md
   - sources/sessions/korth-2026-11-06-summary.md
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/dave/2026-11-14-korth-ep-22-on-the-surface.md
   - sources/dave/2026-11-14-end-of-campaign-release.md
   - C:/dev/sharn-campaign/ivory-lazaret-dm.md
@@ -296,6 +297,8 @@ In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario broke
 ## Aftermath
 
 When the fire cleared, the Lazaret, Nos Matre and the buildings of the valley were gone, with the Heir in the middle of the fire. At last report nobody aboard the *Revenge* knew what became of Eden or the Plaza Band. At last count ten bells remained to be broken, at least one of them a Master casting hanging in a Black Dove tower attached to the Imperial Palace, and what became of them when the Original rang was never learned.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Locke Pierce told the Inevitables that the song was being played in every city and the bells were being brought down. Wherever the bells had rung the dead rose for a few minutes and had to be put down. The board in the Hundreds' base under [Mt. Silicon](/places/mt-silicon/) showed red circles over the Lazaret valley and over [Korth](/places/korth/), which was destroyed as well. Pierce said that killing Uriel had held back the Heir's growth long enough for the Hundreds "to get a good shot", and that because the bells had started ringing everyone understood why it had to be done. The portal in the library of the Grand Lodge had been the way goods and fleeing Imperials left the valley, where teleporting was impossible.
 
 **Places of Interest:**
 

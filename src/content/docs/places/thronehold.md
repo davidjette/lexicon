@@ -35,6 +35,7 @@ sources:
   - C:/dev/sharn-campaign/episodes.md
   - 'Oral Histories: The Inevitables, 2026-06-06'
   - 'Oral Histories: The Inevitables, 2026-06-19'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: thronehold-location
@@ -70,6 +71,8 @@ Locke Pierce and the Hundreds ran for their vessels. Three passengers misty-step
 ## Present day
 
 The Summit grounds and the buildings around them were left in ruins, and the whole continent watched it happen on the Empire's own cameras. From the island the border of the Mournlands is visible — including the red dome of Locke Pierce's **Ruby Nova** blooming across the horizon and taking the remnants of Vex's fleet with it. To the free states, that was the moment a new weapon called **the Last Mourning** became the true end of the war.
+
+When the campaign ended Thronehold was largely destroyed. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), told Gemma Corso that her people had witnessed the broadcast from Thronehold, and Locke Pierce said that when he saw that broadcast he realized the Inevitables "did not respect that decision made so long ago as to who would choose the destiny of this planet".
 
 > "Kill Chancellor Eric for the Empire."\
 > — Supreme Admiral Vex d'Lyrandar, broadcast live across Khorvaire

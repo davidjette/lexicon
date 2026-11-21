@@ -37,6 +37,7 @@ sources:
   - worldanvil/sources/site/rebel-factions.txt
   - README.md
   - worldanvil/CANON.md
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-mourning-militaryConflict
@@ -74,9 +75,19 @@ There has already been another. When [Gemma](/people/gemma-corso/), [Dario](/peo
 
 Three catastrophes, then, of the same shape and no agreed mechanism: Cyre, Newham, and the Ruby Nova. Only the third has a named author, and he built it by studying the first.
 
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma Corso said that the object which hung above LeBeefe's palace in Newham and exploded was red Khyber encased in black Khyber, and that Locke Pierce's Ruby Nova was the same material. The two are the same technology, known in the Starfall era as [the Demoncore](/items/the-demoncore/).
+
+## SEEN FROM THE STARS
+
+The Mourning was seen from other worlds. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), told the Inevitables under [Mt. Silicon](/places/mt-silicon/):
+
+> Our diviners first saw your star glow red five times hotter than it normally does. This was many years ago. When we saw this, we dispatched huge ships to sail the purple gas, the ocean between the stars. When we got here, we met the Hundreds.
+
+She said the Sovereignty makes first contact with a distant world on two occasions: when it discovers how to travel faster than light, and when it discovers weapons of this kind. "When we see that, we know it is likely too late, and it is the reason why the universe is not more full of races like ours." The Mourning was what brought the Sovereignty to Eberron.
+
 ## SOMETHING IS CHANGING IN THERE
 
-Before the Thronehold Summit, Locke Pierce sent [Eric](/people/eric-the-cleric/) a **Cyrean Red Pomegranate** — a fruit believed extinct since the Mourning — and it arrived large and fresh. He spoke of "new growth" in the Mournlands. Whether it is an offering, a warning or a sign of the land healing is unclear. Gemma refused to eat it, took one for study at Zilspar Farm, and later handed it to Jessica Grimpledink in Sharn for study.
+Before the Thronehold Summit, Locke Pierce sent [Eric](/people/eric-the-cleric/) a **Cyrean Red Pomegranate** — a fruit believed extinct since the Mourning — and it arrived large and fresh. He spoke of "new growth" in the Mournlands. Whether it is an offering, a warning or a sign of the land healing is unclear. Gemma refused to eat it, took one for study at Zilspar Farm, and later handed it to Jessica Grimpledink in Sharn for study. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Pierce said the fruit the Hundreds fed to Sharn was a species Andromeda Starweaver had brought to them, from a world pelted by meteors of red Khyber, where the plants survive such explosions.
 
 The Mournlands also remain a battlefield. [E.D.E.N.](/organizations/project-e-d-e-n/) hybrid units and undead press against Silver Flame lines around a great Cyrean portal, and every paladin who falls there rises again within moments and joins the other side.
 

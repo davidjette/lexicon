@@ -42,6 +42,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-08-22"
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: deirdre-moro-person
@@ -127,6 +128,8 @@ The cover held only while Deirdre was seen in Korth. Dave, as DM, after the Korr
 In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/) Gemma worked Deirdre's case at [the Imperial Counting House](/places/the-imperial-counting-house/), where Wardress [Ilma Vitt](/people/ilma-vitt/) told her she was the first person from the Ministry to come up that hill in two years. Vitt handed the Advocate her private reconciliation of every probate the Counting House had handled, in her own cipher: the Director and his whole staff were enriching themselves on the property of people who die in the hospital, on donations of land and goods, and on war profiteering, and the Lodge's books would complete the chain. [Director Aurel Kesk](/people/aurel-kesk/) came to the office with three troopers holding Vitt and demanded to know why the Advocate had ordered his wardress out without a warrant. Shown one, he said, *"I can't believe that Merkin, of all people, would pull this."* His men took Vitt into his office and beat her until Deirdre demanded her as a witness and he let her go. Kesk then told the Advocate that Freyd could forget the favour Kesk was going to do him, that there were more important people than he who would be upset if she held too hard to the letter of the law, and that he could make cooperation very worth her while. The Grand Lodge assignment was due the following Monday. <small>(Korth Ep 15)</small>
 
 Gemma dropped the disguise in front of Joseph Roberts in [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/), and wore other faces afterwards.
+
+The Advocate's assignment at the Grand Lodge was to seize its records. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Roberts gave Gemma the ledger of the Grand Lodge with all his dealings in it, including the orc coin from sales of salvage and war material, which completed the mission she had taken on in Deirdre's name. <small>(Korth Ep 23)</small>
 
 **Organizations / Groups:** The Ministry of Law, Korth (Star Advocate) · the Empire
 

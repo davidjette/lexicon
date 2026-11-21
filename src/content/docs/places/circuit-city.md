@@ -34,6 +34,7 @@ sources:
   - sources/site/ebt-7.txt
   - sources/site/sharn-episode-summaries.txt
   - sources/site/mission-board.txt
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: circuit-city-location
@@ -66,3 +67,5 @@ The building's private, covered rooftop houses the **cargo skylift** Graves used
 ## Present day
 
 Now empty, the building sits close enough to the factory that parts of its main floor and roof may fall within the EBT-7 radius of the Lower City's permanent **ArcEye** camera on the Cogs factory roof. Together, these features make Circuit City one of the most strategically advantageous positions near the Ziggurat camera — an abandoned implant shop that is one of the best-placed buildings in [Sharn](/places/sharn/).
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), after the end of the Empire, [Blair](/people/blair/) held the ziggurat and the cleared underground, and Circuit City, with its lift to the hospital, belonged to the Inevitables. <small>(Korth Ep 23)</small>

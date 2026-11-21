@@ -54,6 +54,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2025-11-09"
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-14'
 campaigns:
   - dead-mans-hand
@@ -93,6 +94,7 @@ In order, the eras are the deep past; Antiquity and the rise of Netheril; the fi
    - The [Sharn](/places/sharn/) arc, weeks of action.
    - Three years between Sharn and Thronehold. <small>(Dave, sources/dave/2026-09-14-inevitables-rulings-batch.md)</small>
    - [The Thronehold massacre](/history/the-thronehold-massacre/) and the [Korth](/places/korth/) arc.
+   - First contact. [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) reached Eberron after its diviners saw [the Mourning](/history/the-mourning/), and met [the Hundreds](/organizations/the-hundreds/). About a day after the destruction of the Ivory Lazaret and Korth, its emissary [Andromeda Starweaver](/people/andromeda-starweaver/) was presented to Eberron on the broadcast beside [Locke Pierce](/people/locke-pierce/). <small>([Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/))</small> Eberron later joined the Sovereignty.
 
    By the Starfall era the Sovereignty of Realms spans Toril, Eberron, Oerth and Krynn. <small>(See [Starfall: The Next Generation](/lore/starfall-the-next-generation/).)</small>
 

@@ -37,6 +37,7 @@ sources:
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 - "JL's DM notes: The Unforeseen Strike Back DM Notes"
 - "sources/dave/2026-09-27-leef-jl-notes-rulings.md"
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-nest-organization
@@ -105,6 +106,12 @@ The Nest survived the rising and became a state organ in everything but name. It
 
 > Jessica opened the meeting, crediting the trio for preventing Sharn's fall.
 
+## The underground
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the Nest's agents spread word of the fall of the Empress, and the bells of Sharn were taken down. Jessica reported to Gemma that the Black Doves had fled and that [the Hundreds](/organizations/the-hundreds/) had mobilized in the city. A day after the destruction of the Ivory Lazaret, Gemma brought Eric, Dario, Zero-One and the followers of Matt Matheny to the Nest's teleportation circle, where Jessica, Izaak, Lorian and Bantide Moro met them. Eric told them: *"Now the war against the Empire is over. The war against the Sovereignty begins."*
+
+On the broadcast Renn Tal announced Eric's death, took office as Chancellor of Sharn, and welcomed [Locke Pierce](/people/locke-pierce/) and [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). The Nest became the base of Eric's underground movement, with Matheny's mathematicians, Corvan Bleek, Jessica and Izaak. Its plans were a lab to study and break into [the Lexicon](/items/the-lexicon/) independently of Pierce, to get spelljammer technology, to seed agents in every city, and to approach the orcs. Bleek proposed building the lab in Sharn, where there was magical energy to power the devices. The movement held the old decoded source code, which it did not fully understand. Eric's survival was kept secret. Renn Tal had never seen the Nest or the Upper City safe house. She knew the Lower City safe house, and it was abandoned. Gemma, as the Dread Pirate Roberts, supplied the Nest through Blair. <small>(Korth Ep 23)</small>
+
 **Holdings:** Station 5 beneath Skyroot Park; an Upper City safe house (tunnel collapsed, Sharn Ep 17); the family lockbox in the Sharn Library; the EBT-7 repeater node.
 
-**Known members:** Jessica Grimpledink (leader) · [Zero of Sharn](/people/zero-of-sharn/) · Izaak (liaison) · [Lorian](/people/lorian/) · [Gemma Corso](/people/gemma-corso/), operating in the Korth years under the field name Foxtale.
+**Known members:** Jessica Grimpledink (leader) · [Zero of Sharn](/people/zero-of-sharn/) · Izaak (liaison) · [Lorian](/people/lorian/) · [Gemma Corso](/people/gemma-corso/), operating in the Korth years under the field name Foxtale · from Korth Ep 23, [Eric the Cleric](/people/eric-the-cleric/) in hiding, [Sir Dario Argentino](/people/sir-dario-argentino/) as his bodyguard, [Zero-One](/people/zero-one-fema-nolan/), Corvan Bleek and the followers of Matt Matheny.

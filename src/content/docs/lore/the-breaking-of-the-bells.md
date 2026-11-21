@@ -26,13 +26,14 @@ icon: fa-hammer
 fields:
   type: Counter-artifact campaign
   location: The Korramont, then Sharn
-  date: Korth Ep 11-12; ongoing
+  date: Korth Ep 11-12 to Korth Ep 23
   instruments: Knell, King Corn's black-Khyber warhammer; Corn's brass horn and the fanfare of dawn; the lead-bound folio
   destroyed: The Thirteenth Casting; every cast bell in the Korranberg Bladeworks; the Black Dove hospital bell, Sharn; the Boldrei temple bell, Sharn
   remaining: Ten, at least one a Master casting in Korth - the ninth great casting, in a Black Dove tower attached to the Imperial Palace
   known: Breaking a bell does not notify Uriel; the horn can be reproduced; Knell is likely unique
 sources:
 - sources/sessions/korth-2026-11-13-summary.md
+- sources/sessions/korth-2026-11-20-summary.md
 - worldanvil/sources/site/korth-episode-summaries.txt
 - handouts/hells-bells-dossier.md
 - current-state.md
@@ -54,7 +55,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Counter-artifact campaign · The Korramont, then Sharn · Korth Ep 11–12, ongoing**
+**Counter-artifact campaign · The Korramont, then Sharn · Korth Ep 11–12 to Korth Ep 23 · The bells brought down in every city**
 
 **The breaking of the bells** is the counter-artifact campaign the Inevitables have waged against the chorus of the Fantanya Nyel, begun in the Korramont in Korth Ep 11–12 and continued in Sharn. For a decade [Fulcrum](/organizations/fulcrum/) had been counting bells and nobody had worked out what to do about one; the answer had been forged by a slave king in the mountain the Empire was casting them in, and buried with him. Three answers came out of the Korramont — the hammer **Knell**, King Corn's horn and the fanfare of dawn, and the forging folio. With them the campaign has destroyed [the Thirteenth Casting](/items/the-thirteenth-casting/), every cast bell in the Korranberg Bladeworks, the hospital bell in Sharn and the bell of the temple of Boldrei; ten castings remain, at least one of them a Master.
 
@@ -101,4 +102,10 @@ The Original was the mother bell, and every other bell in the chorus was copied 
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the Original was rung at Nos Matre and Dario broke it with Knell. The bell split to its crown, peeled open, fell in on a single point and burst, and the belfry came down. The dead stopped rising. The dead already raised stayed under Uriel's control through the Polygon until it too was struck.
 
-**Destroyed:** the Thirteenth Casting; every cast bell in the Korranberg Bladeworks; the hospital bell, Sharn; the Boldrei temple bell, Sharn · **Remaining:** ten, at least one of them a Master casting in Korth — the ninth great casting, hanging in a Black Dove tower attached to the Imperial Palace
+## EVERY CITY
+
+When the Original rang, bells rang elsewhere, and the dead rose for a few minutes wherever they did and had to be put down. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Locke Pierce sent word to Gemma: "They're playing the song in every city. And they're bringing down the bells." Jessica Grimpledink reported from Sharn: "Our agents spread the word. The people spread it further. We've taken them down. The doves have fled." Korth, where the ninth great casting hung, was destroyed.
+
+[Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), asked the Inevitables for everything they had on the black Khyber bell and how it was made, as a matter of interest to the Sovereignty. They told her nothing of what they held: Knell, the notes from Deeptempura, the folio, which Eric had read and remembered, and the miniature of LeBeefe's device in Jessica Grimpledink's keeping. Eric proposed destroying every document about the bells.
+
+**Destroyed:** the Thirteenth Casting; every cast bell in the Korranberg Bladeworks; the hospital bell, Sharn; the Boldrei temple bell, Sharn · **Remaining:** ten at the last count before the Original rang, at least one of them a Master casting in Korth — the ninth great casting, hanging in a Black Dove tower attached to the Imperial Palace. The bells were then brought down in every city, and Korth was destroyed

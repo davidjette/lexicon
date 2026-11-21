@@ -31,9 +31,10 @@ fields:
   usedBy: Uriel Qualanthri, Empress-caretaker
   discovery: Recovered from the Greenbluff mines by Esther Crona, Uriel Qualanthri, John C. LeBeefe and Locke Pierce
   creationDate: Unknown; buried by a Celestial Queen centuries ago
-  destructionDate: Extant. The Thirteenth Casting was destroyed by Knell; ten bells remain.
+  destructionDate: The Original was destroyed by Knell in Korth Ep 22. The Thirteenth Casting was destroyed by Knell before it; the remaining bells were brought down in every city afterwards.
 sources:
 - sources/sessions/korth-2026-11-13-summary.md
+- sources/sessions/korth-2026-11-20-summary.md
 - worldanvil/sources/wa/the-hell-s-bell-28fantanya-nyel29-item.txt
 - handouts/hells-bells-dossier.md
 - handouts/fulcrum-bell-file.md
@@ -75,7 +76,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Unique Artifact · Necromantic resonance instrument · Ancient elvish fabrication · In Imperial keeping · Whereabouts withheld from every schedule**
+**Unique Artifact · Necromantic resonance instrument · Ancient elvish fabrication · Destroyed ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/))**
 
 *Also known as:* Fantanya Nyel · Fantanya Nyel · Fantanya (Hells) Nyel · Hell's Bell · Hell's Bells · the Original · the mother bell · the Greenbluff Bell · file HB-CHORUS-13
 
@@ -179,7 +180,13 @@ The party had already barely resisted an urge to ring the bell themselves, cause
 
 Back in Sharn, Dario destroyed two more in a single morning. The first sat crated and packed with straw in the unfinished tower above the Black Dove hospital, muffled by people too frightened to touch it; he cleared the packing himself and swung with *“may our children forgive us.”* The second hung in a small temple of Boldrei in the lower city, where the strike brought the whole tower down through the floor into the building below and turned a pacified crowd against him. Research in the same week established three things: the method for making more horns, that **breaking a bell sends no word of itself back to Uriel**, and that Knell is very likely unique.
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Uriel rang the Original from the belfry of Nos Matre. Its tolls raised the dead of the hill, deafened Eric the Cleric and brought down the dragon Aurorix. Dario struck it with Knell. A split ran to its crown, it peeled open into layers, collapsed into a rainbow of metal drawn to a single point, and burst, bringing down the tower. No more dead rose after that. What became of the other bells is not yet known.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Uriel rang the Original from the belfry of Nos Matre. Its tolls raised the dead of the hill, deafened Eric the Cleric and brought down the dragon Aurorix. Dario struck it with Knell. A split ran to its crown, it peeled open into layers, collapsed into a rainbow of metal drawn to a single point, and burst, bringing down the tower. No more dead rose after that.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Locke Pierce reported that the song was being played in every city and the bells were being brought down. Wherever the bells had rung the dead rose for a few minutes and had to be put down. Korth, where the ninth great casting hung, was destroyed. [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), then asked the Inevitables for the bell's secret:
+
+> Your enemy, your empress, she used a bell made of black Khyber and you were able to resist its effects. We are very interested.
+
+She said any material on the bell and its creation would be of tremendous value to the Sovereignty, and that there is a standard exchange of critical kinetic technologies between sovereign nations and [Astral Command](/organizations/astral-command/). The Inevitables gave her nothing.
 
 **Ten bells remain**, at least one of them a Master in Korth — **great casting the ninth**, hanging in a Black Dove tower attached to the Imperial Palace itself. The Original was returned from the Korranberg yard to Her Radiance's keeping under Sister-Inquisitor escort, destination withheld, and the House's factor wrote that the reference *will not travel again before the appointed night.* It hung in the belfry of Nos Matre until Dario broke it.
 
@@ -191,4 +198,4 @@ While she lived, Uriel could set the bells ringing all over Khorvaire. Dave: "st
 
 **Held by the Inevitables:** Knell, the horn, the folio, and one dwarf who reads Corn's shorthand and can play the fanfare.
 
-**Held by the Empire:** the ten remaining bells and three hundred and forty-one parish castings on the Trust's last count. The Original is destroyed, and so is the woman who meant to ring them.
+**Held by the Empire:** the ten remaining bells and three hundred and forty-one parish castings on the Trust's last count before the Original rang. The Original is destroyed, and so is the woman who meant to ring them. The bells were brought down in every city afterwards.

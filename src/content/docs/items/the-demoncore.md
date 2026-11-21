@@ -21,14 +21,16 @@ fields:
   type: Weapons system
   creator: Astral Command (secret program)
   owner: Astral Command
-  material: Unknown
+  material: Black Khyber, red Khyber and moonstone
   rarity: Unique
   condition: Unknown
   status: Recovered by Katrina McQuaid and Horgus Simianis after the Beholder War
 sources:
 - "Oral Histories: The Inevitables, 2024-03-09"
 - "Oral Histories: The Inevitables, 2024-03-16"
+- sources/sessions/korth-2026-11-20-summary.md
 campaigns:
+  - the-unforeseen-strike-back
   - starfall-tng
 ---
 
@@ -38,7 +40,17 @@ campaigns:
 
 **The Demoncore** is a secret weapons system of [Astral Command](/organizations/astral-command/), capable of turning an entire plane undead. It was first used in [the Beholder War](/history/the-beholder-war/), where [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) served the secret program behind it, and Katrina chose to recover the weapon over saving stranded civilians. A containment breach of the Demoncore later turned the entire crew of [the SSJ Stonecypher](/items/the-ssj-stonecypher/) undead.
 
+## Composition
+
+The Demoncore is three magical ores combined in one device: black Khyber, for its resonant effects; red Khyber, for its hugely reactive power and its capacity to store magic; and [moonstone](/lore/moonstone/), the white Khyber or Siberys of [Eberron's taxonomy](/items/khyber-taxonomy/), for its complexity and its spell-storing ability. Magical ores are consistent from world to world. <small>(Dave, 2026-11-20)</small>
+
 ## History
+
+### Eberron
+
+The technology existed on Eberron before the Starfall era. The device that hung in the sky over the palace of [John C. LeBeefe](/people/john-c-lebeefe/) at [Newham](/places/newham/), [red Khyber](/items/red-khyber/) encased in black Khyber, whose explosion caused the [New Mourning](/places/new-mourning/); the [Ruby Nova](/items/ruby-nova/) of [Locke Pierce](/people/locke-pierce/); and [the Polygon](/items/the-polygon/) of [Uriel Qualanthri](/people/uriel-qualanthri/) were the same technology, and it is the technology of the Demoncore. <small>(Dave and Nico, 2026-11-20)</small> The bells of Uriel, cast in black Khyber, raised the dead where they rang, which is what the Demoncore later did to the crew of the Stonecypher.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), when [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) made itself known on Eberron, its emissary [Andromeda Starweaver](/people/andromeda-starweaver/) asked for any material Eberron held on Uriel's black Khyber bell and its creation, as part of the standard exchange of critical kinetic technologies between sovereign nations and Astral Command. [The Inevitables](/organizations/the-inevitables/) held the hammer [Knell](/items/knell/), the knowledge in [Corn's folio](/items/corn-s-folio/) and a miniature of LeBeefe's device, and gave her none of it.
 
 ### The Beholder War
 
@@ -53,3 +65,5 @@ Dave called Astral Command's possession of a weapon that can turn an entire plan
 ### The SSJ Stonecypher
 
 After its first use, the Demoncore "went wrong on the Stonecypher, where a containment breach led to the entire crew turning undead". <small>(Oral Histories: The Inevitables, 2024-03-09)</small> The crew of the SSJ Zanzibar found the ship derelict and overrun with undead in Doomspace.
+
+Katrina McQuaid and Horgus Simianis were aboard. A Demoncore was detonated on the ship by accident, the two of them resisted the power that turned the rest of the crew into zombies, and they were stranded aboard for years until the Zanzibar found them. <small>(Dave and Nico, 2026-11-20)</small>

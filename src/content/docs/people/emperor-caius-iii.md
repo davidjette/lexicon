@@ -41,6 +41,7 @@ fields:
   weight: Unknown
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/site/korth-episode-summaries.txt
   - sources/site/pose-mission-notes.txt
   - sources/site/esther-crona.txt
@@ -206,6 +207,8 @@ The fire destroyed him. A vampire with a stake through his heart cannot turn to 
 **Qualanthri blood** was a weakness of his. Anyone who carried it had some hold on him; Uriel, E'noch and Saturnia all carried it.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) his heir was born under the Lazaret. Uriel said of the child that he had his father's teeth. She was destroyed, the child was last seen at the centre of the fire that took the valley, and the Summer Palace where the Emperor's body burned went with it.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Kitsune](/people/kitsune/) told Gemma Corso something he said he could not tell her before. By his account Kaius's mother came to him as well, begging for someone to save her baby. He told her he could, and she would not pay his price. Her husband then met Crona and E'noch, who had what looked like a better solution, and it replaced the child. Kitsune called Uriel a big mistake whom many people misjudged, Kaius most of all. In the same episode Locke Pierce said of the Empire: "The empire is dead. We must keep it that way."
 
 ![Emperor Kaius III with Sisters of the Blood - Ivory Lazaret.png](/images/uploads/emperor-kaius-iii-with-sisters-of-the-bl-mv1bx6ud.webp)
 *Emperor Kaius III with Sisters of the Blood - Ivory Lazaret*

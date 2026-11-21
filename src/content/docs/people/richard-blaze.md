@@ -42,6 +42,7 @@ sources:
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
   - 'JL''s DM notes: The Unforeseen - Rekkenmark - Overdrawn at the Memory Bank'
   - Esther Crona, as revised by Nico, 2026-10-07
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: richard-blaze-person
@@ -379,6 +380,8 @@ In reality, Richard and Calcifer survived and were teleported to Zilspar Farm. T
 [Digma Beeve](/people/digma-beeve/) believed Richard would probably take Calcifer somewhere around [Leef](/places/leef/) and disappear completely, but this was never confirmed.
 
 Richard was alive at the end of the campaign, and his location was unknown.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the Inevitables left him and Calcifer in hiding. Locke Pierce did not know of them, and might see the boy as a threat to the throne. They agreed to reach the two through Digma Beeve if they had to. <small>(Korth Ep 23)</small>
 
 ---
 

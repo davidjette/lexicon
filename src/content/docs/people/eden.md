@@ -36,6 +36,7 @@ fields:
 sources:
   - sources/dave/2026-11-14-korth-ep-22-on-the-surface.md
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - worldanvil/sources/site/mission-board.txt
   - worldanvil/sources/site/biotec.txt
   - worldanvil/sources/site/pose-mission-notes.txt
@@ -167,7 +168,7 @@ Eden's survival became the foundation of [Project E.D.E.N.](https://davidjette.g
 
 The programme's name is associated with *Empire's Design for Enemy Neutralization*. A broader Imperial doctrine also used the title *Empire Directive for Eternal Nightfall*. These names reflect the programme's place within a wider military effort to turn the dead and the mechanically enhanced into instruments of Imperial power.
 
-Eden's initial restoration was an imperfect foundation. Later development drew on the work of the [BioTec] (https://davidjette.github.io/lexicon/organizations/biotec/) Hybridization Division, the Black Dove Church, House Lyrandar, and the Imperial military and [Iron Veil](/organizations/the-iron-veil/). The programme combined necromantic rites, mechanical assemblies, arcane binding agents, and stabilizing compounds derived from Embra.
+Eden's initial restoration was an imperfect foundation. Later development drew on the work of the [BioTec](https://davidjette.github.io/lexicon/organizations/biotec/) Hybridization Division, the Black Dove Church, House Lyrandar, and the Imperial military and [Iron Veil](/organizations/the-iron-veil/). The programme combined necromantic rites, mechanical assemblies, arcane binding agents, and stabilizing compounds derived from Embra.
 
 The resulting units were designed for environments where living soldiers were at a severe disadvantage. They could operate in cursed regions such as the Mournlands and the Glass Plateau, withstand many effects that made those places hostile to ordinary personnel, and retrieve or transport dangerous materials without the same vulnerabilities as conventional troops.
 
@@ -244,6 +245,8 @@ Three years after the fall of Sharn, E.D.E.N. units remained active in the field
 Eden's stated intention to rule the Empire with her sister was never carried out. At Nos Matre she demanded her sister from Uriel, and Gemma answered her with Esther's name. The Blue Devil was a weapon created by the Empire, and her words at King's Forest showed that she was no longer acting in accordance with the purposes for which she was made.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) her units came up the walkway of Nos Matre firing at the temple and at the Polygon while the dead closed around them. She shouted across the forecourt at Uriel: *"Give me my sister!"* Uriel answered that the dead belonged to her, and Eden's eyes turned purple. The Polygon carried the Empress's will, and Eden was under it from then on. She shot Gemma off the back of the dragon Aurorix, leapt twenty feet into the air to cut at Eric, and called Gemma a liar when told that Esther was below. She was still in the forecourt when Gemma and Eric went underground. Afterwards Dario and Matt Matheny's people saw her go down into the hospital, where she freed her sister Esther Crona from the slab room. The valley was destroyed soon afterwards, and nobody aboard the *Revenge* saw what became of her.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Zero-One confirmed to Gemma that it was Eden who took her at Zilspar Farm, and that the attackers killed everyone and destroyed everything. Locke Pierce admitted that he had tipped off the Empire to the location of Fulcrum's agents. In Sharn Gemma told [Blair](/people/blair/) that Uriel had raised her sister's body at the Lazaret, that she had seen Eden too, and that both were gone. <small>(Korth Ep 23)</small>
 
 ## What Sister Nora Knew
 

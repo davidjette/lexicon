@@ -27,6 +27,7 @@ fields:
 sources:
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-lodge.transcript.txt
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-26'
 campaigns:
   - the-unforeseen-strike-back
@@ -58,3 +59,5 @@ By Ilma Vitt's private reconciliation, the Director and his staff are enriching 
 ## In the Korth arc
 
 In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), [General Stockton Thar](/people/general-stockton-thar/) cornered Director Kesk in the main hall and demanded to be taken to the Emperor. [Gemma Corso](/people/gemma-corso/), as the Star Advocate [Deirdre Moro](/people/deirdre-moro/), came to work her case here, received Vitt's reconciliation, and took Vitt out of the Director's hands when his men beat her. The Counting House has been openly hostile to Deirdre since.
+
+The valley of the Ivory Lazaret was destroyed in [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/). In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the defectors from the Counting House were aboard the airship *Revenge* with Ilma Vitt and the followers of Matt Matheny. [Locke Pierce](/people/locke-pierce/) asked that Eric and his friends from the Counting House work with him on [the Lexicon](/items/the-lexicon/), saying he needed the greatest mathematical minds in Eberron. Eric refused him, and the mathematicians went with Eric to the Nest in Sharn, where Corvan Bleek proposed a lab of their own. <small>(Korth Ep 23)</small>

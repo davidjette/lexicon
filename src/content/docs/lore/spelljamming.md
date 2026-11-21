@@ -53,6 +53,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-07-12"
 - "The Starsong Awakens site (JL Byrd): New ships"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
+- sources/sessions/korth-2026-11-20-summary.md
 gallery:
 - src: /images/chat/2023-04-08-1578574185974243.webp
   alt: "Stat block for the Minnow"
@@ -63,6 +64,9 @@ gallery:
 - src: /images/chat/2023-04-13-254465773592134.webp
   alt: "Space dogfighting mishap table"
   caption: "A ten-entry mishap table for ship combat, from minor hull breach to catastrophic mishap with a d4 sub-table."
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-chase.webp
+  alt: "Two spelljammers of the Hundreds run down the Revenge"
+  caption: "Lexical rendering: Two spelljammers of the Hundreds run down the Revenge - Korth Ep 23, The Father of the Hundreds"
 image:
   src: /images/starsong/gnat.webp
   alt: "The Gnat"
@@ -123,6 +127,10 @@ At the table Dave took the Gimbal Speeder to be named for [Flex Gimble](/people/
 ## In the Ages of the Infanta
 
 In the [Ages of the Infanta](/lore/temple-holdings-llc/) the epic spells **Spheresail**, used to make spelljammer helms, and **Breach Crystal Sphere**, used to travel through the interstellar medium, were known, and the orcs of that age studied the nature of the Crystal Spheres. <small>(Oral Histories: The Inevitables, 2021-10-23)</small> Starfall is set some five thousand years after the Ages, after the great melting of the 6700s. <small>(Oral Histories: The Inevitables, 2022-10-09, 2022-10-10; other figures given at the table: 2,000 years after the Ages for Realmspace as home world, a thousand-year history for Astral Command, and ten thousand years for the Lexicon's own age)</small>
+
+## On Eberron
+
+Spelljammers flew over Eberron before the Starfall era, when [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) made first contact there. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) two huge spelljammers crewed by [the Hundreds](/organizations/the-hundreds/) broke the cloud layer in pursuit of the airship *Revenge*. They looked old and broken down, and were unlike any vessel her crew had seen. The Sovereignty had given the Hundreds a small fleet to protect Eberron's realm space; the Hundreds had learned to fly the ships, and [the Lexicon](/items/the-lexicon/) operated them. The pirate [Joseph Roberts](/people/pirate-joseph-roberts/) said that Eberron's sailors had old shanties and tales about people who could sail into the sky and beyond the stars.
 
 ## Ship combat
 

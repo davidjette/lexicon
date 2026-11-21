@@ -39,6 +39,7 @@ sources:
   - sources/site/korth-episode-summaries.txt
   - worldanvil/CANON.md
   - 'Oral Histories: The Inevitables, 2026-02-15'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-unforeseen-organization
@@ -98,7 +99,7 @@ John C. LeBeefe was made Grand Duke and carried the Empire east, until the risin
 
 Esther Crona became Lord Commander and Grand Inquisitor of Sharn. She died there at the end of the rising. Her last broadcast voided the Iron Veil's pact across the whole city, and her final command was to kill Empress Uriel Qualanthri. She was raised under the Ivory Lazaret three years later and died again in the Sept of Bones, trying to carry out that command herself.
 
-Locke Pierce turned. He led The Hundreds, and brought them to Sharn to fight alongside the rebellion in the assault on the Veil Building. A ship of his Hundreds dropped the Ruby Nova that burned Uriel's valley. He is the only founder who outlived the second campaign.
+Locke Pierce turned. He led The Hundreds, and brought them to Sharn to fight alongside the rebellion in the assault on the Veil Building. A ship of his Hundreds dropped the Ruby Nova that burned Uriel's valley. He is the only founder who outlived the second campaign. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) he had agreed with [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), that Eberron would become a sovereign realm with himself as its leader. He told the Inevitables: "remember that a very long time ago, four people divided this world. And we have jurisdiction." He said that when he saw their broadcast from Thronehold he realized they "did not respect that decision made so long ago as to who would choose the destiny of this planet". Part of LeBeefe had by then been absorbed into [Hyperion](/lore/hyperion/), the shared consciousness of the Kalashtar.
 
 ## The party that became the villains
 
@@ -123,4 +124,4 @@ In the world the four made, "there are rival god cults to the imperial one that 
 | [Esther Crona](/people/esther-crona/) | High Inquisitor of the Crimson Sun, age 19 | Lord Commander of the Imperial Military, Director of the Iron Veil | Dead — Sharn Ep 18, aged 31; raised, and dead again in Korth Ep 22 |
 | [Uriel Qualanthri](/people/uriel-qualanthri/) | Black Dove combat medic, conscript of the Pax Imperium | Holy Empress; "the White Death" | Dead — destroyed in the Sept of Bones, Korth Ep 22 |
 | [John C. LeBeefe](/people/john-c-lebeefe/) | Magister of New Ham; slaver | Grand Duke, who carried the Empire east | Dead at Newham; his voice was heard afterwards |
-| [Locke Pierce](/people/locke-pierce/) | Ancient Relic Specialist of the Rekkenmark | Leader of The Hundreds, the Warforged nation of the Mournlands | Alive at the end of the campaign |
+| [Locke Pierce](/people/locke-pierce/) | Ancient Relic Specialist of the Rekkenmark | Leader of The Hundreds, the Warforged nation of the Mournlands | Alive at the end of the campaign, leading Eberron under the Sovereignty of Realms |

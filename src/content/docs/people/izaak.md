@@ -44,6 +44,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-07-12'
   - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: izaak-person
@@ -117,6 +118,8 @@ Zilspar Farm was destroyed and his mother taken alive by Eden units; [Jessica Gr
 In [Korth Ep 14 — The Listening Post](/sessions/korth-ep-14-the-listening-post/) the trio found Izaak in the Imperial listening post in Korth, where the Empire had been harvesting the ghost chips of captured Fulcrum members through him. Gemma drew a teleportation circle around him because he could not be moved, aimed at [Esther Crona](/people/esther-crona/)'s old penthouse in Sharn. He surfaced while the ink went down: "It was Pierce, he says. Pierce's intelligence. They had some kind of back door with the Empire. I think he gave me up." He learned that Zilspar was gone and his mother taken, and took it in silence. The Nest confirmed it had received him and that he was well, and gave him the first codename he had ever had: Ace.
 
 At last report Izaak was safe in Sharn with the Nest.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Locke Pierce admitted to the Inevitables under Mt. Silicon that he had tipped off the Empire to the location of Fulcrum's agents. Izaak was at the Nest with Jessica Grimpledink, Lorian and Bantide Moro when Eric, Dario and his mother Zero-One returned to Sharn, and he joined the underground movement that Eric, publicly declared dead, led from the Nest against Pierce. <small>(Korth Ep 23)</small>
 
 > "His independence makes him a trusted figure among The Nest and Fulcrum."
 

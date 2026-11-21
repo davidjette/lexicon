@@ -27,7 +27,7 @@ fields:
   dobDisplay: Unknown
   birthplace: The jungle near Q'barra
   children: Red Dragon Shrimp
-  residence: No fixed residence - on campaign; kin by marriage in the Mror Holds
+  residence: The Nest, Sharn, beside Eric; kin by marriage in the Mror Holds
   gender: Male
   age: Unknown
   eyes: Blind in one eye; the revivification diamond sits in the empty socket. Original colour unrecorded.
@@ -38,6 +38,7 @@ fields:
 sources:
 - sources/dave/2026-11-14-korth-ep-22-on-the-surface.md
 - sources/sessions/korth-2026-11-13-summary.md
+- sources/sessions/korth-2026-11-20-summary.md
 - sources/sessions/korth-2026-11-06-summary.md
 - sources/sessions/korth-2026-10-30-summary.md
 - sources/sessions/korth-2026-10-23-summary.md
@@ -151,6 +152,9 @@ gallery:
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-zombie-dragon.webp
   alt: "Dario meets the zombie dragon on the cathedral roof"
   caption: "Lexical rendering: Dario meets the zombie dragon on the cathedral roof - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-oath.webp
+  alt: "Dario holds his oath complete"
+  caption: "Lexical rendering: Dario holds his oath complete - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
@@ -294,13 +298,31 @@ In the forecourt, beside [the Polygon](/items/the-polygon/), Gemma brought the E
 
 He put Pale Fire away, took out Knell, and went for the Polygon. He did not reach it. When Gemma and Eric went underground he stayed on the surface, saw Matt Matheny's people and Fema Nolan on the hillside with the dead closing on them, and flew to defend them instead. Valtrex came to their aid and dissolved the field of zombies in acid. From there Dario saw Eden go down into the hospital to free Esther Crona, and saw Esther fly for the crypt. He and Matheny's people rushed after her and opened the crypt from above. He was mobbed by the dead and badly hurt. He came down into [the Sept of Bones](/places/the-sept-of-bones/) close to death, threw Eric the greatberry that the people above had saved for him, and gave the news: *"That thing up there? It's going to blow."* Breaking it had weakened the hordes, he said. He told the others to run and leave Uriel to him. When Eric destroyed her with the mace of disruption, Dario said, *"Hey man, nice shot."* He killed two of the bone guards as [the Heir of Vol](/people/the-heir-of-vol/) grew, and offered to stay and cover the others, which they refused. Gemma carried him out by *dimension door* to the cathedral roof, and Joseph Roberts pulled them aboard the *Revenge*. On deck, after the valley had burned, he slid down against the wall and wept. <small>(Korth Ep 22)</small>
 
+## The Father of the Hundreds
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), on the deck of the *Revenge*, the three weighed [Locke Pierce](/people/locke-pierce/)'s summons and what they knew of the destruction of Zilspar Farm. Dario said: *"And if they did Zilspar, I will kill Locke Pierce and cut his wires or whatever he's got."*
+
+Under [Mt. Silicon](/places/mt-silicon/) Pierce set out his offer to Eric and Gemma, and turned to him last: *"Dario, uh, listen. I don't have much for you, except you look really cool."* Left alone with the others for an hour, Dario pointed out that the bells are more than a bomb, since they raise the dead. He said he wanted to go home to his children, and named them: Red Dragon Shrimp, Orange Chicken, Yellow Curry, Green Coconut Soup and Blue Sorbet. His wife had laid a dozen eggs. He took out his sword and threw it on the floor.
+
+> "I hold my oath complete. The rebellion's over. We've won."
+
+He told Eric that without him Pierce would get everything he wanted: *"You could lead Sharn for 50 years. You could find a way to take down Locke Pierce. It's impossible to stay on top forever. You have things he doesn't know that you have."* He said he would rather die than see one of Uriel's children on the throne, and that if Eric chose to go down fighting he would go with him, though he would sooner see Eric take down "that rusted mechanical devil" in time.
+
+When [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), came into the room alone, he dropped to one knee by instinct, thought better of it and stood. She spoke to him of his faith:
+
+> "I have learned of the Faith of the Silver Flame. It is a beautiful one, one of the purest I have found in all my travels across the stars. Rarely is there a tradition which exalts the spirit of all without the vain personification of such a power as being the same as one race or another. I commend you, Paladin. I believe you are an example of what could make the Sovereignty great."
+
+When Eric decided to resist, Dario said that if the rebellion was not over then his oath still held. Aboard the *Revenge* that night he sat with [Zero-One](/people/zero-one-fema-nolan/) and told her he could not see the Flame, only darkness, fog and smoke. She answered: *"Where there's smoke, there's fire."* On Roberts's island Eric said he would go back to Sharn and start a new rebellion, and Dario said: *"Absolutely, dude. Yes, brother."* He lit Pale Fire for the jump to [the Nest](/organizations/the-nest/). <small>(Korth Ep 23)</small>
+
 ## Fate
 
-At the end of the campaign Dario was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas with Knell and Pale Fire. Gemma and Eric were aboard with him, with Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp. The Empress he charged with mundicide was destroyed and the Original was broken. The Polygon, the Ivory Lazaret, Nos Matre and the Summer Palace were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). Rum Tum was not seen after the fight, and his fate is not known. At last count ten bells remained, at least one of them a Master, and the ninth great casting hung in a tower attached to the Imperial Palace in Korth. What became of those bells, and of Sharn and Leef, had not been heard.
+After the destruction of the valley Dario was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas with Knell and Pale Fire. Gemma and Eric were aboard with him, with Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp. The Empress he charged with mundicide was destroyed and the Original was broken. The Polygon, the Ivory Lazaret, Nos Matre and the Summer Palace were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). Rum Tum was not seen after the fight, and his fate is not known. At last count ten bells remained, at least one of them a Master, and the ninth great casting hung in a tower attached to the Imperial Palace in Korth. What became of those bells, and of Sharn and Leef, had not been heard.
+
+A day later he was at the Nest in Sharn. The bells had been brought down in every city. He had not gone home. His oath to the rebellion had become an oath of protection over Eric, who had been declared dead and led an underground movement against Locke Pierce, and Dario stood beside him as his bodyguard. Lorian and Zero-One were expected to side with him. He had told Zero-One that he could no longer see the Flame.
 
 **Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · Squire Templar of the Silver Flame, Covenant of the Flame · clan Dawnmantle of Q'barra · the Heroes of Leef · kin by marriage to the swamp-dwarf tribes of the Mror Holds and, through them, to the Deeptempura line.
 
-**Holdings:** No fixed residence — he has been on campaign or underground for three years, and at the end of the Korth arc he is a passenger aboard the *Revenge*. Through Princess Orange Chicken he holds standing in the Mror Holds and at the court of King Six-Foot-Six-Inch-Long.
+**Holdings:** No fixed residence — he has been on campaign or underground for three years, and after Korth Ep 23 he lived at the Nest in Sharn beside Eric. Through Princess Orange Chicken he holds standing in the Mror Holds and at the court of King Six-Foot-Six-Inch-Long.
 
 **Items:**
 
@@ -324,9 +346,9 @@ At the end of the campaign Dario was aboard Joseph Roberts's airship *Revenge*, 
 
 **Spouse:** Princess Orange Chicken
 
-**Children:** Red Dragon Shrimp (RDS)
+**Children:** Red Dragon Shrimp (RDS). In Korth Ep 23 he named five: Red Dragon Shrimp, Orange Chicken, Yellow Curry, Green Coconut Soup and Blue Sorbet.
 
-**Status:** Alive, aboard the airship *Revenge* at the end of the Korth arc.
+**Status:** Alive, at the Nest in Sharn as Eric's bodyguard.
 
 ## Social
 
@@ -334,9 +356,9 @@ At the end of the campaign Dario was aboard Joseph Roberts's airship *Revenge*, 
 
 - **[Yellameet](/people/yellameet/)** — the dwarven swamp shaman whose conditions made the marriage; grandfather of his wife.
 - **Princess Orange Chicken** — his wife, a young dwarven leader of the Mror Holds swamp tribes and one of the defenders of Leef. Alive at last report; Leef has not been heard from since the Lazaret. Their child is Red Dragon Shrimp.
-- **Gemma Corso** and **Eric the Cleric** — met in Leef. Alive; both aboard the *Revenge*.
-- **Zero of Sharn** and **[Zero-One](/people/zero-one-fema-nolan/)** — the Silver Flame's hands in Sharn and at Zilspar. Zero alive at last report. Zero-One was taken by E.D.E.N. units at Zilspar and held in the Ivory Lazaret; Dario carried her out of the slab room in Korth Ep 16. Alive; aboard the *Revenge*.
-- **[Joseph Roberts](/people/pirate-joseph-roberts/)** — the Dread Pirate, who took him off the roof of Nos Matre. Alive; master of the *Revenge*.
+- **Gemma Corso** and **Eric the Cleric** — met in Leef. Alive. Eric is in hiding at the Nest under Dario's guard, and Gemma is the Dread Pirate Roberts.
+- **Zero of Sharn** and **[Zero-One](/people/zero-one-fema-nolan/)** — the Silver Flame's hands in Sharn and at Zilspar. Zero alive at last report. Zero-One was taken by E.D.E.N. units at Zilspar and held in the Ivory Lazaret; Dario carried her out of the slab room in Korth Ep 16. Alive; returned to Sharn with him.
+- **[Joseph Roberts](/people/pirate-joseph-roberts/)** — the Dread Pirate, who took him off the roof of Nos Matre. Alive; retired in Korth Ep 23.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress. He charged her with mundicide in the Summer Palace and took off her head in the forecourt of Nos Matre; Eric destroyed what was left of her in the Sept of Bones. Dead.
 - **[Esther Crona](/people/esther-crona/)** — killed by the Inevitables at Sharn and raised in the Ivory Lazaret. She came to the Sept of Bones to kill Uriel and was fed to the Heir of Vol. Dead.
 - **[Aurorix](/species/aurorix/)** — the gold dragon he woke in the pool of blood beneath the hospital and rode to the bell. Revivified once by Eric, then killed by Valtrex over Nos Matre. Dead.
@@ -349,7 +371,7 @@ At the end of the campaign Dario was aboard Joseph Roberts's airship *Revenge*, 
 - **[Valtrex](/species/valtrex/)** — the black dragon he negotiated with in Draconic and who pulled him out of the acid with his own claw. Eric summoned him to Nos Matre, where he killed Aurorix and then turned on the undead. Alive and free, and last seen flying for the Korramont.
 - **[Madame Tso Teryaki](/people/madame-tso-teryaki/)** and **[General Tso](/people/general-tso/)** — the Teryaki matriarch and her brother. He consecrated their princess with the General. Both refused to evacuate the mountain. Madame Tso was last seen riding Valtrex away from Nos Matre with the scholar Jelton Ahn, wearing the Crown of Seven Stars.
 - **Bofric** — the clan runesmith who translated King Corn's folio and plays the fanfare of dawn. The only dwarf who left with them. In Sharn at last report.
-- **Bantide Moro** — the prisoner who asked him for a holy symbol. She has his prayer book. Hidden in Korth at last report, officially recorded as a suicide.
+- **Bantide Moro** — the prisoner who asked him for a holy symbol. She has his prayer book. Officially recorded as a suicide; at the Nest in Sharn in Korth Ep 23.
 - **Noot Gunray** — the farm hand's boy, sole survivor of Zilspar, whom Dario refused to let anyone question. Alive at last report.
 
 **Hobbies & Pets**

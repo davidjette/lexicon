@@ -38,6 +38,7 @@ sources:
 - C:/dev/sharn-campaign/session-2026-07-15-recap.md
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-14'
 image:
   src: /images/gallery/2026-05-12-04.webp
@@ -88,6 +89,10 @@ In Korth Ep 6 the regiment's scout party, eight orcs including a war-caster, cam
 ## A coin at the Grand Lodge
 
 In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), on the grand stair of [the Grand Lodge](/places/the-grand-lodge/), two members passed a purse between them without looking and a coin fell. [Eric](/people/eric-the-cleric/) picked it up: it had been minted in the Uruk-Hoth Republic. [Gemma](/people/gemma-corso/) heard their talk of hares and crossbows as a cant for business, and remembered what the party had overheard at POSÉ four years earlier: General Thar telling [Esther](/people/esther-crona/) that the Lhazaar Principalities were helping the Uruk-Hoth. The two men went through a door to the south. <small>(Korth Ep 15)</small>
+
+## After the Empire
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), told Eric the Cleric what Eberron's admission to the Sovereignty under [Locke Pierce](/people/locke-pierce/) would mean for the orc state: "War will stop. The Orc Republic will be suppressed and its conquests freed." She said that without a show of unity the war would go on between the orcs, the Aundairians, the Brelish and the Hundreds forever. Eric refused her offer, and afterwards meant to approach the orcs with what he had learned. The ledger of the Grand Lodge, which passed to Gemma Corso, recorded the orc coin Joseph Roberts took for sales of salvage and war material.
 
 **Enemies:** the Empire; [the Iron Veil](/organizations/the-iron-veil/); Crona's Wall and its garrison.
 

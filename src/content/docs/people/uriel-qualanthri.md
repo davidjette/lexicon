@@ -35,6 +35,7 @@ fields:
   weight: Unknown - tall and lithe
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/dave/2026-09-14-eberron-open-questions.md
   - sources/wa/uriel-qualanthri-person.txt
   - sources/wa/episode-1-E2809Cwelcome-to-new-hamE2809D-dm3A-jbyrd-report.txt
@@ -353,6 +354,8 @@ Eric the Cleric destroyed her with a mace of disruption. The diamond was still i
 ### Afterwards
 
 The Heir of Vol, cut from her, grew until he broke the surface under Nos Matre. A ship of Locke Pierce's Hundreds dropped a [Ruby Nova](/items/ruby-nova/) on the valley. When the fire cleared, the Ivory Lazaret, Nos Matre, the Summer Palace grounds and the Heir were gone.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Locke Pierce congratulated the Inevitables on killing her and said that it had held back the Heir's growth long enough for the Hundreds to strike. Recalling that four people had divided the world a very long time ago, he said: "I had no idea that Uriel would do what she did." The bells were brought down in every city. [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), wanted everything known about the black Khyber bell Uriel had used. Asked by Gemma whether she had ever met Uriel, she answered: "Oh, you mean the Empress? It's funny, I didn't know her name." Kitsune, speaking to Gemma that night, called Uriel a big mistake whom many people had misjudged, Kaius most of all.
 
 **Status:** Dead. Destroyed in the Sept of Bones.
 

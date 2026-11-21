@@ -52,6 +52,7 @@ sources:
   - "Oral Histories: Temporal Holdings, 2022-12-03"
   - "Oral Histories: The Inevitables, 2021-12-03"
   - sources/dave/2026-09-14-ages-rulings-a1-a30.md
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: moonstone-article
@@ -62,7 +63,12 @@ image:
   caption: "Lexical rendering of a single glowing shard of crystalline rock with a few broken fragments beside it."
 campaigns:
   - ages-of-the-infanta
+  - the-unforeseen-strike-back
   - starfall-tng
+gallery:
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-moonstone.webp
+  alt: "Andromeda gives Eric a piece of Toril's moon"
+  caption: "Lexical rendering: Andromeda gives Eric a piece of Toril's moon - Korth Ep 23, The Father of the Hundreds"
 ---
 
 **Moonstone** is a mineral: shards of the fallen moon that store and magnify magic, and that every faction in the Moonshae is willing to kill to control. It fell to the world in the **Starfall** — the astronomical event that "gave the moon it's divot and caused the majority of the plane's moonstone to fall from the sky" <small>(sic)</small> — and the Company's intelligence placed "a huge deposit" in the Moonshae Isles, much of whose islands were made by the same event; the Great Stones lie beneath [Motherstone](/places/motherstone/).
@@ -122,6 +128,12 @@ Legend has it that in the time before history began, dwarven miners unearthed "a
 Moonstone holds **mind, memory and time** in matter. A perfect stone can mirror a consciousness, or imprison one. The Lexicon and the moonblades — "cut from a pristine shard of the primordial moon" — are moonstone instruments of thought.
 
 The Motherstone Planetarium states the cosmology behind it: the Moon is "a reflection of the Prime material against the Astral Plane… the Earth and Moon are twins, a body and its shadow." Moonstone is a piece of that shadow, fallen into the body.
+
+## On Eberron
+
+On Eberron the mineral is white Khyber, or Siberys, in [the taxonomy](/items/khyber-taxonomy/) delivered by [Sir Dario Argentino](/people/sir-dario-argentino/), and it is the crystal that the blade of [the Bright Dawn](/items/the-bright-dawn-crimson-sun-unbound/) became. Moonstone is the trademark mineral of Toril and of [the Lexicon](/items/the-lexicon/): "All lexical stuff depends on that." <small>(Dave, 2026-11-20)</small> Combined in one device with black Khyber and red Khyber, it makes [the Demoncore](/items/the-demoncore/).
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), gave [Eric the Cleric](/people/eric-the-cleric/) a very smooth stone with an emerald sheen that changed to purple in another light, clear enough at the right angle to see through. She called it crystallized selenium, said that it "actually comes from the accumulation of sunlight", and told him: "It's a piece of my favorite moon. It's the one that orbits the planet of Toril."
 
 ## A moonstone fortune
 

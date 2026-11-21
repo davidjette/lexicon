@@ -42,6 +42,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-08-31"
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: 05f12119-f896-4827-bf26-c5b83b74dcf5
@@ -113,6 +114,8 @@ In Nico's notes for that morning, Digma Beeve pulls Calcifer's father into a tig
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One told the party that Uriel wants the risen Esther to find him. Three years ago [Digma Beeve](/people/digma-beeve/) was to take him to Zilspar Farm, and there was talk of moving him to Leef or the Talenta Plains. Only Dario, Gemma, Jessica, Richard, Eric and Lorian knew where he was. <small>(Korth Ep 18)</small>
 
 Calcifer Blaze was officially dead — killed, the story went, when [Faith](/people/faith/) and [Malrik Zeir](/people/malrik-zeir/) ambushed his father's private airship during the kidnapping. [Digma Beeve](/people/digma-beeve/) built the lie in the hour after the rising and it held. Father and son were teleported out to Zilspar Farm before anyone else reached the penthouse. Zilspar Farm was later destroyed, and neither of them was identified among the dead or the captured.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), with the Empire ended and Locke Pierce claiming Eberron, the Inevitables left Calcifer and his father in hiding. Pierce did not know of them, and might see the boy as a threat to the throne. They agreed to reach the two through Digma Beeve if they had to. <small>(Korth Ep 23)</small>
 
 ---
 

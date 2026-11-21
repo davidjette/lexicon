@@ -47,6 +47,7 @@ sources:
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: jessica-grimpledink-person
@@ -139,13 +140,19 @@ In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), while the part
 
 ## Fate
 
-At last report Jessica ran rebel intelligence for a free city that was out of fuel and weeks from famine. She held Fulcrum's bell file and a burned foundry schedule, she had taken an Air Bubble mask apart out of professional curiosity, and she had become fixated on [Esther Crona](/people/esther-crona/)'s wedding gift after establishing with the dwarf Bofric that it was both black and red Khyber. She had also begun to wonder, privately, who told the Empire where Zilspar Farm was. Sharn had not been heard from when the campaign ended.
+At last report Jessica ran rebel intelligence for a free city that was out of fuel and weeks from famine. She held Fulcrum's bell file and a burned foundry schedule, she had taken an Air Bubble mask apart out of professional curiosity, and she had become fixated on [Esther Crona](/people/esther-crona/)'s wedding gift after establishing with the dwarf Bofric that it was both black and red Khyber. She had also begun to wonder, privately, who told the Empire where Zilspar Farm was. Sharn had not been heard from when the valley of the Ivory Lazaret was destroyed.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma reached her by *sending* from the deck of the *Revenge*: "Require update in Sharn, Foxtale, alive. What of Pierce?" Jessica answered:
+
+> "It's a miracle. Our agents spread the word. The people spread it further. We've taken them down. The doves have fled. Hundreds have mobilized in Sharn. Ships are moving. Are you coming back?"
+
+She was at the Nest's circle with Izaak, Lorian and Bantide Moro when the party returned. She held a miniature of LeBeefe's device, the last of three he had made, which Locke Pierce and the Sovereignty's emissary did not know of. Eric, publicly declared dead, made the Nest the base of an underground movement against Pierce, with Jessica, Izaak, Corvan Bleek and Matt Matheny's mathematicians. Renn Tal, the new Chancellor, had never seen the Nest or the Upper City safe house. She knew the Lower City safe house, and it was abandoned. <small>(Korth Ep 23)</small>
 
 **Organizations / Groups:** leader of the Nest; senior Fulcrum asset in Sharn; convener of the first Council of Sharn.
 
 **Holdings:** Station 5 beneath Skyroot Park · the Nest's forge, control room and mission board · the Upper City safe house, tunnel now collapsed · the Grimpledink family lockbox in the Sharn Library.
 
-**Items:** the EBT-7 Sub-Transit Repeater Node, recovered from the Conduit Exchange at her direction, capable of hijacking every ArcEye feed in the city · the third copy of the Arcane Eye memory of [Calcifer](/people/calcifer/)'s birth · a Sending Charm, given away · one of Locke Pierce's Air Bubble masks, inscribed *Interplanetary Association of Lexical Engineers* · Fulcrum's bell file.
+**Items:** the EBT-7 Sub-Transit Repeater Node, recovered from the Conduit Exchange at her direction, capable of hijacking every ArcEye feed in the city · the third copy of the Arcane Eye memory of [Calcifer](/people/calcifer/)'s birth · a Sending Charm, given away · one of Locke Pierce's Air Bubble masks, inscribed *Interplanetary Association of Lexical Engineers* · Fulcrum's bell file · a miniature of LeBeefe's device of black and red Khyber, the last of three.
 
 **The Mission Board:** Jessica's signature instrument. Everything the Nest knows goes on it, in her hand, marked open, critical or completed — Project E.D.E.N., the Cog Collector, Varyn Crona and the Forge of Binding, Grady Marsh and the ArcEye Crystallizer, the fate of Sister Nora, the Sharn Broadcast Override. Every mission the Inevitables ran in Sharn came off that board.
 

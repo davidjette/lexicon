@@ -37,6 +37,7 @@ fields:
   weight: Unknown
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - 'Oral Histories: The Inevitables, 2026-07-06'
   - 'Oral Histories: The Inevitables, 2026-07-07'
   - 'Oral Histories: The Inevitables, 2026-07-15'
@@ -73,15 +74,18 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-cord.webp
     alt: "Lalo Kitsune cuts the cord"
     caption: "Lexical rendering: Lalo Kitsune cuts the cord - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-kitsune.webp
+    alt: "Kitsune releases Gemma from her pact"
+    caption: "Lexical rendering: Kitsune releases Gemma from her pact - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Archfey · Warlock patron of Gemma Corso · Active**
+**Archfey · Warlock patron of Gemma Corso, pact complete · Active**
 
 *Also known as:* Katsune · **Renarde** (a bard in a fox mask, in Newham)
 
-**Kitsune** is an archfey and the warlock patron of [Gemma Corso](/people/gemma-corso/). He was first the patron of her adoptive father, Jane Corso, whom he met while Jane was a soldier in the Last War, and he showed himself to Gemma only after Jane died during the fighting in Leef and Newham. On the road to Korth he told her that Jane had promised him the heart of [Emperor Caius III](/people/emperor-caius-iii/) in exchange for freedom and power, and that the debt had passed to her, and he gave her a velvet-lined box to carry it in. On the river boat to [the Summer Palace](/places/the-summer-palace/) he told her that the heart of the Emperor was a riddle, and that what he wants is the Emperor's child.
+**Kitsune** is an archfey and the warlock patron of [Gemma Corso](/people/gemma-corso/). He was first the patron of her adoptive father, Jane Corso, whom he met while Jane was a soldier in the Last War, and he showed himself to Gemma only after Jane died during the fighting in Leef and Newham. On the road to Korth he told her that Jane had promised him the heart of [Emperor Caius III](/people/emperor-caius-iii/) in exchange for freedom and power, and that the debt had passed to her, and he gave her a velvet-lined box to carry it in. On the river boat to [the Summer Palace](/places/the-summer-palace/) he told her that the heart of the Emperor was a riddle, and that what he wants is the Emperor's child. In the Sept of Bones his fox cut the child free of the Empress and he then changed his mind about it, and a day later he told Gemma that the pact was complete and that they were now friends.
 
 ## Appearance
 
@@ -131,7 +135,7 @@ Gemma told him that what she does is for some semblance of normalcy in the world
 
 ---
 
-**Organizations / Groups:** bound by pact to Gemma Corso, and before her to Jane Corso.
+**Organizations / Groups:** bound by pact to Gemma Corso until Korth Ep 23, when he declared it complete, and before her to Jane Corso.
 
 **Items:** **the heart-box**, velvet-lined pewter, given to Gemma to carry the Emperor's heart; empty.
 
@@ -147,11 +151,27 @@ In [Korth Ep 21](/sessions/korth-ep-21-the-summer-palace/), after the fight in t
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Kitsune whispered to Gemma at the door of the Sept of Bones: *"You swore it to me."* She had the box he had given her for the child, and the child was already the size of a house. Late in the fight she summoned Lalo Kitsune, the fox in his small form, who arrived in his reddest shape. He took hold of the cord that joined Uriel to the Heir of Vol and cut it. *"It's over, Uriel. A promise is a promise. The child is mine now."* Uriel's magic left her. Then the Heir, free of its mother, began to grow, and to heal harder from every wound. *"I think I changed my mind."* He gave Gemma leave to kill it. She could not. Lalo was still in the Sept when she left it.
 
+## The pact complete
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), aboard the *Revenge* on the night after the valley burned, Gemma called him from a bath in Joseph Roberts's cabin. He appeared in the tub behind her, looking battered himself.
+
+> "I gotta say, I'm very impressed. What you were able to do was amazing. And, you know, sometimes I bite off more than I can chew. With this one, I definitely did. But, all's well that ends well."
+
+He told her the pact was complete: she had fulfilled her end and he had fulfilled his. *"From now on, we're just good friends."* He released her progeny and everything else that had been kept from her. She could now have children, which she could not before, and neither could her father. Uriel could. He called Uriel a big mistake whom many people had misjudged, Kaius most of all.
+
+He then told her something he said he could not tell her before. By his account Kaius's mother had come to him too, begging for someone to save her baby. He told her he could, and she would not pay the price. Her husband met Crona and E'noch, who had what looked like a better solution, and it replaced the child.
+
+Gemma asked whether leaving Locke Pierce's offer had been the wrong decision. He said there was probably still time to take it, heard what Eric had said to Pierce, and concluded that the die was cast. His own advice was to find somewhere comfortable and party for a couple of hundred years until it blew over, though he allowed that she was not the same kind of thing he was.
+
+> "You've more than fulfilled your vows, and you made me realize something. That just because you wanted something a long time ago doesn't mean you always want it. People change."
+
+He said he was thinking of making a change, had been working out, and might start a podcast. He left through a closet door with *"Au revoir."* <small>(Korth Ep 23)</small>
+
 ## Social
 
 **Contacts & Relations**
 
-- **[Gemma Corso](/people/gemma-corso/)** — warlock, agent Foxtale of the Nest; holds the pact Jane made. Alive.
+- **[Gemma Corso](/people/gemma-corso/)** — warlock, agent Foxtale of the Nest; held the pact Jane made, which Kitsune declared complete in Korth Ep 23. Alive.
 - **Jane Corso** (also written Croso, and Jeyne Korso) — Gemma's adoptive father, a Last War soldier, who held the pact before her. Killed in the fighting in Leef and Newham.
 - **Lalo Kitsune** — a fey fox summoned from the charges in Gemma's armour.
 

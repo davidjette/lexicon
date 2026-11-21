@@ -30,8 +30,9 @@ fields:
   industry: Heavy manufacturing and processing
   architecture: Improvised shanties, welded platforms and patched rooms clinging to factory walls, pipes and vents
   owner: The Empire built and ran the factories; ownership now disputed
-  ruler: Chancellor Eric the Cleric
+  ruler: Chancellor Renn Tal
 sources:
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/site/home.txt
   - sources/site/ebt-7.txt
   - sources/site/sharn-episode-summaries.txt
@@ -75,6 +76,8 @@ The largest factory in the Cogs is the one [Esther Crona](/people/esther-crona/)
 ## Present day
 
 The Cogs are mostly empty of the people who made them work. R.U.S.T.'s demands at the founding of the [Council of Sharn](/places/sharn/) were Warforged citizenship, the arrest of the Iron Veil's engineers, and a new infrastructure department — and Warforged troops and engineers have been offered to stabilise the city and restore the district. Restoration has not caught up with the smoke yet.
+
+At last report, in [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), the warforged were well represented in the Cogs, the Hundreds held the city's airspace and nearly all its military power, and [Renn Tal](/people/renn-tal/) was Chancellor of Sharn.
 
 **Places of Interest:**
 

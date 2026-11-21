@@ -1,6 +1,6 @@
 ---
 title: Pirate Joseph Roberts
-description: 'The Collector: a Lhazaar fleet commander who trades in secrets, married to Queen B, and now named on an Imperial warrant.'
+description: 'The Collector: a Lhazaar fleet commander who traded in secrets, married Queen B, and retired after handing his name and ship to Gemma Corso.'
 tags:
   - Pirate Joseph Roberts
   - Joseph Roberts
@@ -25,7 +25,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Unknown - associated with the Lhazaar Principalities and the Dragon Watch Isles
   children: Unknown
-  residence: Aboard his fleet
+  residence: Unknown - left the Lhazaar seas with Vanessa Redwing after handing the Revenge to Gemma Corso
   gender: Male
   age: Unknown
   eyes: Unknown
@@ -35,6 +35,7 @@ fields:
   weight: Unknown
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/wa/pirate-joseph-roberts-person.txt
   - sources/site/key-figures.txt
   - sources/site/sharn-episode-summaries.txt
@@ -70,13 +71,22 @@ gallery:
   - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-on-deck.webp
     alt: "On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns"
     caption: "Lexical rendering: On the deck of the Revenge: Gemma and Roberts, and Eric with Dario, as the valley burns - Korth Ep 22, The Reckoning of the Mother"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-chase.webp
+    alt: "Two spelljammers of the Hundreds run down the Revenge"
+    caption: "Lexical rendering: Two spelljammers of the Hundreds run down the Revenge - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-island.webp
+    alt: "The Revenge at Roberts's island"
+    caption: "Lexical rendering: The Revenge at Roberts's island - Korth Ep 23, The Father of the Hundreds"
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-captain.webp
+    alt: "Roberts introduces Vanessa Redwing and offers Gemma the Revenge"
+    caption: "Lexical rendering: Roberts introduces Vanessa Redwing and offers Gemma the Revenge - Korth Ep 23, The Father of the Hundreds"
 ---
 
-**Pirate · Fleet commander · The Collector · Alive, and wanted**
+**Pirate · Former fleet commander · The Collector · Alive, retired**
 
-<small>Also known as: the Dread Pirate Joseph Roberts · Captain Joseph L. Roberts · "The Collector"</small>
+<small>Also known as: the Dread Pirate Joseph Roberts · Captain Joseph L. Roberts · "The Collector" · Trevor Alan Blake (his real name, by his own account)</small>
 
-Pirate Joseph Roberts, called the Collector, is a Lhazaar fleet commander known to sail the seas near the Dragon Watch Isles, who collects secrets and information rather than cargo in order to get what he wants. He took the Unforeseen — LeBeefe, [Uriel](/people/uriel-qualanthri/), [Esther](/people/esther-crona/) and [Locke Pierce](/people/locke-pierce/) — stripped them of their treasures and gear including a gnome tablet from a nearby rebel base, and left them stranded on a small island; on his return he said he had sold the tablet, gave back everything but the coin, and set them to gather information on the Imperial Assembly council members. He married [Blair](/people/blair/) out of the Lhazaar Principalities and remains her first husband and ally; years later he met her successors in Newham, and his fleet was in the sky over the Veil Building on the night the Iron Veil fell. When Uriel's bombardment fell on the Thronehold Summit he turned his ship and left the island. He is now a named target of the Imperial Ministry of Law, with his likeness in the Grand Lodge file.
+Pirate Joseph Roberts, called the Collector, is a Lhazaar fleet commander known to sail the seas near the Dragon Watch Isles, who collects secrets and information rather than cargo in order to get what he wants. He took the Unforeseen — LeBeefe, [Uriel](/people/uriel-qualanthri/), [Esther](/people/esther-crona/) and [Locke Pierce](/people/locke-pierce/) — stripped them of their treasures and gear including a gnome tablet from a nearby rebel base, and left them stranded on a small island; on his return he said he had sold the tablet, gave back everything but the coin, and set them to gather information on the Imperial Assembly council members. He married [Blair](/people/blair/) out of the Lhazaar Principalities and remains her first husband and ally; years later he met her successors in Newham, and his fleet was in the sky over the Veil Building on the night the Iron Veil fell. When Uriel's bombardment fell on the Thronehold Summit he turned his ship and left the island. He was a named target of the Imperial Ministry of Law, with his likeness in the Grand Lodge file. He took the Inevitables out of the valley of the Ivory Lazaret aboard his airship *Revenge*, and a day later told Gemma Corso that his real name was Trevor Alan Blake and that he had taken the name of the Dread Pirate from an earlier Roberts. He gave her the ship, the guild and the name, and left with his wife Vanessa Redwing.
 
 ## Physical description
 
@@ -144,7 +154,25 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Gemma reached him by 
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Gemma called him by sending stone from the Sept of Bones. He brought the airship *Revenge* in low over the cathedral of Nos Matre and took her and Dario off the roof: *"You know, if you're going to be one of my wives, I'm going to make you work."* At her asking he went back for Eric, Zero-One, Ilma Vitt and Matt Matheny's people. He ran the ship up through the storm ahead of the Hundreds' vessels and told everyone aboard not to look at the flash. It was the third time he had come for the party. Asked whether he had sold the Grand Lodge to Locke Pierce, he said that he did not mix pleasure and business, that he knew how to time these things, and that the buyer had wanted it for a teardown.
 
-At the end of the campaign he was aboard the *Revenge* with Gemma, Dario and Eric, climbing out toward the Lhazaar seas.
+After the destruction of the valley he was aboard the *Revenge* with Gemma, Dario and Eric, climbing out toward the Lhazaar seas.
+
+## The last of Joseph Roberts
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) two huge spelljammers crewed by [the Hundreds](/organizations/the-hundreds/) broke the cloud layer behind the *Revenge* and fired a warning shot across her bow. Each was ten times her size. Roberts said: *"Those things are huge, we can't fight them. What should we do?"* He offered the party sanctuary in the Lhazaar Principalities, where he said Locke Pierce would not find them. When Gemma chose to answer Pierce's summons he asked her to come back to him: *"Please come back to me. I might have something important."* When the party returned to the deck from [Mt. Silicon](/places/mt-silicon/) the ship was below the clouds and sailing low over rough ground, and he said the pursuers had got what they wanted and left.
+
+That night Gemma asked him how well he knew Locke Pierce.
+
+> "Never met him. He still signs all his letters to me as the Lord of Blades."
+
+She told him of the people from beyond the sky and their council of worlds. He knew the old shanties and sailors' tales about people who could sail into the sky and beyond the stars, and he did not like the sound of a large government giving him orders. He said he had known things would go badly when the Empire began posting its big undead guards outside Korth, and that he had made a good business of stripping the Empire for parts.
+
+At dawn the *Revenge* came down on a platform on the eastern peak of a tiny island in an empty sea, with a fishing village, a small port and a minority of well-dressed swashbucklers in the better huts. He took Gemma upstairs to meet the Fieldmaster of the [Grand Lodge](/places/the-grand-lodge/), now dressed as a swashbuckler: *"Gemma, this is Vanessa Redwing, Master Huntress, and my wife."* She is a half-elf. He then asked Gemma whether she had considered piracy, and gave this account of himself:
+
+> "Vanessa and I are in love. We want to leave. My real name is Trevor Alan Blake. I was a real bastard before, and I met another real bastard. He told me his name was the Dread Pirate Joseph L. Roberts, and I thought he was gonna kill me, but he let me live. And every day, he would wake me up, bring me to see some other part of his business. At the end of the day, he would tell me, Good night, Trevor. I'll probably kill you in the morning. One day he took a bunch of money from four Imperial operatives, a lot of money, and something else from them, which he told me was really valuable. He wanted to retire before they would kill him, and told me that he was not the Dread Pirate Joseph Roberts. Ever since then, I've commanded the *Revenge*, and I'm done. So I ask you again, what do you think? Do you want to be the captain?"
+
+Gemma accepted. He told her how the name passes: he had taken over by trading disguises with his predecessor for a time and letting the crew turn over, and there had been Roberts of different genders before. He gave her the *Revenge*, the ledger of the Grand Lodge with all his dealings in it, command of the guild with its commodore's fleet, hideouts, contacts and lines of credit, the island, and his network of portals across the continent. One of those portals, in the library of the Lodge, had been the way goods and fleeing Imperials left the Lazaret, where teleporting was impossible. Her first mate and bosun was to be Stanley Green Jeans. Asked what the Roberts who met the Unforeseen had looked like, he blew his nose in a magical handkerchief, became a man Gemma had never seen, and did the voice of an arrogant man who loved to drive the knife in when he had people cornered. He advised her to keep the *Revenge* far from anything the Hundreds cared about for a while. Blair did not know the island existed.
+
+He kept a large sum, including most of the money from the sale of the Grand Lodge and stacks of gold bars unlike any Gemma had seen, and would not say who had bought the Lodge. Trevor Alan Blake and Vanessa Redwing left for parts unknown. In Sharn [Blair](/people/blair/) was furious to learn who the new Roberts was, and then said she saw why he had given it to Gemma.
 
 **Personality Characteristics**
 
@@ -162,13 +190,14 @@ At the end of the campaign he was aboard the *Revenge* with Gemma, Dario and Eri
 
 - **Blair** — wife, Queen of the Underhive. Standing alliance; his fleet answers hers. Alive.
 - **Locke Pierce** — knows him personally, by his own account. Locke denies remembering. Alive.
-- **Gemma Corso** — former fling, now betrothed to him; she once held a warrant for his arrest under a false name. Alive.
+- **Gemma Corso** — former fling, later betrothed to him, and his successor as the Dread Pirate Roberts; she once held a warrant for his arrest under a false name. Alive.
+- **Vanessa Redwing** — Fieldmaster of the Grand Lodge, Master Huntress, and his wife. Left with him.
 - **The Unforeseen** — robbed all four, marooned them, then hired them. Esther, LeBeefe and Locke's fates all recorded elsewhere.
 - **The Inevitables** — met in Newham; his introduction opened Blair's door to them. Alive.
 
 **Organizations / Groups:** commander of his own fleet; married into [the Underhive](/organizations/the-underhive/); allied to the rising in Sharn; wanted by the Imperial Ministry of Law.
 
-**Holdings:** a large fleet of ships, and at least one airship · the waters and anchorages around the Dragon Watch Isles · an unnamed small island used for holding people until he gets back.
+**Holdings:** until Korth Ep 23, a large fleet of ships, and at least one airship · the waters and anchorages around the Dragon Watch Isles · an unnamed small island used for holding people until he gets back. The *Revenge*, the fleet, the guild, the hideaway island and the portal network passed to Gemma Corso.
 
 **Items:** the gnome tablet taken from the Unforeseen at a rebel base near the Dragon Watch Isles, and sold on to a buyer he has never named · a great deal of Imperial coin, none of it returned.
 

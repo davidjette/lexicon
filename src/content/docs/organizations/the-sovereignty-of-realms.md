@@ -28,6 +28,13 @@ tags:
 - Starfall
 - Light of Xaryxis
 - The Starsong Awakens
+- Sovereign Council
+- Allspace
+- Andromeda Starweaver
+- Eberron
+- first contact
+- Locke Pierce
+- The Hundreds
 icon: fa-crown
 fields:
   type: Interplanar polity
@@ -62,11 +69,16 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-12"
 - "The Starsong Awakens site (JL Byrd): Company dossier"
 - "The Starsong Awakens site (JL Byrd): The Rock of Bral"
+- sources/sessions/korth-2026-11-20-summary.md
 gallery:
 - src: /images/starsong/ragnar-xii.webp
   alt: "Ragnar XII"
   caption: "Ragnar XII in the Abbathor System, from the Company dossier"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-andromeda.webp
+  alt: "Andromeda Starweaver, emissary of the Sovereignty of Realms"
+  caption: "Lexical rendering: Andromeda Starweaver, emissary of the Sovereignty of Realms - Korth Ep 23, The Father of the Hundreds"
 campaigns:
+  - the-unforeseen-strike-back
   - starfall-tng
 ---
 
@@ -89,6 +101,22 @@ The War of the Five Zanzibars was a critical collapse of the continent, and a da
 The Company's dossier on [the Vodoni Empire](/organizations/the-vodoni-empire/) gives its own account of the founding: generations ago the threat of Vodoni incursion urged a confederacy of disparate systems to join and form a Sovereign galactic government. Later the Sovereignty and the Vodoni allied against the Beholder menace, and in the era of *The Starsong Awakens* the two wage a cold war of espionage and fractured diplomacy. <small>(The Starsong Awakens site, Company dossier)</small>
 
 The Sovereignty's fleet, Astral Command, has a thousand-year history by the time of *Light of Xaryxis*. <small>(Oral Histories: The Inevitables, 2024-01-06)</small> The great melting of the 6700s surrounded Fort Zanzibar with ocean and left Punis and Paenus "only a drowned memory". <small>(Oral Histories: The Inevitables, 2022-10-10)</small> *Light of Xaryxis* opens some five thousand years after the Ages, and *The Starsong Awakens* fifteen years after that. <small>Other figures in use: Realmspace as the spacefaring home world "2,000 years in the future" (Oral Histories: The Inevitables, 2022-10-09); the Lexicon's own age of ten thousand years (Oral Histories: The Inevitables, 2023-12-02).</small>
+
+## First contact with Eberron
+
+The Sovereignty reached Eberron before the Starfall era, in the time of [the Inevitables](/organizations/the-inevitables/). Its emissary there was [Andromeda Starweaver](/people/andromeda-starweaver/), who gave its account in [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), under [Mt. Silicon](/places/mt-silicon/).
+
+**Why it came.** The Sovereignty's diviners saw Eberron's star glow red, five times hotter than normal. That was [the Mourning](/history/the-mourning/). The Sovereignty dispatched huge ships "to sail the purple gas, the ocean between the stars", and when they arrived they met [the Hundreds](/organizations/the-hundreds/). Starweaver said the Sovereignty makes first contact with a distant world on two occasions: when that world discovers how to travel faster than light, which gives off a magical resonance the Sovereignty can detect almost instantly across the universe, and when it discovers weapons of the kind used on Eberron. Of the second she said, "When we see that, we know it is likely too late, and it is the reason why the universe is not more full of races like ours." She said that all the peoples come from a common race, which is why they are so alike and can speak each other's languages, and that elves, humans, dwarves and gnomes are common across the galaxy.
+
+**What it is.** [Eric the Cleric](/people/eric-the-cleric/) was shown the Sovereignty through [Hyperion](/lore/hyperion/), by a Kalashtar woman who knew little of it: a space navy of immense power from a network of worlds, led by a sovereign council of worlds, all advised by a great oracle they call [the Lexicon](/items/the-lexicon/). Starweaver, who sits on the Sovereign Council, promised Eberron "eternal peace among the realms of the Allspace". She said of her home, Toril: "We live under the certainty provided by the Lexicon. It is not our ruler." [Astral Command](/organizations/astral-command/) is its unified naval and intelligence force, and member worlds exchange their critical kinetic technologies with it.
+
+**The terms.** The Sovereignty had already agreed with [Locke Pierce](/people/locke-pierce/), the father of the Hundreds, that Eberron would become a sovereign realm, abide by the laws of the Sovereignty and live under its protection, and that the Sovereignty would help to eradicate any groups on Eberron that did not submit. Starweaver said that Pierce, owning atomics, had rightful claim over the planet, and that every planet which has ever joined the Sovereignty has done so before it was ready. Pierce had pledged to grant Sharn and its region autonomy "under the same principles that we expect of all sovereign worlds", and the Uruk-Hoth Republic was to be suppressed and its conquests freed. The Sovereignty asked in return for everything Eberron held on the black Khyber bell of [Uriel Qualanthri](/people/uriel-qualanthri/) and how it was made.
+
+**The fleet and the council.** The Sovereignty provided the Hundreds with a small fleet to protect Eberron's realm space, all the space above the clouds as far as the moon. The Hundreds had learned to fly the ships, and the Lexicon operated them. Pierce said the fleet's actions were governed by the Sovereignty. Eberron was to choose representatives to sit on the Sovereign Council. Pierce nominated Eric, and Eric refused.
+
+**Other visitors.** Starweaver said the Sovereignty's people were not the only visitors to Eberron. Pierce said it was very likely that the Empire had already been aware of extraterrestrials and had been negotiating independently with the Sovereignty's enemies, and that the destruction of [Korth](/places/korth/) had ended that.
+
+**The announcement.** [Renn Tal](/people/renn-tal/), as the new Chancellor of Sharn, announced in a broadcast "the unity of all species of Eberron into a single sovereign realm" and welcomed Locke Pierce and "the emissary of the Sovereignty of Realms, Andromeda Starweaver." Eberron later joined the Sovereignty.
 
 ## Government
 

@@ -32,6 +32,7 @@ fields:
   sideEffects: Violent recoil. The sound of a Master breaking deafens everyone nearby for hours.
 sources:
 - sources/sessions/korth-2026-11-13-summary.md
+- sources/sessions/korth-2026-11-20-summary.md
 - worldanvil/sources/site/korth-episode-summaries.txt
 - session-2026-08-21-recap.md
 - session-2026-08-07-recap.md
@@ -121,3 +122,5 @@ The rebellion can mask the Noise anywhere it can put a horn-player, and it can *
 Dario carried Knell to the end of the campaign. He had weapon mastery with warhammers, and by then he was one-eyed with a revivification diamond in the socket. In Korth he had every weapon he owned logged with a forged registration under the alias **Sky Rizzy**, *every weapon except Knell*. It was on no Imperial list. By his own count, given to a room holding a representative of every faith on the continent, he had broken three bells and would break every one.
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) Dario broke the Original with it, in the belfry of Nos Matre, and then took it against the Polygon. He had it with him aboard the *Revenge*. At last count **ten bells remained**, at least one a Master hanging in a Black Dove tower attached to the Imperial Palace itself.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the bells were brought down in every city. Under [Mt. Silicon](/places/mt-silicon/), [Andromeda Starweaver](/people/andromeda-starweaver/) of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) asked the Inevitables for everything they held on the black Khyber bell and how it was made, and Locke Pierce asked for the same. Neither knew that the party had Knell, and the party did not tell them. <small>(Korth Ep 23)</small>

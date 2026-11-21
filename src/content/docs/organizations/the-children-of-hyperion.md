@@ -43,6 +43,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-11-09"
 - "Oral Histories: The Inevitables, 2024-12-13"
 - "The Starsong Awakens site (JL Byrd): New magic items"
+- sources/sessions/korth-2026-11-20-summary.md
 campaigns:
   - starfall-tng
 ---
@@ -58,6 +59,10 @@ campaigns:
 Hyperion is an extraplanar entity with a church, and it is benevolent. <small>(Oral Histories: The Inevitables, 2022-10-10)</small> A very long time ago on Eberron it took over a race of psionically enabled humans. It inhabits them and all their children as a collective set of memories and personality, and when they are close they can meld minds, which updates the nodes of the network. It is lawful good. In the Eberron cosmology it comes from the dream realm of horrors, and was escaping that abyss. <small>(Oral Histories: The Inevitables, 2024-06-09)</small>
 
 A priestess of Hyperion is possessed with a dual soul, shared with her god Hyperion, a powerful alien consciousness from the realm of dreams; her people are missionaries of peace who volunteer as translators and spies aboard ships' crews. <small>(Oral Histories: The Inevitables, 2022-07-24)</small> The Children themselves believe that they are possessed by ancient creatures called quori. <small>(character sheet)</small>
+
+## Eberron
+
+Before the Starfall era, the Kalashtar of Eberron already shared the one consciousness that calls itself Hyperion. Kalashtar orphans from Breland were held and studied by [the Hundreds](/organizations/the-hundreds/) at [Mt. Silicon](/places/mt-silicon/), and [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) made first contact with them as a group of their own when it reached Eberron. <small>([Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/))</small> See [Hyperion](/lore/hyperion/).
 
 ## Beliefs and practice
 

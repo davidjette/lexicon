@@ -1,6 +1,6 @@
 ---
 title: Eric the Cleric
-description: An Imperial auditor who became Chancellor of a free Sharn and destroyed the Empress Uriel in the Sept of Bones with a mace of disruption.
+description: An Imperial auditor who became Chancellor of a free Sharn, destroyed the Empress Uriel, and went underground after refusing Locke Pierce.
 tags:
 - Eric the Cleric
 - Eric
@@ -25,11 +25,11 @@ kind: people
 icon: fa-scale-balanced
 fields:
   rpgAlignment: Unknown - no source records an alignment
-  ggmtitle: Chancellor of Sharn; Comptroller of the Republic of Talenta (Digma Beeve acting); Imperial auditor, former; one of the Heroes of Leef
+  ggmtitle: Former Chancellor of Sharn (publicly declared dead); Comptroller of the Republic of Talenta (Digma Beeve acting); Imperial auditor, former; one of the Heroes of Leef
   dobDisplay: Unknown
   birthplace: Unknown
   children: None recorded
-  residence: The penthouse of the Veil Building, Sharn; aboard the airship Revenge at the end of the Korth arc
+  residence: The Nest, Sharn, in hiding; formerly the penthouse of the Veil Building
   gender: Male
   age: Unknown
   eyes: Unknown
@@ -38,6 +38,7 @@ fields:
   height: Unknown
   weight: Unknown - physically feeble; Strength 7
 sources:
+- sources/sessions/korth-2026-11-20-summary.md
 - sources/sessions/korth-2026-11-13-summary.md
 - sources/sessions/korth-2026-11-06-summary.md
 - sources/sessions/korth-2026-10-30-summary.md
@@ -149,16 +150,25 @@ gallery:
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-mace.webp
   alt: "Eric destroys the Empress with the mace of disruption"
   caption: "Lexical rendering: Eric destroys the Empress with the mace of disruption - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-hyperion.webp
+  alt: "The Kalashtar girl shows Eric the Hyperion"
+  caption: "Lexical rendering: The Kalashtar girl shows Eric the Hyperion - Korth Ep 23, The Father of the Hundreds"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-moonstone.webp
+  alt: "Andromeda gives Eric a piece of Toril's moon"
+  caption: "Lexical rendering: Andromeda gives Eric a piece of Toril's moon - Korth Ep 23, The Father of the Hundreds"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-situation-room.webp
+  alt: "Eric refuses the Sovereign Council"
+  caption: "Lexical rendering: Eric refuses the Sovereign Council - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back
 ---
 
-**Cleric · Chancellor of Sharn · The Inevitables · Level 15 · Alive**
+**Cleric · Former Chancellor of Sharn · The Inevitables · Level 15 · Alive, publicly declared dead**
 
 *Also known as:* **Graham Cracker** (Korth cover, taken off a corpse) · **The Nerd** · **Harry Potter** (on the books of the Zilspar Farm-Table Co-op) · **Eric Passagemarked** (his official style, after his mark) · one of the **Heroes of Leef** · <small>styled "Chancellor of Char" in one internal note — the live record says Sharn</small>
 
-Eric the Cleric is a cleric of a Karrnathi order of mathematics and order, a former auditor of the Pax Imperium, and Chancellor of the free city of Sharn. He was an orphan forced to learn mathematics and to worship it, served the Empire as an auditor, and lived three years in a bunker beneath the Hall of Records in Korth. In the desert rail-town of Leef he fell in with [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/); the three liberated the town and were named the Heroes of Leef, then went west to Newham and killed Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, they fought the war that broke the Empire's hold on the city, and its Council seated Eric as Chancellor in [Esther Crona](/people/esther-crona/)'s former penthouse. Since the Glitterhame beneath the Korramont he has been hearing the voice of LeBeefe, which nobody else can hear. At [the Ivory Lazaret](/places/the-ivory-lazaret/) he burned Emperor Kaius III on his bed, and in [the Sept of Bones](/places/the-sept-of-bones/) he destroyed the Empress [Uriel Qualanthri](/people/uriel-qualanthri/) with a mace of disruption. He left the valley aboard [Joseph Roberts](/people/pirate-joseph-roberts/)'s airship *Revenge*.
+Eric the Cleric is a cleric of a Karrnathi order of mathematics and order, a former auditor of the Pax Imperium, and the former Chancellor of the free city of Sharn. He was an orphan forced to learn mathematics and to worship it, served the Empire as an auditor, and lived three years in a bunker beneath the Hall of Records in Korth. In the desert rail-town of Leef he fell in with [Gemma Corso](/people/gemma-corso/) and [Sir Dario Argentino](/people/sir-dario-argentino/); the three liberated the town and were named the Heroes of Leef, then went west to Newham and killed Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) as the city collapsed into the New Mourning. Sent into Sharn to steal the Ghost Chip, they fought the war that broke the Empire's hold on the city, and its Council seated Eric as Chancellor in [Esther Crona](/people/esther-crona/)'s former penthouse. Since the Glitterhame beneath the Korramont he has been hearing the voice of LeBeefe, which nobody else can hear. At [the Ivory Lazaret](/places/the-ivory-lazaret/) he burned Emperor Kaius III on his bed, and in [the Sept of Bones](/places/the-sept-of-bones/) he destroyed the Empress [Uriel Qualanthri](/people/uriel-qualanthri/) with a mace of disruption. He left the valley aboard [Joseph Roberts](/people/pirate-joseph-roberts/)'s airship *Revenge*. A day later, under Mt. Silicon, he refused Locke Pierce's nomination to the Sovereign Council of the Sovereignty of Realms and told Pierce he would kill him for Zilspar. Renn Tal announced his death and succeeded him as Chancellor, and he went into hiding at the Nest in Sharn at the head of an underground movement.
 
 He wears metal armour that rings when he brushes a wall, which has woken at least one colony of stirges. On the back of his hand he carries a **dragonmark of Passage** that flares with lightning when he uses it and gave away his identity to a dying admiral. Since attuning a Belt of Dwarvenkind he has been growing a dwarven beard he did not previously have, along with darkvision and a resistance to poison. He is physically feeble — Strength 7, an unarmed strike that does nothing — and carries a tarot deck for divination. Height, colouring and eyes: **Unknown**. By JL's account Eric tried on shorts for the first time out on the coast, and they "might be part of his new look". <small>(Oral Histories: The Inevitables, 2025-12-14)</small>
 
@@ -286,19 +296,47 @@ Eric said he was quite keen on fighting undead and would go below without Gemma 
 
 His *sunbeam* only hardened the Heir. He said the Polygon was going to explode and might do what they could not, and he left the Sept by *dimension door*. Roberts's corsairs pulled him aboard the *Revenge* with Zero-One, Ilma Vitt and Matt Matheny's survivors. <small>(Korth Ep 22)</small>
 
+## The Father of the Hundreds
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) two huge spelljammers of [the Hundreds](/organizations/the-hundreds/) overtook the *Revenge* above the clouds. Through a window Eric saw a warforged in a helmet and headset pointing at his own head and then downward. Gemma answered [Locke Pierce](/people/locke-pierce/) in the binary code Eric had once broken, and Pierce sent for them. On deck Eric said he wanted an investigation into the destruction of Zilspar Farm, and Pierce dead if he was guilty.
+
+Under [Mt. Silicon](/places/mt-silicon/) Pierce stood beside [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), who told him that Eberron was to become a sovereign realm under the Sovereignty's laws and protection: *"Chancellor Eric, you represent a meaningful plebiscite of this world. You were given the offer to join the Sovereignty as well."* Eric said he knew nothing of her organization. A young Kalashtar woman put her hand on his face and said: *"It's okay. For just a moment, you will be one with me, with all of us, with the Hyperion."* He saw what she had learned of the Sovereignty, a space navy of immense power from a network of worlds, led by a sovereign council and advised by a great oracle called [the Lexicon](/items/the-lexicon/), and he saw her own life as a Kalashtar orphan of Breland brought to Mt. Silicon by the Hundreds. A tear ran down his cheek. See [Hyperion](/lore/hyperion/).
+
+Pierce's condition was that Eric and his friends from the Counting House work with him for a time: *"There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever. It must be understood. It's a thing of divine creation."* Andromeda's request was everything the party held on the black Khyber bell and its making. Pierce's full offer was that Eric submit Sharn to governance by the Sovereignty in interplanetary affairs, turn over everything he had on the bell, and join Pierce in a secret project to implement the Lexicon on the Hundreds' own equipment. Eric asked first why Zilspar had been destroyed. Pierce said he had tipped off the Empire to the location of a handful of Fulcrum agents, and ended: *"It's the last I'll ever speak about it, Chancellor."*
+
+Given an hour to think, Eric told the others what he had seen. The three counted what they held that Pierce and Andromeda did not know of: [Knell](/items/knell/), the notes from Deeptempura and [King Corn's folio](/items/corn-s-folio/), which Eric had read and remembered, and a miniature of LeBeefe's device in Jessica Grimpledink's keeping in Sharn. Eric proposed going back to Sharn and destroying every document about the bells. Dario told him: *"You could lead Sharn for 50 years. You could find a way to take down Locke Pierce. It's impossible to stay on top forever. You have things he doesn't know that you have."*
+
+Andromeda came to them alone, told Eric that what the Hyperion had shown him was real, and gave him a stone from her pouch, as smooth as glass, emerald in one light and purple in another, which she called crystallized selenium: *"You can have that. It's a piece of my favorite moon."* She said it came from the moon of Toril, the world she came from. Eric asked how a peaceful organization could welcome a craven murderer like Locke Pierce. She answered that every planet which had joined the Sovereignty had done so before it was ready, and that Pierce had pledged to submit to its laws and grant Sharn autonomy.
+
+In the Situation Room Pierce showed him the Sovereignty's fleet above Eberron on a display labelled Astralex and named him his nominee for Eberron's seat on the Sovereign Council. Andromeda said: *"Chancellor, I would welcome you as my colleague on the council. What do you say?"* Eric answered:
+
+> "I don't think I wish to be a part of your new murderous empire. I think I wish to leave this place. And the next time I see you, Locke Pierce, I will kill you for Zilspar."
+
+Pierce said, *"Understood,"* and let them go: *"Chancellor, what you've done for Eberron will live in legend forever. And I won't be forgetting what you've done either."*
+
+Back aboard the *Revenge* Eric told Matt Matheny's people everything. Some of them had theorized that a device like the Lexicon was possible and that the warforged are a kind of spontaneous artificial intelligence. Others held that mortals who hand their mathematics to such devices lose the ability and become subservient. All of them wanted to learn more. Eric told them they might do as they liked and that he was wholly opposed to the new empire.
+
+On Roberts's island he chose to go back to Sharn and start a new rebellion against Locke Pierce, and to approach the orcs. Gemma argued against open war, and he told her they would always be friends whatever she decided. She carried him, Dario, Zero-One and Matheny's people to the circle at [the Nest](/organizations/the-nest/), where Jessica Grimpledink, Izaak, Lorian and Bantide Moro were waiting. He said:
+
+> "Now the war against the Empire is over. The war against the Sovereignty begins."
+
+Sub-auditor Corvan Bleek proposed a lab in Sharn, where there was magical energy to power the devices they would need, and said a head start on Pierce might be all it took. They held the old decoded source code, which they did not fully understand. On the broadcast [Renn Tal](/people/renn-tal/), his deputy, announced as the new Chancellor of Sharn that Eric the Cleric was dead, and welcomed Locke Pierce and Andromeda Starweaver. She seemed to believe it. Eric and the others agreed to keep his survival a secret. <small>(Korth Ep 23)</small>
+
 ## Fate
 
-At the end of the campaign Eric was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in his bag. Gemma, Dario, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp were aboard with him. The Empress was destroyed. The Emperor's body had been burned to char with the stake still in it. The Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). At last count ten bells remained, and the ninth great casting hung in a Black Dove tower attached to the Imperial Palace in Korth. Sharn had not been heard from.
+After the destruction of the valley Eric was aboard Joseph Roberts's airship *Revenge*, above the storm at sunset, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in his bag. Gemma, Dario, Zero-One, Ilma Vitt and the survivors of Matt Matheny's camp were aboard with him. The Empress was destroyed. The Emperor's body had been burned to char with the stake still in it. The Ivory Lazaret, Nos Matre, the Summer Palace and the Grand Lodge were gone, burned out of the valley by a weapon dropped from a vessel of [the Hundreds](/organizations/the-hundreds/). At last count ten bells remained, and the ninth great casting hung in a Black Dove tower attached to the Imperial Palace in Korth. Sharn had not been heard from.
+
+A day later Eric was in the Nest in Sharn, publicly declared dead by his own deputy, leading an underground movement with Matt Matheny's mathematicians, Corvan Bleek, Jessica Grimpledink and Izaak. Korth had been destroyed and the bells had been brought down in every city. The movement planned a lab to study and break into the Lexicon independently of Pierce, to get spelljammer technology, to seed agents in every city, and to approach the orcs. He held the folio's knowledge and the stone from Toril's moon, and he had told Locke Pierce to his face that he would kill him. Dario stood beside him as his bodyguard, and Gemma supplied the Nest through Blair.
 
 ---
 
 **Alias:** The Nerd & Harry Potter (Vilspar Farm-Table Co-op Employee)
 
-**Status:** Alive, aboard the airship *Revenge* at the end of the Korth arc.
+**Status:** Alive, and in hiding at the Nest in Sharn. Publicly declared dead.
 
-**Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · Chancellor of the free city of Sharn, seated by its Council · The Nest · the Heroes of Leef · Comptroller of the Republic of Talenta, with Digma Beeve acting · formerly an auditor of the Pax Imperium.
+**Organizations / Groups:** The Inevitables (formerly the Falcon Crew) · formerly Chancellor of the free city of Sharn, seated by its Council, an office Renn Tal took on the announcement of his death · The Nest, and the underground movement he leads from it · the Heroes of Leef · Comptroller of the Republic of Talenta, with Digma Beeve acting · formerly an auditor of the Pax Imperium.
 
-**Holdings:** the penthouse at the top of the Veil Building in Sharn, formerly Esther Crona's, now the Chancellor's residence and the seat of the Council · the deeds to Hopper's Magic Emporium and the Arcade in the Lower City, taken off Edwin Graves' estate and traded into a standing supply arrangement for the rebellion · a bunker beneath the Hall of Records in Korth, lived in for three years.
+**Holdings:** until Korth Ep 23, the penthouse at the top of the Veil Building in Sharn, formerly Esther Crona's, the Chancellor's residence and the seat of the Council · the deeds to Hopper's Magic Emporium and the Arcade in the Lower City, taken off Edwin Graves' estate and traded into a standing supply arrangement for the rebellion · a bunker beneath the Hall of Records in Korth, lived in for three years.
 
 **Items:**
 
@@ -311,6 +349,7 @@ At the end of the campaign Eric was aboard Joseph Roberts's airship *Revenge*, a
 - **A Repulsion Shield** — brought back from Khraal.
 - **A mace of disruption** — the trophy of a ruined Imperial knight, taken from its pedestal in the Emperor's residence; the weapon that destroyed Uriel.
 - **A charm of *healing word*** — from the fane to Matt Matheny in Leef.
+- **A stone from the moon of Toril** — given to him by Andromeda Starweaver under Mt. Silicon. As smooth as glass, emerald in one light and purple in another, and clear at the right angle. She called it crystallized selenium.
 - **Graham Cracker's face and papers** — NO LONGER WORN. An elf paralegal of the Ministry of Law. Bantide Moro remembers the original well enough to have remarked, mid-jailbreak, "I thought you were gay, Graham." Eric dropped the face at the pilgrim camp in Korth Ep 19, and his later covers as the druid Majorbo and as Lus Fayina ended in the Summer Palace.
 - **Spent at the Ivory Lazaret** — the greatberry, eaten in the Sept of Bones · the diamond that revivified Aurorix · his superior healing potions · the counting-house study aid, drunk to read King Corn's folio · Ilma Vitt's mosaic bowl, used for *heroes' feast* and smashed.
 
@@ -354,11 +393,12 @@ He conceals, and then denies concealing, and remembers every word of it perfectl
 
 **Contacts & Relations**
 
-- **Gemma Corso** — met in Leef; the person most likely to stop him, by force, and she has said so plainly. Alive; aboard the *Revenge*.
-- **Sir Dario Argentino** — met in Leef; Eric revivified him with a diamond at the Mountain Door at the cost of one of his eyes. Alive; aboard the *Revenge*.
-- **[Ilma Vitt](/people/ilma-vitt/)** — the Wardress of the Counting House who trained him. She fled to the pilgrim camp and gave him the bowl for the feast. Alive; aboard the *Revenge*.
-- **[Zero-One](/people/zero-one-fema-nolan/)** — leader of the Silver Flame, who held a protective spell over Matt Matheny's followers on the hill at Nos Matre. Alive; aboard the *Revenge*.
-- **[Joseph Roberts](/people/pirate-joseph-roberts/)** — the Dread Pirate, whose corsairs pulled him over the rail. Alive; master of the *Revenge*.
+- **Gemma Corso** — met in Leef; the person most likely to stop him, by force, and she has said so plainly. Alive; the Dread Pirate Roberts, and the Nest's supplier through Blair.
+- **Sir Dario Argentino** — met in Leef; Eric revivified him with a diamond at the Mountain Door at the cost of one of his eyes. Alive; his bodyguard at the Nest.
+- **[Ilma Vitt](/people/ilma-vitt/)** — the Wardress of the Counting House who trained him. She fled to the pilgrim camp and gave him the bowl for the feast. Alive; aboard the *Revenge* when the party left for Mt. Silicon.
+- **[Zero-One](/people/zero-one-fema-nolan/)** — leader of the Silver Flame, who held a protective spell over Matt Matheny's followers on the hill at Nos Matre. Alive; returned to Sharn with him.
+- **[Joseph Roberts](/people/pirate-joseph-roberts/)** — the Dread Pirate, whose corsairs pulled him over the rail. Alive; retired in Korth Ep 23, leaving the *Revenge* to Gemma.
+- **[Andromeda Starweaver](/people/andromeda-starweaver/)** — emissary of the Sovereignty of Realms, who gave him the stone from Toril's moon and offered him a seat beside her on the Sovereign Council. He refused it. Alive.
 - **John C. LeBeefe** — Grand Duke of Newham, killed by Eric and the others. Dead, and still talking to him. Uriel said in the Sept of Bones that she had stolen the Polygon from him.
 - **[Uriel Qualanthri](/people/uriel-qualanthri/)** — the Empress. Eric told her to her face that he had come to end her regime, and destroyed her with the mace of disruption. Dead.
 - **Emperor Kaius III** — burned on his bed in the Summer Palace by Eric's *fireball*, with the stake still in his heart.
@@ -369,12 +409,12 @@ He conceals, and then denies concealing, and remembers every word of it perfectl
 - **[Aurorix](/species/aurorix/)** — the gold dragon who called him Priest of Maths. Eric revivified him over Nos Matre and then summoned his mortal enemy; Valtrex killed him. Dead.
 - **[Valtrex](/species/valtrex/)** — the black dragon freed beneath the Korramont, summoned to Nos Matre by true name for an hour's service and then freed. Alive, and last seen flying for the Korramont.
 - **[Saturnia](/people/saturnia/)** — the Sister of the Blood he persuaded to change sides. Alive when last seen, crossing the river with Drakiel and the baby Ysabel, bound for Aerenal.
-- **Corvan Bleek** — the sub-auditor from his Exchequer intake, among the counting-house staff at the pilgrim camp. His fate after the fight is not recorded.
-- **Renn Tal** — archivist of the Old Histories Wing; gave him the Greater Silence scroll and then took the Eye of Corruption for the city. Alive at last report.
-- **[Locke Pierce](/people/locke-pierce/)** — leader of the Hundreds; feeds Sharn and holds its sky. Alive, and the Chancellor's largest open account. A vessel of the Hundreds dropped the weapon that destroyed the valley of the Ivory Lazaret.
-- **Jessica Grimpledink** — Nest leader; has asked, privately, whether Eric is how the Empire found Zilspar Farm. Alive at last report.
+- **Corvan Bleek** — the sub-auditor from his Exchequer intake, among the counting-house staff at the pilgrim camp. In Korth Ep 23 he was at the Nest with Eric and proposed the lab in Sharn. Alive.
+- **Renn Tal** — archivist of the Old Histories Wing; gave him the Greater Silence scroll and then took the Eye of Corruption for the city. Alive; she announced his death and succeeded him as Chancellor of Sharn.
+- **[Locke Pierce](/people/locke-pierce/)** — leader of the Hundreds; feeds Sharn and holds its sky. A vessel of the Hundreds dropped the weapon that destroyed the valley of the Ivory Lazaret. He admitted tipping off the Empire about Fulcrum's agents, and Eric told him he would kill him for Zilspar. Alive.
+- **Jessica Grimpledink** — Nest leader; has asked, privately, whether Eric is how the Empire found Zilspar Farm. Alive; at the Nest with him.
 - **[Madame Tso Teryaki](/people/madame-tso-teryaki/)** — matriarch of the Teryaki kin; named him a grave robber, then gave him her late husband's belt. Alive, and last seen riding Valtrex away from Nos Matre, wearing the Crown of Seven Stars.
-- **Bantide Moro**, the Nightingale — the prisoner he told the truth to. Hidden in Korth at last report, officially dead.
+- **Bantide Moro**, the Nightingale — the prisoner he told the truth to. Officially dead; at the Nest in Sharn in Korth Ep 23.
 - **Digma Beeve** — acting Comptroller of the Republic of Talenta in Eric's stead. Alive at last report.
 - **Fronque** — his hobgoblin girlfriend, met on the Khraal mission. Status unrecorded.
 

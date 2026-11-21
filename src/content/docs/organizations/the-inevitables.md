@@ -35,6 +35,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2026-05-08'
   - 'Oral Histories: The Inevitables, 2026-08-12'
   - 'Oral Histories: The Inevitables, 2026-08-22'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-inevitables-organization
@@ -100,13 +101,21 @@ Three years on, they went under the [Korramont](/places/the-korramont/) after a 
 
 Gemma spends months becoming someone before they arrive; Eric reads the ledgers; Dario asks the question everyone else is avoiding and then acts on the answer. They have also robbed graves, handed strangers cursed crowns without mentioning the curse, and twice had to physically restrain one of their own.
 
-**Organizations / Groups:** The Nest · Fulcrum, by alliance · the Republic of Talenta, as founders · the Council of Sharn, through Eric.
+**Organizations / Groups:** The Nest · Fulcrum, by alliance · the Republic of Talenta, as founders · the Council of Sharn, through Eric, until he was declared dead in Korth Ep 23.
 
 **The name:** "the opposite of the unforeseen", per Dave. <small>(Oral Histories: The Inevitables, 2026-04-01)</small>
 
 **Levels:** 6 at Sharn Ep 1 · 7 after Sharn Ep 6 <small>(Oral Histories: The Inevitables, 2026-02-14)</small> · 8 after Sharn Ep 12, at 33,480 XP <small>(Oral Histories: The Inevitables, 2026-03-31)</small> · 11 after Korth Ep 9 <small>(Oral Histories: The Inevitables, 2026-08-12)</small> · just short of 12 after Korth Ep 11 <small>(Oral Histories: The Inevitables, 2026-08-22)</small>
 
-At the end of the campaign Gemma, Dario and Eric were aboard Joseph Roberts's airship *Revenge*, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in Eric's bag. The Empress and the Emperor were destroyed, and the valley of the Ivory Lazaret was gone.
+After the destruction of the valley Gemma, Dario and Eric were aboard Joseph Roberts's airship *Revenge*, climbing out toward the Lhazaar seas, with the Emperor's own death warrant still in Eric's bag. The Empress and the Emperor were destroyed, and the valley of the Ivory Lazaret was gone.
+
+## The Father of the Hundreds
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Locke Pierce](/people/locke-pierce/) summoned the three to the base of [the Hundreds](/organizations/the-hundreds/) under [Mt. Silicon](/places/mt-silicon/). With him was [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), which had agreed with Pierce that Eberron would become a sovereign realm under its laws. Pierce asked Eric to submit Sharn to the Sovereignty in interplanetary affairs, to turn over everything the party held on the bells, and to join him in a project to implement [the Lexicon](/items/the-lexicon/) on the Hundreds' own equipment, and he named Eric his nominee for Eberron's seat on the Sovereign Council. He admitted that he had tipped off the Empire to the location of Fulcrum's agents. Eric refused, and told Pierce he would kill him for Zilspar. Pierce let them leave.
+
+The company held three things Pierce and the Sovereignty did not know of: Knell, King Corn's folio and the notes from Deeptempura, and a miniature of LeBeefe's device kept by Jessica Grimpledink in Sharn.
+
+The three then took separate roads. Eric, announced dead on the broadcast by his deputy Renn Tal, who succeeded him as Chancellor of Sharn, went into hiding at the Nest to lead an underground movement against Pierce: *"Now the war against the Empire is over. The war against the Sovereignty begins."* Dario's oath to the rebellion became an oath of protection over Eric, and he stayed beside him as his bodyguard. Gemma's pact with Kitsune was declared complete, and she accepted Joseph Roberts's offer of his ship, his guild and his name, becoming the Dread Pirate Roberts and supplying the Nest through Blair. <small>(Korth Ep 23)</small>
 
 > Kill Empress Uriel Qualanthri.
 

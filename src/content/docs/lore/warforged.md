@@ -40,6 +40,7 @@ sources:
 - worldanvil/sources/wa/blood-of-vol-organization.txt
 - worldanvil/sources/infantaverse/The Unforeseen__THE UNFORESEEN.txt
 - worldanvil/CANON.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: warforged-species
@@ -88,6 +89,12 @@ The Hundreds are not a client of the rebellion. Locke offers transport, dossiers
 
 When Sharn rose, the Hundreds came. They filled the sky alongside the Nest, Leef, the Silver Flame, RUST and the Underhive, and afterward rounded up Iron Veil soldiers through the streets. Later, with the city forty-seven days from famine, three Warforged arrived under **Himmie Joffa** and offered to feed it — in exchange for military and logistical access to Sharn's airspace. Eric granted it, said aloud that he knew it was a trick, and hoped they would survive Korth in time to take the keys back. By morning a capital ship had settled out of the fog and was handing out fruit in orderly lines. **Locke Pierce has taken the skies of Sharn.**
 
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the Hundreds flew two huge old spelljammers after the *Revenge*, and under [Mt. Silicon](/places/mt-silicon/) personnel of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) worked alongside them. The Sovereignty's emissary, [Andromeda Starweaver](/people/andromeda-starweaver/), said that when its ships reached Eberron they met the Hundreds, and that it had agreed with Locke Pierce, "the father of the Hundreds", that Eberron would become a sovereign realm. The Sovereignty gave the Hundreds a small fleet for the space between Eberron and its moon, operated by [the Lexicon](/items/the-lexicon/). At last report the Hundreds held nearly all military power in Sharn and its airspace, and the warforged were well represented in the Cogs.
+
+## A spontaneous intelligence
+
+In the same episode the scholars among Matt Matheny's followers, told of the Lexicon, said that many of them had theorized in their own studies that such a device was possible and that the warforged themselves were a kind of spontaneous artificial intelligence. Others among them saw a threat in it: that mortals who cede their mathematics to such devices will lose the ability and become subservient to them.
+
 ## Warforged of the Empire
 
 Not all of them chose exile. [Lilith Hornblast](/people/lilith-hornblast/) sits as one of the "leaders in exile" of the East Brelish Parliament, the sham Mournland government, and represents Warforged aligned with the Empire — arguing that an independent, Imperially-aligned Warforged state is the best available outcome for her people. **Fournier** of the Trade Federation signal corps, a rogue with *sending* at will, was among those waiting in the lounge of the Crimson Sun safehouse in Thronehold when the Unforeseen were briefed on the mole in the Imperial Assembly. The two Warforged futures — Hornblast's negotiated statehood and Locke's armed nation with a doomsday weapon — have never been reconciled.
@@ -100,7 +107,7 @@ The Empire has studied its own creations. After the incident at the Rekkenmark, 
 
 **Notable Warforged:**
 
-- **Locke Pierce** — founding member of the Unforeseen, Director, leader of the Hundreds, builder of the Ruby Nova. Alive. Influence: growing. Intent: unknown.
+- **Locke Pierce** — founding member of the Unforeseen, Director, leader of the Hundreds, builder of the Ruby Nova. Alive, and leader of Eberron under the Sovereignty of Realms at last report.
 - **Preacher** — founder of R.U.S.T., the last Warforged to remain in Sharn after the decree. Alive.
 - **Lilith Hornblast** — East Brelish Parliament, Imperial-aligned. Alive.
 - **Captain Edday** — Locke's airship captain at Mt. Silicon; modified the Inevitables' sending communicators to reach him directly.

@@ -33,6 +33,7 @@ sources:
   - sources/wa/the-unforeseen-organization.txt
   - sources/wa/newham-settlement.txt
   - "JL's DM notes: The Unforeseen Strike Back DM Notes"
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: new-mourning-location
@@ -52,6 +53,8 @@ campaigns:
 Grand Duke [John C. LeBeefe](/people/john-c-lebeefe/) — first mayor of Newham, aberrant-minded sorcerer, and by the end slowly transforming into something otherworldly — carried the Empire eastward from the outpost of [Leef](/places/leef/), raising an airship yard, illithid city guards and the Iron Veil there. Three operatives who had just liberated Leef followed his trail west to Newham City, met **Digma Beeve**, and with his guidance welded a scattering of anti-LeBeefe cells into a single coordinated resistance.
 
 The rising succeeded. LeBeefe was killed. And then a massive otherworldly explosion collapsed the city into ruin and corrupted a vast region around it: toxic, poisoned, and dead to settlement. The gateway to the East became the second wound in the map of Khorvaire.
+
+The explosion came from an object that hung in the sky above LeBeefe's palace. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma Corso described it to Locke Pierce and [Andromeda Starweaver](/people/andromeda-starweaver/) as red Khyber encased in black Khyber, the same material as Pierce's [Ruby Nova](/items/ruby-nova/) and as [the Polygon](/items/the-polygon/) of Uriel Qualanthri. It is the technology known in the Starfall era as [the Demoncore](/items/the-demoncore/).
 
 ## The news from Rekkenmark
 

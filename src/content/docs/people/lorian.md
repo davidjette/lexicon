@@ -45,6 +45,7 @@ sources:
 - "Oral Histories: The Inevitables, 2026-06-19"
 - sources/documents/2026-09-14-nico-sharn-captive-lorian.md
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: bb5d1c45-6b93-46b2-99a3-7d83f8ea5eac
@@ -140,6 +141,8 @@ He stayed at Mt. Silicon to recover while Locke Pierce took Eric and Gemma up to
 ## Fate
 
 Lorian stayed in Sharn when the party went to Korth. At last report he was working rebel intelligence with Jessica Grimpledink, under a capital ship of the Hundreds that hung over the upper city handing out fruit in orderly lines.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) he was at the Nest with Jessica Grimpledink, Izaak and Bantide Moro when Gemma brought Eric, Dario and Zero-One back to Sharn. Eric had been declared dead and was to lead an underground movement against Locke Pierce from the Nest. Lorian and Zero-One were expected to side with Dario, who had made himself Eric's bodyguard. <small>(Korth Ep 23)</small>
 
 ---
 

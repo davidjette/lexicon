@@ -26,6 +26,7 @@ sources:
 - "Oral Histories: The Inevitables, 2023-05-19"
 - "Oral Histories: The Inevitables, 2024-03-09"
 - "Oral Histories: The Inevitables, 2024-06-01"
+- sources/sessions/korth-2026-11-20-summary.md
 image:
   src: /images/generated/the-ssj-stonecypher.webp
   alt: "The SSJ Stonecypher"
@@ -43,6 +44,8 @@ campaigns:
 ## History
 
 The Demoncore weapons system was first used in the Beholder War. It later went wrong on the Stonecypher, where a containment breach turned the entire crew undead. <small>(Oral Histories: The Inevitables, 2024-03-09)</small> When and where the breach happened is unknown.
+
+The Stonecypher was an exact copy of the Zanzibar. [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) were aboard when a Demoncore was detonated on the ship by accident. They resisted the power that turned the rest of the crew into zombies, and were stranded on the ship for years until the Zanzibar's crew found them. <small>(Dave and Nico, 2026-11-20)</small> The effect on the crew was the same as that of the black Khyber bells of [Uriel Qualanthri](/people/uriel-qualanthri/) on Eberron in an earlier age, which raised the dead where they rang. <small>(Dave and Nico, 2026-11-20)</small> See [the Demoncore](/items/the-demoncore/).
 
 ### Light of Xaryxis
 

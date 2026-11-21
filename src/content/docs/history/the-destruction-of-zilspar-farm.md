@@ -34,6 +34,7 @@ sources:
 - worldanvil/sources/site/korth-episode-summaries.txt
 - worldanvil/sources/site/rebel-factions.txt
 - worldanvil/CANON.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-destruction-of-zilspar-farm-militaryConflict
@@ -42,6 +43,9 @@ gallery:
 - src: /images/gallery/2026-09-02-04.webp
   alt: E.D.E.N. units among the ruins
   caption: A bearded man in a red coat with a shield stands between two skeletal armoured soldiers among the burning ruins of a farm, a panther rider and crackling lightning behind them.
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-zilspar.webp
+  alt: "Pierce answers for Zilspar"
+  caption: "Lexical rendering: Pierce answers for Zilspar - Korth Ep 23, The Father of the Hundreds"
 image:
   src: /images/gallery/2026-09-02-01.webp
   alt: "The battle at Zilspar Farm"
@@ -85,6 +89,20 @@ Whether Pierce knew about Zilspar and gave it away to the Empire, or someone els
 ## ZERO-ONE'S ACCOUNT
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Zero-One said that whoever attacked the farm did it without tripping any of the alarms or sensors, which could only be done by someone who already knew how to switch them off. *"I looked up and every building was full of Eden units just shooting. It was carnage."* She was taken alive. <small>(Korth Ep 18)</small>
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), aboard the *Revenge*, she confirmed that it was Eden, the blue tiefling, who took her, that the attackers killed everyone and destroyed everything, and that she woke up in the hospital with no memory of how she got there.
+
+## LOCKE PIERCE'S ACCOUNT
+
+In the same episode, in the Hundreds' base under [Mt. Silicon](/places/mt-silicon/), Gemma asked [Locke Pierce](/people/locke-pierce/) outright whether he knew anything about the attack. He answered:
+
+> The fog of war is real, but it's also a convenience. It's a convenience for the survivors who must live in the world that remains. What happened at Zilspar must be seen through the fog of war.
+
+Gemma judged that he was lying about knowing nothing. She put her theory to him: that the farm was given away so the Hundreds would have a reason to bring food to Sharn and enter its airspace. Pierce said he had not thought the Inevitables could do any of the things they did, and that he had had no idea Uriel would do what she did. He went on:
+
+> But when I saw you on that broadcast from Thronehold, I realized that you did not respect that decision made so long ago as to who would choose the destiny of this planet. And forgive me if I assumed that you would fail in your quest, but nonetheless I could not allow for there to be such a destabilizing force in the world that continued. So I'm sorry for what happened to your friends. It's not what I would have chosen. Tipping off the Empire to the location of a handful of Fulcrum agents to close out a long chapter of mutual spying and general lawlessness is a natural end of such things. And if you know what's good for you, you'll take your secrets and get far away from here. It's the last I'll ever speak about it, Chancellor.
+
+When Pierce later offered Eric a seat on the Sovereign Council of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), Eric answered: "I don't think I wish to be a part of your new murderous empire. I think I wish to leave this place. And the next time I see you, Locke Pierce, I will kill you for Zilspar."
 
 ## WHAT IT COST SHARN
 

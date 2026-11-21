@@ -41,6 +41,7 @@ sources:
   - worldanvil/images/rebel-factions/05.jpg
   - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: digma-beeve-person
@@ -107,6 +108,10 @@ In the year after Newham fell, a gnome arrived at Leef in a small two-seater air
 
 When [Colonel Thadric Rourke](/people/thadric-rourke/) died in his sleep, Digma stepped forward to give the eulogy and was overcome, and [Gemma](/people/gemma-corso/) gave it in his place. <small>(JL's DM notes: The Unforeseen Strike Back DM Notes)</small>
 
+## After the Empire
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), after the Hundreds took control of Sharn's sky under Locke Pierce, the Inevitables left Richard Blaze and Calcifer in hiding, since Pierce did not know of them and might see the boy as a threat to the throne. They agreed to reach the two through Digma Beeve if they had to. <small>(Korth Ep 23)</small>
+
 **Personality Characteristics**
 
 **Motivation:** to keep the network alive, and to make sure that what survives is written down correctly.
@@ -124,7 +129,7 @@ When [Colonel Thadric Rourke](/people/thadric-rourke/) died in his sleep, Digma 
 **Social — Contacts & Relations**
 
 - **Richard Blaze** — his oldest friend and co-founder; the first man he treated as a man. Alive, officially dead.
-- **Zero-One (Fema Nolan)** — co-founder and Fulcrum's leader. Taken alive by Eden units.
+- **Zero-One (Fema Nolan)** — co-founder and Fulcrum's leader. Taken alive by Eden units, rescued from the Ivory Lazaret, and back in Sharn.
 - **John Stamos** — co-founder, killed on the lightning rail. Deceased.
 - **[Thadric "The Colonel" Rourke](/people/thadric-rourke/)** — old ally out of Leef, who sent the Heroes to him; Digma was the Colonel's man in Newham. Died in his sleep at Leef the year after the fall of Newham.
 - **Potpie** — a gnome artificer of the Librarians, with whom he has history. Status unrecorded.

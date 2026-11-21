@@ -22,11 +22,11 @@ kind: people
 icon: fa-book-open
 fields:
   rpgAlignment: Unknown
-  ggmtitle: Archivist, Old Histories Wing, Sharn Library
+  ggmtitle: Chancellor of Sharn; formerly Archivist, Old Histories Wing, Sharn Library
   dobDisplay: Unknown
   birthplace: Unknown
   children: None recorded
-  residence: In hiding - formerly an Upper City apartment, then the Lower City safe house and Zilspar Farm
+  residence: Sharn - formerly an Upper City apartment, then the Lower City safe house and Zilspar Farm
   gender: Female
   age: Unknown
   eyes: Dark brown (portrait)
@@ -44,6 +44,7 @@ sources:
 - sources/dave/2026-09-26-korth-ep15-rulings.md
 - C:/dev/sharn-campaign/session-2026-09-25-summary.md
 - Dave, note of 2026-09-26
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: renn-tal-person
@@ -71,11 +72,11 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Archivist · Old Histories Wing, Sharn Library · Trusted by R.U.S.T. · Alive**
+**Chancellor of Sharn · Archivist, Old Histories Wing, Sharn Library · Trusted by R.U.S.T. · Alive**
 
 <small>Also known as: Renn · the archivist</small>
 
-**Renn Tal** is an archivist of the Old Histories Wing of the Sharn Library, trained in pre-Galifar ritual history and [Dhakaani](/history/the-dhakaani-empire/) archaeology. [Esther Crona](/people/esther-crona/) personally tasked her with cataloguing ancient texts on [Varyn Crona](/people/varyn-crona/), the Eternal Guardian and the Forge of Binding, and the work turned up missing pages in Imperial-approved tomes, altered chronologies and references to subterranean structures beneath Sharn that should not exist. Her questions took her into the Lower City, where [DJ Rust](/people/dj-rust/) brought her into the rebel network and [Misty Kross](/people/misty-kross/) put her Dhakaani literacy to work. She deciphered and opened the puzzle door to the Forge of Binding, lost her post, her apartment and her city to the Iron Veil, and now directs the Eye of Corruption works on behalf of Sharn.
+**Renn Tal** is an archivist of the Old Histories Wing of the Sharn Library, trained in pre-Galifar ritual history and [Dhakaani](/history/the-dhakaani-empire/) archaeology. [Esther Crona](/people/esther-crona/) personally tasked her with cataloguing ancient texts on [Varyn Crona](/people/varyn-crona/), the Eternal Guardian and the Forge of Binding, and the work turned up missing pages in Imperial-approved tomes, altered chronologies and references to subterranean structures beneath Sharn that should not exist. Her questions took her into the Lower City, where [DJ Rust](/people/dj-rust/) brought her into the rebel network and [Misty Kross](/people/misty-kross/) put her Dhakaani literacy to work. She deciphered and opened the puzzle door to the Forge of Binding, lost her post, her apartment and her city to the Iron Veil, and took charge of the Eye of Corruption works on behalf of Sharn. She served as Eric's deputy while he was in Korth, and after the destruction of Korth and the Ivory Lazaret she announced his death and became Chancellor of Sharn.
 
 Renn Tal is an archivist from the Old Histories Wing of the Sharn Library and one of the few scholars in the city who has uncovered evidence surrounding the ritual of the Eternal Guardian. Trained in pre-Galifar ritual history and Dhakaani archaeology, she was personally tasked by Esther Crona with cataloging ancient texts related to Varyn Crona, the Eternal Guardian, and the Forge of Binding. Her research revealed missing pages in Imperial-approved tomes, altered chronologies, and references to subterranean structures beneath Sharn that should not exist.
 
@@ -153,7 +154,7 @@ She believes an archive that has been edited is evidence of what was removed. Sh
 - **Doppler Klink** — made her the wand. Left Sharn with the Cogborn.
 - **Esther Crona** — gave her the commission that destroyed her life. Deceased.
 - **Jessica Grimpledink** — ally, and lately rival for control of the Eye of Corruption. Alive.
-- **Eric the Cleric** — the priest her counter-rite requires. Alive, and Chancellor.
+- **Eric the Cleric** — the priest her counter-rite requires, whose deputy she was. She announced his death and succeeded him as Chancellor. Alive, and in hiding.
 
 **Hobbies & Pets:** Unknown.
 
@@ -164,3 +165,13 @@ She believes an archive that has been edited is evidence of what was removed. Sh
 Renn Tal is [Eric](/people/eric-the-cleric/)'s deputy in Sharn. <small>(sources/dave/2026-09-26-korth-ep15-rulings.md)</small>
 
 In [Korth Ep 15](/sessions/korth-ep-15-the-stairs-of-her-mercy/), at the Grand Lodge, the party spent the rest of its money on the horns: the smithy at Leaf would make them, the stables would train riders to carry them, and parties of the Leaf Guard would take them to the other kingdoms. Renn Tal was to be asked to put the foundries of Sharn to work making horns.
+
+## Chancellor of Sharn
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), a day after the valley of the Ivory Lazaret was destroyed, Renn Tal spoke on the broadcast from Sharn, with [Locke Pierce](/people/locke-pierce/) and [Andromeda Starweaver](/people/andromeda-starweaver/) beside her:
+
+> "People of Sharn and people of Eberron, what has happened in Korth and the Lazaret has been extraordinary. We mourn the death of our Chancellor, Eric the Cleric, and thousands others, both innocent and guilty, the war which has raged across our continent. As a people now, we must face a new question, not just how we unite as one planet, but how we unite with worlds even beyond. Even now, information is being distributed to all the lands about a bold and new day which is upon us. A bright day. Not just the end of the Empire, yes, but the unity of all species of Eberron into a single sovereign realm. As the new Chancellor of Sharn, I welcome Locke Pierce and the emissary of the Sovereignty of Realms, Andromeda Starweaver."
+
+Pierce nodded and stepped back, and Andromeda spoke after her. Renn looked sad, and seemed to believe that Eric was dead. Eric was alive and watched the broadcast from [the Nest](/organizations/the-nest/), and he and his companions agreed to keep his survival secret from her.
+
+As Chancellor she ran the bureaucracy on the course Eric had left it on, with the council largely intact. [The Hundreds](/organizations/the-hundreds/) held nearly all military power in the city and its airspace, had liberalized business and had let the houses return to their residences. [Blair](/people/blair/) had no love for her. Renn never saw the Nest or the Upper City safe house. She knew the Lower City safe house, which Eric's people abandoned. <small>(Korth Ep 23)</small>

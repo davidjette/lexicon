@@ -20,9 +20,9 @@ icon: fa-fire
 fields:
   type: Religious order, outlawed
   headquarters: Zilspar Farm 02 (destroyed); cells across Thrane and Breland
-  leader: Zero-One (Fema Nolan), Paladin - taken alive at Zilspar
+  leader: Zero-One (Fema Nolan), Paladin - taken alive at Zilspar, freed at the Ivory Lazaret
   founding: Unknown; outlawed by the Empire
-  status: Active and armed; leadership captured
+  status: Active and armed
   allies: Fulcrum, the Nest, the Inevitables, R.U.S.T., the Republic of Talenta
   enemies: The Empire, the Iron Veil, the Black Doves, Project E.D.E.N.
 sources:
@@ -34,6 +34,7 @@ sources:
 - "Oral Histories: The Inevitables, 2025-07-18"
 - "Oral Histories: The Inevitables, 2025-08-08"
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-silver-flame-organization
@@ -79,6 +80,14 @@ When Sharn fell to the coalition, Zero-One and Silver Flame paladins seized the 
 In Nico's notes, Donna and other Silver Flame clerics tended the injured at the seized hospital with Fulcrum healers, and the Flame's delegation to the council was Zero-One with two paladin guards, [Zero of Sharn](/people/zero-of-sharn/) and [Donna](/people/donna/). Its full proposals were: convert the Black Dove Hospital into a Silver Flame healing centre; continue healing Sharn's citizens and the victims of the Black Veil's Skyport disaster; execute and outlaw the Black Doves; a Flame-led cleansing of corrupted sites, including the Zeir residence and the Black Veil crash site; a citywide cremation directive, to prevent Uriel from raising the dead; sanctuary protections for refugees, especially Cogborn, Lower City families, war survivors and orphans; and a permanent seat on the council. Blair's demand for a ban on Silver Flame patrols in the Underhive was one Zero-One would oppose. <small>(Nico's DM notes, Episode 19)</small>
 
 Three years on the Flame and Zero-One opposed the Thronehold Summit outright. The Summit ended in massacre. At the hospital afterward, Bofric the runesmith played the fanfare of the Dawn for a representative of every faith on the continent, and the clergy took up teaching what they named the **Horn of Mourning**, congregation by congregation. Dario told that room he had broken three bells and would break every one — and that the woman who rings them must be cut down along with everyone who helped her.
+
+## The emissary's commendation
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), under [Mt. Silicon](/places/mt-silicon/), [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), spoke to Dario about the faith:
+
+> I have learned of the Faith of the Silver Flame. It is a beautiful one, one of the purest I have found in all my travels across the stars. Rarely is there a tradition which exalts the spirit of all without the vain personification of such a power as being the same as one race or another. I commend you, Paladin. I believe you are an example of what could make the Sovereignty great.
+
+Zero-One, freed from the Lazaret, returned to Sharn with the Inevitables. Aboard the *Revenge* Dario told her he could not see the Flame, only darkness, fog and smoke. She answered: "Where there's smoke, there's fire."
 
 ## THE REBEL FACTIONS FILE — WHO THE FLAME IS
 

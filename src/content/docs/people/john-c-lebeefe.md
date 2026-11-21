@@ -58,6 +58,7 @@ sources:
   - 'JL''s DM notes: The Unforeseen Strike Back DM Notes'
   - sources/dave/2026-09-27-leef-jl-notes-rulings.md
   - Esther Crona, as revised by Nico, 2026-10-07
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: john-c-lebeefe-person
@@ -322,6 +323,22 @@ Whether LeBeefe survived in some form, left behind an echo of his consciousness,
 ### The Polygon
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/), in the Sept of Bones, Esther Crona demanded of Uriel what would happen if the Polygon over Nos Matre were destroyed. Uriel laughed. *"Ask LeBeefe. I stole it from him."* The Polygon had been storing the power of the dead for her and carrying her will. Once it was struck it could not be controlled, and the valley was destroyed shortly afterwards.
+
+### The same device
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), under [Mt. Silicon](/places/mt-silicon/), Gemma told Locke Pierce and [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), that the object which hung above LeBeefe's palace in Newham and caused the New Mourning was red Khyber encased in black Khyber, that Pierce's [Ruby Nova](/items/ruby-nova/) was the same material, and that Uriel had said the thing in her courtyard was made the same way and came from LeBeefe. LeBeefe had three such devices, and one, a miniature, was left. The device over Newham, the Ruby Nova and [the Polygon](/items/the-polygon/) are the same technology, known in the Starfall era as [the Demoncore](/items/the-demoncore/).
+
+Pierce said of him in the same meeting:
+
+> You came out of the desert and LeBeefe was stupid enough to play with you, to toy with you, and he paid for it. But he was a genius and he knew how to get the things that were really of value. He was friends with some truly bad people and things. And they gave him a lot of secrets.
+
+### Hyperion
+
+When Gemma remarked that it was a shame LeBeefe was not around to be asked about the device, a young Kalashtar woman whom Andromeda had brought into the room answered, her face twisting:
+
+> Yes, you should ask me.
+
+The Kalashtar share one consciousness, which calls itself [Hyperion](/lore/hyperion/), and it had absorbed something of LeBeefe. Two of the Hundreds took her out of the room, and Pierce was visibly unsettled as he watched her go.
 
 ## Personality Characteristics
 

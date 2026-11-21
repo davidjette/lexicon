@@ -22,7 +22,7 @@ icon: fa-network-wired
 fields:
   type: Counter-insurgency sweep
   location: Continent-wide
-  date: Ongoing; began after Izaak's disappearance
+  date: Began after Izaak's disappearance
   method: Name lists, mass arrest, executions running for days
   losses: Zero-One taken alive; Izaak presumed dead; Donna and Grady Marsh unaccounted for; Bantide Moro recorded as a suicide
   competing_explanations: Izaak talked or was taken; another betrayal; Eric's concealed corruption; Locke Pierce traded the farm for airspace
@@ -32,6 +32,7 @@ sources:
 - worldanvil/sources/site/rebel-factions.txt
 - handouts/fulcrum-bell-file.md
 - worldanvil/CANON.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-rolling-up-of-fulcrum-article
@@ -40,9 +41,9 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Counter-insurgency sweep · Continent-wide · Ongoing, beginning after Izaak vanished**
+**Counter-insurgency sweep · Continent-wide · Began after Izaak vanished · Locke Pierce said he tipped off the Empire**
 
-The rolling-up of Fulcrum is the continent-wide counter-insurgency sweep in which the Empire dismantled the rebel group [Fulcrum](/organizations/fulcrum/), beginning after the disappearance of [Izaak](/people/izaak/) and running through days of mass arrests and executions. It is ongoing.
+The rolling-up of Fulcrum was the continent-wide counter-insurgency sweep in which the Empire dismantled the rebel group [Fulcrum](/organizations/fulcrum/), beginning after the disappearance of [Izaak](/people/izaak/) and running through days of mass arrests and executions. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Locke Pierce](/people/locke-pierce/) said that he had tipped off the Empire to the location of Fulcrum agents.
 
 Fulcrum is one of the oldest rebel groups on the continent: farmers, rangers and dissidents, founded more than twenty years ago by Fema Nolan, [John Stamos](/people/john-stamos/), and — secretly — [Richard Blaze](/people/richard-blaze/) with [Digma Beeve](/people/digma-beeve/). It survived the [lightning rail](/history/the-lightning-rail-ambush/), the fall of Sharn and three years of open war.
 
@@ -83,6 +84,14 @@ Nobody in the rebellion has settled this, and the competing explanations are all
 
 Too exhausted to travel and too wanted to be seen, Bantide gave the Inevitables one thing before they left for the Summer Palace: a listening post beside the Hall of Submission, holding records that may explain what happened to Izaak and to Zero-One.
 
+## WHAT LOCKE PIERCE SAID
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), after the Empress was destroyed, the Inevitables met Locke Pierce in the Hundreds' base under [Mt. Silicon](/places/mt-silicon/). He called Fulcrum a great asset for as long as it lived, and said he did not think Esther Crona saw it her whole life, which he called a tribute to that group and to himself. Then he said:
+
+> But when I saw you on that broadcast from Thronehold, I realized that you did not respect that decision made so long ago as to who would choose the destiny of this planet. And forgive me if I assumed that you would fail in your quest, but nonetheless I could not allow for there to be such a destabilizing force in the world that continued. So I'm sorry for what happened to your friends. It's not what I would have chosen. Tipping off the Empire to the location of a handful of Fulcrum agents to close out a long chapter of mutual spying and general lawlessness is a natural end of such things.
+
+Fulcrum had been allied with the Hundreds. Izaak, Bantide Moro and Zero-One were alive at the end of the campaign, in the Nest at Sharn.
+
 **Also spelled:** Izzak
 
-**Scope:** continent-wide · **Began:** after Izaak's disappearance · **Method:** name lists, mass arrest, executions over successive days · **Status:** ongoing and unexplained
+**Scope:** continent-wide · **Began:** after Izaak's disappearance · **Method:** name lists, mass arrest, executions over successive days · **Status:** Locke Pierce said he tipped off the Empire to the location of Fulcrum agents

@@ -51,6 +51,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-11'
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
   - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/sessions/korth-2026-11-20-summary.md
 gallery:
   - src: /images/chat/2024-05-03-1494683397801553.webp
     alt: Grey Cloak Catrina miniature
@@ -94,6 +95,8 @@ The third season, from February 2024, brought Katrina and Horgus back, tracing J
 Katrina chose to recover the Demoncore over saving those people. She was a horizon walker, and Horgus a necromancer, to support a secret program that was only ever used once. Their story diverging from Jim's mirrors the divergence of Astral Command from its righteous path, and leads to Jim's disillusionment. <small>(Oral Histories: The Inevitables, 2024-03-16)</small> Her player recounted that Kat and Horgus left the group with no transport and no way to communicate and took their artillery droid, [1.0](/people/1-0/), though Kat gave Jim the sending stone. <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
 
 Jim's memories were changed with a potion of modify memory after he last saw Katrina and Horgus, and any knowledge he gained of the Demoncore would probably be erased by OSR3G. <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
+
+Katrina and Horgus were later aboard [the SSJ Stonecypher](/items/the-ssj-stonecypher/) when a [Demoncore](/items/the-demoncore/) was detonated on the ship by accident. They resisted the power that turned the rest of the crew into zombies, and were stranded on the ship for years until the crew of the Zanzibar found them. <small>(Dave and Nico, 2026-11-20)</small>
 
 ## The finale
 

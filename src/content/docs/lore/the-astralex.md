@@ -39,8 +39,14 @@ sources:
 - Desktop/D&D/Starfall TNG/970900243884499.pdf
 - "JL's DM notes: Starfall Awakens Notes"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+- sources/sessions/korth-2026-11-20-summary.md
 campaigns:
+  - the-unforeseen-strike-back
   - starfall-tng
+gallery:
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-situation-room.webp
+  alt: "Eric refuses the Sovereign Council"
+  caption: "Lexical rendering: Eric refuses the Sovereign Council - Korth Ep 23, The Father of the Hundreds"
 ---
 
 **Information network · Astral Command · Starfall**
@@ -52,6 +58,10 @@ campaigns:
 ## Design
 
 Admiral Andromeda Starweaver, head of the Order of Scribes, is the primary architect of the Astralex network. Her order also works on overcoming [Dark Spectrum Interference](/lore/dark-spectrum-interference/), which blocks interstellar communication and teleportation. <small>(Oral Histories: The Inevitables, 2023-01-23)</small>
+
+## On Eberron
+
+The name was seen on Eberron before the Starfall era. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) the big screen in the Situation Room of [the Hundreds](/organizations/the-hundreds/), under [Mt. Silicon](/places/mt-silicon/), was labelled in Gnomish "Astralex", followed by a version number. It showed a map of the space between Eberron and one of its moons, with arcs, a slowly moving circle and labelled callsigns. [Locke Pierce](/people/locke-pierce/) explained it to [Eric the Cleric](/people/eric-the-cleric/): [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) had provided a small fleet to protect Eberron's realm space, the Hundreds had learned to fly the ships, and the thing that really operated them was [the Lexicon](/items/the-lexicon/).
 
 ## Aboard the Zanzibar
 

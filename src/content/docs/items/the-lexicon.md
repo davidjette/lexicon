@@ -76,6 +76,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2024-12-22"
 - sources/dave/2026-10-08-tudyx-cube-spine.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-lexicon-item
@@ -88,6 +89,9 @@ gallery:
 - src: /images/gallery/2026-03-20-01.webp
   alt: R.U.S.T. prayer sheet to Lexicon
   caption: A song sheet with doves and a radiant cross, bordered in binary, with verses such as "You'll be given love (Lexicon)" and "All is full of love (Lexicon)". It is the prayer sheet the R.U.S.T. Runners hand out to the Cogborn.
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-situation-room.webp
+  alt: "Eric refuses the Sovereign Council"
+  caption: "Lexical rendering: Eric refuses the Sovereign Council - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - ages-of-the-infanta
   - the-unforeseen-strike-back
@@ -166,6 +170,22 @@ The rest of the entity's life is at [The Anachron](/items/the-anachron/). Millen
 In [Dead Man's Hand](/lore/dead-mans-hand/), five hundred years after the Ages of the Infanta, a Lexicon sits at the heart of [the High Courts of Sigil](/places/the-high-courts-of-sigil/): a gargantuan construct, an eldritch machine made from an extraterrestrial crystal of hyperdense selenium, of "ORIGINS UNKNOWN", kept by [the Sororia](/organizations/the-sororia/), whose judgment is final for nearly every faction in the city. <small>(DM notes)</small> The Company, [Nimbus Corp](/organizations/nimbus-corp/), works on understanding and attempting to duplicate it, and behind the scenes the Company, the Church of Cypher and many others are trying to create more Lexicons, copy the original, or avoid domination by it. Nimbus Corp and the Lexicon later came together, and Nimbus became a major arm of the Lexicon's control over the Sovereignty.
 
 The Factol of the Sororia is the Lexicon.
+
+## Eberron
+
+On Eberron, before the Starfall era, [Eric the Cleric](/people/eric-the-cleric/) broke a binary code and gave it to the warforged, and that code is the reason [the Hundreds](/organizations/the-hundreds/) were able to fly the old spelljammers they crewed. In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Gemma Corso](/people/gemma-corso/) used it to answer the two ships pursuing the *Revenge*, sending [Locke Pierce](/people/locke-pierce/) three bytes, 01001100 01000101 01011000, the letters L, E and X. The ships fell back.
+
+Under [Mt. Silicon](/places/mt-silicon/), Eric was shown [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) through [Hyperion](/lore/hyperion/): a network of worlds led by a sovereign council, "all advised by a great oracle that they refer to as the Lexicon." Pierce asked for Eric and the mathematicians of the Counting House:
+
+> There is much to learn about this Lexicon and I need the greatest math minds in Eberron if we are not to be ruled by this Lexicon forever. It must be understood. It's a thing of divine creation.
+
+He proposed a secret project to implement the Lexicon on the Hundreds' own equipment. [Andromeda Starweaver](/people/andromeda-starweaver/), the Sovereignty's emissary, called his concern a common fear of obsolescence and told the party that the Lexicon "has already calculated your next move" and incorporated it "into its superposition of likely outcomes." Of her home on Toril she said:
+
+> We live under the certainty provided by the Lexicon. It is not our ruler. It is a prediction of the future, perhaps a record of the past, and it has a mind, but it is helpful and it is our friend. I think that you would like to get to know it.
+
+The fleet that the Sovereignty gave the Hundreds for Eberron's realm space was tracked on a display labelled [Astralex](/lore/the-astralex/), and Pierce said the thing that really operated the ships was the Lexicon.
+
+Matt Matheny's mathematicians, who had left the Counting House with Eric, were divided. Many had theorized in their own studies that such a device was possible, and that the warforged themselves represented a spontaneous artificial intelligence. Others saw a threat: that if mortals ceded their authority and talent as mathematicians to such devices, they would lose the ability to do the work themselves and become subservient to the Lexicon in the long run. Eric refused Pierce, returned to Sharn in secret, and with those mathematicians set out to study the Lexicon independently of Pierce.
 
 ## Starfall
 

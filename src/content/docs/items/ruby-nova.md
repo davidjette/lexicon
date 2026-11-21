@@ -25,6 +25,7 @@ sources:
 - sources/site/key-figures.txt
 - "Oral Histories: The Inevitables, 2026-06-27"
 - sources/sessions/korth-2026-11-13-summary.md
+- sources/sessions/korth-2026-11-20-summary.md
 - sources/dave/2026-11-14-end-of-campaign-release.md
 - C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-09-10'
@@ -40,6 +41,7 @@ gallery:
   caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
 campaigns:
   - the-unforeseen-strike-back
+  - starfall-tng
 ---
 
 **Weaponised recreation of the Mourning · Locke Pierce's countermeasure · Used twice**
@@ -59,6 +61,14 @@ The Hundreds are a warforged resistance army. They have reproduced the Mourning 
 ## The Ivory Lazaret
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) large vessels of the Hundreds closed on the valley of the [Ivory Lazaret](/places/the-ivory-lazaret/) from the south while [the Heir of Vol](/people/the-heir-of-vol/), cut free of his mother, broke out of the hill. Nothing the Inevitables carried could kill the Heir, who grew with every wound. One of the ships dropped a glowing red gem into the storm over the valley. It was a Ruby Nova. Joseph Roberts, carrying the party away on the airship *Revenge*, shouted at them not to look at it. There was a flash of red, then a blinding white light, then heat and wind, and a dome of red fire rose out of the Lazaret and became a mushroom cloud. When the air cleared, the Lazaret, Nos Matre, the Summer Palace, the Grand Lodge and the Heir were gone.
+
+## What it is made of
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma Corso told Locke Pierce and [Andromeda Starweaver](/people/andromeda-starweaver/) of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) that the object which hung above [John C. LeBeefe](/people/john-c-lebeefe/)'s palace in Newham and exploded to cause the New Mourning was red Khyber encased in black Khyber, that Pierce had used the same material on the valley of the Lazaret, and that Uriel had said [the Polygon](/items/the-polygon/) was made the same way. LeBeefe's device, the Ruby Nova and the Polygon are the same technology, and it is the technology known in the Starfall era as [the Demoncore](/items/the-demoncore/).
+
+Pierce said he hoped not to use the weapon again: Ruby Novas are very expensive to make and very harmful to the environment. He said the bells going off had let everyone understand why the Hundreds had to use it on the Lazaret, and that a Sharn full of the dead under Uriel's control would have been a necessary target.
+
+Andromeda Starweaver said the Sovereignty makes first contact with a distant world on two occasions: when it discovers travel faster than light, and "when they discover the types of weapons that you have unleashed on one another". She told Eric: "Owning atomics, Locke Pierce has rightful claim over this planet."
 
 **Status:** two confirmed uses. The number remaining is **Unknown**.
 

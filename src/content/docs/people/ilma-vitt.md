@@ -31,6 +31,7 @@ fields:
   weight: Unknown
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-summary.md
   - C:/dev/sharn-campaign/session-2026-09-25-lodge.transcript.txt
 published: '2026-09-26'
@@ -42,7 +43,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Dwarf · Wardress and keeper of records · The Imperial Counting House · Level Unknown · Alive, beaten, at the pilgrim camp**
+**Dwarf · Wardress and keeper of records · The Imperial Counting House · Level Unknown · Alive, last seen aboard the *Revenge***
 
 Ilma Vitt is the wardress and keeper of records at [the Imperial Counting House](/places/the-imperial-counting-house/) in the valley of [the Ivory Lazaret](/places/the-ivory-lazaret/). She is a grey-haired dwarf of about sixty with ink stains up to her elbows. She trained [Eric the Cleric](/people/eric-the-cleric/), signed him into the Hall of Records when he was given his first post, and wrote the assessment that got him the job: *"a mediocre accountant with an unusual eye."* <small>(Korth Ep 15)</small>
 
@@ -65,6 +66,8 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) Ilma was at the pilgr
 ## The Revenge
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the pilgrim camp burned, and Ilma came up the hill to Nos Matre with Matt Matheny's followers. She was taken aboard Joseph Roberts's airship *Revenge* from the courtyard, with Eric and Zero-One, before the valley was destroyed.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) she was on the deck of the *Revenge* with the exhausted, wounded and seasick followers of Matt Matheny and the defectors from the Counting House, and stayed with the ship when Eric, Gemma and Dario answered Locke Pierce's summons to Mt. Silicon. Pierce asked that Eric and his friends from the Counting House work with him on the Lexicon, and Eric refused him. <small>(Korth Ep 23)</small>
 
 ## Appearances
 

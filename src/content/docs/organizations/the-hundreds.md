@@ -22,9 +22,10 @@ fields:
   headquarters: Mt. Silicon, the Mournlands
   leader: Locke Pierce
   founding: Unknown
-  status: Active; influence growing; intent unknown
-  allies: R.U.S.T., the Council of Sharn (conditionally)
+  status: Active; at last report the leading power on Eberron, in partnership with the Sovereignty of Realms
+  allies: R.U.S.T., the Council of Sharn (conditionally), the Sovereignty of Realms
 sources:
+- sources/sessions/korth-2026-11-20-summary.md
 - sources/sessions/korth-2026-11-13-summary.md
 - sources/site/rebel-factions.txt
 - sources/site/mission-board.txt
@@ -50,6 +51,12 @@ gallery:
 - src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-fire.webp
   alt: "The valley of the Ivory Lazaret burns behind the Revenge"
   caption: "Lexical rendering: The valley of the Ivory Lazaret burns behind the Revenge - Korth Ep 22, The Reckoning of the Mother"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-chase.webp
+  alt: "Two spelljammers of the Hundreds run down the Revenge"
+  caption: "Lexical rendering: Two spelljammers of the Hundreds run down the Revenge - Korth Ep 23, The Father of the Hundreds"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-mt-silicon.webp
+  alt: "Locke Pierce receives the three under Mt. Silicon"
+  caption: "Lexical rendering: Locke Pierce receives the three under Mt. Silicon - Korth Ep 23, The Father of the Hundreds"
 image:
   src: /images/gallery/2026-06-27-02.webp
   alt: "The gate of Mt. Silicon"
@@ -59,9 +66,9 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Warforged nation · The Mournlands and the Glass Plateau · Active, influence growing**
+**Warforged nation · The Mournlands and the Glass Plateau · Active; the leading power on Eberron at last report**
 
-The Hundreds are the Warforged nation of the Mournlands, led by [Locke Pierce](/people/locke-pierce/) from the fortified stronghold of Mt. Silicon and holding the Glass Plateau. They have fought Project E.D.E.N.'s hybrid units in the waste for years, fed Sharn in exchange for access to its airspace, and hold the Ruby Nova, a controlled recreation of the Mourning, which Pierce has already detonated once. Their intent is recorded nowhere.
+The Hundreds are the Warforged nation of the Mournlands, led by [Locke Pierce](/people/locke-pierce/) from the fortified stronghold of Mt. Silicon and holding the Glass Plateau. They have fought Project E.D.E.N.'s hybrid units in the waste for years, fed Sharn in exchange for access to its airspace, and hold the Ruby Nova, a controlled recreation of the Mourning, which Pierce detonated over the northern Mournlands and again on the valley of the Ivory Lazaret. They were the first people of Eberron met by [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), whose personnel work inside their base under [Mt. Silicon](/places/mt-silicon/) and which gave them a small fleet for Eberron's realm space. At last report they held the airspace and nearly all military power in Sharn.
 
 ## NEST FACTION BOARD — ENTRY IN FULL
 
@@ -117,6 +124,32 @@ Then Zilspar Farm burned. Days later three Warforged arrived under Himmie Joffa 
 
 In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) large vessels of the Hundreds came over the Ivory Lazaret from the south as the Heir of Vol broke the surface. One of them dropped a glowing red gem into the storm. The blast destroyed the Lazaret, Nos Matre and the valley, and overturned Joseph Roberts's airship above the clouds.
 
+## THE SOVEREIGNTY OF REALMS
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) two huge spelljammers crewed by the Hundreds broke the cloud layer behind the *Revenge* and fired a warning shot across her bow. Each was ten times her size, and they looked old and broken down. They dropped back when Gemma sent Pierce a message in the binary code Eric had once broken.
+
+Pierce's stone then brought the Inevitables into the base under [Mt. Silicon](/places/mt-silicon/). Standing behind him was [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). She said the Sovereignty's diviners had seen Eberron's star glow red many years before, which was the Mourning, and had sent ships across the ocean between the stars:
+
+> When we got here, we met the Hundreds.
+
+She called Pierce "the father of the Hundreds" and said the Sovereignty had already agreed with him that Eberron would become a sovereign realm, abide by the laws of the Sovereignty and live under its protection. Uniformed Sovereignty personnel of many kinds worked in the base, integrated with the Hundreds' operations.
+
+Among the people held at Mt. Silicon were Kalashtar orphans from Breland. After Gorgonhorn the Hundreds had classified them as an experiment and brought them there. They were treated humanely while the Hundreds tried to isolate the personality they shared, which calls itself [Hyperion](/lore/hyperion/).
+
+Pierce said the fruit the Hundreds had been feeding Sharn was a species Andromeda brought, from a massive world pelted by meteors and whole planetoids of red Khyber, where the plants survive such explosions.
+
+In the Situation Room a screen labelled "Astralex" in Gnomish, with a version number, showed a map of the space between Eberron and one of its moons with tracked callsigns. Pierce said the Sovereignty had given the Hundreds a small fleet to protect Eberron's realm space, everything from the clouds to the moon:
+
+> We have ships which can traverse that space. Ships that my people control. We've learned to fly them.
+
+He added that the thing that really operated the ships was [the Lexicon](/items/the-lexicon/), and that the fleet answered to the Sovereignty. See [the Astralex](/lore/the-astralex/).
+
+Pierce said that he had tipped off the Empire to the location of a handful of [Fulcrum](/organizations/fulcrum/) agents after he saw the Inevitables' broadcast from Thronehold. See [the destruction of Zilspar Farm](/history/the-destruction-of-zilspar-farm/).
+
+## AFTERMATH
+
+At last report the Hundreds held nearly all military power in Sharn and its airspace. They had liberalized business in the city and let the houses return to their residences. [Renn Tal](/people/renn-tal/), the new Chancellor of Sharn, welcomed Locke Pierce and Andromeda Starweaver on the broadcast. Eberron later joined the Sovereignty.
+
 **Known members:** Locke Pierce, leader · Captain Edday · Himmie Joffa.
 
-**Holdings:** Mt. Silicon · Gorgonhorn, shared with [R.U.S.T.](/organizations/r-u-s-t/) on the Mournland border · the Glass Plateau · a capital fleet · the skies of Sharn.
+**Holdings:** Mt. Silicon · Gorgonhorn, shared with [R.U.S.T.](/organizations/r-u-s-t/) on the Mournland border · the Glass Plateau · a capital fleet · the skies of Sharn · a small fleet for Eberron's realm space, given by the Sovereignty of Realms.

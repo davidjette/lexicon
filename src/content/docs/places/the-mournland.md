@@ -37,6 +37,7 @@ sources:
   - C:/dev/sharn-campaign/biotec.md
   - C:/dev/sharn-campaign/npcs.md
   - 'Esther Crona, as revised by Nico, 2026-10-07'
+  - sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: the-mournland-location
@@ -72,6 +73,8 @@ To the free states the weapon was immediately dubbed **the Last Mourning**.
 ## Something is changing
 
 A **Cyrean Red Pomegranate** — a fruit believed extinct since the Mourning — arrived in Sharn as a private gift from Locke Pierce, large and fresh. It suggests something within the Mournlands is changing. Locke's own phrasing for it was "new growth."
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), under [Mt. Silicon](/places/mt-silicon/), Pierce said the fruit the Hundreds had been feeding Sharn was a species brought to them by [Andromeda Starweaver](/people/andromeda-starweaver/), emissary of [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/): it comes from a massive world pelted by meteors and whole planetoids of red Khyber, where the plants survive such explosions, which is why it could be grown in the Mournland. The Sovereignty had come to Eberron after its diviners saw the Mourning, and its personnel worked inside the base under the mountain alongside the Hundreds.
 
 ## Travelling there
 

@@ -43,6 +43,7 @@ sources:
 - worldanvil/images/key-figures/02.jpg
 - sources/documents/2026-09-14-nico-sharn-ep-19-council-of-sharn.md
 - sources/documents/2026-09-14-nico-sharn-ep-2-pose.md
+- sources/sessions/korth-2026-11-20-summary.md
 published: '2026-09-10'
 wa:
   slug: c00f2b19-cde4-4258-9273-16a6ad403733
@@ -124,6 +125,12 @@ In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) [Joseph Roberts](/peo
 
 After the fall of Sharn, Blair ruled the Underhive. Her husbands formed her inner circle, each contributing to the Underhive's infrastructure and security. Her Drones were her loyal followers. She avoided Imperial entanglements and the volatile agendas of her siblings, focusing instead on the safety and autonomy of her domain. She ruled an autonomous nation beneath a city that had once tried to arrest her, and her Drones staffed its new Department of Infrastructure while keeping their subterranean autonomy. At last report Sharn was out of fuel and weeks from severe food shortages, and the Underhive controlled the tunnels every one of those problems had to move through. She had not said what she intended to charge.
 
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) [Joseph Roberts](/people/pirate-joseph-roberts/) retired, gave his ship and his name to Gemma Corso, and left with Vanessa Redwing, the Fieldmaster of the Grand Lodge, whom he introduced as his wife. Blair had not known of his hideaway island. When Gemma came to her in Sharn and told her who the new Roberts was, Blair was furious and threw things, and then said she saw why he had given it to her.
+
+> "I may have owed him money. I don't owe you a goddamn thing. You can just cross that out of your book."
+
+She had no love for Renn Tal, the new Chancellor, or for Locke Pierce. At Gemma's asking she had already started the rumour that the Dread Pirate was always Josephine Roberts. Gemma told her that Uriel had raised her sister's body at the Lazaret, that she had seen Eden too, and that both were gone. Blair poured two whiskeys and agreed to acquire whatever was on the list Gemma would send, which supplied Eric's underground at the Nest. She held the ziggurat and the cleared underground. Circuit City, with its lift to the hospital, belonged to the Inevitables. <small>(Korth Ep 23)</small>
+
 > "To the city above, she is a shadow; to those below, she is the closest thing to order they have."
 
 **Organizations / Groups:** Sovereign of the Underhive; represented at the first Council of Sharn, where she requested a permanent seat for Berenstain; married into the pirate fleet of Joseph Roberts.
@@ -154,7 +161,7 @@ After the fall of Sharn, Blair ruled the Underhive. Her husbands formed her inne
 - **John C. LeBeefe** — biological father. Met him as an adult, saw through him, kept her distance. Deceased.
 - **Esther Crona** — half-sister and Lord Commander. Never allies; Esther's soldiers killed three of her Drones. Deceased.
 - **Faith Zeir** — half-sister, the Mother Prophet. No recorded contact. Deceased.
-- **Eden** — half-sister, resurrected as EDN-00. Status contested.
+- **Eden** — half-sister, resurrected as EDN-00. Gemma told Blair in Korth Ep 23 that she was gone.
 - **Preacher** — leader of R.U.S.T., whose trapped Cogborn crossed her country to reach the mountain tunnel. Alive.
 - **The Inevitables** — the only outsiders she has given a direct line to. Alive.
 

@@ -48,6 +48,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-05-31'
   - 'The Starsong Awakens site (JL Byrd): New magic items'
   - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/sessions/korth-2026-11-20-summary.md
 gallery:
   - src: /images/chat/2024-05-03-1099651471068892.webp
     alt: Robed simian sorcerer
@@ -85,6 +86,8 @@ Katrina and Horgus returned in the third season, in flashbacks to Jim's origin a
 Recovering the Demoncore took priority over saving the stranded group. Nico, who played Katrina, recalled that she and Horgus left the group with no transportation and no way to communicate, and took its artillery droid, [1.0](/people/1-0/). Jim's memories were changed afterwards with a potion of modify memory. <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
 
 Dave described the divergence of Katrina and Horgus's story from Jim's as mirroring the divergence of Astral Command from its righteous path, and as the cause of Jim's disillusionment. <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
+
+Horgus and Katrina were later aboard [the SSJ Stonecypher](/items/the-ssj-stonecypher/) when a [Demoncore](/items/the-demoncore/) was detonated on the ship by accident. They resisted the power that turned the rest of the crew into zombies, and were stranded on the ship for years until the crew of the Zanzibar found them. <small>(Dave and Nico, 2026-11-20)</small>
 
 ### The finale
 

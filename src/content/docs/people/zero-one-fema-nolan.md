@@ -25,7 +25,7 @@ fields:
   dobDisplay: Unknown
   birthplace: Thrane
   children: Izaak; Zero of Sharn (half-siblings)
-  residence: Zilspar Farm 02, Breland - destroyed; currently held by Imperial Eden units
+  residence: The Nest, Sharn; formerly Zilspar Farm 02, Breland, destroyed
   gender: Female
   age: Unknown
   eyes: Dark brown (portrait)
@@ -35,6 +35,7 @@ fields:
   weight: Unknown
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/site/rebel-factions.txt
   - sources/site/sharn-episode-summaries.txt
   - sources/site/korth-episode-summaries.txt
@@ -66,7 +67,7 @@ campaigns:
   - the-unforeseen-strike-back
 ---
 
-**Human · Paladin of the Silver Flame · Leader of Fulcrum · Taken alive**
+**Human · Paladin of the Silver Flame · Leader of Fulcrum · Alive**
 
 <small>Also known as: Fema Nolan · Zero-One · Zero‑One</small>
 
@@ -76,7 +77,7 @@ Fema Nolan is one of the founding members of the rebel group known as Fulcrum. B
 
 After the tragic death of her companion and Fulcrum founder John Stamos, she undertook an ancient and nearly forgotten Silver Flame rite that strips away one's name and past, emerging as Zero-One, the first woman in centuries to undergo the transformation. Today, Zero-One serves as the current leader of Fulcrum, operating primarily out of the rebel stronghold in Zilspar alongside her eldest son, Izaak, and a cell of loyal guards. Though she maintains a presence in Zilspar, Zero-One is known to vanish for long stretches on missions of her own, traveling across Khorvaire with a select group of personal knights. Her rare appearances, unwavering resolve, and mythic reputation make her one of the most enigmatic and revered figures in the rebellion.
 
-**Status:** Alive. Aboard the airship *Revenge* ([Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/)).
+**Status:** Alive. In Sharn, at the Nest ([Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/)).
 
 ## Physical description
 
@@ -126,7 +127,9 @@ Zilspar Farm was burned to the ground with people boarded up inside, and Zero-On
 
 In [Korth Ep 18](/sessions/korth-ep-18-the-pilgrims-camp/) she was found at the pilgrim camp among the followers of Matt Matheny, wounded, bandaged and asleep, after Dario carried her out of the slab room. When she woke she asked after Izaak and then after Richard. She told the party that the attack on Zilspar tripped none of the farm's alarms, that she had been made to raise Esther because Uriel wanted Esther to find Calcifer, and that she took Esther's heart out in the rite and did not know where it went. Of Uriel: *"Uriel's brain was missing when I first met her all those years ago, and I replaced it with a gem, which had raised her from the dead by the light of the Flame."* She needed days of rest, and promised to summon all the Flame left in her if the party confronts the White Death. She gave Gemma her pewter pendant of *circle of power*. <small>(Korth Ep 18)</small>
 
-In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the *circle of power* in her pewter pendant kept the party alive over Nos Matre. She came up the hill from the burning pilgrim camp with Matt Matheny's followers, holding spells of protection and hope over them while they cast at the Polygon. Joseph Roberts's corsairs pulled her aboard the *Revenge* before the valley was destroyed, and she was aboard when the campaign ended.
+In [Korth Ep 22](/sessions/korth-ep-22-the-reckoning-of-the-mother/) the *circle of power* in her pewter pendant kept the party alive over Nos Matre. She came up the hill from the burning pilgrim camp with Matt Matheny's followers, holding spells of protection and hope over them while they cast at the Polygon. Joseph Roberts's corsairs pulled her aboard the *Revenge* before the valley was destroyed, and she was aboard as the ship climbed away.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), on the deck of the *Revenge*, Gemma asked her directly about Zilspar. Zero-One confirmed that it was [Eden](/people/eden/), the blue tiefling, who took her, that the attackers killed everyone and destroyed everything, and that she woke in the hospital with no memory of how she got there. She said that war had ruined the world and had to be brought to an end. She stayed with the ship while the three went to [Mt. Silicon](/places/mt-silicon/), where Locke Pierce admitted that he had tipped off the Empire to the location of Fulcrum's agents. That night Dario sat with her and told her he could not see the Flame, only darkness, fog and smoke. She answered: *"Where there's smoke, there's fire."* She returned to Sharn with Eric and Dario and was at [the Nest](/organizations/the-nest/) when Eric declared his war on the Sovereignty. She and Lorian were expected to side with Dario, who had taken an oath of protection over Eric. <small>(Korth Ep 23)</small>
 
 ## Beliefs
 

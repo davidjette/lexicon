@@ -22,11 +22,13 @@ fields:
   sideEffects: Altered or swallowed magical messages; sickness and voices in those who passed it; destroyed the valley when it was broken
 sources:
   - sources/sessions/korth-2026-11-13-summary.md
+  - sources/sessions/korth-2026-11-20-summary.md
   - sources/dave/2026-11-14-end-of-campaign-release.md
   - C:/dev/sharn-campaign/ivory-lazaret-dm.md
 published: '2026-11-14'
 campaigns:
   - the-unforeseen-strike-back
+  - starfall-tng
 image:
   src: /images/album/korth-ep-22-the-reckoning-of-the-mother-the-polygon.webp
   alt: "The Polygon over the forecourt of Nos Matre, with four Sorrowful Sisters channelling into it"
@@ -70,6 +72,8 @@ While the party fought in the Sept, the Polygon was struck. The purple light sto
 > — Uriel
 
 The Inevitables had seen what one of [LeBeefe](/people/john-c-lebeefe/)'s works did at Leef.
+
+In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/) Gemma told Locke Pierce and [Andromeda Starweaver](/people/andromeda-starweaver/) that the object which hung above LeBeefe's palace in Newham and caused the New Mourning was red Khyber encased in black Khyber, that Pierce's [Ruby Nova](/items/ruby-nova/) was the same material, and that Uriel had said the thing in her courtyard was made the same way and came from LeBeefe. LeBeefe had three such devices. One, a miniature, was left, in the keeping of [Jessica Grimpledink](/people/jessica-grimpledink/) in Sharn. LeBeefe's device, the Ruby Nova and the Polygon are the same technology, known in the Starfall era as [the Demoncore](/items/the-demoncore/).
 
 ## Fate
 
