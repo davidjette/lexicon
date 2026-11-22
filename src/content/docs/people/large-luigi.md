@@ -1,6 +1,6 @@
 ---
 title: Large Luigi
-description: A beholder bartender who kept his bar aboard the SSJ Zanzibar and was later held for fifteen years by OSR3G as prisoner LL849.
+description: A beholder bartender who kept his bar aboard the SSJ Zanzibar and was later held for fifteen years as a prisoner of the Sovereignty.
 tags:
   - Large Luigi
   - Luigi
@@ -36,6 +36,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-06-01'
   - Desktop/D&D/Starfall TNG/970900243884499.pdf
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
+  - 'JL''s DM notes: Starfall Awakens Notes'
+  - sources/dave/2026-11-21-epilogue-answers.md
 gallery:
 - src: /images/documents/ssj-zanzibar-crew-roster.webp
   alt: Crew roster of the S.S.J. Zanzibar
@@ -48,7 +50,7 @@ campaigns:
 
 *Also known as:* Luigi · prisoner LL849 · prisoner LL9807
 
-**Large Luigi** is a beholder bartender who kept his bar aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). In the fifteen years that followed he was held in a high-security facility of [OSR3G](/organizations/osr3g/) as prisoner LL849, awaiting trial for treason and crimes against the [Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), which officially disavows all knowledge of his whereabouts. The [Company](/organizations/nimbus-corp/)'s dossier names him prisoner LL9807 of [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/), "the traitor of the Battle of Tannhauser Gate", and a Company asset and criminal informant.
+**Large Luigi** is a beholder bartender who kept his bar aboard the [SSJ Zanzibar](/items/the-ssj-zanzibar/) during *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). In the fifteen years that followed he was a prisoner awaiting trial for treason and crimes against the [Sovereignty of Realms](/organizations/the-sovereignty-of-realms/), which officially disavows all knowledge of his whereabouts. JL's first outline of the sequel has him as prisoner LL849 in a high-security facility of [OSR3G](/organizations/osr3g/), the grey cloaks. The [Company](/organizations/nimbus-corp/)'s dossier names him prisoner LL9807 of [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/), "the traitor of the Battle of Tannhauser Gate", and a Company asset and criminal informant.
 
 ## Light of Xaryxis
 
@@ -66,4 +68,4 @@ By the time of *[The Starsong Awakens](/history/the-starsong-awakens/)*, fifteen
 
 ### The Company dossier
 
-The Company's dossier places Luigi in the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center, a massive prison complex in Shadowspace, as prisoner LL9807, "Large Luigi, the traitor of the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/)". As an enemy combatant he has no protection under the Negroni Accords, and he has been awaiting trial for the crimes of high treason and espionage for 15 years. The dossier describes him as currently a Company asset and criminal informant. <small>(The Starsong Awakens site, Company dossier)</small> JL's account of the arc gives his number as LL849 and his prison as a high-security OSR3G facility. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+The Company's dossier places Luigi in the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center, a massive prison complex in Shadowspace, as prisoner LL9807, "Large Luigi, the traitor of the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/)". As an enemy combatant he has no protection under the Negroni Accords, and he has been awaiting trial for the crimes of high treason and espionage for 15 years. The dossier describes him as currently a Company asset and criminal informant. <small>(The Starsong Awakens site, Company dossier)</small> JL's first outline, written the day after the finale of *Light of Xaryxis*, gives his number as LL849 and his prison as a high-security OSR3G facility. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> The grey cloaks were disbanded after the betrayal of the Lexicon and replaced by [the Bureau of Compliance](/organizations/the-bureau-of-compliance/); the dossier does not say which body runs the prison that bears the name of the grey cloak Katrina McQuaid. JL's notes for the arc place him in a detention facility in Shadowspace, and later have him aboard the crew's ship, frying flapjacks. <small>(JL's DM notes: Starfall Awakens Notes)</small>

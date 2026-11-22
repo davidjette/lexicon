@@ -82,6 +82,8 @@ sources:
   - Dave, note of 2026-09-26
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/dave/2026-11-21-epilogue-answers.md
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - 'Oral Histories: The Inevitables, 2024-05-02'
 gallery:
   - src: /images/chat/2022-10-09-1975455802845387.webp
     alt: Captain Jim Smallberries miniature
@@ -161,7 +163,7 @@ In the finale of 2024-05-31 the Zanzibar took critical damage and Caprica died. 
 
 ### The Lexicon's betrayal
 
-Jim Smallberries and his crew revealed the betrayal of [the Lexicon](/items/the-lexicon/): that it had engineered an attack by beholders, which were in fact cybrids and artificial, and used the chance to unleash [the Demoncore](/items/the-demoncore/), also its doing, on the home worlds of the Sovereignty. The council member the crew approached to convince of the betrayal, and of the fact that the beholder war was a trick, was Admiral [Andromeda Starweaver](/people/andromeda-starweaver/). She made a speech against it in the Sovereign Senate, gave the crew her luxury vessel to help them in their mission, distracted the grey cloaks and helped the crew escape. The name of the vessel is not stated. Once all of it was revealed, the Sovereignty turned on the Lexicon, which fled into cyberspace and deep space, and banned artificial intelligence on all planets.
+Through the second and third seasons Jim Smallberries and his crew uncovered the betrayal of [the Lexicon](/items/the-lexicon/). Parts of it were hiding the reality of the Shrike from mortals, and it had engineered an attack by beholders that were in fact cybrids, so as to have its chance to unleash [the Demoncore](/items/the-demoncore/), which was also its doing, on the home worlds of the Sovereignty. <small>(Oral Histories: The Inevitables, 2023-11-18; 2024-04-06)</small> While Jim was on Necis, the crew he had left aboard the Zanzibar reached Sigil and approached Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), a member of the Sovereign Council. She made a speech against it in the Sovereign Senate, survived an attempt on her life, gave the crew her luxury vessel to help them in their mission, distracted the grey cloaks and helped the crew escape. <small>(Oral Histories: The Inevitables, 2024-04-27; 2024-05-02)</small> Once all of it was revealed, the Sovereignty turned on the Lexicon, which fled into cyberspace and deep space, and banned artificial intelligence on all planets.
 
 ## The Starsong Awakens
 

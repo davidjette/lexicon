@@ -75,7 +75,7 @@ The mind flayer crisis of November 2022 ran to a third session, which turned on 
 
 In January 2024 Mordecai returned to play with [Buttsack](/people/buttsack/) and [Carlos Vega](/people/carlos-vega/), aboard the helpless Zanzibar adrift in the Astral Sea. <small>(Oral Histories: The Inevitables, 2024-01-26)</small> By April 2024 he had reached level 5. <small>(Oral Histories: The Inevitables, 2024-04-26)</small> In the session of 2024-05-10, after the command crew walked into the white light, Mordecai and Irina set out to take the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-05-11)</small>
 
-After the [wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/), whether Mordecai, Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) or [Sandy](/people/hyperion-tidzan-dassiya/) revealed the truth about the beholder invasions is unknown. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+In the days after the [wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/) it was still open whether Mordecai, Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) or [Sandy](/people/hyperion-tidzan-dassiya/) would make the truth about the beholder invasions public. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 
 ## The Starsong Awakens
 

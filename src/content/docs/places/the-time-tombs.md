@@ -32,7 +32,7 @@ fields:
   population: Unknown
   demonym: Unknown
   status: Stood on Necis, now destroyed
-  includedLocations: The palace; the senate; the Labyrinth; the Pyramid; the Jade Temple; the Sphinx Tomb
+  includedLocations: The palace; the Labyrinth; the Pyramid; the Jade Temple; the Sphinx Tomb
 sources:
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj

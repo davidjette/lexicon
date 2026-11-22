@@ -86,7 +86,7 @@ Dave described the outcome in two lines:
 
 The identities of the man and the woman are unknown. The star song of the second line is [the Starsong](/lore/the-starsong/).
 
-Between *Light of Xaryxis* and *The Starsong Awakens* the Lexicon engineered an attack by beholders that were in fact cybrids and artificial, and used the chance to unleash [the Demoncore](/items/the-demoncore/) on the home worlds of the Sovereignty. The Shrike came either to stop it or to help it. Which of the two was unclear throughout.
+The Lexicon engineered the cybrid attack of the arc's present so as to have its chance to unleash [the Demoncore](/items/the-demoncore/) on the home worlds of the Sovereignty. The Shrike came either to stop it or to help it. Which of the two was unclear throughout.
 
 **The tree of pain** is strung with undying mortals who showed a glimmer of remembering what was obliviated, whether of Cthulhu, of Cypher's life, or of any of it. Dave wrote that "it could be removing those memories from reality to protect reality or … harvesting them to try and discover the truth, or both". <small>(Oral Histories: The Inevitables, 2024-12-22)</small> See [the Oblivia](/lore/the-oblivia/).
 

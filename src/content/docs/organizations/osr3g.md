@@ -1,6 +1,6 @@
 ---
 title: OSR3G
-description: The secret intelligence corps of Astral Command, known as the grey cloaks, which holds Large Luigi in a high-security facility.
+description: The secret intelligence corps of Astral Command, known as the grey cloaks, disbanded after the betrayal of the Lexicon and replaced by the Bureau of Compliance.
 type: organization
 kind: organizations
 tags:
@@ -25,7 +25,7 @@ fields:
   leader: Unknown
   seat: Unknown
   parent: Astral Command
-  status: Active
+  status: Disbanded before The Starsong Awakens
 sources:
 - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
 - "Oral Histories: The Inevitables, 2023-11-18"
@@ -36,6 +36,11 @@ sources:
 - "Oral Histories: The Inevitables, 2024-05-03"
 - "Oral Histories: The Inevitables, 2024-06-01"
 - sources/dave/2026-11-21-epilogue-answers.md
+- "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2024-05-02"
+- "Oral Histories: The Inevitables, 2024-06-02"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "JL's DM notes: Starfall Awakens Notes"
 image:
   src: /images/generated/osr3g.webp
   alt: "OSR3G, the grey cloaks"
@@ -44,11 +49,11 @@ campaigns:
   - starfall-tng
 ---
 
-**Secret intelligence corps · [Astral Command](/organizations/astral-command/) · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Active**
+**Secret intelligence corps · [Astral Command](/organizations/astral-command/) · [The Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) · Disbanded**
 
 *Also known as:* the grey cloaks · the Office of Special Regiments for Intergalactic Intelligence and Information Gathering · OSRIIIG
 
-**OSR3G** is the secret intelligence corps of [Astral Command](/organizations/astral-command/), formally the Office of Special Regiments for Intergalactic Intelligence and Information Gathering and known as the grey cloaks. In *Light of Xaryxis* the grey cloaks may have been involved in the Lexicon's concealment of [the Shrike](/lore/the-shrike/), and the corps probably erased Jim Smallberries's knowledge of the Demoncore program of the Beholder War. Fifteen years later OSR3G holds the beholder [Large Luigi](/people/large-luigi/) in a high-security facility.
+**OSR3G** is the secret intelligence corps of [Astral Command](/organizations/astral-command/), formally the Office of Special Regiments for Intergalactic Intelligence and Information Gathering and known as the grey cloaks. In *Light of Xaryxis* the grey cloaks may have been involved in the Lexicon's concealment of [the Shrike](/lore/the-shrike/), and the corps probably erased Jim Smallberries's knowledge of the Demoncore program of the Beholder War. In the last weeks of that arc Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) drew the grey cloaks off while the crew of the SSJ Zanzibar escaped Sigil. After the betrayal of the Lexicon was revealed the corps was disbanded and replaced by [the Bureau of Compliance](/organizations/the-bureau-of-compliance/).
 
 ## Name
 
@@ -60,14 +65,20 @@ In November 2023 the crew of the SSJ Zanzibar learned that parts of [the Lexicon
 
 [Katrina McQuaid](/people/katrina-mcquaid/), a tabaxi horizon walker, is a grey cloak of OSR3G. In the flashback to [the Beholder War](/history/the-beholder-war/), she and [Horgus Simianis](/people/horgus-simianis/) served a secret program, used only once, and she chose recovering [the Demoncore](/items/the-demoncore/) over saving the civilians stranded with Jim Smallberries on Negroni Prime. <small>(Oral Histories: The Inevitables, 2024-03-09; 2024-03-16)</small> Any knowledge [Jim Smallberries](/people/captain-jim-smallberries/) gained of the Demoncore was probably erased from his mind by OSR3G, according to Dave. <small>(Oral Histories: The Inevitables, 2024-03-16)</small> Katrina's player called the level-10 character "Grey Cloak Catrina". <small>(Oral Histories: The Inevitables, 2024-05-03)</small>
 
-## The Starsong Awakens
-
-Fifteen years after *Light of Xaryxis*, Large Luigi, known only as prisoner LL849, has spent those years in a high-security OSRIIIG facility awaiting trial for treason and crimes against the Sovereignty. The Sovereignty officially disavows all knowledge of his whereabouts. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
-
-The notes of [Umwelt](/people/umwelt/), a devotee of the Red Eye, include the words "necis" and "secured by OSRIIG". <small>(character sheet)</small>
+The grey cloaks are Astral Command Intelligence. In April 2024 the crew of the Zanzibar, at Sigil, brought the truth of the Lexicon's betrayal to Admiral Starweaver, a member of the Sovereign Council. She made a speech against it in the Sovereign Senate and survived an attempt on her life. She then gave the crew her luxury vessel, distracted the grey cloaks and helped the crew escape. <small>(Oral Histories: The Inevitables, 2024-04-27; 2024-05-02)</small>
 
 ## Disbanding
 
-The grey cloaks are Astral Command Intelligence. When the crew of the SSJ Zanzibar brought the truth of the Lexicon's betrayal to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), she gave them her vessel, distracted the grey cloaks and helped the crew escape.
+After the tragedy that closed *Light of Xaryxis*, the grey cloaks were disbanded and replaced by a force that hunts and destroys androids, warforged and all artificial intelligence. In *The Starsong Awakens* that force is [the Bureau of Compliance](/organizations/the-bureau-of-compliance/), created to enforce [the Starweaver Act](/lore/the-starweaver-act/) as a paramilitary arm of the Sovereign government. <small>(The Starsong Awakens site, Company dossier)</small> The Act was passed a year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). <small>(Oral Histories: The Inevitables, 2024-06-02)</small> The date of the disbanding is not stated.
 
-After [the Demoncore](/items/the-demoncore/) was unleashed on the home worlds of the Sovereignty, the grey cloaks were disbanded and replaced by a force that hunts and destroys androids, warforged and all artificial intelligence. The new force is not named in that account, and when the disbanding took place is not stated. In *The Starsong Awakens* the agency that pursues and destroys artificial intelligence is [the Bureau of Compliance](/organizations/the-bureau-of-compliance/). The material of that arc also has Large Luigi held in an OSRIIIG facility fifteen years after *Light of Xaryxis*, as described above. How the two accounts fit together is not stated.
+## The Starsong Awakens
+
+### Necis
+
+The grey cloaks were still at work in the period after the Battle of Tannhauser Gate, when the Sovereignty moved in on [Necis](/places/necis/) and tried to rebuild the Lexicon. In [the Time Tombs](/places/the-time-tombs/), fifteen years after *Light of Xaryxis*, [Marcel Martel](/people/marcel-martel/) and [Umwelt](/people/umwelt/) found the traces of Astral Command's Project Paradox Dawn, a level-four classified operation on Necis, secured by OSRIIG and shut down permanently. In a log recovered there an Astral Command captain asks: "And why are there so many blasted grey cloaks watching our every move?" At the end of the Labyrinth the pair found a room of grey-cloak scientists moving in reverse for eternity around a prisoner whose psychic energy they were siphoning in an attempt to summon the Lexicon. The scientists were caught in a time loop of that period. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+
+Umwelt's notes include the words "necis" and "secured by OSRIIG". <small>(character sheet)</small>
+
+### Large Luigi
+
+JL's first outline of the old crew's fates, written the day after the finale of *Light of Xaryxis*, has the beholder [Large Luigi](/people/large-luigi/), known only as prisoner LL849, held for fifteen years in a high-security OSRIIIG facility awaiting trial for treason and crimes against the Sovereignty, which officially disavows all knowledge of his whereabouts. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> The Company dossier given to the crew in play names his prison as [the Capt. Katrina McQuaid Memorial Prison & Humane Detention Center](/places/the-katrina-mcquaid-memorial-prison/) in Shadowspace, and does not say which body runs it. <small>(The Starsong Awakens site, Company dossier)</small> The prison bears the name of Katrina McQuaid, who was a grey cloak.

@@ -44,6 +44,7 @@ sources:
 - "The Starsong Awakens site (JL Byrd): New magic items"
 - "JL's DM notes: Starfall Awakens Notes"
 - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+- sources/dave/2026-11-21-epilogue-answers.md
 image:
   src: /images/starsong/bureau-of-compliance.webp
   alt: "Three Bureau agents"
@@ -67,6 +68,8 @@ campaigns:
 A year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) the Sovereignty passed the Starweaver Act, outlawing all artificial intelligence, warforged and autognomes included. The act led to a devastating and violent purge of robotic creatures and to a thriving illicit market for robots. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 
 The Company's dossier on the Bureau records that the Sovereign Senate passed "The Starweaver Act", which made the possession or dissemination of artificial intelligence a crime within Sovereign territory, carrying a penalty of not more than 1,000 years in prison. The Bureau of Compliance was created to enforce the new law. Given authority to act as a paramilitary arm of the Sovereign government, it "pursues and destroys A.I. and those who seek to perpetuate it." <small>(The Starsong Awakens site, Company dossier)</small> The dossier gives its status as active and its location as the Sovereignty.
+
+The Bureau took the place of the grey cloaks of [OSR3G](/organizations/osr3g/), the intelligence corps of Astral Command, who were disbanded after the betrayal of [the Lexicon](/items/the-lexicon/) was revealed. Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), for whom the Act is named, spearheaded the ban.
 
 ## Agents and equipment
 

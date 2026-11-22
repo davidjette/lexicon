@@ -52,6 +52,8 @@ sources:
 - "Oral Histories: The Inevitables, 2025-05-23"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- "JL's DM notes: Starfall Awakens Notes"
+- sources/dave/2026-11-21-epilogue-answers.md
 image:
   src: /images/gallery/2025-06-14-01.webp
   alt: "Starship bridge before a black hole"
@@ -68,7 +70,7 @@ campaigns:
 
 ## Background
 
-The final episodes followed [the Shrike pilgrimage](/history/the-shrike-pilgrimage/). A session in late April 2024 ended with a blast as the party left the senate, and the next, played on 2 May, picked up with an assassination in which Commander [Chad "Kreen" Mantis](/people/chad-kreen-mantis/) was killed. <small>(Oral Histories: The Inevitables, 2024-04-27; 2024-05-02; 2024-05-03)</small> On 10 May the party walked into the white light, and [Mordecai](/people/mordecai/) and Irina were set to try to take the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-05-11)</small> The penultimate session was played on 24 May.
+The final episodes followed [the Shrike pilgrimage](/history/the-shrike-pilgrimage/). While the pilgrims were on Necis, the crew aboard the Zanzibar at Sigil took the truth of the Lexicon's betrayal to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), who made a speech against it in the Sovereign Senate. A session in late April 2024 ended with a blast as the crew left the senate, and the next, played on 2 May, picked up the attempt to assassinate her; Commander [Chad "Kreen" Mantis](/people/chad-kreen-mantis/) died in it. Starweaver gave the crew her luxury vessel, distracted the grey cloaks and helped the crew escape. <small>(Oral Histories: The Inevitables, 2024-04-27; 2024-05-02; 2024-05-03)</small> On 10 May the party walked into the white light, and [Mordecai](/people/mordecai/) and Irina were set to try to take the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-05-11)</small> The penultimate session was played on 24 May.
 
 ## The battle
 
@@ -90,7 +92,7 @@ Caprica died in finding the answer to the Starsong. Her player did not expect it
 
 ## The Lexicon
 
-At the end of the finale the Anachron, or the Lexicon, disappeared from Sigil to avoid the broadcast and escaped to the depths of space, where it could continue to exist. Dave's expectation was that before it could be exposed for trying to betray humanity, it fled into deep space "to become a hostile AI empire far away", with the caveat "Unless it doesn’t idk I’m not in charge". <small>(Oral Histories: The Inevitables, 2024-06-02)</small> People would know that it fled Sigil to escape the Starsong, and it is unknown whether they knew it had been the villain. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
+At the end of the finale the Anachron, or the Lexicon, disappeared from Sigil to avoid the broadcast and escaped to the depths of space, where it could continue to exist. Dave's expectation was that before it could be exposed for trying to betray humanity, it fled into deep space "to become a hostile AI empire far away", with the caveat "Unless it doesn’t idk I’m not in charge". <small>(Oral Histories: The Inevitables, 2024-06-02)</small> People would know that it fled Sigil to escape the Starsong. In the days after the finale it was still open whether Starweaver, Mordecai or Sandy would make the truth about the beholder invasions public. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Smallberries and his crew revealed the betrayal, and the Sovereignty turned on the Lexicon and banned artificial intelligence on all planets. In *The Starsong Awakens* Mordecai says that the machine's duplicity was exposed at [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ## Location
 

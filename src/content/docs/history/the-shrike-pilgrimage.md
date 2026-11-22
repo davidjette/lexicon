@@ -56,6 +56,7 @@ sources:
 - "Oral Histories: The Inevitables, 2024-05-11"
 - sources/dave/2026-09-14-starfall-necis.md
 - CANON.md 5aj
+- sources/dave/2026-11-21-epilogue-answers.md
 image:
   src: /images/generated/the-shrike-pilgrimage.webp
   alt: "The Shrike pilgrimage crossing the sea of grass"
@@ -97,6 +98,8 @@ The session of 16 February ended the season with the pilgrims about to reach the
 ## Cybrids
 
 When play returned to the present in April 2024, [Carlos Vega](/people/carlos-vega/)'s third wish took the Zanzibar to [Sigil](/places/sigil/), and the pilgrims were left extremely far away and out of contact. Seen from the ground, an attack looked like the work of beholders, but the attackers were found to be cybrids, controlled by Lexicon entities. Jim and his crew had gone off as an independent force, all brought to a world that had been erased from the Lexicon, because Caprica followed [the Starsong](/lore/the-starsong/) and brought them along. <small>(Oral Histories: The Inevitables, 2024-04-06)</small>
+
+At Sigil the Zanzibar's crew took what they knew to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), who spoke against the Lexicon in the Sovereign Senate and, after an attempt on her life, helped the crew escape in her own vessel. That thread ran beside the last sessions of the pilgrimage.
 
 ## The Time Tombs
 

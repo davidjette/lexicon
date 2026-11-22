@@ -32,7 +32,7 @@ fields:
   population: Unknown
   demonym: Necian
   status: Destroyed; its remnants remain
-  includedLocations: Lightfoot City, the sea of grass, the Tesla forest, Chronos Keep, the Valley of the Time Tombs, the palace, the senate
+  includedLocations: Lightfoot City, the sea of grass, the Tesla forest, Chronos Keep, the Valley of the Time Tombs, the palace
 sources:
   - sources/dave/2026-09-14-starfall-necis.md
   - CANON.md 5aj
@@ -48,6 +48,10 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-02-28'
   - Desktop/D&D/Starfall TNG/sydiot_135702253.pdf
   - 'JL''s DM notes: Starfall Awakens Notes'
+  - 'Oral Histories: The Inevitables, 2023-10-21'
+  - 'Oral Histories: The Inevitables, 2024-01-06'
+  - 'Oral Histories: The Inevitables, 2024-05-11'
+  - sources/dave/2026-11-21-epilogue-answers.md
 campaigns:
   - starfall-tng
 ---
@@ -68,13 +72,21 @@ Its creatures include the common Necian python, whose venom is a poison, and san
 
 ### Light of Xaryxis
 
-In November 2023 the command crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) learned that the Lexicon had evolved into a huge hidden society of conflicting magical AIs, that some of them were conspiring to hide the reality of the Shrike from mortals, and that elements of Astral Command, the grey cloaks, might be involved. They were headed "to blow the lid off of it at Necis". <small>(Oral Histories: The Inevitables, 2023-11-18)</small> By December 2023 Jim, Caprica and [Hyperion Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) were on "the remote planet of Necis 1." <small>(Oral Histories: The Inevitables, 2023-12-22)</small>
+Three things brought the command crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) to Necis. [Caprica](/people/caprica/) was following the star song, which had been her reason for joining the ship, and it led there. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> In October 2023 the crew had Sol and [Rachel](/people/rachel/) with them, who had two months left together, and weighed bringing them to find [the Shrike](/lore/the-shrike/). <small>(Oral Histories: The Inevitables, 2023-10-21)</small> And in the session of 17 November 2023 the crew learned that the Lexicon had evolved into a huge hidden society of conflicting magical AIs, that some of them were conspiring to hide the reality of the Shrike from mortals, and that elements of Astral Command, the grey cloaks of [OSR3G](/organizations/osr3g/), might be involved. They were headed "to blow the lid off of it at Necis". <small>(Oral Histories: The Inevitables, 2023-11-18)</small> By December 2023 Jim, Caprica and [Hyperion Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) were on "the remote planet of Necis 1." <small>(Oral Histories: The Inevitables, 2023-12-22)</small>
 
-Necis was a world erased from the Lexicon for reasons unknown. Caprica had followed the star song and brought the others along, and on Necis Jim and his crew stepped outside their roles as Astral Command officers to act as an independent force. <small>(Oral Histories: The Inevitables, 2024-04-06)</small>
+Necis was a world erased from the Lexicon for reasons unknown. On it Jim and his crew stepped outside their roles as Astral Command officers to act as an independent force. <small>(Oral Histories: The Inevitables, 2024-01-06; 2024-04-06)</small>
 
-The pilgrims crossed the sea of grass in the druidic windwheel *Edmund Fitzgerald*, in a journey of several days, and on the way heard of the orbital strike on Lightfoot. The pilgrim Henri travelled with them. <small>(Oral Histories: The Inevitables, 2024-02-10)</small> From the ground the attack looked like the work of beholders, but the party found the attackers were cybrids, controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> By April 2024 the pilgrims were exploring the Time Tombs. <small>(Oral Histories: The Inevitables, 2024-04-06; 2024-04-13)</small> With innocents they did not want to leave behind, they did not delve too deep into the palace; they saw a vision of the future with an army of shrikes, and found people strung on the "tree of pain". <small>(Oral Histories: The Inevitables, 2024-04-27)</small> An exploration episode at the end of April ended with a blast as the party left the senate. <small>(Oral Histories: The Inevitables, 2024-04-27)</small>
+The pilgrims crossed the sea of grass in the druidic windwheel *Edmund Fitzgerald*, in a journey of several days, and on the way came the orbital strike on Lightfoot. The pilgrim Henri travelled with them. <small>(Oral Histories: The Inevitables, 2024-02-10)</small> From the ground the attack looked like the work of beholders, and the crew of the Zanzibar found that the attackers were cybrids, controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> The Lexicon had engineered the attack so as to have its chance to unleash [the Demoncore](/items/the-demoncore/) on the home worlds of the Sovereignty.
+
+On 5 April 2024, with the Zanzibar close to destruction, the third wish of [Carlos Vega](/people/carlos-vega/) carried the ship away to Sigil and left the pilgrims behind, extremely far away and out of contact. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> At Sigil its crew took what they knew to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), who spoke against the Lexicon in the Sovereign Senate. The blast at the senate that ended the session of 26 April belongs to that thread of the story. <small>(Oral Histories: The Inevitables, 2024-04-27)</small>
+
+By April 2024 the pilgrims were exploring the Time Tombs. <small>(Oral Histories: The Inevitables, 2024-04-06; 2024-04-13)</small> With innocents they did not want to leave behind, they did not delve too deep into the palace; they saw a vision of the future with an army of shrikes, and found people strung on the "tree of pain". <small>(Oral Histories: The Inevitables, 2024-04-27)</small> On 10 May they walked into the white light. <small>(Oral Histories: The Inevitables, 2024-05-11)</small> The arc ended on 31 May 2024 in [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/), against the Shrike, and the climax took place at Necis. <small>(sources/dave/2026-09-14-starfall-necis.md)</small>
 
 Dave has said that Sandy would carry the memory of what happened on Necis, with the Consul and at the Time Tombs, back to the Hyperion entity, which would then know everything that happened to her there. <small>(Oral Histories: The Inevitables, 2024-06-09)</small>
+
+### After the battle
+
+In the period after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) the Sovereignty moved in on Necis and tried to rebuild the Lexicon there. Astral Command ran Project Paradox Dawn, a level-four classified operation on Necis secured by the grey cloaks, which was later shut down permanently. One of its captains recorded that he meant to advise high command to suspend the operation, evacuate Necis and detonate the planet from orbit. Whether that was done is not stated. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 ### The Starsong Awakens
 
@@ -90,7 +102,6 @@ Necis lay 9,990 parsecs from the planet Maysee, beyond the reach of any ship wit
 - **Chronos Keep:** a keep of Necis.
 - **The Valley of the Time Tombs:** the site of the Time Tombs.
 - **The palace:** explored with care on the pilgrimage.
-- **The senate:** where a blast went off as the party left.
 
 
 ![Necis - Remnants of the Time Tombs and The Star Song.png](/images/uploads/necis-remnants-of-the-time-tombs-and-the-mu6jt2vl.webp)

@@ -36,6 +36,8 @@ sources:
   - 'Oral Histories: The Inevitables, 2024-04-06'
   - 'Oral Histories: The Inevitables, 2024-05-02'
   - 'Oral Histories: The Inevitables, 2024-05-03'
+  - 'Oral Histories: The Inevitables, 2024-04-27'
+  - sources/dave/2026-11-21-epilogue-answers.md
 gallery:
   - src: /images/chat/2022-10-23-453922780064703.webp
     alt: Chad Mantis miniature, rear view
@@ -71,7 +73,7 @@ On the crew roster of the Zanzibar he is the Squadron Leader, Lt. Cmdr. Chad "Kr
 
 In April 2024, after [Carlos Vega](/people/carlos-vega/)'s third wish sent the Zanzibar to Sigil, Chad Mantis was aboard the ship with [Irina Malikovsky](/people/irina-malikovsky/). <small>(Oral Histories: The Inevitables, 2024-04-06)</small>
 
-He died in the session of 2 May 2024, which picked up from a cliffhanger assassination. <small>(Oral Histories: The Inevitables, 2024-05-02; 2024-05-03)</small>
+At Sigil the crew took the truth of the Lexicon's betrayal to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), who made a speech against it in the Sovereign Senate. The session of 26 April 2024 ended with a blast as the crew left the senate, and an attempt was made to assassinate her. <small>(Oral Histories: The Inevitables, 2024-04-27)</small> Chad Mantis died in the session of 2 May 2024, which picked up from that cliffhanger. <small>(Oral Histories: The Inevitables, 2024-05-02; 2024-05-03)</small>
 
 ## Abilities and equipment
 

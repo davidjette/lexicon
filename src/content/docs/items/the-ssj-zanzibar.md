@@ -58,6 +58,9 @@ sources:
 - "The Starsong Awakens site (JL Byrd): New ships"
 - sources/dave/2026-09-14-starfall-necis.md
 - sources/dave/2026-11-21-epilogue-answers.md
+- "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2024-05-02"
+- "Oral Histories: The Inevitables, 2024-05-03"
 gallery:
 - src: /images/starsong/ssj-zanzibar-wreck.webp
   alt: "The wreck of the Zanzibar in a hangar"
@@ -128,9 +131,9 @@ While Jim, Caprica and Sandy were away from the ship in November 2023, the Zanzi
 
 In April 2024, with the ship close to exploding, [Carlos Vega](/people/carlos-vega/) made his third wish. The Zanzibar arrived in Sigil, extremely far from the command crew and out of contact with them. Carlos, bound as a djinn in a bottle, was aboard with Buttsack, and Irina Malikovsky was aboard with Chad Mantis. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> After the party walked into the white light, Mordecai and Irina moved to take the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-05-11)</small>
 
-In the finale of *Light of Xaryxis* on 2024-05-31, against the Shrike, the Zanzibar took critical damage and Caprica died. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Nico's comment on the finale has the Zanzibar and [the SSJ Stonecypher](/items/the-ssj-stonecypher/) torn apart together. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> A shuttle was left aboard. <small>(Oral Histories: The Inevitables, 2024-06-03)</small> Dave has called the Zanzibar the home of Sandy, its diplomat. <small>(Oral Histories: The Inevitables, 2024-06-09)</small>
+At Sigil the crew took the truth of the Lexicon's betrayal, and of the fact that the beholder war was a trick, to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), a member of the Sovereign Council. She made a speech against it in the Sovereign Senate. One session ended with a blast as the crew left the senate, and Commander Chad Mantis died in the next, which played the attempt on her life. She gave the crew her own luxury vessel to help them in their mission, distracted the grey cloaks and helped the crew escape. The name of that vessel is not stated. <small>(Oral Histories: The Inevitables, 2024-04-27; 2024-05-02; 2024-05-03)</small>
 
-The crew of the Zanzibar took the truth of the Lexicon's betrayal, and of the fact that the beholder war was a trick, to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), a member of the Sovereign Council. She gave the crew her own luxury vessel to help them in their mission, distracted the grey cloaks and helped the crew escape. The name of that vessel, and the point in the campaign at which this took place, are not stated.
+In the finale of *Light of Xaryxis* on 2024-05-31, against the Shrike, the Zanzibar took critical damage and Caprica died. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Nico's comment on the finale has the Zanzibar and [the SSJ Stonecypher](/items/the-ssj-stonecypher/) torn apart together. <small>(Oral Histories: The Inevitables, 2024-06-01)</small> A shuttle was left aboard. <small>(Oral Histories: The Inevitables, 2024-06-03)</small> Dave has called the Zanzibar the home of Sandy, its diplomat. <small>(Oral Histories: The Inevitables, 2024-06-09)</small>
 
 ### The Starsong Awakens
 

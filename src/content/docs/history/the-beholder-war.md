@@ -47,6 +47,9 @@ sources:
 - "Oral Histories: The Inevitables, 2024-04-06"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - sources/dave/2026-11-21-epilogue-answers.md
+- "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2024-05-02"
+- "JL's DM notes: Starfall Notes - Barrias' Nightmare session"
 campaigns:
   - starfall-tng
 ---
@@ -73,7 +76,7 @@ The flashback opened on 23 February 2024 with Jim's origin, and with Katrina and
 
 In the second episode, played on 8 March 2024, the Balduran went to war with the beholders. Afterwards Jim was stranded on Negroni Prime with Barrias, Tillamook and a dozen civilians "in the aftermath of the Black Hole Sun". Jim knew Katrina had been on the ship. <small>(Oral Histories: The Inevitables, 2024-03-09)</small>
 
-The same episode saw the first use of the Demoncore, the weapons system that later went wrong on [the SSJ Stonecypher](/items/the-ssj-stonecypher/), where a containment breach turned the entire crew undead. <small>(Oral Histories: The Inevitables, 2024-03-09)</small> Astral Command had a weapon able to turn an entire plane undead. <small>(Oral Histories: The Inevitables, 2024-03-16)</small> Horgus is a necromancer and Katrina a horizon walker, both in support of a secret program that was only ever used once. <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
+The same episode saw the first use of the Demoncore, the weapons system that later went wrong on [the SSJ Stonecypher](/items/the-ssj-stonecypher/), where a containment breach turned the entire crew undead. <small>(Oral Histories: The Inevitables, 2024-03-09)</small> Astral Command had a weapon able to turn an entire plane undead. <small>(Oral Histories: The Inevitables, 2024-03-16)</small> Negroni Prime had been a farming planet; magic of unimaginable power was used in the conflict and left it virtually uninhabitable. <small>(JL's DM notes: Starfall Notes - Barrias' Nightmare session)</small> Horgus is a necromancer and Katrina a horizon walker, both in support of a secret program that was only ever used once. <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
 
 ### Abandonment
 
@@ -91,4 +94,4 @@ Tillamook, whom Jim believed had died at Negroni Prime, survived, and later beca
 
 ## Second Beholder War
 
-In the present of *Light of Xaryxis* a second war was under way, publicly another beholder invasion. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground its attacks looked like the work of beholders, but the party learned that the attackers were cybrids controlled by [Lexicon](/items/the-lexicon/) entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> The attack was engineered by the Lexicon, which used the chance to unleash [the Demoncore](/items/the-demoncore/), also its doing, on the home worlds of the Sovereignty. The crew of the Zanzibar took the truth to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), a member of the Sovereign Council, who made a speech against it in the Sovereign Senate. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it, and the Sovereignty turned on the Lexicon and banned artificial intelligence on all planets.
+In the present of *Light of Xaryxis* a second war was under way, publicly another beholder invasion. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground its attacks looked like the work of beholders, and the crew of the Zanzibar found that the attackers were cybrids controlled by [Lexicon](/items/the-lexicon/) entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> The Lexicon had engineered the attack so as to have its chance to unleash [the Demoncore](/items/the-demoncore/), which was also its doing, on the home worlds of the Sovereignty. At Sigil in April 2024 the crew of the Zanzibar took the truth to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), a member of the Sovereign Council, who made a speech against it in the Sovereign Senate and survived an attempt on her life. <small>(Oral Histories: The Inevitables, 2024-04-27; 2024-05-02)</small> In the days after the arc's finale it was still open whether she would make the truth about the beholder invasions public. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it, and the Sovereignty turned on the Lexicon and banned artificial intelligence on all planets.

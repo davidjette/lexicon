@@ -46,6 +46,8 @@ sources:
 - "sources/dave/2026-09-14-starfall-necis.md"
 - "CANON.md 5ai (Oral Histories)"
 - "CANON.md 5aj"
+- "JL's DM notes: Starfall Awakens Notes"
+- sources/dave/2026-11-21-epilogue-answers.md
 campaigns:
   - starfall-tng
 ---
@@ -105,6 +107,8 @@ Company artificers first detected the Temporarily Unknown Noise Energy (T.U.N.E.
 *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of Starfall, ended with a finale played on 31 May 2024, in which the crew fought the Shrike, the Zanzibar took critical damage, Caprica died, a Wish was cast and the Lexicon fled Sigil. <small>(Oral Histories: The Inevitables, 2024-05-31; 2024-06-01; 2024-06-02)</small> See [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/). JL proposed *The Starsong Awakens* the next day, set fifteen years later, and dated the Starweaver Act to a year after the Battle of Tannhauser Gate. <small>(Oral Histories: The Inevitables, 2024-06-01; 2024-06-02)</small>
 
 Dave's account places the climax of Starfall at [Necis](/places/necis/), the destroyed planet where the Time Tombs stood and the Shrike originated, at the end of *Light of Xaryxis* and of *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small> The Company dossier places Caprica's last sighting at the helm of the Zanzibar during the Battle of Tannhauser Gate, bound for the Eye of Doom. <small>(The Starsong Awakens site, Company dossier)</small>
+
+Aboard the SSJ Vanguard in *The Starsong Awakens*, Lt. Commander [Mordecai](/people/mordecai/) says that the Lexicon was destroyed at the Battle of Tannhauser Gate: "When the machine’s duplicity was exposed, the Sovereignty abolished it once and for all." What he holds back is that, as far as the Sovereignty knows, the Lexicon never went away and only stopped speaking to it. <small>(JL's DM notes: Starfall Awakens Notes)</small> The duplicity is the betrayal that the crew of the Zanzibar uncovered in the last seasons of *Light of Xaryxis*, and that Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) spoke against in the Sovereign Senate. See [the Lexicon](/items/the-lexicon/).
 
 ## Legacy
 

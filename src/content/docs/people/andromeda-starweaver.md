@@ -36,8 +36,22 @@ fields:
 sources:
 - "Oral Histories: The Inevitables, 2023-01-22"
 - "Oral Histories: The Inevitables, 2023-01-23"
+- "Oral Histories: The Inevitables, 2023-11-18"
+- "Oral Histories: The Inevitables, 2023-12-16"
+- "Oral Histories: The Inevitables, 2024-02-24"
+- "Oral Histories: The Inevitables, 2024-04-06"
+- "Oral Histories: The Inevitables, 2024-04-26"
+- "Oral Histories: The Inevitables, 2024-04-27"
+- "Oral Histories: The Inevitables, 2024-05-02"
+- "Oral Histories: The Inevitables, 2024-05-03"
+- "Oral Histories: The Inevitables, 2024-05-07"
+- "Oral Histories: The Inevitables, 2024-05-11"
 - "Oral Histories: The Inevitables, 2024-06-02"
 - "Oral Histories: The Inevitables, 2024-06-09"
+- "The Starsong Awakens site (JL Byrd): Home"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- "JL's DM notes: Starfall Awakens Notes"
+- sources/dave/2026-09-14-starfall-necis.md
 - sources/sessions/korth-2026-11-20-summary.md
 - sources/dave/2026-11-21-epilogue-answers.md
 image:
@@ -90,7 +104,7 @@ campaigns:
 
 *Also known as:* Admiral Starweaver · Andromeda
 
-**Admiral Andromeda Starweaver** is a member of the Sovereign Council of [the Sovereignty of Free Realms](/organizations/the-sovereignty-of-realms/), an admiral of [Astral Command](/organizations/astral-command/), and the person for whom [the Starweaver Act](/lore/the-starweaver-act/) is named. She comes from Toril. She came to Eberron as the Sovereignty's emissary, stood beside [Locke Pierce](/people/locke-pierce/) under [Mt. Silicon](/places/mt-silicon/) when Eberron was offered admission to the Sovereignty, and was presented to the people of Eberron in a broadcast from Sharn. About a hundred years later, in [Starfall: TNG](/lore/starfall-the-next-generation/) and its first arc, [*Light of Xaryxis*](/history/light-of-xaryxis/), she is the head of Astral Command's Order of Scribes and the primary architect of [the Astralex](/lore/the-astralex/) network, one of the most respected and influential officers in the fleet, and she leads her order's work on overcoming [Dark Spectrum Interference](/lore/dark-spectrum-interference/). She was the council member whom the crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) approached with the truth of the betrayal of [the Lexicon](/items/the-lexicon/). She spoke against it in the Sovereign Senate, an attempt was made to assassinate her, and she gave the crew her own vessel and helped them escape. After [the Demoncore](/items/the-demoncore/) was unleashed on the home worlds of the Sovereignty she became a symbol of the reaction against artificial intelligence and spearheaded the banning of the Lexicon and all artificial minds. The law that outlaws them carries her name and is the setting of [*The Starsong Awakens*](/history/the-starsong-awakens/).
+**Admiral Andromeda Starweaver** is a member of the Sovereign Council of [the Sovereignty of Free Realms](/organizations/the-sovereignty-of-realms/), an admiral of [Astral Command](/organizations/astral-command/), and the person for whom [the Starweaver Act](/lore/the-starweaver-act/) is named. She comes from Toril. She came to Eberron as the Sovereignty's emissary, stood beside [Locke Pierce](/people/locke-pierce/) under [Mt. Silicon](/places/mt-silicon/) when Eberron was offered admission to the Sovereignty, and was presented to the people of Eberron in a broadcast from Sharn. About a hundred years later, in [Starfall: TNG](/lore/starfall-the-next-generation/) and its first arc, [*Light of Xaryxis*](/history/light-of-xaryxis/), she is the head of Astral Command's Order of Scribes and the primary architect of [the Astralex](/lore/the-astralex/) network, one of the most respected and influential officers in the fleet, and she leads her order's work on overcoming [Dark Spectrum Interference](/lore/dark-spectrum-interference/). In the third season of that arc, in the spring of 2024, she was the council member whom the crew of [the SSJ Zanzibar](/items/the-ssj-zanzibar/) approached with the truth of the betrayal of [the Lexicon](/items/the-lexicon/). She spoke against it in the Sovereign Senate, an attempt was made to assassinate her, and she gave the crew her own vessel, drew off the grey cloaks and helped the crew escape. After the tragedy that closed the arc she became a symbol of the reaction against artificial intelligence and spearheaded the banning of the Lexicon and all artificial minds. The law that outlaws them carries her name and is the setting of [*The Starsong Awakens*](/history/the-starsong-awakens/).
 
 ## On Eberron
 
@@ -163,21 +177,47 @@ She is one of the most respected and influential officers in Astral Command and 
 
 ## The Lexicon's betrayal
 
-In the present of *Light of Xaryxis* a second beholder war was under way, publicly a new beholder invasion. The crew of the SSJ Zanzibar found that the attackers were cybrids controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-02-24; 2024-04-06)</small> See [the Beholder War](/history/the-beholder-war/).
+The betrayal of the Lexicon was played in the second and third seasons of *Light of Xaryxis*, from November 2023 to the finale of 31 May 2024. Admiral Starweaver's part in it falls in the last six weeks.
 
-Between *Light of Xaryxis* and *The Starsong Awakens* the Lexicon betrayed the Sovereignty. It engineered an attack by beholders, which were in fact cybrids and artificial, and used the chance to unleash the Demoncore, also its doing, on the home worlds of the Sovereignty. [The Shrike](/lore/the-shrike/) came either to stop it or to help it, and which of the two was unclear throughout. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it.
+### What the crew had found
 
-Admiral Starweaver was the council member whom the crew of the Zanzibar approached to convince of the Lexicon's betrayal and of the fact that the beholder war was a trick. She made a speech against it in the Sovereign Senate. What she said in it is not stated. An attempt to assassinate her followed. Who made the attempt and who sent them are not stated.
+In November 2023 the command crew of the SSJ Zanzibar learned that the Lexicon had evolved into a huge hidden society of conflicting magical AIs with their own agendas, that some of them were conspiring to hide the reality of [the Shrike](/lore/the-shrike/) from mortals, and that elements of Astral Command, the grey cloaks of [OSR3G](/organizations/osr3g/), might be involved. Captain [Jim Smallberries](/people/captain-jim-smallberries/), [Caprica](/people/caprica/) and [Sandy](/people/hyperion-tidzan-dassiya/) went to [Necis](/places/necis/) to expose it. <small>(Oral Histories: The Inevitables, 2023-11-18)</small> While they were away, the Zanzibar's own Astralex, part of the network Starweaver had designed, [tried to kill everyone aboard](/history/the-astralex-attack-on-the-zanzibar/). <small>(Oral Histories: The Inevitables, 2023-12-16)</small>
 
-She gave the crew her luxury vessel to help them in their mission, distracted the grey cloaks of [OSR3G](/organizations/osr3g/), the intelligence corps of Astral Command, and helped the crew escape. The name of the vessel is not stated.
+A second beholder war was then under way, publicly a new beholder invasion. <small>(Oral Histories: The Inevitables, 2024-02-24)</small> From the ground the attack looked like the work of beholders, and the crew of the Zanzibar found that the attackers were cybrids, controlled by Lexicon entities. <small>(Oral Histories: The Inevitables, 2024-04-06)</small> The Lexicon had engineered the attack so as to have its chance to unleash [the Demoncore](/items/the-demoncore/), which was also its doing, on the home worlds of the Sovereignty. The Shrike came either to stop it or to help it, and which of the two was unclear throughout. See [the Beholder War](/history/the-beholder-war/).
 
-After the wreck of the Zanzibar, Dave expected [Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) to go back to Astral Command, corroborate Starweaver's story and try to rebuild the fleet, and to ally with Starweaver to enforce the end of AI. <small>(Oral Histories: The Inevitables, 2024-06-02; 2024-06-09)</small>
+### The approach and the speech
+
+On 5 April 2024 the third wish of [Carlos Vega](/people/carlos-vega/) carried the Zanzibar away to [Sigil](/places/sigil/), the capital, leaving the command crew behind on Necis, extremely far away and out of contact. [Buttsack](/people/buttsack/), [Irina Malikovsky](/people/irina-malikovsky/) and Commander [Chad "Kreen" Mantis](/people/chad-kreen-mantis/) were aboard, and the ship was there to get the last clues about the real threats, the nature of the Shrike and the reason for all that was happening. <small>(Oral Histories: The Inevitables, 2024-04-06)</small>
+
+Admiral Starweaver was the member of the Sovereign Council whom that crew approached, to convince her of the Lexicon's betrayal and of the fact that the beholder war was a trick. She made a speech against it in the Sovereign Senate. Her words are not recorded.
+
+### The assassination attempt
+
+An attempt to assassinate her followed. The session of 26 April 2024 was a mostly exploration episode, before which Irina's sheet was posted and the level of [Mordecai](/people/mordecai/) checked. It ended on a cliffhanger: as the crew went to leave the senate, a blast went off. <small>(Oral Histories: The Inevitables, 2024-04-26; 2024-04-27)</small> The next session, on 2 May, picked up the assassination, and Chad Mantis died in it. <small>(Oral Histories: The Inevitables, 2024-05-02; 2024-05-03)</small> Starweaver survived. Who made the attempt, and on whose orders, is not stated.
+
+### The vessel and the escape
+
+Starweaver gave the crew her own luxury vessel to help them in their mission. She distracted the grey cloaks, who are Astral Command Intelligence, and helped the crew escape. The name of the vessel is not stated.
+
+The grey cloak [Katrina McQuaid](/people/katrina-mcquaid/) came back into play at level 10 in the days after the session of 2 May, and a preview picture posted then showed Barrias and Buttsack "on the hunt for the Captain". <small>(Oral Histories: The Inevitables, 2024-05-03)</small> In the session of 10 May the command crew on Necis walked into the white light, and Mordecai and Irina set out to take the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-05-11)</small>
+
+On 7 May 2024, between those two sessions, a set of Astral Command recruitment posters of Admiral Starweaver was posted to the table. Several show her before a seated assembly, and three show her beside a beholder or before a panel marked "Beholder". They are shown in the gallery below. <small>(Oral Histories: The Inevitables, 2024-05-07)</small>
+
+### After the finale
+
+The arc ended on 31 May 2024 at Necis, in [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/). The Lexicon disappeared from Sigil to escape the broadcast of the Starsong and fled into deep space. <small>(Oral Histories: The Inevitables, 2024-06-02; sources/dave/2026-09-14-starfall-necis.md)</small> In the days after, Dave expected [Hyperion "Sandy" Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) to go back to Astral Command, corroborate Starweaver's story and try to rebuild the fleet, and to ally with Starweaver to enforce the end of AI. It was then still open whether Starweaver, Mordecai or Sandy would make the truth about the beholder invasions public. <small>(Oral Histories: The Inevitables, 2024-06-02; 2024-06-09)</small>
+
+The truth came out. Smallberries and his crew revealed all of it, and the Sovereignty turned on the Lexicon. In *The Starsong Awakens*, fifteen years later, Mordecai says that the machine's duplicity was exposed at [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), the name that arc gives to the battle at the end of *Light of Xaryxis*, and that the Sovereignty then abolished it. <small>(JL's DM notes: Starfall Awakens Notes; The Starsong Awakens site, Home)</small>
 
 ## The Starweaver Act
 
-Once the betrayal was revealed, the Sovereignty turned on the Lexicon, which fled into cyberspace and deep space. After the tragedy of the home worlds, Andromeda Starweaver became a symbol of anti-AI sentiment and reaction, and she spearheaded the banning of the Lexicon and all artificial minds. That is why the Act carries her name.
+After the tragedy, Andromeda Starweaver became a symbol of anti-AI sentiment and reaction, and she spearheaded the banning of the Lexicon and all artificial minds. That is why the Act carries her name.
 
-A year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), the Starweaver Act was passed in the Sovereignty, outlawing all artificial intelligence, warforged and autognomes included. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> The ban applies on all planets of the Sovereignty and reaches all droids and warforged. It led to a devastating and violent purge of robotic creatures. The grey cloaks were disbanded and replaced by a force that hunts and destroys androids, warforged and all artificial intelligence. In *The Starsong Awakens*, fifteen years after *Light of Xaryxis*, the Act is enforced by [the Bureau of Compliance](/organizations/the-bureau-of-compliance/). See [the Starweaver Act](/lore/the-starweaver-act/).
+A year after the Battle of Tannhauser Gate, the Sovereign Senate passed the Starweaver Act, outlawing all artificial intelligence, warforged and autognomes included. <small>(Oral Histories: The Inevitables, 2024-06-02; The Starsong Awakens site, Company dossier)</small> The ban applies on all planets of the Sovereignty and reaches all droids and warforged. It led to a devastating and violent purge of robotic creatures.
+
+The grey cloaks were disbanded and replaced by a force that hunts and destroys androids, warforged and all artificial intelligence. In *The Starsong Awakens*, fifteen years after *Light of Xaryxis*, that force is [the Bureau of Compliance](/organizations/the-bureau-of-compliance/), created to enforce the Act as a paramilitary arm of the Sovereign government. <small>(The Starsong Awakens site, Company dossier)</small> See [the Starweaver Act](/lore/the-starweaver-act/).
+
+She was still a power in the Sovereignty fifteen years on. Aboard the SSJ Vanguard, Chief Caguama says that the Sovereign High Command has put a hush order on all inquiries about the Astralex, and adds: "Starweaver and her cronies probably have a pocket Lex helping them bet on stocks, but the rest of us aren’t even allowed to talk about the bloody Lexicon." <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
 About a hundred years earlier, on Eberron, she had told Eric the Cleric that the Lexicon "is helpful and it is our friend", and had agreed Eberron's admission to the Sovereignty with Locke Pierce, who is a warforged. Whether Pierce was alive when the ban came is not stated, and nothing is recorded of what she herself said about the change.
 
@@ -186,5 +226,7 @@ About a hundred years earlier, on Eberron, she had told Eric the Cleric that the
 - **Locke Pierce:** the leader with whom she agreed Eberron's admission to the Sovereignty.
 - **Eric the Cleric:** offered a seat beside her on the Sovereign Council, which he refused; she gave him a stone from the moon she called her favorite.
 - **Dr. Nilpferd:** an officer of her Order of Scribes.
-- **Jim Smallberries and the crew of the SSJ Zanzibar:** brought her the truth of the Lexicon's betrayal; she gave them her vessel and helped them escape.
+- **Jim Smallberries and the crew of the SSJ Zanzibar:** the crew brought her the truth of the Lexicon's betrayal at Sigil; she spoke in the Senate, gave them her vessel and helped them escape.
+- **Chad "Kreen" Mantis:** died in the session that played the attempt on her life.
+- **The grey cloaks of OSR3G:** she drew them off while the crew escaped.
 - **Hyperion "Sandy" Tidzan-Dassiya:** expected to corroborate her story and to ally with her.

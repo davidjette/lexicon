@@ -30,6 +30,8 @@ sources:
 - "Oral Histories: The Inevitables, 2024-03-16"
 - sources/sessions/korth-2026-11-20-summary.md
 - sources/dave/2026-11-21-epilogue-answers.md
+- "Oral Histories: The Inevitables, 2024-06-01"
+- "JL's DM notes: Starfall Notes - Barrias' Nightmare session"
 campaigns:
   - the-unforeseen-strike-back
   - starfall-tng
@@ -55,7 +57,7 @@ In [Korth Ep 23](/sessions/korth-ep-23-the-father-of-the-hundreds/), when [the S
 
 ### The Beholder War
 
-The Demoncore was first used during the Beholder War, in the flashback episodes of [Light of Xaryxis](/history/light-of-xaryxis/) played in March 2024. In the aftermath of the Black Hole Sun, [Captain Jim Smallberries](/people/captain-jim-smallberries/) was left stranded on [Negroni Prime](/places/negroni-prime/) with Barrias Ruby-Eye, Tillamook and a dozen civilians. <small>(Oral Histories: The Inevitables, 2024-03-09)</small>
+The Demoncore was first used during the Beholder War, in the flashback episodes of [Light of Xaryxis](/history/light-of-xaryxis/) played in March 2024. In the aftermath of the Black Hole Sun, [Captain Jim Smallberries](/people/captain-jim-smallberries/) was left stranded on [Negroni Prime](/places/negroni-prime/) with Barrias Ruby-Eye, Tillamook and a dozen civilians. <small>(Oral Histories: The Inevitables, 2024-03-09)</small> Negroni Prime had been a farming planet near the enclave of the Beholder Warlords; magic of unimaginable power was used in the conflict and left it virtually uninhabitable. <small>(JL's DM notes: Starfall Notes - Barrias' Nightmare session)</small>
 
 Horgus is a necromancer and Katrina a horizon walker, both in support of the secret program, which was used only once. Katrina could have saved the stranded civilians and chose to recover the Demoncore instead. <small>(Oral Histories: The Inevitables, 2024-03-16)</small> In Nico's account, the two left Jim's group with no transportation and no way to communicate, took their artillery droid, and Katrina gave Jim a sending stone. <small>(Oral Histories: The Inevitables, 2024-03-16)</small>
 
@@ -69,6 +71,8 @@ After its first use, the Demoncore "went wrong on the Stonecypher, where a conta
 
 Katrina McQuaid and Horgus Simianis were aboard. A Demoncore was detonated on the ship by accident, the two of them resisted the power that turned the rest of the crew into zombies, and they were stranded aboard for years until the Zanzibar found them. <small>(Dave and Nico, 2026-11-20)</small>
 
-### The home worlds
+### The Lexicon's design
 
-Between *Light of Xaryxis* and *The Starsong Awakens* [the Lexicon](/items/the-lexicon/) betrayed the Sovereignty. It engineered an attack by beholders, which were in fact cybrids and artificial, and used the chance to unleash the Demoncore, also its doing, on the home worlds of the Sovereignty. [The Shrike](/lore/the-shrike/) came either to stop it or to help it, and which of the two was unclear throughout. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it. The Sovereignty turned on the Lexicon, which fled into cyberspace and deep space, and banned artificial intelligence, all droids and warforged included, on all planets. Which worlds were struck, and what became of them, is not stated. See [the Starweaver Act](/lore/the-starweaver-act/).
+The Demoncore was the doing of [the Lexicon](/items/the-lexicon/). In the second and third seasons of *Light of Xaryxis* the Lexicon engineered an attack by beholders that were in fact cybrids, so as to have its chance to unleash the Demoncore on the home worlds of the Sovereignty. [The Shrike](/lore/the-shrike/) came either to stop it or to help it, and which of the two was unclear throughout. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it. The Sovereignty turned on the Lexicon, which fled into cyberspace and deep space, and banned artificial intelligence, all droids and warforged included, on all planets. See [the Starweaver Act](/lore/the-starweaver-act/).
+
+In play the weapon was used once, in the Beholder War, and was breached once by accident, aboard the Stonecypher. Whether it was set off over the home worlds in the present of the arc, and what it struck if it was, is not stated. In the account of Caprica's player, the Zanzibar and the Stonecypher were torn apart together in the finale. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
