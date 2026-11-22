@@ -1,7 +1,7 @@
 /* Layout: an inked paper character sheet. Table numbers and the portrait fill the first screen; reference detail runs down the scroll. */
 :root{
-  --paper:#eeece4; --panel:#f8f7f2; --ink:#16191b; --soft:#4d5659; --rule:#b9bbb3;
-  --teal:#1f5d63; --ox:#8a2f2b; --wash:#dfe6e3; --mark:#16191b;
+  --paper:#ecd9bd; --panel:#f6ead6; --ink:#1c1612; --soft:#5e4f42; --rule:#c9b190;
+  --teal:#0e736b; --ox:#a8480f; --wash:#e6cba3; --mark:#1c1612;
   --display:"IM Fell English SC","IM Fell English",Georgia,"Times New Roman",serif;
   --fell:"IM Fell English",Georgia,"Times New Roman",serif;
   --body:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
@@ -9,11 +9,11 @@
   --wob2:14px 225px 14px 255px/255px 14px 225px 14px;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
-  --paper:#111718; --panel:#192122; --ink:#e9e6da; --soft:#a3aca9; --rule:#3a4648;
-  --teal:#6fb7b9; --ox:#d98078; --wash:#1f2c2e; --mark:#e9e6da; color-scheme:dark}}
+  --paper:#15110e; --panel:#1f1914; --ink:#f1e2cc; --soft:#b3a08a; --rule:#43372c;
+  --teal:#56d3c4; --ox:#ee9448; --wash:#2c231b; --mark:#f1e2cc; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --paper:#111718; --panel:#192122; --ink:#e9e6da; --soft:#a3aca9; --rule:#3a4648;
-  --teal:#6fb7b9; --ox:#d98078; --wash:#1f2c2e; --mark:#e9e6da; color-scheme:dark}
+  --paper:#15110e; --panel:#1f1914; --ink:#f1e2cc; --soft:#b3a08a; --rule:#43372c;
+  --teal:#56d3c4; --ox:#ee9448; --wash:#2c231b; --mark:#f1e2cc; color-scheme:dark}
 
 *{box-sizing:border-box}
 body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.45}
@@ -41,7 +41,7 @@ h3{font-family:var(--body);font-weight:800;font-size:1rem}
   display:flex;flex-wrap:wrap;gap:6px 22px}
 .banner div{min-width:0}
 .banner b{display:block;font-weight:700;font-size:1.02rem}
-.portrait{margin:0;border:2.5px solid var(--ink);border-radius:var(--wob);overflow:hidden;background:#efede6;transform:rotate(1.2deg)}
+.portrait{margin:0;border:2.5px solid var(--ink);border-radius:var(--wob);overflow:hidden;background:var(--panel)}
 .portrait img{display:block;width:100%;height:auto}
 
 .abilities{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}
@@ -63,6 +63,8 @@ h3{font-family:var(--body);font-weight:800;font-size:1rem}
 .hp-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .hp .big{font-size:2.4rem}
 .hp .big span{color:var(--ox)}
+.wordmark{color:var(--ink)}
+.banner{border-color:var(--ox)}
 button{font:inherit;color:var(--ink);background:var(--paper);border:2px solid var(--ink);border-radius:8px;cursor:pointer;min-width:2.2rem;min-height:2.2rem;font-weight:800;line-height:1}
 button:hover{background:var(--wash)}
 button:focus-visible,input:focus-visible{outline:3px solid var(--teal);outline-offset:2px}
@@ -146,7 +148,7 @@ footer{font-size:.84rem;color:var(--soft);text-align:center}
 .card{display:flex;flex-direction:column;gap:8px;color:inherit;text-decoration:none;background:var(--panel);border:2.5px solid var(--ink);border-radius:var(--wob);padding:12px}
 .card:nth-child(even){border-radius:var(--wob2)}
 .card:hover{background:var(--wash)}
-.card img{display:block;width:100%;aspect-ratio:3/4;object-fit:cover;border:2px solid var(--ink);border-radius:6px}
+.card img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover;border:2px solid var(--ink);border-radius:6px}
 .card b{font-family:var(--display);font-weight:400;font-size:1.5rem;line-height:1.05}
 .card span{color:var(--soft);font-size:.95rem}
 .lede{max-width:65ch}
