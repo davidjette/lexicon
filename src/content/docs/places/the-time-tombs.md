@@ -49,6 +49,7 @@ sources:
   - 'Oral Histories: The Inevitables, 2025-01-12'
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 gallery:
   - src: /images/chat/2024-04-20-1196891171296427.webp
     alt: Carved wall in the Time Tombs
@@ -79,6 +80,8 @@ On 2024-04-19 verse was read aloud in the tombs, closing with the line "I am a t
 
 The pilgrims had innocents with them whom they did not want to leave behind, so they did not delve too deep into the palace. They saw the future with an army of shrikes, and found a number of people on the "tree of pain". <small>(Oral Histories: The Inevitables, 2024-04-27)</small> Dave later described the tree of pain as strung with undying mortals who showed a glimmer of remembering what had been erased, and said it could be removing those memories from reality to protect reality, harvesting them to discover the truth, or both. <small>(Oral Histories: The Inevitables, 2024-12-22)</small>
 
+At the end of the pilgrimage, at the Shrike Palace, Jim Smallberries submitted to a vision of [Rachel](/people/rachel/), who proved to be an avatar of [Cypher](/people/stonecypher/), the three-fold goddess who is also Eloise and Istus. He entered the tree of pain, faced the Shrike alone in a psychic battle, and left this time realm. Where he went is not settled: it may have been the end of time, or a vision of a future in which humanity has ascended and looks backward to destroy the Shrike and the Lexicon. He next appeared on the bridge of [the SSJ Zanzibar](/items/the-ssj-zanzibar/), as the Shrike. <small>(Dave, 2026-11-21)</small>
+
 ### The Starsong Awakens
 
 Fifteen years later the crew of *[The Starsong Awakens](/history/the-starsong-awakens/)* found Necis itself gone, and the Time Tombs, six in number, standing among the rubble. Nine had memories of stories his father told him: of Time Tombs, six in number, and of a Shrike, some kind of artificial intelligence, that was destroyed. The crew split up. [Paytra](/people/paytra/) and [Kol Hanaka](/people/kol-hanaka/) took the Pyramid; [Nine](/people/nine/) and OU812 took the Jade Temple; [Marcel Martel](/people/marcel-martel/) and [Weld](/people/umwelt/) took the Labyrinth, each pair carrying sending stones. <small>(JL's DM notes: Starfall Awakens Notes)</small>
@@ -97,7 +100,7 @@ He meant to advise high command to suspend the operation, evacuate Necis and det
 
 **The temple with the tree.** In a temple beside a great tree, Marcel and Weld watched Sovereign scientists trying to recreate an Astralex; all they could make was something like a magic eight-ball, an illusion caught in a time loop. A man in a brown cloak with a long, drawn face, who called himself William, told them to leave or be trapped there forever as he was: "This is a place of death. Men come. Men die. Over and again." He had come from a far star torn apart by war and factionalism, dreaming of a new start. He was [Sad King Billy](/people/zanzibar-william-the-melancholy/), though the pair did not know it then. By his account the place is cursed by chronurgy, a nexus of black magic; the end of the universe begins there, and the universe begins there again after the end; the last time everyone died, it started there, and it never happens the same way twice. The Sphinx, he said, is the most unstable of the temples, the alpha and the omega, "a temple to hubris". The scientists were caught in a loop of the years after the Battle of Tannhauser Gate, when the Sovereignty moved in and tried to rebuild the Lexicon. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 
-**The Pyramid.** Paytra and Kol met [Dr. Horgus](/people/horgus-simianis/), a small grey-haired hadozee in a stained lab coat, his eyes a little mad, who used the tombs as a quiet place for his research and could not say whether he had been there decades or centuries, or both, or neither. He introduced his wife, [Katrina](/people/katrina-mcquaid/), a shambling hulk stitched together from the head of a tabaxi, the arms of an elf and huge orcish thighs. <small>(JL's DM notes: Starfall Awakens Notes)</small>
+**The Pyramid.** Paytra and Kol met [Dr. Horgus](/people/horgus-simianis/), a small grey-haired hadozee in a stained lab coat, his eyes a little mad, who used the tombs as a quiet place for his research and could not say whether he had been there decades or centuries, or both, or neither. He introduced his wife, [Katrina](/people/katrina-mcquaid/), a shambling hulk stitched together from the head of a tabaxi, the arms of an elf and huge orcish thighs. <small>(JL's DM notes: Starfall Awakens Notes)</small> Katrina had been killed on the bridge of the Zanzibar at the end of *Light of Xaryxis*, and Horgus had teleported away with her body. <small>(Dave, 2026-11-21)</small>
 
 Back aboard the Terrasque, the mechanical minotaur Kraszch told returning crew that they had been gone for days and were the first back, and that mind flayers had arrived, fought a couple of Lamprays, and then simply sat there. <small>(JL's DM notes: Starfall Awakens Notes)</small>
 

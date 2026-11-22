@@ -69,6 +69,7 @@ sources:
   - 'The Starsong Awakens site (JL Byrd): New ships'
   - "JL's DM notes: Starfall Awakens Notes"
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 gallery:
   - src: /images/chat/2022-07-24-766221108028806.webp
     alt: Hyperion Titara miniature
@@ -141,7 +142,7 @@ In May 2023, for the assault on a derelict ship in Doomspace, Dave gave Sandy an
 
 In December 2023 Sandy, Jim and Caprica were on the remote planet of Necis 1. In January 2024 the three set out on a sojourn that severed them from Astral Command, which Dave foretold would make them the greatest officers in its thousand-year history, whether they lived or died. <small>(Oral Histories: The Inevitables, 2023-12-22, 2024-01-06)</small> Crossing the sea of grass by windwheel, Sandy fought as a buff machine and almost a tank, beside Caprica as blaster and Jim as control and utility, against a CR 8 semi-hydra. <small>(Oral Histories: The Inevitables, 2024-02-10)</small>
 
-In the finale of 2024-05-31 Sandy had her best session of the campaign. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> She carried the memory of what happened on Necis, to the Consul and at [the Time Tombs](/places/the-time-tombs/), so the Hyperion entity knows everything that happened to her there. She does not know what became of her crewmates, because [Carlos Vega](/people/carlos-vega/) scattered everyone without warning. <small>(Oral Histories: The Inevitables, 2024-06-09)</small>
+In the finale of 2024-05-31 Sandy had her best session of the campaign. <small>(Oral Histories: The Inevitables, 2024-06-02)</small> Aboard the Zanzibar she and Caprica fought the undead crew, grey cloaks into whom [the Demoncore](/items/the-demoncore/) had leaked, until the party fled and Caprica was left to fly the ship into the black hole of [Doomspace](/places/doomspace/). <small>(Dave, 2026-11-21)</small> She carried the memory of what happened on Necis, to the Consul and at [the Time Tombs](/places/the-time-tombs/), so the Hyperion entity knows everything that happened to her there. She does not know what became of her crewmates, because [Carlos Vega](/people/carlos-vega/) scattered everyone without warning. <small>(Oral Histories: The Inevitables, 2024-06-09)</small>
 
 ### After the Zanzibar
 

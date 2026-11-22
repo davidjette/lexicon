@@ -99,7 +99,7 @@ The session of 16 February ended the season with the pilgrims about to reach the
 
 When play returned to the present in April 2024, [Carlos Vega](/people/carlos-vega/)'s third wish took the Zanzibar to [Sigil](/places/sigil/), and the pilgrims were left extremely far away and out of contact. Seen from the ground, an attack looked like the work of beholders, but the attackers were found to be cybrids, controlled by Lexicon entities. Jim and his crew had gone off as an independent force, all brought to a world that had been erased from the Lexicon, because Caprica followed [the Starsong](/lore/the-starsong/) and brought them along. <small>(Oral Histories: The Inevitables, 2024-04-06)</small>
 
-At Sigil the Zanzibar's crew took what they knew to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), who spoke against the Lexicon in the Sovereign Senate and, after an attempt on her life, helped the crew escape in her own vessel. That thread ran beside the last sessions of the pilgrimage.
+At Sigil the Zanzibar's crew took what they knew to Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), who spoke against the Lexicon in the Sovereign Senate and, after the Lexicon and its cybrid agents made an attempt on her life with a blast at the senate, helped the crew escape in her own vessel. <small>(Dave, 2026-11-21)</small> That thread ran beside the last sessions of the pilgrimage.
 
 ## The Time Tombs
 
@@ -111,4 +111,8 @@ The pilgrims had innocents with them whom they would not leave behind, so they d
 
 ## The white light
 
-On 10 May 2024 the party walked into the white light, while [Mordecai](/people/mordecai/) and [Irina Malikovsky](/people/irina-malikovsky/) were set to try to take the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-05-11)</small> [The finale](/history/the-wreck-of-the-zanzibar/) followed on 31 May. Necis, where the Time Tombs stood and the Shrike originated, is where the climax of Starfall took place. <small>(sources/dave/2026-09-14-starfall-necis.md)</small>
+On 10 May 2024 the party walked into the white light, while [Mordecai](/people/mordecai/) and [Irina Malikovsky](/people/irina-malikovsky/) were set to try to take the Zanzibar. <small>(Oral Histories: The Inevitables, 2024-05-11)</small>
+
+At the Shrike Palace on Necis, Jim submitted to a vision of [Rachel](/people/rachel/), who proved to be an avatar of [Cypher](/people/stonecypher/), the three-fold goddess who is also Eloise and Istus. He entered the tree of pain and faced [the Shrike](/lore/the-shrike/) alone in a psychic battle, and then left this time realm. Where he went is not settled: it may have been the end of time, or a vision of a future in which humanity has ascended and looks backward to destroy the Shrike and the Lexicon. He then appeared on the bridge of the Zanzibar as the Shrike, at the moment the deployment of [the Demoncore](/items/the-demoncore/) aboard the ship was nearly complete. <small>(Dave, 2026-11-21)</small>
+
+[The finale](/history/the-wreck-of-the-zanzibar/) followed on 31 May. Necis, where the Time Tombs stood and the Shrike originated, is where the climax of Starfall took place. <small>(sources/dave/2026-09-14-starfall-necis.md)</small>

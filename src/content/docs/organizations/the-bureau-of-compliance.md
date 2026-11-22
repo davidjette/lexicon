@@ -61,7 +61,7 @@ campaigns:
 
 *Also known as:* the Bureau · Blade Runners (its agents)
 
-**The Bureau of Compliance** is the agency of *The Starsong Awakens* that hunts illegal artificial intelligence, which [the Starweaver Act](/lore/the-starweaver-act/) outlawed in [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). It was created to enforce the Act, with authority to act as a paramilitary arm of the Sovereign government. Its agents are called Blade Runners. The rookie agents [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/) were assigned to [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril to find the source of illegal AI there. Paytra died in the finale of that assignment, and she and Kol returned as robots.
+**The Bureau of Compliance** is the agency of *The Starsong Awakens* that hunts illegal artificial intelligence, which [the Starweaver Act](/lore/the-starweaver-act/) outlawed in [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/). It was created to enforce the Act, with authority to act as a paramilitary arm of the Sovereign government. It replaced the grey cloaks of [OSR3G](/organizations/osr3g/), and it hunts and destroys androids, warforged and all artificial intelligence. Its agents are called Blade Runners. The rookie agents [Kol Hanaka](/people/kol-hanaka/) and [Paytra](/people/paytra/) were assigned to [Brownsleeve City](/places/brownsleeve-city/) on the moon of Toril to find the source of illegal AI there. Paytra died in the finale of that assignment, and she and Kol returned as robots.
 
 ## Background
 
@@ -69,7 +69,7 @@ A year after [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-g
 
 The Company's dossier on the Bureau records that the Sovereign Senate passed "The Starweaver Act", which made the possession or dissemination of artificial intelligence a crime within Sovereign territory, carrying a penalty of not more than 1,000 years in prison. The Bureau of Compliance was created to enforce the new law. Given authority to act as a paramilitary arm of the Sovereign government, it "pursues and destroys A.I. and those who seek to perpetuate it." <small>(The Starsong Awakens site, Company dossier)</small> The dossier gives its status as active and its location as the Sovereignty.
 
-The Bureau took the place of the grey cloaks of [OSR3G](/organizations/osr3g/), the intelligence corps of Astral Command, who were disbanded after the betrayal of [the Lexicon](/items/the-lexicon/) was revealed. Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), for whom the Act is named, spearheaded the ban.
+The Bureau took the place of the grey cloaks of [OSR3G](/organizations/osr3g/), the intelligence corps of Astral Command, who were disbanded after the betrayal of [the Lexicon](/items/the-lexicon/) was revealed at the Battle of Tannhauser Gate. A replacement crew of grey cloaks had manned the SSJ Zanzibar in that battle, and the Demoncore the ship carried leaked into them. <small>(Dave, 2026-11-21)</small> Admiral [Andromeda Starweaver](/people/andromeda-starweaver/), for whom the Act is named, spearheaded the ban.
 
 ## Agents and equipment
 

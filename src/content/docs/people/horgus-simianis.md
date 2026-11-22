@@ -49,6 +49,7 @@ sources:
   - 'The Starsong Awakens site (JL Byrd): New magic items'
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/sessions/korth-2026-11-20-summary.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 gallery:
   - src: /images/chat/2024-05-03-1099651471068892.webp
     alt: Robed simian sorcerer
@@ -61,7 +62,7 @@ campaigns:
 
 *Also known as:* Ensign Horgus · Horg · Horgus Simiani
 
-**Horgus Simianis** is a monkey necromancer, brain surgeon and quantum biologist of the science department of [Astral Command](/organizations/astral-command/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by Dave. An Academy contemporary of [Jim Smallberries](/people/captain-jim-smallberries/) and [Katrina McQuaid](/people/katrina-mcquaid/), he was the partner of Katrina, a grey cloak of [OSR3G](/organizations/osr3g/), in a secret program built around [the Demoncore](/items/the-demoncore/). During [the Beholder War](/history/the-beholder-war/) they left Jim's group stranded on [Negroni Prime](/places/negroni-prime/) to recover it, and they returned in the final season of *[Light of Xaryxis](/history/light-of-xaryxis/)*. By the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* he was dead, and hairs recovered after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) had been made into the Wand of Horgus Hairs.
+**Horgus Simianis** is a monkey necromancer, brain surgeon and quantum biologist of the science department of [Astral Command](/organizations/astral-command/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by Dave. An Academy contemporary of [Jim Smallberries](/people/captain-jim-smallberries/) and [Katrina McQuaid](/people/katrina-mcquaid/), he was the partner of Katrina, a grey cloak of [OSR3G](/organizations/osr3g/), in a secret program built around [the Demoncore](/items/the-demoncore/). During [the Beholder War](/history/the-beholder-war/) they left Jim's group stranded on [Negroni Prime](/places/negroni-prime/) to recover it, and they returned in the final season of *[Light of Xaryxis](/history/light-of-xaryxis/)*. In its finale Jim, as [the Shrike](/lore/the-shrike/), killed Katrina, and Horgus teleported away with her body. By the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* he was dead, and hairs recovered after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) had been made into the Wand of Horgus Hairs.
 
 ## Background
 
@@ -92,6 +93,8 @@ Horgus and Katrina were later aboard [the SSJ Stonecypher](/items/the-ssj-stonec
 ### The finale
 
 Before the finale of *Light of Xaryxis*, Horgus upgraded his own barrier tattoo and Katrina's. In Dave's ruling Jim's matching tattoo was magically upgraded as well, probably without his knowledge. <small>(Oral Histories: The Inevitables, 2024-05-31)</small>
+
+In the finale Horgus and Katrina were on the bridge of the Zanzibar, which had been outfitted with the Demoncore to deliver it toward Toril, when Jim Smallberries appeared there as the Shrike at the moment the deployment was nearly complete. Jim fought them both and killed Katrina, and Horgus teleported away with her body. <small>(Dave, 2026-11-21)</small>
 
 ## The Starsong Awakens
 

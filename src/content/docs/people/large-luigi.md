@@ -60,6 +60,8 @@ The Zanzibar's bartender is a [beholder](/species/beholders/). <small>(Oral Hist
 
 The Zanzibar's crew roster lists Large Luigi among its civilians and guests. <small>(crew roster, Oral Histories: The Inevitables, 2023-01-27)</small>
 
+While Captain Smallberries was away on Necis the Zanzibar was decommissioned and given a replacement crew of grey cloaks, into whom the Demoncore leaked at [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). <small>(Dave, 2026-11-21)</small> Where Luigi was by then, and what he did at the battle, is not stated.
+
 ## The Starsong Awakens
 
 By the time of *[The Starsong Awakens](/history/the-starsong-awakens/)*, fifteen years later, Luigi was known only as prisoner LL849 and had spent those years in a high-security OSR3G facility, awaiting trial for treason and crimes against the Sovereignty. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>

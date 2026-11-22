@@ -37,3 +37,27 @@ Later the same day, on her part in Starfall. Verbatim.
 Later again the same day. Verbatim.
 
 > After the tragedy, she becomes a symbol for anti-AI sentiment and reaction and spearheads the banning of the Lexicon and all artificial minds. The Grey Cloaks are disbanded and replaced by a force that hunts and destroys androids, warforged, and all AI. Thats the setup for the Starsong Awakens.
+
+## The end of Light of Xaryxis
+
+Later again the same day, answering five questions after the Starfall record had been read. Verbatim.
+
+**What was "the tragedy", and did the Demoncore go off over the home worlds?**
+
+> no, the crew managed ot broadcast the signal which disabled the Lexicon in the fleet before they launched at the Battle of Tanhauser Gate.  The Zanzibar had been outfitted with the demoncore to deliver it toward Toril and was disabled, causing it to leak into the crew onboard (a replacemnet grey cloak crew as the Zanzibar had been decommissioned in Smallberries' absence)
+
+**Was the Senate blast the attempt on Starweaver, and who was behind it?**
+
+> yes it was, the lexicon and its cybrid agents did it
+
+**What was her vessel called?**
+
+> I forget
+
+**Is the Bureau of Compliance the force that replaced the Grey Cloaks?**
+
+> yes
+
+**Who are the man and the woman in the Shrike line of 2024-12-22?**
+
+> in a strange and psychological end to that storyline, jim at the Shrike Palace on Necis submits to a vision of Rachel, who turns out to be an avatar of Cypher/Eloise/Istus. He enters the tree of pain and then faces the Shrike alone in a psychic battle, then exits this time realm (the end of time? a vision of some future where humanity has ascended but looks backward to destroy the shrike and the lexicon?) and appears on the bridge of the Zanzibar at the moment of its nearly completing the deployment of the demoncore, AS THE SHRIKE, then battles katrina and horgus, kills her, horgus teleports away with her body, and then sandy and caprica fight the undead crew, until they flee and leave caprica to fly the ship into the doomspace black hole.

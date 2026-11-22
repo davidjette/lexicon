@@ -78,6 +78,7 @@ sources:
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/dave/2026-09-28-starfall-jl-nico-answers.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 gallery:
   - src: /images/chat/2022-05-01-969613280371931.webp
     alt: Caprica's HeroForge miniature
@@ -117,7 +118,7 @@ campaigns:
 
 *Also known as:* Lt. Caprica · the singer of stars
 
-**Caprica** is an astral elf druid of the Circle of Stars, played by Nico, who served as pilot and science officer of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) of [Astral Command](/organizations/astral-command/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). Born in the constellation Capricorn, she graduated first in her class from the Academy and chose the Zanzibar as her best chance to find [the star song](/lore/the-starsong/), a call she heard from the stars. She took command of the ship to save Captain [Jim Smallberries](/people/captain-jim-smallberries/) during the mind flayer crisis, led the command crew to [Necis](/places/necis/) by following the star song, and walked with Jim and [Sandy](/people/hyperion-tidzan-dassiya/) on the [Shrike pilgrimage](/history/the-shrike-pilgrimage/). She died at the end of *Light of Xaryxis* in finding the answer to the star song, spoken to by an avatar of Cypher. Fifteen years later, in *[The Starsong Awakens](/history/the-starsong-awakens/)*, the Company sought to resurrect her, and her body was recovered.
+**Caprica** is an astral elf druid of the Circle of Stars, played by Nico, who served as pilot and science officer of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) of [Astral Command](/organizations/astral-command/) in *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of [Starfall: TNG](/lore/starfall-the-next-generation/). Born in the constellation Capricorn, she graduated first in her class from the Academy and chose the Zanzibar as her best chance to find [the star song](/lore/the-starsong/), a call she heard from the stars. She took command of the ship to save Captain [Jim Smallberries](/people/captain-jim-smallberries/) during the mind flayer crisis, led the command crew to [Necis](/places/necis/) by following the star song, and walked with Jim and [Sandy](/people/hyperion-tidzan-dassiya/) on the [Shrike pilgrimage](/history/the-shrike-pilgrimage/). She died at the end of *Light of Xaryxis*, left to fly the Zanzibar into the black hole of Doomspace, in finding the answer to the star song, spoken to by an avatar of Cypher. Fifteen years later, in *[The Starsong Awakens](/history/the-starsong-awakens/)*, the Company sought to resurrect her, and her body was recovered.
 
 ## Background
 
@@ -147,7 +148,7 @@ Necis 1 is a world erased from [the Lexicon](/items/the-lexicon/). Jim and his c
 
 ### Death
 
-In the finale of 2024-05-31, against the Shrike, Caprica died in finding the answer to the star song. <small>(Oral Histories: The Inevitables, 2024-05-31, 2024-06-01, 2024-06-03)</small> An avatar of Cypher, existing in that distant future, spoke to her in the star song. <small>(Oral Histories: The Inevitables, 2024-12-22)</small> The next day the table hoped she had survived: Dave pointed to a shuttle left on the Zanzibar and suggested someone might have rescued her off screen. <small>(Oral Histories: The Inevitables, 2024-06-01, 2024-06-03)</small> His epitaph for her named her the singer of stars, whose song rings through the phlogiston forever. <small>(Oral Histories: The Inevitables, 2024-06-03)</small>
+In the finale of 2024-05-31, against the Shrike, Caprica died in finding the answer to the star song. <small>(Oral Histories: The Inevitables, 2024-05-31, 2024-06-01, 2024-06-03)</small> An avatar of Cypher, existing in that distant future, spoke to her in the star song. <small>(Oral Histories: The Inevitables, 2024-12-22)</small> By then the Zanzibar carried an undead crew, grey cloaks into whom [the Demoncore](/items/the-demoncore/) had leaked, and Jim had come to the bridge as [the Shrike](/lore/the-shrike/). Caprica and Sandy fought the undead crew until the party fled, and Caprica was left to fly the ship into the black hole of [Doomspace](/places/doomspace/). <small>(Dave, 2026-11-21)</small> The next day the table hoped she had survived: Dave pointed to a shuttle left on the Zanzibar and suggested someone might have rescued her off screen. <small>(Oral Histories: The Inevitables, 2024-06-01, 2024-06-03)</small> His epitaph for her named her the singer of stars, whose song rings through the phlogiston forever. <small>(Oral Histories: The Inevitables, 2024-06-03)</small>
 
 After the finale the Lexicon was known to have fled [Sigil](/places/sigil/) to escape the Starsong. <small>(Oral Histories: The Inevitables, 2024-06-02)</small>
 

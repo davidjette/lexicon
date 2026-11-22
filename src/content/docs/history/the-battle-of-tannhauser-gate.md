@@ -14,6 +14,11 @@ tags:
 - "Large Luigi"
 - "Buttsack"
 - "Horgus Simianis"
+- "Katrina McQuaid"
+- "Jim Smallberries"
+- "the Shrike"
+- "the Demoncore"
+- "Doomspace"
 - "Medal of Valorous Service"
 - "Starweaver Act"
 - "Sovereign Supreme"
@@ -28,7 +33,7 @@ fields:
   type: "Battle"
   location: "Unknown"
   date: "Fifteen years before The Starsong Awakens"
-  participants: "Caprica, at the helm of the SSJ Zanzibar"
+  participants: "Caprica, at the helm of the SSJ Zanzibar; Hyperion Tidzan-Dassiya; Jim Smallberries, as the Shrike; Katrina McQuaid and Horgus Simianis; a replacement crew of grey cloaks aboard the Zanzibar"
   outcome: "In the Company dossier, Caprica was lost and the wreck of the Zanzibar was seized by Astral Command"
   consequence: "The Starweaver Act a year later; Timothee Buckets appointed Sovereign Supreme; Istus-class vessels introduced; the T.U.N.E. first detected"
 sources:
@@ -56,7 +61,7 @@ campaigns:
 
 *Also known as:* Tannhauser Gate · the crisis at Tannhauser Gate
 
-The **Battle of Tannhauser Gate** was a battle of the [Starfall: TNG](/lore/starfall-the-next-generation/) era, fought fifteen years before the events of *[The Starsong Awakens](/history/the-starsong-awakens/)*. In the Company dossier, [Caprica](/people/caprica/) was last seen during the battle at the helm of [the SSJ Zanzibar](/items/the-ssj-zanzibar/), spelljamming the ship to the Eye of Doom, and [Astral Command](/organizations/astral-command/) afterwards seized its wreck. [Large Luigi](/people/large-luigi/) was held as the battle's traitor, [Buttsack](/people/buttsack/) was awarded the Medal of Valorous Service and declined it, and hairs of [Horgus Simianis](/people/horgus-simianis/) were recovered after it. A year later [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) passed [the Starweaver Act](/lore/the-starweaver-act/). Reforms that followed the battle made Admiral [Timothee Buckets](/people/timothee-buckets/) Sovereign Supreme, Astral Command introduced its Istus-class vessels, and Company artificers first detected the sonic disruption called the T.U.N.E.
+The **Battle of Tannhauser Gate** was a battle of the [Starfall: TNG](/lore/starfall-the-next-generation/) era, fought fifteen years before the events of *[The Starsong Awakens](/history/the-starsong-awakens/)*. In the Company dossier, [Caprica](/people/caprica/) was last seen during the battle at the helm of [the SSJ Zanzibar](/items/the-ssj-zanzibar/), spelljamming the ship to the Eye of Doom, and [Astral Command](/organizations/astral-command/) afterwards seized its wreck. Before the fleet launched, the Zanzibar's own crew broadcast the signal that disabled [the Lexicon](/items/the-lexicon/) in the fleet, and [the Demoncore](/items/the-demoncore/), which the Zanzibar had been outfitted to deliver toward Toril, leaked into the crew aboard and never went off over the home worlds of the Sovereignty. [Large Luigi](/people/large-luigi/) was held as the battle's traitor, [Buttsack](/people/buttsack/) was awarded the Medal of Valorous Service and declined it, and hairs of [Horgus Simianis](/people/horgus-simianis/) were recovered after it. A year later [the Sovereignty of Realms](/organizations/the-sovereignty-of-realms/) passed [the Starweaver Act](/lore/the-starweaver-act/). Reforms that followed the battle made Admiral [Timothee Buckets](/people/timothee-buckets/) Sovereign Supreme, Astral Command introduced its Istus-class vessels, and Company artificers first detected the sonic disruption called the T.U.N.E.
 
 ## Opening narration
 
@@ -68,6 +73,16 @@ JL opened *The Starsong Awakens* with a narration, marked on his campaign site t
 
 ## The battle
 
+### The Demoncore
+
+The battle closed *[Light of Xaryxis](/history/light-of-xaryxis/)*. The Lexicon had engineered a war of cybrid beholders so as to have its chance to use the Demoncore against the home worlds of the Sovereignty. The SSJ Zanzibar had been decommissioned in the absence of Captain [Jim Smallberries](/people/captain-jim-smallberries/), given a replacement crew of grey cloaks of [OSR3G](/organizations/osr3g/), and outfitted with the Demoncore to deliver it toward Toril. Before the fleet launched, Smallberries's crew broadcast the signal that disabled the Lexicon in the fleet. The Zanzibar was disabled, and the Demoncore leaked into the replacement crew aboard, who became undead. The Demoncore did not go off over the home worlds. <small>(Dave, 2026-11-21)</small>
+
+### The Shrike on the bridge
+
+At the Shrike Palace on [Necis](/places/necis/), Jim submitted to a vision of [Rachel](/people/rachel/), who proved to be an avatar of [Cypher](/people/stonecypher/), the three-fold goddess who is also Eloise and Istus. He entered the tree of pain and faced [the Shrike](/lore/the-shrike/) alone in a psychic battle, and then left this time realm. Where he went is not settled: it may have been the end of time, or a vision of a future in which humanity has ascended and looks backward to destroy the Shrike and the Lexicon. He appeared on the bridge of the Zanzibar as the Shrike, at the moment the deployment of the Demoncore was nearly complete. He fought [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) and killed Katrina, and Horgus teleported away with her body. [Sandy](/people/hyperion-tidzan-dassiya/) and [Caprica](/people/caprica/) fought the undead crew until the party fled, and Caprica was left to fly the ship into the black hole of [Doomspace](/places/doomspace/). <small>(Dave, 2026-11-21)</small>
+
+### The Company dossier
+
 The Company dossier, which Barrias Ruby-Eye's sister [Halle Barrias](/people/halle-barrias/) gives the crew, records the battle in several of its entries. <small>(Oral Histories: The Inevitables, 2024-06-11)</small>
 
 **Caprica.** Lt. Caprica was last seen at the helm of the SSJ Zanzibar, spelljamming the vessel to the Eye of Doom during the battle. The Company calculates the probability of her survival at zero and lists her as deceased. <small>(The Starsong Awakens site, Company dossier)</small> The Eye of Doom is the vortex left in place of the sun of [Doomspace](/places/doomspace/). <small>(Oral Histories: The Inevitables, 2022-11-04)</small>
@@ -76,7 +91,7 @@ The Company dossier, which Barrias Ruby-Eye's sister [Halle Barrias](/people/hal
 
 **Buttsack.** Following the battle Buttsack was awarded the Medal of Valorous Service, and declined it. <small>(The Starsong Awakens site, Company dossier)</small>
 
-**Horgus Simianis.** Hadozee hairs were recovered after the battle, belonging to "the legendary deceased Astral Command hero Horgus Simiani" <small>(sic)</small>. They were crafted into the Wand of Horgus Hairs, a very rare wand that lets a spellcaster attuned to it cast *animate dead* without material components, three times between dawns. <small>(The Starsong Awakens site, New magic items)</small>
+**Horgus Simianis.** Hadozee hairs were recovered after the battle, belonging to "the legendary deceased Astral Command hero Horgus Simiani" <small>(sic)</small>. They were crafted into the Wand of Horgus Hairs, a very rare wand that lets a spellcaster attuned to it cast *animate dead* without material components, three times between dawns. <small>(The Starsong Awakens site, New magic items)</small> Horgus left the Zanzibar during the battle, teleporting away with the body of Katrina McQuaid, whom Jim Smallberries had killed as the Shrike. <small>(Dave, 2026-11-21)</small>
 
 ## Aftermath
 
@@ -107,6 +122,8 @@ Company artificers first detected the Temporarily Unknown Noise Energy (T.U.N.E.
 *[Light of Xaryxis](/history/light-of-xaryxis/)*, the first arc of Starfall, ended with a finale played on 31 May 2024, in which the crew fought the Shrike, the Zanzibar took critical damage, Caprica died, a Wish was cast and the Lexicon fled Sigil. <small>(Oral Histories: The Inevitables, 2024-05-31; 2024-06-01; 2024-06-02)</small> See [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/). JL proposed *The Starsong Awakens* the next day, set fifteen years later, and dated the Starweaver Act to a year after the Battle of Tannhauser Gate. <small>(Oral Histories: The Inevitables, 2024-06-01; 2024-06-02)</small>
 
 Dave's account places the climax of Starfall at [Necis](/places/necis/), the destroyed planet where the Time Tombs stood and the Shrike originated, at the end of *Light of Xaryxis* and of *The Starsong Awakens*. <small>(Dave, sources/dave/2026-09-14-starfall-necis.md)</small> The Company dossier places Caprica's last sighting at the helm of the Zanzibar during the Battle of Tannhauser Gate, bound for the Eye of Doom. <small>(The Starsong Awakens site, Company dossier)</small>
+
+Jim Smallberries joins the two. He left Necis and this time realm from the Shrike Palace and appeared on the bridge of the Zanzibar as the Shrike, and Caprica was left to fly the ship into the black hole of Doomspace, which agrees with the dossier's last sighting of her. <small>(Dave, 2026-11-21)</small> The dossier also has the wreck of the ship seized afterwards by Astral Command. How a wreck was recovered after the ship was flown into the black hole is not stated.
 
 Aboard the SSJ Vanguard in *The Starsong Awakens*, Lt. Commander [Mordecai](/people/mordecai/) says that the Lexicon was destroyed at the Battle of Tannhauser Gate: "When the machine’s duplicity was exposed, the Sovereignty abolished it once and for all." What he holds back is that, as far as the Sovereignty knows, the Lexicon never went away and only stopped speaking to it. <small>(JL's DM notes: Starfall Awakens Notes)</small> The duplicity is the betrayal that the crew of the Zanzibar uncovered in the last seasons of *Light of Xaryxis*, and that Admiral [Andromeda Starweaver](/people/andromeda-starweaver/) spoke against in the Sovereign Senate. See [the Lexicon](/items/the-lexicon/).
 

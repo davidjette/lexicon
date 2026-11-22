@@ -52,6 +52,7 @@ sources:
   - 'The Starsong Awakens site (JL Byrd): Company dossier'
   - 'JL''s DM notes: Starfall Awakens Notes'
   - sources/sessions/korth-2026-11-20-summary.md
+  - sources/dave/2026-11-21-epilogue-answers.md
 gallery:
   - src: /images/chat/2024-05-03-1494683397801553.webp
     alt: Grey Cloak Catrina miniature
@@ -76,7 +77,7 @@ campaigns:
 
 *Also known as:* Catrina · Captain Catrina McQuade · Kat · Cat · Grey Cloak Catrina
 
-Captain **Katrina McQuaid** is a tabaxi ranger, horizon walker and swashbuckler of [Astral Command](/organizations/astral-command/) and a grey cloak of [OSR3G](/organizations/osr3g/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by Nico. She trained at the Astral Command Academy alongside [Jim Smallberries](/people/captain-jim-smallberries/) and [Horgus Simianis](/people/horgus-simianis/), and as a two-star captain was technically the captain of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) while Jim commanded it. In [the Beholder War](/history/the-beholder-war/) she chose to recover [the Demoncore](/items/the-demoncore/) with Horgus over saving the civilians stranded with Jim on [Negroni Prime](/places/negroni-prime/). She fought in the finale of *[Light of Xaryxis](/history/light-of-xaryxis/)*, and by the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* she was dead and memorialised in the name of [a prison in Shadowspace](/places/the-katrina-mcquaid-memorial-prison/).
+Captain **Katrina McQuaid** is a tabaxi ranger, horizon walker and swashbuckler of [Astral Command](/organizations/astral-command/) and a grey cloak of [OSR3G](/organizations/osr3g/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by Nico. She trained at the Astral Command Academy alongside [Jim Smallberries](/people/captain-jim-smallberries/) and [Horgus Simianis](/people/horgus-simianis/), and as a two-star captain was technically the captain of the [SSJ Zanzibar](/items/the-ssj-zanzibar/) while Jim commanded it. In [the Beholder War](/history/the-beholder-war/) she chose to recover [the Demoncore](/items/the-demoncore/) with Horgus over saving the civilians stranded with Jim on [Negroni Prime](/places/negroni-prime/). In the finale of *[Light of Xaryxis](/history/light-of-xaryxis/)* Jim, as [the Shrike](/lore/the-shrike/), killed her on the bridge of the Zanzibar, and by the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* she was dead and memorialised in the name of [a prison in Shadowspace](/places/the-katrina-mcquaid-memorial-prison/).
 
 ## Background
 
@@ -103,6 +104,8 @@ Katrina and Horgus were later aboard [the SSJ Stonecypher](/items/the-ssj-stonec
 By May 2024 her player had her at tenth level as a grey cloak, with five levels of horizon walker, three of swashbuckler and two of fighter. <small>(Oral Histories: The Inevitables, 2024-05-03)</small> Her character sheet gives eleven levels: ranger 5 (Horizon Walker), fighter 3 (Battle Master) and rogue 3 (Swashbuckler). <small>(character sheet)</small>
 
 Before the finale of 31 May 2024 she received a rare Barrier Tattoo. Horgus upgraded his tattoo and Katrina's, and Jim's matching tattoo was upgraded with them, without his knowledge. <small>(Oral Histories: The Inevitables, 2024-05-31)</small>
+
+The Zanzibar, of which she was captain on paper, had been decommissioned in Jim's absence, given a replacement crew of grey cloaks and outfitted with the Demoncore to deliver it toward Toril. Before the fleet launched at [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), Jim's crew broadcast the signal that disabled the Lexicon in the fleet, the ship was disabled, and the Demoncore leaked into the crew aboard, who became undead. At the moment the deployment was nearly complete, Jim appeared on the bridge as the Shrike and fought Katrina and Horgus. He killed her, and Horgus teleported away with her body. <small>(Dave, 2026-11-21)</small>
 
 After the finale her player joked that she was probably now a super zombie robot. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
 

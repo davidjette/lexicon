@@ -33,6 +33,8 @@ sources:
 - "Oral Histories: The Inevitables, 2022-11-05"
 - "Oral Histories: The Inevitables, 2023-05-19"
 - "Oral Histories: The Inevitables, 2024-03-09"
+- "The Starsong Awakens site (JL Byrd): Company dossier"
+- sources/dave/2026-11-21-epilogue-answers.md
 image:
   src: /images/generated/doomspace.webp
   alt: "Doomspace and the Eye of Doom"
@@ -58,6 +60,8 @@ After their stay at Bral the crew of the Zanzibar set off for Doomspace. <small>
 In Doomspace lies the SSJ Stonecypher, a derelict full of undead. The crew had already been aboard once, meeting a hodgepodge of undead, among them vampiric mist, ogre zombies and zombies, and had not found everything on the ship. Before leaving Doomspace they went back to recover a helm for a thri-kreen captain, whose people would otherwise not come with the Zanzibar. [Hyperion Tidzan-Dassiya](/people/hyperion-tidzan-dassiya/) was given an armored spacesuit for the assault. <small>(Oral Histories: The Inevitables, 2023-05-19)</small>
 
 The ship's plight began with [the Demoncore](/items/the-demoncore/). That weapons system, first used in [the Beholder War](/history/the-beholder-war/), later went wrong on the Stonecypher, where a containment breach turned the entire crew undead. <small>(Oral Histories: The Inevitables, 2024-03-09)</small>
+
+At the end of the arc, in [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/), [Caprica](/people/caprica/) was left to fly the Zanzibar into the black hole of Doomspace. <small>(Dave, 2026-11-21)</small> The Company dossier of *The Starsong Awakens* has her last seen spelljamming the ship to the Eye of Doom during [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). <small>(The Starsong Awakens site, Company dossier)</small>
 
 ## Places of interest
 

@@ -13,6 +13,7 @@ tags:
 - Katrina McQuaid
 - Horgus Simianis
 - SSJ Stonecypher
+- SSJ Zanzibar
 - OSR3G
 - Starfall
 - Light of Xaryxis
@@ -32,6 +33,7 @@ sources:
 - sources/dave/2026-11-21-epilogue-answers.md
 - "Oral Histories: The Inevitables, 2024-06-01"
 - "JL's DM notes: Starfall Notes - Barrias' Nightmare session"
+- "Oral Histories: The Inevitables, 2023-05-19"
 campaigns:
   - the-unforeseen-strike-back
   - starfall-tng
@@ -41,7 +43,7 @@ campaigns:
 
 *Also known as:* demoncore
 
-**The Demoncore** is a secret weapons system of [Astral Command](/organizations/astral-command/), capable of turning an entire plane undead. It was first used in [the Beholder War](/history/the-beholder-war/), where [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) served the secret program behind it, and Katrina chose to recover the weapon over saving stranded civilians. A containment breach of the Demoncore later turned the entire crew of [the SSJ Stonecypher](/items/the-ssj-stonecypher/) undead.
+**The Demoncore** is a secret weapons system of [Astral Command](/organizations/astral-command/), capable of turning an entire plane undead. It was first used in [the Beholder War](/history/the-beholder-war/), where [Katrina McQuaid](/people/katrina-mcquaid/) and [Horgus Simianis](/people/horgus-simianis/) served the secret program behind it, and Katrina chose to recover the weapon over saving stranded civilians. A containment breach of the Demoncore later turned the entire crew of [the SSJ Stonecypher](/items/the-ssj-stonecypher/) undead. At the end of *[Light of Xaryxis](/history/light-of-xaryxis/)* it was fitted to [the SSJ Zanzibar](/items/the-ssj-zanzibar/) to be delivered toward Toril. The ship was disabled before the deployment was complete, and the Demoncore leaked into the crew aboard.
 
 ## Composition
 
@@ -75,4 +77,10 @@ Katrina McQuaid and Horgus Simianis were aboard. A Demoncore was detonated on th
 
 The Demoncore was the doing of [the Lexicon](/items/the-lexicon/). In the second and third seasons of *Light of Xaryxis* the Lexicon engineered an attack by beholders that were in fact cybrids, so as to have its chance to unleash the Demoncore on the home worlds of the Sovereignty. [The Shrike](/lore/the-shrike/) came either to stop it or to help it, and which of the two was unclear throughout. [Jim Smallberries](/people/captain-jim-smallberries/) and his crew revealed all of it. The Sovereignty turned on the Lexicon, which fled into cyberspace and deep space, and banned artificial intelligence, all droids and warforged included, on all planets. See [the Starweaver Act](/lore/the-starweaver-act/).
 
-In play the weapon was used once, in the Beholder War, and was breached once by accident, aboard the Stonecypher. Whether it was set off over the home worlds in the present of the arc, and what it struck if it was, is not stated. In the account of Caprica's player, the Zanzibar and the Stonecypher were torn apart together in the finale. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
+### The SSJ Zanzibar
+
+A second use of the Demoncore was attempted at the end of *Light of Xaryxis*, and it was stopped. The SSJ Zanzibar had been decommissioned in Smallberries's absence and given a replacement crew of grey cloaks, and it was outfitted with the Demoncore to deliver it toward Toril. Before the fleet launched at [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/), Smallberries's crew broadcast the signal that disabled the Lexicon in the fleet. The Zanzibar was disabled, and the Demoncore leaked into the replacement crew aboard, who became undead. The Demoncore did not go off over the home worlds. <small>(Dave, 2026-11-21)</small>
+
+At the moment the deployment was nearly complete, Jim Smallberries appeared on the bridge of the Zanzibar as the Shrike. He fought Katrina McQuaid and Horgus Simianis and killed Katrina, and Horgus teleported away with her body. Sandy and [Caprica](/people/caprica/) fought the undead crew until the party fled, and Caprica was left to fly the ship into the black hole of [Doomspace](/places/doomspace/). <small>(Dave, 2026-11-21)</small> See [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/).
+
+The weapon was used once, in the Beholder War. It was breached by accident aboard the Stonecypher, and it leaked aboard the Zanzibar when the second use was stopped. The Stonecypher was already a derelict in Doomspace, its crew undead, when the Zanzibar's crew went aboard it in May 2023, a year before the finale. <small>(Oral Histories: The Inevitables, 2023-05-19)</small> In the account of Caprica's player, the Zanzibar and the Stonecypher were torn apart together in the finale. <small>(Oral Histories: The Inevitables, 2024-06-01)</small>
