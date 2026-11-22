@@ -61,7 +61,7 @@ In Doomspace lies the SSJ Stonecypher, a derelict full of undead. The crew had a
 
 The ship's plight began with [the Demoncore](/items/the-demoncore/). That weapons system, first used in [the Beholder War](/history/the-beholder-war/), later went wrong on the Stonecypher, where a containment breach turned the entire crew undead. <small>(Oral Histories: The Inevitables, 2024-03-09)</small>
 
-At the end of the arc, in [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/), [Caprica](/people/caprica/) was left to fly the Zanzibar into the black hole of Doomspace. <small>(Dave, 2026-11-21)</small> The Company dossier of *The Starsong Awakens* has her last seen spelljamming the ship to the Eye of Doom during [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). <small>(The Starsong Awakens site, Company dossier)</small>
+At the end of the arc, in [the wreck of the Zanzibar](/history/the-wreck-of-the-zanzibar/), [Caprica](/people/caprica/) was left to fly the Zanzibar into the black hole of Doomspace. <small>(Dave, 2026-11-21)</small> The Company dossier of *The Starsong Awakens* has her last seen spelljamming the ship to the Eye of Doom during [the Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/). <small>(The Starsong Awakens site, Company dossier)</small> The wreck was found after the ship had been flown into the black hole, and what magic made that possible was part of the quest of *The Starsong Awakens*. <small>(Dave, 2026-11-21)</small>
 
 ## Places of interest
 

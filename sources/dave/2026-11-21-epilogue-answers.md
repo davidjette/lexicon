@@ -67,3 +67,9 @@ Later again the same day, answering five questions after the Starfall record had
 Later again the same day, answering whether her death in finding the answer to the Starsong and her last flight into the black hole are the same moment. Verbatim.
 
 > caprica dies at the end of the Necis arc and then she reappears during the starsong awakens quest.
+
+## The wreck
+
+Later again the same day, on the dossier having the wreck seized and stored while his account has Caprica flying the ship into the black hole. Verbatim.
+
+> yes the wreck ended up found, what magic made that possible? that was part of the quest
