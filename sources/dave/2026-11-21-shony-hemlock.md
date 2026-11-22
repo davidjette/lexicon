@@ -11,3 +11,7 @@ Sheet numbers come from the D&D Beyond record (character 173865408) as shown in 
 Added 2026-11-22:
 
 > Give him a black cat as a familiar who is often around but not too prominent.
+
+Dave, 2026-11-22, on the look of the character sheet page:
+
+> restyle the character sheet to be more grungy - Eberron in this campaign will be a transitionary period between steampunk magicopolis to cyberpunk grungecore
