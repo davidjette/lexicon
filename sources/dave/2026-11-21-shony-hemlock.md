@@ -7,3 +7,7 @@ Dave's statements in chat while the character sheet page was being built. Verbat
 > Let's pivot to Ryan Gosling in Blade Runner 2049 but a thin and precise elf (disguised) make him african american, lithe, studious, suspicious. give him a cool earring and a stylish suit, I liked your waste coat concept.  he isn't a bladesinger yet so don't hint that.  his handcross bow is reskinned as a futuristic pistol, and his spell focus is his pocket watch which is a 'scroller' mounted with lexical magic.
 
 Sheet numbers come from the D&D Beyond record (character 173865408) as shown in a screen recording of 2026-11-21: Changeling, Rogue 3 (Inquisitive) / Wizard 1.
+
+Added 2026-11-22:
+
+> Give him a black cat as a familiar who is often around but not too prominent.
