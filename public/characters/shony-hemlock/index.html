@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shony Hemlock · The Lexicon</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;0,800;1,400&display=swap">
+<link rel="stylesheet" href="../sheet.css">
+</head>
+<body style="margin:0">
+<div class="sheet">
+
+  <!-- ================= TOP: what you need at the table ================= -->
+  <section class="top" aria-label="Playable numbers">
+    <div class="top-main">
+      <div class="kicker"><a href="../../">The Lexicon</a> &middot; <a href="../">Characters</a></div>
+      <h1 class="wordmark">Shony Hemlock</h1>
+
+      <div class="banner">
+        <div><span class="label">Species</span><b>Changeling</b></div>
+        <div><span class="label">Class</span><b>Rogue 3 (Inquisitive) / Wizard 1</b></div>
+        <div><span class="label">Level</span><b>4</b></div>
+        <div><span class="label">Background</span><b>Inquisitive</b></div>
+        <div><span class="label">Alignment</span><b>Lawful Neutral</b></div>
+        <div><span class="label">Faith</span><b>The Company</b></div>
+      </div>
+
+      <div class="abilities">
+        <div class="ab"><div class="label">Strength</div><div class="mod num">+0</div><div class="score num">11</div><div class="save">Save <b>+0</b></div></div>
+        <div class="ab prof"><div class="label">Dexterity</div><div class="mod num">+2</div><div class="score num">15</div><div class="save">Save <b>+4</b></div></div>
+        <div class="ab"><div class="label">Constitution</div><div class="mod num">+1</div><div class="score num">12</div><div class="save">Save <b>+1</b></div></div>
+        <div class="ab prof"><div class="label">Intelligence</div><div class="mod num">+5</div><div class="score num">20</div><div class="save">Save <b>+7</b></div></div>
+        <div class="ab"><div class="label">Wisdom</div><div class="mod num">+1</div><div class="score num">13</div><div class="save">Save <b>+1</b></div></div>
+        <div class="ab"><div class="label">Charisma</div><div class="mod num">+1</div><div class="score num">12</div><div class="save">Save <b>+1</b></div></div>
+      </div>
+
+      <div class="vitals">
+        <div class="vital shield"><span class="label">Armor Class</span><span class="big num">14</span></div>
+        <div class="vital"><span class="label">Initiative</span><span class="big num">+4</span></div>
+        <div class="vital"><span class="label">Speed</span><span class="big num">30<small> ft.</small></span></div>
+        <div class="vital"><span class="label">Proficiency</span><span class="big num">+2</span></div>
+        <div class="vital hp">
+          <div class="hp-row">
+            <span class="label">Hit Points</span>
+            <span class="big num"><span id="hp-now">26</span> / 26</span>
+          </div>
+          <div class="hp-row">
+            <button type="button" id="hp-minus" aria-label="Take damage">&minus;</button>
+            <input id="hp-amt" type="number" min="1" value="1" inputmode="numeric" aria-label="Amount">
+            <button type="button" id="hp-plus" aria-label="Heal">+</button>
+            <span class="label">Temp</span>
+            <input id="hp-temp" type="number" min="0" value="0" inputmode="numeric" aria-label="Temporary hit points">
+            <button type="button" class="reset" id="hp-reset">Long rest</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="quick">
+        <div class="chip"><span class="n num">13</span><span>Passive Perception</span></div>
+        <div class="chip"><span class="n num">19</span><span>Passive Investigation</span></div>
+        <div class="chip"><span class="n num">15</span><span>Passive Insight</span></div>
+      </div>
+    </div>
+
+    <figure class="portrait">
+      <img src="portrait.jpg" alt="Ink and watercolor portrait of Shony Hemlock: a young man in round glowing spectacles, bow tie and studded leather vest, holding a hand crossbow, with his pale changeling face reflected in a rainy window behind him." width="896" height="1200">
+    </figure>
+  </section>
+
+  <section class="row2">
+    <div class="box stack">
+      <h2>Attacks &amp; Spellcasting <small>1 attack per action</small></h2>
+      <div class="scroll">
+        <table>
+          <thead><tr><th>Attack</th><th>Range</th><th>Hit / DC</th><th>Damage</th><th>Notes</th></tr></thead>
+          <tbody>
+            <tr><td><b>Crossbow, Hand</b><span class="sub">Ranged weapon</span></td><td>30 (120)</td><td><span class="hit">+4</span></td><td><b>1d6+2</b> piercing</td><td><span class="tag">Vex</span> Ammunition, Light, Loading</td></tr>
+            <tr><td><b>Dagger</b><span class="sub">Melee weapon</span></td><td>20 (60)</td><td><span class="hit">+4</span></td><td><b>1d4+2</b> piercing</td><td><span class="tag">Nick</span> Finesse, Light, Thrown. Works with True Strike</td></tr>
+            <tr><td><b><i>Chromatic Orb</i></b><span class="sub">1st level, Wizard</span></td><td>90 ft.</td><td><span class="hit">+7</span></td><td><b>3d8</b></td><td>V/S/M</td></tr>
+            <tr><td><b><i>Catapult</i></b><span class="sub">1st level, Wizard</span></td><td>60 ft.</td><td><span class="hit">DEX 15</span></td><td><b>3d8</b> bludgeoning</td><td>S</td></tr>
+            <tr><td><b>Unarmed Strike</b><span class="sub">Melee attack</span></td><td>5 ft.</td><td><span class="hit">+2</span></td><td><b>1</b> bludgeoning</td><td>Or Grapple / Shove, DC 10</td></tr>
+            <tr><td><b>Sneak Attack</b><span class="sub">Once per turn</span></td><td>&ndash;</td><td>&ndash;</td><td><b>+2d6</b></td><td>Finesse or ranged weapon, with Advantage or an ally within 5 ft. of the target</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="trackers">
+        <span><span class="label">Spell attack</span> <span class="hit">+7</span></span>
+        <span><span class="label">Save DC</span> <span class="hit">15</span></span>
+        <span class="pips"><span class="label">1st-level slots</span>
+          <button type="button" class="pip" id="slot-1" aria-pressed="false" aria-label="1st-level slot 1 used"></button>
+          <button type="button" class="pip" id="slot-2" aria-pressed="false" aria-label="1st-level slot 2 used"></button></span>
+        <span class="pips"><span class="label">Arcane Recovery</span>
+          <button type="button" class="pip sq" id="arcane" aria-pressed="false" aria-label="Arcane Recovery used"></button></span>
+        <span class="pips"><span class="label">Heroic Inspiration</span>
+          <button type="button" class="pip sq" id="insp" aria-pressed="false" aria-label="Heroic Inspiration held"></button></span>
+      </div>
+    </div>
+
+    <div class="box alt stack">
+      <h2>Equipment <small>18 lb. carried, unencumbered</small></h2>
+      <table>
+        <thead><tr><th>Item</th><th>Wt.</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td><b>Crossbow, Hand</b></td><td>3 lb.</td><td>Equipped. Mastery: Vex</td></tr>
+          <tr><td><b>Dagger</b></td><td>1 lb.</td><td>Equipped. Mastery: Nick</td></tr>
+          <tr><td><b>Studded Leather</b></td><td>13 lb.</td><td>Equipped. Light armor, AC 12 + DEX</td></tr>
+          <tr><td><b>Thieves' Tools</b></td><td>1 lb.</td><td>Utility, exploration</td></tr>
+        </tbody>
+      </table>
+      <div class="trackers"><span><span class="label">Gold</span> <span class="hit">3 gp</span></span><span><span class="label">Attuned items</span> none</span></div>
+    </div>
+  </section>
+
+  <div class="rule"><span>The rest of the file</span></div>
+
+  <!-- ================= DETAIL ================= -->
+  <section class="row2">
+    <div class="box stack">
+      <h2>Skills</h2>
+      <ul class="skills">
+        <li><i class="dot"></i><span class="a">DEX</span>Acrobatics<span class="v num">+2</span></li>
+        <li><i class="dot"></i><span class="a">WIS</span>Animal Handling<span class="v num">+1</span></li>
+        <li><i class="dot"></i><span class="a">INT</span>Arcana<span class="v num">+5</span></li>
+        <li class="p"><i class="dot"></i><span class="a">STR</span>Athletics<span class="v num">+2</span></li>
+        <li class="p"><i class="dot"></i><span class="a">CHA</span>Deception<span class="v num">+3</span></li>
+        <li><i class="dot"></i><span class="a">INT</span>History<span class="v num">+5</span></li>
+        <li class="e"><i class="dot"></i><span class="a">WIS</span>Insight<span class="v num">+5</span></li>
+        <li class="p"><i class="dot"></i><span class="a">CHA</span>Intimidation<span class="v num">+3</span></li>
+        <li class="e"><i class="dot"></i><span class="a">INT</span>Investigation<span class="v num">+9</span></li>
+        <li><i class="dot"></i><span class="a">WIS</span>Medicine<span class="v num">+1</span></li>
+        <li><i class="dot"></i><span class="a">INT</span>Nature<span class="v num">+5</span></li>
+        <li class="p"><i class="dot"></i><span class="a">WIS</span>Perception<span class="v num">+3</span></li>
+        <li><i class="dot"></i><span class="a">CHA</span>Performance<span class="v num">+1</span></li>
+        <li class="p"><i class="dot"></i><span class="a">CHA</span>Persuasion<span class="v num">+3</span></li>
+        <li><i class="dot"></i><span class="a">INT</span>Religion<span class="v num">+5</span></li>
+        <li class="p"><i class="dot"></i><span class="a">DEX</span>Sleight of Hand<span class="v num">+4</span></li>
+        <li><i class="dot"></i><span class="a">DEX</span>Stealth<span class="v num">+2</span></li>
+        <li><i class="dot"></i><span class="a">WIS</span>Survival<span class="v num">+1</span></li>
+      </ul>
+      <div class="key"><span class="p"><i class="dot"></i>Proficient</span><span class="e"><i class="dot"></i>Expertise</span></div>
+    </div>
+
+    <div class="box alt stack">
+      <h2>Proficiencies &amp; Languages</h2>
+      <dl>
+        <dt>Armor</dt><dd>Light armor</dd>
+        <dt>Weapons</dt><dd>Simple weapons, bola, hand crossbow, rapier, scimitar, shortsword, weighted chain, whip</dd>
+        <dt>Tools</dt><dd>Thieves' tools, vehicles (space)</dd>
+        <dt>Languages</dt><dd>Common, Dwarvish, Elvish, Gnomish, Thieves' Cant</dd>
+        <dt>Saves</dt><dd>Dexterity, Intelligence</dd>
+      </dl>
+      <h2 style="margin-top:8px">Characteristics</h2>
+      <dl>
+        <dt>Size</dt><dd>Medium</dd>
+        <dt>Type</dt><dd>Fey</dd>
+        <dt>Alignment</dt><dd>Lawful Neutral</dd>
+        <dt>Faith</dt><dd>The Company</dd>
+        <dt>Background</dt><dd>Inquisitive (+2 and +1 both to Intelligence)</dd>
+      </dl>
+    </div>
+  </section>
+
+  <section class="box stack">
+    <h2>On Your Turn</h2>
+    <div class="row3">
+      <div class="stack">
+        <h3><span class="tag">Action</span></h3>
+        <div class="feat"><h3>Attack</h3><p>One attack. With the dagger, <b>Nick</b> lets the Light property's extra attack happen inside the Attack action, once per turn, leaving the Bonus Action free.</p></div>
+        <div class="feat"><h3>Vex (Hand Crossbow)</h3><p>Hit and damage a creature and you have Advantage on your next attack roll against it before the end of your next turn.</p></div>
+        <div class="feat"><h3>Shape-Shift</h3><p>Change appearance and voice. Revert with an action.</p></div>
+        <div class="feat"><h3>Also</h3><p>Dash, Disengage, Dodge, Grapple, Help, Hide, Improvise, Influence, Magic, Ready, Search, Shove, Study, Utilize.</p></div>
+      </div>
+      <div class="stack">
+        <h3><span class="tag ox">Bonus action</span></h3>
+        <div class="feat"><h3>Cunning Action</h3><p>Dash, Disengage, or Hide.</p></div>
+        <div class="feat"><h3>Steady Aim</h3><p>Advantage on your next attack roll this turn if you have not moved. Your Speed is 0 until the end of the turn.</p></div>
+        <div class="feat"><h3>Insightful Fighting</h3><p>Insight (+5) against the target's Deception. On a success, Sneak Attack that target without Advantage for 1 minute, unless you have Disadvantage.</p></div>
+        <div class="feat"><h3>Eye for Detail</h3><p>Perception to spot something hidden, or Investigation to uncover or decipher clues.</p></div>
+        <div class="feat"><h3>Two-Weapon Fighting</h3></div>
+      </div>
+      <div class="stack">
+        <h3><span class="tag">Reaction</span></h3>
+        <div class="feat"><h3>Opportunity Attack</h3></div>
+        <div class="feat"><h3><i>Feather Fall</i></h3><p>1st level, 60 ft.</p></div>
+        <h3 style="margin-top:8px"><span class="tag ox">Free</span></h3>
+        <div class="feat"><h3>Sneak Attack</h3><p>Once per turn, +2d6.</p></div>
+        <div class="feat"><h3>Interact with an Object</h3></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="box alt stack">
+    <h2>Spellbook <small>Intelligence, modifier +5, attack +7, save DC 15, two 1st-level slots</small></h2>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Spell</th><th>Level</th><th>Time</th><th>Range</th><th>Hit / DC</th><th>Effect</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td><b><i>Blade Ward</i></b></td><td>Cantrip</td><td>1 action</td><td>Self</td><td>&ndash;</td><td>Combat</td><td>Concentration, 1 min. V/S</td></tr>
+          <tr><td><b><i>Prestidigitation</i></b></td><td>Cantrip</td><td>1 action</td><td>10 ft.</td><td>&ndash;</td><td>Utility</td><td>1 hour. V/S</td></tr>
+          <tr><td><b><i>True Strike</i></b></td><td>Cantrip</td><td>1 action</td><td>Self</td><td>&ndash;</td><td>Weapon attack</td><td>S/M</td></tr>
+          <tr><td><b><i>Catapult</i></b></td><td>1st</td><td>1 action</td><td>60 ft.</td><td><span class="hit">DEX 15</span></td><td>3d8 bludgeoning</td><td>S</td></tr>
+          <tr><td><b><i>Chromatic Orb</i></b></td><td>1st</td><td>1 action</td><td>90 ft.</td><td><span class="hit">+7</span></td><td>3d8</td><td>V/S/M</td></tr>
+          <tr><td><b><i>Feather Fall</i></b></td><td>1st</td><td>1 reaction</td><td>60 ft.</td><td>&ndash;</td><td>Utility</td><td>1 min. V/M</td></tr>
+          <tr><td><b><i>Find Familiar</i></b> <span class="tag">Ritual</span></td><td>1st</td><td>1 hour</td><td>10 ft.</td><td>&ndash;</td><td>Summoning</td><td>V/S/M</td></tr>
+          <tr><td><b><i>Tenser's Floating Disk</i></b> <span class="tag">Ritual</span></td><td>1st</td><td>1 action, +10 min. as ritual</td><td>30 ft.</td><td>&ndash;</td><td>Movement</td><td>1 hour. V/S/M. Cast as a ritual</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="row2">
+    <div class="box stack">
+      <h2>Rogue Features</h2>
+      <div>
+        <div class="feat"><h3>Core Rogue Traits<span class="src">PHB 2024, p. 129</span></h3><div class="pick">Sleight of Hand, Persuasion, Athletics, Perception</div></div>
+        <div class="feat"><h3>Expertise<span class="src">PHB 2024, p. 129</span></h3><p>Expertise in two skill proficiencies.</p><div class="pick">Insight, Investigation</div></div>
+        <div class="feat"><h3>Sneak Attack<span class="src">PHB 2024, p. 129</span></h3><p>Once per turn you can deal an extra <b>2d6</b> damage to one creature you hit with an attack if you have Advantage on the roll and the attack uses a Finesse or Ranged weapon. The extra damage's type is the same as the weapon's type.</p><p>You don't need Advantage if at least one of your allies is within 5 ft. of the target, the ally doesn't have the Incapacitated condition, and you don't have Disadvantage on the attack roll.</p></div>
+        <div class="feat"><h3>Thieves' Cant<span class="src">PHB 2024, p. 129</span></h3><p>You know Thieves' Cant and one other language of your choice.</p><div class="pick">Elvish</div></div>
+        <div class="feat"><h3>Weapon Mastery<span class="src">PHB 2024, p. 129</span></h3>
+          <p><b>Hand Crossbow (Vex).</b> If you hit a creature with a Hand Crossbow and deal damage to it, you have Advantage on your next attack roll against that creature before the end of your next turn.</p>
+          <p><b>Dagger (Nick).</b> When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. This extra attack can only be made once per turn.</p></div>
+        <div class="feat"><h3>Cunning Action<span class="src">PHB 2024, p. 130</span></h3><p>On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.</p></div>
+        <div class="feat"><h3>Rogue Subclass<span class="src">PHB 2024, p. 130</span></h3><div class="pick">Inquisitive (XGtE)</div></div>
+        <div class="feat"><h3>Steady Aim<span class="src">PHB 2024, p. 130</span></h3><p>As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn, provided that you haven't moved during this turn. After you use it, your Speed is 0 until the end of the current turn.</p></div>
+        <div class="feat"><h3>Ear for Deceit<span class="src">XGtE</span></h3><p>Whenever you make an Insight check to determine whether a creature is lying, treat a roll of 7 or lower on the d20 as an 8.</p></div>
+        <div class="feat"><h3>Eye for Detail<span class="src">XGtE</span></h3><p>You can use a bonus action to make a Perception check to spot a hidden creature or object or to make an Investigation check to uncover or decipher clues.</p></div>
+        <div class="feat"><h3>Insightful Fighting<span class="src">XGtE</span></h3><p>As a bonus action, you can make an Insight check against a creature you can see that isn't incapacitated, contested by the target's Deception check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it, for 1 minute or until you use this feature against a different target.</p></div>
+      </div>
+    </div>
+
+    <div class="stack" style="gap:22px">
+      <div class="box alt stack">
+        <h2>Wizard Features</h2>
+        <div>
+          <div class="feat"><h3>Core Wizard Traits<span class="src">PHB 2024, p. 165</span></h3></div>
+          <div class="feat"><h3>Spellcasting<span class="src">PHB 2024, p. 165</span></h3></div>
+          <div class="feat"><h3>Ritual Adept<span class="src">PHB 2024, p. 166</span></h3><div class="pick">Find Familiar, Tenser's Floating Disk</div></div>
+          <div class="feat"><h3>Arcane Recovery<span class="src">PHB 2024, p. 166</span></h3><p>When you finish a Short Rest, you can recover expended spell slots. The spell slots can have a combined level equal to no more than <b>1</b>, and none of the slots can be level 6 or higher. Once per Long Rest.</p></div>
+        </div>
+      </div>
+
+      <div class="box stack">
+        <h2>Changeling Traits</h2>
+        <div>
+          <div class="feat"><h3>Creature Type<span class="src">EFotA, p. 34</span></h3><p>You're a Fey.</p></div>
+          <div class="feat"><h3>Size and Speed<span class="src">EFotA, p. 34</span></h3><p>Medium. Speed 30 ft.</p></div>
+          <div class="feat"><h3>Changeling Instincts<span class="src">EFotA, p. 34</span></h3><p>Proficiency in two of Deception, Insight, Intimidation, Performance, or Persuasion.</p><div class="pick">Deception, Intimidation</div></div>
+          <div class="feat"><h3>Shape-Shifter<span class="src">EFotA, p. 34</span></h3><p>As an action, you can shape-shift to change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another playable species, though none of your game statistics change.</p><p>You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. This trait doesn't change your clothing and equipment. You stay in the new form until you take an action to revert to your true form.</p></div>
+          <div class="feat"><h3>Languages<span class="src">EFotA</span></h3><p>Common plus two standard languages.</p><div class="pick">Dwarvish, Gnomish</div></div>
+        </div>
+      </div>
+
+      <div class="box alt stack">
+        <h2>Feat</h2>
+        <div>
+          <div class="feat"><h3>Alert<span class="src">PHB 2024, p. 200, from Inquisitive</span></h3>
+            <p><b>Initiative Proficiency.</b> When you roll Initiative, add <b>+2</b> to the roll.</p>
+            <p><b>Initiative Swap.</b> Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>Taken from the D&amp;D Beyond sheet as recorded on November 21, 2026. Hit points, slots and the checkboxes save in this browser only.</footer>
+</div>
+
+<script>
+(function(){
+  var KEY='shony-hemlock-v1', MAX=26;
+  var s={hp:MAX,temp:0,s1:false,s2:false,arcane:false,insp:false};
+  try{var raw=localStorage.getItem(KEY); if(raw){var o=JSON.parse(raw); for(var k in s){ if(k in o) s[k]=o[k]; }}}catch(e){}
+  function save(){ try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){} }
+  function $(id){return document.getElementById(id);}
+  var pips={ 'slot-1':'s1','slot-2':'s2','arcane':'arcane','insp':'insp' };
+  function render(){
+    $('hp-now').textContent=s.hp;
+    $('hp-temp').value=s.temp;
+    for(var id in pips){ $(id).setAttribute('aria-pressed', s[pips[id]]?'true':'false'); }
+  }
+  function amt(){ var n=parseInt($('hp-amt').value,10); return (isNaN(n)||n<1)?1:n; }
+  $('hp-minus').addEventListener('click',function(){
+    var d=amt(), t=Math.min(s.temp,d); s.temp-=t; s.hp=Math.max(0,s.hp-(d-t)); save(); render();
+  });
+  $('hp-plus').addEventListener('click',function(){ s.hp=Math.min(MAX,s.hp+amt()); save(); render(); });
+  $('hp-temp').addEventListener('change',function(){ var n=parseInt(this.value,10); s.temp=(isNaN(n)||n<0)?0:n; save(); render(); });
+  $('hp-reset').addEventListener('click',function(){ s.hp=MAX; s.temp=0; s.s1=false; s.s2=false; s.arcane=false; save(); render(); });
+  Object.keys(pips).forEach(function(id){
+    $(id).addEventListener('click',function(){ s[pips[id]]=!s[pips[id]]; save(); render(); });
+  });
+  render();
+})();
+</script>
+</body>
+</html>
