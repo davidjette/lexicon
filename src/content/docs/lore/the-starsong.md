@@ -96,7 +96,7 @@ Caprica died in the finale, in finding the answer to the star song. <small>(Oral
 
 ## The Starsong Awakens
 
-*The Starsong Awakens* is set fifteen years after *Light of Xaryxis*. Caprica is long dead, and the story opens with a call to action and a dire warning from the sister of [Barrias Ruby-Eye](/people/barrias-ruby-eye/). <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Barrias's sheet records that his sister, [Halle](/people/halle-barrias/), told him about "a star scream related to caprica". <small>(character sheet)</small>
+*The Starsong Awakens* is set fifteen years after *Light of Xaryxis*. Caprica is long dead, and the story opens with a call to action and a dire warning from the sister of [Barrias Ruby-Eye](/people/barrias-ruby-eye/). <small>(Oral Histories: The Inevitables, 2024-06-01)</small> Barrias's sheet records that his sister, [Halle](/people/halle-barrias/), told him about "a star scream related to caprica". <small>(character sheet)</small> Caprica reappears during the quest. <small>(Dave, 2026-11-21)</small>
 
 The Sovereignty and the Vodoni Empire are in a cold war, and the Sovereignty wants to make the Vodoni monsters an easy scapegoat for the awakened starsong. [The Company](/organizations/nimbus-corp/) knows that would disrupt trade, and wants to resurrect Caprica to help find the true source. <small>(Oral Histories: The Inevitables, 2024-06-12)</small>
 

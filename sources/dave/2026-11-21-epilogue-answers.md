@@ -61,3 +61,9 @@ Later again the same day, answering five questions after the Starfall record had
 **Who are the man and the woman in the Shrike line of 2024-12-22?**
 
 > in a strange and psychological end to that storyline, jim at the Shrike Palace on Necis submits to a vision of Rachel, who turns out to be an avatar of Cypher/Eloise/Istus. He enters the tree of pain and then faces the Shrike alone in a psychic battle, then exits this time realm (the end of time? a vision of some future where humanity has ascended but looks backward to destroy the shrike and the lexicon?) and appears on the bridge of the Zanzibar at the moment of its nearly completing the deployment of the demoncore, AS THE SHRIKE, then battles katrina and horgus, kills her, horgus teleports away with her body, and then sandy and caprica fight the undead crew, until they flee and leave caprica to fly the ship into the doomspace black hole.
+
+## Caprica
+
+Later again the same day, answering whether her death in finding the answer to the Starsong and her last flight into the black hole are the same moment. Verbatim.
+
+> caprica dies at the end of the Necis arc and then she reappears during the starsong awakens quest.
