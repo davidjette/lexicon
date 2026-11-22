@@ -266,7 +266,7 @@ Four robot models were offered for play, all immune to psychic damage and vulner
 - **Elixer of Esper Tears** <small>(sic)</small>: a very rare potion granting the psychic power of the Esper for a minute.
 - **Eye of Ao Cannon:** a legendary ship-mounted weapon that can bring life to its vessel or radiant death to a target, consuming a diamond with each shot.
 - **Hey, Hyperion:** a headset that contacts the Hyperion hive mind. See [the Children of Hyperion](/organizations/the-children-of-hyperion/).
-- **Wand of Horgus Hairs:** a very rare wand made with hairs of the legendary deceased Astral Command hero Horgus Simiani, spelled [Horgus Simianis](/people/horgus-simianis/) elsewhere, recovered after the Battle of Tannhauser Gate, that casts animate dead.
+- **Wand of Horgus Hairs:** a very rare wand made with hairs of the legendary deceased Astral Command hero Horgus Simiani, spelled [Horgus Simianis](/people/horgus-simianis/) elsewhere, recovered after the Battle of Tannhauser Gate, that casts animate dead. Horgus had in fact escaped by teleport with Katrina's body, and reappears in this arc. <small>(Dave, 2026-11-21)</small>
 - **Mace of Elistraee:** a very rare +2 mace that sheds light and lets its attuned wielder cast Otto's irresistible dance once a day.
 - **Lexical Scroller:** an illegal device, often sold broken by disreputable vendors, that casts sending, pass without trace, rope trick, dimension door or scrying.
 

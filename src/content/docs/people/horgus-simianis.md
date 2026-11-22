@@ -62,7 +62,7 @@ campaigns:
 
 *Also known as:* Ensign Horgus · Horg · Horgus Simiani
 
-**Horgus Simianis** is a monkey necromancer, brain surgeon and quantum biologist of the science department of [Astral Command](/organizations/astral-command/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by Dave. An Academy contemporary of [Jim Smallberries](/people/captain-jim-smallberries/) and [Katrina McQuaid](/people/katrina-mcquaid/), he was the partner of Katrina, a grey cloak of [OSR3G](/organizations/osr3g/), in a secret program built around [the Demoncore](/items/the-demoncore/). During [the Beholder War](/history/the-beholder-war/) they left Jim's group stranded on [Negroni Prime](/places/negroni-prime/) to recover it, and they returned in the final season of *[Light of Xaryxis](/history/light-of-xaryxis/)*. In its finale Jim, as [the Shrike](/lore/the-shrike/), killed Katrina, and Horgus teleported away with her body. By the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* he was dead, and hairs recovered after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) had been made into the Wand of Horgus Hairs.
+**Horgus Simianis** is a monkey necromancer, brain surgeon and quantum biologist of the science department of [Astral Command](/organizations/astral-command/) in [Starfall: TNG](/lore/starfall-the-next-generation/), played by Dave. An Academy contemporary of [Jim Smallberries](/people/captain-jim-smallberries/) and [Katrina McQuaid](/people/katrina-mcquaid/), he was the partner of Katrina, a grey cloak of [OSR3G](/organizations/osr3g/), in a secret program built around [the Demoncore](/items/the-demoncore/). During [the Beholder War](/history/the-beholder-war/) they left Jim's group stranded on [Negroni Prime](/places/negroni-prime/) to recover it, and they returned in the final season of *[Light of Xaryxis](/history/light-of-xaryxis/)*. In its finale Jim, as [the Shrike](/lore/the-shrike/), killed Katrina, and Horgus teleported away with her body. By the time of *[The Starsong Awakens](/history/the-starsong-awakens/)* he was counted as dead, and hairs recovered after the [Battle of Tannhauser Gate](/history/the-battle-of-tannhauser-gate/) had been made into the Wand of Horgus Hairs. He had escaped, and he reappears in that arc among the Time Tombs of Necis, where he has rebuilt Katrina.
 
 ## Background
 
@@ -98,7 +98,7 @@ In the finale Horgus and Katrina were on the bridge of the Zanzibar, which had b
 
 ## The Starsong Awakens
 
-The **Wand of Horgus Hairs** is a very rare wand, requiring attunement by a spellcaster, crafted with hadozee hairs recovered after the Battle of Tannhauser Gate, "hairs belonging to the legendary deceased Astral Command hero Horgus Simiani". It lets its user cast *animate dead* without material components, and has 3 charges, which it regains at dawn. <small>(The Starsong Awakens site, New magic items)</small>
+The **Wand of Horgus Hairs** is a very rare wand, requiring attunement by a spellcaster, crafted with hadozee hairs recovered after the Battle of Tannhauser Gate, "hairs belonging to the legendary deceased Astral Command hero Horgus Simiani". It lets its user cast *animate dead* without material components, and has 3 charges, which it regains at dawn. <small>(The Starsong Awakens site, New magic items)</small> Horgus was alive. He had escaped by teleport with Katrina's body, and he reappears in *The Starsong Awakens*. <small>(Dave, 2026-11-21)</small>
 
 ### The Time Tombs
 

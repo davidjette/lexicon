@@ -91,7 +91,7 @@ The Company dossier, which Barrias Ruby-Eye's sister [Halle Barrias](/people/hal
 
 **Buttsack.** Following the battle Buttsack was awarded the Medal of Valorous Service, and declined it. <small>(The Starsong Awakens site, Company dossier)</small>
 
-**Horgus Simianis.** Hadozee hairs were recovered after the battle, belonging to "the legendary deceased Astral Command hero Horgus Simiani" <small>(sic)</small>. They were crafted into the Wand of Horgus Hairs, a very rare wand that lets a spellcaster attuned to it cast *animate dead* without material components, three times between dawns. <small>(The Starsong Awakens site, New magic items)</small> Horgus left the Zanzibar during the battle, teleporting away with the body of Katrina McQuaid, whom Jim Smallberries had killed as the Shrike. <small>(Dave, 2026-11-21)</small>
+**Horgus Simianis.** Hadozee hairs were recovered after the battle, belonging to "the legendary deceased Astral Command hero Horgus Simiani" <small>(sic)</small>. They were crafted into the Wand of Horgus Hairs, a very rare wand that lets a spellcaster attuned to it cast *animate dead* without material components, three times between dawns. <small>(The Starsong Awakens site, New magic items)</small> Horgus left the Zanzibar during the battle, teleporting away with the body of Katrina McQuaid, whom Jim Smallberries had killed as the Shrike. He survived, and reappears in *The Starsong Awakens*. <small>(Dave, 2026-11-21)</small>
 
 ## Aftermath
 

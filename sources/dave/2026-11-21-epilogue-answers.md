@@ -73,3 +73,15 @@ Later again the same day, answering whether her death in finding the answer to t
 Later again the same day, on the dossier having the wreck seized and stored while his account has Caprica flying the ship into the black hole. Verbatim.
 
 > yes the wreck ended up found, what magic made that possible? that was part of the quest
+
+## The decommissioning of the Zanzibar
+
+Later again the same day. Verbatim.
+
+> it was decommissioned during that plot, yes. probably temporarily as it was still useful, they fired the crew because they were working against the lexicon.  the astralex aboard the zanzibar tried to kill everyone on board and they deactivated it, then flew back to sigil to report it.  they were decommissioned and most of them arrested when they arrived.
+
+## Horgus
+
+Later again the same day, on the dossier calling him deceased. Verbatim.
+
+> in reality, he escaped the via teleport with katrina's body, and he reappears in starsong awakens also
