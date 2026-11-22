@@ -15,3 +15,7 @@ Added 2026-11-22:
 Dave, 2026-11-22, on the look of the character sheet page:
 
 > restyle the character sheet to be more grungy - Eberron in this campaign will be a transitionary period between steampunk magicopolis to cyberpunk grungecore
+
+Dave, 2026-11-22, on the sheet:
+
+> accomodate true strike for my attacks please
