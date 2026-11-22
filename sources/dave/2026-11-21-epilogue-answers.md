@@ -85,3 +85,9 @@ Later again the same day. Verbatim.
 Later again the same day, on the dossier calling him deceased. Verbatim.
 
 > in reality, he escaped the via teleport with katrina's body, and he reappears in starsong awakens also
+
+## The Stonecypher and the Zanzibar
+
+Later again the same day, asked whether the Stonecypher breach and the Zanzibar leak are one event or two. Verbatim.
+
+> different events
