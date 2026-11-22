@@ -159,6 +159,9 @@ gallery:
 - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-situation-room.webp
   alt: "Eric refuses the Sovereign Council"
   caption: "Lexical rendering: Eric refuses the Sovereign Council - Korth Ep 23, The Father of the Hundreds"
+- src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-spa.webp
+  alt: "Dario and Eric in Roberts's spa"
+  caption: "Lexical rendering: Dario and Eric in Roberts's spa - Korth Ep 23, The Father of the Hundreds"
 campaigns:
   - unforeseen
   - the-unforeseen-strike-back

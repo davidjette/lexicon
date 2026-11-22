@@ -80,6 +80,9 @@ gallery:
   - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-captain.webp
     alt: Roberts introduces Vanessa Redwing and offers Gemma the Revenge
     caption: 'Lexical rendering: Roberts introduces Vanessa Redwing and offers Gemma the Revenge - Korth Ep 23, The Father of the Hundreds'
+  - src: /images/album/korth-ep-23-the-father-of-the-hundreds-the-spa.webp
+    alt: "Dario and Eric in Roberts's spa"
+    caption: "Lexical rendering: Dario and Eric in Roberts's spa - Korth Ep 23, The Father of the Hundreds"
 ---
 
 **The Unforeseen Strikes Back · Korth arc · Episode 23 · DM: Dave**
@@ -409,6 +412,9 @@ At dawn the *Revenge* came down onto a platform on the easternmost peak of a tin
 *The Revenge at Roberts's island.*
 
 He led them down a steep gangplank into the village, greeting the swashbucklers like a mayor, ordered two fisherman's platters, and put the party in his spa. Dario stripped off his armour and got in. Eric joined him.
+
+![Dario and Eric in Roberts's spa](/images/album/korth-ep-23-the-father-of-the-hundreds-the-spa.webp)
+*Dario and Eric in Roberts's spa.*
 
 Roberts took Gemma upstairs to meet someone. She was the fieldmaster of the [Grand Lodge](/places/the-grand-lodge/), a half-elf last seen in hunting clothes and now dressed as a swashbuckler.
 
