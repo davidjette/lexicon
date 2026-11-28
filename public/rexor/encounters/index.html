@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en" data-theme="dark" data-battle="../battle/">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Encounter Builder · The Lexicon</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Spectral+SC:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/theme.css">
+</head>
+<body>
+  <header class="hero">
+    <img src="assets/banner.webp" alt="">
+    <div class="hero-scrim"></div>
+    <div class="hero-text">
+      <div class="kicker"><a href="../">The Lexicon</a> · Encounters</div>
+      <h1>Encounter Builder</h1>
+      <div class="hero-rule"><span></span></div>
+      <p>Add a party or create your own, and match them vs any villain from the multiverse. Test matchups over many iterations and scenarios.</p>
+    </div>
+    <button id="themeBtn" class="btn small ghost" title="Switch between the midnight and parchment themes">Parchment</button>
+  </header>
+
+  <main>
+    <section class="card" id="setup">
+      <div class="card-title">The fight</div>
+      <div class="card-body">
+        <div class="setup-row">
+          <label class="field grow">
+            <span>Encounter</span>
+            <select id="presetSel"></select>
+          </label>
+          <label class="field">
+            <span>Seed</span>
+            <input id="seedInput" type="number" min="1" step="1">
+          </label>
+          <button id="newSeedBtn" class="btn small" title="Pick a new random seed">New seed</button>
+        </div>
+        <p class="where"><span id="presetDm" class="dm-tag" hidden>DM ONLY</span> <span id="presetWhere"></span></p>
+        <p id="presetBlurb" class="blurb"></p>
+        <div id="switches" class="switches"></div>
+        <details id="rulesBox">
+          <summary>Table rules and preparations</summary>
+          <div id="rules" class="rules-grid"></div>
+        </details>
+      </div>
+    </section>
+
+    <div class="cols">
+      <section class="side" id="pcSide">
+        <h2>The party</h2>
+        <div class="adder" id="pcAdder"></div>
+        <div class="cards" id="pcCards"></div>
+      </section>
+
+      <section class="center">
+        <div class="card">
+          <div class="card-title" id="roundTitle">Not started</div>
+          <div class="card-body">
+            <div class="controls">
+              <button id="startBtn" class="btn primary">Roll initiative</button>
+              <button id="stepBtn" class="btn" title="Resolve one action">Step</button>
+              <button id="turnBtn" class="btn" title="Run to the end of this creature's turn">Step turn</button>
+              <button id="roundBtn" class="btn" title="Run to the end of this round">Step round</button>
+              <button id="autoBtn" class="btn" title="Keep stepping on a timer">Auto</button>
+              <button id="endBtn" class="btn" title="Run to the end at once">To the end</button>
+              <button id="resetBtn" class="btn ghost">Reset</button>
+              <button id="battleBtn" class="btn" title="Play this fight out with sprites, picking the party's actions yourself">Battle screen</button>
+              <label class="speed">Speed <input id="speed" type="range" min="1" max="10" value="6"></label>
+            </div>
+            <div id="order" class="order"></div>
+            <div id="pending" class="pending"></div>
+            <div id="result" class="result"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Log</div>
+          <div class="card-body">
+            <div class="log-tools">
+              <label class="field">
+                <span>Show</span>
+                <select id="logFilter"><option value="">Everyone</option></select>
+              </label>
+              <label class="check"><input type="checkbox" id="logCompact"> Outcomes only</label>
+              <span class="grow"></span>
+              <button id="exportTxt" class="btn small">Export .txt</button>
+              <button id="exportMd" class="btn small">Export .md</button>
+            </div>
+            <div id="log" class="log"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="side" id="monSide">
+        <h2>The opposition</h2>
+        <div class="adder" id="monAdder"></div>
+        <div class="cards" id="monCards"></div>
+      </section>
+    </div>
+
+    <section class="card" id="batch">
+      <div class="card-title">Survivability: the same fight many times</div>
+      <div class="card-body">
+        <div class="setup-row">
+          <label class="field">
+            <span>Runs</span>
+            <input id="batchN" type="number" min="10" max="20000" step="10" value="1000">
+          </label>
+          <button id="batchBtn" class="btn primary">Run the batch</button>
+          <div class="progress grow"><div id="batchBar"></div></div>
+        </div>
+        <p class="blurb">A batch runs the fight set up above many times, using the current switches and table rules, with a different seed for each run. It reports how often the party survives.</p>
+        <div id="batchOut"></div>
+      </div>
+    </section>
+
+    <section class="dm-bar" id="dmBar" hidden>
+      <div class="dm-stamp">DM ONLY</div>
+      <div class="dm-body" id="dmBody"></div>
+    </section>
+
+    <footer>
+      D&amp;D 5e (2024) as the table plays it. No map: creatures are in melee with named enemies or at range. Characters from their sheets of 10 October 2026; tactics from the sessions of 2 and 9 October.
+      Monsters marked SRD are from the System Reference Document 5.1 by Wizards of the Coast LLC, used under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>.
+    </footer>
+  </main>
+
+  <dialog id="customDlg">
+    <form method="dialog" id="customForm">
+      <h3>Custom creature</h3>
+      <div class="grid2">
+        <label class="field"><span>Name</span><input name="name" required value="Custom creature"></label>
+        <label class="field"><span>Side</span><select name="side"><option value="monster">Opposition</option><option value="pc">Party</option></select></label>
+        <label class="field"><span>AC</span><input name="ac" type="number" value="16"></label>
+        <label class="field"><span>HP</span><input name="hp" type="number" value="100"></label>
+        <label class="field"><span>Initiative bonus</span><input name="init" type="number" value="2"></label>
+        <label class="field"><span>All saves</span><input name="save" type="number" value="4"></label>
+        <label class="field"><span>Attack name</span><input name="aname" value="Strike"></label>
+        <label class="field"><span>Attacks per turn</span><input name="an" type="number" value="2" min="1"></label>
+        <label class="field"><span>To hit</span><input name="ahit" type="number" value="8"></label>
+        <label class="field"><span>Damage</span><input name="admg" value="2d8+4"></label>
+        <label class="field"><span>Damage type</span><input name="atype" value="slashing"></label>
+        <label class="check"><input type="checkbox" name="aranged"> Ranged</label>
+      </div>
+      <div class="dlg-buttons">
+        <button value="cancel" class="btn ghost" formnovalidate>Cancel</button>
+        <button value="ok" class="btn primary">Add</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="inboxDlg" class="inbox">
+    <h3>Add to the library</h3>
+    <p class="blurb">Send a character sheet or a stat block (PDF, picture or text) or a Lexicon link. Claude reads it overnight, or sooner if Dave runs it, and the character or monster appears in the pickers here and on the battle screen.</p>
+    <form id="inboxLogin" hidden>
+      <p class="blurb">Sign in with your Lexicon editor name and password.</p>
+      <div class="grid2">
+        <label class="field"><span>Name</span><input name="name" autocomplete="username" required></label>
+        <label class="field"><span>Password</span><input name="password" type="password" autocomplete="current-password" required></label>
+      </div>
+      <div class="dlg-buttons">
+        <button type="button" class="btn ghost" data-close>Close</button>
+        <button class="btn primary">Sign in</button>
+      </div>
+    </form>
+    <form id="inboxForm" hidden>
+      <div class="grid2">
+        <label class="field"><span>What it is</span><select name="kind"><option value="character">Character</option><option value="monster">Monster or NPC</option></select></label>
+        <label class="field"><span>Who can see it</span><select name="visibility"><option value="public">Everyone</option><option value="dm">DM only</option></select></label>
+        <label class="field"><span>Name</span><input name="name" required maxlength="80"></label>
+        <label class="field"><span>Campaign</span><input name="campaign" maxlength="60" placeholder="e.g. Sharn"></label>
+      </div>
+      <label class="field"><span>Lexicon link (optional)</span><input name="link" type="url" placeholder="https://davidjette.github.io/lexicon/..."></label>
+      <label class="field"><span>Notes, or paste the stat block here</span><textarea name="notes" rows="4" maxlength="20000"></textarea></label>
+      <div id="inboxDrop" class="drop" tabindex="0">
+        <input id="inboxFiles" type="file" multiple accept=".pdf,.png,.jpg,.jpeg,.webp,.txt,.md,.xml" hidden>
+        Drop sheets here or <u>choose files</u><br><small>PDF, PNG, JPG, WebP, text, Fight Club XML. Up to 5 files.</small>
+      </div>
+      <ul id="inboxPicked" class="picked"></ul>
+      <p id="inboxMsg" class="inbox-msg"></p>
+      <div class="dlg-buttons">
+        <span class="grow muted" id="inboxWho"></span>
+        <button type="button" class="btn ghost" data-close>Close</button>
+        <button class="btn primary" id="inboxSend">Send</button>
+      </div>
+    </form>
+    <div id="inboxListBox" hidden>
+      <div class="label">Submissions</div>
+      <ul id="inboxList" class="inbox-list"></ul>
+    </div>
+  </dialog>
+
+  <script type="module" src="src/ui/app.js?v=mx07tr2o"></script>
+</body>
+</html>
